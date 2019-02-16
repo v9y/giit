@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{allaah tero naam, iish_var tero naam}%
+\film{Hum Dono}%
+\year{1961}%
+\starring{Dev Anand, Sadhana, Nanda}%
+\singer{Lata, chorus}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Surajit Bose
+% Editor: Anurag Shankar
+%         Vinay P Jain
+% Comments: The first stanza was not in the movie but was
+% released on the 78 RPM record.
+\printtitle
+#indian
+%
+allaah tero naam, Ishvar tero naam
+sabako sanmati de bhagavaan
+allaah tero naam ...
+
+is dharatii kaa ruup naa uja.De
+pyaar kii Tha.nDii dhuup naa uja.De
+sabako mile, daataa
+sabako mile
+sukh kaa varadaan
+sabako sanmati de bhagavaan
+allaah tero naam
+
+o saare jag ke rakhavaale
+nirbal ko bal dene vaale
+balavaano.n ko, ~
+balavaano ko de de GYaan
+sabako sanmati de bhagavaan
+allaah tero naam
+
+maa.Ngo.n kaa sinduur naa chhuuTe
+maa.N bahano.n kii aas naa TuuTe
+deh binaa, daataa
+deh binaa, bhaTake naa praaN
+sabako sanmati de bhagavaan
+allaah tero naam
+%
+#endindian
+\endsong
+%

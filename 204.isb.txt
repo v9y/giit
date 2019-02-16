@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ambar kii ek paak suraahii, baadal kaa ek jaam uThaakar}%
+\film{Kadambari}%
+\year{1974}%
+\starring{Shabana Azmi, Vijay Arora}%
+\singer{Asha}%
+\music{Vilayat Khan}%
+\lyrics{Amrita Pritam}%
+%
+% Contributor:
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup)
+%          Swami D. Nigam (nigams@jec330.its.rpi.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Surajit A. Bose
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%         Vinay P Jain
+% Comment: The original poem on which this song is based
+% is significantly differently arranged. The poem has been
+% referenced below for comparison.
+\printtitle
+#indian
+%
+ambar kii ek paak suraahii, baadal kaa ek jaam uThaakar
+ghuu.NT chaa.Ndanii pii hai hamane, baat kufr kii kii hai hamane ...
+
+kaise isakaa karz chukaae.N, maa.Ng ke apanii maut ke haatho.n
+umr kii cholii sii hai hamane, baat kufr kii ...
+
+apanaa isame.n kuchh bhii nahii.n hai, roz-e-adal se usakii amaanat
+usako vahii to dii hai hamane, baat kufr kii ...
+
+% For reference, original poem by Amrita Pritam
+----
+ambar kii ek paak suraahii
+baadal kaa ik jaam uThaaye
+ghuu.NT chaa.Ndanii pii hai hamane
+
+hamane aaj ye duniyaa bechii
+aur ek diin Khariid ke laaye
+baat kufr kii kii hai hamane
+
+sapano.n kaa ek thaan bunaa thaa
+gaj ek kapa.Daa phaa.D liyaa aur
+umr kii cholii sii hai hamane
+
+kaise isakaa karz chukaauu.N
+maa.Ng ke apanii maut ke haatho.n
+ye jo zi.ndagii lii hai hamane
+%
+#endindian
+\endsong
+%
