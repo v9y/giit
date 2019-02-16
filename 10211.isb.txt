@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{muhabbat kar lo jii bhar lo ajii kisane rokaa hai}%
+\film{Aar Paar}%
+\year{1954}%
+\starring{Guru Dutt, Shyama, Shakeela, Jagdish Sethi, Jagdeep, Kumkum, Johny Walker}%
+\singer{Rafi, Geeta, Suman}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10510 [V S Rawat]
+% Transliterator:
+% Credits:  Surajit A. Bose
+% Comments: First film of Kumkum
+%
+\printtitle
+#indian
+%
+ra :	muhabbat kar lo jii bhar lo ajii kisane rokaa hai
+	par ba.De gajab kii baat hai isame.n bhii dhokhaa hai
+gii :	shikaayat kar lo jii bhar lo ajii kisane rokaa hai
+	ho sake to duniyaa chho.D do duniyaa bhii dhokhaa hai
+
+ra :	jahaa.N yah mastii nazar me.n chhaa_ii
+	detaa nahii.n kuchh sujhaa_ii
+gii :	Takaraake nain milataa hai chain
+	muurakh kyo.n rotaa hai
+
+su :	muhabbat kyaa hai suno jii hamase
+	sab kuchh hai isii ke dam se
+ra :	kiyaa ek baar hamane bhii pyaar
+	kuchh bhii nahii.n apanaa hai
+
+	milan chaaho to mile judaa_ii
+	ulfat me.n yahii buraa_ii
+gii :	sab ra.nj bhuul khilataa hai phuul
+	bha.Nvaraa jab milataa hai
+
+	muhabbat se kul jahaa.N Khafaa hai
+	par isame.n ba.Daa mazaa hai
+ra :	jab dil dukhegaa us dam khulegaa
+	isame.n kyaa hotaa hai
+%
+#endindian
+\endsong

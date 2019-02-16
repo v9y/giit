@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shrii raamachandra kRRipaalu bhaja mana}%
+\film{Bharat Milap}%
+\year{1942}%
+\starring{Prem Adeeb, Shahu Modak, Shobhna Samarth, Durga Khote}%
+\singer{Chorus}%
+\music{Shankar Rao Vyas}%
+\lyrics{Goswami Tulsidas}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+% Corrections: Dhananjay Naniwadekar
+% Comment: Shakarrao Vyas used Vishnu Digambar Paluskar's, who was his guru, tune for the composition. The composition is poetically in the maatrik chhand Harigeetika which splits (2- 3-4 - 3-4 - 3-4 - 5); musically it is a Dhrupad, in raag Hameer, and could be the only Hindi film song which uses the percussion taal named 'tevaraa', found only in Dhrupad AFAIK. Tevra (tevaraa) has a 7-beat semantic, not surprising since the metre has a saptamaatrik base. Lata has sung it in 7-beat roopak taal. - Dhananjay Naniwadekar
+
+\printtitle
+#indian
+
+shrii raam -3
+
+shriiraamachandra kRRipaalu bhaja mana haraNa-bhava-bhaya-daaruNaM
+navaka.njalochan ka.njamukha karaka.nja pada-ka.njaaruNaM
+kandarpa agaNita amita-chhabi nava-niila-niiraja-sundaraM
+paTapiita maanahu ta.Dita ruchi shuchi naumi janakasutaavaraM
+bhaja diinabandhu dinesha daanava-daitya-va.nsha-nikandanaM
+raghunanda aana.Ndakanda koshalachanda dasharathanandanaM 
+sira mukuTa kuNDala tilaka chaaru udaara a.ngavibhuuShaNaM 
+aajaanubhuja sharachaapadhara sa.ngraama-jita-kharaduuShaNaM 
+iti vadati tulasiidaasa sha.nkara-sheSha-muni-manara.njanaM
+mama hRRidayaka.nja nivaasa kuru kaamaadi-khala-dalaga.njanaM
+
+shrii raam -3
+
+#endindian
+\endsong

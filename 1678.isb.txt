@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{teraa mujhase hai pahale kaa naataa koii}%
+\film{Aa Gale Lag Ja}%
+\year{1973}%
+\starring{Shashi Kapoor, Sharmila, Shatrughan Sinha, Master Tito}%
+\singer{Kishore, Sushma Shreshtha}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+% Contributor:
+% Transliterator: Anurag Shankar
+% Credits: Pradeep Dubey
+%          Preetham Gopalaswamy
+%          Surajit A. Bose
+% Editor:  Vinay P Jain
+\printtitle
+#indian
+teraa mujhase hai pahale kaa naataa koii
+yuu.N hii nahii.n dil lubhaataa koii
+jaane tuu yaa jaane naa, maane tuu yaa maane naa ...
+
+% This stanza is only in the solo Kishore version
+(dhuaa.N dhuaa.N thaa vo samaa, yahaa.N vahaa.N jaane kahaa.N) -2
+tuu aur mai.n kahii.n mile the pahale
+dekhaa tujhe to dil ne kahaa
+jaane tuu yaa jaane naa, maane tuu yaa maane naa ...
+
+% This stanza is in both versions
+% It is sung by Sushma Shreshtha in the duet version
+(dekho abhii khonaa nahii.n, kabhii judaa honaa nahii.n) -2
+ab ke yuu.N hii mile rahe.nge dono.n
+vaadaa rahaa ye is shaam kaa
+jaane tuu yaa jaane naa, maane tuu yaa maane naa ...
+
+% This stanza is only in the duet version
+% It is sung by Kishore
+vaade gaye baate.n ga_ii.n, jaagii-jaagii raate.n ga_ii.n
+chaahaa jise milaa nahii.n, to bhii hame.n gilaa nahii.n
+apanaa to kyaa jiye mare chaahe kuchh ho
+tujhako to jiinaa raas aa gayaa
+jaane tuu yaa jaane naa, maane tuu yaa maane naa ...
+
+#endindian
+\endsong
+%

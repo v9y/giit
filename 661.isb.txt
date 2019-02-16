@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{hai kalii kalii ke lab par, tere husn kaa fasaanaa}% 
+\film{Lala Rukh}%
+\year{1958}%
+\starring{Shyama, Talat}%
+\singer{Rafi}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@du.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+hai kalii kalii ke lab par, tere husn kaa fasaanaa 
+mere gulsitaa.N kaa sab kuchh, teraa sirf muskuraanaa 
+
+ye khule khule se gesuu, uThe jaise badaliyaa.N sI, 
+ye jhukii jhukI nigaahe.n, gire jaise bijaliyaa.N sI 
+tere naachate qadam me.n hai bahaar kA khazaanaa 
+hai kalii kalii ke lab par, tere husn kaa fasaanaa \threedots
+
+terA jhUmanaa machalanaa, ye nazar badal-badal ke 
+merA dil dha.Dak rahaa hai, tU lachak sa.Nbhal-sa.Nbhalake 
+kahii.n ruk nA jaaye zaalim is mo.D par zamaanaa 
+hai kalii kalii ke lab par, tere husn kaa fasaanaa \threedots
+%
+#endindian
+\endsong
+%

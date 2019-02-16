@@ -1,0 +1,53 @@
+% ITRANS SONG
+
+% Date: 12 Oct 2004 13:12:49 -0700
+% From: v9y@hotmail.com (Vinay)
+
+\startsong
+\stitle{mujhe beKudii ye tuune bhalii chaashanii chakhaaii}%
+\film{Raqs-e-Bismil (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Abida Parveen}%
+\music{Muzaffar Ali}%
+\lyrics{}%
+ 
+% Audio on: Times Today
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 8 Oct 2004
+% Series: Andaaz-e-Bayaan Aur
+% generated using giitaayan
+
+\printtitle
+#indian
+%
+mujhe beKudii ye tuune bhalii chaashanii chakhaaii
+kisii aarazuu kii dil me.n nahii.n ab rahii samaaii
+
+na hazar hai ne Katar hai na razaa hai ne duaa hai
+na Kayaal-e-bandagii hai na tamannaa-e-Kudaaii
+
+% hazar = caution, fear
+% Katar = danger
+
+na makaam-e-guftaguu hai na mahall-e-justajuu hai
+na wahaa.N hawaas pahu.Nche.n na Kirad ko hai rasaaii
+
+% hawaas = senses   
+% Kirad = intelligence
+% rasaaii = arriving, reach
+
+na makii.n hai ne makaa.N hai na zamii.n hai ne zabaa.N hai
+dil-e-benawaa ne mere wahaa.N chhaavanii hai chhaaii
+
+% makii.n = inhabitant/master (of a house), (also) grave
+% dil-e-benawaa = a heart that is without prosperity/indigent
+
+na visaal hai na hizraa.N na suruur hai na Gam hai
+jise kahiye Kwaab-e-Gaflat so wo nii.nd mujhako aaii
+
+% Kwaab-e-Gaflat = sound or unconscious sleep
+%
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{prem ke pujaarii ham hai.n}%
+\film{Prem Pujari}%
+\year{1970}%
+\starring{Dev Anand, Waheeda Rehman}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor: Srinivas Ganti
+% Correction: Vinay P Jain
+% Transliterator: 
+% Credits:
+% Comments: SDB Series #25
+%
+\printtitle
+#indian
+%
+prem ke pujaarii
+prem ke pujaarii ham hai.n, ras ke bhikhaarii 
+ham hai.n prem ke pujaarii
+ho~ prem ke pujaarii
+ 
+(kahaa.N re himaalaa aisaa kahaa.N aisaa paanii
+yahii vo zamiin jisakii duniyaa diivaanii) -2
+sundarii na koii jaisii hai dharatii hamaarii
+prem ke pujaarii ...
+ 
+raajaa gae
+haay 
+(raajaa gae taaj gae badalaa jahaa.N saaraa
+roz magar ba.Dhataa jaaye kaaravaa.N hamaaraa) -2
+phuul ham hazaaro.n leke khushabuu ek hamaarii
+prem ke pujaarii ... 
+%
+#endindian
+\endsong
+%

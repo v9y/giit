@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ghar aajaa ghir aaye badaraa saa.Nvariyaa}%
+\film{Chhote Nawab}%
+\year{1961}%
+\starring{Mahmood, Ameeta}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Raj Ganesan (raj@tsms.tandem.com)
+%          Surajit A. Bose
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%         Vinay P Jain
+\printtitle
+#indian
+%
+ghar aajaa ghir aaye badaraa saa.Nvariyaa
+moraa jiyaa dhak-dhak re chamake bijuriyaa
+
+suunaa-suunaa ghar mohe Dasane ko aaye re
+khi.Dakii pe baiThe-baiThe saarii rain jaaye re
+Tap Tip sunat mai.n to bha_ii re baavariyaa
+
+Thaharaake aaye havaa divalaa bujhaaye re
+laage more a.ngavaa badan kaa.Np jaaye re
+chuTakii lai puuchhe kaahe aaye naa saa.Nvariyaa
+
+kasamas jiyaraa kasak morii duunii re
+pyaasii-pyaasii a.Nkhiyo.n kii galiyaa.N hai suunii re
+jaane mohe laagii kis bairan kii najariyaa
+%
+#endindian
+\endsong
+%

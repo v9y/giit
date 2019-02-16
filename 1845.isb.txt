@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{vahaa.N kaun hai teraa, musaafir jaaegaa kahaa.N}%
+\film{Guide}%
+\year{1965}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits:     Surajit A. Bose
+% Editor:      Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+vahaa.N kaun hai teraa, musaafir, jaaegaa kahaa.N
+dam le le gha.Dii bhar, ye chhaiyaa.N, paaegaa kahaa.N
+vahaa.N kaun hai terA ...
+
+biit gae din, pyaar ke pal-chhin
+sapanaa banii vo raate.n
+bhuul gae vo, tuu bhii bhulaa de
+pyaar kii vo mulaaqaate.n -2
+sab duur a.Ndheraa, musaafir jaaegaa kahaa.N ...
+
+koii bhii terii, raah na dekhe
+nain bichhaaye naa koii
+dard se tere, koii na ta.Dapaa
+aa.Nkh kisii kii naa royii -2
+kahe kisako tuu meraa, musaafir jaaegaa kahaa.N ...
+
+tuune to sabako raah bataaii
+tuu apanii ma.nzil kyuu.N bhuulaa
+sulajhaake raajaa auro.n kii ulajhan
+kyuu.N kachche dhaago.n me.n jhuulaa -2
+kyuu.N naache saperaa
+kyuu.N naache saperaa, musaafir jaaegaa kahaa.N ...
+
+kahate hai.n GYaanii, duniyaa hai faanii
+paanii pe likhii likhaaii
+hai sabakii dekhii, hai sabakii jaanii
+haath kisii ke na aayii -2
+kuchh teraa naa meraa, musaafir jaaegaa kahaa.N ...
+%
+#endindian
+\endsong
+%

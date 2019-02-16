@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mujh ko apanaa banaayaa kisane}%
+\film{Samaapti}%
+\year{1949}%
+\starring{Bharati Devi, Hiralal, Sundar, Talat}%
+\singer{Suprabha Sarkar, Talat}%
+\music{Timir Baran}%
+\lyrics{Pt Bhushan}%
+%
+% Contributor: Dhananjay Naniwadekar
+% Transliterator:
+% Date : 11 August 2002
+% Credits :
+% Comments: 
+%  HFGK has used the incorrect film name 'sampatti',
+%  the correct name is 'samaapti' or 'Samapti'.
+%   - DN, Dec 18
+\printtitle
+#indian
+%
+
+ta : mujh ko apanaa banaayaa kisane
+     tuune, sajaniyaa, tuune
+su : dil me.n dard uThaayaa kisane
+ta : tuune, sajaniyaa, tuune
+su : mujh ko apanaa banaayaa kisane
+ta : tuune, sajaniyaa, tuune
+
+ta : tuune aa.Nkho.n se aa.Nkh milaa_ii
+     mere man me.n aag lagaa_ii
+su : tuune miiThii bolii bolii
+     mere man kii duniyaa Dolii
+ta : priit kaa rog lagaayaa kisane
+     tuune, sajaniyaa, tuune  \threedots
+
+ta : o phuulo.n sa.ng ha.Nsane vaalii
+     dil kii kalii khilaa jaa
+     sun jaa merii raam kahaanii
+su : apanaa giit sunaa jaa
+ta : mujh ko yuu.N  tarasaayaa kisane
+     tuune, sajaniyaa, tuune  \threedots
+
+
+%
+#endindian
+\endsong
+%

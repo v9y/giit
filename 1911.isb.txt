@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ye jo mohabbat hai, ye unakaa hai kaam}%
+\film{Kati Patang}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Correction: Vinay P Jain
+%
+\printtitle
+#indian
+%
+ye jo mohabbat hai, ye unakaa hai kaam
+mahabuub kaa jo, bas lete hue naam 
+mar jaae.n,  miT jaae.n,  ho jaae.n badanaam
+rahane do chho.Do bhii jaane do yaar
+ham naa kare.nge pyaar
+rahane do chho.Do bhii jaane do yaar
+ham naa kare.nge pyaar
+
+(TuuTe agar saaGar nayaa saaGar koI le le
+mere Khudaa dil se koI kisii ke na khele) -2
+dil TuuT jaae to kyaa ho a.njaam
+ye jo \threedots
+
+(aa.Nkhe.n kisii se na ulajh jaae.N mai.n Darataa huu.N
+yaaro hasiino.n kii galii se mai.n guzarataa huu.N) -2
+bas duur hii se kar ke salaam
+ye jo \threedots
+%
+#endindian
+\endsong
+%

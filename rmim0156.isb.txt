@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0156; Created on Jan 26, 2004
+%
+% From: naniwadekar
+% Date: 2002-08-11 23:40:43 PST
+%
+\startsong
+\stitle{mujhako apanaa banaayaa kisane}%
+\film{Samaapti}%
+\year{1949}%
+\starring{Bharati Devi, Hiralal, Sundar, Talat}%
+\singer{Suprabha Sarkar, Talat}%
+\music{Timir Baran}%
+\lyrics{Pt Bhushan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 11 August 2002
+% Credits :
+% Comments: 
+%  HFGK has used the incorrect film name 'sampatti',
+%  the correct name is 'samaapti' or 'Samapti'.
+%   - DN, Dec 18
+\printtitle
+#indian
+%
+tm: mujhako apanaa banaayaa kisane
+     tuune, sajaniyaa, tuune
+ss: dil me.n dard uThaayaa kisane
+tm: tuune, sajaniyaa, tuune
+ss: mujhako apanaa banaayaa kisane
+tm: tuune, sajaniyaa, tuune
+
+tm: tuune aa.Nkho.n se aa.Nkh milaa_ii
+     mere man me.n aag lagaa_ii
+ss: tuune miiThii bolii bolii
+     mere man kii duniyaa Dolii
+tm: priit kaa rog lagaayaa kisane
+     tuune, sajaniyaa, tuune  \threedots
+
+tm: o phuulo.n sa.ng hasane waalii
+     dil kii kalii khilaa jaa
+     sun jaa merii raamakahaanii
+ss: apanaa giit sunaa jaa
+tm: mujhako yuu.N  tarasaayaa kisane
+     tuune, sajaniyaa, tuune  \threedots
+%
+#endindian
+\endsong
+%

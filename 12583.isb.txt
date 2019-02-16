@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{jab Gam-e-ishq sataataa hai to ha.Ns letaa huu.N}%
+\film{Kinare Kinare}%
+\year{1963}%
+\starring{Dev Anand, Meena Kumari, Chetan Anand, Madhu, Ravikant}%
+\singer{Mukesh}%
+\music{Jaidev}%
+\lyrics{Nyay Sharma}%
+%
+% Contributor: BOL ANAMOL #11474 [V S Rawat]
+% Transliterator:
+% Comments:
+% Editor:      Vinay P Jain
+% Credits:     Surajit A. Bose
+%
+\printtitle
+#indian
+%
+(jab Gam\-e\-ishq sataataa hai to ha.Ns letaa huu.N) -2
+haadasaa yaad yah aataa hai to ha.Ns letaa huu.N
+
+(jazbaa\-e-\ishq ke a.njaam pe is duniyaa me.n) -2
+jab koii ashk bahaataa hai to ha.Ns letaa huu.N
+haadasaa yaad yah aataa \threedots
+
+(merii uja.Dii hu_ii duniyaa me.n tamannaa kaa chiraaG) -2
+jab ko_ii aa ke jalaataa hai to ha.Ns letaa huu.N
+
+(ko_ii daavaa nahii.n fariyaad nahii.n ta.ng nahii.n) -2
+(raham jab apane pe aataa hai to ha.Ns letaa huu.N) -2
+jab Gam\-e\-ishq \threedots
+%
+#endindian
+\endsong
