@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye raat ye chaa.Ndanii phir kahaa.N sun jaa dil kii daastaa.N}%
+\film{Jaal}%
+\year{}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Hemant}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye raat ye chaa.Ndanii phir kahaa.N
+sun jaa dil kii daastaa.N
+ye raat\threedots
+
+pe.Do.n kii shaakho.n pe soii soii chaa.Ndanii
+tere khayaalo.n me.n khoii khoii chaa.Ndanii
+aur tho.Dii der me.n thak ke lauT jaaegii
+raat ye bahaar kii phir kabhii na aaegii
+do ek pal aur hai ye samaa, sun jaa\threedots
+
+laharo.n ke ho.nTho.n pe dhiimaa dhiimaa raag hai
+bhiigii havaao.n me.n Tha.nDii Tha.nDii aag hai
+is hasiin aag me.n tuu bhii jalake dekhale
+zi.ndagii ke giit kii dhun badal ke dekhale
+khulane de ab dha.Dakano.n kii zubaa.N, sun jaa\threedots
+
+jaatii bahaare.n hai.n uThatii javaaniyaa.N
+taaro.n ke chhaao.n me.n pahale kahaaniyaa.N
+ek baar chal diye gar tujhe pukaarake
+lauTakar na aae.nge qaafile bahaar ke
+aajaa abhii zi.ndagii hai javaa.N, sun jaa\threedots
+%
+#endindian
+\endsong
+%

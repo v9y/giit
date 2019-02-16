@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{merii nazar ke saamane aa ke ... la.Dakii thii yaa ko_ii chhalaavaa}%
+\film{Kuchh Dil Ne Kahaa}%
+\year{2000}%
+\starring{Rakesh Bapat, Raeema Sen, Nandini Singh}%
+\singer{Udit Narayan}%
+\music{Lalit Sen}%
+\lyrics{Bipin Chandra Chaugule}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii nazar ke saamane aa ke chhup ga_ii vo ik jhalak dikhaa ke
+yaad nahii.n kuchh isake alaavaa la.Dakii thii yaa ko_ii chhalaavaa
+merii nazar ke \threedots
+lall lallaa re
+
+kaajal tujhe banaa luu.Ngii haa.N haa.N haa.N haa.N
+aa.Nkho.n me.n tujhe lagaa luu.Ngii haa.N haa.N haa.N haa.N
+mere kadamo.n me.n dil rakh de mai.n paagal tujhe banaa duu.Ngii
+usake husn kaa thaa ye daavaa
+la.Dakii thii \threedots
+
+palako.n me.n tujhe biThaa luu.Ngaa haa.N haa.N haa.N haa.N
+siine se tujhe lagaa luu.Ngaa haa.N haa.N haa.N haa.N
+kyaa rah jaa_egaa paas tere mai.n sab kuchh teraa churaa luu.Ngaa
+ho mere ishq kaa thaa ye daavaa
+la.Dakii thii \threedots
+%
+#endindian
+\endsong
+

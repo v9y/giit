@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mujhe tum yaad karanaa aur mujh ko yaad aanaa tum}%
+\film{Mashaal}%
+\year{1984}%
+\starring{Anil Kapoor and Rati Agnihotri}%
+\singer{Kishore, Lata}%
+\music{Hridaynath}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: C.S.Sudarshana Bhat 
+% Editor:  
+%
+\printtitle
+#indian
+%
+mujhe tum yaad karanaa aur mujh ko yaad aanaa tum
+mai ik din lauT aauu.ngaa ye mat bhuul jaanaa tum
+
+akelii hogii tum dekho kahii.n aisaa naa ho jaae
+jo ab hoTho.n pe hai musakaan vo musakaan kho jaae
+zaraa logo.n se milanaa tum zaraa ha.nsanaa ha.nsaanaa tum
+mai ik din lauT \threedots
+
+agar la.Dakii tumhe.n koii mile jo khuubasuurat ho
+tumhaarii dostii kii shaayad usako bhii zaruurat ho
+agar vo paas aaye muskuraaye muskuraanaa tum
+magar tum lauT ke aaoge ye mat bhuul jaanaa tum
+%
+#endindian
+\endsong
+%

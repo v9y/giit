@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mohan kii muraliyaa baaje}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+( mohan kii muraliyaa baaje,
+ho sun Thes jiyaa pe more laage ) \-2
+
+duur ko_ii muralii kii dhun par giit milan ke gaaye
+jaane waale yaad me.n terii nii.nd na mujhako aaye
+jab chain se duniyaa soye
+ho ek birahaa tamar man ?? jaage
+
+mohan kii muraliyaa baaje,
+ho sun Thes jiyaa pe more laage
+
+raat kahe dharatii par jag\-mag chaa.Ndanii ban kar barasuu.N
+aise me.n aa ke daras dikhaa jaa haay mai.n ro\-ro tarasuu.N
+dil to.D ke jaane waale
+ho mohe kuchh nahii.n tujh bin saaje
+
+mohan kii muraliyaa baaje,
+ho sun Thes jiyaa pe more laage
+
+luTii.n bahaare.n saawan biitaa TuuT gaye wo sapane
+jab se piyaa parades sidhaare rahe na din wo apane
+haay birahaa ke baadal kaale
+ho chhaayaa ghor a.ndheraa more aage
+
+mohan kii muraliyaa baaje,
+ho sun Thes jiyaa pe more laage
+
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mai.n tere khvaabo.n se ... sab kuchh churaa ke le jaa_uu.Ngaa}%
+\film{Kuchh Dil Ne Kahaa}%
+\year{2000}%
+\starring{Rakesh Bapat, Raeema Sen, Nandini Singh}%
+\singer{Udit Narayan}%
+\music{Lalit Sen}%
+\lyrics{Bipin Chandra Chaugule}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n tere khvaabo.n se chalaa jaa_uu.Ngaa
+mai.n terii raato.n ko jagaa jaa_uu.Ngaa
+terii bi.ndiyaa terii paayal terii ni.ndiyaa teraa kaajal
+sab kuchh churaa ke le jaa_uu.Ngaa
+mai.n tere khvaabo.n \threedots
+
+terii marajii naa ho to paas nahii.n aa_uu.Ngaa
+paas chalaa aa_uu.Ngaa to duur nahii.n jaa_uu.Ngaa
+tere nakhare teraa gussaa tere jhumake teraa Thumakaa
+sab kuchh churaa ke le jaa_uu.Ngaa
+mai.n tere khvaabo.n \threedots
+
+husn pe apane tujhako kitanaa guruur hai
+haa.N tuu javaanii kii mastii me.n chuur hai
+tera ha.Nsanaa teraa ronaa teraa jaganaa teraa sonaa
+sab kuchh churaa ke le jaa_uu.Ngaa
+mai.n tere khvaabo.n \threedots
+%
+#endindian
+\endsong
+

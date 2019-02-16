@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{bholii bhaalii la.Dakii kholuu.n tere dil kii}%
+\film{Sabse Badaa Khilaadi}%
+\year{1995}%
+\starring{Akshay Kumar, Mamta Kulkarni, Mohnish, Sadashiv, Gulshan}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sha \:	bholii bhaalii la.Dakii kholuu.n tere dil kii pyaar vaalii khi.Dakii ho \-2
+a \:	nahii.n nahii.n abhii nahii.n abhii nahii.n piyaa
+	chhe.Do nahii.n aise mujhe Darataa hai jiyaa
+sha \:	bholii bhaalii la.Dakii \threedots
+
+a \:	uupar gagan hai niiche tuu hai sajanaa
+	teraa pyaar haqiiqat hai yaa sapanaa \-2
+sha \:	mai.n premii huu.N tuu dilabar hai
+	kar le muhabbat yahii to umar hai
+a \:	nahii.n nahii.n abhii nahii.n \threedots
+sha \:	bholii bhaalii la.Dakii \threedots
+
+	jhilamil ruup teraa chamake hai aise
+	barakhaa ke sa.ng dhuup khilii ho jaise \-2
+a \:	mast pavan hai tuu Kushbuu hai
+	mere dil me.n tuu hii tuu hai
+sha \:	chorii nahii.n kii hai maine pyaar tujhe kiyaa
+a \:	dil meraa liyaa tuune dil mujhe diyaa
+sha \:	bholii bhaalii la.Dakii \threedots
+%
+#endindian
+\endsong
+

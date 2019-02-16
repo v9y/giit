@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{marane kii duaae.n kyo.n maa.Nguu.n}% 
+\film{Ziddi}%
+\year{1948}%
+\starring{Dev anand}%
+\singer{Kishore}%
+\music{Khemchand Prakash}%
+\lyrics{Prof. Jazbi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: lyrics are somewhat similar to "chingari koi .."
+%           non-Film version rendered by Habib Wali Mohammad also exists
+%
+\printtitle 
+#indian 
+%
+marane kii duaae.n kyo.n maa.Nguu.n 
+jiine ki tamannaa kaun kare, kaun kare 
+ye duniyA ho yA vo duniyA.N, ab khvAhish\-e\-duniyaa kaun kare, kaun kare 
+marane kii \threedots
+
+jo aag lagAI thI tumane  \- 2 
+usako to bujhaayaa ashko.n ne \- 2
+jo ashko.n ne bha.DakAI hai, us aag ko ThaNDaa kaun kare, kaun kare 
+marane kii \threedots
+
+jab kashtii saabit\-o\-saalim thii \- 2
+sAhil ki tamannaa kisako thI \- 2
+ab aish ikaTThaa kashtii par 
+sAhil kii tamannaa kaun kare, kaun kare 
+marane kii\threedots
+%
+%%% i think saabit-o-saalim means boat is safe 
+%
+#endindian
+\endsong
+%

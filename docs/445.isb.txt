@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{dekho mai.n ne dekhaa hai yah ik sapanaa}%
+\film{Love Story}%
+\year{}%
+\starring{Kumar Gaurav, Vijeyta Pandit}%
+\singer{Amit Kumar, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+%
+\printtitle
+#indian
+%
+a:  dekho mai.n ne dekhaa hai yah ik sapanaa
+    phuulo.n ke shahar me.n hai ghar apanaa
+    kyaa samaa hai tuu kahaa.N hai
+la: mai.n aaii aaii aaii aaii
+a:  aa jaa
+la: kitanaa hasiin hai yah ik sapanaa
+    phuulo.n ke shahar me.n hai ghar apanaa
+    kyaa samaa hai tuu kahaa.N hai
+a:  mai.n aayaa aayaa aayaa aayaa
+la: aa jaa
+ 
+a:  yahaa.N teraa meraa naam likhaa
+la: rastaa nahii.n yah aam likhaa hai
+a:  ho, yah hai daravaazaa tuu jahaa.N kha.Dii hai
+la: andar aa jaao sardii ba.Dii hai
+a:  yahaa.N se nazaaraa dekho parvato.n kaa
+la: jhaa.Nkuu.N mai.n kahaa.N se kahaa.N hai jharokhaa
+a:  yah yahaa.N hai, tuu kahaa.N hai
+la: mai.n aaii aaii aaii \threedots
+ 
+la: achchhaa yah bataao kahaa.N pe hai paanii
+a:  baahar bah rahaa hai jharanaa diivaanii
+la: bijalii nahii.n hai yahii ik Gam hai
+a:  terii bi.ndiyaa kyaa bijalii se kam hai
+la: chho.Do mat chhe.Do baazaar jaao
+a:  jaataa huu.N jaauu.Ngaa pahale yahaa.N aao
+    shaam javaa.N hai tuu kahaa.N hai
+la: mai.n aaii aaiii aaii \threedots
+ 
+la: kaisii pyaarii sii hai yah chhoTii sii rasoii
+    ho ham dono.n  hai.n bas duujaa nahii.n koii
+    is kamare me.n ho.ngii miiThii baate.n
+a:  us kamare me.n guzare.ngii raate.n
+la: yah to bolo hogii kahaa.N pe la.Daaii
+a:  mai.n ne vah jagah hii nahii.n banaaii
+    pyaar yahaa.N hai tuu kahaa.N hai
+la: mai.n aaii aaii aaii \threedots
+%
+#endindian
+\endsong
+%
+

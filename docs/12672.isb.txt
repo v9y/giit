@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{asalam bhaa_ii ... duba_ii kaa chashmaa chiin kii chaDDhii}%
+\film{Love Ke Liye Kuch Bhi Karega}%
+\year{2001}%
+\starring{Fardin Khan, Aftab Shivdasani, Saif Ali Khan, Sonali Bendre, Twinkle Khanna}%
+\singer{Sonu Nigam, Chorus}%
+\music{Vishal}%
+\lyrics{Abbas Tyrewala}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chik chikuum duum duum tak chik chikuum
+he asalam bhaa_ii mere asalam bhaa_ii
+duba_ii kaa chashmaa chiin kii chaDDhii aur iiraanii chaay
+asalam bhaa_ii \threedots
+
+kachchaa pakkaa tiin sau biis udhaar kii bii.Dii haay
+
+teraa cheharaa qayaamat hai are ##bollywood## kii shaamat hai
+naa tuu na.ngaa naa tuu hakalaa naa tuu ga.njaa asalam bhaa_ii
+haath me.n bas paa.Nch u.ngalii hiiro ban jaa asalam bhaa_ii
+maadhurii pachhataa_egii aishvaryaa karegii haay
+asalam bhaa_ii \threedots
+
+aa.Nkh me.n terii ##magic## hai he he cheharaa kitanaa ##tragic## hai
+##house full## ke ##board## par tuu muskuraanaa asalam bhaa_ii
+maafiyaa se pa.ngaa lenaa naa kabhii naa asalam bhaa_ii
+aapake bin suunii hogii filmii duniyaa haay
+asalam bhaa_ii \threedots
+%
+#endindian
+\endsong
+

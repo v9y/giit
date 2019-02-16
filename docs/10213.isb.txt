@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{vaadaa karo nahii.n chho.Dogii tum meraa saath}%
+\film{Aa Gale Lag Jaa}%
+\year{1973}%
+\starring{Shashi Kapoor, Sharmila, Shatrughan Sinha, Master Tito}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10741 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	vaadaa karo nahii.n chho.Dogii tum meraa saath
+	jahaa.N tum ho vahaa.N mai.n bhii huu.N \-2
+aa \:	chhu_o nahii.n dekho zaraa piichhe rakho haath
+	javaa.N tum ho javaa.N mai.n bhii huu.N \-2
+
+ki \:	suno merii jaa.N ha.Ns ke mujhe ye kah do
+	bhiige\-bhiige labo.n kii naramii mere li_e hai
+	javaa.N nazar kii mastii mere li_e hai
+	hasii.n adaa kii shoKii mere li_e hai
+	mere li_e le ke aa_ii ho ye sauGaat
+	jahaa.N tum ho \threedots
+aa \:	chhu_o nahii.n dekho \threedots
+
+	mere hii piichhe aaKir pa.De ho tum kyo.n
+	ik mai.n javaa.N nahii.n huu.N aur bhii to hai.n
+	ho mujhe hii ghere aaKir kha.De ho tum kyo.n
+	mai.n hii yahaa.N nahii.n huu.N aur bhii to hai.n
+	jaa_o jaa ke le lo jo bhii de\-de tumhe.n haath
+	jahaa.N sab hai.n vahaa.N mai.n bhii huu.N \-2
+ki \:	vaadaa karo nahii.n \threedots
+
+% I think there is one more stanza by aashaa concluding as
+% "bhuulo nahii.n dekho zaraa apanii auqaat"
+
+%
+#endindian
+\endsong
+

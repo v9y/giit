@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{suune panaghat pe biitii huii raat ko}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #45
+%
+\printtitle
+#indian
+%
+
+suune panaghaT pe biitii hu_ii raat ko
+vo mastii me.n Duubii hu_ii baat ko
+haay dil se jo tumane bhulaayaa
+bolo bolo kyaa sukh tumane paayaa
+
+meraa ghar aa_ii thii tum basaane
+ga_ii phir miTaakar kyo.n na jaane
+yuu.N ha.Nsaakar jo hamako rulaayaa
+bolo bolo kyaa sukh tumane paayaa \threedots
+
+ham se birahaa thaa anajaan pyaarii
+diyaa tumane hai ye daan pyaarii
+ham ko basakar uja.Danaa sikhaayaa
+bolo bolo kyaa sukh tumane paayaa
+
+%
+#endindian
+\endsong
+%

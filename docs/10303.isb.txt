@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{o mujhe terii chaahat ke ... dil me.n aag lagaa_e}%
+\film{Alag Alag}%
+\year{1985}%
+\starring{Shashi Kapoor, Rajesh Khanna, Tina Munim, Deven Verma}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10745 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+o mujhe terii chaahat ke Gam kii qasam 
+zamaane kii har ek qasam kii qasam
+mai.n tere li_e huu.N tuu mere li_e
+sitamagar tere har sitam kii qasam
+
+dil me.n aag lagaa_e saavan kaa mahiinaa
+nahii.n jiinaa nahii.n jiinaa tere bin nahii.n jiinaa
+tuune mujhe jo zaKm di_e un zaKmo.n ko nahii.n siinaa
+nahii.n jiinaa \threedots
+
+is dil se aramaan ye nikale ek hii ghuu.NT me.n jaan ye nikale
+zahar judaa_ii vaalaa ghuu.NT\-ghuu.NT nahii.n piinaa
+nahii.n jiinaa \threedots
+
+ye terii yaado.n kaa mausam pyaar bhare vaado.n kaa mausam
+is mausam ke bichha.De shaayad mile.n kabhii naa 
+nahii.n jiinaa \threedots
+
+ishq ibaadat ishq hai puujaa ishq Kudaa kaa naam hai duujaa
+ye dil mathuraa kaashii kaabaa aur madiinaa
+nahii.n jiinaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,69 @@
+%
+\startsong
+\stitle{diivaanaa mastaanaa huaa dil, jaane kahaa.N hoke bahaar aaii}%
+\film{Bambai Ka Babu}%
+\starring{Dev Anand, Suchitra Sen}%
+\singer{Rafi, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%	   Biju Parmeshwaran (paramesh@enuxsa.eas.asu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aashaa:  aaaa aa aa \threedots
+pa ma ga ma re ga pa ma ga ma, aaaa aa \threedots
+saa nii dha pa ma ga re saa nii nii nii \threedots
+diivaanaa, mastaanaa, huaa dil,
+jaane kahaa.N hoke bahaar aaii
+
+tan ko chhue, chhue ghaTa kaalI
+chhe.De lahar, lahar matavaalI
+tan ko chhue \threedots
+o ho tan ko chhue, chue ghaTa kaalI
+chhe.De lahar, lahar matavaalI
+baat koI anjaanaaa
+diivaanaa, mastaanaa, huaa dil,
+jaane kahaa.N hoke bahaar aaii
+
+o ho ho kuchh anakahii, kahe, merii chitavan
+bole jiyaa, likhe merii dha.Dakan, kuchh anakahii \threedots
+o ho ho kuchh anakahii, kahe, mere chitavan
+bole jiyaa, likhe merii dha.Dakan
+ek nayaa afasaanaa \threedots
+rafii:  diivaanaa, mastaanaa, huaa dil,
+jaane kahaa.N hoke bahaar aaii
+o o oo
+jaane kahaa.N hoke bahaar aaii
+%    pa ma ga ma ri ga pa ma ga ma.
+%
+%aashaa(mockingly:)
+%    pa ma ga ma ri ga pa ma ga ma.
+%
+%rafii:   aaa aa aa aa aa..
+%    sa ni da pa ma ga re sa ni ni ni
+%    diivaana, mastanaa hua dil
+%    jaane kahaan hoke bahaar aaii
+%
+rafii:  o ho o saavan lagaa, machal gae baadal
+aashaa: dekhuu.N jise, huaa vahii paagal
+rafii:  saavan lagaa, machal gae baadal
+aashaa: dekhuu.N jise, huaa vahii paagal
+rafii:  kaun huaa diivaanaa \threedots
+aashaa:  diivaanaa, mastaanaa huaa dil
+rafii:  diivaanaa mastaanaa huaa dil
+aashaa:  jaane kahaa.N hoke bahaar aaii aa aa aa \threedots
+rafii:  jaane kahaa.N hoke bahaar aaii
+ho oo, jaane kahaa.N hoke bahaar aaii
+aashaa:  aa aa aa, jaane kahaa.N hoke bahaar aaii
+%
+#endindian
+\endsong
+%

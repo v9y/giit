@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shaam se aaj saa.Ns bhaarii hai}%
+\film{Visaal (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Gulzar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+shaam se aaj saa.Ns bhaarii hai
+bekaraarii hai bekaraarii hai
+
+aapake baad har gha.Dii hamane
+aapake saath hii guzaarii hai
+
+raat ko de do chaa.Ndanii kii ridaa
+din kii chaadar abhii utaarii hai
+
+kal kaa har waaqayaa tumhaaraa thaa
+aaj kii daastaa.N hamaarii hai
+
+#endindian
+\endsong

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{pahale sau baar idhar aur udhar dekhaa hai}%
+\film{Ek Nazar}%
+\year{1971}%
+\starring{Jaya Bhaduri, Amitabh Bachchan}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+pahale sau baar idhar aur udhar dekhaa hai
+tab kahii.n Dar ke tumhe.n ek nazar dekhaa hai
+
+ham pe ha.Nsatii hai jo duniyaa.N use dekhaa hii nahii.n
+ham ne us shokh ko ae diidaa\-e\-tar dekhaa hai
+
+aaj is ek nazar par mujhe mar jaane do 
+us ne logo.n ba.Dii mushkil se idhar dekhaa hai
+
+kyaa Galat hai jo mai.n diivaanaa huaa, sach kahanaa
+mere mahabuub ko tum ne bhii agar dekhaa hai
+
+%
+#endindian
+\endsong
+%

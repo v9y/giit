@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{milate hii nazar unase dil aane ko kyaa kahi_e}%
+\film{Naghmaa}%
+\year{1953}%
+\starring{Nadira, Ashok Kumar, Om Prakash, Rupmala, Murad}%
+\singer{Talat}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+%
+% Contributor: BOL ANAMOL #10039 [V S Rawat]
+% Transliterator: 
+% Comments: Produced and Directed by lyricist J Nakshab
+% 
+\printtitle
+#indian
+%
+milate hii nazar unase dil aane ko kyaa kahi_e
+dil ho gayaa diivaanaa diivaane ko kyaa kahi_e
+
+pyaar bharii baate.n chhipatii hai.n chhipaane se
+har raaz afasaanaa afasaane ko kyaa kahi_e
+milate hii nazar unase \threedots
+
+lo vah bhii mohabbat me.n din raat ta.Dapate hai.n
+jab shamaa hai paravaanaa paravaane ko kyaa kahi_e
+milate hii nazar unase \threedots
+
+ik umar to dil apanaa pahaluu me.n rahaa apane
+ab ho gayaa begaanaa begaane ko kyaa kahi_e
+milate hii nazar unase \threedots
+%
+#endindian
+\endsong
+

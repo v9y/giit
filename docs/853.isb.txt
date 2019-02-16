@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{javaa.N hai mohabbat, hasii.n hai zamaanaa}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Noorjehan}%
+\singer{Noorjehan}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor:  Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+javaa.N hai mohabbat, hasii.n hai zamaanaa 
+luTaayaa hai dil ne, khushI kaa khazaanaa 
+javaa.N hai mohabbat\threedots 
+
+mohabbat kare.n (khush rahe.n muskuraaye.n \- 2)
+nA soche hame.n kyA kahegaa zamaanaa 
+javaa.N hai mohabbat\threedots 
+
+abhii tak mujhe (yaad hai vo kahAnI \- 2)
+nA bhuulegaa bachapan kA ra.ngii.n zamaanaa 
+javaa.N hai mohabbat\threedots 
+
+kyaa aa.Nkho.n aa.Nkho.n me.n baate.n huii hai.n \- 2 
+kisiine nA dekhaa kisiine nA jaanaa 
+javaa.N hai mohabbat\threedots 
+
+tum aaye ke bachapan meraa (lauT aayaa \- 2)
+milaa hai mujhe zindagii kA bahaanaa 
+javaa.N hai mohabbat\threedots 
+%
+#endindian
+\endsong
+%

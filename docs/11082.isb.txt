@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aashiqii hamane kii tumase sanam ... tere pyaar me.n jiinaa}%
+\film{Dil Kho Gayaa}%
+\year{1998?}%
+\starring{Indra Kumar}%
+\singer{Vinod Rathod, Sadhana Sargam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Maya Govind}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aashiqii hamane kii tumase sanam zi.ndagii hamako dii tumane sanam
+tere pyaar me.n jiinaa tere pyaar me.n maranaa
+dostii tumane kii hamase sanam haa.N ye khushii hamako dii tumane sanam
+tere pyaar me.n jiinaa tere pyaar me.n maranaa
+he aashiqii hamane kii \threedots
+
+pyaar kii vaadii me.n phuul khil jaate hai.n
+pyaar ke maare do dil mil jaate hai.n
+ho pyaar me.n ye saudaa kab ho jaataa hai
+pyaar me.n kab saajan rab ho jaataa hai
+bekhudii chhaa ga_ii terii kasam
+o zi.ndagii hamako dii \threedots
+
+aa tere ho.nTho.n pe giit ban jaa_uu.n mai.n
+aa terii saa.Nso.n kii miit ban jaa_uu.n mai.n
+aa tere haatho.n me.n me.nhadii rachaa duu.n mai.n
+aa tere maathe pe bi.ndiyaa sajaa duu.n mai.n
+roshanii ho ga_ii dil me.n sanam
+zi.ndagii hamako dii \threedots
+%
+#endindian
+\endsong
+

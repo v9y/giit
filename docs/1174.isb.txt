@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{meraa jiivan saathii bichha.D gayaa lo khatam kahaanii ho gaii}%
+\film{Babul}%
+\year{1950}%
+\starring{}%
+\singer{Talat}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+zamAne me.n khushI ke sAth, lAkho.n Gam bhI hote hai.n
+jahA.N shahanAI bajatI hai.n, vahA.N mAtam bhI hote hai.n
+
+merA jIvan sAthI bichha.D gayA, lo khatam kahAnI ho gaI
+lo khatam kahAnI ho gaI
+
+(qismat ne kiye jo dil pe sitam
+do chAhane vAle mil na sake ) \- 2
+kahane ko bahAr AI thI magar
+do phUl khushI ke khil na sake
+aramAno.n kA gulashan uja.D gayA
+barabAd javAnI ho gaI
+lo khatam kahAnI ho gaI
+
+(dil deke yahA.N sab hAr gae
+duniyA me.n hamArI jIt kahA.N ) \- 2
+hoTho.n pe hai.n shikave qismat ke
+vo pyAr bhare ab gIt kahA.N
+jab khel hI dil kA biga.D gayA
+har bAt purAnI ho gaI
+lo khatam kahAnI ho gaI
+%
+#endindian
+\endsong
+%

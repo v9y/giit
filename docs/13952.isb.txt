@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ku.Dii ba.Dii hai soNii soNii}%
+\film{Shikaari}%
+\year{2000}%
+\starring{Govinda, Karisma Kapoor, Mayuri Kango, Tabu}%
+\singer{Sonu Nigam, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+taginaa dhinak dhin nagaa dhin
+ku.Dii ba.Dii hai soNii soNii ki ba.Dii manamohaNii
+tuu pyaar naal tak mu.nDyaa tak mu.nDyaa
+nach ke bha.nga.Daa paake ta.Dak phaTTe chak mu.nDyaa
+
+thaam le bahiyaa.n isakii ye hai tere dil kii chaabii
+yaar na bach ke jaane paa_e javaa.n ku.Dii pa.njaabii
+merii billo tuu kahaa.n jaa_egii
+jahaa.n jaa_egii ise paa_egii
+taginaa dhinak dhin \threedots
+
+ruup nagar kii raanii miiThii miiThii baate.n bol
+yahaa.n hai teraa aashiq ab dil kaa daravaazaa khol
+terii aa.Nkho.n kaa ye diivaanaa hai
+saarii duniyaa se anajaanaa hai
+taginaa dhinak dhin \threedots
+%
+#endindian
+\endsong
+

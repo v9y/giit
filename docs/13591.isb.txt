@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{muqaabalaa hamase naa karo}%
+\film{Prince}%
+\year{1969}%
+\starring{Shammi Kapoor, Vyjayanthimala}%
+\singer{Rafi, Lata, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11116 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	muqaabalaa hamase naa karo \-2
+	ham tumhe.n apane ra.ng me.n ra.ng Daale.nge ek hii pal me.n \-2
+la \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+aa \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+
+	hamaare saamane kisakaa chiraaG jalataa hai
+la \:	hamaare saamane suuraj bhii haath malataa hai \-2
+ra \:	hamaare saamane jalave bhii sar jhukaate hai.n
+	ye husn vaale hamii.n se hii haar jaate hai.n
+do \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+ra \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+
+aa \:	ta.Dapane lagate hai.n dil jis taraf guzar jaa_e.N \-2
+la \:	jinhe.n ho naaz zaraa mere saamane aa_e.N \-2
+ra \:	hamaare pyaar kii qismat ko tum sa.Nvaaroge
+	tumhaaraa cheharaa hii kahataa hai dil ko haaroge
+do \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+ra \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+
+aa \:	hame.n na chhe.Do ke ham to hai.n naaz ke paale \-2
+la \:	tumhaare jaise bahut dekhe chaahane vaale \-2
+ra \:	ye mere pyaar kaa daavaa hai intaqaam nahii.n
+	tumhe.n apanaa na banaayaa to meraa naam nahii.n
+do \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+ra \:	muqaabalaa hamase \threedots
+	ham tumhe.n \threedots
+%
+#endindian
+\endsong
+

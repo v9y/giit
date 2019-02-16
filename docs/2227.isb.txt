@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum arabo.n kaa her pher karane vaale ... savaa laakh kii laaTarii}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Bhagwan, Raj Sulochana, Raj Kapoor, Nargis}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tum arabo.n kaa her pher karane vaale raam jii
+savaa laakh kii laaTarii bhejo apane bhii naam jii
+
+paise paise ko javaanii merii tarase
+sote sote uTh jaa_uu.N bistar se
+kab jaayegii gariibii mere ghar se
+tum arabo.n kaa   \threedots
+
+kaisii pyaarii hai Kabar aKabaaro.n me.n
+laxmii devii hogii apanii ishaaro.n me.n
+hogaa ba.ngalaa hamaaraa bhii sitaaro.n me.n
+tum arabo.n kaa   \threedots
+
+aisii ka.Dakii me.n ye bojhaa do jano.n kaa
+aadhaa\-aadhaa huaa tho.De se chano.n kaa
+kabhii aayaa na vo din sapano.n kaa
+tum arabo.n kaa   \threedots
+%
+#endindian
+\endsong
+%

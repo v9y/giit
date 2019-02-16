@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{##hello hello## bol ke mere aajuu baajuu Dol ke}%
+\film{Aakrosh/ A Cyclone of Anger}%
+\year{1998}%
+\starring{Sunil Shetty, Shilpa Shetty, Suresh Oberoi, Girish Karnad, Kulbhushan}%
+\singer{Udit Narayan, Sadhana Sargam}%
+\music{Anand Raj Anand}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##hello hello## bol ke mere aajuu baajuu Dol ke
+diivaanii la.Dakii hai ke dekhe ek tiir nazaro.n se
+dekhate hii mujhe bolatii hai haay
+
+##hello hello## bol ke tere aajuu baajuu Dol ke
+diivaanii ho ga_ii mai.n aise jaise titalii ko_ii
+jaise aas paas ho churaa ke man meraa haay
+##hello hello## bol ke \threedots
+
+milatii hai kisii bhii bahaane chauk pe
+lagatii hai dil ko churaane chauk pe
+aate jaate logo.n ko vo dekhatii nahii.n
+gaatii hai vo pyaar se taraane chauk pe
+dil se bataa kaise jaan jaa rahii hai aise
+par usako samajh nahii.n hai ho haay
+##hello hello## bol ke \threedots
+
+la.Dakiyaa.n hazaar hai.n ye ajiib hai
+sabase alag hai ba.Dii chiiz hai
+mujhape fidaa hai vo dil\-o\-jaan se
+duur rah ke lagatii mujhe kariib hai
+vo kyaa meraa dilarubaa hai raaste pe aa gayaa
+chhaa gayaa hai mere dil pe o haay
+##hello hello## bol ke \threedots
+%
+#endindian
+\endsong
+

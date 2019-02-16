@@ -1,0 +1,46 @@
+% 
+\startsong 
+\stitle{un ke bulaave pe Dole meraa dil}% 
+\film{Naubahaar}% 
+\year{1952}% 
+\starring{Ashok Kumar,Nalini Jayawant}% 
+\singer{Lata}% 
+\music{Roshan}% 
+\lyrics{Shailendra?}% 
+% 
+% Contributor:Srinivas Ganti 
+% Transliterator:Srinivas Ganti 
+% Credits: 
+% Comments:LATAnjali 
+% 
+\printtitle 
+#indian 
+%
+un ke bulaave pe Dole meraa dil
+(jaauu.n to mushkil,na jaau.n to mushakil)\-2
+(man me.n hai mere ? kii batiyaa.n ?)\-2 #this line is overlapped by dialogues#
+chho.Duu.n to mushakil chu.Daauu.n to mushakil
+un ke bulaave pe \threedots 
+
+(bachpan javaanii jo milane lage hai.n)\-2
+mausam binaa phuul khilane lage,phuul khilane lage hai.n
+(chhe.Dii kisii ne mere man kii biinaa)\-2
+gaauu.n to mushakil,na gaauu.n to mushakil
+un ke bulaave pe \threedots 
+
+(jab se vo naino.n me.n aaye 
+mere sapane naye ra.ng laaye,naye ra.ng laaye)\-2
+(naazo.n ke paale hai mere sapane)\-2
+dekhuu.n to mushakil,dikhaauu.n to mushakil
+un ke bulaave pe \threedots 
+
+ulajhii hai kaato.n me.n haaye chunariyaa
+ulajhii hai haay raam merii chunariyaa 
+chho.Duu.n to mushakil,chu.Daauu.n to mushakil
+un ke bulaave pe \threedots 
+
+
+
+%  
+#endindian  
+\endsong  

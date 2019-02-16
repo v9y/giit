@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jab jab tumako dekhaa dil mastaanaa ho gayaa}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	jab jab tumako dekhaa dil mastaanaa ho gayaa
+	terii har adaa pe dil diivaanaa ho gayaa
+	tuu le le mujhe baa.Nho.n me.n pa.Daa rahuu.N terii raaho.n me.n lailaa
+
+a \:	jab jab tujhako dekhuu.n mai.n aa.Nkhe.n jhuk jaatii hai.n
+	terii baate.n sun sun kar saa.Nse.n ruk jaatii hai.n
+	ki aise mujhe dekho naa jaa_o jii mujhe chhe.Do naa chhailaa
+
+ku \:	ho teraa pyaar maa.nge dil baar baar maa.nge dil aake mil
+	jitanaa diidaar hu_aa utanaa beqaraar hu_aa haay dil
+a \:	ho kho_ii kho_ii rahatii huu.N sakhiyo.n se kahatii huu.N haal\-e\-dil
+	jhuume.n taqadiir merii chuumuu.n tasviir terii jaa_uu.N khil
+
+ku \:	dil hii meraa bas me.n nahii.n hai aramaa.n aise jaage
+a \:	himmat jo nibhaane kii ho ba.Dhanaa tabhii aage
+ku \:	ho.nTho.n pe suruur li_e chehare par nuur li_e aa gayaa
+a \:	zaraa muskaraate hii zindagii me.n aate hii tuu chhaa gayaa
+
+ku \:	ek to hasiin hai tuu usape zahiin hai tuu dilarubaa
+	tuu jo milii aisaa lagaa mujhe hasiino.n kaa Kudaa mil gayaa
+	are hai na ko_ii hogaa jag me.n pyaaraa tujhase ba.Dhake
+a \:	le jaa merii Dolii le jaa jaldii mere ghar se
+%
+#endindian
+\endsong
+

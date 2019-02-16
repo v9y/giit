@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{aaj hai karavaa chauth sakhii rii}%
+\film{Bahu Beti}%
+\year{1965}%
+\starring{Ashok Kumar, Mala Sinha, Joy Mukherji, Mehmood, Mumtaz, Ashish Kumar}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11488 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aaj hai karavaa chauth sakhii rii maa.Ng le sukh kaa daan
+apane sapano.n ke svaamii kaa dhar kar man me.n dhyaan
+
+janm\-janm tak maa.Ng kaa terii ra.ng pa.De naa phiikaa
+jab tak chamake.n chaa.Nd\-sitaare tab tak chamake Tiikaa
+ba.Ndhe rahe.n manabhaate priitam ke praaNo.n se praaN
+aaj hai karavaa chauth \threedots
+
+jo ko_ii maa.Nge aaj lagan se yug\-yug kaa sukh paa_e
+saath saphal ho prem amar ho jiivan me.n ras aa_e
+aaj har ik naarii ko prabhu se milataa hai varadaan
+aaj hai karavaa chauth \threedots
+%
+#endindian
+\endsong
+

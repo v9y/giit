@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{tuu kahaa.N ga_ii thii teraa mar jaa_e saa.Nvariyaa}%
+\film{Dharam Karam/ Duty and Deed}%
+\year{1975}%
+\starring{Raj Kapoor, Randhir Kapoor, Rekha, Premnath, Dara Singh}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10765 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	tuu kahaa.N ga_ii thii teraa mar jaa_e saa.Nvariyaa
+	chi.Diyaa jaisii u.Datii\-phiratii kyaa mastaanii gu.Diyaa
+	tuu kahaa.N ga_ii thii \threedots
+
+la \:	tuu kahaa.N gayaa thaa terii mar jaa_e sajaniyaa
+	ulTaa chor kotavaal ko Daa.NTe ho ga_ii kaisii duniyaa
+
+ki \:	kahaa.N mai.n gayaa thaa mai.n to gayaa thaa karane sair chaman kii
+	kha.Dii thii vahaa.N pe ek hasiinaa mastii bhare badan me.n
+	mai.n bhii zaraa saa usake gale se lipaTaa paagalapan me.n
+	aage isake kuchh bhii nahii.n tuu pa.D ga_ii kis ulajhan me.n
+la \:	to baakii rahaa kyaa yahii sochuu.N mai.n baa.Nvariyaa
+ki \:	tuu kahaa.N ga_ii thii \threedots
+
+la \:	kahaa.N mai.n ga_ii thii mai.n to ga_ii thii karane sair galii kii
+	ek ra.ngiilaa mil gayaa aisaa usakii or chalii mai.n
+	paka.Dii jo usane merii kalaa_ii kyaa kahuu.N kaise khilii mai.n ho
+	aage isake kuchh bhii nahii.n tuu pa.D gayaa kis ulajhan me.n
+ki \:	to baakii rahaa kyaa teraa mar jaa_e saa.Nvariyaa
+
+	terii qasam hai mai.n to gayaa thaa pyaarii baate.n karane
+aa \:	terii qasam hai mai.n to ga_ii thii tere hii piichhe marane
+do \:	ham kahaa.N ga_e the jaane hai saarii nagariyaa \-2
+%
+#endindian
+\endsong
+

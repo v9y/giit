@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{jaane ham sa.Dak ke logo.n se mahalo.n vaale}%
+\film{Aashaa}%
+\year{1980}%
+\starring{Jeetendra, Reena Roy, Rameshwari}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11295 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( jaane ham sa.Dak ke logo.n se ) \-2 mahalo.n vaale kyo.n jalate hai.n \-2
+ye uu.Nche mahalo.n vaale bhii in sa.Dako.n par hii chalate hai.n
+jaane ham sa.Dak ke \threedots
+
+( Gumanaam hai.n ham mashahuur hai.n vo ) \-2 is baat pe kyo.n maGaruur hai.n vo
+hamane unako ye naam diyaa jis naam pe aap machalate hai.n
+jaane ham sa.Dak ke \threedots
+
+ye ha.Nsate hai.n lekin dil me.n ye gaate hai.n par mahafil me.n \-2
+hamame.n iname.n hai farq ba.Daa ham jiite hai.n ye palate hai.n
+jaane ham sa.Dak ke \threedots
+
+achchhe ke bure ( ham kaise hai.n ) \-2 jii ham kaise hai.n
+ham jaise the ham vaise hai.n
+( insaan nahii.n vo mausam hai.n ) \-2 jo vaqt ke saath badalate hai.n
+jaane ham sa.Dak ke \threedots
+%
+#endindian
+\endsong
+

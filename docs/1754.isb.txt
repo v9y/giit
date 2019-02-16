@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tum bhii chalo, ham bhii chale.n, chalatii rahe zindagii}% 
+\film{Zameer}%
+\year{1975}%
+\starring{Amitabh, Saira Bano, Shammi Kapoor}%
+\singer{Kishore, Lata / Kishore}%
+\music{Sapan Chakravarty}%
+\lyrics{Sahir}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Jasjit Singh (jasjit@cc.gatech.edu)
+%          Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+tum bhI chalo, ham bhI chale.n, chalatii rahe zindagii \- 2 
+nA zamii.n ma.nzil, nA aasamaa.n, zindagii hai zindagii 
+tum bhI chalo, ham bhI chale.n, chalatii rahe zindagii 
+
+piichhe dekhe.n nA, kabhI mu.D ke raaho.n me.n, ho 
+jhUme meraa dil, tumhe.n leke baaho.n me.n, ho 
+dha.Dakano.n kii zubaa.n, nit kaahe daastaa.n 
+pyaar kii jhil\-mil chhaao.n me.n, palatii rahe zindagii 
+tum bhI chalo, ham bhI chale.n, chalatii rahe zindagii 
+
+bahate chale ham, mastii ke dhaaro.n me.n, ho 
+gU.nje yahii dhun, sadA dil ke taaro.n me.n, ho 
+ab ruke nA kahii.n, pyaar kA kaaravaa.n 
+nit naI rut ke ra.ng me.n, DhalatI rahe zindagii 
+tum bhI chalo, ham bhI chale.n, chalatii rahe zindagii 
+nA zamii.n ma.nzil, nA aasamaa.n, zindagii hai zindagii 
+tum bhI chalo, ham bhI chale.n, chalatii rahe zindagii 
+
+%slow-speed post script
+ab yahaa.N ko_ii nahii.n, ko_ii nahii.n aayegaa
+%
+#endindian
+\endsong
+%

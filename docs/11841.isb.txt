@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{chaa.Nd raat tum ho saath kyaa kare.n}%
+\film{Half Ticket}%
+\year{1962}%
+\starring{Kishore Kumar, Madhubala}%
+\singer{Kishor, Lata}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10339 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	chaa.Nd raat tum ho saath kyaa kare.n ajii ab to dil machal\-machal gayaa
+la \:	dil kaa aitabaar kyaa kyaa karoge jii pal jo ye badal gayaa
+
+ki \:	zulmii nazar kaisii niDar dil churaa liyaa
+	jaane kis ajab desh me.n bulaa liyaa
+la \:	ye bhii ko_ii dil hai kyaa
+	jahaa.N mauqaa milaa phisal\-phisal gayaa
+ki \:	chaa.Nd raat tum ho \threedots
+
+la \:	suni_e zaraa maine kahaa mat sataa_i_e
+	apane aap apanii raah lauT jaa_i_e
+ki \:	ye vo raahe.n nahii.n jisape chal ke ko_ii sa.nbhal gayaa
+	chaa.Nd raat tum ho \threedots
+
+	bahake\-bahake ab to sanam baa.Nh thaam lo
+la \:	apanii nazar apanii niGaaho.n se kaam lo \-2
+ki \:	aap kaa kyaa gayaa
+	phuul saa dil meraa kuchal\-kuchal gayaa
+ki \:	chaa.Nd raat tum ho \threedots
+%
+#endindian
+\endsong
+

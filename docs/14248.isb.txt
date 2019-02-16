@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{naarii kuchh aisan aage nikal rahii hai}%
+\film{Swayamvar}%
+\year{1980}%
+\starring{Sanjeev Kumar, Shashi Kapoor, Vidya Sinha, Moushumi Chaterjee}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10423 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+naarii kuchh aisan aage nikal rahii hai
+mardan ke paa.Nv tale dharatii phisal rahii hai
+
+vo din ga_e ki ghar ke chuulhe maa.n sar khapaayaa
+ek pair ab zamii.n par ek chaa.Nd par jamaayaa
+badalii hai jab se aurat duniyaa badal rahii hai
+mardan ke paa.Nv tale \threedots
+
+mardan ko de ke penashan la.Datii hai ab ilek{}shan
+kahate the jisako sisTar ab hu_ii minisTar
+mardan kii momabattii Tap\-Tap pighal rahii hai
+mardan ke paa.Nv tale \threedots
+
+chaabii kaa chhallaa kholaa aa.Nchal se naariyo.n ne
+banduuk bhii uThaa lii ab faujii naariyo.n ne
+har desh auratan kii palTan nikal rahii hai
+mardan ke paa.Nv tale \threedots
+%
+#endindian
+\endsong
+

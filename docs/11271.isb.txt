@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{hallaa\-gullaa laa_iilaa khullam\-khullaa ... aish kar lo dosto.n}%
+\film{Dholak}%
+\year{1951}%
+\starring{Meena Shori, Ajit, Yashodhara Katju, Manmohan Krishan, Satish Batra}%
+\singer{Rafi, Shamshad, Satish Batra}%
+\music{Shyam Sundar}%
+\lyrics{Ajiz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #10368 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	hallaa\-gullaa laa_iilaa khullam\-khullaa gaa_iilaa khullam\-khullaa
+	aish kar lo dosto.n ##college## kii diivaaro.n me.n
+	kal se likhe jaa_oge sabake sab bekaaro.n me.n
+
+ba \:	chhoTii\-moTii naukarii Dhuu.NDhoge akhabaaro.n me.n
+	aaj nahii.n to kal milegii dil ko ye samajhaa_ilaa
+
+sha \:	log kahe.nge baabuu jii hai.n ##B.A.## kar ke aa_e hai.n
+	ka_ii saal ka_ii mahiine paanii bhar aa_e hai.n
+	pai.nT me.n phuuTii paa_ii nahii.n hai saa_ikil par cha.Dh aa_e hai.n
+	phir sa.Dako.n par aavaaraa phir kar laaraa lappaa gaa_ilaa
+ba \:	maal roD par hamane kal ik la.Dakii dekhii jaa_ilaa
+	Thumak\-Thumak chalate\-chalate usakaa giraa rumaa_ilaa
+ra \:	hamane liyaa uThaa_ilaa
+ba \:	la.Dakii dii mukaraa_ilaa
+	hallaa\-gullaa laayalaa \threedots
+
+sha \:	ek galii me.n hamane kal ik la.Dakaa dekhaa jaa_ilaa
+	kaalii ainak laa_ilaa tirachhii Topii paa_ilaa
+	usane hamase chhe.Dachhaa.D kii hamane juutaa uThaa_ilaa
+	paas hu_aa paa_ilaa fel hu_aa to jaa_ilaa
+	hallaa\-gullaa laayalaa \threedots
+
+	daa.Dhii\-muu.Nchh mu.Daa_ilaa baaga.D\-billaa
+	hallaa\-gullaa laayalaa \threedots
+
+	la.Dakii se sharamaa_ilaa rahamat ullaa
+	hallaa\-gullaa laayalaa \threedots
+%
+#endindian
+\endsong
+

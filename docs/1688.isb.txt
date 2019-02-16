@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tere labo.n ke mukaabil gulaab kyaa hogaa ## mukesh gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Kishore Desai}%
+\lyrics{Shiv Kumar Saroj}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tere labo.n ke mukaabil gulaab kyaa hogaa
+tuu laajavaab hai teraa javaab kyaa hogaa
+
+terii adaa pe fidaa ham to kyaa zamaanaa hai
+nisaar tujhape mere dil kaa ye khazaanaa hai
+tere shabaab se ba.Dh kar shabaab kyaa hogaa
+tere labo.n ke mukaabil\threedots
+
+tuu muskuraae to jaatii bahaar aa jaaye
+dil\-e\-biimaar ko phir se qaraar aa jaaye
+tere karam kaa kisiise hisaab kyaa hogaa
+tere labo.n ke mukaabil\threedots
+%
+#endindian
+\endsong
+%

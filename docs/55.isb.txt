@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aaj kal me.n Dhal gayaa, din huaa tamaam}%
+\film{Beti Bete}%
+\starring{Sunil Dutt, Saroja Devi, Jamuna}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+aaj kal me.n Dhal gayaa, din huaa tamaam
+tuu bhii so jaa, so ga_ii, ra.ng bharii shaam
+
+1) so gayaa chaman chaman, so ga_ii kalii\-kalii
+so gae hai.n sab nagar, so ga_ii galii\-galii
+nii.nd kah rahii hai chal, merii baa.Nh thaam, tuu bhii \threedots
+
+2) hai bujhaa\-bujhaa saa dil, bojh saa.Ns\-saa.Ns pe 
+jii rahe hai.n phir bhii ham, sirf kal kii aas pe
+kah rahii hai chaa.Ndanii, leke teraa naam, tuu bhii \threedots
+
+3) kaun aaegaa idhar, kisakii raah dekhe.n ham
+jinakii aahaTe.n sunii, jaane kisake ye kadam
+apanaa koI bhii nahii.n, apane to hai.n raam, tuu bhii \threedots
+%
+#endindian
+\endsong
+%

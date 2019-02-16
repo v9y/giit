@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{kisii kii yaad me.n duniyaa ko hai.n bhulaaye huye}%
+\film{Jahan Ara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+%
+\printtitle
+#indian
+%
+
+kisii kii yaad me.n duniyaa ko hai.n bhulaaye huye
+zamaanaa guzaraa hai apanaa Khayaal aaaye huye
+ 
+ba.Dii ajiib Khushii hai Gam-e-muhabbat bhii
+ha.Nsii labo.n pe magar dil pe choT khaaye huye
+ 
+hazaar parde ho.n pahare.n ho.n yaa ho.n diivaare.n
+rahe.nge merii nazar me.n to vo samaaye huye
+ 
+kisii ke husn kii bas ik kiraN hii kaafii hai
+ye log kyuu.N mere aage hai.n shammaa laaye huye
+
+%
+#endindian
+\endsong
+%

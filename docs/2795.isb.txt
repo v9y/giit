@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{cha.ndaa kii chhaa.Nv me.n}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date:Jan 09,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+(cha.ndaa kii chha.Nv me.n ThaNDii ThaNDii havaao.n me.n
+o koii gaa rahaa
+o~ o koii gaa rahaa)\-2
+
+(bha.Nvaro.n kaa bolanaa phuulo.n kaa Dolanaa
+o~ phuulo.n kaa Dolanaa)\-2
+aaj mujhe bhaa rahaa
+o koii gaa rahaa
+o~ o koii gaa rahaa
+cha.ndaa kii chha.Nv me.n\threedots
+
+(dil aur jigar ke biich ho~
+merii aa.Nkh aur nazar ke biich ho~)\-2
+hai koii samaa rahaa
+o koii gaa rahaa
+o~ o koii gaa rahaa
+cha.ndaa kii chha.Nv me.n\threedots
+
+(chhup chhup ke mere paas ho~
+ik prem kii ? aas ho~)\-2
+aur koii aa rahaa
+o koii gaa rahaa
+o~ o koii gaa rahaa
+cha.ndaa kii chha.Nv me.n\threedots
+
+%
+#endindian
+\endsong
+%

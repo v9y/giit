@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{pasiine-pasiine hue jaa rahe ho}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{Jagjit Singh, Chitra Singh}%
+\lyrics{Saeed Rahi}%
+% 
+% Contributor: Ramesh Hariharan <rameshh@tp.ac.sg>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/28/1996
+% Comments : Album Ecstaties
+%
+\printtitle
+#indian
+%
+pasiine\-pasiine hue jaa rahe ho
+yah bolo kahaa.N se chale aa rahe ho
+
+hame.n sabr karane ko yah to rahe ho
+magar dekh lo, Kud hii ghabaraa rahe ho
+
+yah kisakii burii tumako nazar lag ga_ii hai
+bahaaro.n ke mausam me.n murjhaa rahe ho
+
+yah aaiinaa hai yah to sach hii kahegaa
+kyo.n apanii haqiiqat se kataraa rahe ho
+%
+#endindian
+\endsong
+%
+

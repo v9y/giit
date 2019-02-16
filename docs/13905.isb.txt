@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jo haal dil kaa idhar ho rahaa hai}%
+\film{Sarfarosh/ A Reason To Live}%
+\year{2000}%
+\starring{Aamir Khan, Sonali Bendre}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+iinaa miinaa Diikaa Daa_ii Dam niikaa maakaa naakaa naakaa chiikaa piikaa riikaa
+iinaa miinaa Diikaa Diikaa De Daa_ii Dam niikaa
+maakaa naakaa maakaa naakaa chiikaa piikaa rolaa riikaa
+ram pam posh ram pam posh
+ram pam posh ram pam posh
+ram pam posh ram pam posh
+
+jo haal dil kaa idhar ho rahaa hai
+vo haal dil kaa udhar ho rahaa hai
+jaan\-e\-jaa.n dilo.n pe pyaar kaa
+ajab saa asar ho rahaa hai
+jo haal dil kaa \threedots
+
+gale se lagaa luu.n labo.n pe sajaa luu.n
+tere afasaano.n ko apanaa banaa luu.n
+dard hai halkaa saa magar ho rahaa hai
+jaan\-e\-jaa.n dilo.n pe \threedots
+
+ye tujhako khabar hai ye mujhako pataa hai
+jo chhaayaa dha.Dakan pe chaahat kaa nashaa hai
+diivaanaa teraa bekhabar ho rahaa hai
+jaan\-e\-jaa.n dilo.n pe \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pahalii baar dil yuu.n ... aisaa lag rahaa hai jaise pyaar hu_aa hai}%
+\film{Hum Ho Gaye Aap Ke}%
+\year{2001}%
+\starring{Fardin Khan, Reema Sen, Apurva Agnihotri}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii baar dil yuu.n bekaraar hu_aa hai
+aisaa lag rahaa hai jaise pyaar hu_aa hai
+ab to ba.Daa mushkil i.ntazaar hu_aa hai
+aisaa lag rahaa hai jaise pyaar hu_aa hai
+dil pe mere teraa ikhtiyaar hu_aa hai
+aisaa lag rahaa hai \threedots
+
+nii.nd nahii.n aatii hai saarii raat mujhako
+har gha.Dii sataatii hai terii baat mujhako
+haal kyaa hai meraa kaise mai.n bataa_uu.N
+duur jaake tere paas chalii aa_uu.N
+ye kyaa mere dil ko mere yaar hu_aa hai
+aisaa lag rahaa hai \threedots
+
+bolatii nazar kii bekhudii ne luuTaa
+yaar mujhako terii saadagii ne luuTaa
+dard lag rahaa hai mujhako ab suhaanaa
+aaj maine jaanaa kyaa hai dil kaa lagaanaa
+mujhako dha.Dakano.n pe aitabaar hu_aa hai
+aisaa lag rahaa hai \threedots
+%
+#endindian
+\endsong
+

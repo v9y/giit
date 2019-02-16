@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil jale to jale, Gam pale to pale}%
+\film{Taxi Driver}%
+\year{1954}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: courtesy Ajatashatru
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+dil jale to jale, Gam pale to pale
+kisii kii na sun gaaye jaa
+
+o jiine vaale
+aag se aag bujhaa le
+jag kii na sun, pyaar kii dhun jhuum ke gaa le
+dil jale to jale   \threedots
+
+o jiine vaale
+ye kaliyaa.N ye taare
+chup to hai.n magar, takate idhar kahate hai.n saare
+dil jale to jale   \threedots
+
+o jiine vaale
+chhe.D hasiin taare.n
+bichha.De jo ab, milanaa ho kab, koii na jaane
+dil jale to jale   \threedots
+%
+#endindian
+\endsong
+%
+

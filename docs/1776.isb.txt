@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tum na jaane kis jahaa.N me.n kho gaye}%
+\film{Sazaa}%
+\year{1951}%
+\starring{}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Vandana Venkatesan          
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum na jaane kis jahaa.N me.n kho gaye
+ham bharii duniyaa me.n tanahaa ho gaye
+tum na jaane kis jahaa.N me.n \threedots
+
+ek jaa.n aur laakh Gam, ghuT ke rah jaaye na dam
+aao tum ko dekh le.n, Duubatii nazaro.n se ham
+luuT kar meraa jahaa.N chhup gaye ho tum kahaa.N \- 2
+tum kahaa.N, tum kahaa.N, tum kahaa.N
+tum na jaane kis jahaa.N me.n \threedots
+
+maut bhii aatii nahii.n, raat bhii jaatii nahii.n
+dil ko ye kyaa ho gayaa, koii shah bhaatii nahii.n
+luuT kar meraa jahaa.N chhup gaye ho tum kahaa.N \- 2
+tum kahaa.N, tum kahaa.N, tum kahaa.N
+tum na jaane kis jahaa.N me.n \threedots
+%
+#endindian
+\endsong
+%

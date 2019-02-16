@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{sun lo sajan ho sun lo sajan merii baat}%
+\film{Lahore}%
+\year{1949}%
+\starring{Karan Divan,Nargis}%
+\singer{Lata}%
+\music{Shyamsunder}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+sun lo sajan ho sun lo sajan merii baat
+merii baat, jii kii baat
+(chho.D na denaa kahii.n)\-2
+(meraa saath)\-2
+dil kii baat
+sun lo sajan\threedots
+ 
+(oo~ din hai.n rasiile ratiyaa suhaanii)\-2
+(aise me.n kahale dilo.n kii kahaanii)\-2
+(aaj dilo.n kii nagariyaa basaale.n)\-2
+kal kii,chotii baat
+aa~  kal kii,chotii baat
+merii baat
+jii kii baat
+sun lo sajan\threedots
+ 
+(oo~ saanchii kaho yaa bahaane se kahado)\-2
+(mere ho tum ye zamaane se kahado)\-2
+(chupp chupp ho kyu.n kuch to bolo sajan)\-2
+(kahado dil kii baat)\-2
+dil kii baat
+merii baat
+sun lo sajan\threedots
+
+%
+#endindian
+\endsong
+%

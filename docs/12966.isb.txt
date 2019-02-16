@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jazbaa\-e\-ishq jo salaamat hai}%
+\film{Main Shadi Karne Chala}%
+\year{1962}%
+\starring{I S Johar, Saida Khan, Rajendranath, Feroz Khan, Mumtaz, Tabassum}%
+\singer{Rafi, Suman/ Suman}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10137 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	jazbaa\-e\-ishq jo salaamat hai to inshaa\-allaah
+	kachche dhaage me.n chale aa_e.Nge sarakaar ba.Ndhe
+
+	ishq me.n jab shikave lab talaq aa_e.nge
+	dil to dil patthar bhii sun ke hil jaa_e.Nge
+	( ishq kii ham pe ) \-2 inaayat hai to inshaa\-allaah
+	kachche dhaage me.n \threedots
+
+su \:	jazbaa\-e\-ishq jo salaamat hai inshaa\-allaah
+	kachche dhaage me.n \threedots
+
+	ishq me.n jab shikave lab talaq aa_e.nge
+	dil to dil patthar bhii sun ke hil jaa_e.Nge
+	( ishq kii ham pe ) \-2 inaayat hai to inshaa\-allaah
+	kachche dhaage me.n \threedots
+
+	ham pukaare.n lekin aap ruk jaate hai.n
+	do qadam chalane me.n paa.Nv dukh jaate hai.n
+	( ye adaa_o.n kii ) \-2 nazaakat hai to inshaa\-allaah
+	kachche dhaage me.n \threedots
+
+ra \:	dil ko kyaa rokoge dil to beqaabuu hai
+su \:	haay ba.Daa hii zaalim pyaar kaa jaaduu hai
+ra \:	aapako hamase
+su \:	aapako hamase
+do \:	aapako hamase mohabbat hai to inshaa\-allaah
+	kachche dhaage me.n \threedots
+%
+#endindian
+\endsong
+

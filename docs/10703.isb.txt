@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{jaago sone vaalo.n suno merii kahaanii}%
+\film{Bhoot Bungla}%
+\year{1965}%
+\starring{Tanuja, Mehmood, Nazir Husain, Nana Palasikar, Asit Sen, Pancham}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10751 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jaago sone vaalo.n suno merii kahaanii \-2
+kyaa amiirii kyaa Gariibii bhuulo baate.n puraanii
+jaago sone vaalo.n \threedots
+
+TuuTaa jo aaj dil kaa vo saaz rone lagaa ek badanasiib
+ha.Nsane lage duniyaa ke log ko_ii hu_aa barbaad
+jaago sone vaalo.n \threedots
+
+ye uu.Nch niich duniyaa ke biich aaKir ye kyo.n bolo ko_ii
+jo hai bhalaa vo kyo.n buraa ham to na samajhe ye raaz
+jaago sone vaalo.n \threedots
+
+aapas me.n Gam baa.NTe.n jo ham phir na rahe.n aise sitam
+kahane ko i.nsaan hai.n vo insaaniyat kahaa.N hai
+jaago sone vaalo.n \threedots
+%
+#endindian
+\endsong
+

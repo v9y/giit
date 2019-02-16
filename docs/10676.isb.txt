@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{aajaa raat biitii jaa_e shamaa ta.Dap kar bujh na jaa_e}%
+\film{Begunaah}%
+\year{1957}%
+\starring{Kishore, Shakeela}%
+\singer{Kishor, Usha}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10843 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aajaa raat biitii jaa_e
+shamaa ta.Dap kar bujh na jaa_e
+cha.ndaa Gam se Duub na jaa_e
+aa aajaa raat biitii jaa_e \threedots
+
+hai tujhako agar duniyaa kaa Dar chhup jaa merii aa.Nkho.n me.n
+aajaa raat biitii jaa_e \threedots
+
+ye le chokii bambaa le\-le bambaa le\-le bambaa le
+shuu.n shuu.n bambaa le\-le shuu.n shuu.n
+
+mai.n duur kaa raahii ghar duur hai meraa
+pal bhar to kiyaa tere dil me.n baseraa
+aajaa raat biitii jaa_e \threedots
+
+majabuur hai mohabbat tere pyaar ke maare
+kab talaq jiye.nge tere Gam ke sahaare
+aajaa raat biitii jaa_e \threedots
+
+ham bhii to hai.n tere kar yaqiin meraa
+dil diyaa hai tujhako dil rahegaa teraa
+aajaa raat biitii jaa_e \threedots
+%
+#endindian
+\endsong
+

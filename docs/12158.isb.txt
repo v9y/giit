@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaate ho parades piyaa jaate hii khat likhanaa}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Nitin Mukesh}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaate ho parades piyaa jaate hii khat likhanaa
+dekho tum bhii khat meraa paate hii khat likhanaa
+jaate ho parades piyaa \threedots
+
+likhanaa kaise safar kaTaa thaa kaise guzare vo pal chhin
+kyaa mahasuus kiyaa thaa tumane saa.njh Dhalii jab mere bin
+kab kab yaad hamaarii aa_ii kaise tumane raat bitaa_ii
+jaate ho parades piyaa \threedots
+
+apanii judaa_ii ke is pal se pahale khat ke aane tak
+pal pal kii tum baate.n likhanaa puuraa khat bhar jaane tak
+gumasum gumasum kho_ii kho_ii tum chhupakar kitanaa ro_ii.n
+jaate ho parades piyaa \threedots
+
+dekh nahii.n paaye.nge tumako ojhal hote ye nayanaa
+lo mai.n palake.n muu.nd rahii huu.N tum chal do mere sajanaa
+ye to hai ik tarafaa vidaa_ii isame.n pyaar kii hai rusavaa_ii
+jaate ho parades piyaa \threedots
+%
+#endindian
+\endsong
+

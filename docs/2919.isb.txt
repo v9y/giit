@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{nainaa lagaake sukh le gayo}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date: Jan 12,2001
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+
+(nainaa laga ke sukh le gayo
+duHkh de gayo pardesii piyaa) \-3
+
+(virahaa kii raat chhaa_ii badariyaa
+chham chham chham chham chham chham chhamake bijuriyaa
+chhamake bijuriyaa) \-2
+yaad dilaake
+sukh le gayo dukh de gayo
+paradesii piyaa
+nainaa lagaa ke \threedots
+
+bataaye mohe Dagariyaa, kaun bataaye mohe Dagariyaa
+naam priitam prem nagariyaa, prem nagariyaa
+itanaa bataa mujhe de gayo
+sukh le gayo \threedots
+nainaa lagaake \threedots
+
+kahatii rahii mai.n par na rukaa vo
+chham chham chham chham chham chham chhamake chhalaa vo
+chhamake chhalaa vo)\-2
+chuTakii bajaake
+dil le gayo dukh de gayo
+paradesii piyaa
+nainaa lagaa ke \threedots
+
+%
+#endindian
+\endsong
+%

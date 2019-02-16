@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{vahii chaa.Ndanii hai vahii aasamaa.N hai}%
+\film{Rishta}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{K Dutta}%
+\lyrics{Pt. Phani}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+vahii chaa.Ndanii hai vahii aasamaa.N hai
+bahaare.n vahii aur vahii gul_sitaa.N hai
+magar jis se roshan ye dil kaa jahaa.N hai
+chhupaa chaa.Nd meraa vo jaa kar kahaa.N hai
+vahii chaa.Ndanii hai \threedots
+
+vahii dil vahii mai.n muhabbat bhii vo hii
+nigaaho.n me.n ab tak hai suurat bhii vo hii
+magar na vo mahafil na vo daastaa.N hai
+na vo daastaa.N hai
+vahii chaa.Ndanii hai \threedots
+
+mahakatii hai.n kaliyaa.N to chubhate hai.n kaa.NTe
+sisakate hai.n gu.nche to lagate hai.n ....
+magar dekhataa kaun ye maharabaa.N hai
+ye maharabaa.N hai
+vahii chaa.Ndanii hai \threedots
+
+%
+#endindian
+\endsong
+%

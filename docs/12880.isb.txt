@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kyo.n chhe.De hamako soneyaa tuu kyo.n sataataa hai}%
+\film{Mehboob Mere Mehboob}%
+\year{1992}%
+\starring{Pratibha Sinha, Boy Mukherjee, Aloknath, Beena, Ishita, Gulshan}%
+\singer{Anuradha Paudwal}%
+\music{Ram Laxman}%
+\lyrics{Ravindra Rawal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyo.n chhe.De hamako soneyaa tuu kyo.n sataataa hai
+tuu to ba.nsii bajaiyaa phir kyo.n kapa.De churaataa hai
+tuu to ba.nsii \threedots
+
+kuchh ham bhii shikaayat kar le.n kuchh tuu bhii shikaayat kar le
+kapa.Do.n kii sharaarat kaisii ko_ii aur sharaarat kar le
+kyo.n dil me.n hamaare mu.nDeyaa tuu aag lagaataa hai
+tuu to ba.nsii \threedots
+
+teraa cheharaa naTakhaT pyaaraa dil aur machal naa jaa_e
+tuu dekh naa aise hamako kahii.n jaan nikal naa jaa_e
+su_iiyaa.n sii hamaare dil me.n kaahe ko chubhaataa hai
+tuu to ba.nsii \threedots
+
+kapa.De nahii.n ho.nge to ham khud bhii sharamaa_e.nge
+diivaane bin kapa.Do.n ke ham ghar kaise jaa_e.nge re
+hamako Tha.nD lagatii hai tuu dil bahalaataa hai
+tuu to ba.nsii \threedots
+%
+#endindian
+\endsong
+

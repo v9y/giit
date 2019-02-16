@@ -1,0 +1,74 @@
+%
+\startsong
+\stitle{ghuu.NghaT kii aa.D se dilabar kaa diidaar adhuuraa rahataa hai}%
+\film{Hum Hain Raahi Pyar Ke}%
+\starring{Aamir Khan, Juhi Chawla}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+alakaa:		(ghuu.NghaT kii aa.D se dilabar kaa
+		diidaar adhuuraa rahataa hai) \- 2
+		jab tak naa pa.De aashiq kii nazar \- 2
+		si.ngaar adhUraa rahataa hai
+		ghuu.NghaT kii aa.D se dilabar kaa
+
+shaanuu:	ghuu.NghaT kii aa.D se dilabar kaa
+		diidaar adhuuraa rahataa hai
+		jab tak naa mile nazaro.n se nazar \- 2
+		iqaraar adhuuraa rahataa hai
+		ghuu.NghaT kii aa.D se dilabar kaa
+
+alakaa:		dilabar kaa dilabar kaa dilabar kaa
+shaanuu:	dilabar kaa dilabar kaa dilabar kaa
+
+shaanuu:	gore mukha.De se ghuu.NghaTaa haTaane de
+alakaa:		gha.Dii apane milan kii to aane de
+shaanuu:	mere dil pe nahii.n meraa kaabuu hai
+alakaa:		kuchh nahii.n ye chaahat kaa jaaduu hai
+shaanuu:	ba.DhatI hii jaatii hai.n sanam pyaar kii ye bekhudii ho
+alakaa:		do premiyo.n ke naa milane se
+		sa.nsaar adhuuraa rahataa hai
+		jab tak naa pa.De aashiq kii nazar \- 2
+		si.ngaar adhUraa rahataa hai
+		ghuu.NghaT kii aa.D se dilabar kaa
+
+shaanuu:	dilabar kaa dilabar kaa dilabar kaa
+alakaa:		haa.n! dilabar kaa dilabar kaa dilabar kaa
+
+alakaa:		baag me.n gul kaa khilanaa zaruurii hai
+shaanuu:	haa.N mohabbat me.n milanA zaruurii hai
+alakaa:		paas aane kaa achchhaa bahaanaa hai
+shaanuu:	kyaa karuu.n mai.n ki mausam diivaanaa hai
+alakaa:		dil meraa dha.Dakaane lagii ab to ye diivaanagii ho
+shaanuu:	binaa kisii yaar ke jaan\-e\-jaa.n 
+		ye pyaar adhuuraa rahataa hai
+
+		jab tak na mile nazaro.n se nazar \- 2
+		iqaraar adhuuraa rahataa hai
+		ghuu.NghaT kii aa.D se dilabar kaa
+
+alakaa:		ghuu.NghaT kii aa.D se dilabar kaa
+		diidaar adhuuraa rahataa hai
+		jab tak naa pa.De aashiq kii nazar
+		si.ngaar adhUraa rahataa hai
+		ghuu.NghaT kii aa.D se dilabar kaa
+
+shaanuu:	dilabar kaa dilabar kaa dilabar kaa
+alakaa:		haa.n dilabar kaa dilabar kaa dilabar kaa
+shaanuu:	dilabar kaa dilabar kaa dilabar kaa
+alakaa:		ho.n dilabar kaa dilabar kaa dilabar kaa
+shaanuu:	haa.n dilabar kaa dilabar kaa dilabar kaa
+alakaa:		haa.n dilabar kaa dilabar kaa dilabar kaa
+%
+#endindian
+\endsong
+%

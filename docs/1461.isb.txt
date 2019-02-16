@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{priitam aan milo, priitam aan milo}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{C H Atma}%
+\music{O P Nayyar}%
+\lyrics{Saroj Mohini Nayyar}%
+% 
+% Contributor: Guri <buxi@ix.netcom.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/17/1996
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments: An abbreviated version of the song appears in
+%           Mr. & Mrs. 55, in Geeta's voice (omits 1st stanza)
+%
+\printtitle
+#indian
+%
+priitam aan milo, priitam aan milo
+dukhiyaa jiyaa pukaare, priitam aan milo
+
+raat a.Ndherii aayii baalamaa, man moraa ghabaraae hai
+duur pe.D par baiThaa pa.nchhii, yahii raTanaa lagaae hai
+aan milo, priitam aan milo, priitam aan milo
+
+bhiigii raat me.n pe.D ke niiche, aa.Nkh\-micholii khel rachaayaa
+priitam yaad karo jab tumane, prem bharaa ik giit sunaayaa
+aan milo, priitam aan milo, priitam aan milo
+
+%
+#endindian
+\endsong
+%
+

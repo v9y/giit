@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dekho vo chaa.Nd chupake karataa hai kyaa ishaare}% 
+\film{Shart}%
+\year{}%
+\starring{Deepak, Shyama}%
+\singer{Hemant, Lata}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@du.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+he: dekho vo chaa.Nd chupake karataa hai kyaa ishaare
+l: shaayad ye kah rahaa hai, ham ho gaye tumhaare 
+ho gaye tumhaare, dekho \threedots 
+
+l: ulfat kaa aaj hamane iqaraar kar liyaa hai 
+lekin ye kaun jaane kismat me.n kyA likhaa hai 
+ma.njil ko chal pa.De hai.n taqadIr ke sahaare 
+ho gaye tumhaare, dekho \threedots 
+
+he: aisA nA ho ki hamako raste me.n chho.D jaao 
+jaakar kahii.n kisIkii duniyA na_ii basaao 
+ma.njhadhaar me.n rahe ham, lag jaao tum kinaare 
+ho gaye tumhaare, dekho \threedots
+
+l: dil me.n sivaa tumhaare koI nahii.n hamaare 
+ye apane dil se puuchho kyA dil me.n hai tumhaare 
+de.nge merI gavaahii kudarat ke ye nazaare 
+ho gaye tumhaare, dekho \threedots
+%
+#endindian
+\endsong
+%

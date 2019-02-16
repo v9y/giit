@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{daaman na chhu.Daa}%
+\film{Lakeeren}%
+\year{1954}%
+\starring{Ashok Kumar, Nalini Jaywant, Pran, Tiwari, Cuckoo}%
+\singer{Geeta}%
+\music{Hafiz Khan}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: Neha Desai
+% Comments:
+%
+\printtitle
+#indian
+%
+
+daaman na chhu.Daa yuu.N duur na kar
+rone ke liye majabuur na kar
+mai.n kahatii rahii vo sunataa rahaa
+yuu.N shiishaa\-e-\-dil ko chuur na kar
+majabuur na kar, o yuu.N duur na kar
+
+dil dil se bichha.Dane kaa ma.nzar
+vo ashko.n kaa giranaa daaman par
+khaamosh nazar thii afasaanaa
+bedard na is par bhii maanaa
+mai.n kahatii rahii vo sunataa rahaa
+yuu.N shiishaa\-e-\-dil ko chuur na kar
+majabuur na kar, o yuu.N duur na kar
+daaman na chhu.Daa
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{akka.D bakka.D bambe bo ik la.Dakii aur aashiq sau}%
+\film{Lo Main Aa Gayaa}%
+\year{1998}%
+\starring{Vinay Anand, Nandini Singh}%
+\singer{Sunita Rao, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Raj Anand, Dev Kohli, Rajesh Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+akka.D bakka.D bambe bo ik la.Dakii aur aashiq sau
+sabako diivaanaa kar duu.ngii zaraa raat ke baaraa bajane do
+akka.D bakka.D akka.D bakka.D
+akka.D bakka.D bambe bo \threedots
+
+are baaraa baje kaa matalab a_isaa va_isaa na samajhanaa
+us vaqt mere khvaabo.n me.n aataa hai meraa sajanaa
+dil se dil mil jaa_e.nge zaraa gha.Dii kii su_iiyaa.n milane do
+akka.D bakka.D bambe bo \threedots
+
+ye umr hai merii solaa man pa.nchhii saa hai bholaa
+mai.n dekh rahii huu.N sabako dil sabakaa Dolaa Dolaa
+furr se mai.n u.D jaa_uu.ngii ik baar to mauqaa milane do
+akka.D bakka.D bambe bo \threedots
+%
+#endindian
+\endsong
+

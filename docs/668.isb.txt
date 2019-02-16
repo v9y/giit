@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ham aur tum aur ye samaa, kyaa nashaa nashaa saa hai}%
+\film{Dil Deke Dekho}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+% \printtitle
+#indian
+%
+ham aur tum aur ye samaa
+kyaa nashaa nashaa saa hai
+boliye na boliye
+sab sunaa sunaa saa hai
+
+aaj baat baat pe
+aap kyuu.N machalane lage
+tharatharaae ho.nTh kyuu.N
+ashq kyuu.N machalane lage
+lipaTe gesuu khulane lage \- 2
+
+ham aur tum \threedots
+
+beqaraar se ho kyuu.N
+hamako paas aane bhii do
+gir pa.Daa jo haath se
+vah rumaal uThaane bhii do
+banate kyuu.N ho jaane bhii do \- 2
+
+ham aur tum \threedots
+%
+#endindian
+\endsong
+%

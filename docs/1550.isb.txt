@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{rulaa ke gayaa sapanaa meraa, baiThii huu.N kab ho saveraa}%
+\film{Jewel Thief}%
+\year{}%
+\starring{Dev Anand, Vyjayantimala, Tanuja}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Dinesh K. Prabhu (prabhu@amelia.nas.nasa.gov)
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rulaa ke gayaa sapanaa meraa
+baiThii huu.N kab ho saveraa, rulaa \threedots
+
+vahii hai Gam\-e\-dil, vahii hai cha.ndaa, taare
+haay, vahii ham besahaare
+aadhii raat vahii hai, aur har baat vahii hai
+phir bhii na aayaa luTeraa, rulaa \threedots
+
+kaisii ye zi.ndagii, ki saa.Nso.n se ham, uube
+haay, ki dil Duubaa ham Duube
+ek dukhiyaa bechaarii, is jiivan se haarii
+us par ye Gam kaa andheraa, rulaa \threedots
+%
+#endindian
+\endsong
+%

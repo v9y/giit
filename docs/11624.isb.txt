@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{sulajhaa_o na ulajhii zulfo.n ko ham ulajhan me.n}%
+\film{Girls' Hostel}%
+\year{1962}%
+\starring{Ajeet, Nalini Jaywant, Johny Walker, Shamlal, Nagpal, Cukoo}%
+\singer{Mukesh, Asha}%
+\music{Ravi}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10709 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	sulajhaa_o na ulajhii zulfo.n ko
+	ham ulajhan me.n pa.D jaate hai.n
+	sulajhaa_o na ulajhii \threedots
+aa \:	yuu.N dekh ke ulajhii nazaro.n se
+	kyuu.N aap hame.n ulajhaate hai.n
+mu \:	sulajhaa_o na ulajhii \threedots
+
+	ham Duub rahe hai.n mastii me.n aise me.n palake.n jhapakaanaa
+aa \:	Dar hai aa.Nkho.n me.n ban jaa_e na ko_ii afasaanaa
+mu \:	ye pal to guzar jaate hai.n magar
+	afasaane hii rah jaate hai.n
+	sulajhaa_o na ulajhii \threedots
+
+aa \:	in bahakii baato.n se dekho jii hame.n na bahakaa_o
+mu \:	muddat se yuu.N hii ta.Dapate hai.n ab aur hame.n naa ta.Dapaa_o
+aa \:	ham pyaar kii lambii raaho.n pe
+	chalane se bhii ghabaraate hai.n
+mu \:	sulajhaa_o na ulajhii \threedots
+%
+#endindian
+\endsong
+

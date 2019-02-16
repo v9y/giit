@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ye mausam kah rahaa hai ... ai dil zaraa sa.mbhal}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{2001}%
+\starring{Govinda, Tabbu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye mausam ye mausam kah rahaa hai chal saath chal
+ye javaa.n javaa.n samaa.n ye fizaa_e.n dil zaraa sa.mbhal
+ye mausam \threedots
+
+bha.nvaro.n ne kaliyo.n kaa ghuu.nghaT uThaayaa
+gulashan mahakane lagaa
+Kushbuu ne aisaa fasaanaa sunaayaa
+mai.n bhii bahakane lagaa
+vaadii gulashan jaisii sajii
+chhupake kahii.n shahanaa_ii bajii
+ye nayaa nayaa nashaa chhaa rahaa hai
+ai dil zaraa sa.mbhal ai dil zaraa sa.mbhal
+ye mausam \threedots
+
+pagalii banii.n ye diivaanii havaa_e.n
+laharo.n ne kii chhe.Dakhaanii
+kahataa hai mujhase Thahar jaa tuu pal bhar
+Thaharaa ye jharano.n kaa paanii
+kitane hasii.n hai.n ye silasile
+vo aasamaa.n se dharatii mile
+meraa chain kyuu.n bhalaa jaa rahaa hai
+ai dil zaraa sa.mbhal ai dil zaraa sa.mbhal
+ye mausam \threedots
+%
+#endindian
+\endsong
+

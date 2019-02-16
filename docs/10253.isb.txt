@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{mere dil me.n jo hotaa hai}%
+\film{Aap Ke Deewaane}%
+\year{1980}%
+\starring{Rishi Kapoor, Rakesh Roshan, Tina Munim, Ashok Kumar}%
+\singer{Rafi, Kishore, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11602 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	mere dil me.n jo hotaa hai
+ra \:	tere dil me.n kyaa hotaa hai
+ki \:	hotaa hai to
+ra \:	ye pyaar hai
+ki \:	ikaraar hai
+la \:	haa.N tho.Daa kuchh hotaa to hai
+	jaane kyaa isakaa naam mai.n huu.N mushqil me.n
+ki \:	mere dil me.n \threedots
+
+ki \:	apanii mushqil ko aasaan kar lo
+	aa.Nkho.n me.n jhaa.Nko pahachaan kar lo
+ra \:	is dostii ko kuchh naam de do
+	aaGaaz de do anjaam de do
+la \:	tum jo chaaho isako samajho
+	jo samajho vo mujhako kah do
+	mujhako kahaa.N inkaar hai ikaraar hai
+
+ki \:	kuchh to bataa do apanii zubaanii
+	ham jo.D le.nge aage kahaanii
+ra \:	bechain sii hai kyaa zindagaanii
+	bas pyaar kii hai ye hii nishaanii
+la \:	aisaa hai to rahane bhii do jaane bhii do
+	kuchh aur to kahanaa abhii dushvaar hai
+
+ra \:	kar do nazar se ko_ii ishaaraa
+ki \:	kyaa faisalaa hai bolo tumhaaraa
+la \:	apane dilo.n ko aise na to.Do
+	qismat kii baate.n qismat pe chho.Do
+	mausam bhii furasat bhii hai
+	aa_o mil ke jhuume.n\-gaa_e.N
+	ham phir kabhii soche.nge kyaa pyaar hai
+ki \:	mere dil me.n \threedots
+%
+#endindian
+\endsong
+

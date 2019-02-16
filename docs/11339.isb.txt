@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{husn se chaa.Nd bhii sharamaayaa hai}%
+\film{Door Ki Awaz}%
+\year{1964}%
+\starring{Joy Mukherjii, Saira Bano, Om Prakash, Pran, Johny Waker, Manorama}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10692 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( husn se chaa.Nd bhii sharamaayaa hai
+terii suurat ne gazab Dhaayaa hai ) \-2
+
+haay in pyaar me.n Duubii hu_ii aa.Nkho.n kii qasam
+aadamii kyaa hai farishto.n ke bahak jaa_e.N qadam
+bin pi_e mujhape nashaa chhaayaa hai
+terii suurat ne \threedots
+
+jab se paayaa hai tujhe hosh nahii.n hai mujhako
+yaa to ye sach hai ki dekh rahaa huu.N tujhako
+yaa ko_ii Kvaab nazar aayaa hai
+terii suurat ne \threedots
+
+muskaraa_e.N jo tere lab to bahaare.n aa_ii.n
+khil ga_e phuul pa.Dii terii jahaa.N parachhaa_ii.n
+tuune gulashan meraa mahakaayaa hai
+terii suurat ne \threedots
+%
+#endindian
+\endsong
+

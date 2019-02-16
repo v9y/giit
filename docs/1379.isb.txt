@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{o merii jaan, o merii jaan, ab nahii.n rahanaa tere binaa}%
+\film{Manzil Manzil}%
+\year{}%
+\starring{Sunny Deol, Dimple Kapadia}%
+\singer{Asha, Shailendra Singh}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+% 
+% Contributor: Neeraj Deshmukh (neeraj@engc.bu.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Sep 10 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+AshA:
+o merii jaan, o merii jaan
+ab nahii.n rahanaa tere binaa
+
+haarii mai.n tujhase, mu.Nh pher ke
+aa.Nkhe.n khulii par, zaraa der se
+koii meraa, tujhasaa kahaa.N
+ab nahii.n rahanaa tere binaa
+
+tuu hai to Thokar, khaa lu.Ngii mai.n
+kaa.nTo.n me.n jiivan, bitaa luu.Ngii mai.n
+le chal mujhe, chaahe jahaa.N
+ab nahii.n rahanaa tere binaa
+
+shailendra:
+jis din se dekhaa, yaaraa tujhe
+ma.nzil ma.nzil pukaaraa tujhe
+tere sivaa, jaanaa kahaa.N
+ab nahii.n rahanaa tere binaa
+%
+#endindian
+\endsong
+%

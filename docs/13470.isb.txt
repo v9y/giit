@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tuu is zamii.n kii chiiz nahii.n ... terii kasam mai.n huu.N teraa diivaanaa}%
+\film{Prem Granth}%
+\year{1996}%
+\starring{Shammi Kapoor, Rishi, Madhuri, Anupam, Om Puri, Prem Chopra}%
+\singer{Vinod Rathod}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu is zamii.n kii chiiz nahii.n jaane kahaa.n se aa_ii hai
+tuu is chaman kaa phuul nahii.n tuu kis gulasitaa.n se aa_ii hai
+
+terii kasam mai.n huu.N teraa diivaanaa tuu jo kahe kar jaa_uu.ngaa
+tere li_e hii mai.n jii rahaa huu.N tere li_e mar jaa_uu.ngaa
+terii kasam mai.n huu.N \threedots
+
+aashiq huu.N mai.n mastaanaa huu.N mai.n jal jaa_uu.ngaa paravaanaa huu.N mai.n
+ho ko_ii havaa kaa jho.nkaa nahii.n jo chupake se guzar jaa_uu.ngaa
+tere li_e hii mai.n jii \threedots
+
+meraa machalanaa meraa ta.Dapanaa mat dekhanaa aa.Nkhe.n ba.nd rakhanaa
+ho dekhaa jo tuune merii taraf tere dil me.n utar jaa_uu.ngaa
+tere li_e hii mai.n jii \threedots
+%
+#endindian
+\endsong
+

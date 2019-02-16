@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{gunagunaataa hai giit gaataa hai ye samaa.n}%
+\film{Yeh Kya Ho Raha Hai}%
+\year{2002}%
+\starring{Prashant, Vaibhav, Aamir, Yash}%
+\singer{Shaan, Saumya}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+gunagunaataa hai giit gaataa hai ye samaa.n
+khil rahe hai.n gul mahak jaataa hai ye samaa.n
+khushbu_o.n me.n jaise nahaataa hai ye samaa.n
+ham hai.n jo is pal yahaa.N
+baadal bhii parabat bhii nadiyaa.N bhii dhaare bhii
+saare nazaare the gumasum
+jaagii havaa_e.N hai.n jaagii fizaa_e.N hai.n
+aa_e yahaa.N hai.n jo ham tum
+gunagunaataa hai \threedots
+
+dil pe jo bojh the vo saare halke hu_e
+zi.ndagii me.n na_e ra.ng hai.n chhalake hu_e
+zulfe.n hai.n khul ga_ii.n
+aa.Nchal hai.n Dhalake hu_e
+ho.nTho.n pe jo sapane sajaataa hai ye samaa.n
+har nazar me.n jaaduu jagaataa hai ye samaa.n
+na_ii daastaan ko_ii sunaataa hai ye samaa.n
+ham hai.n jo is pal \threedots
+
+pyaar kii raaginii jabase hamane sunii
+tabase hai raaho.n me.n Tha.nDii sii ik roshanii
+raah kaisii hasii.n ham dono.n ne hai chunii
+hamase milake jo muskuraataa hai ye samaa.n
+ruup kitane pyaare dikhaataa hai ye samaa.n
+har gha.Dii ko dilakash banaataa hai ye samaa.n
+ham hai.n jo is pal \threedots
+%
+#endindian
+\endsong
+

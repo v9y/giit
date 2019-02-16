@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{haay Gazab kahii.n taaraa TuuTaa}%
+\film{Teesri Kasam}%
+\year{1966}%
+\starring{Waheeda Rehman, Raj Kapuur}%
+\singer{Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Veena Nayak
+% Transliterator: K Vijay Kumar
+% Credits:
+% Series : The Missing Element (4)
+%
+\printtitle
+#indian
+%
+haay Gazab kahii.n taaraa TuuTaaa
+luuTaa re luuTaa mere sai.nyyaa ne luuTaa
+
+pahalaa taaraa aTariyaa pe TuuTaa (2)
+daa.Nto.n tale mai.n ne daabaa a.nguuThaa (2)
+luuTaa re luuTaa, saa.Nvariyaa ne luuTaa
+haay Gazab kahii.n taaraa TuuTaaa   \threedots
+
+duusaraa taaraa bajariyaa me.n TuuTaa  (2)
+dekhaa hai sabane __________ chhuuTa  (2)
+luuTaa re luuTaa, sipahyaa ne luuTaa
+haay Gazab kahii.n taaraa TuuTaaa   \threedots
+
+tiisaraa taaraa phul_bagiyaa me.n TuuTaa  (2)
+phuulo.n se puuchhe koii hai kaun jhuuTha  (2)
+luuTa re luuTa, darogaa ne luuTaa
+haay Gazab kahii.n taaraa TuuTaaa   \threedots
+%
+#endindian
+\endsong
+%

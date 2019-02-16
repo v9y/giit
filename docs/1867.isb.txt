@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{yaad aa ga_ii vo nashiilii nigaahe.n, yaaro.n thaam lenaa}%
+\film{Manzil}%
+\year{}%
+\starring{Dev Anand, Nutan}%
+\singer{Hemant}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+yaad aa gaii vo nashiilii nigaahe.n
+yaaro.n thaam lenaa, thaam lenaa merii baahe.n
+yaad aa ga_ii vo nashiilii nigaahe.n
+	
+(jaam kab hamane piyA hai
+ye Gam\-e\-dil kA nashA hai ) \- 2
+kyA jaanuu.N girake sambhalanA
+haa.N merA sa.ng sa.ng chalanA
+yaaro.n thAm lenA, thAm lenA merI baahe.n
+yaad aa gaI \threedots
+	
+(hai unhI aa.Nkho.n kI nishaanI
+ye merI zakhmI javaanI ) \- 2
+mai.n in zakhmo.n ko siike
+kyA karU.n hosh me.n jiike
+(yaaro.n thAm lenA, thAm lenA merI baahe.n
+yaad aa gaI vo nashIlI nigAhe.n ) \- 2
+%
+#endindian
+\endsong
+%

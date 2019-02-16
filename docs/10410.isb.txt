@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{halkii sii qasak\-masak hotii hai dil me.n}%
+\film{Amar Deep}%
+\year{1979}%
+\starring{Rajesh Khanna, Vinod Mehra, Shabana Azmi, Deepa, Ashok Kumar, Mithun Chakravarty}%
+\singer{Kishore, Lata}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11594 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+halkii sii qasak\-masak haay\-haay qasak\-masak
+hotii hai dil me.n
+huu.N is dil ke haatho.n par pa.D ga_e mushqil me.n huu.N huu.N
+
+nirlaj pavan ke jho.Nke ba.De hai.n
+besharm mere piichhe pa.De hai.n
+sau baar o.Dhuu.N aa.Nchal na chho.Duu.N
+phir bhii chunar rahe Dhalakii sii
+halkii sii dha.Dak\-dha.Dak haay\-haay dha.Dak\-dha.Dak
+hotii hai dil me.n \threedots
+
+bas chale aa_e chaaho jo ho jaa_e
+lambii umar ik pal kii sii
+halkii sii aTak\-saTak haay\-haay aTak\-saTak
+hotii hai dil me.n \threedots
+
+mai.n gir na jaa_uu.N mujhako sambhaalo
+aa.Nkho.n me.n rakh lo dil me.n chhupaa lo
+chhaa_ii hai aisii mastii ye kaisii
+rahatii hai bas jo palak sii
+halkii sii laTak\-maTak haay\-haay laTak\-maTak
+hotii hai dil me.n \threedots
+%
+#endindian
+\endsong
+

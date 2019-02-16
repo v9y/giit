@@ -1,0 +1,106 @@
+%
+\startsong
+\stitle{o ##madam## do se ho gaye ek ham}%
+\film{Aashiyaanaa}%
+\year{1952}%
+\starring{Raj Kapoor, Nargis, Mohana}%
+\singer{Rafi, Shamshad}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12069 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+% hfgk credits male voice to kishore, but it is of rafi.
+%
+\printtitle
+#indian
+%
+ra \:	o ##madam##
+	o o ##madam##
+	o o o ##madam##
+	he
+	do se ho gaye ek ham
+	na phaa.Nkaa na Gam
+	o ##madam##
+
+sha \:	o ##mister##
+	a aa aa ##mister##
+	dil kaa ##horn## aaj Kushii se
+	baaje pam\-pam
+	o ##mister##
+	
+	paapaa Kush maamaa Kush \-2
+	dekh ke apanii jo.Dii
+ra \:	wo kyaa jaane apanii shaadii
+	kii muddat hai tho.Dii
+sha \:	kal kii kisane dekhii pyaare
+	aaj manaate Gam
+sha \:	o ##mister##
+ra \:	o ##madam##
+	o o ##madam##
+	he
+	do se ho gaye ek ham
+	na phaa.Nkaa na Gam
+	o ##madam##
+
+sha \:	o ##mister##
+	o o o ##mister##
+	dil kaa ##horn## aaj Kushii se
+	baaje pam\-pam
+	o ##mister##
+
+sha \:	( ##marriage## kii raat hai
+	ho o o o
+	kitanii suhaanii ) \-2
+ra \:	o lekin merii bulabul
+	##marriage## hai aanii\-jaanii
+	aanii\-jaanii jaanii\-aanii
+	yaanii\-yaanii gyaanii\-dhaanii
+	lekin merii bulabul
+	##marriage## hai aanii\-jaanii
+	kaun ye jaane kab pa.D jaaye
+	Dhaa_ii ##watt## kaa ##bulb##
+
+ra \:	o ##madam##
+	o o ##madam##
+	o o o ##madam##
+	he
+	do se ho gaye ek ham
+	na phaa.Nkaa na Gam
+	o ##madam##
+
+sha \:	o ##mister##
+	o o o ##mister##
+	dil kaa ##horn## aaj Kushii se
+	baaje pam\-pam
+	o ##mister##
+
+ra \:	##marriage## to hai ek guubaaraa
+	hai ##marriage## to hai ek guubaaraa
+	kabhii na phuule saaraa
+sha \:	( maar\-maar ke phuu.Nke.n
+	thak jaaye miyaa.N bechaaraa ) \-2
+ra \:	are achchii hai wo biiwii
+	jisakaa jaldii nikale dam
+
+ra \:	kyo.n ##madam##
+sha \:	abe jaa ##mister##
+
+ra \:	o ##madam##
+	do se ho gaye ek ham
+	na phaa.Nkaa na Gam
+	o ##madam##
+
+sha \:	o ##mister##
+	o o o ##mister##
+	dil kaa ##horn## aaj Kushii se
+	baaje pam\-pam
+	o ##mister##
+ra \:	o ##madam##
+sha \:	o ##mister##
+ra \:	o o ##madam##
+%
+#endindian
+\endsong

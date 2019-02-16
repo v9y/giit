@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{aa_iine me.n ek chaa.Nd sii suurat nazar aa_ii}%
+\film{Elan}%
+\year{1947}%
+\starring{Surendra, Munavvar Sultana, Himalaywala, Leela Mishra}%
+\singer{Amirbai, Surendra Nath}%
+\music{Naushad}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12110 [V S Rawat]
+%
+\printtitle
+#indian
+%
+surai \:	aa_iine me.n ek chaa.Nd sii suurat nazar aa_ii
+sure \:	aa_iine me.n ek chaa.Nd sii suurat nazar aa_ii
+surai\:	sau baar hu_ii jis pe fidaa saarii Kudaa_ii
+	ho suurat nazar aa_ii
+sure \:	sau baar hu_ii jis pe fidaa saarii Kudaa_ii
+	ho suurat nazar aa_ii
+
+sure \:	( aa.Nkho.n me.n tamannaa_o kaa aabaad zamaanaa
+surai \:	har baat kuchh aisii ke mohabbat kaa fasaanaa ) \-2
+sure \:	phuulo.n ne nazaaqat tere ruKasaar se paa_ii
+	ho suurat nazar aa_ii
+	aa_iine me.n ek chaa.Nd sii suurat nazar aa_ii
+
+sure \:	( Dhalakaa hu_aa aa.Nchal ho qayaamat kii adaaye.n
+surai \:	detaa hai meraa dil tujhe rah\-rah ke du_aaye.n ) \-2
+sure \:	aa
+	husn salaamat rahe aabaad rahe tuu
+surai \:	ai
+	husn salaamat rahe aabaad rahe tuu
+sure \:	tuu hai to tere dam se hai aabaad Kudaa_ii
+surai \:	tuu hai to tere dam se hai aabaad Kudaa_ii
+	o suurat nazar aa_ii
+	aa_iine me.n ek chaa.Nd sii suurat nazar aa_ii
+%
+#endindian
+\endsong
+

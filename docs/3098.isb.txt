@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaanaa naa dil se duur}%
+\film{Aarzoo}%
+\year{1950}%
+\starring{Dilip Kumar, Kamini Kaushal}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor:  Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Comments : LATAnjali series
+%
+\printtitle
+#indian
+%
+jaanaa naa dil se duur aa.Nkho.n se duur jaake \-2
+naazuuk bahut hai dekho, naazuuk bahut hai dekho
+dil ho na Gam se chuur
+
+aa.Nkho.n se duur jaake \threedots
+
+furqat ke ra.nj sahanaa aur mu.Nh se kuchh na kahanaa \-2
+bichha.De hai.n aaj ham tum, bichha.De hai.n aaj ham tum
+milanaa hai phir zaruur
+
+aa.Nkho.n se duur jaake \threedots
+ 
+(ulfat ko tum nibhaanaa mujhase na ruuTh jaanaa
+mujhase na ruuTh jaanaa ) \-2
+zaalim hai yah zamaanaa, zaalim hai yah zamaanaa
+dil to hai beqasuur
+
+aa.Nkho.n se duur jaake \threedots
+%
+#endindian
+\endsong
+%
+

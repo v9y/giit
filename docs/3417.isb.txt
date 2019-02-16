@@ -1,0 +1,53 @@
+% ITRANS SONG # 3417; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-08-25 02:25:19 PST
+%
+\startsong
+\stitle{meraa kahaa.N hai man meraa wo to ek hii pal me.n teraa huaa}%
+\film{Gul-E-Bakaavali}%
+\year{1956}%
+\starring{T R Rajkumari, M G Ramchandran}%
+\singer{Talat, Jikki (P G Krishnaveni)}%
+\music{Gyan Dutt}%
+\lyrics{Indeevar}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 25 august 2002
+% Comments: A rare 1950s appearance by the MD Jnan Dutt.
+% Based on Raag Bageshri.
+%
+\printtitle
+#indian
+%
+Jikki:
+meraa kahaa.N hai man meraa
+wo to ek hii pal me.n teraa hu_aa
+naa jaane kyaa hu_aa
+
+Talat:
+mujhako luTaa pyaar\-pyaar me.n
+moh liyaa man ko pahalii baar me.n
+meraa kahaa.N hai \threedots
+
+Jikki:
+% Terrific alapi by Jikki
+priitam apanaa maanaa tumhe.n
+maine jab se jaanaa tumhe.n
+(saaz/soz?? na thii yaa
+OR
+saajan ??? yaa???) - suspect line
+(le bhii jaa_ii)?? - suspect line
+(pyaare pyaare yaad aa_e.N) ?? - suspect line
+meraa kahaa.N hai \threedots
+% alapi by Talat.
+tm: jaise ke kaajal base nain me.n
+ji: aa bas palakan me.n
+tm: baaGo.n me.n yuu.N hii bulabul bole
+ji: basa.nt me.n jiyaa_r??? Dole
+
+bo: meraa kahaa.N hai \threedots
+%
+#endindian
+\endsong
+%

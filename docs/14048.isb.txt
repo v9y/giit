@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mohabbat inaayat ... maasuum sanam tuu aur mujhe}%
+\film{Surakshaa}%
+\year{1995}%
+\starring{Monica Bedi, Aditya, Saif, Sheeba, Divya Dutta, Sunil Shetty, Kader}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	mohabbat mohabbat mohabbat inaayat inaayat inaayat
+ku \:	maasuum sanam tuu aur mujhe \-2 tuu aur diivaanaa banaa de
+	o maasuum sanam tuu aur mujhe diivaanaa banaa de
+	mai.n pyaar tujhe kyo.n karane lagaa \-2 itanaa to bataa de
+
+a \:	mohabbat mohabbat mohabbat inaayat inaayat inaayat
+	mahabuub mere duniyaa se mujhe \-2 diivaanaa banaa de
+	mai.n pyaar tujhe kyo.n karane lagii \-2 itanaa to bataa de
+
+	pichhale janam kaa teraa meraa rishtaa hai jaise
+	ek Kvaab saa hai aa.Nkho.n me.n basaa ye cheharaa hai jaise
+ku \:	dil bhii de duu.N jaan bhii de duu.N ulafat ke badale
+	maa.ng le tuu de sakataa huu.N chaahat ke badale
+a \:	mohabbat mohabbat mohabbat inaayat inaayat inaayat
+	madahosh kare jo dil ko mere vo jaaduu chalaa de
+ku \:	maasuum sanam \threedots
+a \:	mai.n pyaar tujhe \threedots 
+
+ku \:	phuulo.n ke jaise khilate badan pe laharaa_e aa.Nchal
+	Kushbuu vafaa kii dil me.n bikhare saa.Nso.n me.n ho halachal
+a \:	tuu muskaraa ke jab dekhe dil pe nashaa chhaa_e
+	saarii tamannaa le a.nga.Daa_ii aramaa.n machal jaa_e
+	mohabbat mohabbat mohabbat inaayat inaayat inaayat
+ku \:	bejaan sii hai dil kii dha.Dakan jiinaa to sikhaa de
+a \:	mahabuub mere \threedots 
+ku \:	maasuum sanam \threedots
+%
+#endindian
+\endsong
+

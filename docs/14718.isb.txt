@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{diivaane hai.n diivaano.n ko na ghar chaahi_e}%
+\film{Zanjeer}%
+\year{1973}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Pran}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11221 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	diivaane hai.n diivaano.n ko na ghar chaahi_e naa dar chaahi_e
+	muhabbat bharii ik ( nazar chaahi_e ) \-2
+la \:	javaanii me.n javaanii ke sahaare ho javaa.N mere meharabaa.N
+	mujhe tuu hii tuu ( hamasafar chaahi_e ) \-2
+ra \:	diivaane hai.n \threedots
+
+	hai sar pe hamaare ( khulaa aasamaa.N ) \-2
+	hamaare li_e hai ( yahii aashiyaa.N ) \-2
+la \:	binaa pyaar ke zindagii kuchh nahii.n
+	jahaa.N pyaar hai har Kushii hai vahii.n
+	ho phuulo.n bharii chaahe ( kaa.NTo.n bharii ) \-2
+	chale jisape tuu vo Dagar chaahi_e
+do \:	diivaane hai.n \threedots
+
+ra \:	nigaaho.n me.n aise ( ishaare hu_e ) \-2
+	ke dil ne kahaa ham ( tumhaare hu_e ) \-2
+la \:	nazar ban ga_ii hai zubaa.N pyaar me.n
+	mazaa aa gayaa jiit kaa haar me.n
+	milegaa vahii jo bhii maa.Ngoge diladaar se magar pyaar se
+	du_aa_o.n me.n apanii ( asar chaahi_e ) \-2
+do \:	diivaane hai.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{havaa me.n u.Dataa jaaye meraa laal dupaTTaa malamal kaa}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Raj Kapoor, Nargis, Nimmi, Premnath}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Ramesh Shastri}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+havaa me.n u.Dataa jaaye
+meraa laal dupaTTaa malamal kaa ho jii, ho jii
+idhar udhar laharaaye
+meraa laal dupaTTaa malamal kaa ho jii, ho jii
+
+o
+thar thar thar thar havaa chalii
+haay jiyaraa Dagamag Dole
+phar phar phar phar u.De chunariyaa
+ghuu.NghaT moraa khole
+havaa me.n u.Dataa jaaye   \threedots
+
+o
+jhar jhar jhar jhar jharanaa bahataa
+ThaNDaa ThaNDaa paanii
+ghuu.Ngharuu baaje Thumak Thumak
+chaal huii mastaanii
+havaa me.n u.Dataa jaaye   \threedots
+
+%
+#endindian
+\endsong
+%

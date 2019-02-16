@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{aadhe idhar hai.n aadhe udhar}%
+\film{Ghar Ghar Mein Diwaali}%
+\year{1955}%
+\starring{Gajanan Jagirdar, Shyama, Sajjan, Manorama}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #11430 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aadhe idhar hai.n aadhe udhar
+yah hazarat\-e\-dil hai.n na jaane kidhar
+unako Kabar hai na hamako Kabar
+yah hazarat\-e\-dil \threedots
+
+zulfo.n kii galiyo.n me.n kho_e kabhii
+palako.n kii chhaa.Nv me.n so_e kabhii
+Dhuu.NDhe.n to Dhuu.NDhe.n dil ko kahaa.N
+ki aisii lagii hai kisii kii nazar
+yah hazarat\-e\-dil \threedots
+
+unakii nazar kaa ishaaraa milaa
+kuchh apane junuu.N kaa sahaaraa milaa
+kahate hu_e yah miyaa.N majanuu.N chale
+ki jab se milii hai nazar se nazar
+yah hazarat\-e\-dil \threedots
+%
+#endindian
+\endsong
+

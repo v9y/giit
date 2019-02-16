@@ -1,0 +1,63 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{dekho jii dekho miThii adaa se}%
+\film{Mai Baap}%
+\year{1957}%
+\starring{Balraj Sahni, Shyama, Johnny Walker, Minoo Mumtaz}%
+\singer{Geeta, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Jan Nisar Akhtar}%
+% 
+% Audio on: HMV
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 22 Dec 2004
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+gii: dekho jii dekho miThii adaa se
+     jalanewaale jale apanii balaa se
+
+     kahatii hai ik kahaanii
+     ye aarazuu diwaanii
+     karate hai.n kuchh ishaare.n
+     laut kar ke ye jawaanii
+     daaman bachaake jaaye.n
+     raate.n na ab suhaanii
+     dekho jii dekho \threedots
+
+     vaade kiye to Taale
+     armaa.N na kuchh nikaale
+     guzaraa hai ek zamaanaa
+     baahe.n gale me Daale
+     dekho na bhuul jaanaa
+     ye din hai jaanewaale
+     dekho jii dekho \threedots
+
+ra:  duniyaa kaa ham ko Dar kyaa
+     dekhe idhar udhar kyaa
+     ham hai tujh pe diwaane
+     apanii ham ko Kabar kyaa
+     bolo siwaa tumhaare
+     aaye hame nazar kyaa
+     dekho jii dekho miThii adaa se
+     jalanewaale jale apanii balaa se
+
+ra/gii: dekho jii dekho miThii adaa se
+        jalanewaale jale apanii balaa se
+
+
+
+
+
+
+
+
+%
+#endindian
+\endsong

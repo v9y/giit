@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tuu hii bharosaa tuu hii sahaaraa paravaradigaaraa}%
+\film{Shamaa Parawaanaa}%
+\year{1954}%
+\starring{Shammi Kapoor, Suraiya}%
+\singer{Suraiya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12592 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+aa
+( tuu hii bharosaa tuu hii sahaaraa
+paravaradigaaraa paravaradigaaraa ) \-2
+tuu hii bharosaa
+
+( kahane lagii hai ab dil kii dha.Dakan
+mushkil hai paanaa saahil kaa daaman ) \-2
+tuu hii badal de qisamat kaa dhaaraa
+paravaradigaaraa paravaradigaaraa
+tuu hii bharosaa
+
+khaalii na jaaye.n merii du_aa_e.n \-2
+ik baar sun le dil kii sadaaye.n \-2
+apanaa samajh ke tujhako pukaaraa
+paravaradigaaraa paravaradigaaraa
+tuu hii bharosaa tuu hii sahaaraa
+paravaradigaaraa paravaradigaaraa
+tuu hii bharosaa
+%
+#endindian
+\endsong
+%
+

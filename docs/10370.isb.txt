@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{man meraa teraa jogii aashaa puurii kab hogii}%
+\film{Aashiaana/ Ek Mausam Chhota Sa}%
+\year{1974}%
+\starring{Sunil Kumar, Neetu Singh, Harindranath Chattopadhyay, Ramesh Dev}%
+\singer{Rafi}%
+\music{Hari Arjun}%
+\lyrics{Neeraj}%
+%
+% Contributor: BOL ANAMOL #10217 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+man meraa teraa jogii aashaa puurii kab hogii \-2
+
+aa jhuumatii chaa.Ndanii me.n ham aaj jii bhar nahaa_e.N
+ye chaa.Nd hama ko takataa hai aa_o kahii.n chhup jaa_e.N
+lenaa hogaa shaayad hamako jag me.n janam dobaaraa
+man meraa teraa jogii \threedots
+
+hamako kahaa.N hai jaanaa ma.nzil na ko_ii Thikaanaa
+meraa bhaTakanaa teraa ye milanaa jiine kaa hai ik bahaanaa
+
+hai pyaar me.n shaam guzarii jaane kahaa.N ab sahar ho
+hamako bharosaa nahii.n zindagii kaa puuraa kahaa.N ye safar ho
+man meraa teraa jogii \threedots
+%
+#endindian
+\endsong
+

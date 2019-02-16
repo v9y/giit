@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{ye mahalo.n, ye taKto.n, ye taajo.n kii duniyaa}%
+\film{Pyaasa}%
+\year{}%
+\starring{Guru Dutt, Waheeda Rahman, Rehman, Mala Sinha}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@pico.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye mahalo.n, ye taKto.n, ye taajo.n kii duniyaa
+ye inasaa.n ke dushman samaajo.n kii duniyaa \- 2
+ye daulat ke bhuukhe rivaazo.n kii duniyaa
+ye duniyaa agar mil bhii jaaye to kyaa hai \- 2
+
+har ek jism ghaayal, har ek ruh pyaasii
+nigaaho me.n ulajhan, dilo.n me udaasii
+ye duniyaa hai yaa aalam\-e\-badahavaasii
+ye duniyaa \threedots
+
+jahaa.N ek khilaunaa hai inasaa.n kii hastii
+ye bastii hai murdaa\-parasto.n kii bastii
+jahaa.N aur jiivan se hai maut sastii
+ye duniyaa \threedots
+
+javaanii bhaTakatii hai bezaar banakar
+javaa.n jism sajate hai baazaar banakar
+jahaa.N pyaar hotaa hai vyaapaar banakar
+ye duniyaa \threedots
+
+ye duniyaa jahaa.N aadamii kuchh nahii.n hai
+vafaa kuchh nahii.n, dostii kuchh nahii.n hai \- 2
+jahaa.N pyaar ki kadr hii kuchh nahii.n hai
+ye duniyaa \threedots
+
+jalaa do, jalaa do ise phuu.Nk Daalo ye duniyaa
+mere saamane se haTaa lo ye duniyaa
+tumhaarii hai tum hii sambhalo ye duniyaa, ye duniyaa \threedots
+%
+#endindian
+\endsong
+%

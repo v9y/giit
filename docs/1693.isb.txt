@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tere mere liye, taaro.n ke diye}%
+\film{Safed Jhooth}%
+\year{1977}%
+\starring{Ashok Kumar, Vinod Mehra, Mithu Mukherjee}%
+\singer{Yesudas}%
+\music{Shyamal Mitra}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Ramesh Hariharan (hariharn@phoenix.princeton.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tere mere liye, tAro.n ke diye 
+ye raat le kar, kabase phire jaagI\-jaagI 
+aao karo koI, tere binA dharatI gagan 
+lagate hai.n bairAgI 
+
+ye bahAro.n kI dulhan, mausam ke hai sAth magan 
+jaane kab hogA magar, terA merA madhur milan 
+kab talak tarase.nge ye, pyaase pyaase mere nayan 
+aao karo koI \threedots 
+
+vaqt aisA bhI kabhI, aaye dushman pe nahii.n 
+sAmane miit ho par, usakI lage phir bhI kamii 
+chA.ndanI kaisii hai ye, jisane lagA dI hai agan
+aao karo koI \threedots 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kabhii jo bhuulanaa chaahuu.n ... mujhe tum yaad aate ho}%
+\film{Naseeb}%
+\year{1998}%
+\starring{Govinda, Mamta Kulkarni, Sudha Chandran, Saeed, Dinesh Hingoo}%
+\singer{}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kabhii jo bhuulanaa chaahuu.n na jaane kyuu.n mere dilabar
+mujhe tum yaad aate ho o mujhe tum yaad aate ho
+mujhe tum yaad aate \threedots
+
+kabhii saavan ke mausam me.n agar gaa_e kahii.n koyal
+kisii meha.ndii kii Tahanii par na jaane kyuu.n mere dilabar
+mujhe tum yaad aate \threedots
+
+kisii ke haath se chhuuTe agar shiishe kaa paimaanaa
+chhalak jaa_e agar saagar na jaane kyuu.n mere dilabar
+mujhe tum yaad aate \threedots
+
+mujhe kyuu.n yaad aate ho
+%
+#endindian
+\endsong
+

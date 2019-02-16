@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{o baalam tere pyaar kii Tha.nDii aag me.n jalate\-jalate}%
+\film{Ram Aur Shyam}%
+\year{1967}%
+\starring{Dilip Kumar, Waheeda Rahman, Mumtaz, Pran}%
+\singer{Rafi, Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10647 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	o baalam tere pyaar kii Tha.nDii aag me.n jalate\-jalate \-2
+	mai.n to haar ga_ii re \-4
+ra \:	luuT liyaa dil tuune meraa raah me.n chalate\-chalate \-2
+	nainaa maar ga_ii re \-4
+
+aa \:	mai.n huu.N baavariyaa terii saa.Nvariyaa dil se jaanaa naa
+ra \:	aaj milii ho jaise akelii kal bhii chalii aanaa
+aa \:	chandaa aur suuraj kii tarah roz nikalate\-Dhalate
+	mai.n to haar ga_ii re \-2
+ra \:	luuT liyaa dil \threedots
+aa \:	baalam tere \threedots
+
+ra \:	Daal ke jaaduu ruup kaa tuune dil meraa chhiinaa
+aa \:	priitam tuune priit jagaa dii chhe.D ke man biinaa
+ra \:	naino.n me.n bhar ke pyaar kaa kajaraa akhiyaa.N malate\-malate
+	nainaa maar ga_ii re \-2
+aa \:	baalam tere \threedots
+%
+#endindian
+\endsong
+

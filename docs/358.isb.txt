@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{chal akelaa, chal akelaa, chal akelaa}%
+\film{Sambandh}%
+\year{}%
+\starring{Deb Mukherjee, Anjana, Pradeep Kumar}%
+\singer{Mukesh}%
+\music{O P Nayyar}%
+\lyrics{Pradeep}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chal akelaa, chal akelaa, chal akelaa
+teraa melaa piichhe chhuuTaa raahii chal akelaa
+
+hazaaro.n miil lambe raaste tujhako bulaate
+yahaa.N dukha.De sahane ke vaaste tujhako bulaate
+hai kaun saa vo i.nsaan yahaa.N pe jis ne dukh naa jhelaa
+chal akelaa \threedots
+
+teraa koI saath na de to tuu khud se priit jo.D le
+bichhaunaa dharatii ko karake are aakaash o.Dh le
+puuraa khel abhii jiivan kaa tuune kahaa.N hai khelaa 
+chal akelaa \threedots
+%
+#endindian
+\endsong
+%

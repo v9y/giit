@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{nii.nd aatii hai naa is dil ko ... kyaa karuu.N ai yaar}%
+\film{Kuchh Dil Ne Kahaa}%
+\year{2000}%
+\starring{Rakesh Bapat, Raeema Sen, Nandini Singh}%
+\singer{Udit Narayan, Chorus}%
+\music{Lalit Sen}%
+\lyrics{Bipin Chandra Chaugule}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nii.nd aatii hai naa is dil ko karaar aataa hai
+kyaa karuu.N ai yaar mujhako tujhape pyaar aataa hai
+nii.nd aatii hai naa \threedots
+
+tuu nahii.n aa_egii jab paiGaam ye aataa hai
+chho.D ke mujhako ye dil meraa chalaa jaataa hai
+terii galiyo.n me.n teraa vo naam pukaar aataa hai
+kyaa karuu.N ai yaar \threedots
+
+khuub ha.Nsatii hai machalatii hai bahut khilatii hai
+ek bas mere sivaa sab logo.n se milatii hai
+mere hisse me.n teraa bas i.ntazaar aataa hai
+kyaa karuu.N ai yaar \threedots
+%
+#endindian
+\endsong
+

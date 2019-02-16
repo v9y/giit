@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dau.Daa dau.Daa bhaagaa saa vaqt ye vaqt hai}%
+\film{Chaachi 420}%
+\year{1997}%
+\starring{Kamal Haasan, Tabu}%
+\singer{Kamal Haasan}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dau.Daa dau.Daa bhaagaa bhaagaa saa
+vaqt ye vaqt hai tho.Daa tho.Daa saa
+dau.Daa dau.Daa bhaagaa \threedots
+
+giraa Thokar khaa ke vo din raat ne uThaa liyaa
+haath paa.nv po.nchh ke takht pe biThaa diyaa
+chaa.Nd kaa chiraag hai khuu.nTiyo.n pe
+khuu.nTiyo.n pe Taa.ngaa Taa.ngaa saa
+dau.Daa dau.Daa bhaagaa \threedots
+
+sojaa re naino.n ke paas re sojaa sojaa
+Tikaa Tikaa Tik su_iyaa.n gha.Dii kii rukatii hii nahii.n
+rassiyaa.n ye vaqt kii gale se khulatii hii nahii.n
+jism kaa libaas hai chiiraa chiiraa saa
+chiiraa chiiraa saa dhaagaa dhaagaa saa
+dau.Daa dau.Daa bhaagaa \threedots
+%
+#endindian
+\endsong
+

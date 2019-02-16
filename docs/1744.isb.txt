@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{Tuka.De hai.n mere dil ke, ai yaar tere aa.Nsuu}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pankha Road se Pintu Diwana [30]  14 May 1995
+%        when I saw Mere Sanam (long back) I didn't like this song, too
+%        slow, and I didn't appreciate much of the words, too simple?
+%        don't know. Maybe amidst all happy songs, this didn't fit in?
+%        Now, when I listened to it, it sounded good.
+%        Maybe my taste was already spoiled by the great 'teri aaNkh ke
+%        aaNsoo pee jaa-ooN' :-))
+%
+\printtitle 
+#indian 
+%
+(Tuka.De hai.n mere dil ke, e yaar tere aa.Nsuu  
+dekhe nahii.n jaate hai.n, diladaar tere aa.Nsuu ) \- 2
+
+katare nahii.n chhalake ye, aa.Nkho.n ke piyaalo.n se 
+motii hai.n muhobbat ke, in phuul se gaalo.n pe, in phuul 
+bahane nahii.n duu.ngaa bekaar tere aa.Nsuu 
+dekhe nahii.n jaate 
+
+ashko.n se bharaa dekhuu.N kaise terii aa.Nkho.n ko 
+ai jaan ye sulagataa Gam, de de merii aa.Nkho.n ko, de de merii
+palako.n pe uThaa luu.ngaa, sau baar tere aa.Nsuu 
+dekhe nahii.n jaate
+%
+#endindian
+\endsong
+%

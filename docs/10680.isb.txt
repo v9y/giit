@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{agar terii jalavaa\-numaa_ii na hotii}%
+\film{Beti Bete}%
+\year{1964}%
+\starring{Sunil Dutt, B.Saroja Devi, Jamuna}%
+\singer{Rafi, Suman}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10966 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	( agar terii jalavaa\-numaa_ii na hotii
+	Kudaa kii qasam ye Kudaa_ii na hotii ) \-2
+su \:	( agar aa.Nkh tumane milaa_ii na hotii
+	merii zindagii muskaraa_ii na hotii ) \-2
+
+ra \:	bahaaro.n kaa mausam na hotaa suhaanaa
+	tere dam qadam se hu_aa aashiqaanaa
+	nazaaro.n me.n ye dilarubaa_ii na hotii
+	Kudaa kii qasam \threedots
+
+su \:	tere pyaar ne mujh par ehasaa.N kiyaa hai
+	meraa dil liyaa hai mujhe dil diyaa hai
+	agar tuune ulfat nibhaa_ii na hotii
+	merii zindagii muskaraa_ii \threedots
+
+ra \:	agar nuur teraa na aataa jahaa.N me.n
+	to rakhaa hii kyaa thaa zamii.n aasamaa.N me.n
+	ki maalik ne duniyaa banaa_ii na hotii
+	Kudaa kii qasam \threedots
+%
+#endindian
+\endsong
+

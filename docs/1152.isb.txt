@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{man ta.Dapat hari darsan ko aaj, more tum bin biga.De sakal kaaj}%
+\film{Baiju Bawra}%
+\year{1952}%
+\starring{Bharat Bhushan, Meena Kumari}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+man ta.Dapat hari darasan ko aaj
+more tum bin biga.De sakal kaaj
+aa, vinatii karat, huu.N, rakhiyo laaj, man ta.Dapat\threedots
+
+tumhare dvaar kaa mai.n huu.N jogii
+hamarii or nazar kab hogii
+sun more vyaakul man kii baat, ta.Dapat harii darasan\threedots
+
+bin guruu GYaan kahaa.N se paauu.N
+diijo daan harii gun gaauu.N
+sab gunii jan pe tumhaaraa raaj, ta.Dapat harii\threedots
+
+muralii manohar aas na to.Do
+dukh bha.njan more saath na chho.Do
+mohe darasan bhikshaa de do aaj de do aaj, \threedots
+%
+#endindian
+\endsong
+%

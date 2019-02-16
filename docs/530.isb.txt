@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil use do jo jaan de de, jaa.n use do jo dil de de}%
+\film{Andaaz}%
+\year{}%
+\starring{Shammi Kapoor, Hema Malini, Rajesh Khanna, Simi}%
+\singer{Asha, Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+dil use do jo jaan de de, jaan use do jo dil de de
+
+1) ye pyaar ke nazaare hai.n dekh lo jidhar
+ab naachatii hai duniyaa khushii kaa hai asar
+lo khatm huaa hai ye aaj kaa safar
+ab hogii suhaanii vo kal kii sahar, dil use \threedots
+
+2) jo sochate rahoge to kuchh na milegaa
+jo chupake rahoge to kaam na banegaa
+jo dil me.n jaloge to aramaan rahegaa
+jo ba.Dhate chaloge to raastaa milegaa, dil use \threedots
+
+3) vo gu.nchaa nahii.n hai jo khilanaa na jaane
+vo baad\-e\-sabaa kyaa jo chalanaa na jaane
+vo bijalii nahii.n jo chamakanaa na jaane
+vo insaan nahii.n jo ta.Dapanaa na jaane, dil use \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{are he uu.Nchii\-uu.Nchii baato.n se kisii kaa peT bharataa nahii.n}%
+\film{Mr. Natwarlaal}%
+\year{1979}%
+\starring{Amitabh, Rekha}%
+\singer{Rafi, Usha/ Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10418 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	are he uu.Nchii\-uu.Nchii baato.n se kisii kaa peT bharataa nahii.n
+aa \:	are he hai raam kaa bharosaa jise kabhii bhuukhaa marataa nahii.n
+	are he uu.Nchii\-uu.Nchii \threedots
+
+ko \:	aa aa aa
+ra \:	ko_ii kuchh bhii kar le pyaare
+	jhuuTh naa jiitee sach naa haare
+aa \:	ye aisaa dastuur hai bas jo badalataa nahii.n
+	are he uu.Nchii\-uu.Nchii \threedots
+
+ko \:	he he he he ho ho ho ho
+ra \:	lene vaalaa dene vaalaa
+	kaun hai bolo uupar vaalaa
+ko \:	uupar vaalaa
+aa \:	vo hai jisake saath vo duniyaa se Darataa nahii.n
+	are he uu.Nchii\-uu.Nchii \threedots
+%
+#endindian
+\endsong
+

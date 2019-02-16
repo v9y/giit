@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{samajhautaa Gamo.n se kar lo}%
+\film{Samjhautaa}%
+\year{1973}%
+\starring{Anil Dhawan}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11218 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+samajhautaa Gamo.n se kar lo \-2
+zindagii me.n Gam bhii milate hai.n
+ho patajha.D aate hii rahate hai.n \-2
+ke madhuban phir bhii khilate hai.n
+ho samajhautaa Gamo.n se \threedots
+
+raat kaTegii ho.nge ujaale phir mat giranaa o girane vaale \-2
+insaa.N vo Kud sambhale auro.n ko bhii sa.mbhaale \-3
+ho samajhautaa Gamo.n se \threedots
+
+bhuul sabhii se hotii aa_ii kaun hai jisane naa Thokar khaa_ii \-2
+bhuulo.n se siikhe jo ma.nzil usane paa_ii \-2
+ho samajhautaa Gamo.n se \threedots
+%
+#endindian
+\endsong
+

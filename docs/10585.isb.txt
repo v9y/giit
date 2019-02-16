@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jo mai.n aisaa jaanNatii ... nagar Dhi.nDhoraa piiTatii priit na kiijo koy}%
+\film{Batwaaraa}%
+\year{1989}%
+\starring{Dhamendra, Vinod Khanna, Dimple, Poonam, Amrita, Vijayendra, Neena Gupta}%
+\singer{Kavita Subramaniam, Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo mai.n aisaa jaanNatii priit ki_e duHkh hoy
+nagar Dhi.nDhoraa piiTatii priit na kiijo koy
+
+jyo.n chandaa ho binaa raat tere binaa jiivan meraa
+jyo.n chandaa ho binaa raat
+bairii tujhe bhuulanaa nahii.n tujhako bhuulanaa
+nahii.n mere bas kii baat
+jo mai.n aisaa jaaNatii umar kaTegii roy
+nagar Dhi.nDhoraa piiTatii \threedots
+
+raT raT thaaro naam ho dekh sajanaa mar jaa_uu.ngii
+raT raT thaaro naam
+ho mhaare saath na chho.Diyo pa.Duu.n mai.n tumhaare paa.nv
+jo mai.n aisaa jaaNatii maa.njhii naav Duboy
+nagar Dhi.nDhoraa piiTatii \threedots
+
+jaaN bhii tujhapar vaar duu.n dil to diyaa hai toy
+kaThin hai khonaa pyaar kaa praaN khoy to khoy
+jo mai.n aisaa jaaNatii nain mile dukh hoy
+nagar Dhi.nDhoraa piiTatii \threedots
+%
+#endindian
+\endsong
+

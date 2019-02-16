@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aavaaz deke hame.n tum bulaao, mohabbat me.n itanaa naa hamako sataao}%
+\film{Professor}%
+\year{1962}%
+\starring{Shammi Kapoor, Kalpana}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%	The next one is a a sad number from "Professor". This movie
+%had other good songs like 'mai chali, mai chali', 'ai gulbadan', and
+%'o koi aayega aayega aayega'.  All Shammi movies have good songs
+%usually.
+%
+%Anyway, here is the duet between Lata and Rafi, 'awaaz deke hamen..'
+%satish
+lataa:	aavaaz deke hame.n tum bulaao
+mohabbat me.n itanaa naa hamako sataao
+
+abhii to merii zi.ndagii hai pareshaa.n
+kahii.n mar ke ho khaak bhii na pareshaa.n
+diye kii tarah se na hamako jalaao
+mohabbat me.n itanaa naa hamako sataao
+
+rafii:	mai.n saa.nso.n ke har taar me.n chhup rahaa huu.N
+mai.n dha.Dakan ke har raag me.n bas rahaa huu.N
+zaraa dil kii jaanib nigaahe.n jhukaao
+mohabbat me.n itanaa naa hamako sataao
+
+lataa:	naa ho.nge agar ham to rote rahoge
+sadaa dil kaa daaman bhigote rahoge
+jo tum par miTaa ho use naa miTaao
+mohabbat me.n itanaa naa hamako sataao
+
+rafii:	aavaaz deke hame.n tum bulaao
+mohabbat me.n itanaa naa hamako sataao
+%
+#endindian
+\endsong
+%

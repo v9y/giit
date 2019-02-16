@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bas ek tamannaa hai dilabar mere dil me.n ... ##I love you## kah de tuu}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	( bas ek tamannaa hai dilabar mere dil me.n \-2
+	##I love you## kah de tuu mujhe aaj is bharii mahafil me.n ) \-2
+	bas ek tamannaa hai \threedots
+
+	( merii mohabbat me.n hogaa asar to mai.n tujhe jiit luu.Ngaa
+	dard\-e\-judaa_ii kii bebasii ab mai.n kabhii naa sahuu.Ngaa ) \-2
+	terii mohabbat me.n jaan\-e\-vafaa mai.n jaan bhii apanii duu.Ngaa
+	milane kii khaa_ii hai maine kasam ab duur mai.n naa rahuu.Ngaa
+	bas ek tamannaa hai \threedots
+
+	( tere mere darmiyaa.n dilarubaa ye kaisii diivaar aa_ii
+	milake bhii tujh se mai.n sahataa rahaa kitane dino.n tak judaa_ii ) \-2
+	chlatii nahii.n hai kisii kii yahaa.N rasm\-e\-mohabbat ke aage
+	haaraa zamaanaa merii jaan\-e\-man dil kii baGaavat ke aage
+	bas ek tamannaa hai \threedots
+
+a \:	( duniyaa ba.Dii zaalim hai merii jaan hai mushkil me.n
+	##I love you## kahatii huu.N tujhe aaj is mahafil me.n ) \-2
+	duniyaa ba.Dii zaalim \threedots
+
+	( tere li_e ai mere hamadam dono.n jahaa.N chho.D duu.Ngii
+	rasmo.n rivaajo.n kii mai.n saarii za.njiire.n to.D duu.Ngii ) \-2
+	duniyaa ba.Dii zaalim \threedots
+
+ku \:	##I love you## kahataa huu.N tujhe aaj is mahafil me.n
+a \:	##I love you## kahatii huu.N tujhe aaj is mahafil me.n
+%
+#endindian
+\endsong
+

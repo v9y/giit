@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kah do ke tum mujh se dostii karoge}%
+\film{Mujhse Dosti Karoge}%
+\year{2002}%
+\starring{Hritik Roshan, Kareena Kapoor, Rani Mukherjee}%
+\singer{Asha, Udit Narayan, Alka Yagnik}%
+\music{Rahul Sharma}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+he kah do ke tum mere dil me.n rahoge
+kah do ke tum mujh se dostii karoge
+kah do ke tum \threedots
+
+dekhuu.Ngii sochuu.Ngii kal paraso.n kuchh kahuu.Ngii
+he he he he kah do ke tum \threedots
+
+laa la lall lall laa laa laa laa lall lall laa
+ham saathii kitane puraane phir kyuu.N hai.n itane anjaane
+he he he he he he he he he
+kyaa ra.ng laa_e naa jaane bachapan ke ye dostaane
+kab kahaa.N kyaa khabar jaa ruke ye nazar
+are kyaa pataa kaun hai kisakaa yahaa.N hamasafar
+kah do ke tum \threedots
+
+tum bhii to ho dost merii tum to meraa saath de do
+laa laa laa la laa la laa laa laa laa
+apanii sahelii kaa mere haatho.n me.n tum haath de do
+intazaar intazaar aur kyaa hai ye pyaar
+jhuuTh hii ye sahii kah to do ek baar
+lo maine kahaa tum se dostii karuu.Ngii
+tum bhii kaho mujh se dostii karoge
+dekhuu.Ngaa achchhaa sochuu.Ngaa oho kal paraso.n kuchh kahuu.Ngaa
+ai maine kahaa tum se \threedots
+%
+#endindian
+\endsong
+

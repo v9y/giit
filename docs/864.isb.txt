@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jhuum jhuum ke naacho aaj gaao aaj gaao khushii ke giit ho}%
+\film{Andaaz}%
+\year{1949}%
+\starring{Dilip Kumar, Raj Kapoor, Nargis}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+jhuum jhuum ke naacho aaj gaao aaj gaao khushii ke giit ho
+gaao khushii ke giit
+aaj kisii kii haar huI hai, aaj kisii kii jiit ho
+gaao khushii ke giit
+jhuum jhuum ke \threedots
+
+koii kisii kisii kii, aa.Nkh kaa taaraa
+jiivan saathii, saajan pyaaraa
+aur koii taqadiir kaa maaraa
+Dhuu.NDh rahaa hai dil kaa sahaaraa
+kisii ko dil kaa dard milaa hai, kisii ko man kaa miit ho
+gaao khushii ke giit
+jhuum jhuum ke \threedots
+
+dekho to kitanaa, khush hai zamaanaa
+dil me.n tara.nge lab pe taraanaa
+band aa.Nkh aa.Nsuu na bahaanaa
+ye to yahaa.N kaa Dha.ng puraanaa
+isako miTaanaa usako banaanaa, is nagarii kii riit ho
+gaao khushii ke giit
+jhuum jhuum ke \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{patthar ke sanam, tujhe hamane, muhabbat kaa khudaa jaanaa}%
+\film{Patthar Ke Sanam}%
+\year{1967}%
+\starring{Manoj Kumar, Waheeda Rehman, Mumtaz}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+patthar ke sanam, tujhe hamane, muhabbat kaa Kudaa jaanaa
+ba.Dii bhuul huii, are hamane, ye kyaa samajhaa ye kyaa jaanaa
+
+cheharaa teraa dil me.n liye, chalate chale a.ngaaro.n pe
+tuu ho kahii.n, sajade kiye hamane tere ruKasaaro.n pe
+ham saa na ho, koI diivaanaa, patthar ke \threedots
+
+sochaa na thaa ba.Dh jaae.ngii, tanahaaiyaa.n jab raato.n kii
+rastaa hame.n dikhalaae.ngii, shamaa\-e\-vafaa in aa.Nkho.n kii
+Thokar lagii, phir pahachaanaa, patthar ke \threedots
+
+ai kaash ke hotii Kabar tuune kise Thukaraayaa hai
+shiishaa nahii.n, saagar nahii.n, ma.ndir\-saa ik dil Dhaayaa hai
+saaraa aasamaan, hai viiraanaa, patthar ke \threedots
+%
+#endindian
+\endsong
+%

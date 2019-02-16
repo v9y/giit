@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tuu pyaar hai kisii aur kaa tujhe chaahataa ko_ii aur hai}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu pyaar hai kisii aur kaa tujhe chaahataa ko_ii aur hai \-2
+tuu pasand hai kisii aur kii tujhe maa.ngataa ko_ii aur hai \-2
+tuu pyaar hai \threedots
+
+kaun apanaa hai kyaa begaanaa hai
+kyaa haqiiqat hai kyaa fasaanaa hai
+ye zamaane me.n kisane jaanaa hai
+tuu nazar me.n hai kisii aur kii tujhe dekhataa ko_ii aur hai \-3
+tuu pasand hai kisii \threedots
+
+pyaar me.n aksar aisaa hotaa hai \-2
+ko_ii ha.Nsataa hai ko_ii rotaa hai \-2
+ko_ii paataa hai ko_ii khotaa hai \-2
+tuu jaan hai kisii aur kii tujhe jaanataa ko_ii aur hai \-2
+tuu pasand hai kisii \threedots
+
+sochatii huu.N mai.n chup rahuu.N kaise
+dard dil kaa ye mai.n sahuu.N kaise
+kashamakash me.n huu.N ye kahuu.N kaise \-2
+meraa hamasafar bas ek tuu nahii.n duusaraa ko_ii aur hai
+tuu pasand hai kisii \threedots
+%
+#endindian
+\endsong
+

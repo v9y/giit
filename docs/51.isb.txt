@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{aaj hai sagaa_ii}%
+\film{Pyaar To Hona Hi Tha}%
+\year{1998}%
+\starring{Kajol, Ajay Devgan, Kashmira Shah, Om Puri}%
+\singer{Asha, Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+strii: aaj hai sagaa_ii sun la.Dakii ke bha_ii
+       zaraa naach ke hamako dikhaa
+       ku.Dii kii tarah na sharamaa
+       haay, tuu merii gal maan jaa
+       haa.N, tuu merii gal maan jaa
+
+pu :   sab ko nachaa_uu.N nach nach ke dikhaa_uu.N
+       aa mujh ko gale se lagaa
+       mu.nDe se zaraa aa.Nkh la.Daa
+       hoy, tuu merii gal maan jaa
+       haay, tuu merii gal maan jaa
+
+       o soNiye   \threedots
+
+pu:    sar pe sajaa ke saharaa baaraat le ke aa_uu.N
+       dulhan tujhe banaa ke Dolii me.n le ke jaa_uu.N
+strii: bholii samajh ke mujhape na Daal aise daane
+       shaadii nahii.n karuu.Ngii jaa maan jaa diivaane
+pu:    sun alabelii merii tanhaa akelii
+       ab kaTatii nahii.n ratiyaa.N
+strii: jaa re harajaa_ii chal chhho.D kalaa_ii
+       sab dekhatii hai.n sakhiyaa.N 
+       tuu merii gal maan jaa   \threedots
+
+strii: kahatii hai.n merii sakhiyaa.N dil me.n hai chor tere
+       kyo.n haath dho ke aise piichhe pa.Daa hai mere
+pu:    sakhiyo.n se apanii kah do ke biich me.n na aaye
+       ban jaaye.n merii saalii jiijaa mujhe banaaye.n
+strii: mai.n na aa_uu.N tere sa.ng tere achchhe nahii.n Dha.ng
+       na aise baat ba.Dhaa
+pu:    mujhe karanaa tu ta.ng ab band kar ja.ng
+       aa ban ke dulhan ghar aa
+       tuu merii gal maan jaa   \threedots
+
+%
+#endindian
+\endsong
+%
+

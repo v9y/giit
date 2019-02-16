@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{dhiire dhiire pyaar ko ba.Dhaanaa hai, had se guzar jaanaa hai}%
+\film{Phool Aur Kaante}%
+\year{1992}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Amin Meghani (ameghani@bnr.ca)
+% Editor:  
+%
+\printtitle
+#indian
+%
+	dhiire dhiire pyAr ko ba.DhAnA hai
+	had se guzar jAnA hai
+	mujhe bas tujhase dil lagAnA hai
+	had se guzar jAnA hai
+	
+	aisI zindagI hogI, har taraf khushI hogI
+	itana pyAr duu.ngA tujhe, ai mere sanam
+	ab na koI Gam hogA, na ye pyAr kam hogA
+	saathI mere mujhako tere sar kI hai qasam
+	ik duusare ko aazamaanA hai
+	had se \threedots
+	
+	mai.n akelA kyA karatA, aise hI aa.Nhe bharatA
+	tere pyAr ke liye, ta.DapatA umr bhar
+	jaane kyA mai.n kar jaatI, yuu.N ta.Dap ke mara jaatI
+	bin tere bhalA kaise, kaTatA ye safar
+	tere liye mar ke bhI dikhaanA hai
+	had se \threedots
+	
+	terA chaa.Nd sA mukha.DA, tU jigar kA hai Tuka.DA
+	tU hamAre sapano.n kI jhiil kA ka.nval 
+	jaan se tU hai pyaarA, aa.nkho kA tU hai taarA 
+	bin tere jiye.nge ab ham na ek pal
+	sab kuchh tujhape hI luTaanA hai
+	had se \threedots
+	
+	dhiire \threedots
+%
+#endindian
+\endsong
+%

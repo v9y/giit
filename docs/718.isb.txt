@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{hasarat hii rahii, ham se bhii kabhii koii pyaar karataa}% 
+\film{Bambai Ka Chor}%
+\year{}%
+\starring{Kishore}%
+\singer{Kishore}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+(hasarat hii rahI, ham se bhI kabhI koI pyaar karataa, koI pyaar karataa
+koI dil hamaare bhI miiThii najar ek baar karataa koI pyaar karataa  ) \- 2
+
+nikale the ham dil kii jholii liye, duniyA ne kA.nTe hii kaa.nTe diye\- 2
+itane to bure ham nA the, koI ham se najar chaar karataa, koI pyaar karataa 
+hasarat hii \threedots
+
+duniyA me.n kyA kyA nA mele rahe, ham the akele akele rahe \- 2
+dil rakhate the ham, hamako bhI koI diladaar karataa, koI pyaar karataa 
+hasarat hii \threedots
+
+maa.NgI thI hamane khudaa_ii kahaa.N, Thokar pe Thokar milii jo yahaa.N \- 2
+kyA jaataa agar koI dil kA nagar gulazaar karataa, koI pyaar karataa 
+hasarat hii \threedots
+%
+#endindian
+\endsong
+%

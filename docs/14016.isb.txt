@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{zahar hai ki pyaar hai teraa chummaa}%
+\film{Sabse Badaa Khilaadi}%
+\year{1995}%
+\starring{Akshay Kumar, Mamta Kulkarni, Mohnish, Sadashiv, Gulshan}%
+\singer{Kumar Sanu, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zahar hai ki pyaar hai teraa chummaa kaisaa ye khumaar hai teraa chummaa \-2
+maine dekhaa nahii.n tere jaisaa kahii.n tujhako mere sar kii kasam
+zahar hai ki pyaar hai \threedots
+
+tuu na mujhe Da.nsatii cha.Dhatii naa mastii
+jaan\-e\-man varanaa kyaa hai terii hastii
+ye merii aashiqii kam na hogii kabhii qaayam hai jab tak ye dam
+zahar hai ki pyaar hai \threedots
+
+pyaar kaa nashaa hai dard\-e\-jigar se
+dekh mujhe jaanam dil kii nazar se
+ye merii bekhudii aur ba.Dhane lagii bahak jaa_e.nge kadam
+zahar hai ki pyaar hai \threedots
+
+tuu hai shikaarii mai.n huu.N nishaanaa
+mujhe barfiilii aag me.n jalaanaa
+dekh le bekhabar pyaar kaa ye asar ghuTane lagaa meraa dam
+zahar hai ki pyaar hai \threedots
+%
+#endindian
+\endsong
+

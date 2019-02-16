@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{piyaa tuu kahaa.N hai}%
+\film{Baaghi}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Shubha Mudgal, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mil ke judaa_ii kyuu.n aaye kaun ye samajhe kaaran
+ho apane piyaa kii yaad me.n ta.Dape ko_ii prem pujaaran
+haay judaa_ii haay
+piyaa tuu kahaa.N hai ho piyaa piyaa tuu kahaa.N hai
+
+rone lagaa dil aa.Nkh bhar aa_ii haay
+ta.Dapaa rahii hai ab ye judaa_ii
+barase yuu.n hii din raat haay
+a.Nsu_an kii ye barasaat haay
+piyaa tuu kahaa.N hai \threedots
+
+ho dil kii jo maanuu.n jag ruuTh jaa_e
+jag kii jo maanuu.n dil TuuT jaa_e
+haa.n ye pyaar kyaa hai pahale na jaanaa
+maha.ngaa pa.Daa hai dil kaa lagaanaa
+barase yuu.n hii \threedots
+
+ho khel hai.n kaise dil kii lagan ke
+TuuT ke bikhare sapane milan ke
+haa.n phir yaad terii aane lagii hai
+phir jaan merii jaane lagii hai
+barase yuu.n hii \threedots
+
+ho pyaar me.n ye to honaa thaa
+ha.Nsanaa thaa yaa ronaa thaa
+
+judaa_ii ho
+%
+#endindian
+\endsong
+

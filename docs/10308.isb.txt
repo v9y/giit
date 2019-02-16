@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{aman kaa farishtaa kahaa.N jaa rahaa hai}%
+\film{Aman}%
+\year{1967}%
+\starring{Rajendra Kumar, Saira Bano, Balraj Sahni, Chetan Anand}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11042 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aman kaa farishtaa kahaa.N jaa rahaa hai
+chaman ro rahaa hai machii hai duhaa_ii \-2
+
+kiyaa kaam aisaa ki halachal machaa dii
+ye duniyaa jahannum thii jannat banaa dii
+khi.nchii aa rahii hai saarii Kudaa_ii
+chaman ro rahaa \threedots
+
+bahut der jaagaa thaa soyaa hu_aa hai
+aman ke Kyaalo.n me.n khoyaa hu_aa hai
+ye kaisii muhabbat ye kaisii judaa_ii
+chaman ro rahaa \threedots
+
+ye jiivan kii ma.nzil pe chhuTaa hai hamase
+ko_Ii to manaa_o ye ruuThaa hai hamase
+nazar mere baabuu ko kisane lagaa_ii
+chaman ro rahaa \threedots
+%
+#endindian
+\endsong
+

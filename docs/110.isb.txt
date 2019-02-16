@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aap kii yaad aatii rahii raat bhar}% 
+\film{Gaman}%
+\year{1978}%
+\starring{Farooq Sheikh, Smita Patil}%
+\singer{Chhaya Ganguly}%
+\music{Jaidev}%
+\lyrics{Maqdoom Mohiuddin}%
+%
+% Contributor:  Preetham Gopalaswamy  (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+aap kii yaad aatii rahii raat bhar
+chash{}m\-e\-nam muskuraatii rahii raat bhar 
+aap kii yaad aatii rahii \threedots 
+
+raat bhar dard kii shamaa jalatii rahii
+Gam kii lau tharatharaatii rahii raat bhar \threedots 
+
+baa.Nsurii kii suriilii suhaanii sadaa 
+yaad banabanake aatii rahii raat bhar \threedots 
+
+yaad kii chaa.Nd dil me.n utaratii rahii 
+chaa.Ndanii Dagamagaatii rahii raat bhar \threedots  
+
+koii diivaanaa galiyo.n me.n phirataa rahaa 
+koii aavaaz aatii rahii raat bhar \threedots 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{zamaanaa ho gayaa fariyaad karate}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: BOL ANAMOL #10402 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zamaanaa ho gayaa fariyaad karate \-2
+kisii bichha.De hu_e ko yaad karate
+zamaanaa ho gayaa \threedots
+
+Kushii ro_egii dil paagal hogaa
+agar ham jaanate ye haal hogaa
+javaanii ko yuu.N naa barabaad karate
+zamaanaa ho gayaa \threedots
+
+judaa duniyaa ne unase kar diyaa jab
+ye daaman aa.Nsu_o.n se bhar diyaa jab
+dil\-e\-naashaad kyaa shaad karate
+zamaanaa ho gayaa \threedots
+
+kalii ummiid kii murajhaa rahii hai
+yahii hasarat magar ta.Dapaa rahii hai
+vo aate aur dil aabaad karate
+zamaanaa ho gayaa \threedots
+%
+#endindian
+\endsong
+

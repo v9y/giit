@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{allaah jaane mai.n huu.N kaun kyaa hai meraa naam}%
+\film{Pati Patni}%
+\year{1966}%
+\starring{Sanjeev Kumar, Nanda, Sujit, Mumtaz, Mahmood}%
+\singer{Manna De}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+allaah jaane mai.n huu.N kaun kyaa hai meraa naam
+chaahe kah lo alaah diin, chaahe raadheshyaam
+
+mai.n yaar jin dino.n me.n bamba_ii me.n thaa maujuud
+aate jaate log samajhate the mujhako mahamuud
+aa~ phir bhii milaa na koii filmo.n me.n kaam
+chaahe kah lo alaah diin, chaahe raadheshyaam \threedots
+
+suurat hai ja.ngalii jaisii aavaaraa jaise baal
+mere baare me.n is duniyaa.N kaa hai ye Kayaal
+aa~ pariyaa.N samajhatii hai.n mujhe gulafaam
+chaahe kah lo alaah diin, chaahe raadheshyaam \threedots
+
+dekhii hai saarii duniyaa.N merii hai ye taariif
+ab mai.n apane gaa.Nv vaapas laayaa huu.N tashariif
+subah kaa bhulaa ghar lauT aayaa shaam
+chaahe kah lo alaah diin, chaahe raadheshyaam \threedots
+
+%
+#endindian
+\endsong
+%

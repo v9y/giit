@@ -1,0 +1,48 @@
+% 
+\startsong
+\stitle{mere bhaiyaa mere cha.Ndaa mere anamol ratan}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Meena Kumari, Raj Kumar, Dharmendra}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Credits: Neeraj Malhotra (neeraj@bedford.progress.com)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+(mere bhaiyaa mere cha.Ndaa
+ mere anamol ratan
+ tere badale mai.n zamaane kii
+ koii chiiz na luu.N) \-2
+
+terii saa.Nso.n kii kasam khaake, havaa chalatii hai
+tere chahare kii khalak paake, bahaar aatii hai
+ek pal bhii merii nazaro.n se tuu jo ojhal ho
+har taraf merii nazar tujhako pukaar aatii hai
+
+(mere bhaiyaa mere cha.Ndaa
+ mere anamol ratan
+ tere badale mai.n zamaane kii
+ koii chiiz na luu.N) \-2
+
+tere chahare kii mahakatii huii la.Diyo.n ke li_e
+anaginat phuul ummiido.n ke chune hai.n mai.nne
+vo bhii din aae.n ki un Kvaabo.n ke taabiir mile.n
+tere Kaatir jo hasii.n Kvaab bune hai.n mai.nne
+
+(mere bhaiyaa mere cha.Ndaa
+ mere anamol ratan
+ tere badale mai.n zamaane kii
+ koii chiiz na luu.N) \-2
+%
+#endindian
+\endsong
+%

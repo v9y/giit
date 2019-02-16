@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{ek Daal par totaa bole ek Daal par mainaa}%
+\film{Chor Machaaye Shor}%
+\year{1974}%
+\starring{Shashi Kapoor, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{Ravindra Jain}%
+\lyrics{Indrajeet Singh Tulsi}%
+%
+% Contributor: BOL ANAMOL #10313 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	( ek Daal par totaa bole ) \-2 ek Daal par mainaa
+	duur\-duur baiThe hai.n lekin pyaar to phir bhii hai naa
+	bolo hai naa hai naa hai naa
+
+la \:	o o o o ek Daal par totaa bole ek Daal par mainaa
+	mai.n tere naino.n kii ni.ndiyaa tuu mere dil kaa chainaa
+	bolo hai naa hai naa hai naa
+do \:	ek Daal par totaa bole
+
+la \:	ye kyaa mujhako ho gayaa saajan kabhii ro_uu.N kabhii gaa_uu.N
+	pe.D se lipatii bel jo dekhuu.N laaj se mar\-mar jaa_uu.N
+ra \:	ye paagalapan kaisaa kab se ho gayaa aisaa
+la \:	bin batalaa_e samajho saajan aaj nahii.n kuchh kahanaa
+	bolo hai naa hai naa hai naa
+do \:	ek Daal par totaa bole \threedots
+
+ra \:	aa.Ndhii aa_e tuufaa.N aa_e yaa barase.n barasaate.n
+	ik duuje ke ho jaa_e.n ham Katm na ho din\-raate.n
+la \:	( Katm na ho din\-raate.n ) \-2 ( miiThii pyaar kii baate.n ) \-2
+ra \:	ho.nTh agar Kaamosh rahe.n to bol uThe.nge nainaa
+	bolo hai naa hai naa hai naa
+do \:	ek Daal par totaa bole \threedots
+
+la \:	janam\-janam kii pyaas re saajan pal me.n bujhegii kaise
+	jiivan bhar ye sa.ng na chhuuTe a.ng lagaa lo aise
+ra \:	aa mil jaa_e.N aise saagar nadiyaa jaise
+do \:	siikh liyaa hai pyaar me.n hamane miTakar zindaa rahanaa
+	bolo hai naa hai naa hai naa
+	ek Daal par totaa bole \threedots
+%
+#endindian
+\endsong
+

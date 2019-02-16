@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tum TaaTaa ho yaa bi.Dalaa ... tum mamataa ho yaa ##Madonna##}%
+\film{Chor Machaaye Shor}%
+\year{2002}%
+\starring{Bobby Deol, Shilpa Shetty, Bipasa Basu, Shekhar Suman, Om Puri, Paresh Raval}%
+\singer{Vinod Rathod, Anuradha Sriram}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli, Meenu Singh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum TaaTaa ho yaa bi.Dalaa
+raho ##Carter Road## yaa ##irlaa##
+par mujhape tumhaaraa dil hai
+meraa dil bhii ##Polly Hill## hai
+
+tum mamataa ho yaa ##Madonna##
+pahano chaa.Ndii yaa sonaa
+tere gaalo.n pe jo til hai
+merii jaan vo meraa dil hai
+tum TaaTaa ho \threedots
+
+maine ye soch liyaa hai mai.n banuu.ngii usakii raanii
+naa ##english## ho naa ruusii ho la.Dakaa hindustaanii
+ho terii u.ngalii me.n pahanaa duu.N mai.n hiire kii a.nguuThii
+chal kar lete hai.n ma.nganii phir chale.nge dono.n uuTii
+tum TaaTaa ho \threedots
+
+siine se lagaa le bulabul ##London## kii sair karaa duu.N
+chal ##Paris## ki galiyo.n me.n ##Eifiel Tower## dikhalaa duu.N
+o mai.n la.Dakii ##India## vaalii mujhe taajamahal dikhalaa de
+tuu laal kile kii laalii se merii chunarii ra.ngavaa de
+ai tum mamataa ho \threedots
+%
+#endindian
+\endsong
+

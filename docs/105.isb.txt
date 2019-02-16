@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{aap yuu.N hii agar hamase milate rahe}%
+\film{Ek Musafir Ek Hasina}%
+\year{1962}%
+\starring{Sadhana, Joy Mukherjee}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Wed Aug  9 1995
+% Credits: Arun Verma 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+ra: aap yuu.N hii agar hamase milate rahe
+   dekhi_e ek din pyaar ho jaaegaa
+aa: aisii baate.n na kar ai hasii.n jaaduugar
+   meraa dil terii nazaro.n me.n kho jaaegaa
+
+ra: piichhe\-piichhe mere aap aatii.n hai.n kyo.n \-2
+   merii raaho.n me.n aa.Nkhe.n bichhaatii hai.n kyo.n
+   aap aatii hai.n kyo.n \threedots
+aa: kyaa kahuu.N aapase ye bhii ek raaz hai
+   ek din isakaa izahaar ho jaaegaa
+
+ra: kaisii jaaduugarii kii are jaaduugar \-2
+   tere chahare se haTatii nahii.n ye nazar
+   hai ye nazar \threedots
+aa: aisii nazaro.n se dekhaa agar aapane
+   sharm se ra.Ng gulanaar ho jaaegaa
+
+ra: mai.n mohabbat kii raaho.n se a.njaan huu.N \-2
+   kyaa karuu.N kyaa kyaa karuu.N pareshaan huu.N
+   mai.n pareshaan huu.N \threedots
+aa: aapakii ye pareshaaniyaa.N dekhakar
+   meraa dil bhii pareshaan ho jaaegaa
+%
+#endindian
+\endsong
+%
+

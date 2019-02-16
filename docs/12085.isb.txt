@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{juuhii jab se maine dekhaa tujhe raaho.n me.n}%
+\film{Juhi}%
+\year{1997?}%
+\starring{}%
+\singer{Devang Patel}%
+\music{Devang Patel}%
+\lyrics{Anjum}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+juuhii jab se maine dekhaa tujhe raaho.n me.n
+usii pal tuu hii aa ga_ii nigaaho.n me.n
+man kahataa tujhe bhar luu.N mai.n baaho.n me.n
+dil rahataa meraa terii hii panaaho.n me.n
+terii aa.Nkho.n kaa jaaduu chhaa gayaa merii nii.nd kho ga_ii
+naa jaane ye mujhako kyaa hu_aa anahonii ho ga_ii
+juuhii jab se \threedots
+
+vo rut bhii nashiilii thii vo shaam bhii suriilii thii
+nigaahe.n jab milii thii.n juuhii kii kalii khilii thii
+havaa jo puravaa_ii thii zulfe.n laharaa_ii thii.n
+badariyaa chhaa_ii thii barakhaa tab aa_ii thii
+juuhii jab se \threedots
+
+badan bhiigaa saaraa thaa anokhaa saa nazaaraa thaa
+vo rut kaa ishaaraa thaa mai.n dil meraa haaraa thaa
+vo sapanaa salonaa thaa hu_aa jo vahii honaa thaa
+ye dil kaa khilaunaa thaa mujhe to ise khonaa thaa
+juuhii jab se \threedots
+%
+#endindian
+\endsong
+

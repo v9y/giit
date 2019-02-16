@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{bhaTake pa.nchhii bhuul naa jaanaa ye jag teraa nahii.n Thikaanaa}%
+\film{Main Prem Ki Diwani Hoon}%
+\year{2003}%
+\starring{Hritik Roshan, Abhishek Bachchan, Kareena Kapoor}%
+\singer{Chitra}%
+\music{Annu Malik}%
+\lyrics{Traditional}%
+%
+% Contributor: BOL ANAMOL #11697 [V S Rawat]
+% Producer: Rajshri Productions (P) Ltd., Kamal Kumar Barjatya, RajKumar Barjatya, Ajit Kumar Barjatya
+% Director: Sooraj R Barjatya
+% Audio: Saregama India Ltd.
+% Cassette: NHF 810565 Digital, Cost: Rs 55/-, CD: CDF 112054 DDD, Cost: Rs 150/-
+% 
+\printtitle
+#indian
+%
+ko \:	aa
+	tum tum tum aa \-4
+chi \:	bhaTake pa.nchhii
+	bhaTake pa.nchhii bhuul naa jaanaa
+	ye jag teraa nahii.n Thikaanaa \-3
+	naa naa naa
+	bhaTake pa.nchhii bhuul naa jaanaa
+	ye jag teraa nahii.n Thikaanaa
+	
+	bhuul se tuu yahaa.N pe aayaa
+	tere liye ye des paraayaa
+ko \:	raa raa raa raa raa raa gaa maa dhaa ni saa
+chi \:	bhuul se tuu yahaa.N pe aayaa
+	tere liye ye des paraayaa
+	ek din vaapas pa.Degaa jaanaa
+	jaanaa jaanaa jaanaa jaanaa jaanaa
+	bhuul se tuu yahaa.N pe aayaa
+	ek din vaapas pa.Degaa jaanaa
+	ye jag teraa nahii.n Thikaanaa
+	naa naa naa
+	bhaTake ho o bhaTake o bhaTake pa.nchhii
+	bhaTake pa.nchhii bhuul naa jaanaa
+	ye jag teraa nahii.n Thikaanaa
+%
+#endindian
+\endsong
+

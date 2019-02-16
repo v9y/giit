@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{dekho mausam kyaa bahaar hai}%
+\film{Opera House}%
+\year{1961}%
+\starring{Ajeet, B Saroja Devi, K N Singh, Maruti, Baalam, Niranjan Sharma}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10149 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	dekho mausam
+la \:	kyaa bahaar hai
+mu \:	saaraa aalam
+la \:	beqaraar hai
+mu \:	aise me.n kyuu.N ham
+la \:	diivaane ho jaa_e.n naa
+
+	chhalakii\-chhalakii
+mu \:	chaa.Ndanii bhii hai
+la \:	halkii\-halkii
+mu \:	bekhudii bhii hai
+la \:	aise me.n kyuu.N ham
+mu \:	yahii.n par kho jaa_e.n naa
+
+la \:	gaatii sii har saa.Ns me.n bajatii sii shahanaa_iyaa.N
+mu \:	saayaa dil pe Daalatii taaro.n kii parachhaa_iyaa.N
+la \:	jhaa.nke chandaa
+mu \:	aasamaan se
+la \:	chhe.De hamako
+mu \:	jaan\-jaan ke
+la \:	aise me.n kyuu.N ham \threedots
+
+mu \:	dariyaa kii har mauj me.n aramaano.n kaa zor hai
+la \:	dilavaalo.n ke giit kaa lahakaa\-lahakaa shor hai
+mu \:	lahare.n Dole.n
+la \:	jhuum\-jhuum ke
+mu \:	saahil kaa mu.Nh
+la \:	chuum\-chuum ke
+mu \:	aise me.n kyuu.N ham \threedots
+%
+#endindian
+\endsong
+

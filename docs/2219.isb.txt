@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{taa thaiyyaa karate aanaa}%
+\film{Panchayat}%
+\year{1958}%
+\starring{Pandhari Bai, Shyama, Rajkumar}%
+\singer{Geeta, Lata}%
+\music{Iqbal Qureshi}%
+\lyrics{Shakeel Numani}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+taa thaiyyaa karate aanaa
+o re jaaduugar more sai.nyyaa
+merii dil kii lagii bujhaanaa
+o re jaaduugar more sai.nyyaa
+
+mai.n sadake un raaho.n pe
+jin raaho.n se tuu aaye
+dil maa.Nge yahii du_aa_e.n
+ye raahe.n kam ho jaaye.n
+ab aao na, tarasaa_o na
+aa jaao na, ta.Dapaao na
+taa thaiyya   \threedots
+
+tum saamane to aa jaao
+de de.nge dil nazaraanaa
+dil kyaa hai jaan bhii le lo
+aa jaanaa karake bahaanaa
+ab aao na, tarasaa_o na
+aa jaao na, ta.Dapaao na
+taa thaiyya   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{aa laharaa_e jiyaa ... balakhaa_e jiyaa}%
+\film{Shaardaa}%
+\year{1957}%
+\starring{Raj Kapoor, Meena Kumari, Shyama, Anita Guha, Agha, Gop}%
+\singer{Asha}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11438 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa aa aa
+laharaa_e jiyaa laharaa_e bal khaa_e jiyaa bal khaa_e
+laharaa_e jiyaa bal khaa_e jiyaa aa_ii hai gha.Dii sharamaane kii \-2
+ab tumase sanam le le.nge qasam phir baat na karanaa jaane kii \-2
+
+sapano.n me.n sadaa tum aate the aate the \-2
+( phir aa ke chale kyo.n jaate the ) \-2 kyo.n jaate the
+ham jaan ga_e pahachaan ga_e ye hii adaa hai ta.Dapaane kii
+aa_ii hai gha.Dii \threedots
+
+phir duur hu_e sab shiqave\-gile shiqave\-gile
+aa aa aa phir duur hu_e sab shiqave\-gile shiqave\-gile
+ham tum pe mare.n kyo.n pyaar kare.n ye baat nahii.n samajhaane kii
+aa_ii hai gha.Dii \threedots
+
+sharamaa ke chalii hai tanhaa_ii tanhaa_ii \-2
+baajegii ab madhur shahanaa_ii \-2
+jhuk\-jhuk ke nazar detii hai Kabar o jaan\-e\-jigar tere aane kii \-2
+laharaa_e jiyaa bal \threedots
+%
+#endindian
+\endsong
+

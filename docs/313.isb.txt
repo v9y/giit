@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{bhuulii huii yaado.n, mujhe itanaa naa sataao}%
+\film{Sanjog}%
+\year{}%
+\starring{Pradeep Kumar, Anita Guha}%
+\singer{Mukesh}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Rajan Parrikar 
+%          Arati Deo (arati@soma.rice.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bhuulii huii yaado.n, mujhe itanaa naa sataao
+ab chain se rahane do, mere paas na aao
+bhuulii huii yaado.n \threedots
+
+daaman me.n liye baiThaa huu.N, (TuuTe hue taare \- 2)
+kab tak mai.n jiyuu.Ngaa yuu.Nhii, (khvaabo.n ke sahaare \- 2)
+dIvaanaa huu.N, ab aur naa dIvaanaa banaao
+ab chain se rahane do, mere paas na aao
+bhuulii huii yaado.n \threedots
+
+lUTo naa mujhe is tarah, (doraahe pe laake \-2 )
+aavaaz na do ek (nayI raah dikhaake \- 2)
+sa.nbhalaa huu.N mai.n gir\-girake mujhe, phir naa giraao
+ab chain se rahane do mere paas naa aao
+
+bhuulii huii yaado.n, mujhe itanaa naa sataao
+ab chain se rahane do, mere paas na aao
+bhuulii huii yaado.n \threedots
+%
+#endindian
+\endsong
+%

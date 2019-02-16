@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kahanaa hai tumase kahanaa hai ... sau baar janam le.n tere li_e}%
+\film{Mann/ Listen To Your Heart}%
+\year{1999}%
+\starring{Aamir Khan, Manisha Koirala, Anil Kapoor}%
+\singer{Udit Narayan, Hema Sardesai}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye saathii ho jo aisaa mil jaa_e jo pyaar me.n
+sau baar janam le.n tere li_e tere ishq me.n mar jaa_e.n
+jo kiyaa na ho kisii aashiq ne kuchh aisaa kar jaa_e.n
+
+kahanaa hai tumase kahanaa hai
+rahanaa hai dil me.n rahanaa hai
+
+Kaamosh palako.n tale sapane.n tumhaare pale.n
+tumhii ho nazar me.n jigar me.n
+tumhii.n ho saa.Nso.n me.n
+tum ho du_aa me.n sadaa me.n tumhii.n ho baato.n me.n
+kahanaa hai tumase \threedots
+
+aa_o tumhe.n mai.n pyaar duu.n
+dono.n jahaa.n vaar duu.n
+parii ho sabaa ho kalii ho machalatii shabanam ho
+ko_ii nashaa ho fazaa ho suhaanaa mausam ho
+kahanaa hai tumase \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{hai naa bolo}%
+\film{Dulhan Hum Le Jaayenge}%
+\year{2000}%
+\starring{Salman Khan, Karisma Kapoor, Om Puri, Paresh Raval, Anupam Kher}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laa la laa laa laa la laa
+hai naa bolo hai naa bolo
+dil ye meraa kho gayaa
+haay ye kyaa ho gayaa
+ye kaise ho gayaa
+hote hote ho gayaa
+hai naa bolo hai naa bolo
+##come on everybody##
+dil ye meraa \threedots
+%
+#endindian
+\endsong
+

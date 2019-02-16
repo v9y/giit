@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{kahe jhuum\-jhuum raat ye suhaanii}%
+\film{Love Marriage}%
+\year{1959}%
+\starring{Dev Anand, Mala Sinha}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10870 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+kahe jhuum\-jhuum raat ye suhaanii
+piyaa haule se chhe.Do dubaaraa
+vahii kal kii rasiilii kahaanii
+kahe jhuum\-jhuum raat \threedots
+
+sun ke jise dil meraa dha.Dakaa
+laaj ke sar se aa.Nchal sarakaa
+raat ne aisaa jaaduu pheraa
+aur hii nikalaa ra.ng sahar kaa
+kahe jhuum\-jhuum raat \threedots
+
+mastii bharii ye Kaamoshii
+chup huu.N kha.Dii dekho mai.n kho_ii sii
+dekh rahii huu.N mai.n ek sapanaa
+kuchh jaagii sii kuchh so_ii sii
+kahe jhuum\-jhuum raat \threedots
+
+tan bhii tumhaaraa man bhii tumhaaraa
+tumase hii baalam jag ujiyaaraa
+rom\-rom meraa aaj manaa_e
+chhuuTe kabhii na saath tumhaaraa
+kahe jhuum\-jhuum raat \threedots
+%
+#endindian
+\endsong
+

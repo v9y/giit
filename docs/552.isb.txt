@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{do sitaaro.n kaa zamii.n pe hai milan aaj kii raat}%
+\film{Kohinoor}%
+\year{1960}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu), Tabassum Hijazi
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ra: muskuraataa hai ummiido.n kaa chaman aaj kI raat
+la: saarii duniyaa nazar aatii hai dulhan aaj kI raat
+dono: do sitaaro.n kA zamii.n par hai milan aaj kI raat 
+aaj kii raat \threedots
+
+ra: husn vaale terii duniyaa me.n koii aayaa hai
+tere diidaar kii hasarat bhii koii laayaa hai
+to.D de to.D de parde kaa chalan aaj kI raat
+muskuraataa hai ummiido.n kaa chaman aaj kI raat
+dono: do sitaaro.n ka zamii.n par \threedots
+
+la: jin se milane kii thii tamannaa vo hii aate hai.n
+chaa.Nd taare merii rAho.n me.n bichhe jaate hai.n
+chuumataa hai tere kadamo.n ko gagan aaj kI raat
+saarii duniyaa nazar aatii hai dulhan aaj kI raat
+dono: do sitaaro.n ka zamii.n par \threedots
+%
+#endindian
+\endsong
+%

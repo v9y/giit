@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kitanii bechain ho ke tumase milii}%
+\film{Kasoor}%
+\year{2000}%
+\starring{Aftaab Shivdasani, Lisa Ray, Apurva Agnihotri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kitanii bechain ho ke tumase milii
+tumako kyaa thii khabar thii mai.n kitanii akelii
+haa.n haa.n haa.n haa.n haa.n haa.n haa.n haa.n haa.n
+
+kitanaa bechain ho ke tumase milaa
+tumako kyaa thii khabar thaa mai.n kitanaa akelaa
+haa.n haa.n haa.n haa.n haa.n haa.n haa.n haa.n haa.n
+
+ke kitanii mohabbat hai tumase zaraa paas aake to dekho
+kyaa aag hai dha.Dakano.n me.n gale se lagaa ke to dekho
+bataa_ii na jaa_e zubaa.n se ye haalat
+mere jism\-o\-jaa.n ko tumhaarii hai chaahat
+kitanaa bechain ho ke \threedots
+
+jo hai daramiyaa.n ek paradaa ise jaan\-e\-man ab haTaa de
+yahii faasale kah rahe hai.n chalo duuriyo.n ko miTaa de.n
+na ko_ii tamannaa hai naa ko_ii hasarat
+mujhe to sanam hai tumhaarii zaruurat
+kitanaa bechain ho ke \threedots
+%
+#endindian
+\endsong
+

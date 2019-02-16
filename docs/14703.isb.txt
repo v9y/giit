@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{soch liyaa maine ai mere dilabar ... ek tere sivaa mujhe aur kisii se pyaar karanaa}%
+\film{Zamaanaa Deewaanaa}%
+\year{1995}%
+\starring{Shahrukh, Jeetendra, Shatrughan, Raveena, Kiran Juneja, Anupam}%
+\singer{Alka Yagnik, Vinod Rathod}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+soch liyaa maine ai mere dilabar
+hai yah vaadaa kiyaa maine ai jaan\-e\-jigar
+ek tere sivaa mujhe aur kisii se pyaar karanaa nahii.n
+soch liyaa maine ai mere dilabar \threedots
+
+dil nahii.n hai tuu dilarubaa hai tuu
+mere khyaalo.n kii apsaraa hai tuu
+naazanii.n hai tuu mahajabii.n hai tuu
+dil jise chaahe vo hasii.n hai tuu
+mahabuub mere dil kii kasam
+mujhe aah bharanaa nahii.n
+soch liyaa maine ai mere dilabar \threedots
+jo iradaa kiyaa maine jaan\-e\-jigar
+
+tuu hai dha.Dakan merii tuu hai saa.Nso.n me.n
+teraa hii jalavaa jo merii aa.Nkho.n me.n
+pyaar aanaa thaa pyaar aayaa hai
+kyaa naam mere dil pe chhaayaa hai
+mujhako hai luTaanii jaan apanii
+kisii aur pe maranaa nahii.n
+soch liyaa maine ai mere dilabar \threedots
+
+mai.n tujhe dekhuu.n dekhatii jaa_uu.n
+haal ab kyaa hai kaise samajhaa_uu.n
+puuchh naa sakhii kyaa kiyaa maine
+dil teraa leke dil diyaa maine
+kuchh bhii ho sanam anjaam\-e\-vafaa
+ab mujhako Daranaa nahii.n
+soch liyaa maine ai mere dilabar \threedots
+%
+#endindian
+\endsong
+

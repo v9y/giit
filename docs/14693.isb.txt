@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tere naGme.n terii baate.n ... mai.n aashiq huu.N diivaanaa huu.N}%
+\film{Zameer}%
+\year{1997}%
+\starring{Sanjay Kapur, Shilpa Shetty, Kader, Shakti, Paresh, Laxmikant Berde}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere naGme.n terii baate.n teraa hii naam likhataa huu.N
+mai.n aashiq huu.N diivaanaa huu.N subah ko shaam likhataa huu.N
+
+terii yaado.n ke mausam ko kabhii mai.n rok naa paa_uu.N
+khyaalo.n ke gulistaa.n me.n mahakataa mai.n chalaa jaa_uu.N
+merii aa.Nkho.n ke darpaN me.n tere hii khvaab aate hai.n
+mere aramaa.n ba.De bekal kahii.n naa chain paate hai.n
+tere ho.nTho.n pe ho.nTho.n se hasii.n paiGaam likhataa huu.N
+mai.n aashiq huu.N \threedots
+
+likhii tuune jo chhup chhup ke vahii to mai.n kahaanii huu.N
+terii saa.Nso.n me.n rahatii huu.N mai.n terii zindagaanii huu.N
+judaa_ii kaa ko_ii lamhaa merii jaa.n naa sahaa jaa_e
+binaa dekhe teraa cheharaa kabhii bhii naa rahaa jaa_e
+javaa.n aavaaz kaa har pal javaa.n a.ndaaz likhatii huu.N
+ajii kaisii diivaanii huu.N subah ko shaam likhatii huu.N
+tere naGme.n terii baate.n \threedots
+%
+#endindian
+\endsong
+

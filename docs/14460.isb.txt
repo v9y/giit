@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jiine kii suurat ho ga_ii ... samajho ke mohabbat ho ga_ii}%
+\film{Tohfa}%
+\year{1947}%
+\starring{Nawab, Veera, Anuradha, Rahman, Mishra}%
+\singer{Mukesh, Hameeda}%
+\music{M A Rauf (Usmania)}%
+\lyrics{Nazeer Haiderabadi}%
+%
+% Contributor: BOL ANAMOL #11411 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+jiine kii suurat ho ga_ii
+aur terii badaulat ho ga_ii
+jab dard se chaahat ho ga_ii \-2
+samajho ke mohabbat ho ga_ii \-2
+
+jab haule\-haule man Dole
+aur apanii dhun me.n kuchh bole
+naino.n me.n kaajal ras ghole
+samajho ke mohabbat \threedots
+
+jab ratiyaa.N naache.n gaa_e.N
+jab taare saaz bajaa_e.N
+aur jhuume.n mast ghaTaa_e.N
+samajho ke mohabbat \threedots
+
+bevajah kalaa_ii jab chhanake
+chhan\-chhan chhan\-chhan paayal chhanake
+aur nayan kaa pyaalaa bhii khanake
+samajho ke mohabbat \threedots
+%
+#endindian
+\endsong
+

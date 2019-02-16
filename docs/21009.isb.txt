@@ -1,0 +1,37 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{janam maraN ke saathii}%
+\film{(Non-film)}%
+\year{1930s}%
+\starring{}%
+\singer{Dilip Kumar Roy}%
+\music{Dilip Kumar Roy}%
+\lyrics{(Traditional)}%
+% 
+% Audio on: 
+% Tags: Devotional Meera bhajan
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 4 Jul 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(saathii)\-4 chirasaathii
+
+janam maraN ke saathii hamaare
+janam maraN ke saathii prabhu
+dhani bisaruu.N nahii.n din raatii
+
+pal pal tero ruup nihaaruu.N
+nirakh nirakh sukh paatii
+miiraa ke prabhu param manohar
+hari charaN chit raakhii
+janam maraN ke saathii hamaare \threedots
+%
+#endindian
+\endsong

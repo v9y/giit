@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chhoTii sii kahaanii se, baarisho.n kii paanii se}%
+\film{Ijaazat}%
+\year{}%
+\starring{Rekha, Naseeruddin Shah, Anuradha Patel}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+chhoTii sii kahaanii se, baarisho.n kii paanii se
+saarii vaadii bhar gayii
+na jaane kyo.n, dil bhar gayaa
+na jaane kyo.n aa.Nkh bhar gayii
+
+rukatii hai chalatii hai
+kabhii barasatii hai
+baadal pe paa.Nv rakh ke
+baarish machalatii hai aa~ aa~
+la laa~ chhoTii sii kahaanii se   \threedots
+
+shaaKo.n pe patte the
+patto.n me.n buu.Nde thii.n
+buu.Ndo.n me.n paanii thaa
+paanii me.n aa.Nsuu thaa aa~ aa~
+la laa~ chhoTii sii kahaanii se   \threedots
+
+pahale mile bhii the
+dil me.n gile bhii the
+mil ke paraaye the
+do ham_saaye the aa~ aa~
+la laa~ chhoTii sii kahaanii se   \threedots
+%
+#endindian
+\endsong
+%

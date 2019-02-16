@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{na shivaale, na khalisaa, na haram jhuuThe hai.n}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Ayaz Jhansvi}%
+%
+% Contributor: Milind Dawande (md68+@andrew.cmu.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+naa shivaale, naa khAlasaa, naa haram jhUThe hai \- 2
+bas yahii sach hai, ke tum jhUThe ho ham jhUThe hai.n
+naa shivaale \threedots
+
+hamane dekhaa hii nahii bolate ko ab tak \- 2
+kaun kahataa hai ke patthar ke sanam jhUThe hai.n
+naa shivaale \threedots
+
+unase miliye to khushii hotii hai unase milakar \- 2
+shahar ke dUsare logo.n se jo kam jhUThe hai.n
+naa shivaale \threedots
+
+kuchh to hai baat, taharIro.n me.n tAsIr nahii.n \- 2
+jhUThe fanakaar nahii.n to kalam jhUThe hai.n
+naa shivaale \threedots
+%
+#endindian
+\endsong
+%

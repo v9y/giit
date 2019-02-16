@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kal maine khulii aa.Nkh se ik sapanaa dekhaa ... ##I love you.##}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Abhijit}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kal maine khulii aa.Nkh se ik sapanaa dekhaa
+bholaa pyaaraa chaa.Nd saa ek mukha.Daa dekhaa
+hai vo laakho.n me.n ek hasiinaa dil meraa jisane hai chhiinaa
+kahate hai.n sab usako pyaar se aashaa
+aashaa ##I love you.##
+
+maine bhii ik pyaaraa pyaaraa sapanaa dekhaa
+par sapane me.n alabelaa ek la.Dakaa dekhaa
+jaaduu kiyaa hai usane dil chhiin liyaa hai usane
+kahate hai.n sab usako pyaar se jaanam
+jaanam  ##I love you.##
+
+is dil kii tum dha.Dakan ho dha.Dakan me.n chhupaa pyaar ho
+ik aramaan ho mere dil kii aas ho merii saa.Nso.n kii jha.nkaar ho
+is dil kii tum chaahat ho chaahat me.n chhupaa raaz ho
+saragam ho tum merii ik naGmaa ho tum mere dil kii aavaaz ho
+jaanam  ##I love you.## \threedots
+
+pyaaraa samaa.n ye dil hai javaa.n aaj chup hai.n zamii.n aasamaa.n
+nazare.n jo milii.n ye kaliyaa.n khilii.n ban ga_ii ik na_ii daastaa.n
+ho ye mastiyaa.n yaaraa ye shokhiyaa.n mujhe lagane lagii hai.n
+ab tum jo mile mujhe aisaa lagaa jaise bahaar aa ga_ii
+aashaa ##I love you.## \threedots
+%
+#endindian
+\endsong
+

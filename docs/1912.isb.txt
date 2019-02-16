@@ -1,0 +1,75 @@
+%
+\startsong
+\stitle{ye kahaa.N aa gaye ham yuu.Nhii saath saath chalate}%
+\film{Silsila}%
+\year{}%
+\starring{Amitabh, Rekha, Jaya Bachan, Sanjeev Kumar, Sashii Kapoor}%
+\singer{Amitabh, Lata}%
+\music{Shiv-Hari}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Kannan Muthukaruppan (mkannan@plane.cs.berkeley.edu)
+%          Anil (U56779@uicvm.uic.edu)
+%          Vivek Vohra (vivek@oz.che.rochester.edu)
+%          Anand Krishnamoorthy (anandk@hal.com)
+% Editor:  
+%
+\printtitle
+#indian
+%
+amitaabh:
+mai.n aur merI tanhaaii, aksar ye baate.n karate hai.n
+tum hotii to kaisaa hotaa, tum ye kahatii, tum vo kahatii 
+tum is baat pe hairaa.n hotii, tum us baat pe kitanii ha.Nsatii 
+tum hotii to aisaa hotaa, tum hotii to vaisaa hotaa 
+mai.n aur merii tanhaaii, aksar ye baate.n karate hai.n 
+ruu ruu \threedots
+
+lataa: 
+ye kahaa.N aa gaye ham,  yuu.Nhii saath saath chalate  
+terii baaho.n me.n hai jaanam, mere jism\-o\-jaan pighalate \- 2
+
+amitaabh:
+ye raat hai, yaa tumhaarii zulfe.n khulii huii hai.n
+hai chaa.Ndanii tumhaarii nazaro.n se, merI raate dhulii huii hai.n
+ye chaa.Nd hai, yaa tumhaaraa ka.Ngan 
+sitaare hai.n yaa tumhaaraa aa.Nchal
+havaa kaa jho.nkaa hai, yaa tumhaare badan kii khushabuu 
+ye pattiyo.n kii hai sarasaraahaT 
+ke tumane chupake se kuchh kahaa 
+ye sochataa huu.N mai.n kabase gumasum
+ki jabakii mujhako bhii ye khabar hai
+ki tum nahii.n ho, kahii.n nahii.n ho
+magar ye dil hai ki kah rahaa hai
+tum yahii.n ho, yahii.n kahii.n ho  
+
+lataa: 
+tuu badan hai mai.n huu.N saayaa, tU nA ho to mai.n kahaa.N huu.N 
+mujhe pyaar karane vaale, tuu jahaa.N hai mai.n vahaa.N huu.N 
+hame.n milanaa hii thaa hamadam, isii raah pe nikalate 
+ye kahaa.N aa gaye ham 
+
+merI saa.Ns saa.Ns mahake, koI bhiinaa bhiinaa chandan
+terA pyaar chaa.Ndanii hai, meraa dil hai jaise aa.Ngan 
+koi aur bhI mulaayam,  (merI shaam Dhalate Dhalate \- 2) 
+ye kahaa.N aa gaye ham 
+
+amitaabh:
+majabuur ye haalaat, idhar bhI hai udhar bhii 
+tanhaaii ke ye raat, idhar bhI hai udhar bhii 
+kahane ko bahut kuchh hai, magar kisase kahe.n ham 
+kab tak yuu.Nhii khaamosh rahe.n, aur sahe.n ham 
+dil kahataa hai duniyaa kii har ik rasm uThaa de.n 
+diivaar jo ham dono me.n hai, aaj giraa de.n 
+kyo.n dil me.n sulagate rahe.n, logo.n ko bataa de.n 
+haa.n hamako muhabbat hai, mohabbat hai, mohabbat hai 
+ab dil me.n yahii baat, idhar bhI hai, udhar bhii 
+
+lataa: 
+ye kahaa.N aa gaye ham, ye kahaa.N aa gaye ham 
+%
+#endindian
+\endsong
+%

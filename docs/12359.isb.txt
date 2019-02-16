@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ishq jaaduu ishq Tonaa ... naa jaane kahaa.N dil ye meraa}%
+\film{Kranti}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel}%
+\singer{Amit Kumar, Sunidhi Chauhan}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq jaaduu ishq Tonaa ishq chaa.Ndii ishq sonaa
+naa jaane kahaa.N dil ye meraa kho gayaa
+dekhaa jo tujhe ishq mujhe ho gayaa
+jaan\-e\-man is umar me.n hai zaruurii ishq honaa ishq honaa
+ishq jaaduu \threedots
+
+in aa.Nkho.n kaa afasaanaa mai.n ban baiThaa diivaanaa
+tuune o jaan\-e\-jaanaa.n kyaa kiyaa
+ishq ha.Nsanaa ishq ronaa 
+ishq jaaduu \threedots
+
+honaa honaa honaa honaa
+ishq honaa
+khushbuu sii mahakii mahakii sholo.n sii dahakii dahakii
+mai.n to huu.N bahakii bahakii hai nashaa
+ishq paanaa ishq khonaa 
+ishq jaaduu \threedots
+%
+#endindian
+\endsong
+

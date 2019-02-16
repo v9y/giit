@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{jaaduugar sai.nyaa chho.Do morii bai.nyaa}%
+\film{Nagin}%
+\year{1954}%
+\starring{Pradeep Kumar, Vyjayanthimala}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+jaaduugar sai.nyaa, chho.Do merii bai.nyaa
+ho ga_ii aadhii raat, ab ghar jaane do
+
+jhukii\-jhukii a.Nkhiyaa.N dekhe.ngii saarii sakhiyaa.N
+de.ngii taanaa tere naam kaa
+(aise me.n mat rok bedardii
+ le le vachan kal shaam kaa) \-2
+kal ho.nge phir ham saath
+ab ghar jaane do
+
+jaaduugar sai.nyaa \threedots
+
+jaane de o rasiyaa, mere man basiyaa
+gaa.Nv meraa ba.Dii duur hai
+(terii nagariyaa ruk na sakuu.N mai.n
+ pyaar meraa majabuur hai) \-2
+za.njiir pa.Dii mere haath
+ab ghar jaane do
+
+jaaduugar sai.nyaa \threedots
+%
+#endindian
+\endsong
+%

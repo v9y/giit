@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jhuum jhuum kar chalii akelii}%
+\film{Taj}%
+\year{}%
+\starring{Pradeep Kumar}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+jhuum jhuum kar chaliii akelii
+aaj na jaane kahaa.N navelii
+mast nazar sharamaaye
+ho gayaa, ho gayaa hai pyaar kaa jaaduu
+naagin sii balakhaaye
+
+mastaanii hai chaal gulaabi gaal umariyaa baalii
+ghu.nghar vaale baal sunaharii jaal, najariyaa matavaalii
+duur duur se jhalak dikhaaye
+saa.Nvariyaa jab paas bulaaye
+chham chham ba.Dhatii jaaye
+ho gayaa, ho gayaa hai    \threedots
+
+albelii magaruur nashe me.n chuur chalii laharaatii
+dekho karatii maan chalaatii baan hai dil ko ta.Dapaatii
+aag lagaakar aa.Nkh churaaye
+saa.Nvariyaa jab paas bulaaye
+chham chham ba.Dhatii jaaye
+ho gayaa, ho gayaa hai    \threedots
+
+%
+#endindian
+\endsong
+%

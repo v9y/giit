@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{##C A T CAT CAT## maane billii}%
+\film{Dilli Kaa Thug}%
+\year{1958}%
+\starring{Kishore, Nutan, Smriti Bishwas, Madan Puri, Iftikhar}%
+\singer{Kishore, Asha}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11654 [V S Rawat], Surma Bhopali
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+##C A T cat, cat## maane billii
+##R A T rat, rat## maane chuuhaa
+are dil hai tere pa.nje me.n to kyaa hu_aa
+##C A T cat,## \threedots
+
+##M A D mad, mad## maane paagal
+##B O Y boy, boy## maane la.Dakaa
+are matalab isakaa tum kaho to kyaa hu_aa
+##C A T cat,## \threedots
+
+arii baavarii tuu ban jaa merii zaraa sun mai.n kyaa kahataa huu.N
+tujhe hai Kabar o jaan\-e\-jigar tuu hai kaun aur mai.n kyaa huu.N
+##G O A T goat, goat## maane bakarii
+##L I O N lion, lion## maane sher
+are dil hai tere pa.nje me.n to kyaa karuu.N
+##C A T cat,## \threedots
+
+lage taakane kabhii aapane shiishaa le ke mu.Nh dekhaa bhii
+tum hii ik nahii.n jahaa.N me.n hasiin hogaa ko_ii ham saa bhii
+##N O S E nose, nose## maane naak
+##C R O W crow, crow## maane kauvaa
+are matalab isakaa tum kaho to kyaa hu_aa
+##C A T cat,## \threedots
+
+milaa le nazar o jaan\-e\-jigar teraa kyaa karegii duniyaa
+jahaa.N se Daro ye sochaa karo hame.n kyaa kahegii duniyaa
+##B A D bad, bad## maane buraa
+##B U T but, but## maane lekin
+are dil hai tere pa.nje me.n to kyaa hu_aa
+##C A T cat,## \threedots
+%
+#endindian
+\endsong
+

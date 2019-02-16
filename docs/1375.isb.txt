@@ -1,0 +1,88 @@
+%
+\startsong
+\stitle{o mere raajaa, khafaa na honaa (vaadaa to nibhaayaa)}%
+\film{Johnny Mera Naam}%
+\year{1970}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishore, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% There is an interesting incident that happened during the
+% picturization of the song.  In the last stanza of the song (kaho yeh
+% gaalon ke..), when Dev and Hema Malini are seated on a one-seater
+% winch, with Hema on Dev's lap, some prankster is supposed to have cut
+% the electricity supply so that Dev and Hema were stranded in mid-air
+% in each other's arms.  Thank God Hema was pretty slim then, Johny mera
+% naam being one of her initial movies!
+% satish 
+%
+lataa: o o mere raajaa, khafaa na honaa
+der se aaii,  duur se aaii
+majabuurii thii phir bhii maine
+vaadaa to nibhaayaa,  vaadaa to nibhaayaa
+kishor: o o merii raanii,  samajh gayaa mai.n
+vahii puraanaa,  teraa bahaanaa
+der se aanaa aur ye kahanaa
+vaadaa to nibhaayaa,  vaadaa to nibhaayaa
+
+kishor: i.ntazaar ke ek ek pal kaa badalaa luu.Ngaa
+lataa: aisaa bhii kyaa
+kishor: ye na samajhanaa aaj bhii aise jaane duu.Ngaa
+lataa: aisaa bhii kyaa
+kishor: kitanaa sataayaa pahale usakaa hisaab do
+a.nkhiyo.n me.n a.nkhiyaa.N Daalake javaab do
+lataa: bachatii bachaatii
+kishor: o o
+lataa: bachatii bachaatii \threedots chhupatii chhupaatii
+tum kyaa jaano kaise aaii,
+vaadaa to nibhaayaa, o o mere raajaa
+kishor: samajh gayaa mai.n,  vahii puraanaa,  teraa bahaanaa \threedots
+lataa: o o mere raajaa \threedots
+
+lataa: baaho.n kii in za.njiiro.n me.n yuu.N naa jaka.Do
+kishor: ham jaka.De.nge
+lataa: mu.D jaaegii merii kalaaI haath na paka.Do
+kishor: ham paka.De.nge
+lataa: chho.Do naa
+kishor: nahii.n
+lataa: chho.Do naa
+kishor: aise to naazuk nahii.n haath sarakaar ke
+mauke bhii kabhii kabhii milate hai.n pyaar ke
+lataa: pyaar abhii to
+kishor: ho, o o
+lataa: pyaar abhii to nayaa nayaa hai
+merii vafaa kii kadar karo ki,
+vaadaa to nibhaayaa, o o mere raajaa \threedots
+kishor: o o merii raanii \threedots
+
+kishor: kaho ye gaalo.n ke a.ngaare kisake liye hai.n,  kaho kaho
+lataa: ajii tumhaare
+kishor: haa haa haa haa
+ho.nTho.n pe ye shahad ke dhaare kis ke liye hai.n,  bolo bolo
+lataa: ajii tumhaare
+kishor: haa.N,  sharm kahaa.N kii aao gale lag jaao jii
+kab se kha.Daa huu.N pyaasaa pyaas bujhaao jii
+lataa: haT jaao jii
+kishor: bujhaao jii
+lataa: badanaamii se
+kishor: ho, o o
+lataa: badanaamii se Dar lagataa hai
+ye to socho kis mushkil se,  vaadaa to nibhaayaa
+o o mere raajaa \threedots
+kishor: samajh gayaa mai.n,  vahii puraanaa,  teraa bahaanaa \threedots
+lataa: o o mere raajaa \threedots
+%
+#endindian
+\endsong
+%

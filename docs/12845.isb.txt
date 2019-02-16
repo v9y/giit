@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{melaa dilo.n kaa aataa hai ik baar}%
+\film{Melaa}%
+\year{1999}%
+\starring{Aamir Khan, Twinkle Khanna, Faizal Khan, Johny Lever}%
+\singer{Sonu Nigam, Alka Yagnik, Roop Kumar Rathod, Shankar Mahadevan, Jaspindar Narula}%
+\music{Rajesh Roshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+melaa dilo.n kaa aataa hai ik baar aake chalaa jaataa hai
+aate hai.n musaafir jaate hai.n musaafir
+jaanaa hii hai unako kyo.n aate hai.n musaafir
+melaa dilo.n kaa \threedots
+
+ha.Ns le gaa le ye din naa mile.nge kal
+tho.Dii khushiyaa.n hai.n tho.De se ye pal
+ek baar phir chalii jaa_e.n jo ye bahaare.n
+lauT kar naa aa_e.ngii gujarii bahaare.n
+melaa bahaaro.n kaa aataa hai ik baar aake chalaa jaataa hai
+aatii hai.n bahaare.n jaatii hai.n bahaare.n
+jaanaa hii hai unako kyo.n aatii hai.n bahaare.n
+melaa dilo.n kaa \threedots
+
+saajan ek tujh pe bharosaa hai
+is bhii.D me.n ek tuu hii meraa hai
+mausam badale badale zamaanaa
+vaadaa kiyaa jo vaadaa nibhaanaa hai
+haatho.n kii lakiire.n gaa_e.n ye taraanaa
+mar kar bhii ye rishtaa hai hamako nibhaanaa
+melaa dilo.n kaa \threedots
+
+aa_ii re javaanii jaise rut tuufaanii
+pagalii ye diivaanii mai.n kyaa karuu.n
+melaa javaanii kaa aataa hai ik baar aake chalaa jaataa hai
+aatii hai javaanii jaatii hai javaanii
+jaanaa hii hai usako kyo.n aatii hai javaanii
+melaa dilo.n kaa \threedots
+%
+#endindian
+\endsong
+

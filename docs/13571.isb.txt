@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{balamaa anaa.Dii ma.Ngaa de gho.Daa\-gaa.Dii}%
+\film{Pocketmaar}%
+\year{1956}%
+\starring{Dev Anand, Geeta Bali, Nadira, Gop, Sundar, Meenu Mumtaz}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10588 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+balamaa anaa.Dii ma.Ngaa de gho.Daa\-gaa.Dii
+ki tere sa.ng haay meraa laage na jiyaa
+
+thak ga_ii mai.n to jii paanii bhar\-bhar ke
+tere saare ghar kii gulaamii kar\-kar ke
+salaamii kar\-kar ke
+balamaa anaa.Dii \threedots
+
+saaraa\-saaraa din baiThii chuulhaa jalaa_uu.N mai.n
+gore\-gore haatho.n se jhaa.Duu lagaa_uu.N mai.n
+isase to achchhaa ki haay mar jaa_uu.N mai.n
+balamaa anaa.Dii \threedots
+
+jabase bedardii byaah ke mujhe laayaa
+kabhii sa.ng apane na sinemaa dikhaayaa
+na ##lemon## pilaayaa
+balamaa anaa.Dii \threedots
+%
+#endindian
+\endsong
+

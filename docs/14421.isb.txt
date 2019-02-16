@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mai.n tujhase pyaar karuu.n mai.n shaayarii na karuu.n}%
+\film{The Telephone}%
+\year{2000}%
+\starring{Varun Vadaan, Amisha Desai, Kunal Singh, Raksha Raghwan}%
+\singer{Anuradha Paudwal}%
+\music{Kalyan Vardhan}%
+\lyrics{Prashant}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n tujhase pyaar karuu.n mai.n shaayarii na karuu.n
+mai.n shaayarii na karuu.n mai.n tujhase pyaar karuu.n
+mai.n shaayarii na karuu.n \threedots
+
+merii vafaa_e.n mahakaa kare.ngii banake ko_ii khushbuu
+mujhako rahegii aur rahegii terii hameshaa justajuu
+mai.n shaayarii na karuu.n \threedots
+
+meraa nasiibaa chamakegaa us din baaho.n me.n hogaa sirf tuu
+shahanaa_iyaa.n bhii sajane lage.ngii apane milan kii dhun
+mai.n shaayarii na karuu.n \threedots
+
+tuu naa milaa to ye merii duniyaa suunii rahegii haradam
+saa.Nso.n me.n terii saa.Nso.n me.n merii guu.njaa karegii saragam
+mai.n shaayarii na karuu.n \threedots
+%
+#endindian
+\endsong
+

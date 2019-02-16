@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{a.Nkhiyo.n ne a.Nkhiyo.n se milake ... o rabbaa dil aa_e mushkil se}%
+\film{Heer Ranjhaa}%
+\year{1992}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Alka Yagnik, Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.Nkhiyo.n ne a.Nkhiyo.n se milake kar li_e saude dil ke
+o rabbaa dil aa_e mushkil se
+
+yuu.n pyaar kaa mausam laharaayaa ik paradesii bha.nvaraa aayaa
+a.nga.Daa_ii kalii ne lii khil ke
+o rabbaa dil aa_e \threedots
+
+pahalii nazar me.n jaa.n nikalii na naa nikalii na naa nikalii
+bas rah ga_e sharm se lab sil ke
+o rabbaa dil aa_e \threedots
+
+ye ishq to hukm Kudaa kaa hai kuchh maa.nguu.n vaqt du_aa kaa hai 
+ai kaash na bichha.De.n ham mil ke
+o rabbaa dil aa_e \threedots
+
+jo phuul yahaa.N par khil na sake vo phuul vahaa.N khil jaa_e.nge
+ham is duniyaa me.n na mil sake us duniyaa me.n mil jaa_e.nge
+likhane vaale ne ashqo.n se ai ishq terii takadiir likhii
+ye paa.ncho.n dariyaa roye bahut tab vaaris shaah ne hiir likhii
+%
+#endindian
+\endsong
+

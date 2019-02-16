@@ -1,0 +1,32 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaagaz kii thii wo naav}%
+\film{Zaban}%
+\year{1943}%
+\starring{Ishwarlal, Kaushalya, Mubarak, Dixit}%
+\singer{Kaushalya}%
+\music{C Ramchandra}%
+\lyrics{D N Madhok}%
+
+% Contributor: BOL ANAMOL [V S Rawat], Aug 02, 2004
+
+\printtitle
+#indian
+
+kaagaz kii thii wo naav
+kaagaz kii thii wo naav ham jisame.n jaa rahe the
+wo ret ke jahaa.N par ham ghar banaa rahe the \-2
+
+jhuuThii tasalliyo.n me.n
+haay
+jhuuThii tasalliyo.n me.n ham din guzaarate the \-2
+gaanaa thaa wo kisii ko ham gunagunaa rahe the \-2
+kaagaz kii thii wo naav ham jisame.n jaa rahe the
+
+ulfat kaa raag usane chhe.Daa to mai.n ye samajhii \-2
+biga.Dii banaa rahe hai.n kal wo banaa nahii.n the \-2
+kaagaz kii thii wo naav ham jisame.n jaa rahe the
+
+#endindian
+\endsong

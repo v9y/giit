@@ -1,0 +1,80 @@
+
+%
+\startsong
+\stitle{saa.Nchii joto.n vaalii maataa ... tuune mujhe bulaayaa sheraa.N vaali_e}%
+\film{Aashaa}%
+\year{1980}%
+\starring{Jeetendra, Reena Roy, Rameshwari}%
+\singer{Rafi, Chanchal}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11297 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+cha.n \:	saa.Nchii joto.n vaalii maataa
+ko \:	maataa
+cha.n \:	terii jayajayakaar
+ko \:	jayajayakaar \-3
+
+cha.n \:	tuune mujhe bulaayaa sheraa.N vaali_e
+	( mai.n aayaa ) \-2 sheraa.N vaali_e
+ra \:	o jotaa.N vaali_e pahaa.Daa.N vaali_e o meharaa.N vaali_e
+	o tuune mujhe bulaayaa \threedots
+
+	saaraa jag hai ek ba.njaaraa \-2
+	sabakii ma.nzil teraa dvaaraa
+	uu.Nche parvat lambaa rastaa \-2
+	par mai.n rah na paayaa sheraa.N vaali_e
+ko \:	tuune mujhe bulaayaa \threedots
+
+cha.n \:	suune man me.n jal ga_ii baatii
+	tere path me.n mil ga_e saathii \-2
+	mu.Nh kholuu.N kyaa tujhase maa.Nguu.N \-2
+	bin maa.Nge sab paayaa sheraa.N vaali_e
+ko \:	tuune mujhe bulaayaa \threedots
+
+ra \:	kaun hai raajaa kaun bhikhaarii \-2
+	ek baraabar tere saare pujaarii \-2
+	tuune sabako darshan de ke \-2
+	apane gale lagaayaa sheraa.N vaali_e
+ko \:	tuune mujhe bulaayaa \threedots
+
+ra \:	o jotaa.N vaali_e pahaa.Daa.N vaali_e o meharaa.N vaali_e
+	o tuune mujhe bulaayaa \threedots
+ko \:	tuune mujhe bulaayaa \threedots
+
+cha.n \:	o prem se bolo
+ko \:	jay maataa dii
+cha.n \:	o saare bolo
+ko \:	jay maataa dii
+cha.n \:	o aate bolo
+ko \:	jay maataa dii
+cha.n \:	o jaate bolo
+ko \:	jay maataa dii
+cha.n \:	o kaShT nivaare
+ko \:	jay maataa dii
+cha.n \:	o paar utaare
+ko \:	jay maataa dii
+cha.n \:	aisii maa.N bholii
+ko \:	jay maataa dii
+cha.n \:	bhar de jholii
+ko \:	jay maataa dii
+cha.n \:	o tere dar par
+ko \:	jay maataa dii
+cha.n \:	maa.N degii darshan
+ko \:	jay maataa dii
+cha.n \:	o jay maataa dii
+ko \:	jay maataa dii
+cha.n \:	pahaa.Daa.N vaalii kii jay
+	vaiShNo devii kii jay
+	ambe raanii kii jay
+%
+#endindian
+\endsong
+

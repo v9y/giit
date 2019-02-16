@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{mai.n kaun huu.N mai.n kahaa.N huu.N}%
+\film{Main Chup Rahungi}%
+\year{1962}%
+\starring{Sunil Dutt, Meena Kumari}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10136 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mai.n kaun huu.N mai.n kahaa.N huu.N mujhe ye hosh nahii.n
+kidhar mai.n aaj ravaa.n huu.N mujhe ye hosh nahii.n
+mai.n kaun huu.N \threedots
+
+mujhe na haath lagaa_o ke mar chukaa huu.N mai.n \-2
+khud apane haath se ye Kuun kar chukaa huu.N mai.n
+phir aaj kaise yahaa.N huu.N mujhe ye hosh nahii.n
+kidhar mai.n aaj ravaa.n \threedots
+
+mai.n apanii laash uThaa_e yahaa.N chalaa aayaa
+ko_ii bas itanaa bataa de kahaa.N chalaa aayaa
+ye kyaa jagah hai jahaa.N huu.N mujhe ye hosh nahii.n
+kidhar mai.n aaj ravaa.n \threedots
+
+ko_ii na aa_e yahaa.N ye mazaar meraa hai
+kha.Daa huu.N kab se mujhe i.ntazaar meraa hai
+ye kyaa kahaa.N mai.n yahaa.N huu.N mujhe ye hosh nahii.n
+kidhar mai.n aaj ravaa.n \threedots
+%
+#endindian
+\endsong
+

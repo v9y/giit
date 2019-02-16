@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kabhii lage ke ye saaraa sach hai ... ye kaisii hai zindagii}%
+\film{Panaah}%
+\year{1992}%
+\starring{Naseeruddin, Siddartha, Jeet Upendra, Praveen Kumar, Pallavi Joshi}%
+\singer{Kumar Sanu, Sadhana Sargam, Udit Narayan}%
+\music{Nadeem Shravan}%
+\lyrics{Visheshwar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kabhii lage ke ye saaraa sach hai
+kabhii lage ke ye saaraa jhuuTh hai
+ye kaisii hai zindagii
+
+raaste to hai.n par ma.nzil nahii.n hai
+kishtii milii par saahil nahii.n hai
+maujo.n me.n hii jiinaa hai maujo.n me.n hii maranaa hai
+tuufaano.n se yaarii karake ehe
+
+ham jii rahe hai.n yuu.N zindagii ko
+jaise a.ndheraa jiye roshanii ko
+kahii.n za.njiir nahii.n phir bhii ba.ndhe hai.n sab
+jaane kaisii kaisii Dor se ehe
+
+pyaasii pyaasii aa.Nkho.n me.n sapane sajaa ke
+dekhaa karo kisii ko diivaane hoke
+apane sitaare gardish me.n rahe hai.n
+ham kaise i.nkaar karate ehe
+kabhii lage ke ye \threedots
+%
+#endindian
+\endsong
+

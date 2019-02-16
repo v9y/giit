@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kyaa khabar thii jaanaa.n tumase pyaar ho jaa_egaa}%
+\film{Khilaadi}%
+\year{1992}%
+\starring{Akshay Kumar, Ayesha, Deepak Tijori, Sabeeha, Johny Lever, Tinu Anand}%
+\singer{Abhijit, Udit Narayan}%
+\music{Jatin Lalit}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa khabar thii jaanaa.n tumase pyaar ho jaa_egaa
+rahane de dil kii baate.n varanaa pachhataa_egaa
+tumase pyaar ho jaa_egaa
+achchhaa
+kyaa khabar thii jaanaa.n \threedots
+
+dil meraa ye jaan\-e\-jaanaa.n anamol hai ye khazaanaa
+tujh par luTaa_uu.ngaa sadake mai.n jaa_uu.ngaa
+mujhasaa hai aashiq kahaa.n haay
+kyaa khabar thii jaanaa.n \threedots
+
+tumase karuu.n pyaar kaise kar luu.n mai.n ikaraar
+mujhako sataa_oge nii.nd u.Daa_oge achchhii hai.n ye duuriyaa.n
+kyaa khabar thii jaanaa.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{Dholanaa}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Shah Rukh Khan, Madhuri Dixit, Karishma Kapoor}%
+\singer{Lata , Udit Narayan}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ab tak chup baiThe ab to kuchh hai bolanaa
+kuchh tum bolo kuchh hum bole.n, o Dholanaa
+mar jaanaa thaa ye bhed nahii.n thaa kholanaa
+o Dholanaa
+
+do chaar kadam pe tum the
+do chaar kadam pe ham the
+do chaar kadam ye lekin
+sau miilo.n se kyaa kam the
+phir usape kadam kadam pe,  dil kaa Dolanaa
+haay Dolanaa
+o Dholanaa   \threedots
+
+lo jiit gaye tum hamase
+hum haar gaye is dil se
+aayaa hai aaj labo.n pe
+ye pyaar ba.Dii mushakil se
+is pyaar me.n hamako paagal na kar chho.Danaa
+na chho.Danaa
+o Dholanaa   \threedots
+
+%
+#endindian
+\endsong
+%

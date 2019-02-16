@@ -1,0 +1,51 @@
+% 
+\startsong
+\stitle{yahaa.N badalaa vafaa kaa bevafaaii ke sivaa kyaa hai}%
+\film{Jugnu}%
+\year{}%
+\starring{Dilip Kumar, Noorjehan}%
+\singer{Noorjehan, Rafi}%
+\music{Firoz Nizami}%
+\lyrics{Tanvir Naqvi}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@cs.duke.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Date: 07/28/1996
+% Comments: Year 1947  
+%
+\printtitle
+#indian
+%
+ra: yahaa.N badalaa vafaa kaa bevafaaii ke sivaa kyaa hai
+    mohabbat karake bhii dekhaa, mohabbat me.n bhii dhokaa hai
+
+nU: kabhii sukh hai, kabhii dukh hai, abhii kyaa thaa, abhii kyaa hai
+    yuu.N hii duniyaa badalatii hai, isii kaa naam duniyaa hai
+    kabhii sukh hai, kabhii dukh hai, abhii kyaa thaa, abhii kyaa hai
+    ta.Dapane bhii nahii.n detii, hame.n majabuuriyaa.N apanii
+
+ra: mohabbat karane vaalo.n kaa ta.Dapanaa kisane dekhaa hai
+    yahaa.N badalaa vafaa kaa bevafaaii ke sivaa kyaa hai
+
+nU: yuu.N hii duniyaa badalatii hai, isii kaa naam duniyaa hai
+    kabhii sukh hai, kabhii dukh hai, abhi kyaa thaa, abhii kyaa hai
+ra: mohabbat karake bhii dekhaa, mohabbat me.n bhii dhokaa hai
+nU: bhulaa do vo zamaanaa jab mujhe apanaa banaayaa thaa
+ra: bhulaa do mu.Nh me.n ulfat jab tumhaare lab pe aayaa thaa
+nU: bhulaa do vo kasam jo dilaaii thii kabhii tumane
+ra: bhulaa do vo kasam jo ki khaaii thii kabhii tumane
+nU: bhulaa do dil se tum guzare hue ra.Ngiin zamaane ko
+ra: bhulaa do, haa.N bhulaa do ishq ke sazaa fasaane ko
+nU: tamannaao.n kii bastii me.n, a.ndheraa hii a.ndheraa hai
+ra: kise apanaa kahuu.N koii jo apanaa thaa paraayaa hai
+nU: yuu.N hii duniyaa badalatii hai, isii kaa naam duniyaa hai
+    kabhii sukh hai, kabhii dukh hai, abhii kyaa thaa, abhii kyaa hai
+ra: mohabbat karane vaalo.n kaa ta.Dapanaa kisane dekhaa hai
+    yahaa.N badalaa vafaa kaa bevafaaii ke sivaa kyaa hai
+    yahaa.N badalaa \threedots
+%
+#endindian
+\endsong
+%
+

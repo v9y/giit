@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{merii raato.n kii nii.nde.n u.Daa de}%
+\film{Sarfarosh/ A Reason To Live}%
+\year{2000}%
+\starring{Aamir Khan, Sonali Bendre}%
+\singer{Alka Yagnik, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii raato.n kii nii.nde.n u.Daa de
+ke mai.n terii dulhan ban jaa_uu.n
+hiire motii ke ka.ngan pahanaa de
+ke mai.n terii dulhan ban jaa_uu.n
+aa aa
+
+tuu hai meraa nishaanaa haay taubaa
+mai.n huu.n teraa nishaanaa haay taubaa
+jaanuu.n kyaa hai Thikaanaa teraa
+tere dil ko na jaanaa haay taubaa
+dil mai.n de duu.n aahaa aahaa
+jaan pe kheluu.n aahaa aahaa
+mai.n pahalaa pyaar laa_ii
+mere chehare se haa.n mere chehare se
+chunar haTaa de
+haa.n merii raato.n kii \threedots
+
+jaan ho ga.nvaanii haay taubaa
+to kar chhe.Dakhaanii haay taubaa
+zi.ndagii ho bachaanii tujhako
+to banaa mujhako raanii haay taubaa
+tum jo sachche aahaa aahaa
+are ham bhii achchhe aahaa aahaa
+hai pyaar me.n hii jiinaa
+jiinaa chaahe to ho jiinaa chaahe to
+lab se lagaa le
+ke merii raato.n kii \threedots
+%
+#endindian
+\endsong
+

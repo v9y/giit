@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dhiire dhiire aanaa ... diivaanaa}%
+\film{Yeh Hai Jalwa}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Ameesha Patel, Rishi Kapoor, Rinki Khanna}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum tanananan tum tanananan
+he he he he he he he
+dhiire dhiire aanaa meraa chain churaanaa
+chain churaa ke meraa dil dha.Dakaanaa
+dil kaa hai kamaraa khaalii mauj manaanaa
+diivaanaa diivaanaa dil teraa diivaanaa re
+diivaanaa diivaanaa dil teraa diivaanaa
+dhiire dhiire \threedots
+
+taubaa taubaa ye adaa_e.N
+taubaa taubaa ye nigaahe.n
+haule haule aa.Nkh ye la.D ga_ii re
+hote hote baat ye ba.Dh ga_ii re
+be_imaan hai ye mausam kaisaa sharamaanaa
+diivaanaa diivaanaa \threedots
+
+kar gayaa tuu aisaa jaaduu
+ab rahaa naa khud pe qaabuu
+galii galii charchaa ho gayaa re
+dekho dekho dil kahii.n kho gayaa re
+u.D ga_ii kasam se mere dil kii havaa_iiyaa.N
+diivaanaa diivaanaa \threedots
+%
+#endindian
+\endsong
+

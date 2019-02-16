@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{madhur madhur gaa re manavaa}% 
+\film{Bhakt Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed, Monica Desai, Nagendra}%
+\singer{Khursheed}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+madhur madhur gaa re manavaa
+madhur madhur gaa 
+naI dha.Dakan kii 
+giit milan kii 
+sur me.n man ke taar dede 
+man kA sandesaa 
+madhur madhur gaa \threedots
+
+sapan suhaanaa meraa 
+madhur taraanaa teraa 
+rahU.n nA hosh me.n 
+man hosh se behosh banaa 
+aisaa ra.ng jamaa 
+aisaa ra.ng jamaa 
+madhur madhur gaa \threedots
+madhur madhur gaa re manavA 
+madhur madhur gaa \threedots
+%
+#endindian
+\endsong
+%

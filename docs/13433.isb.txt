@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{pyaar ishq aur mohabbat}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Udit Narayan, Alka Yagnik/ Kumar Sanu}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+pyaar ishq aur mohabbat
+jo bhii inakaa naam le pahale dil ko thaam le
+naam lene se hii kayaamat ho jaatii hai
+pyaar ishq aur mohabbat \threedots
+
+hamako bhii rog ye lag jaa_e agar
+aisaa ho to ho kyaa aisaa kyuu.n ho magar
+jisane bhii ye dil diyaa
+jisane bhii ye Gam liyaa
+kuchh naa puuchho usakii baate.n
+lambii lambii kaalii raate.n
+usakii aa.Nkho.n se nii.nd rukhasat ho jaatii hai
+pyaar ishq aur mohabbat \threedots
+
+kis jagah ham mile phuul dil me.n khile
+kyaa khabar kyaa pataa hamame.n tumame.n ho kyaa
+baato.n baato.n me.n kabhii
+aa.Nkho.n aa.Nkho.n me.n kabhii
+chaar din kii dostii me.n
+ik zaraa sii dillagii me.n
+bas kisii ek din sharaarat ho jaatii hai
+pyaar ishq aur mohabbat \threedots
+%
+%Part 2:
+%
+mai.n bevafaa mai.n bekadar maine teraa dil to.Daa
+meraa bhii dil TuuTaa magar tujhako nahii.n isakii khabar
+terii yaad me.n dil thaam kar ta.Dapuu.ngaa mai.n saarii umar
+
+duniyaa ke sab aashiqo.n kii to.Dii hai.n sab maine rasme.n
+beche hai.n sab apane vaade bechii hai.n sab apanii kasame.n
+mai.n bevafaa mai.n bekadar \threedots
+
+ye pyaar ishq aur mohabbat kyaa hai
+ye ab maine jaanaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{chalaa bhii aa aajaa rasiyaa}%
+\film{Man Ki Aankhen}%
+\year{1970}%
+\starring{Waheeda Rehman, Dharmendra}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11138 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	chalaa bhii aa aajaa rasiyaa
+	o jaane vaale aa jaa terii yaad sataa_e
+	Kvaabo.n kaa gharau.ndaa kahii.n TuuT na jaa_e
+	chalaa bhii aa \threedots
+
+	murajhaa chale hai.n aramaan saare
+	dhu.Ndhalaa ga_e hai.n sabhii ujale nazaare
+	jii_uu.Ngii mai.n kaise Gamo.n ke sahaare
+	tarasii nigaahe.n merii tujhako sadaa de.n tujhako pukaare.n
+	chalaa bhii aa aajaa rasiyaa
+	baiThii huu.N mai.n kab se terii aas lagaa_e
+	o jaane vaale \threedots
+
+	itanaa bataa jaa tere dil me.n kyaa hai
+	aa ke bataa jaa  merii kyaa Kataa hai
+	is zindagii kaa tuu hii aasaraa hai
+	kyaa vo Kataa hai jisape Kafaa hai jisakii sazaa hai
+	dil to gayaa meraa kahii.n jaan na jaa_e
+	jaane vaale \threedots
+
+ra \:	merii lagan ko kahaa.N tuune jaanaa
+	tere li_e to meraa dil hai diivaanaa
+	har saa.Ns merii teraa hii taraanaa
+	ye zindagaanii kyaa hai terii kahaanii hai teraa hii fasaanaa
+	teraa meraa vo hai rishtaa
+	ke TuuTe.n jo balaa_e.N to bhii TuuT na paa_e
+do \:	TuuTe.n jo balaa_e.N to bhii TuuT na paa_e \-2
+%
+#endindian
+\endsong
+

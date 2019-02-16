@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{kise karataa muurakh pyaar pyaar pyaar teraa kaun hai}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Ashok Kumar}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+%
+% Contributor: BOL ANAMOL #11971 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+kise karataa muurakh pyaar pyaar pyaar teraa kaun hai \-2
+( teraa kaun hai
+teraa kaun hai re
+teraa kaun hai ) \-2
+kise karataa muurakh pyaar pyaar pyaar teraa kaun hai
+
+jhuuThe jag ke naate\-rishte jhuuThii jag kii priit
+jhuuThaa jag kaa milanaa\-julanaa ulTii jag kii riit
+nahii.n mit ko_ii nahii.n yaar yaar yaar teraa kaun hai \-2
+( teraa kaun hai
+teraa kaun hai re
+teraa kaun hai ) \-2
+kise karataa muurakh pyaar pyaar pyaar teraa kaun hai
+
+nahii.n Tha.De ko_ii na chikaa.N hai (?)
+jo apanaa thaa begaa.N hai
+ye jiiwan hai ek bhaar bhaar bhaar teraa kaun hai \-2
+( teraa kaun hai
+teraa kaun hai re
+teraa kaun hai ) \-2
+kise karataa muurakh pyaar pyaar pyaar teraa kaun hai
+%
+#endindian
+\endsong
+

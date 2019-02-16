@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aashiq huu.N mai.n ... baadashaah o baadashaah}%
+\film{Baadshaah}%
+\year{1999}%
+\starring{Shahrukh Khan, Twinkle Khanna}%
+\singer{Abhijit, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aashiq huu.N mai.n qaatil bhii huu.N
+sabake dilo.n me.n shaamil bhii huu.N
+dil ko churaanaa nii.nde.n u.Daanaa bas yahii meraa qusuur
+vaado.n se apane mukarataa nahii.n
+marane se mai.n kabhii Darataa nahii.n
+baadashaah o baadashaah baadashaah ai baadashaah
+baadashaah o baadashaah baadashaah
+aashiq huu.N mai.n \threedots
+
+chaaro.n taraf hai.n mere hii charche ho.nTho.n pe hai bas meraa naam
+ra.ngo.n bharii subah merii mastii me.n Duubii hai merii shaam
+jhuuThii kahaanii sachchii lage aavaaragii mujhe achchhii lage
+nagame.n sunaanaa sabako nachaanaa bas yahii meraa qusuur
+vaado.n se apane \threedots
+
+hai ye mohabbat kamazorii merii chaahat kii duniyaa pe meraa raaj
+bas rab ke aage jhukataa meraa sar jhukate mere saamane takht\-o\-taaj
+a.ndaaz meraa sabase judaa mai.n baadashaaho.n kaa baadashaah
+sapane sajaanaa ha.Nsanaa ha.Nsaaanaa bas yahii meraa qusuur
+vaado.n se apane \threedots
+%
+#endindian
+\endsong
+

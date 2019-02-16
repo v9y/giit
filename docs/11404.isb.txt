@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mai.n TuuT ke sanam ... tujhe pyaar se ... ik dil hii to hai}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n TuuT ke sanam aise hii tujhe chaahuu.Ngii
+terii aa.Nkho.n se kabhii duur nahii.N jaa_uu.Ngii
+kasam hai tujhako mere saajanaa mohabbat kii
+mai.n saat phero.n ke saato.n vachan nibhaa_uu.Ngii
+
+tujhe pyaar se dekhane vaalaa tujhe apanaa samajhane vaalaa
+ik dil hai ik dil hai ik dil hii to hai
+meraa dil hai meraa dil hai meraa dil hii to hai
+tujhe pyaar se dekhane \threedots
+
+tere li_e sabako mai.n aaj dilabar chho.D ke aa_ii
+rasmo.n ke kasamo.n ke saare ba.ndhan to.D ke aa_ii
+dekhuu.n mai.n to dekhuu.n soNe yaar ko jab palake.n uThaa_uu.N
+zi.ndagii banaa ke merii jaan ko mai.n saa.Nso.n me.n basaa_uu.N
+tere ishq me.n Duubane vaalaa tujhe harapal Dhuu.NDhane vaalaa
+ik dil hai \threedots
+
+aajaa terii suunii suunii maa.Ng ko mai.n taaro.n se bhar duu.N
+sajanii diivaanii saarii umr ab mai.n tere naam kar duu.N
+saarii duniyaa ko mai.n to bhuul baiThii baaho.n me.n aa ke
+aisaa lagaa sab kuchh paa liyaa hai teraa pyaar paa ke
+teraa khvaab sajaane vaalaa terii duniyaa basaane vaalaa
+ik dil hai \threedots
+%
+#endindian
+\endsong
+

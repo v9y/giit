@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{naa shahar me.n hu_aa ... pyaar to hotaa hai pyaar}%
+\film{Parwana}%
+\year{2003}%
+\starring{Ajay Devgan, Amisha Patel, Pooja Batra, Ketaki Dave, Danny Denzongpa, Sayaji Shinde, Gulshan Grover}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11715 [V S Rawat]
+% Producer & Director: Bahry Films, Deepak Bahry
+% Audio: Saregama India Ltd
+% Cassette: NHF 810564 Digital, Cost: Rs 50/-, CD: 112053 CDF, Cost: Rs 125/-
+% 
+\printtitle
+#indian
+%
+u \:	naa shahar me.n hu_aa naa hii ghar me.n hu_aa
+	pyaar to bas hu_aa ik nazar me.n hu_aa
+	ye to aa_e nazar dil ke paar
+	pyaar to hotaa hai pyaar \-4
+a \:	naa shahar me.n hu_aa \threedots dil ke paar
+	pyaar to hotaa hai pyaar \-4
+
+	har saa.Ns me.n ab terii baat hai
+	merii zindagii ab mere saath hai
+u \:	tuu ban ga_ii hai zaruurat merii
+	tere li_e hai mohabbat merii
+a \:	maine sunaa isako tuune sunaa
+	ye ishq hai dha.Dakano.n kii sadaa
+	dil pe chhaayaa hai isakaa Kumaar
+u \:	pyaar to hotaa hai pyaar \-2
+a \:	pyaar to hotaa hai pyaar \-2
+
+u \:	aisaa kabhii pahale hotaa naa thaa
+	meraa chain to aise khotaa naa thaa
+a \:	kaise hu_ii aisii haalat merii
+	paagal banaatii hai chaahat terii
+u \:	tujhako Kabar naa mujhe thaa pataa
+	is dard kii naa ko_ii hai davaa
+	ham to rahane lage beqaraar
+a \:	pyaar to hotaa hai pyaar \-2
+u \:	pyaar to hotaa hai pyaar \-2
+
+a \:	naa shahar me.n hu_aa naa hii ghar me.n hu_aa
+u \:	pyaar to bas hu_aa ik nazar me.n hu_aa
+a \:	ye to aa_e nazar dil ke paar
+u \:	pyaar to hotaa hai pyaar \-2
+a \:	pyaar to hotaa hai pyaar \-2
+%
+#endindian
+\endsong
+

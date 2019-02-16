@@ -1,0 +1,71 @@
+%
+\startsong
+\stitle{mai.n ne kasam lii tuune kasam lii nahii.n ho.nge judaa ham}%
+\film{Tere Mere Sapne}%
+\year{1971}%
+\starring{Dev Anand, Mumtaz}%
+\singer{Lata, Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Chetan 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ki:	he mai.n ne qasam lii
+l:	lii
+ki:	he tuune qasam lii
+l:	lii
+ki:	nahii.n ho.nge judaa ham\threedots
+ki/l:	he mai.n ne qasam lii
+
+ki:	saa.Ns terii madira madira jaise rajanii ga.ndhaa
+	pyaar teraa madhura madhura chaa.Ndanii kii ga.ngaa
+l:	##hm hm ## saa.Ns terii madira madira jaise rajanii ga.ndhaa
+	pyaar teraa madhura madhura chaa.Ndanii kii ga.ngaa
+	nahii.n ho.nge judaa
+ki:	nahii.n ho.nge judaa
+l:	nahii.n ho.nge judaa ham\threedots 
+	mai.n ne qasam lii
+ki:	lii
+l:	he tuune qasam lii
+ki:	lii
+l:	nahii.n ho.nge judaa ham\threedots
+ki/l:	he mai.n ne qasam lii
+
+l:	paa ke kabhI, khoyaa tujhe, kho ke kabhI paayaa
+	janam janam, tere liye, badalii hamane kaayaa	 
+ki:	paa ke kabhI, khoyaa tujhe, kho ke kabhI paayaa
+	janam janam, tere liye, badalii hamane kaayaa
+	nahii.n ho.nge judaa
+l:	nahii.n ho.nge judaa
+ki:	nahii.n ho.nge judaa ham\threedots
+	mai.n ne qasam lii
+l:	lii
+ki:	he tuune qasam lii
+l:	lii
+ki:	nahii.n ho.nge judaa ham\threedots
+ki/l:	he mai.n ne qasam lii
+
+ki:	eka tan hai, ek man hai, ek prANa apane
+	ek ra.ng, ek ruup, tere mere sapane
+l:	ek tan hai, ek man hai, ek praNa apane
+	ek ra.ng, ek ruup, tere mere sapane
+	nahii.n ho.nge judaa
+ki:	nahii.n ho.nge judaa
+l:	nahii.n ho.nge judaa ham\threedots
+	mai.n ne qasam lii
+ki:	lii
+l:	he tuune qasam lii
+ki:	lii
+l:	nahii.n ho.nge judaa ham\threedots
+ki/l:	he mai.n ne qasam lii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,49 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dil kabhii apanaa thaa ... kaise khel mohabbat me.n khele}%
+\film{Shagoofaa}%
+\year{1953}%
+\starring{Bina Rai, Premnath}%
+\singer{Sundar, Geeta Dutt}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+su \:	dil kabhii apanaa thaa lekin ab paraayaa ho gayaa
+	e jii ho dil to dil thaa muuchh daa.Dhii kaa safaayaa ho gayaa
+	haay
+
+	kaise khel mohabbat me.n khele sitamagar tere liye
+	kaise khel mohabbat me.n khele sitamagar 
+	sitamagar haa.N haa.N \-2
+	sitamagar tere liye
+	mai.nne kyaa kyaa naa paapa.D bele sitamagar tere liye
+	mai.nne kyaa kyaa naa paapa.D bele
+
+	e jii ho
+	husn pe ho ga_ii qurbaan hamaarii daa.Dhii 
+	e jii haa.N
+	husn pe ho ga_ii qurabaan hamaarii daa.Dhii 
+	alavidaa, alavidaa, alavidaa, alavidaa, alavidaa
+	marahuum bechaarii daa.Dhii
+gii \:	Kuun\-e\-naahak kii sazaa Kwaab me.n tum paa_oge
+	bhuut ban ban ke Daraayegii tumhaarii daa.Dhii
+su \:	sukh chho.D ke ye dukh jhele
+	sukh chho.D ke ye dukh jhele sitamagar tere liye
+	sukh chho.D ke ye dukh jhele sitamagar 
+	sitamagar haa.N haa.N \-2
+	sitamagar tere liye
+	mai.nne kyaa kyaa naa paapa.D bele sitamagar tere liye
+	mai.nne kyaa kyaa naa paapa.D bele
+
+	kaise khel mohabbat me.n khele sitamagar tere liye
+	mai.nne kyaa kyaa naa paapa.D bele
+
+#endindian
+\endsong

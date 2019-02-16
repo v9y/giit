@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ye kyaa jagah hai dosto.n, ye kaun saa dayaar hai}%
+\film{Umrao Jaan}%
+\year{}%
+\starring{Rekha, Naseeruddin Shah, Faroukh Sheikh, Rita Rani Kaul}%
+\singer{Asha}%
+\music{Khaiyyam}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Jasjit Singh (jasjit@cc.gatech.edu)
+%  	   Himanshu Gupta (gupta@grinch.csl.uiuc.edu)
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye kyaa jagah hai dosto.n, ye kaun saa dayaar hai 
+had\-e\-nigAh tak jahA.n gubAr hI gubAr hai 
+ye kyA jagah hai dosto.n 
+
+ye kis mukaam par hayaat, mujhako leke aa gaI
+na bas khushI pe kahA.n, na Gam pe ikhtiyaar hai
+ye\threedots 
+
+tamAm umr kA hisAb mA.ngatI hai zindagI 
+mA.ngatI hai zindagI 
+ye merA dil kahe to kyA, ye khud se sharmasAr hai 
+ye khud se sharmasAr hai 
+ye\threedots 
+
+bulA rahA kyA koI chilamano.n ke us taraf 
+chilamano.n ke us taraf 
+mere liye bhI kyA koI udAs beqarAr hai 
+udaas beqarAr hai 
+ye\threedots
+
+% (A nazm not in the song, but is there in the movie)
+na jisakI shakal hai koI, na jisakA naam hai koI
+ik aisI shai kA kyo.n hame.n azal se intazaar hai
+ye\threedots
+%
+#endindian
+\endsong
+%

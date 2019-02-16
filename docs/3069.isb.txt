@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{do bichha.De hue dil}%
+\film{Shayar}%
+\year{1949}%
+\starring{Dev Anand,Suraiyya}%
+\singer{Lata, G M Durrani}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:16 May,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+gmd:do bichha.De hue
+(do bichha.De hue dil,aapas me.n gaye mil)\-2
+armaano.n kii nagarii me.n huaa aaj saveraa
+do bichha.De hue
+lata:(lo tumase mile ham,sab dil ke miTe Gam)\-2
+khush hoke muhabbat ne kiyaa dil me.n baseraa
+lo tumse mile 
+
+gmd:(kam ho naa gha.Dii bhar ke liye,gha.Dii bhar ke liye
+apanii muhabbat,apanii muhabbat)\-2
+lata:tum aaye jo  
+(tum aaye jo aa.Nkho.n me.n to chamakii merii qismat)\-2
+gmd:qismat ke chamakte hii duur hua andheraa
+do bichha.De hue \three dots
+
+lata:(ham pyaar kii manzil se kabhii,manzil se kabhii
+duur na ho.nge,duur na ho.nge)\-2
+gmd:armaa.n bhare
+(armaa.n bhare dil,kabhii majabuur na ho.nge)\-2
+lata:aabaad rahe apanii tamannao.n kaa Deraa
+both:aabaad rahe apanii tamannao.n kaa Deraa
+do bichha.De hue \three dots
+
+%
+#endindian
+\endsong
+%

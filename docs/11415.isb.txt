@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum jo chal di_e ruuThe ruuThe}%
+\film{Ek Thaa Dil Ek Thi Dhadkan}%
+\year{1998}%
+\starring{Rajendra Kumar, Biswajeet, Inder Kumar, Arbaz, Isha Kopikar, Himani}%
+\singer{Abhijit}%
+\music{Anand Raj Anand}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o o laa laa laalaa
+tum jo chal di_e ruuThe ruuThe bolo dil meraa kyo.n na TuuTe
+suno jaa_o na lagaa ke yuu.n iljaam jhuuThe jhuuThe
+tum jo chal di_e \threedots
+
+tum par diivaanaa huu.N mai.n ik paravaanaa huu.N mai.n
+kahataa fasaanaa huu.N mai.n har baat me.n
+yaad karoge tum thaa ko_ii aisaa paagal
+vo jisake dam se halachal jazbaat me.n
+ra.ng bharataa thaa jo har mulaakaat me.n
+tum jo chal di_e \threedots
+
+dil aise na tum to.Do mu.nh aise to na mo.Do
+ab jaane bhii do chho.Do jo bhii hu_aa
+tum meraa pyaar dekho huu.N bekaraar dekho
+ek pal bhar to dekho haal meraa
+maan bhii jaa_o aa_o idhar to zaraa
+tum jo chal di_e \threedots
+%
+#endindian
+\endsong
+

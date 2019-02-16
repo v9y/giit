@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{ik baat kahuu.N vallaah ... kaho kaisii rahii}%
+\film{Shreeman Satyawaadi/ Satyamev Jayate}%
+\year{1960}%
+\starring{Raj Kapoor, Shakeela}%
+\singer{Mukesh, Suman, Mahendra Kapoor}%
+\music{Duttaram}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10183 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ma \:	ik baat kahuu.N vallaah yah husn subhaan\-allaah
+	jab naam liyaa dil thaam liyaa kaho kaisii rahii
+su \:	bas tumane qadar kii hai kyaa Kuub nazar kii hai
+	diladaar mile to aisaa mile kyaa baat kahii
+mu \:	aise ko mile taise yah tumako mile jaise
+	jab ishq nahii.n to kuchh bhii nahii.n kaho kaisii kahii
+
+su \:	duniyaa me.n hasii.n na hote
+ma \:	jii ham bhii kahii.n naa hote
+mu \:	hamase hai tumhaarii shoKii kyaa hotaa hamii.n naa hote \-2
+ma \:	ham naaz uThaate hai.n ruuTho.n ko manaate hai.n
+mu \:	jab ishq nahii.n to \threedots
+
+su \:	yah ruup hai to ye ra.ng hai
+ma \:	jiine ke yahii to Dha.ng hai.n
+mu \:	jii aapake haatho.n hii to yah mard bichaare ta.ng hai.n \-2
+ma \:	yah tirachhii nazar qaatil tum ho to javaa.N hai dil
+mu \:	jab ishq nahii.n to \threedots
+
+su \;	ham hai.n to dha.Dakate hai.n dil \-2
+ma \:	tum ho to machalate hai.n dil
+mu \:	suurat pe nahii.n jaate ham is dil se parakhate hai.n dil
+	sach kahane ke aadii hai.n ham to satyavaadii hai.n
+mu \:	jab ishq nahii.n to \threedots
+%
+#endindian
+\endsong
+

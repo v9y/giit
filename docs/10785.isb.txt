@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n la.Dakii kyaa karuu.n}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Sunidhi Chauhan}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n la.Dakii kyaa karuu.n
+haay kitane la.Dake kyaa karuu.n
+dil kisako duu.n kisako naa duu.n
+dil dhak dhak dha.Dake kyaa karuu.n
+o mai.n la.Dakii \threedots
+
+raste me.n kha.De mere piichhe pa.De
+bechain ba.De mere diivaane
+ko_ii yahaa.N giraa ko_ii vahaa.N giraa
+merii mast nazar ke mastaane
+ko_ii yahaa.N giraa ko_ii vahaa.N giraa
+ko_ii kahaa.N giraa ko_ii kyaa jaane
+mai.n la.Dakii \threedots
+
+naa haa.N boluu.n naa naa boluu.n
+dil chaahe inhe.n ta.Dapaatii rahuu.N
+ye sachche vaade karate rahe.n
+mai.n jhuuThii kasame.n khaatii rahuu.N
+mai.n la.Dakii \threedots
+%
+#endindian
+\endsong
+

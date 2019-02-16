@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kaagaz kii merii naav aur duur kinaaraa hai}%
+\film{Do Dil}%
+\year{1947}%
+\starring{Suraiyya, Motilal, Karan Deewan, Gulab, Badri Prasad}%
+\singer{Suraiya, Mukesh}%
+\music{Govind Ram}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12582 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	kaagaz kii merii naav
+	kaagaz kii merii naav aur duur kinaaraa hai \-2
+mu \:	is Dolatii na_iyaa kaa \-2
+	ab kaun sahaaraa hai
+su \:	kaagaz kii merii naav aur duur kinaaraa hai
+	kaagaz kii merii naav
+
+su \:	aa.Nsuu bhii chhalakate hai.n aur Gam kii ghaTaaye.n hai.n \-2
+	aavo merii aa.Nkho.n me.n \-2
+	saawan kaa nazaaraa hai
+mu \:	is Dolatii na_iyaa kaa \-2
+	ab kaun sahaaraa hai
+su \:	kaagaz kii merii naav aur duur kinaaraa hai
+	kaagaz kii merii naav
+
+mu \:	hamane terii aa.Nkho.n me.n ek duniyaa basaa_ii thii \-2
+	jab tum hii phire hamase phir kaun hamaaraa hai
+	is Dolatii na_iyaa kaa ab kaun sahaaraa hai
+su \:	kaagaz kii merii naav aur duur kinaaraa hai
+	kaagaz kii merii naav
+%
+#endindian
+\endsong
+%
+

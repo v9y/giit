@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{piichhe piichhe aa kar chhuu lo hame.n paa kar}%
+\film{House No. 44}%
+\year{1955}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Lata, Hemant}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: SDB Series #29
+%
+\printtitle
+#indian
+%
+%
+
+la: piichhe piichhe aa kar chhuu lo hame.n paa kar chhup chhup jaanaa ho
+la: piichhe piichhe aa kar chhuu lo hame.n paa kar chhup chhup jaanaa ho
+he: o ho
+la: o ho
+he: aa haa
+la: aa~ piichhe piichhe aa kar \threedots
+ 
+la: dekho na baabuujii daaye.n baaye.n
+he: oho ho
+la: paa.Nv kahii.n ulajh na jaae.n
+he: aa haa haa
+la: chaahat ke raste me.n pher ba.De hai.n
+    giroge fisal ke chaalnaa sambhal ke
+    chhup chhup jaanaa
+he: o ho
+la: o ho
+he: aa haa
+la: aa~ piichhe piichhe aa kar \threedots
+ 
+la: chorii chorii aake morii sai.nyaa
+he: o ho ho
+la: ? aur thaamo morii bai.nyaa
+he: uu.Nh uu.Nh uu.N
+la: jaao jii tum se diler ba.De hai.n
+    aaye jo aka.D ke maaruu.Ngii paka.D ke
+    chhup chhup jaanaa
+he: o ho
+la: o ho
+he: aa haa
+la: aa~ piichhe piichhe aa kar \threedots
+ 
+la: jhalak dikhaake tarasaau.N
+he: o ho ho
+la: par kabhii paka.Dii na jaauu.N
+he: aa haa haa
+la: tum jaise miTTii ke sher ba.De hai.n
+    ha.Nsake machal ke haatho.n se nikal ke
+    chhup chhup jaanaa
+he: o ho
+la: o ho
+he: aa haa
+la: aa~ piichhe piichhe aa kar \threedots
+
+%
+#endindian
+\endsong
+%

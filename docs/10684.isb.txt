@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{merii laaj raakho giradhaarii}%
+\film{Bhabhi ki Chudiyan}%
+\year{1961}%
+\starring{Dharmendra, Meena Kumari}%
+\singer{Lata}%
+\music{Sudhir Phadke}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: BOL ANAMOL #10388 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii laaj raakho giradhaarii
+mai.n laakh jatan kar haarii re
+merii laaj raakho \threedots
+
+bahut sahaa ab sahaa na jaa_e
+aur kisii se kahaa na jaa_e
+charaNo.n me.n do ashru cha.Dhaane
+aa_ii sharaN tihaarii
+merii laaj raakho \threedots
+
+suunii kokh kala.nk ban ga_ii
+madhur dR^iShTi kyo.n Da.nk ban ga_ii
+kyo.n maa.N kaa man diyaa mujhe
+dii aa.Nchal me.n chi.ngaarii
+merii laaj raakho \threedots
+
+chira.njiiv ho nanhaa kanhaiyaa
+rahe shiish par sukh kii chhai.nyaa
+mai.n na rahuu.N par rahe khelataa
+ghar aa.Ngan banavaarii
+merii laaj raakho \threedots
+%
+#endindian
+\endsong
+

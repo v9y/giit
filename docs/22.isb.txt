@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa.Nchal me.n sajaa lenaa kaliyaa.n, zulfo.n me.n sitaare bhar lenaa}%
+\film{Phir Vahi Dil Laya Hoon}%
+\year{1963}%
+\starring{Joy Mukherjee, Asha Parekh}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa.Nchal me.n sajaa lenaa kaliyaa.N, zulfo.n me.n sitaare bhar lenaa
+aise hii kabhii jab shaam Dhale, tab yaad hame.n bhii kar lenaa
+aa.Nchal me.n sajaa lenaa kaliyaa.N
+
+aayaa thaa yahaa.N begaanaa saa
+aayaa thaa yahaa.N begaanaa saa, chal duu.ngaa kahii.n diivaanaa saa
+chal duu.ngaa kahii.n diivaanaa saa
+diivaane kii khaatir tum koI, ilzaam naa apane sar lenaa
+aise hii kabhii jab shaam Dhale, tab yaad hame.n bhii kar lenaa
+aa.Nchal me.n sajaa lenaa kaliyaa.N
+
+rastaa jo mile a.njaan koI
+rastaa jo mile a.njaan koI, aa jaae agar tuufaan koI
+aa jaae agar tuufaan koI
+apane ko akelaa jaan ke tum
+aa.Nkho.n me.n na aa.nsuu bhar lenaa
+aise hii kabhii jab shaam Dhale, tab yaad hame.n bhii kar lenaa
+aa.Nchal me.n sajaa lenaa kaliyaa.N
+%
+#endindian
+\endsong
+%

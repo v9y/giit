@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{aaj kii raat ye kaisii raat ki hamako nii.nd nahii.n aatii}%
+\film{Aman}%
+\year{1967}%
+\starring{Rajendra Kumar, Saira Bano, Balraj Sahni, Chetan Anand}%
+\singer{Rafi, Saira Bano}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11043 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	( aaj kii raat ye kaisii raat ki hamako nii.nd nahii.n aatii
+	merii jaa.N aa_o baiTho paas ki hamako nii.nd nahii.n aatii ) \-2
+	aaj kii raat \threedots
+
+saa \:	he ye aaj tumhe.n kyaa ho gayaa hai
+	uf tum apane dil ko samajhaa_o naa
+ra \:	machal uThaa ye dil naadaa.N ba.Daa ziddii ba.Dii mushkil \-2
+	Kudaa ko bhii manaa luu.N mai.n magar maane naa ruuThaa dil
+	tumhii.n dekho karo ko_ii baat ki hamako nii.nd nahii.n aatii
+	merii jaa.N aa_o baiTho \threedots
+
+saa \:	suno merii ek baat maanoge
+	maanoge naa
+	tumhe.n a.ndhere me.n nii.nd nahii.n aatii to
+	to lo mai.n roshanii ki_e detii huu.N
+ra \:	a.ndheraa hai to rahane do mujassim chaa.Ndanii ho tum \-2
+	na jaa_e roshanii tumase ki aisii roshanii ho tum
+	na siine se haTaa_o haath ki hamako nii.nd nahii.n aatii
+	merii jaa.N aa_o baiTho \threedots
+
+saa \:	maaruu.Ngii haa.N
+%
+#endindian
+\endsong
+

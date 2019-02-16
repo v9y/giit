@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{meraa antar ek ma.ndir hai teraa}%
+\film{Tere Mere Sapne}%
+\year{1971}%
+\starring{Dev Anand, Mumtaz}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+% 
+% Contributor: umdesai@cc.umanitoba.ca <Neha Desai>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 04/23/1996
+% Credits: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+meraa antar ek ma.ndir hai teraa, hai teraa
+piiyaa, meraa jiivan, terii puujaa
+
+so_uu.N yaa mai.n jaaguu.N
+subah aur shaam pal\-pal chhin
+tujh se tujhako maa.Nguu.N
+paake tujhe apanaa banaake, tujhako hii lautaa duu.N
+teraa antar ek ma.ndir hai teraa
+
+pyaar teraa ???, raam jaane phir bhii kyo.N hai
+jiivan suunaa suunaa
+kaise kahuu.N kaise, kaise
+dekhuu.N mai.n koii sapanaa
+teraa antar ek ma.ndir hai teraa
+%
+#endindian
+\endsong
+%

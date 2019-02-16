@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{din pyaar ke aaye re}%
+\film{Aansoo}%
+\year{1953}%
+\starring{}%
+\singer{Rafi, Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+rafii: din pyaar ke aaye re
+       din pyaar ke aaye re
+       nazar mil jaaye to gorii sharamaaye
+       javaanii kahe haay
+lataa: din pyaar ke aaye re
+       din pyaar ke aaye re
+       o raaja ye bataaye
+       jo gorii sharamaaye
+       to kaun kahe haay!
+dono:  din pyaar ke aaye re
+
+rafii: o gorii kah de priit ye kisane siikhaa_ii
+       kisane tere naino.n kii nindiyaa churaa_ii
+lataa: o~ o~ o~ o~ o~ oy
+       mujhe naam to aaye re
+       mujhe naam to aaye re
+       kahaa bhi naa jaaye rahaa bhi na jaaye
+       to kyo.n na kahuu.N haay!
+dono:  din pyaar ke aaye re
+
+lataa: o raajaa mohe apanii dulhaniyaa banaa le
+       gore gore haatho.n me.n mehandii lagaa de
+rafii: o~ o~ o~ o~ o~ o~
+       dil Dar Dar jaaye re
+       ke raajaa mehandii laaye
+       dulhan nahii.n aaye
+       to raajaa kahaa.N jaaye
+dono:  din pyaar ke aaye re
+       din pyaar ke aaye re
+%
+#endindian
+\endsong
+%

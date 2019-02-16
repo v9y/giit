@@ -1,0 +1,25 @@
+%
+\startsong
+\stitle{yaaraa teraa ghuu.nT bhar luu.n}%
+\film{Hindustaan Ki Qasam}%
+\year{1999}%
+\starring{Amitabh bachchan, Ajay Devgan, Manisha Koirala, Sushmita Sen}%
+\singer{Sadhana Sargam}%
+\music{Sukhwinder Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaaraa teraa ghuu.nT bhar luu.n
+tujhe dekhake sabr na aa_e
+terii merii ik zi.ndagii ve
+kyuu.n alag shariir banaa_e
+%
+#endindian
+\endsong
+

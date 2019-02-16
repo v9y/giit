@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{sataa sataa ke hame.n ashqabaar karatii hai}%
+\film{The Finest Ghazals of Mehdi Hassan (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Nazar Husain}%
+\lyrics{Wafa Roomani}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+sataa sataa ke hame.n ashqabaar karatii hai
+tumhaarii yaad bahut beqaraar karatii hai
+
+wo din jo saath guzaare the pyaar me.n hamane
+talaash unako nazar baar baar karatii hai
+
+gilaa nahii.n jo nasiibo.n ne kar diyaa hai judaa
+terii judaa_ii bhii ab hamako pyaar karatii hai
+
+kanaare baiTh ke jisake kiye the kaul\-o\-qaraar
+nadii wo ab bhii teraa i.ntazaar karatii hai
+
+#endindian
+\endsong

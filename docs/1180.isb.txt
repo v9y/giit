@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{meraa pyaar bhii tuu hai ye bahaar bhii tuu hai}%
+\film{Sathi}%
+\year{1968}%
+\starring{Rajendra Kumar, Vyjayantimala, Simi Garewal}%
+\singer{Mukesh, Suman Kalyanpur}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Donald Persaud  
+% Comments: The song is in two parts. The happy version uses stanzas
+%           1, 2 & 3 given below. The "sad" version uses stanzas 2 & 4.
+%
+\printtitle
+#indian
+%
+%INCOMPLETE
+meraa pyaar bhii tuu hai ye bahaar bhii tuu hai
+tuu hii nazaro.n me.n jaan\-e\-tamannaa, tuu hii nazaaro.n me.n
+
+tuu hii to meraa niil gagan hai
+pyaar se raushan aa.Nkh uThaaye
+aur ghaTaa ke ruup me.n tuu hai
+kaa.Ndhe pe mere sar ko jhukaaye
+mujhape laTe.n bikharaye
+meraa pyaar \threedots
+
+ma.nzil mere dil kii vahii hai
+saayaa jahaa.N diladaar hai teraa
+parbat parbat terii baahe.n
+gulashan gulashan pyaar hai teraa
+mahake hai aa.Nchal meraa
+meraa pyaar\threedots
+
+jaagii nazar kaa khvaab hai jaise
+dekh milan kaa din ye suhaanaa
+aa.Nkh to mere jalavo.n me.n gum hai
+dekhuu.N tujhe yaa dekhuu.N zamaanaa
+bekhud hai diivaanaa
+meraa pyaar\threedots
+
+mai.n huu.N akelaa kab se magar tuu
+aaj bhii mere saath ho jaise
+yaad me.n terii yuu.N bhii huaa hai
+haath me.n teraa haath ho jaise
+bhuul sakuu.N to kaise
+meraa pyaar\threedots
+%
+#endindian
+\endsong
+%

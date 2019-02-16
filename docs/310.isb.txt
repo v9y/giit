@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{bholii suurat dil ke khoTe, naam ba.De aur darashan chhoTe}%
+\film{Albela}%
+\year{}%
+\starring{Geeta Bali, Bhagawan}%
+\singer{Lata, Chitalkar, chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Hrishi Dixit
+% Comments:  
+%
+%\printtitle
+#indian
+%
+chi: bholii suurat dil ke khoTe 
+     naam ba.De aur darashan chhoTe, darashan chhoTe
+
+chi: naye zamaane kii ye naarii uu.Nchii #sandal# baa.Nkii saa.dii
+     naino.n me.n kajaraa ho.nTho.n pe laalii
+ko:  haath me.n ka.ngan kaan me.n baalii, kaan me.n baalii
+chi: naino.n me.n kajaraa ho.nTho.n pe laalii
+     nakhare ba.De moTe moTe,
+     naam ba.De aur darashan chhoTe   \threedots
+
+la:  naye zamaane ke ye chhailaa, ujale kapa.De dil hai mailaa
+     ra.ng\-ra.ngiilii inakii Taa_ii, ghar me.n lekin ka.Dakii chhaa_ii
+ko:  ka.Dakii chhaa_ii, ka.Dakii chhaa_ii, ka.Dakii chhaa_ii
+la:  ra.ng\-ra.ngiilii inakii Taa_ii, ghar me.n lekin ka.Dakii chhaa_ii
+     #fashion# ba.De moTe moTe
+     naam ba.De aur darashan chhoTe   \threedots
+
+la : husn aur ishq kii ye la.Daa_ii, shuruu se jag me.n hotii aayii
+chi: naa ko_ii jiite naa ko_ii haare, ajii kyo.n na dil mil jaaye saare 
+do : na ham ba.De na tum chhoTe
+     naam ba.De aur darashan chhoTe   \threedots
+
+%
+#endindian
+\endsong
+%

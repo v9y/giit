@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{jab tak rahe tan me.n jiyaa}%
+\film{Samaadhi}%
+\year{1972}%
+\starring{Dharmendra, Asha Parekh, Jaya Bhaduri}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+% Comments: Source: HMV Golden Collection of Asha Bhonsle.
+%
+\printtitle
+#indian
+%
+jab tak rahe tan me.n jiyaa vaadaa rahaa, o saathiyaa
+ham tumhaare liye tum hamaare liye
+o\threedots ham tumhaare liye tum hamaare liye
+ 
+dhuup lagegii jab jab tumako sajanaa 
+o Daaruungii mai.n aa.nchal kii chhaiyaa.n 
+saa.Njh pa.De jab thak jaaoge balamaa
+vaaruu.Ngii mai.n gorii gorii baiyaa.n
+Doluu.Ngii banake chaa.Ndanii mai.n tere a.Nganaa
+jab tak rahe tan me.n jiyaa vaadaa rahaa o saathiyaa
+ham tumhaare liye tum hamaare liye
+ 
+saarii janam ko ab to apane tan pe haa.N
+o o.Dhii chunariyaa mai.nne saajan kii
+khilii rahe muskaan terii phir chaahe
+o luT jaaye bagiyaa mere jiivan kii
+mai.n jiivan chho.D duu.N chho.Duu.N na mai.n terii galiyaa.n
+jab tak rahe tan me.n jiyaa vaadaa rahaa o saathiyaa
+ham tumhaare liye tum hamaare liye
+ 
+%
+#endindian
+\endsong
+%
+

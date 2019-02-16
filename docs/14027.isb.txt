@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kitanii hasarat hai hame.n tumase dil lagaane kii}%
+\film{Sainik}%
+\year{1993}%
+\starring{Akshay Kumar, Ronit Roy, Ashwini Bhave, Farheen, Aloknath, Satish Shah}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	kitanii hasarat hai hame.n tumase dil lagaane kii \-2
+	paas aane kii tumhe.n zindagii me.n laane kii
+	mai.n dil kii baat bhalaa ( kaise kahuu.N ) \-2
+	kitanii hasarat hai \threedots
+
+	( jaan\-e\-man jaan\-e\-adaa ho tum
+	merii dha.Dakan kii sadaa ho tum ) \-2
+	merii saa.Nso.n kii zaruurat ho
+	dil rubaa jaan\-e\-vafaa ho tum
+	mai.n dil kii baat bhalaa \threedots
+
+saa \:	kitanii hasarat hai \threedots
+
+	Gul kii Kushbuu hai havaa_o.n me.n
+	mai.n chaluu.N pyaar kii raaho.n me.n
+ku \:	merii yaado.n sadaa_o.n me.n
+	tum ho Kvaabo.n me.n niGaaho.n me.n
+saa \:	hai merii du_aa rab se mai.n rahuu.N terii panaaho.n me.n
+	mai.n dil kii baat bhalaa \threedots
+%
+#endindian
+\endsong
+

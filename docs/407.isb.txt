@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chhuu kar mere man ko, kiyaa tuune kyaa ishaaraa}%
+\film{Yaarana}%
+\year{1981}%
+\starring{Amitabh Bachchan, Neetu Singh}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi ?}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% 	   Arun Verman (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhuu kar, mere man ko, kiyaa tuune, kyaa ishaaraa
+badalaa ye mausam, lage pyaaraa jag saaraa
+chhuu kar\threedots
+
+tuu jo kahe jiivan bhar, tere liye mai.n gaauu.N,
+tere liye mai.N gaauu.N,
+giit tere bolo.n pe likhataa chalaa jaauu.N,
+likhataa chalaa jaauu.N,
+mere giito.n me.n, tujhe Dhuu.NDhe jag saaraa
+chhuu kar\threedots
+
+aajaa teraa aa.Nchal ye, pyaar se mai.n bhar duu.N,
+pyaar se mai.n bhar duu.N,
+khushiyaa.N jahaa.N bhar kii, tujhako nazar kar duu.N,
+tujhako nazar kar duu.N,
+tuu hii meraa jiivan, tuu hii jiine kaa sahaaraa
+chhuu kar\threedots
+%
+#endindian
+\endsong
+%

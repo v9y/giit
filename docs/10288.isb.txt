@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ai Kudaa har faisalaa teraa mujhe ma.nzuur hai}%
+\film{Abdullaa}%
+\year{1980}%
+\starring{Raj Kapoor, Sanjay Khan, Zeenat Aman, Danny}%
+\singer{Kishor, R D Burman}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10743 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ai Kudaa har faisalaa teraa mujhe ma.nzuur hai
+saamane tere teraa ba.ndaa bahut majabuur hai \-2
+raa \:	allaa huu
+
+har du_aa merii kisii diivaar se Takaraa ga_ii \-2
+be_asar ho kar merii fariyaad vaapas aa ga_ii
+raa \:	allaa huu
+is zamii.n se aasamaa.N shaayad bahut hii duur hai
+saamane tere teraa \threedots
+
+ek gul se to uja.D jaate nahii.n phuulo.n ke baaG
+kyaa hu_aa tuune bujhaa Daalaa mere ghar kaa charaaG
+raa \:	allaa huu
+kam nahii.n hai roshanii har shai me.n teraa nuur hai
+saamane tere teraa \threedots
+%
+#endindian
+\endsong
+

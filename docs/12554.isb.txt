@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{phir Thes lagii dil ko phir yaad ne ta.Dapaayaa}%
+\film{Kashmir Ki Kali}%
+\year{1964}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11484 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+phir Thes lagii dil ko phir yaad ne ta.Dapaayaa
+phir bahane lage aa.Nsuu dil dard se bhar aayaa
+phir Thes lagii \threedots
+
+duniyaa tere gulashan se ik phuul chunaa hamane \-2
+ik phuul chunaa hamane
+afasos ki daaman ko kaa.NTo.n se bharaa paayaa
+phir Thes lagii \threedots
+
+ik vo hai.n Kudaa rakhe jo bhuul ga_e hamako \-2
+jo bhuul ga_e hamako
+ik ham hai.n ki ho.nTho.n par shiqavaa naa kabhii aayaa
+phir bahane lage \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{kabhii raat\-din ham duur the din\-raat kaa ab saath hai}%
+\film{Aamne Saamne}%
+\year{1967}%
+\starring{Shashi Kapoor, Sharmila Tagore, Prem Chopra}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11019 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	kabhii raat\-din ham duur the din\-raat kaa ab saath hai
+la \:	vo bhii ittefaaq kii baat thii ye bhii ittefaaq kii baat hai
+ra \:	kabhii raat\-din \threedots
+
+ra \:	terii aa.Nkho.n me.n hai Kumaar saa terii chaal me.n hai suruur saa
+	ye bahaar kuchh hai pi_e hu_e ye samaa nashe me.n hai chuur saa \-2
+	kabhii in fizaa_o.n me.n pyaas thii ab mausam\-e\-barasaat hai
+la \:	vo bhii ittefaaq \threedots
+ra \:	kabhii raat\-din \threedots
+
+la \:	mujhe tumane kaise badal diyaa hairaan huu.N mai.n is baat par \-2
+	meraa dil dha.Dakataa hai aajakal terii shoK nazaro.n se puuchh kar \-2
+	merii jaa.N kabhii mere bas me.n thii ab zindagii tere haath hai
+ra \:	vo bhii ittefaaq \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ko_ii hasiinaa jab ruuTh jaatii hai to }%
+\film{Shole}%
+\year{1975}%
+\starring{Hema, Dharmendra, Amitabh, Amjad Khan, Sanjeev Kumar, Jaya Bhaduri}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10803 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ko_ii hasiinaa jab ruuTh jaatii hai to to to
+aur bhii hasiin ho jaatii hai
+Teshan se gaa.Dii jab chhuuT jaatii hai to
+ek\-do\-tiin ho jaatii hai
+ko_ii hasiinaa jab \threedots
+
+haatho.n me.n chaabuk ho.nTho.n pe gaaliyaa.N
+ba.De nakhare vaaliyaa.N hotii hai.n taa.Nge vaaliyaa.N
+ko_ii taa.Nge vaalii jab ruuTh jaatii hai to to to
+aur namakiin ho jaatii hai
+ko_ii hasiinaa jab \threedots
+
+zulfo.n me.n chhaiyaa.N mukha.De pe dhuup hai
+ba.Daa mazedaar gorii ye teraa ra.ng\-ruup hai
+Dor se pata.ng jab TuuT jaatii hai to to to
+rut ra.ngiin ho jaatii hai
+ko_ii hasiinaa jab \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{khush rahane ko zaruurii kyaa hai bolo yaar}%
+\film{King Uncle}%
+\year{1992}%
+\starring{Jackie, Anu Agrawal, Shahrukh, Nagma, Deven Verma, Paresh}%
+\singer{Abhijit}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khush rahane ko zaruurii kyaa hai bolo yaar
+khushii to milatii hai jab mile kisii kaa pyaar o huu.n
+is duniyaa me.n bolo kab milataa hai pyaar
+ko_ii kisii ko pahale jab detaa hai pyaar
+khush rahane ko zaruurii \threedots
+
+jis ne apanii khushii ko miTaayaa
+duusaro.n par sabhii kuchh luTaayaa
+pyaar karanaa us ko hii aayaa
+sachchii chaahat me.n to hotii nahii.n saudebaazii
+qurbaanii dene ko rahate do dil raazii
+qurbaanii kahate hai.n kisako bolo sarakaar
+yaar pe jo kar de ye zi.ndagii nisaar
+khush rahane ko zaruurii \threedots
+
+khushii hotii nahii.n baahar
+vo to hotii hai dil ke hii andar
+dil to hai pyaar kaa samundar
+ik duuje se kabhii ham ab to khafaa na ho.nge
+khafaa bhale ho jaa_e.n lekin judaa na ho.nge
+hote hai.n log judaa kyo.n bolo mere diladaar
+log judaa hote hai.n jab kam hotaa hai pyaar
+khush rahane ko zaruurii \threedots
+%
+#endindian
+\endsong

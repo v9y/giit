@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aise TuuTe taar ke mere giit adhuure rah gaye}% 
+\film{Gavaiyya}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Ram Ganguly}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor:  Preeti Ranjan Panda (ppanda@codes.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+aise TuuTe taar ke mere, giit adhUre rah gaye 
+giit adhUre rah gaye 
+aisA TuuTaa dil ke Tuka.De, aa.Nsuu ban kar bah gaye 
+aa.Nsuu ban kar bah gaye 
+
+pyaar kii ik tasviir banaakar, kismat ne khud Thukaraa dii 
+kismat ne khud Thukaraa dii
+aa.Nsuu dekar in naino.n ko, mujhako dedii barabaadii 
+mujhako dedii barabaadI 
+ik din yahii honaa thA ye, aa.Nsuu bah kar kah gaye 
+aa.Nsuu bah kar kah gaye 
+aise TuuTe taar ke mere, giit adhuure rah gaye \threedots
+
+koI jab ye giit sunegaa, pyaar kA phir vo naam nA legaa 
+pyaar kA phir vo naam nA legaa 
+pyaar kiyaa to yuu.Nhii jalegaa, ta.Dapegaa royegaa 
+ta.Dapegaa royegaa 
+ham to hai.n patthar ke insaa.N, ham to ye dukh sah gaye 
+ham to ye dukh sah gaye 
+aise TuuTe taar ke mere, giit adhuure rah gaye \threedots
+%
+#endindian
+\endsong
+%

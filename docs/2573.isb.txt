@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{Gam na kar zamaanaa aur aayegaa}%
+\film{Shahzada}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{S Mohinder}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+Gam na kar khushii kaa daur aayegaa
+Gam na kar zamaanaa aur aayegaa
+
+khatm ho gayii sitam kii daastaa.N
+jhuk rahaa hai ab zamii.n pe aasamaa.N
+ab na ye ha.Nsii terii rulaayegaa
+Gam na kar \threedots
+
+aa gaye hai.n dekho din bahaar ke
+din guzar gaye hai.n i.ntazaar ke
+duHkh kaa ye samaa badal hii jaayegaa
+Gam na kar \threedots
+
+chaar din guZaar de ha.Nsii khushii
+aa gayaa vo vaqt jab kii aadamii
+Thokare.n nasiib ke na khaayegaa
+Gam na kar \threedots
+
+dekhanaa ye raat kaT hii jaayegii
+isake baad subah muskuraayegii
+ik nayaa jahaaN jagamagaayegaa
+Gam na kar \threedots
+
+%
+#endindian
+\endsong
+%

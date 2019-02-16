@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{dil meraa aaj kho gayaa hai kahii.n}%
+\film{Door Ki Awaz}%
+\year{1964}%
+\starring{Joy Mukherjii, Saira Bano, Om Prakash, Pran, Johny Waker, Manorama}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10695 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil meraa aaj kho gayaa hai kahii.n
+aapake paa.Nv ke niiche to nahii.n
+
+yuu.N nazar pher ke mat jaa_i_e ruki_e to zaraa
+aapako merii qasam Thahari_e suni_e to zaraa
+hai jahaa.N aap meraa dil hai vahii.n
+aapake paa.Nv ke \threedots
+
+kis tarah dil kii mai.n tauhiin ga.nvaaraa kar luu.N
+aapakii bholii nigaaho.n pe bharosaa kar luu.N
+dil churaataa nahii.n hai kaun kahii.n
+aapake paa.Nv ke \threedots
+
+dil churaayaa ho to pahaluu me.n chhupaa_e rakhi_e
+zindagii bhar mujhe diivaanaa banaa_e rakhi_e
+lekin ek baar dilaa diiji_e yaqii.n
+aapake paa.Nv ke \threedots
+%
+#endindian
+\endsong
+

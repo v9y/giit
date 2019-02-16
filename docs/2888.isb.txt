@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{kisii ne mujhako mere ghar me.n aa ke luuT liyaa}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Lata, Talat}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date:Jan 09,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+ta: lagaake haatho.n me.n mehandii halaal kar daalaa
+    banaake mast mujhe haay! vaar kar daalaa
+
+la:(kisii ne mujhako mere ghar me.n aake luuT liyaa)\-2
+   (luuT liyaa)\-3
+ta:(kisii gariib ko ghar me.n bulaake luuT liyaa)\-2
+
+la: koii ummiid na hasarat na kuchh tamannaa thii
+    andheraa chaayaa thaa ? dil kii duniyaa thii
+la: (charaag sii tum ne jalaake luuT liyaa)\-2
+do: (luuT liyaa)\-3
+la: kisii  ne mujhako mere ghar me.n aake luuT liyaa
+
+ta: havaas\-o\-hosh na rahate ye maajraa hotaa
+    jo shakl dekh hii lete na jaane kyaa hotaa
+    sadaa huzuur ne apanii sunaake luuT liyaa
+do: (luuT liyaa)\-3
+ta: kisii gariib to ghar me.n bulaake luuT liyaa
+
+la: o~ zamaane bhar se mai.n kah duu.Ngii tumane chorii kii
+    aur aisii chorii ki siinaajorii bhii
+    ki sone vaale ko tuune jagaake luuT liyaa
+do: (luuT liyaa)\-3
+la: (kisii ne mujhako mere ghar me.n aake luuT liyaa)\-2
+
+%
+#endindian
+\endsong
+%

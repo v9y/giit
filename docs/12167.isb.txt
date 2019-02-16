@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{samay kaa dariyaa bahataa jaa_e ... jiivan ek sa.ngharSh hai}%
+\film{Jeewan Ek Sangharsh}%
+\year{1990}%
+\starring{Rakhi, Anil Kapoor, Madhuri, Anupam Kher, Paresh Rawal, Moon Moon Sen}%
+\singer{Kavita Subramaniam, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+samay kaa dariyaa bahataa jaa_e bahate bahate kahataa jaa_e
+jiivan ek sa.ngharSh hai
+
+apanii badanaamiyo.n ke saa_e me.n roj jiitaa huu.N roj marataa huu.N
+tum mujhe bhuul ga_ii ho lekin mai.n tumhe.n ab bhii yaad karataa huu.N
+dil kab tak ye sahataa jaa_e
+jiivan ek sa.ngharSh \threedots
+
+pyaar tumako bhii pyaar mujhako bhii phir bataa_o yah faasale kyo.n hai.n
+duur hii rahanaa thaa agar hamako ko_ii samajhaa_e ham mile.n kyo.n hai.n
+TuuTaa dil yah kahataa jaa_e
+jiivan ek sa.ngharSh \threedots
+%
+#endindian
+\endsong
+

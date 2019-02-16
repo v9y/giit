@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jis desh me.n ga.ngaa rahataa hai}%
+\film{Jis Desh Mein Gangaa Rehtaa Hai}%
+\year{2000}%
+\starring{Govinda, Sonali Bendre, Rinki Khanna}%
+\singer{Abhijit, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Pravin Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+bhaabhii ka.ngan khanakaatii hai aur maa.N loriyaa.N gaatii hai
+maddham maddham sii pavan chale koyaliyaa giit sunaatii hai
+bachchaa vahaa.N aaj bhii chaa.Nd ko cha.ndaamaamaa kahataa hai
+jis desh me.n ga.ngaa rahataa hai
+
+gaa.Nv kaa panaghaT panaghaT kaa paanii bhare gagariyaa ko_ii diivaanii
+Tha.nDii Tha.nDii puravaa_ii me.n miiThii miiThii khushbuu
+mat puuchho us khushbuu me.n hotaa hai kaisaa jaaduu
+jaaduu aisaa hotaa hai ke har ko_ii jhuumataa rahataa hai
+jis desh me.n ga.ngaa \threedots
+
+dil basaa kar gaa.Nv kii mamataa shahar me.n aayaa mai.n jogii ramataa
+sukh duHkh saare maan kar aur un ko apanaa kar
+tarah tarah ke naato.n se ghar ban jaataa hai su.ndar
+pal pal sachche rishto.n kaa vahaa.N pyaar barasataa hai
+jis desh me.n ga.ngaa \threedots
+%
+#endindian
+\endsong
+

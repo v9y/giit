@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ham bevafaa haragiz na the, par ham vafaa kar naa sake}%
+\film{Shalimar}%
+\year{}%
+\starring{Dharmendra}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+ham bevafaa haragiz na the
+par ham vafaa kara naa sake
+hamako milii usakii sajaa
+ham jo Kataa kara naa sake
+
+kitanii akelii thii vo raahe.n ham jinapara
+ab tak akele chalate rahe.n
+tujhase bichha.Da ke bhii o bekhabar
+tere hii Gam me.n jalate rahe.n
+tuune kiyaa jo shikavaa
+ham vo gilaa kar naa sake
+
+tumane jo dekhaa sunaa sach thaa magar
+itanaa thaa sach ye kisako pataa
+jaane tumhe maine koii dhokhA diyaa
+jaane tumhe koii dhokhA huaa
+is pyaar me.n sach jhuuTha kaa
+tum faisalaa kar naa sake
+%
+#endindian
+\endsong
+%

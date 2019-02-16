@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{savere kaa suuraj tumhaare liye hai}%
+\film{Ek Bar Muskuraa Do}%
+\year{1972}%
+\starring{Deb Mukherjee, Joy Mukherjee, Tanuja}%
+\singer{Kishore}%
+\music{O P Nayyar}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Prashant 
+% Editor:  
+%
+\printtitle
+#indian
+%
+savere kA suuraj tumhAre liye hai
+ye bujhate diye ko nA tum yaad karanaa 
+hue ek biitii huI baat ham to 
+koI aa.Nsuu ham par nA barabaad karanaa 
+
+tumhAre liye ham, tumhAre diye ham 
+lagan kI agan me.n abhii tak jale hai.n 
+hamaarii kamii tum ko mahasuus kyo.n ho 
+tumhaarii subah ham tumhe.n de chale hai.n 
+jo har dam tumhArI khushI chaahate hai.n 
+udaas hoke unako nA naashaad karanaa 
+savere \threedots
+
+sabhii vaqt ke aage jhukate rahe hai.n 
+kisI ke liye vaqt rukataa nahii.n hai
+chiraaG apanii dharatii kaa bujhataa hai jab bhii
+sitaare to ambar ke hote nahii.n hai.n 
+koI naav tuufaan me.n Duube to kyaa hai
+kinaare to saagar ke hote nahii.n hai.n
+kinaare to saagar ke hote nahii.n hai.n
+hai.n ham Dolatii naav Duube to kyaa hai
+kinaare ho tum, tum na fariyaad karanaa
+savere kaa suuraj \threedots
+
+chaman se jo ek phUl bichha.Daa to kyaa hai
+naye gul se gulashan ko aabaad karanaa 
+savere \threedots
+%
+#endindian
+\endsong
+%

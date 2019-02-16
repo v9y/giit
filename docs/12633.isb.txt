@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{ham pe ilzaam ye kyuu.N hai ki mohabbat kii hai}%
+\film{Kahin Din Kahin Raat}%
+\year{1968}%
+\starring{Sapna, Bishwajeet, Helen, Pran, Nadira, Johny Walker}%
+\singer{Mahendra Kapoor, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #12192 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+( ham pe ilzaam ye kyuu.N hai
+ki mohabbat kii hai ) \-2
+hamane to aapako puujaa hai
+ibaadat kii hai
+ham pe ilzaam ye kyuu.N hai
+ki mohabbat kii hai
+
+( hamane kab aapase maa.Ngaa hai
+wafaa_o.n kaa silaa ) \-2
+( kab sunaa aapane hamase ko_ii
+shiqawaa yaa gilaa ) \-2
+( hamane kab dil ke ta.Dapane kii
+shiqaayat kii hai ) \-2
+
+hamane to aapako puujaa hai
+ibaadat kii hai
+
+( Gam nahii.n isakaa agar aap
+hamaare naa huye ) \-2
+( Gam to ye hai ke tumhaare bhii
+tumhaare na huye ) \-2
+( aapane jinake liye aaj ye
+haalat kii hai ) \-2
+
+hamane to aapako puujaa hai
+ibaadat kii hai
+ham pe ilzaam ye kyuu.N hai
+ki mohabbat kii hai
+%
+#endindian
+\endsong
+

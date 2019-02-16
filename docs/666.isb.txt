@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham aaj kahii.n dil kho baiThe, yuu.N samajho kisii ke ho baiThe}%
+\film{Andaaz}%
+\year{1949}%
+\starring{Raj Kapoor, Dilip Kumar, Nargis}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham Aj kahI.n dil kho baiThe
+yU.N samajho kisI ke ho baiThe 
+ham Aj kahI.n \threedots 
+
+haradam jo koI pAs Ane lagA
+bhed ulfat ke samajhAne lagA 
+nazaro.n se nazar kaa TakarAnA
+thA dil ke liye ik afasAnA 
+ham hAtho.n se dil ko ga.nvA baiThe
+ham Aj kahI.n \threedots 
+
+A.Nkho.n me.n samAyA koI magar
+kaun AyA kisI ko kyA ye khabar 
+pUchho to yahI hai usakA patA
+cha.nchal nainA aur shokh adA 
+ham dil kI naiyyA Dubo baiThe
+ham Aj kahI.n \threedots 
+%
+#endindian
+\endsong
+%

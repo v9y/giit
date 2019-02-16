@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{gaa.Dii bulaa rahii hai, siiTii bajaa rahii hai}%
+\film{Dost}%
+\year{1974}%
+\starring{Dharmendra, Hema Malini, Shatrughan Sinha}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+gaa.Dii bulaa rahii hai, siiTii bajaa rahii hai
+chalanaa hii zi.ndagii hai, chalatii hii jaa rahii hai
+
+dekho vo rel, bachcho.n kaa khel, siikho sabak javaano.n
+sar pe hai bojh, siine me.n aag, lab par dhuvaa.N hai jaano
+phir bhii ye jaa rahii hai, nagame.n sunaa rahii hai
+
+aage tuufaan, piichhe barasaat, uupar gagan me.n bijalii
+soche na baat, din ho ke raat, siganal huaa ke nikalii
+dekho vo aa rahii hai, dekho vo jaa rahii hai
+
+aate hai.n log, jaate hai.n log, paanii me jaise rele
+jaane ke baad, aate hai.n yaad, guzare hue vo mele
+yaade.n banaa rahii hai, yaade.n miTaa rahii hai
+
+gaa.Dii ko dekh, kaisii hai nek, achchhaa buraa na dekhe
+sab hai.n savaar, dushman ke yaar, sabako chalii ye leke
+jiinaa sikhaa rahii hai, maranaa sikhaa rahii hai
+
+gaa.Dii kaa naam, naa kar badanaam, paTarii pe rakh ke sar ko
+himmat na haar, kar i.ntazaar, aa lauT jaae.n ghar ko
+ye raat jaa rahii hai, vo subah aa rahii hai
+
+sun ye paigaam, ye hai sa.ngraam, jiivan nahii.n hai sapanaa
+dariyaa ko faa.nd, pava.rt ko chiir, kaam hai ye usakaa apanaa
+nii.nde.n u.Daa rahii hai, jaago jagaa rahii hai
+%
+#endindian
+\endsong
+%

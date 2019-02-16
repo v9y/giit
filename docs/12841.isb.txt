@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{naa govi.ndaa naa shaaharukh hai ... mere ##hero## tuu hai}%
+\film{Mast/ When Dreams Come True}%
+\year{1999}%
+\starring{Aftab Shivadasani, Urmila Matondkar}%
+\singer{Asha}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa govi.ndaa naa shaaharukh hai ek tuu hii yahaa.n maujuud hai
+mushkilo.n me.n jo kaam aa gayaa ek pal me.n tuu dil pe chhaa gayaa
+mere ##hero## mere ##hero## tuu hai tuu hii to hai
+thaa ye pataa tuu hii aa_egaa aake mujhe yuu.n bachaa_egaa
+sach kahuu.N mai.n aaj ab se tuu hii to hai meraa Kudaa
+mere ##hero## \threedots
+
+abase pahale tuu thaa kahaa.n bataa der se hii aayaa magar yahaa.n
+tuu vahii hai haa.n jisako dekh ke nain mere dene lage sadaa aa
+haa.n tuu ek laakho.n hazaaro.n me.n laa_e bahaare.n khizaa_o.n me.n
+tuu nahii.n hai to nahii.n hai zi.ndagii me.n ko_ii mazaa
+mere ##hero## \threedots
+
+haath tere kyaa ##strong## hai.n usako maare jo bhii ##wrong## hai
+tuu masiihaa kaa ek ruup hai ##style## terii vaah kyaa khuub hai
+mere ##hero## \threedots
+%
+#endindian
+\endsong
+

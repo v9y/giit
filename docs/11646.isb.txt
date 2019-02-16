@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{bevafaa duniyaa kii hamane bevafaa_ii dekh lii}%
+\film{Grahasthi}%
+\year{1948}%
+\starring{Sulochana Chatterji, Kuldeep, Yaqub, Pran, Masuud, Mirza Mushharf}%
+\singer{Hameeda Banu}%
+\music{Ghulam Mohammad}%
+\lyrics{Wahid Qureshi}%
+%
+% Contributor: BOL ANAMOL #11416 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+bevafaa duniyaa kii hamane bevafaa_ii dekh lii
+pyaar ke badale me.n apanii jag\-ha.Nsaa_ii dekh lii
+bevafaa duniyaa kii \threedots
+
+jinake kaaraN ham hu_e barabaad vo Kushahaal hai.n
+jo muqaddar me.n thii apane vo buraa_ii dekh lii
+bevafaa duniyaa kii \threedots
+
+kar bhalaa hogaa bhalaa ab ye puraanii baat hai
+kuchh bhalaa hotaa nahii.n karake bhalaa_ii dekh lii
+bevafaa duniyaa kii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{logo na maaro ise}%
+\film{Anamika}%
+\year{1973}%
+\starring{Sanjeev Kumar, Jaya Bhaduri}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vandana Iyengar
+% Transliterator: 
+% Credits:
+%
+\printtitle
+#indian
+% 
+
+logo.n na maaro ise
+yahii to meraa diladaar hai
+dil se jo dil Takaraaye
+nahii.n dushamanii ye pyaar hai
+ham zaraa jo ulajh gaye
+kyuu.N laDaa_ii samajh gaye?
+pyaarii pyaarii ye thii hamaarii
+mohabbat kii dil_lagii zaraa
+(kaahe ko ruuThaa divaanaa meraa?
+tuu hii to sapanaa suhaanaa meraa
+ye lo saiyaa.n mai.n hii haarii
+ulaTaa pa.Daa nishaanaa meraa ) /-2
+tut tut tut tut \threedots
+kaahe ko ruuThaa divaanaa meraa ?
+
+yuu.N to shuruu se huu.N mai.n
+tum hii par ye dil haare hue
+lekin Kafaa hoke tum
+to aaj aur bhii pyaare hue
+pyaar thaa to sataayaa tumhe.n
+rang adaa kaa dikhaayaa tumhe.n
+kaisaa naadaan bholaa bhaalaa
+abhii tak hai mastaanaa meraa
+kaahe ko ruuThaa divaanaa meraa ? \threedots
+
+tere milan se yuu.N hii
+mahakataa rahe meraa jahaa.N
+sadaa sajii rahuu.N gale
+kabhii na Dhale ab ye samaa
+terii chaahat javaanii merii
+teraa Gam zi.ndagaanii merii
+tujh ko chaahuu.N tujhii ko puujuu.N
+yahii bas ho afasaanaa meraa
+kaahe ye ruuThaa divaanaa meraa ? \threedots
+
+%
+#endindian
+\endsong
+%

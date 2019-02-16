@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{saavan aavan kah ga_e ... ho dil me.n samaa ke}%
+\film{Kanhaiyaa}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10867 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+saavan aavan kah ga_e kar ga_e kaul anek
+ginate\-ginate ghis ga_ii uu.Ngaliyo.n kii rekh
+
+% kaul: promise, vaadaa, to give words
+
+ho dil me.n samaa ke milane na aa_e
+kaise tum apane kaise paraa_e
+ho dil me.n samaa ke \threedots
+
+tujhe taaro.n ne dekhaa tujhe chandaa ne dekhaa
+ik ham hii abhaage tujhe hamane na dekhaa
+mere sapano.n me.n aa_e par aise na aa_e
+ho dil me.n samaa ke \threedots
+
+tujhe a.Nkhiyaa.N bulaa_e.N suunii ratiyaa.N bulaa_e.N
+aaake mil jaa kanhaiyaa haay ham kaise aa_e.N
+mere nainaa lage naa jabase nainaa lagaa_e
+ho dil me.n samaa ke \threedots
+%
+#endindian
+\endsong
+

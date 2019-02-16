@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{mujh se yuu.N ruuTh kar kyo.n duur jaa rahii ho ##Mukesh gazal##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Kishore Desai}%
+\lyrics{Shiv Kumar Saroj}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (tanvi@utxvms.cc.utexas.edu)
+%          Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mujh se yuu.N ruuTh kar kyo.n duur jaa rahii ho
+dil to meraa diyaa hai kyo.n ise bujhaa rahii ho
+
+aavaaz de rahe hai.n aa.Nkho.n kaa hai ishaaraa
+tere binaa o saajan meraa kahaa.N guzaaraa
+barabaad mujhako karake duniyaa basaa rahe ho
+
+koI mujhe bataade kab aayegaa saveraa
+uja.Daa meraa chaman hai koI nahii.n baseraa
+yU.N lUT kar kisiike dil ko rulaa rahe ho
+%
+#endindian
+\endsong
+%

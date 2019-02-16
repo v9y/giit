@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{aap aa jaa_e.N to ... duniyaa me.n aisaa kahaa.N sabakaa nasiib hai}%
+\film{Devar}%
+\year{1966}%
+\starring{Dharmendra, Sharmila Tagore, Devan Verma}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10492 [V S Rawat]
+% Transliterator: 
+% Comments: Based on novel "naa" by Tarashankar Bandhopadhyaya
+% 
+\printtitle
+#indian
+%
+aap aa jaa_e.N to dil ko qaraar aa jaa_e
+
+duniyaa me.n aisaa kahaa.N sabakaa nasiib hai
+ko_ii\-ko_ii apane piyaa ke kariib hai
+duniyaa me.n aisaa \threedots
+
+duur hii rahate hai.n unase kinaare
+jinako na ko_ii maa.Njhii paar utaare \-2
+saath hai maa.Njhii to kinaaraa bhii kariib hai
+duniyaa me.n aisaa \threedots
+
+chaahe bujhaa de ko_ii diipak saare
+priit bichhaatii jaa_e raaho.n me.n taare \-2
+priit diivaanii kii kahaanii bhii ajiib hai
+duniyaa me.n aisaa \threedots
+
+barakhaa kii rut ho yaa din ho.n bahaar ke
+lagate hai.n suune\-suune bin tere pyaar ke \-2
+tuu hai to zindagii ko zindagii nasiib hai
+duniyaa me.n aisaa \threedots
+%
+#endindian
+\endsong
+

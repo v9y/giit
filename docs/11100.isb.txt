@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jumme kii raat ho yaa din jummeraat kaa}%
+\film{Dulha Dulhan}%
+\year{1964}%
+\starring{Raj Kapoor, Sadhna, Agha, K N Singh, Raj Mehra, Madhumati}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Harun}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jumme kii raat ho yaa din jummeraat kaa
+karake jaanaa gorii vaadaa mulaaqaat kaa
+
+piir kii raat aur din itavaar kaa
+kiyaa hai vaadaa maine piyaa tose pyaar kaa
+
+% urdu: piir: Monday, jummeraat: Thursday, jummaa: Friday, itavaar: Sunday
+
+yaad hai gorii teraa chhip chhip ke milanaa
+duniyaa kii nazaro.n se bach bach ke chalanaa
+ye na puuchho piyaa biitii kaise ratiyaa.n
+kar ga_ii.n jaaduu terii niilii a.Nkhiyaa.N
+miiThaa miiThaa dard hai nazaro.n ke vaar kaa
+kiyaa hai vaadaa maine \threedots
+
+nikalo na galiyo.n me.n ban Than ke gorii
+aisii hii baato.n se khulatii hai chorii
+duniyaa ne roke agar tere mere raaste
+aa_uu.ngii u.D ke piyaa milane ke vaaste
+sa.ng mere tuu hai nahii.n Dar mohe majhadhaar kaa
+kiyaa hai vaadaa maine \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{terii yaad me.n jal kar dekh liyaa ab aag me.n jal kar dekhe.nge}%
+\film{Naagin}%
+\year{1954}%
+\starring{Pradip Kumar, Vyjanthimala}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjali series, LATAnjalii series
+% 
+\printtitle
+#indian
+%
+terii yaad me.n jal kar dekh liyaa
+ab aag me.n jal kar dekhe.nge
+is raah me.n apanii maut sahii
+ye raah bhii chal kar dekhe.nge
+teri yaad mein jal kar \threedots
+
+diipak kii chamak me.n aag bhii hai
+duniyaa ne kahaa paravaano.n se
+paravaane magar ye kahane lage
+diivaane to jal kar dekhe.nge
+teri yaad mein jal kar \threedots
+%
+#endindian
+\endsong

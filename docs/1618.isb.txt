@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{shaam ra.ngiin huii hai tere aa.Nchal kii tarah}%
+\film{Kanoon Aur Muzrim}%
+\year{}%
+\starring{???}%
+\singer{Suresh Wadkar, Usha}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+% 
+% Contributor: Samiuddin Mohammed <sm0e@Lehigh.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Mahesh Saptarshi <c1mahesh@watson.ibm.com>
+%          Manjeet Rekhi <manjeet@iglou.com>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+su: shaam ra.ngiin huii hai tere aa.Nchal kii tarah
+    surma_ii ra.ng sajaa hai tere kaajal kii tarah
+u:  paas ho tum mere dil ke mere aa.Nchal kii tarah
+    merii aa.Nkho.n me.n base ho mere kaajal kii tarah
+
+u:  merii hastii pe kabhii yuu.N koii chhaayaa hii na thaa
+su: tere nazdiik mai.n pahale kabhii aayaa hii na thaa
+u:  mai.n huu.N dharatii kii tarah tum kisii baadal kii tarah
+su: surma_ii ra.Ng sajaa hai tere kaajal kii tarah
+
+u:  aasmaan hai mere armaano.n ke darpan jaise
+su: dil yuu.N dha.Dake ki lage baj uThe ka.Ngan jaise
+u:  mast hai.n aaj havaae.n kisii paayal ki tarah
+su: surma_ii ra.Ng sajaa hai tere kaajal kii tarah
+
+u:  aisii ra.Ngiin mulaaqaat kaa matalab kyaa hai
+su: in chhalakate hue jazbaat kaa matalab kyaa hai
+u:  aaj har dard bhulaa do kisii paagal kii tarah
+surma_ii ra.Ng sajaa hai tere kaajal kii tarah
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{Gaafil tujhe gha.Diyaal ye ... kisake li_e rukaa hai}%
+\film{Ek Saal}%
+\year{1957}%
+\starring{Ashok Kumar, Madhubala}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10698 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+Gaafil tujhe gha.Diyaal ye detaa hai munaadii
+garaduu.N ne gha.Dii umr kii ek aur ghaTaa dii
+
+kisake li_e rukaa hai kisake li_e rukegaa
+karanaa hai jo bhii kar le ye vaqt jaa rahaa hai \-2
+
+paanii kaa bulabulaa hai insaa.N kii zindagaanii
+dam bhar kaa ye fasaanaa pal bhar kii ye kahaanii
+har saa.Ns saath apane paiGaam laa rahaa hai
+karanaa hai jo bhii \threedots
+
+duniyaa buraa kahe to ilzaam ye uThaa le
+khud miT ke bhii kisii kii tuu zindagii bachaa le
+dil kaa chiraaG tujhako rastaa dikhaa rahaa hai
+karanaa hai jo bhii \threedots
+
+kaa.NTe jo boye tuune to phuul kaise paa_e
+tere gunaah hii aaKir hai.n aaj ra.ng laa_e
+ab soch me.n kyuu.N pagale gha.Diyaa.N ga.nvaa rahaa hai
+karanaa hai jo bhii \threedots
+%
+#endindian
+\endsong
+

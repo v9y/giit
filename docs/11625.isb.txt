@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{akele hii akele chalaa hai kahaa.N}%
+\film{Gopi}%
+\year{1970}%
+\starring{Dilip Kumar, Saira Bano, Pran, Johnny Walker}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11126 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+akele hii akele chalaa hai kahaa.N
+kahegaa kyaa kahegaa ye mausam javaa.N
+naa jaa naa jaa ho aajaa aajaa o raahii alabele
+hamasafar bhii ko_ii saath le\-le
+
+duur parvat pe kyuu.N ek badalii jhukii
+kyuu.N pavan chalate\-chalate chaman me.n rukii
+ek tanahaa kalii se ye kyuu.N kah ga_ii
+akele hii akele \threedots
+
+ThaNDii\-ThaNDii havaa_o.n kii baat maan le
+kyuu.N nazaare tujhe roke ye raaz jaan le
+kaun detaa aavaaz pahachaan le
+akele hii akele \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{laakho.n aashiq mar jaate hai.n merii ik muskaan me.n}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Udit Narayan, Abhijit, Alka Yagnik, Jaspindar Narula}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laakho.n aashiq mar jaate hai.n merii ik muskaan me.n
+laakho.n aashiq mar jaate hai.n terii ik muskaan me.n
+mere jaisaa ko_ii nahii.n hai saare hindustaan me.n
+tere jaisaa ko_ii nahii.n hai saare hindustaan me.n
+o_e ho_e
+
+khan khan khan khan chuu.Dii khanake
+chhan chhan chhan chhan paayal baaje
+ho sar sar sar sar chunarii sarake
+chham chham chham chham gorii naache
+o balakhaa ke zaraa Thumakaa lagaa
+dilajaanii ab jalavaa dikhaa aa o
+ho laakho.n aashiq \threedots
+
+mai.n huu.N khushbuu mai.n huu.N shabanam
+mai.n huu.N sholaa mai.n huu.N bijalii
+bachake rahanaa mujhase logo.n aag lagaane mai.n huu.N nikalii
+merii bijalii chal bijalii giraa
+ye jale.nge hame.n aa_egaa mazaa aa o
+laakho.n aashiq \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aap bhii aa_iye hamako bhii bulaate rahiye}%
+\film{Soz (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aap bhii aa_iye hamako bhii bulaate rahiye
+dostii zurm nahii.n dost banaate rahiye
+aap bhii aa_iye \threedots
+
+zahar pii jaa_iye aur baa.NTiye amR^it sab ko
+zakhm bhii khaa_iye aur giit bhii gaate rahiye
+aap bhii aa_iye \threedots
+
+vaqt ne luuT lii.n logo.n kii tamannaa_e.N bhii
+khvaab jo dekhiye auro.n ko dikhaate rahiye
+aap bhii aa_iye \threedots
+
+shakl to aapake bhii zahan me.n hogii ko_ii
+kabhii ban jaa_egii tasviir banaate rahiye
+aap bhii aa_iye \threedots
+%
+#endindian
+\endsong
+

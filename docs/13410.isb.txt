@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chaahat hai kyaa ... ho jaataa hai ye pyaar kiyaa nahii.n jaataa}%
+\film{Pyaar Kiya Nahin Jaata}%
+\year{2002}%
+\starring{Sonali Bendre}%
+\singer{Anuradha Paudwal}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaahat hai kyaa kyaa pataa sa.ngadil ko
+kisii din diivaane se diivaane dil ko
+ho jaataa hai ye pyaar kiyaa nahii.n jaataa
+chaahat hai kyaa \threedots
+
+kis mo.D pe kaun kaisaa milegaa
+kisako hai isakii khabar
+naa jaane kab kisakii nazaro.n kaa jaaduu
+kar jaa_e kisape asar
+ho jaataa hai ye ikaraar kiyaa nahii.n jaataa
+ho jaataa hai ye \threedots
+
+bha.nvare ko gulashan me.n ik gul pe maranaa
+ma.nDaraanaa usape use pyaar karanaa
+kaliyo.n kaa shabanam se milake nikharanaa
+giito.n kaa saragam se milake sa.nvaranaa
+paravaane kaa shammaa ke saath jalanaa
+majanuu kaa lailaa se marake bhii milanaa
+kisse to hai.n beshumaar kahaa nahii.n jaataa
+huu.n ho jaataa hai ye \threedots
+%
+#endindian
+\endsong
+

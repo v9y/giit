@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{har subah bahut yaad aataa hai}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Kumar Sanu, Chitra}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+har subah bahut yaad aataa hai har shaam bahut yaad aataa hai
+teraa naam bahut yaad aataa hai
+har subah bahut \threedots
+
+mere sapano.n ke mahalo.n me.n sirf terii tasviire.n
+dekh zaraa tere haatho.n me.n sirf merii takadiire.n
+kadam kadam pe chalanaa mujhako banake teraa saayaa
+jab bhii sochaa jab bhii dekhaa maine tujhako paayaa
+har subah bahut \threedots
+
+merii tanhaa_ii ke saathii mere dil kii dha.Dakan
+merii shaano.n pe bikharaa de ye zulfo.n kaa saavan
+naa ko_ii bechainii hai ab naa ko_ii majabuurii
+har mausam chaahat kaa mausam har lamhaa sinduurii
+har subah bahut \threedots
+%
+#endindian
+\endsong
+

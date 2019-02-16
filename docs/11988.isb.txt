@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{choT dil pe lagii pyaar hone lagaa}%
+\film{Ishq Vishk}%
+\year{2003}%
+\starring{Shahid, Amrita Rao, Shehnaz}%
+\singer{Kumar Sanu, Alisha Chinai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11674 [V S Rawat]
+% Producer: TIPS Films, Kumar S Taurani, Ramesh S Taurani, Director: Ken Ghosh
+% Audio: Tips Industries Ltd, tipsmusicfilms.com
+% Cassette: Stereo TC-21834, Rs 42/-, CD: TCCD 7297/98, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+ku \:	he he he he he
+a \:	la la la la la la aa aa aa aa
+	choT dil pe lagii pyaar hone lagaa \-2
+	vo ajanabii mere dil ko bhalaa\-bhalaa saa lagaa \-2
+ku \:	ham diivaano.n kii to ab yahii hai du_aa \-2
+	saarii umar chaahato.n kaa chalataa rahe silasilaa \-2
+
+a \:	jab hu_aa saamanaa ham dil de baiThe.n
+	ishq kii beKudii ham to le baiThe.n
+	haa.N jab hu_aa saamanaa \threedots ham to le baiThe.n
+ku \:	palako.n ke piichhe se tuune kyaa kah Daalaa
+	diivaanaa mai.n banaa
+a \:	vo meraa mastaanaa aashiq kuchh manachalaa saa lagaa
+ku \:	saarii umar chaahato.n kaa chalataa rahe silasilaa
+a \:		choT dil pe lagii pyaar hone lagaa
+	vo ajanabii mere dil ko bhalaa\-bhalaa saa lagaa
+ku \:	saarii umar chaahato.n kaa chalataa rahe silasilaa
+
+a \:	nii.nd me.n Kvaab me.n chupake se aataa hai
+	har gha.Dii vo meraa chain churaataa hai
+	huu.N nii.nd me.n Kvaab me.n \threedots chain churaataa hai
+ku \:	baa.Nho.n ke ghere me.n ab mujhako rahane de
+	chhune de lab zaraa
+a \:	ye beqararii kaa mausam dhu_aa.N\-dhu_aa.N saa lagaa
+ku \:	haa.N saarii umar chaahato.n kaa chalataa rahe silasilaa
+a \:		choT dil pe lagii pyaar hone lagaa \-2
+	vo ajanabii mere dil ko bhalaa\-bhalaa saa lagaa
+ku \:	haa.N saarii umar chaahato.n kaa chalataa rahe silasilaa
+%
+#endindian
+\endsong
+

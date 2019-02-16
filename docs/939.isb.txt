@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{kabhii tanahaaiyo.n me.n hamaarii yaada aaegii}%
+\film{Hamari Yaad Aayegi}%
+\starring{Tanuja}%
+\singer{Mubarak Begum}%
+\music{Snehal Bhatkar}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+%          Satish Subramanian (subraman@cs.umd.edu)
+%          Pavan Kumar Desikan (pkd@cs.duke.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+kabhii tanahaaiyo.n me.n 
+hamaarii yaada aaegii
+a.ndhere chhaa rahe ho.nge
+ke bijalI kau.ndh jaaegii
+kabhii tanahaaiyo.n me.n yuu.N\threedots
+
+ye bijalI raakha kara jaegii tere pyaar kii duniyaa \- 2
+naa phira tuu jii sakegaa aura, naa tujhako mauta aaegii
+kabhii tanahaaiyo.n me.n yuu.N\threedots
+%
+#endindian
+\endsong
+%

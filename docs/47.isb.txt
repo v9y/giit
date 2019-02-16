@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{jaan-e-bahaar husn teraa bemisaal hai}%
+\film{Pyaar Kiya To Darna Kya}%
+\year{}%
+\starring{Prithviraj Kapoor, Shammi Kapoor, B. Saroja Devi, Pran}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Mohan Rathore (rathore@ece.rutgers.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Mon Jul 10 1995
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com) 
+% Editor:  
+% Comments:  
+%
+\printtitle
+#indian
+%
+jaan\-e\-bahaar husn teraa bemisaal hai
+vallaah kamaal hai, are vallaah kamaal hai
+
+aaii hai mere paas tuu is aan\-baan se
+utarii ho jaise koii parii aasmaan se
+mai.n kyaa kahuu.N khushii se ajab meraa haal hai
+
+haay ye terii mast adaa_e.n ye baakapan \-2
+kiraNo.n ko bhii mai.n chhuune na duu.Ngaa ye goraa tan
+tujhase nazar milaae ye kisakii majaal hai
+
+mai.n khushanasiib huu.N ke tujhe mai.nne paa liyaa \-2
+tuune karam kiyaa mujhe apanaa banaa liyaa
+aise mile hai.n ham ke bichha.Danaa muhaal hai
+%
+#endindian
+\endsong
+%

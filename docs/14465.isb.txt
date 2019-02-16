@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aajaa re aajaa ... kho di_e hai.n sanam terii talaash me.n}%
+\film{Teri Talaash Mein}%
+\year{1968}%
+\starring{Kumkum, Shailesh, Madan Puri, Mohan Choti}%
+\singer{Asha}%
+\music{Sapan-Jagmohan}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #11511 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( aajaa re ) \-2 ( aajaa ) \-3
+kho di_e hai.n sanam terii talaash me.n pichhale ka_ii janam \-2
+aajaa re \threedots
+
+is dil ko dard kii vo aag tuune dii
+sadiyo.n se ye chitaa ( jalakar nahiii.n bujhii ) \-2
+kho di_e hai.n sanam \threedots
+
+aa.Nkho.n se ashq\-e\-Gam suukhe nahii.n abhii
+aajaa ke baa.NT le.n ( shiqave\-gile sabhii ) \-2
+kho di_e hai.n sanam \threedots
+
+tere li_e milaa ye aakharii janam
+mumaqin kahaa.N mile.n ( phir isake baad ham ) \-2
+kho di_e hai.n sanam \threedots
+%
+#endindian
+\endsong
+

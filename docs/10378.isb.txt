@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jaaduugar jaaduu kar jaa_egaa}%
+\film{Alibaaba Aur 40 Chor}%
+\year{1980}%
+\starring{Dharmendra, Hema Malini, Zeemat Aman, Prem Chopra, Madan Puri}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10746 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	jaaduugar \-3
+	jaaduugar jaaduu kar jaa_egaa kisii ko samajh nahii.n aa_egaa
+	o marajiinaa naach hasiinaa mushkil kar de sabakaa jiinaa \-2
+	nahii.n to nahii.n to
+	jaaduugar jaaduu kar \threedots
+
+	naachegii terii javaanii dekhegii duniyaa diivaanii \-2
+	har chiiz hai mere bas me.n kyaa aag hai kyaa hai paanii \-2
+	are chhuu mantar chhuu dekh idhar tuu
+	pahan le inako le ye ghu.Ngharuu
+	varanaa gazab ho jaa_egaa
+	e jaaduugar jaaduu kar \threedots
+
+aa \:	maanaa tujhe maine maanaa ho tuu jaaduugar hai diivaanaa \-2
+	bebas mujhe kar diyaa yuu.N hairaa.N hai saaraa zamaanaa \-2
+	bas had kar dii o bedardii batalaa kyaa hai terii marazii
+	kab tak mujhe ta.Dapaa_egaa
+ki \:	jaaduugar jaaduu kar jaa_egaa
+aa \: kisii ko samajh nahii.n aa_egaa
+
+aa \:	qismat kaa chamakaa sitaaraa tuune mujhe jab pukaaraa
+ki \:	chup\-chaap tuu naachatii jaa jab tak karuu.N mai.n ishaaraa \-2
+aa \:	o tere qadamo.n me.n sar hai tuu hai to phir kisakaa Dar hai
+	jo hogaa dekhaa jaa_egaa
+ki \:	e jaaduugar jaaduu kar jaa_egaa
+do \:	kisii ko samajh nahii.n aa_egaa
+ki \:	o marajiinaa naach hasiinaa \threedots
+%
+#endindian
+\endsong
+

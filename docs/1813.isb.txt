@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{tuu kahe agar jiivan bhar, mai.n giit sunaataa jaauu.n}%
+\film{Andaaz}%
+\year{1949}%
+\starring{Raj Kapoor, Nargis, Dilip Kumar}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tuu kahe agar, tuu kahe agar
+tuu kahe agar jiivan bhar
+mai.n giit sunaataa jaaU.n
+man biin bajaataa jaaU.n
+tuu kahe agar
+
+mai.n saaz huu.N tuu saragam hai \- 2
+detii jaa sahaare mujhako \- 2
+mai.n raag huu.N tU bINaa hai \- 2
+is dam jo pukaare tujhako
+aavaaz me.n terI har dam
+aavaaz milaataa jaauu.n
+aakaash pe chhaataa jaauu.n
+tU kahe agar\threedots
+
+in bolo.n me.n, tuu hii tuu hai
+mai.n samajhuu.N yaa tuu jaane, ho jaane
+iname.n hai kahaanii merii, iname.n hai tere afasaane
+iname.n hai tere afasaane
+tU saaz uThaa ulfat kaa
+mai.n jhuum ke gaataa jaauu.n
+sapano.n ko jagaataa jaauu.n
+tuu kahe agar\threedots
+%
+#endindian
+\endsong
+%

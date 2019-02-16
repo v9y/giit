@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kyaa kyaa na sitam tujh pe hu_e mahalo.n kii raanii}%
+\film{Mohini/ Bhagya Chakra}%
+\year{1957}%
+\starring{Nirupa Roy, Shahu Modak, Shakeela, Rajkumar, Roop Kumar, Sundar}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10295 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kyaa kyaa na sitam tujh par hu_e mahalo.n kii raanii
+qismat ne likhii aa.Nsu_o.n se terii kahaanii
+
+itanii ba.Dii duniyaa me.n ko_ii nahii.n teraa
+yaa Thokare.n qismat kii hai.n yaa Gam kaa a.Ndheraa
+is duniyaa ne ab tujhe miTaane kii hai Thaanii
+qismat ne likhii \threedots
+
+aa.Nsuu tere ha.Nsatii hu_ii kaliyo.n ko rulaa de.n
+aahe.n terii aakaash ke parado.n ko hilaa de.n
+naadaan thaa vo jisane terii ek naa maanii
+qismat ne likhii \threedots
+
+aa.Nkhe.n terii benuur hu_ii.n dil teraa TuuTaa
+bhagavaan ke hote hu_e sa.nsaar ne luuTaa
+duniyaa me.n kisii ne bhii terii qadar naa jaanii
+qismat ne likhii \threedots
+%
+#endindian
+\endsong
+

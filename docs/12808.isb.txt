@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dekho dekho ... socho ke jhiilo.n kaa shahar ho}%
+\film{Mission Kashmir}%
+\year{2000}%
+\starring{Hritik Roshan, Snajay Dutt, Pretty Zinta, Jackie Shroff, Sonali Kulkarni, Puru Rajkumar}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekho dekho kyaa mai.n dekhuu.N
+socho socho sochuu.N mai.n kyaa o o
+socho ke jhiilo.n kaa shahar ho
+laharo.n pe apanaa ek ghar ho
+ham jo dekhe.n sapane pyaare sach ho.n saare bas aur kyaa
+socho ke jhiilo.n kaa \threedots
+
+farsh ho pyaar kaa khushbuu_o.n kii diivaare.n
+ham jahaa.n baiThake prem se din guzaare.n
+palake.n uThe.n palake.n jhuke.n
+dekhe tujhe bas ye nazar
+socho ke jhiilo.n kaa \threedots
+
+bumbaro bumbaro
+barf hii barf ho sardiyo.n kaa ho mausam
+aag ke saamane haath se.nkate ho.n ham
+baiThii rahuu.n aaGosh me.n rakhake tere kaa.ndhe pe sar
+socho ke jhiilo.n kaa \threedots
+%
+#endindian
+\endsong
+

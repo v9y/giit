@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{mere pyaar me.n yaa vafaa naa thii yaa hai bevafaa}%
+\film{First Love}%
+\year{1961}%
+\starring{Mehmood, Naaz}%
+\singer{Mukesh}%
+\music{Duttaram}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10177 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mere pyaar me.n yaa vafaa na thii
+yaa hai bevafaa teraa pyaar hii
+merii zindagii se yuu.N khel ke jo chale ga_e
+mere pyaar me.n \threedots
+
+merii zindagii hai bujhii\-bujhii ko_ii kyo.n kahe mujhe dilajalaa
+tujhe mil gayaa nayaa hamasafar mujhe ye teraa Gam milaa \-2
+mere pyaar me.n \threedots
+
+mere saath hai merii bebasii vo meraa na thaa jo bichha.D gayaa
+tere saath hai terii har Kushii vo teraa na thaa jo uja.D gayaa
+mere pyaar me.n \threedots
+%
+#endindian
+\endsong
+

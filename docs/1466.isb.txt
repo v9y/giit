@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{puuchho na hame.n ham unake liye}%
+\film{Mitti Mein Sona}%
+\year{1960}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Raja Mehdi Ali Khan}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Credits: Ashok Dhareshwar <ADhareshwar@WorldBank.Org>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+% Comments:  Beautiful piano work
+%
+\printtitle
+#indian
+%
+(puuchho na hame.n ham unake liye 
+kyaa kyaa nazaraane laaye hai.n
+dene ko mubaarakabaad unhe.n
+aa.Nkho.n me.n ye aa.Nsuu aaye hai.n )	\- 2
+ 
+jiivan kii suhaanii raaho.n me.n unako ek jiivan miit milaa
+aur ha.Nsatii hu_ii is mahafil se hamako birahaa kaa giit milaa
+kaliyo.n kii tarah \threedots
+musakaaye the ham \threedots
+kaliyo.n kii tarah musakaaye the ham
+phuulo.n kii tarah murajhaaye hai.n
+puuchho na hame.n ham unake liye \threedots
+
+tuufaan hazaaro.n saath li_e jiivan kii dhaaraa bahatii hai
+aur dekhake usakii maujo.n ko taqadiir yah ha.Nsakar kahatii hai
+saahil ke li_e jo \threedots
+ta.Dape the \threedots
+saahil ke li_e jo ta.Dape the
+vah aaj bha.Nvar me.n aae hai.n
+puuchho na hame.n ham unake liye \threedots
+%
+#endindian
+\endsong
+%
+

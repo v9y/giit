@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{gulamohar gar tumhaaraa naam hotaa}% 
+\film{Devta}%
+\year{}%
+\starring{}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ki : gulamohar gar tumhaaraa naam hotA 
+mausam\-e\-gul lo ha.nsaanaa bhI hamArA kaam hotA 
+gulamohar gar tumhaaraa \threedots 
+
+k : aaye.ngii bahaare.n to, abake unhe kahanaa zaraa, itanaa sune 
+aaye.ngI bahaare.n to, abake unhe kahanaa zaraa, itanaa sune \- 2
+mere gul binaa, unakaa kahaa.N bahaar naam hotA 
+l: gulamohar gar tumhaaraa naam hotA 
+mausam\-e\-gul lo ha.nsaanaa bhI hamArA kaam hotA 
+gulamohar gar tumhaaraa \threedots
+
+l : shaam kI gulaabii se, A.Nchal me.n ye diyaa jalaa hai chaa.Nd saa 
+shaam kI gulaabii se, A.Nchal me.n ye diyaa jala hai chaa.Nd saa 
+mere gul binaa, unakaa bhalaa kyA naam hotA 
+k : gulamohar gar tumhaaraa naam hotA 
+mausam\-e\-gul lo ha.nsaanaa bhI hamArA kaam hotA 
+l: gulamohar gar tumhaaraa naam hotA 
+mausam\-e\-gul lo ha.nsaanaa bhI hamArA kaam hotA 
+%
+#endindian
+\endsong
+%

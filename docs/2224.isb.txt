@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere mandir kaa huu.N diipak jal rahaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{}%
+%
+% Contributor: Yogesh Sethi
+% Transliterator: K Vijay Kumar
+% Credits: Hrishi Dixit, Neha Desai, Afzal Khan
+% Editor:
+%
+\printtitle
+#indian
+%
+tere mandir kaa huu.N diipak jal rahaa
+aag jiivan me.n mai.n bhar kar jal rahaa, jal rahaa
+tere mandir kaa huu.N diipak jal rahaa
+
+kyaa tuu mere dad.r se an_jaan hai
+terii merii kyaa nayii pahachaan hai
+jo binaa paanii bataashaa Dhal rahaa
+aag jiivan me.n mai.n bhar kar   \threedots
+
+ik jhalak mujh ko dikhaa de saa.Nvare, saa.Nvare
+mujh ko le chal tuu gadhum kii chhaa.Nv re, saa.Nvare
+aur chhaliyaa aa aa aa
+aur chhaliyaa kyo.n mujhe tuu chhal rahaa
+aag jiivan me.n mai.n bhar kar   \threedots
+
+mai.n to qisamat baa.Nsurii ke baa.Nchhataa
+ek dhun se sau tarah se naachataa
+aa.Nkh se jamunaa kaa paanii Dal rahaa
+aag jiivan me.n mai.n bhar kar   \threedots
+
+%
+#endindian
+\endsong
+%

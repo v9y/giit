@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+\startsong
+\stitle{baat karanii mujhe mushkil kabhii aisii to na thii}%
+\film{The Finest Ghazals of Mehdi Hassan (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Mehdi Hasan}%
+\lyrics{Bahadur Shah Zafar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+baat karanii mujhe mushkil kabhii aisii to na thii
+jaisii ab hai terii mahafil kabhii aisii to na thii
+
+% The following is not in the version in Mehfil-E-Ghazal
+
+paa\-e\-kuubaa.N ko_ii zi.ndaa.N me.n nayaa hai majanuu
+aatii aawaaz se laasir? kabhii aisii to na thii
+
+% The following is in both the versions
+
+le gayaa luuT ke kaun aaj teraa sabr\-o\-qaraar
+beqaraarii tujhe ai dil kabhii aisii to na thii
+
+% The following is in the version in Mehfil-E-Ghazal
+
+unakii aa.Nkho.n ne Kudaa jaane kiyaa kyaa jaaduu
+ke tabiiyat merii maa_il kabhii aisii to na thii
+
+chashm\-e\-qaatil merii dushman thii hameshaa lekin
+jaisii ab ho ga_ii qaatil kabhii aisii to na thii
+
+kyaa sabab tuu jo biga.Dataa hai 'zarar' se har baar
+kuu.N terii huur\-e\-shimaagil kabhii aisii to na thii
+
+#endindian
+\endsong

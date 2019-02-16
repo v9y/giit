@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dekhaa hai pahalii baar saajan kii aa.Nkho.n me.n pyaar}%
+\film{Saajan}%
+\year{1991}%
+\starring{Sanjay Dutt, Salman Khan, Madhuri Dixit}%
+\singer{Alka Yagnik, S P Balasubramaniam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhaa hai pahalii baar saajan kii aa.Nkho.n me.n pyaar
+tab jaa ke aayaa mere bechain dil ko karaar
+dilabar tujhe milane ko kab se thaa mai.n bekaraar
+ab jaa ke aayaa mere bechain dil ko karaar
+dekhaa hai pahalii baar \threedots
+
+palake.n jhukaa_uu.n tujhe dil me.n basaa_uu.n
+ab bin tere mai.n to kahii.n chain na paa_uu.n
+tuu mera jigar hai tuu merii nazar hai
+tuu merii aarazuu tuu meraa hamasafar hai
+dekhaa hai pahalii baar \threedots
+
+merii adaa_e.n ye merii javaanii
+bas tere li_e hai ye merii zi.ndagaanii
+tuu merii gazal hai tuu meraa taraanaa
+aa terii dha.Dakano.n pe likh duu.N dil kaa fasaanaa
+dekhaa hai pahalii baar \threedots
+
+dekhaa hai pahalii baar jaanam kii aa.Nkho.n me.n pyaar
+tab jaa ke aayaa mere bechain dil ko karaar
+dilabar tujhe milane ko kab se thii mai.n bekaraar
+ab jaa ke aayaa mere bechain dil ko karaar
+dekhaa hai pahalii baar \threedots
+%
+#endindian
+\endsong
+

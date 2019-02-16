@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{tuu meraa jaanuu hai tuu meraa dilabar hai}%
+\film{Hero}%
+\year{1983}%
+\starring{Jackie Shroff, Meenakshi Sheshadri, Sanjeev Kumar}%
+\singer{Anuradha Paudwal, Manhar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+meraa baalaam meraa saajan meraa saajan meraa baalaam 
+meraa majanuu meraa raa.Njhaa
+jaanuu!
+
+tuu meraa jaanuu hai tuu meraa dilabar hai
+merii prem kahaanii kaa tuu hiiro hai
+par prem granth ke panno.n par
+apanii taqadiir to ziiro hai
+
+dil vaalo.n me.n na koii amiir hotaa hai na gariib hotaa hai
+kisii kisii ko ye pyaar nasiib hotaa hai
+dil kii duniyaa se ye duniyaa duur hotii hai dil qariib hotaa hai
+koii koii aisaa khushanasiib hotaa hai
+terii baate.n tuu hii jaane mai.n to bas itanaa jaanuu.N
+jaanuu! jaanuu! jaanuu!
+tuu meraa jaanuu hai \threedots
+
+premii ke haatho.n me.n prem lakiir hotii hai, tahariir hotii hai
+nahii.n nahii.n aa.Nkho.n me.n tasaviir hotii hai
+pyaar jo karate hai.n unakii taqadiir hotii hai, jaagiir hotii hai
+kuchh bhii ho lekin raa.Njhe kii hii hiir hotii hai
+ye sab kisse hai.n puraane mai.n to bas itanaa jaanuu.N
+ki prem granth ke panno.n par apanii taqadiir to ziiro hai
+ki prem granth ke panno.n par tuu meraa hiiro hai
+
+kitanaa paapii hai tuu mujhe pyaar karataa hai, iqaraar karataa hai
+yaad tujhe pal me.n dil sau baar karataa hai
+dekhe.n kaun judaa hamako diladaar karataa hai i.nkaar karataa hai
+pyaar kahaa.N logo.n kaa i.ntazaar karataa hai
+terii baate.n tuu hii jaane mai.n to bas itanaa jaanuu.N
+jaanuu jaanuu jaanuu jaanuu jaanuu jaanuu
+mai.n teraa jaanuu.N huu.N \threedots
+
+%
+#endindian
+\endsong
+%

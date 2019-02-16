@@ -1,0 +1,63 @@
+
+%
+\startsong
+\stitle{tan bhii badalaa .. lu_ii shamaashaa uu_ii}%
+\film{Kraanti}%
+\year{1981}%
+\starring{Dilip Kumar, Manoj Kumar, Hema Malini, Shatrughan Sinha, Shashi Kapoor,  Parveen Babi}%
+\singer{Nitin Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: BOL ANAMOL #11617 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	tan bhii badalaa man bhii badalaa badal ga_ii hai kaayaa
+	kaalii raat se jiivan ko ab mil ga_ii ujalii chhaayaa
+ko \:	ye dil vaalo.n kii bastii hai ye basate\-basate basatii hai
+	Gam ko Kushii me.n Dhaal de jo bhaarat kii aisii hastii hai
+	jisane rachaa sa.nsaar hai ye ham rachanaa us kii gaate hai.n
+
+la \:	lu_ii shamaashaa u_ii \-5
+	le jaa pyaar zaraa saa de jaa pyaar zaraa saa ( u_ii ) \-5
+	lu_ii shamaashaa \threedots
+ko \:	lu_ii shamaashaa \threedots
+la \:	lu_ii shamaashaa \threedots
+
+	mausam ne lii a.nga.Daa_ii hai qudarat ne baa.Ndhii paayal hai
+	haay mai.n kisakii baat karuu.N dil meraa hii ghaayal hai
+	rishto.n kii meha.ndii le aa_o \-2
+	( dulhan saa mujhe sajaa_o ) \-2 rii
+	prem kii bhaaShaa u_ii \-5
+	prem kii bhaaShaa
+	le jaa pyaar zaraa \threedots
+ko \:	lu_ii shamaashaa \threedots
+
+ni \:	( ho dil chandaa kaa le aa_e.Nge suuraj se aa.Nkh milaa_e.Nge
+	aa jaa_e.Nge jab apanii par taaro.n ko to.D ke laa_e.Nge ) \-2
+la \:	o ho
+ni \:	ma.nzil hai apanii raaho.n me.n aakaash hamaarii baa.Nho.n me.n
+	dekh tamaashaa u_ii \-5
+	dekh tamaashaa
+	le jaa pyaar zaraa \threedots
+la \:	u_ii \-4
+ko \:	lu_ii shamaashaa \threedots
+
+ni \:	uThakar giranaa girakar uThanaa jiivan kii riit puraanii hai
+la \:	uThakar giranaa girakar uThanaa jiivan kii riit puraanii hai
+	chaTTaano.n se Takaraane kii hamane jiivan me.n Thaanii hai
+do \:	paravat ko dhuul banaa de.nge \-2
+	saagar ko buu.Nd banaa de.nge
+	jaagii aashaa u_ii
+	u_ii \-5
+	jaagii aashaa u_ii jaagii aashaa
+	le jaa pyaar zaraa \threedots
+%
+#endindian
+\endsong
+

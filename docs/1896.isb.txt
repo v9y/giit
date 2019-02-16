@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ye dil kii lagii kam kyaa hogii}% 
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Prithviraj Kapoor, Dilip Kumar, Madhubala}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  mprabhu@magnus.acs.ohio-state.edu
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+ye dil kii lagii kam kyaa hogii 
+ye ishq bhalaa kam kyaa hogaa 
+jab raat hai aisI matavaalii \- 2 
+phir subah kA aalam kyaa hogaa \- 2 
+
+naGamo se barasatii hai mastii 
+chhalake hai.n khushI ke paimaane \- 2 
+aaj aisI bahaare.n aaii hai.n 
+kal jinake bane.nge afasaane \- 2 
+ab ise jyaadaa aur hasii.n ye pyaar kA mausam kyaa hogaa \- 2 
+jab raat hai aisI matavaalii 
+phir subah kA aalam kyaa hogaa \- 2 
+
+ye aaj kA ra.ng aur ye mahafil 
+dil bhI hai yahaa.N diladaar bhI hai \- 2 
+aa.Nkho.n me.n kayaamat ke jalave 
+siine me.n sulagataa pyaar bhI hai \- 2 
+is ra.ng me.n koI jii le agar marane kA use Gam kyaa hogaa \- 2 
+jab raat hai aisI matavaalii 
+phir subah kA aalam kyaa hogaa \- 2 
+
+haalat hai ajab dIvaano.n kii 
+ab khair nahii.n paravaano.n kii \- 2 
+anjaam\-e\-mohabbat kyaa kahiye 
+laya ba.Dhane lagI aramaano.n kii \- 2 
+aise me.n jo paayal TuuT gayii phir ai mere hamadam kyaa hogaa \- 2 
+jab raat hai aisI matavaalii \- 2 
+phir subah kA aalam kyaa hogaa \- 2 
+%
+#endindian
+\endsong
+%

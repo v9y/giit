@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{husn ke laakho.n ra.ng, kaun saa ra.ng dekhoge}%
+\film{Johnny Mera Naam}%
+\year{}%
+\starring{Padma Khanna, Dev Anand, Hema Malini}%
+\singer{Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Viina Nayak
+% Transliterator:
+% Credits:
+% Series: The Missing Element (2)
+%
+\printtitle
+#indian
+%
+husn ke laakho.n ra.ng
+kaun saa ra.ng dekhoge
+aag hai ye badan
+kaun saa a.ng dekhoge
+
+gaalo.n ke ye phuul gulaabii
+inakii ra.ngat kyaa jaano
+ho.nTho.n ke do jaam sharaabii
+inakii lazzat kyaa jaano
+zulfo.n kii ye chhaa.Nv ghanerii
+inakii raahat kyaa jaano
+husn ke laakhon ra.ng   \threedots
+
+pad.re me.n kyaa chhupaa huaa hai
+terii nazar ye kyaa jaane
+in aa.Nkho.n ke piichhe kitane
+base hue hai.n maikhaane
+piike dekho jaam nazar kaa
+ho jaaoge diivaane
+husn ke laakhon ra.ng   \threedots
+
+%
+#endindian
+\endsong
+%

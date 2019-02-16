@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{shaq nahii.n rupaye me.n paa_ii kaa}%
+\film{Raagrang}%
+\year{1952}%
+\starring{Geeta Bali}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sarshar Silani}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar 
+% Date: May 11, 1998
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+shaq nahii.n rupaye me.n paa_ii kaa
+duniyaa hai naam safaa_ii kaa
+
+ye duniyaa heraa pherii hai
+kabhii terii hai to kabhii merii hai
+tu.ndunaa tu.ndunaa shuur, kalii kali.ngan shuur
+o o o baabuujii, o baabuujii, khel safaa_ii kaa
+shaq nahii.n   \threedots
+
+chaTak chaTak chaTakaare lekar
+sunane vaale mere taraane
+muft baarii ke gaye zamaane
+jald nikaalo do do aane
+o naa naa ek aanaa ham nahii.n maa.Ngataa
+din hai ye maha.ngaa_ii kaa
+shaq nahii.n   \threedots
+
+dhan daulat ke matavaalo.n kii
+har baat niraalii hotii hai
+baazaar me.n nikale diivaalaa
+aur ghar me.n diivaalii hotii hai
+hai ye bhii ra.ng kamaa_ii kaa
+shaq nahii.n   \threedots
+
+%
+#endindian  
+\endsong 
+%

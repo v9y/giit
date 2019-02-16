@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{##All Line Clear##}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Johnny Walker, Raj Kapoor, Nargis}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+%
+\printtitle
+#indian
+%
+##All Line Clear##
+aage ba.Dho aage chalo
+chhoTii sii ye alaTan palaTan ## all ## hai mere ghar kii
+saath hamaare top kaa golaa baat nahii.n hai Dar kii
+##All Line Clear##
+## Line Clear ## hai bhaa_ii
+
+kabhii khaalii gayaa na nishaanaa
+hamase Takaraayegaa kyaa zamaanaa
+haay! re duniyaa aur duniyaadaarii
+aakhir pa.Daa sar jhukaanaa
+    -pappaa
+dhat.h tere kii
+##All Line Clear##   \threedots
+
+giit gaate hue ham chale hai.n
+phir na puuchho ba.De dil jale hai.n
+dil me.n biThaa lo, ai duniyaavaalo.n
+ham bhii ba.De manachale hai.n
+    -pappaa
+are chup!
+##All Line Clear##   \threedots
+
+%
+#endindian
+\endsong
+%

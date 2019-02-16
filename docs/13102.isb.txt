@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{aaj mohe saajan ghar jaanaa}%
+\film{Manjhdhar/ Lost in Mid-Stream}%
+\year{1947}%
+\starring{Surendra, Khursheed, Sadiq Ali}%
+\singer{Khursheed}%
+\music{Ghulam Haider}%
+\lyrics{Shams Lakhnavi}%
+%
+% Contributor: BOL ANAMOL #11867 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( aaj mohe
+aaj mohe saajan ghar jaanaa
+balam ghar jaanaa
+piyaa ke ghar jaanaa hai ) \-2
+
+( hiraday me.n saajan kii aas hai
+naino.n me.n darashan kii pyaas hai ) \-2
+dono.n kii pyaas hai bujhaanaa
+balam ghar jaanaa
+piyaa ke ghar jaanaa hai
+
+aaj mohe saajan ghar jaanaa
+balam ghar jaanaa
+piyaa ke ghar jaanaa hai
+%
+#endindian
+\endsong
+

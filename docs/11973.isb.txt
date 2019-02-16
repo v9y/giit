@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{mujhako agar ijaazat ho to mai.n ik giit sunaa_uu.N}%
+\film{Ishq Ishq Ishq}%
+\year{1974}%
+\starring{Dev Anand, Zeenat Aman, Prem Nath, Kabir Bedi, Shabana Azmi, Nadira}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10775 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mujhako agar ijaazat ho to mai.n ik giit sunaa_uu.N
+mahafil me.n shaamil ho kar aapakaa dil bahalaa_uu.N
+
+aapake qadam uThe yuu.N merii aavaaz se
+aa ga_e kuchh sher yaad husn ke a.ndaaz se
+mujhako agar ijaazat ho to aage baat ba.Dhaa_uu.N
+mahafil me.n shaamil ho \threedots
+
+is maze kii raat me.n chaa.Ndanii kaa naam luu.N
+aapasaa ko_ii nahii.n mai.n kisakaa naam luu.N
+mujhako agar ijaazat ho to naam ko_ii le jaa_uu.N
+mahafil me.n shaamil ho \threedots
+%
+#endindian
+\endsong
+

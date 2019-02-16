@@ -1,0 +1,88 @@
+
+%
+\startsong
+\stitle{bu_appaa ... zindagii hai kyaa bolo}%
+\film{Satyakam}%
+\year{1969}%
+\starring{Dhamendra, Sharmila Tagore, Sanjiv Kumar}%
+\singer{Mukesh, Mahendra Kapoor, Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Kaifi Aazmi}%
+%
+% Contributor: BOL ANAMOL #11110 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+bu_appaa \-3
+ma \:	zindagii hai kyaa bolo zindagii hai kyaa
+ko \:	zindagii hai kyaa bolo
+
+ki \:	zindagii hai laTTuu \-2
+	chaahe jahaa.N nachaa lo chaahe jidhar ghumaa lo
+	bhaa.De kaa jaise TaTTuu laTTuu
+	zindagii hai laTTuu
+
+	zindagii hai la.Dakii
+ko \:	la.Dakii
+ki \:	zindagii hai la.Dakii
+ma \:	la.Dakii kaa naam mat lo
+ki \:	kyo.n
+ma \:	usakaa salaam mat lo
+ki \:	kyo.n
+ma \:	la.Dakii banaa_e ka.Dakii la.Dakii
+
+ko \:	zindagii hai la.Dakii \-2
+	la.Dakii kaa naam mat lo
+ki \:	mat lo
+ko \:	usakaa salaam mat lo
+ki \:	mat lo
+ma \:	la.Dakii banaa_e ka.Dakii
+
+mu \:	laTTuu nahii.n hai la.Dakii nahii.n hai
+	zindagii hai sachchaa_ii
+	miTTii kii muurat jab sach bolii aadamii tab kahalaa_ii
+	aadamii hai kyaa bolo aadamii hai kyaa 
+ko \:	aadamii hai kyaa \threedots
+
+ki \:	aadamii hai bandar
+	roTii uThaake bhaage kapa.De churaake bhaage
+	kahalaa_e vo sikandar bandar
+	aadamii hai bandar
+ko \:		aadamii hai bandar
+
+ma \:	aadamii hai charakhaa
+	are chuu.N chuu.N hameshaa bole gho.n gho.n hameshaa Dole
+	rukate kabhii na dekhaa
+	dekhaa aadamii hai charakhaa
+mu \:	bandar nahii.n hai charakhaa nahii.n hai
+	aadamii kaa kyaa kahanaa
+	pyaar\-mohabbat fitarat usakii dostii mazahab usakaa
+	dostii hai kyaa bolo dostii hai kyaa
+ko \:	dostii hai kyaa  \threedots
+
+ki \:	dostii hai moTar are dostii hai moTar
+	sab jisame.n ghuumate hai.n
+ma \:	mastii me.n jhuumate hai.n
+ki \:	jab tak ki ho na pa.nchar
+ko \:	dostii hai moTar
+
+ma \:	dostii hai lassii uhuu.N aahuu.N
+	dostii hai lassii
+	oye pii lo zaraa na chho.Do bhuul se bhii na to.Do
+	jaaduu kii hai ye rassii
+ko \:	dostii hai rassii
+
+mu \:	lassii nahii.n hai rassii nahii.n hai
+	dostii dil kii dha.Dakan
+	dushmanii saharaa\-saharaa gar dostii gulashan\-gulashan
+ko \:	dostii gulashan\-gulashan
+bu_appaa \-3
+uhuu.N aahuu.N
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{puuchho zaraa puuchho mujhe kyaa hu_aa hai}%
+\film{Raajaa Hindustaani}%
+\year{1996}%
+\starring{Aamir, Karisma, Suresh Oberoi, Johny Lever, Navneet Nishan, Farida}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+puuchho zaraa puuchho mujhe kyaa hu_aa hai
+kaisii bekaraarii hai kaisaa nashaa hai
+tum se dil lagaane kii sazaa hai
+raajaa jii tum se dil \threedots
+
+ruuThaa hai kyuu.n raajaa mujhase khafaa hai
+kaisii berukhii hai mere dil ko pataa hai
+tum se dil lagaane \threedots
+
+kaa.NTe ho.n yaa kaliyaa.n ho.n bas mahabuub kii galiyaa.n ho.n
+saath tumhaare chalanaa hai ishq kii aag me.n jalanaa hai
+chiir ke dekho dil meraa isape likhaa hai naam teraa
+diivaanagii kyaa chiiz hai diivaano.n ko bas hai pataa
+puuchho zaraa puuchho \threedots
+
+chho.D ke tumako kidhar jaa_e.n ham to tere bin mar jaa_e.n
+jii karataa kuchh kar jaa_e.n pyaar me.n had se guzar jaa_e.n
+ham vo nahii.n jo Dar jaa_e.n vaadaa karake mukar jaa_e.n
+is pyaar kaa takaraar kaa chaahat kaa hai apanaa mazaa
+puuchho zaraa puuchho \threedots
+%
+#endindian
+\endsong
+

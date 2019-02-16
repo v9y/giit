@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{har dil jo pyaar karegaa vo gaanaa gaayegaa}%
+\film{Sangam}%
+\year{1964}%
+\starring{Raj Kapoor, Vyjayantimala, Rajendra Kumar}%
+\singer{Mukesh, Lata, Mahendra Kapoor}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+har dil jo pyaar karegaa vo gaanaa gaayegaa
+diivaanaa sai.nka.Do.n me.n pahachaanaa jaayegaa
+diivaanaa   \threedots
+
+aap hamaare dil ko churaa ke aa.Nkh churaaye jaate hai.n
+ye ik_tarafaa rasam\-e\-vafaa ham phir bhii nibhaaye jaate hai.n
+chaahat kaa dastuur hai lekin, aap ko hii maaluum nahii.n, o~ o~ o~
+jis mahafil me.n shamaa ho, paravaanaa jaayegaa
+diivaanaa sai.nka.Do.n me.n   \threedots
+
+bhuulii bisarii yaade.n merii ha.Nsate gaate bachapan kii
+yaad dilaa ke chalii aatii.n hai.n, nii.nd churaane nainan kii
+ab kah duu.Ngii, karate karate, kitane saavan biit gaye
+jaane kab in aa.Nkho.n kaa sharamaanaa jaayegaa
+diivaanaa sai.nka.Do.n me.n   \threedots
+
+apanii apanii sab ne kah lii, lekin ham chup chaap rahe
+dard paraayaa jisako pyaaraa vo kyaa apanii baat kahe
+khaamosii kaa ye afasaanaa rah jaayegaa baad mere
+apanaa ke har kisii ko begaanaa jaayegaa
+diivaanaa sai.nka.Do.n me.n   \threedots
+
+diivaanaa!
+
+%
+#endindian
+\endsong
+%

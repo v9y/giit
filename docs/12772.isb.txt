@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{rabbaa mere rabbaa rabbaa ... is pyaar ko mai.n kyaa naam duu.N}%
+\film{Mujhe Kuchh Kehna Hai}%
+\year{2001}%
+\starring{Kareena Kapoor, Tushar Kapoor, Rinki Khanna, Amrish Puri}%
+\singer{Sonu Nigam}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor:  V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+rabbaa mere rabbaa rabbaa rabbaa mere rabbaa
+
+is pyaar ko mai.n kyaa naam duu.N
+rabbaa mere rabbaa rabbaa rabbaa mere rabbaa
+is pyaar ko mai.n kyaa naam duu.N
+bechain dil ko kaise aaraam duu.N
+o bechain dil ko kaise aaraam duu.N
+is pyaar ko mai.n kyaa naam duu.N
+rabbaa mere rabbaa rabbaa rabbaa mere rabbaa
+
+tanahaa_ii betaabii terii saugaate.n hai.n
+mere in ho.nTho.n pe bas terii hii baate.n hai.n
+rabbaa mere rabbaa rabbaa rabbaa mere rabbaa
+
+kuchh naa kah paane kii ye kyaa majabuurii hai
+nazadiik rah ke bhii ye kaisii duurii hai
+khaamosh ho.nTho.n se kyaa paigaam duu.N
+o bechain dil ko \threedots
+
+had se jyaadaa terii chaahat mai.n karataa huu.N
+ye pataa nahii.n tujh ko mai.n tujh pe marataa huu.N
+rabbaa mere rabbaa rabbaa rabbaa mere rabbaa
+
+ye intahaa.n to dekho mere diivaanepan kii
+aawaaze.n sunataa huu.N mai.n terii dha.Dakan kii 
+is aaGaaz ko kyaa a.njaam duu.N 
+o bechain dil ko \threedots
+%
+#endindian
+\endsong

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{pal do pal kaa ye safar ... had kar dii aapane}%
+\film{Hadd Kar Di Aapne}%
+\year{2000}%
+\starring{Govinda, Rani Mukherji}%
+\singer{Udit Narayan, Kavita Subramaniam}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pal do pal kaa ye safar pal do pal kaa saath
+hamane ha.Nsakar aapase yuu.n hii kar lii baat
+aapane samajhaa ho ga_ii bin baadal barasaat
+oy hoy had kar dii aapane
+pal do pal kaa \threedots
+
+aap to lekar aa ga_e mere ghar baaraat
+oy hoy had kar dii aapane \threedots
+
+aap na maano aapake dil me.n chhipaa hai chor
+ik la.Dakii ko chhe.Dane kaa matalab kyaa hai aur
+maa.ng rahe ho dil aise jaise maa.nge khairaat
+oy hoy had kar dii aapane \threedots
+
+aa_o kar le.n dostii gussaa chho.Do yaar
+ham dono.n me.n ek din ho sakataa hai pyaar
+are naa din aisaa aa_egaa naa aa_egii vo raat
+haay had kar dii aapane \threedots
+
+aaj to kii hai phir mat karanaa ye bhuul
+ishq me.n kaa.NTe hai.n ba.De tho.De se hai.n phuul
+phuul ho.n yaa ho.n kaa.NTe lekin thaam lo meraa haath
+oy hoy had kar dii aapane \threedots
+%
+#endindian
+\endsong
+

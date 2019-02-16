@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mahaaraajaa amar rahe.n}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Female?, Male?}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+mahaaraajaa amar rahe.n
+amar rahe.n mahaaraanii
+ye siyaa\-raam kii jo.Dii o jii
+amar rahe.n mahaaraanii \-2
+
+mahaarajaa more raaj tumhaaraa
+aTal rahegaa is ban me.n
+maahaaraanii morii raaj tumhaaraa
+aTal rahegaa is ban me.n
+
+##saragam##
+
+mahaaraajaa amar rahe.n
+amar rahe.n mahaaraanii \-2
+mahaaraanii
+
+aa aa
+
+#endindian
+\endsong

@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{khaTTaa\-miiThaa ye jiinaa hai a.nguur kaa daanaa}%
+\film{Khattaa Meethaa}%
+\year{1977}%
+\starring{Ashok Kumar, Rakesh Roshan, Bindiya Goswami, Pradeep Kumar, David}%
+\singer{Kishor, Usha}%
+\music{Rajesh Roshan}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10415 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ko \:	khaTTaa\-miiThaa \-4
+ki \:	ye jiinaa hai a.nguur kaa daanaa
+uu \:	kuchh kachchaa hai kuchh pakkaa hai
+ki \:	are jitanaa khaayaa miiThaa thaa
+	jo haath naa aayaa khaTTaa hai
+ko \:	ye jiinaa hai \threedots
+
+ki \:	ye ghuumataa pahiyaa gol rupaiyaa haath naa aa_e re \-2
+	are mai.n huu.N isake saath ai saathii saath naa jaa_e re \-2
+	are haay haay haay haay haay dil bole
+	ki haay dil bole 
+	haath naa aa_e to samajho hai sapanaa
+	jeb me.n hai to maal hai apanaa
+	ye jiinaa hai \threedots
+
+	jii ke dekho jiine vaale yuu.N bhii jiite hai.n \-2
+uu \:	din kii chaadar phaT jaa_e to raat ko siite hai.n \-2
+ki \:	are haay haay haay haay haay dil bole
+	ki haay dil bole 
+uu \:	tho.Daa saa ro ke tho.Daa saa ha.Nsanaa
+	tho.Daa saa rukanaa tho.Daa saa chalanaa
+	ye jiinaa hai \threedots
+%
+#endindian
+\endsong
+

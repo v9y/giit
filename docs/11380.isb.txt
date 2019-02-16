@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tumhii.n rahanumaa ho merii zindagii ke}%
+\film{Doraahaa}%
+\year{1971}%
+\starring{Anil Dhawan, Radha Saluja, Iftikhar, Sanjana}%
+\singer{Asha}%
+\music{Sapan-Jagmohan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11527 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+tumhii.n rahanumaa ho merii zindagii ke
+bigaa.Do mujhe yaa sa.Nvaaro mujhe
+mujhe sharm kaisii mere saath tum ho
+kisii raaste se guzaaro mujhe
+tumhii.n rahanumaa ho \threedots
+
+tumhaare li_e to mai.n mar ke bhii jii luu.N
+sharaab to kyaa hai zahar bhii mai.n pii luu.N
+lage Dagamagaane qadam aaj mere
+sahaaraa to do ai sahaaro.n mujhe
+tumhii.n rahanumaa ho \threedots
+
+mai.n huu.N laaj ghar kii tumhaarii aaratii huu.N
+magar mahafilo.n kii shamaa ban ga_ii huu.N
+meraa ab yahaa.N se palaTanaa hai mushqil
+bhale hii kahii.n se pukaaro mujhe
+tumhii.n rahanumaa ho \threedots
+%
+#endindian
+\endsong
+

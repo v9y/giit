@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{mai.n pyaasaa tum saavan}%
+\film{Faraar}%
+\year{1975}%
+\starring{Amitabh Bachchan, Sharmila Tagore, Sanjeev Kumar, Sulochana}%
+\singer{Kishor, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11560 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mai.n pyaasaa tum saavan
+mai.n dil tum merii dha.Dakan
+( ho naa
+huu.N to ) \-2
+mai.n pyaasaa tum \threedots
+
+aa.Nkho.n ko jab band karuu.N mai.n sapane ye samajhaa_e.N
+pyaar binaa ye jiivan phiikaa sapane tumhaare aa_e.N
+man se man kii Dorii kaa tumhii.n ho bandhan
+( ho naa
+huu.N to ) \-2
+mai.n pyaasaa tum \threedots
+
+mai.n jab chhe.Duu.N dil ke taraane chupake se sun lenaa
+ye naGme.n ye pyaar ke naGme.n dhiire se chun lenaa
+teraa\-meraa rishtaa jaise Kushbuu aur chandan
+( ho naa
+huu.N to ) \-2
+mai.n pyaasaa tum \threedots
+
+maine jab\-jab anjaane dekhii haath kii rekhaa
+mai.n batalaa duu.N us rekhaa me.n tumane mujhe hii dekhaa
+mai.n to ek paraa_ii huu.N tum ho mere darpaN
+( ho naa
+huu.N to ) \-2
+mai.n pyaasaa tum \threedots
+%
+#endindian
+\endsong
+

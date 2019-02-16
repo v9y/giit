@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{ek thaa abdul rahamaan ek thii abdul rahamaniyaa}%
+\film{Manmauji}%
+\year{1962}%
+\starring{Sadhna, Kishore Kumar, Naaz}%
+\singer{Kishor, Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10578 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	ek thaa abdul rahamaan
+la \:	sachchii
+ki \:	haa.N
+	ek thaa abdul rahamaan ek thii abdul rahamaniyaa
+	ab mai.n huu.N ik manamaujii tuu ban jaa manamaujaniyaa.N ho ho ho ho
+la \:	sun\-sun mere manamaujii mai.n huu.N terii sajaniyaa.N
+	tuu kar de ek ishaaraa mai.n chho.Duu.N saarii duniyaa ho ho ho
+
+ki \:	mai.n diivaanaa aavaaraa mujhako log kahe.n naakaaraa
+	zaraa soch le
+	besahaare ko banaayaa tuune apanaa sahaaraa
+	zaraa soch le
+la \:	ho ( maine taajamahal kab maa.Ngaa ) \-2
+	tuune pyaar diyaa jab maa.Ngaa \-2
+	sun shaahajahaa.N mere dil ke
+	mai.n huu.N dil se terii shaahajahaniyaa.N \-3
+ki \:	ek thaa abdul rahamaan \threedots
+la \:	ab tuu hai ik manamaujii mai.n terii manamaujaniyaa.N
+do \:	ho ho ho ho
+
+la \:	raajaa mujhe kaa.Nch kii tuu chuu.Dii laa de \-2
+	sone ke naa chaa.Ndii ke mai.n maa.Nguu.N vaade
+	dukh sukh tere\-mere aadhe\-aadhe
+	raajaa mujhe kaa.Nch kii tuu chuu.Dii laa de
+ki \:	gariibo.n kii mohabbat zamaane se niraalii
+	iraade ba.De\-ba.De aur jebe.n khaalii\-khaalii \-2
+la \:	tuu jo pyaar se mujhe de\-de
+	mujhe pyaarii hai terii do_aniyaa.N
+	terii do_aniyaa.N ho terii do_aniyaa.N
+ki \:	ik thaa abdul rahamaan \threedots
+la \:	ab tuu hai ik \threedots
+
+ki \:	teraa ek nazaaraa kaafii hai mere li_e \-2
+	zulfo.n kaa sahaaraa kaafii hai mere li_e
+	aa.Nkho.n kaa ishaaraa kaafii hai mere li_e ho ho
+	teraa ek nazaaraa kaafii hai mere li_e
+la \:	ho raajaa dekh liyaa tujhe jab se \-2
+	maine chaa.Nd naa dekhaa tab se \-2
+	tuune duniyaa hii dil kii badal dii
+do \:	ai mohabbat terii meharabaaniyaa.N \-3
+ki \:	ik thaa abdul rahamaan \threedots
+la \:	sun\-sun mere manamaujii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,32 @@
+% 
+\startsong
+\stitle{Duub gae aakaash ke taare}%
+\film{Angaare}%
+\year{1954}%
+\starring{Naseer Khan, Nargis, Nanda, Pran}%
+\singer{Talat}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/10/1996
+%
+\printtitle
+#indian
+%
+Duub gae aakaash ke taare, jaake na tum aae
+takate takate nainaa haare, jaake na tum aae
+
+Duub ga_ii baago.n se bahaare.n, phail gae patajha.D ke saae
+lekin tumako apane vaade, bhuule se bhii yaad na aae
+Duub gae \threedots
+
+bahate bahate chaa.Nd kii kashtii, duur gagan me.n khone lagii
+aas kii ek nanhii sii kiraN thii, voh bhii ojhal hone lagii
+Duur gae \threedots
+%
+#endindian
+\endsong
+%
+

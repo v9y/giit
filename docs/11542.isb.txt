@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{maaTii re maaTii re}%
+\film{God Mother}%
+\year{1998}%
+\starring{Shabana Azami, Milind Gunaji, Nirmal Pandey}%
+\singer{Lata}%
+\music{Vishal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maaTii re maaTii re maaTii re maaTii re
+rut aa_e din aa_e jo aa_e dukh laa_e
+dekh le hamane kaise umariyaa kaaTii re
+maaTii re maaTii re \threedots
+
+des chhuuTaa gaa.nv chhuuTaa chhuuTe ghar aa.ngan
+kaaT hii Daale dukho ne janmo.n ke ba.ndhan
+dard ne hii dil kii khaa_ii paaTii re
+maaTii re maaTii re \threedots
+
+ghaat kaisii kar gayaa mujhse meraa jiivan
+kisakaa mukh dikhalaa rahaa hai tujhako ye darpaN
+ho ga_ii kaise mai.n itanii naaTii re
+maaTii re maaTii re \threedots
+%
+#endindian
+\endsong
+

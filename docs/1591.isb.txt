@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{safar me.n dhuup to hogii, jo chal sako to chalo}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{Jagjit Singh}%
+\lyrics{Nida Fazli}%
+% 
+% Contributor: Vinaya (vinaya@subsys.enet.dec.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Jan 17 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  From the Echoes-1 album
+%
+\printtitle
+#indian
+%
+safar me.n dhuup to hogii, jo chal sako to chalo
+sabhii hai.n bhii.D me.n, tum bhii nikal sako to chalo
+
+kisiike vaasate raahe.n kahaa.N badalatii hai.n
+tum apane aap ko Kud hii badal sako to chalo
+
+yahaa.N kisiiko koii raasataa nahii.n detaa
+mujhe giraake agar tum sambhal sako to chalo
+
+yahii hai zi.ndagii, kuchh Kaak cha.nd ummiide.n
+inhii khilauno.n se tum bhii bahal sako to chalo
+%
+#endindian
+\endsong
+%

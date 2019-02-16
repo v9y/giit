@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{tere bachapan ko javaanii kii duaa detii huu.N}%
+\film{Mujhe Jeene Do}%
+\year{}%
+\starring{Sunil Dutt, Waheeda Rehman, Nirupa Roy}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Preetham Gopalaswamy (preetham@eng.umd.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% This song is sung by a mother (Waheeda) to her child as a "lori".   The
+% father (Sunil Dutt) is a "daaku" and is on the run from the law.  Hence the
+% entire family is constantly in hiding, moving from place to place hoping
+% to remain undetected.   This song is basically an expression of how the
+% sins of the parents visit the children.
+% The "dard" and softness in Lata's voice as she sings this song makes it
+% one of the most moving songs I have heard.
+%
+tere bachapan ko javaanii kii duaa detii huu.N
+aur duaa deke pareshaan sii ho jaatii huu.N
+
+mere munne mere gulazaar ke nanhe paudhe
+tujhako haalat kii aa.ndhii se bachaane ke liye
+aaj mai.n pyaar ke aa.nchal me.n chhupaa letii huu.N
+kal ye kamazor sahaaraa bhii na haasil hogaa
+kal tujhe kaa.nTo.n bharii raaho.n pe chalanaa hogaa
+zi.ndagaanii kii ka.Dii dhuup me.n jalanaa hogaa
+tere bachapan ko javaanii \threedots
+
+tere maathe pe sharaafat kii koI mohar nahii.n
+cha.nd hote hai.n muhabbat ke sukuun hii kyaa hai.n
+jaise maao.n kii muhabbat kaa koI mol nahii.n
+mere maasuum farishte tuu abhii kyaa jaane
+tujhako kis\-kisakii gunaaho.n kii sazaa milanii hai
+diin aur dharm ke maare hue i.nsaano.n kii
+jo nazar milanii hai tujhako vo khafaa milanii hai
+tere bachapan ko javaanii \threedots
+
+be.Diyaa.N leke lapakataa huaa kaanuun kaa haath
+tere maa.N\-baap se jab tujhako milii ye saugaat
+kaun laaegaa tere vaaste khushiyo.n kii baaraat
+mere bachche tere a.njaam se jii Darataa hai
+terii dushman hii na saabit ho javaanii terii
+khaak jaatii hai jise sochake mamataa merii
+usii a.njaam ko pahu.nche na kahaanii terii
+tere bachapan ko javaanii \threedots
+%
+#endindian
+\endsong
+%

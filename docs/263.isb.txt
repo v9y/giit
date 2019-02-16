@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{bahut pyaar karate hai.n, tum ko sanam, qasam chaahe le lo}%
+\film{Saajan}%
+\year{}%
+\starring{Madhuri, Sanjay Dutt, Salman Khan}%
+\singer{S P Balasubramaniam / Anuradha Paudwal}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Parimal, Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bahut pyaar karate hai.n, tum ko sanam (2)
+kasam chaahe le lo (2)
+khudaa kii kasam
+
+hame.n har gha.Dii, aarazU hai tumhaarii (2)
+hotii hai kaisii, sanam bekaraarii
+mile.nge jo tum ko to (2)
+bataaye.nge ham
+bahut pyaar \threedots
+
+hamaarii gajal hai, tassavur tumhaaraa (2)
+tumhaare binaa ab, naa jiinaa hamaaraa
+tumhe yU.n hii chaahe.nge (2)
+jab tak hai dam
+bahut pyaar \threedots
+
+saagar kii baaho.n me.n, mauje.n hai.n jitanii (2)
+hamako bhii tumase, muhabbat hai utanii
+ke ye bekarArI naa (2)
+ab hogii kam
+bahut pyaar \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% ITRANS SONG # 3271; Created on Jan 26, 2004
+%
+% From: K Vijay Kumar (donotreply@interbulletin.bogus)
+% Date: 2001-03-07 11:01:52 PST
+%
+\startsong
+\stitle{ambuaa kii Daarii pe bole re koyaliyaa}%
+\film{Dahej}%
+\year{1950}%
+\starring{Jaishree, Karan Deewan, Prithviraj Lalita Pawar}%
+\singer{Jayshree}%
+\music{Vasant Desai}%
+\lyrics{Shums Lucknowi}%
+%
+% Contributor: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+ambuaa kii Daarii pe bole re koyaliyaa
+priit na karanaa ajii, priit na karanaa jii
+bole re koyaliyaa \threedots
+
+sulag sulag mai.n kaalii bhayii
+koyalaa banii naa raakh
+jal jal ke maranaa ajii, priit na karanaa jii
+bole re koyaliyaa \threedots
+
+shahad ke andar zahar bharaa hai
+pataa nahii.n vo kis ne kiyaa hai
+aahe.n na bharanaa ajii, priit na karanaa jii
+bole re koyaliyaa \threedots
+
+khushabuu se tum mast na honaa
+kaa.NTo.n ko haatho.n se na chhuunaa
+phuulo.n se Daranaa ajii, priit na karanaa jii
+bole re koyaliyaa \threedots
+%
+#endindian
+\endsong
+%

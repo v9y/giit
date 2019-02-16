@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{ye meraa jiivan tere li_e hai}%
+\film{Baabu}%
+\year{1983}%
+\starring{Rajesh Khanna, Hema Malini, Mala Sinha, Rati Agnihotri, Deepak Parashar, Navin Nishchal}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11321 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye meraa jiivan tere li_e hai
+jiivan kaa sapanaa tere li_e hai
+maa.Ng le ha.Ns ke kyaa chaahi_e tujhe
+merii to duniyaa tere li_e hai
+ye meraa jiivan \threedots
+
+Daalii pe baiThii chhoTii sii chi.Diyaa
+kaa.Ndhe pe mere nanhii.n sii gu.Diyaa
+chi.Diyaa se bhii sundar merii gu.Diyaa
+ye meraa jiivan \threedots
+
+dekhaa thaa sapanaa jo zindagii kaa
+ye bhii to vaisaa hii din hai Kushii kaa
+jiine kaa Dha.ng tujhase maine siikhaa
+ye meraa jiivan \threedots
+
+maano badal jaa_e dono.n kii ma.nzil
+phir bhii rahegaa saath meraa dil
+chaahe.nge to milanaa nahii.n mushqil
+ye meraa jiivan \threedots
+%
+#endindian
+\endsong
+

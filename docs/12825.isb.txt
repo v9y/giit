@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{laharaa ke bal khaa ke ... sharaaraa sharaaraa mai.n huu.N ik sharaaraa}%
+\film{Mere Yaar Ki Shaadi Hai}%
+\year{2002}%
+\starring{Jimmy Shergil, Uday Chopada, Sanjana}%
+\singer{Asha, Chorus}%
+\music{Jiit Pritam}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laharaa ke bal khaa ke laharaa ke bal khaa ke
+bal khaa ke laharaa ke
+aag lagaa ke dilo.n ko jalaa ke
+karuu.N mai.n ishaaraa
+sharaaraaa sharaaraa mai.n huu.N ik sharaaraa
+sharaaraa sharaaraa \threedots
+
+sholaa hai ye tan meraa are dekho tum paas na aanaa
+shamaa ke jo paas aayaa are jalataa hai vo hii paravaanaa
+o mere diivaano.n baat ko samajho
+duur se dekho meraa ye nazaaraa
+sharaaraa sharaaraa \threedots
+
+bijalii banake giratii huu.N mai.n naagin ban ke Dasatii huu.N
+chhiine hosh jo sabake mai.n hii to aisii mastii huu.N
+o ra.ng chhalakaa duu.N saa.Nse.n mahakaa duu.N
+pal me.n dha.Dakaa duu.N mai.n ye dil tumhaaraa
+sharaaraa sharaaraa \threedots
+%
+#endindian
+\endsong
+

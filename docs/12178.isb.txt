@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{jo pyaar kar ga_e vo log aur the ... dil me.n utar ga_e vo log aur the}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo pyaar kar ga_e vo log aur the
+dil me.n utar ga_e vo log aur the
+jo pyaar kar ga_e \threedots
+
+gulashan ke phuul phuul pe shabanam kii buu.nd thii
+ha.Ns kar bichhu.D ga_e vo log aur the
+dil me.n utar ga_e \threedots
+
+marate rahe.nge ham pe ye jiine kii chaah me.n
+kah kar mukar ga_e vo log aur the
+dil me.n utar ga_e \threedots
+%
+#endindian
+\endsong
+

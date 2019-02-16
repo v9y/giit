@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere bin suunii, nain hamaare}%
+\film{Meri Soorat Teri Aankhen}%
+\year{1963}%
+\starring{Ashok Kumar, Mala Sinha, Pradeep Kumar}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: Pankaj Vyas / K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tere bin suunii, nain hamaare 
+haay! tere bin suunii
+baaT takat gaye saa.Njh sakhaare
+haay! tere bin suunii
+
+raat jo aaye Dhal jaaye pyaasii
+din kaa hai duujaa naam udaasii
+nindiyaa na aaye ab mere dvaare
+haay! tere bin suunii   \threedots
+
+jag me.n rahaa mai.n jagase paraayaa
+saayaa bhii meraa mere saath na aayaa
+ha.Nsane ke din bhii roke guzaare
+haay! tere bin suunii   \threedots
+
+o anadekhe, o anajaane
+chhup ke na gaa ye prem taraane
+kaun hai tuu mohe ab to bataa re
+haay! tere bin suunii   \threedots
+
+%
+#endindian
+\endsong
+%

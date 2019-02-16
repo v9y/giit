@@ -1,0 +1,43 @@
+% ITRANS Song #21330
+% 
+\startsong
+\stitle{nit nit ke ruuthanewaale saajan}%
+\film{Iraada}%
+\year{1944}%
+\starring{}%
+\singer{Hemant Kumar, Radharani}%
+\music{Pandit Amarnath}%
+\lyrics{Aziz Kashmiri}%
+% 
+% Audio on: Surjit Singh's Website
+% Tags: Romance
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 29 Dec 2007
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20090905.
+%
+\printtitle
+#indian
+%
+ra: nit nit ke ruuThanewaale saajan
+    tum diip bano mai.n pata.ng banuu.N
+he: nahii.n
+    tum diip bano mai.n pata.ng banuu.N
+do: phir dono.n mil kar jal jaa_e.N
+ra: nit nit ke duHkh me.n sukh paa_e.N
+
+he: mai.n raakh banuu.N aur u.D jaa_uu.N
+ra: mai.n pavan ruup me sa.ng chaluu.N
+    nit nit ke ruuThanewaale saajan \threedots
+
+ra: mai.n kalii banuu.N aur khiluu.N nahii.n
+he: mai.n bha.Nwaraa banuu.N aur miluu.N nahii.n
+ra: mai.n khil kar tum par phuul banuu.N
+he: mai.n phuul kaa sundar ra.ng banuu.N
+    nit nit ke ruuThanewaale saajan \threedots
+
+%
+#endindian
+\endsong

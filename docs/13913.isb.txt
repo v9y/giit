@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dilabar dilabar hosh naa khabar hai}%
+\film{Sirf Tum}%
+\year{1999}%
+\starring{Sanjay Kapur, Priya Gil, Jackie, Sushmita, Mohnish, Johny Lever}%
+\singer{Alka Yagnik, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dilabar dilabar haa.n dilabar dilabar
+hosh naa khabar hai ye kaisaa asar hai
+tumase milane ke baad dilabar
+dard hai chubhan hai kyaa diivaanaapan hai
+tumase milane ke baad dilabar
+dilabar dilabar \threedots
+
+tuu meraa khvaab hai tuu mere dil kaa karaar
+dekh le jaa\-e\-man dekh le bas ek baar
+chuum le jism ko hamanashii.n paas aa
+chain kho gayaa hai kuchh to ho gayaa hai
+tumase milane ke baad dilabar
+dilabar dilabar \threedots
+
+ishq betaab hai husn kii mahakii bahaar
+duuriyaa.n kisali_e kisali_e ab intazaar
+TuuTataa hai badan kyaa hu_aa kyaa pataa
+pyaas me.n Dhalii huu.N raat din jalii huu.N
+tumase milane ke baad dilabar
+dilabar dilabar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{meraa jiivan kuchh kaam naa aayaa}%
+\film{Meraa Jeewan}%
+\year{1976}%
+\starring{Vidya Sinha, Ambika Jauhar, Dushyant, Satyen Kappu, Jairaj, Shivraj}%
+\singer{Kishor}%
+\music{Sapan Jagmohan}%
+\lyrics{M G Hashmat}%
+%
+% Contributor: BOL ANAMOL #10355 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( meraa jiivan ) \-2 kuchh kaam naa aayaa
+jaise suukhe pe.D kii chhaayaa \-2
+
+o apano.n ke hote hu_e man me.n basii tanhaa_ii
+ho aa.Nsuu banaa ke Kushii aa.Nkho.n se maine barasaa_ii
+ho Kushiyo.n ko rote\-rote duniyaa me.n ab to meraa jii ghabaraayaa
+meraa jiivan \threedots
+
+o baras ga_e re saavan dariyaa bhii josh me.n aa_e
+ho phuul bhii khilane lage kaliyo.n ke man muskaa_e
+suunii rahii ek Daalii usape to ko_ii ab tak phuul naa aayaa
+meraa jiivan \threedots
+
+o jiine ko jii naa chaahe maa.Nguu.N to maut naa aa_e
+ho saa.Nso.n ke chalane ko to jiivan kahaa nahii.n jaa_e
+ho dard basaa ke dil me.n meraa nasiib mujhako kahaa.N pe laayaa
+meraa jiivan \threedots
+%
+#endindian
+\endsong
+

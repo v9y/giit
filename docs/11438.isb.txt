@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chaa chaa ... udhar vo chaal chalate hai.n}%
+\film{Ek Musafir Ek Hasina}%
+\year{1962}%
+\starring{Joy Mukherjee, Sadhana}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #11465 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+chaa chaa chaa
+udhar vo chaal chalate hai.n idhar ham jaan lete hai.n
+nazar pahachaanane vaale nazar pahachaan lete hai.n \-2
+udhar vo chaal \threedots
+
+agar tum ha.Ns ke dekhoge to ham phir muskaraa le.nge
+bachaakar aa.Nkh nikaloge nazar ham bhii phiraa le.nge
+tum apanaa raastaa loge ham apanaa raastaa le.nge
+na ham ehasaan karate hai.n na ham ehasaan lete hai.n
+nazar pahachaanane \threedots
+
+tumhe.n hamase mohabbat hai zaruurat kyaa jataane kii
+inhe.n parade me.n rahane do ye baat hai chhupaane kii
+hame.n aadat nahii.n jhuuThii qasam khaane\-khilaane kii
+na ham iimaan dete hai.n na ham iimaan lete hai.n 
+nazar pahachaanane \threedots
+%
+#endindian
+\endsong
+

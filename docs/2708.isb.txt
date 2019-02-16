@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{suunii suunii saa.Ns kii sitaar par}%
+\film{Laal Pathhar}%
+\year{}%
+\starring{Raj Kumar, Hema Malini, Rakhee, Vinod Mehra}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+suunii suunii saa.Ns kii sitaar par
+bhiige bhiige aa.Nsuo.n kii taar par
+ek giit sun rahii hai zi.ndagii
+ek giit gaa rahii hai zi.ndagii
+suunii suunii saa.Ns kii sitaar par \threedots
+
+pyaar jise kahate hai.n
+khel hai khilonaa hai
+aaj ise paanaa hai kal ise khonaa hai
+suunii suunii saa.Ns kii sitaar par
+bhiige bhiige aa.Nsuo.n kii taar par
+ek sur milaa rahii hai zi.ndagii
+ek sur vbhulaa rahii hai zi.ndagii
+suunii suunii saa.Ns kii sitaar par \threedots
+
+koii kalii gaatii hai
+koii kalii rotii hai
+koii aa.Nsuu paanii hai
+koii aa.Nsuu motii hai
+suunii suunii saa.Ns kii sitaar par
+bhiige bhiige aa.Nsuo.n kii taar par
+kisii ko ha.Nsaa rahii hai zi.ndagii
+kisii ko rulaa rahii hai zi.ndagii
+suunii suunii saa.Ns kii sitaar par \threedots
+
+%
+#endindian
+\endsong
+%

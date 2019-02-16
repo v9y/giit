@@ -1,0 +1,30 @@
+% 
+\startsong
+\stitle{jab tum hii nahii.n apane, duniyaa hii begaanii hai}%
+\film{Parwaana}%
+\year{1947}%
+\starring{Suraiyya, Saigal}%
+\singer{Suraiyya}%
+\music{Khurshid Anwar}%
+\lyrics{D N Madhok}%
+% 
+% Contributor: Ramesh Hariharan <rameshh@acad1.tp.ac.sg>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+jab tum hii nahii.n apane, duniyaa hii begaanii hai
+ulfat jise kahate hai.n, ik jhuuThii kahaanii hai
+
+jaate hue kyo.n tumako, is dil kaa khayaal aataa
+ta.Dapaa ke chale jaanaa ik riit puraanii hai
+
+paravaane ke jalane pe, ha.Nsanaa na tamaashaaii
+ha.Nsatii huii shamaa bhii, ik raat kii raanii hai
+%
+#endindian
+\endsong
+%
+

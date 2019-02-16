@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{resham jaisii hai.n raahe.n}%
+\film{Ek Thaa Dil Ek Thi Dhadkan}%
+\year{1998}%
+\starring{Rajendra Kumar, Biswajeet, Inder Kumar, Arbaz, Isha Kopikar, Himani}%
+\singer{Abhijit}%
+\music{Anand Raj Anand}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+resham jaisii hai.n raahe.n khole hai.n baahe.n ye vaadiyaa.n
+mausam saare hai.n apane ra.ngiin sapane hai.n meharabaan
+yuu.n hii gaa_e.nge mil ke ham giit dil ke sadiyo.n yahaa.n
+resham jaisii hai.n raahe.n \threedots
+
+ho mahakii hai.n kaliyaa.n phuul khilate hai.n
+dekho jahaa.n ham dono.n milate hai.n
+kal ham na ho.nge ye bahaare.n phir bhii aa_e.ngii
+shaayad ye merii kahaanii doharaa_e.ngii
+ko_ii bhii to hamaaraa Dhuu.nDh le.ngii ye nishaan
+resham jaisii hai.n raahe.n \threedots
+
+ho aavaaz jaise guu.njii hai mere li_e duniyaa me.n tuu hii hai
+mar ke bhii jaanaa tere dar pe lauT aa_uu.ngaa
+ye dil teraa dil hathelii pe mai.n laa_uu.ngaa
+vaadaa hai ye meraa puuraa hogaa merii jaan
+resham jaisii hai.n raahe.n \threedots
+%
+#endindian
+\endsong
+

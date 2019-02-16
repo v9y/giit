@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{laharo.n pe lahar, ulfat hai javaa.n}% 
+\film{Chhabili}%
+\year{1960}%
+\starring{}%
+\singer{Hemant}%
+\music{Snehal Bhatkar}%
+\lyrics{S Ratan}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@du.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+laharo.n pe lahar, ulfat hai javaa.n 
+rAto.n kii sahar, chalii aao yahaa.N 
+sitaare TimaTimaate hai.n, tU aajaa aajaa 
+machalatii jaa rahI hai ye havaae.n aajaa aajaa 
+laharo.n pe lahar, ulfat hai javaa.n \threedots 
+
+sulagatii chaa.Ndanii me.n tham rahii hai tujh pe najar 
+kadam ye kis taraf ba.Dhate chale jaate hai.n bekhabar 
+zamaane ko hai bhuule ham ajab sI khvaab ye safar 
+laharo.n pe lahar, ulfat hai javaan \threedots 
+
+nA jaane kaunasii raahe.n hamArA kaun saa hai jahaan 
+sahaare kisake ham Dhuu.NDhe, hamaarii ma.njil hai kahaa.N 
+sadaa dil kii magar kahatii hai merI duniyaa hai yahaa.N 
+laharo.n pe lahar, ulfat hai javaa.n \threedots 
+%
+#endindian
+\endsong
+%

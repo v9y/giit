@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{muhabbat naam hai kisakaa shuruu kahaa.n se hotii hai}%
+\film{Dil Kitnaa Naadaan Hai}%
+\year{1996}%
+\starring{Raja, Rageshwari, Kiran Kumar, Aloknath, Rima, Munika, Deven Bhojani}%
+\singer{}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+muhabbat muhabbat muhabbat muhabbat
+muhabbat naam hai kisakaa shuruu kahaa.n se hotii hai
+kiyaa kisane ise paidaa khatm kahaa.n pe hotii hai
+muhabbat muhabbat \threedots
+
+muhabbat naam hai man kaa shuruu aa.Nkho.n se hotii hai
+kiyaa dil ne ise paidaa khatm saa.Nso.n pe hotii hai
+muhabbat muhabbat \threedots
+
+ho muhabbat me.n ye miiThaa dard saa kyuu.n dil me.n hotaa hai
+yahii to pyaar hai jaanam ke dil ha.Ns ha.Ns ke rotaa hai
+ko_ii puuchhe to kyaa batalaa_e.n hotii hai muhabbat kyaa
+ye vo anamol tohafaa hai Kudaa sabako nahii.n detaa
+muhabbat vo ibaadat hai jo dilavaalo.n se hotii hai
+kiyaa kisane ise paidaa \threedots
+
+ho muhabbat kyaa hai kaisii hai ye aakhir kyaa fasaanaa hai
+muhabbat ek jaaduu hai muhabbat ek karishmaa hai
+muhabbat kaisii hai jo dil ke a.ndar bhii hai baahar bhii
+ye sholaa bhii hai shabanam bhii ye shiishaa bhii hai patthar bhii
+ye dil kii aag hai aisii jo bas ashqo.n se hotii hai
+kiyaa kisane ise paidaa \threedots
+%
+#endindian
+\endsong
+

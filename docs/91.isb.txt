@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aanaa hai to aa raah me.n, kuchh pher nahii.n hai}%
+\film{Naya Daur}%
+\year{1957}%
+\starring{Dilip Kumar, Vyjayantimala, Ajit}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+AnA hai to A rAh me.n, kuchh pher nahI.n hai
+bhagavAn ke ghar der hai, andher nahI.n hai
+AnA hai to \threedots
+
+jab tujhase na sulajhe.n terI ulajhane.n
+?
+bhagavAn khud hI terI mushkilo.n ko AsAn karegA
+jo tU nahI.n kar pAyA to bhagavAn karegA
+AnA hai to \threedots
+
+kahane kI zarUrat nahI.n AnA hI bahut hai
+is dar pe terA shIsh jhukAnA hI bahut hai
+jo kuchh hai tere dil me.n vo sab usako khabar hai
+bande tere har hAl pe mAlik ko nazar hai
+AnA hai to \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{muhabbat kii hasii.n shuru_aat ... aap mujhe achchhe lagane lage}%
+\film{Aap Mujhe Achche Lagne Lage}%
+\year{2002}%
+\starring{Hritik Roshan, Ameesha Patel}%
+\singer{Alka Yagnik, Abhijit}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+muhabbat kii hasii.n shuru_aat ho ga_ii
+merii duniyaa mere sapane ab sajane lage
+ke aap mujhe achchhe lagane lage
+
+ma.nzile.n hai.n na_ii raaste hai.n na_e
+ham zamii.n se aasamaa.n tak ab u.Dane lage
+ke aap mujhe \threedots
+
+raaz kyaa hai zi.ndagii kaa khul gayaa khul gayaa
+dil kaa aa_iinaa khushii se dhul gayaa dhul gayaa
+ham bhii apanii ek duniyaa rakhane lage
+ke aap mujhe \threedots
+
+sochii samajhii ye mulaakaate.n nahii.n jii nahii.n
+haa.N aadamii ke bas kii ye baate.n nahii.n jii nahii.n
+rab ne chaahaa to ye dil yuu.N milane lage
+ke aap mujhe \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mai.n diivaanaa mastaanaa mushkil bhed meraa paa jaanaa}%
+\film{Forty Days/ Chaalees Din/ 40 Din}%
+\year{1959}%
+\starring{Shakeela, Premnath, K N Singh, Maruti, Shammi, Nishi, Cukoo, Satish Batra}%
+\singer{Mukesh}%
+\music{Babul}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #10065 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mai.n diivaanaa mastaanaa
+mushkil bhed meraa paa jaanaa
+mai.n diivaanaa mastaanaa \threedots
+
+duniyaa merii Thokar me.n tuufaa.n qaid mere saagar me.n
+saaraa zamaanaa meraa nishaanaa khel nahii.n mujhase Takaraanaa
+mushkil bhed meraa paa jaanaa \threedots
+
+charche mere panaghaT par roke raah machal ke dilabar
+mast javaanii merii diivaanii husn mujhe dil de nazaraanaa
+mushkil bhed meraa paa jaanaa \threedots
+
+dushman jhuuThe yaaro.n kaa sachchaa yaar vafaadaaro.n kaa
+yaaro.n sachchaa yaar vafaadaaro.n kaa
+to.D de patthar josh me.n aakar ye dil kaa naazuk paimaanaa
+mushkil bhed meraa paa jaanaa \threedots
+%
+#endindian
+\endsong
+

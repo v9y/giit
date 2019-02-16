@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{sadaqe hiir tujh pe ham faqiir sadaqe}%
+\film{Mera Naam Joker}%
+\year{1970}%
+\starring{Raj Kapoor, Manoj Kumar, Rishi Kapoor, Dharmendra, Dara Singh, Rajendra Kumar, Padmini, Simi Garewal, Achala Sachdev, Om Prakash, Ksiena Rabianka}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #12184 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+sadaqe hiir tujh pe ham faqiir sadaqe
+tujh se luT kar tere hii dwaar aaye
+tuu to phuulo.n kii sej pe jaa baiThii
+mere hisse me.n raaho.n ke Kaar aaye
+
+jhuuThe waade the tere wafaa jhuuThii
+khoTe saude me.n zindagii haar aaye
+yahii ishq hai to kah do duniyaa se
+kisii but pe na kisii ko pyaar aaye
+
+de\-de dil hamaaraa hame.n waapas
+jogii le kar yahii pukaar aaye
+aur maa.Nge.n jo kuchh to maut maa.Nge.n
+tere dar pe hai.n aaKirii baar aaye
+
+jogii le kar yahii pukaar aaye
+%
+#endindian
+\endsong
+

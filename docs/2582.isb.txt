@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ham se bhii kar lo kabhii kabhii to miiThii miiThii do baate.n}%
+\film{Milap}%
+\year{1955}%
+\starring{}%
+\singer{Geeta}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+ham se bhii kar lo kabhii kabhii to miiThii miiThii do baate.n
+
+mai.n bahaar kaa shokh phuul huu.N
+aqal mar miTe aisii bhuul huu.N
+dhulii dhulii hai.n dhulii dhulii hai.n raate.n
+kabhii kabhii to miiThii miiThii do baate.n
+ham se bhii kar lo \threedots
+
+chup ho kis liye baat to karo
+ha.Ns na paao to aah hii bharo
+dhulii dhulii hai.n dhulii dhulii hai.n raate.n
+kabhii kabhii to miiThii miiThii do baate.n
+ham se bhii kar lo \threedots
+
+dil ko pyaar se bhar ke dekh lo
+ye hasiin bhuul kar ke dekh lo
+dhulii dhulii hai.n dhulii dhulii hai.n raate.n
+kabhii kabhii to miiThii miiThii do baate.n
+ham se bhii kar lo \threedots
+
+%
+#endindian
+\endsong
+%

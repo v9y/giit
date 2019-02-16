@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{sajii nahii.n baarat to kyaa ... bin phere ham tere}% 
+\film{Bin Phere Hum Tere}%
+\year{1979}%
+\starring{Asha Parekh, Vinod Mehra, Sarika}%
+\singer{Kishore}%
+\music{Usha Khanna}%
+\lyrics{Indeevar}%
+%
+% Contributor:  Pradeep Dubey (pradeep@watson.ibm.com)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+sajii nahii.n baaraat to kyA 
+aaii nA milan kii raat to kyA 
+byaah kiyaa terI yaado.n se 
+gaThaba.ndhan tere vaado.n se 
+bin phere ham tere (3) 
+
+tan ke rishte TuuT bhI jaaye 
+TuuTe nA man ke bandhan 
+jisane diyaa mujhako apanaapan 
+usiikaa hai ye jIvan 
+baa.ndh liyaa man kA ba.ndhan 
+jIvan hai tujh par arpaN 
+sajii \threedots 
+
+tuune apanA maa.N liyaa hai 
+ham the kahaa.N is kaabil 
+jo ehasaan kiyaa jaan dekar 
+usako chukaanaa mushkil 
+deh banii nA dulhan to kyA 
+pahane nahii.n ka.Ngan to kyA 
+sajii \threedots 
+
+jisakaa hame.n adhikaar nahii.n thA 
+usakaa bhI balidaan diyaa 
+bhale bure ko ham kyA jaane 
+jo bhI kiyaa tere liye kiyaa 
+laakh rahe.n ham sharami.ndaa 
+magar rahe mamataa zindaa 
+sajii \threedots 
+
+% (the best one imo) 
+aa.Nch nA aaye naam pe tere 
+khaak bhale ye jIvan ho 
+apane jahaan me.n aag lagaa de.n 
+terA jahaan jo raushan ho 
+
+% (not sure about these last two lines) 
+tere liye dil to.D le.n ham 
+dil to kyA jag chho.D de.n ham 
+sajii \threedots 
+%
+#endindian
+\endsong
+%

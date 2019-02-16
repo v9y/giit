@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{husn chalaa kuchh aisii chaal ... pyaar kii qasam kamaal ho gayaa}%
+\film{Bluff Master}%
+\year{1963}%
+\starring{Shammi Kapoor, Saira Bano, Pran}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #10928 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	husn chalaa kuchh aisii chaal
+	diivaane kaa puuchh naa haal
+	pyaar kii qasam kamaal ho gayaa \-2
+la \:	dil ko ab tak hai i.nkaar
+	aa.Nkhe.n kar baiThii.n ikaraar
+	pyaar kii qasam kamaal ho gayaa \-2
+
+ra \:	ho o kabhii paas aa_e.N kabhii duur jaa_e.N
+	ke hai.n dil churaane kii laakho.n adaa_e.N
+la \:	nahii.n tiir nikalaa abhii tak kamaa.N se
+	ko_ii unase kah de ki dil ko bachaa_e.N \-2
+	ki dil ko bachaa_e.N
+ra \:	husn chalaa kuchh \threedots
+
+la \:	kahaa.N tak rahoge ye daaman bachaa ke
+	ke mushkil hai bachanaa nishaane pe aa ke
+ra \:	hamaaraa hai kyaa ham to miT ke rahe.nge
+	jahaa.N tumane dekhaa zaraa muskaraa ke \-2
+	zaraa muskaraa ke
+la \:	dil ko ab tak hai \threedots
+
+ra \:	ho o din hai.n tumhaare zamaanaa tumhaaraa
+	nigaahe.n idhar hai.n idhar hai ishaaraa
+la \:	ye paiGaam dete hai.n zulfo.n ke saa_e
+	chalaa aa_e jo hai mohabbat kaa maaraa \-2
+	mohabbat kaa maaraa
+ra \:	husn chalaa kuchh \threedots
+%
+#endindian
+\endsong
+

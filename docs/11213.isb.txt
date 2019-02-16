@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{naino.n me.n priit hai ho.nTho.n pe giit hai}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12533 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( naino.n me.n priit hai ho.nTho.n pe giit hai
+mai.n terii tuu meraa baalam terii\-merii jiit hai ) \-2
+
+o
+( duniyaa merii tere dam se
+mai.n huu.N terii janam\-janam se ) \-2
+dil ko hai mere teraa sahaaraa \-2
+tuu hii meraa miit hai \-2
+miit hai
+
+mai.n terii tuu meraa baalam terii\-merii jiit hai
+naino.n me.n priit hai ho.nTho.n pe giit hai
+mai.n terii tuu meraa baalam terii\-merii jiit hai
+
+( a.nkhiyaa.N dekhe.n teraa sapanaa
+tujh bin saajan ko_ii naa apanaa ) \-2
+aavo jii mil kar to.D de.n ham\-tum \-2
+duniyaa kii jo riit hai \-2
+riit hai
+
+mai.n terii tuu meraa baalam terii\-merii jiit hai
+naino.n me.n priit hai ho.nTho.n pe giit hai
+mai.n terii tuu meraa baalam terii\-merii jiit hai
+%
+#endindian
+\endsong
+%
+

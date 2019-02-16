@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{kabhii hai.n Gam kabhii khushiyaa.n}%
+\film{Waris}%
+\year{1954}%
+\starring{Talat, Suraiyya}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+kabhI hai.n Gam kabhI khushiyA.n yahI to zindagAnI hai
+kabhI lab par ha.NsI hai aur kabhI A.Nkho.n me.n pAnI hai
+kabhI hai.n Gam
+
+ne ghabarA AsamA.n par chhA gayA hai Aj agar bAdal \- 2
+ke ye bAdal hI chandA ke nikalane kI nishAnI hai \- 2
+kabhI hai.n Gam
+
+bharA karate hai.n zakhm\-e\-dil aur A.NsU bhI hai.n tham jAte \- 2
+aur A.NsU bhI hai.n tham jAte
+banAI jisane duniyA ye usI kI meharabAnI hai \- 2
+kabhI hai.n Gam \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{shekh jii tho.Dii pii kar aa_ie}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Sudarshan Faakir}%
+%
+% Contributor: Abhijit Chandavale
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+
+shekh jii tho.Dii sii pii kar aa_ie
+
+aap kyo.n hai.n saarii duniyaa se judaa?
+aap bhii dushaman mere ban jaa_ie    \threedots
+
+kyaa hai achchhaa, kyaa buraa bandaa na jaane
+aap samajhe to hame.n samajhaa_ie
+
+jaane diijiye akal kii baate.n janaab
+dil kii suniye aur piite jaa_ie
+
+ulajhane.n duniyaa kii sulajhaaye.nge ham
+aap aapanii zulfe.n to sulajhaa_iye
+
+shekh jii tho.Dii sii pii kar aa_ie
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{na tum bevafaa ho na ham bevafaa hai.n}%
+\film{Ek Kali Muskayee}%
+\year{1968}%
+\starring{Ashok Kumar, Joy Mukherji, Mehmood, Om Prakash, Lalita Pawar}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10564 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+na tum bevafaa ho na ham bevafaa hai.n \-2
+magar kyaa kare.n apanii raahe.n judaa hai.n
+na tum bevafaa \threedots
+
+jahaa.N Tha.nDii\-Tha.nDii havaa chal rahii hai \-2
+kisii kii mohabbat vahaa.N jal rahii hai
+zamii.n\-aasamaa.n hamase dono.n khafaa hai.n
+na tum bevafaa \threedots
+
+abhii kal talaq to muhabbat javaa.N thii \-2
+milan hii milan thaa judaa_ii kahaa.N thii
+magar aaj dono.n hii be_aasaraa hai.n
+na tum bevafaa \threedots
+
+zamaanaa kahe merii raaho.n me.n aajaa \-2
+muhabbat kahe merii baa.Nho.n me.n aajaa
+vo samajhe.n naa majabuuriyaa.N apanii kyaa hai.n
+na tum bevafaa \threedots
+%
+#endindian
+\endsong
+

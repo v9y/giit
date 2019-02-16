@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{jab se ham tum bahaaro.n me.n ho baiThe gum nazaaro.n me.n}%
+\film{Main Shaadi Karne Chala}%
+\year{1962}%
+\starring{I S Johar, Saida Khan, Rajendranath, Feroz Khan, Mumtaz, Tabassum}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Shashikant Joshi <rava0002@gold.tc.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 01/26/1996
+% Credits: Preetham Gopalaswamy <preetham@connectinc.com>
+%          David Anthony Windsor <daw601@anu.edu.au>
+%          Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Comments: There is also a Mukesh, Kamal Barot version of this
+%           song in the same film, but it has different lyrics.
+%           That version is also in the ITRANS Song Book - Rajiv (03/30/97)
+%
+\printtitle
+#indian
+%
+jab se ham tum bahaaro.n me.n ho baiThe gum nazaaro.n me.n
+jaise ye zi.ndagii pyaasii aa.Nkho.n kaa Kvaab hai
+
+ho.nTho.n pe pyaar kii, miiThii sii raaginii
+chahare pe aarazuu kii dhiimii\-dhiimii roshanii
+merii dha.Dakan, terii baate.n
+tere jalave, merii aa.Nkhe.n
+jaise ye roshanii, jaagii aa.Nkho.n kaa Kvaab hai
+
+jo nainaa mo.D ke, do nainaa jo.D de
+jo itanaa shokh hai vo sharmaanaa bhii chho.D de
+ye shokhii sii nigaaho.n kii
+ye chorii sii adaao.n kii
+jaise ye dillagii, jaagii aa.Nkho.n kaa Kvaab hai
+%
+#endindian
+\endsong
+%
+

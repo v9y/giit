@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{haay jhilamil jhilamil}%
+\film{Laal Batti}%
+\year{1957}%
+\starring{Balraj Sahni, Mala Sinha}%
+\singer{Lata, chorus}%
+\music{Salil Choudhary}%
+\lyrics{Majrooh}%
+%
+% Contributor: Balaji A S Murthy
+% Transliterator: Balaji A S Murthy
+% Credits: U V Ravindra
+%
+\printtitle
+#indian
+%
+
+la:
+haay jhilamil jhilamil ye shaam ke saaye
+duur ko_ii jaise shahanaa_ii bajaa_e
+pyaar ke saathii, mere pyaar ke saathii
+ko_ii jatan kar, ab ye shaam na jaa_e
+ko: jhilamil haay jhilamil -3
+
+la: ho o o machii sanasanii, ho o o chhi.Dii raagani
+ho o o machii sanasanii
+mere chhoTe se man me.n, ko_ii jaaduu saa jagaa_e
+ko: jhilamil haay jhilamil -3
+
+la:
+a a aa kalii dil kii chun, ho o o piyaa pyaare sun
+a a aa kalii dil kii chun
+ye tanhaa_ii kaa mausam, kabhii aa_e ke na aa_e
+ko: jhilamil haay jhilamil -3
+
+la:
+ho o o jo ham chal pa.De, ho o o diye jal pa.De
+ho o o jo ham chal pa.De
+dekho Duubataa suraj, hai kha.Daa diip jalaa_e
+ko: jhilamil haay jhilamil -3
+
+%
+#endindian
+\endsong
+%

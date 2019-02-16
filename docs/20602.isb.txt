@@ -1,0 +1,42 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{dosto.n me.n koii baat chal jaatii hai}%
+\film{Prem Kahaani}%
+\year{}%
+\starring{Rajesh Khanna, Mumtaz, Shashi Kapoor}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 27 Nov 2004
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+dil kii gaharaa_iyo.n tak nazar jaatii hai
+tiir banakar jigar me.n utar jaatii hai
+
+dosto.n me.n koii baat chal jaatii hai -2
+dostii dushmanii me.n badal jaatii hai
+dosto.n me.n koii baat chal jaatii hai -2
+
+raaz\-e\-dil ab chhupaane se kyaa faayadaa -2
+is lagii ko bujhaane se kyaa faayadaa kyaa faayadaa
+aag bujh jaatii hai chiiz jal jaatii hai -2
+dostii dushmanii me.n \.\.\.
+
+kyaa huaa gar shikaayat kaa maukaa diyaa -2
+sabane achchhaa kiyaa hamako dhokaa diyaa hamako dhokaa diyaa
+zi.ndagii la.Dakha.Daakar sa.mbhal jaatii hai -2
+dostii dushmanii me.n \.\.\.
+
+%
+#endindian
+\endsong

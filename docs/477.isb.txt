@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{diivaanaa mujhako log kahe, mai.n samajhuu.N jag hai diivaanaa}%
+\film{Deewaanaa}%
+\year{1967}%
+\starring{Raj Kapoor, Saira Bano, Kanhaiyyalal}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+diivaanaa mujhako log kahe
+mai.n samajhuu.N jag hai diivaanaa ho
+mai.n samajhuu.N jag hai diivaanaa
+diivaanaa mujhako log kahe
+
+ha.Nsataa hai koI suurat pe merii
+ha.Nsataa hai koI haalat pe merii
+hai kaun buraa maalik jaane
+a.njaam se begaanaa
+
+mai.n yaar kii khaatir luT jaaU.N
+mai.n yaar kii khaatir miT jaaU.N
+chhoTaa hii sahii par dil hai ba.Daa
+har haal pe begaanaa
+
+diivaanaa mujhako log kahe
+mai.n samajhuu.N jag hai diivaanaa ho
+mai.n samajhuu.N jag hai diivaanaa
+divaanaa mujhako log kahe
+%
+#endindian
+\endsong
+%

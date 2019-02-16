@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{inhii.n logo.n ne le liinaa dupaTTaa meraa}%
+\film{Pakeezah}%
+\year{1971}%
+\starring{Ashok Kumar, Meena Kumari, Rajkumar}%
+\singer{Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Majrooh}%
+% 
+% Contributor: David Windsor <daw601@anu.edu.au>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Credits: Vijay Kumar <vijay@news.eecs.nwu.edu>
+%	   Rahul Shridhar <rahul@eng2.uconn.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+inhii.n logo.n ne, inhii.n logo.n ne
+inhii.n logo.n ne le liinaa dupaTTaa meraa
+
+hamarii na maano bajajavaa se puuchho
+hamarii na maano sai.nyaa \threedots bajajavaa se puuchho
+jisane \threedots jisane asharafii gaz diinaa dupaTTaa meraa
+
+hamarii na maano ra.Ngarajavaa se puuchho	\-2
+jisane gulaabii ra.Ng diinaa dupaTTaa meraa
+inhii.n logo.n ne, inhii.n logo.n ne
+inhii.n logo.n ne le liinaa dupaTTaa meraa
+
+hamarii na maano sipahiyaa se puuchho	\-2
+jisane bajariyaa me.n chhiinaa dupaTTaa meraa
+dupaTTaa meraa, dupaTTaa meraa
+inhii.n logo.n ne, inhii.n logo.n ne
+inhii.n logo.n ne le liinaa dupaTTaa meraa
+%
+#endindian
+\endsong
+%
+

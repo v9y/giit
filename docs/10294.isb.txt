@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{bahanaa o bahanaa terii Dolii mai.n sajaa_uu.Ngaa}%
+\film{Adaalat}%
+\year{1976}%
+\starring{Amitabh Bachchan, Waheeda Rahman}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11256 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+bahanaa o bahanaa terii Dolii mai.n sajaa_uu.Ngaa
+terii jaa_egii baaraat hogii aa.Nkho.n se barasaat
+ha.Ns\-ha.Ns ke mai.n dukha.Daa bidaa_ii kaa chhupaa_uu.Ngaa
+bahanaa o bahanaa \threedots
+
+merii gu.Diyaa jaisii bahanaa tuu to hai is ghar kaa gahanaa
+jaa ke tuu sasuraal me.n apanii siitaa jaisii ban ke rahanaa
+bahanaa o bahanaa \threedots
+
+jiivan me.n tuu sab Kushii paana sadaa sukhii sasuraal me.n rahanaa
+sukh ke us jiivan me.n hamako bhuul na jaanaa pyaarii bahanaa
+bahanaa o bahanaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ek jhuuThii sii tasallii wo mujhe de ke chale}%
+\film{Sheesham}%
+\year{1952}%
+\starring{Nutan, Nasir, Kuldeep, Gope}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Zia Sarhadi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+% Credits: Afzal A Khan
+
+\printtitle
+#indian
+
+( ek jhuuThii sii tasallii wo mujhe de ke chale
+meraa dil le ke chale ) \-2
+
+( tere waado.n ke sahaare pe jiye jaaye.nge ham
+sahate jaaye.nge sitam ) \-2
+sahate jaaye.nge sitam
+raaz ye tere siwaa aur ko_ii jaan na le
+
+meraa dil le ke chale
+ek jhuuThii sii tasallii
+
+( apane biimaar ko wo dekhane aaye the magar
+lii naa kuchh dil kii Kabar ) \-2
+lii naa kuchh dil kii Kabar 
+bujh na jaaye ye diyaa yuu.N ke jalaaye na jale
+
+meraa dil le kar chale
+ek jhuuThii sii tasallii wo mujhe de ke chale
+meraa dil le ke chale
+
+#endindian
+\endsong

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{chale jaa chale jaa chale jaa jahaa.N pyaar mile}%
+\film{Jahan Pyaar Mile}%
+\year{1969}%
+\starring{Shashi Kapoor, Hema Malini, Naaz}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11113 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chale jaa chale jaa chale jaa ( jahaa.N pyaar mile ) \-2
+
+itane ba.De jahaa.N me.n ko_ii to miit hogaa
+is Gam kii baa.Nsurii me.n ko_ii to giit hogaa
+chale jaa chale jaa \threedots
+
+chalanaa hii zindagii hai rukanaa hai maut terii
+ai zindagii ke raahii kis baat kii hai derii
+chale jaa chale jaa \threedots
+
+aavaaz de rahii hai ma.nzil tujhe suhaanii
+ba.Dhataa hii chal musaafir har saa.Ns ik kahaanii
+chale jaa chale jaa \threedots
+%
+#endindian
+\endsong
+

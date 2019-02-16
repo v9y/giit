@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{khaalii ghar kii diivaaro.n pe ... jaa jaa jaa mujhe naa}%
+\film{Prem Nagar}%
+\year{1974}%
+\starring{Hema Malini, Rajesh Khanna}%
+\singer{Kishor}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10438 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+khaalii ghar kii diivaaro.n pe shiishe kii tasviire.n hai.n
+mai.n ye to.D ke rakh duu.Ngaa ye yaado.n kii za.njiire.n hai.n
+
+jaa jaa jaa mujhe naa ab yaad aa \-2
+mujhe bhuul jaane de jaane de
+jaa jaa jaa mujhe naa \threedots
+
+mere labo.n pe ye kahaanii kyo.n rahe \-2
+tuu naa rahii terii nishaanii kyo.n rahe
+ye javaanii kyo.n rahe zindagaanii kyo.n rahe
+jaa jaa jaa mujhe naa \threedots
+
+uja.Daa mahal ye viiraano.n kii tarah \-2
+isame.n phiruu.N mai.n diivaano.n kii tarah
+anjaano.n kii tarah begaano.n kii tarah
+jaa jaa jaa mujhe naa \threedots
+%
+#endindian
+\endsong
+

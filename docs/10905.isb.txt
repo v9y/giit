@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{vo aa_e ghar hamaare ... churaa ke dil ban rahe hai.n bhole}%
+\film{Chhote Nawab}%
+\year{1961}%
+\starring{Mehmood, Ameeta, Johny Walker, Meenu Mumtaz, Helen}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10757 [V S Rawat]
+% Transliterator: 
+% Comments: First film of R D Burman
+% 
+\printtitle
+#indian
+%
+vo aa_e ghar hamaare Kudaa kii qudarat hai
+kabhii ham unako kabhii apane ghar ko dekhate hai.n
+
+churaa ke dil ban rahe hai.n bhole ( jaise kuchh ) \-2 jaanate nahii.n
+ko_ii bataa_o ki ham kare.n kyaa vo hame.n pahachaanate nahii.n
+churaa ke dil \threedots
+
+abhii chand roz pahale pahalii mulaaqaat me.n
+vo kuchh kah rahe the hamase haath le ke haath me.n
+Daal ga_e jaaduu haay jaaduu baat\-baat me.n
+churaa ke dil \threedots
+
+aaj bhii suruur chhaayaa kal bhii suruur thaa
+itanaa saa farq lekin kahane ko zaruur thaa
+kal piine vaalaa mayaqade se duur\-duur thaa
+churaa ke dil \threedots
+
+vo bhii ek raat pyaar kii ye bhii ek raat hai
+aur hii thii baat tab aaj aur baat hai
+jaane vo kahaa.N hai jo yahaa.N mere saath hai
+churaa ke dil \threedots
+%
+#endindian
+\endsong
+

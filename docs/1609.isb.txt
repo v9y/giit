@@ -1,0 +1,64 @@
+%
+\startsong
+\stitle{sar se sarake, sarake chunariyaa}% 
+\film{Silsila}%
+\year{}%
+\starring{Jaya Bhaduri, Amitabh, Rekha, Sanjeev Kumar, Shashi Kapoor}%
+\singer{Kishore, Lata}%
+\music{Shiv-Hari}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+koras: sar se sarake, sarake chunariyaa,
+laaj bharii akhiyo.n me.n \- 2
+
+ho maiyaa, gaae saajan, o bahanaa, hoke magan
+naache.n, sakhiyo.n me.n
+
+strii: naino.n me.n ni.ndiyaa, ni.ndiyaa me.n sapane
+sapano.n me.n saajan, jabase basaa
+bahaare.n aayii jiivan me.n, nayii.n halachal hai tan man me.n
+ik ruup basaa hai, a.Nkhiyo.n me.n
+koras: sar se sarake\threedots
+
+purushh: kuchh lamhe.n, jiivan ke churaale.n
+saa.nso.n kii ye aag bujhaa de.n
+duniyaa se duur, nayii.n duniyaa.n, basaa de.n
+
+strii: jab se milii hai, tujhase nazar
+jaaduu ye kaisaa, mujhape huaa
+ke dil jab tanahaa lagataa hai
+mujhe kuchh aisaa lagataa hai
+tuu jhanak rahaa hai, a.Nkhiyo.n me.n
+koras: sar se sarake\threedots
+
+purushh: aaj kaa har ik pal su.ndar hai
+kal kyaa ho, kisako ye khabar hai
+la.nbaa safar, zindagI muqtasar hai
+
+strii: Dar lag rahaa hai, kyaa jaane kyaa ho
+dil tujh ko maine, jab se diyaa
+u.Dii hai.n nii.nde.n a.Nkhiyo.n se
+terii aisii hii baato.n se
+badanaam huii huu.N sakhiyo.n me.n
+koras: sar se sarake\threedots
+
+purushh: taaro.n se ye maa.ng sajaa duu.N
+hoTho.n pe ik phuul khilaa duu.N
+tere liye saarii duniyaa bhulaa duu.N
+
+strii: mahakegaa saaraa, gulashan hamaaraa
+dil kaa sahaaraa, baahe.n terii
+khushii se harii bharii hogii
+ye duniyaa terii merii hogii
+ik phuul khilegaa, bagiyo.n me.n
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pattaa-pattaa buuTaa-buuTaa}%
+\film{Chiragh Jalta Raha (Pakistan)}%
+\year{1962}%
+\starring{Zeba, Mohammad Ali}%
+\singer{Noorjehan}%
+\music{Nahal Abdullah}%
+\lyrics{Meer / Fazal Karim Fazli}%
+% 
+% Audio on: 
+% Contributor: Pulkit Sharma
+% Transliterator: Pulkit Sharma
+% Date: 11 Mar 2005
+% Series: Noor-E-Tarannum
+% Comments: an exquisite song
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+pattaa\-pattaa buuTaa\-buuTaa haal hamaaraa jaane hai\-2
+jaane naa jaane gul hii naa jaane\-2
+baaG to saaraa jaane hai
+pattaa\-pattaa buuTaa\-buuTaa
+
+phool kii aa.Nkho.n me.n hai aa.Nsuu
+koyal kuuke kuuhuu kuu
+hamako har ek dilawaalaa dukh dard kaa maaraa jaane hai
+pattaa\-pattaa buuTaa\-buuTaa haal hamaaraa jaane hai
+
+biit rahii hai dil pe jo mere
+usako bhalaa kyaa jaane tuu
+raat kaTe hai merii kaise ek\-ek taaraa jaane hai
+jaane naa jaane gul hii naa jaane
+baaG to saaraa jaane hai
+pattaa\-pattaa buuTaa\-buuTaa haal hamaaraa jaane hai
+%
+#endindian
+\endsong

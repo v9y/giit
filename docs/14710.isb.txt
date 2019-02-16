@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jiivan aashaa ye hai merii}%
+\film{Zindagi}%
+\year{1940}%
+\starring{Saigal, Pahadi Sanyal, Ashalata, Jamuna, Sham Laha, Nemo}%
+\singer{Saigal}%
+\music{Pankaj Mullick}%
+\lyrics{Aarzoo Lakhnawi}%
+%
+% Contributor: BOL ANAMOL #10008 [V S Rawat]
+% Transliterator: 
+% Comments: based on the story "priy baandhavii" by Prabodh Sanyal
+% 
+\printtitle
+#indian
+%
+jiivan aashaa ye hai merii
+jiivan aashaa ye hai
+jitane sahaare chhuuT chuke hai.n
+sabakaa sahaaraa ye hai
+merii jiivan aashaa ye hai \-2
+
+yahii hai merii saarii puu.njii yahii sab yahii sab saramaayaa hai \-2
+aa.Nkho kii ThaNDak man kii Dhaa.Dhas \-2
+aur annadaataa yah hai
+merii jiivan aashaa ye hai \-2
+
+ye hii
+yahii hai mujhako hiiraa\-panaa yahii hai motii\-muu.ngaa
+naam hai jisakaa ek duvannii saaraa Kazaanaa yah hai
+( ye jo ga_ii to gayaa Kazaanaa aas ga_ii
+aas ga_ii aur jaan ga_ii ) \-2
+saare sahaare
+saare sahaare TuuT na jaa_e.n
+dil ko dha.Daa ye hai \-2
+jiivan aashaa \threedots
+%
+#endindian
+\endsong
+

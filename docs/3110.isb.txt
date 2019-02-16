@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jo mai.n jaanatii un ke liye}%
+\film{Aah}%
+\year{1953}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+jo mai.n jaanatii un ke liye
+mere dil me.n kitanaa pyaar ai
+itanaa pyaar mai.n karatii kyo.n
+
+jo mai.n soch samajh ke chalatii
+had se baat guzaratii kyo.n
+an_jaane nayanao.n se ulajh ke 
+jiite jii mai.n maratii kyo.n
+itanaa pyaar mai.n karatii kyo.n \threedots
+
+haradam ulajhii laT se ulajhuu.N
+kaajal pheruu.N akhiyan me.n
+vo jo na aate to mai.n itanaa
+banatii aur sa.Nvaratii kyo.n
+itanaa pyaar mai.n karatii kyo.n \threedots
+
+haay re miiThaa dard jigar kaa
+haay re pahalaa pahalaa pyaar
+jo mai.n jaanatii ye sab hogaa
+is mushkil me.n pa.Datii kyo.n
+itanaa pyaar mai.n karatii kyo.n \threedots
+
+%
+#endindian
+\endsong
+%

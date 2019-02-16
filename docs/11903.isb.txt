@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{kisii ne meraa naam likhaa ... jaane mujhe kyaa ho gayaa}%
+\film{Haasil}%
+\year{2003}%
+\starring{Jimmy Shergil, Hrishitaa Bhatt}%
+\singer{Shaan}%
+\music{Jatin-Lalit}%
+\lyrics{Kausar Pandey}%
+%
+% Contributor: BOL ANAMOL #11739 [V S Rawat]
+% Producer: Karma Network Ltd, Director: Tigmanshu Dhulia
+% Audio: Times Music www. timesmusic.com times.music@timesgroup.com
+% Cassette: TCIFI 004 E, Cost: Rs 50/-, CD: 
+% Site: indiatimes.com
+% 
+\printtitle
+#indian
+%
+shaa \:	( kisii ne meraa naam likhaa naam mere paiGaam likhaa
+	pyaar likhaa inakaar likhaa ye dil gayaa vo gayaa
+	jaane mujhe kyaa ho gayaa diivaanaa dil ye kho gayaa
+	jaane mujhe kyaa ho gayaa ) \-2
+
+##female## \:	dil teraa kyuu.N ruuThaa hai
+	chain kisane luuTaa hai
+	hamako bhii to bataa
+##male## \:	kaun hai vo kyaa karatii hai
+	tujhako kaisii lagatii hai
+##male female## \:	hamako bhii to bataa
+shaa \:	haa.N usakaa cheharaa dekhane ko chaa.Nd din me.n jaagataa hai
+	usakii aisii adaa
+	jaane mujhe kyaa ho gayaa diivaanaa dil ye kho gayaa
+	jaane mujhe kyaa ho gayaa
+
+##female## \:	ab ye dil ju.Dane ko hai
+	raaz bhii khulane ko hai
+	aa_egaa ab mazaa
+##male## \:	usane tujhako yaar kahaa
+	yaa ##sorry, sweat heart## kahaa
+##male female## \:	ab chalegaa pataa
+shaa \:	he usane mujhako yaar kahaa hai ek nahii.n sau baar kahaa hai
+	vo bhii raato.n ko jagatii hai usane din ko shaam kahaa hai
+	vo karegii vafaa
+	haa.N mujhe pyaar ho gayaa diivaanaa dil ye kho gayaa
+	haa.N mujhe pyaar ho gayaa
+
+	kisii ne meraa naam likhaa naam mere paiGaam likhaa
+	pyaar likhaa inakaar likhaa ye dil gayaa vo gayaa
+	haa.N mujhe pyaar ho gayaa \-2
+	haa.N haa.N mujhe pyaar ho gayaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{zi.ndagii kaisii hai pahelii, haay}%
+\film{Anand}%
+\year{1970}%
+\starring{Rajesh Khanna, Amitabh}%
+\singer{Manna De}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+zi.ndagii \threedots
+kaisii hai pahelii, haae
+kabhii to ha.nsaaye
+kabhii ye rulaaye
+zi.ndagii \threedots
+
+kabhii dekho man nahii.n jaage
+piichhe piichhe sapano.n ke bhaage
+ek din sapano.n kaa raahii
+chalaa jaae sapano.n ke aage kahaa.N
+zi.ndagii \threedots
+
+jinhone sajaae yahaa.N mele
+sukh\-dukh sa.ng\-sa.ng jhele
+vahii chunakar Kaamoshii
+yuu.N chalii jaae akele kahaa.N
+zi.ndagii \threedots
+%
+#endindian
+\endsong
+%

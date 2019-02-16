@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pal bhar me.n ye kyaa ho gayaa, vo mai.n gayii vo man gayaa}%
+\film{Swami}%
+\year{1977}%
+\starring{Girish Karnad, Shabana Azmi, Vikram}%
+\singer{Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: Rajan Parrikar (parrikar@spot.colorado.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+%
+\printtitle
+#indian
+%
+pal bhar me.n ye kyA ho gayaa 
+vo mai.n gayii vo man gayaa 
+chunarii kahe sun rii pavan 
+sAvan laayaa ab ke sajan 
+din bhar mujhe yuu.N sataaye 
+tum bin ab to rahaa nahii.n jaae 
+pal bhar \threedots
+
+aashaa kii chhoTI sI nayyaa 
+leke chalii puravaiyyaa 
+Dole Dole jhumakaa bole 
+chupake se ye bhed khole 
+aajaayegaa aajaayegaa pyaar se tum bulaanaa 
+pal bhar \threedots
+
+aaii bahaare.n simaTake 
+kahane lagI vo lipaTake 
+chorii chorii chalo gorii 
+thaame hue ba.nyyaa morI 
+mil jaayegaa mil jaayegaa tumako vahii dIvaanaa 
+pal bhar \threedots
+%
+#endindian
+\endsong
+%

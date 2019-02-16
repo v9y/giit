@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{pukaaro mujhe phir pukaaro}%
+\film{Buniyaad}%
+\year{1972}%
+\starring{Pran, Shatrughan Sinha, Rakesh Roshan, Yogita Bali, Faida Jalal, Bindu}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11195 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	pukaaro mujhe phir pukaaro \-2
+	mere dil ke aa_iine me.n zulfe.n aaj sa.Nvaaro
+la \:	pukaaro mujhe phir pukaaro \-2
+	merii zulfo.n ke saa_e me.n aaj kii raat guzaaro
+ki \:	pukaaro mujhe phir \threedots
+
+	gulashan me.n aisii chhaa.Nv aisii dhuup nahii.n
+	kaliyo.n me.n aisaa ra.ng aisaa ruup nahii.n
+	jo bhii mere yaar saa phuul ko_ii le ke aa_o bahaaro
+	pukaaro mujhe phir \threedots
+
+la \:	chaa.Ndanii kii is a.Ndhere me.n zaruurat nahii.n
+	kuchh soche.n kuchh dekhe.n hamako furasat nahii.n
+	jaa_o kahii.n jaa ke chhup jaa_o aaj kii raat sitaaro
+ki \:	pukaaro mujhe phir \threedots
+
+ki \:	apane Kvaabo.n kii jo duniyaa basaa_e.Nge ham
+	aasamaano.n se bhii aage nikal jaa_e.Nge ham
+do \:	saath hamaare tum chalanaa ai ra.ngiin nazaaro
+ki \:	pukaaro mujhe phir \threedots
+%
+#endindian
+\endsong
+

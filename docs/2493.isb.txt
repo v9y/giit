@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{ye la.Dakii zaraa sii diivaanii lagatii hai}%
+\film{Love Story}%
+\year{1981}%
+\starring{Kumar Gaurav, Vijeta Pandit}%
+\singer{Lata, Amit Kumar}%
+\music{R D Burman}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mai.n akelaa raat kaa melaa, tuu kahaa.N se aa_ii
+aise me.n tuu bhhul ke rastaa mujh se aa Takaraa_ii
+
+ye la.Dakii zaraa sii diivaanii lagatii hai
+mujhe to ye gu.Diyaa japaanii lagatii hai
+
+chaabhii se ye chale, chaabhii se ye ruke
+chaabhii se ye ha.Nse ruuTh jaaye
+aisii naazuk hai ye, galatii se ise
+koii chhule to ye TuuT jaaye
+kaa.Nch kii hai gu.Diyaa
+aafat kii hai pu.Diyaa
+kisii shaitaan kii naanii lagatii hai
+ye la.Dakii zaraa sii   \threedots
+
+ham akelaa raat kaa melaa, tuu kahaa.N se aayaa
+aise me.n tuu bhuul ke rastaa, ham se aa Takaraayaa
+
+aate jaate hue raste pe kha.De
+ba.De dekhe aise diivaane
+    - aisaa kyaa!
+jahaa.N pe bhii koii achchhii suurat akhii
+vahii.n ruke kisii bahaane
+aise hiiro ban ke gaa rahaa hai koii
+kisii naye film kaa gaanaa lagataa hai
+ye la.Dakaa zaraa saa diivaanaa lagataa hai
+gaa.Dii kaa koii m.cDal puraanaa lagataa hai
+ye la.Dakaa zaraa saa   \threedots
+              
+%
+#endindian
+\endsong
+%

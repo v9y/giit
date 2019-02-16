@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kalii ek tumase puuchhuu.N baat}%
+\film{Saakshi Gopaal}%
+\year{1957}%
+\starring{Bharat Bhushan, Ms Nanda, Madan Puri, Manju, Achala Sachdev}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10159 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	kalii ek tumase puuchhuu.N baat ki jab hotii hai aadhii raat
+	kaun bha.Nvaraa banake chupachaap terii bagiyaa me.n aataa hai
+	churaa ke teraa man le jaataa hai
+
+la \:	kalii se kaahe puuchhe baat pyaar me.n hotii hai ye ghaat
+	nain ke jab chalate hai.n baan baan kaa jaaduu chhaataa hai
+	bichaaraa khi.nch khi.nch aataa hai
+
+	nirday bha.Nvaraa kyo.n ku.njan kii galii galii me.n ghuumataa
+	kaun bharosaa kare jo phirataa kalii kalii ko chuumataa
+ra \:	parakh karataa bha.Nvaraa din\-raat kaun vo kalii jo deve saath
+	kamalinii se jab milate hai.n nain chain man kaa kho jaataa hai
+	rain bhar ba.Ndh\-ba.Ndh jaataa hai
+
+la \:	sa.ng nibhe naa kalii hai gorii bha.Nvar kaa kaalaa ra.ng re
+ra \:	kaare badaravaa se puuchho jo rakhe bijuriyaa sa.ng re
+	madhur gore kaale kaa saath ke jyuu.N milate hai.n din\-raat
+	raat kaarii sa.ng goraa chaa.Nd milan kaa raas rachaataa hai
+	kalii sa.ng bha.Nvaraa gaataa hai
+%
+#endindian
+\endsong
+

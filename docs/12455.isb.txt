@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aanaa mere pyaar ko tum na jhuuThaa samajho jaanaa}%
+\film{Kabhi Haan Kabhi Naa}%
+\year{1993}%
+\starring{Shahrukh, Suchitra Krishnamurty, Deepak Tijori, Satish Shah, Anjan Srivastava, Rita Bhaduri}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aanaa mere pyaar ko tum na jhuuThaa samajho jaanaa
+sanam tumhe.n paane kaa ye thaa saaraa bahaanaa
+aanaa mere pyaar ko \threedots
+
+chalo bhii jo hu_aa jaane do
+bahut ho chukaa jaane do
+
+dekh merii taqadiir dil me.n kisakaa giit
+aa.Nkho.n me.n tasviir kisakii hai sanam
+chho.Do chho.Do haath jaanuu.n terii baat
+jhuuThii hai har baat jhuuThii har qasam
+haa.N jhuuThaa huu.N yaa sachchaa huu.N jaane saaraa zamaanaa
+aanaa mere pyaar ko \threedots
+
+tumane phe.nkaa jaal ulTii pa.D ga_ii chaal
+ab mai.n huu.N ja.njaal  rastaa naapi_e
+aise to na yaar dil ko Thokar maar
+samajho meraa pyaar Kudaa ke li_e
+samajh ga_ii aaj chho.Do zyaadaa na baate.n banaanaa
+aanaa mere pyaar ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{abhii to sajii hai muraado.n kii duniyaa}%
+\film{Zindagi}%
+\year{1956}%
+\starring{Geeta Bali, Vijaylaxmi, Jaswant, Baby Naaz}%
+\singer{Lata}%
+\music{Mohammed Shafi}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #11954 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+abhii to sajii hai muraado.n kii duniyaa \-2
+abhii se ye duniyaa miTaaye.nge kaise
+kahaanii adhuurii hai aur raat baakii
+chiraaG\-e\-tamannaa bujhaaye.nge kaise
+
+( uma.nge.n jawaa.N hai.n muhabbat jawaa.N hai
+abhii jaan dene kii furasat kahaa.N hai ) \-2
+bahaaro.n ke din hai.n bahaaro.n kii raate.n
+Kizaa.N ko gale se lagaaye.nge kaise
+abhii to sajii hai
+
+( ha.Nsaa kar rulaanaa banaa kar miTaanaa
+kahii.n tujh ko zaalim na samajhe zamaanaa ) \-2
+jo insaaf teraa nahii.n hai to maalik
+tere saamane sar jhukaaye.nge kaise
+
+abhii to sajii hai muraado.n kii duniyaa
+abhii se ye duniyaa miTaaye.nge kaise
+abhii to sajii hai
+%
+#endindian
+\endsong
+

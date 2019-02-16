@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{tuu kaalaa mai.n gorii balam torii morii bhalaa ab}%
+\film{Light House}%
+\year{1958}%
+\starring{Ashok Kumar, Nutan, Nigar, Johny Walker}%
+\singer{Rafi, Asha}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10292 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	tuu kaalaa mai.n gorii balam torii morii bhalaa ab kaise jamegii
+ra \:	jaise chaa.Nd\-chakorii pata.ng aur Dorii sadaa ab aise jamegii
+ko \:	o ab aise jamegii \threedots
+
+aa \:	mai.n alabelii naar navelii aa_ii huu.N koso.n chal ke
+	a.ng\-a.ng se mastii Tapake nainan se madiraa chhalake
+	chalate raahii ruk jaa_e.N jab aa.Nchal moraa Dhalake
+	mujhase aa.Nkh milaanaa ho to aanaa ruup badal ke
+ko \:	o bhalaa ab kaise jamegii \threedots
+
+ra \:	ye duniyaa ye duniyaa vaale sabake sab hai.n paajii
+	dilavaalo.n ke biich me.n yuu.N hii ban jaate hai.n kaajii
+	naa khele.n naa khelane.n de.n bekaar bigaa.De.n baazii
+	in sabako chuulhe me.n Daalo tum raazii ham raazii
+ko \:	o sadaa ab aise jamegii \threedots
+
+aa \:	runajhun moraa ka.nganaa baaje chhunachhun paayal bole
+	is paayal kii chhanan\-chhanan par laakho.n kaa dil Dole
+	jahaa.N bhii jaa_uu.N dilavaalo.n kaa jamaghaT piichhe ho le
+	kuchh sharamaa ke kuchh ghabaraa ke dil moraa yuu.N bole
+ko \:	bhalaa ab kaise jamegii \threedots
+%
+#endindian
+\endsong
+

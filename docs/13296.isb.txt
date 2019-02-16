@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{zindagii bahaar hai muhabbat kii bahaar se}%
+\film{Nai Dilli/ New Delhi}%
+\year{1956}%
+\starring{Kishore, Vyjayantimala, Jabeen}%
+\singer{Lata, Chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11953 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	aa
+	zindagii bahaar hai muhabbat kii bahaar se \-2
+	dil se dil ko pyaar hai phir kyuu.N Daranaa sa.nsaar se \-2
+ko \:	zindagii bahaar hai muhabbat kii bahaar se \-2
+
+la \:	mai.n gumasum tum bhii chup the \-2
+	par aa.Nhko.n ne sab kah Daalaa
+ko \:	par aa.Nhko.n ne sab kah Daalaa
+la \:	aa
+	mere pyaar ne pahanii varamaalaa \-2
+ko \:		zindagii bahaar hai muhabbat kii bahaar se \-2
+la \:	dil se dil ko pyaar hai phir kyuu.N Daranaa sa.nsaar se \-2
+ko \:	oy zindagii bahaar hai muhabbat kii bahaar se
+	zindagii bahaar hai muhabbat kii bahaar se
+
+la \:	mai.n naachuu.N meraa man naache \-2
+	mere sa.ng\-sa.ng saaraa jag naache
+ko \:	mere sa.ng\-sa.ng saaraa jag naache
+la \:	aa
+	machii dhuum Kushii kii dhun baaje \-2
+ko \:	zindagii bahaar hai muhabbat kii bahaar se \-2
+la \:	dil se dil ko pyaar hai phir kyuu.N Daranaa sa.nsaar se \-2
+ko \:	oy zindagii bahaar hai muhabbat kii bahaar se
+	zindagii bahaar hai muhabbat kii bahaar se
+	aa
+%
+#endindian
+\endsong
+

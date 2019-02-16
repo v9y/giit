@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{maine kisii ko dil de diyaa ... puuchho kaun hai vo}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine kisii ko dil de diyaa
+dil de diyaa haa.N ye dil de diyaa
+puuchho puuchho puuchho kaun hai vo
+bolo bolo bolo kaun hai vo
+
+maine kisii kaa dil le liyaa
+dil le liyaa haa.N ye dil le liyaa
+puuchho puuchho puuchho kaun hai vo
+bolo bolo bolo kaun hai vo
+
+chhail chhabiilaa meraa saperaa usakaa sajiilaa ruup hai
+baato.n me.n usakii saragam kii khushbuu chehare pe suuraj kii dhuup hai
+chain ga.nvaayaa nii.nd ga.nvaa_ii jiinaa hai mushkil raam duhaa_ii
+kisane ye mujhape jaaduu kiyaa
+jaaduu kiyaa haa.N jaaduu kiyaa
+puuchho puuchho puuchho kaun hai \threedots
+
+ho.nTho.n pe usake shabanam ke motii
+biin kii jaisii patalii kamar hai naagin ke jaisii chaal hai
+ra.ng gulaabii aa.Nkh nashiilii tho.Dii sii hai vo sharmiilii
+jisane churaayaa meraa jiyaa
+meraa jiyaa haa.N meraa jiyaa
+puuchho puuchho puuchho kaun hai \threedots
+%
+#endindian
+\endsong
+

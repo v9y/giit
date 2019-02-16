@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{chhoTaa saa man hai ... ye ishq ishq hai}%
+\film{Bas Itna Sa Khvab Hai}%
+\year{2001}%
+\starring{Abhishek Bachchan, Jackie Shroff, Rani Mukerji, Sushmita Sen}%
+\singer{Roop Kumar Rathod, Alka Yagnik, KayKay}%
+\music{Aadesh Srivastava}%
+\lyrics{Mona Anwar, Goldy Behl}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chhoTaa saa man hai man me.n sanam hai
+sanam ik khvaab hai khvaab hai bas khvaab hai
+kyaa yahii ishq hai kyaa yahii ishq hai
+ishq ik bahataa dariyaa jo kabhii naa thamaa
+ishq ik aisaa sapanaa jo na haasil hu_aa
+gar ishq hai khudaa to khudaa dard detaa hai kyuu.n
+ishq ishq ye ishq ishq hai kyaa yahii hai ishq ishq hai
+chhoTaa saa man hai \threedots
+
+aa.Nkho.n me.n jo sapanaa thaa
+lagataa kitanaa apanaa thaa
+dil kii nagarii me.n rahataa thaa
+saa.Nso.n me.n phuulo.n saa khilataa thaa
+chhoTaa saa man hai \threedots
+
+ishq pattaa patajha.D kaa jo kahii.n naa Tikaa
+ishq aa.Nsuu aa.Nkho.n kaa jo rukaa_e naa rukaa
+gar ishq hai Kudaa \threedots
+chhoTaa saa man hai \threedots
+
+ye zi.ndagii kal tere naam thii
+khushii kaa paigaam thii
+aaj na tuu hai naa teraa saath hai
+teraa chho.Daa hu_aa har lamhaa paas hai
+chhoTaa saa man hai \threedots
+%
+#endindian
+\endsong
+

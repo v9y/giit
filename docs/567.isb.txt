@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{duniyaa me.n ham aaye hai.n to jiinaa hii pa.Degaa}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Sunil Dutt, Raaj Kumar, Rajendra Kumar}%
+\singer{Lata, Meena, Usha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+duniyaa me.n ham aaye hai.n to jiinaa hii pa.Degaa
+jiivan hai agar zahar to piinaa hii pa.Degaa
+duniyaa \threedots
+
+gir gir ke musIbat me.n sambhalate hI rahe.nge
+jal jAe.n magar Ag pe chalate hI rage.nge
+Gam jisane diye hai.n bahI Gam dUr karegA
+duniyaa \threedots
+
+aurat hai vahI aurat jise duniyaa kI sharm hai
+sa.nsAr me.n bas lAj hI nArI kA dharm hai
+zindA hai jo izzat se vahI izzat se maregA
+duniyaa \threedots
+
+mAlik hai tere sAth na Dar Gam se tU ye dil
+mehanat kare insAn to kyA kAm hai mushkil
+jaisA jo karegA yahA.N vaisA hI bharegA
+duniyaa \threedots
+%
+#endindian
+\endsong
+%

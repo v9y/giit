@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{zi.ndagii kii talaash me.n ham maut ke}%
+\film{Saathi}%
+\year{1991}%
+\starring{Aditya Pancholi, Mohsin Khan, Varsha Usgaonkar, Paresh Rawal, Avtar Gill}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zi.ndagii kii talaash me.n ham maut ke kitane paas aa ga_e
+jab ye sochaa to ghabaraa ga_e aa ga_e ham kahaa.N
+zi.ndagii kii talaash me.n \threedots
+
+ham the aise safar pe chale jisakii ko_ii bhii ma.nzil nahii.n
+hamane saarii umr jo kiyaa usakaa ko_ii bhii haasil nahii.n
+ek Kushii kii talaash me.n ye kitane Gam hamako ta.Dapaa ga_e
+jab ye sochaa to ghabaraa \threedots
+
+socho ham kab itane majabuur the jo na karanaa thaa vo kar ga_e
+piichhe mu.D ke jo dekhaa zaraa apane haalaat se Dar ga_e
+khud ke baare me.n soche.n jo ham apane aap se sharamaa ga_e
+jab ye sochaa to ghabaraa \threedots
+%
+#endindian
+\endsong
+

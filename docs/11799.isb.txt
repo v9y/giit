@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jab se dekhaa tumako ai jaaduugar hasii.n ... ham to mohabbat karegaa}%
+\film{Hum To Mohabbat Karegaa}%
+\year{2000}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Sonu Nigam, Sunidhi Chauhan, Chorus/ Annu Malik, Sunidhi Chauhan, Chorus}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham to mohabbat karegaa ham to mohabbat
+
+jab se dekhaa tumako ai jaaduugar hasii.n
+us din se to ye dil kahii.n lagataa hii nahii.n
+tab se kyaa haal hai kahuu.n kyaa
+dil hai diivaanaa tumhaaraa karataa bhii kyaa haay bechaaraa
+
+jab se dekhaa tumako ai jaaduugar hasii.n
+tab se meraa bhii dil lagataa nahii.n kahii.n
+us din se na puuchho hu_aa kyaa
+dil hai diivaanaa tumhaaraa karataa bhii kyaa haay bechaaraa
+ham to mohabbat \threedots
+
+milate hii yahaa.n to abhii se halachal ba.Dhii hai jalataa hai siinaa
+o haath lagaa ke zaraa dekho kaisaa mujhe bhii aa_e pasiinaa
+buraa haal dono.n kaa yaaraa
+dil hai diivaanaa \threedots
+
+huu.n rahii jo yahii bekaraarii a.njaam aage jaane kyaa hogaa
+abhii sa.mbhaalaa thaa jigar ko ke aisaa dha.Dakaa ye dil ki taubaa
+dikhane lagaa din me.n taaraa
+dil hai diivaanaa \threedots
+%
+#endindian
+\endsong
+

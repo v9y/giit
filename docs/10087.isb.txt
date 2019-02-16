@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jo biich bajariaa tuune ... jab raat maa.n ko_ii naa jaage a_iyo}%
+\film{Ansh}%
+\year{2002}%
+\starring{Abbas, Sharbani Mukerji, Rajat Bedi}%
+\singer{Sapana Awasthi}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo biich bajariyaa tuune paka.Dii ba_iiyaa.n
+mai.n sabako bol duu.Ngii
+jab raat maa.n ko_ii naa jaage a_iyo
+mai.n khi.Dakii khol duu.Ngii
+jo biich bajariyaa \threedots
+
+jhuulane do jhuulaa saajan tujhe mai.n jhulaa_uu.Ngii
+kaliyo.n kii sej pe mai.n tujhako sulaa_uu.Ngii
+apane ho.nTho.n kaa ras tere ho.nTho.n pe raajaa
+kasam se ghol duu.Ngii
+jab raat maa.n \threedots
+
+karuu.Ngii terii gulaamii tere nakhare uThaa_uu.Ngii
+cha.Dhatii javaanii saarii tujhape luTaa_uu.Ngii
+sone chaa.Ndii me.n ik din more baa.nke balamaa
+tujhe mai.n tol duu.Ngii
+jab raat maa.n \threedots
+%
+#endindian
+\endsong
+

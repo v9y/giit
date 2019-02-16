@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{khushiyo.n kii baaraat hai ... dene vaalaa jab bhii detaa}%
+\film{Heraa Pheri}%
+\year{2000}%
+\starring{Akshay Kumar, Sunil Shetty, Tabbu, Paresh Raval, Om Puri}%
+\singer{Hariharan, Vinod Rathod, Abhijit, Annu Malik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paisaa are ##money money##
+lagataa hai apanaa bhii ##time fine## hai bhaa_ii
+noT pe noT chhap rahele hai.n
+khushiyo.n kii baaraat hai paiso.n kii barasaat hai
+sachche ho ga_e saare sapane khule nasiibaa yaar ke
+dene vaalaa jab bhii detaa detaa chhappar phaa.D ke
+kitii kitii kitanaa kitii kitii kitanaa
+dik taanaa dik taanaa tikanaa tikanaa
+
+sab kahate hai.n ##hello, hello## saath hamaare chalo chalo
+sabako mujhase kaam hai duniyaa bhar me.n naam hai
+ba.ngalaa bhii hai gaa.Dii bhii hai mahakii mahakii baa.Dii bhii hai
+dene vaalaa jab bhii \threedots
+
+miiThaa hai jal jog kaa khaanaa chhappan bhog kaa
+saakii miinaa jaam hai pistaa hai baadaam hai
+sej sajii hai phuulo.n vaalii aane vaalii hai nakharaalii
+dene vaalaa jab bhii \threedots
+
+##I say he he he What you got to say##
+##paris## vaalaa ##suit## hai ye ##London## kaa ##boot## hai
+haa.n apanaa bhii ##style## hai
+are haatho.n me.n ##mobile## hai
+ha haa
+mujhako paka.De.n are mujhako chuume.n
+aage piichhe pariyaa.n ghuume.n
+dene vaalaa jab bhii \threedots
+%
+#endindian
+\endsong
+

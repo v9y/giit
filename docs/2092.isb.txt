@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{itanii hai morii kahaani ke raajaa mai.n to ho gayii diivaanii}%
+\film{Mrityudand}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: SRSComp
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+itanii hai morii kahaanii ke raajaa
+mai.n to ho gayii torii diivaanii
+
+jaise ke bagiyaa me.n phulava khilat hai
+vaise khiluu.N mai.n tore sa.ng re
+jaiseke ga.nga se jamanaa milat hai
+vaise miluu.N mai.n tore sa.ng re
+
+jaise ka.Dha_iyaa.N me.n tilavaa jalat hai
+vaise jaluu.N mai.n tore sa.ng re
+jaise surukhiyaa pe gaa.Dii chalat hai
+vaise chaluu.N mai.n tore sa.ng re
+
+jaise badariyaa me.n bijurii rahat hai
+vaise rahuu.N mai.n tore sa.ng re
+jaise nadiyaa me.n naiyya bahat hai
+vaise bahuu.N mai.n tore sa.ng re
+
+%
+#endindian
+\endsong
+%

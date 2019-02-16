@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ko_ii na ko_ii chaahi_e pyaar karane vaalaa}%
+\film{Deewaanaa}%
+\year{1992}%
+\starring{Rishi Kapoor, Shahrukh Khan, Divya Bharati}%
+\singer{Vinod Rathod, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii na ko_ii chaahi_e pyaar karane vaalaa
+ko_ii na ko_ii chaahi_e ham pe marane vaalaa
+dil\-o\-jaa.n luTaa_e.nge ham to usii par
+saath me.n bitaa_e.nge shaam\-o\-sahar
+shaam\-o\-sahar mere yaaraa
+ko_ii na ko_ii chaahi_e \threedots
+
+us chaa.Nd jaise Tuka.De ko siine se lagaa luu.ngaa
+us reshamii mukha.De ko aa.Nkho.n me.n chhipaa luu.ngaa
+diivaanaa mujhasaa na milegaa usako
+is zamii.n se leke saare aasamaa.n tak
+ko_ii na ko_ii chaahi_e \threedots
+
+na merii ko_ii ma.nzil na meraa hai Thikaanaa
+maine to siikhaa yaaro.n kaa.NTo.n se dil lagaanaa
+ulfat kaa mai.n diivaanaa huu.N duniyaa se mai.n begaanaa huu.N
+baaho.n me.n aasamaa.n hai kadamo.n me.n hai zamaanaa
+ko_ii na ko_ii chaahi_e \threedots
+%
+#endindian
+\endsong
+

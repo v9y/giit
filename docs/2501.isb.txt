@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{##Ding Dong O baby sing a song##}%
+\film{Hero}%
+\year{1983}%
+\starring{Jackie Shroff, Meenakshi Sheshadri, Sanjeev Kumar}%
+\singer{Anuradha Paudwal, Manhar, chorus}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+saa re gaa maa
+saa saa re re gaa gaa maa maa paa~
+##Ding Dong O baby sing a song##
+aaj ke shaam kaa, pyaar ke naam kaa
+jab jab jab baaje yaado.n ke ba.nsii
+tab tab dil u.D jaaye ban ke giito.n ke pa.nchhii
+##Ding Dong O baby sing a song## \threedots
+
+za.njiir za.njiir za.njiir hai.n paa.Nv me.n
+pahare hai.n nigaah me.n
+phir bhii u.Datii phirate hai.n
+in madamast havaa_o.n me.n
+premiyo.n ke chhat pe giito.n ke pa.nchhii
+##Ding Dong O baby sing a song## \threedots
+
+tiiro.n se talavaaro.n se
+na uu.Nchii diivaaro.n se
+rukegaa na ye logo.n se
+yaar jo mile yaaro.n se
+duniyaa.N se na haare jiito.n ke pa.nchhii
+##Ding Dong O baby sing a song## \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{zabaane.n badalate hai.n, har aan Kuubaa.n}%
+\film{Mandi}%
+\year{1983}%
+\starring{Smita Patil, Shabana Azmi, Naseeruddin Shah, Farooq Sheikh}%
+\singer{Asha}%
+\music{Vanraj Bhatia}%
+\lyrics{Mir Taqi Mir}%
+% 
+% Contributor: Tanvi Chawla <tanvi@luther.ced.berkeley.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/27/1996
+% Credits: Vandana Venkatesan (vvenkate@pcocd2.intel.com)
+%          Neeraj Malhotra <malhotra@bedford.progress.com>
+% Comments: Directed by Shyam Benegal
+%
+\printtitle
+#indian
+%
+zabaane.n badalate hai.n, har aan Kuubaa.n, aar aan Kuubaa.n
+yah sab kuchh hai.n biga.De zamaane kii baate.n
+biga.De zamaane kii baate.n 	\-2
+zabaane.n badalate hai.n \threedots
+
+hame.n Gairo.n kavaa (???) se kyaa guftaguu hai
+chalii jaatii hai.n yah sunane kii baate.n
+sunane kii baate.n \threedots
+biga.D bhii chuke yaar se ham to yaaro.n
+karo kuchh ab use, use banaane kii baate.n
+zabaane.n badalate hai.n \threedots
+
+kiyaa sair kal mainne diivaane majanuu
+Kush aaii bahut us diivaane kii baate.n
+diivaane dii baate.n, us diivaane kii baate.n
+zabaane.n badalate hai.n \threedots
+%
+#endindian
+\endsong
+%
+

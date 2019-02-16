@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ba.Daa bedard jahaa.N hai yahaa.N insaaf kahaa.N hai}%
+\film{Chiraagh Kahaan Roshni Kahaan}%
+\year{1959}%
+\starring{Rajendra Kumar, Meena Kumari}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10685 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ba.Daa bedard jahaa.N hai yahaa.N insaaf kahaa.N hai
+mujhe o duniyaa vaale vaapas bulaa le
+ba.Daa bedard jahaa.N \threedots
+
+aag lage sa.nsaar ko andhaa jisakaa nyaay
+yahaa.N to maa.N kii maamataa dhan se taulii jaay
+ba.Daa bedard jahaa.N \threedots
+
+ye kaisaa jag hai vidhaataa pyaar maa.N kaa Thukaraataa
+maa.N ho kar mai.n maa.N nahii.n phuuT ga_e mere bhaag
+le ga_e zaalim chhiin ke ghar kaa mere chiraaG \-2
+ba.Daa bedard jahaa.N \threedots
+
+tum bin mere laaDale suunaa meraa jahaa.N
+kise sunaa_uu.N loriyaa.n kaun kahe mujhe maa.n \-2
+ko_ii meraa dard na jaane kise jaa_uu.N samajhaane
+mujhe o duniyaa vaale \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,25 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jhanak\-jhanak paayal baaje}%
+\film{Jhanak Jhanak Paayal Baaje}%
+\year{1955}%
+\starring{Gopi Krishna, Sandhya, Madan Puri, Manorama, Mumtaz, Jaishri Gadkar}%
+\singer{Amir Khan}%
+\music{Vasant Desai}%
+\lyrics{Hasrat}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+jhanak\-jhanak paayal baaje
+paayaliyaa kii runak\-jhunak par
+chham\-chham maanvavaa naache
+
+jhanak\-jhanak paayal baaje
+
+#endindian
+\endsong

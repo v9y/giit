@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye vaadaa rahaa}% 
+\film{Yeh Vaada Raha}%
+\year{1982}%
+\starring{Rishi Kapoor, Poonam Dhillon, Tina Munim, Shammi Kapoor, Rakesh Bedi}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Neha Desai (ndesai@cc.umanitoba.ca)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Neha Desai (ndesai@cc.umanitoba.ca)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+tU tU hai vohii dil ne jise apanA kahaa \threedots 
+tU hai jahaa.N mai.n huu.N vahaa.N 
+
+ab to jiinaa tere bin hai sazaa 
+ho mil jaae.n is tarah \threedots 
+do lahare.n jis tarah \threedots 
+kabhI ho nA judaa 
+haa.n ye vaadaa rahaa 
+
+mai.n aavaaz huu.N to tuu hai giit meraa 
+jahaa.N se niraalaa manamIt meraa \threedots 
+ho mil jaaye.n 
+
+kisii mo.D pe bhI naa ye saath chhUTe 
+mere haath se terA daaman nA chhUTe \threedots 
+kabhI khvaab mai.n bhI tU mujhase nA rUThe 
+mere pyaar kii koI khushiyaa.n nA lUTe 
+ho mil jaaye.n \threedots 
+
+kabhI zindagii me.n pa.De mushkile.n to 
+mujhe tU sambhaale tujhe mai.n sambhaaluu.N 
+ho mil jaae.n is tarah 
+
+tujhe mai.n jahaa.N kii najar se churaa luu.n 
+kahii.n dil ke kone mai.n tujhako biThaa duu.n 
+ho mil jaae.n is tarah \threedots 
+%
+#endindian
+\endsong
+%

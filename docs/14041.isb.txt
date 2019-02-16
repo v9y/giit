@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aa rahaa hai mazaa terii baaho.n me.n}%
+\film{Sapne Saajan Ke}%
+\year{1992}%
+\starring{Jackie, Karisma, Rahul Roy, Gulshan, Aruna, Reema, Aloknath, Dimple}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa rahaa hai mazaa terii baaho.n me.n
+aa rahaa hai nashaa terii nigaaho.n me.n
+aa rahaa hai mazaa \threedots
+
+merii aarazuu bhii tum ho merii zi.ndagii bhii tum ho
+jaan\-e\-jaa.n suno zaraa mere dil kii sadaa
+aa rahaa hai mazaa \threedots
+
+kabhii jalan kabhii chubhan bujhatii nahii.n saa.Nso.n kii agan
+zaraa paas aa jaa_egaa mujhe chain aa jaa_egaa
+aa rahaa hai mazaa \threedots
+
+javaa.n javaa.n ye hasii.n samaa.n jaane kaisii ye pyaas jagii
+kyaa bebasii kyaa bekhudii saare tan me.n aag lagii
+ye pyaar aur kitanaa ta.Dapaa_egaa
+aa rahaa hai mazaa \threedots
+%
+#endindian
+\endsong
+

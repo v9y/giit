@@ -1,0 +1,51 @@
+% ITRANS SONG # 3264; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-04-25 15:01:09 PST 
+%
+\startsong
+\stitle{aayii bahaar aayii aayii bahaar}%
+\film{Arzoo}%
+\year{1950}%
+\starring{Dilip Kumar, Kamini Kaushal}%
+\singer{Lata, chorus}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor:  Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Comments : LATAnjali series
+%
+\printtitle
+#indian
+%
+ko : aayii bahaar aayii, aayii bahaar \-2
+la : aayii bahaar jiyaa Dole moraa, jiyaa Dole moraa, jiyaa Dole re
+ko : jiyaa Dole re
+la : jaagaa hai pyaar man bole moraa, man bole moraa, man bole re
+ko : man bole re
+la : aayii bahaar jiyaa Dole moraa \threedots
+
+la : kaise kahuu.N rii haay man kii batiyaa.N
+     dha.Dake jiyaa moraa, pha.Dake akhiyaa.N  \-2
+ko : aa~aa~
+la : ko_ii nainan ko bhaayaa morii Dol gayii kaayaa \-2
+ko : Dol gayii Dol gayii Dol gayii re \-2
+la : ko_ii man me.n samaayaa haule haule re
+ko : haule haule re
+la : aayii bahaar jiyaa Dole moraa \threedots
+
+la : saavan aayaa rii sakhii dhuum machaataa sakhii dhuum machaataa \-2
+     rimajhim rimajhim rimajhim gaataa \-2
+ko : rimajhim rimajhim, rimajhim rimajhim \-2
+la : karo solah si.ngaar chalo saajan ke dvaar \-2
+     dhiire dhiire, dhiire
+     dhiire ghuu.NghaT paT khole re
+     jaagaa hai pyaar man bole meraa
+     jaagaa hai pyaar man bole meraa, man bole meraa, man bole re
+ko : man bole re
+la : aayii bahaar jiyaa Dole moraa \threedots           
+%
+#endindian
+\endsong
+%

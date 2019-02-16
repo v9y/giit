@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n chalii mai.n chalii, dekho pyaar kii galii}%
+\film{Padosan}%
+\year{1968}%
+\starring{Sunil Dutt, Saira Bano, Kishore, Mahmood}%
+\singer{Lata, Asha}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mai.n chalii mai.n chalii, dekho pyaar kii galii
+koii roke na mujhe, mai.n chalii mai.n chalii
+na na naa merii jaa.n, dekho jaanaa na vahaa.N
+koii pyaar kaa luTeraa, luuTe na merii jaa.n
+mai.n chalii mai.n chalii \threedots
+
+ye fizaa ye havaa, ye nazaare ye samaa
+ab pyaar na huaa to phir kab hogaa
+koii khel to nahii.n, ye hai pyaar merii jaa.n
+tujhe pataa bhii na chalegaa ye jab hogaa
+mai.n chalii mai.n chalii \threedots
+
+kahii.n aa.Nkh na mile, kahii.n dil na lage
+to pyaar kaa zamaanaa kis kaam aayaa
+?
+to ye rut ye ghaTaa bolo sochegii kyaa
+mai.n chalii mai.n chalii \threedots
+%
+#endindian
+\endsong
+%

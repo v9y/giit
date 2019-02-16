@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{yahaa.N koii nahii.n teraa mere sivaa}%
+\film{Dil Ek Mandir}%
+\year{1963}%
+\starring{Rajendra Kumari, Meena Kumari}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: U V Ravindra
+%
+\printtitle
+#indian
+%
+yahaa.N koii nahii.n teraa mere sivaa
+kahatii hai jhuumatii gaatii havaa
+tum sab ko chho.D kar aa jaao, aa jaao aa jaao
+
+baadal bhii ban ke paanii, ik din to barasataa hai
+lohaa bhii jal ke aag me.n ik din to pighalataa hai
+jis dil me.n ho muhabbat ik din to tarasataa hai
+yahaa.N koii nahii.n   \threedots
+
+terii man kii ulajhane.n sulajhaanaa chaahataa huu.N
+tujhe aaj se apanii mai.n banaanaa chaahataa huu.N
+man ke sunahare mandir me.n biThaanaa chaahataa huu.N
+yahaa.N koii nahii.n   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{teraa kaam hai jalanaa paravaane, chaahe shamaa jale}% 
+\film{Paapi}%
+\year{1953}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Rafi}%
+\music{S Mohinder}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@du.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+teraa kaam hai jalanaa paravaane, chaahe shamaa jale yaa nA jale 
+shamaa jale yaa nA jale 
+tU pa.nkh jalaale dIvaane, chaahe shamaa jale yaa nA jale 
+shamaa jale yaa nA jale 
+
+ye dard mohabbat kaa sah jaa, tU aag ke dariyaa me.n bahajaa 
+kahatii jo duniyA kahane de, tU jalate jalate ye kahajaa 
+yuu.n jal marate hai.n dIvaane, chaahe shamaa jale yaa nA jale 
+shamaa jale yaa nA jale 
+
+terA pyaar nahii.n hai harajaaii, tU saudaaii hai saudaaI 
+marane mai.n hai shaan mohabbat kii, jiine me.n hai terI rusavaaii, 
+marate nahii.n jal kar paravaane, chaahe shamaa jale yaa nA jale 
+shamaa jale yaa nA jale 
+
+teraa kaam hai jalanaa paravaane, chaahe shamaa jale yaa nA jale 
+shamaa jale yaa nA jale \- 2
+%
+#endindian
+\endsong
+%

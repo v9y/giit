@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{phuulo.n me.n kaliyo.n me.n ... dil hai bechain aajaa}%
+\film{Gang}%
+\year{1999}%
+\starring{Jackie Shroff, Juhi Chawala, Nana Patekar, Kumar Gaurav, Javed Jaffery}%
+\singer{Kumar Sanu, Sadhana Sargam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+phuulo.n me.n kaliyo.n me.n pyaar kii galiyo.n me.n
+dono.n mile.n mil ke chale.n anajaanii raaho.n me.n ham
+ai he dil hai bechain aajaa aajaa
+ai he pyaase hai.n nain aajaa aajaa
+phuulo.n me.n \threedots
+
+gaa rahii hai.n havaa_e.n pyaar ke vo taraane
+gunagunaake jinhe.n ham ho ga_e the diivaane
+mastii kaa aalam hai milane kaa mausam hai
+to kisali_e ye faasale kyuu.n ham pe hai ye sitam
+ai he dil hai bechain \threedots
+
+tuu kahii.n kho gayaa to mai.n rahii kho_ii kho_ii
+jaane kyaa ho gayaa thaa mai.n na jaagii na so_ii
+mai.n raah takatii thii kab se tarasatii thii
+terii sadaa sun ke lagaa mai.n jii uThii huu.N sanam
+ai he dil hai bechain \threedots
+%
+#endindian
+\endsong
+

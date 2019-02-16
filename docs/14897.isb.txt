@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{madhu\-ritu aa_ii phaagun kii sakhi}%
+\film{Vidyapati}%
+\year{1937}%
+\starring{Pahari Sanyal, Kananbala, Chhaya Devi, Prithviraj Kapoor}%
+\singer{Pahari Sanyal, Chorus}%
+\music{R C Boral}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+pa \:	madhu\-ritu aa_ii phaagun kii sakhi bhramaro.n kii bharamaar
+	ras ke lobhii kalii\-kalii ko chuumat sau\-sau baar
+	
+pa \:	madhur\-madhur bri.ndaavan saaje
+ko \:	madhur\-madhur bri.ndaavan saaje
+pa \:	madhur shyaam kii baa.Nsuri baaje
+ko \:	madhur shyaam kii baa.Nsuri baaje
+	
+pa \:	madhur\-madhur saajan kii raate.n
+	madhur\-madhur chitawan kii ghaate.n
+ko \:	madhur\-madhur saajan kii raate.n
+	madhur\-madhur chitawan kii ghaate.n
+	
+pa \:	madhur\-madhur madhur\-madhur
+	jhuum tananana jhuum jhuum paayal kii jha.nkaar
+ko \: madhur\-madhur madhur\-madhur
+	jhuum tananana jhuum jhuum paayal kii jha.nkaar
+
+pa \:	naach bhramar tuu naach
+	bhramaro.n kii bharamaar
+ko \:	( naach bhramar tuu naach
+	bhramaro.n kii bharamaar ) \-2
+
+pa \:	naach bhramar tuu naach
+ko \:	bhramaro.n kii bharamaar
+
+#endindian
+\endsong

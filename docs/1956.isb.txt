@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye vahii giit hai, jisako maine, dha.Dakan me.n basaayaa hai}%
+\film{Man Jaiye}%
+\year{1972}%
+\starring{}%
+\singer{Kishore}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Kannan Muthukkaruppan (mkannan@mahogany.CS.Berkeley.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye vahii giit hai, jisako maine,  dha.Dakan me.n basaayaa hai
+tere ho.nTho.n se isako churaakar,  ho.nTho.n pe sajaayaa hai
+ye vahii giit hai,  ye vahii giit hai
+
+maine ye giit jab gun\-gunaayaa,
+saj ga_ii hai khayaalo.n kii mahafil
+(pyaar ke ra.ng aa.Nkho.n me.n chhaaye, 
+muskuraaI ujaalo.n kii mahafil   ) \- 2
+ye vo naGamaa hai jo zi.ndagii me.n,  roshanii banake aayaa hai
+tere ho.nTho.n se isako churaakar \threedots
+
+mere dil ne yahii giit gaakar, jab kabhii tujhako aavaaz dii hai
+phuul zulfo.n me.n apanii sajaakar, tuu mere saamane aa ga_ii hai \- 2
+tujhe aqsar merii bekhudii ne,  siine se lagaayaa hai
+tere ho.nTho.n se isako churaakar \threedots
+%
+#endindian
+\endsong
+%

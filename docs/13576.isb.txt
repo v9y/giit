@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{chal\-chal re musaafir chal tuu is duniyaa se chal}%
+\film{Poojaa}%
+\year{1954}%
+\starring{Poornima, Bharat Bhushan, Shakuntala, Om Prakash}%
+\singer{Rafi}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10823 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+chal\-chal re musaafir chal tuu is duniyaa se chal
+jahaa.N dil kaa ik ishaaraa ho aur duniyaa jaa_e badal
+chal\-chal re musaafir \threedots
+
+mastii bharii havaa_e.N jis galii me.n jaa_e.N phuul khilaa_e.N
+ye madahosh nigaahe.n jisape aTak jaa_e.N apanaa banaa_e.N
+jahaa.N pyaar kaa rastaa ko_ii na roke ko_ii na kahe sa.mbhal
+chal\-chal re musaafir \threedots
+
+ruup kii pyaasii aa.Nkhe.n dil me.n aramaan sau tuufaan
+aaKir kabhii to hogii tumase pahachaan o anajaan
+kabhii to rimajhim barase.nge ye ra.ng bare baadal 
+chal\-chal re musaafir \threedots
+
+pyaar kii riit niraalii jo mausam jaa_e jaa ke naa aa_e
+dam bhar kii ujiyaalii jab din Dhal jaa_e dil ghabaraa_e
+jahaa.N uja.De naa si.ngaar kisii kaa phaile naa kaajal
+chal\-chal re musaafir \threedots
+%
+#endindian
+\endsong
+

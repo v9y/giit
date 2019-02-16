@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{dil lagaanaa tum kyaa jaano}%
+\film{Ek Jaan Hain Hum}%
+\year{1983}%
+\starring{Shammi Kapoor, Rajiv Kapoor, Divya Rana, Pran, Tanuja, Kiran Vairale}%
+\singer{Kishor, Asha}%
+\music{Annu Malik}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10061 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	dil lagaanaa tum kyaa jaano
+	e dil churaanaa tum kyaa jaano
+	dil lagaanaa tumako ham sikhaa de.nge
+	dil churaanaa tumako ham sikhaa de.nge
+	he he he
+
+aa \:	he he dil lagaanaa ham jaanate hai.n jii
+	dil churaanaa ham jaanate hai.n jii
+	dil lagaanaa tum kyaa sikhaa_oge
+	dil churaanaa tum kyaa sikhaa_oge
+	taaraapapaa chikiririkaa \-2
+	he he he
+
+	la.Dakiyo.n ke piichhe piichhe haa.N piichhe ghuumate ho raat din yahaa.N
+	( kyaa ) \-2 ( karoge ) \-3 dil tumhaare paas hai kahaa.N
+ki \:	( chho.Do ) \-3 dil yah chiiz ( kyaa hai ) \-3
+	yah tumhe.n abhii pataa kahaa.N baa.Nho.n me.n to ( aa_o ) \-3
+	jaan jaa_oge jaan\-e\-jaa.n jaa.n jaa.n jaa.n
+	taaraapapaa chikiririkaa \-3
+	he he he
+
+	tum agar ( kaho to ) \-3 chaa.Nd taare to.D laa_e.n ham
+	jaan bhii ( luTaa de.n ) \-3 aajamaa ke dekho to sanam
+aa \:	( chho.Do ) \-3 na karo ye ( daave ) \-3
+	jaan kyaa kisii pe doge tum jab gha.Dii vo ( aa_ii ) \-3
+	bhaag jaa_oge dabaa ke dum dum dum dum
+	taaraapapaa chikiririkaa \-3
+	he he he
+
+	laa laa laa rob ho ( jamaate ) \-3 sabake saamane mile jo ham
+	jab mile ( akele ) \-3 chuumate husn ke qadam
+ki \:	( chho.Do ) \-3 hoge tum ( diivaane ) \-3 husn ke jo chuum le.n qadam
+	hamako jo ( jhukaa de ) \-3 kis hasiinaa me.n hai itanaa dam dam dam
+	dil lagaanaa tum kyaa jaano \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tere bin ko_ii bhii pal mujhe bhaataa nahii.n sanam}%
+\film{Pyaar Kiya Nahin Jaata}%
+\year{2002}%
+\starring{Sonali Bendre}%
+\singer{Atul Kale}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere bin ko_ii bhii pal mujhe bhaataa nahii.n sanam
+mujhe tumase kitanaa pyaar hai tere pyaar kii kasam
+tere bin ko_ii bhii \threedots
+
+kis baat se Darataa huu.N mai.n mujhako nahii.n khabar
+bas Dolataa hai dil meraa to idhar kabhii udhar
+dil me.n jagah banaa gayaa ik miiThaa miiThaa Gam
+tere bin ko_ii bhii \threedots
+
+apanaa tumhe.n na kah sakaa kyaa hai meraa nasiib
+maine faasale ba.Dhaa li_e rahakar tere kariib
+mujhe maaf karanaa yaar tuu itanaa saa kar karam
+tere bin ko_ii bhii \threedots
+%
+#endindian
+\endsong
+

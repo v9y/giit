@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{koii matavaalaa aayaa mere dvaare}%
+\film{Love In Tokyo}%
+\year{1966}%
+\starring{Joy Mukherji, Asha Parekh}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+koii matavaalaa aayaa mere dvaare
+akhiyo.n se kar gayaa ajab ishaare
+koii matavaalaa, aayaa mere dvaare   \threedots
+
+kyaa man usake mai.n kyaa jaanuu.N
+chhaliyaa ko mai.n kyaa pahachaanuu.N
+jaane kyo.n meraa naam pukaare
+aa~
+koii matavaaraa aayaa mere dvaare    \threedots
+
+jab se gayaa hai bholaa bachapan
+akhiyaa.N cha.nchal, naTakhaT hai man
+ab nahii.n kuchh bhii bas me.n hamaare
+aa~
+koii matavaaraa aayaa mere dvaare    \threedots
+
+%
+#endindian
+\endsong
+%

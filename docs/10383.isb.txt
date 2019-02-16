@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{uupar vaale o uupar vaale teraa javaab nahii.n}%
+\film{Avtaar}%
+\year{1983}%
+\starring{Rajesh Khanna, Shabana Azmi}%
+\singer{Kishor, Lakshmi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11319 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+uupar vaale \-2
+o uupar vaale teraa javaab nahii.n \-2
+kab de kyaa de hisaab nahii.n
+ko \:	uupar vaale teraa javaab \threedots
+
+ki \:	terii meharabaaniyo.n kaa javaab nahii.n
+	uupar vaale teraa javaab \threedots
+
+	mujhako biivii kaa pyaar diyaa
+	jannat jaisaa ghar\-baar diyaa \-2
+la \:	har haal me.n Kush rahataa hai tuu
+	dariyaa kii tarah bahataa hai tuu
+ki \:	o tuu nahii.n tum nahii.n aap mai.n
+	are do beTo.n kaa baap mai.n
+	isase ba.Daa ko_ii Kitaab nahii.n
+	uupar vaale teraa javaab \threedots
+
+	tuu ek haath se letaa hai to sau haatho.n se detaa hai \-2
+	is dil ko di_e aramaan ba.De mujh par hai.n tere ehasaan ba.De
+	kuchh log hai.n juuto.n ko rote \-2
+	kuchh logo.n ke paa.Nv nahii.n hote
+	meraa haal itanaa Karaab nahii.n
+	uupar vaale teraa javaab \threedots
+
+	taariif karuu.N terii kaise ka.Dakii me.n bhej di_e paise \-2
+	himmat kaa mujhe paiGaam diyaa mehanat kaa mujhe iinaam diyaa
+	dukh\-sukh saathii hai.n duniyaa me.n \-2
+	phuulo.n\-kaliyo.n kii bagiyaa me.n
+	kaa.NTe bhii hai sirf gulaab nahii.n
+	uupar vaale teraa javaab \threedots
+%
+#endindian
+\endsong
+

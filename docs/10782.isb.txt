@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{naa naa naa naa ... meha.ndii veha.ndii naa mujhako lagaanaa}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Alka Yagnik, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa naa naa naa ho naa jii naa naa
+meha.ndii veha.ndii naa mujhako lagaanaa
+mujhe saajan ke ghar nahii.n jaanaa
+ho naa naa naa naa naa jii naa naa
+meha.ndii veha.ndii naa \threedots
+
+chaahe kuchh bhii kahe dil diivaanaa
+dil kii baato.n me.n mujhe nahii.n aanaa
+naa naa naa naa \threedots
+
+mai.n to ghuu.nghaT me.n jal ga_ii
+chunarii mujhase lipaT ga_ii
+nii.nd naa aa_e mujhe jaag mai.n jaa_uu.N
+kahii.n luk chhup jaa_uu.n kahii.n bhaag mai.n jaa_uu.N
+kahaa.N se aa_e jaane kahaa.N le jaa_e ye rastaa anjaanaa
+chaahe kuchh bhii kahe \threedots
+
+mai.n to o o o jaaduu kii pu.Diyaa
+mai.n to shiishe kii gu.Diyaa
+mai.n to jaaduu kii pu.Diyaa
+mai.n to shiishe kii gu.Diyaa
+ruuTh na jaa_uu.n kahii.n TuuT na jaa_uu.n kahii.n
+chal saath sahelii mai.n na jaa_uu.n akelii
+chup naa rahuu.ngii saajan se kahuu.ngii tuu paas na aanaa
+chaahe kuchh bhii kahe \threedots
+%
+#endindian
+\endsong
+

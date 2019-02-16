@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ai sanam merii baaho.n me.n aa}%
+\film{Kyaa Kehnaa}%
+\year{1999}%
+\starring{Preity Zinta, Chandrachud Singh, Saif Ali Khan, Farida Jalal, Anupan Kher}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai sanam merii baaho.n me.n aa
+dil se kyuu.n rahe dha.Dakan judaa
+jiinaa bhii kyaa jiinaa tere binaa
+ai sanam merii \threedots
+
+dil karataa rahaa aramaano.n kaa shor
+phir bhii jaan\-e\-jaanaa.n thaame rahaa mai.n dil ko
+mai.n bhii saajanaa kaise kyaa kahuu.n
+dha.Dakan kii jubaa.n se aa_o sunaa_uu.n tumako
+aashiqii ke tuu naGame.n sunaa
+dil se kyuu.n rahe \threedots
+
+jo milane na de hamako pyaar me.n
+aa_o aaj aisii rasmo.n ko to.D Daale.n
+dil me.n naa rahe ko_ii aarazuu
+milake aaj saare aramaan ham nikaale.n
+pyaar ban ke aa mujhame.n samaa
+dil se kyuu.n rahe \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{baadal chaa.Ndii barasaaye runajhun runajhun}%
+\film{Saaz}%
+\year{}%
+\starring{}%
+\singer{Devaki Pandit, Jyotsna Hardikar}%
+\music{Bhupen Hazarika}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+baadal chaa.Ndii barasaaye runajhun runajhun
+buu.Ndo.n ke saaz bajaaye runajhun runajhun
+paanii apanii paayal dharatii par jhanakaaye runajhun runajhun
+
+paapii hai papiihaa dekho shor kare ban me.n
+huuq sii uThe siine me.n aag lage man me.n
+pagalii puravaa_ii gaaye runajhun runajhun
+bhiige aur naache jaaye runajhun runajhun
+paanii apanii paayal dharatii par   \threedots
+
+bagiyaa me.n bha.Nvare aaye pe.Do par bha.Nvare aaye
+Daalii par chi.Dyaa.N aayii.n laharo.n me.n lahare.n aaye
+jaare kaagaa jaake kahade tuu mere saajan se
+sab aaye ab tuu bhii aajaa aa mil jaa birahan se
+barakhaa har din aa jaaye, har din bas ye doharaaye
+paanii apanii paayal dharatii par   \threedots
+
+%
+#endindian
+\endsong
+%

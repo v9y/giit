@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ye raat khushanasiib hai, jo apane chaa.nd ko kaleje se lagaa_e so rahii hai}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Dilip Sen-Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: Surender 
+% Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye raat khushanasIb hai, jo apane chaa.nd ko 
+kaleje se lagaa_e so rahii hai
+yahaa.N to Gam kii sej pe hamaarii aarazuu
+akelii muu.Nh chhupaaye ro rahii hai
+ye raat khushanasiib hai \threedots
+
+saathii mai.n paake tujhe khoyaa, kaisaa hai ye apanaa nasiib
+ho tujhase bichha.D gayii mai.n yaade.n terii hai.n mere kariib
+ho tuu merii vafaao.n me.n, tuu merii sadaa_o.n me.n,
+tuu merii duaa_o.n me.n 
+ye raat khushanasiib hai \threedots
+
+kaTatii nahii.n hai.n merii raate.n, kaTate nahii.n hai.n mere din
+mere saare sapane adhuure, zi.ndagii adhuurii tere bin
+ho khvaabo.n me.n nigaaho.n me.n, pyaar ke panaaho.n me.n, 
+aa chhupaale baaho.n me.n
+ye raat khushanasib hai \threedots
+
+ye raat khushanasIb hai, jo apane chaa.nd ko 
+kaleje se lagaa_e so rahii hai
+yahaa.N to Gam kii sej pe hamaarii aarazuu
+akelii muu.Nh chhupaaye ro rahii hai
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{o sajanaa, barakhaa bahaar aayii ras kii phuhaar laayii}%
+\film{Parakh}%
+\year{1960}%
+\starring{Vasant Choudhry, Motilal, Sadhana}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+(o sajanaa, barakhaa bahaara aaI
+rasa kii phuhaara laaI, a.Nkhiyo.n me pyaar laaI ) \- 2
+o sajanaa
+
+tumako pukaare mere mana kaa papiharaa \- 2
+miiThii miiThii aganii me.n, jale moraa jiyaraa
+o sajanaa \threedots
+
+(aisI rimajhima me.n o saajan, pyaase pyaase mere nayana
+tere hii, khvaaba me.n, kho gae ) \- 2
+saa.nvalii salonii ghaTaa, jaba jaba chhaaI \- 2
+a.Nkhiyo.n me.n rainaa gaI, nindiyaa na aaI
+o sajanaa \threedots
+%
+#endindian
+\endsong
+%

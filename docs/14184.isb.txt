@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{teraa tiir o bepiir dil ke aarampaar hai}%
+\film{Sharaarat}%
+\year{1959}%
+\starring{Meena Kumari, Kishore Kumar, Rajkumar, Kumkum, ,Sundar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11657 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+teraa tiir o bepiir dil ke aarampaar hai
+jaane kisakii jiit hai ye jaane kisakii haar hai
+teraa tiir o bepiir \threedots
+
+raato.n ko ni.ndiyaa na din ko qaraar hai
+ko_ii kahe priit hai ko_ii kahe pyaar hai
+
+bhuul se mai.n ek baar terii galii aa ga_ii
+la.D ga_e nainaa nazar Takaraa ga_ii
+rasiyaa kii ras bharii baato.n me.n aa ga_ii
+dil de baiThii mai.n haay dhokhaa khaa baiThii
+ulajhe nain me.n na chain dil bhii beqaraar hai
+jaane kisakii jiit \threedots
+
+laakh maine chaahaa mai.n pyaar chhupaa_uu.Ngii
+tuune mujhe chhe.Daa mai.n tujhako sataa_uu.Ngii
+nain Dor baa.Ndh ishaaro.n pe nachaa_uu.Ngii
+mujhe kyaa Kabar thii mai.n Kud hii ba.Ndh jaa_uu.Ngii
+terii priit tere giit tuu hii to bahaar hai
+raato.n ko ni.nidyaa \threedots
+%
+#endindian
+\endsong
+

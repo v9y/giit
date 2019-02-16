@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{chaahuu.Ngaa mai.n tujhe, saa.Njh savere}%
+\film{Dosti}%
+\year{1964}%
+\starring{Sushil Kumar, Sudhir Kumar}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Ramesh Hariharan (hariharn@torroja.Princeton.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chaahuu.Ngaa mai.n tujhe saa.Njh savere
+phir bhii kabhii ab naam ko tere
+aavaaz mai.n na duu.Ngaa, aavaaz mai.n na duu.Ngaa
+
+dekh mujhe sab hai pataa
+sunataa hai tuu man kii sadaa   (2)
+mitavaa \threedots
+mere yaar tujhako baar baar
+aavaaz mai.n na duu.Ngaa, aavaaz mai.n na duu.Ngaa
+chaahuu.Ngaa mai.n tujhe saa.Njh savere
+
+dard bhii tuu chain bhii tuu
+daras bhii tU nain bhii tuu
+mitavaa \threedots
+mere yaar tujhako baar baar
+aavaaz mai.n na duu.Ngaa, aavaaz mai.n na duu.Ngaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jalate hai.n jis ke liye, terii aa.Nkho.n ke diye}%
+\film{Sujata}%
+\year{}%
+\starring{Sunil Dutt, Nutan}%
+\singer{Talat}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits:  Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jalate hai.n jisake liye, terii aa.Nkho.n ke diye
+Dhuu.NDh laayaa huu.N vahii, giit mai.n tere liye
+jalate hai.n jisake liye
+
+dard banake jo mere dil me.n rahaa Dhal naa sakaa
+jaaduu banake terii aa.Nkho.n me.n rukaa chal naa sakaa
+aaj laayaa huu.N vahii giit mai.n tere liye
+jalate hai.n jisake liye
+
+dil me.n rakh lenaa ise haatho.n se ye chhuuTe na kahii.n
+giit naazuk hai meraa shiishe se bhii TuuTe na kahii.n
+gunagunaauu.ngaa yahii giit mai.n tere liye
+jalate hai.n jisake liye
+
+jab talak naa ye tere ras ke bhare ho.nTho.n se mile
+yuu.N hii aavaaraa phiregaa ye terii zulfo.n ke tale
+gaaye jaauu.ngaa yahii giit mai.n tere liye
+jalate hai.n jisake liye
+%
+#endindian
+\endsong
+%

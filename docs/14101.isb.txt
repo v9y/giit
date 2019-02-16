@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{chaa.Nd ghaTane lagaa raat Dhalane lagii}%
+\film{Shart}%
+\year{1954}%
+\starring{Deepak, Shyama}%
+\singer{Geeta}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10049 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+la la
+chaa.Nd ghaTane lagaa raat Dhalane lagii
+aarazuu mere dil kii machalane lagii o o
+
+merii ni.ndiyaa se bojhal ye akhiyaa.N kahe.n
+paar baiTho zaraa kuchh kahe.n kuchh sune
+Tha.nDii Tha.nDii havaa ab chalane lagii
+aarazuu mere dil kii \threedots
+
+raat jaatii hai jholii me.n taare li_e
+raah takate hai.n par ham tumhaare li_e
+so_ii so_ii kalii aa.Nkh malane lagii
+aarazuu mere dil kii \threedots
+
+diip taaro.n ke bujhane se pahale sanam
+aaj kahanaa hai jo kuchh bhii kah le sanam
+aag sulagii hu_ii dekh jalane lagii
+aarazuu mere dil kii \threedots
+%
+#endindian
+\endsong
+

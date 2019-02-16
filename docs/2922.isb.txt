@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o meraa dil o merii jaa.N chaahe le le}%
+\film{Aab-e-Hayat}%
+\year{1955}%
+\starring{Prem Nath, Shashikala, Pran}%
+\singer{Geeta, chorus}%
+\music{Sardar Malik}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+o meraa dil o merii jaa.N chaahe le le
+ik pyaar zaraa saa de de
+
+ye pahalii pahalii chaahat
+ye bahakii bahakii haalat
+tuu phuul hai mai.n huu.N ra.ngat
+ye jhuume jhuume jannat
+pyaar kii ye parii tere dar pe kha.Dii
+aa idhar o jaaduugar matavaale
+laa ishq kii duniyaa de de
+meraa dil o merii jaa.N \threedots
+
+anmol khushii ke la.Diyaa.N
+mushkil se mile ye gha.Diyaa.N
+do roz ke ye afasaane
+kal kyaa ho Kudaa hii jaane
+maharabaa.N naujavaa.n
+ye samaa phir kahaa.N
+jaan\-e\-man meraa ban alabele
+tuu jhuum ke haa.N to kah de
+o meraa dil merii jaa.N \threedots
+
+%
+#endindian
+\endsong
+%

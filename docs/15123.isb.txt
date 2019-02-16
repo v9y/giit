@@ -1,0 +1,45 @@
+% ITRANS SONG # 15123; Created on Aug 16, 2004
+
+\startsong
+\stitle{Gazab kiyaa tere waade pe aitabaar kiyaa}%
+\film{(Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Khayyam}%
+\lyrics{Daag Dehalavi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 14, 2004
+% Song Courtesy: http://www.indianscreen.com
+% Credits: Afzal A Khan
+
+\printtitle
+#indian
+
+Gazab kiyaa tere waade pe aitabaar kiyaa
+tamaam raat qayaamat ka i.ntazaar kiyaa
+
+% the following one sher is only in Rafi version
+ha.Nsaa\-ha.Nsaa ke shab\-e\-wasl ashqabaar kiyaa
+tasaliyaa.N mujhe de\-de ke beqaraar kiyaa
+
+ham aise mahav\-e\-nazaaraa na the jo hosh aataa
+magar tumhaare taGaaful ne hoshiyaar kiyaa
+
+% the following one sher is only in Rafi version
+fasaanaa\-e\-shab\-e\-Gam unako ek kahaanii thii
+kuchh aitabaar kiyaa kuchh na aitabaar kiyaa
+
+% Mehdi Hasan sang this ghazal with the following shers in addition 
+
+tujhe to waadaa\-e\-diidaar hamase karanaa thaa
+ye kyaa kiyaa ke jahaa.N ko ummiidavaar kiyaa
+
+ye dil ko taab kahaa.N hai ke ho maan andesh
+unho.n ne waadaa kiyaa hamane aitabaar kiyaa
+
+na puuchh dil kii haqiiqat magar ye kahate hai.n
+wo beqaraar rahe jisane beqaraar kiyaa
+
+#endindian
+\endsong

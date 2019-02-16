@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{paanii re paanii teraa ra.ng kaisaa}%
+\film{Shor}%
+\year{1972}%
+\starring{Manoj Kumar, Jaya Bhaduri}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Indrajeet Singh Tulsi}%
+%
+% Contributor: BOL ANAMOL #11207 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	paanii re paanii teraa ra.ng kaisaa
+la \:	jisame.n milaa do lage us jaisaa
+mu \:	paanii re paanii o paanii paanii re paanii o
+
+	is duniyaa me.n jiine vaale aise bhii hai.n jiite
+	ruukhii\-suukhii khaate hai.n aur ThaNDaa paanii piite
+la \:	is duniyaa me.n \threedots
+ko \:	tere ek hii ghuu.NT se milataa jannat kaa aaraam
+la \:	paanii re
+mu \:	bhuukhe kii bhuukh aur pyaas jaisaa
+ko \:	paanii re paanii \threedots
+la \:	o paanii paanii re paanii o o
+ko \:	o o o ho ho ho
+
+mu \:	ga.ngaa se jab mile to banataa ga.ngaajal tuu paavan
+	baadal se tuu mile to rimajhim\-rimajhim barase saavan
+ko \:	saavan aayaa saavan aayaa
+la \:	saavan aayaa saavan aayaa rimajhim barase paanii
+	( aag sii o.Dhakar aag pahanakar ) \-2 pighalii jaa_e javaanii
+mu \:	kahii.n pe dekho chhat Tapakatii jiinaa hu_aa haraam
+ko \:	paanii re paanii \threedots
+la \:	duniyaa banaane vaale rab jaisaa
+ko \:	paanii re paanii \threedots
+la \:	o paanii paanii re paanii o o
+
+mu \:	vaise to har ra.ng me.n teraa jalavaa ra.ng jamaa_e
+	jab tuu phire ummiido.n par teraa ra.ng samajh naa aa_e
+la \:	kalii khile to jhaT aa jaa_e patajha.D kaa paiGaam
+ko \:	paanii re paanii \threedots
+mu \:	sau saal jiine kii ummiido.n jaisaa
+ko \:	o paanii o
+	paanii re paanii \threedots
+mu \:	paanii re paanii
+la \:	o paanii paanii re paanii o
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tum ko bhii to, aisaa hii kuchh, hotaa hogaa, o sajanaa}%
+\film{Aap Aaye Bahaar Aayi}%
+\year{}%
+\starring{Rajendra Kumar, Sadhana}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+la: 	tum ko bhI to, aisA hI kuchh, hotA hogA, o sajanA
+
+ki:	kaisA? kaisA?
+la:  	terI yaad sataatI hai, nii.nd nahI.n aatI hai, raato.n me.n \- 2
+ki:	tum ko bhI to, aisA hI kuchh, hotA hogA, o sajanI
+la:     kaisA aa aa \threedots
+ki:	terA pyaar sataatA hai, chain nahii.n aatA hai, raato.n me.n \- 2
+dono:	tum ko bhI to, aisA hI kuchh, hotA hogA \threedots
+
+ki:	merI haalat jaisI hai, terA haal bhI aisA hai \- 2
+	halkA halkA sA jiyA me.n jaane dard ye kaisA hai \threedots
+	tum ko bhI to, aisA hI kuchh, hotA hogA, o sajanI
+la:  	kaisA? kaisA?
+ki:	taare ginatA mai.n rahatA huu.N, jaagatA rahatA huu.N, raato.n me.n \- 2
+
+la:  	in bhiigI fizaao.n se, in Tha.nDI havaao.n se \- 2
+	aag sI lagatI hai, jiyA me.n saavan kii ghaTaao.n se \threedots
+	tum ko bhI to, aisA hI kuchh, hotA hogA, o sajanA
+ki:	kaisA?
+la: 	intazaar terA karatI huu.N, aahe.n mai.n bharatI huu.N, raato.n me.n \- 2
+
+ki:	ye mast nazar terI, mere hosh u.DAtI hai \- 2
+la: 	ye terI mastI mujhe bhI madahosh banAtI hai \threedots
+	tum ko bhI to, aisA hI kuchh, hotA hogA, o sajanA
+ki:	kaisA?
+la:  	roz KvAb me.n tuu aatA hai, dil dha.DakaatA hai, raato.n me.n \- 2
+
+dono:	tum ko bhI to, aisA hI kuchh, hotA hogA \threedots
+%
+#endindian
+\endsong
+%

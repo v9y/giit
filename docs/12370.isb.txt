@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{merii tarah tum bhii kabhii pyaar kar ke dekho naa}%
+\film{Kya Yehi Pyaar Hai}%
+\year{2002}%
+\starring{Jackie Shroff, Aftab Shivdasani, Ameesha Patel, Anupama Verma}%
+\singer{Alka Yagnik, Babul Supriyo}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii tarah tum bhii kabhii pyaar kar ke dekho naa
+chaahat kaa mujhase sanam ikaraar karake dekho naa
+kitanaa mazaa hai kaisaa nashaa hai pyaar kar ke dekho naa
+merii tarah \threedots
+
+pyaar dil kaa sapanaa hai pyaar tujh se karanaa hai
+pyaar ke ra.ngo.n se aaj apane dil ko ra.nganaa hai
+aaj tak jo kahanaa thaa aaj tujh se kahanaa hai
+dil me.n ab chhupaa le tuu dil me.n tere rahanaa hai
+dil ne kahaa hai dil ne sunaa hai pyaar kar ke dekho naa
+merii tarah \threedots
+
+is tarah se dekho tum saadagii bikhar jaa_e
+aaj merii aa.Nkho.n me.n bekhudii bikhar jaa_e
+chaa.nd jaise mukha.De par chaa.Ndanii bikhar jaa_e
+zi.ndagii ke chehare par aashiqii bikhar jaa_e
+tumako pataa hai kitanii vafaa hai pyaar kar ke dekho naa
+merii tarah \threedots
+%
+#endindian
+\endsong
+

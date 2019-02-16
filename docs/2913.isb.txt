@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{mizaaj-e-garaamii duaa hai aap kii}%
+\film{Jaal}%
+\year{}%
+\starring{Biswajeet, Mala Sinha}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: U.V. Ravindra
+% Transliterator: U.V. Ravindra
+% Comments: GEETanjali Series; March 09, 2001
+%
+\printtitle
+#indian   
+%
+
+ra: m hmm
+la: m hmm
+ra: m hmm
+la: m hmm
+ra: o oho ho \threedots
+
+ra: mizaaj\-e\-garaamii,  la: duaa hai aapakii  (2)
+ra: ba.Dii Kuubasuurat adaa hai aapakii
+la: ba.Dii Kuubasuurat nigaah hai aapakii
+la: mizaaj\-e\-garaamii,  la: duaa hai aapakii  (2)
+
+
+ra: khoyaa khoyaa\-sa kuchh gumasum,
+    mai.n aajakal rahataa huu.N har mahafil me.n (2)
+    koii dawaa to batalaa_o ke dard rahataa hai
+    zaraa\-saa dil me.n
+la: yahii dard\-e\-dil to davaa hai aapakii   (2)
+la: mizaaj\-e\-garaamii,  ra: duaa hai aapakii  (2)
+
+la: marzii hai aaj kyaa fizaa kii,
+    jo aaj meraa dil yuu.N hii dha.Dakaa rahii hai (2)
+    kyaa ho gayaa hai is havaa ko
+    jo aise merii zulfo.n ko bikharaa rahii hai
+ra: kare kyaa ke aashiq havaa hai aapakii (2)
+ra: mizaaj\-e\-garaamii,  la: duaa hai aapakii (2)
+
+ra: aaye na nii.nd muhabbat me.n,
+    to raat suhaanii koii kaise guzaare (2)
+    sotaa hai chain se zamaanaa
+    guzaarataa huu.N mai.n raat gin\-ginake taare
+la: Kataa hai yeh kisakii?  Kataa hai aapakii!  (2)
+la: mizaaj\-e\-garaamii,  ra: duaa hai aapakii   (2)
+ra: ba.Dii Kuubasuurat adaa hai aapakii
+la: ba.Dii Kuubasuurat nigaah hai aapakii
+ra: mizaaj\-e\-garaamii,  la: duaa hai aapakii  (2)
+
+%
+#endindian
+\endsong
+%

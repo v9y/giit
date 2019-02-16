@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{terii nazar kaa tiir ... tere ishq me.n pa.D gayaa re}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+terii nazar kaa tiir mere dil me.n ga.D gayaa re
+are ga.D gayaa ga.D gayaa ga.D gayaa ga.D gayaa ga.D gayaa ga.D gayaa re
+tere ishq me.n pa.D gayaa re o tere ishq me.n pa.D gayaa re
+
+maine laakh bachaa_ii phir bhii aa.Nkh la.D ga_ii re
+are la.D ga_ii la.D ga_ii la.D ga_ii la.D ga_ii la.D ga_ii la.D ga_ii re
+tere ishq me.n pa.D ga_ii re o tere ishq me.n pa.D ga_ii re
+tere ishq me.n \threedots
+
+inkaar karanaa thaa ikaraar kar baiThii
+naa zor chalaa dil pe mai.n tumase pyaar kar baiThii
+maine tujhe dekhaa bechain ho baiThaa
+terii mohabbat me.n diivaanaa josh kho baiThaa
+merii jaan mai.n to bhuul ke ye saaraa jahaa.N
+tere ishq me.n \threedots
+
+tere ruup me.n jaaduu teraa ra.ng hai aalaa
+ho.nTho.n se chhuune de zaraa ho.nTho.n kaa ye pyaalaa
+mahakaa ga_ii mujhako terii baat mastaanii
+tuune kiyaa vo haal ban ga_ii terii diivaanii
+ko_ii kahe kuchh bhii kahe mai.n to merii jaa.n
+tere ishq me.n \threedots
+%
+#endindian
+\endsong
+

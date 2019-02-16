@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{raat aur din diyaa jale, mere man me.n phir bhii a.ndhiyaaraa hai}%
+\film{Raat Aur Din}%
+\year{1967}%
+\starring{Pradeep Kumar, Nargis, Feroz Khan}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Sriram Devanathan (sriram@IASTATE.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+raat aur din diyaa jale
+mere man me.n phir bhii a.ndhiyaaraa hai
+jaane kahaa.N hai vo saathii
+tuu jo mile jiivan ujiyaaraa hai
+raat aur din\threedots
+
+pag pag man meraa Thokar khaae
+chaa.Nd suuraj bhii raah na dikhaae
+aisaa ujaalaa koii man me.n samaae
+jisake piyaa kaa darshan mil jaae
+raat aur din\threedots
+
+gaharaa ye bhed koii mujhako bataae
+kisane kiyaa hai mujhapar anyaay
+jisakaa hii diip vo bujh nahii.n paae
+jyoti diye kii duuje ghar ko sajaae
+raat aur din\threedots
+
+khud nahii.n jaanuu.N Dhuu.NDhe kisako nazar
+kaun dishaa hai man kii Dagar
+kitanaa ajab hai ye dil kaa safar
+jiyaraa me.n aae jaise koii lahar
+raat aur din\threedots
+%
+#endindian
+\endsong
+%

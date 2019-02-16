@@ -1,0 +1,27 @@
+%
+\startsong
+\stitle{jab bhii milatii hai mujhe ajanabii lagatii kyuu.N hai}%
+\film{Umrao Jaan}%
+\year{1981}%
+\starring{Rekha, Naseeruddin Shah, Farouque Shaikh, Raj Babbar, Dina Pathak, Shaukat Azmi, Prema Narayan}%
+\singer{Asha}%
+\music{Khaiyyam}%
+\lyrics{Shahryar}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+%
+\printtitle
+#indian
+%
+
+jab bhii milatii hai mujhe ajanabii lagatii kyuu.N hai
+zi.ndagii roz naye ra.ng badalatii kyuu.N hai
+
+tum se bichha.De hai.n to ab kis se milaatii hai hame.n
+zi.ndagii dekhiye kyaa ra.ng dikhaatii hai hame.n
+
+%
+#endindian
+\endsong
+%

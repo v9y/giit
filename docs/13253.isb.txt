@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{aa ga_e dil me.n tum merii mahafil me.n tum}%
+\film{Naazneen}%
+\year{1951}%
+\starring{Nasir Khan, Madhubala, Agha, Jayant, Om Prakash, Amjad Khan}%
+\singer{Lata}%
+\music{Gulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10200 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Amjad Khan as child artist
+% 
+\printtitle
+#indian
+%
+aa ga_e dil me.n tum merii mahafil me.n tum
+bach ke nazaro.n se merii kahaa.N jaa_oge
+aa_e milane ke din phuul khilane ke din
+ham pukaare.nge aur tum chale aa_oge
+
+terii Kaatir yahaa.N mujhako aanaa pa.Daa
+giit gaayaa hu_aa phir se gaanaa pa.Daa
+dekh le hai muhabbat me.n itanaa asar
+mil ga_ii phir hamaarii tumhaarii nazar
+zindagii hai javaa.N ab judaa_ii kahaa.N
+jis jagah jaa_oge tum hame.n paa_oge
+aa ga_e dil me.n tum \threedots
+%
+#endindian
+\endsong
+

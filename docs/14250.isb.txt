@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ban ke saathii pyaar kii raaho.n me.n}%
+\film{Sweetheart}%
+\year{1970s Not Released}%
+\starring{Shashi Kapoor, Asha Parekh}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11326 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	ban ke saathii pyaar kii raaho.n me.n
+	hamase kabhii tum naa judaa honaa \-2
+la \:	ruuTh jaa_e jahaa.N hamase tum naa kabhii Kafaa honaa
+do \:	ban ke saathii \threedots
+
+ra \:	ye hamaarii zindagaanii pyaar kii hai ik kahaanii
+la \:	is jahaa.N kaa har nazaaraa pyaar kaa hai ik ishaaraa
+do \:	bhuul naa jaanaa o sanam
+ra \:	ban ke saathii \threedots
+
+	ye tamannaa hai hamaarii saath guzare umr saarii
+la \:	pyaar kaa daaman ham na chho.De.n tum na bhuulo ham naa to.De.n
+do \:	ko_ii vaadaa yaa qasam
+ra \:	ban ke saathii \threedots
+do \:	ban ke saathii \threedots
+%
+#endindian
+\endsong
+

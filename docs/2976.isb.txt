@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tum ne ye kyaa sitam kiyaa zabt se kaam le liyaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tum ne ye kyaa sitam kiyaa zabt se kaam le liyaa
+tark\-e\-vafaa ke baad bhii meraa salaam le liyaa
+
+rind\-e\-kharaab\-e\-nosh kii beadabii to dekhiye
+niiyat\-e\-mahakashii na kii haath me.n jaam de diyaa
+
+pahale chaman me.n daf\-a\-tan aa ke palaT gayii bahaar
+ahal\-e\-junuun\-e\-Gaaliban aql se kaam le liyaa
+
+naam\-e\-shauq pa.Dh ke log kho gaye yak\-b\-yak 'shakeel'
+muu.Nh se to kuchh na kah sake, dil se payaam le liyaa
+
+%
+#endindian
+\endsong
+%

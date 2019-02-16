@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{mai.n huu.N saaqii tuu hai sharaabii}%
+\film{Ram Aur Shyam}%
+\year{1967}%
+\starring{Dilip Kumar, Waheeda Rahman, Mumtaz, Pran}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10648 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	mai.n huu.N saaqii tuu hai sharaabii\-sharaabii \-2
+ra \:	tuune aa.Nkho.n se pilaa_ii vo nashaa hai ke duhaa_ii
+	har taraf dil ke chaman me.n phuul khile hai.n gulaabii\-gulaabii
+la \:	mai.n huu.N saaqii \threedots
+
+	ishq me.n jiinaa sa.mbhal ke dil kaa paimaanaa naa chhalake
+	bahakii\-bahakii terii nazare.n Kvaab dikhalaatii hai.n kal ke \-2
+ra \:	terii mahafil me.n o saaqii ham chale aa_e nashe me.n
+	ab to bas ye hai tamannaa umr kaT jaa_e nashe me.n \-2
+la \:	ishq hai terii savaalii \-2
+	husn hai meraa javaabii\-javaabii
+ra \:	tuu hai saaqii mai.n huu.N sharaabii\-sharaabii
+
+	mai.n terii duniyaa me.n aa ke rah gayaa khud ko bhulaa ke
+	kyaa ho anjaam naa jaane hosh ulfat me.n ga.nvaa ke \-2
+la \:	bekhudii ke ye taraane yuu.N hii gaa_e jaa diivaane
+	ishq ra.ng laa_egaa apanaa aa ga_e ab vo zamaane \-2
+ra \:	terii mastaanii ye baate.n
+do \:	aa aa
+	terii mastaanii ye baate.n dil pe laa_e.N naa Karaabii\-Karaabii
+la \:	mai.n huu.N saaqii \threedots
+%
+#endindian
+\endsong
+

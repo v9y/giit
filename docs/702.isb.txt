@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{ham ne jafaa na siikhii, unako vafaa na aaii}%
+\film{Zindagi}%
+\year{1964}%
+\starring{Rajendra Kumar, Vyjayantimala, Raj Kumar}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham ne jafaa na siikhii, unako vafaa na aaii
+patthar se dil lagaayaa, aur dil ne choT khaaii
+
+apane hii dil ke haatho.n, barabaad ho gae ham
+kisase kare.n shikaayat, ab kisako de.n duhaaii
+
+duniyaa banaane vaale, mai.n tujhase puuchhataa hu.N
+kyaa pyaar kaa jahaa.N me.n, badalaa hai bevafaaii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye laal ra.ng kab mujhe chho.Degaa}% 
+\film{Prem Nagar}%
+\year{}%
+\starring{Rajesh Khanna, Hema Malini}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Editor: Anurag Shankar (anurag@<chandra.cis.brown.edu>)
+%
+\printtitle 
+#indian 
+%
+ye laal ra.ng kab mujhe chho.Degaa 
+meraa Gam, kab talaq, meraa dil to.Degaa 
+ye laal ra.Ng \threedots
+
+kisii kA bhI liyaa naam to, aaii yaad, tU hii tU 
+ye to pyaalA sharaab kA, ban gayaa, ye lahuu
+ye laal ra.Ng \threedots
+
+piine ki qasam Daal dI, piiyuu.Ngaa kis tarah 
+ye nA sochaa tUne yaar mai.n, jiiyU.Ngaa kis tarah 
+ye laal ra.Ng \threedots 
+
+chalA jaauu.N kahii.n chho.D kar, mai.n terA ye shahar 
+yahaa.N to nA amR^it mile, piine ko, nA zahar
+haay, ye laal ra.Ng \threedots
+%
+#endindian
+\endsong
+%

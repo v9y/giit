@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pahalii baar jo dekhaa ... muhabbat ho ga_ii}%
+\film{Jungle}%
+\year{2000}%
+\starring{Fardin Khan, Urmila Matondkar, Sunil Shetty, Shushant Singh}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Sandeep Chowtha}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii baar jo dekhaa mujhe tumase hu_ii nafarat
+kab kaise mohabbat ho ga_ii mujhe tumase mohabbat ho ga_ii
+do nigaahe.n milii.n dha.Dakane.n ba.Dh ga_ii.n kuchh ishaaraa hu_aa
+sharaarat ho ga_ii muhabbat ho ga_ii
+pahalii baar jo dekhaa \threedots
+
+raato.n ko khvaabo.n me.n ko_ii bhii aataa na thaa
+aake akele me.n aise jagaataa na thaa
+har jagah har gha.Dii bekaraarii ba.Dhii
+chain jaane lagaa ye chaahat ho ga_ii
+muhabbat ho ga_ii
+pahalii baar jo dekhaa \threedots
+
+pahale meraa haal aisaa na thaa jaan\-e\-man
+naa bekhyaalii thii na thaa ye diivaanaapan
+naa hai terii khataa naa mujhe hai pataa
+jaane kaise kahaa.N ye haalat ho ga_ii
+muhabbat ho ga_ii
+pahalii baar jo dekhaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{pitu maatu sahaayak svaaamii sakhaa}%
+\Film{non-Film}%
+\year{}%
+\singer{Mukesh}%
+\music{Naresh Bhattacharya}%
+\lyrics{Traditional}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 6, 2002
+% Comments: Available on HMV CS "Ram karen so hoye" - Mukesh Bhajans
+%
+\printtitle
+#indian
+%
+
+pitu maatu sahaayak svaamii sakhaa 
+tum hii ek naath hamaare ho
+jin ke kachhu ur aadhaar nahii.n
+un ke tum hii rakhavaare ho
+pitu maatu sahaayak svaamii sakhaa \threedots
+
+sab bhaa.Nti sadaa sukh dayak ho
+duHkh du.rdam naashan haare ho
+pratipaal karo sagare jag ko
+atishay karuNaa guN dhaare ho
+pitu maatu sahaayak svaamii sakhaa \threedots
+
+shubh shaa.Nti niketan prem niket
+man ma.ndir ke ujiyaare ho
+is jiivan ke tum jiivan ho
+in praaNan ke tum pyaare ho
+
+tum to prabhu paaye pratap hari
+kahiye ke ab aur sahaare ho
+pitu maatu sahaayak svaamii sakhaa \threedots
+
+%
+#endindian
+\endsong
+%

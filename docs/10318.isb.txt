@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{anahonii ko honii kar de.n ... amar akabar enthonii}%
+\film{Amar Akbar Anthony}%
+\year{1977}%
+\starring{Rishi, Neetu, Mukri, Amitabh, Vinod Khanna, Parveen Babi, Shabana, Pran, Nirupa Roy, Jeevan}%
+\singer{Kishor, Mahendra Kapoor, Shailendra Singh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11270 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+anahonii ko honii kar de.n honii ko anahonii \-2
+ek jagah jab jamaa ho.n tiino.n amar akabar enthonii
+anahonii ko honii \threedots
+
+ek ek se bhale do do se bhale tiiin
+duulhaa dulhan saath nahii.n baajaa hai baaraat nahii.n
+are kuchh Darane kii baat nahii.n
+ye milan kii rainaa hai ko_ii Gam kii raat nahii.n
+yaaro.n ha.Nso banaa rakhii hai kyuu.N ye suurat ronii \-2
+ek jagah jab jamaa \threedots
+
+ek ek se bhale do do se bhale tiiin
+shammaa ke paravaano.n ko is ghar ke mehamaano.n ko \-2
+pahachaano anjaano.n ko
+kaise baat matalab kii samajhaa_uu.N diivaano.n ko
+sapan salone le ke aa_ii hai ye raat salonii \-2
+ek jagah jab jamaa \threedots
+%
+#endindian
+\endsong
+

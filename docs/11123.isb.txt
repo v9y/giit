@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{terii ye bi.ndiyaa mujhe lagatii hai aise kaise}%
+\film{Do Hazaar Ek/ 2001}%
+\year{1998}%
+\starring{Jackie, Dimple, Tabu, Suresh Oberoi, Gulshan, Sadashiv, Deven Verma}%
+\singer{}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Manoj Darpan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii ye bi.ndiyaa mujhe lagatii hai aise kaise
+phuul par titalii baiThii ho jaise aise kaise
+teraa ye aa.nchal lagataa hai aise kaise
+parvat pe baadal chhaayaa ho jaise are aise kaise
+aisaa lagataa hai qudarat ne bhar dii ruup kii gaagar jaise
+terii ye bi.ndiyaa mujhe \threedots
+
+bechain kar rahii hai.n mujhako ye terii palake.n
+kyaa hogaa jab terii bikhare.ngii ye zulfe.n
+ho.nTho.n pe surkhiyo.n kaa ra.ng chhaa rahaa hai
+aa.Nkho.n me.n kaajal bhii itaraa rahaa hai
+aisaa lagataa hai chhalakaa ho ko_ii priit kaa saagar jaise
+terii ye bi.ndiyaa mujhe \threedots
+
+mujhe kar naa de diivaanaa naino.n kii ye madiraa
+ghir ghir ke dhiire dhiire aa_egaa ban ke badaraa
+tum jo agar naa hotii diivaanagii naa hotii
+karatii ho jo tum baate.n girate hai.n motii
+tum jaisaa naa hogaa ko_ii laakho.n ho.nge mere jaise
+terii ye bi.ndiyaa mujhe \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{saa.Nvalii sii ik la.Dakii dha.Dakan jaise dil kii}%
+\film{Mujhse Dosti Karoge}%
+\year{2002}%
+\starring{Hritik Roshan, Kareena Kapoor, Rani Mukherjee}%
+\singer{Udit Narayan, Chorus}%
+\music{Rahul Sharma}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+saa.Nvalii sii ik la.Dakii dha.Dakan jaise dil kii
+dekhe jis ke vo sapane kahii.n vo mai.n to nahii.n
+saa.Nvalii sii ik la.Dakii \threedots
+
+us kii ghanii zulfo.n me.n kis kii takadiir hai
+us kii hasii.n aa.Nkho.n me.n kis kii tasviir hai
+aataa nahii.n mujh ko yakii.n par kahii.n vo mai.n to nahii.n
+saa.Nvalii sii ik la.Dakii \threedots
+
+yahaa.N vahaa.N kahaa.N kahaa.N jaane rukatii hai us kii nazar
+vaise to mai.n huu.N bekhabar itanii hai mujh ko khabar
+ko_ii bhii hai hai vo yahii.n par kahii.n vo mai.n to nahii.n
+saa.Nvalii sii ik la.Dakii \threedots
+
+laa la la laa la la laa laa laa la la laa laa laa laa
+%
+#endindian
+\endsong
+

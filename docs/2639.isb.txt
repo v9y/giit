@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mai.n ne bhii husn kii nazaro.n me.n jagah paayii hai}%
+\film{Wanted}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+mai.n ne bhii husn kii nazaro.n me.n jagah paayii hai
+tum mile ho to muhabbat se bahaar aayii hai
+mere siine pe zaraa haath to rakh kar dekho
+dil kii dha.Dakan ye nahii.n pyaar kii shehanaa_ii hai
+
+ye hasii.n ruup ye zulfo.n ke nashiile saaye
+jaise bhar puur qayaamat pe shabaab aa jaaye
+ruK se parde ko zaraa der haTaa rahane do
+tum ko dekhegaa vahii jis kii qazaa aayii hai
+mere siine pe zaraa \threedots
+
+dil to kyaa jaan bhii mai.n tum pe luTaa sakataa huu.N
+zi.ndagii maut ke parde me.n chhupaa sakataa huu.N
+mujhe Gam do ki khushii ab hai tumhaarii marzii
+mai.n ne to ishq me.n miTane kii qasam khaayii hai
+mere siine pe zaraa \threedots
+
+ishq kii raah me.n saahil bhii hai tuufaan bhii hai.n
+is me.n izzat bhii hai rusavaa_ii ke saamaan bhii hai.n
+merii jaan duniyaa.N ke Dar se na badal jaanaa tuu
+kyo.n kii ab mil ke na milane me.n bhii rusavaa_ii hai
+
+%
+#endindian
+\endsong
+%

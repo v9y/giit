@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{ab ghar aa jaa piyaa more aa jaa}%
+\film{Haasil}%
+\year{2003}%
+\starring{Jimmy Shergil, Hrishitaa Bhatt}%
+\singer{Javed Ali}%
+\music{Jatin-Lalit}%
+\lyrics{Satyaprakash}%
+%
+% Contributor: BOL ANAMOL #11740 [V S Rawat]
+% Producer: Karma Network Ltd, Director: Tigmanshu Dhulia
+% Audio: Times Music www. timesmusic.com times.music@timesgroup.com
+% Cassette: TCIFI 004 E, Cost: Rs 50/-, CD: 
+% Site: indiatimes.com
+% 
+\printtitle
+#indian
+%
+ab aa ghar aa jaa piyaa more aa jaa
+ab ghar aa jaa piyaa more aa jaa \-2
+tum bin kaun moraa dukh jaane \-2
+ab ghar aa jaa piyaa more aa jaa
+tum bin kaun moraa dukh jaane
+ab ghar aa jaa
+
+kaahe aiso niThur bhayo bataa de
+ho kaahe aiso niThur niThur
+kaahe aiso niThur bhayo bataa de
+ho tum bin saavan jiyaraa jalaave
+ab ghar aa jaa piyaa more aa jaa
+ab ghar aa jaa
+
+hamase chhal naa kariyo piyaa more
+hamase chhal naa kariyo piyaa piyaa piyaa piyaa
+hamase chhal naa kariyo piyaa more
+hamarii priit hai tumarii puujaa \-2
+ab ghar aa jaa piyaa more aa jaa
+tum bin kaun moraa dukh jaane \-2
+ab ghar aa jaa
+ghar aa jaa
+ghar aa jaa
+%
+#endindian
+\endsong
+

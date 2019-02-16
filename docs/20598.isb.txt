@@ -1,0 +1,36 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{aayaa naa karo gu.Diyaa mere paas}%
+\film{Naukar}%
+\year{1979}%
+\starring{}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: HMV
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 24 Nov 2004
+% Series: THGHT
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+aayaa naa karo gu.Diyaa mere paas
+dukh meraa sunake tum ho jaaogii udaas ||sthaayii||
+
+mai.n to wo huu.N ki duniyaa me.n aaye hai.n jo aa.Nsuu piine ke liye
+meraa jiinaa kyaa jiinaa ki jiitii huu.N mai.n yuu.N hii jiine ke liye
+sapanaa koii naa koii aas ||1||
+
+mujhako mamataa kii pyaasii tumhaarii nazar kar detii hai beqaraar
+maa.N ke aa.Nchal kaa saayaa mai.n de na sakuu.N
+itanaa chaahuu.N baar-baar
+kuchh bhii nahii.n hai mere paas ||2||
+%
+#endindian
+\endsong

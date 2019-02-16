@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jiitegaa vo hii jisame.n hai dam ... tujhame.n hai dam to maTakii ko pho.D}%
+\film{Sangraam}%
+\year{1993}%
+\starring{Ajay Devgan, Ayesha, Karisma, Laxmikant, Tej Sapru, Danny, Amrish}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jiitegaa vo hii jisame.n hai dam
+tujhame.n hai dam to maTakii ko pho.D
+aise hazaaro.n aa_e ga_e aa saamane kuchh karake dikhaa
+hamase na kar tuu baate.n ba.Dii
+tujhame.n hai dam to \threedots
+
+tuu hai magaruur tuu nashe me.n chuur
+jaa tuu chalii jaa aa.Nkhe.n naa dikhaa
+dekhuu.n teraa zor\-o\-karam aa jaa merii jaan
+paas hai to jaane bhii do raahe.n merii chho.D
+jiitegaa vo hii jisame.n \threedots
+
+ho jaa kahii.n gum tuu dabaa le dum
+hogaa faisalaa aa_egaa mazaa
+patalii kamar bhiigii Dagar dhiire dhiire chal
+jaa re harajaa_ii merii baajuu na maro.D
+jiitegaa vo hii jisame.n \threedots
+%
+#endindian
+\endsong
+

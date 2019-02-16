@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{haal kyaa hai dilo.n kaa na puuchho sanam}%
+\film{Anokhi Ada}%
+\year{1973}%
+\starring{Jeetendra, Rekha, Vinod Khanna}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+haal kyaa hai dilo.n kaa na puuchho sanam
+aap kaa muskuraanaa Gazab Dhaa gayaa
+ik to mahafil tumhaarii hasii.n kam na thii
+us pe meraa taraanaa Gazab Dhaa gayaa
+haal kyaa hai dilo.n kaa   \threedots
+
+ab to laharaayaa mastii bharii chhaa.Nv me.n
+baa.Ndho lo chaahe ghu.Ngharuu mere paa.Nv me.n
+mai.n bahakataa nahii.n thaa magar kyaa karuu.N
+aaj mausam suhaanaa Gazab Dhaa gayaa
+haal kyaa hai dilo.n kaa   \threedots
+
+har nazar uTh rahii hai tumhaarii taraf
+aur tumhaarii nazar hai hamaarii taraf
+aa.Nkh uThaanaa tumhaaraa to phir Thiik thaa
+aa.Nkh uThaakar, jhukaanaa Gazab Dhaa gayaa
+haal kyaa hai dilo.n kaa   \threedots
+
+mast aa.Nkho.n kaa jaaduu jo shaamil huaa
+meraa gaanaa bhii sunane ke qaabil huaa
+jisako dekho vahii aaj behos hai
+aaj to mai.n diivaanaa Gazab Dhaa gayaa
+haal kyaa hai dilo.n kaa   \threedots
+
+%
+#endindian
+\endsong
+%

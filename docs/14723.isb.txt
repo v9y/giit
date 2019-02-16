@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{chhuune na duu.Ngii haath re najariyo.n se dil bhar duu.Ngii}%
+\film{Zindagi}%
+\year{1964}%
+\starring{Rajendra Kumar, Vyjayantimala, Raj Kumar}%
+\singer{Lata, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10976 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chhuune na duu.Ngii haath re najariyo.n se dil bhar duu.Ngii
+baiThii rahuu.Ngii saarii raat re najariyo.n se dil bhar duu.Ngii
+
+dil kii hasarat na kabhii dil se nikalane duu.Ngii
+pyaar kaa ko_ii bhii jaaduu na chalane duu.Ngii
+
+ishq kii aag tez hai hamane maanaa
+dil ke motii ko haragiz na pighalane duu.Ngii
+hotii rahegii mulaakaat re najariyo.n se dil bhar duu.Ngii
+chhuune na duu.Ngii \threedots
+%
+#endindian
+\endsong
+

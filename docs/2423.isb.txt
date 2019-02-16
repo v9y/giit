@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mujhe ye phuul na de}%
+\film{Ghazal}%
+\year{1964}%
+\starring{Sunil Dutt, Meena Kumari, Rehman}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Madan Mohan}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mujhe ye phuul na de tujahko dilabarii kii qasam
+ye kuchh nahii.n hai.n terii saadagii kii qasam
+
+nazar hasii.n hai to jalave hasiin lagate hai.n
+mai.n kuchh nahii.n huu.N mujhe merii husnagii kii qasam
+
+tuu ek saaz hai chhe.Daa nahii.n kisii ne jise
+tere badan me.n chhupii narm raaginii kii qasam
+
+ye raaginii tere dil me.n hai mere tan me.n nahii.n
+parakhane vaale mujhe terii saadagii kii qasam
+
+Gazal kaa naaz hai tuu nazm kaa shabaab hai tuu
+yakiin kar mujhe merii hii shaayarii kii qasam
+
+%
+#endindian
+\endsong
+%

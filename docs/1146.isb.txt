@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{man Dole meraa tan Dole mere dil kaa gayaa qaraar}%
+\film{Nagin}%
+\year{1954}%
+\starring{Pradeep Kumar and Vyjayantimala}%
+\singer{Lata}%
+\music{Ravi and Kalyanji (assistants of Hemant)}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Lalitha Balasubramanium (lbalasub@cn.ecn.purdue.edu)
+%          	 Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+%	<biin myuusika>
+	 (man Dole meraa tan Dole   
+	 mere dil kaa gayaa karaar re
+	 ye kaun bajaaye baa.nsuriyaa ) \- 2
+	
+	 madhur madhur sapano.n me.n dekhii maine raah navelii
+	 chho.D chalii mai.n laaj kaa paharaa jaane kahaa.N akelii
+	 chalii re mai.n jaane kahaa.N akelii
+	 ras ghole dhun yuu.N bole
+	 jaise Tha.nDii pa.De phuhaar re
+	 ye kaun bajaaye baa.nsuriyaa
+
+	 man Dole meraa tan Dole  \threedots 
+	 
+	 kadam kadam par ra.ng sunaharaa ye kisane bikharaayaa
+	 naagan kaa man bas karane ye kaun saperaa aayaa
+	 na jaane kaun saperaa aayaa
+	 pag Dole dil yuu.N bole
+	 teraa hoke rahaa shikaar re
+	 ye kaun bajaaye baa.nsuriyaa
+
+	 man Dole meraa tan Dole   
+	 mere dil kaa gayaa karaar re
+	 ye kaun bajaaye baa.nsuriyaa 
+%
+#endindian
+\endsong
+%

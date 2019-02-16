@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{baalamavaa naadaan}%
+\film{Aaraam}%
+\year{1951}%
+\starring{Dev Anand, Madubala}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+baalamavaa naadaan
+samajhaaye na samajhe dil kii batiyaa.N
+baalamavaa naadaan
+baalamavaa naadaan ho naadaan ho naadaan ho naadaan
+
+balamaa jaa jaa jaa
+ab kaun tujhe samajhaaye
+
+mai.n chandaa kii chaa.Ndanii huu.n mai.n taaro.n kii raanii
+mere matavaale naino se chhalake mast javaanii
+in naino kii balamaa tuu ne koii qadar na jaanii
+balamaa jaa jaa jaa \threedots
+
+ek rat kii mahafil hai ye jhuum le o mastaane
+dekh shamaa par aa kar kaise marate hai.n paravaane
+jii ke maranaa mar ke jiinaa pagale tuu kyaa jaane
+balamaa jaa jaa jaa \threedots
+
+%
+#endindian
+\endsong
+%

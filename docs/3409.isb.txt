@@ -1,0 +1,47 @@
+% ITRANS SONG # 3409; Created on Jan 26, 2004
+%
+% From: naniwadekar (not_naniwdk345@hotmail.com)
+% Date: 2002-10-25 18:02:42 PST                               Original Format
+%
+\startsong
+\stitle{mai.n terii tuu meraa dono.n kaa sa.ng sa.ng ho baseraa}%
+\film{Aapki Sewa Mein}%
+\year{1947}%
+\starring{Dixit, Kesri, Shantarin, Saroj Borkar}%
+\singer{Mohantara Talpade, Rafi}%
+\music{Datta Davjekar}%
+\lyrics{Mahipal}%
+%
+% Contributor: dhananjay naniwadekar
+% Date:  25 october 2002
+%
+\printtitle
+#indian
+%
+ta: haa haa \threedots
+    mai.n terii, tuu meraa
+    dono.n kaa sa.ng sa.ng ho baseraa
+    chho.D ke mujhako kidhar chale
+    bichha.De duur hu_e
+    mai.n terii, tuu meraa
+bo: dono.n kaa sa~Ng sa~N{}g ho baseraa
+
+ta: aao jhuulate chale kinaare
+ra: paanii me.n ho mahal hamaare
+    lahar\-lahar me.n Dol\-Dol kar
+    naache pavan chakoraa
+bo: lahar\-lahar me.n Dol\-Dol kar
+    naache pavan chakoraa
+ta: mai.n terii, tuu meraa   \threedots
+
+ra: man kii raanii, man pe chhaa_o
+    prem hilorii laa_o
+ta: ghir ghir kaale baadal aaye
+ra: aao maine haath ba.Dhaa_e
+ta: sajan Daalane aaj yahaa.N
+    miiThe sapano.n kaa gheraa
+ta: mai.n terii, tuu meraa   \threedots
+%
+#endindian
+\endsong
+%

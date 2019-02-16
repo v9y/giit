@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{aajaa aajaa nadiyaa kinaare}%
+\film{Raajhath}%
+\year{1956}%
+\starring{Sohrab Modi, Pradeep Kumar, Madhubala}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10841 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aajaa aajaa nadiyaa kinaare
+taaro.n kii chhai.nyaa tohe kab se pukaare
+aajaa aajaa \threedots
+
+tere man ko man kaa miit milaa tere bhaag se ba.Dh kar bhaag nahii.n
+kal tak Dar thaa in aaho.n se lag jaa_e na jag me.n aag kahii.n
+
+ha.Ns kar ye suhaanii raat kahe kal shaam ke vaade puure kar
+dil ne tere dukh dard sahe tuu dil ke iraade puure kar
+
+bahate aa.Nsuu bah jaane de kuchh kho kar hii kuchh milataa hai
+ik phuul kahii.n murajhaataa hai ik phuul kahii.n par khilataa hai
+%
+#endindian
+\endsong
+

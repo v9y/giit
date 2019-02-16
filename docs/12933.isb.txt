@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{tho.Daa saa dil lagaa ke dekh ... tar ram pam pam}%
+\film{Musaafirkhaanaa}%
+\year{1955}%
+\starring{Shyama, Karan Deewan, Gop, Johny Walker, Shammi, Kumkum,  Om Prakash}%
+\singer{Rafi, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10534 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sha \:	tho.Daa saa dil lagaa ke dekh
+ra \:	tar ram pam pam
+sha \:	naino.n se muskuraa ke dekh
+ra \:	tar ram pam pam
+sha \:	meraa na ban sake agar apanaa hame.n banaa ke dekh
+ra \:	tar ram pam pam
+
+sha \:	dha.Dakan me.n tere li_e naGame.n bahaaro.n ke hai.n
+	dil ke Kazaane saare apane hii pyaaro.n ke hai.n
+	aa mere dil me.n aa ke dekh
+ra \:	tar ram pam pam
+sha \:	naino.n se muskuraa \threedots
+
+sha \:	ha.Nsane kii baat kar le Gam ke fasaane se kyaa
+	ulfat se jholii bhar le tujhako zamaane se kyaa
+	duniyaa kaa Gam bhulaa ke dekh
+ra \:	tar ram pam pam
+sha \:	naino.n se muskuraa \threedots
+
+
+sha \:	kuchh bhii kahe zamaanaa laa na mail pyaare
+	maujo.n se Dagamagaa ke dekh
+ra \:	tar ram pam pam
+sha \:	naino.n se muskuraa \threedots
+%
+#endindian
+\endsong
+

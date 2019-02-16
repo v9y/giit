@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ai jii o jii lo jii suno jii mai.n huu.N manamaujii ... meraa naam hai lakhan}%
+\film{Raam Lakhan}%
+\year{1989}%
+\starring{Anil Kapoor, Jackie Shrof, Dimple Kapadia, Madhuri Dixit}%
+\singer{Anuradha Paudwal, Nitin Mukesh}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai jii o jii lo jii suno jii mai.n huu.N manamaujii
+karataa huu.N mai.n jo vo tum bhii karo jii
+##one two## kaa ##four, four two## kaa ##one, my name is Lakhan##
+sajano.n kaa sajan meraa naam hai lakhan
+ai jii o jii \threedots
+
+ho duniyaa chakorii he paisaa hai chandaa suulii pe laTakaa har ek bandaa
+sabake gale me.n maayaa kaa phandaa siikho o yaaro.n inase ye dhandhaa
+ho do bol miiThe bas bol ke har maal becho kam taul ke re baabaa kam taul ke
+tum apanii khaalii jebe.n bharo jii
+karataa huu.N mai.n jo \threedots
+
+mai.n kuchh naa jaanuu.n isase jyaadaa tuu meraa mohan mai.n terii raadhaa
+jiivan nahii.n itanaa siidhaa saadaa kaise karuu.n tumase ko_ii vaadaa
+vaade hai.n jhuuThe sachche ho tum jaise bhii ho ba.De achchhe ho tum
+kahate ho sabase mai.n huu.N manamaujii manamaujii ho to mauj karo jii
+##one two## kaa ##four## \threedots
+
+karo ko_ii jatan jaldii ho milan
+
+khaa pii rahaa hai ye saaraa zamaanaa jo bhuukhaa pyaasaa hai vo diivaanaa
+are daulat kii jhuuThii chamak pe na jaanaa mehanat se rojii roTii kamaanaa
+kahanaa ba.Do.n kaa tum maan lo achchhaa buraa kyaa hai jaan lo
+are kahataa huu.N mai.n jo \threedots
+
+maine nahii.n sunaa phir se kaho jii
+nahii.n ##number two## ko_ii dono.n hii ##number one##
+mere raam lakhan jiyo raam lakhan
+sajano.n ke sajan jiyo raam lakhan
+%
+#endindian
+\endsong
+

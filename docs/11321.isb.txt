@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{jhuumataa saavan dekho aayaa}%
+\film{Do Khilaadi}%
+\year{1976}%
+\starring{Vinod Mehra, Zahira, Jaishri T, Paintal, Indrani Mukherji, Anita Guha}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Gauhar Kanpuri}%
+%
+% Contributor: BOL ANAMOL #10459 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jhuumataa saavan dekho aayaa
+barakhaa ne pyaar barasaayaa
+maine jo tujhako chhu_aa dil be_iimaan hu_aa
+saa.Nso.n kaa taar jhanajhanaayaa
+barakhaa ne pyaar \threedots
+
+baa.Nho.n me.n chorii se tujhako uThaa luu.Ngaa
+ho.nTho.n se tho.Dii sii laalii churaa luu.Ngaa
+hamako bulaate bhii ho aa.Nkhe.n churaate bhii ho
+aaKir diivaanaa kyuu.N banaayaa
+barakhaa ne pyaar \threedots
+
+ba.Ndhan tere\-mere ab tak ku.Nvaare hai.n
+ban jaa dulhan dil ke sapane sa.Nvaare hai.n
+dil ko bahalaanaa hogaa badalaa chukaanaa hogaa
+kyuu.N hame.n raato.n ko jagaayaa
+barakhaa ne pyaar \threedots
+%
+#endindian
+\endsong
+

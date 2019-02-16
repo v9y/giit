@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{ek jurm karake hamane chaahaa thaa muskuraanaa}%
+\film{Shama}%
+\year{1961}%
+\starring{Suraiyya, Nimmi, Vijay Dutt}%
+\singer{Suman Kalyanpur}%
+\music{Ghulam Mohammad}%
+\lyrics{Kaifi Azmi}%
+% 
+% Contributor: Samiuddin Mohammed <sm0e@lehigh.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/25/1996
+%
+\printtitle
+#indian
+%
+ek jurm karake hamane chaahaa thaa muskuraanaa
+marane na de mohabbat, jiine na de zamaanaa
+
+ham betaalluqii kii rasme.n nibhaa de.nge
+par tum na yaad karanaa, par tum na yaad aanaa
+
+ye sochakar bujhaa dii Kud shamaa aarzuu kii
+shaayad ho roshanii me.n, mushkil nazar milaanaa
+
+jab ashk pii liye hai.n, jab ho.nTh sii liye hai.n
+tab puuchhatii hai duniyaa, mujhase meraa fasaanaa
+
+ek jurm karake hamane chaahaa thaa muskuraanaa
+%
+#endindian
+\endsong
+%
+

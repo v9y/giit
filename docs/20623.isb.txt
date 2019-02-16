@@ -1,0 +1,42 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{o bewafaa o bewafaa}%
+\film{Koel}%
+\year{1959}%
+\starring{Noorjehan, Aslam Pervez}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Tanvir Naqvi}%
+% 
+% Audio on: Serengeti Sirocco
+% Contributor: Pulkit Sharma
+% Transliterator: Pulkit Sharma
+% Date: 22 Dec 2004
+% Series: Noor-E-Tarannum
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+o bewafaa o bewafaa
+mai.nne tujhase pyaar kyuu.N kiyaa o bewafaa\-2
+teraa aitabaar kyuu.N kiyaa kyuu.N kiyaa
+mai.nne tujhase pyaar kyuu.N kiyaa o bewafaa
+
+{dil pe laakh Gam sahe par kabhii naa aah kii
+mai.nne tere pyaar me.n zi.ndagii tabaah kii}\-2
+phir bhii tuu meraa naa ho sakaa o bewafaa o bewafaa
+mai.nne tujhase pyaar kyuu.N kiyaa o bewafaa
+teraa aitabaar kyuu.N kiyaa kyuu.N kiyaa
+mai.nne tujhase pyaar kyuu.N kiyaa o bewafaa
+
+{mai.nne apanii har khushii tere Gam pe waar dii
+tere intazaar me.n zi.ndagii guzaar dii}\-2
+tuu bhii mujhako de gayaa daGaa o bewafaa o bewafaa
+
+
+%
+#endindian
+\endsong

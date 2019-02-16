@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mai.n tere pyaar me.n kyaa kyaa na banaa}%
+\film{Ziddi}%
+\year{1964}%
+\starring{Asha Parekh, Joy Mukherjee}%
+\singer{Geeta, Manna Dey}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10091 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ma \:	mai.n tere pyaar me.n kyaa kyaa na banaa dilabar
+	jaane ye mausam \-2
+gii  \:	mai.n ghaTaa pyaar bharii tuu hai meraa baadal
+	jaane ye mausam \-2
+
+ma \:	tuu hai merii banshii mai.n huu.N teraa kaanhaa
+gii  \:	teraa meraa pyaar hai sadiyo.n puraanaa
+ma \:	dil ke har taar me.n hai raag teraa haradam
+gii  \:	mai.n ghaTaa pyaar bharii \threedots
+
+ma \:	tuu hai merii manzil mai.n huu.N teraa saahil
+gii  \:	karake rahe.nge ik din tujhe haasil
+ma \:	chale tuu hii gorii dil me.n sadaa chham chham
+gii  \:	mai.n ghaTaa pyaar bharii \threedots
+%
+#endindian
+\endsong
+

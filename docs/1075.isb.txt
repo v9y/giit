@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{maa.Ng ke saath tumhaaraa}%
+\film{Naya Daur}%
+\year{1957}%
+\starring{Dilip Kumar, Vyjayanthimala, Ajit, Johnny Walker}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+%
+% Contributor:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+A: mA.Ng ke sAth tumhArA mai.nne, mA.ng liyA sa.nsAr \- 2
+r: mA.Ng ke sAth tumhArA mai.nne, mA.ng liyA sa.nsAr
+mA.Ng ke sAth tumhArA
+
+r: o \threedots
+A: A \threedots
+
+A: dil kahe diladAr milA, ham kahe.n hame.n pyAr milA \- 2
+r: pyAr milA hame.n yAr milA, ek nayA sa.nsAr milA \- 2
+A: A \threedots, As milI aramAn milA
+r: o \threedots, jIne kA sAmAn milA
+dono: mil gayA ek sahArA, o o o o
+mA.Ng ke sAth tumhArA \threedots
+
+r: dil javA.n aur rut ha.nsI.n, chal yU.NhI chal de.n kahI.n \- 2
+A: tU chAhe le chal kahI.n, tujh pe hai mujhako yakI.n \- 2
+r: o \threedots, jAn bhI tU hai dil bhI tU hI
+A: A \threedots, rAh bhI tU ma.nzil bhI tU hI
+dono: aur tU hI As kA tArA, o o o o
+mA.Ng ke sAth tumhArA \threedots
+ 
+r: ##arrrrrrrrrrrrr, he, he, he (typical horse-maneuvring sounds)##
+%
+#endindian
+\endsong
+%

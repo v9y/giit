@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{a.nguur kaa daanaa huu.N su_ii naa chubho denaa}%
+\film{Sanam Bewafaa}%
+\year{1990}%
+\starring{Salman, Chandni, Pran, Danny, Kanchan, Puneet Issar, Pankaj Dheer}%
+\singer{Kavita Subramaniam}%
+\music{Mahesh Kishor}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.nguur kaa daanaa huu.N su_ii naa chubho denaa
+su_ii jo chubho_ii to ras Tapakegaa
+jo ras Tapakegaa to kisamis kisamis kisamis ban jaa_uu.ngii
+a.nguur kaa daanaa \threedots
+
+phuulo.n kii tarah rakhanaa murajhaane nahii.n denaa
+khushbuu kii tarah rakhanaa u.D jaane nahii.n denaa
+mai.n raat huu.N shabaab kii Dhal jaane nahii.n denaa
+a.nguur kaa daanaa \threedots
+
+raato.n kii mai.n raanii huu.N har dil kii javaanii huu.N
+a.nguur kii beTii huu.N sharaab puraanii huu.N
+ye baat hai raaz kii khul jaane nahii.n denaa
+a.nguur kaa daanaa \threedots
+%
+#endindian
+\endsong
+

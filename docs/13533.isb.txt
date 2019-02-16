@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{tere\-mere pyaar kii ba.Ndh ga_ii jab ye Dor}%
+\film{Paap Aur Punya}%
+\year{1974}%
+\starring{Shashi Kapoor, Sharmila Tagore, Ajit, Aruna Irani, Asrani}%
+\singer{Mukesh, Kanchan}%
+\music{Kalyanji-Anandji}%
+\lyrics{Vishveshvar Sharma}%
+%
+% Contributor: BOL ANAMOL #11238 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	tere\-mere pyaar kii ba.Ndh ga_ii jab ye Dor machaa duu.Ngaa shor
+	zamaanaa chaahe jo kahe so kahe
+ka.n \:	dhiire\-dhiire bol piyaa hai ye aapas kii baat milaa teraa saath
+	zamaanaa kahii.n ye sahe naa sahe
+
+mu \:	baa.Nho.n me.n terii ye baa.Nhe.n rahe.ngii to Thokar me.n hogaa zamaanaa
+ka.n \:	dil kii ye baate.n rahane do dil me.n kyaa hai zaruurii jataanaa
+mu \:	mai.n naa kahuu.Ngaa to duniyaa kahegii
+	yah baat ek din to khulake rahegii
+ka.n \:	dhiire\-dhiire bol \threedots
+
+	dekho hamaare dil mil ga_e hai.n dil ke sahaare chale.nge
+mu \:	ham jo chale.nge chale.ngii bahaare.n saare sitaare chale.nge
+ka.n \:	duniyaa to jalatii hai jalatii rahegii
+mu \:	magar pyaar kii rasm chalatii rahegii
+do \:	tere\-mere tere\-mere pyaar kii \threedots
+%
+#endindian
+\endsong
+

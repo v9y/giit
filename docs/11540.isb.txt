@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{guu.nje gagaN guu.nje lalakaare.n ham}%
+\film{God Mother}%
+\year{1998}%
+\starring{Shabana Azami, Milind Gunaji, Nirmal Pandey}%
+\singer{Roop Kumar Rathod, Chorus}%
+\music{Vishal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he jii re guu.nje gagaN guu.nje lalakaare.n ham
+dharatii kaa.npe din raiNaa chalii mahaarathiyo.n kii seNaa he jii re
+guu.nje gagaN guu.nje \threedots
+
+ruup tum pralay kaa li_e raN me.n jalo jalo raN me.n jalo
+shastra khanakate hai.n ba.Dho aakramaN karo ba.Dho aakramaN karo
+suuramaa ho tumhii.n haa.N tum hii viir ho
+yuddh kii belaa me.n chho.D do sa.nyam
+guu.nje gagaN guu.nje \threedots
+
+a.ntim vikaT yuddh hogaa yahii.n yuddh hogaa yahii.n
+ai rakt hii upalegaa dharaa se har kahii.n dharaa se har kahii.n
+Thaan lo tum nahii.n yaa shatru nahii.n
+arjun bhii tum ho tum hii shivam
+guu.nje gagaN guu.nje \threedots
+%
+#endindian
+\endsong
+

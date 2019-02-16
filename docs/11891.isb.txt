@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ai mere dil terii ma.nzil abhii aane vaalii hai}%
+\film{Husn Aur Ishq}%
+\year{1966}%
+\starring{Sanjeev Kumar, L VijayLaxmi, Jeevan, Indira Billi, Indra Bansal, Sundar}%
+\singer{Mukesh}%
+\music{Ganesh}%
+\lyrics{Noor Dewasi}%
+%
+% Contributor: BOL ANAMOL #10192 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ai mere dil terii ma.nzil abhii ( aane vaalii hai ) \-2
+zaraa sii der me.n terii qismat badal jaane vaalii hai aa
+
+dha.Dake jo dil is zamii.n kaa yaa machale ye baadal chaahat kaa
+paiGaam sabako tuu raah me.n detaa chal ulfat kaa
+tuu hai diivaanaa haa.N haa.N re diivaanaa na jaane ko_ii
+ai mere dil terii \threedots
+
+halkaa saa unakaa ishaaraa madahosh kar degaa
+paimaanaa aa.Nkho.n se ko_ii ha.Ns ha.Ns kar bhar degaa
+are pyaas bujhegii terii haa.N haa.N re abhii terii ghabaraanaa nahii.n
+ai mere dil terii \threedots
+%
+#endindian
+\endsong
+

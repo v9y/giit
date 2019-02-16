@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{shukriyaa mere piyaa ... jitane so_e khvaab the}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+shukriyaa shukriyaa shukriyaa mere piyaa
+jitane so_e khvaab the sabako jagaa diyaa
+jaage sapane jaage aramaa.n jaagii hai dha.Dakan
+kaisii duniyaa kyaa zamaanaa to.De.n har ba.ndhan
+shukriyaa shukriyaa \threedots
+
+kyaa kahuu.n kyaa maine tumase milake paayaa hai
+tum jo aa_e zi.ndagii me.n ra.ng aayaa hai
+aa_o tumako le chaluu.n mai.n dil kii raaho.n me.n
+aaj hamako ma.nzilo.n ne khud bulaayaa hai
+shukriyaa shukriyaa \threedots
+
+barakhaa baadal cholii aa.Nchal phuul aur khushbuu
+ham bhii yuu.n hii saath me.n hai.n jaan le ye tuu
+shukriyaa shukriyaa \threedots
+
+mere dil kaa haal kyaa hai kyaa kahuu.n tumase
+pyaar itanaa paake mere hosh hai.n Gum se
+zi.ndagii bhar pyaar meraa kam nahii.n hogaa
+shukriyaa shukriyaa \threedots
+
+dharatii ambar dariyaa saagar giit aur saragam
+mauj saahil rastaa ma.nzil saath hai.n yuu.n ham
+shukriyaa shukriyaa \threedots
+%
+#endindian
+\endsong
+

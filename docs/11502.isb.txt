@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{maano yaa na maano merii zindagii kii bahaar ho}%
+\film{First Love}%
+\year{1961}%
+\starring{Mehmood, Naaz}%
+\singer{Mukesh, Suman}%
+\music{Duttaram}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10175 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+su \:	( maano yaa na maano ) \-2  merii zindagii kii bahaar ho
+mu \:	( jaano yaa na jaano ) \-2  mere dard\-e\-dil kaa qaraar ho
+su \:	maano yaa na maano \threedots
+
+	dil ne jisakaa naam liyaa hai daaman usakaa thaam liyaa hai
+mu \:	jab\-jab dard uThaa hai dil me.n maine teraa naam liyaa hai \-2
+su \:	maano yaa na maano \threedots
+
+mu \:	aaj mujhe in do aa.Nkho.n kii mastii me.n tum kho jaane do
+su \:	kar lo puure dil ke aramaa.n jo hotaa hai ho jaane do
+mu \:	jaano yaa na jaano \threedots
+
+su \:	priit kaa ba.ndhan priit na jaane biit ga_e hai.n din vo puraane
+mu \:	is duniyaa se duur kahii.n aa mil ke chale.n ham duniyaa basaane
+su \:	maano yaa na maano \threedots
+%
+#endindian
+\endsong
+

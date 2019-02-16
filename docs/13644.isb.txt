@@ -1,0 +1,62 @@
+
+%
+\startsong
+\stitle{gaNapati baappaa ... devaa ho devaa ho devaa ho}%
+\film{Parwana}%
+\year{2003}%
+\starring{Ajay Devgan, Amisha Patel, Pooja Batra, Ketaki Dave, Danny Denzongpa, Sayaji Shinde, Gulshan Grover}%
+\singer{Vinod Rathod, Farid Sabri}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11720 [V S Rawat]
+% Producer & Director: Bahry Films, Deepak Bahry
+% Audio: Saregama India Ltd
+% Cassette: NHF 810564 Digital, Cost: Rs 50/-, CD: 112053 CDF, Cost: Rs 125/-
+% 
+\printtitle
+#indian
+%
+ko \:	hoy hoy hoy hoy
+	gaNapati baappaa
+	devaa ho devaa ho devaa ho \-2
+
+vi \:	kahataa hai ye saaraa jahaa.N
+	tumase ba.Dhakar kaun yahaa.N
+fa \:	kahataa hai ye saaraa jahaa.N
+	tumase ba.Dhakar kaun yahaa.N
+vi \:	tum hii sab kuchh ho
+ko \:	gaNapati devaa
+vi \:	devaa ho devaa ho devaa ho \-2
+	devaa
+ko \:	devaa ho devaa ho devaa ho \-2
+vi \:	devaa ho
+
+ko \:	devaa
+fa \:	dhuum dhuum tanaanaa \-8
+	dhuum tanaa \-20
+	dhuum dhuum tanaanaanaa
+
+vi \:	naa aasamaa.N thaa naa thii zamii.n tumase pahale devaa ho devaa
+fa \:	tumase pahale devaa
+vi \:	he saare jahaa.N me.n dekhuu.N jidhar har taraf tum ho
+	devaa ho devaa ho devaa ho \-2
+ko \:	devaa ho devaa ho devaa ho \-2
+
+	devaa \-2
+
+vi \:	haa.N tum ho jag ke rakhavaale dete ho sabako ujaale
+fa \:	o swaamii dete ho sabako ujaale
+vi \:	zulm ko tum hii miTaate ho sabako bachaate ho
+	devaa ho devaa ho devaa ho \-2
+do \:	devaa ho devaa ho devaa ho \-2
+vi \:	devaa
+ko \:	devaa ho devaa ho devaa ho \-2
+vi \:	ho devaa
+ko \:	devaa ho devaa ho devaa ho \-2
+
+ko \:	devaa ho devaa ho devaa ho \-4
+%
+#endindian
+\endsong
+

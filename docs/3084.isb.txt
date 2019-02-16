@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham ko to jaan se pyaarii hai.n tumhaarii aa.Nkhe.n}%
+\film{Naina}%
+\year{1973}%
+\starring{Shashi Kapoor, Rajshree, Maushmi Chatterjee}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Surma Bhopali
+% Transliterator: 
+% Credits:Shalini Razdan, Surajit Bose
+% Editor:  
+%
+\printtitle
+#indian
+%
+
+ham ko to jaan se pyaarii hai.n tumhaarii aa.Nkhe.n
+haay kaajal bharii madahosh ye pyaarii aa.Nkhe.n
+
+mast aa.nkhe.n hai.n ke gaate hue mayakhaane hai.n
+mast aa.nkhe.n hai.n ke chhalke hue paimaane hai.n
+hamane dekhii nahii.n aisii to ka.Nvaarii aa.Nkhe.n
+haay kaajal bharii madahosh ye pyaarii aa.Nkhe.n
+ham ko to jaan se \threedots
+
+roshanii chaa.Nd me.n suuraj me.n hai.n jab tak kaayam
+jyot roshan rahe aa.Nkho.n me.n tumhaarii har dam
+ye duaa hai ki salaamat rahe pyaarii aa.Nkhe.n
+haay kaajal bharii madahosh ye pyaarii aa.Nkhe.n
+ham ko to jaan se \threedots
+
+%
+#endindian
+\endsong
+%

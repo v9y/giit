@@ -1,0 +1,89 @@
+%
+\startsong
+\stitle{suuraa sau pahachaaniye juu la.Dai diin ke het}%
+\film{The Legend Of Bhagat Singh}%
+\year{2002}%
+\starring{Ajay Devgan, Amrita Rao,  Sushant Singh (Sukhdev), D.Santosh (Rajguru), Akhilendra Mishra (Chandra Shekhar Azad)}%
+\singer{Karthik, Raquib, Sukhvindar Singh}%
+\music{A R Rahman}%
+\lyrics{Kabir}%
+%
+% Contributor: BOL ANAMOL #12475 [V S Rawat], 01/02/2004
+% Credits: Paul Singh ( paul.singh at us.abb.com ) at RMIM
+% Guri Singh
+%
+% lyrics are from Shabads by Bhakt Kabir and aadi-granth of sikhs
+%
+\printtitle
+#indian
+%
+% "sooraa sau pehchaaniye ju larai deen ke hayt"
+% "purjaa purjaa kaT marai, kabahoo na chhaaDai khayt"
+%
+% These are the words recorded in the aadi-granth, [the holy book of the
+% Sikhs, considered the present Guru/teacher] page 1105, in the section
+% of raag maaru. Bakt Kabir recited/penned these words about 500 years
+% ago and a team of great scholars lead by Guru Arjan Dev made them
+% immortal about 400 years ago by carefully and thoroughly validating
+% them and then recording them in the aadi-granth. Originals of
+% aadi-granth are preserved in museums. Copies of aadi-granth are
+% read daily in millions of Sikh homes and Gurudwaras.
+% Guri clarified:
+% sooraa=soormaa, bahaadur purush, brave man
+% sau=vo, that
+% ju=jo, who
+% larai=laD.e, fights
+% deen=poor, one who is not provided for, unprotected
+% hayt=liye, for
+% purjaa-purjaa=the smallest pieces
+% kaT marai=kaT martaa hai, gets cut-dead
+% kabahoo=kabhee bhee
+% chhaaDai=chhoRe, leaves
+% khayt=raNn-bhoomi, battlefield
+%
+% (Kabir says, he bhaayee) soormaa us manushya ko samajhnaa chaahiye jo
+% ghareeb-ghurbo.n kee khaatir laRtaa hai,
+% TukRay-TukRay ho jaataa hai, (par apnee jaan bachaane ke liye) raNn-bhoomi
+% (mei.n ghareeb-asahaay kee pakRee huyi baa.nh) nahi.n chhoRtaa.
+%
+% The authenticated words (Shabads) by Guru Nanak are:
+%
+% "jau tau prem khelaNn kaa chaau"
+% "sir dhar talee galee meree aao"
+%
+% These are the words in the aadi-granth page 1412, in the last section after
+% all the raag-specific sections. These were also recited/penned about 500 years
+% ago.
+% Guri gave the following interpretation:
+% jau=agar, if
+% tau=tumhe.n, you
+% chaau=shauk, desire
+% sir=sar, head
+% dhar=rakh kar, after putting upon
+% talee=haathelee, palm
+% itu=is mei.n
+% maarag=maarg, rastaa, direction
+% payr=paa.nv, feet
+% dhareejai=rakhiye, put
+% kaaNn=jhijak, hesitation
+%
+% (Nanak says, he bhaayee) yadi tumhe.n (prabhu-)prem kee kreeRaa khelne kaa
+% shauk hai,
+% to apnaa sar hathelee par rakh kar (arthaat lok-laaj chhoR kar, ahembhaav
+% door kar ke) meree galee mei.n aanaa.
+% (prabhu-preet ke) is raaste mei.n (jab) paa.nv rakhiye,
+% (to usi vaqt jab) sar ke bhe.nT karne mei.n (koyee) jhijak na ho.
+
+sooraa sau pehchaaniye ju larai diin ke het
+purjaa\-purjaa kaT marai, kabahuu na chhaa.Dai khet
+
+jau tau prem khelaNn kaa chaa_o
+sir dhar talii galii merii aa_o
+
+i.nqualaab zi.ndaabaad \-3
+%(long live revolution)
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{sochane ko laakh baate.n soche insaan}%
+\film{Baap Bete}%
+\year{1959}%
+\starring{Ashok Kumar,  Shyama, Chitra,  Baburao Pendharkar, Kanhaiyalal}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10555 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sochane ko laakh baate.n soche insaan
+hogii vahii puurii jise chaahe bhagavaan
+sochane ko laakh \threedots
+
+honii ke haath me.n tuu ek khilaunaa hai
+usane jo soch liyaa bas vahii honaa hai
+tujhako giraa_e vahii aur uThaa_e vahii
+bebas tuu hai naadaan
+sochane ko laakh \threedots
+
+jo kuchh bhii hai sab usakaa tamaashaa hai
+aashaa kahii.n pe to kahii.n pe niraashaa hai
+rakhe adhuure kabhii kar de puure kabhii
+jisake vo chaahe aramaan
+sochane ko laakh \threedots
+%
+#endindian
+\endsong
+

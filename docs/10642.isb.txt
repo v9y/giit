@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{khulii\-khulii zulfo.n ko baa.Ndh bhii lo}%
+\film{Banarsi Thug}%
+\year{1962}%
+\starring{Manoj Kumar, Vijaya Chaudhary, I S Jauhar, Radha Krishan}%
+\singer{Mukesh, Usha}%
+\music{Iqbal Qureshi}%
+\lyrics{Aziz Qaisi}%
+%
+% Contributor: BOL ANAMOL #10242 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	khulii\-khulii zulfo.n ko baa.Ndh bhii lo
+	ho jaa_e na duniyaa me.n shaam kahii.n
+uu \:	( yuu.N na dekho ) \-2 tum mujhako
+	ho jaa_e.n na ham badanaam kahii.n
+
+	aa.Nkhe.n kyo.n jhukane lagii hai.n aa.Nchal kyo.n Dhal jaataa hai
+	kuchh to bataa_o ai jaaduugar ye jaaduu kyo.n chal jaataa hai
+mu \:	( bholii ) \-3 baate.n chho.D bhii do
+	ho jaa_e na baate.n ye aam kahii.n
+uu \:	yuu.N na dekho \threedots
+
+mu \:	jaam churaakar in aa.Nkho.n ke aaj nashe me.n chuur huu.N mai.n
+	chor nahii.n mai.n jaan\-e\-tamannaa aadat se majabuur huu.N mai.n
+uu \:	( chorii ) \-3 kii ye baat karo na aa jaa_e na ko_ii ilzaam kahii.n
+mu \:	khulii\-khulii zulfo.n \threedots
+
+uu \:	jaan tumhaare bas me.n kar dii dil nazaraanaa de Daalaa
+	tum bhii sanam kyaa yaad karoge hamane kyaa\-kyaa de Daalaa
+mu \:	ai jii hamape naa ehasaan karo ho jaa_e.n na ham niilaam kahii.n
+uu \:	yuu.N na dekho \threedots
+%
+#endindian
+\endsong
+

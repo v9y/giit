@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye zulf agar khul ke bikhar jaae to achchhaa}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Dharmendra, Meena Kumari, Padmini}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: Nita Awatramani
+% Transliterator:
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ye zulf agar khul ke bikhar jaae to achchhaa
+is raat kii taqadiir sa.Nvar jaae to achchhaa
+ye zulf \threedots
+
+jis tarah se tho.Dii sii tere saath kaTii hai
+baaqii bhii usii tarah guzar jaae to achchhaa
+ye zulf \threedots
+
+duniyaa kii nigaaho.n me.n buraa kyaa hai bhalaa kyaa
+ye bojh agar dil se utar jaae to achchhaa
+ye zulf \threedots
+
+vaise to tumhii.n ne mujhe barbaad kiyaa hai
+ilzaam kisii aur pe aa jaae to achchhaa
+ye zulf \threedots
+
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mere chaahanewale hazaar mujhe tuu maaf karanaa}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, S D Batish}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12544 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	mere chaahanewale hazaar \-2
+	mujhe tuu maaf karanaa \-2
+	nahii.n tumase karuu.Ngii mai.n pyaar \-2
+	mujhe tuu maaf karanaa \-2
+
+baa \:	##B.A. L.L.B.## huu.N ##fail## siikho mujhase pyaar kaa khel \-2
+	ajii mai.nne kahaa
+	tumhe karanaa pa.Degaa pyaar \-2
+	mujhe tuu maaf karanaa \-2
+su \:	mere chaahanewale hazaar \-2
+	mujhe tuu maaf karanaa \-2
+
+su \:	Kat likhate hai.n mujhako log ##U.P.## aur ba.ngaal se ba.ngaal se
+baa \:	mai.nne bhii ek Kat likhataa thaa raanii jii bhopaal se bhopaal se
+	ajii mai.nne kahaa
+	bas apanaa kaho ik baar \-2
+	mujhe tuu maaf karanaa \-2
+su \:	mere chaahanewale hazaar \-2
+	mujhe tuu maaf karanaa \-2
+
+su \:	ek hai dil laakho.n diiwaane shamaa ek laakho.n parawaane \-2
+	ajii mai.nne kahaa
+	ab kisase karuu.N mai.n pyaar \-2
+	mujhe tuu maaf karanaa \-2
+	mere chaahanewale hazaar \-2
+	mujhe tuu maaf karanaa \-2
+%
+#endindian
+\endsong
+%
+

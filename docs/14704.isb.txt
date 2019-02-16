@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tujhase puuchhuu.n ek savaal ... kyaa merii tarah tuu bhii ta.Dapataa hai}%
+\film{Zamaanaa Deewaanaa}%
+\year{1995}%
+\starring{Shahrukh, Jeetendra, Shatrughan, Raveena, Kiran Juneja, Anupam}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhase puuchhuu.n ek savaal
+bol zaraa kyaa hai teraa haal
+kyaa merii tarah tuu bhii ta.Dapataa hai
+
+ab hai nii.nd kise ab hai chain kahaa.n
+hosh u.Daa_e teraa shabaab
+mere savaal kaa de tuu javaab
+kyaa teraa dil bhii aise dha.Dakataa hai
+ab hai nii.nd kise \threedots
+
+ni.ndiyaa churaa ke le ga_ii bi.ndiyaa diivaanii
+jiyaa churaa ke le ga_e ku.nvaare ka.nganaa
+Dolii me.n biThaa ke tujhe chunarii u.Dhaa ke
+mai.n to le aa_uu.ngaa mere a.nganaa
+pyaar kaa phuul dil me.n mahakataa hai
+ab hai nii.nd kise \threedots
+
+saarii saarii rainaa terii yaad sataa_e
+barasaat sataa_e sajanaa
+kaaTe na kaTe.n ye din ab tere bin
+mulaaqaat sataa_e sajanaa
+paas aake bhii tuu duur rahataa hai
+ab hai nii.nd kise \threedots
+%
+#endindian
+\endsong
+

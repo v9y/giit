@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{paayal vaalii dekhanaa}%
+\film{Ek Raaz}%
+\year{1963}%
+\starring{Kishore Kumar, Jamuna}%
+\singer{Kishore}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+lachakat chamakat chalat kaaminii
+dadhigun damakat chapal daaminii
+o baa.Nvarii o saa.Nvarii
+arii o cha.nchal pal\-chhin ruk jaa
+ruk jaa ruk jaa
+
+paayal vaalii dekhanaa
+yahii.n pe kahii.n dil hai
+pag tale aaye naa
+
+jaise daamaniyaa badaraa me.n u.De
+kuchh duur chale phir jaa ke mu.De
+uThaa re nayan kajaraare
+par itanaa samajh le kisii kii lage haaye na
+paayal vaalii dekhanaa \threedots
+
+kit jhuum chalii madiraa sii piye
+matavaarii pavan acharaa me.n liye
+zamaanaa hai yuu.N hii mastaanaa
+dekho jii R^ut binaa kaalii ghaTaa chhaaye na
+paayal vaalii dekhanaa \threedots
+
+kahii.n aisaa na ho koii baat bane
+a.Nga.Daa_ii merii teraa naach bane
+naacho rii na ban ke chakorii
+ghuu.Nghar kahii.n dha.Dakan merii ban jaaye na
+paayal vaalii dekhanaa \threedots
+
+%
+#endindian
+\endsong
+%

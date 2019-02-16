@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{mu.Nh se mat lagaa chiiz hai burii}%
+\film{Johnny Walker}%
+\year{1957}%
+\starring{Johnny Walker, Shyama}%
+\singer{Rafi, Manna Day}%
+\music{O P Nayyar}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10525 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ma \:	mu.Nh se mat lagaa chiiz hai burii
+	dekh bach zaraa chiiz hai burii
+	chho.D de ye maikashii
+	hamanashii.n mere hamanashii.n
+
+ra \:	baat mat ba.Dhaa chho.D dillagii
+	hosh kar zaraa chho.D dillagii
+	jhuuTh bolataa hai tuu ( maine pii nahii.n ) \-2
+do \:	ta raa raa raa ruu
+
+ma \:	degii yah dagaa phuu.Nk degii ghar
+	mujhase naa sahii par Kudaa se Dar
+	gunahagaar hai jo pii le aadamii
+	mu.Nh se mat lagaa \threedots
+
+ra \:	apanii raah le mujhase mat jhaga.D
+	to.D duu.Ngaa dil mujhase mat aka.D
+	are khaalii\-piilii chhe.D bhii hai yaad rakh burii
+	baat mat ba.Dhaa \threedots
+
+ma \:	dekh saamane havaladaar hai
+	gar paka.D liyaa be.Daa paar hai
+	jel me.n kaTegii phir to saarii zindagii
+	mu.Nh se mat lagaa \threedots
+
+ra \:	jaanataa huu.N mai.n paharedaar hai
+	bachapane kaa ye apanaa yaar hai
+	Darane vaalaa mai.n nahii.n aa_e ko_ii bhii
+	baat mat ba.Dhaa \threedots
+%
+#endindian
+\endsong
+

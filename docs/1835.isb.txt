@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{unhe.n tuu bhuul jaa ai dil}%
+\film{Naya Ghar}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+unhe.n tuu bhuul jaa ai dil
+ta.Dapane se bhii kyaa haasil
+ 
+nazaare kar gay jaaduu
+nigaahe.n de gayii.n dhokhaa
+uThe tuufaan kuchh aise ki Duube pyaar ke saahil
+ 
+hazaaro.n aarazuuo.n se
+basaayaa jisako pahaluu me.n
+jise samajhe the ham dilabar, vah nikalaa sa.ng dil qaatil
+ 
+na jaane kaisii raaho.n par
+chalii hai zindagii merii
+ki jiinaa hii nahii.n ab to, meraa maranaa bhii hai mushkil
+ 
+unhe.n tuu bhuul jaa ae dil
+%
+#endindian
+\endsong
+%

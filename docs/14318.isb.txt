@@ -1,0 +1,75 @@
+
+%
+\startsong
+\stitle{nain me.n kR^iShN muraarii hai.n man ke bihaarii hai.n}%
+\film{Sanyasi}%
+\year{1945}%
+\starring{Shameem, Ghulam Mohammad, Amar}%
+\singer{Zohra Bai, Male Voice, Chorus}%
+\music{Naushad}%
+\lyrics{Pt Madhur}%
+%
+% Contributor: BOL ANAMOL #12011 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+zo \:	nain me.n kR^iShN muraarii hai.n
+	man ke bihaarii hai.n
+	prem ke pujaarii hai.n
+	nain me.n kR^iShN muraarii hai.n
+
+ko \:	nain me.n kR^iShN muraarii hai.n
+	man ke bihaarii hai.n
+	prem ke pujaarii hai.n
+	nain me.n kR^iShN muraarii hai.n
+
+zo \:	mohanii murat pe tan\-man waaruu.N
+ko \:	mohanii murat pe tan\-man waaruu.N
+	waaruu.N waaruu.N
+zo \:	aa haa haa haa
+	mohanii murat pe tan\-man waaruu.N
+	piyaa\-piyaa piyaa\-piyaa
+ko \: piyaa\-piyaa din\-raat pukaaruu.N
+	pukaaruu.N
+zo \:	matawaale matawaale
+ko \:	matawaale
+	matawaale muralii kii dhun pe
+ko \:	matawaale muralii kii dhun pe
+	raajaa aur bhikhaarii hai.n
+ko \:	matawaale muralii kii dhun pe
+	raajaa aur bhikhaarii hai.n
+	har or yahii hai shor yahii hai shor
+zo \:	kyaa
+
+ko \:	nain me.n kR^iShN muraarii hai.n
+	man ke bihaarii hai.n
+	prem ke pujaarii hai.n
+	nain me.n kR^iShN muraarii hai.n
+
+zo \:	pheruu.N aaratii re \-2
+	( pheruu.N aaratii manamohan kii
+	pheruu.N aaratii re
+##male## \:	le_uu.N balaiyaa.N in nainan kii
+	le_uu.N balaiyaa.N re ) \-2
+
+do \:	( mohan me.n raadhaa ko dekhaa
+	raadhaa me.n banawaarii hai.n ) \-2
+	har or yahii hai shor yahii hai shor
+##male## \:	kyaa
+
+zo \:	nain me.n kR^iShN muraarii hai.n
+	man ke bihaarii hai.n
+	prem ke pujaarii hai.n
+	nain me.n kR^iShN muraarii hai.n
+
+ko \:	nain me.n kR^iShN muraarii hai.n
+	man ke bihaarii hai.n
+	prem ke pujaarii hai.n
+	nain me.n kR^iShN muraarii hai.n
+%
+#endindian
+\endsong
+

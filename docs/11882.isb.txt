@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{hamako to yaaraa terii yaarii jaan se pyaarii}%
+\film{Hum Kisi Se Kam Nahin}%
+\year{1977}%
+\starring{Rishi Kapoor, Tariq, Kajal Kiran, Amjad Khan, Om Shivpuri, Kamal Kapoor}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10770 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	hamako to yaaraa terii yaarii jaan se pyaarii
+	tuu chaahe to.D de
+	tujhako diivaanaa ( kaise chho.D de ) \-2
+	e hamako to yaaraa \threedots
+
+	dil ke hiire motii aajaa mere dil me.n aa
+	tuu hai daulat merii aa merii ma.nzil me.n aa
+	ai merii tamannaa tuu kahii.n na jaa haay re haay kahii.n na jaa
+	e dil ke hiire motii \threedots
+	hamako to yaaraa \threedots
+
+aa \:	ho gayaa tumhaaraa jab merii baa.Nho.n kaa haar
+	bech bhii Daalo to meraa kyaa hai diladaar
+	mai.n to itanaa jaanuu.N mujhako hai tumase pyaar haay re haay tumase pyaar
+ki \:	hamako to yaaraa terii yaarii
+aa \:	dilabar
+ki \:	jaan se pyaarii
+aa \:	dilabar
+	tuu chaahe to.D de
+	tujhako diivaanaa ( kaise chho.D de ) \-2
+%
+#endindian
+\endsong
+

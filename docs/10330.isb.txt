@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ye andhaa qaanuun hai}%
+\film{Andhaa Qaanoon}%
+\year{1983}%
+\starring{Amitabh, Hema, Rajanikant, Madhavi, Reena Roy, Pran, Danny}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11317 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye andhaa qaanuun hai \-4
+
+jaane kahaa.N daGaa de\-de jaane kise sazaa de\-de
+saath na de kamazoro.n kaa ye saathii hai choro.n kaa
+baato.n aur daliilo.n kaa ye khel vaqiilo.n kaa
+ye insaaf nahii.n karataa kisii ko maaf nahii.n karataa
+maaf ise har Kuun hai
+ye andhaa qaanuun hai \threedots
+
+log agar isase Darate mujarim jurm na karate
+yah maal luTere luuT ga_e rishvat dekar chhuuT ga_e
+asmate.n luTii.n chalii golii isane aa.Nkh nahii.n kholii
+kaalaa dhandhaa hotaa rahaa ye kursii par sotaa rahaa
+duniyaa kii imaarat kaa kachchaa ik sutuun hai
+ye andhaa qaanuun hai \threedots
+
+lambe isake haath sahii taaqat isake saath sahii
+par ye dekh nahii.n sakataa ye bin dekhe hai likhataa
+jel me.n kitane log sa.De suulii par nirdoSh cha.Dhe \-2
+mai.n bhii isakaa maaraa huu.n paagal huu.N aavaaraa huu.N
+yaaro.n mujhako hosh nahii.n sar mere junuun hai
+ye andhaa qaanuun hai \-10
+%
+#endindian
+\endsong
+

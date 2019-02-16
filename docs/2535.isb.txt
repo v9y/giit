@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bahe na kabhii nain se niir}%
+\film{Vidya}%
+\year{1948}%
+\starring{}%
+\singer{Mukesh}%
+\music{S D Burman}%
+\lyrics{Yashodanand Joshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+bahe na kabhii nain se niir
+uThii ho chaahe dil me.n piir
+baa.Nvare yahii priit kii riit
+
+aashaaye.n miT jaaye.n to miT jaaye.n
+dil kii aahe.n kabhii na baahar aaye.n
+bharii ho ho.nTho.n par muskaan
+na koii le dil ko pahachaan
+isii me.n hai re terii jiit
+baa.Nvare yahii priit kii riit
+
+diipak jale bhavan me.n rahe pata.ngaa ban me.n
+priit khii.nch kar laayii use jalaayaa kshaN me.n
+jalan kaa use kahaa.N thaa hosh
+pyaar kaa cha.Dhaa huaa thaa josh
+gaa rahii duniyaa.N usakii giit
+baa.Nvare yahii priit kii riit
+
+%
+#endindian
+\endsong
+%

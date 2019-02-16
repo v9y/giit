@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{cha.ndaa o cha.ndaa, kisane churaayii terii merii ni.ndiyaa}% 
+\film{Lakhon Mein Ek}%
+\year{}%
+\starring{Rajesh Khanna}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ki : cha.ndaa o cha.ndaa \- 2
+kisane churaaii terii merii ni.ndiyaa
+jaage saarii rainaa tere mere nainaa \- 2
+
+(ha.Nsake mai.n teraa man bahalaa_uu.n 
+apane ye aa.Nsuu magar kise mai.n dikhaa_uu.n ) \- 2
+mai.nne to guzaaraa, jiivan saaraa, besahAraa, ho
+jaage saarii rainaa tere mere nainaa 
+cha.ndaa o \threedots
+
+(terii aur merii, ek kahaanii
+ham dono ki kadar, kisii na jaanii ) \- 2
+saath ye andheraa, jaise meraa, vaise teraa, ho
+jaage saari rainaa tere mere nainaa 
+
+lataa : cha.ndaa o cha.ndaa 
+kisane churaaii terii merii ni.ndiyaa 
+jaage saarii rainaa tere mere nainaa \- 2
+
+ki : jaage saarii \threedots
+%
+#endindian
+\endsong
+%

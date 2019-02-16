@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ishq hai kyaa kuchh nahii.n ... nazare.n churaanaa naa}%
+\film{Hum Ho Gaye Aap Ke}%
+\year{2001}%
+\starring{Fardin Khan, Reema Sen, Apurva Agnihotri}%
+\singer{Sonu Nigam, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq hai kyaa kuchh nahii.n hai muhabbat
+kal kuchh nahii.n bas yahii hai hakiikat
+nazare.n churaanaa naa yuu.n dil jalaanaa naa
+aa mere nazadiik aa
+##Love me just for the day##
+
+mai.n to hasiino.n kaa huu.n diivaanaa
+dilakash adaa_e.n meraa nishaanaa
+dekhuu.n jahaa.N mai.n bahakii javaanii
+chhaane lage ik nashaa
+kaise bataa_uu.n tujhe merii haalat
+kal kuchh nahii.n bas \threedots
+
+terii nashiilii aa.Nkho.n se pii luu.N
+mai.n do gha.Dii to mastii me.n jii luu.N
+kahatii hai tere ho.nTho.n kii laalii
+aa pyaas merii bujhaa
+achchhii lage mujhe terii sharaarat
+kal kuchh nahii.n bas \threedots
+%
+#endindian
+\endsong
+

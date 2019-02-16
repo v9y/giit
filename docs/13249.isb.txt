@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{taaro.n kii Tha.nDii chhai.nyaa ... saiyaa.n yaad rahe}%
+\film{Naag Devta}%
+\year{1962}%
+\starring{Anjali Devi, Mahipal, Shashikala, B M vyas, Niranjan Sharma}%
+\singer{Mukesh, Suman}%
+\music{S N Tripathi}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10326 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+su \:	taaro.n kii Tha.nDii chhai.nyaa ham\-tum mile
+	o saiyaa.n yaad rahe o saiyaa.n yaad rahe
+mu \:	bhiigii\-bhiigii miiThii ratiyaa.N pyaarii\-pyaarii batiyaa.N
+	sajanii yaad rahe o sajanii yaad rahe
+
+su \:	piihuu\-piihuu bole kahii.n duur se papiiharaa jii duur se papiiharaa
+	piyaa\-piyaa bole moraa matavaaraa jiyaraa
+	kaliyo.n pe bha.Nvaraa Dole haule\-haule
+	saiyaa.n yaad rahe \threedots
+
+mu \:	laTe.n ghu.Ngharaalii kaalii goraa\-goraa ruup hai jo goraa\-goraa ruup hai
+	kaisaa ye jaaduu dekhaa chhaa.Nv me.n ghuup hai
+	ghuu.NghaT me.n chhup ke jhaa.Nke nain tore baa.Nke
+	sajanii yaad rahe \threedots
+
+su \:	laharo.n pe chham\-chham naache cha.ndaa kii cha.ndaniyaa
+	ban\-Than ke aa_ii dekho raat kii dulhaniyaa
+	taaro.n kii baaraat aa_ii baaje shahanaa_iyaa.N
+	saiyaa.n yaad rahe \threedots
+%
+#endindian
+\endsong
+

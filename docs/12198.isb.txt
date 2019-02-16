@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ai jaan\-e\-bahaaraa.N jaan\-e\-karam}%
+\film{Jahan Pyaar Mile}%
+\year{1969}%
+\starring{Shashi Kapoor, Hema Malini, Naaz}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11114 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai jaan\-e\-bahaaraa.N jaan\-e\-karam
+miT jaa_e.N sabhii duniyaa ke sitam
+chhaa jaa_e.N jahaa.N par ham hii ham
+Gar teraa sahaaraa mil jaa_e
+
+ham pyaar ke raahii aaKir ko
+ab aa hii ga_e is ma.nzil pe
+jalave to hazaaro.n dekh li_e
+dekhaa nahii.n tujhasaa mahafil me.n
+aa jaa_e zamaanaa zer\-e\-qadam
+gar teraa sahaaraa \threedots
+
+ho jaa_e jo gar ham par ek nazar
+us ek nazar kaa kyaa kahanaa
+ho jaa_e jigar me.n dard bhii kam
+gar teraa sahaaraa \threedots
+%
+#endindian
+\endsong
+

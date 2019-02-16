@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{alakh ilaahii ek hai.n}%
+\film{non-Film}%
+\year{1940s}%
+\singer{Bijon Ghosh Dastidar}%
+\music{}%
+\lyrics{Traditional}%
+%
+% Contribuitor: Prithviraj Dasgupta
+% Tranliterator: Prithviraj Dasgupta
+% Date: Jan 5, 2002
+% Comments: Devotional
+%
+\printtitle
+#indian
+%
+
+bi: alakh ilaahii ek hai.n naam dharayaa do_e
+raam rahiim ek hai.n naam dharayaa do_e
+
+kR^ishhN kariim ek hai.n naam dharayaa do_e
+kaashii kaabaa ek hai.n ek raam rahiim
+
+maidaa ek pakavaan bahu
+baiThii kabiraa jiin
+
+ko: bhajo man raam rahiim
+bi: bhajo man raam rahiim
+
+ko: bhajo man kR^ishhN kariim
+
+jo hii raam so hii rahiim
+jo hii kR^ishhNaa so hii kariim
+raam rahiim kR^ishhN kariim 
+bhajo man man raam rahiim
+
+%
+#endindian
+\endsong
+%

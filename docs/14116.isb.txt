@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{dekho binaa saavan baras rahii badalii}%
+\film{Saawan}%
+\year{1959}%
+\starring{Bharat Bhushan, Ameeta, Jivan, Achala Sachdev, Helen, Tuntun, Leela Misra}%
+\singer{Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10216 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dekho binaa saavan baras rahii badalii \-2
+piyaa ke daras ko taras rahii badalii
+dekho binaa saavan \threedots
+
+pii bin duniyaa suunii ho ga_ii man kii pii.Daa duunii ho ga_ii
+sau Gam jaage qismat so ga_ii chhalak rahii nainan kii gagarii
+dekho binaa saavan \threedots
+
+rah ga_ii birahan haar pirotii TuuTe sapane bikhare motii
+bichha.D Ga_ii diipak se jyoti uja.D ga_ii re man kii nagarii
+dekho binaa saavan \threedots
+
+is duniyaa ne pyaar hai chhiinaa rah gayaa ab to aa.Nsuu piinaa
+duur sajan se ab kyaa jiinaa chho.D de ab to duniyaa pagalii
+dekho binaa saavan \threedots
+%
+#endindian
+\endsong
+

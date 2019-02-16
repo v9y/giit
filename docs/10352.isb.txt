@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{phir ko_ii muskaraayaa phir ek phuul khilaa}%
+\film{Apne Huye Paraye}%
+\year{1964}%
+\starring{Manoj Kumar, Mala Sinha, Shashikala}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10955 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+phir ko_ii muskaraayaa phir ek phuul khilaa
+ko_ii bulaa_e aur ko_ii aa_e ab dil chaahe kyaa
+phir ko_ii muskaraayaa \threedots
+
+zindagii phir vahii giit gunagunaane lagii
+is galii jhuumatii bahaar aane lagii
+phir ko_ii muskaraayaa \threedots
+
+dil mere jhuum le yaad kar ke is shaam ko
+bahake ham jis gha.Dii pii ke pyaar ke jaam ko
+phir ko_ii muskaraayaa \threedots
+
+honaa hai aaj phir apane sabr kaa imtihaa.N
+luuTanaa hai tumako phir aaj meraa dil merii jaa.N
+phir ko_ii muskaraayaa \threedots
+
+phir se vahii halachal hasarate.n machalane lagii.n
+phir vo shoKiyaa.N naGmaa ban ke Dhalane lagii.n
+phir ko_ii muskaraayaa \threedots
+%
+#endindian
+\endsong
+

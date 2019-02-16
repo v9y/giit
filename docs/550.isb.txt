@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{do naino.n me.n aa.Nsuu bhare hai.n}%
+\film{Khushboo}%
+\year{}%
+\starring{Hema Malini, Jeetendra, Farida Jalal, Master Raju}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Ashish Bokil <abokil@hubcap.clemson.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 08/03/1995
+% Credits: Prince Kohli <prince@viman.engr.sgi.com>
+%          Anand Tiwari <anand@cegt201.bradley.edu>
+%          Arun Verma <verma@CS.Cornell.EDU>
+%          Neeraj Deshmukh <deshmukh@isip01.isip.msstate.edu> 
+% Comments: Excerpted from "Magic Moments R.D. Burman - Gulzar - XIII"
+%
+\printtitle
+#indian
+%
+do naino.n me.n aa.Nsuu bhare hai.n
+ni.ndiyaa kaise samaa_e
+
+%% interlude begins with an instrument similar to saarangi .. but not quite...
+%% continued by small sarod piece with piano keys pitched at the chord points
+%% finally .. tons of high pitch violins takes over ........
+%%
+Duubii\-Duubii aa.Nkho.n me.n sapano.n ke saa_e
+raat bhar apane hai.n din me.n paraa_e
+kaise naino.n me.n ni.ndiyaa samaa_e
+
+do naino.n me.n aa.Nsuu bhare hai.n
+ni.ndiyaa kaise samaa_e
+
+%% a sensitive sitaar tune, taken over by gush of smooth high pitch violins...
+%%
+jhuuThe tere vaado.n pe baras bitaa_e
+zi.ndagii to kaaTii ye raat kaT jaa_e
+
+kaise naino.n me.n ni.ndiyaa samaa_e\threedots
+do aa.Nsuu me.n t\threedots aa.Nsuu bhare hai.n
+ni.ndiyaa kaise samaa_e
+%
+#endindian
+\endsong
+%
+

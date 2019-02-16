@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{duur bahut aabaadii se, ishq kii ra.ngii.n vaadii se}%
+\film{Jhoola}%
+\year{1962}%
+\starring{Vyjayantimala, Sunil Dutt, Pran, Sulochna, Rajendra Nath, Achla Sachdev}%
+\singer{Lata, Mukesh}%
+\music{Salil Chowdhary}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+la \:	aa haa aa
+mu \:	( duur bahut aabaadii se, ishq kii ra.ngii.n vaadii se
+	ye kaun sadaa detaa hai
+la \:	pyaar bharaa ik dil hogaa, yaa ko_ii bismil hogaa
+	jo apanaa pataa detaa hai ) \-2
+
+la \:	aa haa aa
+mu \:	laharaatii sii ye raahe.n, na jaane kisako chaahe.n \-2
+la \:	kisake diidaar kii pyaasii, hai.n inakii khulii nigaahe.n \-2
+	aas lagaaye baiThe rahanaa bhii to mazaa detaa hai
+mu \:	duur bahut aabaadii se, ishq kii ra.ngii.n vaadii se
+	ye kaun sadaa detaa hai
+la \:	pyaar bharaa ik dil hogaa, yaa ko_ii bismil hogaa
+	jo apanaa pataa detaa hai
+
+la \:	aa haa aa
+mu \:	ye parabat uu.Nche\-uu.Nche, Kaamoshii ke afasaane \-2	
+la \:	kyuu.N duur kha.De bastii se, ho.nge ye bhii diiwaane \-2
+	jaane kis\-kis ko diiwaanaa pyaar banaa detaa hai
+
+mu \:	duur bahut aabaadii se, ishq kii ra.ngii.n vaadii se
+	ye kaun sadaa detaa hai
+la \:	pyaar bharaa ik dil hogaa, yaa ko_ii bismil hogaa
+	jo apanaa pataa detaa hai
+
+#endindian
+\endsong

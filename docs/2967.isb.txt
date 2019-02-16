@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tere phuulo.n se bhii pyaar}%
+\film{Nastik}%
+\year{1954}%
+\starring{Ajit, Nalini Jayawant}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Pradeep}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: Srinivas Ganti
+% Comments:
+%
+\printtitle
+#indian
+%
+
+amR^it aur zahar dono.n hai.n saagar me.n ek saath
+manthan kaa adhikaar hai sab ko phal prabhu tere haath
+
+tere phuulo.n se bhii pyaar
+tere kaa.nTo.n se bhii pyaar
+jo bhii denaa chaahe de de karataar
+duniyaa ke taaraNahaar
+tere phuulo.n se bhii pyaar \threedots
+
+chaahe sukh de yaa dukh, chaahe khushii de yaa Gam \-2
+maalik jaise bhii rakhegaa vaise rah le.nge ham
+maalik rah le.nge ham
+chaahe ha.Nsii bharaa sa.nsaar de yaa aa.Nsuo.n kii dhaar
+jo bhii denaa chaahe de de karataar
+duniyaa ke taaraNahaar \thredots
+
+ham ko dono.n hai.n pasa.nd terii dhuup aur chhaa.Nv \-2
+daataa kisii bhii dishaa me.n le chal zi.ndagii kii naav
+le chal zi.ndagii kii naav
+chaahe hame.n lagaa de paar Dubaa de chaahe hame.n ma.njhadhaar
+jo bhii denaa chaahe de de karataar
+duniyaa ke taaraNahaar \threedots
+
+%
+#endindian
+\endsong
+%

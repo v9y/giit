@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chhup gayaa badalii me.n jaa ke chaa.Nd bhii sharamaa gayaa}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Abhijit, Shankar Mahadevan, Anuradha Shriram}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chhup ga_e saare taare baadalo.n me.n chhup ga_e
+chhup ga_e vo nazaare baadalo.n me.n chhup ga_e
+aa aa
+chhup gayaa badalii me.n jaa ke chaa.Nd bhii sharamaa gayaa
+aapako dekhaa to phuulo.n ko pasiinaa aa gayaa
+are maahii re o o
+aapane yuu.n chhe.D ke to dil meraa dha.Dakaa diyaa
+ham mile to pyaar karane kaa mahiinaa aa gayaa
+are maahii re o o aa
+
+aapakii ye chuu.Diyaa.n hamako jagaa_e.n raat bhar
+aapakii ye boliyaa.n hamako sataa_e.n raat bhar
+aapakaa aa.Nchal u.Daa a.mbar pe baadal chhaa gayaa
+ham mile to \threedots
+are maahii haay ho ho aa
+
+aa.Nkho.n se nii.nde.n churaanaa ko_ii siikhe aapase
+pyaar me.n paagal banaanaa ko_ii siikhe aapase
+aapakii chaahat kaa ye a.ndaaz hamako bhaa gayaa
+aapako dekhaa to \threedots
+%
+#endindian
+\endsong
+

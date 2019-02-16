@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{aag havaa miTTii aur paanii saarii duniyaa sadiyo.n puraanii}%
+\film{Heer Ranjhaa}%
+\year{1992}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aag havaa miTTii aur paanii \-2
+saarii duniyaa sadiyo.n puraanii
+aag havaa miTTii aur paanii saarii duniyaa sadiyo.n puraanii
+duniyaa me.n kyaa sabase puraanaa log kahe.n patthar kaa zamaanaa \-2
+aag havaa miTTii aur paanii \threedots
+
+usase puraanaa
+haa.N usase puraanaa pyaar hamaaraa aajaa dil ne tujhako pukaaraa
+ho usase puraanaa pyaar hamaaraa aajaa dil ne tujhako pukaaraa
+aa jaa
+aag havaa miTTii aur paanii \threedots
+%
+#endindian
+\endsong
+
+

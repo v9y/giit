@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ka_ii baar yuu.N hii dekhaa hai}% 
+\film{Rajnigandha}%
+\year{1974}%
+\starring{Amol Palekar, Vidya Sinha}%
+\singer{Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+% Producer: Devki Chitra.
+%
+% Contributor:  Reeta Sinha (librs@emory.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: ShashiKant rava0002@gold.tc.umn.edu
+%          Ravi K. Sista <sista@engr.LaTech.edu>
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ka_ii baar yuu.n hii dekhaa hai 
+ye jo man kii siimaa rekhaa hai 
+man to.Dane lagataa hai 
+anjaanii pyaas ke piichhe 
+anjaanii aas ke piichhe 
+man dau.Dane lagataa hai 
+
+raaho.n me.n, raaho.n me.n, jiivan kii raaho.n me.n 
+jo khile hai.n phuul phuul muskuraake 
+kaun saa phuul churaake, rakh luu.n man me.n sajaake 
+ka_ii baar yuu.n hii dekhaa hai \threedots
+
+jaanuu.N na, jaanuu.N na, ulajhan ye jaanuu.N na
+sulajhaa_uu.n kaise kuchh samajh na pa_uu.N 
+kisako miit banaa_uu.N, kisakii priit bhulaa_uu.N
+ka_ii baar yuu.n hii dekhaa hai \threedots
+%
+#endindian
+\endsong
+%

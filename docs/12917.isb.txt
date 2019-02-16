@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jab se dekhaa tujhako meraa dil hu_aa bechain ... ##handsome man, mister bond.##}%
+\film{Mr. Bond}%
+\year{1992}%
+\starring{Akshay Kumar, Sheeba, Saathi Ganguli, Ruchika Pandey, Dolly Minhas}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##handsome man##
+jab se dekhaa tujhako meraa dil hu_aa bechain
+##handsome man, mister bond.##
+
+merii ye javaanii mere li_e saarii zi.ndagaanii tere li_e
+aa kariib aa mujhase na duur tuu jaa
+tuu na samajhe tuu na jaane
+aag lagii tan me.n mere ta.Dape din raat
+##handsome man## \threedots
+
+aa.Nkho.n kii sharaabo.n me.n tuu rahe ho.nTho.n ke gulaabo.n me.n tuu rahe
+dekh to idhar yuu.n pher naa nazar
+dil me.n tuu hai jii me.n tuu hai
+dard li_e man me.n sadaa tuu hii tuu hai
+dekh mujhe ##handsome man## mere ##handsome man##
+jab se dekhaa tujhako \threedots
+%
+#endindian
+\endsong
+

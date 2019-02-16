@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{havaa me.n dil Dole}%
+\film{Saiyan}%
+\year{1951}%
+\starring{Madhubala, Ajit, Sajjan}%
+\singer{Lata, chorus}%
+\music{Sajjad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Date:23 Dec,2000
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+ 
+la: (havaa me.n dil Dole machal kar bole)\-2
+    daras dikhalaa de balam bhole bhole
+ko: havaa me.n dil Dole machal kar bole
+    daras dikhalaa de balam bhole bhole
+la: havaa me.n dil Dole machal kar bole
+ 
+la: na chain aaye na nii.nd aaye, ba.Daa naazuk zamaanaa hai
+ko: na chain aaye na nii.nd aaye, ba.Daa naazuk zamaanaa hai
+la: hazaaro.n tiir chalate hain, hamaaraa dil nishaanaa hai
+ko: ghaTaae.n kaalii kaalii, ye rut matavalii
+    sadaaye.n haule haule
+la: havaa me.n dil Dole machal kar bole
+ko: daras dikhalaa de balam bhole bhole
+la: havaa me.n dil Dole machal kar bole
+ 
+la: aanaa hai to aa jaao, bahaare.n phir na aaye.ngii
+ko: aanaa hai to aa jaao, bahaare.n phir na aaye.ngii
+la: judaa rah kar na tarasaao, nii.nde.n TuuT jaaye.ngii
+ko: baaho.n me.n pa.De jhuule, hame.n tum bhuule
+    balam bhole bhole
+la: havaa me.n dil Dole machal kar bole
+ko: daras dikhalaa de balam bhole bhole
+    havaa me.n dil Dole machal kar bole
+    daras dikhalaa de balam bhole bhole
+ 
+%
+#endindian
+\endsong
+%

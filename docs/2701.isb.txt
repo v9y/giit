@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{saagar kinaare dil ye pukaare}%
+\film{Saagar}%
+\year{}%
+\starring{Rishi Kapoor, Dimple Kapadia, Kamalahasan}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Shweta Saxena
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+saagar kinaare dil ye pukaare
+tuu jo nahii.n to meraa koii nahii.n hai
+saagar kinaare   \threedots
+
+jaage nazaare, jaagii havaa_e.n
+jab pyaar jaagaa, jaagii fizaa_e.n
+ho pal bhar ko dil kii duniyaa soyii nahii.n hai
+saagar kinaare   \threedots
+
+laharo.n pe naache.n, kiraNo.n kii pariyaa.N
+mai.n kho_ii jaise, saagar me.n nadiyaa
+ho tuu hii akelii to khoii nahii.n hai
+saagar kinaare   \threedots
+
+%
+#endindian
+\endsong
+%

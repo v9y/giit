@@ -1,0 +1,65 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tere man me.n kaun ... jaa rii na bata_uu.N mai.n to}%
+\film{Angulimaal}%
+\year{1960}%
+\starring{Bharat Bhushan, Nimmi, Anita Guha}%
+\singer{Lata, Meena Kapoor, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+mii \:	tere man me.n kaun, nainan me.n kaun
+	jiivan me.n kaun Dole
+	praano.n me.n kaun, sapano.n me.n kaun,
+	saa.Nso.n me.n kaun bole
+
+ko \:	tere man me.n kaun, nainan me.n kaun
+	jiivan me.n kaun Dole
+	praano.n me.n kaun, sapano.n me.n kaun,
+	saa.Nso.n me.n kaun bole
+
+la \:	jaa
+	jaa rii na bata_uu.N mai.n to naam chitachor kaa \-2
+	chhupaa\-chhupaa pyaar hai ye \-2
+	chandaa chakor kaa
+	jaa rii na bata_uu.N mai.n to naam chitachor kaa \-2
+
+	jhuume.n ghaTaaye.n ghu.Ngharaale baalo.n me.n
+	mukha.De pe chaa.Nd bali jaaye re
+ko \:	haa haa haa haa mukha.De pe chaa.Nd bali jaaye re
+la \:	haay niilii sii a.nkhiyaa.N, bhau.Nhe.n kamaan jaisii
+	dekhe.n to jaan chalii jaaye re
+ko \:	ho ho ho ho dekhe.n to jaan chalii jaaye re
+mii \:	hai chhaliyaa kaun, khalabaliyaa kaun
+	ra.ngaraliyaa ra.ng ghole
+
+ko \:	praano.n me.n kaun, sapano.n me.n kaun,
+	saa.Nso.n me.n kaun bole
+
+la \:	jaa
+	jaa rii na bata_uu.N mai.n to naam chitachor kaa \-2
+
+	kaano.n me.n kuNDal, kaa.Ndhe dhanuSh dhare
+	maathe tilak kii rekh hai
+ko \:		haa haa haa haa maathe tilak kii rekh hai
+la \: 	haa jisake liye huye nainaa diiwaane mere
+	wo meraa laakho.n me.n ek hai
+ko \:	ho ho ho ho wo meraa laakho.n me.n ek hai
+mii \:	hai rasiyaa kaun, manabasiyaa kaun,
+	ghuu.NghaT ko chhup ke khole
+
+ko \:	praano.n me.n kaun, sapano.n me.n kaun,
+	saa.Nso.n me.n kaun bole
+
+la \:	jaa
+	jaa rii na bata_uu.N mai.n to naam chitachor kaa
+	jaa rii na bata_uu.N mai.n to
+
+#endindian
+\endsong

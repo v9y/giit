@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mai.n pyaar huu.N teraa jaane na tuu}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n pyaar huu.N teraa jaane na tuu jaane na haa.N maane na tuu
+teraa hii aashiq huu.N mai.n mujhako tuu pahachaan le
+yuu.n to mai.n mar jaa_uu.ngaa kahanaa meraa maan le
+mai.n pyaar huu.N teraa \threedots
+
+aayaa huu.N mai.n paas tere ai sanam
+dil me.n chhupaa ke laayaa tere Gam
+kyaa karuu.n tuu bataa merii hai kyaa khataa
+kyo.n pyaar me.n mujhe ta.Dapaa_e tuu
+ta.Dapaa_e tuu kyuu.n tarasaa_e tuu
+
+maine tere naam likh dii zi.ndagii o
+kitanii bhii kar le mujhase berukhii
+le meraa imtahaa.n aur bhii aazamaa.n
+har saa.Ns me.n terii bas jaa_uu.ngaa
+ik din tujhe haa.N mai.n paa_uu.ngaa
+mai.n pyaar huu.N teraa \threedots
+%
+#endindian
+\endsong
+

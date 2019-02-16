@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye zi.ndagii ke mele, duniyaa me.n kam na ho.nge}%
+\film{Mela}%
+\year{}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(ye zi.ndagii ke mele \- 2), duniyaa me.n kam na ho.nge
+afasos ham na ho.nge
+
+ik din pa.Degaa jaanaa, kyaa vaqt, kyaa zamaanaa
+koii na saath degaa, sab kuchh yahii.n rahegaa
+jaae.nge ham akele, ye zi.ndagii \threedots
+
+duniyaa hai mauj\-e\-dariyaa, qatare kii zi.ndagii kyaa
+paanii me.n mil ke paanii, a.njaam ye ke paanii
+dam bhar ko saa.ns le le, ye zi.ndagii \threedots
+
+ho.ngii yahii bahaare.n, ulfat kii yaadagaare.n
+biga.Degii aur chalegii, duniyaa yahii rahegii
+ho.nge yahii jhamele, ye zi.ndagii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{terii ek chhu_an se ... pahalii pahalii baar baliye}%
+\film{Sangharsh}%
+\year{1999}%
+\starring{Akshay Kumar, Preity Zinta, Asutosh Rana}%
+\singer{Sonu Nigam, Shraddha Pandit}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii ek chhu_an se jaagaa ye kaisaa ehasaas
+pahale to mahasuus hu_ii naa mujhako aisii pyaas
+
+pahalii pahalii baar baliye dil gayaa haar baliye
+rabbaa mainuu.n pyaar ho gayaa haay dil kaa karaar kho gayaa
+
+pahalii pahalii baar baliye dil ga_ii haar baliye
+rabbaa mainuu.n \threedots
+
+bole.n terii soNii soNii akkhaa.n mastaaniyaa.n
+pyaar ke li_e ye de.ngii laakho.n qurbaaniyaa.n
+karake etabaar baliye dil gayaa haar baliye
+rabbaa mainuu.n \threedots
+
+aa tere li_e tere li_e marataa hai maahiyaa
+phir kyuu.n judaa_ii se dil Darataa hai maahiyaa
+tujhape jaa.n nisaar baliye dil ga_ii haar baliye
+rabbaa mainuu.n \threedots
+%
+#endindian
+\endsong
+

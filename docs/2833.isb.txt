@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ek jhuuThii sii tasallii vo mujhe de ke chale}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar,Nargis}%
+\singer{Lata}%
+\music{Mohd. Shafi}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Editor: Hrishi Dixit
+% Date: February 28,2001
+% Comments: LATAnjali series.
+%           This movie has two MD's,Sajjad Hussain and Mohd.Shafi
+%
+\printtitle
+#indian
+%
+
+ek jhuuThii sii tasallii vo mujhe de ke chale
+(meraa dil leke chale)\-2
+ek jhuuThii sii tasallii vo mujhe de ke chale
+(meraa dil leke chale)\-2
+
+(rah gayaa pyaar meraa aa.Nkho.n me.n aa.Nsuu bharake)\-2
+chal diye vo merii duniyaa me.n a.ndheraa kar ke
+na diyaa bujhataa bujhaaye ? jalaaye naa jale
+meraa dil leke chale\threedots
+
+(kyaa khabar thii ke din aise bhii kabhii aaye.nge)\-2
+chho.D ke mujhako akelaa vo chale jaaye.nge
+luuT ke merii khushii Gam vo mujhe deke chale
+meraa dil leke chale\threedots
+
+%
+#endindian
+\endsong
+%

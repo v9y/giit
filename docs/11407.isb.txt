@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{ek raajaa hai ek raanii hai ... aur kyaa zi.ndagaanii hai}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Mohammed Aziz, Anuradha Paudwal, Sarika Kapoor, Milind/ Mohammed Aziz}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+ek raajaa hai ek raanii hai paas paisaa hai aur javaanii hai
+aur kyaa zi.ndagaanii hai
+sab nasiibo.n kii ye kahaanii hai
+terii chaahat kii sab nishaanii hai
+aur kyaa zi.ndagaanii hai
+
+ghar hai ek ma.ndir tum mere devataa ho
+maine rab se maa.ngii vahii tum du_aa ho
+kaun hame.n duniyaa me.n itanaa pyaar degaa
+itanii khushii aur aisaa sa.nsaar degaa
+mujhe rahanaa hai inhii.n charaNo.n me.n
+umr baaho.n me.n yuu.N bitaanii hai
+aur kyaa zi.ndagaanii hai
+
+aisii apanii dostii hai aisaa dostaanaa
+yaad rakhegaa hamako saaraa zamaanaa
+dostii pe bilkul na karanaa bharosaa
+dost banake dete hai.n log yahaa.N dhokhaa
+dostii ham naa kabhii to.De.nge
+aaj hamane ye dil me.n Thaanii hai
+aur kyaa zi.ndagaanii hai
+
+aise gulashan to bahaaro.n me.n khilaa karate hai.n
+aise maa.N baap nasiibo.n se milaa karate hai.n
+maine har roj du_aa maa.ngii hai terii khaatir
+meraa har khvaab ban gayaa hai hakiikat aakhir
+in rishto.n ko ham nibhaa_e.nge
+apanii puujaa bhii aajamaanii hai
+aur kyaa zi.ndagaanii hai
+ek raajaa hai \threedots
+%
+%Part 2:
+%
+kal talak jo sach thaa vo ban gayaa fasaanaa
+tinakaa tinakaa bikharaa luTaa vo aashiyaanaa
+pal me.n ban ga_e saare apane begaane
+yaad bahut aate hai.n guzare zamaane
+bas tabaahii hai Gam ke saa_e hai.n
+suunii aa.Nkho.n me.n sirf paanii hai
+aur kyaa zi.ndagaanii hai
+%
+#endindian
+\endsong
+

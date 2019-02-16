@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ham se aayaa na gayaa tum se bulaayaa naa gayaa}%
+\film{Dekh Kabira Roya}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ham se aayaa na gayaa tum se bulaayaa naa gayaa
+faasalaa pyaar me.n dono.n se miTaayaa naa gayaa
+
+vo gha.Dii yaad hai jab tum se mulaaqaat huI
+ek ishaaraa huaa do haath ba.Dhe baat huI
+dekhate dekhate din Dhal gayaa aur raat huI
+vo samaa.n aaj talak dil se bhulaayaa naa gayaa
+ham se AyA na gayA
+
+kyaa Kabar thii ke mile hai.n to bichha.Dane ke liye
+qismate.n apanii banaaI.n hai.n biga.Dane ke liye
+pyaar kaa baag basaayaa thaa uja.Dane ke liye
+is tarah uja.Daa ke phir ham se basaayaa naa gayaa
+ham se AyA na gayA
+
+yAd rag jAtI hai aur vaqt guzar jAtA hai
+phUl khilatA hai magar khil ke bikhar jAtA hai
+sab chale jAte hai.n phir darde jigar jAtA hai
+dAG jo tUne diyA dil ne miTAyA nA gayA
+ham se AyA na gayA \threedots
+%
+#endindian
+\endsong
+%

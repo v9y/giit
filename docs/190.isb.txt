@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{ajanabii kaun ho tum, jabase tumhe.n dekhaa hai}%
+\film{Sweekar Kiya Maine}%
+\year{}%
+\starring{Shabana Azmi, Vinod Mehra}%
+\singer{Lata}%
+\music{Usha Khanna}%
+\lyrics{Nida Fazli}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 09/10/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: Released in 1983 
+%
+\printtitle
+#indian
+%
+(ajanabii kaun ho tum, jabase tumhe.n dekhaa hai
+ saarii duniyaa merii aa.Nkho.n me.n simaT aaii hai) \-2
+
+tum to har giit me.n shaamil the, tarannum kii tarah
+tum mile ho mujhe phuulo.n kaa tabassum banake
+aisaa lagataa hai ke baraso.n se, shamaa aaj aaii hai
+ajanabii kaun ho tum\threedots
+
+Kvaab kaa ra.Ng haqiiqat me.n nazar aayaa hai
+dil me.n dha.Dakan kii tarah koii utar aayaa hai
+aaj har saa.Ns me.n shahanaaiyo.n sii laharaaii hai
+ajanabii kaun ho tum\threedots
+
+koii aahaT sii, a.ndhero.n me.n chamak jaatii hai
+raat aatii hai, to tanahaaii mahak jaatii hai
+tum mile ho yaa mohabbat ne Gazal gaaii hai
+ajanabii kaun ho tum\threedots
+%
+#endindian
+\endsong
+%
+

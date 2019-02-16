@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{saperaa biin bajaayo re}%
+\film{Padmini}%
+\year{1948}%
+\starring{Ashok Kumar, Mumtaz Shanti}%
+\singer{Geeta, Ashok Kumar}%
+\music{Ghulam Haider}%
+\lyrics{Wali Saheb}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 6, 2001
+%
+\printitle
+#indian
+%
+
+gii: saperaa biin bajaayo re tuu to mhaare galii me.n aayo re
+     mai.n to chaluu.Ngiii thaare saath
+a:   tiir tore naino.n kaa hu_aa kalejavaa ke paar
+     tiir tore naino.n kaa
+gii: lagaa re tiir tor naino.n kaa
+     lagaa man me.n tiir tore naino.n kaa
+
+a:   o gorii re gorii re more baa.Ndh de haath do_uu raakh se
+     morii kaaT de naar ga.NDaase se
+     mai.n to chhup jaa_uu.N thaare saa.Nche se
+     mai.n to chhup jaa_uu.N chhup jaa_uu.N
+     meraa jiinaa hai dushavaar
+     tiir tore naino.n kaa hu_aa kalejavaa ke paar \threedots
+
+gii: o tan kaa baaje baa.Nsurii re
+     more man kaa baaje saaz 
+     saaz more man kaa baaje saaz
+a:   taar na to.D is taar ke re terii
+     bhagavan raakhe laaj
+     aaj mohe diipak raag sunaayo re
+     tuu to mhaaro galii me.n aayo re 
+gii: mai.n to chaluu.Ngii thaare saath
+a:   tiir tore naino.n kaa hu_aa kalejavaa ke paar \threedots
+
+%
+#endindian
+\endsong
+%

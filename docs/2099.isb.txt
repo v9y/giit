@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{jaane na nazar, pahachaane jigar}%
+\film{Aah}%
+\year{1953}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Credits: K Vijay Kumar, Neha Desai
+% Editor:
+% Comments : Dialogue before the song goes something like this
+%            RK : chaa.Nd ke piichhe bhaag rahaa huu.N magar ab tak
+%                 haath nahii.n aaya
+%                 ek baat bataaiye
+%            N :  kyaa?
+%            RK : aap ko dekh ke aisaa kyo.n lagataa hai jaise aap ko 
+%                 kahii.n dekhaa hai
+%            N :  (with a laugh) sapano.n me.n dekhaa hogaa
+%            RK : (wistfully) jii haa.N, mai.n sapane bahut dekhaa 
+%                 karataa huu.N
+%
+\printtitle
+#indian
+%
+jaane na nazar pahachaane jigar
+ye kaun jo dil par chhaayaa
+meraa a.ng a.ng muskaayaa - 2
+
+(aavaaz ye kisakii aatii hai
+jo chhe.D ke dil ko jaatii hai ) - 2
+mai.n sun ke jise sharmaa jaa_uu.N
+hai kaun jo dil me.n samaayaa
+meraa a.ng a.ng muskaayaa - 2
+
+jaane na nazar pahachaane jigar
+ye kaun jo dil par chhaayaa
+mujhe roz roz ta.Dapaayaa - 2
+
+(Dhuu.NDhe.nge use ham taaro.n me.n
+saavan kii ThaNDii bahaaro.n me.n) - 2
+par ham bhii kisii se kam to nahii.n
+kyo.n ruup ko apane chhupaayaa
+mujhe roz roz ta.Dapaayaa - 2
+
+(bin dekhe jisako pyaar karuu.N
+gar dekhuu.N us ko jaan bhii duu.N) - 2
+ek baar kaho o jaadugar
+ye kaun saa khel rachaayaa
+meraa a.ng a.ng muskaayaa - 2
+
+%
+#endindian
+\endsong
+%

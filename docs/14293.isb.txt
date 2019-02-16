@@ -1,0 +1,71 @@
+
+%
+\startsong
+\stitle{saajaN ... tere labo.n kii Kaamoshiyo.n ne ... dil dil dil jo naa kah sakaa}%
+\film{Surya}%
+\year{2003}%
+\starring{Milind Soman, Natanya Singh}%
+\singer{Abhijeet, Alka Yagnik, Kirti Sagathia}%
+\music{Aadesh Shrivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11769 [V S Rawat]
+% Producer: Lucky Star's Entertainment Ltd, www.luckystarsentertainment.net, contact@luckystarsentertainment.net
+% Director: Parto Ghosh
+% Audio: Lucky Star's Entertainment
+% Cassette: Royal Stereo LSFC 1013, Cost: Rs 45/-, CD: Royal Stereo LSFD 1013, Cost: Rs 55/-
+%
+\printtitle
+#indian
+%
+ko \:	saajaN
+	saa aa aa aa saajaN
+	o saajaN\-saajaN mai.n karuu.N saajaN hiye jagii \-2
+	saajaN\-saajaN laguu.N Dhuu.NDhane vaachuu.N kha.Dii\-kha.Dii
+
+	aa aa aa
+abhi \:	tere labo.n kii Kaamoshiyo.n ne jhukatii nazar kii madahoshiyo.n ne \-2
+	vo sab kah diyaa
+	dil dil dil jo naa kah sakaa
+	haa.N dil dil dil jo naa kah sakaa
+al \:	terii vafaa kii ra.ngiiniyo.n ne in dha.Dakano.n kii bechainiyo.n ne \-2
+	vo sab kah diyaa
+	dil dil dil jo naa kah sakaa
+	aa.N dil jo naa kah sakaa
+
+ko \:	aa aa aa aa
+abhi \:	vo dekh dharatii se diladaaraa milane lagaa aasamaa.N
+al \:	ab naa rahii.n duuriyaa.N yaaraa tere\-mere darmiyaa.N
+abhi \:	ho terii paayalo.n ne terii chuu.Diyo.n ne
+	tere surama_ii in gesuvo.N ne
+	vo sab kah diyaa
+ko \:	aa aa
+abhi \:	dil dil dil jo naa kah sakaa
+al \:	haa.N dil jo naa kah sakaa
+
+ko \:	saa gaa re gaa re gaa saa gaa re gaa re ni saa 
+	gaa re gaa re ni saa re
+	re maa gaa maa gaa maa re maa gaa maa gaa maa re
+	re gaa dhaa maa paa saa
+
+al \:	aa aa
+ko \:	aa aa
+al \:	maine to meha.ndii lagaa_ii hai dilabar tere pyaar kii \-2
+abhi \:	bikharii hai mahakii fizaa_o.n me.n Kushbuu ye ikaraar kii
+al \:	haa.N shoK vaadiyo.n ne jhuumatii havaa ne
+	duur parvato.n ko chuumatii ghaTaa ne
+	vo sab kah diyaa
+ko \:	aa aa
+al \:	dil dil dil jo naa kah sakaa
+	haa.N dil dil dil jo naa kah sakaa
+abhi \:	tere labo.n kii Kaamoshiyo.n ne jhukatii nazar kii madahoshiyo.n ne \-2
+al \:	terii vafaa kii ra.ngiiniyo.n ne in dha.Dakano.n kii bechainiyo.n ne \-2
+do \:	vo sab kah diyaa
+al \:	dil
+abhi \: dil
+al \: dil jo naa kah sakaa
+do \:	haa.N dil jo naa kah sakaa
+%
+#endindian
+\endsong
+

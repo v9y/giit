@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{soyii soyii chaa.Ndanii hai}%
+\film{Khazana}%
+\year{1951}%
+\starring{Madhubala}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: January 13, 2000
+% Credits:
+% Editor:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+soyii soyii chaa.Ndanii hai
+
+soyii soyii chaa.Ndanii hai khoyii khoyii raat hai
+nayaa nayaa pyaar hai ye nayii nayii baat hai
+soyii soyii chaa.Ndanii hai   \threedots
+
+gorii gorii chaa.Ndanii me.n jiyaa madahosh hai
+tum mere paas ho
+tum mere paas ho bas itanaa hii hosh hai
+itanaa hii hosh hai
+dil me.n khushii kii dhiimii dhiimii barasaat hai
+nayii nayii baat hai
+soyii soyii chaa.Ndanii hai   \threedots
+
+jhukii jhukii akhiyan me.n man kii tara.ng hai
+mastii me.n jhuum rahaa
+mastii me.n jhuum rahaa meraa a.ng a.ng hai
+meraa a.ng a.ng hai
+duniyaa na jaane sai.nyyaa terii merii baat hai
+nayii nayii baat hai
+soyii soyii chaa.Ndanii hai   \threedots
+
+%
+#endindian
+\endsong
+%

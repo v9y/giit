@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{saathii tere naam, ek din, jiivan kar jaaye.nge (partial)}% 
+\film{Ustadi Ustad Se}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{Ram Laxman}%
+\lyrics{}%
+%
+% Contributor: Arati Deo (arati@soma.rice.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits : Narendra Joshi
+%
+\printtitle 
+#indian
+%
+saathii tere naam, ek din, jiivan kar jaaye.nge, jiivan kar jaaye.nge 
+tuu hai meraa khudaa tuu naa karanaa dagaa
+tum bin mar jaaye.nge, tum bin mar jaaye.nge 
+
+khushabuo.n kii tarah, tuu mahakatii rahe
+bulabulo.n kii tarah, tuu chahakatii rahe
+dil ke har taar se aa rahii hai sadaa
+tuu salaamat rahe, bas yahii hai duaa
+tuu hai meraa khudaa tuu naa karanaa dagaa
+tum bin mar jaaye.nge, tum bin mar jaaye.nge 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jhuuTi-muuThi mitavaa aavan bole}%
+\film{Rudaali}%
+\year{1993}%
+\starring{Dimple Kapadia, Rakhee, Raj Babbar}%
+\singer{Lata}%
+\music{Bhupen Hazarika}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+jhuuThii\-muuThii mitavaa aavan bole
+bhaado.n bole, kabhii saavan bole
+jhuuThii\-muuThii mitavaa aavan bole   \threedots
+
+baadalo.n pe chalane ko chaahuu.N piyaa
+aao meraa jhuulanaa jhulaao piyaa
+ban ban papiihaa pihuu bole
+jhuuThii\-muuThii mitavaa aavan bole   \threedots
+
+rog ye kaisaa laagaa mohe
+aarasii uThaa_uu.N dekhuu.n tohe
+man cha.nchal mose chhal na kare
+baa.Nvarii bole kabhii pagalii bole
+kaarii torii akhiyaa.N yaad karuu.N
+aarasii me.n baar baar kaajar bharuu.N
+man mitavaa kaahe pihuu bole
+jhuuThii\-muuThii mitavaa aavan bole   \threedots
+
+%
+#endindian
+\endsong
+%

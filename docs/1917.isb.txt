@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{ye kaun aayaa, roshan ho ga_ii mahafil kisake naam se}%
+\film{Sathi}%
+\year{1968}%
+\starring{Simi Garewal, Rajendra Kumar, Vyjayanthimala}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Malini K. Murthy (fl849@cleveland.Freenet.Edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Sep 10 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  The song is picturised on Simi Garewal
+%
+\printtitle
+#indian
+%
+ye kaun aayaa, roshan ho ga_ii mahafil kisake naam se
+mere ghar me.n jaise suuraj nikala hai shaam se
+ye kaun aayaa
+
+yaade.n hai.n kuchh aaii sii, yaa kirane.n laharaaii sii
+dil me.n soe giito.n ne, lii hai phir a.nga.Daaii sii
+armaano.n kii madiraa chhalake, a.Nkhiyo.n ke jaam se
+ye kaun aayaa
+
+kyaa kahie is aane ko, aayaa hai tarasaane ko
+dekhaa usane ha.Ns ha.Ns ke, har apane begaane ko
+lekin kitanaa beparvaah hai, mere hii salaam se
+ye kaun aayaa
+%
+#endindian
+\endsong
+%

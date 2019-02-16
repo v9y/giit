@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aisaa kabhii huaa nahii.n}%
+\film{Yeh Vaada Raha}%
+\year{1982}%
+\starring{Rishi Kapoor, Poonam Dhillon, Tina Munim, Shammi Kapoor, Rakesh Bedi}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Anand Tiwari
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+suniitaa suniitaa suniitaa
+
+aisaa kabhii huaa nahii.n jo bhii huaa khuub huaa
+dekhate hii tujhe hosh gum hue hosh aayaa to dil meraa dil na rahaa
+aisaa kabhii huaa nahii.n jo bhii huaa khuub huaa
+
+reshamii zulfe.n hai.n saavan kii ghaTaao.n jaisii
+palke.n hai.n terii ghane pe.D kii chhaa.Nv jaisii
+bholaapan aur ha.Nsii aafriin aafriin
+aisaa kabhii huaa nahii.n   \threedots
+
+jhiil sii aa.Nkho.n me.n mastii ke jaam laharaaye.n
+jab ho.nTh khule tere saragam baje, mahake fizaae.n
+har adaa dil nashii.n aafriin aafriin
+aisaa kabhii huaa nahii.n   \threedots
+
+patalii sii garadan me.n ek bal hai suraahii jaisaa
+a.ndaaz maTakane kaa dekhaa na kisii ne aisaa
+gulabadan naazanii.n aafriin aafriin
+aisaa kabhii huaa nahii.n   \threedots
+%
+#endindian
+\endsong
+%

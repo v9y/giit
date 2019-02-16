@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{##suit boot## vaale baabuu dil pe nahii.n meraa qaabuu}%
+\film{Ghazab Tamaashaa}%
+\year{1992}%
+\starring{Rahul Roy, Anu Agarwal, Deepak Tijori, Sneha, Satyajeet, Nalini, Kulbhushan}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	he ##suit boot## vaale baabuu
+	dil pe nahii.n meraa qaabuu
+	la.Dakii galii kii dekho ban ga_ii mem
+	bhuul ga_ii mai.n ##address## aur ##name##
+	##suit boot## vaale baabuu \threedots
+
+	mujhako sambhaalo gir naa jaa_uu.N
+	bahake qadam mai.n to bal khaa_uu.N
+	la.Dakii galii kii dekho \threedots
+
+	shiirii hiir na mai.n lailaa dekh na mujhako yuu.N chhailaa
+	mai.n paTaakhaa mai.n huu.N golii na samajh tuu mujhako bholii
+	aise jhaa.Nk na gore a.ng me.n sholaa hai chhupaa hai mere ra.ng me.n
+	husn meraa hai saare shahar me.n ##fame##
+	bhuul ga_ii mai.n ##address## \threedots
+
+	ko_Ii jaane na mai.n huu.N kyaa aa dikhaa duu.N tujhako jalavaa
+	kyuu.N machaa hai ye ha.ngaamaa jaane hai ye kaisaa ##drama##
+	kaise log hai.n kaisaa Dha.ng hai dekh ke inhe.n dil to da.ng hai
+	iname.n hayaa na iname.n ##shame##
+	bhuul ga_ii mai.n ##address## \threedots
+
+	ai baabuu denaa
+	kyaa Kuubasuurat hai tuu rab tujhako ##hero## banaa_e
+	salamaan aamir se zyaadaa tuu paisaa kamaa_e
+	##pocket## se noT nikaal yuu.N de na yaar gin ke
+	dekhii ##film## na ko_ii maine to chaar din se
+	usane diyaa hai tujhe tho.Daa tuu de de mujhe
+	ai ##hero## denaa
+%
+#endindian
+\endsong
+

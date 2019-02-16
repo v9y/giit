@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{tuu shaitaano.n kaa saradaar hai}%
+\film{Baarood}%
+\year{1976}%
+\starring{Ashok Kumar, Rishi Kapoor, Shoma Anand, Ajeet, Reena Roy, Asit Sen}%
+\singer{Mukesh, Shivangi Kolhapure}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10427 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tuu shaitaano.n kaa saradaar hai
+shi \:	sach hai
+mu \:	haradam la.Dane ko taiyaar hai
+shi \:	sach hai
+mu \:	o tere haatho.n meraa jiinaa dushvaar hai
+shi \:	##daddy## phir bhii tumako mujhase pyaar hai
+	ho ##daddy## phir bhii \threedots
+
+mu \:  maar ke Thokar mej kaa konaa to.D diyaa hai
+	meraa to har sapan salonaa to.D diyaa hai
+	aur apanaa bhii har ek khilaunaa to.D diyaa hai
+	aur ab jaane kyaa to.De ko_ii etabaar hai
+shi \:	##daddy## phir bhii \threedots
+
+mu \:	sochaa thaa tuu mere kitane kaam karegaa
+	pa.Dh\-likh kar duniyaa me.n roshan naam karegaa
+	tuu to meraa naam bhii badanaam karegaa
+	tujhako samajhaane kii har koshish bekaar hai 
+shi \:	##daddy## phir bhii \threedots
+
+mu \:	kyaa ja.ngal kaa raajaa kabhii mor banegaa
+	sher kaa beTaa kyaa itanaa kamazor banegaa
+	mai.n sipaahii banaa tuu shaayad chor banegaa
+	kyaa kahuu.N tuu phuul hai yaa kaa.NTo.n kaa haar hai
+shi \:	##daddy## phir bhii \threedots
+%
+#endindian
+\endsong
+

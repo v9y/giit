@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{naa lenaa hamase pa.ngaa ustaad ba.De hai.n}%
+\film{Betaabi}%
+\year{1997}%
+\starring{Chandrachur, Arshad Warsi, Anjala Zaveri, Mayuri Kango, Shakti}%
+\singer{Vishal}%
+\music{Vishal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa lenaa hamase pa.ngaa ustaad ba.De hai.n
+la.Dake tum jaise merii jeb me.n pa.De hai.n
+##so don't take a## pa.ngaa mere saath to ##never take## pa.ngaa
+naa lenaa hamase pa.ngaa \threedots
+
+ghuumatii titaliyaa.N jhuumatii bijaliyaa.N
+aag kii badaliyaa.n aaj kii la.Dakiyaa.N
+jaisii tuufaanii havaa_e.N
+paagal lagatii hai.n baate.n hamaarii maan le
+##don't take## pa.ngaa mere saath \threedots
+
+phuul se bhii naram sholo.n se bhii garam
+to.D de.nge bharam naa sahe.nge sitam
+ham hai.n garajatii ghaTaa_e.N
+ab naa ruke.nge ab naa thame.nge jaan lo
+##don't take## pa.ngaa mere saath \threedots
+%
+#endindian
+\endsong
+

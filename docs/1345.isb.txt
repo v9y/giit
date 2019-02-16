@@ -1,0 +1,52 @@
+%
+\startsong 
+\stitle{nii.nd churaake raato.n me.n tumane baato.n baato.n me.n}% 
+\film{Sharif Badmaash}%
+\year{}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+(aashaa:	nii.nd churaake raato.n me.n, tumane baato.n baato.n me.n
+		dekho baat badal dii hai
+kishor:		ham phir baat badal de.nge, aaj nahii.n dil kal de.nge bhaaii
+		aisii bhii kyaa jal{}dii hai, arre, aisii bhii kyaa jal{}dii hai \- 2 ) \- 2
+	
+aashaa:		(raat biitii saarii, zaalimaa me.n haarii
+		tum kyaa jaano, a.nga a.nga meraa phuu.Nk gaI chi.ngaarii re ) \- 2
+%		isssh aa ha \- 2
+		aag lagaa barasaato.n me.n, tumane baato.n baato.n me.n
+		dekho baat badal dii hai
+		
+kishor:		ham phir baat badal de.nge, aaj nahii.n dil kal de.nge bhaaii
+		aisii bhii kyaa jal{}dii hai, arre, aisii bhii kyaa jal{}dii hai
+		arre, aisii bhii kyaa jal{}dii hai
+	
+aashaa:		aa\threedots, (duur bahut rah baiThii \- 2
+		tumako jo kahanaa thaa mujhe, mai.n tumase kah baiThii re ) \- 2
+%		issh aa ha \- 2
+		haatha paka.Dake haatho.n me.n, tumane baato.n baato.n me.n
+		dekho baat badal dii hai
+		
+kishor:		ham phir baat badal de.nge, aaj nahii.n dil kal de.nge bhAI
+		aisii bhii kyaa jal{}dii hai, arre, aisii bhii kyaa jal{}dii hai
+		arre, aisii bhii kyaa jal{}dii hai
+		
+aashaa:		arre, arre, nii.nd churaake raato.n me.n, tumane baato.n baato.n me.n
+		dekho baat badal dii hai
+		
+kishor:		ham phir baat badal de.nge, aaj nahii.n dil kal de.nge bhaaii
+		aisii bhii kyaa jal{}dii hai, arre, aisii bhii kyaa jal{}dii hai
+		arre, aisii bhii kyaa jal{}dii hai
+
+#endindian
+\endsong
+%

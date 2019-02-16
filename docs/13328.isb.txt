@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{jaa jaa jaa re jaa re jaa}%
+\film{Nayaa Ghar}%
+\year{1953}%
+\starring{Geeta Bali, Shekhar, Leela Chitnis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11929 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+jaa jaa jaa re jaa re jaa
+jaa jaa jaa re jaa re jaa re
+ra.nj\-o\-Gam ke andhere tuu jaa
+teraa\-meraa saath kyaa
+teraa\-meraa saath kyaa re
+tuu merii duniyaa se jaa
+jaa jaa jaa re jaa re jaa
+
+( ummiido.n ne chhe.Daa Kushii kaa ye taraanaa
+nigaaho.n ne siikhaa hai phir se muskuraanaa ) \-2
+jaa jaa jaa re jaa re jaa
+jaa jaa jaa re jaa re jaa re
+ra.nj\-o\-Gam ke andhere tuu jaa
+jaa jaa jaa re jaa re jaa
+
+( muhabbat kii aisii gha.Dii aa rahii hai
+nazar merii mujhase hii sharmaa rahii hai ) \-2
+jaa jaa jaa re jaa re jaa
+jaa jaa jaa re jaa re jaa re
+ra.nj\-o\-Gam ke andhere tuu jaa
+jaa jaa jaa re jaa re jaa
+
+( sitaaro.n kii chhai.nyaa.N me.n miiThii\-miiThii baate.n
+fasaanaa bane.ngii hamaarii mulaaqaate.n ) \-2
+jaa jaa jaa re jaa re jaa
+jaa jaa jaa re jaa re jaa re
+ra.nj\-o\-Gam ke andhere tuu jaa
+teraa\-meraa saath kyaa
+teraa\-meraa saath kyaa re
+tuu merii duniyaa se jaa
+jaa jaa jaa re jaa re jaa
+%
+#endindian
+\endsong
+

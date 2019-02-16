@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{tere saath chal rahe hai.n}%
+\film{Angaare}%
+\year{1954}%
+\starring{Nargis, Naseer Khan, Nanda, Pran, Paro}%
+\singer{Talat, Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+% 
+% Contributor: K Vijay Kumar  
+% Transliterator: K Vijay Kumar  
+% Date:
+% Credits: 
+% Editor: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+T : mitavaa, o mitavaa
+
+T : tere saath chal rahe hai.n ye zamii.n, ye chaa.Nd taare
+L : ye zamii.n, ye chaa.Nd taare tere ik nazar pe vaare
+
+T : mere lab pe aate aate, ko_ii baat rah ga_ii hai
+L : mai.n chalii huu.N merii duniyaa tere saath rah ga_ii hai
+T : mere lab pe aate aate, ko_ii baat rah ga_ii hai
+L : mai.n basii hu_ii huu.N tujh me.n, mujhe kis liye pukaare
+T : tere saath chal rahe.n hai \threedots
+
+T : merii zi.ndagii bhii tuu hai, merii aarazuu bhii tuu hai
+L : mai.n vo kalii huu.N jis me.n, teraa ra.ng terii Kushbuu hai
+T : merii zi.ndagii bhii tuu hai, merii aarazuu bhii tuu hai
+L : merii zi.ndagii hai zi.ndaa terii yaad ke sahaare
+T : tere saath chal rahe.n hai \threedots
+
+%
+#endindian
+\endsong
+%
+

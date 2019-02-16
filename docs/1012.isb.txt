@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{koii gaataa mai.n so jaataa}%
+\film{Alaap}%
+\year{1977}%
+\starring{Amitabh Bachchan, Rekha, Sanjeev Kumar}%
+\singer{Yesudas}%
+\music{Jaidev}%
+\lyrics{Harivansh Rai Bachchan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Pradeep Dubey (pradeep@watson.ibm.com)
+%          Raj Ganesan (cpd.tandem.com!raj)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+koI gaataa mai.n so jaataa \- 2
+
+sa.nsriti ke vistrit saagar me.n
+sapano.n ki naukaa ke a.ndar
+dukh sukh ki laharo.n me.n uTh gir
+bahataa jaataa, mai.n so jaataa \threedots
+
+aa.Nkho me.n lekar pyaar amar
+aashiish hathelii me.n bhar kar
+koi meraa sar godii me.n rakh
+sahalaataa, mai.n so jaataa \threedots
+
+mere jiivan kaa kaaraajal
+mere jiivan kaa haalaahal
+koi apane svar me.n madumay kar
+doharaataa mai.n so jaataa
+
+koi gaataa mai.n so jaataa \threedots
+%
+#endindian
+\endsong
+%

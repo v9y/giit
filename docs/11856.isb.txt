@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{beKudii me.n sanam uTh ga_e jo qadam ... aa ga_e paas ham}%
+\film{Haseena Maan Jayegi}%
+\year{1968}%
+\starring{Shashi Kapoor, Babita, Amita, Johny Walker}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Akhtar Romani}%
+%
+% Contributor: BOL ANAMOL #11063 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	beKudii me.n sanam uTh ga_e jo qadam
+	aa ga_e aa ga_e ( aa ga_e paas ham ) \-2
+ra \:	beKudii me.n sanam \threedots
+
+la \:	aag ye kaisii man me.n lagii hai
+	man se ba.Dii to tan me.n lagii hai
+ra \:	aag nahii.n ye dil kii lagii hai
+	jitanii bujhaa_ii utanii ba.Dhii hai
+la \:	dil kii lagii naa ho to kyaa zindagii hai
+	sath ham jo chale miT ga_e faasale
+	aa ga_e aa ga_e \threedots
+do \:	beKudii me.n sanam \threedots
+
+ra \:	kho_ii nazar thii so_e nazaare
+	dekhaa tumhe.n to jaage ye saare
+la \:	dil ne ki_e jo dil ko ishaare
+	mil ke chale ham saath tumhaare
+	aaj Kushii se meraa dil ye pukaare
+	teraa daaman milaa pyaar meraa khilaa
+	aa ga_e aa ga_e \threedots
+do \:	beKudii me.n sanam \threedots
+
+la \:	dil kii kahaanii pahu.Nchii zubaa.N tak
+	kisako Kabar ab pahu.Nche kahaa.N tak
+ra \:	pyaar ke raahii aa_e yahaa.N tak
+	jaa_e.Nge dil kii had hai jahaa.N tak
+la \:	tum saath do to chale.n ham aasamaa.N tak
+	dil me.n aramaa.N li_e laakho.n tuufaa.N li_e
+	chal pa.De qaafile
+do \:	aa ga_e aa ga_e \threedots
+	beKudii me.n sanam \threedots
+%
+#endindian
+\endsong
+

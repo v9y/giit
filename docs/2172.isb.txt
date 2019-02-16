@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{na ha.Nso ham pe zamaane ke hai.n Thukaraae hue}%
+\film{Gateway of India}%
+\year{}%
+\starring{Madhubala, Bharat Bhushan}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+na ha.Nso ham pe zamaane ke hai.n Thukaraae hue
+dar-ba-dar phirate hai.n taqadiir ke bahakaae hue
+na ha.Nso ham pe \threedots
+
+kyaa bataae.N tumhe.n kal ham bhii chaman vaale the
+ye na puuchho ki hai viiraane me.n kyo.n aae hue
+na ha.Nso ham pe \threedots
+
+baat kal kii hai ki phuulo.n komasal dete the
+aaj kaa.NTo.n ko bhii siine se hai.n lipaTaae hue
+na ha.Nso ham pe \threedots
+
+aisii gardish me.n na Daale kabhii qismat tum ko
+aap ke saamane jis haal me.n hai.n aae hue
+na ha.Nso ham pe \threedots
+
+ek din phir vahii pahalii sii bahaare.n ho.ngii
+is ummiid pe ham dil ko hai.n bahalaae hue
+na ha.Nso ham pe \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{kisii ko chaahuu.n tumhaare sivaa Kudaa na kare}%
+\film{Maina}%
+\year{1992?}%
+\starring{}%
+\singer{Anuradha Paudwal, Abid Khan}%
+\music{Naresh Sharma}%
+\lyrics{Payaam Sayyedi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kisii ko chaahuu.n tumhaare sivaa Kudaa na kare
+ho aur bhii ko_ii dil kaa Kudaa Kudaa na kare
+
+jo zi.ndagii ban ke tum mile to aisaa mujhe lagaa
+tumhii.n to dil me.n dha.Dakate ho dha.Dakano.n kii jagah
+tumhaaraa pyaar ho dil se judaa Kudaa na kare
+kisii ko chaahuu.n \threedots
+
+tumhaare dil me.n vafaa kii jannat dil kii sadaa sanam
+tumhaarii aa.Nkho.n me.n apanii suurat dil kii sadaa kasam
+mai.n dekhuu.n ko_ii aur aa_iinaa Kudaa na kare
+kisii ko chaahuu.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ek raadhaa, ek miiraa ... ik prem diivaanii, ik daras diivaanii}%
+\film{Ram Teri Ganga Maili}%
+\year{1985}%
+\starring{Mandakini, Rajiv Kapoor}%
+\singer{Lata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ek raadhaa, ek miiraa dono.n ne shyaam ko chaahaa
+antar kyaa dono.n kii chaah me.n bolo
+ik prem diivaanii, ik daras diivaanii
+ek raadhaa, ek miiraa   \threedots
+
+raadhaa ne madhuban me.n Dhuu.NDhaa
+miiraa ne man me.n paayaa
+raadhaa jise kho baiThii
+vo govind aur daras dikhaayaa
+ek muralii ek paayal, ek pagalii, ek ghaayal
+antar kyaa dono.n kii priit me.n bolo
+ek suurat lubhaanii, ek muurat lubhaanii
+ik prem diivaanii, ik daras diivaanii   \threedots
+
+miiraa ke prabhu giridhar naagar
+raadhaa ke manamohan
+raadhaa din {sh}R^i.ngaar kare
+aur miiraa ban gayii jogan
+ek raanii ek daasii, dono.n hari prem kii pyaasii
+antar kyaa dono.n kii tR^ipti me.n bolo
+ek jiit na maanii, ek haar na maanii
+ik prem diivaanii, ik daras diivaanii   \threedots
+
+%
+#endindian
+\endsong
+%

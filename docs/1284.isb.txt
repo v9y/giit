@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{mujhe nii.nd na aae, chain na aae}%
+\film{Dil}%
+\year{1990}%
+\starring{Aamir Khan, Madhuri Dixit}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+% 
+% Contributor: Sanjeev Ramabhadran <sanjeevr@phoenix.Princeton.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/30/1996
+%
+\printtitle
+#indian
+%
+u: mujhe nii.nd na aae, mujhe chain na aae
+   koii jaae zaraa Dhuu.NDh ke laae
+   na jaane kahaa.N dil kho gayaa
+   na jaane kahaa.N dil kho gayaa
+a: mujhe nii.nd na aae, mujhe chain na aae
+   koii jaae zaraa Dhuu.NDh ke laae
+   na jaane kahaa.N dil kho gayaa
+   na jaane kahaa.N dil kho gayaa
+
+a: haalat kyaa hai kaise tujhe bataauu.N mai.n
+   karavaT badal\-badal ke raat bitaauu.N mai.n
+u: (puuchho zaraa puuchho kyaa haal hai
+   haal meraa behaal hai)		\- 2
+   koii samajh na paae kyaa rog sataae
+   koii jaae zaraa Dhuu.NDh ke laae
+   na jaane kahaa.N \threedots
+
+u: jaan se bhii pyaaraa mujhako meraa dil hai
+   usake binaa ek pal bhii jiinaa mushkil hai
+a: (taubaa merii taubaa kyaa dard hai
+   dard ba.Daa be\-dard hai)		\- 2
+   kabhii mujhako ha.Nsaae, kabhii mujhako rulaae
+   koii jaae zaraa Dhuu.NDh ke laae
+   na jaane kahaa.N \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ye dil diivaanaa hai kahanaa na maane}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil diivaanaa hai ye dil to diivaanaa hai
+ye dil diivaanaa hai kahanaa na maane
+ye dil too paagal hai kuchh bhii na jaane
+ye dil diivaanaa \threedots
+
+kyaa bataa_uu.n hu_aa kyaa ise
+chaahataa har gha.Dii bas tujhe
+ye dil diivaanaa \threedots
+
+tho.Daa tho.Daa karaar hai tho.Daa tho.Daa khumaar hai
+jaaduu jagaayaa nigaaho.n ne terii
+dil dha.Dakaayaa adaa_o.n ne terii
+diivaanagii ba.Dhane lagii kyuu.n bhalaa
+ye dil diivaanaa \threedots
+
+honaa thaa jo vo ho gayaa
+dil ko khonaa thaa kho gayaa
+chhaane lagaa hai muhabbat kaa nashaa
+mai.n to na jaanuu.n hu_aa hai mujhe kyaa
+na chain hai na hosh hai kyaa karuu.n
+ye dil diivaanaa \threedots
+%
+#endindian
+\endsong
+

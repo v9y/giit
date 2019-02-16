@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{tan man dhan sab hai teraa}%
+\film{Manchali}%
+\year{1973}%
+\starring{Sanjeev Kumar, Leena Chandavarkar}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11225 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tan man dhan sab hai
+teraa bin tere kyaa hai meraa
+raat\-din mai.n tere giit gaataa rahuu.N
+tan man dhan sab \threedots
+
+kyaa dharatii kyaa suuraj\-chandaa
+jag moh maayaa kaa hai pha.ndaa
+mai.n huu.N siidhaa\-saadaa bandaa
+jag choro.n kaa hai Deraa
+tan man dhan sab \threedots
+
+kyaa apanaa aur kyaa begaanaa
+jaan ke kaahe dhokhaa khaanaa
+jiivan hai bas aanaa\-jaanaa
+jogii vaalaa pheraa
+tan man dhan sab \threedots
+%
+#endindian
+\endsong
+

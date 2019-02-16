@@ -1,0 +1,38 @@
+% ITRANS SONG # 3499; Created on Jan 26, 2004
+%
+%      From: Prithviraj Dasgupta (donotreply@interbulletin.bogus)
+%      Date: 2001-03-02 16:54:02 PST 
+%
+\startsong
+\stitle{zaraa tham jaa tuu ai saavan mere saajan ko aane de}%
+\film{Jogan}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar}%
+\singer{Geeta}%
+\music{Bulo C Rani}%
+\lyrics{Himmat Roy Sharma}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 9, 2001
+%
+\printtitle
+#indian
+%
+zaraa tham jaa tuu ai saavan
+mere saajan ko aane de aane de aane de
+mere ruuThe piyaa ko phir merii biga.Dii 
+banaane de banaane de banaane de 
+zaraa tham jaa tuu \threedots
+
+o.Dhanii pe bijaliiyo.n kii goT mai.n lagaa_uu.Ngii
+piis ke kaaliighaTaa_e.N kaajal banaa_uu.Ngii
+ga.rj baadal kii apanii dil kii dha.Dakan me basaa_uu.Ngii
+terii nanhii phuhaare.n buu.Nd ke maalaa banaa_uu.Ngii
+salone ke rijhaane ko mujhe sapane 
+sajaane de sajaane de sajaane de
+zaraa tham jaa tuu \threedots
+%
+#endindian
+\endsong
+%

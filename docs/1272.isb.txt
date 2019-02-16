@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{mujh se naaraaz ho to ho jaao}%
+\film{Papa Kehte Hain}%
+\year{1995}%
+\starring{Jugal Hansraj, Mayuri, Anupam Kher}%
+\singer{Sonu Nigam}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+% 
+% Contributor: Satish Subramanian <subraman@cs.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+mujh se naaraaz ho to ho jaao, Kud se lekin Kafaa\-Kafaa no raho
+mujh se tum duur jaao to jaao, aap apane se tum judaa na raho
+mujh se naaraaz ho to ho jaao, Kud se lekin Kafaa\-Kafaa no raho
+
+mujhape chaahe yakii.n karo na karo, tumako Kud par magar yakii.n rahe
+sar pe ho aasmaa.N yaa ke na ho, pair ke niiche ye zamii.n rahe
+mujhako tum bevafaa kaho to kaho \threedots
+mujhako tum bevafaa kaho to kaho, tum magar Kud se bevafaa na raho
+mujh se naaraaz ho to ho jaao
+
+aao ik baat mai.n kahuu.N tumase, jaane phir koii ye kahe na kahe
+tumako apanii talaash karanii hai, hamasafar koii bhii rahe na rahe
+tumako apane sahaare jiinaa hai \threedots
+tumako apane sahaare jiinaa hai, Dhuu.NDhati koii aasraa no raho
+
+mujh se naaraaz ho to ho jaao, Kud se lekin Kafaa\-Kafaa no raho
+%
+#endindian
+\endsong
+%
+

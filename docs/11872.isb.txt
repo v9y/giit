@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{chhu_o na alabele mere sai.nyaa.n}%
+\film{Honeymoon/ Sunahari Yaaden}%
+\year{1960}%
+\starring{Manoj Kumar, Saeeda Khan, Vijay Choudhary, Kuldeep Kaur}%
+\singer{Mukesh, Savita Banerji}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10340 [V S Rawat]
+% Transliterator: 
+% Comments: Last hindi film of Kuldeep Kaur
+% 
+\printtitle
+#indian
+%
+sa \:	chhu_o na chhu_o na alabele mere sai.nyaa.n
+	mai.n to naazuk badan chhu_ii\-mu_ii
+
+mu \:	tuu qariib aa na hame.n sataa tere ho chuke tujhe dil diyaa
+sa \:	ajii jaa_o na lalachaa_o na miiThii\-miiThii baato.n se bharamaa_o na
+mu \:	ho tuu qariib aa \threedots
+
+	har nazar madabharii har adaa terii jaaduubharii
+sa \:	rahane do apanii yah jaaduugarii
+	ho o ajii jaa_o na lalachaa_o \threedots
+
+mu \:	raat yuu.N hii Dhal na jaa_e yah gha.Dii Tal na jaa_e
+sa \:	hamase to puuchho din kaise bitaa_e
+	ajii jaa_o na lalachaa_o \threedots
+%
+#endindian
+\endsong
+

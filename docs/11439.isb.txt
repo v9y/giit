@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{qasam Kudaa kii yaqiin ... tumhe.n mohabbat hai}%
+\film{Ek Musafir Ek Hasina}%
+\year{1962}%
+\starring{Joy Mukherjee, Sadhana}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11466 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+qasam Kudaa kii yaqiin
+
+aa \:	tumhe.n mohabbat hai hamase maanaa bataa_o isakaa sabuut kyaa hai \-2
+ra :	ye haath siine pe rakh ke dekho na puuchho isakaa sabuut kyaa hai
+aa \:	tumhe.n mohabbat hai \threedots
+
+	ye dil kii dha.Dakan ye sard aahe.n yahii shiqaayat hai har kisii ko \-2
+	na_ii balaa ko jab bhii dekhaa to pyaar karane lage usii se
+	na_ii bhalaa isame.n baat kyaa hai ki ye fasaanaa bahut sunaa hai
+ra :	ye haath siine pe \threedots
+aa \:	tumhe.n mohabbat hai \threedots
+
+ra \:	jo aag siine me.n hai hamaare tumhaare hotii to jaan lete \-2
+	baGair ko_ii sabuut maa.Nge hamaarii chaahat ko maan lete
+	tumhaarii aa.Nkho.n me.n kaash hotaa hamaarii aa.Nkho.n me.n jo nashaa hai
+	ye haath siine pe \threedots
+aa \:	tumhe.n mohabbat hai \threedots
+
+	yahii nashaa jo rahe hameshaa to ham bhii chaahat kaa jaam pii le.n \-2
+	ye daur\-e\-saaGar yuu.N hii chalegaa to le ke saaqii kaa naam pii le.n
+	magar ye ham par qaram kii nazare.n badal na jaa_e.Ngii kyaa pataa hai
+ra :	ye haath siine pe \threedots
+aa \:	tumhe.n mohabbat hai \threedots
+
+ra \:	hame.n to saaqii se vaastaa hai suraahii badale yaa jaam badale \-2
+	tere diivaane kabhii na badale.nge chaahe saaraa nijaam badale
+	tere hii qadamo.n me.n jaan de.nge ye dil tujhe jab de diyaa hai
+aa \:	tumhe.n mohabbat hai \threedots
+%
+#endindian
+\endsong
+

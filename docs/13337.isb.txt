@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{kaale\-kaale aaye badarawaa aavo sajan more aavo}%
+\film{Natak}%
+\year{1947}%
+\starring{Suraiya, Amar, Sofiya, Kanwar, Sham Kumar, Pratima Devi}%
+\singer{Suraiya, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12511 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+ko \:	kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+
+su\:	jab saawan kii rut aaye sajanawaa
+	jiyaa pe laage more Thes
+	aise me.n tum more sajanawaa
+	kaahe gaye parades
+ko\:	jab saawan kii rut aaye sajanawaa
+	jiyaa pe laage more Thes
+	aise me.n tum more sajanawaa
+	kaahe gaye parades
+
+	ho kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+	kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+
+su \:	jab panaghaT pe sakhiyan ke sa.ng mai.n
+	paniyaa bharan ko jaa_uu.N
+	chhalak pa.De nayanan kii gagarii
+	ro\-ro niir bahaa_uu.N
+ko \:	jab panaghaT pe sakhiyan ke sa.ng mai.n
+	paniyaa bharan ko jaa_uu.N
+	chhalak pa.De nayanan kii gagarii
+	ro\-ro niir bahaa_uu.N
+	ho kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+	kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+
+su \:	are hare\-hare ye khet sajanawaa
+	kaTe to phir ugi aaye
+	gayii jawaanii biit to sajanaa
+	nahii.n lauT ke aaye
+ko \:	are hare\-hare ye khet sajanawaa
+	kaTe to phir ugi aaye
+	gayii jawaanii biit to sajanaa
+	nahii.n lauT ke aaye
+
+	ho kaale\-kaale aaye badarawaa
+	aavo sajan more aavo
+	( kaale\-kaale aaye badarawaa
+	aavo sajan more aavo ) \-3
+%
+#endindian
+\endsong
+%
+

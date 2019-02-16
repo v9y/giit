@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{bataa_o tum kaun ho Kayaalo.n me.n jo chhaa ga_e}%
+\film{Anmol}%
+\year{1993}%
+\starring{Manish Koirala, Rishi Kapoor}%
+\singer{Udit Narayan, Lata}%
+\music{Ram-Laxman}%
+\lyrics{Ravindra Rawal}%
+%
+% Contributor: BOL ANAMOL #11646 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	( bataa_o tum kaun ho Kayaalo.n me.n jo chhaa ga_e
+	abhii to maine Thiik se tumhe.n na pahachaanaa ) \-2
+u \:	tumhaaraa mai.n Kvaab huu.N tumhaaraa aramaan huu.N
+	tumhaarii dha.Dakan mai.n ye tumane na jaanaa
+
+la \:	kar le.n bharosaa kaise is baat pe ham
+	hone do raftaa\-raftaa ye duuriyaa.N kam
+u \:	kare faisalaa jo dil samajho sahii hai
+	jo na lage begaanaa apanaa vahii hai
+la \:	nazar se nazar ko tum ye kyaa samajhaa ga_e
+	abhii to maine Thiik se \threedots
+u \:	tumhaaraa mai.n Kvaab \threedots
+
+la \:	tum saath chalate ho to lagataa hai aise
+	bahate samay kii dhaaraa tham ga_ii ho jaise
+u \:	mile roz aisii sazaa du_aa ham kare.nge
+	tumase isii bahaane gale ham mile.nge
+la \:	ye baa.Nho.n kaa mujhe haar tum gale me.n pahanaa ga_e
+	abhii to maine Thiik se \threedots
+u \:	tumhaaraa mai.n Kvaab huu.N
+la \:	aa aa aa
+u \:	tumhaaraa aramaan huu.N
+%
+#endindian
+\endsong
+

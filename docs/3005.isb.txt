@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aa ke ab aataa nahii.n dil ko qaraar}%
+\film{Mehbooba}%
+\year{1954}%
+\starring{Nalini Jayawant, Shammi Kapoor}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Tanvir Naqvi ?}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Credits: Arunabha Roy
+% Date: January 30, 2002
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+(aa ke ab aataa nahii.n dil ko qaraar)\-2
+raah takate thak gayaa hai i.ntazaar
+aa ke ab aataa nahii.n dil ko qaraar
+
+is qadar bechain hai duniyaa merii
+dil kii har Dha.Dakan me.n hai aahaT terii
+aarazu_e.n ho rahii.n hai.n beqaraar
+aa ke ab aataa nahii.n dil ko qaraar
+
+(dil sadaaye.n de rahaa hai tuu kahaa.N)\-2
+mu.ntazir hai.n chaa.Nd taare aasamaa.N
+ye havaa_e.n ye fizaaye.n ye bahaar
+aa ke ab aataa nahii.n dil ko qaraar
+
+aas tere vo hasii.n raate.n ga_ii
+pyaar kii ra.ngii.n mulaaqaate.n ga_ii
+rah gayaa hai dard dil kii yaadagaar
+aa ke ab aataa nahii.n dil ko qaraar
+
+%
+#endindian
+\endsong
+%

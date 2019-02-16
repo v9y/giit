@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil lagaane kii sazaa ... mai.n teraa huu.N diivaanaa}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil lagaane kii sazaa to na doge tum
+mujhako chaahat me.n dagaa to na doge tum
+
+mai.n teraa ho chukaa huu.N tuu merii ho chukii hai
+tuu merii nazaro.n me.n diivaanii kho chukii hai
+he kar le meraa yakii.n
+diivaanaa mai.n diivaanaa mai.n teraa huu.N diivaanaa 
+dil lagaane kii sazaa \threedots
+
+mujhe hai terii aarazuu mujhe hai terii justajuu
+mujhe hai tumase pyaar
+yuu.n karake mujhase aashiqii badal naa jaanaa tum kabhii
+kasam do mujhako yaar
+he he haa
+yuu.N ha.Nsaa ke phir rulaa to na doge tum
+dil lagaane kii sazaa \threedots
+
+hai.n dil me.n terii dha.Dakane.n labo.n pe teraa naam hai
+tuu merii pyaas hai
+tere daaman se chhuuT ke bikhar naa jaa_uu.N TuuT ke
+tuu merii aas hai
+he he haa
+merii duniyaa ko miTaa to na doge tum
+dil lagaane kii sazaa \threedots
+%
+#endindian
+\endsong
+

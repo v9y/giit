@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{khet kii muulii baag ko aam}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Ashok Kumar, Devika Rani}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+de \:	( khet kii muulii baag ko aam
+a \:	mai.n to huu.N chhoraa tuu to hai daam ?? ) \-2
+
+a \:	saawan kii badarii \-2
+de \:	kyaa nuu terii kab naa kariyo re
+a \:	badarii
+
+de \:	khaa.Nd ko khuramaa \-2
+a \:	raat ko ho jaise aa.Nkho.n me.n suramaa
+
+a \:	( gu.D kii bhelii \-2
+do \:	saath rahe.n jaise belaa\-chamelii ) \-2
+
+de \:	( khet kii muulii baag ko aam
+a \:	mai.n to huu.N chhoraa tuu to hai daam ?? ) \-2
+
+#endindian
+\endsong

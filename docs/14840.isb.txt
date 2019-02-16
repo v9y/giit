@@ -1,0 +1,39 @@
+% ITRANS SONG
+
+\startsong
+\stitle{naa pii kii nagariyaa aaye hai}%
+\film{Devdaas}%
+\year{1935}%
+\starring{Saigal, Jamuna, Rajkumari, A H Shor, Raju, Nimo, K C Dey}%
+\singer{Pahari Sanyal}%
+\music{Timir Baran}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+naa aaye hai
+naa pii kii nagariyaa aaye hai
+naa chain karejawaa paaye hai \-2
+naa ek najariyaa aaye hai
+naa pii kii nagariyaa aaye hai.n
+
+rain a.ndherii rasataa duur
+thak kar hu_aa musaafir chuur
+
+##dialogues##
+
+rain a.ndherii rasataa duur
+haa.N
+rain a.ndherii rasataa duur
+thak kar hu_aa musaafir chuur \-2
+dhiire\-dhiire teraa jiivan haa.N haa.N
+dhiire\-dhiire teraa jiivan\-diipak bujhataa jaaye hai
+
+naa pii kii nagariyaa aaye hai \-2
+
+#endindian
+\endsong

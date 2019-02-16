@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{kyaa buraa kiyaa hai huzuur maine haa.N tho.Dii sii pii hai}%
+\film{Dil Bhi Teraa Hum Bhi Tere}%
+\year{1960}%
+\starring{Balraj Sahni, Usha Kiran, Kumkum, Dharmendra}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Kanhaiya Lal Pardesi}%
+%
+% Contributor: BOL ANAMOL #10881 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+kyaa buraa kiyaa hai huzuur maine
+haa.N tho.Dii sii pii hai zaruur maine
+kyaa buraa kiyaa \threedots
+
+samajhatii hai duniyaa sharaabii mujhe
+yah kahatii hai KaanaaKaraabii mujhe
+na jaane kyaa kiyaa qasuur maine
+haa.N tho.Dii sii pii \threedots
+
+ye tho.Dii sii piinaa balaa ho gayaa
+zamaanaa bhii mujhape Kafaa ho gayaa
+yah pahalaa kiyaa hai qusuur maine
+kyaa buraa kiyaa hai \threedots
+
+kyaa qusuur kiyaa hai huzuur maine
+%
+#endindian
+\endsong
+

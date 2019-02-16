@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye kalii jab talak phuul ban ke khile}% 
+\film{Aaye Din Bahaar Ke}%
+\year{1966}%
+\starring{Asha PArekh, Dharmendra, Balraj Sahni}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+l: ye kalii jab talak phuul ban ke khile, 
+intazaar, intazaar, intazaar karo, intazaar karo 
+rafii: intazaar vo bhalaa kyaa kare, tum jise 
+bekaraar, bekaraar, bekaraar karo, 
+l: intazaar karo 
+
+m: pyaar me.n pyaar kii bhii izaazat nahii.n \-2 
+berukhii hai ajii ye muhaubbat nahii.n 
+l: aa rahaa hai mazaa, tum shikaayat yahii, 
+baar baar, baar baar, baar baar karo, intazaar karo 
+
+l: husn pe to asar hone vaalaa nahii.n \-2 
+ishq tum ko nA kar de dIvaanaa kahii.n 
+m: hai ye diivaanagii bhii qubuul, tum agar 
+hamase pyaar, hamase pyaar, hamase pyaar karo, 
+l: intazaar karo 
+
+m: roz hamane bayaan ye fasaanaa kiyaa \-2 
+roz tumane nayaa ek bahaanaa kiyaa 
+l: ye bahaanaa magar, aakhirii hai sanam 
+aitabaar, aitabaar, aitabaar karo, intazaar karo 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{suuraj ke jaisii golaa_ii ... la_ii la_ii terii dhuum har kahii.n}%
+\film{Kaalaa Baazaar}%
+\year{1960}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10434 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+suuraj ke jaisii golaa_ii
+cha.ndaa sii Tha.nDak bhii paa_ii
+khanake to pyaare duhaa_ii
+terii dhuum har kahii.n
+tujhasaa yaar ko_ii nahii.n
+la_ii la_ii
+hamako to pyaare tuu sabase pyaaraa
+la_ii la_ii terii dhuum har kahii.n \threedots
+
+duniyaa kii gaa.Dii kaa pahiyaa
+tuu chor tuu hii sipahiyaa
+raajo.n kaa raajaa rupa_iyaa \-2
+la_ii la_ii terii dhuum har kahii.n \threedots
+
+aurat ke maathe kaa Tiikaa
+Thumarii aur kajarii se miiThaa
+tuu raaz hai zindagii kaa \-2
+la_ii la_ii terii dhuum har kahii.n \threedots
+
+buu.Dho.n kii tuu hii javaanii
+bachapan kii dilakash kahaanii
+tere binaa duudh paanii \-2
+la_ii la_ii terii dhuum har kahii.n \threedots
+
+daulat kaa mazahab chalaa ke
+ham ek ma.ndir banaa ke
+puuje.nge tujhako biThaa ke \-2
+la_ii la_ii terii dhuum har kahii.n \threedots
+%
+#endindian
+\endsong
+

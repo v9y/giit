@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{uma.Dii nadiyaa pyaar kii ... javaanii tere naam kar dii}%
+\film{Sherani}%
+\year{1988}%
+\starring{Shatrughan, Sridevi, Pran, Kader Khan, Ranjeet, Jagdeep, Lalita Pawar}%
+\singer{Mohammed Aziz, Asha}%
+\music{Kalyanji Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa \: 	uma.Dii nadiyaa pyaar kii chalii kinaaraa to.D
+	sabase rishtaa to.D ke maine tujhase liyaa dil jo.D
+
+	ko_ii mard milaa na aisaa baa.Nkaa javaan tere jaisaa
+	merii korii kvaa.nrii javaanii hu_ii terii diivaanii
+	javaanii tere naam kar dii \-2
+
+mo \:	ko_ii milii na gorii aisii prem diivaanii tere jaisii
+	mere dil ko hai ye hairaanii 
+	kyo.n korii javaanii mere naam kar dii
+
+aa \: 	jab se dekhii terii suurat pyaar jiyaa me.n jaage
+	ik paradesii ho ke bhii tuu kyo.n apanaa saa laage
+mo \:	pyaar kisii se kab ho jaa_e yah ko_ii naa jaane
+	suurat ajanabii ho phir bhii dil ko dil pahachaane
+aa \: 	tujhako maan liyaa hai sai.nyaa ba.Dhake thaam le merii bahiyaa.n
+	terii merii yah prem kahaanii zamaane ne jaanii
+	javaanii tere naam kar dii \threedots
+
+aa \: 	priit suhaagan ho ga_ii merii pyaar milaa jo teraa
+	terii baaho.n ke saaye me.n biite jiivan meraa
+mo \:	aisii jisakii mahabuubaa ho usakii qismat jaage
+	usako paake dil diivaanaa qismat se kyaa maa.nge
+aa \: 	tere hii sapano.n me.n kho ke jiinaa hai bas terii ho ke
+	tere pyaar kii me.nhadii rachaa ke ye maa.ng sajaa ke
+	javaanii tere naam kar dii \threedots
+%
+#endindian
+\endsong
+

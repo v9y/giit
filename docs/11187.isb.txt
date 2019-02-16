@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{la.Dii la.Dii jab se nazar tohase la.Dii}%
+\film{Din Dahaade}%
+\year{1990}%
+\starring{Sunil Puri, Kamran Rizvi, Shriprada, Kunika, Paramveer, Neeraj}%
+\singer{Kumar Sanu, Asha}%
+\music{Jeetu Tapan}%
+\lyrics{Surendra Sathi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	la.Dii la.Dii la.Dii la.Dii
+	jab se nazar tohase la.Dii
+aa \:	la.Dii la.Dii la.Dii la.Dii
+	jab se nazar tohase la.Dii
+	soNiyaa.n dil meraa
+	tujhako pukaare hai gha.Dii gha.Dii
+ku \:	ho soNiye dil meraa
+	tujhako pukaare hai gha.Dii gha.Dii
+aa \:	la.Dii la.Dii \threedots
+
+	haay re ye kaisaa nashaa hai bin pi_e cha.Dhane lagaa \-2
+ku \:	diivaanaa saa hone lagaa huu.N
+	pyaar me.n tere khone lagaa huu.N
+aa \:	dekhatii huu.N tujhe rah jaatii huu.N mai.n kha.Dii kii kha.Dii \-2
+ku \:	haay la.Dii la.Dii \threedots
+
+ku \:	( jaagii hai.n dil me.n uma.nge.n
+	uThane lagii hai.n tara.nge.n ) \-2
+aa \:	baalii umar me.n jiyaa moraa Dole pal\-pal chhin\-chhin piyaa\-piyaa bole
+	de ga_ii roshanii dil ko tere pyaar kii phulajha.Dii \-2
+ku \:	haa.N la.Dii la.Dii \threedots
+
+aa \:	( is dil kii dha.Dakan me.n tuu hai
+	saa.Nso.n kii saragam me.n tuu hai ) \-2
+ku \:	haay mazaa aa gayaa tujhame.n samaa ke
+	rab paa liyaa khud ko bhulaa ke
+aa \:	pyaar kii ye nazar lagatii hai har ek du_aa se ba.Dii
+ku \:	pyaar kii ye nazar lagatii hai har ek du_aa se ba.Dii
+	haay la.Dii la.Dii \threedots
+%
+#endindian
+\endsong
+

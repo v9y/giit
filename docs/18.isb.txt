@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aa niile gagan tale pyaar ham kare.n}%
+\film{Baadshah}%
+\year{}%
+\starring{Pradeep Kumar, Usha Kiran}%
+\singer{Lata, Hemant}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: G. Ravi Sriniwas (Georgia Institute of Technology, Atlanta Georgia) 
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Header Info: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa niile gagan tale pyaar ham kare.n
+hil mil ke pyaar kaa iqaraar ham kare.n
+aa niile \threedots
+
+ye shaam kii belaa ye madhur mast nazaare
+baiThe rahe.n ham yuu.Nhii.n baaho.n ke sahaare
+vo din naa aae intazaar ham kare.n
+aa niile gagan \threedots
+
+do jaa.n hai.n ham aise mile ek hii ho jaae.n
+Dhuu.NDhaa kare duniyaa hame.n ham pyaar me.n kho jaae.n
+bechain bahaaro.n ko gulazaar ham kare.n
+aa niile gagan tale \threedots
+
+tuu maa.Ng kaa sinduur tuu aa.Nkho.n kaa hai kaajal
+le baa.ndh le haatho.n ke kinaare se ye aa.Nchal
+saamane baiThe raho shrR^i.ngaar ham kare.n
+aa niile gagan tale \threedots
+%
+#endindian
+\endsong
+%

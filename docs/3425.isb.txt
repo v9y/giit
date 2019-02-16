@@ -1,0 +1,44 @@
+% ITRANS SONG # 3425; Created on Jan 26, 2004
+%
+% nani 8/20/2
+%
+\startsong
+\stitle{more nainaa saavan bhaado}%
+\film{Vidyapati}%
+\year{1964}%
+\starring{Bharat Bhushan, Simi, Kamaljeet, Nazima, Murad, Bipin Gupta}%
+\singer{Lata}%
+\music{V Balsara}%
+\lyrics{Prahlad Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 20 august 2002
+% Comments: Raag Shivranjani
+%
+\printtitle
+#indian
+%
+more nainaa saavan bhaado
+torii rah\-rah yaad sataa_e
+baalam kit jaa_uu.N re
+mai.n to ro ro kar mar jaa_uu.N re
+
+aa_ii.n ras kii bharii phuhaare.n
+morii bhiig rahii.n re a.Nkhiyaa.N
+it rimajhim me.n saa.Nvariyaa
+morii sulag rahii re bagiyaa
+mai.n to priit kiye pachhataa_ii re
+moraa dard na jaane koy
+baalam kit jaa_uu.N re \threedots
+
+mai.n to pavan chakore Dholii
+ban ja.ngal kii hiraniyaa
+kahaa.N chhup gayaa re moraa chandaa
+kit gayii re haay chaa.Ndaniyaa
+are motii chugatii ha.nsii
+ab chug rahii re a.ngaare
+baalam kit jaa_uu.N re \threedots
+%
+#endindian
+\endsong
+%

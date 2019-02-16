@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{shiishaa ho yaa dil ho aaKir TuuT jaataa hai}%
+\film{Aashaa}%
+\year{1980}%
+\starring{Jeetendra, Reena Roy, Rameshwari, Girish Karnad}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11604 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+shiishaa ho yaa dil ho aaKir TuuT jaataa hai
+lab tak aate\-aate haatho.n se saaGar chhuuT jaataa hai
+shiishaa ho yaa dil \threedots
+
+baaqii ab aramaan nahii.n kuchh milanaa aasaan nahii.n
+duniyaa kii majabuurii hai phir taqadiir zaruurii hai
+ye do dushman hai.n aise dono.n raazii ho.n kaise
+ek ko manaa_o to duujaa ruuTh jaataa hai
+shiishaa ho yaa dil \threedots
+
+baiThe the kinaare pe maujo.n ke ishaare pe
+ham khele tuufaano.n se is dil ke aramaano.n se
+hamako ye maaluum na thaa ko_ii saath nahii.n detaa
+maa.Njhii chho.D jaataa hai saahil chhuuT jaataa hai
+shiishaa ho yaa dil \threedots
+
+duniyaa ek tamaashaa hai aashaa aur niraashaa hai
+tho.De phuul hai.n kaa.NTe hai.n jo taqadiir ne baa.NTe hai.n
+apanaa\-apanaa hissaa hai apanaa\-apanaa kissaa hai
+ko_ii luT jaataa hai ko_ii luuT jaataa hai
+shiishaa ho yaa dil \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mere dil me.n tuu hii tuu hai}%
+\film{Bhavna}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh, Chitra Singh}%
+\music{}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Rajiv Shridhar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+chi: (mere dil me.n tuu hii tuu hai, dil kii davaa kyaa karuu.N
+jag: dil bhii tuu hai jaa.N bhii tuu hai, tujhape fidaa kyaa karuu.N) \-2
+do:  mere dil me.n tuu hii tuu hai, dil kii davaa kyaa karuu.N
+
+chi: khud ko kho ke tujhako paakar kyaa\-kyaa mila kyaa kahuu.N
+     terii hoke jiine me.n kyaa aaya mazaa kyaa kahuu.N
+jag: kaise din hai.n kaisii raate.n kaisii fizaa kyaa kahuu.N
+     merii hoke tuune mujhako kyaa kyaa diyaa kyaa kahuu.N
+chi: mere pahaluu me.n jab tuu hai phir mai.n duaa kyaa karuu.N
+jag: dil bhii tuu hai jaa.N bhii tuu hai tujhape fidaa kyaa karuu.N
+do:  mere dil me.n tuu hii tuu hai, dil kii davaa kyaa karuu.N
+
+jag: hai ye duniyaa dil kii duniyaa milake rahe.nge yahaa.N
+     luuTe.nge ham khushiyaa.N har pal duHkh na sahe.nge yahaa.N
+chi: aramaano ke cha.nchal dhaare aise bahe.nge yahaa.N
+     ye to sapano kii jannat hai, sab hii kahe.nge yahaa.N
+     ye duniyaa mere dil me.n basii hai, dil se judaa kyaa karuu.N
+jag: dil bhii tuu hai jaa.N bhii tuu hai, tujhape fidaa kyaa karuu.N) \-2
+do:  mere dil me.n tuu hii tuu hai, dil kii davaa kyaa karuu.N
+
+%
+#endindian
+\endsong
+%

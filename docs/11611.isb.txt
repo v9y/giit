@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{shyaam abhimaanii tum to bha_e mathuraa ke raajaa}%
+\film{Geet Gaataa Chal}%
+\year{1975}%
+\starring{Sarikaa, Sachin}%
+\singer{Rafi, Asha}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: BOL ANAMOL #10314 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	shyaam abhimaanii o shyaam abhimaanii
+	tum to bha_e mathuraa ke raajaa rotii rahii raadhaa raanii
+	shyaam abhimaanii \threedots
+ra \:	raajaa hu_aa mai.n auro.n kaa lekin raadhaa mere man kii raanii
+
+aa \:	achchhaa bataa_o saa.Nvare kaahe chho.Daa gokul gaa.Nv re
+	jis ba.nsii ke the baavare vo kar ga_ii man me.n ghaav re
+	banate ho tum diino.n ke bandhuu naarii kii pii.Daa nahii.n jaanii
+	shyaam abhimaanii \threedots
+
+ra \:	merii bansii me.n jitane giit hai.n sab raadhaa ke manamiit hai.n
+	kab raadhaa alag hai shyaam se vo to ju.D ga_ii hai mere naam se
+	chandaa me.n jyoti siipo.n me.n motii saagar me.n jaise ho paanii
+
+aa \:	motii kii baate.n chho.D do dekho TuuTe dil ko jo.D do
+ra \:	o kuchh aisii thii.n majabuuriyaa.N jo ba.Dh ga_ii.n apanii duuriyaa.N
+aa \:	subah kaa bhuulaa sa.ndhyaa ko jo lauTe kahate hai.n sab usako GYaanii
+	shyaam abhimaanii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,73 @@
+
+%
+\startsong
+\stitle{kaahe karataa der baraatii kaahe karataa der}%
+\film{Aurat/ Woman}%
+\year{1940}%
+\starring{Sardar Akhtar, Surendra, Jyoti, Harish}%
+\singer{Anil Biswas, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'aah'}%
+%
+% Contributor: BOL ANAMOL #11988 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	( kaahe
+	kaahe karataa der baraatii
+ko \:	der baraatii
+a \:	kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+a \:	jaanaa hai tohe pii kii nagariyaa
+	jaanaa hai
+	jaanaa hai tohe pii kii nagariyaa
+	kaThin ba.Dii hai Dagariyaa
+	ho jaaye na aber zaraa sii \-2
+	( kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+a \:	( kaahe
+	kaahe karataa der baraatii
+ko \:	der baraatii
+a \:	kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+
+a \:	kaisaa rishtaa kaisaa naataa
+ko \:	kaisaa naataa
+a \:	kaahe man ko pha.Nsaataa
+ko \:	kaisaa rishtaa kaisaa naataa
+	kaisaa rishtaa
+a \:	kaisaa naataa
+ko \:	kaisaa naataa
+a \:	kaahe man ko pha.Nsaataa
+	( sab hai bharam kaa pher baraatii
+	sab hai bharam kaa pher
+ko \:	bharam kaa pher ) \-2
+a \:		sab hai bharam kaa pher baraatii
+	( kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+a \:	( kaahe
+	kaahe karataa der baraatii
+ko \:	der baraatii
+a \:	kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+	
+a \:	jaanaa hai tohe pii kii nagariyaa
+	jaanaa hai
+	jaanaa hai tohe pii kii nagariyaa
+	kaThin ba.Dii hai Dagariyaa
+	ho jaaye na aber zaraa sii \-2
+	( kaahe karataa der
+ko \:	kaahe karataa der ) \-2
+a \:	kaahe
+	kaahe karataa der baraatii
+ko \:	der baraatii
+a \:	kaahe karataa der
+ko \:	kaahe karataa der
+a \:	kaahe
+%
+#endindian
+\endsong
+

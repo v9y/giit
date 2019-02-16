@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{maan kare kyaa ra.ng ruup kaa}%
+\film{Kavi}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+terii ik ik adaa jhuuTii
+vafaa jhuuThii hayaa jhuuTii
+chalegii ai hasiinaa kab talaq
+aakhir havaa jhuuTii
+
+maan kare kyaa ra.ng ruup kaa
+tuu kaaGaz kaa phuul hai
+tujh me.n khushabuu Dhuu.Ndh rahii hai
+ye duniyaa.N kii bhuul hai
+maan kare kyaa ra.ng ruup kaa \threedots
+
+tujhe dekh ke laakh bujhaa le
+pyaas koii akhiyan kii
+binaa baas kaa phuul banegaa
+kyaa shobhaa bagiyan kii
+Daal kaa phuul cha.Dhe mandir me.n
+tuu raste kii dhuul hai
+maan kare kyaa ra.ng ruup kaa \threedots
+
+binaa jyot kaa diipak hai tuu
+binaa tel kii baatii
+jab tan ujalaa aur man kaalaa
+phir kaahe itaraatii
+shabanam khud ko saagar samajhe
+ye shabanam kii bhuul hai
+maan kare kyaa ra.ng ruup kaa \threedots
+
+%
+#endindian
+\endsong
+%

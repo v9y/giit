@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{milane kii tum koshish karanaa ... vaadaa to TuuT jaataa hai}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+milane kii tum koshish karanaa vaadaa kabhii na karanaa
+vaadaa to TuuT jaataa hai
+milane kii tum koshish \threedots
+
+jab bhii teraa jii chaahe tuu paas mere aa jaanaa
+meraa pyaar bas tere li_e hai tuu na kabhii ghabaraanaa
+lekin sapano.n me.n milane kii kabhii na koshish karanaa
+sapanaa to TuuT jaataa hai
+
+hotii hai.n bedard bahut hii is duniyaa kii rasme.n
+mushkil kar detii hai.n nibhaanaa pyaar vafaa kii kasame.n
+shiishe jaise aramaa.n lekar raaho.n se na guzaranaa
+shiishaa to TuuT jaataa hai
+milane kii tum koshish \threedots
+%
+#endindian
+\endsong
+

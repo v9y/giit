@@ -1,0 +1,63 @@
+
+%
+\startsong
+\stitle{pyaar hamako bhii hai ... chalate\-chalate kaise ye faasale ho ga_e}%
+\film{Chalte Chalte}%
+\year{2003}%
+\starring{Shahrukh Khan, Rani Mukherjee}%
+\singer{Abhijeet, Alka Yagnik}%
+\music{Jatin-Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11724 [V S Rawat]
+% Producer: Dreamz Unlimited, UTV Motion Pictures, Director: Aziz Mirza
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3373 Gold Stereo, Cost: Rs 55/-, CD: 112053 CDF, Cost: Rs 125/-
+% Site: www.chaltechalte.com
+% 
+\printtitle
+#indian
+%
+abhi \:	huu.N uu.N huu.N huu.N huu.N
+	pyaar hamako bhii hai pyaar tumako bhii hai to ye kyaa silasile ho ga_e
+	bevafaa ham nahii.n bevafaa tum nahii.n to kyuu.n itane gile ho ga_e
+	chalate\-chalate kaise ye faasale ho ga_e
+	kyaa pataa kahaa.N ham chale
+
+	huu.N uu.N huu.N huu.N huu.N
+	pyaar hamako bhii hai pyaar tumako bhii hai to ye kyaa silasile ho ga_e
+	bevafaa ham nahii.n bevafaa tum nahii.n to kyuu.n itane gile ho ga_e
+	chalate\-chalate kaise ye faasale ho ga_e
+	uu.N uu.N uu.N uu.N ho ho ho
+	kyaa pataa kahaa.N ham chale
+al \:	pyaar hamako bhii hai \threedots kahaa.N ham chale
+
+ko \:	ho ho ho \-2
+
+a \:	duniyaa jo puuchhe to kyaa ham kahe.n ko_ii ye hamako samajhaa de
+	Thes lagii to pal me.n TuuT ga_e shiishe ke the kyaa sab vaade
+abhi \:	jaataa hai ko_ii kyuu.n sapano.n ko Thukaraa ke
+	paa_egaa ye dil kyaa kisii ko bataa ke
+	chalate\-chalate raakh ham bin jale ho ga_e
+al \:		uu.N uu.N uu.N uu.N ho ho ho
+	bujh ga_e diye pyaar ke
+abhi \:	pyaar hamako bhii hai pyaar tumako bhii hai to ye kyaa silasile ho ga_e
+
+al \:	Duub gayaa hai jaise dard me.n dil aa.Nsuu bharii hai.n ab aa.Nkhe.n
+abhi \:	tanahaa_iyo.n kii jo rut aa ga_ii uja.Dii hu_ii hai.n sab raahe.n
+al \:	sochaa thaa paaye.nge dono.n ik ma.nzil ko
+abhi \:	raahe.n jo badalii.n to tum hii bataa do
+	chalate\-chalate gum kahaa.N qaafale ho ga_e
+al \:		uu.N uu.N uu.N uu.N ho ho ho
+	kho ga_e kahaa.N raaste
+abhi \:	pyaar hamako bhii hai pyaar tumako bhii hai to ye kyaa silasile ho ga_e
+al \:	bevafaa ham nahii.n bevafaa tum nahii.n to kyo.n itane gile ho ga_e
+	chalate\-chalate kaise ye faasale ho ga_e
+abhi \:	huu.N huu.N huu.N huu.N ho o o
+	kyaa pataa kahaa.N ham chale
+al \:	huu.N
+	kyaa pataa kahaa.N ham chale
+%
+#endindian
+\endsong
+

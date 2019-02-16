@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaise chhipoge, ab tum kaise chhipoge}%
+\film{Bandhan}%
+\year{1940}%
+\starring{Leela Chitnis, Ashok Kumar, B H Desai, Suresh, Arun Kumar}%
+\singer{Leela Chitnis}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+( kaise chhipoge, ab tum kaise chhipoge
+o salone saajanaa, kaise chhipoge ) \-2
+
+jaan ga_ii mai.n tumhaarii aa.Nkh\-michaulii
+pahachaan ga_ii mai.n tumhaarii aa.Nkh\-michaulii
+ab to bataa_o mujhe tum kaise chhaloge \-2
+o salone saajanaa, kaise chhipoge
+kaise chhipoge, ab tum kaise chhipoge
+o salone saajanaa, kaise chhipoge
+
+mai.nne kiyaa band tumhe.n aa.Nkha.Diyo.n me.n \-2
+kamal kii paa.Nkha.Diyo.n me.n
+is naye bandhan se kabhii chhuT na sakoge \-2
+o salone saajanaa, kaise chhipoge
+( kaise chhipoge, ab tum kaise chhipoge
+o salone saajanaa, kaise chhipoge ) \-2
+
+#endindian
+\endsong

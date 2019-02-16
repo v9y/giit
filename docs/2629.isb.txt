@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kyaa nazaare kyaa sitaare}%
+\film{Jheel Ke Us Paar}%
+\year{1973}%
+\starring{}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: 
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+kyaa nazaare kyaa sitaare
+sab ko hai i.ntazaar sab hai.n beqaraar
+tuu kab sab dekhegii
+har kalii me.n har galii me.n
+dekhegii meraa pyaar pyaar kii bahaar
+tuu sab jab dekhegii
+kyaa nazaare kyaa sitaare \threedots
+
+baadal ambar pe yuu.N hii aataa jaataa rahegaa
+tere reshamii aa.Nchal kii tarah laharaataa rahegaa
+qadamo.n kii dhuul chuumegii ye phuul
+tuu jab sab dekhegii
+har kalii me.n har galii me.n \threedots
+
+man me.n tuu aise samaayii jaise nadiyaa me.n niir
+mere naino.n ke darpaN me.n lagii hai yuu.N terii tasaviir
+apanaa ye ruup ye chhaa.Nv dhuup
+tuu jab sab dekhegii
+kyaa nazaare kyaa sitaare \threedots
+
+%
+#endindian
+\endsong
+%

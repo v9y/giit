@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ham aapake hai.n hamase to paradaa na kiiji_e}%
+\film{Guru Ghantaal}%
+\year{1956}%
+\starring{Motilal, Sheela Ramani, Usha Kiran, Agha}%
+\singer{Rafi, Asha}%
+\music{Lachchhi Ram}%
+\lyrics{Khaawar Zamaan}%
+%
+% Contributor: BOL ANAMOL #10826 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	ham aapake hai.n hamase to paradaa na kiiji_e
+aa \:	ham ruuTh jaa_e.Nge hame.n chhe.Daa na kiiji_e
+
+ra \:	ik baat merii gaur se sun liiji_e huzuur
+aa \:	faramaa_i_e faramaa_i_e sun le.nge ham zaruur
+ra \:	tirachhii nigaah se hame.n dekhaa na kiiji_e
+	ham aapake hai.n \threedots
+
+	kyaa jhuuTh\-muuTh baate.n banaane se faayadaa
+aa \:	baiThe biThaa_e hamako sataane se faayadaa
+ra \:	yuu.N baat\-baat par ajii ruuThaa na kiiji_e
+	ham aapake hai.n \threedots
+
+aa \:	Dar hai ki zamaanaa kahii.n majabuur na kar de
+	is pyaar kii duniyaa se kahii.n duur na kar de
+ra \:	in chhoTii\-chhoTii baato.n ko sochaa na kiiji_e
+	ham aapake hai.n \threedots
+%
+#endindian
+\endsong
+

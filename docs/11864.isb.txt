@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{mai.n tujhase milane aa_ii ma.ndir jaane ke bahaane}%
+\film{Heeraa}%
+\year{1973}%
+\starring{Sunil Dutt, Asha Parekh, Farida Jalal, Shatrughan Sinha, Helen}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11215 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	mai.n tujhase milane aa_ii ma.ndir jaane ke bahaane \-2
+	baabul se jhuuTh bolii sakhiyo.n se jhuuTh bolii
+	mai.n ban ga_ii bilkul bholii
+ra \:	are o bholii tuu jhuuTh nahii.n bolii tuu jhuuTh kahaa.N bolii
+	pyaar ko hii puujaa kahate hai.n pyaar ke paravaane
+la \:	mai.n tujhase milane \threedots
+
+ra \:	ho aa.Nkho.n me.n jab terii suurat phir ko_ii muurat kyaa hai
+	pyaar kiyaa hai jisane use puujaa kii zaruurat kyaa hai
+la \:	maine saaraa jiivan kar diyaa tujhako arpaN
+	ho ga_ii mai.n terii miiraa tujhako maan liyaa mohan
+	na jaane kyaa dekhaa tujhame.n nain hu_e diivaane
+la \:	mai.n tujhase milane \threedots
+
+la \:	ho Gair ke haath me.n naa de de.n kahii.n baabul merii bai.nyaa
+	chaal samay kii pahachaano tum Kud ko badalo sai.nyaa
+ra \:	kisame.n itanaa hai bal chhuu le jo teraa aa.Nchal
+	tuu hamaarii hogii apanaa daavaa hai aTal
+	mo.D de.n ham to samay kii dhaaraa aise hai.n mastaane
+la \:	mai.n tujhase milane \threedots
+%
+#endindian
+\endsong
+

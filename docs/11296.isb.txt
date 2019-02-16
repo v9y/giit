@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dha.Dakane lagataa hai meraa dil tere naam se}%
+\film{Dil Tera Diwana}%
+\year{1962}%
+\starring{Shammi Kapoor, Mala Sinha, Mehmood}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10920 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+dha.Dakane lagataa hai meraa dil tere naam se
+aisaa lagataa hai ab ham gaye kaam se \-2
+dha dha dha dha.Dakane lagataa \threedots
+
+mere dil me.n jab se TuuTaa tere nain kaa tiir
+dil me.n rahakar ban gayaa vo to merii hii tasviir
+nii.nd nahii.n aatii hai mujhe aaraam se
+dha.Dakane lagataa \threedots
+
+terii baate.n tere kisse rahate hai.n haradam
+mahafil ho yaa viiraanaa ho yaa ko_ii mausam
+Darate nahii.n hai.n ham ishq ke a.njaam se
+aisaa lagataa hai \threedots
+%
+#endindian
+\endsong
+

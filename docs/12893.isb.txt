@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kaho sajanaa mere bin kaise rahe itane dukh tum sahe}%
+\film{Maina}%
+\year{1992?}%
+\starring{}%
+\singer{Anuradha Paudwal, Abid Khan}%
+\music{Naresh Sharma}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaho sajanaa mere bin kaise rahe itane dukh tum sahe
+kaho sajanaa \threedots
+
+merii kabhii yaad aatii thii tumako
+merii tarah kyaa rulaatii thii tumako
+aake zaraa merii aa.Nkho.n me.n dekho kitane aa.nsuu bahe
+kaho sajanaa \threedots
+
+aake mujhe tum gale se lagaa lo
+jaa_oge phir naa kasam merii khaa lo
+haal jiyaa kaa maine bataayaa tum to kuchh naa kahe
+kaho sajanaa \threedots
+
+biite dino.n ko chalo bhuul jaa_o
+aa.Nkho.n se aise naa motii bahaa_o
+sajanii ye tujhako bataanaa hai mushkil
+kitane dukh ham sahe tere bin kaise rahe
+%
+#endindian
+\endsong
+

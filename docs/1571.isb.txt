@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{saarii duniyaa kaa bojh ham uThaate hai}%
+\film{Coolie}%
+\year{}%
+\starring{Amitabh Bachchan}%
+\singer{Shabbir Kumar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Nov  5 1995
+% Credits:
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%
+\printtitle
+#indian
+%
+saarii duniyaa kaa bojh ham uThaate hai.n
+uThate hai.n, bojh uThate hai.n, saarii duniyaa \threedots
+log aate hai.n log jaate hai.n
+ham yahaa.N pe kha.De rah jaate hai.n, saarii \threedots
+
+chaar kaa kaam ek kaa daam hai
+Kuun mat piijiye aur kuchh diijiye
+ek rupayaa hai kam hame.n Kudaa kii qasam
+ba.Dii mehanat se roTii kamaate hai.n, saarii \threedots
+
+tho.Daa paanii piyaa yaad rab ko kiyaa
+bhuukh bhii miT gaii pyaas bhii bujh gaii
+kaam har haal me.n naam ko saal me.n
+iid kii ek chhuTTii manaate hai.n, saarii \threedots
+
+jiinaa mushkil to hai apanaa bhii dil to hai
+dil me.n aramaan hai.n ham bhii insaan hai.n
+jab sataate hai gap aish karte hai.n ham
+bii.Dii piite hai.n aur paan khaate hai.n
+saarii duniyaa kaa bojh ham uThaate hai.n
+%
+#endindian
+\endsong
+%

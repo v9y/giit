@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{itanaa mai.n chaahuu.n tujhe ko_ii kisii ko naa chaahe}%
+\film{Raaz}%
+\year{2002}%
+\starring{Dino Maria, Bipasha basu, Sonali Kulkarni}%
+\singer{Udit narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+itanaa mai.n chaahuu.N tujhe ko_ii kisii ko na chaahe
+itanaa mai.n chaahuu.N tujhe ho ko_ii kisii ko na chaahe
+tuu bhii mujh se pyaar kare kaash vo din bhii aa_e
+
+tere baare me.n jab sochuu.N aa.Nkh merii bhar aa_e
+itanaa mai.n chaahuu.N \threedots
+
+tum ko nahii.n maaluum mai.n tujh se kitanii muhobbat karataa huu.N
+yaad me.n terii tanahaa akelaa mai.n to aahe.n bharataa huu.N
+nazare.n uThaa_uu.N nazare.n jhukaa_uu.N saamane tuu muskaa_e
+itanaa mai.n chaahuu.N \threedots
+
+khud pe to mai.n pahare lagaa luu.N rok naa paa_uu.n yaado.n ko
+bhuul gayaa tuu mai.n naa bhuulii un kasamo.n un vaado.n ko
+duurii mujhako jiine naa de tanhaa_ii ta.Dapaa_e
+itanaa mai.n chaahuu.N \threedots
+%
+#endindian
+\endsong

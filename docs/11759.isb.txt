@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{muhabbat jaag uThii hai ... ye kyaa ho rahaa hai}%
+\film{Hum Kisise Kum Nahin}%
+\year{2002}%
+\starring{Amitabh Bachchan, Ajay Devgan, Sanjay Dutt, Aishwarya Rai}%
+\singer{Alka Yagnik, Sonu Nigam, Annu Malik}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+muhabbat jaag uThii hai zamaanaa so rahaa hai
+ai ye kyaa ho rahaa hai are ye kyaa ho rahaa hai bhaa_ii
+kuchh nahii.n kuchh nahii.n pyaar ho rahaa hai
+nii.nd jaa rahii hai chain kho rahaa hai
+pyaar pyaar pyaar pyaar pyaar ho rahaa hai
+hai pyaar ho rahaa hai
+haay ye kyaa ho rahaa hai \threedots
+
+dilo.n me.n aag lagii hai zamaanaa so rahaa hai
+sone do sone do sone do zamaane ko sone do
+haay ye kyaa ho rahaa hai \threedots
+
+pyaar me.n sharaab sii mastii hai chaal me.n
+dekh na le ko_ii hame.n is haal me.n
+ham dekh to rahaa hai
+ye kyaa ho rahaa hai \threedots
+
+tere mere biich kaa bhed na khol de
+ko_ii jaa ke kuchh mere bhaiyaa se na bol de
+bhaiyaa bol to rahaa hai
+ye kyaa ho rahaa hai \threedots
+
+saare jahaa.N pe nashaa chhaa rahaa hai
+ko_ii ha.Ns rahaa hai ko_ii gaa rahaa hai
+are ko_ii ro rahaa hai
+ye kyaa ho rahaa hai \threedots
+%
+#endindian
+\endsong
+

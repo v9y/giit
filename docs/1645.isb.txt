@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{sukh ke sab saathii dukh me.n na koii}%
+\film{Gopi}%
+\year{1970}%
+\starring{Dilip Kumar, Saira Bano, Pran, Johnny Walker}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+sukh ke saba saathii dukhame.n na koii
+mere raama, mere raama
+teraa naama hai saachaa duujaa na koii
+
+jiivana aanii jaanii chhaayaa
+jhuuThii maayaa jhuuThii kaayaa
+phira kaahe ko saarii umariyaa 
+paapakii gaTharii Dhoii
+
+naa kuchha teraa naa kuchha meraa
+ye jaga jogiivaalaa pheraa
+raajaa ho yaa ra.nka sabhiikaa
+a.nta ekasaa hoii
+
+baaharakii tuu maaTii phaa.nke
+manake bhiitara kyuu.n na jhaa.nke
+ujale tanapara maana kiyaa aur
+	     manakii maila na dhoii
+%
+#endindian
+\endsong
+%

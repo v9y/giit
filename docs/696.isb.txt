@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{hamadam mere, maan bhii jaao}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pankha Road se Pintu Diwana [25]  14 May 1995
+%        A wonderful, _jivy_ song. Not as good as 'Baar baar dekho' but
+%        still some can dance to it, I suppose!
+%        Rafi saahab ke liye meree TOOOOOOOPEEEEE Hats off!
+%        mood thoD.aa halkaa hai, so maiNne koshish kee hai thoD.aa taan
+%        ko note karane kee, all the ~~~~~s
+%
+%        Please try to hum this full song, just once for me, chalo ek
+%        baar bas, arey koi naheeN sunegaa grad lab meN, aur sun bhee
+%        legaa to hamaare Chinese bandhu ko kaunsaa samajh meN aayegaa?
+%
+%        Yes, you are allowed to do all the acrobatics you feel like!
+%
+\printtitle 
+#indian 
+%
+ho
+
+hamadam mere, maan bhii jaao
+kahanaa mere pyaar kaa  
+are halkaa\-halkaa, surkh labo.n pe
+ra.ng to hai iqaraar kaa \- 2
+are hamadam mere
+
+hoy
+pyaar muhobbat kii havaa, pahale chalatI hai
+phir ik laT inakaar kii, rukh pe DhalatI hai \- 2
+ye sach hai kam se kam, tuu ai mere sanam
+laTe.n chehare se sarakaao, tamannaa aa.Nkhe malatI hai 
+haay, hamadam mere 
+
+haay
+tumase mil\-mil ke sabaa, duniyaa mahakaaye
+bAdal ne chorii kiye, A.Nchal ke sa.ng  \- 2 
+ye sach hai kam se kam, tuu ai mere sanam
+churaa luu.n mai.n bhii do jalave, meraa aramaan bhii rah jaaye 
+haay, hamadam mere
+%
+#endindian
+\endsong
+%

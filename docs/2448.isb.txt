@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{rahaa gardisho.n me.n haradam, mere ishq kaa sitaaraa}%
+\film{Do Badan}%
+\year{}%
+\starring{Manoj Kumar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Sanjeev Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+rahaa gardisho.n me.n haradam mere ishq kaa sitaaraa
+kabhii Dagamagaayii kashtii, kabhii luT gayaa kinaaraa
+
+koii dil kaa khel dekhe, ki muhabbato.n kii baazii
+vo qadam qadam pe jiite, mai.n qadam qadam pe haaraa
+
+ye hamaarii badanasiibii jo nahii.n to aur kyaa hai
+ki usii ke ho gaye ham, jo na ho sakaa hamaaraa
+
+pa.De jab Gamo.n ke paale, rahe miTake miTanevaale
+jise maut bhii na puuchhaa, use zi.ndagii ne maaraa
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{zindagii kaa ajab fasaanaa hai}%
+\film{Chhoti Chhoti Baaten}%
+\year{1965}%
+\starring{Motilal, Nadira}%
+\singer{Mukesh, Lata}%
+\music{Anil Biswas}%
+\lyrics{Shailendra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjali series, LATAnjali  series, anilda series
+% 
+\printtitle
+#indian
+%
+la \:	zindagii kaa ajab fasaanaa hai
+	rote\-rote bhii muskuraanaa hai
+	zindagii kaa ajab fasaanaa hai
+
+mu \:	ishq me.n jaanate hai.n jaan ga_ii \-2
+	phir bhii kahate hai.n aazamaanaa hai \-2
+
+la \:	kaisii mushqil hai ko_ii kyaa jaane \-2
+	aag ko aag se bujhaanaa hai
+	zindagii kaa ajab fasaanaa hai
+
+mu \:	dil lagaayaa thaa par na thii ye Kabar \-2
+	maut kaa ye bhii ek bahaanaa hai
+la \:	rote\-rote bhii muskuraanaa hai
+mu \:	zindagii kaa ajab fasaanaa hai
+la \:	rote\-rote bhii muskuraanaa hai
+%
+#endindian
+\endsong

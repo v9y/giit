@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ye maujezaa bhii muhabbat kabhii dikhaaye mujhe}%
+\film{Golden Greatest of Mehdi Hassan (Non-Film)}%
+\year{1994}%
+\starring{}%
+\singer{Mehdi Hasan/ Abida Parveen}%
+\music{}%
+\lyrics{Qateel Shifai}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+% The album details given above are for Mehdi Hasan version.
+% Abida Parveen version is in "Bata Do Tum"
+ 
+\printtitle
+#indian
+
+ye maujezaa bhii muhabbat kabhii dikhaaye mujhe
+ke sa.ng tujhape gire aur zaKm aaye mujhe
+
+wo meraa dost hai saare jahaa.N ko hai maaluum
+daGaa kare wo kisii se to sharm aaye mujhe
+
+% One additional sher only in Abida Parveen Version
+wohii to sabase ziyaadaa hai nuktaa\-chii.n meraa
+jo muskuraa ke hameshaa gale lagaaye mujhe
+
+wo meharabaa.N hai to iqaraar kyuu.N nahii.n karataa
+wo bad\-Gumaa.N hai to sau baar aazamaaye mujhe
+
+mai.n apanii zaat me.n niilaam ho rahaa huu.N 'qatiil'
+Gam\-e\-hayaat se kah do Kariid laaye mujhe
+
+#endindian
+\endsong

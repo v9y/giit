@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ruk jaa raat Thahar jaa re cha.ndaa}%
+\film{Dil Ek Mandir}%
+\year{}%
+\starring{Rajendra Kumar, Raaj Kumar, Meena Kumari}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Nita Naqvi
+% Transliterator: Nita Naqvi
+% Date: 1/20/2000
+% Credits:
+% Editor:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ruk jaa raat Thahar jaa re cha.ndaa biite na milan kii belaa
+aaj chaa.ndanii kii nagarii me.n aramaano.n kaa melaa
+ruk jaa raat \threedots
+
+pahale milan kii yaade.n lekar aa_ii hai ye raat suhaanii
+doharaate hai.n chaa.Nd sitaare merii tumhaarii prem kahaanii
+merii tumhaarii prem kahaanii
+ruk jaa raat \threedots
+
+kal kaa Daranaa kaal kii chi.ntaa do tan hai man ek hamaare
+jiivan siimaa ke aage bhii aa_uu.Ngii mai.n sa.ng tumhaare
+aa_uu.Ngii mai.n sa.ng tumhaare
+ruk jaa raat \threedots
+
+%
+#endindian
+\endsong
+%
+

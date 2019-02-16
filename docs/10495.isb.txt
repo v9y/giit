@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kahii.n zulf kaa baadal ... vo la.Dakii jo sabase alag hai}%
+\film{Baadshaah}%
+\year{1999}%
+\starring{Shahrukh Khan, Twinkle Khanna}%
+\singer{Abhijit, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kahii.n zulf kaa baadal oho kahii.n ra.ngii.n aa.Nchal aahaa
+kahii.n ho.nTh gulaabii oho kahii.n chaal sharaabii aahaa
+kahii.n aa.Nkh me.n jaaduu oho kahii.n jism kii khushbuu aahaa
+kahii.n narm nigaahe.n oho kahii.n gorii baahe.n aahaa
+haa.N yahaa.n kadam kadam par laakho.n hasiinaa_e.n hai.n
+ham magar ye dil kaa tohafaa dene use aa_e hai.n
+vo la.Dakii jo sabase alag hai
+
+kitane hii jalave hai.n aa.Nkho.n me.n dhulatii hai.n jinase chaa.Ndanii
+kitanii hii ho baate.n hai.n kaano.n me.n ghulatii hai jinase raaginii
+ye chale jaise zaraa balakhaa ke vo chale jaie zaraa iThalaa ke
+ye mile jaise zaraa sharamaa ke vo mile jaise zaraa itaraa ke
+haa.N yahaa.n kadam kadam \threedots
+
+gulashan kii hai vo kalii jo saare phuulo.n se bilkul hai judaa
+kyaa kahi_e ho dekhaa hai in aa.Nkho.n ne usame.n aisaa ruup kyaa
+kyaa ajiib sii taazagii hai kyaa hasiin sii saadagii hai
+kyaa ajiib sii dilakashii hai kyaa hasiin sii dilabarii hai
+haa.N yahaa.n kadam kadam \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,60 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dha.Dake meraa dil, mujhako ... bachapan yaad aaye}%
+\film{Babul}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar, Munavvar Sultana, Amar}%
+\singer{Shamshad, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+sha \:	( dha.Dake meraa dil mujhako jawaanii raam qasam na bhaaye
+	bachapan yaad aaye
+ko \:	ho bachapan yaad aaye ) \-2
+
+sha \:	ho o o
+ko \:	ho o o
+sha \:	rum\-jhum aa_ii hai aa_ii hai
+sha \:	ho o
+ko \:	rum\-jhum aa_ii hai aa_ii hai
+sha \:	ho o
+	saawan kii rut alabelii
+ko \:	saawan kii rut alabelii
+sha \:	baadal garaje bijalii chamake
+ko \:	baadal garaje bijalii chamake
+sha \:	kaise rahuu.N mai.n akelii
+ko \:	kaise rahuu.N mai.n akelii
+sha \:	ho kaise rahuu.N mai.n akelii
+	kaun sune baalam bin dil kii baat kahii na jaaye
+	bachapan yaad aaye
+ko \:	ho bachapan yaad aaye
+
+sha \:	ho o
+ko \:	o o
+sha \:	ek to ThaNDii pawan chale, pawan chale
+	ho o o o
+ko \:	ek to ThaNDii pawan chale, pawan chale
+sha \:	ho o
+	aur dil khaaye hichakole
+ko \:	aur dil khaaye hichakole
+sha \:	duuje muNDere kaagaa bole
+ko \:	duuje muNDere kaagaa bole
+sha \:	sun ke meraa man Dole
+ko \:	sun ke meraa man Dole
+sha \:	ho sun ke meraa man Dole
+	bal\-bal jaa_uuu.N kaagaa par jo pii kaa sandesaa laaye
+	bachapan yaad aaye
+ko \:	ho bachapan yaad aaye
+
+sha \:	dha.Dake meraa dil mujhako jawaanii raam qasam na bhaaye
+	bachapan yaad aaye
+ko \:	ho bachapan yaad aaye
+
+#endindian
+\endsong

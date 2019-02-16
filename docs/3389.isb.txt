@@ -1,0 +1,44 @@
+% ITRANS SONG # 3389; Created on Jan 26, 2004
+%
+% From: naniwadekar (not_this_naniw@hotmail.com)
+% Date: 2002-10-14 01:54:56 PST                               Original Format
+%
+\startsong
+\stitle{kisii ko banaanaa kisii ko miTaanaa}%
+\film{Sheeshaa}%
+\year{1952}%
+\starring{Nargis, Sajjan, Vimla}%
+\singer{Talat}%
+\music{Ghulam Mohammed}%
+\lyrics{Majrooh}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 14 Oct 2002
+%
+\printtitle
+#indian
+%
+kisii ko banaanaa, kisii ko miTaanaa
+ajab hai ye duniyaa, ajab ye Jamaanaa
+
+hai.n dono.n hii insaa.n pale ek chaman me.n
+wo hii ek thii jaan dono.n ke tan me.n
+magar ko_ii o.Dhegaa phuulo.n kii chaadar
+hai mushqil kisii ke dile sar chhupaanaa
+    ajab hai ye duniyaa \threedots
+
+hai.n sar par kisii ke bahaaro.n ke saaye.n
+kisii par balaa_o.n ke baadal hai.n chhaaye
+kisii ke liye sirf aa.Nsuu kii bunde.n
+kisii ke liye motii_o.n kaa khaJaanaa
+    ajab hai ye duniyaa \threedots
+
+ko_ii chain se hai, tarasataa hai ko_ii
+kisii ke uja.Dane se bachataa?? hai ko_ii
+na jaane ye andher kab tak rahegaa
+zamii.n ek kii dusare kaa Thikaanaa
+    ajab hai ye duniyaa \threedots
+%
+#endindian
+\endsong
+%

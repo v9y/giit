@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{husn bhii hai udaas-udaas ishq bhii Gam se chuur hai}%
+\film{Fareb}%
+\year{1953}%
+\starring{Shakuntala, Kishore Kumar}%
+\singer{Kishore}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12074 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com 
+%
+\printtitle
+#indian
+%
+husn bhii hai udaas\-udaas
+ishq bhii Gam se chuur hai
+husn bhii hai
+
+mere nasiib dekhiye \-2
+paas wo ho ke duur hai
+
+husn bhii hai udaas\-udaas
+ishq bhii Gam se chuur hai
+husn bhii hai
+
+ho.nTho.n se chhin ga_ii ha.Nsii
+khil naa sakii ko_ii kalii
+ho.nTho.n se chhin ga_ii ha.Nsii
+kahane ko baaG me.n bahaar \-2
+aa_ii hu_ii zaruur hai
+
+husn bhii hai udaas\-udaas
+ishq bhii Gam se chuur hai
+husn bhii hai
+
+jab se Kafaa hai zindagii
+ruuTh ga_ii hai har Kushii
+jab se Kafaa hai zindagii
+dil me.n kisii kaa Gam liyaa \-2
+bas ye meraa qusuu hai
+
+husn bhii hai udaas\-udaas
+ishq bhii Gam se chuur hai
+husn bhii hai
+%
+#endindian
+\endsong

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{raato.n ko raato.n ko nii.nd nahii aatii hai}%
+\film{Ittefaq}%
+\year{2001}%
+\starring{Sunil Shetty, Puja Batra, Anupama Verma}%
+\singer{Abhijit, Poornima}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+raato.n ko raato.n ko nii.nd nahii aatii hai
+shaam savere terii yaad sataatii hai
+jab merii aa.Nkho.n se duur tuu jaatii hai
+sach kahataa huu.N merii jaan chalii jaatii hai
+
+raato.n ko raato.n ko \threedots
+jab merii aa.Nkho.n se duur tuu jaataa hai
+sach kahataa huu.N \threedots
+
+maime pyaar kiyaa hai ikaraar kiyaa hai
+i.ntazaar kiyaa hai aitabaar kiyaa hai
+tere khyaalo.n me.n jaanam ab to jiitii maratii huu.N
+tere naam ko leke saajan pal pal aahe.n bharatii huu.N
+kaise samajhaa_uu.n mai.n tuu merii jaan\-e\-jaa.n
+khvaabo.n me.n aa ke mujhe roz ta.Dapaatii hai
+raato.n ko raato.n ko \threedots
+
+o zaraa thaam dilabar mujhe hosh nahii.n hai
+hai ye pyaar kaa nashaa meraa doSh nahii.n hai
+ko_ii nahii.n hai raaho.n me.n duur talak tanhaa_ii hai
+ba.De dino.n ke baad sanam gha.Dii milan kii aa_ii hai
+saa.Nso.n se jo terii khushbuu laharaatii hai
+vo merii saa.Nso.n ko aake mahakaatii hai
+raato.n ko raato.n ko \threedots
+%
+#endindian
+\endsong
+

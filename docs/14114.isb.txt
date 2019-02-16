@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{nain dvaar se man me.n vo aake tan me.n aag lagaa_e}%
+\film{Saawan}%
+\year{1959}%
+\starring{Bharat Bhushan, Ameeta, Jivan, Achala Sachdev, Helen, Tuntun, Leela Misra}%
+\singer{Mukesh, Lata/ Lata}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10214 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	nain dvaar se man me.n vo aake tan me.n aag lagaa_e \-2
+la \:	haay rasiyaa haay re
+	ko_ii chhaliyaa chhal ki_e jaa_e
+	jiyaraa li_e jaa_e chain nahii.n aa_e
+	haay ko_ii chhaliyaa chhal \threedots
+mu \:	nain dvaar se man me.n \threedots
+
+	nain rasiile chaa.Nd saa mukha.Daa sundar ruup suhaanaa
+	par bedardii dard na samajhe jaane bas ta.Dapaanaa
+	phir bhii man ta.Dapaane vaalaa man kaa miit kahaa_e
+la \:	haay rasiyaa haay re \threedots
+
+mu \:	jab vo aa_e lekar aa_e din me.n chaa.Nd sitaare
+	jab vo jaa_e lekar jaa_e sab aramaan hamaare
+la \:	haay rasiyaa haay re \threedots
+
+la \:	haay jii ik chhaliyaa
+ko \:	kaun teraa rasiyaa jo dil li_e jaa_e
+la \:	haay jii ik chhaliyaa jo man ko bhaa_e
+ko \:	jiyaraa li_e jaa_e \-3
+la \:	haay rii ko_ii chhaliyaa \threedots
+%
+#endindian
+\endsong
+

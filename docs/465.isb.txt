@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{dhiire se jaanaa khaTiyan me.n o khaTamal}% 
+\film{Chhupa Rustom}%
+\year{1973}%
+\starring{Dev Anand, Hema Malini, Vijay Anand, Prem Chopra}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+dhiire se jaanaa khaTiyan me.n o khaTamal 
+dhiire se jaanaa khaTiyan me.n 
+so_ii hai raajakumaarii dekh rahI miiThe sapane 
+jaa jaa chhup jaa takiyan me.n o khaTamal 
+dhiire se jaanaa khaTiyan me.n 
+
+##speaks: ## viiraa.n thI apanii zindagii aur suunaa thA apanA makaan 
+haai haai re kismat \threedots 
+
+mile mushkil se ye mehamaan 
+ho bhI jaate shaayad meharabaan 
+mile mushkil se ye mehamaan 
+ho bhI jaate shaayad meharabaan 
+aag lagaa dii hai sukhan me.n o khaTamal 
+dhiire se jaanaa khaTiyan me.n 
+
+komal hai inakaa badan 
+kA.NTe sI terI chubhan 
+komal komal hai inakaa badan 
+kA.NTe sI terI chubhan 
+ba.Dhaa, Daale ni.ndiyan me.n o khaTamal 
+dhiire se jaanaa khaTiyan me.n 
+
+##speaks ## e e kidhar jaataa hai 
+khabar! khabaradaar! hum \threedots chhuup chhup ke? 
+
+kyo.n pyaar kare tU 
+ba.Daa chhuupaa huA rustam hai tU 
+kyo.n chhup chhup ke pyaar kare tU 
+ba.Daa chhupaa huA rustam hai tU 
+le le hamako bhI sharaN me.n o khaTamal 
+dhiire se jaanaa khaTiyan me.n 
+
+dhiire se jaanaa 
+dhiire se jaanaa bagiyan me.n o bha.Nvaraa 
+dhiire se jaanaa bagiyan me.n 
+%
+#endindian
+\endsong
+%

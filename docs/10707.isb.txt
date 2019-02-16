@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tamannaa\-e\-pareshaa.n\-dil ne phir tumako}%
+\film{Beewee Kiraaye Ki}%
+\year{1975}%
+\starring{Sona, Indar Kumar, Durga Khote, Anita Guha, Mohan Choti}%
+\singer{Mukesh, Asha}%
+\music{H Parashuram}%
+\lyrics{Anjum Jaipuri}%
+%
+% Contributor: BOL ANAMOL #10206 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tamannaa\-e\-pareshaa.n\-dil ne phir tumako pukaaraa hai
+	zaraa aakar to dekho haal\-e\-dil ye dil tumhaaraa hai
+aa \:	bhalaa aa_uu.N to kaise jiite jii duniyaa ne maaraa hai
+	jahaa.N vaalo.n ke aage kyaa karuu.N dil besahaaraa hai
+do \:	tamannaa\-e\-pareshaa.n \threedots
+
+mu \:	sitaare merii haalat dekh ke chupachaap rote hai.n
+	yahii raato.n kaa aalam aur yahii din kaa nazaaraa hai
+	tamannaa\-e\-pareshaa.n \threedots
+
+aa \:	mujhe tum bhuul jaa_o Kvaab to TuuTaa hii karate hai.n
+	sivaa mere jahaa.N me.n aaj bhii sab kuchh tumhaaraa hai
+	tamannaa\-e\-pareshaa.n \threedots
+
+do \:	raho chaahe jahaa.N bhii dil se tum jaane na paa_oge
+	bhalaa ho is jahaa.n kaa har ko_ii dushman hamaaraa hai
+	bhalaa ho is jahaa.n kaa
+mu \:	har ko_ii dushman hamaaraa hai
+%
+#endindian
+\endsong
+

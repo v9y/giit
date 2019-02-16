@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{karoge yaad to, har baat yaad aayegii}%
+\film{Baazaar}%
+\starring{Farooq Sheikh, Smita Patil, Supriya Pathak, Naseeruddin Shah}%
+\singer{Bhupinder}%
+\music{Khaiyyam}%
+\lyrics{Bashar Nawaz}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Jasjit Singh (jasjit@cc.gatech.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+karoge yaad to, har baat yaad aayegii \- 2
+guzarate vaqt kii, har mauj Thahar jaayegii \- 2
+karoge yaad to \threedots
+
+ye chaa.Nd biite zamaano.n kaa aaiinaa hogaa    \- 2
+bhaTakate abra me.n, chaharaa koI banaa hogaa
+udaas raah koI daastaa.n sunaaegii    \- 2
+karoge yaad to \threedots
+
+barasataa\-bhiigataa mausam dhuaa.N\-dhuaa.N hogaa    \- 2
+pighalatii shamo.n pe dil kaa mere Gumaa.n hogaa
+hatheliyo.n kii hinaa, yaad kuchh dilaayegii    \- 2
+karoge yaad to \threedots
+
+galii ke mo.D pe, suunaa saa koI daravaazaa    \- 2
+tarasatii aa.Nkho.n se rastaa kisii kaa dekhegaa
+nigaah duur talak jaa ke lauT aaegii    \- 2
+karoge yaad to \threedots
+%
+#endindian
+\endsong
+%

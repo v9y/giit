@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tere pyaar me.n mai.n mar jaavaa.n ... hame.n naa bhulaanaa}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Roop Kumar Rathod, Jaspindar Narula, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere pyaar me.n mai.n mar jaavaa.n tere naam ye dil kar jaavaa.n
+hame.n naa bhulaanaa saajan hame.n naa bhulaanaa
+duur nahii.n jaanaa hamase duur nahii.n jaanaa
+vaadaa kiyaa to vaadaa karake nibhaanaa
+hame.n naa bhulaanaa \threedots
+
+tere pyaar me.n mai.n mar jaavaa.n tere naam ye dil kar jaavaa.n
+hame.n naa bhulaanaa sajanii hame.n naa bhulaanaa
+duur nahii.n jaanaa hamase duur nahii.n jaanaa
+vaadaa kiyaa to vaadaa karake nibhaanaa
+hame.n naa bhulaanaa \threedots
+
+apanaa bhii nasiibaa o_e o_e o_e kyaa khuub milaa hai o_e o_e o_e
+sapano.n se bhii sundar o_e o_e o_e mahabuub milaa hai o_e o_e o_e
+teraa khvaab terii chaahat merii zi.ndagaanii
+aa.Nkho.n se duur mere dilabar naa jaanaa
+tere pyaar me.n mai.n \threedots
+
+ban jaa_uu.n dulhan mai.n o_e o_e o_e tuu meraa sajan ho o_e o_e o_e
+maa.nguu.n ye du_aa_e.n o_e o_e o_e jaldii se milan ho o_e o_e o_e
+sahii jaa_e ab naa mujhse sanam ye judaa_ii
+aa_o baaraat leke chho.Do ta.Dapaanaa
+ho tere pyaar me.n mai.n \threedots
+%
+#endindian
+\endsong
+

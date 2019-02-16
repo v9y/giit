@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dil kitanaa naadaan hai dil kitanaa anjaan hai}%
+\film{Dil Kitnaa Naadaan Hai}%
+\year{1996}%
+\starring{Raja, Rageshwari, Kiran Kumar, Aloknath, Rima, Munika, Deven Bhojani}%
+\singer{}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil kitanaa naadaan hai dil kitanaa anjaan hai
+jisane paagal kiyaa jisane ghaayal diyaa
+jisane dhokhaa diyaa jisane zakhmii kiyaa usape meharabaan hai
+dil kitanaa naadaan hai \threedots
+
+ko_ii bataa_e kaise bahalaa_uu.n zakhmii dil ko
+majabuur huu.N mai.n kitanaa samajhaa_uu.n zakhmii dil ko
+jisape marataa hai ye vo to hai bevafaa
+zakhm aise diye naa ho jisakii davaa
+mushkil me.n ye jaan hai
+dil kitanaa naadaan hai \threedots
+
+mai.n ro bhii nahii.n sakataa kyuu.n ki ha.Nsegii duniyaa
+naakaam chaahat par taane kasegii duniyaa
+ko_ii dekhe merii bebasii to zaraa
+ashq aa.Nkho.n me.n hai.n dil hai Gam se bharaa
+ho.nTho.n pe muskaan hai
+dil kitanaa naadaan hai \threedots
+%
+#endindian
+\endsong
+

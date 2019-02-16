@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tuu hai ki nahii.n hai mujhe bhagavaan bataa de}%
+\film{Inaam}%
+\year{1955}%
+\starring{Suraiya, Naasir, Kammo, Mukri, Yaqub, Protima Devi, Bimla Kumari}%
+\singer{Rafi}%
+\music{S N Tripathi}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10323 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tuu hai ki nahii.n hai mujhe bhagavaan bataa de
+rotaa hai tere dar pe ek insaan bataa de
+tuu hai ki nahii.n hai \threedots
+
+dharatii par ye kahataa hai ko_ii dard kaa maaraa
+aaho.n se hilaa duu.Ngaa aakaash ye saaraa
+kab tak hai musiibat kaa yah tuufaan bataa de
+bhagavaan bataa de \threedots
+
+jo dil pe guzaratii hai tujhe kaise bataa_uu.N
+so_e ho bhagavaan tujhe kaise jagaa_uu.N
+kyaa jaan ke tuu banaa hai anajaan bataa de
+bhagavaan bataa de \threedots
+
+sau dard sahe maine terii raah me.n chal ke
+shamashaan hu_ii jaatii hai duniyaa merii jal ke
+kyaa dil se miTaa duu.N teraa dhyaan bataa de
+bhagavaan bataa de \threedots
+%
+#endindian
+\endsong
+

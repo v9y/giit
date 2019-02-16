@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{tere pyaar ne sanam jaaduu kyaa kar diyaa}%
+\film{Vaastav/ The Reality}%
+\year{1999}%
+\starring{Sanjay Dutt, Namrata Shirodkar}%
+\singer{Kavita Subramaniam/ Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+tere pyaar ne sanam jaaduu kyaa kar diyaa haa.n
+jaane kaisaa nashaa chhaa rahaa
+tere pyaar ne sanam \threedots
+
+jhuumatii havaa_o.n bataa_o zaraa mai.n kahaa.N huu.N ho
+chhe.Datii fizaa_o.n samajhaa_o zaraa
+anjaane hii mujhe kyaa hu_aa
+tere pyaar ne sanam \threedots
+
+baazu_o.n me.n aake ye mujhako lagaa sharm kyaa hai
+naa kabhii ye pahale thaa mujhako pataa
+haa.n tuune hamanavaa.n kyaa kiyaa
+tere pyaar ne sanam \threedots
+%
+%Part 2:
+%
+tere pyaar ne sanam jaaduu kyaa kar diyaa haa.n
+jaane kaisaa nashaa chhaa rahaa
+tere pyaar ne sanam \threedots
+
+jhuumatii havaa_o.n bataa_o zaraa mai.n kahaa.N huu.N ho
+chhe.Datii fizaa_o.n samajhaa_o zaraa
+anjaane hii mujhe kyaa hu_aa
+tere pyaar ne sanam \threedots
+
+naa ko_ii kamii hai ab jaan\-e\-vafaa zi.ndagii me.n haa.n
+har khushii milii jo mujhe tuu milii
+laa_ii hai ra.ng kyaa ye du_aa
+tere pyaar ne sanam \threedots
+%
+#endindian
+\endsong
+

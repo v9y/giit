@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{hairaaan huu.N mai.n aapakii zulfo.n ko dekhakar}%
+\film{Jawaab Hum Denge}%
+\year{1987}%
+\starring{Shatrughan Sinha, Jackie Shrof, Sridevi, Kader Khan, Asrani}%
+\singer{Anuradha Paudwal, Shabbir Kumar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sha \: hairaaan huu.N mai.n aapakii zulfo.n ko dekhakar
+          inako ghaTaa kahuu.N to ghaTaa_o.n ko kyaa kahuu.N
+anu \: taariif karanaa husn kii mardo.n kii hai adaa
+           isako adaa kahuu.N to adaa_o.n ko kyaa kahuu.N
+sha \: hairaaan huu.N mai.n \threedots
+
+          kitanii hai Kushanasiib ye bahakii hu_ii havaa
+          haatho.n me.n jisake reshamii aa.Nchal hai aapakaa
+          itanaa kariib aapake mai.n bhii na kyo.n hu_aa
+          isako vafaa kahuu.N to vafaa_o.n ko kyaa kahuu.N
+anu \: taariif karanaa husn kii \threedots
+sha \: hairaaan huu.N mai.n \threedots
+
+anu \: naGame.n mujhe bahaar sunaatii rahii magar
+           usakaa merii javaanii pe kuchh na hu_aa asar
+           aavaaz jab tumhaarii mere dil me.n utar ga_ii
+           koyal kii miiThii miiThii sadaa_o.n ko kyaa kahuu.N
+sha \: hairaaan huu.N mai.n \threedots
+anu \: taariif karanaa husn kii \threedots
+
+sha \: ra.ngiiniyaa.N hai.n gaalo.n kii jaise chaman ke phuul
+anu \: jo kuchh janaab sab hai mujhe qubuul hai
+sha \: bahake hu_e kadam hai.n to mahakaa hu_aa badan
+          tumako fazaa kahuu.N to fazaa_o.n ko kyaa kahuu.N
+anu \: taariif karanaa husn kii \threedots
+sha \: hairaaan huu.N mai.n \threedots
+%
+#endindian
+\endsong
+

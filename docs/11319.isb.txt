@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ajii pahalii mulaaqaat me.n nahii.n pyaar jataayaa karate}%
+\film{Do Dilon Ki Daastan}%
+\year{1966}%
+\starring{Pradeep Kumar, Vyjyanthimala}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10513 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ajii pahalii mulaaqaat me.n nahii.n pyaar jataayaa karate
+jab haath diyaa hai haatho.n me.n nahii.n haath chhu.Daayaa karate \-2
+ajii pahalii mulaaqaat \threedots
+
+aur hasiin ho jaa_ogii gar pahanogii pyaar ke gahane
+o pyaar ke gahane pahan kar dil me.n rahogii rahane
+merii pahalii prem kii belaa maa.Nge tere dil me.n jagah
+kitane hasiin aa.Nkho.n ne dekhe dil na kisii se bahalaa
+ik la.Dakii kaa ik la.Dake se ishq hai pahalaa\-pahalaa
+zaraa jaaduugaranii apanii pyaarii\-pyaarii aa.Nkhe.n na chhupaa
+pichhale janm me.n shaayad maine pyaar kiyaa thaa tumase
+piyaa\-piyaa o kyaa jiyaa terii baato.n pe fidaa
+%
+#endindian
+\endsong
+

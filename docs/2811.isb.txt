@@ -1,0 +1,39 @@
+%
+startsong
+\stitle{darshan hue tihaare saajan}%
+\film{Vidyapati}%
+\year{1937}%
+\starring{Pahari Sanyal, Kananbala, Chhaya Devi, Prithviraj Kapoor}%
+\singer{Pahari Sanyal}%
+\music{R C Boral}%
+\lyrics{Kedar Sharma}%
+%
+%Contributor: Prithviraj Dasgupta
+%Date: Nov 30, 2000
+%Credits:
+%Transliterator:
+%Comments:
+%
+\printtitle
+#indian
+%
+
+darashan hue tihaare saajan
+jaage bhaag hamaare
+ 
+ra.ng Daalaa mohe prem ra.ng me
+uma.ng uma.ng hai a.ng a.ng me.n
+chit me.n basat ab nainaa tihaare
+pyaare pyaare ati nyaare saajan
+jaage bhaag hamaare \threedots
+ 
+aa.Nkho.n ke aaj saamane
+aa.Nkho.n kaa chaa.Nd hai
+aavaaz deke aaj teraa
+chaa.Nd ma.Nd hai
+bhuul rahe hai.n sitaare
+
+%
+#endindian
+\endsong
+%

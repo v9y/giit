@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{meraa to dil dil dil ghabaraa_e re}%
+\film{Kaalaa Aadmi}%
+\year{1960}%
+\starring{Ashok Kumar, Shyama, Johnny Walker, Mehmood}%
+\singer{Rafi, Lata}%
+\music{Duttaram}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10180 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	meraa to dil dil dil ghabaraa_e re
+	merii to jaan jaan jaan chalii ( jaa_e re ) \-5
+
+	dil kii sadaa sun lo zaraa aa_ii huu.N saj ke tere li_e
+	kuchh na hame.n apanii Kabar jaaduu ham pe tuune ki_e
+ra \:	raat ye javaa.N hai chaa.Nd vo kahaa.N hai laa_e dil ham jisake li_e
+
+la \:	mukha.Daa meraa kyaa hai buraa tuu hii bataa de mere sanam
+	merii adaa tujhape fidaa yuu.N naa tarasaa merii qasam
+ra \:	tuu vo nahii.n hai vo to hasii.n hai pyaar me.n jisake paagal hai.n ham
+
+la \:	jaan\-e\-jigar tere li_e ta.Dapuu.N haradam shaam\-o\-sahar
+	yaade.n terii aatii mujhe tujhame.n zaalim kyaa hai asar
+ra \:	tuu to idhar hai bol vo kidhar hai kaun se dil me.n hai usakaa ghar
+la \:	meraa to dil \threedots
+%
+#endindian
+\endsong
+

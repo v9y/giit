@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ye mere a.Ndhere ujaale na hote}%
+\film{Prem Patra}%
+\year{1962}%
+\starring{Sadhana, Shashi Kapoor, Seema, Chand Usmani}%
+\singer{Talat, Lata}%
+\music{Salil Choudhary}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ta : ye mere a.Ndhere ujaale na hote
+     agar tum na aate merii zi.ndagii me.n
+la : na jaane meraa dil ye kyo.n kah rahaa hai
+     tumhe.n kho na baiThuu.N kahii.n roshanii me.n
+
+ta : merii aa.Nkh ne tum ko dekhaa nahii.n hai
+frdd,km,kq1\     magar dil to meraa tumhe.n jaanataa hai
+     tumhe.n jaanataa hai
+     to Gam ke safar me.n meraa hamasafar hai
+     mai.n kyo.n saath us kaa na duu.Ngaa khushii me.n
+     ye mere a.Ndhere \threedots
+
+la : tumhaarii muhabbat pe mujh ko yakii.n hai
+     magar apanii qisamat pe hargiz nahii.n hai
+     hargiz nahii.n hai
+     muhabbat ke kuchh khel aa.Nkho.n ne merii
+     biga.Date bhii dekhe ha.Nsii hii ha.Nsii me.n
+     na jaane meraa dil \threedots
+
+ta : abhii to ummiido.n kii duniyaa javaa.N hai
+     na chhe.Do ye maayuusiyo.n ke taraane
+la : tumhe.n bhii qasam hai ki dil me.n na rakhanaa
+     Kataa ho ga_ii ho agar bekhudii me.n
+     agar bekhudii me.n
+ta : ye mere a.Ndhere \threedots
+la : na jaane meraa dil \threedots
+
+%
+#endindian
+\endsong
+%

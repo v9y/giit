@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n\-aa.Nkho.n me.n baat hone do}%
+\film{Aankhon Aankhon Mein}%
+\year{1972}%
+\starring{Rakesh Roshan, Rakhee, Achala Sachdev}%
+\singer{Kishor, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11209 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	aa.Nkho.n\-aa.Nkho.n me.n baat hone do
+aa \:	mujhako apanii baa.Nho.n me.n sone do
+ki \:	shaadii ho jaane do
+aa \:	shaadii ho jaa_egii
+	pahale miiThe sapano.n me.n khone do
+ki \:	na na na
+	aa.Nkho.n\-aa.Nkho.n me.n \threedots
+
+	man kaa pa.nchhii Dole
+aa \:	achchhaa
+ki \:	priit kii bolii bole
+aa \:	baat ba.Dhegii aage lekin haule\-haule
+ki \:	kab tak i.ntazaarii
+aa \:	umr pa.Dii hai saarii
+	dil ko zaraa dil me.n samone do
+	aa.Nkho.n\-aa.Nkho.n me.n \threedots
+
+ki \:	pahale bhii barakhaa thii
+aa \:	to kyaa hu_aa
+ki \:	par aise na bhalii thii
+aa \:	achchhaa jii
+ki \:	phuul banii hai ab tuu pahale ba.nd kalii thii
+	dil me.n aag lagii hai
+aa \:	dil kii aag bujhegii
+	motii zaraa nath me.n pirone do
+	aa.Nkho.n\-aa.Nkho.n me.n \threedots
+%
+#endindian
+\endsong
+

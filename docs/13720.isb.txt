@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujhe tere jaisii la.Dakii mil jaa_e ... mujhe tere jaisaa la.Dakaa}%
+\film{Raaz}%
+\year{2002}%
+\starring{Dino Maria, Bipasha basu, Sonali Kulkarni}%
+\singer{Udit narayan, Sarika Kapoor}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+% 
+%
+\printtitle
+#indian
+%
+mujhe tere jaisii la.Dakii mil jaa_e to kyaa baat ho
+kabhii paas bulaa_e kabhii chhup ke sataa_e
+meraa dil dha.Dakaa_e meraa chain churaa_e
+
+mujhe tere jaisaa la.Dakaa mil jaa_e to kyaa baat ho
+kabhii paas bulaa_e \threedots
+
+aa.Nkho.n me.n terii chaahat kaa nashaa
+zulfo.n me.n terii Kushbuu kii ghaTaa
+mujhe achchhii lage taariif terii
+ho ab naam tere har saa.Ns merii
+madahosh banaa_e meraa hosh u.Daa_e
+meraa dard ba.Dhaa_e nas nas me.n samaa_e
+mujhe tere jaisaa \threedots
+
+naa mujh se kabhii takaraar kare
+mujhe pyaar kare bas pyaar kare
+naa shak mujh pe kabhii yaar kare
+jo sirf meraa aitabaar kare
+palako.n me.n biThaa_e mere Kvaab sajaa_e
+tan man mahakaa_e merii pyaas bujhaa_e
+mujhe tere jaisii \threedots
+%
+#endindian
+\endsong

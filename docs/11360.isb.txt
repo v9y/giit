@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{haay ye tuune kyaa kiyaa}%
+\film{Duniya}%
+\year{1949}%
+\starring{Suraiya, Karan Deewan, Yaqub, Shakeela, Janakidas}%
+\singer{Suraiya, Rafi}%
+\music{C Ramchandra}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #12632 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+su \:	( haay ye tuune kyaa kiyaa mujhe phir ye kyaa bataa diyaa
+	dard jo miiThaa\-miiThaa thaa aur use ba.Dhaa diyaa
+	haay ye tuune kyaa kiyaa ) \-2
+
+ra \:	hamane to dil luTaa diyaa hamane to sar jhukaa diyaa \-2
+	ab to jo ho hu_aa kare \-2
+	hamane to ghar jalaa diyaa
+	dard jo miiThaa\-miiThaa thaa aur use ba.Dhaa diyaa
+	haay ye tuune kyaa kiyaa
+
+su \:	haay ye tuune kyaa kiyaa mujhe phir ye kyaa bataa diyaa
+	dard jo miiThaa\-miiThaa thaa aur use ba.Dhaa diyaa
+	haay ye tuune kyaa kiyaa
+
+su \:	dil se jo dil ko raah thii kab wo chhupaaye chhup sakii \-2
+	ho.nTho.n ne rok lii ha.Nsii aa.Nkho.n ne muskuraa diyaa \-2
+	dard jo miiThaa\-miiThaa thaa aur use ba.Dhaa diyaa
+	haay ye tuune kyaa kiyaa
+
+	haay ye tuune kyaa kiyaa mujhe phir ye kyaa bataa diyaa
+	dard jo miiThaa\-miiThaa thaa aur use ba.Dhaa diyaa
+	haay ye tuune kyaa kiyaa
+%
+#endindian
+\endsong
+%
+

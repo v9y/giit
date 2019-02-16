@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{maine ai jaan\-e\-vafaa tumase mohabbat kii hai}%
+\film{Bedaagh}%
+\year{1965}%
+\starring{Manoj Kumar, Nanda, Shashikala, Mehmood, Soniya Lee, Mumtaz}%
+\singer{Rafi, Suman}%
+\music{Roshan}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10486 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	maine ai jaan\-e\-vafaa tumase mohabbat kii hai
+	tumane ik dard mujhe de ke qayaamat kii hai
+
+su \:	is bharose pe ki mil jaa_e sahaaraa mujhako
+	( tumape qurabaan ) \-2 dil\-o\-jaan kii daulat kii hai
+	maine ai jaan\-e\-vafaa \threedots
+
+ra \:	husn sadake ho kisii par ye kahaa.N mumakin thaa \-2
+	( tumane mujh par ) \-2 meraa dil le ke inaayat kii hai
+	maine ai jaan\-e\-vafaa \threedots
+
+su \:	dil jo apanaa thaa kabhii aaj tumhaaraa hai sanam \-2
+	( ye tumhaarii hii ) \-2 nigaaho.n ne sharaarat kii hai
+do \:	maine ai jaan\-e\-vafaa \threedots
+%
+#endindian
+\endsong
+

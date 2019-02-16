@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{a aa ii u u uu meraa dil na to.Do}%
+\film{Raajaa Baabu}%
+\year{1994}%
+\starring{Govinda, Karisma, Kader, Shakti, Aruna Irani, Prem Chopra, Gulshan}%
+\singer{Poornima, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a aa ii u u uu meraa dil na to.Do
+ruuTh ke na jaa_o merii jaa.n paas mere aa_o merii jaa.n
+mai.n a.nguuThaa chhaap pa.Dhanaa aur likhanaa jaanuu.n na
+a aa ii u u uu isakaa dil na to.Do
+
+hai yahii merii tamannaa dil se dil mai.n jo.Duu.ngaa
+mai.n huu.N anaa.Dii kuchh to sikhaa de
+mujhako bhii apane jaisaa banaa de
+na sunuu.n ko_ii bahaanaa baat ko_ii maanuu.n na
+a aa ii u u uu meraa dil na to.Do \threedots
+
+aa sajaa duu.n mai.n bahaar jaan tere baalo.n me.n
+ra.ng holii kaa lagaa duu.n tere gore gaalo.n me.n
+mai.n teraa raajaa tuu merii raanii tujhase banegii merii kahaanii
+mai.n sivaa tere kisii bhii aur ko pahachaanuu.n na
+a aa ii u u uu meraa dil na to.Do \threedots
+%
+#endindian
+\endsong
+

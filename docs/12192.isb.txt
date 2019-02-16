@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tum jaise biga.De baabuu se mai.n a.Nkhiyaa.N bachaa_uu.N}%
+\film{Jab Pyar Kisi Se Hota Hai}%
+\year{1961}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10904 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tum jaise biga.De baabuu se mai.n a.Nkhiyaa.N bachaa_uu.N
+thin\-gin thin\-gin naachuu.N aur duniyaa ko nachaa_uu.N
+tum jaise biga.De \threedots
+
+aa.Nkho.n me.n madhushaale ra.ng bhare ye pyaale
+cha.ndaa\-suuraj dono.n mere kaano.n ke hai.n baale \-2
+apane aap ko kyaa samajho ho baabuu o baabuu
+tum jaise biga.De \threedots
+
+mukh pe laT laharaa_e ghan badaraa sharamaa_e
+niil gagan kaa baa.Nkaa raahii paayal baa.Ndhane aa_e \-2
+apane aap ko kyaa samajho ho baabuu o baabuu
+tum jaise biga.De \threedots
+%
+#endindian
+\endsong
+

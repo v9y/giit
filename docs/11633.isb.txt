@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{jisakaa juutaa usii kaa sar ... vaah re vaah terii ba.mba_ii}%
+\film{Guest House}%
+\year{1959}%
+\starring{Ajeet, Shakeela, Maruti, Lalita Pawar, Pran, Cukoo, Helen}%
+\singer{Mukesh}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10118 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jisakaa juutaa usii kaa sar dil hai chhoTaa ba.Daa shahar
+are vaah re vaah terii ba.mba_ii
+khaayaa dhokhaa ga_e jidhar dekho qismat phere kidhar
+are vaah re vaah terii ba.mba_ii
+
+aa ke yahaa.N kyaa mil gayaa jeb kaTii aur dil gayaa
+ra.ng tere is shahar ke dekh kalejaa hil gayaa
+maal na sahii jaan to bachii bhaag bhaag misTar
+jisakaa juutaa usii \threedots
+
+mem phire kis aan se saath hai kuttaa shaan se
+jaanavar se to pyaar hai pyaar nahii.n insaan se
+dekh naazanii.n ham bhii hai.n hasii.n itanaa naaz na kar
+jisakaa juutaa usii \threedots
+
+paas me.n moTar kaar ho bai.nk me.n tiis hazaar ho.n
+pyaar yahaa.n tab kiiji_e maal ye jab sarakaar ho
+naa to suuT hai naa buuT hai dekh pyaar se Dar
+jisakaa juutaa usii \threedots
+%
+#endindian
+\endsong
+

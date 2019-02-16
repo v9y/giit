@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{chuu.Dii sajii hai ... ##happy days are here again##}%
+\film{Om Jai Jagadish}%
+\year{2002}%
+\starring{Anil Kapoor, Abhishek Bachchan, Fardin Khan, Vahida Rahman, Mahima Chaudhary, Urmila Matondkar, Tara Sharma}%
+\singer{Udit Narayan, Alka Yagnik, Sonu Nigam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chuu.Dii sajii hai haatho.n me.n phir se bajii shahanaa_ii hai
+meha.ndii rachii hai pairo.n me.n dekho khushii ghar aa_ii hai
+
+##happy happy happy happy happy days are here again##
+kabhii naa kabhii haa.N karate karate merii jaa.n
+dekho naa apanii to ho ga_ii shaadii
+mahabuubaa mahabuubaa kal tak terii thii mahabuubaa
+ban ga_ii dekho aaj merii bhaabhii
+ko_ii na ko_ii to mil jaa_e kahii.n
+rab sabakii banaataa hai jo.Diyaa.N
+kahii.n na kahii.n yaaro.n kabhii naa kabhii
+miT jaa_e.N dilo.n kii duuriyaa.N
+aa_ii dekho aa_ii mere ghar kii laxmii
+ghar ko swarg banaane
+mere sapano.n kaa merii khushiyo.n kaa
+jhilamila sa.nsaar basaane
+##happy happy## \threedots
+
+ye du_aa ye du_aa ye hai maa.N kii du_aa
+na kabhii ab saath ye chhuuTe
+naa lage naa lage is ghar ko nazar
+ham se naa ab kabhii rab ruuThe
+hamako kasam hai hamako kasam
+terii mamataa pe sab kuchh vaar de.n
+dekhake hamako ye duniyaa jale
+ik duuje ko itanaa pyaar de.n
+ko_ii kuchh bole ab ko_ii kuchh bole
+ham maane.nge teraa kahanaa
+vaadaa kiyaa ye vaadaa kiyaa
+hame.n saath saath hai rahanaa
+##happy happy## \threedots
+%
+#endindian
+\endsong
+

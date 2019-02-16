@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{ab Darane kii ko_ii baat nahii.n a.ngarejii chhoraa chalaa gayaa}%
+\film{Majboor}%
+\year{1948}%
+\starring{Munavvar Sultana, Shyam}%
+\singer{Lata, Mukesh}%
+\music{Ghulam Haider}%
+\lyrics{Naajim Panipati}%
+%
+% Contributor: BOL ANAMOL #11874 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+mu \:	ab Darane kii ko_ii baat nahii.n
+	a.ngarejii chhoraa chalaa gayaa
+	a.ngarejii chhoraa
+do \:	wo goraa\-goraa chalaa gayaa
+	wo goraa\-goraa
+
+mu \:	aa
+	aa ham\-tum baiThe.n niim tale
+	do dilo.n ke ho.nge aaj bhale
+	o do dilo.n ke ho.nge aaj bhale
+	thaa jinakaa Dar wo gaye chale \-2
+	dukh\-dard kii gha.Diyaa.N biit gayii.n
+do \:	a.ngarejii chhoraa chalaa gayaa
+	a.ngarejii chhoraa
+	wo goraa\-goraa chalaa gayaa
+	wo goraa\-goraa
+
+la \:	ab nahii.n re
+	ab nahii.n hai raaz fira.ngii kaa
+	lo jha.nDaa lagaa tira.ngii kaa \-2
+	ab nahii.n zamaanaa ta.ngii kaa
+	ab dil me.n Kushiyaa.N aan basii
+la \:	a.ngarejii chhoraa chalaa gayaa
+	a.ngarejii chhoraa
+do \:	wo goraa\-goraa chalaa gayaa
+	wo goraa\-goraa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{mere sapano.n kii raanii tum nahii.n ho ... ho mil ga_ii}%
+\film{Jawaan Mohabbat}%
+\year{1971}%
+\starring{Shammi Kapoor, Asha Parekh, Balraj Sahni, Rajendra Nath, Nirupa Roy}%
+\singer{Rafi/ Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11184 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mere sapano.n kii raanii ( tum nahii.n ho ) \-3 \-2
+vo hai siidhii\-saadii bholii\-bhaalii hiranii jaisii aa.Nkho.n vaalii 
+haay mere sapano.n kii \threedots
+
+( jo usame.n adaa hai kisii me.n nahii.n
+jo usame.n hayaa hai kisii me.n nahii.n ) \-2
+mujhe merii jaan\-e\-vafaa chaahi_e
+mujhe to vahii dilarubaa chaahi_e
+mere sapano.n kii \threedots
+%
+% Part 2:
+%
+ra \:	( ho ( mil ga_ii ) \-5 \-2
+	mere sapano.n kii raanii mujhako mil ga_ii mil ga_ii ) \-2
+aa \:	( o ( khul ga_ii ) \-5 \-2
+	tum mile to merii qismat khul ga_ii khul ga_ii ) \-2
+
+ra \:	dil meraa diivaanaa thaa bin tere viiraanaa thaa
+	tere dam se baat banii varanaa ek afasaanaa thaa \-2
+	o ( Dhal ga_ii ) \-5
+	naagin jaisii kaalii rainaa Dhal ga_ii Dhal ga_ii
+aa \:	o khul ga_ii \threedots
+
+	tuu hai mast nigaaho.n me.n mere dil kii raaho.n me.n
+	dekh samaa.N kyaa kahataa hai aajaa ab to baa.Nho.n me.n \-2
+	o ( jal ga_ii ) \-5
+	shamaa Kushii kii mere dil me.n jal ga_ii jal ga_ii
+ra \:	o mil ga_ii \threedots
+aa \:	o khul ga_ii \threedots
+ra \:	o mil ga_ii \threedots
+%
+#endindian
+\endsong
+

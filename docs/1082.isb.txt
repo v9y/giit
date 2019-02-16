@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{maataa o maataa}%
+\film{Ab Dilli Door Nahin}%
+\year{1957}%
+\starring{Motilal, Romi, Sulochana, Yakub, Nana Palsikar}%
+\singer{Sudha Malhotra}%
+\music{Dattaram}%
+\lyrics{Shailendra}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: David Windsor (windeng@fac.anu.edu.au)
+% Credits: David Windsor (windeng@fac.anu.edu.au), Satish Kalra
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+maataa o maataa \- jo tuu aaj hotii
+mujhe yuu.N bilakhataa agar dekh letii
+terA dil TuuT jaataa
+maataa o maataa
+
+mujhe chuum kar tuune ek din kahaa thaa
+mere laaDale tuu to raajaa banegaa
+beaas, beghar mai.n phirataa huu.N dar\-dar
+mujhe yuu.N bhaTakataa agar dekh letii
+terA dil TuuT jaataa-
+maataa o maataa
+
+ik raat jab nii.nd mujhako na aaii
+tuune vo pariyo.n kii lorii sunaaii
+to sapane jage, nii.nd pal bhar me.n aaii
+jag so rahaa hai mai.n jaaguu.n akelaa
+mujhe yuu.N ta.Dapataa agar dekh letii
+terA dil TuuT jaataa
+maataa o maataa
+%
+#endindian
+\endsong
+%

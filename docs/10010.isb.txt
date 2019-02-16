@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{saa.Ns hai jab talak naa ruke.nge kadam ... ai vatan}%
+\film{23rd March 1931 Shaheed}%
+\year{2002}%
+\starring{Sunny Deol, Bobby Deol, Aishwarya Rai, Amrita Singh}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saa.Ns hai jab talak naa ruke.nge kadam
+chal pa.De hai.n to ma.nzil ko paa jaa_e.Nge
+ai vatan ai vatan ai vatan ai vatan
+
+vo javaanii jo khuu.n ko jalaatii nahii.n
+vo vatan ke li_e ra.ng laatii nahii.n
+daag lekar Gulaamii kaa kyuu.N ham jiye.n
+soch kar raat ko nii.nd aatii nahii.n
+saa.Ns hai jab talak \threedots
+
+hamane tay kar liyaa hamane le lii kasam
+khuun se apane sii.nche.nge ham ye chaman
+jaan lekar hathelii pe ham chal di_e
+baa.Ndhakar sar pe nikale hai.n ham ye qafan 
+saa.Ns hai jab talak \threedots
+%
+#endindian
+\endsong
+

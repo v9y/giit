@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{rab ne banaayaa tujhe mere li_e mujhe tere li_e}%
+\film{Heer Ranjhaa}%
+\year{1992}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Anuradha Paudwal, Suresh Wadekar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rab ne banaayaa tujhe mere li_e mujhe tere li_e
+ik banaa ke do Tuka.De kiye dil ta.Dapaayaa teraa mere li_e \-2
+rab ne banaayaa tujhe \threedots
+
+aaj kii apanii mulaaqaat nahii.n ye
+terii merii sochii baat nahii.n ye
+huqm\-e\-ilaahii hai ye kii kari_e rabbaa kii kari_e
+rab ne banaayaa tujhe \threedots
+
+ishq ko dil kaa iimaan banaa kar
+apane Kudaa kaa faramaan banaa kar
+kasame.n uThaa_ii.n hamane vaade ki_e
+rab ne banaayaa tujhe \threedots
+
+sitam sab hai.n logo.n ga.nvaaraa hame.n
+judaa mat karo phir Kudaaraa hame.n
+muhabbat ne har baar paidaa kiyaa
+zamaane ne har baar maaraa hame.n
+kabhii shiirii farahaad hamako kahaa
+kabhii lailaa majanuu.n kahaa
+duniyaa ne hamako kitane naam di_e haay naam di_e
+rab ne banaayaa tujhe \threedots
+%
+#endindian
+\endsong
+
+

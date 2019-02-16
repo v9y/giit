@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham haal-e-dil sunaaye.nge}%
+\film{Madhumati}%
+\year{1958}%
+\starring{Vyjayantimala, Dilip Kumar}%
+\singer{Mubarak Begum, chorus}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tumhaaraa dil mere dil ke baraabar ho nahii.n sakataa
+vo shiishaa ho nahii.n sakataa ye patthar ho nahii.n sakataa
+
+ham haal-e-dil sunaaye.nge suniye ki na suniye \-2
+sau baar muskuraaye.nge suniye ki na suniye
+ham haal-e-dil sunaaye.nge \threedots
+
+rahegaa ishq teraa Kaaq me.n milaa ke mujhe
+hue hai.n ibtadaa-e-ra.nj ... i.ntahaa ke mujhe
+ham haal-e-dil sunaaye.nge \threedots
+
+ajab hai aah merii naam... hai meraa
+tamaam shahar jalaa doge kyaa jalaa ke mujhe
+ham haal-e-dil sunaaye.nge \threedots
+
+%
+#endindian
+\endsong
+%

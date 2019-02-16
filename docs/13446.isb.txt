@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{chaa.Nd saa lallaa ghar aayaa hai}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Sudesh Bhonsale, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Idrees}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay haay mubaarak ho mubaarak ho haay la.Dakaa hu_aa hai
+haay chaa.Nd saa lallaa ghar aayaa hai haay mai.n vaarii jaa_uu.n
+aasamaa.n se utar kar kamar aa gayaa
+chaa.Nd saa lallaa maa.N tere ghar aa gayaa 
+ab masarrat kii baaje.ngii shahanaa_iiyaa.n
+aur phuulo.n se mahake.ngii a.nganaa_iiyaa.n
+terii nazaro.n kaa ai jamiilaa zaraa jam ke hilaa
+terii nazaro.n kaa nuur\-e\-nazar aa gayaa
+chaa.Nd saa lallaa \threedots
+
+haay tumako hamaarii umar lag jaa_e
+maa.N husn ke tere ye aks hai.n gahare
+baap aur beTe ke ek jaise chehare
+munne ke abbaa haay haay tum kahaa.n the ab tak haay haay
+chho.De.nge na tumako haay haay kuchh mile na jab tak haay haay
+munne kii ammaa haay haay shauhar ko bolo haay haay
+kuchh gaa.nTh rupayo.n kii haay haay jaldii se kholo haay haay
+munne ke abbaa jii aise naa bolo haay haay
+sab gher lo milakar haay haay are jeb TaTolo haay haay
+are naach naach ke apanaa nikal gayaa ##juice##
+are munne teraa abbbaa ba.Daa hii ka.njuus
+biich vaalo.n kaa ai maaTii milii zaraa uchhaal
+biich vaalo.n kaa dekho juluus aa gayaa
+chaa.Nd saa lallaa \threedots
+%
+#endindian
+\endsong
+

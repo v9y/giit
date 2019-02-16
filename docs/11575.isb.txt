@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{teraa naam meraa naam teraa din merii shaam}%
+\film{Ghar Aayaa Meraa Pardesi}%
+\year{1992}%
+\starring{Avinash Wadhawan, Versha Usgaonkar, Gulshan, Bhagyashri, Vikram Gokhale}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Vijay Singh}%
+\lyrics{Ravindra Peepat}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa naam meraa naam teraa din merii shaam
+ik ho ga_e jab dono.n o
+teraa ghar meraa ghar teraa dil meraa dil
+mil ga_e jab ye dono.n o
+bhuul ke saarii duniyaa ko
+ham to chale apanii ma.nzil ko
+teraa naam meraa naam \threedots
+
+chup chup rahanaa mushkil kahanaa javaa.n dilo.n ne kab hai maanaa
+o pyaar me.n vo taaqat hai jhuk jaataa hai saaraa zamaanaa
+to.D kinaare dariyaa bahanaa yahii muhabbat me.n hai jaanaa
+teraa naam meraa naam \threedots
+
+haath paka.D aur vaadaa kar saarii umar tum merii rahogii
+o le le qasam janmo.n janam mai.n terii huu.N terii rahuu.Ngii
+pyaar kare.nge jii jaan se likh de.nge ham aasamaan pe 
+teraa naam meraa naam \threedots
+%
+#endindian
+\endsong
+

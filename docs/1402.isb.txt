@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{paapaa kahate hai.n ba.Daa naam karegaa}% 
+\film{Qayamat Se Qayamat Tak}%
+\year{1988}%
+\starring{Aamir, Juhi Chawala}%
+\singer{Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: Porkey (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+paapaa kahate hai.n ba.Daa naam karegaa 
+beTaa hamaaraa aisaa kaam karegaa 
+magar ye to, koii nA jaane 
+ke merii ma.nzil, hai kahaa.N 
+
+1) baiThe hai.n milake, sab yaar apane 
+sabake dilo.n me.n, aramaa.n ye hai 
+vo zindagii me.n, kal kyaa banegaa 
+har ik najar kaa, sapanaa ye hai 
+koii ##engineer## kaa kaam karegaa 
+##business## me.n koii apanaa naam karegaa, magar ye to \threedots 
+
+2) meraa to sapanaa, hai ek cheharaa 
+dekhe jo usako, jhuume bahaar 
+gaalo.n me.n khilatii, kaliyo.n kaa mausam 
+aa.Nkho.n me.n jaaduu, hoTho.n me.n pyaar 
+bandaa ye khUbasUrat kaam karegaa 
+dil kii duniyaa me.n apanaa naam karegaa, magar ye to \threedots 
+%
+#endindian
+\endsong
+%

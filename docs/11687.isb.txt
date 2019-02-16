@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dil ne kar liyaa aitbaar ... jab se mile ho mujhe o jaan\-e\-jaanaa}%
+\film{Humraaz}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel, Akshay Khanna}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+dil ne kar liyaa aitabaar
+ham ko ho gayaa tum se pyaar
+jab se mile ho mujhe o jaan\-e\-jaanaa
+tab se hai jaanaa kyaa hai dil kaa lagaanaa
+ye adaa_e.N terii kar ga_ii.n mujhe diivaanaa
+diivaanaa diivaanaa diivaanaa diivaanaa
+dil ne kar liyaa \threedots
+
+ye nigaahe.n terii kar ga_ii.n mujhe diivaanaa
+dil ne kar liyaa \threedots
+
+laa raa la raa la la laa la la laa la la laa
+mauqaa dil ne diyaa hii nahii.n pyaar hu_aa kab pataa nahii.n
+ban ke muqaddar tum aa_e kahii.n nazar naa lag jaa_e
+jab se mile ho \threedots
+
+le jaa dil paradesii
+chain ho tum aaraam ho tum is dil kaa aramaan ho tum
+merii subah\-o\-shaam ho tum jaan merii pahachaan ho tum
+jab se mile ho \threedots
+%
+#endindian
+\endsong
+

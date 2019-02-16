@@ -1,0 +1,49 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{mahabuubaa mahabuubaa mahabuubaa mahabuubaa}%
+\film{Sholay}%
+\year{1975}%
+\starring{Jala Agha, Helen}%
+\singer{R D Burman}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: Music India
+% Contributor: Asif Alvi
+% Transliterator: Asif Alvi
+% Date: 11 Nov 2004
+% Series: THGHT
+% Comments: Originally Manna Dey was supposed to sing it.  Thanks heavens, he did not.
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+mahabuubaa mahabuubaa 
+mahabuubaa mahabuubaa
+
+gulashan me.n gul khilate hai.n
+jab saharaa me.n milate hai.n
+mai.n aur tuu
+mahabuubaa mahabuubaa 
+mahabuubaa mahabuubaa
+
+chaa.Nd sitaaro.n se nikalaa
+phuul bahaaro.n se nikalaa
+din Duubaa
+mahabuubaa mahabuubaa 
+mahabuubaa mahabuubaa
+
+husn aur ishq kii raaho.n me.n
+baaho.n me.n aur nigaaho.n me.n
+din Duubaa
+mahabuubaa mahabuubaa 
+mahabuubaa mahabuubaa
+
+mahabuubaa mahabuubaa 
+mahabuubaa mahabuubaa
+
+%
+#endindian
+\endsong

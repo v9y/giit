@@ -1,0 +1,69 @@
+
+%
+\startsong
+\stitle{he ho dhoye mahobe ghaaT ... dhobiyaa re dhobiyaa kahaa.N tumhaaro}%
+\film{Pukaar}%
+\year{1939}%
+\starring{Sohrab Modi, Chandramohan, Nasim Bano, Sheela, Sardar Akhtar}%
+\singer{Sardar Akhtar, Male Voice, Chorus}%
+\music{Mir Sahab}%
+\lyrics{Kamal Amrohi}%
+%
+% Contributor: BOL ANAMOL #11986 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	he ho dhoye mahobe ghaaT \-2
+sa \:	dhobiyaa re dhobiyaa
+	kahaa.N tumhaaro
+	yaunan kaunan
+	kahaa.N tumhaaro ghaaT
+	he ho kahaa.N tumhaaro ghaaT \-2
+ko \:	mirazaapur me.n 
+	aunan kaunan
+	kabhii hamaaro ghaaT
+	he ho kabhii hamaaro ghaaT \-3
+
+	haiyo raam \-6
+	dhoye mahobe ghaaT
+	he ho dhoye mahobe ghaaT
+	
+##male## \:	ho
+	chaa.Ndii kii nadiyaa me.n dhoban kii a.ngiyaa \-2
+	dhoye re dhoye re mas\-mas dhotiyaa \-2
+	cham\-cham chamakegii a.ngiyaa pahan ke \-2
+	barase.nge chundarii pe taare gagan ke \-2
+
+ko \: dhoye mahobe ghaaT
+	he ho dhoye mahobe ghaaT \-3
+
+##male## \:	sundarii re sundarii
+	sajo tumhaaro 
+	pyaaro joban
+	sajo tumhaaro ghaaT
+	he ho sajo tumhaaro ghaaT \-3
+sa \:	hamaraa tumharaa ba.ndhe re pai.njan \-2
+	chale.n niraale ThaaTh
+	he ho chale.n niraale ThaaTh \-2
+
+ko \:	haiyo raam \-6
+	dhoye mahobe ghaaT
+	he ho dhoye mahobe ghaaT
+
+sa \:	ho more dhobiyaa kii paga.Dii puraanii \-2
+	paga.Dii puraanii kyuu.N dhoye mahaaraanii \-2
+##male## \:	paga.Dii kii chunnaT me.n a.ngiyaa lipaT ga_ii \-2
+	dhobiyaa kii godii me.n raanii simaT gayii \-2
+
+ko \: dhoye mahobe ghaaT
+	he ho dhoye mahobe ghaaT \-3
+
+	haiyo raam \-6
+	dhoye mahobe ghaaT
+%
+#endindian
+\endsong
+

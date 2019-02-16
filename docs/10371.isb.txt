@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{kal kii daulat aaj kii Kushiyaa.N ... asalii kyaa hai naqalii kyaa hai}%
+\film{Asli Naqli}%
+\year{1962}%
+\starring{Dev Anand, Sadhana}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10918 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( kal kii daulat aaj kii Kushiyaa.N unakii mahafil apanii galiyaa.N
+asalii kyaa hai naqalii kyaa hai puuchho dil se mere ) \-2
+asalii kyaa hai \threedots
+
+( to.D ke jhuuThe naate rishte aayaa mai.n dilavaalo.n me.n
+sach kahataa huu.N chor the jyaadaa daulat ke rakhavaalo.n me.n ) \-2
+asalii kyaa hai \threedots
+
+( us duniyaa ne baat na puuchhii is duniyaa ne pyaar diyaa
+baiThaa man ke raajamahal me.n sapano.n kaa sa.nsaar diyaa ) \-2
+asalii kyaa hai \threedots
+%
+#endindian
+\endsong
+

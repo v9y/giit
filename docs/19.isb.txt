@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aa palako.n me.n aa}%
+\film{Mad Bhare Nain}%
+\year{1955}%
+\starring{Kishore}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Chetan Vinchhi
+% Comments: A Tribute to Sachin Dev Burman #1
+%
+\printtitle
+#indian
+%
+
+aa palako.n me.n aa, sapane sajaaaa 
+behosh raato.n kii ni.ndiyaa churaa
+aa palako.n me.n aa \threedots
+
+jis raaginii ko bhiigii hu_ii chaa.ndanii gaa rahii hai
+mere dhaDakate dil se usii kii sadaa aa rahii hai
+aa palako.n me.n aa \threedots
+
+yah pyaas kaisii hai aakar ye jalate sitaaro.n se puuchh le
+bechainiyaa.N har pal machalatii bahaaro.n se puuchh le
+aa palako.n me.n aa \threedots
+%
+#endindian
+\endsong
+%
+

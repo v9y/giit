@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{meraa juutaa hai jaapaanii, ye pataluun i.nglistaanii}%
+\film{Shree 420}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator:  Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: Satyan R. Coorg (satyan@au-bon-pain.lcs.mit.edu)
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+meraa juutaa hai jaapaanii, ye pataluun i.ngalistaanii
+sar pe laal Topii ruusii, phir bhii dil hai hi.ndustaanii
+meraa juutaa\threedots
+
+nikal pa.De hai.n khulii sa.Dak par
+apanaa siinaa taane \- (2)
+ma.nzil kahaa.N kahaa.N rukanaa hai
+uupar vaalaa jaane \- (2)
+ba.Dhate jaaye.n ham sailaanii, jaise ek dariyaa tuufaanii
+sar pe laal\threedots
+
+uupar niiche niiche uupar
+lahar chale jiivan kii \- (2)
+naadaa.N hai.n jo baiTh kinaare
+puuchhe.n raah vatan kii \- (2)
+chalanaa jiivan kii kahaanii, rukanaa maut kii nishaanii
+sar pe laal\threedots
+
+ho.nge raaje raajaku.Nvar ham
+biga.De dil shahazaade \- (2)
+ham si.nhaasan par jaa baiThe
+jab jab kare.n iraade \- (2)
+suurat hai jaanii pahachaanii, duniyaa vaalo.n ko hairaanii
+sar pe laal\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{zi.ndagii ek safar hai suhaanaa}%
+\film{Andaaz}%
+\year{}%
+\starring{Rajesh Khanna}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Arun Verma (verma@cs.cornell.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(zi.ndagii ek safar hai suhaanaa
+yahaa.N kal kyaa ho kisane jaanaa ) \- 2
+
+(ha.Nsate gaate jahaa.N se guzar
+duniyaa kii tuu paravaah na kar ) \- 2
+muskuraate hue din bitaanaa
+yahaa.N kal kyaa ho kisane jaanaa
+haa.N zi.ndagii ek safar \threedots
+
+(maut aanii hai aaegii ik din
+jaan jaanii hai jaaegii ik din ) \- 2
+aisii baato.n se kyaa ghabaraanaa
+yahaa.N kal kyaa ho kisane jaanaa
+haa.N zi.ndagii ek safar \threedots
+
+(chaa.Nd taaro.n se chalanaa hai aage
+aasamaano.n se ba.Dhanaa hai aage ) \- 2
+piichhe rah jaaegaa ye zamaanaa
+yahaa.N kal kyaa ho kisane jaanaa
+haa.N zi.ndagii ek safar \threedots
+%
+#endindian
+\endsong
+%

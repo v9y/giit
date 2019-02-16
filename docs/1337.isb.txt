@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{nazar aatii nahii.n ma.nzil, ta.Dapane se bhii kyaa haasil}%
+\film{Kaanch Aur Heera}%
+\year{1972}%
+\starring{Pankaj, Shamim}%
+\singer{Rafi / Chandrani Mukherjee}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: The lyrics are for the Rafi version. It is not know if the tandem
+%           has the same lyrics.
+%
+\printtitle
+#indian
+%
+nazar aatii nahii.n ma.nzil, ta.Dapane se bhii kyaa haasil
+taqadiir me.n ai mere dil, a.ndhere hii a.ndhere hai.n
+
+majabuurii ne jisako maaraa, usakaa kaun sahaaraa
+maa.njhii to mil jaate hai.n par milataa nahii.n kinaaraa
+
+naino.n se yuu.N chhin ga_ii jyotii siip se jaise motii
+ek jaan aur sau dushman hai.n, kaash ye jaan na hotii
+%
+#endindian
+\endsong
+%

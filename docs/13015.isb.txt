@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{meraa dil to.Dane vaale mere dil kii du_aa lenaa}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Mukesh, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10640 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	meraa dil to.Dane vaale mere dil kii du_aa lenaa
+	miTaakar merii duniyaa ko na_ii duniyaa basaa lenaa
+
+sha \:	mohabbat kii qasam tumako lagii dil kii bujhaa lenaa
+	hamaarii yaad jab aa_e to do aa.Nsuu bahaa lenaa
+
+mu \:	nahii.n aataa vafaa_o.n se hame.n daaman bachaa lenaa
+	tumhii.n par jaan de de.nge kisii din aazamaa lenaa
+	meraa dil to.Dane vaale \threedots
+
+sha \:	mohabbat naam hai Gam kaa Kushii se Gam uThaa lenaa
+	agar dil ko na chain aa_e to kuchh ro\-ro ke gaa lenaa
+mu \:	miTaakar merii duniyaa \threedots
+sha \:	hamaarii yaad jab aa_e \threedots
+%
+#endindian
+\endsong
+

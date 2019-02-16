@@ -1,0 +1,74 @@
+% ITRANS SONG
+
+\startsong
+\stitle{e jii o o kuchh to bolo itanii kyuu.N hamase naaraaz ho}%
+\film{Aanchal}%
+\year{1960}%
+\starring{Ashok Kumar, Nirupa Roy, Nanda, Sudesh Kumar, Seema Deo}%
+\singer{Asha, Mahendra Kapoor}%
+\music{C Ramchandra}%
+\lyrics{Pradeep}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ma \:	e jii o o
+	kuchh to bolo
+	itanii kyuu.N hamase naaraaz ho
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+
+ma \: aisaa kyaa kasuur hu_aa gorii taabedaar se \-2
+aa \: Gairo.n se milate ho jii tum to ba.De pyaar se \-2
+ma \: zaraa sii ye Galatii hai
+	ajii ye to chalatii hai
+	ab to mem saab maaf kar do
+
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+ma \:	e jii o o
+	kuchh to bolo
+	itanii kyuu.N hamase naaraaz ho
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+
+ma \: jaise bhii ham hai tumhaare hai.n raanii \-2
+aa \: haath meraa chho.diye jii ba.Dii meharabaanii \-2
+ma \:	chho.Do ye Gussaa chho.Do
+	puraanaa qissaa chho.Do
+	e jii dil to.Do naa musakaraa do
+
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+ma \:	e jii o o
+	kuchh to bolo
+	itanii kyuu.N hamase naaraaz ho
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+
+aa \:	naazuk hai dil meraa ab naa dukhaanaa \-2
+	waranaa pa.Degaa tumhe.n jii baad me.n pachhataanaa \-2
+ma \:	to.De.nge naa pyaarii
+	ham to wafaadaarii
+	jab bhii jii chaahe aazamaa lo
+
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+ma \:	e jii o o
+	kuchh to bolo
+	itanii kyuu.N hamase naaraaz ho
+aa \:	mai.n tumhe.n jaan ga_ii
+	haTo pahachaan ga_ii
+	jaa_o jaa_o jii tum ho ba.De wo
+
+#endindian
+\endsong

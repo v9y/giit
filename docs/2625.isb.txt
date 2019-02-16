@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{Kvaab ban kar koii aayegaa}%
+\film{Razia Sultan}%
+\year{1982}%
+\starring{Hema Malini, Dharmendra}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments: Lata uses "sh" instead of "s" throughout the song
+%           "she" for "se" and "shunaayegaa" for "sunaayegaa" and so on
+%
+\printtitle
+#indian
+%
+
+chuum kar raat jo sulaayegii to nii.nd aayegii
+Kvaab ban kar koii aayegaa to nii.nd aayegii
+ab vahii aa ke sulaayegaa to nii.nd aayegii
+Kvaab ban kar \threedots
+
+baat jo sirf nigaaho.n se kahii jaatii hai
+koii ho.nTho.n se sunaayegaa to nii.nd aayegii
+Kvaab ban kar \threedots
+
+narm zulfo.n kii mahak garm badan kii khushabuu
+chupake chupake vo churaayegaa to nii.nd aayegii
+Kvaab ban kar \threedots
+
+jism haatho.n kii haraarat se pighal jaayegaa
+aag rag rag me.n lagaayegaa to nii.nd aayegii
+Kvaab ban kar \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{haay jiyaa roe roe, piyaa naahi aae aae}%
+\film{Milan}%
+\year{}%
+\starring{Ajit, Nalini Jaywant}%
+\singer{Lata}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: 
+% Editor: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+haay jiyaa roe roe \-2
+piyaa naahi aae aae
+haay jiyaa roe roe \-2
+ik mai.n hii jaaguu.N \-2
+saaraa jag soe
+haay jiyaa roe roe \-2
+
+tumane to dekhaa hogaa, ai chaa.Nd taaro.n \-2
+kit gae more sai.nyaa, tum hii pukaaro
+o tum hii pukaaro, jaao unako itanaa bataao
+haay jiyaa roe roe \threedots
+
+kab tak jiye koii birahaa kii maarii \-2
+cha.Ndaa terii chaa.Ndanii mohe laagii a.Ndhiyaare
+aao sai.nyaa, ab to aa jaao
+%
+#endindian
+\endsong
+%

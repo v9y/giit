@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kyo.n yaad aa rahe hai.n}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Suresh, Suraiyya, Noorjehan}%
+\singer{Surendra}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+kyo.n yaad aa rahe hai.n 
+guzare hue zamaane 
+ye sukh bhare fasaane 
+rote hue taraane 
+kisako sunaa rahe hai.n 
+kyo.n yaad rahe hai.n 
+
+kyo.n muskuraa rahe hai.n 
+dekho agar to samajho 
+aa.Nsuu bahaa rahe hai.n 
+kyo.n yaad aa rahe hai.n 
+
+kyaa vaqt hai nA jaane 
+kyo.n hichakiyo.n kii lay pe 
+gaate Gam ke gaane 
+ham bhor ke diye hai.n 
+bujhate hii gaa rahe hai.n 
+kyo.n yaad aa rahe hai.n 
+%
+#endindian
+\endsong
+%

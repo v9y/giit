@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{Kvaab ho tum yaa koii haqiikat, kaun ho tum batalaao}%
+\film{Teen Deviyan}%
+\year{}%
+\starring{Dev Anand, Nanda, Kalpana, Simi}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+Kvaab ho tum yaa koii haqiiqat
+kaun ho tum batalaao
+der se kitanii duur kha.Dii ho
+aur kariib aa jaao
+
+subah pe jis tarah, shaam kaa ho gumaar \- (2)
+zulfo.n me.n ek cheharaa, kuchh zaahir kuchh nihaar
+
+dha.Dakano.n ne sunii, ek sadaa paao.n kii \- (2)
+aur dil pe laharaaii, aa.Nchal kii chhaao.n sii
+
+mil hii jaatii ho tum, mujhako har mo.D pe \- (2)
+chal detii ho kitane, afasaane chho.D ke
+
+phir pukaaro mujhe, phir meraa naam lo \- (2)
+girataa huu.N phir apanii, baaho.n me.n thaam lo
+%
+#endindian
+\endsong
+%

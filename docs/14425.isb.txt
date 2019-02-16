@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{tohafaa ... pyaar kaa tohafaa teraa banaa hai jiivan meraa}%
+\film{Tohfaa}%
+\year{1984}%
+\starring{Jitendra, Sridevi, Jayaprada}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa \:	tohafaa tohafaa tohafaa tohafaa
+	laayaa laayaa laayaa laayaa
+	mere mere mere mere
+	dil pe chhaayaa chhaayaa chhaayaa chhaayaa
+
+	pyaar kaa tohafaa teraa banaa hai jiivan meraa \-2
+	dil ke sahaare maine paa li_e
+	jiine ko aur kyaa chaahi_e
+
+ki \:	pyaar kaa tohafaa teraa \threedots
+	tohafaa tohafaa tohafaa
+aa \:	laayaa laayaa laayaa
+
+aa \:	jaa.N ke binaa jaise ho tan tere binaa mai.n aise sajan
+ki \:	kastuurii saa teraa badan mahakii mahakii phiratii pavan \-2
+	dau.De mere man kaa hiran chhuune ko yauvan teraa
+	taa taa taa
+aa \:	pyaar kaa tohafaa teraa \threedots
+ki \:	pyaar kaa tohafaa teraa \threedots
+aa \:	tohafaa tohafaa tohafaa tohafaa
+ki \:	laayaa laayaa laayaa laayaa
+
+ki \:	tohafaa to bas ik naam hai dil kaa mere paiGaam hai
+aa \:	saa.Dii nahii.n teraa pyaar hai suhaagan kaa ye si.ngaar hai \-2
+	resham ke ruup me.n tan se mere lipaTaa hu_aa man teraa
+	taa taa taa
+	pyaar kaa tohafaa teraa \threedots
+ki \:	pyaar kaa tohafaa teraa \threedots
+ki \:	tohafaa tohafaa tohafaa tohafaa
+aa \:	laayaa laayaa laayaa laayaa
+%
+#endindian
+\endsong
+

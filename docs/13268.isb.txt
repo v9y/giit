@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{yaad aa_ii hai bekasii chhaa_ii hai}%
+\film{Nageenaa}%
+\year{1951}%
+\starring{Nasir Khan, Nutan, Bipin Gupta, Hiralal}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11905 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+yaad aa_ii hai
+bekasii chhaa_ii hai
+ro rahii hai Kushii
+aa.Nkh bhar aa_ii hai
+
+aa.Nsuu bhii piye terii yaad me.n haradam
+mar\-mar ke jiye ab kisase kahe.n ham
+haay kyaa ho gayaa
+wo kahaa.N kho gayaa
+dil meraa so gayaa
+
+zaalim zamaane na itanaa sataa
+wo hai.n kahaa.N tuu bataa de pataa
+aas miTii meraa chain luTaa chain luTaa
+miT gayaa hai nishaa.N
+luT gayaa aashiyaa.N
+maut kaa hai samaa.N
+
+tuufaan me.n hai ulfat kaa safiinaa
+khoyaa hai mere is dil kaa nagiinaa
+pyaar to naa hu_aa
+dard duur naa hu_aa
+saath tuu naa hu_aa
+
+yaad aa_ii hai
+bekasii chhaa_ii hai
+ro rahii hai Kushii
+aa.Nkh bhar aa_ii hai
+%
+#endindian
+\endsong
+

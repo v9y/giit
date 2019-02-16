@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{dekh ke tumako ... o hamako tumase ho gayaa hai pyaar}%
+\film{Amar Akbar Anthony}%
+\year{1977}%
+\starring{Rishi, Neetu, Mukri, Amitabh, Vinod Khanna, Parveen Babi, Shabana, Pran, Nirupa Roy, Jeevan}%
+\singer{Kishor, Lata, Mukesh, Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11269 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	dekh ke tumako dil Dolaa hai
+	##God promise## ham sach bolaa hai
+	o hamako tumase ho gayaa hai pyaar kyaa kare.n
+	bolo to ji_e.N bolo to mar jaa_e.N \-2
+la \:	o hamako tumase \threedots
+
+ki \:	kabhii boluu.N mai.n kabhii bole tuu ##I love you##
+la \:	##love you##
+	maine tumape tumane mujh pe kar diyaa jaaduu
+ 	##I love you##
+ki \:	##love you##
+ki \:	ab tak chhupaa_e rakhaa sholaa dabaa_e rakhaa
+aa \:	ab tak chhupaa_e \threedots
+ki \:	raaz ye hamane ab kholaa hai
+	##God promise## ham \threedots
+	o hamako tumase \threedots
+do \:	hamako tumase \threedots
+
+la \:	kaise mai.n boluu.N tere sa.ng mai.n Doluu.N
+mu \:	tere sa.ng jiivan kii Dor ba.Ndhii hai
+	mai.n sapano.n kaa saagar tuu prem nadii hai
+	ab tak chhupaa_e \threedots
+aa \:	ab tak chhupaa_e \threedots
+mu \:	chaa.Nd\-chakorii jyuu.N duniyaa me.n
+	raam qasam tuu rahe jiyaa me.n
+	hamako tumase \threedots
+do \:	bolo to ji_e.N \threedots
+	hamako tumase \threedots
+
+ra \:	dil me.n dilabar tuu rahataa hai
+	Kudaa Gavaah ham sach kahataa hai
+	hamako tumase \threedots
+
+	ek to akabar kaa salaam usame.n shaamil teraa naam
+	do lafzo.n me.n kahataa huu.N mukh se kissaa tamaam
+	mai.n shaayar huu.N meraa hai vaastaa hasiino.n se
+	terii furqat me.n soyaa nahii.n mahiino.n se
+la \:	nahii.n karate ye baate.n paradaanashiino.n se
+	sar\-e\-baazaar chho.Do chhe.D mahazabiino.n se
+ra \:	ab tak chhupaa_e \threedots
+aa \:	ab tak chhupaa_e \threedots
+ra \:	husn hameshaa ruuThaa rahataa hai
+	Kudaa Gavaah ham \threedots
+%
+#endindian
+\endsong
+

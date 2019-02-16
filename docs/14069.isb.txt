@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{hai deshii dhun videshii taal puurab pashchim kaa sa.ngam}%
+\film{Sau Karod}%
+\year{1991}%
+\starring{Dev Anand, Fatima Sheikh, Raman Kapoor, Naseerunddin Shah, Anupam Kher}%
+\singer{Kavita Subramaniam, Kumar Sanu}%
+\music{Bappi Lahiri}%
+\lyrics{Suraj Saneem}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ka \:	hai deshii dhun
+ku \:	videshii taal
+ka \:	puurab pashchim kaa sa.ngam
+ku \:	vaah vaa hu_aa hai kamaal 
+do \:	deshii dhun \threedots
+
+ka \: ( dhin taa naa naa \-2
+ku \:	haay rabbaa \-2 ) \-2
+ka \:	merii ##power## merii adaa ko_ii ##match## kare to maanuu.N
+ku \:	la.Dakii ko ##cheque## dil kaa de baiThaa vo ##cash## kare to jaanuu.N
+ka \:	##I love you. you love me.##
+ku \:	khul ke ##romance## kare.n
+ka \:	deshii dhun \threedots
+
+ku \:	pyaar ko mere ##yes## kar do to tumako kar luu.N bas me.n
+ka \:	kachchii umr me.n terii ho ke rah jaa_uu.Ngii ghuT ke
+ku \:	kab tak titalii ban ke u.Dogii
+ka \:	khe.DaN de din chaar
+ku \:	deshii dhun \threedots
+
+	apane desh me.n baat dilo.n kii kah naa paataa khul ke
+	jo ho ijaazat mai.n mar jaa_uu.N naam tumhaaraa leke
+	chusakii hai yaaro.n hamane lagaa_ii ham bhii kare.nge hallaa ho
+do \:	deshii dhun \threedots
+%
+#endindian
+\endsong
+

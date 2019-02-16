@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{matavaalaa jiyaa Dole piyaa}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Rajkumar, Sunil Dutt, Rajendra Kumar, Kanhaiya Lal, Kumkum}%
+\singer{Lata, Rafi, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10033 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+la \:	matavaalaa jiyaa Dole piyaa jhuume ghaTaa chhaa_e re baadal
+ra \:	karanaa hai to kar pyaar na Dar biitii umar aa_egii naa kal
+	are paagal \-2
+ko \:	matavaalaa jiyaa \threedots
+	karanaa hai to kar \threedots
+
+la \:	aramaan bharaa dil hai balam tere havaale
+	tuu apanaa banaa le are tuu apanaa banaa le
+ra \:	saavan hai javaanii pe lagii dil kii bulaa le
+	ha.Ns le zaraa gaa le are ha.Ns le zaraa gaa le
+la \:	naache meraa man aaj sajan chhan chhananan bole re paayal
+ko \:	matavaalaa jiyaa \threedots
+	karanaa hai to kar \threedots
+
+ra \:	ho dil teraa diivaanaa merii aa.Nkhe.n bhii diivaanii
+	kuchh de de nishaanii are kuchh de de nishaanii
+la \:	duniyaa ke maze luuT le jiivan hai kahaanii
+	do din hai javaanii are do din hai javaanii
+ra \:	duniyaa hai ba.Dii jaaduu bharii merii galii saath mere chal
+ko \:	karanaa hai to kar \threedots
+	matavaalaa jiyaa \threedots
+%
+#endindian
+\endsong
+

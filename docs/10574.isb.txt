@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{agar zi.ndagii ho to tere sa.ng ho ... balamaa}%
+\film{Balmaa}%
+\year{1992}%
+\starring{Avinash Wadhawan, Ayesha, Saeed Jafrey, Anjana Mumtaz, Shammi}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa \:	agar zindagii ho to tere sa.ng ho
+	jab tak ye duniyaa ye aalam rahe \-2
+	pyaar teraa is dil me.n baalam rahe
+ku \:	mere pyaase dil pe naa ko_ii duujaa ra.ng cha.Dhe
+	kam naa ho har lamhaa terii chaahat aur ba.Dhe
+aa \:	balamaa \-4
+	agar zindagii ho to \threedots
+
+aa \:	ab naa kabhii ruuThe ye tere vaado.n kaa mausam
+	merii yaado.n me.n mahake terii yaado.n kaa mausam
+	balamaa \-4
+ku \:	agar zindagii ho to \threedots
+%
+#endindian
+\endsong
+

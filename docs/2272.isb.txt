@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ai ajanabii tuu bhii kabhii}%
+\film{Dil Se}%
+\year{1998}%
+\starring{Shahrukh Khan, Manisha Koirala}%
+\singer{}%
+\music{A R Rahman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Tom Cownan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor: Alfaaz
+%
+\printtitle
+#indian
+%
+
+o paakhii paakhii paradesii
+
+ai ajanabii tuu bhii kabhii aavaaz de kahii.n se
+mai.n yahaa.N Tuka.Do.n me.n jii rahaa huu.N
+tuu kahii.n Tuka.Do.n me.n jii rahii hai
+ai ajanabii tuu bhii kabhii   \threedots
+
+roz roz resham sii havaa, aate jaate kahatii hai
+bataa resham sii havaa kahatii hai bataa
+vo jo duudh dhulii, maasuum kalii
+vo hai kahaa.N kahaa.N hai vo roshanii, kahaa.N hai
+vo jaan sii kahaa.N hai
+mai.n adhuuraa, tuu adhuurii jii rahii hai
+ai ajanabii tuu bhii kabhii   \threedots
+
+o paakhii paakhii paradesii
+
+tuu to nahii.n hai lekin, terii muskuraahaT hai
+cheharaa kahii.n nahii.n hai par, terii aahaT hai
+tuu hai kahaa.N kahaa.N hai, teraa nishaa.N kahaa.N hai
+meraa jahaa.N kahaa.N hai
+mai.n adhuuraa, tuu adhuurii jii rahii hai
+ai ajanabii tuu bhii kabhii   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{laakh chhupaao chhup na sakegaa}%
+\film{Asli Naqli}%
+\year{1962}%
+\starring{Dev Anand, Sadhna}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: David Windsor (windeng@fac.anu.edu.au)
+% Credits: David Windsor (windeng@fac.anu.edu.au)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+laakh chhupaao chhup na sakegaa raaj ho kitanaa gaharaa
+dil kii baat bataa detA hai, asalii naqalii cheharaa
+
+phuul me.n khushabuu dil me.n chaahat kabhii n chhipane paa_ii hai
+aa.Nkh se Dhalakii banakar surkhii jab jab aakar davaa_ii hai
+sach baato.n par lag nahii.n sakataa khaamoshii kaa paharaa
+dil kii baat bataa detaa hai, asalii naqalii cheharaa
+
+ab n ham ko aur bataao hamane to pahachaan liyaa
+saagar se bhii gahare nikale hamane tum ko jaan liyaa
+jis ke man me.n chor chhipaa ho saamane kavi vah Thaharaa
+dil kii baat bataa detaa hai, asalii naqalii cheharaa
+
+log to dil ko khush rakhne ko kyaa kyaa Dho.ng rachaate hai
+bheshh badal kar is duniyaa me.n baharuupiye ban jaate hai.n
+man darapan me.n mukha.Daa dekho utaraa ra.ng sunaharaa
+dil kii baat bataa detaa hai, asalii naqalii cheharaa
+%
+#endindian
+\endsong
+%

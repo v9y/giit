@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{karegaa zamaanaa kyaa, sach ko chhupaanaa kyaa}%
+\film{Zabardast}%
+\year{}%
+\starring{Rajeev Kapoor, Rati Agnihotri}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Neeraj Deshmukh (neeraj@engc.bu.edu) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Aug  9 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+ki: ho, karegaa zamaanaa kyaa, sach ko chhupaanaa kyaa
+    duniyaa ko aao batalaa de.n
+aa: karegaa zamaanaa kyaa, sach ko chhupaanaa kyaa
+    duniyaa ko aao batalaa de.n
+ki: tum ho mere, ham hai.n tere
+    Daarli.ng, hai na bolo hai na\threedots
+
+ki: meraa sab kuchh tere li_e, teraa sab kuchh mere li_e
+    bolo, bolo\threedots
+aa: meraa sab kuchh tere li_e, teraa sab kuchh mere li_e
+    aakhir ko hai\threedots
+ki: haa.N, aakhir ko hai.n biivii miiyaa.n
+    Daarli.ng, hai na bolo hai na\threedots
+
+ki: aae hue ba.Dii duur se hai.n, ham to yahaa.N ma_ii\-juun se hai.n
+aa: aae hue ba.Dii duur se hai.n, ham to yahaa.N ma_ii\-juun se hai.n
+    aur aaj hii\threedots
+ki: aur aaj hii, hai vaapasii
+    Daarli.ng hai na bolo hai na\threedots
+%
+#endindian
+\endsong
+%

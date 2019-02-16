@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kyuu.n chalatii hai pavan ... naa tum jaano naa ham}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Lucky Ali, Ramya}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyuu.n chalatii hai pavan kyuu.n jhuume.n hai gagan
+kyuu.n machalataa hai man naa tum jaano naa ham
+
+kyuu.n aatii hai bahaar kyuu.n luTataa hai qaraar
+kyuu.n hotaa hai pyaar
+naa tum jaano naa ham \threedots
+
+ye madahoshiyaa.n ye tanahaa_iiyaa.n
+tasavvur me.n hai.n kisakii parachhaa_iiyaa.n
+ye bhiigaa samaa.n uma.nge.n javaa.n
+mujhe ishq le jaa rahaa hai kahaa.n
+kyuu.n Gum hai har dishaa
+kyuu.n hotaa hai nashaa
+kyuu.n aataa hai mazaa
+naa tum jaano naa ham \threedots
+
+dha.Dakataa bhii hai ta.Dapataa bhii hai
+ye dil kyuu.n achaanak bahakataa bhii hai
+mahakataa bhii hai chahakataa bhii hai
+ye dil kyaa vafaa ko samajhaataa bhii hai
+kyuu.n milatii hai nazar
+kyuu.n hotaa hai asar
+kyuu.n hotii hai sahar
+naa tum jaano naa ham \threedots
+%
+#endindian
+\endsong
+

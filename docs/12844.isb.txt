@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{sholaa jaise bha.Dake re ... kamariyaa lachake re}%
+\film{Melaa}%
+\year{1999}%
+\starring{Aamir Khan, Twinkle Khanna, Faizal Khan, Johny Lever}%
+\singer{Udit Narayan, Anuradha Paudwal, Abhijit}%
+\music{Rajesh Roshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sholaa jaise bha.Dake re dil meraa dha.Dake re
+kamariyaa lachake re baabuu zaraa bach ke re
+sholaa jaise bha.Dake \threedots
+
+jale re moraa jiyaa
+chhuunaa naa mohe piyaa
+he aa_ii kahaa.n se o dilarubaa
+jaaduu saa teraa sab pe chalaa
+are diivaano.n ko naa aise jalaa
+yuu.n naa dilo.n par chhuriyaa.n chalaa
+kamariyaa lachake re \threedots
+
+aa_ii re aa_ii re aa_ii sapano.n kii raaanii hai aa_ii
+aa_ii re aa_ii
+ho ho he he
+ik naa ik din mil jaa_egii hamako bhii sapano.n kii raanii
+aa_ii re aa_ii re aa_ii
+
+saa.Nso.n me.n hai.n chi.ngaariyaa.N
+siine me.n ko_ii chubhan hai
+nas nas me.n jaagii agan hai
+rok naa tuu is aag ko jalane de
+jo bhii agan hai dekh zamaanaa magan hai
+mere kaleje me.n ko_ii tiir hai ga.Daa
+cha.Dhaa re cha.Dhaa re cha.Dhaa
+ye kaisaa zahar hai cha.Dhaa
+tujhako nahii.n kuchh bhii hosh hai
+terii umar kaa ye doSh hai
+diivaano.n ko naa aise \threedots
+
+saaraa jahaa.n piichhe pa.Daa dushman banii ye javaanii
+mushkil me.n hai zi.ndagaanii
+Dar hai tujhe kis baat kaa ham tere saathii hai.n jaanii
+phir kaahe soche diivaanii
+kahii.n diivaanaa to kahii.n qaatil hai kha.Daa
+jaanaa meraa jaanaa oho mushkil hai ba.Daa
+jaa_egii bach ke ab tuu kahaa.n
+tuu hai jahaa.n ab ham hai.n vahaa.n
+diivaano.n ko naa aise \threedots
+%
+#endindian
+\endsong
+

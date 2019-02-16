@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mai.n terii nazar kaa suruur huu.N}% 
+\film{Jahan Ara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+mai.n terI nazar kA suruur huu.N
+tujhe yaad ho ke nA yaad ho 
+tere paas rahake bhI dUr huu.N 
+tujhe yaad ho ke nA yaad ho 
+mai.n terI nazar kA suruur huu.N 
+
+(mujhe aa.Nkh se to giraa diyaa 
+kaho dil se bhI kyA bhulaa diyaa ) \- 2
+terI aashiqii kA Guruur huu.N 
+tujhe yaad ho ke nA yaad ho 
+mai.n terI nazar kA \threedots
+
+(terI zulf hai mere haath me.n 
+ke tU aaj bhI mere saath hai ) \- 2
+tere dil me.n bhI mai.n zaruur huu.N 
+tujhe yaad ho ke nA yaad ho 
+mai.n terI nazar kA \threedots
+%
+#endindian
+\endsong
+%

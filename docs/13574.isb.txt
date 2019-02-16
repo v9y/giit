@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{pyaase naino.n kii pyaas bujhaa le}%
+\film{Pocketmaar}%
+\year{1956}%
+\starring{Dev Anand, Geeta Bali, Nadira, Gop, Sundar, Meenu Mumtaz}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10591 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+pyaase naino.n kii pyaas bujhaa le
+bhole\-bhaale o raahii matavaale
+
+mai.n to kheto.n se hokar aa_ii re
+motii shabanam ke chunakar laa_ii re
+meraa mukha.Daa phuhaar mere nayan kaTaar
+ik baar karejavaa pe khaa le
+pyaase naino.n kii \threedots
+
+mai.n to barakhaa kii alabelii raanii
+pyaase dil kii naa jaanuu.N kahaanii
+chal baadal ke paar leke man kaa sitaar
+ko_ii giit Kushii ke gaa le
+pyaase naino.n kii \threedots
+
+mai.n to nadiyaa kii ik lahariyaa
+morii sabase niraalii Dagariyaa
+mai.n huu.N jalatara.ng meraa goraa hai ra.ng
+mere mukha.De se nainaa haTaa le
+pyaase naino.n kii \threedots
+%
+#endindian
+\endsong
+

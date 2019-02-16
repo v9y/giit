@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jiyaa jale jaan jale}%
+\film{Dil Se}%
+\year{}%
+\starring{Shahrukh Khan, Manisha Koirala}%
+\singer{Lata, chorus}%
+\music{A R Rahman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+jiyaa jale, jaan jale naino.n tale dhuaa.N chale, dhuaa.N chale
+raat bhar dhuaa.N chale
+jaanuu.N na jaanuu.N na jaanuu.N na sakhi rii
+jiyaa jale, jaan jale   \threedots
+
+dekhate hai.n tan meraa man me.n chibhatii hai nazar
+ho.nTh sil jaate unake narm ho.nTho.n pe magar
+ginatii rahatii huu.N mai.n apanii karavaTo.n ke silasile
+kyaa karuu.N kaise kahuu.N, raat kab kaise Dhale
+jiyaa jale, jaan jale   \threedots
+
+a.ng a.ng me.n jalatii hai.n dard kii chi.ngaariyaa.N
+masale phuulo.n kii mahak me.n titaliyo.n kii kyaariyaa.N
+raat bhar bechaari mehandii pisatii rahii, pairo.n tale
+kyaa karuu.N kaise kahuu.N, raat kab kaise Dhale
+jiyaa jale, jaan jale   \threedots
+
+%
+#endindian
+\endsong
+%

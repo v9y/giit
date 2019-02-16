@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{uupar jaa ke yaad aa_ii.n niiche kii baate.n}%
+\film{Naukari}%
+\year{1978}%
+\starring{Raj Kapoor, Rajesh Khanna, Zahidam Nadira}%
+\singer{Mukesh}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10788 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mu \:	uupar jaa ke yaad aa_ii.n niiche kii baate.n
+	ho.nTho.n pe aa_ii.n dil ke piichhe kii baate.n
+	are uupar jaa ke \threedots
+
+	( ai hasiino.n aa_o ) \-2 meraa dil bahalaa_o
+	reshamii zulfo.n ke jaal bichhaa_o
+	zindagii se bhii lambii hai.n ye kaalii raate.n
+	ho.nTho.n pe aa_ii.n \threedots
+
+ko \:	ii yaa yaa yaa
+mu \:	( dosto.n dushmano.n ) \-2 gale mil ke zaraa
+	chhe.D do ko_ii kisse dil ke zaraa
+	kaun jaane kab ho.ngii phir ye mulaaqaate.n
+	ho.nTho.n pe aa_ii.n \threedots
+%
+#endindian
+\endsong
+

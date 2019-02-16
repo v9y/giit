@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{kyaa bataa_uu.N mohabbat hai kyaa}%
+\film{Parbat}%
+\year{1952}%
+\starring{Premnath, Nutan, Poornima, Ulhas}%
+\singer{Rafi, Lata, Geeta}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10816 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	kyaa bataa_uu.N mohabbat hai kyaa \-4
+	siine me.n rah\-rah ke dard uTh rahaa hai \-2
+	magar aa rahaa hai mazaa 
+	kyaa bataa_uu.N \threedots
+
+	mausam to haradam badalate rahe hai.n \-2
+	aramaan dil ke machalate rahe hai.n \-2
+	kyaa baat hai chhuu ke aa.Nchal meraa \-2
+	bhaag jaatii hai paagal havaa
+	kyaa bataa_uu.N \threedots
+ra \:	kyaa bataa_uu.N mohabbat hai kyaa \-2
+
+	pahale bhii tuufaan aate rahe hai.n
+	bastii dilo.n kii miTaate rahe hai.n\-2
+	kaisaa ye tuufaan aate hii jisake \-2
+	nayaa ik jahaa.N bas gayaa
+	kyaa bataa_uu.N \threedots
+la \:	kyaa bataa_uu.N \threedots
+
+	pahale bhii the chaa.Nd\-taare gagan me.n \-2
+	lekin hameshaa a.Ndheraa thaa man me.n \-2
+	vo muskaraa_e to man ke a.Ndhere me.n \-2
+	jaise diyaa jal uThaa
+	kyaa bataa_uu.N \threedots
+%
+#endindian
+\endsong
+

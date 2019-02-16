@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{tho.Daa-tho.Daa sone kaa ra.ng ... tab ye meraa badan ... banaayaa gayaa}%
+\film{Ek Aur Ek Gyarah}%
+\year{2003}%
+\starring{Sajnay Dutt, Govinda, Amrita Arora, Nandini Singh}%
+\singer{Sneha Pant, Udit Narayan}%
+\music{Shankar-Ehsaan-Loy}%
+\lyrics{Sameer}%
+%
+% contributor: BOL ANAMOL #11780 [V S Rawat]
+% producer: Mukta Arts Ltd, Subhash Ghai, www.muktaarts.com
+% director: David Dhawan
+% audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% cassette: Royal SHFC 1/3355 Stereo, Cost: Rs 50/-, CD: 
+% website: www.ekaurekgyarah.com
+%
+\printtitle
+#indian
+%
+sne \:	( tho.Daa-tho.Daa sone kaa ra.ng
+	tho.Dii-tho.Dii chaa.Ndii kii chamak ) \-2
+	tho.Daa kaliyo.n kaa ras jab milaayaa gayaa
+	milaayaa gayaa
+	tab ye meraa badan jaan\-e\-man
+	banaayaa gayaa
+	banaayaa gayaa
+	tho.Daa-tho.Daa sone kaa ra.ng
+	tho.Dii-tho.Dii chaa.Ndii kii chamak
+	
+	ko_ii mujh saa yahaa.N Kuubasuurat nahii.n
+	mujhe gahano.n kii ko_ii zaruurat nahii.n
+	ho chaa.Nd kii chaa.Ndanii bhii maddham lage
+	ko_ii bhii ho mere saamane kam lage
+	tho.Daa-tho.Daa mahakaa gulaab
+	tho.Dii-tho.Dii chhalakii sharaab
+	tho.Daa kaliyo.n kaa ras jab milaayaa gayaa
+	tab ye meraa badan jaan\-e\-man
+	banaayaa gayaa
+	
+	jo mujhe dekh le dekhataa hii rahe
+	mere baare me.n vo sochataa hii rahe
+	ho aa mujhe apanii baa.Nho.n me.n bhar le sanam
+	pyaar tuu mujhase jii bhar ke kar le sanam
+u \:	tho.Daa-tho.Daa tho.Daa hijaab
+	tho.Dii-tho.Dii mastii shabaab
+	tho.Daa kaliyo.n kaa ras jab milaayaa gayaa
+	milaayaa gayaa
+	tab ye teraa badan jaan\-e\-man
+	banaayaa gayaa
+	banaayaa gayaa
+
+	tho.Daa-tho.Daa sone kaa ra.ng
+	tho.Dii-tho.Dii chaa.Ndii kii chamak
+sne \:	tho.Daa-tho.Daa
+u \:	sone kaa ra.ng
+sne \:	tho.Dii-tho.Dii
+u \:	chaa.Ndii kii chamak
+sne \:	( tho.Daa
+u \:	tho.Daa
+sne \:	tho.Dii
+u \:	tho.Dii ) \-2
+%
+#endindian
+\endsong
+

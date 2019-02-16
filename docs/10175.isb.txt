@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil to khoyaa hai yahii.n pe kahii.n pe}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	( dil to khoyaa hai yahii.n pe kahii.n pe \-2
+	tuu zaraa bataa \-2 ) \-2
+a \:	dil teraa hai ra.ngiilaa o sajan \-2
+	mujhako kyaa pataa \-2 ) \-2
+ku \:	dil to khoyaa hai \threedots
+
+	dekhuu.N teraa cheharaa hasii.n baaho.n me.n aa jaa hamanashii.n
+a \:	jhuuThii lage.n baate.n terii mujhako nahii.n aataa yaqii.n
+ku \:	kaise dikhaa_uu.N mai.n chiir ke jaan\-e\-jaanaa.n apanaa jigar
+	mai.n sachchaa aashiq huu.N bharosaa zaraa mujh pe kar
+a \:	jaane de jaane de bha.nvaraa tuu harajaa_ii
+	baat naa banaa \-2
+ku \:	dil to khoyaa hai \threedots
+
+a \:	aisii adaa ke dilarubaa tuune meraa dil le liyaa
+ku \:	dil kaa silaa mere sanam maine tujhe dil hai diyaa
+a \:	chho.Duu.Ngii na saath teraa ye maine bhii vaayadaa kiyaa
+	terii huu.N terii rahuu.Ngii hameshaa maanaa tujhe apanaa piyaa
+ku \:	aa merii baaho.n me.n aisii sharm se ai tuu \-2
+	palake.n na jhukaa \-2
+a \:	dil teraa hai ra.ngiilaa \threedots
+%
+#endindian
+\endsong
+

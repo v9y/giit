@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{tiir khaate jaae.nge, aa.Nsuu bahaate jaae.nge}%
+\film{Deewaanaa}%
+\year{1952}%
+\starring{Suraiyya}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Samiuddin Mohammed <sm0e@lehigh.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/26/1996
+%
+\printtitle
+#indian
+%
+o tiir chalaanevaale
+
+tiir khaate jaae.nge, aa.Nsuu bahaate jaae.nge
+zi.ndagii bhar apanii qismat aazamaate jaae.nge
+tiir khaate jaae.nge, aa.Nsuu bahaate jaae.nge
+
+dil kaa shiishaa to.Danevaale kie jaa tuu sitam
+apanii barbaadii kaa shikavaa lab pe laae.nge na ham
+tuu jo Gam degaa kaleje se lagaate jaae.nge
+tiir khaate \threedots
+
+be\-asar hote nahii.n aa.Nsuu kisii naakaam ke
+tujhako bhii ronaa pa.Degaa ek din dil thaam ke
+dard banake ham tere dil me.n samaate jaae.nge
+tiir khaate \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,63 @@
+% 
+\startsong
+\stitle{o priyaa priyaa, kyo.n bhulaa diyaa}%
+\film{Dil}%
+\year{1990}%
+\starring{Madhuri Dixit, Aamir Khan, Anupam Kher}%
+\singer{}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+% 
+% Contributor: Dharmesh Patel <dxp8108@hertz.njit.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/24/1996
+% Credits: Vishal Ailawadhi (vishal@ucla.edu)
+%          Rajan Gautam (rdgautam@ix.netcom.com)
+%          Vandana Venkatesan (vvenkate@pcocd2.intel.com)
+% Comments: Direct Copy of Ilayaraja's "O priya priya" from Mani 
+%           Rathnam's "Geetanjali"/"Idhayathai Thirudadhey"
+%
+\printtitle
+#indian
+%
+purushh:
+o priyaa priyaa, kyuu.N bhulaa diyaa
+bevafaa yaa beraham, kyaa kahuu.N tujhe sanam
+tuune dil to.Daa hai, bhuul kyaa hu_ii ye bataa jaa
+o priyaa priyaa \threedots
+
+strii:
+o piiyaa piiyaa, mai.n terii piiyaa
+aa.Nsuo.n ko pii ga_ii, jaane kaise jii ga_ii
+kyaa hai merii majabuurii, kaise mai.n bataauu.N huaa kyaa
+
+purushh:
+o priyaa priyaa\threedots
+
+(tuu bevafaa hai jo, mai.n jaan jaataa
+ tujh se kabhii bhii, dil na lagaataa)	\-2
+strii:
+mujh pe yakii.n kar, yuu.N na ilzaam de
+de ko_ii sazaa magar, bevafaa na naam de
+purushh:
+merii dilarubaa, tuune ki jafaa
+par tujhe bhuulegii na merii vafaa
+strii:
+o piiyaa piiyaa\threedots
+
+purushh:
+jii chaahataa hai ki Kudako jalaa duu.N
+maut ko apane dil se lagaa luu.N
+strii:
+aake zaraa dekh le, dil meraa chiir ke
+ra.Ng mile.nge tujhe, terii tasviir ke
+purushh:
+mere saathiyaa, teraa ho bhalaa
+ye hii mere TuuTe hue dil kii sazaa
+strii:
+o piiyaa piiyaa\threedots
+%
+#endindian
+\endsong
+%
+

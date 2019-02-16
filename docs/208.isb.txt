@@ -1,0 +1,85 @@
+%
+\startsong
+\stitle{apane liye jiye to kyaa jiye, tuu jii, ai dil, zamaane ke liye}%
+\film{Badal}%
+\year{1966}%
+\starring{Sanjeev Kumar}%
+\singer{Manna De}%
+\music{Usha Khanna}%
+\lyrics{Javed Anwar}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dhiire:    khudagaz.r duniyaa me.n ye, inasaan kii pahachaan hai
+jo paraa_ii aag me.n jal jaaye, vo inasaan hai
+
+tez:    apane liye jiye to kyaa jiye \- 2
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye
+
+baazaar se zamaane ke, kuchh bhii na ham khariide.nge \- 2
+haa.N, bechakar khushii apanii
+logo.n ke Gam khariide.nge
+bujhate diye jalaane ke liye \- 2
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye
+
+(apanii khudii ko jo samajhaa
+usane khudaa ko pahachaanaa ) \- 2
+aazaad fitarate inasaa.n
+andaaz kyo.n Gulaamaanaa
+sar ye nahii.n jhukaane ke liye \- 2
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye
+
+(himmat bula.nd hai apanii
+patthar sii jaan rakhate hai.n ) \- 2
+kadamo.n tale zamii.n to kyaa
+ham Asamaan rakhate hai.n
+girate huo.n ko uThaane ke liye
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye
+
+(chal aafataab lekar chal
+chal mahataab lekar chal ) \- 2
+tuu apanii ek Thokar me.n
+sau inqalaab lekar chal
+zulm aur sitam miTaane ke liye
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye \- 2
+
+naakaamiyo.n se ghabaraa ke
+tum kyo.n udaas hote ho
+mai.n ham_safar tumhaaraa huu.N
+tum kyo.n udaas hote ho
+ha.Nsate raho ha.Nsaane ke liye
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye \- 2
+
+%
+%------------------ Meanings of Some words ---------
+%     buland:   high/tall
+%     aaftaab:  sun/sunlight
+%     mahtaab:  moonlight
+%     inqilaab: revolution
+%---------------------------------------------------
+%
+
+naakaamiyo.n se ghabaraa ke
+tum kyo.n udaas hote ho
+mai.n hamasafar tumhaaraa huu.N
+tum kyo.n udaas hote ho
+ha.Nsate raho, ha.Nsaane ke liye
+tuu jii, ai dil, zamaane ke liye
+apane liye jiye to kyaa jiye
+
+%
+#endindian
+\endsong
+%

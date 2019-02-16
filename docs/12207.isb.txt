@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{jab mohabbat javaan hotii hai}%
+\film{Jawaan Mohabbat}%
+\year{1971}%
+\starring{Shammi Kapoor, Asha Parekh, Balraj Sahni, Rajendra Nath, Nirupa Roy}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11180 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jab mohabbat javaan hotii hai
+har adaa ik jabaan hotii hai
+tum jahaa.N pyaar se qadam rakh do
+vo zamii.n aasamaan hotii hai
+jab mohabbat javaan \threedots
+
+gu.nche\-gu.nche me.n ha.Ns rahe ho tum
+in Kyaalo.n me.n bas rahe ho tum
+yuu.N mere dil me.n bas rahe ho tum
+jaise muralii kii taan hotii hai
+jab mohabbat javaan \threedots
+
+kuchh kaho to kahaa nahii.n jaataa
+dard dil kaa sahaa nahii.n jaataa
+bin tumhaare rahaa nahii.n jaataa
+haay mushqil me.n jaan hotii hai
+jab mohabbat javaan \threedots
+
+halkaa\-halkaa suruur hotaa hai
+dil to mastii me.n chuur hotaa hai
+baat jo bhii kahii nahii.n jaatii
+vo nazar se bayaan hotii hai
+jab mohabbat javaan \threedots
+%
+#endindian
+\endsong
+

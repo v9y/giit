@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{o priyaa suno priyaa mere naino.n me.n raho}%
+\film{Arjun Pandit}%
+\year{1999}%
+\starring{Sunny Deol, Juhi Chawala}%
+\singer{Kumar Sanu, Alka Yagnik/ Hariharan, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa
+o priyaa suno priyaa suno priyaa suno priyaa
+o priyaa suno priyaa mere naino.n me.n raho priyaa
+sapane jo dekhe hai.n maine tum bhii to dekho priyaa
+o priyaa \threedots
+
+bahakii hu_ii havaa_e.n kahatii hai.n ham bhii gaa_e.n
+pyaar ke jo giit hai.n
+bahataa nadii kaa paanii kahataa hai ye kahaanii
+janmo.n ke ham miit hai.n haay
+o priyaa suno priyaa jab bhii mai.n janmuu.n ye ho priyaa
+jaa_uu.n kisii bhii dishaa me.n
+paa_uu.n tumhii ko priyaa ho priyaa
+o priyaa \threedots
+
+kitanaa madhur hai jiivan kitanaa samay hai paavan
+kho_e hai.n ham chaah me.n
+kitanii shaa.nt hai.n gha.Diyaa.n kitanii ku.nvaarii kaliyaa.n
+khil rahii hai.n raah me.n haay
+o priyaa suno priyaa chaahe.n ko_ii rut bhii ho priyaa
+mahakii rahe.n prem kaliyaa.n
+aur tum mahako priyaa o priyaa
+o priyaa \threedots
+%
+#endindian
+\endsong
+

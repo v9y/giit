@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{mere piyaa gaye ra.nguun}% 
+\film{Patanga}%
+\year{1949}%
+\starring{}%
+\singer{Shamshad, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{}%
+%
+% Contributor: Atish Sanyal (ASANYAL@worldbank.org)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: a stage: Man on telepone; Burmese backdrop; man is surrounded 
+%       by slim dancing Burmese beauties. Other half of stage, lady on 
+%       telephone; empty residential street backdrop.
+\printtitle 
+#indian 
+%
+##Man (not necessarily Chitalkar's voice, could be actor) talking: 
+Hello,##hindustaan kaa deharaaduun?
+##Hello,##mai.n ra.nguun se bol rahaa huu.N
+mai.n apanii bIvii renukaa devii se baat karanaa chaahataa huu.N
+haa.n haa.n
+
+sh: mere piyaa; ho mere piyaa gaye ra.nguun 
+kiyaa hai vahaa.N se TelIfuun 
+(tumhaarii yaad sataatii hai \- 2) jiyaa me.n aag lagaatii hai 
+mere piyaa gaye ra.nguun kiyaa hai vahaa.N se TelIfuun  
+(tumhaarii yaad sataatii hai)\- 2 jiyaa me.n aag lagaatii hai
+
+ci: (ham chho.D ke hindustaan (bahut pachhataaye \- 2) \- 2 
+huii bhuul jo tumako saath nA lekar aaye \- 2 
+ham barmaa kii galiyo.n mai.n aur tum ho deharaaduun 
+(tumhaarii yaad sataatii hai \- 2) jiyaa me.n aag lagaatii hai 
+
+sh: (merii bhuukh pyaas bhii kho gaye (gam ke maare\- 2) \- 2 
+mai.n adhamuii sii ho gaI Gam ke maare \- 2 
+tum bin, saajan, janavarii faravarii ban gaye me aur juun 
+(tumhaarii yaad sataatii hai \- 2) jiyaa me.n aag lagaatii hai 
+
+C: (ajii tumase bichha.Dake ho gaye (ham sanyaasii \- 2) \- 2 
+khaa lete hai.n jo mil jaaye ruukhii suukhii baasii \- 2 
+ajii luu.ngii baa.Ndh, ke kare.n guzaaraa bhuul gaye pataluun 
+(tumhaarii yaad sataatii hai \- 2) jiyaa me.n aag lagaatii hai 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kuchh bhii kar lo ik din tumako merii honaa hogaa}%
+\film{Joshilaa}%
+\year{1973}%
+\starring{Dev Anand, Hema, Raakhee}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10776 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	kuchh bhii kar lo ik din tumako merii honaa hogaa \-2
+la \:	hamaaraa\-tumhaaraa o dilabar\-dilaaraa na hogaa guzaaraa
+ki \:	are ho gaa
+	kuchh bhii kar lo \threedots
+
+	( baalo.n kii mahak mere li_e hai are re re
+	gaalo.n kii chamak mere li_e hai laa haath laa aa
+la \:	ho aise naa bahak mai.n naa miluu.Ngii taa raa ram
+	aur ko_ii tak mai.n naa miluu.Ngii piichhe na aa aa ) \-2
+	hamaaraa\-tumhaaraa o dilabar \threedots
+
+ki \:	( honaa hai tujhe yuu.N bhii kisii kii are re re
+	aisii bhii kyaa mere me.n kamii.n ye to bataa aa
+la \:	ho honaa hogaa jab mujhe kisii kii aa raa ram
+	soch luu.Ngii tab tere li_e bhii jaldii hai kyaa aa ) \-2
+ki \:	hamaaraa\-tumhaaraa o dilabar\-dilaaraa na hogaa guzaaraa
+la \:	are ho gaa
+	kuchh bhii kar lo ik din tumako meraa honaa hogaa
+	la la la la
+%
+#endindian
+\endsong
+

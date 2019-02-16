@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{mai.n to chalaa jidhar chale rastaa}%
+\film{Dhadkan}%
+\year{1972}%
+\starring{Sanjay, Mumtaz, Rupesh Kumar, David, Achala, Sachdev, Bindu}%
+\singer{Kishor}%
+\music{Ravi}%
+\lyrics{Ravi, Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10688 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mai.n to chalaa jidhar chale rastaa \-2
+tujhe kyaa Kabar hai kahaa.N merii ma.nzil
+hogaa ko_ii meraa bhii saathii \-2
+hogii kahii.n to merii bhii mahafil
+mai.n to chalaa \threedots
+
+ye husn\-o\-ishq kaa jahaa.N ye shoKiyaa.N ye mastiyaa.N
+ye parvato.n ke qaafile ye baadalo.n kii Toliyaa.N
+puuchhatii hai.n mujhase tuu chalaa hai ( kidhar ) \-3
+mai.n to chalaa \threedots
+
+mujhako ishq bahaaro.n se in ra.ngiin nazaaro.n se
+maine chalanaa siikhaa hai dariyaa ke bahate dhaaro.n se
+ye gunagunaatii vaadiyaa.N ye phuulo.n bharii Daaliyaa.N
+taaj pahane barf kaa ye jagamagaatii choTiyaa.N
+puuchhatii hai.n mujhase tuu chalaa hai ( kidhar ) \-3
+mai.n to chalaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{kyaa yahii pyaar hai, haa.N yahii pyaar hai}%
+\film{Rocky}%
+\year{1981}%
+\starring{Sunjay Dutt, Tina Munim}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Neeraj Deshmukh (deshmukh@isip01.isip.msstate.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Sep  8 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+k: kyaa yahii pyaar hai
+l: haa.N, yahii pyaar hai
+k: ho, dil tere bin kahii.n lagataa nahii.n
+   vakt guzarataa nahii.n
+l: kyaa yahii pyaar hai
+k: haa.N, yahii pyaar hai
+l: ho, dil tere bin kahii.n lagataa nahii.n
+   vakt guzarataa nahii.n
+
+k: pahale mai.n samajhaa, kuchh aur vajah in baato.n kii
+   lekin ab jaanaa, kahaa.N nii.nd ga_ii merii raato.n kii
+l: jaagatii rahatii huu.N mai.n bhii, chaa.Nd nikalataa nahii.n
+   dil tere bin kahii.n lagataa nahii.n
+   vakt guzarataa nahii.n
+   kyaa yahii pyaar hai\threedots
+
+l: kaise bhuuluu.Ngii, tuu yaad hameshaa aaegaa
+   tere jaane se, jiinaa mushkil ho jaaegaa
+k: ho, ab kuchh bhii ho dil pe koii, zor to chalataa nahii.n
+   dil tere bin kahii.n lagataa nahii.n
+   vakt guzarataa nahii.n
+   kyaa yahii pyaar hai\threedots
+   
+k: jaise phuulo.n ke, mausam me.n ye dil khilate hai.n
+   premii, aise hii, kyaa patajha.D me.n bhii milate hai.n
+l: rut badale, duniyaa badale, pyaar badalataa nahii.n
+   dil tere bin kahii.n lagataa nahii.n
+   vakt guzarataa nahii.n
+   kyaa yahii pyaar hai\threedots   
+%
+#endindian
+\endsong
+%

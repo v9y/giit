@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{baadal to aa_e laharaa ke chhaa_e}%
+\film{Dillagi}%
+\year{1966}%
+\starring{Dharmendra, Hema Malini}%
+\singer{Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Yogesh}%
+%
+% Contributor: BOL ANAMOL #10408 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+baadal to aa_e laharaa ke chhaa_e
+o aane vaale par tum to na aa_e
+
+tum zindagii me.n kyuu.N merii aa kar
+Gum ho ga_e ho aise mujhako bhulaa kar
+mai.n pyaar teraa dil me.n sajaa kar
+baiThii huu.N kab se aas lagaa kar
+dukh mere dil ke ho.nTho.n pe aa_e
+o aane vaale par \threedots
+
+aavaaz merii aa jaa_o sun ke
+to.Do na sapane haay mere nayan ke
+is baar tumase kisii bhii jatan se
+mai.n raaz apane saare kah duu.Ngii man ke
+Kaamosh rah ke ye dard paa_e
+o aane vaale par \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{son paapa.Dii merii ... son halave mere}%
+\film{Aunty No.1}%
+\year{1998}%
+\starring{Govinda, Raveena, Mohnish, Raza Murad, Kader, Sadashiv, Bindu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+son paapa.Dii merii son paapa.Dii
+pyaar kaa miiThaa svaad chakhaa de soch rahii kyaa kha.Dii
+son halave mere son halave
+chakh le mere ho.nTho.n kaa ras dekh javaanii ke jalave
+son paapa.Dii \threedots
+
+makkhan jaisaa jism hai teraa mishrii tere gaalo.n me.n
+are ho gayaa ye matavaalaa jiivan satrah aTTharah saalo.n me.n
+dil chaahe baaho.n me.n le ke dekhuu.n tujhako gha.Dii gha.Dii
+son paapa.Dii \threedots
+
+chii.nTii jaisii chipak ga_ii mai.n terii miiThii baato.n me.n
+tere hii baare me.n sochuu.n karavaT leke raato.n me.n
+terii chaahat kii garmii se jalataa hai meraa tan bhii
+son paapa.Dii \threedots
+%
+#endindian
+\endsong
+

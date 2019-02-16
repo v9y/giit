@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dilabar kahuu.N yaa dilarubaa tujhe}%
+\film{Ye Hai Ghar Ki Mahabharat}%
+\year{1991?}%
+\starring{}%
+\singer{Kumar Sanu, Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho ho laa laa
+dilabar kahuu.N yaa dilarubaa tujhe
+Dar hai Kudaa kaa varanaa mai.n to kahataa Kudaa tujhe
+mai.n jaa.n kahuu.N zindagii yaa jaan\-e\-jahaa.n tujhe
+merii vafaa ne maan liyaa apanaa Kudaa tujhe
+
+kyuu.N dhuum shaayaro.n me.n na ho tere naam kii
+Gaalib kii tuu Gazal hai rubaa_ii Kayyaam kii
+kyaa Kuub shaayaraanaa milii hai adaa tujhe
+merii vafaa ne maan liyaa \threedots
+
+terii nazar hasiin thii jo mai.n hasii.n lagii
+chaahat to aasamaa.n tujhe ve zamiin dii
+maine dikhaa diyaa hai aa_iinaa tujhe
+Dar hai Kudaa kaa varanaa \threedots
+
+sab kuchh mai.n bhuul baiThaa lagaakar gale tujhe
+duniyaa kii har Kushii thii tere dard me.n mujhe
+ab mujhase kar sakegii na duniyaa judaa tujhe
+Dar hai Kudaa kaa varanaa \threedots
+%
+#endindian
+\endsong
+

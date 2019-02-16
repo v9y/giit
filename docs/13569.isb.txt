@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{aa tuu aa zaraa dil me.n aa}%
+\film{Phoolon Ki Sej}%
+\year{1964}%
+\starring{Ashok Kumar, Vyjayantimala, Manoj Kumar, Nirupa Roy, Lalita Pawar, Mehmood}%
+\singer{Mukesh, Lata}%
+\music{Adi Narayan Rao}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10058 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	aa tuu aa zaraa dil me.n aa dil me.n aake phir nahii.n jaa
+		tuu hai hasii.n mai.n huu.N javaa.n aajaa dilarubaa
+la \:	aa tuu aa mujhe apanaa banaa dil se dil kaa taar milaa
+	mai.n huu.N zamii.n tuu hai gagan mausam alabelaa
+	aa tuu aa mujhe \threedots
+
+mu \:	niilii ghaTaa chhaane lagii dil kii lahar gaane lagii
+	man kaa mor machaa_e shor ishq pe kyaa kisii aur kaa zor o
+	aa tuu aa zaraa \threedots
+
+la \:	khilate kamal laharaa_e.n dil me.n agan sulagaa_e.n
+	tujhase jabase aa.Nkh lagii us din se na aa.Nkh lagii
+	aur nahii.n sulagaa
+	aa tuu aa mujhe \threedots
+%
+#endindian
+\endsong
+

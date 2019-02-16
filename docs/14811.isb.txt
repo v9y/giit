@@ -1,0 +1,31 @@
+% ITRANS SONG
+
+\startsong
+\stitle{swaagat raajakumaar tumhaaraa swaagat raajakumaar}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Female Chorus}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+aa
+tum tan tan tum
+swaagat raajakumaar tumhaaraa swaagat raajakumaar \-2
+
+ye a.nkhiyaa.N matalwaalii kabase rahii hai.n baaT nihaar
+
+aa_o baiTho ratan hiNDole
+ratan hiNDole pawan veg se jhuulo
+tum pyaare mehamaan hamaare
+aa_o sab kuchh bhuulo
+jhuulaa jhuulo
+
+#endindian
+\endsong

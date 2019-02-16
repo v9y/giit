@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aise to na dekho, ke hamako nashaa ho jaaye}%
+\film{Teen Deviyan}%
+\year{}%
+\starring{Dev Anand, Nanda, Simi, Kalpana}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aise to na dekho, ke hamako nashaa ho jae
+Kuubasuurat sii koI hamase Kataa ho jaae (2)
+aise to na dekho
+
+tum hame.n roko phir bhii ham naa ruke.n
+tum kaho kaafir phir bhii aise jhuke.n
+qadam\-e\-naaz pe ik sajadaa adaa ho jaaye
+aise to na dekho
+
+yuu.N na ho aa.Nkhe rahe.n kaajal ghole.n
+ba.Dh ke bekhudii ha.nsii.n gesuu khole.n
+khul ke phir zulfe.n siyaah kaalii balaa ho jaaye
+aise to na dekho
+
+ham to mastii me.n jaane kyaa kyaa kahe.n
+lab\-e\-naazuk se aisaa na ho tumhe.n
+beqaraarii kaa gilaa ham se sivaa ho jaaye
+aise to na dekho
+%
+#endindian
+\endsong
+%

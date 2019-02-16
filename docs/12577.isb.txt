@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{dil kaa afasaanaa sunaate hai.n ... chale.nge tiir jab dil par}%
+\film{Kohinoor}%
+\year{1960}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10636 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil kaa afasaanaa sunaate hai.n sunaane vaale
+kaash samajhe.n naa mohabbat ko miTaane vaale
+pyaar kaa naam bhii lete hu_e Dar lagataa hai
+tiir khe.nche hu_e baiThe hai.n zamaane vaale
+
+chale.nge tiir jab dil par to aramaano.n kaa kyaa hogaa
+tuTegaa ghar to phir is ghar ke mehamaano.n kaa kyaa hogaa
+
+sunaa hai ishq me.n aate hai.n din aaho.n ke naalo.n ke
+abhii tak to salaamat hai garebaa.N ishq vaalo.n ke
+agar fasal\-e\-bahaar aa_ii to diivaano.n kaa kyaa hogaa
+chale.nge tiir jab \threedots
+
+uThaa hai shor\-e\-maatam shamaa tere jaa.N\-nisaaro.n me.n
+abhii to dil hii jalate hai.n mohabbat ke sharaaro.n me.n
+kisii ne par jalaa Daale to paravaano.n kaa kyaa hogaa
+chale.nge tiir jab \threedots
+
+adhuure hai.n abhii puure nahii.n kisse mohabbat ke
+abhii to dil me.n poshiidaa.N hai.n afasaane qayaamat ke
+haqiiqat ho ga_ii zaahir to afasaano.n kaa kyaa hogaa
+chale.nge tiir jab \threedots
+
+sunaa hai jaam\-e\-ulfat me.n balaa kaa josh hai saaqii
+abhii to dil hai qaabuu me.n abhii to hosh hai baaqii
+agar pii kar bahak uThe to mastaano.n kaa kyaa hogaa
+chale.nge tiir jab \threedots
+%
+#endindian
+\endsong
+

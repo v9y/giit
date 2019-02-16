@@ -1,0 +1,45 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pyaar me.n hamane kyaa paayaa thaa ... jaane do}%
+\film{Tum Yaad Aaye (Non-film)}%
+\year{1997}%
+\starring{}%
+\singer{Alka Yagnik}%
+\music{Raju Singh}%
+\lyrics{Javed Akhtar}%
+% 
+% Audio on: Sony Music
+% Tags: Love
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 23 Jul 2006
+% Series: 
+% Comments: Commentary by Javed Akhtar
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+jaaved :
+kaise bataa_e.N aur kisako bataa_e.N
+ki kaisii thii.n vo muskuraahaTe.n, jiname.n zi.ndagii ke ujaale the
+kaisii thii.n vo nigaahe.n, jo is dil ko chhuu letii thii.n
+kaisii thii.n vo Kaamoshiyaa.N, jo kahaaniyaa.N sunaatii thii.n
+kaise the vo haath, jo ab in haatho.n me.n nahii.n hai.n
+
+alakaa :
+pyaar me.n hamane kyaa paayaa thaa, chho.Do! ye sab jaane do
+kyaa samajhaa_e.N kyaa qissaa thaa, jo bhii thaa, ab jaane do
+
+nazare.n sab kahatii\-sunatii thii.n, ham dono.n chup rahate the
+do nazaro.n kaa aisaa naataa, TuuTaa thaa kab, jaane do
+
+ham apane manabhed bataate, par tumane kab dhyaan diyaa
+ho.nTho.n ko hamane jab sii Daalaa, aa_e ho tab, jaane do
+
+sannaaTe kahate hai.n mujhase, jaa_o jaake so jaa_o
+ko_ii nahii.n hai aanevaalaa, biit ga_ii shab, jaane do
+%
+#endindian
+\endsong

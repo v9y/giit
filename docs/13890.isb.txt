@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{ham tum mile yuu.N pyaar me.n miTane lagii.n tanhaa_iiyaa.N}%
+\film{Shakti The Power}%
+\year{2002}%
+\starring{Sanjay Kapoor, Karisma Kapoor, Nana Patekar, Shahrukh Khan, Aishwarya Rai}%
+\singer{Adnan Sami, Chorus/ Kavita Subramaniam}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+%Part 1:
+%
+ham tum mile yuu.N pyaar me.n miTane lagii.n tanhaa_iiyaa.N
+ab hai.n nahii.n kuchh faasale bas pyaar hii hai daramiyaa.N
+ham tum mile \threedots
+
+kismat me.n hii thaa tum se milanaa
+pyaar banaa pyaaraa bahaanaa
+ho muhabbat nigaaho.n me.n palane lagii
+tujhe zi.ndagii kah ke bulaane lagii
+merii priyaa merii priyaa o merii priyaa
+ham tum mile \threedots
+
+duniyaa rahegii jab tak e hamadam
+yuu.N hii rahe.nge tere sadaa ham
+ho mohabbat du_aa_e.N karane lagii
+saato.n janam ye maa.Ngane lagii
+tujhe priyaa merii priyaa o merii priyaa o
+ham tum mile \threedots
+%
+%Part 2:
+%
+ham tum mile yuu.N pyaar me.n miTane lagii.n tanhaa_iiyaa.N
+ab hai.n nahii.n kuchh faasale bas pyaar hii hai daramiyaa.N
+ham tum mile \threedots
+
+kismat me.n hii thaa tum se milanaa
+pyaar banaa pyaaraa bahaanaa
+ho muhabbat nigaaho.n me.n palane lagii
+khushiyo.n me.n hii phir badalane lagii
+udaasiyaa.N mere piyaa o piyaa
+ham tum mile \threedots
+%
+#endindian
+\endsong
+

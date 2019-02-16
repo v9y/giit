@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jan gaN man adhinaayak jay ho ##national anthem##}%
+\film{Jan Gan Man (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{}%
+\music{A R Rahman}%
+\lyrics{Ravindra Nath Tagore}%
+%
+% Contributor: BOL ANAMOL #12380 [V S Rawat], 01/02/2004
+%
+% The album released on 26 Jan 2000 had the national anthem
+% rendered by various singers.
+%
+\printtitle
+#indian
+%
+jan gaN man adhinaayak jay ho 
+bhaarat bhaagy vidhaataa 
+pu.njaab si.ndh gujaraat maraaThaa
+dravi.D utkal ba.ng 
+vi.ndhy himaa.nchal jamunaa ga.ngaa
+uchchhal jaladhi tara.ng 
+tab shubh naame jaage 
+tab shubh aashiSh maa.nge 
+gaaye tab jay gaaThaa 
+
+jan gaN ma.ngal daayak jay he 
+bhaarat bhaagy vidhaataa
+jay he jay he jay he 
+jay jay jay jay he
+%
+#endindian
+\endsong
+%
+

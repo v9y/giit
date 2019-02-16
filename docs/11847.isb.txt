@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{karake jisakaa i.ntazaar meraa dil gayaa haar}%
+\film{Hamrahi}%
+\year{1963}%
+\starring{Rajendra Kumar, Jamuna}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10939 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	karake jisakaa i.ntazaar meraa dil gayaa haar
+	vahii sapano.n kii shaam dekho laa_ii meraa pyaar
+ra \:	mujhase ruuThii thii.n bekaar tum merii jaan\-e\-bahaar \-2
+	puuchho apane hii dil se kyaa jhuuThaa thaa meraa pyaar
+
+la \:	sai.nyaa meraa thaa qusuur jo mai.n tumase thii duur
+ra \:	ho thaa yaqii.n merii priit ra.ng laa_egii zaruur
+la \:	dono.n bahiyaa.N pasaar thakii mai.n jisako pukaar
+	vahii sapano.n kii shaam \threedots
+ra \:	mujhase ruuThii thii \threedots
+
+	tumane mujhako samajhaa Gair kiyaa mujhase thaa bair
+la \:	sai.nyaa maine din\-rain maa.Ngii bi.ndiyaa kii Kair \-2
+ra \:	jinape sab\-kuchh haar miTane ko thaa mai.n taiyaar \-2
+la \:	vahii sapano.n kii shaam \threedots
+ra \:	mujhase ruuThii thii \threedots
+
+la \:	ho meraa tan meraa man ab teraa re sajan
+ra \:	ho har dam gaa_e tere giit merii har dha.Dakan
+la \:	jisame.n mai.n sau\-sau baar kar duu.N Kud ko nisaar
+	vahii sapano.n kii shaam \threedots
+ra \:	mujhase ruuThii thii \threedots
+%
+#endindian
+\endsong
+

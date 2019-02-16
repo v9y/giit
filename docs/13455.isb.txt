@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{o rabbaa mujhe pyaar ho gayaa ... milii jab se nazar}%
+\film{Paapaa The Great}%
+\year{2000}%
+\starring{Krishna Kumar, Nagma, Satya Prakash, Shatrughan Sinha,}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o rabbaa mujhe pyaar ho gayaa
+milii jab se nazar hu_aa aisaa asar dil naa jaane kahaa.N kho gayaa
+dekhate dekhate aa.Nkho.n hii aa.Nkho.n me.n meraa dil le gayaa vo gayaa
+o rabbaa mujhe \threedots
+
+khushbuu ho yaa ko_ii jaaduu kaise kahuu.n kyaa ho tum
+milate hii aa.Nkho.n se aa.nkhe.n ho ga_e hosh gum
+o jaan\-e\-jaanaa.n ho ke diivaanaa chuume hai dil aasamaa.n
+khush huu.N akelii par ye lage kyaa mujhe ye saaraa jahaa.n
+o rabbaa mujhe \threedots
+
+baato.n se terii saa.Nso.n pe merii chhaane lagii bekhudii
+ho jabase chhu_ii hai.n resham sii baahe.n khvaabo.n me.n halachal machii
+raat din ab ye dil bole piyaa piyaa
+tere bin ab kahii.n laage nahii.n jiyaa
+ho laharaataa aa.nchal karataa hai paagal
+dil me.n hai bas tuu hii tuu
+tere khyaalo.n me.n ulajhaa rahe dil hai bas yahii aarazuu
+o rabbaa mujhe \threedots
+%
+#endindian
+\endsong
+
+ 

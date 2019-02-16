@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dosto.n ko salaam, dushamano.n ko salaam}%
+\film{Rocky}%
+\year{1981}%
+\starring{Sanjay Dutt, Tina Munim}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+dosto.n ko salaam, dushamano.n ko salaam
+he raa.ckii meraa naam, raa.ckii meraa naam, raa.ckii meraa naam
+
+mai.n jidhar se guzar jaataa huu.N
+kuchh na kuchh kar ke jaataa huu.N
+u.Daataa huu.n mai.n nii.nd
+churaataa huu.N mai.n chain
+sikhaataa huu.N mai.n pyaar
+yahii hai meraa kaam
+raa.ckii meraa naam, raa.ckii meraa naam, raa.ckii meraa naam
+dosto.n ko salaam   \threedots
+
+ye umar hai aisii taubaa
+kyaa pataa kab kyaa hogaa
+tho.Daa saa bachapan
+tho.Dii sii javaanii
+tho.Daa saa mai.n shariif
+tho.Daa saa badanaam
+raa.ckii meraa naam, raa.ckii meraa naam, raa.ckii meraa naam
+dosto.n ko salaam   \threedots
+
+dekh kar mujhe aate jaate
+kahate hai.n duniyaa.N vaale
+vo aayaa jhuum ke
+vo gayaa jhuum ke
+dilo.n kaa baadashaah
+hasiino.n kaa Gulaam
+raa.ckii meraa naam, raa.ckii meraa naam, raa.ckii meraa naam
+dosto.n ko salaam   \threedots
+
+%
+#endindian
+\endsong
+%

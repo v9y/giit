@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{haath siitaa kaa raam ko diyaa ... janak raajaa aur de.nge kyaa}%
+\film{Ghar Sansaar}%
+\year{1986}%
+\starring{Jeetendra, Sridevi, Kader Khan, Shriram Laagoo, Ranjeet, Sulochana}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( haath siitaa kaa raam ko diyaa \-2
+janak raajaa aur de.nge kyaa ) \-2
+beTii baabul ke dil kaa Tuka.Daa
+dahej kahaa.n isase ba.Daa
+
+iishvar kaa varadaan hai beTii
+gharavaalo.n kii jaan hai
+ye paga.Dii baabul ke sir kii
+laaj hai saare ghar kii
+daan kanyaa kaa jisane diyaa
+ma_iiyaa raanii aur degii kyaa
+janak raajaa aur de.nge kyaa
+beTii maa.N ke dil kaa Tuka.Daa
+dahej kahaa.n isase ba.Daa
+
+ruupavatii guNavatii bahanaa
+isase aage aur kyaa ko_ii gahanaa
+( ve naate man ke naate
+dhan se na jo.De jaate ) \-2
+pyaarii bahanaa kaa gahanaa diyaa
+bha_iiyaa raajaa aur de.nge kyaa
+haath siitaa kaa raam ko diyaa \threedots
+%
+#endindian
+\endsong
+

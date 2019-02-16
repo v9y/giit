@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{zindagii kyaa hai Gam kaa dariyaa hai}%
+\film{Pyar Kiya To Darna Kya}%
+\year{1963}%
+\starring{Prithviraj Kapoor, Shammi Kapoor, B. Saroja Devi, Pran}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10731 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zindagii kyaa hai Gam kaa dariyaa hai
+na jiinaa yahaa.N bas me.n na maranaa yahaa.N bas me.n
+ajab duniyaa hai
+zindagii kyaa hai \threedots
+
+haay re vo insaan ke jisako Gam kii nazar lag jaa_e
+chupake\-chupake aahe.n bhare aur mu.Nh se na kuchh kah paa_e
+dil apanaa ha.Nsataa hai khud par ( aur kabhii rotaa hai ) \-2
+zindagii kyaa hai \threedots
+
+jhuuThii hai.n duniyaa kii bahaare.n ra.ng hai.n saare kachche
+vaqt pa.De to thaam le.n daaman phuul se kaa.NTe achchhe
+is gulashan me.n qadam\-qadam par ek ( nayaa dhokhaa hai ) \-2
+zindagii kyaa hai \threedots
+
+jab insaan akelaa thaa to dukh bhii na the jiivan me.n
+paayaa jab hamaraahii usane Duub gayaa ulajhan me.n
+ye duniyaa hai begaano.n kii kaun ( yahaa.N apanaa hai ) \-2
+zindagii kyaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{saajan tumase pyaar karuu.N mai.n kaise tumhe.n batalaa_uu.N}%
+\film{Badnaam}%
+\year{1952}%
+\starring{Balraj Sahni, Shyama, Ulhas, Murad}%
+\singer{Lata}%
+\music{Basant Prakash}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11913 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+saajan tumase pyaar karuu.N mai.n
+kaise tumhe.n batalaa_uu.N \-2
+tan\-man tum par waar karuu.N
+kaise tumhe.n batalaa_uu.N \-2
+
+( naino.n se laa ke tumako
+dil me.n basaayaa hamane
+dha.Dakan kii lay pe apanaa
+haal sunaayaa hamane ) \-2
+bajane lage hai.n dil ke taar taar taar jii \-2
+kaise tumhe.n batalaa_uu.N \-2
+saajan tumase pyaar karuu.N mai.n
+kaise tumhe.n batalaa_uu.N \-2
+%
+#endindian
+\endsong
+

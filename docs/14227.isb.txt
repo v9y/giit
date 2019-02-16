@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{chalii ban ke dulhan ... moraa maike me.n jii ghabaraavat hai}%
+\film{Subah Kaa Taaraa}%
+\year{1954}%
+\starring{Jayshree, Pradeep Kumar, Neelam Bai, Baby Rajshree}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lakhnawi}%
+%
+% Contributor: BOL ANAMOL #10099 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+chalii ban ke dulhan unase laagii lagan moraa maike me.n jii ghabaraavat hai
+moraa maane na man hai.n dvaare sajan moraa maike me.n jii ghabaraavat hai
+chalii ban ke dulhan \threedots
+
+malake meha.ndii mai.n solah si.ngaar karuu.N aur si.nduur se apanii maa.Ng bharuu.N
+Tiikaa maathe pe mohe suhaavat hai moraa maike me.n jii ghabaraavat hai
+chalii ban ke dulhan \threedots
+
+duur kaa hai safar ko_ii saathii nahii.n hai akelii dulhan ko_ii baaraatii nahii.n
+mohe jaane me.n ab bhay aavat hai moraa maike me.n jii ghabaraavat hai
+chalii ban ke dulhan \threedots
+
+shaadiyaane kahii.n sab bajaate chale.n giit pii ke milan ke sunaate chale.n
+Dolaa sasuraal ko moraa jaavat hai moraa maike me.n jii ghabaraavat hai
+chalii ban ke dulhan \threedots
+%
+#endindian
+\endsong
+

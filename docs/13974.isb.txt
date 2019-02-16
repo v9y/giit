@@ -1,0 +1,28 @@
+%
+\startsong
+\stitle{suuryava.nsham ... he divya jyot he si.nhanaad he daanaviir}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Sonu Nigam}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suuryava.nsham suuryava.nsham suuryava.nsham suuryava.nsham 
+
+he divya jyot he si.nhanaad he daanaviir he satyavaan
+aa.Nkho.n me.n chamak chehare pe damak adharo.n pe thamii cha.ndaa kii namii
+ham sabake tiirathadhaam ho tum is kalayug ke raam ho tum
+aaj tumhaare janam divas pe aa_o badhaa_ii de de.n ham
+suuryava.nsham \threedots
+%
+#endindian
+\endsong
+

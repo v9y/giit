@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{dil khush hai aaj unase mulaaqaat ho gayii}%
+\film{Ghazal}%
+\year{1964}%
+\starring{Meena Kumari, Sunil Dutt}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+dil khush hai aaj unase mulaaqaat ho gayii
+go duur hii se baat huii baat ho gayii
+
+unase hamaaraa koii ta'aalluq to ban gayaa
+biga.De bhii vo agar to ba.Dii baat ho gayii
+
+dha.Dakan ba.Dhii to saa.Ns kii khushabuu bikhar gayii
+aa.Nchal u.Daa to ra.ng kii barasaat ho gayii
+
+jii chaahataa hai maan bhii le.n, ab Kudaa ko ham
+jisakaa yakii.n na thaa vo qaraamaat ho gayii
+%
+#endindian
+\endsong
+%

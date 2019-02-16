@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{balamaa maane naa}%
+\film{Opera House}%
+\year{19??}%
+\starring{}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+balamaa maane naa
+bairii chup na rahe
+laagii man kii kahe
+paa ke akelii mujhe
+morii bahiyaa.N dhare
+
+jab jab palaTuu.n gaagar bhar ke aa~
+laT rah jaaye mukh pe bikhar ke
+baat kare aisii dil vaalaa
+ta.Dape aur ta.Dapaaye
+balamaa maane na \threedots
+
+ghuu.NghaT Daaruu.n nain churaauu.N
+ghabaraahaT me.n raah na paauu.N
+vo baa.Nkaa rasiyaa matavaalaa
+sune na morii apanii hii kahe
+balamaa maane na \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tuu meraa chaa.Nd mai.n terii chaa.Ndanii}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Suraiyya, Shyam}%
+\singer{Suraiyya, Shyam}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tuu meraa chaa.Nd mai.n terii chaa.Ndanii
+mai.n teraa raag tuu merii raaginii
+o, nahii.n dil ka lagaanaa koii dillagi, koii dillagi
+
+saath hii jiinaa saath hii maranaa
+ulfat kii hai riit, haa.N, ulfat kii hai riit
+pyaar kii muralii haradam gaaye terii lagan ke giit
+mai.n teraa raag tuu merii raaginii
+tuu meraa chaa.Nd mai.n terii chaa.Ndanii
+o, nahii.n dil ka lagaanaa   \threedots
+
+bhuul na jaanaa rut ye suhaanii
+ye din aur ye raat, haa.N, ye din aur ye raat
+jab tak chamake chaa.Nd sitaare, dekho chhuuTe na saath
+tuu meraa chaa.Nd mai.n terii chaa.Ndanii
+mai.n teraa raag tuu merii raaginii
+o, nahii.n dil ka lagaanaa   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{o dil na lagaanaa ... jiine na degaa ye zamaanaa}%
+\film{Maashooqaa}%
+\year{1953}%
+\starring{Suraiya, Mukesh, Kuldeep Kaur, Agha, Durga Khote}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10505 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+o dil na lagaanaa \-2
+jiine na degaa ye zamaanaa
+o dil na lagaanaa \threedots
+
+kahataa rahaa dil sunate rahe ham daastaan\-e\-Gam
+terii muhabbat me.n sahate rahe ham laakho.n sitam
+ban gayaa ek fasaanaa
+o dil na lagaanaa \threedots
+
+uThatii javaanii me.n dil jo lagaa_e chain na paa_e
+dil jaa ke pahaluu se vaapas na aa_e haay re haay
+piichhe pa.De hai pachhataanaa
+o dil na lagaanaa \threedots
+
+mil na sake haay do dil bechaare qismat ke maare
+yaad aa rahe hai.n jo din guzaare saath tumhaare
+haay vo guzaraa zamaanaa
+o dil na lagaanaa \threedots
+%
+#endindian
+\endsong
+

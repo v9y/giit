@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{khilaunaa jaanakar tum to, meraa dil to.D jaate ho}% 
+\film{Khilona}%
+\year{1970}%
+\starring{Sanjeev Kumar, Mumtaz}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  Sami Momammed (sm0e.Lehigh.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+ho \threedots
+khilaunaa, jaanakar tum to, meraa dil to.D jaate ho 
+mujhe is, haal me.n kisake sahaare chho.D jaate ho 
+khilaunA \threedots
+
+mere dil se nA lo badalaa zamaane bhar kii baato.n kA 
+Thahar jaao suno mehamaan huu.N mai.n cha.Nd rAto.n kA 
+chale jaanaa abhii se kis liye muh mo.D jAte ho 
+khilaunA \threedots
+
+gilaa tumase nahii.n koI, magar afasos tho.Daa hai 
+ke jis Gam ne meraa daaman ba.Dii mushkil se chho.Daa hai 
+usii Gam se meraa phir aaj rishtaa jo.D jaate ho 
+khilaunA \threedots
+
+khudaa kA vaastaa dekar manaaluu.N dUr huu.N lekin 
+tumhaaraa raastaa mai.n rok luu.N majabuur huu.N lekin 
+ke mai.n chal bhI nahii.n sakataa huu.N aur tum dau.D jaate ho 
+ho, khilaunaa \threedots
+%
+#endindian
+\endsong
+%

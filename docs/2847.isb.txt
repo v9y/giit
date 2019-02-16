@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{hai.n pyaar ke do matavaale}%
+\film{Apradhi Kaun}%
+\year{1957}%
+\starring{Abhi Bhattacharya, Mala Sinha}%
+\singer{Geeta, Manna De}%
+\music{Salil Choudhary}%
+\lyrics{Majrooh}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+%
+\printitle 
+#indian 
+%
+
+ma:  hai.n pyaar ke do matavaale ek ham hai.n aur ek tum
+     aur tum bhii kyaa
+gii: ab rah ga_e do dilavaale ek ham hai.n aur ek tum
+     aur tum bhii kyaa
+
+ma:  are maanaa tuu hai dilabar tujh se huu.N ba.Dhakar
+     siidhaa\-saadaa sundar
+gii: terii nigaahe.n ko_ii bataa_e are ba.Dhaa khoT tere andar
+ma:  dikhane me.n to bhole\-bhaale ek ham hai.n air ek tum
+     aur tum bhii kyaa
+
+gii: haay teraa bhii javaab nahii.n meraa bhii javaab nahii.n
+     kaahe kaa jhaga.Daa phir bhii
+ma:  ajii ek nazar se duuje ko dekhe nahii.n aur koii marzii
+gii: ek aa.Nkh se dekhanevaale ek ham hai.n aur ek tum
+     aur tum bhii kyaa
+
+ma:  are nain hamaarii sapano.n kii gho.Daa gaa.Dii
+     chal baiTh u.Daa ke aa.Nchal
+gii: gho.Daa gaa.Dii bhuul anaa.Dii ab Dol zaraa paidal
+ma:  paidal hii pyaar sa.mbhaale.n ek ham hai.n aur ek tum
+     aur tum bhii kyaa
+
+%
+#endindian 
+\endsong
+%

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{dekho bijalii Dole bin baadal kii}%
+\film{Phir Wohi Dil Laya Hoon}%
+\year{1963}%
+\starring{Joy Mukherjee, Asha Parekh}%
+\singer{Asha, Usha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11477 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+dekho bijalii Dole bin baadal kii \-2
+cham\-cham chamake maathe kii bindiyaa
+chhanan\-chhanan dhun paayal kii
+dekho bijalii Dole \threedots
+
+ra.ng rupahalaa jalave sunahare \-2
+Thahare.n to kaise pag nahii.n Thahare.n
+jhalak dikhaate hu_e ka_ii bal khaa_e
+Daare nazar halkii-halkii
+dekho bijalii Dole \threedots
+
+giratii\-sa.mbhalatii chalii matavaarii \-2
+ha.Ns ke uchhal pa.Dii jaise chingaarii
+girii kab dil pe ga_ii kab dil se
+duniyaa rahii re a.Nkhiyaa.N malatii
+dekho bijalii Dole \threedots
+%
+#endindian
+\endsong
+

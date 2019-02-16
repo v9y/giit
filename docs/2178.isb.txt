@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{o baabuu o laalaa, mausam dekho chalaa}%
+\film{Dilli Ka Thug}%
+\year{1958}%
+\starring{Smriti Biswas, Nutan, Kishore}%
+\singer{Geeta}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Nita, Afzal Khan
+% Editor:  
+%
+\printtitle
+#indian
+%
+o baabuu o laalaa, 
+mausam dekho chalaa
+sun le dil kyaa bolaa, 
+hai koii pyaar karane vaalaa
+o baabuu o laalaa   \threedots
+
+khoyii khoyii rut hai
+kuchh bahakii kuchh bahakaa_ii
+mahafil kii mahafil hai
+tanhaayii kii tanhaayii
+aajaa miTaa de.n faasalaa
+o baabuu o laalaa   \threedots
+
+sun jaa kyaa kahatii hai.n
+ye bhiigii bhiigii raate.n
+saathii ban jaa meraa
+kar le.n do miiThii baate.n
+mujhase nigaahe.n to milaa
+o baabuu o laalaa   \threedots
+
+%
+#endindian
+\endsong
+%

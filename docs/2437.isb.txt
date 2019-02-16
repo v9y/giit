@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{palaT merii jaan, mai.n tere qurbaan}%
+\film{Aan Milo Sajna}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+palaT merii jaan, tere qurbaan o teraa dhyaan kidhar hai
+uu.Nchii niichii te.Dii\-me.Dhii pyaar kii Dagar hai
+jaataa kidhar hai, rastaa idhar hai
+oy oy oy oy oy oy!
+palaT merii jaan   \threedots
+
+aayaa kyaa zamaanaa la.Dake la.Dakiyo.n se Darate hai.n
+aa.Nkhe bhii churaake chhupake galii se guzarate hai.n
+ye mardo.n ke naam ko badanaam karate hai.n
+e! palaT merii jaan   \threedots
+
+sochaa thaa ye mai.n ne mujhase nayan vo la.Daayegaa
+siiTii vo bajaa ke koii prem giit gaayegaa
+naa jaanaa thaa ghar kaa rastaa bhuul jaayega
+e, e, e, palaT meerii jaan   \threedots
+
+maahiyaa ve sipahiyaa, aajaa ve chaTan dii chhaa.Nv me.n
+sadake tere bachake ka.ndaa chubh na jaaye paa.Nv me.n
+ban jaa meraa mahamaan ik anajaan gaa.Nv me.n
+are palaT!
+palat merii jaan   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{sai.nyaa binaa ghar suunaa}%
+\film{Aangan Ki Kali}%
+\year{1979}%
+\starring{Rakesh Roshan, Lakshmi, Baby Geeta}%
+\singer{Lata, Bhupinder}%
+\music{Bappi Lahiri}%
+\lyrics{Shaili Shailendra}%
+%
+% Contributor: Surajit Bose
+% Transliterator: Surajit Bose
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+lataa:
+sai.nyaa.N binaa ghar suunaa, suunaa
+sai.nyaa.N binaa ghar suunaa
+raahii binaa jaise suunii galiyaa.N
+bin khushabuu jaise suunii kaliyaa.N
+sai.nyaa.N binaa ghar suunaa
+
+suunaa din kaalii ratiyaa
+asuvan se bhiigii patiyaa
+har aahaT pe Darii Darii
+raah take merii a.Nkhiyaa.N
+chaa.Nd binaa jaise suunii ratiyaa
+phuul binaa jaise suunii bagiyaa
+sai.nyaa.N binaa ghar suunaa   \threedots
+
+a.ndhiyaare baadal chhaaye
+kuchh bhii naa man ko bhaaye
+dekh akelii ghere mujhe
+yaado.n ke saaye saaye
+chaa.Nd binaa jaise suunii ratiyaa
+phuul binaa jaise suunii bagiyaa
+sai.nyaa.N binaa ghar suunaa   \threedots
+
+Bhupinder:
+aa.Nsuu yuu.N naa bahaao
+ye motii na luTaao
+rukatii nahii.n hai.n vaqt kii dhaaraa
+pala pala badale jaga ye saaraa
+chaa.Nd binaa jaise suunii ratiyaa
+phuul binaa jaise suunii bagiyaa
+sai.nyaa.N binaa ghar suunaa   \threedots
+
+%
+#endindian
+\endsong
+%

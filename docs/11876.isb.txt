@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{bahaar aa_ii magar dil me.n ... luTaa dil meraa haay aabaad ho kar}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Balraj Sahni}%
+\singer{Lata}%
+\music{Sajjad Husain}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10331 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bahaar aa_ii magar dil me.n phuul na khil sake
+ham unako paa ke bhii afasos unase mil na sake
+
+luTaa dil meraa haay aabaad ho kar
+ha.Nsii rah ga_ii merii fariyaad ho kar
+
+sivaa mere thaa kaun unakaa jahaa.N me.n
+unhe.n maine is haal me.n aaj dekhaa
+niGaahe.n ta.Dap uThii.n naakaam ho kar
+
+zamaane se kah do ki Kushiyaa.N manaa_e
+mohabbat ta.Dapatii hai barabaad ho kar
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{bahut hasii.n hai.n tumhaarii aa.Nkhe.n}%
+\film{Aadhi Raat Ke Baad}%
+\year{1965}%
+\starring{Ashok Kumar, Ragini, Shailesh Kumar, Agha, Sajjan, Ulhas, Murad}%
+\singer{Rafi, Suman}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10100 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	bahut hasii.n hai.n tumhaarii aa.Nkhe.n kaho to mai.n inase pyaar kar luu.N
+la \:	ba.Daa hai dhokhaa terii nazar me.n mai.n kis tarah aitabaar kar luu.N
+
+ra \:	ye bhiinii bhiinii havaa kii Kushbuu mahak hai tere hii tan badan kii
+la \:	sa.mbhal ke bolo chaTak naa jaa_e ko_ii navelii kalii chaman kii
+ra \:	merii kalii tum agar kaho to mai.n zindagii ko bahaar kar luu.N
+	bahut hasii.n hai.n \threedots
+
+la \:	hazaar baate.n hai.n aisii dil me.n jo ruk ga_ii.n hai.n zubaa.n pe aake
+ra \:	jo baat lab pe machal rahii hai vo aaj kah duu.N nazar milaa ke
+la \:	kisii ke hoke ye chain kho ke mai.n dil ko kyuu.N beqaraar kar luu.N
+	bahut hasii.n hai.n \threedots
+
+la \:	gino.n naa ab dha.Dakane.n hamaarii naa aur lo imtehaa.N hamaaraa
+ra \:	ise naa samajho tum aajamaa_ish yahii to ulfat kaa ishaaraa
+la \:	agar ye sach hai to marate dam tak mai.n aapakaa i.ntazaar kar luu.N
+	bahut hasii.n hai.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{rut alabelii mast samaa.N saath hasii.n har baat javaa.N}%
+\film{Shreeman Satyawaadi/ Satyamev Jayate}%
+\year{1960}%
+\starring{Raj Kapoor, Shakeela}%
+\singer{Mukesh}%
+\music{Duttaram}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10184 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+rut alabelii mast samaa.N
+saath hasii.n har baat javaa.N
+havaa kaa aa.Nchal ba.Daa hai cha.nchal
+dhiire\-dhiire gaa_e man terii qasam
+
+in machalate paaniyo.n me.n sun gunagunaate saahilo.n kii dhun
+rut hasii.n ham javaa.n haay taubaa
+naazanii.n jo ko_ii ha.Ns pa.Dii motiyo.n kii khul ga_ii la.Dii
+laajavaab hai kyaa shabaab haay taubaa
+reshamii nazar pa.D ga_ii jidhar khil ga_ii duniyaa
+are rut alabelii mast samaa.N \threedots
+
+ye mahal na dekhe kahii.n aasamaa.N ko chuume zamii.n
+kyaa Kyaal hai bemisaal haay taubaa
+aarazuu li_e niGaah me.n ma.nzile.n bulaa_e.n raah me.n
+i.ntazaar me.n beqaraar haay taubaa
+Kvaab to nahii.n yah zamii.n kahii.n Kuub hai ye duniyaa
+are rut alabelii mast samaa.N \threedots
+%
+#endindian
+\endsong
+

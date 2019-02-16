@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{o aajaa pa.nchhii akelaa hai}%
+\film{Nau Do Gyaarah}%
+\year{}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Asha, Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%
+\printtitle
+#indian
+%
+(ra: o aajaa pa.nchhI akelA hai 
+aa: o so jaa nindiyaa kI belA hai ) \- 2
+ra: o aajaa pa.nchhI akelA hai 
+
+(ra: u.D gaI nI.nd yahA.n mere nain se 
+aa: bas karo yU.nhI pa.De raho chain se ) \- 2
+ra: laage re Dar mohe laage re 
+aa: o ye kyA Darane kii belA hai 
+ra: o aajaa pa.nchhI akelA hai \threedots
+
+(ra: oho kitanI ghuTI sI hai ye fizaa 
+aa: AhA kitanI suhaanI hai ye havA ) \- 2
+ra: mar gaye ham nikalA dam mar gaye ham 
+aa: mausam kitanA alabelA hai 
+ra: o aajaa pa.nchhI akelA hai \threedots
+
+(ra: bin tere kaisii a.ndherI ye raat hai 
+aa: dil merA dha.Dakan merii tere sAth hai ) \- 2
+ra: tanhA hai phir bhI dil tanhA hai 
+aa: laagaa sapano.n kA melA hai 
+ra: o aajaa pa.nchhI akelA hai \threedots
+%
+#endindian
+\endsong
+%

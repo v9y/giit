@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{haa.N diivaanaa huu.N mai.n}% 
+\film{Saranga}%
+\starring{Mahipal}%
+\singer{Mukesh}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+haa.n dIvaanaa huu.N mai.n \- 2
+Gam kA maaraa huA 
+ik begaanaa huu.N mai.n 
+haa.n dIvaanaa huu.N mai.n 
+
+maa.Ngii khushiyaa.n magar Gam milaa pyaar me.n 
+dard hii bhar diyaa dil ke har taar me.n 
+aaj koI nahii.n meraa sa.nsaar me.n 
+chho.D kar chal diye mujhako ma.njhadhaar me.n 
+haay tiir\-e\-nazar kA nishaanaa huu.N mai.n 
+haa.n dIvaanaa huu.N mai.n \threedots 
+
+mai.n kisiikaa nahii.n koI meraa nahii.n 
+is jahaa.N me.n kahii.n bhI baseraa nahii.n 
+mere dil kA kahii.n bhI andheraa nahii.n 
+mere is shaam kA hai saveraa nahii.n 
+hAy bhUlaa huA ik fasaanaa huu.N mai.n 
+haa.n dIvaanaa huu.N mai.n \threedots 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{o paradesiyaa ... pyaar kii bahaar leke ... aajaa re}%
+\film{Bahaar}%
+\year{1951}%
+\starring{Karan Divan, Vyjayantimala}%
+\singer{Shamshad}%
+\music{S D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10018 [V S Rawat]
+% Transliterator: 
+% Comments: First Hindi film of Vyjayantimala. Colored Film released in 1956
+% 
+\printtitle
+#indian
+%
+o paradesiyaa
+pyaar kii bahaar leke dil kaa qaraar leke
+aajaa re paradesiyaa
+
+ko_ii meraa doSh hai na ko_ii qasuur hai
+kyo.n mere saajanaa nazaro.n se duur hai
+nazaro.n me.n pyaar leke sapano.n ke haar leke
+aajaa re paradesiyaa \threedots
+
+kahaa.N ga_e baalamaa mujhako bisaar ke
+yaad karo baalamaa vaayade vo pyaar ke
+Gul\-o\-gulazaar leke baaG\-o\-bahaar leke
+aajaa re paradesiyaa \threedots
+%
+#endindian
+\endsong
+

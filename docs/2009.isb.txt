@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{aaj jaane kii zidd na karo}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Habib Wali Mohammad / Farida Khanum}%
+\music{}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+aaj jaane kii zidd na karo
+yuu.Nhii pahaluu me.n baiThe raho
+haay, mar jaaye.nge
+ham to luT jaaye.nge
+aisii baate.n kiyaa na karo
+
+tum hii socho zaraa, kyo.n na roke.n tumhe.n?
+jaan jaatii hai jab uTh ke jaate ho tum
+tumako apanii qasam jaan\-e\-jaa.N
+baat itanii merii maan lo
+aaj jaane kii   \threedots
+
+vaqt kii qaid me.n zi.ndagii hai magar
+cha.nd gha.Diyaa.N yahii hai.n jo aazaad hai.n
+inako khokar kahii.n, jaan\-e\-jaa.N
+umr bhar na tarasate raho
+aaj jaane kii   \threedots
+
+kitanaa maasuum ra.ngiin hai ye samaa
+husn aur ishq kii aaj me.n raaj hai
+kal kii kisako khabar jaan\-e\-jaa.N
+rok lo aaj kii raat ko
+aaj jaane kii   \threedots
+
+%
+#endindian
+\endsong
+%

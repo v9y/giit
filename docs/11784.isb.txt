@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kar lo meraa aitabaar ... sone chaa.Ndii se maha.ngaa}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kar lo kar lo meraa aitabaar yaaro.n
+sone chaa.Ndii se maha.ngaa hai pyaar yaaro.n
+dard\-e\-dil ko ye degaa karaar yaaro.n
+sone chaa.Ndii se \threedots
+
+isake jaisaa yahaa.n bol ko_ii nahii.n
+isakaa hotaa yahaa.n mol ko_ii nahii.n
+isame.n khushiyaa.n chhupii beshumaar yaaro.n
+sone chaa.Ndii se \threedots
+
+aa.Ndhiyaa.n tham ga_ii.n kaaravaa.n bhii ruke
+takht aur taaj bhii isake aage jhuke
+karake dekho ise ek baar yaaro.n
+sone chaa.Ndii se \threedots
+%
+#endindian
+\endsong
+

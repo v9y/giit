@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{maut aa ga_ii na aa_e vo ... kaahe ko der lagaa_ii re}%
+\film{Daagh}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Usha Kiran, Lalita Pawar, Chandrashekhar Dube}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10815 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Chandrashekhar Dube
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+maut aa ga_ii na aa_e vo marane ke baad bhii
+aa.Nkhe.n tarasii rah ga_ii.n is i.ntazaar me.n
+
+kaahe ko der lagaa_ii re aa_e na ab tak baalamaa
+hamane to jaan ga.Nvaa_ii re aa_e na ab tak baalamaa
+kaahe ko der \threedots
+
+merii du_aa naakaam hu_ii hai suuraj Duubaa shaam hu_ii hai
+pahane qafan jaa_egii muhabbat dil kii lagii badanaam hu_ii hai
+ha.Nsatii hai saarii Kudaa_ii re aa_e na ab tak baalamaa
+kaahe ko der \threedots
+
+duniyaa yuu.N hii ro_egii aa_e.Ngii Kushiyaa.N Gam bhii sahegii
+lekin merii barabaad javaanii miT ke bhii unase yahii kahegii
+hamase to kii bevafaa_ii re aa_e na ab tak baalamaa
+kaahe ko der \threedots
+
+ra.ng ye laa_ii chaahat kisii kii yaad rahegii ulfat kisii kii
+merii qasam tujhe e maut Thahar jaa dekh to luu.N suurat kisii kii
+dil se sadaa ye hii aa_ii re aa_e na ab tak baalamaa
+
+hamane to priit nibhaa_ii re aa_e na ab tak baalamaa
+%
+#endindian
+\endsong
+

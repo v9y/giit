@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ishq kaa dard sohanaa}%
+\film{Ishara}%
+\year{1943}%
+\starring{Prithviraj, Swarnlata, Suraiya, Satish, Jagdish}%
+\singer{Vatsala Kumthekar}%
+\music{Khurshid Anwar}%
+\lyrics{D N Madhok}%
+
+% Contributor: BOL ANAMOL [V S Rawat], Aug 02, 2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+ishq kaa dard sohanaa ho \-3
+ishq kaa dard sohanaa
+
+ishq pahaluu me.n diyaa dil to diyaa kyaa tuune \-2
+is tarah dard ko khaalii hai kiyaa kyaa tuune \-2
+kabhii dil se jigar me.n aanaa ho
+dil se jigar me.n aanaa ho
+ishq kaa dard sohanaa ho \-2
+ishq kaa dard sohanaa
+
+kyuu.N ta.Dapataa hai zaraa \-2
+unake chal ab kaano.n se
+kyuu.N nahii.n maanataa haay \-2
+mere samajhaane se
+mere dil ko tumhii.n samajhaanaa ho \-2
+ishq kaa dard sohanaa ho \-2
+ishq kaa dard sohanaa
+
+#endindian
+\endsong

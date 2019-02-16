@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aale aa uu aale dil dil dil diivaanaa dil meraa}%
+\film{Ittefaq}%
+\year{2001}%
+\starring{Sunil Shetty, Puja Batra, Anupama Verma}%
+\singer{Jaspindar Narula, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+aale aa uu aale
+dil dil dil diivaanaa dil meraa
+dil dil dil mastaanaa dil meraa
+bechainii jaane naa kahanaa ye maane naa bole haa.N bole sadaa
+aale \threedots
+
+kyaa hasii.n samaa.n bas yahaa.n vahaa.n mastiyaa.n mai.n karuu.n
+jhuumatii rahuu.n ghuumatii rahuu.n naa mai.n kisii se Daruu.n
+aale \threedots
+
+hosh u.D ga_e bekhudii ba.Dhii chain bhii kho gayaa
+bekaraariyaa.n ye khumaariyaa.n ye kyaa mujhe ho gayaa
+aale \threedots
+%
+#endindian
+\endsong
+

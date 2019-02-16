@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{taare khile aa_ii raat ... ye duniyaa jaane naa}%
+\film{Baaghi}%
+\year{1953}%
+\starring{Naseem, Ranjan, Shammi, Mukri, Pran}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11925 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+o
+( taare khile aa_ii raat
+terii merii baat
+ye duniyaa jaane naa jaane naa jaane naa ) \-2
+taare khile aa_ii raat
+
+( merii duniyaa ke in chaa.Nd\-taaro.n me.n aa
+o bahaaro.n me.n aa
+in nazaaro.n me.n aa ) \-2
+o mausam nashe me.n chuur
+nikal chale.n duur
+ye duniyaa jaane naa jaane naa jaane naa
+taare khile aa_ii raat
+terii merii baat
+ye duniyaa jaane naa jaane naa jaane naa
+taare khile aa_ii raat
+
+( aa mere daastaa.N ban ke aa
+aramaa.N ban ke aa
+merii jaa.N ban ke aa ) \-2
+aa.Nkho.n se dil kii ho baat
+Guzar jaaye raat
+ye duniyaa jaane naa jaane naa jaane naa
+taare khile aa_ii raat
+terii merii baat
+ye duniyaa jaane naa jaane naa jaane naa
+taare khile aa_ii raat
+%
+#endindian
+\endsong
+

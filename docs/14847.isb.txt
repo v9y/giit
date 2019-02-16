@@ -1,0 +1,32 @@
+% ITRANS SONG
+
+\startsong
+\stitle{husn kahataa jaa rahaa hai baadashaahii kuchh nahii.n}%
+\film{Humayun}%
+\year{1945}%
+\starring{Ashok Kumar, Nargis, Veena, Chandramohan}%
+\singer{Shamshad, Chorus}%
+\music{Ghulam Haider}%
+\lyrics{Vikar Ambalvi}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+% Credits: Afzal A Khan
+
+\printtitle
+#indian
+
+husn kahataa jaa rahaa hai baadashaahii kuchh nahii.n
+ishqt yuu.N Kaamosh hai jaise sunaa hii kuchh nahii.n
+husn kahataa jaa rahaa hai baadashaahii kuchh nahii.n
+
+ai mohabbat kii nazar
+ai mohabbat kii nazar terii adaa_o.n ke nisaar
+dard wo baKshaa gayaa jis kii dawaa hii kuchh nahii.n
+husn kahataa jaa rahaa hai baadashaahii kuchh nahii.n
+lo Kudaa\-haafiz sidhaaro yaad kar lenaa kabhii
+hai ye qisamat kii Kataa mujhako gilaa hii kuchh nahii.n
+husn kahataa jaa rahaa hai baadashaahii kuchh nahii.n
+
+#endindian
+\endsong

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{terii aa.Nkho.n me.n mujhe pyaar nazar aataa hai}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aashiq ko_ii tumasaa nahii.n tum ishq kii pahachaan ho
+terii aa.Nkho.n me.n mujhe pyaar nazar aataa hai
+tuu hii aashiq tuu hii diladaar nazar aataa hai
+mere mahabuub sanam terii chaahat kii kasam
+pyaar me.n mar miTe vo yaar nazar aataa hai
+terii aa.Nkho.n me.n \threedots
+
+ik maasuum saa izahaar nazar aataa hai
+
+aa.Nkh la.Dii baat ba.Dhii chain luTaa re
+nii.nd ga_ii hosh u.Daa dard uThaa re
+ab na khabar mujhako mere shaam\-o\-sahar kii
+bhuul ga_ii mai.n to galii apane hii ghar kii
+dil se dil jo mile ishq ke gul khile
+ab to patajha.D me.n bhii gulazaar nazar aataa hai
+tuu hii aashiq \threedots
+
+ab to tamannaa hai yuu.n hii kho_ii rahuu.n mai.n
+terii hii baaho.n me.n sadaa so_ii rahuu.n mai.n
+mai.n bhii terii ulajhii hu_ii zulfe.n sajaa_uu.n
+niilii sii aa.Nkho.n me.n terii Duubataa jaa_uu.n
+kyuu.n rahe.n duuriyaa.N ab ko_ii daramiyaa.N
+bekaraarii me.n bhii karaar nazar aataa hai
+ik maasuum saa \threedots
+%
+#endindian
+\endsong
+

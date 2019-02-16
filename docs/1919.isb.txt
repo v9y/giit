@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye kyaa hu_aa, kaise hu_aa, kaba hu_aa, kyo.n hu_aa, jaba hu_aa, taba hu_aa}%
+\film{Amar Prem}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+% 
+ye kyaa hu_aa, kaise hu_aa, kaba hu_aa \-
+ab kyaa sunaa_e.n?
+
+(ye kyaa huA, kaise huA, kaba huA, 
+kyuu.N huA, jaba huA, taba huA ) \- 2
+o chho.Do, ye naa socho, ye kyaa huA\threedots
+
+hama kyuu.N, shikavaa kare.n jhuuThaa, kyaa huA jo dila TuuTaa \- 2
+shiishe kaa khilaunaa thaa, kuchha naa kuchha to honaa thaa, huA
+ye kyaa huA\threedots
+
+ai dila, chala piikara jhuume.n, inhii.n galiyo.n me.n ghuume.n \- 2
+yahaa.N tujhe khonaa thaa, badanaama honaa thaa, huA
+ye kyaa huA\threedots
+
+hamane jo, dekhaa thaa sunaa thaa, kyaa bataaai.n vo kyaa thaa \- 2
+sapanaa salonaa thaa, khatma to honaa thaa, huaa
+ye kyaa huA\threedots
+%
+#endindian
+\endsong
+%

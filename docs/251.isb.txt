@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{badalii badalii duniyaa hai merii}%
+\film{Sangeet Samrat Tansen}%
+\year{1962}%
+\starring{Bharat Bhushan, Anita Guha}%
+\singer{Lata, Mahendra Kapoor}%
+\music{S N Tripathi}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Himanshu Gupta <hgupta@db.stanford.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/09/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Last modified: 06/04/1996
+%
+\printtitle
+#indian
+%
+ma: badalii badalii duniyaa hai merii
+   jaaduu hai ye kyaa tere nainan kaa
+la: <banake kajaraa a.Nkhiyo.n me.n rahaa
+    ek su.ndar sapanaa bachapan kaa>		\-2
+
+la: kahatii thii sadaa dilakii dha.Dakan	\-2
+   tuu baiTh bichhaake apane nayan
+   sachchii hai agar ye terii lagan
+   lauT aaegaa saathii jiivan kaa
+
+ma/la: badalii badalii duniyaa \threedots
+
+ma: mere giito.n ke cha.nchal svar		\-2
+   aae ho.nge baadal banakar
+   barase ho.nge is aa.Ngan par
+   deke sa.ndes mere man kaa
+ 
+ma/la: badalii badalii duniyaa \threedots
+
+la: is raat ko chaa.Nd tale ye milan
+ma/la: is raat ko chaa.Nd tale ye milan
+la: chup dekh rahaa hai niil gagan
+ma/la: dauharaayegaa ye mad\-mast pavan
+   sa.ngiit hamaarii dha.Dakan kaa
+
+ma/la: badalii badalii duniyaa \threedots
+%
+#endindian
+\endsong
+%

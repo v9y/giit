@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{vo raat din vo shaam kii guzarii huii kahaaniyaa.N}%
+\film{Saiyan}%
+\year{1951}%
+\starring{Ajit, Madhubala, Sajjan}%
+\singer{Lata}%
+\music{Sajjad}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date: Dec25,2000
+% Credits:
+% Editor: Hrishi Dixit
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+(vo raat din vo shyaam kii guzarii huii kahaaniyaa.N)\-2
+ jo tere ghar me.n chho.D dii pyaar kii sab nishaaniyaa.N
+ vo raat din /threedots
+
+(sabr\-o\-qaraar chhin gayaa, ghar thaa so vo bhii luT gayaa)\-2
+ yaad rahe.ngii umr bhar aap kii maharbaaniyaa.N
+ vo raat din/threedots
+
+(aaye bhii aur chale gaye din mere bahaar ke)\-2
+ ab hai Kizaa kii god me.n rotii huii javaaniyaa.N
+ vo raat din/threedots
+
+%
+#endindian
+\endsong
+%

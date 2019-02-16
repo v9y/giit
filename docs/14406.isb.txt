@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ko_ii fariyaad tere dil me.n dabii ho jaise}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Jagjit Singh}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii fariyaad tere dil me.n dabii ho jaise
+tuune aa.Nkho.n se ko_ii baat kahii ho jaise
+
+jaagate jaagate ik umr kaTii ho jaise
+jaan baakii hai magar saa.Ns ruukii ho jaise
+
+jaanataa huu.N aapako sahaare kii zaruurat nahii.n
+mai.n to sirf saath dene aayaa huu.N
+
+har mulaaqaat pe mahasuus yahii hotaa hai
+mujhase kuchh terii nazar puuchh rahii ho jaise
+
+raah chalate hu_e aksar ye gumaa.n hotaa hai
+vo nazar chhup ke mujhe dekh rahii ho jaise
+
+ek lamhe me.n simaT aayaa hai sadiyo.n kaa safar
+zi.ndagii tez bahut tez chalii ho jaise
+
+is tarah paharo.n tujhe sochataa rahataa huu.N mai.n
+merii har saa.Ns tere naam likhii ho jaise
+ko_ii fariyaad tere dil me.n \threedots
+%
+#endindian
+\endsong
+

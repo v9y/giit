@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{a.Nkhiyo.n kaa nuur hai tuu a.Nkhiyo.n se duur hai tuu}%
+\film{Johar Mehmood in Goa}%
+\year{1965}%
+\starring{I. S. Johar, Mehmood}%
+\singer{Mukesh, Suman}%
+\music{Kalyanji Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.Nkhiyo.n kaa nuur hai tuu a.Nkhiyo.n se duur hai tuu
+phir bhii pukaare chale jaa_e.nge tuu aa_e na aa_e
+phir bhii pukaare \threedots
+
+dil me.n payaam teraa lab pe hai naam teraa
+ho ke divaane tere pyaar me.n lo aa_e jii aa_e
+ho ke divaane \threedots
+
+o mere hamaraaz kahaa.n hai mujhako de aavaaz kahaa.n hai
+pyaar kii aa.Nkho.n se tum dekho ishq vahii.n hai pyaar jahaa.n hai
+chhup chhup ke aane vaale dil ko jalaane vaale
+chupake se aajaa mere saamane
+tuu aajaa re aajaa chupake se aajaa mere saamane
+a.Nkhiyo.n kaa nuur \threedots
+
+isali_e aayaa huu.N mai.n chhup ke dekh ke hamako duniyaa jale naa
+pyaar kii mahafil kitanii anokhii nuur hai lekin diip jale naa
+yaado.n ke daaG le ke dil ke charaaG le ke
+kabase kha.Daa huu.N tere saamane
+tuu maane na maane kabase kha.Daa huu.N tere saamane
+a.Nkhiyo.n kaa nuur \threedots
+%
+#endindian
+\endsong
+

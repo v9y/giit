@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{pyaar me.n tumane dhokhaa siikhaa}%
+\film{Shabnam}%
+\year{1949}%
+\starring{Dilip Kumar, Kaamini Kaushal}%
+\singer{Mukesh, Shamshad}%
+\music{S D Burman}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10047 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mu \:	pyaar me.n tumane dhokhaa siikhaa ye to bataa_o kaise
+sha \:	oy phuul se ik bha.Nvare ko u.Daa kar maine kahaa ki aise
+
+mu \:	dil kaa jalanaa siikhaa tumane yah to bataa_o kaise
+sha \:	shamaa pe jalataa thaa paravaanaa maine kahaa ki aise
+mu \:	eji pyaar me.n tumane \threedots
+
+mu \:	tum ha.Nsate ho ham rote hai.n zulm ye siikhaa kaise
+sha \:	ha.Nse phuul aur ro_e shabanam maine kahaa ki aise
+mu \:	eji pyaar me.n tumane \threedots
+
+mu \:	pyaar sikhaa kar chhupanaa siikhaa yah to bataa_o kaise
+sha \:	jhalak dikhaakar chhup ga_ii bijalii maine kahaa ki aise
+mu \:	eji pyaar me.n tumane \threedots
+%
+#endindian
+\endsong
+

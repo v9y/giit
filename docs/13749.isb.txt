@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ko_ii pyaar kar baiThe ... to rabbaa kii kariye}%
+\film{Raajaa Ko Raani Se Pyaar Ho Gayaa}%
+\year{2000}%
+\starring{Arvind Swami, Manisha Koirala}%
+\singer{Sukhwinder Singh, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii pyaar kar baiThe dil bekaraar kar baiThe
+to rabbaa kii kariye to rabbaa kii kariye
+ko_ii pyaar kar baiThe \threedots
+
+kisii ke khvaabo.n me.n rahatii vo phuul badan ko_ii
+dil me.n usake sulag rahii ho jaise agan ko_ii
+betaab rahe bechain rahe is haal me.n vo din rain rahe
+to kii kariye haay
+ko_ii pyaar kar baiThe \threedots
+
+ko_ii agar raato.n me.n jaage aur gine taare
+din me.n khoyaa khoyaa rahe aramaan li_e saare
+shaharo.n shaharo.n anjaan phire
+galiyo.n galiyo.n diivaanaa phire
+haay kii kariye
+ko_ii pyaar kar baiThe \threedots
+%
+#endindian
+\endsong
+

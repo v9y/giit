@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tujhe pyaar karate karate yuu.n hii umr biit jaa_e}%
+\film{Dil Kho Gayaa}%
+\year{1998?}%
+\starring{Indra Kumar}%
+\singer{Kumar Sanu}%
+\music{Nikhil Vinay}%
+\lyrics{Yogesh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+uThatii nahii.n hai.n yuu.n hii tumase nashiilii palake.n
+kaajal kaa bojh kaise phir tum uThaa sakogii
+kaajal kaa bojh \threedots
+
+kyuu.n saamane hai darpan qaatil terii nazar ke
+jaanaa hai aaj tumako aakhir kahaa.n sa.nvar ke
+zulfo.n me.n phuul Taa.nko kaliyo.n se maa.ng bhar lo
+lekin kasam Kudaa kii aa.Nchal na rakhanaa sar pe
+sharam\-o\-hayaa se yuu.n hii gardan jhukii jhukii hai
+aa.Nchal kaa bojh kaise phir tum uThaa sakogii
+uThatii nahii.n hai.n \threedots
+
+ham jaanate hai.n zaalim sab bhed tere man ke
+ta.Dapaa lo chaahe jitanaa maasuum hamako ban ke
+naaz\-o\-adaa se dekho hamako tabaah kar do
+khud par sitam na karanaa paayal magar pahan ke
+naazuk kadam se yuu.n hii chalatii ho Dagamagaakar
+paayal kaa bojh kaise phir tum uThaa sakogii
+uThatii nahii.n hai.n \threedots
+%
+#endindian
+\endsong
+

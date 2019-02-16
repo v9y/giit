@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{tere sur aur mere giit, dono mil kar banegii priit}%
+\film{Goonj Uthi Shehnaai}%
+\year{1959}%
+\starring{Rajendra Kumar, Ameeta, Anita Guha}%
+\singer{Lata}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preeti Ranjan Panda RMIM (ppanda@cliff.ICS.UCI.EDU)
+%          Satish Subramanium 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+tere sur aur mere giit
+tere sur aur mere giit
+dono mil kar banegii priit
+tere sur aur mere giit
+
+(dha.Dakan me.n tuu hai samaayaa huaa
+khayaalo.n me.n tuu hii tuu chhaayaa huaa) \- 2
+duniyaa ke mele me.n laakho.n mile
+magar tuu hii tuu dil ko bhaayaa huaa
+mai.n terii jogan tuu meraa miit
+dono mil kar banegii priit
+tere sur aur mere giit
+
+(mujhako agar bhuul jaaoge tum, aa aa  aaaa 
+mujhase agar duur jaoge tum ) \- 2
+merii muhabbat me.n taasiir hai, aa aa aaaa 
+merii muhabbat me.n taasiir hai 
+to khii.nch ke mere paas aaoge tum
+dekho hamaarii hogii jiit
+dono mil kar banegii priit
+tere sur aur mere giit
+%
+#endindian
+\endsong
+%

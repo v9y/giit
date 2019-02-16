@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{vatan vaalo.n ... taaki jiitaa rahe apanaa hindustaa.n}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Roop Kumar Rathod, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vatan vaalo.n vatan naa bech denaa
+ye dharatii ye gagan naa bech denaa
+shahiido.n ne jaan dii hai vatan ke vaaste
+shahiido.n ke kafan naa bech denaa
+
+dosto.n saathiyo.n ham chale de chale
+apanaa dil apanii jaa.n
+taaki jiitaa rahe apanaa hindustaa.n
+
+ham jiye ham mare is vatan ke li_e
+is chaman ke li_e
+taaki khilataa rahe gul hameshaa yahaa.n
+
+dosto.n saathiyo.n
+dosto.n se milo dosto.n kii tarah
+dushmano.n se milo dushmano.n kii tarah
+jiinaa kyaa maranaa kyaa buzadilo.n kii tarah
+kah rahaa ye vatan ye zamii.n aasamaa.n
+maa.N ne apane beTe diye naujavaa.n
+sochakar aur kyaa
+taaki jiitaa rahe \threedots
+
+maatR^i bhuumi kaa dil tuu nahii.n to.Danaa
+desh ke dushmano.n ko nahii.n chho.Danaa
+maranaa jiinaa tujhe is vatan ke li_e
+farz apanaa nibhaa de aman ke li_e
+naaz tujhape kare ye zamii.n aasamaa.n
+dete hai.n ye du_aa
+taaki jiitaa rahe \threedots
+
+desh ke naam apanii javaanii likhii
+ye javaanii hai kyaa zi.ndagaanii likhii
+bas yahaa.n tak kii hamane kahaanii likhii
+ab likho isake aage kii tum daastaa.n
+farz kar do adaa
+taaki jiitaa rahe \threedots
+%
+#endindian
+\endsong
+

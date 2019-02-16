@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{der lagii aane me.n tumako shukr hai phir bhii aa_e to}%
+\film{Vijaypath}%
+\year{1994}%
+\starring{Ajay Devgan, Tabu}%
+\singer{Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+der lagii aane me.n tumako shukr hai phir bhii aa_e to
+aas ne dil kaa saath na chho.Daa vaise ham ghabaraa_e to
+
+tum jo na aate ham to mar jaate kyaa ham akele zi.ndaa rahate
+tumase kahe.n kyaa jo biitii dil pe dard\-e\-judaa_ii sahate sahate
+aaj hamaare pyaase dil pe banake baadal tum chhaa_e to
+der lagii aane me.n tumako \threedots
+
+betaab dil thaa bechain aa.Nkhe.n khud se khafaa ham rahane lage the
+haalat hamaarii vo ho ga_ii thii paagal hame.n log kahane lage the
+ab ik pal bhii bichha.De.n na ham tum vaqt agar ruk jaa_e to
+der lagii aane me.n tumako \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jidhar dekhuu.N terii tasaviir nazar aatii hai}%
+\film{Mahaan}%
+\year{1983}%
+\starring{Amitabh Bachchan, Waheeda Rehman, Parveen Babi, Zeenat Aman, Amzad Khan}%
+\singer{Amitabh / Kishore}%
+\music{R D Burman}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor:  
+%
+\printtitle
+#indian
+%
+jidhar dekhuu.N terii tasaviir, nazar aatii hai
+terii suurat, merii taqadiir, nazar aatii hai
+
+zindaa huu.N mai.n tere liye, jiivan teraa hai
+meraa hai jo, sab hai teraa, ab kyaa meraa hai
+merii khushiyo.n kii tuu jaagiir nazar aatii hai
+
+jidhar dekhuu.N terii tasaviir, nazar aatii hai
+terii suurat, merii taqadiir, nazar aatii hai
+
+binaa dekhe, binaa jaane, tan man baa.Ndhe jo
+ba.ndhan jo, janam janam, mar ke judaa na ho
+terii chaahat vahii za.njiir, nazar aatii hai
+
+jidhar dekhuu.N terii tasaviir, nazar aatii hai
+terii suurat, merii taqadiir, nazar aatii hai
+%
+#endindian
+\endsong
+%

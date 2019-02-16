@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dost hamaare kitane hai.n pyaare}%
+\film{Raajaa Ko Raani Se Pyaar Ho Gayaa}%
+\year{2000}%
+\starring{Arvind Swami, Manisha Koirala}%
+\singer{Abhijit, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dost hamaare kitane hai.n pyaare
+ye na_e na_e ra.ng leke aate hai.n
+hai inase raat din har gha.Dii hasii.n
+ki dosto.n ke bin zi.ndagii kuchh bhii nahii.n
+
+ye mile.n to mil ga_e khvaabo.n ke kaaravaa.n
+ye mile.n to khil ga_e raaho.n me.n gulasitaa.n
+dil kahe ke tuu chalaa chal le jaa_e.n ye jahaa.n
+dost hamaare kitane hai.n pyaare
+ye na_ii na_ii ma.nzile.n dikhaate hai.n
+hai inase raat din \threedots
+
+ye agar hai.n saath to duniyaa hai dilanashii.n
+ye agar hai.n saath to khushiyaa.n hai.n har kahii.n
+Gam kii baate.n sochane kii fursat hame.n nahii.n
+dost hamaare kitane hai.n pyaare
+ye ha.Nsate hai.n khilakhilaate hai.n
+hai inase raat din \threedots
+%
+#endindian
+\endsong
+

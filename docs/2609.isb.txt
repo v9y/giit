@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jiivan me.n piyaa teraa saath rahe}%
+\film{Goonj Uthi Shehnaai}%
+\year{1959}%
+\starring{Rajendra Kumar, Ameeta, Anita Guha}%
+\singer{Lata, Rafi}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+jiivan me.n piyaa teraa saath rahe
+haatho.n me.n tere meraa haath rahe
+jiivan me.n piyaa teraa saath rahe
+
+jab tak suuraj chandaa chamake
+ga.ngaa jamunaa me.n bahe paanii
+rahe tab tak priit amar apanii
+hai ye janam janam kii diivaanii
+o raanii yaad milan
+o jii ho o o o
+o raanii yaad milan kii ye raat rahe
+haatho.n me.n tere meraa haath rahe   \threedots
+
+{shR^i}.ngaar bharaa piyaa pyaar teraa
+jha.nkaar kare hai mere ka.Nganaa me.n
+lagii jab se lagan mere man me.n sajan
+shahanaa_ii baje hai mere a.Nganaa me.n
+o piyaa yaad milan
+o jii ho o o o
+o piyaa yaad milan kii ye raat rahe
+haatho.n me.n tere meraa haath rahe   \threedots
+
+%
+#endindian
+\endsong
+%

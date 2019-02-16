@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tumako dekhaa to kyaa ye ho gayaa}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumako dekhaa to kyaa ye ho gayaa
+lagataa hai ke saarii duniyaa hasiin hai
+tum jo aa_e to dil ne ye kahaa
+tum jo ho mere to jiinaa hasiin hai
+
+kaise bataa_uu.n mai.n tumhe.n kyaa tumame.n baat hai
+chehare pe chaa.Ndanii hai to zulfo.n me.n raat hai
+ye saaraa tan badan meraa jaise mahak uThaa
+jis pal tuune pyaar se thaamaa ye haath hai
+cha.ndan jaisii in mahakii sii baaho.n kaa ye gheraa kitanaa hasiin hai
+tum jo aa_e to \threedots
+
+kaise bataa_uu.n mai.n tumhe.n kyaa baat ho ga_ii
+tumako jo maine paa liyaa to mai.n hii kho ga_ii
+siine pe mere sar rakho palako.n ko muu.nd lo
+dekho vo chaa.Nd kii kiraN phuulo.n me.n so ga_ii
+siikhe ko_ii tumase jaaduugarii baate.n hai.n ye pyaarii lahajaa hasiin hai
+haay tumako dekhaa to \threedots
+%
+#endindian
+\endsong
+

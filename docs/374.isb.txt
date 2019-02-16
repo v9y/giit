@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{chalo baa.NT lete hai.n apanii sazaae.n ##Jagjit Singh gazal##}%
+\film{non-Film}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Sardar Anjum}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chalo baa.NT lete hai.n apanii sazaae.n
+naa tum yaad aao naa ham yaad aae.n
+
+sabhii ne lagaayaa hai chehare pe cheharaa
+kise yaad rakhe.n kise bhUl jaae.n
+chalo \threedots
+
+unhe.n kyaa khabar ho aanevaala naa aayaa
+barasatii rahii.n raat bhar ye kadaae.n
+chalo \threedots
+%
+#endindian
+\endsong
+%

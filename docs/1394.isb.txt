@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{oh re taal mile nadii ke jal me.n}%
+\film{Anokhi Raat}%
+\year{}%
+\starring{Sanjeev Kumar, Zaheeda}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+oh re taal mile nadii ke jal me.n
+nadii mile saagar me.n
+saagar mile kaun se jal me.n
+koI jaane naa 
+oh re taal mile nadii ke jal me.n \threedots
+
+anjaane ho.nTho.n par ye (pahachaane giit hai.n \- 2)
+kal tak jo begaane the janamo.n ke miit hai.n
+o mitavaa re e e e   kal tak \threedots
+kyaa hogaa kaun se pal me.n
+koI jaane naa
+oh re taal mile nadii ke jal me.n \threedots
+
+suuraj ko dharatii tarase (dharatii ko cha.ndramaa \- 2)
+paanii me.n siip jaise pyaasii har aatamaa
+o mitavaa re e e e e   paanii me.n \threedots
+buu.nd chhupii kis baadal me.n
+koI jaane naa
+oh re taal mile nadii ke jal me.n \threedots
+%
+#endindian
+\endsong
+%

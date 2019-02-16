@@ -1,0 +1,23 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ab raat milan kii biit chukii}%
+\film{Jaadoo}%
+\year{1951}%
+\starring{Nalini Jaywant, Suresh}%
+\singer{Rafi, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ab raat milan kii biit chukii
+ye khel biga.Dane waalaa hai
+naa bhuul ke tuu is duniyaa se
+dam bhar me.n bichha.Dane waalaa hai
+
+#endindian
+\endsong

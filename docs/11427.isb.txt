@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mast nazar dekh idhar ham hai.n vahii dilavaale}%
+\film{Ek Dil Sau Afsane}%
+\year{1963}%
+\starring{Raj Kapoor, Waheeda Rehman}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10936 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mast nazar dekh idhar ham hai.n vahii dilavaale
+ishq me.n jo dete hai.n jaa.N ham hai.n vahii matavaale
+mast nazar dekh \threedots
+
+dekhaa ye husn jab se meraa dil hii kho gayaa hai
+mere dost puuchhate hai.n kyaa tumako ho gayaa hai
+mast nazar dekh \threedots
+
+Gairo.n se ha.Ns ke baate.n hamase nazar churaanaa
+mujhe maar hii na Daale teraa ruK ye qaatilaanaa
+mast nazar dekh \threedots
+
+terii ek nazar pe zaalim qismat kaa faisalaa hai
+jiine kii aarazuu hai marane kaa hausalaa hai
+mast nazar dekh \threedots
+%
+#endindian
+\endsong
+

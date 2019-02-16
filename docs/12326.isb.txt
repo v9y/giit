@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{bachaalo bachaalo ... muhabbat kaa kaa.NTaa chubhaa hai nikaalo}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+jaago bachaalo bachaalo bachaalo bachaalo
+bachaalo bachaalo bachaalo bachaalo
+muhabbat kaa kaa.NTaa chubhaa hai nikaalo
+
+sa.mbhaalo sa.mbhaalo sa.mbhaalo sa.mbhaalo
+sa.mbhaalo sa.mbhaalo sa.mbhaalo sa.mbhaalo
+muhabbat kaa kaa.NTaa chubhaa hai nikaalo
+
+tho.Dii tho.Dii bekaraarii halkaa halkaa dard hai
+dekh zaraa chhuu ke dilajaanii dil kaa sholaa sard hai
+karavaT leke jaagatii huu.N nii.nd naa aa_e raat bhar
+rahane lagii huu.N ab to dilabar khud se bhii mai.n bekhabar
+ho.nTho.n se mujhe jaan\-e\-jaa.n lagaalo
+sa.mbhaalo sa.mbhaalo \threedots
+
+pyaasii pyaasii dha.Dakano.n me.n jaane kaisaa shor hai
+sach kahate hai.n duniyaa vaale ishq pe kisakaa zor hai
+tanhaa_ii me.n jab akele jaanam teraa naam luu.N
+teraa samajh ke madahoshii me.n apanaa daaman thaam luu.N
+gir jaa_uu.N naa kahii.n mujhako tum uThaalo
+bachaalo bachaalo \threedots
+%
+#endindian
+\endsong
+

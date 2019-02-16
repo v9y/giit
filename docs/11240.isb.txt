@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{taaro.n se pyaare dil ke ishaare ... aanaa hii hogaa tujhe}%
+\film{Diwana}%
+\year{1967}%
+\starring{Raj Kapoor, Saira Bano, Kanhaiyyalal}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11054 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+taaro.n se pyaare dil ke ishaare
+pyaase hai.n aramaa.N aa mere pyaare
+aanaa hii hogaa tujhe aanaa hii hogaa aanaa hii hogaa \-2
+
+dil tujhe yaad kare aur fariyaad kare
+pe.Do.n kii chhaa.Nv tale ( teraa i.ntazaar kare ) \-2
+saa.Njh\-sakaare dil ye pukaare
+pyaase hai.n aramaa.N \threedots
+
+haal\-e\-dil jaan le tuu hamako pahachaan le tuu
+ham ko_ii Gair nahii.n ( baat ye maan le tuu ) \-2
+ham hai.n bechaare duniyaa ke maare
+pyaase hai.n aramaa.N \threedots
+%
+#endindian
+\endsong
+

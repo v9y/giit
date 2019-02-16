@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{banake suhaagan rahii abhaagan}%
+\film{Sahaara}%
+\year{1958}%
+\starring{Meena Kumari, Raajan}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:January 12,2002
+% Commnets:LATAnjali series
+%
+\printtitle
+#indian
+%
+(banake suhaagan rahii abhaagan, ruuTh ga_ii taqadiir merii
+ruuTh ga_ii taqadiir merii)\-2
+apanii hii taqadiir ke aage, chal naa sakii tadabiir merii
+ruuTh ga_ii taqadiir merii \threedots
+
+(aane ko to aa_ii bahaare.n, lekin mai.n barabaad huii
+basate basate uja.D gaii main, ye kaisii bedaag merii)\-2
+banate banate biga.D ga_ii hai, sapanon kii tasaviir merii
+ruuTh ga_ii taqadiir merii \threedots
+
+(ma.nzil tak pahu.Nche to, ma.nzil aur bhii mujhase duur huii
+ha.Nsate ha.Nsate merii qisamat, rone pe majabuur huii)\-2
+aaj zamaanaa huaa begaanaa, koii na samajhe piir merii
+ruuTh ga_ii taqadiir merii \threedots
+
+%
+#endindian
+\endsong
+%

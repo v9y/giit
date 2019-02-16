@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{govind bolo hari gopaal bolo ... o rii o mose moraa shyaam ruuThaa}%
+\film{Johny Mera Naam}%
+\year{1970}%
+\starring{Dev Anand, Hema Malini, Premnath, I S Johar}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11521 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ko \:	govind bolo hari gopaal bolo
+	raadhaa\-raman hari gopaal bolo
+	govind bolo hari gopaal bolo
+	jay\-jay shyaam ( raadheshyaam ) \-3
+
+la \:	o rii o
+	mose moraa shyaam ruuThaa
+	kaahe moraa bhaag phuuTaa
+	kaahe maine paap Dho_e
+	a.Nsuvan biij bo_e
+	chhup\-chhup miiraa ro_e
+	dard na jaane ko_e
+	o rii o
+	mose moraa \threedots
+ko \:	jay\-jay shyaam ( raadheshyaam ) \-3
+
+la \:	viSh kaa pyaalaa piinaa pa.Daa hai
+	marakar bhii mohe jiinaa pa.Daa hai
+	nain milaa_e giradhar se
+	gir ga_ii jo apanii hii nazar se
+	ro\-ro nainaa kho_e
+	chhup\-chhup miiraa \threedots
+ko \:	jay\-jay shyaam ( raadheshyaam ) \-3
+%
+#endindian
+\endsong
+

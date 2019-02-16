@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ho ga_ii taiyaar hamaarii ##army##}%
+\film{Army}%
+\year{1996}%
+\starring{Sridevi, Shahrukh, Harish, Mohnish, Sudesh Berry, Ronit, Ravi Krishan}%
+\singer{Udit Narayan, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho ga_ii taiyaar hamaarii ##army##
+maanegii na haar hamaarii ##army##
+hausale baaruudo.n vaale saa.Nso.n me.n hai jvaalaa
+zi.ndagii ne maaraa hamako maut ne hai paalaa
+ho ga_ii taiyaar \threedots
+
+sar jhukaa_e baiThaa kyo.n bhalaa mere miit muskuraa
+saaj ko_ii haatho.n me.n uThaa nayaa giit gunagunaa
+aa.ndhii ko rok le.n tuufaa.n ko mo.D de.n
+saare jahaan ko ham piichhe chho.D de.n
+aage hameshaa ba.Dhatii hii jaa_egii
+Daregii na yaar hamaarii ##army##
+ho ga_ii taiyaar \threedots
+
+jaan se pyaarii hai hame.n ek duusare kii jaan
+ek duuje ke li_e sadaa ho.nge ham yahaa.n qurbaan
+aa.Nkho.n me.n khvaab hai.n siine me.n josh hai
+khushiyo.n kii raat hai ab kisako hosh hai
+mu.D ke kabhii vaapas na aa_egii
+jiitegii sau baar hamaarii ##army##
+ho ga_ii taiyaar \threedots
+%
+#endindian
+\endsong
+

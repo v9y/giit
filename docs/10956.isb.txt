@@ -1,0 +1,85 @@
+
+%
+\startsong
+\stitle{mujhe madhur lagataa hai unase apanaa pyaar chhupaanaa}%
+\film{Chal Chal Re Naujawan}%
+\year{1944}%
+\starring{Ashok Kumar, Naseem Bano, Jagdish Sethi, V H Desai, Motibai}%
+\singer{Ashok Kumar, Naseem Bano}%
+\music{Ghulam Haider}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #12002 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	ho
+na \:	ho
+	( mujhe madhur lagataa hai unase
+a \:	apanaa
+	pyaar chhupaanaa
+	haa.N pyaar chhupaanaa ) \-2
+
+	bhiitar\-bhiitar haa.N kahuu.N mai.n
+na \: o
+a \:	bhiitar\-bhiitar haa.N kahuu.N mai.n
+na \:	baahar boluu.N naa\-naa
+do \:	mujhe madhur lagataa hai unase
+	apanaa pyaar chhupaanaa
+	haa.N pyaar chhupaanaa
+
+na \:	( kitanii pyaarii thii
+a \:	kitanii thii bolii
+na \:	unakii merii wo
+a \:	aa.Nkh\-micholii ) \-2
+
+na \:	( man ke andar mai.n kahatii thii
+a \:	aajaa
+na \:	aajaa ho more raajaa ) \-2
+	aajaa ho more raajaa aajaa
+
+a \:	aa.Nkho.n se kahatii thii naa aanaa naa aanaa
+na \:	mai.n to karatii thii bahaanaa
+
+do \:	mujhe madhur lagataa hai unase
+	apanaa pyaar chhupaanaa
+	haa.N pyaar chhupaanaa
+
+na \:	ik ishaare me.n jo chhalake
+	prem nahii.n hai wo gaharaa
+a \:	un aa.Nkho.n kii qiimat hii kyaa
+	jinape nahii.n sharam kaa paharaa \-2
+
+na \:	o
+	merii duniyaa alag hai sabhii se re
+	merii duniyaa alag hai sabhii se
+	haa.n haa.N haa.N merii adaa niraalii
+	haa.n haa.N
+a \:	o ho ho merii adaa niraalii
+
+na \:	mai.n to chhup\-chhup ke pyaar karuu.N
+	haa.N haa.N pyaar karuu.N
+	ho merii priit hai
+	haa.N merii priit hai
+	priit hai
+a \:	ghuu.NghaT waalii
+	haa.N haa.N ghuu.NghaT waalii
+
+do \:	aa haa haa haa haa aa
+	priit hai ghuu.NghaT waalii
+	ghuu.NghaT waalii
+	priit hai ghuu.NghaT waalii
+
+a \:	aa haa haa haa haa
+na \:	aa haa haa haa haa
+a \:	o ho ho ho ho
+a \:	aa haa haa haa haa
+a \:	aa haa haa haa haa
+do \:	aa haa haa haa haa
+%
+#endindian
+\endsong
+

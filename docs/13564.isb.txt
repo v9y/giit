@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mai.n soyaa akhiyaa.N miiche terii zulfo.n ke niiche}%
+\film{Phaagun}%
+\year{1958}%
+\starring{Bharat Bhushan, Madhubala}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10538 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	mai.n soyaa akhiyaa.N miiche terii zulfo.n ke niiche
+	duniyaa ko bhuul diivaanii ab rahaa zamaanaa piichhe
+	mai.n soyaa akhiyaa.N \threedots
+
+	ye kaun hasii.n sharamaayaa taaro.n ko pasiinaa aayaa
+	hiranii kii aa.Nkhe.n le kar dil kaun churaane aayaa
+	mai.n soyaa akhiyaa.N \threedots
+
+aa \:	mai.n so_ii akhiyaa.N miiche terii baa.Nho.n ke niiche
+	ab chaahe kahii.n le jaa tuu aage aur mai.n piichhe
+
+	ye mere nayan ke taare terii akhiyaa.N dekh ke haare
+	o janam\-janam ke saathii merii maa.Ng me.n bhar de taare
+	mai.n soyaa akhiyaa.N \threedots
+%
+#endindian
+\endsong
+

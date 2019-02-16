@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{in aa.Nkho.n kii mastii ke mastaane hazaaro.n hai.n}%
+\film{Umrao Jaan}%
+\year{1981}%
+\starring{Rekha, Naseeruddin Shah}%
+\singer{Asha}%
+\music{Khaiyyam}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Anuranjan Gulati (agulati@csd4.csd.uwm.edu)
+%          Jasjit Singh (jasjit@cc.gatech.edu)
+%	   Himanshu Gupta (gupta@grinch.csl.uiuc.edu)
+%          Tabassum Hijazi
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+in aa.Nkho.n kii mastii ke mastaane hazaaro.n hai.n 
+in aa.Nkho.n se vaabastaa afasaane hazaaro.n hai.n
+in aa.nkho.n\threedots 
+
+ik tum hii nahii.n tanhaa, ulafat me.n merii rusavaa
+is shahar me.n tum jaise diivaane hazaaro.n hai.n 
+in aa.Nkho.n\threedots 
+
+ik sirf ham hii may ko aa.Nkho.n se pilaate hai.n 
+kahane ko to duniyaa me.n mayakhaane hazaaro.n hai.n 
+in aa.Nkho.n\threedots 
+
+is shamm\-e\-farozaa.N ko aa.ndhii se Daraate ho 
+is shamm\-e\-farozaa.N ke paravaane hazaaro.n hai.n 
+in aa.Nkho.n\threedots 
+%
+#endindian
+\endsong
+%

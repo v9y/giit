@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{do buu.Nde saavan kii haay do buu.Nde saavan kii}%
+\film{Phir Subah Hogi}%
+\starring{Raj Kapoor, Mala Sinha, Rehman}%
+\singer{Asha}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+do buu.Nde saavan kii haay do buu.Nde saavan kii
+ek saagar kii siip me.n Tapake aur motii ban jaaye
+duujii gande jal me.n girakar apana aap gavaaye
+kisako mujarim samajhe koI kisako doshh lagaaye
+do buu.Nde saavan kii
+
+do kaliyaa.N gulashan kii haay do kaliyaa.N gulashan kii
+ek sehare ke biich gu.ndhe aur man hii man itaraaye
+ek arthii ke bhe.nT cha.Dhe aur dhuuli me mil jaaye
+kisako mujarim samajhe koI kisako doshh lagaaye \- 2
+do kaliyaa.N saavan kii
+
+do sakhiyaa.N bachapan kii haay do sakhiyaa.N bachapan kii
+ek si.nhaasan par baiThe aur ruupamatii kahalaaye
+duujii apane ruup ke kaaraN galiyo.n me bik jaaye
+kisako mujarim samajhe koI kisako doshh lagaaye
+do sakhiyaa.N bachapan kii
+%
+#endindian
+\endsong
+%

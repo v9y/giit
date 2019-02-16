@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{saare shahar me.n ek hasii.n hai}%
+\film{Alibaaba Aur 40 Chor}%
+\year{1980}%
+\starring{Dharmendra, Hema Malini, Zeemat Aman, Prem Chopra, Madan Puri}%
+\singer{Lata, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11605 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+saare shahar me.n ek hasii.n hai
+aur vo mai.n huu.N aur ko_ii nahii.n
+tuu na idhar dekh yaar udhar dekh
+saare shahar me.n \threedots
+
+pyaar karegaa mujhase agar tuu yaad karegaa saarii umar tuu
+phir bhii kisii kaa naam na legaa ye to mujhako yaqiin hai
+saare shahar me.n \threedots
+
+sabakii nigaahe.n mujh pe jhukii hai.n terii nigaahe.n mujhape rukii hai.n
+dekh zaraa aisii adaa aisii nazar aur kahaa.N
+mere sanam ke paas na jaanaa meraa sanam hai meraa diivaanaa
+mai.n huu.N falaq aur tuu zamiin hai
+saare shahar me.n \threedots
+%
+#endindian
+\endsong
+

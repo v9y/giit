@@ -1,0 +1,46 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jal me kumbh hai}%
+\film{(Non-film)}%
+\year{1980}%
+\starring{-}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Kabir}%
+% 
+% Audio on: Reliance CS R1007
+% Tags: Devotional
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 6 Jun 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+jal me kumbh 
+kumbh me jal
+baahar bhiitar paanii
+uTh kumbh jal 
+jal hii samaanaa
+vo kath kahai gayaanii
+jal me kumbh kumbh me jal \threedots
+
+(aage gaganaa a.nte gaganaa
+madhye gaganaa bhaa_ii) \-2
+(kaha_ii kabiir karm kis laaga_ii) \-2
+jo dii ek upaa_ii
+jal me kumbh kumbh me jal \threedots
+
+
+
+
+
+
+
+%
+#endindian
+\endsong

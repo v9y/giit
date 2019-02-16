@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{na mai.n bhagavaan huu.N na mai.n shaitaan huu.N}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Sunil Dutt, Raaj Kumar, Rajendra Kumar}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: David Windsor (windeng@fac.anu.edu.au)
+% Credits:
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Mon Jan 29 1996
+%
+\printtitle
+#indian
+%
+na mai.n bhagavaan huu.N na mai.n shaitaan huu.N
+duniyaa jo chaahe samajhe mai.n to inasaan huu.N
+
+mujh me.n bhalaaii bhii mujh me.n buraaii bhii
+laakho.n hai.n mail dil me.n tho.Dii safaaii bhii
+tho.Daa saa nek huu.N tho.Daa beiimaan huu.N
+duniyaa jo chaahe samajhe mai.n to inasaan huu.N
+
+na koii raaj hai na sar par taaj hai
+phir bhii hamaare dam se dharatii kii laaj hai
+tan kaa Gariib huu.N man kaa dhanavaan huu.N
+duniyaa jo chaahe samajhe mai.n to inasaan huu.N
+
+jiivan kaa giit hai sur me.n na taal me.n
+ulajhii hai saarii duniyaa roTii ke jaal me.n
+kaisaa a.Ndher hai mai.n bhii hairaan huu.N
+duniyaa jo chaahe samajhe mai.n to inasaan huu.N
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{are naach aaj to sa.Dako.n par yahaa.N}%
+\film{Prateekshaa}%
+\year{1992}%
+\starring{Govinda, Shilpa Shirodkar, Moushumi, Danny, Jeetendra, Vinod Mehra}%
+\singer{Kumar Sanu, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are naach aaj to sa.Dako.n par yahaa.N
+jhuume.nge magar kal vo aasamaa.N
+a.ngo.n me.n hai.n mastiyaa.N saa.Nso.n me.n hai.n aa.Ndhiyaa.N
+paa.Nvo.n tale hai.n bijaliyaa.N
+are naach aaj to \threedots
+
+ko_ii nahii.n hai rahanumaa
+Dhuu.NDhe.n ma.nzil khud jahaa.N
+raaste hai.n abhii to dhu_aa.N
+are naach aaj to \threedots
+
+maanaa hai.n raasto.n pe pale
+Gam ke sholo.n me.n jale
+kam hu_e naa kabhii hausale
+are naach aaj to \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{din hai.n bahaar ke tere mere iqaraar ke}%
+\film{Waqt}%
+\year{1965}%
+\starring{Balraj Sahni, Sadhana, Sunil Dutt, Raj Kumar, Shashi Kapoor, Sharmila Tagore, Shashikala}%
+\singer{Asha, Mahendra Kapoor, Chorus}%
+\music{Ravi}%
+\lyrics{Sahir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+aa \:	( din hai.n bahaar ke tere mere iqaraar ke
+	dil ke sahaare aa jaa pyaar kare.n ) \-2
+ma \:	dushman hai.n pyaar ke jab laakho.n Gam sa.nsaar ke
+	dil ke sahaare kaise pyaar kare.n
+
+aa \:	( duniyaa kaa bojh zaraa dil se utaar de
+	chhoTii sii zi.ndagii hai ha.ns ke guzaar de ) \-2
+ma \:	apanii to zi.ndagii jiitii hai jii ko maar ke
+	dil ke sahaare kaise pyaar kare.n
+aa \:	din hai.n bahaar ke tere mere iqaraar ke
+	dil ke sahaare aa jaa pyaar kare.n
+
+ma \:	( achchhaa nahii.n hotaa yuu.Nhii sapano.n se khelanaa
+	ba.Daa hii kaThin hai haqiiqato.n ko jhelanaa ) \-2
+aa \:	apanii haqiiqate.n mere sapano.n pe waar ke
+	dil ke sahaare aa jaa pyaar kare.n
+ma \:	dushman hai.n pyaar ke jab laakho.n Gam sa.nsaar ke
+	dil ke sahaare kaise pyaar kare.n
+
+aa \:	( aisii waisii baate.n sabhii dil se nikaal de
+	jiinaa hai to kashtii ko dhaare pe Daal de ) \-2
+ma \:	dhaare kii god me.n ghere bhii hai.n majhadhaar ke
+	dil ke sahaare kaise pyaar kare.n
+aa \:	( din hai.n bahaar ke tere mere iqaraar ke
+	dil ke sahaare aa jaa pyaar kare.n ) \-2
+
+#endindian
+\endsong

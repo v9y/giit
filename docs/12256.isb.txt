@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{mere giit hai.n anaam anaam shahiido.n ke naam}%
+\film{Jurm Aur Sazaa}%
+\year{1974}%
+\starring{Vinod Mehra, Nanda, N A Ansari, Johny Walker}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Ram Bhardwaj}%
+%
+% Contributor: BOL ANAMOL #11552 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mere giit hai.n anaam
+anaam shahiido.n ke naam
+
+maathe lagii golii kii rolii
+phuul sahii zindagii chaman chho.D bolii
+vatan vaasiyo.n meraa antim praNaam
+mere giit hai.n \threedots
+
+maatR^i\-bhuumi ke li_e pyaare desh ke li_e
+ha.Ns ke praaN taj di_e bin kahe bin sune
+mahaan aatmaa_e.N chalii hai.n gumanaam
+mere giit hai.n \threedots
+%
+#endindian
+\endsong
+

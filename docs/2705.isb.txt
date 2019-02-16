@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{samaa ke dil me.n hamaare zaraa Kayaal rahe}%
+\film{Anhonee}%
+\year{1952}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Talat, Lata}%
+\music{Roshan}%
+\lyrics{Satyendra}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+samaa ke dil me.n hamaare zaraa Kayaal rahe
+hame.n na koii pukaare zaraa Kayaal rahe
+
+bahaar ban ke koii is chaman me.n aa hii gayaa
+hamaare soye hue pyaar ko jagaa hii gayaa
+javaa.N hue hai.n nazaare zaraa Kayaal rahe
+hame.n na koii pukaare \threedots
+
+ye dil ka dard nigaaho.n kii pyaas dhokhaa
+zamii.n pe rah ke sitaaro.n kii aas dhokhaa hai
+ye sabz\-o\-baaG hai.n saare zaraa
+hai.n pyaase nain bechaare zaraa Kayaal rahe
+
+na Dagamagaa de ye kashtii bha.Nvar zamaane kaa
+yahii to vaqt hai maa.Njhii ko aazamaane kaa
+na chhuuT jaaye kinaare zaraa Kayaal rahe
+hai.n pyaase nain bechaare zaraa Kayaal rahe
+
+ye giit gaate hue mast vaadiyo.n kii qasam
+mai.n ik tumhaare ishaare pe rakh rahii huu.N qadam
+ham ab hue hai.n tumhaare zaraa Kayaal rahe
+hai.n pyaase nain bechaare zaraa Kayaal rahe
+samaa ke dil me.n hamaare \threedots
+
+%
+#endindian
+\endsong
+%

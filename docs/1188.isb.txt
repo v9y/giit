@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{mere a.ngane me.n tumhaaraa kyaa kaam hai}%
+\film{Laawaris}%
+\year{1981}%
+\starring{Amitabh, Rakhee}%
+\singer{Amitabh / Alka Yagnik}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Parag Chhibber (usp_pchhibbe@sitvax.stevens-tech.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% song starts with
+% 'la la ra lara laara...la laara ra ra ra
+% la la la.....'
+%
+mere a.ngane me.n tumhaaraa kyaa kaam hai \- 2
+jo hai naam vaalaa vahii to badanaam hai
+mere a.ngane me.n tumhaaraa kyaa kaam hai
+
+jisakii biivii lambii usakaa bhii ba.Daa naam hai \- 2
+koThe se lagaa do sii.Dhii kaa kyaa kaam hai
+mere a.ngane me.n \threedots
+
+jisakii biivii moTii usakaa bhii ba.Daa naam hai \- 2
+bistar pe liTaa do gadde kaa kyaa kaam hai
+mere a.ngane me.n \threedots
+
+jisakii biivii gorii usakaa bhii ba.Daa naam hai \- 2
+kamare me.n biThaa lo bijalii kaa kyaa kaam hai
+mere a.ngane me.n \threedots
+
+jisakii biivii kaalii usakaa bhii ba.Daa naam hai \- 2
+aa.Nkho.n me.n basaa lo surame kaa kyaa kaam hai
+mere a.ngane me.n \threedots
+
+jisakii biivii chhoTii usakaa bhii ba.Daa naam hai
+chhoTii chhoTii, chhoTii naaTii, chhoTii naaTii \threedots \- 2
+god me.n biThaa lo bachche kaa kyaa kaam hai
+mere a.ngane me.n \threedots
+%
+#endindian
+\endsong
+%

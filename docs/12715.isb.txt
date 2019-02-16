@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{qaatil hai terii har adaa har dil hai tujh par fidaa}%
+\film{Lady Killer}%
+\year{1968}%
+\starring{Arun Sarnaik, Shabnam, David, Helen, Neelofar, Noorjahan, Rani}%
+\singer{Mukesh}%
+\music{Ajit Merchant}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10060 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+qaatil hai terii har adaa har dil hai tujh par fidaa
+raahii apanii ma.nzil bhuule dekh ke teraa cheharaa
+pyaarii hai tuu itanii Kudaa bhii to chaahataa hogaa
+hasii.n hai tuu Kudaa bhii to maanataa hogaa
+
+cham cham chamake teraa badan jiivan saagar paar karake
+muskaano.n me.n motii chhupe hai.n siipo.n sii palake.n
+mahafil me.n hai har dil me.n hai ab teraa hii jalavaa
+
+pa.nkh nahii.n hai jisake aisii tuu hai ruup parii
+jannat ko kyo.n chho.Daa tuune falaq se kyo.n utarii
+jab dekho tab karate hai.n lab teraa hii charachaa
+%
+#endindian
+\endsong
+

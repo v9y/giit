@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aane vaalaa kal bas ek sapanaa hai ... yaado.n ke sab juganuu.n}%
+\film{Phir Teri Kahaani Yaad Aayi}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Pooja Bedi, Avtar Gill, Neena Gupta, Javed Khan}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aane vaalaa kal bas ek sapanaa hai \-2
+guzaraa hu_aa kal bas ek apanaa hai \-2
+ham guzare kal me.n rahate hai.n
+yaado.n ke sab juganuu.n ja.ngal me.n rahate hai.n \-2
+aane vaalaa kal bas ek \threedots
+
+mere tan man ke aramaa.n apane tan man se puuchho
+inakii ghun ghun kaa matalab dil kii dha.Dakan se puuchho
+duniyaa saare zamiine.n le le daulat le le Kazaane le le
+luuT sake na jisako zamaanaa hamako ek pal aisaa de de
+pyaar ke ra.ngii.n mausam sab jis pal me.n rahate hai.n
+vaqt ke sachche naGme.n jis pal me.n rahate hai.n
+aane vaalaa kal bas ek \threedots
+%
+#endindian
+\endsong
+

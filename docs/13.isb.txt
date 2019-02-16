@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{aa chal ke tujhe mai.n le ke chaluu.n}%
+\film{Door Gagan Ki Chhaaon Mein}%
+\year{1964}%
+\starring{Kishore, Supriya Chowdhury, Amit Kumar}%
+\singer{Kishore}%
+\music{Kishore}%
+\lyrics{Kishore}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde, Vinay P Jain
+% Credits: Akash Sharma (akash@brahms.udel.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Kaustubh Pingle
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa chal ke tujhe, mai.n le ke chaluu.n
+ik aise gagan ke tale
+jahaa.N Gam bhii na ho, aa.Nsuu bhii na ho
+bas pyaar hii pyaar pale
+ik aise gagan ke tale
+
+suuraj kii pahalii kiraN se, aashaa kaa saveraa jaage  (2)
+cha.ndaa kii kiraN se dhul kar, ghanaghor a.ndheraa bhaage  (2) 
+kabhii dhuup khile kabhii chhaa.Nv mile
+lambii sii Dagar na khale
+jahaa.N Gam bhii no ho,  aa.Nsuu bhii na ho \threedots
+
+jahaa.N duur nazar dau.D aae, aazaad gagan laharaae
+jahaa.N ra.ng bira.nge pa.nchhii, aashaa kaa sa.ndesaa laae.n   (2)
+sapano me palii ha.Nsatii ho kalii
+jahaa.N shaam suhaanii Dhale
+jahaa.N Gam bhii na ho,  aa.Nsuu bhii na ho \threedots
+aa chal ke tujhe mai.n le ke chaluu.n \threedots
+
+sapano.n ke aise jahaa.N me.n jahaa.N pyaar hii pyaar khilaa ho
+ham jaake wahaa.N kho jaae.N shikawaa naa koii gilaa ho
+koii bair na ho, koii Gair na ho
+sab milake yuu.N chalate chale.n
+jahaa.N Gam bhii na ho,  aa.Nsuu bhii na ho \threedots
+aa chal ke tujhe mai.n le ke chaluu.n \threedots
+
+%
+#endindian
+\endsong
+%

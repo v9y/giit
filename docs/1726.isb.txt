@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ThaNDii havaae.n laharaake aae.n}%
+\film{Naujawaan}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ThaNDii havaae.n, laharaake aae.n 
+rut hai javaa.n, unako yahaa.N, kaise bulaae.n 
+ThaNDii havaae.n \threedots
+
+chaa.Nd aur taare, ha.Nsate nazaare 
+milake sabhii, dil me.n sakhii, jaaduu jagaaye.n 
+ThaNDii havaae.n \threedots
+
+kahaa bhI nA jaaye, rahaa bhI nA jaaye 
+tumase agar, mile bhI nazar, ham jhe.np jaae.n 
+ThaNDii havaae.n \threedots
+
+dil ke fasaane, dil hii nA jaane 
+tumako sajan, dil kii lagan, kaise bataaye.n 
+ThaNDii havaae.n \threedots
+%
+#endindian
+\endsong
+%

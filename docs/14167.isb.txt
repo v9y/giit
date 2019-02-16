@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{tum to pyaar ho sajanaa}%
+\film{Sehra}%
+\year{1963}%
+\starring{Prashant, Sandhya}%
+\singer{Rafi, Lata}%
+\music{Ramlal}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10311 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	tum to
+	tum to pyaar ho sajanaa tum to pyaar ho
+	mujhe tumase pyaaraa aur na ko_ii
+	tum to pyaar ho sajanaa
+
+ra \:	tum to pyaar ho sajanii tum to pyaar ho
+	mujhe tumase pyaaraa aur na ko_ii
+	tum to pyaar ho
+
+la \:	aa kitanaa hai pyaar hamase ye to bataa do
+ra \:	a.mbar pe taare jitane itanaa samajh lo
+la \:	sach merii qasam
+ra \:	terii qasam terii yaad hame.n luuTe
+la \:	qasame.n to khaane vaale hote hai.n jhuuThe
+	chalo jaa_o haTo jaa_o dil kaa daaman chho.Do
+ra \:	tum to pyaar ho sajanii \threedots
+
+	ho o aake na jaa_e kabhii aisii bahaar ho
+la \:	tum bhii hamaare li_e jiivan si.ngaar ho
+ra \:	sach merii qasam
+la \:	terii qasam tuu hai aa.Nkh ke til me.n
+ra \:	tum bhii chhupii ho mere shiishaa\-e\-dil me.n
+	o mere hamadam mere hamadam merii baat to maano
+la \:	tum to pyaar ho sajanaa \threedots
+
+do \:	tum to pyaar ho
+%
+#endindian
+\endsong
+

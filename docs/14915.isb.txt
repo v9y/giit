@@ -1,0 +1,55 @@
+% ITRANS SONG
+
+\startsong
+\stitle{raajaa ho, more man ke raajaa aa jaa suratiyaa dikhaa jaa}%
+\film{Dopatta (Pakistani-Film)}%
+\year{1952}%
+\starring{Noorjehan, Santosh Kumar, Ajey Kumar}%
+\singer{Noorjehan}%
+\music{Firoz Nizami}%
+\lyrics{Arsh Lucknowi}%
+
+% Contributor: V S Rawat, Aug 7, 2004
+% Series: NOOR-E-TARANNUM
+
+\printtitle
+#indian
+
+raajaa ho
+more man ke raajaa aa jaa suratiyaa dikhaa jaa \-2
+aajaa nagariyaa hamaarii re
+aa nagariyaa hamaarii re
+gharii\-gharii man ko sataaye, rulaaye raajaa
+yaad tihaarii re \-2
+
+more man ke raajaa aa jaa suratiyaa dikhaa jaa
+aajaa nagariyaa hamaarii re
+aa nagariyaa hamaarii re
+raajaa ho
+
+gin\-gin taare nainan haare haay gin\-gin taare
+dard ke maare ye dukhiyaare haay dard ke maare
+ho ruke rahii korii\-korii
+haay ro_uu.N mai.n chorii\-chorii
+ro_uu.N mai.n chorii\-chorii
+laaj kii maarii re \-2
+
+more man ke raajaa aa jaa suratiyaa dikhaa jaa
+aajaa nagariyaa hamaarii re
+aa nagariyaa hamaarii re
+raajaa ho
+
+suuniii aTariyaa aayo re sa.Nwariyaa haay suuniii aTariyaa
+torii Dagariyaa laagii najariyaa haay torii Dagariyaa
+ho tak\-tak baarii\-baarii
+haay hamane saarii\-saarii
+hamane saarii\-saarii
+raat gujaarii re \-2
+
+more man ke raajaa aa jaa suratiyaa dikhaa jaa
+aajaa nagariyaa hamaarii re
+aa nagariyaa hamaarii re
+raajaa ho
+
+#endindian
+\endsong

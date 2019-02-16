@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ham dono.n jaisaa hai kaun yahaa.N}%
+\film{Mere Yaar Ki Shaadi Hai}%
+\year{2002}%
+\starring{Jimmy Shergil, Uday Chopada, Sanjana}%
+\singer{KayKay, Sunidhi Chauhan}%
+\music{Jiit Pritam}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham dono.n jaisaa hai kaun yahaa.N
+ra.ngiin kiyaa hai hamii.n ne ye samaa.n
+hamasaa ko_ii kahaa.N ho ho ho ho o o o o
+ham dono.n jaisaa \threedots
+
+ko_ii kyuu.N naa milaa kyuu.N ho isakaa gilaa
+ham javaa.N ham hasii.n hamako Gam bhii nahii.n
+ye pyaaraa nazaaraa paagal na kar de mere dil ko
+ham dono.n jaisaa \threedots
+
+ko_ii jo saath hai pyaarii har baat hai
+khul ga_e raaste pyaar ke vaaste
+ko_ii aayaa to paayaa is dil ne bhii apanii ma.nzil ko
+ham dono.n jaisaa \threedots
+%
+#endindian
+\endsong
+

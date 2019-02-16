@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{bas merii jaan bas, maan le merii baat}%
+\film{Aanchal}%
+\year{}%
+\starring{Rajesh Khanna, Raakhee, Rekha, Amol Palekar}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Neeraj Deshmukh <neeraj@engc.bu.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/27/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org> 
+% Comments: Released in 1980
+%
+\printtitle
+#indian
+%
+ki: bas merii jaan bas, maan le merii baat
+    aaj terii Dor, hai hamaare saath \-2
+la:  ho matavaale, Dar hai yahii
+    tujh se kahii.n Dorii chhuuT na jaa_e
+ki: are, aisaa bhii kyaa teraa meraa
+    hai zi.ndagii ke saath
+la:  bas merii jaan bas, maan le merii baat
+    dekh aise na, chal hamaare saath
+
+la:  bas merii jaan bas, maan le merii baat
+    dekh aise na, chal hamaare saath
+ki: diivaanaa mai.n bhii huu.N aisaa
+    sa.ng teraa na chho.Duu.n, chaahe jiyaa jaa_e
+la:  ab lauT jaa, o re piyaa
+    jo.Duu.N mai.n tere haath
+ki: bas merii jaan bas, kaahe jo.De haath
+    Dar tujhe kis kaa, mai.n huu.N tere saath
+
+ki: bas merii jaan bas, kaahe jo.De haath
+    Dar tujhe kis kaa, mai.n huu.N tere saath
+la:  ho, maan bhii jaa, o mere sa.nyaa
+    dha.Dake jiyaa koii, aa hii na jaa_e
+ki: are aa_e koii, mai.n to yuu.N hii
+    chaahuu.N tujhe din raath 
+ki: ha.Ns merii jaan ha.Ns, ye huii na baat
+    Dar tujhe kis kaa, mai.n huu.N tere saath
+    ho, mai.n huu.N tere saath
+    mai.n huu.N tere \-\-\-!
+%
+#endindian
+\endsong
+%
+

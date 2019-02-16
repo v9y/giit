@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{guzaraa huaa zamaanaa, aataa nahii.n dubaaraa, haafiz khudaa tumhaaraa}%
+\film{Shirin Farhaad}%
+\year{1956}%
+\starring{}%
+\singer{Lata}%
+\music{S Mohinder}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+guzaraa huaa zamaanaa, aataa nahI.n dubaaraa
+haafiz khudaa tumhaaraa
+
+1) khushiyaa.N thI.n chaar pal kI aa.Nsuu hai.n umr bhar ke
+tanhaaiyo.n me.n aqsar roe.nge yaad kar ke
+do vaqt jo ki hamane ik saath hai guzaaraa
+haafiz \threedots
+
+2) merii qasam hai mujhako tum bevafaa na kahanaa
+majabUr thii muhabbat sab kuchh pa.Daa hai sahanaa
+tUfaa.N hai zindagii kaa ab aakhirii sahaaraa
+haafiz \threedots
+
+3) mere liye sahar bhii aaii hai raat ban kar
+nikalaa meraa janaazaa merii baraat ban kar
+achchhaa huaa jo tumane dekhaa na ye nazaaraa
+haafiz \threedots
+%
+#endindian
+\endsong
+%

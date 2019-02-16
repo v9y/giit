@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ashko.n ne jo paayaa hai}%
+\film{Chaandi Ki Deevar}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ashko.n ne jo paayaa hai vo giito.n me.n diyaa hai
+is par bhii sunaa hai ki zamaane ko gilaa hai
+
+jo taar se nikalii hai vo dhun sab ne sunii hai
+jo saaz pe guzarii hai vo kis dil ko pataa hai
+ashko.n ne jo paayaa hai \threedots
+
+ham phuul hai.n auro.n ke liye laaye hai.n khushabuu
+apane liye le de ke bas ik daaG milaa hai
+ashko.n ne jo paayaa hai \threedots
+
+%
+#endindian
+\endsong
+%

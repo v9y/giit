@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{dil ke aa_iine me.n tasviir terii rahatii hai}%
+\film{Aao Pyar Karen}%
+\year{1964}%
+\starring{Joy Mukherjee, Saira Banu, Shyam Chaterji, Rajendranath}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10446 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil ke aa_iine me.n tasviir terii rahatii hai
+mai.n ye samajhaa ko_ii jannat kii parii rahatii hai
+dil ke aa_iine me.n \threedots
+
+sharabatii aa.Nkhe.n terii zindagii bhar kaa nashaa
+dil kii dha.Dakan hai merii terii paayal kii sadaa ai jaan\-e\-vafaa
+dil ke aa_iine me.n \threedots
+
+sochataa huu.N mai.n kabhii kyaa tujhe bhii hai Kabar
+ki terii ek nazar hai merii shaam\-o\-sahar
+tuu bahaaro.n kaa hai dil tuu nazaaro.n kaa jigar ai jaan\-e\-vafaa
+dil ke aa_iine me.n \threedots
+
+husn\-e\-maasuum teraa kabhii maGaruur na ho
+apanii taariif tujhe kabhii ma.nzuur na ho
+ishq vaalo.n se jafaa teraa dastuur na ho ai jaan\-e\-vafaa
+dil ke aa_iine me.n \threedots
+%
+#endindian
+\endsong
+

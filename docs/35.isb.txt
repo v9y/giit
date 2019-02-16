@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{aa.Nsuu kii buu.Nd hai kabhii jiivan}%
+\film{Tapashh}%
+\year{}%
+\starring{???}%
+\singer{Arti Mukherji}%
+\music{Vijay Kumar}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Contributor: Guri Buxi <buxi@ix.netcom.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 01/17/1996
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+%
+\printtitle
+#indian
+%
+(aa.Nsuu kii buu.Nd hai kabhii, jiivan
+ kabhii muskaan hai)                    \-2
+aa.Nsuu kii buu.Nd
+
+(barasaat kii, ulajhan me.n jaa
+ aashaao.n ke, diipak jalaa)            \-2
+jiinaa bahut mushkil sahii, maranaa
+kahaa.N aasaan hai
+aa.Nsuu kii buu.Nd
+
+(jo baat hai dil me.n dabii
+ kho_ii na aa.Nkho.n me.n kahii.n)      \-2
+tham jaaegaa dil me.n teraa, jo
+dard kaa tuufaan hai
+aa.Nsuu kii buu.Nd
+
+(baazii us kii maut ho
+ bhuule jo apane aap ko)                \-2
+us ne gagan ko chhuu liyaa, apane
+jise pahachaan hai
+aa.Nsuu kii buu.Nd hai kabhii, jiivan
+kabhii muskaan hai
+aa.Nsuu kii buu.Nd
+%
+#endindian
+\endsong
+%
+

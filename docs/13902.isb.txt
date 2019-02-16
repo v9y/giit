@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{tuu dil kii Kushii dil kii pyaas tuu}%
+\film{Sur}%
+\year{2002}%
+\starring{Lucky Ali, Gauri Karnik}%
+\singer{Lucky Ali, Sunidhi Chauhan}%
+\music{M M Kreem}%
+\lyrics{Nida Fazli}%
+%
+% contributor: BOL ANAMOL #11793 [V S Rawat]
+% producer: PNC (Pritish Nandy Communications), Fish Eye Network Production
+% director: Tanuja Chandra
+% audio: Universal Music India Pvt Ltd, www. umusicindia.com
+% cassette: 6337 334 MC-B ECO-SP Stereo, Cost: Rs 50/-, CD: CDF 594, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+la \:	( tuu
+	dil kii Kushii dil kii pyaas tuu
+	mere tan me.n merii saa.Ns tuu
+	kamii thii jo mujhame.n vohii to muhabbat hai tuu
+	zindagii me.n merii aasamaa.N kii inaayat hai tuu ) \-2
+
+su \:	phir se na_ii duniyaa banii mahake zamii.n tere kaaran
+	pahale kahaa.N aisii thii mai.n mai.n huu.N hasii.n tere kaaran
+la \:	na naa naa naa naa ye sab jhuuTh hai
+	mai.n to huu.N saadaa saa ek paagal
+	meraa nahii.n kaam ye tum Kudaa kii ho roshanii
+su \:	zindagii me.n merii aasamaa.N kii inaayat hai
+	tuu
+	dil kii Kushii dil kii pyaas tuu
+	mere tan me.n merii saa.Ns tuu
+	kamii thii jo mujh me.n vahii to muhabbat hai tuu
+	zindagii me.n merii aasamaa.N kii inaayat hai tuu
+
+la \:	yuu.N to vohii har ra.ng hai har pal kaa hai vohii mausam
+	apanaa magar lagataa hai ab terii tarah saaraa aalam
+su \:	naa naa naa naa pahale bhii aisaa hii thaa
+	tuu to thaa hameshaa mujhame.n shaamil
+	sadiyo.n se kho_e the ham hamako ab milii zindagii
+la \:	zindagii me.n merii aasamaa.N kii inaayat hai
+	tuu
+su \:	dil kii Kushii dil kii pyaas tuu
+la \:	mere tan me.n merii saa.Ns tuu
+do \:	kamii thii jo mujh me.n vohii to muhabbat hai tuu
+%
+#endindian
+\endsong

@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{jab se mai.n tujh se milaa huu.N ... jab se dil tum se milaa hai}%
+\film{Yeh Dil Aashiqana}%
+\year{2002}%
+\starring{Karan Nath, Jeevidha, Aditya Pancholi}%
+\singer{Kumar Sanu/ Sarika Kapoor}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+%Part 1:
+%
+ai he aa haa haa haa
+jab se mai.n tujh se milaa huu.N tab se huu.N teraa diivaanaa
+pahale to mai.n bekhabar thaa chaahat ko ab maine jaanaa
+jab se mai.n tujh se \threedots
+
+jaan\-e\-man terii mohabbat me.n naa jaane kaisaa nashaa hai
+naa hai khabar din kii naa raat kaa bhii pataa hai
+diivaanagii hai kyaa bekhudii hai
+he he aa haa haa haa
+jab se mai.n tujh se \threedots
+
+ai he aa haa haa haa
+ab tanhaa tere binaa ik pal bhii na jiinaa ga.nvaaraa
+mujh ko tere pyaar kii bekaraarii ne maaraa
+mujh ko churaa le apanaa banaa le
+jab se mai.n tujh se \threedots
+%
+%Part 2:
+%
+ai he aa haa haa haa
+jab se dil tum se milaa hai tab se hai teraa diivaanaa
+pahale to mai.n bekhabar thii chaahat ko ab maine jaanaa
+jab se dil tum se \threedots
+
+jaan\-e\-man terii mohabbat me.n naa jaane kaisaa nashaa hai
+naa hai khabar din kii naa raat kaa bhii pataa hai
+diivaanagii hai kyaa bekhudii hai
+he he aa haa haa haa
+jab se dil tum se \threedots
+
+ai he aa haa haa haa
+ab tanhaa tere binaa ik pal bhii na jiinaa ga.nvaaraa
+mujh ko tere pyaar kii bekaraarii ne maaraa
+mujh ko churaa le apanaa banaa le
+jab se dil tum se \threedots
+%
+#endindian
+\endsong
+

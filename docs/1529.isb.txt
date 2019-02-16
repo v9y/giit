@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{rainaa biitii jaaye, shyaam naa aaye}%
+\film{Amar Prem}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@csn.org)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% <Aalap in Raga Todi>
+rainaa biitii jaaye,  shyaam naa aaye    (2)
+ni.ndiyaa naa aaye,  ni.ndiyaa naa aaye
+rainaa biitii jaaye \threedots
+
+shaam ko bhuulaa,  shyaam kaa vaadaa    (2)
+sa.ng diye ke,  baiThii(?) raadhaa
+ni.ndiyaa naa aaye,  ni.ndiyaa naa aaye
+rainaa biitii jaaye \threedots
+
+kis sautan ne rokii Dagariyaa    (2)
+kis bairan se laagii nazariyaa
+ni.ndiyaa naa aaye,  ni.ndiyaa naa aaye
+rainaa biitii jaaye \threedots
+
+birahaa kii maarii, prem diivaanii    (2)
+tan man pyaasaa a.nkhiyo.n me.n paanii
+ni.ndiyaa naa aaye,  ni.ndiyaa naa aaye
+rainaa biitii jaaye \threedots
+%
+#endindian
+\endsong
+%

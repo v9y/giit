@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jaane merii a.nkhiyo.n ne dekhaa hai kyaa}%
+\film{Pyar Ki Jeet}%
+\year{1962}%
+\starring{Kalpana, Mahipal, Indira, Mohan Choti}%
+\singer{Asha, Rafi}%
+\music{Sudhir Phadke}%
+\lyrics{Qamar Jalalabadi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ra \:	jaane merii a.nkhiyo.n ne dekhaa hai kyaa
+	dekhaa hai kyaa
+	paanii se nikalaa hai chaa.Nd nayaa \-2
+
+	mukha.De pe nanhii\-nanhii buu.Ndo.n ke dhaare
+	chandaa ke saath jaise chhoTe\-chhoTe taare
+	din me.n hai.n taare ye jaaduu hai kyaa
+	paanii se nikalaa hai chaa.Nd nayaa \-2
+
+aa \:	jaane terii a.nkhiyo.n ne dekhaa hai kyaa
+	dekhaa hai kyaa
+ra \:	paanii se nikalaa hai chaa.Nd nayaa \-2
+
+aa \:	nain kisii ke rote hai.n apanaa ??
+	din kii laalii me.n dekh aa_ii sapanaa
+	a.ng\-a.ng kisane ra.ng bharaa
+	paanii se nikalaa hai chaa.Nd nayaa \-2
+
+ra \:	mai.n huu.N pujaarii tuu merii kalaa hai
+	jahaa.N tere pag wahaa.N man bhii chalaa hai
+	kyaa hai ye naataa zaraa tuu hii bataa
+	paanii se nikalaa hai chaa.Nd nayaa \-2
+aa \:	jaane terii a.nkhiyo.n ne dekhaa hai kyaa
+	dekhaa hai kyaa
+ra \:	paanii se nikalaa hai chaa.Nd nayaa \-2
+
+#endindian
+\endsong

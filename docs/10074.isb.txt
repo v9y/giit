@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{##We wish you a great life##}%
+\film{Aap Mujhe Achche Lagne Lage}%
+\year{2002}%
+\starring{Hritik Roshan, Ameesha Patel}%
+\singer{Alka Yagnik, KayKay, Jack, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##We wish you a great life, a great life, a great life##
+##I promise you a great life. I want you to be my wife##
+##life life, wife wife##
+##Thank you, Thank you, Thank you.##
+##senti## mat ho chi.nTuu
+##Thank you for great life##
+
+pa pa pa pa paraa pa pa pa pa ra raa pa pa raa
+maine sochaa naa thaa jitanaa
+mujhe pyaar milaa hai utanaa
+ye tum jaano yaa mai.n jaanuu.n
+ab saaraa jahaa.N hai apanaa
+kal tak the ba.De akele
+yahaa.N aaj lage hai.n mele
+uupar vaale kii maayaa kyaa khel pyaar ke khele
+##We wish you## \threedots
+
+duniyaa ye apanii duniyaa
+ye duniyaa pyaar kii duniyaa
+ye khul ke vafaa karatii hai
+sachche ikaraar kii duniyaa
+##We wish you## \threedots
+%
+#endindian
+\endsong
+

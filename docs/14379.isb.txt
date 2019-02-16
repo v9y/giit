@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye chaahat ye betaabii ... teraa jaaduu chal gayaa}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Sonu Nigam, Chitra}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+ye chaahat ye betaabii naaqaam nahii.n hai
+ab mere binaa usako bhii aaraam nahii.n hai
+siine se ye dil gayaa dil gayaa siine se ye dil gayaa
+teraa jaaduu chal gayaa teraa jaaduu chal gayaa
+tuu mujhako mil gayaa
+siine se ye dil \threedots
+
+tuu mujhako mil gayaa aa haa aa haa ta ra re
+
+hamako apane haatho.n kii lakiiro.n me.n basaa lo
+tum bhii nasiib apanaa ab hamako banaa lo
+ham tum judaa ho jaa_e.n aasaan nahii.n hai
+siine se ye dil \threedots
+
+ab tum merii baaho.n me.n nigaaho.n me.n rahoge
+tum jaan banakar merii saa.Nso.n me.n rahoge
+ik tere sivaa ho.nTho.n pe ko_ii naam nahii.n hai
+siine se ye dil \threedots
+%
+#endindian
+\endsong
+

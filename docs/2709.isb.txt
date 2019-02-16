@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{tan ra.ng lo jii ajii man ra.ng lo}%
+\film{Kohinoor}%
+\year{1960}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Rafi, Lata, chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: 20th March, 2000
+% Transliterator:
+% Comments:
+% Credits:
+%
+#indian
+
+ra: tan ra.ng lo jii ajii man ra.ng lo tan ra.ng lo
+ko: tan ra.ng lo jii ajii man ra.ng lo tan ra.ng lo
+ra: khelo khelo uma.ng bhare ra.ng pyaar ke le lo
+ko: khelo khelo uma.ng bhare ra.ng pyaar ke le lo
+ra: ra.ng lo ra.ng lo jii ajii man ra.ng lo tan ra.ng lo
+ko: tan ra.ng lo jii ajii man ra.ng lo tan ra.ng lo
+
+ra: aa aa aa aa
+    aaj nagarii me.n ra.ng hai bahaar hai
+    galii galii me.n to ras kii phuhaar hai
+ko: galii galii me.n to ras kii phuhaar hai
+ra: pichakariyo.n me.n ra.ng bharaa pyaar hai
+ko: pichakariyo.n me.n ra.ng bharaa pyaar hai
+ra: is ra.ng me.n jiivan ra.ng lo
+ko: ho tan ra.ng lo man ra.ng lo
+    ra.ng lo jii ajii man ra.ng lo tan ra.ng lo \threedots
+
+la: naacho naacho rii sakhii re holii aa_ii re
+la: ghar ghar me.n ra.ngiilii rut chhaa_ii re
+ko: ghar ghar me.n ra.ngiilii rut chhaa_ii re
+la: aaj duniyaa ne mastii luTaa_ii re
+    aashaa_o.n kaa daaman ra.ng lo
+ko: ho tan ra.ng lo man ra.ng lo
+    ra.ng lo jii ajii man ra.ng lo tan ra.ng lo \threedots
+
+ra: aaj mukha.De se ghuu.NghaTaa haTaalo jii
+    ho zaraa sajanaa se a.Nkhiyaa.N milaa lo jii
+ko: ho zaraa sajanaa se a.Nkhiyaa.N milaa lo jii
+la: ra.ng jhuuThe more tan pe na daalo jii
+ko: ra.ng jhuuThe more tan pe na daalo jii
+    man pyaar me.n saajan ra.ng lo
+    ho tan ra.ng lo man ra.ng lo
+    ra.ng lo jii ajii man ra.ng lo tan ra.ng lo \threedots
+
+la: raadhaa sa.ng holii khele banavaarii re ho
+ko: raadhaa sa.ng holii khele banavaarii re ho
+la: a.ng a.ng pe chalaa_e pichakaarii ho
+ko: a.ng a.ng pe chalaa_e pichakaarii ho
+la: kahe bai.nyaa paka.Dake anaarii
+    dil ra.ng lo jii dha.Dakan ra.ng lo
+ko: ho tan ra.ng lo man ra.ng lo
+    ra.ng lo jii ajii man ra.ng lo tan ra.ng lo \threedots
+
+%
+#endindian
+\endsong
+%

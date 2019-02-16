@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{arraa ram tarraa ram, duniyaa ke kaise Gam}% 
+\film{Aawaz}%
+\year{1956}%
+\starring{Rajendra Kumar, Anwar, Nalini Jaywant, Usha Kiron, Jagdeep}%
+\singer{Kishore}%
+\music{Salil Choudhary}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor:  Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:  Rajan P. Parrikar (parrikar@spot.Colorado.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : Zia Sarhadi was also the director of the film
+%
+\printtitle 
+#indian
+%
+arraa ram tarraa ram 
+arraa ram tarraa ram 
+duniyaa ke kaise Gam 
+kahii.n jyaadaa kahii.n kam \- 2
+
+koI kahe meraa piyaa ghar aaye nA 
+kisii kA nikhaTTuu miyaa.n paisaa laaye nA 
+laale ko ye Dar paisaa koii khaaye nA 
+arre buDDhe ko phikar buDDhii bhaag jaaye nA 
+
+zakhmii jigar hai 
+Dar hai phikar hai 
+sab ga.Daba.D hai 
+nikale hai dam hote allaah kii kasam 
+va_i va_i va_i 
+zakhmii jigar hai 
+Dar hai phikar hai 
+sab ga.Daba.D hai 
+nikale hai dam hote allaah kii kasam 
+kahii.n jyaadaa kahii.n kam \- 2
+
+arraa ram tarraa ram 
+%
+#endindian
+\endsong
+%

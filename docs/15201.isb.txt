@@ -1,0 +1,56 @@
+% ITRANS SONG
+
+\startsong
+\stitle{amiy halaahal madabhare ... jhananan baaje paayaliyaa}%
+\film{Raani Rupmati}%
+\year{1959}%
+\starring{Bharat Bhushan, Ameeta, Jivan, Achala Sachdev, Helen, Tuntun, Leela Misra}%
+\singer{Lata, Rafi}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ra \:	amiy halaahal madabhare shwet shyaam ratanaar
+	jiyat marat jhuki jhuki parat jehi chitawat ek baar
+
+	jhananan jhan jhananan jhan jhananan baaje paayaliyaa \-2
+	piyaa se milan chalii aaj kaminiyaa
+	jhananan jhan jhananan jhan jhananan baaje paayaliyaa
+	jhananan jhan
+
+la \:	o
+	raat andherii Dar laage rasiyaa \-2
+	paas kaise aa_uu.N tore manabasiyaa
+	papihaa bole
+	papihaa bole amrit ghole jiyaraa Dole haule haule haule
+	jhananan jhan jhananan jhan jhananan baaje paayaliyaa
+	jhananan jhan jhananan jhan jhananan baaje
+
+ra \:	saj si.ngaar ko_ii naar navelii
+	niDar Dagar me.n chalii hai akelii
+	ritu basant aa_ii alabelii
+	Daar Daar bole kaarii koyaliyaa
+	jhananan jhan jhananan jhan jhananan baaje paayaliyaa
+	jhananan jhan jhananan jhan jhananan
+
+la \:	o
+	pyaar jagaa hai dekho kaN kaN me.n \-2
+	raas rasaa hai man madhuban me.n
+	baje ma.njiiree 
+	baje ma.njiiree jamunaa tiire mai.n to chalii re dhiire dhiire dhiire
+	jhananan jhan jhananan jhan jhananan baaje paayaliyaa
+
+do \:	jhananan jhan jhananan jhan jhananan baaje
+ra \:	jhanan jhan jhan baaje paayaliyaa
+
+la \:	baaje \-3
+ra \:	baaje
+do \:	jhanan jhan jhan baaje paayaliyaa
+
+#endindian
+\endsong

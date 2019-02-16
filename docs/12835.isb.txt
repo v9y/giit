@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{rukii rukii thii zi.ndagii jhaT se chal pa.Dii}%
+\film{Mast/ When Dreams Come True}%
+\year{1999}%
+\starring{Aftab Shivadasani, Urmila Matondkar}%
+\singer{Sunidhi Chauhan, Sonu Nigam}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rukii rukii thii zi.ndagii jhaT se chal pa.Dii
+hu_ii khushii se dostii mazaa le le har gha.Dii
+iyaa_ii ye ai he iyaa_ii ye
+rukii rukii thii \threedots
+
+kal tak na ko_ii kahaanii thii na ko_ii raajaa thaa na raanii thii
+ye aaj kyaa ho gayaa ik pal me.n sab kuchh mil gayaa
+saamane hai ma.nzil kha.Dii
+rukii rukii thii \threedots
+
+jaaduu yahaa.n aisaa ho jaa_e ye pal yahii.n aaj ruk jaa_e
+tuu jo kahe mai.n sunuu.n mai.n jo kahuu.n tuu sune
+la.D jaa_e baato.n kii la.Dii iyaa_ii ye
+rukii rukii thii \threedots
+%
+#endindian
+\endsong
+

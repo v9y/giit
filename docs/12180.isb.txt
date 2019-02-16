@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{o merii dilarubaa tuu dil ke kariib hai ... teraa pyaar meraa nasiib hai}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal, S P Balasubramaniam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+prem prem prem
+o merii dilarubaa tuu dil ke kariib hai teraa pyaar meraa nasiib hai
+o mere dilarubaa tuu dil ke kariib hai teraa pyaar meraa nasiib hai
+o merii dilarubaa \threedots
+
+na jaane dil kis par aa_e soch ke prem kiyaa na jaa_e
+raaz hai ye ko_ii samajh na paa_e haal kahaa.n tak dil kaa chhupaa_e
+pyaar teraa mere dil me.n chhupaa hai tuu merii kyaa hai sabako pataa hai
+meraa dil merii jaa.n meraa chain merii aarazuu
+mujhako to sanam kab se terii justajuu
+yah dard\-e\-jigar o jaane kyaa chiiz hai
+teraa pyaar meraa nasiib \threedots
+
+ghar me.n rahuu.n yaa baahar jaa_uu.n tujhako kabhii bhuul na paa_uu.n
+haal me.n
+chiir ke dil tujhe
+tere binaa mujhako nahii.n jiinaa tere binaa zi.ndagii nahii.n jiinaa
+mai.n jiyuu.n yaa maruu.n merii jaa.n bataa kyaa karuu.n
+chaahat me.n terii yuu.n hii kab tak aahe.n bharuu.n
+tuu meraa hamadam tuu meraa habiib hai
+teraa pyaar meraa nasiib \threedots
+%
+#endindian
+\endsong
+

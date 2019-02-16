@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{juuThe nainaa bole saa.Nchii batiyaa.n}%
+\film{Lekin}%
+\starring{Vinod Khanna, Dimple, Hema, Amjad}%
+\singer{Asha, Satyasheel Deshpande}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+s: nike ghuu.Nghariyaa Thumakat chaal chalat
+
+aa: juuThe nainaa bole saa.nchii batiyaa.n (2)
+nita chamakaave chaa.Nd kaalI ratiyaa.n
+juuThe nainaa bole saa.nchii batiyaa.n (2)
+
+jaanuu jaanuu jhuuThe maahii kii jaat (3)
+kin sautan sa.nga tum kaaTii raat
+ab lipaTii lipaTii
+ab lipaTii lipaTii banaao na batiyaa.n
+jhuuThe nainaa bole saa.nchii batiyaa.n (2)
+
+bolo bolo kaisii bhaayii saa.nvarii (3)
+jis ko de de nii morii mundarii
+ab bhiinii bhiinii
+ab bhiinii bhiinii banaao naa batiyaa.n
+juuThe nainaa bole saa.nchii batiyaa.n (2)
+nita chamakaave chaa.Nd kaalii ratiyaa.n
+juuThe nainaa bole saa.nchI batiyaa.n
+%
+#endindian
+\endsong
+%

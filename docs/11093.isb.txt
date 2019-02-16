@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Ndanii ruup kii yaa kiran dhuup kii}%
+\film{Dus}%
+\year{1998?}%
+\starring{Sanjay Dutt, Ravina Tondon, Salman Khan, Shilpa Shetty}%
+\singer{Shankar Mahadevan, Chorus}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Ndanii ruup kii yaa kiran dhuup kii
+surama_ii sii ghaTaa yaa subah kii havaa
+khvaab jaisii lagii tujhako kaisii lagii
+vo merii dilarubaa dil mere tuu bataa
+
+chaa.Ndanii ruup kii yaa kiran dhuup kii
+khushbu_o.n kii lahar ke javaa.n gulamohar
+titaliyo.n kii tarah umr se bekhabar
+phuul banatii kalii kokilaa manachalii
+khvaab jaisii lagii \threedots
+
+chaa.Ndanii ruup kii yaa kiran dhuup kii
+ve maahiyaa ve chhaD des na jaa
+
+raaginii raag kii shokhiyaa.n faag kii
+miir kii tuu gazal nazm thii daag kii
+aasamaa.n kii parii yaa ke jaaduugarii
+khvaab jaisii lagii \threedots
+%
+#endindian
+\endsong
+

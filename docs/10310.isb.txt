@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{terii javaanii tapataa mahiinaa ai naazaniinaa}%
+\film{Amaanat}%
+\year{1975}%
+\starring{Manoj Kumar, Sadhana, Balraj Sahni, Mehmood}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10672 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+terii javaanii tapataa mahiinaa ai naazaniinaa
+chhuu le nazar to aa_e pasiinaa ai naazaniinaa
+terii javaanii \threedots
+
+tere badan me.n phuulo.n kii naramii sholo.n kii garamii
+har a.ng teraa tarashaa nagiinaa ai naazaniinaa
+terii javaanii \threedots
+
+aa.Nkho.n me.n bijalii zulfo.n me.n baadal saa.Nso.n me.n halachal
+tujhasii nahii.n ko_ii qaatil hasiinaa ai naazaniinaa
+terii javaanii \threedots
+
+haay ye teraa bal khaa ke chalanaa iThalaa ke chalanaa
+tere baGair ab mushkil hai jiinaa ai naazaniinaa
+terii javaanii \threedots
+%
+#endindian
+\endsong
+

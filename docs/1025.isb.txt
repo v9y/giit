@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kuchh naa kaho, kuchh bhii naa kaho}%
+\film{1942 A Love Story}%
+\year{1994}%
+\starring{Anil, Jackie, Manisha}%
+\singer{Kumar Sanu, Lata}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Amit Agarwal (aagarwal@leland.stanford.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kuchh naa kaho, kuchh bhI naa kaho
+kyaa kahanaa hai, kyA sunanaa hai
+mujhako pataa hai, tumako pataa hai
+samay kaa ye pal, tham saa gayaa hai
+aur is pal me.n koI nahii.n hai
+bas ek mai.n huu.N bas ek tum ho
+
+shaanU:
+kitane gahare halke, shaam ke ra.ng hai.n chhalake
+parvat se yuu.N utare baadal jaise aa.Nchal Dhalake
+sulagii sulagii saa.Nse.n bahakii bahakii dha.Dakan
+mahake mahake shaam ke saaye, pighale pighale tan man
+
+lataa:
+khoe sab pahachaane khoe saare apane
+samay kii chhalanii se gir girake, khoe saare sapane
+hamane jab dekhe the, sundar komal sapane
+phuul sitaare parvat baadal sab lagate the apane
+%
+#endindian
+\endsong
+%

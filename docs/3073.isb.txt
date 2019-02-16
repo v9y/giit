@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{duniyaa se dil lagaa kar duniyaa se kyaa milegaa}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Irfan Moinuddin
+% Transliterator: K Vijay Kumar
+% Comments: Album - Tareef Us Khuda Ki
+%
+\printtitle
+#indian
+%
+
+duniyaa se dil lagaa kar duniyaa se kyaa milegaa
+yaad\-e\-Kudaa kiye jaa, tujh ko Kudaa milegaa
+
+daulat ho yaa hukuumat, taaqat ho yaa javanii
+har chiiz miTane vaalii, har chiiz aanii\-jaanii
+ye sab gurur ek din miTTii me.n jaa milegaa
+yaad\-e\-Kudaa kiye jaa, tujh ko Kudaa milegaa
+
+aataa nahii.n palaT kar guzaraa huaa zamaanaa
+kyaa Kaab kaa bharosaa, kyaa maut kaa thikaanaa
+ye zi.ndagii ga.Nvaa kar kyaa faayada milegaa
+yaad\-e\-Kudaa kiye jaa, tujh ko Kudaa milegaa
+
+%
+#endindian
+\endsong
+%

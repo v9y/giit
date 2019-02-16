@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{phir mujhe diidaa\-e\-tar yaad aayaa}%
+\film{Mirza Ghalib}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Ghulam Mohammad}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+phir mujhe dIda\-e\-tar yAd AyA
+dil jigar tishana\-e\-fariyAd AyA
+phir mujhe dIda\-e\-tar yAd AyA
+
+dam liyA thA na qayAmat ne hano \- 2
+phir terA vaqt\-e\-safar yAd AyA
+phir mujhe dIda\-e\-tar yAd AyA
+ 
+zindagI yU.N bhI guzar hI jAtI \- 2
+kyU.N terA rAhaguzar yAd AyA
+phir mujhe dIda\-e\-tar yAd AyA
+
+phir tere kUche ko jAtA hai KayAl \- 2
+dil\-e\-gumagashtA magar yAd AyA
+phir mujhe dIda\-e\-tar yAd AyA
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ham the jinake sahaare, vo hue naa hamaare}%
+\film{Safar}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ham the jinake sahaare,  vo hue naa hamaare
+Duubii jab dil kii nayyaa,  saamane the kinaare
+ham the jinake sahaare \threedots
+
+kyaa muhabbat ke vaade,  kyaa vafaa ke iraade
+ret kii hai.n diivaare.n,  jo bhii chaahe giraa de
+jo bhii chaahe giraa de
+ham the jinake sahaare \threedots
+
+hai sabhii kuchh jahaa.N me.n,  dostii hai vafaa hai
+apanii ye kamanasiibii,  hamako naa kuchh bhii milaa hai
+hamako naa kuchh bhii milaa hai
+ham the jinake sahaare \threedots
+
+yuu.N to duniyaa basegii,  tanahaaI phir bhii Dasegii
+jo zi.ndagii me.n kamii thii,  vo kamii to rahegii
+vo kamii to rahegii
+ham the jinake sahaare \threedots
+%
+#endindian
+\endsong
+%

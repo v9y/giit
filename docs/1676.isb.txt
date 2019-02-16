@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{teraa meraa pyaar amar, phir kyo.n mujhako lagataa hai Dar}%
+\film{Asli Naqli}%
+\year{1962}%
+\starring{Sadhana, Dev Anand}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Himanshu Gupta (himanshu@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Mon Aug  7 1995
+% Credits: Shalini Razdan (shalini.razdan@atlantaga.attgis.com)
+%          Neha Desai (ndesai@cc.umanitoba.ca) 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+teraa meraa pyaar amar, phir kyo.n mujhako lagataa hai Dar
+mere jiivan saathii bataa, dil kyo.n dha.Dake rah\-rah kar
+
+kyaa kahaa hai chaa.Nd ne, jisako sunake  chaa.Ndanii
+har lahar pe jhuumake, kyo.n ye naachane lagii
+chaahat kaa hai harasuu asar, phir kyo.n mujhako lagataa hai Dar
+
+kah rahaa hai meraa dil, ab ye raat na Dhale
+khushiyo.n kaa ye silasilaa, aise hii chalaa rahe
+tujhako dekhuu.N dekhuu.N jidhar, phir kyo.n mujhako lagataa hai Dar
+
+hai shabaab par uma.ng, har khushii javaan hai
+merii dono.n baaho.n me.n, jaise aasmaan hai
+chalatii huu.N mai.n taaro.n par, phir kyo.n mujhako lagataa hai Dar
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{lagii hai aag dil me.n ... qismat ke sitaare Duub ga_e}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Balraj Sahni}%
+\singer{Rafi, Lata}%
+\music{Mohammed Shafi}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10328 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	lagii hai aag dil me.n aa.Nkh se aa.Nsuu barasate hai.n
+	banii hai jaan par ham tumase milane ko tarasate hai.n
+
+la \:	qismat ke sitaare Duub ga_e haay milane kaa sahaaraa ko_ii nahii.n \-2
+ra \:	tum hamase judaa ham tumase judaa \-2
+	duniyaa me.n hamaaraa ko_ii nahii.n \-2
+
+la \:	ulfat kaa zamaanaa biit gayaa
+	ham haar ga_e jag jiit gayaa haay jiit gayaa
+	jiine kaa sahaaraa ko_ii nahii.n \-2
+	ab biitii hu_ii yaado.n ke sivaa \-2
+
+ra \:	chhaayaa hai a.Ndheraa aa jaa_o
+	tum leke saveraa aa jaa_o haay aa jaa_o
+	raate.n hai.n a.Ndherii ulfat kii \-2
+	ummiid kaa taaraa ko_ii nahii.n \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% 
+\startsong 
+\stitle{din chhip gayaa nikale taare}% 
+\film{Anjaan}% 
+\year{1956}% 
+\starring{Vyjayantimala, Pradeep Kumar}% 
+\singer{Lata}% 
+\music{Hemant}%
+\lyrics{Rajinder Krishan}% 
+%
+% Contributor:Srinivas Ganti 
+% Transliterator:Srinivas Ganti 
+% Date:January 15, 2002 
+% Comments:LATAnjali series 
+%
+\printtitle 
+#indian 
+%
+ 
+(din chhip gayaa nikale taare
+terii yaad me.n dard ke maare
+ruk jaaye naa ?, ghar aajaa re balam
+dil ro ro tujhe pukaare)\-2
+
+(mere saajan mukha.Daa mo.D gaye
+kyo.n dil me.n a.ndheraa chho.D gaye)\-2
+ai chaand bataa, merii kyaa hai khataa
+jo ruuThe piyaa hamaare
+din chhip gayaa nikale taare
+
+(merii man hii man me.n baat rahii
+naino.n me.n sadaa barasaat rahii)\-2
+mai.n to chhup chhup ke roii, mai.n to dard me.n khoii
+merii samajhe kaun ?
+din chhip gayaa nikale taare
+
+%
+#endindian
+\endsong
+%

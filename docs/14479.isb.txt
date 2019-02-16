@@ -1,0 +1,88 @@
+
+%
+\startsong
+\stitle{tere shahar kaa kyaa hai naam ... jannat hai}%
+\film{The Hero}%
+\year{2003}%
+\starring{Sunny Deol, Preity Zinta, Priyanka Chopra, Kabir Bedi}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% contributor: BOL ANAMOL #11785 [V S Rawat]
+% producer: Time Movies, Nanjibhai Shah, Dhirajlal Shah, Pravin Shah, Hasmukh Shah
+% director: Anil Sharma
+% audio: Time Magnetics (India) Ltd, time@bom4.vsnl.net.in
+% cassette: TFC-002 Stereo, Cost: Rs 40/-, CD: 
+% website: www.theherothefilm.com
+%
+\printtitle
+#indian
+%
+u \:	( tere shahar kaa kyaa hai naam
+a \:	jannat hai \-2
+u \:	sab logo.n kaa yahaa.N kyaa hai kaam
+a \:	mohabbat hai \-2
+u \:	kar luu.N mai.n tujhako salaam
+a \:	ijaazat hai \-2 	) \-2
+u \:	tere shahar kaa kyaa hai naam
+a \:	jannat hai \-2
+	
+u \:	jannat me.n pariyaa.N bhii hotii hai.n
+a \:	hotii hai.n
+u \:	Kushiyaa.N hii Kushiyaa.N bhii hotii hai.n
+a \:	hotii hai.n
+u \:	vo saarii batiyaa.N bhii hotii hai.n
+a \:	hotii hai.n
+u \:	sach ho jaate hai.n sapane tamaam
+a \:	qismat hai \-2
+u \:	sab logo.n kaa yahaa.N kyaa hai kaam
+a \:	mohabbat hai \-2
+u \:	kar luu.N mai.n tujhako salaam
+a \:	ijaazat hai \-2
+u \:	tere shahar kaa kyaa hai naam
+a \:	jannat hai \-2
+	
+u \:	mai.n bhii yahaa.N pe rah jaa_uu.N
+a \:	rah jaa_o
+u \:	kahanaa hai jo vo kah jaa_uu.N
+a \:	kah jaa_o
+u \:	mastii kii mauj me.n bah jaa_uu.N
+a \:	bah jaa_o
+u \:	baa.Nhe.n tumhaarii luu.N mai.n thaam
+a \:	himmat hai \-2
+u \:	sab logo.n kaa yahaa.N kyaa hai kaam
+a \:	mohabbat hai \-2
+u \:	kar luu.N mai.n tujhako salaam
+a \:	ijaazat hai \-2
+u \:	tere shahar kaa kyaa hai naam
+a \:	jannat hai \-2
+	
+u \:	teraa\-meraa kabhii hogaa milan
+a \:	shaayad kabhii
+u \:	kyaa mai.n banuu.Ngaa teraa sajan
+a \:	shaayad kabhii
+u \:	jaagegii tere man me.n lagan
+a \:	shaayad kabhii
+u \:	likhaa hai har dil pe dilabar kaa naam
+a \:	kahaavat hai \-2
+u \:	sab logo.n kaa yahaa.N kyaa hai kaam
+a \:	mohabbat hai \-2
+u \:	kar luu.N mai.n tujhako salaam
+a \:	ijaazat hai \-2
+u \:	tere shahar kaa kyaa hai naam
+
+ko \:	laa laa laa laa \-2
+a \:	jannat hai \-2
+
+ko \:	laa laa laa laa \-2
+a \:	jannat hai \-2
+ko \:	laa laa laa laa \-2
+a \:	ho ho ho \-2
+ko \:	ruu ruu ruu ruu \-2
+a \:	jannat hai
+	mohabbat hai
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aavaaraa paagal diivaanaa ban gayaa aashiq jaan\-e\-jaanaa.n}%
+\film{Awara Paagal Deewana}%
+\year{2002}%
+\starring{Akshay Kumar, Sunil Shetty, Aftaab Shivdasani, Preeti Jhangiyani, Amrita Arora, Aarti Chhabaria}%
+\singer{Shaan, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+aavaaraa paagal diivaanaa
+ban gayaa aashiq jaan\-e\-jaanaa.n
+in aa.Nkho.n ne luuTaa hai mujhe
+merii jaa.N merii jaa.N
+dil diyaa tujhe aa haa haa dil diyaa tujhe
+
+tuu meraa saavan tujh pe marataa hai meraa pyaasaa man
+tujh se mil ke maine jaanaa
+ban gayaa aashiq \threedots
+
+bas ye kahanaa hai terii baaho.n me.n mujh ko rahanaa hai
+maine tum ko sab kuchh maanaa
+ban gayaa aashiq \threedots
+%
+#endindian
+\endsong
+

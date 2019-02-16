@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sapane suhaane la.Dakapan ke}%
+\film{Bees Saal Baad}%
+\year{}%
+\starring{Biswajeet, Waheeda Rehman}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(sapane suhaane la.Dakapan ke
+mere naino.n me.n Dole bahaar ban ke ) \- 2
+
+jab chhaae ghaTaa matavaalii, mere dil pe chalaae aarii
+ghabaraaye akele manavaa, mai.n leke javaanii haarii
+kaise kaTe.n din ulajhan ke
+koI laade zamaane vo bachapan ke
+sapane suhaane \threedots
+
+jab duur papiihaa bole, dil khaaye meraa hichakole
+mai.n laaj me.n mar\-mar jaauu.N, jab phuul pe bha.nvaraa Dole
+chhe.De pavaniyaa taraane jab man ke
+mujhe bhaaye na ra.ng ye jiivan ke
+sapane suhaane \threedots
+%
+#endindian
+\endsong
+%

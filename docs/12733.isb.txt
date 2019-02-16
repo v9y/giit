@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{dar pe aa_e hai.n qasam le dil hathelii par hai}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Mukesh}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10246 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+dar pe aa_e hai.n qasam le
+dil hathelii par hai sun le
+ham na jaa_e.nge
+
+zindagii me.n to kisii se pyaar karanaa thaa zaruur \-2
+mar ga_e ham aap par vaise bhii maranaa thaa zaruur
+haa.N jii maranaa thaa zaruur
+jaan lab par hai kasam le saa.Ns jab tak hai sun le ham na jaa_e.nge
+dar pe aa_e hai.n \threedots
+
+yuu.N na Thokar maari_e ki TuuT jaa_egaa ye dil \-2
+aap pachhataa_e.nge phir na haath aa_egaa ye dil \-2
+le isii dil kii qasam le Kaaq ho kar tuu bhii sun le ham na jaa_e.nge
+dar pe aa_e hai.n \threedots
+
+mayaqadaa bhii raah me.n thaa to.D aa_e hai.n use \-2
+jaam apane haath me.n thaa chho.D aa_e hai.n use \-2
+tere pyaase hai.n qasam le duur se aa_e hai.n sun le ham na jaa_e.nge
+dar pe aa_e hai.n \threedots
+%
+#endindian
+\endsong
+

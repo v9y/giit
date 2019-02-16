@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{duniyaa o duniyaa, teraa javaab nahii.n}%
+\film{Naya Zamaana}%
+\year{1971}%
+\starring{Dharmendra, Hema Malini, Pran, Lalita Pawar}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: R.A. Gupte (gupte@ele.uri.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+% 
+duniyaa o duniyaa, teraa javaab nahii.n
+terii jafaao.n kaa, bas koI hisaab nahii.n
+
+tuu chhaa.nv hai yaa hai dhuup khabar kisako
+kyaa hai teraa asalii ruup khabar kisako
+aaye nazar kaise tuu aa.Nsuu hai, Kvaab nahii.n
+duniyaa o \threedots
+
+tere zubaa.n pe hai, zikr sitaaro.n kaa,
+tere labo.n pe hai, naam bahaaro.n kaa
+par tere daaman me.n, kaa.NTe hai.n, gulaab nahii.n
+duniyaa o \threedots
+
+ye kin khayaalo.n me.n, kho gaye hai.n aap,
+kyo.n kuchh pareshaa.N se, ho gaye hai.n aap 
+aapase to mujhako kuchh shiqavaa janaab nahii.n
+duniyaa o \threedots
+%
+#endindian
+\endsong
+%

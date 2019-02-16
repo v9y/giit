@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{o basa.ntii pavan paagal, naa jaa re naa jaa, roko koii}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%
+\printtitle
+#indian
+%
+o basa.ntI pavan pAgal, nA jA re nA jA, roko koI
+o basa.ntI \threedots
+
+ban ke patthar ham pa.De the, sUnI sUnI rAh me.n
+jI uThe ham jab se terI, bA.nh AI bA.nh me.n
+bah uThe naino.n ke kAjal, nA jA re nA jA, roko koI
+o basa.ntI \threedots
+
+yAd kar tUne kahA thA, pyAr se sa.nsAr hai
+ham jo hAre dil kI bAjI, ye terI hI hAr hai
+sun ye kyA kahatI hai pAyal, nA jA re nA jA, roko koI
+o basa.ntI \threedots
+%
+#endindian
+\endsong
+%

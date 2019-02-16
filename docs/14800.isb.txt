@@ -1,0 +1,31 @@
+% ITRANS SONG
+
+\startsong
+\stitle{bahut dinan kii baat suno jii raamaa}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Chorus}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+bolo shrii raam chandra kii
+jay
+bolo sab santan kii
+jay
+bahut dinan kii baat suno jii raamaa
+bahut dinan kii baat
+ho bahut dinan kii baat
+ajii maat pitaa kaa bhakt ba.Daa ek
+ho gayaa shrawan kumaar
+( ho more raamaa
+ho gayaa shrawan kumaar ) \-2
+
+#endindian
+\endsong

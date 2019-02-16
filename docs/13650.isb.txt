@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{sun ai mere dil meraa jiinaa naa mushqil banaa}%
+\film{Paap}%
+\year{2003}%
+\starring{John Abraham, Udita Goswami}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anu Malik}%
+\lyrics{Sayeed Quadri}%
+%
+% Contributor: BOL ANAMOL #11809 [V S Rawat]
+% Producer: Shreya Creations Pvt Ltd./Fish Eye Network, Pooja Bhatt, Sujit Kumar Singh
+% Director: Pooja Bhatt
+% Audio: Saregama
+% Cassette: NHF 810606 Digital, Cost: Rs 55/-
+% website: www.paapthefilm.com
+%
+\printtitle
+#indian
+%
+a \:	sun ai mere dil meraa jiinaa naa mushqil banaa
+	zid chho.D de pyaar kii jaane bhii de maan jaa
+	dariyaa mere paas hai taqadiir me.n pyaas hai
+	kaise mohabbat karuu.N mere liye paap hai
+
+u \:	sun ai merii jaan\-e\-jaa.N aa tuu mere paas aa
+	mat zulm apane pe kar Kud ko naa itanaa sataa
+	ishq ba.Daa paaq hai daaman ye bedaaG hai
+	phir kyo.n mohabbat bataa tere liye paap hai
+
+a \:	sun ai mere dil meraa jiinaa naa mushqil banaa
+
+a \:	Kaabo.n ko jaane hai kyo.n mujhase hu_ii dushamanii
+	aa.Nkho.n me.n aa kar merii khilate nahii.n vo kabhii
+	ye hu_aa khul sakaa TuuTaa Kaab sadaa
+	behatar hai tere liye tuu sapanaa ko_ii naa sajaa
+	zid chho.D de pyaar kii jaane bhii de maan jaa
+	sun ai mere dil meraa jiinaa naa mushqil banaa
+
+u \:	haa.N maanaa zaraa shoK hai hameshaa se ye zi.ndagii
+	musalasal magar ye kabhii kisii ko sataatii nahii.n
+	ye hu_aa har dafaa Kud ko tuu aazamaa
+	tere liye bhii kabhii barasegii kaalii ghaTaa
+	mat zulm apane pe kar Kud ko naa itanaa sataa
+
+a \:	sun ai mere dil meraa jiinaa naa mushqil banaa
+	zid chho.D de pyaar kii jaane bhii de maan jaa
+	dariyaa mere paas hai taqadiir me.n pyaas hai
+	kaise mohabbat karuu.N mere liye paap hai
+	sun ai mere dil meraa jiinaa naa mushqil banaa
+%
+#endindian
+\endsong
+

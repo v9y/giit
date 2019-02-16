@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{duniyaa hai isii kaa naam kahii.n shaadii}%
+\film{Sohni Mahiwaal}%
+\year{1958}%
+\starring{Bharat Bhushan, Nimmi, Achala sachdev, Sheela Kashmiri, Mukri, Tuntun}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10659 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+duniyaa hai isii kaa naam
+kahii.n shaadii kahii.n barabaadii \-2
+kabhii subah kabhii hai shaam
+kahii.n shaadii kahii.n barabaadii
+
+naGmaa hai kahii.n shahanaa_ii kaa
+maatam hai kahii.n tanahaa_ii kaa
+ko_ii zahar pi_e ko_ii jaam ho re
+ko_ii zahar pi_e ko_ii jaam
+duniyaa hai isii kaa \threedots
+
+tum gair se naataa jo.D chale
+aur mujhako ta.Dapataa chho.D chale
+sochaa naa meraa a.njaam re
+sochaa naa meraa a.njaam
+duniyaa hai isii kaa \threedots
+
+ho tumako mubaarak duniyaa na_ii
+kar lenaa hame.n bhii yaad kabhii \-2
+tum shaad ho ham naakaam re
+tum shaad ho ham naakaam
+duniyaa hai isii kaa \threedots
+%
+#endindian
+\endsong
+

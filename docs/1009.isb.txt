@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kitanaa hasii.n hai mausam, kitanaa hasii.n safar hai}% 
+\film{Azad}%
+\year{1955}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+l: kitanaa hasii.n hai.n mausam, kitanaa hasii.n safar hai
+chi: sAthI hai khUbasuurat, ye mausam ko bhI khabar hai
+kitanaa hasii.n \threedots
+
+chi: milatii nahii.n hai.n ma.nzil, rAhI jo ho akelaa
+do ho to phir jahaa.N bhI, chaahe lagaa lo melaa
+dil mil gaye to phir kyA, j.ngal bhI ek ghar hai
+sAthI hai khUbasuurat, ye mausam ko bhI khabar hai
+kitanaa hasii.n \threedots
+
+l: nA jaane havaae.n kyA kahanaa chaahatii hai.n \- 2
+pa.nchhii terI sadaaye.n kyA kahanaa chaahatii hai.n \- 2
+kuchh to hai aaj jisakaa, har chiiz par asar hai
+chi: sAthI hai khUbasuurat, ye mausam ko bhI khabar hai 
+kitanaa hasii.n \threedots
+
+chi: kudarat ye kah rahii hai, aa dil se dil milaa le
+ulafat se aag lekar, dil kA diyaa jalaale
+sachchii agar lagan hai, phir kisakaa tujhako Dar hai
+sAthI hai khUbasuurat, ye mausam ko bhI khabar hai
+kitanaa hasii.n \threedots
+
+## FYI, Chitalkar was none other than C Ramchandra's ## 
+## adopted name as a singer.##
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{chaa.Nd churaa ke laayaa huu.N}%
+\film{Devataa}%
+\year{1978}%
+\starring{Sanjeev Kumar, Shabana Azmi, Danny, Rakesh Roshan, Sarika}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10762 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	chaa.Nd churaa ke laayaa huu.N \-2
+	chal baiThe.n ##church## ke piichhe
+	ho naa ko_ii dekhe naa pahachaane
+	baiThe.n pe.D ke niiche
+	are chal baiThe.n ##church## \threedots
+
+la \:	kal baapuu jaag ga_e the merii laaj kii socho \-2
+ki \:	are jo honaa thaa kal hu_aa thaa
+	aaj to aaj kii socho
+la \:	jaag ga_e to
+ki \:	jaagane do
+la \:	achchhaa
+ki \:	haa.N
+la \:	to phir chal baiThe.n ##church## ke piichhe
+	o chaa.Nd churaa ke laa_ii huu.N \-2
+	chal baiThe.n ##church## \threedots
+
+ki \:	chal dariyaa par kashtii le chal duur kahii.n bah jaa_e.N \-2
+la \:	ho Dhuu.NDh naa paa_e.N bastii vaale saahil se kah jaa_e.N
+ki \:	bol diyaa to
+la \:	bolane do naa
+ki \:	achchhaa
+la \:	haa.N
+ki \:	to phir chal baiThe.n ##church## \threedots
+%
+#endindian
+\endsong
+

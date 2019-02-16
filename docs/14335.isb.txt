@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{dharak\-dharak tere bin meraa jiyaraa}%
+\film{Singaar}%
+\year{1949}%
+\starring{Suraiya, Jairaaj, Madhubala, K N Singh,  Durga Khote, Madan Puri}%
+\singer{Suraiya, Chorus}%
+\music{Khurshid Anwar}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12610 [V S Rawat], 10/02/2004
+% Kosh mentions only Suraiya, but this song has chorus also.
+%
+\printtitle
+#indian
+%
+su \:	dharak\-dharak haay
+	dharak\-dharak tere bin meraa jiyaraa sagarii raat sataaye re
+	tere bin chain na aaye re
+ko \:	tere bin chain na aaye re
+su \:	ghaghar talak ko_ii duur musaafir aa mil aa mil gaaye re
+	jiyaa meraa bhar\-bhar aaye re
+ko \:	jiyaa meraa bhar\-bhar aaye re
+
+su \:	dil ne kahaa
+ko \:	dil ne kahaa
+su \:	dil ne kahaa kyaa rakhaa hai unase priit lagaane me.n
+	mai.nne kahaa
+ko \:	mai.nne kahaa
+su \:	mai.nne kahaa un jaisaa duujaa nahii.n zamaane me.n
+	jisape meraa dil aaye re
+	un bin rahaa na jaaye re
+ko \:	un bin rahaa na jaaye re
+
+su \:	dharak\-dharak tere bin meraa jiyaraa sagarii raat sataaye re
+	tere bin chain na aaye re
+ko \:	tere bin chain na aaye re
+
+su \:	laakho.n me.n tuu ek balamawaa ham jaisii hai.n galii\-galii
+ko \:	ham jaisii hai.n galii\-galii
+su \:	bha.Nwaraa hai badanaam sajanawaa tum na bhaTako kalii\-kalii
+ko \:	tum na bhaTako kalii\-kalii
+su \:	baras\-baras dukhiyaare nainaa haare tum nahii.n aaye re
+	jiiwan biitaa jaaye re
+ko \:	jiiwan biitaa jaaye re
+
+su \:	dharak\-dharak haay
+	dharak\-dharak tere bin meraa jiyaraa sagarii raat sataaye re
+	tere bin chain na aaye re
+ko \:	tere bin chain na aaye re
+%
+#endindian
+\endsong
+%
+

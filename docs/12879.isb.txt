@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chal kahii.n chale.n sajanaa pyaar yahaa.n karanaa manaa}%
+\film{Muqaddar}%
+\year{1996}%
+\starring{Mithun, Ayesha, Rohit Kumar, Moushumi, Kiran Kumar, Simran}%
+\singer{Suresh Wadekar, Bela}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chal kahii.n chale.n sajanaa pyaar yahaa.n karanaa manaa
+bastii na ko_ii ghar ho duniyaa kaa na ko_ii Dar ho
+sach ho gayaa teraa meraa sapanaa
+chal kahii.n chale.n \threedots
+
+mahakii fizaa_e.n ho Tha.nDii havaa_e.n ho
+dilabar kii baaho.n me.n dilabar kii baahe.n ho.n
+mastii luTaa_e.n dil nigaahe.n sharaabii
+gaalo.n pe bikharii labo.n kii gulaabii
+dharatii ho na a.mbar ho nadiyaa ho na saagar ho
+qudarat kii ho dilakash ko_ii rachanaa
+chal kahii.n chale.n \threedots
+
+yaado.n ke mele ho.n khvaabo.n ke rele ho.n
+saare zamaane ke Gam ko bhulaa_e.n
+jannat se bhii su.ndar ho sabase hasii.n ma.nzar ho
+na gair ho ko_ii na ho apanaa
+chal kahii.n chale.n \threedots
+%
+#endindian
+\endsong
+

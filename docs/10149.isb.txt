@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aajaa merii jaan kahaa thaa tuune sanam}%
+\film{Aajaa Meri Jaan}%
+\year{1993}%
+\starring{Krishan Kumar, Tanya Singh, Shammi Kapoor, Prem Chopra, Pran}%
+\singer{Anuradha Paudwal, S P Balasubramaniam}%
+\music{R D Burman}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he aajaa merii jaan
+kahaa thaa tuune sanam judaa na ho.nge
+dil naa maane jaane tuu kahaa.n
+aajaa merii jaan \threedots
+
+aa_ii aa_ii aa_ii aa_ii
+baaho.n me.n terii zi.ndagii merii o mere saathii
+chho.D ke tujhe jaa_uu.ngii kahaa.n
+tuu hai jahaa.n mai.n huu.N vahii.n 
+aajaa merii jaan \threedots
+
+aajaa aajaa merii jaan na kar aise sitam
+kasam terii kasam dil na maane
+jaane tuu hai kahaa.n baaho.n me.n
+he aajaa merii jaan \threedots
+%
+#endindian
+\endsong
+

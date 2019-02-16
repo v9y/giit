@@ -1,0 +1,27 @@
+% ITRANS SONG
+
+\startsong
+\stitle{garache sau baar Gam\-e\-hijr se jaa.N guzarii hai}%
+\film{Best Of Mehdi Hassan (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Mehdi Hasan}%
+\lyrics{}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+garache sau baar Gam\-e\-hijr se jaa.N guzarii hai
+phir bhii jo dil pe guzaranii thii kahaa.N guzarii hai
+
+aap Thahare hai.n to Thaharaa hai nizaam\-e\-aalam
+aap guzare hai.n to ik mauj\-e\-rawaa.N guzarii hai
+
+hosh me.n aaye to batalaaye teraa diiwaanaa
+din guzaaraa hai kahaa.N raat kahaa.N guzarii hai
+
+#endindian
+\endsong

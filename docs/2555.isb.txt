@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dam se gaye ham_dam ke liye}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ham dam se gaye ham_dam ke liye
+ham_dam kii qasam ham_dam na milaa
+dam se gaye \threedots
+
+phir bhii kahe jaa tuu apanaa afasaanaa
+saathii mil jaayegaa na ruk jaanaa
+o dil terii kalii abhii to nahii.n khilii
+abhii vo mausam na milaa
+dam se gaye \threedots
+
+ai dil chamakaa tuu apane daaGo.n ko
+roshan kiye jaa bujhe chiraaGo.n ko
+tuu gaaye jaa merii jaa.N ye duniyaa.N hai yahaa.N
+kisii ko maraham na milaa
+dam se gaye \threedots
+
+%
+#endindian
+\endsong
+%

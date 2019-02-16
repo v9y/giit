@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ajii qiblaa mohataramaa kabhii sholaa kabhii nagmaa}%
+\film{Phir Wohi Dil Laya Hoon}%
+\year{1963}%
+\starring{Joy Mukherjee, Asha Parekh}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10540 [V S Rawat], U.V. Ravindra
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ajii qiblaa mohataramaa kabhii sholaa kabhii nagmaa
+is aap ke a.ndaaz kaa haay kyaa kahanaa
+ajii qiblaa mohataramaa \threedots
+
+% qiblaa = Sir! [Ma'am!] [Mister!] [shriimatiji!]
+
+% mohtaramaa = respected (fem.), aadaraNiiyaa
+% mohtaram = respected (mas.), aadaraNiiya
+
+% Both these are derived from the word "ehteraam", meaning respect.
+
+% ajii qiblaa, mohataramaa = Oh, respected Ma'am!
+
+uf ye Gussaa kaalii aa.Nkhe.n ho rahii hai.n gulaabii
+aapakii to ye adaa hai har kisii kii Karaabii
+are re re re
+maine tumhe.n dekhaa sirf dekhaa maani_e kahanaa \-2
+ajii qiblaa mohataramaa \threedots
+
+aarazuu thii cha.nd lamhe.n yuu.N hii chalate\-phirate
+be\-takalluf ho ke tumase cha.nd baate.n karate
+tum jo hasii.n the dil ne chaahaa saath hii rahanaa \-2
+ajii qiblaa mohataramaa \threedots
+%
+#endindian
+\endsong
+

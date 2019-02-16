@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{kaajal vaale nain milaa ke kar ... are re re luuT liyaa re}%
+\film{Devar}%
+\year{1966}%
+\starring{Dharmendra, Sharmila Tagore, Devan Verma}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10494 [V S Rawat]
+% Transliterator: 
+% Comments: Based on novel "naa" by Tarashankar Bandhopadhyaya
+% 
+\printtitle
+#indian
+%
+kaajal vaale nain milaa ke kar Daalaa bechain
+kisii matavaalii ne
+are re re luuT liyaa re jhaa.Njhar vaalii ne
+
+zulfe.n gaalo.n ko chuum rahii thii.n
+ik ghaTaa sii jhuum rahii thii
+panaghaT se haay chalii aa rahii thii
+iThalaate hu_e tarasaate hu_e
+dil se nikalii haay mujhe jab dekhaa nain jhukaa_e
+gulo.n kii Daalii ne
+are re re luuT liyaa \threedots
+
+chaa.Nd sii gorii shoK hasiinaa
+haay mushkil kar ga_ii maranaa\-jiinaa
+ek jhalak me.n hu_aa ye haal
+ki mai.n diivaanaa banaa mastaanaa banaa paravaanaa banaa
+mai.n kho baiThaa hosh mujhe yuu.N kar Daalaa madahosh
+nashe kii pyaalii ne
+are re re luuT liyaa \threedots
+
+kal sapane me.n phir aa_e thii 
+ham dono.n the tanhaa_ii thii
+ghuu.NghaT me.n haay chhupii jaa rahii thii vo
+sharmaate hu_e ghabaraate hu_e muskaate hu_e
+biite saarii raat na samajhii mere dil kii baat
+bholii\-bhaalii ne
+are re re luuT liyaa \threedots
+%
+#endindian
+\endsong
+

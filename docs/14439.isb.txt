@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mujhe bhuul jaanaa agar ho sake}%
+\film{Taqdeer}%
+\year{1967}%
+\starring{Bharat Bhushan, Shalini, Kamal Kapoor, Farida Jalal}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11040 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mujhe bhuul jaanaa agar ho sake \-2
+na phir yaad aanaa agar ho sake
+mujhe bhuul jaanaa \threedots
+
+meraa pyaar guzare zamaane kii hai baat
+rahe yaad kyuu.N bhuul jaane kii baat
+nahii.n ko_ii aa.Nsuu bahaane kii baat
+na aa.Nsuu bahaanaa agar ho sake
+mujhe bhuul jaanaa \threedots
+
+mujhe maaf karanaa mere hamasafar
+kahii.n kho gayaa mai.n tumhe.n chho.D kar
+tumhe.n maine aa.Nsuu di_e hai.n magar
+sadaa muskaraanaa agar ho sake
+mujhe bhuul jaanaa \threedots
+%
+#endindian
+\endsong
+

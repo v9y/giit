@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{yahii wafaa kaa silaa hai to ko_ii baat nahii.n}%
+\film{Aabshaar-E-Ghazal (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Asha}%
+\music{Hariharan}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+yahii wafaa kaa silaa hai to ko_ii baat nahii.n
+ye dard tuune diyaa hai to ko_ii baat nahii.n
+
+kise majaal kahe ko_ii mujhako diiwaanaa
+agar ye tumane kahaa hai to ko_ii baat nahii.n
+
+yahii bahut hai ki tum dekhate ho saahil se
+safiinaa Duub rahaa hai to ko_ii baat nahii.n
+
+jo aane waalaa hai kal usako kisane dekhaa hai
+wo hamase aaj judaa hai to ko_ii baat nahii.n
+
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere dil pe kisii ne ... ye kyaa hu_aa kaise hu_aa ye kab hu_aa}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dil pe kisii ne puuchhe binaa hii kuchh likh diyaa hai
+tumane ye sach kahaa hai mujhako bhii aisaa kuchh lag rahaa hai
+ye kyaa hu_aa kaise hu_aa ye kab hu_aa
+mere dil pe kisii ne \threedots
+
+anjaane do musaafir ham jaane pahachaane se lag rahe hai.n
+pal bhar me.n ek duuje ke kaise diivaane se lag rahe hai.n
+ham tum naa milate to ye kitanaa achchhaa hogaa
+mil to ga_e ab socho ham kaise ho.nge judaa
+ye kyaa hu_aa kaise hu_aa \threedots
+
+ab aage hai kahaa.N jaanaa apanii ma.nzil hame.n mil ga_ii hai
+tanhaa the ham akele the ab to mahafil hame.n mil ga_ii hai
+dil chaahe.n chhup jaa_e.N chupake se pyaar kii baaho.n me.n
+ab jiinaa ab maranaa yaar kii baaho.n me.n
+ye kyaa hu_aa kaise hu_aa \threedots
+%
+#endindian
+\endsong
+

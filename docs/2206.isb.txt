@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{shamaa par jal kar bhii paravaanaa}% 
+\film{Meenar}%
+\year{1954}%
+\starring{}%
+\singer{Asha}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vandana Vidwans
+% Transliterator: Vandana Vidwans
+% Date:  July 26, 1999
+% Credits:U V Ravindra
+% Editor:
+% Comments:  From "Geet Kitne Gaa Chuki Hun", rare Asha songs
+% commemorative cassette made for the East Coast RMIMeet '98
+% by Neha Desai, Richa Dubey, Chetan Vinchhi & Ashok Dhareshwar
+% The prelude "sitaaro.n se aage" is from a Iqbal ghazal.
+%
+\printtitle
+#indian
+%
+sitaaro.n se aage jahaa.N aur bhii hai.n
+abhii ishq ke imtahaa.N aur bhii hai
+
+shamaa par jal kar bhii paravaanaa fanaa hotaa nahii.n
+saaz se jaise kabhii naGamaa judaa hotaa nahii.n
+
+maut to chhoTii sii hai ek aazamaa_ish ishq kii
+dard\-e\-ulafat jaa.N dekar bhii adaa hotaa nahi.n
+shamaa par \threedots
+
+hai zamii.n se aasamaa.n tak jaa rahii thii ma.nzile.n
+khatm mar jaane se bhii ye silsilaa hotaa nahii.n
+shamaa par \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ruup teraa aisaa, darapaN me.n naa samaay}%
+\film{Ek Bar Muskuraa Do}%
+\year{1972}%
+\starring{Deb Mukherjee, Joy Mukherjee, Tanuja}%
+\singer{Kishore}%
+\music{O P Nayyar}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+haaregaa jab koI baazii \threedots tabhii to hogii kisii kii jiit
+dost yahii duniyaa ki riit \threedots tumhe.n mubaarak man kaa miit
+
+ruup teraa aisaa dap.raN me.n naa samaay    \- 2
+khushabuu tere tan ki madhuban me.n naa samaay
+o mujhe khushii milii itanii
+o mujhe khushii milii itanii,  ke man me.n naa samaay
+palak ba.nd karaluu.N kahii.n jhalak hii naa jaay
+ruup teraa \threedots
+
+mujhe naa milii jo vo khushii tuune paa_ii
+ai dost mubaarak ho tujhe pyaar kii shahanaaI
+duaa mere dil kii
+duaa mere dil kii,  daaman me.n naa samaay
+tujhe pyaar mile itanaa jiivan me.n naa samaay
+mujhe khushii milii itanii \threedots
+
+miit meraa chhiin liyaa tuune chhab dikhaake
+sadaa use rakhanaa palako.n pe tuu biThaake
+itanaa sukh denaa jiivan me.n naa samaay
+yuu.N ras barasaanaa aa.ngan me.n na samaay
+mujhe khushii milii itanii \threedots
+%
+#endindian
+\endsong
+%

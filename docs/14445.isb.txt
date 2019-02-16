@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mahalo.n me.n rahane vaalii dil hai gariib kaa}%
+\film{Tel Malish Boot Polish}%
+\year{1961}%
+\starring{Sheikh Mukhtar, Kumkum, Chandrashekhar, Madanpuri, Radhika}%
+\singer{Lata, Talat}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10164 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ta \:	mahalo.n me.n rahane vaalii dil hai gariib kaa
+	rakh le ise yaa to.D de
+la \:	o terii rahuu.Ngii sai.nyaa chaahe tere pyaar me.n
+	mujhako zamaanaa chho.D de \-2
+
+ta \:	( tumako na rok le.n ye rasme.n jahaan kii
+la \:	tum pe to khel de.nge ham baazii jaan kii ) \-2
+	ham baazii jaan kii
+ta \:	chaa.Nd sitaaro.n vaalii dil hai gariib kaa \threedots
+
+la \:	( nazaro.n kii aas hai tuu dil kaa qaraar hai
+ta \:	apanii bhii aarazuu to ik teraa pyaar hai ) \-2
+	ik teraa pyaar hai
+la \:	kuchh na kahuu.Ngii sai.nyaa chaahe tere pyaar me.n \threedots
+
+ta \:	( a.Nkhiyo.n me.n dekh gorii terii tasviir hai
+la \:	ab tere haath sai.nyaa merii taqadiir hai ) \-2
+	merii taqadiir hai
+ta \:	dil me.n samaane vaalii dil hai gariib kaa \threedots
+%
+#endindian
+\endsong
+

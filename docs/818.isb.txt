@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jab bhii ye dil udaas hotaa hai, jaane kaun aas paas hotaa hai}%
+\film{Seema}%
+\year{1971}%
+\starring{Kabir Bedi, Simi, Rakesh Roshan, Bharati}%
+\singer{Sharda, Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jab bhii ye dil udaas hotaa hai
+jaane kaun aas paas hotaa hai
+jab bhii ye\threedots
+
+ho.nTh chup chaap bolate ho jab
+saa.Ns kuchh tez tez chalatii ho
+aa.Nkhe.n jab de rahii ho.n aavaaze.n
+Tha.nDii aaho.n me.n saa.Ns jalatii ho \- (2)
+jab bhii ye\threedots
+
+aa.Nkho.n me.n tairatii hai tasviire.n
+teraa cheharaa teraa khayaal liye
+aainaa dekhataa hai jab mujhako
+ek maasuum saa savaal liye \- (2)
+jab bhii ye\threedots
+
+koii vaadaa nahii.n kiyaa lekin
+kyuu.N teraa i.ntazaar rahataa hai
+bevajah jab karaar mil jaye
+dil ba.Daa bekaraar rahataa hai
+jab bhii ye\threedots
+%
+#endindian
+\endsong
+%

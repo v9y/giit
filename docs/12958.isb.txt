@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mai.n abhii Gair huu.N mujhako abhii}%
+\film{Main Aur Mera Bhai}%
+\year{1961}%
+\starring{Ameeta, Ajeet, Mehmood, Nadira, Lalita Pawar, Mukri, Nazir Husain}%
+\singer{Mukesh, Asha}%
+\music{C Arjun}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10085 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	mai.n abhii Gair huu.N mujhako abhii apanaa na kaho
+mu \:	haay mar jaa_e.nge miT jaa_e.nge aisaa na kaho
+aa \:	mai.n abhii Gair huu.N \threedots
+
+mu \:	dil kii dha.Dakan kii tarah dil me.n basii rahatii ho
+	Kvaab ban kar merii palako.n pe sajii rahatii ho
+	kyaa kahuu.N tumako agar jaan\-e\-tamannaa na kahuu.N
+aa \:	mai.n abhii Gair huu.N \threedots
+
+	yuu.N na dekho ke merii saa.Ns rukii jaatii hai
+	jo nazar uThatii hai sharamaa ke jhuk jaatii hai
+	merii nazaro.n ko mere dil kaa taqaazaa na kaho
+mu \:	haay mar jaa_e.nge \threedots
+
+	raaz kyuu.N raaz rahe isakii zaruurat kyaa hai
+	hamase daaman na chhu.Daa_o ye qayaamat kyaa hai
+	ham to kahate hai.n hame.n shauq se diivaanaa kaho
+aa \:	mai.n abhii Gair huu.N \threedots
+mu \:	haay mar jaa_e.nge \threedots
+%
+#endindian
+\endsong
+

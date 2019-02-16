@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaan\-e\-man tuu khuub hai ... dil fidaa tujhape kiyaa hai}%
+\film{Jaani Dushman}%
+\year{2002}%
+\starring{Sunny Deol, Sunil Shetty, Akshay Kumar, Aftaab Shivdasani, Sonu Nigam, Armaan Kohli, Sharad Kapoor, Arshad Vaarasi, Aditya Pancholi, Manisha Koirala}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaan\-e\-man tuu khuub hai khuub hai tuu khuub hai
+dil fidaa tujhape kiyaa hai tuu merii mahabuub hai
+
+jaan\-e\-man tuu khuub hai khuub hai tuu khuub hai
+dil fidaa tujhape kiyaa hai tuu meraa mahabuub hai
+jaan\-e\-man tuu \threedots
+
+dil se dil Takaraa ga_e to ik nashaa chhaane lagaa
+tum lage siine se jiine kaa mazaa aane lagaa
+o terii miiThii baato.n me.n naa jaane kab mai.n kho ga_ii
+haa.N ye khabar naa mujhako hu_ii mai.n kab tumhaarii ho ga_ii
+ho pyaar kii hai ik kahaanii ye javaanii khuub hai
+dil fidaa tujhape \threedots
+
+ik gha.Dii bhii dil ko raahat bin tere milatii nahii.n
+tuu nahii.n milatii to dil kii dha.Dakane.n chalatii nahii.n
+haay dekhii terii diivaanagii dekhaa teraa diivaanaapan
+terii vafaa_o.n ne mujhako paagal kiyaa hai jaan\-e\-man
+ho chhaa ga_ii hai mujhape tuu ye pyaar teraa khuub hai
+dil fidaa tujhape \threedots
+%
+#endindian
+\endsong
+

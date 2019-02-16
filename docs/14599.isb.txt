@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ham hai.n tere tum ho mere chal pyaar kare.nge}%
+\film{Watan Ke Rakhwaale}%
+\year{1987}%
+\starring{Ashok Kumar, Sunil Dutt, Dharmendra, Mithun, Sridevi, Mausami, Divya Rana}%
+\singer{Kavita Subramaniam, Mohammed Aziz, Munna Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( ham hai.n tere tum ho mere chal pyaar kare.nge
+tere mere mere tere biich me.n kaun aa_egaa ) \-2
+aa_egaa nahii.n to jag nahii.n paa_egaa
+aise hai.n ham ik dil aise hai.n ham ik jaa.n
+aa_e tere tere biich me.n kaun aa_egaa
+
+zaalim agar zamaanaa hai to Gam kyaa
+apanaa milan hai janam se janam kaa
+in baaho.n ke biich me.n aa kar to dekhe
+aisaa pha.nsegaa ki raah nahii.n paa_egaa
+tere mere biich me.n \threedots
+
+patnii ke a.ng se pati ko uThaane
+kaun aa_egaa apanii shaamat bulaane
+aisii pa.Degii ki ghar kaa bhii raastaa
+rah rah kar sochegaa yaad nahii.n aa_egaa
+tere mere biich me.n \threedots
+
+balakhaa ke niiche hai ghuu.NghaT kii raanii \-2
+laharaa ke Dhapalii bajaa_e javaanii
+( dekhe ko_ii kyaa karegaa vo apanaa
+jal jal ke dekhegaa aur chalaa jaa_egaa ) \-2
+tere mere biich me.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{jhukaa\-jhukaa ke nigaahe.n milaa_e jaate hai.n}%
+\film{Miss Cocacola}%
+\year{1955}%
+\starring{Geeta Bali,  Shammi Kapoor, Kuldeep Kaur, Kamal Kapoor, Lalita Pawar}%
+\singer{Mukesh, Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10529 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	jhukaa\-jhukaa ke nigaahe.n milaa_e jaate hai.n
+	bachaa\-bachaa ke nishaane lagaa_e jaate hai.n
+aa \:	huzuur jab se mere dil pe chhaa_e jaate hai.n
+	ye haal hai ki qadam Dagamagaa_e jaate hai.n
+
+mu \:	hame.n to aapakii is adaa ne luuT liyaa
+	nazar uThaate nahii.n muskuraa_e jaate hai.n
+aa \:	jinhe.n ho ishq zubaa.N se vo kuchh nahii.n kahate
+	ye aap hai.n ki mohabbat jataa_e jaate hai.n
+
+mu \:	hamii.n se siikhii adaa_e.N hamii.n pe vaar kiyaa
+	hamaare tiir hamii.n par chalaa_e jaate hai.n
+aa \:	huzuur ko mai.n diivaanaa kahuu.N to phir kyaa ho
+	ki bin bulaa_e mere ghar me.n aa_e jaate hai.n
+%
+#endindian
+\endsong
+

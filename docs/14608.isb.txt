@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ek teraa saath hamako do jahaa.N se pyaaraa hai}%
+\film{Wapas}%
+\year{1969}%
+\starring{Alka, Ajay, Master Satyajit, Baby Kishwar}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11111 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	( ek teraa saath ) \-2 hamako do jahaa.N se pyaaraa hai
+	tuu hai to har sahaaraa hai
+la \:	naa mile sa.nsaar teraa pyaar to hamaaraa hai
+	tuu hai to har sahaaraa hai
+
+ra \:	ham akele hai.n shahanaa_iyaa.N chup hai.n 	to ka.Nganaa bolataa hai
+	tuu jo chalatii hai chhoTe se aa.Ngan me.n chaman saa Dolataa hai
+	( aaj ghar hamane ) \-2 milan ke ra.ng se sa.Nvaaraa hai
+	tuu hai to har \threedots
+la \:	naa mile sa.nsaar \threedots
+
+	dekh aa.Nchal me.n chaa.Ndanii rut ke nazaare bhar ga_ii hai
+	nain se tere is maa.Ng me.n jaise sitaare bhar ga_ii hai
+	( pyaar ne is raat ) \-2 ko aakaash se utaaraa hai
+	tuu hai to har \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chaa.Ndanii raat aur taare khile ho.n}%
+\film{Bhakta Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed}%
+\singer{Khursheed, Saigal}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12226 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+khu \:	chaa.Ndanii raat aur taare khile ho.n \-3
+sai \:	taaro.n kii chhai.nyaa.N me.n do dil mile ho.n \-2
+khu \:	chaa.Ndanii raat aur taare khile ho.n \-2
+
+sai \:	badariyaa me.n chandaa gha.Dii bhar ko jaaye \-2
+khu \:	ko_ii mere kaano.n me.n kuchh kahane aaye \-2
+sai \: 	( maanuu.N to ha.Ns de
+khu \:	na maanuu.N to ruuThe ) \-2
+sai \:	duniyaa jise chaahe wo silasile ho.n \-2
+
+khu \:	chaa.Ndanii raat aur taare khile ho.n \-2
+
+sai \:	( mai.n chup huu.N
+	mai.n chup huu.N to unakaa jiyaa baiThaa jaaye
+khu \:	mai.n Tokuu.N
+	mai.n Tokuu.N to unakaa jiyaa talamalaaye ) \-2
+	kabhii mai.n manaa_uu.N kabhii wo manaaye.n \-2
+sai \:	nigaahe.n mile.n gul saare khile ho.n \-2
+
+do \:	chaa.Ndanii raat aur taare khile ho.n \-2
+	taaro.n kii chhai.nyaa.N me.n do dil mile ho.n \-2
+	chaa.Ndanii raat aur taare khile ho.n \-2
+%
+#endindian
+\endsong
+%
+

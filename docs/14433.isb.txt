@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{##hello, hello## tanhaa dil ghabaraataa hai}%
+\film{Tyaagi}%
+\year{1992}%
+\starring{Rajnikant, Jayaprada, Bhagyashri, Himalaya, Sujata Mehta, Gulshan}%
+\singer{Kumar Sanu, Sapana Mukherji}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##hello, hello## 
+tanhaa dil ghabaraataa hai miiThaa dard jagaataa hai
+aa jaa_o jaldii se dam ghuTataa saa jaataa hai
+isali_e maine ##telephone## kiyaa hai
+
+##hello, hello## abhii to ghar me.n ##daddy## hai.n
+abhii nahii.n mai.n aa sakatii dil ko zaraa sambhaalo na
+abhii to milake aa_ii huu.N
+phir kisali_e tumane ##telephone## kiyaa hai
+
+bataa_o na dekhaa diivaanaa banaa ke
+aa jaa_o ko_ii bahaanaa banaa ke
+tho.Dii kare.nge pyaar kii baate.n
+chalii jaanaa meraa dil bahalaa ke
+pal pal mujhe jalaataa hai terii yaad dilaataa hai
+aa jaa_o tum jaldii se dam ghuTataa jaataa hai
+isali_e maine ##telephone## kiyaa hai
+
+kyaa karuu.N kuchh nahii.n samajh me.n aataa hai
+mere binaa tumhe.n kyaa ho jaataa hai
+##college## bhii band hai aaj hai ##sunday##
+mil paa_uu.Ngii mai.n tumase ##sunday## kaise bataa_uu.N mai.n
+mujhase bhii rahaa nahii.n jaataa dil ko zaraa sambhaalo na
+abhii to milake aa_ii \threedots
+%
+#endindian
+\endsong
+

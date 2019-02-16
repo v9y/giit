@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{sholaa sholaa tuu bha.Dake ... milaa_e.n zaraa andaaz apanaa apanaa}%
+\film{Andaaz Apnaa Apnaa}%
+\year{1994}%
+\starring{Salman, Aamir, Raveena, Karisma, Paresh, Shakti, Deven}%
+\singer{Vicky Mehta, Bahroz Chatterji}%
+\music{Tushar Bhatia}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sholaa sholaa tuu bha.Dake dil ban ban ke ham dha.Dake
+dekho dilabar jaanaa.n mausam hai kyaa mastaanaa
+o jaan\-e\-vafaa milaa_e.n zaraa andaaz apanaa apanaa
+sholaa sholaa ham bha.Dake \threedots
+
+kabhii sholaa kabhii shabanam tumhaaraa bhii hai kyaa kahanaa
+kabhii tuufaa.n kabhii kuchh kam tumhaaraa bhii hai kyaa kahanaa
+tum tum mere li_e tum tere li_e ham to kyaa Gam
+sholaa sholaa ham bha.Dake \threedots
+
+terii ulfat terii chaahat hamaarii zi.ndagaanii hai
+tujhe dekhaa tujhe paayaa yahii hamaarii kahaanii hai
+tum tum mere li_e tum \threedots
+%
+#endindian
+\endsong

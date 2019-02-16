@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai}%
+\film{Teesri Kasam}%
+\year{}%
+\starring{Raj Kapoor}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai
+na haathii hai naa gho.Daa hai, vahaa.N paidal hii jaanaa hai
+
+tumhaare mahal chaubaare, yahii.n rah jaae.nge saare    \- 2
+aka.D kis baat ki pyaare
+aka.D kis baat ki pyaare, ye sar phir bhii jhukaanaa hai
+sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai \threedots
+
+bhalaa kiijai bhalaa hogaa, buraa kiijai buraa hogaa    \- 2
+bahii likh likh ke kyaa hogaa
+bahii likh likh ke kyaa hogaa, yahii.n sab kuchh chukaanaa hai
+sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai \threedots
+
+la.Dakapan khel me.n khoyaa, javaanii nii.nd bhar soyaa    \- 2
+bu.Dhaapaa dekh kar royaa
+bu.Dhaapaa dekh kar royaa, vahii kissaa puraanaa hai
+sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai
+na haathii hai naa gho.Daa hai, vahaa.N paidal hii jaanaa hai
+sajan re jhuuTh mat bolo, khudaa ke paas jaanaa hai \threedots
+%
+#endindian
+\endsong
+%

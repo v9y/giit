@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mile jo tere nainaa hamaare nainaa se}%
+\film{Do Aankhen Baarah Haath}%
+\year{1997}%
+\starring{Govinda, Aruna Irani, Madhuvanti, Rupali, Raman Khatri}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Bappi Lahiri}%
+\lyrics{Sunil Jha}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	mile jo tere nainaa hamaare nainaa se
+ku \:	chalaa kaisaa jaaduu puuchho ye rainaa se
+a \:	palak nahii.n hotii hai band hotii hai ko_ii miiThii chubhan
+ku \:	palak nahii.n \threedots
+a \:	kaise mai.n bataa_uu.N kaise ye dha.Dakataa hai jiyaa saathiyaa
+ku \:	mile jo tere nainaa \threedots
+a \:	chalaa kaisaa jaaduu \threedots
+ko \:	dhintaanaa dhintaanaa dhintaanaa aanaa aanaa tuu mere paas aanaa \-2
+
+ku \:	( tasviir terii aa.Nkho.n me.n le luu.N itane kariib aa
+a \:	nazadiik kaise aa_uu.N mai.n bhalaa lagataa hai Dar piyaa ) \-2
+ku \:	aise na dekh mujhe ta.Dapataa hai jiyaa saathiyaa aa aa
+a \:	mile jo tere nainaa \threedots
+ku \:	chalaa kaisaa jaaduu \threedots
+ko \:	dhintaanaa \threedots
+
+a \:	( karavaT badal badal ke kasam se jaagii huu.N raat bhar
+ku \:	nazaro.n me.n tum raho gar sanam chaahuu.N mai.n umr bhar ) \-2
+a \:	aise na baaho.n me.n me.n le bahakataa hai jiyaa o piyaa aa aa
+	mile jo tere nainaa \threedots
+ku \:	chalaa kaisaa jaaduu \threedots
+ko \:	dhintaanaa \threedots
+%
+#endindian
+\endsong
+
+

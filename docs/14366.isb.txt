@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ek duuje par marate the ye un dino.n kii baat hai}%
+\film{Tum Se Achcha Kaun Hain}%
+\year{2002}%
+\starring{Nakul Kapoor, Kim Sharma, Aarti Chhabaria}%
+\singer{Sonu Nigam, Sarika Kapoor}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+he laa laa laa aa haa haa ai he he aa haa haa
+uu.n huu.n huu.n huu.n ye aa haa haa
+ek duuje par marate the
+ham pyaar kii baate.n karate the
+Kvaabo.n me.n kho_e rahate the
+baaho.n me.n so_e rahate the
+ye un dino.n kii baat hai
+jab paagal paagal phirate the
+
+kahate the kuchh sunate the
+ham phuul vafaa ke chunate the
+kabhii ha.Nsate the kabhii rote the
+ham yaar judaa jab hote the
+hame.n sab kuchh achchhaa lagataa thaa
+afsaanaa sachchaa lagataa thaa
+ye un dino.n kii \threedots
+
+tanhaa_ii me.n jab milate the
+dil me.n halachal sii hotii thii
+ham dono.n jaagate rahate the
+jab saarii duniyaa sotii thii
+jab yaad tumhaarii aatii thii
+chaahat ke nagme.n gaate the
+bechain diivaanii dha.Dakan ko
+bahalaate the samajhaate the
+ye un dino.n kii \threedots
+
+he he he e he he
+%
+#endindian
+\endsong
+

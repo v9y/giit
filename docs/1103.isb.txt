@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mai.n ek raajaa huu.N tuu ik raanii hai}%
+\film{Upahaar}%
+\year{1971}%
+\starring{Anil Dhawan, Jaya Bhaduri}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: SAMIUDDIN MOHAMMED (sm0e@Lehigh.EDU)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(mai.n ek raajaa huu.N
+tuu ik raanii hai ) \- 2
+prema nagara kii ye ik su.ndara
+prema kahaanii hai
+mai.n ik raajaa huu.N \threedots
+
+kyaa hotii hai prema kahaanii
+ye bhii tuu naadaana naa jaanii
+kitanii pyaarii pyaarii terii 
+ye naadaanii hai
+mai.n ik raajaa huu.N\threedots
+
+premii bha.nvare ra.ngaraliyo.n ke
+kyaa kahate hai.n ina kaliyo.n se
+mai.n tujhako kaise samajhaauu.n
+tuu dIvaanii hai
+mai.n ik raajaa huu.N\threedots
+
+mana meraa ik mahala ho jaise
+tuu isame.n rahatii hai aise
+jaise siip me.n motii hai
+saagara me.n paanii hai
+mai.n ik raajaa huu.N\threedots
+
+%
+#endindian
+\endsong
+%

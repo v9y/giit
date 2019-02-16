@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{tum hame.n pyaar karo yaa na karo}%
+\film{Kaise Kahoon}%
+\year{1964}%
+\starring{Biswajit, Nanda, Rehman, Naaz, Durga Khote, Manmohan Krishn}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10436 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum hame.n pyaar karo yaa na karo
+ham tumhe.n pyaar ki_e jaa_e.Nge
+chaahe qismat me.n Kushii ho ke na ho
+Gam uThaakar hii ji_e jaa_e.Nge
+tum hame.n pyaar \threedots
+
+ham nahii.n vo jo Gam\-e\-ishq se ghabaraa jaa_e.N
+ho ke maayuus zubaa.N par ko_ii shikavaa laa_e.N
+chaahe kitanaa hii ba.Dhe dard\-e\-jigar
+apane ho.nTho.n ko si_e jaa_e.Nge
+tum hame.n pyaar \threedots
+
+tum salaamat ho to ham chain bhii paa hii le.nge
+kisii suurat se lagii dil kii bujhaa hii le.nge
+pyaar kaa jaam mile yaa na mile
+ham to aa.Nsuu bhii pi_e jaa_e.Nge
+tum hame.n pyaar \threedots
+
+to.D dii aas to phir itanaa hii ehasaan karo
+dil me.n rahanaa jo na chaaho to nazar hii me.n raho
+Thes lagatii jo hai dil par to lage
+Gam uThaakar hii ji_e jaa_e.Nge
+tum hame.n pyaar \threedots
+%
+#endindian
+\endsong
+

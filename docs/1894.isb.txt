@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ye dil divaanaa hai dil to divaanaa hai}%
+\film{Ishq Par Zor Nahin}%
+\year{1970}%
+\starring{Dharmendra, Sadhana}%
+\singer{Lata, Rafi}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Surinder P. Singh (surinder@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye dil diivaanaa hai, dil to diivaanaa hai
+diivaanaa dil hai ye dil diivaanaa
+
+kaisaa bedardii hai, isakii to marzii hai
+jab tak javaanii hai, ye rut suhaanii hai
+nazare.n judaa naa ho.n, aramaa.n khafaa naa ho.n
+dilakash bahaaro.n me.n, chhupake chanaaro.n me.n
+yU.n hii sadaa ham tum, baiThe rahe.n gumasum
+vo bevafaa jo kahe hamako jaanaa hai ye dil, 
+ye dil divaanaa hai \threedots
+
+bechain rahataa hai, chupake se kahataa hai
+mujhako dha.Dakane do, sholaa bha.Dakane do
+kaa.NTo.n me.n kaliyo.n me.n, saajan kii galiyo.n me.n
+feraa lagaane do, chho.Do bhii jaane do
+kho to na jaaU.ngaa, mai.n lauT aaU.ngaa
+dekhaa sune samajhe achchhaa bahaanaa hai ye dil, 
+ye dil divaanaa hai \threedots
+
+saavan ke aate hii, baadal ke chhaate hii
+phUlo.n ke mausam me.n, phUlo.n ke mausam me.n
+chalate hii puravaaii, milate hI tanhaaii
+ulajhaake baato.n me.n, kahataa hai raato.n me.n
+yaado.n me.n kho jaaU.n, jal_dii se so jaaU.n
+kyo.nke saa.Nvariyaa ko sapano.n me.n aanaa hai ye dil, 
+ye dil divaanaa hai \threedots
+%
+#endindian
+\endsong
+%

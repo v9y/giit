@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum sa.ng laage piyaa more nainaa}%
+\film{Taj}%
+\year{}%
+\starring{Pradeep Kumar}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+tum sa.ng laage piyaa more nainaa
+ik pal chain na aaye
+
+paapii man morii baat na maane
+kaun ise aaye samajhaane
+machal machal rah jaaye
+tum sa.ng laage   \threedots
+
+man me.n samaayii more shyaam suratiyaa
+kis dis bhuuluu mai.n pii kii muuratiyaa
+baat samajh nahii.n aaye
+tum sa.ng laage   \threedots
+
+%
+#endindian
+\endsong
+%

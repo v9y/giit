@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mere nasiib me.n ai dost teraa pyaar nahii.n}% 
+\film{Do Raaste}%
+\year{1969}%
+\starring{Rajesh Khanna, Mumtaz}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+khizA ke phuul pe AtI kabhI bahaar nahii.n 
+mere nasiib me.n ai dost, terA pyaar nahii.n 
+mere nasiib me.n ai dost, terA pyaar nahii.n \threedots
+
+nA jAne pyaar me.n kab mai.n, zubaa.n se phir jaaU.n 
+mai.n banake aa.Nsuu khud apanii, nazar se giir jaaU.n
+terI qasam hai meraa koI, aitabaar nahii.n 
+mere nasiib me.n \threedots
+
+mai.n roz lab pe naI ek, aah rakhataa huu.N 
+mai.n roz ek naye Gam kii raah takataa huu.N 
+kisii khushii kA mere dil ko, intazaar nahii.n 
+mere nasiib me.n \threedots
+
+gariib kaise mohabbat, kare amiiro.n se 
+bichha.D gaye hai.n ka_ii raa.njhe, apanii hIro.n se 
+kisii ko apane muqaddar pe, ikhtiyaar nahii.n 
+mere nasiib me.n \threedots
+
+khizA ke phuul pe AtI kabhI bahaar nahii.n 
+mere nasiib me.n ai dost, terA pyaar nahii.n 
+%
+#endindian
+\endsong
+%

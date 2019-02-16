@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{ThaaTh navaabii baaT navaabii vaah terii kyaa baat hai}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Anand Raj Anand, Alka Yagnik}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ThaaTh navaabii baaT navaabii vaah terii kyaa baat hai
+haay haay haay haay
+ThaaTh navaabii \threedots
+
+chunnuu kii mammii raajuu kii maamii
+vaah terii kyaa baat hai
+he ruTho nahii.n aise yaar ham se
+karo kuchh pyaar vyaar ham se
+dil diivaane kaa to.Do naa
+kisako pa.Dhaa_ogii cheharaa kitaabii
+ThaaTh navaabii \threedots
+
+o jaan\-e\-jaanaa.n maine ye maanaa
+der se aanaa meraa rog hai puraanaa
+dekho jii piichhe bilkul na aanaa
+mai.n naa maanuu.ngii naa naa nahii.n nahii.n naa naa
+maan jaa_o naa jaan\-e\-man
+sab tumhaaraa hai tan man dhan
+bin tumhaare hai kyaa meraa
+muqaddar ke taale kii tum hii ho chaabii
+ThaaTh navaabii \threedots
+
+ho tumase muhabbat kitanii hai hamako
+ye jaanataa hai saaraa zamaanaa
+haa.n mujhako bataa_o mai.n naa rahii to
+kyaa karoge ye saaraa zamaanaa
+mai.n ye maanataa huu.N dilabar
+choT tumako dii hai dil par
+maafii maa.ng luu.Ngaa ghar par
+raste pe to naa karo ye kharaabii
+
+sau vaade karanaa aur ik nibhaanaa
+Thiik hii to hai meraa ruuTh jaanaa
+maanaa ta.Dapatii ho par sab samajhatii ho
+kitanii mahaan ho tum jaan\-e\-jaanaa.n
+chho.Do chho.Do chho.Do naaTak
+yuu.n sataa_oge tum kab tak
+maan jaa_ogii naa jab tak
+dekho to mausam hai kitanaa gulaabii
+ThaaTh navaabii \threedots
+%
+#endindian
+\endsong
+

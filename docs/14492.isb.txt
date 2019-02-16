@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{uf kitanii ThaNDii hai ye rut sulaGe hai tanahaa_ii merii}%
+\film{Teen Deviyan}%
+\year{1965}%
+\starring{Dev Anand, Nanda, Simi, Kalpana}%
+\singer{Lata, Kishore}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12183 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+la \:	( uf kitanii ThaNDii hai ye rut
+ki \:	sulaGe hai tanahaa_ii merii
+	san san san jalataa hai badan
+la \:	kaa.Npe hai a.nga.Daa_ii merii ) \-2
+
+la \:	tumape bhii hai bhaarii
+	wo hai kaun aisii chi.ngaarii
+	o tumape bhii hai bhaarii
+	wo hai kaun aisii chi.ngaarii
+ki \:	hai ko_ii in aa.Nkho.n me.n
+	ek tum jaisii Kaabo.n kii parii
+
+la \:	uf kitanii ThaNDii hai ye rut
+ki \:	sulaGe hai tanahaa_ii merii
+	san san san jalataa hai badan
+la \:	kaa.Npe hai a.nga.Daa_ii merii
+
+ki \: 	ye tanahaa mausam mehataabii
+	ye jalatii\-bujhatii beKaabii
+	o ye tanahaa mausam mehataabii
+	ye jalatii\-bujhatii beKaabii
+la \:	mahalo.n (?) me.n tharratii hai
+	ek betaabii aramaa.N me.n bharii
+
+	uf kitanii ThaNDii hai ye rut
+
+	aise hai.n dil pe kuchh saaye
+	dha.Dakan bhii jal ke jam jaaye
+	o aise hai.n dil pe kuchh saaye
+	dha.Dakan bhii jal ke jam jaaye
+ki \:	kaa.Npo tum aur sulaGe.n ham
+	ye hai chaahat kii jaaduugarii
+	of
+
+la \:	uf kitanii ThaNDii hai ye rut
+ki \:	sulaGe hai tanahaa_ii merii
+	san san san jalataa hai badan
+la \:	kaa.Npe hai a.nga.Daa_ii merii
+%
+#endindian
+\endsong
+

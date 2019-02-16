@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tuu la.Dakii mai.n ek la.Dakaa tujhe dekh}%
+\film{Do Ustaad}%
+\year{1959}%
+\starring{Raj Kapoor, Madhubala, Sulochana, Daisy Irani, Sheikh Mukhtar}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10514 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	tuu la.Dakii mai.n ek la.Dakaa \-2
+	tujhe dekh kalejaa dha.Dakaa
+	naariyal ke pe.D tale ek chhokarii madraas kii kalii
+aa \:	hamase kare hai chhe.D\-chhaa.D chhokaraa pa.njaab kaa
+	phuul ho gulaab kaa
+	tuu la.Dakaa mai.n la.Dakii tujhe dekh tabiiyat pha.Dakii \-2
+
+ra \:	daastaan tere husn kii aahaa sabane sunii
+	pa.njaab se aayaa huu.N janaab mai.n
+aa \:	naam sun ke jii aapakaa haay mai.n chho.D aa_ii madraas
+	mai.n kha.Dii huu.N tere paas me.n
+
+ra \:	aa.Nkhe.n terii sharabatii moranii sii chaal hai
+	dil ne kahaa ye kamaal hai
+aa \:	tum bhii balamavaa kam nahii.n puure chaudahavii.n kaa chaa.Nd
+	chaa.Nd bhii tumase maa.Nd hai
+	tuu la.Dakaa mai.n la.Dakii \-2
+	ik aag sii dil me.n bha.Dakii \-2
+%
+#endindian
+\endsong
+

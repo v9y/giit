@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{Daalo khaaq sabhii baato.n pe  ... o jii o ##hero## bolo jii ##zero##}%
+\film{Raam Lakhan}%
+\year{1989}%
+\starring{Anil Kapoor, Jackie Shrof, Dimple Kapadia, Madhuri Dixit}%
+\singer{Alisha Chinai, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Daalo khaaq sabhii baato.n pe dil se dil Takaraane do
+o jii o ##hero## bolo jii ##zero hero mister zero##
+
+naam ba.De hai.n ye mushkil
+tum me.n ko_ii aashiq ho to mai.n de detii usako dil
+mere naam ke charche hai.n shahar me.n sabhii hasiino.n me.n
+jaane kaun hai lekin ek diivaanaa hai ham tiino.n me.n
+diivaanaa hai in tiino.n me.n oh lo
+ek nahii.n hai diivaanaa is mahafil me.n diivaane do
+o jii o ##hero## \threedots
+
+karate hai.n sab mujhe salaam das kos me.n
+mai.n sholaa huu.N mai.n bijalii huu.N mai.n aashiq huu.N mai.n saagar huu.N
+mai.n tuufaa.n huu.N mai.n jaaduu huu.N mai.n aashiq huu.N mai.n ##zero## huu.N
+nahii.n nahii.n he haath milaa_o isii baat par
+ho ab ye gussaa jaane do
+##my name is## lakhan
+%
+#endindian
+\endsong
+

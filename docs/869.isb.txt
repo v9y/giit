@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jihaal-e-mastii, makun-b-ranjish}% 
+\film{Gulaami}%
+\year{1985}%
+\starring{Mithun, Anita Raaj}%
+\singer{Lata, Shabbir Kumar}%
+\music{}%
+\lyrics{Gulzar}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+jihaal\-e\-mastii makun\-b\-ranjish,
+bahaal\-e\-hijr bechaaraa dil hai
+
+sunaaI detii hai jisakii dha.Dakan 
+tumhaaraa dil yA hamaaraa dil hai 
+
+vo aake pahaluu me.n aise baiThe 
+ke shaam ra.ngiin ho ga_ii hai (3) 
+zaraa zaraa sI khilii tabiiyat 
+zaraa sI Gamagiin ho ga_ii hai 
+
+(kabhI kabhI shaam aise Dhalatii hai 
+ke jaise ghU.NghaT utar rahaa hai ) \- 2
+tumhaare siine se uTh thaa dhuaa.N 
+hamaare dil se guzaar rahaa hai 
+
+ye sharm hai yA hayaa hai kyA hai 
+najar uThaate hii jhuk gayii hai 
+tumhaarii palako.n se girake shabanam 
+hamaarii aa.Nkho.n me.n ruk gayii hai 
+%
+#endindian
+\endsong
+%

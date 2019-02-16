@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mai.n chalii mai.n chalii piichhe\-piichhe jahaa.N}%
+\film{Professor}%
+\year{1962}%
+\starring{Shammi Kapoor, Kalpana, Lalita Pawar}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10925 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	mai.n chalii mai.n chalii piichhe\-piichhe jahaa.N
+	ye na puuchho kidhar ye na puuchho kahaa.N
+ra \:	( sajade me.n husn ke jhuk gayaa aasamaa.N
+	lo shuruu ho ga_ii pyaar kii daastaa.N ) \-2
+
+	jaa_o jahaa.N kahii.n aa.Nkho.n se duur
+	dil se na jaa_oge mere huzuur
+la \:	jaaduu nigaaho.n kaa chhaayaa suruur
+	aise me.n bahake to kisakaa qusuur
+ra \:	sajade me.n husn \threedots
+la \:	mai.n chalii \threedots
+
+	bahake qadam chaahe bahake nazar
+	jaa_e.Nge dil le ke jaa_e.N jidhar
+ra \:	pyaar kii raaho.n me.n pyaaraa safar
+	ham kho bhii jaa_e.N to kyaa hai fiqar
+la \:	mai.n chalii \threedots
+ra \:	sajade me.n husn \threedots
+%
+#endindian
+\endsong
+

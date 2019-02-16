@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aTakan baTakan dahii chaTokan ... ##monday## bhii ho ##sunday##}%
+\film{Dil Kyaa Kare}%
+\year{1999}%
+\starring{Ajay Devgan, Kajol, Mahima Chaudhary}%
+\singer{Abhijit, Kavita Subramaniam, Kids}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aTakan baTakan dahii chaTokan musavaa moTaa rupayaa khoTaa
+maalaa TuuTii ##baby## chhoTii
+ha haa ##mummy## kuchh bhii khaa_e par hotii nahii.n hai moTii
+lall lall lall
+##monday## bhii ho ##sunday## sabakii maa.ng hai maa.ng hai
+bolo jii ye ##right## hai yaa ##wrong## hai ##wrong## hai
+
+##monday## bhii ho ##sunday## sabakii maa.ng hai
+bolo ##daddy right## hai yaa ##wrong## hai
+##right## hai yaa ##wrong## ye kaun bole
+sunake ye ##song## haule haule
+ek Taa.ng pe gho.Daa naache chham chham chham
+##monday## bhii ho \threedots
+
+##mummy## suno suno ye ##story## cha.ndaa kii ho ga_ii chorii
+chor churaa ke bhaage unake piichhe taare bhaage saare bhaage
+sabake piichhe piichhe bhaage ham ham ham
+##monday## bhii ho \threedots
+
+kitanaa pyaaraa ye ghar hai apanaa jaise ho ko_ii sapanaa
+sun le saarii duniyaa yahaa.n pe khushiyaa.n rahatii hai.n
+kahatii haii.n
+yahaa.n kabhii na aa_e ko_ii Gam Gam Gam
+##monday## bhii ho \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{unape kuchh is tarah pyaar aane lagaa}%
+\film{Ghulam Ali (Non-Film)}%
+\year{1987}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{K M Arif}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+unape kuchh is tarah pyaar aane lagaa
+beqaraarii ko qaraar aane lagaa
+
+is kadar baKshe mujhe Gam aapane
+merii Kushiyo.n par nikhaar aane lagaa
+
+zikr thaa mere fasaane kaa magar
+naam unakaa baar baar aane lagaa
+
+ziist afasurdaa thii bemaanii na thii
+apane aramaano.n pe pyaar aane lagaa
+
+jaanib\-e\-kaabaa hai ruK 'aarif' kaa aaj
+suu\-e\-zamazam baadaaKaar aane lagaa
+
+#endindian
+\endsong

@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dil jalaa ke meraa muskuraate hai.n wo}%
+\film{Passions (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{S M Sadik}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+dil jalaa ke meraa muskuraate hai.n wo
+apanii aadat ke kab baaz aate hai.n wo
+
+puuchh lete hai.n har raaz mujhase meraa
+apanii har baat mujhase chhupaate hai.n wo
+
+aap Kud to ba.De bewafaa hai.n magar
+qisse sabako wafaa ke sunaate hai.n wo
+
+jisane dekhaa unhe.n apane dil se gayaa
+tiir nazaro.n ke aise chalaate hai.n wo
+
+#endindian
+\endsong

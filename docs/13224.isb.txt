@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{bhalaa hai buraa hai jaisaa bhii hai meraa pati meraa devataa hai}%
+\film{Naseeb Apnaa Apnaa}%
+\year{1986}%
+\starring{Rishi Kapoor, Farha, Radhika, Amrish Puri, Rakesh Bedi, Satyen Kappu}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bhalaa hai buraa hai jaisaa bhii hai meraa pati meraa devataa hai
+mere devataa ko kuchh na kaho meraa devataa to meraa devataa hai
+bhalaa hai buraa hai \threedots
+
+tapasyaa to hotii hai sabakii baraabar magar sabako bhagavaan milate kahaa.n hai.n
+maalii to rakhavaalii karataa hai sabakii magar sabhii phuul khilate kahaa.n hai.n
+kyaa bhed hai kisako pataa hai
+bhalaa hai buraa hai \threedots
+
+vahii merii duniyaa vahii meraa jiivan vahii merii bhakti vahii merii puujaa
+vahii merii naiyaa kaa har pal sahaaraa nahii.n meraa usake sivaa ko_ii duujaa
+magar apanii taqadiir ko kahuu.n kyaa maruu.n bhii to ilazaam kis pe dharuu.n mai.n
+kahii.n ilazaam sachche nahii.n jhuuThaa hai sapanaa
+duniyaa me.n sabakaa nasiib apanaa apanaa
+bhalaa hai buraa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tujhako furasat se vidhaataa ne rachaa}%
+\film{Aarohi}%
+\year{1982}%
+\starring{}%
+\singer{Mukesh, Hemlata}%
+\music{Anand Saagar Kiran}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #11623 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+he \:	tujhako furasat se vidhaataa ne rachaa
+	hR^iday tujhako kyaa diyaa hai raam ne
+mu \:	chaa.Nd chaahe mujhase mukha.Daa pher le
+	tuu baiThii rah nazar ke saamane
+he \:	tujhako furasat se \threedots
+
+mu \:	chaa.Nd to chhaayaa hai tere ra.ng kii
+	shaayaro.n kii daad paa kar tan gayaa
+	bin pilaa_e hii mujhako bahakaa diyaa
+	terii a.Nkhiyo.n ke gulaabii jaam ne
+he \:	tujhako furasat se \threedots
+
+	tum ho priyatam mere man ke devataa
+	mai.n tumhaare in charaNo.n kii dhuul huu.N
+	tum ho puujaa tum merii aaraadhanaa
+	mai.n tumhaarii saadhanaa kaa phuul huu.N
+	gir nahii.n sakataa ko_ii ma.Njhadhaar me.n
+	tum ba.Dho jisakii kalaa_ii thaamane
+do \:	tujhako furasat se \threedots
+%
+#endindian
+\endsong
+

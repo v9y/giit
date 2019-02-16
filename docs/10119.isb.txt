@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil hamaaraa hu_aa hai kisii kaa ... pyaar shaayad hai naam isii kaa}%
+\film{Albela}%
+\year{2001}%
+\starring{Govinda, Aishwarya Rai, Namrata Shirodkar}%
+\singer{Hariharan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+dil hamaaraa hu_aa hai kisii kaa
+pyaar shaayad hai naam isii kaa
+kaisaa aalam hai ye bekhudii kaa
+pyaar shaayad hai naam isii kaa
+dil hamaaraa hu_aa \threedots
+
+ham paraa_e hu_e ik mulaakaat me.n
+baat aage ba.Dhii baat hii baat me.n
+bekhabar ho ga_e jab milii ye nazar
+jaan\-o\-dil pe hu_aa hai ye kaisaa asar
+rukh badalane lagaa zi.ndagii kaa
+pyaar shaayad hai naam isii kaa
+dil hamaaraa hu_aa \threedots
+
+unase jab tak hame.n yuu.n mohabbat na thii
+itanii duniyaa kabhii khuubasuurat na thii
+dil kaa aanaa kahe.n dil kaa jaanaa kahe.n
+aisii diivaanagii ko bhalaa kyaa kahe.n
+ra.ng hai har taraf aashiqii kaa
+pyaar shaayad hai naam isii kaa
+dil hamaaraa hu_aa \threedots
+%
+#endindian
+\endsong
+

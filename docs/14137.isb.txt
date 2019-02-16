@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{bhiitar\-bhiitar khaa_e chalo baahar shor}%
+\film{Sankalp/ Determination}%
+\year{1974}%
+\starring{Farida Jalal, Sukhdev, Bipin Gupta,  Anjali Kadam, Sulakshana Pundit}%
+\singer{Mukesh, Mahendra Kapoor}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #10271 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	bhiitar\-bhiitar khaa_e chalo baahar shor machaa_e chalo
+ma \:	bhed kaun kholegaa mu.Nh se kaun bolegaa
+do \:	bhiitar\-bhiitar khaa_e \threedots
+
+mu \:	janataa bholii\-bhaalii hai peT bhii jeb bhii khaalii hai
+	naaro.n se garamaa do lahuu vaado.n se bahalaa_e chalo
+do \:	bhiitar\-bhiitar khaa_e \threedots
+
+mu \:	ba.Dhatii jaa_e ma.nhagaa_ii ghaTatii jaa_e hai kamaa_ii
+ma \:	chiizo.n ke daam ba.Dhaa_e chalo insaa.n kaa bhaav giraa_e chalo
+do \:	bhiitar\-bhiitar khaa_e \threedots
+
+ma \:	haatho.n me.n kuchh noT lo phir chaaho jitane voT lo
+mu \:	khoTe se khoTaa kaam karo baapuu ko niilaam karo
+do \:	bhiitar\-bhiitar khaa_e \threedots
+
+asaraanii \:	are baapuu kii tasviir hai ye
+ma \:	tere baap kii kyaa jaagiir hai ye
+	baapuu\-baapuu karate raho
+mu \:	zahar dilo.n me.n bharate raho
+ma \:	bastii\-bastii aag lage
+mu \:	har insaan ik naag lage
+	praant\-praant ko ta.ng kare
+ma \:	bhaaShaa se bhaaShaa ja.ng kare
+mu \:	ko_ii yahaa.N maliyaalii
+ma \:	ko_ii yahaa.N ba.ngaalii
+mu \:	gujaraatii hai ko_ii yahaa.N
+ma \:	pa.njaabii hai ko_ii yahaa.N
+mu \:	ko_ii hai maraaThaa aur vo tamil
+ma \:	aapas me.n yaarii hai mushkil
+do \:	sabako chaahi_e apanii zamii.n hindustaanii ko_ii nahii.n
+ko \:	hindustaanii ko_ii nahii.n \-2
+
+mu \:	desh kahaa.N ab desh rahaa
+ma \:	desh kahaa.N ab desh rahaa
+mu \:	desh to siimaa_o.n me.n ba.nTaa
+ma \:	aur bhii Tuka.De u.Daa_e chalo
+do \:	kursii apanii bachaa_e chalo
+	bhiitar\-bhiitar khaa_e \threedots
+%
+#endindian
+\endsong
+

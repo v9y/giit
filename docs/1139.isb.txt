@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n ye sochakar usake dar se uThaa thaa}%
+\film{Haqeeqat}%
+\year{1964}%
+\starring{Balraj Sahni, Dharmendra, Priya Rajvansh, Jayant}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish V. Maruvada (maruvada@cup.hp.com)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mai.n ye sochakar usake dar se uThaa thaa 
+ke vo rok legii manaa legii mujhako
+
+havaao.n me.n laharaataa aataa thaa daaman
+ke daaman paka.Dakar biThaa legii mujhako
+
+kadam aise a.ndaaz se uTh rahe the
+ke aavaaz dekar bulaa legii mujhako
+
+magar usane rokaa
+na usane manaayaa
+na daaman hii paka.Daa
+na mujhako biThaayaa
+na aavaaz hii dii
+na vaapas bulaayaa
+
+mai.n aahistaa aahistaa ba.Dhataa hii aayaa
+yahaa.N tak ke usase judaa ho gayaa mai.n \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+% ITRANS SONG # 3479; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-10-08 17:11:28 PST
+%
+\startsong
+\stitle{tere jahaa.N se chal di_e}%
+\film{Rukhsaanaa}%
+\year{1955}%
+\starring{Meena Kumari, Kishore Kumar, Shammi}%
+\singer{Kishore, Asha}%
+\music{Sajjad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 08 Oct 2002
+%
+\printtitle
+#indian
+%
+Kishore:
+tere jahaa.N se chal di_e
+dete hu_e duwaa_e.N ham
+teraa Kuda bhalaa kare
+kahate rahe jafaa_e.N ham
+
+Kishore:
+shauk se Gam uThaa_e.nge
+shikave na lab pe laa_e.nge
+dil me.n uThegaa dard jab
+de.nge tujhe du_aa_e.N ham
+
+Asha:
+aisaa hame.n ??????
+honaa paDegaa yuu.N judaa
+kadamo.n pe tere dete jaa.n
+leke terii balaa_e.N ham
+
+kk: jaate hai.n ab salaam le
+    dard bharaa payaam le
+ab: milane kii maa.ng naa dhu_aa.N??
+    yaad kabhii jo aa_e.N ham
+%
+#endindian
+\endsong
+%

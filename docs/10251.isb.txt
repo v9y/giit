@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{teraa jalavaa taubaa hai teraa jalavaa}%
+\film{Aap Ke Deewaane}%
+\year{1980}%
+\starring{Rishi Kapoor, Rakesh Roshan, Tina Munim, Ashok Kumar}%
+\singer{Rafi, Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10406 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	teraa jalavaa taubaa hai teraa jalavaa \-2
+	jab se dekhaa taubaa hai teraa jalavaa \-2
+ra \:	ho jii chaahe jii bhar ke taariif karuu.N ( hoy ) \-3
+	o kyaa kahanaa taubaa hai teraa jalavaa \-2
+ki \:	teraa jalavaa taubaa \threedots
+
+ra \:	sunate the logo.n se afasaane tere
+	haay par tujhako dekhaa nahii.n thaa
+ki \:	dekhe hasiin to laakho.n hazaaro.n
+	haay ko_ii bhii tujhasaa nahii.n thaa
+ra \:	kaalii zulfe.n u.Date baadal goraa chaa.Nd saa cheharaa
+ki \:	teraa jalavaa taubaa \threedots
+
+ki \: 	kaliyo.n se phuulo.n se mahafil sajii hai
+	haay teraa janm\-din aayaa
+ra \:	merii be_adabii tuu maaf karanaa
+	haay mai.n ko_ii tohafaa na laayaa
+ki \:	jo khud phuul ho usako kyaa de.n phuulo.n kaa guladastaa
+	teraa jalavaa taubaa \threedots
+
+ra \:	kahatii hai duniyaa har ek dil pe
+	haay dilabar kaa naam likhaa hai
+ki \:	jaane\-anjaane chehare pe tere
+	kisakaa salaam likhaa hai
+ra \:	teraa mahabuub banegaa
+	haay ko_ii qismat vaalaa
+ki \:	teraa jalavaa taubaa \threedots
+%
+#endindian
+\endsong
+

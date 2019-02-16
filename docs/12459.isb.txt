@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ik muNDaa merii umr daa haay}%
+\film{Karan Arjun}%
+\year{1994}%
+\starring{Rakhi, Shahrukh Khan, Kajol, Salman Khan, Mamata Kulkarni}%
+\singer{Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11647 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( ik muNDaa merii umr daa haay merii umr daa
+jii dekho dilo.n kii ye baate.n nahii.n jaanataa
+zaalamaa.N haay dekho dilo.n kii ye baate.n nahii.n jaanataa ) \-2
+
+( khanake chuu.Dii merii tujhe bulaane ko
+sajatii huu.N mai.n tujhe hii bas dikhaane ko ) \-2
+( kar de na paagal tujhe ) \-2 haay paagal tujhe
+ruup meraa phir mere kis kaam kaa
+zaalamaa.N haay ruup meraa phir mere kis kaam kaa
+
+bol mujhase tuu aa.Nkhe.n kyo.n churaataa hai
+apano.n se bhii kyaa ko_ii sharamaataa hai
+a.Nkhiyo.n me.n paale a.Nkhiyaa.N ve paale a.Nkhiyaa.N
+dil me.n aane kaa dikhaa duu.Ngii mai.n raastaa
+zaalamaa.N haay dil me.n aane kaa dikhaa duu.Ngii mai.n raastaa
+
+mere jaisii tuu Dhuu.NDhe nahii.n paa_egaa
+ruuTh jaa_uu.N jo mai.n tuu pachhataa_egaa
+nazar mai.n na aa_uu.Ngii tujhe haay aa_uu.Ngii tujhe
+yaahii phiregaa tuu yuu.Nhii Kaaq chhaanataa
+zaalamaa.N haay yaahii phiregaa tuu yuu.Nhii Kaaq chhaanataa
+ik muNDaa merii umr \threedots
+%
+#endindian
+\endsong
+

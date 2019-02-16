@@ -1,0 +1,27 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kah do is raat se ke ruk jaaye}%
+\film{The Loves Of Runa Laila (Non-Film)}%
+\year{1987}%
+\starring{}%
+\singer{Runa Laila}%
+\music{O P Nayyar}%
+\lyrics{Noor Dewasi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+kah do is raat se ke ruk jaaye dard\-e\-dil minnato.n se soyaa hai
+ye wohii dard hai jise lekar lailaa ta.Dapii thii majanuu royaa hai
+
+mai.n bhii is dard kii pujaaran huu.N ye na milataa to kab kii mar jaatii
+isake ek ek hasiin motii ko raat din palako.n me.n piroyaa hai
+
+ye wohii dard hai jise Gaalib jazb karate the apanii Gazalo.n me.n
+miir ne jabase isako apanaayaa daaman\-e\-ziist ko bhigoyaa hai
+
+#endindian
+\endsong

@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{o soNiye ... kitanaa pyaaraa vaadaa hai in matavaalii}%
+\film{Caaravaan}%
+\year{1971}%
+\starring{Jeetendra, Asha Parekh, Aruna Irani}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10754 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	o soNiye maar suTiyaa
+	( kitanaa pyaaraa vaadaa ) \-2 hai in matavaalii aa.Nkho.n kaa
+	is mastii me.n suujhe naa kyaa kar Daaluu.N haal mohe sa.mbhaal
+	o saathiyaa o beliyaa
+
+la \:	kitanaa pyaaraa vaadaa \threedots
+
+	ho ujaalaa yaa a.Ndheraa kahii.n naa chhuuTe haath teraa
+	ko_ii meraa naa tere bin piyaa nibhaanaa saath meraa
+ra \:	are koraa\-koraa goraa\-goraa ye a.ng toraa
+	haay paagal mohe banaa diyaa
+	kitanaa pyaaraa vaadaa \threedots
+
+	baraso.n maine man jalaayaa milii palako.n kii tab ye chhaayaa
+	kaa.NTe mere tan me.n TuuTe gale se tuune jab lagaayaa
+la \:	o sai.nyaa pyaare chalataa jaa re bai.nyaa Daare
+	haay garavaa tohe lagaa liyaa
+	kitanaa pyaaraa vaadaa \threedots
+
+	roz uThaa ke ye nayanavaa chhu_aa karuu.Ngii toraa manavaa
+	jaise pahalii baar chaahaa sadaa chaahuu.Ngii mai.n sajanavaa
+ra \:	haay tere nainaa mere nainaa phir kyaa kahanaa
+	haay kyaa\-kyaa na maine paa liyaa
+	kitanaa pyaaraa vaadaa \threedots
+
+la \:	o saathiyaa o beliyaa
+%
+#endindian
+\endsong
+

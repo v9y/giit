@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ek kadam teraa ek kadam meraa}%
+\film{Naajaayaz}%
+\year{1995}%
+\starring{Naseeruddin, Juhi, Ajay Devgan, Deepak Tijori, Reema Lagu, Ashish Vidyarthi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	ek kadam teraa ek kadam meraa
+	sa.ng ham chale.n ho safar puuraa
+a \:	ek kadam teraa ek kadam meraa
+	sa.ng ham chale.n ho safar puuraa
+ku \:	ek kadam teraa ek kadam meraa
+a \:	sa.ng ham chale.n ho safar puuraa
+
+ku \:	( raaste kii mushkil se ko_ii kyuu.n ghabaraa_egaa
+	Gam hai kise jo raat hai kaalii kal suuraj aa_egaa
+a \:	hamako isii raste me.n milegii Kushiyo.n kii baaraat
+	sone jaisaa din nikalegaa chaa.Ndii jaisii raat ) \-2
+	ek diiyaa teraa ek diiyaa meraa
+	palako.n pe rakho ho safar puuraa
+ku \:	ek kadam teraa \threedots
+
+	( kadamo.n se kadamo.n kaa milanaa kismat hotaa hai
+	dil se dil mil jaa_e vahaa.n ik tiirath hotaa hai
+a \:	apane dil me.n pyaar kaa ek anamol khazaanaa hai
+	ek duuje kii dha.Dakan banakar saath nibhaanaa hai ) \-2
+ku \:	ek dil teraa ek dil meraa
+	dono.n mile ho safar puuraa
+a \:	ek kadam teraa \threedots
+%
+#endindian
+\endsong
+

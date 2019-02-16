@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{laa kaagaz kalam mai.n likh duu.N sanam}%
+\film{Suhaag}%
+\year{1994}%
+\starring{Akshay Kumar, Karisma, Ajay Devgan, Naghma, Aruna Irani, Tiku}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laa kaagaz kalam mai.n likh duu.N sanam
+le ke rab kii kasam tere naam zi.ndagii
+dil meraa teraa nishaanaa banaa
+kyaa hasii.n javaa.n fasaanaa banaa
+laa kaagaz kalam \threedots
+
+aa.Nkho.n me.n basii hai merii chaa.Ndanii
+tere vaaste hii saathii mai.n banii
+yaade.n terii jaatii nahii.n
+nii.nd mujhe aatii nahii.n
+ek duusare se hameshaa kare.nge vafaa
+laa kaagaz kalam \threedots
+
+merii zi.ndagii hai dilabar yaar kii
+to.De.nge kabhii naa rasme.n pyaar kii
+tere li_e hai merii jaa.n
+de.nge tujhe dono.n jahaa.N
+raah\-e\-mohabbat se kabhii ho.nge naa judaa
+laa kaagaz kalam \threedots
+%
+#endindian
+\endsong
+

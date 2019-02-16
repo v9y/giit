@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aane se usake aae bahaar, jaane se usake jaae bahaar}%
+\film{Jeene Ki Raah}%
+\year{1969}%
+\starring{Jeetendra, Tanuja}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Manoj Chauhan  (mchauhan@boi.hp.com)
+%          Vandana Sharma (uusharma@uxa.ecn.bgu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aane se usake aaye bahaar, jaane se usake jaaye bahaar
+ba.Dii mastaanii hai merii mahabuubaa
+merii zindagaanii hai merii mahabuubaa\threedots
+
+gunagunaae aise jaise bajate ho.n ghu.ngharuu kahii.n pe
+aake parvato.n se, jaise girataa ho jharanaa zamii.n pe
+jharano kii mauj hai vo, maujo.n kI ravaanii hai merii mahabuubaa
+
+is ghaTaa ko mai.n to usakii aa.Nkho.n kaa kaajal kahuu.Ngaa
+is havaa ko mai.n to usakaa laharaataa aa.Nchal kahuu.Ngaa
+huuro.n kii malikaa hai pariyo.n kii raanii hai merii mahabuubaa
+
+biit jaate hai.n din, kaT jaatii hai aa.Nkho.n me.n raate.n
+ham naa jaane kyaa kyaa karate rahate hai.n aapas me.n baate.n
+mai.n tho.Daa diivaanaa, tho.Dii sii diivaanii hai merii mahabuubaa
+
+ban sa.nvar ke nikale aae saavan kaa jab jab mahiinaa
+har koii ye samajhe hogii vo koii cha.nchal hasiinaa
+puuchho to kaun hai vo, rut ye suhaanii hai, merii mahabuubaa
+
+%
+#endindian
+\endsong
+%

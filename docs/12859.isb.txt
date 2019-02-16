@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mastii bharii raat hai ... naa naa naa naa naare}%
+\film{Mrityudaataa}%
+\year{1997}%
+\starring{Amitabh, Dimple, Arbaz, Madhuri, Karisma, Paresh, Ashish Vidyarthi}%
+\singer{Abhijit, Daler Mehadi}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mastii bharii raat hai ho sonii ku.Diyo.n kaa bhii saath hai
+ho jiine kaa le lo mazaa ho Darane kii kyaa baat hai
+naa naa naa naa naa naare naare
+ho saaDDe naal rahoge to aish karoge
+zi.ndagii ke saare maje ##cash## karoge
+ho saaDDe naal rahoge \threedots
+
+tuu jaane yaa jaane Kudaa ham mil ke naa ho.nge judaa
+tuu merii mai.n teraa sadaa honaa naa hamase khafaa
+naa naa naa naa \threedots
+
+ho mai.n Daradii rab rab kar dii
+ke logaa.n kahanaa chhu_ii mu_ii chhu_ii mu_ii
+ho saaDDe naal rahoge \threedots
+
+sach bolanaa hai manaa lab kholanaa hai manaa
+do mu.nh vaalii chhurii yah duniyaa hai sabase burii
+naa naa naa naa \threedots
+%
+#endindian
+\endsong
+

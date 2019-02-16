@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{munnaa ba.Daa pyaaraa, ammii kaa dulaaraa}% 
+\film{Musaafir}%
+\year{1957}%
+\starring{David, Kishore, Dilip Kumar, Daisy Irani, Usha Kiran, Nirupa Roy, Suchitra Sen}%
+\singer{Kishore}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: pradeep@watson.ibm.com (Pradeep Dubey)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+munnaa ba.Daa pyaaraa, ammii kA dulaaraa 
+koI kahe chaa.Nd, koI aa.Nkh kA taaraa 
+ha.Nse to bhalaa lage, roye to bhalaa lage 
+ammii ko usake binaa kuchh bhI achchhaa nA lage 
+jiyo mere laal, jiyo mere laal 
+tumako lage merI umar jiyo mere laal 
+munnaa ba.Daa pyaaraa \threedots
+
+ik din vo maa.N se bolaa kyuu.N phuu.Nkatii hai chuulhaa 
+kyuu.N nA roTiyo.n kA pe.D ham lagaale.n 
+aam to.De.n roTii to.De.n roTii\-aam khaale.n 
+kaahe kare roz\-roz tU ye jhamelaa 
+ammii ko aaii ha.nsii, ha.Nsake vo kahane lagI 
+laal mehanat ke binaa roTii kis ghar me.n pakii 
+jiyo mere laal, jiyo mere laal 
+o jiyo jiyo jiyo jiyo jiyo mere laal 
+munnaa ba.Daa pyaaraa \threedots
+
+ek din vo chhupaa munnaa, Dhuu.NDhe nA milaa munnaa 
+bistar ke niiche, kursiyo.n ke pIchhe 
+dekhaa konaa konaa, sab the saa.Ns khI.nche 
+kahaa.N gayaa kaise gayaa sab the pareshaa.n 
+saaraa jag DhU.NDh saje, kahii.n munnaa nA milaa 
+milaa to pyaar bharii maa.N kii aa.Nkho.n me.n milaa 
+jiyo mere laal, jiyo mere laal 
+o tumako lage merI umar jiyo mere laal 
+munnaa ba.Daa pyaaraa \threedots
+
+jab saa.Njh muskuraaye, pash{}chim me.n ra.ng u.Daaye 
+munne ko leke ammii daravaaze pe aa jaaye 
+aate ho.nge baabaa munne kii miThaaii 
+laate ho.nge baabaa \threedots
+%
+#endindian
+\endsong
+%

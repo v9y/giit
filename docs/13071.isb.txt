@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{aa chalii re chalii re gorii paniyaa bharan ko}%
+\film{Mr. X in Bombay}%
+\year{1964}%
+\starring{Kishore, Kumkum}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10952 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	aa aa aa aa \-2
+	chalii re chalii re gorii paniyaa bharan ko \-2
+	paniyaa bharan ko \-2
+ki \:	paniyaa bharan ko ke milane sajan ko \-2
+la \:	chalii re chalii re \threedots
+
+	sai.nyaa se milane jo jaatii gujariyaa \-2
+	saath bhalaa kaahe laatii gagariyaa
+ki \:	ho ho ho o o o
+	saath agar tuu na laatii gagariyaa
+	to shaq karatii tujhape saarii nagariyaa
+	raadhaa ga_ii thii kahaa.N
+	raadhaa ga_ii thii yuu.N hii milane kisan ko
+la \:	chalii re chalii re \threedots
+
+ki \:	jaane de gorii chho.D bahaanaa
+	ab to mushkil hai baat chhupaanaa
+	dekhaa hai tere mukha.De pe priit kaa maine ra.ng suhaanaa
+la \:	tuu na maanegaa maine maanaa
+	baat me.n jhuume.n aaj zamaanaa
+	bole dekhii hai priit maine baavaraa hai tuu hai diivaanaa
+ki \:	haa.N kyaa kisane kabhii dekhaa hai pavan ko \-2
+	chalii re chalii re \threedots
+
+la \:	maane agar tuu naa merii batiyo.n se \-2
+	puuchh le chaahe to merii sakhiyo.n se
+ki \:	ho ho ho ho o o
+	kaam chalegaa naa in batiyo.n se
+	ke saaf hai zaahir terii a.nkhiyo.n se
+	kisii ne churaayaa kyaa
+	kisii ne churaayaa hu_aa hai tere man ko
+la \:	chalii re chalii re \threedots
+%
+#endindian
+\endsong
+

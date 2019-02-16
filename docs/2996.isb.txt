@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye kaisii khushii hai ye kaisaa nashaa hai}%
+\film{Shagoofa}%
+\year{1953}%
+\starring{Bina Rai, Premnath}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani
+% Transliterator: Anil Hingorani
+% Date: December 19, 2000
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+jawaab aataa hai jab dilbar kaa
+to dil kho hii jaataa hai
+mohabbat wo nashaa hai
+bepiiye jo ho hii jaataa hai
+
+(ye kaisii khushii hai ye kaisaa nashaa hai
+mujhe kyaa huaa hai mujhe kyaa huaa hai) /-2
+
+kadam Dolate.n hai.n nazar jhuumatii hai /-2
+tasavur me.n jaise zamii.n ghuumatii hai /-2
+khayaalo.n me.n koii chalaa aa rahaa hai
+mujhe kyaa huaa hai  /threedots
+
+aa aa aa aa ~~~~ laa laa laa laa~~~~
+(khabar dilarubaa tere aane kii aayii
+mohabbat kii duniya me.n chhalkii surahii) /-2
+meraa dil hawaa me.n udaa jaa rahaa hai
+mujhe kyaa huaa hai  /threedots
+
+%
+#endindian
+\endsong
+%

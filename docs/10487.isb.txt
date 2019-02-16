@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{tujhe laage naa najariyaa bijuuriyaa}%
+\film{Bijuriyaa (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Ravi Pawar}%
+\lyrics{Ajay Zingran}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhe laage naa najariyaa kyuu.n na o.Dhe tuu chunariyaa
+o tujhe laage naa najariyaa o.Dh le chunariyaa
+tirachhii nigaahe.n mere dil pe giraa_e.n re bijuuriyaa bijuuriyaa
+bijuuriyaa bijuuriyaa
+
+haay teraa sharamaanaa taubaa teraa itaraanaa
+jo bhii dekhe ho jaa_e vo diivaanaa teraa
+sone jaisaa tan teraa uf bholaapan teraa
+mujhako bhii kar gayaa diivaanaa teraa
+o sun baa.nkii re gujariyaa yahii bole hai Dagariyaa
+sun baa.nkii re gujariyaa bole ye Dagariyaa
+lachake kamariyaa to chhalake gagariyaa
+ki luTii re bajariyaa bijuuriyaa bijuuriyaa
+
+nain matavaale ye baal ghu.ngharaale
+ye bhole bhaale dil pe chalaa_e.n chhuriyaa.n
+mahakii havaa_e.n bhii yahii gunagunaa_e.n
+ki dil se dil milaa le aa miTaa_e.n duuriyaa.n
+o sun baa.nkii re gujariyaa o mai.n huu.n teraa hii saa.nvariyaa
+o sun baa.nkii re gujariyaa teraa ye saa.nvariyaa
+tujhape hii marataa hai naam tere karataa hai
+saarii umariyaa bijuuriyaa bijuuriyaa
+
+khvaabo.n kii tuu raanii hai giito.n kii javaanii hai
+tere binaa ab kahii.n laage naa jiyaa
+itanii sii kahaanii hai tuu hii zi.ndagaanii hai
+goriyaa ye tuune kaisaa jaaduu hai kiyaa
+o sun baa.nkii re gujariyaa o haa.n merii bholii sii baa.nvariyaa
+o sun baa.nkii re gujariyaa bholii sii baa.nvariyaa
+terii a.nga.Daa_ii mere dil ko hai bhaa_ii
+chhaa_ii banake badariyaa bijuuriyaa bijuuriyaa
+o tujhe laage naa najariyaa \threedots
+%
+#endindian
+\endsong
+

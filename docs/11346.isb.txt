@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{khanake ka.Nganaa bi.ndiyaa ha.Nse}%
+\film{Dr. Vidya}%
+\year{1962}%
+\starring{Manoj Kumar, Vyjayantimala, Helen, Sundar, Leela Chitnis, Madanpuri}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10430 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+khanake ka.Nganaa bi.ndiyaa ha.Nse
+aa_e.Nge sajanaa hamare a.Nganaa
+khanake ka.Nganaa \threedots
+
+aa_ii mai.n saj ke unake li_e
+jhuume ye jhumakaa jinake li_e
+baaje re bichhu_aa kahanaa maane naa
+khanake ka.Nganaa \threedots
+
+sai.nyaa ne ulaTaa ghu.NghaTaa meraa
+maine bhii ha.Ns ke mukha.Daa pheraa
+jaagatii a.Nkhiyaa.N dekhe.n ye sapanaa
+khanake ka.Nganaa \threedots
+
+thaame.nge jab vo bai.nyaa morii
+Daaruu.Ngii a.Nkhiyaa.N kajaraa bharii
+kahuu.Ngii balamaa hamako chhu_o naa
+khanake ka.Nganaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{kabhii kabhii mere dil me.n, khayaal aataa hai.n ##from the movie##}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Shashi Kapoor, Amitabh Bachchan, Rakhi, Neetu Singh, Rishi Kapoor}%
+\singer{Mukesh / Mukesh, Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Rajat Bhatnagar (rbhatnag@uokmax.ecn.uoknor.edu)
+%          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+%          posted by nasir (noor@muug.mb.ca)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+ke jaise tujhako banaayaa gayaa hai mere liye 
+tuu abase pahale sitaaro.n me.n bas rahii thii kahii.n 
+tujhe zamii.n pe bulaayaa gayaa hai mere liye 
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+ke ye badan ye nigaahe.n merii amaanat hai.n
+ye gesuo.n kii ghanii chhaa.Nv hai.n merii Kaatir
+ye ho.nTh aur ye baahe.n merii amaanat hai.n
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+ke jaise tuu mujhe chaahegii umra bhar yuu.Nhii
+uThegii merii taraf pyaar kii nazar yuu.Nhii
+mai.n jaanataa huu.N ke tuu Gair hai magar yuu.Nhii
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+ke jaise bajatii hai.n shahanaaiyaa.n sii raaho.n me.n
+suhaag raat hai ghuu.NghaT uThaa rahaa huu.N mai.n  (2)
+simaT rahii hai tuu sharamaa ke merii baaho.n me.n
+kabhii kabhii mere dil me.n, Kayaal aataa hai
+%
+#endindian
+\endsong
+%

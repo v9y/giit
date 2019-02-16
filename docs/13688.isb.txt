@@ -1,0 +1,29 @@
+
+%
+\startsong
+\stitle{##verse## jab ham chale.n to saayaa bhii apanaa na saath de}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Waheeda, Mala Sinha, Rahman}%
+\singer{Guru Dutt}%
+\music{S D Burman}%
+\lyrics{Jalil Manikpuri}%
+%
+% Contributor: BOL ANAMOL #12207 [V S Rawat]
+%
+\printtitle
+#indian
+%
+jab ham chale.n to saayaa bhii
+apanaa na saath de
+jab tum chalo
+zamiin chale aasamaa.N chale
+
+jab ham ruke.n to saath ruke
+shaam\-e\-beqasii
+jab tum ruko bahaar ruke
+chaa.Ndanii ruke
+%
+#endindian
+\endsong
+

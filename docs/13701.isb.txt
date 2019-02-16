@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{apanii adaa hai merii apanaa andaaz ... kahate hai.n log mujhe aashiq mijaaz}%
+\film{Qaatil}%
+\year{1988}%
+\starring{Adiya Pancholi, Sangita Bijlani, Shakti Kapoor, Kiran Kumar, Raza Murad}%
+\singer{Alka Yagnik, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+apanii adaa hai merii apanaa andaaz
+kahate hai.n log mujhe aashiq mijaaz
+charche hai.n mere hasiino.n me.n aaj
+kahate hai.n log mujhe \threedots
+
+mai.n husn kii vaadiyo.n kaa parindaa
+mere hii dam se mujhabbat hai zi.ndaa
+mere hii sir pe hai ulfat kaa taaj
+kahate hai.n log mujhe \threedots
+
+galiyo.n kaa bha.nvaraa tuu saudaa_ii hai
+aashiq nahii.n tuu harajaa_ii hai
+mai.n jaanatii huu.N teraa har raaz
+kahate hai.n log mujhe \threedots
+
+maanaa ki har dil kaa afasaanaa huu.N
+lekin mai.n teraa hii diivaanaa huu.N
+aise na jaa_o mujhase ho ke naaraaz
+kahate hai.n log mujhe \threedots
+%
+#endindian
+\endsong
+

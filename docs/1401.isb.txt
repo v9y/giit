@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{paa.Nv chhuu lene do, phuulo.n ko inaayat hogii, inaayat hogii}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep Kumar, Bina Rai}%
+\singer{Rafi, Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+paa.Nv chhuu lene do phuulo.n ko inaayat hogii, inaayat hogii
+varanaa hamako nahii.n, inako bhii shikaayat hogii
+shikaayat hogii
+
+aap jo phuul bichhaae.n unhe.n ham Thukaraae.n  \- 2
+hamako Dar hai
+hamako Dar hai ke ye tauhiin\-e\-muhabbat hogii, muhabbat hogii
+paa.Nv chhuu lene do \threedots
+
+dil kii bechain uma.ngo.n pe karam faramaao  \- 2
+itanaa ruk ruk
+itanaa ruk ruk ke chaloge to qayaamat hogii, qayaamat hogii
+paa.Nv chhuu lene do \threedots
+
+sharm roke hai idhar, shauk udhar khii.nche hai \- 2
+kyaa khabar thii
+kyaa khabar thii tabhii is dil kii ye haalat hogii
+ye haalat hogii
+paa.Nv chhuu lene do \threedots
+
+sharm gairo.n se huaa karatii hai apano.n se nahii.n  \- 2
+sharm ham se
+sharm ham se bhii karoge to musIbat hogii, musIbat hogii
+paa.Nv chhuu lene do \threedots
+%
+#endindian
+\endsong
+%

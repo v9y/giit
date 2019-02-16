@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{nii baliye rut hai bahaar kii ... kuchh mat puuchho kaise biitii.n}%
+\film{Kanhaiyaa}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10869 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ko \:	nii baliye rut hai bahaar kii
+	sun chanave rut hai bahaar kii
+la \:	kuchh mat puuchho kaise biitii.n gha.Diyaa.N i.ntazaar kii
+mu \:	nii baliye rut hai bahaar kii
+la \:	sun chanave rut hai bahaar kii
+
+	aaKir sun lii manamohan ne mere man kii bolii o
+mu \:	ab jaakar hamako pahachaanii.n unakii nazare.n bholii \-2
+la \:	sakhii gha.Dii aa ga_ii mere si.ngaar kii
+ko \:	sohal si.ngaar kii
+mu \:	nii baliye rut hai bahaar kii
+la \:	sun chanave rut hai bahaar kii
+	kuchh mat puuchho \threedots
+
+	dil ne kahaa teraa sapanaa jhuuThaa maine kahaa sach hogaa
+mu \:	ham pahale din jaan jaan ga_e the kaise kyaa kab hogaa
+la \:	sun lo ye saragam dil ke sitaar kii
+ko \:	dil ke sitaar kii
+mu \:	nii baliye rut hai bahaar kii
+la \:	sun chanave rut hai bahaar kii
+	kuchh mat puuchho \threedots
+
+mu \:	raat\-raat bhar sochaa tumako kaise paas bulaa_uu.N
+la \:	dvaar kha.De tum laaj lage ab saamane kaise aa_uu.N
+mu \:	kabhii ikaraar kii kabhii inkaar kii
+ko \:	kabhii inkaar kii
+mu \:	nii baliye rut hai bahaar kii
+la \:	sun chanave rut hai bahaar kii
+	kuchh mat puuchho \threedots
+%
+#endindian
+\endsong
+
+

@@ -1,0 +1,30 @@
+
+%
+\startsong
+\stitle{dil kii dha.Dakan banaa liyaa unako}%
+\film{Mumtaz Mahal/ Mumtaz}%
+\year{1944}%
+\starring{Khursheed, Chandramohan, Kajjan, Lala Yakub, Brujmala, Sulochana Chaterjee}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Wali Sahab}%
+%
+% Contributor: BOL ANAMOL #12133 [V S Rawat]
+%
+\printtitle
+#indian
+%
+dil kii dha.Dakan banaa liyaa unako \-2
+putaliyo.n me.n chhupaa liyaa unako \-2
+
+jinake chuume.n qadam bahaaro.n ne \-2
+muskaraa kar lubhaa liyaa unako \-2
+dil kii dha.Dakan banaa liyaa unako
+
+Tholiyaa.N Dhuu.NDhatii hai.n taaro.n kii \-2
+maine jab se churaa liyaa unako \-2
+dil kii dha.Dakan banaa liyaa unako
+%
+#endindian
+\endsong
+

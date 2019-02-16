@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{mil ke bhii ham mil na sake}%
+\film{Sunehri Nagin}%
+\year{1963}%
+\starring{Mahipal, Helen, Ulhas}%
+\singer{Talat, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10932 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ta \:	mil ke bhii ham mil na sake \-2
+	kyaa milaa phir pyaar me.n \-2
+la \:	ham to sanam phuul hai.n vo \-2
+	luT ga_e jo bahaar me.n \-2
+
+ta \:	hamane ik diip jalaayaa aa.Ndhiyaa.N chalane lagii.n
+	bujh gayaa dil dil me.n laakho.n ( hasarate.n jalane lagii.n ) \-2
+la \:	ham to sanam phuul \threedots
+
+la \:	dil pe khaa ke choT phir Kaamosh rahanaa pyaar hai
+	gar kiyaa shiqavaa to samajho ( do dilo.n kii haar hai ) \-2
+ta \:	mil ke bhii ham \threedots
+%
+#endindian
+\endsong
+

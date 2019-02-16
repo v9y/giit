@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{hamaare sivaa tumhaare aur kitane diivaane hai.n}%
+\film{Aparaadh}%
+\year{1972}%
+\starring{Firoz Khan, Mumtaz, Prem Chopra}%
+\singer{Kishor, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11189 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	hamaare sivaa tumhaare aur kitane diivaane hai.n
+la \:	qasam se kisii ko nahii.n mai.n jaanatii
+ki \:	achchhaa
+la \:	aur kisii ko nahii.n pahachaanatii
+ki \:	chho.Do\-chho.Do ye to bahaane hai.n
+	hamaare sivaa tumhaare \threedots
+
+	Kuubasuuratii aur vafaa
+	dekhii.n na dono.n ek jagah haa.N dekhii.n na dono.n ek jagah
+la \:	hote hai.n mard ba.De shaqqii
+	baat hai ye bilkul pakkii
+ki \:	bholii sii aatii ho nazar haa.N haa.N bholii sii aatii ho nazar
+	ho cha.nchal chaalaak magar
+la \:	aurat kaa dil jaane nahii.n
+	aap hame.n pahachaane nahii.n
+ki \:	chho.Do\-chho.Do ham bhii sayaane hai.n
+	hamaare sivaa tumhaare \threedots
+
+	tum ho pareshaa.N kis Gam se
+	raaz\-e\-dil kah do ham se haa.N raaz\-e\-dil kah do ham se
+la \:	apanii kaho chho.Do merii
+	karate ho kyo.n heraa\-pherii
+ki \:	yaaro.n pe tohamat lagaate nahii.n
+	sabako nishaanaa banaate nahii.n
+la \:	Kud harajaa_ii bhau.Nre ho tum
+	ek jagah kab Thahare ho tum
+ki \:	chho.Do\-chho.Do ham to paravaane hai.n
+	hamaare sivaa tumhaare \threedots
+%
+#endindian
+\endsong
+

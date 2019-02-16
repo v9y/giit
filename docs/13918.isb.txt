@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{pi.nD nuu.N sharaabii kittaa ... tainuu.N lagayaa ai solavaa.n saal}%
+\film{Solvaa Saal (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Sukhdev}%
+\music{Sukhdev}%
+\lyrics{Sukhdev}%
+%
+% Contributor: V S Rawat, 10/12/2002
+% 
+\printtitle
+#indian
+%
+pi.nD nuu.N sharaabii kittaa dilaa.N nuu.N kharaabii kittaa
+bin piite nashiyaa.N ch paa ga_ii
+tainuu.N lagayaa ai solavaa.n saal
+mu.nDe tere pichchhe lag pa_e
+
+jeDe vii e dekhiyaa.N akkhaa.N one sekiyaa.N
+saare paase ag tuu.N laa ga_ii
+tainuu.N lagayaa ai \threedots
+
+lak de hulaare tere akkhaa.N de ishaare tere
+bin bole saanuu tuu.N sunaa ga_ii
+tainuu.N lagayaa ai \threedots
+
+hoy ishq dii bolii haay pyaar dii golii haay
+jinuu.N vii ai dekhiyaa khilaa ga_ii
+tainuu.N lagayaa ai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{mere dost qissaa ye kyaa ho gayaa}%
+\film{Dostana}%
+\year{1980}%
+\starring{Amitabh, Shatrughan Sinha, Zeenat}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 16 May 2005
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+mere dost qissaa ye kyaa ho gayaa
+sunaa hai ki tuu bewafaa ho gayaa
+
+duaa bad{}duaa de ye mumakin nahii.n
+mujhe tuu daGaa de ye mumakin nahii.n
+Kudaa jaane kyaa maajaraa ho gayaa
+
+agar maa.Ng le tuu o jaan\-e\-jigar
+tuujhe jaan de duu.N mai.n ye jaanakar
+ki haq dostii kaa adaa ho gayaa
+
+qayaamat se kam yaar ye Gam nahii.n
+ki tuu aur mai.n rah gae ham nahii.n
+meraa yaar mujhase judaa ho gayaa
+
+%
+#endindian
+\endsong

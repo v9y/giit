@@ -1,0 +1,87 @@
+%
+\startsong
+\stitle{laagii naahii.n chhuuTe raamaa chaahe jiyaa jaaye}%
+\film{Musaafir}%
+\year{1957}%
+\starring{David, Kishore, Dilip Kumar, Daisy Irani}%
+\singer{Dilip Kumar, Lata}%
+\music{Salil Chowdhury}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #12080 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+di :	laagii naahii.n chhuuTe
+	a.n
+	chaahe jiyaa jaaye
+
+la :	aa
+	chaahe jiyaa jaaye
+
+di :	o man apanii masatii kaa jogii \-2
+	kaun ise samajhaaye
+la :	aa
+	kaun ise samajhaaye
+	raamaa	
+di :	chaahe.n jiyaa jaaye
+
+la :	aa
+	laagii naahii.n chhuuTe
+	raamaa
+	chaahe.n jiyaa jaaye
+
+di :	rimajhim\-rimajhim bu.ndiyaa.N barase.n
+	chhi.Dii.n pyaar kii baate.n
+la :	miiThii\-miiThii aaG me.n khul ga_ii.n
+	kitanii hii barasaate.n
+	rimajhim\-rimajhim bu.ndiyaa.N barase.n
+	aa
+
+	jaane kise dil diiwaanaa
+	baiThaa rog lagaaye
+	aa
+	chaahe.n jiyaa jaaye
+	
+di :	laagii naahii.n chhuuTe
+la :	a.n
+	laagii naahii.n chhuuTe
+	raamaa
+di :	chaahe.n jiyaa jaaye
+
+la :	laagii naahii.n chhuuTe
+	raamaa
+	chaahe.n jiyaa jaaye
+
+	man apanii mastii kaa jogii
+	ho man apanii mastii kaa jogii
+	kaun ise samajhaaye
+	chaahe.n jiyaa jaaye
+
+di :	taaro.n me.n musakaan hai terii
+	chaa.Nd terii parachhaa_ii.n
+	utane giit hai.n jitanii raate.n
+	hamane saath bitaa_ii.n
+	aa
+la :	aa
+	kaise boluu.N re saa.Nwariyaa
+	karuu.n mai.n kaun upaay
+	aa
+do :	chaahe.n jiyaa jaaye
+
+la :	rimajhim\-rimajhim bu.ndiyaa.N barase.n
+	chhi.Dii.n pyaar kii baate.n
+	miiThii\-miiThii aaG me.n khul ga_ii.n
+	kitanii hii barasaate.n
+	rimajhim\-rimajhim bu.ndiyaa.N barase.n
+
+	jaane kise dil diiwaanaa
+	baiThaa rog lagaaye
+	aa
+	chaahe.n jiyaa jaaye
+%
+#endindian
+\endsong

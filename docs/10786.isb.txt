@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chorii chorii chupake se aa_egaa vo}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Alka Yagnik}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chorii chorii chupake se aa_egaa vo
+aake mujhe le jaa_egaa haa.N
+yahii jiivan hai apanaa yahii to vo sapanaa
+maine dekhaa tuune dekhaa ham sabane dekhaa
+ye sapanaa naa TuuTe naa ruuThe meraa raa.njhaNaa
+chorii chorii chupake \threedots
+
+a.ng se a.ng lag jaa_e to
+pyaar kaa ra.ng lag jaa_e to
+ra.ng phir naa ye chhuuTe naa ruuThe meraa raa.njhaNaa
+chorii chorii chupake \threedots
+
+kitane janmo.n kaa ye mel hai
+shaadii kismat kaa ik khel hai
+aisii kismat naa phuuTe naa ruuThe meraa raa.njhaNaa
+chorii chorii chupake \threedots
+%
+#endindian
+\endsong
+

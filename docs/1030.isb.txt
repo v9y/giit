@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{kyaa hamane bigaa.Daa hai}%
+\film{Bhanwara}%
+\year{1944}%
+\starring{Saigal}%
+\singer{Saigal}%
+\lyrics{Kedar Sharma}%
+\music{Khemchand Prakash}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+pu. : kyaa hamane 
+    kyaa hamane bigaa.Daa hai kyo.n hamako sataate ho (2)
+strii : ham khele.nge jis dilase (2)
+    ham khele.nge jis dilase us dil ko chhupaate ho (2)
+    us dil ko chhupaate ho 
+pu. : kyaa hamane bigaa.Daa hai kyo.n hamako sataate ho (2)
+
+pu. : chhupate bhii nahii.n zaalim (2)
+    chhupate bhii nahii.n zaalim, na saamane aate ho (2)
+    naa saamane aate ho 
+strii : ham aate hai.n to qaatil (2)
+    ham aate hai.n to qaatil tum aa.nkh churaate ho (2)
+    tum aa.nkh churaate ho
+pu. : kyaa hamane bigaa.Daa hai kyo.n hamako sataate ho
+
+pu. : ba.nde hai.n vafaa ke hame harjaa_ii se kyaa kaam (2)
+    hame harjaa_ii se kyaa kaam (2)
+strii : ham khuub samajhate hai.n (2)
+    ham khuub samajhate hai.n tum hamako banaate ho (2)
+    tum hamako banaate ho (2)
+
+do. : kyaa hamane bigaa.Daa hai kyo.n hamako sataate ho (2)
+
+%
+#endindian
+\endsong
+%

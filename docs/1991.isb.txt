@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{zi.ndagii kitanii khuubasuurat hai, aaiye aapakii zaruurat hai}%
+\film{Bin Baadal Barsaat}%
+\year{}%
+\starring{Asha Parekh, Biswajeet}%
+\singer{Hemant / Lata}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+zi.ndagI kitanI khUbasUrat hai, Aiye ApakI zarUrat hai
+zi.ndagI kitanI \threedots
+
+ArazUo.n ke diye, Aj raushan kIjiye
+Ae hai.n milane ko ham, zi.ndagI ke parade liye (?)
+kyA hasI.n rAt kyA muhUrat hai, zi.ndagI kitanI \threedots
+
+yU.N na ab sharamAiye, yU.N na ab ghabarAiye
+phUl ke ghU.NghaT se ab, chA.NdanI barasAiye
+chA.NdanI rAt kyA zarUrat hai, zi.ndagI kitanI \threedots
+%
+#endindian
+\endsong
+%

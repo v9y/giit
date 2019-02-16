@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{nazar me.n tuu ... tuune dil meraa churaayaa hai}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Sapana Mukherji}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	nazar me.n tuu jigar me.n tuu jahaa.N dekhuu.N vahaa.N hai tuu \-2
+	tujhe apanaa banaayaa hai ( tuune dil meraa churaayaa hai ) \-2
+sa \:	nazar me.n tuu \threedots
+	tujhe hii dil me.n basaayaa hai ( tuune dil meraa churaayaa hai ) \-2
+
+	merii saa.Nso.n me.n tuu mere ho.nTho.n pe tuu
+	merii dha.Dakan tuu hai jaan\-e\-jaanaa.n
+ku \:	merii nii.ndo.n me.n tuu mere ho.nTho.n pe tuu
+	merii dha.Dakan tuu hai jaan\-e\-jaanaa.n
+sa \:	sharm kii ye jalatii shamaa bujhaa duu.N
+	shamaa kah rahii hai ki duurii miTaa duu.N
+ku \:	vafaa me.n tuu adaa me.n tuu zubaa.n pe tuu sadaa me.n tuu \-2
+	tujhe apanaa banaayaa hai \threedots
+
+	terii palako.n tale meraa vaqt Dhale
+	lag jaa gale ta.Dapaa naa
+sa \:	madahosh samaa.N do dil hai.n javaa.N
+	ab hosh kahaa.N jaane merii jaa.n
+ku \:	ye kaisaa asar ye kyaa bekhudii hai
+	chi.ngaarii ko_ii badan me.n dabii hai
+sa \:	yaado.n me.n tuu vaado.n me.n tuu raato.n me.n tuu baato.n me.n tuu \-2
+	tuu hii dil me.n samaayaa hai \threedots
+%
+#endindian
+\endsong
+

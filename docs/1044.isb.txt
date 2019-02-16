@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{laage na moraa jiyaa, sajanaa nahii.n aaye haay}%
+\film{Ghunghat}%
+\year{1960}%
+\starring{Bina Rai, Bharat Bhushan, Pradeep Kumar, Asha Parekh}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar 
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+laage na moraa jiyaa, sajanaa nahii.n aaye, haay
+laage na moraa jiyaa \threedots
+
+dekh liye piyA tere irAde, jhUTh nikale jA tere vAde
+ta.Dapat\-ta.Dapat yAd me.n terI, nain nIr bhar Ae, hAy
+laage na moraa jiyaa \threedots
+
+tUne merI sudh bisarAI, bedardI tohe lAj na AI
+bhUl gae kyA o harajAI, jAke des parAe, hAy
+laage na moraa jiyaa \threedots
+%
+#endindian
+\endsong
+%

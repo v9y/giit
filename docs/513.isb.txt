@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil ko hai tumase pyaar kyo.n, ye na bataa sakuu.Ngaa mai.n}%
+\film{non-Film}%
+\starring{}%
+\singer{Jagmohan}%
+\music{Kamal Dasgupta}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Ravi Rai (rrai@isc.cs.ndsu.nodak.edu)
+%          Urzung Khan  
+%
+\printtitle
+#indian
+%
+dil ko hai tumase pyaar kyo.n
+ye na bataa sakuu.Ngaa mai.n 
+
+ye na bataa sakuu.Ngaa mai.n 
+dil ko hai tumase pyaar kyo.n, pyaar kyo.n
+
+(pahale milan ki chhaa.Nv me.n
+tumase tumhaare gaa.Nv me.n ) \- 2
+aa.Nkhe.n huI.n thii chaar kyo.n
+ye na bataa sakuu.Ngaa mai.n 
+dil ko hai \threedots
+
+(tumako nazar me.n rakh liyaa, 
+dil me.n jigar me.n rakh liyaa ) \- 2
+khud mai.n huaa shikaar kyo.n
+ye na bataa sakuu.Ngaa mai.n 
+dil ko hai \threedots
+
+(ruup kii kuchh kamii nahii.n
+duniyaa me.n ik tumhii.n nahii.n ) \- 2
+par mai.n tumhaarii yaad me.n
+rahataa huu.N beqaraar kyo.n
+ye na bataa sakuu.Ngaa mai.n 
+dil ko hai \threedots
+%
+#endindian
+\endsong
+%

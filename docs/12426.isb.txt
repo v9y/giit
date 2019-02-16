@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye dil hai teraa diivaanaa tuu maan jaa jaan\-e\-jaanaa.n}%
+\film{Krodh/ Blast of Anger}%
+\year{2000}%
+\starring{Sunil Shetty, Rambha, Apurva Agnihotri, Sakshi Shivanand}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaan\-e\-jaanaa.n jaan\-e\-jaanaa.n jaan\-e\-jaanaa.n
+ye dil hai teraa diivaanaa tuu maan jaa jaan\-e\-jaanaa.n
+teraa nazare.n churaanaa mere hosh u.Daanaa haay usape teraa sharamaanaa
+tuu lagataa hai begaanaa tuu lagataa hai begaanaa 
+
+mujhe maar ga_ii terii pyaasii adaa
+maine kar dii tujhape jaan fidaa
+karanaa na mujhe tuu dil se judaa
+siine se lagaa ke rakhanaa sadaa
+mere jiine kaa tuu hai bahaanaa
+ab chho.D ke tuu na jaanaa
+teraa nazare.n churaanaa \threedots
+
+ko_ii tere sivaa meraa aur nahii.n
+merii jaan meraa tuu kar le yakii.n
+mere yaar mujhe inkaar nahii.n
+teraa dil hai jahaa.n meraa dil hai vahii.n
+dil pyaar kaa hai nazaraanaa
+mere yaar tuu lete jaanaa
+teraa nazare.n churaanaa \threedots
+%
+#endindian
+\endsong
+

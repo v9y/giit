@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tumhii.n ne merii zi.ndagii kharaab kii hai}%
+\film{Naseeb}%
+\year{1998}%
+\starring{Govinda, Mamta Kulkarni, Sudha Chandran, Saeed, Dinesh Hingoo}%
+\singer{}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhii.n ne merii zi.ndagii kharaab kii hai
+tumhaare li_e hii maine sharaab pii hai
+tumhii.n ne merii \threedots
+
+maine to tumase pyaar kiyaa chaahat pe yakii.n diladaar kiyaa
+mai.n paagal aashiq bechaaraa mujhe ha.Ns ha.Ns ke tumane maaraa
+ai kaash pataa pahale hotaa hokar barabaad na mai.n rotaa
+tumhii.n ne merii \threedots
+
+ko_ii naa puuchhe kyuu.n piitaa huu.N ab pii pii ke mai.n jiitaa huu.N
+jo aadat pa.D ga_ii piine kii to aag bujhii mere siine kii
+in haatho.n me.n jab jaam milaa mujhako tho.Daa aaraam milaa
+tumhii.n ne merii \threedots
+%
+#endindian
+\endsong
+

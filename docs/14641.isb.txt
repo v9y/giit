@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye dil Dar rahaa hai ye kyaa kar rahaa hai}%
+\film{Yeh Pyaar Hi To Hai}%
+\year{2001}%
+\starring{Saif Ali Khan, Pooja Bhatt}%
+\singer{Sapana Mukherji}%
+\music{Nadeem Shravan}%
+\lyrics{}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kahii.n kisii se shiishaa TuuTaa kahii.n kisii kaa dil
+choT lagii hai kise kahaa.N par kahanaa hai mushkil
+haa haa haa
+ye dil Dar rahaa hai ye kyaa kar rahaa hai
+kise ye muhabbat kaa nashaa cha.Dh rahaa hai
+kahataa hai kyuu.n saaraa jahaa.n ye kharaab hai
+har dard kii hai ye davaa ye sharaab hai
+aa.Nkho.n se mai.n ho.nTho.n se aa tujhako pilaa_uu.n
+ye dil Dar rahaa hai \threedots
+
+kaisii vafaa kaisii jafaa kaisaa pyaar hai
+kasame.n hai.n kyaa vaade hai.n kyaa kaisaa yaar hai
+jhuuThe saare rishte hai.n aa tujhako bataa_uu.n
+ye dil Dar rahaa hai \threedots
+
+chaahaa jise vo naa milaa kyuu.n udaas hai
+ye husn kii kamasin adaa tere paas hai
+dilabar aa tujh pe javaanii mai.n luTaa_uu.n
+ye dil Dar rahaa hai \threedots
+%
+#endindian
+\endsong
+

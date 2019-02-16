@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tujhase naaraaz nahii.n zindagii, hairaan huu.N mai.n}%
+\film{Masoom}%
+\year{1986}%
+\starring{Naseeruddin Shah, Shabana Azmi}%
+\singer{Lata / Anoop Ghoshal}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tujhase naaraaz nahii.n zindagii, hairaan huu.N mai.n
+o hairaan huu.N mai.n
+tere maasuum savaalo.n se pareshaan huu.N mai.n
+o pareshaan huu.N mai.n
+
+jiine ke liye sochaa hii na thaa, dard sambhaalane ho.nge
+muskuraauu.N to, muskuraane ke karz uThaane ho.nge
+muskuraauu.N kabhii to lagataa hai
+jaise ho.nTho.n pe karz rakhaa hai
+tujhase \threedots
+
+aaj agar bhar aaii hai.n, buu.Nde.n baras jaaye.ngii
+kal kyaa pataa inake liye aa.Nkhe.n taras jaaye.ngii
+jaane kahaa.N gum kahaa.N khoyaa
+ek aa.Nsuu chhupaake rakhaa thaa
+tujhase \threedots
+
+zindagii tere Gam ne hame.n rishte naye samajhaaye
+mile jo hame.n dhuup me.n mile chhaa.Nv ke Tha.nDe saaye
+##(music for these lines!)##
+o tujhase \threedots
+%
+#endindian
+\endsong
+%

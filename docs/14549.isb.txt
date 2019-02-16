@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{paayale.n chhunamun ... kitanaa madhur hai ye milan}%
+\film{Viraasat}%
+\year{1997}%
+\starring{Anil Kapoor, Tabbu, Pooja Batra, Milind Gunaji, Govind Namdeo}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paayale.n chhunamun chhunamun jhaa.njhare.n runajhun runajhun
+kitanaa madhur hai ye milan
+chhanan chhan chuu.Dii bole sanan san purabaa Dole
+guu.nje ye dharatii aur gagan
+
+kabhii chalatii ho chham chham kabhii chalatii ho tham tham
+dha.Dakataa dil hai dham dham jo pyaar me.n
+nadii bahatii hai jhar jhar havaa kahatii hai chhar chhar
+aur phailii baat ye ghar ghar bekaar me.n
+o goriyaa.n gaa_e.n gun gun saajanaa jhuume.n sun sun
+pyaar me.n kho_e hai.n ye man
+
+ye ba_iiyaa gorii gorii mai.n thaamuu.n chorii chorii
+zaraa sun o rii o rii sun to zaraa
+rahe tuu mahakii mahakii chale tuu bahakii bahakii
+lage tuu lahakii lahakii mujhako sadaa
+laa_uu.n mai.n kaliyaa.N chun chun baaje ekataaraa tun tun
+dono.n ho.n sun ke ham magan
+paayale.n chhunamun \threedots
+%
+#endindian
+\endsong
+

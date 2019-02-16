@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n me.n terii yaad li_e jaa rahaa huu.N mai.n}%
+\film{Hamari Yaad Aayegi/ Javaan Mohabbat}%
+\year{1961}%
+\starring{Tanuja, Ashok, Anant Kumar, Madhavi}%
+\singer{Mukesh}%
+\music{Snehal Bhatkar}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: BOL ANAMOL #10675 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa.Nkho.n me.n terii yaad li_e jaa rahaa huu.N mai.n
+dil se tujhe du_aa_e.N di_e jaa rahaa huu.N mai.n
+aa.Nkho.n me.n terii \threedots
+
+mai.n vo nahii.n ki aa ke chalaa jaa_uu.N khaalii haath
+do\-chaar harasate.n to li_e jaa rahaa huu.N mai.n
+aa.Nkho.n me.n terii \threedots
+
+jo merii zindagii the merii jaan the ga_e
+phir kis Kushii me.n aur ji_e jaa rahaa huu.N mai.n
+aa.Nkho.n me.n terii \threedots
+
+ai maut haath thaam le mujh badanasiib kaa
+kabase tujhe aavaaz di_e jaa rahaa huu.N mai.n
+aa.Nkho.n me.n terii \threedots
+%
+#endindian
+\endsong
+

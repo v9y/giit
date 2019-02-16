@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{parbato.n ke pe.Do.n par shaam kaa baseraa hai}%
+\film{Shagun}%
+\year{1964}%
+\starring{???}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+%
+\printtitle
+#indian
+%
+ra: parbato.n ke pe.Do.n par shaam kaa baseraa hai
+    surama_ii ujaalaa hai, champa_ii a.ndheraa hai
+    
+su: dono.n vaqt milate hai.n do dilo.n kii suurat se
+    aasma.n ne khush hoke ra.Ng saa bikheraa hai
+    
+ra: Thahate\-Thahare paanii me.n giit sar\-saraate hai.n
+    bhiige\-bhiige jho.nko.n me.n khushabu_o.n kaa Deraa hai
+    parbato.n ke pe.Do.n par \threedots
+    
+su: kyo.n na jazb ho jaae.n is hasiin nazaare me.n
+    roshanii kaa jhuramaT hai mastiyo.n kaa gheraa hai
+    parbato.n ke pe.Do.n par \threedots
+    
+ra: ab kisii nazaare kii dil ko aarzuu kyo.n hai
+    jab se paa liyaa tum ko sab jahaa.N meraa hai
+
+do: jab se paa liyaa tum ko sab jahaa.N meraa hai
+    parbato.n ke pe.Do.n par \threedots
+%
+#endindian
+\endsong
+%
+

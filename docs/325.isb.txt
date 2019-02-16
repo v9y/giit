@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{cha.ndaa dekhe cha.ndaa, to vo cha.ndaa sharamaae}%
+\film{Jhoothi}%
+\year{}%
+\starring{Rekha, Raj Babbar}%
+\singer{Kishore, Lata}%
+\music{Bappi Lahiri}%
+\lyrics{Maya Govind}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar <anurag@astro.indiana.edu>
+% Credits: Swami 
+%          Satish Subramanian <subraman@cs.umn.edu>
+% Editor:  Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+ki: cha.ndaa dekhe cha.ndaa, to vo cha.ndaa sharmaae
+gorii gorii chA.ndanii me.n, gorii jab muskaae
+la: jiyaa bole piyaa, to ye jiyaa sharmaae
+gorii gorii chA.ndanii me.n, gorii jab muskaae
+
+ki: chaa.Nd se maathe pe bi.ndiyaa jhilamilaae aise
+chaa.Nd suuraj raat me.n ek saath chamake aise
+jii kare ye umar yuuhii.n dekhate kaT jaae
+la: jiyaa bole piyaa\threedots
+
+nain ban jaatii hai ghuu.NghaT man dulhan kii aashaa
+baa.nchate hai.n jab nayan tere nayan kii bhaashhaa
+nain me.n chhup kar mere mujhako tuu mujhase churaae
+ki: cha.ndaa dekhe cha.ndaa\threedots
+
+priit ke ra.ng me.n ra.ngaa hai teraa u.Dataa aa.nchal
+la: maine baa.ndhaa hai isii me.n ek diivaanaa paagal
+ki: aa.nchal kii chhaayaa me.n ye paagal jiye mar jaae
+la: jiyaa bole piyaa\threedots
+%
+#endindian
+\endsong
+%

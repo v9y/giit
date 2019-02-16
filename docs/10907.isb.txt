@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{matavaalii aa.Nkho.n vaale o alabele dilavaale}%
+\film{Chhote Nawab}%
+\year{1961}%
+\starring{Mehmood, Ameeta, Johny Walker, Meenu Mumtaz, Helen}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10759 [V S Rawat]
+% Transliterator: 
+% Comments: First film of R D Burman
+% 
+\printtitle
+#indian
+%
+la \:	matavaalii aa.Nkho.n vaale o alabele dilavaale
+	dil teraa ho rahegaa gar tuu ise apanaa le
+	matavaalii aa.Nkho.n vaale \threedots
+
+ra \:	ho tujhako shaayad dhokhaa ho gayaa
+	sun e hasii.n mai.n vo nahii.n
+la \:	tuu hai to mahafil me.n ra.ng hai
+	tuu jo nahii.n to kuchh bhii nahii.n
+	matavaalii aa.Nkho.n vaale \threedots
+
+	jabase tujhako dekhaa ek nazar
+	mujhe kyaa hu_aa mere dilabar
+ra \:	mujhape apanaa jaaduu naa chalaa
+	kahaa meraa sun kahii.n aur hai ma.nzil merii
+
+la \:	kah\-sun le do baate.n pyaar kii
+	duniyaa terii mahafil terii
+ra \:	mai.n terii duniyaa me.n ajanabii
+	kahii.n aur ma.nzil merii
+	matavaalii aa.Nkho.n vaale \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{puuchhe jo ko_ii mujhase bahaar kaisii hotii hai}%
+\film{Aap Aaye Bahaar Aayee}%
+\year{1971}%
+\starring{Rajendra Kumar, Sadhana}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11162 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+puuchhe jo ko_ii mujhase bahaar kaisii hotii hai \-2
+naam teraa le ke kah duu.N ki yaar aisii hotii hai
+puuchhe jo ko_ii mujhase ghaTaa ghanaghor kaisii hotii hai \-2
+tere jaisii hotii hai aur kaisii hotii hai
+puuchhe jo ko_ii \threedots
+
+GustaaKii maine kabhii kii nahii.n mai.n kyaa paagal huu.N nahii.n jii nahii.n
+vaise to maine kabhii pii nahii.n par mai.n aisaa beKabar bhii nahii.n
+puuchhe jo ko_ii mujhase sharaab kaisii hotii hai
+naam teraa le ke kah duu.N janaab aisii hotii hai
+puuchhe jo ko_ii \threedots
+
+tujhako kyuu.N aa_ii hayaa kyaa pataa naa jaane jannat kyaa hai kyaa pataa
+mujhako ye baate.n bhalaa kyaa pataa 
+puuchhe jo ko_ii mujhase huur kaisii hotii hai
+naam teraa le ke kah duu.N huzuur aisii hotii hai
+puuchhe jo ko_ii \threedots
+%
+#endindian
+\endsong
+

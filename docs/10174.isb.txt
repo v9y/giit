@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil hamane diyaa hai ... tujhe pyaar hamane kiyaa hai}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	dil hamane diyaa hai ikaraar hamane kiyaa hai \-2
+	jaan\-e\-tamannaa jaan\-e\-zamaanaa
+	ke tujhe pyaar hamane kiyaa hai
+a \:	dil hamane diyaa hai \threedots
+ku \:	dil hamane diyaa hai \threedots
+
+	cheharaa teraa phuulo.n se hasii.n hai diivaane dil ne kahaa
+	tujhase pyaaraa ko_ii nahii.n hai sun le o jaan\-e\-adaa
+	tujhe dekhe.n tujhe chaahe.n teraa diidaar
+	sau sau baar ham to yaar kare.nge
+a \:	dil hamane diyaa hai \threedots
+ku \:	dil hamane diyaa hai \threedots
+
+a \:	saa.Nso.n me.n tuufaano.n ko chhupaayaa hamane kiyaa i.ntazaar
+	tuune hamako siine se lagaayaa tab jaa ke aayaa qaraar
+	Kafaa na ho kabhii dilabar
+	mohabbat pe hameshaa ham to etabaar kare.nge
+ku \:	dil hamane diyaa hai \threedots
+a \:	dil hamane diyaa hai \threedots
+%
+#endindian
+\endsong
+

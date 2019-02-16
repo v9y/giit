@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mukha.Daa teraa saaf nahii.n ... jaisaa kiyaa hai tuune}%
+\film{Shaadi}%
+\year{1962}%
+\starring{Balraj Sahni, Saira Banu, Manoj Kumar, Indrani, Dharmendra, Om Prakash}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10161 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mukha.Daa teraa saaf nahii.n to darpaN ko kyo.n dho_e
+apane aapako dhokhaa dekar o pagale kyo.n ro_e
+
+jaisaa kiyaa hai tuune vaisaa hii tuu bharegaa
+terii badii kaa badalaa tujhako yahii.n milegaa
+jaisaa kiyaa hai tuune \threedots
+
+Kush ho rahaa thaa kitanaa auro.n ko tuu rulaa ke
+jhuuThe nashe me.n apanaa maGaruur sar uThaa ke
+sochaa na vaqt aisaa tujh par hii aa pa.Degaa
+jaisaa kiyaa hai tuune \threedots
+
+to.Daa kisii kaa dil to kuchh naa malaal aayaa
+jab apane tan pe khaa_ii phir kyo.n Kyaal aayaa
+teraa kiyaa karaayaa tere saath hii chalegaa
+terii badii kaa badalaa \threedots
+%
+#endindian
+\endsong
+

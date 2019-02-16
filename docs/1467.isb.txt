@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{puuchho naa kaise mai.n ne rain bitaa_ii ik pal jaise, ik yug biita}%
+\film{Meri Soorat Teri Aankhen}%
+\year{1963}%
+\starring{Ashok Kumar, Asha Parekh, Pradeep Kumar}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: Satish Subramanian <subraman@cs.umn.edu>
+% Transliterator: Shripad Lale <lale@cent.gud.siemens.co.at>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu> 
+%
+\printtitle
+#indian
+%
+puuchho naa kaise maine rain bitaaI
+ik pal jaise, ik yug biitA \- 2
+yug biite mohe nii.nd naa aayii
+puuchho naa kaise \threedots
+
+(naa kahii.n cha.Ndaa, naa kahii.n taare
+jyot ke pyaase mere, nain bichaare ) \- 2
+bhor bhii aas kii kiran naa laayI
+puuchho naa kaise \threedots
+
+ik jale diipak ik man meraa, merA, man, merA, merA \threedots
+ik jale diipak ik man meraa
+phir bhI naa jaaye mere ghar kaa a.ndheraa
+ta.Dapat tarasat umar ga.nvaayii
+puuchho naa kaise \threedots
+%
+#endindian
+\endsong
+%

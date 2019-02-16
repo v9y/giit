@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil me.n sanam kii suurat aa.Nkho.n me.n aashiqii de}%
+\film{Phir Teri Kahaani Yaad Aayi}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Pooja Bedi, Avtar Gill, Neena Gupta, Javed Khan}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	dil me.n sanam kii suurat aa.Nkho.n me.n aashiqii de
+	mere Kudaa mujhe tuu ek aur zindagii de \-2
+a \:	dil me.n sanam kii \threedots
+
+ku  \:	kaise karuu.N muhabbat do din kii zindagii me.n
+	ye din to biit jaa_e.nge yuu.N hii ha.Nsii ha.Nsii me.n
+a \:	kaise karuu.N muhabbat \threedots
+ku  \:	jii bhar ke pyaar kar luu.N aisii mujhe Kushii de \-2
+	dil me.n sanam kii \threedots
+
+a \:	sau saal tak sanam kii aa.Nkho.n me.n Duub jaa_uu.N
+	sau saal aur ho.n to unako gale lagaa_uu.N
+ku  \:	sau saal tak sanak kii \threedots 
+a \:	sau saal phir milan kii duniyaa na_ii na_ii de \-2
+	mere Kudaa mujhe tuu \threedots
+%
+#endindian
+\endsong
+

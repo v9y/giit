@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ye kaun aayaa ke mere dil kii duniyaa me.n bahaar aa_ii}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12202 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+oh ho ho ho ho ho ho ho
+ta ra ra ram ta ra ra ra ram
+ha ha ha ha
+ta ra ra ram ta ra ra ra ram
+
+ye kaun aayaa
+( ye kaun aayaa
+ke mere dil kii duniyaa me.n bahaar aa_ii ) \-2
+ye kaun aayaa
+
+achaanak ye mere haatho.n me.n
+kisakaa haath aayaa hai
+na mai.n jaanuu.N na dil jaane
+wo apanaa yaa paraayaa hai
+ye kaun aayaa
+ke mai.n apanii hii dha.Dakan
+sun ke sharamaayaa
+
+ye kaun aayaa
+ke mere dil kii duniyaa me.n bahaar aa_ii
+ye kaun aayaa
+
+dulhan ban ke jawaanii kii
+uma.nge.n gunagunaatii hai.n
+bataa hai kaun aa.Nkho.n me.n
+ke aa.Nkhe.n muskuraatii hai.n
+bikhar ke kisakii baa.Nho.n se
+ye merii zulf laharaa_ii
+
+ye kaun aayaa
+
+ye kaun aayaa
+ke mere dil kii duniyaa me.n bahaar aa_ii
+ye kaun aayaa
+%
+#endindian
+\endsong
+

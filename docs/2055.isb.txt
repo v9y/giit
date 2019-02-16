@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{dil hii dil me.n le liyaa dil}%
+\film{Tawaif}%
+\year{}%
+\starring{}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{}%
+%
+% Contributor: Kuntal Shah
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+dil hii dil me.n le liyaa dil, maharabaanii aap kii
+dil ke qaabil kahaa.N ye kadar_daanii aap kii
+
+apane dil ko kyo.n na chahuu.N jis ne chaahaa aap ko
+ab to meraa dil bhii hai jaise nishaanii aap kii
+
+aur is duniyaa me.n kyaa hai jiit ke qaabil bhalaa
+ek meraa diivaanaapan hai ek javaanii aap kii
+
+pha.D_pha.Daate ho.nTh jis ko kah na paaye sham.r se
+jhukatii aa.Nkho.n ne sunaa dii ye kahaanii aap kii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{jhuum ke gaa ai dil zindagii hamase hil\-mil}%
+\film{Jal Bin Machhali Nritya Bin Bijalee}%
+\year{1971}%
+\starring{Sandhya, Abhijeet}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11172 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	jhuum ke gaa ai dil zindagii hamase hil\-mil
+	saaz pe dha.Dakan ke gaatii hai
+ko \:	gaatii hai
+mu \:	chaahane vaalo.n me.n dil ke matavaalo.n me.n
+	maut jiivan ban ke aatii hai
+ko \:	aatii hai
+
+mu \:	pyaar apanii ma.nzil pyaar hii apanii mahafil
+	pyaar hamaaraa saathii hai Dolanaa ha.Ns\-ha.Ns kar
+ko \:	are Dolanaa ha.Ns\-ha.Ns kar
+mu \:	aur lagane bhii de Thokar
+ko \:	aur lagane bhii de Thokar
+mu \: Dolanaa ha.Ns\-ha.Ns kar aur lagane bhii de Thokar
+	pyaar kaa sahaaraa kaafii hai
+ko \:	hoy jhuum ke gaa \threedots
+
+mu \:	ho dekh baa.Nhe.n terii bijalii sii ek merii
+	aa.Nkho.n me.n laharaa_ii jaatii hai
+ko \:	jaatii hai
+mu \:	TuuT jaa_e.N saathii za.njiire.n duniyaa kii
+	ek aur a.nga.Daa_ii baaqii hai
+ko \:	baaqii hai
+	jhuum ke gaa \threedots
+la \:	jhuum ke gaa \threedots
+%
+#endindian
+\endsong
+

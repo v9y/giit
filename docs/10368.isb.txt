@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{aashaa_o.n ke saavan me.n ... mai.n kho jaa_uu.N pyaar me.n}%
+\film{Aashaa}%
+\year{1980}%
+\starring{Jeetendra, Reena Roy, Rameshwari}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11299 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	aashaa_o.n ke saavan me.n \-2
+	uma.ngo.n kii bahaar me.n
+	tum mujhako Dhuu.NDho mai.n kho jaa_uu.N pyaar me.n
+ra \:	aashaa_o.n ke saavan \threedots
+la \:	aashaa_o.n ke saavan \threedots
+
+ra \:	sur se ye jiivan sa.ngiit banaa
+	terii paayal chhanakii giit banaa \-2
+la \:	chham\-chham ghu.Ngharuu gaate hai.n \-2
+	aa_o\-aa_o tumhe.n ham pahanaate hai.n
+	giit piro ke in saa.Nso.n ke haar me.n
+ra \:	aashaa_o.n ke saavan \threedots
+
+	jalate a.ngaaro.n ko chhe.D ga_ii
+	rut man ke taaro.n ko chhe.D ga_ii
+la \:	man me.n diip jale saragam se
+	saat suro.n ke is sa.ngam me.n
+	ye sapano.n ke phuul khile sa.nsaar me.n
+	aashaa_o.n ke saavan \threedots
+%
+#endindian
+\endsong
+

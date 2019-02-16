@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{dil kaa guladastaa baa.Nho.n kaa haar}%
+\film{Vachan}%
+\year{1974}%
+\starring{Shashi Kapoor, Vimi, Prem Chopra}%
+\singer{Kishor, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shaily Shailendra}%
+%
+% Contributor: BOL ANAMOL #11247 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	dil kaa guladastaa baa.Nho.n kaa haar
+	saath me.n isake bahut saa pyaar \-2
+	lekar aayaa sarakaar kar liiji_e sviikaar \-2
+shaa \:	ho ho hamane kiyaa sviikaar ( mere yaar ) \-2
+
+ki \:	ThaNDe mausam me.n aag ye kaisii lagii
+shaa \:	haay
+ki \:	kaise mo.D pe aa ga_ii zindagii
+shaa \:	achchhaa
+ki \:	bin pi_e aaj ye kyaa hamako ho gayaa
+shaa \:	ho ho
+ki \:	pyaar kaa har taraf chhaane lagaa hai nashaa
+shaa \:	maar Daalaa
+ki \:	chhaane lagaa hai nashaa \-2
+shaa \:	dil kaa guladastaa \threedots
+ki \:	lekar aayaa sarakaar \threedots
+shaa \:	haa.N\-haa.N kar to liyaa sviikaar \threedots
+
+ki \:	kho_e ham rahe in gorii\-gorii baa.Nho.n me.n
+	reshamii zulf kii pyaarii\-pyaarii chhaa.Nv me.n
+	Gam bhii ko_ii aane naa paa_egaa jahaa.N
+	pyaar kii bastiyaa.N ham basaa_e.Nge vahaa.N \-3
+do \:	are dil kaa guladastaa \threedots
+%
+#endindian
+\endsong
+

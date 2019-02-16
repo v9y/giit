@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{tuu husn hai mai.n ishq huu.N}%
+\film{Hamraaz}%
+\year{1967}%
+\starring{Sunil Dutt, Vimi, Rajkumar}%
+\singer{Mahendra Kapoor, Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sat Jan 27 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+tuu husn hai mai.n ishq huu.N, tuu mujh me.n hai mai.n tujh me.n huu.N
+mai.n isake aage kyaa kahuu.N, tuu mujh me.n hai mai.n tujh me.n huu.N
+
+ma: 	o soniye
+la: 	o mere mahivaal
+ma: 	aajaa oy aajaa
+la: 	paar nadii ke mere yaar kaa Deraa
+ma: 	tere havaale rabbaa dilbar meraa
+la: 	raat balaa kii ba.Dhataa jaae, laharo.n kaa gheraa
+    	kasam Kudaa kii aaj hai mushkil milanaa meraa
+dono: 	khair karii rabbaa
+    	saath jiye.nge saath mare.nge yahii hai fasaanaa
+
+la:	kahaa.N saliim kaa, rutabaa kahaa.N anaarakalii 	\-2
+	ye aisii shaakh\-e\-tamannaa hai, jo kabhii na phalii 	\-2
+ma:	na bujh sakegii bujhAne se, ahl\-e\-duniyaa ke 		\-2
+	vo shamaa jo terii aa.Nkho.n me.n, mere dil me.n jalI 	\-2
+la:	huzuur ek na ek din ye baat AegI 			\-2
+	ke taKt\-o\-taaj bhale hai.n ke ek kanIz bhalI	 	\-2
+ma:	mai.n taKt\-o\-tAj ko ThukarA ke tujhako le lU.NgA 	\-2
+	ke taKt\-o\-tAj se terI galI kI KAq bhalI 		\-2
+dono:	saath jiye.nge saath mare.nge yahii hai fasaanaa	\-2
+%
+% (rutabaa = stature; shaakh\-e\-tamannaa = bough of desire;
+% ahl-e-duniyaa = people of this world)
+%
+#endindian
+\endsong
+%

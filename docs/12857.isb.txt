@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tuu kyaa ba.ngalaa banaa_egaa ... phir dekh tamaashaa}%
+\film{Mr. & Mrs. Khilaadi}%
+\year{1997}%
+\starring{Akshay Kumar, Juhi Chawla}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu kyaa ba.ngalaa banaa_egaa gaa.Dii kyaa dilaa_egaa
+sair kyaa karaa_egaa jaane de jaane de jaane de
+zaraa parade pe aane de mujhe hiiro to ban jaane de
+phir dekh tamaashaa phir dekh tamaashaa
+
+ba.De bol naa bol tuu lagataa hai ##zero##
+kaun banaa_egaa tujhako ##filmy hero##
+are ra.ng laa_egii jis din ye kuNDalii merii
+us din paka.D ke chal duu.ngaa u.ngalii terii
+are dil ko churaane kaa teraa bahaanaa hai
+baate.n ba.Dii naa banaa
+zaraa chakkar chal jaane de mujhe ##T.V.## pe aane de
+phir dekh tamaashaa \threedots
+
+ik din meraa sach ho jaa_egaa sapanaa
+##pali hill## pe hogaa ik ba.ngalaa apanaa
+haa.N mere tan pe hogii resham kii saa.Dii
+apane niiche hogii phir moTar gaa.Dii
+are ba.ngalaa bhii hogaa gaa.Dii bhii hogii
+khulane de kismat zaraa
+zaraa ##photo## chhap jaane de meraa Da.nkaa baj jaane de
+phir dekh tamaashaa \threedots
+%
+#endindian
+\endsong
+

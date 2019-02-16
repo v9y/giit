@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{raajadulaaraa tuu merii aa.Nkh kaa taaraa ... tuu hai mujhe jaan se pyaaraa}%
+\film{Jaan Se Pyaaraa}%
+\year{1992}%
+\starring{Govinda, Divya Bharti, Aruna Irani, Raza Murad, Suresh Chatwal, Rajendra Gupta}%
+\singer{Abhijit}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raajadulaaraa tuu merii aa.Nkh kaa taaraa
+bhaa_ii mere tuu hai mujhe jaan se pyaaraa
+chaa.Nd Dhal gayaa raat so ga_ii
+dekh to kitanii der ho ga_ii
+lorii gaa_uu.n mai.n sulaa_uu.n so jaa so jaa so jaa
+raajadulaaraa tuu \threedots
+
+terii bhalaa_ii kii du_aa maa.ngataa rahuu.n
+tere li_e saarii umar jaagataa rahuu.n
+tere saare Gam ha.Ns ke mai.n sahuu.n
+har gha.Dii tere saamane rahuu.n
+lorii gaa_uu.n \threedots
+
+tere vaaste milaa mujhako to ye jiivan
+sadiyo.n tak naa TuuTegaa ye pyaar kaa bandhan
+de duu.n mai.n tujhe terii har khushii
+bin tere hai kyaa merii zi.ndagii
+lorii gaa_uu.n \threedots
+%
+#endindian
+\endsong
+

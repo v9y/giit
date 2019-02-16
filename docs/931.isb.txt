@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{kabhii kabhii aisaa bhii to hotaa hai zi.ndagii me.n}%
+\film{Waris}%
+\starring{Hema Malini, Jeetendra}%
+\singer{Rafi, Lata}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+ra: kabhii kabhii aisaa bhii to hotaa hai zi.ndagii me.n
+    raah me.n chalate\-chalate raahii, kho gae be\-Kudii me.n
+la: kabhii kabhii aisaa bhii to hotaa hai zi.ndagii me.n
+    raah me.n chalate\-chalate raahii, kho gae be\-Kudii me.n
+ra: kabhii kabhii aisaa bhii to \threedots
+
+la: kis ko pataa thaa, chaa.Ndanii jaaegii
+ra: haay, kaalii ghaTaa chhaaegii
+la: Tha.nDii puhaar hame.n paas\-paas laaegii
+ra: hm, baat ban jaaegii
+la: dil kii dha.Dakan sur badalegii gha.Dii do gha.Dii me.n
+    kabhii kabhii aisaa bhii to hotaa hai zi.ndagii me.n
+    raah me.n chalate\-chalate raahii, kho gae be\-Kudii me.n
+    kabhii kabhii aisaa bhii to \threedots
+
+ra: ni.ndiyaa ke baadal, ghir\-ghir aae hai.n
+la: o o, aa.Nkho.n pe chhaae hai.n
+ra: o ra.Ng bhare sapano.n ko sa.Ng\-sa.Ng laae hai.n
+la: aa, jaal bichhaae hai.n
+ra: pyaar kii khushabuu mahak rahii hai, saa.Nso.n kii raaginii me.n
+la: dil kii dha.Dakan sur badalegii gha.Dii do gha.Dii me.n
+    kabhii kabhii aisaa bhii to hotaa hai zi.ndagii me.n
+    raah me.n chalate\-chalate raahii, kho gae be\-Kudii me.n
+    kabhii kabhii aisaa bhii to \threedots
+%
+#endindian
+\endsong
+%
+

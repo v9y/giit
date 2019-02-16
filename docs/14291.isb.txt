@@ -1,0 +1,73 @@
+
+%
+\startsong
+\stitle{tuu kyaa mil ga_ii ... mohabbat ho naa jaa_e}%
+\film{Style}%
+\year{2003}%
+\starring{Sahil Khan}%
+\singer{Abhijeet, Hema Sardesai}%
+\music{Sanjeev Darshan}%
+\lyrics{Abbas}%
+%
+% Contributor: BOL ANAMOL #11719 [V S Rawat]
+% Producer & Director: N Chandra Productions, N Chandra 
+% Audio: Saregama India Ltd
+% Cassette: Cost: Rs 50/-, CD: 
+% 
+\printtitle
+#indian
+%
+ko \:	aa aa aa aa aa aa \-2
+a \:	tuu kyaa mil ga_ii ye samaa ra.ngii.n ho gayaa
+	seharaa me.n jaise khil gayaa ho gul nayaa
+	ai merii jaan\-e\-jaa.N hai tujhe kyaa pataa
+	tere husn kaa ( mujhape nashaa chhaa gayaa ) \-3
+	( mohabbat ) \-3 ho naa jaa_e
+	( qayaamat ) \-3 aa naa jaa_e
+ko \:	( mohabbat ) \-3 ho naa jaa_e
+	( qayaamat ) \-3 aa naa jaa_e
+he \:	haa.N aa.N aa.N aa.N aa.N
+	ho o o o o
+
+	aaj\-kal kyaa bataa_uu.N madahosh ho ga_ii huu.N
+	mahasuus ho rahaa hai mai.n kahii.n kho ga_ii huu.N
+a \:	khoyaa meraa bhii dil hai bechain ye dha.Dakan hai
+	kyaa yahii hai mohabbat kaisaa diivaanaapan hai
+he \:	ai mere jaan\-e\-jaa.N hai tujhe kyaa pataa
+	haal mere bhii ( dil kaa hai kuchh aap saa ) \-3
+	( mohabbat ) \-3 ho naa jaa_e
+a \:	( qayaamat ) \-3 aa naa jaa_e
+ko \:	( mohabbat ) \-3 ho naa jaa_e
+	( qayaamat ) \-3 aa naa jaa_e
+
+ko \:	aa aa aa aa aa aa
+
+he \:	tuune jo chhuu liyaa to khil ga_ii.n dil kii kaliyaa.N
+	terii aa.Nkho.n me.n mujhako mil ga_ii merii duniyaa
+a \:	yuu.N to laakho.n hasii.n hai.n tujh saa ko_ii nahii.n hai
+	jis kii Kvaahish thii mujhako jaan\-e\-jaa.N tuu vahii hai
+he \:	ai mere jaan\-e\-jaa.N sun teraa shukriyaa
+	mil gayaa tere ( dil me.n mujhe aashiyaa.N ) \-3
+a \:	ai merii jaan\-e\-jaa.N aa gale se lagaa
+	taaki mil jaa_e.N ( mujhako zamii.n\-aasamaa.N ) \-3
+	( mohabbat ) \-3
+a \:	( qayaamat ) \-3
+ko \:	( mohabbat ) \-3 ho naa jaa_e
+	( qayaamat ) \-3 aa naa jaa_e
+
+he \:	tuu kyaa mil gayaa ye samaa ra.ngii.n ho gayaa
+	seharaa me.n jaise khil gayaa ho gul nayaa
+	ai merii jaan\-e\-jaa.N hai tujhe kyaa pataa
+	tere ishq kaa ( mujhape nashaa chhaa gayaa ) \-3
+a \:	( mohabbat ) \-2
+he \:	( qayaamat ) \-2
+do \:	( mohabbat ) \-2
+	( qayaamat ) \-2
+ko \:	( mohabbat ) \-3 ho naa jaa_e
+	( qayaamat ) \-3 aa naa jaa_e
+do \:	( he he he he he
+	aa aa aa aa aa ) \-2
+%
+#endindian
+\endsong
+

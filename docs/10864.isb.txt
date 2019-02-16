@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{hamane jab dil thaa diyaa ko_ii vaadaa thaa kiyaa}%
+\film{Chhoo Mantar}%
+\year{1956}%
+\starring{Johnny Walker, Shyama, Anita Guha, Jagirdar, Karan Deewan}%
+\singer{Shamshad, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10020 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ra \:	hamane jab dil thaa diyaa ko_ii vaadaa thaa kiyaa huzuur aapane
+sha \:	muft ilzaam diyaa yuu.N hii badanaam kiyaa huzuur aapane
+ra \:	hamane jab dil thaa diyaa \threedots
+
+ra  \:	leke dil tumane kahaa thaa ki sa.mbhaale.nge ise
+	kabhii machalegaa to siine se lagaa le.nge ise
+sha \:	jaane kyaa maine kahaa jaane kyaa tumane sunaa
+	mai.n karuu.N pyaar bhalaa mujhako paagal na banaa
+ra \:	hamane jab dil thaa diyaa \threedots
+
+ra \:	apane ho.nTho.n kii ha.Nsii apanii adaa yaad karo
+	aa.Nkho.n me.n kahii  baat zaraa yaad karo
+sha \:	kyaa niGaaho.n ne kahaa kyaa adaa_o.n ne kahaa
+	mujhako kyaa isakaa pataa jaane yah merii balaa
+ra \:	hamane jab dil thaa diyaa \threedots
+
+ra \:	apane dil se kabhii chaahat ka mazaa puuchh to lo
+	dil ne khaa_ii thii qasam dil se zaraa puuchh to lo
+sha \:	meraa dil kab hai meraa vah to jaa tujhase milaa
+	dekh baate.n na banaa mere jii ko na jalaa
+ra \:	hamane jab dil thaa diyaa \threedots
+%
+#endindian
+\endsong
+

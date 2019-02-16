@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{nainaa hai.n pyaase mere, pyaasaa hai praaN meraa}%
+\film{Aavishkaar}%
+\year{1973}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Asha}%
+\music{Kanu Roy}%
+\lyrics{Kapil Kumar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Swami D. Nigam (nigams@jec330.its.rpi.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+nainaa hai.n pyaase mere, pyaasaa hai praan meraa
+mai.n huu.N ek barakhaa ke bin jalataa saa din
+aashiyaa.n hai sunasaan meraa \threedots
+
+man kii hai lagan tan se, tan kaa hai tiirath duujaa
+pyaasii rahii milake unase, pyaas ko hii maine puujaa
+ye hii to hai abhimaan meraa \threedots
+
+pyaar puujaa praarthanaa to ek saath rahanaa chaahe
+saath agar saath naa de, sa.ng aa jaatii aahe.n
+ab yahii hai tuufaan meraa \threedots
+%
+#endindian
+\endsong
+%

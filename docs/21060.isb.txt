@@ -1,0 +1,46 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{vo ik nigaah kyaa milii}%
+\film{Half Ticket}%
+\year{1962}%
+\starring{Kishore Kumar, Madhubala, Pran}%
+\singer{Lata, Kishore}%
+\music{Salil Chowdhury}%
+\lyrics{Shailendra}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 29 Aug 2006
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+ki: vo mere piichhe haath dhoke pa.Daa hai bachaa le mujhe, bachaa le mujhe
+la: vo ik nigaah kyaa milii tabiiyate.n machal ga_ii.n
+
+ki: zaraa vo muskuraa diye shamaae.N jaise jal ga_ii.n \-2
+la: vo ik nigaah kyaa milii tabiiyate.n machal ga_ii.n
+
+la: (kab se dil ko is gha.Dii kaa i.ntazaar thaa
+shaam sahar meraa pyaar beqaraar thaa) \-2
+ki: sitaaraa vo chamak uThaa to qismate.n badal ga_ii.n \-2
+la: vo ik nigaah kyaa milii \threedots
+
+la: (miiThaa\-miiThaa laa_ilaaj ek dard thaa
+kyaa bataa_uu.N dil ko mere kaisaa marz thaa)\-2
+ki: mariiz-e-ishq jii sake.nge haalate.n sa.Nbhal ga_ii.n \-2
+la: vo ik nigaah kyaa milii \threedots
+
+ki: (thii firaaq\-e\-yaar me.n kaisii bekasii
+kaise paas aa_e.N raah suujhatii na thii) \-2
+teraa hazaar shukriyaa musiibate.n vo Tal ga_ii.n \-2
+la: vo ik nigaah kyaa milii \threedots
+%
+#endindian
+\endsong

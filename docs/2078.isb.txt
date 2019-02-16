@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{halke halke chalo saa.Nvare}%
+\film{Tangevaali}%
+\year{}%
+\starring{}%
+\singer{Lata, Hemant}%
+\music{Salil Choudhary}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+la: halke halke chalo saa.Nvare
+    pyaar kii mast havaao.n me.n
+    dil ko ye Dar hai pahalaa safar hai
+    in alabelii raaho.n me
+
+he: halke halke chalaa naa jaaye
+    pyaar kii mast havaao.n me.n
+    jab tak hai dam chalo chale.n ham
+    Daal ke baahe.n baaho.n me.n \threedots
+
+la: ba.Dhane lagii dil kii dha.Dakan
+    Dol rahaa kyo.n meraa tan man, haay meraa tan man
+he: tuu hii bataa chain kahaa.N jab laagii lagan
+    dil bhii hai teraa, jaa.N bhii hai terii
+    jab se basii ho nigaaho.n me.n \threedots
+
+he: tuu ma.nzil mai.n raahii teraa
+    tere binaa kyaa jiinaa meraa, kyaa jiinaa meraa
+la: TuuTe kabhii naa chhuTe kabhii ye saath piyaa
+    pyaar kii qasam, sa.ng rahe.nge ham
+    niil gagan kii chhaa.Nv me.n \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,75 @@
+%
+\startsong
+\stitle{tuu pyaar tuu priit tuu chaa.Nd tuu raat}%
+\film{Paraya Dhan}%
+\year{}%
+\starring{Rakesh Roshan, Hema Malini}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Prince Kohli (pkohli@cc.gatech.edu)
+%          Satish Subramanian (subraman@cs.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+la: tuu pyaara
+ki: tuu priita
+la: tuu chaa.nda
+ki: tuu raata
+la: jiinaa maranaa saatha teraa maranaa judaa honaa mushkila hai
+la: tuu pyaara
+ki: tuu priita
+la: haa.n tuu chaa.nda
+ki: haa.n tuu raata
+la: jiinaa maranaa saatha teraa maranaa judaa honaa mushkila hai
+ki: tuu saaza
+la: tuu giita
+ki: haa.n tuu ruupa
+la: haa.n tuu ra.nga
+ki: chhuuTe naa ye sa.nga teraa meraa judaa honaa mushkila hai
+la: tuu pyaara \threedots
+
+la: baata aajakii to ye nahii.n, bhuula jaaye jo vo ye nahii.n 
+haa.n baata aajakii to ye nahii.n, bhuula jaaye jo vo ye nahii.n
+nayii hai zi.ndagaanii, hai sadiyo.n puraanii, hamaarii mulaakaata 
+teraa meraa judaa honaa mushakila hai
+ki: tuu saaza
+la: tuu giita
+ki: haa.n tuu ruupa
+la: haa.n tuu ra.ng
+ki: chhuuTe naa ye sa.ng teraa meraa judaa honaa mushkil hai
+tuu pyaara \threedots
+
+ki: duur\-duur aba rahanaa nahii.n, aaja aura kuchha kahanaa nahii.n
+ho duur\-duur aba rahanaa nahii.n, aaja aura kuchha kahanaa nahii.n
+naa lage aba jiyaa re, kahe ko tere dvaare, mai.n le aauu.n baarAt
+teraa meraa judaa honaa mushakila hai
+la: tuu pyaara
+ki: tuu priita
+la: haa.n tuu chaa.nda
+ki: haa.n tuu raata
+la: jiinaa maranaa saatha teraa maranaa judaa honaa mushkila hai
+tuu pyaara
+
+ki: raata aura dina Dhalate rahe.n
+la: saatha\-2 hama chalate rahe.n
+ki: raata aura dina Dhalate rahe.n
+la: saatha\-2 ham chalate rahe.n
+ki: bane ham aise saathii
+la: ke jaise diyaa baatii
+ki: dila me.n hai ye uma.nga teraa meraa judaa honaa mushkila hai
+la: tuu pyaara
+ki: tuu priita
+la: haa.n tuu chaa.nda
+ki: haa.n tuu raata
+dono: jiinaa maranaa saatha teraa maranaa judaa honaa mushkila hai
+dono: haa.n tuu pyaara
+%
+#endindian
+\endsong
+%

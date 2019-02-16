@@ -1,0 +1,42 @@
+%
+\startsong 
+\stitle{ham ishq me.n barabaad hai.n barabaad rahe.nge}%
+\film{Aankhen}%
+\year{1950}%
+\starring{Shekhar, Nalini Jaywant}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Feb 23, 2000
+%
+%
+\printtitle
+#indian
+%
+
+ham ishq me.n barabaad hai.n barabaad rahe.nge
+dil royegaa tere li_e aa.Nsuu na bahe.nge
+
+siine me.n chhupaa rakhe.nge ham raaz\-e\-muhabbat
+ham raaz\-e\-muhabbat
+ai jaan\-e\-vafaa tujh se muhabbat na kare.nge
+tujhe rusavaa na kare.nge
+ham barabaad rahe.nge \threedots
+
+qisamat se shiqaayat hai gilaa tujh se nahii.n hai
+gilaa tujh se nahii.n hai
+tuu ne jo diya dard vo ha.Ns ha.Ns ke sahe.nge
+ham barabaad rahenge \threedots
+
+Dhuu.NDhe.ngii na ab tujh ko ye benuur nigaahe.n
+ye benuur nigaahe.n
+tuu saamane bhii aa_e to dekhaa na kare.nge
+ham barabaad rahe.nge \threedots
+
+%
+#endindian
+\endsong
+%

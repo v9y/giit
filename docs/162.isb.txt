@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ai gulabadan, ai gulabadan, phuulo.n kii mahak kaa.NTo.n kii chubhan}%
+\film{Professor}%
+\year{}%
+\starring{Shammi Kapoor, Kalpana, Lalita Pawar}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ai gulabadan, ai gulabadan, phuulo.n kii mahak kaa.NTo.n kii chubhan
+tujhe dekh ke kahataa hai meraa man
+kahii.n aaj kisii se muhabbat naa ho jaae
+
+kyaa hasiin mo.D par aa ga_ii zi.ndagaanii
+kii haqiiqat na ban jaae merii kahaanii
+jab aahe.n bhare ye Tha.nDii pavan
+siine me.n sulag uThatii hai agan
+tujhe dekh ke \threedots
+
+kyaa ajiib ra.ng me.n saj rahii hai Kudaaii
+kii har ik chiiz maalik ne su.ndar banaaii
+nadiyaa kaa chamakataa hai darapan
+muKa.Daa dekhe.n sapano.n kii dulhan
+tujhe dekh ke \threedots
+
+mai.n tumhii.n se yuu.N aa.Nkhe.n milaataa chalaa huu.N
+ki tumhii.n ko mai.n tumase churaataa chalaa huu.N
+mat puuchho meraa diivaanaapan
+aakaash se uu.Nchii dil kii u.Dan
+tujhe dekh ke \threedots
+%
+#endindian
+\endsong
+%

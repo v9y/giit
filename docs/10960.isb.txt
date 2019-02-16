@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{meraa husn luuTane aayaa alabelaa}%
+\film{Chandralekha}%
+\year{1948}%
+\starring{T R Rajkumari, M K Radha, Ranjan, Sundaribai, Yashodhara Katju}%
+\singer{Zohra Bai, T A Moti, Chorus}%
+\music{D Parthasarathi}%
+\lyrics{Pt Indra}%
+%
+% Contributor: BOL ANAMOL #12032 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+zo \:	meraa husn luuTane aayaa 
+	meraa husn luuTane aayaa alabelaa
+	meraa husn luuTane aayaa \-2
+	ke ghaayal ho ga_ii re u_ii \-2
+	ke uu_ii lambii mu.Nchh waale aa matawaale \-2
+	ke mu.Nchh pe nachaa_uu.N nimbu_aa u_ii \-2
+	u_ii
+	meraa husn luuTane aayaa 
+	meraa husn luuTane aayaa alabelaa
+	meraa husn luuTane aayaa
+
+	mai.n banuu.Ngii usii kii lugaa_ii \-2
+	hogaa chhappan gaa.Nvo.n kaa jo raajaa \-2
+	gore mukha.De se ghuu.NghaT haTaa ke \-2
+	lambe (?) ke dil ko luTaa ke
+	dhiire\-dhiire kahuu.Ngii aajaa aajaa \-2
+
+	u_ii
+	meraa husn luuTane aayaa 
+	meraa husn luuTane aayaa alabelaa
+	meraa husn luuTane aayaa
+
+mo \:	o mai.n raajaa ruupanagar kaa
+	aur tuu merii paTaraanii
+	o mai.n raajaa chandrashahar kaa
+	aur tuu merii mahaaraanii
+
+zo \:	do\-do raajaa bhare yahaa.N paanii \-2
+	merii ruuThii hai inase jawaanii
+	haay merii ruuThii hai inase jawaanii
+mo \:	jawaanii merii ruuThii hai inase jawaanii \-2
+	jawaanii merii ruuThii \-3
+	jawaanii merii ruuThii hai inase jawaanii
+	haay
+	meraa husn luuTane aayaa \-2
+%
+#endindian
+\endsong
+

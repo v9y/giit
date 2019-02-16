@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pahalii nazar me.n ... nazar milate hii aisaa kyaa ho gayaa}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii nazar me.n dil na jaane kaise kho gayaa
+abhii abhii apanaa thaa paraayaa kaise ho gayaa
+
+haa.n nazar milate hii aisaa kyaa ho gayaa
+bataa_e ko_ii pal me.n ye kyaa ho gayaa
+ke aaj tak thaa apanaa jo dil kaise ho gayaa paraayaa
+nazar milate hii \threedots
+
+ye khel hai kyaa kisii ko kabhii na jaane ko_ii na pahachaane
+kabhii vo kahii.n milaa bhii nahii.n ke naam pataa ko_ii jaane
+ho gayaa apanaa ha haa.n dil me.n jo kabhii naa
+are ho gayaa apanaa dil me.n jo kabhii naa aayaa 
+nazar milate hii \threedots
+
+khulii nazaro.n kaa khvaab hai ye ajiib hai pyaar kaa aalam
+basant binaa bahaar khile ke ra.ng barase bin mausam
+anjaanaa dilabar aisaa tan man par chhaayaa
+he nazar milate hii \threedots
+%
+#endindian
+\endsong
+

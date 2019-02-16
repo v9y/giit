@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kaisaa teraa pyaar kaisaa gussaa hai teraa}%
+\film{Love Story}%
+\year{}%
+\starring{Kumar Gaurav, Vijeta Pandit}%
+\singer{Amit Kumar, Lata}%
+\music{R D Burman}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+kaisaa teraa pyaar kaisaa gussaa hai teraa
+taubaa sanam, taubaa sanam
+
+ik dillagii mai.n ne kii thii
+tuu ne kyo.n dil se lagaa lii
+tuu bhii muskuraa de
+mujhe bhii ha.Nsaa de
+o mere achchhe balam
+taubaa sanam, taubaa sanam
+
+mai.n ik teraa diivaanaa
+dekhe tujhe kyo.n zamaanaa
+dekhe mere nainaa
+dil me.n chhupe rahanaa
+rakahanaa na baahar kadam
+merii qasam, merii qasam
+
+aisaa meraa pyaar aisaa gusaa hai meraa
+terii qasam, terii qasam
+
+apanii Kataa mai.n ne maanii
+ab chho.D bhii ye kahaanii
+
+%
+#endindian
+\endsong
+%

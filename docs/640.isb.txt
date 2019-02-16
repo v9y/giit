@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{guzare hai.n aaj ishq me.n ham us maqaam se}%
+\film{Dil Diya Dard Liya}%
+\starring{Dev Anand, Waheeda Rahman, Pran}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+guzare hai.n aaj ishq me.n ham us maqaam se
+nafarat sii ho ga_ii hai muhabbat ke naam se
+
+hamako na ye gumaan thaa, o sa.ngadil sanam
+raah\-e\-vafaa se tere bahak jaae.nge qadam
+chhalakegaa zahar bhii terii aa.Nkho.n ke jaam se
+
+o bevafaa teraa bhii yuu.N hii TuuT jaae dil
+tuu bhii ta.Dap\-ta.Dap ke pukaare haay dil
+teraa bhii saamanaa ho kabhii, Gam kii shaam se
+
+ham vo nahii.n jo pyaar me.n rokar guzaar de.n
+parachhaaI.n bhii ho terii to Thokar se maar de.n
+vaaqif hai.n ham bhii Kuub har ek i.ntaqaam se
+%
+#endindian
+\endsong
+%

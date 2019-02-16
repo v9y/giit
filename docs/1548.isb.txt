@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ruke ruke se kadam ruk ke baar baar chale}%
+\film{Mausam}%
+\year{}%
+\starring{Sanjeev Kumar, Sharmila Tagore}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Gulzar}%
+%
+% Contributor: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Transliterator:  
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ruke ruke se kadam ruk ke baar baar chale (2) 
+qarAr leke tere dar se beqarAr chale 
+ruke ruke se kadam ruk ke baar baar chale 
+ruke ruke se kadam 
+
+subah nA AyI kaI baar nI.nd se jaage (2) 
+ki ek raat kI ye zi.ndagI guzaar chale (2) 
+ruke ruke se kadam 
+
+uThAye phir de ke ehasAn dil kA sIne par (2) 
+le tere kadamo.n pe ye kaz.r bhI utaar chale (2) 
+qarAr leke tere dar se beqarAr chale 
+ruke ruke se kadam ruk ke baar baar chale 
+ruke ruke se kadam 
+%
+#endindian
+\endsong
+%

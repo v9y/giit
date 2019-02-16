@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{hasiin vaadiyo.n fizaa_o.n se kah do havaa_o.n se}%
+\film{Lal Bangla}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Sheikh Mukhtaar, Jayanti}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10468 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+hasiin vaadiyo.n
+fizaa_o.n se kah do havaa_o.n se kah do
+meraa yaar meraa pyaar le ke aayaa hai
+hasiin vaadiyo.n \threedots
+
+suurat hai bholii sii qaatil har ek adaa
+dil\-o\-jaan se hu_aa huu.N mai.n to usape fidaa
+ko_ii jaane naa jaane ko_ii maane naa maane
+mai.n to kahataa huu.N unako Kudaa_o.n kaa Kudaa
+meraa yaar meraa pyaar \-2
+vo to aa.Nkho.n me.n khumaar le ke aayaa hai
+hasiin vaadiyo.n \threedots
+
+kalii se hai naazuk phuulo.n se bhii hasii.n
+mere yaar jaisaa ko_ii bhii zamaane me.n nahii.n
+us jaisii naazanii.n us jaisii dilanashii.n
+diyaa le ke bhii Dhuu.NDho.n to milegii na kahii.n
+meraa yaar meraa pyaar \-2
+vo to dil kaa qaraar le ke aayaa hai
+hasiin vaadiyo.n \threedots
+
+Daalii jaise to lachakatii hai patalii qamar
+sharamaa_e bhii zaraa ghabaraa_e bhii zaraa
+abhii pyaar kii raaho.n me.n nayaa\-nayaa hai safar
+meraa yaar meraa pyaar \-2
+vo to ummiido.n kaa nikhaar le ke aayaa hai
+hasiin vaadiyo.n \threedots
+%
+#endindian
+\endsong
+

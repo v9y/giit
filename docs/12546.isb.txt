@@ -1,0 +1,31 @@
+
+%
+\startsong
+\stitle{karm kaho qismat kaho chaahe kaho taqadiir}%
+\film{Karm}%
+\year{1977}%
+\starring{Rajesh Khanna, Vidhya Sinha, Shabana Azmi, Iftikhaar, Asrani, Om Shivpuri}%
+\singer{Mukesh}%
+\music{R D Burman}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10777 [V S Rawat]
+% Transliterator: 
+% Comments: Based oon Bengali novel "paa_o naa_ii parichay" by Gajendra Kumar Mitra
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+karm kaho qismat kaho chaahe kaho taqadiir
+pahale banaa praarabdh aur piichhe banaa shariir
+
+karm kii gaTha.Dii laad ke jag me.n phire insaan
+jaisaa kare vaisaa bhare vidhi kaa yahii vidhaan
+
+karm kare qismat bane jiivan kaa ye maram
+praaNii tere haath me.n teraa apanaa karam
+%
+#endindian
+\endsong
+

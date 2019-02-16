@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{ho ga_e diivaane tumako dekh kar is haal me.n}%
+\film{Lailaa}%
+\year{1984}%
+\starring{Sunil Dutt, Poonam Dhillon, Pran, Anil Kapoor, Anita Raj, Pradeep Kumar}%
+\singer{Kishor}%
+\music{Usha Khanna}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: BOL ANAMOL #10469 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Anil Kapoor
+% 
+\printtitle
+#indian
+%
+ho ga_e diivaane
+ho ga_e diivaane tumako dekh kar is haal me.n
+chaudahavii.n kaa chaa.Nd ho tum chaudahave.n hii saal me.n \-2
+ho ga_e he ho ga_e ahaa ho ga_e diivaane
+
+ye machalatii kamasinii aur usape cha.Dhataa ye shabaab
+ek nakalii til lagaa lo gaal pe apane janaab
+badanazar se bach ke pahu.Nchoge pa.ndarahave.n saal me.n
+ho ga_e diivaane \threedots
+
+aa ga_ii tumako hayaa merii zaraa sii baat par
+liiji_e rakh liiji_e dil meraa apane haath par
+ham banaa le.nge tumhe.n dulhan solahave.n saal me.n
+ho ga_e diivaane \threedots
+%
+#endindian
+\endsong
+

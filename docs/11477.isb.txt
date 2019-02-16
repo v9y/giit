@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{vaqt kaa saayaa kisane Taalaa hai}%
+\film{Filhaal}%
+\year{2002}%
+\starring{Tabu, Sushmita Sen, Sanjay Suri, Palash Sen}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vaqt kaa saayaa kisane Taalaa hai
+ho rahegaa jo hone vaalaa hai
+vaqt kaa saayaa \threedots
+
+din to ye bhii guzar jaa_egaa par ye lamhaa guzarataa nahii.n
+aag hii aag hii aag hai phir kyuu.N suuraj pighalataa nahii.n
+daag dhone se jaate nahii.n dard rone se ghaTataa nahii.n
+vaqt kaa saayaa \threedots
+
+nii.nd me.n saa.ns lete to hai.n khvaab jaage to mar jaate hai.n
+bebasii hai ba.Dii bebasii apane saa_e se Dar jaate hai.n
+kaun kisase shikaayat kare jo likhaa hai vo miTataa nahii.n
+vaqt kaa saayaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aayii R^itu saavan kii}%
+\film{Alaap}%
+\year{1977}%
+\starring{Rekha, Amitabh Bachchan}%
+\singer{Bhupinder, Kumari Faiyyaz}%
+\music{Jaidev}%
+\lyrics{Dr. Rahi Masoom Reza}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+aayii R^ituu saavan kii
+piyaa moraa jaa re
+aayii R^itu saavan kii
+
+bairan bijurii chamakan laagii
+badarii taanaa maare re
+aise me.n koii jaaye piyaa
+tuu ruuTho kyo.n jaaye re
+aayii R^itu saavan kii
+
+tum hii anuk bides javaiyaa
+sab aaye hai.n dvaare re
+aise me.n koii jaaye piyaa
+tuu ruuTho kyo.n jaaye re
+aaye R^itu saavan kii
+
+%
+#endindian
+\endsong
+%

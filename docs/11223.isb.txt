@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{chalii merii dulhan kii Dolii}%
+\film{Bachpan}%
+\year{1970}%
+\starring{Sunil Dutt,  Waheeda Rahman, Sonia Sahni}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11134 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chalii merii dulhan kii Dolii hoy chalii merii dulhan kii Dolii
+saath hai jiivan\-saathii kyaa karane hai.n baaraatii
+chalii merii dulhan \threedots
+
+mast pavan ke ye jho.nke sa.ng ban ke aaj kahaar chale
+baabul ke ghar se gorii ko le ke saajan ke dvaar chale
+sa.ng ye badariyaa bhii ho lii ho lii
+chalii merii dulhan \threedots
+
+duniyaa diivaanii kahatii thii patajha.D me.n phuul nahii.n khilate
+haTate nahii.n paravat raste se dharatii aakaash nahii.n milate
+duniyaa hai ye kitanii bholii\-bhaalii
+chalii merii dulhan \threedots
+
+phuulo.n ke nahii.n aramaano.n ke mai.n haar tujhe pahanaa_uu.Ngaa
+kaliyo.n se nahii.n aashaa_o.N se mai.n terii sej sajaa_uu.Ngaa
+mere hamaraahii hamajolii hamajolii
+chalii merii dulhan \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{##sunday## kii raat thii pahalii mulaakaat thii}%
+\film{Raajaaji}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Kumar Sanu, Sapana Mukherji}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##sunday## kii raat thii pahalii mulaakaat thii
+mai.n thaa vo thii mai.n thaa vo thii halkii barasaat thii haay
+
+aaliishaan kisii ba.ngale se gaa.Dii me.n vo nikalii
+mere pyaar me.n jaal me.n pha.ns ga_ii paise vaalii titalii
+naukar chaakar ghuume.nge ab mere aage piichhe
+ab to saarii daulat hogii in kadamo.n ke niiche
+saarii duniyaa usake piichhe par vo mere saath thii haa.N
+
+##sunday## kii raat thii pahalii mulaakaat thii
+vo thaa mai.n thii vo thaa mai.n thii halkii barasaat thii haay
+maine usako dekhaa to dil meraa dhak se dha.Dakaa
+sardii ke mausam me.n bhii garmii kaa sholaa bha.Dakaa
+pahalii pahalii nazar me.n ban ga_ii mai.n usakii diivaanii
+vo mere sapano.n kaa raajaa aur mai.n usakii raanii
+sab kuchh usako de diyaa maine usane aisii baat kii saiyaa
+##sunday## kii raat thii \threedots
+%
+#endindian
+\endsong
+

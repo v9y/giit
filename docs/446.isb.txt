@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dekho qasam se, qasam se, kahate hai.n tumase haa.N}%
+\film{Tumsa Nahin Dekha}%
+\starring{Shammi Kapoor, Ameeta}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dekho qasam se qasam se
+kahate hai.n tumase haa.N
+tum bhii jaloge haath maloge
+ruTha ke hamase haa.N
+
+raat hai diivaanii
+mast hai fizaae.n
+chaa.ndanii suhaanii
+sard hai havaae.n
+tum bhii akele ham bhii akele
+kahate hai.n tumase haa.N
+tum bhii jaloge haath maloge
+ruTha ke hamase haa.N
+
+kyaa lagaaii tumane
+ye qasam qasam se
+lo Thahar gaye ham
+kuchh kaho bhii ham se
+tanake na chaliye banake na chaliye
+kahate hai.n tumase haa.N
+tum bhii jaloge haath maloge
+ruTha ke hamase haa.N
+haay
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bedard shikaarii are bedard shikaarii}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Lata, Chorus}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12537 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	bedard shikaarii are bedard shikaarii
+do \:	bedard shikaarii are bedard shikaarii
+la \:	sun baat hamaarii are bedard shikaarii
+do \:	bedard shikaarii are bedard shikaarii
+
+su \:	samajhaa hai ise tuune amiiro.n kaa khilaunaa \-2
+	duniyaa me.n Gariibo.n kii sakhii aayegii baarii
+do \:	bedard shikaarii are bedard shikaarii \-2
+
+la \:	itanaa to zaraa soch ye beTaa hai kisii kaa \-2
+	kyaa jaane kahaa.N yaad me.n maa.N roye bechaarii
+do \:	bedard shikaarii are bedard shikaarii \-2
+
+su \:	TuuTe hai.n tere pa.nkh magar u.D ke dikhaa de
+	jo saamane aaye use Thokar se miTaa de
+la \:	tuu aah se sa.nsaar me.n tuufaan uThaa de
+	har aas ko fariyaad se ek aag banaa de
+	pi.njare ko jalaa de are pi.njare ko jalaa de
+	aa jaa_o mere laal ye maa.N ro ke pukaarii \-4
+%
+#endindian
+\endsong
+%
+

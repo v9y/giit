@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{qaraar luuTanevaale, qaraar ko tarase}%
+\film{Saat Laakh}%
+\year{1957}%
+\starring{Sabiha. Santosh, Nilo}%
+\singer{Munir Hussain}%
+\music{Rashid Atre}%
+\lyrics{Saifuddin Saif}%
+%
+% Contributor: Bharat Upadhyay
+% Transliterator: K Vijay Kumar
+% Credits: Urzung Khan
+% Comments: This is from a Pakistani film.
+%
+\printtitle
+#indian
+%
+qaraar luuTanevaale, qaraar ko tarase
+merii vafaa ko, mere aitabaar ko tarase
+
+tuu roye raat kii tanahaa_iyo.n me.n uTh uTh kar
+tujhe qaraar na aaye, qaraar ko tarase
+
+Kudaa kare teraa ra.ngiin shabaab uja.D jaaye
+terii sharaab\-e\-javaanii, khumaar ko tarase
+
+Kudaa kare tere dil kii kalii kabhii na khile 
+bahaar aa_e   magar tuu   bahaar   ko tarase
+
+
+%
+#endindian
+\endsong
+%

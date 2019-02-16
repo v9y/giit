@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{dil un ko Dhuu.NDhataa hai ham dil ko Dhuu.NDhate hai.n}%
+\film{Yasmin}%
+\year{1955}%
+\starring{Vyjayanthimala, Suresh, Jayant}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  Anil Hingorani
+% Transliterator:  Vijay Kumar
+% Date: December 6, 2000
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+ 
+dila unko dhundataa hai
+hama dila ko dhundate.n hai.n -/2
+bhaTake huye musaafira
+ma.nzila ko dhundate.n hai.n -/2
+ 
+(huma hai.n terii lagana hai
+aye shamaa tuu kahaana hai) -/2
+parwaanaa bana ke terii
+mahafila ko dhundate.n hai.n -/2
+bhaTake huye musaafira  /threedots
+ 
+(duuniyaa se hai niraalaa
+dastura ashiqo.n kaa aa aa~~) /-2
+jiine kii arazuu me.n
+kaatiila ko dhundate.n hai.n
+bhaTake huye musaafira  /threedots
+ 
+(siine me.n hasarato.n kaa
+jaagaa huua haii tuufaana) -/2
+huma mauja banake apane
+saahiila ko dhundate.n hai.n
+bhaTake huye musaafira  /threedots
+ 
+%
+#endindian
+\endsong
+%

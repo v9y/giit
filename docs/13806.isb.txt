@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{raaste kaa patthar qismat ne mujhe banaa diyaa}%
+\film{Raaste Ka Patthar}%
+\year{1972}%
+\starring{Amitabh Bachchan, Nita Khayani, Shatrughan Sinha, Prem Chopra}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11204 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+raaste kaa patthar qismat ne mujhe banaa diyaa
+jo raaste se guzaraa ek Thokar lagaa gayaa
+raaste kaa patthar \threedots
+
+kitane ghaav lage hai.n ye mat puuchho mere dil pe
+kitanii Thokar khaa_ii naa pahu.Nchaa ma.nzil pe
+ko_ii aage phe.nk gayaa to ko_ii piichhe haTaa gayaa
+raaste kaa patthar \threedots
+
+pahale kyaa kar paayaa kyaa isake baad karuu.Ngaa mai.n
+jaa rii jaa ai duniyaa kyaa tujhako yaad karuu.Ngaa mai.n
+do din terii mahafil me.n kyaa aayaa kyaa gayaa
+raaste kaa patthar \threedots
+%
+#endindian
+\endsong
+

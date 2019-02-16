@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{fizaa bhii hai javaa.N javaa.N, havaa bhii hai ravaa.N ravaa.N}%
+\film{Nikaah}%
+\year{1982}%
+\starring{Raj Babbar, Salma Agha, Deepak Parashar}%
+\singer{Salma Agha}%
+\music{Ravi}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: Arati Deo (arati@taj.rice.edu)
+%          Harsh Varma (varma@paul.rutgers.edu)
+%          Rajesh Pankaj (pankaj@ecf.toronto.edu)
+%          Tabassum Hijazi
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+fizaa bhii hai javaa.N javaa.N, havaa bhii hai ravaa.N ravaa.N
+sunaa rahaa hai ye samaa sunii sunii sii daastaa.N
+
+bujhii magar bujhii nahii.n, na jaane kaisii pyaas hai
+qaraar dil se aaj bhii na duur hai na paas hai
+ye khel dhuup chhaao.n kaa, ye parvate.n ye duuriyaa.N
+sunaa rahaa hai ye samaa\threedots
+
+har ek pal ko Dhuu.NDhataa har ek pal chalaa gayaa
+har ek pal visaal kaa, har ek pal firaaq kaa
+har ek pal guzar gayaa, banaake dil pe ik nishaa.N
+sunaa rahaa hai ye samaa\threedots
+
+pukaarate haui.n duur se, vo qaafile bahaar ke
+bikhar gae hai.n ra.ng se, kisiike intazaar me.n
+lahar lahar ke ho.nTh par, vafaa kii hai.n kahaaniyaa.N
+sunaa rahaa hai ye samaa\threedots
+
+vohii gha.Dii vohii pahar, vohii havaa vohii lahar
+na_ii hai.n ma.nzile.n magar, vohii Dagar vohii safar
+nazar ga_ii jidhar jidhar, milii vohii nishaaniyaa.N
+sunaa rahaa hai ye samaa\threedots
+%
+#endindian
+\endsong
+%

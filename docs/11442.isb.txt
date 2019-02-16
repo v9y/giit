@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{meraa tumhaaraa saath to sadiyo.n kaa saath hai}%
+\film{Ek Paheli}%
+\year{1971}%
+\starring{Firoz Khan, Tanuja, Rajendranath, Madan Puri, Aruna Irani, Bipin Gupta}%
+\singer{Rafi, Suman}%
+\music{Usha Khanna}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10460 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+su \:	meraa tumhaaraa saath to sadiyo.n kaa saath hai
+ra \:	ab tak gale na mil sake
+su \:	ye aur baat hai
+do \:	meraa tumhaaraa saath \threedots
+
+ra \:	ma.nzil pe aayaa kaaravaa.N
+	phir ho ga_e aramaa.N javaa.N
+	mahasuus hone lagaa qadamo.n me.n hai.n dono.n jahaa.N
+	jisakii talaash thii vo mere saath hai
+su \:	ab tak gale na mil sake
+ra \:	ye aur baat hai
+do \:	meraa tumhaaraa saath \threedots
+
+su \:	tuufaa.n se nikale hai.n ham aayaa nahii.n saahil abhii \-2
+ra \:	mere tumhaare pyaar kii ik aur bhii ma.nzil abhii
+do \:	shaayad hamaarii maut hii hamaarii hayaat hai
+su \:	ab tak gale na mil sake
+ra \:	ye aur baat hai
+do \:	meraa tumhaaraa saath \threedots
+%
+#endindian
+\endsong
+

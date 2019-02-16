@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{dekh lo aavaaz dekar paas apane paaoge}%
+\film{Prem Geet}%
+\starring{Raj Babbar, Anita Raj}%
+\singer{Anuradha Paudwal (?)}%
+\music{Jagjit Singh}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Porky 
+%          Preetham Gopalaswamy for pstats (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dekh lo aavaaz dekar paas apane paaoge 
+aaoge tanhaa magar tanhaa nahii.n tum jaaoge 
+
+1) dUr rahakar bhii tumhii.n pe rahatii hai apanii najar 
+baaho.n me.n ham thaam le.nge jab bhI Thokar khaaoge, dekh lo \threedots
+
+2) lenaa badale me.n tumhaare gar khudaa_ii bhii mile 
+chho.D de.nge do jahaa.N ko jab bhI tum faramaaoge dekh lo \threedots
+
+3) bevafaaii bhii karo to maaf kar de.nge tumhe.n 
+ham nA vaado.n se phire.nge tum agar phir jaaoge, dekh lo \threedots
+%
+#endindian
+\endsong
+%

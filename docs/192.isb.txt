@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ajii aisaa maukaa phir kahaa.N milegaa}%
+\film{An Evening In Paris}%
+\year{}%
+\starring{Shammi Kapoor, Sharmila}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ajii aisaa maukaa phir kahaa.N milegaa
+hamaare jaisaa dil kahaa.N milegaa
+aao tumako dikhalaataa huu.N
+pairis kii ek ra.ngii.n shaam, dekho dekho dekho dekho dekho
+##An Evening in Paris##
+
+dekho ye pariyo.n kii Tolii, miiThii miiThii jinakii bolii
+kyaa kyaa ra.ng dil par jamaae
+jalavo.n kii ye aa.Nkh michaulii
+ajii aisaa maukaa \threedots
+
+haatho.n me.n haatho.n ko Daale, phirate hai.n aashiq niraale
+Dhuu.NDho yahaa.N tum bhii saathii, mil jaae.nge husn vaale
+ajii aisaa maukaa \threedots
+
+apane dil kaa daaman bhar lo, mar jaaoge pyaar kar lo
+kal kaa sapanaa kis ne dekhaa, in raaho.n se aaj guzar lo
+ajii aisaa maukaa \threedots
+%
+#endindian
+\endsong
+%

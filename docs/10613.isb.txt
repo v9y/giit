@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{mujhe tumase muhabbat hai magar mai.n kah nahii.n sakataa}%
+\film{Bachpan}%
+\year{1963}%
+\starring{Menaka Irani, Saleem, Manorama, David, Daisy Irani}%
+\singer{Rafi}%
+\music{Sardar Malik}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10357 [V S Rawat]
+% Transliterator: 
+% Credits: U.V. Ravindra
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mujhe tumase muhabbat hai magar mai.n kah nahii.n sakataa
+magar mai.n kyaa karuu.N bole binaa bhii rah nahii.n sakataa
+mujhe tumase \threedots
+
+mere Kvaabo.n kii shahazaadii jahaa.N tum muskaraatii ho \-2
+bahaare.n kyaa Kizaa_o.n me.n hazaaro.n gul khilaatii ho
+tumhe.n jisane bhii dekhaa hai judaa_ii sah nahii.n sakataa
+mujhe tumase \threedots
+
+zamaanaa laakh baadal ban ke chhaa jaa_e nigaaho.n me.n \-2
+muhabbat kaa ujaalaa phailataa jaa_egaa raaho.n me.n
+muhabbat chaa.Nd aisaa hai kabhii jo gah nahii.n sakataa
+mujhe tumase \threedots
+
+% gahanaa (verb) = to be obscured, clouded, eclipsed, etc.
+% (used most commonly with suuraj/chaa.Nd: baadalo.n ne chaa.Nd ko gah liyaa)
+%
+#endindian
+\endsong
+

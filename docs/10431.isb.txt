@@ -1,0 +1,28 @@
+
+%
+\startsong
+\stitle{Gam jo paayaa hai to siine se lagaa le isako}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Amitabh Bachchan}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11670 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+Gam jo paayaa hai to siine se lagaa le isako
+dil me.n ye aag chhupaa ke tujhe jiinaa hogaa
+dekh amR^it jo pilaanaa hai tujhe auro.n ko
+tere hisse me.n hai jo zahar vo piinaa hogaa
+%
+#endindian
+\endsong
+

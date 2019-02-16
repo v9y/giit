@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham ba.njaare ... kahate hai.n saare kyaa kahane}%
+\film{Hum Tum Pe Marte Hain}%
+\year{1999}%
+\starring{Govinda, Urmila Matondkar, Anupam Kher}%
+\singer{Udit Narayan, Shobha Joshi, Chorus/ Shobha Joshi, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o o
+ham ba.njaare ho ishq de maare ho dil vil haare ho
+kahate hai.n saare ho kyaa kahane haay
+kyaa kahane haay kyaa kahane
+kahate hai.n jisako sab javaaniyaa.n
+hamane likhii hai.n vo kahaaniyaa.n
+haay ham ba.njaare \threedots
+
+mitaa ku_aa mitaa ku_aa mitaa ku_aa mitaa
+ho bholaa saa teraa ra.ng ruup hai
+tho.Dii sii chhaa.Nv tho.Dii dhuup hai
+kar ke ishaare ho gorii pukaare ho aa sai.nyaa pyaare ho
+kahate hai.n saare \threedots
+
+pii jaa_uu.n tujhako piikar jhuum luu.n
+jo kuchh dekhaa hai vo sab chuum luu.n haay
+ambar pe taare ho dil me.n a.ngaare ho tere lashkaare ho
+kahate hai.n saare \threedots
+%
+#endindian
+\endsong
+

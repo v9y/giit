@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{duniyaa mujhako paagal samajhe yaa samajhe aavaaraa}%
+\film{Chaubees Ghante}%
+\year{1958}%
+\starring{Premnath, Shakeela, K N Singh, Maruti, Shammi, Nishi, Satish Batra}%
+\singer{Mukesh}%
+\music{Bipin Babul}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10395 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+duniyaa mujhako paagal samajhe yaa samajhe aavaaraa
+mai.n duniyaa kii sevaa karane phirataa maaraa\-maaraa o
+
+taaqat se bharapuur rakhii hai.n apanii dono.n baajuu
+insaaf ko aise taule.n jaise hoy taraajuu
+jisame.n ho kuchh himmat\-Timmat
+la.D le vo dubaaraa e jii la.D le vo dubaaraa
+duniyaa mujhako paagal \threedots
+
+dukh me.n ho ko_ii buu.Dhaa\-suu.Dhaa yaa ko_ii la.Dakii\-ma.Dakii
+unhe.n bachaane merii taaqat bijalii ban kar ka.Dakii
+kar le do\-do haath chaahe vo
+rustam ho yaa daaraa are rustam ho yaa daaraa
+duniyaa mujhako paagal \threedots
+
+aa.Ndhii ban ke jaa_uu.N aur tuufaa.n ban ke chhaa_uu.N
+jis rukh par bhii mai.n chaahuu.N is duniyaa ko le jaa_uu.N
+tinakaa hai ye duniyaa mai.n huu.N
+tuufaano.n kii dhaaraa are tuufaano.n kii dhaaraa
+duniyaa mujhako paagal \threedots
+%
+#endindian
+\endsong
+

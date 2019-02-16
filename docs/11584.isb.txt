@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{o jaanaa.n re aanaa re dil hai diivaanaa re jaanaa.n re}%
+\film{Gurudev}%
+\year{1993}%
+\starring{Rishi, Anil Kapoor, Sridevi, Kader, Danny, Kiran Kumar, Pran, Asrani}%
+\singer{Anuradha Paudwal}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o jaanaa.n re aanaa re
+dil hai diivaanaa re jaanaa.n re
+o jaanaa.n re aanaa re \threedots
+
+cha.Dhatii javaanii kuchh aur nahii.n jaane
+jaane to jaane ki tuu yaar hai meraa
+aanaa re jaanaa.n re o aanaa re
+o jaanaa.n re aanaa re \threedots
+
+ho teraa diivaanaa ko_ii baat nahii.n maane
+maane to maane ki tuu pyaar hai meraa
+re aanaa re jaanaa.n re \threedots
+
+cha.Dhatii hai.n pyaar kii duniyaa terii ye matavaalii aa.Nkhe.n
+raat bhii hai.n ye din bhii hai.n gorii kaalii aa.Nkhe.n
+usape palako.n se hai.n baate.n pyaar kii
+ho jab se dekhaa hai teraa ruup mastaanaa
+tab se jiyaa beqaraar hai meraa
+o jaanaa.n re aanaa re \threedots
+
+ho mauj me.n ham naache.n to viiraanaa bhii hai mahafil
+chal pa.De.n to rastaa hai ruk jaa_e.n to manzil
+baat kyaa karanaa mere dil mauj me.n chal pa.De
+o jaanaa.n re aanaa re \threedots
+
+o paake ishaaraa meraa khilatii hai.n kaliyaa.N
+jab se sajan diladaar hai meraa
+o jaanaa.n re aanaa re \threedots
+%
+#endindian
+\endsong
+

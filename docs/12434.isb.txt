@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{ai dil laayaa hai bahaar apano.n kaa pyaar kyaa kahanaa}%
+\film{Kyaa Kehnaa}%
+\year{1999}%
+\starring{Preity Zinta, Chandrachud Singh, Saif Ali Khan, Farida Jalal, Anupan Kher}%
+\singer{Hariharan, Kavita Subramaniam}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+o o o ai dil laayaa hai bahaar apano.n kaa pyaar kyaa kahanaa
+mile ham chhalak uThaa khushii kaa khumaar kyaa kahanaa
+khile khile cheharo.n se aaj ghar hai meraa gul\-e\-gulazaar kyaa kahanaa
+khile khile cheharo.n se \threedots
+
+ham tum yuu.n hii milate rahe.n mahafil yuu.n hii sajatii rahe
+bas pyaar kii yahii ek dhun har subah\-o\-shaam bajatii rahe
+gale me.n mahakataa rahe pyaar bharii baaho.n kaa haar kyaa kahanaa
+khile khile cheharo.n se \threedots
+%
+%Part 3:
+%
+dil kaa ko_ii Tuka.Daa kabhii dil se judaa hotaa nahii.n
+apanaa ko_ii jaisaa bhii ho apanaa hai vo duujaa nahii.n
+yahii vo milan hai jo sachamuch hai dil kaa karaar kyaa kahanaa
+khile khile cheharo.n se \threedots
+
+kuchh apane hii tak yuu.n nahii.n ye hai savaal sabake li_e
+jiinaa hai to jag me.n jiyo banake misaal sabake li_e
+dekho kaisaa mahak rahaa pyaar bharii baaho.n kaa haar kyaa kahanaa
+khile khile cheharo.n se \threedots
+
+jo ho gayaa so ho gayaa logo.n se tuu Daranaa nahii.n
+saathii tere hai.n aur bhii duniyaa me.n tuu tanahaa nahii.n
+saamanaa kare.nge milake chaahe.n das ho.n chaahe.n das hazaar kyaa kahanaa
+khile khile cheharo.n se aaj jag hai meraa meraa gul\-e\-gulazaar kyaa kahanaa
+ho o ho o
+ai dil laayaa hai bahaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kho_e kho_e din hai.n tanhaa tanhaa raat hai ... bas kuchh dino.n kii baat hai}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Sonu Nigam, Anuradha Paudwal}%
+\music{Dabbu Malik}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+aa aa
+kho_e kho_e din hai.n tanhaa tanhaa raat hai
+bas kuchh dino.n kii baat hai
+mil ke bhii nahii.n milate kaisii mulaakaat hai
+bas kuchh dino.n kii \threedots
+
+mausam chhe.De to kyaa dil kare
+dil se kah do naa aahe.n bhare
+ham to hai.n mushkil me.n
+kyaa ho rahaa dil me.n
+kyaa ho rahaa hai dil me.n
+baahar hai.n barasaate.n dha.Dakano.n me.n aag hai
+bas kuchh dino.n kii \threedots
+
+kyuu.N hai kyuu.N hai ye duurii sanam
+pyaar me.n ye bhii hai zaruurii sanam
+ham to mar jaa_e.Nge apane din aa_e.Nge
+jaisaa aalam kal thaa vaisaa aalam aaj hai
+bas kuchh dino.n kii \threedots
+%
+#endindian
+\endsong
+

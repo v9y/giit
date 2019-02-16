@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{pyaar me.n hotaa hai kyaa jaaduu tuu jaane yaa mai.n jaanuu.n}%
+\film{Paapaa Kehte Hain}%
+\year{1996}%
+\starring{Jugal Hansraj, Mayuri Kango, Anupam, Tiku, Javed Khan}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar me.n hotaa hai kyaa jaaduu tuu jaane yaa mai.n jaanuu.n
+rahataa nahii.n kyuu.n dil par qaabuu tuu jaane yaa mai.n jaanuu.n
+pyaar me.n hotaa hai \threedots
+
+gun gun karataa kyuu.n phirataa hai ko_ii bha.nvaraa baago.n me.n
+kyuu.n hotii hai phuul me.n khushbuu tuu jaane yaa mai.n jaanuu.n
+pyaar me.n hotaa hai \threedots
+
+chaa.Ndanii raate.n ho.n to chakorii paagal sii kyo.n hotii hai
+ja.ngal me.n koyal kii kuhuu kuhuu tuu jaane yaa mai.n jaanuu.n
+pyaar me.n hotaa hai \threedots
+
+jaise hariyaalii aur saavan jaise barakhaa aur baadal
+tere li_e mai.n mere li_e tuu tuu jaane yaa mai.n jaanuu.n
+pyaar me.n hotaa hai \threedots
+%
+#endindian
+\endsong
+

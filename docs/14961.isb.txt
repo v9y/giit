@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Kabar kyaa thii ki Gam khaanaa pa.Degaa}%
+\film{Chandni Raat}%
+\year{1949}%
+\starring{Naseer, Shyam, David, Ulhas Parveen, Cukoo}%
+\singer{Rafi, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ra \:	Kabar kyaa thii ki Gam khaanaa pa.Degaa
+	muhabbat karake pachhataanaa pa.Degaa
+sha \:	wafaa_o.n par sitam Dhaanaa pa.Degaa
+	hame.n unase bichha.D jaanaa pa.Degaa
+
+ra \:	na dekhaa jaayegaa Kuun\-e\-tamannaa \-2
+	terii mahafil se ab jaanaa pa.Degaa
+	Kabar kyaa thii ki Gam khaanaa pa.Degaa
+	muhabbat karake pachhataanaa pa.Degaa
+
+sha \:	na thaa maaluum aaye.nge ye din bhii \-2
+	kabhii ronaa kabhii gaanaa pa.Degaa
+	wafaa_o.n par sitam Dhaanaa pa.Degaa
+	hame.n unase bichha.D jaanaa pa.Degaa
+
+ra \:	bhulaa de haa.N bhulaa de yaad unakii \-2
+	yehii ab dil ko samajhaanaa pa.Degaa
+	Kabar kyaa thii ki Gam khaanaa pa.Degaa
+	muhabbat karake pachhataanaa pa.Degaa
+
+sha \:	na nikale.nge agar aramaan dil ke \-2
+	yuu.N hii ghuT\-ghuT ke mar jaanaa pa.Degaa
+	wafaa_o.n par sitam Dhaanaa pa.Degaa
+	hame.n unase bichha.D jaanaa pa.Degaa
+
+#endindian
+\endsong

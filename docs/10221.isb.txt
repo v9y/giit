@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{amiir kii hotii hai ... aaj mere yaar ki shaadii hai}%
+\film{Aadmi Sadak Ka}%
+\year{1977}%
+\starring{Vikram, Zahira, Shatrughan Sinha, Deven Verma, Sujit Kumar, Agha}%
+\singer{Rafi/ Rafi, Ravi, Deven Verma}%
+\music{Ravi}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #10670 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sha \:	amiir se hotii hai gariib se hotii hai
+	duur se hotii hai qariib se hotii hai
+	magar jahaa.N bhii hotii hai ai mere dosto
+	shaadiyaa.N to nasiib se hotii hai
+
+ra \:	aaj mere yaar ki shaadii hai \-2
+	lagataa hai jaise saare sa.nsaar kii shaadii hai
+	aaj mere yaar ki \threedots
+
+	vaqt hai Kuubasuurat ba.Daa shubh lagan muhuurat
+	dekho kyaa Kuub jamii.n hai duulhe.n kii bholii suurat
+	duulhe.n kii bholii suurat
+	Kushii se jhuume.n hai man milaa sajanii ko saajan
+	kaise sa.njog mile hai.n cholii se ba.Ndh gayaa daaman
+	cholii se ba.Ndh gayaa daaman
+
+de \:	o sun mere dilajaanii
+	shuruu ab hone lagii hai na_ii terii zindagaanii
+	Kushii se kyo.n itaraa_e
+	ahaa
+	aaj tuu hame.n nachaa_e
+	vaqt vo aane vaalaa
+	o ho
+	dulhaniyaa tujhe nachaa_e
+	dulhaniyaa tujhe nachaa_e
+ra \:	kisii ke sapano.n ke solah si.ngaar kii shaadii hai
+	aaj mere yaar ki \threedots
+
+	taare to.D\-to.D laa_uu.N tere sahare ko sajaa_uu.N
+	phuul raaho.n me.n bichhaa_uu.N mai.n pyaar ke
+	aaj luu.Ngaa mai.n balaa_e.N duu.Ngaa dil se du_aa_e.N
+	Daal gale me.n baa.Nhe.n ab yaar ke
+	ek chaman se dekho aaj bahaar kii shaadii hai
+	aaj mere yaar ki shaadii hai mere diladaar kii shaadii hai
+	lagataa hai jaise saare sa.nsaar kii shaadii hai
+	aaj mere yaar ki \threedots
+%
+#endindian
+\endsong
+

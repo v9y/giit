@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jogii o jogii haath me.n mere likhaa hai}%
+\film{Kaamchor}%
+\year{1982}%
+\starring{Rakesh Roshan, Jayaprada}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10413 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jogii o jogii haath me.n mere likhaa hai
+ik din mai.n raajaa banuu.Ngaa teraa hii totaa kahataa hai \-2
+jogii o jogii \threedots
+
+har mushkil aasaa.N ho jaa_e dil ko aaraam aa jaa_e \-2
+ajii baat pate kii kahataa huu.N sun le mere jogii jogii
+jogii o jogii \threedots
+
+suuraj ho balavaan tej chandar yaaro.n banataa hai vo sikandar \-2
+##powerful## ho grah sabhii to kar le.nge maal andar jogii
+jogii o jogii \threedots
+
+miTane ko har chiiz miT jaa_e haatho.n se rekhaa na jaa_e \-2
+ajii muTThii me.n hai qismat apanii phir tuu kyo.n ghabaraa_e
+jogii jogii o jogii bhaagy me.n mere likhaa hai
+
+totaa \:	ik din tuu raajaa banegaa
+ki \:	teraa hii totaa kahataa \threedots
+%
+#endindian
+\endsong
+

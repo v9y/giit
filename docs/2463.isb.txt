@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ThaNDii ThaNDii saavan kii phuhaar}%
+\film{Jaagte Raho}%
+\year{1956}%
+\starring{Raj Kapoor, Pradeep Kumar, Nargis, Motilal}%
+\singer{Asha}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Deepak Sabnis
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ThaNDii ThaNDii saavan kii phuhaar
+piyaa aaj khi.Dakii khulii mat chho.Do   \threedots
+aave jho.nke se pagalii bayaar,
+piyaa aaj baatii jalii mat chho.Do   \threedots
+ThaNDii ThaNDii saavan kii phuhaar   \threedots
+
+diye kii jyoti, akhiyo.n me.n laage, diye kii jyoti   \threedots
+diye kii jyoti, akhiyo.n me.n laage,
+palako.n pe nindiyaa savaar
+piyaa aaj baatii jalii mat chho.Do
+ThaNDii ThaNDii saavan kii phuhaar   \threedots
+
+papiihe ne man kii agni bujhaa lii, papiihe ne man kii   \threedots
+papiihe ne man kii agni bujhaa lii, pyaasaa rahaa meraa pyaar
+aave jho.nke se pagalii bayaar,
+piyaa aaj baatii jalii mat chho.Do   \threedots
+ThaNDii ThaNDii saavan kii phuhaar   \threedots
+%
+#endindian
+\endsong
+%

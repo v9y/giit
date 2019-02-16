@@ -1,0 +1,34 @@
+% ITRANS SONG
+
+\startsong
+\stitle{is duniyaa se niraalaa huu.N mai.n jaaduugar matawaalaa huu.N}%
+\film{Raagini}%
+\year{1958}%
+\starring{Kishore, Ashok Kumar, Padmini, Sundar, Achala Sachdev, Iftikhar}%
+\singer{Asha, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+gii \:	is duniyaa se niraalaa huu.N mai.n jaaduugar matawaalaa huu.N
+	mere giit me.n wo jaaduu hai paa.Nv tere ruk jaaye.nge \-2
+	chhip chhip hamako dekhane waalii \-2
+	nain tere muskaaye.nge
+	is duniyaa se niraalaa huu.N mai.n jaaduugar matawaalaa huu.N
+
+aa \:	taan rasiilii gaa kar tuune meraa man laharaayaa re \-2
+	( mai.n to yahii jaanuu.N bas itanaa hii maanuu.N
+	tuune jaaduu aan jagaayaa re ) \-2
+
+	kaise ruuTh sake.nge tujhase jaan ke ham ban jaate hai.n \-2
+gii \:	dekho dekho kaise ham tum \-2
+	ruuTh ke phir man jaate hai.n
+	is duniyaa se niraalaa huu.N mai.n jaaduugar matawaalaa huu.N
+
+#endindian
+\endsong

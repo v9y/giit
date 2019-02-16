@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{aasamaa.N pe chaa.Ndanii kaa ... haa.N to mai.n kyaa kah rahaa thaa}%
+\film{Raajaa Raani}%
+\year{1973}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Mukesh, Lata, Rajesh Khanna}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10797 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mu \:	aasamaa.N pe chaa.Ndanii kaa ek dariyaa bah rahaa thaa
+	haa.N to mai.n kyaa kah rahaa thaa
+
+la :	kah rahe the tum kahaanii jab se aa_ii hai javaanii
+mu \:	ab suno tum baat aage jab se ye aramaan jaage
+raa \:	aaj kaun sii taariiK hai
+la \:	aaj chhabbiis taariiK hai
+	pyaar sapane bun rahaa hai
+mu \:	dekho ko_ii sun rahaa hai
+la \:	maalii hai
+	baaG se kaliyaa.N chun rahaa hai
+mu \:	mai.n to dhokhaa khaa gayaa thaa
+la \:	ha.n ha.n
+
+la \:	yaad karate ye fasaanaa tum mujhe mat bhuul jaanaa
+mu \:	kyaa diivaanaa huu.N mai.n ko_ii
+	jab se merii nii.nd kho_ii
+raa \:	are haa.N ye kaun saa mahiinaa hai
+la \:	janavarii
+	rut suhaanii jhuumatii hai
+raa \:	ye pulis kyuu.N ghuumatii hai
+la \:	ha.n a.n are baabaa tumhe.n nahii.n kisii chor ko Dhuu.NDhatii hai
+	dard\-e\-furaqat sah rahe the
+	haa.N to tum kuchh kah rahe the \-3
+%
+#endindian
+\endsong
+

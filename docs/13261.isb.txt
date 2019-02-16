@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{le ke sahaaraa tere pyaar kaa dekhe rastaa}%
+\film{Naache Naagin Baaje Been}%
+\year{1960}%
+\starring{Kumkum, Chandrashekhar, K N Singh, Helen, Agha, Sundar, Ratna}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10146 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+le ke sahaaraa tere pyaar kaa
+dekhe rastaa teraa haay ko_ii beqaraar saa
+
+khilii to hai Daalii\-Daalii kalii terii yaad kii
+magar tere Gam kaa sholaa lagaataa hai aag sii \-2
+sanam hai suhaanaa zamaanaa ye bahaar kaa
+le ke sahaaraa tere \threedots
+
+dil hii milaa aisaa hamako nasiib se
+bahale na dekhe binaa tujhako kariib se \-2
+kahe hai diivaanaa diivaanaa mai.n huu.N yaar kaa
+le ke sahaaraa tere \threedots
+
+kabhii ghar se baahar aake merii chaahat dekhate
+patharaa ga_e do nainaa terii raah dekhate \-2
+zaraa sun ke jaanaa afasaanaa intazaar kaa
+le ke sahaaraa tere \threedots
+%
+#endindian
+\endsong
+

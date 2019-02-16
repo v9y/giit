@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chhaliyaa meraa naam, chhalanaa meraa kaam}%
+\film{Chhaliya}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhaliyaa meraa naam, chhaliyaa meraa naam
+hi.nduu musalim sikh isaaii sabako meraa salaam
+chhaliyaa meraa\threedots
+
+dekho logo.n zaraa to socho banii kahaanii kaise
+tumane merii roTii chhiinii chhiinii mai.nne paise
+siikhaa tum se kaam huaa mai.n badanaam
+hi.nduu musalim\threedots
+
+rok rahii.n hai.n raahe.n merii nainaa tiikhe\-tiikhe
+ham to khaalii maal ke rasiyaa ishq nahii.n ham siikhe
+jahaa.N bhii dekhaa daam vahii.n nikaalaa kaam
+hi.nduu musalim\threedots
+
+mai.n huu.N galiyo.n kaa shahazaadaa jo chaahuu.N vo le luu.N
+shahazaade talavaar se khele.n mai.n kai.nchii se kheluu.N
+mehanat meraa kaam denaa usakaa kaam
+hi.nduu musalim\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{bahaaro.n ko chaman yaad aa gayaa hai}%
+\film{Mehdi Hassan And Ghulam Ali (Non-Film)}%
+\year{1994}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Rafat Sultan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+bahaaro.n ko chaman yaad aa gayaa hai
+mujhe wo gulabadan yaad aa gayaa hai
+
+lachakatii shaaK ne jab sar uThaayaa
+kisii kaa baa.Nkapan yaad aa gayaa hai
+
+% the following were not in the version I heard
+
+terii suurat ko jab dekhaa hai mai.nne
+uruuch\-e\-fiqr\-o\-fan yaad aa gayaa hai
+
+merii Kaamoshii pe ha.Nsane waalo
+mujhe wo kam\-sukhan yaad aa gayaa hai
+
+mile wo ajanabii ban kar to 'raf_at'
+zamaane kaa chalan yaad aa gayaa hai
+
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jiivan sapanaa TuuT gayaa}%
+\film{Anokha Pyaar}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis, Nalini Jayawant}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Date:Dec 22,2000
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+
+jiivan sapanaa TuuT gayaa
+(tuuT gayaa)\-2
+jiivan sapanaa TuuT gayaa
+(tuuT gayaa)\-2
+jiivan sapanaa TuuT gayaa
+ek musaafir aayaa aake dil kii duniyaa luuT gayaa
+dil kii duniyaa luuT gayaa
+jiivan sapanaa tuuT gayaa \threedots
+
+(man nagarii merii suunii padii thii
+(aashaa ke dvaare pe kab se kha.Dii thii)\-2
+(haath me.n pii kaa aa.Nchal sajanii)\-2
+aate aate chuuT gayaa
+jiivan sapanaa TuuT gayaa \threedots
+
+%
+#endindian
+\endsong
+%

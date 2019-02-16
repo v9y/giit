@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tuu kyaa pyaar karegaa pyaar maine kiyaa}%
+\film{Saahibaan}%
+\year{1993}%
+\starring{Rishi, Madhuri, Sanjay Dutt, Sonu Walia, Bharat Kapoor}%
+\singer{Alka Yagnik}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaa bekadaraa o bedardii oy bekhabaraa 
+tuu kyaa pyaar karegaa pyaar maine kiyaa
+aag ke is dariyaa ko paar maine kiyaa
+
+priit nahii.n kal paraso.n kii
+pyaas hai aTharaa baraso.n kii
+aaj gilaa ye pahalii baar maine kiyaa
+aag ke is dariyaa ko \threedots
+
+ik roz teraa dil Dolegaa
+do bol tuu miiThe bolegaa
+teraa kitanaa i.ntazaar maine kiyaa
+aag ke is dariyaa ko \threedots
+
+ho.nTho.n pe tere chup ke taale
+haatho.n pe mere dard ke chhaale
+pyaar me.n gussaa pahalii baar maine kiyaa
+tuu kyaa pyaar karegaa \threedots
+
+tuu kuchh bhii kahale kahane ko
+is dil me.n tere rahane ko
+chhoTaa saa ik ghar taiyaar maine kiyaa
+aag ke is dariyaa ko \threedots
+%
+#endindian
+\endsong
+

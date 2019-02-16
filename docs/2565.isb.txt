@@ -1,0 +1,61 @@
+% 
+\startsong
+\stitle{dil me.n samaa jaa}%
+\film{Naaz}%
+\year{}%
+\starring{}%
+\singer{Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Safdar 'Aah'}%
+% 
+% Contributor: Neha Desai 
+% Transliterator: Nita
+% Date:2000/01/20
+% Credits: 
+% Comments: A lovely song...The only one in Meena Kapoor's voice. 
+% This soundtrack seems to be full of gems...
+%
+\printtitle
+#indian
+%
+
+
+#(fast paced music followed by fast paced singing of the chorus)#
+
+#chorus:#
+(dil me.n samaa jaa, dil me.n samaa jaa, dil me.n samaa jaa) \- 2
+
+#meena+chorus:#
+(Kaamosh hai jahaa.N madahosh hai fizaa.N) ] \- 2
+(dil me.n samaa jaa, dil me.n samaa jaa, dil me.n samaa jaa) \- 2
+
+#(now the song becomes slows and so does the music)#
+
+#meena:# 
+(aa dil me.n samaa jaa, aa dil me.n samaa jaa) \- 2
+
+#chorus:# 
+hmm..mmm.mmm..mmm..
+
+#meena:#
+ai jaan-e-jahaa.N jaan-e-jigar jaan-e-tamannaa
+sadqe tere dharatii meraa samaan-e-tamannaa
+samaan-e-tamannaa, ai naaz-e-saraapaa
+aa dil me.n samaa jaa \threedots
+
+#chorus#:
+ mm..mm..hmm..mm...mm..
+
+#meena:#
+(sun mast adaa mast nazar mast javaanii) \- 2
+ai jaam-e-muhabbat hame.n ye rakt-r-javaanii
+pii aur pilaa jaa
+aa dil me.n samaa jaa \threedots
+
+#meena+ chorus:#
+aa dil me.n samaa jaa \threedots
+
+%
+#endindian
+\endsong
+%

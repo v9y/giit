@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{terii raaho.n me.n kha.De hai.n dil thaam ke}%
+\film{Chhalia}%
+\year{1960}%
+\starring{Raj Kapoor, Nutan, Rahman, Shobhna Samarth}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11453 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+terii raaho.n me.n kha.De hai.n dil thaam ke
+haay ham hai.n diivaane tere naam ke
+merii a.Nkhiyo.n ke nuur mere dil ke suruur
+chaahe raho duur\-duur tumhe.n paanaa hai zuruur
+terii raaho.n me.n \threedots
+
+baadal barase duniyaa jaane
+a.Nkhiyaa.N barase.n ko_ii na jaane
+dil kii lagii ko dil hii jaane
+terii raaho.n me.n \threedots
+
+kis chhaliyaa pe ye dil aayaa
+patthar se shiishaa Takaraayaa
+na vo apanaa na vo paraayaa
+terii raaho.n me.n \threedots
+%
+#endindian
+\endsong
+

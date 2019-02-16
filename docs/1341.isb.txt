@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{nazaro.n se kah do pyaar me.n milane kaa mausam aa gayaa}%
+\film{Doosra Aadmi}%
+\year{1977}%
+\starring{Rishi Kapoor, Neetu Singh, Rakhee}%
+\singer{Kishore, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Renu Thamma (RTHAMMA@VAX1.UMKC.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+nazaro.n se kah do pyaar me.n milane kaa mausam aa gayaa
+baaho.n me.n baahe.n Daal ke khilane kaa mausam aa gayaa
+
+1) is pyaar se teraa haath lagaa laharaa gae gesuu mere
+kuchh bhii nazar aataa nahii.n mastii me.n mujhe tere pare
+ka.ndhe pe mere zulf ke Dhalane kaa mausam aa gayaa, nazaro.n \threedots
+
+2) tum mil bhii gae phir bhii dil ko kyaa jaane kaisii aas hai
+tum paas ho phir bhii ho.nTho.n me.n jaane kaisii pyaas hai
+ho.nTho.n kii Tha.nDii aag me.n jalane kaa mausam aa gayaa, nazaro.n \threedots
+%
+#endindian
+\endsong
+%

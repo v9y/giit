@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ik bevafaa se pyaar kiyaa}%
+\film{Aawaara}%
+\year{1951}%
+\starring{Cuckoo, Nargis, Raj Kapoor, K N Singh, Prithviraj}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+ik bevafaa se pyaar kiyaa
+us se nazar ko chaar kiyaa
+haay re hamane ye kyaa kiyaa
+haay kyaa kiyaa
+ik bevafaa se    \threedots
+
+bholii suurat vaalaa nikalaa luTeraa
+raat chhupaaye dil me.n mu.N pe saveraa
+...
+haay re hamane ye kyaa kiyaa \threedots
+
+de ga_ii dhokhaa hame.n niilii niilii aa.Nkhe.n
+niilii niilii aa.Nkhe.n
+suunii hai dil kii mahafil bhiigii bhiigii aa.Nkhe.n
+haay bhiigii bhiigii aa.Nkhe.n
+ulfat ka izahaar kiyaa
+us pe dil nisaar kiyaa
+haay re hamane ye kyaa kiyaa
+haay kyaa kiyaa
+ik bevafaa se   \threedots
+
+%
+#endindian
+\endsong
+%

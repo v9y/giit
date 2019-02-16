@@ -1,0 +1,28 @@
+
+%
+\startsong
+\stitle{##verse## aaj kii raat chiraaGo.n kii lau uu.Nchii kar lo}%
+\film{Khamoshi}%
+\year{1969}%
+\starring{Waheeda Rahman, Rajesh Khanna, Dharmendra, Deven Verma}%
+\singer{Aarti Mukherjii}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #12181 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+% this verse is not mentioned in hfgk
+% 
+aaj kii raat chiraaGo.n kii lau uu.Nchii kar lo \-2
+ho sake to dil kii aaG aa.Nchal me.n bhar lo
+apanii aaG me.n jalanaa hogaa
+aaj akele chalanaa hogaa
+andhere me.n jalanaa hogaa
+aaj akele chalanaa hogaa
+%
+#endindian
+\endsong
+

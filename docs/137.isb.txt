@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{ab se pahale to ye dil kii haalat na thii}%
+\film{Nawab Sahab}%
+\year{}%
+\starring{Parakshit Sahni, Tamanna, Om Prakash, Rehana Sultan, Johnny Walker}%
+\singer{Usha}%
+\music{C Arjun}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi <rava0002@gold.tc.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 01/27/1996
+% Credits: Preetham Gopalaswamy <preetham@connectinc.com>
+%	   David Anthony Windsor <daw601@anu.au>
+%
+\printtitle
+#indian
+%
+ab se pahale to ye dil kii haalat na thii
+aaj kyaa ho gayaa, aaj kyaa ho gayaa
+zi.ndagii duusaro.n kii amaanat na thii
+aaj kyaa ho gayaa, aaj kyaa ho gayaa
+
+koii dekhe hame.n, koii chaahe hame.n, aur saraahe hame.n
+ye tamannaa ye Kvaahish ye hasarat na thii, aaj kyaa ho gayaa
+
+apane a.ndaaz par naaz karate the ham hamako apanii kasam
+Gair se baat karane kii furasat na thii aaj kyaa ho gayaa
+%
+#endindian
+\endsong
+%

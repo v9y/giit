@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{are baabaa kyaa chaahiye baaraanaa de}%
+\film{Insaaf/ The Final Justice}%
+\year{1997}%
+\starring{Akshay Kumar}%
+\singer{Akshay Kumar, Shilpa Shetty, Ranjeet, Paresh, Aloknath, Mohan Joshi}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o yaa yaa yaa hum yaa yaa yaa
+are baabaa kyaa chaahiye
+baaraanaa de baaraanaa de 
+
+kab se kha.Daa o yaa yaa yaa
+naa baat ba.Dhaa o yaa yaa yaa
+naa aa.Nkh dikhaa o yaa yaa yaa
+banatii hai kyaa o yaa yaa yaa
+naa kar da.ngaa o yaa yaa yaa
+naa le pa.ngaa
+baaraanaa de \threedots
+
+aise kahaa.n tuu chal dii paisaa nikaal jaldii o o o o
+bachche buu.Dhe aavaaraa dekhe.nge log saare o o o o
+naa kar nakharaa o yaa yaa yaa
+kuchh bol zaraa
+marajii to bataa
+banatii hai kyaa \threedots
+
+dekhe.n hai.n tere jaise kar luu.n yakiin kaise o o o o o o o
+ba.Dii bebaak hai tuu la.Dakii chaalaak hai tuu o_e yaa yaa
+naa ruuTh ke jaa
+naa luuT ke jaa
+de maal meraa
+banatii hai kyaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{govi.ndaa aalaa re aalaa zaraa maTakii sa.mbhaal bR^ijabaalaa}%
+\film{Bluff Master}%
+\year{1963}%
+\starring{Shammi Kapoor, Saira Bano, Pran}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #10929 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	govi.ndaa aalaa re aalaa zaraa maTakii sa.mbhaal bR^ijabaalaa
+ko \:	govi.ndaa aalaa re \threedots
+ra \:	are ek do tiin chaar sa.ng paa.Nch chhaH saat hai.n gvaalaa
+ko \:	are ek do tiin \threedots
+
+ra \:	aa_ii maakhan ke choro.n kii senaa
+ko \:	aa_ii maakhan ke choro.n kii senaa
+ra \:	zaraa bachake sa.mbhal ke jii rahanaa
+ko \:	zaraa bachake sa.mbhal ke jii rahanaa
+ra \:	ba.Dii naTakhaT hai fauj kahii.n aa_ii jo mauj
+	( nahii.n bachane kaa ) \-2 ko_ii bhii taalaa taalaa
+	govi.ndaa aalaa re \threedots
+
+	ho kaisii nikalii hai jhuum ke ye Tolii
+ko \:	ho kaisii nikalii hai jhuum ke ye Tolii
+ra \:	aaj khelegii duudh se ye holii
+ko \:	aaj khelegii duudh se ye holii
+ra \:	bhiige kitanaa bhii a.ng Tha.nDii ho naa uma.ng
+	( pa.De inase ) \-2 kisii kaa na paalaa paalaa
+	govi.ndaa aalaa re \threedots
+%
+#endindian
+\endsong
+

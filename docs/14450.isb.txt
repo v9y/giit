@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{aadhii raat ko khanak gayaa meraa ka.nganaa}%
+\film{Toofan Mein Pyar Kahan}%
+\year{1966}%
+\starring{Ashok Kumar, Nalini, Jaishri Gadkar, Achala Sachdev, Tiwari, Sundar}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10167 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	aadhii raat ko khanak gayaa meraa ka.nganaa \-2
+	kahii.n aa_e ho.n na sajanaa hamaare a.nganaa
+	aadhii raat ko khanak \threedots
+
+	jaa ke sajan se kaare\-kaare badaraa ye to kaho zaraa mere li_e \-2
+	pyaar ke ra.ng me.n ra.ng lii hai maine korii chunar piyaa tere li_e
+	( is ra.ng pe ) \-2 cha.Dhegaa ab ko_ii duujaa ra.ng naa
+	aadhii raat ko khanak \threedots
+
+ra \:	o jii ho sunake khanak ham tere ka.nganaa kii
+	baat hai kyaa pahachaan ga_e \-2
+	kaun pukaare kaise hai.n ishaare jaanane vaale to jaan ga_e
+	( tere saamane ) \-2 kha.De hai.n gorii tere sajanaa
+	chaahe kuchh bhii ho TuuTe na tumhaaraa ka.nganaa
+la \:	aadhii raat ko khanak \threedots
+%
+#endindian
+\endsong
+

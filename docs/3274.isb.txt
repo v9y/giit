@@ -1,0 +1,40 @@
+% ITRANS SONG # 3274; Created on Jan 26, 2004
+%
+%      From: naniwadekar (nani3skip45@hotmail.com)
+%      Date: 2002-11-09 02:54:43 PST
+%
+\startsong
+\stitle{apane na ho sake jo dil kaa qaraar ho kar}%
+\film{Bhaijan}%
+\year{1945}%
+\starring{Noorjehan, Meena, Anees Khatun, Karan Diwan}%
+\singer{Noorjehan/ Zeenat Begum}%
+\music{Shyamsunder}%
+\lyrics{Padatau Lakhanavii}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 09 November 2002
+% Credits: U V Ravindra
+%           Urzung Khan
+% Comments: The song exists in two versions.
+%   Soundtrack version - Noor Jehan
+%   78 rpm version - Zeenat Begum. It is from
+%   this version that the lyrics have been transcribed.
+%
+%   Noor-e-Tarannum #25 (NJ) and Geetanjali (ZB) series.
+%
+\printtitle
+#indian
+%
+apane na ho sake jo      dil kaa qaraar ho kar
+aa.Nkho.n me.n bas gaye hai.n  ra.ng\-e\-bahaar ho kar
+
+pahale na ye Kabar thii     hai maut dil kaa aanaa
+jo phuul khil rahaa thaa    khaTakaa vo Kaar ho kar
+
+ham dil me.n dafn kar ke  sab murdaa hasarato.n ko
+Kaamosh jal rahe hai.n    shamm\-e\-mazaar ho kar
+%
+#endindian
+\endsong
+%

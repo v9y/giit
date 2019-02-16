@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{saajan saajan pukaaruu.N galiyo.n me.n}%
+\film{Saajan}%
+\year{1969}%
+\starring{Manoj Kumar, Asha Parekh,  Om Prakash}%
+\singer{Rafi/ Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11109 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+saajan saajan pukaaruu.N galiyo.n me.n
+kabhii phuulo.n me.n Dhuu.NDhuu.N kabhii kaliyo.n me.n
+saajan saajan \threedots
+
+aise ruuThaa hai bedardii kahaa naa maane
+mere jii kii merii jaa.N kii qadar naa jaane
+mai.n usii zulmii ke nainaa mastaane
+kabhii phuulo.n me.n \threedots
+
+bulabul samajhe hai phuulo.n kaa dil mastaanaa
+bha.Nvare samajhe hai.n kaliyo.n se meraa yaaraanaa
+mai.n to apanaa ruuThaa saajan diivaanaa
+kabhii phuulo.n me.n \threedots
+
+mujhase kahatii hai parvat pe kaalii ghaTaa chhaa\-chhaa ke
+ho raamaa ha.Nsatii hai puurab se havaa aa\-aa ke
+vo chhupaa hai dil me.n aur mai.n jaa\-jaa ke
+kabhii phuulo.n me.n \threedots
+%
+#endindian
+\endsong
+

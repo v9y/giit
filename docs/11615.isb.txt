@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{bhalaa karane vaale bhalaa_ii ki_e jaa}%
+\film{Ghar Sansaar}%
+\year{1958}%
+\starring{Balraj Sahni, Rajendra Kumar, Kumkum, Shammi, Johny Walker}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #10701 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bhalaa karane vaale bhalaa_ii ki_e jaa
+buraa_ii ke badale du_aa_e.N di_e jaa
+bhalaa karane vaale \threedots
+
+chale aa.Ndhiyaa.N Gam ke tuufaan aa_e.N
+tere ye qadam Dagamagaane na paa_e.N
+ghuTe dam to kyaa saa.Ns phir bhii li_e jaa
+buraa_ii ke badale \threedots
+
+gha.Dii do gha.Dii ke hai.n baadal ye kaale
+ye din to hameshaa nahii.n rahane vaale
+sahe jaa sitam aa.Nsu_o.n ko pi_e jaa
+buraa_ii ke badale \threedots
+
+zamaanaa ha.Nse bhuul aisii na karanaa
+ye hai buzadilii teraa maranaa
+ye mat bhuul tuu baap hai aur pati bhii
+tere saath maasuum zindagii bhii
+tere baad duniyaa me.n kyaa unakaa hogaa
+kahaa.N unako jag me.n sahaaraa milegaa
+unhii.n ke li_e muskaraa ke ji_e jaa
+buraa_ii ke badale \threedots
+%
+#endindian
+\endsong
+

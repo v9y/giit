@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pattaa pattaa buuTaa buuTaa, haal hamaaraa jaane hai}%
+\film{Ek Nazar}%
+\year{1972}%
+\starring{Amitabh Bachchan, Jaya Bhaduri}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Mir Taqi Mir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+pattaa pattaa buuTaa buuTaa
+haal hamaaraa jaane hai, pattaa pattaa\threedots
+jaane na jaane gul hii na jaane
+baag to saaraa jaane hai, pattaa pattaa\threedots
+
+koii kisii ko chaahe, to kyuu.n gunaah samajhate hai.n log
+koii kisii kii khaatir, tarase agar to ha.Nsate hai.n log
+begaanaa aalam hai saaraa, yahaa.N to koii hamaaraa
+dard nahii.n pahachaane hai, pattaa pattaa\threedots
+
+chaahat ke gul khile.nge, chalatii rahe hazaar aa.Ndhiyaa.N
+ham to kisii chaman me.n, baa.Ndhe.nge pyaar kaa aashiyaa.N
+ye duniyaa bijalii giraae, ye duniyaa kaa.NTe bichhaae
+ishq magar kab maane hai, pattaa pattaa\threedots
+
+dikhalaae.nge jahaa.N ko, kuchh din jo zindagaanii hai aur
+kaise na ham mile.nge, hamane bhii dil me.n Thaanii hai aur
+abhii matavaale dilo.n kii, muhabbat vaale dilo.n kii
+baat koii kyaa jaane hai, pattaa pattaa\threedots
+%
+#endindian
+\endsong
+%

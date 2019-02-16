@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{raam kaa naam badanaam na karo}% 
+\film{Hare Rama Hare Krishna}%
+\year{1971}%
+\starring{Dev Anand, Zeenat Aman, Mumtaz}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+(dekho ai dIvaano, tum ye kaam nA karo  
+raam kA naam badanaam nA karo, badanAm nA karo  ) \- 2
+
+raam ne ha.Ns kar sab sukh tyAge, tum sab dukh se Dar kar bhaage 
+kR^ishhN ne karm kI riit sikhAI \- 2
+tumane farz se aa.Nkh churaa_ii, o raam duhaa_ii 
+hare kR^ishhNA hare raam ##(chorus)##
+jIvan naam hai kaam kA, aarAm nA karo 
+raam kA naam badanAm nA karo, badanAm nA karo 
+dekho ai dIvaano \threedots
+
+raam ko samajho, kR^ishhN ko jaano, nI.nd se jaago o mastaano 
+jiit lo man ko pa.Dh ke giitaa \- 2
+man hii haaraa to kyA jItaa, to kyA jItaa 
+hare kR^ishhNA hare raam ##(chorus)##
+jIvan ko nashe kA tum gulAm nA karo 
+raam kA naam badanAm nA karo, badanAm nA karo 
+
+dekho ai dIvaano, tum ye kaam nA karo 
+raam kA naam badanAm nA karo, badanAm nA karo 
+%
+#endindian
+\endsong
+%

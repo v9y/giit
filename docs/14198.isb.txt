@@ -1,0 +1,84 @@
+
+%
+\startsong
+\stitle{na_ii zindagii se pyaar kar ke dekh}%
+\film{Shikast}%
+\year{1953}%
+\starring{Dilip Kumar, Nalini Jaywant, Durga Khote, K N Singh}%
+\singer{Rafi, Lata, Chours/ Lata, Chorus}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10821 [V S Rawat], Malini Kanth
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar, Satish Kalra
+% 
+\printtitle
+#indian
+%
+% Part 1:
+%
+ra \:	ho o o
+	na_ii zindagii se pyaar kar ke dekh
+	isake ruup kaa si.ngaar kar ke dekh
+	isape jo bhii hai nisaar kar ke dekh
+	na_ii zindagii se pyaar kar ke dekh
+ko \:	na_ii zindagii se \threedots
+
+ra \:	sach kabhii to ho.nge Kvaab aur Kayaal tere Kvaab aur Kayaal
+ko \:	ho tere Kvaab aur Kayaal
+ra \:	kab talak rahe.nge beqasii ke jaal dil pe beqasii ke jaal
+ko \:	ho dil pe beqasii ke jaal
+ra \:	vaqt sun chukaa hai tere dil kaa haal tere dil kaa haal
+ko \:	vaqt sun chukaa hai tere dil kaa haal tere dil kaa haal
+ra \:	aur chaar din guzaar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+ra \:	isape jo bhii hai nisaar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+
+la \:	dil ke taar chhuu ke gaa rahaa hai kaun giit gaa rahaa hai kaun
+ko \:	ho giit gaa rahaa hai kaun
+la \:	le ke ye bahaare.n aa rahaa hai kaun muskuraa rahaa hai kaun
+ko \:	ho muskuraa rahaa hai kaun
+la \:	tan pe aur man pe chhaa rahaa hai kaun chhaa rahaa hai kaun
+ko \:	tan pe aur man pe chhaa rahaa hai kaun chhaa rahaa hai kaun
+ra \:	apanaa dil kisii pe haar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+ra \:	isape jo bhii hai nisaar kar ke dekh
+ko \:	na_ii zindagii se \threedots
+%
+% Part  2:
+%
+la \:	ho o o
+	na_ii zindagii se pyaar kar ke dekh
+	isake ruup kaa si.ngaar kar ke dekh
+	isape jo bhii hai nisaar kar ke dekh
+	na_ii zindagii se pyaar kar ke dekh
+ko \:	na_ii zindagii se \threedots
+
+la \:	nii.nd se dharatii ko jo jagaayegaa zamii.n ko jo jagaayegaa
+ko \:	zamii.n ko jo jagaayegaa
+la \:	biij aa.Nsuo.n ke jo bichhaayegaa jo mehanate.n luTaayegaa
+ko \:	jo mehanate.n luTaayegaa
+la \:	phuul usake aa.Ngan me.n muskuraayegaa muskuraayegaa
+ko \:	phuul usake aa.Ngan me.n muskuraayegaa muskuraayegaa
+la \:	aur chaar din guzaar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+la \:	isape jo bhii hai nisaar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+
+la \:	gaa rahii hai dharatii giit pyaar ke suhaane giit pyaar ke
+ko \:	suhaane giit pyaar ke
+la \:	din guzar chuke hai.n i.ntazaar ke ho tere i.ntazaar ke
+ko \:	ho tere i.ntazaar ke
+la \:	chup na rah papiihe ye man ko maar ke man ko maar ke
+ko \:	chup na rah papiihe man ko maar ke man ko maar ke
+la \:	aaye.nge piyaa pukaar kar ke dekh
+ko \:	na_ii zindagii se pyaar kar ke dekh
+la \:	aaye.nge piyaa pukaar kar ke dekh
+ko \:	na_ii zindagii se \threedots
+%
+#endindian
+\endsong
+

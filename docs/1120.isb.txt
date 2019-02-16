@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mai.n ne rakhaa hai muhabbat apane afasaane kaa naam}%
+\film{Shabnam}%
+\year{1964}%
+\starring{Mahmood, Vyjayantimala}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Javed Anwar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mai.n ne rakkhaa hai muhabbat apane afasaane kaa naam
+tum bhii kuchh achchhaa saa rakh do apane diivaane kaa naam
+
+kis qadar Kuubasuurat hai tere diidaar kii duniyaa
+merii nazaro.n kii jannat hai zulf\-o\-ruKasaar kii duniyaa
+tumhe.n pahachaanaa hai Kudaa ko samajhaa hai, Kudaa ko jaanaa hai
+
+dil pe tum haath jo rakh do merii taskiin ho jaae
+jaaneman zi.ndagii merii kuchh to ra.ngiin ho jaae
+dil pe tum \threedots  jaaneman zi.ndagii \threedots
+nazar mil jaane do qayaamat aatii hai
+qayaamat aane do, mai.n ne rakkhaa \threedots
+%
+#endindian
+\endsong
+%

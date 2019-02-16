@@ -1,0 +1,58 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{naachuu mai.n gaao tum}%
+\film{Jurmaanaa}%
+\year{1979}%
+\starring{Amitabh, Raakhee, Vinod Mehra}%
+\singer{Asha, R D Burman, Chorus}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: HMV
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 3 Mar 2005
+% Series: GEETanjali, THGHT
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+##RDB##: ek do tiin chaar paa.nch chhe saat aaTh nau das bas
+                  ##hey everybody, come on, let’s play a musical game, will you##
+##Asha##: ( naachuu mai.n gaao tum
+                  gaauu.N mai.n nacho tum ) 2
+                  ham dono milake naache aur dekhe aap
+                  samajhe aap
+                  ##you stop##
+                  naachuu mai.n gaao tum \.\.\.
+
+                  dekhate hii rahanaa nazar ke ishaare
+                  kab kaun jaane naam kisakaa pukaare
+                  laa laa \.\.\.
+                  dekhate hii \.\.\.
+                  samajhe aap
+##RDB##: ##you stop##
+##Asha##: naachuu mai.n gaao tum \.\.\.
+
+                  chun lo saathii jo pasa.nd karo
+                  kabhii khel shuru karo kabhii ba.nd karo
+                  laa laa \.\.\.
+                  chunalo saathii \.\.\.
+                  samajhe aap
+##RDB##: ##you stop##
+##Asha##: naachuu mai.n gaao tum \.\.\.
+
+                  ##I am sorry## o merii sahelii
+                  sab bach gaye pha.ns gayii tuu akelii
+                  laa laa \.\.\.
+                  ##I am sorry## \.\.\.
+                  karanaa maaf
+                  ##you stop##
+                  naachuu mai.n gaao tum \.\.\.
+
+%
+#endindian
+\endsong

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{laharo.n se puuchh lo}%
+\film{Kaafila}%
+\year{1952}%
+\starring{Ashok Kumar, Nalini Jayawant, Motilal}%
+\singer{Lata, Kishore}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Brajendra Gaud}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:1 June,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+lataa:  (laharo.n se puuchh lo)\-2
+        (yaa kinaaro.n se puuchh lo)\-2
+        (phir bhii yakii.n na ho to)\-2
+        sitaaro.n se puuchh lo
+        (laharo.n se puuchh lo)\-2
+
+kishor: ulfat kii umango.n kaa chhoTaa saa qaafilaa
+        chhoTaa saa qaafilaa
+        dha.Dakan kii raah chalake, is dil se jaa milaa
+        is dil se jaa milaa
+lataa:  (phuulo.n kii javaanii ke ubhaaro.n se puuchh lo)\-2
+        (sharamaaye agar phuul to)\-2
+        haaro.n se puuchh lo
+        laharo.n se puuchh lo \threedots
+
+kishor: hasarat hamaarii ek hai, armaaa.N ek hai.n
+        ajii aramaa.N ek hai.n
+        yuu.N ham judaa judaa hai.n magar jaan ek hai
+        magar jaan ek hai
+lataa:  (gulshan kii bahaaro.n se, nazaaro.n se puuchh lo)\-2
+        (jhukatii huii nazar ke)\-2
+        ishaaro.n se puuchh lo
+        laharo.n se puuchh lo \threedots
+
+%
+#endindian
+\endsong
+%

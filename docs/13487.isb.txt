@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{teraa hii pyaar is dil me.n rahegaa ... jiinaa hai bas tere hii sa.ng}%
+\film{Paayal}%
+\year{1992}%
+\starring{Bhagyashri, Himalaya, Farida Jalal, Raju Shreshtha, Arun Bakshi, Tiku}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa hii pyaar is dil me.n rahegaa
+jiinaa hai bas tere hii sa.ng ye teraa aashiq kahegaa
+
+mai.n huu.N banii tere li_e mai.n tere dil me.n rahuu.ngii
+aashiq hai tuu meraa sanam saare jahaa.n se kahuu.ngii
+terii adaa_e.n nii.nd churaa_e.n
+saathii mere ab na kahii.n chain aa_e
+ye terii baate.n ye mulaaqaate.n
+jaan\-e\-jigar ye kabhii na bhuul paa_e.n
+teraa hii pyaar is dil me.n \threedots
+
+merii muhabbat kahatii hai mujhase mere sanam
+chaahat me.n sab kuchh bhulaa duu.n
+pairo.n me.n tere kaa.NTe chubhe.n naa aa jaan\-e\-man
+baaho.n me.n tujhako uThaa luu.n
+mai.n huu.N banii tere li_e mai.n tere dil me.n rahuu.ngii
+aashiq hai tuu meraa sanam saare jahaa.n se kahuu.ngii
+teraa hii pyaar is dil me.n \threedots
+%
+#endindian
+\endsong
+

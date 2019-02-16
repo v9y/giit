@@ -1,0 +1,31 @@
+
+%
+\startsong
+\stitle{kaahe jaaduu kiyaa mujhako itanaa bataa}%
+\film{Naghmaa}%
+\year{1953}%
+\starring{Nadira, Ashok Kumar, Om Prakash, Rupmala, Murad}%
+\singer{Shamshad}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+%
+% Contributor: BOL ANAMOL #10037 [V S Rawat]
+% Transliterator: 
+% Comments: Produced and Directed by lyricist J Nakshab
+% 
+\printtitle
+#indian
+%
+kaahe jaaduu kiyaa mujhako itanaa bataa jaaduugar baalamaa
+mujhako apanii Kabar hai naa dil kaa pataa jaaduugar baalamaa
+
+kyo.n nazar se na ab tak nazar mil sakii
+dil ke parade hii parade me.n bijalii girii
+phir vahii ghun sunaa phir vahii giit gaa
+aisaa naGamaa thaa sunane se dil khi.nch gayaa
+tujhako ta.Dapaane bhaale ho teraa bhalaa
+jaaduugar baalamaa \threedots
+%
+#endindian
+\endsong
+

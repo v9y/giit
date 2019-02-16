@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mere phuulo.n me.n chhipii hai javaanii}%
+\film{Anokha Pyaar}%
+\year{1948}%
+\starring{Dilip Kumar,Nargis,Nalini Jayawant}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Behzad Lucknowi}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Date:Dec 20,2000
+% Credits:
+% Editor:Arunabha Roy
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+
+darada dii ra darada dii ra rara diirii diirii dara rara rii ra aah
+(mere phuulo.n me.n chhipii hai javaanii)\-3
+(mere haaro.n me.n mere gajaro.n me.n)\-2
+koii le lo jii merii nishaanii
+javaanii
+mere phuulo.n me.n\threedots
+
+(ye chamakate hai.n jaise sitaare 
+ye damakate hai.n jaise sharaare)\-2
+(ra.ng inakaa gulaabii shahaanii)\-2
+javaanii
+mere phuulo.n me.n\threedots
+
+(in me.n champaa hai aur hai chamelii)\-2
+(in me.n hai motiyaa hai motiyaa aur juuhii)\-2
+(aaj hai aisii daulat lutaanii)\-2
+javaanii
+mere phuulo.n me.n\threedots
+
+%
+#endindian
+\endsong
+%
+

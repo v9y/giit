@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tumhii.n to merii puujaa ho}%
+\film{Suhagan}%
+\year{1964}%
+\starring{Guru Dutt, Mala Sinha}%
+\singer{Lata, Talat}%
+\music{Madan Mohan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10599 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	tumhii.n to merii puujaa ho haa.N tumhii.n to merii puujaa ho
+	tumhe.n dil me.n basaayaa hai
+ta \:	tumhii.n to merii duniyaa ho haa.N tumhii.n to merii duniyaa ho
+	tumhe.n dil se lagaayaa hai
+	tumhii.n to merii duniyaa \threedots
+
+la \:	ibaadat hai nigaaho.n kii tumhii.n ko dekhate rahanaa
+	terii har baat ko sahanaa
+	tumhii.n to mere saathii ho tumhe.n apanaa banaayaa hai
+	tumhii.n to merii puujaa \threedots
+
+ta \:	tamannaa hai in aa.Nkho.n kii tumhaare hii nazaare ho.n
+	jahaa.N dekhuu.N tumhe.n dekhuu.N hasii.n jalave tumhaare ho.n \-2
+	tumhii.n ne merii ma.nzil ko bahaaro.n se sajaayaa hai
+	tumhii.n to merii duniyaa \threedots
+
+la \:	tumhaare haath me.n hai ab hamaarii laaj kaa aa.Nchal
+	na bah jaa_e kahii.n dekho hamaarii aa.Nkh kaa kaajal \-2
+ta \:	tumhii.n to merii duniyaa \threedots
+la \:	tumhii.n to merii puujaa \threedots
+%
+#endindian
+\endsong
+

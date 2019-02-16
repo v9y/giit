@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ga.ngaa me.n Duubaa na jamanaa me.n Duubaa}%
+\film{Apne Rang Hazaar}%
+\year{1975}%
+\starring{Sanjeev Kumar, Leena Chandrawarkar, Bindu, Kamini Kaushal, Asrani}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11558 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ga.ngaa me.n Duubaa na jamanaa me.n Duubaa
+Duub gayaa re meraa man sajan terii do a.Nkhiyan me.n
+raaho.n me.n khoyaa na baaGo.n me.n khoyaa
+khoyaa meraa baalaapan sajan terii do a.Nkhiyan me.n
+
+taaro.n kaa gahanaa na tan pe sajaa_uu.N
+aa.Nchal me.n bhar luu.N piyaa pyaar teraa
+aise sajuu.N saj ke tujhako rijhaa_uu.N
+laharo.n me.n dekhuu.n na darpaN me.n dekhuu.N
+dekhuu.N mukha.Daa sajan terii do a.Nkhiyan me.n
+ga.ngaa me.n Duubaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{bhuul ho gayii jaane de sajanaa}%
+\film{Zabardast}%
+\year{1985}%
+\starring{Sunny Deol}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Neeraj Deshmukh
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+bhuul ho gayii jaane de sajanaa
+mar jaa_uu.Ngii maan jaa, maan jaa, maan jaa   \threedots
+
+sazaa de in aa.Nkho.n ko, ki ye hai Kataa inakii
+kaahe na pahachaanaa tujhe
+...
+cho chho.D gussaa jaane de sajanaa
+mar jaa_uu.Ngii maan jaa, maan jaa, maan jaa   \threedots
+
+tujhe mai.n na chaahuu.Ngii to kaise na chaahuu.Ngii
+mai.n to diivaanii yaar kii
+gile jo bhii hai.n dil ke, miTaa le gale mil ke
+tujh ko qasam hai pyaar kii
+are maan bhii ja ab jaane de sajanaa
+mar jaa_uu.Ngii maan jaa, maan jaa, maan jaa   \threedots
+
+haa.N chalo maaf karataa huu.N, kahaa to kahaa tumane
+aage na kahanaa phir kabhii
+chalaa jaa_uu.Ngaa varanaa kahii.n tum se itanii duur
+Dhuu.NDhogii saarii zi.ndagii
+ho, aur phir pukaarogii sajanaa
+mar jaa_uu.Ngii maan jaa, maan jaa, maan jaa   \threedots
+
+%
+#endindian
+\endsong
+%

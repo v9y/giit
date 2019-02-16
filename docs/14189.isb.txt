@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{aa_o tumhe.n pyaar karanaa sikhaa_uu.N}%
+\film{Shatranj}%
+\year{1969}%
+\starring{Rajendra Kumar, Waheeda Rahman}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11121 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa_o tumhe.n pyaar karanaa sikhaa_uu.N
+ha.Nsanaa sikhaa_uu.N ronaa sikhaa_uu.N
+phuulo.n kii tarah muskaraanaa sikhaa_uu.N
+kaa.NTo.n me.n rah kar jiinaa sikhaa_uu.N
+aa_o tumhe.n pyaar \threedots
+
+tumhaare hii haatho.n me.n qismat tumhaarii
+zamaane ko jiitegii himmat tumhaarii
+hamaaraa to kyaa hai rahe.n na rahe.n ham
+zamaane ko hogii zaruurat tumhaarii
+aa_o tumhe.n pyaar \threedots
+
+suno laa.Dalo tum ye dil kii kahaanii
+aa_egii zindagii me.n nashiilii javaanii
+zamaane ko dekho chalanaa sa.mbhal ke
+bitaanii hai tumako yah zindagaanii
+kyo.n bachcho.n samajhe
+aa_o tumhe.n pyaar \threedots
+%
+#endindian
+\endsong
+

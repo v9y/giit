@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{aadamii musaafir hai aataa hai jaataa hai}%
+\film{Apnaapan}%
+\year{1977}%
+\starring{Jeetendra, Rina Roy, Sulakshna Pundit, Sanjeev Kumar}%
+\singer{Rafi, Lata/ Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11271 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aadamii musaafir hai aataa hai jaataa hai
+aate\-jaate raste me.n yaade.n chho.D jaataa hai
+
+jho.nkaa havaa kaa paanii kaa relaa \-2
+mele me.n rah jaa_e jo akelaa \-2
+vo phir akelaa hii rah jaataa hai
+aadamii musaafir hai \threedots
+
+kyaa saath laa_e kyaa chho.D aa_e
+raste me.n ham kyaa chho.D aa_e
+ma.nzil pe jaa ke hii yaad aataa hai
+aadamii musaafir hai \threedots
+
+jab Dolatii hai jiivan kii naiyaa
+ko_ii to ban jaataa hai khivaiyaa
+ko_ii kinaare pe hii Duub jaataa hai
+aadamii musaafir hai \threedots
+
+rotii hai aa.Nkh jalataa hai ye dil
+jab apane ghar ke phe.nke diye se
+aa.Ngan paraayaa jagamagaataa hai
+aadamii musaafir hai \threedots
+%
+#endindian
+\endsong
+

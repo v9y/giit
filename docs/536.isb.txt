@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil-e-betaab ko siine se lagaanaa hogaa}%
+\film{Palki}%
+\year{1967}%
+\starring{Rajendra Kumar, Waheeda}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: 
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+r : dil-e-betaab ko siine se lagaanaa hogaa
+aaj pardaa hai to kal saamane aanaa hogaa
+s : aapako pyaar kaa dastuur nibhaanaa hogaa
+dil jhukaayaa hai to sar ko bhii jhukaanaa hogaa
+
+r : apanii suurat ko tu ai jaan-e-vafaa yuu.N na chhupaa
+garmii-e-husn se jal jaaye na aa.Nchal teraa
+lag ga_ii aag to mujh ko hii bujhaanaa hogaa
+aaj pardaa hai to   \threedots
+
+s : aaj aalam hai vo dil kaa ki bataaye na bane
+paas aaye na bane duur bhii jaaye na bane
+mai.N huu.N madhosh mujhe hosh me.n laanaa hogaa
+dil jhukaayaa hai to    \threedots
+
+s : aap to itane qariib aa gaye allaah, taubaa!
+r : kyaa kare.n aap se Takaraa gaye, taubaa, taubaa
+s : ishq in baato.n se rusvaa-e-zamaanaa hogaa
+r : aaj parda hai to   \threedots
+
+%
+#endindian
+\endsong
+%

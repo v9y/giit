@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{jummaa chummaa de de, jummaa chummaa de de chummaa}%
+\film{Hum}%
+\starring{Amitabh, Kimi}%
+\singer{Amitabh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jummaa, jummaa, jummaa, jummaa, jummaa
+jummaa, jummaa jummaa jummaa jummaa jummaa jummaa
+
+are o jummaa, merii jaaneman, baahar nikal
+aaj jummaa hai, aaj kaa vaadaa hai
+dekh mai.n aa gayaa, tuu bhii jaldii aa
+mujhe mat aur ta.Dapaa
+
+are tuu bolii thii pichhale jumme ko
+chummaa duu.ngii agale jumme ko
+aaj jummaa hai to aajaa aajaa 
+jummaa chummaa de de,  jummaa chummaa de de chummaa
+jumme ke din kiyaa chumme kaa vaadaa
+jumme ko to.D diyaa chumme kaa vaadaa
+le aa gayaa re phir jummaa\-chummaa \threedots
+
+jumme ke badale me.n, kyaa doge bolo to
+lenaa kyaa, denaa kyaa, lenaa kyaa, denaa kyaa
+lenaa kyaa lenaa kyaa, chummaa do \threedots
+
+mai.n kuchh na duu.ngaa isase zyaadaa chummaa
+chummaa de de,  jummaa chummaa de de chummaa	\threedots
+kar to na chumme javar jummaa
+chummaa na de,  jummaa chummaa na de chummaa
+jummaa chummaa de de,  jummaa chummaa de de chummaa
+
+mai.n teraa jii bhar duu.N sochaa thaa haa.N kar duu.N
+phir kaahe phir kaahe naa kar dii,  naa kar dii
+phir kaahe naa kar dii
+mai.n sad ke jaan kar duu.N
+mai.n ne badal diyaa iraadaa jummaa
+chummaa na de,  jummaa chummaa naa de chummaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{haay vo paradesii}%
+\film{Barsaat Ki Ek Raat}%
+\year{1981}%
+\starring{Amitabh Bachchan, Raakhee}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 22 Nov 2004
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+haay vo paradesii man me.n
+ho, kaun dishaa se aa gayaa
+
+chaaro.n dishaa_o.n me.n e jii lage laaj ke pahare the
+ho, parbat se bhii uu.Nche uu.Nche the saagar se bhii gahare the
+haay vo paradesii \threedots
+
+mai.n TuuTake phuul sii gir pa.Duu.N naa kisii jholii me.n
+ho, vo le na jaa_e biThaake mujhe naino.n kii Dolii me.n
+haay vo paradesii \threedots
+
+sochuu.N kha.Dii rok paa_ii nahii.n mai.n jise aane se
+ho, jaa_egaa vo to use kaise rokuu.Ngii mai.n jaane se
+haay, haay vo paradesii \threedots
+%
+#endindian
+\endsong

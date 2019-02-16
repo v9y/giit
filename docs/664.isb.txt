@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ham hai.n nashe me.n}%
+\film{Sehra}%
+\year{1963}%
+\starring{Sandhya}%
+\singer{Asha, chorus}%
+\music{Ramlal}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ham hai.n nashe me.n tum ho nashe me.n
+aa.Nkhe.n milii.n hai.n usii kaa nashaa hai
+ham hai.n nashe me.n   \threedots
+
+kal raat dekhaa thaa alabelaa sapanaa
+man chaahe baalam ko paayaa thaa apanaa
+phir mai.n na soyii
+sapano.n me.n khoyii
+aahe.n bharii.n hai.n usii kaa nashaa hai
+ham hai.n nashe me.n   \threedots
+
+nashaa pyaar kaa hai umar bhar rahegaa
+ulfat ke maujo.n me.n ye dil bahegaa
+mai.n ban ke nadiyaa
+laharaa rahii huu.N
+lahare.n uThii.n hai.n usii kaa nashaa hai
+ham hai.n nashe me.n   \threedots
+
+%
+#endindian
+\endsong
+%
+

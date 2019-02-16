@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{raat se kaho ruke zaraa}%
+\film{Lutera}%
+\year{1965}%
+\starring{Prithviraj Kapoor, Dara Singh, Nishi}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10987 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+raat se kaho ruke zaraa \-2
+merii javaanii kaa raqs vo dekhale zaraa
+raat se kaho \threedots
+
+e mere meharabaano.n ye merii baat maano
+phir naa kabhii ye raat aa_egii
+aa_ii bhii jo raat naa ye baat aa_egii
+mai.n aaj huu.N kal kahaa.N
+raat se kaho \threedots
+
+ai muskaraane vaalo.n jii bhar ke muskaraa lo
+jaane phir dil kaa qaraar ho naa ho
+ye jalavaa ye raqs\-e\-bahaar ho naa ho
+jo aaj hai kal kahaa.N
+raat se kaho \threedots
+%
+#endindian
+\endsong
+

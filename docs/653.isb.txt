@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{haath siine pe jo rakh do to qaraar aa jaae}%
+\film{Mirza Saheban}%
+\year{1947}%
+\starring{Noorjehan, Trilok Kapoor, Gulab, Gope}%
+\singer{G M Durrani, Noorjehan}%
+\music{Pt. Amarnath, Husnlal-Bhagatram}%
+\lyrics{Aziz Kashmiri}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@duke.cs.duke.edu> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/16/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org> 
+%
+\printtitle
+#indian
+%
+g: haath siine pe jo rakh do to qaraar aa jaae \-2
+   dil ke uja.De hue gulshan me.n bahaar aa jaae \-2
+
+n: dil to kahataa hai ki aa.Nkho.n me.n chhupaa luu.N tujhako \-2
+   Dar yahii hai ki muqaddar ko nakaar aa jaae \-2
+g: haath siine pe jo rakh do to qaraar aa jaae
+
+g: dil ke zakhmo.n pe mere pyaar kaa mar.hham rakh do \-2
+   beqaraarii to mujhe kuchh to qaraar aa jaae \-2
+   haath siine pe jo rakh do to qaraar aa jaae
+
+n: yuu.N Kudaa ke li_e chhiino na mere hosh\-o\-havaas \-2
+   aisii nazaro.n se na dekho ki Kumaar aa jaae
+g: haath siine pe jo rakh do to qaraar aa jaae
+
+g: chho.D ke tum bhii chale jaaogii qismat kii tarah \-2
+   baad\-azaane to ajal hii ko na pyaar aa jaae \-2
+
+   haath siine pe jo rakh do to qaraar aa jaae
+   dil ke uja.De hue gulshan me.n bahaar aa jaae
+%
+#endindian
+\endsong
+%
+

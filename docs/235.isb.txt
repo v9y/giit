@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ba.nsii kii dhun sun}%
+\film{Taj}%
+\year{}%
+\starring{Pradeep Kumar}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+ba.nsii kii dhun sun tere liye chun chun
+laayi huu.N mai.n bagiyaa se gorii gorii kaliyaa.N
+nikalii huu.N chup chup, ghar se mai.n luk chhup
+aayii huu.N sajaane balam terii galiyaa.N
+
+bhole sajan tere dil kii jalan
+mai.n to jaan gayii, jaan gayii, jaan gayii re
+terii nazar kise Dhuu.NDhe idhar 
+mai.n to jaan gayii, jaan gayii, jaan gayii re
+terii miiThii nazar pahachaan gayii re
+duniyaa se bach bach
+kahatii huu.N sach sach
+aayii huu.N    \threedots
+
+baa.Nkii palak yah salonii jhalak
+mohe maar gayii, maar gayii, maar gayii re
+tere kasam yah suuratiyaa balam mohe
+mohe maar gayii, maar gayii, maar gayii re
+mai.n to baiThe biThaaye jiyaa haar gayii re
+dil meraa pal pal 
+kahataa thaa chal chal
+aayii huu.N    \threedots
+
+%
+#endindian
+\endsong
+%

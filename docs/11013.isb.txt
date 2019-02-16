@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aksar is duniyaa me.n a.njaane milate hai.n}%
+\film{Dhadkan/ Never Break A Heart}%
+\year{2000}%
+\starring{Sunil Shetty, Akshay Kumar, Shilpa Shetty, Mahima Chaudhary}%
+\singer{Alka Yagnik, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+aksar is duniyaa me.n a.njaane milate hai.n
+a.njaanii raaho.n me.n mil ke kho jaate hai.n
+lekin hameshaa vo yaad aate hai.n
+aksar is duniyaa me.n \threedots
+
+aa.Nkho.n se baat hotii hai
+dha.Dakan bhii saath hotii hai
+ko_ii naa samajhe ye ishq kii zubaa.n
+dhiire dhiire se vo dil me.n bas jaate hai.n
+chorii chorii se vo dil ko churaate hai.n
+phir ek din vo bichha.D jaate hai.n
+aksar is duniyaa me.n \threedots
+
+tar ram pam taar pam taa raa raa raa raa raa
+ye dil to pyaar maa.nge hai
+sachchaa diladaar maa.nge hai.n
+jaane.n mohabbat mile kise kahaa.n
+jab aisii raato.n me.n diivaane milate hai.n
+nazare.n Takaraatii hai.n phir dil dha.Dakate hai.n
+chaahat ke afasaane ban jaate hai.n
+aksar is duniyaa me.n \threedots
+%
+#endindian
+\endsong
+

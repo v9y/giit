@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{tujhe pyaar karate hai.n karate rahe.nge}%
+\film{April Fool}%
+\year{1964}%
+\starring{Saira Bano, Bisvajiit, Jayant, Sajjan}%
+\singer{Rafi, Suman}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10959 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tujhe pyaar karate hai.n karate rahe.nge
+	ki dil banake dil me.n dha.Dakate rahe.nge
+su \:	teraa naam le\-le ke jiite rahe.nge \-2
+	teraa naam le\-le ke marate rahe.nge \-2
+ra \:	tujhe pyaar karate \threedots
+
+	( tujhe bhuul jaa_uu.N ye mumakin nahii.n hai
+	kahii.n bhii rahuu.N meraa dil to yahii.n hai ) \-2
+	guzarane ko ye din guzarate rahe.nge
+	ki dil banake dil \threedots
+
+su \:	( hasii.n phuul kii zindagaanii bhii kyaa hai
+	abhii ha.Ns rahaa thaa abhii ro rahaa hai ) \-2
+	jo guzare Kushii me.n vahii zindagii hai
+	nahii.n to ye duniyaa ba.Dii besurii hai
+	terii dhun me.n banate sa.Nvarate rahe.nge	
+	teraa naam le\-le ke jiite \threedots
+ra \:	tujhe pyaar karate \threedots
+
+	( agar mar gayaa ruuh aayaa karegii
+	tujhe dekh kar giit gaayaa karegii ) \-2
+	mujhe dekh kar tum na aa.Nsuu bahaanaa
+	bas itanii gujaarish hai tum muskaraanaa
+	tere pyaar me.n ra.ng bharate rahe.nge
+	ki dil banake dil \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chaudahavii.n kaa chaa.Nd ho yaa aafataab ho}%
+\film{Chaudhvin Ka Chaand}%
+\year{1960}%
+\starring{Guru Dutt, Waheeda Rahman, Rahman, Johnny Walker}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Suneeta Aggarwal (suneeta@tss.com)
+%          [posted by nasir (noor@muug.mb.ca])
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chaudahavii.n kaa chaa.Nd ho, yaa aafataab ho
+jo bhii ho tum khudaa ki qasam, laajavaab ho
+
+zulfe.n hai.n jaise kaa.Ndhe pe baadal jhuke hue
+aa.Nkhe.n hai.n jaise may ke payaale bhare hue
+mastii hai jisame pyaar kii tum, vo sharaab ho
+chaudahavii.n kaa \threedots
+
+cheharaa hai jaise jhiil me khilataa huaa ka.nval
+yaa zi.ndagii ke saaj pe chhe.Dii huii gazal
+jaane bahaar tum kisii shaayar kaa Kvaab ho
+chaudahavii.n kaa \threedots
+
+ho.nTho.n pe khelatii hai.n tabassum kii bijaliyaa.N
+sajade tumhaarii raah me.n karatii hai.n kaikashaa.N
+duniyaa\-e\-husn\-o\-ishq kaa tum hii shabaab ho
+chaudahavii.n kaa \threedots
+%
+#endindian
+\endsong
+%

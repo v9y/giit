@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{kyaa tum mujhase pyaar karate ho ... haa.N kasam se kasam kii kasam}%
+\film{Naajaayaz}%
+\year{1995}%
+\starring{Naseeruddin, Juhi, Ajay Devgan, Deepak Tijori, Reema Lagu, Ashish Vidyarthi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	dil kii baat labo.n pe laa_uu.N
+	aajaa tujhako aaj bataa_uu.N
+
+a \:	kyaa tum mujhase pyaar karate ho
+	kyaa tum mujhape dil se marate ho
+ku \:	haa.N kasam se kasam se haa.N kasam se kasam kii kasam kasam se
+	sanam ham janam janam se tumape marate hai.n
+	kyaa tum mujhase pyaar karatii ho
+	kyaa tum mujhape dil se maratii ho
+a \:	haa.N kasam se kasam se haa.N kasam se kasam kii kasam kasam se
+	sajan ham janam janam se tumape marate hai.n
+
+ku \:	kyaa hotaa hai dil kaa churaanaa tuune jaanam kaise jaanaa
+	tuu to hasiinaa hai ba.Dii kamasin kaise aayaa aa.Nkhe.n churaanaa
+a \:	kaliyo.n ne khilanaa kaise jaanaa maujo.n ne milanaa kaise jaanaa
+	solah saavan sikhaa ga_e hai.n mujhako bhii to aa.Nkh churaanaa \-2
+	kyaa chhup chhup diidaar karate ho
+	meraa i.ntazaar karate ho
+ku \:	haa.N kasam se kasam se haa.N kasam se kasam kii kasam kasam se
+	sanam ham kadam kadam i.ntazaar karate hai.n
+a \:	haa.N kasam se kasam se \threedots
+
+	kab tak ham tumhe.n achchhe lage.nge kab tak aa.Nkhe.n chaar karoge
+	bolo kab tak dil na bharegaa kab tak tum hame.n pyaar karoge
+ku \:	lagatii ho tum itanii pyaarii umar bhar tumhe.n dekhaa kare.nge
+	pyaar hai jab tak is duniyaa me.n tab tak ham tum pyaar kare.nge \-2
+	ham pe etabaar karatii ho
+	kyaa tum ye ikaraar karatii ho
+a \:	haa.N kasam se kasam se haa.N kasam se kasam kii kasam kasam se
+	sajan ham kadam kadam etabaar karate hai.n
+ku \:	haa.N kasam se \threedots
+%
+#endindian
+\endsong
+

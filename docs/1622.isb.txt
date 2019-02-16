@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{shamaa kaa jalanaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Saigal}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator:
+%
+\printtitle
+#indian
+%
+shamaa kaa jalanaa hai yaa sozish-e-paravaanaa hai
+cha.nd lafzo.n me.n yahii ishq kaa afasaanaa hai
+
+ye junuu.N hai ki yahaa.N tak meraa ba.Dh jaaye junuu.N
+ha.Nsake siimaab na ye kah de ki ye diivaanaa hai
+
+dil shikastaa liye baiThaa hai uma.ngo.n kaa hujuum
+ek TuuTe hue paimaane me.n maiKaanaa hai
+
+haa.N balaa dil kaa tasallii ke liye hai hasarat
+yahii saaGar yahii shiishaa, yahii paimaanaa hai
+
+%
+#endindian
+\endsong
+%
+

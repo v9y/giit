@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{raa.njhaNaa ve raa.njhaNaa sajan mere saajanaa mai.n jaane duu.ngii aaj naa}%
+\film{Hindustaan Ki Qasam}%
+\year{1999}%
+\starring{Amitabh bachchan, Ajay Devgan, Manisha Koirala, Sushmita Sen}%
+\singer{Alka Yagnik, Chorus}%
+\music{Sukhwinder Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sau janam intazaar hotaa hai tab kahii.n jaake pyaar hotaa hai
+har kisii ko to dil nahii.n dete pyaar bas ek baar hotaa hai
+
+raa.njhaNaa ve raa.njhaNaa raa.njhaNaa ve raa.njhaNaa
+sajan mere saajanaa mai.n jaane duu.ngii aaj naa
+mai.n terii hiir huu.N tuu meraa raa.njhaNaa
+raa.njhaNaa ve raa.njhaNaa \threedots
+
+aajaa tujhe mai.n baa.ndh luu.n apanii zulfo.n kii za.njiir se
+teraa rastaa rok paa_ii merii laaj naa saajanaa raa.njhaNaa raa.njhaNaa
+sajan mere saajanaa \threedots
+
+tuu pyaar kaa raajaa sahii mai.n kam nahii.n terii raanii huu.N mai.n
+mere dil pe raaj haa.n chalegaa teraa raa.njhaNaa saajanaa raa.njhaNaa raa.njhaNaa
+sajan mere saajanaa \threedots
+%
+#endindian
+\endsong
+

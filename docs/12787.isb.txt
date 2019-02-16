@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{andekhii anjaanii sii ... andekhaa anjaanaa saa}%
+\film{Mujhse Dosti Karoge}%
+\year{2002}%
+\starring{Hritik Roshan, Kareena Kapoor, Rani Mukherjee}%
+\singer{Lata, Udit Narayan}%
+\music{Rahul Sharma}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+he he he he he ai he he he aa haa haa haa
+aa haaa laa laa laa laa laa la laa
+andekhii anjaanii sii pagalii sii diivaanii sii
+jaane vo kaisii hogii re
+chorii se chupake chupake baiThii hai dil me.n chhupake
+jaane vo kaisii hogii re
+
+andekhaa anjaanaa saa pagalaa saa diivaanaa saa
+jaane vo kaisaa hogaa re
+chorii se chupake chupake baiThaa hai dil me.n chhupake
+jaane vo kaisaa hogaa re
+he andekhii anjaanii sii \threedots
+
+mere khayaalo.n me.n naa jaane kitanii tasviire.n banane lagii.n
+he he he bas aasamaano.n par do dilo.n kii takadiire.n banane lagii.n
+ho bin dekhe hai aisii bechainii taubaa
+oy rabbaa dekhaa to jaane kyaa hogaa
+sapano.n me.n aane vaalii nii.nde.n churaane vaalii
+jaane vo kaisii hogii re
+ho palako.n ke uupar niiche dil kii dha.Dakan ke piichhe
+jaane vo kaisaa hogaa re
+andekhii anjaanii sii \threedots
+
+naa jaane kyaa hogaa kyaa naa hogaa pahalii mulaakaat me.n
+he he he kaise chhupaa_uu.Ngii chaa.Nd ko mai.n us chaa.Ndanii raat me.n
+bas ab to mai.n us kaa ghuu.NghaT kholuu.Ngaa
+chupake se dekhuu.Ngaa kuchh naa boluu.Ngaa
+ho_y ho_y ho_y ye bechainii o_y o_y o_y ye betaabii
+jaane vo kaisaa hogaa re
+ho jis ko dekhaa naa baraso.n dekhuu.Ngaa mai.n kal paraso.n
+jaane vo kaisii hogii re
+andekhaa anjaana saa \threedots
+%
+#endindian
+\endsong
+

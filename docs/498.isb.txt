@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{dil kaa bha.nvar kare pukaar, pyaar kaa raag suno}%
+\film{Tere Ghar Ke Saamne}%
+\year{1963}%
+\starring{Dev Anand, Nutan}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Udit Batra (ubatra@phoenix.Princeton.EDU)
+%          Arati Deo (arati@taj.rice.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Nita Awatramani
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil kaa bha.nvar kare pukaar
+pyaar kaa raag suno, pyaar kaa raag suno re
+
+phuul tum gulaab kaa
+kyaa javaab aapakaa
+jo adaa vo bahaar hai
+aaj dil kii bekalii, aa gaI zabaan par
+baat ye hai tumase pyaar hai
+dil tumhii.n ko diyaa re
+pyaar kaa raag suno re \threedots
+dil kaa bha.nvar \threedots
+
+chaahe tum miTaanaa, par na tum giraanaa
+aa.Nsuu kii tarah nigaah se
+pyaar ki u.NchaaI
+ishq ki gaharaaI
+puuchh lo hamaarii aah se
+aasamaa.N chhuu liyaa re
+pyaar kaa raag suno re
+dil kaa bha.nvar \threedots
+
+is hasiin utaar pe ham na baiThe haar ke
+saayaa ban ke saath ham chale
+aaj mere sa.ng to guu.Nje dil kii aarazuu
+tujhase merii aa.Nkh jab mile
+jaane kyaa kar diyaa re
+pyaar kaa raag suno \threedots
+
+aap kaa ye aa.Nchal, pyaar kaa ye baadal
+phir hame.n zamii.n pe le chalaa
+ab to haath thaam lo, ik nazar kaa jaam do
+is naye safar kaa vastaa
+tum mere saaqiyaa re
+pyaar kaa raag suno re, uu uu uu   \threedots
+%
+#endindian
+\endsong
+%

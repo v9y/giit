@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{##verse## Gam is qadar ba.Dhe ke mai.n ghabaraa ke pii gayaa}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Waheeda, Mala Sinha, Rahman}%
+\singer{Rafi, Male voice, Female voice}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12209 [V S Rawat]
+%
+\printtitle
+#indian
+%
+Gam is qadar ba.Dhe
+ke mai.n ghabaraa ke pii gayaa
+is dil kii bebasii pe
+taras khaa ke pii gayaa
+
+Thukaraa rahaa thaa 
+
+##female voice## \:	achchhaa to ye shaayar bhii hai.n
+
+% rafi continues the recitation in background
+
+##male voice## \:	shaayar
+	are tum dekhatii nahii.n usakii ko_ii
+	paa.Nch Tan nazme.n us ke sar ke piichhe pa.Dii hai.n
+
+mujhako
+ba.Dii der se jahaa.N
+
+Thukaraa rahaa thaa mujhako
+ba.Dii der se jahaa.N
+( mai.n aaj sab jahaan ko
+Thukaraa ke pii gayaa ) \-2
+%
+#endindian
+\endsong
+

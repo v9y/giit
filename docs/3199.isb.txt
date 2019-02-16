@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{shamaa pe aake o paravaane}%
+\film{Meenar}%
+\year{1954}%
+\starring{Bharat Bhushan, Beena Roy}%
+\singer{Asha, chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contirbutor: Prithviraj Dasgupta
+% Date: Dec 14, 2000
+%
+\printitle
+#indian
+%
+
+aa: shamaa pe aake o paravaane
+    jal
+ko: jal
+aa: jal
+ko: jal jal jal jal
+aa: pyaar ke raste ha.Nsate ha.Nsate
+    chal
+ko: chal
+aa: chal
+ko: chal chal chal chal
+ 
+aa: pa.nkh jale.nge Kaak banegii
+    jalake muhabbat paak banegii
+    soch na muurakh biit rahaa hai
+    pal
+ko: pal
+aa: pal
+ko: pal pal pal pal
+ 
+aa: mahafil kaa yuu.N ra.ng jamaa de
+    tan ko apane aag lagaa de
+    terii raaK se shammaa banegii
+    kal
+ko: kal
+aa: kal
+ko: kal kal kal kal
+ 
+aa: tho.Dii sii ab raat hai baakii
+    shiishe.n khaalii so gayaa saakii
+    pyaar kii Gaafil apanii a.Nkhiyaa.N
+    mal
+ko: mal
+aa: mal
+ko: mal mal mal mal
+
+%
+#endindian
+\endsong
+%

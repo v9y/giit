@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{luT ga_e ho pyaar me.n tere luT ga_e ho}%
+\film{Chhoti Bhabhi}%
+\year{1950}%
+\starring{Karan Deewan, Nargis, Shyam, Kuldeep, Shyama, Yaqub}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10401 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+luT ga_e luT ga_e luT ga_e ho
+pyaar me.n tere luT ga_e ho \-2
+
+aa.Nkho.n me.n aa.Nsuu bahate hai.n \-2
+ham chup hai.n aa.Nsuu kahate hai.n
+luT ga_e luT ga_e \threedots
+
+to.D diyaa dil tuune meraa \-2
+zaalim yahii pyaar thaa teraa
+luT ga_e luT ga_e \threedots
+
+do lafzo.n kaa meraa fasaanaa
+ik teraa aanaa ik teraa jaanaa
+aanaa thaa Kushiyo.n kaa ishaaraa
+jaane par dil ro ke pukaaraa \-3
+luT ga_e luT ga_e \threedots
+%
+#endindian
+\endsong
+

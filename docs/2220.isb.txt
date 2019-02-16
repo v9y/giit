@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{Takaraa gayaa tum se dil hii to hai}%
+\film{Aan}%
+\year{}%
+\starring{Dilip Kumar}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Pavan Kumar Desikan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+dil ko huaa tum se pyaar, ab hai tumhe.n iKtiyaar
+chaahe banaa do, chaahe miTaa do
+
+Takaraa gayaa tum se dil hii to hai
+roye na ye kyo.n ghaayal hii to hai
+ghaayal hii to hai   \threedots
+
+vo pyaar se nafarat karate hai.n
+ham hai.n ke unhii.n pe marate hai.n
+ab kaise nibhe mushkil hii to hai
+Takaraa gayaa tum se   \threedots
+
+bedad.r ko ai dil yaad na kar
+ta.Dape jaa yuu.N hii, fariyaad na kar
+kyo.n raham kare, qaatil hii to hai
+Takaraa gayaa tum se   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{chaa.Ndanii chaa.Nd se hotii hai}%
+\film{Aaj Ka Mahaatmaa}%
+\year{1976}%
+\starring{Randhir Kapoor, Rekha, Ranjeet,  Bindu, Jivan}%
+\singer{Kishore, Asha}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11566 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+chaa.Ndanii chaa.Nd se hotii hai sitaaro.n se nahii.n
+pyaar bhii ek se hotaa hai hazaaro.n se nahii.n
+phir bhii bulabul se milo aaj bahaaro.n se nahii.n
+ye nazar tumase hai aabaad nazaaro.n se nahii.n
+chaa.Ndanii chaa.Nd se \threedots
+
+maine tumako nahii.n samajhaa thaa Kataavaar huu.N mai.n
+jo sazaa chaaho mujhe de do Gunaahagaar huu.N mai.n
+ab to za.njiiro.n se baa.Ndho.n mujhe haaro.n se nahii.n
+badalaa lete to magar apane hii pyaaro.n se nahii.n
+chaa.Ndanii chaa.Nd se \threedots
+
+paas bhii tum ho aur aa.Nkho.n me.n nashaa chamake bhii
+ho to jaatii hai Galat baat ko_ii hamase bhii
+shoKiyaa.N kiije magar pyaar ke maaro.n se nahii.n
+tab naa khul paa_e to kah duu.Ngii ishaaro.n se nahii.n
+chaa.Ndanii chaa.Nd se \threedots
+
+Duubakar hamako in aa.Nkho.n me.n rah jaane do
+aaj baa.Nho.n kii inhii.n laharo.n me.n bah jaane do
+aaj qaabuu me.n ham aa_e.Nge hazaaro.n se nahii.n
+apanaa tuufaan se rishtaa hai kinaaro.n se nahii.n
+chaa.Ndanii chaa.Nd se \threedots
+%
+#endindian
+\endsong
+

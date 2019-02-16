@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jiine kaa Dha.ng sikhaaye jaa}%
+\film{Parwaana}%
+\year{1947}%
+\starring{Saigal, Suraiya}%
+\singer{Saigal}%
+\music{Khemchand Prakash}%
+\lyrics{D N Madhok}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ek phuul ha.ns ke baaG me.n kaliyaa.N khilaaye jaa
+shabanam ke ashk apanii ha.Nsii me.n chhupaaye jaa
+
+jiine kaa Dha.ng sikhaaye jaa
+kaa.NTo.n kii nok par kha.Daa muskuraaye jaa
+jiine kaa Dha.ng sikhaaye jaa \threedots
+
+bha.Nvare ne tere kaano.n me.n kuchh gunagunaa diyaa
+ye kah ke raaz\-e\-zi.ndagii tujhako bataa diyaa
+rote hue jahaan me.n tuu muskuraaye jaa, tuu muskuraaye jaa
+jiine kaa Dha.ng sikhaaye jaa \threedots
+
+bulabul kii sadaa_o.n me.n bhii paiGaam yahii hai
+koyal kii piihakuu subah shaam yahii hai
+o ha.Nsate hue phuul tere husn pe sadaqe
+patajha.D me.n kyaa kare koii itanaa bataaye jaa
+jiine kaa Dha.ng sikhaaye jaa \threedots
+
+%
+#endindian
+\endsong
+%

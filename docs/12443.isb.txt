@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{ye la.Dakaa hai diivaanaa hai diivaanaa}%
+\film{Kuchh Kuchh Hotaa Hai}%
+\year{1998}%
+\starring{Shahrukh, Kajol, Rani Mukherji, Salman, Farida, Anupam}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye kaisaa la.Dakaa hai tu tu tu ru
+ye kaisii la.Dakii hai tu tu tu ru
+isakaa mai.n kyaa karuu.n
+isakaa mai.n kyaa karuu.n
+ye la.Dataa hai haa.N haa.N
+aka.Datii hai he he
+jhaga.Dataa hai biga.Datii hai
+diivaanaa hai diivaanii hai
+##But he is your best friend. Yeah.##
+##But she is your best friend. Yeah.##
+
+haay haay re haay ye la.Dakaa
+haay haay re haay ye he
+karataa naadaaniyaa.N kyuu.N puuchho to haay yo
+kabhii ye hamase la.Dataa hai kabhii jhaga.Dataa hai
+ko_ii paas isake naa aanaa
+ye la.Dakaa hai diivaanaa hai diivaanaa
+
+haay haay re haay ye la.Dakii
+haay haay re haay
+karatii naadaaniyaa.N kyuu.N puuchho to haay
+kabhii ye hamase la.Datii hai kabhii aka.Datii hai
+karo duur se chhe.Dakhaanii
+ye la.Dakii hai diivaanii hai diivaanii
+
+isakii baate.n yahii jaane ko_ii bhii to jaane naa
+aisii vaisii kaisii hai ye ko_ii pahachaane naa
+to bhaago o yaaro.n kar naa de shaitaanii
+ye la.Dakii hai diivaanii \threedots
+
+aate jaate chhe.De hamako ke maane naa ye kahanaa
+dekho dekho paagal hai ye haa.N bachake zaraa rahanaa
+ye aisaa hai phir bhii apanaa isako maanaa
+ye la.Dakaa hai diivaanaa \threedots
+%
+#endindian
+\endsong
+

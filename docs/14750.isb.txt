@@ -1,0 +1,54 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ThaNDii pawan chale saa.Njh Dhale}%
+\film{Footpath}%
+\year{1953}%
+\starring{Dilip Kumar, Meena Kumari, Romesh Thapar}%
+\singer{Talat, Premlata, Ashima Banerjee}%
+\music{Khaiyyam}%
+\lyrics{Sardar Jafri, Majrooh}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 31 Jul 2004
+% Credits: Urzung Khan
+
+\printtitle
+#indian
+
+% both females:
+	ThaNDii pawan chale
+	saa.Njh Dhale
+	kuu\-kuu koyal bole
+	jiyaa Dole jiyaa Dole
+
+% all three
+	pawan chale
+
+ta \:	( pyaare\-pyaare baal sa.Nwaare
+	shaam aa_ii le ke nazaare ) \-2
+
+% both females:
+	niile\-niile piile\-piile \-2
+	dekho gagan me.n bhii phuul khile
+
+% all three
+	pawan chale
+
+% both females:
+	( chandaa\-taare kare.n ishaare
+	aa_o khele.n hame.n pukaare ) \-2
+
+ta \:	kah do chunnuu, kah do munuu \-2
+	raat hone ko hai ham chale
+
+% all three
+	pawan chale
+
+	ThaNDii pawan chale
+	saa.Njh Dhale
+	kuu\-kuu koyal bole
+	jiyaa Dole jiyaa Dole
+	pawan chale
+
+#endindian
+\endsong

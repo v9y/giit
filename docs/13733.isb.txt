@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tuufaan saa zor hai ham me.n ... har pyaare ko pyaar se bharanaa hai}%
+\film{Road}%
+\year{2002}%
+\starring{Vivek Oberoi, Manoj Bajpai, Antaraa mali}%
+\singer{KayKay, Sunidhi Chauhan}%
+\music{Sandesh Shandilya}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+tuufaan saa zor hai ham me.n
+bijalii saa shor hai ham me.n
+are baadalo.n ko chiir ke jaanaa hi
+har pyaare ko pyaar se bharanaa hai
+
+samu.ndar saa josh hai ham me.n
+maujo.n saa hosh hai ham me.n
+dharatii pe chaa.Nd ko laanaa hai
+har pyaare ko \threedots
+
+piichhe ke raaste miTaate hu_e aage nikal jaa_e.Nge
+chalate chalate saare jahaa.N ko apanii dhun pe nachaa_e.Nge
+bava.nDar sii jaan hai ham me.n
+pari.ndo.n sii u.Daan hai ham me.n
+aasamaan ko chhuu kar aanaa hai
+har pyaare ko \threedots
+
+jhukate nahii.n hai.n ham kisii ke aage ye tum jaan lo
+ham saa nahii.n hai ko_ii jahaa.N me.n baat ye maan lo
+chaTTaano.n saa rob hai ham me.n
+iraade bhii Thos hai.n ham me.n
+bijalii se haath milaanaa hai
+har pyaare ko \threedots
+%
+#endindian
+\endsong
+

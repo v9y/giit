@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{gulaabii aa.Nkhe.n jo terii dekhii.n sharaabii ye dil}%
+\film{The Train}%
+\year{1970}%
+\starring{Rajesh Khanna, Nanda}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10806 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+gulaabii aa.Nkhe.n jo terii dekhii.n sharaabii ye dil ho gayaa
+sa.mbhaalo mujhako o mere yaaro.n sa.mbhalanaa mushkil ho gayaa
+gulaabii aa.Nkhe.n jo \threedots
+
+dil me.n mere Kvaab tere tasviire.n jaise ho.n diivaar pe
+tujhape fidaa mai.n kyuu.N hu_aa aataa hai gussaa mujhe pyaar pe
+mai.n luT gayaa maan ke dil kaa kahaa
+mai.n kahii.n kaa naa rahaa kyaa karuu.N mai.n dilarubaa
+buraa ye jaaduu terii aa.Nkho.n kaa ye meraa qaatil ho gayaa
+gulaabii aa.Nkhe.n jo \threedots
+
+maine sadaa chaahaa yahii daaman bachaa luu.n hasiino.n se mai.n
+terii qasam Kvaabo.n me.n bhii bachataa phiraa naazaniino.n se mai.n
+taubaa magar mil ga_ii tujhase nazar mil gayaa dard\-e\-jigar
+sun zaraa o beKabar
+zaraa saa ha.Ns ke jo dekhaa tuune mai.n teraa bismil ho gayaa
+gulaabii aa.Nkhe.n jo \threedots
+%
+#endindian
+\endsong
+

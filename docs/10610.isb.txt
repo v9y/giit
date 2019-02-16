@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{huve majabuur ham ... kisii ke dil me.n rahanaa thaa}%
+\film{Babul}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar,  Munavvar Sultana, Amar}%
+\singer{Lata, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10608 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sha \:	huve majabuur ham aur dil mohabbat karake pachhataayaa
+	Kushii ko luuTakar merii bataa_o tumane kyaa paayaa
+
+	kisii ke dil me.n rahanaa thaa \-2
+	to mere dil me.n kyo.n aa_e
+	basaa_ii thii ko_ii mahafil \-2
+	to is mahafil me.n kyo.n aa_e
+	kisii ke dil me.n \threedots
+
+la \:	meraa dil le ke mere pyaar ko Thukaraa diyaa tumane
+	sahaaraa deke aa.Nkhe.n pher lii.n ye kyaa kiyaa tumane
+	kisii ke dil me.n \threedots
+
+sha \:	Kabar kyaa thii ke aramaano.n pe tum bijalii giraa doge
+	merii ha.Nsatii hu_ii aa.Nkho.n ko ronaa bhii tum sikhaa doge
+	kisii ke dil me.n \threedots
+
+la \:	tumhaare giit mai.n gaatii thii haradam ho ke diivaanii
+	mere dil kii magar aavaaz tumane naa pahachaanii
+	kisii ke dil me.n \threedots
+sha \:	basaa_ii thii ko_ii \threedots
+%
+#endindian
+\endsong
+

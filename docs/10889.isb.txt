@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{hame.n ai dil kahii.n le chal ba.Daa teraa karam hogaa}%
+\film{Chaandni Chowk}%
+\year{1954}%
+\starring{Meena Kumari, Shekhar}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10490 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+hame.n ai dil kahii.n le chal ba.Daa teraa karam hogaa
+hamaare dam se hai har Gam naa ho.nge ham naa Gam hogaa
+hame.n ai dil \threedots
+
+Kabar kyaa thii bahaar aakar hamaare aashiyaane par
+na_ii bijalii giraa_egii nayaa ham pe sitam hogaa
+hame.n ai dil \threedots
+
+tamannaa_o.n se badalii hai naa badalegii kabhii qismat
+likhaa hai jo muqaddar me.n vahii teraa karam hogaa
+hame.n ai dil \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{ye pyaar pyaar kyaa hai inkaar yaar kyaa hai}%
+\film{Daraar}%
+\year{1996}%
+\starring{Rishi, Juhi, Arbaaz, Johny Lever, Sushma Seth, Sulbha Arya}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik savaal hai puuchh kyaa
+kyaa savaal hai puuchho naa
+phuul kyo.n khilate hai.n
+dil se dil jab milate hai.n
+jaan kab jaatii hai
+yaad jab aatii hai
+chaa.Nd kyuu.n Dhalataa hai
+tujhase ye jalataa hai
+aa.Nkhe.n kyuu.n la.Datii hai.n
+nii.nde.n kyuu.n u.Datii hai.n
+saa.Nse.n kyuu.n rukatii hai.n
+
+ye pyaar pyaar kyaa hai inkaar yaar kyaa hai ye jiit haar kyaa hai bataa
+ye pyaar pyaar kyaa \threedots
+
+aa.Nkhe.n jo la.Datii hai.n nii.nde.n phir u.Datii hai.n saa.Nse.n bhii rukatii hai.n
+ye pyaar pyaar tuu hai ikaraar yaar tuu hai ye jiit haar tuu hai priyaa
+ye pyaar pyaar tuu \threedots
+
+dil meraa kyo.n kho gayaa diivaanaa ye kyuu.n ho gayaa
+o mai.n terii kyuu.n ho ga_ii tuu meraa kyuu.n ho gayaa
+dhak dhak dil kare tujhape ye dil mare kyaa kare jaan\-e\-jaa.n
+ye pyaar pyaar kyaa \threedots
+
+mai.n teraa tuu merii
+mai.n teraa tuu merii duniyaa se hai kyaa
+
+vo galii jisame.n ghar teraa hai vahii.n pe ye dil meraa
+kyaa kare ab diivaanaa dil har jagah cheharaa teraa
+Dole Dole Dole Dole dil meraa Dole Dole
+shaam subah bole bole naam teraa naam teraa
+o qaatil leke dil
+o qaatil leke dil jaatii hai kahaa.n
+ye pyaar pyaar kyaa \threedots
+%
+#endindian
+\endsong
+

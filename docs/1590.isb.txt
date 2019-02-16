@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{sadako.n utaariye ke naa laage kahii.n nazar}% 
+\film{Palki}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Pavan Kumar Desikan (pkd@cs.duke.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+sadako.n utaariye ke nA laage kahI.n nazar 
+sehare me.n aaj phuul saa mukha.Daa hai jalavAgar 
+
+chehare se apane aaj to paradaa uThaaiye \- (2) 
+lillAh mujhako chaa.Nd sI suurat dikhaaiye 
+
+aa.nchal me.n mu.Nh chhupaake nA sharamaaiye huzuur 
+kuchh dil ki baat kIjiye kuchh muskuraaiye 
+chehare \threedots
+
+itane kariib aake bhI dil ko sukuun nahii.n 
+jii chaahataa hai aur bhI nazadiik aaiye 
+chehare \threedots
+
+aaI hai zindagii me.n ye bekhudii kii raat 
+sab kuchh mohabbato.n ke sivaa bhuul jaaiye 
+chehare \threedots
+
+chehare se apane aaj to paradaa uThaaiye 
+lillAh mujhako chaa.Nd sI suurat dikhaaiye 
+%
+#endindian
+\endsong
+%

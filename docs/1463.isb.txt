@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pukaarataa chalaa huu.N mai.n}%
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pukaarataa chalaa huu.N mai.n
+galii galii bahaar kii
+bas ek chhaa.Nv zulf kii
+bas ik nigaah pyaar kii
+pukaarataa chalaa huu.N mai.n
+
+ye dillagii ye shokhiyaa.N salaam kii
+yahii.n to baat ho rahii hai kaam kii
+koI to mu.D ke dekh legaa is taraf
+koI nazar to hogii mere naam kii
+pukaarataa chalaa huu.N mai.n
+
+sunii merii sadaa to kis yaqiin se
+ghaTaa utar ke aa gayii zamiin pe
+rahii yahii lagan to ai dil\-e\-javaa.N
+asar bhii ho rahegaa ik hasiin pe
+pukaarataa chalaa huu.N mai.n
+%
+#endindian
+\endsong
+%

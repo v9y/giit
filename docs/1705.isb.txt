@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{terii bi.ndiyaa re aay haay, terii bi.ndiyaa re}%
+\film{Abhimaan}%
+\year{1973}%
+\starring{Amitabh, Jaya, Asrani, Bindu, David, A K Hangal, Durga Khote}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+rafii:  ##hmmm...##, o\threedots
+        terii bi.ndiyaa re
+	re aay hAy
+	terii bi.ndiyaa re \- 2
+	re aay hAy
+lataa:  sajan bi.ndiyaa le legii terii ni.ndiyaa
+rafii:  re aay hAy
+	terii bi.ndiyaa re
+	
+rafii:  tere maathe lage hai.n yuu.N, jaise cha.ndaa taaraa
+	jiyaa me.n chamake kabhii kabhii to, jaise koI angaaraa
+	tere maathe lage hai.n yuu.N
+lataa:  sajan ni.ndiyaa\threedots
+	sajan ni.ndiyaa le legii le legii le legii 
+	merii bi.ndiyaa
+rafii:  re aay hAy
+	teraa jhumakaa re
+	re aay hAy
+	teraa jhumakaa re
+lataa:  chain lene naa degaa sajan tumakA
+	re aay hAy meraa jhumakaa re
+	
+lataa:  meraa gahanaa balam tU, tose sajake Doluu.n
+	bhaTakate hai.n tere hI nainA, mai.n to kuchha naa boluu.n
+	meraa gahanaa balam tU
+rafii:  to phir ye kyaa bole hai bole hai bole hai
+	teraa ka.nganaa
+lataa:  re aay hAy
+	meraa ka.nganaa re
+	bole re ab to chhuuTe na teraa a.nganaa
+rafii:  re aay hAy
+	teraa ka.nganaa re
+	
+rafii:  tuu aayI hai sajaniyaa, jab se merI banake
+	Thumak Thumak chale hai jab tU, merii nas nas khanake
+	tU aayI hai sajaniyaa 
+lataa:  sajan ab to 
+	sajan ab to chhuuTenaa chhuuTenaa chhuuTenaa
+	teraa a.ngnaa
+rafii:  re aay hAy
+	teraa ka.nganaa re
+lataa:  sajan ab to chhuuTenaa teraa a.nganaa
+	re aay hAy
+	teraa a.nganaa re
+%
+#endindian
+\endsong
+%

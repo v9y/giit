@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kaisii hai ye diivaanagii ... dil kahataa hai yahii.n ruk jaa_e}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaisii hai ye diivaanagii kaisii hai ye dil kii lagii
+dil kahataa hai yahii.n ruk jaa_e pal tere mere pyaar kaa
+saajanaa saajanaa saajanaa saajanaa
+kaisii hai ye \threedots
+
+har taraf ek tuufaan saa hai kaise saahil milegaa
+bekhudii bhii bachaa_egii kab tak kab talak dil jalegaa
+maanaa mushkil hai aashiqii ye ishq hii to hai zi.ndagii
+dil kahataa hai \threedots
+
+dard\-e\-dil me.n kitanaa mazaa hai diivaane dil jaanate hai.n
+dil diivaane hote hai.n kahanaa nahii.n maanate hai.n
+Duube rahate hai.n pyaar me.n kho_e rahate hai.n khumaar me.n
+dil kahataa hai \threedots
+%
+#endindian
+\endsong
+

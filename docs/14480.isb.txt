@@ -1,0 +1,72 @@
+
+%
+\startsong
+\stitle{in mast nigaaho.n se mujhako naa pilaa denaa}%
+\film{The Hero}%
+\year{2003}%
+\starring{Sunny Deol, Preity Zinta, Priyanka Chopra, Kabir Bedi}%
+\singer{Udit Narayan, Sunidhi Chauhan, Amrish Puri}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% contributor: BOL ANAMOL #11786 [V S Rawat]
+% producer: Time Movies, Nanjibhai Shah, Dhirajlal Shah, Pravin Shah, Hasmukh Shah
+% director: Anil Sharma
+% audio: Time Magnetics (India) Ltd, time@bom4.vsnl.net.in
+% cassette: TFC-002 Stereo, Cost: Rs 40/-, CD: 
+% website: www.theherothefilm.com
+%
+\printtitle
+#indian
+%
+u \:	ho o o o o ho
+	in mast nigaaho.n se mujhako naa pilaa denaa \-2
+	tum ek musalamaa.N ko qaafir naa banaa denaa
+su \:	ho ho ho ho
+	mohabbat me.n nigaaho.n se o ho
+	mohabbat me.n nigaaho.n se zubaa.N kaa kaam lete ho
+	kisii kii baat karate ho kisii kaa naam lete ho
+
+u \:	shaha.nshaa ho ki malikaa ho salaamii ham nahii.n karate \-2
+	hasiinaa ho ke botal ho
+	ho o o o hasiinaa ho ke botal ho Gulaamii ham nahii.n karate
+a \:	ai huzuur jo kahanaa hai kaho khul ke
+	maine kahaa
+	jo kahanaa hai kaho khul ke bahaane kyuu.N banaate ho
+	hasiino.n kii galii me.n tum bhii apanaa sar jhukaate ho
+
+u \:	sar jis pe naa jhuk jaa_e.N
+	ab mai.n jo kahane jaa rahaa huu.N
+	naa kisii ne kahaa hai naa kisii ne sunaa hai
+	mulaahizaa faramaa_e.N huzuur
+ko \:	irashaad \-3
+
+u \:	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate \-2
+	har dar pe jo jhuk jaa_e
+	ho o o o har dar pe jo jhuk jaa_e use sar nahii.n kahate
+	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate
+
+	o saahib dekh kar hamako ha.Nsii kyuu.N aa ga_ii tumako \-2
+	hamaaraa naam hiiro hai
+	ho o o o hamaaraa naam hiiro hai hame.n jokar nahii.n kahate
+su \:	ho sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate
+	
+u \:	ho ( vo aur hai.n piite hii khul jaate hai.n mu.Nh jinake ) \-2
+	pii jaate hai.n ham sab kuchh
+	o o o o pii jaate hai.n ham sab kuchh kuchh pii kar nahii.n kahate
+	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate
+su \:	ho sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate
+u \:	har dar pe jo jhuk jaa_e use sar nahii.n kahate
+su \:	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate
+
+u \:	in mast nigaaho.n se mujhako naa pilaa denaa
+su \:	in mast nigaaho.n se mujhako naa pilaa denaa
+u \:	tum ek musalamaa.N ko qaafir naa banaa denaa
+ko \:	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate \-2
+	har dar pe jo jhuk jaa_e use sar nahii.n kahate
+	sar jis pe naa jhuk jaa_e.N use dar nahii.n kahate \-2
+	la la laa la laa laa la la laa
+%
+#endindian
+\endsong
+

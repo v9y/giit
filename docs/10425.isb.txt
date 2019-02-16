@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{aaj kahanaa zaruurii hai ... ke tumase pyaar hu_aa hai}%
+\film{Andaaz}%
+\year{2003}%
+\starring{Akshay Kumar, Lara Dutta, Priyanka Chopra}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11664 [V S Rawat]
+% Producer: Suneel Darshan, Director: Raj Kanwar,
+% Audio: Shree Krishna Audio
+% Cassette: PHF 001 Stereo, Cost: Rs 50/-, CD: TCCD001, Cost: Rs 145/-
+% Site: www.andaazthefilm.com
+%
+\printtitle
+#indian
+%
+u \:	he ai he ho ho ho ho ho
+	aa haa haa haa ai he he
+	aaj kahanaa zaruurii hai \-2
+	ke tumase pyaar hu_aa hai \-2
+a \:	ba.Dii mushqil ye duurii hai
+	haa.N ba.Dii mushqil ye duurii hai
+	ke tumase pyaar hu_aa hai \-2
+
+u \:	terii chaahate.n teraa andaaz dil me.n
+	chhupaayaa hai baraso.n se ye raaz dil me.n
+a \:	terii chaahate.n teraa andaaz dil me.n
+	chhupaayaa hai baraso.n se ye raaz dil me.n
+u \:	baate.n karuu.N mai.n hameshaa tumhaarii
+	ba.Dhaa dii hai tumane merii beqaraarii
+	o ho o
+a \:	ab har pal sinduurii hai \-2
+	ke tumase pyaar hu_aa hai \-2
+u \:	ba.Dii mushqil ye \threedots
+
+a \:	zamaane ko piichhe kahii.n chho.D de.n ham
+	chalo aaj saarii hade.n to.D de.n ham
+u \:	zamaane ko piichhe kahii.n chho.D de.n ham
+	chalo aaj saarii hade.n to.D de.n ham
+a \:	sanam aashiqii kaa ye kaisaa asar hai
+	kahaa.N aa ga_e hai.n nahii.n ab Kabar hai
+	ho ho o
+u \:	saa.Ns tum bin adhuurii hai \-2
+	ke tumase pyaar hu_aa hai \-2
+a \:	aaj kahanaa zaruurii hai \-2
+	ke tumase pyaar hu_aa hai \-2
+u \:	ba.Dii mushqil ye \threedots
+
+u \:	he he he ho ho ho ho ho
+	aa haa haa haa haa ai he he
+a \:	he he he ho ho ho ho ho
+	aa haa haa haa haa o ho ho
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{##o mummy, mummy.## ... aaj maine vo la.Dakii Dhuu.nDh}%
+\film{Deewaanaa Mastaanaa}%
+\year{1997}%
+\starring{Govinda, Anil Kapur, Juhi Chawla}%
+\singer{Udit Narayan}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##o mummy, mummy. o daddy, daddy.##
+jisase merii shaadii hogii
+aaj maine vo la.Dakii Dhuu.nDh lii hai
+##o mummy, mummy.## \threedots
+
+do naino.n kii paTarii pe dil kii gaa.Dii dau.Degii
+ye gaa.Dii is duniyaa ke saare ##signal## to.Degii
+aage aage i.njan piichhe piichhe bogii
+jisase merii shaadii \threedots
+
+bas tho.De hii din me.n ba.nd galii khul jaa_egii
+mujhako biivii ##mummy, daddy## tumako bahuu mil jaa_egii
+maine to haa.n kar dii hai usakii haa.N baakii hai
+vo jaldii se haa.N kar de bas tho.Dii sii jaa.N baakii hai
+varanaa mar jaa_egaa ye prem kaa rogii
+jisase merii shaadii \threedots
+
+##o m u m m y, o d a d d y##
+%
+#endindian
+\endsong
+

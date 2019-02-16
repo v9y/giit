@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{jab tum mere saamane hotii ho duniyaa ko bhuul jaataa huu.N}%
+\film{Hote Hote Pyaar Ho Gayaa}%
+\year{1999}%
+\starring{Jackie Shorff, Kajol, Atul Agnihotri, Ayesha Jhulka}%
+\singer{Udit Narayan, Sadhana Sargam, Chorus}%
+\music{Anand Raj Anand, Pradeep-Ejaz}%
+\lyrics{M G Hashmat}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab tum mere saamane hotii ho
+duniyaa ko bhuul jaataa huu.N
+teraa diidaar karataa huu.N
+jab tum mere saamane \threedots
+
+tasviir terii aise dil me.n samaa_ii hai
+ruup me.n tere jaise husn\-e\-Kudaa_ii hai
+chaa.Nd aur taare saare tujhape hai.n qurbaan
+haradam tere khvaabo.n khyaalo.n me.n rahataa huu.N
+haa.N duniyaa ko bhuul jaataa \threedots
+
+dil kii dha.Dakan kah rahii hai
+ab naa jaanaa mujhe chho.Dakar
+dil pe teraa hii naam likhaa hai
+kyaa karogii ise to.Dakar
+dil jo TuuTaa zi.ndagii bhar
+ju.Degaa kahaa.n
+o ho ho duniyaa ko bhuul jaataa \threedots
+
+taariif usakii karuu.n kyaa
+jisane banaayaa tumhe.n
+bahut pyaar naaz\-o\-adaa se
+jisane sajaayaa tumhe.n
+tere jaisii ko_ii hasiinaa
+phir se banegii kahaa.n
+tere nashe me.n jhuum kar gaataa huu.N
+duniyaa ko bhuul jaataa \threedots
+%
+#endindian
+\endsong
+

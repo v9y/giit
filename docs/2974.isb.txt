@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tum merii zindagii me.n tuufaan banake aaye}%
+\film{Shagoofa}%
+\year{1953}%
+\starring{Bina Rai, Premnath}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani
+% Transliterator: Anil Hingorani
+% Date: January 5, 2001
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+chi: ye dard zi.ndagii kaa kab tak koii sambhaale
+     maajhii ye naav kar de tuufaan ke havaale
+
+la:  tuufaan me.n ghiiraa hai bekas kaa aashiyaanaa
+     do dil bichha.D rahe hai.n o aasamaan vaale
+
+     tum merii zi.ndagii me.n tuufaan banake aaye
+     chhoTe se ek dil me.n armaan banake aaye \-2
+
+     bujhate hue diye kii dhiire se lau ba.Dhaa dii \-2
+     begaane zi.ndagii me.n yuu.N daan banake aaye \-2
+     chhoTe se ek dil me.n  /threedots
+
+     majabuur dil ko kitanii muddat se aarazuu thii \-2
+     viiraan ghar me.n koii mahamaan banake aaye \-2
+     chhoTe se ek dil me.n  /threedots
+
+%
+#endindian
+\endsong
+%

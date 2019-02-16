@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pyaar pyaar karate karate tum pe marate marate dil de diyaa}%
+\film{Judaai}%
+\year{1997}%
+\starring{Anil Kapoor, Sridevi, Urmila Matondkar}%
+\singer{Abhijit, Alka Yagnik, Sapana}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar pyaar karate karate tum pe marate marate dil de diyaa haa.N dil de diyaa
+uu_ii baabaa bababaa aa_ii baabaa
+
+aa banaa ke Kvaab tumako dekhatii rahuu.n
+chaahato.n kii aarazuu me.n Duubatii rahuu.n
+chuum le mere labo.n ko mujhako thaam le
+dekh jaan\-e\-man diivaanaa ho gayaa huu.N mai.n
+reshamii in gesu_o.n me.n kho gayaa huu.N mai.n
+aahe.n bharate bharate tum pe marate marate dil de diyaa haa.N dil de diyaa
+yaa yaa maine sab paa liyaa
+pyaar pyaar karate karate \threedots
+
+na ko_ii aramaan hai na ko_ii pyaas hai
+bas terii tasviir aa.Nkho.n me samaa_ii hai
+maine jo maa.ngii du_aa vo paa_ii hai
+mai.n terii baaho.n me.n aa_uu.n ki vahaa.n jaa_uu.n
+soch me.n Duubaa huu.N jaanaa.n mai.n kahaa.n jaa_uu.n
+yaaraa Darate Darate tum pe marate marate dil de diyaa haa.N dil de diyaa
+pyaar pyaar karate karate \threedots
+%
+#endindian
+\endsong
+

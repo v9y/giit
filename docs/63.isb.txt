@@ -1,0 +1,61 @@
+% 
+\startsong
+\stitle{aaj madhosh huaa jaae re, meraa man, meraa man, meraa man}%
+\film{Sharmilee}%
+\starring{Shashi Kapoor, Raakhee}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+% 
+% Contributor: Anup Pandey
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+la: aaj madhosh huaa jaae re
+    meraa man meraa man meraa man
+    binaa hii baat muskuraae re
+    meraa man meraa man meraa man
+    o rii kalii sajaa tuu Dolii
+    o rii lahar pahanaa tuu paayal
+    o rii nadii dikhaa tuu darpan
+    o rii kiraN u.Daa tuu aa.Nchal
+    ek jogan hai banii aaj dulhan ho o
+    aao u.D jaae.n kahii.n banake pavan
+    aaj madhosh huaa jaae re
+
+ki: sharaarat karane ko lalachaae re
+    meraa man meraa man meraa man
+    ai, yahaa.N hame.n zamaanaa dekhe
+la: to
+ki: aao chalo kahii.n chhup jaae.n
+la: achchhaa
+ki: yahaa.N hame.n zamaanaa dekhe
+    aao chalo kahii.n chhup jaae.n
+    kaise kaho pyaase rah jaae.n
+    tuu merii mai.n huu.N teraa terii qasam ho o
+
+la: mai.n terii tuu meraa merii qasam ho o
+    aaj madhosh huaa jaae re
+    meraa man meraa man meraa man
+
+la: rom rom bahe sur dhaaraa
+    a.Ng a.Ng baje shahanaaii
+    jiivan saaraa milaa ek pal me.n
+    jaane kaisii gha.Dii ye aaii
+    chhuu liyaa aaj mai.nne saaraa gagan ho o
+    naache man aaj moraa jhuum chhanan chhanan o o
+    aaj madhosh huaa jaae re
+    meraa man meraa man meraa man
+
+ki: sharaarat karane ko lalachaae re
+la: binaa hii baat muskuraae re
+ki: meraa man
+la: meraa man
+%
+#endindian
+\endsong
+%
+

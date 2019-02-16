@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{tere naino.n ne chorii kiyaa, moraa chhoTaa saa jiyaa}%
+\film{Pyaar Ki Jeet}%
+\year{1948}%
+\starring{Suraiyya}%
+\singer{Suraiyya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tere naino.n ne chorI kiyA, morA chhoTA sA jiyA
+paradesiyA, tere\threedots
+
+jAne kaisA jAdU kiyA, terI mIThI mIThI bAt ne
+terA merA pyAr huA, pahalI mulAqAt me.n
+tere naino.n \threedots
+
+hAtho.n me.n hAth leke, kabhI bhI nA chho.DanA
+pyAr kI Dor saiyyA.n, bA.ndh ke nA to.DanA
+tere naino.n \threedots
+%
+#endindian
+\endsong
+%

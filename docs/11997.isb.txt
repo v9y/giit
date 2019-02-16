@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{##theme piece## ... ##I believe in love love##}%
+\film{Ishq Vishk}%
+\year{2003}%
+\starring{Shahid, Amrita Rao, Shehnaz}%
+\singer{Sonu Nigam, Alisha Chinai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11683 [V S Rawat]
+% Producer: TIPS Films, Kumar S Taurani, Ramesh S Taurani, Director: Ken Ghosh
+% Audio: Tips Industries Ltd, tipsmusicfilms.com
+% Cassette: Stereo TC-21834, Rs 42/-, CD: TCCD 7297/98, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+so \:	##I believe in love love##
+	##she believes in love love##
+	##you believe in love love##
+	##we believe in love love##
+	duniyaa me.n milataa hai jaan\-e\-man
+	mushqilo.n se pyaar\-pyaar
+	ishq\-vishk pyaar\-vyaar
+	aa.Nkho.n hii aa.Nkho.n me.n
+	kar lo tum nazare.n chaar
+	zindagii me.n hotaa hai sab ko ek baar
+	ishq\-vishk pyaar\-vyaar \-2
+
+	##I believe in love love##
+	##I believe in## pyaar\-pyaar
+
+a \:	##I believe in love love##
+	##I believe in## pyaar\-pyaar
+	ishq\-vishk pyaar\-vyaar \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kyaa khuub lagatii ho ba.Dii su.ndar dikhatii ho}%
+\film{Dharmaatmaa}%
+\year{1975}%
+\starring{Firoz Khan, Hema Malini, Rekha, Premnath}%
+\singer{Mukesh, Kanchan}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa khuub lagatii ho ba.Dii su.ndar dikhatii ho
+phir se kaho kahate raho achchhaa lagataa hai
+jiivan kaa har sapanaa ab sachchaa lagataa hai
+kyaa khuub lagatii ho \threedots
+
+taariif karoge kab tak bolo kab tak
+mere siine me.n saa.Ns rahegii jab tak
+kab tak mai.n rahuu.Ngii man me.n haa.N man me.n
+suuraj hogaa jab tak niil gagan me.n
+phir se kaho \threedots
+
+khush ho naa mujhe tum paa kar mujhe paakar
+pyaase dil ko aaj milaa hai saagar
+kyaa dil me.n hai aur tamannaa hai tamannaa
+har jiivan me.n tum mere hii bananaa
+phir se kaho \threedots
+%
+#endindian
+\endsong
+

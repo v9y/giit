@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{lagii hai aag sii har mauj ... ye tuune kyaa kahaa}%
+\film{Insaaf}%
+\year{1956}%
+\starring{Prithviraj Kapoor, Dara Singh, Azaad, Praveen Chaudhary, Kammo}%
+\singer{Mukesh, Asha}%
+\music{Usha Khanna}%
+\lyrics{Akhtar Romani}%
+%
+% Contributor: BOL ANAMOL #10467 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	lagii hai aag sii har mauj kii ravaanii me.n
+	machal rahii hai ko_ii naazanii.n paanii me.n
+
+aa \:	ye tuune kyaa kahaa
+mu \:	kahaa hogaa
+aa \:	ye maine kyaa sunaa
+mu \:	sunaa hogaa
+aa \:	are ye dil gayaa
+mu \:	gayaa hogaa
+
+mu \:	ye tuune kyaa kahaa
+aa \:	kahaa hogaa
+mu \:	ye maine kyaa sunaa
+aa \:	sunaa hogaa
+mu \:	are ye dil gayaa
+aa \:	gayaa hogaa
+	ye tuune kyaa kahaa \threedots
+
+aa \:	chham se bahaar aa_ii jaan\-e\-vafaa aaj ( tere saath ) \-2
+	pyaar le a.nga.Daa_ii chhaayaa nashaa thaam ( meraa haath ) \-2
+mu \:	duur na jaanaa karake bahaanaa ( mere sanam tuu ) \-2
+aa \:	ye tuune kyaa kahaa \threedots
+
+mu \:	banake lahar jhuume aaj meraa pyaar ( tere saath ) \-2
+	zulf terii chuume kaalii ghaTaa jaise ( mere saath ) \-2
+aa \:	bhuul na jaanaa dil kaa fasaanaa ( mere sanam tuu ) \-2
+mu \:	ye tuune kyaa kahaa \threedots
+%
+#endindian
+\endsong
+

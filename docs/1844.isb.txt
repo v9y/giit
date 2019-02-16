@@ -1,0 +1,36 @@
+% 
+\startsong 
+\stitle{vo sapanevaalii raat}%
+\film{Pyaar}%
+\year{1950}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Prithviraj Dasgupta 
+% Date: Feb 3, 2000 
+%
+\printtitle
+#indian
+%
+
+vo sapanevaalii raat milan kii raat 
+kabhii to aa_egii vo sapanevaalii raat \threedots 
+
+tum aa_oge mere dvaar piyaa 
+mai.n karuu.Ngii saat shR^i.ngaar piyaa 
+duniyaa se duur basaa le.nge ham 
+ek na_ii sa.nsaar piyaa 
+vo sapanevaalii raat \threedots 
+
+tum dekh mujhe musakaa_oge 
+mai.n dekh tumhe sharamaa_uu.Ngii 
+tum apane paas bulaa_oge 
+mai.n piichhe haTate jaa_uu.Ngii 
+vo sapanevaalii raat \threedots 
+
+%
+#endindian
+\endsong
+%

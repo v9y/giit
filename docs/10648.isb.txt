@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{o taaraa teraa\-meraa nahii.n guzaaraa}%
+\film{Banphool}%
+\year{1971}%
+\starring{Jeetendra, Babita, Shatrughan Sinha, Asrani}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11166 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	o taaraa teraa\-meraa nahii.n guzaaraa \-2
+	tuu Thaharii gharavaalii mai.n Thaharaa banjaaraa
+la \:	pyaaraa teraa pyaar hai mujhako pyaaraa
+	tere li_e gharabaar to kyaa mai.n chho.D duu.N ye jag saaraa
+
+ki \:	melaa duniyaa do roz kaa melaa
+	o aataa\-jaataa yauvan jaise paanii kaa ik relaa
+la \:	melaa duniyaa do roz kaa melaa
+	thaam le bai.nyaa mele me.n are kaahe phire akelaa
+
+	dhokhaa mere saath hu_aa ve ye dhokhaa \-2
+	meraa ghuu.NghaT khol gayaa be_iimaan pavan kaa jho.nkaa
+ki \:	jho.nkaa mai.n hotaa kaash vo jho.nkaa
+	mere haath se nikal gayaa hai ek sunaharaa mauqaa
+
+	baadal terii aa.Nkh kaa jaise kaajal \-2
+	dhak\-dhak man ko leke chham\-chham baaje terii paayal
+la \:	aa.Nchal haT chho.D de meraa aa.Nchal
+	sach kahate hai.n premii hote hai.n tho.De se paagal
+
+	choTii merii do gaj lambii choTii \-2
+	baabul ko samajhaa_o ko_ii ab merii umar nahii.n chhoTii
+ki \:	motii mat barasaa aa.Nkh se motii
+	ye sabako maaluum hai mai.n huu.N diipak tuu hai jyoti
+
+	raanii sun apanii prem kahaanii \-2
+	hamako samajhaane ko aa_ii ye duniyaa diivaanii
+la \:	jaanii ye duniyaa nahii.n jaanii
+	dil kii aag bujhaa na paa_e saare jag kaa paanii
+
+	nyaaraa mai.n karatii tujhe ishaaraa
+	saamane merii khi.Dakii ke jo hotaa teraa chaubaaraa
+ki \:	o taaraa kyaa khi.Dakii kyaa chaubaaraa
+	to.D ke sab diivaare.n ik din hogaa milan hamaaraa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{zindagii me.n aap aa_e ho ga_ii duniyaa hasii.n}%
+\film{Chhalia}%
+\year{1973}%
+\starring{Nanda, Navin Nishchal, Rajendranath, Shatrughan Sinha, Helen}%
+\singer{Mukesh, Vaani Jairam}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10756 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	zindagii me.n aap aa_e ho ga_ii duniyaa hasii.n
+	bhar gayaa phuulo.n se daaman ab kamii.n ko_ii nahii.n
+vaa \:	zindagii me.n aap \threedots
+
+mu \:	jhuumakar yuu.N aa_ii.n bahaare.n khil ga_ii dil kii har kalii
+vaa \:	pyaar ne aavaaz dekar ye kahaa aa merii galii
+	jisako maine duur samajhaa kyaa pataa aaj vo hai yahii.n
+mu \:	zindagii me.n aap \threedots
+
+vaa \:	ab naa shikavaa hai naa shikaayat dil se dil aise mile
+mu \:	muskaraakar tumane dekhaa miT ga_e saare gile
+	pyaar ne ho to ye duniyaa rahane ke qaabil hii nahii.n
+mu \:	zindagii me.n aap \threedots
+%
+#endindian
+\endsong
+

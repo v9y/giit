@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{sajan tere pyaar me.n mai.n to hu_ii barabaad}%
+\film{Mahua}%
+\year{1969}%
+\starring{Shiv Kumar, Anjana, Faraah, Premnath}%
+\singer{Omi, Asha}%
+\music{Sonik-Omi}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11517 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ko \:	aa aa aa
+aa \:	sajan tere pyaar me.n mai.n to hu_ii barabaad
+	rahe aabaad tuu Dholaa
+ko \:	aa aa
+aa \:	suno jo merii priit kii riit yahii hai fariyaad
+	na karanaa yaad tuu Dholaa
+ko \:	aa
+aa \:	sajan tere pyaar \threedots
+o \:	o o mahu_aa
+
+aa \:	tujhe banaayaa baalamaa ye merii thii Kataa \-2
+	teraa jiyaa kahii.n aur hai ye kisako thaa pataa
+	merii aas kii pyaas jagaa ke
+	mujhe pyaar kaa rog lagaa ke
+	hu_aa re aabaad tuu Dholaa
+	sajan tere pyaar \threedots
+ko \:	aa
+o \:	o mahu_aa
+
+aa \:	terii Kushii me.n saajanaa ab merii hai Kushii \-2
+	ro_e jo dil to kyaa hu_aa ho.nTho.n pe hai ha.Nsii
+	jo ye aramaan sataa_e.N
+	ham bhii de.n tujhe ye du_aa_e.N
+	rahe ab shaad tuu Dholaa
+	sajan tere pyaar \threedots
+ko \:	aa
+aa \:	suno jo merii priit \threedots 
+ko \:	aa
+aa \:	sajan tere pyaar \threedots
+o \:	o mahu_aa
+ko \:	aa
+
+%
+#endindian
+\endsong
+

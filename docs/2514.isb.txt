@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ab kise pataa kal ho kyaa}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Manna De, chorus}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ab kise pataa kal ho kyaa
+dil hii diyaa to chaahe jo ho so ho
+ab kise pataa \threedots
+
+muddat ke baad mile the
+ - o ho
+dilo.n ke dvaar khile the
+ - achchhaa
+mastii sii chhaa chukii thii
+jaise nii.nd aa chukii thii
+aa.Nkh jo khulii to dekhaa
+vo jaa chukii thii
+ab koii chale, koii jale
+dil hii diyaa to chaahe jo ho so ho
+ab kise pataa \threedots
+
+aakhir kal maukaa paa ke
+jhuume ye giit gaa ke
+nainaa jab se la.De hai.n
+nashe me.n ham pa.De hai.n
+aa.Nkh jo khulii to dekhaa
+baabaa kha.De hai.n
+ab rona pa.De, gaanaa pa.De
+dil hii diyaa to chaahe jo ho so ho
+ab kise pataa \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{taqadiir banii ban kar biga.Dii}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11875 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( taqadiir banii ban kar biga.Dii
+duniyaa ne hame.n barabaad kiyaa ) \-2
+( dukh dard ke haatho.n luT kar bhii
+is dil ne tujhii ko yaad kiyaa ) \-2
+taqadiir banii
+
+ham dil kii lagii ko kyaa roye.n
+ulfat me.n hazaaro.n ghar uja.De
+e e e
+( ai ishq ke maaro tum hii kaho
+qisamat ne kise aabaad kiyaa ) \-2
+taqadiir banii
+
+is qaid me.n jiinaa mushaqil hai
+ai maut lagii hai aas terii
+ho o o o
+( chupake se zaraa aa kar kah de
+jaa hamane tujhe aazaad kiyaa ) \-2
+taqadiir banii ban kar biga.Dii
+duniyaa ne hame.n barabaad kiyaa
+taqadiir banii
+%
+#endindian
+\endsong
+

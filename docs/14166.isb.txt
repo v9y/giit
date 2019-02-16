@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{ko_ii la.Dakii mujhe kal raat sapane me.n milii}%
+\film{Seetaa aur Geetaa}%
+\year{1972}%
+\starring{Sanjeev Kumar, Hema Malini}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10800 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ki \:	ko_ii la.Dakii mujhe kal raat sapane me.n milii
+	ba.Dii pyaarii sii suurat thii bhalaa saa naam thaa
+	lalal lal laa \-4
+aa \:	ko_ii la.Dakaa mujhe kal raat sapane me.n milaa
+	ba.Dii pyaarii sii suurat thii bhalaa saa naam thaa
+	lalal lal laa \-4
+
+	dekh letii mai.n jo us bairan sautan ko jaan le letii mai.n qasam se
+ki \:	dekh letaa mai.n us tere saajan ko jaan de detaa mai.n sharam se
+aa \:	ho phir kyo.n ruuThe
+ki\:	tum jo ruuThii
+	lalal lal laa \-4
+ki \:	are tum hii mujhe kal raat apane me.n milii
+aa \:	are tum hii mujhe kal raat apane me.n mile
+ki \:	mujhe tumase tumhe.n mujhase zaruurii kaam thaa
+	lalal lal laa \-4
+aa \:	tumhe.n mujhase mujhe tumase zaruurii kaam thaa
+
+ki \:	chaa.Ndanii thii raate.n Kuub hu_ii.n mulaaqaate.n
+	pyaar bharii hu_ii.n baate.n dono.n me.n
+aa \:	raat bhar ham jaage nain piyaa sa.ng laage
+	ra.ng bhare hu_e vaade dono.n me.n
+ki \:	tum jhuuThii ho
+aa \:	tum jhuuThe ho
+	lalal lal laa \-4
+aa \:	ko_ii la.Dakaa mujhe \threedots
+ki \:	ko_ii la.Dakii mujhe \threedots
+	lalal lal laa \-4
+%
+#endindian
+\endsong
+

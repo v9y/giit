@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{are baabaa, ye ha.Nsii baabaa, ye Kushii baabaa}%
+\film{Shin Shinaaki Booblaa Boo}%
+\year{1952}%
+\starring{Rehana, Ranjan}%
+\singer{Lata, Kishore, Chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+% Kosh does not mention Kishore's name in singer, but he speaks
+% some words in it.
+
+\printtitle
+#indian
+
+la \:	are baabaa, are baabaa
+	ye ha.Nsii baabaa, ye Kushii baabaa
+	sab kuchh hai maujuud yahaa.N phir
+	kyuu.N ye bebasii baabaa
+
+ko \:	are baabaa, are baabaa
+	ye ha.Nsii baabaa, ye Kushii baabaa
+	sab kuchh hai maujuud yahaa.N phir
+	kyuu.N ye bebasii baabaa
+	are baabaa, are baabaa
+	are baabaa re baabaa re baabaa re baabaa re baabaa re baabaa re baabaa
+
+la \:	( ishq ke bando.n ne kahaa khaa ke ye qasam
+	ajii ishq kii sharaab kabhii hotii nahii.n kam ) \-2
+	pii lo pii lo ek baar miTe laakho.n Gam \-2
+ki \:	are bandhuu isiliye to
+la \:	haa.N baabaa apii baabaa, abaa baabaa
+	ha.Ns le baabaa 
+
+ko \:	sab kuchh hai maujuud yahaa.N phir
+	kyuu.N ye bebasii baabaa
+
+	( are baabaa, are baabaa
+	ye ha.Nsii baabaa, ye Kushii baabaa
+	sab kuchh hai maujuud yahaa.N phir
+	kyuu.N ye bebasii baabaa
+	are baabaa, are baabaa ) \-2
+	are baabaa re baabaa re baabaa re baabaa re baabaa re baabaa re baabaa
+
+#endindian
+\endsong

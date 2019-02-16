@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{saavan barase tarase dil}%
+\film{Dehak/ A Burning Passion}%
+\year{1998}%
+\starring{Akshay Khanna, Sonali Bendre}%
+\singer{Hariharan, Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saavan barase tarase dil kyuu.n naa nikale ghar se dil
+barakhaa me.n bhii dil pyaasaa hai ye pyaar nahii.n to kyaa hai
+dekho kaisaa bekaraar hai bhare baazaar me.n
+yaar ek yaar ke i.ntazaar me.n
+saavan barase tarase \threedots
+
+ik muhabbat kaa diivaanaa Dhuu.nDhataa saa phire
+ko_ii chaahat kaa nazaraanaa dilarubaa ke li_e
+chham chham chale paagal pavan aa_e mazaa bhiige.n balam
+bhiige.n balam phisale.n kadam barakhaa bahaar me.n
+saavan barase tarase \threedots
+
+ik hasiinaa idhar dekho kaisii bechain hai
+raaste par lage kaise usake do nain hai.n
+sach puuchhiye to mere yaar dono.n ke dil be_ikhtiyaar
+be_ikhtiyaar hai.n pahalii baar pahalii bahaar me.n
+saavan barase tarase \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{aa ab lauT chale.n}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10888 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	aa ab lauT chale.n \-2
+	nain bichhaa_e baa.Nhe.n pasaare tujhako pukaare desh teraa
+la \:	aa jaa re \-2
+ko \:	aa aa aa
+
+mu \:	sahaj hai siidhii raah pe chalanaa
+	dekh ke ulajhan bach ke nikalanaa
+	ko_ii ye chaahe maane na maane
+	bahut hai mushkil gir ke sa.mbhalanaa
+	aa ab lauT chale.n \threedots
+
+	aa.Nkh hamaarii ma.nzil par hai
+	dil me.n Kushii kii mast lahar hai
+	laakh lubhaa_e.N mahal paraa_e
+	apanaa ghar phir apanaa ghar hai
+	aa ab lauT chale.n \threedots
+%
+#endindian
+\endsong
+

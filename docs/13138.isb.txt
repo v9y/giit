@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{ek chhail\-chhabiilaa ... alabele sai.nyaa.N jhulanaa jhulaa jaa re}%
+\film{Maalik}%
+\year{1958}%
+\starring{Talat, Suraiya, Lalita Pawar, Jeewan, Kumar}%
+\singer{Suraiya, Shamshad, Chorus}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12301 [V S Rawat], 23/01/2004
+%
+% I could not identify Shamshad's voice in it.
+%
+\printtitle
+#indian
+%
+% kosh mentions the following words probably in prelude.
+% the version I have does not have it.
+%
+ek chhail\-chhabiilaa 
+
+su \:	alabele sai.nyaa.N jhulanaa jhulaa jaa re
+ko \:	alabele sai.nyaa.N jhulanaa jhulaa jaa re
+su \:	aa_ii rimajhim
+ko \:	ho aa_ii rimajhim
+su \:	ho
+	aa_ii rimajhim rut ab aa jaa
+ko \:	alabele sai.nyaa.N jhulanaa jhulaa jaa re \-2
+
+su \:	jhuuluu.N akele
+	jhuuluu.N akele kaise hi.nDolaa
+	aa jaa re baalam le kar Dolaa
+ko \:	aa jaa re baalam le kar Dolaa
+su \:	aa jaa re baalam le kar Dolaa
+ko \:	le kar Dolaa
+su \:	ho piyaa\-milan ke din hai.n sajaniyaa
+	ho paahu le ghu.NghaTaa ban jaa dulhaniyaa
+ko \:	ho paahu le ghu.NghaTaa ban jaa dulhaniyaa
+su \:	jo hai chhup\-chhup
+ko \:	ho jo hai chhup\-chhup
+su \:	ho
+	jo hai chhup\-chhup dekhe toraa raajaa
+ko \:	alabele sai.nyaa.N jhulanaa jhulaa jaa re \-2
+
+su \:	prem kaa jhuulaa Daal ke man me.n
+	Daal ke man me.n
+ko \:	prem kaa jhuulaa Daal ke man me.n
+su \:	aa_uu.N gagan se jaa_uu.N gagan me.n
+	ho
+	aa_uu.N gagan se jaa_uu.N gagan me.n
+ko \:	aa_uu.N gagan se jaa_uu.N gagan me.n
+su \:	o
+	aage ba.Dhuu.N to darashan pii ke
+	piichhe haTuu.N to sab ra.ng phiike
+ko \:	hoy
+	piichhe haTuu.N to sab ra.ng phiike
+su \:	morii aa.Nkho.n me.n
+ko \:	morii aa.Nkho.n me.n
+su \:	ho
+	morii aa.Nkho.n me.n balamaa samaa.N jaa
+ko \:	alabele sai.nyaa.N jhulanaa jhulaa jaa re \-3
+%
+#endindian
+\endsong
+%
+

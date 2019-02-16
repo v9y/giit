@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{sarafaroshii kii tamannaa ab hamaare dil me.n hai}%
+\film{23rd March 1931 Shaheed}%
+\year{2002}%
+\starring{Sunny Deol, Bobby Deol, Aishwarya Rai, Amrita Singh}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sarafaroshii kii tamannaa ab hamaare dil me.n hai
+dekhanaa hai zor kitanaa baazu\-e\-qaatil me.n hai
+
+vaqt aane par bataa de.nge tujhe ai aasamaa.n
+ham abhii se kyaa bataa_e.n kyaa hamaare dil me.n hai
+sarafaroshii kii tamannaa \threedots
+
+khe.nchakar laa_ii sabhii ko qatl hone kii ummiid
+khe.nchakar laa_ii hai sab ko qatl hone kii ummiid
+aashiqo.n kaa aaj jamaghaT kuu.nchaa\-e\-qaatil me.n hai
+sarafaroshii kii tamannaa \threedots
+%
+#endindian
+\endsong
+

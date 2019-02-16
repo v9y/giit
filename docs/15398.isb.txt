@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Kaab bikhare hai.n suhaane kyaa kyaa}%
+\film{Mahtab (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Mohsin Naqvi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+Kaab bikhare hai.n suhaane kyaa kyaa
+luT gaye apane Kazaane kyaa kyaa
+
+mu.D ke dekhaa hii thaa maazii kii taraf
+aa mile yaar puraane kyaa kyaa
+
+aaj dekhii hai jo tasviir terii
+yaad aayaa hai na jaane kyaa kyaa
+
+sirf ik tark\-e\-ta_alluq ke liye
+tuune Dhuu.NDhe hai.n bahaane kyaa kyaa
+
+raat saharaa kii ridaa par 'mohasin'
+harf likkhe the hawaa ne kyaa kyaa
+
+#endindian
+\endsong

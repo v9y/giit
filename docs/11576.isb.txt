@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tutak tutak tutak tuutiyaa ##I love you## ... tuu hai meraa maahiyaa}%
+\film{Ghar Kaa Chiraagh}%
+\year{1989}%
+\starring{Rajesh Khanna, Chunky, Neelam, Dipika, Shafi Inamdar, Om Shivpuri}%
+\singer{Alisha Chinai, Chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tutak tutak tutak tuutiyaa ##I love you##
+tuu hai tuu hai meraa maahiyaa ##I love you##
+dilavaalo.n ne pyaar kii dekho bolii na_ii banaa lii
+pyaar me.n jiinaa pyaar me.n maranaa kasam pyaar kii khaa kii
+tutak tutak tuutiyaa \threedots
+
+jab se u.ngalii me.n pahanaa hai tere naam kaa chhallaa
+naam teraa lekar chhe.De mainuu.n din raat mohallaa
+galii galii me.n tere mere naam kaa mach gayaa hallaa
+tutak tutak tuutiyaa \threedots
+
+aate jaate mujhe pa.Dhaa_ii tuune aisii paTTii
+dil se mile dil aisii ho ga_ii apanii kaTTii paTTii
+tutak tutak tuutiyaa \threedots
+%
+#endindian
+\endsong
+

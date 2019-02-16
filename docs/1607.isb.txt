@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{sar jo teraa chakaraaye, yaa dil Duubaa jaaye}%
+\film{Pyaasa}%
+\year{}%
+\starring{Guru Dutt, Waheeda Rahman, Mala Sinha, Rahman, Johnny Walker}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
+% Editor:  
+%
+\printtitle
+#indian
+%
+sar jo teraa chakaraaye, yaa dil Duubaa jaaye
+aajaa pyaare paas hamaare, kaahe ghabaraay, kaahe ghabaraay
+
+(tel meraa hai muskii, ganj rahe na khuskii 
+jis ke sar par haath phiraa duu.N, chamake kismat usakii ) \- 2
+sun sun sun, are beTaa sun, is champii me.n ba.De ba.De gun
+laakh dukho.n kii ek davaa hai, kyU.N naa aazamaaye
+kahe ghabaraaye, kahe ghabaraaye
+sar jo teraa \threedots
+
+(pyaar kaa hove jhaga.Daa, yaa bizines kaa ho raga.Daa
+sab lafa.Do.n kaa bojh haTe jab pa.De haath ik taga.Daa ) \- 2
+sun sun sun, are baabU sun, is champii me.n ba.De ba.De gun
+laakh dukho.n kii ek davaa hai, kyU.N naa aazamaaye
+kahe ghabaraaye, kahe ghabaraaye
+sar jo teraa \threedots
+
+(naukar ho yaa maalik, liiDar ho yaa pabalik
+apane aage sabhii jhuke.n hai.n, kyaa raajaa kyaa sainik ) \- 2
+sun sun sun, are beTaa sun, is champii me.n ba.De ba.De gun
+laakh dukho.n kii ek davaa hai, kyU.N naa aazamaaye
+kahe ghabaraaye, kahe ghabaraaye
+sar jo teraa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{kuchh ham bhii paagal hai.n}%
+\film{Yeh Kya Ho Raha Hai}%
+\year{2002}%
+\starring{Prashant, Vaibhav, Aamir, Yash}%
+\singer{Sweta, Sunidhi, Gayatri}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh ham bhii paagal hai.n kuchh tum bhii ho diivaane
+naa tumako ko_ii samajhe naa hamako ko_ii jaane
+ham log aise niraale hai.n
+dil jo bhii kah de vo karate hai.n
+ham dekh ke jisako zi.ndaa hai.n
+sach puuchho to usape marate hai.n
+ham hai.n jo manachale ham hai.n vo dilajale
+jiivan kii raah me.n jo duur hai.n chale
+o yaad karoge hame.n
+maan lo
+kuchh ham bhii \threedots
+
+maanaa hoge tum kahii.n aur ham kahii.n phir bhii Gam nahii.n
+jaa_e.N chaahe.n ham kahii.n aa_e.Ngii vahii.n yaade.n sab hasii.n
+yaade.n jo aa_e.Ngii kuchh aise chhaa_e.Ngii
+biite din raat kii tasviire.n laa_e.Ngii
+din raat in aa.Nkho.n me.n
+maan lo
+shikii Daa Daa Daa shikii shikii
+
+jaanaa chaahe.n tum jahaa.N sochanaa vahaa.N kyaa thaa vo samaa.n
+kaisaa thaa vo gulasitaa.n jisakii daastaa.n dil me.n hai javaa.n
+haa.N ye pal aur ye samaa.n paa_e.Nge ham kahaa.N
+yaad aa_egaa hame.n apanaa ye gulasitaa.n
+har har kadam raaho.n me.n 
+maan lo
+kuchh ham bhii \threedots
+maan lo
+%
+#endindian
+\endsong
+

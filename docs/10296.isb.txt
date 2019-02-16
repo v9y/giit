@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dekho jaataa hai ko_ii ... apanaa hii ghar luTaane}%
+\film{Adal-E-Jahaangir}%
+\year{1955}%
+\starring{Pradeep Kumar, Meena Kumari}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10231 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dekho jaataa hai ko_ii Gam kaa sahaaraa lekar
+apane ka.ndho.n pe mohabbat kaa janaazaa lekar
+
+apanaa hii ghar luTaane diivaanaa jaa rahaa hai
+khud shamaa ko bujhaane paravaanaa jaa rahaa hai
+apanaa hii ghar luTaane \threedots
+
+ye nazaaraa dekho o pyaar karane vaalo.n
+ek aa.Nsu_o.n me.n Duubaa afasaanaa jaa rahaa hai
+apanaa hii ghar luTaane \threedots
+
+Kaamosh hai mohabbat fariyaad ro rahii hai
+apanaa hii aaj banakar begaanaa jaa rahaa hai
+apanaa hii ghar luTaane \threedots
+%
+#endindian
+\endsong
+

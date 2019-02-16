@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{nigaahe.n bhii milaa karatii hai ... TuuTe naa dil TuuTe naa}%
+\film{Andaz}%
+\year{1949}%
+\starring{Raj Kapoor, Dilip Kumar, Nargis}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10606 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+nigaahe.n bhii milaa karatii hai dil bhii dil se milataa hai
+magar ik chaahane vaalaa ba.Dii mushkil se milataa hai
+
+TuuTe naa dil TuuTe naa TuuTe naa
+saath hamaaraa chhuuTe naa chhuuTe naa
+TuuTe naa dil \threedots
+
+terii tamannaa karataa huu.N mai.n
+dil kaa Kazaanaa bharataa huu.N mai.n
+( raah akelii ) \-2 Darataa huu.N mai.n
+ko_ii luTeraa luuTe naa dil TuuTe naa
+TuuTe naa dil \threedots
+
+Gam hai kahii.n tuu saath na chho.De
+dil naa dukhaa_e mu.Nh ko naa mo.De
+aas dilaakar aas na to.De
+ban ke nasiibaa phuuTe naa dil TuuTe naa
+TuuTe naa dil \threedots
+
+dil ko tere bahalaa sakataa huu.N
+chaa.Nd\-sitaare laa sakataa huu.N
+ro sakataa huu.N gaa sakataa huu.N
+mujhase agar tuu ruuThe naa dil TuuTe naa
+TuuTe naa dil \threedots
+%
+#endindian
+\endsong
+

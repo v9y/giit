@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{chupachaap so rahe hai.n ... tujhe kho diyaa hamane}%
+\film{Aan}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Nadira, Premnath, Mukri, Cukoo}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10603 [V S Rawat]
+% Comments: First colored film in Hindi, First film of Nadira
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+% this sher was not in the song version I have.
+% I found this sher prefixed to this song in a book
+
+ra \:	chupachaap so rahe hai.n vo aanabaan vaale
+	aaKir gire zamii.n par uu.Nchii u.Daan vaale
+
+la \:	tujhe kho diyaa hamane paane ke baad
+	ho
+	tujhe kho diyaa hamane paane ke baad
+	terii yaad aa_ii
+	terii yaad aa_ii tere jaane ke baad
+	terii yaad aa_ii
+	tujhe kho diyaa hamane
+
+	milaa thaa naa jab tak judaa_ii kaa Gam	mohabbat kaa matalab na samajhe the ham
+	ta.Dapane lage tiir khaane ke baad
+	ta.Dapane lage
+	ta.Dapane lage tiir khaane ke baad
+	terii yaad aa_ii
+	terii yaad aa_ii tere jaane ke baad
+	terii yaad aa_ii
+	tujhe kho diyaa hamane
+
+	nigaaho.n me.n ab tuu samaane lagaa
+	teraaaa naam ho.nTho.n pe aane lagaa
+	huye ham tere ek zamaane ke baad
+	huye ham tere
+	huye ham tere ek zamaane ke baad
+	terii yaad aa_ii
+	terii yaad aa_ii tere jaane ke baad
+	terii yaad aa_ii
+	tujhe kho diyaa hamane
+
+	mohabbat milii aur tuu kho gayaa
+	tuu kho gayaa
+	o
+	badalate hii qismat ye kyaa ho gayaa
+	kyaa ho gayaa
+	Kushii chhin ga_ii dil lagaane ke baad
+	Kushii chhin ga_ii
+	Kushii chhin ga_ii dil lagaane ke baad
+	terii yaad aa_ii
+	terii yaad aa_ii tere jaane ke baad
+	terii yaad aa_ii
+%
+#endindian
+\endsong

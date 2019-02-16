@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu pyaar kaa saagar hai}%
+\film{Seema}%
+\year{1955}%
+\starring{}%
+\singer{Manna De, chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Azra Bano
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tuu pyaar kaa saagar hai
+terii ik buu.Nd ke pyaase ham
+lauTaa jo diyaa tumane, chale jaaye.nge jahaa.N se ham
+tuu pyaar kaa saagar hai   \threedots
+
+ghaayal man kaa, paagal pa.nchhii u.Dane ko beqaraar
+pa.nkh hai.n komal, aa.Nkh hai dhu.Ndhalii, jaanaa hai saagar paar
+jaanaa hai saagar paar
+ab tuu hi ise samajhaa, raah bhuule the kahaan se ham
+tuu pyaar kaa saagar hai   \threedots
+
+idhar jhuumatii gaaye zi.ndagii, udhar hai maut kha.Dii
+koii kyaa jaane kahaa.N hai siimaa, ulajhan aan pa.Dii
+ulajhan aan pa.Dii
+kaano.n me.n zaraa kah de, ki aaye kaun dishaa se ham
+tuu pyaar kaa saagar hai   \threedots
+
+%
+#endindian
+\endsong
+%

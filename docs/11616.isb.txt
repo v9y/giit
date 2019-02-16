@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ho.nTh gulaabii gaal kaTore ... haay mai.n sadake jaavaa.N}%
+\film{Ghar Sansaar}%
+\year{1958}%
+\starring{Balraj Sahni, Rajendra Kumar, Kumkum, Shammi, Johny Walker}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10702 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	( ho.nTh gulaabii gaal kaTore nainaa suramedaar
+	haay mai.n sadake jaavaa.N ) \-2
+aa \:	( pyaar ke dubale haal ke patale majanuu.N kii sa.ntaan
+	haay mai.n sadake jaavaa.N ) \-2
+
+ra \:	dekhe zamaane bhar ke hasii.n lekin terii baat hai aur
+aa \:	aahiq to dekhe hai.n ka_ii lekin terii jaat hai aur
+ra \:	naam na jaanuu.N gaa.Nv na jaanuu.N phir bhii liyaa pahachaan
+aa \:	haay mai.n sadake jaavaa.N ) \-2
+
+ra \:	 pyaar me.n tere jalataa hai dil aatii rahanaa merii galii
+aa \:	jalataa hai dil chho.D de aa.Nchal mai.n to chalii
+ra \:	ghar nahii.n jaa_uu.N u.D nahii.n jaa_uu.N kahanaa meraa maan
+aa \:	haay mai.n sadake jaavaa.N ) \-2
+
+ra \:	tere li_e o jaan\-e\-jigar jel bhii hai ma.nzuur mujhe
+aa \:	le ke chal thaane me.n mujhe aisaa na kar majabuur mujhe
+	bole hai la.D ke Dole aka.D ke chi.Diyaa jaisii jaan
+	haay mai.n sadake jaavaa.N ) \-2
+%
+#endindian
+\endsong
+

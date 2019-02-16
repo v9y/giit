@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jisake li_e sapano.n me.n tum ho ... dekho piyaa vo}%
+\film{Raajaa Ko Raani Se Pyaar Ho Gayaa}%
+\year{2000}%
+\starring{Arvind Swami, Manisha Koirala}%
+\singer{Srinivas, Anuradha Paudwal}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jisake li_e sapano.n me.n tum ho
+jisake li_e sapano.n me.n gum ho
+dekho piyaa vo mai.n hii to huu.N
+yaad aayaa kyaa mai.n khud kyaa boluu.n
+tumane mujhe chaahaa hai sadaa
+jisake li_e sapano.n \threedots
+
+tumhaare khvaabo.n me.n guu.nje vo raag huu.N mai.n
+tumhaare dil me.n hai jo vo miiThii miiThii aag huu.N mai.n
+mai.n tumhaarii kalpanaa huu.N kah rahaa hai jiyaa
+suno.n naa piyaa
+jisake li_e sapano.n \threedots
+
+ye pal anokhaa hai samay kii raaho.n me.n
+jo kal thaa khvaabo.n me.n hai ab nigaaho.n me.n
+jisane mere sapano.n me.n hai ra.ng saa bhar diyaa
+vahii mil gayaa
+
+jis shokh kaa diivaanaa huu.N mai.n
+jis shamaa kaa paravaanaa huu.N mai.n
+sach hai priyaa vo tum hii to ho
+shaq isame.n kyaa vo tum hii to ho
+maine jise chaahaa hai sadaa
+sach hai priyaa
+%
+#endindian
+\endsong
+

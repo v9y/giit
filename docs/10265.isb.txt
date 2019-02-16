@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tum aaj mere sa.ng ha.Ns lo tum aaj mere sa.ng gaa lo}%
+\film{Aashiq}%
+\year{1962}%
+\starring{Raj Kapoor, Padmini, Nanda, Abhi Bhattacharya, Leela Chitnis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10915 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tum aaj mere sa.ng ha.Ns lo tum aaj mere sa.ng gaa lo
+aur ha.Nsate\-gaate is jiivan kii ulajhii raah sa.Nvaaro
+tum aaj mere \threedots
+
+shaam kaa suuraj bi.ndiyaa ban kar saagar me.n kho jaa_e
+subah\-savere vo hii suuraj aashaa lekar aa_e
+na_ii uma.nge.n na_ii tara.nge.n aas kii jyoti jagaa_e re aas kii jyoti jagaa_e
+tum aaj mere \threedots
+
+dukh me.n jo gaa_e malhaar vo insaa.N kahalaa_e \-2
+jaise ba.nshii ke siine me.n chhed hai phir bhii gaa_e
+gaate\-gaate ro_e mayuuraa phir bhii naach dikhaa_e re phir bhii naach dikhaa_e
+tum aaj mere \threedots
+%
+#endindian
+\endsong
+

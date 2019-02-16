@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tere ham ai sanam ... pyaar me.n vaadaa rahaa}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere ham ai sanam
+pyaar me.n vaadaa rahaa
+naa judaa ho.nge ham pyaar me.n vaadaa rahaa
+tere ham ai sanam \threedots
+
+terii merii merii terii yaarii ho ga_ii
+bairii saarii duniyaa hamaarii ho ga_ii
+tere sivaay dil me.n nahii.n ko_ii mere
+chho.D de zamaanaa ishaare pe tere pyaar me.n vaadaa rahaa
+tere ham ai sanam \threedots
+
+aa.Nkho.n me.n hai.n sapane sinduurii shaam ke
+dekhuu.n teraa raastaa mai.n dil ko thaam ke
+Dolii li_e tere dvaare aa_uu.ngaa
+dekhegaa jahaa.n mai.n tujhe le jaa_uu.ngaa pyaar me.n vaadaa rahaa
+tere ham ai sanam \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{bedardii baalamaa tujhako meraa man yaad karataa hai}%
+\film{Aarzoo}%
+\year{}%
+\starring{Rajendra Kumar, Sadhana, Feroz Khan}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Rohini (rohini@csd4.csd.uwm.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bedardii baalamaa tujhako meraa man yaad karataa hai
+barasataa hai jo aa.Nkho.n se vo saavan yaad karataa hai
+
+kabhii ham saath guzare jin sajiilii rahaguzaaro.n se
+fizaa ke bhes me.n girate hai.n ab patte chanaaro.n se
+ye raahe.n yaad karatii hai.n ye gulashan yaad karataa hai
+
+koii jho.nkaa havaa kaa jab meraa aa.Nchal u.Daataa hai
+gumaa.N hotaa hai jaise tuu meraa daaman hilaataa hai
+kabhii chuumaa thaa jo tuune vo daaman yaad karataa hai
+
+vo hii hai.n jhiil ke ma.ndar vo hii kirano.n ki barasaate.n
+jahaa.N ham tum kiyaa karate the paharo.n pyaar kii baate.n
+tujhe is jhiil kaa Kaamosh darapan yaad karataa hai
+%
+#endindian
+\endsong
+%

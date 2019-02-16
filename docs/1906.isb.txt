@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{ye hasarat thii ke is duniyaa me.n bas do kaam kar jaate}%
+\film{Nausherwan-e-Adil}%
+\year{1957}%
+\starring{Raj Kumar, Sohrab Modi, Mala Sinha}%
+\singer{Rafi}%
+\music{C Ramchandra}%
+\lyrics{Parvez Shamsi}%
+% 
+% Contributor: Sanjeev Ramabhadran <sanjeevr@phoenix.princeton.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/27/1996
+%
+\printtitle
+#indian
+%
+yah hasarat thii ke is duniyaa me.n bas do kaam kar jaate
+tumhaarii yaad me.n jiite, tumhaare Gam me.n mar jaate
+
+yah duniyaa Duubatii tuufaan aataa is qayaamat kaa
+agar dam bhar ko aa.Nkho.n me.n merii aa.Nsuu Thahar jaate
+
+tumhaarii yaad aa\-aakar mere nashtar chubhotii hai
+magar na dil ke saare zaKm itane din me.n bhar jaate
+
+kahaa.N tak dukh uThaae.n terii furqat aur judaaii ke
+agar maranaa hii thaa ek din, na kyuu.N phir aaj mar jaate
+%
+#endindian
+\endsong
+%
+

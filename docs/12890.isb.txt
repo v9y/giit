@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ek din ##college## gayaa thaa ... do duunii chaar hu_aa re}%
+\film{Mahaa Sangraam}%
+\year{1990}%
+\starring{Vinod Khanna, Govinda, Madhuri, Aditya Pancholi, Sonu Walia, Sumeet Saigal}%
+\singer{Anuradha Paudwal, Amit Kumar}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek din ##college## gayaa thaa mil ga_ii la.Dakii hasii.n
+maine ye sochaa kar duu.n ishaaraa la.Dakii ha.Nsii to pha.nsii
+do duunii chaar hu_aa re pyaar hu_aa pyaar hu_aa re
+
+mai.n bhii ##college## ga_ii thii ek la.Dakaa piichhe pa.Daa
+jaa_uu.n jahaa.n mai.n nazare.n bachaa ke dekhuu.n vahaa.n vo kha.Daa
+do duunii chaar hu_aa \threedots
+
+mai.n sair karane gayaa thaa nadiyaa kinaare pahalii baar gayaa thaa
+bhiigii bhiigii milii vahii.n ek la.Dakii mere dil me.n bhii ko_ii aag bha.Dakii
+maine ye sochaa kar duu.n \threedots
+
+kuchh lene mai.n baazaar ga_ii thii jaake vahaa.n dil haar ga_ii thii
+javaa.n javaa.n milaa vahaa.n ek la.Dakaa dekhaa jab use meraa dil dha.Dakaa
+maine sochaa \threedots
+
+naadaan hai tuu itanaa na jaane vo la.Dakii tuu hii to thii
+naadaan hai tuu itanaa na jaane vo la.Dakaa tuu hii to thaa
+do duunii chaar hu_aa \threedots
+%
+#endindian
+\endsong
+

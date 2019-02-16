@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{so jaa chup ho jaa ... kaahe mere raajaa tujhe}%
+\film{Jaan Ki Qasam}%
+\year{1991}%
+\starring{Krishna, Saathi Ganguli, Suresh Oberoi, Ranjeet, Raza Murad}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+so jaa chup ho jaa \-4
+ku \:	kaahe mere raajaa tujhe ni.ndiyaa na aa_e \-2
+	##daddy## teraa gaa ke tujhe loriyaa.N sunaa_e
+
+a \:	kaahe mere raajaa \threedots
+	##mummy## terii gaa ke tujhe loriyaa.N sunaa_e
+	kaahe mere raajaa \threedots
+
+	tuu merii jaan hai dil kaa Tuka.Daa
+	har gha.Dii nihaaratii huu.N mai.n teraa mukha.Daa
+ku \:	tuu merii jaan hai dil kaa Tuka.Daa
+	har gha.Dii nihaarataa huu.N mai.n teraa mukha.Daa
+	kaahe mere raajaa \threedots
+
+	aasamaa.n chhat teraa dharatii bichhaunaa
+	pe.Do.n kii ye Daaliyaa.N hai.n teraa khilaunaa
+	aasamaa.n chhat teraa \threedots
+	pavan aake tujhe jhuule me.n jhulaa_e
+	kaahe mere raajaa \threedots
+
+	ek din aa_egii kishtii kinaare
+	zindagii guzaar de.nge tere sahaare
+	ek din aa_egii \threedots
+	mamataa kii le tujhe baa.Nho.n me.n bulaa_e
+	kaahe mere raajaa \threedots
+%
+#endindian
+\endsong
+

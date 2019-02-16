@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ai pyaar terii duniyaa se ham}%
+\film{Jhanjhar}%
+\year{}%
+\starring{Motilal, Kamini Kaushal}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar
+% Date: June 12, 1998
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+bahaare.n bech Daalii, phuu.Nk Daalaa aashiyaane ko
+zaraa sii raakh rakh dii, bevafaa tere dikhaane ko
+
+ai pyaar terii duniyaa se ham bas itanii nishaanii leke chale
+ek TuuTa hua dil saath rahaa, ek rotii javaanii leke chale
+
+aa_e the baDe aramaan liye, siine me.n ka_ii tuufaan liye 
+anjaam ye hai, siine me.n dabii ek Gam kii kahaanii leke chale 
+ae pyaar terii duniyaa se ham   \threedots
+
+do din kii muhabbat me.n aakhir, ham terii galii se kyaa lete
+itanii bhii navaazish hai terii, aa.Nkho.n me.n ye paanii leke chale
+ae pyaar terii duniyaa se ham   \threedots
+
+%
+#endindian 
+\endsong 
+%

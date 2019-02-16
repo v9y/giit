@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{tuu hamako dekh aur hamaarii nazar se dekh}%
+\film{Zindagi Aur Hum}%
+\year{}%
+\starring{Nalini Jaywant, Dinesh, Chand Usmani}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Veer Mohammadpuri}%
+% 
+% Contributor: Neha Desai <umdesai@cc.UManitoba.CA>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/29/1996
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+%          Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+%          Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+%
+\printtitle
+#indian
+%
+tuu hamako dekh aur hamaarii nazar se dekh
+??? adaa se pyaar se pyaarii nazar se dekh
+
+ra.Ngat gulo.n se chaa.Nd se ujalii sii chaa.Ndanii
+bulabul ke taraane liye koyal sii raaganii
+ra.Ngat gulo.n se chaa.Nd se ujalii sii chaa.Ndanii
+tab husn\-e\-dil fareb kiye \threedots
+tuu hamako dekh \threedots
+
+ham voh nahii.n ki hona asar jinakii chaah me.n
+yah yaad rukh ke tuu hai hamaarii nigaah me.n
+ham voh nahii.n ho na asar jinakii chaah me.n
+lekin hai ek farq mohabbat kii raah me.n
+tuu hamako dekh \threedots
+
+phuulo.n se khelanaa hai bahaaro.n se aake mil
+milane kii baat hai zaraa muskuraake mil
+phuulo.n se khelanaa hai bahaaro.n se aake mil
+aaiye hosh\-daar hosh kaa paradaa uThaake mil
+tuu hamako dekh \threedots
+%
+#endindian
+\endsong
+%
+

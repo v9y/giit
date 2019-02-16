@@ -1,0 +1,51 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{phir aane lagaa yaad vohii pyaar kaa aalam}%
+\film{Ye Dil Kisko Doon}%
+\year{1963}%
+\starring{Shammi Kapoor, Raagini}%
+\singer{Rafi, Usha Khanna}%
+\music{Iqbal Qureshi}%
+\lyrics{Qamar Jalalabadi}%
+% 
+% Audio on: 
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date: 17 Jan 2005
+% Series: Rafi Veritable Gems
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+rafii:phir aane lagaa yaad vohii pyaar kaa aalam
+inakaar kaa aalam kabhii iqaraar kaa aalam
+phir aane lagaa yaad vohii pyaar kaa aalam
+ushaa:pyaar kaa aalam
+
+rafii:(vo pahalii mulaaqaat me.n)\-2
+vo pahalii mulaaqaat me.n ra.ngiin ishaare
+phir baato.n hii baato.n me.n vo Takaraar kaa aalam
+phir aane lagaa yaad vohii pyaar kaa aalam
+ushaa:pyaar kaa aalam
+
+rafii: (vo jhuumataa balakhaataa)\-2
+(vo jhuumataa balakhaataa huaa sar\-e\-kharaamaa ?)
+mai.n kaise bhulaa duu.N terii rafataar kaa aalam
+phir aane lagaa yaad vohii pyaar kaa aalam
+ushaa:pyaar kaa aalam
+
+rafii: (kab aaye the vo kab gaye)\-2
+kab aaye the vo kab gaye, kuchh yaad nahii.n hai
+aa.Nkho.n me.n basaa hai vohii diidaar kaa aalam
+phir aane lagaa yaad vohii pyaar kaa aalam
+inakaar kaa aalam kabhii iqaraar kaa aalam
+ushaa:pyaar kaa aalam
+rafii:pyaar kaa aalam
+ushaa:pyaar kaa aalam
+rafii: haay pyaar kaa aalam
+%
+#endindian
+\endsong

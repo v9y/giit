@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{jab baadal ghir\-ghir aa_e.nge kaho jii kit jaa_e.nge}%
+\film{Dak Bangla}%
+\year{1947}%
+\starring{Vasti, Suraiya, Gop, M Ismail, Kamal Kapoor, Ram Pyari, Anwari Bai}%
+\singer{Mukesh, Suraiya}%
+\music{Naresh Bhattacharya}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #10303 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	jab baadal ghir\-ghir aa_e.nge
+	kaho jii ( kit jaa_e.nge ) \-2
+su \:	jab baadal ghir\-ghir aa_e.nge
+	( kasam torii ) \-2 chal naa paa_e.nge
+	jab baadal ghir\-ghir \threedots
+
+mu \:	raam kare abake saavan naa aa_e
+	aur baras\-baras kar baadal naa tarasaa_e
+su \:	aise bol na bol ( mar jaa_e.nge) \-2
+	haay re ( kasam torii ) \-2 \threedots
+
+su \:	saa.Nch kahuu.N sajan mere
+	jii na laage bin tere
+mu \:	aaTho.n pahar mohe aas aas tihaarii rahe haay ghere
+su \:	aise bol na bol \threedots
+%
+#endindian
+\endsong
+

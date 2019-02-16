@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{terii mahafil me.n dil thaame teraa diivaanaa aataa hai}%
+\film{Sheeshaa}%
+\year{1952}%
+\starring{Nargis, Sajjan, Vimla, Amar, Achala, Cukkoo, Kumkum}%
+\singer{Rafi}%
+\music{Gulam Mohammad}%
+\lyrics{Umar Ansari}%
+%
+% Contributor: BOL ANAMOL #10203 [V S Rawat]
+% Transliterator: 
+% Comments: First Film of Kumkum
+% 
+\printtitle
+#indian
+%
+terii mahafil me.n dil thaame teraa diivaanaa aataa hai \-2
+Thahar ( o shamaa jalane ke li_e ) \-2 paravaanaa aataa hai
+terii mahafil me.n dil \threedots
+
+bahakataa la.Dakha.Daataa jhuumataa terii mohabbat me.n \-2
+terii mohabbat me.n
+qafan baa.Ndhe hu_e chal ke teraa mastaanaa aataa hai
+terii mahafil me.n dil \threedots
+
+Kabar le apane dil kii dil hamaaraa to.Dane vaale \-2
+dil to.Dane vaale
+ke shiishe ko hame.n patthar se bhii Takaraanaa aataa hai
+terii mahafil me.n dil \threedots
+%
+#endindian
+\endsong
+

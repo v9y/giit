@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{maan jaa_i_e baat mere dil kii jaan jaa_i_e}%
+\film{Himmat}%
+\year{1970}%
+\starring{Jeetendra, Mumtaz, Prem Chopra, K N Singh}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11135 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	maan jaa_i_e maan jaa_i_e baat mere dil kii jaan jaa_i_e
+aa \:	sharam se jhukii aa.Nkh kii rukii saa.Ns kii
+	kyaa hai marazii pahachaan jaa_i_e
+	maan jaa_i_e \threedots
+
+aa \:	pyaar me.n ye din\-raat ba.De ra.ngiin hone vaale hai.n
+ra \:	ek the ham phir do hu_e ab tiin hone vaale hai.n
+aa \:	na gini_e aage bas balam aap hai.n ba.De hii anajaan jaa_i_e
+	maan jaa_i_e \threedots
+
+ra \:	in baato.n se ek hasiinaa ruuTh jaa_egii dekho
+aa \:	chup ho jaa_o nii.nd hamaarii TuuT jaa_egii dekho
+ra \:	yahaa.N nii.nd kaa kyaa kaam liyaa naam aap hai.n ba.De naadaan jaa_i_e
+	maan jaa_i_e \threedots
+
+ra \:		paas aa ke tum dekho ik baar aise mausam me.n
+	vo harajaa_ii jo chhe.De hai takaraar aise mausam me.n
+aa \:	magar aapakaa yaqii.n nahii.n jii nahii.n
+	aap hai.n ba.De be_iimaan jaa_i_e
+	maan jaa_i_e \threedots
+%
+#endindian
+\endsong
+

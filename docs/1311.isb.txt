@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{naanii terii moranii ko mor le gae}%
+\film{Masoom}%
+\year{1954}%
+\starring{Sarosh Irani, Honey Irani, Manmohan Krishna}%
+\singer{Ranu Mukherjee}%
+\music{Hemant}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subramanian  (subraman@cs.umn.edu)
+%          Vedprakash Kodipyaka (kodipya@wiliki.eng.hawaii.edu)
+%
+\printtitle
+#indian
+%
+(naanii terii moranii ko mor le gae
+baakii jo bachaa thaa kaale chor le gae ) \- 2
+
+(khaake piike moTe hoke, chor baiThe rel me.n
+choro.n vaalaa Dibbaa kaT kar, pahu.Nchaa siidhe jel me.n ) \- 2
+naanii terii moranii ko \threedots
+
+(un choro.n kii khuub khabar lii, moTe thaanedaar ne
+moro.n ko bhii khuub nachaayaa, ja.ngal kii sarakaar ne ) \- 2
+naanii terii moranii ko \threedots
+
+(achchhii naanii pyaarii naanii, ruusaa\-ruusii chho.D de
+jal_dii se ek paisaa de de, tuu ka.njuusii chho.D de ) \- 2
+naanii terii moranii ko \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,48 @@
+% 
+\startsong
+\stitle{dilabar mere kab tak mujhe aise hii ta.Dapaaoge}%
+\film{Satte Pe Satta}%
+\year{1981}%
+\starring{Amitabh, Hema}%
+\singer{Kishore, Annette}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+
+% Audio On: MIL/Universal
+% Contributor: Neeraj Deshmukh <deshmukh@isip01.isip.msstate.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu
+% Edited by: George Thomas
+% Date: 06/13/1996
+%
+\printtitle
+#indian
+%
+kishor:
+(dilabar mere kab tak mujhe aise hii ta.Dapaaoge
+mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge)\-2
+ek din aayegaa, pyaar ho jaayegaa
+o ho mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge
+
+(sochoge jab mere baare me.n tanahaaiyo.n me.n
+ ghir jaaoge aur bhii merii parachhaaiyo.n me.n)  \-2
+ho, dil machal jaayegaa, pyaar ho jaayegaa
+dilabar mere kab tak mujhe aise hii ta.Dapaaoge
+mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge
+
+ana.cT
+laa laa laa \threedots
+
+kishor:
+(dil se milegaa jo dil to mahakane lagoge
+ tum merii baaho.n me.n aake bahakane lagoge) \-2
+e hosh kho jaayegaa, pyaar ho jaayegaa
+dilabar mere kab tak mujhe aise hii ta.Dapaaoge
+mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge
+ek din aayegaa, pyaar ho jaayegaa
+o ho mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge
+dilabar mere kab tak mujhe aise hii ta.Dapaaoge
+mai.n aag dil me.n lagaa duu.Ngaa vo ki pal me.n pighal jaaoge
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{hamane kii aarazuu to hame.n kyaa milaa}%
+\film{Yeh Kya Ho Raha Hai}%
+\year{2002}%
+\starring{Prashant, Vaibhav, Aamir, Yash}%
+\singer{Shankar, Babul}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamane kii aarazuu to hame.n kyaa milaa
+o pyaar kii ma.nzile.n paa_egaa dil teraa
+jhuuThe saare khvaab hame.n naa dikhaa
+sachche tere khvaab hai.n pal do pal Thahar jaa
+ho hamane kii aarazuu \threedots
+
+nadiyaa.n khud chal ke pyaaso.n ke paas aa_e.Ngii
+ban ke kaalii ghaTaa zulfe.n laharaa_e.Ngii
+nadiyaa.n aate aate rastaa badal jaatii hai.n
+badaliyaa.n barase bin aage nikal jaatii hai.n
+ho paa_egii zi.ndagii ek din har khushii
+jhuuThe saare khvaab \threedots
+
+sapano.n kii nagarii me.n dil to gayaa thaa bahal
+ab ye jaanaa ki the ret ke vo mahal
+dil ke raste pe karate raho tum safar
+agale hii mo.D pe pyaar kaa hai nagar
+o aasamaa.n ye zamii.n kuchh nahii.n kuchh nahii.n
+sachche tere khvaab \threedots
+%
+#endindian
+\endsong
+

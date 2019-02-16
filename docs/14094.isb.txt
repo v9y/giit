@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tuu mahal me.n rahane vaalii ... bataa phir teraa\-meraa}%
+\film{Shabnam}%
+\year{1949}%
+\starring{Dilip Kumar, Kaamini Kaushal}%
+\singer{Mukesh, Shamshad}%
+\music{S D Burman}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10046 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mu \:	tuu mahal me.n rahane vaalii mai.n kuTiyaa me.n rahane vaalaa
+	bataa phir teraa\-meraa pyaar kyaa
+	tuu aasamaan kaa taaraa mai.n ik zarraa bechaaraa
+	bataa phir teraa\-meraa pyaar kyaa
+
+sha \:	mere dil me.n pyaar kii aag piyaa haay ( lagii rahii ) \-3
+	mai.n khol ke khi.Dakii mahal kii haay re ( kha.Dii rahii ) \-3
+mu  \:	tuu ha.Nsatii kha.Dii us paar merii naav biich majhadhaar
+	bataa phir \threedots
+
+sha \:	terii miiThii\-miiThii yaad mere dil me.n haay re haay ( aatii rahii ) \-3
+	merii bhiigii\-bhiigii a.Nkhhiyo.n se ni.ndiyaa haay re haay ( jaatii rahii ) \-3
+mu  \:	terii jhuuThii hai har baat tuu chho.D ga_ii meraa saath
+	bataa phir \threedots
+
+sha \:	jab rimajhim\-rimajhim\-rimajhim barakhaa haay re haay ( hotii rahii ) \-3
+	mai.n saavan ke baadalo.n ke sa.ng\-sa.ng haay re haay ( rotii rahii ) \-3
+mu  \:	tuu khel samajh kar rotii tere aa.Nsuu mahal ke motii
+	bataa phir \threedots
+%
+#endindian
+\endsong
+

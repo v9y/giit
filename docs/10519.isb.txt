@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{cha.ndaa jaisii bi.ndiyaa terii ... naacho mere sa.ng}%
+\film{Benaam}%
+\year{1999}%
+\starring{Mithun Chakravarti, Aditya Pancholi, Payal Malhotra}%
+\singer{Abhijit, Sapana Mukherji}%
+\music{Bappi Lahiri}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tinaa tinaa tinaa tin chuu.Dii bole saaraa din
+
+cha.ndaa jaisii bi.ndiyaa terii ho.nTho.n kaa hai laal ra.ng
+phuulo.n jaisaa goraa goraa raanii hai teraa a.ng
+naacho mere sa.ng jhuumo.n mere sa.ng
+
+pyaarii pyaarii baate.n terii dil me.n jagaa_e.n uma.ng
+u.Dane lage pa.nkh binaa jaise u.De ho pata.ng
+naacho mere sa.ng \threedots
+
+goraa badan usape laal chunar mujhe diivaanaa kare o jaan\-e\-man
+dekho mujhe naa naa naa chhuunaa nahii.n u.De.nge hosh mere maano sajan
+cha.ndaa jaisii bi.ndiyaa \threedots
+
+Tha.nDii pavan jhuum ke chalane lagii aag sii lagane lagii ye kyaa hu_aa
+jaan\-e\-jigar naa hai terii khataa jaaduu hai ye pyaar kaa
+pyaarii pyaarii baate.n \threedots
+%
+#endindian
+\endsong
+

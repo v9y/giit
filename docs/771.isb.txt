@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ishq Kud maayal-e-hijaab-o-hayaa}%
+\film{non-Film}%
+\starring{}%
+\singer{Saigal}%
+\music{}%
+\lyrics{Seemab Akbarabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator:
+% Credits:
+% Editor:
+\printtitle
+#indian
+%
+ishq Kud maayal-e-hijaab-o-hayaa
+husn majabuur-e-iztaraab-o-hayaa
+ 
+naalaa-e-dil ko dil se laad nahii.n
+naGmaa aazurdaa-e-rubaab-o-hayaa
+ 
+maiqadaa Gamazadaa hai tere baGair
+sar na ku shiishaa-o-sharaab-o-hayaa
+ 
+zi.ndagii jis me.n saa.Ns letii thii
+vo zamaanaa Khayaal-o-Khvaab-o-hayaa
+ 
+miT gaye dil ke valavale 'siimaab'
+Khatm afsaanaa-e-shabaab-o-hayaa
+%
+#endindian
+\endsong

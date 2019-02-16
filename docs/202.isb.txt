@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{allaah megh de, paanii de chhaayaa de re raamaa megh de}%
+\film{Guide}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: vinay bhale (vinay@delta.corp.sgi.com)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.e)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+allaah megh de, paanii de,  chhaayaa de re raamaa megh de
+shyaamaa megh de
+allaah megh de, paanii de,  chhaayaa de re raamaa megh de
+
+aa.Nkhe.n phaa.De duniyaa dekhe,  hAy ye tamaashaa
+aa.Nkhe.n phaa.De \threedots
+aa.Nkhe.n phaa.De duniyaa dekhe,  hAy ye tamaashaa
+hai ye vish{}vaas teraa, hai terii aashaa
+allaah megh de \threedots
+
+allaah megh de, paanii de,  chhaayaa de re raamaa megh de
+%
+#endindian
+\endsong
+%

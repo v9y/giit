@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{merii chhoTii sii bahan dekho gahane pahan}%
+\film{Toofan Aur Deeyaa}%
+\year{1956}%
+\starring{Satish Vyas,  Nanda, Rajendra Kumar,  Vatsala, Shanta Kumari, Ulhas}%
+\singer{Geeta, Lata}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10052 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+gii \:	merii chhoTii sii bahan dekho gahane pahan
+	sasuraal chalii re ban Than ke
+	haatho.n me.n gajaraa akhiyo.n me.n kajaraa
+	nakhare to dekho dulhan ke
+	merii chhoTii sii bahan \threedots
+
+la  \:	meraa bhaiyaa hai diivaanaa isakii baato.n me.n na aanaa
+	jhuuThii batiyaa.N banaa_e ban ban ke
+	pagalaa hai.n man se ye gha.Dii gha.Dii sanake
+	isake puraje hai.n Dhiile bachapan se
+	merii chhoTii sii bahan \threedots
+
+gii \:	sasuraal ga_ii to diidii ham ko bhii bhuul jaa_ogii
+	vahaa.N jiijaa kii miThaa_ii khaa khaa kuppe sii phuul jaa_ogii
+	moTii moTii bahuu ban phir ba.De ba.De rob dikhaa_ogii
+	na khilaa_ogii jo khaanaa peT bharu.n.Ngaa 
+	chorii chorii terii baate.n sun ke
+	merii chhoTii sii bahan \threedots
+
+la \:	bholii dekh ke mujhe bolii bolate kyo.n aka.D aka.D ke
+	bach na paa_oge re bachchuu ham se yuu.N jhaga.D jhaga.D ke
+	ham jaanate hai.n tumhe.n tum gol gol Dhol ho raba.D ke
+	zaraa aane de bhaabhii ko siidhaa karegii kaan paka.D ke
+	haa.N tere chuuhe jaise kaan paka.D ke
+	paa.Nv paka.Doge tum naak raga.Doge tum
+	merii chhoTii sii bahan \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{are ho, goriyaa kahaa.N teraa des re, goriyaa kahaa.N teraa des}%
+\film{Caravan}%
+\year{1971}%
+\starring{Jeetendra, Asha Parekh, Aruna Irani}%
+\singer{Rafi, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: C.S. Sudarshan Bhat (ceindian@utacnvx.uta.edu) 
+% Transliterator: Ravi Kant Rai 
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Ikram Ahmed Khan (iak1111@tamaix.tamu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ra: he goriyaa jal{}dii aa re  \threedots
+
+are ho, goriyaa kahaa.N teraa des re, goriyaa kahaa.N teraa des
+are ho, tohe dekhU.N to laage Thes re, goriyaa kahaa.N teraa des
+
+A: ##mmm## \threedots laal laal laal chunar o.Dhe, ban me.n phire bahaar
+ra: hai gaal gaal sulage re teraa, jiyaa jale hamaar
+A: ho \threedots chhaiyaa.n pa.De jahaa.N torI re
+ho \threedots Dagar vahii.n saajan morii re
+##mmm## \threedots aahe ##mmm## \threedots aahe
+yayayaya yayaya naahI
+ra: are ho badalaa kaise tUne bhes re, goriyaa kahaa.N teraa des
+ko: hurr aa haa, takadhin 
+A: oy oy oy oy oy oy oy oy
+
+ghUm ghUm ke galii galii, jaanaa piyaa ke dvaar
+ra: o mo.D mo.D pe gorii terii, paayal kare pukaar
+A: ho \threedots raah me.n paayal morii baajegii
+o \threedots  dharatii gagan tale naachegii
+##mmm## \threedots aahe m \threedots aahe
+yayayaya yayaya aahe
+ra: are ho mukh pe u.De kaale kes re, goriyaa kahaa.N teraa des
+
+A: nain nain me.n kaajal Daale, DhU.nDhU.n DhU.nDhU.n piyaa kaa haath
+o dekh dekh re u.Dataa baadal, naa din ruke na raat
+o \threedots ujiyaarA hai kahii.n a.ndheraa
+aa \threedots saa.Njh kahii.n kahii.n saveraa
+##mmm## \threedots aahe m \threedots aahe
+yayayaya yayaya aahe
+ra: are ho ba.njaaro.n kaa nahii.n des re, goriyaa kahaa.N teraa des
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{chhaayaa samaa.N suhaanaa}%
+\film{Naach}%
+\year{1949}%
+\starring{Suraiya, Shyam, Vasti, Omprakash, Kuldeep Kaur}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: BOL ANAMOL #12563 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ra \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+do \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+
+ra \:	aramaa.N machal rahe hai.n ho.nTho.n pe hai taraanaa \-2
+	dil kis tarah sambhaale haay jawaa.N zamaanaa
+
+	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+do \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+
+su \:	aa.Nkho.n me.n hai.n bahaare.n ab ham jise pukaare.n \-2
+	kisase kahe.n nigaahe.n ye pyaar kaa fasaanaa
+
+	ho chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+do \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+
+ra \:	sunataa na ho kahii.n wo baiThaa na ho kahii.n wo \-2
+	karate ho pyaar jisase dil jisape hai luTaanaa
+
+	ho chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+do \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+
+su \:	o chaa.Nd chaudahwii.n ke mai.n huu.N terii chakorii \-2
+	meraa dil na to.D denaa mat kar galat uThaanaa
+
+	ho chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+do \:	chhaayaa samaa.N suhaanaa ho chhaayaa samaa.N suhaanaa
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mujhe tum mil ga_e hamadam sahaaraa ho to aisaa ho}%
+\film{Love In Tokyo}%
+\year{1966}%
+\starring{Joy Mukherji, Asha Parekh}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11012 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mujhe tum mil ga_e hamadam sahaaraa ho to aisaa ho
+jidhar dekhuu.N udhar tum ho nazaaraa ho to aisaa ho
+mujhe tum mil ga_e \threedots
+
+kisii kaa chaa.Nd saa cheharaa nazar se chuum letii huu.N \-2
+Kushii kii intahaa.N ye hai nashe me.n jhuum letii huu.N \-2
+hu_ii taqadiir bhii roshan sitaaraa ho to aisaa ho
+jidhar dekhuu.N udhar \threedots
+
+udhar dil hai idhar jaa.N hai ajab mushkil kaa saamaa.N hai \-2
+labo.n par muskaraahaT hai magar saa.Nso.n me.n tuufaa.N hai \-2
+ye mai.n jaanuu.N yaa tum jaano ishaaraa ho to aisaa ho
+jidhar dekhuu.N udhar \threedots
+%
+#endindian
+\endsong
+

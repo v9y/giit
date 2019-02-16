@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{vafaa ke naam par miTanaa ... agar tuu aabaruu apanii}%
+\film{Ladaki Pasand Hai}%
+\year{1971}%
+\starring{Mumtaz, Deepak Kumar, Sulochana, Sajjan, Rajendranath, Jeevan}%
+\singer{Mukesh}%
+\music{Sonik Omi}%
+\lyrics{G S Rawal}%
+%
+% Contributor: BOL ANAMOL #10383 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+vafaa ke naam par miTanaa nahii.n aayaa agar tujhako
+to phir jism\-e\-vafaa baazaar me.n kyuu.N bechatii hai tuu
+
+agar tuu aabaruu apanii bachaa letii to achchhaa thaa
+jo apanii aag me.n khud ko jalaa letii to achchhaa thaa
+agar tuu aabaruu \threedots
+
+lagaa kar aag ho.nTho.n se kisii kaa ghar jalaa denaa
+kisii kii jaan jaanaa aur teraa muskaraa denaa ki teraa muskaraa denaa
+kisii par jaan dekar muskaraa letii to achchhaa thaa
+agar tuu aabaruu \threedots
+
+satii to aan hotii hai tuu unakii nishaanii hai
+na haragiz bhuul beGairat tuu hindostaanii hai ki tuu hindostaanii hai
+agar tuu sharm ko jevar banaa letii to achchhaa thaa
+agar tuu aabaruu \threedots
+%
+#endindian
+\endsong
+

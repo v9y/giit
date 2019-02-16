@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{meraa shaayar hai tuu meraa naGmaa ... dil me.n tujhe rakh liyaa ajii shukriyaa}%
+\film{Maina}%
+\year{1992?}%
+\starring{}%
+\singer{Anuradha Paudwal, Pankaj Udhas}%
+\music{Naresh Sharma}%
+\lyrics{Payaam Sayyedi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa shaayar hai tuu meraa naGmaa hai tuu
+merii jannat hai tuu merii duniyaa hai tuu
+dil me.n tujhe rakh liyaa ajii shukriyaa
+
+merii dha.Dakan hai tuu merii chaahat hai tuu
+merii ma.nzil hai tuu merii kismat hai tuu
+pyaar mujhe de diyaa teraa shukriyaa
+
+janmo.n se pyaaraa tuu hai sanam tuu meraa jiivan meraa janam
+vaado.n kaa kyaa hai kasamo.n kaa kyaa tuu meraa vaadaa merii kasam
+tuu meraa dil hai tuu jaan hai jiivan pe teraa ehasaan hai
+saa.Nso.n kaa jiivan se khushbuu kaa phuulo.n se
+dilabara jo rishtaa hai apanaa hai rishtaa vahii
+meraa shaayar hai tuu \threedots
+
+rishtaa hamaaraa janmo.n kaa hai pyaaraa milan do ruuho.n kaa hai
+lagataa hai aisaa paa ke tujhe ye pyaar apanaa sadiyo.n kaa hai
+jitane janam bhii hamane li_e ik duusare ke ban ke ji_e
+saagar ne maujo.n ne cha.ndaa ne taaro.n ne
+dharatii ne ambar ne dekhaa hai apanaa milan
+meraa shaayar hai tuu \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ek baat maan lo tum}%
+\film{Khel}%
+\year{}%
+\starring{Madhuri Dixit, Anil Kapoor, Anupam Kher}%
+\singer{Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Satish Subramaniam
+% Transliterator: K Vijay Kumar
+% Credits:
+% Series : The Missing Element (7)
+%
+\printtitle
+#indian
+%
+ek baat maan lo tum
+jo kahuu.N mai.n vo karo tum
+jo karo to meraa vaadaa
+mai.n karuu.Ngii jo kaho tum, tum
+tum mujhako chaa.Nd laake do - iDlii uu, iDlii uu
+mujhko taare laake do - iDlii uu, iDlii uu
+aur saare laake do!
+
+merii tumako jo tamannaa hai
+mujhase tumako agar milanaa hai
+to pareshaa.N ho kyo.n?
+aise hairaa.N ho kyo.n?
+mai.n miluu.Ngii tumako pahale jaao to!
+mujhako chaa.Nd laake do - iDlii uu, iDlii uu
+mujhko taare laake do - iDlii uu, iDlii uu
+aur saare laake do!
+
+ek baat maan lo tum
+jo kahuu.N mai.n vo karo tum
+la, la, la   \threedots
+
+sa ga ni sa ga ma pa, pa pa ma pa ga ma sa!
+sa ga ni sa ga ma pa, pa pa ma pa ga ma sa!
+
+tumako jitanii mai.n pyaarii huu.N
+samajho utanii hii tumhaarii huu.N
+koii mushkil nahii.n
+duur man.zil nahii.n
+chaahate ho tum jo mujhako paao to,
+mujhako chaa.Nd laake do - iDlii uu, iDlii uu
+mujhko taare laake do - iDlii uu, iDlii uu
+aur saare laake do!
+
+sa sa sa sa   \threedots
+ga ga sa sa   \threedots
+pa pa   \threedots
+
+%
+#endindian
+\endsong
+%

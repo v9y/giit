@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ham bhii hai.n josh me.n ... saa_iilaaro saa_iilaare}%
+\film{Josh}%
+\year{2000}%
+\starring{Shahrukh Khan, Aishwarya Rai, Chandrachud Singh, Sharad Kapoor, Priya Gil}%
+\singer{Suresh Peter, Mano}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham bhii hai.n josh me.n
+baate.n kar hosh me.n
+yuu.n na aa.Nkhe.n dikhaa
+saa_iilaaro saa_iilaare
+kyaa bolaa phir bol re
+ham bhii hai.n \threedots
+
+dekhe.n hai tere jaise teraa iraadaa kyaa hai bataa
+jaa re yahaa.n naa aa re na hamase karanaa ko_ii Kataa
+tuu kaun re chal duur jaa baate.n na kar yuu.n naa Daraa
+sun beKabar jo dam hai agar
+aajaa ruu\-ba\-ruu kare.n ja.ng shuruu
+samajhaa hai tuu kyaa
+saa_iilaaro saa_iilaare \threedots
+
+yayyaa yayyaa yayyaa re yayyaa yayyaa re yayyaa re
+bachake zaraa saa bachake tuu rahanaa hamase pyaare yahaa.n
+haTake zaraa saa haTake hai Darataa hamase saaraa jahaa.n
+na yuu.n shor kar hai la.Danaa agar
+to maidaa.n me.n aa na sar ko chhupaa
+Kabaradaar huu.n mai.n taiyaar huu.n
+auqaat kyaa terii jaat kyaa
+ye to mujhako bataa
+saa_iilaaro saa_iilaare \threedots
+%
+#endindian
+\endsong
+

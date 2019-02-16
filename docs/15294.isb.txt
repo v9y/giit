@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+startsong
+\stitle{dard dil me.n uThaa sochate sochate}%
+\film{Aabshaar-E-Ghazal (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Asha}%
+\music{Hariharan}%
+\lyrics{Naqsh Lyallpuri}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+dard dil me.n uThaa sochate sochate
+yaa kyaa aa gayaa sochate sochate
+
+kaun thaa kyaa thaa wo yaad aataa nahii.n
+yaad aa jaayegaa sochate sochate
+
+raah me.n rah ga_ii aane waalii sahar
+bujh gayaa har diyaa sochate sochate
+
+ajanabii log hai.n ajanabii raaste
+mai.n kahaa.N aa gayaa sochate sochate
+
+duur ho kar na ham\-tum qariib aa sake
+ba.Dh gayaa faasalaa sochate sochate
+
+#endindian
+\endsong

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ThaNDii havaa kaalii ghaTaa aa hii ga_ii jhuum ke}%
+\film{Mr. and Mrs. 55}%
+\year{1955}%
+\starring{Guru Dutt, Madhubala, Lalita Pawar}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(ThaNDI havA, kAlI ghaTA, A hI gaI jhUm ke
+pyAr liye Dole ha.NsI nAche jiyA ghUm ke ) \- 2
+
+baiThI thI chupachAp yU.NhI dil kI kalI chun ke mai.n \- 2
+dil ne ye kyA bAt kahI rah na sakI sun ke mai.n
+mai.n jo chalI
+mai.n jo chalI dil ne kahA aur zarA jhUm ke
+pyAr liye Dole ha.NsI nAche jiyA ghUm ke 
+ThaNDI havA, kAlI ghaTA \threedots
+
+Aj to mai.n apanI chhavI dekh ke sharamA gaI \- 2
+jAne ye kyA soch rahI thI ke ha.NsI A gaI
+loT gaI
+loT gaI zulf merI ho.nTh merA chUm ke
+pyAr liye Dole ha.NsI nAche jiyA ghUm ke 
+ThaNDI havA, kAlI ghaTA \threedots
+
+dil kA har ek tAr hilA chhe.Dane lagI rAganI \- 2
+kajarA bhare nain liye ban ke chalU.N kAmanI
+kah do koI
+kah do koI Aj ghaTA barase zarA jhUm ke
+pyAr liye Dole ha.NsI nAche jiyA ghUm ke 
+ThaNDI havA, kAlI ghaTA \threedots
+%
+#endindian
+\endsong
+%

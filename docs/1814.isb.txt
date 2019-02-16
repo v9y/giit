@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{tuu mere saamane hai, terii zulfe.n hai.n khulii}%
+\film{Suhaagan}%
+\year{}%
+\starring{Guru Dutt, Mala Sinha}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Kamlesh <krnanavati@uncc.campus.mci.net>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 02/20/1997
+% Comments: Year 1965 
+%
+\printtitle
+#indian
+%
+(tuu mere saamane hai
+ terii zulfe.n hai.n khulii
+ teraa aa.Nchal hai Dhalaa
+ mai.n bhale hosh me.n kaise rahuu.N) \- 2
+
+tuu mere saamane hai \threedots
+
+terii aa.Nkhe.n to chhalakate hue paimaane hai.n
+aur tere ho.nTh larajate hue maikhaane hai.n
+mai.n bhalaa hosh me.n kaise rahuu.N, kaise rahuu.N
+tuu mere saamane hai \threedots
+
+tuu jo ha.Nsatii hai to bijalii sii chamak jaatii hai
+terii saa.Nso.n se Gulaabo.n kii mahak aatii hai
+tuu jo chalatii hai to kudarat bhii bahak jaatii hai
+mai.n bhalaa hosh me.n kaise rahuu.N, kaise rahuu.N
+tuu mere saamane hai \threedots
+%
+#endindian
+\endsong
+%
+

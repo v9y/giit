@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mil jaate hai.n jo pyaar me.n}%
+\film{Aarzoo}%
+\year{1999}%
+\starring{Akshay Kumar, Saif Ali Khan, Madhuri Dixit}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he mil jaate hai.n jo pyaar me.n marake bhii vo bichha.Date nahii.n 
+ham unhe.n bhuul sakate nahii.n vo hame.n bhuul sakate nahii.n
+ho mil jaate hai.n \threedots
+
+kaun sii chaa.Ndanii raat me.n kyaa hu_aa kis mulaakaat me.n
+yaad aatii hai jab bhii ko_ii baat bas baat hii baat me.n
+jaise rote hai.n dil TuuT ke aise saavan barasate nahii.n
+o mil jaate hai.n \threedots
+
+Gam kii nazaro.n pe chhaayaa hu_aa dard ha.Nsate nazaaro.n kaa hai
+dil ke baahar hai patajha.D magar dil me.n mausam bahaaro.n kaa hai
+unakii yaado.n ke ye phuul to TuuT kar bhii bikharate nahii.n
+o mil jaate hai.n \threedots
+
+hamako le jaa_egii ab kahaa.n pyaar kii ye galii kyaa pataa
+bhuul se ham yahaa.n aa ga_e vaapasii kaa nahii.n raastaa
+isali_e bachake chalate hai.n log is galii se guzarate nahii.n
+ho mil jaate hai.n \threedots
+
+kis taraf kisako aavaaz de.n kaun jaane kahaa.n rah gayaa
+raat Gam kii guzaratii ga_ii ye a.ndheraa yahaa.n rah gayaa
+ham jahaa.n hai.n vahaa.n aajakal chaa.Nd suuraj nikalate nahii.n
+mil jaate hai.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{sultaanaa sultaanaa meraa naam hai sultaanaa}%
+\film{Taraana}%
+\year{1979}%
+\starring{Ranjeeta, Mithun}%
+\singer{Usha, chorus}%
+\music{Ram Laxman}%
+\lyrics{Ravinder Rawal}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+sultaanaa sultaanaa meraa nam hai sultaanaa
+mere husn kaa har a.ndaaz mastaanaa
+mai.n pariyo.n kii raanii
+ - kukuu
+merii cha.Dhatii javaanii
+ - kukuu
+jo bhii dekhe ho jaaye diivaanaa
+ - sultaanaa
+sultaanaa sultaanaa \threedots
+
+mai.n chaal chaluu.N to hiraNii ruk jaaye
+a.Nga.Daa_ii luu.N to bijalii sharamaaye, haa.N
+mai.n shokh kalii huu.N
+ - kukuu
+cha.nchal titalii huu.N
+ - kukuu
+mai.n shokh kalii, cha.nchal titalii
+har koii detaa hai dil nazaraanaa
+ - sultaanaa
+sultaanaa sultaanaa \threedots
+
+maasuum samajh ke Dore mat Daalo
+dil se jaaoge are o dil vaalo.n, haa.N
+mai.n aaj yahaa.N huu.N
+ - kukuu
+kal jaane kahaa.N huu.N
+ - kukuu
+mai.n aaj yahaa.N kal jaane kahaa.N
+ba.njaaro.n kaa kab koii Thikaanaa
+ - sultaanaa
+
+sultaanaa sultaanaa meraa nam hai sultaanaa
+mere husn kaa har a.ndaaz mastaanaa
+
+%
+#endindian
+\endsong
+%

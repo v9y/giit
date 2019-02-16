@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{pukaaro mujhe naam lekar pukaaro}%
+\film{Bhool Na Jaana}%
+\year{1960s}%
+\starring{}%
+\singer{Mukesh}%
+\music{Daan Singh}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Preeti Ranjan Panda <ppanda@du.ics.uci.edu> 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 08/01/1996
+% Credits: pradeep@watson.ibm.com (Pradeep Dubey)
+%          ADhareshwar@worldbank.org (Ashok Dhareshwar)
+% Comments: The film was never completed. The songs were released
+% sometime in the mid-60's and were highly appreciated.
+%
+\printtitle
+#indian
+%
+pukaaro mujhe naam lekar pukaaro
+mujhe tumase apanii khabar mil rahii hai
+
+ka_ii baar yuu.N bhii huaa hai safar me.n
+achaanak se do ajanabii mil gae ho
+jinhe.n ruup pahachaanatii ho ??? se
+bhaTakate\-bhaTakate vahii mil gae ho
+ku.Nvaare labo.n kii qasam to.D do tum
+zaraa muskuraakar bahaare.n sa.Nvaaro
+pukaare mujhe naam \threedots
+
+khayaalo.n me.n tum ne bhii dekhii to ho.ngii
+kabhii mere khvaabo.n kii dhu.Ndhalii lakiire.n
+tumhaarii hathelii se milatii hai.n jaakar
+mere haath kii ye adhuurii lakiire.n
+ba.Dii sar cha.Dhii hai.n ye zulfe.n tumhaarii
+ye zulfe.n mere baazuo.n me.n utaaro
+pukaaro mujhe naam \threedots
+%
+#endindian
+\endsong
+%
+

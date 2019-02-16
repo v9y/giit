@@ -1,0 +1,41 @@
+% ITRANS SONG # 3353; Created on Jan 26, 2004
+%
+% From: Aashish Thakker (athakker@usc.edu)
+% Date: 2002-01-30 22:14:51 PST
+%
+\startsong
+\stitle{jaam thaam le sochate hii sochate naa biite saarii raat}%
+\film{Shahenshah}%
+\year{1953}%
+\starring{Kamini Kaushal, Ranjan}%
+\singer{Shamshad}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Aashish Thakker
+% Transliterator: Aashish Thakker
+% Date: 30 January 2002
+% Credits: Srinivas Ganti
+%
+\printtitle
+#indian
+%
+jaam thaam le
+sochate hii sochate naa biite saarii raat
+jaam thaam le /-2
+
+saj ke aaii hai shiishe kii parii
+Dhuu.nDh ke laaii hai dilo.n kii khushii
+jannat se kudarat ne bhejaa tere liye iinaam
+duniyaa ke har dukh kaa daaru ek sunaharii jaam
+jaam thaam le /threedots
+
+subeh duur hai raat kii kasam
+dil kii maan le mere sanam
+mastii kii in ghaDiyo.n me.n kyaa soch samajh kaa kaam
+zulfo.n ke saaye me.n naadaa.n kar bhii le aaraam
+jaam thaam le /threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tum kitanii khuubasuurat ho, ye mere dil se puuchho}%
+\film{Jungle Mein Mangal}%
+\year{1972}%
+\starring{Pran, Kiran kumar, Ranjit and Reena roy}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat, Neeraj}%
+%
+% Contributor: Sanjeev Kumar (sanjeev@bnr.ca)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum kitanI khuubasUrat ho
+ye mere dil se puuchho
+in dha.Dakano.n se puuchho tum
+kyo.n dil hai tumase dIvaanaa
+
+1) sharamaa rahii ho jaanaa
+bal khaa rahii ho jaanaa
+mujhe maano yaa naa maano
+apanaa to tumhii ko maanaa
+
+2) kabhii duur jaake luuTaa
+kabhii paas aake luuTaa
+jo sitam kii aaj tumane
+mujhe muskuraake luuTaa
+%
+#endindian
+\endsong
+%

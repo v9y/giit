@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aadamii jo kahataa hai, aadamii jo sunataa hai}%
+\film{Majboor}%
+\year{1974}%
+\starring{Amitabh Bachchan, Praveen Babi}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+kabhii sochataa huu.N, ki mai.n chup rahuu.N
+kabhii sochataa huu.N, ki mai.n kuchh kahuu.N
+
+aadamii jo sunataa hai, aadamii jo kahataa hai
+zi.ndagii bhar vo sadaaye.n piichhaa karatii hai.n
+aadamii jo detaa hai, aadamii jo karataa hai
+raaste me vo duaa_e.n piichhaa karatii hai.n
+
+koii bhii ho har Kvaab to achchhaa nahii.n hotaa
+bahut jyaadaa pyaar bhii achchhaa nahii.n hotaa hai
+kabhii daaman chhu.Daanaa ho, to mushkil ho
+pyaar ke raste chhuTe to, pyaar ke rishte TuuTe to
+zi.ndagii bhar phir vafaa_e.n piichhaa karatii hai.n   \threedots
+
+kabhii kabhii man dhuup ke kaaraN tarasataa hai
+kabhii kabhii phir dil me.n, saavan barasataa hai
+pyaas kabhii bujhatii nahii.n, ik buu.Nd bhii milatii nahii.n
+aur kabhii rim jhim ghaTaa_e.n piichhaa karatii hai.n   \threedots
+
+%
+#endindian
+\endsong
+%

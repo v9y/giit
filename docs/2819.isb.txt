@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil kii duniyaa basaa ke saa.Nvariyaa}%
+\film{Amardeep}%
+\year{1958}%
+\starring{Dev Anand, Vyjayantimaala, Padmini}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+
+(dil kii duniyaa basaa ke saa.Nvariyaa)\-2
+tum na jaane kahaa.n kho gaye, kho gaye
+saath rahanaa thaa saarii umariyaa
+duur naazaro.n se kyo.n ho gaye, ho gaye
+
+jaane vaale
+(jaane vaale, pataa teraa mai.n ne
+aatii jaatii bahaaro.n se puuchhaa)\-2
+(chup rahe jab zamiin ke nazaare
+aasamaan ke sitaaro.n se puuchhaa)\-2
+(sun ke baadal bhii merii kahaanii)\-2 
+bebasii par merii ro gaye, ro gaye
+dil kii duniyaa \threedots
+
+ha.Ns rahaa hai
+(ha.Ns rahaa hai ye zaalim zamaanaa
+apanii khushiy.on kii mahafil sajaaye)\-2
+(mai.n akelii magar ro rahii huu.N
+terii yaado.n ko dil se lagaaye)\-2
+(bahate bahate ye aa.Nsuu bhii haare)\-2
+aake palako.n pe so gaye,so gaye
+dil kii duniyaa \threedots
+
+%
+#endindian
+\endsong
+%

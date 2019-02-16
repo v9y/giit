@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{aaj mausam salonaa\-salonaa re}%
+\film{Jhoola}%
+\year{1941}%
+\starring{Ashok Kumar, Leela Chitnis}%
+\singer{Ashok Kumar, Arun Kumar, Rahmat Bano}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11993 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	tananaa tanananaa tananaa
+	aaj mausam salonaa\-salonaa re \-2
+	din salonaa ritu salonii
+	mausam salonaa re
+aru, ra \:	mausam salonaa\-salonaa re
+	haa.N salonaa re
+	din salonaa ritu salonii
+	mausam salonaa re
+
+a \:	chamake chamaacham mere sapane \-2
+	jaise chaa.Ndii\-sonaa re
+aru, ra \:	mausam salonaa\-salonaa re
+	haa.N salonaa re
+	din salonaa ritu salonii
+	mausam salonaa re
+
+a \:	( kisakaa aaj sandesaa aayaa
+	daso.n dishaa me.n aanand chhaayaa ) \-2
+	mere man me.n chhabi kisii kii \-2
+	kar ga_ii jaaduu\-Tonaa re
+aru, ra \:	mausam salonaa\-salonaa re
+ra \:	haa.N salonaa re
+aru \:	haa.N salonaa re
+a \:	haa.N
+	din salonaa ritu salonii
+	mausam salonaa re
+
+a \:	( mere jiiwan me.n jaagii diwaalii
+	aaj hazaaro.n diipak waalii ) \-2
+	jagamag\-jagamag ho gayaa mere
+	man kaa konaa\-konaa re \-2
+aru, ra \:	mausam salonaa\-salonaa re
+	haa.N salonaa re
+	din salonaa ritu salonii
+	mausam salonaa re
+
+	chamake chamaacham mere sapane \-2
+	jaise chaa.Ndii\-sonaa re
+	aaj mausam salonaa\-salonaa re
+	haa.N salonaa re
+	din salonaa ritu salonii
+	mausam salonaa re
+%
+#endindian
+\endsong
+

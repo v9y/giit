@@ -1,0 +1,45 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{ye dil sun rahaa hai}%
+\film{Khamoshi - The Musical}%
+\year{1996}%
+\starring{Salma, Manisha, Nana Patekar, Sima Biswas, Helen}%
+\singer{Kavita Krishnamurthy}%
+\music{Jatin-Lalit}%
+\lyrics{Majrooh}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Jaydutt Shukla
+% Transliterator: 
+% Date: 20 Dec 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+ye dil sun rahaa hai
+tere dil kii zubaa.n
+
+ai mere hamanashii.n
+tuu jahaa.N mai.n vahaa.N
+ye dil \threedots
+
+merii sadaa me.n bole tuu
+ye koii kyaa jaane
+geet me.n hai, saaz me.n hai
+tuu hii tuu, naGmaa kahaa.N
+ye dil \threedots
+
+dard\-e\-mohabbat ke sivaa
+mai.n bhii kyaa, tuu bhii kyaa
+ye zamii.n ham, aasamaa.N ham
+(ab hame.n jaanaa kahaa.N
+jaanaa kahaa.N) \-2
+
+%
+#endindian
+\endsong

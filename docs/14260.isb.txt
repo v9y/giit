@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ham tumase wafaa karate tum hamase wafaa karate}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Suraiya, Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12603 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ra \:	ham tumase wafaa karate tum hamase wafaa karate
+	jo farz muhabbat kaa ham dono.n adaa karate
+
+su \:	ma.nzuur jo kii duurii hogii ko_ii majabuurii \-2
+	bebas na agar hote kyuu.N tumako judaa karate
+	ham tumase wafaa karate tum hamase wafaa karate
+
+ra \:	jis dil me.n muhabbat ke aramaan basaaye the \-2
+	tumako na Kayaal aayaa us dil pe jafaa karate
+	ham tumase wafaa karate tum hamase wafaa karate
+
+su \:	tum duur ho kyaa jaano jiite hai.n yaa marate hai.n \-2
+	gar dekh liyaa hotaa hamase na gilaa karate
+	ham tumase wafaa karate tum hamase wafaa karate
+	jo farz muhabbat kaa ham dono.n adaa karate
+%
+#endindian
+\endsong
+%
+

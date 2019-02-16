@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kyaa yahii pyaar hai ... dil pe chhaane lagaa hai nashaa pyaar kaa}%
+\film{Kya Yehi Pyaar Hai}%
+\year{2002}%
+\starring{Jackie Shroff, Aftab Shivdasani, Ameesha Patel, Anupama Verma}%
+\singer{Sunidhi Chauhan, KayKay}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa yahii pyaar hai
+dil pe chhaane lagaa hai nashaa pyaar kaa
+o dil pe chhaane lagaa hai nashaa pyaar kaa
+ab to aane lagaa hai mazaa pyaar kaa
+bekhudii chhaa ga_ii aashiqii aa ga_ii
+kyaa yahii pyaar hai dil zaraa tuu bataa
+dil pe chhaane lagaa \threedots
+
+merii merii nazar me.n jaaduu jaaduu basaa hai
+merii har ik adaa kaa tuu hai tuu hai diivaanaa
+he jaaduu jaaduu jaaduu to teraa mujh pe mujh pe mujh pe chalaa hai
+usake usake usake asar se mai.n huu.N mai.n huu.N diivaanaa
+tuu bataa de zaraa tuu bataa de zaraa ye tujhe kyaa hu_aa
+kyaa yahii pyaar hai \threedots
+
+chandaa chandaa chandaa saa jaanaa.n teraa teraa teraa badan hai
+us pe us pe us pe qayaamat teraa yuu.n hii sharamaanaa
+teraa teraa sanam ye kaisaa diivaanaapan hai
+tuune tuune banaayaa yuu.n hii kaisaa afasaanaa
+pal me.n dil le gayaa kuchh pataa naa chalaa
+kyaa yahii pyaar hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{satyam shivam sundaram}%
+\film{Satyam Shivam Sundaram}%
+\year{1978}%
+\starring{Shashi Kapoor, Zeenat Aman}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Nita
+% Transliterator: Nita
+% Editor:
+% Date: 17th February 2000
+%
+\printtitle
+#indian
+%
+
+ishvar satya hai
+satya hii shiv hai
+shiv hii sundar hai
+jaago uTh kar dekho
+jiivan jyot ujaagar hai
+
+satyam shivam sundaram \- 2
+ishvar satya hai
+satya hii shiv hai
+shiv hii sundar hai
+satyam shivam sundaram \- 2
+
+raam avadh me.n kaashii me.n shiv kaa.nhaa vRindavan me.n
+dayaa karo prabhuu dekhuu.N in ko \- 2
+har ghar ke aa.Ngan me.n
+raadhaa mohan sharaNam
+satyam shivam sundaram \- 2
+
+ek suuryaa hai ek gagan hai ek hii dharatii maataa
+dayaa karo prabhuu ek bane.n sab
+sab kaa ek se naataa
+raadhaa mohan sharaNam
+satyam shivam sundaram \- 2
+
+%
+#endindian
+\endsong
+%

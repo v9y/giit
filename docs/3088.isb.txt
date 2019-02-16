@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{har hasii.n chiiz kaa mai.n talab_gaar huu.N}%
+\film{Saudagar}%
+\year{1973}%
+\starring{Amitabh, Nutan, Padma Khanna}%
+\singer{Kishore}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Aashish Thakker
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+har hasii.n chiiz kaa mai.n talab_gaar huu.N  \-2 
+ras kaa phuulo.n kaa giito.n kaa biimaar huu.N  \-2 
+har hasii.n chiiz kaa mai.n talab_gaar huu.N
+
+saaraa gaa.Nv mujhe rasiyaa kahe \-2
+jo bhii dekhe man_basiyaa kahe
+haay re jo bhii dekhe man_basiyaa kahe
+sab kii nazaro.n kaa ek mai.n hii diidaar huu.N
+ras kaa phuulo.n kaa giito.n kaa biimaar huu.N \threedots
+
+{koii kahe bha.Nvaraa mujhe koii diivaanaa
+ bhed mere man kaa magar kisii ne na jaanaa } \-2
+ronaa mai.n ne kabhii siikhaa nahii.n \-2
+chakhaa jiivan me.n phal phiikaa nahii.n
+haay re haay chakhaa jiivan me.n phal phiikaa nahii.n
+mai.n to har mol dene ko taiyaar huu.N
+ras kaa phuulo.n kaa giito.n kaa biimaar huu.N \threedots
+
+%
+#endindian
+\endsong
+%

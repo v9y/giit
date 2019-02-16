@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{raajaa ko raanii se pyaar ho gayaa}%
+\film{Akele Hum Akele Tum}%
+\year{1995}%
+\starring{Aamir Khan, Manisha Koirala}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raajaa ko raanii se pyaar ho gayaa pahalii nazar me.n pahalaa pyaar ho gayaa
+dil jigar dono.n ghaayal hu_e tiir\-e\-nazar dil ke paar ho gayaa
+raajaa ko raanii se \threedots
+
+ho raaho.n se raahe.n baaho.n se baahe.n milake bhii milatii nahii.n
+ho hotaa hai aksar aramaa.n kii kaliyaa.n khil ke bhii khilatii nahii.n
+o phir bhii na jaane kyuu.n nahii.n maane diivaanaa dil bekaraar ho gayaa
+raajaa ko raanii se \threedots
+
+raanii ko dekho nazare.n milii.n to aa.Nkhe.n churaane lagii
+ho karatii bhii kyaa vo sar ko jhukaa ke ka.nganaa ghumaane lagii
+ho raajaa ne aisaa jaaduu chalaayaa na karate karate ikaraar ho gayaa
+raajaa ko raanii se \threedots
+%
+#endindian
+\endsong
+
+

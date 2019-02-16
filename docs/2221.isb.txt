@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{tayyab alii pyaar ka dushaman}%
+\film{Amar Akbar Anthony}%
+\year{1977}%
+\starring{Rishi Kapoor, Neetu Singh, Mukri, Amitabh, Vinod Khanna, Parveen Babi, Shabana, Pran, Nirupa Roy, Jeevan}%
+\singer{Rafi, Mukri, chorus}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+r:  tayyab alii pyaar kaa dushaman haay! haay!
+    merii jaan kaa dushaman haay! haay!
+
+    la.Dakaa aur la.Dakii
+ko: raazii
+r:  phir bhii na maane
+ko: qaazii
+r:  ye zidd na chho.De, mere dil ko to.De
+    ye banane na de merii salamaa ko merii dulhan
+    tayyab alii pyaar kaa dushaman haay! haay!
+
+r:  laka.Dii beche aur na samajhe, la.Dakii ke aramaano.n ko
+    moTaa seTh taraazuu me.n tole
+    haa.N taraazuu me.n tole
+    chhoTe insaano.n ko
+    ho jaaye buDDhaa
+ko: haa.N jii
+r:  allaah ko pyaaraa
+ko: haa.N jii
+r:  mai.n kar luu.N shaadii
+    khaanaa aabaadii
+    sulajh jaaye pal me.n merii baraso.n kii ulajhan
+    tayyab alii   \threedots
+
+    saaTh baras kii umar me.n aise cheharaa kisii kaa khilataa hai
+    hamako hai maaluum kisii se, kisii se
+    chhupakar ye bhii milataa hai
+    mai.n naam bataa_uu.N?
+mu: na jii, na jii, na jii
+r:  tasaviir dikhaa_uu.N?
+mu: na jii, na jii, na jii
+r:  Dar gayaa ye kaise
+    baazaar me.n aise
+    shariifo.n ko ham rusavaa nahii.n karate miyaa.N jumman
+    tayyab alii   \threedots
+%
+#endindian
+\endsong
+%

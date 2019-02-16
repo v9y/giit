@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{muurti gaNesh kii andar daulat desh kii ... aaj hamaarii Takkar hai}%
+\film{Takkar}%
+\year{1980}%
+\starring{Ashok Kumar, Jeetendra, Vinod Mehra, Zeenat Aman, Jayaprada, Bindiya Goswami, Asrani}%
+\singer{Kishore, Mahendra Kapoor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11611 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+muurti gaNesh kii andar daulat desh kii
+logo.n dekho dhyaan se puuchho is be_iimaan se
+kyaa chakkar hai
+haa.N aaj hamaarii Takkar hai
+
+galii me.n shor hai saadhuu nahii.n ye chor hai
+uupar se kuchh aur hai andar se kuchh aur hai
+tum isako pahachaan lo aur diivaano jaan lo
+kyaa
+lekar usakaa naam tuu karataa hai ye kaam tuu
+kaahe ko bhagavaan ko karataa hai badanaam tuu
+
+kaaGaz saa dhul jaa_egaa bhed teraa khul jaa_egaa
+ye ko_ii shaitaan hai ye paapii insaan hai
+ye meraa apamaan nahii.n dharm kaa ye apamaan hai
+roke hai ye bhagavaan ko roko is shaitaan ko
+%
+#endindian
+\endsong
+

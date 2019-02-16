@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{agar dil kisii se lagaayaa na hotaa}%
+\film{Bada Admi}%
+\year{1961}%
+\starring{Sheikh Mukhtar, Vijaya Choudhary, Mukri}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10104 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+agar dil kisii se lagaayaa na hotaa
+zamaane ne hamako miTaayaa na hotaa
+agar dil kisii se \threedots
+
+giraanaa hii thaa tuune ( aa.Nsuu samajh ke ) \-2
+to nazaro.n me.n hamako basaayaa na hotaa
+agar dil kisii se \threedots
+
+muqaddar me.n gar yahii ( rusavaa_iyaa.N thii.n) \-2
+to mahafil me.n terii mai.n aayaa na hotaa
+agar dil kisii se \threedots
+
+agar tere daaman kii ( hasarat na hotii ) \-2
+to yuu.N zindagii ko miTaayaa na hotaa
+agar dil kisii se \threedots
+%
+#endindian
+\endsong
+

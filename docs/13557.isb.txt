@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{sone detii hai na raat ko_ii baat karo}%
+\film{Patangaa}%
+\year{1971}%
+\starring{Shashi Kapoor, Vimi, Ajit, Rajendra Nath}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: BOL ANAMOL #11187 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+sone detii hai na raat ko_ii baat karo
+ho suhaagan ye mulaakaat ko_ii baat karo
+
+tuu javaa.N mai.n bhii javaa.N pyaas javaa.N dil javaa.N
+mai.n jaluu.N ban ke pata.ngaa tuu machal ban ke shamaa
+ishq kii umar hai ik raat ko_ii baat karo
+sone detii hai na \threedots
+
+haay maasuum nazar usape qaatil ye adaa
+jaise de javaanii bachapan ko sadaa
+jaane phir ho ke na ho saath ko_ii baat karo
+ho suhaagan ye \threedots
+
+jaise bachchaa ko_ii kho jaa_e mele me.n
+karavaTe.n badale ko_ii aarazuu dil me.n
+yuu.N bahake hu_e jazbaat ko_ii baat karo
+ho suhaagan ye \threedots
+%
+#endindian
+\endsong
+

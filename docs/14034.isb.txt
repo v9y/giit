@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mile.n tum se bichha.D ke ham mere saajan du_aa karanaa}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	mile.n tum se bichha.D ke ham mere saajan du_aa karanaa \-2
+	sahe.n ha.Ns ke tumhaare Gam \-2 mere saajan du_aa karanaa
+	mile.n tum se bichha.D ke \threedots
+
+	ulfat ke nasheman me.n kisane ye Gam kii aag lagaa_ii hai \-2
+	mu.Dakar jo hamane dekhaa to ( bas chaaro taraf tanhaa_ii hai ) \-2
+	aa_e pyaar kaa phir mausam mere saajan du_aa karanaa \-2
+ku \:	sahe.n ha.Ns ke tumhaare Gam \threedots
+
+	yaado.n kii sulagatii raat me.n ham dil thaam ke royaa karate hai.n
+	ba.Dii hasarat se tasviir terii ( ashqo.n se bhigoyaa karate hai.n ) \-2
+	ulfat kii ho nazar\-e\-karam merii jaanam du_aa karanaa \-2
+	sahe.n ha.Ns ke tumhaare Gam \threedots
+
+a \:	kyaa Kuub hai.n ham the diivaane jo unakii tamannaa karate hai.n \-2
+	ye baate.n hame.n maaluum hai vo ( kisii aur ko chaahaa karate hai.n ) \-2
+	kabhii pyaar na ho ye kam mere hamadam du_aa karanaa \-2
+	sahe.n ha.Ns ke tumhaare Gam \threedots
+%
+#endindian
+\endsong
+

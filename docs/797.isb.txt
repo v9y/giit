@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jaane kahaa.N gae vo din, kahate the terii raah me.n}%
+\film{Mera Naam Joker}%
+\starring{Raj Kapoor}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Vikas Nehru (vikas@cs.ualberta.ca)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Levent Erbilgin at BNR Europe Ltd,Maidenhead, UK (sanjeev@bnr.ca)
+%          Jagat Mavani
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane kahaa.N gae vo din, kahate the terii raah me.n
+nazaro.n ko ham bichhaae.nge
+chaahe kahii.n bhii tum raho, chaahe.nge tumako umr bhar
+tumako naa bhuul paae.nge
+jaane kahaa.N gae vo din \threedots
+
+mere kadam jahaa.N pa.De, sajade kiye the yaar ne \- 2
+mujhako rulaa rulaa diyaa, jaatii hu_ii bahaar ne
+jaane kahaa.N gae vo din \threedots
+
+apanii nazar me.n aaj kal, din bhii a.ndherii raat hai \- 2
+saayaa hii apane saath thaa, saayaa hii apane saath hai
+jaane kahaa.N gae vo din \threedots
+
+% This stanza was sung by Mukesh on his last tour of the US.
+% It is not known to exist in 'official' or film versions.
+is dil ke aashiyaan me.n bas unake Kayaal rah gaye
+to.D ke dil vo chal diye, ham phir akele rah gaye
+jaane kahaa.N gae vo din \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil dil kaa ye kaam hai meraa to naam hai ab kyaa karuu.n}%
+\film{Raaju Chaachaa}%
+\year{2000}%
+\starring{Ajay Devgan, Kajol, Rishi Kapoor}%
+\singer{Amit Kumar, Ajay Devgan}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil dil kaa ye kaam hai meraa to naam hai ab kyaa karuu.n
+binaa tere jiine naa de ye dil
+dil kaa ye kaam hai \threedots
+
+meraa kyaa hai mai.n to mar jaa_uu.ngaa
+badanaam tujhe kar jaa_uu.ngaa
+kahe.nge sab tujhe meraa qaatil
+dil dil meraa kho gayaa ye teraa ho gayaa ab kyaa karuu.n
+binaa tere jiine naa \threedots
+
+gussaa teraa pyaar ban jaa_e to
+dushman meraa yaar ban jaa_e to
+mai.n ye jaa.n bhii tujhe de duu.n
+kyaa hai dil dil kaa ye khel hai janmo.n kaa mel hai ab kyaa karuu.n
+dil kaa ye kaam hai \threedots
+
+##Anna! I love you.##
+%
+#endindian
+\endsong
+

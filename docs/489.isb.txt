@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{dil Gam se jal rahaa hai jale, par dhuaa.N na ho}%
+\film{Shama}%
+\year{1961}%
+\starring{Nimmi}%
+\singer{Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Kaifi Azmi}%
+% 
+% Contributor: Samiuddin Mohammed <sm0e@lehigh.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/25/1996
+%
+\printtitle
+#indian
+%
+dil Gam se jal rahaa hai jale, par dhuaa.N na ho
+mumakin hai isake baad koii, imtehaa.n na ho
+
+%
+% (knock knock! "Shama, Shama darwaaza khol do" )
+duniyaa to kyaa Kudaa se bhii ghabaraake kah diyaa \-2
+vah maharbaa.n nahii.n to koii maharbaa.n na ho
+dil Gam se \threedots
+
+luuTaa Kushii ne aag lagaa dii bahaar ne \-2
+barabaad is tarah bhii kisii kaa jahaa.N na ho
+dil Gam se \threedots
+
+ab to vahii.n sukuu.n milegaa mujhe jahaa.N \-2
+ye sa.ngadil zamii.n na ho, aasmaa.n na ho
+
+dil Gam se jal rahaa hai jale, par dhuaa.N na ho
+%
+#endindian
+\endsong
+%
+

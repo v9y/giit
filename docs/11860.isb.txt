@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{mai.n jaan tujhe ga_ii sa_iiyaa.N haT chho.D de}%
+\film{Howrah Bridge}%
+\year{1958}%
+\starring{Ashok Kumar, Madhubala, K N Singh}%
+\singer{Rafi, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10522 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sha \:	mai.n jaan tujhe ga_ii sa_iiyaa.N
+	haT chho.D de merii ba_iiyaa.N
+	matalab ke yaar diyaa mujhako maar
+	ab kaahe pa.Dat morii pa_iyaa.N
+	mai.n jaan ga_ii tujhe \threedots
+
+ra \:	tuu mast ghaTaa mai.n baadal
+	tuu aa.Nkh hai mai.n huu.N paagal
+	tuu saa.Ns mai.n terii Kushbuu
+	tere pyaar ne kar diyaa paagal
+sha \:	mai.n jaan ga_ii tujhe \threedots
+
+ra \:	tuu chaa.Nd kahe to laa duu.N
+	taaro.n se maa.Ng sajaa duu.N
+	hai pyaar mujhe bhii kitanaa
+	mai.n chiir ke dil dikhalaa duu.N
+sha \:	mai.n jaan ga_ii tujhe \threedots
+
+ra \:	tere gaal pe jo bhii til hai
+	meraa pyaar bharaa vo dil hai
+	mai.n raahii huu.N matavaalaa
+	tuu pyaar bharii ma.nzil hai
+sha \:	mai.n jaan ga_ii tujhe \threedots
+%
+#endindian
+\endsong
+

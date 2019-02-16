@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{kahaa.N hai.n ham ye aaj ... ijaazat ho to ham aa_e.N}%
+\film{Paighaam}%
+\year{1959}%
+\starring{Dilip Kumar, Vyjayantimala, Rajkumar,  Pandhari Bai, Motilal}%
+\singer{Rafi, Asha}%
+\music{C Ramchandra}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #10089 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	kahaa.N hai.n ham ye aaj mat puuchho ek jhuuThaa dilaasaa hai
+	hame.n mat is tarah Taalo hamaaraa pyaar pyaasaa hai
+	
+	javaanii ke akelepan kii gha.Diyaa.N hamako naa bhaa_e.N
+ra \:	ijaazat ho to ham aa_e.N
+aa \:	hamaarii bhii ye hasarat hai kisii kaa pyaar ham paa_e.N
+
+	kisii ke paas hai.n ham to magar hai ab talaq ye duurii
+ra \:	huqm de do to ham kar de.n tumhaarii ye kamii puurii
+aa \:	agar tumasaa mile ko_ii to ham jannat ko Thukaraa_e.N
+ra \:	ijaazat ho to ham aa_e.N \threedots
+
+aa \:	ye dha.Dakan kyuu.N ye ta.Dapan kyuu.N dard miiThaa saa kyaa hai ye
+ra \:	jo ab maano to ham kah de.n javaanii kii sazaa hai ye
+aa \:	binaa kaaraN ye zurmaanaa ajii ham kyuu.N na ghabaraa_e.N
+ra \:	ijaazat ho to ham aa_e.N \threedots
+%
+#endindian
+\endsong
+

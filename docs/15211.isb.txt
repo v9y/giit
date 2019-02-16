@@ -1,0 +1,48 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ham jab simaT ke aapakii baa.Nho.n me.n aa gaye}%
+\film{Waqt}%
+\year{1965}%
+\starring{Balraj Sahni, Sadhana, Sunil Dutt, Raj Kumar, Shashi Kapoor, Sharmila Tagore, Shashikala}%
+\singer{Asha, Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ma \:	o
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye \-2
+	laakho.n hasiin Kaab nigaaho.n me.n aa gaye
+	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye \-2
+
+ma \:	aa
+aa \:	Kushbuu chaman ko chho.D ke saa.Nso.n me.n ghul ga_ii \-2
+	laharaa ke apane aap jawaa.N zulf khul ga_ii
+	ham apanii dil pasa.nd panaaho.n me.n aa gaye
+	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+
+ma \:	laakho.n hasiin Kaab nigaaho.n me.n aa gaye
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+
+ma \:	kah dii hai dil kii baat nazaaro.n ke saamane \-2
+	iqaraar kar liyaa hai bahaaro.n ke saamane
+	dono.n zahaan aaj gawaaho.n me.n aa gaye
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+ma \:	laakho.n hasiin Kaab nigaaho.n me.n aa gaye
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+
+aa \:	mastii bharii ghaTaa_o.n kii parachhaa_iyo.n tale
+do \:	mastii bharii ghaTaa_o.n kii parachhaa_iyo.n tale
+	haatho.n me.n haath thaam ke jab saath ham chale
+	shaaKo.n se phuul TuuT ke raaho.n me.n aa gaye
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+ma \:	laakho.n hasiin Kaab nigaaho.n me.n aa gaye
+aa \:	ham jab simaT ke aapakii baa.Nho.n me.n aa gaye
+
+#endindian
+\endsong

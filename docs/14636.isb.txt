@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ek sitaaraa aisaa ... ##london## me.n ##india## kaa bolabaalaa ho gayaa}%
+\film{Yeh Hai Jalwa}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Ameesha Patel, Rishi Kapoor, Rinki Khanna}%
+\singer{Sukhvindar Singh, Pankaj Udhas}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa ek sitaaraa aisaa chamakaa roshan hu_aa jahaa.n
+us taare kaa naam hai pyaare meraa hindustaa.n
+o puurab kaa pashchim me.n ujaalaa ho gayaa
+o ##london## me.n ##india## kaa bolabaalaa ho gayaa
+puurab kaa pashchim me.n \threedots
+
+o ba.De duur se des paraa_e paradesii aa_e hai.n
+ho desii ba.nde apane des kaa sa.ndesaa laa_e hai.n
+yaaro.n usakaa kyaa kahanaa jisakii thii nek kamaa_ii
+sachchaa ba.ndaa o ho.ndaa jo jaane piir paraa_ii
+sunake videshii matavaalaa ho gayaa
+##london## me.n \threedots
+
+vahaa.n ke rahane vaale ham jahaa.n pyaar dilo.n me.n basataa
+kaise TuuTegaa ye ba.ndhan ye hai pyaar kaa rishtaa
+ho maine jaane kyuu.n sochaa ye des paraayaa hai
+terii baate.n sun ke meraa dil bhar aayaa hai
+o tuune jaane kyuu.n sochaa ye des paraayaa hai
+haa.n achchhaa lagaa mujhako ke teraa dil bhar aayaa hai
+rishte naato.n se ba.ndhii hai Dor ye jiivan kii
+mere is jiivan pe mere bhaarat kaa saayaa hai
+o yaar teraa kissaa to niraalaa ho gayaa
+##london## me.n \threedots
+%
+#endindian
+\endsong
+

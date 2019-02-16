@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shab wohii lekin sitaaraa aur hai}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Runa Laila}%
+\music{}%
+\lyrics{}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+shab wohii lekin sitaaraa aur hai
+ab safar kaa ista_aaraa aur hai
+
+saath to meraa zamii.n detii magar
+aasamaa.N kaa hii ishaaraa aur hai
+
+haarane me.n ik anaa kii baat thii
+jiit jaane me.n hazaaraa aur hai
+
+aur kuchh pal usakaa rastaa dekh luu.N
+aasamaa.N par ek taaraa aur hai
+
+had charaaGo.n kii yahaa.N pe Katm hai
+aaj se rastaa hamaaraa aur hai
+
+#endindian
+\endsong

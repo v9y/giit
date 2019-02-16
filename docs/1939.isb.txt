@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye raat ye chaa.Ndanii phir kahaa.N sun jaa dil kii ##(Lata version)##}%
+\film{Jaal}%
+\year{}%
+\starring{Dev Anand, Geeta Bali, K. N. Singh}%
+\singer{Lata, Hemant}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ye raat ye chaa.Ndanii phir kahaa.N, sun jaa dil kii daastaa.n
+chaa.Ndanii raate.n pyaar kii baate.n kho gayii jaane kahaa.N
+ye raat ye chaa.Ndanii phir kahaa.N, sun jaa dil kii daastaa.n
+
+aatii hai sadaa terii TuuTe hue taaro.n se
+aahaT terii sunatii huu.N khaamosh nazaaro.n se
+bhiigii havaa, uma.Dii ghaTaa kahatii hai terii kahaanii
+tere liye bechain hai sholo.n me lipaTii javaanii
+siine me bal khaa rahaa hai dhuaa.n, sun jaa dil kii daastaa.n
+ye raat ye chaa.Ndanii phir kahaa.N, sun jaa dil kii daastaa.n
+
+laharo.n ke labo.n par hai.n khoye hue afasaane
+gulazaar ummiido.n ke sab kho gaye viiraane
+teraa pataa paauu.n kahaa.N suune hai.n saare Thikaane
+jaane kahaa.N gum ho gaye jaake vo agale zamaane
+barabaad hai aarazuu kaa jahaa.N, sun jaa dil kii daastaa.n
+daastaa.n daastaa.n daastaa.n
+%
+#endindian
+\endsong
+%

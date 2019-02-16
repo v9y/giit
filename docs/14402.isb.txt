@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{zuum bumbuuraa ... is dil ne sapane kyaa kyaa sajaa_e}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Sonu Nigam, Chorus}%
+\music{Nikhil Vinay}%
+\lyrics{Ravi Pawaar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zuum bumbuuraa zuum bumbuuraa
+is dil ne sapane kyaa kyaa sajaa_e
+in sapano.n kaa kyaa karuu.n
+zuum bumbuuraa \threedots
+
+naa to mujhe pataa hai ye naa dil ko hai khabar
+naa jaane ab ye zi.ndagii le jaa_egii kidhar
+is dil ne sapane \threedots
+
+siine me.n ye dard\-e\-dil dabaanaa hai mushkil
+mai.n diivaanaa to nahii.n phir bhii mujhako hai yakii.n
+diivaanaa tuu kahegii mujhe
+zuum bumbuuraa \threedots
+
+usakii hii tamannaa me.n machalataa hai ye dil
+dekhuu.n naa mai.n jab usako to jalataa hai ye dil
+mere dil kii ye lagii vo samajhatii hii nahii.n
+har pal mai.n sochataa hii rahuu.n
+he is dil ne sapane \threedots
+%
+#endindian
+\endsong
+

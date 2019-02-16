@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{muhabbat ke maaro.n kaa}%
+\film{Bawre Nain}%
+\year{1950}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Rafi, Asha}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+muhabbat ke maaro.n kaa haal ye duniyaa me.n hotaa hai
+zamaanaa unape ha.Nsataa hai, nasiibaa unape rotaa hai
+
+ham paas tumhaare aa na sake
+ham duur bhii tumase rah na sake
+dam ghuTataa rahaa aramaano.n kaa
+kuchh kahanaa chaahaa kah na sake
+muhabbat ke maaro.n kaa   \threedots
+
+jisane hamako bar_baad kiyaa
+ham usako duaa_e.n dete hai.n
+jab dad.r se bhar aataa hai dil
+bas naam usii kaa lete hai.n
+muhabbat ke maaro.n kaa   \threedots
+
+ye dad.r chhupaaye chhup na sakaa
+ye sahanaa chaahaa sah na sake
+dil yaas se bhar aayaa lekin
+aa.Nkho.n se aa.Nsuu bah na sake
+muhabbat ke maaro.n kaa   \threedots
+
+%
+#endindian
+\endsong
+%

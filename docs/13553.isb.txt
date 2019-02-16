@@ -1,0 +1,49 @@
+i
+%
+\startsong
+\stitle{dillii hai dil hindustaan kaa}%
+\film{Patang}%
+\year{1960}%
+\starring{Mala Sinha, Rajendra Kumar, Ulhas, Raj Mehra, Achala, Manorama}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10152 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	dillii hai dil hindustaan kaa
+	ye to tiirath hai saare jahaan kaa
+	dillii hai dil \threedots
+
+la \:	kahane ko chhoTaa saa ik naam hai yah
+	socho to isake matalab hazaar
+	dil se banaa hai dillii jabhii to karataa hai
+	dil se sabhii ko pyaar
+ko \:	dil se banaa hai \threedots
+mu \:	pyaaraa hai ruus i.ngalistaan kaa
+ko \: ye to tiirath hai \threedots
+
+mu \:	bikharaa hai itihaas galiyo.n me.n isakii
+	sadiyo.n ke baakii yahaa.N par nishaan
+	hogii kashish kuchh maaTii me.n isakii
+	baapuu ne tyaage yahii.n par jo praaN
+ko \:	hogii kashish kuchh \threedots
+mu \:	kyaa kahanaa isakii shaan kaa
+ko \: ye to tiirath hai \threedots
+
+la \:	charchaa hai isakaa saare jahaan me.n
+	beshaq yahii to bhaarat kaa taaj
+mu \:	shobhaa hai is taaj kii vo javaahar
+	jisakaa hamaare dilo.n par hai raaj
+ko \:	shobhaa hai is taaj \threedots
+la \:	raxak bhaarat kii aan kaa
+ko \: ye to tiirath hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ai baadal jhuum ke chal}%
+\film{Naadaan}%
+\year{1971}%
+\starring{Asha Parekh, Navin Nishchal, Nirupa Roy, Helen}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11186 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( ai baadal ) \-2 jhuum ke chal
+zamii.n ko chuum ke chal
+mausam mahakaa\-mahakaa hai
+dil bahakaa\-bahakaa jaa_e
+ai baadal jhuum ke \threedots
+
+chal \-5
+
+kyaa ra.ng\-ra.ngiilii vaadii hai
+ye dhuup chamakatii chaa.Ndii hai
+is apane vatan se ho is apane vatan se
+ik priit kii Dorii baa.Ndhii hai
+haay ai baadal jhuum ke \threedots
+
+jho.nkaa jo havaa kaa aataa hai
+Kushbuu ko churaakar laataa hai
+titalii bhii Dole o bha.Nvaraa bhii bole
+jharanaa bhii taraane gaataa hai
+haay ai baadal jhuum ke \threedots
+%
+#endindian
+\endsong
+

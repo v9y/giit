@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{zaraa sa.mbhaalanaa ... ki teraa\-meraa nayaa\-nayaa pyaar hu_aa hai}%
+\film{Aya Toofan}%
+\year{1964}%
+\starring{Dara Singh, Helen, Anwar}%
+\singer{Mukesh, Lata, Kamal Barot}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10947 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	zaraa sa.mbhaalanaa merii jaa.N apanii nigaahe.n
+	ki teraa\-meraa nayaa\-nayaa pyaar hu_aa hai \-2
+la \:	( na chhe.D aaj hai.n ) \-2 aur hii dil kii adaa_e.N
+la ka \:		ki teraa\-meraa \threedots
+
+la \:	chaa.Nd utar aayaa jaise zamii.n pe
+	duniyaa nazar aa_ii hamako yahii.n pe
+mu \:	tujhe apanii bahaaro.n kii Kabar hai ki nahii.n
+	terii apane ishaaro.n pe nazar hai ki nahii.n
+la \:	terii nazar jaane hayaa apanii hame.n kyaa Kabar
+ka \:	ra.ng nikhar aayaa hai aaj tumhe.n dekhakar
+mu \:	yahii.n pe rok le merii jaa.N apanii nigaahe.n
+	ki teraa\-meraa \threedots
+la ka \:		ki teraa\-meraa \threedots
+
+mu \:	tere qadam aa_e dil ke chaman me.n
+	bijalii sii laharaa_ii saare badan me.n
+la \:	chalo chuukaa nahii.n tiir kuchh to hu_aa
+ka \:	mere dil kaa tere dil par asar kuchh to hu_aa
+mu \:	dekh mere sapano.n kaa shiish\-mahal to.D ke
+	ab na kahii.n jaanaa tuu saath meraa chho.D ke
+la \:	abhii na aazamaa
+la ka \:	abhii na aazamaa saajanaa merii vafaa_e.N
+	ki teraa\-meraa \threedots
+tii \:		ki teraa\-meraa \threedots
+%
+#endindian
+\endsong
+

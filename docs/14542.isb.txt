@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{le chal mere jiivan saathii ... pyaar hii pyaar hai jahaa.n}%
+\film{Vishwas}%
+\year{1969}%
+\starring{Jeetendra, Aparna Sen, Kamini Kaushal, Bharat Bhushan, Rajendranath}%
+\singer{Mukesh, Hemlata}%
+\music{Kalyanji Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+le chal
+le chal mere jiivan saathii
+le chal mujhe us duniyaa me.n
+pyaar hii pyaar hai jahaa.n
+
+ham tum ham tum janmo.n ke saathii
+ham tum hai.n jis duniyaa me.n
+pyaar hii pyaar hai vahaa.n
+le chal le chal mere \threedots
+
+jab se nazar me.n aap base hai.n
+mastii sii chhaa_ii aa.Nkho.n me.n
+chhaa_ii rahe ye mastii
+bas jaa_e dil kii bastii
+mahakii rahe.n ye vaadiyaa.n
+le chal le chal mere \threedots
+
+priit kaa bandhan baa.ndh ke tumane
+priit pe hii upakaar kiyaa hai
+ab ye bandhan na TuuTe
+yug yug ye saath na chhuuTe
+chalataa rahe yuu.n kaaravaa.n
+le chal le chal mere \threedots
+%
+#endindian
+\endsong
+

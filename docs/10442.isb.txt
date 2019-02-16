@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{ye zindagii hai yo\-yo}%
+\film{Aaraam}%
+\year{1951}%
+\starring{Dev Anand, Madhubala, Premnath}%
+\singer{Manmohan Krishna, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12061 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ma \:	ye zindagii hai yo\-yo \-5
+	ye
+	zindagii hai yo\-yo
+ko \:	yo\-yo yo\-yo yo\-yo yo\-yo
+	ye zindagii hai yo\-yo \-4
+ma \:	ye
+	zindagii hai yo\-yo
+
+ma \: yo\-yo kii beqaraarii hissaa hai zindagii kaa \-2
+	yo\-yo kii garadisho.n qissaa hai zindagii kaa
+ko \:	qissaa hai zindagii kaa
+ma \:	garadish to zahar piinaa (?)
+	jiinaa nahii.n hai pyaare
+	garadish me.n hii mazaa hai
+	ye kah rahii hai yo\-yo
+ko \:	( garadish me.n hii mazaa hai
+	ye kah rahii hai yo\-yo ) \-2
+
+ma \:	ye
+	zindagii hai yo\-yo
+ko \:	yo\-yo yo\-yo yo\-yo yo\-yo
+	ye zindagii hai yo\-yo \-4
+ma \:	ye
+	zindagii hai yo\-yo
+
+ma \:	( chhe.De ko_ii taraanaa
+	aur ko_ii ro rahaa hai ) \-2
+	din\-raat ik tamaashaa
+	duniyaa me.n ho rahaa hai
+ko \:	duniyaa me.n ho rahaa hai
+ma \:	jo kuchh bhii ho rahaa hai
+	hotaa rahegaa pyaare
+	chal tuu bhii aise jaise
+	ye chal rahii hai yo\-yo
+ko \:	( chal tuu bhii aise jaise
+	ye chal rahii hai yo\-yo ) \-2
+
+ma \:	ye
+	zindagii hai yo\-yo
+ko \:	yo\-yo yo\-yo yo\-yo yo\-yo
+	ye zindagii hai yo\-yo \-8
+ma \:	ye
+	zindagii hai yo\-yo
+%
+#endindian
+\endsong
+

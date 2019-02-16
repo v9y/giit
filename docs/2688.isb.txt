@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{patalii kamar hai}%
+\film{Barsaat}%
+\starring{Premanth, Nimmi, Raj Kapoor, Nargis}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{}%
+% 
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+patalii kamar hai tirachhii nazar hai
+khile phuul sii terii javaanii
+koii bataaye kahaa.N qasar hai
+o~ aajaa mere man chaahe baalam
+aajaa teraa aa.Nkho.n me.n ghar hai
+
+mai.n cha.nchal mad_mast pavan huu.N
+jhuum jhuum har kalii ko chumuu.N
+bichha.D gayii mai.n ghaayal hiraNii
+tumako Dhuu.NDhuu.N ban ban ghuumuu.N
+merii zi.ndagii mast safar hai
+patalii kamar hai \threedots
+
+tum bin naino.n kii barasaate.n
+rok na paa_uu.N laakh manaa_uu.N
+mai.n bahate dariyaa kaa paanii
+khel kinaaro.n se ba.Dh jaa_uu.N
+ba.Ndh na paa_uu.N
+nayaa nagar nit nayii Dagar hai
+patalii kamar hai \threedots
+
+%
+#endindian
+\endsong
+%

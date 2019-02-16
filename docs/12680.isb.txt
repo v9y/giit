@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tere dil ne mere dil se kyaa kahaa bataa}%
+\film{Loafer}%
+\year{1996}%
+\starring{Anil Kapoor, Juhi, Gulshan, Mukesh Rishi, Pramod Moutho, Kulbhushan}%
+\singer{Shankar Mahadevan, Gayatri Iyer}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere dil ne mere dil se kyaa kahaa bataa
+diivaanaa saa hone lagaa huu.N mai.n sa.mbhaalo mujhe tum zaraa
+khyaalo.n me.n khone lagaa huu.N mai.n sa.mbhaalo mujhe tum zaraa
+
+tere dil ne mere dil se kyaa kahaa bataa
+diivaanii sii hone lagii huu.N mai.n sa.mbhaalo mujhe tum zaraa
+khyaalo.n me.n khone lagii huu.N mai.n sa.mbhaalo mujhe tum zaraa
+
+kaisaa mohabbat kaa jaaduu hai
+mujhe nahii.n khabar
+khud pe nahii.n meraa kaabuu hai
+ajii hai kyaa asar
+dard jaa_e meraa sanam kiiji_e vo du_aa
+chain aa_e zaraa mujhe diiji_e vo davaa
+tere dil ne mere dil se \threedots
+
+ho.nTho.n se shabanam churaane do
+nahii.n abhii nahii.n
+aagosh me.n mujhako aane do
+khataa na ho kahii.n
+ab ijaazat to diiji_e mujhako jaan\-e\-vafaa
+yuu.n sharaarat na kiiji_e chho.Di_e dilarubaa
+o tere dil ne mere dil se \threedots
+%
+#endindian
+\endsong
+

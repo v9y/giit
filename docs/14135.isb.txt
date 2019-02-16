@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{badalii se nikalaa hai chaa.Nd}%
+\film{Sanjog}%
+\year{1961}%
+\starring{Pradeep Kumar, Anita Guha, Shubha Khote}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10595 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+badalii se nikalaa hai chaa.Nd
+paradesii sai.nyaa lauT ke tuu ghar aa jaa ghar aa jaa
+badalii se nikalaa hai \threedots
+
+puuchhe pataa teraa Tha.nDii havaa_e.N
+chup mujhe dekh ke chup ho jaa_e.N
+laa_e.N to kaise tujhe Dhuu.NDh ke laa_e.N ho Dhuu.NDh ke laa_e.N
+badalii se nikalaa hai \threedots
+
+aa ke guzar ga_ii.n kitanii bahaare.n
+aur baras ga_ii.n kitanii phuhaare.n
+aajaa tujhe ham kab se pukaare.n ho kab se pukaare.n
+badalii se nikalaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,59 @@
+
+%
+\startsong
+\stitle{ek saa.Ns aur ek saa.Ns kam}%
+\film{Supari}%
+\year{2003}%
+\starring{Uday Chopra, Rahul Dev, Aakash Saigal, Purab Kohli, Nandita Das}%
+\singer{Sukhwinder Singh, Chorus}%
+\music{Vishal-Shekhar}%
+\lyrics{Vishal}%
+%
+% Contributor: BOL ANAMOL #11692 [V S Rawat]
+% Producer & Director: Aum Creates Unlimited, Padam Kumar
+% Audio: Saregama India Ltd
+% Cassette: NHF 810559 Digital, Rs 55/-, CD: , Cost: Rs 125/-
+% site: www.whatissupari.com
+% 
+\printtitle
+#indian
+%
+ko \:	ek saa.Ns aur ek saa.Ns kam
+	ek saa.Ns me.n biite.n janam
+	ek saa.Ns bas ek saa.Ns ham
+	ek saa.Ns aur ek saa.Ns kam
+
+su \:	ho kyaa kar diyaa kyaa ho gayaa
+ko \:	ek saa.Ns aur ek saa.Ns kam
+su \:	kyaa kar diyaa kyaa ho gayaa
+	kaise kahaa.N tuu kho gayaa
+ko \:	ek saa.Ns aur ek saa.Ns kam
+	ek saa.Ns me.n biite.n janam
+	ek saa.Ns bas ek saa.Ns ham
+	ek saa.Ns aur ek saa.Ns kam
+
+su \:	ho dil ke TuuTe jaan jaate vaqt lagataa hii nahii.n
+	ik Kushii kaa pal manaate biit jaaye zindagii
+	mujh me.n khoyaa aaj\-tak thaa aaj Kud ko paa liyaa
+	mujhase mil ke maine puuchhaa tuune kisako kyaa diyaa
+	( kyaa kar diyaa ) \-2 kab kho gayaa insaan thaa kyaa ho gayaa
+ko \:	ek saa.Ns aur ek saa.Ns kam
+	ek saa.Ns me.n biite.n janam
+
+su \:	zindagii ko jiite\-jiite piite\-piite apane Gam
+	saa.Ns aur ehasaas kitane kho diye kitane janam
+	hai.n jahaa.N pe tujhako jaanaa saath kyaa le jaayegaa
+	pyaar ko ma.nzil banaa le tuu Kudaa ko paayegaa
+	( mil jaayegaa ) \-2 jo kho diyaa patthar thaa tuu kab ro diyaa
+ko \:	ek saa.Ns aur ek saa.Ns kam
+	ek saa.Ns me.n biite.n janam
+	ek saa.Ns bas ek saa.Ns ham
+	ek saa.Ns aur ek saa.Ns kam
+su ko \:	ek saa.Ns aur ek saa.Ns kam
+	ek saa.Ns me.n biite.n janam
+	ek saa.Ns bas ek saa.Ns ham
+	ek saa.Ns aur ek saa.Ns kam
+%
+#endindian
+\endsong
+

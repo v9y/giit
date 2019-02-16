@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jaaduu teraa cha.Dhane lagaa hai ... haay diivaanaa diivaanaa}%
+\film{Krodh/ Blast of Anger}%
+\year{2000}%
+\starring{Sunil Shetty, Rambha, Apurva Agnihotri, Sakshi Shivanand}%
+\singer{Sapana Mukherji, Chorus}%
+\music{Anand Milind}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaaduu teraa cha.Dhane lagaa hai
+jaaduu teraa ba.Dhane lagaa hai
+kar diyaa tere jalavo.n ne hamako mast mast mastaanaa
+haay diivaanaa diivaanaa saaraa zamaanaa meraa diivaanaa
+diivaanaa o diivaanaa aa
+
+har diivaanaa mujhii se milane kaa Dhuu.nDhataa hai bahaanaa
+haay diivaanaa diivaanaa saaraa zamaanaa teraa diivaanaa
+diivaanaa aa o diivaanaa aa
+
+haay merii shokhiyaa.N aahaa o aahaa
+haay merii mastiyaa.N aahaa o aahaa
+o haay merii shokhiyaa.N
+haay merii mastiyaa.N
+jhuume.n merii adaa_o.n pe ye dilavaalo.n kii bastiyaa.N
+haay re haay ho rahaa hai har dil merii nazar kaa nishaanaa
+haay diivaanaa diivaanaa \threedots
+
+haay javaa.n josh hai aahaa o aahaa
+huu.N ab kahaa.n hosh hai aahaa o aahaa
+o haay javaa.n josh hai
+ab kahaa.n hosh hai
+kaise naa ko_ii bahake meraa ye jalavaa madahosh hai
+chhaa rahaa hai sabhii ke dil pe meraa samaa.n aashiqaanaa
+haay diivaanaa diivaanaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jo bhii mere dil pe biitaa ... ye to honaa hii thaa ko_ii chaahe naa chaahe}%
+\film{Yaaraa Dildaaraa}%
+\year{1991}%
+\starring{Aasif Sheikh, Ruchika Pandey, Amjad Khan, Saeed Jafrey, Rohini Hattangadi}%
+\singer{Kavita Subramaniam, Nitin Mukesh}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa
+jo bhii mere dil pe biitaa pyaar kii baazii mai.n hii jiitaa
+re ye to honaa hii thaa ko_ii chaahe naa chaahe
+ye to honaa hii thaa \threedots
+
+har galii ko sajaa do raat ko jagamagaa do
+aaj har sundarii ko baalam sa.ng nachaa do
+har ek Dafalii ke sa.ng jame paayal ke ra.ng
+chhalake pyaale khushii ke ho chhalake pyaale khushii ke
+ye to honaa hii thaa \threedots
+
+meraa ye jo jahaa.n hai 
+meraa ye kal bhii thaa aaj bhii yahii meraa
+sapane sajaa mere dil merii bhiigii palak pe naa jaa
+rahe itanii khabar nayan chhalake.n agar
+chhalake.n aa.Nsuu.n khushii ke ho chhalake.n aa.Nsu.n khushii ke
+ye to honaa hii thaa \threedots
+
+zi.ndagii kaa Thikaanaa
+tuune haa.N kar dii jaanii jii uThaa mai.n diivaanaa
+mujhe to jab se yaar milaa hai teraa pyaar
+jhuumataa huu.N khushii se ho jhuumataa huu.N khushii se
+ye to honaa hii thaa \threedots
+%
+#endindian
+\endsong
+

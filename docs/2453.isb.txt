@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{sach mere yaar hai, bas vahii pyaar hai}%
+\film{Saagar}%
+\year{}%
+\starring{Rishi Kapoor, Dimple, Kamalahasan}%
+\singer{S P Balasubramaniam}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+sach mere yaar hai, bas vahii pyaar hai
+jisake badale me.n koii to pyaar de
+baaqii bekaar hai, yaar mere   \threedots
+
+jis haath me.n ik haath hai
+us haath kii kyaa baat hai
+kyaa ma.nzile.n, kyaa faasale
+ik hamasafar gar saath hai
+jisakii qisamat koii yuu.N sa.Nvaar de
+vo hii diladaar hai, yaar mere   \threedots
+
+jhuume zamii.n, jhuume gagan
+tere liye ho ke magan
+khilate rahe.n khushiyaa.N terii
+mahakaa rahe dil kaa chaman
+zi.ndagii tujhako aisii bahaar de
+dil kii pukaar hai, yaar mere   \threedots
+
+sunate them ham, ye zi.ndagii
+Gam aur khushii kaa mel hai
+hamako magar aayaa nazar
+ye zi.ndagii vo khel hai
+koii sab jiite sab koii haar de
+apanii to haar hai, yaar mere   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{Gam uThaane ke liye mai.n to jiye jaauu.Ngaa}%
+\film{Mere Huzoor}%
+\year{1968}%
+\starring{Raj Kumar, Jeetendra, Mala Sinha}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+Gam uThaane ke liye mai.n to jiye jaauu.Ngaa
+saa.Ns kii lay pe teraa naam liye jaauu.Ngaa
+
+haay  tuune mujhe ulfat ke sivaa kuchh na diyaa
+aur maine tujhe nafarat ke sivaa kuchh na diyaa
+tujhase sharami.ndaa huu.N, ai merii vafaa kii devii
+teraa mujarim huu.N musiibat ke sivaa kuchh na diyaa
+Gam uThaane ke liye mai.n to jiye jaauu.Ngaa \threedots
+
+tuu Kayaalo.n me.n merii ab bhii chalii aatii hai
+apanii palako.n pe un ashko.n kaa janaazaa lekar
+tuune nii.nde.n karii.n qurabaan merii raaho.n me.n
+mai.n nashe me.n rahaa auro.n kaa sahaaraa lekar
+Gam uThaane ke liye mai.n to jiye jaauu.Ngaa \threedots
+
+%
+#endindian
+\endsong
+%

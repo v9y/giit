@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{haay kis but kii muhabbat me.n giraftaar hue}%
+\film{My Sister}%
+\year{1944}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{Pankaj Mullick}%
+\lyrics{Pt. Bhushan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+haay! kis but kii muhabbat me.n giraftaar hue (2)
+zindagii kalp huI jiine se bezaar hue
+
+hamane paayaa to yah paayaa hai vafaao.n kaa silaa (2)
+muft badanaam hue, bebas-o-laachaar hue
+
+kis liye daulat-e-dil usape luTaa dii hamane (2)
+aap hii apane pe kyo.n maayaz-e-gunzaar hue 
+
+ghuT ke mar jaaye.n yahii dil me.n hai hasarat baakii (2)
+muddate.n guzarii hai.n be-yaar-o-madadagaar hue (2)
+haay! kis but kii muhabbat me.n giraftaar hue 
+%
+#endindian
+\endsong
+%

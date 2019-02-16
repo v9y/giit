@@ -1,0 +1,36 @@
+ %
+\startsong
+\stitle{agar mujh se muhabbat hai}%
+\film{Aap Ki Parchhaiyaan}%
+\year{1964}%
+\starring{Dharmendra, Supriya Choudhary, Shashikala}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Date: 1/9/2000
+%
+\printtitle
+#indian
+%
+
+agar mujh se muhabbat hai mujhe sab apane Gam de do
+in aa.Nkho.n kaa har ik aa.Nsuu mujhe merii qasam de do
+agar mujh se \threedots
+
+tumhaare Gam ko apanaa Gam banaa luu.N to qaraar aae
+tumhaaraa dard siine me.n chhupaa luu.N to qaraar aae
+vo har shay jo tumhe.n dukh de mujhe mere sanam de do
+agar mujh se \threedots
+
+shariik\-e\-zi.ndagii ko kyuu.N shariik\-e\-Gam nahii.n karate
+dukho.n ko baa.NT kar kyuu.N in dukho.n ko kam nahii.n karate
+ta.Dap is dil kii tho.Dii sii mujhemere sanam de do
+agar mujh se \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{raat bhii hai kuchh bhiigii\-bhiigii}%
+\film{Mujhe Jeene Do}%
+\year{1963}%
+\starring{Sunil Dutt, Waheeda Rehman}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+raat bhii hai kuchh bhiigii\-bhiigii
+chaa.Nd bhii hai kuchh maddham\-maddham
+tum aao to aa.Nkhe.n khole.n
+soii huii paayal kii chham chham
+
+1) kisako bataae.n kaise bataae.n
+aaj ajab hai dil kaa aalam
+chain bhii hai kuchh halkaa halkaa
+dard bhii hai kuchh maddham maddham
+chham\-chham, chham\-chham, chham\-chham, chham\-chham
+
+2) tapate dil par yuu.n giratii hai
+terii nazar se pyaar kii shabanam
+jalate hue ja.ngal par jaise
+barakhaa barase ruk\-ruk tham\-tham
+chham\-chham, chham\-chham, chham\-chham, chham\-chham
+
+3) hosh me.n tho.Dii behoshii hai
+behoshii me.n hosh hai kam kam
+tujhako paane kii koshish me.n
+dono.n jahaa.N se kho gae ham
+chham\-chham, chham\-chham, chham\-chham, chham\-chham, raat \threedots
+
+%
+#endindian
+\endsong
+%

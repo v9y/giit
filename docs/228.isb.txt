@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ba.De achchhe lagate hai.n, ye dharatii, ye nadiyaa, ye rainaa}%
+\film{Balika Badhu}%
+\year{}%
+\starring{Sachin, Rajni}%
+\singer{Amit Kumar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Amit Kamra (kamra@pic.net)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(ba.De achchhe lagate hai.n, ye dharatii, ye nadiyaa, ye rainaa
+aur? aur tum\threedots ) \- 2
+o maajhii re, ja_iyo piyaa ke des
+
+(ham tum kitane paas hai.n kitane duur hai.n chaa.Nd sitaare 
+sach puuchho to man ko jhuuThe lagate hai.n ye saare ) \- 2
+magar sachche lagate hai.n, ye dharatii, ye nadiyaa, ye rainaa,
+aur tum
+ba.De achchhe\threedots
+
+(tum in sabako chho.Dake kaise kal subah jaaogii 
+mere saath inhe.n bhii to tum yaad bahut aaogii ) \- 2
+ba.De achchhe\threedots
+%
+#endindian
+\endsong
+%

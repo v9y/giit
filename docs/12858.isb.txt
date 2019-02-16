@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jumme ke jumme ghar aayaa karo ... chummaa de jaayaa karo}%
+\film{Mr. & Mrs. Khilaadi}%
+\year{1997}%
+\starring{Akshay Kumar, Juhi Chawla}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+na som ko na ma.ngal ko na budh ko na jummeraaat ko
+aanaa aaadhii raat ko aanaa aaadhii raat ko
+jumme ke jumme ghar aayaa karo
+us din akele rahate hai.n
+ghar aake tum chummaa de jaayaa karo ho_e ho_e
+
+jumme ke jumme bulaayaa karo
+us din ham ##mood## me.n rahate hai.n
+ghar bulaake tum chummaa le jaayaa karo ho_e ho_e
+
+jumme ko aake tum kyaa karoge bolo jii bolo tum kyaa karoge
+##love love love love## tumako ham ##love love## kare.nge
+tum ham pe ham pe maranaa ham tum pe tum pe mare.nge
+dil dil dil dil ye dhak dhak dhak karataa hai
+kuchh karane ko dil chaahe karane se dil Darataa hai
+jumme ke din yuu.n zid naa karo vaadaa karake kabhii to nibhaayaa karo
+jumme ke jumme \threedots
+
+##daddy## se boluu.ngaa terii la.Dakii ba.Dii hai pyaarii
+mai.n ##mummy## se boluu.ngaa tuu ban jaa saas hamaarii
+terii baate.n ##number one## hai.n tuu hii hai meraa raajaa
+par aaj to ##sunday## hai mujhe maaf kar de baabaa
+jumme kaa din hai yuu.n zid naa karo
+jumme ke jumme \threedots
+%
+#endindian
+\endsong
+

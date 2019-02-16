@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{is duniyaa me.n ai dilavaalo.n dil kaa lagaanaa khel nahii.n}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10621 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+is duniyaa me.n ai dilavaalo.n dil kaa lagaanaa khel nahii.n
+ulfat karanaa khel hai lekin kar ke nibhaanaa khel nahii.n
+
+jabase hu_e hai.n duur vo hamase ( Dhuu.NDh rahii hai unako nazar ) \-2
+( haay re o bedard zamaane ) \-2 ye bhii nahii.n hai unako Kabar
+aag lagii hai dil me.n kuchh aisii jisakaa bujhaanaa khel nahii.n
+is duniyaa me.n \threedots
+
+laakha sataa_e.N pyaar ke dushman ( bhuul sake.nge unako na ham ) \-2
+( aur ba.Dhegii unakii mohabbat ) \-2 jitane bhii ho.nge zulm\-o\-sitam
+kahade ko_ii naadaano.n se hamako miTaanaa khel nahii.n
+is duniyaa me.n \threedots
+%
+#endindian
+\endsong
+

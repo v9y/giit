@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil kyo.n dha.Dakataa hai kyo.n pyaar hotaa hai}%
+\film{Jaanam}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Paresh, Avtar Gill, Reema Lagu, Anant Jog}%
+\singer{Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil kyo.n dha.Dakataa hai kyo.n pyaar hotaa hai
+siine me.n dard kyo.n baar baar hotaa hai
+dil kyo.n dha.Dakataa hai \threedots
+
+dil me.n agar apane hotii na ye dha.Dakan
+to zi.ndagii bhar ham dono.n ajanabii rahate
+ye pyaar kii baate.n ham jaanate kaise
+har saa.Ns ye kahatii tuu paas mere rahatii
+phir bhii mujhe teraa i.ntazaar hotaa hai
+dil kyo.n dha.Dakataa hai \threedots
+
+ab to nahii.n milatii apanii khabar mujhako
+tere khyaalo.n me.n ham is kadar khoye
+pa.Dhakar kitaabo.n ko raate.n guzaarii.n hamane
+jab se muhabbat kii jii bhar nahii.n soye
+is umr me.n sab kaa ye haal hotaa hai
+kyo.n pyaar hotaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{mujhe tumase hai.n kitane gile ... teraa naam liyaa ho tujhe yaad kiyaa ho}%
+\film{Raam Lakhan}%
+\year{1989}%
+\starring{Anil Kapoor, Jackie Shrof, Dimple Kapadia, Madhuri Dixit}%
+\singer{Anuradha Paudwal, Manhar Udhas, Chorus}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe tumase hai.n kitane gile tum kitane din baad mile
+kyuu.n kyuu.n kyuu.n
+bolo itane din kyaa kiyaa kyaa kiyaa
+teraa naam liyaa ho tujhe yaad kiyaa ho
+tujhe yaad kiyaa teraa naam liyaa
+
+apanii ##mummy## se merii baat kii nahii.n nahii.n nahii.n
+mere ##daddy## se mulaaqaat kii nahii.n nahii.n nahii.n nahii.n
+haa.N heraa pherii mere saath kii ##no, never##
+phir aur bhalaa kyaa kiyaa
+teraa naam liyaa
+
+##picture## ke ##ticket## ma.ngavaa_e nahii.n nahii.n nahii.n
+ko_ii achchhii khabar tum laa_e nahii.n
+kis kaam mere tum aa_e
+kyaa pyaar me.n tumane kiyaa
+teraa naam liyaa \threedots
+
+tuune merii kadar kuchh jaanii haa.N
+kabhii dii ko_ii prem nishaanii huu.N
+ko_ii baat kabhii merii maanii
+kaisaa pyaar ye tumane kiyaa kyo.n kiyaa
+teraa naam liyaa \threedots
+
+kab banuu.ngii mai.n shahazaadii abhii
+kab milegii hame.n aazaadii abhii
+abhii yahii.n chalo haay raam
+ab dil kyo.n thaam liyaa raam raam
+teraa naam liyaa \threedots
+%
+#endindian
+\endsong
+

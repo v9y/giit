@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dekho jo palaT ke jiyaa meraa bhaTake}%
+\film{Zameer}%
+\year{1997}%
+\starring{Sanjay Kapur, Shilpa Shetty, Kader, Shakti, Paresh, Laxmikant Berde}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekho jo palaT ke jiyaa meraa bhaTake
+zaraa bach bach ke maare jo tuu jhaTake
+goriyaa tuu kamar jab lachakaa_e kayaamat aa ja_e
+
+gorii gorii baahe.n gore gore ho.nTh mere to hai.n phuul se
+chhuune to de aaj inhe.n mujhe bhuul se
+duu.ngii mai.n ek roj tujhako muft kaa gahanaa
+ab nahii.n mumakin hai jaanaa.n duur yuu.n rahanaa
+baabuu zaraa haT ke jiyaa meraa bhaTake
+zaraa bach bach ke \threedots
+
+ko_ii nahii.n nii.nd aa_ii nahii.n raat me.n
+kho rahaa mai.n bhii jaan\-e\-jaanaa.n terii baat me.n
+hosh me.n kaise rahe.n ham aise aalam me.n
+kalii jab chaTake jiyaa meraa bhaTake
+zaraa bach bach ke \threedots
+%
+#endindian
+\endsong
+

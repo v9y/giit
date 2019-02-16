@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{nazar bachaa kar chale gaye vo varanaa ghaayal kar detaa}%
+\film{Dil Tera Diwana}%
+\year{1962}%
+\starring{Shammi Kapoor, Mala Sinha, Mehmood}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10921 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+nazar bachaa kar chale gaye vo varanaa ghaayal kar detaa
+dil se dil Takaraa jaataa to dil me.n agni bhar detaa
+varanaa ghaayal kar detaa
+nazar bachaa kar \threedots
+
+( milatii aa.Nkh to vo bhii dekhate mere pyaar kaa jaaduu
+apane ra.ng me.n ham bhii kam na the kar dete beqaabuu ) \-2
+nazar bachaa kar \threedots
+
+( agar Thaharate mere saamane dil pe tiir chal jaate
+vo hasiin hai.n mai.n javaan huu.N saare bhed khul jaate ) \-2
+nazar bachaa kar \threedots
+
+( hamase kab tak yuu.N chhupe.nge vo apanii shaan dikhalaa ke
+ek roz to aa hii jaa_e.Nge vo mere paas sharamaa ke ) \-2
+nazar bachaa kar \threedots
+%
+#endindian
+\endsong
+

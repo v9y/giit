@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tujhe dekh kar jag vaale par yakiin nahii.n kyo.n kar hogaa}% 
+\film{Saavan Ko Aane Do}%
+\year{1979}%
+\starring{Arun Govil, Zarina Wahab, Rita Bhaduri}%
+\singer{Yesudas}%
+\music{Rajkamal}%
+\lyrics{Indeevar}%
+%
+% Contributor:  Pradeep (pradeep@watson.ibm.com)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+tujhe dekh kar jag vaale par yakiin nahii.n kyuu.n kar hogaa 
+jisakii rachanA itanI sundar vo kitanaa sundar hogaa 
+vo kitanaa sundar hogaa 
+
+tujhe dekhane ko mai.n kyA har darpaN tarasaa karataa hai 
+jyo.n tulasii ke biravaa ko har aa.ngan tarasaa karataa hai 
+har aa.ngan tarasaa karataa hai 
+apanA ruup dikhaane ko \threedots ho ho o ho 
+apanA ruup dikhaane ko tere ruup me.n khud iish{}var hogaa 
+jisakii rachanA \threedots
+
+ruup ra.ng ras kA sa.ngam aadhAr tU prem kahAnI kA 
+mere pyaase man me.n yuu.n utarI jyo.n ret me.n jharanaa pAnI kA 
+jyo.n ret me.n jharanaa pAnI 
+rom rom terA ras kii ga.ngA \threedots ho ho o ho 
+rom rom terA ras kii ga.ngA ruup kA vo saagar hogaa 
+jisakii rachanaa \threedots
+%
+#endindian
+\endsong
+%

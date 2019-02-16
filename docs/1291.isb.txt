@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{na bole tum, na mai.nne kuchh kahaa}%
+\film{Baaton Baaton Mein}%
+\year{1979}%
+\starring{Amol Palekar, Tina Munim}%
+\singer{Asha, Amit Kumar, chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Yogesh}%
+% 
+% Contributor: Kuntal H. Daftary <jassu@expert.cc.purdue.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Nandini <be83328@binghamton.edu>
+% Date: 07/25/1996
+%
+\printtitle
+#indian
+%
+(ra: na bole tum, na mai.nne kuchh kahaa
+la: magar na jaane aisaa kyo.n lagaa
+ra: ki dhuup me.n khilaa hai chaa.Nd, din me.n raat ho ga_ii
+la: ye pyaar kii binaa kahe sunaharii baat ho ga_ii)		\-2
+
+ra: badal rahii hai zi.ndagii, badal rahe hai.n ham
+koras: aa aa aa aa aa aa aa
+la: thirak rahe hai.n jaane aaj kyo.n mere kadam
+ra: mere kadam, mere kadam
+koras: kisii ko ho na ho magar hame.n to hai pataa
+
+na bole tum \threedots
+
+ra: ghulii sii aaj saa.Nso.n me.n kisii kii saa.Ns hai
+la: saa.Ns hai, saa.Ns hai
+    ye kaun aaj dil ke mere aas\-paas hai
+koras: aa aa aa aa aa aa aa
+la: ye dhiire\-dhiire ho rahaa hai pyaar kaa nashaa
+
+na bole tum \threedots
+
+ra: ye lag rahaa hai saarii ulajhane.n sulajh ga_ii.n
+la: sulajh ga_ii.n, sulajh ga_ii.n
+    ye dha.Dakano.n kii baat dha.Dake.n samajh ga_ii.n
+koras: aa aa aa aa aa aa aa 
+la: na boliye kii bolane ko kuchh nahii.n rahaa
+
+na bole tum \threedots
+na bole tum \threedots
+%
+#endindian
+\endsong
+%
+

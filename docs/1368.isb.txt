@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{o maa.njhii re, apanaa kinaaraa, nadiyaa kii dhaaraa hai}%
+\film{Khushboo}%
+\year{}%
+\starring{Jeetendra, Hema Malini, Farida Jalal}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Ashish S Bokil (abokil@hubcap.clemson.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+o maa.njhii re,  apanaa kinaaraa,  nadiyaa kii dhaaraa hai
+o maa.njhii re \threedots
+
+%    a high pitched flute interlude here makes you fiil the intensity of emotions 
+%    and the depth of sound..
+%
+saahilo.n pe bahane vaale 
+kabhii sunaa to hogaa kahii.n, o \threedots
+ho,  kaagazo.n kii kashtiyo.n kaa
+kahii.n kinaaraa hotaa nahii.n
+ho maa.njhii re \threedots maa.njhii re 
+koI kinaaraa jo kinaare se mile vo,
+apanaa kinaaraa hai \threedots
+o maa.njhii re \threedots
+
+%    violins and flute again play havoc in your mind...
+paaniyo.n me.n bah rahe hai.n
+kaI kinaare TuuTe hue o \threedots
+ho, raasto.n me.n mil gae hai.n    
+sabhii sahaare chhuuTe hue \threedots
+koi sahaaraa majhadhaare me.n mile vo,
+apanaa sahaaraa hai \threedots
+
+o maa.njhii re,  apanaa kinaaraa,  nadiyaa kii dhaaraa hai
+o maa.njhii re \threedots
+%    the sailing beat continues till it fades out... The sailor is gone...
+%
+#endindian
+\endsong
+%

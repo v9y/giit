@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ham logo.n ko ... phir bhii dil hai hindustaanii}%
+\film{Phir Bhi Dil Hai Hindustaani}%
+\year{2000}%
+\starring{Shahrukh Khan, Juhi Chawala}%
+\singer{Udit Narayan}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham logo.n ko samajh sako to samajho dilabar jaanii
+jitanaa bhii tum samajhoge utanii hogii hairaanii
+apanii chhatarii tumako de de.n kabhii jo barase paanii
+kabhii na_e ##packet## me.n beche.n tumako chiiz puraanii
+phir bhii dil hai hindustaanii
+nii.nd u.D rahii hai \threedots
+
+tho.De anaa.Dii hai.n tho.De khilaa.Dii
+ruk ruk ke chalatii hai apanii gaa.Dii
+hame.n pyaar chaahi_e aur kuchh paise bhii
+ham aise bhii hai.n ham hai.n vaise bhii
+ham logo.n ko samajh sako to samajho dilabar jaanii
+ulTii siidhii jaisii bhii hai apanii yahii kahaanii
+tho.Dii hamame.n hoshiyaarii hai tho.Dii hai naadaanii
+tho.Dii hamame.n sachchaa_ii hai tho.Dii be_iimaanii
+phir bhii dil hai \threedots
+
+aa.Nkho.n me.n kuchh aa.Nsuu hai.n kuchh sapane hai.n
+aa.Nsuu aur sapane dono.n hii apane hai.n
+dil dukhaa hai lekin TuuTaa to nahii.n hai
+ummiid kaa daaman chhuuTaa to nahii.n hai
+ham logo.n ko samajh sako to samajho dilabar jaanii
+tho.Dii majabuurii hai lekin tho.Dii hai manamaanii
+tho.Dii tuu tuu mai.n mai.n hai aur tho.Dii khii.nchaataanii
+hamame.n kaafii baate.n hai.n jo lagatii hai.n diivaanii
+phir bhii dil hai \threedots
+%
+#endindian
+\endsong
+

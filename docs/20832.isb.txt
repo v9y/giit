@@ -1,0 +1,44 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{yaar kaa milanaa milanaa qismat kii hai ye baat}%
+\film{Fareb}%
+\year{1996}%
+\starring{Milind Gunaji , Faraaz Khan , Suman Ranganathan}%
+\singer{Abhijeet , Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Indeevar}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 3 Sep 2005
+% Series: 
+% Comments: Udit pronounces 'qismat' correctly , while Abhijeet sticks to 'kismat'. :-)
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+udit : yaar kaa milanaa, milanaa, qismat kii hai ye baat (2)
+dil bahalataa hai, teraa achchhaa lagataa hai saath (2)
+abhijiit : yaar kaa milanaa, milanaa, qismat kii hai ye baat (2)
+dil bahalataa hai, teraa achchhaa lagataa hai saath (2)
+udit : yaar kaa milanaa, milanaa, qismat kii hai ye baat (2)
+
+abhijiit : naazaniino.n kii dha.Dakane.n, sunate rahate ho tum sadaa
+udit : raato.n kii nii.nde.n din kaa chain, hamane kyaa-kyaa hai kho diyaa
+abhijiit : narso.n kii haradam ##company## , hai naa maze kii baat
+udit : dil bahalataa hai, teraa achchhaa lagataa hai saath (2)
+abhijiit : yaar kaa milanaa, milanaa, qismat kii hai ye baat (2)
+
+udit : tum ho sarakaarii ##officer##, haatho.n me.n ##power## hai ba.Daa
+abhijiit : maanaa Darate hai.n hamase log, pyaar hame.n kisakaa hai milaa
+udit : hasiino.n kii hifaazate.n hai.n bas tumhaare haath
+abhijiit : dil bahalataa hai, teraa achchhaa lagataa hai saath
+udit : dil bahalataa hai, teraa achchhaa lagataa hai saath
+dono.n : yaar kaa milanaa
+%
+#endindian
+\endsong

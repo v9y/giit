@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{u.ngalii me.n a.nguuThii a.nguuThii me.n nagiinaa}%
+\film{Raam Avtaar}%
+\year{1988}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Mohammed Aziz, Lata}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+u.ngalii me.n a.nguuThii a.nguuThii me.n nagiinaa \-2
+tere bin ek bhii din mushkil ho gayaa jiinaa
+jiinaa jiinaa jiinaa jiinaa
+u.ngalii me.n a.nguuThii \threedots
+
+aaj ki_e hai.n kuchh vaade \-2 khaakar pyaar bharii kasame.n
+aaj kiyaa saudaa haamane.n is jii jaan kaa aapas me.n
+yaad sadaa tuu rakhanaa \-2 ye dil saal mahiinaa
+u.ngalii me.n a.nguuThii \threedots
+
+kab naa tujhako yaad kiyaa \-2 kab naa teraa naam liyaa
+din aisaa naa nikalaa \-2 aisii raat hu_ii naa
+u.ngalii me.n a.nguuThii \threedots
+%
+#endindian
+\endsong
+

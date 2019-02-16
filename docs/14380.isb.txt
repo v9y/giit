@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ko_ii ishq me.n paagal hotaa hai ... vo ishq kaa matalab samajhegaa}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Shankar Mahadevan}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii ishq me.n paagal hotaa hai
+ko_ii ishq me.n banataa hai diivaanaa
+ye ishq junuun hai chaahat hai
+mushkil hai isako samajhaanaa
+vo ishq kaa matalab samajhegaa
+yahaa.n ishq jise ho jaa_egaa haay
+mahasuus nahii.n hone degaa ho ho
+mahasuus nahii.n hone degaa
+dil chupake se kho jaa_egaa haay
+vo ishq kaa matalab \threedots
+
+huu.N ye ishq to aisaa jaaduu hai haay
+jo kisii pe bhii chal jaataa hai
+ko_ii ishq me.n suulii cha.Dhataa hai
+ko_ii taajamahal banavaataa hai
+ye ishq hai jho.nkaa khushbuu kaa ho ho
+ye ishq hai jho.nkaa khushbuu kaa
+sabakii saa.Nse.n mahakaa_egaa haay
+vo ishq kaa matalab \threedots
+
+naa ishq kii ko_ii bolii hai haay
+naa ishq kii ko_ii bhaaShaa hai
+naa pa.Dhaa kisii ne bhii isako haay
+phir bhii ye sabako aataa hai
+kaise karate hai.n ishq yahaa.n ho ho
+kaise karate hai.n ishq yahaa.n
+ye ishq ko ishq sikhaa_egaa haay
+vo ishq kaa matalab \threedots
+%
+#endindian
+\endsong
+

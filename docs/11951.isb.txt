@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chup tum raho chup ham rahe.n}%
+\film{Iss Raat Ki Subah Nahin}%
+\year{1996}%
+\starring{Ashish Vidyarthi, Nirmal Pandey, Smriti Mishra, Tara Deshpande}%
+\singer{M M Kreem, Chitra}%
+\music{M M Kreem}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chup tum raho chup ham rahe.n
+khaamoshii ko khaamoshii se zi.ndagii ko zi.ndagii se baat karane do
+chup tum raho \threedots
+
+aa.Nkho.n me.n kho jaa_e.n aa.Nkhe.n bole.n haatho.n se haath
+baaho.n me.n chhupakar saa.Nso.n se jaise Dole raat
+u.ngaliyo.n ko u.ngaliyo.n se mausamo.n ko shokhiyo.n se baat karane do
+chup tum raho \threedots
+
+ho.nTho.n par ho.nTho.n se likhe bin shabdo.n ke giit
+dharatii se a.mbar tak guu.nje jismo.n kaa sa.ngiit
+bekhudii ko bekhudii se aashiqii ko aashiqii se baat karane do
+chup tum raho \threedots
+%
+#endindian
+\endsong
+

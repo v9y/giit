@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{tere nainaa kyo.n bhar aa_e}%
+\film{Geet}%
+\year{1970}%
+\starring{Rajendra Kumar, Mala Sinha}%
+\singer{Lata/ Mahendra Kapoor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11125 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tere nainaa kyo.n bhar aa_e
+vo hai sabakaa rakhavaalaa
+tuu kaahe ko ghabaraa_e
+tere nainaa kyo.n \threedots
+
+ye aa.Nsuu aur ye dukh saare le jaa prabhuu ke dvaare
+vo hii TuuTii aas ba.Ndhaa_e biga.De kaaj sa.Nvaare
+dvaar se usake ko_ii khaalii haath na vaapas jaa_e
+tere nainaa kyo.n \threedots
+
+jiivan kii ye dhuup\-chhaa.Nv sab hai khel\-tamaashaa
+man se aa.Nkh\-michaulii khele aashaa aur niraashaa
+aaj hai dukh to kal sukh hogaa kaahe niir bahaa_e
+tere nainaa kyo.n \threedots
+%
+#endindian
+\endsong
+

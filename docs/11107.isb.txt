@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{are re are ye kyaa hu_aa maine na ye jaanaa}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Karishma Kapoor, Madhuri Dixit, Shahrukh Khan}%
+\singer{Lata, Udit Narayan}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are re are ye kyaa hu_aa maine na ye jaanaa
+are re are ban jaa_e naa kahii.n ko_ii afasaanaa
+are re are kuchh ho gayaa ko_ii na pahachaanaa
+are re are banataa hai to ban jaa_e afasaanaa
+haa haa haa tu ru ru
+
+haath meraa thaam lo saath jab tak ho
+baat kuchh hotii rahe baat jab tak ho
+saamane baiThe raho tum raat jab tak ho
+are re are ye kyaa hu_aa \threedots
+
+naam kyaa de.n kyaa kahe.n dil ke mausam ko
+aag jaise lag ga_ii aaj shabanam ko
+aisaa lagataa hai kisii ne chhuu liyaa hamako
+are re are ye kyaa hu_aa \threedots
+
+tum chale jaa_o zaraa ham sa.mbhal jaa_e.n
+dha.Dakane.n dil kii kahii.n naa aaj tham jaa_e.n
+vaqt se aage kahii.n naa ham nikal jaa_e.n
+are re are ye kyaa hu_aa \threedots
+
+hamame.n tumame.n kuchh to hai kuchh nahii.n hai kyaa
+dekh lo ye dil jahaa.N thaa ye vahii.n hai kyaa
+%
+#endindian
+\endsong
+

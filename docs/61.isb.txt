@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aaj kii raat piyaa, dil na to.Do}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Date:
+% Credits:
+% Editor:
+% Comments: A Tribute to Sachin Dev Burman #2
+%
+\printtitle
+#indian
+%
+
+aaj kii raat piyaa
+aaj kii raat piyaa dil na to.Do
+man ki baat piya maan lo
+aaj ki raat piya
+
+dil kii kahaanii apanii zubaanii tum ko sunaane aayii huu.N
+aa.Nkho.n me.n leke sapane suhaane apanaa banaane aayii huu.N
+cho.Dake saath piyaa muu.Nh na mo.Do
+man kii baat piyaa maan lo
+aaj kii raat piyaa
+
+chandaa bhii dekhe taare bhii dekhe hamako gagan kii oT se
+ghaayal kiyaa hai dil tumane meraa meeThi nazar kii choT se
+thaam ke haath piyaa yuu.N na cho.Do
+man kii baat piyaa maan lo
+aaj kii raat piyaa
+
+%
+#endindian
+\endsong
+%
+

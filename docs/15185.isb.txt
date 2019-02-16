@@ -1,0 +1,49 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kuchh chuhale ho.n ... jo na teraa diiwaanaa ho}%
+\film{Shin Shinaaki Booblaa Boo}%
+\year{1952}%
+\starring{Rehana, Ranjan}%
+\singer{Lata, Kishore, Chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ki \:	kuchh chuhale ho.n kuchh charche ho.n
+	kuchh gaanaa aur bajaanaa ho
+	itane me.n parde se kahii.n jo chham se teraa aanaa ho
+	kaun hai aisaa mahafil me.n jo na teraa diiwaanaa ho
+	jo na teraa diiwaanaa ho
+
+ko \: ek baar jo parde se phir chham se teraa aanaa ho
+	kaun hai aisaa mahafil me.n jo na teraa diiwaanaa ho
+
+la \:	( kisakii kaun adaa kab bhaa_ii
+	yaa mai.n jaanuu.N yaa wo jaane ) \-2
+	yuu.N to ek shamaa jalatii hai
+	laakho.n phirate hai.n parawaane
+	socha samajh kar is mahafil me.n aane waale aanaa
+
+ki \:	kaun hai aisaa mahafil me.n jo na teraa diiwaanaa ho
+	jo na teraa diiwaanaa ho
+
+la \:	( ye dhuum rahe ye ra.ng rahe
+	mahafil yuu.Nhii aabaad rahe ) \-2
+	ko_ii baat nahii.n jo mai.n naa rahuu.N
+	lekin merii bas yaad rahe
+	ko_ii parii ruh saamane aa ke
+	kar ga_ii dil diiwaanaa ho
+
+ki \: ek baar jo parde se phir chham se teraa aanaa ho
+	kaun hai aisaa mahafil me.n jo na teraa diiwaanaa ho
+ko \: ek baar jo parde se phir chham se teraa aanaa ho
+	kaun hai aisaa mahafil me.n jo na teraa diiwaanaa ho
+
+#endindian
+\endsong

@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ban ke pa.nchhii gaa_e.N pyaar kaa taraanaa}%
+\film{Anaadi}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Lalita Pawar}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10862 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	ban ke pa.nchhii gaa_e.N pyaar kaa taraanaa \-2
+	mil jaa_e agar aaj ko_ii saathii mastaanaa \-2
+	to jhuume.n ye dharatii aur jhuume aasamaa.N ho
+ko\:	ban ke pa.nchhii \threedots
+
+la \:	aa_ii.n hasiino.n kii Toliyaa.N \-2
+ko \:	aa haa haa
+la \:	bole.n piyaa\-milan kii boliyaa.N
+	ma.nzil pe aa_e ko_ii nainaa milaa_e ko_ii
+	bhar de ye ulfat kii jholiyaa.N
+ko \:	ma.nzil pe aa_e \threedots
+la\:	ban ke pa.nchhii \threedots
+ko\:	ban ke pa.nchhii \threedots
+
+la \:	kheto.n pe chhaa_ii.n javaaniyaa.N \-2
+ko \:	aa haa haa
+la \:	patto.n pe likhii.n kahaaniyaa.N
+	phuulo.n kii Daal jaise ra.ngii.n rumaal
+	ko_ii de\-de hame.n bhii nishaaniyaa.N
+ko \:	patto.n pe likhii.n \threedots
+la\:	ban ke pa.nchhii \threedots
+ko\:	phuulo.n kii Daal \threedots
+%
+#endindian
+\endsong
+

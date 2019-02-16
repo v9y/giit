@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kaun apanaa kaun paraayaa}%
+\film{Kaun Apna Kaun Paraya}%
+\year{1963}%
+\starring{Waheeda Rehman, Vijay Kumar, Johnny Walker}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10713 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kaun apanaa kaun paraayaa \-2
+duniyaa kaa ye bhed abhii tak ko_ii samajh nahii.n paayaa
+
+jiivan kii naiyaa me.n sabhii hai.n raahii ik ma.nzil ke
+inhii.n me.n man ke miit mile.nge inhii.n me.n dushman dil ke
+kisii ke dil me.n bharii hai nafarat kisii me.n pyaar kii maayaa
+kaun apanaa \threedots
+
+bichha.De log bhii mil jaate hai.n kabhii\-kabhii jiivan me.n
+Kushii kii lahare.n bhii uThatii hai.n kisii ke dukhiyaa man me.n
+kabhii kisii ne khoyaa jag me.n kabhii kisii ne paayaa
+kaun apanaa \threedots
+
+ko_ii muurakh ban ke begaanaa apano.n ko Thukaraa_e
+ko_ii kisii kii Kushii ke kaaraN raste se haT jaa_e
+ko_ii kinaaraa chho.D ke Dhuu.NDhe tuufaano.n kaa saayaa
+kaun apanaa \threedots
+%
+#endindian
+\endsong
+

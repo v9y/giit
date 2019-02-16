@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{sun bairii balam sach bol re ib kyaa hogaa}%
+\film{Bawre Nain}%
+\year{}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Rajkumari}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+sun bairii balam sach bol re ib kyaa hogaa?
+
+mai.n khoyii tuu khone lagaa, haa.N
+mere dil me.n yuu.N yuu.N hone lagaa, haa.N
+mai.n rone lagii, tuu rone lagaa re
+ib kyaa hogaa?
+sun bairii balam   \threedots
+
+baiThe baiThe aah bharane lage, he
+ham ik\-duuje par marane lage, he
+ham ye kyaa nakahare karane lage re
+ib kyaa hogaa?
+sun bairii balam   \threedots
+
+ab din ko sapane aane lage, he
+taaro se aa.Nkh churaane lage, he
+ham apane se sharamaane lage re
+ib kyaa hogaa?
+sun bairii balam   \threedots
+
+%
+#endindian
+\endsong
+%

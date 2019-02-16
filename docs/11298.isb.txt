@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{mujhe kitanaa pyaar hai tum se apane hii dil se puuchho tum}%
+\film{Dil Tera Diwana}%
+\year{1962}%
+\starring{Shammi Kapoor, Mala Sinha, Mehmood}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10922 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	mujhe kitanaa pyaar hai tum se apane hii dil se puuchho tum
+	jise dil diyaa hai vo tum ho merii zindagii tumhaarii
+la \:	mujhe kitanaa pyaar \threedots
+
+ra \:	chaahat ne terii mujhako kuchh is tarah se gheraa
+	din ko hai.n tere charche raato.n ko Kvaab teraa
+la \:	tum ho jahaa.N vahii.n par rahataa hai dil bhii meraa
+	bas ik Kyaal teraa kyaa shaam kyaa saveraa
+ra \:	mujhe kitanaa pyaar \threedots
+
+la \:	ye duniyaa kaise badalii kuchh bhii samajh na aa_e
+	kyuu.N ho ga_e hai.n apane kal tak the jo paraa_e
+ra \:	dil kii lagan ho sachchii phir kyo.n na ra.ng laa_e
+	mere the tum sadaa se par ab qariib aa_e
+la \:	mujhe kitanaa pyaar \threedots
+
+ra \:	merii vafaa ko ab to yuu.N aajamaanaa chho.Do
+	dil ko churaa ke mere aa.Nkhe.n churaanaa chho.Do
+la \:	mujhako banaa ke apanaa baate.n banaanaa chho.Do
+	mai.n kab na thii tumhaarii ab to sataanaa chho.Do
+ra \:	mujhe kitanaa pyaar \threedots
+do \:	mujhe kitanaa pyaar \threedots
+%
+#endindian
+\endsong
+

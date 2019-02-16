@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{bhor bhaye pa.nchhii dhun ye sunaa_e}%
+\film{Aanchal}%
+\year{1980}%
+\starring{Rajesh Khanna, Raakhee, Rekha, Amol Palekar}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11600 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+bhor bhaye pa.nchhii dhun ye sunaa_e
+jaago re ga_ii ritu phir nahii.n aa_e
+bhor bhaye pa.nchhii \threedots
+
+panaghaT chalii gaa.Nv kii har galii jaagii
+gorii kahii.n aur kahii.n saa.Nvalii jaagii
+aa.Nchal kii chhaiyaa apane sai.nyaa ko bulaa_e
+bhor bhaye pa.nchhii \threedots
+
+mai.n bhii vahii.n hai jahaa.N mohan meraa
+madhuban meraa to yahii aa.Ngan meraa
+ye dar na chhuuTe chaahe duniyaa chhuuT jaa_e
+bhor bhaye pa.nchhii \threedots
+%
+#endindian
+\endsong
+

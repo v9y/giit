@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{naa ko_ii teraa yahaa.n hai na ko_ii meraa}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa ko_ii teraa yahaa.n hai na ko_ii meraa
+jo bhii khushii jo bhii hai Gam mil baa.nTe.nge phir kyuu.n na ham
+meraa hai itanaa hii kahanaa
+naa ko_ii teraa yahaa.n \threedots
+
+dil me.n hai.n Gam aise bhare kamare me.n jaise ye dhu_aa.n
+khi.Dakiyaa.n dil kii jo khol do phir dhu_aa.n rahegaa kahaa.n
+vo baat pate kii hai maanaa samajhadaar ho ye ab jaanaa
+tum yahii samajhate rahanaa
+naa ko_ii teraa yahaa.n \threedots
+
+aaj bhii jaise mere saath hai.n biite hu_e mere saare kal
+khaalii hai.n ab inhe.n phe.nk do ye Dibbe ye botal
+baat pate kii hai maanaa tum ye hii samajhate rahanaa
+naa ko_ii teraa yahaa.n \threedots
+%
+#endindian
+\endsong
+

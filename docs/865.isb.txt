@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jhuumatii chalii havaa, yaad aa gayaa koii}%
+\film{Sangeet Samrat Tansen}%
+\year{}%
+\starring{Bharat Bhushan}%
+\singer{Mukesh}%
+\music{S N Tripathi}%
+\lyrics{Shailendra}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Ashok Dhareshwar
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jhUmatii chalii havaa, yaad aa gayaa koI 
+bujhatii bujhatii aag ko, phir jalaa gayaa koI 
+jhUmatii chalii havaa \threedots
+
+kho ga_ii hai.n ma.nzile.n, miT gaye hai.n raaste 
+gardishe.n hii gardishe.n, ab hai.n mere vaaste 
+ab hai.n mere vaaste 
+aur aise me.n mujhe, phir bulaa gayaa koI 
+jhUmatii chalii havaa \threedots
+
+chup hai.n chaa.Nd chaa.Ndanii, chup ye aasamaan hai 
+miiThii miiThii nii.nd me.n, so rahaa jahaan hai 
+so rahaa jahaan hai 
+aaj aadhii raat ko, kyo.n jagaa gayaa koI 
+jhUmatii chalii havaa \threedots
+
+ek huuk sii uThii, mai.n sihar ke rah gayaa
+dil ko apanaa thaam ke aah bhar ke rah gayaa
+chaa.Ndanii kii oT se muskuraa gayaa koii
+jhuumatii chalii havaa \threedots
+
+%
+#endindian
+\endsong
+%

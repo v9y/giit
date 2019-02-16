@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{aTharaa baras kii tuu hone ko aa_ii re ... jatan kuchh kar le}%
+\film{Suhaag}%
+\year{1979}%
+\starring{Amitabh, Shashi Kapoor, Rekha, Paravin Babi, Nirupa Roy, Amjad}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11291 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	aTharaa baras kii tuu hone ko aa_ii re
+	kaun puuchhegaa jatan kuchh kar le
+	sajan kar le jatan kuchh kar le
+la \:	Kaalii baato.n se terii baat naa banegii raajaa  \-2
+	hamase na hogaa milan kuchh kar le
+	kuchh kar le jatan kuchh kar le
+
+	mere ghu.Ngharuu salaamat hazaaro.n qadaradaan hai.n
+	ek tuu hii nahii.n dil me.n dil me.n laakho.n mehamaan hai.n \-2
+ra :	lekin ab tak naachegii kabhii to thakegii
+	jatan kuchh kar le \threedots
+
+	kar le hamase mohabbat mohabbat
+	kar le hamase mohabbat guzar naa jaa_e.N gha.Diyaa.N
+	haay TuuTatii hai paayal to banatii hai.n hathaka.Diyaa.N \-2
+la \:	( mai.n hathaka.Diyaa.N pahanuu.Ngii ) \-2 na pahanuu.Ngii tere ka.ngan kuchh kar le
+	kuchh kar le
+	jatan kuchh kar le \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+% ITRANS SONG
+
+\startsong
+\stitle{merii bahakii bahakii chaal ... dil ko bachaanaa raajaa}%
+\film{Shagoofaa}%
+\year{1953}%
+\starring{Bina Rai, Premnath}%
+\singer{Geeta Dutt, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+gii \:	merii bahakii bahakii chaal
+	mere resham se baal
+	merii zulfo.n ke jaal me.n naa aanaa, naa aanaa
+ko \:	dil ko bachaanaa raajaa dil ko bachaanaa \-2
+
+gii \:	chandaa kii chaa.Ndanii se goraa goraa ra.ng meraa \-2
+ko \:	goraa goraa ra.ng meraa \-2
+gii \:	kaliyo.n se naazuk baalamaa a.ng a.ng meraa \-2
+ko \:	goraa goraa ra.ng meraa \-2
+gii \:	merii palake.n za.njiir, mere nainaa hai.n tiir
+	meraa khaalii naa jaaye nishaanaa
+	naa aanaa
+
+ko \:	dil ko bachaanaa raajaa dil ko bachaanaa \-2
+gii \:	merii bahakii bahakii chaal
+	mere resham se baal
+	merii zulfo.n ke jaal me.n naa aanaa, naa aanaa
+ko \:	dil ko bachaanaa raajaa dil ko bachaanaa \-2
+
+
+gii \:	patalii kamar merii Daalii gulaab kii \-2
+ko \:	Daalii gulaab kii \-2
+gii \:	chho.Do jii chho.Do ye baate.n hai.n Kwaab kii \-2
+ko \:	baate.n hai.n Kwaab kii \-2
+gii \:	mai.n chaman kii bahaar, ThaNDii ThaNDii phuhaar
+	dekho dekho jii haath naa lagaanaa
+	naa aanaa
+
+ko \:	dil ko bachaanaa raajaa dil ko bachaanaa \-2
+gii \:	merii bahakii bahakii chaal
+	mere resham se baal
+	merii zulfo.n ke jaal me.n naa aanaa, naa aanaa
+ko \:	dil ko bachaanaa raajaa dil ko bachaanaa \-2
+
+#endindian
+\endsong

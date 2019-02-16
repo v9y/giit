@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mu.D mu.D ke na dekh, mu.D mu.D ke}%
+\film{Shree 420}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis, Nadira}%
+\singer{Asha, Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mu.D mu.D ke na dekh, mu.D mu.D ke
+zi.ndagaanii ke safar me.n tuu akelaa hii nahii.n hai
+ham bhii tere hamasafar hai.n
+
+aaye gaye ma.nzilo.n ke nishaa.N
+laharaa ke jhuumaa jhukaa aasamaa.N
+lekin rukegaa na ye kaaravaa.N
+aha ha ha aa~~
+mu.D mu.D ke na dekh   \threedots
+
+mu.D mu.D ke na dekh, mu.D mu.D ke
+zi.ndagaanii ke safar me.n tuu akelaa hii nahii.n hai
+ham bhii tere hamasafar hai.n, he!
+mu.D mu.D ke na dekh   \threedots
+
+naino.n se nainaa jo milaa ke dekhe
+mausam ke saath muskuraa ke dekhe
+duniyaa usiikii hai jo aage dekhe
+mu.D mu.D ke na dekh   \threedots
+
+duniyaa ke saath jo badalataa jaaye
+jo isake Dhaa.Nche me.n hii Dhalataa jaaye
+duniyaa usiikii hai jo chalataa jaaye
+mu.D mu.D ke na dekh   \threedots
+
+%
+#endindian
+\endsong
+%

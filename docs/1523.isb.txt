@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{raghupati raaghava raajaa raam, patit paavan siitaa raam}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{???}%
+\music{???}%
+\lyrics{???}%
+% 
+% Contributor: Satish Kalra <satishk@ix.netcom.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+raghupati raaghava raajaa raam
+patit paavan siitaa raam
+
+siitaa raam siitaa raam
+bhaj pyaare tuu siitaa raam
+raghupati \threedots
+
+iishvar allaah tere naam
+sabako sanmati de bhagavaan
+raghupati \threedots
+
+raat ko ni.ndiyaa din to kaam
+kabhii bhajoge prabhu kaa naam
+karate rahiye apane kaam
+lete rahiye hari kaa naam
+raghupati \threedots
+%
+% The last verse has been added over the years.
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{terii zulfo.n se, judaaii to nahii.n maa.Ngii thii}% 
+\film{Jab Pyar Kisi Se Hota Hai}%
+\year{}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+terii zulfo.n se, judaaii to nahii.n maa.Ngii thii
+qaid maa.Ngii thii, rihaaii to nahii.n maa.Ngii thii
+
+maine kyaa zurm kiyaa, aap khafaa ho baiThe \- 2
+pyaar maa.Ngaa thaa, khudaaii to nahii.n maa.Ngii thii
+qaid maa.Ngii thii, rihaaii to nahii.n maa.Ngii thii
+
+meraa haq thaa terii, aa.nkho.n kii chhalakatii may par \- 2
+chIz apanii thii, paraaii to nahii.n maa.Ngii thii
+qaid maa.Ngii thii, rihaaii to nahii.n maa.Ngii thii
+
+apane biimaar pe, itanaa bhii sitam ThIk nahii.n \- 2
+terii ulfat me.n, buraaii to nahii.n maa.Ngii thii
+qaid maa.Ngii thii, rihaaii to nahii.n maa.Ngii thii
+
+chaahane vaalo.n ko kabhii, tuune sitam bhii naa diyaa \- 2
+terii mahafil se, rasaaii(?) to nahii.n maa.Ngii thii
+qaid maa.Ngii thii, rihaaii to nahii.n maa.Ngii thii
+%
+#endindian % End indian text....same as >!
+\endsong
+%

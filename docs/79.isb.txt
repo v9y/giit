@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{aa jaa re aa sajanaa, tuu chhuu le mujhe}%
+\film{Return of Jewel Thief}%
+\year{}%
+\starring{Dev Anand, Jackie Shroff}%
+\singer{Alka Yagnik, chorus}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Ikram Ahmed Khan <iakhan@raleigh.ibm.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+aa jaa re aa sajanaa, tuu chhuu le mujhe
+ho, aa jaa re aa sajanaa, tuu chhuu le mujhe
+
+(meraa man jale, meraa tan jale
+ o, meraa man jale, meraa tan jale
+ tuu baaho.n me.n le le mujhe)		\- 2
+
+(mai.nne kisiise kabhii pyaar nahii.n kiyaa
+ kitano.n ne puuchhaa, iqaraar nahii.n kiyaa)	\- 2
+mere ho.NTho.n pe, haa.N aaii hai
+aaj pahalii dafaa, jaan le
+aa jaa re aa sajanaa, tuu chhuu le mujhe
+ho, aa jaa re aa sajanaa, tuu chhuu le mujhe
+
+(aa.Nkhe.n churaa ke jo guzar jaaegaa tuu
+ saarii umr phir pachhataaegaa tuu)	\- 2
+le jaaegaa mujhe aur koii
+usase pahale mujhe thaam le
+aa jaa re aa sajanaa, tuu chhuu le mujhe
+ho, aa jaa re aa sajanaa, tuu chhuu le mujhe
+
+meraa man jale,  meraa tan jale
+o, meraa man jale, meraa tan jale
+tuu baaho.n me.n le le mujhe \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{siine me.n sulagate hai.n aramaa.n, aa.Nkho.n me.n udaasii chhaa_ii hai.n}%
+\film{Taraana}%
+\year{}%
+\starring{Dilip Kumar, Madhubala}%
+\singer{Lata, Talat}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: RADHIKA VENKATRAMAN (rvenkat@eos.ncsu.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@milli.cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+talat: sIne me.n sulagate hai.n aramaa.n
+aa.Nkho.n me.n udaasI chhaaI hai
+ye aaj terI duniyaa se hame.n
+taqadIr kahaa.N le aaI hai
+sIne me.n sulagate hai.n aramaa.n
+
+latA:  kuchh aa.Nkh me.n aa.NsU baakI hai.n
+jo mere Gam ke saathI hai.n \- 2
+ab dil hai.n naa dil ke aramaa.n hai.n \- 2
+bas mai.n hU.N merI tanhaaI hai
+sIne me.n sulagate hai.n aramaa.n
+
+talat: na tujhase gilaa koI hamako
+nA koI shikaayat duniyaa se
+do chaar kadam jab manzil thii \- 2
+qismat ne Thokar khaaI hai
+sIne me.n sulagate hai.n aramaa.n
+
+lata:  kuchh aisI aag lagI man me.n
+jIne bhI naa de marane bhI naa de \threedots
+chup hU.N to kalejaa jalataa hai \- 2
+bolU.N to terii rusavaaI hai
+
+both:  sIne me.n sulagate hai.n aramaa.n
+%
+#endindian
+\endsong
+%

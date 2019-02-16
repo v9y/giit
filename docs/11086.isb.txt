@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jaaduu saa chhaane lagaa ... ye dil kyaa kare}%
+\film{Dil Kyaa Kare}%
+\year{1999}%
+\starring{Ajay Devgan, Kajol, Mahima Chaudhary}%
+\singer{Sukhvindar Singh, Jaspindar Narula}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chal mitaraa huN otthe chaliye jitthe hor na ko_ii hove
+saanuu.n vekh ke ko_ii ha.Nse naa saanuu.n sonuu vekh ke ko_ii rove
+sej sajaa_ii phuulo.n kii aur ham kaa.NTo.n pe so_e
+ishq daa dariyaa maajhii naav musaafir sab Dubo_e
+is dariyaa ko jo paar kare bas vo diivaanaa pyaar kare
+mainuu.n lagan lagii mere sajan lagii mainuu.n lagan lagii
+
+panaghaT se aisaa dhu_aa.n uThaa paanii me.n jaise agan lagii
+mainuu.n lagan lagii \threedots
+
+ho meraa dil tere dil se mil na sakaa
+merii jaa.n terii jaa.n se milane lagii
+mainuu.n lagan lagii \threedots
+
+apane sar pe ilzaam liyaa phir maine teraa naam liyaa
+terii yaado.n ke daaman ko apanii yaado.n se thaam liyaa
+naa rastaa naa ko_ii ma.nzil mai.n sa.ng pavan ke chalane lagii
+mainuu.n lagan lagii \threedots
+
+jo aag kaa dariyaa paar kare bas vo diivaanaa pyaar kare
+haa.n haa.n kho jaa_e khud is raste me.n vo yaar talaash\-e\-yaar kare
+ho meraa haath paka.D le saajan mai.n majhadhaar me.n Duub ke marane lagii
+mainuu.n lagan lagii \threedots
+
+man meraa mujhase ruuTh gayaa jo sapanaa dekhaa TuuT gayaa
+mai.n birahan kyaa si.ngaar karuu.n meraa darpan hii TuuT gayaa
+naa chuTakii bhar si.nduur milaa jab apanii maa.ng mai.n bharane lagii
+mainuu.n lagan lagii \threedots
+%
+#endindian
+\endsong
+

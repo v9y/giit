@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{merii mamataa me.n ho aisaa asar raam kare}%
+\film{Jung}%
+\year{2000}%
+\starring{Sanjay Dutt, Jackie Shroff, Shilpa Shetty, Ravina Tondon}%
+\singer{Pankaj Udhaas}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii mamataa me.n ho aisaa asar raam kare raam kare
+tujhe lag jaa_e merii umar raam kare raam kare
+
+sapanaa mai.n dekhuu.n yahii har gha.Dii
+bane ek din tuu sahaaraa meraa
+duniyaa ke saagar kii kashtii huu.N mai.n
+bane ek din tuu kinaaraa meraa
+tere sa.ng guzare.n shaam\-o\-sahar
+raam kare \threedots
+
+terii ha.Nsii hai merii zi.ndagii
+tere aa.Nsuu jo dekhuu.n to mar jaa_uu.n mai.n
+tere kaa.Ndhe pe jaa_e arthii merii
+kuchh aisii du_aa ab kar jaa_uu.n mai.n
+tujhe dekhe hameshaa merii nazar
+raam kare \threedots
+%
+#endindian
+\endsong
+

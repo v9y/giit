@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{merii mohabbat paak mohabbat}%
+\film{April Fool}%
+\year{1964}%
+\starring{Saira Bano, Bisvajiit, Jayant, Sajjan}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10956 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+merii mohabbat paak mohabbat aur jahaa.N kii Kaaq mohabbat
+kahii.n tumhe.n pyaar na ho jaa_e \-2
+o bach\-bach ke chalanaa huzuur
+merii mohabbat \threedots
+
+puurab\-pashchim uttar\-daxin mere pyaar kii siimaa
+meraa pyaar hai itanaa uu.Nchaa jaise raam\-rahiimaa \-2
+merii mohabbat \threedots
+
+tumako paakar svarg se sundar ma.nzil maine paa lii
+tere pyaar me.n mar jaane kii qasam hai maine khaa lii \-2
+merii mohabbat \threedots
+%
+#endindian
+\endsong
+

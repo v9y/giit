@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{kabake bichha.De hu_e ham aaj kahaa.N aa ke mile}%
+\film{Laawaris}%
+\year{1981}%
+\starring{Amitabh, Zeenat Aman, Rakhee, Amjad Khan}%
+\singer{Kishor, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11306 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	kabake bichha.De hu_e ham aaj kahaa.N aa ke mile
+aa \:	jaise shammaa se kahii.n lau ye jhilamilaa ke mile
+ki \:	kabake bichha.De \threedots
+aa \:	( jaise saavan ) \-3 se kahii.n pyaasii ghaTaa aa ke mile
+do \:	kabake bichha.De \threedots
+
+aa \:	baad muddat ke raat mahakii hai
+ki \:	dil dha.Dakataa hai saa.Ns bahakii hai
+aa \:	pyaar chhalakaa hai pyaasii aa.Nkho.n se
+	surK ho.nTho.n pe aag dahakii hai
+	o mahakii havaa_o.n me.n bahakii fizaa_o.n me.n do pyaase dil yuu.N mile \-2
+ki \:	( jaise mayakash ) \-3 ko_ii saaqii se Dagamagaa ke mile
+do \:	( kabake bichha.De ) \-3 hu_e \threedots
+
+aa \:	duur shahanaa_ii giit gaatii hai
+ki \:	dil ke taaro.n ko chhe.D jaatii hai \-2
+aa \:	yuu.N sapano.n ke phuul yahaa.N khilate hai.n
+	yuu.N du_aa dil kii ra.ng laatii hai \-2
+ki \:	baraso.n ke begaane ulfat ke diivaane anajaane aise mile \-2
+aa \:	( jaise manachaahii ) \-3 du_aa baraso.n aajamaa ke mile
+ki \:	kabake bichha.De \threedots
+aa \:	jaise saavan \threedots
+do \:	kabake bichha.De \threedots
+%
+#endindian
+\endsong
+

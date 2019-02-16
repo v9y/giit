@@ -1,0 +1,68 @@
+%
+\startsong
+\stitle{itanaa na mujhase tuu pyaar ba.Dhaa, ke mai.n ek baadal aavaaraa}%
+\film{Chhaaya}%
+\year{1961}%
+\starring{Sunil Dutt, Asha Parekh}%
+\singer{Talat, Lata / Talat}%
+\music{Salil Choudhary}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ta:
+itanaa na mujhase tuu pyaar ba.Dhaa
+ke mai.n ek baadal aavaaraa
+kaise kisii kaa sahaaraa banuu.N
+ke mai.n khud beghar bechaaraa
+itanaa na\threedots
+
+ta: 
+mujhe ek jagah aaraam nahii.n
+ruk jaanaa meraa kaam nahii.n
+meraa saath kahaa.N tak dogii tum 
+mai desh videsh kaa ba.njaaraa
+
+la :
+is liye tujhase pyaar karuu.n
+ke tU ek baadal Avaaraa
+janam janam se huu.N saath tere 
+ke naam meraa jal kii dhaaraa
+
+la:
+o niil gagan ke diivaane
+tuu pyaar na meraa pahachaane
+mai.n tab tak saath chaluu.N tere
+jab tak na kahe tuu mai.n haaraa
+
+ta:
+kyuu.N pyaar me.n tuu naadaan bane
+ik baadal kaa aramaan bane
+meraa saath kahaa.N tak dogii tum
+mai.n des\-bides kaa ba.njaaraa
+itanaa na\threedots
+
+% The slower/sad version by Talat
+ta:
+madahosh hameshaa rahataa huu.N
+khaamosh huu.N kab kuchh kahataa huu.N
+koii kyaa jaane mere siine me.n
+hai bijalii kaa bhii a.ngaaraa
+
+ta:
+aramaan thaa gulashan par barasuu.N
+ek shokh ke daaman par barasuu.N
+afasos jalii miTTii pe mujhe
+taqadiir ne merii de maaraa
+itanaa na\threedots
+
+%
+#endindian
+\endsong
+%

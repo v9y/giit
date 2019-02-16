@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chale jaanaa nahii.n, nain milaake}%
+\film{Badi Behan}%
+\year{1949}%
+\starring{}%
+\singer{Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+chale jaanaa nahii.n, nainaa milaake
+haay! sai.nyyaa bedardii, sai.nyyaa bedardii
+
+merii qasam tumhe mere hii hoke rahanaa
+dilo.n kii baat kisii aur se nahii.n kahanaa
+bairii duniyaa se rakhanaa chhupaa ke
+haay! sai.nyyaa bedardii, sai.nyyaa bedardii
+chale jaanaa nahii.n   \threedots
+
+nanhii.n sii jaan merii kaho na jalaaoge
+chho.D ke mujhe kahii.n chale to na jaaoge
+bhuul jaanaa nahii.n dil me.n basaa ke
+haay! sai.nyyaa bedardii, sai.nyyaa bedardii
+chale jaanaa nahii.n   \threedots
+
+%
+#endindian
+\endsong
+%

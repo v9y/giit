@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{jogii o jogii pyaar me.n kyaa hogaa}%
+\film{Laakhon Mein Ek}%
+\year{1971}%
+\starring{Rajesh Khanna}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10782 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	jogii o jogii pyaar me.n kyaa hogaa \-2
+ki \:	har din suhaanaa hogaa har raat suhaanii hogii
+la \:	jogii o jogii \threedots
+
+ki \:	ban jaa_e.Ngii raate.n phir sapano.n kii baaraate.n
+	guzaregaa ab jiivan bas karate prem kii baate.n
+	hamase karo tum ye vaadaa vaadaa to naa to.D dogii
+la \:	jogii o jogii \threedots
+
+	cha.ndaa\-taare soye ye mast nazaare soye
+	raat kaa jaaduu chhaayaa ham tum bin saare soye
+ki \:	kaise hame.n nii.nd aaye ham dono.n hai.n dil ke rogii
+la \:	jogii o jogii \threedots
+
+	phuulo.n kii paayal ho aur taaro.n kaa jhuumar ho
+	prem\-nagar me.n sai.nyaa ai kaash hamaaraa ghar ho
+ki \:	ghar kii zaruurat nahii.n hai tum mere dil me.n rahogii
+la \:	jogii o jogii \threedots
+%
+#endindian
+\endsong
+

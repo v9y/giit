@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ik hasiin shaam ko dil meraa kho gayaa}%
+\film{Dulhan Ek Raat Ki}%
+\year{1966}%
+\starring{Nutan, Dharmendra, Rehman, Johnny Walker}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Pradeep Dubey (pradeep@watson.ibm.com)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ik hasiin shaam ko dil meraa kho gayaa
+pahale apanaa huaa karataa thaa
+ab kisiikaa ho gayaa
+
+muddato.n se aarazuu thii
+mere dil me koii aaye
+suunii suunii zindagii me.n
+ek shammaa jhilamilaaye
+vo jo aaye to roshan zamaanaa ho gayaa
+ik hasiin \threedots
+
+mere dil ke kaaravaa.n ko
+le chalaa hai aaj koii
+shabanamii sii jisakii aa.Nkhe.n
+tho.Dii jaagii tho.Dii soyii
+unako dekhaa to mausam suhaanaa ho gayaa
+ik hasiin \threedots
+%
+#endindian
+\endsong
+%

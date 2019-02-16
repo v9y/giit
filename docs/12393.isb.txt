@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{bahaa naa aa.Nsuu bhulaa de har gam ... teraa Kudaa hai}%
+\film{Kaartoos}%
+\year{1999}%
+\starring{Sanjay Dutt, Jackie Shroff, Manisha Koirala}%
+\singer{Udit Narayan}%
+\music{Nusrat Fateh Ali Khan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bahaa naa aa.Nsuu bhulaa de har gam
+ke teraa hamadam teraa Kudaa hai
+nahii.n jo saathii ye saaraa aalam to ye hai kyaa kam
+teraa Kudaa hai teraa Kudaa hai
+
+kariib hai subah\-e\-yaar terii chhupegii kab tak bahaar terii
+vo sun rahaa hai pukaar terii hameshaa haradam
+teraa Kudaa hai \threedots
+
+naa hogaa ye bhii galat kuchh itanaa
+jo tuu samajhe le hame.n bhii apanaa
+ke hamako gar teraa dard kitanaa jo kahate hai.n ham
+teraa Kudaa hai \threedots
+%
+#endindian
+\endsong
+

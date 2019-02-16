@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{saathii re ... qadam qadam se dil se dil}%
+\film{Chaar Dil Chaar Raahen}%
+\year{1959}%
+\starring{Raj Kapoor, Meena Kumari, Shammi Kapoor, Nimmi, Kumkum, Ajit}%
+\singer{Mukesh, Manna De, Mahendra Kapoor, Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11445 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+saathii re \-3
+qadam qadam se dil se dil milaa rahe hai.n ham
+vatan me.n ek nayaa chaman khilaa rahe hai.n ham
+qadam qadam se \threedots
+
+ham aaj nii.nv rakh rahe hai.n ( us nijaam kii ) \-2
+bike na zindagii jahaa.N ( kisii Gulaam kii ) \-2
+luTe.n na mehanate.n pise hu_e aavaam kii
+na bhar sake tijoriyaa.N ko_ii haraam kii
+saathii re \-2
+har ek uu.Nch\-niich ko miTaa rahe hai.n ham
+qadam qadam se \threedots
+
+saathii re bhaa_ii re
+videshii luuT kii jagah ( ho desii luuT kyo.n ) \-2
+safed jhuuTh kii jagah ( siyaah jhuuTh kyo.n ) \-2
+vatan sabhii kaa hai to phir vatan me.n phuuT kyo.n
+samaaj ke dushmano.n ko mil rahii hai chhuuT kyo.n
+saathii re bhaa_ii re
+khulii sabhaa me.n ye savaal uThaa rahe hai.n ham
+qadam qadam se \threedots
+
+saathii re bhaa_ii re
+hamaare baaju_o.n me.n ( aa.Ndhiyo.n kaa zor hai ) \-2
+hamaarii dha.Dakano.n me.n ( baadalo.n kaa shor hai ) \-2
+hamaare haath me.n vatan kii baagaDor hai
+na bach ke jaa sake.nge jinake dil me.n chor hai
+saathii re bhaa_ii re
+suno ki apanaa faisalaa sunaa rahe hai.n ham
+qadam qadam se \threedots
+%
+#endindian
+\endsong
+

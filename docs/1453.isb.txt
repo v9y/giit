@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{piyaa piyaa na laage moraa jiyaa}%
+\film{Phagun}%
+\year{1958}%
+\starring{Bharat Bhushan, Madhubala}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/01/1996
+% Comments: Sources: HMV Golden Collection of Asha
+%           and HMV cassette of "Phagun"
+%
+\printtitle
+#indian
+%
+piyaa piyaa na laage moraa jiyaa
+aajaa chorii chorii ye bai.nyaa.n gorii gorii
+ta.Dap uThii re tere pyaar ko
+piyaa piyaa \threedots
+ 
+ek ban kii kalii matavaalii nagarii me.n aaii khilane 
+ja.ngal kii moranii aaii baago.n ke mor se milane
+milane ho milane, mor se milane
+haay \threedots apanaa banaa le sai.nyaa ho
+piyaa piyaa \threedots
+ 
+o baa.Nke nainaa vaale o paradesii matavaale 
+tuu muralii mujhe banaa le ho.nTho.n se haay lagaa le
+muralii banaa le ho.nTho.n se lagaa le
+haay \threedots apanaa banaa le sai.nyaa ho
+piyaa piyaa \threedots
+%
+#endindian
+\endsong
+%
+

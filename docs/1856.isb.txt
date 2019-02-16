@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{vo ham se chup hai.n ham un se chup hai.n manaane vAle, manaa rahe.n hai.n}%
+\film{Sargam}%
+\year{1950}%
+\starring{}%
+\singer{Chitalkar, Lata}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Producer:  Filmistan
+%
+% Contributor:  rameshh@acad1.tp.ac.sg (Ramesh Hariharan)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+chi: vo ham se chup hai.n, ham unase chup hai.n  
+l: manaane vAle, manaa rahe.n hai.n 
+chi: vo ham se chup hai.n, ham unase chup hai.n 
+l: manaane vAle, manaa rahe.n hai.n  
+
+chi: nigaahe.n uTh uThake jhuk rahI hai.n \- 2
+l: maze muhabbat ke aa rahe.n hai.n 
+dono: vo ham se chup hai.n \threedots
+
+chi: ye jhuuThI aahe.n, ye jhuuThe aa.Nsuu \- 2
+jhalak rahe.n hai.n, jo har palak me.n 
+l: bataa rahe.n hai.n 
+bataa rahe.n hai.n, ke TuuTe dil do 
+hazaaro.n sadame uThaa rahe.n hai.n 
+dono: maze muhabbat ke aa rahe.n hai.n 
+vo hamase chup hai.n \threedots 
+
+l: gha.Dii me.n biga.De, gha.Dii me.n jhaga.De \- 2
+hai.n baiThe phir bhI aisI adA se, aisI adA se 
+chi: dabaa ke apane ho.nTho.n ko dono, 
+ha.nsii ko apanii chhipaa rahe.n, 
+
+dono : maze muhabbat ke aa rahe.n hai.n 
+vo hamase chup hai.n \threedots
+%
+#endindian
+\endsong
+%

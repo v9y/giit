@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{haay kaahe ko bulaayaa mujhe baalamaa}%
+\film{Humshakal}%
+\year{1974}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10773 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	haay haay kaahe ko bulaayaa mujhe baalamaa
+	pyaar ke naam se \-2
+	kaahe ko bulaayaa \threedots
+ra \:	raadhaa ne yahii puuchhaa thaa ek din
+	ruuTh kar shaam se \-2
+
+la \:	jaa tose boluu.N naa ghuu.NghaTaa kholuu.N naa Doluu.N naa mai.n sa.ng tere \-2
+ra \:	roz jo tum ruuThogii aise guzare.nge din mere kaise
+	jiine nahii.n degaa mujhe chaar din ( pyaar aaraam se ) \-2
+la \:	kaahe ko bulaayaa \threedots
+
+ra \:	kaalii ghaTaa_o.n me.n Tha.nDii havaa_o.n me.n aa_o kahe.n haal dil kaa \-2
+la \:	o pyaar me.n din to Dhal jaataa hai raat kaa jaaduu chal jaataa hai
+	jiyaa lagataa hai dha.Dakane piyaa ( aajakal shaam se ) \-2
+ra \:	raadhaa ne yahii \threedots
+
+la \:	taubaa mai.n kyaa karuu.N \-2
+	badanaamii se Daruu.N mohe ba.Dii laaj aa_e
+ra \:	hamane ko_ii kii hai chorii pyaar kiyaa hai hamane gorii
+	logo.n se jo ham aise Darane lage ( to ga_e kaam se ) \-2
+la \:	kaahe ko bulaayaa \threedots
+ra \:	raadhaa ne yahii \threedots
+%
+#endindian
+\endsong
+

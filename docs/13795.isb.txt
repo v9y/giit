@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{mu.D\-mu.D hamako dekhataa ... jab\-jab mausam jhuumataa}%
+\film{Raagini}%
+\year{1958}%
+\starring{Kishore, Ashok Kumar, Padmini, Sundar, Achala Sachdev, Iftikhar}%
+\singer{Kishor, Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10543 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	mu.D\-mu.D hamako dekhataa
+	chhup\-chhup nazare.n phe.nkataa
+	sai.nyaa anajaanaa
+ki \:	jab\-jab mausam jhuumataa
+	rah\-rah ke kisii ko Dhuu.NDhataa
+	dil ye diivaanaa
+aa \:	aa aa mu.D\-mu.D hamako \threedots
+
+	aa.Nkh to sab kuchh kahatii hai
+	baat chhupii rahatii hai
+	paa ke ishaaraa maujo.n kaa
+	naav hameshaa bahatii hai
+	( haule re haule dil meraa Dole
+	tere sahaare jii ) \-2
+ki \:	jab\-jab mausam \threedots
+
+	dil jo meraa laharaataa hai
+	pyaar kisii kaa gaataa hai
+	Daal ke aa.Nkhe.n aa.Nkho.n me.n
+	haay ko_ii muskaataa hai
+	( hamako bulaa_e.N kisakii adaa_e.N
+	kisake ishaare jii ) \-2
+aa \:	mu.D\-mu.D hamako \threedots
+%
+#endindian
+\endsong
+

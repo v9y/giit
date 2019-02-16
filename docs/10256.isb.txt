@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{yahii hai tamannaa tere dar ke saamane}%
+\film{Aapki Parchhaiyan}%
+\year{1964}%
+\starring{Dharmendra, Supriya Choudhary, Shashikala}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10551 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+yahii hai tamannaa tere dar ke saamane
+merii jaan jaa_e merii jaan jaa_e
+haay yahii hai tamannaa \threedots
+
+tere dar pe aayaa to bas aa gayaa mai.n
+na piichhe haTuu.Ngaa zamaane ke Dar se
+zaraa dekh luu.N mai.n ye ruK kii bahaare.n
+ye qad pyaaraa\-pyaaraa ye zulfo.n ke saa_e
+haay yahii hai tamannaa \threedots
+
+gilaa hai mujhako tere Kudaa se
+hasii.n jisane itanaa banaayaa hai tujhako
+na aataa kabhii terii galiyo.n me.n zaalim
+tere husn ne khud bulaayaa hai mujhako
+jalaakar ko_ii shammaa kaise kahegaa
+ke dekho yahaa.N par naa paravaanaa aa_e
+haay yahii hai tamannaa \threedots
+
+muhabbat me.n terii agar maut aa_e
+to vo maut kitanii hasii.n maut hogii
+kisii roz mai.n teraa daaman paka.Dakar
+jo mar jaa_uu.N kyaa dilanashii.n maut hogii
+kabhii aisii ko_ii gha.Dii aa rahii ho
+to merii du_aa hai vo jaldii se aa_e
+haay yahii hai tamannaa \threedots
+%
+#endindian
+\endsong
+

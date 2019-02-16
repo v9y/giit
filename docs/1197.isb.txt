@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mere ghar aa_ii ek nanhii parii, ek nanhii parii}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Amitabh, Shashi, Rishi Kapoor, Raakhi, Nitu Singh}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere ghar aaI ek nanhii parii, ek nanhii parii
+chaa.ndanii ke hasiin rath pe savaar
+mere ghar aaI \threedots
+
+usakii baato.n me.n shahad jaisii miThaas
+usakii saaso.n me.n itar kii mahakaas
+ho.nTh jaise ke bhiige\-bhiige gulaab
+gaal jaise ke bahake\-bahake anaar
+mere ghar aaI \threedots
+
+usake aane se mere aa.ngan me.n
+khil uThe phuul gunagunaayii bahaar
+dekh kar usako jii nahii.n bharataa
+chaahe dekhuu.N use hazaaro.n baar     (2)
+mere ghar aaI \threedots
+
+maine puuchhaa use ke kaun hai tuu
+ha.nsake bolii ke mai.n huu.N teraa pyaar
+mai.n tere dil me.n thii hameshaa se
+ghar me.n aaI huu.N aaj pahalii baar
+mere ghar aaI \threedots
+%
+#endindian
+\endsong
+%

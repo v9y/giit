@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{haq maa.Ngate hai.n apane pasiine kaa}%
+\film{Baap Bete}%
+\year{1959}%
+\starring{Ashok Kumar,  Shyama, Chitra,  Baburao Pendharkar, Kanhaiyalal}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10556 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+haq maa.Ngate hai.n apane pasiine kaa
+adhikaar hame.n bhii hai jiine kaa
+
+tum laakh amiiro.n aish karo ham dekh tumhe.n kab jalate hai.n
+saa_e me.n tumhaare mahalo.n ke lekin kitane Gam palate hai.n
+dekho to nazaaraa aake kabhii Gam khaane aa.Nsuu piine kaa
+haq maa.Ngate hai.n \threedots
+
+mehanat pe hamaarii hii tumane ye shiishamahal hai kha.Daa kiyaa
+tum jinako chhoTaa kahate ho in chhoTo.n ne tumako ba.Daa kiyaa
+kyo.n saal ke piichhe chubhataa hai phir bonas ek mahiine kaa
+haq maa.Ngate hai.n \threedots
+
+tum khud bhii jiyo aur jiine do  hai maa.Ng yahii mazaduuro.n kii
+insaaf karo insaaf karo aah na lo mazaduuro.n kii
+sholaa na kahii.n banakar bha.Dake ab tak jo dhu_aa.N hai siine kaa
+haq maa.Ngate hai.n \threedots
+%
+#endindian
+\endsong
+

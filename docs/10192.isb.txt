@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kasam se kasam se o rabbaa kasam se ab na judaa_ii sahii jaaye hamase}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kasam se kasam se o rabbaa kasam se
+ab na judaa_ii sahii jaaye hamase
+kasam se kasam se \threedots
+
+ghu.ngharuu banatii hai rut ye suhaanii kaalii ghaTaa se barasataa hai paanii
+ham jal rahe hai.n birahaa ke Gam se
+kasam se kasam se \threedots
+
+chaa.Nd sitaare hai.n duur kitane ham paas rah ke hai.n duur utane
+TuuT gayaa hai dil zulm\-o\-sitam se
+kasam se kasam se \threedots
+
+maathe kii bi.ndiyaa chamakatii nahii.n hai haatho.n kii chuu.Dii khanakatii nahii.n hai
+me.nhadii nigo.Dii bhii kyaa ra.ng laa_ii raat milan kii banii re judaa_ii
+ham mil na paaye apane balam se
+o rabbaa kasam se \threedots
+%
+#endindian
+\endsong
+

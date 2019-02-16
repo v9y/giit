@@ -1,0 +1,78 @@
+
+%
+\startsong
+\stitle{ishq chiiz hai aisii ... maine laakh manaayaa ... rabbaa ishq na hove}%
+\film{Andaaz}%
+\year{2003}%
+\starring{Akshay Kumar, Lara Dutta, Priyanka Chopra}%
+\singer{Sonu Nigam, Alka Yagnik, Sapna Mukherjee, Kailash Kher}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11663 [V S Rawat]
+% Producer: Suneel Darshan, Director: Raj Kanwar
+% Audio: Shree Krishna Audio
+% Cassette: PHF 001 Stereo, Cost: Rs 50/-, CD: TCCD001, Cost: Rs 145/-
+% Site: www.andaazthefilm.com
+%
+\printtitle
+#indian
+%
+ko \:	aa aa aa aa aa aa aa \-4
+kai \:	ishq chiiz hai aisii rabbaa ise ko_ii rok naa paave
+	ko_ii ishq me.n sab ko miTaa de ko_ii ishq me.n Kud miT jaave
+
+ko \:	ishq ishq ishq
+
+so \:	maine laakh manaayaa maane naa maine phir samajhaayaa maane naa
+a \:	ko_ii phuul naa kaa.NTo.n pe sove ko_ii chain dilo.n kaa naa khove
+so \:	rabbaa ishq na hove rabbaa ishq na hove
+a \:	ho rabbaa ishq na hove rabbaa ishq na hove
+so \:	rabbaa ishq na hove
+a \:	rabbaa ishq na hove
+ko \:	o rabbaa ishq na hove rabbaa ishq na hove \-2
+
+ko \:	ishq ishq
+a \:	aa ik ishq aazamaanaa hai mushqil ba.Daa
+	ye vaadaa nibhaanaa hai mushqil ba.Daa
+so \:	zamaane ko hai ishq se dushmanii
+	yahaa.N dil lagaanaa hai mushqil ba.Daa
+a \:	ye kyaa hai na jaane jo aashiq naa maane \-2
+	vo pal\-pal ta.Dapate hii Duube
+so \:	o rabbaa ishq na hove rabbaa ishq na hove
+a \:	ho rabbaa ishq na hove rabbaa ishq na hove
+
+sai \:	dhiranan \-4 dhiim\-dhiim
+
+ko \:	ishq ishq
+a \:	kahii.n isame.n rasamo.n kii diivaar hai
+	kahii.n isame.n qasamo.n kii takaraar hai
+so \:	ko_ii bhii ise rok sakataa nahii.n
+	ye har dard sahane ko taiyaar hai
+a \:	ye badanaam kar de sar\-e\-aam kar de \-2
+	ye Kvaab na ko_ii sa.njo_e
+	allaah kare dil na \threedots
+so \:	o rabbaa ishq na hove rabbaa ishq na hove
+a \:	o rabbaa ishq na hove rabbaa ishq na hove
+kai \:	rabbaa ho \-3
+
+ko \:	ishq ishq
+so \:	kabhii ishq pe zor chalataa nahii.n	
+	ye mausam hai vo jo badalataa nahii.n
+a \:	Kumaarii me.n isakii bahak jaa_e.N dil
+	sambhaale se bhii dil sambhalataa nahii.n
+so \:	nashaa hii nashaa hai na puuchho ke kyaa hai \-2
+	sholaa shabanam ko dekho bhigo_e
+so \:	rabbaa ishq na hove o rabbaa ishq na hove
+a \:	ho rabbaa ishq na hove rabbaa ishq na hove
+so \:	maine laakh manaayaa \threedots
+a \:	ko_ii phuul naa \threedots
+so \:	rabbaa ishq na hove rabbaa ishq na hove
+	ho rabbaa ishq na hove rabbaa ishq na hove
+a \:	rabbaa ishq na hove
+so \:	rabbaa ishq na hove
+do \:	ho rabbaa ishq na hove rabbaa ishq na hove
+%
+#endindian
+\endsong
+

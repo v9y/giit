@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{ek baar phir se aajaa dil me.n mere samaa jaa}%
+\film{Elan}%
+\year{1947}%
+\starring{Surendra, Munavvar Sultana, Himalaywala, Leela Mishra}%
+\singer{Surendra Nath}%
+\music{Naushad}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12023 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ek baar phir se aajaa
+dil me.n mere samaa jaa
+ek baar phir se aajaa
+
+ai zindagii kii raahat
+ai jannato.n kii jannat
+ek baar phir se aajaa
+dil me.n mere samaa jaa
+ek baar phir se aajaa
+
+huure.n nisaar tujh par
+sadaqe bahaar tujh par
+( jaan\-e\-bahaar tuu hai
+dil kaa qaraar tuu hai ) \-2
+tujhako qasam hayaa kii
+apanii har ek adaa kii
+ik baar muskaraa jaa
+
+dil me.n mere samaa.N jaa
+ek baar phir se aajaa
+
+dekhaa hai jab se tujhako
+diiwaanaa ho rahaa hai
+mai.n is se aur ye mujhase
+begaanaa ho rahaa hai
+
+dil hai magar nahii.n hai
+sab kuchh hai par nahii.n hai
+tere baGair duniyaa
+yaa Kaab yaa khilaunaa
+is Kaab se jagaa jaa
+
+dil me.n mere samaa.N jaa
+ek baar phir se aajaa \-2
+dil me.n mere samaa.N jaa
+ek baar phir se aajaa
+%
+#endindian
+\endsong
+

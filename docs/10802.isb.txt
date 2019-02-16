@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{merii nii.nd jaane lagii hai}%
+\film{Chal Mere Bhaai}%
+\year{2000}%
+\starring{Sanjay Dutt, Salman Khan, Karisma Kapoor}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii nii.nd jaane lagii hai
+meraa chain khone lagaa hai
+mujhe ishq hone lagaa hai
+merii nii.nd jaane \threedots
+
+duniyaa lage hai na_ii sii sab kuchh lage hai suhaanaa
+terii jhukii nigaaho.n kaa mai.n ban gayaa huu.N diivaanaa
+biite mere din ta.Dap ke mushkil se rainaa gujaarii
+maine to aaj ye jaanaa kyaa chiiz hai bekaraarii
+mai.n bhii to huu.N khoyaa khoyaa
+ab hosh aataa nahii.n hai naa jaane kaisaa nashaa hai
+merii nii.nd jaane \threedots
+
+betaab se hai.n nazaare mausam badalane lage hai.n
+madahoshiyo.n me.n ham dono.n girane sa.mbhalane lage hai.n
+baaho.n me.n aa ke dilabar ke aramaa.n machalane lage hai.n
+ham bhii javaan chaahat ke ra.ngo.n me.n Dhalane lage hai.n
+kaisaa hai ye jaaduu jaaduu
+ye aag kaisii lagii hai ye dard kaisaa jagaa hai
+merii nii.nd jaane \threedots
+%
+#endindian
+\endsong
+

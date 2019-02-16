@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ek diivaanaa hai ek diivaanii hai}%
+\film{Maine Dil Tujhko Diya}%
+\year{2002}%
+\starring{Sanjay Dutt, Sohail Khan, Samira Reddy}%
+\singer{Dabbu Malik, Nayan, Pankaj, Jordy}%
+\music{Dabbu Malik}%
+\lyrics{Salim Bijanauri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek diivaanaa hai ek diivaanii hai
+ye un dono.n kii prem kahaanii hai
+dil me.n junuun kuchh itanaa jyaadaa hai
+ik duuje ko bas paane kaa iraadaa hai
+pyaar hotaa hai jise ko_ii roke naa use
+zakhm diivaane ko itane mile hai.n saathii
+ik saa.Ns zi.ndagii kii bhii naa rahii thii baakii
+phir bhii dekho vo lauT ke aayaa hai
+pyaar ne tere isako vaapas bulaayaa hai
+khii.nch laayaa teraa pyaar
+aayaa dekho apanaa yaar
+vaadaa vo apanaa nibhaane mai.n aayaa huu.N
+duniyaa ke saamane kahane ye aayaa huu.N
+maine dil tujhako diyaa
+haa.N tuune kah diyaa ab jiit jaa_uu.Ngaa
+chaahe.n zamaane ko dushman banaa_uu.Ngaa
+dushman zamaanaa hai par tujhako paanaa hai
+%
+#endindian
+\endsong
+

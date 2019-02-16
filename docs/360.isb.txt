@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{chal chale.n ai dil chale.n chal, jhiil ke us paar}%
+\film{Jheel Ke Us Paar}%
+\year{1973}%
+\starring{Dharmendra, Mumtaz}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Audio On: HMV
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Sami Mohammed 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+ho ho
+(chal chale.n ai dil kare.n chal 
+kar kisiikaa intazaar
+intazaar, jhiil ke us paar)\-2
+
+(shaayad koI paradesii mil jaae suune des me.n
+mil jaae bhagavaan mujhako aadamii ke bhes me.n)\-2
+kyaa ho jaae kyaa hai aitabaar, jhiil ke us paar
+chal chale.n ai dil kare.n chal 
+kar kisiikaa intazaar
+intazaar, jhiil ke us paar
+
+(jo is paar nahii.n koI kyaa jaane vo us paar ho
+parbat ke piichhe ek sundar sapano.n kaa sa.nsaar ho)\-2
+aaii ho bahaaro.n pe bahaar, jhiil ke us paar
+(chal chale.n ai dil kare.n chal 
+kar kisiikaa intazaar
+intazaar, jhiil ke us paar)\-2
+chale.n
+%
+#endindian
+\endsong
+%

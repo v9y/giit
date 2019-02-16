@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{tumhaare bin guzaare hai.n ka_ii din}%
+\film{Aatmaaraam}%
+\year{1979}%
+\starring{Shatrughan, Vidya Sinha, Bindiya, Farida, Pran, Amjad Khan, Aruna Irani}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Vishveshvar Sharma}%
+%
+% Contributor: BOL ANAMOL #11292 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	tumhaare bin guzaare hai.n ka_ii din ab na guzare.nge
+	jo dil me.n aa ga_ii hai aaj ham vo kar hii guzare.nge
+ra \:	Kabar kyaa thii ke apane bhii sitaare aise biga.De.nge
+	ke jo puujaa ke qaabil hai.n vahii yuu.N ra.ng badale.nge
+
+la \:	ka_ii din baad phir ye saaj\-si.ngaar paayaa hai
+	nahii.n maaluum thaa ke aap yuu.N inakaar kar de.nge
+	tumhaare bin guzaare \threedots
+
+ra \:	tumhe.n kaise bataa_e.N kyaa hamaare saath guzarii hai
+	tumhaaraa Kvaab TuuTegaa agar yah baat kah de.nge
+	tumhaare bin guzaare \threedots
+
+la \:	tumhaarii ek na maane.nge kare.nge aaj manamaanii
+	bahut tarasaayaa hai tumane nahii.n ab aur tarase.nge
+	tumhaare bin guzaare \threedots
+
+ra \:	sataayaa to nahii.n karate kabhii qismat ke maaro.n ko
+	kisii kii jaan jaa_egii kisii ke aramaa.N nikale.nge
+	tumhaare bin guzaare \threedots
+
+la \:	manaayaa tumako kitanii baar lekin tum nahii.n maane
+	to majabuur hokar ham sharaarat par bhii utare.nge
+	tumhaare bin guzaare \threedots
+
+ra \:	haqiiqat kyaa hai ye pahale bataa dete to achchhaa thaa
+	Kud apane jaal se ham na jaane kaise nikale.nge
+	tumhaare bin guzaare \threedots
+%
+#endindian
+\endsong
+

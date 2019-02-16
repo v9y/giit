@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{aa_e bahaar ban ke lubhaa kar chale ga_e}%
+\film{Raajhath}%
+\year{1956}%
+\starring{Sohrab Modi, Pradeep Kumar, Madhubala}%
+\singer{Rafi}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10838 [V S Rawat], Surma Bhopali
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aa_e bahaar ban ke lubhaa kar chale ga_e
+kyaa raaz thaa jo dil me.n chhupaa kar chale ga_e
+aa_e bahaar ban ke \threedots
+
+kahane ko vo hasiin the aa.Nkhe.n thii.n bevafaa
+haay aa.Nkhe.n thii.n bevafaa
+kahane ko vo hasiin the aa.Nkhe.n thii.n bevafaa
+haay
+daaman merii nazar se bachaa kar chale ga_e
+aa_e bahaar ban ke \threedots
+
+itanaa mujhe bataa_o mere dil kii dha.Dakano.n
+haay dil kii dha.Dakano.n
+itanaa mujhe bataa_o mere dil kii dha.Dakano.n
+haay
+vo kaun the jo Kvaab dikhaakar chale ga_e
+aa_e bahaar ban ke \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{o kanhaiyaa ... aaj panaghaT pe hai terii raadhaa}%
+\film{Humsaya}%
+\year{1968}%
+\starring{Joy Mukherjee, Sharmila Tagore, Mala Sinha}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11508 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+o kanhaiyaa \-2
+kanhaiyaa \-4
+o ( kanhaiyaa ) \-3 aaj panaghaT pe hai ( terii raadhaa akelii kha.Dii ) \-2
+o kanhaiyaa \threedots
+
+man ye kahataa hai ab naa pukaaruu.N tujhe
+pyaar kahataa hai kaise bisaaruu.N tujhe
+priit kii riit kaise badal duu.N bhalaa
+nain kahate hai.n haradam nihaaruu.N tujhe
+( aa bhii jaa saa.Nvare ) \-2 ( phir chhe.D de ) \-2 re vahii baa.Nsurii
+o kanhaiyaa \threedots
+
+man ke ma.ndir me.n maine biThaayaa tujhe
+apanaa sab kuchh hii maine banaayaa tujhe
+terii puujaa me.n mai.n to rahii re magan
+aur bhagavaan bananaa na aayaa tujhe
+( aa bhii jaa saa.Nvare ) \-2 ( phir chhe.D de ) \-2 re vahii baa.Nsurii
+o kanhaiyaa \threedots
+%
+#endindian
+\endsong
+

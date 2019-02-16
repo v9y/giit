@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{tumhaaraa pyaar chaahiye, mujhe jiine ke liye}%
+\film{Manokamana}%
+\year{1979}%
+\starring{Raj Kiran, Madhu Kapoor, Kalpana Iyer}%
+\singer{Bappi Lahiri}%
+\music{Bappi Lahiri}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Nizar Virani <nvirani175@aol.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+% Credits: Vandana Venkatesan (vvenkate@pcocd2.intel.com), Vijay Kumar
+%
+\printtitle
+#indian
+%
+pyaar chaahiye mujhe jiine ke liye
+mujh ko har gha.Dii diidaar chaahiye
+tumhaaraa pyaar chaahiye mujhe jiine ke liye
+
+mere sivaa tum aur kisii ko, dil me.n na aane dogii
+phuulo.n kii to baat hii kyaa hai, kaa.NTo.n ke saath chalogii
+tumhaaraa pyaar chaahiye mujhe jiine ke liye
+din raat vafaa kaa iqaraar chaahiye
+tumhaaraa pyaar chaahiye mujhe jiine ke liye
+
+ruup ra.Ng pe marataa aayaa, sadiyo.n se yah zamaanaa
+mai.n man kii su.ndarataa dekhuu.N, pyaar kaa mai.n diivaanaa
+tumhaaraa pyaar chaahiye mujhe jiine ke liye
+tuufaa.n me.n baaho.n kii patavaar chaahiye
+tumhaaraa pyaar chaahiye mujhe jiine ke liye
+%
+#endindian
+\endsong
+%
+

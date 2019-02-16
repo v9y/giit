@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mil naa sakaa dil ko agar pyaar tumhaaraa ## mukesh gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Kishore Desai}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (tanvi@utxvms.cc.utexas.edu)
+%          Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mil naa sakaa dil ko agar pyaar tumhaaraa
+aanaa pa.Degaa mujhako duniyaa me.n dubaaraa
+
+Daal par gulaab ke shabanam hai zindagii
+pyaar ke liye to bahut kam hai zindagii
+u.Datii huI is umr ko ik teraa sahaaraa
+
+apanii ye chhoTii sii mulaaqaat bahut hai
+jitanii der teraa mile saath bahut hai
+bar ek jhalak ek nazar ek sahaaraa
+%
+#endindian
+\endsong
+%
+

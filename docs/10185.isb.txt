@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{yaar kii mere nishaanii hai tuu}%
+\film{Awaaraagardi}%
+\year{1990}%
+\starring{Aditya, Kimi, Hemant Birje, Raza Murad, Kanan Kaushal, Sunil Dhawan}%
+\singer{Kumar Sanu, Udit Narayan, Sarika Kapoor}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	yaar kii mere nishaanii hai tuu
+	pyaar kii mere nishaanii hai tuu
+	tuu zindaa rahe umr leke merii
+	mere raajuu merii zindagaanii hai tuu
+	rahegii rahegii ye dostii
+	ho.nge judaa ham tum naa kabhii
+	pyaar ye kam ho kabhii naa
+	maa.nge dil du_aa
+	ho ho ho ho o o
+
+u \:	yaar ko_ii tere jaisaa kahaa.N
+	pyaar kare ko_ii aisaa kahaa.N
+	yaar kii Kaatir jiinaa yahaa.N
+	yaar kii Kaatir maranaa yahaa.N
+	rishtaa ye TuuTe kahii.n na
+	maa.nge dil du_aa \threedots
+
+ku \:	saath tere jiine kii har Kushii
+	tere binaa kyaa hai zindagii
+	tere binaa ho jiinaa kabhii
+	aisaa din to aa_e naa kabhii
+	kho ke tujhe naa ho jiinaa
+	maa.nge dil du_aa \threedots
+
+sa \:	kisii dil me.n hai raaz kyaa
+	ye vo jaane yaa jaane Kudaa
+	rahe.n salaamat Kushiyaa.N is ghar kii
+	har pal maaguu.N mai.n yahii du_aa
+u \:	is ghar me.n ho Gam ko_ii naa
+	maa.nge dil du_aa 
+	is ghar kii Kaatir luTe jaa.n
+	maa.nge dil du_aa \threedots
+%
+#endindian
+\endsong
+

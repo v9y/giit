@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{dost dost naa rahaa, pyaar pyaar naa rahaa}%
+\film{Sangam}%
+\year{}%
+\starring{Raj Kapoor, Rajendra Kumar, Vyjayantimala}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dost dost naa rahaa
+pyaar pyaar naa rahaa
+zi.ndagii hame.n teraa 
+aitabaar naa rahaa,  aitabaar naa rahaa
+
+amaanate.n mai.n pyaar kii
+gayaa thaa jisako sau.np kar
+vo mere dost tum hii the
+tumhii.n to the
+jo zi.ndagii kii raah me 
+bane the mere hamasafar
+vo mere dost tum hii the
+tumhii.n to the
+saare bhed khul gae
+raazadaar naa rahaa
+zi.ndagii hame.n teraa
+aitabaar naa rahaa, aitabaar naa rahaa
+dost dost naa rahaa \threedots
+
+safar ke vaqt me.n palak pe
+motiyo.n ko taulatii 
+vo tum naa thii to kaun thaa
+tumhii.n to thii
+nashe kii raat Dhal gayii
+ab khumaar naa rahaa
+zi.ndagii hame.n teraa
+aitabaar naa rahaa, aitabaar naa rahaa
+dost dost naa rahaa \threedots
+%
+#endindian
+\endsong
+%

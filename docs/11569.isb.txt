@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{diivaanaa diivaanaa mai.n teraa diivaanaa}%
+\film{Ghazab Tamaashaa}%
+\year{1992}%
+\starring{Rahul Roy, Anu Agarwal, Deepak Tijori, Sneha, Satyajeet, Nalini, Kulbhushan}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:		
+	haa.N merii jaan\-e\-jaa.n mere paas aa zaraa
+	ab kahii.n mujhako chain aa_e naa
+	bin tere meraa man lagataa nahii.n
+
+ka \:	diivaanaa diivaanaa tuu meraa diivaanaa
+	ho mere jaan\-e\-jaa.n sun le merii sadaa
+	ab kahii.n mujhako chain aa_e naa
+	bin tere meraa dil lagataa nahii.n
+ku \:	diivaanaa diivaanaa mai.n \threedots
+
+ka \:	baa.Nho.n me.n tuune liyaa dha.Dakan machalane lagii
+ku \:	chhaa_ii ko_ii bekhudii har saa.Ns jalane lagii
+ka \:	pyaas ba.Dhane lagii kyaa hu_aa kyaa pataa
+ku \:	diivaanaa diivaanaa mai.n \threedots
+
+	mil ke banaa_e.n chalo ham ik nayaa aashiyaa.N
+ka \:	tuu jo mujhe mil gayaa mujhako mile do jahaa.N
+ku \:	TuuTegaa na kabhii vaadaa ye pyaar kaa
+ka \:	diivaanaa diivaanaa mai.n \threedots
+%
+#endindian
+\endsong
+

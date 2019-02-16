@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{haay ye havaa jo chhuu ke jaa_e ... chhuu chhuu le}%
+\film{Khauff}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Vinod Rathod, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay haay ye havaa jo chhuu ke jaa_e
+jaa_e jaa_e merii jaan ye jaa_e
+chhuu chhuu chhuu le naa chhuu chhuu chhuu le naa
+
+chal pa.Dii ye havaa chulabulii manachalii haay
+tan badan me.n uThe sanasanii ka.npaka.npii haay
+aa aa chhuu le naa
+ro_aa.n ro_aa.n meraa paagal hai terii adaa_o.n se ghaayal hai
+barfiilii Tha.nDak sataatii hai tuu so_e aramaa.n jagaatii hai
+chhuu chhuu chhuu le naa chhuu le naa chhuu le naa
+
+chupake se chorii se dhiire se haule se he he he aa chuum le
+le mujhe baaho.n me.n mastaanii raato.n me.n huu.n huu.n huu.n aa jhuum le
+he jalatii shamaa jaisii tuu ta.Dapataa paravaanaa mai.n
+tuu kahaanii husn kii ishq kaa afasaanaa mai.n
+chhuu chhuu chhuu le \threedots
+
+ho.nTho.n ko ho.nTho.n se jism ko jism se he he he mil jaane de
+jo kasak hai uThii tan badan me.n mere he he he miT jaane de
+ho saragoshii ye kaano.n me.n karake ga_ii hai havaa
+madahoshii se kaam lo ik duuje ko thaam lo
+chhuu chhuu chhuu le \threedots
+%
+#endindian
+\endsong
+

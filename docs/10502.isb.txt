@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tumhii.n ko chaahataa hai dil tumhii.n se pyaar hai}%
+\film{Baaghi}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhii.n ko chaahataa hai dil tumhii.n se pyaar hai
+tumhaarii in adaa_o.n me.n ba.Daa khumaar hai
+khafaa na ho o jaanaa.n ke dekhe ye zamaanaa
+mai.n ho gayaa diivaanaa dil bekaraar hai
+tumhii.n ko chaahataa hai \threedots
+
+Daal ke nazar nazar kii mastiyaa.N
+mujh pe yuu.n giraa_ii.n tuune bijaliyaa.N
+madahosh mai.n huu.N ke hosh kho gayaa
+dil kii lagii me.n ye haal ho gayaa
+ab to dil pe bas tumhaaraa ikhtiyaar hai
+tumhii.n ko chaahataa hai \threedots
+
+aur bhii kariib aane do mujhe
+dha.Dakane.n zaraa churaane do mujhe
+ta.Dapaa ke aise na jaa_o jaan\-e\-man
+mujhako gale se lagaa_o jaan\-e\-man
+kyaa khilaa khilaa samaa.n hai kyaa bahaar hai
+tumhii.n ko chaahataa hai \threedots
+%
+#endindian
+\endsong
+

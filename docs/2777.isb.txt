@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{baa.Ndh priiti phuul Dor}%
+\film{Malti Madhav}%
+\year{1951}%
+\starring{}%
+\singer{Lata}%
+\music{Sudhir Phadke}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Anil Hingorani / Surajit Bose
+% Transliterator: Surajit Bose
+% Credits: RMIM 2000 West Coast Meet Commemorative Tape
+% Comments: LATAnjali series; raag Jaijaivanti
+%
+\printtitle
+#indian
+%
+
+baa.Ndh priiti phuul Dor, man leke chit_chor
+duur jaanaa naa, duur jaanaa naa \threedots
+
+man kii kivaa.D khol, miita mere anamol
+bhuul jaanaa naa, bhuul jaanaa naa \threedots
+
+kaise sahuu.N vichhohan, man me.n ramaa hai mohan
+ruuTh jaanaa naa, ruuTh jaanaa naa \threedots
+
+%
+#endindian
+\endsong
+%

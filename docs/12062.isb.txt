@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{merii nazar chehare se ... dekh idhar patalii kamar baalii umar}%
+\film{Joru Kaa Ghulaam}%
+\year{2000}%
+\starring{Govinda, Twinkle Khanna}%
+\singer{Rajesh Mishra, Jaspindar Narula}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii nazar chehare se ab tere haTe naa
+tere binaa jaan merii raat kaTe naa
+
+ai dekh idhar patalii kamar baalii umar
+jaan\-e\-jigar maan bhii jaa kahanaa
+mere dil ko naa ta.Dapaa ai aa ai
+
+are samajho
+o galiyo.n baazaaro.n me.n kahii.n pyaar ba.nTe naa
+aise paTaane se kabhii la.Dakii paTe naa
+
+are yaar sa.mbhal bachake nikal
+chikane badan pe na phisal
+karake aisii baat mere dil ko naa ta.Dapaa
+ai naa ai are baabaa naa
+joban pe Thahare na mu.Dii mu.Dii jaa_e
+chunarii havaa_o.n me.n u.Dii u.Dii jaa_e
+a.ngiyaa kaa paiba.nd khulaa khulaa jaa_e
+ra.ng ko_ii is tan me.n ghulaa ghulaa jaa_e
+o uf kyaa javaanii hai a.nguurii paanii hai
+tujhame.n hai ko_ii nashaa
+tho.Dii sii mastii hai tho.Daa saa jaaduu hai
+mujhame.n hai tho.Dii hayaa
+are dekh idhar patalii kamar \threedots
+
+ab naa jiyaa pe chale meraa jor
+tuu to lage mujhako ko_ii chitachor
+aa baa.Ndh le dil se dil kii tuu Dor
+raanii machaatii hai kyuu.n itanaa shor
+jaane de jaane de naa chhe.D jaane de
+raste me.n hai kyuu.n kha.Daa
+qaatil nigaaho.n pe terii adaa_o.n pe
+mai.n to hu_aa re fidaa
+are yaar sa.mbhal \threedots
+%
+#endindian
+\endsong
+

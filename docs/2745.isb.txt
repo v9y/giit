@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{ye raat phir na aayegii}%
+\film{Mahal}%
+\year{1949}%
+\starring{Madhubala}%
+\singer{Rajkumari, Zohrabai Ambalewali}%
+\music{Khemchand Prakash}%
+\lyrics{Nakshab}%
+%
+% Contributor: Balaji S Murthy
+% Transliterator: Balaji S Murthy
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+z: chhun chhun ghu.ngharavaa, baaje chhun
+  kahaa.N hai dhyaan, kis kii dhun
+  nazar milaa ke baat sun
+ 
+  ye raat phir na aa_e_gii \-2
+r: javaanii biit jaa_e_gii \-2
+z: ye raat phir na aa_e_gii
+r: javaanii biit jaa_e_gii \-2
+ 
+z: ye mast raat be pi_e, nashe me.n jhuumatii hu_ii \-2
+  nazar ko chhe.Datii hu_ii, dilo.n ko chuumatii hu_ii \-2
+r: yuu.N hii guzar ga_ii agar, khaTak rahegii umr bhar
+  hazaar chaahoge magar, chaahoge magar
+z: ye raat phir na aa_e_gii \-2
+r: javaani biit jaa_e_gii \-2
+z: ye raat phir na aa_e_gii
+r: javaanii biit jaa_e_gii \-2
+ 
+z: javaanii gaa rahii hai dil kii dha.Dakano.n ke saaz par \-2
+r: chalo kahii.n bhii le chalo hamaaraa haath thaam kar \-2
+  kahaa.N kii fikr, kaisaa Gam
+  hamaaraa jo hai usake ham
+  tumhaarii jaan kii qasam
+z: ye raat phir na aa_e_gii \-2
+r: javaani biit jaa_e_gii \-2
+z: ye raat phir na aa_e_gii
+r: javaanii biit jaa_e_gii \-2
+
+%
+#endindian
+\endsong
+%

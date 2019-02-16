@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{bhuulii bisarii prem kahaanii phir aa_ii ek yaad puraanii}%
+\film{Naginaa}%
+\year{1986}%
+\starring{Rishi Kapoor, Shridevi, Prem Chopra, Komal Mahuvakar, Jagdeep}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bhuulii bisarii prem kahaanii phir aa_ii ek yaad puraanii
+bhuulii bisarii prem kahaanii \threedots
+
+o aane kaa vaadaa kiyaa
+vaadaa to.D diyaa nahii.n aa_e piyaa
+o bhuul ga_e tum prem kahaanii
+phir aa_ii ek \threedots
+
+maine to pyaar kiyaa
+aitabaar kiyaa i.ntazaar kiyaa
+o tumane kiyaa kyaa dilajaanii
+bhuulii bisarii prem kahaanii \threedots
+%
+#endindian
+\endsong
+

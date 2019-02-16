@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaane ye mujh ko kyaa ho rahaa hai}%
+\film{Ek Baar Phir}%
+\year{}%
+\starring{}%
+\singer{Bhupinder}%
+\music{Raghunath Seth}%
+\lyrics{Vinod Pande}%
+%
+% Contributor: Ashok Dhareshwar, Alpana Pande
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+sahamii sahamii aahe.n, hai dahashat sii man me.n
+jaane ye mujh ko kyaa ho rahaa hai
+yaad un kii dil se jaatii nahii.n hai
+jaane ye mujhako kyaa ho rahaa hai
+
+viiraanagii hai har suu, har pattaa hil rahaa hai
+mere haal\-e\-dil pe haay! aashiyaanaa ro rahaa hai
+yaad un kii dil se   \threedots
+
+vo agar aa bhii paaye.n, ruk paaye.ngii gardishe.n kyaa
+jin ki Kaatir meraa ye jahaan miT rahaa hai
+yaad un kii dil se   \threedots
+
+jitanii bhii kii hai koshish, mai.n ne bhuulane kii unako
+utanaa hii unakaa mujh par nashaa chhaa rahaa hai
+yaad un kii dil se   \threedots
+
+%
+#endindian
+\endsong
+%

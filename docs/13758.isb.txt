@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aisaa lagataa hai ho na hu_aa hone ko hai}%
+\film{Refugee}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kareena Kapoor, Jackie Shroff, Sunil Shetty, Anupam Bher, Reena Roy, Kulbhushan Kharbanda, Ashish Vidyarthi}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o aisaa lagataa hai jo na hu_aa hone ko hai
+aisaa lagataa hai ab dil meraa khone ko hai
+varanaa dil kyuu.n dha.Dakataa saa.Nse.n kyuu.n rukatii.n
+nii.nde.n merii kyuu.n u.D jaatii.n
+aisaa lagataa hai \threedots
+
+ko_ii cheharaa nigaaho.n pe chhaane lagaa
+ko_ii ab roj khvaabo.n me.n aane lagaa
+aa_ii rut jo na_ii jaage aramaa.n ka_ii
+mausam ko_ii gazal jaise gaane lagaa
+o aisaa lagataa hai jaise nashaa hone ko hai
+ho aisaa lagataa hai hosh meraa khone ko hai
+varanaa dil kyuu.n \threedots
+
+mahakii mahakii fizaa ne lii.n a.nga.Daa_iiyaa.n
+niilii niilii hai.n baadal kii parachhaa_iiyaa.n
+Tha.nDii Tha.nDii havaa laa_ii raag nayaa
+guu.njii guu.njii sii hai.n jaise shahanaa_iiyaa.n
+o aisaa lagataa hai ko_ii meraa hone ko hai
+aisaa lagataa hai har faasalaa khone ko hai
+varanaa dil kyuu.n \threedots
+%
+#endindian
+\endsong
+

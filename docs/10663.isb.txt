@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{bhay\-bha.njanaa vandanaa sun hamaarii}%
+\film{Basant Bahaar}%
+\year{1956}%
+\starring{Bharat Bhushan, Nimmi, Chandrashekhar, Kumkum}%
+\singer{Manna Dey}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #12120 [V S Rawat]
+%
+\printtitle
+#indian
+%
+aa
+bhay\-bha.njanaa vandanaa sun hamaarii \-2
+daras tere maa.Nge ye teraa pujaarii
+bhay\-bha.njanaa
+
+giito.n ke phuulo.n kii maalaa banaa kar \-2
+laayaa huu.N dil aaratii me.n sajaa kar
+ye saa.Nso.n kii saragam
+karuu.N tere arapan
+aa
+( tujhe aur kyaa duu.N
+mai.n Thaharaa bhikhaarii ) \-2
+daras tere maa.Nge ye teraa pujaarii
+bhay\-bha.njanaa vandanaa sun hamaarii
+bhay\-bha.njanaa
+%
+#endindian
+\endsong
+

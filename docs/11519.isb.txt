@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{hamane tumako dil ye de diyaa ye bhii na puuchhaa kaun ho tum}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Alka Yagnik, Babul Supriyo}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamane tumako dil ye de diyaa ye bhii na puuchhaa kaun ho tum
+ye faisalaa jo dil ne kiyaa to ye bhii na sochaa kaun ho tum
+hamane tumako dil ye \threedots
+
+dil hai ki maanataa nahii.n is dil pe kisakaa zor hai
+terii or khi.nchaa jaa rahaa huu.N jaane ye kaisii Dor hai
+tumako hai kuchh ho gayaa aaho.n pe aahe.n bharate ho
+diivaane ho tum diivaane diivaanii baat karate ho
+ham to chalo diivaane sahii par apanii bataa_o kaun ho tum
+are hamane tumako dil ye \threedots
+ye faisalaa jo dil ne kiyaa tab ye bhii na sochaa kaun ho tum
+
+tum pe yakiin aa gayaa ye kaisaa aitabaar hai
+kyaa hai ye dil kii bebasii yaa naam isakaa pyaar hai
+yuu.N hii nahii.n bechain huu.N yuu.N hii nahii.n betaab huu.N
+tumane dekhaa thaa jo kal maano vahii mai.n khvaab huu.N
+aa.Nkho.n ne aa.Nkho.n me.n dekhakar ye pahachaanaa kaun ho tum
+hamane tumako dil ye \threedots
+%
+#endindian
+\endsong
+

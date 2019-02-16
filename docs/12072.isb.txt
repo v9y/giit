@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mere binaa tum rahoge naa naa jiyoge}%
+\film{Jung}%
+\year{2000}%
+\starring{Sanjay Dutt, Jackie Shroff, Shilpa Shetty, Ravina Tondon}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere binaa tum
+o rahoge
+naa naa
+jiyoge
+naa naa
+karoge kyaa
+mar jaa_e.nge mar jaa_e.nge
+mere binaa tum \threedots
+
+dekhaa thaa tumhe.n to jabase
+maa.ngaa thaa tumhe.n hii rab se
+ho yuu.n aa.Nkho.n aa.Nkho.n me.n ye kyaa ho gayaa
+thaa dil abhii yahaa.n kahaa.n kho gayaa
+ye kyaa ho gayaa ye kab ho gayaa
+ye honaa hii thaa ye ab ho gayaa
+mere binaa tum \threedots
+
+tumane to churaayaa hai mujhe
+palako.n me.n chhupaayaa hai mujhe
+haa.n fasaanaa jo sunaa kahaanii ban ga_ii
+diivaane se milii diivaanii ban ga_ii
+ye lii hai kasam
+ye dii hai kasam
+judaa_ii kabhii
+sahe.nge na ham
+mere binaa tum \threedots
+%
+#endindian
+\endsong
+

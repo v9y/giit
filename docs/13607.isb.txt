@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ek pate kii baat sunaa_uu.N sun mere hamajolii}%
+\film{Pyaar Ki Kahaani}%
+\year{1971}%
+\starring{Tanuja, Amitabh Bachchan, Farida Jalal, Anil Dhavan}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10793 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ek pate kii baat sunaa_uu.N sun mere hamajolii
+sabase achchhii sabase sundar bolii prem kii bolii
+
+ye jiivan sa.ngraam nahii.n jiivan hai khel tamaashaa
+ka.Dave bol na bolo bhaiyaa bolo miiThii bhaaShaa
+ka.Davii baat lage dil par ban ke ba.nduuk kii golii
+sabase achchhii sabase \threedots
+
+kyaa puurab hai kyaa pashchim kyaa uttar dakkhan hai
+ham sab ek chaman ke pa.nchhii ek hamaaraa gulashan hai
+sab ek hai.n to kyo.n alag banaa_e.N apanii Tolii
+sabase achchhii sabase \threedots
+
+ek ke paas zyaadaa hai aur ek ke paas jo kam hai
+baa.NT le.n ek baraabar aapas me.n to phir kyaa Gam hai
+bolo phir kyo.n phailaa_e.N ham jaakar apanii jholii
+sabase achchhii sabase \threedots
+%
+#endindian
+\endsong
+

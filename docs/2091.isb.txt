@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{is duniyaa me.n jiinaa ho to sun lo merii baat}%
+\film{Gumnaam}%
+\year{1965}%
+\starring{Helen, Nanda, Manoj Kumar, Mahmood}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Balaji A S Murthy
+% Transliterator:
+% Credits:
+% Comments: For raaga afficianodos, the song is based on the raaga bhoop
+%
+\printtitle
+#indian
+%
+is duniyaa me.n jiinaa ho to sun lo merii baat
+Gam chho.D ke manaa lo ra.ng relii
+aur maan lo jo kahe kiTTii kelii
+
+jiinaa usaka jiinaa hai jo ha.Nsate gaate jiile
+zulfo.n kii ghanaghor ghaTaa me.n nain ke baadal piile
+aish ke ba.ndo.n aish karo.n tum chho.Do ye Kaamoshii
+aa_ii hai.n ra.ngiin bahaare.n lekar din ra.ngiile
+
+mai.n alabelii chi.ngaarii huu.N naachuu.N aur laharaa_uu.N
+daaman daaman phuul khilaa_uu.N aur Kushiyaa.N barasaa_uu.N
+duniyaa vaalo.n tum kyaa jaano jiine kii ye baate.n
+aao merii mahafil me.n mai.n ye do baate.n samajhaa_uu.N
+%
+#endindian
+\endsong
+%

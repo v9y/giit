@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{tum saamane baiThe raho palake.n merii tham jaa_e.n}%
+\film{Iqraar}%
+\year{1979}%
+\starring{Rakesh Roshan, Rameshwari, Aruna Irani, Amrish Puri, Jairaj}%
+\singer{Lata}%
+\music{Bappi Lahiri}%
+\lyrics{Kulwant Jani}%
+%
+% Contributor: BOL ANAMOL #10074 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum saamane baiThe raho palake.n merii tham jaa_e.n
+hasarat hai ye gha.Diyaa.N jab aa_e.n vo tham jaa_e.n
+tum saamane baiThe raho \threedots
+
+tumase hii mohabbat hai tum par hii aqiidat hai
+ai jaan\-e\-tamannaa_ii ye baat haqiiqat hai
+ab chhoTe se is dil me.n ye chhoTii sii hasarat hai
+tum saamane baiThe raho \threedots
+
+aa_e na kabhii duurii ko_ii na ho majabuurii
+tohafaa hai yahii meraa rahe maa.Ng ye sinduurii \-2
+mere dil kii du_aa hai ke ho aas merii puurii
+tum saamane baiThe raho \threedots
+%
+#endindian
+\endsong
+

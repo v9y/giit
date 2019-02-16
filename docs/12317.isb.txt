@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{jo achchhaa lagataa hai ... ye dil kyaa kare}%
+\film{Kaante}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sanjay Dutt, Sunil Shetty, Kumar Gaurav, Mahesh Manjarekar, Lucky Ali, Tabu, Malaika Arora}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+jo achchhaa lagataa hai jo pyaaraa lagataa hai
+jab rahane lage vo pare ye dil kyaa kare
+jo achchhaa lagataa hai \threedots
+
+zi.ndagii merii bin tere kyaa hai dil meraa jaanataa hai
+laakh samajhaa_uu.N apane man ko diivaanaa kab maanataa hai
+rah rah ke ye aahe.n bhare dil kyaa kare
+jo achchhaa lagataa hai \threedots
+
+har gha.Dii tuu Kayaalo.N me.n mere bas tujhe sochatii huu.N
+jis taraf bhii nazar ghuumatii hai mai.n tujhe dekhatii huu.N
+tere piichhe agar naa phire ye dil kyaa kare
+jo achchhaa lagataa hai \threedots
+%
+#endindian
+\endsong
+

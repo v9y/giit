@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{iid kaa din tere bin hai phiikaa}%
+\film{Sohni Mahiwaal}%
+\year{1958}%
+\starring{Bharat Bhushan, Nimmi, Achala sachdev, Sheela Kashmiri, Mukri, Tuntun}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10658 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	iid kaa din tere bin hai phiikaa
+	aajaa aajaa ke din hai Kushii kaa
+	ham akele aur ye mele
+	iid hai aur terii yaad hai
+
+la \:	chaa.Nd nikalaa na merii Kushii kaa
+	iid kaisii jo Gam ho kisii kaa
+	mai.n qafas me.n Gam ke bas me.n
+	zindagii merii barabaad hai
+
+ra \:	iid mil jaa ke dil kaa miTe Gam
+	jaane agale janam ho.n ke na ho.n ham
+	kuchh bharosaa nahii.n zindagii kaa
+	iid kaa din tere bin \threedots
+
+la \:	iid hai aur majabuuriyaa.N hai.n
+	kyaa karuu.N yaar se duuriyaa.N hai.n
+	aaj din hai ba.Dii beqasii kaa
+	iid kaisii jo Gam ho \threedots
+do \:	iid kaa din tere bin \threedots
+%
+#endindian
+\endsong
+

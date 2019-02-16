@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{pahalii baarish mai.n aur tuu duur se bhiinii Kushbuu aa_e}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii baarish mai.n aur tuu duur se bhiinii Kushbuu aa_e
+ho pahalaa mauqaa mai.n aur tuu ik duuje se milane aa_e
+ab kyaa hogaa anjaam Kudaa jaane
+ho pahalii baarish mai.n aur \threedots
+
+ho bhiigaa bhiigaa mausam aur tanhaa_ii
+qismat se aaj aisii barasaat aa_ii
+gale lag jaa_o naa aise sharamaa_o naa
+saavan me.n kaise ye duurii
+ho pahalii baarish mai.n aur \threedots
+
+ho aaj fizaa_o.n me.n nashaa behisaab hai
+baadal me.n paanii hai yaa ke sharaab hai
+mahake havaa ritu bhii hasii.N dil naa bahak jaa_e kahii.n
+duurii abhii hai zaruurii
+pahalii baarish mai.n aur \threedots
+%
+#endindian
+\endsong
+

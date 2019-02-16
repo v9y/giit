@@ -1,0 +1,53 @@
+%
+\startsong 
+\stitle{rainaa soyii soyii, nainaa jaagii jaagii}% 
+\film{Ye Gulistaan Hamara}% 
+\year{197}% 
+\starring{Dev Anand, Sharmila Tagore}% 
+\singer{Lata, S D Burman, R D Burman}% 
+\music{S D Burman}%
+\lyrics{}%
+% 
+% Contributor: Srinivas Ganti 
+% Transliterator: K Vijay Kumar
+% Comments: GEETanjali
+% Date: December 23, 2001 
+%
+\printtitle 
+#indian 
+%
+
+ko:  mahalaa mahalaa mahaa lambolaa \-2
+la:  (rainaa soyii soyii, nainaa jaagii jaagii 
+     jaane kyaa ho aage, Dam Dam Damru bolaa)\-2
+     mahalaa mahalaa mahaa lambolaa \-2
+
+raa: rastaa ghere raat kha.Dii hai
+     rastaa ghere raat kha.Dii hai
+     paayal be.Dii ban ga_ii hai
+     rastaa ghere raat kha.Dii hai
+     paayal be.Dii ban ga_ii hai
+     ho tan Dolaa man Dolaa, Dambolaa 
+     rainaa soyii soyii \threedots
+
+     tushimaa aise chal rahii hai 
+     tushimaa aise chal rahii hai 
+     nadiyaa jaise jal rahii hai
+
+     tushimaa aise chal rahii hai 
+     nadiyaa jaise jal rahii hai
+     o taaj banii re sholaa, Dambolaa
+     rainaa soyii soyii \threedots
+     mahalaa mahalaa mahaa lambolaa \-2
+
+sa:  royegaa jiivan maut ha.Nsegii 
+     royegaa jiivan maut ha.Nsegii 
+     kisii ko naagan aaj Dasegii
+raa: royegaa jiivan maut ha.Nsegii 
+     kisii ko naagan aaj Dasegii
+     o bairan ne muu.Nh kholaa, Dambolaa
+
+% 
+#endindian 
+\endsong
+%

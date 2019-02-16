@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{tumhe.n aur kyaa duu.N mai.n dil ke sivaa}%
+\film{Ayee Milan Ki Bela}%
+\year{1964}%
+\starring{Rajendra Kumar, Saira Bano, Dharmendra, Shashikala}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10961 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tumhe.n aur kyaa duu.N mai.n dil ke sivaa
+tumako hamaarii umar lag jaa_e \-2
+tumhe.n aur kyaa \threedots
+
+muraade.n ho.n puurii saje har tamannaa
+muhabbat kii duniyaa ke tum chaa.Nd bananaa
+bahaaro.n kii ma.nzil pe ha.Nsanaa\-ha.Nsaanaa
+Kushii me.n hamaarii bhii aavaaz sunanaa
+kabhii zindagii me.n ko_ii Gam na aa_e
+tumako hamaarii umar \threedots
+
+mujhe jo Kushii hai tumhe.n kyaa bataa_uu.N
+bhalaa dil kii dha.Dakan ko kaise chhupaa_uu.N
+kahii.n ho na jaa_uu.N Kushii se mai.n paagal
+tumhe.n dekh kar aur bhii muskaraa_uu.N
+Kudaa dilajalo.n kii nazar se bachaa_e
+tumako hamaarii umar \threedots
+
+sitaaro.n se uu.Nchaa ho rutabaa tumhaaraa
+bano tum har ik zindagii kaa sahaaraa
+tumhe.n jisase ulfat ho mil jaa_e tumako
+samajh lo hamaarii du_aa kaa ishaaraa
+muqaddar tumhaaraa sadaa jagamagaa_e
+tumako hamaarii umar \threedots
+%
+#endindian
+\endsong
+

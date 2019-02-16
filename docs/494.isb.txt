@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dil jalataa hai to jalane de}% 
+\film{Pahli Nazar}%
+\year{1945}%
+\starring{Motilal}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Aah Sitapuri}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+dil jalataa hai to jalane de 
+aa.Nsuu nA bahaa fariyaad nA kar 
+dil jalataa hai to jalane de 
+
+tU paradaa nashii.n kA aashiq hai 
+yuu.n naam\-e\-vafaa barabaad nA kar 
+dil jalataa hai to jalane de 
+
+maasuum najar ke tiir chalaa 
+bismil ko bismil aur banaa
+ab sharm\-o\-hayaa ke parade me.n 
+yuu.n chhup chhup ke bedaad nA kar 
+dil jalataa hai to jalane de 
+
+ham aas lagaaye baiThe hai.n 
+tum vAdaa karake bhuul gaye 
+yA suurat aake dikhaa jaao 
+yA kaha do hamako yaad nA kar 
+dil jalataa hai, dil jalataa hai, dil jalataa hai \threedots
+%
+#endindian
+\endsong
+%

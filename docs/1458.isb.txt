@@ -1,0 +1,78 @@
+%
+\startsong
+\stitle{prem kahaanii me.n, ek la.Dakaa hotaa hai, ek la.Dakii hotii hai}%
+\film{Prem Kahani}%
+\year{1975}%
+\starring{Rajesh Khanna, Mumtaz}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Anurag Acharya (Anurag_Acharya@DRAVIDO.SOAR.CS.CMU.EDU)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kishor: ek kahAnI
+jab AtI hai rut pe javAnI 
+tab banatI hai prem kahAnI
+prem kahAnI me.n 
+ek la.DakA hotA hai 
+ek la.DakI hotI hai 
+kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+latA: prem kahAnI me.n 
+ek la.DakA hotA hai 
+ek la.DakI hotI hai 
+kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+kishor: prem kahAnI me.n 
+ek la.DakA hotA hai 
+latA: ek la.DakI hotI hai 
+dono: kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+kishor: itanI sI chhoTI sI hotI hai ek chi.ngArI \- 2
+jal jAtI hai, phu.nk jAtI hai, jis me.n duniyA sArI 
+chA.NdanI rAto.n me.n 
+latA: rAto.n me.n
+kishor: ek dIpak hotA hai 
+latA: hotA hai 
+kishor: ek bAtI hotI hai
+kabhI dono jalate hai.n, kabhI dono bujhate hai.n 
+latA: prem kahAnI me.n 
+ek la.DakA hotA hai 
+kishor: ek la.DakI hotI hai 
+dono: kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+latA: jhUmake parabat pe rimajhim jab AtA hai sAvan \- 2
+sAvan me.n premI pAgal ho jaate hai.n saajan 
+in barasAto.n me.n 
+kishor: ##hmmm##
+latA: ek bAdal hotA hai 
+kishor: ##hmmm##
+latA: ek bijalI hotI hai 
+kabhI dono tarasate hai.n, kabhI dono barasate hai.n 
+kishor: prem kahAnI me.n 
+ek la.DakA hotA hai 
+latA: ek la.DakI hotI hai 
+dono: kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+kishor: sAth milan ke naam judAI kA likhA hai aisA 
+latA: ye jIvan bhI khel tamAshA hai ek nATak jaisA 
+jaise nATak me.n 
+kishor: ho rAjA hotA hai 
+latA: ##hmmm ## rAnI hotI hai 
+dono: kabhI dono milate hai.n, kabhI dono bichha.Date hai.n 
+
+latA: prem kahAnI me.n 
+ek la.DakA hotA hai 
+kishor: ek la.DakI hotI hai 
+dono: kabhI dono ha.Nsate hai.n, kabhI dono rote hai.n 
+
+%
+#endindian
+\endsong
+%

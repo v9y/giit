@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{chhuune na duu.Ngii haath re najariyo.n se dil bhar duu.Ngii}%
+\film{Zindagi}%
+\year{1964}%
+\starring{Rajendra Kumar, Vyjayantimala, Raj Kumar}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10977 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	ghuu.ngharavaa moraa chham\-chham baaje \-2
+ra \:	chham\-chham kii dhun par jiyaa moraa naache \-2
+aa \:	ghuu.ngharavaa moraa \threedots
+
+	aa.Nkho.n ne aa.Nkho.n se mastii churaa_ii \-2
+	bahake qadam aur nazar la.Dakha.Daa_ii
+	man ke si.mhaasan pe tuu hii biraaje ho tuu hii biraaje
+	ghuu.ngharavaa moraa \threedots
+
+ra \:	chaahat binaa zindagii thii adhuurii \-2
+	tuu nahii.n samajhe gvaalan kii chhorii \-2
+	raadhaa ko saaje to mohan hii saaje o mohan hii saaje
+aa \:	ghuu.ngharavaa moraa \threedots
+%
+#endindian
+\endsong
+

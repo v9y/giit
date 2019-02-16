@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ham ne dekhii hai in aa.Nkho.n kii mahakatii khushabuu}%
+\film{Khamoshi}%
+\starring{Waheeda Rehman, Rajesh Khanna, Dharmendra}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor: Satish Subramanium (subraman@cs.umn.edu)
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Sandip Joshi (sjoshi@eng.clemson.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham ne dekhii hai in aa.Nkho.n kii mahakatii khushabuu
+haath se chhuuke ise rishto.n kaa ilzaam na do
+sirf ehasaas hai ye ruuh se mahasuus karo
+pyaar ko pyaar hii rahane do koii naam na do
+ham ne dekhii hai \threedots
+
+pyaar koii bol nahii.n, pyaar aavaaz nahii.n
+ek khaamoshii hai sunatii hai kahaa karatii hai
+naa ye bujhatii hai naa rukatii hai naa Thaharii hai kahii.n
+nuur kii buu.Nd hai sadiyo.n se bahaa karatii hai
+sirf ehasaas hai ye, ruuh se mahasuus karo
+pyaar ko pyaar hii rahane do, koii naam naa do
+ham ne dekhii hai \threedots
+
+muskaraahaT sii khilii rahatii hai aa.Nkho.n me.n kahii.n
+aur palako.n pe ujaale se chhupe rahate hai.n
+ho.nTh kuchh kahate nahii.n, kaa.Npate ho.nTho.n pe magar
+kitane khaamosh se afasaane ruke rahate hai.n
+sirf ehasaas hai ye, ruuh se mahasuus karo
+pyaar ko pyaar hii rahane do, koii naam naa do
+ham ne dekhii hai \threedots
+%
+#endindian
+\endsong
+%

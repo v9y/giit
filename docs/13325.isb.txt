@@ -1,0 +1,89 @@
+
+%
+\startsong
+\stitle{dekho dekho jii kuchh bhii kar lo jiit hamaarii hai}%
+\film{Naujawaan}%
+\year{1951}%
+\starring{Nalini Jayawant, Premnath}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11906 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ki \:	( dekho
+	are dekho jii
+	kuchh bhii kar lo
+	jiit hamaarii hai ) \-2
+	dekho
+	o dekho jii 
+
+	( o zulmii nainaa waalo.n
+	tum daaman laakh bachaa lo ) \-2
+	hamase bachanaa hai mushqil
+	ye naino.n ko samajhaa lo
+	jahaa.N chaloge sa.ng chale.nge
+	ban kar tumharii chhayaa
+	aa
+	ban kar tumharii chhayaa re
+	hoy dekho
+	are dekho jii
+	kuchh bhii kar lo
+	jiit hamaarii hai
+	dekho
+	o dekho jii
+
+	( tum aisii qismat laaye
+	ke ham jaiso.n ko paayaa ) \-2
+	aur ham wo qismat waale
+	ke tumane Kud bulawaayaa
+	are kyaa daataa kii den hai
+	raah me.n hiiraa paayaa
+	raah me.n hiiraa paayaa re
+	hoy dekho 
+	are dekho jii kuchh bhii kar lo
+	jiit hamaarii hai
+
+	kahaa.N lay ke jaiho
+
+la \:	o
+	kahaa.N lay ke jaiho raam \-2
+	o zulmii nainaa
+
+	ho 
+	ye zulmii nainaa tere o naino.n ke matawaale
+	( dhiire\-dhiire ye man
+	hu_aa teraa sajan
+	din aaye milan waale ) \-2
+	jiit kahaa.N kii haar kahaa.N kii
+	dil khoyaa dil paayaa
+	aa
+	dil khoyaa dil paayaa re
+
+ki \:	hoy
+do \:	dekho 
+	are dekho jii kuchh bhii kar lo
+	jiit hamaarii hai ) \-2
+
+ki \:	dekho 
+
+la \:	aa haa
+	dekho jii dekho jii dekho
+	dekho dekho dekho jii
+
+ki \:	hoy dekho 
+	are dekho jii kuchh bhii kar lo
+	jiit hamaarii hai ) \-2
+	dekho
+	are dekho jii kuchh bhii kar lo
+	jiit hamaarii hai
+	dekho
+%
+#endindian
+\endsong
+

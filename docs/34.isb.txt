@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aa.Nsuu bharii hai.n ye jiivan kii raahe.n}%
+\film{Parvarish}%
+\starring{aj Kapoor, Mala Sinha, Mahmood}%
+\singer{Mukesh}%
+\music{Dattaram}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K.G. (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa.Nsuu bharii hai.n ye jiivan kii raahe.n
+koii unase kah de hame.n bhuul jaae.n
+aa.Nsuu \threedots
+
+vaade bhulaa de.n qasam to.D de.n vo \- (2)
+haalat pe apanii hame.n chho.D de.n vo
+unhe.n ghar mubaarak hame.n apanii aa.Nhe.n
+koii unase kah de \threedots
+
+barabaadiyo.n kii ajab daastaa.N huu.N \- (2)
+shabanam bhii roe mai.n vo paasabaa.N huu.N
+aise jahaa.N se kyuu.N ham dil lagaae.n
+koii unase kah de \threedots
+aa.Nsuu \threedots
+%
+#endindian
+\endsong
+%

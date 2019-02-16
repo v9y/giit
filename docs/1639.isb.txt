@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{sochaa thaa kyaa kyaa ho gayaa}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Suraiyya}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+sochaa thaa kyaa kyaa ho gayaa 
+apanaa jise samajhe the ham 
+afasos vo apanaa nA thaa 
+sochaa thaa kyaa \threedots
+
+gairo.n ki iname.n kyaa khataa 
+karate hai.n apano.n se gilaa 
+kyaa ho gayaa, kyaa ho gayaa 
+sochaa thaa kyaa \threedots
+
+ai dil nA ro, hairaan nA ho 
+honaa thaa jo vo ho gayaa 
+rone se ab kyaa faayadaa 
+kyaa ho gayaa, kyaa ho gayaa 
+sochaa thaa kyaa \threedots
+
+jo kuchh bhI dekhaa khvaab thaa 
+is khvaab ko ab bhuul jaa 
+bhuul jaa 
+kyaa ho gayaa, kyaa ho gayaa 
+sochaa thaa kyaa \threedots
+%
+#endindian
+\endsong
+%

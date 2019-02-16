@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tere gaalo.n kii chaa.Ndanii dekhe}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere gaalo.n kii chaa.Ndanii dekhe to hove har dil be_iimaan
+lage haatho.n me.n meha.ndii piyaa kii to ra.ng teraa luuT le jahaan
+o tere gaalo.n kii chaa.Ndanii \threedots
+
+oy shaavaa
+kalii sii javaanii terii khil jaa_egii ban ke phuul
+o mahak uThegii re tuu sai.nyaajii kii baaho.n me.n jhuul
+sun nii ku.Diye aahaa resham dii gu.Diye oho
+kayaamat kar degii nii terii gazab kii uThaan
+tere gaalo.n kii chaa.Ndanii \threedots
+
+taaraa jaisii bi.ndiyaa terii ghu.nghaTe me.n sajatii rahe
+haa.N chaa.Nd sii kalaa_ii sadaa chuu.Diyo.n se bajatii rahe
+nii muTiyaare tuu aisaa jaaduu Daare
+ki tere sai.nyaa chhi.Dakate phire.n tujhape jaan
+tere gaalo.n kii chaa.Ndanii \threedots
+
+mujhe to pataa hii na thaa meraa bhii hai sapanaa ko_ii
+apano.n ne chaahaa sadaa meraa bhii ho apanaa ko_ii
+tujhe dekhaa jab se aahaa tujhe jaanaa jab se oho
+mujhe dil pe rahaa na ikhtiyaar merii jaan
+tere gaalo.n kii chaa.Ndanii \threedots
+%
+#endindian
+\endsong
+

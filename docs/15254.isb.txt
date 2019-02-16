@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ab aur kyaa kisii se maraasim ba.Dhaaye.n ham}%
+\film{Mehrab (Non-Film)}%
+\year{1994}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain/ Ghulam Ali}%
+\lyrics{Ahmed Faraz}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+ab aur kyaa kisii se maraasim ba.Dhaaye.n ham
+ye bhii bahut hai tujhako agar bhuul jaaye.n ham
+
+is zi.ndagii me.n itanii faraaGat kise nasiib
+itanaa na yaad aa ke tujhe bhuul jaaye.n ham
+
+tuu itanii dilazadaa to na thii ai shab\-e\-firaaq
+aa tere raaste me.n sitaare luTaaye.n ham
+
+wo log ab kahaa.N hai.n jo kahate the kal 'faraaz'
+ai ai Kudaa na karanaa tujhe bhii rulaaye.n ham
+
+#endindian
+\endsong

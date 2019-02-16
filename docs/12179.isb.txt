@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{milate milate hasii.n vaadiyo.n me.n dil kho gayaa to kyaa karoge}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+milate milate hasii.n vaadiyo.n me.n dil kho gayaa to kyaa karoge
+o merii jaan o jaan\-e\-tamannaa kuchh ho gayaa to kyaa karoge
+
+milate milate hasii.n vaadiyo.n me.n mai.n kho gayaa to kyaa karoge
+o merii jaan \threedots
+
+hai isakaa diivanaa to saaraa jahaa.n nasiibo.n se milatii hai muhabbat yahaa.n
+dilo.n ke fasaane banaate rahe.nge naGme.n vafaa ke to gaate rahe.nge
+milate milate hasii.n vaadiyo.n \threedots
+
+yuu.n naa adaa_o.n kii bijalii giraa_o lab chuum luu.n zaraa paas aa_o
+samajhe naa tuu merii majabuuriyaa.n rahane de tho.Dii sii ye duuriyaa.n
+milate milate hasii.n vaadiyo.n \threedots
+
+anajaane me.n ai jaan\-e\-tamannaa kuchh ho gayaa to kyaa karoge
+%
+#endindian
+\endsong
+

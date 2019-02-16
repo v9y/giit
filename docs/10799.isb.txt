@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mere dil me.n tum nazar me.n tum saa.Nso.n me.n tum hii samaa_e}%
+\film{Censor}%
+\year{2001}%
+\starring{Dev Anand, Mohini Sharma, Vinay Anand, Govinda, Mamta Kulkarni, Jackie Shroff}%
+\singer{Lata}%
+\music{Jatin Lalit}%
+\lyrics{Neeraj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dil me.n tum nazar me.n tum saa.Nso.n me.n tum hii samaa_e
+huu.n aa
+mere dil me.n tum \threedots
+ko_ii pyaas miiThii miiThii sii tumhe.n har gha.Dii bulaa_e
+mere dil me.n tum \threedots
+
+aa.Nkho.n me.n kajaraa lagaa_e baalo.n me.n gajaraa sajaa_e
+maathe kii bi.ndiyaa bhii puuchhe mujhe ke sajanaa teraa kab aa_e
+dekhuu.n mai.n jab jab aa_iinaa dikhate tumhaare hii saa_e
+mere dil me.n tum \threedots
+
+tham tham ke chalate hai.n pal aise nahii.n the ye kal
+tum kyaa mujhe bhii nahii.n ye pataa siine me.n hai kaisii halachal
+aahaTe.n kahii.n bhii ho.n lagataa hai tum hii aa_e
+mere dil me.n tum \threedots
+%
+#endindian
+\endsong
+

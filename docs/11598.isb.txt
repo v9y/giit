@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{naa maanuu.N re ... dagaabaaj torii batiyaa.N}%
+\film{Gunga Jumna}%
+\year{1961}%
+\starring{Dilip Kumar, Vyjayantimala, Nasir Khan, Azra, Kanhaiyalal, Helen}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10627 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+naa maanuu.N naa maanuu.N naa maanuu.N re
+dagaabaaj torii batiyaa.N naa maanuu.N re
+
+piyaa man me.n tore kaa hai mai.n naa jaanuu.N re
+dagaabaaj torii batiyaa.N \threedots
+
+saa.Njh kahe tose ( chundarii ma.nga_ibe ) \-2
+chundarii ma.nga_ibe tose chundarii ma.nga_ibe
+bhor bha_e to bisar ga_ii batiyaa.N \-2
+naa maanuu.N re
+dagaabaaj torii batiyaa.N \threedots
+
+hamarii garaj pe ( mukh se naa bole ) \-2
+mukh se naa bole sai.nyaa mukh se naa bole
+apanii garaj pe milaay le akhiyaa.N
+naa maanuu.N re
+dagaabaaj torii batiyaa.N \threedots
+%
+#endindian
+\endsong
+

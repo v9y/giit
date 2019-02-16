@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mai.n raahii bhaTakane vaalaa huu.N}%
+\film{Kaali Ghataa}%
+\year{1951}%
+\starring{Kishor Sahu, Bina Roy, Asha Mathur, Gop, Ulhas}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10813 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+hamase na puuchho ko_ii pyaar kyaa hai puuchho bahaar se
+ha.Ns\-ha.Ns ke dil dene me.n kyaa jiit kyaa haar hai puuchho bahaar se
+
+a.Nga.Daa_ii lii hai mere dil me.n kisii ne
+mujhako diivaanaa kiyaa ek dillagii ne
+
+kaisaa samaa.N hai aaj mausam javaa.N hai
+aisii Kushii me.n hame.n hosh kahaa.N hai
+hamase na puuchho \threedots
+
+jhuum rahii haay merii mast javaanii
+kah dii adaa_o.n ne dil kii kahaanii
+hamase na puuchho \threedots
+%
+#endindian
+\endsong
+

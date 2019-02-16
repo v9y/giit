@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{zindagii me.n aayaa tuufaan}%
+\film{Aya Toofan}%
+\year{1964}%
+\starring{Dara Singh, Helen, Anwar}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Farooq Kaisar}%
+%
+% Contributor: BOL ANAMOL #10948 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+zindagii me.n aayaa tuufaan \-2
+hu_e aaj sab paraa_e
+din ye kaise aa_e
+zindagii me.n \threedots
+
+phailii Gamo.n kii siyaahii mai.n huu.N meraa hamaraahii
+maa.Ngii na thii tujhase duniyaa mai.ne mohabbaat chaahii
+pyaar banake aayaa tuufaan
+zindagii me.n \threedots
+
+yaad karegaa zamaanaa qismat kaa ye ta.Dapaanaa
+hiiro.n ko Thukaraane vaale chunate hai.n daanaa
+haay kaisaa aayaa tuufaan
+zindagii me.n \threedots
+%
+#endindian
+\endsong
+

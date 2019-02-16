@@ -1,0 +1,44 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{paravaano.n se priit siikh le.n}%
+\film{Bilwamangal}%
+\year{1954}%
+\starring{}%
+\singer{Suraiyya}%
+\music{Bulo C Rani}%
+\lyrics{D N Madhok}%
+% 
+% Audio on: 
+% Tags: Raag Jaunpuri
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 8 Jul 2006
+% Series: Geetanjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+paravaano.n se priit siikh le.n
+shama'a se siikhe.n jal jaanaa
+phir duniyaa ko yaad rahegaa
+teraa meraa afasaanaa
+
+shabanam se ham siikhe.nge
+fariyaad na karanaa ro lenaa
+phuulo.n se siikhe.nge ham
+kaa.NTo.n kii nok par miT jaanaa
+
+phir duniyaa ko yaad rahegaa \threedots
+
+bulabul banakar janam janam
+mai.n terii khoj me.n gaa_uu.Ngii
+yahii aas lekar hai jiinaa
+isii aas me.n mar jaanaa
+
+phir duniyaa ko yaad rahegaa \threedots
+%
+#endindian
+\endsong

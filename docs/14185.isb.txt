@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jap jap jap jap jap re}%
+\film{Shaardaa}%
+\year{1957}%
+\starring{Raj Kapoor, Meena Kumari}%
+\singer{Mukesh}%
+\music{C Ramchandra}%
+\lyrics{Rajednra Krishan}%
+%
+% Contributor: BOL ANAMOL #10098 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jap jap jap jap jap re \-2
+jap jap jap jap mere manavaa
+jap re priit kii maalaa hoy jap re priit kii maalaa
+jap jap jap jap re \threedots
+
+priit hai devii \-2 priit shivaalaa jap re priit kii maalaa
+jap jap jap jap re \threedots
+
+priit se ba.Dhakar miit na ko_ii priit se aage riit na ko_ii
+chho.D jagat ko jogii ban jaa o.Dh ke priit dushaalaa
+ho jap re \threedots
+
+prem nagar kaa vaasii ho jaa Duub ke is saagar me.n kho jaa
+agar lagan hai terii saa.Nchii darshan degii baalaa
+ho darshan degii baalaa
+jap re \threedots
+
+a.ng bhabhuut ramaa le jogii jogan kyo.n naa terii hogii
+priit ke ras se bharegii ik din teraa khaalii pyaalaa
+jap re \threedots
+%
+#endindian
+\endsong
+

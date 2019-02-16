@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{raajaajii meraa naam}%
+\film{Raajaaji}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Vinod Rathod, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raajaajii raajaajii raajaajii raajaajii
+raajaajii raajaajii haay raajaajii meraa naam
+aish karanaa aish karanaa aish karanaa meraa kaam
+jahaa.n jidhar se jaataa huu.n mai.n sab karate hai.n salaam
+raajaajii raajaajii \threedots
+
+pa.Dh likh ke kyaa karanaa yaaro.n
+mujhako tum samajhaa_o haa.n
+are khaa_o piyo mauj manaa_o
+baap kaa maal u.Daa_o re
+abhii nahii.n jo loge mazaa phir kab karoge aaraam
+raajaajii raajaajii \threedots
+
+golii maaro is duniyaa ko
+duniyaa se kyaa Daranaa haa haa
+ko_ii kuchh bole to bole
+dil jo chaahe karanaa
+are fikr nahii.n hai mujhe kisii kii saare hai.n mere gulaam
+raajaajii raajaajii \threedots
+
+cha.nchal gorii chaa.Nd chakorii
+kyuu.n mujhase sharamaa_e
+ban jaa is raajaa kii raanii
+kaahe ko ghabaraa_e haa.n
+ho pyaar mujhe tuu karatii hai to aa merii baahe.n thaam
+raajaajii raajaajii \threedots
+%
+#endindian
+\endsong
+

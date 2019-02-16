@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mere a.nganaa aaye re ghanashyaam, aaye re}%
+\film{Naram Garam}%
+\year{1981}%
+\starring{Swarup Sampat, Amol Palekar, Utpal Dutt}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mere a.nganaa aaye re ghanashyaam, aaye re
+mai.n ne saare hosh ga.Nvaaye
+mere a.nganaa aaye re, ghanashyaam \threedots
+
+laaj ke maare simaTii jaa_uu.N
+aa.Nchal hii se lipaTii jaa_uu.N
+meraa aa.Nchal u.D u.D jaaye
+mere a.nganaa aaye re ghanashyaam, aaye re \threedots
+
+sudh budh khoii man ghabaraaye
+ik ra.ng aaye ik ra.ng jaaye
+man bairii bol sunaaye
+mere a.nganaa aaye re ghanashyaam, aaye re \threedots
+
+%
+#endindian
+\endsong
+%

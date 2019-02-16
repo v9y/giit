@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{insaaf kii Dagar pe, bachcho.n dikhaao chal ke}%
+\film{Ganga Jamuna}%
+\starring{Dilip Kumar, Vyjayantimala}%
+\singer{Hemant}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+insaaf kii Dagar pe, bachcho.n dikhaao chal ke
+ye desh hai tumhaaraa, netaa tumhii.n ho kal ke
+
+duniyaa ke ra.nj sahanaa aur kuchh na mu.Nh se kahanaa
+sachchaaiyo.n ke bal pe aage ko ba.Dhate rahanaa
+rakh doge ek din tum sa.nsaar ko badal ke
+insaaf kii \threedots
+
+apane ho.n yaa paraae sabake liye ho nyaay
+dekho kadam tumhaaraa haragiz na Dagamagaae
+raste ba.De kaThin hai.n chalanaa sambhal\-sambhal ke
+insaaf kii \threedots
+
+insaaniyat ke sar par izzat kaa taaj rakhanaa
+tan man bhii bhe.nT dekar bhaarat kii laaj rakhanaa
+jiivan nayaa milegaa a.ntim chitaa me.n jal ke,
+insaaf kii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,69 @@
+% 
+\startsong
+\stitle{tujhe dekhaa to ye jaanaa sanam}%
+\film{Dilwale Dulhaniya Le Jayenge}%
+\year{}%
+\starring{Shahrukh Khan, Kajol}%
+\singer{Kumar Sanu, Lata}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Kuntal M. Daftary (daftary@ecn.purdue.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Mon Jan 29 1996
+% Credits: Neeraj Deshmukh (deshmukh@isip01.isip.msstate.edu)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ku: tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam
+    tujhe dekhaa to ye jaanaa sanam
+koras: aa\threedots
+
+ku: (tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam) \-2
+    ab yahaa.N se kahaa.N jaae.n ham
+    terii baaho.n me.n mar jaae.n ham
+la: tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam
+    ab yahaa.N se kahaa.N jaae.n ham
+    terii baaho.n me.n mar jaae.n ham
+ku: tujhe dekhaa to ye jaanaa sanam
+koras: aa\threedots
+
+la: aa.Nkhe.n merii, sapane tere
+    dil meraa, yaade.n terii
+ku: meraa hai kyaa, sab kuchh teraa
+    jaan terii, saa.Nse.n terii
+la: merii aa.Nkho.n me.n aa.Nsuu tere aa gae
+    muskuraane lage saare Gam
+ku: tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam
+la: ab yahaa.N se kahaa.N jaae.n ham
+    terii baaho.n me.n mar jaae.n ham
+ku: tujhe dekhaa to ye jaanaa sanam   
+
+la: ye dil kahii.n, lagataa nahii.n
+    kyaa kahuu.N, mai.n kyaa karuu.N
+ku: haa.N, tuu saamane, baiThii rahe
+    mai.n tujhe dekhaa karuu.N
+la: tuu ne aavaaz dii dekh mai.n aa ga_ii
+    pyaar se hai ba.Dii kyaa kasam
+
+ku: tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam
+la: tujhe dekhaa to ye jaanaa sanam
+    pyaar hotaa hai diivaanaa sanam
+ku: ab yahaa.N se kahaa.N jaae.n ham
+    terii baaho.n me.n mar jaae.n ham
+koras: aa\threedots
+
+ku: tujhe dekhaa to ye jaanaa sanam   
+koras: aa\threedots
+%
+#endindian
+\endsong
+%

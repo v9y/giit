@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{naino.n me.n badaraa chhaae, bijalii sii chamake haae}%
+\film{Mera Saya}%
+\year{1966}%
+\starring{Sunil Dutt, Sadhana}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan <gopala@cs.wisc.edu>
+% Credits: C. S. Sudarshana Bhat <cesaa129@utacnvx.uta.edu>
+%	   Manjeet Rekhi <manjeet@iglou.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+naino.n me.n badaraa chhaae, bijalii sii chamake haae
+aise me.n balam mohe, garavaa lagaa le
+naino.n me.n\threedots
+
+madiraa me.n Duubii a.Nkhiyaa.N
+cha.nchal hai.n dono.n sakhiyaa.N
+Dhalatii rahe.ngii tohe
+palako.n kii pyaarii pakhiyaa.N
+sharamaa ke de.ngii tohe
+madiraa ke pyaale
+naino.n me.n\threedots
+
+prem diivaanii huu.N me.n
+sapano.n kii raanii huu.N mai.n
+pichhale janam se terii
+prem kahaanii huu.N mai.n
+aa is janam me.n bhii tuu
+apanaa banaa le
+naino.n me.n\threedots
+%
+#endindian
+\endsong
+%

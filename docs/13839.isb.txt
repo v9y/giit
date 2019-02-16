@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{Dhalatii jaa_e raat kah le dil kii baat}%
+\film{Razia Sultana}%
+\year{1961}%
+\starring{Nirupa Roy, Jayraj, Kamraan, M Kumar,  N A Ansari, Agha,  Leela Misra}%
+\singer{Rafi, Asha}%
+\music{Lachchhi Ram}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10283 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	Dhalatii jaa_e raat kah le dil kii baat
+	shamaa\-paravaane kaa na hogaa phir saath
+	Dhalatii jaa_e raat \threedots
+
+aa \:	mast nazaare chaa.Nd sitaare raat ke mehamaa.N hai.n ye saare
+	uTh jaa_egii shab kii mahafil nuur\-e\-sahar ke sunake nakkaare
+ra \:	ho na ho dubaaraa mulaaqaat
+	Dhalatii jaa_e raat \threedots
+
+	nii.nd ke bas me.n kho_ii\-kho_ii kul duniyaa hai so_ii\-so_ii
+	aise me.n bhii jaag rahaa hai ham\-tum jaisaa ko_ii\-ko_ii
+aa \:	kyaa hasii.n hai taaro.n kii baaraat
+ra \:	Dhalatii jaa_e raat \threedots
+
+aa \:	jo bhii niGaahe.n chaar hai karataa usape zamaanaa vaar hai karataa
+ra \:	huu.N raah\-e\-vafaa kaa ban ke raahii phir bhii tumhe.n dil pyaar hai karataa
+aa \:	baiThaa naa ho le ke ko_ii ghaat
+ra \:	huu.N Dhalatii jaa_e raat \threedots
+%
+#endindian
+\endsong
+

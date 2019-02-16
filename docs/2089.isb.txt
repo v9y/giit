@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{is dil me.n bas kar dekho to ye shahar ba.Daa puraanaa hai}%
+\film{Maya Memsahab}%
+\year{1994}%
+\starring{Deepa Sahi, Farouq Sheikh, Shahrukh Khan, Raj Babbar}%
+\singer{Lata}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+is dil me.n bas kar dekho to
+ye shahar ba.Daa puraanaa hai
+har saa.Ns me.n kahaanii hai
+har saa.Ns me.n afasaanaa hai
+ye shahar ba.Daa puraanaa hai   \threedots
+
+ye bastii dil kii bastii hai
+kuchh da.dr hai, kuchh rusavaa_ii hai
+ye kitanii baar ujaa.Dii hai
+ye kitanii baar basaayii hai
+ye shahar ba.Daa puraanaa hai   \threedots
+
+ye jism hai kachchii miTTii kaa
+bhar jaaye to risane lagataa hai
+baaho.n me.n koii thaame.n to
+aaGosh me.n ghirane lagataa hai
+ye shahar ba.Daa puraanaa hai   \threedots
+
+%
+#endindian
+\endsong
+%

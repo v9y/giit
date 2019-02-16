@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{siine me.n dil hai dil me.n sanam aur sanam me.n jaan merii}%
+\film{Agnipath}%
+\year{1990}%
+\starring{Amitabh, Madhavi, Mithun, Neelam, Rohini Hattangadi, Danny, Aloknath}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+siine me.n dil hai dil me.n sanam aur sanam me.n jaan merii
+ishq hai dha.Dakan ishq hai saajan ishq hai pahachaan merii
+palo.n kii judaa_ii ham naa sahe.nge saath jiye.nge saath mare.nge
+ik duuje ke binaa ham naa rahe.nge har ek janm me.n vaadaa kare.nge
+tujh bin kuchh bhii naa chaahuu.n mai.n
+siine me.n dil hai \threedots
+
+aa.Nkh khule to dekhuu.n mai.n tujhako band ho.n aa.Nkhe.n terii chhavi ho
+har ik ra.ng me.n chhaayaa ho terii us chhaayaa me.n merii zi.ndagii ho
+saath me.n tuu to ho jaayegii har mushkil aasaa.n merii
+jisame.n terii khushbuu hogii bas usako phuul kahuu.ngaa
+jisame.n tuu naa shaamil hogaa us jiivan ko bhuul kahuu.ngii
+tere sur me.n bas jaa_egii TuuTegii jab taan merii
+siine me.n dil hai \threedots
+%
+#endindian
+\endsong
+

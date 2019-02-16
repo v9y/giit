@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil dil diivaanaa ... bolo naa ab kyaa kare.n}%
+\film{Har Dil Jo Pyaar Karegaa/ Love Can Happen Anytime}%
+\year{2000}%
+\starring{Salman Khan, Raani Mukherjii, Prity Zinta}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil dil dil dil diivaanaa diivaanaa
+pyaar pyaar pyaar pyaar me.n paagal paagal
+dil dil dil dil dil dil dil dil diivaanaa ho gayaa
+ho gayaa ho gayaa ho gayaa re
+pyaar pyaar pyaar pyaar pyaar pyaar pyaar me.n paagal kho gayaa
+kho gayaa kho gayaa kho gayaa re
+bolo naa ab kyaa kare
+yaa to jiye yaa to mare
+bolo naa ab kyaa \threedots
+
+ha.Nsatii thii aa.Nkhe.n magar rahatii thii uname.n namii
+sab kuchh mere paas thaa bas thii tumhaarii kamii
+aur kyaa chaahiye zi.ndagii ke li_e jaan\-e\-jaa.n tere sivaa
+bolo naa ab kyaa \threedots
+
+itanii mohabbat karo mai.n hosh me.n naa rahuu.n
+mar jaa_uu.n tere binaa par naa judaa_ii sahuu.n
+pyaar hii pyaar hai dekhataa huu.n jahaa.n kyaa ra.ng laa_ii du_aa
+bolo naa ab kyaa \threedots
+%
+#endindian
+\endsong
+

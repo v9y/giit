@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ruuTh ke tum to chal di_e}%
+\film{Jalati Nishani}%
+\year{1957}%
+\starring{Geeta Bali, Kamal Kapoor}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Balaji A S Murthy
+% Transliterator: Balaji A S Murthy
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+ruuTh ke tum to chal di_e, ab mai.n du_aa to kyaa karuu.N
+jisane hame.n judaa kiyaa, aise Kudaa ko kyaa karuu.N
+
+jiine kii aarazuu nahii.n, haal na puuchh chaaraagar
+dard hii ban gayaa davaa, ab mai.n davaa to kyaa karuu.N
+
+sunake merii sadaa\-e\-Gam, (ro diyaa aasamaan bhii) -2
+tum tak na jo pahu.Nch sake, aisii sadaa ko kyaa karuu.N
+
+%
+#endindian
+\endsong
+%

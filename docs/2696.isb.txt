@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{re man sur me.n gaa}%
+\film{Laal Pathhar}%
+\year{1971}%
+\starring{Raj Kumar, Hema Malini, Rakhee, Vinod Mehra}%
+\singer{Asha, Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+re man sur me.n gaa
+koii taar besur na bole, na bole
+re man sur me.n gaa \threedots
+
+jiivan hai sukh duHkh kaa sa.ngam
+madhyam ke sa.ng jaise pa.ncham
+dono.n ko ek banaa
+re man sur me.n gaa \threedots
+
+dil jo dha.Dake taal baje re
+taal taal me.n samay chale re
+samay ke sa.ng ho jaa
+re man sur me.n gaa \threedots
+
+jag hai giito.n kii rajadhaanii
+sur hai raajaa lay hai rannii
+saaz ruup ban jaa
+re man sur me.n gaa \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ye dilanashii.n nazaare karate hai.n kyaa ishaare}%
+\film{Pyaase Dil}%
+\year{1974}%
+\starring{Yash Tondon, Aziz Mirza, Alka, Benjamin Gilani}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10270 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ye dilanashii.n nazaare karate hai.n kyaa ishaare
+ye kaun paravato.n se chhupakar mujhe pukaare
+
+ban\-ban me.n guu.Njatii hai.n kisakii hasii.n sadaa_e.n
+dil kii javaa.N uma.nge.n rah\-rah ke chau.nk jaa_e.n
+aahistaa se aan baiThe ko_ii mere sahaare
+ye kaun paravato.n se \threedots
+
+phuulo.n kii oT lekar ye kaun muskaraa_e
+pal\-pal guzar rahe hai.n kisake badan ke saa_e
+Gairo.n ke kuchh nishaa.N hai.n sachamuch nadii kinaare
+ye kaun paravato.n se \threedots
+
+sab kuchh lage fasaanaa sab kuchh lage kahaanii
+chehare ko usake chhuukar har subah ho suhaanii
+usakii ha.Nsii churaa_e.n raato.n ke chaa.Nd\-taare
+ye kaun paravato.n se \threedots
+%
+#endindian
+\endsong
+

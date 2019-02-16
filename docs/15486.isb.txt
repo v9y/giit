@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{nawaazish karam shukriyaa meharabaanii}%
+\film{The Finest Ghazals of Mehdi Hassan (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{A Hameed}%
+\lyrics{Himayat Ali Shayar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+nawaazish karam shukriyaa meharabaanii
+mujhe baKsh dii aapane zi.ndagaanii
+
+jawaanii kii jalatii hu_ii dopahar me.n
+ye zulfo.n ke saaye ghanere ghanere
+ajab dhuup chhaa.Nv kaa aalam hai taarii
+mahakataa ujaalaa chamakate a.ndhere
+zamii.n kii fazaa ho ga_ii aasamaanii
+
+labo.n kii ye kaliyaa.N khilii adh\-khilii sii
+ye maKanuur aa.Nkhe.n gulaabii gulaabii
+badan kaa ye kundan sunaharaa sunaharaa
+ye kad hai ki chhuuTii hu_ii maahataabii
+hameshaa salaamat rahe ye jawaanii
+
+#endindian
+\endsong

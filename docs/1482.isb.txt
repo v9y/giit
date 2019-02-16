@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pyaar maa.Ngaa hai tumhii.n se, na i.nkaar karo}%
+\film{College Girl}%
+\year{1978}%
+\starring{Sachin, Bindiya Goswami, Rita Bhaduri}%
+\singer{Kishore}%
+\music{Bappi Lahiri}%
+\lyrics{Shiv Kumar Saroj}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+pyaar maa.Ngaa hai tumhii.n se, na inakaar karo
+paas baiTho zaraa aaj to, iqaraar karo
+
+kitanii hasii.n hai raat, dulhan banii hai raat (2)
+machale hue jazabaat, baat zaraa hone do
+mujhe pyaar karo (2)
+pyaar maa.Ngaa hai tumhii.nse, na inakaar karo
+
+pahale bhii tumhe.n dekhaa, pahale bhii tumhe.n chaahaa (2)
+itanaa hasii.n na paayaa, saath hasii.n hone do
+mujhe pyaar karo (2)
+pyaar maa.Ngaa hai tumhii.nse, na inakaar karo
+
+kitanaa madhur safar hai, tuu meraa hamasafar hai (2)
+biite hue vo din, zaraa yaad karo
+mujhe pyaar karo (2)
+pyaar maa.Ngaa hai tumhii.nse, na inakaar karo
+paas baiTho zaraa aaj to, iqaraar karo
+%
+#endindian
+\endsong
+%

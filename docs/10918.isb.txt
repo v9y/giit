@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{hamase na puuchho ham kahaa.N chale}%
+\film{China Town}%
+\year{1962}%
+\starring{Shammi Kapoor, Shakeela, Helen, Madan Puri}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10683 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+hamase na puuchho ham kahaa.N chale
+ye dil jahaa.N le chalaa vahaa.N chale
+nazaare piichhe\-piichhe bahaare.n piichhe\-piichhe
+diivaano.n kaa jidhar kaaravaa.N chale
+hamase na puuchho \threedots
+
+duniyaa hai shahar aramaano.n kaa
+bikhare\-bikhare afasaano.n kaa
+fasaane ye sunaate chale hai.n ham gaate
+ki jaise naGmo.n kaa kaaravaa.N chale
+hamase na puuchho \threedots
+
+sapano.n kaa chaman hai ra.ng li_e
+dharatii hai gagan ko sa.ng li_e
+Daalii pe kalii jhuule.n banake jaise phuul
+qadam tale jaise aasamaa.N chale
+hamase na puuchho \threedots
+
+naiyaa pe chale jab haule se
+paanii me.n bahak ga_e shole se
+nazar ko milaa_e jo ham laharaa_e
+to laharo.n ne puuchhaa kaho kahaa.N chale
+hamase na puuchho \threedots
+%
+#endindian
+\endsong
+

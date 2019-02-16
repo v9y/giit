@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tum se milake, aisaa lagaa tum se milake, aramaa.N hue puure dilake}%
+\film{Parinda}%
+\year{}%
+\starring{Anil, Madhuri, Jackie}%
+\singer{Asha, Suresh Wadkar}%
+\music{R D Burman}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: Yashesh Bhatia (Brown University) 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum se milake, aisaa lagaa tum se milake
+aramaa.N hue puure dilake
+ai merii jaane vafaa, terii merii merii terii 
+ek jaan hai
+saath tere rahe.nge sadaa, tum se naa ho.nge judaa
+tum se milake, aisaa lagaa tum se milake, 
+aramaa.N hue puure dilake
+
+mere sanam, terii kasam, chho.De.nge ab naa ye saath
+ye zindagii, guzaregii ab, hamadam tumhaare hii saath
+apanaa ye vaadaa rahaa, tum se naa ho.nge judaa
+tum se milake \threedots
+
+maine kiyaa, hai raat din, bas teraa hii intazaar
+tere binaa aataa nahii.n, ek pal mujhe ab qaraar
+hamadam meraa mil gayaa, ham tum naa ho.nge judaa \- 2
+
+tum se milake, aisaa lagaa tum se milake
+aramaa.N hue puure dilake
+ai merii jaane vafaa, terii merii merii terii, 
+ek jaan hai
+saath tere rahe.nge sadaa, tum se naa ho.nge judaa
+tum se milake, aisaa lagaa tum se milake
+aramaa.N hue puure dilake
+%
+#endindian
+\endsong
+%

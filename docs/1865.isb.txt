@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{vo tere pyaar kaa gam ek bahaanaa thaa sanam}%
+\film{My Love}%
+\year{}%
+\starring{Shashi Kapoor, Sharmila Tagore, Nirupa Roy, Jayant}%
+\singer{Mukesh}%
+\music{Daan Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+vo tere pyaar kaa Gam, ek bahaanaa thaa sanam
+apanii qismat hii kuchh aisii thii
+ke dil TUT gayaa
+
+ye naa hotaa to koI dUsaraa Gam honaa thaa
+mai.n to vo huu.N jise har haal me.n bas ronaa thaa
+muskurAtaa bhii agar, to chhalak jaatii nazar
+apanii qismat hii kuchha aisii thii
+ke dil TUT gayaa\threedots
+
+varanaa kyaa baat hai tuu koI sitamagar to nahii.n
+tere siine me.n bhii dil hai koI patthar to nahii.n
+tUne Dhaayaa hai sitam, to yahii samajhe.nge ham
+apanii qismat hii kuchha aisii thii
+ke dil TUT gayaa\threedots
+
+vo tere pyaar kaa Gam, ek bahAnaa thaa sanam
+apanii qismat hii kuchha aisii thii
+ke dil TUT gayaa\threedots
+%
+#endindian
+\endsong
+%
+

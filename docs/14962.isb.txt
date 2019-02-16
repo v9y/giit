@@ -1,0 +1,41 @@
+% ITRANS SONG
+
+\startsong
+\stitle{saiyaa.N se bichha.D ga_ii ho more raam}%
+\film{Chandni Raat}%
+\year{1949}%
+\starring{Naseer, Shyam, David, Ulhas Parveen, Cukoo}%
+\singer{Amirbai, Saadat}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+a \:	saiyaa.N se bichha.D ga_ii ho more raam \-3
+saa \:	merii duniyaa uja.D ga_ii ho more raam \-3
+
+a \:	jiiwan ke din kaise bitaa_uu.N haay kaise bitaa_uu.N
+	dil pe jo biite kah bhii na paa_uu.N haay kah bhii na paa_uu.N
+	mai.n to mushakil me.n pa.D ga_ii ho more raam
+saa \:	merii duniyaa uja.D ga_ii ho more raam \-2
+
+	na ham unake na wo hamaare haay na wo hamaare
+	raat ko ro\-ro dil ye pukaare
+	chaa.Ndanii rut kidhar ga_ii ho more raam
+a \:	saiyaa.N se bichha.D ga_ii ho more raam \-2
+
+	birahaa ke dukh mujhase uThe na haay mujhase uThe na
+	haay sajanawaa mere huye na haay mere huye na
+	dil de ke mai.n mar ga_ii ho more raam
+saa \:	merii duniyaa uja.D ga_ii ho more raam \-2
+
+	pyaar banaa thaa jisakaa khewaiyaa haay jisakaa khewaiyaa
+	Duub rahii hai aaj wo na_iyaa
+	merii qisamat biga.D ga_ii ho more raam
+a \:	saiyaa.N se bichha.D ga_ii ho more raam \-2
+
+#endindian
+\endsong

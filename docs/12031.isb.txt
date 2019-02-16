@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere khyaalo.n kii mallikaa}%
+\film{Josh}%
+\year{2000}%
+\starring{Shahrukh Khan, Aishwarya Rai, Chandrachud Singh, Sharad Kapoor, Priya Gil}%
+\singer{Abhijit}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere khyaalo.n kii mallikaa
+chaaro.n taraf terii chhai.nyaa re
+thaam le aake bai.nyaa 
+chaaro.n taraf terii chhai.nyaa re chhai.nyaa
+
+aa_ii phuulo.n ke ras me.n nahaake
+laa_ii bhiinii sii Kushbuu churaake
+terii aa.Nkho.n me.n hai halkaa saa nashaa
+teraa ruup merii nazaro.n me.n basaa
+mere khyaalo.n kii \threedots
+
+jaaduu chhaayaa hai teraa jaaduu
+qaabuu dil pe nahii.n hai qaabuu
+sapano.n kii parii itanaa to bataa
+rahatii hai kahaa.N teraa naam hai kyaa
+mere khyaalo.n kii \threedots
+%
+#endindian
+\endsong
+

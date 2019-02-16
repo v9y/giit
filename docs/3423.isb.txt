@@ -1,0 +1,37 @@
+% ITRANS SONG # 3423; Created on Jan 26, 2004
+%
+\startsong
+\stitle{merii viiNaa tum bin roye sajanaa sajanaa sajanaa}%
+\film{Dekh Kabiraa Royaa}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Nov 13, 2002
+% Comments: LATAnjali series.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+merii viinaa tum bin roye sajanaa sajanaa sajanaa
+merii viinaa tum bin roye
+
+saa.Nwariyaa tum jahaa.N base ho mai.n vo gaa.Nv na jaanuu.N
+biitegii kab birahaa kii ye paapan shaam na jaanuu.N
+haaye madhur milan kab hoye
+sajanaa sajanaa sajanaa, merii viinaa tum bin roye
+
+tujh bin mere giit adhuure ho.nTho.n pe sharamaa_e.n
+saaz uThaa_uu.N taar naa baaje.n ta.Dap ta.Dap rah jaa_e.n
+merii piir naa jaane koye
+sajanaa sajanaa sajanaa, merii viinaa tum bin roye
+
+haaye roye, haaye roye \threedots
+%
+#endindian
+\endsong

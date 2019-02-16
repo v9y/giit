@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tuune mujhe pahachaanaa nahii.n}%
+\film{Raaju Chaachaa}%
+\year{2000}%
+\starring{Ajay Devgan, Kajol, Rishi Kapoor}%
+\singer{Shaan, Ajay Devgan}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere labo.n pe inkaar hai mere labo.n pe ikaraar hai
+haa.N yahii to hai.n sab nishaaniyaa.n
+haa.N isii kaa naam to pyaar hai
+
+huu.n huu.n
+tuune mujhe pahachaanaa nahii.n
+jaanaa.n mai.n ko_ii anjaanaa nahii.n
+aashiq huu.N mai.n tere naam kaa
+diivaanaa huu.N mai.n diivaanaa nahii.n
+huu.n huu.n huu.n
+
+naam badal ke tuu kahatii hai.n tuu vo nahii.n ko_ii aur hai
+tuune dii thii ye a.nguuThii ye kahatii hai tuu hai jhuuThii 
+huu.n huu.n
+
+he he he he he he he he
+
+kaa.NTaa naa thaa jo nikal gayaa kaagaz na thaa jo kho gayaa
+likhaa hai ye dil pe mere tuu hai merii mai.n huu.N teraa
+tuune mujhe pahachaanaa \threedots
+%
+#endindian
+\endsong
+

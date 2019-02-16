@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{khudaa hamako aisii khudaaii naa de ## jagjit gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Bashir Badr}%
+%
+% Contributor: Anurag Garg (gast@omp24.mch.sni.de)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+khudaa hamako aisI khudaaI naa de
+ki apane sivaa kuchh dikhaaii naa de
+
+ha.Nso aaj itanaa ki is shor me.n
+salaah ke sivaa kuchh sunaaii naa de
+
+abhii to badan me.n lahuu hai bahut
+kalam chhiil le, roshanaaii naa de
+
+khudaa aise ehasaas kaa naam hai
+rahe saamane par dikhaaii naa de
+%
+#endindian
+\endsong
+%

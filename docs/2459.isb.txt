@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{so gayaa saaraa zamaanaa}%
+\film{Miss Mary}%
+\year{1957}%
+\starring{Meena Kumari, Gemini Ganesan, Kishore, Jamuna, Om Prakash}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nita
+% Transliterator: Nita
+% Date: 7 February 2000
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+so gayaa saaraa zamaanaa nii.nd kyo.n aatii nahii.n
+ai havaa jaakar use tuu saath kyo.n laatii nahii.n
+
+chaa.Nd pahale bhii nikalataa thaa magar aisaa na thaa
+aaj aisii baat kyo.n hai ye samajh aatii nahii.n
+
+chaa.Ndanii kuchh chaa.Nd se kah kar zamii.n pe aa ga_ii
+jaane kyaa dekhaa yahaa.N an lauT kar jaatii nahii.n
+
+%
+#endindian
+\endsong
+%

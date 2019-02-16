@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{mohe laage saara jag phiika phiika}%
+\film{Jhanjhar}%
+\year{1953}%
+\starring{Motilal, Kamini Kaushal}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator:  K Vijay Kumar
+% Date: June 18, 1998
+% Credits:
+% Editor: 
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+mohe laage saaraa jag phiikaa phiikaa
+laage jag phiikaa phiikaa
+maaraa tiir ye kaisaa tiikhaa tiikhaa
+balam tiikhaa tiikhaa laage, jag phiikaa phiikaa
+
+terii aa.Nkho.n ne kiye hai.n jo ishaare
+mere dil ke bane hai.n vo sahaare
+tere naino.n me.n balam ye kyaa dikhaa re
+tere naino.n me.n balam, tiikhaa tiikhaa laage
+jag phiikaa phiikaa
+
+mohe laage saaraa \threedots
+
+tuune nainaa jo mujhase milaa_e
+mere ho.nTho.n se nikalii haa_e haa_e
+hu_aa haal buraa mere jii kaa re
+hu_aa haal buraa mere jii kaa
+laage jag phiikaa phiikaa
+
+mohe laage saaraa \threedots
+
+%
+#endindian
+\endsong
+%

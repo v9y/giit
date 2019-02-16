@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{terii nigaaho.n ne hame.n maar Daalaa}%
+\film{Pyase Panchhi}%
+\year{1961}%
+\starring{Amita, Mehmood, Jeevan, David}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10894 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	terii nigaaho.n ne ( hame.n maar Daalaa ) \-2
+la \:	pahale hii dil ko ( kyuu.N na sambhaalaa ) \-2
+mu \:	terii nigaaho.n ne \threedots
+
+	kaahe uThaa_e gorii bhaarii gagariyaa
+	bal khaa na jaa_e torii patalii kamariyaa
+la \:	tere hii kaaraN uThaa_ii gagariyaa
+	pyaasaa na rah jaa_e moraa saa.Nvariyaa
+mu \:	aisii adaa_o.n ne ( hame.n maar Daalaa ) \-2
+la \:	pahale hii dil ko \threedots
+
+mu \:	o mere saathii saathii idhar to zaraa aanaa
+	kitanaa hai pyaar hame.n ye to bataanaa
+la \:	raaz\-e\-mohabbat hai kitanaa suhaanaa
+	jinako bataanaa unhii.n se chhupaanaa
+mu \:	miiThii sazaa_o.n ne ( hame.n maar Daalaa ) \-2
+la \:	pahale hii dil ko \threedots
+%
+#endindian
+\endsong
+

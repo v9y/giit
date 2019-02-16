@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aajaa merii baaho.n me.n banake sanam meraa pyaar}%
+\film{Pyaar Kiya Nahin Jaata}%
+\year{2002}%
+\starring{Sonali Bendre}%
+\singer{Sonu Nigam, Sarasvati Phukan}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aajaa merii baaho.n me.n banake sanam meraa pyaar
+dil se milaa hai dil usape mausam bhii hai yaar
+tuu hai mai.n huu.N do badan milane ko bekaraar
+aise me.n to tanhaa_ii lage bahaar
+aajaa merii baaho.n me.n \threedots
+
+siine se sar sar sarake dupaTTaa
+kuchh kah rahii hai har adaa
+tumhaarii adaa_o.n pe ham mar miTe hai.n
+tumako nahii.n kyaa pataa
+sach hai ham to tumase ga_e hai.n haar
+aise me.n to \threedots
+
+kyaa dekhate ho ho.nTho.n se
+chhuu lo ho.nTho.n kii ye narmiyaa.N
+naa duuriyaa.N hai.n naa faasale hai.n
+tere mere daramiyaa.N
+bole dha.Dakan jaise bajane lage dil ke taar
+aise me.n to \threedots
+%
+#endindian
+\endsong
+

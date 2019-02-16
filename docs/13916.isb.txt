@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{pyaar bhii milegaa ... Darane kii kyaa baat hai}%
+\film{Sirf Tum}%
+\year{1999}%
+\starring{Sanjay Kapur, Priya Gil, Jackie, Sushmita, Mohnish, Johny Lever}%
+\singer{Kumar Sanu, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar bhii milegaa diladaar bhii milegaa tujhe
+sab kuchh usake haath hai
+are re Darane kii kyaa baat hai
+uupar vaalaa apane saath hai
+uupar vaalaa \threedots
+
+saharaa me.n phuul khilate hai.n bichha.De dil milate hai.n
+anahonii ko vo honii kar de suukhii nadii me.n jal bhar de
+tere dil me.n jo hai maa.ng le tuu bhii ye to du_aa kii raat hai
+are Darane kii kyaa baat hai \threedots
+
+nagame.n na_e gaa_e.nge ham saare Gam bhulaa_e.nge
+usakii nazar to sabako dekhe jiinaa bhii kyaa maayuusii leke
+mere saathii aajaa jhuume.n naache.n khushiyo.n kii barasaat hai
+are Darane kii kyaa baat hai \threedots
+%
+#endindian
+\endsong
+

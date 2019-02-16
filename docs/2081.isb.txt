@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{hamane dekhaa pyaar me.n}%
+\film{Guest House}%
+\year{}%
+\starring{}%
+\singer{Geeta}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Nita
+%
+\printtitle
+#indian
+%
+hamane dekhaa pyaar me.n
+do naino.n kii maar me.n
+milane me.n vo mazaa kahaa.N hai
+jo hai i.ntazaar me.n
+
+rastaa takane vaalaa tuu kyo.n baiThaa majabuur hai
+bhuul jaanaa vaadaa, ye duniyaa ka dastuur hai
+halachal sii rahane de, dil\-e\-beqaraar me.n
+
+dil to ye kahataa hai, ki aane vaalaa aayegaa
+aa.Nkhe.n ye kahatii hai.n, ae dil tuu dhokhaa khaayegaa
+aisaa hii, hotaa hai, dono ke taqaraar me.n
+
+%
+#endindian
+\endsong
+%

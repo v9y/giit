@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{patthar ke sanam kuchh bol zaraa ... jab pyaar kiyaa ikaraar kiyaa}%
+\film{Watan Ke Rakhwaale}%
+\year{1987}%
+\starring{Ashok Kumar, Sunil Dutt, Dharmendra, Mithun, Sridevi, Mausami, Divya Rana}%
+\singer{Anuradha Paudwal, Mohammed Aziz, Munna Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+patthar ke sanam kuchh bol zaraa
+tasviir banaa kyaa soch rahaa
+jab pyaar kiyaa ( ikaraar kiyaa ) \-2
+dil ne phir kyo.n ( beqaraar kiyaa ) \-2
+
+ek akelaa dil zindagii mushkil
+log begaane yahaa.N ke a.njaane dil ko ma.nzil
+jab pyaar kiyaa \threedots
+
+ko_ii nahii.n detaa jo saath teraa le le piyaa haatho.n me.n haath meraa
+pal me.n badal duu.ngii duniyaa terii maano sajanaa merii baat zaraa
+o diladaar apane pyaar ke a.njaam se Darataa hai dil
+jab pyaar kiyaa \threedots
+
+yahii hai iraadaa apanaa bahake na uThake kadam apanaa
+ba.De aramaano.n se dekhaa hai pyaar kaa ye pahalaa sapanaa
+karake pyaar o diladaar yaar kyo.n anjaam se Darataa hai dil
+jab pyaar kiyaa \threedots
+%
+#endindian
+\endsong
+

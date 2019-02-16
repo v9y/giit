@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{tere pyaar kii tamannaa, Gam-e-zindagii ke saaye}%
+\film{Tawaaif}%
+\year{}%
+\starring{Deepak PArashar, Ashok Kumar}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor: Kuntal Shah
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tere pyaar kii tamannaa Gam\-e\-zi.ndagii ke saaye
+ba.Dii tez aa.Ndhiyaa.N hai.n ye chiraaG bujh na jaaye
+
+na fizaa.N hai apane bas me.n na nazar me.n hai kinaaraa
+kahii.n mere dil kii kashtii na bha.Nvar me.n Duub jaaye
+
+koii hal tuu hii bataa de mere dil kii kashamakash kaa
+tujhe bhuulanaa bhii chaahuu.N terii yaad hii sataaye
+
+hai ajiib dastaa.N kuchh ye hamaarii dastaa.N bhii
+kabhii tum samajh na paaye kabhii ham sunaa na paaye
+%
+#endindian
+\endsong
+%

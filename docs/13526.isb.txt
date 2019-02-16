@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mere man kaa mausam badalane lagaa hai}%
+\film{Pyaar Deewaanaa Hotaa Hai}%
+\year{1992}%
+\starring{Pankaj Berry, Saathi Ganguli, Beena, Sameer Khakhad, Zahir Rizvi}%
+\singer{Alka Yagnik, Mohammed Aziz}%
+\music{Babul Bose}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere man kaa mausam badalane lagaa hai
+tere naam se dil dha.Dakane lagaa hai
+teraa pyaar siine me.n palane lagaa hai
+mere man kaa mausam \threedots
+
+nazar se nazar ne kahii vo kahaanii
+jo ham tum kabhii kah naa paa_e jubaanii
+ham ek duuje me.n aise kho_e hu_e hai.n
+na jaage hu_e hai.n na so_e hu_e hai.n
+ye jaaduu na jaane kyaa chalane lagaa hai
+mere man kaa mausam \threedots
+
+jahaa.n tak nazar jaa_e bas tuu hii tuu hai
+tujhe paa ke ab kuchh nahii.n aarazuu hai
+chale hai.n kadam ma.nzilo.n se bhii aage
+kahaa.n khii.nch laa_e mohabbat ke dhaage
+ye kis ra.ng me.n ishq Dhalane lagaa hai
+mere man kaa mausam \threedots
+%
+#endindian
+\endsong
+

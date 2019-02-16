@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{bahaaro.n meraa jiivan bhii sa.Nvaaro.n, bahaaro.n}%
+\film{Aakhri Khat}%
+\starring{Rajesh Khanna, Indrani Mukherji}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  Arati Deo (arati@soma.rice.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+bahaaro.n meraa jiivan bhii sa.Nvaaro.n, bahaaro.n
+koI Ae kahI.n se, yU.N pukAro, bahAro.n \threedots
+
+tumhii.n se dil ne sIkhaa hai ta.Dapanaa \- 2
+tumhii.n ko doshh duu.ngii, ai nazaaro.n, bahaaro.n \threedots 
+
+sajaao koii kajaraa, laao gajaraa \- 2
+lachakatii Daaliyo.n tum, phuul vaaro, bahaaro.n \threedots 
+
+rachaao mere in hAtho.n me.n meha.ndii \- 2
+sajaao maa.Ng merii, yaa sidhaaro, bahaaro.n \threedots
+
+na jaane kis kaa saayaa dil se guzaraa \-2
+zaraa aavaaz denaa raazadaaro, bahaaro \threedots
+
+%
+#endindian
+\endsong
+%

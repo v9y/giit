@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{insaan kyo.n rotaa hai insaan}%
+\film{Omar Khaiyyam}%
+\year{1946}%
+\starring{K L Saigal, Suraiya, Vasti, Benjamin, Shakir, Leela, Madan Puri}%
+\singer{Saigal}%
+\music{Lal Mohomed}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: BOL ANAMOL #10003 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+insaan kyo.n rotaa hai insaan
+har Gam kii davaa pesh hai kar aish kaa saamaan
+
+sun baa.Ns kii is baa.Nsurii ke giit suhaane
+siine me.n hu_e chhed to gaatii hai taraane
+mastii kii yahii shaan
+insaan kyo.n rotaa hai \threedots
+
+ho lab pe ha.Nsii se pe jo aafat tere ma.nDalaa_e
+bhar jaam Kushii kaa jo musiibat kii ghaTaa chhaa_e
+dukh baham hai naadaan
+insaan kyo.n rotaa hai \threedots
+%
+#endindian
+\endsong
+

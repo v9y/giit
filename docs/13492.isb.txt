@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tere dar pe sanam chale aa_e}%
+\film{Phir Teri Kahaani Yaad Aayi}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Pooja Bedi, Avtar Gill, Neena Gupta, Javed Khan}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Qateel Shifai}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( tere dar pe sanam chale aa_e
+tuu na aayaa to ham chale aa_e  ) \-2
+
+( bin tere ko_ii aas bhii na rahii
+itane tarase ke pyaas bhii na rahii ho.a ) \-2
+itane tarase ke pyaas bhii na rahii
+la.Dakha.Daa_e qadam chale aa_e \-2
+chale aa_e \-2
+tere dar pe sanam \threedots
+
+( isase pahale ki ham pe ha.Nsatii raat
+banake naagin jo hamako Da.nsatii raat ) \-2
+banake naagin jo hamako Da.nsatii raat
+leke apanaa bharam chale aa_e \-2
+chale aa_e \-2
+tere dar pe sanam \threedots
+%
+#endindian
+\endsong
+

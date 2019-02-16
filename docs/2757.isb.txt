@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aaj suhaanii raat hai}%
+\film{Naya Andaaz}%
+\year{1956}%
+\starring{Kishore Kumar, Meena Kumari}%
+\singer{Rafi, Shamshad, Kishore, chorus}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+% 
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Feb 3, 2001
+% Credits : Shalini Razdan
+%
+\printtitle
+#indian
+%
+
+ko(pu):    aaj suhaanii raat hai aahaa aahaa
+ko(strii): hogii sajan se baat re aahaa aahaa
+
+sh: oye tuu aajaa re ke dil hai beqaraar
+    ki Dole re man me.n teraa pyaar tuu aajaa re
+
+ra: ham to musaafir a.njaane
+    dil kis ko pukaare haay teraa
+sh: mai.n tujhako bulaa_uu.N aajaa re
+    dil tere binaa ghabaraa_e meraa
+ko: ruk jaanaa zaraa ruk jaanaa re sajanaa
+
+ra: phirate hai.n bhaTakate raaho.n me.n
+    tuu da.rd hamaaraa kyaa jaane
+sh: nazaaro.n se teraa man bhar duu.Ngii
+    aa paas to aajaa diivaane
+ko: ruk jaanaa zaraa ruk jaanaa re sajanaa
+
+%
+#endindian
+\endsong
+%

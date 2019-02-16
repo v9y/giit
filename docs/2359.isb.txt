@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jan gaN man adhinaayak jay he}%
+\film{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Rabindranath Tagore}%
+%
+% Contributor: Ketan Dholakia
+% Transliterator:
+% Credits:
+% Editor:
+% Comments: India's National Anthem
+%
+\printtitle
+#indian
+%
+
+jan gaN man adhinaayak jay he
+bhaarat bhaagya vidhaataa
+pa.njaab si.ndhu gujaraat maraaThaa
+draavi.D utkal ba.nga
+vi.ndhyaa himaachal jamunaa ga.ngaa
+uchchhal jaladhii tara.ngaa
+
+tava shubh naame jaage
+tava shubh aashish maa.Nge
+gaaye tava jaya gaathaa
+
+jan gaN ma.ngal daayak jay he
+bhaarat bhaagya vidhaataa
+jay he jay he jay he
+jay jay jay jay he
+
+%
+#endindian
+\endsong
+%

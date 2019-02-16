@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{mere jaaniyaa ... mai.n jogiyaa jogiyaa maine dil tujhako de diyaa}%
+\film{Ek Aur Ek Gyarah}%
+\year{2003}%
+\starring{Sajnay Dutt, Govinda, Amrita Arora, Nandini Singh}%
+\singer{Udit Narayan, Sneha Pant, Shankar Mahadevan}%
+\music{Shankar-Ehsaan-Loy}%
+\lyrics{Sameer}%
+%
+% contributor: BOL ANAMOL #11783 [V S Rawat]
+% producer: Mukta Arts Ltd, Subhash Ghai, www.muktaarts.com
+% director: David Dhawan
+% audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% cassette: Royal SHFC 1/3355 Stereo, Cost: Rs 50/-, CD: 
+% website: www.ekaurekgyarah.com
+%
+\printtitle
+#indian
+%
+sne \:	mere jaaniyaa mere raa.Njhanaa mere saajanaa
+u \:	( mai.n jogiyaa jogiyaa ) \-2 maine dil tujhako de diyaa
+ko \:	dhin tanaa naa dhin tanaa naa tanaa naa \-2
+sha.n \:	mai.n jogiyaa jogiyaa maine dil tujhako de diyaa
+ko \:	dhin tanaa naa dhin tanaa naa tanaa naa \-2
+u \:	merii jogan mujhako de\-de \-2
+	rab ke aage sab ke aage
+sha.n \:	ho rab ke aage sab ke aage rab ke aage
+	ro liyaa mai.n ro liyaa
+sne \:	ho jogiyaa maine dil tujhako de diyaa
+	tuu jogiyaa jogiyaa maine dil tujhako de diyaa
+	meraa jogii mujhako de\-de \-2
+	rab ke aage sab ke aage ho rab ke aage sab ke aage rab ke aage
+	ro liyaa
+sha.n \:	mai.n jogiyaa jogiyaa maine dil tujhako de diyaa
+	
+	vo kahaa.N hai mai.n naa jaanuu.N raat\-din usakii maalaa japuu.N
+u \:	vo mile to vo kahe to dhuup kyaa chhaa.Nv me.n bhii tapuu.N
+sne \:	maine Kvaabo.n me.n use dekhaa hai
+	merii haatho.n kii vo rekhaa hai
+	o maine Kvaabo.n me.n dekhaa hai
+	haatho.n kii rekhaa hai
+u \:	vo basii hai man ke andar
+sha.n \:	vo basii hai man ke andar saamane jo aaye mere
+	ho saamane jo aaye mere kah duu.N ab le lo jiyaa
+u \:	le lo jiyaa le lo jiyaa
+sne \:	tuu jogiyaa jogiyaa mai.n ne dil tujhako de diyaa
+	
+u \:	Dhuu.NDhataa huu.N dilarubaa ko pyaar ke har hasii.n mo.D pe
+	haa
+sha.n \:	ek din vo mere ghar me.n aa_egii apanaa sab chho.D ke
+sne \:	merii saa.Nso.n me.n vo samaayaa hai
+	merii yaado.n me.n vo hii chhaayaa hai
+	ho merii saa.Nso.n me.n samaayaa hai
+	yaado.n me.n chhaayaa hai
+u \:	dil usii kaa hai diivaanaa
+sha.n \:	dil usii kaa hai diivaanaa vo mile to ha.Ns ke boluu.N
+u \:	haa.N vo mile to ha.Ns ke boluu.N mai.n to huu.N teraa piyaa
+sha.n \:	teraa piyaa teraa piyaa
+sne \:	tuu jogiyaa jogiyaa maine dil tujhako de diyaa
+	mere jaaniyaa mere raa.Njhanaa mere saajanaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kaun kahataa hai tujhe mai.n ne bhulaa rakhaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+kaun kahataa hai tujhe mai.n ne bhulaa rakhaa hai
+terii yaado.n ko kaleje se lagaa rakhaa hai
+
+lab pe aahe.n bhii nahii.n aa.Nkh me.n aa.Nsuu bhii nahii.n
+dil ne har raaz muhabbat kaa chhupaa rakhaa hai
+
+tuune jo dil ke a.Ndhere me.n jalaayaa thaa kabhii
+vo diyaa aaj bhii siine me.n jalaa rakhaa hai
+
+dekh jaa aa ke mahakate hue zaKmo.n kii bahaar
+mai.n ne ab tak tere gulashan ko sajaa rakhaa hai
+
+%
+#endindian
+\endsong
+%

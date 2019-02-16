@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ai zi.ndagii gale lagaa le, hamane bhii tere har ik Gam ko}%
+\film{Sadma}%
+\year{}%
+\starring{Kamalhasan,Sridevi}%
+\singer{Suresh Wadkar}%
+\music{Ilayaraja}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: (g_vyas@venus.twu.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai zi.ndagii gale lagaa le \- 2
+hamane bhii tere har ik Gam ko
+gale se lagaayaa hai \- hai naa
+ai zi.ndagii \threedots
+
+(hamane bahaane se, chhupake zamaane se 
+palako.n ke parade me.n, ghar kar liyaa   )  \- 2
+teraa sahaaraa mil gayaa hai zi.ndagii
+%la.. la.. la.. (in the same tune as the above line)
+la \threedots la \threedots
+teraa sahaaraa mil gayaa hai zi.ndagii
+ai zi.ndagii \threedots
+
+(chhoTaa saa saayaa thaa,  aa.Nkho.n me.n aayaa thaa 
+hamane do buu.ndo se man bhar liyaa     )   \- 2
+hamako kinaaraa mil gayaa hai zi.ndagii, la \threedots la \threedots
+hamako kinaaraa mil gayaa hai zi.ndagii
+ai zi.ndagii \threedots
+%
+#endindian
+\endsong
+%

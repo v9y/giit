@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ko_ii lauTaa de vo pyaare pyaare din}%
+\film{Aashiqui (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Abhijit}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii lauTaa de vo pyaare pyaare din
+kaTatii nahii.n raate.n usake bin
+ko_ii lauTaa de vo pyaare pyaare din
+kaTatii nahii.n raate.n haa.n usake bin
+
+ta.Dapataa rahataa huu.n mai.n raato.n ko
+ba.Dii zaalim hai yaaro.n dil kii lagii
+ko_ii lauTaa de vo \threedots
+
+pahalii baar jab vo aa_ii thii nazar
+pal me.n kho gayaa dil usako dekhakar
+vo merii jaan\-e\-jaa.n vo mere dil kii dha.Dakan
+ko_ii lauTaa de vo \threedots
+
+usakii yaad aa_ii paagal kar ga_ii
+dil kyaa dha.Dakano.n ko ghaayal kar ga_ii
+usako hii Dhuu.NDhuu.n mai.n na jaane kahaa.n vo hogii
+ko_ii lauTaa de vo \threedots
+%
+#endindian
+\endsong
+

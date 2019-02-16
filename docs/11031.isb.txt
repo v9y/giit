@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{saare shahar me.n charchaa ... ik la.Dakaa ik la.Dakii kaa}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{2001}%
+\starring{Govinda, Tabbu}%
+\singer{Lata, Udit Narayan}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saare shahar me.n charchaa aam ho gayaa
+ik la.Dakaa ik la.Dakii kaa kaise gulaam ho gayaa
+mai.n kyaa bataa_uu.n kaise bataa_uu.n
+saare shahar me.n charchaa \threedots
+
+rumajhum rumajhum karatii paayal
+pahalii nazar me.n kar ga_ii ghaayal
+kajaraarii aa.Nkho.n me.n kaajal
+dekhaa to dil ho gayaa paagal
+dhiire dhiire kissaa tamaam ho gayaa
+ik la.Dakaa ik la.Dakii \threedots
+
+mai.n ye bataa_uu.N sabako bataa_uu.N
+merii galii se yuu.n hii guzaranaa
+har aahaT me.n teraa Daranaa
+sirf merii taariife.n karanaa
+mere li_e hii aahe.n bharanaa
+teraa dil thaa mere naam ho gayaa
+ik la.Dakaa ik la.Dakii \threedots
+%
+#endindian
+\endsong
+

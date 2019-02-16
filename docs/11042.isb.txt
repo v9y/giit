@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saayaa bhii saath jab chho.D jaa_e aisii hai tanhaa_ii}%
+\film{Dillagi}%
+\year{1999}%
+\starring{Sunny Deol, Bobby Deol, Urmila Matondkar}%
+\singer{Nusrat Fateh Ali Khan}%
+\music{Anand Milind}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa aa
+saayaa bhii saath jab chho.D jaa_e aisii hai tanhaa_ii
+ronaa chaahuu.n to aa.Nsuu na aa_e aisii hai tanhaa_ii
+saayaa bhii saath \threedots
+
+jo aise chho.D ke mahabuub jaa_e
+to jiine se na kyuu.n dil uub jaa_e
+saayaa bhii saath \threedots
+
+paayaa hamane ye bin tere
+ra.nj kii raahe.n aur Gam ke a.ndhere
+vo bhii to hamase kho ga_e haay aisii hai tanhaa_ii
+saayaa bhii saath \threedots
+
+yaad aate hai.n biite zamaane
+jab tum aa_e the hamako manaane
+ab to dil ruuThe dard manaa_e aisii hai tanhaa_ii
+saayaa bhii saath \threedots
+%
+#endindian
+\endsong
+

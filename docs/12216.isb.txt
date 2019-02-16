@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ko_ii hamadam naa rahaa ko_ii sahaaraa na rahaa}%
+\film{Jhumroo}%
+\year{1961}%
+\starring{Kishore Kumar, Madhubala, Chanchal, Anoop Kumar, Lalita Pawar}%
+\singer{Kishor}%
+\music{Kishor Kumar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10277 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Kishor Kumar as Music Director
+% 
+\printtitle
+#indian
+%
+ko_ii hamadam naa rahaa ko_ii sahaaraa na rahaa
+ham kisii ke na rahe ko_ii hamaaraa na rahaa
+ko_ii hamadam naa rahaa \threedots
+
+shaam tanhaa_ii kii hai aa_egii ma.nzil kaise \-2
+jo mujhe raah dikhaa_e vahii taaraa na rahaa
+ko_ii hamadam naa rahaa \threedots
+
+ai nazaaro.n naa ha.Nso mil naa sakuu.Ngaa tumase \-2
+tum mere ho naa sake mai.n tumhaaraa naa rahaa
+ko_ii hamadam naa rahaa \threedots
+
+kyaa bataa_uu.N mai.n kahaa.N yuu.N hii chalaa jaataa huu.N \-2
+jo mujhe phir se bulaa_e vo ishaaraa naa rahaa
+ko_ii hamadam naa rahaa \threedots
+%
+#endindian
+\endsong
+

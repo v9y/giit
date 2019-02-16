@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{dil\-e\-naadaa.n tujhe hu_aa kyaa hai}%
+\film{Millionaire/ Karorpati}%
+\year{1936}%
+\starring{K L Saigal, Malina, Trilok Kapoor, Pahadi Sanyal, Navab, Jagdish, Babulal}%
+\singer{}%
+\music{Rai Chand Boral/ Punkaj Mullick?}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: BOL ANAMOL #10006 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil\-e\-naadaa.n tujhe hu_aa kyaa hai
+aakhir is dard kii davaa kyaa hai
+
+ham hai.n mushtaaq aur vo bezaar
+yaa ilaahii ye maajaraa kyaa hai
+aakhir is dard kii \threedots
+
+ham ko unake vafaa kii hai ummiid
+jo nahii.n jaanate vafaa kyaa hai
+aakhir is dard kii \threedots
+%
+#endindian
+\endsong
+

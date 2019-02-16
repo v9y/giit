@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chaa.Nd taare phuul shabanam tum se achchhaa kaun hai}%
+\film{Tum Se Achcha Kaun Hain}%
+\year{2002}%
+\starring{Nakul Kapoor, Kim Sharma, Aarti Chhabaria}%
+\singer{Tauseef Akhtar}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+he he aa haa laa la laa laa la laa
+huu.n huu.n aa haa laa la laa laa la laa
+chaa.Nd taare phuul shabanam tum se achchhaa kaun hai
+ko_ii rut ho ko_ii mausam tum se achchhaa kaun hai
+chaa.Nd taare \threedots
+
+pyaar se mukha.De ko chuumatii hai chaa.Ndanii
+saarii duniyaa me.n hai bikharii bas tumhaarii roshanii
+aisaa ko_ii bhii nahii.n ho merii nazar me.n hasii.n
+meraa dil kahataa hai jaanam tum se achchhaa kaun hai
+
+jo khule.n zulfe.n tumhaarii din me.n kaalii raat ho
+tum zaraa aa.Nchal u.Daa do dhuup me.n barasaat ho
+saagar kii pyaasii lahar ho jhuume tumhe.n dekh kar
+saarii duniyaa saaraa aalam tum se achchhaa kaun hai
+ko_ii rut ho \threedots
+%
+#endindian
+\endsong
+

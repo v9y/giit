@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{shamaa bujhane ko chalii}%
+\film{Ganga Ki Lahren}%
+\year{1964}%
+\starring{Dharmendra, Savitri, Kum Kum, Kishore}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10113 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+shamaa bujhane ko chalii \-2
+hai yahii dard ki jal jaa_e pata.ngaa na kahii.n
+shamaa bujhane ko chalii \threedots
+
+usane chaahaa ki meraa chaahane vaalaa to rahe
+mai.n rahuu.N yaa na rahuu.N ghar kaa ujaalaa to rahe
+apane priitam ke li_e chho.D dii priitam kii galii
+shamaa bujhane ko chalii \threedots
+
+bhuulakar sabako bas ik apanii vafaa saath li_e
+apane hii ashqo.n me.n bhiigii hu_ii ik raat li_e
+Gam ke tuufaa.n me.n ghirii Thokare.n khaatii nikalii
+shamaa bujhane ko chalii \threedots
+%
+#endindian
+\endsong
+

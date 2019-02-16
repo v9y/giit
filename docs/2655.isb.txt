@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{merii aa.Nkho.n ke taare dil ke sahaare}%
+\film{Kundan}%
+\year{1955}%
+\starring{Sohrab Modi, Nimmi, Ulhas, Om Prakash}%
+\singer{Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments: Based on Victor Hugo's Les Miserables
+%
+\printtitle
+#indian
+%
+
+merii aa.Nkho.n ke taare mere dil ke sahaare
+mai.n tere sadaqe mai.n tere sadaqe
+
+nain me.n mere terii na daharii
+man hai teraa bichaunaa
+khel rahii merii aashaa tujhase
+tuu hai meraa khilaunaa
+ab saa.Njh sakhaare dil ye pukaare
+mai.n tere sadaqe mai.n tere sadaqe
+
+raat kaa chandaa din kaa suuraj
+ho~ terii jyot se jaage
+jiivan kii bagiyaa me.n
+tujhako merii umar bhii laage
+sadaa sundar pyaare din tuu guzaare
+mai.n tere sadaqe mai.n tere sadaqe
+
+%
+#endindian
+\endsong
+%

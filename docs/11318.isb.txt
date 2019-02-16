@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{saaraa moraa kajaraa chhu.Daayaa tuune}%
+\film{Do Dil}%
+\year{1965}%
+\starring{Biswajit, Rajshri}%
+\singer{Rafi, Arti Mukherji}%
+\music{Hemant Kumar}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #10224 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	saaraa moraa kajaraa chhu.Daayaa tuune
+	garavaa se kaise lagaayaa tuune
+	o rasiyaa man\-basiyaa
+ra \:	tiikhaa\-tiikhaa kajaraa lagaayaa tuune
+	kaahe ko jaaduu jagaayaa tuune
+	o sajanii sukh\-rajanii
+aa \:	o rasiyaa man\-basiyaa
+
+	tuune pyaas bujhaa ke na_ii aas jagaa ke
+	moraa a.ng\-a.ng ta.Dapaayaa
+ra \:	kahe saaraa zamaanaa mohe teraa diivaanaa
+	teraa ruup sahaa nahii.n jaa_e
+aa \:	saaraa moraa kajaraa \threedots
+
+	hu_ii priit puraanii hu_ii terii diivaanii
+ra \:	hu_e nayan rasiile hu_e ho.nTh gulaabii
+	adaa bhii sharaabii
+%
+#endindian
+\endsong
+

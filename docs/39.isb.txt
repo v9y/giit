@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aae hai.n samajhaane log, hai.n kitane diivaane log}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Mahendra Singh Bedi 'Sahar'}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aae hai.n samajhaane log
+hai.n kitane dIvaane log
+
+dair\-o\-haram me.n chain jo milataa
+kyU.n jaate maikhaane log
+
+jaan ke sab kuchh kuchh bhI naa jaane
+hai.n kitane anjaane log
+
+vaqt pe kaam nahI.n aate hai.n
+ye jaane pahachaane log
+
+ab jab mujhako hosh nahI.n hai
+aae hai.n samajhaane log
+hai.n kitane  \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{giito.n me.n haradam saragam tumhaarii ho}%
+\film{Tu Hi Mera Dil}%
+\year{1995}%
+\starring{Prabhu, Meenakshi Seshadri, Ramesh Arvind}%
+\singer{Venugopal}%
+\music{A R Rahman}%
+\lyrics{P K Mishra}%
+%
+% Contributor: BOL ANAMOL #12483 [V S Rawat], 01/02/2004
+% Comments: Dubbed From Tamil: Duet 
+%
+\printtitle
+#indian
+%
+giito.n me.n haradam saragam tumhaarii ho 
+%(in the songs, the octave must be yours always)
+
+dhun ho tumhaarii aur aavaaz merii
+%(the tune must be yours and voice mine)
+
+ham sab ke jiivan me.n sa.ngiit praN hai
+%(in the lives of all of us, music is the soul)
+
+aaj ham gunagunaaye.n pyaar ke giit dono.n
+%(let's humm the songs of love today)
+
+
+a.ndaaz do hai.n magar sur to ek hai
+%(there are two styles but voice is only one)
+
+mil ke ham roz gaaye.n sukh\-dukh me.n saathii dono.n
+%(let's sing together everyday, we the companions of happiness and sorrow, both of us)
+
+lahare.n hazaaro.n hai.n nadiyaa to ek hai
+%(there are thousands of waves but the river is one)
+
+mil ke ham paar kar le.n jaan\-e\-man aaj dono.n
+%(let's together love, o life of mind, both of us)
+%
+#endindian
+\endsong
+%
+

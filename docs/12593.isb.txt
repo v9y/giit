@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{pyaar kaa bandhan Kuun kaa rishtaa}%
+\film{Khel Khilaadi Ka}%
+\year{1977}%
+\starring{Dharmendra, Shabana Azmi, Dhruv, Dev Kumar}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11585 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	pyaar kaa bandhan Kuun kaa rishtaa chhuuTe se naa chhuuTe
+do \:	dil se dil kii Dor ba.Ndhii jo TuuTe se naa TuuTe
+	pyaar kaa ba.ndhan \threedots
+
+la \:	lage rahe.n aur bhare rahe.nge pyaar bhare ye mele
+	ho pyaar bhare ye mele
+mu \:	Kushiyo.n kaa jhuulaa jhuule.nge bhaa_ii\-bahan alabele
+	ho bhaa_ii\-bahan alabele
+	sun le daataa inakaa naataa janam\-janam naa chhuuTe
+do \:	dil se dil kii \threedots
+
+mu \:	jagamag\-jagamag aa_e diivaalii laxmii dhan barasaa_e
+	ho laxmii dhan barasaa_e
+la \:	ra.ng\-bira.nge dhaage lekar raakhii kaa din aa_e
+	ho raakhii kaa din aa_e
+	in dhaago.n kaa ra.ng ho gaharaa chhuuTe se naa chhuuTe
+do \:	dil se dil kii \threedots
+%
+#endindian
+\endsong
+

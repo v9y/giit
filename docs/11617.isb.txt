@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jab se tumhe.n dekhaa hai aa.Nkho.n me.n tumhii.n tum ho}%
+\film{Gharaana}%
+\year{1961}%
+\starring{Rajendra Kumar, Raaj Kumar, Asha Parekh}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10703 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	jab se tumhe.n dekhaa hai aa.Nkho.n me.n tumhii.n tum ho
+aa \:	ham bhii yahii kahate hai.n saa.Nso.n me.n tumhii.n tum ho
+
+ra \:	aa ga_e pyaar ke din bekhudii chhaane lagii 
+aa \: mastiyaa.N jhuum uThii.n zindagii gaane lagii \-2
+ra \:	dil ke na_e naGamo.n kii taano.n me.n tumhii.n tum ho
+aa \:	jab se tumhe.n dekhaa \threedots
+
+	jab se chaahaa hai tumhe.n bhiigaa\-bhiigaa hai samaa.N
+ra \:	jab se chaahaa hai tumhe.n har nazaaraa hai javaa.N \-2
+aa \:	dil me.n tumhii.n rahate ho yaado.n me.n tumhii.n tum ho
+ra \:	jab se tumhe.n dekhaa \threedots
+
+	diip Kushiyo.n ke sadaa dil me.n jalate hii rahe.n \-2
+aa \:	pyaar kii duniyaa me.n ham saath chalate hii rahe.n
+ra \:	kyuu.N na mile ma.nzil jab raaho.n me.n tumhii.n tum ho
+	ham bhii yahii kahate \threedots
+aa \:	jab se tumhe.n dekhaa \threedots
+%
+#endindian
+\endsong
+

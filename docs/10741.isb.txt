@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{ha.Ns ke na tiir chalaanaa ... tum itanaa naa ham pe sitam Dhaanaa}%
+\film{Beqasoor}%
+\year{1950}%
+\starring{Madhubala, Ajit}%
+\singer{Rafi, Lata}%
+\music{Hansraj Bahl}%
+\lyrics{Ehsaan Rizvi}%
+%
+% Contributor: BOL ANAMOL #12050 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	ha.Ns ke na tiir chalaanaa
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa \-2
+ra \:	ha.Ns ke na tiir chalaanaa
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa
+	gorii itanaa na ham pe sitam Dhaanaa
+
+ra \:	rah\-rah ke yaad sataaye \-2
+	gore gaalo.n pe
+	o gore gaalo.n pe man lalachaaye
+	gore gaalo.n pe man lalachaaye
+	kuchh apanii nishaanii diye jaanaa
+
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa
+	gorii itanaa na ham pe sitam Dhaanaa
+
+la \:	jo dekhe wo hii lalachaaye \-2
+	ko_ii kis\-kis se aa.Nkh churaaye \-2
+	jise dekho pukaare chalii aanaa
+
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa \-2
+
+ra \:	mar jaaye.nge ham ghabaraa ke \-2
+	mu.Nh chhupaanaa naa
+	o mu.Nh chhupaanaa naa ghuu.NghaT uThaa kaa
+	mu.Nh chhupaanaa naa ghuu.NghaT uThaa kaa
+	gorii hamase na tum sharamaanaa
+
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa
+	gorii itanaa na ham pe sitam Dhaanaa
+
+la \:	pachhataa_u.N mai.n priit lagaake \-2
+	ghabaraatii huu.N aa.Nkh milaate \-2
+	meraa bholaa saa man na dukhaanaa
+
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa \-2
+
+do \:	ha.Ns ke na tiir chalaanaa
+	dil Kud hii banegaa nishaanaa
+	tum itanaa na ham pe sitam Dhaanaa \-2
+%
+#endindian
+\endsong
+

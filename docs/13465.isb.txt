@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye jo tho.De se hai.n paise kharch tum par karuu.n kaise}%
+\film{Paapaa Kehte Hain}%
+\year{1996}%
+\starring{Jugal Hansraj, Mayuri Kango, Anupam, Tiku, Javed Khan}%
+\singer{Kumar Sanu}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye jo tho.De se hai.n paise kharch tum par karuu.n kaise
+
+agar kahii.n ik dukaan hotii jahaa.n pe milate gagan ke taare
+mai.n saare taare khariid letaa tumhaare aa.Nchal me.n Taa.nk detaa
+magar kyaa karuu.n mai.n ki ye jaanataa huu.N taare milate nahii.n aise
+ye jo tho.De se hai.n \threedots
+
+agar kahii.n ik dukaan hotii jahaa.n pe milate hasiin sapane
+mai.n saare sapane khariid laataa tumhaarii palako.n pe mai.n sajaataa
+magar kyaa karuu.n mai.n ki ye jaanataa huu.N sapane milate nahii.n aise
+ye jo tho.De se hai.n \threedots
+
+mai.n jaanataa huu.N
+kahaa.n ye paise kahaa.n muhabbat
+kahaa.n ye zarre kahaa.n vo parabat
+kahaa.n ye kaagaz kii ek naav kahaa.n vo jazbaat kaa bahaav
+ye sach hai magar phir bhii mai.n sochataa huu.N
+ye jo tho.De se hai.n \threedots
+%
+#endindian
+\endsong
+

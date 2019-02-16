@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aayaa na hamako pyaar jataanaa}%
+\film{Pehchaan}%
+\year{1970}%
+\starring{Manoj Kumar}%
+\singer{Mukesh, Suman Kalyanpur}%
+\music{Shankar-Jaikishan}%
+\lyrics{Indeevar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+aayaa na hamako pyaar jataanaa, pyaar kabhii se tujhe karate hai.n
+bholaapan teraa bhaa gayaa hamako, saadagii par terii marate hai.n
+
+jisane hamaare dil ko samajhaa vo ek teraa hii dil hai
+teraa aa.Nchal bas apanii yahii to ma.nzil hai
+bholaapan teraa   \threedots
+
+suurat achchhii siirat achchhii tuu to ek hai laakho.n me.n
+Kud pe bharosaa ba.Dh jaataa hai jab tere saath guzarate hai.n
+bholaapan teraa   \threedots
+
+ek hii jiivan me.n to dil kii pyaas bujhaa nahii.n paaye.nge
+tujhako phir paane ke liye ham agale janam me.n aaye.nge
+pyaar amar hai amar hii rahegaa
+marane vaale inasaan marate hai.n
+bholaapan teraa   \threedots
+
+%
+#endindian
+\endsong
+%

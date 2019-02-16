@@ -1,0 +1,73 @@
+%
+\startsong
+\stitle{rokaa ka_ii baar mainne dil kii uma.ng ko}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pankha Road se Pintu Diwana [32]  14 May 1995
+%        to ye hai wo doosaree duet is film kee jo baar baar dil meN
+%        ik umang paidaa karatee hai. agar aap vishwaas kareN to ek raaz
+%        kee baat bataa-ooN? yahi to khoobee hai RMIM kee, ki jo man meN
+%        ho wo type kar do, no long distance phone bill (jo ki India
+%        calls me pooraa ho jaataa hai)
+%        to baat ye hai (I will keep it short), kee Dec 93 meN hamane ek
+%        laD.akee ko dekhaa (to aisaa lagaa ke...). Sach maaniye,
+%        dekhate hee ham laTToo ho gaye! to hamare jehan meN yahee
+%        gaanaa aayaa. To, hamane ek din unhe ek card bhejaa, unke
+%        janm-din par. it was a Garfield card.
+%        Outside: (a smiling Garfield)
+%                I am smiling because you are related to me
+%        Inside:  (a LAUGHING Garfield)
+%                and laughing because there is NOTHING you can do about
+%                it!!
+%
+%        itnaa mazaa aayaa na ki kyaa bataa-ooN.%
+%
+%        bas ek aur gaanaa hai jo kisi bande ko nashe meN behosh kar
+%        sakataa hai, "... khud DhooNDh rahee hai shamma jise.."%
+%
+%        to khair, maiN babblaanaa band kartaa hooN 
+%        and HERE IS OUR SONG OF THE EVENING, DhaN taD.aN.....
+%        boom badaakaa dam chik dum DHUM
+%
+\printtitle 
+#indian 
+%
+ra: ho ho ho o aahaa 
+aa: ho ho ho o aahaa 
+
+ra: rokaa kaI baar mai.nne dil kii uma.ng ko 
+kyaa karuu.n mai.n apanI nigaaho.n kii pasa.nd ko 
+o jaane jaa.n, tuu hii mere pyaar kaa jahaan hai, ho \threedots
+aa: rokaa kaI baar mai.nne dil kii uma.ng ko 
+kyaa karuu.n mai.n apanI nigaaho.n kii pasa.nd ko 
+o jaane jaa.n, tuu hii mere pyaar kaa jahaan hai, ho \threedots 
+
+aa: ( dekho merii aa.Nkhe.n tumhaaraa hii khumaar hai  
+hoTho.n kii ye laalI sanam teraa pyaar hai ) \- 2 
+dil ko lagaayaa mujhe to iqaraar hai 
+ra: rokaa kaI baar \threedots
+
+ra: (maanaa teraa A.Nchal hAtho.n se abhii dUr hai  
+baaho.n me.n uThaa luu.n ye aramaa.n zuruur hai ) \- 2
+maano nA maano dIvaanaa bekusuur hai 
+aa: rokaa kaI baar \threedots
+
+aa: ( dekhI terii suurat jo itane kariib se  
+ghir gayii mai.n to khayaalo.n me.n ajiib se ) \- 2
+dil pe kyaa bItI nA puuchho ye garIb se 
+( haay kyaa garIb hai!! are, ek tuu hii dhanavaan hai gorI)
+
+ra: rokaa kaI baar \threedots 
+aa: rokaa kaI baar \threedots
+%
+#endindian
+\endsong
+%

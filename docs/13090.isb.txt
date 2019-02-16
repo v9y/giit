@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{qasam kii qasam hai qasam se}%
+\film{Main Prem Ki Diwani Hoon}%
+\year{2003}%
+\starring{Hritik Roshan, Abhishek Bachchan, Kareena Kapoor}%
+\singer{Shaan, Chitra}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: BOL ANAMOL #11699 [V S Rawat]
+% Producer: Rajshri Productions (P) Ltd., Kamal Kumar Barjatya, RajKumar Barjatya, Ajit Kumar Barjatya
+% Director: Sooraj R Barjatya
+% Audio: Saregama India Ltd.
+% Cassette: NHF 810565 Digital, Cost: Rs 55/-, CD: CDF 112054 DDD, Cost: Rs 150/-
+% 
+\printtitle
+#indian
+%
+chi \:	( qasam kii qasam hai qasam se
+	hamako pyaar hai sirf tumase ) \-2
+	ab ye pyaar naa hogaa phir hamase
+ko \:	##yeah yeah yeah yeah##
+chi \:	qasam kii qasam hai qasam se
+	hamako pyaar hai sirf tumase
+	
+	log kahate hai.n paagal huu.N mai.n ye bhii naa jaanuu.N
+	dil luTaayaa hai maine ab kisii kii naa maanuu.N
+	chain dekar ke maine bechainiyaa.N ye lii hai.n
+	nii.nde.n u.Daa ke ye maine tumase vafaa_e.n kii hai.n
+	qasam kii qasam hai qasam se
+	jii rahe hai.n ham tere dam se
+	ab ye pyaar naa hogaa phir hamase
+ko \:	##yeah yeah yeah yeah##
+chi \:	qasam kii qasam hai qasam se
+	hamako pyaar hai sirf tumase
+	
+shaa \:	kuchh ishaaro.n me.n tumane hamase jo ye kahaa hai
+	ab yaqii.n aa rahaa hai tumako bhii kuchh hu_aa hai
+	kyo.n tumako dekhate hai.n kyaa dil me.n sochate hai.n
+	tuufaa.N jo uTh rahaa hai ham usako rokate hai.n
+	qasam kii qasam hai qasam se
+	ye milan hai sanam kaa sanam se
+	ab ye pyaar naa hogaa phir hamase
+ko \:	##yeah yeah yeah yeah##
+chi \:	qasam
+shaa \:	kii qasam
+chi \:	haa.N qasam
+shaa \:	ye qasam 
+chi \:	dii qasam
+shaa \:	lii qasam
+chi \:	haa.N qasam
+shaa \:	qasam
+chi \:	qasam
+shaa \:	qasam
+do \:	qasam kii qasam hai qasam se
+	hamako pyaar hai sirf tumase
+	ab ye pyaar naa hogaa phir hamase
+ko \:	##yeah yeah yeah yeah##
+%
+#endindian
+\endsong
+

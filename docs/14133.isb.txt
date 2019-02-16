@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ishq diivaanaa husn bhii ghaayal dono.n taraf ik}%
+\film{Sunghursh}%
+\year{1968}%
+\starring{Dilip Kumar, Vyjayanthi Mala}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10652 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ishq diivaanaa husn bhii ghaayal dono.n taraf ik dard\-e\-jigar hai
+dil kii ta.Dap kaa haal na puuchho jitanii idhar hai utanii udhar hai
+ishq diivaanaa husn bhii \threedots
+
+apane fasaane dil ke taraane yaa tum samajho yaa ham jaane.n
+tumako hamaare dil kaa pataa hai hamako tumhaare dil kii Kabar hai
+ishq diivaanaa husn bhii \threedots
+
+bikharii zulfe.n aa.Nchal Dhalakaa lab pe tabassum halkaa\-halkaa
+pyaar me.n ham to kho_e hai.n lekin aaj tumhe.n bhii hosh kidhar hai
+dil kii ta.Dap kaa \threedots
+
+chaa.Nd\-sitaare shoK nazaare sab hai.n tumhaare husn ke ghaayal
+husn ko rakhanaa apane bachaa ke dekho tumhii.n par sabakii nazar hai
+ishq diivaanaa husn bhii \threedots
+%
+#endindian
+\endsong
+

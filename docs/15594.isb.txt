@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{yuu.N na thii mujhase beruKii pahale}%
+\film{Aabshaar-E-Ghazal (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Asha}%
+\music{Hariharan}%
+\lyrics{Saeed Rahi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+yuu.N na thii mujhase beruKii pahale
+tum to aise na the kabhii pahale
+
+jisame.n shaamil tumhaarii marzii thii
+hamane chaahii wahii Kushii pahale
+
+hamane tumase yahii to siikhaa thaa
+dushmanii baad dostii pahale
+
+jab talak wo na thaa to ai 'raahii'
+kitanii aasaa.N thii zi.ndagii pahale
+
+#endindian
+\endsong

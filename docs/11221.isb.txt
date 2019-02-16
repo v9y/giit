@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tuu jo nahii.n ko_ii meraa meraa ko_ii nahii.n}%
+\film{Darindaa}%
+\year{1977}%
+\starring{Sunil Dutt, Firoz Khan, Parvin Babi}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11266 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tuu jo nahii.n ko_ii meraa meraa ko_ii nahii.n
+zindagii terii yaado.n me.n kho_ii
+phir bhii kho_ii nahii.n
+
+terii chaahat na jab tak milegii ruuh merii bhaTakatii rahegii
+haal meraa agar vo sune.nge mujhape diivaane bhii ro pa.De.nge
+haal sunake meraa phir bhii terii aa.Nkh ro_ii nahii.n
+tuu jo nahii.n ko_ii \threedots
+
+phir se dekhaa tujhe hamane jis dam mar chale the magar jii uThe ham
+beruKii se hame.n tuune maaraa tuu hai kaisaa masiihaa hamaaraa
+jab lagaanii na thii paar naiyaa kyo.n Dubo_ii nahii.n
+tuu jo nahii.n ko_ii \threedots
+%
+#endindian
+\endsong
+

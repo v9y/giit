@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tumhaare sivaa kuchh naa chaahat kare.nge}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhaare sivaa kuchh naa chaahat kare.nge
+ke jab tak jiye.nge mohabbat kare.nge
+mohabbat mohabbat
+tumhaare sivaa \threedots
+
+nazar chaahatii hai diidaar karanaa
+ye dil chaahataa hai tumhe.n pyaar karanaa
+tumhaarii vafaa me.n Duube rahe.n ham
+kyaa haal dil kaa ye kaise kahe.n ham
+mahakane lagegaa ho ho mahakane lagegaa badan ye tumhaaraa
+ham aa.Nkho.n se aisii sharaarat kare.nge
+tumhaare sivaa \threedots
+
+hame.n apane dil me.n basaayaa hai tumane
+muhabbat ke kaabil banaayaa hai tumane
+agar tum naa milate to ham jii na paate
+kise apanaa kahate kahaa.n dil lagaaate
+sazaa rab jo degaa o o sazaa rab jo degaa vo ma.nzuur hamako
+ke ab ham tumhaarii ibaadat kare.nge
+tumhaare sivaa \threedots
+%
+#endindian
+\endsong
+

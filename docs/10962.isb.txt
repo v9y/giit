@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{sajanaa re aa jaa re o rasiyaa ... o saajanaa kyaa kiyaa}%
+\film{Chandralekha}%
+\year{1948}%
+\starring{T R Rajkumari, M K Radha, Ranjan, Sundaribai, Yashodhara Katju}%
+\singer{Uma Devi}%
+\music{S Rajeswara Rao}%
+\lyrics{Pt Indra}%
+%
+% Contributor: BOL ANAMOL #12034 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+sajanaa re
+aa jaa re
+o rasiyaa re
+aaj chalii mai.n kahaa.N
+ye kaisaa sapanaa aayaa
+
+o saajanaa kyaa kiyaa \-3
+naadaan nanhaa saa meraa jiyaa
+o saajanaa kyaa kiyaa
+
+hamako yuu.N baalam tarasaaye kyuu.N
+hamako yuu.N 
+hamako yuu.N baalam tarasaaye kyuu.N
+matawaale mohe lalachaaye kyuu.N \-2
+ko_ii luTeraa
+ko_ii luTeraa luuTe na dil ko \-2
+ha.Ns\-ha.Ns ke bharamaaye kyuu.N
+aa aa
+ha.Ns\-ha.Ns ke bharamaaye kyuu.N
+aa aa
+madhur bol piyaa bol nainawaa milaa \-2
+pyaase naino.n ko zaraa sudhaa pilaa\-pilaa \-2
+%
+#endindian
+\endsong
+

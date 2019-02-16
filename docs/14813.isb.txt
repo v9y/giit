@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{vo chalaa akelaa nirjan ban me.n}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Male?}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+vo chalaa akelaa nirjan ban me.n
+maa.N kaa aashirwaad liye
+sury chandr taare chamake
+tab tak wo maa.N kaa laal jiye
+
+TuuTe na duudh ke daa.Nt
+abhii naadaan tuu komal baalak hai
+maataa kii bhaktii hii sachchii hai
+aur dharm hii usakaa paalak hai
+wo aa.Ndhii yaa tuufaan kisii se nahii.n Daregaa
+maataa kii rakshaa ke hit wo aage paa.Nv dharegaa
+vo chalaa akelaa \-2
+chalaa akelaa
+
+#endindian
+\endsong

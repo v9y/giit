@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{raat jaag ke nikaaluu.N tere i.ntazaar me.n}%
+\film{Shikast}%
+\year{1953}%
+\starring{Dilip Kumar, Nalini Jaywant, Durga Khote, K N Singh}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10822 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar, Malini Kanth
+% 
+\printtitle
+#indian
+%
+raat jaag ke nikaaluu.N tere i.ntazaar me.n
+aa.Nkh chaa.Nd se lagaa luu.N tere i.ntazaar me.n
+
+tuu aajaa tuu aajaa khule hai.n dil ke raaste
+na paa sakuu.N naa kho sakuu.N mai.n phir bhii tere vaaste
+diip yaad ke jalaa_uu.N tere i.ntazaar me.n
+raat jaag ke nikaaluu.N \threedots
+
+nazar jhuke zubaa.N ruke ho jab bhii teraa saamanaa
+na kah sakuu.N na rah sakuu.N pa.Daa hai dil ko thaamanaa
+chain umr bhar naa paa_uu.N tere i.ntazaar me.n
+raat jaag ke nikaaluu.N \threedots
+%
+#endindian
+\endsong
+

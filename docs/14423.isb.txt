@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tamaa tamaa loge ... tuu premii aahaa mai.n premii aahaa}%
+\film{Thaanedaar}%
+\year{1990}%
+\starring{Sanjay Dutt, Madhuri, Jeetendra, Jayaprada, Kiran Kumar, Goga Kapoor}%
+\singer{Anuradha Paudwal}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tamaa tamaa loge
+tuu premii aahaa mai.n premii aahaa
+tuu raanii aahaa mai.n raajaa aahaa
+phir kyaa ##daddy## kyaa ammaa
+ik bas tuu hii pyaar ke kaabil saaraa jahaa.n hai nikammaa
+tamaa tamaa loge \threedots
+
+tujhe zaruurat mere jaise yaar kii
+mujhe zaruurat tere jaise yaar kii
+jale jo usako aur jalaa_o nacho chhamaa chham chhammaa
+tamaa tamaa loge \threedots
+
+dono.n milakar jo hotaa hai ho gayaa
+mai.n tujhame.n aur tuu bhii mujhame.n kho gayaa
+dekh ke tujhako mai.n bhii pighaluu.n jaise pighalatii hai shammaa
+tamaa tamaa loge \threedots
+%
+#endindian
+\endsong
+

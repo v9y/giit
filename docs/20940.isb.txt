@@ -1,0 +1,54 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pyaar ke din ... mai.n tumase pyaar karatii huu.N}%
+\film{Maha Chor}%
+\year{1976}%
+\starring{Rajesh Khanna, Neetu Singh}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 30 Dec 2005
+% Series: GEETanjali, THGHT
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+la: pyaar ke din aaye kaale baadal chhaye \-3
+    khulake barase ghaTaa ghanaghor se kaho
+ki: are mai.nne nahii.n sunaa zaraa zor se kaho
+la: mai.n tumase pyaar karatii huu.N \-2
+
+    mere saath huaa dhokhaa mere baalam sunate ho
+    ye mujhako maalum na thaa tum tho.Daa kam sunate ho
+ki: kyaa bolii zaraa phir se bolo
+la: mere saath huaa dhokhaa mere baalam sunate ho
+    ye mujhako maaluum na thaa tum tho.Daa kam sunate ho
+    der se ye jaanaa mausam hai mastaanaa
+    naache jhuume zaraa man mor se kaho
+ki: are mai.nne nahii.n sunaa zaraa zor se kaho
+la: mai.n tumase pyaar karatii huu.N \-2
+
+ki: kyaa kahanaa kyaa sunanaa hai ham\-tum do diiwaano.n ko
+    pyaar me.n aa.Nkho.n ko kholo band karo in kaano.n ko
+la: kyaa phir se kaho
+ki: kyaa kahanaa kyaa sunanaa hai ham\-tum do diiwaano.n ko
+    pyaar me.n aa.Nkho.n ko kholo band karo in kaano.n ko
+siikh lo chup rahanaa jo kuchh bhii hai kahanaa
+    mere badale wo kisii aur se kaho
+la: are mai.nne nahii.n sunaa zaraa zor se kaho
+ki: mai.n tumase pyaar karataa huu.N
+la: mai.n tumase pyaar karatii huu.N
+ki: mai.n tumase pyaar karataa huu.N
+la: mai.n tumase pyaar karatii huu.N
+
+%
+#endindian
+\endsong

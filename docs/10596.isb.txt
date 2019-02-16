@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{kadam chale aage man paachhe bhaage}%
+\film{Bhakta Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed, Monica Desai, Nagendra}%
+\singer{Saigal}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #10001 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kadam chale aage man paachhe bhaage \-2
+kaisaa hai jaal moh kaa
+kaisaa hai jaal moh kaa kaise pakke dhaage
+man paachhe bhaage
+kadam chale aage man paachhe bhaage
+
+mai.n bisaraa_uu.N wo yaad aa_ii \-2
+saath\-saath un kii parachhaa_ii.n
+mai.n bisaraa_uu.N wo yaad aaye
+saath\-saath un kii parachhaa_ii.n
+kaise un se aa.Nkh churaa_uu.N \-2
+jin se nainaa laage
+man paachhe bhaage
+kadam chale aage man paachhe bhaage
+
+more mandir prabhu tum bas jaavo \-2
+man se chintaa moh chhu.Daavo
+more mandir prabhu tum bas jaavo
+man se chintaa moh chhu.Daavo
+muralii par yah Ter sunaa_o \-2
+vahii.n saveraa jahaa.N jaage
+man paachhe bhaage
+kadam chale aage man paachhe bhaage
+%
+#endindian
+\endsong
+%

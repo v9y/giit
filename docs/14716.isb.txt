@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{zindagii ha.Nsane gaane ke li_e hai pal do pal}%
+\film{Zameer}%
+\year{1975}%
+\starring{Amitabh, Saira Bano, Shammi Kapoor}%
+\singer{Kishor}%
+\music{Sapan Chakravarti}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10349 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zindagii ha.Nsane gaane ke li_e hai pal do pal
+ise khonaa nahii.n kho ke ronaa nahii.n
+zindagii ha.Nsane gaane \threedots
+
+tere girane me.n bhii terii haar nahii.n
+ki tuu aadamii hai avataar nahii.n
+jo ho desh vo bhes banaa pyaare
+chale jaise kaam chalaa pyaare
+pyaare tuu Gam na kar
+zindagii ha.Nsane gaane \threedots
+
+jahaa.N sach naa chale vahaa.N jhuuTh sahii
+jahaa.N haq na mile vahaa.N luuT sahii
+yahaa.N chor hai.n sab ko_ii saadhu nahii.n
+sukh Dhuu.NDh le sukh aparaadh nahii.n
+pyaare tuu Gam na kar
+zindagii ha.Nsane gaane \threedots
+%
+#endindian
+\endsong
+

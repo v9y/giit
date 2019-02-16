@@ -1,0 +1,107 @@
+
+%
+\startsong
+\stitle{haay buujho ... puuchho ... vo kaun hai vo kaun hai}%
+\film{Anjaana}%
+\year{1969}%
+\starring{Rajendra Kumar, Babita}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11093 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+##boys## \:	haay buujho buujho buujho buujho
+##girls## \:	puuchho puuchho puuchho puuchho
+
+mu \:	vo kaun hai vo kaun hai jo ruuTh jaatii hai
+	chiiz vo naazuk ba.Dii TuuT jaatii hai
+	bolo bolo
+la \:	priit
+mu \:	nahii.n
+la \:	riit
+mu \:	nahii.n
+la \:	Dorii
+mu \:	Dorii nahii.n gorii
+
+la \:	vo kaun hai vo kaun hai jag jisase Darataa hai
+	jaagataa hai raat bhar aur aahe.n bharataa hai
+	bolo bolo
+mu \:	mor
+la \:	nahii.n
+mu \:	chor
+la \:	nahii.n
+mu \:	chakor
+la \:	nahii.n
+mu \:	diiyaa
+la \:	diiyaa nahii.n piyaa
+
+	jiit nahii.n tuu paa_egaa
+mu \:	jo hogaa dekhaa jaa_egaa
+la \:	baat bataa ik raajaa
+mu \:	raanii sab kuchh puuchh le aajaa
+la \:	vo kaun hai \-2
+##girls## \:	vo kaun hai \-2
+
+la \:	vo kaun hai vo kaun hai jo aisii hotii hai
+	dil ta.Dapataa hai usakaa aur aa.Nkh rotii hai
+	bolo bolo
+mu \:	havaa
+la \:	nahii.n
+mu \:	ghaTaa
+la \:	aa haa.n
+mu \:	dhu_aa.N
+la \:	nahii.n
+mu \:	yaad
+la \:	yaad nahii.n fariyaad
+
+mu \:	vo kaun hai vo kaun hai ek ulajhan hotii hai
+	dost nazar aatii hai lekin dushman hotii hai
+	bolo bolo
+la \:	raat
+mu \:	nahii.n
+la \:	ghaat
+mu \:	uu.n hu.n
+la \:	baaraat
+mu \:	nahii.n
+la \:	nishaanii
+mu \:	nahii.n javaanii
+
+	bhed zaraa ye kholo
+la \:	ajii bolo jii kuchh bolo
+mu \:	premapahelii buujho
+la \:	puuchho aijii kuchh bhii puuchho
+
+mu \:	vo kaun hai vo kaun hai parades jaatii hai
+	premiyo.n ke le ke vo sandes aatii hai
+	bolo bolo
+la \:	lagan
+mu \:	nahii.n
+la \:	kiran
+mu \:	nahii.n
+la \:	pavan
+mu \:	uu.n hu.n
+la \:	miTTii
+mu \:	miTTii nahii.n chiTThii
+
+la \:	vo kaun hai vo kaun hai sab ko samajhaataa hai
+	raastaa Kud apane ghar kaa bhuul jaataa hai
+	bolo bolo
+mu \:	dhaaraa
+la \:	nahii.n
+mu \:	taaraa
+la \:	nahii.n
+mu \:	ishaaraa
+la \:	nahii.n
+mu \:	diivaanaa
+la \:	diivaanaa nahii.n a.njaanaa
+%
+#endindian
+\endsong
+

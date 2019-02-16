@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{dil se mile dil mil ga_ii ma.nzil duur hu_ii mushkil}%
+\film{Dil Se Mile Dil}%
+\year{1978}%
+\starring{Bhism, Shyamali, Om Shivpuri, Leela Misra, Abhi Bhattacharya}%
+\singer{Kishor}%
+\music{Bappi Lahiri}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: BOL ANAMOL #10071 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil se mile dil \-2
+mil ga_ii ma.nzil duur hu_ii mushkil dil se mile hai.n dil
+mushkil se mile par mil to ga_e hai.n aaKir aaj ye dil
+dil se dil mil ga_e mil ke yuu.N khil ga_e
+dil se mile dil \threedots
+
+( saaraa jahaa.N gaa rahaa hai banake bahaar chhaa rahaa hai ) \-2
+ko_ii Kushii laa rahaa hai dekho Gam jaa rahaa hai
+dil se dil mil ga_e \threedots
+
+( hai vo hasii.n ham javaa.n hai.n aur usape samaa.N meharabaa.n hai ) \-2
+jhuumate zamii.n aasamaa.N hai.n mahakaa ye gulasitaa.n hai
+dil se dil mil ga_e \threedots
+%
+#endindian
+\endsong
+

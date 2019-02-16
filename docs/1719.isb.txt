@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{thaa tha_ii thatha tha_ii aththatha_ii tha_ii thaT}% 
+\film{Tere Mere Sapne}%
+\year{}%
+\starring{Dev Anand, Mumtaz}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor:  Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+thA thaI thatha thaI aththathaI thaI thaT 
+phirake pag jiyaa gaaye gaaye gaaye 
+thA thaI thatha thaI aththathaI thaI thaT 
+jaane nA huA mujhe kyaa phirake pag jiyaa gaaye gaaye gaaye 
+thA thaI thatha thaI aththathaI thaI thaT 
+
+mahakii rAho.n tak bahakatii chhaaho.n tak 
+piyaa kii baaho.n taq mujhe hai jaanaa 
+ghaTA aaye jhuk jhuk ke havaa chale ruk ruk ke 
+kare dil dhuk dhuk re gaalii maare tan 
+o jaane nA huA mujhe kyaa phirake pag jiyaa gaaye gaaye gaaye 
+thA thaI thatha thaI aththathaI thaI thaT 
+
+nA so_ii akhiyaa.N re rulaaye ratiyaa.n re 
+sataaye sakhiyaa.n re karuu.N hai mai.n kyA 
+zaraa balakhaake aa jaraa ghabaraake aa 
+zaraa laharaake aa dil hai pyAs 
+o jaane nA huA mujhe kya phirake pag jiyaa gaaye gaaye gaaye 
+thA thaI thatha thaI aththathaI thaI thaT 
+
+kah do sitaaro.n se kah do bahaaro.n se 
+kah do nazaro.n se hame.n vo dekhe.n nA 
+rijhaauu.Ngii pii ko manaauu.Ngii pii ko 
+sulaauu.ngii pii ko bichhaake nainaa 
+o jaane nA huA mujhe kya phirake pag jiyaa gaaye gaaye gaaye 
+thA thaI thatha thaI aththathaI thaI thaT 
+%
+#endindian
+\endsong
+%

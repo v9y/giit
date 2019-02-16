@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ye baat hotii hai paidaa janaab baraso.n me.n}%
+\film{Majboor}%
+\year{1964}%
+\starring{Biswajeet, Waheeda Rehman, Naaz}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10946 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye baat hotii hai paidaa janaab baraso.n me.n
+Kudaa banaataa hai aisaa shabaab baraso.n me.n
+ye baat hotii hai \threedots
+
+bahaar aatii hai aur ra.ng\-ruup milate hai.n \-2
+chaman me.n vaise to har roz phuul khilate hai.n
+( chaman me.n khilataa hai ) \-2 tum saa gulaab baraso.n me.n
+Kudaa banaataa hai \threedots
+
+nahii.n ye baat ke tumasaa hasii.n nahii.n hogaa \-2
+yahaa.N nahii.n to vo jahaa.N me.n kahii.n hogaa
+magar milegaa tumhaaraa javaab baraso.n me.n
+Kudaa banaataa hai \threedots
+
+teraa Kyaal hai har vaqt yaad ke qaabil \-2
+magar ye merii nazar bhii hai daad ke qaabil
+( kiyaa hai jisane ) \-2 tumhe.n intiKaab baraso.n me.n
+Kudaa banaataa hai \threedots
+%
+#endindian
+\endsong
+

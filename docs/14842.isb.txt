@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{piyaa bin naahii.n aavat chainaa}%
+\film{Devdaas}%
+\year{1935}%
+\starring{Saigal, Jamuna, Rajkumari, A H Shor, Raju, Nimo, K C Dey}%
+\singer{Saigal}%
+\music{Timir Baran}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+% A thumari rendered by Saigal shot on himself.
+
+\printtitle
+#indian
+
+piyaa bin naa
+bin naa hii.n aavat chainaa
+
+piyaa bin naa naahii.n aavat chainaa
+
+kaase kahuu.N jii ke bainaa
+kaa
+se kahuu.N
+jii ke bainaa
+
+piyaa bin naa aahii.n aavat chainaa
+
+##dialogue##
+
+kaa se kahuu.N jii ke bainaa
+piyaa binaa naahii.n aavat chainaa
+
+#endindian
+\endsong

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aadhaa hai cha.ndramaa raat aadhii}%
+\film{Navrang}%
+\year{}%
+\starring{Mahipal, Sandhya}%
+\singer{Mahendra Kapoor, Asha}%
+\music{C Ramchandra}%
+\lyrics{Bharat Vyas}%
+%
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Neeraj Malhotra (malhotra@bedford.progress.COM)
+%          Khawaja Irfan Anwar
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aadhaa hai cha.ndramaa raat aadhii
+rah na jaae terii merii baat aadhii, mulaaqaat aadhii
+aadhaa hai cha.ndramaa\threedots
+
+aas kab tak rahegii adhuurii
+pyaas hogii nahii.n kyaa ye puurii
+pyaasaa\-pyaasaa gagan pyaasaa\-pyaasaa chaman
+pyaase taaro.n kii bhii hai baaraat aadhii
+aadhaa hai cha.ndramaa\threedots
+
+sur aadhaa hai shyaam ne baa.Ndhaa
+rahaa raadhaa kaa pyaar bhii aadhaa
+nain aadhe khile ho.nTh aadhe hile
+rahii pal me.n milan kii vo baat aadhii
+aadhaa hai cha.ndramaa\threedots
+
+piyaa aadhii hai pyaar kii bhaashhaa
+aadhii rahane do man kii abhilaashhaa
+aadhe chhalake nayan aadhe Dhalake nayan
+aadhii palako.n kii bhii hai barasaat aadhii
+aadhaa hai cha.ndramaa\threedots
+%
+#endindian
+\endsong
+%

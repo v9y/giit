@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ishq hai chaa.Ndii ... ishq bhii kyaa chiiz hai}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Kumar Sanu, Alka Yagnik, Sonu Nigam}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq hai chaa.Ndii ishq hai sonaa ishq hai hiire motii
+ishq agar naa hotaa logo.n ye duniyaa naa hotii
+
+ko_ii ye bataa_o ishq hotaa hai kyaa
+kyuu.n hotaa hai isame.n hotaa hai kyaa
+
+kabhii dil ghabaraa_e kabhii nii.nd u.Dii jaa_e
+kahii.n chain na aa_e ishq bhii kyaa chiiz hai
+ho ishq bhii kyaa chiiz hai
+kabhii dil ghabaraa_e \threedots
+
+ye kyaa chiiz hai
+kabhii sapane dikhaa_e kabhii ummiide.n ba.Dhaa_e
+kabhii dard jagaa_e ishq bhii kyaa chiiz hai
+ho ishq bhii kyaa chiiz hai
+
+dil khoyaa khoyaa rahe ho kuchh bhii naa achchhaa lage
+o jag saaraa jhuuThaa lage o mahabuub sachchaa lage
+ye to hai aisii sazaa aataa hai jisame.n mazaa
+kabhii saavan barasaa_e kabhii shole bha.Dakaa_e
+ka_ii mausam ye dikhaa_e ishq bhii kyaa chiiz hai
+ho ishq bhii kyaa chiiz hai
+
+ho chaahe.n jo bhii umar ho hotaa hai isakaa asar
+mumakin bhulaanaa nahii.n o ye to hai aisaa safar
+dil se dil jo mile hote shuruu silasile
+kabhii kahaa nahii.n jaa_e kabhii sahaa nahii.n jaa_e
+chup rahaa nahii.n jaa_e ishq bhii kyaa chiiz hai
+ho ishq bhii kyaa chiiz hai
+%
+#endindian
+\endsong
+

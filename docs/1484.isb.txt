@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{pyaar mujhase jo kiyaa tumane to kyaa paaogii}%
+\film{Saath Saath}%
+\year{1986}%
+\starring{Farooq Sheikh, Deepti Naval}%
+\singer{Jagjit Singh}%
+\music{Kuldeep Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Sridhar Narayanan (sridhar@math.mcgill.ca)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pyaar mujhase jo kiyaa tumane to kyaa paaogii
+mere haalat kii aa.ndhii me.n bikhar jaogii
+pyaar mujhase jo kiyaa tumane to kyaa paaogii
+
+ra.nj aur dard kii bastii kaa mai.n baashindaa huu.N
+ye to bas mai.n huu.N ke is haal me.n bhii zindaa huu.N
+khvaab kyuu.n dekhuu.N vo kal jisape mai.n sharmindaa huu.N
+mai.n jo sharmindaa huaa tum bhii to sharamaaogii
+pyaar mujhase jo kiyaa \threedots
+
+kyU.n mere saath koi aur pareshaan rahe
+merii duniyaa hai jo vIraan to vIraan rahe
+zindagii kaa ye safar tumako to aasaan rahe
+hamasafar mujhako banaogii to pachhataaogii
+pyaar mujhase jo kiyaa \threedots
+
+ek mai.n kyaa abhii aaye.nge dIvaane kitane
+abhii gU.njege muhabbat ke taraane kitane
+zindagii tumako sunaayegii fasaane kitane
+kyU.n samajhatii ho mujhe bhuul nahii paaogii
+pyaar mujhase jo kiyaa \threedots
+%
+#endindian
+\endsong
+%

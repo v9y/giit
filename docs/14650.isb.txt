@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ek din aap yuu.n hamako mil jaa_e.nge ... maine sochaa na thaa}%
+\film{Yes Boss}%
+\year{1997}%
+\starring{Shahrukh Khan, Juhi Chawala, Aditya Pancholi}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek din aap yuu.n hamako mil jaa_e.nge
+phuul hii phuul raaho.n me.n khil jaa_e.nge
+maine sochaa na thaa
+ek din zi.ndagii itanii hogii hasii.n
+jhuumegaa aasamaa.n gaa_egii ye zamii.n
+maine sochaa na thaa
+
+dil kii Daalii me.n kaliyaa.n khilane lagii.n
+jab nigaahe.n nigaaho.n se milane.n lagii.n
+ek din is tarah hosh kho jaa_e.nge
+paas aa_e.nge madahosh ho jaa_e.nge
+maine sochaa na thaa
+ek din aap yuu.n \threedots
+
+jagamagaatii subah jagamagaatii raat hai
+raat hai yaa sitaaro.n kii baaraat hai
+ek din dil kii raaho.n me.n apane li_e
+jal uThe.nge mohabbat ke itane di_e
+maine sochaa na thaa
+ek din aap yuu.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ham tum yug yug se giit milan kaa}%
+\film{Milan}%
+\year{1967}%
+\starring{Sunil Dutt, Nutan, Jamuna}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham tum yug yug se ye giit milan kaa
+gaate rahe hai.n gaate rahe.nge
+ham tum, jag me.n jiivan saathii banakar
+aate rahe hai.n, aate rahe.nge
+ham tum   \threedots
+
+jab jab hamane jiivan paayaa
+teraa hii ruup sajaa sajanaa
+har baar tumhii.n ne maa.Ng bharii
+tumhii.n ne pahanaayaa ka.Nganaa
+ham phuul bane yaa raakh hue
+par saath nahii.n chhuuTaa apanaa
+har baar tumhii.n tum aan base
+in aa.Nkho.n me.n banakar sapanaa
+ham tum   \threedots
+
+ham aaj kahe.n tumako apanaa
+tum bhii kisii roz paraaye the
+duniyaa samajhii ham bichha.D gaye
+aise bhii zamaane aaye the
+lekin vo judaa honevaale
+ham nahii.n hamaare saaye the
+ham tum   \threedots
+
+%
+#endindian
+\endsong
+%

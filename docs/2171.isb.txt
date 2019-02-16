@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{muskuraatii huii chaa.Ndanii}%
+\film{Albeli}%
+\year{}%
+\starring{}%
+\singer{Hemant, Lata}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: Prithvi Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+la: muskuraatii huii chaa.Ndanii
+    jagamagaataa huaa aasamaa.N
+    le chale ho mujhe tum kahaa.N
+he: do muhabbat bhare dil jahaa.N
+    kah sake pyaar kii daasataa.N
+    le chale ham tumhe.n hai.n vahaa.N
+
+he: kah rahe hai.n nazaare pukaar ke
+    biit jaae naa din ye bahaar ke
+la: sanasanaatii havaao.n ke giit ne
+    taare.n chhe.De hai.n dil ke sitaar ke
+do: ye suhaanaa samaa hai uma.nge.n javaa.N
+    phir khule kyo.N naa dil kii zubaa.N \threedots
+
+la: aaj kaisii suhaanii ye raat hai
+    zi.ndagii me.n nayii ek baat hai
+he: in sitaaro.n kii ra.ngiin chhaa.Nv me
+    do dilo kaa anokhaa ye saath hai
+do: ham tumhaare hue tum hamaare hue
+    pyaar kaa muskuraayaa jahaa.N \threedots
+
+%
+#endindian
+\endsong
+%

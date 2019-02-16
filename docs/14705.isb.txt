@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{zamaane ko ab tak nahii.n hai pataa ... kahii.n shor mach gayaa to kyaa hogaa}%
+\film{Zamaanaa Deewaanaa}%
+\year{1995}%
+\starring{Shahrukh, Jeetendra, Shatrughan, Raveena, Kiran Juneja, Anupam}%
+\singer{Alka Yagnik, Abhijit}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zamaane ko ab tak nahii.n hai pataa
+agar ho ga_ii hamase ko_ii khataa
+kahii.n shor mach gayaa to kyaa hogaa kyaa hogaa kyaa hogaa
+zamaane ko ab tak nahii.n hai \threedots
+
+dekh na aisii nazaro.n se bechain dil ghabaraataa hai
+bin tujhe dekhe dil par ab chain kahii.n na aataa hai
+chho.Do sharaarat karanaa aise muhabbat kar naa
+tho.Daa bahak jaane do nazadiik to aane do
+diivaane zaraa mujhako itanaa bataa
+agar ho ga_ii hamase ko_ii \threedots
+
+kyuu.n kare.n na pyaar ham mauqaa bhii hai tanhaa_ii bhii
+dha.Dakane.n betaab hai.n mausam bhii hai a.nga.Daa_ii bhii
+gorii meraa dil kab se motii churaa luu.n lab se
+baaho.n me.n baahe.n Daalo mujhako gale se lagaa lo
+tumhe.n dekh kar ho rahaa hai nashaa
+agar ho ga_ii hamase ko_ii \threedots
+%
+#endindian
+\endsong
+

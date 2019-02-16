@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chaa.Nd jaane kahaa.N kho gayaa}%
+\film{Main Chup Rahungi}%
+\year{1962}%
+\starring{Sunil Dutt, Meena Kumari}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10135 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	chaa.Nd jaane kahaa.N kho gayaa \-2
+	tumako chehare se pardaa haTaanaa na thaa
+la \:	chaa.Ndanii ko ye kyaa ho gayaa \-2
+	tumako bhii is tarah muskaraanaa na thaa
+ra \:	chaa.Nd jaane kahaa.N \threedots
+
+	pyaar kitanaa javaa.N raat kitanii hasii.n
+	aaj chalate hu_e ( tham ga_ii hai zamii.n ) \-2
+la \:	aa.Nkh merii jhapakane lagii
+	aisaa ulfat kaa jaaduu jagaanaa na thaa
+ra \:	chaa.Nd jaane kahaa.N \threedots
+
+la \:	pyaar me.n beKabar ham kahaa.N aa ga_e
+	merii aa.Nkho.n me.n spane se ( kyuu.N chhaa ga_e ) \-2
+ra \:	do dilo.n kii hai ma.nzil yahaa.N
+	tum na aate to hamako bhii aanaa na thaa \-2
+ra \:	chaa.Nd jaane kahaa.N \threedots
+%
+#endindian
+\endsong
+

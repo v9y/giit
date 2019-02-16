@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ye jo hai huqm mere paas na aaye ko_ii}%
+\film{Saher Hone Tak (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Daag Dehalwi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+ye jo hai huqm mere paas na aaye ko_ii
+isaliye ruuTh rahe hai.n ke manaaye ko_ii
+
+taak me.n hai nigah\-e\-shauq Kudaa Kair kare
+saamane se mere bachataa hu_aa jaaye ko_ii
+
+haal afalaak\-o\-zabii.n kaa jo bataayaa bhii to kyaa
+baat wo hai jo tere dil kii bataaye ko_ii
+
+aapane 'daag' ko mu.Nh bhii na lagaayaa afasos
+usako rakhataa thaa kaleje se lagaaye ko_ii
+
+% The following was not in the version I heard
+
+ho chukaa aish kaa jalasaa to mujhe Kat bhejaa
+aap kii tarah se mehamaan bulaaye ko_ii
+
+#endindian
+\endsong

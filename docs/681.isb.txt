@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{ham jis raste pe chale, us raste pe thii priit kha.Dii}%
+\film{Teri Kasam}%
+\starring{Kumar Gaurav, Poonam Dhillon}%
+\singer{Amit Kumar, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Tue Aug  8 1995
+% Credits: Rajeev Sivaram (rsivaram@cis.ohio-state.edu)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+aa: ham jis raste pe chale, us raste pe thii priit kha.Dii
+   priit ne hamako pahanaa dii, armaano.n kii hathaka.Dii
+   tuu jahaa.N chale, mai.n vahaa.N chaluu.N
+   tuu jahaa.N ruke, mai.n vahaa.N rukuu.N
+la: ham jis raste \threedots
+
+la: (ham anjaane ik duuje kii jaan bane
+    pahale do dil the ab sau armaan bane) \-2
+aa: are jaan ke dekho, ham kaise anjaan bane
+   jaane kab dil Takaraae, jaane kab aa.Nkh se aa.Nkh la.Dii
+la/aa: priit ne hamako \threedots
+
+aa: (mausam hai yaa pyaar kaa ek paiGaam hai
+    isiili_e ye pyaar ba.Daa badanaa hai) \-2
+la: bhuul ga_e ham duniyaa kisakaa naam hai
+   yaad rahe.nge hame.n hameshaa ye din, ye rut, ye gha.Dii
+la/aa: priit ne hamako \threedots
+
+aa: dekho abhii subah thii, ho ga_ii shaam abhii
+la: dil phir ta.Dapaa aayaa thaa, aaraam abhii
+aa: are, apane dil par likh do meraa naam abhii
+la: o chhoTe se saajanaa tuu baate.n karataa hai ba.Dii
+la/aa: priit ne hamako \threedots
+%
+#endindian
+\endsong
+%

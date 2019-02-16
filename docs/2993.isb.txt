@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{ye chaman hamaaraa apanaa hai}%
+\film{Ab Dilli Door Nahin}%
+\year{1957}%
+\starring{Motilal, Romi, Sulochana}%
+\singer{Geeta, Asha, chorus}%
+\music{Dattaram}%
+\lyrics{Shailendra}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date:
+%
+\printtitle
+#indian
+%
+
+aa:  ye chaman hamaaraa apanaa hai
+     is desh pe apanaa raaj hai
+ko:  is desh pe apanaa raaj hai
+aa:  mat kaho ke sar pe Topii hai
+     kaho sar pe hamaare taaj hai
+ko:  kaho sar pe hamaare taaj hai
+aa:  ye chaman hamaaraa apanaa hai \threedots
+
+gii: aatii thii ek divaalii
+aa:  aa aa aa
+ko:  aatii thii ek divaalii
+gii: baraso.n me.n kabhii khushahaalii
+aa:  ab to har ek vaar ek tyauhaar hai
+     ye ubharataa sa.Nvaarataa samaaj hai
+aa:  ye chaman hamaaraa \threedots
+
+aa:  aa aa aa aa
+gii: ye jaan se pyaarii dharatii
+aa:  aa aa aa
+ko:  ye jaan se pyaarii dharatii
+gii: duniyaa kii dulaarii dharatii
+aa:  o ye aman kaa diyaa aa.Ndhiyo.n me.n jalaa
+     saarii duniyaa ko is pe naaz hai
+aa:  ye chaman hamaaraa apanaa hai\threedots
+
+aa:  ho dekh lo kahii.n Gam na rahe kahii.n Gam na rahe
+ko:  kahii.n Gam na rahe kahii.n Gam na rahe
+aa:  o roshanii kahii.n kam na rahe kahii.n Gam na rahe
+ko:  kahii.n Gam na rahe kahii.n Gam na rahe
+aa:  saare sa.nsaar kii aa.Nkh ham pe lagii
+     apane haatho.n me.n apanii laaj hai
+
+ko:  ye chaman hamaaraa apanaa hai
+     is desh pe apanaa raaj hai
+
+%
+#endindian
+\endsong
+%

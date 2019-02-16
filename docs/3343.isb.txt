@@ -1,0 +1,53 @@
+% ITRANS SONG # 3343; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-11-03 16:11:19 PST
+%
+\startsong
+\stitle{he naTawar giriidhaarii muraliidhar banawaarii}%
+\film{Zamindar}%
+\year{1942}%
+\starring{Shanta Apte, Manorama, Ghulam Mohammed}%
+\singer{Shanta Apte, Male Voice}%
+\music{Ghulam Haider}%
+\lyrics{Nazim Paaniipatii, Qamar Jalalabadi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 03 Nov 2002
+%   04 nov 2002 is both Narak-Chaturdashi + Amavasya
+% Comments: This Bhajan makes excellent use of Raag
+%           Yaman.
+%
+\printtitle
+#indian
+%
+he naTawar giriidhaarii, muraliidhar banawaarii
+mohe apane hii ra.ng me.n ra.ng le
+he giriidhar gopaal, swaamii he giriidhar gopaal
+
+apane ra.ng me.n aisaa ra.ng de
+jo mere a.ng a.ng ko ra.ng de
+ra.ng diyaa thaa jo raadhaa ko
+mujh pe wo ra.ng Daal, he prabhu
+he giriidhar gopaal  \threedots
+
+terii liilaa nyaarii
+shyaam muraarii, he banawaarii
+diijo daras na.ndalaal, he prabhu
+he giriidhar gopaal  \threedots
+
+mujh ko man har, jag se kyaa Dar
+tuu mere sa.ng sa.ng hai naTawar
+he dukhabha.njan, he sukhakaarii
+% a male voice joins shanta apte at this point, and
+% the two voices sing together the rest of the song.
+kar do ham ko nihaal, he prabhu
+
+kar do ham ko nihaal
+shyaam muraarii, he banawaarii
+diijoo daras na.ndalaal, he prabhu
+he giriidhar gopaal  \threedots
+%
+#endindian
+\endsong
+%

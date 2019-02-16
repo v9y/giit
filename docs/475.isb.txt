@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{diivaanaa leke aayaa hai, dil kaa taraanaa}% 
+\film{Mere Jeevan Saathi}%
+\year{}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+diivaanaa leke aayaa hai, dil kaa taraanaa \-2 
+dekho kahii.n yaaro.n, Thukaraa nA denaa, meraa nazaraanaa 
+diivaanaa leke \threedots 
+
+aaj kaa din hai, kitanaa suhaanaa, jhuum rahaa pyaar meraa 
+puurii ho.n dil kii, saarii muraade.n, khush rahe yaar meraa 
+ho ho, chaa.Nd saa jiivan saathii mubaarak 
+jiivan me.n AnA
+diivaanaa leke \threedots 
+
+apane bhii hai.n kuchh, khvaab adhuure, kaun ab gine kitane 
+sach to ye hai ke mere, dost ke sapane bhii, hai.n mere apane 
+ho ho, usakii khushii ab, merii khushii hai
+ai dil\-e\-dIvaanaa  
+diivaanaa leke \threedots 
+%
+#endindian
+\endsong
+%

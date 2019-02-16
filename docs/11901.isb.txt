@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{ishq kii badalii chalatii hai ... aa.Nkho.n me.n tumhaarii do jahaa.Nno.n}%
+\film{Haasil}%
+\year{2003}%
+\starring{Jimmy Shergil, Hrishitaa Bhatt}%
+\singer{Shaan, Shweta, Shraddha Pandit}%
+\music{Jatin-Lalit}%
+\lyrics{Kausar Pandey, Vinod Mahendra}%
+%
+% Contributor: BOL ANAMOL #11737 [V S Rawat]
+% Producer: Karma Network Ltd, Director: Tigmanshu Dhulia
+% Audio: Times Music www. timesmusic.com times.music@timesgroup.com
+% Cassette: TCIFI 004 E, Cost: Rs 50/-, CD: 
+% Site: indiatimes.com
+% 
+\printtitle
+#indian
+%
+shwe \:	ishq kii badalii chalatii hai saharaa me.n lahar sii uThatii hai
+	raat ke bujhate taaro.n kii aa.Nkho.n me.n sahar sii dikhatii hai
+
+shaa \:	( aa.Nkho.n me.n tumhaarii do jahaa.Nno.n kaa nashaa
+	tum jo nahii.n to kyaa hai jiine kaa mazaa ) \-2
+	baa.Nho.n me.n naa tum ho naa aaho.n me.n naa tum ho to jiinaa bevajah
+	aa_o paas aa_o yuu.N naa sharamaa_o ai mere hamanavaa
+	aa.Nkho.n me.n tumhaarii do jahaa.Nno.n kaa nashaa
+	tum jo nahii.n to kyaa hai jiine kaa mazaa
+
+	jab se tumhe.n dekhaa maine hai.n sapane javaa.N\-javaa.N
+	tum jo nahii.n kuchh naa kahii.n hai tumase hii ye jahaa.N
+	paas mere aa jaa saa.Nso.n me.n samaa jaa tuu Kushbuu kii tarah
+	dil me.n hamaare Kudaa kii ho naa ho tumhaarii hai jagah
+
+shra \:	tujhe chaa.Nd kaa hai aramaan sahii haasil karanaa aasaan nahii.n
+	laakho.n taare paharaa naa de.n hai aisii ko_ii raat nahii.n
+
+shaa \:	pahalii nazar me.n hii sanam ye dil tumane le liyaa
+	dekhaa mujhe bhuule se hii ye ehasaan kar diyaa
+	chaa.Nd pe hai maanaa sitaaro.n kaa paharaa magar ham chhuu le.nge
+	ruuThe ye jahaa.N bhii ruuThe aasamaa.N bhii naa tumako chho.De.nge
+	aa.Nkho.n me.n tumhaarii do jahaa.Nno.n kaa nashaa
+	he tum jo nahii.n to kyaa hai jiine kaa mazaa
+	aa.Nkho.n me.n tumhaarii do jahaa.Nno.n kaa nashaa
+	tum jo nahii.n to kyaa hai jiine kaa mazaa
+	baa.Nho.n me.n naa tum ho naa aaho.n me.n naa tum ho to jiinaa bevajah
+	aa_o paas aa_o yuu.N naa sharamaa_o ai mere hamanavaa
+%
+#endindian
+\endsong
+

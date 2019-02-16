@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye bekhudii diivaanagii tumhii se hai merii jaan\-e\-jaanaa.n}%
+\film{Tumko Na Bhool Payenge}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Diya Mirza}%
+\singer{Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+ye bekhudii diivaanagii tumhii se hai merii jaan\-e\-jaanaa.n
+aashiqii aavaaragii tumhii se hai merii jaan\-e\-jaanaa.n
+jaan\-e\-jaa.n ye dil meraa tum ko bhulaa naa paa_egaa
+ye bekhudii diivaanagii \threedots
+
+tum mere dil me.n aise base ho
+jaise ki dil kii dha.Dakan bane ho
+tum ko merii jaa.n khabar hii nahii.n hai
+mere li_e tum kyaa ban ga_e ho
+ye bekhudii diivaanagii \threedots
+
+chaahuu.N mai.n tum ko ye aashiqii hai
+is aashiqii me.n ik bekhudii hai
+ye bekhudii bhii diivaanaapan hai
+diivaanepan me.n aavaaragii hai
+ye bekhudii diivaanagii \threedots
+%
+#endindian
+\endsong
+

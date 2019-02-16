@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{do nainaa tumhaare pyaare pyaare}%
+\film{Shrimatiji}%
+\year{1952}%
+\starring{}%
+\singer{Geeta, Hemant}%
+\music{S Mohinder}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada series #11
+%
+\printtitle
+#indian
+%
+
+he : do nainaa tumhaare pyaare pyaare
+     gagan ke ye taare
+     kare.n ye ishaare
+     dil dil se milaaye.nge, dil dil se milaaye.nge
+gii: jiyaa dha.Dake sharam ke maare
+     sajan ham haare
+     chale.nge tere dvaare
+     terii duniyaa.N basaaye.nge, terii duniyaa.N basaaye.nge
+
+he : chuum rahe.n hai.n tujhako pavan ke
+     jho.nke halake\-halake, jho.nke halake\-halake
+gii: dil kii maikhaane me.n khushii ke
+     paimaane hai.n chhalake, paimaane hai.n chhalake
+he : dekho savan ke ha.Nsate nazaare
+     nigaahe.n milaa re
+     papiihaa pukaare
+     ye din phir na aaye.nge, ye din phir na aaye.nge
+gii: do nainaa tumhaare pyaare pyaare   \threedots
+
+gii: pyaar bharaa ek chhoTaa saa dil hai
+     ba.Daa bedard zamaanaa
+he : o mere sapano.n ke saathii
+     milake bichha.D na jaanaa, milake bichha.D na jaanaa
+gii: ye vaade jo nadiyaa kinaare
+     piyaa ne bisaare
+     unhii.n ke sahaare
+     ham jiivan bitaaye.nge, ham jiivan bitaaye.nge
+
+do : do nainaa tumhaare pyaare pyaare   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{muhabbat hamane kii hai aaj ham ikaraar karate hai.n}%
+\film{Baap Numbari Betaa Dus Numbari}%
+\year{1990}%
+\starring{Jackie, Farha, Aditya, Sabeeha, Anjana Mumtaz, Asrani, Gulshan}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+muhabbat hamane kii hai aaj ham ikaraar karate hai.n
+tumhe.n ham pyaar karate hai.n haa.N pyaar
+
+pyaar hai kyo.n hamane na jaanaa thaa
+dil apanaa dilabar viiraanaa thaa
+hamane dha.Dakan ko pahachaanaa thaa
+par mushkil tujhe batalaanaa thaa
+saa.Nso.n me.n dahakaa sholaa raaz\-e\-dil hamane kholaa
+sharaarat hamane kii hai ham kahaa.n inakaar karate hai.n
+ham tumase pyaar karate hai.n \threedots
+
+duur kabhii tumase jab jaa_e.nge
+dard judaa_e ke ta.Dapaa_e.nge
+terii baaho.n me.n ham aa jaa_e.nge
+bin tere kaise rah paa_e.nge
+duniyaa se nahii.n Daranaa hai ab aahe.n nahii.n bharanaa hai
+bagaavat haa.N bagaavat ham diivaane har baar karate hai.n
+tumhe.n ham pyaar karate hai.n \threedots
+%
+#endindian
+\endsong
+

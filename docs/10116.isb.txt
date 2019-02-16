@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pyaar ke jaaduu se thaa ab tak anjaanaa}%
+\film{Albela}%
+\year{2001}%
+\starring{Govinda, Aishwarya Rai, Namrata Shirodkar}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar ke jaaduu se thaa ab tak anjaanaa
+mai.n alabelaa mai.n diivaanaa
+hai ba.Daa paagal na tuune itanaa jaanaa
+tuu alabelaa tuu mastaanaa
+
+palako.n kii galii me.n thaa teraa baseraa
+raat bhar kal maine khvaab dekhaa teraa
+kaise mai.n bataa_uu.n kaisii thii betaabii
+ek pal kahii.n naa chain thaa zaraa bhii
+mujhase kahataa hai meraa dil ab to
+tujhako yaar mushkil hai samajhaanaa
+tuu alabelaa \threedots
+
+tuune dha.Dakano.n pe aisaa jaaduu Daalaa
+jhuumane lagaa hai meraa man matavaalaa
+dekhuu.n jo tujhe to bekhudii sii chhaa_e
+naam luu.n jo rab kaa teraa naam aa_e
+merii jaa.n pe hai teraa haq
+in baato.n se mai.n abhii tak thaa begaanaa
+mai.n alabelaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,32 @@
+% ITRANS SONG
+
+\startsong
+\stitle{rone se aur ishq me.n bebaak ho gaye}%
+\film{? (Non-Film)}%
+\year{1969}%
+\starring{}%
+\singer{Lata}%
+\music{Hridaynath Mangeshkar}%
+\lyrics{Ghalib}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+% Credits: Vinay P Jain
+
+\printtitle
+#indian
+
+rone se aur ishq me.n bebaak ho gaye
+dhoye gaye ham aise ki bas paak ho gaye
+
+kahataa hai kaun naalaa\-e\-bulabul ko be\-asar
+parade me.n gul ki laakh jigar chaak ho gaye
+
+karane gaye the usase taGaaful kaa ham gilaa
+kii ek hii nigaah ki bas Kaak ho gaye
+
+is ra.ng se uThaa_ii kal usane asad kii laash
+dushman bhii jisako dekhake Gamanaak ho gaye
+
+#endindian
+\endsong

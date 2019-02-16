@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{duniyaa kii nazar hai burii zulfe.n na sa.Nvaaraa karo}%
+\film{Agra Road}%
+\year{1957}%
+\starring{Shakeela, Vijay Anand, Bhagwan, Baby Nanda, Satish Vyas, Dhumal}%
+\singer{Rafi, Geeta}%
+\music{Roshan}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10478 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	duniyaa kii nazar hai burii zulfe.n na sa.Nvaaraa karo
+gii \:	jaa_o\-jaa_o be_iimaan balamaa hame.n taane na maaraa karo
+ra \:	duniyaa kii nazar \threedots
+
+	dekh zaraa tuu mu.D ke zaalim sadake aisii chaal ke
+gii \:	mere saamane aanaa balam dil ko zaraa sa.mbhaal ke
+ra \:	aa tere qadamo.n pe dil rakh duu.N gorii jab bhii ishaaraa kare
+gii \:	jaa_o\-jaa_o be_iimaan \threedots
+
+	baato.n hii baato.n me.n ajii ban baiThe diladaar kyo.n
+ra \:	apanaa banaa ke paas bulaa ke phir hamase taqaraar kyo.n
+gii \:	jaa_o tumhe.n paas bulaayaa kisane zaraa duur se nazaaraa karo
+ra \:	duniyaa kii nazar \threedots
+
+	ek to tiikhe nainaa uupar se kajare kii dhaar re
+gii \:	ho jaa_e naa paar jigar ke dodhaarii talavaar re
+ra \:	haay tere pyaar ke maare hai.n nazaro.n se na maaraa karo
+	duniyaa kii nazar \threedots
+%
+#endindian
+\endsong
+

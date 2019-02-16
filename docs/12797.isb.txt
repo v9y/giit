@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{sone ke jaisii hai merii javaanii aake churaa le tuu dilabar jaanii}%
+\film{Maa Tujhe Salaam}%
+\year{2001}%
+\starring{Sunny Deol, Tabbu, Arbaaz Khan, Sudesh Bairi}%
+\singer{Asha, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sone ke jaisii hai merii javaanii
+aake churaa le tuu dilabar jaanii
+saaraa jahaa.N pa.Daa hai piichhe
+khud ko bhalaa sa.mbhaaluu.N kaise
+de jaa tuu chhallaa nishaanii
+aake churaa le \threedots
+
+kuchh kar le
+o sholaa dabaa kabase bha.Dak naa jaa_e re
+siine me.n hai jo dil dha.Dak naa jaa_e re
+palako.n me.n mujhako basaa le tuu
+ho.nTho.n se mujhako lagaa le tuu
+are jaagiir hai ye husn teraa
+tere li_e hai sab kuchh meraa
+kurbaan tujhape diivaanii
+aake churaa le \threedots
+
+resham vaalii chunarii sarak ga_ii joban se o
+ab to lipaT jaa tuu anaa.Dii mere daaman se ho
+haalat hai kyaa kahii naa jaa_e
+duurii zaraa sahii naa jaa_e
+tuu baadashaah mai.n terii begam
+hogii kabhii ye chaahat naa kam
+terii hai ye zi.ndagaanii
+aake churaa le \threedots
+%
+#endindian
+\endsong
+

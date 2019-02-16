@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{diye bujhe bujhe, nainaa thake thake, piyaa dhiire dhiire, chale aao}%
+\film{Sahib Biwi Aur Ghulam}%
+\year{1962}%
+\starring{Rehman, Meena Kumari, Guru Dutt, Waheeda Rehman}%
+\singer{Geeta}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Preetham Gopalaswamy (preetham@eng.umd.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+diye bujhe bujhe, nainaa thake thake
+piyaa dhiire dhiire,  chale aao  \- 3
+
+koI duur se aavaaz de chale aao
+chale aao    \- 3
+
+(raat raat bhar i.ntazaar hai 
+dil dard se beqaraar hai  )   \- 2
+saajan itanaa to naa ta.Dapaao, chale aao
+chale aao    \- 3
+koI duur \threedots
+
+(aas to.Dake mukh mo.Dake  
+kyaa paaoge saath chho.Dake         )   \- 2
+mere man ko ab yuu.N naa itanaa tarasaao
+chale aao    \- 3
+koI duur \threedots
+%
+#endindian
+\endsong
+%

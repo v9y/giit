@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{mujhe jaa.N na kaho, merii jaa.N, merii jaa.N}%
+\film{Anubhav}%
+\year{1971}%
+\starring{Sanjeev Kumar, Tanuja, Dinesh Thakur}%
+\singer{Geeta}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@csn.org)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Malini Kanth
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+merii jaa.N, mujhe jaa.N na kaho merii jaa.N
+merii jaa.N, merii jaa.N
+mujhe jaa.N na kaho merii jaa.N
+merii jaa.N, merii jaa.N
+
+(jaa.N na kaho a.njaan mujhe 
+jaan kahaa.N rahatii hai sadaa )   \- 2
+a.njaane, kyaa jaane
+jaan ke jaae kaun bhalaa
+merii jaa.N
+mujhe jaa.N na kaho merii jaa.N \threedots
+
+suukhe saavan baras gae
+kitanii baar in aa.Nkho.n se
+do buu.Nde.n naa barase
+in bhiigii palako.n se
+merii jaa.N
+mujhe jaa.N na kaho merii jaa.N   \threedots
+
+(ho.nTh jhuke jab ho.nTho.n par
+saa.Ns ulajhii ho saa.Nso.n me.n ) \- 2
+do ju.Davaa.N ho.nTho.n kii
+baat kaho aa.Nkho.n se
+merii jaa.N
+mujhe jaa.N na kaho merii jaa.N   \threedots
+%
+#endindian
+\endsong
+%

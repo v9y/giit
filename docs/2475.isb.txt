@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum sar-e-aam mulaaqaat se Darate kyo.n ho}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Pankaj Udhas}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: SSS (stavron@mindspring.com)
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tum sar\-e\-aam mulaaqaat se Darate kyo.n ho
+ishq karate ho to haalaat se Darate kyo.n ho
+tum sar\-e\-aam mulaaqaat se   \threedots
+
+ye baataa_o to zaraa meraa khayaal aate hii
+din se ghabaraate ho tum, raat se Darate kyo.n ho
+ishq karate ho to   \threedots
+
+tum to kahate ho tumhe.n mujhase muhabbat to nahii.n
+phir judaa_ii ke khayaalaat se Darate kyo.n ho
+ishq karate ho to   \threedots
+
+mujhase khud aa ke lipaT jaanaa sambhal kar haTanaa
+tez hote huii barasaat se Darate kyo.n ho
+ishq karate ho to   \threedots
+
+
+%
+#endindian
+\endsong
+%

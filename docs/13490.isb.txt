@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{baadalo.n me.n chhip rahaa hai chaa.Nd kyuu.N}%
+\film{Phir Teri Kahaani Yaad Aayi}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Pooja Bedi, Avtar Gill, Neena Gupta, Javed Khan}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Qateel Shifai}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	( baadalo.n me.n chhip rahaa hai chaa.Nd kyuu.N
+ku \:	apane husn kii hayaa se puuchh lo
+a \:	chaa.Ndanii pa.Dii hai maa.nd kyuu.N
+ku \:	apanii hii kisii adaa se puuchh lo ) \-2
+
+a \:	merii hasarato.n pe bekhudii sii chhaa ga_ii
+	tumako dekhakar nigaah la.Dakha.Daa ga_ii
+ku \:	merii hasarato.n pe \threedots
+a \:	nigaah la.Dakha.Daa ga_ii
+ku \:	nigaah la.Dakha.Daa ga_ii
+	ho rahaa huu.N mai.n nashe me.n chuur kyuu.N
+a \:	jhuumatii hu_ii fizaa se puuchh lo
+ku \:	ho rahaa hai bin pi_e suruur kyuu.N
+a \:	merii zulf kii ghaTaa se puuchh lo
+	baadalo.n me.n chhip rahaa \threedots
+
+ku \:	duur mujhase Gam hai aur Kushii kariib hai
+	aaj meraa pyaar kitanaa Kushanasiib hai
+a \:	duur mujhase Gam hai \threedots
+ku \:	kitanaa Kushanasiib hai
+a \:	kitanaa Kushanasiib hai
+	chuumataa hai meraa a.ng a.ng kyuu.N
+ku \:	apanii ruuh kii adaa se puuchh lo
+a \:	baj rahe hai.n dil me.n jalatara.ng kyuu.N
+ku \:	giit chhe.Datii havaa se puuchh lo
+a \:	baadalo.n me.n chhip rahaa \threedots
+%
+#endindian
+\endsong
+

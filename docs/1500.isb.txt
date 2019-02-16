@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{raahii manavaa dukh kii chi.ntaa kyo.n sataatii hai}%
+\film{Dosti}%
+\year{}%
+\starring{Sushil Kumar, Sudhir Kumar, Sanjay Khan}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Vishwanath Karra (karra@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dukh ho yaa sukh  % beginning of the song
+jab sadaa sa.ng rahe na koii
+phir dukh ko apanaa_iye
+ki jaae to dukh na hoye
+
+(raahii manavaa dukh kii chi.ntaa kyo.n sataatii hai  % Main song
+dukh to apanaa saathii hai ) \- (2)
+sukh hai ek chhaa.Nv Dhalatii aatii hai jaatii hai
+dukh to apanaa saathii hai
+raahii manavaa dukh kii chi.ntaa kyo.n sataatii hai
+dukh to apanaa saathii hai
+
+duur hai ma.nzil duur sahii
+pyaar hamaaraa kyaa kam hai
+pag me.n kaa.NTe laakh sahii
+par ye sahaaraa kyaa kam hai
+hamaraah tere koii apanaa to hai  (2)
+o\threedots, sukh hai ek chhaa.Nv \threedots
+
+dukh ho koii tab jab jalate hai.n
+path ke diip nigaaho.n me.n
+itanii ba.Dii is duniyaa kii
+lambii akelii raaho.n me.n
+hamaraah tere koii apanaa to hai  (2)
+o\threedots, sukh hai ek chhaa.Nv \threedots
+## (fading voice) ##
+dukh to apanaa saathii hai  (2)
+%
+#endindian
+\endsong
+%

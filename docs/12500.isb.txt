@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{abhii to pa.Dii hai ye umr ye saarii ... tho.Daa intazaar kiijiyegaa}%
+\film{Qudrat Kaa Qaanoon}%
+\year{1987}%
+\starring{Hema Malini, Shafi Inamdar, Jackie Shrof, Radhika, Pran, Asrani}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+abhii to pa.Dii hai ye umr ye saarii
+dil bhii tumhaaraa hai mai.n bhii tumhaarii
+achchhii nahii.n hai ye bekaraarii
+tho.Daa intazaar kiijiyegaa dil na bekaraar kiijiyegaa
+
+chehare se pardaa uThaa_uu.ngii mai.n ulfat ke jazbe dikhaa_uu.ngii mai.n
+mujhape aitabaar kiijiye
+abhii to pa.Dii hai \threedots
+
+zulfo.n ko yuu.n na bikharaa_iye nazadiik mere na aa_iye
+qurban tujhape jaan hamaarii yuu.n na vaar kiijiye
+tho.Daa intazaar kiiji_e dil na bekaraar kiiji_e
+
+madahosh ho na yuu.n la.Dakha.Daanaa
+achchhaa nahii.n hai yuu.n piite jaanaa
+lat hai burii hai itanii khumaarii
+khud pe akhtiyaar kiiji_e
+abhii to pa.Dii hai \threedots
+%
+#endindian
+\endsong
+

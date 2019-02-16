@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ye sochataa hai kyaa zaraa palaT idhar}%
+\film{Grahan}%
+\year{1999}%
+\starring{Jackie, Manisha, Anupama Verma, Achyut Potdar, Amita, Ranjit Kapoor}%
+\singer{}%
+\music{Karthik Raja}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye sochataa hai kyaa zaraa palaT idhar
+ai dekhataa hai kyuu.n bhalaa idhar udhar
+kitanii achchhii mai.n lagatii huu.N dekhaa kyaa
+mai.n kitanii sundar huu.N tuune mujhako samajhaa kyaa
+ye sochataa hai kyaa  \threedots
+
+Daraataa hai kyuu.n tuu aa.Nkhe.n khol khol ke
+dekh gorii gorii mere jaisii dekhaa naa hogaa kahii.n
+maze mohabbat ke mil ke ham uThaa_e.n zaraa
+pyaar karate karate thak ke so jaa_e.n yahaa.n
+kyaa pyaaraa ##time## hai mausam ##fine## hai
+gale lagaa le mujhako mujhame.n tuu kho jaa zaraa
+ye sochataa hai kyaa  \threedots
+
+sa.mbhaal khud ko tuu yuu.n hii baat naa ba.Dhaa
+rok le khud ko tuu aise kadam na uThaa
+ke phir se daaman pe daag lag na jaa_e kahii.n
+tuu ho rusavaa hame.n bhii ye to ma.njuur hii nahii.n
+mere nazadiik na aa aa zaraa hosh me.n aa
+ke ye madahoshii to burii hai ye nashaa buraa
+ye sochataa hai kyaa  \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dil Dhuu.NDhataa hai, phir vahii, fursat ke raat din}%
+\film{Mausam}%
+\year{}%
+\starring{Sanjeev Kumar, Sharmila Tagore}%
+\singer{Bhupinder / Bhupinder, Lata}%
+\music{Madan Mohan}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dil Dhuu.NDhataa hai phir vahii furasat ke raat din \- (2)
+baiThe rahe tasavvur\-e\-jaanaa.N kiye hue
+dil Dhuu.NDhataa hai phir vahii furasat ke raat din\threedots
+
+jaa.Do.n kii narm dhuup aur aa.Ngan me.n leT kar \- (2)
+aa.Nkho.n pe khii.nchakar tere aa.Nchal ke saae ko
+au.ndhe pa.De rahe kabhii karavaT liye hue
+dil Dhuu.NDhataa hai phir vahii furasat ke raat din\threedots
+
+yaa garamiyo.n kii raat jo puravaaIyaa.N chale.n \- (2)
+Tha.nDii safed chaadaro.n pe jaage.n der tak
+taaro.n ko dekhate rahe.n chhat par pa.De hue
+dil Dhuu.NDhataa hai phir vahii furasat ke raat din\threedots
+
+barfiilii sardiyo.n me.n kisii bhii pahaa.D par \- (2)
+vaadii me.n guu.Njatii huii khaamoshiyaa.N sune.n
+aa.Nkho.n me.n bhiige bhiige se lamhe liye hue
+dil Dhuu.NDhataa hai phir vahii furasat ke raat din\threedots
+%
+#endindian
+\endsong
+%

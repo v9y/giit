@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{haa.N kaisaa hai mere dil tuu khilaa.Dii}%
+\film{Gambler}%
+\year{1971}%
+\starring{Dev Anand, Zaahida, Shatru}%
+\singer{Kishor}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor: BOL ANAMOL #10432 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+haa.N kaisaa hai mere dil tuu khilaa.Dii
+bhar ke bhii hai teraa pyaalaa khaalii \-2
+kaisaa hai mere dil \threedots
+
+kyaa nahii.n mere paas \-2
+dhan bhii izzat bhii ba.ngalaa bhii kaar bhii
+jaam bhii sharaab bhii baaG\-o\-bahaar bhii \-2
+are kyaa nahii.n mere paas
+haa he nazare.n nazaare bhii chaa.Nd aur taare bhii
+saaqii maiKaanaa bhii saaraa zamaanaa bhii
+aaj mai.n duniyaa khariid sakataa huu.N
+lekin h.n
+kaisaa hai mere dil \threedots
+
+( zindagii hai ik sigaar
+ho terii zindagii hai ik sigaar ) \-2
+kaun tujhe samajhaa_e
+zor se jitanaa kash khii.nche tuu \-2
+utanii jalatii jaa_e
+aah he apane se khel tuu duniyaa se khel tuu
+zindagii se khel tuu qismat se khel tuu
+tuu sabhii se khel sakataa hai
+lekin
+kaisaa hai mere dil \threedots
+%
+#endindian
+\endsong
+

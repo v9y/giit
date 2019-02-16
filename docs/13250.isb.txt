@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{Kaamosh zindagii ko aavaaz de rahe ho}%
+\film{Naag Mandir}%
+\year{1966}%
+\starring{Mahipal, Vijaya Chaudhary, Indira}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Shiv Kumar Saroj}%
+%
+% Contributor: BOL ANAMOL #11004 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+Kaamosh zindagii ko aavaaz de rahe ho
+TuuTe hu_e haatho.n me.n kyuu.N saaz de rahe ho
+Kaamosh zindagii ko \threedots
+
+benuur merii aa.Nkhe.n aur duur kaa safar hai
+uThate hai.n paa.Nv lekin ( gir jaane kaa bhii Dar hai ) \-2
+par kaaT ke kisii ke paravaaz de rahe ho
+Kaamosh zindagii ko \threedots
+
+aa.Nkho.n se bahataa dariyaa ho.nTho.n pe aah lekar
+saahil pe ham kha.De hai.n ( saahil kii chaah lekar ) \-2
+barbaad mohabbat ko na_e andaaz de rahe ho
+Kaamosh zindagii ko \threedots
+%
+#endindian
+\endsong
+

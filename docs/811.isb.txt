@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{jaan-e-man jaan-e-man tere do nayan}%
+\film{Chhoti Si Baat}%
+\year{}%
+\starring{Amol Palekar, Vidya Sinha}%
+\singer{Yesudas, Asha}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Arati Deo (arati@taj.rice.edu)
+%          umesh d navsariwala (udnavs00@nx20.mik.uky.edu)
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye: jaaneman jaaneman tere do nayan
+chorii chorii leke gae dekho meraa man
+jaaneman jaaneman jaaneman
+aa: mere do nayan, chor nahii.n sajan
+tumase hii khoyaa hogaa kahii.n tumhaaraa man
+jaaneman jaaneman jaaneman
+ye: jaaneman \threedots, aa: mere \threedots
+
+ye: to.D de dilo.n kii duurii, aisii kyaa hai majabuurii
+dil dil se milane de
+aa: jaa, abhii to huii hai yaarii, abhii se hii beqaraarii
+din to zaraa Dhalane de
+ye: chho.D \threedots, aa: abhii to \threedots
+ye: yahii sunate, samajhate, guzar gae jaane kitane hii saavan
+jaaneman \threedots
+aa: mere do \threedots
+
+aa: sa.ng sa.ng chale mere, maare aage piichhe fere
+samajhuu.N mai.n tere iraade
+ye: doshh teraa hai ye to, har din jab dekho
+karatii ho jhuuThe vaade
+aa: sa.ng sa.ng \threedots, ye: doshh teraa \threedots
+aa: tuu na jaane, diivaane, dikhaauu.N tujhe kaise mai.n ye dil kii lagan
+ye: jaaneman \threedots  (aa: laa laa \threedots), aa: mere do \threedots
+
+ye: chhe.De.nge kabhii na tumhe, zaraa batalaado hame,
+kab tak ham tarase.nge
+aa: aise ghabaraao nahii.n, kabhii to kahii.n na kahii.n
+baadal ye barase.nge
+ye: chhe.De.nge \threedots, aa: aise \threedots
+ye: kyaa kare.nge barasake, ke jab murajhaayegaa ye saaraa chaman
+ye: jaaneman \threedots  (aa: laa laa \threedots), aa: mere do \threedots
+%
+#endindian
+\endsong
+%

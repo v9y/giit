@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{haath aayaa hai jab se teraa haath me.n}%
+\film{Dil aur Mohabbat}%
+\starring{Sharmila Tagore, Joy Mukherjee}%
+\singer{Asha, Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{Shevan Rizvi}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+aashaa:   haath aayaa hai jabase teraa haath me.n
+          aa gayaa hai nayaa ra.ng jazabaat me.n
+          mai.n kahaa.N huu.N mujhe ye khabar hii nahii.n
+          tere kadamo.n pe hii gir na jaauu.N kahii.n
+          haath aayaa hai \threedots
+   
+          dil me.n nazaro.n se chhup\-chhupake aayaa hai tuu
+          dil churaakar meraa muskuraayaa hai tuu
+          tuu kahe to \threedots
+          tuu kahe to ek baat tujhase kahuun 
+          meraa saathii nahi.n balakii saayaa hai tuu	\- 2
+   
+          u.ngaliyaa.N jab zamaane kii mujhapar uThe.n
+          kho na jaanaa kahii.n aise haalaat me.n 
+          roshanii zi.ndagii me.n mohabbat se hai
+          varanaa rakhaa hai kyaa chaa.Ndanii raat me.n
+          haath aayaa hai \threedots
+ 
+mahe.ndra: dil ke jazabaat ko mai.n na Thukaraauu.Ngaa 
+          balakii tasaviir\-e\-jazabaat ban jaauu.Ngaa
+          haq mohabbat kaa \threedots
+          haq mohabbat kaa hotaa hai kaise adaa
+          vaqt aayaa to mai.n ye bhii dikhalaauu.Ngaa 	\- 2
+   
+aashaa:   pyaar ke devataa ke kadam chuumakar 
+          zi.ndagii nazar kar duu.Ngii sauGaat me.n
+          ab na ghabaraao ma.nzil kii duurii se tum
+          tum akele nahii.n mai.n bhii huu.N saath me.n
+          haath aayaa hai \threedots
+%
+#endindian
+\endsong
+%

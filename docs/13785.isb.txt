@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{teraa naam jaan\-e\-vafaa hai ... terii bevafaa_ii kaa shikavaa karuu.N to}%
+\film{Raam Avtaar}%
+\year{1988}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa naam jaan\-e\-vafaa hai magar tuu ba.Dii bevafaa hai
+merii jaan tujh par fidaa hai magar tuu ba.Dii bevafaa hai
+
+terii bevafaa_ii kaa shikavaa karuu.N to
+ye merii mohabbat kii tauhiin hogii \-2
+bharii bazm me.n tujhako rusavaa karuu.N to
+ye merii sharaafat kii tauhiin hogii \-2
+terii bevafaa_ii kaa shikavaa \threedots
+
+na mahafil me.n ho.ngii na mele me.n ho.ngii
+ye aapas kii baate.n akele me.n ho.ngii
+mai.n logo.n se terii shiqaayat karuu.N to
+ye merii shiqaayat kii tauhiin hogii \-2
+terii bevafaa_ii kaa shikavaa \threedots
+
+sunaa hai teraa aur bhii ek balam hai
+magar Gam na kar tujhako merii kasam hai
+tujhe besharam bemuravvat kahuu.N to
+ye merii muhabbat kii tauhiin hogii \-2
+terii bevafaa_ii kaa shikavaa \threedots
+%
+#endindian
+\endsong
+

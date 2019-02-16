@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{pyaar kiyaa nahii.n jaataa ho jaataa hai}%
+\film{Barkha}%
+\year{1959}%
+\starring{Anant Kumar, Jagdip Nanda, Shobha Khote,  Leela Chitnis, Achala Sachdev}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10107 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa~
+pyaar kiyaa nahii.n jaataa ho jaataa hai merii jaa.N \-2
+pahalii pahalii naa kaa aadhaa matalab hai haa.N
+pyaar kiyaa nahii.n jaataa \threedots
+
+ye raat bhii hai kuchh aaj garm mere dilabar kaa bhii mijaaz garm \-2
+( haay kyaa kahanaa ) \-2 husn agar hai garm to garmaagarm hai.n ishq ke aramaa.N
+pyaar kiyaa nahii.n jaataa \threedots
+
+har dil kaa qaatil ishq ishq phir bhii hai ma.nzil ishq ishq \-2
+ishq agar naa ho to duniyaa kii mahafil hai viiraa.N
+pyaar kiyaa nahii.n jaataa \threedots
+
+dil aataa hai bas ek baar phir kyo.n naa kar le.n pyaar pyaar \-2
+bas ek baar haay pyaar pyaar
+are Daal ke aa.Nkhe.n aa.Nkho.n me.n mujhe pyaar se kah de balamaa
+pyaar kiyaa nahii.n jaataa \threedots
+%
+#endindian
+\endsong
+

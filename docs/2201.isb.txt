@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{saathii re, tujh bin jiyaa udaas re}%
+\film{Poonam Ki Raat}%
+\year{1965}%
+\starring{Manoj Kumar, Kumud Chhugani}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Aranyak
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+saathii re saathii re
+
+tujh bin jiyaa udaas re
+ye kaisii an_bujh pyaas re
+aajaa aajaa
+saathii re   \threedots
+
+dono.n jahaa.N se duur yahaa.N mai.n
+bhaTak rahii mai.n jaane kahaa.N mai.n
+saathii re   \threedots
+
+naa mai.n kaayaa, naa mai.n chhaayaa
+phir kyo.n Dole, man bharamaayaa man bharamaayaa
+saathii re   \threedots
+
+pyaar kii mai.n an_buujhii kahaanii
+kuchh jaanii aur kuchh an_jaanii
+saathii re   \threedots
+
+%
+#endindian
+\endsong
+%
+

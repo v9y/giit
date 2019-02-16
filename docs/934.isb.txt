@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{kabhii kabhii sapanaa lagataa hai}% 
+\film{Ratnadeep}%
+\year{}%
+\starring{}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ki : kabhii kabhii sapanaa lagataa hai 
+kabhii ye sab apanA lagataa hai 
+tum samajhaa do, man ko kyaa samajhaauu.n 
+aa : kabhI kabhI sapanaa lagataa hai 
+kabhI ye sab apanA lagataa hai 
+tum samajhA do, man ko kyA samajhaauu.n 
+
+aa : mujhe agar baaho.n me.n bhar lo, shaayad tumako chain mile \- 2
+
+ki : chain to us din khoyaa mai.nne, jis din tumase nain mile 
+phir bhI ye achchhaa lagataa hai, magar abhii sapanaa lagataa hai  
+tum samajhaa do, man ko kyA samajhaauu.n 
+
+aa : kabhI kabhI sapanaa lagataa hai 
+kabhI ye sab apanA lagataa hai 
+tum samajhaa do, man ko kyA samajhaauu.n 
+
+ki : chehare pe hai, aur ek cheharaa, kaise use haTaau.n 
+meraa sach gar tum apanA lo, janam janam tarasaauu.n 
+aise sab achchhaa lagataa hai, sab kA sab sapanaa lagataa hai 
+tum samajhaa do, man ko kyA samajhaauu.n 
+
+aa, ki : kabhI kabhI sapanaa lagataa hai 
+kabhI ye sab apanA lagataa hai 
+tum samajhaa do, man ko kyA samajhaauu.n 
+
+ki : kabhI kabhI sapanaa lagataa hai 
+%
+#endindian
+\endsong
+%

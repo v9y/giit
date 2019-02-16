@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{ham dono.n do premii duniyaa chho.D chale}%
+\film{Ajnabi}%
+\year{1974}%
+\starring{Rajesh Khanna, Zeenat Aman, Yogita Bali}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10744 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	ham dono.n do premii duniyaa chho.D chale
+	jiivan kii ham saarii rasme.n to.D chale
+
+ko \:	ai baabuu kahaa.N ja_ibo re
+
+la \:	ham dono.n do premii duniyaa chho.D chale
+ki \:	jiivan kii ham saarii rasme.n to.D chale \-2
+la \:	ho baabul kii aa_e mohe yaad
+	jaane kyaa ho ab isake baad
+do \:	ham dono.n do premii \threedots
+
+ki \:	( jaanaa kahaa.N hai bataa us shahar kaa naam
+la \:	le chal jahaa.N terii marzii ye teraa hai kaam \-2
+ki \:	mujhape hai itanaa aitabaar
+la \:	maine kiyaa hai tujhase pyaar
+la \:	ham dono.n do premii \threedots
+ki \:	jiivan kii ham saarii \threedots
+
+ki \:	he kyaa soch rahii ho
+la \:	huu.N mai.n
+ki \:	haa.N\-haa.N
+la \:	kuchh bhii to nahii.n
+ki \:	bolo naa kuchh to
+
+la \:	( aisaa naa ho tuu kabhii chho.D de meraa saath
+ki \:	phir na kabhii kahanaa dil to.Dane vaalii baat \-2
+la \:	ho maine to kii thii dillagii
+ki \:	achchhaa maine bhii kii thii dillagii
+do \:	ham dono.n do premii \threedots
+%
+#endindian
+\endsong
+

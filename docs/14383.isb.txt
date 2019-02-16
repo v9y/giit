@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{chorii chorii chupake chupake ... teraa jaaduu chal gayaa}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Babul Supriyo, Chorus}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n sach kah rahaa huu.N jaan\-e\-jaa.n
+chorii chorii chupake chupake pahale naa aise dha.Dakataa thaa
+ho naa to ko_ii bechainii thii naa to aise ta.Dapataa thaa
+ho tujhe dekhaa he he he he tujhe dekhaa dil machal gayaa
+teraa jaaduu chal gayaa teraa jaaduu chal gayaa
+
+terii nigaahe.n mastaanii hai.n terii adaa bhii qaatil hai
+saamane jab tuu aa jaa_e hosh me.n rahanaa mushqil hai
+tere gore a.ngo.n pe diivaanaa phisal gayaa ho
+teraa jaaduu chal gayaa \threedots
+
+jaan\-e\-tamannaa mahafil mahafil mai.m tere nagme.n gaataa huu.N gaataa huu.N
+prem taraane gaa gaa ke logo.n kaa dil bahalaataa huu.N
+bas tere ik aa jaane se aalam badal gayaa
+teraa jaaduu chal gayaa \threedots
+%
+#endindian
+\endsong
+

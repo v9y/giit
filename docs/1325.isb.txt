@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{nain tumhaare mazedaar o janaab-e-aalii}%
+\film{Junglee}%
+\year{1961}%
+\starring{Anoop Kumar, Azra, Shammi Kapoor, Saira Bano}%
+\singer{Mukesh, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Satish Subramanian (subraman@myria.cs.umn.edu)
+%          rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mukesh:	nain tumhaare mazedaar o janaab\-e\-aalii    \- 2
+aashaa:	hamako tumase hai pyaar o janaab\-e\-aalii    \- 2
+mukesh:	nain tumhaare mazedaar o janaab\-e\-aalii
+
+pyaar kiyaa tumase kyaa hamane gunaah kiyaa    \- 2
+aap ke ishaaro.n pe khud ko tabaah kiyaa
+banate hai.n hamahii gunahagaar o janaab\-e\-aalii
+nain tumhaare mazedaar o janaab\-e\-aalii
+aashaa:	hamako tumase hai pyaar o janaab\-e\-aalii
+
+aap chaahe kuchh ho, nigaaho.n pe chhaa gaye   \- 2
+merii zi.ndagii me.n bahaar banake aa gaye
+ham hai.n tumhaare talabagaar o janaab\-e\-aalii
+hamako tumase hai pyaar o janaab\-e\-aalii
+mukesh:	nain tumhaare mazedaar o janaab\-e\-aalii
+
+raah me.n pa.De hai.n, huzuur ke gulaam hai.n    \- 2
+giit mere sun lo vafaa ke payaam hai.n
+ham hai.n tumhaare tabedaar o janaab\-e\-aalii
+nain tumhaare mazedaar o janaab\-e\-aalii
+aashaa:	hamako tumase hai pyaar o janaab\-e\-aalii
+%
+#endindian
+\endsong
+%

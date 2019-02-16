@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{nahii.n saamane, ye alag baat hai}%
+\film{Taal}%
+\year{1999}%
+\starring{Aishwarya Rai, Akshay Khanna, Anil Kapoor}%
+\singer{Hariharan}%
+\music{A R Rahman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Achyut Joshi (achyut.joshi@duke.edu)
+% Transliterator: Achyut Joshi (achyut.joshi@duke.edu)   
+% Date: July 26, 1999
+% Credits:
+% Comments:  
+%
+\printtitle
+#indian
+%
+
+dekho chho.Dake kis raste vo jaate hai.n
+saare raste vaapas mere dil ko aate hai.n
+???        
+
+nahii.n saamane, ye alag baat hai
+mere paas hai tuu mere paas hai
+mere saath hai
+
+teraa naam mai.n ne liyaa hai yahaa.N
+mujhe yaad tuu ne kiyaa hai vahaa.N
+(ba.De zor kii aaj barasaat hai) - 2
+mere paas hai \threedots
+
+bichha.Dake bhii mujhase judaa to nahii.n
+Kafaa hai magar bewafaa to nahii.n
+(mere haath me.n hii teraa haath hai) - 2
+mere paas hai \threedots
+
+%
+#endindian
+\endsong
+%

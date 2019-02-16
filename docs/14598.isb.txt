@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tuu bhii beqaraar mai.n bhii beqaraar ... tujhe chhuunaa chaahe saa.Nso.n ke taar}%
+\film{Waqt Ki Aawaaz}%
+\year{1988}%
+\starring{Mithun, Sridevi, Kader Khan, Ranjeet, Shakti Kapoor, Asrani, Mausami}%
+\singer{Mohammed Aziz, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu bhii beqaraar mai.n bhii beqaraar \-2
+tujhe chhuunaa chaahe saa.Nso.n ke taar
+hotaa nahii.n hamase aur intazaar
+tuu bhii beqaraar mai.n bhii \threedots
+
+baaho.n me.n terii simaTane ko betaab mere aramaan kab se
+siine se tere lipaTane ko bechain yah jism\-o\-jaan kab se
+rahaa nahii.n khud pe mujhe iKtiyaar
+tuu bhii beqaraar mai.n bhii \threedots
+
+sau suuraj kii aab li_e hai cheharaa hai vo Gulaab teraa
+taab kahaa.N insaan me.n itanii dekh sake jo shabaab teraa
+teraa husn qudarat kaa ek shaahakaar
+tuu bhii beqaraar mai.n bhii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chaahaa to bahut na chaahe.n tujhe chaahat pe magar ko_ii zor nahii.n}%
+\film{Imtihaan}%
+\year{1994}%
+\starring{Sunny, Saif, Raveena, Shakti, Gulshan, Mohan Joshi, Arun Bakshi}%
+\singer{Kumar Sanu, Bela}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	chaahaa to bahut na chaahe.n tujhe chaahat pe magar ko_ii zor nahii.n ) \-2
+	dil hii to hai jis pe aa hii gayaa dil kaa sanam yah qusuur nahii.n
+	chaahaa to bahut \threedots
+
+be \:	chaahaa to bahut na chaahe.n tujhe \-2 chaahat pe magar ko_ii zor nahii.n
+	dil hii to hai tum pe aa hii gayaa dil kaa sanam yah qusuur nahii.n
+	chaahaa to bahut \threedots
+ku \:	chaahaa to bahut \threedots
+be \:	chaahaa to bahut \threedots
+
+ku \:	teraa naam hai in ho.nTho.n pe siine me.n hai tasviir terii
+	tuune mujhako apanaa maanaa yah hai sanam taqadiir merii
+	o yah hai sanam taqadiir merii
+be \:	dil ye pukaare mil ke sanam ham \-2 ho.nge kabhii ab duur nahii.n
+	chaahaa to bahut \threedots
+
+ku \:	jaane kis tarah vo jiite hai.n jinakaa ko_ii diladaar nahii.n
+	patthar ho.nge unake dil me.n jinako kisii se pyaar nahii.n
+	o jinako kisii se pyaar nahii.n
+be \:	karate na kaise ikaraar tumase \-2 itane bhii ham maGaruur nahii.n
+	chaahaa to bahut \threedots
+%
+#endindian
+\endsong
+

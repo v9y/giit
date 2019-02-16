@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{jalatii hai duniyaa ... pyaar kii gaa.Dii chalatii rahe}%
+\film{Johar Mehmood In Hongkong}%
+\year{1971}%
+\starring{Mehmood, I S Jauhar, Soniya Sahni, Aruna Irani, Pran}%
+\singer{Mukesh, Usha Khanna}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11154 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	jalatii hai duniyaa jalatii rahe sau\-sau ra.ng badalatii rahe
+do \:		pyaar kii gaa.Dii chalatii rahe apanii pyaar kii gaa.Dii chalatii rahe
+ko \:	pyaar kii gaa.Dii \threedots
+
+mu \:	pyaar kii gaa.Dii ba.Dii niraalii jiatanii bharalo utanii khaalii
+ko \:	jiatanii bharalo utanii khaalii
+mu \:	jaat na puuchho paat na puuchho ho dilavaalaa yaa dilavaalii
+ko \:	ho dilavaalaa yaa dilavaalii
+mu \:	he laalaa ho ki laalii ho
+uu \:	seTh ho yaa seThaanii ho
+mu \:	ho raajaa ho yaa raanii ho Daranaa kisii se kyaa
+ko \:	kyaa
+mu \:	duniyaa kaa.NTe badalatii rahe
+do \:	Kud hii jal\-jal maratii rahe
+mu \:	pyaar kii gaa.Dii \threedots
+ko \:	pyaar kii gaa.Dii \threedots
+
+mu \:	dil kii TikaTe.n ruup kaa Dabbaa pyaar kaa i.njan vaah\-vaah rabbaa
+ko \:	pyaar kaa i.njan vaah\-vaah rabbaa
+mu \:	laal jhaNDii haath me.n le ke aa_e beshak ammii\-abbaa
+ko \:	aa_e beshak ammii\-abbaa
+mu \:	he maamaa ho ki maamii ho
+uu \:	naanaa ho ki naanii ho
+mu \:	daadaa ho ki daadii ho Daranaa kisii se kyaa
+ko \:	kyaa
+mu \:	haath ##family## malatii rahe
+do \:	koyalaa ban ke jalatii rahe
+	pyaar kii gaa.Dii \threedots
+ko \:	pyaar kii gaa.Dii \threedots
+
+%
+#endindian
+\endsong
+

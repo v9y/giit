@@ -1,0 +1,60 @@
+% 
+\startsong
+\stitle{are na na na na na na tobaa tobaa}%
+\film{Mr. and Mrs. 55}%
+\year{1955}%
+\starring{Johnny Walker, Yasmin}%
+\singer{Rafi, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Ikram Ahmed Khan (iak1111@tamu.edu) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Wed Aug  2 1995
+% Credits: Surajit
+%
+\printtitle
+#indian
+%
+gii: are na na na na na na tobaa tobaa 	
+% 					% Yes toba and not tauba
+     mai.n na pyaar karuu.Ngii     
+% 					% Some singing license used
+     mai.n na pyaar karuu.Ngii kabhii kisiise
+     tobaa re balam tobaa tobaa
+
+ra:  are vaah vaah vaah vaah aisaa ka_i_saa hogaa
+     tobaa kaay_ko karataa                 
+%					% Some more license used on kaisa 
+     tobaa kaay_ko karataa pyaar se Darataa        
+% 					% and kaaheko 
+     aisaa re sanam ka_i_saa hogaa
+
+ra: (dard\-e\-jigarr se mai.n ##weak## huu.N bahut, karro aisaa naa julam
+     are ho jaaye.ngaa ##phail## abhii ##hearrt## hamaarraa tere sarrr kii kasam!)\-2
+gii: (chhi chhi chhi chhi chhi chhii, karo naa aisii baat
+     dekho dekho dekho, chho.Do jii meraa haath)\-2
+ra:  are vaah vaah vaah vaah aisaa ka_i_saa hogaa \threedots
+
+ra: (tuu jo kahe dharatii me.n kuaa.N khod Daaluu.N, duu.N ye duniyaa ujaa.D
+     tuu jo kahe cha.Dh jaauu.N lambe\-lambe pe.D, uu.Nche\-uu.Nche yah pahaa.D) \-2
+gii: riichh kaa tuu a.nkal, bandar kaa tuu baap
+ra:  maaraa baap!
+gii: Thoko nahii.n ba.nDal, raho jii chup\-chup
+     riichh kaa tuu a.nkal, bandar kaa tuu baap
+     Thoko nahii.n ba.nDal, raho jii chup\-chup
+ra:  are vaah vaah vaah vaah aisaa ka_i_saa hogaa \threedots
+
+     sach kaho raat ko akele me.n dha.Dakataa to hogaa teraa dil
+     karataa to hogaa teraa man karuu.N do\-do batiyaa.N kisii se hilamil
+gii: huu.N mai.n ko_ii rogii, ajab terii baat,
+     sotii huu.N maze se mai.n saarii saarii raat
+ra:  em ke?
+gii: huu.N mai.n ko_ii rogii, ajab terii baat,
+     sotii huu.N maze se mai.n saarii saarii raat
+ra:  are vaah vaah vaah vaah aisaa ka_i_saa hogaa \threedots
+
+%
+#endindian
+\endsong
+%

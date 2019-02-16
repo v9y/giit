@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{maanaa ki tere pyaar me.n rusavaa_iyaa.N to hai.n}%
+\film{Dil Sachcha Chehra Jhootha}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{J Jagdish}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10258 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+maanaa ki tere pyaar me.n rusavaa_iyaa.N to hai.n
+rusavaa_iyo.N se pyaar ho hamako to kyaa kare.n
+maanaa ki tere pyaar \threedots
+
+aramaa.n bujhe\-bujhe se hai.n saa.Nse.n dhu_aa.N\-dhu_aa.N
+ham to bharii bahaar me.n tanahaa rahe yahaa.N
+tanahaa_iyo.n se pyaar ho hamako to kyaa kare.n
+maanaa ki tere pyaar \threedots
+
+hamako milii nasiib se kyaa Kuub ye Kushii
+parachhaa_iyo.n kii chhaa.Nv me.n bhaTake ye zindagii
+parachhaa_iyo.n se pyaar ho hamako to kyaa kare.n
+maanaa ki tere pyaar \threedots
+%
+#endindian
+\endsong
+

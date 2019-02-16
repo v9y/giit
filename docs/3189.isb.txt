@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{rut phire par din hamaare}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Waheeda Rehman, Mala Sinha}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+%Contributor:Satish Kalra
+%Transliterator:Srinivas Ganti
+%Date:18 July,2001
+% Comments: The song was later dropped from the film
+%
+\printtitle
+#indian
+%
+rut phire par din hamaare, phire naa phire naa phire naa
+rut phire par din hamaare
+
+(dharti pe ra.ng chhaayaa, duniyaa ke bhaag jaage
+lekin vahii andheraa ab tak hai apane aage)\-2
+rut phire par din hamaare \threedots
+
+pahu.Nchii naa apanii naiyyaa,ab tak kisii kinaare\-2
+koii nahii.n jo hamako apanii taraf pukaare
+(is paar kuchh nahii.n hai us paar kuchh nahii.n hai
+apane liye sivaae majhadhaar kuchh nahii.n hai)\-2
+rut phire par din hamaare \threedots
+
+%
+#endindian
+\endsong
+%

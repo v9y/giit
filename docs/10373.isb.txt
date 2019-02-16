@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{naino.n se nain hu_e chaar aaj meraa dil aa gayaa}%
+\film{Aurat}%
+\year{1953}%
+\starring{Premnath, Bina Rai, Ulhas}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10818 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+naino.n se nain hu_e chaar aaj meraa dil aa gayaa
+aramaa.N pe chhaa_ii hai bahaar aaj meraa dil aa gayaa
+
+ghuu.NghaT se jhaa.Nke mere dil ke ishaare
+dha.Dakan me.n aan base ban ke hamaare
+dulhan banegaa meraa pyaar aaj meraa dil aa gayaa
+naino.n se nain \threedots
+
+ghar me.n hii aaj mere gulashan khilaa hai
+kahane kii baat nahii.n hiiraa milaa mujhe hiiraa milaa hai
+baat ba.Dii hai mazedaar aaj meraa dil aa gayaa
+naino.n se nain \threedots
+
+ulfat ke saaz chhi.De chaahat kaa giit hai
+nagame.n bhii bol uThe terii hii jiit hai
+Kushiyaa.N manaa_e.Nge hazaar aaj meraa dil aa gayaa
+naino.n se nain \threedots
+%
+#endindian
+\endsong
+

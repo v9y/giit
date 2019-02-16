@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{rut hai suhaanii baadal chhaa_e re}%
+\film{Thes}%
+\year{1949}%
+\starring{Shashikala, Poornima, Bharat Bhushan, Himmat Roy, Gyani}%
+\singer{Mukesh}%
+\music{Snehal Bhatkar}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: BOL ANAMOL #11422 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ko \:	( rut hai suhaanii ) \-4 baadal chhaa_e re
+	ham to sajan parades se aa_e re
+	rut hai suhaanii \-3
+
+mu \:	chham\-chham chham\-chham barasat paanii
+	bhiig ke kyaa nikharii hai javaanii
+ko \:	chham\-chham \threedots
+mu \:	mast pavan raag sunaa_e re
+ko \:	ham to sajan parades \threedots
+
+mu \:	paayal so_e giit jagaa_e
+	tore nainan maa kaajal muskaa_e
+mu \:	paayal so_e \threedots
+mu \:	dil kii dha.Dakan samajhaa_e re
+ko \:	ham to sajan parades \threedots
+
+mu \:	dil kii baat chhupaane vaale
+	dekh ke yuu.N sharamaane vaale
+ko \:	dil kii baat \threedots
+mu \:	chitavan dete hai.n batalaa_e re
+ko \:	ham to sajan parades \threedots
+%
+#endindian
+\endsong
+

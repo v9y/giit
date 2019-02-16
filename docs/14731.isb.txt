@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{maa.N ne kahaa mujhase sadaa ... maa.N ne kahaa chhaa_e ghaTaa}%
+\film{Zakhm}%
+\year{1998}%
+\starring{Ajay Devgan, Sonali Bendre, Pooja Bhatt, Nagarjuna}%
+\singer{M M Kreem/ Chitra}%
+\music{M M Kreem}%
+\lyrics{Anand Bakshi}%
+%
+% contributor: BOL ANAMOL #11798 [V S Rawat]
+% producer: Pooja Bhatt Productions, Pooja Bhatt
+% director: Mahesh Bhatt
+% audio: HMV, The Gramaphone Comapny of India Ltd.
+% cassette: NHF 810337 Stereo, Cost: Rs 45/-, CD: 
+%
+\printtitle
+#indian
+%
+em \:	maa.N ne kahaa mujhase sadaa
+	tuu phuul meraa meraa chaa.Nd hai
+	naa chaa.Nd naa phuul huu.N
+	raste kii mai.n dhuul huu.N
+
+	ta raa raa aa aa aa
+% 
+% Part 2:
+%
+chi \:	la la laa la laa
+	o o o laa laa la laa
+
+	la la laa laa la laa laa
+	o o o
+	la la laa laa la laa laa
+%
+% Part 3:
+%
+em \:	maa.N ne kahaa chhaa_e ghaTaa
+	to barase paanii ye paanii magar
+	aa.Nkho.n me.n kyuu.N aa gayaa
+	baadal kahaa.N chhaa gayaa
+
+	kitanii ba.Dii hai ye duniyaa mai.n kitanaa akelaa
+	o o o
+	bilkul akelaa mai.n TuuTe khilauno.n se khelaa
+	ho o o ho o
+	ye kaisaa jiivan milaa mujhako Kairaat me.n
+	ho o o ho o
+	huu.N huu.N hu.N huu.N
+%
+#endindian
+\endsong

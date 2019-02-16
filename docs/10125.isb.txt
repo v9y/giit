@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye ishq hai ye junuun hai ... ye prem hai ... tum bachoge kis tarah}%
+\film{Auzaar}%
+\year{1997}%
+\starring{Salman Khan, Sanjay Kapur, Shilpa Shetty}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye ishq hai ye junuun hai ye dard hai ye sukuun hai
+ye prem hai prem hai prem hai
+tum bachoge kis tarah kyaa ye aasaan kaam hai
+dil ke sau Tuka.De hai.n har Tuka.De pe teraa naam hai
+tuu hii merii subah tuu hii merii shaam hai
+tuu hii merii duniyaa tuu hii merii jaan hai
+ye ishq hai ye junuun hai \threedots
+
+muhabbat karane vaale ek hii dil me.n rahate hai.n
+mai.n unake dil me.n rahatii huu.N vo mere dil me.n rahate hai.n
+le ke a.nga.Daa_iiyaa.n shabaab kii tarah
+khilane lagii mai.n gulaab kii tarah
+mausam nashiilaa sharaab kii tarah
+
+le ke tujhe baaho.n me.n ghuumataa phiruu.n
+baalo.n ko gaalo.n ko chuumataa phiruu.n
+tuu hii bekaraarii merii tuu hii karaar hai
+meraa jiinaa maranaa ab se tere hii naam hai
+tum bachoge kis tarah \threedots
+%
+#endindian
+\endsong
+

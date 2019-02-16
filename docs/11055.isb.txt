@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil lagaa liyaa maine tumase pyaar karake}%
+\film{Dil Hai Tumhaara}%
+\year{2002}%
+\starring{Jimmy Shergil, Arjun Rampal, Preity Zinta, Mahima Chaudhary, Rekha}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil lagaa liyaa maine tumase pyaar karake
+dil churaa liyaa maine ikaraar karake
+dil lagaa liyaa \threedots
+
+mere dilajaanii mere maahii mere Dholanaa
+ko_ii sun legaa zaraa dhiire dhiire bolanaa
+haa.N ishq kiyaa hai maine chorii nahii.n kii hai
+tere sa.ng yaaraa joraa jorii nahii.n kii hai
+chain le liyaa maine bekaraar karake
+dil lagaa liyaa \threedots
+
+biich safar me.n kahii.n meraa saath chho.D ke
+tujhako kasam hai na_iyo.n jaanaa dil to.D ke
+kaise mai.n bataa_uu.N tujhe kaisaa meraa haal ve
+jiinaa maranaa hai sab ab tere naal ve
+tujhako paa liyaa teraa i.ntazaar karake
+dil lagaa liyaa \threedots
+%
+#endindian
+\endsong
+

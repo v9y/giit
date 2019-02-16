@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{had se zyaadaa aatii hai mujhako merii jaa.n terii yaad}%
+\film{Chehara}%
+\year{1999?}%
+\starring{Ayub Khan, Madhu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+had se zyaadaa aatii hai mujhako merii jaa.n terii yaad
+ik tere aane se pahale ik tere jaane ke baad
+had se zyaadaa \threedots
+
+jab bhii aa_e ko_ii aahaT yuu.n lage tum aa ga_e
+kyaa bataa_uu.n kaise tum yaado.n pe merii chhaa ga_e
+o mai.n dilaasaa deke apane pyaar ko samajhaatii huu.N
+tum chale jaa_oge aisaa soch ke ghabaraatii huu.N
+had se zyaadaa \threedots
+
+jaagatii huu.N le ke karavaT ab to saarii raat mai.n
+sochatii huu.N har gha.Dii bas ab to terii baat mai.n
+is havaa pe apane dil kaa haal likh ke bhejataa huu.N
+kis tarah bechain ho ke teraa rastaa dekhataa huu.N
+had se zyaadaa \threedots
+%
+#endindian
+\endsong
+

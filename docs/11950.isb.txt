@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{sulagatii hai.n aa.Nkhe.n ... gale se lagaa lo ki jii chaahataa hai}%
+\film{Insaaf/ The Final Justice}%
+\year{1997}%
+\starring{Akshay Kumar, Shilpa Shetty, Ranjeet, Paresh, Aloknath, Mohan Joshi}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sulagatii hai.n aa.Nkhe.n tarasatii hai.n baahe.n gale se lagaa lo ki jii chaahataa hai
+mujhe khaaq kar do mujhe raakh kar do mujhe phuu.nk Daalo ki jii chaahataa hai
+sulagatii hai.n \threedots
+
+udhar bhii hai tuufaa.n idhar bhii hai tuufaa.n bha.nvar se nikaalo ki jii chaahataa hai
+sulagatii hai.n \threedots
+
+yahaa.n tak to pahu.nche yahaa.n tak to aa_e sanam tujh pe Daaluu.n zulfo.n ke saa_e
+ye rukanaa machalanaa machalakar sa.mbhalanaa ye parade haTaa do ki jii chaahataa hai
+sulagatii hai.n \threedots
+
+bahaaro.n ke din hai.n javaanii kii raate.n ye do chaar hai.n meharabaanii kii raate.n
+nashaa aa rahaa hai sabar jaa rahaa hai ye raate.n manaa lo ki jii chaahataa hai
+sulagatii hai.n \threedots
+%
+#endindian
+\endsong
+

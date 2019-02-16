@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{shaam hone ko hai}%
+\film{Soz (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+shaam hone ko hai
+shaam hone ko hai 
+laal suuraj sama.ndar me sone ko hai
+aur usake pare
+kuchh pari.nde kataare.n banaa_e
+unhii.n ja.ngalo.n ko chale
+jinake pe.Do.n kii shaakho.n pe hai.n gho.nsale
+ye pari.nde vahii.n lauTakar jaa_e.Nge
+aur so jaa_e.Nge
+shaam hone ko hai
+laal suuraj \threedots
+
+ham hii hairaan hai.n
+in makaano.n ke ja.ngal me.n apanaa ko_ii bhii Thikaanaa nahii.n
+shaam hone ko hai
+ham kahaa.n jaa_e.Nge
+shaam hone ko hai
+laal suuraj \threedots
+shaam hone ko hai
+ham kahaa.n jaa_e.Nge
+%
+#endindian
+\endsong
+

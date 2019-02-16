@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chham chham naachat aaii bahaar}%
+\film{Chhaaya}%
+\year{1961}%
+\starring{Sunil Dutt, Asha Parekh}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Dinesh K. Prabhu (prabhu@amelia.nas.nasa.gov)
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chham chham naachat aaI bahaar     \- 2
+paaT paaT ne lii anga.DaaI
+jhuum rahii hai Daar Daar
+chham chham naachat aaI bahaar     \- 2
+
+(mahak rahii hai phulavaarii 
+nikharii kyaarii kyaarii    )     \- 2
+phuul phuul par joban aayaa
+kalii kalii ne kiyaa si.ngaar
+chham chham naachat aaI bahaar     \- 2
+
+(man matavaaraa Dole  
+jaane kyaa kyaa bole  )     \- 2
+naI navelii aashaa jaagii
+jhuumat manavaa baar baar
+chham chham naachat aaI bahaar     \- 2
+%
+#endindian
+\endsong
+%

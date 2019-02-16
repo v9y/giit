@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{kyaa se kyaa ho gayaa, bevafaa, tere pyaar me.n}%
+\film{Guide}%
+\year{1965}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kyaa se kyaa ho gayaa
+bevafaa .a.a.a
+tere pyaar me.n
+chaahaa kyaa kyaa milaa
+bevafaa .a.a.a
+tere pyaar me.n
+
+chalo suhaanaa bharam to TuuTaa
+jaanaa ke husn kyaa hai
+ho o o
+chalo suhaanaa bharam to TuuTaa
+jaanaa ke husn kyaa hai
+kahatii hai jisako pyaar duniyaa
+kyaa chiiz kyaa balaa hai
+dil ne kyaa naa sahaa
+bevafaa .a.a.a
+tere pyaar me.n
+chaahaa kyaa \threedots
+
+tere mere dil ke biich ab to
+sadiyo.n ke faasale hai.n
+ho o o
+tere mere dil ke biich ab to
+sadiyo.n ke faasale hai.n
+yaqiin hogaa kise ki ham tum ik raah sa.ng chale hai.n
+honaa hai aur kyaa
+bevafaa .a.a.a
+tere pyaar me.n
+chaahaa kyaa \threedots
+%
+#endindian
+\endsong
+%

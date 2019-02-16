@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{aap yahaa.N aaye kisaliye? aapane bulaayaa isaliye}%
+\film{Kal Aaj Aur Kal}%
+\year{1971}%
+\starring{Randhir Kapoor, Babita}%
+\singer{Kishore, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: Rajan P. Parrikar + (parrikar@csn.org)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+a:   aap yahaa.N aaye kisaliye?
+k:   aapane bulaayaa isaliye
+a:   aaye hai.n to kaam bhii bataa_iye
+k:   haa.n haa.n haa.n pahale zaraa aap muskuraa_iye
+a:   muskuraane kii na koI baat hai
+k:   ajii dekhiye to kyaa hasIn raat hai
+a:   oh kaam to bataa_iye bataa_iye
+k:   na na na pahale zaraa aap muskuraa_iye
+a:   aap yahaa.N aaye kisaliye??
+
+k:   tere binaa haay
+a:   kyaa?
+k:   nI.nd nahii.n aatii hai
+a:   achchhaa?
+k:   yaad terii aakar
+a:   aahaa
+k:   roz ta.Dapaatii hai
+a:   sachamuch?
+k:   apanaa banaalo
+a:   a?
+k:   haath zaraa thaam lo
+a:   vaah vaah vaah
+k:   baar baar dekho naa
+a:   kyaa?
+k:   dil se hii kaam lo
+a:   are baabaa kaam to bataa_iye
+k:   kaam sIdhaa saadhaa hai
+a:   achchhA?
+k:   ajI lenaa ek vaadaa hai
+a:   kyaa?
+k:   aajaa aajaa shaadii kaa iraadaa hai, shaadii kaa iraadaa hai
+a:   shaadii? aur tumase?
+k:   haa.n haa.n! shaadii kaa iraadaa hai
+a:   shaadii? naa baabaa naa
+k:   magar kyo.n??
+a:   shaadii to barabaadii hai
+k:   kyaa kahatii ho?
+a:   nahii.n jaatii hai aazaadii hai
+k:   nahii.n nahii.n monaa! suno to \threedots
+a:   Taa Taa, baaI baaI \threedots
+k:   oh ho aap yahaa.N aaye kisaliye
+aap ne bulaayaa isaliye
+aaye hai.n to kaam bhii bataa_iye
+pahale zaraa aap muskuraa_iye
+%
+#endindian
+\endsong
+%
+

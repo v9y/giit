@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{apanaa hai phir bhii apanaa ba.Dhakar gale lagaa le}%
+\film{Bhaai Bhaai}%
+\year{1956}%
+\starring{Ashok Kumar, Nirupa Roy, Kishore, Shyama, Nimmi}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10558 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+apanaa hai phir bhii apanaa ba.Dhakar gale lagaa le
+achchhaa hai yaa buraa hai apanaa use banaa le
+
+mat soch tere dil me.n ye kaisii kash\-ma\-kash hai
+jo khii.nchatii hai tujhako vo Kuun kii qashish hai
+pardaa pa.Daa hu_aa hai jo daramiyaa.N uThaa le
+apanaa hai phir bhii \threedots
+
+chup hai zubaan phir bhii apanaa lahuu pukaare
+tum ek aasamaa.N ke TuuTe hu_e ho taare
+nazare.n to mil ga_ii hai.n ab dil se dil milaa le
+apanaa hai phir bhii \threedots
+%
+#endindian
+\endsong
+

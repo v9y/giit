@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{dil to hai diivaanaa naa}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Rafi, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil to hai diivaanaa naa
+maanegaa bahaanaa na, ruk jaanaa
+dil kii baato.n me.n na aanaa
+diivaanaa to diivaanaa
+dil to hai diivaanaa na \threedots
+
+rukatii hai kahaa.N dil kii a.Ngadaa_iyaa.N
+jhuum jaa mil ke gale
+zaraa dhiire kaho man kii shahanaa_iyaa.N
+pagale koii sun na le
+karegaa koii kyaa
+merii jaa.N, kaho haa.N
+chup!
+kyo.n chup
+dil to hai diivaanaa na \threedots
+
+Daratii huu.N koii tuufaa.N na uThe koii
+shor karuun yaa chup rahuu.N
+ham to Thahare naadaa.N tum to nahii.n
+khud samajh lo kyaa kahuu.N
+tum ho ba.De vo
+merii jaa.N kaho haa.N
+chup!
+to chup
+dil to hai diivaanaa na \threedots
+
+%
+#endindian
+\endsong
+%

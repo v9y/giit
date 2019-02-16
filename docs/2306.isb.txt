@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{dil kaa nazaraanaa le, o diladaar le}%
+\film{Chalaak}%
+\year{1973}%
+\starring{}%
+\singer{Asha, Kishore}%
+\music{Ganesh}%
+\lyrics{Hasrat}%
+%
+% Contributor: Misri
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ki : dil kaa nazaraanaa le, o diladaar le
+     ye sachchaa pyaar hai, meraa pyaar le
+     dil kaa nazaraanaa le   \threedots
+
+aa : dil kii nishaanii le, mere yaar le
+     ye sachchaa pyaar hai, meraa pyaar le
+     dil kii nishaanii le   \threedots
+
+ki : aasamaan to nahii.n jo badal jaa_uu.Ngaa
+     pyaar kaa ra.ng kachchaa nahii.n
+aa : mai.n ne dekhe yahaa.N pe hazaaro.n sanam
+     baat kaa koii sachchaa nahii.n
+ki : haa.N, ham to vo nahii.n, kar lo yakii.n merii vafaa_o.n kaa
+     ye sachchaa pyaar hai, meraa pyaar le
+aa : ye sachchaa pyaar hai meraa pyaar le   \threedots
+
+ki : ham gale milake aao ye vaadaa kare.n
+     zi.ndagii bhar na ho.nge judaa
+aa : ab tumhii.n sab kuchh ho hamaare liye
+     jaan\-o\-dil se ham tumape fidaa
+ki : o sanam, mai.n huu.N pavan, tuu hai chaman merii muhabbat kaa
+     ye sachchaa pyaar hai meraa pyaar le
+aa : ye sachchaa pyaar hai meraa pyaar le
+ki : dil kaa nazaraanaa le o diladaar le
+aa : dil kii nishaanii le o diladaar le
+do : ye sachchaa pyaar hai meraa pyaar le
+
+%
+#endindian
+\endsong
+%

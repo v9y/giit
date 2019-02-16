@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kyaa sochataa hai ai dil kyaa savaal karataa hai}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa sochataa hai ai dil kyaa savaal karataa hai
+ye pyaar to sabhii kaa buraa haal karataa hai
+kyaa sochataa hai ai \threedots
+
+jisane pyaar kiyaa dil kaa etabaar kiyaa
+usane to khud hii apanaa bas jiinaa dushvaar kiyaa
+pahate to dil lagaa ke phir dard miiThaa paa ke kyaa kamaal karataa hai
+ye pyaar to sabhii kaa \threedots
+
+jaataa hai ik nazar me.n dil kaa sukuun saaraa
+detaa jo bekaraarii lagataa hai vo hii pyaaraa
+kyaa ham bataa_e.n kaise mat puuchho kaise kaise kyaa kamaal karataa hai
+ye pyaar to sabhii kaa \threedots
+%
+#endindian
+\endsong
+

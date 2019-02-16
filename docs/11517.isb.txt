@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{saaDDe te ve.De buuTaa a.nguur daa ... jo.Dii e jachadii na_ii.n}%
+\film{Gadar - Ek Prem Katha}%
+\year{2001}%
+\starring{Sunny Deol, Ameesha Patel, Amrish Puri}%
+\singer{Priti Uttam, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+saaDDe te ve.De buuTaa a.nguur daa
+mu.nDaa te lagge jive.n pe.D khajuur daa
+jo.Dii e jachadii na_ii.n ve
+ke a.Deyo jo.Dii e jachadii na_ii.n
+
+o_e ku.Dii te saaDDii e phull gulaab daa
+mu.nDaa te dasso puttar ke.De navaab daa
+ve a.Deyo jo.Dii e jachadii na_ii.n \threedots
+
+saaDDe te ve.De buuTaa anaar daa
+mu.nDaa te vekho kive.n a.Nkhiyaa.n maaradaa
+jo.Dii e jachadii na_ii.n
+ke a.Deyo jo.Dii e jachadii na_ii.n
+
+saaDDe te baagaa.n vich pak ga_iyaa.n ambiyaa.n
+pyaar diiyaa.n raataa.n dekho ho ga_iyaa.n lambiyaa.n
+saaDDe te mehar karo
+o rabajii aaDDe te mehar karo
+%
+#endindian
+\endsong
+

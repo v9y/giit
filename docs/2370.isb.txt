@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kabhii chaa.Nd kii tarah Tapakii ... aTThannii sii zi.ndagii}%
+\film{Jahan Tum Le Chalo}%
+\year{}%
+\starring{}%
+\singer{Hariharan}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+kabhii chaa.Nd kii tarah Tapakii, kabhii raah me.n pa.Dii paa_ii
+aTThanniisii zi.ndagii, ye zi.ndagii
+kabhii chii.nk kii tarah khanakii, kabhii jeb se nikal aa_ii
+aTThanniisii zi.ndagii, ye zi.ndagii
+
+kabhii chehare pe ja.Dii dekhii, kahii.n mo.D pe kha.Dii dekhii
+shiishe ke maratabaano.n me.n, dukaan pe pa.Dii dekhii
+chaukannii sii zi.ndagii, ye zi.ndagii   \threedots
+
+tamage lagaake milate hai, maasuumiyat sii khilatii hai
+kabhii phuul haath me.n lekar, shaaKo.n pe baiThii hilatii hai
+aTThanniisii zi.ndagii, ye zi.ndagii   \threedots
+%
+#endindian
+\endsong
+%

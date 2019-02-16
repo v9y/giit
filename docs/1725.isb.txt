@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{ThaNDii havaa ye chaa.Ndanii suhaanii}%
+\film{Jhumroo}%
+\year{1961}%
+\starring{Kishore, Madhubala}%
+\singer{Kishore}%
+\music{Kishore}%
+\lyrics{Majrooh}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Hemlata Khemani
+% Editor:  
+%
+\printtitle
+#indian
+%
+% Beat:   Waltz
+% Tempo:  180
+% Scale:  C
+%
+ThaNDii havaa ye chaa.Ndanii suhaanii 
+ai mere dil sunaa koI kahAnI 
+lambI sI ek Dagar hai zi.ndagaanii 
+ai mere dil sunaa koI kahAnI 
+
+saare hasii.n nazaare, sapano.n me.n kho gaye 
+sar rakh ke aasamaa.N pe, parvat bhI so gaye 
+mere dil, tU sunaa, koI aisI daastaa.n 
+jisako, sunakar, mile chain mujhe merI jaa.N
+ma.nzil hai anjaanii \threedots
+
+aise mai.n chal rahaa huu.N pe.Do.n kii chhaa.Nv me.n
+jaise koii sitaaraa baadal ke gaa.Nv me.n
+mere dil, tU sunaa, koI aisI daastaa.n 
+jisako sunakar, mile chain mujhe merI jaa.N
+ma.nzil hai anjaanii \threedots
+
+tho.Dii sI raat biitii, tho.Dii sI raah gaI
+khaamosh rut nA jaane, kyA baat kah gaI 
+mere dil, tU sunaa, koI aisI daastaa.n 
+jisako sunakar, mile chain mujhe merI jaa.N
+ma.nzil hai anjaanii
+
+ThaNDii havaa ye chaa.Ndanii suhaanii 
+ai mere dil sunaa koI kahAnI 
+lambI sI ek Dagar hai zi.ndagaanii 
+ai mere dil sunaa koI kahAnI 
+%
+#endindian
+\endsong
+%

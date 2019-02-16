@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Kaab banake bikharatii jaatii hai}%
+\film{Saadgee (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain}%
+\lyrics{Sultanat Qaisar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+Kaab banake bikharatii jaatii hai
+raat dil me.n utaratii jaatii hai
+
+ra.ng kisake churaa liye usane
+roz\-o\-shab wo nikharatii jaatii hai
+
+aa ke ummiid me.n jalaa ke charaaG
+aaj to wo sa.Nwaratii jaatii hai
+
+aa gayaa wo to umr bhar kii thakan
+jaise pal me.n utaratii jaatii hai
+
+#endindian
+\endsong

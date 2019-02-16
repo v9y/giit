@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{raah ke taalib hai.n ... apanii bhii kyaa zindagii hai niraalii}%
+\film{Aas Ka Panchhi}%
+\year{1961}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10897 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+raah ke taalib hai.n par beraah pa.Date hai.n qadam
+dekhi_e kyaa Dhuu.NDhate hai.n aur kyaa paate hai.n ham
+
+apanii bhii kyaa zindagii hai niraalii
+jahaa.N ga_e Thukaraa_e ga_e jaise botal khaalii
+
+ra.ngiin vo zamaanaa thaa sapanaa vo kyaa suhaanaa thaa
+tab subah\-o\-shaam Kushiyo.n ke jaam har saa.Ns ek taraanaa thaa
+ab to bas har gha.Dii dukh bharii bebasii
+aas kii har kiraN ashq ban bah ga_ii
+apanii bhii kyaa zindagii \threedots
+
+kyaa nii.nd kisako sonaa hai ab saarii raat ronaa hai
+dukha.De bichhaa ke sab kuchh bhuul ke bas ek baar sonaa hai
+zindagii\-zindagii o merii laa.Dalii
+aa gale mil hai shaayad ye raat aaKarii
+apanii bhii kyaa zindagii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{nahii.n kiyaa to karake dekh tuu bhii kisii pe mar ke dekh}%
+\film{Chaar Dil Chaar Raahen}%
+\year{1959}%
+\starring{Raj Kapoor, Meena Kumari, Shammi Kapoor, Nimmi, Kumkum, Ajit}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Sahir}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjali series, anilda series
+% 
+\printtitle
+#indian
+%
+nahii.n kiyaa to karake dekh tuu bhii kisii pe mar ke dekh
+husn ke bikhare phuulo.n se dil kii jholii bhar ke dekh
+tuu bhii kisii pe mar ke dekh \threedots
+
+kaun tujhe kyaa kahataa hai kyo.n usakaa Gam sahataa hai
+are kutte bhau.nkate rahate hai.n qaafilaa chalataa rahataa hai
+bha_ii qaafilaa chalataa rahataa hai
+kabhii apane man kii kar ke dekh
+tuu bhii kisii pe mar ke dekh \threedots
+
+riite.n rasme.n to.D bhii de dil ko akelaa chho.D bhii de
+duniyaa dil kii dushman hai ( duniyaa kaa mu.Nh mo.D bhii de ) \-2
+are kuchh to anokhaa kar ke dekh
+tuu bhii kisii pe mar ke dekh \threedots
+
+ek rastaa hai daulat kaa duusaraa duusaraa aish\-o\-isharat kaa
+are tiisaraa jhuuThii izzat kaa ( chauthaa sachchii ulfat kaa ) \-2
+is raste se guzar ke dekh
+tuu bhii kisii pe mar ke dekh \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{dilabar jaanii chalii havaa mastaanii}%
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11171 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	dilabar jaanii chalii havaa mastaanii
+	a haa.n haa.n dilabar jaanii chalii havaa mastaanii
+	ha.Nsate\-khelate guzare ye zindagaanii
+la \:	dilabar jaanii chalii havaa \threedots
+do \:	dilabar jaanii chalii havaa \threedots
+
+la \:	pyaar me.n din aise biite jaise biite pal \-2
+ki \:	jaane kab shaam hu_ii diip ga_e jal
+la \:	sun mere pyaare
+ki \:	huu.n
+la \:	uuhuu.n huu.n aa haa haa
+	sun mere pyaare ye hai terii meharabaanii
+	ha.Nsate\-khelate guzare \threedots
+
+ki \:	saare soye tuu kyo.n jaage saathii kyaa baat hai \-2
+	o ja.ngal ke raajaa aajaa sojaa ho ga_ii raat
+	miiThe\-miiThe sapane le aa_ii ni.ndiyaa raanii
+	ha.Nsate\-khelate guzare \threedots
+do \:	dilabar jaanii chalii havaa \threedots
+%
+#endindian
+\endsong
+

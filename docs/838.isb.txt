@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{jagat musaafir khaanaa, lagaa hai aanaa jaanaa}%
+\film{Balika Badhu}%
+\year{1976}%
+\starring{Sachin}%
+\singer{Anand Bakshi}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: 
+% Editor: 
+% Comments:
+%
+\printtitle
+#indian
+%
+jagat musaafir khaanaa, lagaa hai aanaa jaanaa
+
+chaa.Nd chhupe to suuraj nikale, suuraj Duube ho jaae shaam
+rut aae rut jaae mausam, aane jaane kaa hai naam
+ho jogii, kisakaa thaur Thikaanaa, \threedots
+
+dekhe pahu.Nche kaun kahaa.N par, raahii nikalaa gaataa ha.Nsataa
+sabakii apanii\-apanii ma.nzil, apanaa\-apanaa rastaa
+o jogii, jiivan path a.njaanaa, \threedots
+
+chaar dino.n kaa mel hai bhaiyaa, jisane saare khel rachaae
+maa.N bachcho.n se milane aae, phir vaapas ghar jaae
+o jogii, ye dasatuur puraanaa, \threedots
+%
+#endindian
+\endsong
+%

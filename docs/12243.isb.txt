@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{din saaraa guzaaraa tore a.Nganaa ... mere yaar shab\-ba\-Kair}%
+\film{Junglee}%
+\year{1961}%
+\starring{Shammi Kapoor, Saira Banu, Shashikala, Lalita PAwar, Anup Kumar}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10907 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	din saaraa guzaaraa tore a.Nganaa
+	ab jaane de mujhe more sajanaa
+	mere yaar shab\-ba\-Kair \-2
+	o mere yaar shab\-ba\-Kair
+ra \:	aasaan hai jaanaa mahafil se
+	o kaise jaa_oge nikal kar dil se
+	mere yaar shab\-ba\-Kair \threedots
+
+	o dilabar dil to kahe terii raaho.n ko rok luu.N mai.n
+	aa_ii birahaa kii raat ab batalaa de kyaa karuu.N mai.n \-2
+	yaad aa_e.Ngii ye baate.n tumhaarii
+	ta.Dapegii mohabbat hamaarii
+	mere yaar shab\-ba\-Kair \threedots
+
+la \:	mai.n dharatii tuu aasamaa.N merii hastii pe chhaa gayaa tuu
+	siine ke surK baaG me.n dil banake aa gayaa tuu
+	ab rahane de nigaaho.n me.n mastii
+	o basaa lii maine Kvaabo.n kii bastii
+	mere yaar shab\-ba\-Kair \threedots
+
+ra \:	ye cha.nchal ye hasiin raat haay kaash aaj naa jaatii
+	har din ke baad raat hai ik din to Thahar jaatii
+	ko_Ii hamase bichha.D ke na jaataa
+	jiite kaa mazaa aa jaataa
+	mere yaar shab\-ba\-Kair \threedots
+%
+#endindian
+\endsong
+

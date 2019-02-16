@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{qaraar khoyaa muhabbat me.n ... ke jaan chalii jaa_e jiyaa nahii.n jaa_e}%
+\film{Anjaana}%
+\year{1969}%
+\starring{Rajendra Kumar, Babita}%
+\singer{Rafi, Suman}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11094 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	qaraar khoyaa muhabbat me.n is zamaane ne
+	ye baat sach hii kahii hai kisii diivaane ne
+
+	ke jaan chalii jaa_e jiyaa nahii.n jaa_e
+	jiyaa jaa_e to phir jiyaa nahii.n jaa_e
+la \:	ye ilzaam sar pe liyaa nahii.n jaa_e
+	liyaa jaa_e to phir jiyaa nahii.n jaa_e
+
+ra \:	zamaane me.n nahii.n diivaanaa ham saa
+	diivaanaa nahii.n ye zamaanaa ham saa
+	ye kyaa jaane ye kyaa samajhe ye baate.n pyaar kii
+la \:	ke pyaar har kisii se kiyaa nahii.n jaa_e
+	kiyaa jaa_e to phir jiyaa nahii.n jaa_e
+
+	na aa_ii kabhii nii.nd na aayaa hai qaraar
+	hamaarii taubaa ham nahii.n kare.nge pyaar
+	bas laa_o dil hamaaraa hamako de do o sanam
+ra \:	ye dil le ke vaapas diyaa nahii.n jaa_e
+	diyaa jaa_e to phir jiyaa nahii.n jaa_e
+
+	churaa ke nazare.n na dekho tum ye phuul
+	suno ye beruKii hame.n nahii.n qubuul
+	yaa ham bhale jaa_e.N yaa kah do ye bahaar chalii jaa_e
+la \:	bahaar chalii jaa_e piyaa nahii.n jaa_e
+	piyaa jaa_e to phir jiyaa nahii.n jaa_e
+	ke jaan chalii jaa_e \threedots
+%
+#endindian
+\endsong
+

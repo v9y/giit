@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{mai.n suuraj huu.N tuu merii kiraN sa.ng teraa rahe}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{1966}%
+\starring{Dharmendra, Nutan, Rehman, Jeevan}%
+\singer{Rafi, Asha}%
+\music{Sonik Omi}%
+\lyrics{G S Rawal}%
+%
+% Contributor: BOL ANAMOL #10382 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Sonik Omi
+% 
+\printtitle
+#indian
+%
+ra \:	o mai.n suuraj huu.N tuu merii kiraN sa.ng teraa rahe
+aa \:	ho mai.n aag me.n terii jal jaa_uu.N dil meraa kahe
+ra \:	o mai.n suuraj huu.N \threedots
+aa \:	ho o mai.n aag me.n terii \threedots
+
+ra \:	chaa.Nd kaa Tuka.Daa meraa hamasafar
+	tuu chale to gire.n taare bhii raah par
+aa \:	aa haa haa mujhape hu_ii jab terii ye nazar
+	mai.n kahaa.N huu.N nahii.n apanii bhii Kabar
+do \:	ab yaad jahaa.N kii bhulaane dekho jii dekho ham chale
+ra \:	o mai.n suuraj huu.N \threedots
+aa \:	ho mai.n aag me.n terii \threedots
+
+aa \:	duulhaa hai tuu meraa aur mai.n dulhan terii
+ra \:	tuu milii to mujhe mil ga_ii har Kushii
+	ek nashaa hai teraa pyaar bhii
+	tuu nahii.n to kaise kaTe zindagii
+do \:	ab saath sadaa kaa nibhaane dekho jii dekho ham chale
+ra \:	o mai.n suuraj huu.N \threedots
+aa \:	ho mai.n aag me.n terii \threedots
+
+ra \:	rut hai javaa.N aur tum bhii ho hasii.n
+aa \:	o le chalo ki mujhe tum par hai yaqii.n
+ra \:	aa haa haa pahaluu me.n tum ho to jannat hai yahii.n
+aa \:	ho ye samaa.N to jannat me.n bhii nahii.n
+do \:	ab pyaar kii duniyaa basaane dekho jii dekho ham chale
+ra \:	o mai.n suuraj huu.N \threedots
+aa \:	ho mai.n aag me.n terii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{na jaa kahii.n ab na jaa dil ke sivaa}%
+\film{Mere Humdum Mere Dost}%
+\year{1968}%
+\starring{Dharmendra, Sharmila Tagore}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+na jaa kahii.n ab na jaa dil ke sivaa
+hai yahii dil kuuchaa teraa
+ai mere ham_dam mere dost
+naa jaa kahii.n ab na jaa   \threedots
+
+
+aaj sahar\-e\-dil me.n chalake
+suurat\-e-chiraaG jalake
+jhukii jhukii nigaah kii
+kaajal se dil pe
+likhe aa naam\-e\-vafaa~
+naa jaa kahii.n ab na jaa   \threedots
+
+aake khuun\-e\-dil milaake
+bhar duu.N in labo.n ke khaake
+bujhaa bhujhaa badan teraa
+kamal kamal khilaa ke
+khilaa duu.N ra.ng\-e\-hinaa~
+naa jaa kahii.n ab na jaa   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+% ITRANS SONG # 3426; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (g#a#n#t#i#s#r#i#@hotmail.com)
+% Date: 2002-11-05 16:48:17 PST 
+%
+\startsong
+\stitle{more raaja ho le chal nadiyaa ke paar}%
+\film{Nadiya Ke Paar}%
+\year{1948}%
+\starring{Dilip Kumar, Kamini Kaushal}%
+\singer{Lalita Dewoolkar, Rafi}%
+\music{C Ramchandra}%
+\lyrics{Moti}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date:5 Nov, 2002
+%
+\printtitle
+#indian
+%
+l:more raaja ho
+(more raaja ho le chal nadiyaa ke paar)\-2
+r:(morii raanii ho tumhii morii praaN adhaar)\-2
+
+(tuu ne aisaa jaaduu Daalaa bik ga_ii tere haath)\-2
+janam janam tak san.g rahuu.Ngii
+janam janam tak san.g rahuu.Ngii kabhii na cho.Duu.N saath
+more raaja ho ham ko tujhe ho na bisaar
+r:morii raanii ho tumhii morii praaN adhaar
+l:more raajaa ho le chal nadiyaa ke paar
+r:morii raanii ho tumhii morii praaN adhaar
+
+l:(pyaar kii miiThii baato.n me.n saajanavaa mai.n ga_ii haar)\-2
+r:pyaarii terii aa.Nkho.n me.n mai.n
+pyaarii terii aa.Nkho.n me.n mai.n bhuul gayaa sanasaar
+merii aa.Nkho.n me.n jhukii hai suratiyaa tuhaar
+l:merii saa.Nso.n me.n guu.Nje naam tohaar
+more raajaa ho le chal nadiyaa ke paar
+r:morii raanii ho tumhii morii praaN adhaar
+
+l:(mai.n to priit nibhaauu.N balamaa, tum bhii priit nibhaanaa)\-2
+r:saath saath hii ham tum dono
+saath saath hii ham tum dono.N gaaye.N mast taraana
+l:more raajaa ho le chal nadiyaa ke paar
+r:morii raanii ho tumhii morii praaN adhaar
+%
+#endindian
+\endsong
+%

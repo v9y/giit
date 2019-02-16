@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil hii to hai ta.Dap gayaa}%
+\film{Aadhi Raat}%
+\year{1950}%
+\starring{}%
+\singer{Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Is "inspired" in large part by Ghalib's 
+%           dil hi to hai na sang-o-khisht
+%           Talat's version in Mirza Ghalib and Chitra Singh's in the
+%           TV series are both worth a hear
+%
+\printtitle
+#indian
+%
+
+dil hii to hai ta.Dap gayaa dard se bhar na aaye kyo.n
+roye.nge ham hazaar baar koii hame.n sataaye kyo.n
+
+rote hue guzaar dii jis ne tamaam zi.ndagii
+us ko ha.Nsii se kaam kyaa koii use ha.Nsaaye kyo.n
+
+ai mere badanasiib dil dekh ye terii bhuul hai
+tuu to Kizaa kaa phuul hai tum se bahaar aaye kyo.n
+
+aa.Nkho.n me.n aa.Nsuu dil me.n Gam jiine ko jii rahe hai.n ham
+maut se pahale zi.ndagii Gam se nijaat paaye kyo.n
+
+%
+#endindian
+\endsong
+%

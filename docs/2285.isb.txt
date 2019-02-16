@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{cha.ndaa re cha.ndaa re, kabhii to zamii.n par aa}%
+\film{Sapnay}%
+\year{}%
+\starring{Kajol, Arvind Swamy, Prabhu Deva}%
+\singer{Hariharan, Sadhna Sargam}%
+\music{A R Rahman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Ikram Ahmed Khan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ha :  cha.ndaa re cha.ndaa re
+      kabhii to zamii.n par aa
+      baiThe.nge, baate.n kare.nge
+      tujhako aate idhar 
+      laaj aaye agar
+      o.Dh ke aajaa, tuu baadal ghane
+
+      gulashan, gulashan, vaadii vaadii, bahatii hai resham jaisii havaa
+      ja.ngal ja.ngal, parvat, parvat, hai.n nii.nd me.n sab ik mere sivaa
+      cah.ndaa, cha.ndaa
+      aajaa sapano.n kii niilii nadiyaa me.n nahaaye.n
+      aajaa ye taare chunake ham, ghaar banaa_e.n
+      in dhu.Ndhalii dhu.Ndhalii raaho.n me.n, aa dono.n hii kho jaa_e.n
+
+saa : cha.ndaa re, cha.ndaa re
+      kabhii to zamii.n par aa
+      baiThe.nge baate.n kare.nge
+      tujhako aate idhar
+      laaj aaye agar
+      o.Dh ke aajaa tuu baadal ghane
+
+      cha.ndaa se puuchhe.nge ham, saare savaal niraale
+      jharane kyo.n gaate hai.n, pa.nchhii kyo.n matavaale
+ha :  ho, kyo.n hai saavan mahiinaa ghaTaa_o.n kaa
+      cha.ndaa se puuchhe.nge ham saare savaal niraale
+saa : cha.ndaa, cha.ndaa
+      titalii ke par kyo.n itane ra.ngiin hote hai.n
+      juganuu raato.n me.n jaage, to kab sote hai.n
+ha :  in dhu.Ndhalii\-dhu.Ndhalii raaho.n me.n, aa dono.n hii kho jaae_.n
+
+%
+#endindian
+\endsong
+%

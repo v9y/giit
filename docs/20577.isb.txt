@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{zulfe.n ulajhii hai.n mere ka.Nganaa se}%
+\film{Burma Road}%
+\year{1962}%
+\starring{}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 12 Nov 2004
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+zulfe.n ulajhii hai.n mere ka.nganaa se
+aake chhu.Daa de sanam
+haay re merii zulfe.n \threedots
+
+(haath meraa zaalim chuume chalii jaa_e
+bikharii hu_ii naagan se jhuumii chalii jaa_e) \-2
+tuu ise pyaar se sa.nVaar de sanam
+haay re merii zulfe.n \threedots
+
+(priit banii jaa_e lambii kahaanii
+sulajhe nahii.n ulajhii chalii jaa_e diivaanii) \-2
+mai.n ga_ii haar tere pyaar kii qasam
+haay re merii zulfe.n \threedots
+
+dukh me.n morii saiyaa.N kab se pa.Dii huu.N
+tum ho kha.De paas to phir sunate nahii.n kyo.n
+ke ba.Dii der se pukaaruu.N mai.n sanam
+haay re merii zulfe.n \threedots
+%
+#endindian
+\endsong

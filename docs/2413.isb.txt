@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{merii baat rahii mere man me.n}%
+\film{Sahib Biwi Aur Ghulam}%
+\year{1962}%
+\starring{Waheeda Rehman, Guru Dutt, Meena Kumari, Rehman}%
+\singer{Asha}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vandana Venkatesan
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+merii baat rahii mere man me.n
+kuchh kah na sakii ulajhan me.n
+mere sapane adhuure, hue nahii.n puure
+aag lagii jiivan me.n
+merii baat rahii mere man me.n   \threedots
+
+o rasiyaa, man basiyaa
+rag rag me.n ho tum hii samaaye
+mere nainaa kare bainaa
+meraa dard na tum sun paaye
+jiyaa moraa pyaasaa rahaa saavan me.n
+merii baat rahii mere man me.n   \threedots
+
+kuchh kahate, kuchh sunate
+kyo.n chale gaye dil ko masal ke
+merii duniyaa huii suunii
+bujhaa aas kaa diipak jal ke
+chhaayaa re andheraa merii akhiyan me.n
+merii baat rahii mere man me.n   \threedots
+
+tum aao ki na aao
+piyaa yaad tumhaarii mere sa.ng hai
+tumhe kaise ye bataa_uu.N
+merii priit kaa niraalaa ek ra.ng hai
+laagaa ho ye nehaa jaise bachapan me.n
+merii baat rahii mere man me.n   \threedots
+
+
+%
+#endindian
+\endsong
+%

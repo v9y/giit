@@ -1,0 +1,29 @@
+
+%
+\startsong
+\stitle{dharatii ko aakaash pukaare}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Shamshad/ Mukesh, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10639 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sha \:	dharatii ko aakaash pukaare
+	aa jaa aa jaa prem duvaare
+	aanaa hii hogaa
+
+	is duniyaa ko chho.D ke pyaare
+	jhuuThe bandhan to.D ke saare
+	jaanaa hii hogaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{tum hii tum ho mere jiivan me.n}%
+\film{Ek Dil Sau Afsane}%
+\year{1963}%
+\starring{Raj Kapoor, Waheeda Rehman}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10937 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tum hii tum ho mere jiivan me.n
+	phuul hii phuul hai.n jaise chaman me.n
+la \:	ek ho mere tum is jahaa.N me.n
+	ek hai cha.ndaa jaise gagan me.n
+ra \:	tum hii tum ho
+la \:	tum hii tum ho
+
+la \:	tum mile mujhe nayaa jahaan mil gayaa
+	jhuumatii zamiin ko aasamaan mil gayaa
+ra \:	tum hii tum ho
+la \:	tum hii tum ho
+
+ra \:	tumase dil kaa chain hai tumase hai qaraar
+	tum naa ruuThanaa ki ruuTh jaa_egii bahaar
+la \:	tum hii tum ho
+ra \:	tum hii tum ho
+
+la \:	tum ho mere kaun zindagii hai kyuu.N hasiin
+ra \:	sun lo merii dha.Dakane.n to aa_egaa yaqiin
+la \:	tum hii tum ho
+ra \:	tum hii tum ho
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{bas yahii aparaadh mai.n har baar karataa huu.N}%
+\film{Pehchaan}%
+\year{1970}%
+\starring{Manoj Kumar, Babita}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+bas yahii aparaadh mai.n har baar karataa huu.N
+aadamii huu.N aadamii se pyaar karataa huu.N
+
+ek khilaunaa ban gayaa duniyaa ke mele me.n
+koii khele bhii.D me.n koii akele me.n
+muskuraa kar bhe.nT har sviikaar karataa huu.N
+aadamii huu.N aadamii se pyaar karataa huu.N   \threedots
+
+mai.n basaanaa chaahataa huu.N svarg dharatii par
+aadamii jis me.n rahe bas aadamii banakar
+us nagar kii har galii taiyyaar karataa huu.N
+aadamii huu.N aadamii se pyaar karataa huu.N   \threedots
+
+huu.N bahut naadaan karataa huu.N ye naadaanii
+bech kar khushiyaa.N khariiduu.N aa.Nkh kaa paanii
+haath khaalii hai.n magar vyaapaar karataa huu.N
+aadamii huu.N aadamii se pyaar karataa huu.N   \threedots
+
+%
+#endindian
+\endsong
+%

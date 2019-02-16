@@ -1,0 +1,49 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pi.njare de vich qaid jawaanii}%
+\film{Gul-E-Bakawali (Punjabi-Film)}%
+\year{1939}%
+\starring{Noorjehan}%
+\singer{Noorjehan}%
+\music{Ghulam Haider}%
+\lyrics{Wali Sahab}%
+% 
+% Audio on: 
+% Contributor: Pulkit Sharma
+% Transliterator: Pulkit Sharma
+% Date: 1 Mar 2005
+% Series: Noor--E-Tarannum
+% Comments: very old Punjabi song
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+pi.njare de vich qaid jawaanii
+pi.njare.a de vich qaid jawaanii
+mastaanii
+qaid jawaanii\-4
+mastaanii
+
+pi.njare de vich qaid jawaanii
+aape hasanaa aape roNaa\-2
+aape ha.nju_aa.N haar paroNaa
+aape kainii aape sunaNii\-2
+ha.nju_aa.N bharii kahaanii\-2
+pi.njare de.a vich qaid jawaanii\-2
+mastaanii
+
+haa_e jawaanii mastaanii
+tuu.n vii rogii
+mai.n vii rogaN
+ik duuje di pii.D va.nDaa_iiye\-2
+{kalleyaa.N baike dil diyaa.N lagiyaa.N
+ha.nju_aa.N naal bujhaa_iiye}\-2
+ag vich geDe paaNii
+pi.njare de.a vich qaid jawaanii\-2
+mastaanii
+
+%
+#endindian
+\endsong

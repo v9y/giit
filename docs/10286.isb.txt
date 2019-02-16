@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{aa haa aa_ii milan kii belaa dekho aa_ii}%
+\film{Ayee Milan Ki Bela}%
+\year{1964}%
+\starring{Rajendra Kumar, Saira Bano, Dharmendra, Shashikala}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10965 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	aa haa aa_ii milan kii belaa dekho aa_ii
+	ban ke phuul har kalii muskuraa_ii
+aa \:	aa haa aa_ii milan kii belaa dekho aa_ii
+	unase nain mile mai.n sharamaa_ii
+	aa haa aa_ii milan kii \threedots
+
+	jaane kyo.n tez hu_ii jaatii hai dil kii dha.Dakan
+	chuTakiyaa.N letii hai kyo.n siine me.n miiThii sii chubhan
+ra \:	pyaar jo karate hai.n hotaa hai yahii haal unakaa
+	dekhi_e kyaa\-kyaa dikhaa_egii abhii dil kii lagan
+	aa haa aa_ii milan kii \threedots
+
+	aaj duniyaa mujhe kuchh aur nazar aatii hai
+	jis taraf dekhi_e taqadiir muskuraatii hai
+aa \:	pyaar ke ra.ng me.n ra.ng jaate hai.n jab dilavaale
+	dekhate\-dekhate har chiiz badal jaatii hai
+	aa haa aa_ii milan kii \threedots
+
+	aaj sar se meraa aa.Nchal kyo.n u.Daa jaataa hai
+	meraa dil kyo.n mere pahaluu se khi.nchaa jaataa hai
+ra \:	muntazir hogaa ko_ii yaad kar rahaa hogaa
+	dard saa uThataa hai jab yaad kiyaa jaataa hai
+	aa haa aa_ii milan kii \threedots
+%
+#endindian
+\endsong
+

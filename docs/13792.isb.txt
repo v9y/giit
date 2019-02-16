@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{raakhii kaa aayaa tyohaar sakhii}%
+\film{Rakhi}%
+\year{1949}%
+\starring{Kamini Kaushal, Karan Deewan, Gop, Yashodhara Katju, Pran, Ulhas}%
+\singer{Shamshad}%
+\music{Husnlal Bhagatram}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: BOL ANAMOL #10044 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raakhii kaa aayaa tyohaar sakhii raakhii kaa aayaa tyohaar
+more bhaiyaa jiye.n jale.n ghar me.n diye mai.n usii ke li_e
+baa.Ndhuu.N raakhii me.n aashaa ke taar
+sakhii raakhii kaa aayaa tyohaar \threedots
+
+uThe man me.n uma.ng jaise saagar me.n tara.ng
+jaise bagiyaa me.n aa_ii bahaar
+sakhii raakhii kaa aayaa tyohaar \threedots
+
+dekhii duniyaa kii riit bahan bhaa_ii kii priit gaa_o Kushii ke giit
+more baabul ke ghar kaa si.ngaar sakhii
+sakhii raakhii kaa aayaa tyohaar \threedots
+
+yuu.N baa.Ndhane ko baa.Ndho ko_ii hazaar dhaage
+lekin hazaar par hai.n raakhii ke chaar dhaage
+chaar dhaago.n me.n ba.Ndhaa hai pyaar
+sakhii raakhii kaa aayaa tyohaar \threedots
+%
+#endindian
+\endsong
+

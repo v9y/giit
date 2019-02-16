@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{saavan kaa mahiinaa aayaa hai ... ve maahiyaa bujhaa de pyaas jiyaa kii}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saavan kaa mahiinaa aayaa hai ghaTaa se barasaa hai paanii
+ve maahiyaa bujhaa de pyaas jiyaa kii ho
+
+aise me.n tuune jo chhu_aa merii bhii mahakii javaanii
+ve maahiyaa bujhaa de \threedots
+
+tere husn shabaab kii baat hu_ii yaa madiraa kii barasaat hu_ii
+mausam bhii sharaabii lagataa hai mujhe bhii cha.Dhiyaa nashaa hai
+ve maahiyaa bujhaa de \threedots
+
+ko_ii zor na dil pe chalataa hai baarish me.n badan meraa jalataa hai
+buu.ndo.n me.n chhupii hai chi.ngaarii havaa bhii su_iyaa.n chubhaaye
+ve maahiyaa bujhaa de \threedots
+
+ham milate rahe janam janam na ho.nge judaa ham mil ke sanam
+aa ik duuje me.n kho jaaye.n rahe na ko_ii bhii duurii
+ve maahiyaa bujhaa de \threedots
+%
+#endindian
+\endsong
+

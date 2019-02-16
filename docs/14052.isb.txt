@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dushmano.n ne to dushmanii kii hai}%
+\film{Saathi}%
+\year{1991}%
+\starring{Aditya Pancholi, Mohsin Khan, Varsha Usgaonkar, Paresh Rawal, Avtar Gill}%
+\singer{Kumar Sanu, Anwar}%
+\music{Nadeem Shravan}%
+\lyrics{Surendra Sathi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dushmano.n ne to dushmanii kii hai
+dosto.n ne kyaa kamii kii hai
+aisaa bhii dekho vaqt jiivan me.n aataa hai
+achchhaa khaasaa dost bhii dushman ban jaataa hai
+
+lagii dostii ko kisakii nazar
+badal jaa_egaa tuu nahii.n thii Kabar
+na kasame.n rahii.n na vaade rahe
+na sa.ng marane ke vo iraade rahe
+daulat hii ko ab sab kuchh samajhaa jaataa hai
+to achchhaa khaasaa dost bhii \threedots
+
+terii aa.Nkho.n me.n ab jo pyaar nahii.n
+jo yaarii na samajhe vo yaar nahii.n
+ye daulat kis kaam kii yaarii hai bas naam kii
+yaar mere pachhataa_egaa jo hogaa dekhaa jaa_egaa
+sachchaa_ii kii raah jab ko_ii apanaataa hai
+to achchhaa khaasaa dost bhii \threedots
+%
+#endindian
+\endsong
+

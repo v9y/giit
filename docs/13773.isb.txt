@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tujhe maa.ngaa thaa tujhe paayaa hai}%
+\film{Raam Shaastra}%
+\year{1995}%
+\starring{Jackie, Manisha, Aditya, Deepti Bhatnagar, Mukesh Rishi, Dara Singh}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vaah re vaah kyaa baat hai tuu mere saath hai
+taaro.n kii raat hai pyaar kii baaraat hai
+
+tujhe maa.ngaa thaa tujhe paayaa hai
+ab jaake raam pe yakii.n aayaa hai
+raam raam
+tujhe maa.ngaa thaa \threedots
+
+sadiyo.n se thii apanii duurii din the adhuure raat adhuurii
+janmo.n se huu.N teraa diivaanaa jindaa rahanaa thaa bahaanaa
+saajan jab tuu aur kahii.n thaa is duniyaa me.n kuchh bhii nahii.n thaa
+jis din apanaa pyaar banaa hai us din se sa.nsaar banaa hai
+mujhe chho.D na denaa raam kasam dil to.D na denaa raam kasam
+haatho.n kii lakiiro.n me.n tujhako paayaa hai
+ab jaake raam pe \threedots
+
+indradhanuSh a.nga.Daa_ii hai terii chaa.Nd nahii.n parachhaa_ii.n hai terii
+jab tak chamake.nge do taare duniyaa legii naam hamaare
+pyaar kii dhun pe gaataa rahuu.ngaa
+%
+#endindian
+\endsong
+

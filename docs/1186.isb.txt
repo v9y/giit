@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{meraa yaar banaa hai dulhaa}%
+\film{Chaudhvin Ka Chaand}%
+\year{1960}%
+\starring{Guru Dutt, Rehman, Waheeda, Johnny Walker}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+meraa yaar banaa hai dulhaa aur phuul khile hai.n dil ke
+are merii bhii shaadii ho jaaye, duaa karo sab mil ke
+
+aaj kii Kushiyaa.N dekh ke meraa dil bhii le ang.Daa_ii
+mere bhii ghar ho dhuum dha.Dakkaa aur baje shehanaa_ii
+mai.n bhii seharaa baa.Ndh ke baiThuu.N biich bharii mahafil ke
+
+ai mere maalik, mere daataa, mere paalanahaaraa
+yaar ko tuune dulhan de dii rah gayaa mai.n hii ku.Nvaaraa
+mujh ko bhii merii dulhan de de mai.n bhii hasuu.N khil khil ke
+
+ai mere maalik rahe hameshaa terii salaamat jo.Dii
+aaj tere sehare ne bhaiyyaa, mujhape qayaamat to.Dii
+merii bhii aa.Nkho.n me.n jaage, haay, Kvaab na_ii ma.nzil ke
+
+## in a toothless, old man's voice
+meraa yaar banaa hai dulhaa aur phuul khile hai.n dil ke
+are merii bhii shaadii ho jaaye, duaa karo sab mil ke
+
+%
+#endindian
+\endsong
+%

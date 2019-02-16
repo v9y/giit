@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{yaad kiyaa dil ne kahaa.N ho tum, jhuumatii bahaar hai kahaa.N ho tum}%
+\film{Patita}%
+\year{}%
+\starring{Dev Anand, Usha Kiran}%
+\singer{Hemant, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yaad kiyaa dil ne kahaa.N ho tum
+jhuumatii bahaar hai kahaa.N ho tum
+pyaar se pukaar lo jahaa.N ho tum  \- 2
+
+(o, kho gaye ho aaj kis khayaal me.n 
+o, dil fa.nsaa hai bebasii ke jaal me.n )    \- 2
+matalabii jahaa.N meharabaa.n ho tum
+yaad kiyaa dil ne kahaa.N ho tum
+pyaar se pukaar lo jahaa.N ho tum  \- 2
+
+(o, raat Dhal chukii hai subah ho gayii
+o, mai tumhaarii yaad leke kho gayii     )    \- 2
+ab to merii daastaa.N ho tum
+yaad kiyaa dil ne kahaa.N ho tum
+pyaar se pukaar lo jahaa.N ho tum  \- 2
+
+(o, tum to mere zi.ndagii ke baaG ho
+o, tum to merii raah ke chiraaG ho  )  \- 2
+mere liye aasamaa.N ho tum
+yaad kiyaa dil ne kahaa.N ho tum
+pyaar se pukaar lo jahaa.N ho tum  \- 2
+%
+#endindian
+\endsong
+%

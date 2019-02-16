@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ai aalaa re paa_us aalaa ... barasaa re paanii}%
+\film{Safaari}%
+\year{1999}%
+\starring{Sanjay Dutt, Juhi Chawla}%
+\singer{Amit Kumar, Alka Yagnik}%
+\music{Shyam Mohan}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aalaa re aalaa aalaa re aalaa
+ai aalaa re paa_us aalaa are aalaa re paa_us aalaa
+re barasaa re paanii hu_ii mai.n to diivaanii
+mujhe o mujhe ho mujhe ye kyaa hone lagaa
+ai aalaa re paa_us aalaa \threedots
+
+ham bekhabar aa ga_e kidhar pighalaa hu_aa ye samaa hai
+baaho.n me.n hai saarii zamii.n kadamo.n tale aasamaa.n hai
+ai hotii kyaa hai bekhudii ye ab pataa chalaa
+a.ng a.ng me.n samaa rahaa ko_ii nashaa
+mujhe mujhe o mujhe \threedots
+
+ham the kabhii do ajanabii ab aisaa lagataa nahii.n hai
+tum bhii yahaa.n mai.n bhii yahaa.n ab to na ko_ii kamii hai
+mahakii mahakii kyuu.n lage hai aaj kii ghaTaa
+are mai.n to kuchh na jaanuu.n mujhe tuu hii de bataa
+o mujhe mujhe o mujhe \threedots
+
+barasaa re paanii hu_ii paagal javaanii
+%
+#endindian
+\endsong
+

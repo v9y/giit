@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jab la.Dakii siiTii bajaa_e aur la.Dakaa chhat par aa_e ... maamalaa ga.Daba.D hai}%
+\film{Dharam Adhikaari}%
+\year{1986}%
+\starring{Dilip Kumar, Jitendra, Sridevi, Pran, Kader Khan, Shakti Kapoor}%
+\singer{Shabbir Kumar, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab la.Dakii siiTii bajaa_e aur la.Dakaa chhat par aa_e
+taakaa jhaa.nkii dono.n me.n ho jaa_e to samajho
+maamalaa ga.Daba.D hai
+
+jab la.Dakaa kaa.NTaa chubhaa_e phir bhii la.Dakii muskaa_e
+gudagudii dono.n ko ho jaa_e to samajho
+maamalaa ga.Daba.D hai
+
+aa.ngan me.n galiyan me.n galiyan me.n bagiyan me.n
+jab dono.n milane lage ho.nTh
+jab la.Dakaa aa.Nkhe.n Daale aur la.Dakii aa.Nchal sambhaale
+dekhaa dekhii dono.n me.n ho jaa_e to samajho
+maamalaa ga.Daba.D hai
+jab la.Dakii siiTii bajaa_e \threedots
+
+apano.n se bhaage jab bistar me.n jaage jab takiye se lipaTe rahe
+aane me.n Takaraa_e jaane me.n Takaraa_e dono.n hii simaTe rahe
+jab la.Dakii chuu.Dii khanakaa_e aur la.Dakaa kamare me.n aa_e
+chhe.Daa chhe.Dii dono.n me.n ho jaa_e to samajho
+maamalaa ga.Daba.D hai
+jab la.Dakii siiTii bajaa_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{a Di.ng Daa.ng ho tumhe.n ham chaahe.n}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Udit Narayan, Sunidhi Chauhan, Harvard, Javed Ali, Vicky, Chorus}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a Di.ng Daa.ng ho tumhe.n ham chaahe.n
+jo tum kah do ha.Ns ke mar jaa_e.n
+hamaarii jaa.n hai pyaarii bahanaa
+bin tere kahii.n kabhii hamako na rahanaa
+khushii aur Gam hame.n mil ke hai sahanaa
+a Di.ng Daa.ng ho \threedots
+
+akk.D bakka.D bambe bo assii nabbe puure sau
+jisako mil gayaa ho bhaa_ii tere jaisaa
+usako phir kisii se kyaa lenaa
+karatii huu.N yahii ##God## se mai.n to ##prayer##
+aise hii ##brother## mujhako denaa
+maine tumako hii sab kuchh hai maanaa
+lage bemaanaa saaraa jahaa.n
+a Di.ng Daa.ng ho \threedots
+
+huu.n milake ham uThaa_e.nge Dolii jo tumhaarii
+aa.Nkho.n se to aa.Nsuu bahe.nge
+tuu jaa_egii dulhan banake ik din yahaa.n se
+akele ham kaise rahe.nge
+sa.ng hamane hai bachapan gujaaraa
+saath me.n ham hu_e hai.n javaa.n
+a Di.ng Daa.ng ho \threedots
+%
+#endindian
+\endsong
+

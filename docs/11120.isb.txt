@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{muhabbat kaa mazaa paayaa ... kabhii maine kabhii tuune}%
+\film{Dil Kitnaa Naadaan Hai}%
+\year{1996}%
+\starring{Raja, Rageshwari, Kiran Kumar, Aloknath, Rima, Munika, Deven Bhojani}%
+\singer{}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+muhabbat kaa mazaa paayaa mazaa paayaa mazaa paayaa
+kabhii maine kabhii tuune kabhii maine kabhii tuune
+zamaane bhar ko tarasaayaa tarasaayaa haa.N tarasaayaa
+kabhii maine kabhii tuune \threedots
+
+mere dil ke varak par tuune jo paigaam likhaa hai
+bahut hii khuubasuurat isame.n teraa naam likhaa hai
+na thii aisii merii takadiir is paigaam se pahale
+meraa bhii naam ab aa_egaa tere naam se pahale
+ki sholaa dil kaa bha.Dakaayaa bha.Dakaayaa haa.N bha.Dakaayaa
+kabhii maine kabhii tuune \threedots
+
+hamaare vaaste baakii nahii.n majabuuriyaa.n dil kii
+zaraa sii der me.n sab miT ga_ii hai.n duuriyaa.n dil kii
+nayaa ik mo.D hai ye apanii chaahat kii kahaanii kaa
+dilo.n ke saaj ne chhe.Daa hai ik naGamaa javaanii kaa
+ye naGamaa jhuumakar gaayaa ajii gaayaa haa.N gaayaa
+kabhii maine kabhii tuune \threedots
+%
+#endindian
+\endsong
+

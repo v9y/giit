@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{ek dil do hai.n talab_gaar ba.Dii mushkil hai}%
+\film{Darwaza}%
+\year{1954}%
+\starring{}%
+\singer{Talat, Suman Kalyanpur}%
+\music{Nashad}%
+\lyrics{Khumar Barabankvi}%
+% 
+% Contributor: K Vijay Kumar 
+% Transliterator:
+% Date:
+% Credits: 
+% Editor: 
+% Comments: This song is recorded as Suman Hemmady. However, the name in the
+%           credits above has been changed for indexing purposes.
+%
+\printtitle
+#indian
+%
+s : ek dil do hai.n talab_gaar ba.Dii mushkil hai
+t : kashmakash me.n hai meraa pyaar ba.Dii mushkil hai
+
+aa~
+t : Dhuu.NDhatii hai.n tujhe har suu merii pyaasii aa.Nkhe.n
+kaise ho ab teraa diidaar ba.Dii mushkil hai
+
+aa~
+s : dil me.n jo kuchh hai zabaa.N par nahii.n laayaa jaataa
+ghuT ke dam to.D na de pyaar ba.Dii mushkil hai
+
+aa~
+t : saamane hai mere aramaano.n kii manzil lekin \-2
+muflisii ban ga_ii diivaar ba.Dii mushkil hai
+
+%
+#endindian
+\endsong
+%

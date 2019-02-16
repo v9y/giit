@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ye shahar ba.Daa alabelaa ... si.ngaapur}%
+\film{Singapore}%
+\year{1960}%
+\starring{Shammi Kapoor, Padmini, Shashikala, K N Singh}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10890 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	ye shahar ba.Daa alabelaa har taraf hasiino.n kaa melaa
+	par aur bhii hai kuchh aage tuu chalaa chal akelaa
+ko \:	si.ngaapur \-3
+
+mu \:	javaa.N shahar dilavaalo.n kaa hamaare jaise matavaalo.n kaa
+	gale mile sab yahaa.N pe aakar nahii.n bhed gore\-kaalo.n kaa
+ko \:	niyummaa
+mu \:	ye shahar ba.Daa \threedots
+ko \:	si.ngaapur \-3
+
+mu \:	yu muskaraatii naTakhaT gu.Diyaa.N yah husn vaalii miiThii chhuriyaa.N
+	zaraa der ko sab chakaraa_e.N kahaa.N se aa_ii.n itanii pariyaa.N
+ko \:	namaste
+mu \:	ye shahar ba.Daa \threedots
+ko \:	si.ngaapur \-3
+
+mu \:	jidhar se guzare ham mastii me.n bahaar aa_ii us bastii me.n
+	chale.n pyaar ke naGame.n gaate hai ghar kisii dil kii dillii me.n
+ko \:	niyummaa
+mu \:	ye shahar ba.Daa \threedots
+ko \:	si.ngaapur \-3
+%
+#endindian
+\endsong
+

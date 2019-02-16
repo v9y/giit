@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{javaan tum ho, javaan ham hai.n}%
+\film{Duniya}%
+\year{1968}%
+\starring{}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+javaan tum ho, javaan ham hai.n
+ye pyaar tum se ho gayaa hai
+milan kaa ik pal, Gazab khudaa kaa
+jigar me.n nashtar chubh gayaa hai
+
+ye gam.r retii ye paa.Nv naazuk
+ajii na jaao, pa.De.nge chhaale
+merii ummiido.n kaa tum ho suuraj
+tumhaare dam se hai.n ye ujaale
+javaan tum ho   \threedots
+
+vo ThaNDii laharo.n me.n kab hai ThaNDak
+jo mere siine kii aag me.n hai
+vo giit maujo.n me.n kab milegaa
+jo mere saa.Nso.n ke raag me.n hai
+javaan tum ho   \threedots
+
+na aage jaao, hai gaharaa paanii
+phir usape sholaa hai ye javaanii
+tumhare tapate hue badan se
+lagegeii jal me.n agan suhaanii
+javaan tum ho   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aa.Nkho.n me.n ... ye saare ghar hai.n tumhaare}%
+\film{Company}%
+\year{2002}%
+\starring{Ajay Devgan, Vivek Oberoy, Manisha, Antara Mali, Mohanlal}%
+\singer{Saumya Rao}%
+\music{Sandeep Chowtha}%
+\lyrics{Tabish Romani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa.Nkho.n me.n raho baaho.n me.n raho
+ho.nTho.n pe raho yaa dil me.n raho
+ye saare ghar hai.n tumhaare
+jahaa.N bhii dil chaahe raho haa.N
+
+saa.Nso.n me.n raho dha.Dakan me.n raho
+palako.n me.n raho zulfo.n me.n raho
+ye saare ghar hai.n \threedots
+
+paas hamaare aanaa ab to bin bulaa_e aa jaanaa
+ko_ii nishaanii de jaanaa
+tho.Dii sii khushbuu le jaanaa
+yaado.n me.n raho khvaabo.n me.n raho
+raato.n me.n raho yaa din me.n raho.n
+ye saare ghar hai.n \threedots
+
+aaj naa jaane ye kyaa hu_aa hai
+ko_ii zaraa ye samajhaa_e
+itanaa suruur chhaayaa hai
+jii karataa hai mar jaa_e.N
+vaado.n me.n raho kasamo.n me.n raho
+aa.Nchal me.n raho kaajal me.n raho
+ye saare ghar hai.n \threedots
+%
+#endindian
+\endsong
+

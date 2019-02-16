@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{Kayaalo.n me.n kisii ke, is tarah aayaa nahii.n karate}%
+\film{Bawre Nain}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Mukesh, Geeta}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Prashant Kulkarni (praskulk@darboux.engin.umich.edu)
+%          Neeraj Malhotra (malhotra@bedford.progress.COM)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Malini Kanth
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+giitaa: Kayaalo.n me.n kisii ke,  is tarah aayaa nahii.n karate
+    kisii ko bevafaa aa aa ke ta.Dapaayaa nahii.n karate
+
+mukesh: dilo.n ko rau.nd kar dil apanaa bahalaayaa nahii.n karate
+    jo Thukaraae gae ho.n unako Thukaraayaa nahii.n karate
+
+giitaa: ha.Nsii phuulo.n kii do din chaa.Ndanii bhii chaar din kii hai
+    chaa.Ndanii chaar din kii hai
+    milii ho chaa.Nd sii suurat to itaraayaa nahii.n karate
+    kisii ko \threedots
+
+giitaa: jinhe.n miTanaa ho vo miTane se Dar jaayaa nahii.n karate
+    vo Dar jaayaa nahii.n karate
+    muhabbat karane vaale Gam se ghabaraayaa nahii.n karate
+    kisii ko \threedots
+
+mukesh: muhabbat kaa sabak siikho, ye jaakar jalanevaalo.n se
+    ye jaakar jalanevaalo.n se
+    ke dil kii baat bhii lab tak kabhii laayaa nahii.n karate
+    jo Thukaraaye \threedots
+%
+#endindian
+\endsong
+%

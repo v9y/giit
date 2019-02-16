@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{aa_o hamaare hoTal me.n}%
+\film{Kundan}%
+\year{1955}%
+\starring{Sohrab Modi, Nimmi, Ulhas, Om Prakash}%
+\singer{S D Batish, Sudha Malhotra}%
+\music{Ghulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10029 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa_o hamaare hoTal me.n
+chaay piyo jii garam\-garam
+biskuT khaa_o naram\-naram
+jo dil chaahe maa.ng lo hamase
+sab kuchh hai bhagavaan kasam
+
+garmii ho sharabat piikar kar lo dil ko ThaNDaa
+saradii ho to khaa lo bhaiyaa ik murgii kaa aNDaa
+is hoTal ke andar aakar le lo baabuu nayaa janam
+
+baat banegii ham dono.n kii puuchho vo kaise
+tum ho.nTho.n me.n chamachaa rakho ham paakeT me.n paise
+jin qadamo.n par paise barase.n duniyaa chuume vahii qadam
+%
+#endindian
+\endsong
+

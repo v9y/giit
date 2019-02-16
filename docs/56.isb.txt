@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aaj kal merii ho.nTho.n par ha.Nsii hai aaj kal}%
+\film{Tamanna}%
+\year{}%
+\starring{Pooja Bhatt, Paresh Rawal, Sharad Kapoor, Ashutosh Rana}%
+\singer{Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+aaj kal, aaj kal, aaj kal, aaj kal
+mere ho.nTho.n par ha.Nsii hai aaj kal
+dil me.n ek duniyaa basii hai aaj kal
+aaj kal, aaj kal, aaj kal, aaj kal   \threedots
+
+aaj kisii ne pyaar se mujhako apanaa kahaa hai
+mai.n ne bhii apane dil pe kisii kaa naam likhaa hai
+dil ne sajaaye aa.Nkho.n me.n mere sapane hii sapane
+chaa.Nd bhii apanaa kiraNe bhii apanii taare bhii apane
+chaa.Ndanii hii chaa.Ndanii hai aaj kal
+mere ho.nTho.n par ha.Nsii hai aaj kal   \threedots
+
+merii tarah se lagate hai.n paagal, chaa.Nd sitaare
+kis ke liye hai phuul ye saare, baahe.n pasaare
+pyaar kii daulat, pyaar ke motii, pyaar ke shabanam
+ruuTh gaye the, chhuuT gaye the, mujhase jo mausam
+phir un ruto.n kii vaapasii hai aaj kal
+mere ho.nTho.n par ha.Nsii hai aaj kal   \threedots
+
+%
+#endindian
+\endsong
+%
+

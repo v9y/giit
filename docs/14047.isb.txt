@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{tumase pyaar ho gayaa ... dil me.n ho pyaar to duniyaa kii}%
+\film{Surakshaa}%
+\year{1995}%
+\starring{Monica Bedi, Aditya, Saif, Sheeba, Divya Dutta, Sunil Shetty, Kader}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	tumase pyaar ho gayaa
+a \:	to to
+ku \:	dil hamako de do
+a \:	lo lo
+
+a \:	tumase pyaar ho gayaa
+ku \:	to to
+a \:	dil hamako de do
+ku \:	lo lo
+
+a \:	dil me.n ho pyaar to duniyaa kii har chiiz suhaanii lagatii hai \-2
+	( jiine kaa mazaa ) \-2 aataa hai sanam jab umr\-e\-javaanii lagatii hai
+ku \:	tumase pyaar ho gayaa \threedots
+
+ku \:	zi.ndagii kuchh nahii.n ashiqii ke binaa \-2
+	phuul khilataa nahii.n hai kalii ke binaa
+a \:	merii puujaa adhuurii rahegii sanam \-2
+	ai sanam terii bandagii ke binaa
+ku \:	haa.N sanam bas terii bandagii ke binaa
+a \:	ab to zi.ndagii se \-2
+	ba.Dh ke bhii \-2 ye pyaar kii kahaanii lagatii hai
+ku \:	dil me.n ho pyaar \threedots
+
+a \:	ra.ng bharane lage dil ke jazbaat me.n \-2
+	haath aayaa jo teraa mere haath me.n
+ku \:	mai.n teraa ho gayaa baat hii baat me.n \-2
+	pyaar ba.Dhane lagaa har mulaaqaat me.n
+a \:	pyaar ba.Dhane lagaa \threedots
+ku \:	do din kaa milan
+	do din kaa milan bhii chaahat me.n \-2
+	sadiyo.n kii kahaanii lagatii hai
+a \:	dil me.n ho pyaar \threedots
+%
+#endindian
+\endsong
+

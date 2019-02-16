@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ham ko hamii.n se churaa lo}%
+\film{Mohabbatein}%
+\year{2000}%
+\starring{Shahrukh Khan, Amitabh, Aishwarya, }%
+\singer{Lata, Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Mo
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ham ko hamii.n se churaa lo
+dil me.n kahii.n tum chhupaa lo
+ham akele kho na jaaye.n
+duur tum se ho na jaaye.n
+paas aao gale se lagaa lo
+ham ko hamii.n se churaa lo \threedots
+
+ye dil dha.Dakaa do zulfe.n bikharaa do
+sharamaa ke apanaa aa.Nchal laharaa do
+ham zulfe.n to bikharaa de.n din me.n raat na ho jaaye
+ham aa.Nchal to laharaa de.n par barasaat na ho jaaye
+hone do barasaate.n karanii hai.n kuchh baate.n
+paas aao gale se lagaa lo \threedots
+
+tum pe marate hai.n ham mar jaaye.nge
+ye sab kahate hai.n ham kar jaaye.nge
+chuTakii bhar sinduur se tum ye maa.Ng zaraa bhar do
+kal kyaa ho kisane dekhaa sab kuchh aaj abhii kar do
+ho na ho sab raazii dil raazii rab raazii
+paas aao gale se lagaa lo \threedots
+
+%
+#endindian
+\endsong
+%

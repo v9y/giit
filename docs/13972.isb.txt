@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{piipal ke patavaa pe likh dii dil kii baat haa.n}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dharatii pe nahii.n ambar pe nahii.n nadiyaa pe nahii.n saagar pe nahii.n
+phuulo.n pe nahii.n baadal me.n nahii.n kaagaz pe nahii.n aa.Nchal pe nahii.n
+
+haay piipal ke patavaa pe likh dii dil kii baat haa.n
+aa_ii hai.n havaa_e.n le ke piyaa jii ko saath
+ab to jagaa_e.n mujhako saarii saarii raat
+khushbuu se bhiige tere me.nhadii vaale haath
+piipal ke patavaa pe \threedots
+
+merii dha.Dakan pe rahataa hai terii dha.Dakan kaa paharaa
+har din har pal hotaa jaa_e pyaar hamaaraa aur bhii gaharaa
+chorii chorii kyaa kahataa hai chaahat kaa mausam si.nduurii
+merii saa.Nso.n me.n ghul jaa_e terii saa.Nso.n kii kastuurii haay
+baraso.n yugo.n se ye apanii mulaakaat
+khushbuu se bhiige \threedots
+
+ishq tere de Duu.nge be.nDe ve jo Dubeyaa so tareyaa
+buuTaa sumiid mere daa ve ghar de ve.De bhareyaa
+Dor binaa hii khii.nche mujhako teraa cha.nchal ruup suhaanaa
+aajaa tere ho.nTho.n pe mai.n likh duu.n ho.nTho.n se afasaanaa
+jii karataa hai muu.nd ke aa.Nkhe.n terii baaho.n me.n so jaa_uu.n
+kuchh naa dekhuu.n kuchh naa sochuu.n tere sapano.n me.n kho jaa_uu.n
+haay haay
+de de tuu sajanaa mujhako bin maa.ngii saugaat
+aa_ii hai.n havaa_e.n \threedots
+%
+#endindian
+\endsong
+

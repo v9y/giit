@@ -1,0 +1,49 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{laakh parado.n me.n rahuu.N}%
+\film{(Non-film)}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hassan}%
+\music{Altaf Hussain}%
+\lyrics{Qateel Shifai}%
+% 
+% Audio on: Timeline Records
+% Tags: Ghazal
+% Contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% Date: 6 Dec 2005
+% Series: GEETanjali
+% Comments: The tags say "Ghazal", but technically it is not a Ghazal, it's a nazm
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+laakh parado.n me.n rahuu.N, bhed mere kholatii hai
+shaayarii sach bolatii hai
+mai.nne dekhaa hai ke jab merii zubaa.N Dolatii hai
+shaayarii sach bolatii hai
+
+teraa isaraar ke chaahat merii betaab na ho
+vaaqif is Gam se meraa halqaa\-e\-ahabaab na ho
+tuu mujhe zabt ke saharaao.n me.n kyuu.N rolatii hai
+shaayarii sach bolatii hai\threedots
+
+% isaraar = insistence
+% halqaa-e-ahabaab = circle of friends
+%
+
+ye bhii kyaa baat ke chhup chhup ke tujhe pyaar karuu.N
+gar ko_ii puuchh bhii baiThe to mai.n inakaar karuu.N
+jab kisii baat ko duniyaa kii nazar tolatii hai
+shaayarii sach bolatii hai
+
+mai.nne is fikr me.n kaaTii.n ka_ii raate.n ka_ii din
+mere shero.n me.n teraa naam na aaye lekin
+jab terii saa.Ns merii saa.Ns me ras gholatii hai
+shaayarii sach bolatii hai
+%
+#endindian
+\endsong

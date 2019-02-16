@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ik taaraa vajadaa ho ... kii kai.ndaa}%
+\film{Non-Film}%
+\year{1998}%
+\starring{}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Javahar Vattal, Surendra Sodi}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik taaraa vajadaa ho ik taaraa vajadaa
+ik taaraa vajadaa kii kai.ndaa
+kii kai.ndaa ba_ii kii kai.ndaa
+sur jad vii sajadaa kii kai.ndaa
+kii kai.ndaa ba_ii kii kai.ndaa
+ik taaraa vajadaa \threedots
+
+gallaa.n vichcho.n gal hai ko_ii samajhegaaa dilavaalaa
+prem daa pyaalaa pii ke phero apane yaar dii maalaa
+sukh miladaa hai usanuu.N je.Daa pyaar de dukh nuu.N sii.ndaa
+yaaro.n ai sukh aisaa hai jo aake phir nahii.n jaa.ndaa
+ik taaraa vajadaa \threedots
+
+ko_ii na rai.ndaa is jag te sukh aake mu.D mu.D jaa.nde
+par sachche aashiq de ai duniyaa vaale guN gaa.nde
+pyaar hii rai jaa.ndaa hai yaaro.n baakii kuchh nahii.n rai.ndaa
+kii puchhade o is taare dii taaraa ai_iyo kai.ndaa
+ik taaraa vajadaa \threedots
+
+kii kai.ndaa suN kii kai.ndaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aap ne yaad dilaayaa to mujhe yaad aayaa}%
+\film{Aarti}%
+\year{1962}%
+\starring{Meena Kumari, Pradeep Kumar and Ashok Kumar}%
+\singer{Rafi / Lata}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Prashant Kulkarni (praskulk@engin.umich.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aap ne yaad dilaayaa to mujhe yaad aayaa
+ke mere dil pe pa.Daa thaa koI Gam kaa saayaa
+aap ne yaad dilaayaa  \threedots
+
+mai.n bhii kyaa chiiz huu.N khaayaa thaa kabhii tiir koI
+dard ab jaa ke uThaa choT lage der huI
+tumako hamadard jo paayaa to mujhe yaad aayaa
+ke mere dil pe pa.Daa thaa koI Gam kaa saayaa \threedots
+
+mai.n zamii.n par huu.N na samajhaa na parakhanaa chaahaa
+aasamaa.N par ye kadam jhuum ke rakhanaa chaahaa
+aaj jo sar ko jhukaayaa to mujhe yaad aayaa
+ke mere dil pe pa.Daa thaa koI Gam kaa saayaa \threedots
+
+% (the last stanza is sung by Lata ...)
+lataa:
+mai.n ne bhii soch liyaa saath nibhaane ke liye
+duur tak aauu.ngii mai.n tumako manaane ke liye
+dil ne ehasaas dilaayaa to mujhe yaad aayaa
+ke mere dil pe pa.Daa thaa koI Gam kaa saayaa \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaa sanam mujh ko hai pyaar pe aitabaar}%
+\film{Na Tum Jaano Na Hum}%
+\year{2002}%
+\starring{Hritik Roshan, Isha Deol, Said Ali Khan}%
+\singer{Sneha Pant, Kamaal Khan}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+jaa sanam mujh ko hai pyaar pe aitabaar
+mai.n karuu.Ngii teraa intazaar
+mai.n itanii duur chalaa jaa_uu.Ngaa
+tujhe yaad bhii naa aa_uu.Ngaa
+ye baat aur hai jaanam ke tujhe mai.n bhuul naa paa_uu.Ngaa
+
+jaa sanam mujh ko hai pyaar pe aitabaar
+jaa magar mu.D ke tuu dekh le ek baar
+mai.n karuu.Ngii teraa intazaar \threedots
+
+tum se hii thii merii zi.ndagii lekin ye kyaa hu_aa
+tum bin bhii mai.n jii rahaa huu.N mai.n kaisaa huu.N bevafaa
+jaa sanam aa_egii phir lauT ke ye bahaar
+mai.n karuu.Ngii teraa intazaar \threedots
+
+shaayad kabhii kahii.n tumhe.n merii mile Kabar
+kar lenaa yaad bas mujhe mumakin ho ye agar
+jaa sanam tere saath merii jaan hai mere yaar
+mai.n karuu.Ngii teraa intazaar \threedots
+%
+#endindian
+\endsong

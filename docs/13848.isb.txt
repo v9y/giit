@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{naach merii bulabul ki paisaa milegaa}%
+\film{Roti}%
+\year{1974}%
+\starring{Rajesh Khanna, Mumtaz, Jagdip}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11246 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+naach merii bulabul ki paisaa milegaa
+kahaa.N kadaradaan hame.n aisaa milegaa
+naach merii bulabul \threedots
+ghu.Ngharuu banaa ke pairo.n me.n baa.Ndh le
+phir meharabaan hame.n aisaa milegaa
+naach merii bulabul \threedots
+
+kitanaa pyaasaa hai ye paise vaalaa
+isako pilaa de tuu mastii kaa pyaalaa
+kahaa.N anajaan hame.n ( aisaa milegaa ) \-3
+naach merii bulabul \threedots
+
+apanii tamannaa hai kitanii chhoTii
+do haath kapa.Daa do vaqt roTii
+kahaa.N pe makaan hame.n ( aisaa milegaa ) \-3
+naach merii bulabul \threedots
+%
+#endindian
+\endsong
+

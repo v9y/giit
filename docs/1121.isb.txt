@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n ne shaayad tumhe.n, pahale bhii kahii.n dekhaa hai}%
+\film{Barsaat Ki Raat}%
+\year{1960}%
+\starring{Bharat Bhushan, Madhubala, Nimmi}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mai.n ne shaayad tumhe.n pahale bhii kahii.n dekhaa hai
+
+ajanabii sii ho magar gair nahii.n lagatii ho
+vaham se bhii jo ho naazuk vo yakii.n lagatii ho
+haay ye phuul saa cheharaa ye ghanerii zulfe.n
+mere shero.n se bhii tum mujhako ha.nsii.n lagatii ho
+
+dekhakar tumako kisii raat kii yaad aatii hai
+ek Kaamosh mulaaqaat kii yaad aatii hai
+jahaa.N me.n husn kii Tha.nDak kaa asar jagataa hai
+aa.nch detii huI barasaat kii yaad aatii hai
+
+jisakii palake.n merii aa.Nkho.n pe jhukii rahatii hai.n
+tum vahii mere Kayaalo.n kii parii ho kii nahii.n
+kahii.n pahale kii tarah phir to na kho jaaogii
+jo hameshaa ke liye ho vo khushii ho kii nahii.n
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tasaviir banaataa huu.N tasaviir nahii.n banatii}% 
+\film{Baradari}%
+\year{1955}%
+\starring{Ajit, Giitaa Baalii}%
+\singer{Talat}%
+\music{Nashad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor:  Preetham Gopalaswamy (preetham@src.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Faez Nasrudin Kaiser (nasrudin@glue.umd.edu)
+%          Ayyagari Bhuvaneshwari (ayyagari@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tasaviir banaataa huu.N, tasaviir nahii.n banatI, tasaviir nahii.n banatI 
+ek khvaab saa dekhaa hai, taabIr nahii.n banatI, tasaviir nahii.n banatI 
+tasaviir banaataa huu.N \threedots
+
+bedard muhabbat kA, itanaa saa hai afasaanaa \- 2
+nazaro.n se milii nazare.n, mai.n ho gayaa dIvaanaa 
+ab dil ke bahalane kii, tadabIr nahii.n banatI, tasaviir nahii.n banatI 
+tasaviir banaata huu.N \threedots
+
+dam bhar ke liye merI, duniyA me.n chale aao \- 2
+tarasii huI aa.Nkho.n ko, phir shakl dikhaa jaao 
+mujhase to merI biga.Dii, takadIr nahii.n banatI, tasaviir nahii.n banatI 
+tasaviir banaata huu.N \threedots
+%
+#endindian
+\endsong
+%

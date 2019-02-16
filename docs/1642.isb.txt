@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{suhaanaa safar aur ye mausam hasii.n}%
+\film{Madhumati}%
+\year{}%
+\starring{Dilip Kumar, Vijayanthimala}%
+\singer{Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Umesh D Navsariwala (udnavs00@nx20.mik.uky.edu)
+%          Kunal N Taravade (taravade@shark.ecn.purdue.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+suhaanaa safar aur ye mausam ha.nsii.n (2)
+hame.n Dar hai ham kho na jaae.n kahii.n
+suhaanaa safar \threedots
+
+(ye kaun ha.Nsataa hai phuulo.n me.n chhuup kar 
+bahaar bechain hai kisakii dhun par ) \- (2)
+kahii.n gumagum, kahii.n rumajhum, ke jaise naache zamii.n
+suhaanaa safar \threedots
+
+(ye gorii nadiyo.n kaa chalanaa uchhalakar 
+ke jaise alha.D chale pii se milakar ) \- (2)
+pyaare pyaare ye nazaare nikhare hai.n har kahii.n
+suhaanaa safar \threedots
+
+ho ho ho \threedots
+(vo aasamaa.N jhuk rahaa hai zamii.n par 
+ye milan hamane dekhaa yahii.n par ) \- (2)
+merii duniyaa, mere sapane, mile.nge shaayad yahii.n
+suhaanaa safar \threedots
+%
+#endindian
+\endsong
+%

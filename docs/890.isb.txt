@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{jiyaa o jiyaa o jiyaa kuchha bol do}% 
+\film{Jab Pyar Kisi Se Hota Hai}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+ho ho!!	aah haa\threedots
+(jiyaa o, jiyaa o jiyaa kuchh bol do
+are o, dil kaa pardaa khol do ) \- 2
+aah haa aa\threedots
+jab pyaar kisii se hotaa hai
+to dard saa dil me.n hotaa hai
+tum ek hasiin ho laakho.n me.n
+bhalaa paake tume koI khotA hai
+jiyaa o, jiyaa o jiyaa kuchha bol do	
+
+nazaro.n se kitane tiir chale
+chalane do jigar par jhele.nge
+in pyaar kii ujalii raaho.n par
+ham jaana kI baazii khele.nge
+in do naino.n ke saagar me.n
+koI dil kii naiyaa Dubotaa hai
+o jiyaa o, jiyaa o jiyaa kuchha bol do
+are o, dil ka pardaa khol do \threedots
+
+tum bhii to is aag me.n jalte ho
+chehare se bayaa.n ho jaataa hai.n
+har baat pe aahe.n bharate ho
+har baat pe dil tharraataa hai	
+jab dil pe chhuriyaa.n chalatI hai.n
+to chain se koI sotaa hai
+jiyaa o, jiyaa o jiyaa kuchha bol do
+are o, dil kaa pardaa khol do
+%
+#endindian % End indian text....same as >!
+\endsong
+%

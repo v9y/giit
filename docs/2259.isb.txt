@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aaj hamaare dil me.n ajab ye ulajhan hai}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Alok Nath, Rima Lagoo, Anupam Kher, Salman Khan, Madhuri Dixit}%
+\singer{Lata, Kumar Sanu}%
+\music{Ram Laxman}%
+\lyrics{Ravinder Rawal}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+aaj hamaare dil me.n ajab ye ulajhan hai
+gaane baiThe gaanaa, saamane samadhan hai
+ham kuchh aaj sunaaye.n, ye unakaa bhii man hai
+gaane baiThe gaanaa, saamane samadhan hai
+
+kaano kii baaliyaa.N, chaa.Nd suuraj lage
+ye banaaras kii saa.Dii khuub saje
+raaz kii baat bataaye.n, samadhiijii ghaayal hai.n
+aaj bhii jab samadhan kii, khanakatii paayal hai
+
+ho.nTho.n kii ye ha.Nsii, aa.Nkho.n kii ye hayaa
+itanii maasuum to, hotii hai bas duaa
+raaz kii baat bataaye.n samadhii khush qisamat hai.b
+laxmii hai samadhan jii, jinase ghar jannat hai
+
+aaj hamaare dil me.n ajab ye ulajhan hai
+saamane samadhiijii, gaa rahii samadhan hai
+hamako jo hai nibhaanaa, vo naazuk bandhan hai
+saamane samadhiijii, gaa rahii samadhan hai
+
+merii chhaayaa hai jo, aapake ghar chalii
+sapanaa ban ke merii, palako.n me.n hai palii
+raaz kii baat bataaye.n, ye puu.Njii jiivan kii
+shobhaa aaj se hai ye, aapake aa.Ngan kii
+
+%
+#endindian
+\endsong
+%

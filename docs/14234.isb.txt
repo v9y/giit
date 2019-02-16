@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{mere pyaar me.n tujhe kyaa milaa}%
+\film{Suhagan}%
+\year{1964}%
+\starring{Guru Dutt, Mala Sinha}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10569 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mere pyaar me.n tujhe kyaa milaa
+mere dil kaa phuul na khil sakaa
+mere pyaar me.n \threedots
+
+teraa ra.ng\-ruup uja.D gayaa ye hasiin cheharaa utar gayaa
+na bahaar hai na si.ngaar hai na ko_ii Kushii na qaraar hai
+mujhe apane aap se hai gilaa
+mere pyaar me.n \threedots
+
+rahii dil kii dil me.n hii hasarate.n banii.n zahar pyaar kii raahate.n
+merii majabuuriyaa.N banii.n terii be.Diyaa.N tujhe khaa ga_ii.n ye Kaamoshiyaa.N
+ke Gamo.n pe kuchh bhii na bas chalaa
+mere pyaar me.n \threedots
+
+mere dil yahaa.N se tuu chal kahii.n mujhe ko_ii jiine kaa haq nahii.n
+mai.n karuu.Ngaa teraa hii Kaatmaa tere saath apanaa bhii Kaatmaa
+meraa aaj hai ( yahii faisalaa ) \-3
+mere pyaar me.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{meraa qaraar le jaa mujhe beqaraar kar jaa}% 
+\film{Aashiana}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis, Mohana}%
+\singer{Talat / Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+(meraa qaraar le jaa mujhe beqaraar kar jaa 
+dam bhar to pyaar kar jaa  ) \- 2
+
+mere din guzar rahe hai.n, terI yaad ke sahaare \- 2
+merA dil ta.Dap rahaa hai terI aarazuu ke maare 
+bechain mere dil ko bas ek baar kar jaa 
+dam bhar to pyaar kar jaa 
+merA qarAr \threedots
+
+mujhe ek jhalak dikhaa ke, parado.n me.n chhupane vAle  \- 2
+kab tak lage rahe.nge khaamoshiyo.n ke taale 
+nazare.n churaane vAle, nazare.n to chaar kar jaa 
+dam bhar to pyaar kar jaa 
+merA qarAr \threedots
+%
+#endindian
+\endsong
+%

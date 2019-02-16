@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{ajanabii, tum jaane pahachaane se lagate ho}% 
+\film{Ham Sab Ustad Hain}%
+\year{}%
+\starring{Kishore}%
+\singer{Kishore / Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Uday Patel
+%
+\printtitle 
+#indian 
+%
+ajanabii ## [loud] ##
+
+ajanabii, tum jaane pahachaane se lagate ho \- 2
+ye ba.DI ajiib sI baat hai, ye na_ii na_ii mulaakaat hai 
+phir bhI jaane kyo.n, ajanabii \threedots
+
+tumane kabhI pyaar kiyaa thA kisii raahii se \- 2
+tumane kabhI vAdA kiyaa thA kisii sAthI se 
+nA vo pyaar rahaa, nA vo baat rahI 
+phir bhI jaane kyo.n, ajanabii \threedots
+
+dil me.n rahe aur hamArA dil to.D diyaa \- 2
+saath chale, mo.D pe aake hame.n chho.D diyaa 
+tum ho kahaa.N, aur ham kahaa.N 
+phir bhI jaane kyo.n, ajanabii \threedots
+
+%
+% Lata version
+%
+ajanabii, tum jaane pahachaanese lagate ho
+ye ba.Dii ajiib sii baat hai
+ki na_ii na_ii mulaaqaat hai
+phir bhii jaane kyo.n, ajanabii \threedots
+
+lagataa hai yuu.N Kvaab hai jaise koii dekhaa huaa
+kahataa hai dil aaj milaa hai koii khoyaa huaa
+na Kayaal tumhe.n na Kayaal hame.n
+phir bhii jaane kyo.n, ajanabii \threedots
+
+kis ko Kabar pahale mile the ham dono.n kahaa.N
+kab se magar Dhuu.NDh rahaa thaa tumhe.n meraa jahaa.N
+na to yaad tumhe.n, na to yaad hame.n
+phir bhii jaane kyo.n, ajanabii \threedots
+
+kitane janam biit gaye hai.n tumhe.n paane me.n
+hamane tumhe.N pyaar kiyaa thaa anajaane me.n
+na kabhii mile, na qariib hue
+phir bhii jaane kyo.n, ajanabii \threedots
+
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{aayaa re aayaa ko_ii aayaa re ... mere dil ko kisii ne ... churaayaa re}%
+\film{Rehna Hai Tere Dil Mein}%
+\year{2002}%
+\starring{Shahrukh Khan, Rani Mukherjee}%
+\singer{Preeti, Pinky, Shekhar}%
+\music{Harris Jayraj}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11730 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+prii, pi.n \:	aayaa re aayaa ko_ii aayaa re
+	aayaa re aayaa re
+	chupake se dil me.n samaayaa re
+	samaayaa re samaayaa re
+
+	aayaa re aayaa ko_ii aayaa re
+	chupake se dil me.n samaayaa re
+	sapano.n me.n aa ke mere dil ko kisii ne
+	churaayaa churaayaa churaayaa churaayaa churaayaa re \-2
+
+	churaa ke dil kahataa hai
+she \:	rahanaa hai tere dil me.n \-3
+prii, pi.n \:	ho usane to dekho merii betaabii ko
+	ba.Dhaayaa ba.Dhaayaa ba.Dhaayaa ba.Dhaayaa ba.Dhaayaa re \-2
+
+	gayaa dil to gayaa gayaa
+	gayaa gayaa
+	dard jaagaa nayaa
+	gayaa dil to gayaa gayaa
+	dard jaagaa nayaa nayaa
+	dil dha.Dakaayaa
+	mujhe raato.n me.n
+	dil dha.Dakaayaa mujhako raato.n me.n
+	jagaayaa jagaayaa jagaayaa jagaayaa jagaayaa re \-2
+	aayaa re aayaa ko_ii aayaa re
+	chupake se dil me.n samaayaa re
+	sapano.n me.n aa ke mere dil ko kisii ne
+	churaayaa churaayaa churaayaa churaayaa churaayaa re \-2
+
+	pyaar mujhako hu_aa
+	hu_aa hu_aa
+	haay usane dil ko chhu_aa
+	pyaar mujhako hu_aa hu_aa
+	haay usane dil ko chhu_aa chhu_aa
+	maine palako.n me.n
+	diivaane ko
+	maine palako.n me.n us diivaane ko
+	chhupaayaa chhupaayaa chhupaayaa chhupaayaa chhupaayaa re \-2
+	aayaa re aayaa ko_ii aayaa re
+	chupake se dil me.n samaayaa re
+	sapano.n me.n aa ke mere dil ko kisii ne
+	churaayaa churaayaa churaayaa churaayaa churaayaa re \-2
+	churaa ke dil kahataa hai
+she \:	rahanaa hai tere dil me.n \-3
+prii, pi.n \:	o sapano.n me.n aa ke mere dil ko kisii ne
+	churaayaa churaayaa churaayaa churaayaa churaayaa re \-4
+%
+#endindian
+\endsong
+

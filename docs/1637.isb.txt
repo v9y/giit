@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{so jaa raajakumaarii so jaa}%
+\film{Zindagi}%
+\year{1940}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{Pankaj Mullick}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+so jA ##(slow)##
+so jA rAjakumArI so jA
+so jA mai.n balihArI so jA
+so jA rAjakumArI so jA
+
+so jA mIThe sapane Ae.N
+sapano.n me.n pI daras dikhAe.N \- 2
+u.D kar rUpanagar me.n jAe.N \- 2
+rUpanagar kI sakhiyA.n Ae.N \- 2
+rAjAjI mAlA pahanAe.N \- 2
+chUme mA.ng tihArI so jA
+so jA rAjakumArI so jA
+%
+#endindian
+\endsong
+%

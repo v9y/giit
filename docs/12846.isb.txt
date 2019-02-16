@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{##mother mother dear mother## ... jab jab dekhuu.n tujhe}%
+\film{Mother '98}%
+\year{1998}%
+\starring{Rekha, Jeetendra, Randhir Kapoor, Sanober Kabir, Rakesh Roshan}%
+\singer{Anuradha Paudwal, Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##mother mother dear mother. mother mother dear mother##
+jab jab dekhuu.n tujhe aa_e bhagavaan nazar
+##mother mother## \threedots
+
+bachche maa.N se ruuTh bhii jaa_e.n maa.N bachcho.n se ruuThe naa
+saare rishte TuuT bhii jaa_e.n par ye rishtaa TuuTe naa
+ye ba.ndhan hai aisaa ba.ndhan jiivan bhar ko chhuuTe naa
+##mother mother## \threedots
+
+terii aa.Nkho.n me.n rahate hai.n ga.ngaa jamanaa ke dhaare
+kyuu.n jaa_uu.n mai.n ma.ndir masjid kyuu.n jaa_uu.n mai.n gurudvaare
+ishvar allaa aur guru naanak tujhame.n chhupe hai.n ye saare
+##mother mother## \threedots
+
+maa.N bachcho.n kii nazaro.n me.n bhagavaan hai
+par mat bhuulo.n vo bhii ik i.nsaan hai
+usakii bhii hotii hai.n kuchh majabuuriyaa.n
+usakii bhii hotii hai.n kuchh kamajoriyaa.n
+##no, no, don't say mother o mother dear mother##
+##mother mother great mother mother mother##
+%
+#endindian
+\endsong
+

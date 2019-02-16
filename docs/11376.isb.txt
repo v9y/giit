@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{maaTii kaa but bhaa gayaa dil hii to hai aa gayaa}%
+\film{Do Dil}%
+\year{1947}%
+\starring{Suraiyya, Motilal, Karan Deewan, Gulab, Badri Prasad}%
+\singer{Suraiya, Mukesh}%
+\music{Govind Ram}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12583 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	maaTii kaa but bhaa gayaa \-2
+	dil hii to hai aa gayaa \-2
+	o jii
+mu \:	dil ko ye kyaa ho gayaa \-2
+	bas me.n jo thaa kho gayaa \-2
+	o ho jii
+
+mu \:	ek dil teraa ek meraa dono.n mil jaaye.n \-2
+su \:	dhiire\-dhiire bol
+	dhiire\-dhiire bol kahii.n jag kii aa.Nkh me.n na aaye.n
+	nazaro.n me.n jo aa gayaa \-2
+	sambhale naa sambhalaa gayaa \-2
+	o jii
+
+su \:	do din ab moraa jiyaa naahii laage kit jaa_uu.N \-2
+mu \:	gorii tohe palako.n kii is Daar pe mai.n naum dikhaa_uu.N \-2
+su \:	choT wo dil khaa gayaa \-2
+	sambhale naa sambhalaa gayaa \-2
+	o jii
+%
+#endindian
+\endsong
+%
+

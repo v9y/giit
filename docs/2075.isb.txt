@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{haay taubaa, mujhe tuu ne badanaam kar diyaa}%
+\film{Jawani Diwani}%
+\year{1972}%
+\starring{Randhir Kapoor, Jaya Bhaduri}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+haay taubaa mujhe tuu ne badanaam kar diyaa
+merii nazar ne ye dil tere naam kar diyaa
+haay taubaa   \threedots
+
+tumase piyaa hamako kahanii thii kitanii baate.n
+sochaa thaa kar le.nge jab ho.ngii mulaaqaate.n
+milane par ham tumase lekin kuchh bhii kah na paaye
+binaa kahe haa.N
+binaa kahe aa.Nkho.n ne ye kaam kar diyaa
+haay taubaa   \threedots
+
+dekho mile kaise ham do raahii anjaane
+baato.n hii baato.n me.n ban baiThe miit puraane
+kaun huu.N mai.n aur kaun hai tuu qisamat ne lekin dekho
+merii kahaanii, haa.N
+merii kahaanii kaa ye a.njaam kar diyaa
+haay taubaa   \threedots
+
+%
+#endindian
+\endsong
+%

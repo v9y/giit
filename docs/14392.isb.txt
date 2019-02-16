@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ko_ii nahii.n hai aisaa ... merii aa.Nkho.n ne chunaa hai}%
+\film{Tarkeeb/ Reaching The Killer}%
+\year{2000}%
+\starring{Nana Patekar, Tabu, Shilpa Shetty, Milind Soman}%
+\singer{Jagjit Singh, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Nd bhii dekhaa phuul bhii dekhaa
+baadal bijalii titalii juganuu.n ko_ii nahii.n hai aisaa
+teraa husn hai jaisaa
+
+merii nigaaho.n ne ye kaisaa khvaab dekhaa hai
+zamii.n pe chalataa hu_aa maahataab dekhaa hai
+
+merii aa.Nkho.n ne chunaa hai tujhako duniyaa dekhakar
+kisakaa cheharaa ab mai.n dekhuu.n teraa cheharaa dekhakar
+merii aa.Nkho.n ne \threedots
+
+nii.nd bhii dekhii khvaab bhii dekhaa
+chuu.Dii bi.ndiyaa darpaN khushbuu ko_ii nahii.n hai aisaa
+teraa pyaar hai jaisaa
+merii aa.Nkho.n ne \threedots
+
+ra.ng bhii dekhaa ruup bhii dekhaa
+rastaa ma.nzil saahil mahafil ko_ii nahii.n hai aisaa
+teraa saath hai jaisaa
+merii aa.Nkho.n ne \threedots
+
+bahut khuubasuurat hai.n aa.Nkhe.n tumhaarii
+banaa diiji_e inako kismat hamaarii
+use aur kyaa chaahiye zi.ndagii me.n
+jise mil ga_ii hai muhabbat tumhaarii
+%
+#endindian
+\endsong
+

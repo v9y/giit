@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{pahale pyaar kaa pahalaa Gam ... aa bhii jaa_o varanaa ro de.nge ham}%
+\film{Paapaa Kehte Hain}%
+\year{1996}%
+\starring{Jugal Hansraj, Mayuri Kango, Anupam, Tiku, Javed Khan}%
+\singer{Kavita Subramaniam}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahale pyaar kaa pahalaa Gam pahalii baar hai.n aa.Nkhe.n nam
+pahalaa hai tanhaa_ii kaa ye mausam aa bhii jaa_o varanaa ro de.nge ham
+
+hamane the dekhe saath jo milake sapane ruuTh ga_e
+saare khilaune kaa.nch ke nikale chhan se TuuT ga_e
+ab ham hai.n tanhaa_ii hai ek udaasii chhaa_ii hai
+dha.Dakan bhii hai jaise maddham maddham
+aa bhii jaa_o varanaa \threedots
+
+tum jo nahii.n to duniyaa hamako achchhii nahii.n lagatii
+tum jo nahii.n to baat ko_ii ho sachchii nahii.n lagatii
+hamane dil ko samajhaayaa sau baato.n se bahalaayaa
+lekin dil kaa dard nahii.n hotaa kam
+aa bhii jaa_o varanaa \threedots
+%
+#endindian
+\endsong
+

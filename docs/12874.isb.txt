@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{subah se lekar shaam tak ... mujhe pyaar karo}%
+\film{Mohraa}%
+\year{1994}%
+\starring{Sunil Shetty, Akshay Kumar, Raveena, Naseeruddin, Poonam Jhawer}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+subah se lekar shaam tak shaam se lekar raat tak
+raat se lekar subah tak subah se phir shaam tak
+mujhe pyaar karo
+shahar se lekar gaa.nv tak dhuup se lekar chhaa.nv tak
+sir se lekar paa.nv tak dil kii sabhii vafaa_o.n tak
+mujhe pyaar karo
+
+aur piyaa kuchh bhii kar lo lekin rakhanaa yaad
+kuchh shaadii se pahale kuchh shaadii ke baad
+pyaar me.n ab itanii sharte.n kaun rakhegaa yaad
+kyaa shaadii se pahale kyaa shaadii ke baad
+paas se lekar duur tak duur se lekar paas tak
+in ho.nTho.n kii pyaas tak dharatii se aakaash tak
+mujhe pyaar karo \threedots
+
+aisaa kaise ho sakataa hai puuraa puuraa pyaar
+yaa khul ke ikaraar karo tum yaa khul ke inkaar
+mere gale me.n Daal ke baahe.n kar lo baate.n
+isake aage karanaa pa.Degaa tumako intazaar
+saagar ke is chhor tak saagar ke us paar tak
+nazaro.n kii diivaar tak pyaar se lekar pyaar tak
+mujhe pyaar karo \threedots
+%
+#endindian
+\endsong

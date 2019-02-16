@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{dil hu_aa bekaraar aahistaa aahistaa ... ho gayaa tumase pyaar}%
+\film{Gunehgaar}%
+\year{1994}%
+\starring{Mithun, Pooja Bhatt, Atul Agnihotri, Vishwajit Pradhan, Kiran Kumar}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Shyam Surinder}%
+\lyrics{Maan Singh Deep}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil hu_aa bekaraar aahistaa aahistaa
+ho gayaa tumase pyaar aahistaa aahistaa
+dil hu_aa bekaraar \threedots
+
+jaane kyo.n ho gayaa meraa dil diivaanaa
+banate banate ban gayaa pyaar kaa afasaanaa
+ai jaan\-e\-jaa.n aa.Nkho.n me.n vo chhaane lagaa khumaar aahistaa aahistaa
+dil hu_aa bekaraar \threedots
+
+mausam kii havaa_o.n me.n khushbuu tere pyaar kii
+saa.Nse.n karane lagii baate.n ijahaar kii
+aane lagaa naam ho.nTho.n pe baar baar aahistaa aahistaa
+dil hu_aa bekaraar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,63 @@
+
+%
+\startsong
+\stitle{suno re suno ek baat sunaa_uu.N ... mai.n bairaagii naachuu.N}%
+\film{Bairaag}%
+\year{1976}%
+\starring{Dilip Kumar, Saira Bano, Lina Chandrawarkar, Prem Chopra}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11257 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	suno re suno ek baat sunaa_uu.N
+	jhuuTh hai yaa sach hai ye tum jaano \-2
+	( mai.n bairaagii ) \-2 naachuu.N\-gaa_uu.N
+
+la \:	suno re suno ek baat sunaa_uu.N
+	jhuuTh hai yaa sach hai ye tum jaano \-2
+	( mai.n bairaagan ) \-2 naachuu.N\-gaa_uu.N
+
+ra \:	o dekho in bedardo.n ko chho.D ke laaj ke pardo.n ko \-2
+	galii\-galii me.n aurate.n chhe.Datii phiratii hai.n in mardo.n ko
+la \:	aapane sach faramaayaa hai sachchaa shor machaayaa hai \-2
+	mardo.n ke din biit ga_e aurat kaa zamaanaa aayaa hai \-2
+ra \:	mai.n naa maanuu.n
+la \:	tum naa maano
+ra \:	mai.n kyaa jaanuu.N
+la \:	tum kyaa jaano
+ra \:	mai.n to sabakaa dil bahalaa_uu.N
+	mai.n bairaagii \threedots
+
+la \:	likhane vaalaa likhataa hai ik aisaa chashmaa bikataa hai
+	jis chashme ke andar se bha_ii andho.n ko bhii dikhataa hai \-2
+ra \:	jag me.n aise ba.nde hai.n ba.ndo.n ke aise dhandhe hai.n
+	kyaa karanaa hai dekh ke jag ko achchhe hai.n jo andhe hai.n
+la \:	tuu anajaanaa
+ra \:	tuu anajaanii
+la \:	tuu diivaanaa
+ra \:	tuu diivaanii
+la \:	diivaane ko kyaa samajhaa_uu.N
+	mai.n bairaagan \threedots
+
+	o raat ko jab din Dhalataa hai prem kaa jaaduu chalataa hai \-2
+	tuu bairaagii kyaa jaane kaahe ko pata.ngaa jalataa hai
+ra \:	kah do is panihaarii se puuchh le duniyaa saarii se
+	jale pata.ngaa lekin khele.n bairaagii chi.ngaarii se
+la \:	khel ke dekho
+ra \:	chhe.D ke dekho
+la \:	chhe.D ke dekho
+ra \:	khel ke dekho
+	mai.n jo boluu.n kar dikhalaa_uu.N
+	mai.n bairaagii \threedots
+%
+#endindian
+\endsong
+

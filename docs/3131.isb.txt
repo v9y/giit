@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{kyaa jaane amiirii jo Gariibii kaa mazaa hai}%
+\film{Aaj ki Raat}%
+\year{1948}% 
+\starring{Suraiya, Motilal}%
+\singer{Meena Kapoor}%
+\music{Husnlal-Bhagtram}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: <Urzung Khan>
+% Transliterator:  
+%
+\printtitle
+#indian
+%
+
+
+kyaa jaane amiirii jo Gariibii kaa mazaa hai
+daulat unhe.n dii hai to hame.n sabr diyaa hai
+
+ham sone kii chaa.Ndi kii tamannaa nahii.n karate
+dukh dard me.n bhii ha.Nste hai.n shikavaa nahii.n karate
+qisamat ne Gariibii dii dil to ba.Daa hai
+kyaa jaane amiirii \threedots
+
+phuulo.n ke bichhaune pe sotii hai amiirii
+kaa.NTo.n ke bistar pe bhii ha.Nstii hai faqiirii
+vo kaa.NTaa bhii hai phuul jo maalik ne diyaa hai
+kyaa jaane amiirii \threedots
+
+hai jeb agar garm to kuchh khaa jaa khilaa jaa
+daulat se na kar payaar ise yuu.N hii luTaa jaa
+naadaan ye paisaa bhii kabhii saath gayaa hai
+kyaa jaane amiirii \threedots
+
+%
+#endindian
+\endsong
+%

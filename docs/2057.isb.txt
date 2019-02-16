@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{dil milaa dard ko mahamaan banaane ke liye}%
+\film{Bewafaa}%
+\year{1951}%
+\starring{Ashok Kumar, Raj Kapoor, Nargis}%
+\singer{Talat}%
+\music{Alla Rakha}%
+\lyrics{Sarshar Silani}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+dil milaa dad.r ko mahamaan banaane ke liye
+aa.Nkh baKshii hai kahii.n aa.Nkh la.Daane ke liye
+
+kaam haatho.n kaa hai milane kii duaa_e.n karanaa
+sar milaa ishq ke kadamo.n pe jhukaane ke liye
+
+husn kii aa.Nkh me.n aa.Nsuu nahii.n dekhe jaate
+ishq taiyyaar hai har naaz uThaane ke liye
+
+haay aate hii ye jaane kaa taqaazaa kaisaa
+der lagatii hai lagii dil kii bujhaane ke liye
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{Gam kii davaa to pyaar hai}%
+\film{Amaanush}%
+\year{1975}%
+\starring{Uttam Kumar, Sharmila Tagore, Prema Narayan, Anil Chatterji, Utpal Dutt}%
+\singer{Asha}%
+\music{Shyamal Mitra}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11555 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+Gam kii davaa to pyaar hai Gam kii davaa sharaab nahii.n
+Thukaraa_o naa hamaaraa pyaar itane to ham Karaab nahii.n
+Gam kii davaa to \threedots
+
+jaataa hai jo jaane do aataa hai vo aane do
+biitii baate.n biit ga_ii.n na_ii bahaare.n aane do
+bagiyaa me.n phuul hazaaro.n hai.n ek hii to gulaab nahii.n
+Gam kii davaa to \threedots
+
+ghaav jiyaa ke bhar de.nge TuuTaa dil ham jo.De.nge
+ban ke rahe.nge saathii ham saath kabhii naa chho.De.nge
+ab ko_ii tumako sataa sake itanii kisii me.n taab nahii.n
+Gam kii davaa to \threedots
+%
+#endindian
+\endsong
+

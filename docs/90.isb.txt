@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{aan milo aan milo shyaam saa.nvare, aan milo}%
+\film{Devdas}%
+\year{1955}%
+\starring{Dilip Kumar, Suchitra Sen, Vyjayantimala}%
+\singer{Geeta, Manna De}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde <avinash@acm.org>
+% Credits: C. S. Sudarshana Bhat <cesaa129@utacnvx.uta.edu>
+%          Venkatasubramanian K Gopalakrishnan <gopala@cs.wisc.edu>
+%          Preetham Gopalaswamy <preetham@src.umd.edu>
+% Editor: Anurag Shankar <anurag@astro.indiana.edu>
+%
+\printtitle
+#indian
+%
+gii : aan milo aan milo shyaam saa.nvare \threedots aan milo
+aan milo aan milo shyaam saa.nvare, bR^ij me.n akelii raadhe khoI\-khoI phire
+ma :  o raadhe khoI\-khoI phire, o kaanhaa aan milo
+gii, ma : o \threedots aan milo aan milo  \threedots
+
+gii : bR^i.ndaavan kii galiyo.n me.n tum bin jiyaraa naa laage
+ma :  o \threedots jiyaraa naa laage
+gii : nis din tumhaarii baaT dekhe vyaakul nainaa bhaage
+ma : vyaakul naina bhaage \threedots
+gii : ab hii aisii dashaa hai man kii kyaa hovai phir aage re
+bR^ij me.n akelii raadhe khoI\-khoI phire
+ma : o raadhe khoI\-khoI phire
+o kaanhaa aan \threedots
+
+gii : aaj na kaahe jamunaa tiire muralii madhur bajaaI
+ma : o \threedots muralii madhur bajaaI
+gii : aaj na kaahe sakhiyaa.n ke sa.ng hil\-mil raas rachaaI
+ma : o \threedots mil\-mil raas rachaaI
+gii : hamaara aa.ngan chho.D ke tohe kaun nagariyaa bhaaI re
+bR^ij me.n akelii  \threedots
+
+gii : ajahu.n na bheje re mohan taine koI khabariyaa (2)
+ma : o \threedots taine koI khabariyaa
+gii : ho ga_I hai ye bR^ij ki baalaa ro\-ro kar baavariyaa
+ma : ro\-ro kar baavariyaa
+gii : dhiir ba.ndha jaa \threedots dhiir ba.ndh jaa
+mukh dikhalaa jaa naT naagar saa.nvariyaa re
+bR^ij me.n akelii raadhe \threedots
+%
+#endindian
+\endsong
+%

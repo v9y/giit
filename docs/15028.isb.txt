@@ -1,0 +1,39 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa jaa mere raajaa, mere priitam, mere pyaare}%
+\film{Naghmaa}%
+\year{1953}%
+\starring{Nadira, Ashok Kumar, Om Prakash, Rupmala, Murad}%
+\singer{Shamshad}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+aa jaa
+( aa jaa mere raajaa, mere priitam, mere pyaare
+aa jaa mere pyaare ) \-2
+aa jaa
+
+paatii nahii.n tujhako to bhaTakatii hai.n nigaahe.n \-2
+merii nigaahe.n
+fariyaad ho kab kaise ruke.n kis tarah aahe.n
+mai.n dil ko pukaaruu.N meraa dil tujhako pukaare
+aa jaa mere pyaare
+aa jaa
+
+aise me.n sahaaraa ko_ii denaa ke chalaa dil \-2
+haay chalaa dil
+saajan mere ba.Dhakar mujhe milanaa ke chalaa dil
+haay dil hai zamaane me.n kisii dil ke sahaare
+aa jaa mere pyaare
+aa jaa mere raajaa, mere priitam, mere pyaare
+aa jaa mere pyaare
+aa jaa
+
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{cha.ndaa ki kiraNo.n se lipaTii havaa_e.N}%
+\film{Intezaar}%
+\year{1973}%
+\starring{Rinku Jaiswal, Padmini Kapila, Baldev Khosa, I S Johar, Rakesh Pande, Mohan Choti}%
+\singer{Kishor}%
+\music{Chitragupt}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #10774 [V S Rawat]
+% Transliterator: 
+% Comments: Based on Malayalam novel "adimakal" written by Pamman
+% 
+\printtitle
+#indian
+%
+cha.ndaa ki kiraNo.n se lipaTii havaa_e.N \-2
+sitaaro.n kii mahafil javaa.N ( aa ke mil jaa ) \-2
+aisaa mausam mile phir kahaa.N ( aa ke mil jaa ) \-2
+cha.ndaa kiraNo.n se \threedots
+
+( nazaaro.n ke ra.ngo.n me.n shabanam milaa ke
+terii maa.Ng bhar duu.N suhaagan banaa ke ) \-2
+bechain mai.n huu.N betaab tuu hai
+bahaare.n bhii hai.n meharabaa.N ( aa ke mil jaa ) \-2
+aisaa mausam mile \threedots
+
+( tere nain kahate hai.n terii kahaanii
+ki chhupate nahii.n ch.Dh ke chaa.Nd aur javaanii ) \-2
+qadam Dagamagaanaa badan kaa churaanaa
+mohabbat ke hai.n ye nishaa.N ( aa ke mil jaa ) \-2
+aisaa mausam mile \threedots
+%
+#endindian
+\endsong
+

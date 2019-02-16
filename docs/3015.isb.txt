@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aap ko pyaar chhupaane kii burii aadat hai}%
+\film{Neela Akash}%
+\year{1965}%
+\starring{Dharmendra, Mala Sinha}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aap ko pyaar chhupaane kii burii aadat hai
+aap ko pyaar jataane kii burii aadat hai
+
+aap ne siikhaa hai kyaa dil ke lagaane ke sivaa
+aap ko aataa hai kyaa naaz dikhaane ke sivaa
+aur hame.n naaz uThaane kii burii aadat hai \threedots
+
+kis liye aap ne sharamaa ke jhukaa lii aa.Nkhe.n
+is liye aap se ghabaraa ke bachaa lii aa.Nkhe.n
+aap ko tiir chalaane kii burii aadat hai \threedots
+
+ho chukii hai der bas ab jaaiyegaa jaaiyegaa
+bandaa paravar zaraa tho.Daa saa kariib aa_iyegaa
+aap ko paas na aane kii burii aadat hai \threedots
+
+%
+#endindian
+\endsong
+%

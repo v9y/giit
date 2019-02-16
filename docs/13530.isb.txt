@@ -1,0 +1,71 @@
+
+%
+\startsong
+\stitle{mere ghuu.Nghar waale baal ho raajaa}%
+\film{Pardes}%
+\year{1950}%
+\starring{Madhubala, Rahman, Karan Deewan, Shakuntala, Jayant, Cukoo, Mukri}%
+\singer{Shamshad, Chorus}%
+\music{Gulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10042 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ko \:	paradesiyaa parades \-2
+	hoy
+	hoy
+sha \:	mere ghuu.Nghar waale baal
+	ho raajaa ghuu.Nghar waale baal
+	ho
+	dil me.n uma.nge.n aa.Nkh me.n jaaduu
+	sar pe sunaharaa jaal
+	ho raajaa sar pe sunaharaa jaal
+	ho raajaa more raajaa
+ko \:	raajaa
+sha \:	mere ghuu.Nghar waale baal
+	ho raajaa ghuu.Nghar waale baal
+	ho
+	dil me.n uma.nge.n aa.Nkh me.n jaaduu
+	sar pe sunaharaa jaal
+	ho raajaa sar pe sunaharaa jaal
+	ho raajaa more raajaa
+
+ko \:	paradesiyaa parades \-2
+
+sha \:	ho dilawaale \-2
+	( dilawaale is jaal me.n pha.ns ke
+	kabhii nikal na paaye.n
+	kabhii nikal na paaye.n ) \-2
+	( ThaNDii aahe.n bhare.n bichaare
+	pha.Dak\-pha.Dak rah jaaye.n ) \-2
+	kahe.n mu.Nh se na dil kaa haal
+	ho raajaa mu.Nh se na dil kaa haal
+	ho
+	dil me.n uma.nge.n aa.Nkh me.n jaaduu
+	sar pe sunaharaa jaal
+	ho raajaa sar pe sunaharaa jaal
+	ho raajaa more raajaa
+ko \:	paradesiyaa parades \-2
+
+sha \:	ho dekh mere \-2
+	( dekh mere matawaale nayanaa
+	duniyaa pukaare haay
+	duniyaa pukaare haay ) \-2
+	( chaluu.N mai.n jis dam patalii kamariyaa
+	lachak\-lachak balakhaaye ) \-2
+	merii Thummak\-Thummak chaal
+	ho raajaa Thummak\-Thummak chaal
+	ho
+	dil me.n uma.nge.n aa.Nkh me.n jaaduu
+	sar pe sunaharaa jaal
+	ho raajaa sar pe sunaharaa jaal
+	ho raajaa more raajaa
+
+ko \:	paradesiyaa parades \-2
+%
+#endindian
+\endsong
+

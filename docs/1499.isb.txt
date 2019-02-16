@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{raah pe rahate hai.n yaado.n pe basar karate hai.n}%
+\film{Namkin}%
+\year{}%
+\starring{Sanjeev kumar, Shabana, Sharmila, Waheeda.}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Sandeep C. Patwardhan (scp@shack.csci.csc.com)
+% Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+raah pe rahate hai.n yAdo.n pe basar karate hai.n 
+khush raho ahale vatan ho ham to saphar karate hai.n 
+
+jal gaye jo dhUp me.n to sAyA ho gaye \- 2
+AsamA.N kA koI konA le tho.DA so gaye 
+jo guzar jAtI hai bas usape guzar karate hai.n 
+ho raah pe rahate hai.n yAdo.n pe basar karate hai.n 
+khush raho ahale vatan ho ham to saphar karate hai.n 
+
+u.Date pairo.n ke tale jab bahatI hai.n zamIn \- 2
+mu.Dake hamane koI ma.nzil dekhI hI nahI.n 
+raat din rAho.n pe ham shAmo sahar karate hai.n 
+ho raah pe rahate hai.n yAdo.n pe basar karate hai.n 
+khush raho ahale vatan ho ham to saphar karate hai.n 
+
+aise ujA.De AshiyA.N me.n tinake u.D gaye 
+ho aise ujA.De AshiyA.N me.n tinake u.D gaye 
+bastiyo.n tak aate aate rAste mu.D gaye 
+ham Thahar jAye.n jahA.N usako shahar kahate hai.n 
+ho raah pe rahate hai.n yAdo.n pe basar karate hai.n 
+khush raho ahale vatan ho ham to saphar karate hai.n 
+%
+#endindian
+\endsong
+%

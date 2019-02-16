@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{baa.Nkii adaaye.n dekhanaa jii dekhanaa}%
+\film{Amaanat}%
+\year{1954}
+\starring{Bharat Bhushan,Chand Usmani}%
+\singer{Geeta}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:10 July,2001
+% Comments:
+%
+\printtitle
+#indian
+%
+(baa.Nkii adaaye.n dekhanaa jii dekhanaa, dil naa churaaye dekhanaa jii)\-2
+(kahane ko bholii nazar hai, miiThaa miiThaa ye zahar hai)\-2
+dhokhaa na khaanaa, dil naa ga.Nvaanaa \-2
+dekho jii rahanaa bachake bachake bachake \-2
+baa.Nkii adaaye.n \threedots
+
+ruup ko dhuup dikhaane se, aataa hai chor bulaane se
+dil kaa khazaanaa, yuu.N na luTaanaa \-2
+dekho jii rahanaa bachake bachake bachake
+baa.Nkii adaaye.n \threedots
+
+jo naa maanoge merii baat ko, taare ginoge aadhii raat ko
+ye anajaanaa, rog puraanaa \-2
+dekho jii rahanaa bachake bachake bachake
+baa.Nkii adaaye.n \threedots
+%
+#endindian
+\endsong
+%

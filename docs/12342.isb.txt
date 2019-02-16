@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{sitaaro.n kii mahafil me.n ... are dil ne dil ko pukaaraa}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Babul Supriyo, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sitaaro.n kii mahafil me.n guu.Njegaa taraanaa
+ki ho.nTho.n pe aayaa hai dil kaa fasaanaa
+are dil ne dil ko pukaaraa
+lo mai.n aayaa milane dubaaraa
+ma.nzil he he he pyaar tumhaaraa ho ho ho
+mai.n huu.n saagar tum ho kinaaraa
+sitaaro.n kii mahafil \threedots
+
+ajab shaam hai ye pyaar kii pahaluu me.n sabake yaar hai
+ajab raat hai jazbaat kii pahaluu me.n pyaar hii pyaar hai
+ye pyaar tumhaaraa ye pyaar hamaaraa hai Kuub nazaaraa
+zamaanaa usii kaa hai saaraa zamaanaa
+ki jisane bhii siikhaa hai pyaar nibhaanaa
+are dil ne dil ko \threedots
+
+kadam aa_e.n hai.n us mo.D pe ham tum hai.n jahaa.n saamane
+nazar se nazar karane ab lagii baate.n ba.De hii raaz se
+ye raaz tumhaaraa ye raaz hamaaraa kare hai kyaa ishaaraa
+nishaane pe dil hai ke dil pe nishaanaa
+diivaanaa hai apanii hii dhun me.n diivaanaa
+are dil ne dil ko \threedots
+%
+#endindian
+\endsong
+

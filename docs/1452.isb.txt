@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{piyaa milan ko jaanaa}%
+\film{Kapala Kundala}%
+\year{1939}%
+\starring{Pankaj Mullick, Leela Desai}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{Pankaj Mullick}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+piyA milan ko jAnA, hA.n piyA milan ko jAnA
+jag kI laaj, man kI mauj, dono.n ko nibhAnA
+piyA milan ko jAnA, hA.n piyA milan ko jAnA
+
+kA.NTe bikharA ke chalU.n, pAnI DhalakA ke chalU.n \- 2
+sukh ke liye sIkh rakhU.n \- 2
+pahale dukh uThAnA, piyA milan ko jAnA \threedots
+
+(pAyal ko bA.ndh ke \- 2), uThI chubh nAg ke (?)
+pAyal ko bA.ndh ke
+dhIre\-dhIre dabe\-dabe pAvo.n ko ba.DhAnA
+piyA milan ko jAnA \threedots
+
+bujhe diye a.ndherI rAt, A.Nkho.n par dono.n hAth \- 2
+kaise kaTe kaThin baaT \- 2
+chal ke AzamAnA, piyA milan ko jAnA
+hA.n piyA milan ko jAnA, jAnA
+piyA milan ko jAnA, jAnA
+piyA milan ko jAnA, hA.n
+piyA milan ko jAnA
+%
+#endindian
+\endsong
+%

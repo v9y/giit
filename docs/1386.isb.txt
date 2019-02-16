@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{o pa.nchhii pyaare}%
+\film{Bandini}%
+\year{1963}%
+\starring{Nutan, Ashok Kumar, Dharmendra}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/01/1996
+% Comments: Bimal Roy Productions
+%
+\printtitle
+#indian
+%
+do nainan ke milan ko do nainaa bulaae.n
+jab nainaa ho.n saamane to nainaa jhuk jaae.n
+ 
+(o pa.nchhii pyaare saa.njha sakhaare 
+bole tuu kaun sii bolii bataa re 
+bole tuu kaun sii bolii ) \-2
+ 
+mai.n to pa.nchhii pi.njare kii mainaa
+pa.Nkh mere bekaar 
+biich hamaare saat re saagar 
+(kaise chaluu.N us paar) \-2
+o pa.nchhii pyaare \threedots
+ 
+phaagun mahiinaa phuulii bagiyaa 
+aam jhare aMraaii
+mai.n khi.Dakii se chup chup dekhuu.N 
+(R^itu basa.nt kii aa_ii) \-2 
+o pa.nchhii pyaare \threedots
+%
+#endindian
+\endsong
+%
+

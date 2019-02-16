@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{voT pe noT ... sab ga.ndaa hai par dha.ndhaa hai ye}%
+\film{Company}%
+\year{2002}%
+\starring{Ajay Devgan, Vivek Oberoy, Manisha, Antara Mali, Mohanlal}%
+\singer{Sandeep Chowtha}%
+\music{Sandeep Chowtha}%
+\lyrics{Jaideep Sahni}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+voT pe noT dhotii pe koT dil me.n choT
+matalab ke yaar aise pyaar piichhe se vaar
+sab ga.ndaa hai par dha.ndhaa hai ye
+
+cha.ndan saa badan cha.nchal chitavan yaaro.n se jalan
+voT pe noT \threedots
+
+haDDii pasalii ek siidhaa saadaa peT dono.n ghuTane Tek
+baato.n kii dhaar haatho.n me.n taar ek aur do chaar
+sab ga.ndaa hai \threedots
+
+badale kii miThaas gusse kaa gilaas ku_e.N jaisii pyaas
+voT pe noT \threedots
+%
+#endindian
+\endsong
+

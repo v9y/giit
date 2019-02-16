@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ye karo ye nahii.n ye galat ye sahii}%
+\film{Gang}%
+\year{1999}%
+\starring{Jackie Shroff, Juhi Chawala, Nana Patekar, Kumar Gaurav, Javed Jaffery}%
+\singer{Hariharan, Abhijit, Roop Kumar Rathod, Jolly Mukherji, Annu Malik}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye karo ye nahii.n ye galat ye sahii ye buraa ye bhalaa
+sun liyaa sun liyaa sun liyaa
+tum ye kahate ho tum jo kaho mai.n sunuu.n
+kyuu.n sunuu.n
+tum ye kahate ho tum jo kaho mai.n kahuu.n
+kyuu.n kahuu.n
+tum ye kahate ho tum jo kaho mai.n karuu.n
+kyuu.n karuu.n
+tumako achchhaa laguu.n yaa na achchhaa laguu.n
+mujhako paravaah nahii.n
+mai.n jo huu.n mai.n vo huu.n
+ye merii zi.ndagii hai merii zi.ndagii
+jaise chaahuu.n jiyuu.n
+mai.n jo huu.n mai.n vo huu.n
+
+sachchii baate.n kahuu.N mai.n to Toko nahii.n
+mujhako Toko nahii.n turu
+dil kii marajii karuu.N mai.n to roko nahii.n
+mujhako roko nahii.n turu
+tum ye kahate ho mai.n zaalimo.n se Daruu.n
+kyuu.n Daruu.n
+tum ye kahate ho mai.n unake aage jhukuu.n
+kyuu.n jhukuu.n
+tum ye kahate ho mai.n tumhii.n jaisaa banuu.n
+kyuu.n banuu.n
+tumako achchhaa laguu.n \threedots
+
+maine to zi.ndagii se khelaa ju_aa
+maine khelaa ju_aa turu
+haar ke bhii kahaa jo hu_aa so hu_aa
+jo hu_aa so hu_aa turu
+tum ye kahate ho mai.n Tha.nDii aahe.n bharuu.n
+kyuu.n bharuu.n
+tum ye kahate ho mai.n haath sar pe dharuu.n
+kyuu.n dharuu.n
+tum ye kahate ho mai.n jiite jii bhii maruu.n
+kyuu.n maruu.n
+tumako achchhaa laguu.n \threedots
+%
+#endindian
+\endsong
+

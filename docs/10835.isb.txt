@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kar lo pyaar ... pyaar gazab kii chiiz hai}%
+\film{Chaandaal}%
+\year{1998}%
+\starring{Mithun, Sneha, Emisha Nagi, Rami Reddy, Punit Issar, Hemant Birje}%
+\singer{}%
+\music{Anand Milind}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kar lo pyaar kar lo pyaar
+pyaar gazab kii chiiz hai pa.Dh lo aaj subah kaa parchaa
+pyaar karoge muft me.n ho jaa_egaa yaaro.n charchaa
+pyaar gazab kii chiiz hai \threedots
+
+lagate hai.n phiike sab mausam jab pyaar kaa mausam aataa hai
+chehare pe chamak aa jaatii hai jab ishq kahii.n ho jaataa hai
+binaa mol milataa hai ye nahii.n hotaa isame.n kharchaa
+pyaar karoge muft me.n \threedots
+
+aashiq ba.Daa niraalaa hai jo yaar kii aa.Nkho.n me.n Duubaa
+vo la.Dakii bhii kyaa la.Dakii hai jo ban jaatii hai mahabuubaa
+jisane pyaar kiyaa sabase uu.nchaa hai usakaa darjaa
+pyaar karoge muft me.n \threedots
+
+##be in love. be in love##
+%
+#endindian
+\endsong
+

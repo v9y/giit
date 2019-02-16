@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil me.n tujhe biThaake, kar luu.Ngii mai.n ba.nd aa.Nkhe.n}%
+\film{Fakeera}%
+\starring{Shashi Kapoor, Shabana Azmi}%
+\singer{Lata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil me.n tujhe biThaake,  kar luu.Ngii mai.n band aa.Nkhe.n
+puujaa karuu.Ngii terii,  ho ke rahuu.Ngii terii
+
+mai.n hii mai.n dekhuu.N tujhe piyaa aur na dekhe koI
+ek pal bhii ye soch rahe naa kis vidhi milanaa hoI
+sabase tumhe.n bachaake, kar luu.Ngii mai.n ba.nd aa.Nkhe.n
+puujaa karuu.Ngii terii \threedots
+
+naa koI ba.ndhan jagat kaa koii paharaa naa diivaar
+koI na jaane do diivaane jii bhar kar le pyaar
+kadamo.n me.n tere aake, kar luu.Ngii mai.n ba.nd aa.Nkhe.n
+puujaa karuu.Ngii terii \threedots
+
+teraa hii mukh dekh ke piyaa raat ko mai.n so jaauu.n
+bhor bha_ii jab aa.Nkh khule to  tere hii darashan paauu.n
+tujhako gale lagaake,  kar luu.Ngii mai.n ba.nd aa.Nkhe.n
+puujaa karuu.Ngii terii \threedots
+%
+#endindian
+\endsong
+%

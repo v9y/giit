@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{usako jaane na do ... dil abhii bharaa nahii.n}%
+\film{Chehara}%
+\year{1999?}%
+\starring{Ayub Khan, Madhu}%
+\singer{Shankar Mahadevan, Jaspindar Narula}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+usako jaane na do jaake usase kaho jaa_e naa ruuTh ke chain yuu.n luuT ke
+roko usako gher ke jaa_e na mu.Nh pher ke dil abhii bharaa nahii.n
+
+roko naa tum mujhe hai kasam ye tujhe jaane do tum abhii aa_uu.ngii phir kabhii
+samajhoge naa bebasii bologe tum to yahii dil abhii bharaa nahii.n
+
+baato.n se diivaanaa diivaanaa karatii hai
+aa.Nkho.n se mastaanaa mastaanaa karatii hai
+jaagii hai so_ii hai mastii me.n kho_ii hai
+dekho kyaa lagatii hai vo dilarubaa dilarubaa
+usako jaane na do \threedots
+
+chaahat me.n kyuu.n aise tum aahe.n bharate ho
+chho.Do jii chho.Do jii paagalapan karate ho
+tum jo diivaane ho bilkul anjaane ho
+chhe.Do na aise mujhe merii jaa.n roko naa tum
+na na na na
+usako jaane na do \threedots
+%
+#endindian
+\endsong
+

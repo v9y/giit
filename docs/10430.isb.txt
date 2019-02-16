@@ -1,0 +1,68 @@
+
+%
+\startsong
+\stitle{aa_o mil ke gaa_e.N aisaa gaanaa suriilaa aur suhaanaa}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Amitabh Bachchan, Udit Narayan, Mahalaxmi Iyer, Shankar Mahadevan}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11669 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+ko \:	chhup \-8
+	he
+sha.n \:	aa_o mil ke gaa_e.N aisaa gaanaa suriilaa aur suhaanaa
+	jis me.n sirf pyaar kii miThaas ho
+u \:	hamane to hai siikhaa gunagunaanaa
+	hameshaa muskuraanaa jabase tum hamaare dil ke paas ho
+chi \:		tum aur ham gaa_e.N saragam
+sha.n \:	saragam zindagii kii har Kushii kii aur pyaar kii
+ko \:	tum aur ham gaa_e.N saragam \threedots aur pyaar kii
+
+ko \:	he
+	he\-he \-3
+
+chi \:	subah ke ujaale hai.n rupahale
+sha.n \:	shaam kaa andheraa reshamii hai
+u \:	muskuraatii aa.Nkho.n se jo dekho
+chi \:	duniyaa me.n kahaa.N ko_ii kamii hai
+	jo halkaa ho yah man
+u \:	jo ham rahe.n magan
+	har ek rut lagegii hamako rut bahaar kii
+ko \:	jo halkaa ho yah man \threedots rut bahaar kii
+chi \:	o tum aur ham gaa_e.N saragam
+sha.n \:	saragam zindagii kii har Kushii kii aur pyaar kii
+ko \:	ham aur tum gaa_e.N saragam \threedots aur pyaar kii
+
+ko \:	he
+
+a \:	ek nanhii pyaarii sii kalii ne
+	chupake se ye mujhko hai bataayaa
+	Kushanasiib vo hai.n is jahaa.N me.n
+	jisane duusaro.n kaa pyaar paayaa
+	lagatii hai vo kalii har ek ko bhalii
+	aisii kalii ko kab hai zaruurat shR^i.ngaar kii
+ko \:	lagatii hai vo kalii \threedots zaruurat shR^i.ngaar kii
+	tum aur ham gaa_e.N saragam \threedots aur pyaar kii
+sha.n \:	tum aur ham gaa_e.N saragam \threedots aur pyaar kii
+
+u \:	aa_o mil ke gaa_e.N aisaa gaanaa \threedots pyaar kii miThaas ho
+chi \:	hamane to hai siikhaa gunagunaanaa \threedots dil ke paas ho
+a \:	tum aur ham gaa_e.N saragam \threedots aur pyaar kii
+ko \:	ham aur tum gaa_e.N saragam \threedots aur pyaar kii
+
+ko \:	hoy la la la la la \-4
+	he he he he he
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{bahut khuubasurat javaan ek la.Dakii}% 
+\film{Dostana}%
+\starring{Amitabh, Shatru, Zeenat}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+%%% comments : : brilliantly rendered by kk 
+
+bahut khuubasurat javaan ek la.Dakii 
+sa.Dak pe akelI chalii jaa rAhI thI \threedots
+fakat naam ko usane pahane the kapa.De 
+aja.ntaa kii muurat nazar aa rahI thI, nazar aa rahI thI 
+koii manachalaa usase Takaraa gayaa, koI manachalaa usase Takaraa gayaa 
+(mere dosto.n, tum karo faisalaa, 
+khataa kisakii hai, kisako de.n ham sazaa ) \- 2
+
+huA haadasaa jo, vo kaise nA hotA 
+ke banake qayaamat vo nikalI thI ghar se, vo nikalI thI ghar se 
+nA dekhe koI to sharaafat hai usakii 
+jo dekhe to kuchh bhI jhuke nA najar se, jhuke nA najar se 
+koi dilajalaa muft maaraa gayaa, koi, dilajalaa muft mAraa gayaa 
+(mere dosto.n, tum karo faisalaa, 
+khataa kisakii hai, kisako de.n ham sazaa ) \- 2
+
+hasii.n to hameshaa hasii.n the magar, 
+hasii.n to hameshaa hasii.n the magar, kabhI raasto.n pe nikalate nA the 
+badalate the vo bhI kaI ruup lekin, naye roz faishan badalate nA the 
+gayaa ek to duusaraa aa gayaa aa, gayaa, ek to, duusaraa aa gayaa 
+(mere dosto.n, tum karo faisalaa, 
+khataa kisakii hai, kisako de.n ham sazaa ) \- 2
+%
+#endindian
+\endsong
+%

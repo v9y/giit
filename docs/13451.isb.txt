@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ko_ii to mujhe bataa de mai.n kaisaa}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Krishna Kumar, Jien Michal, Salim Merchant}%
+\music{Salim Suleman}%
+\lyrics{Raj Kaushal, Salim}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii to mujhe bataa de mai.n kaisaa ##actor## huu.N
+are ##tune your guitaar## yaar chalo chalo phir se karate hai.n
+##one two three four##
+
+ko_ii to mujhe bataa de mai.n kaisaa ##actor## huu.N
+shaaharukh khaan aur salamaan khaan kii chhuTTii kar duu.n
+maniiShaa aur kaajol mere saath ##filmfare## hogaa mere haath
+cha cha chup
+##music## hai merii zi.ndagii ##V.J. for M.T.V.##
+la.Dakii mujh sii nahii.n ko_ii
+ko_ii to mujhe bataa de mai.n kaisaa ##singer## huu.N
+apanii aavaaz se dilo.n ko jiit luu.n
+mastii aur mauj ham kare.n jiite.n kabhii na ham la.De.n
+haradam aage ham ba.Dhe.n
+%
+#endindian
+\endsong
+

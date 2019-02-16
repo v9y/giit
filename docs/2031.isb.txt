@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{baa.Nsuriyaa phir se bajaao, kaanhaa}%
+\film{Taj}%
+\year{1956}%
+\starring{Pradeep Kumar, Vyjayantimala}%
+\singer{Lata, Hemant}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor : Neha Desai
+% Comments: Hemantada, a genius in his niche #18
+%
+\printtitle
+#indian
+%
+la: baa.Nsuriyaa phir se bajaao, kaanhaa
+    baa.Nsuriyaa phir se bajaao
+he: jaa jaa na hamako sataao, raadhaa
+    jaa jaa na hamako sataao
+
+la: ba.nsii na baaje to jiyaa moraa Dole
+    jiyaa moraa Dole piyaa, bolii ye bole
+    phir se vahii dhun sunaao, kaanhaa
+    baa.Nsuriyaa
+    baa.Nsuriyaa phir se bajaao, kaanhaa   \threedots
+
+he: ja rii naTakhat gavaalin kii chhorii
+    mai.n na bajaa_uu.Ngaa ye baa.Ns kii porii
+la: aise na mujhako rulaao, kaanhaa
+    baa.Nsuriyaa
+    baa.Nsuriyaa phir se bajaao, kaanhaa   \threedots
+
+la: kaa.Nhaa terii muralii me.n raadhaa kii jaan hai
+he: raadhaa tuu hii to merii ba.Nsii kii taan hai
+la: ho.nTho.n se ba.nsii lagaao, kaanhaa
+    baa.Nsuriyaa
+    baa.Nsuriyaa phir se bajaao, kaanhaa   \threedots
+
+%
+#endindian
+\endsong
+%

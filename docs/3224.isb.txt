@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum jo mile aarazuu ko dil kii raah mil gayii}%
+\film{Lal Kunwar}%
+\year{1952}%
+\starring{}%
+\singer{Suraiyya}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+
+tum jo mile, tum jo mile
+aarazuu ko dill kii raah mil gayii
+ek aas mil gayii, re, ik salaah mil gayii
+tum jo mile \threedots
+
+bholii\-bhaalii dha.Dakano.n kaa aaj Dha.ng aur hai
+zi.ndagii vahii hai zi.ndagii kaa ra.ng aur hai
+aaj Dha.ng aur hai
+a.ng a.ng jhuum uThaa jab nigaah mil gayii
+tum jo mile \threedots
+
+aaj merii chuu.Diyo.n ke saaz gun_gunaa uThe
+jaane kitane Kvaab ek saath muskuraa uThe
+aaj muskuraa uThe
+bachapan se jis kii chaah thii vo chaah mil gayii
+tum jo mile \threedots
+
+%
+#endindian
+\endsong
+%

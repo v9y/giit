@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{tere sa.ng jiinaa tere sa.ng maranaa}%
+\film{Naach Uthe Sansaar}%
+\year{1976}%
+\starring{Shashi Kapoor, Hema Malini, Simi Garewal, Aruna Irani}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11262 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	a aa aa aa
+	tere sa.ng jiinaa tere sa.ng maranaa \-2
+	rab ruuThe yaa jag chhuuTe hamako kyaa karanaa
+ra \:	tere sa.ng jiinaa \threedots
+do \:	tere sa.ng jiinaa \threedots
+
+la \:	terii baa.Nho.n me.n jab mere piyaa lii baa.Ndh chunariyaa maine \-2
+	chho.Dii laaj\-sharam dil tujhe re diyaa tohe biich bajariyaa maine
+	man paagal kyaa jaane re duniyaa se Daranaa
+	tere sa.ng jiinaa \threedots
+
+ra \:	rut aa_ii re yaa rut chalii ga_ii kyaa jaane ye teraa matavaalaa
+	mohe yaad nahii.n kuchh tere sivaa jab pyaar kaa pii liyaa pyaalaa
+	kaun aayaa aur kaun gayaa hamako kyaa karanaa
+do \:	tere sa.ng jiinaa \threedots
+
+la \:	sun saa.Nvariyaa ab tere binaa sa.nsaar lage mohe phiikaa
+	jiyaa thaam ke sajanaa tuu jidhar chalaa ( tere pyaar se maine siikhaa ) \-2
+	siikhaa maine ThaNDii aahe.n bharanaa
+do \:	tere sa.ng jiinaa \threedots
+%
+#endindian
+\endsong
+

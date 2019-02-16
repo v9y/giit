@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tum saath do jiivan saathii tumako chunaa hai}%
+\film{Aashiqui (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Abhijit}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum saath do tum saath do 
+jiivan saathii tumako chunaa hai
+dil me.n tumhaaraa sapanaa bunaa hai
+baaho.n me.n raho
+tum saath do \threedots
+
+so_ii so_ii dil kii mahafil kho_ii kho_ii apanii ma.nzil
+ma.nzil kii dhun me.n chal pa.De mastii me.n ham nikal pa.De
+mere sa.ng chalo
+tum saath do \threedots
+
+yuu.n hii mere saath rahanaa meraa hai ye tumase kahanaa
+ab naa karoge dillagii to.Doge naa ye dil kabhii
+ye vaadaa to karo
+o ho tum saath do \threedots
+%
+#endindian
+\endsong
+

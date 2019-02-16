@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{duur haTo ai duniyaa vaalo.n hindustaan hamaaraa hai}%
+\film{Kismat}%
+\year{1943}%
+\starring{Ameerbai Karnataki}%
+\singer{Ameerbai, Khan Mastana, chorus}%
+\music{Anil Biswas}%
+\lyrics{}%
+%
+% Contributor: Urzung Khan
+% Transliterator: 
+% Credits:
+%
+\printtitle
+#indian
+%
+aaj himaalay kii choTii se phir ham ne lalakaraa hai
+duur haTo ai duniyaa vaalo.n hindustaan hamaaraa hai
+
+jahaa.N hamaaraa taaj\-mahal hai aur qutab\-miinaaraa hai
+jahaa.N hamaare mandir masjid sikho.n kaa gurudvaaraa hai
+is dharatii par qadam ba.Dhaanaa atyaachaar tumhaaraa hai
+
+shuruu huaa hai ja.ng tumhaaraa jaag uTho hindustaanii
+tum na kisii ke aage jhukanaa jarman ho yaa jaapaanii
+aaj sabhii ke liy_e hamaaraa yahii qaumii naaraa hai
+%
+#endindian
+\endsong
+%

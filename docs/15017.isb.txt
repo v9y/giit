@@ -1,0 +1,74 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dekho aayaa ye kaisaa zamaanaa}%
+\film{Daagh}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Usha Kiran, Lalita Pawar, Chandrashekhar Dube}%
+\singer{Lata, Chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	dekho aayaa ye kaisaa zamaanaa \-2
+	ye duniyaa ajaayabakhaanaa re
+	dekho aayaa ye kaisaa zamaanaa
+ko \:	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+	ye duniyaa ajaayabakhaanaa re
+	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+
+la \:	kaalii gho.Dii pe baiTh ke
+	kal ham gaye bazaar
+	are tel to dekhaa thaa pahale se
+	aur dekhii tel kii dhaar
+	jo kuchh dekhaa dekh ke hamako
+	are jo kuchh dekhaa dekh ke hamako
+	yaad aaye siriiraamaa re
+	dekho aayaa ye kaisaa zamaanaa
+ko \:	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa, zamaanaa o ho ho
+
+la \:	aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa
+
+	chor kii chaukiidaarii dekhii
+	aur a.ndho.n kii Thakuraa_ii
+	dekhe bagulaa bhagat hazaaro.n
+	gup\-chup kare.n safaa_ii
+	maa.nge.n bhiikh karo.Dimal jii
+	dama.Diilaal dhanawaanaa
+	dekho aayaa ye kaisaa zamaanaa
+ko \:	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa, zamaanaa o ho ho
+
+la \:	aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa
+
+	sab qudarat kaa khel hai bhaa_ii
+	kah gaye daas kabiir
+	roz badalatii hai ye duniyaa
+	aur badale har taqadiir
+	jisakii nazar kabhii na badale
+	are isakii nazar kabhii na badale
+	hai laakho.n me.n wahii sayaanaa re
+	dekho aayaa ye kaisaa zamaanaa
+ko \:	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa, zamaanaa o ho ho
+
+la \:	aayaa ye kaisaa zamaanaa
+	dekho aayaa ye kaisaa zamaanaa
+	ye duniyaa ajaayabakhaanaa re
+	dekho aayaa ye kaisaa zamaanaa
+	o dekho aayaa ye kaisaa zamaanaa
+
+#endindian
+\endsong

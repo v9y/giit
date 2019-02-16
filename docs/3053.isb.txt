@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chalii pii ke nagar sajake dulhan}%
+\film{Sardari Begum}%
+\year{1996}%
+\starring{Kiron Kher,Amrish Puri, Smriti Mishra, Rajeshwari}%
+\singer{Arti Ankalikar }%
+\music{Vanraj Bhatia}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Uday Patel
+% Transliterator:
+% Date: January 11, 2002
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chalii pii ke nagar sajake dulhan
+maike me.n jii ghabharaavat hai
+ab saa.Nche nagar ko jaanaa hai
+ye jhuuThaa nagar kahalaavat hai
+
+jhuule piipal amuvaa chhaa.Nv
+panaghaT mele galiyaa.N gaa.Nv
+baabul maiyaa sakhiyaa.N a.nganaa
+sab chhoD ke gorii jaavat hai
+
+dil tham tham aise dha.Dakat hai
+rah\-rah ke diyaa jyo.n dha.Dakat hai
+man ta.Dapat bhii hai milane ko
+aur laaj bhii man ko aavat hai
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{yaad jab aaye terii}%
+\film{Mohar}%
+\year{1959}%
+\starring{Shammi Kapoor, Geeta Bali}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+yaad jab aaye terii
+apanii guzarii zi.ndagii
+yaad kar letaa huu.N mai.n
+aah bhar letaa huu.N mai.n
+
+dil meraa lagataa nahii.n
+kuchh mujhe bhaataa nahii.n
+ye mujhe kyaa ho gayaa
+kuchh samajh aataa nahii.n
+yaad jab aaye terii \threedots
+
+ye a.ndhere raaste
+hai.n mere hii vaaste
+Thokare.n khaataa rahuu.N
+ashk barasaataa rahuu.N
+hai yahii taqadiir me.n
+dil ko samjahaataa huu.N mai.n
+yaad jab aaye terii \threedots
+
+kyaa khushii kii aarazoo
+jab khushii merii nahii.n
+maut shaayad ho merii
+zi.ndagii merii nahii.n
+yaad jab aaye terii \threedots
+
+%
+#endindian
+\endsong
+%

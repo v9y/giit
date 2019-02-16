@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jo chalaa gayaa use bhuul jaa}%
+\film{Sathi}%
+\year{1968}%
+\starring{Rajendra Kumar, Vyjayantimala, Simi Garewal}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Donald Ravi Persaud
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ 
+jo chalaa gayaa use bhuul jaa
+vo na sun sakegaa terii sadaa
+
+ye hayaat va maut kii hal dagar, koi khaaq me.n koii khaaq par (?)
+yahii jaan le vo koii na thaa, vo gubaar thaa teraa ham_safar
+use duur le ke ga_ii havaa
+ 
+koii iltajaa koii bandagii, na qazaa se haath chhu.Daa sakii
+kiye aadamii ne ba.De jatan, magar us ke kaam na aa sakii
+na koii duaa, na koii davaa
+ 
+hai mujhe bhi Gum kisii yaar ksa, koii luuTaa nagar mere pyaar kaa
+huaa dar\-badar mai.n to is qadar, na khizazn kaa huu.N na bahaar kaa
+mujhe dekh le mujhe kyaa milaa
+
+%
+#endindian
+\endsong
+%

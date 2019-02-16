@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{mai.n gaa_uu.N tum gaa_o Kushiyo.n ke ra.ng chhalakaa_o}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Udit Narayan, Mahalaxmi Iyer, Shaan, Bhairavi Kumble}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11671 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+shaa \:	mai.n gaa_uu.N tum gaa_o Kushiyo.n ke ra.ng chhalakaa_o \-2
+ma \:	( na_ii raahe.n khole hai.n baa.Nhe.n
+	to kyo.n naa chaahe.n ye nigaahe.n ko_ii saathii bhii nayaa ) \-2
+u \:	ye aramaa.N
+	kitane sapane dikhalaate hai.n
+	kaise\-kaise ta.Dapaate hai.n
+	duniyaa me.n ko_ii jaane naa ho
+ma \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o
+shaa \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o
+
+ta na naa naa \-4
+huu.N huu.N \-2
+
+shaa \:	paa_ii jo ye Kushii hai hairaanii ho rahii hai
+	baat aisii ho ga_ii hai jisakii ummiid dil ko na thii
+ma \:	ummiide.n ho.n bhii to kyaa hogaa vo hai jo honaa
+	duniyaa me.n kisane jaanaa kab dikhaa_egii kyaa zindagii
+shaa \:	mere aramaa.N ban ban ke tuufaa.N karate pareshaa.N
+	ab aasaa.N meraa jiinaa ho gayaa
+ma \:	ye aramaa.N
+	kitane sapane \threedots ko_ii jaane naa o ho
+shaa \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o
+ma \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o
+
+ma \:	dekho hai shaam ra.ngii.n haatho.n me.n jaam ra.ngii.n
+	ab ko_ii naam ra.ngii.n soch
+o is ra.ngii.n afasaane kaa
+u \:	afasaane ye hai.n dil ke anajaane log mil ke
+	ye maane.n phuul khil ke rastaa takataa hai murajhaane kaa
+ma \:	sun pyaare dil me.n hamaare aramaa.N hai.n saare pukaare.n
+	bataa duu.N to hai kyaa
+ko \:	ye aramaa.N
+u \:	kitane sapane \threedots ko_ii jaane naa ho
+ko \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o \-2
+ma \:	na_ii raahe.n \threedots saathii bhii nayaa
+u \:	ye aramaan
+	kitane sapane \threedots ko_ii jaane naa ho
+ma \:	ye aramaa.N
+	kitane sapane \threedots ko_ii jaane naa jaane naa
+u \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o
+ko \:	mai.n gaa_uu.N tum gaa_o \threedots chhalakaa_o \-4
+%
+#endindian
+\endsong
+

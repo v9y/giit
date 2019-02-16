@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{tere kuuche me.n aramaano.n kii duniyaa le ke aayaa huu.N}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10622 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tere kuuche me.n aramaano.n kii duniyaa le ke aayaa huu.N
+tujhii par jaan dene kii tamannaa le ke aayaa huu.N
+tere kuuche me.n \threedots
+
+jigar me.n dard dil me.n Tiis aur aa.Nkh me.n do aa.Nsuu \-2
+zaraa tuu dekh le aa kar mai.n kyaa\-kyaa le ke aayaa huu.N
+tere kuuche me.n \threedots
+
+vo afasaanaa mohabbat kaa kabhii jo tuune chhe.Daa thaa \-2
+vo afasaanaa ho.nTho.n par adhuuraa le ke aayaa huu.N
+tere kuuche me.n \threedots
+%
+#endindian
+\endsong
+

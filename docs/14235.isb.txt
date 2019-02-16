@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{baago.n me.n khilate hai.n phuul qasam terii}%
+\film{Suhaag Sindoor}%
+\year{1961}%
+\starring{Manoj Kumar, Mala Sinha, Balraj Sahni, Johny Walker, Subha Khote}%
+\singer{Lata, Talat}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10162 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ta \:	baago.n me.n khilate hai.n phuul qasam terii aa.Nkho.n kii khaa ke \-2
+la \:	aa_ii samajh me.n jo bhuul gire tere qadamo.n me.n aa ke \-2
+
+ta \:	( ghuu.NghaT ke piichhe ye ruup saadaa
+	badalii me.n jaise ho chaa.Nd aadhaa ) \-2
+la \:	tum mere sapano.n ke naTakhaT kanhaiyaa \-2
+	mai.n huu.N tumhaare Kvaabo.n kii raadhaa
+ta \:	ho baago.n me.n khilate hai.n \threedots
+
+la \:	( aa.Nkho.n me.n rakhanaa dil me.n basaanaa
+	dharatii ke zarre ko taaraa banaanaa ) \-2
+ta \:	jiivan kii raaho.n ke maasuum saathii \-2
+	terii nazar pe luTaa duu.N zamaanaa
+	o o baago.n me.n khilate hai.n \threedots
+%
+#endindian
+\endsong
+

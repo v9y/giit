@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{merii nigaah ne kyaa kaam ... jhuuThe zamaane bhar ke}%
+\film{Musaafirkhaanaa}%
+\year{1955}%
+\starring{Shyama, Karan Deewan, Gop, Johny Walker, Shammi, Kumkum,  Om Prakash}%
+\singer{Rafi, Nirmala}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10535 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	merii nigaah ne kyaa kaam laajavaab kiyaa
+	ki tujhako laakho.n me.n i.ntaKaab kiyaa
+
+ni \:	jhuuThe zamaane bhar ke
+	haay jaaduu kaisaa Daar ga_e mope niichii nazar kar ke
+ra \:	jiite hai.n mar\-mar ke
+	haay aise do na hame.n gorii Tuka.De jigar kar ke
+
+ni \:	mai.n beqaraar nahii.n pyaar kii nazar ke li_e
+	ki tere tiir bahut hai.n mere jigar ke li_e
+ra \:	yahaa.N bhii dard\-e\-jigar kaa ilaaj kaun kare
+	bas ik nazar terii kaafii hai umr bhar ke li_e
+ni \:	jhuuThe zamaane bhar \threedots
+
+	jab se tuune mere dil kaa chaman aabaad kiyaa
+	jab chalii Tha.nDii havaa maine tujhe yaad kiyaa
+ra \:	ham to kahate hii nahii.n kuchh magar ai jaan\-e\-jahaa.N
+	log kahate hai.n ki tuune hame.n barabaad kiyaa
+ni \:	jhuuThe zamaane bhar \threedots
+
+	yaqiin hamako na ulfat kaa tum dilaa_o zaraa
+	ab aise dekh ke hamako na muskuraa_o zaraa
+ra \:	chalo nahii.n hai tumhe.n hamase vaastaa na sahii
+	dha.Dakate dil ko sa.mbhaalo nazar uThaa_o zaraa
+ni \:	jhuuThe zamaane bhar \threedots
+%
+#endindian
+\endsong
+

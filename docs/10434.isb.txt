@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{merii zindagii me.n aa_e ho aur aise aa_e ho tum}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11673 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+su \:	( merii zindagii me.n aa_e ho aur aise aa_e ho tum
+	jo ghul gayaa hai saa.Nso.n me.n vo giit laa_e ho tum ) \-2
+	o ( tum hii kaho ) \-2 dil jo aise gaa_e
+	ko_ii kyo.n na gunagunaa_e
+	merii zindagii me.n aa_e ho \threedots laa_e ho tum
+	o ho ho ho ho ho ho ho ho \-2
+
+	tumako paa ke ha.Ns ke gaa ke
+	nikharii hai.n sa.Nvarii hai zindagii
+	ujalii subahe.n ra.ngii.n shaame.n
+	aa ga_ii ek na_ii dilakashii
+	ho ( maan bhii lo ) \-2
+	raat jo hai kahatii ye fizaa jo samajhaa_e
+	merii zindagii me.n
+
+so \:	o ho ho ho ho ho ho ho ho
+	merii zindagii me.n aa_e ho \threedots laa_e ho tum
+
+	tumase pahale dekhe kab the
+	maine ye Kvaabo.n ke kaaravaa.N
+	tum jo aa_e tum ho laa_e
+	anakahii anasunii daastaa.N
+	o ( suno zaraa ) \-2
+	meraa dil bhii haay vo kahaanii doharaa_e
+	merii zindagii me.n
+	merii zindagii me.n aa_e ho aur aise aa_e ho tum
+su \:	jo ghul gayaa hai saa.Nso.n me.n vo giit laa_e ho tum
+	ho ( tum hii kaho ) \-2 dil jo aise gaa_e
+	ko_ii kyo.n na gunagunaa_e
+do \:	merii zindagii me.n aa_e ho aur aise aa_e ho tum
+su \:	jo ghul gayaa hai saa.Nso.n me.n
+do \:vo giit laa_e ho tum
+	o ho ho ho ho ho ho ho ho \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{duniyaa paagal hai, yaa phir mai.n diivaanaa}%
+\film{Shaagird}%
+\year{1967}%
+\starring{Joy Kumherjee, Saira Banu, I S Johar}%
+\singer{Rafi, I S Johar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+duniyaa paagal hai yaa phir mai.n diivaanaa
+mujhako chaahatii hai zulfo.n me.n ulajhaanaa
+duniyaa paagal hai   \threedots
+
+ye baahe.n jinako tum gale kaa haar samajhe ho
+Gesu ki jinako tum mahakataa pyaar samajhe ho
+haar hai phandaa, pyaar hai kha.njar
+tum ho nishaanaa
+    jiyo mere shaagid.r
+    ## Thank You ##
+duniyaa paagal hai   \threedots
+
+aazaadii hai to tum ho shahazaade mere pyaaro.n
+shaadii hu_ii to samajho bhikhaarii ban gaye yaaro.n
+jo hai akelaa, vo alabelaa
+usakaa zamaanaa
+    shaabaash mere shaagid.r
+    ## Thank You ##
+duniyaa paagal hai   \threedots
+
+chuu.Dii jo chhanake to kaho talavaar chhanakii hai
+paayal baje bhaago ki ye khatare kii gha.nTii hai
+pa.Dane na paaye, husn kaa saayaa
+dekho bachaanaa
+    are vaah\-vaah mere shaagid.r
+    ## Thank You ##
+duniyaa paagal hai   \threedots
+
+%
+#endindian
+\endsong
+%

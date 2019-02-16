@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{ab teraa i.ntezaar kaun kare}%
+\film{Joru Ka Bhai}%
+\year{1955}%
+\starring{Balraj Sahni, Sheila Ramani}%
+\singer{Lata / Talat}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>, Vijay Kumar
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/10/1997
+%
+\printtitle
+#indian
+%
+suramaii raat hai sitaare hai.n
+aaj dono.n jahaa.N hamaare hai.n
+
+subah kaa i.ntezaar kaun kare \- 2
+
+phir yah rut yah samaa mile na mile
+aarzuu kaa chaman khile na khile
+vaqt kaa aitabaar kaun kare
+subah kaa i.ntezaar kaun kare
+
+le bhii lo ham ko apanii baaho.n me.n
+ruuh bechain hai nigaaho.n me.n
+iltejaa baar baar kaun kare
+subah kaa i.ntezaar kaun kare
+
+% Talat version
+na_ii raat Dhalatii jaatii hai
+ruuh Gam se pighalatii jaatii hai
+
+terii zulfo.n se pyaar kaun kare
+ab teraa i.ntazaar kaun kare
+
+tum ko apanaa banaa ke dekh liyaa
+ek baar aazamaa ke dekh liyaa
+baar baar aitabaar kaun kare
+ab teraa i.ntazaar \threedots
+
+ai dil\-e\-zaar soGavaar na ho
+unakii chaahat me.n beqaraar na ho
+haay, badanasiibo.n se pyaar kaun kare
+ab teraa i.ntazaar \threedots
+
+%
+#endindian
+\endsong
+%
+

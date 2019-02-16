@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mere dil kaa pataa tumhe.n kisane diyaa ... o jaanam merii jaanam}%
+\film{Jaanam}%
+\year{1993}%
+\starring{Rahul Roy, Pooja Bhatt, Paresh, Avtar Gill, Reema Lagu, Anant Jog}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dil kaa pataa tumhe.n kisane diyaa
+kyaa tum bhii akele the merii tarah
+jaanam jaanam o jaanam merii jaanam
+
+tere dil kaa pataa mere dil ne diyaa
+haa.N ham bhii akele the terii tarah
+jaanam jaanam \threedots
+
+mai.n akelaa jii rahaa thaa jiivan be_iraadaa thaa
+na kisii se thii muhabbat na ko_ii bhii vaayadaa thaa
+tum merii raah me.n jaane kab aa gaye
+kyaa tum bhii akele \threedots
+
+zi.ndagii ke ye hasii.n pal bas yuu.n hii guzar jaate
+aur kuchh din jo tumhe.n ham na milate to mar jaate
+vaayadaa hai ye meraa tumase kyaa hai chhupaa
+haa.N ham bhii akele \threedots
+%
+#endindian
+\endsong
+

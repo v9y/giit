@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{huii ye ham se naadaanii}%
+\film{Chor Bazaar}%
+\year{1954}%
+\starring{Shammi Kapoor, Sumitra Devi}%
+\singer{Lata}%
+\music{Sardar Malik}%
+\lyrics{Shakeel}%
+%
+% Contributor: Somesh Gaur
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+huii ye ham se naadaanii terii mahafil me.n jaa baiThe
+zamiin kii khaaq hokar aasamaan se dil lagaa baiThe
+
+Kabar kyaa thii gulistaan\-e\-muhabbat me.n bhi khatare.n hai.n
+jahaa.N giratii hai bijalii ham usii Daalii pe jaa baiThe
+
+huaa khuun\-e\-tamannaa isakaa shiqavaa kya kare.n tumase
+na kuchh sochaa na kuchh samajhaa jigar par tiir khaa baiThe
+
+na kyo.n a.njaam\-e\-ulfat dekh kar aa.Nsu nikal aaye
+jahaa.N ko luuTane vaale khud apanaa ghar luTaa baiThe
+%
+#endindian
+\endsong
+%

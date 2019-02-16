@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{jiivan kii bagiyaa mahakegii, lahakegii, chahakegii}%
+\film{Tere Mere Sapne}%
+\year{}%
+\starring{Dev Anand, Mumtaz}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          Arati Deo (arati@taj.rice.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+lataa:
+jiivan kii bagiyaa mahakegii, lahakegii, chahakegii
+khushiyo.n kii kaliyaa.N jhuume.ngii, jhuule.ngii, phuule.ngii
+jiivan kii bagiyaa \threedots
+lataa:
+vo meraa hogaa,  vo sapanaa teraa hogaa
+milajul ke maa.Ngaa,  vo teraa meraa hogaa
+jab jab vo muskuraaegaa,  apanaa saveraa hogaa \threedots
+tho.Daa hamaaraa tho.Daa tumhaaraa,
+aayegaa phir se bachapan hamaaraa
+jiivan kii bagiyaa \threedots
+
+kishor:
+ham aur ba.ndhe.nge,  ham tum kuchh aur ba.ndhe.nge
+hogaa koii biich,  to ham tum aur ba.ndhe.nge
+baa.ndhegaa dhaagaa kachchaa,  ham tum tab aur ba.ndhe.nge \threedots
+tho.Daa hamaaraa tho.Daa tumhaaraa
+aayegaa phir se bachapan hamaaraa
+jiivan kii bagiyaa \threedots
+
+lataa:
+meraa raajadulaaraa,  vo jiivan praaN hamaaraa
+phuulegaa ek phuul,  khilegaa pyaar hamaaraa
+din kaa vo suuraj hogaa,  raato.n kaa chaa.nd sitaaraa \threedots
+tho.Daa hamaaraa tho.Daa tumhaaraa
+aayegaa phir se bachapan hamaaraa
+jiivan kii bagiyaa \threedots
+%
+#endindian
+\endsong
+%

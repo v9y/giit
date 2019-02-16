@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{mere jiivan ke path par chhaa_ii ye kaun ... punam kii chaa.Ndanii}%
+\film{Anjaan}%
+\year{1941}%
+\starring{Ashok Kumar, Devika Rani, V H Desai, Girish, Suresh}%
+\singer{Ashok Kumar, Devika Rani}%
+\music{Pannalal Ghosh}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11990 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	mere jiivan ke path par chhaa_ii ye kaun
+de \:	punam kii chaa.Ndanii
+a \:	kaun
+de \:	punam kii chaa.Ndanii
+a \:	mere jiivan ke path par chhaa_ii ye kaun
+de \:	punam kii chaa.Ndanii
+a \:	are
+	madhur\-madhur man bhaa_ii \-2
+	ye kaun
+li \:	nahii.n
+	madhur\-madhur man bhaa_ii
+	punam kii chaa.Ndanii
+a \:	mere jiivan ke path par chhaa_ii ye kaun
+de \:	punam kii chaa.Ndanii
+
+a \:	dhiime\-dhiime merii kuTii me.n \-2
+	iThalaatii hu_ii balakhaatii hu_ii \-2
+	chupachaap kahii.n se aa_ii \-2
+	ye kaun
+de \:	chupachaap kahii.n se aa_ii
+	punam kii chaa.Ndanii
+a \:	mere jiivan ke path par chhaa_ii ye kaun
+de \:	punam kii chaa.Ndanii
+
+a \:	kaun parii ye swarg se utarii \-2
+	ba.Dii laaj bharii mere aas\-paas
+	khelan laagii ras\-ra.ng raas \-2
+	pal\-pal le kar a.ngaraa_ii \-2
+	ye kaun
+de \:	pal\-pal le kar a.ngaraa_ii
+	punam kii chaa.Ndanii
+a \:	mere jiivan ke path par chhaa_ii ye kaun
+de \:	punam kii chaa.Ndanii
+a \:	tum kaun
+de \:	punam kii chaa.Ndanii
+%
+#endindian
+\endsong
+

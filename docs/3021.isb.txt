@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ai chaa.Nd zaraa sun le}%
+\film{Pyar ki manzil}%
+\year{1950}%
+\starring{Rehman, Munawar Sultana, Gope}%
+\singer{Lata, Husnalal}%
+\lyrics{Shevan Rizvi}%
+\music{Husnlal-Bhagatram}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 15, 2001
+% Availability: All Time Greats Husnalal-Bhagatram - CD/CS
+%
+\printitle
+#indian
+%
+
+l:  ai chaa.Nd zaraa sun le chhoTaa saa fasaanaa hai
+hu: tujh par bhii javaanii hai apanaa bhii zamaanaa hai
+    ai chaa.Nd zaraa sun le
+
+hu: ik husn kaa panaghaT par ik husn kii raanii thii
+    Kaamosh nigaahe.n thii Gurabat me.n javaanii thii
+l:  Kaamosh nigaaho.n kaa kuchh haal sunaanaa hai
+    ai chaa.Nd zaraa sun le \threedots
+
+l:  anajaan kii nazaro.n me.n kuchh aisii hu_ii baate.n
+    pahachaanii hu_ii jaise hotii hai.n mulaaqate.n
+hu: kyaa dil me.n kisii ke thaa ye dil ne hii jaanaa hai
+    ai chaa.Nd zaraa sun le \threedots
+
+l:  aa.Nkho.n se hamaarii vo tasaviir nahii.n jaatii
+hu: pahale kii tarah ham ko kyo.n nii.nd nahii.n aatii
+l:  vo aur zamaanaa thaa ye aur zamaanaa hai
+    ai chaa.Nd zaraa sun le \threedots
+
+%
+#endindian
+\endsong
+%

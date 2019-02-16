@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{Dam Dam Digaa Digaa, mausam bhigaa bhigaa}%
+\film{Chhaliya}%
+\year{}%
+\starring{Raj Kapoor}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+Dam Dam Digaa Digaa 
+mausam bhigaa bhigaa
+bin piye mai.n to giraa, mai.n to giraa, mai.n to giraa
+haay allaah!, suurat aap kii suhaanallaah
+
+terii adaa vaah! vaah! kyaa baat hai
+akhiyaa.N jhukii jhukii, baate.n rukii rukii
+dekho luTeraa aaj luT gayaa
+haay allaah   \threedots
+
+sanam ham maanaa gariib hai.n
+ajii sanam ham
+nasiibaa khoTaa sahii, bandaa chhoTaa sahii
+dil ye khazaanaa hai pyaar kaa
+haay allaah   \threedots
+
+terii qasam tuu merii jaan hai
+mukha.Daa bholaa bhaalaa, chupake Daakaa Daalaa
+jaane tuu kaisaa mahamaan hai
+haay allaah   \threedots
+
+%
+#endindian
+\endsong
+%

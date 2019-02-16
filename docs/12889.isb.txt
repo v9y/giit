@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dhak dhak dhak dhak dil dha.Dake ... tan jale haa.N haa.N man jale}%
+\film{Mahaa Sangraam}%
+\year{1990}%
+\starring{Vinod Khanna, Govinda, Madhuri, Aditya Pancholi, Sonu Walia, Sumeet Saigal}%
+\singer{Alisha Chinai, Aditya Pancholi}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dhak dhak dhak dhak dil dha.Dake
+dil dha.Dake re baabaa dil dha.Dake
+tan jale haa.N haa.N man jale sholaa bha.Dake
+
+are sholaa kyaa apun a.ngaaraa hai a.ngaaraa
+khaalii phuu.nk me.n jal jaa_egii kyaa chal phuuT
+naram labo.n se aajaa tere ho.nTho.n ko chuumuu.n
+hosh me.n naa rahe daaman se tere jhuumuu.n
+kuchh ho yahaa.n sanam aa.Nkh merii pha.Dake
+dhak dhak dhak dhak dil \threedots
+
+mand havaa kaa jho.nkaa a.ngo.n me.n aag lagaa_e
+pyaas kii aa.nch mere badan ko jalaa_e
+pyaas bujhaa gale se lagaa pyaasaa dil ta.Dape
+dhak dhak dhak dhak dil \threedots
+%
+#endindian
+\endsong
+

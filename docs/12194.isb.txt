@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{haal\-e\-dil yuu.N unhe.n sunaayaa gayaa}%
+\film{Jahanara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10571 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+haal\-e\-dil yuu.N unhe.n sunaayaa gayaa
+aa.Nkh hii ko zubaa.N banaayaa gayaa
+
+zindagii kii udaas raato.n ko
+aapakii yaad me.n sajaayaa gayaa
+haal\-e\-dil yuu.N \threedots
+
+ishq kii vo bhii ik ma.nzil thii
+har qadam par fareb khaayaa gayaa
+haal\-e\-dil yuu.N \threedots
+
+dil pe ek vah bhii haadasaa guzaraa \-2
+aaj tak dil se na chhupaayaa gayaa
+haal\-e\-dil yuu.N \threedots
+
+laakh tuufaa.N sameT kar yaa rab \-2
+kisali_e ek dil banaayaa gayaa
+haal\-e\-dil yuu.N \threedots
+%
+#endindian
+\endsong
+

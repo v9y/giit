@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tho.Dii sii bekaraarii tho.Daa saa hai karaar}%
+\film{Chal Mere Bhaai}%
+\year{2000}%
+\starring{Sanjay Dutt, Salman Khan, Karisma Kapoor}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tho.Dii sii bekaraarii tho.Daa saa hai karaar
+ko_ii ise kuchh bhii kahe ham to kahe.n pyaar
+hotaa hai hotaa hai ye sabako ek baar
+ko_ii ise kuchh bhii \threedots
+
+bas terii yaad sataatii hai raato.n ko nii.nd churaatii hai
+terii mohabbat jaan\-e\-jaa.n dil ko mere ta.Dapaatii hai
+kaisaa ye dard hai jaanam ko_ii yahaa.n ise jaane naa
+kabhii to mulaakaate.n kabhii hai i.ntazaar
+ko_ii ise kuchh bhii \threedots
+
+aa.Nkhe.n to jaagii jaagii hai.n ham dono.n so_e so_e hai.n
+apane hasiin khayaalo.n me.n diivaane kho_e kho_e hai.n
+apanaa to haal hai aisaa maane ko_ii yaa maane naa
+mastii bhii hai zaraa sii zaraa saa hai khumaar
+ko_ii ise kuchh bhii \threedots
+%
+#endindian
+\endsong
+

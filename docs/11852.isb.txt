@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{mai.n huu.N diivaanaa ba.Daa mastaanaa}%
+\film{Haqdaar}%
+\year{1964}%
+\starring{Ranjan, Nasreen, Ratnmala, Babu Raje, Uma Devi, Bhagwan}%
+\singer{Mukesh}%
+\music{Bulo C Rani}%
+\lyrics{Prem Warbartani}%
+%
+% Contributor: BOL ANAMOL #10083 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mai.n huu.N diivaanaa ba.Daa mastaanaa
+duniyaa mujhe kuchh bhii kahe gaataa chalaa dil kaa taraanaa
+mai.n huu.N diivaanaa \threedots
+
+ruup nagar kaa raahii huu.N mai.n pyaar meraa saramaayaa hai
+mere lambe safar kaa saathii ek meraa hii saayaa hai
+mai.n huu.N diivaanaa \threedots
+
+u.Date u.Date pyaare pa.nchhii is duniyaa se duur chale
+mai.n bhii unake sa.ng chalaa huu.N chaa.Nd nagar me.n shaam Dhale
+mai.n huu.N diivaanaa \threedots
+%
+#endindian
+\endsong
+

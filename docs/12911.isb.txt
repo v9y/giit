@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ishq letaa hai aashiqo.n ke imtihaan aur diivaane ha.Ns ke de dete hai.n jaan}%
+\film{Meraa Dil Tere Liye}%
+\year{1991}%
+\starring{Neeraj, Mamta Kulkarni, Shailey Kapoor, Gopi Bhalla, Arun Verma}%
+\singer{Anuradha Paudwal}%
+\music{Babul Bose}%
+\lyrics{Ravindra Rawal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq letaa hai aashiqo.n ke imtihaan
+aur diivaane ha.Ns ke de dete hai.n jaan
+
+is duniyaa ne diivaane kaa dard na jaanaa
+dil kaa dushman sadiyo.n se bedard zamaanaa
+sab kuchh badalaa par naa badalaa zulm kaa vah afasaanaa
+Gam kii vahii daastaa.n
+ishq letaa hai \threedots
+
+dil par Gam ke zakhm ba.De gahare hote hai.n
+kaise ho shikavaa ho.nTho.n pe pahare hote hai.n
+mandir jaise dil TuuTe hai.n dharatii ne dekhaa
+hai dekhaa kiyaa aasmaa.n
+ishq letaa hai \threedots
+%
+#endindian
+\endsong
+

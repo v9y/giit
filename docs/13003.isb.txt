@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{paas aake hu_e ham duur yahii thaa qismat ko}%
+\film{Meena Bazar}%
+\year{1950}%
+\starring{Nargis, Shyam, Kuldip, Om Prakash, Gop, Sapru, Kanhaiyalal}%
+\singer{Rafi, Lata}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10239 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	paas aake hu_e ( ham duur ) \-2
+	yahii thaa qismat ko ma.nzuur \-2
+
+	( nahii.n tumase mujhe gilaa ko_ii ) \-2 duniyaa kii riit puraanii hai
+	ko_ii ha.Nsane par ( majabuur yahaa.N ) \-2 ko_ii rone par majabuur
+	yahii thaa qismat ko \threedots
+
+la \:	( o mere aa.Nsuu dekhane vaalo.n ) \-2 ( denaa merii gavaahii ) \-2
+	mere piyaa se ( ye kah denaa ) \-2 nahii.n meraa ko_ii qasuur haay qasuur
+	yahii thaa qismat ko \threedots
+
+	( rone vaale kyuu.N rotaa hai ) \-2 aisaa hii pyaar me.n hotaa hai
+	ho paravaane is mahafil me.n haay mahafil me.n hai jalane kaa dastuur
+	yahii thaa qismat ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{likhe jo khat tujhe, vo terii yaad me.n}%
+\film{Kanyadaan}%
+\year{1968}%
+\starring{Shashi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+likhe jo Kat tujhe
+vo terii yaad me.n
+hazaaro.n ra.ng ke
+nazaare ban gae
+
+saveraa jab huaa
+to phuul ban gae
+jo raat aa_ii to
+sitaare ban gae
+
+koii nagamaa kahii.n guu.Njaa, kahaa dil ne ke tuu aa_ii
+kahii.n chaTakii kalii koii, mai.n ye samajhaa tuu sharamaa_ii
+koii Kushabuu kahii.n biKarii, lagaa ye zulf laharaa_ii
+
+fizaa ra.ngii.n adaa ra.ngii.n, ye iThalaanaa ye sharamaanaa
+ye a.nga.Daa_ii ye tanahaa_ii, ye tarasaa kar chale jaanaa
+banaa de naa kahii.n mujhako, javaa.n jaaduu ye diivaanaa
+
+jahaa.N tuu hai vahaa.N mai.n huu.N, mere dil kii tuu dha.Dakan hai
+musaafir mai.n tuu ma.nzil hai, mai.n pyaasaa huu.N tuu saavan hai
+merii duniyaa ye nazare.n hai.n, merii jannat ye daaman hai
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{chalo chale.n duur kahii.n pyaar ke li_e ye jagah Thiik nahii.n}%
+\film{Sindoor}%
+\year{1987}%
+\starring{Shashi Kapoor, Jayaprada, Govinda, Neelam, Jeetendra, Rishi Kapoor}%
+\singer{Kavita Subramaniam, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suno jii kaho jii
+ho ko_ii aataa hai ko_ii jaataa hai
+aane jaane vaalo.n se jii ghabaraataa hai
+chalo chale.n duur kahii.n
+pyaar ke li_e ye jagah Thiik nahii.n
+chalo chale.n duur \threedots
+
+dil na lage is shahar me.n meraa kisii parvat par Daal de.n Deraa
+ja.ngal me.n kar le.n baseraa Duub ke nahii.n to mar jaa_e.n kahii.n
+pyaar ke li_e ye jagah \threedots
+
+rah ga_e piichhe duniyaa ke mele
+yahaa.n nahii.n ko_ii ham hai.n akele
+dil bhii kyaa hai chiiz merii jaan le le
+ai baabuu maachis hai
+ko_ii aa jaa_e kyaa hai yakii.n
+pyaar ke li_e ye jagah \threedots
+
+mushkil se milii hai.n ye tanhaa_iyaa.n
+lene do ab pyaar kii a.nga.Daa_iyaa.n
+ko_ii aa rahaa hai ho jaa_e na rusavaa_iyaa.n
+ai ##mister time## kyaa hu_aa
+is kambakht ko aanaa thaa yahii.n
+pyaar ke li_e ye jagah \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{ai yaar sun yaarii terii mujhe zindagii se bhii}%
+\film{Suhaag}%
+\year{1979}%
+\starring{Amitabh, Shashi Kapoor, Rekha, Paravin Babi, Nirupa Roy, Amjad}%
+\singer{Rafi, Asha, Shailendra Singh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11290 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai yaar sun yaarii terii mujhe zindagii se bhii pyaarii hai \-2
+javaab ik nahii.n hamaaraa kahii.n ba.Dii Kuub jo.Dii hamaarii hai
+ai yaar sun \threedots
+
+kyaa dekhataa huu.N mai.n kab dekhataa huu.N
+terii nazar se sab dekhataa huu.N
+terii qasam ye haath hai.n mere magar
+in haatho.n me.n taaqat tumhaarii hai
+ai yaar sun \threedots
+
+dil me.n lagaa_ii hai tasviir terii
+teraa nasiibaa hai taqadiir merii
+tum dono.n ne jo kuchh kahaa maine sunaa
+magar ab suno merii baarii hai
+ai yaar sun \threedots
+
+hamase jo ulajhe vo hogaa diivaanaa
+aavaaz tuu de mai.n baa.Ndhuu.N nishaanaa
+u.Date hu_e pa.nchhii ke par ham kaaT le.n
+ki mai.n jaal huu.N tuu shikaarii hai
+ai yaar sun \threedots
+
+ham hai.n javaanii ke din\-raat jaise
+lagataa hai bachapan se hai saath jaise
+dil yaar kaa jaa.N yaar kii apanaa hai kyaa
+ye vardii bhii to sarakaarii hai
+ai yaar sun \threedots
+%
+#endindian
+\endsong
+

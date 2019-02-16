@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{musaafir hai.n ham\-tum ye duniyaa saraay}%
+\film{Sim Sim Marjeenaa}%
+\year{1958}%
+\starring{Mahipal, Shakeela, Hiralal, Maruti, Tiwari, Helen}%
+\singer{Rafi, Mubarak Begum, Sudha Malhotra}%
+\music{A R Qureshi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10057 [V S Rawat]
+% Transliterator: 
+% Comments: Sequel of Khul Ja Sim Sim - 1956
+% 
+\printtitle
+#indian
+%
+musaafir hai.n ham\-tum ye duniyaa saraay
+idhar ko_ii aa_e udhar ko_ii jaa_e
+ye jalave ye naGame.n ye mahafil suhaanii
+ye husn aur mohabbat kii ra.ngii.n kahaanii
+yahaa.N kii har ek chiiz hai aanii jaanii
+vo naadaan hai inase jo dil lagaa_e
+musaafir hai.n ham tum \threedots
+
+har ek chiiz me.n hai na_ii zindagaanii
+vo naadaan hai jo yahaa.N tak na aa_e
+musaafir hai.n ham tum \threedots
+
+zamaanaa hu_aa hai na hogaa kisii kaa
+tamaashaa hai saaraa gha.Dii do gha.Dii kaa
+bharosaa na karanaa kabhii zindagii kaa
+naa maaluum kab saa.Ns aa_e na aa_e
+musaafir hai.n ham tum \threedots
+
+ye duniyaa hai do gha.Dii kaa tamaashaa
+na karanaa yahaa.N zindagii kaa bharosaa
+naa baakii rahe ko_ii dil kii tamannaa
+adhuurii kahii.n daastaa.n rah na jaa_e
+musaafir hai.n ham tum \threedots
+%
+#endindian
+\endsong
+

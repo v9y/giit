@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{khushbuu mahakanaa bhuul jaa_e ... aapako mai.n bhulaa nahii.n sakataa}%
+\film{Aaghaaz}%
+\year{2000}%
+\starring{Sunil Shetty, Sushmita Sen, Namrata Shirodkar}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khushbuu mahakanaa bhuul jaa_e pa.nchhii chahakanaa bhuul jaa_e.n
+chaa.Nd nikalanaa bhuul jaa_e suuraj Dhalanaa bhuul jaa_e
+saa.Nse.n chalanaa bhuul jaa_e.n shamaa jalanaa bhuul jaa_e
+dha.Dakan dha.Dakanaa bhuul jaa_e mausam badalanaa bhuul jaa_e.n
+dil ko patthar banaa nahii.n sakataa
+aapako mai.n bhulaa nahii.n sakataa
+
+dil ko patthar banaa nahii.n sakatii
+aapako mai.n bhulaa nahii.n sakatii
+
+mai.n jo tujhase kahuu.N de de tuu mujhako jaa.n
+itanii chaahat mujhe kaun degaa yahaa.n
+sau janam tak tujhe pyaar karatii rahuu.n
+terii palako.n tale jiitii maratii rahuu.n
+ye haqiiqat chhupaa nahii.n sakataa
+aapako mai.n bhulaa \threedots
+
+ishq me.n to milii.n mujhako tanhaa_iyaa.n
+saath chalatii rahii.n merii parachhaa_iyaa.n
+ho maine jo maa.ngii du_aa sirf maa.ngaa tujhe
+ye jo hai diivaanagii tujhase milii hai mujhe
+dard dil kaa bataa nahii.n sakatii
+aapako mai.n bhulaa \threedots
+%
+#endindian
+\endsong
+

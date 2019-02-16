@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{baap kii kasam maa.N kii kasam ... tere sivaa kisii kii nahii.n mai.n}%
+\film{Mawaali}%
+\year{1983}%
+\starring{Jeendendra, Sridevi, Jayaprada, Kader Khan, Shakti Kapoor, Nirupa Roy}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+baap kii kasam maa.N kii kasam
+terii kasam jaa.N kii kasam
+le le kisii kii kasam
+aa aa
+tere sivaa kisii kii nahii.n mai.n mujhako saare jahaa.N kii kasam
+ribaabaa ribaabaa raubaabaa are baap kii kasam
+
+na_ii na_ii machhalii ko na_ii na_ii titalii ko
+Dhuu.NDhe terii najariyaa \-2
+paanii bharane raanii chale dahii me.n mathaanii chale
+aise chale terii kamariyaa \-2
+teraa kahaa maane.nge na ham \-2
+jhuuThaa hai tuu mere sanam \-2
+are baap kii kasam \threedots
+
+itanii javaanii hasii.n duusarii dekhii nahii.n
+duniyaa ko mai.n dekh aayaa \-2
+aisaa kitano.n ko kahaa kitano.n ke saath rahaa
+kitano.n ko tuune ghumaayaa
+Kvaabo.n me.n bhii dekhaa nahii.n aur kisii ko terii kasam
+are baap kii kasam \threedots
+
+dekhe.n ham to kha.De kha.De Gesu_o.n ke bhaag ba.De
+chuume.n tere baalo.n ko
+bulabule pha.nsaanaa chaahe baate.n banaanaa chaahe
+jaanuu.n tere chaalo.n ko
+ek taraf saaraa jahaa.N ek taraf tuu mere sanam
+are baap kii kasam \threedots
+%
+#endindian
+\endsong
+

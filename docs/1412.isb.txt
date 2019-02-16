@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{pal pal dil ke paas, tum rahatii ho}%
+\film{Blackmail}%
+\year{1973}%
+\starring{Dharmendra, Rakhee, Shatrughan Sinha}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Yogesh Kamath (kamathy@ucunix.san.uc.edu)
+%          posted by nasir (noor@muug.mb.ca))
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pal pal dil ke paas, tum rahatii ho
+jiivan miiThii pyaas, ye kahatii ho
+pal pal \threedots
+
+har shaam aa.Nkho.n par, teraa aa.Nchal laharaae
+har raat yaado.n kii, baaraat le aae
+mai.n saa.ns letaa huu.N, terii khushabuu aatii hai
+ek mahakaa mahakaa saa, paigaam laatii hai
+mere dil ki dha.Dakan bhii, tere giit gaatii hai
+pal pal \threedots
+
+tum sochogii kyuu.N itanaa, mai.n tumase pyaar karuu.n
+tum samajhogii diivaanaa, mai.n bhii iqaraar karuu.n
+diivaano.n kii ye baate.n, diivaane jaanate hai.n
+jalane me.n kyaa mazaa hai, paravaane jaanate hai.n
+tum yuu.N hii jalaate rahanaa, aa aa kar Kvaabo.n me.n
+pal pal \threedots
+
+kal tujhako dekhaa thaa, maine apane aa.ngan me.n
+jaise kah rahii thii tum, mujhe baa.Ndh lo bandhan me.n
+ye kaisaa rishtaa hai, ye kaise sapane hai.n
+begaane ho kar bhii, kyuu.N lagate apane hai.n 
+mai.n soch mai.n rahataa huu.N, Dar Dar ke kahataa huu.N
+pal pal \threedots
+%
+#endindian
+\endsong
+%

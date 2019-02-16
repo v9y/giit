@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ham ne apanaa sab kuchh khoyaa, pyaar teraa paane ko}%
+\film{Saraswati Chandra}%
+\year{1968}%
+\starring{Manish, Nutan}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham ne apanaa sab kuchh khoyaa, pyaar teraa paane ko
+chho.D diyaa kyo.n pyaar ne tere, dar\-dar bhaTakaane ko
+pyaar teraa paane ko
+ham ne apanaa \threedots
+
+vo aa.Nsuu jo bah nahii.n paae, vo baate.n jo kah nahii.n paae
+dil me.n chhupaae firate hai.n ab, ghuT kar mar jaane ko
+pyaar teraa paane ko
+ham ne apanaa \threedots
+
+usakii rahe tuu jisakii ho lii, tujhako mubaaraq pyaar kii Dolii
+baiTh gae ham Gam kii chitaa par, zindaa jal jaane ko
+pyaar teraa paane ko
+ham ne apanaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mai.n huu.N gaa.nv kii gorii baabuu ra.ng laharii}%
+\film{Bol Raadhaa Bol}%
+\year{1992}%
+\starring{Rishi, Juhi, Shakti, Mohnish, Aloknath, Anjan Shrivastava, Kiran Kumar, Kader}%
+\singer{Kumar Sanu, Poornima}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+puu \:	mai.n huu.N gaa.nv kii gorii baabuu ra.ng laharii \-2
+	zaraa mujhako bhii pa.Dhanaa sikhaa de tuu \-2
+ku \:	baiTh yahaa.N merii raanii mai.n tujhako aaj pa.Dhaa duu.N
+	##A B C D E F G H## tujhako aaj sikhaa duu.N
+	pa.Dhaa likhaa ke tumako aa mai.n ##up to date## banaa duu.N
+puu \:	mai.n huu.N gaa.nv kii gorii \threedots
+
+ku \:	maTak maTak ke lachak lachak ke yuu.N na chal dilajaanii
+	ra.ng badalanaa siikh le chalanaa la.Dakii hindustaanii \-2
+puu \:	( mai.n huu.N la.Dakii ) \-2 anaa.Dii o ra.ngiile shaharii
+	zaraa mujhako bhii chalanaa bataa de tuu
+	mai.n huu.N gaa.nv kii gorii \threedots
+
+	mujhe paka.D ke mujhe jaka.D ke kaisaa paaTh pa.Dhaa_e
+	kabhii idhar se kabhii udhar se tuu kyo.n haath lagaa_e \-2
+ku \:	mai.n diivaanaa teraa tuu diivaanii hai merii
+	aa tujhe pyaar karanaa sikhaa duu.N mai.n \-2
+
+puu \:	baiTh yahaa.N paradesii kyaa siikhaa tujhe bataa duu.N
+	##A B C D E F G H## pa.Dh ke mai.n sunaa duu.N
+	tujhe diivaane aaj mai.n banake ##up to date## dikhaa duu.N
+ku \:	tuu gaa.nv kii gorii mai.n huu.N ra.ng laharii \-2
+	aa tujhe aaj pa.Dhanaa sikhaa duu.N mai.n \-2
+%
+#endindian
+\endsong
+

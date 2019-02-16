@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{yaa ilaahii ho mubaarak tujhako yah teraa jahaa.N}%
+\film{Lailaa Majnoon}%
+\year{1953}%
+\starring{Shammi Kapoor, Nutan}%
+\singer{Asha}%
+\music{Gulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10031 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaa ilaahii ho mubaarak tujhako yah teraa jahaa.N
+dil kii barabaadii pe bajatii hai.n yahaa.N shahanaa_iyaa.N
+
+mai.n vah bulabul huu.N ki jisakaa aashiyaanaa luT gayaa
+aarazuu_e.n miT ga_ii.n dil kaa Kazaanaa luT gayaa
+fasal\-e\-Gul aane se pahale aa ga_ii fasal\-e\-Kizaa.N
+
+haay kis ma.nzil pe laa_ii merii barabaadii mujhe
+chaa.Nd suuraj kah rahe hai.n aaj fariyaadii mujhe
+bebasii par maatam kar rahaa hai aasamaa.N
+%
+#endindian
+\endsong
+

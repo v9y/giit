@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{zamaane ne maare javaa.N kaise\-kaise}%
+\film{Baharon Ke Sapne}%
+\year{1967}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10748 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zamaane ne maare javaa.N kaise\-kaise
+zamii.n khaa ga_ii aasamaa.N kaise\-kaise
+pale the jo kal ra.ng me.n dhuul me.n
+hu_e dar\-ba\-dar kaaravaa.N kaise\-kaise
+zamaane ne maare \threedots
+
+hazaaro.n ke tan kaise shiishe ho.n chuur
+jalaa dhuup me.n kitanii aa.Nkho.n kaa nuur
+chehare pe Gam ke nishaa.N kaise\-kaise
+zamaane ne maare \threedots
+
+lahuu ban ke bahate vo aa.Nsuu tamaam
+ki hogaa inhii.n se bahaaro.n kaa naam
+bane.nge abhii aashiyaa.N kaise\-kaise
+zamaane ne maare \threedots
+%
+#endindian
+\endsong
+

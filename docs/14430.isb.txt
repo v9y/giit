@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{##bye bye## mai.n tujhe chho.D ke kahaa.N jaa_uu.Ngaa}%
+\film{Trinetra}%
+\year{1991}%
+\starring{Mithun, Deepa Sahi, Shilpa Shirodkar, Anupam Kher, Kader, Shakti}%
+\singer{Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##bye bye bye bye##
+mai.n tujhe chho.D ke kahaa.N jaa_uu.Ngaa
+mere bhole sanam tere sar kii qasam jaake jaldii mai.n lauT aa_uu.Ngaa
+mai.n tujhe chho.D ke \threedots
+
+jab tak sajegii saa.Nso.n kii saragam tere hii naGme.n gaataa rahuu.Ngaa
+mai.n jism huu.N tuu jaa.n ho.nge kabhii na judaa
+aise na aa.Nsuu bahaa ha.Ns ke mujhe kar vidaa
+mere bhole sanam \threedots
+
+kaise sahuu.Ngaa dard\-e\-judaa_ii tere binaa mai.n kaise rahuu.Ngaa
+jaa_uu.Ngaa leke mai.n saath tujhako phir na tujhe mai.n ##bye bye## kahuu.Ngaa
+maine jo vaade ki_e unako nibhaa_uu.Ngaa mai.n
+teraa yah cheharaa hasii.n kaise bhulaa_uu.Ngaa mai.n
+mere bhole sanam \threedots
+%
+#endindian
+\endsong
+

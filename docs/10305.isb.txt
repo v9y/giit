@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{baar baar meraa pyaar mujhe puuchh rahaa diladaar}%
+\film{Albeli}%
+\year{1974}%
+\starring{Rehana Sultan, Vinod Mehra, Naazima, Mehmood, Uttara}%
+\singer{Mukesh, Nazima}%
+\music{Kalyanji-Anandji}%
+\lyrics{Jaan Nisaar Akhtar}%
+%
+% Contributor: BOL ANAMOL #11232 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+baar\-baar meraa pyaar mujhe puuchh rahaa diladaar
+ki aisaa tujhame.n kyaa hai kyaa hai jo meraa chain gayaa hai
+
+maine dekhaa hai jab se tujhako chaahaa hai tab se
+aur mere fasaane me.n kuchh bhii nahii.n
+mujhako itanaa pataa hai tujhame.n aisii adaa hai
+naam jisakaa zamaane me.n kuchh bhii nahii.n
+phir kaise mai.n samajhaa_uu.N aur kaise mai.n batalaa_uu.N
+ki aisaa tujhame.n \threedots
+
+ye ujaalaa badan kaa chaa.Nd jaise gagan kaa
+kaise lafzo.n me.n ye ruup Dhal paa_egaa
+mai.n jo gaanaa bhii chaahuu.N gunagunaanaa bhii chaahuu.N
+giit meraa adhuuraa saa rah jaa_egaa
+phir kaise mai.n samajhaa_uu.N aur kaise mai.n batalaa_uu.N
+ki aisaa tujhame.n \threedots
+%
+#endindian
+\endsong
+

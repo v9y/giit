@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ahaa ahaa mujhe aisaa lagaa vo mil gayaa}%
+\film{Na Tum Jaano Na Hum}%
+\year{2002}%
+\starring{Hritik Roshan, Isha Deol, Said Ali Khan}%
+\singer{Phalguni Pathak, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+ahaa ahaa ahaa ahaa ahaa ahaa
+mujhe aisaa lagaa vo mil gayaa
+ahaa ahaa ahaa ahaa uu huu.n uu huu.n
+mujhe aisaa lagaa ye dil gayaa
+ahaa ahaa ahaa ahaa uu huu.n uu huu.n
+vo kaun hai huu.n huu.n huu.n huu.n huu.n
+bolo kaun hai huu.n huu.n huu.n huu.n huu.n
+kab kaise kahaa.N ye kyaa ho gayaa
+
+terii nii.nde.n le gayaa vo
+tujhe sapane de gayaa vo
+nahii.n honii thii ye baat ho ga_ii hai
+din chhoTaa te lambii raat ho ga_ii hai
+vo kaun hai na na na na naa
+bolo kaun hai na na na na naa
+mujhe aisaa \threedots
+
+kyaa hogaa ho gayaa hai
+dil naa khonaa kho gayaa hai
+vo paagal mujh ko paagal kar gayaa hai
+mai.n bach ga_ii par vo ghaayal kar gayaa hai
+vo kaun hai na na na na naa
+bolo kaun hai na na na na naa
+kab kaise kahaa.N  \threedots
+%
+#endindian
+\endsong

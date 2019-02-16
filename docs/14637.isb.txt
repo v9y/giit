@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujhe dekhakar yuu.n ... sanam ye pyaar hii to hai}%
+\film{Yeh Pyaar Hi To Hai}%
+\year{2001}%
+\starring{Saif Ali Khan, Pooja Bhatt}%
+\singer{Kumar Sanu, Sunanda}%
+\music{Nadeem Shravan}%
+\lyrics{}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe dekhakar yuu.n teraa muskuraanaa
+yuu.n nazare.n milaa ke yuu.n palake.n jhukaanaa
+sanam ye pyaar hii to hai
+karake bahaanaa yuu.n piichhe piichhe aanaa
+akelii mujhe paake yuu.n raaho.n me.n sataanaa
+sanam ye pyaar \threedots
+
+tumase hii mujhako pyaar hai
+chaahuu.n to dil bekaraar karuu.n
+baaho.n me.n bhar luu.n mai.n tujhe
+aa jaane\-e\-jaanaa.n ikaraar karuu.n
+nazar tuu adaa tuu jigar tuu vafaa tuu
+jaan\-e\-jigar tuu hai merii zi.ndagaanii
+paka.D ke kalaa_ii yuu.n u.ngalii dabaanaa
+yuu.n nazare.n milaa ke \threedots
+
+aa_e mazaa mujhako sanam terii to har ik baat pe
+rokuu.n bhalaa kaise ise bas naa chale jazbaat pe
+ye shokhii sharaarat hai terii hii chaahat
+tho.Dii sii bholii mai.n huu.n tho.Dii sii diivaanii
+jahaa.n naa ko_ii aa_e vahaa.n mujhe bulaanaa
+akelii mujhe paake \threedots
+%
+#endindian
+\endsong
+

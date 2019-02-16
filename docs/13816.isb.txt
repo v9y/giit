@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{sa.ng basa.ntii a.ng basa.ntii ra.ng basa.ntii chhaa gayaa}%
+\film{Raja Aur Rank}%
+\year{1968}%
+\starring{Sanjeev Kumar, Nazima, Kumkum, Nirupa Roy, Ajit}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11074 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	sa.ng basa.ntii a.ng basa.ntii ra.ng basa.ntii chhaa gayaa
+	mastaanaa mausam aa gayaa
+ko \:	sa.ng basa.ntii a.ng \threedots
+
+la \: dharatii kaa hai aa.Nchal piilaa jhuume ambar niilaa\-niilaa
+	sab ra.ngo.n me.n hai ra.ngiilaa ra.ng basa.ntii
+ko \:	sa.ng basa.ntii a.ng \threedots
+
+ra \:	laharaa_e ye teraa aa.Nchal saavan ke jhuulo.n jaisaa
+	dil meraa le gayaa hai ye teraa ruup gorii saraso.n ke phuulo.n jaisaa
+	o laharaa_e teraa aa.Nchal saavan ke jhuulo.n jaisaa
+ko \:	dil meraa le gayaa \threedots
+ra \:	jab dekhuu.N jii chaahe meraa naam basa.ntii rakh duu.N teraa
+la \:	chho.Do\-chhe.Do naa
+ko \:	ho ho
+la \:	terii baate.n raam duhaa_ii manavaa luuTaa nii.nd churaa_ii
+	sai.nyaa terii priit se aa_ii ta.ng basa.ntii
+	sa.ng basa.ntii a.ng \threedots
+ra \:	mastaanaa mausam aa gayaa
+
+la \:	ho sun lo deshavaasiyo.n \-2
+	aaj se is desh me.n
+	chhoTaa\-ba.Daa ko_ii na hogaa saare ek samaan ho.nge
+	sun lo deshavaasiyo.n
+	ko_ii na hogaa bhuukhaa\-pyaasaa puurii hogii sabakii aashaa
+	ham hai.n raajaa
+ra \:	tum ho kaun nagar ke raaje chhoTaa mu.Nh ba.Dii baat na saaje
+	jhuumo naacho gaa_o baaje sa.ng (?) basa.ntii
+ko \:	sa.ng basa.ntii a.ng \threedots
+%
+#endindian
+\endsong
+

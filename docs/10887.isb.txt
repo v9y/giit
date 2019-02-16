@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{nigaahe.n ruk ga_ii.n haay kahaa.N par ... kaise baje dil kaa sitaar}%
+\film{Chandni Raat}%
+\year{1949}%
+\starring{Naseer, Shyam, David, Ulhas Parveen, Cukoo}%
+\singer{Rafi, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12158 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+sha \:	nigaahe.n ruk ga_ii.n haay kahaa.N par
+	ta.Dap kar rah gayaa naGamaa zubaa.N par
+ra \:	dhu_aa.N saa uTh rahaa hai aasamaa.N par
+	girii bijalii kisii ke aashiyaa.N par
+
+sha \:	kaise baje dil kaa sitaar
+	The.ns lagii TuuT gaye taar
+ra \:	biitaa hu_aa jiiwan kaa pyaar
+	haay ko_ii aaj gayaa haar
+
+sha \:	( dil kahii.n aawaaz kahii.n
+	naGamaa kahii.n saaz kahii.n ) \-2
+ra \:	dekh ye ghabaraa_ii nazar \-2
+	khol na de raaz kahii.n \-2
+sha \:	o
+	aaj kahe dil baar\-baar
+	na_iyaa merii kaise lage paar
+
+ra \:	( dil me.n chhupaaye huye Gam
+	kaise rahuu.N rah naa sakuu.N
+sha \:	TuuT pa.De mujh pe sitam
+	aur mai.n kuchh kah naa sakuu.N ) \-2
+ra \:	o
+	giit me.n hai dil kii pukaar
+	gaaye jaa tuu saajan ke dwaar
+%
+#endindian
+\endsong
+

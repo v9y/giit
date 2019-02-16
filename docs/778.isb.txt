@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{jaa jaa jaa mere bachapan, kahii.n jaa ke chhup naadaan}%
+\film{Junglee}%
+\starring{Saira Bano, Shammi Kapoor}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Rajan Parrikar (parrikar@spot.colorado.edu)
+% Transliterator: Arati Deo (arati@soma.rice.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaa jaa jaa mere bachapan, kahii.n jaa ke chhup naadaa.n \- 2 
+ye safar hai ab mushkil, aane ko hai tuufaa.N 
+jaa jaa jaa mere bachapan\threedots
+
+(zi.ndagii ko naye ra.ng milane lage
+ek kiran chhuu gayI, phuul khilane lage ) \- 2
+jaa jaa jaa mere bachapan\threedots
+
+(ek kasak har gha.Dii dil me.n rahane lagI 
+jo ke ta.Dapaa gayI, phir bhI achchhii lagI ) \-  2
+jaa jaa jaa mere bachapan\threedots
+%
+#endindian
+\endsong
+%

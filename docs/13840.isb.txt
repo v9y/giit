@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{kyo.n jii aaKir kaun ho tum ... aavaaraa huu.N}%
+\film{Reshmi Roomal}%
+\year{1961}%
+\starring{Shakila, Manoj Kumar, K. N. Singh, Shivaraj, Maruti}%
+\singer{Mukesh, Asha}%
+\music{Babul}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10067 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	kyo.n jii aaKir kaun ho tum
+mu \:	aavaaraa huu.N
+aa \:	ghaas ke paas kyo.n kha.De ho
+mu \:	ghasiyaaraa huu.N
+aa \:	ho kyo.n jii aaKir kaun ho tum
+mu \:	aavaaraa huu.N ghasiyaaraa huu.N aavaaraa huu.N huu.N huu.N
+
+mu \:	tuu hai huur zamii.n kii raanii mai.n maasuum farishtaa
+aa \:	to.D na mere laaj ke ba.ndhan jo.D na dil kaa rishtaa
+	jaa jaa jo.D na dil kaa rishtaa
+	aaKir terii jaat hai kyaa
+mu \:	bhaTiyaaraa huu.N
+aa \:	kyo.n jii aaKir kaun ho tum
+mu \:	aavaaraa huu.N ghasiyaaraa huu.N bhaTiyaaraa huu.N huu.N huu.N
+
+aa \:	har la.Dakii kii aa.Nkho.n par tum bijalii ban kar girate
+mu \:	dil kii gaTharii sar par rakhakar galii galii ham phirate
+		haa.N haa.N galii galii ham phirate
+aa \:	aisaa kyuu.N karate ho tum
+mu \:	banajaaraa huu.N
+aa \:	kyo.n jii aaKir kaun ho tum
+mu \:	aavaaraa huu.N bhaTiyaaraa huu.N banajaaraa huu.N huu.N huu.N
+
+mu \:	jab tuu naache naaz\-o\-adaa se dharatii kaa dil dha.Dake
+aa \:	tujhe paka.D kar piiTuu.Ngii mai.n bhaag yahaa.N se la.Dake
+		chal haT bhaag yahaa.N se la.Dake
+	mai.n rustam kii la.Dakii huu.N
+mu \:	mai.n daaraa huu.N
+aa \:	ghaas ke paas kyo.n kha.De \threedots
+%
+#endindian
+\endsong
+

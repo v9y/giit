@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{teraa palluu sarakaa jaa_e re}%
+\film{Dulhan Hum Le Jaayenge}%
+\year{2000}%
+\starring{Salman Khan, Karisma Kapoor, Om Puri, Paresh Raval, Anupam Kher}%
+\singer{Sonu Nigam, Alka Yagnik, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa palluu sarakaa jaa_e re bas to phir ho jaa_e
+o haa paraa o haa paraa o haa paraa o haa paraa
+o saajan abhii hu_ii huu.n raajii pahale shaadii to ho jaa_e
+o haa paraa o haa paraa o haa paraa o haa paraa
+o teraa palluu sarakaa \threedots
+
+huu.n puuchh le apane dil se kyuu.n hai ye bechain
+kyuu.n saajan ke sapane dekhe.n tere nain
+saajan saajan o saajan ye sab hai tere kaaraN
+Dolii lekar aajaa bajaa de bai.nD baajaa
+ab tuu der naa kar aajaa jaldii aajaa
+are terii agar hai yahii tamannaa to phir ho jaa_e
+teraa palluu sarakaa \threedots
+
+baa.nke sajanaa tum hamako sataayaa naa karo naa karo
+yuu.n naa shor machaayaa karo
+huu.n betaabii me.n aksar aisaa hotaa hai
+pyaar me.n duurii sahanaa mushqil hotaa hai
+jaanam jaanam o jaanam maanaa pyaar kaa hai mausam
+magar ai yaar sa.mbhal tuu merii majabuurii samajh tuu
+nibhaanii rasme.n ho.ngii to puurii kasame.n ho.ngii
+are kasam hai rasm nibhaa_e.nge ham to phir ho jaa_e
+teraa palluu sarakaa \threedots
+%
+#endindian
+\endsong
+

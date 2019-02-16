@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jis dil me.n basaa thaa pyaaar teraa}%
+\film{Saheli}%
+\starring{}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+jis dil me.n basA thA pyAr terA
+us dil ko kabhI kA to.D diyA, hAy, to.D diyA
+badanAm na hone de.nge tujhe
+terA nAm hI lenA chho.D diyA, hAy, chho.D diyA
+jis dil me.n basA thA pyAr terA
+
+jab yAd kabhI tum Aoge
+samajhe.nge tumhe.n chAhA hI nahI.n
+rAho.n me.n agar mil jAoge
+soche.nge tumhe.n dekhA hI nahI.n
+jo dar pe tumhAre jAtI thI.n
+un rAho.n ko hamane chho.D diyA hAy, chho.D diyA
+jis dil me.n basA thA pyAr terA
+
+ham kaun kisI ke hote hai.n
+koI hamako yAd karegA kyU.n
+apane do A.nsU bhI ham par
+koI barabAd karegA kyU.n \- 2
+us mA.njhI ko bhI gilA hamase
+ma.njhadhAr me.n jisane chho.D diyA, hAy, chho.D diyA
+jis dil me.n basA thA pyAr terA \threedots
+%
+#endindian
+\endsong
+%

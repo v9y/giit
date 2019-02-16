@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jisake li_e ta.Dape ham ... yahii hai vo saa.Njh aur saveraa}%
+\film{Saanjh Aur Savera}%
+\year{1964}%
+\starring{Meena Kumari, Guru Dutt, Mehmood, Shubha Khote}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10971 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	jisake li_e ta.Dape ham saaraa jiivan bhar
+	yahii hai vo saa.Njh aur saveraa \-2
+
+aa \:	janam\-janam se a.Ndheraa thaa merii raaho.n me.n
+	ye baat kab thii bhalaa madabharii fizaa_o.n me.n
+ra \:	sabaa bahaar ke Dole me.n tumako laa_ii hai
+	ke aaj saarii Kudaa_ii hai merii baa.Nho.n me.n
+	chalaa gayaa Gam kaa vo andheraa
+	milan hu_aa pyaar kaa sunaharaa
+	jisake li_e ta.Dape \threedots
+
+aa \:	tumhii.n chhupe the merii zindagii ke darpaN me.n
+	tumhaaraa pyaar sameTaa thaa apane daaman me.n
+ra \:	jale hai.n pyaar ke diipak banaa dhu_aa.N kaajal
+	khile hai.n phuul tamannaa ke dil ke aa.Ngan me.n
+	milaa mujhe saath sa.ng teraa
+	chamak uThaa hai nasiib teraa
+	jisake li_e ta.Dape \threedots
+
+aa \:	merii palak tumhaarii palak kaa saayaa hai
+	zabaan\-e\-dil pe tumhaaraa hii naam aayaa hai
+ra \:	nisaar aisii Kushii par hamaarii saarii umar
+	ke hamane chaa.Nd ko apane gale lagaayaa hai
+	tumane ra.ng pyaar kaa bharaa gaharaa
+	nikhar gayaa aasamaa.N kaa cheharaa
+	jisake li_e ta.Dape \threedots
+%
+#endindian
+\endsong
+

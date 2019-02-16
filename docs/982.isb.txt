@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{khanake to khanake kyo.n khanake, meraa ka.nganaa}%
+\film{Vallah Kya Baat Hai}%
+\year{1962}%
+\starring{Shammi Kapoor, Bina Roy, Tun Tun, Janaki Das, KN Singh, Mumtaz}%
+\singer{Rafi, Asha, chorus}%
+\music{Roshan}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Transliterator: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: A song with a bucolic bounce and appealing 'anokhe bol.'
+%
+\printtitle
+#indian
+%
+aa: khanake to khanake kyo.n khanake, jab raat ko chamake taare
+     meraa ka.nganaa haay, haayare meraa ka.nganaa
+ra: are samajho to samajho yU.N samajho, ye ham ko kare.n ishaare
+     teraa ka.nganaa haae, haayare teraa ka.nganaa
+
+aa: ka.nganaa thaamU.n, paayal bole, aa.NU kaun bahaane se
+     aa.NU kaun bahaane se, ey
+ra: jin ko milanaa hai yaaro.n se Darate nahii.n zamaane se
+     Darate nahii.n zamaane se
+     roke to duniyaa kyaa roke
+     o roke to duniyaa kyaa roke, jab ham hai pyaar ke maare
+     teraa ka.nganaa haay, haayare teraa ka.nganaa
+aa: khanake to khanake \threedots
+
+tiDir taaDilaa liDilar liDilar tiDir taDilaa hoi hoi
+
+ra: aaye javaanii jab mastaanii, roke laaj ke pahare naa
+     roke laaj ke pahare naa, hoi
+aa: ghU.nghaT ke paT khul khul jaaye sar pe aa.nchal Thahare naa
+     sar pe aa.nchal Thahare naa
+     soche to soche kyaa soche,
+     are soche to soche kyaa soche, jab nain mile matavaare
+     meraa ka.nganaa haae, haayare meraa ka.nganaa
+ra: are samajho to samajho  \threedots
+
+aa a aa a aa, o o o o o
+
+aa: pyaar hai dhokhaa jaane duniyaa, phir dil dhokhaa khaae kyo.n
+     phir dil dhokhaa khaae kyo.n, o o
+ra: tU hii bataa de dekh ke ham ko nazar terii sharamaae kyo.n
+     nazar terii sharamaae kyo.n
+     sarake to sarake kyo.n sarake
+     are sarake to sarake kyo.n sarake, aa.nchal tere sar se pyaare
+     teraa ka.nganaa haae, haayare teraa ka.nganaa
+aa:   khanake to khanake \threedots
+
+tiDir taaDilaa liDilar liDilar tiDir taDilaa hoi hoi (4)
+%
+#endindian
+\endsong
+%

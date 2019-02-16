@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{kyaa muhabbat kaa yahii anjaam hai}%
+\film{Najma}%
+\year{1943}%
+\starring{Ashok Kumar, Veena, Sitara, Kumar, Yaqub}%
+\singer{Ashok Kumar}%
+\music{Rafiq Ghaznavi}%
+\lyrics{Anjum Pilibhiti}%
+%
+% Contributor: BOL ANAMOL #12117 [V S Rawat]
+%
+\printtitle
+#indian
+%
+kyaa muhabbat kaa yahii anjaam hai
+kyaa muhabbat
+kyaa muhabbat kaa yahii anjaam hai
+saika.Do.n Gam
+saika.Do.n Gam ek dil\-e\-naakaam hai \-2
+
+kis qadar taariiq hai duniyaa merii \-2
+subah bhii merii nazar me.n shaam hai
+subah bhii me
+subah bhii merii nazar me.n shaam hai
+
+dha.Dakno.n se dil kii ye samajhaa huu.N mai.n \-2
+zindagii bechainiyo.n kaa naam hai
+zindagii be
+zindagii bechainiyo.n kaa naam hai
+
+dil kii barabaadii pe Kush huu.N isaliye \-2
+aaj phir teraa zabaa.N par naam hai
+aaj phir te
+aaj phir teraa zabaa.N par naam hai
+
+kyaa muhabbat kaa yahii anjaam hai
+%
+#endindian
+\endsong
+

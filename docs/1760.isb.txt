@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tum hii hamaarii, ho ma.nzil, maa_i lav}%
+\film{Yaara Dildaara}%
+\year{1989}%
+\starring{}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Jatin-Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Swaraj Horree (Acadia U, Nova scotia, Canada) 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum hI hamArI, ho ma.nzil, maa_i lav \- 2
+ye AvAz detA hai, dil maa_i lav 
+tum hI hamArI, ho ma.nzil, maa_i lav 
+
+aisA nA jaano, hamako achaanak tum pe ye pyaar aa gayaa 
+ho, bItI ruto.n to kA ye ra.ng hai jo, banake bahaar chhA gayaa 
+ho, tumako dekhA pyaar, aa gayaa 
+tum hI hamArI, ho ma.nzil, maa_i lav \threedots
+
+chAhA to chAhA, hamako merI jaa.n, vaare.nge tumape jiyA 
+ho, aage hame.n kyA, kAhe ko soche.n 
+koI bhI ho tum piyA, tum sa.ng jInA, o sAthiyA 
+tum hI hamArI, ho ma.nzil, maa_i lav \threedots
+
+dekho hamArI rAho.n me.n jAnA, kyA kyA diye jal gaye 
+dil se nazar tak andhere saaye jo the Tal gaye 
+ho, rAste ra.ngo.n me.n Dhal gaye 
+tum hI hamArI, ho ma.nzil, maa_i lav \- 2
+ye AvAz detA hai, dil maa_i lav 
+tum hI hamArI, ho ma.nzil, maa_i lav 
+%
+#endindian
+\endsong
+%
+% Send corrections to Anurag Shankar (anurag@chandra.astro.indiana.edu)

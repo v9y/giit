@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{lagii aaj saavan kii phir vo jha.Dii hai}%
+\film{Chaandani}%
+\year{1989}%
+\starring{Rishi Kapoor, Sridevi, Vinod Khanna, Waheeda Rahman, Juhi Chawla}%
+\singer{Suresh Wadekar, Anupama Deshpande}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lagii aaj saavan kii phir vo jha.Dii hai \-2
+phir vo jha.Dii hai
+vahii aag phir siine me.n jal pa.Dii hai
+lagii aaj saavan kii \threedots
+
+kuchh aise hii din the vo jab ham mile the
+chaman me.n nahii.n phuul dil me.n khile the
+vahii to hai mausam magar rut nahii.n vo
+mere saath barasaat bhii ro pa.Dii hai
+lagii aaj saavan kii \threedots
+
+ko_ii kaash dil pe bas haath rakh de
+mere dil ke Tuka.Do.n ko ek saath rakh de
+magar yah hai.n khvaabo.n khyaalo.n kii baate.n
+kabhii TuuT kar chiiz ko_ii ju.Dii hai
+lagii aaj saavan kii \threedots
+%
+#endindian
+\endsong
+

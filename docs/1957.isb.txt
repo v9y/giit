@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye zamii.n gaa rahii hai, aasamaa.N gaa rahaa hai}%
+\film{Teri Kasam}%
+\year{}%
+\starring{Kumar Gaurav, Poonam Dhillon}%
+\singer{Amit Kumar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Arati Deo (arati@soma.rice.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye zamii.n gaa rahii hai, aasamaa.N gaa rahaa hai
+saath mere ye saaraa jahaa.N gaa rahaa hai
+
+shokh kaliyo.n ke ghuu.NghaT sarakane lage hai.n
+mast phuulo.n ke dil bhii dha.Dakane lage hai.n
+ye bahaaro.n kaa dilakash samaa gaa rahaa hai
+saath mere ye saaraa jahaa.N gaa rahaa hai
+
+jhuumakar parbato.n pe ghaTaa chhaa rahii hai
+pyaar kii umr shaayad kariib aa rahii hai
+meraa dil pyaar kii ye daastaa.N gaa rahaa hai
+saath mere ye saaraa jahaa.N gaa rahaa hai
+
+bhuul kar raah koii hasii.n aa na jaae
+is jagah koii paradaa\-nashii.n aa na jaae
+is jagah aaj ek naujavaa.N gaa rahaa hai
+saath mere ye saaraa jahaa.N gaa rahaa hai
+
+ye zamii.n gaa rahii hai\threedots
+%
+#endindian
+\endsong
+%

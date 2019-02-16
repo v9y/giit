@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{tumhaarii zulf ke saaye me.n shaam kar luu.ngaa}%
+\film{Naunihaal}%
+\year{1967}%
+\starring{Balraj Sahni, Indrani Mukherjee, Sanjeev Kumar}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tumhaarii zulf ke saaye me.n shaam kar luu.ngaa
+safar ik umr kaa pal me.n tamaam kar luu.ngaa
+
+nazar milaaii to puuchhuu.Ngaa ishq kaa a.njaam
+nazar jhukaaii to khaalii salaam kar luu.ngaa
+
+jahaa.N\-e\-dil pe huquumat tumhe.n mubaarak ho
+rahii shikast to mai.n apane naam kar luu.ngaa
+
+%
+#endindian
+\endsong
+%

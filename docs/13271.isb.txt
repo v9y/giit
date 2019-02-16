@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{jaane mujhe tuune yah kyaa chiiz pilaa dii}%
+\film{Nainaa}%
+\year{1973}%
+\starring{Shashi Kapoor, Rajshree, Maushmi Chatterjee}%
+\singer{Kishor, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11231 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+shaa \:	jaane mujhe tuune yah kyaa chiiz pilaa dii
+	pyaas to bujhaa_ii nahii.n aag lagaa dii
+ki \:	are aaj to logo.n ne qayaamat hii uThaa dii
+	dekhi_e sharaab ko sharaab pilaa dii
+shaa \:	jaane mujhe tuune \threedots
+
+	so_ii tamannaa_o.n me.n halachal sii machaa dii
+	kaun sii duniyaa yah mujhe aaj dikhaa dii
+ki \:	Garm hu_ii saa.Ns haraarat hii ba.Dhaa dii
+	dekhi_e sharaab ko \threedots
+shaa \:	jaane mujhe tuune \threedots
+
+ki \:	##romeo hi Lolita##
+shaa \:	hosh u.D chuke hai.n qadam de chuke hai.n javaab
+	leke kahaa.N aa_e aap hai.n ba.De Karaab
+ki \:	husn kii maasuum kalii shoK banaa dii 
+	dekhi_e sharaab ko \threedots
+shaa \:	jaane mujhe tuune \threedots
+
+	jii chaahataa hai tumase pyaar karuu.N
+ki \:	pyaar ke baad aahaa
+shaa \:	jaane mujhe tuune \threedots
+
+	ham jo gir ga_e to le.nge naam tumhaaraa
+	thaam lo baa.Nho.n me.n zaraa de do sahaaraa
+ki \:	gir ke sa.mbhalane kii adaa tumako sikhaa dii
+	dekhi_e sharaab ko \threedots
+shaa \:	jaane mujhe tuune \threedots
+%
+#endindian
+\endsong
+

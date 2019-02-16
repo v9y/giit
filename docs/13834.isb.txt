@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{rahane do gile shikave ... kahane do}%
+\film{Rakhwaalaa}%
+\year{1971}%
+\starring{Dharmendra, Lina Chandrawarkar, Vinod Khanna}%
+\singer{Rafi, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11160 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	( rahane do ) \-3 gile shikave chho.Do bhii takaraar kii baate.n \-2
+	jab tak furasat de ye zamaanaa kyo.n naa kare.n ham pyaar kii baate.n
+
+aa \:	( kahane do ) \-3 mujhe kahane do
+	ek to der se ghar ko aanaa us par jhuuThaa pyaar jataanaa
+	dekho ab naa chalegaa \-2
+
+ra \:	ek to ham kuchh der se aa_e.N us par bhii aaraam naa paa_e.N
+	dil naa jalegaa bolo dil naa jalegaa
+aa \:	jaa_o\-jaa_o bahalaate ho kyo.n hame.n baato.n se
+	kahane do \threedots
+ra \:	rahane do \threedots
+
+aa \:	chorii aanaa chorii jaanaa apano.n se hii raaz chhupaanaa
+	bolo dil naa jalegaa bolo
+ra \:	maanaa ki matavaalaa huu.N mai.n
+	phir bhii teraa rakhavaalaa huu.N mai.n
+	ye to chalegaa bolo ye to chalegaa
+aa \:	taubaa\-taubaa chhaa jaate ho aisii\-vaisii baato.n se
+	kahane do \threedots
+ra \:	rahane do \threedots
+%
+#endindian
+\endsong
+

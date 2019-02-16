@@ -1,0 +1,58 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mushkil hai pyaar chhupaanaa tandaanaa}%
+\film{Mayur Pankh}%
+\year{1953}%
+\starring{Kishor Sahu, Sumitra Devi}%
+\singer{Lata, Chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	tandaanaa tandaanaa tandaanaa, tandaanaa
+	mushkil hai pyaar chhupaanaa, tandaanaa
+ko \:	mushkil hai pyaar chhupaanaa, tandaanaa
+	tandaanaa tandaanaa tandaanaa, tandaanaa
+la \:	priit na_ii dard puraanaa, tandaanaa
+ko \:	priit na_ii dard puraanaa, tandaanaa
+
+la \:	tuu kahii.n aur thaa mai.n kahii.n aur thii
+	bhau.nraa kahii.n aur thaa kalii kahii.n aur thii
+	phir bhii hai.n milane ke laakh bahaane
+	phir bhii hai.n milane ke
+ko \:	laakh bahaane
+	tandaanaa tandaanaa tandaanaa, tandaanaa
+la \:	nainaa churaa ke na jaanaa, tandaanaa
+ko \:	nainaa churaa ke na jaanaa, tandaanaa
+
+la \:	mausam bahaar kaa ek baar aaye re
+ko \:	ek baar aaye re
+la \:	chaa.Nd kahe chaa.Ndanii se raat Dhalii jaay re
+ko \:	raat Dhalii jaay re
+la \:	ho
+	mushkil se milate hai.n Gam ye suhaane
+	mushkil se milate hai.n
+ko \:	Gam suhaane
+	tandaanaa tandaanaa tandaanaa, tandaanaa
+la \:	ban kisii nazar kaa nishaanaa, tandaanaa
+ko \:	ban kisii nazar kaa nishaanaa, tandaanaa
+
+la \:	dil ko apane haar ke jiit le jahaan ko
+	rah kisii kii aa.Nkh me.n chhuu le aasamaan ko
+	bulabul ne chhe.De hai.n pyaar ke taraane
+	bulabul ne chhe.De hai.n
+ko \:	ye taraane
+	tandaanaa tandaanaa tandaanaa, tandaanaa
+la \:	tuu badal to badale zamaanaa, tandaanaa
+ko \:	tuu badal to badale zamaanaa, tandaanaa
+	tandaanaa tandaanaa tandaanaa, tandaanaa
+la \:	mushkil hai pyaar chhupaanaa, tandaanaa
+ko \:	mushkil hai pyaar chhupaanaa, tandaanaa
+
+#endindian
+\endsong

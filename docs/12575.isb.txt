@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ko_ii pyaar kii dekhe jaaduugarii}%
+\film{Kohinoor}%
+\year{1960}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10634 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ko_ii pyaar kii dekhe jaaduugarii
+	gulafaam ko mil ga_ii sabzaparii
+	ko_ii pyaar kii dekhe \threedots
+
+la \:	Dar aaj nahii.n hai qaatil kaa
+	aasaan hai rastaa ma.nzil kaa
+ra \:	nayano.n me.n nayaa ik sapanaa hai
+	ab saaraa zamaanaa apanaa hai \-2 aa
+do \:	duniyaa hai hamaarii pyaar bharii \-2
+	ko_ii pyaar kii dekhe \threedots
+
+la \:	ham pyaar ke pa.nchhii mastaane
+	ko_ii ra.ng hamaare kyaa jaane
+ra \:	nahii.n ek Thikaanaa jiivan me.n
+	kal qaid me.n the ab gulashan me.n \-2 aa
+do \:	taqadiir kii hai sab kaariigarii \-2
+	ko_ii pyaar kii dekhe \threedots
+%
+#endindian
+\endsong
+

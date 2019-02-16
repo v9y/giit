@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{hame.n tum se pyaar kitanaa, ye ham nahii.n jaanate}%
+\film{Kudrat}%
+\year{1980}%
+\starring{Rajesh Khanna, Hema Malini, Raaj Kumar, Aruna Irani}%
+\singer{Kishore / Parveen Sultana}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi ?}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+hame.n tum se pyaar kitanaa, ye ham nahii.n jaanate
+magar jii nahii.n sakate tumhaare binaa
+hame.n tum se pyaar \threedots
+
+sunaa gam judaaI kaa, uThaate hai.n log
+jaane zi.ndagii kaise, bitaate hai.n log
+din bhii yahaa.N to lage, baras ke samaan
+hame.n i.ntazaar kitanaa, ye ham nahii.n jaanate 
+magar jii nahii.n sakate tumhaare binaa
+hame.n tum se pyaar \threedots
+
+tumhe.n koI aur dekhe, to jalataa hai dil
+ba.Dii mushkilo.n se phir, sambhalataa hai dil
+kyaa kyaa jatan karate.n hai.n, tumhe.n kyaa pataa
+ye dil beqaraar kitanaa, ye ham nahii.n jaanate
+magar jii nahii.n sakate tumhaare binaa
+hame.n tum se pyaar \threedots
+
+#Parveen Sultana version, courtesy FITB#
+hame.n tum se pyaar kitanaa, yah ham nahii.n jaanate
+magar jii nahii.n sakate tumhaare binaa
+hame.n tum se pyaar kitanaa ... 
+
+mai.n to sadaa kii tumharii diivaanii
+bhuul gaye sai.nyaa.N priit puraanii
+kadar naa jaanii, kadar na jaanii
+hame.n tum se pyaar kitanaa ... 
+
+koii jo Daare tumape nayanavaa
+dekhaa naa jaaye mose sajanavaa
+jale moraa manavaa, jale moraa manavaa
+hame.n tum se pyaar kitanaa ... 
+%
+#endindian
+\endsong
+%

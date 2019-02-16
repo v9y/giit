@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{meraa dil jo meraa hotaa}%
+\film{Anubhav}%
+\year{}%
+\starring{}%
+\singer{Geeta}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+meraa dil jo meraa hotaa
+palako.n pe paka.D letii
+ho.nTho.n pe uThaa letii
+haatho.n me. khudaa hotaa
+meraa dil   \threedots
+
+suuraj ko masal ke mai.n
+chandan ke tarah malatii
+sone kaa badan le kar
+kundan kii tarah jalatii
+is gore se chehare par
+aa_inaa fidaa hotaa
+meraa dil   \threedots
+
+barasaa hai kahii.n par to
+aakaash samundar me.n
+ik buu.Nd hai chandaa kii
+utare na samundar me.n
+do haatho.n ke okh me.n ye
+gir pa.Dataa to kyaa hotaa
+haatho.n me.n khudaa hotaa
+meraa dil   \threedots
+
+%
+#endindian
+\endsong
+%

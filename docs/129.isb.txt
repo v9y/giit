@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aaye hai.n duur se, milane hazuur se}%
+\film{Tumsa Nahin Dekha}%
+\year{1957}%
+\starring{Shammi Kapoor, Ameeta}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aashaa:	aae hai.n duur se,  milane hazuur se
+aise bhii chup na rahiye,  kahiye jii kuchh to kahiye
+din hai ke raat hai
+rafii:	haay \threedots
+tumase mehamaan kyaa,  mujhape ahasaan kyaa
+laakho.n hii zulfo.n vaale,  aatii hai.n gheraa Daale
+merii kyaa baat hai
+aashaa:	aaye hai.n duur se \threedots
+
+uTh ke to dekhiye,  kaisii fizaa hai
+sharamaanaa chho.Diye,  ye kyaa adaa hai
+rafii:	taubaa ye kyaa faramaayaa
+mai.n to yuu.N hii sharamaayaa
+merii kyaa baat hai
+aashaa:	aaye hai.n duur se \threedots
+rafii:	o o o \threedots
+tumase mehamaan kaa \threedots
+
+dikhatii hai roz hii, aisii fizaae.n
+mukha.De ke saamane, kaalii ghaTaae.n
+aashaa:	koI chal jaae jaaduu,  phir ham puuchhe.nge baabuu
+din hai ke raat hai \threedots
+rafii:	o o o \threedots
+tumase mehamaan kaa \threedots
+aashaa:	aa aa aa \threedots
+aaye hai.n duur se \threedots
+%
+#endindian
+\endsong
+%

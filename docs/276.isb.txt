@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{barakhaa raanii, zaraa jam ke baraso, meraa dilabar jaa naa pae}%
+\film{Sabak}%
+\year{1973}%
+\starring{Shatrughan Sinha, Poonam}%
+\singer{Mukesh}%
+\music{Usha Khanna}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: SAMIUDDIN MOHAMMED (sm0e@Lehigh.EDU)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+barakhaa raanii, zaraa jam ke baraso
+meraa dilabar jaa naa pAe, jhUmakar baraso
+barakhaa raanii \threedots
+
+vo abhii to aae hai.n
+kahate hai.n ham jaae.n hai.n  
+yU.N baras baraso.n baras
+vo umr bhar naa jaae re
+barakhaa raanii \threedots
+
+mast saavan kii ghaTaa
+bijuriyaa chamakaa zaraa
+yaar meraa Dar ke mere
+siine se laga jaae re
+barakhaa raanii \threedots
+%
+#endindian
+\endsong
+%

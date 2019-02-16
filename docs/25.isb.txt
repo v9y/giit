@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{aa.Nkho.n hii aa.Nkho.n me.n ishaaraa ho gayaa}%
+\film{CID}%
+\year{1956}%
+\starring{Dev Anand, Shakeela, Waheeda Rahman}%
+\singer{Rafi, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ra: (A.Nkho.n hI A.Nkho.n me.n ishArA ho gayA
+baiThe baiThe jIne kA sahArA ho gayA ) \- 2
+A.Nkho.n hI A.Nkho.n me.n \threedots
+
+gI: gAte ho gIt kyU.N, dil pe kyU.N hAth hai
+khoe ho kis liye, aisI kyA bAt hai
+ye hAl kab se tumhArA ho gayA
+
+ra: A.Nkho.n hI \threedots \- 2
+
+gI: chalate ho jhUm ke, badalI hai chAl bhI
+nai.nno.n me.n ra.ng hai, bikhare hai.n bAl bhI
+kis dilarubA kA nazArA ho gayA
+
+ra: A.Nkho.n hI \threedots \- 2
+
+gI: ab nA vo zor hai, ab nA vo shor hai
+hamako hai sab patA, dil me.n kyA chor hai
+ye chor kab se gavArA ho gayA
+
+ra: A.Nkho.n hI \threedots \- 2
+
+gI: kaisA ye pyAr hai, kaisA ye nAz hai
+ham bhI to kuchh sune.n, hamase kyA rAz hai
+achchhA to ye dil hamArA ho gayA
+
+ra: A.Nkho.n hI \threedots \- 2
+%
+#endindian
+\endsong
+%

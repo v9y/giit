@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{phir vahii raat hai}%
+\film{Ghar}%
+\year{1978}%
+\starring{Rekha, Vinod Mehra ?}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Ashish Bokil (abokil@hubcap.clemson.edu)
+% Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: Mukesh Shah
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+phir vahI raat hai \threedots 
+##hmmmm hmm hmmm ##
+
+phir vahI raat hai, phir vahI raat hai khvAb kI 
+ho \threedots raat bhar khvAb mai.n 
+dekhaa kare.nge tumhe 
+phir vahI raat hai \threedots 
+
+mAsUm sI nI.nd mai.n, jab koI sapanA chale 
+ho \threedots ham ko bulaa lenaa tum, palako.n ke parde tale 
+ho ye raat hai khvAb kI, khvAb kI raat hai 
+phir vahI raat hai\threedots 
+phir vahI raat hai 
+phir vahI raat hai khvAb kI 
+
+kA.Nch ke khvAb hai.n, A.Nkho.n me.n chubh jAye.nge 
+ho \threedots palako.n pe lenaa inhe.n, A.Nkho.n me.n ruk jAye.nge 
+ho \threedots ye raat hai khvAb kI, khvAb kI raat hai 
+phir vahI raat hai\threedots, phir vahI raat hai 
+phir vahI raat hai khvAb kI 
+
+phir vahI raat hai \threedots 
+##hmmmm hmmmmm hmmmmm ##\threedots
+raat hai \threedots ##hmmmm hmmm hmmmm ##\threedots
+raat hai\threedots 
+%
+#endindian
+\endsong
+%

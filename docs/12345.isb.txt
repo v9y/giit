@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aasamaa.n se chaa.Nd laa_uu.N ... jo mere sapane hai.n}%
+\film{Kehtaa Hai Dil Baar Baar}%
+\year{2002}%
+\starring{Jimmy Shergil, Kim Sharma, Paresh Rawal}%
+\singer{Shaan}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.ndanii se ghar sajaa_uu.N mai.n
+aasamaa.n se chaa.Nd laa_uu.N
+chaa.ndanii se ghar sajaa_uu.N mai.n
+jo mere sapane hai.n bas vahii apane hai.n
+is jahaa.N se kyaa mujhe lenaa
+
+dil chaahataa hai banaa_uu.N kahii.n
+mai.n ek chhoTaa saa ghar
+ha.Nsataa rahuu.N usame.n gaataa rahuu.N
+har Gam se mai.n bekhabar
+pyaar kii bastii me.n din kaTe mastii me.n
+is jahaa.N se kyaa mujhe lenaa kyaa denaa
+aasamaa.n se \threedots
+
+mere khyaalo.n me.n aane lagii
+phuulo.n sii naazuk parii
+ho bechainiyo.n ko ba.Dhaane lagii
+la.Dakii vo jaaduu bharii
+usakaa afasaanaa huu.N mai.n to diivaanaa huu.N
+is jahaa.N se kyaa mujhe lenaa kyaa denaa
+aasamaa.n se \threedots
+%
+#endindian
+\endsong
+

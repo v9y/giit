@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{dilabar dil se pyaare dilabar, dil kii sunataa jaa re}%
+\film{Caravan}%
+\year{}%
+\starring{Jeetendra, Asha Parekh}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Himanshu Gupta <hgupta@DB.Stanford.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 07/11/1996
+% Comments:  Another great, not so popular lata solo.
+%            From Lata GC-II (CD - Golden Collection Series)
+%
+\printtitle
+#indian
+%
+(dilbar, haa.N dilbar)	\-3
+
+dilbar, dil se pyaare, dilbar
+dil kii sunataa jaa re
+saarii duniyaa haarii hamase, ham tujhape dil haare
+dilbar dil se pyaare \threedots
+
+gaharii nahi.n vaale, laharii\-laharii naino.n vaale
+(gaharii nahi.n vaale, naino.n vaale
+ laharii\-laharii naino.n vaale, naino.n vaale)	\-2
+dilabar dil se pyaare \threedots
+
+are, haa.N haa.N, yak yak din ginatii rahuu.N sadaa
+jabase mai.n tujhape tujhape fidaa
+o sunataa hai re babuaa tuu hii meraa na huaa
+nahii.n jag me.n kyaa nahii.n hotaa ye, he
+dilabar dil se pyaare \threedots
+
+o tak\-tak rahuu.N chunarii bharii\-bharii
+o dikhalaauu.N bai.nyaa.N bharii\-bharii
+o mohe chhuu le sajanaa, sajanaa, gussaa hai kyo.n itanaa
+jo mar rahii usako kyo.n maare
+dilabar dil se pyaare \threedots
+
+o nas\-nas merii sulage aise piiyaa, sadaa\-sadaa
+o jalii banake laka.Dii jaise piiyaa
+o kyo.n sulagaae mujhako, mujhako, merii lag jaae tujhako, tujhako
+rahe tuu bhii jalataa bujhataa re
+dilabar dil se pyaare \threedots
+%
+#endindian
+\endsong
+%
+

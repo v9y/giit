@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chup hai.n diiwaar kii tarah saaye}%
+\film{Lamha Lamha (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain/ Ghulam Ali}%
+\lyrics{Yusuf Zafar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+chup hai.n diiwaar kii tarah saaye
+ye mere raaste me.n kyuu.N aaye
+
+mu.Nh se nikale to jaa.N pe ban jaaye
+dil kii dil hii me.n rah ga_ii haay
+
+phir use dekhane kii hasarat hai
+dekh kar jisako hosh u.D jaaye
+
+raat aa_ii hai yaad\-e\-dost liye
+dekhiye yaad\-e\-dost kyaa laaye
+
+#endindian
+\endsong

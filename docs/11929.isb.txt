@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{yaar maine ik sapanaa dekhaa ... sapane me.n tujhe apanaa dekhaa}%
+\film{International Khilaadi}%
+\year{1999}%
+\starring{Akshay Kumar, Twinkle Khanna}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n huu.n yaar maine ik sapanaa dekhaa
+sapane me.n tujhe apanaa dekhaa
+ho yaar maine ik \threedots
+
+pyaar kaa jaaduu dil pe chalate dekhaa
+khud se baate.n khud ko maine karate dekhaa
+are pyaar kii ujalii ujalii ye raahe.n dekhii.n
+duur duur tak phailii terii baahe.n dekhii.n
+mat puuchho maine tujhako kitanaa dekhaa
+haa.N sapane me.n tujhe \threedots
+
+aa.Nkho.n ko aa.Nkho.n se maine la.Date dekhaa
+nazaro.n kii titalii ko maine u.Date dekhaa
+o dil ko dil se maine Takaraate dekha
+in baaho.n me.n tujhako maine aate dekhaa
+pahale pyaar kaa pahalaa pahalaa sapanaa dekhaa
+sapane me.n tujhe \threedots
+
+mere sapano.n me.n aa ke mujhe tarasaa_egii tuu
+merii nii.nde.n u.Daa ke mujhe ta.Dapaa_egii tuu
+magar dil meraa kahataa hai kabhii to aa_egii tuu
+merii ho jaa_egii tuu
+haa.N yaar maine ik \threedots
+%
+#endindian
+\endsong
+

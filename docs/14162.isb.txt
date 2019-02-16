@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{cha.nchal shiital nirmal komal sa.ngiit kii devii}%
+\film{Satyam Shivam Sundaram}%
+\year{1978}%
+\starring{Shashi Kapoor, Zeenat Aman}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11281 [V S Rawat]
+% Transliterator: 
+% Comments: Last song of Mukesh
+% Credits: 
+% 
+\printtitle
+#indian
+%
+% in the mukha.Daa, a female voice (Zeenat?) speaks all the words one by one,
+% then mukesh echoes them. Then mukesh starts the song.
+%
+cha.nchal shiital nirmal komal sa.ngiit kii devii svar sajanii \-2
+sundarataa kii har pratimaa se ba.Dhakar hai tuu sundar sajanii
+cha.nchal shiital \threedots
+
+kahate hai.n jahaa.N naa ravi pahu.Nche kahate hai.n vahaa.N par kavi pahu.Nche
+tere ra.ng\-ruup kii chhaayaa tak naa ravi pahu.Nche naa kavi pahu.Nche
+mai.n chhuune laguu.N tuu u.D jaa_e pariyo.n se tere par sajanii
+cha.nchal shiital \threedots
+
+ko \:	aa a aa aa aa h.n
+tere rasava.ntii ho.nTho.n kaa mai.n giit ko_ii ban jaa_uu.Ngaa
+saragam ke phuulo.n se tere sapano.n kii sej sajaa_uu.Ngaa
+Dolii me.n baiTh ke aa_egii jab tuu saajan ke ghar sajanii
+cha.nchal shiital \threedots
+
+aisaa lagataa hai TuuT ga_e sab taare
+gore\-gore ik chandaa se ra.ngii.n badan se lipaT ga_e
+ko \:	o
+
+mu \:	banakar nath ka.ngan karadhaniyaa ghu.Ngharuu jhumake jhuumar sajanii
+mu,, ko \:	cha.nchal shiital \threedots
+ko \:	cha.nchal shiital nirmal komal
+mu \:	sa.ngiit kii devii svar sajanii \-2
+%
+#endindian
+\endsong
+

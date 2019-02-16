@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{ye kyaa zi.ndagii hai, ye kaisaa jahaa.N hai}%
+\film{Kohinoor}%
+\year{}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Sep 10 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+zaKamo.n se kalejaa chuur huaa
+had ho ga_ii Gam me.n naalo.n kii
+kyaa huu.Nhii tabaahii hotii hai
+duniyaa me.n mohabbat\-vaalo.n kii
+
+ye kyaa zi.ndagii hai, ye kaisaa jahaa.N hai \-2
+jidhar dekhiye zulm kii daastaa.n hai \-2
+
+kahii.n hai kafas me.n kisiikaa baseraa
+kahii.n hai nigaaho.n me.n Gam kaa a.ndheraa
+kahii.n dil kaa luTataa huaa kaaravaa.n hai
+jidhar dekhiye zulm kii daastaa.n hai \-2
+
+yahaa.N aadamii aadamii kaa hai dushman
+yahaa.N chaak inasaaniyat kaa hai daaman
+mohabbat kaa uja.Daa huaa aashiyaa.n hai
+jidhar dekhiye zulm kii daastaa.n hai \-2
+
+ye beraham duniyaa samajh me.n na aae
+yahaa.N kar rahe hai.n sitamaGar Kudaaii
+na jaane tuu ai duniyaavaale kahaa.N hai
+jidhar dekhiye zulm kii daastaa.n hai \-2
+
+ye kyaa zi.ndagii hai, ye kaisaa jahaa.N hai
+jidhar dekhiye zulm kii daastaa.n hai
+%
+#endindian
+\endsong
+%

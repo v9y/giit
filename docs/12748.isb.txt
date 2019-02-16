@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{sanam raah bhuule yahaa.N aate\-aate}%
+\film{Lutera}%
+\year{1965}%
+\starring{Prithviraj Kapoor, Dara Singh, Nishi}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10989 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+sanam raah bhuule yahaa.N aate\-aate \-2
+bhalaa rah ga_e vo kahaa.N aate\-aate
+sanam raah bhuule \threedots
+
+dil kii baate.n to chhupii sii rahatii hai.n \-2
+vo kyaa jaane jo nigaahe.n kahatii hai.n
+unhe.n aa_egii ye zubaa.N aate\-aate
+sanam raah bhuule \threedots
+
+rotii aa.Nkho.n ko ha.Nsaanaa mushkil hai \-2
+is bechainii ko chhupaanaa mushkil hai
+na le.n vo meraa imtihaa.N aate\-aate
+sanam raah bhuule \threedots
+
+mujhase jhuuThii vo qasam naa khaa_e.Nge \-2
+unakaa vaadaa hai yahaa.N vo aa_e.Nge
+magar jaa_egii merii jaa.N aate\-aate
+sanam raah bhuule \threedots
+%
+#endindian
+\endsong
+

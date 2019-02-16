@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{aaj na jaane paagal manavaa kaahe ko ghabaraa_e}%
+\film{Begunaah}%
+\year{1957}%
+\starring{Kishore, Shakeela}%
+\singer{Kishor}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10842 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aaj na jaane paagal manavaa kaahe ko ghabaraa_e
+hich\-hich hichakii aa_e re tabiyat bichakii\-bichakii jaa_e
+
+jab dekhuu.N alabelaa aa.Nchal dil par bijalii TuuTe
+ruup nashiilaa ek jhalak me.n dil kii duniyaa luuTe
+ko_ii sharaabii mad kaa pyaalaa jaise pii ke aa_e
+hich\-hich hichakii aa_e \threedots
+
+hosh hamaare bandii ban kar ho ga_e nau do gyaarah
+kis mushkil me.n jaan pha.Nsii hai apane baj ga_e baarah
+ruup kii garmii sholaa ban kar dil me.n aag lagaa_e
+hich\-hich hichakii aa_e \threedots
+%
+#endindian
+\endsong
+

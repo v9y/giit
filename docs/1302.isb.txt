@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{na tum hame.n jaano, na ham tumhe jaane.n}%
+\film{Baat Ek Raat Ki}%
+\year{1962}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Hemant, Suman Kalyanpur / Suman Kalyanpur}%
+\music{Hemant}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Bittu (gore@pepper.rutgers.edu)
+%          Jagan Gudur (gudur@eemips.tamu.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Rajan Parrikar (parrikar@mimicad.colorado.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: The Suman solo begins without the initial humming,
+%           opening with "na tum hame.n jaano," and it has nearly
+%           identical lyrics. Only the first half of the last line
+%           is different:
+%                     ke jaae.nge dono.n, jaane kahaa.N
+%
+\printtitle
+#indian
+%
+## hmmmmm ##  \threedots
+magar lagataa hai kuchh aisaa, meraa hamadam mil gayaa
+na tum hame.n jaano, na ham tumhe.n jaane.n
+magar lagataa hai kuchh aisaa, meraa hamadam mil gayaa
+na tum \threedots
+
+(ye mausam ye raat chup hai, ye ho.nTho.n kii baat chup hai 
+khaamoshii sunaane lagii, hai daastaa.n ) \- (2)
+nazar ban gaI hai, dil kii zubaa.n
+na tum \threedots
+
+(muhabbat ke mo.D pe ham, mile sabako chho.D ke ham 
+dha.Dakate dilo.n kaa leke, ye kaaravaa.n  ) \- (2)
+chale aaj dono, jaane kahaa.N
+na tum \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{dil luuTane vaale jaaduugar ab maine tujhe pahachaanaa hai}%
+\film{Madaari}%
+\year{1959}%
+\starring{Ranjan, Chitra, Manhar Desai}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: BOL ANAMOL #10859 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	dil luuTane vaale jaaduugar
+	ab maine tujhe pahachaanaa hai
+mu \:	nazare.n to uThaa ke dekh zaraa
+	tere saamane ye diivaanaa hai
+
+la \:	ye chaa.Nd\-sitaare dekh na le.n
+	mere pyaar ke naazuk ba.ndhan ko
+mu \:	aa.Nkho.n me.n chhupaakar rakh luu.Ngaa
+	is phuul se komal tan\-man ko
+la \:	( dhiire se ) \-2 kaho ye baat piyaa
+	jag apanaa nahii.n begaanaa hai
+mu \:	nazare.n to uThaa ke \threedots
+
+	aramaan thaa tujhako dekhuu.N mai.n
+	saavan kii nashiilii raato.n me.n
+la \:	kho jaa_e.N piyaa ham\-tum dono.n
+	in pyaar kii miiThii baato.n me.n
+mu \:	( tuu saamane ) \-2 hai to sab kuchh hai
+	varanaa ye chaman viiraanaa hai
+
+la \:	mai.n pyaar kii maalaa guuthuu.ngii
+	aa.Nsu_o.n kii kaliyaa.N chun\-chun ke
+mu \:	ruuThe na kahii.n mujhase duniyaa
+	yah baat tumhaarii sun\-sun ke
+do \:	aramaan bhare dilavaalo.n kaa
+	duniyaa ne kahaa kab maanaa hai
+la \:	dil luuTane vaale \threedots
+mu \:	nazare.n to uThaa ke \threedots
+%
+#endindian
+\endsong
+

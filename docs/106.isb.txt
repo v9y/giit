@@ -1,0 +1,51 @@
+% 
+\startsong
+\stitle{aap ke paas jo aaegaa, pighal jaaegaa}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Meena Kumari, Dharmendra}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date:  Sun Jul  9 1995
+% Credits:  
+% Editor:  
+% Comments: Pankha Road se Pintu Diwana [38]
+%           (RJGK 22)
+%           A slow, very intoxicating song. MK has done more than justice
+%           to this. His whispering voice is too much. You can literally
+%           feel the heat melting the candle.
+%           [Note: some words are spoken differently in the song than in
+%           prose, e.g. "jisam", "hoNT", which is prose they are "jism",
+%           "hoTh"] 
+%
+\printtitle
+#indian
+%
+aap ke bhiige hue jisam se aa.Nch aatii hai
+dil ko garmaatii hai, jazbaat ko bha.Dakaatii hai
+
+aap ke paas jo aaegaa, pighal jaaegaa
+is haraarat se jo ulajhegaa, vo jal jaaegaa
+
+aap kaa husn vo shabanam hai jo sholo.n me.n pale
+garm khushbuo.n me.n tapate hue ra.Ngo.n me.n Dhale
+kisakaa dil hai jo sambhaale se sambhal jaaegaa
+
+ho.nTh hai.n yaa kisii shaayar kii du_aao.n kaa javaab
+zulf hai.n yaa kisii saavan ke talabagaar kaa Kvaab
+aise jalavo.n ko jo dekhegaa machal jaaegaa
+
+is kadar husn zamaane me.n na dekhaa na sunaa
+usakaa kyaa kahanaa jise aapane hamaraaz chunaa
+usakii taqadiir kaa iinaam badal jaaegaa
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%
+

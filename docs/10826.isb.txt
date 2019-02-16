@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{are o shaharii baabuu ... tuu nikalaa chhupaa rustam }%
+\film{Chhupa Rustam}%
+\year{1999?}%
+\starring{Sanjay Kapoor, Manisha Koirala}%
+\singer{Alka Yagnik, Chorus}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are o shaharii baabuu hame.n maafii de de tuu
+hamane na tujhe pahachaanaa
+baabaa re baabaa dhokhaa khaa ga_e ham
+tuu nikalaa chhupaa rustam 
+are o shaharii baabuu \threedots
+
+jo chaahe khidamat le le jo chaahe rishvat le le
+jo chaahe kiimat le le
+kar de hamako jurmaanaa
+baabaa re baabaa dhokhaa khaa ga_e ham
+tuu nikalaa chhupaa rustam \threedots
+
+kar gussaa yaar zaraa saa gusse me.n pyaar zaraa saa
+ha.Ns de ik baar zaraa saa
+tuu hamase ruuTh na jaanaa
+baabaa re baabaa dhokhaa khaa ga_e ham
+tuu nikalaa chhupaa rustam \threedots
+%
+#endindian
+\endsong
+

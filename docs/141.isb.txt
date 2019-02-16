@@ -1,0 +1,66 @@
+% 
+\startsong
+\stitle{ab vo raate.n kahaa.N, ab vo baate.n kahaa.N}%
+\film{Yasmin}%
+\year{1955}%
+\starring{Suresh, Vyjayanthimala, Jayant}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Jaan Nisar Akhtar}%
+% 
+% Contributor: Neha Desai <umdesai@cc.UManitoba.CA>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>, K Vijay Kumar
+% Date: 10/29/1996
+% Comments: 
+%
+\printtitle
+#indian
+%
+ab vo raate.n kahaa.N, ab vo baate.n kahaa.N
+vo mere pyaar kii chaa.Ndanii luT ga_ii
+dil luTaa, dil ke ra.Ngiin armaan luTe
+merii duniyaa, merii zi.ndagii luT ga_ii
+mujhako apanii khabar thii na dil kii khabar
+kaisii madhosh thii merii shaam\-o\-sahar
+tere zaane pe thaa har gha.Dii meraa sar
+haay, kitanii hasii.n beKudii luT ga_ii
+
+ab vo raate.n kahaa.N, ab vo baate.n kahaa.N
+vo mere pyaar kii chaa.Ndanii luT ga_ii
+
+phuul murajhaa gae, chaa.Nd dahalaa gayaa
+ek a.ndheraa saa har chiiz par chhaa gayaa
+duur merii nigaaho.n se tuu kyaa gayaa
+merii aa.Nkho.n kii bhii roshanii luT ga_ii
+
+%
+% Two versions were present in ISB. There are enough differences
+% in the versions to lead one to believe there might be two songs
+% So, this consolidated version retains both texts as is
+%
+
+ab vo baate.n kahaa.N
+ab vo raate.n kahaa.N
+vo mere pyaar kii chaa.Ndanii miT gayii
+dil luTaa bin tere jin me.n aramaan the
+merii biinaa merii zi.ndagii luT gayii
+ab vo raate.n kahaa.N
+
+mujhako apanii khabar thii na dil kii khabar
+kaisii madahosh thii merii shaam\-o\-sahar
+tere zaane pe thaa har gha.Dii meraa sar
+haay kitanii hasii.n bekhudii luT gayii
+ab vo raate.n kahaa.N \threedots
+
+phuul murajhaa gaye chaa.Nd dahalaa gayaa
+ghupp a.ndheraa saa har chiiz par chha gayaa
+duur merii nigaaho.n se tuu kyaa gayaa
+merii aa.Nsuu kisii raat me.n miT gayii.N
+ab vo raate.n kahaa.N \threedots
+
+%
+#endindian
+\endsong
+%
+

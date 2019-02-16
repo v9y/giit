@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{mai.n nahii.n kahataa bujurgo.n ne kahaa hai}%
+\film{Sooryavanshi}%
+\year{1992}%
+\starring{Salman, Sheeba, Amrita, Saeed Jafrey, Sushma Seth, Puneet Issar}%
+\singer{Kumar Sanu, Asha}%
+\music{Anand Milind}%
+\lyrics{Kulwant Jani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	mai.n nahii.n kahataa bujurgo.n ne kahaa hai
+	jo kahaa hai vo bhii kitanaa sach kahaa hai
+	thak kar ruk jaanaa jinhe.n ma.nzuur nahii.n hai
+	unake li_e ko_ii bhii ma.nzil duur nahii.n hai
+	mai.n nahii.n kahataa \threedots
+
+	zi.ndagii dariyaa hai ek bahataa hu_aa
+	rokane se jo kabhii rukataa nahii.n hai \-2
+
+aa \:	aur himmat ho agar insaan me.n
+	mushqilo.n ke saamane jhukataa nahii.n
+	mai.n nahii.n kahatii \threedots
+ku  \:	jo kahaa hai vo \threedots
+aa  \:	jo kahaa hai vo \threedots
+
+ku  \:	maut kab aa_egii isakaa faisalaa
+	zindagii milane se pahale ho chukaa
+	phir ye kaisaa Dar dilo.n me.n maut kaa
+	kyo.n pareshaa.n ho rahe hai.n ham bhalaa
+	mai.n nahii.n kahatii \threedots
+aa  \:	jo kahaa hai vo \threedots
+
+	zindagii zindaadilii kaa naam hai
+	maut kaa charchaa bhalaa ham kyo.n kare.n \-2
+	aisii baate.n jin par hamaaraa bas nahii.n
+	kyo.n na ham unako Kudaa par chho.D de.n
+ku  \:	mai.n nahii.n kahataa \threedots
+aa  \:	jo kahaa hai vo \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{bechain rahatii hai.n aa.Nkhe.n na jaane kyuu.N}%
+\film{Pyaar Deewaanaa Hotaa Hai}%
+\year{1992}%
+\starring{Pankaj Berry, Saathi Ganguli, Beena, Sameer Khakhad, Zahir Rizvi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Babul Bose}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bechain rahatii hai.n aa.Nkhe.n na jaane kyuu.N dil bekaraar hai
+tum bin ik pal jii na sakuu.N mai.n kyaa yahii pyaar hai
+
+sitaare to pahale bhii the aasamaa.n par
+nahii.n thii magar roshanii uname.n dilabar
+tere saath ye chaa.Ndanii dilanashii.n hai
+har ek shai javaa.N hai har ek shai hasii.n hai
+mai.n to mai.n huu.N phir bhii mujh par teraa akhtiyaar hai 
+kyaa yahii pyaar hai \threedots
+
+mere hamasafar ho jahaa.N terii baahe.n
+vahii.n par ruke.n har tamannaa kii raahe.n
+jise maine Kvaabo.n me.n mahabuub maanaa
+vo tuu hai nahii.n aur ko_ii diivaanaa
+soch rahii huu.N tujh par itanaa kyo.n aitabaar hai
+kyaa yahii pyaar hai \threedots
+
+haa.N haa.N yahii pyaar hai \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ham tumase mile phir judaa ho ga_e}%
+\film{Rocky}%
+\year{1981}%
+\starring{Sunjay Dutt, Tina Munim}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11621 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	( ham tumase mile phir judaa ho ga_e
+ki \:	dekho phir mil ga_e
+la \:	ab ho ke judaa
+ki \:	phir mile.n na mile.n
+la \:	kyuu.N na aisaa kare.n
+do \:	mil jaa_e.N chalo ham sadaa ke li_e ) \-2
+
+ki \:	dil me.n hame.n tum basaa lo saare jahaa.N se chhupaa lo
+la \:	lo ham band karate hai.n aa.Nkhe.n lo hamako hamase churaa lo
+	ho Dhuu.NDhate sab rahe.n
+	ham tumase mile \threedots
+
+	chhoTii sii ye zindagaanii usase bhii chhoTii javaanii
+ki \:	ho na kabhii Katm lekin ye do dilo.n kii kahaanii
+	tum kaho ham sune.n tum suno ham kahe.n
+	ham tumase mile \threedots
+
+do \:	ham ek hai.n do nahii.n hai.n do naam hai.n kyuu.N hamaare
+	ham aur kuchh bhii nahii.n hai.n ham hai.n diivaane tumhaare
+	bas isii naam se sab pukaare.n hame.n
+	ham tumase mile \threedots
+%
+#endindian
+\endsong
+

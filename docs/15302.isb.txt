@@ -1,0 +1,38 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dekh to dil ke jaa.N se uThataa hai}%
+\film{The Finest Ghazals of Mehdi Hassan (Non-Film)}%
+\year{1985}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Mehdi Hasan}%
+\lyrics{Mir Taqi Mir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+dekh to dil ke jaa.N se uThataa hai
+ye dhuwaa.N saa kahaa.N se uThataa hai
+
+gor kis dilajale kii hai ye falaq
+sholaa ek subah yaa.N se uThataa hai
+
+baiThane kaun de hai phir usako
+jo tere aastaa.N se uThataa hai
+
+yuu.N uThe aah us galii se ham
+jaise ko_ii jahaa.N se uThataa hai
+
+% the following were not in the version I heard
+
+sudh le ghar kii bhii sholaa\-e\-aawaaz
+duud kuchh aashiyaa.N se uThataa hai
+
+ishq ek 'miir' bhaarii patthar hai
+kab ye tujh naatuwaa.N se uThataa hai
+
+#endindian
+\endsong

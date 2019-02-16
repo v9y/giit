@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{taaro.n kaa chamakataa gahanaa ho}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Udit Narayan, Bali Bramhabhat}%
+\music{Nikhil Vinay}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+he he aa o ho ho aa haa haa haa ho o
+taaro.n kaa chamakataa gahanaa ho
+phuulo.n kii mahakatii vaadii ho
+us ghar me.n khushahaalii aa_e
+jis ghar me.n tumhaarii shaadii ho
+
+ye phuul tumhaare jevar hai.n
+ye chaa.Nd tumhaaraa aa_iinaa
+tum jab aise sharmaatii ho
+duulhe kaa dha.Dakataa hai siinaa
+har aa_iinaa tum ko dekhe tum to aisii shahazaadii ho
+us ghar me.n khushahaalii \threedots
+
+merii bahanaa hai phuul bahaaro.n kaa
+merii bahanaa hai nuur nazaaro.n kaa
+merii bahanaa ke jaisii ko_ii bahanaa nahii.n
+binaa is ke kahii.n bhii mujhe rahanaa nahii.n
+jaise hai chaa.Nd sitaaro.n me.n
+merii bahanaa hai ek hazaaro.n me.n
+ham jaise bhole bhaalo.n kii
+ye duniyaa to hai dilavaalo.n kii
+taaro.n kaa chamakataa \threedots
+
+Kushiyo.n ke mahalo.n me.n baiTho
+ko_ii gam naa tumhaare paas aa_e
+naa umr kaa paharaa ho tum pe
+merii dil kii du_aa ye ra.ng laa_e
+rab ha.Nsataa hu_aa rakhe tum ko
+tum to ha.Nsane kii aadii ho
+us ghar me.n khushahaalii \threedots
+%
+#endindian
+\endsong
+

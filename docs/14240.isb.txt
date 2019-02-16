@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{dil do naino.n me.n ... buraa hu_aa yaa bhalaa hu_aa}%
+\film{Sunehre Din}%
+\year{1949}%
+\starring{Raj Kapoor, Rehana,  Nigar, Harun, Heera Sawant}%
+\singer{Mukesh, Surindar Kaur}%
+\music{Gyan Dutt}%
+\lyrics{Deena Nath Madhok}%
+%
+% Contributor: BOL ANAMOL #10204 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+su \:	dil do naino.n me.n kho gayaa buraa hu_aa yaa bhalaa hu_aa
+mu \:	jo honaa thaa so ho gayaa buraa hu_aa yaa bhalaa hu_aa
+
+su \:	maine dil se kahaa ye ulfat hai dushvaar hai.n ulfat kii raahe.n
+mu \:	maine dil se kahaa jhuuThaa jag hai jhuuThe jag kii jhuuThii chaahe.n
+do \:	dil phir bhii tumhaaraa ho gayaa buraa hu_aa yaa bhalaa hu_aa
+	dil do naino.n me.n \threedots
+
+su \:	jag banaa hai jab se tum hii kaho kisane dil dekar sukh paayaa
+mu \:	jag banaa hai jabase tum hii kaho is husn ne kise na Thukaraayaa
+do \:	dil phir bhii tumhaaraa ho gayaa buraa hu_aa yaa bhalaa hu_aa
+	dil do naino.n me.n \threedots
+%
+#endindian
+\endsong
+

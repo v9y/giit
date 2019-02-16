@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mujhe ikaraar karane de ... mujhako tuu pyaar karane de}%
+\film{Bhaai}%
+\year{1997}%
+\starring{Sunil Shetty, Sonali Bendre, Pooja Batra}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe ikaraar karane de zaraa izahaar karane de
+a.Nkhiyo.n ko chaar karane de mujhako tuu pyaar karane de
+naa naa naa chho.D piichhaa chho.D meraa jaa diivaanii jaa
+mujhe ikaraar karane \threedots
+
+kyuu.n meraa tan mahakaa kyuu.n baa_ii.n aa.Nkh pha.Dakii
+maine to pahale kabhii dekhii naa aisii la.Dakii
+dekh lenaa paas aa ke tuu to balaa hai
+luuT legii muskaraa ke kaahe sataa_e
+jaanataa huu.N jaan teraa kyaa iraadaa 
+mujhe ikaraar karane \threedots
+
+dekhaa jo maine tumako diivaanaa dil dha.Dakaa
+jaane do kar naa khataa shole ko yuu.n naa bha.Dakaa
+ishq me.n sab bhuul jaa re jii naa jalaa re
+kyaa kahe.nge log saare ham hai.n gavaah re
+kaam karane de mujhe tuu rok naa rastaa
+mujhe ikaraar karane \threedots
+%
+#endindian
+\endsong
+

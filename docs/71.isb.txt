@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aaj sochaa to aa.Nsuu bhar aaye, mud_date.n ho ga_ii.n muskuraae}%
+\film{Hanste Zakhm}%
+\starring{Priya Rajvansh}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Raj Ganesan (ganesan_raj@tandem.com)
+%          Anita T. Dhir 
+%          Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments:
+%
+\printtitle
+#indian
+%
+aaj sochaa to aa.Nsuu bhar aae
+mud.hdate.n ho ga_I.n muskuraae
+
+har kadam par udhar mu.D ke dekhaa \-2
+unakii mahafil se ham uTh to aae
+aaj sochaa \threedots
+
+dil kii naazuk rage.n TuuTatii hai.n \-2
+yaad itanaa bhii koI na aae
+aaj sochaa \threedots
+
+rah ga_ii zi.ndagii dard banake \-2
+dard dil me.n chhupaae chhupaae
+%
+#endindian
+\endsong
+%

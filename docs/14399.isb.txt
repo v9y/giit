@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dekhate hii dekhate dil kho gayaa}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Anuradha Paudwal, Abhijit}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhate hii dekhate dil kho gayaa
+dil kho gayaa to pyaar tumase ho gayaa
+is pyaar ko kab tak magar chhupaa_e.nge ham
+dekhate hii dekhate \threedots
+
+jaanegii tuu jis din mujhe mujhase ruuTh jaa_egii tuu
+to.Degii is dil ko mere khud bhii TuuT jaa_egii tuu
+mere dil pe naa kaabuu chalaa terii baato.n kaa jaaduu chalaa
+ke dil apanaa to gayaa
+dekhate hii dekhate \threedots
+
+dha.Dakan merii badalii sii hai aa.Nkho.n me.n phir sapane khile
+aane lagaa tumape ye dil ju.Dane lage ye silasile
+kabhii lauTakar aataa nahii.n haa.N pyaar kii is raah me.n
+ye dil jo gayaa to gayaa
+dekhate hii dekhate \threedots
+%
+#endindian
+\endsong
+

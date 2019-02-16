@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{chuu.Dii bajii hai}%
+\film{Yes Boss}%
+\year{}%
+\starring{Shah Rukh Khan, Juhi Chawla, Aditya Pancholi, Kashmira Shah}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Anant Mathur / Raz Jessa
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+u: chuu.Dii chorii chorii, kuch kahe
+  ka.nganaa, kyo.n ha.Nsaa, kyaa pataa, kyaa hu_aa
+
+   chuu.Dii bajii hai, kahii.n duur chhan chhan chhan chhan 
+   ka.nganaa bajaa hai, kahii.n duur khan khan khan khan 
+   ye teraa kajaraa ye teraa gajaraa
+   luTaa duu.N aaj isape tan man dhan
+   ho ho, chuu.Dii bajii hai   \threedots
+
+   gin gin taare raat guzaaruu.N
+   din din bhar mai.n, tujhe pukaaruu.N
+a: saa.Nvare  e e e e e e
+u: gin gin taare raat guzaaruu.N
+   din din bhar mai.n, tujhe pukaaruu.N
+   guu.Njatii hai pavan, jaise san san san san san 
+   ho ho, chuu.Dii bajii hai   \threedots
+
+a: khilate khilate gul khilate hai.n
+   milate milate dil milate hai.n
+u: goriyaa e e e e e e 
+a: khilate khilate gul khilate hai.n
+   milate milate dil milate hai.n
+   dil mile to baje, saaz jhan jhan jhan jhan jhan 
+   haa chuu.Dii bajii hai   \threedots
+
+%
+#endindian
+\endsong
+%

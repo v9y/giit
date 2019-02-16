@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil meraa dil hai akelaa ... Dhuu.nDhe re lailaa}%
+\film{Love Ke Liye Kuch Bhi Karega}%
+\year{2001}%
+\starring{Fardin Khan, Aftab Shivdasani, Saif Ali Khan, Sonali Bendre, Twinkle Khanna}%
+\singer{Udit Narayan, Chorus}%
+\music{Vishal}%
+\lyrics{Abbas Tyrewala}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil meraa dil hai akelaa Dhuu.nDhe re Dhuu.nDhe re lailaa
+a.njuu kii aa.Nkho.n me.n paaro kii palako.n me.n
+nehaa ke nakhare me.n niinaa ke nak{}she me.n
+giitaa ke gaalo.n me.n baa.cbii ke baalo.n me.n
+shaaluu kii sha.a haay galiyo.n me.n
+dil meraa \threedots
+
+puujaa ke pairo.n kii puujaa karuu.n
+dil bole kaam naa duujaa karuu.n
+raadhaa kii raunak se rainaa saje
+to apane aap hii ba.nsii baje
+jyoti kii lau me.n jaluu.n cha.nchal ke sa.ng chaluu.n
+dil meraa \threedots
+
+Dhuu.nDhuu.n anaamikaa ke naam ko
+paravaanaa shamaa kaa huu.N shaam ko
+ruubii kii pahanuu.n a.nguuThii mai.n
+baate.n nahii.n karataa huu.n jhuuThii mai.n
+sapanaa ke sapane bunuu.n
+siimaa me.n siimit rahuu.n
+dil meraa \threedots
+%
+#endindian
+\endsong
+

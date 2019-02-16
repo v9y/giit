@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{sadake terii chaal ke kajaraa vajaraa Daal ke}%
+\film{Mr. X}%
+\year{1957}%
+\starring{Ashok Kumar, Nalini Jaywant, Johny Walker, Pran, Nishi, Leela Mishra}%
+\singer{Rafi, Geeta}%
+\music{N Dutta}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10296 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	sadake terii chaal ke kajaraa vajaraa Daal ke
+	jaane vaalii aanaa kabhii yaaro.n kii galii
+aa \:	o jaaduugar ba.ngaal ke aashiq nainiitaal ke
+	raste par naa jaa_uu.N tere aisii hii bhalii
+
+ra \:	o chalate ishaaro.n se dil kyo.n lubhaayaa tuune
+	aa.Nkho.n hii aa.Nkho.n me.n pyaar jataayaa tuune
+aa \:	chhe.D ke mere dil ko pahale jagaayaa tuune
+	baate.n banaa ke jhuuThii mujhako jalaayaa tuune
+ra \:	nakhare hai.n qamaal ke duniyaa dekh\-bhaal ke
+	jaane vaalii aanaa \threedots
+
+	chho.Do jii adaa ab dil kii maan jaa_o
+	mai.n huu.N puraanaa aashiq mujhako pahachaan jaa_o
+aa \:	marado.n kii baat ba.Dii vaisii hai jaan ga_e
+	ka.Dake ho misTar jaanii tumako pahachaan ga_e
+ra \:	are ghaaTe nahii.n maal ke raajaa hai.n is saal ke
+	jaane vaalii aanaa \threedots
+%
+#endindian
+\endsong
+

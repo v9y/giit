@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{husn-e-jaanaa idhar aa}%
+\film{Sathi}%
+\year{1968}%
+\starring{Rajendra Kumar, Vyjayantimala, Simi Garewal}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Donald Ravi Persaud
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+Husne jaana idhar aa aaena hoon main tera
+Main sawaroonga tujhe saare ghum de de mujhe
+Bhigi palken na jhuka...aaena hoon main tera...
+ 
+Kitne hi daagh uthaye tu ne
+Mere din raat sajaye tu ne
+Chum loon aa mein teri palkon ko
+De doon ye umar teri zulfon ko
+Leke aankhon ke diye muskura mere liye
+Meri tasveere vafa...aaena hoon main tera...
+ 
+Teri chahat hai ibadat meri
+Dekhta rahta hoon surat teri
+Ghar tere dum se hai mandir mera
+Tu hai devi mein pujari tera
+Sajde sau bar karoon...aa tujhe pyar karoon...
+Meri aaghosh men aa...aaena hoon main tera...
+Husne jaana idhar aa....
+
+%
+#endindian
+\endsong
+%

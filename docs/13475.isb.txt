@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{jise dekh meraa dil dha.Dakaa merii jaan ta.Dapatii hai}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jise dekh meraa dil dha.Dakaa merii jaan ta.Dapatii hai
+ko_ii jannat kii vo huur nahii.n mere ##college## kii ek la.Dakii hai
+
+ye moranii ke jaisii chale isakii adaa_e.n qaatil ba.Dii
+nikale jidhar se Kushbuu u.De kitanii hasii.n hai ye gulachha.Dii
+nikale jidhar kuchh aaj hai hone vaalaa merii aa.Nkh pha.Dakatii hai
+ko_ii jannat kii vo huur \threedots
+
+mujhako ye merii lailaa lage isape luTaa duu.N mai.n zindagii
+jii chaahe isake lab chuum luu.N ha.Ns ke churaa luu.N isakii ha.Nsii
+ise chhuu ke merii saa.Nso.n me.n ko_ii aag dahakatii hai
+ko_ii jannat kii vo huur \threedots
+%
+#endindian
+\endsong
+

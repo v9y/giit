@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham aap me.n kuchh ho gayaa ... ham tumape marate hai.n}%
+\film{Hum Tum Pe Marte Hain}%
+\year{1999}%
+\starring{Govinda, Urmila Matondkar, Anupam Kher}%
+\singer{Lata, Udit Narayan, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham aap me.n kuchh ho gayaa kuchh mil gayaa kuchh kho gayaa
+jo chaahe tum ise maan lo lekin suno ye jaan lo
+ham tumape marate hai.n
+ham aap me.n \threedots
+
+nii.nd bhii luuT lii chain bhii le liyaa
+aapakaa aapake pyaar kaa shukriyaa
+aapase hai hame.n ye gilaa o piyaa
+jaan kyuu.n chho.D le liyaa jab jiyaa
+ham aap me.n \threedots
+
+o aapake naam se naam ham jo.D de.n
+ye kasam khaa_e.n ham har kasam to.D de.n
+tum kaho ye galii ye shahar chho.D de.n
+kyaa galii kyaa shahar ham jahaa.n chho.D de.n
+ham aap me.n \threedots
+
+bas aapake ham ho ga_e
+%
+#endindian
+\endsong
+

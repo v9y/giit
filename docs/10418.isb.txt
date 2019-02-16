@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{sun sun sun mere saathiyaa}%
+\film{Anmol}%
+\year{1993}%
+\starring{Manish Koirala, Rishi Kapoor}%
+\singer{Lata}%
+\music{Ram-Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: BOL ANAMOL #11644 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( sun sun sun mere saathiyaa kab aa_e.Nge re piyaa \-2
+naa nii.nd aatii hai naa chain aataa hai mujhe ho ke unase judaa ) \-2
+sun sun sun mere \threedots
+
+vaayadaa thaa aane kaa lagataa hai kisii ne rokaa hai
+tuu hii bataa re piyaa sharaafat nahii.n ye to dhokhaa hai
+ba.Dii yaad aatii hai mujhako sataatii hai
+mujhe le chal yaa unako bulaa
+sun sun sun mere \threedots
+
+kyaa karuu.N raato.n ko Kvaabo.n me.n vo ta.Dapaate hai.n
+kyaa kahuu.N din me.n bhii taare mujhe nazar aate hai.n
+naa raat kaTatii hai naa din guzarataa hai
+mujhe le chal yaa unako bulaa
+sun sun sun mere \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ai mere pyaare vatan}%
+\film{Kabuliwala}%
+\year{1961}%
+\starring{Balraj Sahni, Ushal Kiran, Sonu}%
+\singer{Manna De}%
+\music{Salil Choudhary}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai mere pyaare vatan, ai mere bichha.De chaman
+tujh pe dil qurabaan
+tuu hii merii aarazuu, tuu hii merii aabaruu
+tuu hii merii jaan
+
+(tere daaman se jo aae un havaao.n ko salaam
+chuum luu.N mai.n us zubaa.N ko jisape aae teraa naam ) \- 2
+sabase pyaarii subah terii
+sabase ra.ngii.n terii shaam
+tujh pe dil qurabaan \threedots
+
+(maa.N kaa dil banake kabhii siine se lag jaataa hai tuu
+aur kabhii nanhii.n sii beTii ban ke yaad aataa hai tuu ) \- 2
+jitanaa yaad aataa hai mujhako
+utanaa ta.Dapaataa hai tuu
+tujh pe dil qurabaan \threedots
+
+(chho.D kar terii zamii.n ko duur aa pahu.nche hai.n ham
+phir bhii hai ye hii tamannaa tere zarro.n kii qasam ) \- 2
+ham jahaa.N paidaa hue 
+us jagah pe hii nikale dam
+tujh pe dil qurabaan \threedots
+%
+#endindian
+\endsong
+%

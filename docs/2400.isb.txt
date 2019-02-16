@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mai.n to janam janam kii pyaasii}%
+\film{Kavi Kalidas}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy, Anita Guha}%
+\singer{Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mai.n to janam janam kii pyaasii
+mujhe apanii banaa lo daasii
+mai.n to janam janam kii   \threedots
+
+mere ho.nTho pe guu.Nje teraa giit re
+merii paayal me.n teraa sa.ngiit re
+tere hii kaaraN banii bairaagan
+o mere man ke baasii
+mai.n to janam janam kii   \threedots
+
+merii naiyaa khivayyaa bin jaa rahii
+merii yuu.N hii umar biitii jaa rahii
+tuu jo mile to man me.n khile re
+priit kii puuran maasii
+mai.n to janam janam kii   \threedots
+
+%
+#endindian
+\endsong
+%

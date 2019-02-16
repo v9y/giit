@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{ba.De hai.n dil ke kaale}%
+\film{Dil Deke Dekho}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Asha, Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+% \printtitle
+#indian
+%
+ba.De hai.n dil ke kaale
+haa.N yahii  niilii sii aa.Nkho.n vaale
+suurat burii ho
+buraa nahii.n dil meraa
+naa ho yaqiin aazamaa le
+
+merii jaan vaah vaah vaah \threedots
+merii jaan vaah vaah vaah vaah
+ba.De hai \threedots
+
+jaise bhale ho sab hai khabar
+sher\-o\-sharaarat kii ye nazar
+aa.Nkho.n me.n aa.Nkhe.n Daalake ham
+ho gaye ab to jaane jigar
+haa.N hamako ba.De ba.De Dhuu.NDh ke haare
+Dhuu.NDh hii laae.nge dil ke sahaare
+aap kisiike bhii hai.n, vaah jii vaah
+khul jaayegaa haal tum pe dil\-e\-beqaraar kaa
+naino se naina milaake dekho to zaraa
+
+rok bhii lo ab apanii zubaan
+varanaa qayaamat hogii yahaa.N
+ham bhii qayaamat se nahii.n kam
+jaaoge bachake duur kahaa.N
+haa.N yahii.n to the abhii aap kidhar gaye
+samajho hame.n ham jaan se guzar gaye
+jiitejii mar gaye,  vaah jii vaah
+maranaa merii zi.ndagii hai diivaanaa huu.N pyaar kaa
+tum bhii ek din aazamaa.N ke dekho to zaraa
+%
+#endindian
+\endsong
+%

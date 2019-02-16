@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{haa.n tujhe dekhate hii ye dil kho gayaa hai}%
+\film{Dehak/ A Burning Passion}%
+\year{1998}%
+\starring{Akshay Khanna, Sonali Bendre}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he
+haa.n tujhe dekhate hii ye dil kho gayaa hai
+terii saadagii pe fidaa ho gayaa hai
+nazar jab Takaraa_ii muhabbat ra.ng laa_ii
+mai.n tho.Daa ghabaraayaa tuu tho.Dii sharamaa_ii
+o_e o_e o_e o_e o_e
+
+haa.n tujhe dekhate hii ye dil kho gayaa hai
+terii saadagii pe fidaa ho gayaa hai
+nazar jab Takaraa_ii muhabbat ra.ng laa_ii
+tuu tho.Daa ghabaraayaa mai.n tho.Dii sharamaa_ii
+o_e o_e o_e o_e o_e
+
+miithe miiThe pyaar ke mai.n sapane sajaa_uu.ngaa
+dil me.n chhupaa ke tujhe duur le jaa_uu.ngaa
+ban ke mai.n saayaa tere piichhe piichhe aa_uu.ngii
+pyaar kii kahaaniyaa.n mai.n tujhako sunaa_uu.ngii
+khulii ye zulf merii havaa me.n laharaa_ii
+diivaanaa kar degii terii ye a.nga.Daa_ii
+haa.n tujhe dekhate hii \threedots
+
+pahalaa pahalaa pyaar teraa kaise mai.n chhupaa_uu.ngii
+mujhako sataa_egaa to haay mar jaa_uu.ngii haa.n
+khulii khulii a.Nkhiyo.n me.n tujhako basaa_uu.ngaa
+dil ko churaayaa terii nii.nde.n bhii churaa_uu.ngaa
+bahaaro.n kii mastii tuu apane sa.ng laa_ii
+pyaar kaa mausam hai bajii hai shahanaa_ii
+haa.n tujhe dekhate hii \threedots
+%
+#endindian
+\endsong
+

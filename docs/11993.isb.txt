@@ -1,0 +1,73 @@
+
+%
+\startsong
+\stitle{ai kaun hai vo ... hiire jaisii aa.Nkho.n vaalii ... laakho.n hasiin dekhe}%
+\film{Ishq Vishk}%
+\year{2003}%
+\starring{Shahid, Amrita Rao, Shehnaz}%
+\singer{Udit Narayan, Alisha Chinai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11679 [V S Rawat]
+% Producer: TIPS Films, Kumar S Taurani, Ramesh S Taurani, Director: Ken Ghosh
+% Audio: Tips Industries Ltd, tipsmusicfilms.com
+% Cassette: Stereo TC-21834, Rs 42/-, CD: TCCD 7297/98, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+huum aa aa aa \-2
+huum\-huum aa aa aa \-2
+
+	ai kaun hai vo
+	kaun hai vo
+	ai kaun hai vo
+	hiire jaisii aa.Nkho.n vaalii kaun hai vo
+	sone jaise gaalo.n vaalii kaun hai vo
+	chaa.Ndii jaise ra.ngo.n vaalii kaun hai vo
+	dhiimii\-dhiimii chaalo.n vaalii kaun hai vo
+	kaun hai vo
+
+u \:	laakho.n hasiin dekhe ko_ii Thaharaa naa saamane
+	aate hii isake dekho sabake chehare utar ga_e
+	ye balaa kaun hai is kaa naam hai kyaa
+	rahatii hai kahaa.N karatii kaam hai kyaa
+
+	laakho.n hasiin dekhe ko_ii Thaharaa naa saamane
+	aate hii isake dekho sabake chehare utar ga_e
+ko \:	ye balaa kaun hai is kaa naam hai kyaa
+	rahatii hai kahaa.N karatii kaam hai kyaa
+
+u \:	laal dupaTTaa uu.Nche ##sandal## reshamii kamiiz
+	pahale naa dekhii thii maine aisii ko_ii chiiz
+	is javaa.N huur se baat kar duur se
+	ho jaa_e naa ye Kafaa
+	laakho.n hasiin dekhe \threedots chehare utar ga_e
+ko \:	ye balaa kaun hai \threedots karatii kaam hai kyaa
+
+a \:	laa raa laa laa laa \-4
+	har dha.Dakan ko merii tamannaa labo.n ko merii pyaas
+	sab hai.n mere ishq me.n paagal sab ko merii talaash
+	mujhame.n hai.n shoKiyaa.N
+	mujhame.n hai.n mastiyaa.N
+	har dil pe meraa nashaa
+	laakho.n hasii.n ho.nge ko_ii mujhasaa yahaa.N kahaa.N
+	kitane javaan la.Dake merii chaahat pe mar ga_e
+ko \:	ye umar ye nazar husn kii ye adaa
+	jisane dekhaa mujhe ho gayaa vo fidaa
+u \:	laakho.n hasiin dekhe \threedots chehare utar ga_e
+ko \:	ye balaa kaun hai \threedots karatii kaam hai kyaa
+
+u \:	hiire jaisii aa.Nkho.n vaalii
+ko \:	kaun hai vo
+u \:	sone jaise baalo.n vaalii
+ko \:	kaun hai vo
+u \:	chaa.Ndii jaise ra.ngo.n vaalii
+ko \:	kaun hai vo
+u \:	dhiimii\-dhiimii chaalo.n vaalii kaun hai
+ko \:	kaun hai vo
+%
+#endindian
+\endsong
+

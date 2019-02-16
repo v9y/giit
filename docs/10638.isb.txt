@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dekh lii o duniyaa waale terii duniyaa dekh lii}%
+\film{Balam}%
+\year{1949}%
+\starring{Suraiya, Vasti, Nigaar, Masud, Jayant, Agha}%
+\singer{Suraiya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12631 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+dekh lii o duniyaa waale terii duniyaa dekh lii \-2
+Thokare.n khaatii hu_ii apanii tamannaa dekh lii
+dekh lii o duniyaa waale terii duniyaa dekh lii
+
+( kal hamaaraa dil kisii kii yaad se aabaad thaa
+yaad se aabaad thaa ) \-2
+aaj apane dil me.n ek hasarat kii duniyaa dekh lii \-2
+
+Thokare.n khaatii hu_ii apanii tamannaa dekh lii
+dekh lii o duniyaa waale terii duniyaa dekh lii
+
+( aaj duniyaa me.n nahii.n ko_Ii bhii ham saa badanasiib
+ko_Ii bhii ham saa badanasiib ) \-2
+saamane aa.Nkho.n ke luTatii dil kii duniyaa dekh lii \-2
+
+Thokare.n khaatii hu_ii apanii tamannaa dekh lii
+dekh lii o duniyaa waale terii duniyaa dekh lii
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{jaane terii nazaro.n ne kyaa kar diyaa}%
+\film{Grihasthi}%
+\year{1963}%
+\starring{Ashok Kumar, Manoj Kumar, Nirupa Roy, Rajshri, Indrani Mukherjii}%
+\singer{Rafi, Lata}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10711 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	jaane terii nazaro.n ne kyaa kar diyaa
+	jab tujhe dekhuu.N meraa dha.Dake jiyaa
+ra \:	tuune mohabbat se meraa dil bhar diyaa
+	apanaa banaane vaale teraa shukriyaa
+
+la \:	piyaa jabase hu_aa teraa\-meraa milan
+	mere jiivan me.n chamakii Kushii kii kiraN
+ra \:	din guzarane lage hai.n terii yaad me.n
+	aur sataatii hai raato.n ko terii lagan
+la \:	u.D ga_ii naino.n se merii ni.ndiyaa
+
+ra \:	ye bahaaro.n kaa mausam ye Tha.nDii havaa
+	isame.n hai ra.ng zaalim tere husn kaa
+la \:	mujhe tuune mohabbat sikhaa_ii balam
+	varanaa mere to jiivan me.n kuchh bhii na thaa
+ra \:	terii adaa_o.n ne meraa dil le liyaa
+	apanaa banaane vaale \threedots
+%
+#endindian
+\endsong
+

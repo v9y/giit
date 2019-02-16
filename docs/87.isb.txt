@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aa jaa aa jaa aa jaa merii barbaad muhabbat ke sahaare}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Suresh, Noorjehan, Suraiyya}%
+\singer{Noorjehan}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+aa jaa aa jaa \threedots
+aa jaa merI barabaad mohabbat ke sahaare 
+hai kaun jo biga.Dii huii taqadIr sa.nvaare 
+hai kaun jo \threedots
+
+aaye bhI nA the khushk hue (aa.Nkho.n me.n aa.Nsuu \- 2)
+nikale bhI nA the luT gaye aramaan bechaare 
+hai kaun jo \threedots
+
+a.njaam\-e\-mohabbat hame.n (maalUm hai lekin \- 2)
+leTe hai.n tere Gam me.n ummiido.n ke sahaare 
+hai kaun jo \threedots
+
+thA dil ko fakat terI (mohabbat kaa sahaaraa \- 2)
+hamane isI ummiid pe din apane guzaare 
+hai kaun jo \threedots
+%
+#endindian
+\endsong
+%

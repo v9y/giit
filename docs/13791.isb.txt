@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{o raam jii ba.Daa dukh diinaa tere lakhan ne ba.Daa dukh diinaa}%
+\film{Raam Lakhan}%
+\year{1989}%
+\starring{Anil Kapoor, Jackie Shrof, Dimple Kapadia, Madhuri Dixit}%
+\singer{Anuradha Paudwal, Manhar Udhas, Chorus}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o raam jii ba.Daa dukh diinaa tere lakhan ne ba.Daa dukh diinaa
+sudh budh bisaraa_ii merii nii.nd churaa_ii meraa mushkil kar diyaa jiinaa
+ho raam jii ba.Daa dukh \threedots
+
+vo diipak hai mai.n jyoti huu.n vo ha.Nsataa hai mai.n rotii huu.N huu.N huu.N
+mere pyaar kii kadar use hogii magar mujhe zahar pa.Degaa piinaa
+ba.Daa dukh diinaa \threedots
+
+merii a.nkhiyaa.n mere sapane le gayaa sab kuchh saath vo apane
+ye jaan nigo.Dii jaane kaahe ko chho.Dii chhali_e ne sab kuchh chhiinaa
+ba.Daa dukh diinaa \threedots
+
+sunakar merii raam duhaa_ii dekho vo aayaa harajaa_ii
+nirmohii ye kaisaa jo mai.n jaanatii aisaa to mai.n karatii pyaar kabhii naa
+ba.Daa dukh diinaa \threedots
+
+kis lakhan kii baat karatii ho tum
+lakhan ne lakhan ne mere lakhan ne 
+sajan ne sajan ne mere sajan ne
+sajano.n ke sajan ne mere lakhan ne
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ulfat kii nayii ma.nzil ko chalaa}%
+\film{Kamasutra}%
+\year{}%
+\starring{}%
+\singer{Iqbal Bano / Shobha Gurtu}%
+\music{}%
+\lyrics{Qatil Shifai}%
+%
+% Contributor: Yogesh Sethi
+% Transliterator: K Vijay Kumar
+% Credits: Ek Mitra
+% Comments: The song has been included in Meera Nair's "Kamasutra" as well.
+%           That version is by Shobha Gurtu. Iqbal Bano's is probably a
+%           non-Film version. The lyrics below are a composite of the two
+%           versions.
+%
+\printtitle
+#indian
+%
+ulfat kii nayii ma.nzil ko chalaa tuu baahe.n Daal ke baaho.n me.n
+dil to.Dane vaale dekh ke chal, ham bhii to pa.De hai.n raaho.n me.n
+
+kyaa kyaa na jafaae.n dil pe sahii.n, par tum pe koii shiqavaa naa kiyaa
+is jum.r ko bhii shaamil kar lo mere maasuum Gunaaho.n me.n
+
+jab chaa.ndanii raato.n me.n tuu ne, Kud ham se kiyaa iqaraar\-e\-vafaa
+phir aaj hai.n kyo.n ham begaane, terii beraham niGaaho.n me.n
+
+ham bhii hai.n vahii tum bhii ho vahii ye apanii apanii qisamat hai
+tum khel rahe ho Khushiyo.n se, ham Duub gaye hai.n aaho.n me.n
+
+dil to.Dane vaale dekh ke chal, ham bhii to pa.De hai.n raaho.n me.n
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ko_ii jaise mere dil kaa dar khaTakaa_e}%
+\film{Yugpurush}%
+\year{1998}%
+\starring{Nana Patekar, Jackie, Manisha, Ashwini, Mohan Joshi, Mohnish}%
+\singer{}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii jaise mere dil kaa dar khaTakaa_e
+ye havaa kii dastak hai yaa kyaa hai
+ko_ii jaise mere dil \threedots
+
+sur me.n bhiigii sii aavaaz
+ko_ii chhe.De hai dha.Dakan kaa saaj
+mai.n huu.N ki hairaan nihaaruu.n aise kaun pukaare
+ko_ii jaise mere dil \threedots
+
+naa milake bhii vo yuu.n aan mile
+dil usakii har ek taan mile
+yuu.n lagataa hai ko_ii yahii.n par hai nazadiik hamaare
+ko_ii jaise mere dil \threedots
+%
+#endindian
+\endsong
+

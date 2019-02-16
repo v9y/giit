@@ -1,0 +1,47 @@
+% ITRANS SONG # 3457; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-08-21 09:15:17 PST
+%
+\startsong
+\stitle{saajan aa jaa raajan aa jaa}%
+\film{Bhai}%
+\year{1944}%
+\starring{Manorama, Satish, Radharani, Zahur Raja, Shatir Gaznavi}%
+\singer{Zeenat Begum, Ghulam Haider}%
+\music{Ghulam Haider}%
+\lyrics{Khan Shaatir Ghaznavi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 21 August 2002
+% Comments: Shyam Sunder also composed songs for this film.
+%
+\printtitle
+#indian
+%
+zb: saajan, aa jaa; raajan, aa jaa
+     saajan, khele.n dil ke khel
+     raajan, khele.n dil ke khel
+gh: sajanii, man me.n samaa jaa, aa jaa
+
+zb: tum jiit gaye ho priit kii baazii
+     dil apanaa mai.n haarii
+     jamunaa ke taT jaise
+     jiite raadhe se banawaarii
+gh: sajanii, man me.n samaa jaa, aa jaa
+     jiivan\-darpaN me.n ab hogaa
+     dil se dil kaa mel
+bo: khele.n dil ke khel   \threedots
+
+zb: ham tum bichha.De bhii soye the
+gh: jaise nii.nd aur nainaa
+zb: saa.Njh savere phir mil jaa_e.N
+gh: jaise din aur rainaa
+gh: sajanii, man me.n samaa jaa, aa jaa
+bo: prem ke raN me.n jo kuchh biite
+     man se jaae.N jhel
+bo: khele.n dil ke khel   \threedots
+%
+#endindian
+\endsong
+%

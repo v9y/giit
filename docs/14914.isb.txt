@@ -1,0 +1,69 @@
+% ITRANS SONG
+
+\startsong
+\stitle{hiraNyagarbas ... aise kis devataa kii upaasanaa kare.n ham havi dekar}%
+\film{Bhaarat Ek Khoj (Non-Film)}%
+\year{1980s}%
+\starring{}%
+\singer{Chorus}%
+\music{Vanraj Bhatia}%
+\lyrics{Pt Vasant Deo}%
+
+% Contributor: [V S Rawat], 17/07/2004
+% Credits: U V Ravindra
+% Comments: Title chants from TV Serial Bharat: Ek Khoj,
+% Directed by Shyam Benegal
+% based on The Discovery of India by Pundit Jawarlal Nehru
+% from the "kR^iShNa" (dark) yajurveda.
+
+\printtitle
+#indian
+
+% It is the first one in a series of oblatory chants.
+% The original Sanskrit incantation has :
+
+hiraNyagarbas-samavartat-aagre
+bhuutasya jaataH patir-eka aasiit
+sa daadhaara-pR^ithivii-dyaam-utemaa.m
+kasmai devaaya haviShaa vidhema
+
+% (which Lord ought we to sacrificially propitiate?)
+
+sR^iShTi se pahale sat nahii.n thaa, asat bhii nahii.n
+antariksh bhii nahii.n, aakaash bhii nahii.n thaa
+chhipaa thaa kyaa, kahaa.N, kisane dekhaa thaa
+us pal to agam, atal jal bhii kahaa.N thaa
+
+sR^iShTi kaa kaun hai kartaa
+kartaa hai vaa akartaa
+uu.Nche aakaash me.n rahataa
+sadaaa adhyaksh banaa rahataa
+wahii to sach\-much me.n jaanataa, yaa nahii.n bhii jaanataa
+hai kisii ko nahii.n pataa
+nahii.n pataa
+
+vah thaa hiraNyagarbh sR^iShTi se pahale vidyamaan
+vahii to saare bhuut\-jaat kaa swaamii mahaan
+jo hai astitvamaan dharatii\-aasamaan dhaaraN kar
+aise kis devataa kii upaasanaa kare.n ham havi dekar
+
+% havi dena: making offerings into a [sacrificial] fire.
+
+jis ke bal par tejomay hai ambar
+pR^ithvii harii\-bharii sthaapit sthir
+swarg aur suuraj bhii sthir
+aise kis devataa kii upaasanaa kare.n ham havi dekar
+
+garbh me.n apane agni dhaaraN kar paidaa kar
+vyaapaa thaa jal idhar\-udhar niiche\-uupar
+jagaa chuke wo ka_ii ekamev praaN banakar
+aise kis devataa kii upaasanaa kare.n ham havi dekar
+
+OM! sR^iShTi\-nirmaataa swarg\-rachayitaa puurvaj, rakshaa kar
+satyadharma\-paalak atul jal niyaamak, rakshaa kar
+phailii hai.n dishaaye.n baahu jaisii usakii, sab me.n, sab par
+aise hii devataa kii upaasanaa kare.n ham havi dekar
+aise hii devataa kii upaasanaa kare.n ham havi dekar
+
+#endindian
+\endsong

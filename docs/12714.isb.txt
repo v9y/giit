@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tuu kar de nazar se mastaanaa}%
+\film{Ladaki Pasand Hai}%
+\year{1971}%
+\starring{Mumtaz, Deepak Kumar, Sulochana, Sajjan, Rajendranath, Jeevan}%
+\singer{Mukesh, Hemlata}%
+\music{Sonik Omi}%
+\lyrics{G S Rawal}%
+%
+% Contributor: BOL ANAMOL #10384 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tuu kar de nazar se mastaanaa \-2
+	may chiiz hai kyaa mayaKaanaa kyaa
+he \:	tuu ek nazar se dekh to le
+	phir jiinaa kyaa mar jaanaa kyaa
+mu \:	tuu kar de nazar se \threedots
+
+	ye kaisii javaanii aa_ii hai
+	dekhe to qayaamat jhuk jaa_e
+he \:	tuu hai mai.n huu.N tanhaa_ii hai
+	ab vaqt se kah do ruk jaa_e
+mu \:	yah hosh kii saarii baate.n hai.n
+	samajhegaa teraa diivaanaa kyaa
+he \:	tuu ek nazar se \threedots
+
+he \:	palako.n me.n chhupaa ke tujhako sajan
+	kho jaa_uu.N chaa.Nd sitaaro.n me.n
+mu \:	tere hii li_e gulashan\-gulashan khilate hai.n phuul bahaaro.n me.n
+he \:	jab saathii tujhasaa mil jaa_e
+	phir gulashan kyaa viiraanaa kyaa
+mu \:	tuu kar de nazar se \threedots
+%
+#endindian
+\endsong
+

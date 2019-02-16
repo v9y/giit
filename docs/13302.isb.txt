@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{aap jab se qariib aa_e hai.n pyaar ke ra.ng}%
+\film{Noorjehan}%
+\year{1967}%
+\starring{Meena Kumari, Pradeep Kumar, Sheikh Mukhtar, Johny Walker, Helen}%
+\singer{Rafi, Asha}%
+\music{Roshan}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10508 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	aap jab se qariib aa_e hai.n
+	pyaar ke ra.ng dil pe chhaa_e hai.n
+
+	jalavaa\-e\-yaar hai nigaaho.n me.n
+	phuul bikhare hu_e hai.n raaho.n me.n
+	duur tak zindagii ke saa_e hai.n
+	aap jab se qariib \threedots
+
+aa \:	dil ne halkii sii choT khaa_ii hai
+	zindagii ab samajh me.n aa_ii hai
+	ham khud apane nahii.n paraa_e hai.n
+	aap jab se qariib \threedots
+
+ra \:	aapase apane dil ko haar ke ham
+	is qadar Kush hai.n aap hii kii qasam
+	jaise duniyaa ko jiit laa_e hai.n
+	aap jab se qariib \threedots
+
+aa \:	khair ho ishq ke fasaane kii
+	lag na jaa_e nazar zamaane kii
+	had se aage qadam ba.Dhaa_e hai.n
+	aap jab se qariib \threedots
+%
+#endindian
+\endsong
+

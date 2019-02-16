@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jaa jaa re jaa, baalamavaa}%
+\film{Basant Bahaar}%
+\year{1956}%
+\starring{Bharat Bhushan}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+jaa jaa re jaa, baalamavaa
+sautan ke sa.ng raat bitaa_ii
+kaahe karat ab jhuuTii batiyaa.N
+jaa jaa re jaa, baalamavaa
+
+Gair ke ghar karii raat jagaa_ii
+mose kahe tere binaa nii.nd na aayii
+kaiso harajaa_ii daiyyaa
+jaa jaa re, jaa baalamavaa   \threedots
+
+kaa.Ndhe lagaa laayii bindiyaa kisiikii
+jaanuu.N mai.n churaayii tuune nindiyaa kisiikii
+laaj na aayii tohe 
+jaa re jaa, jaa re jaa, jaa re jaa, baalamavaa   \threedots
+
+%
+#endindian
+\endsong
+%

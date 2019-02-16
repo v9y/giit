@@ -1,0 +1,31 @@
+
+%
+\startsong
+\stitle{aajaa naa mere dilarubaa aajaa tuu aa ke phir naa jaa}%
+\film{Bewafaa}%
+\year{1952}%
+\starring{Nargis, Raj Kapoor}%
+\singer{Geeta Dutt}%
+\music{A R Quereshi}%
+\lyrics{Shams Azimabadi}%
+%
+% Contributor: BOL ANAMOL #11914 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( aa jaa naa mere dilarubaa
+aa jaa tuu aa ke phir naa jaa
+tujhe pataa de merii jaa.N
+aisaa zamaanaa phir kahaa.N ) \-2
+
+( darawaazaa khulaa to khulaa
+jhuulaa jawaanii kaa jhulaa
+mujhe kyaa maa tujhe javaa.N
+aisaa zamaanaa phir kahaa.N ) \-2
+%
+#endindian
+\endsong
+

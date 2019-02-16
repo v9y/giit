@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{samay o dhiire chalo, bujh ga_ii raah se chhaa.Nv}%
+\film{Rudaali}%
+\year{1993}%
+\starring{Dimple}%
+\singer{Bhupen Hazarika / Lata / Asha}%
+\music{Bhupen Hazarika}%
+\lyrics{Gulzar}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : Lata, Asha and Bhupen sing the same lyrics.
+%
+\printtitle
+#indian
+%
+samay o dhiire chalo
+bujh gaI raah se chhaa.Nv
+duur hai duur hai pii kaa gaa.Nv
+dhiire chalo dhiire chalo
+
+jii ko bahalaa liyaa
+tuune aas niraash kaa khel kiyaa \- 2
+chaar dino.n me.n koI jiyaa naa jiyaa \- 2
+zahar ye saa.Ns kaa piyaa naa piyaa \- 2
+
+ye havaa sab le gaI
+kaaravaa.n ke nishaa.n bhii u.Daa le gaI
+u.Datii havaao.n vaale mile.nge kahaa.N \- 2
+koI bataa do mere piyaa kaa nishaa.N \- 2
+
+samay o dhiire chalo
+bujh gaI raah se chhaa.Nv
+duur hai, duur hai pii kaa gaa.Nv
+dhiire chalo dhiire chalo
+%
+#endindian
+\endsong
+%

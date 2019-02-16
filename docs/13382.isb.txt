@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{o jaane vaale hamako bhuul na jaanaa}%
+\film{O Janewale}%
+\year{1948}%
+\starring{Geeta Desai, Trilok Kapoor, Umakant, Pande, Mehar Sultana}%
+\singer{Mukesh, Shamshad}%
+\music{Ali Husain Muradabadi}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11418 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+sha \:	o jaane vaale
+	o jaane vaale hamako bhuul na jaanaa \-2
+mu \:	hamako bhuul na jaanaa
+
+sha \:	chaa.Nd hamaare chale sa.ng tere sa.ng hii lekar aanaa
+	o jaane vaale hamako \threedots
+mu \:	hamako bhuul na jaanaa
+
+sha \:	chain hamaaraa luuT chalaa kyuu.N
+mu \:	man kaa chhaalaa phuuT pa.Daa kyuu.N
+sha \:	teraa aanaa\-jaanaa saajan saa.Ns kaa aanaa\-jaanaa
+sha \:	vafaa aajamaane ko \threedots
+	o jaane vaale hamako \threedots
+mu \:	hamako bhuul na jaanaa
+
+
+	jiivan hai ye tere dam se
+	kaise kaTegii tujh bin hamase
+sha \:	jaise ruuThii qismat hamase tuu bhii ruuTh na jaanaa
+	o jaane vaale hamako \threedots
+mu \:	hamako bhuul na jaanaa
+%
+#endindian
+\endsong
+

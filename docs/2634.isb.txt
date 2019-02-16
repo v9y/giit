@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{likhane vaale ne}%
+\film{Badi Behan}%
+\year{}%
+\starring{}%
+\singer{Suraiyya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+dil tere aane se pahale bhii yuu.Nhii barabaad thaa
+aur yuu.N hii barabaad hai tere chale jaane ke baad
+
+o likhane vaale ne
+likhane vaale ne likh dii merii taqadiir me.n barabaadii
+
+dil ko jab terii muhabbat kaa sahaaraa mil gayaa
+mai.n ne samajhaa merii kashtii ko kinaaraa mil gayaa
+haay qismat ko magar kuchh aur hii ma.nzuur thaa
+aa.Nkh jab kholii to kashtii se kinaaraa duur thaa
+likhane vaale ne   \threedots
+
+chho.D kar duniyaa.N terii tujhako bhulaane ke liye
+ham chale aaye yahaa.N aa.Nsuu bahaane ke liye
+dil abhii bhuulaa na thaa tujhako ki qismat merii
+khii.Nch kar laayii tujhe mujhako rulaane ke liye
+likhane vaale ne   \threedots
+
+%
+#endindian
+\endsong
+%

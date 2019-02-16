@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ha.Nsane kii chaah ne itanaa mujhe rulaayaa hai}%
+\film{Aavishkaar}%
+\starring{Rajesh Khanna, Sharmila}%
+\singer{Manna De}%
+\music{Kanu Roy}%
+\lyrics{Kapil Kumar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Raj Ganesan (raj@tandem.com)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ha.nsane kI chaah ne itanA mujhe rulaayA hai
+koI hamadard nahI.n, dard merA saayA hai
+
+dil to ulajhA hI rahA zindagI kI baato.n me.n
+saa.nse.n  jalatI hai.n kabhI kabhI raato.n me.n
+kisI kI aahaTe.n ye kaun muskuraayA hai
+koI hamadard nahI.n \threedots
+
+sapane chhalate hI rahe roz naI raaho.n se
+koI phisalaa hai abhI abhI baaho.n se
+kisI kI aah par taaro.n ko pyaar aayA hai
+koI hamadard nahI.n \threedots
+%
+#endindian
+\endsong
+%

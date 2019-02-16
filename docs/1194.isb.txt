@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mere dil me.n aaj kyaa hai, tuu kahe to mai.n bataa duu.N}%
+\film{Daag}%
+\year{1973}%
+\starring{Rajesh Khanna, Sharmila Tagore, Rakhee}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian KG (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Venkatasubramanian KG (gopala@cs.wisc.edu)
+%          Syed Mohammand Ali (smali@zeus.owu.edu)
+%          (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere dil me.n aaj kyaa hai
+tuu kahe to mai.n bataa duu.N
+terii zulf phir savaaruu.N
+terii maa.Ng phir sajaa duu.N
+mere dil me.n \threedots
+
+mujhe devataa banaakar, terii chaahato.n ne puujaa \- (2)
+meraa pyaar kah rahaa hai,
+mai.n tujhe khudaa banaa duu.N
+terii zulf phir \threedots
+
+koI Dhuu.NDhne bhii aae, to hame.n naa Dhuu.N.Dh paae \- (2)
+tuu mujhe kahii.n chhupaa de,
+mai.n tujhe kahii.n chhupaa duu.N
+terii zulf phir \threedots
+
+mere baazuo.n me aakar, teraa dard chain paae \- (2)
+tere gesuo.n me chhupakar,
+mai.n jahaa.N ke Gam bhulaa duu.N
+terii zulf phir \threedots
+%
+#endindian
+\endsong
+%

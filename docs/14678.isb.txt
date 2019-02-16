@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tumhaarii beruKii se pareshaa.N hai.n nazaare}%
+\film{Yauwan}%
+\year{1973}%
+\starring{Yogita Bali, Anil Dhavan, Sujit Kumar,  Kabir Bedi}%
+\singer{Kishore}%
+\music{Sonik-Omi}%
+\lyrics{Omkar Verma}%
+%
+% Contributor: BOL ANAMOL #11547 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+tumhaarii beruKii se pareshaa.N hai.n nazaare
+zaraa saa muskaraa ke tum inhe.n de do sahaare
+tumhaarii beruKii se \threedots
+
+pareshaa.N kisali_e hotii ho tum apanii javaanii se
+Kushii aur man kaa rishtaa to rahegaa zindagaanii se
+hai Gam kaisaa kaho hamase o dil me.n hai tumhaare
+tumhaarii beruKii se \threedots
+
+kisii pyaase kii aa.Nkho.n ke chhalakate jaam piine do
+kisii bha.Nvare kii zulfo.n ke hame.n saa_e me.n jiine do
+samaa tham jaa_e jo ik baar tum kar do ishaare
+tumhaarii beruKii se \threedots
+
+jalegaa dil bahaaro.n kaa jo tum aa.Nsuu bahaa_oge
+milegaa chain kaliyo.n ko agar tum muskaraa_ogii
+usii kii zindagaanii hai jo ise ha.Ns kar guzaare
+tumhaarii beruKii se \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{o meghaa re bole ghanan\-ghanan ... pavan chale}%
+\film{Dil Deke Dekho}%
+\year{1959}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10458 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+o meghaa re bole ghanan\-ghanan
+pavan chale sanan\-sanan
+paayal baaje jhanan\-jhanan
+jiyaraa moraa Dole
+aajaa piyaa more
+meghaa re bole \threedots
+
+sajaniyaa ghar aa
+piyaa ghar aa
+
+matavaalii ghaTaa kaalii laharaa ke aa_ii
+ghuma.D\-ghuma.D ghum\-ghum ghuma.D\-ghuma.D
+meghaa re bole \threedots
+%
+#endindian
+\endsong
+

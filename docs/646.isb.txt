@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{haa.N jii baabaa  haa.N jii baabaa}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: ShashiKant Joshi urf Pintu Diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pankha Road se Pintu Diwana [33]  14 May 1995
+%        I bet this song would be much more hit if they had a 
+%        professional belly dancer do it. Ye mujhe kyaa ho rahaa hia
+%        aaj? :-)))
+%
+\printtitle 
+#indian 
+%
+koras: haa.N jii baabaa  haa.N jii baabaa
+
+aashaa: haa.N jii haa.njI haa.njI are haa.njI baabaa 
+mere sanam se meraa, milane kaa vaadaa 
+koras: haa.N jii baabaa haa.N jii baabaa 
+rafii: haa.N jii baabaa haa.N jii baabaa 
+
+aashaa: (kyo.n na dikhaa_uu.N jaane tamannaa, jab hai.n nazar vaale  
+phir na mile.nge saath me.n itane, dard\-e\-jigar vaale  ) \- 2
+haa.N jii haa.N jii haa.N jii \threedots
+koras: haa.N jii haa.N jii haa.N jii baabaa 
+rafii: haa.N jii haa.N jii haa.N jii baabaa 
+
+aashaa: ( ra.ng jamaa hai merii adaa_o.n, kii gulakaarii kaa  
+to.D de jaa ke, aa.Nkh bachaa ke, jaal shikaarii kaa ) \- 2
+koras: haa.N jii haa.N jii haa.N jii baabaa 
+rafii: haa.N jii haa.N jii haa.N jii baabaa 
+%
+#endindian
+\endsong
+%

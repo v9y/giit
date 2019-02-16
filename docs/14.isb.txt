@@ -1,0 +1,56 @@
+% 
+\startsong
+\stitle{aa hamasafar, pyaar kii sej par, kuchh kahe.n kuchh sune.n}%
+\film{Yasmeen and Chatpattee}%
+\year{}%
+\starring{Smita Patil}%
+\singer{Lata, Kishore}%
+\music{Basu Manohari}%
+\lyrics{Yogesh}%
+% 
+% Contributor: Ashok <ADhareshwar@WorldBank.Org> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 01/17/1996
+% Credits: vimay@ix.netcom.com <MEHUL SHETH >
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments:  The song was used in both films
+%            Yasmeen, approx. 1973, and Chatpattee, 1982.
+%            Both films were produced by Navaratna films.
+%
+\printtitle
+#indian
+%
+la: aa aa aa
+ki: aa, hamasafar, pyaar kii sej par
+    kuchh kahe.n, kuchh sune.n
+    jaag ke raat bhar, hamasafar
+la: aa, hamasafar, pyaar kii sej par
+    kuchh kahe.n, kuchh sune.n
+    jaag ke raat bhar, aa hamasafar
+
+la: itanaa pyaar tuu sanam, laayaa hai kahaa.N se
+ki: itanaa ruup tuu sanam laaii hai jahaa.N se
+la: mai.n jo bhii huu.N vo hai, tere pyaar kaa asar
+ki: kahii.n lag na jaae tujh ko merii nazar
+    aa, hamasafar, pyaar kii sej par
+la: kuchh kahe.n, kuchh sune.n
+    jaag ke raat bhar, aa aa aa
+dono.n: aa hamasafar
+
+la: aao aaj mile.n, kuchh to kho ke paa le.n
+ki: aao aaj luT ke, kuchh to ham churaa le.n
+la: kahuu.N kyaa mai.n dil me.n, uTh rahii hai kyaa lahar
+ki: gale mujh se milake, ho jaa tuu bekhabar
+la: aa hamasafar, pyaar kii sej par
+ki: kuchh kahe.n, kuchh sune.n
+    jaag ke raat bhar, haa aa
+la: aa hamasafar
+ki: pyaar kii sej par
+la: kuchh kahe.n
+ki: kuchh sune.n
+dono.n: jaag ke raat bhar
+    aa hamasafar
+%
+#endindian
+\endsong
+%

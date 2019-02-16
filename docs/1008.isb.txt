@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kisii kii muskuraahaTo.n pe ho nisaar}%
+\film{Anaadi}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Venkat Gopalakrishnan (gopala@martin.cs.wisc.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kisii kii muskuraahaTo.n pe ho nisaar
+kisiikaa dard mil sake to le udhaar
+kisiike vaaste ho tere dil me.n pyaar
+jiinaa isii kaa naam hai
+kisii kii \threedots
+
+(maanaa apanii jeb se fakiir hai.n
+phir bhii yaaro.n dil ke ham amiir hai.n ) \- (2)
+miTe jo pyaar ke liye vo zindagii
+jale bahaar ke liye vo zindagii
+kisii ko ho na ho hame.n to aitabaar
+jiinaa isii kaa naam hai
+
+(rishtaa dil se dil ke aitabaar kaa 
+zindaa hai hamii.n se naam pyaar kaa ) \- (2)
+ke mar ke bhii kisii ko yaad aaye.nge
+kisii ke aa.Nsuo.n me.n muskuraaye.nge
+kahegaa phuul har kalii se baar baar
+jiinaa isii kaa naam hai
+%
+#endindian
+\endsong
+%

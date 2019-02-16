@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{teraa milanaa bahut achchhaa lage hai}%
+\film{Dillagee (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain}%
+\lyrics{Farhat Shahzad}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+teraa milanaa bahut achchhaa lage hai
+mujhe tuu mere dukh jaisaa lage hai
+
+chaman saaraa kahe hai phuul jisako
+mere aa.Nkho.n ko tujh cheharaa lage hai
+
+rago.n me.n terii Kwaahish bah rahii hai
+zamaane ko lahuu dil kaa lage hai
+
+har ik majabuur siine me.n mujhe to
+dha.Dakane waalaa dil apanaa lage hai
+
+safar kaisaa chunaa 'shahazaad' tuune
+har ek ma.nzil yahaa.N rastaa lage hai
+
+#endindian
+\endsong

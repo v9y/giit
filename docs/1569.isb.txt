@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{saaraa pyaar tumhaaraa, mai.n ne baa.Ndh liyaa hai aa.Nchal me.n}%
+\film{Anand Ashram}%
+\year{1977}%
+\starring{Uttam Kumar, Sharmila Tagore}%
+\singer{Kishore, Asha}%
+\music{Shyamal Mitra}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+saaraa pyaara tumhaaraa, maine baa.Ndha liyaa hai aa.Nchala me.n \- 2
+tere nae ruupa ki naI adaa, hama dekhaa kare.nge pala pala me.n \- 2
+saaraa pyaara tumhaaraa, maine baa.Ndha liyaa hai aa.Nchala me.n 
+
+(dekha ke terii suurata, miTa jaatii hai, eka hii pala me.n, 
+jiivana kii hara thakana
+mere sapano.n kii tuma muurata, tumako paakara, saphala huA hai, 
+meraa ye jiivana ) \- 2
+sapano.n kii tuma muurata
+ho, chamakii merii kismata kii rekhaa, ina nayano.n ke kaajala me.n \threedots
+saaraa pyaara tumhaaraa, maine baa.Ndha liyaa hai aa.Nchala me.n 
+
+(hama aura paasa aae.Nge, hame aura paasa koI laaegaa
+duniyaa ko nazara aae.Nge hama, jaba jaba vo muskaaegaa ) \- 2
+aaI aisii belaa, ika pala ko bhii, mujhe akelaa, 
+chho.Da naa denaa tuma
+aaI aisii belaa
+paasa hii rahanaa, kho mata jaanaa, duniyaa kii halachala me.n
+saaraa pyaara tumhaaraa, maine baa.Ndha liyaa hai aa.Nchala me.n 
+tere nae ruupa ki naI adaa, hama dekhaa kare.nge pala pala me.n 
+saaraa pyaara tumhaaraa, maine baa.Ndha liyaa hai aa.Nchala me.n \threedots
+%
+#endindian
+\endsong
+%

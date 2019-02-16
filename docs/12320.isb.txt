@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{maahii ve}%
+\film{Kaante}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sanjay Dutt, Sunil Shetty, Kumar Gaurav, Mahesh Manjarekar, Lucky Ali, Tabu, Malaika Arora}%
+\singer{Sukhvindar Singh, Richa Sharma}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+o maahii ve maahii ve maahii ve maahii ve maahii ve
+maahii ve muhabbataa.n sachchiyaa.N ne
+ma.ngadaa nasiibaa kuchh hor hai
+qismat de maare assii kii kari_e
+qismat de maare o assii kii kari_e qismat te kisakaa zor hai
+maahii ve maahii ve maahii ve maahii ve
+
+ik taraf ishq hai tanhaa tanhaa
+ik taraf husn hai rusavaa rusavaa
+dono.n bebas hu_e hai.n kuchh aise
+kare.n to kis se kare.n ham shikavaa
+maahii ve maahii ve shikaayataa.n sachchiyaa.N ne
+ma.ngadaa nasiibaa kuchh hor hai
+maahii ve muhabbataa.n \threedots
+
+dil na TuuTe Kudaa kaa ye ghar hai
+tere sajade me.n meraa ye sar hai
+maut se Dar nahii.n lagataa mujh ko
+sirf tum se judaa_ii kaa Dar hai
+maahii ve maahii ve ai miitaa.n sachchiyaa.N ne
+par ma.ngadaa nasiibaa kuchh hor hai
+o maahii ve muhabbataa.n \threedots
+%
+#endindian
+\endsong
+

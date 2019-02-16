@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tum aa gaye ho, nuur aa gayaa hai}%
+\film{Aandhi}%
+\year{}%
+\starring{Sanjeev Kumar, Raakhi}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kishor:	tum aa gae ho nuur aa gayaa hai    \- 2
+nahii.n to charaaGo.n se lau jaa rahii thii
+lataa:	jiine ki tumase vajah mil gaI hai
+ba.Dii bevajah zi.ndagii jaa rahii thii
+kishor:	tum aa gae ho nuur aa gayaa hai
+
+kishor:	kahaa.N se chale kahaa.N ke liye
+ye khabar nahii.n thii magar
+koi bhii siraa jahaa.N jaa milaa
+vahii.n tum miloge
+ke ham tak tumhaarii duaa aa rahii thii
+tum aa gaye ho nuur aa gayaa hai.n
+lataa:	 nahii.n to charaaGo.n se lau jaa rahii thii
+tum aa gae ho nuur aa gayaa hai.n
+
+lataa:	din Duubaa nahii.n raat Duubii nahii.n
+jaane kaisaa hai safar
+Kvaabo.n ke diye aa.Nkho.n me.n liye
+vahii.n aa rahe the
+jahaa.N se tumhaarii sadaa aa rahii thii
+tum aa gaye ho nuur aa gayaa hai.n
+nahii.n to charaago.n se lau jaa rahii thii
+%
+#endindian
+\endsong
+%

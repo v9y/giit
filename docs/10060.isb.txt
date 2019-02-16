@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mai.n lailaa lailaa chillaa_uu.ngaa kurtaa phaa.D ke}%
+\film{Anaadi No. 1}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Udit Narayan, Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##A B C D E F G## dil meraa aake lelo jii
+maine kab inkaar kiyaa hai khel pyaar kaa khelo jii
+##A B C D E F G## \threedots
+
+haa.n tuu la.Dakii hai vahii jo khvaabo.n me.n aatii thii kabhii kabhii
+tuu diivaanaa hai meraa ye pataa chalaa hai abhii abhii
+are pyaaraa pyaaraa ye mausam hai maze pyaar ke lelo jii
+##A B C D E F G## \threedots
+
+haay taubaa tere nain nashiile luT ga_e ham to kha.De kha.De
+jis aashiq ne pyaar kiyaa vo aashiq suulii cha.Dhe cha.Dhe
+marane se ab kyaa Daranaa mujhe baaho.n me.n tum lelo jii
+##A B C D E F G## \threedots
+%
+#endindian
+\endsong
+

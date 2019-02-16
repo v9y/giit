@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{zindagii ittafaaq hai}%
+\film{Aadmi Aur Insaan}%
+\year{1969}%
+\starring{Dharmendra, Saira Bano, Feroz Khan, Mumtaz, Ajit, Madan Puri}%
+\singer{Mahendra Kapoor, Asha/ Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11512 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+zindagii ittafaaq hai \-2
+kal bhii ittafaaq thii aaj bhii ittafaaq hai
+zindagii ittafaaq hai \threedots
+
+jaam paka.D ba.Dhaa ke haath maa.Ng du_aa ghaTe na raat
+jaan\-e\-vafaa terii qasam kahate hai.n dil kii baat ham
+Gar ko_ii mel ho sake aa.Nkho.n kaa khel ho sake
+apane ko Kushanasiib jaan vaqt ko meharabaan maan
+milate hai.n dil kabhii\-kabhii varanaa hai.n ajanabii sabhii
+mere hamadam mere meharabaa.N
+har Kushii ittafaaq hai \-2
+kal bhii ittafaaq thii \threedots
+
+husn hai aur shabaab hai zindagii qaamayaab hai
+bazm yuu.N hii khilii rahe apanii nazar milii rahe
+ra.ng yuu.N hii jamaa rahe vaqt yuu.N hii thamaa rahe
+saaz kii lay pe jhuum le zulf ke Kam ko chuum le
+mere ki_e se kuchh nahii.n tere ki_e se kuchh nahii.n
+mere hamadam mere meharabaa.N
+ye sabhii ittafaaq hai \-2
+kal bhii ittafaaq thii \threedots
+%
+#endindian
+\endsong
+

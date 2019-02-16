@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{khaalii haath shaam aayii hai}%
+\film{Ijaazat}%
+\year{}%
+\starring{Rekha, Naseeruddin Shah, Anuradha Patel}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+khaalii haath shaam aayii hai
+khaalii haath jaayegii
+aaj bhii na aayaa koii
+khaalii lauT jaayegii
+khaalii haath shaam aayii hai   \threedots
+
+aaj bhii na aaye aa.Nsuu
+aaj bhii na bhiige nainaa
+aaj bhii ye korii rainaa
+korii lauT jaayegii
+khaalii haath shaam aayii hai   \threedots
+
+raat kii siyaahii koii
+paaye to miTaaye naa
+aaj na miTaayaa to ye
+kal bhii lauT aayegii
+khaalii haath shaam aayii hai   \threedots
+
+%
+#endindian
+\endsong
+%

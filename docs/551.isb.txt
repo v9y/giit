@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{do roz me.n vo pyaar kaa aalam uja.D gayaa}%
+\film{Pyaar Ki Raahen}%
+\year{1959}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Mukesh}%
+\music{Kanu Ghosh}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu), Neha Desai
+%          Ashok Dhareshwar
+%
+\printtitle
+#indian
+%
+do roz me.n vo pyaar kaa aalam uja.D gayaa
+barabaad karane aayaa thaa barabaad kar gayaa
+do roz me.n
+
+bas itanii sii hai daastaa.n bachapan ke pyaar kii \-2
+do phuul khilate khilate hii gulashan uja.D gayaa
+gulashan uja.D gayaa
+do roz me.n \threedots
+
+leke sahaaraa yaad kaa kab tak koI jiye \- 2
+ai maut aa ke zindagii se dil hii bhar gayaa
+dil hii bhar gayaa
+do roz me.n \threedots
+
+siine me jab kisiike dha.Dakataa thaa dil meraa \- 2
+vo din kahaa.N gae vo zamaanaa kidhar gayaa
+zamaanaa kidhar gayaa
+do roz me.n \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tumhe.n yaad hogaa kabhii ham mile the}%
+\film{Satta Bazar}%
+\year{1959}%
+\starring{Meena Kumari, Balraj Sahni}%
+\singer{Hemant, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #??
+%
+\printtitle
+#indian
+%
+
+he: (tumhe.n yaad hogaa kabhii ham mile the ) \-2
+     muhabbat kii raaho.n me.n mil ke chale the
+la:  bhuulaa do muhabbat me.n ham tum mile the
+     sapanaa hii samajho ke mil ke chale the \threedots
+ 
+he: (Duubaa huu.N Gam kii gaharaa_iyo.n me .n
+     saharaa hai.n yaado.n kaa tanahaa_iyo.n me.n ) \-2
+     saharaa hai.n yaado.n kaa tanahaa_iyo.n me.n \threedots
+ 
+la: (kahii.n aur dil kii duniyaa basaa lo
+     qasam hai tumhe.n vo qasam to.D Daalo) \-2
+     qasam hai tumhe.n vo qasam to.D Daalo \threedots
+ 
+he: (na_ii dil kii duniyaa basaa na sakuu.Ngaa
+     jo bhuule ho tum vo bhulaa na sakuu.Ngaa) \-2
+     jo bhuule ho tum vo bhulaa na sakuu.Ngaa \threedots
+ 
+la: (agar zi.ndagii ho apanii hii bas me.n
+     tumhaarii qasam ham na bhuule.n vo qasame.n) \-2
+     tumhaarii qasam ham na bhuule.n vo qasame.n \threedots
+ 
+%
+#endindian
+\endsong
+%

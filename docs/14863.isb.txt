@@ -1,0 +1,24 @@
+% ITRANS SONG
+
+\startsong
+\stitle{insaa.N kii zi.ndagii hai}%
+\film{Jhoola}%
+\year{1962}%
+\starring{Vyjayantimala, Sunil Dutt, Pran, Sulochna, Rajendra Nath, Achla Sachdev}%
+\singer{Rafi}%
+\music{Salil Chowdhary}%
+\lyrics{Rajinder Krishan}%
+
+\printtitle
+#indian
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+insaa.N kii zi.ndagii hai
+duHkh\-sukh kaa ek jhuulaa
+a.njaam usakaa duHkh hai
+sukh me.n jo duHkh ko bhuulaa
+
+#endindian
+\endsong

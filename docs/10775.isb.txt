@@ -1,0 +1,27 @@
+%
+\startsong
+\stitle{dulhan ghar aa_ii}%
+\film{Chori Chori Chupke Chupke}%
+\year{2000}%
+\starring{Salman, Rani Mukherjii, Preity Zinta}%
+\singer{Jaspindar Narula, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dulhan ghar aa_ii dulhan ghar aa_ii
+naache bhraajii naache bhaabhii naache bharajaa_ii
+
+daravaaze pe tere baaraat leke aa_e
+Dolii me.n biThaa ke tujhe saath leke aa_e
+dulhan ghar aa_ii \threedots
+%
+#endindian
+\endsong
+

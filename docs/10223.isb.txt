@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{raat ko jii haay raat ko jii chamake.n taare.n}%
+\film{Aag}%
+\year{1948}%
+\starring{Raj Kapoor, Nargis, Kamini Kaushal, Nigar, Kamal Kapoor, Premnath}%
+\singer{Mukesh, Shamshad}%
+\music{Ram Ganguli}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11413 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+sha \:	raat ko jii haay raat ko jii chamake.n taare.n
+	dekh balam mohe a.Nkhiyaa.N maare jii mai.n mar ga_ii raamaa
+mu \:	raat ko jii haay raat ko jii chamake.n taare.n
+	pahaluu me.n dil meraa paa.Nv pasaare jii mai.n kaa karuu.N raamaa
+
+sha \:	raat ko jii haay raat ko jii bole papiharaa
+	dekh balam moraa Dole jiyaraa jii mai.n mar ga_ii raamaa
+mu \:	raat ko jii haay raat ko jii bole papiharaa
+	bhed khole teraa\-meraa meraa\-teraa jii mai.n kaa karuu.N raamaa
+
+sha \:	raat ko jii haay raat ko jii chamake chandaa
+	jaise balam tere pyaar kaa phandaa jii mai.n mar ga_ii raamaa
+mu \:	raat ko hii haay raat ko jii chamake chandaa
+	tere bin paa_e nahii.n chain yah bandaa jii mai.n kaa karuu.N raamaa
+
+sha \:	raat ko jii haay raat ko jii u.Date baadal
+	dekh balam moraa chho.D de aa.Nchal jii mai.n mar ga_ii raamaa
+mu \:	raat ko hii haay raat ko jii u.Date baadal
+	saath hamaare gorii chalo\-chalo jii mai.n kaa karuu.N raamaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{zid par ishq agar aa jaaye}%
+\film{Dilkash (Non-film)}%
+\year{2002}%
+\starring{}%
+\singer{Jasvinder Singh}%
+\music{Kuldip Singh}%
+\lyrics{Jigar Moradabadi}%
+% 
+% Audio on: Tips
+% Tags: 
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 19 May 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(kyaa husn ne samajhaa hai kyaa ishq ne jaanaa hai
+ham Kaakanashiino.n kii Thokar me.n zamaanaa hai)
+
+zid par ishq agar aa jaa_e
+paanii chhi.Dake aag lagaa_e
+
+shiishaa TuuTe Gul mach jaa_e
+dil TuuTe aavaaz na aa_e
+
+naGmaa vahii hai naGmaa ki jisako
+ruuh sune aur ruuh sunaa_e
+
+husn vahii hai husn jo zaalim
+haath lagaa_e haath na aa_e
+%
+#endindian
+\endsong

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ham tere bin kahii.n rah nahii.n paate ... haay pyaar kyaa chiiz hai}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Anuradha Paudwal, Manhar Udhas}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham tere bin kahii.n rah nahii.n paate tum nahii.n aate to ham mar jaate
+haay pyaar kyaa chiiz hai ye jaan nahii.n paate
+ham tere bin kahii.n \threedots
+
+u.De khushbuu kalii mahake ye rut badale bahaar aa_e
+muhabbat karane kii jaanam umr ek baar aa_e
+tumhe.n pyaar karane ko jii karataa hai ikaraar karane ko jii karataa hai
+tum nahii.n hote to dil na lagaate dil kii ta.Dap ham kisako bataate
+haay pyaar kyaa chiiz hai \threedots
+
+tum nahii.n hote to ham mar jaate
+
+bhulaaye se na bhuule.n mere dilabar terii baate.n
+terii yaado.n me.n guzarii.n ka_ii subah ka_ii raate.n
+tujhase duur jo kahii.n ham jaa_e.nge har gha.Dii ham tujhe yaad aa_e.nge
+terii in baato.n se ham ghabaraate taubaa tum hame.n kitanaa ta.Dapaate
+haay pyaar kyaa chiiz hai \threedots
+
+kabhii dekhuu.n jo mai.n darpaN cheharaa teraa nazar aaye
+jab jab letii huu.N mai.n saa.Nse.n terii khushbuu bikhar jaaye
+tere bin ab jiinaa mushkil hai mai.n dil huu.N teraa tuu meraa dil hai
+sarii umr to ham pachhataate raaz ko_ii jo tujhase chhupaate
+haay pyaar kyaa chiiz hai \threedots
+%
+#endindian
+\endsong
+

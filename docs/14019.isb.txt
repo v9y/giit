@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tak dhin dhin tak milate hii tujhe dil naach uThaa}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Anuradha Paudwal, Bela Mehta, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tak dhin dhin tak \-4
+milate hii tujhe dil naach uThaa
+tak dhin dhin tak \-2
+jiine kii tamannaa jaag uThii ho
+is dil me.n qayaamat ke din tak
+tak dhin dhin tak \-2
+milate hii tujhe \threedots
+
+aisaaa mausam to aayaa na thaa aisaa jaaduu to chhaayaa na thaa
+aisii haalat to pahale na thii \-2
+Kushiyaa.n jaag uThii.n man me.n ab na Gam hai jiivan me.n
+jii chaahe mai.n u.D jaa_uu.n ambar chhuu ke mai.n aa_uu.n
+o o jiine kii tamannaa \threedots
+
+duniyaa badalii sii lagane lagii so_ii dha.Dakan kyo.n jagane lagii
+ra.ng mausam badalane lagaa meraa dil bhii machalane lagaa
+sachchaa ho gayaa sapanaa mujhako mil gayaa apanaa
+aramaano.n kii bastii me.n ab rahanaa hai mastii me.n
+o jiine kii tamannaa \threedots
+%
+#endindian
+\endsong
+

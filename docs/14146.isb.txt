@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{uupar vaalaa dukhiyo.n kii naahii.n sunataa re}%
+\film{Saginaa}%
+\year{1974}%
+\starring{Dilip Kumar, Saira Banu, Aparna Sen,  Anil Chatterji, Om Prakash}%
+\singer{Kishor, Dilip Kumar}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10440 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	uupar vaalaa dukhiyo.n kii naahii.n sunataa re
+di \:	sotaa hai bahut jaagaa hai naa
+ki \:	uupar vaalaa dukhiyo.n kii naahii.n sunataa re
+	kaun hai jo usako gagan se utaare
+	ban\-ban\-ban mere jaisaa ban
+	is jiivan kaa yahii hai jatan saalaa yahii hai jatan
+
+di \:	are Gam kii aag bujhaanaa hai to hamase siikho yaar
+	aag lagii
+ki \:	aag lagii hamarii jhopa.Diyaa me.n ham gaave.n malhaar
+	dekh bhaa_ii kitane tamaashe kii zindagaanii hamaar
+
+	he bhole\-bhaale lalavaa khaa_e jaa roTii baasii
+di \:	are ye hii khaa ke javaan hogaa beTaa
+ki \:	bhole\-bhaale lalavaa khaa_e jaa roTii baasii
+	ba.Daa ho ke banegaa saaheb kaa chaparaasii
+	khel\-khel\-khel maaTii me.n holii khel
+	gaal me.n gulaal hai na zulfo.n me.n tel
+di \:	are apanii bhii javaanii kyaa hai sunaa tene yaar
+	aag lagii
+ki \:	aag lagii hamarii \threedots
+
+	he sajanii tuu kaahe aa_ii nagarii hamaarii
+di \:	chal jaa bhaag jaa bhaag
+ki \:	sajanii tuu kaahe aa_ii nagarii hamaarii
+	dhare saa bidesii baabuu bahiyaa.N tumhaarii
+	thaam\-thaam\-thaam gorii zaraa thaam
+	naahii.n luT jaa_egii raam kasam
+di \:	are kehuu.n naahii.n aa_egaa re sun ke pukaar
+	aag lagii
+ki \:	aag lagii hamarii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{kyaa mil gayaa haay kyaa kho gayaa}%
+\film{Sasural}%
+\year{1961}%
+\starring{Rajendra Kumar, B Saroja Devi, Mehmood, Lalita Pawar}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10911 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	( kyaa mil gayaa haay kyaa kho gayaa
+	mujhe mere baalam ye kyaa ho gayaa
+ra \:	ham kho ga_e haay tum kho ga_e
+	muhabbat kii raaho.n me.n dil kho gayaa ) \-2
+
+la \:	ye Kushiyo.n ke pyaale chhalakate rahe.nge
+	havaa_o.n ke aa.Nchal mahakate chale.nge
+ra \:	are na_e raaste Kud\-ba\-Kud khulate chale.nge
+	jidhar se ham\-tum bahakate chale.nge ho bahakate chale.nge
+la \:	kyaa mil gayaa \threedots
+ra \:	ham kho ga_e \threedots
+
+ra \:	jahaa.N se safar ye shuruu ho rahaa hai
+	na_e ik zamaane kii vo istidaa hai
+la \:	kahii.n hamako bhii tum bhulaa to na doge
+	dha.Dakataa hu_aa dil meraa puuchhataa hai ho dil meraa puuchhataa hai
+ra \:	ham kho ga_e \threedots
+la \:	kyaa mil gayaa \threedots
+
+la \:	har ek baat giito.n me.n Dhalane lagii hai
+	har ek aarazuu phir machalane lagii hai
+ra \:	ho tum apanii in aa.Nkho.n kaa jaaduu to dekho
+	ki duniyaa hii merii badalane lagii hai o badalane lagii hai
+la \:	kyaa mil gayaa \threedots
+ra \:	ham kho ga_e \threedots
+%
+#endindian
+\endsong
+

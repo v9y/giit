@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{muskuraataa huaa, gul khilaataa huaa meraa yaar}%
+\film{Lahu Ke Do Rang}%
+\year{1979}%
+\starring{Vinod Khanna, Shabana Azmi, Helen, Danny}%
+\singer{Kishore}%
+\music{Bappi Lahiri}%
+\lyrics{Farouq Qaiser}%
+%
+% Contributor: Rizwan Syed
+% Transliterator: K Vijay Kumar
+% Credits: Ikram Ahmed Khan, Arun Verma
+% Editor:
+%
+\printtitle
+#indian
+%
+muskuraataa huaa, gul khilaataa huaa meraa yaar
+meraa yaar, meraa yaar, meraa yaar
+aa.Nkhe.n malataa huaa, tan churaataa hyaa meraa yaar
+meraa yaar, meraa yaar, meraa yaar   \threedots
+
+gore gore mukh ko chuume.n hiire motii
+aisii sharaarat ham say bhii hotii
+dhiire se chuu luu.N mai.n gaalo.n ko
+chuumuu.n mai.n bhiige se baalo.n ko
+bolo na
+    - na na na na
+na na karataa huaa, jag se Darataa huaa meraa yaar
+meraa yaar meraa yaar meraa yaar   \threedots
+
+pyaarii pyaarii chhabi hai, adaa bholii bhaalii
+ab na lagaanaa ho.nTho.n pe laalii
+dil pe kyaa biite hai, jaano na
+itanaa saa kahanaa hai, maano na, maano na
+    - haa.N baabaa
+haa.N haa.N karataa huaa, par sa.Nvarataa huaa meraa yaar
+meraa yaar meraa yaar meraa yaar   \threedots
+
+khoye khoye nainaa dekhe.n meraa sapanaa
+pyaar mubaarak milaa koii apanaa
+chupake se baaho.n me.n aa jaanaa
+merii jaa.N ab to naa sharmaanaa, sharamaa_o na
+    - jaa jaa
+jaa jaa karataa huaa, dard sahataa huaa meraa yaar
+meraa yaar meraa yaar meraa yaar   \threedots
+
+%
+#endindian
+\endsong
+%

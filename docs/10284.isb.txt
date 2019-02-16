@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mai.n pyaar kaa diivaanaa sabase mujhe ulfat hai}%
+\film{Ayee Milan Ki Bela}%
+\year{1964}%
+\starring{Rajendra Kumar, Saira Bano, Dharmendra, Shashikala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10963 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mai.n pyaar kaa diivaanaa sabase mujhe ulfat hai
+har phuul meraa dil hai aur dil me.n muhabbat hai
+mai.n pyaar kaa diivaanaa \threedots
+
+ghabaraa ke Kizaa.N gujarii aur daur nayaa aayaa
+insaan ke jiivan me.n ik ra.ng nayaa laayaa
+( siine me.n na_ii halachal ) \-2 chehare pe bhii ra.ngat hai
+mai.n pyaar kaa diivaanaa \threedots
+
+sunataa huu.N mai.n laharo.n se sa.ngiit bahaaro.n ke
+dam lene ko rukataa huu.N saaye me.n chanaaro.n ke
+( kaa.NTe ho.n ki a.ngaare ) \-2 chalanaa merii aadat hai
+mai.n pyaar kaa diivaanaa \threedots
+
+tuu kyaa hai mujhe ek din mil jaa_e to mai.n jaanuu.N
+aur phuul mere dil kaa khil jaa_e to mai.n maanuu.N
+( jalavo.n kaa pujaarii huu.N ) \-2 diidaar kii hasarat hai
+mai.n pyaar kaa diivaanaa \threedots
+%
+#endindian
+\endsong
+

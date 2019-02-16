@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{terii shoK nazar kaa ishaaraa merii viiraan raato.n}%
+\film{Patang}%
+\year{1960}%
+\starring{Mala Sinha, Rajendra Kumar, Ulhas, Raj Mehra, Achala, Manorama}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10151 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	terii shoK nazar kaa ishaaraa
+	merii viiraan raato.n kaa taaraa \-2
+la \:	terii baa.Nho.n kaa jab hai sahaaraa
+	piyaa majhadhaar bhii hai kinaaraa \-2
+mu \:	terii shoK nazar kaa \threedots
+
+	nikale hai.n raahii mastii me.n Duube
+	ma.nzil kaa kyaa hai mile naa mile
+la \:	tum saath ho to qismat se apanii
+	shiqave kahaa.N ke kahaa.N ke gile
+mu \:	o jii o terii shoK nazar kaa \threedots
+
+la \:	ik Kvaab saa hai yaa hai kahaanii
+	kuchh hai yaqii.n kuchh yaqii.n bhii nahii.n
+mu \:	ham to yah jaane.n sach hai yaa sapanaa
+	jo tum nahii.n ho to ham bhii nahii.n
+la \:	o jii o terii baa.Nho.n kaa jab hai \threedots
+%
+#endindian
+\endsong
+

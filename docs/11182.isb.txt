@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{o mere sapano.n ke saudaagar mujhe aisii jagah le jaa_o}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o mere sapano.n ke saudaagar tujhako mujhase hai pyaar agar
+to chal mere sa.ng chal chal mere sa.ng aa aur mere sa.ng gaa
+
+o mere sapano.n ke saudaagar mujhe aisii jagah le jaa_o
+mai.n chaahatii huu.N mere hamasafar mujhe pariyo.n kii duniyaa dikhaa_o
+pyaar hii pyaar ho jis jagah mujhe aisii jagah dikhaa_o
+o mere sapano.n ke \threedots
+
+ye pariyo.n kii bastii sitaaro.n kaa majamaa
+yahaa.n guu.njataa hai muhabbat kaa naGmaa
+yahaa.n pyaar ke hai.n diivaane sabhii
+har ik taaraa ho in par vaaraa
+%
+#endindian
+\endsong
+

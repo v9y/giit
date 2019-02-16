@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{beqasii had se jab guzar jaa_e}%
+\film{Kalpanaa}%
+\year{1960}%
+\starring{Ashok Kumar, Padmini, Ragini}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #11457 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+beqasii had se jab guzar jaa_e
+ko_ii ai dil ji_e ki mar jaa_e
+
+zindagii se kaho dulahan ban ke \-2
+aaj to do gha.Dii sa.Nvar jaa_e
+ko_ii ai dil \threedots
+
+unako jii bhar ke dekh lene de \-2
+dil kii dha.Dakan zaraa Thahar jaa_e
+ko_ii ai dil \threedots
+
+ham hai.n apanii jaan ke dushman \-2
+kyo.n ye iljaam unake sar jaa_e
+ko_ii ai dil \threedots
+
+mere naGamo.n se unakaa dil na dukhe \-2
+Gam nahii.n mujhape jo guzar jaa_e
+ko_ii ai dil \threedots
+%
+#endindian
+\endsong
+

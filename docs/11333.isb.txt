@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{sajan salonaa maa.Ng lo jii ko_ii nikalaa hai duuj kaa chaa.Nd}%
+\film{Dooj Ka Chand}%
+\year{1964}%
+\starring{Ashok Kumar, Bharat Bhushan, B. Saroja Devi, Chandrashekhar}%
+\singer{Lata, Asha, Chorus}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12191 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+aa \:	ho o o
+ko \:	ho o o o
+aa \:	sajan salonaa maa.Ng lo jii ko_ii \-2
+	nikalaa hai duuj kaa chaa.Nd
+	( sakhii rii
+	aaj na kariyo laaj ) \-2
+
+	suno sabo rii (?)
+la \:	uu_ii maa.N
+aa \:	kaahe kii chorii
+la \:	uu_ii maa.N
+
+la \:	mohe niikii naahii.n laage aisii baat
+	sakhii chhe.Do naa
+	o mai.n na chaahuu.N kisii chhaliye kaa saath
+	sakhii chhe.Do naa
+aa \:	ahaa
+	tuu naa chaahe kisii miitawaa kaa saath rii kaisii
+	ke torii chham\-chham karatii paayal kyaa hai bolii
+	matawaaraa rasiyaa
+
+ko \:	suno sabo rii (?)
+la \:	uu_ii maa.N
+ko \:	kaahe kii chorii
+la \:	uu_ii maa.N
+ko \:	sajan salonaa maa.Ng lo jii ko_ii
+	nikalaa hai duuj kaa chaa.Nd
+	( sakhii rii
+	aaj na kariyo laaj ) \-2
+
+la \:	jaa ko bhaa_uu.N wahii maa.Nge moraa haath
+	mai.n to maa.Nguu.N naa
+	ba.Dii aa_ii hai ye duuj kii raat
+	mai.n to maa.Nguu.N naa
+aa \:	aa_ii
+	tuu naa maa.nge sakhii aaj kii raat rii sakhii
+	ke torii cham\-cham karatii bindiyaa maa.Nge ko_ii
+	matawaaraa rasiyaa
+
+ko \:	suno sabo rii (?)
+la \:	uu_ii maa.N
+ko \:	kaahe kii chorii
+la \:	uu_ii maa.N
+ko \:	sajan salonaa maa.Ng lo jii ko_ii
+	nikalaa hai duuj kaa chaa.Nd
+	( sakhii rii
+	aaj na kariyo laaj ) \-2
+%
+#endindian
+\endsong
+

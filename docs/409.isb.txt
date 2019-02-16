@@ -1,0 +1,88 @@
+%
+\startsong
+\stitle{chiin\-o\-arab hamaaraa, hindostaa.N hamaaraa}%
+\film{Phir Subah Hogi}%
+\starring{Raj Kapoor, Mala Sinha, Rehman}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (BISMIL@DELPHI.COM)
+%          Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Bismil@Delphi comments :-
+% This song is a very very clever take-off of Iqbal's Tarana-e-milli.
+% Just to show what a clever parody this is of Iqbal, the first verse of
+% Taraanaa-e-milli goes as follows:
+%
+% Chin-o-arab hamaara
+% hindostaan hamaara
+% muslim hai hum, vatan hai saara jahaan hamaara
+%
+% The real beauty of the first verse is that it turns around Iqbal's
+% arguably communal and national hymn into a cry of of the oppressed and
+% anguished that is neither communal nor chauvinist nor nationalist, but
+% internationalist. Parts are also recognizable as being borrowed from
+% Iqbal's hymn of INDIAN nationalism, "Taraana-e-Hind"
+% Some of the references are easily identifiable, especially to Indians
+% who know "saare jahaan se achha".
+%
+% e.g.  ae aab-e-rud-e-Ganga,
+%      voh din yaad hai tujhko
+%      utra tere kinaare jab kaarwaan hamaara?
+%
+% To which the parody goes "sarkon pe ghoomta hai ab kaarwaan hamaara"
+%
+% or the final line to "saare jahaan" which most people don't know, goes
+% as follows:  "iqbal, koyi mehrum apna nahin jahaan mein,
+%               ma'lum kya kisi ko, dard-e-nihaan hamaara"
+%
+% Here, of course, it is "milti nahin majoori, 
+%                        ma'lum kya kisi ko dard-e-nihaan hamaara"
+%
+% or, from taraana-e-milli, the line goes:
+%
+% - ae gulistaan-e-andalus, voh din yaad hai tujh ko
+%  tha teri daliyon mein jab aashiyaan hamaara?
+%
+% contrast that with "footpaath bambai ke hai aashiyaan hamaara"
+%
+% Overall, it seems that the song takes a somewhat dim view of the lofty
+% and grandiose nationalism of Iqbal by presenting some home-truths
+% about real present day life.
+% 
+chiin\-o\-arab hamaaraa, hindostaa.N hamaaraa
+rahane ko ghar nahii hai, saaraa jahaa.N hamaaraa
+chiin\-o\-arab hamaaraa \threedots
+
+kholii bhii chhin gaI hai, benche.n bhii chhin gaI hai.n
+sa.Dako.n pe ghuumataa hai ab kaaravaa.N hamaaraa
+jebe.n hai.n apanii khaalii, kyo.n detaa varanaa gaalii
+vo santarii hamaaraa, vo paasabaa.N hamaaraa
+chiin\-o\-arab hamaaraa \threedots
+
+jitanii bhii bilDi.nge.n thii.n, seTho.n ne baa.NT lii hai.n
+fuTapaath bamba_ii ke hai.n aashiyaa.N hamaaraa
+sone ko ham kalandar, aate hai.n borii bandar
+har ek kholii yahaa.N hai raazadaa.N hamaaraa
+chiin\-o\-arab hamaaraa \threedots
+
+tAliim hai adhuurii, milatii nahii majuurii
+maaluum kyaa kisIko, dard\-e\-nihaa.N hamaaraa
+chiin\-o\-arab hamaaraa \threedots
+
+patalaa hai haal\-e\-apanaa, lekin lahuu hai gaa.Dhaa
+phaulaad se banaa hai, har naujavaa.N hamaaraa
+mil\-julake is vatan ko, aisaa sajaaye.nge ham
+hairat se mu.Nh takegaa saaraa jahaa.N hamaaraa
+chiin\-o\-arab hamaaraa \threedots
+%
+#endindian
+\endsong
+%

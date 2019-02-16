@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ret par likh ke meraa naam miTaayaa na karo}%
+\film{Mehrab (Non-Film)}%
+\year{1994}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain/ Ghulam Ali}%
+\lyrics{Mohsin Naqvi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+ret par likh ke meraa naam miTaayaa na karo
+aa.Nkh sach bolatii hai.n pyaar chhupaayaa na karo
+
+log har baat kaa afasaanaa banaa lete hai.n
+sabako haalaat kii ruudaad sunaayaa na karo
+
+ye zuruurii nahii.n har shaKs masiihaa hii ho
+pyaar ke zaKm amaanat hai.n dikhaayaa na karo
+
+shahar\-e\-ehasaas me.n patharaav bahut hai.n 'mohasin'
+dil ko shiishe ke jharokho.n me.n sajaayaa na karo
+
+#endindian
+\endsong

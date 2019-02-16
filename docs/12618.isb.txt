@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{taaro.n bharii raat hai par tuu nahii.n}%
+\film{Kajal}%
+\year{1948}%
+\starring{Suraiya, Vasti, Jayant, Gop, Kukku}%
+\singer{Suraiya, Rafi}%
+\music{Gulam Mohammed}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #12568 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ra \:	taaro.n bharii raat hai par tuu nahii.n \-2
+	ye zi.ndagii kyaa hai \-2
+	tum kahii.n ham kahii.n
+	taaro.n bharii raat hai par tuu nahii.n
+
+su \:	( man kaa pa.nchhii bol uThaa hai
+	bol balam tere dil me.n kyaa hai bol balam ) \-2
+ra \:	mere dil kii baat na puuchho \-2
+	haay kahii.n lagataa nahii.n
+
+su \:	tum kahii.n ham kahii.n
+	taaro.n bharii raat hai par tuu nahii.n
+
+ra \:	( tho.Dii\-tho.Dii der me.n jii bhar\-bhar aaye hai
+su \:	apanii lagii ke sab jag gun gaaye hai ) \-2
+	mere dil kii baat to puuchho \-2
+ra \:	haay kahii.n lagataa nahii.n
+
+su \:	tum kahii.n ham kahii.n
+do \:	taaro.n bharii raat hai par tuu nahii.n
+	ye zi.ndagii kyaa hai \-2
+	tum kahii.n ham kahii.n
+	taaro.n bharii raat hai par tuu nahii.n
+%
+#endindian
+\endsong
+%
+

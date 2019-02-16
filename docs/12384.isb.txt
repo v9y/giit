@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ko_ii tujh se achchhii ... aa merii ##life## banaa de}%
+\film{Kahin Pyaar Na Ho Jaaye}%
+\year{2000}%
+\starring{Salman Khan, Rani Mukerji, Ravina Tondon, Jackie Shroff, Puuja Batra}%
+\singer{Sunita Rao, Kamaal Khan, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Rajesh Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paa ra rappaa
+ko_ii tujh se achchhii milegii nahii.n
+ko_ii tujh se kam bhii chalegii nahii.n
+dil ye tujh pe aa gayaa hai a.Nkhiyaa.n milaa de
+aa merii ##life## banaa de
+haa haa haa haa
+kar le kar le kar le pyaar kar le re
+
+merii zi.ndagaanii kaa to aaj ##test## hai
+paas ho gayaa to saarii ##life rest## hai
+dekhaa maine ##north east south west## hai
+tuu hii merii jaan\-e\-jaanaa.n sabase ##best## hai
+ko_ii tujh se achchhii paTegii nahii.n
+ko_ii tujh se kam bhii chalegii nahii.n
+ishq tujh se ho gayaa hai aashiqii sikhaa de
+aa merii ##life## \threedots
+
+tuune chhuu liyaa to dil me.n ##light## ho ga_ii
+merii dha.Dakane.n bhii sanam ##bright## ho ga_ii.n
+merii zi.ndagii to ##black## se ##white## ho ga_ii
+pahalii baar merii ##choice select## ho ga_ii
+ko_ii tujh se achchhaa paTegaa nahii.n
+ko_ii tujh se kam bhii chalegaa nahii.n
+mar miTii huu.n tujh pe mujhako jiinaa to sikhaa de
+aa merii ##life## \threedots
+%
+#endindian
+\endsong
+

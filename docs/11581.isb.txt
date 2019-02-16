@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{merii maa.N chi.ntaamanii meraa naam saudaamanii ... merii uu.nchii nahii.n diivaar}%
+\film{Ghar Sansaar}%
+\year{1986}%
+\starring{Jeetendra, Sridevi, Kader Khan, Shriram Laagoo, Ranjeet, Sulochana}%
+\singer{Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii maa.N chi.ntaamanii meraa naam saudaamanii \-2
+mai.n saalii amiir la.Dako.n kii
+bahanaa huu.N saare ka.Dako.n kii
+merii uu.nchii nahii.n diivaar cha.Dhake aa jaanaa
+merii maa.N chi.ntaamanii \threedots
+
+kalii ka.nvaarii kaa kahanaa bhii kyaa
+na_ii hai khushbuu nayaa mazaa
+jitanii puraanii hogii madiraa
+utanaa zyaadaa hogaa nashaa
+merii maa.N chi.ntaamanii \threedots
+
+mai.n ba.Dii tajurbekaar huu.N
+mai.n ras kii pahalii dhaar huu.N
+saat nambar kaa meraa makaan
+apanaa samajhe.n saare javaan
+merii maa.N chi.ntaamanii \threedots
+
+kamar patalii merii jaise chhallaa
+aashiq meraa saaraa muhallaa
+mai.n khilaa gulazaar huu.N
+mai.n na_ii bahaar huu.N
+merii maa.N chi.ntaamanii \threedots
+%
+#endindian
+\endsong
+

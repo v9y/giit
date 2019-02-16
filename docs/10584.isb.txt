@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye jiivan kitanii baar mile ... har baar mujhe teraa pyaar mile}%
+\film{Banjaaran}%
+\year{1991}%
+\starring{Rishi, Sridevi, Kulbhushan Kharbanda, Gulshan, Pran, Raza Murad}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye jiivan kitanii baar mile
+har baar mujhe teraa pyaar mile \-2
+kuchh vaado.n me.n kuchh kasamo.n me.n
+ba.ndhe hu_e hai.n janamo.n se
+ham kab bichhu.De kab yaar mile
+har baar mujhe teraa pyaar \threedots
+
+rab se maa.nguu.n ek du_aa
+ye duniyaa ho yaa vo duniyaa
+mujhako saajan kaa pyaar mile
+har baar mujhe teraa pyaar \threedots
+
+jiivan kii ko_ii dhaaraa ho
+nadiyaa kaa ko_ii kinaaraa ho
+is paar mile us paar mile
+har baar mujhe teraa pyaar \threedots
+%
+#endindian
+\endsong
+

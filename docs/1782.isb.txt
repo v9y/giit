@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{tum zi.ndagii ko Gam kaa fasaanaa banaa gaye}%
+\film{Dopatta}%
+\year{1952}%
+\starring{Ajay Kumar, Noorjehan}%
+\singer{Noorjehan}%
+\music{Firoz Nizami}%
+\lyrics{Mushir Kazmi}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@duke.cs.duke.edu>
+% Transliterator: Pavan Kumar Desikan <pkd@duke.cs.duke.edu>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+% Comments: Producer - Film Asia
+%
+\printtitle
+#indian
+%
+(tum zi.ndagii ko Gam kaa \threedots
+ tum zi.ndagii ko Gam kaa, fasaana banaa gaye
+ aa.Nkho.n me.n i.ntazaar kii duniyaa basaa gaye)   \- 2
+ 
+tum the kii mere pyaar kii duniyaa basii huI   \- 2
+o o, tum the kii zi.ndagii ke a.ndhere me.n roshanii
+tum kyaa gaye charaaG\-e\-mohabbat bujhaa gaye
+tum zi.ndagii ko Gam kaa \threedots
+tum zi.ndagii ko Gam kaa, fasaanaa banaa gaye
+aa.Nkho.n me.n i.ntazaar kii duniyaa basaa gaye
+ 
+duniyaa uja.D gayii mere sabr\-o\-karaar kii\-2
+o o, ro ro ke raat kaaTatii huu.N i.ntazaar kii
+jab chaa.Nd par nazar pa.Dii tum yaad aa gaye
+tum zi.ndagii ko Gam kaa \threedots
+tum zi.ndagii ko Gam kaa, fasaana banaa gaye
+aa.Nkho.n me.n i.ntazaar kii duniyaa basaa gaye
+%
+#endindian
+\endsong
+%
+

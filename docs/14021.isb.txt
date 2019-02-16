@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{rahane ko ghar nahii.n ... ab tak usii ne hai paalaa}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Kumar Sanu, Debashish, Zumaida Akhtar}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rahane ko ghar nahii.n sone ko bistar nahii.n
+apanaa Kudaa hai rakhavaalaa
+ab tak usii ne hai paalaa \-2
+
+apanii to zindagii kaTatii hai fuuTapaath pe
+uu.Nche uu.Nche ye mahal apane hai.n kis kaam ke
+hamako to maa.N baap ke jaisii lagatii hai sa.Dak
+ko_ii bhii apanaa nahii.n rishte hai.n bas naam ke
+apane jo saath hai ye a.Ndherii raat hai \-2
+apanaa nahii.n hai ujaalaa
+ab tak usii ne hai \threedots
+
+( ham jo mazaduur hai.n ) \-2 har Gam se duur hai.n
+mehanat kii roTiyaa.N mil\-jul ke khaate hai.n
+ham kabhii nii.nd kii goliyaa.N lete nahii.n
+rakh ke patthar pe sar thak ke so jaate hai.n
+tuufaa.N se jab ghire raaho.n me.n jab gire \-2
+hamako usii ne sambhaalaa
+ab tak usii ne hai \threedots
+
+ye kaisaa mulq hai ye kaisii riit hai
+yaad karate hai.n hame.n log kyuu.N marane ke baad
+a.ndhe baharo.n kii bastii chaaro.n taraf a.ndhere
+sab ke sab laachaar hai.n kaun sune kisakii fariyaad
+aise me.n jiinaa hai hamako to piinaa hai \-2
+jiivan zahar kaa hai pyaalaa
+ab tak usii ne hai \threedots
+%
+#endindian
+\endsong
+

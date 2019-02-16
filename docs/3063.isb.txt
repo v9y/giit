@@ -1,0 +1,68 @@
+% 
+\startsong 
+\stitle{dil meraa teraa diivaanaa}% 
+\film{Apni Izzat}% 
+\year{1952}%
+\starring{Motilal, Munavvar Sultana}% 
+\singer{Talat, Madhubala Jhaveri}% 
+\music{Hansraj Behl}% 
+\lyrics{Pt. Phani}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: Dec 09 2000
+% Credits: 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+ 
+m:
+dil meraa
+ 
+dil meraa teraa diivaanaa
+dil meraa
+ 
+dil meraa teraa diivaanaa
+bas itanaa meraa afasaanaa
+dil meraa
+ 
+t:
+tuu shamaa hai jalatii ulfat kii \-2
+mar miTataa ye paravaanaa hai \-2
+ye mastii kaa matavaalaa hai
+aur aa.Nkh terii paimaanaa hai
+dil meraa
+ 
+dil meraa teraa diivaanaa
+bas itanaa meraa afasaanaa
+dil meraa
+ 
+m:
+teraa dard bhii ek nishaanii hai \-2
+meraa dil bhii ek nishaanaa hai \-2
+dil teraa hai tuu meraa hai
+kyo.n jalataa dekh zamaanaa hai
+dil meraa
+ 
+dil meraa teraa diivaanaa
+bas itanaa meraa afasaanaa
+dil meraa
+ 
+t:
+tuu daulat husn\-o\-javaanii kii \-2
+ye dard kaa ek Kazaanaa hai \-2
+ye ro pa.Dataa hai ha.nsane se
+bas isakaa naam bahaanaa hai
+dil meraa
+ 
+m,t:
+dil meraa teraa diivaanaa
+bas itanaa meraa afasaanaa
+dil meraa
+ 
+% 
+#endindian 
+\endsong
+%

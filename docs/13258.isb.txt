@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{biit ga_ii hai aadhii raat chaa.Ndaniyaa dhiire\-dhiire}%
+\film{Naache Naagin Baaje Been}%
+\year{1960}%
+\starring{Kumkum, Chandrashekhar, K N Singh, Helen, Agha, Sundar, Ratna}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10143 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	( biit ga_ii hai aadhii raat ) \-2 chaa.Ndaniyaa dhiire\-dhiire aanaa \-2
+la \:	kaise kahuu.N mai.n dil kii baat jiyaa tere binaa hai diivaanaa \-2
+
+ra \:	pyaar meraa jaage zamaanaa soyaa\-soyaa
+	jhuume tere aage diivaanaa khoyaa\-khoyaa
+la \:	( chhiin lii tuune mu.Nh kii baat ) \-2 jiyaa tere binaa hai diivaanaa
+ra \:	biit ga_ii hai aadhii raat \threedots
+
+la \:	jalate hu_e taaro.n ke diiyo.n ko bujhaatii
+	aa_ii tere a.Nganaa me.n chhupatii chhupaatii
+ra \:	de ke mere haatho.n me.n haath chaa.Ndaniyaa dhiire\-dhiire aanaa
+la \:	kaise kahuu.N mai.n \threedots
+
+ra \:	aa ke mere dil se guzar mat jaanaa
+	kar to liyaa vaadaa muqar mat jaanaa
+la \:	( mai.n to rahuu.Ngii tere saath ) \-2 jiyaa tere binaa hai diivaanaa
+ra \:	biit ga_ii hai aadhii raat \threedots
+%
+#endindian
+\endsong
+

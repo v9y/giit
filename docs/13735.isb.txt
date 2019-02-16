@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{##road## ke har mo.D pe dekho to gaur se}%
+\film{Road}%
+\year{2002}%
+\starring{Vivek Oberoi, Manoj Bajpai, Antaraa mali}%
+\singer{Garry Lawyer, Tanisha}%
+\music{Sandesh Shandilya}%
+\lyrics{Tabish Romani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+##road## ke har mo.D pe dekho to gaur se
+kaatil raaste milate hai.n chaaro.n or se
+ik pal me.n kyaaa ho jaa_e sab hai.n bekhabar
+zi.ndagii aur maut bhii chalatii hai ##road## par
+##road## ke har mo.D pe \threedots
+
+lambii lambii raat hai miilo.n tanhaa_ii
+jahaa.N khatm ho raastaa vo subah naa aa_ii
+tham ga_e to miil ke patthar ##road## par
+chal diye to aasamaa.n jhukataa hai ##road## par
+##road## ke har mo.D pe \threedots
+
+kuchh khoyaa kuchh paayaa phir paa ke kho diyaa
+jo kuchh bhii honaa thaa ik pal me.n ho gayaa
+dhuul kii baarishe.n ye garam havaa_e.N
+aavaaraa paagal diivaane sab hai.n ##road## pe
+##road## ke har mo.D pe \threedots
+%
+#endindian
+\endsong
+

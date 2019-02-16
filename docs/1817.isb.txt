@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{tuu merii zi.ndagii hai, tuu merii har khushii hai}%
+\film{Aashiqui}%
+\year{}%
+\starring{Rahul Roy, Anu Agarwal}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer, Rani Mallik}%
+%
+% Contributor: satish subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ku: tU merI zindagI hai
+tU merI har khushI hai
+tU merI zindagI hai
+tU merI har khushI hai
+tUhI pyaar tUhI chaahat
+tUhI aashiqii hai
+tU merI zindagI hai
+tU merI har khushI hai
+
+pahalii muhabbat kaa ahasaas hai tU \- 2
+bujh ke bhii bujh na paaii, vo pyaas hai tU
+tUhI merI pahalii khvaahish
+tUhI aakhirii hai
+tU merI zindagI hai
+tU merI har khushI hai
+
+har zakhm dil kaa mere, dil se duaa de \- 2
+khushiyaa.n tujhe Gam saare, mujhako khudaa de
+tujhako bhulaa naa paayaa
+merI bebasii hai
+
+anu: o aa \threedots
+tU merI zindagI hai
+tU merI har khushI hai
+tU merI zindagI hai
+tU merI har khushI hai
+ham \threedots
+%
+#endindian
+\endsong
+%

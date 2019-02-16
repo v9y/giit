@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{sa.mbhal ke baiTho ... chaa.Nd hai taare bhii hai.n}%
+\film{Rooplekha}%
+\year{1962}%
+\starring{Mahipal, Vijaya Chaudhary, Sundar, Raj Adeeb, Shaam Kumar}%
+\singer{Rafi, Suman}%
+\music{Naushad}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: BOL ANAMOL #10649 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	sa.mbhal ke baiTho zaraa chhaa.Nv me.n bahaaro.n kii
+	kahii.n nazar na lage tumako chaa.Nd\-taaro.n kii
+
+	chaa.Nd hai taare bhii hai.n aur yah tanhaa_ii hai \-2
+	tumane kyaa dil ko jalaane kii qasam kha_ii hai
+	chaa.Nd hai taare bhii \threedots
+
+su \:	is tarah dard\-e\-mohabbat kaa na ikaraar karo \-2
+	ye to sarakaar mere pyaar kii rusavaa_ii hai
+ra \:	tumane kyaa dil ko \threedots
+su \:	chaa.Nd hai taare bhii \threedots
+
+ra \:	Dhal chukii raat ye aa.Nchal to haTaa do rukh se \-2
+	kisali_e chaa.Nd se chehare pe ghaTaa chhaa_ii hai
+
+su \:	pyaar bhii karataa hai shikave bhii kiyaa karataa hai \-2
+	saarii duniyaa se niraalaa meraa saudaa_ii hai
+ra \:	tumane kyaa dil ko \threedots
+su \:	chaa.Nd hai taare bhii \threedots
+%
+#endindian
+\endsong
+

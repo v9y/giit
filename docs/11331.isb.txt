@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{chaa.Nd takataa hai idhar aa_o kahii.n chhup jaa_e.N}%
+\film{Dooj Ka Chand}%
+\year{1964}%
+\starring{Ashok Kumar, Bharat Bhushan, B. Saroja Devi, Chandrashekhar}%
+\singer{Rafi, Suman}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10500 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	chaa.Nd takataa hai idhar aa_o kahii.n chhup jaa_e.N
+	kahii.n laage naa nazar aa_o kahii.n chhup jaa_e.N \-2
+
+ra \:	phuul shaaKo.n se jhuke jaate hai.n ho.nTho.n kii taraf
+	jho.nke bal khaa ke mu.De jaate hai.n zulfo.n kii taraf
+	chho.D kar inakii Dagar aa_o kahii.n chhup jaa_e.N
+	kahii.n laage naa nazar \threedots
+
+su \:	mai.n hii dekhuu.N sajan duujaa na dekhe tohe
+	kaa Kabar kaun sautaniyaa toraa man mohe
+	o dil pe Daalo na asar aa_o kahii.n chhup jaa_e.N
+	chaa.Nd takataa hai \threedots
+%
+#endindian
+\endsong
+

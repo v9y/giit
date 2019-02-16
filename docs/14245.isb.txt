@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{aa aa kaise samajhaa_uu.N ba.Dii naasamajh ho}%
+\film{Suraj}%
+\year{1966}%
+\starring{Rajendra Kumar, Vyjayantimala, Ajit}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11017 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	ek baar aatii hai rut aisii roz nahii.n
+	ke mujhako sambhaalo ko_ii mujhako hosh nahii.n
+
+aa \:	ek baar aatii hai rut aisii roz nahii.n
+	vo dil ko_ii dil nahii.n hai jisame.n josh nahii.n
+
+ra \:	ho ho ho
+	ye terii nain rekhaa rekhaa me.n Kud ko dekhaa
+	na puuchh dil kii haalat hai daur ye Kushii kaa \-2
+	o jhuum\-jhuum gaataa hai dil aisaa roz nahii.n
+	ke mujhako sambhaalo \threedots
+
+aa \:	ho ho ho
+	dil meraa Dole ye khaa_e hichakole
+	mai.n haay\-haay karuu.N ye bhed saaraa khole \-2
+	ho nainan baan chalaatii hai rut aisii roz nahii.n
+	vo dil ko_ii dil \threedots
+
+ra \:	ho ye dil Dagamagaa_e nazar la.Dakha.Daa_e
+	mai.n gir\-gir jaa_uu.N jab saamane tuu aa_e \-2
+	ho dil kii baat bataataa hai dil aisaa roz nahii.n
+	ke mujhako sambhaalo \threedots
+ko \:	mujhako hosh nahii.n
+
+aa \:	ho pyaar bharii sai.nyaa tuu Daal gale bahiyaa.N
+	Daal duu.Ngii tujh par mai.n palako.n kii chhai.nyaa
+	ho dil se dil milaatii hai rut aisii roz nahii.n
+	vo dil ko_ii dil \threedots
+ko \:	ek baar aataa hai din aisaa roz nahii.n
+	ke mujhako sambhaalo ko_ii mujhako hosh nahii.n
+%
+#endindian
+\endsong
+

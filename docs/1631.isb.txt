@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{siimaa siimaa siimaa sahane kii bhii hai koii siimaa}%
+\film{Salaakhen}%
+\year{1975}%
+\starring{Shashi Kapoor, Sulakshana Pandit, Mahmood}%
+\singer{Kishore, Asha}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+siimaa siimaa siimaa sahane kii bhii hai koii siimaa
+siimaa pe sipaahii baiThaa hai zaraa bol dhiimaa dhiimaa
+
+1) kuchh log yahaa.N par lete hai.n kaano.n kaa nazar se kaam
+naadaan tuu diivaano.n kii tarah kyU.N letaa hai meraa naam
+siimaa o siimaa o siimaa dhiiraj kii bhii hai koI siimaa
+behatar hai ki ham tum karavaa le.n ab chal kar apanaa biimaa
+siimaa \threedots
+
+2) tum sar se lekar paa.Nv talak lagatii ho mujhe ??? raat 
+a.njaan pe bhii zaraa rakhanaa nazar phir karanaa koI aaghaat
+siimaa siimaa siimaa chup rahane kii hai koI siimaa
+koi bhed agar khul jaae kahii.n to ban jaaegaa kiimaa,
+siimaa \threedots
+%
+#endindian
+\endsong
+%

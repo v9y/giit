@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{jaa_o chaahe.n dillii mumba_ii aagaraa ... nahii.n milegaa aisaa ghaagharaa}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Sunidhi Chauhan, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa o o
+jaa_o chaahe.n dillii mumba_ii aagaraa
+haa.N jaa_o chaahe.n dillii mumba_ii aagaraa
+he he he he
+nahii.n milegaa ghaagharaa
+haa.N jaa_o chaahe.n dillii mumba_ii aagaraa
+nahii.n milegaa aisaa ghaagharaa
+chaahe karaa lo muqaabalaa
+nahii.n milegaa aisaa ghaagharaa
+jaa_o chaahe.n \threedots
+
+mere ghaaghare me.n resham lagaa hai
+mere ghaaghare me.n sonaa ja.Daa hai
+mere ghaaghare me.n motii chhipaa hai
+mere ghaaghare me.n ghu.ngharuu sajaa hai
+biikaaner jaa_o jayapur jaa_o kolhaapur sholaapur jaa_o
+jaa_o barelii yaa daadaraa
+nahii.n milegaa aisaa ghaagharaa
+jaa_o chaahe.n \threedots
+
+aa_ii ghuum ke mai.n yuu\. pii\. bihaar
+laa_ii luuT ke mai.n naulakhaa haar
+mere ghaaghare ke aashiq hazaar
+denaa chaahe.n mujhako chaar minaar
+chainna_ii jaa_o yaa kalakattaa jaa_o
+deharaaduun masuurii jaa_o
+jaa_o keralaa yaa aa.ndhraa
+nahii.n milegaa aisaa ghaagharaa
+jaa_o chaahe.n \threedots
+%
+#endindian
+\endsong
+

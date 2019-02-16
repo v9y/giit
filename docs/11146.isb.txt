@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{gaa rahaa huu.N is mahafil me.n aapakii mohabbat hai}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+gaa rahaa huu.N is mahafil me.n aapakii mohabbat hai
+aaj huu.N mai.n jo kuchh bhii vo aapakii inaayat hai
+zindagii se kaisaa shiqavaa khud se hii shikaayat hai
+aaj huu.N mai.n jo kuchh \threedots
+
+pyaar kii vo saugaate.n kis tarah bhulaa duu.N mai.n
+aapakaa har ek aa.Nsuu palako.n pe uThaa luu.N mai.n
+aapake hii dam se to ye aaj merii shoharat hai
+aaj huu.N jo kuchh bhii \threedots
+
+kitane ra.ng hai.n jiivan ke ye ajab kahaanii hai
+kuchh mile to kuchh kho jaa_e riit ye puraanii hai
+kisako kyaa milaa yahaa.N sab apanii apanii qismat hai
+aaj huu.N jo kuchh bhii \threedots
+
+kaash phir ko_ii naGamaa is fizaa me.n laharaa_e
+duur se sahii lekin aapakii sadaa aa_e
+mere dil kii har dha.Dakan ab aapakii amaanat hai
+aaj huu.N jo kuchh bhii \threedots
+%
+#endindian
+\endsong
+

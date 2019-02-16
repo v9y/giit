@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{hamako tumase pyaar hai jiyaa bekaraar hai}%
+\film{Ishq}%
+\year{1997}%
+\starring{Aamir Khan, Ajay Devgan, Kajol, Juhi Chawala}%
+\singer{Annu Malik}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamako tumase pyaar hai jiyaa bekaraar hai
+aajaa merii bulabul teraa i.ntazaar hai
+
+tere bin o jaanam nii.nd bhii aatii nahii.n
+chain bhii aataa nahii.n jaan bhii jaatii nahii.n
+dil teraa biimaar hai ek sau tiin bukhaar hai
+aajaa merii lailaa teraa i.ntazaar hai
+hamako tumase pyaar hai \threedots
+
+la.Dakii hai hasiin tuu dikhane me.n namakiin tuu
+tere ha.Nsane se lage tabiiyat kii ra.ngiin tuu
+ba.ngalaa nadii ke paar hai ##honda## bhii taiyaar hai
+aajaa merii sonii teraa i.ntazaar hai
+hamako tumase pyaar hai \threedots
+%
+#endindian
+\endsong
+

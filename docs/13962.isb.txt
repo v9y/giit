@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{suno suno la.Dakiyo.n ... aa yippii yaa yuu}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Amit Kumar, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suno suno la.Dakiyo.n dekho zaraa pyaar se
+socho hai kyaa faayadaa aisii takaraar se
+piichhe piichhe aanaa nahii.n hame.n samajhaanaa nahii.n
+ham aa_e.nge na haath me.n ke ham hai.n titaliyaa.n
+aa yippii yaa yuu aa yippii yaa_e ye aa yippii yaa yuu aa haa
+suno suno la.Dakiyo.n \threedots
+
+merii jaa.n ai he ruko to ai he
+sharaarat kyuu.n tum karatii ho
+mujhe to ai he pataa hai ai he
+hasii.n ho mujhape maratii ho
+aa_o na aise kariib tum ke ham hai.n titaliyaa.n
+aa yippii yaa yuu \threedots
+
+ye maanaa ai he hasii.n ho ai he
+bhalaa kyuu.n aise aka.Datii ho
+nigaahe.n ai he milaa lo ai he
+ajii kyuu.n hamase la.Datii ho
+maanoge aise na baat jo to de.nge gaaliyaa.n
+aa yippii yaa yuu \threedots
+%
+#endindian
+\endsong
+

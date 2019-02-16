@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{sunate the naam ham jin kaa bahaar se}%
+\film{Aah}%
+\year{1953}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+sunate the naam ham jin kaa bahaar se
+dekhaa to Dolaa jiyaa jhuum jhuum ke
+
+chhupate rahe jo merii nazar se
+dil bole meraa tum hii to ho
+aa.Nkho.n se ra.ng mere dil ke uma.ng pe
+Daalaa to Dolaa jiyaa jhuum jhuum ke
+sunate the naam ham \threedots
+
+Thukaraa chuke the jin kii muhabbat
+kyo.n un pe diivaane hue
+ta.Dapaa ke pyaar ne jab ham ko pyaar se
+chhe.Daa to bolaa jiyaa jhuum jhuum ke
+sunate the naam ham \threedots
+
+pahale kahii.n ye dil na jhukaa thaa
+kyaa jaanuu.N ab kyaa ho gayaa
+jaao na aaj kal tum ham ko chho.D ke
+apanaa to Dolaa jiyaa jhuum jhuum ke
+sunate the naam ham \threedots
+
+%
+#endindian
+\endsong
+%

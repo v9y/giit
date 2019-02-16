@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ruup ye teraa jisane banaayaa vo}% 
+\film{Sanjog}%
+\year{}%
+\starring{Amitabh, Mala Sinha}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Arun Verma
+%          Ravi Subramanium
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ruup ye teraa jisane banaayaa vo
+kahii.n mil jaaye to haath chUm luu.n \- 2
+ra.ng ye teraa jisane sajaayaa vo
+kahii.n mil jaaye to haath chUm luu.n 
+ruup ye teraa
+
+kaarii kaarii ratiyaa se kaajal churaayaa
+terii pyaarii pyaarii a.Nkhiyo.n me.n lagaayaa
+aa ha ha haa haa, a ha haa haa, e he he
+mukh pe saveraa jisane sajAyaa vo
+kahii.n mil jaaye to haath chUm luu.n 
+ruup ye teraa
+
+sundar aisii koii kavitaa nahii.n hai
+cha.nchal aisii koii saritaa nahii.n hai
+aa ha ha haa haa, a ha haa haa, aa haa haa
+a.ng a.ng teraa jisane banaayaa vo
+kahii.n mil jaaye to haath chUm luu.n 
+ruup ye teraa
+
+goraa badan jaise shIshe kaa pyaalaa
+ban gayaa mai to bin piye matavaalaa
+e he he he he uh.n huu.N huu.N uhuu.N e he he
+haal ye meraa jisane banaayaa vo
+kahii.n mil jaaye to haath chUm luu.n 
+ruup ye teraa \threedots
+%
+#endindian
+\endsong
+%

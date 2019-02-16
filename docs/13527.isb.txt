@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tumase milakar naa jaane kyuu.n aur bhii kuchh yaad aataa hai}%
+\film{Pyaar Jhuktaa Nahin}%
+\year{1984}%
+\starring{Mithun Chakravarty, Padmini Kolhapuri}%
+\singer{Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumase milakar naa jaane kyuu.n aur bhii kuchh yaad aataa hai
+aaj kaa apanaa ye pyaar nahii.n hai janmo.n kaa ye naataa hai
+
+ai merii maa.N ek baar to ba.Dhake pyaar se apanii baaho.n me.n le le
+baraso.n se bachapan mamataa ko tarasaa aaj to terii god me.n khele
+kaise bataa_uu.n pyaar teraa kitanaa mujhe ta.Dapaataa hai
+tumase milakar naa jaane \threedots
+
+maa.N o maa.N  mai.n tere dil me.n huu.N ki nahii.n huu.N tuu to merii nas nas me.n basii hai
+tere dil kaa Tuka.Daa huu.N ai maa.N jaan sake to jaan le mujhako
+tere hii baag kaa phuul huu.N mai.n pahachaan sake to pahachaan le mujhako
+maa.N o maa.N tuu aatii hai jitanaa paas mere dil aur bhii khi.nchataa jaataa hai
+tumase milakar naa jaane \threedots
+%
+#endindian
+\endsong
+

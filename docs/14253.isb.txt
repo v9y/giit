@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{lo khaa lo maiDam khaanaa}%
+\film{Street Singer}%
+\year{1938}%
+\starring{K L Saigal, Kanan Devi, Jagdish, Vikram Kapoor, Subeer, Rekha}%
+\singer{Khemchand Prakash?, Female}%
+\music{R C Boral}%
+\lyrics{Arzo Lucknavi}%
+%
+% Contributor: BOL ANAMOL #11980 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+##male## \:	lo khaa lo maiDam khaanaa \-2
+	khaa lo maiDam khaanaa
+
+##female## \:	kyo.n itanii der lagaa_ii
+	hai jaan labo.n par aa_ii
+	( aur peT me.n u.D ga_ii dhuul
+	muye chanDuul
+	gadhe kii zuul ) \-2
+
+##male## \:	( mai.n lene gayaa thaa miThaa_ii
+	raste me.n Thokar khaa_ii ) \-2
+	aur choT dekho aa_ii \-2
+##female## \:	( chal jhuuThe muye harazaa_ii
+	ye sab bak\-bak hai fizuul \-2
+	muye mazuul
+	naamaakuul
+
+##male## \:	( kyo.n itanii ho jhallaatii
+	ye saalan hai ye chapaatii ) \-2
+##female## \:	( mujhako to nahii.n hai bhaatii
+	mai.n puurii\-kachorii khaatii
+	haa.N puurii\-kachorii khaatii
+	mujhako to nahii.n hai bhaatii
+	haa.N puurii\-kachorii khaatii \-2
+
+##male## \:	phir jaa_uu.N abhii phir jaa_uu.N 
+	tum Thaharo abhii le aa_uu.N
+##female## \:	kyaa bhuukh se mai.n mar jaa_uu.N
+	yaa kachchaa tujhe chabaa_uu.N
+	naamaakuul
+	gadhe kii zuul
+	muye chanDuul
+
+##male## \:	( ab der naa hogii bakhsho
+	tum bakhsho haa.N bakhsho ) \-2
+##female## \:	( kyaa cho.D duu.N yuu.N hii
+	tumako cho.D duu.N hii.n tujhako ) \-2
+
+##male## \:	bas taubaa bii jii taubaa
+##female## \:	pahale bhii kii thii taubaa
+##male## \:	are bas taubaa bii jii taubaa
+##female## \:	pahale bhii kii thii taubaa taubaa
+	uul\-jaluul
+	pilaa dii dhuul
+%
+#endindian
+\endsong
+

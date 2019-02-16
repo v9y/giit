@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{so jaa re so jaa mere raajdulaare so jaa}%
+\film{Kathputli}%
+\year{1957}%
+\starring{Balraj Sahni, Vaijyanti Mala}%
+\singer{Lata}%
+\music{Shanker-Jaikishan}%
+\lyrics{Hasrat Jaipuri}%
+% 
+% Audio on: CD
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 9 Dec 2004
+% Series: LATAnjali
+% Comments: A beautiful lori song
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+so jaa re so jaa mere raajdulaare so jaa
+taare bhii so gaye dharatii ke sitaare so jaa
+so jaa re so jaa\threedots
+
+aa_ii sapano.n kii parii tujhako bulaane ke liye\2
+la_ii cha.Ndaa kaa hin.nDolaa vo sulaane ke liye\2
+aasmaano.n se kare nii.nd ishaare so jaa
+taare bhii so gaye dharatii ke sitaare so jaa
+so jaa re so jaa
+
+god me.n le.ngii tujhe ruup nagar kii raahe.n\2
+aa.Nkh khulate hii mile.ngii tujhe maa.N kii baahe.n\2
+merii aa.Nkho.n ke mere dil ke sahaare so jaa
+taare bhii so gaye dharatii ke sitaare so jaa
+so jaa re\threedots
+
+
+
+%
+#endindian
+\endsong

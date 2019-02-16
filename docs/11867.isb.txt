@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{aapakaa sarakaar kyaa kuchh kho gayaa hai}%
+\film{Heraa Pheri}%
+\year{1976}%
+\starring{Amitabh Bachchan, Vinod Khanna, Saira Bano, Sulakshana Pundit}%
+\singer{Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11572 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aapakaa sarakaar kyaa kuchh kho gayaa hai
+ye achaanak aapako kyaa ho gayaa hai
+kuchh kahi_e chup na rahi_e
+kho_e\-kho_e se ho kisali_e
+aapakaa sarakaar \threedots
+
+lo gayaa vo gayaa ab use bhuuli_e
+zulf se haa.N kheli_e haa.N baa.Nho.n me.n jhuuli_e
+( dekhe naa ) \3 ko_ii aa.Nkho.n me.n aa aa jaa_i_e
+jaane na jaane ko_ii dil me.n samaa jaa_i_e
+aapakaa sarakaar \threedots
+
+aapako dekhakar dil par bijalii girii
+is qadar beruKii ye beruKii chho.Dakar
+aisaa milegaa naa dil duusaraa
+dil naa meraa to.Di_e
+aapakaa sarakaar \threedots
+%
+#endindian
+\endsong
+

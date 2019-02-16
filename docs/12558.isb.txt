@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{itane ba.De jahaa.n me.n ai dil tujhako akelaa}%
+\film{Kathputli}%
+\year{1957}%
+\starring{Balraj Sahni, Vyjanthimala, Agha}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10845 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+itane ba.De jahaa.n me.n ai dil tujhako akelaa chho.Duu.N kaise
+tuu naadaan log begaane in sa.ng naataa jo.Duu.N kaise
+
+mat jaa re mat jaa in anajaanii galiyo.n me.n
+bachiyo re duniyaa vaale chhaliyo.n se
+tuu ek jaan shikaarii laakho.n inakaa nishaanaa to.Duu.N kaise
+itane ba.De jahaa.n me.n \threedots
+
+mat lalachaa gar kaa.NTo.n me.n phuul bhii hai
+puuchh kisii se dil kaa lagaanaa bhuul bhii hai
+Dhal jaa_e raat bikhar jaa_e.N sapane phir se inhe.n mai.n jo.Duu.N kaise
+itane ba.De jahaa.n me.n \threedots
+
+haay na maanaa Gair kaa zaalim ho hii gayaa
+jaataa hai to jaa diivaane ab mai.n teraa jii jo.Duu.N kaise
+itane ba.De jahaa.n me.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jabase balam ghar aa_e}%
+\film{Aawaaraa}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis, K N Singh, Prithviraj Kapoor, Cuckoo}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10811 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+( jabase balam ghar aa_e
+jiyaraa machal\-machal jaa_e ) \-2
+
+o dil ne dil se kahaa thaa fasaanaa \-2
+lauT aayaa hai guzaraa zamaanaa
+Kushiyaa.N saath\-saath laa_e
+jiyaraa machal\-machal \threedots
+
+o laa ke aa.Nkho.n se dil me.n biThaa_uu.N \-2
+muskuraa ke sitaare luTaa_uu.N
+aashaa jhuum\-jhuum gaa_e
+jiyaraa machal\-machal \threedots
+
+o din hai.n apane mohabbar javaa.N hai
+unase aabaad dil kaa jahaa.N hai \-2
+man ke chor chale aa_e
+jiyaraa machal\-machal \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{tuu dharatii pe chaahe jahaa.n bhii rahegii ... hamako tumase pyaar hu_aa hai}%
+\film{Jeet}%
+\year{1996}%
+\starring{Sunny, Salman, Karisma, Amrish, Aloknath, Dalip Tahil, Mohan Joshi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu dharatii pe chaahe jahaa.n bhii rahegii
+tujhe terii khushbuu se pahachaan luu.ngaa
+agar ba.nd ho jaa_e.ngii merii aa.Nkhe.n
+tujhe dha.Dakano.n se pahachaan luu.ngaa
+hamako tumase pyaar hu_aa hai
+jiinaa dushvaar hu_aa hai
+
+tuu dharatii pe chaahe jahaa.n bhii rahegaa
+tujhe terii khushbuu se pahachaan luu.ngii
+%
+#endindian
+\endsong
+

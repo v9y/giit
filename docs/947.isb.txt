@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kahaa.N tak ye man ko a.ndhere chhale.nge}%
+\film{Baaton Baaton Mein}%
+\year{1979}%
+\starring{Amol Palekar, Tina Munim}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%	   Arun Verma (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kahaa.N tak ye man ko a.ndhere chhale.nge
+udaasii bhare din kahii.n to Dhale.nge
+
+kabhii sukh kabhii dukh, yahii zi.ndagii hai.n
+ye patajha.D kaa mausam gha.Dii do gha.Dii hai.n    (2)
+naye phuul kal phir Dagar me.n khile.nge
+udaasii bhare din kahii.n to Dhale.nge
+
+bhale tej kitanaa, havaa kaa ho jho.nkaa
+magar apane man me.n tuu rakh ye bharosaa    (2)
+jo bichha.De safar me.n tujhe phir mile.nge
+udaasii bhare din kahii.n to Dhale.nge
+
+kahe koI kuchh bhii, magar sach yahii hai
+lahar pyaar kii jo kahii.n uTh rahii hai   (2)
+use ek din to kinaare mile.nge
+udaasii bhare din kahii.n to Dhale.nge
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{raajuu kaa hai ek Kvaab raajuu raajaa saahab}%
+\film{Raja Saab}%
+\year{1969}%
+\starring{Shashi Kapoor, Nanda, Naaz}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11089 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+raajuu kaa hai ek Kvaab raajuu raajaa saahab
+raajuu kaa hai ek \threedots
+raaj hai naa taaj hai phir bhii mai.n huu.N raajaa saahab
+raajuu kaa hai ek \threedots
+
+mere ho.nTho.n pe jo hai.n dukh bharii kahaaniyaa.N
+mujhako inase pyaar hai ye hai.n merii raaniyaa.N
+are ye hai.n merii raaniyaa.N
+meraa bhii nahii.n javaab
+raajuu kaa hai ek \threedots
+
+mai.n raaho.n me.n hii sahii mai.n ma.nzil pe naa sahii
+achchhaa maanaa Thiik hai mere dil pe naa sahii
+are mere dil pe naa sahii
+mere Gam pe hai shabaab
+raajuu kaa hai ek \threedots
+
+merii mahafil me.n suno afasaane hai.n dard ke
+majabuurii kii mastiyaa.N paimaane hai.n dard ke
+are paimaane hai.n dard ke
+aa.Nsu_o.n kii hai sharaab
+raajuu kaa hai ek \threedots
+%
+% Part 2:
+%
+jinakii qismat me.n kaa.NTe vo Kvaab na dekhe.n kaliyo.n ke
+kaliyaa.N mahalo.n kii raunak aur kaa.NTe raahii galiyo.n ke
+raajuu kaa thaa ek Kvaab raajuu raajaa raajaa saahab \-2
+raaj thaa naa taaj thaa phir bhii mai.n thaa raajaa saahab
+raajuu kaa thaa ek \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{luuTe koii man kaa nagar ban ke meraa saathii}%
+\film{Abhimaan}%
+\year{1973}%
+\starring{Amitabh, Jaya, Asrani, Bindu, David, A K Hangal, Durga Khote}%
+\singer{Manhar, Lata}%
+\music{S D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K.G. (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+la:	luuTe koii man kaa nagar ban ke meraa saathii \- (2)
+ma:	kaun hai vo, apano.n me.n kabhii, aisaa kahii.n hotaa hai,
+	ye to ba.Daa dhokhaa hai
+la:	luuTe koii \threedots
+
+la:	(yahii.n pe kahii.n hai, mere man kaa chor 
+ma:	nazar pa.De to ba_iyaa.N duu.N maro.D ) \- (2)
+la:	jaane do, jaise tum pyaare ho,
+	vo bhii mujhe pyaaraa hai, jiine kaa sahaaraa hai
+ma:	dekho jii tumhaarii yahii batiyaa.N mujhako hai.n ta.Dapaatii.n
+la:	luuTe koii \threedots
+
+ma:	(rog mere jii kaa, mere dil kaa chain
+la:	saa.Nvalaa saa mukha.Daa, usape kaare nain ) \- (2)
+ma:	aise ko, roke ab kaun bhalaa,
+	dil se jo pyaarii hai, sajanii hamaarii hai
+la:	kaa karuu.N mai.n bin usake rah bhii nahii.n paatii
+la,ma:	luuTe koii \threedots
+%
+#endindian
+\endsong
+%

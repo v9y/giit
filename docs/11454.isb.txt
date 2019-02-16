@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{maalik mai.n puuchhataa huu.N ... bataa mujhe o jahaa.N ke maalik}%
+\film{Ek Sholaa}%
+\year{1958}%
+\starring{Pradeep Kumar, Mala Sinha, Nazir Husain, Javahar Kaul, Dhumal, Tuntun}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10566 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+maalik mai.n puuchhataa huu.N mujhe tuu javaab de
+bahate hai.n kyuu.N gariib ke aa.Nsuu javaab de
+
+bataa mujhe o jahaa.N ke maalik ye kyaa nazaare dikhaa rahaa hai
+tere samu.ndar me.n kyaa kamii thii ke aadamii ko rulaa rahaa hai
+bataa mujhe o \threedots
+
+kabhii ha.Nsaa_e kabhii rulaa_e ye khel kaisaa hai tuu bataa de
+jise banaayaa thaa apane haatho.n usii ko ab kyuu.N miTaa rahaa hai
+bataa mujhe o \threedots
+
+jo khud hii Gam se bujhaa\-bujhaa hai teraa phir isame.n kamaal kyaa hai
+ki ek diipak kii raah me.n tuu hazaaro.n tuufaa.N uThaa rahaa hai
+bataa mujhe o \threedots
+%
+#endindian
+\endsong
+

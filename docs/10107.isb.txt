@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tum kyaa jaano dil karataa tumase kitanaa pyaar}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum kyaa jaano dil karataa tumase kitanaa pyaar
+rahataa hai mujhako bas tumhaaraa i.ntazaar
+kaisaa hai ye diivaanaapan
+jab tak naa dekhuu.n tumako aa_e naa karaar
+lag jaa_o mere siine se yaar
+tum kyaa jaano \threedots
+
+pahale kabhii to dil meraa itanaa nahii.n thaa diivaanaa
+kyaa chiiz hai diivaanagii paa ke tujhe maine jaanaa
+tujhako dekhaa tujhako chaahaa teraa ho gayaa
+jaan\-e\-jaanaa.n mai.n tere khvaabo.n me.n kho gayaa
+aa chuum luu.n tujhe baar baar
+tum kyaa jaano \threedots
+
+uf kyaa samaa.n javaan hai aagosh me.n chaa.Ndanii hai
+bikharii hai jo yahaa.n vahaa.n vo pyaar kii roshanii hai
+hai tere hii dam se merii chaahat kaa jahaa.n
+tere jaisaa aashiq sabako milataa hai kahaa.n
+tujh pe sanam merii jaa.n nisaar
+tum kyaa jaano \threedots
+%
+#endindian
+\endsong
+

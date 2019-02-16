@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{jaa_egaa jab yahaa.N se kuchh bhii na paas hogaa}%
+\film{Moti Mahal}%
+\year{1952}%
+\starring{Suraiya, Ajeet, Satish, Veera, Jivan, Rupmala, Ratan Kumar}%
+\singer{Rafi, Madhubala Jhaveri}%
+\music{Hansraj Behl}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10211 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jaa_egaa jab yahaa.N se kuchh bhii na paas hogaa
+do gaz kafan kaa Tuka.Daa teraa libaas hogaa
+
+matalab kii hai ye duniyaa kyaa apane kyaa paraa_e
+ko_ii naa saath aayaa ko_ii naa saath jaa_e
+do din kii zindagii hai kar le jo dil me.n aa_e
+jaa_egaa jab yahaa.N se \threedots
+
+ye ThaaT\-baaT teraa ye aan\-baan terii
+rah jaa_egii yahii.n par ye saarii shaan terii
+itanii sii hai musaafir bas daastaan terii
+jaa_egaa jab yahaa.N se \threedots
+%
+#endindian
+\endsong
+

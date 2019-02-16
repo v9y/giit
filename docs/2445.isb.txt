@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{raat ke hamasafar, thak ke ghar ko chale}%
+\film{An Evening In Paris}%
+\year{1967}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+raat ke hamasafar, thak ke ghar ko chale
+jhuumatii aa rahii hai subah pyaar kii
+dekh kar saamane, ruup kii roshanii
+phir luTii jaa rahii hai subah pyaar kii
+
+raat ne pyaar ke jaam bhar kar diye
+aa.Nkho.n aa.Nkho.n se jo mai.n ne tumane piye
+hosh to ab talaq jaa ke lauTe nahii.n
+jaane kyaa laa rahii hai subah pyaar kii
+raat ke hamasafar   \threedots
+
+%
+#endindian
+\endsong
+%

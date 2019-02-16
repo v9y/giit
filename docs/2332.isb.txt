@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{hai tere saath merii vafaa mai.n nahii.n to kyaa}%
+\film{Hindustan Ki Qasam}%
+\year{1973}%
+\starring{Rajkumar, Priya Rajvansh, Vijay Anand}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+hai tere saath merii vafaa mai.n nahii.n to kyaa
+zi.ndaa rahegaa pyaar meraa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa   \threedots
+
+tere liye ujaalo.n kii koii kamii nahii.n
+sab terii roshanii hai, merii roshanii nahii.n
+koii nayaa chiraaG jalaa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa   \threedots
+
+kuchh dha.Dakano.n kaa zikr ho, kuchh dil kii baat ho
+mumakin hai isake baad, na din ho na raat ho
+mere liye na ashq bahaa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa   \threedots
+
+%
+#endindian
+\endsong
+%

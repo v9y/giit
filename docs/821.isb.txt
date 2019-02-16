@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{jab diip jale aanaa, jab shaam Dhale aanaa}%
+\film{Chitchor}%
+\year{1976}%
+\starring{Amol Palekar, Zarina Wahab, Dina Pathak, Vijayendra}%
+\singer{Yesudas, Hemlata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Raj Ganesan (raj@everest.tandem.com)
+%          KEDAR S NAPHADE (ksn2@lehigh.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Ravi Subramanyam (ravi.subramanyam@intelsat.int)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jab diip jale aanaa, jab shaam Dhale aanaa
+sandes milan kaa bhuul na jaanaa meraa pyaar naa bisaraanaa
+jab diip jale aanaa \threedots
+
+nit saa.njh savere milate hai.n
+unhe.n dekhake taare khilate hai.n
+lete hai.n vidaa ek duuje se kahate hai.n chale aanaa
+jab diip jale aanaa \threedots
+
+%    ni re ga, re ga,  pa ga re sa sa ni
+%    pa pa ma^, re (ga) , sa ni sa ga pa ma^ pa
+% where ma^ is the tiivra madhyam and (ga) is re ga pa re ga in one beat.
+nii re ga, re ga,  ma ga re sa sa nii
+pa pa ma, re ga, sa nii sa ga pa ma pa
+
+mai.n palakan Dagar buhaaruu.ngaa
+terii raah nihaaruu.ngaa
+merii priit kaa kaajal tum apane naino.n me.n male aanaa
+jab diip jale aanaa \threedots
+
+jahA.n pahalI baar mile the ham
+jis jagah se sa.ng chale the ham
+nadiyA ke kinAre aaj usI
+amavA ke tale aanaa
+jab diip jale aanaa \threedots
+%
+#endindian
+\endsong
+%

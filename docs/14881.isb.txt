@@ -1,0 +1,50 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaahe ko mohe chhere re be_imanawaa}%
+\film{Pukaar}%
+\year{1939}%
+\starring{Sohrab Modi, Chandramohan, Nasim Bano, Sheela, Sardar Akhtar}%
+\singer{Sardar Akhtar, Chorus}%
+\music{Mir Sahab}%
+\lyrics{Kamal Amrohi}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+sa \:	kaahe ko mohe chhere re be_imanawaa \-2
+	kaahe ko mohe chhere
+	chher ke mohe pachhata_iibe re
+	pachhata_iibe re \-2
+	be_imanawaa
+	kaahe ko mohe
+	
+% male voice
+
+\:	raajaa tumahii.n se haare
+	( naajaa tumahii se lagiyaa lagaay
+	inake jaat morii dhobaniyaa ) \-2
+	raajaa tumahii se
+
+	( cholii dhulawaa ke chho.Duu
+	chunarii ra.ngawaa ke chho.Duu ) \-2
+	a.ngiyaa ba.ndhawaa ke chho.Duu \-2
+	raajaa raajaa
+	tumahii se lagiyaa lagaay
+	inake jaat morii dhobaniyaa
+	raajaa tumahii se lagiyaa lagaay
+	inake jaat morii dhobaniyaa
+
+sa \:	galle tohe bhar da_ii.n mere
+	bhar da_ii.n mere \-2
+	mere ke mohe ghir ja_ibe re
+	ghir ja_ibe re
+	be_imanawaa
+	kaahe ko mohe chhere re be_imanawaa
+	kaahe ko mohe chhere
+
+#endindian
+\endsong

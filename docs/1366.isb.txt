@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{o jaane vaale mu.D ke zaraa dekhate jaanaa}%
+\film{Shree 420}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Kalra
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : This is the obverse of the fast and pacy mu.D mu.D ke na dekh
+\printtitle
+#indian
+% 
+## Slow: ## tumhe qasama hai merii
+	dila ko yuu.N naa ta.Dapaao
+	ye iltijaa hai ke
+	mu.Da mu.Da ke dekhate jaao
+	
+## Fast: ## o jaanevaale mu.Dake zaraa dekhate jaanaa
+	zaraa dekhate jaanaa
+	o jaanevaale mu.Dake zaraa dekhate jaanaa
+	zaraa dekhate jaanaa
+	dila to.D ke to chala diye mujhako naa bhulaanaa
+	zaraa dekhate jaanaa
+	
+	fariyaad kar rahI hai.n khaamosh nigaahe.n, khaamosh nigaahe.n \- 2
+	aa.Nsuu kii taraha aa.Nkh se mujhako naa giraanaa
+	zaraa dekhate jaanaa
+	o jaanevaale mu.Dake zaraa dekhate jaanaa
+	zaraa dekhate jaanaa
+
+	qismat ne kahaa.N aa kar merii baat bigaa.Dii, merii baat bigaa.Dii
+	ma.nzil pe aa ke luTaa mere dil kaa Kazaanaa
+	zaraa dekhate jaanaa
+	o jaanevaale mu.Dake zaraa dekhate jaanaa
+	zaraa dekhate jaanaa
+
+%
+#endindian
+\endsong
+%

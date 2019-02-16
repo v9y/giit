@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kuchh log mohabbat karake ho jaate hai.n barabaad}%
+\film{Laavaa}%
+\year{1985}%
+\starring{Asha Parekh, Dimple Kapadia, Raj Babbar, Rajiv Kapur, Kulbhushan Kharbanda}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10781 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+kuchh log mohabbat karake ho jaate hai.n barabaad
+kuchh log mohabbat karake kar dete hai.n barabaad
+kis naam se yaad kare.nge ham tujhako aaj ke baad
+
+is khudagarzii ko dekar ik majabuurii kaa naam
+ulfat ke naam ko tuune kar Daalaa hai badanaam
+uupar se bhole pa.nchhii tum andar se saiyyaad
+kuchh log mohabbat \threedots
+
+ik roz kahaa thaa tumane hamako apanaa mahabuub
+mahabuub badalane kaa ye a.ndaaz bahut hai Kuub
+is baat pe ham Kush ho kar dete hai.n mubaarakabaad
+kuchh log mohabbat \threedots
+
+chup rahe zubaan\-e\-kha.nzar chhupataa nahii.n ye ilzaam
+letaa hai lahuu kaa qataraa\-qataraa qaatil kaa naam
+kyaa chain se jiine degii tumako merii fariyaad
+kuchh log mohabbat \threedots
+%
+#endindian
+\endsong
+

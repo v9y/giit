@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{terii yaad aanaa dil se jaanaa aisaa lagataa hai kyaa yahii pyaar hai}%
+\film{Mehboob Mere Mehboob}%
+\year{1992}%
+\starring{Pratibha Sinha, Boy Mukherjee, Aloknath, Beena, Ishita, Gulshan}%
+\singer{Anuradha Paudwal, Vipin}%
+\music{Ram Laxman}%
+\lyrics{Noor Qaskar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii yaad aanaa dil se jaanaa aisaa lagataa hai
+kyaa yahii pyaar hai
+
+kabhii kabhii rotaa kabhii muskuraataa aisaa lagataa hai
+kyaa yahii pyaar hai
+
+Tha.nDii havaa_o.n kaa jho.nkaa jo aa_e
+lagataa hai duur se tuu mujhako bulaa_e
+in sard raato.n kii tanahaa_iiyo.n me.n
+terii saa.Ns meraa tan gudagudaa_e
+karavaTe.n badalanaa nii.nd na aanaa aisaa lagataa hai
+kyaa yahii pyaar hai \threedots
+
+kabhii dil ta.Dapaataa kabhii dil dha.Dakaataa
+nas nas bijalii sii laharaa_e.n mere
+Thaharaa hu_aa hai jaise zamaanaa aisaa lagataa hai
+kyaa yahii pyaar hai \threedots
+
+benuur lagatii hai saarii Kudaa_ii
+sahii nahii.n jaatii terii judaa_ii
+kahake diivaanaa ha.Nsataa zamaanaa
+ha.Nsatii hai mujhase merii parachhaa_ii
+tab gunagunaa_e.n teraa hii taraanaa aisaa lagataa hai
+kyaa yahii pyaar hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{##hello## aa_ii mai.n ... sunate ho naa maine kahaa}%
+\film{Yugpurush}%
+\year{1998}%
+\starring{Nana Patekar, Jackie, Manisha, Ashwini, Mohan Joshi, Mohnish}%
+\singer{}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##hello hello hello## aa_ii mai.n aa_ii mai.n aa_ii
+ek do minaT kii baat hai zaraa
+
+dekhii jhalak jisane merii jhapakii palak dil mil gayaa
+kisane dekhaa badan meraa sanasanaane lagaa
+chuTakii bhar le dil se dil tak jhanajhanaane lagaa
+yahaa.n par mujhase chhe.D kare ko_ii aisaa bhii ko_ii hai yahaa.n
+sunate ho naa maine kahaa maine kahaa sunate ho naa
+##hello## aa_ii mai.n \threedots
+
+ye naa samajho huu.N mai.n akelii ko_ii naa aagee piichhe
+mai.n huu.N aafat so_ii qayaamat mere kadam ke niiche
+ye qayaamat jisane jagaa_ii diivaanaa ho jaa_egaa
+sunate ho naa maine kahaa \threedots
+
+taubaa ye kaisii pyaar kii mahafil sabako hai apanii pa.Dii
+haal kisii kaa ko_ii naa puuchhe vaah re milan kii ye gha.Dii
+pyaar sabakaa hai adhuuraa puuraa nahii.n ko_ii kyaa
+sunate ho naa maine kahaa \threedots
+%
+#endindian
+\endsong
+

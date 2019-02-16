@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{ye meraa dil yaar kaa diivaanaa}%
+\film{Don}%
+\year{1977}% 
+\starring{Amitabh Bachchan, Zeenat, Helen}%
+\singer{Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Nita
+% Transliterator: Nita
+% Date: 15th April, 2000
+% Credits: 
+% Editor: 
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+
+laa laa laa~
+
+ye meraa dil yaar kaa diivaanaa
+diivaanaa \- 2 pyaar kaa paravaanaa
+aataa hai mujhako pyaar me.n jal jaanaa
+mushkil hai pyaare teraa bach ke jaanaa
+ye meraa dil yaar kaa diivaanaa \- 2
+
+(dil vo chaahe jise chaahe jise use paaye
+pyaar vo yaar ke jo naam pe hii miT jaaye) \- 2
+jaan ke badale me.n jaan luu.N nazaraanaa
+ye meraa dil yaar kaa diivaanaa \- 2
+
+pal pal ik hal\-chal dil me.n ik tuufaa.N hai
+aane ko hai vo ma.nzil jisakaa mujhe aramaa.N hai
+bhuulegaa naa tujhe dil kaa ye Takaraanaa
+ye meraa dil yaar kaa diivaanaa \- 2
+
+%
+#endindian
+\endsong
+%

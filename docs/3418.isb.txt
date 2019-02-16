@@ -1,0 +1,46 @@
+% ITRANS SONG # 3418; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)
+% Date: 2002-03-08 15:59:54 PST 
+%
+\startsong
+\stitle{mere cha.nchal nainaa madhu ras ke bhare }%
+\film{Angulimal}%
+\year{1960}%
+\starring{Bharat Bhushan, Nimmi, Anita Guha}%
+\singer{Meena Kapoor, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Comments:In the second antara Meena K. sounds very much like Asha
+%
+\printtitle
+#indian
+%
+mk:mere cha.nchal nainaa, madhu ras ke bhare
+mere cha.nchal nainaa
+karo priit karo priit, koii apanaa lo miit
+bole man kii mainaa
+chorus:o cha.nchal nai.naa, madhu ras ke bhare mere cha.nchal nainaa
+
+mk:(o dhalakaa vo chalakaa re palako.n me.n pyaar
+kare rah rah ke vaar, kaajal kaa si.ngaar
+chorus:kare rah rah ke vaar, kaajal kaa singaar)\-2
+mk:(kaale baalo.n me.n simTii saavan kii ghaTaa, leke kaalii rainaa)\-2
+chorus:o cha.nchal nainaa, madhu ras ke bhare mere cha.nchal nainaa
+
+mk:(baaje runjhun madhur madhur ka.nganaa
+aaye aanevaale aaj hamaare a.nganaa)\-2
+(madhu cha.nd ana.nd me.n hoke maga.n, naache sapane chara.n)\-2
+(giito.n me.n machalakar guunj uThii, man kii bainaa)\-2
+chorus:o cha.nchal nainaa
+mk:madhu ras ke bhare, mere cha.nchal nainaa
+karo priit karo priit, koii apanaa lo miit
+bole man kii mainaa
+chorus:o cha.nchal nainaa, madhu ras ke bhare mere cha.nchal nainaa
+%
+#endindian
+\endsong
+%

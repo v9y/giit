@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jis galii me.n teraa ghar na ho baalamaa}%
+\film{Kati Patang}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Mukesh}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jis galii me.n teraa ghar na ho baalamaa
+us galii se hame to guzaranaa nahii.n
+jo Dagar tere dvaare se jaatii na ho
+us Dagar par hame paa.nv rakhanaa nahii.n
+
+zi.ndagii me.n ka_ii ra.ngaraliyaa.N sahii
+har taraf muskuraatii ye galiyaa.N sahii
+khuubasuurat bahaaro.n kii kaliyaa.N sahii
+jis chaman me.n tere pag me.n kaaTe.n chubhe
+us chaman se hame.n phuul chunanaa nahii.n
+jis galii me.n teraa ghar na ho baalamaa \threedots
+
+aa ye rasame.n ye kasame.n sabhii to.D ke
+tuu chalii aa chunar pyaar kii o.Dh ke
+yaa chalaa jaaU.ngaa mai.n ye jag chho.D ke
+jis jagah yaad terii sataane lage
+us jagah ek pal bhii Thaharanaa nahii.n
+jis galii me.n teraa ghar na ho baalamaa \threedots
+%
+#endindian
+\endsong
+%

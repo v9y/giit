@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{kah do ki tum ho merii varanaa ... yahii adaa to ek sitam hai}%
+\film{Tezaab}%
+\year{1988}%
+\starring{Anil Kapoor, Madhuri Dixit}%
+\singer{Anuradha Paudwal, Amit Kumar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kah do ki tum ho merii varanaa
+jiinaa nahii.n mujhe hai maranaa
+dekho kabhii naa aisaa karanaa
+yahii adaa to ek sitam hai
+suno tumhe.n merii kasam hai
+kah do ki tum ho merii \threedots
+
+tum aaj mujhase ek vaadaa kar lo
+phir naa ko_ii sharaarat karoge
+jitanii mohabbat mai.n karatii huu.N tumase
+mujhase tum utanii mohabbat karoge
+yahii adaa to ek sitam \threedots
+
+kal dil dukhaayaa thaa maine tumhaaraa
+is baat kaa aaj tak mujhako Gam hai
+ye soch kar maaf kar denaa mujhako
+merii ye pahalii mohabbat hai jaanam
+yahii adaa to ek sitam \threedots
+
+shikave gile yuu.n sab hai.n kal kii kahaanii
+ab zi.ndagii bhar khafaa ham naa ho.nge
+ab mai.n tumhaaraa huu.N aur bas tumhaaraa
+mar jaa_uu.n bhii to judaa ham naa ho.nge
+ab khafaa ham naa ho.nge bevafaa ham naa ho.nge
+yahii adaa to ek sitam \threedots
+%
+#endindian
+\endsong
+

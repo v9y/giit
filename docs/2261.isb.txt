@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{aaj kii raat aaj kii raat chaa.Ndanii a.ng me.n aag lagaaye}%
+\film{Kavi Kalidas}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy, Anita Guha}%
+\singer{Usha, Sabita Banerjee}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Surajit Bose
+%
+\printtitle
+#indian
+%
+sa: jise banaayaa khevanahaaraa, vahii aaj kar gayaa kinaaraa
+    apanaa banaake aaj kisiine luuT liyaa re bhaagya hamaaraa
+
+    aaj kii raat aaj kii raat
+    chaa.Ndanii a.ng me.n aag lagaaye
+    chakorii jhar jhar niir bahaaye
+    aaj meraa chandaa nahii.n hai saath
+    aaj kii raat   \threedots
+
+u:  aa~ aa ha haa aa ha haa
+    aa ha haa
+    aaj kii raat aaj kii raat
+    magan man mand mand muskaaye
+    chakorii man me.n khil khil jaaye
+    aaj meraa chandaa hai mere saath
+    aaj kii raat   \threedots
+
+sa: basantii Rut nayano me.n aaj kii paavas ban ke chhaa_ii hai
+    niraalii ye puunam kii raat amaavas ban ke aayii hai
+    kise nayanan kaa niir dikhaa_uu.N
+    kise mai.n man kii piir bataa_uu.N
+    aaj meraa chandaa nahii.n hai saath
+    aaj kii raat   \threedots
+
+u:  aaj kyo.n bajate sananan chhun
+    mere paa.Nv kii ye paayal
+    nayan me.n kaun samaayaa re
+    bikharane lagaa meraa kaajal
+    aaj mai.n giit priit ke gaa_uu.N
+    kabhii sharamaa_uu.N, kabhii musakaa_uu.N
+    aaj meraa chandaa hai mere saath
+    aaj kii raat \threedots
+
+%
+#endindian
+\endsong
+%

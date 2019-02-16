@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{pyaar dete nahii.n naa do chalo jhi.Dakii hii sahii}%
+\film{Laal Baadshaah}%
+\year{1999}%
+\starring{Amitabh, Manisha, Shilpa Shetty, Shakti, Amrish, Mohan Joshi}%
+\singer{Sudesh Bhonsale}%
+\music{Aadesh Srivastava}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aapakii is nazaakat pe hamako ek sher yaad aa gayaa
+sun liiji_egaa to achchhaa hogaa
+ki jaan merii ruuTh mat aashiq huu.N tere pyaar kaa
+apane is naazuk labo.n kaa chho.D de gussaa
+bahut ab dil dukhaa_ii ho chukii
+aa_o lag jaa_o gale ab la.Daa_ii ho chukii
+dhinaa dhin dhinak dhinaa dhinaa dhin dhinaa
+
+pyaar dete nahii.n naa do chalo jhi.Dakii hii sahii
+nahii.n daravaazaa jo khul sakataa to khi.Dakii hii sahii
+pyaar dete nahii.n naa do \threedots
+
+mujhako in jhiil sii aa.Nkho.n me.n Duub jaane de
+mere mahabuub zaraa mujhako paas aane de
+chaa.Nd puuraa naa dikhaa chaa.Nd kii jhalakii hii sahii
+nahii.n daravaazaa jo \threedots
+
+apane dil pe merii jaan meraa tuu pataa likh le
+apane ruumaal pe tuu laal baadashaah likh le
+merii is raay pe taalii naa de chuTakii hii sahii
+nahii.n daravaazaa jo \threedots
+
+tere dil pe hai merii jaan meraa haq de de
+kab mai.n baaraat le ke aa_uu.n bekhaTak kah de
+mai.n bhii jaldii me.n nahii.n soch le kal kii hii sahii
+nahii.n daravaazaa jo \threedots
+
+ek muddat se tujhe dil me.n chhupaa rakhaa hai
+khuun se laal baadashaah likhaa rakhaa hai
+mere a.ndaaz pe taalii naa de chuTakii hii sahii
+nahii.n daravaazaa jo \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{kisakaa mahal hai kisakaa ye ghar hai}%
+\film{Prem Nagar}%
+\year{1974}%
+\starring{Hema Malini, Rajesh Khanna}%
+\singer{Kishor, Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10439 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	kisakaa mahal hai kisakaa ye ghar hai
+	lagataa hai ye ko_ii sapanaa o sajanaa
+ki \:	kisakaa mahal hai kisakaa ye ghar hai
+	premanagar hai ye apanaa o rachanaa
+la \:	kisakaa mahal hai \threedots
+
+ki \:	jaan\-e\-man jaan\-e\-jaa.N
+la \:	mai.n kahaa.N tum kahaa.N
+	merii nazar hairaan hai
+	ye aapakaa ehasaan hai
+ki \:	maine maine banaayaa tumane sajaayaa
+	premanagar hai ye apanaa o rachanaa
+la \:	o sajanaa
+	kisakaa mahal hai \threedots
+
+la \:	kyaa kahuu.N kyaa nahii.n
+	taaj saa hai ye hasii.n \-2
+ki \:	taaj mahal to viiraan hai
+	is mahal me.n to mehamaan hai
+la \:	mujhako mujhako yaqii.n hai
+	ye sach nahii.n hai
+	lagataa hai ye ko_ii sapanaa
+ki \:	o rachanaa
+do \:	kisakaa mahal hai \threedots
+%
+#endindian
+\endsong
+

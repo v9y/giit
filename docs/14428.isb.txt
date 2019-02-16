@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mai.n terii mohabbat me.n ... mujhe aisaa lagataa hai tujhe kaisaa lagataa hai}%
+\film{Tridev}%
+\year{1989}%
+\starring{Naseeruddin, Sunny, Jackie, Madhuri, Sonam, Sangeeta Anupam, Amrish}%
+\singer{Sadhana Sargam, Mohammed Aziz}%
+\music{Kalyanji Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n terii mohabbat me.n paagal ho jaa_uu.ngaa
+mujhe aisaa lagataa hai tujhe kaisaa lagataa hai
+ho o o mai.n terii nigaaho.n se ghaayal ho jaa_uu.ngii
+mujhe aisaa lagataa hai tujhe kaisaa lagataa hai
+
+kuchh din se mai.n TuuTaa TuuTaa rahataa huu.N
+apane dil se se ruuThaa ruuThaa rahataa huu.N
+kuchh din se mai.n kho_ii kho_ii rahatii huu.N
+kuchh din se mai.n TuuTaa TuuTaa rahataa huu.N
+jaaguu.n bhii to so_ii so_ii rahatii huu.N
+diivaanii aaj nahii.n to kal ho jaa_uu.ngii
+mai.n terii nigaaho.n se \threedots
+
+jii chaahe terii aa.Nkho.n me.n kho jaa_uu.n
+aaj abhii is vaqt mai.n terii ho jaa_uu.n
+kab tak aakhir ham milane ko tarase.nge
+kab saavan aa_egaa kab baadal barase.nge
+tuu mast pavan ban jaa mai.n baadal ban jaa_uu.ngaa
+mai.n terii mohabbat me.n \threedots
+
+tujh bin lab par ko_ii naam nahii.n aataa
+dil ko ta.Dape binaa aaraam nahii.n aataa
+dono.n taraf lagii hai aag baraabar ye
+rakh degii bas hamako raakh banaakar ye
+tuu bhii jal jaa_egii mai.n bhii jal jaa_uu.ngaa
+mai.n terii mohabbat me.n \threedots
+%
+#endindian
+\endsong
+

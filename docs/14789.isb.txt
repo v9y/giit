@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chuu.Dii mai.n laayaa anamol re}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Mumtaz Ali, Sunita Devi}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+mu \:	( chuu.Dii mai.n laayaa anamol re
+su \:		le lo chu.Diyaa.N le lo) \ -2
+
+mu \:	chu.Diyaa.N kyaa hai.n resham ke lachchhe ??
+su \:	chaaho na bole.n achchhe\-achchhe ??
+mu \:	( aavo kar lo mol re
+su \:		le lo chu.Diyaa.N le lo) \ -2
+
+mu \:	maal meraa anamol
+su \:	nahii.n jokhuu.N hai nahii.n jaal
+mu \:	gar lenaa ho to bol
+su \:	lo chu.Diyaa.N le lo mol
+
+mu \:	hai maal meraa anamol
+su \:	nahii.n jokhuu.N hai nahii.n jaal
+mu \:	gar lenaa ho to bol
+su \:	lo chu.Diyaa.N le lo mol
+
+su \:	pahane suhaagine piyaa rijhaave.n
+mu \:	ku.Nwaarii pahane.n byaah rachaave.n
+
+ko: \:	( pyaar kaa duujaa bol re
+mu \:	maal meraa anamol re ) \-2
+su \:		le lo chu.Diyaa.N le lo
+
+su \:	gore\-gore haatho.n me.n kaalii\-kaalii chuu.Diyaa.N
+mu \:	hai.n kaalii\-kaalii chuu.Diyaa.N ye gore\-gore haatho.n par
+	ye hai.n kaalii\-kaalii chuu.Diyaa.N ye gore\-gore haatho.n par
+	ke zulf khaa rahii bal hai kisii ke shaano.n pe \-2
+su \:	gore\-gore haatho.n me.n kaalii\-kaalii chuu.Diyaa.N
+mu \:	jubh waalaa ra.ng niraalaa juban waalaa manariyaa
+
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{giit gaataa huu.N mai.n gunagunaataa huu.N mai.n}%
+\film{Laal Pathhar}%
+\year{}%
+\starring{Raj Kumar, Hema Malini, Rakhee, Vinod Mehra}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+
+giit gaataa huu.N mai.n gunagunaataa huu.N mai.n
+mai.n ne ha.Nsane kaa vaadaa kiyaa thaa kabhii
+isaliye ab sadaa muskuraataa huu.N mai.n
+
+ye muhabbat ke pal kitane anamol hai.n
+kitane phuulo.n se naazuk mere bol hai.n
+sab ko phuulo.n kii maalaa pahanaataa huu.N mai.n
+muskuraataa huu.N mai.n
+giit gaataa huu.N mai.n \threedots
+
+roshanii hogii itanii kise thii khabar
+mere man kaa ye darpaN gayaa hai nikhar
+saaf hai ab ye darpaN dikhaataa huu.N mai.n
+muskuraataa huu.N mai.n
+giit gaataa huu.N mai.n \threedots
+
+%
+#endindian
+\endsong
+%

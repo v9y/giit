@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{aao aao jaan-e-jahaa.N}%
+\film{Gomti Ke Kinaare}%
+\year{1972}%
+\starring{Meena Kumari, Mumtaz, Sameer, Rehman}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shalini Razdan
+% Transliterator:
+% Credits:
+% Comments: GEETanjali series. A masterpiece.
+%
+\printtitle
+#indian
+%
+
+koras:
+ruu ruu ruurururuu
+
+kishor:
+ajii aap log bhii gaaiye naa
+
+koras ##(louder)##:
+ruu ruu ruurururuu
+
+aashaa:
+kyaa jaano tum bin thii kyaa dil ko beqaraarii
+mahafil kii, mahafil kii diivaanii sii tumhaarii
+chain aayaa jab dekhii ye suurat pyaarii pyaarii
+aao, aao jaan\-e\-jahaa.N aao, aao jaan\-e\-jahaa.N
+dil ne Dhuu.NDhaa tujhe kahaa.N kahaa.N
+
+kishor:
+aao ham bhii aae hai.n baaho.n ke haar leke
+ho.nTho.n pe ek naGamaa aa.Nkho.N me.n pyaar leke
+is dil ke shiishe me.n tasaviir\-e\-yaar leke
+aao, aao jaan\-e\-jahaa.N 
+dil ne Dhuu.NDhaa tujhe kahaa.N kahaa.N
+aao, aao jaan\-e\-jahaa.N
+
+aashaa:
+ulfat hai yaa kyaa hai kuchh kam hai dil kii ulajhan
+pahale thii khoyii sii ab cha.nchal hai ye chitavan
+tum chhuu lo kuchh aise laharaaye meraa tan\-man
+
+dono.n:
+aao, aao jaan\-e\-jahaa.N
+dil ne Dhuu.NDhaa tujhe kahaa.N kahaa.N
+aao, aao jaan\-e\-jahaa.N
+
+%
+#endindian
+\endsong
+%

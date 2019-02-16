@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{vaqt kaaTe nahii.n kaTataa hai tere binaa mere saajan}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vaqt kaaTe nahii.n kaTataa hai tere binaa mere saajan
+kaash ye ho ke tuu aa jaa_e biit na jaa_e saavan
+
+dekhatii huu.N terii raah raat din aa bhii jaa mere dil ke qaraar
+mar na jaa_uu.n ta.Dap ke kahii.n yuu.n na kar tuu mujhe bekaraar
+vaqt kaaTe nahii.n \threedots
+
+buu.nd paanii kii tal pe gire uThe man me.n ko_ii halachal
+aise saavan kaa ko_ii kyaa kare jo jii ko jalaa_e har pal
+vaqt kaaTe nahii.n \threedots
+%
+#endindian
+\endsong
+

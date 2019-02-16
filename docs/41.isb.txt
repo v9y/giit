@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{aage bhii jaane na tuu}%
+\film{Waqt}%
+\starring{Balraj Sahni, Sadhana, Sunil Dutt, Raj Kumar}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/01/1996
+%
+\printtitle
+#indian
+%
+aage bhii jaane na tuu, piichhe bhii jaane na tuu
+jo bhii hai, bas yahii ek pal hai
+ 
+anjaane saayo.n kaa raaho.n me.n Deraa hai
+andekhii baaho.n ne ham sabako gheraa hai
+ye pal ujaalaa hai baaqii a.ndheraa hai
+ye pal ga.Nvaanaa na ye pal hii teraa hai
+jiinevaale soch le yahii vaqt hai kar le puurii aarazuu
+aage bhii \threedots
+ 
+is pal kii jalavo.n ne mahafil sa.nvaarii hai
+is pal kii garmii ne dha.Dakan ubhaarii hai
+is pal ke hone se duniyaa hamaarii hai
+ye pal jo dekho to sadiyo.n pe vaari hai
+jiinevaale soch le yahii vaqt hai kar le puurii aarazuu
+aage bhii \threedots
+ 
+is pal ke saae me.n apanaa Thikaanaa hai
+is pal kii aage kii har shay fasaanaa hai
+kal kisane dekhaa hai kal kisane jaanaa hai
+is pal se paaegaa jo tujhako paanaa hai
+jiinevaale soch le yahii vaqt hai kar le puurii aarazuu
+aage bhii \threedots
+%
+#endindian
+\endsong
+%
+

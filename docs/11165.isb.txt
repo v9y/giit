@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ab tiir chale talavaar chale maine dhar lii kalaa_ii yaar kii}%
+\film{Daulat Ki Jung}%
+\year{1991}%
+\starring{Aamir, Juhi, Kiran Kumar, Paresh, Dalip, Shafi, Tiku Talsaniya, Kader}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ab tiir chale talavaar chale maine dhar lii kalaa_ii yaar kii
+
+aaj tak rahii jisake bas me.n to.D dii.n vo saarii zulmii rasme.n
+sa.ng rahane kii khaa_ii.n jab kasame.n gale mil mil ke kasam aa khaa
+ab hamako zaraa aa jaa_e mazaa
+ab tiir chale \threedots
+
+chaahe saathii ruuTh jaa_e maine Daal dii.n bahiyaa.n pyaar kii
+maine dhar lii kalaa_ii yaar kii
+ab hamako zaraa roke to ko_ii aa jaa_e mazaa roke to ko_ii
+ab tiir chale \threedots
+%
+#endindian
+\endsong
+

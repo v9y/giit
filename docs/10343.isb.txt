@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{cha.Dhe chandaa to tum bhii chale aanaa}%
+\film{Aplam Chaplam}%
+\year{1961}%
+\starring{I S Jauhar, Kumkum, Majanu, W M Khan, Jivan, Tabassum, Tuntun}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10103 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	cha.Dhe chandaa to tum bhii chale aanaa sajan tumhe.n pyaar kii qasam
+mu \:	jahaa.N bolo diivaanaa chalaa aa_e ki dil\-e\-beqaraar kii qasam
+
+	tere hii dam se to phuulo.n pe nikhaar hai
+	tuu hai agar to Kizaa_o.n me.n bahaar hai
+la \:	ulfat kii raaho.n me.n mahakii fizaa_o.n me.n
+	aa jaanaa chupake se jhuumake balam
+	cha.Dhe chandaa to tum \threedots
+
+la \:	aajaa mai.n baiThii huu.N sapane sajaa ke
+	rakhuu.Ngii dil me.n tujhako biThaa ke
+mu \:	jab tak ye taare hai.n ham to tumhaare hai.n
+	tujhape luTaa de.nge jaan bhii sanam
+	jahaa.N bolo diivaanaa chalaa \threedots
+
+mu \:	dil jo diyaa hai to kyaa paradaa jahaan se
+la \:	miTanaa hii hai to miTe.nge ba.Dii shaan se
+mu \:	hogaa jo honaa hai
+la \:	kaahe kaa ronaa hai
+mu \:	ha.Ns ke hii sahane hai.n pyaar ke sitam
+la \:	cha.Dhe chandaa to tum \threedots
+%
+#endindian
+\endsong
+

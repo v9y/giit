@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{sapano.n ke shahar, ham banaaye.nge ghar}%
+\film{Ahsaas}%
+\year{}%
+\starring{Parvez, Deena, Rakesh Bedi, Kaajal Kiran}%
+\singer{Kishore}%
+\music{Bappi Lahiri}%
+\lyrics{Ravindra Peepat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          (shahd@woods.ulowell.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+sapano.n ke shahar,  ham banaaye.nge ghar
+pal bhar me.n, ye banaa, ye giraa
+
+chaa.Ndii kaa ra.ng, hiire kaa ruup, ghar par mere, sone kii dhuup
+kal tak jo thaa, hogaa na kal, dil kaa meraa shiish mahal,
+kho gayii, roshanii
+sapano.n ke shahar,  ham banaaye.nge ghar \threedots
+
+ghar ko banaa, dar ko sajaa, kisake liye mai.n hu.N kha.Daa
+tum bekhabar,  mai.n huu.N magar, tanahaa pa.Daa, patthar ke ghar
+tum nahii.n, kuchh nahii.n
+sapano.n ke shahar,  ham banaaye.nge ghar \threedots
+
+kyo.N ho judaa, mujhase khafaa, aa jaao tum, na do sazaa
+mausam ha.nse, gulashan ha.nse, ghar par mere, aa.ngan ha.nse
+ro rahaa, dil meraa
+sapano.n ke shahar,  ham banaaye.nge ghar \threedots
+%
+#endindian
+\endsong
+%
+

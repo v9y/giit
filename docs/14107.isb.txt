@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{zindagii mujhako dikhaa de raastaa}%
+\film{Saanjh Aur Savera}%
+\year{1964}%
+\starring{Meena Kumari, Guru Dutt, Mehmood, Shubha Khote}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10972 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+zindagii mujhako dikhaa de raastaa \-2
+tujhako merii hasarato.n kaa vaastaa \-2
+zindagii mujhako dikhaa \threedots
+
+bojh Gam kaa chalaa jaataa nahii.n
+bebasii kaa dukh sahaa jaataa nahii.n
+saaraa aalam ajanabii hai kyaa karuu.N \-2
+ulajhano.n me.n kuchh nazar aataa nahii.n
+o zindagii mujhako dikhaa \threedots
+
+mayakadaa jaa_uu.N merii aadat nahii.n
+haath phailaanaa merii fitarat nahii.n
+ab chalaa huu.N to ma.nzil paa_uu.Ngaa \-2
+mai.n nahii.n yaa ab merii qismat nahii.n
+o zindagii mujhako dikhaa \threedots
+%
+#endindian
+\endsong
+

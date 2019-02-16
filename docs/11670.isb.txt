@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye hawaa ye fizaa hai udaas jaise meraa dil aa bhii jaa}%
+\film{Gumrah}%
+\year{1963}%
+\starring{Ashok Kumar, Sunil Dutt, Mala Sinha}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12083 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com
+%
+\printtitle
+#indian
+%
+o ho ho
+o ho ho o ho o ho
+o ho ho ho
+o ho ho o ho ho ho ho ho
+o ho ho ho ho ho
+o ho ho
+
+ye hawaa ye hawaa ye hawaa
+ye fizaa ye fizaa ye fizaa
+hai udaas jaise meraa dil meraa dil meraa dil
+aa bhii jaa aa bhii jaa aa bhii jaa \-2
+
+aa ke ab to chaa.Ndanii bhii zard ho chalii ho chalii ho chalii
+dha.Dakano.n kii narm aa.Nch sard ho chalii ho chalii ho chalii
+Dhal chalii hai raat aa ke mil aa ke mil aa ke mil
+aa bhii jaa aa bhii jaa aa bhii jaa \-2
+
+raah me.n bichhii hu_ii hai merii har nazar har nazar har nazar
+mai.n ta.Dap rahaa huu.N aur tuu hai beKabar beKabar beKabar
+ruk rahii hai saa.Ns aa ke mil aa ke mil aa ke mil
+aa bhii jaa aa bhii jaa aa bhii jaa \-2
+
+o ho ho
+o ho ho o ho o ho
+o ho ho ho
+o ho o ho ho ho ho ho ho
+o ho ho ho ho ho
+o ho ho
+%
+#endindian
+\endsong

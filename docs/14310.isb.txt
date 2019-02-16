@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dil le gayaa jii ko_ii}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Shamshad}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12539 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	dil le gayaa jii ko_ii dil le gayaa dil le gayaa \-2
+	( jaate\-jaate miiThaa\-miiThaa Gam de gayaa
+	ko_ii dil le gayaa jii ko_ii dil le gayaa ) \-2
+	dil le gayaa jii ko_ii dil le gayaa dil le gayaa
+
+	pyaar kii galii me.n mile do dilawaale \-2
+sha \:	raajaa gayaa raanii kha.Dii dil ko sambhaale dil ko sambhaale
+	puuchhatii hai yaad mujhe kaun de gayaa kaun de gayaa
+	hoy
+	puuchhatii hai yaad mujhe kaun de gayaa kaun de gayaa
+su \:	jaate\-jaate miiThaa\-miiThaa Gam de gayaa
+	ko_ii dil le gayaa jii ko_ii dil le gayaa
+	dil le gayaa jii ko_ii dil le gayaa dil le gayaa
+
+sha \:	maar ga_ii tumhe.n pahalii nazar \-2
+	jaa_o
+	jaa_o jaa ke thaane me.n de do Kabar de do Kabar
+su \:	kyaa
+sha \:	dil le gayaa jii ko_ii dil le gayaa dil le gayaa \-2
+su \:	jaate\-jaate miiThaa\-miiThaa Gam de gayaa
+	ko_ii dil le gayaa jii ko_ii dil le gayaa
+	dil le gayaa jii ko_ii dil le gayaa dil le gayaa
+
+su \:	o dil lene waalaa kabhii paka.Daa na jaaye haa.N paka.Daa na jaaye \-2
+	dil dene waalaa kare haay haay haay
+sha \:	haay
+su \:	chain le gayaa jii merii nii.nd le gayaa nii.nd le gayaa \-2
+	jaate\-jaate miiThaa\-miiThaa Gam de gayaa
+	ko_ii dil le gayaa jii ko_ii dil le gayaa
+	dil le gayaa jii ko_ii dil le gayaa dil le gayaa
+%
+#endindian
+\endsong
+%
+

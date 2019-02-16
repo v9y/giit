@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{haa.N pahalii baar hu_aa hai ... tujhe mujhase pyaar hu_aa hai}%
+\film{Baap Numbari Betaa Dus Numbari}%
+\year{1990}%
+\starring{Jackie, Farha, Aditya, Sabeeha, Anjana Mumtaz, Asrani, Gulshan}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haa.N pahalii baar hu_aa hai
+tujhe mujhase pyaar hu_aa hai
+binaa tujhe dekhe kahii.n na chain hai
+binaa tere jiinaa dushvaar hai
+pahalii baar hu_aa hai \threedots
+
+nii.nd aatii nahii.n chain aataa nahii.n
+jaan ke to ko_ii dil lagaataa nahii.n
+haalat kyaa hai merii tujhase kyaa mai.n chhipaa_uu.n
+dekhataa huu.N har gha.Dii rastaa teraa
+hal pal teraa hii intazaar hai
+haa.N pahalii baar hu_aa hai \threedots
+
+ek din agar mai.n na dekhuu.n tujhe
+log mujhase kahe.n kyaa hu_aa hai mujhe
+kaisaa mere saathii maine dil ko hai lagaayaa
+bin piye hii Dagamagaate hai.n kadam
+mujhape na meraa akhtiyaar hai
+haa.N pahalii baar hu_aa hai \threedots
+%
+#endindian
+\endsong
+

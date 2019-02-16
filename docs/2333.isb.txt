@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ham aap ke, aap ke hai.n kaun}%
+\film{Ham aap ke Hain Kaun}%
+\year{}%
+\starring{Madhuri Dixit, Salmaan Khan}%
+\singer{Lata, S P Balasubramaniam}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham aap ke hai.n kaun
+bechain hai, merii nazar
+hai pyaar kaa kaisaa asar
+na chup raho, itanaa kaho
+ham aap ke, aap ke hai.n kain   \threedots
+
+Kud ko sanam, rokaa ba.Daa
+aakhir mujhe kahanaa pa.Daa
+Kvaabo.n me.n tum aate ho kyo.n
+ham aap ke, aap ke hai.n kaun   \threedots
+
+bechain hai, merii nazar
+hai pyaar kaa kaisaa asar
+hai.n hosh gum, puuchho na tum
+ham aap ke, aap ke hai.n kain   \threedots
+
+kaise kahuu.N dil kii lagii
+cheharaa meraa, pa.Dh lo kabhii
+ye sharam kii, surkhii kahe
+ham aap ke, aap ke hai.n kaun   \threedots
+
+%
+#endindian
+\endsong
+%

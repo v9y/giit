@@ -1,0 +1,50 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ko_ii ghar aayegaa pyaar jagaayegaa}%
+\film{Saarangaa}%
+\year{1960}%
+\starring{Sudesh Kumar, Jaishri Gadkar, Neelofar, B M Vyas, Niranjan Sharma}%
+\singer{Lata, Chorus}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+la \:	ko_ii ghar aayegaa pyaar jagaayegaa \-2
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+la \:	haay mai.n kyaa kahuu.N, mai.n kyaa kahuu.N, mai.n kyaa kahuu.N
+ko \:	haay haay haay
+la \:	ko_ii ghar aayegaa pyaar jagaayegaa
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+
+ko \:	( aaj sakhii tohe sakhiyaa.N sataaye.n
+	hamase bhii kyuu.N terii a.Nkhiyaa.N lajaaye.n ) \-2
+la \:	pyaar kii ulajhan kyaa samajhaaye.n
+	dil hii se puuchho ham kyaa bataaye.n
+	a.Nkhiyaa.N milaayegaa, batiyaa.N banaayegaa \-2
+
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+la \:	haay mai.n kyaa kahuu.N, mai.n kyaa kahuu.N, mai.n kyaa kahuu.N
+ko \:	haay haay haay
+la \:	ko_ii ghar aayegaa pyaar jagaayegaa
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+
+ko \:	( kisake liye aise kaajal ghole
+	kisake liye terii jhaa.Njhar bole ) \-2
+la \:	ko_ii kyuu.N hamaaraa bhed TaTole
+	priit kare wo tab mukh se bole
+	chupake se aayegaa, chhup ke bulaayegaa \-2
+
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+la \:	haay mai.n kyaa kahuu.N, mai.n kyaa kahuu.N, mai.n kyaa kahuu.N
+ko \:	haay haay haay
+la \:	ko_ii ghar aayegaa pyaar jagaayegaa
+ko \:	sach sach kah de kaun hai wo teraa kaun hai wo
+
+#endindian
+\endsong

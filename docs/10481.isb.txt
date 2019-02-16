@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{##jungle## hai aadhii raat hai lagane lagaa hai Dar}%
+\film{Biwi No. 1}%
+\year{1999}%
+\starring{Anil Kapoor, Salman, Karisma, Tabbu, Sushmita, Saif, Himani}%
+\singer{Kumar Sanu, Hema Sardesai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+##jungle## hai aadhii raat hai lagane lagaa hai Dar
+duniyaa ko bhuul jaa_uu.N kuchh aisii baat kar
+Darane vaalii kyaa baat hai jab saath me.n hai dilabar
+aajaa merii baaho.n me.n so jaa rakh ke sar
+haa_y ##jungle## hai aadhii raat \threedots
+
+dil me.n kyaa hotii hai halachal
+betaabii chhaa_ii hai palapal
+gaalo.n kii ra.ngat luu.n
+le le o mai.n to yahii chaahatii huu.N
+tanhaa_ii kaa aalam taare bhii so_e hai.n
+ham bhii ik duuje kii chahat me.n kho_e hai.n
+baahar mausam sardii kaa kyuu.N garmii hai a.ndar
+haa_y ##jungle## hai aadhii raat \threedots
+
+tujhe paagal mai.n kar duu.N kar de
+aagosh me.n bhar luu.N bhar le
+haa_y siine se lag jaa_uu.N lag jaa
+ho ye lo sanam aa ga_ii
+ho aa.Nkh to khulii hai lekin tum so ga_ii ho
+jaanataa huu.N mai.n tum diivaanii ho ga_ii ho
+ham dono.n aaj akele ko_ii bhii naa ghar par
+##jungle## hai aadhii raat \threedots
+%
+#endindian
+\endsong

@@ -1,0 +1,68 @@
+%
+\startsong
+\stitle{bure bhii ham, bhale bhii ham (ham hai.n, banaarasii babuu)}%
+\film{Banarasi Babu}%
+\year{}%
+\starring{Dev Anand}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Kishore has sung quite a few hit songs for Dev in the 70s.  Here is
+% the title song from that movie 'Banarasi Babu', in which Dev had a
+% double role - one rich and the other poor.  The poor Dev is good at
+% breaking locks and he assists someone in robbing the other Dev, by
+% exchanging places with the rich Dev. This is a fun-filled number which
+% introduces the poor Dev in the movie..
+%
+ham ham \threedots ham ham \threedots haa haa haa haa haa
+	are mere yaar apane ra.ng hazaar
+
+	(bure bhii ham bhale bhii ham
+	samajhiyo naa kisii se kam
+	hamaaraa naam, banaarasii baabuu
+	ham hai.n banaarasii baabuu ) \- 2
+
+
+	jay ho ga.Ngaa maiyyaa!
+	
+	ga.Ngaa kii, laharo.n jaisii \- 2
+	siidhii saadhii chaal hamaarii
+	ghaaT ghaaT kaa, are paanii piike
+	ghaaT ghaaT kaa paanii piike
+	hamane saarii umar guzaarii
+	naa raastaa naa ma.nzil phir bhii
+	ghuume.n subah shaam
+	banaarasii baabuu!
+	ham hai.n banaarasii baabuu!
+
+	bure bhii ham, bhale bhii ham
+	samajhiyo na kisii se kam
+	hamaaraa naam, banaarasii baabuu!
+	ham hai.n banaarasii baabuu!
+	
+	hamane bhii, vohii siikhaa \- 2
+	jo is duniyaa ne sikhalaayaa
+	a.ndar karalo, are aa.Nkh miichake \- 2
+	chaahe ho vo maal paraayaa
+	duniyaa aur ham dono sachche
+	kisako de.n ilzaam
+	banaarasii baabuu!
+	ham hai.n banaarasii baabuu!
+	
+	bure bhii ham, bhale bhii ham
+	samajhiyo na kisii se kam
+	hamaaraa naam, banaarasii baabuu!
+ham hai.n banaarasii baabuu! \- 4
+%
+#endindian
+\endsong
+%

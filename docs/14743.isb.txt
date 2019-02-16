@@ -1,0 +1,75 @@
+% ITRANS SONG
+
+\startsong
+\stitle{agar mai.n kahuu.N mujhe tumase mohabbat hai}%
+\film{Lakshya}%
+\year{2004}%
+\starring{Amitabh Bachchan, Hrithik Roshan, Preity Zinta}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+
+% Contributor: V S Rawat, 30 Jul 2004
+% Series: GEETanjali
+
+\printtitle
+#indian
+
+u \: ( agar mai.n kahuu.N
+	mujhe tumase mohabbat hai
+	merii bas yahii chaahat hai to kyaa kahogii ) \-2
+
+a \:	mai.n tumase kahuu.Ngii
+	is baat ko agar tum
+	zaraa aur sajaa ke kahate
+	zaraa ghumaa\-phiraa ke kahate
+	to achchhaa hotaa
+	
+u \: ( agar mai.n kahuu.N
+	tumako jab dekhuu.N lagatii ho jaise na_ii
+	ho.nTh hai.n pa.nkha.Dii phuul kii
+	aa.Nkhe.n jaise juganuu chamakate huye
+	soche meraa ye dil dha.Dakate huye
+	
+	agar mai.n kahuu.N \-2
+	ye jo cheharaa hai jaise ko_ii chaa.Nd hai
+	to kyaa kahogii
+	
+a \:	mai.n tumase kahuu.Ngii
+	mujhako bhuule se bhii chaa.Nd tum na kaho
+	chaa.Nd me.n to ka_ii daaG hai.n
+	mujhe phuul na kahanaa wo murajhaate hai.n
+	juganuu bhii na kahanaa wo kho jaate hai.n
+	ye baate.n puraanii hai.n
+	jo mujhako sunaanii hai.n
+	kisii aur adaa se kahate	
+	zaraa ghumaa phiraa ke kahate
+	to achchhaa hotaa
+	
+u \:	agar mai.n kahuu.N
+	mujhe tumase mohabbat hai
+	merii bas yahii chaahat hai to kyaa kahogii
+	
+	agar mai.n kahuu.N \-2
+	baate.n sun ke tumhaarii mai.n hairaan huu.N
+	jo bhii kahanaa hai kaise kahuu.N
+	lagataa tumhe.n kuchh bhii achchhaa nahii.n
+	sach ko bhii kahatii ho sachchaa nahii.n
+
+a \:	agar mai.n kahuu.N \-2
+	tumhe.n pataa nahii.n hai kyo.n
+	hai pyaar mujhe bhii tumase
+	to kyaa kahoge
+	
+u \:	mai.n tumase kahuu.Ngaa
+	mere dil kaa hai ye kahanaa
+	ham ko hai saath me.n rahanaa	
+
+a \:	ye dono.n ke dil me.n hai naa
+	to phir kyo.n kahanaa
+	
+u \:	agar mai.n kahuu.N
+a \:	to mai.n tumase kahuu.Ngii
+
+#endindian
+\endsong

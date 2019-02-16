@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{haay meraa dil tuu lejaa lejaa}%
+\film{Albela}%
+\year{2001}%
+\starring{Govinda, Aishwarya Rai, Namrata Shirodkar}%
+\singer{Babul Supriyo, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+haay meraa dil tuu lejaa lejaa
+haay merii jaa.n tuu lejaa lejaa
+ye faisalaa dil kaa mushkil se hotaa hai
+meraa yaar kyuu.n merii baat maane naa
+haay meraa dil tuu \threedots
+
+mausam kare chhe.Dakhaanii agar kaise bhalaa ko_ii bache
+khushbuu jaise mahake mahake ham dono.n hai.n bahake bahake
+meraa hosh le liyaa tuune jaan\-e\-jaa.n
+haay meraa dil tuu \threedots
+
+jaaduu ko_ii terii aa.Nkho.n me.n hai dekhe jise paagal kare
+tho.Daa tho.Daa paagal hai tuu aataa jaataa baadal hai tuu
+ko_ii bhii meraa yahaa.n dard jaane naa
+haay meraa dil tuu \threedots
+%
+#endindian
+\endsong
+

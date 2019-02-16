@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{jaatii huu.N mai.n, jaldii hai kyaa}%
+\film{Karan Arjun}%
+\year{}%
+\starring{Shahrukh Khan, Kajol}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Saurabh Bhat <bhat@UWYO.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+%
+\printtitle
+#indian
+%
+a: jaatii huu.N mai.n
+k: jaldii hai kyaa
+a: dha.Dake jiyaa
+k: vo kyo.n bhalaa
+a: khud se hii Darane lagii huu.N mai.n
+   pyaar karane lagii huu.N
+k: khud se itanaa darogii tum
+   pyaar kaise karogii
+
+a: jaaduu tere jism kaa
+   terii or khii.nche mujhe
+   kaabuu na khud pe rahe
+   jab\-jab mai.n dekhuu.N tujhe
+k: kadam bahak jaae.nge
+   ye kyo.n tum ne sochaa
+   kyaa merii chaahat pe tumako nahii.n bharosaa
+a: tum par mujhako yakii.n hai
+   khud par yakii.n nahii.n
+   jaatii huu.N \threedots
+
+k: leke tere lab kii laalii
+   jiivan ko ra.Ngiin kare.nge
+   Kvaabo.n me.n tumako bhare.nge
+   kal tak tabhii jii sake.nge
+a: khud ko sambhaale rakhiye
+   mujh ko sambhalane diijiye
+   hosh mai.n apanii kho jaauu.N
+   itanaa pyaar na diijiye
+k: pyaar hai diivanaapan hosh kaa kaam nahii.n
+a: jaatii huu.N \threedots
+%
+#endindian
+\endsong
+%
+

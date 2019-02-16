@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{shukriyaa, shukriyaa ai pyaar teraa, shukriyaa}%
+\film{Aaraam}%
+\year{}%
+\starring{Dev Anand}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+shukriyA, shukriyA ai pyAr terA, shukriyA
+shukriyA, shukriyA
+dil ko kitanA khUbasUrat Gam diyA, shukriyA
+shukriyA ai pyAr terA \threedots
+
+A.Nkho.n ko A.NsU diye jo motiyo.n se kam nahI.n
+dil ko itane Gam diye ki ab koI bhI Gam nahI.n
+meharabA.n jo kuchh diyA achchhA kiyA, shukriyA
+shukriyA ai pyAr terA \threedots
+
+zi.ndagI ko dard me.n DUbe tarAne de diye
+hasarato.n ko ArazU ke khajAne de diye
+ye navAzish hai terA kyA kyA diyA, shukriyA
+shukriyA ai pyAr terA \threedots
+%
+#endindian
+\endsong
+%

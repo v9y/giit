@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{o baabuu kaise dil karuu.N qaabuu ... o jaanii}%
+\film{Sagaai}%
+\year{1951}%
+\starring{Premnath, Gope, Yakub, Rehana, Vijayalaxmi, Hira Lal, Cuckoo}%
+\singer{Lata, Ameerbai}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11910 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	o baabuu \-2
+	kaise dil karuu.N qaabuu samajhaaye jaa
+a \:	o jaanii \-2
+	terii ba.Dii meharabaanii batalaaye jaa
+
+ko \:	o baabuu \-2
+	kaise dil karuu.N qaabuu samajhaaye jaa
+	o jaanii \-2
+	terii ba.Dii meharabaanii batalaaye jaa
+	o baabuu
+
+la \:	( terii jaan kii qasam meraa dil nahii.n bas me.n
+a \:	jaa_o jaa_o jaa_o naa khaa_o jhuuThii qasame.n ) \-2
+la \:	terii jaan kii qasam hai iimaan kii qasam
+	mujhako hai tujhase pyaar meraa jiyaa beqaraar
+	mujhako apanaa banaaye jaa
+ko \:	o baabuu \-2
+	kaise dil karuu.N qaabuu samajhaaye jaa
+	o jaanii \-2
+	terii ba.Dii meharabaanii batalaaye jaa
+	o baabuu
+
+a \:	haTo\-haTo ba.De dekhe pyaar jataane waale
+	a.Nkhiyaa.N nachaa ke nakhare dikhaa ke
+	jiyaa bharamaane waale
+la \:	o
+	jawaanii kii qasam zindagaanii kii qasam
+	mai.n huu.N terii Gulaam
+	tujhe meraa hai salaam
+	mujhako dil me.n basaaye jaa
+ko \:	o baabuu \-2
+	kaise dil karuu.N qaabuu samajhaaye jaa
+	o jaanii \-2
+	terii ba.Dii meharabaanii batalaaye jaa
+	o baabuu
+%
+#endindian
+\endsong
+

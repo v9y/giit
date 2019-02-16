@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{apanii to har aah ik tuufaan hai}%
+\film{Kaala Bazaar}%
+\year{1960}
+\starring{Dev Anand, Wahiida Rehman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor : Srinivas Ganti
+% Transliterator : Vijay Kumar
+% Credits :
+% Comments :
+%
+\printtitle
+#indian
+%
+
+apanii to har aah ik tuufaan hai
+kyaa kare vo jaan kar a.njaan hai -
+uupar vaala jaan kar a.njaan hai
+
+apanii to har aah ik tuufaan hai
+uupar vaala jaanakar a.njaan hai
+apanii to har aah ik tuufaan hai
+ 
+ab to ha.Nsake apanii bhii qismat ko chamakaa de
+kaano.n me.n kuchh kah de jo is dil ko bahalaa de
+ye bhii mushakil hai to kyaa aasaan hai
+uupar vaala jaan kar anjaan hai \threedots
+ 
+sar pe mere tuu jo apanaa haath hii rakh de
+phir to bhaTake raahii ko mil jaaye.nge raste
+dil kii bastii bin tere viiraan hai
+uupar vaala jaanakar anjaan hai \threedots
+ 
+dil hii to hai is ne shaayad bhuul bhii kii hai
+zi.ndagii hai bhuul kar hii raah milatii hai
+maaf kar bandaa bhii ik insaan hai
+uupar vaala jaan kar a.njaan hai
+apanii to har aah ik tuufaan hai
+ 
+%
+#endindian
+\endsong
+%

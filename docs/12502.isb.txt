@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tujhe itanaa pyaar kare.n ... aaj kahe tuu jitanaa}%
+\film{Qudrat Kaa Qaanoon}%
+\year{1987}%
+\starring{Hema Malini, Shafi Inamdar, Jackie Shrof, Radhika, Charan Raaj, Pran, Asrani}%
+\singer{Shabbir Kumar, Lata}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11639 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+tujhe itanaa pyaar kare.n tujhe kitanaa pyaar kare.n
+aaj kahe tuu jitanaa ham tujhe utanaa pyaar kare.n
+tujhe itanaa pyaar \threedots
+
+jab ham aa.Nkhe.n khole.n teraa cheharaa saamane aa_e
+jab ham palake.n ba.nd kare.n Kvaabo.n me.n tuu muskaa_e
+duniyaa kii har ek shai me.n teraa diidaar kare.n
+tujhe itanaa pyaar \threedots
+
+har mausam hamako terii yaado.n kaa mausam lagataa hai
+tujhako jitanaa pyaar kare.n utanaa hii kam lagataa hai
+ye pyaar naa hogaa kam aa jaa ikaraar kare.n
+tujhe itanaa pyaar \threedots
+
+phuulo.n aur bahaaro.n se ham Dolii terii sajaa_e.Nge
+yaad terii jab aa_egii dil ko kaise samajhaa_e.Nge
+mamataa se du_aa_o.n se aa daaman teraa bhare.n
+tujhe itanaa pyaar \threedots
+%
+#endindian
+\endsong
+

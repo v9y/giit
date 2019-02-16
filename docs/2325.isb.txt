@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ghar se masjid hai bahut duur}%
+\film{Tamanna}%
+\year{}%
+\starring{Pooja Bhatt, Paresh Rawal}%
+\singer{Sonu Nigam}%
+\music{Annu Malik}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: Ravi Rai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ghar se masjid hai bahut duur chalo, yuu.N kar le.n
+kisii rote hue bachche ko ha.Nsaayaa jaaye
+ghar se masjid hai bahut duur   \threedots
+
+hamsafar to koii vaqt ke viiraane me.n \- 2
+suunii aa.Nkho.n me.n \- 2
+koii khvaab sajaayaa
+ghar se masjid hai bahut duur   \threedots
+
+roshanii kii bhii hifaazat hai ibaadat kii tarah \- 2
+bujhate suuraj se \-2
+chaaraaGo.n ko jalaayaa jaaye
+ghar se masjid hai bahut duur   \threedots
+
+Gam akelaa hai to saa.Nso.n ko sataataa hai bahut \- 2
+dard ko dard kaa \-2
+hamdard banaayaa jaaye
+ghar se masjid hai bahut duur   \threedots
+
+%
+#endindian
+\endsong
+%

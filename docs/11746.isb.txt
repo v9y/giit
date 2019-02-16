@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jahaa.N bahataa hai ga.ngaa kaa paanii ... kasam se sanam pyaar tumase}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jahaa.N bahataa hai ga.ngaa kaa paanii
+ye raajaa vahii.n kaa hai raanii
+tujhe dhokhaa na degaa teraa rahegaa
+ye dil hai hindustaanii
+kasam se kasam se sanam pyaar tumase
+karate the karate hai.n ham
+umr bhar karate rahe.nge
+jahaa.N bahataa hai \threedots
+
+chho.D ke aise hame.n kahaa.n tuu chalii
+chuum le.n aajaa tere ho.nTho.n kii kalii
+jaa re jaa dekho yuu.n naa karo dillagii
+varanaa ham aa_e.nge naa milane phir kabhii
+zid hai burii chhe.Do naa abhii
+paas to aa yuu.n naa sataa
+terii adaa_o.n pe fidaa ham
+jhuuThe ho
+kasam se \threedots
+
+jaan\-e\-man tere binaa kaTe naa ye pal
+nii.nd bhii aa_e nahii.n hame.n aajakal
+dilarubaa tujhe nahii.n zaraa bhii khabar
+kyaa kare.n terii yaade.n aa_e.n raat bhar
+kho_e kho_e ham bahake kadam
+bas na chale lag jaa gale
+tere khyaalo.n me.n nashaa hai
+sa.mbhaalo jii
+kasam se \threedots
+%
+#endindian
+\endsong
+

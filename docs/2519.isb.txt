@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{ai dil tujh hii ko nii.nd na aayii tamaam raat}%
+\film{Shehnaaz}%
+\year{1948}%
+\starring{}%
+\singer{Rafi}%
+\music{Ameerbai Karnataki}%
+\lyrics{Akhtar Pilibhiti}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ai dil tujh hii ko nii.nd na aayii tamaam raat
+sotaa rahaa Kudaa kii Kudaa_ii tamaam raat
+
+apanii to ek bhii na chalii dil ke saamane
+rah rah ke terii yaad bhulaayii tamaam raat
+
+kis maah\-e-\aasamaan ke tasavvur me.n raat bhar
+taaro.n tumhe.n bhii nii.nd na aayii tamaam raat
+
+%
+#endindian
+\endsong
+%

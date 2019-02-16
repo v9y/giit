@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{shahar kii pariyo.n ke piichhe jo hai.n diivaane}%
+\film{Jo Jeetaa Wohi Sikandar}%
+\year{1992}%
+\starring{Aamir Khan, Ayesha Jhulka, Mamik}%
+\singer{Udit Narayan, Sadhana Sargam}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+shahar kii pariyo.n ke piichhe jo hai.n diivaane
+vo hamaarii saadagii kaa ra.ng kyaa jaane.n
+are haa.N aahaa aahaa diladaar bevafaa
+jo nahii.n samajhe ki ham hai.n jisake diivaane
+vo hamaarii aashiqii kaa ra.ng kyaa jaane.n
+are haa.N aahaa aahaa samajho naa merii jaa.n
+
+ko_ii hogaa hasii.n kam to ham bhii nahii.n
+dekho zaraa nazar bhar ke
+itanaa u.Doo nahii.n ho na aisaa kahii.n
+na idhar ke rahe na udhar ke
+shahar kii pariyo.n ke \threedots
+
+yahaa.n to ba.De ba.De luT ga_e kha.De kha.De
+bachake vo bhii kahaa.n jaa_e.nge
+sun ke merii sadaa chho.D ke naaz\-o\-adaa
+kachche dhaage me.n ba.ndhe aa_e.nge
+jo nahii.n samajhe \threedots
+%
+#endindian
+\endsong
+

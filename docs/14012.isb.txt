@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{teraa naam sabake lab pe ho subah ho shaam ho}%
+\film{Saajan}%
+\year{1991}%
+\starring{Sanjay Dutt, Salman Khan, Madhuri Dixit}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa naam sabake lab pe ho subah ho shaam ho shaam ho
+har buraa_ii se bache.n bas nek kaam ho
+
+ham gunaah ke ghane a.ndhere se Dare.n
+ham to sachche man se yahii kaamanaa kare.n
+ab na ko_ii dil me.n intaqaam ho
+teraa naam sabake lab pe \threedots
+
+zi.ndagii khushahaal ho har aadamii sukhii
+roshanii ho pyaar kii naa ho ko_ii dukhii
+na ko_ii dukhii
+is zamii.n par aisaa teraa intazaam ho
+teraa naam sabake lab pe \threedots
+%
+#endindian
+\endsong
+

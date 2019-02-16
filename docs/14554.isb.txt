@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aake terii baaho.n me.n har shaam lage si.nduurii}%
+\film{Vansh}%
+\year{1992}%
+\starring{Siddharth, Sudesh Berry, Priyanka, Ektaa, Kader, Anupam, Rima, Beena}%
+\singer{S P Balasubramaniam, Lata}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aake terii baaho.n me.n har shaam lage si.nduurii
+mere man ko mahakaa_e tere man kii kastuurii
+aake terii baaho.n me.n \threedots
+
+mahakii havaa_e.n u.Dataa aa.nchal haay ghu.ngharaale kaale baadal
+prem sudhaa naino.n se barase pii lene ko jiivan tarase
+baaho.n me.n kas lene de priit kaa chumban dene de
+in adharo.n se chhalak na jaa_e yauvan ras a.nguurii
+aake terii baaho.n me.n \threedots
+
+sundarataa kaa bahataa saagar tere li_e hai ruup kii gaagar
+indradhanuSh ke ra.ng churaa_uu.n terii suunii maa.ng sajaa_uu.n
+do phuulo.n ke khilane kaa vaqt yahii hai milane kaa
+aajaa mil ke aaj miTaa de.n tho.Dii sii ye duurii
+aake terii baaho.n me.n \threedots
+%
+#endindian
+\endsong
+

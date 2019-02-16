@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{chamakaa ban kar aman kaa taaraa}%
+\film{Ek Hi Raasta}%
+\year{1956}%
+\starring{Sunil Dutt, Meena Kumari, Ashok Kumar, Daisy Irani}%
+\singer{Lata, Hemant, chorus}%
+\music{Hemant}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/24/1996
+%
+\printtitle
+#indian
+%
+chamakaa ban kar aman kaa taaraa
+prem kii dharatii desh hamaaraa
+jai jai hi.ndustaan	\-3
+
+aman ke dushman ja.ng ke beTe, bhuul gae har chaal
+##atom bomb## se jaa Takaraayaa, viir javaahar laal
+duniyaa ne ek saath pukaaraa, jai jai hi.ndustaan
+chamakaa ban kar \threedots
+
+ja.ng ke haatho.n kitanii chuu.Diyaa.N, hotii chakanaa chuur
+jal jaataa baaruud me.n kitane, maa.Ngo.n kaa si.nduur
+tujhase hai si.ngaar hamaaraa, jai jai hi.ndustaan
+chamakaa ban kar \threedots
+
+dharatii maataa jhuum rahii hai, bhuulii duniyaa ja.ng
+kyaa piile kyaa gore kaale, mil gae tiino.n ra.Ng
+jha.nDaa uu.Nchaa rahe hamaaraa, jai jai hi.ndustaan
+chamakaa ban kar \threedots
+%
+#endindian
+\endsong
+%
+

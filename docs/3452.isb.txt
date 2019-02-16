@@ -1,0 +1,44 @@
+% ITRANS SONG # 3452; Created on Jan 26, 2004
+%
+From: Surajit A. Bose (psurajit@netscape.net)
+Date: 2002-12-08 23:04:37 PST
+
+% ITRANS Song #
+%
+\startsong
+\stitle{prabhu tero naam jo dhyaaye phal paaye}%
+\film{Ham Dono}%
+\year{1961}%
+\starring{Dev Anand, Sadhana, Nanda}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Audio On: HMV
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: December 9, 2002
+% Comments: Raag Dhaani
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+prabhu tero naam
+jo dhyaaye phal paaye, sukh daaye tero naam \threedots
+
+tuu daanii tuu antarayaamii
+terii kR^ipaa ho jaaye to swaamii
+har biga.Dii ban jaaye
+jiivan dhan mil jaaye, mil jaaye
+mil jaaye, sukh daaye tero naam \threedots
+
+bas jaaye moraa suunaa a.nganaa
+khil jaaye murajhaayaa ka.nganaa
+jiivan me.n ras aaye
+jiivan dhan mil jaaye, mil jaaye
+mil jaaye, sukh daaye tero naam \threedots
+%
+#endindian
+\endsong
+%

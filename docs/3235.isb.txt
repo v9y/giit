@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{vo aa.Nkh se pilaa gaye}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #46
+%           The stats info on the cassette mentions the name of the arranger 
+%           - F. Casanovas instead of the MD.
+%
+\printtitle
+#indian
+%
+
+vo aa.Nkh se pilaa gaye pilaa gaye pilaa gaye
+mastiyaa.N luTaa gaye vo aa.Nkh se \threedots
+
+aaye aaye aa ke saaraa Gam bhulaa gaye
+mastiyaa.N luTaa gaye vo aa.Nkh se \threedots
+
+(bahaar hamaarii ghar me.n aa_ii
+prem kii ghaTaa jhuumake chhaa_ii ) \- 2
+so_ii praaN me.n jaage uma.nge.n
+jaadu_o.n chalaa gaye
+aake saaraa Gam bhuulaa gaye
+mastiyaa.N luTaa gaye vo aa.Nkh se \threedots
+
+(pyaar kaa miiThaa giit sunaayaa
+shokhiyo.N ke matalab ko bataayaa) \- 2
+dil ke baag me.n aa ke ek baar 
+phuul sab khilaa gaye
+aa ke saaraa Gam bhuulaa gaye
+mastiyaa.N luTaa gaye vo aa.Nkh se \threedots
+
+%
+#endindian
+\endsong
+%

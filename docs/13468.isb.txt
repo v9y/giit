@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{is duniyaa me.n premagra.nth jab likhaa jaa_egaa}%
+\film{Prem Granth}%
+\year{1996}%
+\starring{Shammi Kapoor, Rishi, Madhuri, Anupam, Om Puri, Prem Chopra}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa ho aa premagra.nth
+is duniyaa me.n premagra.nth jab likhaa jaa_egaa
+teraa meraa ho teraa meraa ho teraa meraa naam sabase uupar aa_egaa
+is duniyaa me.n \threedots
+
+ba.nd kalii se phuul banii mai.n aaj piyaa ne a.ng lagaayaa
+gorii ke kore mukha.De par prem ne apanaa ra.ng lagaayaa
+ab mai.n sajanii tuu meraa saajan kahalaa_egaa
+is duniyaa me.n \threedots
+
+ek anokhii anajaanii sii mere man me.n pyaas jagii hai
+baahar hai phuulo.n kaa mausam dil ke a.ndar aag lagii hai
+apane pyaar kaa saavan ab ye aag bujhaa_egaa
+is duniyaa me.n \threedots
+
+rok sake to rok le duniyaa rukane vaalii baat nahii.n hai
+ye ko_ii tuufaan nahii.n hai ye ko_ii barasaat nahii.n hai
+ye hai pyaar kaa jaaduu ye jaaduu chal jaa_egaa
+is duniyaa me.n \threedots
+%
+#endindian
+\endsong
+

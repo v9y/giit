@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum aaye jo aaj mujhe yaad, galii me.n aaj chaa.Nd nikalaa}%
+\film{Zakhm}%
+\year{}%
+\starring{Ajay Devgun, Sonali Bendre, Puja Bhatt, Nagarjuna}%
+\singer{Alka Yagnik}%
+\music{M M Kreem}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar 
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+tum aaye jo aaj mujhe yaad galii me.n aaj chaa.Nd nikalaa
+jaane kitane dino.n ke baad galii me.n aaj chaa.Nd nikalaa
+
+ye nainaa bin kaajal tarase barah mahiine baadal barase
+sunii rab ne merii fariyaad galii me.n aaj chaa.Nd nikalaa   \threedots
+
+aaj kii raat jo mai.n so jatii khulatii aa.Nkh subah ho jaatii
+mai.n to ho jaatii bas bar_baad galii me.n aaj chaa.Nd nikalaa   \threedots
+
+mai.n ne tumako aate dekhaa apanii jaan ko jaate dekhaa
+jaane phir kyaa hu_aa nahii.n yaad galii me.n aaj chaa.Nd nikalaa   \threedots
+
+%
+#endindian
+\endsong
+%

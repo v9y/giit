@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{paagal mujhe banaa gayaa hai siiTii bajaa ke}%
+\film{Anaadi No. 1}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paagal mujhe banaa gayaa hai siiTii bajaa ke
+chakkar ko_ii chalaa gayaa hai siiTii bajaa ke
+so_ii thii mai.n jagaa gayaa hai siiTii bajaa ke
+nii.nde.n merii u.Daa gayaa hai siiTii bajaa ke
+
+paagal mujhe banaa ga_ii hai siiTii bajaa ke
+chakkar ko_ii chalaa ga_ii hai siiTii bajaa ke
+soyaa thaa mai.n jagaa ga_ii hai siiTii bajaa ke
+nii.nde.n merii u.Daa ga_ii hai siiTii bajaa ke
+paagal mujhe banaa \threedots
+
+mastii se bharii tuu mast ba.Dii
+terii zulf khulii khushbuu sii u.Dii
+jab aa.Nkh la.Dii ik ja.ng chhi.Dii
+tuu zid pe a.Dii ziddii hai ba.Dii
+mai.n u.Datii pavan saavan kii jha.Dii
+motii kii la.Dii hiire se ja.Dii
+jab raat hu_ii phir baat ba.Dhii
+mere dil pe pa.Dii jaaduu kii chha.Dii
+jaaduu ko_ii chalaa ga_ii hai siiTii bajaa ke
+mere hosh tuu u.Daa ga_ii hai siiTii bajaa ke
+paagal mujhe banaa \threedots
+
+dilabar hai meraa chitachor ba.Daa
+mere piichhee pa.Daa dil leke u.Dhaa
+dikhane me.n ba.Daa hai tuu chikanaa gha.Daa
+mai.n haar ga_ii a.Nkhiyo.n ko la.Daa
+mai.n likhaa pa.Dhaa mujhako naa pa.Dhaa
+nakhare naa dikhaa gussaa naa cha.Dhaa
+tere raste me.n huu.N mai.n kabase kha.Daa
+baaho.n me.n tuu aa chal haath ba.Dhaa
+ho hathaka.Diyaa.n tuu lagaa gayaa hai siiTii bajaa ke
+meraa yaar mujhape chhaa gayaa hai siiTii bajaa ke
+paagal mujhe banaa \threedots
+%
+#endindian
+\endsong
+

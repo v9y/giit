@@ -1,0 +1,43 @@
+% ITRANS SONG # 3260; Created on Jan 26, 2004
+%
+%      From: Surajit A. Bose (psurajit@netscape.net)
+%      Date: 2002-12-14 00:21:49 PST 
+% 
+\startsong
+\stitle{aajaa re mere pyaar ke raahii}%
+\film{Oonche Log}%
+\year{1965}%
+\starring{Ashok Kumar, Rajkumar, Feroz Khan, Kumud Tripathi, Kanhaiyalal}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: Dec 14, 2002
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aajaa re mere pyaar ke raahii
+raah nihaaruu.N ba.Dii der se, aajaa \threedots
+
+jo chaa.Nd bulaae, mai.n to nahii.n boluu.N
+jo suuraj aae, aa.Nkh nahii.n kholuu.N
+muu.Nd ke nainaa mai.n tihaarii 
+raah nihaaruu.N ba.Dii der se, aajaa re \threedots
+
+kahaa.N hai basaa de tan kii Kushabuu se
+ghaTaa se mai.n kheluu.N zulf terii chhuuke
+ruup kaa tere mai.n pujaarii
+raah nihaaruu.N ba.Dii der se, aajaa re \threedots
+
+kahii.N bhii rahuu.Ngii mai.n huu.N terii chhaayaa
+tujhe mai.nne paake phir bhii nahii.n paayaa
+dekh mai.n terii priit kii maarii 
+raah nihaaruu.N ba.Dii der se, aajaa re \threedots
+%
+#endindian
+\endsong
+%

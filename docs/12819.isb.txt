@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil churaane lagii jab tumhaarii nazar ... maine dil tujhako de diyaa}%
+\film{Maine Dil Tujhko Diya}%
+\year{2002}%
+\starring{Sanjay Dutt, Sohail Khan, Samira Reddy}%
+\singer{Sonu Nigam, Anuradha Paudwal}%
+\music{Dabbu Malik}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil churaane lagii jab tumhaarii nazar
+jaan jaane lagii ham hu_e bekhabar
+aahe.n bharane lagaa jab ye dil saathiyaa
+kuchh kaho to sanam kyaa kiyaa kyaa kiyaa
+maine dil tujhako de diyaa
+dil churaane lagii \threedots
+
+vo ishaaraa teraa kitanaa maasuum thaa
+jaa_egaa ab ye dil mujhako maaluum thaa
+is umar ne hame.n yuu.N kiyaa bekaraar
+dil ko rokaa magar naa rukaa hamase yaar
+tumane milake sanam aisaa jaaduu kiyaa
+jab ye jaaduu chalaa to sanam kyaa kiyaa
+haa.N maine dil tujhako de diyaa
+dil churaane lagii \threedots
+
+ham jo kahate nahii.n tum vo samajhaa karo
+aur kho jaa_e.N ham pyaar itanaa karo
+tum ba.Dhaa_o zaraa pyaar se ye kadam
+tumase kaise kahe.n kitanaa chaahe.nge ham
+is mohabbat ne dono.n ko ta.Dapaa diyaa
+aur ta.Dap ke sanam kyaa kiyaa kyaa kiyaa
+maine dil tujhako de diyaa
+dil churaane lagii \threedots
+%
+#endindian
+\endsong
+

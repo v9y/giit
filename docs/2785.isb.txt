@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{baraso re, haay bairii badaravaa baraso re}%
+\film{Phagun}%
+\year{1958}%
+\starring{Madhubala, Bharat Bhushan}%
+\singer{Asha, chorus}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aur to koii nahii.n sahaaraa tuu hii haath ba.Dhaa de
+ga.ngaa yamunaa ban ke baadal Gam kii aag bujhaa de
+
+o baraso re, haay! bairii badaravaa baraso re
+aaj kisii kii priit nagar me.n lag na jaaye aag
+o baraso re \threedots
+
+duniyaa vaale priit ke dushaman dil ta.Dapaane vaale
+koii nahii.n bujhaane vaalaa sab hai.n lagaane vaale
+o baraso re \threedots
+
+a.ngaaro.n kii Dolii laayaa janam janam kaa saathii
+maut kaa ghuu.NghaT le kar mai.n bhii piyaa milan ko jaatii
+o baraso re \threedots
+
+%
+#endindian
+\endsong
+%

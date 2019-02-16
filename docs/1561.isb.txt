@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saa.Nso me.n dard dard me.n saa.Nse.n}%
+\film{Aakrosh}%
+\year{}%
+\starring{Naseeruddin Shah, Smita Patil, Amrish Puri, Om Puri}%
+\singer{Madhuri Purandare}%
+\music{Ajit Varman}%
+\lyrics{Suryabhanu Gupt}%
+%
+% Contributor: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Transliterator: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Editor: 
+% Comments: Govind Nihalani film.  A cool breeze of a song.
+%
+\printtitle
+#indian
+%
+saa.Nso.n me.n dard, dard me.n saa.Nse.n basii huii   (2)
+ham me.n koii, kisii me.n samaae hue hai.n ham
+hokar bhii, apane aap ko paae hue hai.n ham
+ham me.n koii, kisii me.n samaae hue hai.n ham
+saa.Nso.n me.n dard, dard me.n saa.Nse.n basii huii
+
+lete hai.n ab saa.Ns bhii ilzaam ki tarahaa  (2)
+ghar aise bastiyo.n me.n basaae hue hai.n ham
+ham me.n koii  \threedots  basii huii
+
+chhoDaa hai ham ko laake mohabbat ne ye kahaa.N (2)
+apane lie bhii jaise paraae hue hai.n ham
+ham me.n koii  \threedots  basii huii
+
+aayaa hai pesh ham se zamaanaa kuchh is tarahaa  (2)
+apane gale se khud ko lagaae hue hai.n ham
+ham me.n koii  \threedots  basii huii
+%
+#endindian
+\endsong
+%

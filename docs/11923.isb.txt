@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye pyaar hai ik nashaa ... aakhir pyaar to karanaa hai}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Sunidhi Chauhan, Richa Sharma, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye pyaar hai ik nashaa zi.ndagii kaa
+naa pyaar se bach sakaa dil kisii kaa
+honaa hai honaa hai pyaar kabhii to honaa hai
+khonaa hai khonaa hai dil kabhii to khonaa hai
+ta.Dapanaa hai tarasanaa hai
+aakhir pyaar to karanaa hai
+holedo holededo
+ye pyaar hai \threedots
+
+ba.nd rahakar ye zabaa.n karatii hai baate.n yahaa.N
+haa.n ba.Dii hii mushkil se kaTatii hai.n raate.n yahaa.N
+kyaa a.njaam se Daranaa hai
+aakhir pyaar to karanaa hai
+holedo holededo \threedots
+
+pyaar me.n hai.n mastiyaa.N mast ho jaa pyaar me.n
+jo mazaa ikaraar me.n vo kahaa.N inkaar me.n
+itanaa kyuu.n sisakataa hai
+aakhir pyaar to karanaa hai
+holedo holededo \threedots
+
+dard bhii mil jaa_e to hai gavaaraa pyaar me.n
+ik khushii kaa aasamaa.n hai itane se ikaraar me.n
+kyuu.n kar aahe.n bharanaa hai
+aakhir pyaar to karanaa hai
+holedo holededo
+ye pyaar hai \threedots
+%
+#endindian
+\endsong
+

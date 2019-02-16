@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{qasme\-vaade nibhaa_e.nge ham}%
+\film{Qasme Vaade}%
+\year{1978}%
+\starring{Amitabh, Raakhee, Neetu Singh, Randhir Kapoor}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10778 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar, Malini Kanth
+% 
+\printtitle
+#indian
+%
+ki \:	qasme\-vaade nibhaa_e.nge ham
+	milate rahe.nge janam\-janam
+la \:	o dekhaa maine tujhako to mujhe aisaa lagaa
+	baraso.n kaa soyaa hu_aa pyaar meraa jagaa
+	tuu hai diiyaa mai.n huu.N baatii aajaa mere jiivan\-saathii
+ki \:	qasme\-vaade \threedots
+
+ki \:	cheharo.n se ho.n anjaane ham dil to dil ko pahachaane
+	kabhii pyaar nahii.n marataa hai paagal premii ye jaane
+	aa jaatii hai lab pe Kud hii bhuulii\-bisarii baat
+	qasme\-vaade \threedots
+
+la \:	jis dil me.n pyaar basaa ho vo dil bhagavaan kii muurat
+	ye muurat kabhii na badale badale insaan kii suurat
+	dil ke ba.ndhan itane sachche jitane ye din raat
+do \:	qasme\-vaade \threedots
+%
+#endindian
+\endsong
+

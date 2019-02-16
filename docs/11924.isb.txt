@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{rab dii kasam ... honaa na tum judaa ham mar jaa_e.nge}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rab dii kasam
+jitane hai.n aashiq sab dii kasam
+honaa na tum judaa ham mar jaa_e.nge sanam
+rab dii kasam \threedots
+
+bhuul baiThe hai.n ham sabako yaad bas tumako karate hai.n
+naam teraa lekar ham jiite hai.n marate hai.n
+chho.D dii hamane ye duniyaa thaamakar tere aa.Nchal ko
+pyaar kii raaho.n me.n ham rukate hai.n chalate hai.n
+ho ham jaise shahar me.n diivaane ho.nge kam
+rab dii kasam \threedots
+
+dil nahii.n lagataa tere bin din guzar jaataa hai lekin
+raat ko Das jaatii.n hai.n hamako ye tanhaa_iyaa.n
+kuchh tumhe.n bhii ho jaa_egaa kuchh hame.n bhii ho jaa_egaa
+saamane baiThake na lo aise a.nga.Daa_iyaa.n
+are aage na kuchh kaho sab jaanate hai.n ham
+rab dii kasam \threedots
+%
+#endindian
+\endsong
+

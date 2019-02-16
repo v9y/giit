@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{bahut khuubasuurat gazal likh rahaa huu.N}%
+\film{Shikaari}%
+\year{2000}%
+\starring{Govinda, Karisma Kapoor, Mayuri Kango, Tabu}%
+\singer{Kumar Sanu}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n
+bahut khuubasuurat Gazal likh rahaa huu.N ai he ho ho
+bahut khuubasuurat Gazal likh rahaa huu.N
+tumhe.n dekh kar aaj kal likh rahaa huu.N
+haa.N tumhe.n dekh kar aaj kal likh rahaa huu.N
+
+mile kab kahaa.n kitane lamhe guzaare
+mai.n gin gin ke vo saare pal likh rahaa huu.N
+bahut khuubasuurat Gazal \threedots
+
+tumhaare javaa.n khuubasuurat badan ko
+taraashaa hu_aa ik mahal likh rahaa huu.N
+bahut khuubasuurat Gazal \threedots
+
+na puuchho merii bekaraarii kaa aalam
+mai.n raato.n ko karavaT badal likh rahaa huu.N
+bahut khuubasuurat Gazal \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,56 @@
+% ITRANS SONG # 3263; Created on Jan 26, 2004
+%
+\startsong
+\stitle{aayii aayii raat suhaanii sun le Kushii kii kahaanii}%
+\film{Poonam}%
+\year{1952}%
+\starring{Ashok Kumar, Kamini Kaushal, Asha Mathur, Sajjan}%
+\singer{Lata}%
+\music{Shakar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Nov 14, 2002
+% Comments: LATAnjali Series
+% Credits: Satish Kalra, Urzung Khan, Srinivas Ganti, etc.
+% Note: There are two versions of this song - sad and happy
+%            the differences are mentioned below.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aayii aayii raat suhaanii sun le Kushii kii kahaanii
+sun le Kushii kii kahaanii
+
+% first two stanzas - only in happy version
+
+nii.nd kii pariiyaa.N aayii.n sulaane
+phuulo.n kii Dolii me.n jhuulaa jhuulaane, jhuulaa jhuulaane
+naazo.n kii paalii o merii jaanii,
+sun le Kushii kii kahaanii \threedots
+
+chaa.Nd teraa anamol khilaunaa
+pyaar kii godii teraa bichhaunaa, teraa bichhaunaa
+ruup nagar kii chhoTii sii raanii,
+sun le Kushii kii kahaanii \threedots
+
+% in both versions - third stanza
+
+puure ho.n tere aramaan saare
+itanii umar ho jitane hai.n taare, jitane hai.n taare
+har roz aaye ye shaadamaanii,
+% har saal aaye ye shaadamaanii - in sad version
+sun le Kushii kii kahaanii \threedots
+
+%only in sad version - 4th stanza
+
+shahanaaii baaje har dam Kushii kii
+dekhe bahaare.n tuu zi.ndagii kii, tuu zi.ndagi kii
+aajaa mubaarik ho zi.ndagaanii
+sun le Kushii kii kahaanii \threedots
+%
+#endindian
+\endsong
+%

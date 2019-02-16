@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mujh ko Kudaa ne de diyaa pyaar teraa jo saathiyaa}%
+\film{Pyaar Tune Kya Kiya}%
+\year{2002}%
+\starring{Fardin Khan, Urmila Matondkar, Sonali Kulkarnii}%
+\singer{Sonu Nigam, Kavita Subramaniam}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+mujh ko Kudaa ne de diyaa pyaar teraa jo saathiyaa
+maano jaise mil gayaa hai jannat kaa rastaa
+
+mai.n chalatii thii raaste ik ma.nzil ke vaaste
+tujh se mil ke yuu.N lagaa jaanaa mujh ko hai kahaa.N
+ham dono.n kaa milanaa thaa jaanaa.n
+pyaar yuu.n hii ye khilanaa thaa jaanaa.n
+merii aa.Nkho.n me.n merii saa.Nso.n me.n
+bas tuu hii hai jaanaa.n
+mujh ko Kudaa ne de diyaa \threedots
+
+tuu rahe to rahe merii zi.ndagii kahataa huu.N rab se
+sa.ng tere bitaa_uu.N mai.n har khushii ab se yahii.n se
+teraa naam merii zubaa.n se na jaa_e
+jo tuu naa rahe to merii jaan jaa_e
+merii aa.Nkho.n me.n merii saa.Nso.n me.n
+bas tuu hii hai jaanaa.n
+mujh ko Kudaa ne de diyaa \threedots
+
+faasale ho rahe hai.n kam jaan\-e\-man kam bas ek pal me.n
+ek jaa.n ban ga_e hai.n ye do badan bas ek pal me.n
+ye jo bhii nashaa hai ba.Daa hii mazaa hai
+yahaa.N dha.Dakano.n kii yahii to sadaa hai
+merii aa.Nkho.n me.n merii saa.Nso.n me.n
+bas tuu hii hai jaanaa.n
+mujh ko Kudaa ne de diyaa \threedots
+%
+#endindian
+\endsong
+

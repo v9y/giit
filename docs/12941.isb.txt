@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{maine kahaa tumase hame.n pyaar hai}%
+\film{Maa Beta}%
+\year{1962}%
+\starring{Manoj Kumar, Ameeta, Nirupa Roy}%
+\singer{Mukesh, Lata}%
+\music{Hemant Kumar}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10227 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	maine kahaa ai jii maine kahaa tumase hame.n pyaar hai maine kahaa
+mu \:	ai jii maine kahaa hamako kab inkaar hai maine kahaa
+
+la \:	ai jii ye to bataa do ki hu_ii hai kyaa baat
+	kyuu.N mai.n tere sapane dekhuu.N saarii\-saarii raat
+mu \:	mai.n kyaa jaanuu.N shaayad yahii pyaar hai
+la \:	maine kahaa hamako kab \threedots
+
+mu \:	hamako bhii tanhaa_iyo.n me.n nii.nd na aa_ii
+	le lo chaahe chaa.Nd\-sitaaro.n se gavaahii
+la \:	jaane bhii do hamako etabaar hai
+mu \:	maine kahaa tumase hame.n \threedots
+
+la \:	ab to tamannaa hai tere dil me.n hii rahe.n
+mu \:	ham bhii yahii chaahate hai.n aur kyaa kahe.n
+la \:	phir merii jaa.n
+mu \:	haa.N merii jaa.N
+do \:	bahaar hii bahaar hai
+	maine kahaa tumase hame.n \threedots
+%
+#endindian
+\endsong
+

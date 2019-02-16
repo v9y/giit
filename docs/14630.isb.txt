@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{yaaro.n kaa ye haal hai ... yaar apane ghar jaa_o}%
+\film{Yeh Kya Ho Raha Hai}%
+\year{2002}%
+\starring{Prashant, Vaibhav, Aamir, Yash}%
+\singer{Shaan, Shankar, Kunaal}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaaro.n kaa ye haal hai sur hai na taal hai
+phir bhii ye naache.nge phir bhii ye gaa_e.Nge
+naache.nge gaa_e.Nge hamako haraa_e.Nge
+inakaa khyaal hai
+yaar apane ghar jaa_o
+
+kaun ham hai.n na tumane ye jaanaa
+hamako dekhaa magar naa pahachaanaa
+duniyaa kii shaan ham hai.n
+aa.Ndhii tuufaan ham hai.n
+dekho na aise tum hamase aka.Do
+rastaa tum apane ghar kaa paka.Do
+yaar apane ghar \threedots
+
+phir bhii biga.Date hai.n
+phir bhii aka.Date hai.n
+gaa ke jhaga.Date hai.n
+naach ke la.Date hai.n
+ye to kamaal hai
+yaar apane ghar \threedots
+
+kaun ham hai.n samajh lo tum pyaare
+din me.n tumako dikhaa de.n ham taare
+saarii baate.n tumako sikhaa de.n
+tum jo na jaano.n tumhe.n bataa de.n
+aasamaa.n niilaa hai kyuu.N jaanate ho
+paanii ye giilaa hai kyuu.N jaanate ho
+ye zamii.n gol hai kyuu.N jaanate ho
+Dhol me.n pol hai kyuu.N jaanate ho
+kuchh bhii nahii.n jaanate ho agar tum
+kyuu.N ghar se baahar phirate ho gumasum
+yaar apane ghar \threedots
+
+munnaa apane ghar jaa_o
+are pappuu apane ghar jaa_o
+%
+#endindian
+\endsong
+

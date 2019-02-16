@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{jinhe.n karanaa thaa dil aabaad apanaa}%
+\film{Naukar}%
+\year{1943}%
+\starring{Shobhana Samarth, Chandramohan, Noorjehan, Yaqub}%
+\singer{Noorjehan}%
+\music{Rafiq Ghaznavi/ Shanti Kumar}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #12141 [V S Rawat]
+%
+% It seems that this song is listed in HFGK as "karane aaye the dil aabaad apanaa"
+%
+\printtitle
+#indian
+%
+jinhe.n karanaa thaa dil aabaad apanaa
+wo hii chale.n aaj barabaad ho kar
+jinhe.n thii talaash masarrato.n kii
+lauT chale.n hai.n aaj naashaad ho kar
+
+aaj husn ke ra.ngii.n aashiyaa.N ko
+zaalim ishq ne luuTaa saiyaad ho kar
+ek siine se lagaa barabaadiyo.n ke
+ek Kush hai aaj aabaad ho kar
+
+ek Dolii me.n baiThii suhaag lekar
+ek jaatii hai zer\-e\-zamii.n dekho
+kamaKaab ke pahane libaas ik ne
+aur ek hai Kaaqanashii.n dekho
+
+jisakii laash pe ko_ii naa roye aa kar
+yahii hai wo maah\-e\-zabii.n dekho
+ek Tahanii ke dono.n hai.n phuul lekin
+ek murajhaayaa hai ek hai Kuun (?) dekho
+%
+#endindian
+\endsong
+

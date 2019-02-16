@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{tum mahakatii javaa.N chaa.Ndanii ho}%
+\film{Pyaase Dil}%
+\year{1974}%
+\starring{Yash Tondon, Aziz Mirza, Alka, Benjamin Gilani}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10269 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum mahakatii javaa.N chaa.Ndanii ho chalatii phiratii ko_ii roshanii ho
+ra.ng bhii ruup bhii raaginii bhii jo bhii sochuu.N tumhe.n tum vahii ho
+tum mahakatii javaa.N \threedots
+
+narm aa.Nchal se chhanatii ye Kushbuu mere har Kvaab par chhaa ga_ii hai
+jab bhii tum par niGaahe.n pa.Dii hai.n dil me.n ek pyaas laharaa ga_ii hai
+tum to sachamuch chhalakatii nadii ho
+chalatii phiratii ko_ii \threedots
+
+jab se dekhaa hai chaahaa hai tumako ye fasaanaa chalaa hai vahii.n se
+kab talaq dil bhaTakataa rahegaa maa.Ng luu.N aaj tumako tumhii.n se
+ki tum to khud pyaar ho zindagii ho
+chalatii phiratii ko_ii \threedots
+%
+#endindian
+\endsong
+

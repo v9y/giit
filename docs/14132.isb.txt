@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{wo to chale gaye ai dil yaad se unakii pyaar kar}%
+\film{Sangdil}%
+\year{1952}%
+\starring{Dilip Kumar, Madhubala, Shammi}%
+\singer{Lata}%
+\music{Sajjad Husain}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10333 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+( wo to chale gaye ai dil
+yaad se unakii pyaar kar ) \-2
+jiine me.n kyaa mazaa rahaa
+maut kaa intazaar kar
+wo to chale gaye ai dil
+yaad se unakii pyaar kar
+
+( tujhako Kushii se kyaa garaz
+Gam hai tere nasiib me.n ) \-2
+Kushiyo.n kii aas chho.D de
+Gam ko gale kaa haar kar
+
+jiine me.n kyaa mazaa rahaa
+maut kaa intazaar kar
+wo to chale gaye ai dil
+yaad se unakii pyaar kar
+
+( bhuul jaa din bahaar ke
+dekh naa Kaab pyaar ke ) \-2
+dil to nisaar kar diyaa
+jaan bhii ab nisaar kar
+
+jiine me.n kyaa mazaa rahaa
+maut kaa intazaar kar
+wo to chale gaye ai dil
+yaad se unakii pyaar kar
+%
+#endindian
+\endsong
+

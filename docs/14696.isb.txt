@@ -1,0 +1,29 @@
+%
+\startsong
+\stitle{ham tum se naa kuchh kah paa_e tum ham se}%
+\film{Ziddi}%
+\year{1997}%
+\starring{Sunny Deol, Raveena Tandon}%
+\singer{Hariharan}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham tum se naa kuchh kah paa_e tum ham se naa kuchh kah paa_e
+lagataa hai Dar ye baat ye dil kii dil me.n naa rah jaa_e
+ham tum se naa \threedots
+
+tum suno gaur se kyaa kah rahaa hai samaa.n
+hamanashii chhe.D do chaahat bharii daastaa.n
+kitane dino.n tak kuchh naa bataa_e.n tum ham ko ta.Dapaa_e
+ham tum se naa \threedots
+%
+#endindian
+\endsong
+

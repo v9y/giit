@@ -1,0 +1,45 @@
+% ITRANS SONG # 3299; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)
+% Date: 2002-08-09 14:13:19 PST 
+%
+\startsong
+\stitle{chaa.Ndanii raat aur taare khile ho.n}%
+\film{Bhakta Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed}%
+\singer{Saigal, Khursheed}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+%
+\printtitle
+#indian
+%
+ku:(chaa.Ndanii raat aur taare khile ho.n)\-3
+sa:(taaro.n kii chai.nyyaa me.n do dil mile ho.n)\-2
+ku:(chaa.Ndanii raat aur taare khile ho.n)\-3
+
+sa:(badariyaa me.n cha.ndaa gha.Dii bhar ko jaaye)\-2
+ku:(koii mere kaano.n me.n kuchh kahane aaye)\-2
+sa:(maanuu.N to ha.Ns de
+ku:na maanuu.N to ruuThe)\-2
+sa:duniyaa ? jaaye do dil(ho.nTh ?) mile ho.n
+ku:(chaa.Ndanii raat aur taare khile ho.n)\-2
+
+sa:(mai.n chhup huu.N
+mai.n chhup huu.N to unakaa jiyaa baiThaa jaaye)\-2
+ku:(mai.n puuchuu.N
+mai.n puuchuu.N to unakaa jiyaa talmalaaye ?)\-2
+(kabhii mai.n manaauu.N kabhii vo manaaye)\-2
+nigaahe.n mile.n ? saare khile ho.n
+nigaahe.n mile.n ? saare khile ho.n
+both:(chaa.Ndanii raat aur taare khile ho.n)\-2
+(taaro.n kii chai.nyyaa me.n do dil mile ho.n)\-2
+(chaa.Ndanii raat aur taare khile ho.n)\-2
+%
+#endindian
+\endsong
+%

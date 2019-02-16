@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tum jo hamaare miit na hote}%
+\film{Aashiq}%
+\year{1962}%
+\starring{Raj Kapoor, Padmini, Nanda, Abhi Bhattacharya, Leela Chitnis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Satish Kalra
+% Transliterator: Surajit Bose
+% Date: 22 February 2001
+% Credits:
+% Comments: GEETanjali series. The film and the LP have only the first and
+% third stanzas. The second stanza is from the 78 RPM record.
+%
+\printtitle
+#indian
+%
+tum jo hamaare miit na hote, giit ye mere giit na hote
+ha.Nsake jo tum ye ra.ng na bharate, Kvaab ye mere Kvaab na hote
+tum jo hamaare \threedots
+
+tum jo na sunate kyo.n gaataa mai.n,
+tum jo na sunate kyo.n gaataa mai.n
+bebas ghuTakar rah jaataa mai.n
+tum jo hamaare \threedots
+
+suunii Dagar kaa ek sitaaraa
+suunii Dagar kaa ek sitaaraa
+jhilamil jhilamil ruup tumhaaraa
+tum jo hamaare \threedots
+
+jii karataa hai u.D kar aauu.N,
+jii karataa hai u.D kar aauu.N
+saamane baiThuu.N aur doharaauu.N
+tum jo hamaare \threedots
+
+%
+#endindian
+\endsong
+%
+

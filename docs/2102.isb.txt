@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{jahaa.N mai.n jaatii huu.N vahii.n chale aate ho}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata, Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor:
+%
+\printtitle
+#indian
+%
+la: jahaa.N mai.n jaatii huu.N vahii.n chale aate ho
+    chorii chorii mere dil me.n samaate ho
+    ye to bataao ki tum mere kaun ho
+ma: dil se dil kii lagan kii ye baat hai
+    pyaar kii raah jatan kii ye baat hai
+    mujhase na puuchho ki tum mere kaun ho
+
+la: o, mai.n to shor machaa_uu.Ngii, shor machaa_uu.Ngii
+    karanii tumhaarii sab ko bataa_uu.Ngii
+    khair jo chaaho chale jaao mere dar se
+    chho.Do ye aanaa jaanaa dil kii Dagar se
+    ye to bataao ki tum mere kaun ho   \threedots
+
+ma: o, mai.n ne kyaa buraa kiyaa hai, kyaa buraa kiyaa hai
+    dil de kar hii dil le liyaa hai
+    kisii ba.De gyaanii\-dhyaanii ko bulaao
+    abhii\-abhii yahii.n faisalaa karaao
+    mujhase na puuchho ki tum mere kaun ho   \threedots
+
+la: o, dil hii jab hue diivaane, jab hue diivaane
+ma: kahanaa hamaaraa ab kaun maane
+la: jahaa.N mai.n jaatii huu.N vahii.n chale aate ho
+    chorii chorii mere dil me.n samaate ho
+    ye to bataao ki tum mere kaun ho
+ma: dil se dil kii lagan kii ye baat hai
+    pyaar kii raah jatan kii ye baat hai
+    mujhase na puuchho ki tum mere kaun ho   \threedots
+
+%
+#endindian
+\endsong
+%

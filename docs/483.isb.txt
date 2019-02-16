@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{dil chiiz kyaa hai, aap merii jaan liijiye}%
+\film{Umrao Jaan}%
+\starring{Rekha, Naseeruddin Shah, Farooq Shaikh, Raj Babbar}%
+\singer{Asha}%
+\music{Khaiyyam}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Ahto Jarve (jarve@cs.miu.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dil chiiz kyaa hai, aap merii jaan liijiye
+bas ek baar meraa kahaa, maan liijiye
+
+is a.njuman me.n aapako aanaa hai baar baar
+diivaar\-o\-dar ko gaur se pahachaan liijiye
+
+% is the last word naaz?
+maanaa ke dosto.n ko nahii.n dostii kaa naaz 
+lekin ye kyaa ke gair kaa ahasaan liijiye
+
+kahiye to aasamaan ko zamiin par utaar laae.n
+mushkil nahii.n hai kuchh bhii agar Thaan liijiye
+%
+#endindian
+\endsong
+%

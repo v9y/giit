@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pyaar ke is khel me.n}%
+\film{Jugnu}%
+\year{1973}%
+\starring{Dharmendra, Hema Malini, Pran, Prem Chopra}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Sunil Pulikkal (pulikkal@ecn.purdue.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+pyAr ke is khel me.n, do dilo.n ke mel me.n
+terA pIchhA nA mai.n chho.DU.ngA soniye
+bhej de chAhe jel me.n
+pyAr ke is khel me.n \threedots
+
+(DaratA mai.n nahI.n, chAhe ho zamI.n, chAhe aasamaa.n
+jahA.n bhI tU jaayegI mai.n vahA.n chalA aaU.ngA ) \- 2
+terA (pIchhA nA mai.n chho.DU.ngA soniye \- 2)
+bhej de chAhe jel me.n
+pyAr ke is khel me.n \threedots
+
+(o jaan\-e\-jigar, din me.n tU agar, mujhase nA milI
+sapano.n me.n aake saarI raat jagAU.ngA ) \- 2
+terA (pIchhA nA mai.n chho.DU.ngA soniye \- 2)
+bhej de chAhe jel me.n
+pyAr ke is khel me.n \threedots
+
+(dil ke haath se, likh le baat ye, vaadA ye rahA
+tere ghar leke bAraat kabhI aaU.ngA ) \- 2
+terA (pIchhA nA mai.n chho.DU.ngA soniye \- 2)
+bhej de chAhe jel me.n
+pyAr ke is khel me.n \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{rut hai suhaanii mast hawaaye.n}%
+\film{Street Singer}%
+\year{1938}%
+\starring{K L Saigal, Kanan Devi, Jagdish, Vikram Kapoor, Subeer, Rekha}%
+\singer{Kanan Devi, K L Saigal}%
+\music{R C Boral}%
+\lyrics{Arzo Lucknavi}%
+%
+% Contributor: BOL ANAMOL #11982 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+sai \:	kaun saa gaanaa
+
+kaa \:	rut hai suhaanii mast hawaaye.n \-2
+	chhaa_ii hai.n uu.Ndii ghaTaaye.n \-2
+	rut hai suhaanii mast hawaaye.n \-2
+
+sai \:	sukh kaa jaaganaa
+kaa \:	sukh kaa sonaa
+do \:	har karavaT sukh honaa\-honaa hai
+	sukh kaa jaaganaa
+	sukh kaa sonaa
+	har karavaT sukh honaa\-honaa hai
+	sukh kaa jaaganaa
+
+sai \:	duniyaa aage ba.Dhe to ham bhii piichhe kyuu.N rah jaaye.n \-2
+
+sai \:	ye kyaa karatii ho
+kaa \: merii Kushii
+	meraa ghar
+	jo jii chaahegaa karuu.Ngii
+sai \:	achchhaa
+	karo
+kaa \:	zuruur karuu.Ngii
+	karuu.Ngii to
+
+kaa \:	( phuulo.n se raanaa_ii siikhe.n
+	Gu.ncho se zebaa_ii siikhe.n ) \-2
+sai \:	( jaise ra.ng rache ho.n sabame.n
+	wohii ra.ng ra.ng jaaye.n ) \-2
+do \:		ham bhii wohii ra.ng ra.ng jaaye.n
+%
+#endindian
+\endsong
+

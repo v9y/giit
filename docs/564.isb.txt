@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{duniyaa badal ga_ii}%
+\film{Babul}%
+\year{1950}%
+\starring{}%
+\singer{Talat, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: K Vijay Kumar 
+% Transliterator:
+% Date:
+% Credits: 
+% Editor: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+s: 
+duniyaa badal ga_ii, merii duniyaa badal ga_ii, 
+duniyaa badal ga_ii 
+Tuka.De hue hai.n dil ke kalii dil kii jal ga_ii
+
+t: 
+duniyaa badal ga_ii, merii duniyaa badal ga_ii, 
+duniyaa badal ga_ii
+aisii chalii havaa ki Kushii dukh me.n Dhal ga_ii
+
+s: 
+dil Kaak ho gayaa ye kisii ko Kabar nahii.n \- 2
+sab ye samajh rahe.n hai.n ki aramaa.N nikal ga_ii
+duniyaa badal ga_ii
+
+t: 
+barbaad ho gayaa merii ummiid kaa chaman \- 2
+jis Daal par kiyaa thaa baseraa vo jal ga_ii
+duniyaa badal ga_ii
+
+%
+#endindian
+\endsong
+%

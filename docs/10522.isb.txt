@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{dil kii dha.Dakan hai tuu ... ye dil qurbaan hai sabakii tu jaan hai}%
+\film{Beti No. 1}%
+\year{2000}%
+\starring{Govinda, Rambha, Johny Lever, Reema Laagu, Aruna Irani, Prem Chopra}%
+\singer{Udit Narayan, Amit Kumar}%
+\music{Viju Shah}%
+\lyrics{Maya Govind, Dev Kolhi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+munnaa munnaa meraa
+chunnaa chunnaa meraa
+he dil kii dha.Dakan hai tuu hii meraa jiivan hai tuu hii
+ghar me.n ye chaa.Nd nayaa roshan hu_aa
+
+ye dil qurbaan hai sabakii tuu jaan hai
+mukha.Daa ye pyaaraa luu.n chuum
+
+tuu merii laa.Dalii hai kaliyo.n me.n vo kalii hai
+jis se gulazaar saaraa aa.ngan hu_aa
+ye dil qurbaan hai \threedots
+
+are munnaa munnaa meraa
+ale le le le munnii munnii merii
+haa.n cheharaa gulaab hai dikhataa navaab hai
+a.Nkhiyo.n kaa khvaab hai tuu laajavaab hai
+haa.N suurat me.n mohinii dikhatii hai sohinii
+ha.Nsatii hai to lage bikharii hai chaa.Ndanii
+tuu ghar kii shaan hai meraa aramaan hai
+mukha.Daa ye pyaaraa luu.N chuum
+dil kii dha.Dakan hai tuu \threedots
+
+o kilakaarii ye terii koyal kaa bol hai
+chaa.Ndii sonaa nahii.n tuu to anamol hai
+haa.n tuu kul kii jyot hai tuu kul kii laaj hai
+raajaa beTaa meraa meraa sarataaj hai
+beTii hai laxmii ab hamako kyaa kamii.n
+mukha.Daa ye pyaaraa luu.N chuum
+dil kii dha.Dakan hai tuu \threedots
+%
+#endindian
+\endsong
+

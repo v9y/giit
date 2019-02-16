@@ -1,0 +1,49 @@
+% 
+\startsong 
+\stitle{us dil kii qismat kyaa kahiye}% 
+\film{Lahore}% 
+\year{1949}% 
+\starring{Karan Divan, Nargis}% 
+\singer{Lata}% 
+\music{Shyamsunder}% 
+\lyrics{Rajinder Krishan}% 
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Hrishi Dixit
+% Date: Jan 04 2001
+% Credits:
+% Comments: LATAnjali
+%
+\printtitle 
+#indian 
+%
+ 
+us dil kii qismat kyaa kahiye 
+us dil kii qismat kyaa kahiye 
+jis dil kaa sahaaraa koii nahii.n 
+
+bedard zamaane kyaa terii 
+(bedard zamaane kyaa terii mahafil me.n 
+ hamaaraa koii nahii.n)  \-2 
+bedard zamaane 
+
+is Gam kii raat ke aa.Nchal me.n 
+vaise to hazaaro.n taare hai.n 
+vaise to hazaaro.n taare hai.n  
+ban jaaye jo aas musaafir kii 
+ban jaaye jo aas musaafir kii  
+aisaa hii sitaaraa koii nahii.n 
+bedard zamaane \threedots 
+
+ulfat ke chaman me.n ai naadaa.N
+ulfat ke chaman me.n ai naadaa.N
+kyo.n Dhuu.NDh rahaa hai kaliyo.n ko 
+yahaa.N Gam ke kaa.NTe ugate hai.n
+yahaa.N Gam ke kaa.NTe ugate hai.n
+phuulo.n kaa nazaaraa koii nahii.n
+bedard zamaane \threedots
+
+%
+#endindian
+\endsong
+%

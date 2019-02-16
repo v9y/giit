@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{jaaduu saa chhaane lagaa ... ye dil kyaa kare}%
+\film{Dil Kyaa Kare}%
+\year{1999}%
+\starring{Ajay Devgan, Kajol, Mahima Chaudhary}%
+\singer{Udit Narayan, Alka Yagnik/ Kumar Sanu, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+jaaduu saa chhaane lagaa paagal banaane lagaa
+kuchh yaad aane lagaa kuchh bhuul jaane lagaa
+kyaa naa kare kyaa kare ye dil kyaa kare
+
+diivaanaa paagal saa dil aa.Nkho.n me.n kaajal saa dil
+laharaate aa.Nchal saa dil zulfo.n me.n baadal kaa dil
+tarase na ye barase na ye
+ye dil kyaa kare \threedots
+
+tumase churaa le.n tumhe.n sabase chhupaa le.n tumhe.n
+jaa.n se lagaa le.n tumhe.n sapanaa banaa le.n tumhe.n
+mai.n betaab huu.N tuu bechain hai
+ye dil kyaa kare \threedots
+%
+%Part 2:
+%
+bhuulaa fasaanaa ko_ii guzaraa zamaanaa ko_ii
+saathii puraanaa ko_ii banake bahaanaa ko_ii
+agar dil me.n yuu.n samaa jaa_e to
+ye dil kyaa kare \threedots
+
+is paar rah naa sake us paar jaa naa sake
+khaamosh rah naa sake jo chaahe kah naa sake
+ye paagal samaa.n ye mausam javaa.n
+ye dil kyaa kare \threedots
+%
+#endindian
+\endsong
+

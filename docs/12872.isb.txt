@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{tumhe.n dil se chaahaa thaa hamane magar tum hu_e na hamaare}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhe.n dil se chaahaa thaa hamane magar tum hu_e na hamaare
+hamii.n se hii ye berukhii kyo.n sabhii dost hai.n tumako pyaare
+
+jo kaabil na the dostii  ke rahe paas vo aap hii ke
+hame.n bas adaavat se dekhaa na ik din muhabbat se dekhaa
+karo laakh inake nazaare kisii ke na ho.nge sitaare
+ye bas dekh le mere pyaare chhu_o to ye shole sharaare
+
+hasii.n jitanii jisakii adaa hai ke utanaa hii vo bevafaa hai
+ke patthar kaa inakaa jigar hai vafaa kaa na in pe asar hai
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+% 
+\startsong
+\stitle{jise tuu kabuul kar le vo sadaa kahaa.N se laauu.N}%
+\film{Devdas}%
+\year{1955}%
+\starring{Dilip Kumar, Vyjayanthimala, Suchitra Sen}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Sun Jul  9 1995
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+% Comments: Pankha Road se Pintu Diwana [37]
+%           (RJGK 22)
+%           Another of Sahir gem, in the line of "zindagee zulam sahee" on
+%           the sadness scale.
+%           Vijju is a tawaayaf, and Dilip, broken heart from his lover
+%           marrying someone else, finally lands at the mujra of Vijju.
+%
+\printtitle
+#indian
+%
+jise tuu kabuul kar le vo sadaa kahaa.N se laauu.N
+tere dil ko jo lubhaa le vo adaa kahaa.N se laauu.N
+
+mai.n vo phuul huu.N ke jisako gayaa har koii masal ke
+merii umr bah ga_ii hai mere aa.Nsuo.n me.n Dhal ke
+jo bahaar ban ke barase vo ghaTaa kahaa.N se laauu.N
+tere dil ko jo\threedots
+
+tujhe aur kii tamannaa mujhe terii aarzuu hai
+tere dil me.n Gam hii Gam hai mere dil me.n tuu hii tuu hai
+jo dilo.n ko chain de de vo davaa kahaa.N se laauu.N
+tere dil ko jo\threedots
+
+merii bebasii hai zaahir merii aah\-e\-be\-asar se
+kabhii maut bhii jo maa.Ngii to na paa_ii usake dar se
+jo muraad le ke aa_e vo duaa kahaa.N se laauu.N
+tere dil ko jo\threedots
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%

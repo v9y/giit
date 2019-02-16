@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{mujhe jab jab bahaaro.n ... kal chaman thaa aaj ik}%
+\film{Khandaan}%
+\year{1965}%
+\starring{Nutan, Sunil Dutt, Om Prakash}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10130 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mujhe jab jab bahaaro.n kaa zamaanaa yaad aa_egaa
+kahii.n apanaa bhii thaa ik aashiyaanaa yaad aa_egaa
+
+kal chaman thaa aaj ik saharaa hu_aa
+dekhate hii dekhate ye kyaa hu_aa
+kal chaman thaa \threedots
+
+mujhako barabaadii kaa ko_ii Gam nahii.n \-2
+Gam hai barabaadii kaa kyo.n charchaa hu_aa
+kal chaman thaa \threedots
+
+ek chhoTaa saa thaa meraa aashiyaa.N \-2
+aaj tinake se alag tinakaa hu_aa
+kal chaman thaa \threedots
+
+sochataa huu.N apane ghar ko dekhakar \-2
+ho na ho ye hai meraa dekhaa hu_aa
+kal chaman thaa \threedots
+
+dekhane vaalo.n ne dekhaa hai dhu_aa.N \-2
+kisane dekhaa dil meraa jalataa hu_aa
+kal chaman thaa \threedots
+%
+#endindian
+\endsong
+

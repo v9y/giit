@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{jiivan ke doraahe pe kha.De sochate hai.n ham}%
+\film{Chhoti Si Mulaqaat}%
+\year{1967}%
+\starring{Vyjayantimala, Uttam Kumar, Shashikala}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11048 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jiivan ke doraahe pe kha.De sochate hai.n ham
+jaa_e.N to kidhar jaa_e.N \-2
+taane hai dil idhar ko to khii.nche udhar qadam
+jaa_e.N to kidhar \threedots
+
+tere sivaa duniyaa me.n ko_ii ( nahii.n apanaa ) \-2
+kyaa jaagate kyaa sote dekhaa ( teraa sapanaa ) \-2
+ab aise tuu aa.Nkho.n me.n hai jaise ko_ii bharam
+jaa_e.N to kidhar \threedots
+
+har mo.D pe detaa hai ye ( sa.nsaar duhaa_ii ) \-2
+har Gaam pe detaa hai meraa ( pyaar duhaa_ii ) \-2
+is raaste ma.ndir hai to us raaste dharam
+jaa_e.N to kidhar \threedots
+%
+#endindian
+\endsong
+

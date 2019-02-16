@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{jaise suuraj ki garmii se jalate hue tan ko}%
+\film{Parinay}%
+\year{1974}%
+\starring{Romesh Sharma, Shabana Azmi}%
+\singer{Sharma Bandhu}%
+\music{Jaidev}%
+\lyrics{Ramanand Sharma}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Venkatasubramanian Gopalakrishnan (gopala@cs.wisc.edu)
+%          Raj Ganesan (cpd.tandem.com!raj)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaise suuraj kii garmii se jalate hue tan ko
+mil jaaye taruvar ki chhaayaa
+aisaa hii sukh mere man ko milaa hai
+mai.n jabase sharaN terii aayaa, mere raam
+
+bhaTakaa huaa meraa man thaa koI
+mil naa rahaa thaa sahaaraa
+laharo.n se la.Datii huI naav ko
+jaise mil naa rahaa ho kinaaraa, mil naa rahaa ho kinaaraa
+us la.Dakha.Daatii huI naav ko jo
+kisii ne kinaaraa dikhaayaa
+aisaa hii sukh \threedots
+
+shiital bane aag cha.ndan ke jaisii
+raaghav kR^ipaa ho jo terii
+ujiyaalii puunam kii ho jaae.n raate.n
+jo thii.n amaavas a.ndherii, jo thii.n amaavas a.ndherii
+yug\-yug se pyaasii marubhuumi ne
+jaise saavan kaa sa.ndes paayaa
+aisaa hii sukh \threedots
+
+jis raah kii ma.nzil teraa milan ho
+us par kadam mai.n ba.DhaaU.n
+phuulo.n me.n khaaro.n me.n, patajha.D bahaaro.n me.n
+mai.n na kabhii DagamagaaU.n, mai.n na kabhii DagamagaaU.n
+paanii ke pyaase ko taqadiir ne
+jaise jii bhar ke amR^it pilaayaa
+aisaa hii sukh \threedots
+%
+#endindian
+\endsong
+%

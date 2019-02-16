@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{shuul sii chubhe hai kyuu.n ye zi.ndagii merii}%
+\film{Shuul}%
+\year{1999}%
+\starring{Manoj Bajpai, Ravina Tondon}%
+\singer{Sukhvindar Singh}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+shuul sii chubhe hai kyuu.n ye zi.ndagii merii
+bhuul sii lage hai kyuu.n ye zi.ndagii merii
+saa.Nso.n me.n jalan aa.Nkho.n me.n agan
+sapano.n kaa jahaa.n dhu_aa.n dhu_aa.n
+chaaro.n taraf hai a.ndheraa ghanaa
+aa.Nsuu banii har khushii kaisii hai ye bebasii
+shuul sii chubhe hai \threedots
+
+dil kahe har kasam to.D duu.n dard kaa ye jahaa.n chho.D duu.n
+mai.n kisali_e majabuur huu.N samajhe nahii.n ko_ii yahaa.n
+shuul sii chubhe hai \threedots
+
+pha.ns gayaa mai.n vachan bol ke pii gayaa mai.n jahar ghol ke
+mujhako milaa ye kyaa silaa bikharaa meraa vo aashiyaa.n
+shuul sii chubhe hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{chappaa chappaa charakhaa chale}%
+\film{Maachis}%
+\year{}%
+\starring{Chandrachur Singh, Tabu}%
+\singer{Hariharan, Suresh Wadkar}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: Guri Buxi
+% Transliterator: K Vijay Kumar
+% Credits: Ikram Ahmed Khan
+% Editor:
+%
+\printtitle
+#indian
+%
+chappaa chappaa charakhaa chale 
+aunii\-paunii yaariyaa.N terii
+baunii\-baunii beriyo.N tale
+chappaa chappaa charakhaa chale   \threedots
+
+yaaraa ve, yaaraa\-ve, yaaraa\-ve~
+naaniyaa.N paradesiyaa
+
+chappaa chappaa charakhaa chale   \threedots
+
+gorii chaTakhorii jo kaTorii se khilaatii thii
+jumme ke jumme jo surame lagaatii thii
+kachchii mu.nDer tale
+chappaa chappaa charakhaa chale   \threedots
+
+jhuuThii\-muuThii moyii ne raso_ii me.n pukaaraa thaa
+lohe ke chimaTe se lipaTe to maaraa thaa
+'biibaa' teraa chuulhaa jale
+chappaa chappaa charakhaa chale   \threedots
+
+chunnii leke sotii thii, qamaal lagatii thii
+paanii me.n jalataa charaaG lagatii thii
+'biibaa' teraa yaad na Tale
+chappaa chappaa charakhaa chale   \threedots
+
+%
+#endindian
+\endsong
+%

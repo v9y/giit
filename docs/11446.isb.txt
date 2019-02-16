@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{kar de madad gariib kii ... aulaad vaalo.n phuulo.n phalo}%
+\film{Ek Phool Do Mali}%
+\year{1969}%
+\starring{Sadhna, Sanjay, Balraj Sahni}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: BOL ANAMOL #10697 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	kar de madad gariib kii teraa sukhii rahe sa.nsaar
+	bachcho.n kii kilakaarii se guu.Nje saaraa gharabaar
+
+	aulaad vaalo.n phuulo.n phalo \-2
+	bhuukhe gariib kii ye hii du_aa hai
+	aulaad vaalo.n \threedots
+
+aa \:	paise do paise se tumhaaraa kuchh na ghaTegaa daulat vaalo.n
+	le lo du_aa_e.N nirdhan kii ghan aur ba.Dhegaa daulat vaalo.n
+ra \:	usii ko milaa hai jag me.n jisane diyaa hai
+	aulaad vaalo.n \threedots
+
+aa \:	jug\-jug ji_e teraa laal rahe Kushahaal sadaa teraa naam karegaa
+	har pal jay\-jayakaar kare sa.nsaar ye aisaa naam karegaa
+ra \:	bhalaa_ii kaa badalaa bhalaa_ii milaa hai
+aa \:	bhuukhe gariib kii \threedots
+	aulaad vaalo.n \threedots
+
+ra \:	dhany hai vo insaan kare qurbaan jo dil kii saarii Kushiyaa.N
+aa \:	apane ghar kaa diipak de kar roshan kar de kisii kii duniyaa
+ra \:	vo insaa.N nahii.n hai ik devataa hai
+do \:	aulaad vaalo.n \threedots
+%
+#endindian
+\endsong
+

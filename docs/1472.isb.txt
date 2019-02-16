@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{pyaar diivaanaa hotaa hai mastaanaa hotaa hai}%
+\film{Kati Patang}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Ravi Kant Rai 
+%          K.G.Venkatasubramaniam (KGB) 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pyaar dIvaanaa hotaa hai, mastaanaa hotaa hai
+har khushii se, har Gam se, begaanaa hotaa hai
+pyaar dIvaanaa\threedots
+
+(shamaa kahe paravaane se, pare chalaa jaa 
+merii tarah jal jaayegaa, yahaa.N nahii.n aa ) \- (2)
+vo nahii.n sunataa usako jal jaanaa hotaa hai
+har khushii se, har Gam se, begaanaa hotaa hai
+
+(rahe koii sau parado.n me.n, Dare sharam se 
+nazar ajii laakh churaaye, koii sanam se   ) \- (2) 
+aa hii jaataa hai jisape dil aanaa hotaa hai
+har khushii se, har Gam se, begaanaa hotaa hai
+
+(suno kisii shaayar ne ye, kahaa bahut khuub
+manaa kare duniyaa lekin, mere mahabuub  ) \- (2)
+vo chhalak jaataa hai jo paimaanaa hotaa hai
+har khushii se, har Gam se, begaanaa hotaa hai
+
+pyaar dIvaanaa hotaa hai, mastaanaa hotaa hai
+har khushii se, har Gam se, begaanaa hotaa hai
+%
+#endindian
+\endsong
+%

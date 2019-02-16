@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{morii raam raam kanhaiyaa se kahiyo}%
+\film{Yugpurush}%
+\year{1998}%
+\starring{Nana Patekar, Jackie, Manisha, Ashwini, Mohan Joshi, Mohnish}%
+\singer{}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+morii raam raam kanhaiyaa se kahiyo morii raam raam
+morii raam raam \threedots
+
+saajan tum ham ek hai.n
+kahaa sunaa kii mat
+man ko toliye do man kabhii naa hoy
+morii raam raam \threedots
+
+sab mukh dekhe chandr ko
+mai.n mukh dekhuu.n to hai mere to chandr tumhii.n ho
+jab mukh dekhuu.n sukh hoy
+morii raam raam \threedots
+%
+#endindian
+\endsong
+

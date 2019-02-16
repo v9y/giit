@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{vo pahalii baar jab ham mile}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Shaan}%
+\music{Vishal, Shiraz, Samrat}%
+\lyrics{Vishal, Raj Kaushal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vo pahalii baar jab ham mile haatho.n me.n haath jab ham chale
+ho gayaa ye dil diivaanaa hotaa hai pyaar kyaa isane jaanaa
+
+terii aa.Nkho.n me.n jannat basaa ke chalaa
+terii zulfo.n kii chhaa.nv me.n chalataa chalaa
+tere naino.n me.n chain tere lab pe khushii
+tujhako hii mai.n muhabbat banaa ke chalaa
+vo pahalii baar jab ham mile ho ga_e shuruu ye silasile
+ho gayaa ye dil \threedots
+
+khilatii kaliyo.n me.n Dhuu.nDhuu.n bas tere nishaa.n
+mai.n na jaanuu hai aakhir ye kyaa kaaravaa.n
+tujhe dekhuu.n to aa_e lab pe khushii
+Kudaa naa kare ho.n kabhii duuriyaa.n
+vo pahalii baar \threedots
+
+ho gayaa huu.N mai.n paagal ab tere li_e
+tere bin dil bechaaraa ye kaise ji_e
+maine kho ke hai chain paa_ii tujhame.n khushii
+tuu banii jaan\-e\-jaanaa.n merii zi.ndagii
+vo pahalii baar \threedots
+%
+#endindian
+\endsong
+

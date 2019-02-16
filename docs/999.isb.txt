@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kidhar hai tuu aye merii tamannaa}%
+\film{Kurukshetra}%
+\year{}%
+\starring{Saigal}%
+\singer{Saigal}%
+\lyrics{Jimal Majhari}%
+\music{Pt. Ganpat Rao}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+kidhar hai tuu ai merii tamannaa (2)
+chiraag abhii thaa mere jalaa jaa
+mere a.ndhere kii roshanii ban (2)
+is uja.Dii mandir me.n merii aajaa
+
+mere gulistaa.N ke laalaa-o-gul 
+gaye hai.n muddate gulufatanaa
+o mere gulshan me.n merii devii (2)
+phir aake ik baar muskuraa jaa
+
+havaa rukii hai ise talaq de
+bujhe hai.n shole inhe.n lapak de
+khizaa ke dekheniyaa.n chhi.Dak de
+ik aag-sii har taraf lagaa jaa
+
+kidhar hai tuu ai merii tamannaa
+
+%
+#endindian
+\endsong
+%

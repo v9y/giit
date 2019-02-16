@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{o piyaa ... hu_aa kyaa kasuur mujhase rahate ho duur mujhase}%
+\film{Geet}%
+\year{1992}%
+\starring{Avinash Wadhawan, Divya Bharti, Laxmikant Berde, Shakti, Anil Dhawan}%
+\singer{Reshma}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o piyaa o piyaa o piyaa
+hu_aa kyaa kasuur mujhase rahate ho duur mujhase
+
+khud hii na chaahaa tumane mere paas aanaa
+fursat naa milane kaa kiyaa hai bahaanaa
+hu_aa kyaa kasuur \threedots
+
+mere li_e mar miTane ko taiyaar rahate the
+mujhase pal pal pyaar kaa tum ikaraar karate the
+to.D kyo.n diyaa dikhaa ke sapanaa suhaanaa
+fursat naa milane kaa \threedots
+%
+#endindian
+\endsong
+

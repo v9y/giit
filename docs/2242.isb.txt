@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ye duniyaa gol hai}%
+\film{Chaudhvin Ka Chaand}%
+\year{1960}%
+\starring{Johnny Walker, Guru Dutt, Waheeda, Rehman}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ye duniyaa gol hai, uupar se khol hai
+andar jo dekho pyaare bilakul polam\-pol hai
+ye duniyaa gol hai
+
+kitane hii duniyaa vaale, rahate hai.n gheraa Daale
+koii muraad maa.Nge, koii aulaad maa.Nge
+koii muhabbat chaahe, koii huquumat chaahe
+sabake gale me.n bhaiyyaa aramaano.n kaa Dol hai
+ye duniyaa gol hai   \threedots
+
+rupaiyya paisaa na maa.Nguu.N, sonaa chaa.Ndii na maa.Nguu.N
+kapa.Daa lattaa na maa.Nguu.N, gho.Daa gaa.Dii na maa.Nguu.N
+paravar_digaar mere, usakaa diidaar de de
+ek foto kaa savaal hai baabaa, bol ab tak nahii.n milaa
+paravar_digaar mere, usakaa diidaar de de
+jaldii milaa de merii duniyaa Daa.NvaaDol hai
+ye duniyaa gol hai   \threedots
+
+are baap re, ye kahaa.N se, Tyuun badalo
+mere maulaa bulaa le madiine ise
+lage mauke pe aane pasiine mujhe
+    - ise nahii.n, baabaa, mujhe
+achchhaa betaa, la.nbii umar ho jaldii se la.nbe ho jaao
+ye duniyaa gol hai   \threedots
+
+%
+#endindian
+\endsong
+%

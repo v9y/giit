@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{bin tere sanam, mar miTe.nge ham, aa merii zindagii}%
+\film{Yaara Dildaara}%
+\year{1989}%
+\starring{}%
+\singer{}%
+\music{Jatin-Lalit}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bin tere sanam, mar miTe.nge ham, aa merii zindagii \- 2
+aanaa hii pa.Daa, sajanaa, zaalim hai dil kii lagii \- 2
+bin tere sanam \threedots
+
+ho, (aanaa hii pa.Daa, sajanaa, zaalim hai dil kii lagii ) \- 2
+
+(tere hii dam se hogii, dil kii muraad pUrii
+tere bagair jaanam, hai zindagii adhuurii ) \- 2
+ai mere ha.nsii.n, ab na jaa kahii.n, aa merii zindagii
+aanaa hii pa.Daa, sajanaa, zaalim hai dil kii lagii
+bin tere sanam \threedots
+
+ye jaanakar balamajii, thaamii hai terii baahe.n
+sahanii pa.De.ngii sabakii, kaa.NTo bharii nigaahe.n
+sab sahe.nge ham, aur ha.nse.nge ham, aa merii zindagii
+o ho ho, aanaa hii pa.Daa, sajanaa, zaalim hai dil kii lagii
+bin tere sanam \threedots
+
+tum ho mere to ab hai, mausam gulaam apanaa
+ho, shabanam ne likh diyaa hai, phuulo.n pe naam apanaa
+sun havaa yahii giit gaa rahii, aa merii zindagii
+aanaa hii pa.Daa, sajanaa, zaalim hai dil kii lagii
+bin tere sanam \threedots
+%
+#endindian
+\endsong
+%

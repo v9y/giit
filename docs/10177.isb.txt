@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dil to khoyaa hai yahii.n pe kahii.n pe}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	mujhe to hone lagaa hai pyaar mere yaar o mere yaar \-2
+	na jaane dil kyuu.N hai beqaraar mere yaar o mere yaar \-2
+u \:	hamaarii ma.nzile.n judaa judaa mile.nge kab kahaa.N kise pataa
+	ho hamaarii ma.nzile.n \threedots
+ku \:	rahegaa dil ko i.ntazaar mere yaar o mere yaar \-2
+	mujhe to hone lagaa hai \threedots
+
+a \:	( beqaraar hoke kyaa karuu.Ngii
+	ro ke yaad terii mujhako jab sataa_egii
+u \:	mai.n na jii sakuu.Ngaa aa.Nsuu na pii sakuu.Ngaa
+	dostii mujhe bahut rulaa_egii ) \-2
+ku \:	lab pe rahegii milan kii du_aa ho ho ho
+	naa hogaa khud pe iKtiyaar mere yaar o mere yaar
+	mujhe to hone lagaa hai \threedots
+
+u \:	( kyaa hasii.n umr thii na ko_ii fiqr thii
+	kaT rahii thii muskaraa ke zindagii
+ku \:	kyaa javaa.n safar thaa na kisii kaa Dar thaa
+	dard thaa na ko_ii na ko_ii beqasii ) \-2
+u \:	jiine kaa ham le rahe hai.n mazaa ho ho ho
+ku \:	Kushii milii hai beshumaar mere yaar o mere yaar
+	mujhe to hone lagaa hai \threedots
+%
+#endindian
+\endsong
+

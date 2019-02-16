@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{meraa dil kahane lagaa dil me.n ko_ii rahane lagaa}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Srinivas, Chitra}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa dil kahane lagaa dil me.n ko_ii rahane lagaa
+raat din yaad sataa_e sapanaa teraa aa_e jaa_e
+mai.n banaa jabase teraa diivaanaa
+pyaar kyaa hai sanam maine jaanaa
+tuune meraa chain churaayaa
+chaahat kaa dard jagaayaa
+meraa dil kahane \threedots
+
+tanhaa jo kahii.n mai.n teraa naam luu.n
+jaane kyuu.n lage bekhudii
+aake tuu mujhe baaho.n me.n thaam le
+kahatii hai ye merii zi.ndagii
+betaabiyo.n ko karaar de
+aa zaraa mujhako pyaar de
+nii.nd ga_ii hosh u.Daayaa
+kaisaa nashaa mujhape chhaayaa
+meraa dil kahane \threedots
+
+dil me.n dha.Dakane.n rahatii hai.n jis tarah
+mujh me.n us tarah tuu sanam
+tere bin kabhii ye saa.Nse.n naa chale.n
+saa.Nso.n ko hai merii kasam
+har pal rahe saamane tuu
+ab merii yahii hai aarazuu
+maine tujhe jab se paayaa
+duniyaa ko pal me.n bhulaayaa
+%
+#endindian
+\endsong
+

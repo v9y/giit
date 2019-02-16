@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ai mere hamasafar, ik zaraa intazaar}% 
+\film{Qayamat Se Qayamat Tak}%
+\year{1988}%
+\starring{Amir Khan, Juhi Chawla}%
+\singer{Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: Porky (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+ai mere hamasafar, ik zaraa intazaar 
+sun sadaae.n, de rahii hai, ma.nzil pyaar kii 
+
+1) ab hai judaa_ii kaa mausam, do pal kaa mehamaan 
+kaise nA jaaegaa a.ndheraa, kyU.N nA thamegaa tuufaan 
+kaise naa milegii, ma.njil pyaar kii \threedots 
+
+2) pyaar ne jahaa.N pe rakhaa hai, jhuum ke kadam ik baar 
+vahii.n se khulaa hai koI rastaa, vahI.n se girii hai dIvaar 
+roke kab rukii hai, ma.nzil pyaar kii \threedots 
+%
+#endindian
+\endsong
+%

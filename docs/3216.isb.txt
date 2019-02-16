@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{tere binaa mai.n kuchh bhii nahii.n}%
+\film{Jaanejaan}%
+\year{1982}%
+\starring{Neetu Singh, Randhir Kapoor, Ajit, Bindu}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Shalini Razdan
+% Transliterator: Surajit A. Bose
+% Date: July 2, 2001
+% Credits:
+% Editor:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+##Chorus:##
+tere binaa mai.n kuchh bhii nahii.n huu.N
+mere binaa tuu kuchh bhii nahii.n
+
+##Kishore:##
+(ho tere binaa mai.n kuchh bhii nahii.n huu.N
+mere binaa tuu kuchh bhii nahii.n) \-2
+chalate chalate mil jaaye dhaaraa se jo dhaaraa
+milate milate vaise hii mil jaaye dil se dil yaaraa
+tere binaa \threedots
+
+##Kishore:##
+dil se badalaa apane dil me.n pyaar basaa \-2
+ho jaa kisiikaa tuu yaa phir apanaa koii banaa
+usakaa jiinaa bhii kyaa hai jiivan se jo haaraa \-2
+tere binaa \threedots
+
+##Asha:##
+duniyaa ye duniyaa apanii nahii.n hai
+ham to chale hai.n aur kahii.n
+
+##Asha:##
+hogii ba.Dii hasii.n duniyaa apane liye nahii.n \-2
+ho, diyaa jo duniyaa ne vo ham chho.Dake aaye kahii.n
+apanaa haal to aisaa hai badalii me.n ho taaraa \-2
+duniyaa ye duniyaa apanii nahii.n hai
+ham to chale hai.n aur kahii.n
+
+##Chorus:##
+tere binaa \threedots
+
+%
+#endindian
+\endsong
+%

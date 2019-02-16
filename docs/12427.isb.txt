@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{chann maahiyaa ... aapakaa aanaa ... pyaar aa gayaa re}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chann maahiyaa chann maahiyaa Dhol nagaa.Daa vaaje chann maahiyaa
+chann maahiyaa chann maahiyaa tuu meraa pyaar laa de chann maahiyaa
+
+aapakaa aanaa dil dha.Dakaanaa
+meha.ndii lagaa ke yuu.n sharamaanaa
+pyaar aa gayaa re pyaar aa gayaa
+o o
+kyuu.n hotaa hai dil diivaanaa
+aaj ye hamane jaanaa
+pyaar aa gayaa re pyaar aa gayaa
+aapakaa aanaa dil dha.Dakaanaa
+Daal ke daanaa mujhe sataanaa
+pyaar aa gayaa re \threedots
+
+milii jo nazar hu_aa ye asar
+ye dil gum hu_aa are bekhabar
+chhupii hai sharaarat tere pyaar me.n
+dil haar baiThe pahalii baar me.n
+pal me.n apanaa kyuu.n ho jaataa hai ko_ii begaanaa
+pyaar aa gayaa re \threedots
+
+tere pyaar kaa nashaa chhaa gayaa
+milii vo sazaa mazaa aa gayaa
+baato.n ne terii jaaduu kiyaa
+ban baiThaa tuu meraa piyaa
+khan khan bole chuu.Dii merii Dolii le ke aanaa
+pyaar aa gayaa re \threedots
+%
+#endindian
+\endsong
+

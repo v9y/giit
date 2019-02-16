@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mujhe aapakii yahaa.n chaahat lekar aa_ii hai ... maine aapase shoharat}%
+\film{Shohrat}%
+\year{1996}%
+\starring{Avinash Wadhawan, Sudesh Berry, Madhu, Varsha Usgaonkar}%
+\singer{Udit Narayan}%
+\music{Nikhil Vinay}%
+\lyrics{Yogesh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe aapakii yahaa.n chaahat lekar aa_ii hai
+sach maani_e merii baato.n me.n sachchaa_ii hai
+maine aapase shoharat kii ma.nzil paa_ii hai
+ab mai.n kahaa.N jaa_uu.ngaa jab tak kahaa gaa_uu.ngaa
+mujhe aapakii yahaa.n \threedots
+
+churaa le gayaa ye dil to meraa
+mujhako ye dekhane kaa a.ndaaz aapakaa
+khvaabo.n tale kho gayaa huu.N
+diivaanaa mai.n ho gayaa huu.N
+ab mai.n kahaa.N \threedots
+
+ko_ii saamane nazar ke rahe
+to jhuum ke gaataa jaa ye dil meraa kahe
+ye aap maane.n na maane.n
+aayaa huu.N naGme.n sunaane
+ab mai.n kahaa.N \threedots
+%
+#endindian
+\endsong
+

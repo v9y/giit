@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{haa.N tumhe.n ham chaahate hai.n ... kaun mai.n haa.N tum bas tum offo}%
+\film{Ajnabee}%
+\year{2002}%
+\starring{Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\singer{Udit Narayan, Alka Yagnik, Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+haa.N tumhe.n tumhe.n tumhe.n ham chaahate hai.n
+dekho naa tum se duur jaa kar tumhaare paas aate hai.n
+kaun mai.n haa.N tum bas tum offo
+haa.N tumhe.n \threedots
+
+tho.Dii sii mastii tho.Daa saa nashaa hai
+kaise bataa_uu.N is dil me.n kyaa hai
+ko_ii adaa se bijalii giraa_e
+ko_ii nazar se jaaduu chalaa_e
+jaanaa.n maine jaanaa hai tuu meraa diivaanaa hai
+ko_i a.njaanaa hai ko_ii pareshaan hai
+kaun mai.n haa.N tum bas tum offo
+haa.N tumhe.n \threedots
+
+ho ye husn teraa kaatil ba.Daa hai
+saaraa zamaanaa is pe fidaa hai
+he karane lagii hai rut be_imaanii
+bach ke hai rahanaa ham ko diivaanii
+dekho aa.Nkho.n aa.Nkho.n me.n
+haa_y aisii mulaakaato.n me.n
+luuTe ko_ii baato.n me.n
+dekhe ko_ii pyaar se
+kaun mai.n haa.N tum bas tum offo
+haa.N tumhe.n \threedots
+%
+#endindian
+\endsong
+

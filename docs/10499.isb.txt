@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mai.n to huu.N paagal ye kahuu.N har pal}%
+\film{Baadshaah}%
+\year{1999}%
+\starring{Shahrukh Khan, Twinkle Khanna}%
+\singer{Abhijit, Shahrukh Khan, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n to huu.N paagal ye kahuu.N har pal
+kar ko_ii halachal hone de hone de
+hone de hone de hone de ko_ii diivaanagii
+
+ret me.n tairanaa siikh le aur samu.ndar ke uupar Tahal
+biin bhai.nso.n ke aage bajaa aur havaa me.n banaa le mahal
+##suit## lohe kaa silavaa le tuu aur pairo.n pe chashmaa lagaa
+haath me.n baa.ndh le vo gha.Dii jisame.n ho saa.Dhe terah bajaa aa.ny
+mai.n to huu.N paagal \threedots
+
+pe.D se to.D le machhaliyaa.n billiyo.n ko tuu gaanaa sikhaa
+chaa.Nd ko kar de chakor tuu aur suuraj tikonaa banaa
+o binaa pahi_e kii gaa.Dii me.n chal bhuul jaa apane ghar kaa pataa
+le ke haathii ko muTThii me.n tuu kaibare dekh le uu.nT kaa aa.ny
+mai.n to huu.N paagal \threedots
+%
+#endindian
+\endsong
+

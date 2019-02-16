@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{huu.N huu.N ek ritu aa_e ek ritu jaa_e mausam badale naa}%
+\film{Gautam Govindaa}%
+\year{1979}%
+\starring{Shashi Kapoor, Shatrughan Sinha, Mausami Chaterji, Aruna Irani}%
+\singer{Kishor}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.N huu.N
+ek ritu aa_e ek ritu jaa_e
+mausam badale naa badale nasiib
+kaun jatan karuu.n kaun upaay
+ek ritu aa_e \threedots
+
+tak tak suukhe patte aa.Nkhe.n taras ga_ii.n
+baadal to na barase aa.Nkhe.n baras ga_ii.n
+baras baras dukh ba.Dhataa jaa_e
+ek ritu aa_e \threedots
+
+ho ho
+pyaasii ba.njar dharatii kisakaa peT bhare o
+bhukhe pyaase bachche khetii kaun kare
+maa.N kii mamataa niir bahaa_e
+ek ritu aa_e \threedots
+
+aah
+pyaar na karanaa nafarat karanaa siikh liyaa
+sab logo.n ne la.Danaa maranaa siikh liyaa
+inako jiinaa kaun sikhaa_e
+ek ritu aa_e \threedots
+%
+#endindian
+\endsong
+

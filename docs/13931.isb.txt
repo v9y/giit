@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tere baare me.n jab sochaa nahii.n thaa}%
+\film{Saher (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Meraj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere baare me.n jab sochaa nahii.n thaa
+mai.n tanhaa thaa magar itanaa nahii.n thaa
+tere baare me.n jab \threedots
+
+terii tasviir se karataa thaa baate.n
+mere kamare me.n aa_iinaa nahii.n thaa
+mai.n tanhaa thaa \threedots
+
+sama.ndar ne mujhe pyaasaa hii rakhaa
+mai.n jab saharaa me.n thaa pyaasaa nahii.n thaa
+mai.n tanhaa thaa \threedots
+
+manaane ruuThane ke khel me.n ham
+bichha.D jaa_e.nge ye sochaa nahii.n thaa
+mai.n tanhaa thaa \threedots
+
+sunaa hai ba.nd kar lii.n usane aa.Nkhe.n
+ka_ii raato.n se vo soyaa nahii.n thaa
+mai.n tanhaa thaa \threedots
+%
+#endindian
+\endsong
+

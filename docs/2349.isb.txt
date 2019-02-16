@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ik pyaar kaa naGamaa hai, maujo.n kii ravaanii hai}%
+\film{Shor}%
+\year{1972}%
+\starring{Manoj Kumar, Jaya Bhaduri}%
+\singer{Lata, Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: Swaraj Mishra
+% Transliterator: K Vijay Kumar
+% Comments:
+%
+\printtitle
+#indian
+%
+ek pyaar kaa naGamaa hai, maujo.n kii ravaanii hai
+zi.ndagii aur kuchh bhii nahii.n, terii merii kahaanii hai - (2)
+
+kuchh paakar khonaa hai, kuchh khokar paanaa hai
+jiivan kaa matalab to, aanaa aur jaanaa hai
+do pal ke jiivan se, ek umr churaanii hai
+zi.ndagii aur...
+
+tuu dhaar hai nadiyaa kii, mai.n teraa kinaaraa huu.N
+tuu meraa sahaaraa hai, mai.n teraa sahaaraa huu.N
+aa.Nkho.n me.n sama.ndar hai, aashaao.n kaa paanii hai
+zi.ndagii aur...
+
+tuufaan to aanaa hai, aakar chale jaanaa hai
+baadal hai ye kuchh pal kaa, chhaakar Dhal jaanaa hai
+parachhaai.nyaa.N rah jaatii.n, rah jaatii nishaanii hai
+zi.ndagii aur...
+
+jo dil ko tasallii de, vo saaz uThaa laao
+dam ghuTane se pahale hii, aavaaz uThaa laao
+khushiyo.n kii tamannaa hai, ashko.n kii ravaanii hai
+zi.ndagii aur...
+
+%
+#endindian
+\endsong
+%

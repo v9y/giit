@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham ne to dil ko aapake kadamo.n pe rakh diyaa}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ra: ham ne to dil ko aapake kadamo.n pe rakh diyaa \- 2
+is dil kyaa kare.nge ye ab aap sochiye 
+
+aa: ham aap ke vafaa kii kasam khaa rahe hai.n aaj \- 2
+ahad\-e\-vafaa kare.nge ye ab aap sochiye 
+
+ra: jab dil se ham ne jo.D liyaa dil kaa silasilaa \- 2
+aage hai kyaa nasiib me.n jaane merii balaa 
+jo.Daa jab aap hii se muhobbat kaa faisalaa 
+kyaa faisalaa kare.nge ab aap sochiye 
+ham ne to dil ko aapake \threedots
+
+aa: chaahat kaa aitabaar hai, kitanaa hasiin khvaab 
+aise me.n kaun maa.Nge kisii baat kaa javaab 
+jab aap hii ke haath hai taqadIr kii kitaab 
+kyaa kyaa likhA kare.nge ab aap sochiye 
+ra: ham ne to dil ko aapake \threedots
+aa: ham aap kii vafaa kI \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{maataa sarasvatii shaaradaa}%
+\film{Alaap}%
+\year{}%
+\starring{Amitabh, Rekha, Om Prakash, Chhaya Devi, Sanjeev Kumar}%
+\singer{Lata, Dilraj Kaur, Yesudas, Madhurani}%
+\music{Jaidev}%
+\lyrics{Traditional}%
+%
+% Contributor : Dr. Mandar VB
+% Transliterator : Surajit Bose
+% Credits :
+% Comments :
+%
+\printtitle
+#indian
+%
+
+maataa saras_vatii shaaradaa
+vidyaa daanii, dayaanii, duHkha hariNii
+jagata jananii jvaalaamukhii maataa saras_vatii
+
+kiije sud^RiShTii, sevak jaan apanaa
+itanaa varadaan diije, taan, taal, aur alaap
+buddhii ala.nkaar, shaaradaa, maataa saras_vatii
+
+%
+#endindian
+\endsong
+%

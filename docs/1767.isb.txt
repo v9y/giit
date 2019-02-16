@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tum jo mil gae ho, to ye lagataa hai, ke jahaa.N mil gayaa}%
+\film{Hanste Zakhm}%
+\year{}%
+\starring{Balraj Sahni, Navin Nischal, Priya Rajvansh}%
+\singer{Rafi, Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum jo mil gae ho to ye lagataa hai ke jahaa.N mil gayaa
+ek bhuule hue raahii ko kaaravaa.N mil gayaa
+
+baiTho na duur hamase, dekho khafaa na ho
+qismat se mil gae ho, milake judaa na ho
+merii kyaa Kataa hai, hotaa hai ye bhii
+kii zamii.n se aasamaa.n mil gayaa, tum \threedots
+
+tum kyaa jaano tum kyaa ho, ek suriilaa naGmaa ho
+bhiigii raato.n me.n mastii, tapate dil me.n saayaa ho
+ab jo aa gae ho jaane na duu.ngaa
+kii mujhe ik hasiin meharabaa.N mil gayaa, tum \threedots
+
+tum bhii the khoe khoe, mai.n bhii bujhaa\-bujhaa
+thaa ajanabii zamaanaa apanaa koii na thaa
+dil ko jo mil gayaa hai teraa sahaaraa
+ik na_ii zi.ndagii kaa nishaa.n mil gayaa, tum \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{roshanii se bhare bhare nainaa tere}%
+\film{Asoka}%
+\year{2002}%
+\starring{Shahrukh Khan, Kareena Kapoor, Dainny Denjongpa, Rahul Dev, Rishita Bhatt}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+roshanii se bhare bhare
+bhare bhare nainaa tere
+chhuu ke bole.n na chhuunaa mujhe
+
+sapano.n se bhare bhare
+bhare bhare nainaa tere
+chhuu ke bole.n na chhuunaa mujhe
+
+Dhuu.NDhaa hai Dhuu.NDhaa hai tujhe aakaash uupar tale
+shaayad kisii badarii me.n lipaTii hu_ii tuu mile
+aa Dhuu.NDhaa hai Dhuu.NDhaa hai tujhe aakaash uupar tale
+shaayad kisii nadiyaa pe chalataa hu_aa tuu mile
+roshanii se \threedots
+
+maine samay se rok ke teraa pataa puuchhaa hai
+niilii nadii se kah ke saagar tale Dhuu.NDhaa hai
+o laharo.n pe chalate hu_e paanii ke phan chhuute hai.n
+jaise tere ye haath ho meraa ye tan chhuute hai.n
+roshanii se \threedots
+%
+#endindian
+\endsong
+

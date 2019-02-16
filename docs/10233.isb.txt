@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{priit lagaa ke maine ye phal paayaa}%
+\film{Ankhen}%
+\year{1950}%
+\starring{Shekhar, Nalini Jaywant}%
+\singer{Mukesh}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10550 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Madan Mohan
+% 
+\printtitle
+#indian
+%
+priit lagaa ke maine ye phal paayaa
+sudh\-budh kho_ii chain ga.nvaayaa
+
+tumane mujhase pyaar kiyaa thaa
+ulfat kaa ikaraar kiyaa thaa
+apanaa banaa ke pahale phir bisaraayaa
+priit kaa vaadaa Kuub nibhaayaa
+priit lagaa ke maine \threedots
+
+aa ke jo dekhe tuu dukh mere \-2
+kyaa na bahe.nge aa.Nsuu tere
+dukh de ke mujhako tuune kyaa sukh paayaa
+tujhako bedardii raham na aayaa
+priit lagaa ke maine \threedots
+
+ik jhalak phir se dikhalaa de \-2
+Kvaabo.n me.n aa kar itanaa bataa de
+diip bujhaakar in naino.n kaa
+kisake man kaa diip jalaayaa
+priit lagaa ke maine \threedots
+%
+#endindian
+\endsong
+

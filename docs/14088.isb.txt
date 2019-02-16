@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{maine tujhase pyaar kiyaa hai isame.n merii khataa nahii.n}%
+\film{Suryaa/ The Awakening}%
+\year{1989}%
+\starring{Vinod Khanna, Raj Babbar, Bhanupriya, Shakti, Amrish, Rajkumar}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine tujhase pyaar kiyaa hai isame.n merii khataa nahii.n
+kitanaa pyaar kiyaa hai tujhako isakaa mujhe pataa nahii.n
+maine tujhase pyaar \threedots
+
+ik phuul chunaa hai maine itane ba.De chaman se
+ik sitaaraa churaa liyaa hai itane ba.De gagan se
+saarii duniyaa dekhii maine ko_ii mujhako ja.nchaa nahii.n
+tere aage sar jhukataa hai kyuu.n jhukataa hai pataa nahii.n
+kitanaa pyaar kiyaa hai tujhako \threedots
+
+mahakii mahakii baat kare.n ham karz bahaaro.n se le le.n
+apane apane khvaab bune.n ham yuu.n hii khyaalo.n me.n khele.n
+tuu mujhako achchhii lagatii hai kyo.n lagatii hai pataa nahii.n
+kitanaa pyaar kiyaa hai mujhako \threedots%
+#endindian
+\endsong
+

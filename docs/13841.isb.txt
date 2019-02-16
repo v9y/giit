@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{pahalii pahalii baar mile hai.n ... achchhaa jii}%
+\film{Road No. 303}%
+\year{1960}%
+\starring{Mehmood, Shobha Khote, Bhagwan, K N Singh, Tiwari, Sheelu, Helen}%
+\singer{Rafi, Asha}%
+\music{C Arjun}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10086 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	pahalii pahalii baar mile hai.n do diivaane
+aa \:	achchhaa jii
+ra \:	ho jaa_egaa pyaar kisii naa kisii bahaane
+aa \:	achchhaa jii
+ra \:	pahalii pahalii baar mile \threedots
+
+aa \:	aa.Nkho.n ne aa.Nkho.n se milakar khole dil ke raaz
+ra \:	mere dil ne tere dil kii samajhii hai aavaaz
+aa \:	tumhii.n socho tumhii.n samajho aage kyaa hogaa
+ra \:	pahalii pahalii baar mile \threedots
+
+ra \:	baato.n hii baato.n me.n tuune chhe.De dil ke taar
+aa \:	ha.Nsate ha.Nsate ham ye kaisaa kar baiThe ikaraar
+ra \:	chho.Do jii pachhataanaa kaisaa hu_aa jo honaa thaa
+aa \:	pahalii pahalii baar mile \threedots
+
+aa \:	hamane tumase tumane hamase kah dii dil kii baat
+ra \:	haath ba.Dhaakar haath milaa lo rahe.nge dono.n saath
+aa \:	kyaa kar legii duniyaa dekhaa jaa_egaa
+do \:	pahalii pahalii baar mile \threedots
+%
+#endindian
+\endsong
+

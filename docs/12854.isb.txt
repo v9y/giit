@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chham chakaa chham chakaa gaa_e sapanaa}%
+\film{Mere Sapnon Ki Raani}%
+\year{1997}%
+\starring{Sanjay Kapur, Urmila, Madhu, Anupam, Satish Kaushik, Shakti}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chham chakaa chham chakaa gaa_e sapanaa
+pyaar kii saragam pe sajaa nagamaa
+mere is ra.ng me.n tum bhii ra.ng jaa_oge
+mai.n bhii gaa_uu.ngii tum bhii gaa_oge
+lag jaane do ye giit apanaa
+
+mere in labo.n pe bas naam ho teraa
+tumako chaahanaa hii bas kaam ho meraa
+tuune kah diyaa kyaa dil jhuum jhuum uThaa
+khil ga_ii hu_ii mai.n jo ye pyaar hai teraa
+ha.Nsataa khilataa cheharaa teraa ye dekhe
+jaba jab tujhako dekhe.n mere nayan
+aajaa pyaar me.n yuu.n kho jaa_e.nge
+ham do se sanam ek ho jaa_e.nge
+mujhako jii bhar ke yaar pyaar karanaa
+chham chakaa chham \threedots
+%
+#endindian
+\endsong
+

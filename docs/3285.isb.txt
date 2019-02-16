@@ -1,0 +1,34 @@
+% ITRANS SONG # 3285; Created on Jan 26, 2004
+%
+%      From: Nimish Pachapurkar (Nimish.Pachapurkar@asu.edu)
+%      Date: 2002-08-28 23:34:34 PST 
+%
+\startsong
+\stitle{banatii nazar aatii nahii.n tadabiir hamaarii}%
+\film{Lal Haveli}%
+\year{1944}%
+\starring{Noorjehan, Surendra, Ulhas, Baby Meena, Maya Banerji, Yaqub}
+\singer{Noorjehan}%
+\music{Mir Saheb}%
+\lyrics{Shums Lucknavi}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Credits:  GEETanjali- 29th August 2002
+%
+\printtitle
+#indian
+banatii nazar aatii nahii.n tadabiir hamaarii
+mar jaaye.nge tab jaagegii takadiir hamaarii
+
+kyuu.N mast havaae.n hame.n aa aa ke sataaye.n
+kuchh yaad dilaaye.n bijalii sii giraaye.n
+dil TuuT chukaa luT chukii jaaGiir hamaarii
+
+jii chaahataa hai aag jamaane me.n lagaa duu.N
+duniyaa ko jalaa duu.N
+baakii nahii.n ab aaho.n me.n taasiir hamaarii
+%
+#endindian
+\endsong
+%

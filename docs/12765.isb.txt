@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aurat naa ho to zi.ndagii hai kau.Dii}%
+\film{Ladki}%
+\year{1953}%
+\starring{Kishore, Bharat Bhushan, Vyjayantimala}%
+\singer{Kishore, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11927 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aurat naa ho to zi.ndagii hai
+kyaa hai
+kau.Dii kaam kii
+ai dil kiye jaa puujaa tuu aurat ke naam kii \-2
+
+aurat hai jis kaa naam wo dil kaa qaraar hai
+aurat ke dam se zindagii baaG\-o\-bahaar hai \-2
+
+aa
+duniyaa andherii raat hai
+vaah\-vaah vaah\-vaah
+aurat charaaG hai
+ai
+aurat hai jis kaa naam mohabbat kaa baaG hai \-2
+
+Daran\-Daran\-Dang
+%
+#endindian
+\endsong
+

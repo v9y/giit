@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ham bhii samajh rahe hai.n}%
+\film{Ghaat}%
+\year{2000}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Hariharan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye hamako kyaa hu_aa hai ye tumako kyaa hu_aa hai
+ham bhii samajh rahe hai.n tum bhii samajh rahe ho
+ye dil kii meharabaanii ye pyaar kii du_aa hai
+ham bhii samajh \threedots
+
+sharam\-o\-hayaa kii chaadar se ham phisal rahe hai.n
+bahake hai.n paa.nv phir bhii ham to sa.mbhal rahe hai.n
+tumane hamaare tan ko aa.Nkho.n se yuu.n chhu_aa hai
+ham bhii samajh \threedots
+
+betaabiyo.n ko dekho kitanaa karaar aa_e
+baaho.n me.n aa ke  terii har dard bhuul jaa_e.n
+Thahare hai.n ham jahaa.n pe lamhaa vahii.n rukaa hai
+ham bhii samajh \threedots
+%
+#endindian
+\endsong
+

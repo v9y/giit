@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aatii hai to chal mere saath me.n}%
+\film{Saat Rang Ke Sapne}%
+\year{1998}%
+\starring{Arvind Swamy, Juhi, Anupam, Farida, Tinu, Satish Shah, Aruna Irani}%
+\singer{Nitin Mukesh, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aatii hai to chal mere saath me.n
+de de saathiyaa haatho.n ko haath me.n
+rahanaa hai har pal ab tere saath me.n
+le le saathiyaa haatho.n ko haath me.n
+mor ke sa.ng hai moranii saavan ke saath ghaTaa
+nadii ke sa.ng naa.nv hai mausam ke saath havaa
+aatii hai to chal \threedots
+
+tuu jo muskuraa_e khil jaa_e.n gu.nche gulazaar ke
+terii choTiyo.n me.n raanii mahake.n phuul bahaar ke
+par hai.n suhaane tere miiThe miiThe bol re
+aa re jaa o bha.nvare naa aage piichhe Dol re
+zor pe hai purava_iyaa dupaTTaa u.D naa jaa_e
+kalaa_ii tuu jo paka.De merii chuu.Dii sharamaa_e ho ho
+aatii hai to chal \threedots
+
+mere sapano.n kii paayal chhanake gore paa.nv me.n
+zaraa der baiThe.n aaj ham palako.n kii chhaa.nv me.n
+saa.Nso.n me.n sitaar pe hamajolii teraa naam hai
+terii merii priit kii paavan sinduurii shaam hai
+duur vaadii me.n jaa_e kisii dulhan kii Dolii
+saje hai.n aramaa.n aise sajii jaisii ra.ngiilii
+aatii hai to chal \threedots
+%
+#endindian
+\endsong
+

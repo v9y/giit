@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aahaa rimajhim ke ye pyaare pyaare giit lie}%
+\film{Usane Kaha Tha}%
+\starring{Sunil Dutt, Nanda}%
+\singer{Talat, Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Pradeep Dubey (pradeep@watson.ibm.com)
+%          Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+t: aahaa rimajhim ke ye pyaare pyaare giit lie
+aaI raat suhaanii dekho priit lie
+miit mere suno zaraa havaa kahe kyaa, aa \threedots
+suno to zaraa, jhii.ngar bole chiikiimiikii chiikiimiikii
+rimajhim ke ye pyaare pyaare giit lie 
+## Then Lata repeats it##
+
+t: (khoii sii bhiigii bhiigii raat jhuume
+aa.Nkho.n me.n sapano kii baaraat jhuume ) \- 2
+dil kii ye duniyaa aaj baadalo.n ke saath jhuume
+aahaa rimajhim ke ye \threedots
+
+l: (aa jaao dil me.n basaa luu.N tumhe.n
+naino.n kaa kajaraa banaa luu.N tumhe.n ) \- 2
+jaalim zamaane kii nigaaho.n se chhupaa luu.N tumhe.n
+aahaa rimajhim ke ye \threedots
+
+t: (haath.on me.n tere meraa haath rahe
+dil se jo nikalii hai vo baat rahe ) \- 2
+meraa tumhaaraa saarii zindagii kaa saath rahe
+aahaa rimajhim ke ye \threedots
+%
+#endindian
+\endsong
+%

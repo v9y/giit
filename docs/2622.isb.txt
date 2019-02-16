@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kis ko khabar thii kis ko yaqii.n thaa}%
+\film{Devdas}%
+\year{1955}%
+\starring{Dilip Kumar, Suchitra Sen, Vyjayantimala}%
+\singer{Talat}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor : Ramesh
+% Transliterator : Vijay Kumar
+% Credits :
+% Comments :
+%
+\printtitle
+#indian
+%
+
+kis ko khabar thii kis ko yaqii.n thaa
+aise bhii din aaye.nge
+haay
+jiinaa bhii mushakil hogaa aur marane bhii na paaye.nge
+haay kis ko khabar thii
+
+ham jaise barbaad dilo.n kaa
+jiinaa kyaa aur maranaa kyaa
+aaj terii mahafil se uThe
+kal duniyaa.N se uTh jaaye.nge
+haay kis ko khabar thii
+
+%
+#endindian
+\endsong
+%

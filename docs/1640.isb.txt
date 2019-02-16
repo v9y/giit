@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{soche.nge tumhe.n pyaar kare ke nahii.n, ye dil bekaraar kare ke nahii.n}%
+\film{Deewaanaa}%
+\year{}%
+\starring{Rishi Kapoor, Divya Bharathi, Shah Rukh Khan}%
+\singer{Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+## hm m hm m, hm hm ## \threedots
+
+soche.nge tumhe.n pyaar kare ke nahii.n
+ye dil beqaraar kare ke nahii.n 
+yaado.n me.n basaayaa tumako khvaabo.n me.n chhupaayaa tumako \- 2
+miloge hame.n tum jaanam, kahii.n nA kahii.n 
+soche.nge tumhe.n pyaar kare ke nahii.n
+
+tum ho khilataa mahakaa saa kamal \- 2
+ham jo gaaye tum ho vo gazal 
+kamasin bholaa saa mukha.Daa lagatii ho chaa.Nd kA ik Tuka.Daa 
+tumasA nahii.n hai koI, pyaaraa sanam, pyaaraa sanam 
+soche.nge tumhe.n pyaar kare ke nahii.n
+ye dil beqaraar kare ke nahii.n 
+
+jis din tum ko dekhegii nazar \- 2
+jaane dil pe hogaa kyA asar
+rakhe.nge tumako nigAho.n me.n, bhar le.nge tumhe.n baaho.n me.n
+zulfo.n ko ham sulajhaaye.nge ishq me.n duniyA bhulaa de.nge 
+ye beqaraarii ab to, hogii nA kam, hogii nA kam 
+soche.nge tumhe.n pyaar kare ke nahii.n \threedots
+%
+#endindian
+\endsong
+%

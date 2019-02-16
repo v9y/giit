@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sunaa thaa dekhaa na thaa ... kyaa yahii vo pyaar hai}%
+\film{Mast/ When Dreams Come True}%
+\year{1999}%
+\starring{Aftab Shivadasani, Urmila Matondkar}%
+\singer{Sunidhi Chauhan, Sonu Nigam}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sunaa thaa dekhaa na thaa samajhaa na thaa jaanaa na thaa
+haa.n kyaa yahii vo pyaar hai ye jo mujhe ho gayaa
+sunaa thaa dekhaa na \threedots
+
+mere ho.nTh gaa_e.n taraane usii ke
+vo aa_e na jaa_e khyaalo.n se
+kyo.n hai haal aisaa diivaano.n ke jaisaa
+ko_ii to bataa de hu_aa kyaa hai
+kyaa yahii vo pyaar \threedots
+
+mai.n chalataa huu.N rukataa huu.N phir sochataa huu.N
+samaa.n kaisaa jaaduu jagaataa hai
+agar mast huu.N mai.n to mastii ye kyaa hai
+mere saath ye silasilaa kyaa hai
+kyaa yahii vo pyaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{mere dukh kii koiii davaa na karo}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{Jagjit Singh}%
+\lyrics{Sudarshan Faakir}%
+% 
+% Contributor: Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Nov  5 1995
+% Credits: snehal@wipro.wipsys.soft.net (Snehal B. Oza)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+mere dukh kii koiii davaa na karo
+mujhako mujhase abhii judaa na karo
+
+naaKudaa ko Kudaa kahaa hai to phir
+Duub jaao, Kudaa Kudaa na karo
+
+yah sikhaayaa hai dostii ne hame.n
+dost banakar kabhii vafaa na karo
+
+ishq hai ishq, yah mazaak nahii.n
+cha.nd lamho.n me.n faisalaa na karo
+
+aashiqii ho yaa ba.ndagii, 'faakir'
+be\-dilii se to ibtidaa na karo
+%
+#endindian
+\endsong
+%

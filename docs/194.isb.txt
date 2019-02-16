@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{ajiib daastaa.n hai ye, kahaa.N shuruu kahaa.N khatam}%
+\film{Dil Apana Aur Preet Parayee}%
+\year{1959}%
+\starring{Meena Kumar, Nadira, Helen, Raj Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Sudha Malhotra (smalho01@cps.plnin.gmeds.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Sep  7 1995
+% Credits: Malini K. Murthy (f1849@cleveland.Freenet.Edu)
+%	   Nekuben (nekuben@aol.com)
+%          preetham@connectinc.com (Preetham Gopalaswamy)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ajiib daastaa.n hai ye
+kahaa.N shuruu kahaa.N khatam
+ye ma.nzile.n hai kaun sii
+na vo samajh sake na ham
+ajiib daastaa.n\threedots
+
+(ye roshanii ke saath kyo.n
+ dhuaa.N uThaa chiraag se) 	\-2
+ye Kvaab dekhatii huu.N mai.n
+ke jag pa.Dii huu.N Kvaab se
+ajiib daastaa.n\threedots
+
+(kisiikaa pyaar leke tum
+ nayaa jahaa.N basaaoge) 	\-2
+ye shaam jab bhii aaegii
+tum hamako yaad aaoge
+ajiib daastaa.n\threedots
+
+(mubaarake.n tumhe.n ke tum
+ kisiike nuur ho gae)		\-2
+kisiike itane paas ho
+ke sabase duur ho gae
+ajiib daastaa.n\threedots
+%
+#endindian
+\endsong
+%

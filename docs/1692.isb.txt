@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{tere mere ho.nTho.n me.n miiThe miiThe giit mitavaa}%
+\film{Chaandni}%
+\year{}%
+\starring{Sridevi, Rishi Kapoor}%
+\singer{Lata, Babla}%
+\music{Shiv-Hari}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/08/1995
+% Credits: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+%
+\printtitle
+#indian
+%
+fa: tere mere ho.nTho.n me.n miiThe miiThe giit mitavaa
+ma: aage aage chale.n ham, piichhe piichhe priit mitavaa
+
+fa: pahale pahale pyaar kii pahalii raat yaad rahegii
+ma: phuulo.n ke, is shahar kii, mulaqaat yaad rahegii
+fa: kaash yahii.n saarii umr yuu.Nhii jaae biit mitavaa
+fa/ma: aage aage chale.n ham, piichhe piichhe priit mitavaa
+
+fa: a.Nkhiyo.n me.n tuu bas jaa, a.Nkhiyaa.N mai.n ba.nd kar luu.N
+ma: pahale in a.Nkhiyo.n se baate.n mai.n cha.nd kar luu.N
+fa: terii inhii.n baato.n ne liyaa mujhe jiit mitavaa
+fa/ma: aage aage chale.n ham, piichhe piichhe priit mitavaa
+
+fa: chhoTe chhoTe din raat, lambii lambii baate.n hai.n
+ma: jaldii hai kis baat kii, ba.Dii mulaqaate.n hai.n
+fa: baato.n mulaqaato.n me.n umr jaae biit mitavaa
+fa/ma: aage aage chale.n ham, piichhe piichhe priit mitavaa
+%
+#endindian
+\endsong
+%
+

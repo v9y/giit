@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jab se mai.n zaraa saa badanaam ho gayaa}%
+\film{Gumraah}%
+\year{1993}%
+\starring{Sanjay Dutt, Shridevi, Anupam, Rahul Roy, Soni Razdan, Kunika}%
+\singer{Abhijit}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab se mai.n zaraa saa badanaam ho gayaa
+raam kasam meraa ba.Daa naam ho gayaa
+jab tak jiitaa rahuu.n yuu.n hii piitaa rahuu.n
+saakii aur pilaa are botal mu.nh se lagaa
+lab pe pyaas jagii dil me.n aag lagii
+ek ghuu.nT me.n hii khaalii jaam ho gayaa
+jab se mai.n zaraa saa \threedots
+
+meraa ho ba.Daa naam ho gayaa
+meraa re ba.Daa naam ho gayaa
+
+mai.n mahalo.n me.n rahaa mai.n galiyo.n me.n rahaa
+dekhe jel sabhii jiite khel sabhii
+par dil haar diyaa maine pyaar kiyaa hoy hoy hoy hoy
+honaa thaa ye meraa a.njaam ho gayaa
+jab se mai.n zaraa saa \threedots
+
+vo ek shokh gazal vo madamast koyal
+vo saavan kii ghaTaa vo parvat kii havaa
+usako dekh liyaa vaadaa ek kiyaa
+aaj se mai.n teraa gulaam ho gayaa
+jab se mai.n zaraa saa \threedots
+
+ba.njaaro.n kii tarah aavaaro.n kii tarah
+aa_e nii.nd jahaa.n sojaa yaar vahaa.n
+kal kii kisako khabar kal kuchh bhii ho magar
+aaj raat kaa to i.ntazaam ho gayaa
+jab se mai.n zaraa saa \threedots
+%
+#endindian
+\endsong
+

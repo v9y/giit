@@ -1,0 +1,63 @@
+% 
+\startsong
+\stitle{suniye kahiye kahate sunate baato.n-baato.n me.n pyaar}%
+\film{Baaton Baaton Mein}%
+\year{1979}%
+\starring{Amol Palekar, Tina Munim}%
+\singer{Kishore, Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/14/1995
+% Credits: Vandana Venkatesan <vvenkate@pcocd2.intel.com> 
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+%
+\printtitle
+#indian
+%
+ki: suniye
+aa: kahiye, kahiye
+ki: suniye, suniye
+aa: kahiye, kahiye na?
+ki: suniye, kahate sunate baato.n baato.n me.n pyaar ho jaaegaa
+
+ki: ye pahalii nazar kaa uf kyaa asar hai
+    tumhaarii kasam Dagamagaae se ham hai.n
+aa: la ra la la la ra la la ra la la la ra la
+ki: nahii.n jisape kaabuu ye hai kaisaa jaaduu
+    mere li_e to sach bhii bharam hai
+
+ki: suniye
+aa: kahiye, kahiye
+ki: suniye, suniye
+aa: kahiye, kahiye na?
+ki: suniye, kahate sunate baato.n baato.n me.n pyaar ho jaaegaa
+
+ki: ghaTaa chaa.Nd bijalii barakhaa pavan me.n
+    chhamii ho tum merii har kalpanaa me.n
+aa: taariif merii itanii karo na
+    u.Dane laguu.N mai.n kahii.n aasmaa.n me.n
+
+ki: suniye
+aa: kahiye, kahiye
+ki: suniye, suniye
+aa: kahiye, kahiye na?
+ki: suniye, kahate sunate baato.n baato.n me.n pyaar ho jaaegaa
+
+ki: tumhaarii adaa hai vo sabase judaa hai
+    chaahaa hai tumako isii vaaste
+aa: ham bekadar hai.n, tum bekadar ho
+    uThate hai.n dekho na_e raaste
+
+ki: suniye
+aa: kahiye, kahiye
+ki: suniye, suniye
+aa: kahiye, kahiye na?
+ki: suniye, kahate sunate baato.n baato.n me.n pyaar ho jaaegaa
+%
+#endindian
+\endsong
+%
+

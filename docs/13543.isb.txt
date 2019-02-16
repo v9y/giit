@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{Daakiyaa Daak laayaa ... Kushii kaa payaam kahii.n}%
+\film{Palkon Ki Chhaaon Mein}%
+\year{1977}%
+\starring{Rajesh Khanna, Hema Malini, Asrani, Farida Jalal}%
+\singer{Kishor, Vandana Shashtri}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #11277 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	Daakiyaa Daak laayaa \-4
+	Daak laayaa \-2
+	Kushii kaa payaam kahii.n dardanaak laayaa
+	Daakiyaa Daak laayaa \threedots
+
+	indar ke bhatiije kii saalii kii sagaa_ii hai
+	o aatii puuraNamaasii ko qaraar paa_ii hai
+	maamaa aapako lene aate magar majabuurii hai
+	bachcho.n samet aanaa aapako zaruurii hai
+	daadaa to are re re re daadaa to guzar ga_e daadii biimaar hai
+	naanaa kaa bhii terahavaa.n aate somavaar hai
+	chhoTe ko pyaar denaa ba.Do.n ko namaskaar
+	merii majabuurii samajho kaaraD ko taar
+	shaadii kaa sa.ndesaa teraa hai somanaath laayaa
+	Daakiyaa Daak laayaa \threedots
+
+va \:	ai Daakiyaa baabuu
+ki \:	kyaa hai rii
+va \:	chhH mahiinaa ho_ii gavaa Kat nahii.n likhii.n
+ki \:	Kat nahii.n likhii.n
+	bol kyaa likhuu.N
+va \:	bas jaldii se aane kaa likh de
+ki \:	birahaa me.n kaise\-kaise kaaTii.n ratiyaa.N \-2
+	saavan sunaa_e bairii bhiigii\-bhiigii batiyaa.N
+	agni kii jalan me.n jale baavariyaa
+	o naukariyaa chho.D ke tuu aa jaanaa saa.Nvariyaa
+	aajaa re saa.Nvariyaa aajaa baisaakh aayaa
+	Daakiyaa Daak laayaa \threedots
+%
+#endindian
+\endsong
+

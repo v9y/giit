@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{hazaaro.n narko.n me.n jiine kii aas ... bhuut hai yahaa.N ko_ii}%
+\film{Bhoot}%
+\year{2003}%
+\starring{Rekha, Ajay Devgan, Nana Patekar, Urmila, Fardeen Khan}%
+\singer{Asha/ Gayatri Iyer}%
+\music{Amar Mohile}%
+\lyrics{Jaideep Sahni}%
+%
+% Contributor: BOL ANAMOL #11775 [V S Rawat]
+% Producer: Dream Merchants Entertainment, Nitin Manmohan
+% Director: Ramgopal Varma
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3363 Stereo, Cost: Rs 50/-, CD: 
+%
+\printtitle
+#indian
+%
+hazaaro.n narko.n me.n jiine kii aas
+lekar ke aa_ii hai tere paas
+dardo.n me.n bilakh rahii
+ghuT rahii hai usakii saa.Ns
+marii hai par so_ii nahii.n
+bhuut hai yahaa.N ko_ii \-2
+aa_ii hai tujhe lene
+bhuut hai yahaa.N ko_ii
+
+ThaND is me.n aisii suuraj jamaa de
+garmii hai itanii samandar ubaale
+aa.Nkho.n me.n utaraa qahar
+zindagii ye hai zahar
+marii hai par so_ii nahii.n
+bhuut hai yahaa.N ko_ii
+ko \:	bhuut hai yahaa.N ko_ii
+
+bhuut hai yahaa.N ko_ii
+aa_ii hai tujhe lene
+bhuut hai yahaa.N ko_ii
+bhuut hai
+bhuut hai yahaa.N ko_ii
+% 
+% Part 2:
+%
+hazaaro.n narko.n me.n jiine kii aas
+lekar ke aa_ii hai tere paas
+dardo.n me.n bilakh rahii
+ghuT rahii hai usakii saa.Ns
+marii hai par so_ii nahii.n
+bhuut hai yahaa.N ko_ii \-2
+aa_ii hai tujhe lene
+
+ThaND is me.n aisii ki suuraj jamaa de
+garmii hai itanii samandar ubaale
+aa.Nkho.n me.n utaraa qahar
+zindagii hai zahar
+marii hai par so_ii nahii.n
+bhuut hai yahaa.N ko_ii \-2
+aa_ii hai tujhe lene
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tere mere pyaar kii kahaaniyaa.N hai.n tuu nahii.n}%
+\film{Banjaaran}%
+\year{1991}%
+\starring{Rishi, Sridevi, Kulbhushan Kharbanda, Gulshan, Pran, Raza Murad}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere mere pyaar kii kahaaniyaa.N hai.n tuu nahii.n
+paas mere sab terii nishaaniyaa.N hai.n tuu nahii.n
+tere mere pyaar kii \threedots
+vo mohabbat vahii javaaniyaa.N hai.n tuu nahii.n
+
+dard kii puravaa_ii
+Gam kii ye parachhaa_ii
+yaar kii ye rusavaa_ii
+ek jaan kitanii pareshaaniyaa.N hai.n tuu nahii.n
+tere mere pyaar kii \threedots
+
+meharabaa.n hai rab ba.Daa
+ye agar maa.nguu.n du_aa
+rab se maa.nguu.n aur kyaa
+usake paas sab meharabaaniyaa.N hai.n tuu nahii.n
+tere mere pyaar kii \threedots
+
+be.Diyaa.N hai.n paa.Nv me.n
+Gam ke seharaa_o.n me.n
+dard ke in dariyaa_o.n me.n
+aa.Nsu_o.n kii raat din ravaaniyaa.N hai.n tuu nahii.n
+tere mere pyaar kii \threedots
+%
+#endindian
+\endsong
+

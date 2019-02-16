@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{patnii pati ke li_e de de apanii jaa.n}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Shankar Mahadevan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaaryeshudaasii karNeshuma.ntrii bhojeshumaataa shayaneshura.mbhaa
+patnii pati ke li_e de de apanii jaa.n
+aurat se ba.Dhake na ko_ii yahaa.n
+sukh me.n bhii saath de dukh me.n bhii saath de
+ye bane sevikaa premikaa
+patnii pati ke li_e \threedots
+
+tyaag aur samarpaN hai patnii kaa naam
+ye pati kii sevaa kare subah\-o\-shaam
+vrat rakhe du_aa de pujaaran bane
+sirf prem dhaage se jiivan ba.ndhe
+mamataa kii chaa.Ndanii ye aisii roshanii
+jo har a.ndheraa miTaa de
+ye nayaa ruup hai devii kaa
+patnii pati ke li_e \threedots
+
+jo nahii.n hai patnii to kyaa hai pati
+isakii mannato.n kaa silaa hai pati
+jo kabhii bhii patnii se dhokhaa kare
+vo na zi.ndagii me.n kabhii khush rahe
+jisane bhii hai kahii ye baat hai sahii
+samajho ise isako jaano
+ye to hai su.ndar mallikaa
+patnii pati ke li_e \threedots
+%
+#endindian
+\endsong
+

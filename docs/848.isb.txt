@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{jalate hai.n aramaan meraa dil rotaa hai}%
+\film{Anaarkali}%
+\year{1935}%
+\starring{???}%
+\singer{Noorjehan}%
+\music{Hussain}%
+\lyrics{Saif}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@duke.cs.duke.edu>
+% Transliterator: Pavan Kumar Desikan <pkd@duke.cs.duke.edu>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+% Comments: Producer - Kamal Pictures 
+%
+\printtitle
+#indian
+%
+kaTatii nahii.n hai Gam kii raat, aake Thahar gayii hai kyaa
+nii.nd to khair kho gayii, maut bhii mar gayii hai kyaa
+ 
+jalate hai.n aramaan meraa dil rotaa hai
+kismat ka dasatuur niraalaa hotaa hai \threedots \-2
+ 
+kaun mere TuuTe dil ki fariyaad sunii
+kaun sunii
+kaun mere TuuTe dil ki fariyaad sunii
+aaj merii taqadiir kaa maalik sotaa hai
+kismat ka dasatuur niraala hotaa hai
+jalate hai.n aramaan meraa dil rotaa hai
+kismat ka dasatuur niraala hotaa hai
+ 
+haay! aise mauj se saahil chhuuT gayaa, chhuuT gayaa  
+haay! aise mauj se saahil chhuuT gayaa
+varanaa apanii kashtii kaun dubotaa hai
+kismat ka dasatuur niraala hotaa hai
+jalate hai.n aramaan meraa dil rotaa hai
+kismat ka dasatuur niraala hotaa hai
+%
+#endindian
+\endsong
+%
+

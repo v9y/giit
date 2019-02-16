@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{nazar mere dil ke paar hu_ii}%
+\film{Jab Pyar Kisi Se Hota Hai}%
+\year{1961}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10903 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+nazar mere dil ke paar hu_ii
+dekho na aise dekho ( merii haar hu_ii ) \-2
+nazar mere dil \threedots
+
+vahii jaanataa hai ke dard kyaa hai
+kabhii bhuul se jisane ( dil kho diyaa ) \-2
+nazar mere dil \threedots
+
+nigaahe.n milii aur vo muskaraa_e
+bas itane me.n sab ho gayaa haay haay
+haay ye kyaa ho gayaa
+nazar mere dil \threedots
+%
+#endindian
+\endsong
+

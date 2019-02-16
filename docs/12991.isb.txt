@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{duniyaa ke saare Gamo.n se begaanaa ho mai.n huu.N mastaanaa}%
+\film{Mastaanaa}%
+\year{1954}%
+\starring{Motilal, Nigar Sultana, Kuldeep Kaur, Sundar, Chandrashekhar, Gop}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10580 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+duniyaa ke saare Gamo.n se begaanaa
+ho mai.n huu.N mastaanaa \-2
+
+jiitaa huu.N duniyaa me.n apanii Kushii se
+naa dushman kisii kaa naa ulfat kisii se \-2
+din\-raat meraa yahii hai taraanaa
+ho mai.n huu.N mastaanaa \threedots
+
+naashaad huu.N mai.n dilashaad huu.N mai.n
+duniyaa ke jhaga.Do.n se aazaad huu.N mai.n \-2
+ye saaraa jahaa.N hai meraa aashiyaanaa
+ho mai.n huu.N mastaanaa \threedots
+
+jiinaa yaa maranaa ha.Nsanaa\-ronaa
+hotaa rahegaa ho kuchh hai honaa \-2
+khaa_e.nge ham aur kamaa_e zamaanaa
+ho mai.n huu.N mastaanaa \threedots
+%
+#endindian
+\endsong
+

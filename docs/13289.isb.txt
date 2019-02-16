@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{tere paas aa ke meraa vaqt guzar jaataa hai}%
+\film{Neela Akash}%
+\year{1965}%
+\starring{Dharmendra, Mala Sinha}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10586 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	tere paas aa ke meraa vaqt guzar jaataa hai
+	do gha.Dii ke li_e Gam jaane kidhar jaataa hai
+aa \:	jab kabhii duur se tuu mujhako nazar aataa hai
+	pyaar ha.Ns kar merii aa.Nkho.n me.n sa.Nvar jaataa hai
+ra \:	tere paas aa ke \threedots
+
+aa \:	tuu vahii hai jise is dil ne sadaa_e.N dii hai.n \-2
+	tuu vahii hai jise nazaro.n ne du_aa_e.N dii hai.n
+	tuu vahii hai ki jo dil le ke muqar jaataa hai
+ra \:	do gha.Dii ke li_e \threedots
+do \:	tere paas aa ke \threedots
+
+ra \:	 jaam itane terii mastii bharii aa.Nkho.n se pi_e \-2
+	bekhudii me.n tujhe sajade merii nazaro.n ne ki_e
+	tere jalavo.n me.n Kudaa mujhako nazar aataa hai
+aa \:	pyaar ha.Ns kar \threedots
+do \:	tere paas aa ke \threedots
+
+aa \:	terii yaad aate hii ghabaraa ke chalii aatii huu.N \-2
+	mai.n har ik qaid ko Thukaraa ke chalii aatii huu.N
+	mai.n nahii.n aatii mujhe pyaar idhar laataa hai
+ra \:	do gha.Dii ke li_e \threedots
+do \:	tere paas aa ke \threedots
+%
+#endindian
+\endsong
+

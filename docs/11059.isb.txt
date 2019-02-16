@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mastaanaa mausam hai ... aaj se jaan\-e\-man dil hai tumhaaraa}%
+\film{Dil Hai Tumhaara}%
+\year{2002}%
+\starring{Jimmy Shergil, Arjun Rampal, Preity Zinta, Mahima Chaudhary, Rekha}%
+\singer{Udit Narayan, Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mastaanaa mausam hai ra.ngii.n nazaaraa
+dha.Dakan kyaa kahatii hai samajho ishaaraa
+aaj se jaan\-e\-man dil hai tumhaaraa
+mastaanaa mausam hai \threedots
+
+chorii chorii maine tumase pyaar kiyaa hai maano o jaanaa.n
+tumane mujhako kitanaa bekaraar kiyaa hai mushkil bataanaa
+ko_ii bhii to na jaane ham kaise diivaane hu_e
+duniyaa me.n naa ko_ii tumase hai pyaaraa
+dha.Dakan kyaa kahatii \threedots
+
+ho chaahat kaa mausam hai javaa.n
+kho_e kho_e se ham yahaa.N
+khvaabo.n me.n mai.n to kho ga_ii
+diivaanii sii mai.n ho ga_ii
+lagataa hai hogaa nahii.n tum bin guzaaraa
+dha.Dakan kyaa kahatii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{dukh aur sukh ke raaste, bane hai.n sab ke vaaste (abhii naa jaao chho.D kar)}%
+\film{Hum Dono}%
+\year{1961}%
+\starring{Dev Anand, Sadhana, Nanda}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%	Here is the sad version of 'abhi na jao..' from Hum Dono
+%	as sung by Asha Bhonsle.
+%
+dukh aur sukh ke raaste, bane hai.n sab ke vaaste
+jo Gam se haar jaaoge, to kis tarah nibhaaoge
+khushii mile hame.n ke Gam, khushii mile hame ke Gam
+jo hogaa baa.NT le.nge ham
+mujhe tum aazamaao to
+zaraa nazar milaao to,  zaraa nazar milaao to
+ye jism duur hai.n magar
+dilo.n me.n faasalaa nahii.n
+jahaa.N me.n aisaa kaun hai, ki jisako Gam milaa nahii.n \- 2
+
+tumhaare pyaar kii qasam,  tumhaaraa Gam hai meraa Gam
+na yuu.N bujhe bujhe raho,  jo dil kii baat hai kaho
+jo mujh se bhii chhupaaoge,  jo mujh se bhii chhupaaoge
+to phir kise bataaoge
+mai.n koi gair to nahii.n
+dilaauu.N kis tarah yaqii.n, dilaauu.N kis tarah yaqii.n
+ki tum se mai.n judaa nahii.n
+mujh se tum judaa nahii.n
+
+tum se mai.n judaa nahii.n,  mujh se tum judaa nahii.n
+tum se mai.n judaa nahii.n,  mujh se tum judaa nahii.n \threedots
+%
+#endindian
+\endsong
+%

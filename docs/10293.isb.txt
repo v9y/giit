@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{are hamakaa kaa ... are hamakaa a_iisaa\-va_iisaa}%
+\film{Adaalat}%
+\year{1976}%
+\starring{Amitabh Bachchan, Waheeda Rahman}%
+\singer{Mukesh, Amitabh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11255 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+a \:	are hamakaa kaa samajhat ho
+	kaa kahaa kaa samajhat ho
+mu \:	are hamakaa a_iisaa\-va_iisaa naa samajho ham ba.De kaam kii chiij
+	o baabuu ba.De kaam kii chiij
+	( kaun buraa hai kaun bhalaa hai ) \-2 hamako hai tamiiz
+	hamakaa a_iisaa\-va_iisaa \threedots
+
+	are ik din ham ga_e ja.ngal maa uuhaa.N mil ga_e hamakaa Daakuu
+	sasuraa mil ga_e hamakaa Daakuu
+	kisii ke haath maa barachhaa\-bhaalaa ( kisii ke haath maa chaakuu ) \-2
+	hamane puuchhaa o hamane puuchhaa
+	kitane ho tum tab vo bole das
+a \:	ham kahaa bas kaa kahaa bas
+mu \:	a_iisaa haath jamaayaa do gaz dharatii maa ga_e dhas dhas dhas
+	hamakaa a_iisaa\-va_iisaa \threedots
+
+	are ik din apane gaa.Nv maa.n ( ik mem sahar se aa_ii ) \-2
+	dekh ke apanii mast javaanii man maa.n vo muskaa_ii 
+	are man maa.n vo muskaa_ii
+	( ba.De pyaar se ) \-2 usane hamakaa diyaa gulaabii phuul
+a \:	ham kahaa ii kaa det ho hamakaa
+	phuul kaa det ho phuul
+mu \:	haath jo.D kar phir vo bolii ho ga_ii hamase bhuul bhuul bhuul
+	hamakaa a_iisaa\-va_iisaa \threedots
+	are babu_aa ba.De kaam kii chiij
+%
+#endindian
+\endsong
+
+

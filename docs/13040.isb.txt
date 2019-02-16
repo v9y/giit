@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{din ho yaa raat ham rahe.n tere saath}%
+\film{Miss Bombay}%
+\year{1957}%
+\starring{Nalini Jaywant, Ajeet, Rahman, Ramesh Thakur, Bhagwan, Vijaylaxmi}%
+\singer{Rafi, Suman}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10210 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	din ho yaa raat ham rahe.n tere saath yah hamaarii marazii \-2
+su \:	tumhaarii marazii
+ra \:	jii hamaarii marazii
+su \:	tumhaarii to hamaarii bhii yahii hai marazii
+ra \:	din ho yaa raat \threedots
+
+su \:	tuu Dor mai.n pata.ng u.Duu.N tere sa.ng\-sa.ng ho ho ho
+ra \:	aa haa haa
+	tuu hai phuul to mai.n ra.ng rahuu.N tere sa.ng\-sa.ng ho ho ho
+su \:	aa haa haa
+	ra.ng Daalo is ra.ng me.n hamaaraa a.ng\-a.ng \-2
+ra \:	ye tumhaarii marazii
+su \:	jii hamaarii marazii
+ra \:	tumhaarii to hamaarii \threedots
+su \:	din ho yaa raat \threedots
+
+ra \:	le ke aa_uu.N mai.n baaraat thaamuu.N meha.Ndii vaale haath ho ho ho
+su \:	aa haa haa
+	mai.n to mukh se na boluu.N chalii chaluu.N tere saath
+	nit\-nit kare cha.ndaa se chakorii mulaaqaat
+ra \:	ye tumhaarii marazii
+su \:	jii hamaarii marazii
+ra \:	tumhaarii to hamaarii \threedots
+su \:	din ho yaa raat \threedots
+
+ra \:	ik ba.ngalaa ho pyaaraa saarii duniyaa se nyaaraa o ho ho
+su \:	aa haa haa
+	jisakii chaa.Ndii kii diivaare.n aur sone kaa dvaaraa
+	isake a.Nganaa me.n aake bhuul jaa_uu.N jag saaraa \-2
+ra \:	ye tumhaarii marazii
+su \:	jii hamaarii marazii
+ra \:	tumhaarii to hamaarii \threedots
+su \:	din ho yaa raat \threedots
+%
+#endindian
+\endsong
+

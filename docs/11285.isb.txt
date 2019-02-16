@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{dil jo bhii kahegaa maane.nge ... dil hii to hai}%
+\film{Dil Hi To Hai}%
+\year{1963}%
+\starring{Raj Kapoor, Nutan, Pran}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10497 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil jo bhii kahegaa maane.nge
+duniyaa me.n hamaaraa dil hii to hai
+har haal me.n jisane saath diyaa
+vo ek bichaaraa dil hii to hai
+
+ko_ii saathii na ko_ii sahaaraa
+ko_ii manzil na ko_ii kinaaraa
+ruk gaye jis jagah dil ne rokaa
+chal diye jis taraf dil pukaaraa
+ham pyaar ke pyaase logo.n kii \-2
+manzil kaa ishaaraa dil hii to hai
+
+duniyaa me.n hamaaraa dil hii to hai
+dil jo bhii kahegaa maane.nge
+duniyaa me.n hamaaraa dil hii to hai
+
+haar maanii nahii.n zindagii se
+ha.Ns ke milate rahe har kisii se
+kyuu.N na is dil pe qurbaan jaaye.N
+sah liye jisane Gam bhii Kushii se
+sukh me.n jo na khele ham hii to hai.n \-2
+dukh se jo na haaraa dil hii to hai
+
+duniyaa me.n hamaaraa dil hii to hai
+
+apanii zindaadilii ke sahaare
+hamane din zindagii ke Guzaare 
+waranaa is bemuravvat jahaa.N me.n
+aur kabze me.n kyaa hai hamaare
+har chiiz hai daulat waalo.n kii \-2
+mufalis kaa sahaaraa dil hii to hai
+
+duniyaa me.n hamaaraa dil hii to hai
+%
+#endindian
+\endsong
+

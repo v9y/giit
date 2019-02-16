@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{man letaa hai a.nga.Daaii}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Suresh, Noorjehan, Suraiyya}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+man letaa hai a.nga.Daaii 
+jIvan pe javAnI chhaaI 
+man letaa hai a.nga.Daaii 
+
+hoTho.n ne muskaanaa sIkhaa 
+naino.n ne sharamaanaa 
+har dha.Dakan gaatii hai man kii 
+ek anokhaa gaanaa 
+phir yaad kisIkii aa_ii 
+jIvan pe javAnI chhaaI 
+man letaa hai \threedots
+
+merI ek nA maane manavaa 
+karataa hai manamaanii 
+binaa hii Dole jhuul hii jaaye 
+merI mast javAnI 
+rut piyaa milan kii aa_ii 
+jIvan pe javAnI chhaaI 
+man letaa hai \threedots
+%
+#endindian
+\endsong
+%

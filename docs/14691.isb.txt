@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mujhe dil naa dogii jab tak}%
+\film{Zameer}%
+\year{1997}%
+\starring{Sanjay Kapur, Shilpa Shetty, Kader, Shakti, Paresh, Laxmikant Berde}%
+\singer{Udit Narayan, Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Tak Takaa Tak Takaa
+mujhe dil naa dogii jab tak piichhaa karuu.ngaa tab tak
+piichhaa karuu.ngaa tab tak Tak Takaa Tak
+
+tujhe dil naa duu.ngii jab tak piichhaa karegaa tab tak
+tak takaa tak takaa
+
+patalii kamar lachakaatii hai naagin jaisii balakhaatii hai
+sholo.n me.n tan Dhalaa hai uf kyaa hasii.n balaa hai
+taubaa kamaal aa.Nkhe.n gusse me.n laal aa.Nkhe.n
+maanegii tuu naa jab tak piichhaa karuu.ngaa tab tak
+
+pyaar tujhe sikhaa_uu.ngii din me.n sitaare dikhaa_uu.ngii
+tumako pataa nahii.n hai terii khataa nahii.n hai
+jo meraa dil churaa_e jo mujhape jaa.n luTaa_e
+paidaa naa hu_aa ab tak
+tujhe dil naa duu.ngii \threedots
+
+merii mahabuubaa takaraar na kar pyaar kiyaa to inakaar naa kar
+tere li_e banii huu.N mai.n terii chaa.Ndanii huu.N
+tujhako nahii.n bataayaa maine jise chhupaayaa
+vo baat aa ga_ii lab tak
+mujhe dil naa degaa jab tak \threedots
+%
+#endindian
+\endsong
+

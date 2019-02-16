@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{jaan\-e\-jaa.n tuu hai kahaa.n ... terii yaad aa_ii terii yaad}%
+\film{Kaartoos}%
+\year{1999}%
+\starring{Sanjay Dutt, Jackie Shroff, Manisha Koirala}%
+\singer{Nusrat Fateh Ali Khan, Udit Narayan}%
+\music{Nusrat Fateh Ali Khan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaan\-e\-jaa.n tuu hai kahaa.n
+khvaabo.n me.n tuu aa.Nkho.n me.n tuu dha.Dakan me.n tuu saa.Nso.n me.n tuu
+tuu sapanaa hai yaa ko_ii saayaa tujhe maine dil me.n basaayaa
+terii yaad aa_ii terii yaad aa aa aa aa
+
+ko_ii mile jo ha.Ns ke kisii se dekhaa karuu.n mai.n aa.Nsuu pi_e
+jahaa.n gayaa mai.n teraa diivaanaa terii tamannaa_e.n li_e
+lauT ke sab aa ga_e tuu hii na aayaa sanam
+terii yaad aa_ii \threedots
+
+sar pe dahakate suuraj kaa golaa
+dil pe hai phir bhii chhaa.nv terii
+sochuu.n akele sar ko jhukaa_e aa_egii kis din jaan merii
+lauT ke sab aa ga_e tuu hii na aayaa sanam
+terii yaad aa_ii \threedots
+%
+#endindian
+\endsong
+

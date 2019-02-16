@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{allaah\-o\-akabar ... tuu hii dil me.n tuu hii zubaa.n par}%
+\film{Jaanbaaz}%
+\year{1986}%
+\starring{Firoz Khan, Sridevi, Anil Kapoor, Dimple Kapadia}%
+\singer{Mahesh Gadwi, Raju}%
+\music{Kalyanji Anandji}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+allaah allaah allaah
+allaah\-o\-akabar \-4
+tuu hii dil me.n tuu hii zubaa.n par
+teraa karam din raat ham par \-2
+allaah\-o\-akabar \-2
+allaah allaah
+
+pal me.n banaa_e pal me.n miTaa_e \-2
+pal me.n miTaa_e pal me.n banaa_e \-2
+bhed ye ko_ii samajh na paa_e \-2
+tuu hai yahaa.n par tuu hai vahaa.n par \-2
+tuu hai yahaa.n par
+allaah\-o\-akabar \threedots
+
+( pyaare muhammad mere nabii.n hai.n
+salallaah ho vale hii vasallam ) \-2
+chaahane vaale jinake sabhii hai.n \-2
+ko_ii nahii.n hai aapase ba.Dhakar \-2
+allaah\-o\-akabar \threedots
+
+shere Kudaa kaa naam jo legaa
+teraa biga.Daa kaam banegaa
+maa.ng alii se haath uThaakar \-2
+yaa alii allaah\-o\-akabar \-2
+allaah\-o\-akabar \threedots
+tuu hii dil me.n \threedots
+%
+#endindian
+\endsong
+
+

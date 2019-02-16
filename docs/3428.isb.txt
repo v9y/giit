@@ -1,0 +1,33 @@
+% ITRANS SONG # 3428; Created on Jan 26, 2004
+%
+% From: Urzung Khan ("_urzung"@hotmail.com)
+% Date: 2002-10-17 18:04:20 PST
+%
+\startsong
+\stitle{mubaarik sab ko phuulo.n kaa}%
+\film{Zindagi Yaa Toofaan}%
+\year{1959}%
+\starring{Nutan, Pradip Kumar, Johny Walker, Meenu Mumtaz}%
+\singer{Asha}%
+\music{Nashad}%
+\lyrics{Nakhshab}%
+%
+% Contributor: <Urzung Khan>, 2002-10-17
+%
+\printtitle
+#indian
+%
+mubaarik sab ko phuulo.n kaa sajaa kar laa_e hai.n sahraa
+ham apane dil ke Tuka.Do.n kaa banaa kar laa_e hai.n sahraa
+
+nazar Giaro.n se ba.Dh kar payaar me.n apano.n kii lagatii hai
+ham apanii bhii nigaaho.n se bachaa kar laa_e hai.n sahraa
+ham apane dil ke Tuka.Do.n kaa banaa kar laa_e hai.n sahraa
+
+uthar sar cha.Dh ke lag jaae gaa sahraa unake siine se
+ithar ham apane siine se lagaa kar laa_e hai.n sahraa
+ham apane dil ke Tuka.Do.n kaa banaa kar laa_e hai.n sahraa
+%
+#endindian
+\endsong
+%

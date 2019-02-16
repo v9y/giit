@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{javaa.N mohabbat jahaa.N ... pahaluu me.n aa ke aag lagaa ke}%
+\film{Jawaan Mohabbat}%
+\year{1971}%
+\starring{Shammi Kapoor, Asha Parekh, Balraj Sahni, Rajendra Nath, Nirupa Roy}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11182 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+javaa.N mohabbat jahaa.N\-jahaa.N hai 
+dilo.n kii jannat vahaa.N\-vahaa.N hai
+
+pahaluu me.n aa ke aag lagaa ke jaatii ho jaan\-e\-tamannaa kahaa.N
+sharamaanaa kaisaa ghabaraanaa kaisaa hone do ab to mohabbat javaa.N
+
+dil aa rahaa hai jaa.N jaa rahii hai aise me.n ruk jaa kahaa.N jaa rahii hai
+tujhako javaa.N aarazuu kii qasam baa.Nho.n me.n aajaa simaT ke sanam
+pahaluu me.n aa ke \threedots
+
+ye shoK mausam dilakash nazaare aa.Nkhe.n aa.Nkhe.n dabaa ke karate ishaare
+bahaare.n bhii puuchhe.n chale ho kidhar hamase bhii dam bhar milaa lo nazar
+pahaluu me.n aa ke \threedots
+
+chalatii havaa_e.N kyuu.N tham rahii hai.n nazare.n hamii.n par kyuu.N jam rahii hai.n
+laharo.n me.n hai ye naGamaa ravaa.N mohabbat javaa.N hai javaa.N hai javaa.N
+pahaluu me.n aa ke \threedots
+
+javaa.N mohabbat \-3
+%
+#endindian
+\endsong
+

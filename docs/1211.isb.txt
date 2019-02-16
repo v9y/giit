@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mere mahabuub, shaayad aaj kuchh, naaraaz hai.n mujhase}%
+\film{Kitne Paas Kitne Door}%
+\year{1976}%
+\starring{Samit Bhanja, Heena Kauser, Utpal Dutt}%
+\singer{Chandrani Mukherjee}%
+\music{Chand Pardesi}%
+\lyrics{D S Sultaniya}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere mahabuub shaayad aaj kuchh naaraaz hai.n mujhase
+mai.n kitane paas huu.N phir bhii    (2)
+vo kitane duur hai.n mujhase
+mere mahabuub \threedots
+
+mujhe Dar hai kii unakii berukhii kahii.n jaan naa le le    (2)
+karu.N kyaa Gam judaaii kaa sahaa jaataa nahii.n mujhase
+mere mahabuub \threedots
+
+vo mahafil me.n to aae hai.n magar chupachaap baiThe hai.n    (2)
+jo aashiq the mere kal tak na karate baat hai.n mujhase
+mere mahabuub \threedots
+
+kabhii mahasuus hotaa hai khushii ke din bhii aae.nge    (2)
+havelii jagamagaaegii mere dilavar ke aane se
+mere mahabuub \threedots
+%
+#endindian
+\endsong
+%

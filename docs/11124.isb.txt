@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tuu qaatil teraa dil qaatil aur gaal pe tere til qaatil}%
+\film{Do Hazaar Ek/ 2001}%
+\year{1998}%
+\starring{Jackie, Dimple, Tabu, Suresh Oberoi, Gulshan, Sadashiv, Deven Verma}%
+\singer{}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Manoj Darpan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu qaatil teraa dil qaatil aur gaal pe tere til qaatil
+aa_iinaa dekh naa itanaa la.D jaa_e.n naa qaatil qaatil
+
+maanaa tujhe cha.Dhaa hai suruur ruup kaa
+achchhaa nahii.n itanaa guruur ruup kaa
+pyaar naa ho is umr me.n to phiikaa pa.D jaataa hai nuur ruup kaa
+tuu maane yaa naa maane tuu jaane yaa naa jaane 
+tere pyaar kii ma.nzil hai meraa dil
+tuu qaatil teraa dil \threedots
+
+jab se terii aa.Nkho.n kaa vaar hu_aa dil meraa teraa shikaar hu_aa
+ye to meraa nasiib hai ki mujhako tumase pyaar hu_aa
+pyaar kii shuru kahaanii takaraar se dilabarajaanii
+terii kaisii hai mushkil
+tuu qaatil teraa dil \threedots
+
+rakh Thiik nishaanaa apanaa la.D jaane de qaatil qaatil
+%
+#endindian
+\endsong
+

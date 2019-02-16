@@ -1,0 +1,47 @@
+% ITRANS SONG # 3451; Created on Jan 26, 2004
+%
+% Date: Thu, 15 Mar 2001 16:44:35 -0600
+%
+\startsong
+\stitle{pighalaa hai sonaa duur gagan par}%
+\film{Jaal}%
+\year{1952}%
+\starring{Devanad, Geeta Bali, Poornima}%
+\singer{Lata, chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 15, 2001
+%
+\printtitle
+#indian
+%
+l: pighalaa hai sonaa duur gagan par
+fail rahe.n hai.n shaam ke saaye
+
+ko: bhagavan tere sundar rachanaa kitanii pyaarii hai
+terii mahimaa ke guN gaataa har nar\-naarii hai
+
+l: khaamoshii kuchh bol rahii hai.n
+bhed anokhe khol rahii hai.n
+pa.nkh pakhe.ruu soch me Gum hai.n
+pe.D kha.De hai sir jhukaa_e
+pighalaa hai sonaa \threedots
+
+dhu.ndale dhu.ndale mast nazaare.n
+u.Date baadal mu.Date dhaare
+chhup ke nazar se jaane ye kis ne
+hasaratii ye khel rachaa_e
+pighalaa hai sonaa \threedots
+
+ko_ii bhii uThataa raaz na jaane
+ek haqiiqat laaK fasaane
+ek hii jalavaa shaam savere
+bhes badal kar saamane aa_e
+pighalaa hai sonaa \threedots
+%
+#endindian
+\endsong
+%

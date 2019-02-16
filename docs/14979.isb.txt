@@ -1,0 +1,47 @@
+% ITRANS SONG
+
+\startsong
+\stitle{na sochaa thaa ye dil lagaane ke pahale}%
+\film{Babul}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar, Munavvar Sultana, Amar}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+na sochaa thaa ye \-2
+dil lagaane se pahale \-2
+ke TuuTegaa dil \-2
+muskuraane se pahale \-2
+
+ummido.n kaa suuraj \-2
+naa chamakaa naa Duubaa \-2
+gahan pa.D gayaa \-2
+jagamagaane se pahale \-2
+
+na sochaa thaa ye \-2
+dil lagaane se pahale \-2
+
+agar Gam uThaanaa \-2
+thaa qisamat me.n apanii \-2
+Kushii kyuu.N milii \-2
+Gam uThaane se pahale \-2
+
+na sochaa thaa ye \-2
+dil lagaane se pahale \-2
+
+kaho bijaliyo.n se \-2
+na dil ko jalaaye.n \-2
+mujhe phuu.Nk de.n \-2
+ghar jalaane se pahale \-2
+
+na sochaa thaa ye \-2
+dil lagaane se pahale \-2
+
+#endindian
+\endsong

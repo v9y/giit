@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ma.nzil vahii hai pyaar kii}%
+\film{Kathputali}%
+\year{1957}%
+\starring{Balraj Sahni}%
+\singer{Subir Sen}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+
+ma.nzil vahii hai pyaar kii raahii badal gaye
+sapano.n kii mahafil me.n ham tum naye
+
+duniyaa kii nazaro.n se duur jaate hai.n ham tum jahaa.N
+us desh kii chaa.Ndanii gaayegii ye daastaa.N
+mausam thaa vo bahaar kaa dil khil machal gaye
+sapano.n kii mahafil me.n ham tum naye
+
+chhup na sake mere raaz, naGamo.n me.n Dhalane lage
+rokaa thaa dil ne magar, pahaluu badalane lage
+vo din hii kuchh ajiib the jo aaj kal gaye
+sapano.n kii mahafil me.n ham tum naye
+
+%
+#endindian
+\endsong
+%

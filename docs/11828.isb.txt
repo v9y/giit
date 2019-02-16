@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{he taakii o taakii taakii taakii re jabase tuu aa.Nkho.n me.n jhaa.Nkii}%
+\film{Himmatwaalaa}%
+\year{1983}%
+\starring{Jeetendra, Sridevi, Amjad Khan, Kader Khan, Shakti Kapoor, Asrani}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ki \: he taakii o taakii taakii taakii re
+        jabase tuu aa.Nkho.n me.n jhaa.Nkii
+aa \: taakii ho taakii taakii taakii re
+         jabase mai.n aa.Nkho.n me.n jhaa.Nkii
+ki \: are aapas me.n taakadhin taakadhin ho gayaa \-2
+       ab kyaa rah gayaa baakii \-2
+aa \: taakii ho taakii taakii taakii \threedots
+
+       kaisii ye agan hai kaisii ye lagan hai
+       hoy hoy
+       milake man bhare nahii.n kaisaa ye milan hai
+ki \: khilaa khilaa badan hai gaalo.n me.n chaman hai
+       na_e na_e pyaar kii naino.n me.n kiraN hai
+dono.n \: aapas me.n taakadhin \threedots
+
+aa \: meraa diladaar tuu mujhe ikaraar hai
+         haay haay
+         saaraa jag jaane teraa meraa pyaar hai
+ki \: hoke badanaam aur hu_e mashahuur ham
+        ab saarii zindagii ho.nge nahii.n duur ham
+dono.n \: aapas me.n taakadhin \threedots
+%
+#endindian
+\endsong
+

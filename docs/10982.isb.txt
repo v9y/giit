@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tanhaa_ii dil ke rasate me.n kaisii Thokar maine khaa_ii}%
+\film{Dil Chahta hai}%
+\year{2001}%
+\starring{Aamir Khan, Akshaye Khanna, Saif Ali Khan, Preity Zinta}%
+\singer{Sonu Nigam}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+tanhaa_ii tanhaa_ii
+dil ke raaste me.n kaisii Thokar maine khaa_ii
+TuuTe khvaab saare ek maayuusii hai chhaa_ii
+har khushii so ga_ii zi.ndagii kho ga_ii
+tum ko jo pyaar kiyaa maine to sazaa me.n paa_ii
+tanhaa_ii tanhaa_ii
+miilo.n hai phailii hu_ii tanhaa_ii
+
+khvaab me.n dekhaa thaa ik aa.Nchal maine apane haatho.n me.n
+ab TuuTe sapano.n ke shiishe chubhate hai.n in aa.Nkho.n me.n
+kal ko_ii thaa yahii.n ab ko_ii bhii nahii.n
+ban ke naagin jaise hai saa.Nso.n me.n laharaa_ii
+tanhaa_ii tanhaa_ii palako.n pe kitane aa.Nsuu hai laa_ii
+
+kyuu.N aisii ummiid kii maine jo aise naakaam hu_ii
+duur banaa_ii thii ma.nzil to raste me.n hii shaam hu_ii
+ab kahaa.N jaa_uu.N mai.n kis ko samajhaa_uu.N mai.n
+kyaa maine chaahaa thaa aur kyuu.N kismat me.n aa_ii
+tanhaa_ii tanhaa_ii
+jaise a.ndhero.n kii ho gaharaa_ii
+
+dil ke raaste me.n \threedots
+tanhaa_ii tanhaa_ii tanhaa_ii tanhaa_ii
+%
+#endindian
+\endsong

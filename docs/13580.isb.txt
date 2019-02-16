@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{mere dil me.n hai ek baat kah do to bhalaa kyaa hai}%
+\film{Post Box 999}%
+\year{1958}%
+\starring{Sunil Dutt, Shakeela, Poornima}%
+\singer{Lata, Manna Day}%
+\music{Kalyanji Anandji}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #10846 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ma \:	mere dil me.n hai ek baat kah do to bhalaa kyaa hai
+la \:	gha.Dii me.n ye gha.Dii me.n vo har ra.ng kii har adaa hai
+	tere dil me.n hai kyaa baat kaise bataa_uu.N kyaa hai
+ma \:	mere dil me.n hai \threedots
+
+	lagatii mujhe duniyaa hasii.n jab paas hotii ho
+la \:	lagataa nahii.n hai dil kahii.n jab duur hote ho
+	hai raaz kyaa isame.n kaho aaKir ye baat kyaa hai
+ma \:	mere dil me.n hai \threedots
+
+la \:	jaisaa kahaa tumane mujhe vaisaa hii hotaa hai
+ma \:	kahate hai.n jisako pyaar vo aisaa hii hotaa hai
+la \:	hai ye pyaar kii duniyaa na_ii isame.n dil meraa basaa hai
+ma \:	mere dil me.n hai \threedots
+%
+#endindian
+\endsong
+

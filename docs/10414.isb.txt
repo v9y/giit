@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{o merii bahanaa pahanaa_uu.N tujhako gahanaa}%
+\film{Aarohi}%
+\year{1982}%
+\starring{}%
+\singer{Mukesh, Bela}%
+\music{Anand Saagar Kiran}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #11624 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	o merii bahanaa pahanaa_uu.N tujhako gahanaa
+	tujhe dulhaniyaa banaa_uu.N aisaa duulhaa Dhuu.NDh ke laa_uu.N
+	ho sabhii tarah se sayaanaa par ek aa.Nkh se kaanaa
+be \:	naa\-naa re bhaiyaa aisaa byaah karuu.N naa bhaiyaa
+mu \:	o merii bahanaa \threedots
+
+	tuu kajaraa Daal aa.Nkho.n me.n teraa duulhaa ek laakho.n me.n
+	har baat terii maanegaa tere dil ko pahachaanegaa
+	vaise to marad hai asalii par daa.Nt hai.n usake naqalii
+be \:	naa\-naa re bhaiyaa aisaa byaah karuu.N naa bhaiyaa
+mu \:	o merii bahanaa \threedots
+
+	jab ghar se tuu jaa_egii terii yaad bahut aa_egii
+	vahaa.N pyaar milegaa itanaa ham sabako bhuul jaa_egii
+	lekin vishvaas hai mujhako
+	mere janm\-divas par bahanaa tuu nishchay hii aa_egii
+be \:	o mere bhaiyaa
+mu \:	o merii bahanaa \threedots
+%
+#endindian
+\endsong
+

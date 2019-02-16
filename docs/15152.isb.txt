@@ -1,0 +1,29 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ye ham jo hijr me.n diiwaar\-o\-dar ko dekhate hai.n}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Hridaynath Mangeshkar}%
+\lyrics{Ghalib}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+% Credits: Vinay P Jain
+
+\printtitle
+#indian
+
+ye ham jo hijr me.n diiwaar\-o\-dar ko dekhate hai.n
+kabhii sabaa ko kabhii naamaavar ko dekhate hai.n
+
+wo aaye ghar me.n hamaare Kudaa kii qudarat hai
+kabhii ham unako kabhii apane ghar ko dekhate hai.n
+
+nazar lage na kahii.n unake dast\-o\-baazuu ko
+ye log kyuu.N mere zaKm\-e\-jigar ko dekhate hai.n
+
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{he yaar mere mausam hai mastaanaa mastaanaa}%
+\film{Raavan Raaj}%
+\year{1995}%
+\starring{Mithun, Madhu, Aditya, Shakti, Aloknath, Paresh, Tej Sapru}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he yaar mere mausam hai mastaanaa mastaanaa
+are mastaanaa mausam hai diivaanaa diivaanaa
+maanaa tuu khilaa.Dii hai maanaa tuu shikaarii hai tujhako banaa duu.ngii paravaanaa
+he yaar mere mausam \threedots
+
+are tuune mujhe chhe.D diyaa pyaar me.n maine tujhe gher liyaa raah me.n
+ho dil tumhe.n ho ho dil tumhe.n haa.N haa.N dil tumhe.n denaa pa.Degaa
+o sanam haa.N kar yaa naa kar tuu terii kasam
+are sun le mere dil kaa tuu afasaanaa afasaanaa
+are mastaanaa mausam hai \threedots
+
+are jaane de chho.D meraa raastaa teraa meraa nahii.n ko_ii vaastaa
+ho mai.n ko_ii haa.N haa.N mai.n ko_ii haa.N haa.N mai.n ko_ii aashiq aavaaraa nahii.n
+mai.n terii zulfo.n kaa maaraa nahii.n
+are mai.n to ek raahii huu.N a.njaanaa a.njaanaa
+terii adaa_o.n se begaanaa begaanaa
+maanaa tuu sayaanii hai lekin tuu diivaanii hai tuune mujhe nahii.n pahachaanaa
+yaar mere mausam \threedots
+%
+#endindian
+\endsong

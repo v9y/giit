@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{maaf bhii kar do yaar ... tumako aataa hai gussaa}%
+\film{Mission Kashmir}%
+\year{2000}%
+\starring{Hritik Roshan, Snajay Dutt, Pretty Zinta, Jackie Shroff, Sonali Kulkarni, Puru Rajkumar}%
+\singer{Vinod Rathore, Anuradha Paudwal}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maaf bhii kar do yaar maaf karo sarakaar are
+tumako aataa hai gussaa hamako aataa hai pyaar
+maaf bhii kar do \threedots
+
+khvaab dekhe.n phuulo.n ke bol hai.n kaa.NTo.n jaise
+saaf kare.n ham dil kaise maaf kare.n ham kaise
+chho.Do naa chho.Do naa zid ye chho.Do naa
+dilarubaa dil meraa haay aise to.Do naa
+na na na mai.n nahii.n maanatii haath jo.Do naa
+he tumako aataa hai gussaa \threedots
+
+pyaar hai kitanaa chiir ke dil tumhe.n dikhaayaa jaa_e
+tumhii.n bataa do ab tumako kaise manaayaa jaa_e
+huu.n sab pataa chal gayaa jhuuThaa hai ye pyaar
+ab mujhe rokanaa hai nahii.n aasaan
+haa.n tum kaho to abhii de duu.n apanii jaan
+tumako aataa hai gussaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{shikaayat hai ... mujhako dil se yahii shikaayat hai}%
+\film{Jism}%
+\year{2003}%
+\starring{Bipasha Basu, John Abraham}%
+\singer{Roop Kumar Rathod}%
+\music{M M Kreem}%
+\lyrics{Sayeed Quadri}%
+%
+% Contributor: BOL ANAMOL #11686 [V S Rawat]
+% Producer: Shreya Creations Pvt Ltd, Fish Eye Network Production, Pooja Bhat, Sujit Kumar Singh
+% Director: Amit Saxena
+% Audio: Saregama India Ltd
+% Cassette: NHF 810546 Digital, Cost: Rs 55/-, CD: CDF 112043, Cost: Rs 125/-
+% 
+\printtitle
+#indian
+%
+shikaayat hai \-3
+mujhako dil se yahii shikaayat hai shikaayat hai \-2
+( jo usako mil nahii.n sakataa ) \-2 kyo.n usakii chaahat hai
+mujhako dil se yahii shikaayat hai shikaayat hai
+
+Tuka.Do.n\-Tuka.Do.n me.n mujhase roz milane vaale sun
+jab muqammal nahii.n milanaa to ko_ii Kvaab naa bun
+tanhaa\-tanhaa huu.N mai.n mujhe terii zaruurat hai
+mujhako dil se yahii shikaayat hai shikaayat hai
+
+% muqammal : total, fully
+
+ye terii zulfe.n terii aa.Nkhe.n uf ye teraa pairahan
+aur Kushbuu se mahakataa hu_aa ye goraa saa badan
+jaanataa huu.N mai.n lekin kisii Gair kii amaanat hai
+mujhako dil se yahii shikaayat hai shikaayat hai
+
+% pairahan : dress, clothing, attire
+
+bin tere mujhako zindagii se Kauf lagataa hai
+kisto.n\-kisto.n me.n mar rahaa huu.N roz lagataa hai
+isaliye mujhako apanii zindagii se nafarat hai
+mujhako dil se yahii shikaayat hai shikaayat hai
+shikaayat hai \-3
+%
+#endindian
+\endsong
+

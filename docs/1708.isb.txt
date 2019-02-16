@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{terii duniyaa me.n dil lagataa nahii.n, vaapas bulaa le}%
+\film{Bawre Nain}%
+\year{1950}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%
+\printtitle
+#indian
+%
+terii duniyaa me.n dil lagataa nahii.n, vaapas bulaa le
+mai.n sajade me.n giraa huu.N, mujhako ai maalik uThaa le
+terii duniyaa\threedots
+
+bahaar aaii thii kismat ne magar ye gul khilaayaa
+jalaayaa aashiyaa.N saiyyaad ne, par noch Daale
+terii duniyaa\threedots
+
+bha.Nvar kaa sar na chakaraae na dil laharo.n kaa Duube
+ye kashtii aap kar dii maine tuufaa.n ke havaale
+terii duniyaa\threedots
+%
+#endindian
+\endsong
+%

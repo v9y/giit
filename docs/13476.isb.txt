@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{maine pyaar tumhii.n se kiyaa hai}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine pyaar tumhii.n se kiyaa hai
+maine dil bhii tumhii.n ko diyaa hai
+ab chaahe jo ho jaa_e 
+( mai.n duniyaa se ab na Daruu.N
+tujhii se mai.n pyaar karuu.N ) \-2
+
+ailaan yahii karane aayaa
+mai.n aaj yahaa.N marane aayaa
+rusavaa tujhe mai.n kar jaa_u.ngaa
+khaa ke zahar ab mar jaa_u.ngaa \-2
+maine pyaar tumhii.n se \threedots
+
+dilavaale agar mil jaa_e.n yahaa.N
+phir nii.nd kise phir chain kahaa.N
+o tere li_e aahe.n bharataa hai dil
+terii aisii baato.n se Darataa hai dil \-2
+maine pyaar tumhii.n se \threedots
+
+baa.Nho.n me.n terii din raat rahuu.N
+jag chho.D duu.N mai.n o tere saath rahuu.N
+o saa.Nso.n me.n basaa luu.N aaj tujhako
+tere binaa jiinaa nahii.n mujhako \-2
+maine pyaar tumhii.n se \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{jab apanaa begaanaa ho jaaye TuuT dil jaaye}%
+\film{Naagan}%
+\year{1940s}%
+\starring{}%
+\singer{Surendra Nath}%
+\music{Harbanslal-Amarnath}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #12261 [V S Rawat], 23/01/2004
+% ------------------
+% Credits: Gurcharan Sandhu for providing pstats. His post:
+%
+% It is a film from forties, included in the First Edition of
+% Geetkosh Vol. 3 and then expunged in the revised edition
+% because the songs recording was completed prior to the
+% fifties. If and when the Vol 2 kosh is revised this film will be
+% included there.
+% The kosh had attributed this song to Geeta Dutt but
+% Surendra. Music Director was Harbanslal-Amarnath.
+% --------------------
+%
+\printtitle
+#indian
+%
+jab apanaa begaanaa ho jaaye
+TuuT dil jaaye
+phir nikale haay\-haay
+a.Nkhiyaa.N niir bahaaye.n
+
+jab apanaa begaanaa ho jaaye
+TuuT dil jaaye
+
+har roz musiibat aatii hai \-2
+ik na_ii hii aafat laatii hai \-2
+Gam khaaye.n to aaKir kab tak
+kab tak Thokar khaaye.n
+
+a.Nkhiyaa.N niir bahaaye.n
+jab apanaa begaanaa ho jaaye
+TuuT dil jaaye
+
+ham jinake the jo hamaare hai.n \-2
+dukh\-dard ke wo bhii maare hai.n \-2
+ko_ii aisii suurat ban jaaye
+ham dono.n hii mil jaaye.n
+
+a.Nkhiyaa.N niir bahaaye.n
+jab apanaa begaanaa ho jaaye
+TuuT dil jaaye
+%
+#endindian
+\endsong
+%
+

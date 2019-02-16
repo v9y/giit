@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aavaaraa mai.n baadal huu.N ... mujhe pyaar pyaar pyaar ho gayaa}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Sonu Nigam, Hema Sardesai}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+##oh my God##
+aavaaraa mai.n baadal huu.N tere li_e paagal huu.N
+u.Duu.Ngii sa.ng sa.ng tere tuu baadal hai mai.n aa.Nchal huu.N
+ke mujhe pyaar pyaar pyaar ho gayaa
+pyaar pyaar pyaar ho gayaa
+jaanaa mujhe pyaar pyaar pyaar ho gayaa
+pyaar pyaar pyaar ho gayaa
+aavaaraa mai.n baadal huu.N \threedots
+
+tum banii ho mere li_e bas dil me.n tum raho
+kyaa kahaa phir kaho phir se tum kaho
+balakhaatii tuu nadiyaa hai naTakhaT sii tuu gu.Diyaa hai
+ba.Dii miiThii terii baate.n mai.n in baato.n kii kaayal huu.N
+ke mujhe pyaar pyaar \threedots
+
+kyuu.N mujhe baaho.n me.n kasam se tumane bhar liyaa
+aapakii nigaah ne mujh se ye kahaa
+khataa hai ye nigaaho.n kii sazaa tumane mujhe kyuu.N dii
+ba.Dii tiikhii terii nazare.n mai.n in nazaro.n kaa ghaayal huu.N
+ke mujhe pyaar pyaar \threedots
+%
+#endindian
+\endsong
+

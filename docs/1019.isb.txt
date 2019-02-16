@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{koii saagar dil ko behalaataa nahii.n}%
+\film{Dil Diya Dard Liya}%
+\year{1966}%
+\starring{Dilip Kumar, Waheeda Rehman, Pran}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Ramesh Hariharan (hariharn@phoenix.Princeton.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+koii saagar dil ko bahalaataa nahii.n     \- 2
+bekhudii me.n bhii qaraar aataa nahii.n, koI saagar \threedots
+
+mai.n koI patthar nahii.n inasaan huu.N    \- 2
+kaise kah duu.N Gam se ghabaraataa nahii.n
+koI saagar \threedots
+
+kal to sab the kaaravaa.N ke saath saath    \- 2
+aaj koI raah dikhalaataa nahii.n
+koI saagar \threedots
+
+zi.ndagii ke aa_ine ko to.D do     \- 2
+isame.n ab kuchh bhii nazar aataa nahii.n
+koI saagar \threedots
+%
+#endindian
+\endsong
+%

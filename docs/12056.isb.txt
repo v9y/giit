@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil dhak dhak karataa hai ... laal chundariyaa vaalii}%
+\film{Jodi No.1}%
+\year{1999?}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil dhak dhak karataa hai tujhape hii marataa hai re
+sun kyaa kyaa kahataa hai re
+o mere soNaa haay ruup salonaa teraa kyaa kahanaa re
+laal chundariyaa vaalii par dil aayaa re
+dil dhak dhak \threedots
+
+o jab chaa.Nd saa ra.ng chhat pe aa_e
+terii yaad mujhe ta.Dapaa jaa_e
+yaad me.n rahanaa gum taare ginate rahanaa tum
+khyaalo.n ke laDDuu khaate rahanaa tum
+maine laDDuu ba.nTavaanaa ##band## bajavaanaa
+tainuu.n pyaar sikhaanaa re
+laal chundariyaa vaalii \threedots
+
+karale karale pyaar karale o salonii pyaar karale re
+laa laa
+
+kyaa chiiz hai tuu kyaa lagatii hai
+kyaa adaa hai ye kyaa mastii hai
+mastiyaa.n luTaa_uu.ngii adaa_e.n dikhaa_uu.ngii
+par mai.n terii baato.n me.n na aa_uu.ngii
+tainuu.n apanaa banaanaa tainuu.n Dolii me.n biThaanaa
+tainuu.n a.nganaa me.n laanaa re
+laal chundariyaa vaalii \threedots
+%
+#endindian
+\endsong
+

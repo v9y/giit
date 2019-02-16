@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{ye chaar din bahaar ke ... bhulaa do zindagii ke Gam}%
+\film{Rukhsaanaa}%
+\year{1955}%
+\starring{Meena Kumari, Kishor Kumar, Shammi}%
+\singer{Kishore, Asha}%
+\music{Sajjad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12165 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ki \:	ye chaar din bahaar ke
+	ha.Nsii\-Kushii Guzaar ke
+	bhulaa do zindagii ke Gam \-3
+aa \:	nisaar tum pe dil meraa
+	kaTegii zindagii sadaa
+	tumhaare pyaa me.n sanam
+	bhulaa do zindagii ke Gam \-2
+
+aa \:	khilli hu_ii hai chaa.Ndanii
+	chhi.Dii hu_ii hai raaginii
+ki \:	nazar\-nazar me.n mastiyaa.N
+	adaa\-adaa me.n shoKiyaa.N
+aa \:	hame.n tumhaarii jusatajuu
+	tumhe.n hamaarii aarazuu
+	ba.Dhe ye pyaar din\-ba\-din
+	bhulaa do zindagii ke Gam \-2
+
+aa \:	tumhaare dil me.n ham rahe.n
+	hamaare dil me.n tum raho
+ki \:	kisii se apanii daastaa.N
+	na ham kahe.n na tum kaho
+	zamaanaa chaahe kuchh kahe
+	zafaa kare sitam kare
+	judaa na ho.nge tum se ham
+	bhulaa do zindagii ke Gam \-2
+do \:	bhulaa do zindagii ke Gam \-2
+%
+#endindian
+\endsong
+

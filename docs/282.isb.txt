@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{bechaaraa dil kyaa kare, saavan jale bhaado.n jale}%
+\film{Khushboo}%
+\year{}%
+\starring{Jeetendra, Hema Malini, Farida Jalal}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+bechaaraa dil kyaa kare, saavan jale bhaado.n jale
+do pal kii raah nahii.n, ik pal ruke ik pal chale
+
+gaa.Nv gaa.Nv me.n, ghuume re jogii, rogii cha.nge kare, 
+mere hii man kaa, ta.Dap naa jaane, haath naa dhare
+
+tere vaaste, laakho.n raaste, tuu jahaa.N bhii chale,
+mere liye hai, terii hii raahe.n, tuu jo saath le
+%
+#endindian
+\endsong
+%

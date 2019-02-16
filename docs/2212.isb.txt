@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{sonaa kare jhilamil jhilamil}%
+\film{Paheli}%
+\year{1977}%
+\starring{Satyajeet, Namita Chandra}%
+\singer{Hemlata, Suresh Wadkar}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Aranyak
+% Transliterator: Nita
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+sonaa, sonaa
+ruupaa, ruupaa
+
+sonaa kare jhilamil jhilamil
+ruupaa ha.Nse kaise khilakhil
+aahaa aahaa vR^ishhTi pa.De Taapur Tupur
+Tip Tip Taapur Tupur
+vR^ishhTi pa.De Taapur Tupur, Taapur Tupur
+
+kaaGaz kii chhotii sii naiyyaa
+jal kii ye lahare.n lipaTii khevaiyyaa
+hoke isii naiyyaa pe savaar
+chal de.n chal nadiyaa ke paar
+jaamun jahaa.N madhur moti miiThii madhur madhur
+vR^ishhTi pa.De Taapur Tupur, Taapur Tupur
+sonaa   \threedots
+
+baadal yuu.N shor machaaye
+parabat kaa bhii dil hil jaaye
+lekin bayaa ba.Dii hoshiyaar
+aisaa ghar kare taiyyaar tanik na ho idhar udhar
+vR^ishhTi pa.De Taapur Tupur, Taapur Tupur
+sonaa   \threedots
+
+laal gulaabii niile piile
+indradhanush ke ra.ng sajiile
+dekho dekho gagan kii bahaar
+ra.ngo.n kaa lagaa hai baazaar
+duniyaa dekhe Tukur Tukur, khel ye Tukur Tukur
+vR^ishhTi pa.De Taapur Tupur, Taapur Tupur
+sonaa   \threedots
+
+%
+#endindian
+\endsong
+%

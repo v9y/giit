@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{mushqil se tho.Dii sii baat hotii hai}%
+\film{Aap Beetee}%
+\year{1976}%
+\starring{Ashok Kumar, Shashi Kapoor, Hema Malini, Premnath, Nirupa Roy}%
+\singer{Lata}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11568 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mushqil se tho.Dii sii baat hotii hai
+rah jaatii hai baat itanii chhoTii sii mulaaqaat hotii hai
+do dino.n ke biich kitanii lambii\-lambii kaalii\-kaalii raat hotii hai
+
+aaj mile ho phir kal miloge phir paraso.n miloge
+zaraa jaldii\-jaldii milaa karo naa jii
+haal\-e\-dil aaj sunaa hai phir kal sunoge phir paraso.n sunoge
+zaraa jaldii\-jaldii sunaa karo naa jii
+
+tumane kahii hai baat ye hasii.n tere binaa dil lagataa nahii.n
+tab to tumako mere paas rahanaa chaahi_e kahate rahanaa chaahi_e
+ye tumane aaj kahaa hai phir kal kahoge phir paraso.n kahoge
+zaraa jaldii\-jaldii kahaa karo naa jii
+
+kuchh soch ke Dar jaatii huu.N sharm se mar jaatii huu.N
+aa.Nkho.n\-aa.Nkho.n me.n aise ishaare karate ho
+uf tum ha.Nsate ho sai.nyaa kitane achchhe lagate ho
+aise tum aaj ha.Nse ho phir kal ha.Nsoge phir paraso.n ha.Nsoge
+zaraa jaldii\-jaldii ha.Nsaa karo naa jii
+%
+#endindian
+\endsong
+

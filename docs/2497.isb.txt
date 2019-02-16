@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ye terii aa.Nkhe.n jhukii jhukii}%
+\film{Fareb}%
+\year{}%
+\starring{Milind Gunaji}%
+\singer{Abhijit}%
+\music{Jatin-Lalit}%
+\lyrics{Indeevar}%
+%
+% Contributor: Sudeep Amin
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ye terii aa.Nkhe.n jhukii jhukii, ye teraa cheharaa khilaa khilaa
+ba.Dii qisamat vaalaa hai vo, pyaar teraa jise milaa
+ye terii aa.Nkhe.n jhukii jhukii   \threedots
+
+chhalakatii gaalo.n se laalii, ba.Duu tuu sharam\-o\-hayaa vaalii
+ho.nTh tere puujaa ke phuul, phuul kii naazuk tuu Daalii
+ye terii aa.Nkhe.n jhukii jhukii   \threedots
+
+ksiii ke pyaare pyaare baal, kisii kii pyaarii pyaarii chaal
+tuu sar se paa.Nv talaq sundar, tuu hai kudarat kaa koii kamaal
+ye terii aa.Nkhe.n jhukii jhukii   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{raah me.n unase mulaakaat ho ga_ii}%
+\film{Vijaypath}%
+\year{1994}%
+\starring{Ajay Devgan, Tabu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raah me.n unase mulaakaat ho ga_ii
+jisase Darate the vo hii baat ho ga_ii
+raah me.n unase \threedots
+
+ishq ke naam se Dar lagataa thaa
+dil ke a.nzaam se Dar lagataa thaa
+aashiqii vo hii mere saath ho ga_ii
+jisase Darate the \threedots
+
+tere bin kuchh nahii.n bhaataa hai mujhe
+har taraf tuu nazar aataa hai mujhe
+zi.ndagii taaro.n kii baaraat ho ga_ii
+jisase Darate the \threedots
+
+aa.Nkh ro_e naam par tere saavan kii tarah
+tuu samaa_ii dil me.n merii dha.Dakan kii tarah
+har taraf pyaar kii barasaat ho ga_ii
+jisase Darate the \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ab yaad na kar bhuul jaa ai dil vo fasaanaa}%
+\film{Anokha Pyaar}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Mukesh, Lata}%
+\music{Anil Biswas}%
+\lyrics{Shams Azimabadi}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Dec 5, 2000
+% Transliterator:
+% Comments:
+% Credits: Nita
+%
+\printtitle
+#indian
+ 
+mu: ab yaad na kar bhuul jaa ai dil vo fasaanaa
+    vo pyaar kii gha.Diyaa.N vo muhabbat kaa zamaanaa
+ 
+    kyo.n yaad tujhe aate hai.n biitii hu_ii baate.n
+    tuu bhuul jaa tuu bhuul jaa
+    vo pyaar ke din pyaar kii raate.n
+    ab TuuT chukaa hai vo teraa Kvaab suhaanaa
+    vo pyaar kii gha.Diyaa.N vo muhabbat kaa zamaanaa
+    ab yaad na kar \threedots
+ 
+la: ai jhuumatii laharaatii hu_ii mast havaa_o.n
+    ai pyaare nazaaro.n ra.ngiin fizaa_o.n
+    o jaake unhe.n aaj meraa haal sunaa_o
+    kah do ke meraa dil hai tumhaaraa hii divaanaa
+    hai pyaar kii gha.Diyaa.N hai muhabbat ka zamaanaa
+ 
+mu: aatii.n hai.n mere kaan me.n ye kisakii sadaaye.n
+la: tum dil se Kud hii puchh lo ham kyon ye bataa_e.N
+mu: yaad aane lagaa yaad aane lagaa yaad aane lagaa
+    phir mujhe vo bhuulaa fasaanaa
+    ai pyaar kii gha.Diyaa.N ai muhabbat kaa zamaanaa
+ 
+la: aa jaa ke ab is dard bhare dil ko bhuulaa_e.N
+mu: armaano.n ke  gulashan me.n naye phuul khilaa_e.N
+   (ham tere hai.n dil teraa hai
+    ye bhuul na jaana ye bhuul na jaanaa) \- 2
+
+%
+#endindian
+\endsong
+%

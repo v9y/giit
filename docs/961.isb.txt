@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{kal chaudahavii.n kii raat thii, shab bhar rahaa charchaa teraa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Ibn-e-Inshaa}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kal chaudahavii.n kii raat thii
+shab bhar rahaa charchaa teraa
+kuchh ne kahaa ye chaa.Nd hai
+kuchh ne kahaa cheharaa teraa
+
+1) ham bhI vahI.n maujuud the
+ham se bhii sab pUchhaa ki ye
+ham ha.ns diye ham chup rahe
+ma.nzuur thaa paradaa teraa, kal  \threedots
+
+2) is shahar me.n kis se mile.n
+ham se to chhUTii mahafile.n
+har shakhs teraa naam le
+har shakhs dIvaanaa teraa, kal  \threedots
+
+3) kUche ko tere chho.Dakar
+jogI hii ban jaae.n magar
+ja.ngal tere parvat tere
+bastI terI seharaa teraa, kal  \threedots
+
+4) bedard tum hI ho to chal
+kahataa hai kyaa achchhI gazal
+aashiq teraa rusavaa teraa
+shaayar teraa inshaa teraa, kal  \threedots
+%
+#endindian
+\endsong
+%

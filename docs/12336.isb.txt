@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mai.n tujhape kurbaaan teraa bhalaa kare bhagavaan}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Sonu Nigam, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Surya Bhanu Gupt}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rahe suhaagan tuu sadaa yug yug rahe suhaag
+khushiyo.n se aa.Ngan teraa sadaa rahe aabaad
+kaano.n me.n jhumakaa are kaano.n me.n jhumakaa
+maathe pe bi.ndiyaa
+meha.ndii vaale haath haradam tere saath
+
+mai.n tujhape kurbaan teraa bhalaa kare bhagavaan
+teraa bhalaa kare \threedots
+
+ba.Daa kaThin hai dil kaa rishtaa
+is rishte kii baat niraalii o
+kahaa.N milegaa aisaa sajanaa
+tuu hai kitanii kismat vaalii
+din ho.n holii raat diivaalii
+ab to ban ga_ii baat
+chaabii lagii vo haath
+tuu banii dhanavaan
+teraa bhalaa kare \threedots
+
+mai.n diivaanaa apanii shamaa kaa
+shamaa se meraa ishq puraanaa are
+aag se bachake aayaa hai jo
+ye alabelaa paravaanaa
+ko_ii mere dil se puuchhe
+har lamhaa har aas du_aa kare naadaan
+aa_e naa ko_ii tuufaan
+teraa bhalaa kare \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aaj dil pe koii zor chalataa nahii.n}% 
+\film{Milan}%
+\year{1967}%
+\starring{Sunil Dutt, Nutan}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Comments: Pankha Road Se Pintu Diwana [21] (05/07/95)
+%          another sad one of the category of 'shaam-e-gam',
+%          'phir wahi shaam', 'hamse aayaa na gayaa',
+%          'aaj sochaa to aansooN' etc.
+%          My very favourite!
+% Credits : Neha Desai
+%
+\printtitle 
+#indian 
+%
+aaj dil pe koI zor chalataa nahii.n 
+muskuraane lage the magar ro pa.De 
+roz hii kii tarah aaj bhii dard thaa 
+ham chhupaane lage the magar ro pa.De 
+
+aur ab kyaa kahe.n, kyaa huaa hai hame.n 
+tum to ho bekhabar, ham bhii anjaan hai.n 
+bas yahI jaan lo to bahut ho gayaa 
+ham bhii rakhate hai.n dil, ham bhii insaan hai.n 
+muskuraate hue ham bahaanaa koI 
+fir banaane lage the magar ro pa.De 
+
+hai.n sitaare kahaa.N itane aakaash par 
+har ek ko agar ik sitaaraa mile 
+kashtiyo.n ke liye ye bha.nvar bhii to hai.n 
+kyaa zaruurI hai har ek ko kinaaraa mile 
+bas yahI soch kar ham ba.Dhe chain se 
+Duub jaane lage the magar ro pa.De 
+
+umr bhar kaash ham yuu.n hii rote rahe
+aaj kyuu.n ke hame.n ye huI hai khabar 
+muskuraahaT kii to koI kImat nahii.n 
+aa.Nsuo.n se huI hai hamaarI kadar 
+baadalo.n kii tarah ham to barase binaa 
+lauT jaane lage the magar ro pa.De 
+%
+#endindian
+\endsong
+%

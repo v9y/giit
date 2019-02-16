@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{nahii.n nahii.n kabhii nahii.n saath na chho.De.nge}%
+\film{Divyashakti/ Divine Strength}%
+\year{1993}%
+\starring{Ajay Devgan, Raveena, Amrish, Satyen, Shafi, Aloknath, Natasha}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	nahii.n nahii.n kabhii nahii.n saath na chho.De.nge \-2
+	( vaadaa kiyaa jo hamane tumase ) \-2 vaadaa naa to.De.nge
+a \:	nahii.n nahii.n kabhii nahii.n \threedots
+
+ku \:	ulajhe ulajhe gesu_o.n ko aake hamane sajaayaa
+	soch samajh ke hamane dilabar dil me.n tujhako basaayaa \-2
+	vaqt ko sa.nvarane do pyaar hame.n karane do
+	roko na dilarubaa
+a \:	nahii.n nahii.n kabhii nahii.n \threedots
+
+a \:	pyaase the jisake li_e ham vo khumaarii miTaa do
+	leke hamako baaju_o.n me.n beqaraarii miTaa do \-2
+	saath saath rahanaa hai dard nahii.n sahanaa hai
+	kar liyaa faisalaa
+ku \:	nahii.n nahii.n kabhii nahii.n \threedots
+%
+#endindian
+\endsong
+

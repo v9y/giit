@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{kachche dhaage ke saath jise}%
+\film{Kachche Dhaage}%
+\year{1973}%
+\starring{Kabir Bedi, Vinod Khanna, Mousumi Chatterji}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11541 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+kachche dhaage ke saath jise baa.Ndh liyaa jaa_e
+vo bandii kyaa chhuuTe vahii.n pe ji_e vahii.n mar jaa_e
+kachche dhaage ke \threedots
+
+jin pe chal na paa_e za.njiiro.n kii joraa\-zorii
+unako khii.nch ke le aa_e kachchii resham kii Dorii
+kisii ne sach hii kahaa hai ki
+do hii baato.n ke biich man kaa miit ban jaa_e
+vo dushman jo ba.De\-ba.Do.n ke kabhii haath na aa_e
+kachche dhaage ke \threedots
+
+aisaa bhii aataa hai ko_ii mast pavan kaa jho.nkaa
+ga.ngaa\-jal pe bhii ho jaataa hai madiraa kaa dhokhaa
+kisii ne sach hii kahaa hai ki
+jhuuThe vaade ke saath jise to.D diyaa jaa_e
+vo bandhan kyaa ju.De ju.De to ju.De gaa.nTh pa.D jaa_e
+kachche dhaage ke \threedots
+
+man\-mandir me.n suurat terii roz karuu.N mai.n puujaa
+meraa tere dvaar binaa priitam naahii.n ghar duujaa
+kisii ne sach hii kahaa hai ki
+sachche naate ke saath jise prem kiyaa jaa_e
+vo pa.nchhii kyaa u.De u.De to u.De lauT kar aa_e
+kachche dhaage ke \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,71 @@
+
+%
+\startsong
+\stitle{ta ra rii aa ra rii aa ra rii ... ye saawan rut tum aur ham ta ra ra ra ram}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiyya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Rafi, Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10612 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	( ta ra rii
+	aa ra rii
+	aa ra rii ) \-2
+	ye saavan rut tum aur ham
+	ta ra ra ra ram
+	ta ra ra ra ram
+do \:	ta ram pam
+	ta ram pam
+	ta ra ram pam
+	uu.N uu.N
+
+su \:	( ta ra rii
+	aa ra rii
+	aa ra rii ) \-2
+	dil naache re chham\-chham\-chham
+	ta ra ra ra ram
+	ta ra ra ra ram
+do \:	ta ram pam
+	ta ram pam
+	ta ra ram pam
+	uu.N uu.N
+
+ra \:	aa.Nkho.n me.n tum le ke pyaar aa gaye
+	gulashan me.n ban kar bahaar aa gaye
+su \:	dekho wo kaliyo.n ko aa_ii ha.Nsii
+	baadal kii chhaayaa me.n naache Kushii
+do \:	tuu hai to phir kyaa hai Gam
+	ta ra ra ra ram
+	ta ra ra ra ram
+	ta ram pam
+	ta ram pam
+	ta ra ram pam
+	uu.N uu.N
+
+ra \:	kahataa hai meraa dil chaliye vahaa.N
+	har din ho saawan hii saawan jahaa.N
+su \:	ham\-tum ho.n rimajhim kaa ik saaz ho
+	bas terii aur merii aawaaz ho
+do \:	gaaye.N mil\-mil ke haradam
+	ta ra ra ra ram
+	ta ra ra ra ram
+	ta ram pam
+	ta ram pam
+	ta ra ram pam
+	uu.N uu.N
+
+	ta ra rii
+	aa ra rii
+	aa ra rii
+%
+#endindian
+\endsong
+

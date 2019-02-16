@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tere chehare se haTe aa.Nkh to duniyaa dekhuu.N}%
+\film{Pyar Ka Sapna}%
+\year{1969}%
+\starring{Ashok Kumar, Mala Sinha, Bishwajit, Johny Walker, Helen, Durga Khote}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10156 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tere chehare se haTe aa.Nkh to duniyaa dekhuu.N
+saamane tuu hai tujhe dekh ke ab kyaa dekhuu.N
+
+raat zulfo.n me.n terii din tere ruKasaaro.n me.n
+ek hii vaqt ye din\-raat kaa jalavaa dekhuu.N
+tere chehare se haTe \threedots
+
+tere jalavo.n kii bahaar bhii tamaashaa_ii banii
+mai.n bhii dil thaam ke kab tak ye tamaashaa dekhuu.N
+tere chehare se haTe \threedots
+
+dekhataa huu.N ki nazaare bhii tujhe dekhate hai.n
+tuu hii batalaa de ki mai.n kisakaa nazaaraa dekhuu.N
+tere chehare se haTe \threedots
+%
+#endindian
+\endsong
+

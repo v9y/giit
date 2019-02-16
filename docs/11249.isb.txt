@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{nazaraanaa bhejaa kisii ne pyaar kaa}%
+\film{Des Pardes}%
+\year{1978}%
+\starring{Dev Anand, Tina Munim, Pran}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: BOL ANAMOL #10407 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+nazaraanaa bhejaa kisii ne pyaar kaa
+hai diivaanaa jo bas tere diidaar kaa
+
+rahe.nge jo ruuThe\-ruuThe \-2
+jhuuThe\-muuThe karake nakhare
+to ham bole.nge nahii.n yuu.N aapase
+o dekho ab na Toko na ha.Nsii ko
+jo aane vaalii hai ho.nTho.n pe chupachaap se
+muskaraa naa aayaa hai tohafaa diladaar kaa
+nazaraanaa bhejaa kisii \threedots
+
+kabhii\-kabhii duurii bhii zaruurii hai
+premiyo.n me.n pyaar ba.Dhaane ke vaaste
+are hote hii hai.n uu.Nche\-niiche Te.Dhe\-me.De
+jaane\-anajaane dekho pyaar ke raaste
+na ghabaraanaa Tal gayaa samaa.N i.ntazaar kaa
+nazaraanaa bhejaa kisii \threedots
+%
+#endindian
+\endsong
+

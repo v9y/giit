@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{yaar ma.ngayaa sii ... ke.Dii mai.n ... mar jaaN de}%
+\film{Kaante}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sanjay Dutt, Sunil Shetty, Kumar Gaurav, Mahesh Manjarekar, Lucky Ali, Tabu, Malaika Arora}%
+\singer{Sonu Nigam}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+o o haa_y 
+yaar ma.ngayaa sii rabbaa taitho.n roke
+ke.Dii mai.n Kudaa_ii ma.ng la_ii
+yaar ma.ngayaa sii \threedots
+
+mar jaaN de
+kise daa mai.nnuu.n ho ke
+ke.Dii mai.n \threedots
+
+haa_y kinniyaa.n du_aavaa.n ma.ngaa.n ko_ii vii na mannii jaa_e
+kaanuu.n roz roz deve saanuu.n dhokhe
+ke.Dii mai.n \threedots
+
+pyaar meraa kar rabbaa mere havaale
+yaar binaa dil meraa kaun sambhaale
+chiiz apanii hii maa.Ngii maine tujh se
+ke.Dii mai.n paraa_ii ma.ng la_ii
+mar jaaN de \threedots
+
+meraa ye nasiibaa haa_y merii na_ii.n sunataa
+sapano.n ke jaal ye roz roz bunataa
+kabhii sun le tuu merii bhii duhaa_ii
+ke.Dii mai.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,66 @@
+% ITRANS SONG
+
+\startsong
+\stitle{hame.n ko_ii Gam hai tumhe.n ko_ii Gam hai}%
+\film{Bhaagam Bhaag}%
+\year{1956}%
+\starring{Kishore Kumar, Shashikala, Smriti Biswas}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+aa \:	( hame.n ko_ii Gam hai tumhe.n ko_ii Gam hai
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai ) \-2
+ra \:	hame.n bha_ii Dar hai
+
+	( yahaa.N to Gam kaa saath hai
+	Kushii ik jhuuthii baat hai ) \-2
+aa \:	( uThaa nazaro.n ko beKabar
+	ajab jalawo.n kii raat hai ) \-2
+	pahalii nazar me.n, dil me.n jigar me.n
+	jalawo.n kaa ra.ng bhar le
+
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai
+ra \:	hame.n bha_ii Dar hai
+	
+	( ha.Nsii ho.nTho.n pe kho ga_ii
+	jawaanii hamako ro ga_ii ) \-2
+aa \:	( balam kyuu.N duur jaaye tuu
+	mohabbat me.n hai zi.ndagii ) \-2
+	pahalii nazar me.n, dil me.n jigar me.n
+	jalawo.n kaa ra.ng bhar le
+
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai
+ra \:	hame.n bha_ii Dar hai
+
+
+ra \:	( zaraa ko_ii hamako thaamanaa
+	chhalak jaaye Gam kaa jaam naa ) \-2
+aa \:	( ganiimat hai ye raat bhii
+	hai dil se dil kaa saamanaa ) \-2
+	pahalii nazar me.n, dil me.n jigar me.n
+	jalawo.n kaa ra.ng bhar le
+
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai
+ra \:	hame.n bha_ii Dar hai
+
+ra \:	( kahuu.N kyaa kaisii der hai
+	Kushii ko dil se bair hai ) \-2
+aa \:	( mohabbat kyaa hai baalamaa
+	dilo.n kaa her\-pher hai) \-2
+	pahalii nazar me.n, dil me.n jigar me.n
+	jalawo.n kaa ra.ng bhar le
+
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai
+	hame.n ko_ii Gam hai tumhe.n ko_ii Gam hai
+	muhabbat kar, zaraa nahii.n Dar, kise kal kii Kabar hai
+ra \:	hame.n bha_ii Dar hai
+
+#endindian
+\endsong

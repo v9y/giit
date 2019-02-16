@@ -1,0 +1,44 @@
+% ITRANS SONG # v4923; Created on Aug 11, 2004
+
+\startsong
+\stitle{aa gaye more piyaa}%
+\film{Naveli (Pakistani-Film)}%
+\year{1952}%
+\starring{}%
+\singer{Munawwar Sultana}%
+\music{I H Qureshi}%
+\lyrics{Nazir Jafri}%
+
+% Contributor: V S Rawat, Aug 7, 2004
+% Series: Geetanjali
+
+% Comments: The film was previously named 'Karawaten'
+% She is indian singer who had migrated to Pakistan.
+% She is different from the actress having same name
+
+\printtitle
+#indian
+
+( aa gaye more piyaa
+naach rahaa hai moraa jiyaa
+pyaar ne dil le liyaa
+jiine na diyaa
+haay luuT liyaa ) \-2
+
+aa gaye more piyaa
+
+( aa ga_ii hai.n kaalii raate.n, kaalii raate.n
+jhuum rahii hai.n barasaate.n, barasaate.n ) \-2
+( bholepan kii baate.n, yaad aaye.n piyaa
+haay luuT liyaa ) \-2
+
+( jaan lagii ghabaraane
+pyaar lagaa pachhataane
+kaun hamaaraa Gam jaane
+yaad naa tuune kiyaa
+haay luuT liyaa ) \-2
+
+aa gaye more piyaa
+
+#endindian
+\endsong

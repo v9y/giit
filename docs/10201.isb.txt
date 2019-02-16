@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{vaadiyo.n me.n kho jaa_e.n ham tum ... ye samaa.N hai suhaanaa}%
+\film{Aarambh}%
+\year{1976}%
+\starring{Rakesh Pande, Rama Vij, Kishore Kapoor, Vipin Gupta}%
+\singer{Mukesh, Aarti Mukherjee}%
+\music{Anand Shankar}%
+\lyrics{Shakeel Ahmed}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjalii series
+% 
+\printtitle
+#indian
+%
+vaadiyo.n me.n kho jaa_e.n ham tum
+aa_o in vaadiyo.n me.n kho jaa_e.n ( ham tum ) \-2
+ye samaa.N hai suhaanaa
+haa.N jii haa.N suhaanaa
+ho jaa_e.n gumasum
+aa_o in vaadiyo.n me.n kho jaa_e.n \threedots
+
+mujhe dono.n jahaa.N kii mil ga_ii hai.n Kushiyaa.N
+tum jo mile hamaraahii mile
+dil kaa ye chaman phir lagaa muskuraane
+aramaano.n ke hai.n phuul khile
+tum hii to ho sahaaraa
+haa.N jii haa.N sahaaraa
+chalate jaa_e.n ham
+aa_o in vaadiyo.n me.n kho jaa_e.n \threedots
+
+pyaaraa ye samaa.N hai mausam bhii javaa.N hai
+chaaro.n taraf husn kii daastaa.N hai
+mujhe lagataa hai jaise hame.n dekhakar ye
+lagaa muskaraane zamii.n aasamaa.n hai
+pyaar me.n ho ke diivaanaa
+jaise ye saaraa zamaanaa
+apanii dhun me.n Gum
+aa_o in vaadiyo.n me.n kho jaa_e.n \threedots
+%
+#endindian
+\endsong
+

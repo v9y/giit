@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{sunojii shikaarii ne shikaar kiyaa ... maar diyaa ... pyaar kiyaa}%
+\film{Shikaari}%
+\year{2000}%
+\starring{Govinda, Karisma Kapoor, Mayuri Kango, Tabu}%
+\singer{Anuradha Paudwal, Udit Narayan, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii hai ko_ii hai
+ai sunojii shikaarii ne shikaar kiyaa
+maar diyaa mujhe maar diyaa
+khan khan ga_ii merii chuu.Diyo.n se
+chham chham ga_ii merii paayalo.n se
+o chunarii ko merii taar taar kiyaa
+maar diyaa mujhe maar diyaa
+
+ko_ii hai
+pyaar maine teraa sviikaar kiyaa
+pyaar kiyaa tujhe pyaar kiyaa
+choTii se tuune mujhe baa.ndh liyaa
+tiikhii tiikhii nazaro.n kaa vaar kiyaa
+are jhaTake ne tere mujhe maar diyaa
+pyaar kiyaa tujhe pyaar kiyaa
+
+jab se khilii hai piyaa kalii mere man kii
+tujhako bulaatii hai ye khushbuu badan kii
+chhalak rahii hai tere ruup kii gagariyaa
+phir bhii hai pyaasaa gorii teraa ye saa.nvariyaa
+tuune mujhe ba.Daa bekaraar kiyaa
+pyaar kiyaa tujhe pyaar kiyaa
+o sunojii shikaarii ne \threedots
+
+ulajhii hai laT merii kahatii hai bi.ndiyaa
+tere binaa haay mujhe aatii nahii.n ni.ndiyaa
+kisali_e karatii hai itanii tuu jaldii
+haatho.n pe rachegii meha.ndii aur tan pe haldii
+maine tere ruup ko nikhaar diyaa
+pyaar kiyaa tujhe pyaar kiyaa
+o sunojii shikaarii ne \threedots
+%
+#endindian
+\endsong
+

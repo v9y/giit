@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chuu.Diyaa.N baazaar se ma.ngavaa de}%
+\film{Suhana Safar}%
+\year{1970}%
+\starring{Shashi Kapoor, Sharmila, Om Prakash, Lalita Pawar, David}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11143 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	chuu.Diyaa.N baazaar se ma.ngavaa de re pahale sai.nyaa
+	paka.D phir bai.nyaa o paka.D phir bai.nyaa
+	reshamii salavaar to silavaa de re pahale sai.nyaa
+	paka.D phir bai.nyaa \threedots
+
+ra \:	gore mukha.De se gorii sarakaa de chunar ra.ng lene de
+	kachchaa ra.ng hai utar jaa_egaa na Dar ra.ng lene de
+aa \:	jo utare naa phir a.ng se mohe ra.ng de aise ra.ng se
+	pyaar zaraa gulaal me.n milaa le ho pahale sai.nyaa
+	paka.D phir bai.nyaa \threedots
+
+ra \:	maane baat jo tuu ek merii mai.n maanuu.N sau baate.n
+	tere qadamo.n me.n Daal duu.N laa ke zamaane kii sauGaate
+aa \:	pahale le de mujhako ghaagharaa phir le chal mujhako aagaraa
+	taajamahal kii sair to karavaa de re pahale sai.nyaa
+	paka.D phir bai.nyaa \threedots
+%
+#endindian
+\endsong
+

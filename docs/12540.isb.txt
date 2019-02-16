@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kahaa.N hai kahaa.N hai kanhaiyaa}%
+\film{Kanhaiyaa}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10865 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+kahaa.N hai kahaa.N hai kanhaiyaa \-2
+samajhe na pyaar meraa \-2
+miiThii\-miiThii baa.Nsurii se chhiin le qaraar meraa \-2
+kahaa.N hai kahaa.N \threedots
+
+o mohe ratiyaa.N jagaa_e vo merii ni.ndiyaa churaa_e
+Dhuu.NDhuu.N mai.n shaam\-savere vo mohe milane na paa_e
+kahaa.N hai kahaa.N \threedots
+
+mai.n unakii bholii pujaaran huu.N paagal unake kaaran
+do nainaa laage pi_uu se banii mai.n pyaar kii jogan \-2
+kahaa.N hai kahaa.N \threedots
+
+mai.n jiivan aise guzaaruu.N ki baiThii pa.nth nihaaruu.N
+mai.n unake saa.Ns kii saragam teraa hii naam pukaaruu.N
+kahaa.N hai kahaa.N \threedots
+%
+#endindian
+\endsong
+

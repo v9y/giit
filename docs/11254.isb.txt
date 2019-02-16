@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ai chaa.Nd kal jo aanaa unako bhii saath laanaa}%
+\film{Devtaa}%
+\year{1956}%
+\starring{Anjali Devi, Vyjayantimala, Ganesh, Agha}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10087 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ai chaa.Nd kal jo aanaa unako bhii saath laanaa
+vo jinake baGair aaj pyaar beqaraar hai
+
+ye Tha.nDii havaa ye samaa.N ye nazaare
+aise me.n aa_e ko_ii dil ko pukaare
+jise merii a.Nkhiyo.n ne dekhaa ik baar hai
+vo jinake baGair aaj \threedots
+
+o chandaa bataa hai kahaa.N chaa.Nd meraa
+itanaa bataa de to kyaa biga.Degaa teraa
+pahalii pahalii priit merii pahalaa pahalaa pyaar hai
+vo jinake baGair aaj \threedots
+%
+#endindian
+\endsong
+

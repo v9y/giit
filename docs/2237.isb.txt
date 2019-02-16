@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{vaqt se pahale qisamat se jyaadaa}%
+\film{Biwi O Biwi}%
+\year{1981}%
+\starring{Randhir Kapoor, Poonam Dhillon, Sanjeev Kumar, Yogita Bali, Simi Garewal}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Vitthalbhai Patel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Vinay Jha
+% Editor:
+%
+\printtitle
+#indian
+%
+vaqt se pahale qisamat se jyaadaa
+kisii ko milaa hai na kisii ko milegaa
+pyaar se saaraa gulashan mahake
+nafarat se koii gul na khilegaa
+vaqt se pahale qisamat se jyaadaa   \threedots
+
+Gam ko hamane giit banaa kar
+is duniyaa kaa dil bahalaayaa
+ha.Nsate ha.Nsaate jaane kaise
+dil hii dil me.n tumako paayaa
+ham hai.n sabake, koii na apanaa
+ik din koii apanaa milegaa
+pyaar se saaraa gulashan mahake
+nafarat se koii gul na khilegaa
+vaqt se pahale qisamat se jyaadaa   \threedots
+
+nain mile aur chain ga.Nvaayaa
+baat puraanii phir bhii na_ii hai
+terii nazar ne merii nazar se
+bin bole ik baat kahii hai
+dekh ke mujhako yuu.N na lajaao
+dil pe phir qaabuu na rahegaa
+pyaar se saaraa gulashan mahake
+nafarat se koii gul na khilegaa
+vaqt se pahale qisamat se jyaadaa   \threedots
+
+%
+#endindian
+\endsong
+%

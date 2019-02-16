@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{yahii aramaan lekar aaj apane ghar se ham nikale}%
+\film{Shabaab}%
+\year{}%
+\starring{Bharat Bhushan, Nutan}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+yahI aramAn lekar Aj, apane ghar se ham nikale
+jahA.N hai zi.ndagI apanI, usI kUche me.n dam nikale
+yahI\threedots
+
+sitAro.n jagamagAo tum, bahAro.n muskurAo tum
+merI uja.DI huI muhabbat kI, ha.NsI mil kar u.DAo tum
+jinhe.n sajade kie hamane, vo patthar ke sanam nikale
+yahI\threedots
+
+tamannA yahI hai ab to, merA sar ho terA dar ho
+na A.NsU koI A.Nkho.n me.n, na shikavA koI lab par ho
+agar yU.N maut A jAe to apane dil se Gam nikale
+yahI\threedots
+%
+#endindian
+\endsong
+%

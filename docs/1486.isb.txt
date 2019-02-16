@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pyaar karane vaale kabhii darate nahii.n}%
+\film{Hero}%
+\year{1984}%
+\starring{Jackie Shroff, Meenakshi Sheshadri, Sanjeev Kumar}%
+\singer{Lata, Manhar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+logo.n se sunaa hai kitaabo.n me.n likhaa hai
+sab ne yahii kahaa hai sab ne yahii kahaa hai
+pyaar karane vaale kabhii Darate nahii.n
+jo Darate hai.n vo pyaar karate nahii.n
+
+lambii diivaare.n chunavaa do laakh biThaa do pahare
+raste me.n bichhaa do uu.Nche parvat saagar gahare
+tuufaa.N kab rukate hai.n baadal jab jhukate hai.n
+taare kah uThate hai.n saare kah uThate hai.n
+pyaar karane vaale kabhii Darate nahii.n \threedots
+
+pyaar chhupe na khushabuu ye elaan kaho to kar duu.N
+chuTakii bhar sinduur ma.Ngaa de maa.Ng mae.n terii bhar duu.N
+duniyaa kyaa kar legii duniyaa se kahegii
+bas kahatii hii rahegii, bas kahatii hii rahegii
+pyaar karane vaale kabhii Darate nahii.n \threedots
+
+%
+#endindian
+\endsong
+%

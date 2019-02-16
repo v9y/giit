@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{parvato.n se aaj mai.n Takaraa gayaa, tum ne dii aavaaz lo mai.n aa gayaa}%
+\film{Betaab}%
+\year{1983}%
+\starring{Sunny Deol, Amrita Singh, Shammi Kapoor, Prem Chopra}%
+\singer{Shabbir Kumar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Umesh D. Navsariwala (udnavs00@nx20.mik.uky.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+premii huu.N paagal huu.N mai.n, paagal huu.N mai.n, paagal huu.N mai.n 
+ruup kA saagar huu.N mai.n, saagar huu.N mai.n , saagar huu.N mai.n 
+pyaar kA bAdal huu.N mai.n 
+parvato.n se aaj mai.n Takaraa gayaa
+tum ne dii aavaaz lo mai.n aa gayaa (2) 
+
+tum bulaao mai.n nA aa_uu.n aisA harajaaI nahii.n 
+itane din tumako hii merI (2) yaad tak aa_ii nahii.n 
+aa gayaa jaaduu kA mausam aa gayaa 
+tum ne dii aavaaz lo mai.n aa gayaa 
+ho ho parvato.n se aaj mai.n Takaraa gayaa
+tum ne dii aavaaz lo mai.n aa gayaa 
+
+umr hii aisI hai kuchh ye tum kisii se pUchh lo 
+ek saathii kii zaruurat (2) pa.Datii hai har ek ko 
+dil tumhaaraa is liye ghabaraa gayaa 
+tum ne dii aavaaz lo mai.n aa gayaa 
+ho ho parvato.n se aaj mai.n Takaraa gayaa
+tum ne dii aavaaz lo mai.n aa gayaa 
+
+khol kar in band aa.Nkho.n ko jharokho.n kii tarah 
+chor aavaaraa havaa ke mast jho.nko.n kii tarah 
+reshamii zulfo.n ko mai.n bikharA gayaa 
+tumane dii aavaaz lo mai.n aa gayaa 
+ho ho ho parvato.n se aaj mai.n Takaraa gayaa \threedots
+%
+#endindian
+\endsong
+%

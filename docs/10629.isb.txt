@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{sab me.n shaamil ho magar sabase judaa rahatii ho}%
+\film{Bahu Beti}%
+\year{1965}%
+\starring{Ashok Kumar, Mala Sinha, Joy Mukherji, Mehmood, Mumtaz, Ashish Kumar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10678 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sab me.n shaamil ho magar sabase judaa rahatii ho
+sirf hamase nahii.n khud se bhii Kafaa lagatii ho
+sab me.n shaamil \threedots
+
+aa.Nkh uThatii hai na jhukatii hai kisii kii Kaatir \-2
+saa.Ns cha.Dhatii hai na rukatii hai kisii kii Kaatir
+jo kisii dar pe na Thahare vo havaa lagatii ho
+sirf hamase nahii.n \threedots
+
+zulf laharaa_e to aa.Nchal me.n chhupaa letii ho \-2
+ho.nTh tharraa_e.N to daa.Nto.n me.n dabaa letii ho
+jo kabhii khul ke na barase vo ghaTaa lagatii ho
+sirf hamase nahii.n \threedots
+
+jaagii\-jaagii nazar aatii ho na so_ii\-so_ii \-2
+tum jo ho apane Kyaalaat me.n kho_ii\-kho_ii
+kisii maayuus musavvir kii du_aa lagatii ho
+sirf hamase nahii.n \threedots
+%
+#endindian
+\endsong
+

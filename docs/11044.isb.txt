@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil hai aisaa raahii ... mai.n kyaa karuu.n kyaa karuu.n}%
+\film{Dillagi}%
+\year{1999}%
+\starring{Sunny Deol, Bobby Deol, Urmila Matondkar}%
+\singer{Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil hai aisaa raahii jisane ma.nzil ko hii nahii.n jaanaa
+tanhaa tanhaa ghuum rahaa hai kabase ye diivaanaa
+mai.n kyaa karuu.n kyaa karuu.n
+
+hairaanii me.n huu.N kaise kahuu.n
+kyaa Gam hai mujhe kyaa kho gayaa
+sab to hai vahii phir hai kyaa kamii
+ai dil ye tujhe kyaa ho gayaa
+mai.n kyaa karuu.n \threedots
+
+maine kyaa kiyaa din me.n so gayaa
+ab jaagaa huu.N mai.n to raat hai
+ko_ii saath thaa jab vo jaa chukaa
+yaad aa_ii mujhe ik baat hai
+mai.n kyaa karuu.n \threedots
+%
+#endindian
+\endsong
+

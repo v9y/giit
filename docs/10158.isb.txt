@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{bahake bahake ye jazbaat pahalaa pyaar ku.naarii raat aap ke saath}%
+\film{Aapke Saath}%
+\year{1986}%
+\starring{Smita Patil, Anil Kapoor, Rati Agnihotri, Vinod Mehra, Utpal Dutt}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bahake bahake ye jazbaat pahalaa pyaar ku.naarii raat aap ke saath
+mahake mahake lamhaat
+pahalaa pyaar \threedots
+
+aise haal me.n dekh liyaa hamako chaa.Nd sitaaro.n ne
+kalii se phuul banaa Daalaa tumako aaj bahaaro.n ne
+ho rusavaa_ii ke sab haalaat
+pahalaa pyaar \threedots
+
+tumako kab seharaa baa.ndhaa mai.n kab baiThii Dolii me.n
+jaane kab kyaa hotaa hai pyaar kii aa.Nkh michaulii me.n
+ho aramaano.n kii ye baaraat
+pahalaa pyaar \threedots
+
+kuchh na kuchh ho jaayegaa kab jaaduu chal jaaye.nge
+ek sholaa saa lapakegaa ham dono.n jal jaaye.nge
+ho aag barasaatii hai ye barasaat
+pahalaa pyaar \threedots
+%
+#endindian
+\endsong
+

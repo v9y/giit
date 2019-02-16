@@ -1,0 +1,37 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{Das na jaaye.n tujhako}%
+\film{Mallika}%
+\year{1947}%
+\starring{}%
+\singer{Rafi}%
+\music{A R Qureshi}%
+\lyrics{Tanvir Naqvi}%
+% 
+% Audio on: Indianscreen
+% Tags: Ghazal praise
+% Contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% Date: 17 Dec 2005
+% Series: Rafi Veritable Gems
+% Comments: Interesting usage of words in qawaafee and radiif.
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+Das na jaaye.n tujhako zulfe.n kaaliyaa.N
+tuune kyuu.N ye naagine.n hai.n paaliyaa.N
+
+terii mast aa.Nkho.n ke jo.De dekhakar
+u.D ga_ii.n phuulo.n ke ruK se laaliyaa.N
+
+tuu agar gulashan me.n jaanaa chho.D de
+bhuul jaa_e.Ngii lachakanaa Daaliyaa.N
+
+tere ruKasaaro.n ko aksar chuumakar
+jhuum jaatii hai.n sunaharii baaliyaa.N
+%
+#endindian
+\endsong

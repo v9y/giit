@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{uThaaye jaa unake sitam aur jiye jaa}%
+\film{Andaaz}%
+\year{1949}%
+\starring{Dilip Kumar, Nargis, Raj Kapoor}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Samiuddin Mohammad (sm0e@lehigh.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(uThaaye jaa un ke sitam aur jiye jaa 
+yuu.N hii muskuraae jaa aa.Nsuu piye jaa  )  \- 2
+uThaae jaa un ke siitam \threedots
+
+yahii hai muhabbat kaa dastuur ai dil, dastuur ai dil
+vo gam de tujhe tuu duaae.n diye jaa
+uThaaye jaa un ke sitam \threedots
+
+kabhii vo nazar jo samaaI thii dil me.n
+samaaI thii dil me.n
+usii ek nazar kaa sahaaraa liye jaa
+uThaae jaa un ke sitam \threedots
+
+sataae zamaanaa yaa sitam Dhaaye duniyaa
+sitam Dhaaye duniyaa
+magar tuu kisii kii tamannaa kiye jaa
+uThaaye jaa un ke sitam aur jiye jaa
+yuu.N hii muskuraae jaa aa.Nsuu piye jaa
+uThaaye jaa un ke sitam \threedots
+%
+#endindian
+\endsong
+%

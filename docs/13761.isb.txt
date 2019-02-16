@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{raat kii hathelii par chaa.Nd jagamagaataa hai}%
+\film{Refugee}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kareena Kapoor, Jackie Shroff, Sunil Shetty, Anupam Bher, Reena Roy, Kulbhushan Kharbanda, Ashish Vidyarthi}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raat kii hathelii par chaa.Nd jagamagaataa hai
+usakii narm kiraNo.n me.n tumako dekhataa huu.N to
+dil dha.Dak saa jaataa hai
+raat kii hathelii par \threedots
+
+tum kahaa.N se aa_ii ho kis nagar ko jaa_ogii
+sochataa huu.N mai.n hairaa.n
+chaa.Nd jaisaa ye cheharaa raat jaisii ye zulfe.n
+hai.n jagaa_e sau aramaa.n
+ik nashaa saa aa.Nkho.n me.n dhiire dhiire chhaataa hai
+raat kii hathelii par \threedots
+
+merii is tanhaa_ii me.n mere is viiraane me.n
+ra.ng le ke tum aa_ii.n
+phir bhii sochataa huu.N mai.n kyaa yahaa.n tum sachamuch ho
+yaa ho sirf parachhaa_ii.n
+khvaab jaise banataa hai aur TuuT jaataa hai
+raat kii hathelii par \threedots
+%
+#endindian
+\endsong
+

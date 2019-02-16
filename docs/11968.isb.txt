@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aashaa ke jab diip bujhe ... apanii chhaayaa me.n bhagavan}%
+\film{Insaaniyat}%
+\year{1955}%
+\starring{Dilip Kumar, Dev Anand, Beena Roy, Vijaylaxmi, Jayant, Jayraj, Shobana Samarth}%
+\singer{Rafi}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10088 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aashaa ke jab diip bujhe to man kaa diip jalaa
+jag kaa rastaa chho.D musaafir terii raah chalaa
+
+apanii chhaayaa me.n bhagavan biThaa le mujhe
+mai.n huu.N teraa tuu apanaa banaa le mujhe
+apanii chhaayaa me.n \threedots
+
+ab mujhe Gam kaa Gam naa Kushii kii Kushii
+hai a.Ndheraa bhii mere li_e roshanii
+mai.n jii_uu.N jab tak aajamaa le mujhe
+mai.n huu.N teraa tuu \threedots
+
+dekhakar mai.n kisii kii Kushii naa jaluu.N
+raah i.nsaaniyat kii hameshaa chaluu.N
+bhuul jaa_uu.N to jag se uThaa le mujhe
+mai.n huu.N teraa tuu \threedots
+%
+#endindian
+\endsong
+

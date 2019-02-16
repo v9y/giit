@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil kaa dard niraalaa}%
+\film{Kaise Kahoon}%
+\year{1964}%
+\starring{Biswajit, Nanda, Rehman, Naaz, Durga Khote, Manmohan Krishn}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+%
+% Contributor: Rajkumar Keswani
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+Dil kaa dard nirala , dil kaa dard nirala=20
+kisko sunaoon koi nahin hai , aaj samjhane wala .
+dil kaa dard nirala .
+
+Khilte hue ek phool ko jaise apni mahal maloom na ho
+jalte hue deep ko jaise apni chamal maloom na ho=20
+dil mein yoonhi tere pyar kaa thaa ek anjana ujiyala .
+Dil kaa dard nirala .
+
+Main hoon sanam apradhi tera maut bhi manzoor mujhe=20
+par woh sazaa main sah na sakoonga kar de jo tujhse door mujhe
+dil se bhulaade meri khatayen tod de ghum kaa jalaa .
+Dil kaa dard nirala
+kisko sunaoon koi nahin hai aaj samjhane wala .
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chorii chorii tuu dil ko churaa le ga_ii ... haay zor naa dil pe chalaa}%
+\film{Pyaasa}%
+\year{2002}%
+\starring{Aftab Shivdasani, Yukta Mukhi, Julfi Saiyed}%
+\singer{Sonu Nigam}%
+\music{Sanjeev Darshan}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chorii chorii tuu dil ko churaa le ga_ii
+ba.nd aa.Nkho.n se nii.nde u.Daa le ga_ii
+jaaduugaranii hai tuu yaa hai ko_ii balaa
+haay zor naa dil pe chalaa
+na jaane meraa kyaa hogaa
+diivaanaa mai.n to ho gayaa
+
+ha.Ns ke tuu milatii hai har mulaakaat par
+baat ye jaa_egii pyaar kii baat par
+ab tere khvaabo.n me.n roz aa_uu.ngaa mai.n
+in hasii.N aa.Nkho.n me.n Duub jaa_uu.Ngaa mai.n
+aajaa miT jaane de ab to ye faasalaa
+haay zor naa dil pe \threedots
+
+har adaa bolatii huu.n gunagunaatii hu_ii
+har nazar uThatii hai muskuraatii hu_ii
+haal\-e\-dil apano.n se yuu.N chhupaate nahii.n
+dil me.n jo rahate hai.n dil jalaate nahii.n
+jaane kyaa ra.ng laa_e apanaa ye silasilaa
+haay zor naa dil pe \threedots
+%
+#endindian
+\endsong
+

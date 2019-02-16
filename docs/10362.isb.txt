@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{duniyaa kii sair kar lo ... ##around the world in eight dollars##}%
+\film{Around The World}%
+\year{1967}%
+\starring{Raj Kapoor, Rajashri, Ameeta, Pran}%
+\singer{Mukesh, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11046 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	duniyaa kii sair kar lo \-2
+	insaa.N ke dost banakar insaa.N se pyaar karalo
+shaa \:	duniyaa kii sair \threedots
+do \:	##around the world in eight dollars## \-4
+
+mu \:	##Los Angeles## bha.Dakiilaa jahaa.N ##Hollywood## hai ra.ngiilaa
+	dekho ##Disneyland## me.n aakar pariyo.n kaa desh dharatii par
+shaa \:	##Los Angeles## \threedots
+mu \:	duniyaa kii sair \threedots
+do \:	insaa.N ke dost \threedots
+
+shaa \:	ham aman chaahane vaale ham pyaar pe marane vaale
+	ik baat kahe.nge sabase nafarat ko miTaa jag se
+mu \:	insaan ke haath kaa Tonaa miTTii ko banaayaa sonaa
+	ye ##Washington## alabelaa ##New York## shahar kaa melaa
+	duniyaa kii sair \threedots
+do \:	insaa.N ke dost \threedots
+
+mu \:	##London## kii dau.D diivaanii ##Paris## kii shaam mastaanii
+	qudarat ke khel niraale zaraa dekhale dekhane vaale
+do \:	##Berlin## kaa badalataa cheharaa aur ##Rome## kaa ra.ng sunaharaa
+	##Venice## me.n naavo.n kii saire.n ye giit gaatii hu_ii lahare.n
+	duniyaa kii sair \threedots
+do \:	insaa.N ke dost \threedots
+%
+#endindian
+\endsong
+

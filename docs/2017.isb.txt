@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ab to hai tumase har khushii apanii}%
+\film{Abhimaan}%
+\year{1973}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Asrani, Bindu}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ab to hai tumase har khushii apanii
+tumape maranaa hai zi.ndagii apanii
+o o ab to hai tumase   \threedots
+
+jab ho gayaa tumape ye dil diivaanaa
+ab chaahe jo bhii kahe hamako zamaanaa
+koii banaaye baate.n chaahe ab jitanii
+o o ab to hai tumase   \threedots
+
+tere pyaar me.n badanaam duur duur ho gaye
+tere saath ham bhii sajan, mash_huur ho gaye
+dekho kahaa.N le jaaye, bekhudii apanii
+o o ab to hai tumase   \threedots
+%
+#endindian
+\endsong
+%

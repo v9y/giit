@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{benaam ... jab vo nikalataa hai ko_ii haadasaa hotaa hai}%
+\film{Benaam}%
+\year{1999}%
+\starring{Mithun Chakravarti, Aditya Pancholi, Payal Malhotra}%
+\singer{Amit Kumar}%
+\music{Bappi Lahiri}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+benaam benaam benaam benaam
+jab vo nikalataa hai ko_ii haadasaa hotaa hai
+akhabaaro.n me.n chhapataa hai kyaa hai naam
+benaam \threedots
+
+vo kab kahaa.n pe aa_e ko_ii soch nahii.n ye paa_e
+har ko_ii yahaa.n ghabaraa_e subah\-o\-shaam
+benaam \threedots
+
+vo raaz ba.Daa hai gaharaa dekhaa na kisii ne cheharaa
+chaahe jitanaa lagaa ho paharaa le i.ntakaam
+benaam \threedots
+
+hairaan hai duniyaa saarii kab kisakii aa_e baarii
+kahaa.n vaar kare shikaarii vo gumanaam
+benaam \threedots
+%
+#endindian
+\endsong
+

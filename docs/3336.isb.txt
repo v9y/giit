@@ -1,0 +1,47 @@
+% ITRANS SONG # 3336; Created on Jan 26, 2004
+%
+% From: Surajit A. Bose (sbose@saintmarys.edu)
+% Date: 2001-03-03 16:26:07 PST
+%
+\startsong
+\stitle{haal\-e\-dil unako sunaanaa thaa sunaayaa naa gayaa}%
+\film{Fariyad}%
+\year{1964}%
+\starring{Ashok, Zeb Rahman, Achla, Gyani, Shabaani}%
+\singer{Suman Kalyanpur}%
+\music{Snehal Bhatkar}%
+\lyrics{Kidar Sharma}%
+%
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: 3 March 2001
+% Comments: GEETanjali series. The song is a Gazal, though the
+%  line spacing below disguises that fact.
+%
+\printtitle
+#indian
+%
+haal\-e\-dil unako sunaanaa thaa \-2
+sunaayaa naa gayaa, sunaayaa naa gayaa
+jo zubaa.N par mujhe laanaa thaa \-2
+vo laayaa naa gayaa, vo laayaa naa gayaa
+haal\-e\-dil unako \threedots
+
+pyar me.n siine pe sar rakhake to dil qadamo.n par \-2
+aap ko apanaa banaanaa thaa \-2
+banaayaa naa gayaa, banaayaa naa gayaa
+haal\-e\-dil unako \threedots
+
+khelatii aa.Nkh micholii rahii nazare.n apanii \-2
+jinako palako.n me.n chhupaanaa thaa \-2
+chhupaayaa naa gayaa, chhupaayaa naa gayaa
+haal\-e\-dil unako \threedots
+
+ek hii vaar me.n haatho.n se jigar chhiin liyaa \-2
+haay jis dil ko bachaanaa thaa \-2
+bachaayaa naa gayaa, bachaayaa naa gayaa
+haal\-e\-dil unako \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ai mere dil kahii.n aur chal}%
+\film{Daag}%
+\year{1952}%
+\starring{Dilip Kumar}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai mere dil kahii.n aur chal
+Gam kii duniyaa se dil bhar gayaa
+Dhuu.NDh le ab koI ghar nayaa
+ai mere dil kahii.n aur chal
+
+chal jahaa.N gam ke maare na ho.n
+jhuuThii aashaa ke taare na ho.n
+jhuuThii aashaa ke taare na ho.n
+in bahaaro.n se kyaa faayadaa
+jis me.n dil kii kalii jal gaI
+zaKm phir se haraa ho gayaa
+ai mere dil kahii.n aur chal
+
+chaar aa.Nsuu koI ro diyaa
+pher ke mu.Nh koI chal diyaa
+pher ke mu.Nh koI chal diyaa
+luT rahaa thaa kisii kaa jahaa.N
+dekhatii rah gaI ye zamii.n
+chup rahaa beraham aasamaa.n
+ai mere dil kahii.n aur chal
+%
+#endindian
+\endsong
+%

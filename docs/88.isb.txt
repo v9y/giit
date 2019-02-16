@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aajakal tere mere pyaar ke charche har zabaan par}%
+\film{Brahmachari}%
+\year{}%
+\starring{Shammi Kapoor, Rajshri, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+(aajakal tere mere pyaar ke charche har zabaan par
+sabako maalUm hai aur sabako khabar ho gaI ) \- 2
+
+1) (hamane to pyaar me.n aisaa kaam kar liyaa
+pyaar kii raah me.n apanaa naam kar liyaa ) \ - 2
+pyaar kii raah me.n apanaa naam kar liyaa
+aajakal \threedots
+
+2) (do badan ek din ek jaan ho gae
+ma.nzile.n ek huii.n hamasafar ban gae ) \- 2
+ma.nzile.n ek huii.n hamasafar ban gae 
+aajakal \threedots
+
+3) (kyo.n bhalaa ham Dare.n dil ke maalik hai.n ham
+har janam me.n tujhe apanaa maanaa sanam ) \- 2
+har janam me.n tujhe apanaa maanaa sanam
+aajakal \threedots
+%
+#endindian
+\endsong
+%

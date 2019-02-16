@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dil meraa har baar ye ... kaho naa pyaar hai kahaa naa pyaar hai}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Udit Narayan, Alka Yagnik/ Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##i love you##
+dil meraa har baar ye sunane ko bekaraar hai
+kaho naa pyaar hai kaho naa pyaar hai
+haa.N tumase pyaar hai ke tumase pyaar hai
+in pyaarii baato.n me.n anjaanaa iqaraar hai
+kaho naa pyaar hai kaho naa pyaar hai
+kahaa naa pyaar hai kahaa naa pyaar hai
+
+pyaar jahaa.N me.n hotaa nahii.n phir bolo kyaa hotaa
+duniyaa me.n dil ko_ii kabhii na dha.Dakaa hotaa
+dha.Dakaa hai dil aa yaar mil ye pyaar kaa izahaar hai
+kaho naa pyaar hai \threedots
+
+do premii do paagal kyaa karate hai.n bolo
+mujhase kyaa puuchhate ho apane dil ko TaTolo
+maaluum hai hamako tumhe.n kis baat kaa intazaar hai
+kaho naa pyaar hai \threedots
+
+milate nahii.n ham tum to phir bolo kyaa hotaa
+sach boluu.n phir apanaa khvaab naa puuraa hotaa
+kahataa hai man apanaa milan duniyaa me.n yaadagaar hai
+kaho naa pyaar hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{miiThe bol bole, bole paayaliyaa, chhuum-chhanan bole, jhanak jhan bole}%
+\film{Kinaara}%
+\year{1977}%
+\starring{Jeetendra, Hema Malini, Dharmendra, Dr. Shreeram Lagoo}%
+\singer{Bhupinder, Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+miiThe bol bole, bole paayaliyaa
+chhuum\-chhanan bole, jhanak\-jhan bole
+miiThe bol bole \threedots
+
+pag pag naache re, ghu.ngharu kii daasii
+ik pag raadhaa jaisii,  ik pag miiraa jaisii
+saa.nvare kii bolii bole
+paayaliyaa bole
+miiThe bol bole \threedots
+
+naino.n kii baa.Nsurii,  koii sunaae
+a.Nkhiyo.n kii jyotii se, jyot jalaae
+baavare se Dholii Dhole
+paayaliyaa bole
+miiThe bol bole \threedots
+%
+#endindian
+\endsong
+%

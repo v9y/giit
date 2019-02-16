@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{mujhe mubaaraq puraanii yaade.n ... mahalo.n ne chhiin liyaa}%
+\film{Zabak}%
+\year{1961}%
+\starring{Mahipal, Shyama}%
+\singer{Lata, Mukesh}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10168 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	mujhe mubaaraq puraanii yaade.n tujhe mubaaraq nayaa fasaanaa
+	jo ho sake to na yaad karanaa jo yaad aa_uu.N to bhuul jaanaa
+
+	mahalo.n ne chhiin liyaa bachapan kaa pyaar meraa \-2
+la \:	mujhako ilzaam na do kar lo aitabaar meraa \-2
+
+mu \:	tum ho falaq par mai.n huu.N zamii.n pe 	tumako Kabar kyaa hamaarii \-2
+la \:	maano na maano mahalo.n me.n rah ke 	mai.n aaj bhii huu.N tumhaarii
+	mujhako ilzaam na do \threedots
+
+	le chal hame.n bhii saath apane kahatii hai.n dil kii sadaa_e.n
+mu \:	mujhase judaa hai ma.nzil tumhaarii tumase judaa hai.n merii raahe.n
+	mahalo.n ne chhiin liyaa \threedots
+
+	ulajhuu.Ngaa naa mai.n daaman se tere raaho.n me.n ek khaar banake \-2
+la \:	jaise rahe ho vaise rahoge dil me.n mere pyaar banake
+	mujhako ilzaam na do \threedots
+%
+#endindian
+\endsong
+

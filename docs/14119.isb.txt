@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{vaadaa karo jaanam na chho.De.nge ye daaman}%
+\film{Subse Badaa Rupaiyaa}%
+\year{1976}%
+\starring{Vinod Mehra, Maushmi Chatterjee, Mehmood}%
+\singer{Kishor, Lata}%
+\music{Basu Manohari}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10080 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	vaadaa karo jaanam na chho.De.nge ye daaman zamaanaa chaahe chhuuTe
+	baa.Ndhii hai jo dil me.n ab ye Dor zindagii bhar na TuuTe
+la \:	vaadaa karo jaanam \threedots
+
+ki \:	badale.n na ham tum kabhii rut ye badalatii rahe
+	do dilo.n kii ye baat chalatii hii rahe
+la \:	o aake bahaaro.n kii chhaa.Nv jaatii rahe Dhalatii rahe
+	naa phire ye nazar dil se dil na ruuThe
+	zamaanaa chaahe chhuuTe
+ki \:	vaadaa karo jaanam \threedots
+
+la \:	hone de.nge na aisaa ham kal ko zamaanaa kahe
+	yuu.N kare.n pyaar kaa naam duniyaa yaad kare
+ki \:	hamape gire.n bijaliyaa.N aa.Ndhii ke tuufaa.N chale.n
+	haatho.n se ye teraa aa.Nchal ab na chhuuTe
+	zamaanaa chaahe chhuuTe
+la \:	vaadaa karo jaanam \threedots
+%
+#endindian
+\endsong
+

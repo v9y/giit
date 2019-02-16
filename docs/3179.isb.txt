@@ -1,0 +1,39 @@
+%
+ \startsong
+ \stitle{qismat kaa nahii.n doSh baavare}%
+ \film{Sajni}%
+ \year{1956}%
+ \starring{Anup Kumar, Sulochana}%
+ \singer{Sudhir Phadke, Lata}%
+ \music{Sudhir Phadke}%
+ \lyrics{Pt. Narendra Sharma}%
+ %
+ % Contributor: Srinivas Ganti
+ % Transliterator: Srinivas Ganti
+ % Edits: Malini
+ % Date: 31 July, 2002
+ % Comments:
+ %
+ su: qismat kaa nahii.n doSh baavare aa aa aa~
+ do: qismat kaa nahiin doSh baavare, doSh nahii.n bhagavaan kaa
+     dukh denaa i.nsaan ko jag me.n kaam rahaa i.nsaan kaa
+     qismat kaa nahii.n doSh baavare
+
+ su: sukh kii nii.nd na so paayegaa, jaag o paapii jaag re
+     kisakii phulavaarii me.n lagaa dii, naahaq tuu ne aag re
+     jagamag jalane diyaa na jag me.n, diip kisii ke praan kaa
+ do: dukh denaa i.nsaan ko jag me.n, kaam rahaa i.nsaan kaa
+     qismat kaa nahii.n doSh baavare
+
+ su: (kis ke ras ko viSh kar Daalaa)\-2
+     diyaa kise dukh kaa viSh\-pyaalaa
+     ek din tujhako bhii Das legii, tere paapo.n kii viSh jvaalaa
+     sholaa bha.Dak uThegaa ek din, tere soye GYaan kaa
+ do: dukh denaa i.nsaan ko jag me.n, kaam rahaa i.nsaan kaa
+     qismat kaa nahii.n doSh baavare, doSh nahii.n bhagavaan kaa
+     dukh denaa i.nsaan ko jag me.n kaam rahaa i.nsaan kaa
+     qismat kaa nahii.n doSh baavare
+  %
+ #endindian
+ \endsong
+ %

@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{jogii jabase tuu aayaa mere dvaare}%
+\film{Bandini}%
+\year{1963}%
+\starring{Ashok Kumar, Nutan}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+jogii jabase tuu aayaa mere dvaare
+mere ra.Ng ga_e saa.njh sakaare
+tuu to a.Nkhiyo.n me.n jaan\-e\-jii kii batiyaa.N
+tujhase milanaa hii zulm bhaayaa re
+o jogii jabase \threedots
+
+dekhii saa.Nvalii suurat ye mainaa judaa_e
+dekhii saa.Nvalii suurat
+terii chhabii dekhii jabase re
+terii chhabii dekhii jabase re nainaa judaa_e
+bha_e bin kajaraa ye kajaraare
+
+o jogii jabase \threedots
+
+jaake panaghaT pe baiThuu.N mai.n, raadhaa diivaanii
+jaake panaghaT pe baiThuu.N mai.n
+bin jal li_e chalii aayuu.N
+bin jal li_e chalii aayuu.N, raadhaa diivaanii
+o jogii jabase tuu \threedots
+
+miiThii miiThii agan ye sah na sakuu.Ngii
+miiThii miiThii agan ye
+mai.n to chhuii\-muii abalaa re
+mai.n to chhuii\-muii abalaa re sah na sakuu.Ngii
+mere aur nikaT mat aa re
+o jogii jabase tuu \threedots
+%
+#endindian
+\endsong
+%

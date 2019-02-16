@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ai dard zaraa dam le}%
+\film{Zamaana}%
+\year{1938}%
+\starring{Padmadevi, Nazir, Gop, Dar (Jeewan), Majeed, Basant}%
+\singer{Amirbai}%
+\music{Sundar Das}%
+\lyrics{D N Madhok}%
+
+% Contributor: GEETANJALI [V S Rawat], Aug 02, 2004
+
+% Amirjan is the name of Amirbai Karnataki
+
+% Kosh says that this song was also shown being played on a
+% gramaphone in Ghar Ki Izzat (1948).
+
+\printtitle
+#indian
+
+ai dard zaraa dam le, karavaT to badalane de \-2
+aramaan bhare dil ko
+aramaan bhare dil ko, pahaluu me.n sambhalane de
+ai dard zaraa dam le
+ai dard zaraa dam le, karavaT to badalane de
+
+dam le, ke mere aramaa.N, aa.Nkho.n me.n utar aa_e \-2
+ro kar hii mere dil ke
+ro kar hii mere dil ke, aramaan nikalane de
+ai dard zaraa dam le, karavaT to badalane de
+
+parawaane ke jalane se jalatii hai tuu kyo.N shamaa \-2
+likkhaa hai agar ye hii
+likkhaa hai agar ye hii, jalataa hai to jalane de
+ai dard zaraa dam le, karavaT to badalane de
+ai dard
+
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{lagataa nahii.n hai jii meraa uja.De dayaar me.n}%
+\film{Laal Quila}%
+\year{1960}%
+\starring{Jairaj, Nirupa Roy}%
+\singer{Rafi}%
+\music{S N Tripathi}%
+\lyrics{Bahadur Shah Zafar}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: Sarvesh Asthana (sasthana@cup.hp.com)
+%          Ravi Rai (rrai@plains.nodak.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+lagataa nahii.n hai jii meraa uja.De dayaar me.n
+kis kii banii hai aalam\-e\-naa\-paayedaar me.n
+
+bulabul ko baaGabaa.n se na saiyyaad se gilaa
+qismat me.n qaid thii likhii fasal\-e\-bahaar me.n
+
+umr\-e\-daraaz maa.Ng ke laaye the chaar din
+do aarazU me.n kaT gaye, do i.ntazaar me.n
+
+kah do in hasarato.n se kahii.n aur jaa base.n
+itanii jagah kahaa.N hai dil\-e\-daaGadaar me.n
+
+hai kitana badanasiib zafar dafn ke liye
+do gaz zamiin bhii na milii kU\-e\-yaar me.n
+%
+#endindian
+\endsong
+%

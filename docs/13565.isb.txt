@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{tum ruuTh ke mat jaanaa}%
+\film{Phaagun}%
+\year{1958}%
+\starring{Bharat Bhushan, Madhubala}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10539 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	tum ruuTh ke mat jaanaa \-2
+	mujhase kyaa shikavaa diivaanaa hai diivaanaa
+aa \:	kyo.n ho gayaa begaanaa \-2
+	teraa\-meraa kyaa rishtaa ye tuune nahii.n jaanaa
+
+ra \:	mai.n laakh huu.N begaanaa \-2
+	phir ye ta.Dap kaisii itanaa to bataa jaanaa
+aa \:	furasat ho to aa jaanaa \-2
+	apane hii haatho.n se merii duniyaa miTaa jaanaa
+ra \:	tum ruuTh ke mat jaanaa \threedots
+aa \:	kyo.n ho gayaa begaanaa \threedots
+%
+#endindian
+\endsong
+

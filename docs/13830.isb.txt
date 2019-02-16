@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{saiyaa.n chho.D de baiyaa.n merii patalii kalaiyaa.n}%
+\film{Rakhi}%
+\year{1962}%
+\starring{Ashok Kumar, Waheeda Rahman, Pradeep Kumar, Ameeta, Mehmood}%
+\singer{Mukesh, Lata}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10732 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	saiyaa.n chho.D de baiyaa.n merii patalii kalaiyaa.n mu.D jaa_egii
+mu \:	teraa haath na chho.Duu.N teraa saath na chho.Duu.N kahaa.N jaa_egii
+
+la \:	dekho jii dekho kahii.n dekhe na zamaanaa
+	pyaar hamaaraa ban jaa_e na fasaanaa
+mu \:	achchhaa nikaalaa hai ye jaane kaa bahaanaa
+la \:	saiyaa.n chho.D de \threedots
+
+la \:	tum mere kaun ho ye duniyaa na jaane
+mu \:	apanii balaa se ko_ii maane yaa na maane
+la \:	pyaar me.n itane bhii bano na diivaane
+la \:	saiyaa.n chho.D de \threedots
+%
+#endindian
+\endsong
+

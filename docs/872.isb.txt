@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{jiinaa hamako raas na aayaa}%
+\film{Raat Aur Din}%
+\year{1967}%
+\starring{Nargis, Pradeep Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Kamlesh Nanavati <krnanavati@uncc.campus.mci.net>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+jiinaa hamako raas na aayaa, ham jaane kyo.n jiite hai.n
+kyaa saavan kyaa bhaado.n apane, sab din rote biite hai.n
+jiinaa hamako \threedots
+
+ham se to jag ruuTh gayaa hai, ek tumhaaraa kyaa shikavaa   \- 2
+ab kyo.n aahe.n bharate hai.n, ham ab kyo.n aa.Nsuu piite hai.n
+jiinaa hamako \threedots
+
+pyaar kii baazii aasaan samajhe, ham ne ba.Dii naadaanii kii   \- 2
+dil kii duhaaii dene vaale, yah baazii kab jiite hai.n
+jiinaa hamako \threedots
+
+Dore junuun me.n kyaa kyaa sujhii, kyaa kyaa ham ne kar Daalaa   \- 2
+khud hii girahabaa.n phaad liyaa hai, khud hii girahabaa.n siite hai.n
+jiinaa hamako \threedots
+%
+#endindian
+\endsong
+%
+

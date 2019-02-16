@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye mard ba.De dil sard ba.De}%
+\film{Miss Mary}%
+\year{}%
+\starring{Meena Kumari, Gemini Ganesan, Kishore Kumar, Jamuna, Om Prakash}%
+\singer{Lata / Rafi}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+ye mard ba.De dil sard ba.De bedard na dhokhaa khaanaa
+miiThii miiThii batiyo.n me.n bhuul ke na aanaa
+
+hote hai.n chhoTe dil ke lambii zubaan vaale
+dete hai.n maal khoTaa uu.Nchii dukaan vaale
+chhoTaa mu.Nh aur baat ba.Dii ye hai dastuur puraanaa
+miiThii miiThii batiyo.n me.n bhuul ke na aanaa   \threedots
+
+baat pate kii hai ye maano jo meraa kahanaa
+achchhaa hai aag se to duur hii duur rahanaa
+jhuuThii inakii jaat ba.Dii ye hai dastuur puraanaa
+miiThii miiThii batiyo.n me.n bhuul ke na aanaa   \threedots
+
+## Rafi version ##
+ye mard ba.De dil sard ba.De bedard chalo jii maanaa
+mardo.n kaa phir bhii Gulaam hai zamaanaa   \threedots
+
+duniyaa ke saath chalo nayaa zamaanaa hai ye
+mardo.n ko dosh denaa raag puraanaa hai ye
+jhuuThii inakii jaat kaho yaa kaho inhe.n diivaanaa
+mardo.n kaa phir bhii Gulaam hai zamaanaa   \threedots
+
+gussaa guruur la.Danaa naarii kii bhuul hai ye
+ThaNDaa mijaaz rakhanaa pahalaa usuul hai ye
+baat pate kii kahataa huu.N tum chaahe kaho diivaanaa
+mardo.n kaa phir bhii Gulaam hai zamaanaa   \threedots
+
+%
+#endindian
+\endsong
+%

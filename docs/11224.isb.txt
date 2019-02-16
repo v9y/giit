@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{chhoTaa saa ghar hai ye magar ... daravaazaa ba.nd kar lo}%
+\film{Darr}%
+\year{1993}%
+\starring{Shahrukh Khan, Juhi Chawla, Sunny Deol, Anupam Kher}%
+\singer{Lata, Abhijit}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10364 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+a \:	chhoTaa saa ghar hai ye magar tum isako pasa.nd kar lo
+la \:	daravaazaa ba.nd kar lo \-2
+	mai.n haa.N kahuu.N yaa naa kahuu.N
+	tum mujhako razaama.nd kar lo
+a \:	daravaazaa ba.nd kar lo \threedots
+la \:	daravaazaa ba.nd kar lo \threedots
+
+a \:	ye ghar nahii.n ye hai ek sapanaa
+la \:	sapanaa nahii.n sach hai pyaar apanaa \-2
+a \:	is pyaar se lag ke gale
+la \:	is pyaar se lag ke gale
+	mulaaqaate.n to cha.nd kar lo
+a \:	daravaazaa ba.nd kar lo \threedots
+la \:	daravaazaa ba.nd kar lo \threedots
+
+la \:	chhuunaa na mujhako o mere chhailaa
+	goraa badan ho jaa_egaa mailaa \-2
+a \:	is ra.ng kaa is ruup kaa \-2
+	na itanaa ghama.nD kar lo
+la \:	daravaazaa ba.nd kar lo \threedots
+
+a \:	suuraj sitaare yaa phuul laa_uu.N
+	is ghar ko mai.n kaise sajaa_uu.N
+la \:	phuulo.n se mai.n is ghar ko sajaa_uu.N
+a \:	bolo mai.n kyaa\-kyaa saamaan laa_uu.N
+la \:	rahanaa mujhe dil me.n tere \-2
+	bas isakaa praba.ndh kar lo
+la \:	daravaazaa ba.nd kar lo \threedots
+%
+#endindian
+\endsong
+

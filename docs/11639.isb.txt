@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{tiir aa.Nkho.n kaa jigar ke paar kar do yaar tum}%
+\film{Gunahon Ka Devta}%
+\year{1967}%
+\starring{Jitendra, Rajshri, Mehmood}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11056 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tiir aa.Nkho.n kaa jigar ke paar kar do yaar tum
+jaan le lo yaa ki jaa.N ko nisaar kar do yaar tum
+tiir aa.Nkho.n kaa \threedots
+
+ham tumhaare dil tumhaaraa phir tumhe.n Dar kaahe kaa
+shauq se tirachhii nazar ke vaar kar do yaar tum
+jaan le lo yaa ki \threedots
+
+kab talak ta.Dapaa kare.nge ham vafaa kii raah me.n
+aaj apane pyaar kaa ikaraar kar do yaar tum
+jaan le lo yaa ki \threedots
+%
+#endindian
+\endsong
+

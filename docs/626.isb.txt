@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{ghar se nikalate hii kuchh duur chalate hii}%
+\film{Papa Kehte Hain}%
+\starring{Jugal Hansraj, Anupam Kher}%
+\singer{Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+% 
+% Contributor: Tumber <Tumber@aol.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Credits: Rahul Shridhar <rahul@lurch.eng2.uconn.edu>
+%          Satish Subramanian <subraman@cs.umn.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+(ghar se nikalate hii, kuchh duur chalate hii 
+ raste me.n hai usakaa ghar
+ kal subah dekhaa to bal banatii vo
+ khi.Dakii me.n aayii nazar)		\-2
+
+maasuum chaharaa, niichii nigaahe.n
+bholii sii la.Dakii, bholii adaaye.n
+na apsaraa hai, na vo parii hai
+lekin yah usakii jaaduugarii hai
+diivaanaa kar ke vo, ek ra.Ng bhar ke vo
+sharmaa ke dekhe jidhar
+ghar se nikalate hii kuchh duur chalate hii 
+raste me.n hai usakaa ghar \threedots
+
+karataa huu.N usake ghar ke mai.n phere
+ha.Nsane lage hai.n ab dost mere
+sach kah rahaa huu.N, usakii kasam hai
+mai.n phir bhii khush huu.N, bas ek Gam hai
+jise pyaar karataa huu.N, mai.n jisape marataa huu.N
+usako nahii.n hai khabar
+ghar se nikalate hii kuchh duur chalate hii 
+raste me.n hai usakaa ghar \threedots
+
+la.Dakii hai jaise, koii pahelii
+kal jo milii mujhako usakii sahelii
+mai.nne kahaa usako, jaake yah kahanaa
+achchhaa nahii.n hai, yuu.N duur rahanaa
+kal shaam nikale vo, ghar se tahalane ko
+milanaa jo chaahe agar
+ghar se nikalate hii kuchh duur chalate hii 
+raste me.n hai usakaa ghar \threedots
+%
+#endindian
+\endsong
+%
+

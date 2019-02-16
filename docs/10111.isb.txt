@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{merii saa.Nso.n me.n basaa hai ... terii yaad hamasafar}%
+\film{Aur Pyaar Ho Gayaa}%
+\year{1997}%
+\starring{Bobby, Aishwarya, Anupam, Shammi Kapoor, Shammi, Priya Tendulkar}%
+\singer{Udit Narayan}%
+\music{Nushrat Fateh Ali Khan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii saa.Nso.n me.n basaa hai teraa hii ik naam
+terii yaad hamasafar subah\-o\-shaam
+tuu mere din me.n raato.n me.n Kaamoshii me.n baato.n me.n
+baadal ke haatho.n me.n bhejuu.n tujhako ye payaam
+terii yaad hamasafar \threedots
+
+aa.Nkho.n me.n tasviir hai jaise tuu merii taqadiir hai jaise
+us dil se is dil tak aatii dha.Dakan kii za.njiir hai jaise
+khvaabo.n khvaabo.n tuu mile naa jaane kyaa hai.n silasile
+palako.n par ye pyaar ke naa jaane kitane gul khile
+tere khvaab sajaate rahanaa ab hai meraa kaam
+terii yaad hamasafar \threedots
+
+phuulo.n par shabanam kii namii hai ra.ngo.n kii mahafil sii jamii hai.n
+maism bhii ma.nzar bhii hai kahate hai.n bas terii kamii hai
+baago.n me.n jo ham mile.n to gaaye.n saarii koyale.n
+mahake saaraa ye samaa.n havaa_e.n mahakii sii chale.n
+terii khushbuu se bhar jaa_e kaliyo.n ke jaam
+terii yaad hamasafar \threedots
+%
+#endindian
+\endsong
+

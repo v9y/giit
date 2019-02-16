@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{bhuul jaate hai.n bhuul jaayaa kare.n}%
+\film{Neelkamal}%
+\year{1947}%
+\starring{Raj Kapoor, Madhubala?}%
+\singer{Rajkumari}%
+\music{Snehal Bhatkar}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Snehal Bhatkar used the name B Vasudev for this film
+%           Raj Kapoor's debut in a leading role. One stanza missing.
+%
+\printtitle
+#indian
+%
+
+bhuul jaate hai.n bhuul jaayaa kare.n
+aazamaate hai.n aazamaayaa kare.n
+
+merii qisamat me.n naamuraadiyaa.N hai.n
+ha.Nsii u.Daane vaale ha.Nsii u.Daayaa kare.n
+
+hasarate.n merii ruuTh jaaye.ngii
+mere sapano.n me.n bhii na aayaa kare.n
+
+%
+#endindian
+\endsong
+%

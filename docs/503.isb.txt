@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{dil ke jharokhe me.n tujhako biThaakar}%
+\film{Brahmachari}%
+\year{1968}%
+\starring{Shammi Kapoor, Rajshri, Mumtaz, Pran}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% The next song is from the movie "Brahmachari". Shammi runs a home for
+% orphans where he homes a lot of children. Rajshri takes shelter there
+% and also helps Shammi (sort of like "Mr. India" storyline? ;). It was
+% quite a popular movie of Shammi with some nice songs like, 'aaj kal
+% tere mere pyar ke charche' and 'main gavun tum so jao'.
+% Here is 'Dil ke jaroke mein..' by Rafi. The stanzas are
+% sung at a high pitch by Rafi.
+%
+%    Urdu meanings of some words:
+%
+%    surkh:    red
+%    tasawwur: imagination
+%    shikwah:  complaint/chiding
+%    rukhsat:  leave/permission/dismissal/indulgence
+% bye
+% satish
+%
+dil ke jharokhe me.n tujhako biThaakar
+yaado.n ko terii mai.n dulhan banaakar
+rakhuu.Ngaa mai.n dil ke paas,  mat ho merii jaa.N udaas
+
+kal tere jalave paraaye bhii ho.nge,
+lekin jhalak mere khvaabo.n me.n ho.nge
+phUlo.n kii Dolii me.n hogii tU rukhasat,
+lekin mahak merii saa.nso.n me.n hogii
+dil ke jharokhe me.n \threedots
+
+ab bhii tere surkh hoTho.n ke pyaale,  
+mere tasavvur me.n saaqii bane hai.n
+ab bhii terii zulf ke mast saaye,
+birahaa kii dhuup me.n saathii bane hai.n
+dil ke jharokhe me.n \threedots
+
+merii muhabbat ko Thukaraa de chaahe,
+mai.n koI tujhase naa shikavaa karu.ngaa
+aa.Nkho.n me.n rahatii hai.n tasviir terii,  
+saarii umar terii puujaa karu.ngaa
+dil ke jharokhe me.n \threedots
+%
+#endindian
+\endsong
+%

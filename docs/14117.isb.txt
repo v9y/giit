@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{dil kii mahafil sajii hai chale aa_i_e}%
+\film{Saaz Aur Awaz}%
+\year{1966}%
+\starring{Joy Mukherjee, Saira Bano, Kanhaiyyalal}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10650 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil kii mahafil sajii hai chale aa_i_e \-2
+aapakii bas kamii hai chale aa_i_e
+dil kii mahafil \threedots
+
+husn vaalo.n kaa ko_ii bharosaa nahii.n
+kyaa aptaa aap aate bhii hai.n yaa nahii.n \-2
+aa.Nkh dar pe lagii hai chale aa_i_e
+dil kii mahafil \threedots
+
+dil dukhaane lagii dillagii aapakii
+maar Daalegii ye beruKii aapakii \-2
+jaan par ban ga_ii hai chale aa_i_e
+dil kii mahafil \threedots
+
+kyaa suhaanaa samaa.N kyaa hasii.n raat hai
+vaadaa kar ke na aanaa burii baat hai \-2
+ab to had ho chukii hai chale aa_i_e
+dil kii mahafil \threedots
+
+%
+#endindian
+\endsong
+

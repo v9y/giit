@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ulajh gaye do nainaa, dekho}%
+\film{Ek Saal}%
+\year{1957}%
+\starring{Ashok Kumar, Madhubala}%
+\singer{Lata, Hemant}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ulajh gaye do nainaa, dekho
+ulajh gaye   \threedots
+
+la : priitam ulajhii laT sulajhaaye
+he : gorii kaa chandaa saa mukh sharamaaye
+do : priitam ulajhii laT sulajhaaye
+     gorii kaa chandaa saa mukh sharamaaye
+     priit kii Dorii me.n baa.Ndh kar dono man hii man musakaaye re
+     dekho ulajh gaye do nainaa   \threedots
+
+la : jab tak ghar na aaye saa.Nvariyaa
+he : ta.Dape hai gorii jaise jal bin machhariyaa
+la : baaT takat apane saajan kii
+     raah me.n nain bichhaaye dekho
+do : ulajh gaye do nainaa   \threedots
+
+la : raat rupahalii taaro.n kii chhai.nyyaa
+he : sai.nyyaa ke haatho.n me.n gorii gorii bai.nyyaa
+do : raat rupahalii taaro.n kii chhai.nyyaa
+he : sai.nyyaa ke haatho.n me.n gorii gorii bai.nyyaa
+la : laaj bhare naino.n se man kii baat kahii na jaaye
+     dekho ulajh gaye do nainaa
+do : ulajh gaye do nainaa
+     dekho ulajh gaye do nainaa
+
+%
+#endindian
+\endsong
+%

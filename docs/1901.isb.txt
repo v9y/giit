@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ye duniyaa vaale puuchh.Nge, mulaaqaat huii kya baat huii}%
+\film{Mahal}%
+\year{1969}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Asha, Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Prashant Kulkarni (praskulk@barbier.engin.umich.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: Picturised on Asha Parekh and Dev Anand
+%
+\printtitle 
+#indian
+%
+ye duniyaa vaale puuchh.Nge 
+mulaaqaat huii kyaa baat huii 
+ye baat kisIse nA kahanaa 
+ye duniyaa vaale puuchh.Nge 
+
+ye baat agar koI puuchhe 
+kyo.n nain tere jhuk jaate hai.n 
+tum kahanaa inakii aadat hai 
+ye nain yuu.Nhii sharamaate hai.n 
+tum logo.n se ye nA kahanaa 
+saa.Nvariyaa se laage nainaa \- 2 
+
+mai.n to ye raaz chhupaa luu.ngii 
+tum kaise dil ko sambhaaloge 
+dil kyA tum to dIvaaro.n pe 
+merI tasviir banaa loge 
+dekho ye kaam nahii.n karanaa 
+mujhako badanaam nahii.n karanaa \- 2 
+ye duniyaa vaale puuchh.Nge 
+
+ye puuchh.Nge vo kaun hai jo 
+chupake sapano.n me.n AtA hai 
+ye puuchh.Nge vo kaun hai jo 
+mere dil ko ta.Dapaataa hai 
+tum meraa naam nahii.n lenaa 
+sar pe ilzaam nahii.n lenaa \- 2 
+ye duniyaa vaale puuchh.Nge 
+%
+#endindian
+\endsong
+%

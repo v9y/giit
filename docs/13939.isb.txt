@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil kahataa hai jo chaahe.n ham vo kare.n}%
+\film{Shararat}%
+\year{2001}%
+\starring{Abhishek Bachchan, Hrishita Bhatt, Amrish Puri, Om Puri}%
+\singer{Sonu Nigam, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil kahataa hai jo chaahe.n ham vo kare.n
+dil kahataa hai kahataa hai jo chaahe.n ham vo kare.n
+ham naa ko_ii baat sune.n
+jo chaahe.n raah chune.n
+duniyaa se ham kyuu.N Dare.n
+dil he kahataa hai kahataa hai \threedots
+
+khushiyaa.N hamaare li_e hamako nahii.n ko_ii Gam
+ma.nzil jahaa.N har gha.Dii chuume hamaare kadam
+ra.ng jamaa_e.n ham jahaa.N jaa_e.n
+mastii luTaa_e.n mauj manaa_e.n
+aavaaragii kii kasam
+saaraa jahaa.n ruk jaa_e ambar bhii jhuk jaa_e
+jhuum ke ham jab bhii chaahe.n
+he he dil kahataa hai jo \threedots
+
+paaba.nd rahanaa yahaa.n ma.njuur hamako nahii.n
+aazaad rakhanaa hame.n kahatii hai ye sarazamii.n
+ham to likhe.nge aisii kahaanii
+hamase misaale.n degii javaanii
+hamase hai kal aaj kal
+saazo.n kii galiyo.n me.n ghuT ghuT ke yaar mere
+jiite jii ham kyuu.n mare.n
+dil kahataa hai kahataa hai \threedots
+%
+#endindian
+\endsong
+

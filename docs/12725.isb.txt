@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{diivaalii aa_ii ... da_iiyaa re da_iiyaa laaj mohe laage}%
+\film{Leader}%
+\year{1964}%
+\starring{Dilip Kumar, Vyjayantimala, Jayant}%
+\singer{Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11485 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+% the song has "aalaap"s in male voice (rafi? ) at several places
+%
+diivaalii aa_ii ghar\-ghar diip jale 
+
+da_iiyaa re da_iiyaa laaj mohe laage \-2
+paayal morii baaje saas morii jaage
+da_iiyaa re da_iiyaa \threedots
+
+aa_uu.N mai.n kaise Dagar torii mitavaa
+chhup\-chhup dekhe hai.n ghar ke logavaa
+pag Thahare to man moraa bhaage \-2
+da_iiyaa re da_iiyaa \threedots
+
+chuu.Diyaa.N khanake.n to Dar\-Dar jaa_uu.N
+jhaa.Njhar jhanake to mar\-mar jaa_uu.N
+ba.Ndhe pag me.n sharam ke dhaage \-2
+da_iiyaa re da_iiyaa \threedots
+
+nanadii roke devar moraa Toke
+chale.n naa bahaane chale.n naa ko_ii dhokhe
+ba.Dii mushqil hai aaj more aage \-2
+da_iiyaa re da_iiyaa \threedots
+%
+#endindian
+\endsong
+

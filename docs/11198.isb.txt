@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{aajaa kar le muqaabilaa ye baazii pyaar kii}%
+\film{Detective}%
+\year{1958}%
+\starring{Pradeep Kumar, Mala Sinha, Johnny Walker}%
+\singer{Geeta, Rafi}%
+\music{Mukul Roy}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10024 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ra \:	aajaa kar le muqaabilaa ye baazii pyaar kii
+	ho jaa_e faisalaa ye baazii pyaar kii
+gii \:	kahatii huu.N maan jaa ai naadaa.n maan jaa
+	ulfat ke khelo.n me.n Kataraa hai jaan kaa
+ra \:	aajaa kar le muqaabilaa \threedots
+
+	chaal merii mastaanii har qadam meraa tuufaanii
+ra \:	vahaa.N bhii dil vaalo.n ne mar miTane kii Thaanii
+gii \:	achchhaa to hoshiyaar ai naadaa.N hoshiyaar
+	aajaa phir jhuum ke mere bhole shikaar
+ra \:	aajaa kar le muqaabilaa \threedots
+
+ra \:	ruup milaa hai maanaa par josh na khaa_o itanaa
+gii \:	baat karo mat ba.Dhake dekhe.nge jigar hai kitanaa
+ra \:	tan kar jo aa_oge dekho pachhataa_oge
+	kal se is raah se kataraa ke jaa_oge
+ra \:	aajaa kar le muqaabilaa \threedots
+%
+#endindian
+\endsong
+

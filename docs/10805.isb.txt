@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chorii chorii sapano.n me.n aataa hai ko_ii}%
+\film{Chal Mere Bhaai}%
+\year{2000}%
+\starring{Sanjay Dutt, Salman Khan, Karisma Kapoor}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chorii chorii sapano.n me.n aataa hai ko_ii
+saarii saarii raat jagaataa hai ko_ii
+dil meraa dil bekaraar ho gayaa
+aisaa lagataa hai mujhe pyaar ho gayaa
+chorii chorii sapano.n me.n \threedots
+
+bahake bahake kadam hai.n pahalaa pahalaa nashaa hai
+jaane kyaa ho gayaa kab kuchh mujhe naa pataa hai
+apanii diivaanagii kaa haal kaise sunaa_uu.n
+ho rahaa dil me.n kyaa kyaa kaise usako bataa_uu.n
+dhiire dhiire dard ba.Dhaataa hai ko_ii
+haule haule mujhe ta.Dapaataa hai ko_ii
+dil meraa dil bekaraar \threedots
+
+aisaa pahale kabhii to mujhako hotaa nahii.n thaa
+hosh u.Dataa nahii.n thaa chain khotaa nahii.n thaa
+haa.n ab to karavaT badalate raat bhar jaagatii huu.N
+rahatii huu.N kho_ii kho_ii jaane kyaa sochatii huu.N
+aate jaate hosh u.Daataa hai ko_ii
+kaise kaise mujhako sataataa hai ko_ii
+dil meraa dil bekaraar \threedots%
+#endindian
+\endsong
+

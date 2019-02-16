@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{kahii.n saavan me.n bhii ... bhiigii\-bhiigii havaa hai}%
+\film{Suneharaa Sansaar}%
+\year{1975}%
+\starring{Rajendra Kumar,  Hema Malini, Mala Sinha, Om Prakash, Asrani, David}%
+\singer{Mukesh, Lata}%
+\music{Naushad}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10665 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	kahii.n saavan me.n bhii ye dil na tarase
+la \:	ghaTaa chhaa_ii to hai barase na barase
+
+	bhiigii\-bhiigii havaa hai kaalii\-kaalii ghaTaa hai
+	ghaTaa pe to shaq ho sakataa hai tum pe nahii.n ho
+mu \:	bhiigii\-bhiigii havaa hai \threedots
+
+la \:	dil diivaane diivaaro.n ko to.D ke mil jaate hai.n
+	jab phuulo.n ko khilanaa ho to patajha.D me.n khil jaate hai.n
+	aise aksar hu_aa hai aisaa ho ye du_aa hai
+	du_aa pe to shaq ho sakataa hai tum pe nahii.n ho
+
+mu \:	is duniyaa se Dar ke kisane yaar kaa daaman chho.D diyaa
+	vo harajaa_ii kahalaayaa hai jisane vaadaa to.D diyaa
+	aashiq se sunaa hai chaahat me.n vafaa hai
+	vafaa pe to shaq ho sakataa hai tum pe nahii.n ho
+
+la \:	vaqt pe din Dhalataa hai vaqt pe chaa.Nd nikalataa hai
+mu \:	ko_ii to hai is parade me.n kaun ishaaraa karataa hai
+la \:	ko_ii jaaduu hai kyaa
+mu \:	kahate hai.n Kudaa hai
+do \:	Kudaa pe to shaq ho sakataa hai tum pe nahii.n ho
+la \:	tum pe nahii.n
+mu \:	tum pe nahii.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,58 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{yaaraa rab}%
+\film{Socha Na Tha}%
+\year{2005}%
+\starring{Abhay Deol, Ayesha Takia}%
+\singer{Sonu Nigam, Sanjivani}%
+\music{Sandesh Shandilya}%
+\lyrics{Irshad Kamil}%
+% 
+% Audio on: 
+% Tags: Soft romantic
+% Contributor: Anand Srinivasan
+% Transliterator: Anand Srinivasan
+% Date: 9 Jul 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+##F##: o yaaraa rab rus jaane de
+       diivaanaa jag chhuT jaane de
+       mai.n teraa dil banake rahuu.N 
+       begaane dil TuT jaane de
+       ab saathiyaa,  nayii ma.nzile.n 
+       nayaa raastaa hai tumhaaraa hamaaraa
+
+##M##: o yaaraa \threedots
+
+##M##: zamaane ko chho.D de.n, rivaajo.n ko to.D de.n
+       TuuTe.n na sapane kabhii, hai.n naazuk ye sapane sabhii
+
+##F##: o bahatii havaao.n ko bhii, aa milake mo.D de.n
+
+##M##: aisaa iraadaa kare.n, aa dono.n vaadaa kare.n
+
+##F##: o ab saathiyaa, iraadaa yahii
+       hai vaadaa yahii tumhaaraa hamaaraa
+
+##B##: o yaaraa \threedots
+
+##F##: tumako hii dekhaa kare.n, tumako hii sochaa kare.n
+       ruuThe tumhii.n the sanam, tumase hii vaadaa kare.n
+
+##M##: jitanaa karuu.N pyaar mai.n, utanaa koii naa kare.n
+##F##: aisaa koii ho jahaa.N, ho.n apane zamii.n aasmaa.N
+
+##M##: ab saathiyaa, aisaa jaahaa.N
+       banegaa yahaa.N tumhaaraa hamaaraa
+
+##B##: o yaaraa \threedots
+
+%
+#endindian
+\endsong

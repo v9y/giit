@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ko_ii pattaa bhii hilaa ... khii.nch laayaa hai teraa pyaar chale aa_e hai.n}%
+\film{Janam Janam}%
+\year{1988}%
+\starring{Rishi Kapoor, Danny, Amrish Puri, Jagdeep, Seema Deo, Aruna Irani}%
+\singer{Kavita Subramaniam, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii pattaa bhii hilaa to ye samajhaa ke tuu hai shaayad
+yuu.n terii raaho.n me.n aa.Nkho.n ko bichhaa rakhaa hai
+
+zulm duniyaa ke sahe mu.nh se magar uf na kiyaa
+yuu.n tere pyaar ko siine me.n chhipaa rakhaa hai
+
+khii.nch laayaa hai teraa pyaar chale aa_e hai.n
+to.D ke duniyaa kii diivaar chale aa_e hai.n
+khii.nch laayaa hai \threedots
+
+zi.ndagii ab terii chaahat ke sivaa kuchh bhii nahii.n
+terii puujaa muhabbat ke sivaa kuchh bhii nahii.n
+aaj karane yahii ikaraar chale aa_e hai.n
+khii.nch laayaa hai \threedots
+
+umr jitanii bhii hai baakii terii chaahat me.n kaTe
+tere chehare se nazar pyaar kii ik pal naa haTe
+ham terii duniyaa me.n ai yaar chale aa_e hai.n
+khii.nch laayaa hai \threedots
+
+rok le jo hamako aisaa ko_ii tuufaan nahii.n
+pyaar kii duniyaa miTaanaa ko_ii aasaan nahii.n
+ham naa maane.nge kabhii haar chale aa_e hai.n
+khii.nch laayaa hai \threedots
+%
+#endindian
+\endsong
+

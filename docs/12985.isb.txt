@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{aa jaa sanam aa jaa sanam der naa lagaa}%
+\film{Maashooqaa}%
+\year{1953}%
+\starring{Suraiya, Mukesh, Kuldeep Kaur, Agha, Durga Khote}%
+\singer{Suraiya, Chorus}%
+\music{Roshan}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12619 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+su \:	aa jaa sanam aa jaa sanam der naa lagaa
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+ko \:	aa dhiire
+	aa jaa sanam aa jaa sanam der naa lagaa
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+
+su \:	duniya bulaaye tujhe kabhii nahii.n jaanaa jii
+ko \:	kabhii nahii.n jaanaa jii
+su \:	mai.n jo bulaa_uu.N tujhe ha.Nsate huye aanaa jii
+ko \:	ha.Nsate huye aanaa jii
+su \:	ho na jaanaa
+	ho na jaanaa ho na jaanaa kabhii bewafaa
+
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+ko \:	aa dhiire
+	aa jaa sanam aa jaa sanam der naa lagaa
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+
+su \:	naino.n ke dwaar khole kha.Dii hai jawaanii re
+	priit hai ku.Nwaarii merii ratiyaa.N suhaahii re
+ko \:	ratiyaa.N suhaahii re
+su \:	aane waale aanaa ho to chaa.Nd ban ke aa
+
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+ko \:	aa dhiire
+	aa jaa sanam aa jaa sanam der naa lagaa
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+
+su \:	ThaNdii\-ThaNdii chaa.Ndanii me.n tujhako sulaa_uu.Ngii
+ko \:	tujhako sulaa_uu.Ngii
+su \:	gorii\-gorii baa.Nho.n kaa jhuulaa jhulaa_uu.Ngii
+ko \:	jhuulaa jhulaa_uu.Ngii
+su \:	daaman se
+	daaman se apane chalaa_uu.Ngii hawaa
+
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+ko \:	aa dhiire
+	aa jaa sanam aa jaa sanam der naa lagaa
+	sapano.n kii paalakii me.n dhiire\-dhiire aa
+%
+#endindian
+\endsong
+%
+

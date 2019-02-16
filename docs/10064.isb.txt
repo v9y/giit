@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{har kadam pe ko_ii kaatil hai kahaa.n jaa_e ko_ii}%
+\film{Arjun Pandit}%
+\year{1999}%
+\starring{Sunny Deol, Juhi Chawala}%
+\singer{Shankar Mahadevan, Priti Uttam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+har kadam pe ko_ii kaatil hai kahaa.n jaa_e ko_ii
+zi.ndaa rahanaa ba.Daa mushkil hai kahaa.n jaa_e ko_ii
+har kadam pe ko_ii \threedots
+
+haal\-e\-dil ko_ii chhupaa_e to chhupaa_e kaise
+zakhm ko phuul bataa_e to bataa_e kaise
+uTh ke mahafil se ko_ii jaa_e to jaa_e kaise
+ko_ii rastaa hai na ma.nzil hai kahaa.n jaa_e ko_ii
+har kadam pe ko_ii \threedots
+
+ye gha.Dii jisame.n na meraa na tumhaaraa hai ko_ii
+ko_ii hamadard nahii.n hai na sahaaraa hai ko_ii
+ko_ii ummiid nahii.n hai na ishaaraa hai ko_ii
+soch me.n Duubaa hu_aa dil hai kahaa.n jaa_e ko_ii
+har kadam pe ko_ii \threedots
+%
+#endindian
+\endsong
+

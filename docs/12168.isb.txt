@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{o Dholaa Dhol ma.njiiraa baaje re ... kaalii chhii.nT kaa ghaagharaa najaare maare re}%
+\film{Joshile}%
+\year{1989}%
+\starring{Sunny Deol, Anil Kapoor, Sridevi, Meenakshi, Satyen Kappu, Aloknath}%
+\singer{Suresh Wadekar, Asha}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o Dholaa Dhol ma.njiiraa baaje re \-2
+kaalii chhii.nT kaa ghaagharaa najaare maare re
+o Dholaa Dhol ma.njiiraa baaje re
+pag paayal me.n baa.ndh luu.n chaa.Nd sitaare re
+o Dholaa Dhol ma.njiiraa \threedots
+
+tan gaagar se chhalak rahaa hai gorii teraa ruup \-2
+is yauvan kii chaa.Ndanii aur in naino.n kii dhuup
+o Dholaa Dhol ma.njiiraa \threedots
+
+mai.n diivaanii tab ye jaanii kyaa hotaa hai pyaar
+man ke dvaare par jab aayaa ko_ii sajiilaa yaar
+o Dholaa Dhol ma.njiiraa \threedots
+
+premanagar kaa jogii huu.N mai.n thaam le meraa haath
+are chaahe jidhar le jaa_o jogii ab jogan hai saath
+o Dholaa Dhol ma.njiiraa \threedots
+%
+#endindian
+\endsong
+

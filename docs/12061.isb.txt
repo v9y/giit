@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tumhaare binaa ab bahalataa nahii.n dil ... karo kuchh sanam}%
+\film{Joru Kaa Ghulaam}%
+\year{2000}%
+\starring{Govinda, Twinkle Khanna}%
+\singer{Sonu Nigam, Hema Sardesai}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhaare binaa ab bahalataa nahii.n dil
+ai karo kuchh sanam haay karo kuchh sanam
+ab to sa.mbhaale sa.mbhalataa nahii.n dil
+karo kuchh sanam haay karo kuchh sanam
+karo naa bahaanaa tumhe.n hai kasam
+ai karo kuchh sanam \threedots
+
+ye chubhatii havaa_e.n ye mausam kaa jaaduu
+ye jismo.n kii garamii ye saa.Nso.n kii khushbuu
+o hai ho.nTho.n kii shabanam churaane kii hasarat
+bahut paas aane ko kahatii hai chaahat
+suno besabab to machalataa nahii.n dil
+karo kuchh sanam \threedots
+
+ye tanhaa_iyaa.n aur ra.ngiin ma.nzar
+ko_ii pyaas jaagii hai siine ke a.ndar
+aa ke motii ke daane bikhar jaa_e.n jaise
+chalo TuuT ke ham bikhar jaa_e.n aise
+agan ki binaa yuu.n hii jalataa nahii.n dil
+karo kuchh sanam \threedots
+%
+#endindian
+\endsong
+

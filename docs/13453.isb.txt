@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham naujavaan hai.n is duniyaa kii jaan hai.n}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Vishal, Manohar, Suraj}%
+\music{Vishal, Shiraz, Samrat}%
+\lyrics{Vishal, Raj Kaushal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham naujavaan hai.n is duniyaa kii jaan hai.n
+maano yaa naa maano tum aaj kii ham pahachaan hai.n
+
+jo bhii karanaa ho vo kar dikhaa_e.nge
+jaanaa ho jahaa.n vahii.n ham jaa_e.nge
+chhiin ke taaro.n ko dharatii pe laa_e.nge
+naam apanaa itihaas me.n ham kar jaa_e.nge ho
+ham naujavaan \threedots
+
+rokanaa chaaho to bhii rok na paa_oge
+mere jor ke aage tum jhuk jaa_oge
+ik din mere saamane tum bhii aa_oge
+josh me.n mere hosh ko bhii tum paa_oge ho
+
+javaanii kaun hai ham hai.n
+dillagii kaun hai ham hai.n
+dostii kaun hai ham hai.n
+zi.ndagii kaun hai ham hai.n
+%
+#endindian
+\endsong
+

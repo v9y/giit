@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kuchh hamame.n aisii baate.n hai.n}%
+\film{Aap Mujhe Achche Lagne Lage}%
+\year{2002}%
+\starring{Hritik Roshan, Ameesha Patel}%
+\singer{Sonu Nigam, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh hamame.n aisii baate.n hai.n vo sabame.n hai.n kahaa.N
+jiite.nge ye jahaa.N vo ho ho ho
+haatho.n kii dono muTThii me.n rakhate hai.n do jahaa.N
+ham aise hai.n javaa.N ho ho ho ho
+
+ham siidhe chalane vaale
+sab Te.Dhe logo.n ko siidhii raah pe laate hai.n
+ham aise hai.n dilavaale
+shaitaan ke beTo.n ko i.nsaa.n bhii banaate hai.n
+ikaa mikaa gussaa saa saa
+patthar ko de zabaa.n vo ho ho ho
+kuchh hamame.n \threedots
+
+ye mauj ye apanii mastii jab aag ugalatii hai
+saagar se nahii.n bujhatii hai
+aa.Ndhii ye javaano.n kii re jab chalane lagatii hai
+roke se nahii.n rukatii hai
+ikaa mikaa gussaa saa saa
+ye tuufaa.n hai kahaa.N aa o ho ho ho
+kuchh hamame.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{maran re, tuu hii mero shyaam samaan}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Kantilal}%
+\music{Ramchandra Pal}%
+\lyrics{Pt Narottam Vyas}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+maran re, tuu hii mero shyaam samaan \-3
+
+ghor ghaTaa kaa mor\-mukuT dhar \-2
+dhar bijalii kii muralii adhar par \-2
+gaa de amrit gaan \-2
+
+maran re, tuu hii mero shyaam samaan \-2
+
+( priitam ne bisaraayaa mujhako
+mujhase ab apanaayaa tujhako ) \-2 ??
+apanii amara god me.n le kar \-2
+bhiikh shaantii de daan \-2
+mujhe shaantii de daan
+
+#endindian
+\endsong

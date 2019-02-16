@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{muraliivaale muralii bajaa}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu,
+Chanda Bai}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Aashish Thakker
+% Transliterator: Aashish Thakker
+% Date:17 August,2001
+%
+\printtitle
+#indian
+%
+muraliivaale muralii bajaa
+sun sun muralii ko naache jiyaa
+
+reh reh ke aaj meraa Dole hai man 
+jaane naa priit mere bhole sajan
+kaise chhupaa_uu.N haay dil kii lagan 
+mausam pyaaraa ThaNDii havaa
+dil mil jaaye.n vo jaaduu jagaa
+muraliivaale \threedots
+
+muralii se terii jiyaa laagaa balam
+aa.Nkho.n me.n tuu hai nahii.n ab koii Gam
+o ba.nsii vaale tujhe merii qasam
+aaj sunaa de vo dhun zaraa
+rum jhum saavan kii barase ghaTaa
+muraliivaale \threedots
+
+%
+#endindian
+\endsong
+%

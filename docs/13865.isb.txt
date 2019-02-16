@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye kisakii yaad aa ga_ii ... teraa i.ntazaar hai}%
+\film{Raajput}%
+\year{1951}%
+\starring{Suraiya, Jairaaj, Kuldeep}%
+\singer{Suraiya}%
+\music{Hansraj Behl}%
+\lyrics{Anjum Jaipuri}%
+%
+% Contributor: BOL ANAMOL #12536 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ye kisakii yaad aa ga_ii
+bahaar ban ke chhaa ga_ii
+hasiin raat ho ga_ii
+jawaaniyo.n me.n kho ga_ii
+dil bhii beqaraar hai
+teraa i.ntazaar hai \-2
+o
+
+ye chaa.Ndanii nikal ga_ii \-2
+ye zi.ndagii sa.Nwar ga_ii
+gulo.n ko aa ga_ii ha.Nsii
+labo.n pe chhaa ga_ii Kushii
+nigaah me.n khumaar hai
+teraa i.ntazaar hai \-2
+o
+
+sitaare muskuraa diye \-2
+nazaare gun sunaa diye
+hawaa ne jhuum\-jhuum kar
+kahaa kalii ko chuum kar
+mujhako tujhase pyaar hai
+teraa i.ntazaar hai \-2
+o
+%
+#endindian
+\endsong
+%
+

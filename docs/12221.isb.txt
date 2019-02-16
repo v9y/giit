@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{begaanii shaadii me.n abdullaa diivaanaa}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10886 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	begaanii shaadii me.n abdullaa diivaanaa
+	aise manamaujii ko mushkil hai samajhaanaa
+	hai naa
+	begaanii shaadii me.n \threedots
+
+	dulhan banuu.Ngii mai.n Dolii cha.Dhuu.Ngii mai.n
+	duur kahii.n baalam ke dil me.n rahuu.Ngii mai.n
+	tum to paraa_e ho yuu.N hii lalachaa_e ho
+	jaane kis duniyaa se jaane kyuu.N aa_e ho \-2
+	begaanii shaadii me.n \threedots
+
+	laharaatii jaa_uu.N mai.n bal khaatii jaa_uu.N mai.n
+	kha.Dii\-kha.Dii raste me.n paayal bajaa_uu.N mai.n
+	palake.n bichhaa_uu.N mai.n dil me.n bulaa_uu.N mai.n
+	samajhe na kuchh bhii vo kaise samajhaa_uu.N mai.n \-2
+	begaanii shaadii me.n \threedots
+
+mu \:	begaanii shaadii me.n abdullaa diivaanaa
+	dil kii in baato.n ko mushkil hai samajhaanaa
+
+	apanaa begaanaa kaun jaanaa anajaanaa kaun
+	apane dil se puuchho dil ko pahachaanaa kaun
+	pal me.n luT jaataa hai yuu.N hii bah jaataa hai
+	shaadii kisii kii ho ( apanaa dil gaataa hai ) \-2
+	begaanii shaadii me.n \threedots
+%
+#endindian
+\endsong
+

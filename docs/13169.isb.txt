@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ho kaalaa shaa kaalaa}%
+\film{Non-Film}%
+\year{1998}%
+\starring{}%
+\singer{Anamika}%
+\music{Edvin}%
+\lyrics{Anamika}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Black is white.##
+
+ho kaalaa shaa kaalaa ho kaalaa shaa kaalaa
+meraa kaalaa hai saradaar goreyaa.n nuu.n dafaa karo
+goreyaa.n nuu.n dafaa karo mai aap tile dii taar
+kaalaa shaa kaalaa \threedots
+
+sasa.Di_e tere pa.nj puttar do aibii do sharaabii
+je.Daa mere haaN daa o khi.Diyaa phul gulaabii
+o kaalaa shaa kaalaa \threedots
+
+sasa.Di_e tere pa.nj puttar do Tiin do kanastar
+je.Daa mere haaN daa o chalaa gayaa nii daftar
+kaalaa shaa kaalaa \threedots
+%
+#endindian
+\endsong
+

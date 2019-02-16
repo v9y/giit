@@ -1,0 +1,72 @@
+
+%
+\startsong
+\stitle{sab kuchh karanaa is duniyaa me.n}%
+\film{Adaa}%
+\year{1951}%
+\starring{Rehana, Shekhar}%
+\singer{S D Batish, Asha}%
+\music{Madan Mohan}%
+\lyrics{Saraswati Kumar 'Deepak'}%
+%
+% Contributor: BOL ANAMOL #11892 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aa \:	sab kuchh karanaa is duniyaa me.n
+	pyaar na karanaa bhuul ke
+	kabhii kisii se apanii aa.Nkhe.n
+	chaar na karanaa bhuul ke
+	jii pyaar na karanaa bhuul ke
+es \:	sab kuchh kahanaa ye mat kahanaa
+	pyaar na karanaa bhuul ke
+	nazare.n milaa ke ulfat se
+	inkaar na karanaa bhuul ke
+aa \:	jii pyaar na karanaa bhuul ke
+
+aa \:	pyaar kiyaa thaa parawaane ne
+	shamaa ne usako jalaa diyaa
+es \:	jalane kaa hii naam hai milanaa
+	pyaar ne unako milaa diyaa
+aa \:	milane kii is riit ko tum
+	aKtyaar na karanaa bhuul ke
+	kabhii kisii se apanii aa.Nkhe.n
+	chaar na karanaa bhuul ke
+	jii pyaar na karanaa bhuul ke
+
+	pyaar karoge pachhataa_oge
+	ye duniyaa badanaam karegii
+	badanaam karegii
+es \:	laakh kare badanaam mohabbat
+	apanaa uu.Nchaa naam karegii \-2
+aa \:	aise uu.Nche naam kaa tum
+	byopaar na karanaa bhuul ke
+	kabhii kisii se apanii aa.Nkhe.n
+	chaar na karanaa bhuul ke
+	jii pyaar na karanaa bhuul ke
+
+es \:	pyaar kare.nge nahii.n Dare.nge
+	binaa pyaar ke duniyaa kyaa hai
+	duniyaa kyaa hai
+aa \:	binaa pyaar kii duniyaa sachchii
+	pyaar kii duniyaa me.n dhokhaa hai
+es \:	pyaar me.n dhokhe kii baate.n
+	sarakaar na karanaa bhuul se
+aa \:	kabhii kisii se
+
+es \:	sab kuchh kahanaa ye mat kahanaa
+	pyaar na karanaa bhuul ke
+aa \:	nazare.n milaa ke ulfat se
+	inkaar na karanaa bhuul ke \-2
+
+do \:	sab kuchh kahanaa ye mat kahanaa
+	pyaar na karanaa bhuul ke
+	nazare.n milaa ke ulfat se
+	inkaar na karanaa bhuul ke \-2
+%
+#endindian
+\endsong
+

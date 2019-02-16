@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mere khyaal mere hii dil merii nazar me.n raho}%
+\film{Prem Shakti}%
+\year{1994}%
+\starring{Govinda, Karisma,  Nitish, Sulbha, Viju Khote, Neela, Sameer Khakhad}%
+\singer{Anuradha Paudwal}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere khyaal mere hii dil merii nazar me.n raho
+ye sab tumhaare hii ghar hai.n kisii bhii ghar me.n raho
+ye sab tumhaare \threedots
+
+kuchh is tarah se merii ruuh me.n samaa jaa_o
+jidhar nigaah uThaa_uu.n tum hii tum nazar aa_o
+chiraag ban kar hameshaa merii nazar me.n raho
+mere khyaal mere hii dil \threedots
+
+kisii Kudaa kisii dar se kabhii kuchh nahii.n maa.ngaa
+tumhaare baad muqaddar se kabhii kuchh nahii.n maa.ngaa
+kabhii du_aa me.n raho tum kabhii asar me.n raho
+haa.N mere khyaal mere hii dil \threedots
+%
+#endindian
+\endsong
+

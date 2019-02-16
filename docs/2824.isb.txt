@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil ne phir yaad kiyaa}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{1966}%
+\starring{Dharmendra, Nutan, Rehman, Jeevan}%
+\singer{Rafi, Suman Kalyanpur, Mukesh}%
+\music{Sonik-Omi}%
+\lyrics{G L Rawal}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil ne phir yaad kiyaa barq sii laharaa_ii hai
+phir koii choT muhabbat kii ubhar aa_ii hai
+dil ne phir yaad kiyaa \threedots
+
+vo bhii kyaa din the hame.n dil me.n biThaayaa thaa kabhii
+aur ha.Ns ha.Ns ke gale tum ne lagaayaa thaa kabhii
+khel hii khel me.n kyo.n jaan pe ban aa_ii hai
+phir koii choT muhabbat kii \threedots
+
+kyaa bataaye.n tumhe.n ham shammaa kii qisamat kyaa hai
+aag me.n Game ke jalane ke sivaa muhabbat kyaa hai
+ye vo gulashan hai ki jis me.n na bahaar aa_ii hai
+dil ne phir yaad kiyaa \threedots
+
+ham vo paravaane hai.n jo shammaa kaa dam bharate hai.n
+husn kii aag me.n khaamosh jalaa karate hai.n
+aah bhii nikale to pyaar kii rusavaa_ii hai
+phir koii choT muhabbat kii \threedots
+
+%
+#endindian
+\endsong
+%

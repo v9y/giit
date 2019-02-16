@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{o saajanaa, chhuuTaa hai jo daaman teraa}%
+\film{Heer}%
+\year{}%
+\starring{Nutan, Pradeep Kumar}%
+\singer{Hemant, Geeta, chorus}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Chetan Vinchhi
+% Credits: Satish Kalra, Chetan Vinchhi
+% Editor:
+%
+\printtitle
+#indian
+%
+
+gii: o saajanaa, chhuuTaa hai jo daaman teraa
+     ma.nzil\-ma.nzil hai a.Ndheraa, o saajanaa
+
+he:  jaa dilarubaa, tere saath chalaa dil meraa
+     rahe pyaar nigahabaa.N teraa, jaa dilarubaa
+     jaa dilarubaa
+
+ko:  priit lagaa ke Gam se aahe.n bharanaa kyaa
+     raah chale to kaa.NTo.n se phir Daranaa kyaa
+
+gii: a_ii o, dil kii tamannaa puurii hone na paa_ii
+     aa ke jiigar pe lagaa tiir\-e\-judaa_ii, o saajanaa
+     zaraa dekh ta.Dapanaa meraa,
+     ma.nzil\-ma.nzil hai a.Ndheraa, o saajanaa
+
+he:  jaa dilarubaa, dil ko tere bahalaa_uu.Ngaa
+     ummiid kaa taaraa ban ke
+     jhuumuu.Ngaa aa.Nkho.n me.n terii
+     ma.nzil kaa nazaaraa ban ke
+     jaa dilarubaa, nahii.n duur milan kaa Deraa
+     rahe pyaar nigahabaa.N teraa, jaa dilarubaa
+
+ko:  priit lagaa ke...
+
+gii: a_ii o, ho.ngii.n jo suunii\-suunii ulfat kii raahe.n
+     Dhuu.NDhaa kare.ngii tujhako merii nigaahe.n
+     o saajanaa, mai.n le ke chalii Gam teraa
+     ma.nzil\-ma.nzil hai a.Ndheraa, o saajanaa
+
+he:  jaa dilarubaa, yaad hamaarii ban ke chaa.Ndanii
+     raah me.n khil jaaegii
+     qadam\-qadam par tujhako dha.Dakate dil kii sadaa aaegii
+     jaa dilarubaa, terii raah me.n sab kuchh meraa
+     rahe pyaar nigahabaa.N teraa, jaa dilarubaa
+
+gii: o saajanaa, chhuuTaa hai jo daaman teraa
+     ma.nzil\-ma.nzil hai a.Ndheraa, o saajanaa
+
+he:  jaa dilarubaa
+
+%
+#endindian
+\endsong
+%

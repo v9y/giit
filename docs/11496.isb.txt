@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{naaz thaa jisape mere siine me.n vo dil hii nahii.n}%
+\film{Fareb}%
+\year{1968}%
+\starring{Fariyal, Dev Kumar, Maruti}%
+\singer{Mukesh/ Mukesh, Usha Khanna}%
+\music{Usha Khanna}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11084 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+naaz thaa jisape mere siine me.n vo dil hii nahii.n
+ab yah shiishaa kisii tasviir ke qaabil hii nahii.n
+mai.n kahaa.N jaa_uu.N ki merii ko_ii ma.nzil hii nahii.n
+naaz thaa jisape \threedots
+
+pher lii mujhase nazar apano.n ne begaano.n ne
+meraa ghar luuTaa mere ghar ke hii mehamaano.n ne
+jo mujhase pyaar kare aisaa ko_ii dil hii nahii.n
+mai.n kahaa.N jaa_uu.N \threedots
+
+do jahaa.N soch me.n hai.n aaj fizaa bhii chup hai
+kisase fariyaad karuu.N ab to Kudaa bhii chup hai
+mai.n vo afasaanaa huu.N jo sunane ke qaabil hii nahii.n
+mai.n kahaa.N jaa_uu.N \threedots
+%
+% Part 2:
+%
+mu \:	naaz thaa jisape mere siine me.n vo dil hii nahii.n
+	ab yah shiishaa kisii tasviir ke qaabil hii nahii.n
+	mai.n kahaa.N jaa_uu.N ki merii ko_ii ma.nzil hii nahii.n
+	naaz thaa jisape \threedots
+
+	dil bahal jaa_e Kyaalaat kaa ruK mo.D sakuu.N
+	mai.n jahaa.N baiTh ke har ahad\-e\-vafaa to.D sakuu.N
+	merii taqadiir me.n aisii ko_ii mahafil hii nahii.n
+	mai.n kahaa.N jaa_uu.N \threedots
+
+uu \:	mujhako barabaad kiyaa dil kii meharabaanii ne
+	mujhako maaraa hai mere pyaar kii naadaanii ne
+	kisako ilzaam duu.N meraa ko_ii qaatil hii nahii.n
+	mai.n kahaa.N jaa_uu.N \threedots
+%
+#endindian
+\endsong
+

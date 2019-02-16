@@ -1,0 +1,90 @@
+%
+\startsong
+\stitle{najuumi huu.N mai.n ... mubaarak ho ... chhamaa\-chham sonaa\-chaa.Ndii ... ye hai qismat kaa nazaraanaa}%
+\film{Inaam}%
+\year{1955}%
+\starring{Suraiya, Naasir, Kammo, Mukri, Yaqub, Protima Devi, Bimla Kumari}%
+\singer{Suraiya, ##Male Voice##, Chorus}%
+\music{S N Tripathi}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #12613 [V S Rawat], 10/02/2004
+% 1. kosh mentions a prelude "najuumi huu.N mai.n qismat kaa likha"
+% which is not in the version I have.
+%
+% 2. kosh mentions Suraiya, Chorus as singers, but there is a 
+% ##Male Voice## uttering the comments attributed.
+% 
+\printtitle
+#indian
+%
+su \:	mubaarak ho \-4
+	chhamaa\-chham sonaa\-chaa.Ndii ghar me.n aa jaanaa mubaarak ho \-2
+	ye hai qismat kaa nazaraanaa ye nazaraanaa mubaarak ho \-2
+
+	tumhaare dar pe sau\-sau moTare.n aa kar kha.Dii ho.ngii
+	ho ho
+	tumhaare dar pe sau\-sau moTare.n aa kar kha.Dii ho.ngii
+	rupo.n kii thailiyaa.N kamaro.n ke kono.n me.n ga.Dii ho.ngii
+	haay
+##Male Voice## \:	ahaa
+	kyaa baat hai
+	waah
+su \:	kamaa_ii duusaro.n kii apane ghar laanaa mubaarak ho
+ko \:	kamaa_ii duusaro.n kii apane ghar laanaa mubaarak ho
+su \:	ye hai qismat kaa nazaraanaa \-2
+ko \:	ye hai qismat kaa nazaraanaa \-2
+	mubaarak ho \-4
+	chhamaa\-chham sonaa\-chaa.Ndii ghar me.n aa jaanaa mubaarak ho
+
+su \:	tumhe.n ka.Dakaa jo kahate hai.n
+##Male Voice## \:	ka.Dakaa\? kyaa kahaa\?
+su \:	tumhe.n ka.Dakaa jo kahate hai.n wo tumako sheK bole.nge
+##Male Voice## \:	are tumhaare mu.Nh me.n ghii\-shakkar
+su \:	ho
+	tumhe.n ka.Dakaa jo kahate hai.n wo tumako sheK bole.nge
+	jo baiTho ##car## to aage ba.Dh kar ##gate## khole.nge
+	ba.Dhaa kar peT tumako seTh ban jaanaa mubaarak ho
+ko \:	ba.Dhaa kar peT tumako seTh ban jaanaa mubaarak ho
+su \:	ye hai qismat kaa nazaraanaa \-2
+ko \:	ye hai qismat kaa nazaraanaa \-2
+	mubaarak ho \-4
+	chhamaa\-chham sonaa\-chaa.Ndii ghar me.n aa jaanaa mubaarak ho
+
+su \:	tujhe shaayad kisii cha.nchal parii se pyaar ho jaaye
+	ho
+	tujhe shaayad kisii cha.nchal parii se
+##Male Voice## \:	ho
+	tujhe shaayad kisii cha.nchal parii se pyaar ho jaaye
+su \:	bahut mumakin hai ##mister## teraa be.Daa paar ho jaaye
+	haay
+##Male Voice## \:	ahaa
+	are jiyo
+su \:	kisii ke dil ke ba.ngale me.n teraa aanaa mubaarak ho
+ko \:	kisii ke dil ke ba.ngale me.n teraa aanaa mubaarak ho
+su \:	ye hai qismat kaa nazaraanaa \-2
+ko \:	ye hai qismat kaa nazaraanaa \-2
+	mubaarak ho \-4
+	chhamaa\-chham sonaa\-chaa.Ndii ghar me.n aa jaanaa mubaarak ho
+
+su \:	bano tum lakhapatii bha_iyaa du_aa hai bas ye baa.ndii kii
+	ho
+	bano tum lakhapatii bha_iyaa du_aa hai bas ye baa.ndii kii
+	ho haatho.n me.n tumhaare hathaka.Dii
+##Male Voice## \:	he mu.Nh sambhaal ke haa.N
+su \:	ho haatho.n me.n tumhaare hathaka.Dii lekin ho chaa.Ndii kii
+	haay
+##Male Voice## \:	chaa.Ndii kii\? phir to Thiik hai
+su \:	tumhe.n zulfo.n kii phaa.Nsii le ke mar jaanaa mubaarak ho
+ko \:	tumhe.n zulfo.n kii phaa.Nsii le ke mar jaanaa mubaarak ho
+su \:	ye hai qismat kaa nazaraanaa \-2
+ko \:	ye hai qismat kaa nazaraanaa \-2
+	mubaarak ho \-4
+	chhamaa\-chham sonaa\-chaa.Ndii ghar me.n aa jaanaa mubaarak ho \-2
+
+	haa
+%
+#endindian
+\endsong
+%
+

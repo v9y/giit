@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{kaare badaraa tuu na jaa na jaa bairii tuu bides na jaa}%
+\film{Shikast}%
+\year{1953}%
+\starring{Dilip Kumar, Nalini Jaywant, Durga Khote, K N Singh}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10820 [V S Rawat], Malini Kanth
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+( kaare badaraa tuu na jaa na jaa bairii tuu bides na jaa
+ghananan megh\-malhaar sunaa rimajhim ras barasaa jaa ) \-2
+
+sanan\-sanan haay pavan jhakoraa bujhatii aag jalaa_e \-2
+man kii baat nayan me.n aa_e mujhase kahii na jaa_e \-2
+kaare badaraa tuu na jaa \threedots
+
+maathe kaa sinduur rulaave laT naagin ban jaa_e \-2
+laakh rachaa_uu.N un bin kajaraa a.Nsu_an se dhul jaa_e \-2
+kaare badaraa tuu na jaa \threedots
+
+chauraste pe jaise musaafir path puuchhe ghabaraa_e \-2
+kaun des kis or jaa_uu.N mai.n man meraa samajh na paa_e \-2
+kaare badaraa tuu na jaa \threedots
+%
+#endindian
+\endsong
+

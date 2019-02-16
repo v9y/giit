@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{na ro ai dil kahii.n rone se taqadiire.n badalatii hai.n}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar,Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:7 April,2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+na ro ai dil kahii.n rone se taqadiire.n badalatii hai.n \-2
+kahii.n aa.Nsuu bahaane se tamannae.n nikalatii hai.n
+na ro ai dil \-2
+
+natiijaa mil gayaa hamako kisii se dil lagaane kaa \-2
+sitam dekhaa nasiibo.n kaa karam dekhaa zamaane kaa \-2
+muhabbat aah bharatii hai, vafaae.n haath malatii hai.n
+na ro ai dil \threedots
+
+liye jaate the ai dil ham terii naiyyaa kinaare par \-2
+muhabbat ke bharose par, ummiido.n ke sahaare par \-2
+khabar kyaa thii ke zaalim aa.Ndhiyaa.N bhii saath chalatii hai
+na ro ai dil \threedots
+
+%
+#endindian
+\endsong
+%

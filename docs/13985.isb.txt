@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{is mele me.n log aate hai.n kho jaate hai.n}%
+\film{Saahibaan}%
+\year{1993}%
+\starring{Rishi, Madhuri, Sanjay Dutt, Sonu Walia, Bharat Kapoor}%
+\singer{Abhijit, Sadhana Sargam}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+is mele me.n log aate hai.n kho jaate hai.n
+merii uu.ngalii paka.D ke mere saath chalanaa
+naa naa naa
+chho.D u.ngalii paka.D meraa haath sajanaa
+is mele me.n \threedots
+
+aa.Nkhe.n zaraa der ko mii.nch le tuu
+tasviir merii yahii.n khii.nch le tuu
+paas apane use din raat rakhanaa
+merii u.ngalii paka.D ke \threedots
+
+dam damaadam ditam
+
+hai.n kaam kitane magar vaqt tho.Daa
+banavaa le jaldii tuu shaadii kaa jo.Daa
+tuu bhii taiyaar apanii baaraat rakhanaa
+chho.D u.ngalii paka.D \threedots
+
+uupar niiche aage piichhe kha.De hai.n
+is pyaar ke log dushman ba.De hai.n
+dushmano.n pe nazar din raat rakhanaa
+merii u.ngalii paka.D ke \threedots
+%
+#endindian
+\endsong
+

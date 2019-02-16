@@ -1,0 +1,40 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{baadalo baraso nayan kii kor se}%
+\film{Sampoorna Ramayan}%
+\year{1961}%
+\starring{Mahipal, Anita Guha}%
+\singer{Lata}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 29 Jan 2005
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+baadalo baraso nayan kii kor se
+bijaliyo ka.Dako hR^iday kii or se
+
+ai ghaTaao garjanaa ko thaam lo
+aaj mere karuN svar se kaam lo
+ba.Ndh gaya saavan nayan ki Dor se
+
+baadalo baraso nayan kii kor se \threedots
+
+zahar ko amR^it samajh kar pii rahii
+miin jal bin diin hokar jii rahii
+praaN ta.Dape bhaagya ke jhakajhor se
+
+baadalo baraso nayan kii kor se \threedots
+
+%
+#endindian
+\endsong

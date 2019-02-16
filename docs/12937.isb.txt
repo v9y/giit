@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{udhar tum hasii.n ho idhar dil javaa.N hai}%
+\film{Mr. & Mrs. '55}%
+\year{1955}%
+\starring{Gurudutt, Madhubala, Shakeela, Johnny Walker, Lalita Pawar}%
+\singer{Rafi, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10533 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	udhar tum hasii.n ho idhar dil javaa.N hai
+	ye ra.ngiin raato.n kii ek daastaa.N hai
+gii \:	ye kaisaa hai naGmaa ye kyaa daastaa.N hai
+	bataa e mohabbat meraa dil kahaa.N hai
+
+ra \:	mere dil me.n aa_ii hu_ii hai bahaar
+	qayaamat hai phir kyuu.N karuu.N intazaar
+gii \:	mohabbat kuchh aisii sazaa de rahii hai
+	ki khud raat a.nga.Daa_ii le rahii hai
+	jidhar dekhatii huu.N nazaaraa javaa.N hai
+ra \:	udhar tum hasii.n ho \threedots
+
+	lagatii hai.n taaro.n kii parachhaa_iyaa.N
+	burii hai.n muhabbat kii tanahaa_iyaa.N
+gii \:	mahakane lagaa merii zulfo.n me.n ko_ii
+	lagii.n jaagane dha.Dakane.n kho_ii\-kho_ii
+	merii har nazar aaj dil kii zubaa.N hai
+ra \:	udhar tum hasii.n ho \threedots
+
+ra \:	tarasataa huu.N mai.n aise diladaar ko
+	jo dil me.n basaa le mere pyaar ko
+gii \:	tere Kvaab hai.n merii raato.n pe chhaa_e
+	mere dil pe hai.n terii palako.n ke saa_e
+	ki mere labo.n pe terii daastaa.N hai
+ra \:	udhar tum hasii.n ho \threedots
+%
+#endindian
+\endsong
+

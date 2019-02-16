@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ham jii le.nge bin tumhaare ... kyuu.Nki tum merii zindagii ho}%
+\film{Dillagi}%
+\year{1966}%
+\starring{Mala Sinha, Sanjay, Nazima, Vijay Kumar, Johny Walker}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11002 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	ham jii le.nge bin tumhaare tum phir ye kabhii na kahanaa
+	merii jaa.N kyuu.Nki tum merii zindagii ho
+	tum merii merii zindagii ho
+la \:	tum jaa_o kahii.n bhii pyaare mere dil ke qariib rahanaa
+	sajanaa kyuu.Nki tum merii zindagii ho
+	tum merii merii zindagii ho
+
+mu \:	aatii bahaare.n na gul kabhii khilate
+	tum zindagii me.n jo hamase na milate
+la \:	yuu.N mere dil me.n tum aa_e ho machal ke
+	ulajhaa de aa.Nchal havaa jaise chal ke
+mu \:	laTe.n hil rahii hai.n kuchh aise tumhaarii
+	abhii hai tasallii abhii beqaraarii
+la \:	mere paas aa_o ye naazuk gha.Dii hai
+	ko_ii shai mere dil ke piichhe pa.Dii hai
+	mere aramaa.N mere sahaare mere dil ke qariib rahanaa
+	sajanaa kyuu.Nki tum merii \threedots
+mu \:		tum merii merii zindagii ho
+
+la \:	duniyaa hai qaatil paka.D lo ye baa.Nhe.n
+	roke kha.Dii hai.n muhabbat kii raahe.n
+mu \:	jo terii dhun me.n nikal pa.De ghar se
+	vo kyaa ruke.nge zamaane ke Dar se
+la \:	yahaa.N ishq ko qatl hote hii dekhaa
+	sadaa husn ko chhupakar rote hii dekhaa
+mu \:	hame.n tumane chaahaa to kaise miTe.nge
+	nazar Daal dogii to ham jii uThe.nge
+	mar jaa_e.nge Gam ke maare tum phir ye kabhii na kahanaa
+	merii jaa.N kyuu.Nki tum merii zindagii ho \threedots
+la \:	tum merii merii zindagii ho
+do \:	tum merii merii zindagii ho \-2
+%
+#endindian
+\endsong
+

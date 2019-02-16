@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ho nadiyaa kinaare nain hamaare tohe nihaare.n}%
+\film{Jhoom Uthaa Aakaash}%
+\year{1973}%
+\starring{Sujit Kumar, Laxmichhaya, Anita, Rajdeep, Bharat Bhushan, Mohan Choti}%
+\singer{Mukesh, Hemlata}%
+\music{Kranti Kiran}%
+\lyrics{Siraaz Aagaazi}%
+%
+% Contributor: BOL ANAMOL #10279 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	ho nadiyaa kinaare nain hamaare tohe nihaare.n
+he \:	haay re da_iyaa u_ii morii ma_iyaa paa.Nv me.n chubh gayaa kaa.NTaa
+	kaise chaluu.N man me.n jaluu.N mai.n ko_ii mujhe le jaataa
+mu \:	ho nadiyaa kinaare \threedots
+
+he \:	haay re haay kaisaa julam hai
+	nadiyaa ke paar moraa balam hai
+	baar\-baar bole ye morii paayaliyaa o mere sajanaa aa aajaa
+mu \:	ho Das rahe hai.n hamako sab nazaare \-2
+	ho nadiyaa kinaare \threedots
+
+	aajaa pukaaruu.N mai.n tohe sajanii
+	man ko jalaa_e birahaa kii aganii
+	aaj tujhe hai priit nibhaanii
+	biit na jaa_e rut yah suhaanii
+	ho aa ta.Dap rahe hai.n bin tihaare \-2
+	ho nadiyaa kinaare \threedots
+%
+#endindian
+\endsong
+

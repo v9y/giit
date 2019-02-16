@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{phailii huii.n hai.n sapano.n kii baahe.n}%
+\film{House No. 44}%
+\year{1955}%
+\starring{Dev Anand, Kalpana Kaartik}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Ravi Sriniwas (@gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%
+\printtitle
+#indian
+%
+phailii huii.n hai.n sapano.n kii baahe.n 
+aajaa chala de.n kahii.n dUr 
+vahii.n merI manzil vahii.n terI rAhe.n 
+aajaa chala de.n kahii.n dUr 
+
+uu.Nche ghaaT ke sa.ng tale chhip jaae.n 
+dhu.ndhalii fizaa me.n kuchh khoe.n kuchh paaye.n 
+dha.Dakan kii lay par koii aisI dhun gaaye.n 
+dede jo dilako dilakii panaahe.n 
+aajaa chala de.n kahii.n duur \threedots
+
+jhuulaa dhanak kaa dhiire dhiire ham jhuule.n 
+ambar to kyA hai taaro.n ke bhI lab chhUle.n 
+mastii me.n jhuule.n aur saare Gam bhuule.n 
+piichhe nA dekhe.n mu.Dake nigaahe.n 
+aajaa chala de.n kahii.n duur \threedots
+
+phailii huii.n hai.n \threedots
+%
+#endindian
+\endsong
+%

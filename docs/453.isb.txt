@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{dha.Dakane lage dil ke taaro.n kii duniyaa, jo tum muskuraa do}%
+\film{Dhool Ka Phool}%
+\year{}%
+\starring{Rajendra Kumar, Mala Sinha}%
+\singer{Mahendra Kapoor, Asha}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi <rava0002@gold.tc.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/09/1996
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+%          Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Comments:  Pankha Road se Pintu Diwana [24]
+%            nice softie. music does add to its beauty.
+%
+\printtitle
+#indian
+%
+A: dha.Dakane lage dil ke taaro.n kii duniyaa
+m: jo tum muskuraa do
+A: jo tum muskuraa do
+m: sa.nvar jaae ham bekaraaro.n kii duniyaa
+   jo tum muskuraa do
+A: jo tum muskuraa do
+
+m: jo tum muskuraa do, bahaare.n ha.Nse.n
+   sitaaro.n kii ujalii kataare.n ha.Nse.n
+A: jo tum muskuraa do, nazaare ha.Nse.n
+   javaa.n dha.Dakano.n ke ishaare ha.Nse.n	\- 2
+   dha.Dakane lage\threedots
+
+m: havaa me.n ke Kushabuu kii a.Nga.Daaiyaa.N
+   ye aa.Nkho.n pe zulfo.n kii parachhaaiyaa.N
+A: ye mastii ke dhaare ubalate hue
+   ye siino.n me.n tuufaa.n machalate hue	\- 2
+   dha.Dakane lage \threedots
+
+m: ye bojhal ghaTaa_e.n barasatii huii
+   ye bechain ruuhe.n tarasatii huii
+A: ye saa.Nso.n se shole nikalate hue
+   badan aa.Nch khaakar pighalate hue		\- 2
+   dha.Dakane lage\threedots 
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chhalakaa chhalakaa jaam huu.N mai.n}%
+\film{Aankhen}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sushmita Sen, Akshay Kumar, Arjun Rampal, Bipasha Basu}%
+\singer{Alka Yagnik, Javed}%
+\music{Jatin Lalit}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+chhalakaa chhalakaa jaam huu.N mai.n
+ho.NTho.n pe rakh le chhalakane se pahale
+are nashaa kar le sharaabii bahakane se pahale
+chhalakaa chhalakaa \threedots
+
+bhale chaahe.n sab se chhup kar tuu pii
+magar ishq me.n may milaa kar tuu pii
+ye ishq nashaa hai ye husn nashaa hai
+ye jaam sharaabii kahane ko nashaa hai
+ho ho soch le har baat tuu bhii utarane se pahale
+tho.Dii sii tuu bhii pilaa de utarane se pahale
+
+javaanii kii khilatii bahaaro.n se mil
+mere husn ke gulasitaaro.n se mil
+ulajhaa de zulfe.n bikharaa de kaajal
+is diivaanii ko tuu kar te paagal
+ho ho aur bahakaa de tuu mujh ko sambhalane se pahale
+chhalakaa chhalakaa \threedots
+
+la laa laa
+%
+#endindian
+\endsong

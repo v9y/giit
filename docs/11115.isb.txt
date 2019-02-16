@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ye gayaa vo gayaa dil meraa kho gayaa}%
+\film{Deewaanaa Mastaanaa}%
+\year{1997}%
+\starring{Govinda, Anil Kapur, Juhi Chawla}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye gayaa vo gayaa dil meraa kho gayaa
+kuchh tujhe ho gayaa kuchh mujhe ho gayaa
+
+mai.n aa_ii tuu gayaa ko_ii baat na hu_ii
+tuu ga_ii mai.n aayaa mulaakaat naa hu_ii
+ki baadal to jhuke barasaat na hu_ii
+aaj phir ye hu_aa mai.n chalaa lo gayaa
+ye gayaa vo gayaa \threedots
+
+na nii.nd hai mujhe na karaar hai mujhe
+yahii meraa haal ikaraar hai mujhe
+tuu saaf saaf bol i.ntazaar hai tujhe
+haa.N kaho naa kaho pyaar to ho gayaa
+ye gayaa vo gayaa \threedots
+%
+#endindian
+\endsong
+

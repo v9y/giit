@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{vo hasiin dard de do, jise mai.n gale lagaa luu.N}%
+\film{Hamsaaya}%
+\year{1968}%
+\starring{Joy Mukherjee, Sharmila Tagore, Mala Sinha}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+vo hasIn dard de do, jise mai.n gale lagA lU.N
+vo nigAh mujhape DAlo, ki mai.n zi.ndagI banA lU.N
+vo hasIn dard \threedots
+
+mai.n tumase mA.ngatI hU.N, zarA apanA hAth de do
+mujhe Aj zi.ndagI kI, vo suhAgarAt de do
+jise leke kuchh na mA.ngU.n, aur mA.ng me.n sajA lU.N
+vo hasIn dard \threedots
+
+merI ArazU to dekho, tumhe.n sAmane biThA kar
+kabhI dil ke pAs lAkar, kabhI dilarubA banA kar
+koI dAstAn sun lU.N, koI dAstA.n sunA lU.N
+vo hasIn dard \threedots
+%
+#endindian
+\endsong
+%

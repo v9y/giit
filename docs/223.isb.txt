@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aur kab tak aa.Nsuu po.nchhe.n}%
+\film{Mahatma Kabir}%
+\year{1954}%
+\starring{}%
+\singer{Asha}%
+\music{Anil Biswas}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Vandana (vandana_iyengar@hotmail.com)
+% Transliterator:
+% Date: July 2, 1999
+% Credits:
+% Editor:
+% Comments: From "Geet Kitne Gaa Chuki Hun", rare Asha songs 
+% commemorative cassette made for the East Coast RMIMeet '98
+% by Neha Desai, Richa Dubey, Chetan Vinchhi & Ashok Dhareshwar 
+%
+\printtitle
+#indian
+%
+
+ab aur kab tak aa.Nsuu po.nchhe.n naath anaath hamaare
+ham tan man vachan tumhaare
+naath aur kab tak aa.Nsuu po.nchhe.n
+
+jugal charaN ke jugal pujaarii dekhe baaT tumhaarii
+jugal kamal khilate murajhaate
+path me.n saa.njh\-sakaare
+ab aur kab tak aa.Nsuu po.nchhe.n \threedots
+
+ghuu.NghaT khol dekh liyaa mukha.Daa
+hriday khol dekho dukhaDaa
+jag se kuchh na kahe man meraa
+keval tumhe pukaare
+ham tan man vachan tumahaare
+naath aur kab tak aa.Nsuu po.nchhe.n \threedots
+
+%
+#endindian
+\endsong
+%
+

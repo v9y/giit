@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{paan kaa ek bii.Daa ... phir chaal dekho banaarasii baabuu kii}%
+\film{Banaarasi Baaboo}%
+\year{1998}%
+\starring{Govinda, Ramya, Kader, Shakti, Sanam, Asif Sheikh, Bindu}%
+\singer{Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paan kaa ek bii.Daa khilaa do phir chaal dekho banaarasii baabuu kii
+isame.n tho.Daa saa zardaa milaa do phir chaal dekho banaarasii baabuu kii
+chaal dekho banaarasii baabuu \threedots
+
+ho.nTho.n ke pyaale rasiile nain tumhaare nashiile
+gorii patalii kamar tum hilaa do
+phir chaal dekho \threedots
+
+a.ndaaz meraa hai sabase niraalaa
+buddhuu naa samajho mai.n huu.N bholaa bhaalaa
+zaraa ga.ngaa kaa paanii pilaa do
+phir chaal dekho \threedots
+
+mai.n biga.De logo.n ko raaste pe laa_uu.n
+mai.n achchhe achchho.n ke chhakke chhu.Daa_uu.n
+ho mere haatho.n bambuu dilaa do
+phir chaal dekho \threedots
+%
+#endindian
+\endsong
+

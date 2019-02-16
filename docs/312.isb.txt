@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{bhuulane vaale yaad na aa}% 
+\film{Anokhi Ada}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+bhuulane vaale yaad na aa  \- 2
+
+dekh hame.n majabuur na kar 
+tujhako kasam dukh dUr na kar 
+ham to jiye bas tere liye 
+tUne kuchh aise ra.nj diye 
+Thes lagI dil TuuT gayaa 
+bhuulane vaale yaad nA aa \threedots 
+
+haay vafaa nakaam huii 
+subah ke badale shaam huii 
+phuul khushI ke khil nA sake 
+aa.Nkh milii dil mil nA sake 
+dekh liyaa a.njaam\-e\-vafaa 
+bhUlane vaale yaad nA aa \threedots 
+
+dil se miTaa ulfat kA nishaa.n 
+tujhase hamaaraa pyaar kahaa.N 
+pyaar kA naataa to.D yahii.n 
+giit adhuuraa chho.D yahii.n 
+mai.n bhI nA gaaU.n tU bhI nA gaa 
+bhUlane vaale yaad nA aa \threedots 
+%
+#endindian
+\endsong
+%

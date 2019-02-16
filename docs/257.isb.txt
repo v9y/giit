@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{bahaar\-e\-husn terii, mausam\-e\-shabaab teraa}%
+\film{Aao Pyar Karen}%
+\starring{Joy Mukherjee}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+bahaar\-e\-husn terii, mausam\-e\-shabaab teraa
+kahaa.N se Dhuu.NDh ke laae koI javaab teraa
+ye subah bhii tere rukhasaar kii jhalak hii to hai
+ke naam leke nikalataa hai Afataab teraa
+
+jahaa.N tU hai vahaa.N phir chA.Ndanii ko kaun puuchhegaa
+teraa dar ho to jannat kii galii ko kaun puuchhegaa
+
+kalii ko haath me.n lekar bahAro.n ko naa sharamaanaa
+zamaanaa tujhako dekhegaa kalii ko kaun puuchhegaa
+
+farishto.n ko pataa denaa naa apanii rahaguzaaro.n kaa
+vo qaafir ho gaye to bandagii ko kaun puuchhegaa
+
+kisiiko muskuraake khuubasUrat maut naa denaa
+qasam hai zindagii kii, zindagii ko kaun puuchhegaa  
+%
+#endindian
+\endsong
+%

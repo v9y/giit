@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ho gayaa hai tujhako to pyaar sajanaa}%
+\film{Dilwale Dulhaniya Le Jayenge}%
+\year{1995}%
+\starring{Shahrukh Khan, Kajol}%
+\singer{Lata, Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+na jaane mere dil ko kyaa ho gayaa
+abhii to yahii.n thaa abhii kho gayaa
+
+ho gayaa hai tujhako to pyaar sajanaa
+laakh kar le tuu inakaar sajanaa
+diladaar sajanaa, hai ye pyaar sajanaa
+
+dekhaa na tuune, mu.Dake bhii piichhe
+kuchh der to mai.n rukaa thaa
+jab dilane tujhako rokanaa chaahaa
+duur tuu jaa chukaa thaa
+huaa kyaa na jaanaa, ye dil kyo.n diivaanaa
+ho gayaa hai tujhako to pyaar   \threedots
+
+ae vaqt ruk jaa, tham jaa, Thahar jaa
+vaapas zaraa dau.D piichhe
+mai.n chho.D aayii, khud ko jahaa.N pe
+vo rah gayaa mo.D piichhe
+kahaa.N mai.n, kahaa.N tuu
+ye kaisaa hai jaaduu
+ho gayaa hai tujhako to pyaar   \threedots
+%
+#endindian
+\endsong
+%

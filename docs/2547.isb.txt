@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{chalate chalate yuu.N hii ruk jaataa huu.N mai.n}%
+\film{Mohabbatein}%
+\year{2000}%
+\starring{Shahrukh Khan, Amitabh, Aishwarya, }%
+\singer{Udbhav, Manohar Shetty, Shweta Pandit, Ishaan, Sonali Bhatwadekar, Pritha Mazumdar}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Mo
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chalate chalate yuu.N hii ruk jaataa huu.N mai.n
+baiThe baiThe kahii.n kho jaataa huu.N mai.n
+kahate kahate hii chup ho jaataa huu.N mai.n
+kyaa yahii pyaar hai, kyaa yahii pyaar hai
+haa.N yahii pyaar hai, haa.N yahii pyaar hai
+
+tum pe marate hai.n kyo.n ham nahii.n jaanate
+aisaa karate hai.n kyo.n ham nahii.n jaanate
+band galiyo.n se chhup chhup ke ham guzarane lage
+saarii duniyaa.N se rah rah ke ham to Darane lage
+haay ye kyaa karane lage
+kyaa yahii pyaar hai, kyaa yahii pyaar hai \threedots
+
+tere baato.n me.n ye ik sharaarat sii hai
+mere ho.nTho.n pe ye, ik shiqaayat sii hai
+terii aa.Nkho.n ko aa.Nkho.n se chuumane ham lage
+tujhako baaho.n me.n le lekar jhuumane ham lage
+haay ye kyaa karane lage
+kyaa yahii pyaar hai, kyaa yahii pyaar hai \threedots
+
+%
+#endindian
+\endsong
+%

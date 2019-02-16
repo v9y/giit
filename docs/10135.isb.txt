@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ha.n_ii teraa dilavaalaa hai reshamii rumaal vaalaa}%
+\film{Aunty No.1}%
+\year{1998}%
+\starring{Govinda, Raveena, Mohnish, Raza Murad, Kader, Sadashiv, Bindu}%
+\singer{Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ha.n_ii teraa dilavaalaa hai reshamii rumaal vaalaa
+tuu merii vaijayantii maalaa tuu merii madhubaalaa
+ha.n_ii teraa dilavaalaa hai \threedots
+
+nain ye kajaraare tere chain churaa_e.n dil kaa mere
+terii miiThii miiThii baate.n mujhako jagaa_e.n saarii raate.n
+tere gore gaalo.n pe mai.n lagaa duu.n til ye kaalaa
+reshamii rumaal vaalaa \threedots
+
+o mere khvaabo.n kii raanii kyo.n kare ab aanaakaanii
+chal diivaane mai.n huu.N raajii jaa bulaa jaldii se kaajii
+chaar miinaar ke logaa.n kahate tuu javaanii kaa hai pyaalaa
+ha.n_ii teraa dilavaalaa hai \threedots
+%
+#endindian
+\endsong
+

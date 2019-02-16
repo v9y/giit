@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{chaa.Nd ne pahanaa taaj sitaaro jhuum\-jhuum kar naacho}%
+\film{Hoor-e-Arab}%
+\year{1955}%
+\starring{Pradeep Kumar, Shashikala}%
+\singer{Lata, Chorus}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12303 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+la \:	chaa.Nd ne pahanaa taaj
+	sitaaro jhuum\-jhuum kar naacho
+	bahaaro jhuum\-jhuum kar gaa_o
+ko \:	bahaaro jhuum\-jhuum kar gaa_o
+	aa
+
+la \:	o
+	( aan mubaarak shaan mubaarak
+	Kushiyo.n ke saamaan mubaarak ) \-2
+ko \:	Kushiyo.n ke saamaan mubaarak
+la \:	kaliyaa.N jhuume.n Gu.nche mahake \-2
+	jaise sharaabii pii kar bahake
+	duniyaa sajii hai aaj
+	sitaaro jhuum\-jhuum kar naacho
+	bahaaro jhuum\-jhuum kar gaa_o
+ko \:	bahaaro jhuum\-jhuum kar gaa_o
+	aa
+
+la \:	o
+	( Kushiyo.n ke yaa.N jalawe kitane
+	ek nazar me.n laakho.n fitane ) \-2
+ko \:	ek nazar me.n laakho.n fitane
+la \:	dil me.n wafaaye.n lab pe du_aa.n
+	dekhane waale jhuum ke gaaye.n
+	dil me.n Kushii hai aaj
+	sitaaro jhuum\-jhuum kar naacho
+	bahaaro jhuum\-jhuum kar gaa_o
+ko \:	bahaaro jhuum\-jhuum kar gaa_o
+	aa
+
+la \:	chaa.Nd ne pahanaa taaj
+	sitaaro jhuum\-jhuum kar naacho
+	bahaaro jhuum\-jhuum kar gaa_o
+ko \:	bahaaro jhuum\-jhuum kar gaa_o
+	aa
+
+	aa
+la \:	aa
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,76 @@
+
+%
+\startsong
+\stitle{do din kii bahaar pyaare dil me.n basaa le pyaar}%
+\film{Dulari}%
+\year{1949}%
+\starring{Suresh, Madhubala, Geeta Bali}%
+\singer{Lata, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12042 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	do din kii bahaar pyaare
+	dil me.n basaa le pyaar \-2
+	do din kii bahaar do din kii \-2
+la \:	ahaa ahaa haa haa haa
+
+ko \:	do din kii bahaar pyaare
+	dil me.n basaa le pyaar \-2
+	do din kii bahaar do din kii \-2
+
+la \:	do din kii bahaar pyaare
+	do din kii ye bahaar
+ko \:	do din kii bahaar do din kii
+la \:	do din kii bahaar pyaare
+	do din kii bahaar
+	dil me.n basaa le pyaar balamaa
+	dil me.n basaa le pyaar
+ko \:	basaa le pyaar basaa le pyaar
+la \:		dil me.n basaa le pyaar balamaa
+	dil me.n basaa le pyaar
+ko \:	do din kii bahaar pyaare
+	do din kii bahaar
+
+la \:	dekho ye rut phir naa aayegii
+	dil ko naa ta.Dapaayegii
+	paayal kii jha.nkaar pyaare
+	do din kii bahaar
+
+	bhed jiyaa ke chhailaa \-2
+	kaise kahuu.N
+	baabuu kaise kahuu.N
+	haay o rasiyaa kaise kahuu.N
+ko \:	hoy kaise kahuu.N
+	re baabuu kaise kahuu.N
+	re chhailaa kaise kahuu.N
+
+la \: 	mere ho.NTho.n par jo gaanaa hai
+	har dil kaa afasaanaa hai
+	sun lo zaraa sarakaar pyaare
+	do din kii bahaar
+
+	giit anokhe gaa_uu.N \-2
+	tere liye
+	o saajan tere liye
+	haay o baalam tere liye
+ko \:	hoy tere liye
+	re baabuu tere liye
+	re chhailaa tere liye
+
+la \:	 mere sa.ng\-sa.ng tuu bhii gaataa jaa
+	dil kaa saaz bajaataa jaa
+	dekh naa kar inakaar pyaare
+	do din kii bahaar
+ko \:		dil me.n basaa le pyaar
+	balamaa dil me.n basaa le pyaar
+%
+#endindian
+\endsong
+

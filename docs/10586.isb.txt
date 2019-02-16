@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{thaare vaaste re Dhola nain mhaare jaage re jaage ... tuu meraa koN laage}%
+\film{Batwaaraa}%
+\year{1989}%
+\starring{Dhamendra, Vinod Khanna, Dimple, Poonam, Amrita, Vijayendra, Neena Gupta}%
+\singer{Kavita Subramaniam, Anuradha Paudwal, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+thaare vaaste re Dholaa nain mhaare jaage re jaage
+nain mhaare jaage re saarii rain jaage
+tuu meraa koN laage
+
+tere vaaste re sajanaa nain mere jaage re jaage
+nain mere jaage re saarii rain jaage
+tuu meraa koN laage
+
+mhaare dil ko bas me.n karake dil se anajaanaapan kyuu.n
+tere bin mai.n jii na sakuu.ngii phir ye begaanaapan kyuu.n
+chaahe ta.Dapaa le chaahe tarasaa le jitanaa bhii chaahe dil ko jalaa le
+mai.n to nahii.n to.Duu.n tere prem dhaage re
+
+mere man kaa bhed na samajhe a.nkhiyo.n kii baat naa jaane
+phiruu.n kyuu.n tere aage piichhe haay maine din raat na jaane
+bastii chho.Dii nagarii chho.Dii tere li_e duniyaa saarii chho.Dii
+paas aa_uu.n mai.n tuu bairii duur bhaage re
+
+sun re zaraa o jaane vaale birahaa kii aag lagaa ke
+haradam terii raah takuu.ngii palako.n me.n diip jalaake
+sa.ng sa.ng tere saajan mere pyaar rahegaa saa.njh savere
+piichhe tuu chalegaa pyaar aage re
+tuu meraa koN laage \threedots
+%
+#endindian
+\endsong
+

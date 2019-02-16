@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aa jaa tujhako pukaare.n mere giit re, mere giit re}%
+\film{Geet}%
+\year{}%
+\starring{Rajendra Kumar, Mala Sinha}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aa jaa tujhako pukaare.n mere giit re, mere giit re
+o mere mitavA, mere mIt re, AjA \threedots
+
+nAm na jAnU.n terA desh na jAnU.n
+kaise mai.n bhejU.n sandesh na jAnU.n
+ye phUlo.n kI ye jhUlo.n kI, rut na jAye bIt re
+AjA tujhako \threedots
+
+tarasegI kab tak pyAsI nazariyA
+barasegI kab mere A.Ngan badariyA
+to.D ke AjA chho.D ke AjA, duniyA kI har rIt re
+AjA tujhako \threedots
+%
+#endindian
+\endsong
+%

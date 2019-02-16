@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{chhaa gaye baadal niil gagan par}%
+\film{Chitralekha}%
+\year{1964}%
+\starring{Ashok Kumar, Meena Kumari, PRadeep Kumar, Mahmood}%
+\singer{Rafi, Asha}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+%
+\printtitle
+#indian
+%
+aashaa : chhaa gaye baadal niil gagan par
+         ghul gayaa kajaraa saa.Njh Dhale
+
+aashaa : dekh ke meraa man bechain
+         rain se pahale ho gaii rain
+         aaj hriday ke svapan phale
+         ghul gayaa kajaraa saa.Njh Dhale
+
+rafii  : ruup kii sa.ngat aur ekaant
+         aaj bhaTakataa man hai shaant
+         kah do samay se tham ke chale
+         ghul gayaa kajaraa saa.Njh Dhale
+                           
+rafii  : chhaa gaye baadal niil gagan par
+         ghul gayaa kajaraa saa.Njh Dhale
+
+aashaa : a.ndhiyaaro.n kii chaadar taan
+         ek ho.nge do vyaakul praaN
+         aaj na koii diip jale
+         ghul gayaa kajaraa saa.Njh Dhale
+
+dono   : chhaa gaye baadal niil gagan par
+         ghul gayaa kajaraa saa.Njh Dhale
+%
+#endindian
+\endsong
+%

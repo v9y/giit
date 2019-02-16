@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aajaa ve saajan ... nain bichhaa_e terii raaho.n par}%
+\film{Maine Dil Tujhko Diya}%
+\year{2002}%
+\starring{Sanjay Dutt, Sohail Khan, Samira Reddy}%
+\singer{Alka Yagnik, Sunidhi Chauhan, Chorus}%
+\music{Dabbu Malik}%
+\lyrics{Salim Bijanauri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aajaa ve saajan aajaa ve saajan
+nain bichhaa_e terii raaho.n par
+saathii sakhii sab raah take hai.n
+Dhuu.nDh rahii hai tujhe sabakii nazar
+aajaa ve saajan \threedots
+
+taaro.n se terii maa.Ng sajegii
+merii bahanaa dulhan banegii
+mujhako pataa hai vo aa_egaa
+terii Dolii le jaa_egaa
+aajaa ve saajan \threedots
+
+phiikaa na pa.D jaa_e meha.ndii kaa ra.ng
+itanii kahii.n der ho jaa_e naa
+jis pyaar pe hamako yakii.n hai
+us pyaar kii haar ho jaa_e naa
+aajaa ve saajan \threedots
+%
+#endindian
+\endsong
+

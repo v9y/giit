@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{saare zamaane pe ... aap aa_e bahaar aa_ii}%
+\film{Aap Aaye Bahaar Aayee}%
+\year{1971}%
+\starring{Rajendra Kumar, Sadhana}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11163 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( saare zamaane pe mausam suhaane pe
+is dil diivaane pe viiraanii sii thii chhaa_ii
+aap aa_e bahaar aa_ii ) \-2
+
+aapakaa hii thaa sabako i.ntazaar \-2
+aapake li_e sab the beqaraar
+havaa_e.N ghaTaa_e.N fizaa_e.N
+baaGo.n me.n phuulo.n ne lii jhuum ke a.nga.Daa_ii
+aap aa_e bahaar \threedots
+
+aapane kiyaa aa ke ehasaan \-2
+thaa ye viiraanaa ab hai gulistaan
+pukaare.n nazaare ye saare
+gulashan kii galiyo.n se kaliyo.n se suni_e aavaaz ye aa_ii
+aap aa_e bahaar \threedots
+
+liiji_e naa bas ab jaane kaa naam \-2
+ruuTh jaa_e.Nge jalave ye tamaam
+ye bastii ye mastii ye hastii
+aisaa naa ho jaa_e ban jaa_e ye mahafil phir tanhaa_ii
+aap aa_e bahaar \threedots
+%
+#endindian
+\endsong
+

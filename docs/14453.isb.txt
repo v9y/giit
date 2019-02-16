@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ye naa hogaa ... ham dono.n mil ke kaaGaz pe dil ke}%
+\film{Tumhaari Qasam}%
+\year{1978}%
+\starring{Jeetendra, Navin Nishchal, Mausami Chaterji, Padmini Kapila, Paintal}%
+\singer{Mukesh, Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10425 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	ye naa hogaa
+mu \:	nahii.n hogaa hogaa
+aa \:	kaise
+mu \:	maano tum agar meraa kahanaa
+	ham dono.n mil ke kaaGaz pe dil ke
+	chiTThii likhe.nge javaab aa_egaa
+
+aa \:	chiTThii ke lifaafe pe naam kyaa likhe.nge
+mu \:	naam chho.Do puuchho paiGaam kyaa likhe.nge
+aa \:	o likhe.nge ki chiTThii milate hii chale aa_o
+mu \:	baaGo.n me.n phuulo.n ke khilate hii chale aa_o
+aa \:	chamake.nge taare dil me.n hamaare
+	aur ban ke vo mahataab aa_egaa
+mu \:	ham dono.n mil ke \threedots
+
+aa \:	vaadaa thaa tumhaaraa kabhii doge ik nishaanii
+mu \:	duu.Ngaa abhii to baaqii hai saarii zindagaanii
+aa \:	jab ham na ho.nge tab shaayad ye baat ho
+mu \:	ho sakataa hai aaj hii vo pyaar bharii raat ho
+aa \:	hai vo safar me.n is suune ghar me.n
+	ban ke mehamaa.n o janaab aa_egaa
+mu \:	ham dono.n mil ke \threedots
+%
+#endindian
+\endsong
+

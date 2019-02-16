@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tuu pyaar kare yaa Thukaraae, ham to hai.n tere divaano.n me.n}%
+\film{Dekh Kabira Roya}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tU pyaar kare yaa Thukaraae
+ham to hai.n tere dIvaano.n me.n
+chaahe tU hame.n apanaa na banaa
+lekin naa samajh begaano.n me.n
+
+1) marane se hame.n inakaar nahI.n
+jIte hai.n magar ik hasarat me.n
+bhuule se hamaaraa naam kabhI
+aa jaae tere afasaano me.n, tU pyaar \threedots
+
+2) milate hai.n magar haule haule
+jalate hai.n magar ik baar nahI.n
+ham shammaa kaa sInaa rakhate hai.n
+rahate hai.n magar paravaano.n me.n, tU pyaar \threedots
+%
+#endindian
+\endsong
+%

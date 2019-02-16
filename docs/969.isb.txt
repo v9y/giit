@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kasame.n vaade.n pyaar vafaa sab, baate.n hai.n baato.n kaa kyaa}%
+\film{Upkaar}%
+\year{}%
+\starring{Pran, Manoj Kumar}%
+\singer{Manna De}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+kasame vaade pyaar vafaa sab, baate.n hai.n baato.n kaa kyaa
+koI kisii kaa nahii.n ye jhuuThe, naate hai.n naato.n kaa kyaa
+kasame vaade pyaar vafaa sab, baate.n hai.n baato.n kaa kyaa
+
+hogaa masiihaa \threedots
+hogaa masiihaa saamane tere
+phir bhii na tuu bach paayegaa
+teraa apanaa.a.a.a aa.a.a.a 
+tera apanA khuun hii aakhir 
+tujhako aag lagaayegaa
+aasamaan me.n \threedots
+aasamaan me u.Dane vaale miTTii me.n mil jaayegaa
+kasame vaade pyaar vafaa sab, baate.n hai.n baato.n kaa kyaa
+
+sukh me.n tere \threedots
+sukh me.n tere saath chale.nge
+dukh me.n sab mukh mo.De.nge
+duniyaa vaale \threedots
+duniyaa vaale tere banakar
+teraa hii dil to.De.nge
+dete hai.n \threedots
+dete hai.n bhagavaan ko dhokhaa, inasaa.n ko kyaa chho.De.nge
+kasame vaade pyaar vafaa sab, baate.n hai.n baato.n kaa kyaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{##verse## ye ha.Nsate huye phuul}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Waheeda, Mala Sinha, Rahman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12204 [V S Rawat]
+%
+\printtitle
+#indian
+%
+ye ha.Nsate huye phuul
+ye mahakaa hu_aa gulashan
+( ye ra.ng me.n aur nuur me.n
+Duubii hu_ii raahe.n ) \-2
+
+( ye phuulo.n kaa ras pii ke
+machalate huye bha.Nware ) \-2
+
+mai.n duu.N bhii to kyaa duu.N tumhe.n
+ai shoK nazaaro.n
+le de ke mere pass
+kuchh aa.Nsuu hai.n kuchh aahe.n
+%
+#endindian
+\endsong
+

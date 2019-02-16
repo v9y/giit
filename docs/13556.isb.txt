@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{tuu aap hai apanaa chor kaahe rapaT kare}%
+\film{Patang}%
+\year{1960}%
+\starring{Mala Sinha, Rajendra Kumar, Ulhas, Raj Mehra, Achala, Manorama}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10155 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tuu aap hai apanaa chor kaahe rapaT kare kotavaalii \-2
+
+mukha.Daa teraa saahuu jaisaa manavaa teraa luTeraa \-2
+dayaa dharam kii galii kabhii naa Daalaa tuune pheraa
+( vahii bagiichaa luuTaa re tuune ) \-2 thaa tuu jisakaa maalii
+kaahe rapaT kare \threedots
+
+pe.D lagaayaa paap kaa maa.Nge badale me.n naara.ngii \-2
+laakh chhipaa_e resham se kaayaa terii na.ngii
+( bharii rahegii terii tijorii ) \-2 haath rahe.nge khaalii
+kaahe rapaT kare \threedots
+
+tuu samajhe tuu ba.Daa sayaanaa mai.n samajhuu.N diivaanaa \-2
+sachche thaanedaar ko ab tak naa pahachaanaa
+jis par baiThaa muurakh kaaT rahaa vahii Daalii
+kaahe rapaT kare \threedots
+%
+#endindian
+\endsong
+

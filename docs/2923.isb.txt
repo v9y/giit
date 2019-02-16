@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{o niile parbato.n kii dhaaraa}%
+\film{Aadmi Aur Insaan}%
+\year{1969}%
+\starring{Dharmendra, Saira Bano, Feroz Khan, Mumtaz, Ajit, Madan Puri}%
+\singer{Asha, Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+o niile parbato.n kii dhaaraa 
+aayii Dhuu.NDhane kinaaraa ba.Dii duur se
+sab ko sahaaraa chaahiye
+koii hamaaraa chaahiye
+
+phuul me.n jaise phuul kii khushabuu
+dil me.n hai yuu.N teraa baseraa
+dharatii se ambar tak phailaa
+chaahat kii baaho.n kaa gheraa
+o niile parbato.n kii dhaaraa \threedots
+
+suuraj piichhe ghuume dharatii
+saa.Njh ke piichhe ghuume saveraa
+jis naate ne in ko baa.Ndhe
+vo naataa hai teraa meraa
+o niile parbato.n kii dhaaraa \threedots
+
+%
+#endindian
+\endsong
+%

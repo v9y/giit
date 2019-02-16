@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{cheharaa kyaa dekhate ho dil me.n utar ke dekho na}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	cheharaa kyaa dekhate ho ( dil me.n utar ke dekho na ) \-3
+	mausam pal me.n badal jaa_egaa patthar dil bhii pighal jaa_egaa
+	merii mohabbat me.n hai kitanaa asar dekho na
+aa \:	cheharaa kyaa dekhate ho \threedots
+
+ku \:	tho.De se kariib aa_o aise na itaraa_o
+	mujhase sanam duur baiThe ho kyaa \-2
+	bechain kar duu.Ngaa itanaa tumhe.n aake lipaT jaa_ogii dilarubaa
+	aise kyaa sochatii ho aake idhar dekho naa \-3
+aa \:	cheharaa kyaa dekhate ho \threedots
+
+	mai.n to tumhaarii huu.N tumape dil haarii huu.N
+	phir kisali_e hai.n ye betaabiyaa.N \-2
+	aake gale se lagaa lo mujhe ab duuriyaa.N na rahe.n darmiyaa.N
+	kisane tumhe.n rokaa hai shaam\-o\-sahar dekho na
+ku \:	cheharaa kyaa dekhate ho \threedots
+%
+#endindian
+\endsong
+

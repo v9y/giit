@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{sunii sunaayii baat nahii.n hai}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Andleeb Shadani}%
+%
+% Contributor: Vineet Sachdev
+% Transliterator: K Vijay Kumar
+% Credits: Fazle Naqvi
+%
+\printtitle
+#indian
+%
+der lagii aane me.n tum ko shukar hai phir bhii aaye to
+aas ne dil kaa saath na chho.Daa vaise ham ghabaraaye to
+
+shafaaq, dhanak, mahataab, ghaTae.n, taare, naGame.n, bijalii, phuul
+kyaa\-kyaa us daaman me.n hai, vo daaman haath me.n aaye to
+
+sunii sunaayii baat nahii.n hai, apane uupar biitii hai
+phuul nikalate hai.n sholo.n se, chaahat aag lagaye to
+
+jhuuTh hai sab taariiK hameshaa apane ko dohoraatii hai
+achchhaa meraa Kvaab\-e\-javaanii tho.Daa saa doharaaye to
+
+%
+% Following couplets of the ghazal are not sung by Jagjit Singh
+%
+chaahat ke badale me.n ham to bech de.n apanii marzii tak
+ko_ii mile to dil kaa gaahak ko_ii hame.n apanaaye to
+
+kyo.n ye maharangez tabassum madd\-e\-nazar jab kuchh bhii nahii.n
+haay! agar ko_ii an_jaan agar is dhokhe me.n aa jaaye to
+
+naadaanii aur majabuurii me.n yaaro kuchh to farq karo
+ek bebas insaan kare kyaa TuuT ke dil aa jaaye to
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{koii lauTaa de mere}% 
+\film{Door Gagan Ki Chhaaon Mein}%
+\year{1964}%
+\starring{Kishore, Supriya Chowdhury, Amit Kumar}%
+\singer{Kishore}%
+\music{Kishore}%
+\lyrics{Shailendra}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+albele din pyaare, mere bichha.De saathii saare
+haay! kahaa.N gaye, haay! kahaa.N gaye
+
+koI lauTaa de mere, biite hue din \- (2) 
+biite hue din vo hAy, pyaare pal chhin 
+koI lauTaa de \threedots
+
+mai.n akelaa to nA thA, the mere sAthI kaI 
+ek aa.Ndhii sI uThii, jo bhI thA leke gaI 
+aaj mai.n Dhuu.NDhU.n kahaa.N, kho gaye jaane kidhar \- 2
+biite hue din vo haay, pyaare pal chhin
+koI lauTaa de \threedots
+
+mere khvaabo.n ke nagar, mere sapano.n ke shahar 
+pii liyaa jinake liye, mai.nne jIvan kA zahar 
+aise bhI din the kabhI, merI duniyA thI merI  \- 2
+biite hue din vo haay, pyaare pal chhin
+koI lauTaa de \threedots
+%
+#endindian
+\endsong
+%

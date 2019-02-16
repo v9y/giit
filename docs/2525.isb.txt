@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{apane dil se ba.Dii dushmanii kii}%
+\film{Betaab}%
+\year{}%
+\starring{Sunny Deol, Amrita Singh}%
+\singer{Shabbir Kumar, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+apane dil se ba.Dii dushamanii kii
+kis liye mai.n ne tum se dostii kii
+
+apane dil ko jalaa ke roshanii kii
+kis liye mai.n ne tum se dostii kii
+
+tum ne achchhaa sahaaraa diyaa
+besahaaraa mujhe kar diyaa
+kal gale se lagaayaa mujhe
+aaj Thukaraa diyaa bevafaa
+tum ne achchhii sanam dillagii kii
+kis liye mai.n ne tum se dostii kii \threedots
+
+aasmaa.N ban gayii ye zamii.n
+mere hamadam mere hamanashii.n
+tum ne dekhii merii berukhii
+bebasii merii dekhii nahii.n
+mai.n huu.N tasaviir ik bekasii kii
+kis liye mai.n ne tum se dostii kii \threedots
+
+har khushii bas paraayii huii
+merii dushman khudaaiii huii
+mujhako ab to pahachaan le
+mujhe se ye bevafaaii huii
+mai.n ne tum pe fidaa zi.ndagii kii
+kis liye mai.n ne tum se dostii kii \threedots
+
+%
+#endindian
+\endsong
+%

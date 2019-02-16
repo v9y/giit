@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu hai mere dil me.n ... tuu kyaa kare mai.n kyaa karuu.n}%
+\film{Chhupa Rustam}%
+\year{1999?}%
+\starring{Sanjay Kapoor, Manisha Koirala}%
+\singer{Hariharan, Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu hai mere dil me.n mai.n huu.N tere dil me.n
+tuu bhii mushkil me.n mai.n bhii mushkil me.n
+aisaa hii hotaa hai pyaar me.n
+chubhate hai.n kaa.NTe bahaar me.n
+tuu kyaa kare mai.n kyaa karuu.n
+tuu hai mere dil me.n \threedots
+
+mil ke tujhe aisaa lagaa ab tak rahe ham kaise judaa
+ik duuje me.n ham khone lage hai.n
+paagal diivaane hone lage hai.n
+tuu kyaa kare mai.n kyaa karuu.n
+tuu hai mere dil me.n \threedots
+
+naa roshanii naa chaa.Ndanii ik aag hai ye dil kii lagii
+ham dono.n isame.n jalane lage hai.n
+dil pe ye jaaduu chalane lage hai.n
+tuu kyaa kare mai.n kyaa karuu.n
+tuu hai mere dil me.n \threedots
+%
+#endindian
+\endsong
+

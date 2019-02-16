@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{diivaaro.n pe likhaa hai miinaaro.n pe likhaa hai ... o sajanaa teraa naam}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaaro.n pe likhaa hai miinaaro.n pe likhaa hai
+is shahar kii har galiyo.n pe chauraaho.n pe likhaa hai
+o sajanaa teraa naam
+diivaaro.n pe likhaa hai \threedots
+
+biite har din tere pyaar me.n tere pahaluu me.n har shaam ho
+diivaano.n kii tarah mai.n har jagah bas teraa naam likhane lagaa
+havaa_o.n pe likhaa hai fizaa_o.n pe likhaa hai
+likha hai dha.Dakano.n pe nigaaho.n pe likhaa hai
+teraa naam sajanaa teraa naam
+
+saath chho.De.nge na ham kabhii chhuu ke khaate hai.n tumako qasam
+bhuul jaa_e.n na vaadaa kisii haal me.n chaahe Dhaaye zamaanaa sitam
+merii paayal pe likhaa hai mere aa.nchal pe likhaa hai
+inhii.n gaharii gaharii aa.Nkho.n ke kaajal pe likhaa hai
+teraa naam sajanaa teraa naam
+diivaaro.n pe likhaa hai \threedots
+%
+#endindian
+\endsong
+

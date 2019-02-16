@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye dil mohabbat me.n haar duu.N}%
+\film{Yeh Raaste Hain Pyaar Ke}%
+\year{2001}%
+\starring{Ajay Devgan, Madhuri Dixit, Preity Zinta}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye dil mohabbat me.n haar duu.N
+ye jaan bhii tujhape vaar duu.N
+aa.Nchal me.n tere samaa naa sake
+daaman me.n tere samaa naa sake
+mai.n tujhako itanaa pyaar duu.N
+ye dil mohabbat me.n \threedots
+
+saare zamaane kii daulate.n apanii mohabbat kii jannate.n
+rakh duu.N mai.n kadamo.n me.n tere khushiyaa.N tujhe beshumaar duu.N
+ye dil mohabbat me.n \threedots
+
+ham kis kadar khushanasiib hai.n ik duusare ke kariib hai.n
+dil chaahe is ik pal me.n sanam mai.n umr saarii guzaar duu.N
+terii mohabbat kaa shukriyaa tujhako du_aa_e.n hazaar duu.N
+sau baar ye zi.ndagii mile sau baar tujhape mai.n vaar duu.N
+tuu merii aa.Nkho.n ko nii.nd de mai.n tere dil ko karaar duu.N
+ye phuul kyaa tere saamane aa tujhako saarii bahaar duu.N
+puuchhe Kudaa kuchh maa.ng le mai.n naam teraa pukaar duu.N
+vikii he he he
+saaxii aa haa haa
+%
+#endindian
+\endsong
+

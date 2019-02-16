@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{zi.ndagii ke giit bhii gaa le Gam chhupaa ke muskuraa le}%
+\film{Ek Thaa Dil Ek Thi Dhadkan}%
+\year{1998}%
+\starring{Rajendra Kumar, Biswajeet, Inder Kumar, Arbaz, Isha Kopikar, Himani}%
+\singer{Abhijit}%
+\music{Anand Raj Anand}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek thaa dil ek thii dha.Dakan ye kinaaraa vo lahar
+ye saveraa pyaar kaa thaa husn kii ye dopahar
+haa.N tumane kabhii kyaa hai sunii un dono.n kii daastaa.n
+ho ho aahaa
+
+Gam ke nagar me.n kho gayaa jiivan TuuT gayaa dil Duubii ye dha.Dakan
+saagar se bhii jyaadaa gaharii vo unakii tanahaa_iyaa.n
+maranaa hai aasaan jiinaa hai mushkil
+paa ke bhii jaise paa_ii na ma.nzil
+samajhaa_uu.n kyaa kaise luTaa khvaabo.n kaa vo kaaravaa.n
+ek thaa dil ek thii dha.Dakan \threedots
+%
+#endindian
+\endsong
+

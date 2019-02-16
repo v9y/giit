@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sajanaa o sajanaa ... terii baaho.n me.n hai jannat merii ... jiinaa terii galii me.n}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, S P Balasubramaniam}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sajanaa o sajanaa
+sajanii o sajanii
+terii baaho.n me.n hai jannat merii pyaarii nayano.n kii do galiyaa.n terii
+jiinaa terii galii me.n
+sajanii o sajanii \threedots
+
+ye ra.ngii.n nazaare hai.n mastii ke ishaare hai.n
+o kahii.n duur chale.n baaho.n ke sahaare hai.n
+aramaan dil ke mil ke pukaare hai.n
+jiinaa terii galii me.n \threedots
+
+hamako kyaa zamaane se isake ruuTh jaane se
+baaz nahii.n aa_egaa ye diivaare.n uThaane se
+ham to mile.nge kisii bhii bahaane se
+jiinaa terii galii me.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{is parabat pe ... tum laakh chhupe ho mujhase}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Hariharan, Janaki}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar ishq aur mohabbat mohabbat mohabbat
+is parabat pe is patajha.D me.n phuul ko_ii khil jaa_e
+haa.N kabase usako Dhuu.NDh rahaa huu.N shaayad vo mil jaa_e
+haa.N tum laakh chhupe ho mujhase
+lekin maine Dhuu.NDh liyaa hai
+haa.N naam pataa is dil se tumhaaraa
+maine puuchh liyaa hai
+tum laakh chhupe ho \threedots
+
+kuchh sunatii ho naa kahatii ho
+tasviir sii bas chup rahatii ho
+jaan\-e\-man merii jaan ho tum
+lekin mujhase anjaan ho tum
+maine ik patthar kii muurat ko
+shaayad puuj liyaa hai
+tum laakh chhupe ho \threedots
+
+ye goraa goraa mukha.Daa hai
+yaa ko_ii chaa.Nd kaa Tuka.Daa hai
+ye pyaarii pyaarii aa.Nkhe.n hai.n
+yaa gaharii gaharii jhiile.n hai.n
+tum ye kyaa jaano in aa.Nkho.n me.n
+ko_ii Duub gayaa hai
+tum laakh chhupe ho \threedots
+%
+#endindian
+\endsong
+

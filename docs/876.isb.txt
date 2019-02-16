@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{jiivan ke din chhoTe sahii ham bhii ba.De dil vaale}%
+\film{Bade Dil Vala???}%
+\year{1983}%
+\starring{Rishi Kapoor, Tina Munim, Pran, Amjad Khan, Sarika}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Azra Bano <bano@charlie.ece.scarolina.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/03/1996
+% Credits: Pankaj Kakkar <pankaj@gradient.cis.upenn.edu>
+%          Vishal Ailawadhi <vishal@ucla.edu>
+%          Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Comments: Udit Narayan and Baby Preeti sang another version
+%
+\printtitle
+#indian
+%
+(jiivan ke din chhoTe sahii, ham bhii ba.De dil vaale
+ kal kii hame.n fursat kahaa.N, soche.n jo ham matavaale)	\-2
+
+jiine kaa ra.Ngiin mausam, ye khuubasuurat zamaanaa	\-2
+apane yahii chaar pal hai.n, aage hai kyaa kisane jaanaa
+jiinaa jise aataa hai vo iname.n hii mauj manaa le
+jiivan ke din \threedots
+
+ye zi.ndagii dard bhii hai, ye zi.ndagii hai davaa bhii	\-2
+dil to.Danaa hii na jaanaa, jaane ye dil jo.Danaa bhii
+is zi.ndagii kaa shukriyaa, sadake mai.n uupar vaale
+kal kii hame.n fursat kahaa.N, soche.n jo ham dil vaale
+jiivan ke din \threedots
+%
+#endindian
+\endsong
+%
+

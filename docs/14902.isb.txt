@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{hai naa bolo bolo ... paapaa ko mammii se}%
+\film{Andaaz}%
+\year{1971}%
+\starring{Shammi Kapoor, Hema Malini, Rajesh Khanna, Simi}%
+\singer{Rafi, Suman, Shushma Shreshtha, Pratibha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+hai naa bolo bolo \-3
+paapaa ko mammii se, mammii ko paapaa se, pyaar hai, pyaar hai
+
+paapaa mammii milate hai.n, chupake\-chupake ha.Nsate hai.n \-2
+jaane kyaa\-kyaa kahate hai.n, baate.n karate rahate hai.n
+paapaa mammii milate hai.n, chupake\-chupake ha.Nsate hai.n
+jaane kyaa\-kyaa kahate hai.n, baate.n karate rahate hai.n
+hai naa bolo bolo \-2
+paapaa ko mammii se, mammii ko paapaa se, pyaar hai, pyaar hai
+
+mammii terii achchhii hai, kitanii bholii\-bhaalii hai
+paapaa bhii to achchhe hai.n kitane pyaare\-pyaare hai.n
+
+mammii terii achchhii hai, kitanii bholii\-bhaalii hai
+paapaa bhii to achchhe hai.n kitane pyaare\-pyaare hai.n
+hai naa bolo bolo
+hai naa bolo bolo
+munnii bolo bolo
+diipuu bolo bolo
+paapaa ko mammii se, mammii ko paapaa se, pyaar hai, pyaar hai
+
+hai naa bolo bolo \-2
+paapaa ko diipuu se
+mammii ko munnii se
+pyaar hai, pyaar hai
+
+#endindian
+\endsong

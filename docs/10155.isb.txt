@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{##Hey You!## pahale pa.Dhaa_ii phir pyaar hogaa ... vo to Thiik hai magar vo}%
+\film{Aakhiri Raastaa}%
+\year{1986}%
+\starring{Amitabh Bachchan, Sridevi, Jayaprada}%
+\singer{S Janaki, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Hey You!## pahale pa.Dhaa_ii phir pyaar hogaa \-2
+ek baar nahii.n sau baar hogaa \-2
+are mujhase naa i.ntazaar hogaa
+aaj kaa sabak ab yaad ham kare.nge
+vo to Thiik hai magar vo kab kare.nge
+pahale pa.Dhaa_ii phir pyaar hogaa \threedots
+
+duniyaa me.n har chiiz se achchhaa bistar hotaa hai
+vaqt pe chaa.Nd jaagataa hai vaqt pe suuraj sotaa hai
+ham bhii vaqt dekhakar kaam sab kare.nge
+vo to Thiik hai magar \threedots
+
+ye pahalaa ##school## hai jo khulataa hai raat ko
+ek baat kaa ronaa hai tum mardo.n kii baat kaa
+saarii baat ham pa.Dhane ke baad tab kare.nge vo
+vo to Thiik hai magar \threedots
+%
+#endindian
+\endsong
+

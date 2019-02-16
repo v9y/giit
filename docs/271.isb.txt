@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{bamba_ii se aayaa meraa dost}%
+\film{Aap Ke Khaatir}%
+\year{1977}%
+\starring{Vinod Khanna, Rekha}%
+\singer{Bappi Lahiri}%
+\music{Bappi Lahiri}%
+\lyrics{Shaili Shailendra}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+miiThii hai mausambii to ka.Davaa hai karelaa
+maashuuq tere andar tuu hik tuu hik tuu bahaar kha.Delaa
+jaa jaa javaanii kabase hik kabase hik kabase bulaa rahii hai
+buDDhii ke chakkar me.n tuu kaaeku hik kaaeku hik kaaeku pa.Delaa
+
+bamba_ii se aayaa meraa dost, dost ko salAm karo \- 2
+rAt ko khAo piyo, din ko ArAm karo 
+vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah
+
+sab milake naacho gaao, chhuTTii hai mauj manaao \- 2
+are are sab milake naacho gaao, chhuTTii hai mauj manAo \- 2
+bamba_ii se aayaa meraa dost \threedots
+vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah
+
+gaye raajaa mahaaraajaa, ab sab tujha maajhaa \- 2
+are are milake bajaao baajaa, halavaa khaao taajaa \- 2
+sabhii amiir bano, gariibii duur karo
+raat ko khaao piyo, din ko aaraam karo
+bamba_ii se aayaa meraa dost \threedots
+vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah vaah
+
+ab naa koI ho ka.Dakaa, naa koI paise vaalaa \- 2
+are are naache.nge sab milake, jiijaa ho yaa saalaa \- 2
+chho.Do kaale dhandhe, safed kaam karo
+raat ko khaao piyo, din ko aaraam karo
+bamba_ii se aayaa meraa dost, dost ko salaam karo \- 2
+raat ko khaao piyo, din ko aaraam karo 
+%
+#endindian
+\endsong
+%

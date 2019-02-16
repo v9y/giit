@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye to sach hai ke bhagavaan hai}%
+\film{Hum Saath Saath Hain/ We Stand United}%
+\year{1999}%
+\starring{Salman Khan, Saif Ali Khan, Mohanish Behl, Tabu, Karisma Kapoor, Sonali Bendre}%
+\singer{Hariharan, Ghanshyam Vasvani, Pratima Rao, Santosh Tiwari}%
+\music{Ram Laxman}%
+\lyrics{Ravindra Rawal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye to sach hai ke bhagavaan hai hai magar phir bhii anjaan hai
+dharatii pe ruup maa.N baap kaa us vidhaataa kii pahachaan hai
+ye to sach hai ke \threedots
+
+janmadaataa hai.n jo naam jinase milaa
+thaamakar jinakii u.ngalii hai bachapan chalaa
+o kaa.ndhe par baiThake jinake dekhaa jahaa.n
+GYaan jinase milaa kyaa buraa kyaa bhalaa
+itane upakaar hai.n kyaa kahe.n ye bataanaa na aasaan hai
+dharatii pe ruup \threedots
+
+janm detii hai jo maa.N jise jag kahe
+apanii sa.ntaan me.n praaN jisake rahe.n
+o loriyaa.n ho.nTho.n par sapane bunatii nazar
+nii.nd jo vaar de ha.Ns ke har dukh sahe
+mamataa ke ruup me.n hai prabhuu aapase paayaa varadaan hai
+dharatii pe ruup \threedots
+
+aapake khvaab ham aaj hokar javaa.n
+us param shakti se karate hai.n praarthanaa
+o inakii chhaayaa rahe rahatii duniyaa talak
+ek pal rah sake.n ham na jinake binaa
+aap dono.n salaamat rahe.n sabake dil me.n ye aramaan hai
+dharatii pe ruup \threedots
+%
+#endindian
+\endsong
+

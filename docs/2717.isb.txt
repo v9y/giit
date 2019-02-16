@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{terii tasaviir mil gayii}%
+\film{Betaab}%
+\year{1980}%
+\starring{Sunny Deol, Amrita Singh}%
+\singer{Shabbir Kumar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ye merii zi.ndagii bejaan laash thii
+baraso.n se pyaar ko terii talaash thii
+bas aaj merii khoyii taqadiir mil gayii
+terii tasaviir mil gayii \threedots
+
+ab ke bahaar me.n is i.ntazaar me.n
+dil kaa vo haal thaa, mushakil ye saal thaa
+diivaane ke liye ik za.njiir mil gayii
+terii tasaviir mil gayii \threedots
+
+tasaviir me.n magar ye kaun hai bataa
+is ko zaraa uThaa mujhako yahaa.N biThaa
+kyaa kaam is kaa raa.Njhe ko hiir mil gayii
+terii tasaviir mil gayii \threedots
+
+aayii hai TuuT kar is par javaaniyaa.N
+bachapan kii hai magar saarii nishaaniyaa.N
+mere hasiin Kvaabo.n kii taabiir mil gayii
+terii tasaviir mil gayii \threedots
+%
+#endindian
+\endsong
+%

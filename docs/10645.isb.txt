@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{ek baar dharatii par aakar dekh zaraa bhagavaan}%
+\film{Banjaarin}%
+\year{1960}%
+\starring{Kanchan Kamini, Manhar Desai, Lalita Kumari,  Sundar, Indira Bansal}%
+\singer{Mukesh}%
+\music{Pardesi}%
+\lyrics{Pt. Madhur}%
+%
+% Contributor: BOL ANAMOL #10306 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu :\	ek baar dharatii par aakar dekh zaraa bhagavaan
+	tere haatho.n aaj hu_aa barabaad teraa insaan
+	dekh zaraa bhagavaan
+ko \:	aakar dekh zaraa bhagavaan \-2
+
+	zulm kiyaa kyo.n paalanahaare chitaa ban ga_ii hai dvaare\-dvaare
+	maa.N kii godii aaj banii hai ek jalataa shamshaan
+	dekh zaraa bhagavaan
+ko \:	aakar dekh zaraa bhagavaan \-2
+
+	bichha.D gayaa hai bahan se bhaa_ii dulhan kii TuuTii shahanaa_ii
+	haay pitaa ne marate dekhaa apanaa putr javaan
+	dekh zaraa bhagavaan
+ko \:	aakar dekh zaraa bhagavaan \-2
+
+	ma.ndir kii ro rahii diivaare.n maszid bhii ab yahii pukaare
+	vahii hai dharatii vahii gagan hai kahaa.N teraa iimaan
+	dekh zaraa bhagavaan
+ko \:	aakar dekh zaraa bhagavaan \-2
+
+	teraa dekhaa Kuub tamaashaa palaT gayaa qismat kaa paasaa
+	badal Daal ab naam tuu apanaa o rahabar rahamaan
+	dekh zaraa bhagavaan
+	ek baar dharatii par \threedots
+
+ko \:	aakar dekh zaraa bhagavaan \-2
+%
+#endindian
+\endsong
+

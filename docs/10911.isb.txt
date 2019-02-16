@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{ye raat hai pyaasii\-pyaasii pyaasii naa guzar jaa_e}%
+\film{Chhoti Bahu}%
+\year{1971}%
+\starring{Sharmila Tagore, Rajesh Khanna, Nirupa Roy, Shashikala I S Jauhar}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Kaifi Aazmi}%
+%
+% Contributor: BOL ANAMOL #11153 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( ye raat hai pyaasii\-pyaasii ) \-2 pyaasii naa guzar jaa_e
+( tum baa.Nho.n me.n aa jaa_o ) \-2 yaa vaqt Thahar jaa_e
+ye raat hai \threedots
+
+na_ii aag dil ko jalaane lagii hai machalanaa sikhaane lagii hai
+javaa.N pyaar qaabuu me.n kaise rahegaa ke a.nga.Daa_ii aane lagii hai
+ye palake.n uThaa_o ye nazare.n milaa_o mastii bikhar jaa_e
+ye raat hai \threedots
+
+ka_ii ra.ng dekhe tumhaare labo.n me.n kaho to ko_ii ham churaa le.n
+zaraa shoK kar le.n ye saadaa saa jiivan javaanii ko ra.ngii.n banaa le.n
+ye aa.Nkhe.n na phero ye zulfe.n bikhero duniyaa sa.Nvar jaa_e
+ye raat hai \threedots
+%
+#endindian
+\endsong
+

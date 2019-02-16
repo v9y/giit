@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{pyaar kii ma.nzil mast safar tum ho hasii.n}%
+\film{Ziddi}%
+\year{1964}%
+\starring{Asha Parekh, Joy Mukherjee}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10442 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+pyaar kii ma.nzil mast safar tum ho hasii.n ham hai.n javaa.N
+saamane tum ho phir bhii hame.n hosh nahii.n ham hai.n kahaa.N
+pyaar kii ma.nzil \threedots
+
+yuu.N hii sataa_uu.Ngaa din aur raat
+jab tak na dogii tum haatho.n me.n haath \-2
+ye zid bhii hai kitanii hamako dekhanaa hai
+pyaar kii ma.nzil \threedots
+
+dam se hamaare hai tum par bahaar
+ehasaan maano jo kiyaa tumase pyaar \-2
+jalave to laakho.n hai.n kaun puuchhataa hai
+pyaar kii ma.nzil \threedots
+
+maano yaa na maano jii tum ho hasii.n
+ajii dil kii baato.n kaa kar lo yaqii.n \-2
+mere dil ko tere dil se pyaar ho gayaa hai
+pyaar kii ma.nzil \threedots
+%
+#endindian
+\endsong
+

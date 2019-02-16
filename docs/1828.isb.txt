@@ -1,0 +1,71 @@
+% 
+\startsong
+\stitle{u.De.n jab jab zulfe.n terii, ku.Nvaariyo.n kaa dil machale}%
+\film{Naya Daur}%
+\year{1957}%
+\starring{Dilip Kumar, Vyjayantimala, Ajit}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+% 
+% Contributor: Sandeep S Bajwa <ssbst3+@pitt.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+aashaa:   
+       u.De.n jab jab zulfe.n terii \- 2 
+       ho, u.De.n jab jab zulfe.n terii \- 2 
+       ku.Nvaariyo.n kaa dil machale \-2
+       jind meriye
+rafii:
+       ho.n jab aise chikane chehare \- 2
+       to kaise na nazar phisale \-2
+       jind meriye
+aashaa:
+       ho, rut pyaar karan kii aaii \- 2
+       ke beriyo.n ke ber pak gaye \- 2
+       ji.nd meriye
+rafii:
+       kabhii Daal idhar bhii pheraa \- 2
+       ke tak\-tak nain thak gaye \-2
+       jind meriye
+aashaa:
+       ho, us gaa.Nv se sa.Nvar kabhii sadqe \- 2
+       ke jahaa.N meraa yaar basataa \- 2
+       ji.nd meriye
+rafii:
+       paanii lene ke bahaane aajaa \- 2
+       ke teraa meraa ik rastaa \-2
+       jind meriye
+rafii:
+       ho, tujhe chaa.Nd ke bahaane dekhuu.N \- 2
+       tuu chhat par aajaa goriye \- 2
+       ji.nd meriye
+aashaa:
+       abhii chhe.De.nge galii ke sab la.Dake \- 2
+       ke chaa.Nd bairii chhip jaane de \-2
+       jind meriye
+rafii:
+       ho, terii chaal hai naagin jaisii\- 2
+       re jogii tujhe le jaaye.nge \- 2
+       ji.nd meriye
+aashaa:
+       jaaye.N kahii.n bhii magar ham sajanaa \- 2
+       yah dil tujhe de jaaye.nge \-2
+       jind meriye
+
+## Fragment of another song by Rafi, often found appended to this song ##
+o, dil deke dagaa de.nge,
+yaar hai.n matalab ke,
+ye de.nge to kyaa de.nge
+
+duniyaa ko dikhaa de.nge
+yaaro.n ke pasiine par ham
+Kuun bahaa de.nge 
+%
+#endindian
+\endsong
+%

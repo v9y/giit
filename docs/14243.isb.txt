@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{tujhe chaa.Nd kahuu.N yaa phuul kahuu.N}%
+\film{Sunehri Nagin}%
+\year{1963}%
+\starring{Mahipal, Helen, Ulhas}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Farooq Kaisar}%
+%
+% Contributor: BOL ANAMOL #10933 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	tujhe chaa.Nd kahuu.N yaa phuul kahuu.N
+	mere pyaar kaa ko_ii naam nahii.n haay naam nahii.n
+la \:	mai.n terii nazar me.n bas jaa_uu.N
+	duniyaa se mujhe ko_ii kaam nahii.n haay kaam nahii.n
+
+mu \:	zulfo.n kii chamak ye kahatii hai
+	tuu ko_ii sunaharii naagin hai
+la \:	har saa.Ns me.n sholaa ta.Dape hai
+	har giit me.n dil kii dha.Dakan hai
+mu \:	aa.Nkho.n me.n nashaa saa chhaayaa hai
+	aur haath me.n mere jaam nahii.n haay jaam nahii.n
+la \:	mai.n terii nazar \threedots
+
+	do\-chaar gha.Dii kaa milanaa ye
+	ab saarii umar kaa bandhan hai
+mu \:	tum naam vafaa kaa lete ho
+	duniyaa to vafaa kii dushman hai
+la \:	do pyaar bhare dilavaalo.n ko
+	duniyaa me.n kahii.n aaraam nahii.n
+mu \:	tujhe chaa.Nd kahuu.N \threedots
+la \:	mai.n terii nazar \threedots
+%
+#endindian
+\endsong
+

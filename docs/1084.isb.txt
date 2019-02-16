@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{machalatii huii havaa me.n chham chham}%
+\film{Ganga Ki Lahren}%
+\year{1964}%
+\starring{Dharmendra, Savitri, Kum Kum, Kishore}%
+\singer{Kishore, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/10/1997
+%
+\printtitle
+#indian
+%
+la: aa aa aa, aa aa
+ki: o ho ho, ho ho
+    (machalatii huii, havaa me.n chham chham
+     hamaare sa.ng sa.ng chale.n ga.Ngaa kii lahare.n)	\- 2
+la: o, zamaane se kaho, akele nahii.n ham
+    hamaare sa.ng sa.ng chale.n ga.Ngaa kii lahare.n
+koras: zamaane se kaho \threedots
+
+ki: (hariyaalii sii, chhaa jaatii hai
+     chhaa.Nv me.n in ke aa.Nchal kii)	\- 2
+la: sar ko jhukaa ke, naam lo in ke
+    ye to hai shaktii nirabal kii
+    himaalay ne bhii chuume hai.n in ke qadam
+koras: machalatii huii, \threedots
+     zamaane se kaho \threedots
+
+la: (sukh me.n Duubaa, tan man us kaa
+     aayaa jo in ke aa.Ngan me.n)	\- 2
+ki: pyaar kaa pahalaa, darpan dekhaa
+    duniyaa ne in ke darshan me.n
+    ke yuu.N hii nahii.n khaate ham in kii qasam
+koras: zamaane se kaho \threedots
+    machalatii huii \threedots
+
+ki: (saath diyaa hai, in laharo.n ne
+     jab sab ne mu.Nh pher liyaa)	\- 2
+la: aur kabhii jab, Gam kii jalatii
+    dhuup ne ham ko gher liyaa
+    to aao in ke hii qadamo.n me.n jhuk jaae.n ham
+koras: machalatii huii \threedots
+    zamaane se kaho \threedots
+%
+#endindian
+\endsong
+%
+

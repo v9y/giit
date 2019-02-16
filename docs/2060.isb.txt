@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{dil tujhe diyaa thaa rakhane ko}%
+\film{Malhaar}%
+\year{1951}%
+\starring{Shammi, Arjun, Moti Sagar}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Kaif Irfani}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+dil tujhe diyaa thaa rakhane ko
+tuune dil ko jalaa ke rakh diyaa
+qisamat ne de ke pyaar mujhe
+meraa dil ta.Dapaa ke rakh diyaa
+
+bha.Nvare kii labo.n par fariyaade.n
+kaliyo.n ke labo.n par musakaane.n
+bha.nvare ka kalejaa kaliyo.n me.n
+haay! kisane chhupaa ke rakh diyaa
+qisamat ne de ke pyaar   \threedots
+
+jis dad.r se duniyaa Daratii hai
+jis Gam se kinaaraa karatii hai
+terii nazar ne mere siine me.n
+vo dad.r chhupaa ke rakh diyaa
+qisamat ne de ke pyaar   \threedots
+
+jab dil me.n tumhe.n basaayaa thaa
+aashaa kaa diip jalaayaa thaa
+taqadiir ke ek hii jho.nke ne
+vo diip bujhaa ke rakh diyaa
+qisamat ne de ke pyaar   \threedots
+
+%
+#endindian
+\endsong
+%

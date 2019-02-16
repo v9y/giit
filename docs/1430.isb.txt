@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{phir kahii.n, koii phuul khilaa, chaahat naa kaho usako}%
+\film{Anubhav}%
+\year{1971}%
+\starring{Sanjeev Kumar, Tanuja}%
+\singer{Manna De}%
+\music{Kanu Roy}%
+\lyrics{Kapil Kumar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Prince Kohli (pkohli@cc.gatech.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+phir kahii.n koI phuul khilaa, chaahat naa kaho usako    \- 2
+phir kahii.n koI diip jalaa, ma.nzil naa kaho usako
+phir kahii.n \threedots
+
+man kaa samu.ndar pyaasaa huaa, kyuu.N kisii se maa.Nge duaa   \- 2
+laharo.n kaa lagaa jo melaa, tuufaa.n naa kaho usako
+phir kahii.n \threedots
+
+dekhe.n sab vo sapane, khud hii sajaae jo hamane    \- 2
+dil unase bahal jaae to, raahat naa kaho usako
+phir kahii.n \threedots
+%
+#endindian
+\endsong
+%

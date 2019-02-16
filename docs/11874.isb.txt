@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{priit jagaa ke miit banaa ke bhuul na jaanaa}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Balraj Sahni}%
+\singer{Rafi, Lata}%
+\music{Mohammed Shafi}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10329 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	priit jagaa ke miit banaa ke bhuul na jaanaa
+ra \:	suno jii bhuul naa jaanaa
+	priit jagaa ke miit banaa ke bhuul na jaanaa
+la \:	suno jii bhuul naa jaanaa
+
+ra \:	ho samaa.N hai pyaar kaa rut hai suhaanii
+la \:	dulhan banii hai raat kii raanii \-2
+ra \:	jiivan biinaa jab tak baaje ho yuu.N hii hilamil gaanaa
+la \:	suno jii bhuul naa jaanaa
+
+	phuul na kumhalaa jaa_e khil ke \-2
+ra \:	ho naa judaa ( aapas me.n mil ke )  \-2
+la \:	dha.Dakan ban ke dil me.n rahanaa aa.Nkho.n me.n bas jaanaa
+ra \:	suno jii bhuul naa jaanaa
+
+ra \:	aa badal naa jaanaa jag ke Dar se
+la \:	bane hai.n saathii jiivan bhar ke \-2
+ra \:	priit kii dushman hai ye duniyaa ho duniyaa ko Thukaraanaa
+la \:	suno jii bhuul naa jaanaa
+do \:	priit jagaa ke \threedots
+%
+#endindian
+\endsong
+

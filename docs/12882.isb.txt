@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{hame.n phuulo.n kii tarah dil me.n sajaakar rakhanaa}%
+\film{Mehboob Mere Mehboob}%
+\year{1992}%
+\starring{Pratibha Sinha, Boy Mukherjee, Aloknath, Beena, Ishita, Gulshan}%
+\singer{Anuradha Paudwal}%
+\music{Ram Laxman}%
+\lyrics{Dilip Tahir}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hame.n phuulo.n kii tarah dil me.n sajaakar rakhanaa
+ham tumhaare hai.n hame.n apanaa banaakar rakhanaa
+hame.n phuulo.n kii tarah \threedots
+
+na_e a.ndaaz me.n yuu.n khud ko sazaa dii jaa_e
+zi.ndagii aapake kadamo.n me.n bichhaa dii jaa_e
+zi.ndagii bhar hame.n siine se lagaa kar rakhanaa
+ham tumhaare hai.n \threedots
+
+khaaq banakar terii raaho.n me.n bikhar jaa_e.nge
+terii nazaro.n se judaa ho.nge to mar jaa_e.nge
+pyaar kaa diip sadaa dil me.n jalaakar rakhanaa
+ham tumhaare hai.n \threedots
+%
+#endindian
+\endsong
+

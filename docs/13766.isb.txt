@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{phuul maa.nguu.n naa bahaar maa.nguu.n mai.n to sanam teraa pyaar maa.nguu.n}%
+\film{Raajaa}%
+\year{1995}%
+\starring{Sanjay Kapoor, Madhuri Dixit}%
+\singer{Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+phuul maa.nguu.n naa bahaar maa.nguu.n
+mai.n to sanam teraa pyaar maa.nguu.n
+chain maa.nguu.n na karaar maa.nguu.n
+mai.n to sanam teraa pyaar maa.nguu.n
+phuul maa.nguu.n naa bahaar \threedots
+
+jo bhii chhupaayaa thaa is dil me.n maine tujhako bataayaa
+raaz\-e\-mohabbat maine bhii tumase kabhii na chhupaayaa
+kaisii hotii hai lagii mujhako tuu bataa
+isame.n hai.n bechainiyaa.n isame.n hai nashaa
+hosh maa.nguu.n yaa khumaar maa.nguu.n
+mai.n to sanam teraa pyaar maa.nguu.n
+phuul maa.nguu.n naa bahaar \threedots
+
+haradam chaahe itanaa mujhe hogaa na aisaa diivaanaa
+tere li_e mai.n jaan\-e\-jahaa.n chho.Duu.n saaraa zamaanaa
+guzaregii bhalaa kaise tanhaa zi.ndagii 
+ab to tere naam hai merii har khushii
+ruup maa.nguu.n na si.ngaar maa.nguu.n
+mai.n to sanam teraa pyaar maa.nguu.n
+phuul maa.nguu.n naa bahaar \threedots
+%
+#endindian
+\endsong
+
+

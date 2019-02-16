@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{chhe.Do na merii zulfe.n sab log kyaa kahe.nge}%
+\film{Ganga Ki Lahren}%
+\year{1964}%
+\starring{Dharmendra, Savitri, Kum Kum, Kishore}%
+\singer{Kishor, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10112 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	chhe.Do na merii zulfe.n ( sab log kyaa kahe.nge ) \-2
+ki \:	hamako diivaanaa tumako ( kaalii ghaTaa kahe.nge ) \-2
+la \:	chhe.Do na merii zulfe.n \threedots
+
+la \:	aatii hai sharm hamako roko ye pyaarii baate.n \-2
+ki \:	jo tumako jaanate hai.n vo jaanate hai.n tumhaarii ghaate.n
+	tum kah lo sharm isako ( ham to adaa kahe.nge ) \-2
+la \:	chhe.Do na merii zulfe.n \threedots
+
+ki \:	mai.n pyaar huu.N tumhaaraa meraa salaam le lo \-2
+la \:	tum isako pyaar samajho tum isako chaahat kaa naam de lo
+	lekin zamaane vaale ( isako Kataa kahe.nge ) \-2
+ki \:	hamako diivaanaa tumako \threedots
+
+la \:	taubaa merii nazar ke mastii bhare ishaare
+ki \:	dekhe.nge hamako tumako jo muskaraa ke sab nazaare
+la \:	ulfat me.n do dilo.n ko ( bahakaa hu_aa kahe.nge ) \-2
+ki \:	hamako diivaanaa tumako \threedots
+%
+#endindian
+\endsong
+

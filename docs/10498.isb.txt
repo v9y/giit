@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kahanaa hai jo dil se kaho ... mubhabbat ho ga_ii hai}%
+\film{Baadshaah}%
+\year{1999}%
+\starring{Shahrukh Khan, Twinkle Khanna}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o_e o_e o_e o_e
+kahanaa hai jo dil se kaho dilabar mere dil me.n raho
+muhabbat kii nahii.n hai muhabbat ho ga_ii hai
+ab Daranaa bhii kyaa o o
+sharaarat kii nahii.n hai sharaarat ho ga_ii hai
+ab karanaa bhii kyaa o o
+kahanaa hai jo \threedots
+
+duniyaa kii baato.n ko ye pagalaa nahii.n maanataa
+ye pyaar ho jaa_e kab ko_ii nahii.n jaanataa
+barfiile mausam me.n bhii sholaa bha.Dakane lage
+naa jaane kaise kahaa.n ye dil dha.Dakane lage
+muhabbat kii nahii.n \threedots
+
+diivaanagii ne terii majabuur itanaa kiyaa
+sochaa na samajhaa sanam sab kuchh tujhe de diyaa
+saa.Nso.n me.n garmii terii dha.Dakan me.n teraa nashaa
+terii bhii chaahat me.n hai jaaduu ko_ii dilarubaa
+sharaarat kii nahii.n \threedots
+%
+#endindian
+\endsong
+

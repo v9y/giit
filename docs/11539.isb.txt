@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{suNo re suNo re bha_iinaa ke jogii hai kyuu.n jogii.Daa re}%
+\film{God Mother}%
+\year{1998}%
+\starring{Shabana Azami, Milind Gunaji, Nirmal Pandey}%
+\singer{Sanjiv Abhayankar}%
+\music{Vishal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suNo re suNo re bha_iinaa ke jogii hai kyuu.n jogii.Daa re
+phire kyuu.n baNaa ke aisaa haal
+
+hu_aa usakaa man kyuu.n bekal vo kyuu.n ghuume.n ja.ngal ja.ngal
+vo kyuu.n chho.D aayaa chaupaal o bha_iinaa re o viiraa re
+
+naa nii.nd aa_e usako raiNaa naa vo paa_e din me.n chaiNaa
+hai tan ek pi.njaraa jisame.n ye rahatii hai man kii mainaa
+na pi.njaraa rahe naa ko_ii jaal
+suNo re \threedots
+
+kise paap samajhe ko_ii kise puNya ko_ii maane
+ji_e kaise jogii jag me.n jo itanaa bhii vo na jaane
+kahe kyaa jo puuchhe man savaal
+suNo re \threedots
+%
+#endindian
+\endsong
+

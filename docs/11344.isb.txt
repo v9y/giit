@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{meraa to jo bhii qadam hai vo terii raah me.n hai}%
+\film{Dosti}%
+\year{1964}%
+\starring{Sushil Kumar, Sudhir Kumar, Baby Farida, Uma, Sanjay Khan}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10949 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+( meraa to jo bhii qadam hai
+wo terii raah me.n hai ) \-2
+ke tuu kahii.n bhii
+ke tuu kahii.n bhii rahe
+tuu merii nigaah me.n hai
+
+meraa to jo bhii qadam hai
+wo terii raah me.n hai
+ke tuu kahii.n bhii rahe
+tuu merii nigaah me.n hai
+
+( kharaa hai dard kaa riishataa
+to phir judaa_ii kyaa ) \-2
+judaa to hote hai.n wo
+khoT jinakii chaah me.n hai
+
+meraa to jo bhii qadam hai
+wo terii raah me.n hai
+ke tuu kahii.n bhii rahe
+tuu merii nigaah me.n hai
+
+( chhupaa hu_aa saa mujhii me.n
+hai tuu kahii.n ai dost ) \-2
+merii ha.Nsii me.n nahii.n hai
+to merii aah me.n hai
+
+meraa to jo bhii qadam hai
+wo terii raah me.n hai
+ke tuu kahii.n bhii
+ke tuu kahii.n bhii rahe
+tuu merii nigaah me.n hai
+
+meraa to jo bhii qadam hai
+wo terii raah me.n hai
+ke tuu kahii.n bhii rahe
+tuu merii nigaah me.n hai
+%
+#endindian
+\endsong
+

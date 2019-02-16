@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dil kii lagii ne ham ko}%
+\film{Paras}%
+\year{1949}%
+\starring{Kamini Kaushal,Madhubala,Rehman}%
+\singer{Rafi}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:24 June,2001
+% Comments:GEETanjali
+%
+\printtitle
+#indian
+%
+dil kii lagii ne ham ko \-2
+diivaanaa kar ke chho.Daa \-2
+duniyaa kii har khushii se \-2
+begaanaa kar ke chho.Daa \-2
+
+(taqadiir ban ke biga.Dii
+aramaan hue naa puure)\-2
+jo khvaab ham ne dekhe
+sab rah gaye adhuure \-2
+dil ke chaman ko Gam ne \-2
+viiraanaa kar ke chho.Daa \-2
+
+roye.nge sunane vaale \-2
+sun\-sun ke ye kahaanii \-2
+roye.nge sun ne vaale
+sun\-sun ke ye kahaanii \-2
+duniyaa ne do dilo.n kii
+ik baat bhii naa maanii \-2
+ulfat kii zi.ndagii ko \-2
+afasaanaa kar ke chho.Daa \-2
+dil kii lagii ne ham ko \-2
+diivaanaa kar ke chho.Daa \-2
+
+%
+#endindian
+\endsong
+%

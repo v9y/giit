@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{jaanaa thaa hamase duur, bahaane banaa liye}%
+\film{Adaalat}%
+\year{1958}%
+\starring{Nargis}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu), Neha Desai
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaanaa thaa hamase duur, bahaane banaa liye
+ab tumane kitanii duur, Thikaane banaa liye
+jaanaa thaa \threedots
+
+ruKasat ke vaqt tumane jo aa.Nsuu hame.n diye
+un aa.Nsuo.n se hamane, fasaane banaa liye
+ab tumane kitanii duur, Thikaane banaa liye
+jaanaa thaa \threedots
+
+dil ko mile jo daaG jigar ko mile jo dard
+un daulato.n se hamane khazaane banaa liye
+ab tumane kitanii duur, Thikaane banaa liye
+jaanaa thaa \threedots
+%
+#endindian
+\endsong
+%

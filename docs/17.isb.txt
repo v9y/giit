@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aa lauT ke aajaa mere miit, tujhe mere giit bulaate hai.n}%
+\film{Rani Roopmati}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy}%
+\singer{Lata / Mukesh}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc
+%          Prashant Kulkarni (praskulk@engin.umich.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa lauT ke aajaa mere miit tujhe mere giit bulaate hai.n
+meraa suunaa pa.Daa re sa.ngiit tujhe mere giit bulaate hai.n
+
+barase gagan mere barase nayan dekho tarase hai man ab to aajaa
+shiital pavan ye lagaae agan
+o sajan ab to mukha.Daa dikhaa jaa
+tuune bhalii re nibhaaii priit
+tuune bhalii re nibhaaii priit tujhe mere giit bulaate hai.n
+aa lauT\threedots
+
+ek pal hai ha.Nsanaa ek pal hai ronaa kaisaa hai jiivan kaa khelaa
+ek pal hai milanaa ek pal bichha.Danaa
+duniyaa hai do din kaa melaa
+ye gha.Dii na jaae biit
+ye gha.Dii na jaae biit tujhe mere giit bulaate hai.n
+aa lauT\threedots
+%
+#endindian
+\endsong
+%

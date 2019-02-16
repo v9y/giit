@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aaj puraanii raaho.n se, koii mujhe aavaaz na de}%
+\film{Aadmi}%
+\year{}%
+\starring{Dilip Kumar, Waheeda Rehman, Manoj Kumar}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aaj puraanii raaho.n se, koI mujhe aavaaz na de
+dard me.n Duube giit na de, gam kaa sisakataa saaz na de
+
+biite dino.n kii yaad thii jiname.n, mai.n vo taraane bhuul chukaa
+aaj na_ii ma.nzil hai merii, kal ke Thikaane bhuul chukaa
+na vo dil na sanam, na vo diin\-dharam
+ab duur huu.N saare gunaaho.n se
+
+jiivan badalaa duniyaa badalii, man ko anokhaa GYaan milaa
+aaj mujhe apane hii dil me.n, ek nayaa inasaan milaa
+pahu.Nchaa huu.N vahaa.N, nahii.n duur jahaa.N, bhagavaan kii nek nigaaho.n se
+
+TuuT chuke sab pyaar ke ba.ndhan, aaj koii za.njiir nahii.n
+shiishaa\-e\-dil me.n aramaano.n kii, aaj koii tasviir nahii.n
+ab shaad huu.N mai.n, aazaad huu.N mai.n, kuchh kaam nahii.n hai aaho.n se
+%
+#endindian
+\endsong
+%

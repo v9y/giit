@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tumhaarii bhii jay\-jay ... na tum haare na ham haare}%
+\film{Diwana}%
+\year{1967}%
+\starring{Raj Kapoor, Saira Bano, Kanhaiyyalal}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11051 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tumhaarii bhii jay\-jay hamaarii bhii jay\-jay
+na tum haare na ham haare
+safar saath jitanaa thaa ho hii gayaa
+na tum haare \threedots
+
+yaad ke phuul ko ham to apane dil se rahe.nge lagaa_e
+aur tum bhii ha.Ns lenaa jab ye diivaanaa yaad aa_e
+mile.nge jo phir se milaa de.n sitaare
+na tum haare \threedots
+
+vaqt kahaa.N rukataa hai to phir tum kaise ruk jaate
+aaKir kisane chaa.Nd ko chhu_aa hai ham kyo.n haath ba.Dhaate
+jo us paar ho tum ham is kinaare
+na tum haare \threedots
+
+thaa to bahut kahane ko lekin ab to chup behatar hai
+ye duniyaa hai ek saraay jiivan ek safar hai
+rukaa bhii hai ko_ii kisii ke pukaare
+na tum haare \threedots
+%
+#endindian
+\endsong
+

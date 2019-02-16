@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{dil lagaakar aapase pachhataa rahe hai.n jaan\-e\-man}%
+\film{Around The World}%
+\year{1967}%
+\starring{Raj Kapoor, Rajashri, Ameeta, Pran}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11047 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+dil lagaakar aapase pachhataa rahe hai.n jaan\-e\-man
+pyaar karane kii sazaa ham paa rahe hai.n jaan\-e\-man
+
+aa.Nkh kuchh aisii la.Dii naukarii karanii pa.Dii
+aa ga_e baato.n me.n ham dil me.n chhuuTii phulajha.Dii
+haay ham to pha.Ns ga_e ghabaraa rahe hai.n jaan\-e\-man
+pyaar karane kii \threedots
+
+dil to pahale de diyaa dilabar apane ho chuke
+paas jo puu.Njii bachii haay vo bhii kho chuke \-2
+ham to apane haal par sharamaa rahe hai.n jaan\-e\-man
+pyaar karane kii \threedots
+%
+#endindian
+\endsong
+

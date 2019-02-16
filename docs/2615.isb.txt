@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{kachchii hai umariyaa korii hai chunariyaa}%
+\film{Char Dil Char Rahen}%
+\year{1960}%
+\starring{Raj Kapoor, Meena Kumari, Shammi Kapoor}%
+\singer{Meena Kapoor, chorus}%
+\music{Anil Biswas}%
+\lyrics{Sahir}%
+%
+% Contributor: 
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+kachchii hai umariyaa, korii hai chunariyaa
+mohe bhii ra.ng detaa jaa
+mohe bhii ra.ng detaa jaa more sajanaa
+mohe bhii ra.ng detaa jaa
+
+pag morii bahake a.ng morii dahake
+kabhii to sudh letaa jaa
+kabhii to sudh letaa jaa more sajanaa
+kabhii to sudh letaa jaa
+
+agan lagaaye lagan lagaaye
+ye madamaatii gha.Diyaa.N
+ye madamaatii gha.Diyaa.N
+tan bhii sambhaalaa man bhii sambhaalaa
+sambhale na naino.n kii jha.Diyaa.N
+sambhale na naino.n kii jha.Diyaa.N
+gaaye.n morii sakhiyaa.N
+roye morii akhiyaa.N
+kabhii to sudh letaa jaa \threedots
+
+kah bhii na paa_uu.N rah bhii na paa_uu.N
+priit kaa dard chhupaake
+priit kaa dard chhupaake
+ra.ng ras barase, jiyaa moraa tarase
+tapan bujhaa jaa aa ke
+tapan bujhaa jaa aa ke
+chaahe kaun sukh hai
+mohe teraa dukh hai
+kabhii to sudh letaa jaa \threedots
+
+%
+#endindian
+\endsong
+%

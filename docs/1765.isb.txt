@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{tum jo aao to pyaar aa jaae}%
+\film{Sakhi Robin}%
+\year{1962}%
+\starring{Ranjan, Shalini}%
+\singer{Manna De, Suman Kalyanpur}%
+\music{Robin Banerjee}%
+\lyrics{Yogesh}%
+% 
+% Contributor: Roopa <RXD15@psuvm.psu.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/17/1996
+% Credits: Ashok Dhareshwar <ADhareshwar@WorldBank.org>  
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu> 
+% Comments:
+%
+\printtitle
+#indian
+%
+tum jo aao to pyaar aa jaae
+zi.ndagii me.n bahaar aa jaae
+
+kyaa kahuu.N tumase kah nahii.n sakataa
+bin tumhaare mai.n rah nahii.n sakataa
+tumako Gar aitabaar aa jaae
+zi.ndagii me.n bahaar aa jaae
+
+dil pe mujhako to aitabaar nahii.n
+yah vo shay hai jise qaraar nahii.n
+dil pe Gar ikhtiyaar aa jaae
+zi.ndagii me.n bahaar aa jaae
+
+jab tamannaa shabaab par aae
+har taraf ik Kumaar saa chhaae
+zah\-e\-qismat jo yaar aa jaae
+zi.ndagii me.n bahaar aa jaae
+%
+#endindian
+\endsong
+%
+

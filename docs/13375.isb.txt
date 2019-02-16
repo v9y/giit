@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{haay samaa.n hai suhaanaa uf mausam diivaanaa sanam}%
+\film{Officer}%
+\year{2001}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Jaspindar Narula, Shaan}%
+\music{Deepak Choudhary}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay samaa.n hai suhaanaa uf mausam diivaanaa sanam
+haay yuu.n ruuThakar hamase naa duur jaanaa sanam
+aa_o kho jaa_e.n ki kho na jaa_e.n javaanii ke pal
+aa_o samaa jaa_o mujhame.n ek ho jaa_e.n ham
+jaan\-e\-jaa.n ##don't break my heart## tumhe.n kasam
+
+jaane bhii do abhii merii jaa.n maan lo
+tumhii.n pe dil meraa hai qurbaan lo
+tumhaare bin kahii.n jiinaa mujhe nahii.n
+jaanaa.n ye jaan lo yaa merii jaan lo
+haay samaa.n hai \threedots
+
+inhii.n adaa_o.n pe ye dil aa gayaa
+inhii.n nigaaho.n me.n ye dil kho chukaa
+ye meraa dil kabhii na tum to.Danaa
+ke meraa dil sanam tumhaaraa ho chukaa
+samaa.n hai \threedots
+
+jaanaa.n samaa jaa_o mujhame.n tumhe.n mere dil kii kasam
+%
+#endindian
+\endsong
+

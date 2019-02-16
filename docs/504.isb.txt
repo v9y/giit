@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{dil ke Tuka.De Tuka.De karake, muskuraate chal diye}%
+\film{Dada}%
+\year{1978}%
+\starring{Vinod Mehra, Bindiya Goswami, Pallavi Joshi}%
+\singer{Yesudas}%
+\music{Usha Khanna}%
+\lyrics{Kulvant Jani}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: Kodukula Induprakas (prakas@cs.cornell.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(dil ke Tuka.De Tuka.De karake 
+muskuraate chal diye ) \- (2)
+jaate jaate ye to bataa jaa
+ham jiye.nge kisake liye
+dil ke Tuka.De Tuka.De karake
+muskuraate chal diye
+
+chaa.nd bhii hogaa, taare bhii ho.nge
+duur chaman me.n pyaare bhii ho.nge
+lekin hamaaraa dil na lagegaa
+bhiigegii jab jab raat suhaanii
+aag lagaaegii R^itu mastaanii
+tuu hii bataa koii kaise jiyegaa
+dil ke maaro.n ko dil ke maalik
+Thokar lagaa ke chal diye
+dil ke Tuka.De \threedots
+
+ruuThe rahe.nge aap jo hamase
+mar jaae.nge ham bhii kasam se
+sunale haath chhu.Daane se pahale
+jaan hamaarii naam pe terii
+jaaegii jis din dilabar merii
+soch samajh le jaane se pahale
+yuu.n agar tum dil kii tamannaa
+ko miTaake chal diye
+dil ke Tuka.De \threedots
+%
+#endindian
+\endsong
+%

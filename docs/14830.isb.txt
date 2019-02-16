@@ -1,0 +1,38 @@
+% ITRANS SONG
+
+\startsong
+\stitle{raghukul riit ... aage raam\-lakhan ... bharat siil guruu}%
+\film{Bharat Milap}%
+\year{1942}%
+\starring{Prem Adeeb, Shahu Modak, Shobhna Samarth, Durga Khote}%
+\singer{G M Durrani}%
+\music{Shankar Rao Vyas}%
+\lyrics{Goswami Tulsidas}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+% chaupaa_ii 1
+
+raghukul riit sadaa chalii aa_ii \-2
+praaN jaaye.n aru bachan naa jaa_ii \-2
+
+% chaupaa_ii 2
+
+aage raam\-lakhan puni paachhe \-2
+saap saresh biraajat kaase
+ubhay biich siy sohat kaise \-2
+bramha viin dwit maayaa jaise
+
+% chaupaa_ii 3
+
+bharat siil guruu sachiv samaajuu
+sakuchat neh vivas raghuraajuu
+prabhu kari kripaa paa.Nvarii diinhii.n
+saadar bharat siish dharii liinhii.n
+
+#endindian
+\endsong

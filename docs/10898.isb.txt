@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kyo.n jhukii\-jhukii hai.n palake.n merii jaa.N ye baat kyaa hai}%
+\film{Chhaila Babu}%
+\year{1967}%
+\starring{Naaz, Subiraaj, Jeb Rahman, Ranjana Kadam}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11029 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	( kyo.n jhukii\-jhukii hai.n palake.n ) \-2 merii jaa.N ye baat kyaa hai
+la \:	mere dil mai.n kaise kah duu.N mujhe pyaar ho gayaa hai
+mu \:	kyo.n jhukii\-jhukii \threedots
+
+la \:	ye ghaTaa bhii aaj ham par motii luTaa rahii hai
+	hame.n dekh kar kalii bhii sar ko jhukaa rahii hai
+mu \:	mere dil kii baat sunane ye havaa bhii aa rahii hai
+la \:	ye gagan bhii dekhataa hai
+mu \:	dekhe to harj kyaa hai
+	kyo.n jhukii\-jhukii \threedots
+
+	ye sharam na hamase kiije ham bhii to hai.n tumhaare
+	kirano.n se maa.Ng bhar de.n kar do agar ishaare
+la \:	dil gaa rahaa hai naGamaa bas me.n nahii.n hamaare
+mu \:	mausam bhii jhuumataa hai
+la \:	jhuume.n to harj kyaa hai
+	mere dil mai.n kaise \threedots
+mu \:	kyo.n jhukii\-jhukii \threedots
+%
+#endindian
+\endsong
+

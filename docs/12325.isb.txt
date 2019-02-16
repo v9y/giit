@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere mere dil me.n jo hai ... khullam khullaa pyaar kare.n}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Jolly Mukherji, Sunidhi Chauhan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+tere mere dil me.n jo hai vo kahanaa hai
+tere binaa ab kahii.n bhii na rahanaa hai
+o tere mere dil me.n \threedots
+
+duniyaa se ham kyuu.N Dare.n khullam khullaa pyaar kare.n
+tere mere dil me.n \threedots
+
+aa.Nkho.n me.n terii aa.Nkho.n kaa nashaa
+baato.n me.n terii baato.n kaa nashaa
+tere ishq ne mujhako maaraa
+samajhuu.n mai.n teraa ishaaraa
+kyuu.n milake aahe.n bhare.n
+khullam khullaa pyaar kare.n \threedots
+
+maine vo sunaa tuune jo kahaa
+achchhaa na lage ab ye faasalaa
+meraa husn hai aashiqaanaa
+meraa ishq bhii hai diivaanaa
+kyuu.n milake tanhaa jale.n
+khullam khullaa pyaar kare.n \threedots
+%
+#endindian
+\endsong
+

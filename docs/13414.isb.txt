@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{milatii hai jhukatii hai sharmaatii hai ... ek nazar me.n}%
+\film{Pyaasa}%
+\year{2002}%
+\starring{Aftab Shivdasani, Yukta Mukhi, Julfi Saiyed}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Dabbu Malik}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+milatii hai jhukatii hai sharmaatii hai
+ek nazar me.n ek nazar yaar kii kyaa kyaa kar jaatii hai
+milatii hai \threedots
+
+bas ik nazar me.n itane nazaare dekhe na pahale kabhii
+kaise hote hai.n ye dil diivaane ye to ham jaane abhii
+chaahat hii dha.Dakan ko dha.Dakaatii hai
+haa.N milatii hai \threedots
+
+jabase milii hai.n tumase nigaahe.n kyaa dil kii haalat kahe.n
+yaa to kahe.n ham isako sharaarat yaa phir muhabbat kahe.n o
+samajho to nazar ye bhii samajhaatii hai
+milatii hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+`%
+\startsong
+\stitle{jaise raadhaa ne maalaa japii shyaam kii}%
+\film{Tere Mere Sapne}%
+\year{1971}%
+\starring{Dev, Mumtaz, Hema}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Ravi Kant Rai (rrai@plains.nodak.edu)
+%          Surajit Bose
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaise raadhaa ne maalaa japii shyaam kii \- 2
+mai.n ne o.Dhii chunariyaa tere naam kii
+tere naam kii ho piyaa, tere hii naam kii
+raadhaa ne \threedots
+
+priit kyaa ju.Dii
+priit kyaa ju.Dii, Dor kyaa ba.Ndhii
+binaa jatan binaa yatan ho gaii mai.n nayii
+binaa mol kii mai.n bikii, binaa daam kii
+raadhaa ne \threedots
+
+kyaa tara.ng hai
+kyaa tara.ng hai, kyaa uma.ng hai
+more a.Ng a.Ng rachaa pii kaa ra.ng hai
+sharm aaii, kaise kahuu.N baat shyaam kii
+raadhaa ne \threedots
+
+paa liyaa tujhe, paa liyaa
+paa liyaa tujhe, paaii har khushii
+chaahuu.N baar baar cha.Dhuu.N terii paalakii
+subah shaam kii ye pyaas ba.De kaam kii
+raadhaa ne \threedots
+
+%
+#endindian
+\endsong
+%

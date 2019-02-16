@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham tumhe.n itanaa pyaar kare.nge ... ki log hame.n yaad kare.nge}%
+\film{Bees Saal Baad}%
+\year{1988}%
+\starring{Mithun, Dimple, Meenakshi, Anupam Kher, Amjad, Shakti, Jagdeep}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham tumhe.n itanaa pyaar kare.nge
+ki log hame.n yaad kare.nge
+
+ham bhuule to ham harajaa_ii tum bhuuloo to tum harajaa_ii ho
+hamane aaj kiyaa ye vaadaa hamane aaj kasam uThaa_ii
+saath jiye.nge saath mare.nge
+ki log hame.n yaad kare.nge \threedots
+
+yaad tumhe.n ham kar ke soye naam tumhaaraa ham lekar jaage
+saarii duniyaa rah ga_ii piichhe aur nikal aaye ham aage
+ab duniyaa se ham na Dare.nge
+ki log hame.n yaad kare.nge \threedots
+
+na ko_ii Dar na ko_ii Gam dil me.n hameshaa pyaar kaa mausam
+is duniyaa me.n jii nahii.n lagataa chho.D ke is duniyaa ko ab ham
+ik duuje ke dil me.n rahe.nge
+ki log hame.n yaad kare.nge \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{badalii hai na badalegii ham ba.njaaro.n kii riit}%
+\film{Banjaaran}%
+\year{1991}%
+\starring{Rishi, Sridevi, Kulbhushan Kharbanda, Gulshan, Pran, Raza Murad}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+badalii hai na badalegii ham ba.njaaro.n kii riit
+dushman kahaa to dushman kahaa miit kahaa to miit
+badalii hai na badalegii \threedots
+
+parvat uu.Nche saagar gahare de nahii.n sakate pyaar par pahare
+pahare to.D ke rakh detii hai jisakaa naam hai priit
+badalii hai na badalegii \threedots
+
+rab ne banaa_ii apanii jo.Dii ye jo.Dii na jaa_e to.Dii
+ik jiivan pyaasaa hai kitane jiivan jaa_e.n biit
+badalii hai na badalegii \threedots
+
+phuul sitaare bas teraa hii dete hai.n sab merii gavaahii
+paayal ke ghu.ngharuu bhii gaate hai.n ye giit
+badalii hai na badalegii \threedots
+%
+#endindian
+\endsong
+

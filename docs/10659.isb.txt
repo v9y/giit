@@ -1,0 +1,27 @@
+
+%
+\startsong
+\stitle{kyaa Gam jo a.Ndherii hai.n raahe.n ik shammaa\-e\-tamannaa}%
+\film{Barsaat Ki Raat/ The Rainy Nights/ Saathi}%
+\year{1960}%
+\starring{Bharat Bhushan, Madhubala, Shyama, Chandrashekhar, K N Singh}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10482 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kyaa Gam jo a.Ndherii hai.n raahe.n ik shammaa\-e\-tamannaa saath to hai
+kuchh aur sahaaraa ho ki na ho haatho.n me.n tumhaaraa haath to hai
+
+kyaa jaane kitane diivaane ghar phuu.Nk tamaashaa dekh chuke
+jis pyaar kii dushman duniyaa hai us pyaar me.n ko_ii baat to hai
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{un ke khayaal aae to aate chale gae}%
+\film{Laal Pathhar}%
+\year{}%
+\starring{Raajkumar, Hema Malini, Rakhee, Vinod Mehra}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+un ke Kayaal aae to aate chale gae
+diivaanaa zi.ndagii ko banaate chale gae
+
+jo saa.ns aa rahii hai usii kaa payaam hai
+betaabiyo.n ko aur ba.Dhaate chale gae
+
+is dil se aa rahii hai kisii yaar kii sadaa
+viiraan meraa dil thaa basaate chale gae
+
+hosh\-o\-havaas pe mere bijalii sii gir pa.Dii
+mastii bharii nazar se pilaa ke chale gae
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,62 @@
+
+%
+\startsong
+\stitle{ramaiyaa raam ramaiyaa ... o mere kishan kanhaiyaa}%
+\film{Kaise Kahoon Ke... Pyaar Hai}%
+\year{2003}%
+\starring{Dharmendra, Amit Hingorani, Sharbani Mukherji, Sunny Deol}%
+\singer{Sukhwinder Singh}%
+\music{Viju Sha}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11757 [V S Rawat]
+% Producer: Kapleshwar Pictures, Arjun Hingorani, Director: Anil Kumar Sharma
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Soprano 40459, Cost: Rs 50/-, CD: 
+% 
+\printtitle
+#indian
+%
+ko \:	( ramaiyaa raam ramaiyaa
+	ramaiyaa kishan kanhaiyaa ) \-2
+su \:	( o mere kishan kanhaiyaa
+	o mere raam ramaiyaa ) \-2
+	pha.Nsii hai bhav\-saagar ke biich me.n aa ke ( is jiivan kii naiyaa ) \-2
+	( lagaa de paar khevaiyaa
+	o mere kishan kanhaiyaa ) \-2
+ko \:	( ramaiyaa raam ramaiyaa
+	ramaiyaa kishan kanhaiyaa ) \-2
+
+su \:	o satakarmo.n ke path pe chale.n ham duShkarmo.n se hamako bachaanaa
+	moh\-maayaa me.n bhaTak naa jaa_e.N hamako siidhii raah dikhaanaa
+	( ye jag hai bhuul\-bhulaiyaa
+	ek tuu raah dikhaiyaa ) \-2
+	pha.Nsii hai bhav\-saagar ke biich me.n aa ke ( is jiivan kii naiyaa ) \-2
+	( lagaa de paar khevaiyaa
+	o mere kishan kanhaiyaa ) \-2
+ko \:	( ramaiyaa raam ramaiyaa
+	ramaiyaa kishan kanhaiyaa ) \-2
+
+su \: o giradhaarii madan\-muraarii sab tere hii dar pe aate
+	ko_ii khaalii haath gayaa naa saare jholii bhar ke jaate
+	( gvaalo.n sa.ng gaay\-charaiyaa
+	suno balaraam kanhaiyaa ) \-2
+	pha.Nsii hai bhav\-saagar ke biich me.n aa ke ( is jiivan kii naiyaa ) \-2
+	( lagaa de paar khevaiyaa
+	o mere kishan kanhaiyaa ) \-2
+ko \:	( ramaiyaa raam ramaiyaa
+	ramaiyaa kishan kanhaiyaa ) \-2
+
+su \:	o sabake daataa bhaagy vidhaataa tuune sabakii biga.Dii banaa_ii
+	jisane tujhako dil se pukaaraa tuune sunii hai usakii duhaa_ii
+	( merii bhii sun le duhaiyaa
+	o mere raas\-rachaiyaa ) \-2
+	pha.Nsii hai bhav\-saagar ke biich me.n aa ke ( is jiivan kii naiyaa ) \-2
+	( lagaa de paar khevaiyaa
+	o mere kishan kanhaiyaa ) \-2
+ko \:	( ramaiyaa raam ramaiyaa
+	kanhaiyaa kishan kanhaiyaa ) \-12
+%
+#endindian
+\endsong
+

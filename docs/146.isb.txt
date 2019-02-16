@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{achchhii nahii.n sanam dillagii dil-e-beqaraar se}%
+\film{Raakhee Aur Hathkadi}%
+\year{1972}%
+\starring{Asha Parekh, Vijay Arora, Ashok Kumar}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/26/1996
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Comments:
+%
+\printtitle
+#indian
+%
+ki: achchhii nahii.n sanam dillagii dil\-e\-beqaraar se
+aa: kyo.n ro rahe ho chhe.Daa thaa hamane tumako to pyaar se
+ki: khel hii khel me.n jaaegii ek jaan
+aa: kyo.n ro rahe ho chhe.Daa thaa hamane tumako to pyaar se
+ki: achchhii nahii.n sanam dillagii dil\-e\-beqaraar se
+aa: pyaar ke khel me.n kaisaa dil kyaa jaan
+ki: achchhii nahii.n sanam dillagii dil\-e\-beqaraar se
+
+ki: kahate ho tum to yuu.N hii sahii ki ai mere hasiin
+aa: aa haahaahaa\threedots
+ki: saarii Kataa javaanii kii hai, qusuur aapakaa nahii.n
+    kar jaate ho sharaarat jab milate ho pyaar se
+aa: kyo.n ro rahe ho chhe.Daa thaa hamane tumako to pyaar se
+ki: achchhii nahii.n sanam dillagii dil\-e\-beqaraar se
+ 
+aa: chhe.Duu.N agar to shikavaa karo, na chhe.Duu.N to Gilaa
+    lagataa hai yuu.N ki tum aaj se diivaane hue piiyaa
+    hone lage zaraa me.n jo be\-iKtiyaar se
+ki: achchhii nahii.n sanam dillagii dil\-e\-beqaraar se
+aa: kyo.n ro rahe ho chhe.Daa thaa hamane tumako to pyaar se
+%
+#endindian
+\endsong
+%
+

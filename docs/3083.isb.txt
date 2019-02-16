@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{har shaam shaam\-e\-Gam hai}%
+\film{Meraa Salaam}%
+\year{1957}%
+\starring{Beena Rai, Bharat Bhushan, Durga Khote, Veena}%
+\singer{Talat}%
+\music{Hafiz Khan}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: dhananjay naniwadekar
+% Transliterator:
+% Date : 17 august 2002
+% Credits :
+% Comments:
+%
+\printtitle
+#indian
+%
+
+har shaam shaam\-e\-Gam hai
+har raat hai a.ndherii
+apanaa nahii.n hai ko_ii
+kyaa zi.ndagii hai merii
+
+Gam sahate sahate Gam kii
+(tasaviir ban gayaa huu.N) \- 2
+jaa ai bahaar\-e\-duniyaa
+haalat na puuchh merii
+kyaa zi.ndagii hai merii
+har shaam shaam\-e\-Gam hai
+
+saamaan\-e\-zi.ndagii me.n
+(kuchh bhii nahii.n bachaa hai) \- 2
+ek dard rah gayaa hai
+aur ek yaad terii
+kyaa zi.ndagii hai merii
+har shaam shaam\-e\-Gam hai     \threedots
+
+khushiyo.n kaa ek din bhii
+(aayaa na zi.ndagii me.n) \- 2
+pachhataa rahaa huu.N mai.n to
+duniyaa me.n aa ke terii
+kyaa zi.ndagii hai merii
+har shaam shaam\-e\-Gam hai     \threedots
+
+%
+#endindian
+\endsong
+%

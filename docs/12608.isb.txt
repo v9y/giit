@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{baa_ilaa\-baa_ilaa naacho re}%
+\film{Khwahish}%
+\year{2003}%
+\starring{Himanshu, Malikka & Shivaji Satam}%
+\singer{Asha}%
+\music{Milind Sagar}%
+\lyrics{Faaiz Anwar}%
+%
+% Contributor: BOL ANAMOL #11763 [V S Rawat]
+% Producer: Akbar Arabiyan (Mojdeh & Mojtaba Movies), Vivek Nayak, Perry Pictures
+% Director: Govind Menon
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Soprano 40452, Cost: Rs 55/-, CD: 
+%
+\printtitle
+#indian
+%
+ko \:	he he he he he \-4
+	baa_ilaa\-baa_ilaa
+
+aa \: baa_ilaa\-baa_ilaa naacho re
+ko \: baa_ilaa\-baa_ilaa naacho re \-4
+aa \:	zindagii me.n khoyaa kyaa zindagii me.n paayaa kyaa
+	saath kyaa rahe tere saath apane laayaa kyaa
+	sun le o saathii mere
+	ai
+ko \: baa_ilaa\-baa_ilaa naacho re \-4
+aa \:	zindagii me.n khoyaa kyaa zindagii me.n paayaa kyaa
+
+ko \:	he he  \-4
+aa \:	aaj Kushiyo.n ne ra.ng barasaa_e dil ye mastii me.n laharaa_e \-2
+	ha.Nsate\-ha.Nsate jo Guzar ga_ii zindagii to usakii hai
+	dostii pe mar miTe jo dostii to usakii hai
+	tanhaa naa rahanaa tuu sabase ye kahanaa tuu maine jo kahaa
+ko \: baa_ilaa\-baa_ilaa naacho re \-4
+
+ko \:	huu uu uu
+	laa laa laa laa laa
+aa \:	kitane sapano.n ko saath laatii hai ye javaanii jab aatii hai \-2
+	chaahe sapanaa TuuT jaa_e phir bhii dekho sapanaa tum
+	is jahaa.N me.n Dhuu.NDh lenaa ko_ii saathii apanaa tum
+	ye pal hii apanaa hai baaqii to sapanaa hai kahataa hai ye dil
+	ai
+ko \: baa_ilaa\-baa_ilaa naacho re \-4
+aa \:	zindagii me.n khoyaa kyaa zindagii me.n paayaa kyaa
+	saath kyaa rahe tere saath apane laayaa kyaa
+	sun le o saathii mere
+	ai
+ko \: baa_ilaa\-baa_ilaa naacho re \-4
+aa \:	naacho re
+%
+#endindian
+\endsong
+

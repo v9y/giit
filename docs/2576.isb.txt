@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{giilaa giilaa paanii, paanii suriilaa paanii}%
+\film{Satya}%
+\year{1998}%
+\starring{}%
+\singer{Lata}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: Vinay Jain
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+giilaa giilaa paanii
+paanii suriilaa paanii
+hum hum hum hum barase
+aayaa hai kisake ghar se
+paanii, paanii
+aasamaa.N chhalakaa hai
+aasamaa.N bhar gayaa   \threedots
+
+shiisho.n pe bajatii hai.n buu.Nde.n
+chehare pe chalatii hai.n buu.Nde.n
+ni pa, pa ni
+gun gun karataa paanii
+kalashii me.n bharataa paanii
+hum hum hum hum barase, aayaa hai kisake ghar se   \threedots
+
+ruk ruk ke chalataa hai ye dil
+mujarim saa lagataa hai ye dil
+ni pa, pa ni
+ho.nTho.n ne chakhaa paanii
+buu.Ndo.n me.n rakhaa paanii
+hum hum hum hum barase, aayaa hai kisake ghar se   \threedots
+
+giilaa giilaa paani   \threedots
+
+%
+#endindian
+\endsong
+%

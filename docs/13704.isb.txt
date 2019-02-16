@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{yuu.N muskaraa ke saamane aayaa na kiiji_e}%
+\film{Qaidi}%
+\year{1957}%
+\starring{Padmini, Suresh, Agha, Anwar, Kumar, Kamal Mehra, Helen}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10541 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	yuu.N muskaraa ke saamane aayaa na kiiji_e
+aa |:	dil le ke mere dil ko jalaayaa na kiiji_e
+
+ra \:	kis baa kii Kushii hai zaraa lab to kholi_e \-2
+	kisase hu_aa hai pyaar kaa ikaraar boli_e
+aa \:	ikaraar kiiji_e to bhulaayaa na kiiji_e
+ra \:	yuu.N muskaraa ke \threedots
+
+	chhaa_ii hu_ii bahaar hai ra.ngiin raat hai
+aa \:	aa_ii hu_ii labo.n pe mere dil kii baat hai
+ra \:	duniyaa ko dil kii baat bataayaa na kiiji_e
+aa |:	dil le ke mere \threedots
+
+	chalanaa adaa ke saath to ha.Nsanaa Guruur se
+ra \:	apanaa salaam saare hasiino.n ko duur se
+aa \:	achchhaa to hamako paas bulaayaa na kiiji_e
+ra \:	yuu.N muskaraa ke \threedots
+%
+#endindian
+\endsong
+

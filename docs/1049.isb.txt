@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{laal chha.Dii maidaan kha.Dii, kyaa khuub la.Dii, kyaa khuub la.Dii}%
+\film{Jaanwar}%
+\year{1965}%
+\starring{Shammi Kapoor, Rajashree}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+laal chha.Dii maidaan kha.Dii, kyaa khuub la.Dii, kyaa khuub la.Dii
+ham dil se gae, ham jaa.N se gae
+bas aa.Nkh milii aur baat ba.Dhii
+
+(vo tiikhe tiikhe do nainaa, us shok se aa.Nkh milaanaa thaa
+dede ke qayaamat ko daavat, ek aafat se Takaraanaa thaa  ) \-2
+mat puuchho ham par kyaa guzarii,
+bijalii sii girii aur dil pe pa.Dii
+ham dil se gae,  haay, ham jaa.N se gae \threedots
+
+(tan tanakar zaalim ne apanaa, har tiir nishaane par maaraa
+(hai shukr kii ab tak zi.ndaa huu.N,  
+mai.n dil kaa ghaayal bechaaraa ) \-2
+use dekhake laal dupaTTe me.n, 
+maine naam diyaa hai laal chha.Dii
+ham dil se gae, haay, ham jaa.N se gae \threedots
+
+(ham ko bhii naa jaane kyaa suujhii, 
+jaa pahu.nche usakii Tolii me.n
+(har baat me.n usakii thaa vo asar, 
+jo nahii.n ba.nduuk kii golii me.n ) \-2
+ab kyaa hogaa, ab kyaa kiije,
+har ek gha.Dii mushkil kii gha.Dii
+ham dil se gae, haay, ham jaa.N se gae \threedots
+%
+#endindian
+\endsong
+%

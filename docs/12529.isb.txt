@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{mal de gulaal mohe aa_ii holii aa_ii re}%
+\film{Kaamchor}%
+\year{1982}%
+\starring{Rakesh Roshan, Jayaprada}%
+\singer{Lata, Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10414 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	mal de gulaal mohe \-2
+	aa_ii holii aa_ii re \-2
+ki \:	chunarii pe ra.ng sohe \-2
+	aa_ii holii aa_ii re \-2
+
+la \:	saat ra.ng saat phuul aaj mile saath re
+ki \:	bajane lagii baa.Nsurii jamane lagii baat re
+la \:	o bhiigii\-bhiigii pavan saarii re \-2
+	aa_ii holii aa_ii re \-2
+	mal de gulaal mohe \threedots
+
+	aaj ko_ii unako bhii bhej de sa.ndesh re
+ki \:	raah take dulhaniyaa jaane ko parades re
+	o o aa_ii\-aa_ii re yaad aa_ii re
+	aa_ii holii aa_ii re \-2
+ki \:	chunarii pe ra.ng sohe \threedots
+
+	pyaar se gale milo bhed\-bhaav chho.D do
+la \:	lok\-laaj kii diivaar aaj sanam to.D do
+ki \:	rahe daaman na ko_ii khaalii \-2
+	ke aa_ii holii aa_ii re \-2
+la \:	mal de gulaal mohe \threedots
+%
+#endindian
+\endsong
+

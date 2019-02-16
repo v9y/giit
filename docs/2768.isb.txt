@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ai jaan-e-jigar dil me.n samaane aa jaa}%
+\film{Aaraam}%
+\year{1951}%
+\starring{Dev Anand}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ai jaan\-e\-jigar dil me.n samaane aa jaa
+uja.Dii huii bastii ko basaane aa jaa
+
+dard se betaab hai tuu jaan\-e\-tamannaa
+aaraam kaa paiGaam sunaane aa jaa
+
+paravaanaa ba.Dii der se hai aas lagaaye
+ai shammaa na kar der jalaane aa jaa
+
+tarasii huii nazaro.n ko hai diidaar kii hasarat
+barakhaa kii tarah pyaas bujhaane aa jaa
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{akele ham akele tum ... tuu meraa dil tuu merii jaa.n}%
+\film{Akele Hum Akele Tum}%
+\year{1995}%
+\starring{Aamir Khan, Manisha Koirala}%
+\singer{Udit Narayan, Aditya Narayan}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+akele ham akele tum
+jo ham tum sa.ng hai.n to phir kyaa Gam
+tuu meraa dil tuu merii jaa.n ##but you love me daddy##
+tuu maasuum tuu shaitaan ##o I love you daddy##
+
+yuu.n to hai tuu nanhaa saa hai magar guru sabakaa
+kahane ko hai.n yuu.n to hazaar ko_ii magar kahaa.n tujhasaa
+akele ham akele tum \threedots
+
+maan lo kal jo ye saarii duniyaa saath meraa nahii.n degii
+kaun hai phir merii ma.nzil kaa hamasafar mai.n huu.N ##daddy##
+aaj lage kitanaa hasii.n apanaa jahaa.n apanaa samaa.n
+akele ham akele tum \threedots
+%
+#endindian
+\endsong
+
+

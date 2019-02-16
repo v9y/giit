@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{siilii havaa chhuu ga_ii, siilaa badan chhil gayaa}%
+\film{Libaas}%
+/year{}%
+\starring{Naseeruddin Shah, Shabana Azmi}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  (tanvi@utxvms.cc.utexas.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+siilI havaa chhU gaI
+siilaa badan chhil gayaa
+nIlI nadii ke pare
+gIlaa saa chaa.nd khil gayaa
+
+tum se milI jo zindagii
+hamane abhii boI nahii.n
+tere sivaa koI na thaa
+tere sivaa koI nahii.n
+sIlI havaa chhU gaI \threedots
+
+jaane kahaa.N kaise shahar
+leke chalaa ye dil mujhe
+tere bagair din naa jalaa
+tere bagair shab naa bujhe
+sIlI havaa chhU gaI \threedots
+
+jitane bhii tay karate gaye
+ba.Dhate gaye ye faasale
+mIlo.n se din chho.D aaye
+saalo.n se raat leke chale
+sIlI havaa chhU gaI
+%
+#endindian
+\endsong
+%

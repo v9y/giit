@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{meraa man teraa pyaasaa, meraa man teraa}%
+\film{Gambler}%
+\year{1971}%
+\starring{Dev Anand}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Ikram Ahmad Khan (i-khan@tamu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+meraa man teraa pyaasaa, meraa man teraa
+puurii kab hogii aashaa, meraa man teraa
+
+jab se maine dekhaa tujhe meraa man nahii.n rahaa, meraa
+de de apanaa haath mere haatho.n me.n kyaa jaae, teraa
+ab to na to.Do aashaa, meraa man \threedots
+
+zi.ndagii hai merii ik daa.Nv, tuu hai haar\-jiit, maarii
+aise vaise kaise bhii tuu khel hamase jaise marzii, taarii
+kitanii hai bholii aashaa, meraa man \threedots
+
+pataa nahii.n kaun huu.N mai.n, kyaa huu.N aur kahaa.N mujhe, jaanaa
+apanii vo kahaanii jo a.njaanii ho ke ban ga_ii, fasaanaa
+jiivan kyaa hai, tamaashaa, meraa man \threedots
+%
+#endindian
+\endsong
+%

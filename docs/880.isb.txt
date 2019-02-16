@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jiivan se bharii terii aa.Nkhe.n}%
+\film{Safar}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore, Feroz Khan}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jiivan se bharii terii aa.Nkhe.n
+majabuur kare jiine ke liye
+saagar bhii tarasate rahate hai.n
+tere ruup kaa ras piine ke liye
+jiivan se bharii terii aa.Nkhe.n \threedots
+
+tasviir banaaye kyaa koii
+kyaa koii likhe tujhape kavitaa
+ra.ngo.n chha.ndo.n me.n samaaegii
+kis tarah se itanii su.ndarataa
+ek dha.Dakan hai tuu dil ke liye
+ek jaan hai tuu jiine ke liye
+jiivan se bharii terii aa.Nkhe.n \threedots
+
+madhuban ki suga.ndh hai saa.Nso.n me.n
+baaho.n me.n ka.nval kii komalataa
+kiraNo.n kaa tej hai chehare pe
+hirano.n kii hai tujh me.n cha.nchalataa
+aa.nchal kaa tere ek taar bahut
+koI chhaak jigar siine ke liye
+jiivan se bharii terii aa.Nkhe.n \threedots
+%
+#endindian
+\endsong
+%

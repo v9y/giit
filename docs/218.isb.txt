@@ -1,0 +1,81 @@
+%
+\startsong
+\stitle{are tuune abhii dekhaa nahii.n, dekhaa hai to jaanaa nahii.n,}%
+\film{Do Aur Do Panch}%
+\starring{Amitabh, Shashi, Parveen}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Anjaan}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Kannan Muthukaruppan (mkannan@plane.berkeley.edu)
+%          Ashish Bokil (abokil@hubcap.clemson.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+are tUne abhii dekhaa nahii.n,
+dekhaa hai to jaanaa nahii.n,
+jaanaa hai to maanaa nahii.n,
+mujhe pahachaanaa nahii.n,       
+	    duniyaa dIvaanii merii,          
+	    mere piichhe piichhe bhaagii,
+kis me.n hai dam yahaa.N,
+Thahare jo mere aage, 
+mere aage aanaa nahii.n,
+dekho Takaraanaa nahii.n,
+kisii se bhii haare nahii.n ham 
+
+	    (jo soche, jo chaahe vo karake dikhaade.n
+	    ham vo hai.n jo do aur do paa.Nch banaa de.n) \- 2
+
+		haay,
+		tUne abhii dekhaa nahii.n 
+		dekhaa hai to jaanaa nahii.n
+
+		ham aag lagaa de.n paanii me.n 	
+		patthar pe phuul khilaaye.n 
+		bin mausam bin baadal 
+		rimajhim saavan barasaaye
+
+		hu  ho ho ho ho 
+		puurab ke suuraj ko pash{}chim se ugaa de.n
+		ham vo hai.n jo do aur do paa.Nch banaa de.n
+
+		he! tUne abhii dekhaa nahii.n 
+		dekhaa hai to jaanaa nahii.n
+
+		are ham manamaujii mastaane mastii ke saaj bajaaye.n 
+		to jhuume.n ye dharatii o chaa.Nd sitaare gaae.n 
+
+		ho  ho ho ho ho 
+		phuulo.n kii raaho.n se kaaTo.n ko haTaa de.n
+		ham vo hai.n jo do aur do paa.Nch banaa de.n
+
+		he!  tUne abhii dekhaa nahii.n 
+		dekhaa hai to jaanaa nahii.n 
+		jaanaa hai to maanaa nahii.n 
+		mujhe pahachaanaa nahii.n 
+		duniyaa dIvaanii merii 
+		mere piichhe piichhe bhaagii 
+		kisame.n hai dam yahaa.N 
+		Thahare jo mere aage
+		mere aage aanaa nahii.n 
+	        dekho Takaraanaa nahii.n,
+		kisii se bhii haare nahii.n ham\threedots
+		
+		jo soche.n jo chaahe.n vo kar ke dikhaa de.n 
+		ham vo hai.n jo do aur do paa.Nch banaa de.n
+		
+		jo soche.n jo chaahe.n vo kar ke dikhaa de.n 
+		ham vo hai.n jo do aur do paa.Nch banaa de.n
+
+		laa laa\threedots
+%
+#endindian
+\endsong
+%

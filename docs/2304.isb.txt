@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil apanaa aur priit paraa_ii}%
+\film{Dil Apana Aur Preet Parayee}%
+\year{1959}%
+\starring{Meena Kumari, Raaj Kumar, Nadira}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Nita
+% Transliterator: Nita
+% Date: 17th February 2000
+% Credits:
+% Editor:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil apanaa au rpriit paraa_ii
+kis ne hai ye riit banaa_ii
+aa.Ndhii me.n ek diip jalaayaa
+aur paanii me.n aag lagaa_ii
+dil apanaa \threedots
+
+hai dard aisaa ki sahanaa hai mushkil
+duniyaa vaalo.n se kahanaa hai mushkil
+ghir ke aayaa hai tuufaan aisaa
+bach ke saahil se rahanaa hai mushkil
+dil apanaa \threedots
+
+dil ko sambhaalaa na daaman bachaayaa
+phailii jab aag tab hosh aayaa
+Gam ke maare pukaare.n kise ham
+ham se bichha.Daa hamaaraa bhii saayaa
+dil apanaa \threedots
+
+%
+#endindian
+\endsong
+%
+

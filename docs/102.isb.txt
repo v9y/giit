@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{aap se pyaar huaa jaataa hai}%
+\film{Shama}%
+\year{1961}%
+\starring{Suraiyya}%
+\singer{Suraiyya}%
+\music{Ghulam Mohammad}%
+\lyrics{Kaifi Azmi}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+aap se pyaar huaa jaataa hai
+khel dushvaar huaa jaataa hai
+
+tumane kyo.n pyaar se dekhaa mujhako   \- 2
+dard bezaar huaa jaataa hai
+
+is tamanna me.n ki tum doge sazaa, tum doge sazaa
+dil gunaahaGaar hu_aa jaataa hai
+
+dil jo har qaid se ghabaraataa thaa, ghabaraataa thaa
+Kud hii giraftaar huaa jaataa hai
+
+%
+#endindian
+\endsong
+%
+

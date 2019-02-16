@@ -1,0 +1,34 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jogan bhaTak rahii hai ban-ban}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Leela Chitnis}%
+\music{Saraswati Devi}%
+\lyrics{Pt Narottam Vyas}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+jogan bhaTak rahii hai ban\-ban
+vaako kaun jaako denaa thaa re tan\-man
+
+jogan bhaTak rahii hai ban\-ban \-2
+vaako kaun jaako denaa thaa re tan\-man
+
+jogan bhaTak rahii hai ban\-ban
+
+saawan kii aadhii barasaate.n
+maawas kii a.ndhiyaarii raate.n
+raah me.n kaa.NTe Dhuu.NDhatii phiratii \-2
+jo paas mere wo hai man wo dhan
+
+jogan bhaTak rahii hai ban\-ban \-2
+
+#endindian
+\endsong

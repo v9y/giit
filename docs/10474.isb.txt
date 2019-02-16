@@ -1,0 +1,139 @@
+
+%
+\startsong
+\stitle{aaratii man maanatii ... salaam kiijiye aalii janaab aaye hai.n}%
+\film{Aandhi}%
+\year{1975}%
+\starring{Sanjeev Kumar, Suchitra Sen}%
+\singer{Rafi, Bhupendra, Amit Kumar,  Chorus}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #12172 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ra \:	aaratii man maanatii
+	kahanaa kyuu.N nahii.n maanatii
+ko \:	paaThashaalaa me.n chhuTTii ho ga_ii
+	bastaa kyuu.N nahii.n baa.Ndhatii \-3
+
+ra \:	aa
+	salaam kiijiye
+	aa_ii hai.n
+	haa.N
+	salaam kiijiye
+	aa_ii hai.n
+	aaratii devii
+
+bhu \:	aa
+	ye Thekedaar hai.n
+	bhaarat kii
+	bhaaratii devii
+
+ra \:	( salaam kiijiye
+	aalii janaab aaye hai.n ) \-2
+	ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+ko \:	salaam kiijiye
+	aalii janaab aaye hai.n
+	ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	salaam kiijiye
+	aalii janaab aaye hai.n
+
+ra \:	aa
+	salaam kiijiye
+bhu \:	o
+	salaam kiijiye
+a \:	o
+	salaam kiijiye
+ko \:	aalii janaab aaye hai.n
+
+ra \:	jo in Kudaa_o.n ko sajadaa kare naa
+	qaafir hai
+	bas ek ##vote## nahii.n hai
+	ye jaan haazir hai
+bhu \:	haa.N
+	bahut lagaaye\-utaare hai.n
+	naam ke ##label##
+	chalaa_ii kursiyaa.N hamane
+	jamaaye hai.n ##table##
+ra \:	aa
+	hisaab diijiye
+	hisaab diijiye ham behisaab aaye hai.n
+bhu \:		hisaab diijiye ham behisaab aaye hai.n
+ra \:	to mil kar
+ko \:	salaam kiijiye
+	aalii janaab aaye hai.n
+	ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	salaam kiijiye
+	aalii janaab aaye hai.n
+
+bhu \:	hamaare ##vote## khariide.nge
+	hamako ann de kar
+	ye na.nge jism chhupaa dete hai.n
+	qafan de kar
+ra \:	aa
+	ye jaaduugar hai.n
+	ye chuTakii me.n kaam karate hai.n
+	ye bhuukh\-pyaas ko
+	baato.n se ram karate hai.n
+	aa
+	hamaare haal pe
+	hamaare haal pe likhane kitaab aaye hai.n
+bhu \:	hamaare haal pe likhane kitaab aaye hai.n
+ra \:	are bha_i isaliye
+ko \:	( salaam kiijiye
+	aalii janaab aaye hai.n ) \-2
+	ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	salaam kiijiye
+	aalii janaab aaye hai.n
+ra \:		ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	aaye hai.n aaye hai.n
+ko \:	salaam kiijiye
+	aalii janaab aaye hai.n
+
+a \:	hamaarii zindagii apanii hai
+	aap kii to nahii.n
+	ye zindagii hai Gariibii kii
+	paap kii to nahii.n
+ra \:	aa
+	ye ##vote## de.nge magar
+	ab ke yuu.N nahii.n de.nge
+bhu \:	aa
+	chunaav aane do
+	ham aapase nipaT le.nge
+ra \:	haa.N
+	ke pahale dekh le.n
+	ke pahale dekh le.n kyaa inqalaab laaye hai.n
+a \:	ke pahale dekh le.n kyaa inqalaab laaye hai.n
+ra \: ##laugh##
+	ye inqalaab laaye hai.n
+	aa.N
+ko \:	( salaam kiijiye
+	aalii janaab aaye hai.n ) \-2
+	ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	salaam kiijiye
+	aalii janaab aaye hai.n
+ra \:	aa
+	salaam kiijiye
+bhu \:	o
+	salaam kiijiye
+a \:	o
+	salaam kiijiye
+ko \:	aalii janaab aaye hai.n
+ra \:		ye paa.Nch saalo.n kaa dene
+	hisaab aaye hai.n
+	aaye hai.n aaye hai.n
+ko \:	salaam kiijiye
+	aalii janaab aaye hai.n
+%
+#endindian
+\endsong
+

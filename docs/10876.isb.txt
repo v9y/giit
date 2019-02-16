@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{pukaare.n kab se tumako ... mai.n bhii huu.N majabuur saajan}%
+\film{Challengej}%
+\year{1964}%
+\starring{Ranjan, Chitra, Tiwari, Bela Bose}%
+\singer{Mukesh, Asha}%
+\music{Ajit Merchant}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10059 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	pukaare.n kab se tumako chaa.Nd aur taare
+	chale aa_o chale aa_o
+% The above taken from giit kosh
+
+aa \:	mai.n bhii huu.N majabuur saajan dil bhii hai majabuur
+mu \:	phir bhii pyaar ke maare do dil rah na sake.nge duur
+aa \:	mai.n bhii huu.N majabuur \threedots
+
+mu \:	duur thii a.Nkhiyaa.N tumase lekin dil paas tumhaare
+aa \:	ham bhii kabhii na bhuule tumako gavaah hai.n chaa.Nd sitaare
+mu \:	mil ke bichha.Danaa bichha.D ke milanaa ulfat kaa dastuur
+		ye to ulfat kaa dastuur
+
+aa \:	jab tak ek bhii saa.Ns hai.n baakii luu.Ngii naam tumhaaraa
+mu \:	ham na rahe.nge to bhii jahaa.N me.n rahegaa pyaar haaaraa
+aa \:	tum hii mere dil kaa ujaalaa tum aa.Nkho.n kaa nuur
+	saajan tum aa.Nkho.n kaa nuur
+	mai.n bhii huu.N majabuur \threedots
+%
+#endindian
+\endsong
+

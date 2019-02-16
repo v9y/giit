@@ -1,0 +1,58 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chale ho kahaa.N karake jii bekaraar}%
+\film{Bhaagam Bhaag}%
+\year{1956}%
+\starring{Kishore Kumar, Shashikala, Smriti Biswas}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+% The following prelude mentioned in kosh was not in the version I have
+
+	masiihaa ban ke biimaaro.n ko
+
+aa \:	chale ho kahaa.N 
+	chale ho kahaa.N karake jii bekaraar \-2
+	o saiyaa.N raajaa
+	o saiyaa.N raajaa dil me.n samaa ke
+	chale ho kahaa.N karake jii bekaraar
+
+	o piyaa na jaa re merii qasam \-2
+	o mai.n to mar jaa_uu.Ngii re sanam \-2
+	o saiyaa.N raajaa
+	o saiyaa.N raajaa dil me.n samaa ke
+
+ra \:	bhuulane waalii, dekh liyaa teraa pyaar
+
+	o jhuuThii\-jhuuThii tuu qasame.n na khaa \-2
+	o gorii jaane de dil naa jalaa \-2
+	nikaalaa hame.n
+	nikaalaa hame.n ghar me.n bulaa ke
+
+aa \:	chale ho kahaa.N karake jii bekaraar \-2
+
+	o aajaa tujhape luTaa duu.N ye pyaar \-2
+	o dil kii bagiyaa nazar kii bahaar \-2
+	o saiyaa.N raajaa
+	o saiyaa.N raajaa dil me.n samaa ke
+
+ra \:	bhuulane waalii, dekh liyaa teraa pyaar
+
+	agar ye sach hai to raazii hai.n ham \-2
+	tuu merii gorii mai.n teraa balam \-2
+	nikaalaa hame.n
+	nikaalaa hame.n ghar me.n bulaa ke
+
+aa \:	chale ho kahaa.N karake jii bekaraar \-2
+ra \:	bhuulane waalii, dekh liyaa teraa pyaar \-2
+
+#endindian
+\endsong

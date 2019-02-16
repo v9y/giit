@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{tum ne mujhe dekhaa ho kar meharbaa.n}%
+\film{Teesri Manzil}%
+\year{}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Apoorv Srivastava <apoorv@isi.edu> 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/13/1997
+%
+\printtitle
+#indian
+%
+(tum ne mujhe dekhaa, ho kar meharbaa.n
+ ruk ga_ii ye zamii.n, ruk ga_ii zamii.n
+ tham gayaa aasamaa.n, jaan\-e\-man jaan\-e\-jaa.n) \- 2
+tum ne mujhe dekhaa
+
+o kahii.n dard ke saharaa me.n, rukate chalate hote
+in ho.nTho.n kii hasarat me.n, tapate jalate hote
+meharbaa.n ho ga_ii, zulf kii badaliyaa.N
+jaan\-e\-man, jaan\-e\-jaa.n
+tum ne mujhe dekhaa \threedots
+
+o, lekar ye hasii.n jalave, tum bhii na kahaa.N pahu.Nche
+aakhir ko mere dil tak, kadamo.n ke nishaa.n pahu.Nche
+khatm se ho gae raaste sab yahaa.N
+jaan\-e\-man, jaan\-e\-jaa.n
+tum ne mujhe dekhaa \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil to hai dil, dil kaa aitabaar, kyaa kiijai}%
+\film{Muqaddar Ka Sikandar}%
+\starring{Amitabh Bachchan, Rakhee, Shashi Kapoor, Rekha}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Baiju "Bawara" Shah (gt8269b@prism.gatech.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil to hai dil, dil kaa aitabaar, kyaa kiijai   \- (2)
+aa gayaa jo, kisii pe pyaar, kyaa kiijai     \- (2)
+dil to hai dil, dil kaa aitabaar, kyaa kiijai
+
+yaado.n me.n terii khoI, raato.n ko mai.n naa soii
+haalat ye mere mana kii, jaane naa jaane koI
+baraso.n hii tarasii aa.Nkhe.n, jaagii hai pyaasii raate.n
+aaI hai.n aate aate hoTho.n pe dil kii baate.n
+pyaar me.n tere, dil kaa meraa kuchh bhii ho a.njaam
+beqaraarii, me.n hai iqaraar, kyaa kiijai
+aa gayaa jo, kisii pe pyaar, kyaa kiijai     \- (2)
+
+% this para looks strange....!
+chhaayaa hai man pe mere madahosh rahanaa teraa
+mere hii tanako milaa terii baaho kaa feraa
+duurii sahii na jaaye, chain kahii.n naa aaye
+chalanaa hai ab to terii palako ke chhaaye chhaaye
+bas naa chale re kaam savere leke teraa naam
+
+dil dha.Dakataa hai baar baar kyaa kiijai
+aa gayaa jo, kisii pe pyaar, kyaa kiijai     \- (2)
+dil to hai dil, dil kaa aitabaar, kyaa kiijai
+%
+#endindian
+\endsong
+%

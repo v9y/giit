@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jay raghunandan jay siyaaraam}%
+\film{Gharaana}%
+\year{1961}%
+\starring{Rajendra Kumar, Raaj Kumar, Asha Parekh}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10704 [V S Rawat]
+% Transliterator: 
+% Editors: Malini, Prithviraj Dasgupta, Sushil Sharma
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra: shriiraamachandraashritapaarijaataH
+    samastakalyaaNaguNaabhiraamaH |
+    siitaamukhaambhoruhacha~nchariikaH
+    nirantara.nma.ngalamaatanotu ||
+    aa . . . 
+ 
+    jay raghunandan jay siyaaraam
+do: jay raghunandan jay siyaaraam
+aa: he dukhabha.njan tumhe.n praNaam
+do: he dukhabha.njan tumhe.n praNaam
+    jay raghunandan jay siyaaraam /-2
+ 
+aa: bhraat\-bhraat ko he parameshvar sneh tumhii.n sikhalaate
+    aa aa aa #beautiful alaap here
+    bhraat\-bhraat ko he parameshvar sneh tumhii.n sikhalaate
+ 
+ra: nar\-naarii ke prem kii jyoti jag me.n tumhii.n jalaate
+do: o naiyaa ke khevanahaare japuu.N mai.n tumharo naam
+    jay raghunandan \threedots
+ 
+ra: tum hii dayaa ke saagar prabhu jii tum hii paalanahaare
+aa: chain tumhii.n se paa_e bekal manavaa saa.Njh\-sakaare
+do: jo bhii tumharii aas lagaa_e bane usii ke kaam
+    jay raghunandan \threedots
+%
+#endindian
+\endsong

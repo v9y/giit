@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{maane na maane na maane na}%
+\film{Savera}%
+\year{1958}% 
+\starring{Ashok Kumar, Meena Kumari}%
+\singer{Geeta}%
+\music{Shailesh}%
+\lyrics{Prem Dhawan}%
+% 
+% Contributor: <Urzung Khan>
+% Transliterator: 
+% Date: December 16, 2001
+% Credits:Prithvi Dasgupta
+% Comments:  
+%
+\printtitle
+#indian
+%
+
+maane na maane na maane na 
+tere bin moraa jiyaa na maane
+aise nainaa.n bhaye re divaane raam
+haay raam
+maane na maane na maane na
+
+aisii adaa bhaa ga_ii ham se rahaa naa gayaa
+mahafil me.n yuu.N aae vo ki un pe ye dil aa gayaa
+bin piye hii nashaa chhaa gayaa
+maane na maane na maane na \threedots
+
+dekho idhar bhii zaraa ham se sharam kis liye
+ham to tere ho chuke tere dil me.n bharam kis liye
+ham pe itanaa sitam kis liye
+maane na maane na maane na \threedots
+
+ik hii mulaaqaat me.n ye kyaa Gazab ho gayaa
+dil ko sambhaalaa magar na jaane kahaa.N kho gayaa
+jo bhii honaa thaa vo ho gayaa
+maane na maane na maane na \threedots
+
+%
+#endindian
+\endsong
+%

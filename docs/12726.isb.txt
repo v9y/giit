@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ye qaafilaa hai pyaar kaa chalataa hii jaa_egaa}%
+\film{Lekh}%
+\year{1949}%
+\starring{Suraiya, Sitara, Motilal, Ishu Jagirdar, Cukoo, Anand Pal}%
+\singer{Mukesh, Asha}%
+\music{Krishan Dayal}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10280 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	ye qaafilaa hai pyaar kaa chalataa hii jaa_egaa
+	jii bhar ke ha.Ns le gaa le ye din phir na aa_egaa
+aa \:	ye qaafilaa hai pyaar \threedots
+
+mu \:	is qaafile ke saath ha.Nsii bhii hai ashq bhii
+	gaa_egaa ko_ii aur ko_ii aa.Nsuu bahaa_egaa
+aa \:	is qaafile ke saath \threedots
+	ye qaafilaa hai pyaar \threedots
+
+mu \:	raahii guzar na jaa_e.n muhabbat ke din kahii.n
+	aa.Nkhe.n taras rahii hai.n kab aa.Nkhe.n milaa_egaa
+aa \:	raahii guzar na jaa_e.n \threedots
+	ye qaafilaa hai pyaar \threedots
+
+mu \:	( is qaafile me.n ) \-2 vasl bhii hai aur judaa_ii bhii
+	tuu jo bhii maa.Ng legaa tere paas aa_egaa
+aa \:	( is qaafile me.n ) \-2 \threedots
+	ye qaafilaa hai pyaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{saa.Nchaa naam teraa, tuu shyaam meraa}%
+\film{Julie}%
+\year{1975}%
+\starring{Laxmi, Vikram}%
+\singer{Asha, Usha}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor : Surajit Bose
+% Transliterator : Surajit Bose
+% Credits
+%
+\printtitle
+#indian
+%
+
+aashaa: aa aa aa, huu.N uu.N, aa aa
+        saa.Nchaa naam teraa
+        ho, saa.Nchaa naam teraa
+        tuu shyaam meraa, saa.Nchaa naam teraa, tuu shyaam meraa
+        sagaraa jagat hai jhuuThaa saathii
+        TuuTe diipak bujh jaaye baatii
+ushaa:  har ra.ng me.n tuu sa.ng me.n hai
+        chaahe saa.Njh ho chaahe saveraa
+dono.n: saa.Nchaa naam teraa, tuu shyaam meraa, saa.Nchaa naam teraa
+
+aashaa: mai.n tujh me.n khoii re
+uushaa: duujaa na koii re
+aashaa: aa, jaagii yaa soii re
+        tuu ek apanaa jiivan sapanaa
+dono.n: sagaraa jagat hai jhuuThaa saathii
+        TuuTe diipak bujh jaaye baatii
+aashaa: mai.n ne bigaa.Daa har kaam apanaa
+        tuune sa.Nvaaraa har kaam meraa
+dono.n: saa.Nchaa naam teraa, tuu shyaam meraa, saa.Nchaa naam teraa
+
+aashaa: duHkh sukh kii dhaaraa
+uushaa: tuu hai kinaaraa
+aashaa: huu.N manamohan pyaaraa
+        sab kaa khevaiyaa kR^ishhNa ka.nhaiyaa
+dono.n: sagaraa jagat hai jhuuThaa saathii
+        TuuTe diipak bujh jaaye baatii
+aashaa: to.D ke ye man ma.ndir banaa duu.N
+        ho man ke ma.ndir me.n dhaam teraa
+dono.n: saa.Nchaa naam teraa, tuu shyaam meraa, saa.Nchaa naam teraa
+
+%
+#endindian
+\endsong
+%

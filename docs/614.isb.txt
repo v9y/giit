@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{Gam kaa fasaanaa ban gayaa achchhaa, ek bahaanaa ban gayaa achchhaa}%
+\film{Manchali}%
+\year{1973}%
+\starring{Sanjeev Kumar, Leena Chandavarkar}%
+\singer{Kishore, Leena Cnandavarkar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Sai P. Ramanath (rsai@austin.ibm.com)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+Gam kaa fasaanaa ban gayaa achchhaa
+ek bahaanaa ban gayaa achchhaa
+sarakaar ne aake meraa haal to puuchhaa
+Gam kaa\threedots
+
+tumhaare Kayaalo.n me.n kho jaaye.n
+ye jii chaahataa hai kii so jaaye.n
+dekho baato.n\-baato.n me.n chaa.Ndanii raato.n me.n
+Kvaab suhaanaa ban gayaa achchhaa\threedots
+
+bataaye.n tumhe.n kyaa kahaa.N dard hai
+yahaa.N haath rakhanaa yahaa.N dard hai
+dekho baato.n baato.n me.n do hii mulaakaato.n me.n
+dil ye nishaanaa ban gayaa achchhaa\threedots
+
+muhabbat kii ra.ngiin mahafil me.n
+jagah mil ga_ii aapake dil me.n
+dekho baato.n\-baato.n me.n pyaar kii baraato.n me.n
+apanaa Thikaanaa ban gayaa achchhaa\threedots
+%
+#endindian
+\endsong
+%

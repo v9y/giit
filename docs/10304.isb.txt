@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ai mere dil mat kar kisii pe aitabaar}%
+\film{Albelaa}%
+\year{1971}%
+\starring{Mehmood, Namrata, Anwar Ali, I S Jauhar, Rajendra Nath}%
+\singer{Kishor/ Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11178 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai mere dil mat kar kisii pe aitabaar
+har qadam par hai.n dhokhe hazaar
+
+alabele aazaad pari.nde mastii me.n tuu gaataa chal
+pii le khaa le pyaar kaa daanaa jhuum\-jhuum laharaataa chal
+ai mere dil mat \threedots
+
+nirdhan kii ko_ii baat na puuchhe daulat ke sab bande hai.n
+manamaanii karate hai.n zaalim aa.Nkhe.n rakh kar a.Ndhe hai.n
+ai mere dil mat \threedots
+
+parachhaa_ii.n ko kisane paka.Daa kaam bhalaa kab aa_ii hai
+isase pyaar kii aas na rakh tuu duniyaa Kud parachhaa_ii.n hai
+ai mere dil mat \threedots
+%
+#endindian
+\endsong
+

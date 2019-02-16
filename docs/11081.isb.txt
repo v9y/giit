@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Nd dekhaa yaad aa_ii suurat terii ... aaj mahasuus ho rahii hai}%
+\film{Dil Kho Gayaa}%
+\year{1998?}%
+\starring{Indra Kumar}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Raees Bhartiya}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Nd dekhaa yaad aa_ii suurat terii
+aaj mahasuus ho rahii hai zaruurat terii zaruurat terii
+duur hu_e yaad ho duur hu_e yaad aa_ii chaahat terii
+aaj mahasuus ho rahii \threedots
+
+dil se na jaa_e yaado.n kaa mausam
+ba.Dii bekaraarii kaa meraa hai aalam
+ba.Dhane lagii mere dil kii lagii
+tujhe Dhuu.nDhatii hai merii zi.ndagii
+aa lag jaa gale se mere hamasafar mere hamasafar
+duur hu_e yaad \threedots
+
+muhabbat ke dil me.n jalaake diye
+bas jii rahii huu.N mai.n tere li_e
+terii chaahato.n ke ujaale li_e
+a.ndhero.n me.n tujhako pukaaraa ki_e
+aa baaho.n me.n le le o jaan\-e\-jigar jaan\-e\-jigar
+chaa.Nd dekhaa \threedots
+%
+#endindian
+\endsong
+

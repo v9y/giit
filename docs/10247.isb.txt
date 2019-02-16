@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{dil shaad thaa ke phuul ... mujhe terii mohabbat kaa}%
+\film{Aap Aaye Bahaar Aayee}%
+\year{1971}%
+\starring{Rajendra Kumar, Sadhana}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11161 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	dil shaad thaa ke phuul khile.nge bahaar me.n
+	maaraa gayaa Gariib isii aitabaar me.n
+
+la \:	mujhe terii mohabbat kaa sahaaraa mil gayaa hotaa \-2
+	agar tuufaa.N nahii.n aataa kinaaraa mil gayaa hotaa
+ra \:	mujhe terii mohabbat \threedots
+
+la \:	na thaa ma.nzuur qismat ko na thii marzii bahaaro.n kii
+	( nahii.n to is gulistaa.N me.n ) \-2 kamii thii kyaa nazaaro.n kii
+	merii nazaro.n ko bhii ko_ii nazaaraa mil gayaa hotaa
+	agar tuufaa.N nahii.n \threedots
+ra \:	mujhe terii mohabbat \threedots
+
+ra \:	Kushii se apanii aa.Nkho.n ko mai.n ashqo.n se bhigo letaa
+	( mere badale tuu ha.Ns letii ) \-2 tere badale mai.n ro letaa
+	mujhe ai kaash teraa dard saaraa mil gayaa hotaa
+	agar tuufaa.N nahii.n \threedots
+la \:	mujhe terii mohabbat \threedots
+
+	milii hai chaa.Ndanii jinako ye unakii apanii qismat hai
+	( mujhe apane muqaddar se ) \-2 faqat itanii shikaayat hai
+	mujhe TuuTaa hu_aa ko_ii sitaaraa mil gayaa hotaa
+	agar tuufaa.N nahii.n \threedots
+ra \:	mujhe terii mohabbat \threedots
+%
+#endindian
+\endsong
+

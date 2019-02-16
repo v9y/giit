@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{baadal bijalii kaa baajaa leke aa saavan raajaa}%
+\film{Dil Kyaa Kare}%
+\year{1999}%
+\starring{Ajay Devgan, Kajol, Mahima Chaudhary}%
+\singer{Abhijit, Kids}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+baadal bijalii kaa baajaa leke aa saavan raajaa
+lalla lalla lallaa la la
+ho thap thap zaraa to aa_e mazaa na kar der jaldii se aajaa 
+baadal bijalii kaa \threedots
+
+ho chhap chhap sanam to aa_e mazaa na kar der jaldii se aajaa 
+
+nikal sake na ko_ii aaj ghar se
+aise zor zor se paanii barase
+Duu ruu
+to ##mummy## merii ye mujhase kahe
+##baby## aaj ##school## na jaa
+baadal bijalii kaa \threedots
+
+o ho ho
+bachapan naanii daadii kii hai lorii
+jiivan hai magar ik ##love story##
+vo lorii sunii ka_ii baar
+par ye ##love story## hamako sunaa jaa
+baadal bijalii kaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aa.Nkh khulate hii tum}%
+\film{Munimji}%
+\year{1955}%
+\starring{Dev Anand, Nalini Jaywant, PRan}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: A Tribute to Sachin Dev Burman #6
+%
+\printtitle
+#indian
+%
+aa.Nkh khulate hii tum chhup gaye ho kahaa.N
+tum abhii the yahaa.N, tum abhii the yahaa.N
+
+abhii saa.Nso.n kii khush_buu havaaon me.n hai
+abhii kadamo.n kii aahaT fizaa_o.n me.n hai
+abhii shaakho.n pe hai u.ngaliyo.n ke nishaa.N
+tum abhii the yahaa.N, tum abhii the yahaa.N
+aa.Nkh khulate hii tum \threedots
+
+tum judaa hoke bhii merii raaho.n me.n ho
+garm ashko.n me.n ho, sard aaho.n me.n ho
+chaa.Ndanii me.n jhalakatii hai.n parchhaa_iyaa.N
+tum abhii the yahaa.N, tum abhii the yahaa.N
+aa.Nkh khulate hii tum \threedots
+
+%
+#endindian
+\endsong
+%

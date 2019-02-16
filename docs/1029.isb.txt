@@ -1,0 +1,51 @@
+% 
+\startsong
+\stitle{kyaa dekhate ho, suurat tumhaarii}%
+\film{Qurbani}%
+\year{1980}%
+\starring{Feroz Khan, Zeenat Aman}%
+\singer{Rafi, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 08/10/1995
+% Credits:  ss <ss@141.com>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments: Year 1980
+%
+\printtitle
+#indian
+%
+AshA: kyaa dekhate ho?
+rafI: suurat tumhaarii
+AshA: kyaa chaahate ho?
+rafI: chaahat tumhaarii
+AshA: na ham jo kah de.n?
+rafI: kah na sakogii
+AshA: lagatii nahii.n Thiik niiyat tumhaarii
+      kyaa dekhate ho \threedots
+
+rafI: roz\-roz dekhuu.N tujhe na_ii\-na_ii lage mujhe
+      tere a.Ngo.n me.n amrit kii dhaaraa \-2
+AshA: milane lage Dha.ng tere, dekhe koii ra.Ng tere
+      terii baato.n kaa andaaz pyaaraa \-2
+rafI: sharaarat se chaharaa chamakane lagaa kyo.n
+AshA: ye ra.Ng laa_ii hai sa.ngat tumhaarii
+      kyaa dekhate ho \threedots
+
+AshA: socho zaraa jaan\-e\-jigar biitegii kyaa tumape agar
+      hamako jo koii churaa le
+      tumase hamako jo koii churaa le
+rafI: kisiine jo tumhe.n chhiinaa, naamumkin hai usakaa jiinaa
+      kaise nazar koii Daale
+      tumape kaise nazar koii Daale
+AshA: pyaar pe apane itanaa bharosaa
+rafI: itanaa mohabbat me.n fitrat hamaarii
+
+AshA: kyaa dekhate ho \threedots
+%
+#endindian
+\endsong
+%

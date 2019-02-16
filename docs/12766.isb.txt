@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{mohabbat kii duniyaa me.n barabaad rahanaa}%
+\film{Lakeeren}%
+\year{1954}%
+\starring{Ashok Kumar, Nalini Jaywant, Pran, Tiwari, Cuckoo}%
+\singer{Geeta, Talat}%
+\music{Hafiz Khan}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #11933 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+gii \:	mohabbat kii duniyaa me.n barabaad rahanaa
+	magar kuchh naa kahanaa
+	mohabbat kii duniyaa me.n
+	zamaane ke ye dukh\-o\-dard ha.Ns\-ha.Ns ke sahanaa
+	magar kuchh naa kahanaa
+	mohabbat kii duniyaa me.n
+
+ta \:	mere dil kaa shiishaa agar TuuT jaaye
+	aur haatho.n se daaman teraa chhuuT jaaye
+	daaman teraa chhuuT jaaye
+gii \:	to Kud ban ke aa.Nsuu in aa.Nkho.n se bahanaa \-2
+	magar kuchh naa kahanaa
+	mohabbat kii duniyaa me.n
+
+ta \:	sunaa_uu.N kise apane Gamo.n kaa fasaanaa \-2
+	dhu_aa.N de rahaa hai meraa aashiyaanaa
+	meraa aashiyaanaa
+gii \:	tamaashaa samajh kar tuu ha.Nsii pal (?) hii rahanaa \-2
+	magar kuchh naa kahanaa
+	mohabbat kii duniyaa me.n
+
+ta \:	bigaa.Daa thaa maine bhalaa kyaa kisii kaa \-2
+	jo luuTaa gayaa yuu.N chaman zindagii kaa
+	yuu.N chaman zindagii kaa
+gii \:	hai duniyaa me.n rahanaa to Gam yuu.N hii sahanaa \-2
+	magar kuchh naa kahanaa
+	mohabbat kii duniyaa me.n
+%
+#endindian
+\endsong
+

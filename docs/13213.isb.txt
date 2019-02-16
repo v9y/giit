@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{dil jo hamaaraa aahe.n na bharataa ... to duniyaa me.n ko_ii muhabbat}%
+\film{Naagmani}%
+\year{1991}%
+\starring{Sumeet Saigal, Shikha Swarup, Kiran Kumar, Aruna Irani, Aloknath}%
+\singer{Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil jo hamaaraa aahe.n na bharataa
+to duniyaa me.n ko_ii muhabbat na karataa
+dil jo hamaaraa \threedots
+
+na khushii ko_ii hotii na aa.Nkho.n me.n paanii
+sazaa ban ga_ii hotii ye zi.ndagaanii
+binaa isake jo yuu.n hii jiivan guzarataa
+dil jo hamaaraa \threedots
+
+mohabbat kii kiimat lagaa_ii na jaa_e
+na mausam agar yuu.n machalakar ubharataa
+dil jo hamaaraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{aanaa hii pa.Degaa}% 
+\film{Lala Rukh}%
+\year{1953}%
+\starring{Talat, Shyama}%
+\singer{Talat}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Neeraj Malhotra (malhotra@bedford.progress.COM)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: The next one is a lovely song sung at a little faster pace than
+%           Talat's usual slow ballads. He even has a moustach in this one.
+%           Singing under a tree with a mandolin ?. Well don't know what the
+%          instrument is.
+% Credits : Neha Desai
+%
+\printtitle 
+#indian 
+%
+##The slow lines before the main song:##
+
+udaas udaas fizaao.n me.n nuur chhalakaao 
+bujhe bujhe hue taaro.n ko ha.Ns ke chamakaao
+Gurur\-e\-husn salaamat na raah dikhalaao 
+rabag Duub gayaa, khuune ab to aa jaao (?)
+
+aanA hii pa.Degaa, aanaa hii pa.Degaa 
+sar ishq ke kadamo.n pe jhukaanaa hii pa.Degaa 
+aanaa hii pa.Degaa 
+
+( nagamaa meraa har saa.Ns me.n ras ghol rahaa hai 
+is saa.Ns ke parade me.n khudaa bol rahaa hai ) \- 2
+chhe.Daa hai agar saaz to gaanaa hii pa.Degaa \- 2
+sar ishq ke kadamo.n pe jhukaanaa hii pa.Degaa 
+aanaa hii pa.Degaa 
+aanaa hii pa.Degaa aa aa 
+
+( Tapakegaa lahuu dard bhare raag se kab tak 
+khelegii terI mast adaa aag se kab tak ) \- 2
+is khel me.n ab haath jalaanaa hii pa.Degaa \- 2
+sar ishq ke kadamo.n pe jhukaanaa hii pa.Degaa 
+aanaa hii pa.DegA 
+aanaa hii pa.Degaa aa aa 
+
+( ulfat kabhii duniyA se Daregii nA Darii hai 
+phuulo.n se javAnI ne sadaa maa.Ng bharii hai ) \- 2
+ha.Nsane ke liye zakhm to khaanaa hii pa.Degaa \- 2
+aanA hii pa.DegA \- 4
+%
+%   * Ab sawwal ye hai ke Shyaama aayi ya nahiin ?
+%   Bilkul bhaagati aayi aur sar bhi jhukaaya kadmon mein :)
+%
+#endindian
+\endsong
+%

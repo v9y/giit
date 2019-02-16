@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{parvat ke is paar parvat ke us paar}%
+\film{Sargam}%
+\year{1979}%
+\starring{Rishi Kapoor, Jayaprada}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11283 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	sa re g m p dh nii
+	parvat ke is paar parvat ke us paar
+	guu.Nj uThii chham\-chham chham\-chham
+	guu.Nj uThii chham\-chham chham merii paayal kii jha.nkaar
+	aa
+
+	mukh pe pa.Dii thii kab se chup kii ik za.njiir
+	ma.ndir me.n chup\-chaap kha.Dii thii mai.n banake tasviir
+ra \:	aa chal gaa mai.n saath huu.N tere
+	chhe.D di_e hai.n sarasvatii devii ne taar\-sitaar
+	parvat ke is paar \threedots
+
+	Gam ik chiTThii jisame.n Kushiyo.n kaa sandesh
+	giit tabhii man se uThataa hai jab lagatii hai Thes
+	aa chal gaa mai.n saath huu.N tere
+	lay na TuuTe taal na TuuTe chhuuTe ye sa.nsaar
+	parvat ke is paar \threedots
+
+la \:	phuul bane hai.n ghu.Ngharuu ghu.Ngharuu ban ga_e phuul
+	TuuT ke paa.Nv me.n sab kaliyaa.N bichh ga_ii.n banakar dhuul
+	taa thaiyaa taa taa thaiyaa
+	dekho jhuum ke naach uThii hai
+	mere a.ng a.ng mast bahaar
+	parvat ke is paar \threedots
+%
+#endindian
+\endsong
+

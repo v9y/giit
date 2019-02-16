@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kasam khaa ke kaho muskuraa ke kaho ... tumako hamase pyaar hai}%
+\film{Dil Hai Tumhaara}%
+\year{2002}%
+\starring{Jimmy Shergil, Arjun Rampal, Preity Zinta, Mahima Chaudhary, Rekha}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kasam khaa ke kaho muskuraa ke kaho
+dil lagaa ke kaho paas aa ke kaho
+tumako hamase pyaar hai
+
+sharamaa ke kaho bal khaa ke kaho
+haa.N kaho na kaho bas kahatii raho
+tumako hamase pyaar hai
+
+ek ajab sii dil me.n hasarat hotii hai tumako dekh ke
+chaahe.n tumako dil me.n chaahat hotii hai tumako dekh ke
+hame.n pyaar karo ikaraar karo saa.Nso.n me.n basaa ke rakh lo
+tum shaam\-o\-sahar diidaar karo khvaabo.n me.n chhupaa ke rakh lo
+nazar jhukaa ke kaho palak uThaa ke kaho
+haa.N kaho na kaho \threedots
+
+ik bechainii sii hotii hai ab to tere naam se
+ishq hu_aa jab se naa guzaraa ik lamhaa aaraam se
+kyaa haal hu_aa chaahat me.n sanam mushkil hai tumase kuchh kahanaa
+hai tumako kasam mahabuub kabhii aa.Nkho.n se duur naa rahanaa
+itaraa ke kaho jhilamilaa ke kaho
+haa.N kaho na kaho \threedots
+%
+#endindian
+\endsong
+

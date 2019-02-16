@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{zindagii kii yahii riit hai haar ke baad hii jiit hai}%
+\film{Mr. India}%
+\year{1987}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Javed}%
+%
+% Contributor: BOL ANAMOL #11324 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+zindagii kii yahii riit hai haar ke baad hii jiit hai \-2
+tho.De aa.Nsuu hai.n tho.Dii ha.Nsii aaj Gam hai to kal hai Kushii
+zindagii kii yahii riit \threedots
+
+zindagii raat bhii hai saveraa bhii hai zindagii \-2
+zindagii hai safar aur baseraa bhii hai zindagii \-2
+ik pal dard kaa gaa.Nv hai duusaraa sukh bharii chhaa.Nv hai
+har na_e pal kaa nayaa giit hai
+zindagii kii yahii riit \threedots
+
+Gam kaa baadal jo chhaa_e ham to muskaraate rahe.n \-2
+apanii aa.Nkho.n me.n aashaa_o.n ke diip jalaate rahe.n
+aaj biga.De to kal phir bane aaj ruuThe to kal phir mane
+vaqt bhii jaise ik miit hai
+zindagii kii yahii riit \threedots
+%
+#endindian
+\endsong
+

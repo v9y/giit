@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{chal chal chal mere saathii, o mere haathii}% 
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+chal chal chal mere saathii, o mere haathii
+chal le chal khaTaaraa khii.nch ke 
+chal yaar, dhakkaa maar 
+ba.nd hai moTar kaar 
+chal yaar dhakkaa maar 
+chal chal chal \threedots
+
+phuulo.n sI naazuk hai vo, moTar me.n baiThii hai jo 
+aahistaa aahistaa chal, usako nA takaliif ho 
+haay haay, khaa nA jAye 
+haay haay, khaa nA jAye usakii naazuk kamariyaa bal, chal 
+chal chal chal \threedots
+
+hai hai oho ho \threedots
+
+khidamat terI kaam de, shaayad vo Inaam de 
+kar us hasii.n ko salaam, aa.Nkho.n se paigaam de 
+paas AjA, o sun raajaa 
+paas AjA, o sun raajaa 
+aisA maukA nA jAye nikal, chal 
+chal chal chal \threedots
+
+tU yaaro.n kA yaar hai, kitanaa vafaadaar hai 
+jhuuThaa hai saaraa jahaa.N, sachchaa terA pyaar hai
+tU pagalaa, nA badalaa, 
+tU pagalaa, nA badalaa 
+sArI duniyA gayii hai badal, chal 
+chal chal chal \threedots
+%
+#endindian
+\endsong
+%

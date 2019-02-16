@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{o mere duulhe raajaa baaje galiyo.n me.n baajaa}%
+\film{Ek Thaa Dil Ek Thi Dhadkan}%
+\year{1998}%
+\starring{Rajendra Kumar, Biswajeet, Inder Kumar, Arbaz, Isha Kopikar, Himani}%
+\singer{Abhijit, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o mere duulhe raajaa baaje galiyo.n me.n baajaa
+milane sasuraajii tere aa_e re
+le ke aa_ii tilak hai samadhan
+samadhii le ke aa_e hai.n tan man dhan
+baaje galiyo.n me.n baajaa aaj re
+
+kyaa mai.n bataa_uu.n kaise hai.n tere sasuraajii
+mu.nh se nikal na jaa_e ko_ii gaalii
+ho dulhan kii ammaa yahii moTe nakhare vaalii
+dulhan kii bhaabhii ek ##number## kam vaalii
+dulhan kii hai jo bahanaa vaah jii vaah kyaa usakaa kahanaa
+kyaa mai.n bataa_uu.n kuchh na kahaa jaa_e re
+le ke aa_ii tilak hai \threedots
+
+duulhe raajaa hai.n kaise tere gharavaale
+kyo.n tuune hai.n musTa.nDe paale
+are baap uThaa_iigiraa chaachaa hai bhikhaarii
+bhaa_ii lafa.ngaa bahanaa badasuurat bechaarii
+aur jo hai terii ma_iyaa usakii kyaa boluu.n bha_iyaa
+bhai.nso.n kaa jaise chaaraa khaa_e re
+o le ke aa_ii tilak hai \threedots
+
+he duulhe raajaa tum ye la.Daa_ii rukavaa do
+dono.n gharo.n ke logo.n ko ye samajhaa do
+duulhe dulhan ko sab mil ke du_aa do
+jug jug ji_e.n ye dono.n phuule.n phale.n ye dono.n
+ghar khushiyo.n se bhar jaa_e re
+ho le ke aa_ii tilak hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,83 @@
+% 
+\startsong
+\stitle{pyaas kuchh aur bhii bha.Dakaa dii jhalak dikhalaake}%
+\film{Lala Rukh}%
+\year{1958}%
+\starring{Talat Mehmood, Shyama}%
+\singer{Talat, Asha / Asha}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@cs.duke.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 10/22/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+%          Neha Desai <umdesai@cc.umanitoba.ca>
+%          Ketan Dholakia
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments: paas = regard, respect
+%
+\printtitle
+#indian
+%
+ta: pyaas kuchh aur bhii bha.Dakaa dii jhalak dikhalaake
+    tujhako paradaa rukh\-e\-roshan se haTaanaa hogaa
+
+aa: itanii gustaaK na ho ishq kii aavaaraa nazar
+    husn kaa paas nigaaho.n ko sikhaanaa hogaa
+
+ta: tujhako paradaa rukh\-e\-roshan se haTaanaa hogaa
+aa: husn kaa paas nigaaho.n ko sikhaanaa hogaa
+
+ta: chaa.Nd taaro.n ko mayassar hai nazaaraa teraa
+    merii betaab nigaaho.n se ye paradaa kyo.n hai
+aa: chaa.Nd aa_iinaa meraa, taare mere naqsh\-e\-kadam
+    Gair ko aa.Nkh milaane kii tamannaa kyo.n hai
+
+ta: tujhako paradaa rukh\-e\-roshan se haTaanaa hogaa
+aa: husn kaa paas nigaaho.n ko sikhaanaa hogaa
+
+ta: tujhako dekhaa tujhe chaahaa tujhe puujaa mai.n ne
+    bas yahii isake sivaa merii Kataa kyaa hogii
+aa: hamane achchhaa kiyaa ghabaraake jo mu.Nh pher liyaa
+    isase kam dil kii ta.Dapane kii sazaa kyaa hogii
+
+ta: tujhako paradaa rukh\-e\-roshan se haTaanaa hogaa
+aa: husn kaa paas nigaaho.n ko sikhaanaa hogaa
+
+ta: pyaas kuchh aur bhii bha.Dakaa dii jhalak dikhalaake
+    tujhako paradaa rukh\-e\-roshan se haTaanaa hogaa
+
+aa: itanii gustaakh na ho ishq kaa aavaaraa nazar
+    husn kaa paas nigaaho.n ko sikhaanaa hogaa
+
+%
+% Asha solo version
+%
+pyaas kuchh aur bhii bha.Dakaa dii jhalak dikhalaa ke
+tujhako paradaa ruK\-e\-roshan se haTaana hogaa
+chaa.Nd me.n nuur na taaro.n me.n chamak baaqii hai
+ye a.Ndheraa merii duniyaa kaa miTaanaa hogaa
+
+ai mujhe hijr kii raato.n me.n jagaanevaale
+jaa kabhii nii.nd judaaii me.n na aayegii tujhe
+subah Tapakegii terii aa.Nkh se aa.Nsuu banake
+raat siine kii kasak ban ke jagaayegii tujhe
+tujhako paradaa ruK\-e\-roshan se haTaana hogaa
+ye a.Ndheraa merii duniyaa kaa miTaanaa hogaa
+
+koii aramaa.N hai.N na hasarat hai, na ummiide.n hai.n
+ab mere dil me.n muhabbat ke sivaa kuchh bhii nahii.n
+ye muqaddar kii Karaabii ye zamaane kaa sitam
+bevafaa terii inaayat ke sivaa kuchh bhii nahii.n
+tujhako pardaa ruK\-e\-roshan se haTaana hogaa
+ye a.Ndheraa merii duniyaa kaa miTaanaa hogaa
+
+pyaas kuchh aur bhii bha.Dakaa dii jhalak dikhalaa ke
+tujhako paradaa ruK\-e\-roshan se haTaana hogaa
+
+%
+#endindian
+\endsong
+%
+

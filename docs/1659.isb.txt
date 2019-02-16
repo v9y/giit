@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{surama_ii shaam is tarah aaye}%
+\film{Lekin}%
+\year{}%
+\starring{Vinod Khanna, Dimple Kapadia}%
+\singer{Suresh Wadkar}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Sandeep Joshi (sjoshi@eng.clemson.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+surama_ii shaam is tarah aaye 
+saa.Ns lete hai.n jis tarah saaye 
+suramAI shAm\threedots 
+
+(koI AhaT nahii.n badan kI kahii.n
+phir bhI lagatA hai.n tU yahii.n hai kahI.n) \-2
+vaqt jAtA sunAI detA hai
+terA sAyA dikhAI detA hai
+jaise khushabU nazar se chhU jAye
+saa.Ns lete hai.n jis tarah saaye
+suramAI shaam \threedots
+
+din kA jo bhI pahar guzaratA hai
+koI ahasAn sA utaratA hai
+vaqt ke pA.Nv dekhatA hU.N mai.n
+roz ye chhA.Nv dekhatA hU.N mai.n
+aaye jaise koI khayAl aaye
+saa.Ns lete hai.n jis tarah saaye
+suramAI shAm \threedots
+
+%
+#endindian
+\endsong
+%

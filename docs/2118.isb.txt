@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{baadal kaalaa, koyal kaalii us se kaalii raat hai}%
+\film{Ang Se Ang Laga Le}%
+\year{}%
+\starring{Satish Kaul, Prema Narayan}%
+\singer{Kishore}%
+\music{Pradeep Roy Choudhary}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: Indrani
+% Transliterator: K Vijay Kumar
+% Credits: Surajit Bose
+% Editor:
+%
+\printtitle
+#indian
+%
+baadal kaalaa, koyal kaalii, us se kaalii raat hai,
+us se kaalii zulf terii jo saavan kii hamaraaz hai
+baadal kaalaa   \threedots
+
+belaa goraa, juhii gorii, us se gorii chaa.Ndanii,
+us se goraa mukha.Daa teraa jis pe mujhako naaz hai
+baadal kaalaa   \threedots
+
+ambar niilaa, saagar niilii, us se niilaa niil kamal,
+us se niilii aa.Nkhe.n terii jin me.n gaharaa raaz hai
+baadal kaalaa   \threedots
+
+sur hai miiThaa, lay hai miiThii, us se miiThii raaginii,
+us se miiThe ho.nTh hai.n tere, aur terii aavaaz hai
+baadal kaalaa   \threedots
+%
+#endindian
+\endsong
+%

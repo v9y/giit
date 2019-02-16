@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{tujhe milii roshanii mujhako a.ndheraa}%
+\film{Apnaa Haath Jagannaath}%
+\year{1960}%
+\starring{Kishor Kumar, Saeeda Khan, Leela Chitnis, Nazeer Husain}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #11450 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+tujhe milii roshanii mujhako a.ndheraa \-2
+saaraa jahaa.N hai badaGumaa.N
+ko_ii nahii.n meraa yahaa.N
+tujhe milii roshanii \threedots
+
+chale the basaane do dil ik din javaa.N\-javaa.N na_ii\-na_ii duniyaa
+mujhe to milaa naa raastaa ko_ii ho tumhii.n ba.Dhe chale ga_e tanahaa
+ab tuu kahaa.N aur mai.n kahaa.N
+mai.n huu.N zamii.n tuu aasamaa.N
+tujhe milii roshanii \threedots
+
+gha.Dii\-gha.Dii chaahaa mai.n mar jaa_uu.N gha.Dii\-gha.Dii tuune mujhe rokaa
+aa_ii terii yaade.n aise chhupake kabhii\-kabhii hu_aa teraa dhokhaa
+dekhaa jahaa.N teraa nishaa.N
+gaane lagii tanahaa_iyaa.N
+tujhe milii roshanii \threedots
+%
+#endindian
+\endsong
+

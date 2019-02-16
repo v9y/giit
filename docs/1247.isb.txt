@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{mohaniyaa su.ndar mukha.Daa khol}%
+\film{Lal Haveli}%
+\year{1944}%
+\starring{Noorjehan, Surendra}%
+\singer{Noorjehan, Surendra}%
+\music{Mir Sahib}%
+\lyrics{Shums Lucknowi}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@cs.duke.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Rahul Shridhar <rahul@eng2.uconn.edu>
+% Date: 07/28/1996
+% Comments:
+%
+\printtitle
+#indian
+%
+su: mohaniyaa, su.ndar mukha.Daa khol \-2
+    su.ndar mukha.Daa khol
+    mohaniyaa, su.ndar mukha.Daa khol 
+nU: pa.nchhii Daar\-Daar na Dol \-2
+su: mohaniyaa, su.ndar mukha.Daa khol
+
+su: man kii ho kis tarah a.nt abhilaashaa (???) \-2
+    ku_aa.N paas aur phir bhii pyaasaa \-2
+nU: ruup ba.Daa anamol, ruup ba.Daa anamol
+su: su.ndar mukha.Daa khol
+    mohaniyaa, su.ndar mukha.Daa khol
+
+nU: haal jo teraa, huii hai meraa (???) \-2
+    ek jagah dono.n kaa baseraa \-2
+su: prem kaa amarit gol \-2
+    mohaniyaa, su.ndar mukha.Daa khol \-2
+nU: pa.nchhii Daar\-Daar na Dol \-2
+su: mohaniyaa, su.ndar mukha.Daa khol \-2
+%
+#endindian
+\endsong
+%
+

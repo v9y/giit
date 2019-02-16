@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{sarakaa_e liyo khaTiyaa jaa.Daa lage}%
+\film{Raajaa Baabu}%
+\year{1994}%
+\starring{Govinda, Karisma, Kader, Shakti, Aruna Irani, Prem Chopra, Gulshan}%
+\singer{Kumar Sanu, Poornima}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sarakaa_e liyo khaTiyaa jaa.Daa lage
+jaa.De me.n balamaa pyaaraa lage
+sarakaa_e liyo takiyaa jaa.Daa lage
+jaa.De me.n balamaa \threedots
+
+garamii me.n maathe se Tapake pasiinaa
+bhaa_e na baarish kaa Tip Tip mahiinaa
+su_ii chubhe yaa sholaa saa bha.Dake
+maane na bairii jiyaraa moraa dha.Dake
+Thukaraa_e nahii.n batiyaa jaa.Daa lage
+sarakaa_e liyo khaTiyaa \threedots
+
+pa.Dane lagii hai ka.Daake kii sardii
+kitanaa sataa_e hai mausam bedardii
+aise me.n kaise sahe.n ham judaa_ii
+baaho.n me.n leke o.Dhaa do rajaa_ii
+tarasaa_e baiThii ratiyaa jaa.Daa lage
+sarakaa_e liyo takiyaa \threedots
+%
+#endindian
+\endsong
+

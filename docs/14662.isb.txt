@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{subah subah jab khi.Dakii khole ... ##hello how are you?##}%
+\film{Yash}%
+\year{1996}%
+\starring{Vijay Anand, Kartika Rane, Parikshit Sahani, Mangal Dhillon, Sonu Walia}%
+\singer{Jojo}%
+\music{Tabun}%
+\lyrics{Rajesh Johari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+subah subah jab khi.Dakii khole baajuu vaalii la.Dakii haay
+dil meraa bole ##hello how are you?##
+subah subah jab khi.Dakii \threedots
+
+aa.Nkh jhukaa ke aa.Nkh milaa_e aa.Nkh milaake jab sharamaa_e
+dil meraa bole \threedots
+
+duur se hii dekhataa huu.N baat hogii kaise
+aajuu baajuu vaale saare dekhe.n mujhako aise
+kabhii mai.n boluu.n to bolaa na jaa_e
+saa.Ns bharuu.n to tham tham jaa_e
+dil meraa bole \threedots
+
+dil ye chaahe aaj dil kii dha.Dakan usako de duu.n
+dha.Dakan to dha.Dakan hai saaraa jiivan usako de duu.n
+kabhii mai.n boluu.n \threedots
+
+dil meraa bole di di di di
+dil meraa bole he he
+%
+#endindian
+\endsong
+

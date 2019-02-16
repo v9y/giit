@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{zor dekho shor dekho tho.Daa kaho tho.Daa suno}%
+\film{zor}%
+\year{1998}%
+\starring{Sunny, Sushmita, Milind Gunaji, Om Puri, Anupam, Farida, Dina Pathak}%
+\singer{Agosh}%
+\music{Agosh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zor
+zor dekho shor dekho tho.Daa kaho tho.Daa suno
+zor dekho shor dekho tho.Daa ruko tho.Daa chalo
+kisii ne kisii se kahaa machaa hai shahar me.n ye shor ye hai zor
+
+zi.ndagii khushanumaa vaqt khilataa hu_aa
+jo sapano.n me.n thaa vo bhii haasil hu_aa
+dil ko baa.ndhe hu_e pyaar kii Dor hai
+ye kahaanii to hai jab talak zor hai
+zor dekho shor dekho \threedots
+
+jab bhii Dar saa lage chaa.nd chhupane lage
+ho a.ndheraa ba.Daa tum agar ruk ga_e
+ye nahii.n dekhanaa raat ghanaghor hai
+yaad rakhanaa zaraa tum me.n bhii zor hai
+zor dekho shor dekho \threedots
+%
+#endindian
+\endsong
+

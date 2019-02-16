@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{vaqt tho.Daa saa abhii kuchh aur guzar jaane de}%
+\film{Seemaa}%
+\year{1971}%
+\starring{Simi Garewal, Kabir Bedi, Bharati, Rakesh Roshan}%
+\singer{Kishore, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11533 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa \:	vaqt tho.Daa saa abhii kuchh aur guzar jaane de
+	dil me.n uThataa hu_aa tuufaan Thahar jaane de
+ki \:	aur tho.Dii der dekh lene de ye cheharaa
+	zindagii bhar kii hasarat dil se nikal jaane de
+aa \:	vaqt tho.Daa saa \threedots
+
+ki \:	terii maasuum javaanii kaa hai ehasaas mujhe
+	phir bhii baiThaa le gha.Dii bhar ke li_e paas mujhe
+	o raanii
+aa \:	tan kii duurii na rahe man kaa milan ho sachchaa
+	pyaar kii aag me.n tan\-man bikhar jaane de
+	vaqt tho.Daa saa \threedots
+
+	terii baa.Nho.n kaa ka.Nval chuum luu.N to chain mile raajaa
+	terii baa.Nho.n me.n zaraa jhuum luu.N to chain mile raajaa
+ki \:	chand gha.Diyaa.N mil ga_ii.n jo zindagii se hamako
+	apanii baa.Nho.n kii panaaho.n me.n guzar jaane de
+do \:	vaqt tho.Daa saa \threedots
+%
+#endindian
+\endsong
+

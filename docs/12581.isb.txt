@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mai.n terii tamannaa karataa huu.N}%
+\film{Khaibar}%
+\year{1954}%
+\starring{Nigaar, Kamal Kapoor, Naaz, Tiwari, Niranjan Sharma}%
+\singer{Mukesh, Madhubala Jhaveri}%
+\music{Hansraj Behl}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11428 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	mai.n terii tamannaa karataa huu.N
+	taqadiir se lekin Darataa huu.N
+ma \:	( o jaaniyaa.N ) \-2 meraa dil mujhako de
+mu \:	mai.n terii tamannaa \threedots
+
+	mujhe tujhase nahii.n hai ko_ii gilaa
+	milanaa thaa mujhe jo Gam vo milaa
+	taqadiir banaane vaale se taqadiir kaa shiqavaa karataa huu.N
+ma \:	o jaaniyaa.N \threedots
+
+mu \:	patthar na samajh insaan huu.N mai.n
+	ik Thaharaa hu_aa tuufaan huu.N mai.n
+	mujhe jaan se apanii pyaar nahii.n mai.n aan pe apanii marataa huu.N
+ma \:	o jaaniyaa.N \threedots
+mu \:	mai.n terii tamannaa \threedots
+%
+#endindian
+\endsong
+

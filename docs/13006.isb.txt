@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{meha.ndii lagii mere haath re}%
+\film{Mehndi Lagi Mere Haath}%
+\year{1962}%
+\starring{Ashok Kumar, Nanda, Shashi Kapoor}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10912 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+meha.ndii lagii mere haath re meha.ndii lagii mere haath
+bhuul jaa isako e dil ye to sapano.n kii thii baat re
+meha.ndii lagii mere \threedots
+
+anajaane me.n mai.n baavariyaa
+likh baiThii tere naam umariyaa
+nibh na sakegii baat re
+meha.ndii lagii mere \threedots
+
+maa.Ng bhii uja.Dii dil bhii TuuTaa
+meha.ndii kaa ra.ng bhii nikalaa jhuuThaa
+a.Nsu_an se dho_e haath re
+meha.ndii lagii mere \threedots
+
+unakii galii kaa pheraa chho.Daa
+aap hii apane dil ko to.Daa
+ban ga_ii aisii baat re
+meha.ndii lagii mere \threedots
+
+dvaar bajii thii jo shahanaa_ii
+vah shahanaa_ii thii harajaa_ii
+chho.D ga_ii meraa haath re
+meha.ndii lagii mere \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{do dil dha.Dak rahe hai.n aur aavaaz ek hai}%
+\film{Insaaf}%
+\starring{Ajit, Nalini Jaywant}%
+\singer{Talat, Asha}%
+\music{Chitragupt}%
+\lyrics{Asad Bhopali}%
+% 
+% Contributor: Neeraj Malhotra <malhotra@bedford.progress.COM>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/19/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Comments: Released in 1956
+%
+\printtitle
+#indian
+%
+aashaa : aa aa\threedots h.n h.n\threedots aa aa\threedots
+         do dil dha.Dak rahe hai.n aur aavaaz ek hai \-2
+talat  : naGame judaa\-judaa hai.n magar saaz ek hai
+dono.n : do dil dha.Dak rahe hai.n aur aavaaz ek hai \-2
+
+t: ra.Ngiin har adaa hai, bechain har nazar hai \-2
+a: ik dard saa idhar, ik dard saa udhar hai
+t: dono.n kii beqaraarii kaa a.ndaaz ek hai \-2
+do: naGame judaa\-judaa hai.n magar saaz ek hai
+    do dil dha.Dak rahe hai.n aur aavaaz ek hai
+
+a: ta.Dapaaiye na hamako, sharmaaiye na hamase \-2
+t: dono.n kii zi.ndagii hai ek duusare ke dam se \-2
+a: ham do kahaaniyaa.N hai.n magar raaz ek hai \-2
+do: naGame judaa\-judaa hai.n magar saaz ek hai
+    do dil dha.Dak rahe hai.n aur aavaaz ek hai \-2
+%
+#endindian
+\endsong
+%
+

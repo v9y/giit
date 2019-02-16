@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{jab tak pure naa ho.n phere saat}% 
+\film{Nadiya Ke Paar}%
+\year{1982}%
+\starring{Sachin, Sadhna Singh}%
+\singer{Hemlata, chorus}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Porkey (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+jab tak pUre naa ho.n phere saat 
+tab tak dulhan nahii.n dulhaa kii 
+re tab tak babunii nahii.n babuvaa kii, naa, jab tak \threedots 
+
+1) abhahii to pahunaa pahalii bha.nvar pa.Dii hai
+abhii.n to dillii dUr kha.Dii hai
+ho pahalii bha.nvar pa.Dii hai dillii dUr kha.Dii hai
+saat phere saat janmo.n kaa saath, jab tak pUre naa \threedots 
+
+2) jaise jaise bha.Nvar pa.De man apano.n ko chho.De 
+ek ek bhaa.Nvar naataa anjaano.n se jo.De 
+man ghar apano.n ko chho.De, anjaano.n se naataa jo.De 
+sukh kii badarii aa.Nsuu kii barasaat, jab tak pUre naa \threedots 
+%
+#endindian
+\endsong
+%

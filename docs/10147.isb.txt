@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tere dil kii paTarii pe dau.Degii mere dil kii ##rail##}%
+\film{Aashiq Mastaane}%
+\year{1996}%
+\starring{Harish Kumar, Abhishek Kapoor, Monica Bedi, Ayesha, Mohnish}%
+\singer{Abhijit, Poornima}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere dil kii paTarii pe dau.Degii mere dil kii ##rail##
+aashiq i.njan maashuuq Dibbaa dau.Daa jaa_e dil kaa mel
+pyaar kii jha.nDii hil jaa_e yaar kaa ##signal## mil jaa_e
+i.njan meraa siiTii maare tho.Daa saa dha.Dake
+tere dil kii paTarii pe \threedots
+
+dil ko roko na dil ko Toko na ye gha.Dii hai mulaakaat kii
+dil diyaa tujhako chun liyaa tujhako phir sanam der kis baat kii
+pyaar kii gaDDii chalane de is duniyaa ko jalane de
+har mausam me.n dau.Daa jaa_e ye tuufaanii mel
+tere dil kii paTarii pe dau.Degii \threedots
+
+terii baaho.n me.n dil kii raaho.n me.n zi.ndagii hai suhaanaa safar
+tere pyaar kii is khumaarii me.n na rahii mujhako apanii khabar
+tuu hii merii ma.nzil hai tuu hii meraa saahil hai
+chaahat kaa i.njan hotaa hai kabhii nahii.n fel
+tere dil kii paTarii pe dau.Degii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tum agar ye mujhase puuchho mai.n kaun huu.N}%
+\film{God Mother}%
+\year{1998}%
+\starring{Shabana Azami, Milind Gunaji, Nirmal Pandey}%
+\singer{Abhijit}%
+\music{Vishal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum agar ye mujhase puuchho he
+tum agar ye mujhase puuchho mai.n kaun huu.N kyaa karataa huu.N
+mai.n tumase kahuu.n premii huu.N ik la.Dakii par marataa huu.N
+tum agar kaho phir mujhase mai.n Thokar khaa jaa_uu.ngaa
+mai.n shart lagaa luu.n tumase us la.Dakii ko paa_uu.ngaa
+tum agar ye mujhase \threedots
+
+tum agar mujhe samajhaa_o hai pyaar me.n badanaamii bhii
+pahale to isame.n Gam hai baad me.n naakaamii bhii
+mai.n tumase kahuu.n aaho.n se patthar bhii pighal jaate hai.n
+aakaash me.n hai.n jo taare dharatii pe utar aate hai.n
+tum agar mujhe samajhaa_o mai.n raah me.n kho jaa_uu.ngaa
+mai.n shart lagaa luu.n tumase apanii ma.nzil paa_uu.ngaa
+tum agar mujhe samajhaa_o \threedots
+
+tum agar mujhe samajhaa_o mai.n sapano.n me.n rahataa huu.N
+ik yuu.n hii sii la.Dakii hai mai.n jisako parii kahataa huu.N
+mai.n tumase kahuu.n tum usako merii aa.Nkho.n se dekho
+to merii tarah phir tum bhii usako chaaho aur puujo
+tum agar mujhe samajhaa_o mai.n paagal ho jaa_uu.ngaa
+mai.n shart lagaa luu.n phir bhii majanuu hii kahalaa_uu.ngaa
+tum agar ye mujhase \threedots
+%
+#endindian
+\endsong
+

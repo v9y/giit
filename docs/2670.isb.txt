@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{na jaane kyaa huaa jo tuune chhuu liyaa}%
+\film{Dard}%
+\year{1981}%
+\starring{}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: Nita
+% Transliterator: Nita
+% Date: 15th March, 2000
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+na jaane kyaa huaa jo tuune chhuu liyaa
+khilaa gulaab kii tarah meraa badan
+nikhar nikhar ga_ii sa.Nvar sa.Nvar ga_ii
+banaake aa_iinaa tujhe ai jaaneman
+na jaane kyaa huaa \threedots
+
+bikharaa hai kaajal fizaao.n me.n bhiigii bhiigii hai.n shaame.n
+buu.Ndo.n kii rim\-jhim se jaagii aag Tha.nDii havaa me.n
+aajaa sanam ye hasii.n aag ham le.n dil me.n basaa
+na jaane kyaa huaa \threedots
+
+aa.Nchal kahaa.N mai.n kahaa.N huu.N ye mujhe hosh kyaa hai
+ye beKudii tuune dii hai pyaar kaa ye nashaa hai
+sun le zaraa saaz\-e\-dil gaa rahaa hai naGamaa teraa
+na jaane kyaa huaa \threedots
+
+kaliyo.n kii ye sej mahake raat jaage milan kii
+kho jaae.N dha.Dakan me.n dha.Dakane.n mere man kii
+aa paas aa terii har saa.Ns me.n mai.n jaa_uu.N samaa
+na jaane kyaa huaa \threedots
+
+%
+#endindian
+\endsong
+%

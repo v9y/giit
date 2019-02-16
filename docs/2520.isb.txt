@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ai dilarubaa nazare.n milaa}%
+\film{Rustom Sohrab}%
+\year{1963}%
+\starring{Suraiyya, Nimmi}%
+\singer{Lata}%
+\music{Sajjad}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ai dilarubaa ai dilarubaa
+ai dilarubaa nazare.n milaa
+kuchh to mile Gam kaa silaa
+ai dilarubaa \threedots
+
+ashqo.n kaa ik dariyaa bahaa
+pyaasaa thaa dil pyaasaa rahaa
+nazare.n milaa, nazare.n milaa
+rahane na de ko_ii gilaa
+ai dilarubaa \threedots
+
+%
+#endindian
+\endsong
+%

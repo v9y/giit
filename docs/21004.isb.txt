@@ -1,0 +1,61 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jha.nkaaro jha.nkaaro jhananana jhan jhan}%
+\film{Netaji Subhash Chandra Bose}%
+\year{1966}%
+\starring{}%
+\singer{Hemant Kumar, Sabita Chowdhury, Chorus}%
+\music{Salil Chowdhury}%
+\lyrics{Pradeep}%
+% 
+% Audio on: www.salilda.com
+% Tags: Patriotic
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 2 Jul 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+he: jha.nkaaro jha.nkaaro jhananana jhan jhan
+    jha.nkaaro agniviiNaa
+    aazaad hoke jiyo bandhuo.n 
+    ye jiinaa bhii kyaa jiinaa
+
+ko: jha.nkaaro jha.nkaaro jhananana jhan jhan 
+    jha.nkaaro agniviiNaa
+    aazaad hoke jiyo bandhuo.n 
+    ye jiinaa bhii kyaa jiinaa
+
+he: baj gayaa bigul diiwaano chalate chalo
+    ma.nzil kii taraf mastaano chalate chalo
+ko: baj gayaa bigul diiwaano chalate chalo
+    ma.nzil kii taraf mastaano chalate chalo
+he: aazaadii hai apanaa haq 
+    jab tak na mile tab tak
+    aazaadii ke parawaano chalate chalo
+ko: jha.nkaaro jha.nkaaro \threedots
+
+sa: o sir kaTawaanewaalo aage ba.Dho
+ko: o sir kaTawaanewaalo aage ba.Dho
+sa: phaa.Nsii pe laTakanewaalo aage ba.Dho
+sa: ba.ndhan me.n hai apanii maa.N 
+    za.njiir me.n apanii maa.N
+    o Kuun bahaanewaalo aage ba.Dho
+ko: jha.nkaaro jha.nkaaro \threedots
+
+he: tum ho shero.n kii Tolii tum na Daro
+ko: tum ho shero.n kii Tolii tum na Daro
+he: chaahe laaThii chale yaa golii tum na Daro
+ko: chaahe laaThii chale yaa golii tum na Daro
+he: shamashiir ho desh kii tum 
+    taqadiir ho desh kii tum
+    bolo i.nqalaab kii bolii tum na Daro
+ko: jha.nkaaro jha.nkaaro \threedots
+%
+#endindian
+\endsong

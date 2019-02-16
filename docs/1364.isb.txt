@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{o ha.nsinii merii ha.nsinii, kahaa.N u.D chalii}% 
+\film{Zehreela Insaan}%
+\year{1974}%
+\starring{Rishi, Neetu, Moushami,Pran}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Audio on: HMV
+% Contributor:  Prince Kohli (pkohli@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%         Surma Bhopali
+%         George Thomas
+%
+\printtitle 
+#indian
+%
+(o ha.nsinii merI ha.nsinii, kahaa.N u.D chalii
+mere aramaano.n ke pa.nkh lagaa ke, kahaa.N u.D chalii)\- 2
+
+(aajaa merI saa.Nso.n me.n mahak rahaa re terA gajaraa
+aajaa merI raato.n me.n lahak rahaa re terA kajaraa)\- 2 
+
+o ha.nsinii \threedots 
+
+(der se laharo.n me.n kamal sambhaale hue man kA
+jIvan taal me.n bhaTak rahaa re terA ha.nsaa)\- 2 
+
+o ha.nsinii \threedots
+kahaa.N u.D chalii 
+kahaa.N u.D chalii
+%
+#endindian
+\endsong
+%

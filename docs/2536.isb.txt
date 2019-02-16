@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{baiThii huu.N terii yaad kaa le kar ke sahaaraa}%
+\film{Village Girl}%
+\year{1945}%
+\starring{Noorjehan, Nazir}%
+\singer{Noorjehan}%
+\music{Shyamsunder}%
+\lyrics{Wali Saheb}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Date: 09/28/99
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ 
+baiThii huu.N terii yaad kaa lekar ke sahaaraa
+aa jaao ke chamake merii qismat kaa sitaaraa
+ 
+din raat jalaa karatii huu.N furqat me.n tumhaarii
+har saa.Ns dhuaa.N banake nikalataa hai hamaaraa
+aa jaao ke chamake \threedots
+ 
+chup chaap sahe jaatii huu.N mai.n dard kii choTe.n
+le le ke jiye jaatii huu.N mai.n naam tumhaaraa
+aa jaao ke chamake \threedots
+ 
+aksar merii aa.Nkho.n ne tujhe niind me.n Dhuu.NDaa
+uTh uTh ke tujhe dil ne ka_ii baar pukaaraa
+aa jaao ke chamake \threedots
+ 
+%
+#endindian
+\endsong
+%

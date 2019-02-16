@@ -1,0 +1,48 @@
+% ITRANS SONG # 3454; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-12-15 01:11:40 PST
+%
+\startsong
+\stitle{pujaarii, more mandir me.n aa_o}%
+\film{jaagirdaar}%
+\year{1937}%
+\starring{Surendra, Motilal, Bibbo, Maya Banerjee, Ramchandra Marathe, Yakub, Zia Sarhadi}%
+\singer{Surendra, Bibbo}%
+\music{Anil Biswas}%
+\lyrics{Pt Indra}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 15 Dec 2002
+% Comments: Geetanjali Series.
+%    Sagar Film Co. , Directed by Mahboob.
+%    Zia Sarhadi wrote 6 of 10 songs in the film.
+%
+\printtitle
+#indian
+%
+bibbo:
+pujaarii, more mandir me.n aao
+nai.nno.n kii ga~Ngaa jamunaa me.n, saajan aa_o nahaa_o
+
+surendra:
+prem dev kii karo aaratii, sneh sudhaa barasaa_o
+dil ke taaro.n par sajanii tum diipak raag sunaa_o
+  dono.n: pujaarii, more mandir me.n aao
+  surendra: pujaarii, more mandir me.n aao
+
+bibbo:
+bachapan ruuTh gayo kyuu.N mose, ko_ii ye batalaa_o
+joban ruuTh na jaaye baalam, aisii raah bataa_o
+  dono.n: pujaarii, more mandir me.n aao
+  bibbo: pujaarii, more mandir me.n aao
+
+surendra:
+chandragrahan hai, chandramukhii tum aa_o yahaa.N chhup jaa_o
+ruup\-sudhaa kii mast pyaalii pii_o aur pilaa_o
+  dono.n: pujaarii, more mandir me.n aao
+  dono.n: pujaarii, more mandir me.n aao
+%
+#endindian
+\endsong
+%

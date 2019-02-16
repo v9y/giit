@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{bharam terii vafaao.n kaa miTaa dete to kyaa hotaa}%
+\film{Armaan}%
+\year{1953}%
+\starring{Dev Anand, Madhubala}%
+\singer{Talat}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+bharam terii vafaao.n kaa miTaa dete to kyaa hotaa
+tere chehare se ham pad.raa uThaa dete to kyaa hotaa
+bharam terii vafaao.n kaa   \threedots
+
+muhabbat bhii tijaaraat ho gayii hai is zamaane me.n
+agar ye raaz duniyaa ko bataa dete to kyaa hotaa
+bharam terii vafaao.n kaa   \threedots
+
+terii ummiid par jiine se haasil kuch nahii.n lekin
+agar yuu.Nhii na dil ko aasaraa dete to kyaa hotaa
+bharam terii vafaao.n kaa   \threedots
+              
+%
+#endindian
+\endsong
+%

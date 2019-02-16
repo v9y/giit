@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{dig dig ... hasiino.n kii savaarii hai ... rik{}shaa hamaarii}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Rafi, Suman}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10250 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+ra \:	dig dig dig dig dig dig he
+	dig dig dig dig
+	hasiino.n kii savaarii hai hasiino.n kii savaarii
+	ba.Dii taqadiir vaalii rik{}shaa hamaarii hai ye rik{}shaa hamaarii hai
+	hasiino.n kii savaarii hai \threedots
+
+aa \:	oy ruk ke oy tham ke oy ruk ke oy tuu chal rik{}shaa vaale
+	ki u.D\-u.D jaa_e.n mere gesuu kaale\-kaale
+ra \:	suratiyaa to hai hii adaa bhii pyaarii\-pyaarii hai adaa bhii pyaarii\-pyaarii
+	hasiino.n kii savaarii hai \threedots
+
+	( o baiThii rah tuu baiThii rah ) \-2 na hil\-Dul lailaa
+	kamaanaa hai kiraayaa tujhase pahalaa\-pahalaa kiraayaa pahalaa\-pahalaa
+	jaan\-e\-man sun le ye rik{}shaa tumhaarii hai
+	hasiino.n kii savaarii hai \threedots
+
+aa \:	( oy mu.D jaa oy mu.D jaa ) \-2 na zid kar raa.njhaa
+	kiraayaa duu.Ngii aadhaa ki teraa meraa saa.Njhaa \-2
+ra \:	oy jaaN de_o hiir jii ye jaan bhii tumhaarii hai ye jaan bhii tumhaarii
+	hasiino.n kii savaarii hai \threedots
+%
+#endindian
+\endsong
+

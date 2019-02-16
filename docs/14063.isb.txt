@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{aaj mere paas rahanaa kuchh sunanaa kuchh kahanaa}%
+\film{Sanam Tere Hain Ham}%
+\year{1992}%
+\starring{Bhupendra, Dipika, Shiva, Satyen Kappu, Sudhir Dalvi, Seema Deo}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Bappi Lahiri}%
+\lyrics{Mahendra Dehlvi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	aaj mere paas rahanaa kuchh sunanaa kuchh kahanaa
+	ye raat hai teraa saath hai kyaa baat hai
+ku \:	aaj mere paas rahanaa \threedots
+
+a \:	tan meraa pyaasaa man pyaasaa hai baraso.n se mere sajanaa
+	aaj to barasegaa khul ke pyaar teraa mere a.nganaa
+ku \:	ho tan meraa pyaasaa \threedots
+a \:	pyaas bujhaa a.ng lagaa dil na jalaa mere sajanaa
+	ye raat hai teraa saath hai \threedots
+
+ku \:	dil kahataa hai meraa ye mai.n tujhame.n kho jaa_uu.N
+	phir na judaa kar paa_e ko_ii aise teraa ho jaa_uu.N
+	ham tum javaa.n aur ye shamaa.n hogaa kahaa.n merii sajanii
+	ye raat hai teraa saath hai \threedots
+%
+#endindian
+\endsong
+

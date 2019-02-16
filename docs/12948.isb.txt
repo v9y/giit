@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tumase lagan laagii ... tum jo dil me.n aa_e}%
+\film{Madhu}%
+\year{1959}%
+\starring{Karan Diwan, Meena Kumari}%
+\singer{Rafi, Lata}%
+\music{Roshan}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10502 [V S Rawat]
+% Transliterator: 
+% Comments: Based on a story by Premen Mitra
+% 
+\printtitle
+#indian
+%
+la \:	tumase lagan laagii haay aisii agan jaagii
+	ye dil hu_aa diivaanaa nazar jhukii\-jhukii jaa_e
+ra \:	tum jo dil me.n aa_e aa.Nkho.n me.n merii chhaa_e
+	is dil kii aarazuu kaa chaman khilaa\-khilaa jaa_e
+
+	jabase nazar milii khoyaa meraa jahaa.N
+	tum ho paas mere mai.n huu.N jaane kahaa.N
+la \:	dil kii lagan mere sajan jhuume terii qasam
+	jab se dekhaa tujhe naache meraa man
+	lahakii pavan jhuume ho.nTho.n ko ha.Nsii chuume
+	ye dil hu_aa diivaanaa \threedots
+
+la \:	tumase merii vafaa kahatii hai ye piyaa
+	dil se mere kabhii tum na honaa judaa
+ra \:	dil hai sanam tere li_e tuu hai jaan\-e\-vafaa
+	dil se pyaar teraa hogaa na judaa
+	jab se tujhe paayaa jiine kaa mazaa aayaa
+	is dil kii aarazuu kaa \threedots
+%
+#endindian
+\endsong
+

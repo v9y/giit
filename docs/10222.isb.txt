@@ -1,0 +1,30 @@
+
+%
+\startsong
+\stitle{dil TuuT gayaa jii chhuuT gayaa qismat ne miTaa kar}%
+\film{Aag}%
+\year{1948}%
+\starring{Raj Kapoor, Nargis, Kamini Kaushal, Nigaar, Premnath}%
+\singer{Shamshad}%
+\music{Ram Ganguli}%
+\lyrics{Behzad Lukhnawi}%
+%
+% Contributor: BOL ANAMOL #10310 [V S Rawat]
+% Transliterator: 
+% Credits; Urzung Khan
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil TuuT gayaa jii chhuuT gayaa qismat ne miTaa kar chho.D diyaa
+aa.Nkho.n me.n bhii to aa.Nsuu na rahe majabuur banaa kar chho.D diyaa
+dil TuuT gayaa jo \threedots
+
+ai merii ummiido.n kii duniyaa badanaam mohabbat hotii hai
+kyo.n mujhako banaayaa thaa apanaa kyo.n apanaa banaa kar chho.D diyaa
+dil TuuT gayaa jii \threedots
+%
+#endindian
+\endsong
+

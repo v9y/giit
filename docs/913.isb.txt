@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{jyot se jyot jagaate chalo, prem kii ga.ngaa bahaate chalo}%
+\film{Sant Gyaneshwar}%
+\year{}%
+\starring{Sudhir Kumar, Bablu, Surekha}%
+\singer{Lata / Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Uday Patel
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jyot se jyot jagaate chalo, prem kii ga.ngaa bahaate chalo
+raah me.n aae jo diin dukhii, sabako gale se lagaate chalo
+
+jisakaa na koii sa.ngii saathii iish{}var hai rakhavaalaa
+jo nirdhan hai jo nirbal hai vah hai prabhuu kaa pyaaraa
+pyaar ke motii luTaate chalo, prem kii ga.ngaa\threedots
+
+aashaa TuuTii mamataa ruuThii chhuuT gayaa hai kinaaraa
+ba.nd karo mat dvaar dayaa kaa de do kuchh to sahaaraa
+diip dayaa kaa jalaate chalo, prem kii ga.ngaa\threedots
+
+chhaaI hai chhaao.n aur a.ndheraa bhaTak ga_ii hai.n dishaae.n
+maanav ban baiThaa hai daanav kisako vyathaa sunaae.n
+dharatii ko svarg banaate chalo, prem kii ga.ngaa\threedots
+
+%
+% Mukesh version
+%
+jyot se jyot jagaate chalo prem kii ga.ngaa bahaate chalo
+raah me.n aa_e jo diin dukhii sab ko gale se lagaate chalo
+prema kii ga.ngaa bahaate chalo \threedots
+
+kaun hai uu.Nchaa kaun hai niichaa sab me.n vo hii samaayaa
+bhed bhaav ke jhuuThe bharam me.n ye maanav bharamaayaa
+dharm dhvajaa phaharaate chalo, prem kii ga.ngaa \threedots
+
+saare jag ke kaN kaN me.n hai divya amar ik aatmaa
+ek brahm hai ek satya hai ek hii hai paramaatmaa
+praaNo.n se praaN milaate chalo, prem kii ga.ngaa \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{su ru ru ru ru ... kuchh ruup usakaa mahakaa}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Sonu Nigam, Chorus}%
+\music{Nikhil Vinay}%
+\lyrics{Ravi Pawaar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he he he
+tum su ru ru ru ru ru ru
+su ru ru ru ru
+su ru ru ru ru
+su ru ru ru ru
+kuchh ruup usakaa mahakaa kuchh mai.n bhii bahakaa bahakaa
+mastii me.n dil ye gaane lagaa su ru ru ru ru
+usape merii nazar hai vo mujhase bekhabar hai
+mujhe pyaar us pe aane lagaa haay
+kuchh ruup usakaa \threedots
+
+pahale na thii itanii bekaraar zi.ndagii
+naa jaane kyuu.N aisaa lagataa hai kabhii kabhii
+tanhaa_ii raas nahii.n vo mere paas nahii.n
+usakaa ehasaas mere dil me.n jaagane lagaa
+puuchho naa haal hai kyaa jhuume.n dil aaj meraa
+kahii.n meraa hosh kho na jaa_e
+kuchh ruup usakaa \threedots
+
+usakii nazar kuchh to kaam aisaa kar ga_ii
+naa jaane kab mere dil me.n vo utar ga_ii
+ab tak anjaan thaa mai.n jaanaa hai aaj ye
+dil ke aramaan use paane ko machal ga_e
+dil ne use jaan liyaa maine pahachaan liyaa
+ko_ii use aaj ye bataa_e
+kuchh ruup usakaa \threedots
+%
+#endindian
+\endsong
+

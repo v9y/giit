@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{aanaa hai to chale aa_o suhaanii shaam hai}%
+\film{Taxi Stand}%
+\year{1958}%
+\starring{Anita Guha, Chandrashekhar, K N Singh, Majnu, Sundar, Om Prakash, Tuntun}%
+\singer{Rafi, Asha}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10163 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	aanaa hai to chale aa_o suhaanii shaam hai
+	aise me.n aapase dil ko zaruurii kaam hai
+ra \:	hamako bhii to qasam le lo kahaa.N aaraam hai
+	pahaluu me.n dard hai lab pe tumhaaraa naam hai
+
+aa \:	itanaa hii tumase hamako thaa kahanaa
+	dil me.n samaanaa dil hii me.n rahanaa \-2
+	is dil ko tumase yahii kaam hai
+	aanaa hai to chale aa_o \threedots
+
+ra \:	hai Daalii\-Daalii ulfat kii maalaa
+	ra.ngo.n me.n Duubaa phuulo.n kaa pyaalaa \-2
+	jaise muhabbat kaa ik jaam hai
+	hamase bhii to qasam le lo \threedots
+
+aa \:	halkaa saa ab to karake ishaaraa
+	Duubate hu_e ko denaa sahaaraa
+	terii hii nazaro.n kaa ye kaam hai
+	aanaa hai to chale aa_o \threedots
+%
+#endindian
+\endsong
+

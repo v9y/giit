@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{nadiyaa se dariyaa dariyaa se saagar saagar se gaharaa jaam}%
+\film{Namak Haraam}%
+\year{1973}%
+\starring{Rajesh Khanna, Amitabh}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Rajan Parrikar (parrikar@spot.colorado.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+nadiyaa se dariyaa, dariyaa se saagar
+saagar se gaharaa jaam (2)
+ho ho ho jaam me.n Duub gayii yaaro.n mere, jIvan kii har shAm (2)
+nadiyaa se dariyaa \threedots
+
+jo nA piye vo kyA jaane, piite hai kyo.n ham dIvaane yaar ahaa
+jab se hamane piinaa siikhaa, jiinaa siikhaa maranaa siikhaa yaar ahaa
+o ham jab yuu.N nashe me.n Dagamagaane lag gaye
+ho ho ho dil kii bechainii ko aayaa tho.Daa saa aaraam
+nadiyaa se dariyaa \threedots
+
+meraa kyA mai.n Gam kA maaraa, nashe me.n aalam hai saaraa yaar ahaa
+kisii ko daulat kA nashaa, kahii.n muhabbat kA nashaa yaar ahaa
+o kahakar ai sharaabii sab pukaare.n ab mujhe
+ho ho ho aur koii thaa ye to nahii.n thaa pahale meraa naam
+nadiyaa se dariyaa \threedots
+%
+#endindian
+\endsong
+%

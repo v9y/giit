@@ -1,0 +1,69 @@
+
+%
+\startsong
+\stitle{chaahe nainaa churaa_o ... pyaar ho ke rahegaa}%
+\film{Aas}%
+\year{1953}%
+\starring{Kamini Kaushal, Shekhar, Om Prakash}%
+\singer{Lata, Talat}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10817 [V S Rawat]
+% Credits: Ashok Dhareshwar
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+% 
+\printtitle
+#indian
+%
+ta \:	chaahe nainaa churaa_o
+	chaahe daaman bachaa_o
+	pyaar ho ke rahegaa \-2
+la \:	chaahe nainaa churaa_o
+	chaahe daaman bachaa_o
+	pyaar ho ke rahegaa \-2
+do \:	chaahe nainaa churaa_o
+
+ta \:	are ye anajaane raaste
+	ye nagarii anajaanii
+la \:	ho ye anajaane raaste
+	ye nagarii anajaanii
+ta \:	are is chakkar se naa bache
+	kyaa GYaanii kyaa dhyaanii
+la \:	ho is chakkar se naa bache
+	kyaa GYaanii kyaa dhyaanii
+ta \:	tum in pyaar kii galiyo.n se chaahe
+	bach\-bach ke jaa_o
+	pyaar ho ke rahegaa \-2
+do \:	chaahe nainaa churaa_o
+
+ta \:	are is duniyaa kii bhii.D me.n
+	aa_oge akele
+la \:	ho is duniyaa kii bhii.D me.n
+	aa_oge akele
+ta \:	are aate hii lag jaaye.nge
+	aramaano.n ke mele
+ta \:	ho aate hii lag jaaye.nge
+	aramaano.n ke mele
+ta \:	man ke raajamahal me.n chaahe
+	parade giraa_o
+	pyaar ho ke rahegaa \-2
+do \:	chaahe nainaa churaa_o
+
+ta \:	are kahane ko to pyaar pe
+	marataa hai zamaanaa
+la \:	ho kahane ko to pyaar pe
+	marataa hai zamaanaa
+ta \:	are lekin apanii haar se
+	Darataa hai zamaanaa
+la \:	ho lekin apanii haar se
+	Darataa hai zamaanaa
+ta \:	tum ye pyaar kaa taraanaa chaahe
+	gaa_o na gaa_o
+	pyaar ho ke rahegaa \-2
+do \:	chaahe nainaa churaa_o
+%
+#endindian
+\endsong
+

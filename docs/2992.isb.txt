@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{ye bhii koii ruuThane kaa mausam}%
+\film{Solvah Saal}%
+\year{1958}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits:
+% Date:9 March,2001
+%
+\printtitle 
+#indian 
+% 
+
+(ye bhii koii ruuThane kaa mausam hai diivaane)\-2
+qismat se aate hai.n pyaar ke zaamaane
+ye bhii koii ruuThane \threedots
+
+(dekho saavan Dole, bhiigii zulfe.n khole)\-2
+maano re o bhole
+o bhole baabu, o bhole
+o bhole bhaale baabu,o bhole
+dekho rukate nahii.n hai.n bahaar ke zamaane
+ye bhii koii ruuThane \threedots 
+
+(dha.Dakan ke ye gaane, chitavan ke afasaane)\-2
+sun sun o diivaane
+(diivaane tuu kyaa jaane diivaane)\-2
+ajii milate kahaa.N hai.n qaraar ke zamaane
+ye bhii koii ruuThane \threedots
+
+(dil se dil jo.Do bhii, do nainaa mo.Do bhii)\-2
+o sai.nyaa chho.Do bhii
+(chho.Do bhii balamaa, sai.nyaa chho.Do bhii)\-2
+kahii.n biite na yuu.N hii ye pyaar ke zamaane
+ye bhii koii ruuThane \threedots
+
+% 
+#endindian 
+\endsong 
+%

@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{koii jab tumhaaraa hR^iday to.D de}%
+\film{Poorab Aur Paschim}%
+\year{1970}%
+\starring{Manoj Kumar, Saira Bano}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+koii jab tumhaaraa hR^iday to.D de
+ta.Dapataa huaa jab koii chho.D de
+tab tum mere paas aanaa priye
+meraa dar khulaa hai khulaa hii rahegaa
+tumhaare liye, koii jab \threedots
+
+abhii tumako merii zaruurat nahii.n
+bahut chaahane vaale mil jaae.nge
+abhii ruup kaa ek saagar ho tum
+ka.nval jitane chaahogii khil jaae.nge
+darapan tumhe.n jab Daraane lage
+javaanii bhii daaman chhu.Daane lage
+tab tum mere paas aanaa priye
+meraa sar jhukaa hai jhukaa hii rahega
+tumhaare liye, koii jab \threedots
+
+koii shart hotii nahii.n pyaar me.n
+magar pyaar sharto.n pe tumane kiyaa
+nazar me.n sitaare jo chamake zaraa
+bujhaane lagii.n aaratii kaa diyaa
+jab apanii nazar me.n hii girane lago
+a.ndhero.n me.n apane hii ghirane lago
+tab tum mere paas aanaa priye
+ye diipak jalaa hai jalaa hii rahega
+tumhaare liye, koii jab \threedots
+%
+#endindian
+\endsong
+%

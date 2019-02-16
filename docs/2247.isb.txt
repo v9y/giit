@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ye raat aur ye duurii}%
+\film{Andaz Apna Apna}%
+\year{1995}%
+\starring{Salman Khan, Aamir Khan, Raveena Tandon, Karishma Kapoor}%
+\singer{S P Balasubramaniam, Asha}%
+\music{Tushar Bhatia}%
+\lyrics{???}%
+%
+% Contributor: Hemlata N. Khemani (hnkst5+@pitt.edu)
+% Transliterator: K Vijay Kumar
+% Date: Oct 2, 1997
+% Credits:
+% Editor:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+
+baa: ye raat aur ye duurii teraa milanaa hai zaruurii\-2
+     ki dil meraa\-2 dhak dhak bole
+     diivaanaa liye jaaye hichakole
+     ye raat aur ye duurii
+
+baa: kahanaa chaahuu.N tumase mai.n kitanii baate.n
+     is hasarat me.n kaaTi.n, kaaTi.n hai.n kitanii raate.n
+     tuu chhat par aa bhii jaa, jhalak dikhalaa bhii jaa\-2
+aa:  haal hai jo teraa vahii haal meraa\-2
+     piyaa haal vahii hai meraa
+     karuu.N pyaar chorii chorii taubaa itanii majabuurii\-2
+     ki dil meraa\-2 dhak dhak bole
+     diivaanaa liye jaaye hichakole
+baa: ye raat aur ye duurii
+
+baa: sun le mere Kvaabo.n kii Kvaabo.n kii o shahazaadii
+     aavaaze.n detaa hai, detaa hai kab se fariyaadii
+     sitamgar aa bhii jaa, karam faramaa bhii jaa\-2
+aa:  dad.r hai jo teraa vahii dad.r meraa\-2
+     piyaa dad.r vahii hai meraa
+     karuu.N pyaar chorii chorii taubaa itanii majabuurii\-2
+     ki dil meraa\-2 dhak dhak bole
+     diivaanaa liye jaaye hichakole
+baa: ye raat aur ye duurii
+
+%
+#endindian
+\endsong
+%

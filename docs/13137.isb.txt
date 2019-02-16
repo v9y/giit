@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{aa_o baiTho baat suno kuchh pyaar kare.n}%
+\film{Maang}%
+\year{1950}%
+\starring{Ramola, Vasti, Amar, Preetama, Malhotra}%
+\singer{Lata, G M Durrani}%
+\music{Ghulam Mohammad}%
+\lyrics{Sageer Usmani}%
+%
+% Contributor: BOL ANAMOL #12304 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+du \:	aa_o baiTho baat suno \-2
+	kuchh pyaar kare.n ikaraar kare.n \-2
+	do dilo.n ko ek kare.n \-2
+	aur aa.Nkhe.n dono.n chaar kare.n \-2
+	aa_o baiTho baat suno
+
+la \:	( maaf karo bas duur raho
+	din prem ke ham dono.n hii bhale ) \-2
+	kaun ye saudaa mol le kar mai.n
+	ho
+	aag me.n zi.ndgaa kaun jale
+du \:	aa_o pyaar kare.n
+la \:	bas duur raho
+du \:	aa_o baiTho baat suno
+
+du \:	( prem binaa sab jiiwan phiikaa
+	phiike ruup jawaanii ) \-2
+	phuul khile yaa koyal bole
+	ho
+	prem binaa bemaayanii
+	aa_o pyaar kare.n
+la \:	bas duur raho
+du \:	aa_o baiTho baat suno
+
+la \:	( ho
+	prem\-diiwano priit kaa daawaa
+	riit bhii jinase nibh na sake ) \-2
+	waade kare jo nis din jhuuThe
+	ho
+	raat hamaarii roz kaTe
+du \:	aa_o pyaar kare.n
+la \:	bas duur raho
+du \:	aa_o baiTho baat suno
+%
+#endindian
+\endsong
+%
+

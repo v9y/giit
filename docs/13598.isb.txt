@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{gho.Daa pishorii meraa taa.Ngaa laahorii ... mai.n huu.N alabelaa}%
+\film{Pyar Ka Bandhan}%
+\year{1963}%
+\starring{Rajkumar, Nishi, Naaz, Johny Walker, Dhumal, Pratima Devi, Helen}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10729 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+gho.Daa pishorii meraa taa.Ngaa laahorii meraa
+baiTho miyaa.N jii baiTho laalaa
+mai.n huu.N alabelaa taa.Nge vaalaa \-2
+gho.Daa peshaavarii meraa \threedots
+
+Taa.Nge.n thake.ngii yaaro.n taa.Nge me.n aa_o
+garamii ba.Dii hai pyaaro.n paidal naa jaa_o
+hogaa ( gulaabii ra.ng kaalaa ) \-2
+mai.n huu.N alabelaa \threedots
+
+bachanaa o jaane vaale mai.n tujhape vaarii
+Takaraa naa jaa_e kahii.n shaahii savaarii
+rotaa ( phiregaa gharavaalaa ) \-2
+mai.n huu.N alabelaa \threedots
+
+mehanat majuurii karuu.N rukanaa naa jaanuu.N
+aa.Ndhii tuufaa.N ke aage jhukanaa naa jaanuu.N
+apanaa ( saa.N_ii hai rakhavaalaa ) \-2
+mai.n huu.N alabelaa \threedots
+%
+#endindian
+\endsong
+

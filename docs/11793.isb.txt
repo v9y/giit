@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{##A B C D E F G H## ... ##I love you.##}%
+\film{Hum Saath Saath Hain/ We Stand United}%
+\year{1999}%
+\starring{Salman Khan, Saif Ali Khan, Mohanish Behl, Tabu, Karisma Kapoor, Sonali Bendre}%
+\singer{Hariharan, Hema Sardesai, Shankar Mahadevan, Udit Narayan, Saif Ali Khan}%
+\music{Ram Laxman}%
+\lyrics{Mitali Shashank}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he
+##A B C D E F G H I J K L M N O P Q R S T U V W X Y Z##
+##I love you.##
+
+chhuTTiyo.n ke ye din hai.n suhaane
+saathii teraa yuu.n saath rahe
+bachcho.n ke sa.ng bachche phir ban jaa_e.n
+mauj me.n jhuume.n zaraa mastii kare.n
+banake baadal haay
+banake pa.nchhii haay haay
+u.Date rahe
+kyaa baat hai jiijaajii
+##A B C D## \threedots
+
+apane gaa.nv kii galiyo.n me.n chale.n ham
+bachapan kii yaado.n me.n khoyaa hai man
+baahe.n thaame tiin bhaa_iiyo.n kii
+Thumakegii phir se unakii bahan
+saavan ke jhuulo.n se haay
+baabul ke aa.ngan me.n haay haay
+hogaa milan
+diidii ##how emotional##
+##A B C D E F G H I J K L M N O P Q R S T U V W X##
+uu huu huu ##We love you.##
+
+Tha.nDii Tha.nDii ye havaa_e.n hamako
+chupake chupake kyaa kahatii.n suno
+ma.nzil hai kariib ab hamaare
+bole.n ghaTaa_e.n khushiyaa.n chuno
+nazare.n churaa ke dil me.n chhupaa ke sapane buno
+vinod ##how romantic##
+##A B C D## \threedots
+%
+#endindian
+\endsong
+

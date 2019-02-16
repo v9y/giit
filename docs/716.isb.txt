@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{har taraf har jagah beshumaar aadamii##(Lata-Jagjit Gazal)##}% 
+\film{Best of Sajda}%
+\starring{}%
+\singer{Lata, Jagjit Singh}%
+\music{}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: Rajesh Sharma (rsharma@cs.indiana.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+j: har taraf har jagah beshumaar aadamii 
+l: har taraf har jagah beshumaar aadamii 
+dono: phir bhI tanhaaiyo.n kA shikaar aadamii 
+
+l: subah se shaam tak bojh Dhotaa huA 
+j: subah se shaam tak bojh Dhotaa huA 
+j: apanii hii laash kA khud mazaar aadamii 
+
+l: har taraf bhaagate dau.Date raaste 
+har taraf aadamii kA shikaar aadamii 
+
+l: roz jItaa huA roz marataa huA
+j: roz jItaa huA roz marataa huA 
+j: har nayii din nayaa i.ntazaar aadamii 
+
+j: zindagii kA muqaddar safar Dar safar 
+l: zindagii kA muqaddar safar Dar safar 
+dono: aakhirii saa.Ns tak beqaraar aadamii 
+%
+#endindian
+\endsong
+%

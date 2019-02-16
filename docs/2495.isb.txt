@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye mulaaqaat ik bahaanaa hai}%
+\film{Khandaan}%
+\year{1979}%
+\starring{Jeetendra, Sulakshana Pandit}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: Sujoy Jalihal
+% Transliterator: K Vijay Kumar
+% Credits: Surajit Bose
+%
+\printtitle
+#indian
+%
+
+ye mulaaqaat ik bahaanaa hai
+pyaar kaa silasilaa puraanaa hai
+
+dha.Dakane dha.Dakano.n me.n kho jaaye.n
+dil ko dil ke qariib laanaa hai
+
+Kvaab to kaa.Nch se bhii naazuk hai
+TuuTane se inhe.n bachaanaa hai
+
+man meraa pyaar kaa shivaalaa hai
+aap ko devataa banaanaa hai
+
+mai.n huu.N apane sanam ke baaho.n me.n
+mere qadamo.n tale zamaanaa hai
+
+%
+#endindian
+\endsong
+%

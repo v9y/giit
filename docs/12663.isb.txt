@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{kuchh tumhaare haath hai ... dil hamaare saath hai}%
+\film{Laawaaris}%
+\year{1999}%
+\starring{Jackie, Dimple, Akshay Khanna, Manisha, Govind Namdeo, Parmeet Sethi}%
+\singer{Shankar Mahadevan, Sunita Rao, Jolly Mukherji, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##attention attention attention##
+tum jo phirate ho lambii kaaro.n me.n rahate ho mahalo.n se makaano.n me.n
+tum buraa kahate ho hamako yaaro.n jhaa.nk lo apane girebaano.n me.n
+##attention##
+phir savaal aur javaab kar lo tum aaj hamase hisaab kar lo tum
+kuchh tumhaare haath hai aur kuchh hamaare haath hai
+saath hai duniyaa tumhaare dil hamaare saath hai
+kuchh tumhaare haath hai \threedots
+
+tumane khushiyaa.n khariidii hai.n baazaar me.n
+hamane ra.ngiiniyaa.n paa_ii.n hai.n pyaar me.n
+tumako vo sukh jo bikate hai.n saare mile
+hamako yaarii milii dost pyaare mile
+tumako paisaa milaa to ye a.ndaaz hai
+hamako apane hii uupar magar naaz hai
+huu.n tum chale to saath ye Dar hai ki tum luT jaa_oge
+ham chale.n to saath ummiido.n kii ik baaraat hai
+huu.n kuchh tumhaare haath hai \threedots
+
+kaun ho tum kahaa.n se aa_e ho baat karane kii bhii tamiiz nahii.n
+hai zamaanaa hamaarii Thokar me.n tum ho kyaa tum to ko_ii chiiz nahii.n
+huzuur itanaa na kariye guruur daulat par
+ye shiishaa chhan se kisii roz TuuT jaa_egaa
+zamaane bhar ko hai luuTaa huzuur ne lekin
+ye bandaa aapako ik roz luuT jaa_egaa
+khud ko jyaadaa na bekaraar kare.n aap us din kaa i.ntazaar kare.n
+he kuchh tumhaare haath hai \threedots
+
+tumane maanaa ki tum luTere ho par buraa hamako kahate rahate ho
+ham bure kyuu.n hai.n tum bhale kyuu.n ho tum jo kahate ho kyuu.n vo kahate ho
+kuchh tumhaare haath hai \threedots
+
+tum sharaafat ke parade ke piichhe chhupe
+sau gunaaho.n kii mahafil sajaate rahe
+sajaate rahe sajaate rahe
+hamane jo bhii kiyaa saaf khul ke kiyaa
+ham hai.n kyaa ham ye sabako bataate rahe bataate rahe
+tumane jo bhii kiyaa zurm hai vo ba.Daa
+hamane to vo kiyaa hai jo karanaa pa.Daa
+he hamane jo bhii hai kiyaa vo din dahaa.De hai kiyaa
+tumane sab kuchh hai kiyaa jab chhaa_ii kaalii raat
+he kuchh tumhaare haath hai \threedots
+%
+#endindian
+\endsong
+

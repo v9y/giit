@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{yaado.n me.n vo sapano.n me.n hai jaa_e.N kahaa.N}%
+\film{Swaami}%
+\year{1977}%
+\starring{Girish Karnad, Shabana Azmi, Vikram}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: BOL ANAMOL #10421 [V S Rawat]
+% Transliterator: 
+% Comments: Based on novel by Sharat Chandra Chatterjii
+% 
+\printtitle
+#indian
+%
+yaado.n me.n vo sapano.n me.n hai jaa_e.N kahaa.N
+dha.Dakan kaa ba.ndhan to dha.Dakan se hai
+saa.Nso.n se huu.N kaise judaa
+apano.n ko duu.N mai.n kaise bhulaa
+yaado.n me.n vo \threedots
+
+ye phuul ye kaliyaa.N sabhii rok rahii.n raahe.n merii
+ye miit ye sakhiyaa.N sabhii Dhuu.NDh rahii.n nigaahe.n merii
+har mo.D par ek sapanaa kha.Daa
+jaanaa hai mushkil meraa
+yaado.n me.n vo \threedots
+
+nainaa mere a.Nsu_an bhare puuchh rahe chalii hai kahaa.N
+bahatii nadii kahane lagii teraa to hai ye hii jahaa.N
+har mo.D par ko_ii apanaa kha.Daa
+dekhuu.N mai.n mu.D ke jahaa.N
+yaado.n me.n vo \threedots
+%
+#endindian
+\endsong
+

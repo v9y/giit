@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{ye raat bhiigii\-bhiigii ye mast fizaa_e.N}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Raj Kapoor, Nargis, Pran, Johnny Walker, Bhagwan, Gope, Tuntun, Raj Sulochana}%
+\singer{Lata, Manna Day}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10830 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ma \:	ye raat bhiigii\-bhiigii ye mast fizaa_e.N
+	uThaa dhiire\-dhiire vo chaa.Nd pyaaraa\-pyaaraa
+la \:	kyo.n aag sii lagaa ke gumasum hai chaa.Ndanii
+	sone bhii nahii.n detaa mausam kaa ye ishaaraa
+
+ma \:	iThalaatii havaa niilam saa gagan
+	kaliyo.n pe ye behoshii kii namii
+	aise me.n bhii kyo.n bechain hai dil
+	jiivan me.n na jaane kyaa hai kamii
+la \:	kyo.n aag sii lagaa ke \threedots
+ma \:	ye raat bhiigii\-bhiigii \threedots
+
+la \:	jo din ke ujaale me.n na milaa
+	dil Dhuu.NDhe aise sapane ko
+	is raat kii jagamag me.n Duubii
+	mai.n Dhuu.NDh rahii huu.N apane ko	
+ma \:	ye raat bhiigii\-bhiigii \threedots
+la \:	kyo.n aag sii lagaa ke \threedots
+
+ma \:	aise me.n kahii.n kyaa ko_ii nahii.n
+	bhuule se jo hamako yaad kare
+la \:	ik halkii sii muskaan se jo
+	sapano.n kaa jahaa.N aabaad kare
+ma \:	ye raat bhiigii\-bhiigii \threedots
+%
+#endindian
+\endsong
+

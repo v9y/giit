@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kaisii hasiin aaj bahaaro.n kii raat hai}%
+\film{Aadmi}%
+\year{}%
+\starring{Dilip Kumar, Waheeda Rehman, Manoj Kumar}%
+\singer{Rafi, Mahendra Kapoor / Rafi, Talat}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  Tabassum.Hijazi
+% Transliterator: K Vijay Kumar
+% Comments: The Rafi-Talat version was not used in the film
+%
+\printtitle
+#indian
+%
+ra:  kaisii hasiin aaj bahaaro.n kii raat hai
+     ek chaa.Nd aasamaa.n pe hai ek mere saath hai
+
+ma : dene vale tuu ne to koii kamii na kii
+     ab kis ko kyaa milaa ye muqaddar kii baat hai
+
+ra : chhaaya hai husn\-o\-ishq pe ek ra.ng\-e-\beKudii
+     aate hai.n zi.ndagii me.n ye aalam kabhii kabhii
+     har Gham bhuul jaao khuushii kii baaraat hai
+     ek chaa.Nd aasamaa.n pe hai ek mere saath hai
+
+ma : aaii hai vo bahaar ki naGame ubal pa.De
+     aisii khuushii hai ki aa.Nsuu nikal pa.De
+     ho.nTho.n pe hai.n duaae.n magar dil pe haath hai
+     ab kis ko kyaa milaa ye muqaddar kii baat hai
+
+ra : mastii simaT ke pyaar ke gulashan me.n aa gaii
+ma : merii khuushii bhii aap ke daaman me.n aa gaii
+     bha.Nvaraa kalii se duur nahii.n saath saath hai
+
+%
+#endindian
+\endsong
+%

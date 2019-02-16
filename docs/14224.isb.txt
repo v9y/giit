@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{honii to ho ke rahe ... jaako raakhe saa_iyaa.N}%
+\film{Sooraj Aur Chandaa}%
+\year{1973}%
+\starring{Sanjeev Kumar, Meeta, Bindu, Sujit Kumar}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11226 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	honii to ho ke rahe anahonii naa hoy
+	jaako raakhe saa_iyaa.N maar sake naa koy
+la \:	honii to ho ke rahe \threedots
+
+mu \:	ka.ns ne kitane jatan ki_e re bhaiyaa
+	ka.ns ne kitane jatan ki_e lekin tumane dekhaa
+la \:	sau talavaare.n miTaa sakii.n naa bhaagy kii ek bhii rekhaa
+ko \:	sau talavaare.n \threedots
+mu \:	kishan kaa aisaa janm hu_aa
+la \:	atyaachaar yuu.N Katm hu_aa
+mu \:	bandiighar ke dvaar khule aur paharedaar so_e
+do \:	jaako raakhe saa_iyaa.N \threedots
+ko \:	jaako raakhe saa_iyaa.N \threedots
+
+la \:	chhuuT ga_ii jinase re bhaiyaa
+	chhuuT ga_ii jinase apane bachapan kii su.ndar galiyaa.N
+mu \:	bagiyaa ke badale ban me.n dekhii.n khilatii vo kaliyaa.N
+ko \:	bagiyaa ke badale \threedots
+la \:	khel hai jog\-sa.njog kaa
+mu \:	sach kahanaa hai logo.n kaa
+la \:	riit aTal ye jiivan kii ko_ii ha.Nse yaa ro_e
+do \:	jaako raakhe saa_iyaa.N \threedots
+ko \:	jaako raakhe saa_iyaa.N \threedots
+
+mu \:	haath samay kaa is duniyaa me.n ko_ii rok na paayaa
+la \:	dhokhaa dene vaale ne ek din Kud dhokhaa khaayaa
+ko \:	dhokhaa dene vaale \threedots
+mu \:	aaj mile yaa chaahe kal
+la \:	milataa hai karmo.n kaa phal
+mu \:	phuul vo kaise paa_egaa jisane ho.n kaa.NTe bo_e
+ko \:	jaako raakhe saa_iyaa.N \threedots
+%
+#endindian
+\endsong
+

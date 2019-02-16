@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{yaaro.n kaa yaar li_e nakhare hazaar li_e}%
+\film{Kaali Topi Laal Roomaal}%
+\year{1959}%
+\starring{Chandrashekhar, Shakeela, Kumkum, Agha, K N Singh}%
+\singer{Rafi, Asha}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10127 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	yaaro.n kaa yaar li_e nakhare hazaar li_e
+	jaatii hai gorii bulaa_o re ko_ii \-2
+aa \:	ulajhe se baal vaalaa laal laal rumaal vaalaa \-2
+	chhe.De hai mohe bachaa_o re ko_ii \-2
+
+ra \:	de duu.Ngaa jaan mai.n to aaj terii chaah me.n \-2
+	dekho mai.n leT gayaa leT gayaa raah me.n \-2
+aa \:	haay naa ko_ii laaj naa sharam hai nigaah me.n \-2
+	raste kaa patthar haTaa_o re ko_ii
+ra \:	yaaro.n kaa yaar li_e \threedots
+
+aa \:	biich baazaar mere gale pa.D jaa_e hai \-2
+	chhoraa bekaar me.n diivaanaa banaa jaa_e hai \-2
+ra \:	majanuu.n kaa pyaar dekho lailaa Thukaraa_e hai \-2
+	lailaa ko majanuu.n banaa_o re ko_ii
+aa \:	ulajhe se baal vaalaa \threedots
+
+ra \:	phir ek baar gorii dekh zaraa phir ke \-2
+	nakharo.n kii bhii.D me.n mai.n rah gayaa ghir ke \-2
+aa \:	oy tho.Dii sii duur chalaa ruk gayaa phir se \-2
+	chhaka.De ko moTar banaa_o re ko_ii
+ra \:	yaaro.n kaa yaar li_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{mai.n vahii darpaN vahii, naa jaane ye kyaa ho gayaa}%
+\film{Geet Gata Chal}%
+\year{1975}%
+\starring{Sarikaa, Sachin}%
+\singer{Arti Mukherji}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n vahii darpaN vahii, naa jaane ye kyaa ho gayaa
+ki sab kuchh laage nayaa nayaa
+
+1) ik jaadU kii chha.Dii, tan man pe pa.Dii
+mai.n jahaa.N kii re gaI vahii.n pe kha.Dii
+ghar vahii, aa.Ngan vahii, naa jaane \threedots
+
+b) kahii.n duur papiihaa bole piyaa piyaa
+u.D jaane ko bekal hai mora jiyaa
+dil vahii dha.Dakan vahii, naa jaane \threedots
+%
+#endindian
+\endsong
+%

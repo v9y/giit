@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ja.ngal me.n mor naachaa kisii ne na dekhaa}%
+\film{Madhumati}%
+\year{1958}%
+\starring{Dilip Kumar, Vyjayantimala, Johny Walker, Pran, Jayant}%
+\singer{Rafi}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10343 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ja.ngal me.n mor naachaa kisii ne na dekhaa
+ham jo tho.Dii sii pii ke zaraa jhuume.n haay re sabane dekhaa
+ja.ngal me.n mor naachaa \threedots
+
+gorii kii gol\-gol a.Nkhiyaa.N sharaabii
+kar chukii hai.n kaise\-kaiso.n kii Karaabii
+inakaa ye zor zulm kisii ne naa dekhaa
+ham jo tho.Dii sii \threedots
+
+kisii ko hare\-hare noT kaa nashaa hai
+kisii ko suuT buuT koT kaa nashaa hai
+yaaro.n hame.n to nau Taa.Nk kaa nashaa hai
+%
+#endindian
+\endsong
+

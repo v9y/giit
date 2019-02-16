@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ek naa ek din ye kahaanii banegii}%
+\film{Goraa Aur Kaalaa}%
+\year{1972}%
+\starring{Rajendra Kumar, Hema Malini}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11211 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ek naa ek din ye kahaanii banegii tuu mere sapano.n kii raanii banegii
+mai.n teraa diivaanaa banuu.Ngaa raanii tuu merii diivaanii banegii
+ek naa ek din \threedots
+
+chain luuTaa hai nii.nd luuTii hai aise mausam me.n tuu mujhase ruuThii hai \-2
+ye tere haatho.n kii a.NguuThii prem kii pahalii nishaanii banegii
+ek naa ek din \threedots
+
+ye Gussaa tuu bhuul jaa_egii tere ho.nTho.n pe ha.Nsii aa_egii
+ye aaj ho yaa kal ho ye beruKii meharabaanii banegii
+ek naa ek din \threedots
+
+yuu.N to pahale laaj aatii hai baad me.n gorii maan jaatii hai
+teraa\-meraa nayaa\-nayaa milan hai ye mulaaqaat puraanii banegii
+ek naa ek din \threedots
+%
+#endindian
+\endsong
+

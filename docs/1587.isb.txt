@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{sach bataa tuu mujh pe fidaa}%
+\film{Sone Ki Chidiya}%
+\year{1958}%
+\starring{Talat, Nutan, Balraj Sahni}%
+\singer{Asha, Talat}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: 
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+a : sach bataa tuu mujh pe fidaa, are, kyuu.N huaa aur kaise huaa
+t : maar ga_ii terii baa.Nkii adaa yuu.N huaa aur aise huaa
+a : sach bataa tu mujh pe fidaa
+
+a : naazanii.n mai.n hii nahii.n hai.n yahaa.N laakho.n hasii.n
+(mujhase hii tujhe pyaar kyuu.N huaa
+dil pe nazaro.n kaa vaar kyuu.N huaa) \- 2
+t : maar ga_ii terii baa.Nkii adaa
+
+t : saa.Nvalii suurat terii, mohanii muurat terii
+(terii dhun mujhe be-sabab nahii.n 
+aur jalavo.n me ye Gazab nahii.n) \- 2
+maar ga_ii terii baa.Nkii adaa
+
+a : shukariyaa, ai meharabaa.N, mil gaye mujhe do jahaa.N
+(besaharaa thi tum nahii.n mujhe
+aaj duniyaa kaa Gam nahii.n mujhe)  \- 2
+a : sach bataa tuu mujh pe fidaa, are, kyuu.N huaa aur kaise huaa
+t : maar ga_ii terii baa.Nkii adaa yuu.N huaa aur aise huaa
+
+%
+#endindian
+\endsong
+%

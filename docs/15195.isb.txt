@@ -1,0 +1,57 @@
+% ITRANS SONG
+
+\startsong
+\stitle{reshamii salawaar ku.Dataa jaalii kaa}%
+\film{Nayaa Daur}%
+\year{1957}%
+\starring{Dilip Kumar, Vyjayantimala, Ajit}%
+\singer{Asha, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+aa \:	( reshamii salawaar ku.Dataa jaalii kaa
+	ruup sahaa nahii.n jaaye nakhare waalii kaa ) \-2
+	hoy
+sha \:	( jaa re piichhaa chho.D mujh matavaalii kaa
+	kaahe Dhuu.NDhe raasataa kotavaalii kaa ) \-2
+
+aa \:	jab jab tujhako dekhuu.N mere dil me.n chhuTe.n phulajha.Diyaa.N
+	karuu.Ngaa teraa piichha chaahe lag jaaye.n hathaka.Diyaa.N
+	are karuu.Ngaa teraa piichha chaahe lag jaaye.n hathaka.Diyaa.N
+	kyaa hai kotavaalii kaa
+	ruup sahaa nahii.n jaaye nakhare waalii kaa
+	hoy
+
+sha \:	jaa re piichhaa chho.D mujh matavaalii kaa
+	kaahe Dhuu.NDhe raasataa kotavaalii kaa
+
+	mai.n huu.N izzat waalii mujhe samajh naa aisii vaisii
+	ba.De ba.Do.n kii mai.nne kar dii hai aisii taisii \-2
+	tuu hai kis thaalii kaa
+	kaahe Dhuu.NDhe raasataa kotavaalii kaa
+	
+aa \:	reshamii salawaar ku.Dataa jaalii kaa
+	ruup sahaa nahii.n jaaye nakhare waalii kaa
+	hoy
+
+	ruup tere kaalaT ?? kaa mere dil ko de gayaa jhaTakaa
+	ra.ng bhare haatho.n se zaraa khol de paT ghuu.NghaT kaa
+	haay ra.ng bhare haatho.n se zaraa khol de paT ghuu.NghaT kaa
+	dil hai dilavaalii kaa
+	ruup sahaa nahii.n jaaye nakhare waalii kaa
+	hoy
+
+sha \:	jaa re piichhaa chho.D mujh matavaalii kaa
+	kaahe Dhuu.NDhe raasataa kotavaalii kaa
+aa \:	reshamii salawaar ku.Dataa jaalii kaa
+	ruup sahaa nahii.n jaaye nakhare waalii kaa
+	hoy
+
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{##night in london## zulfo.n kii kahaanii hai}%
+\film{Night In London}%
+\year{1967}%
+\starring{Biswajeet, Mala Sinha}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11036 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+##night in london##
+zulfo.n kii kahaanii hai jannat kii nishaanii hai
+naGamo.n kii javaanii hai dilaqash hai suhaanii hai
+##night in london## \threedots
+
+phir ko_ii ishaaraa kiiji_e phir nazaaraa kiiji_e
+phir mahafil aa jaa_e ra.ng pe
+abhii to janaab aa_egaa shabaab abhii zaraa hai kamasin
+##night in london## \threedots
+
+chaa.Nd aur bahaaro.n ke binaa dekhi_e sitaaro.n ke binaa
+roshan hai ra.ngii.n hai raat ye
+isakii bahaar isape nisaar bharii javaanii ke din
+##night in london## \threedots
+%
+#endindian
+\endsong
+

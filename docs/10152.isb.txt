@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{yaar mat jaa ke merii baat abhii baakii hai ... tere vaade kii mulaaqaat}%
+\film{Aazmaaish}%
+\year{1995}%
+\starring{Dharmendra, Anjali Jathar, Mohnish, Prem Chopra, Rohit Kumar}%
+\singer{Alka Yagnik, Sonu Nigam}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaar mat jaa yaar mat jaa
+yaar mat jaa ke merii baat abhii baakii hai
+tere vaade kii mulaaqaat abhii baakii hai
+yaar mat jaa ke merii \threedots
+
+teraa vaadaa thaa ki mai.n shaam ko aa jaa_uu.ngii
+raat bhar Thaharu.ngii subah ko chalii jaa_uu.ngii
+subah ho jaane do o o o
+subah ho jaane do ye raat abhii baakii hai
+tere vaade kii mulaaqaat \threedots
+
+tere vaade kii mulaaqaat bhii ho jaa_egii
+jo tere dil me.n hai vo baat bhii ho jaa_egii
+zi.ndagii bhar kaa sanam ho ho ho
+zi.ndagii bhar kaa sanam saath abhii baakii hai
+tere vaade kii mulaaqaat \threedots
+
+tumako jaanaa hai chalii jaanaa magar Thaharo to
+jhuum luu.n naach luu.n gaa luu.n mai.n agar Thaharo to
+mere aramaano.n kii
+mere aramaano.n kii baaraat abhii baakii hai
+tere vaade kii mulaaqaat \threedots
+%
+#endindian
+\endsong
+

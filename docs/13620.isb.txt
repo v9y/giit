@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tumhii.n mere miit ho tumhii.n merii priit ho}%
+\film{Pyase Panchhi}%
+\year{1961}%
+\starring{Amita, Mehmood, Jeevan, David}%
+\singer{Hemant, Suman}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10893 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	tumhii.n mere miit ho tumhii.n merii priit ho \-2
+	tumhii.n merii aarazuu kaa pahalaa\-pahalaa giit ho
+he \:	tumhii.n mere miit ho tumhii.n merii priit ho \-2
+	tumhii.n merii zindagii kii pahalii\-pahalii jiit ho
+	tumhii.n mere miit ho \threedots
+
+la \:	tum ho bechain sai.nyaa ham beqaraar se
+	jaane na duu.Ngii tumako naino.n ke dvaar se \-2
+he \:	terii nigaaho.n ne dekhaa hai pyaar se
+	milaa aaj pyaasaa pa.nchhii nadiyaa kii dhaar se
+la \:	tumhii.n chitachor mere tumhii.n dil kii jiit ho
+	tumhii.n merii aarazuu \threedots
+
+he \:	tuu kisii baaGabaa.N ke gulashan kaa phuul hai
+	chhup\-chhup ke tujhako chaahaa raahii kii bhuul hai
+la \:	raahii kii bhuul nahii.n qismat kii bhuul hai
+	qismat kii bhuul sai.nyaa hamako qabuul hai
+	mere dil ke saaz tumhii.n tumhii.n sa.ngiit ho
+	tumhii.n merii aarazuu \threedots
+%
+#endindian
+\endsong
+

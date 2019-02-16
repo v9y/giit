@@ -1,0 +1,64 @@
+%
+\startsong
+\stitle{saa re gaa maa, maa saa re gaa, gaa saa re maa, maa gaa re saa}% 
+\film{Chupke Chupke}%
+\year{1975}%
+\starring{Dharmendra, Sharmila, Amitabh, Jaya, Om Prakash, Asrani}%
+\singer{Kishore, Rafi}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments : kk for amitabh , rafi for dharmendra 
+%
+\printtitle 
+#indian 
+%
+r : chal shuruu hojaa 
+ki : uhu.n uhu.n (khaa.nsataa hai) hai haa hai haa (galaa Thiik karataa hai) 
+saa aa a aa aa aa 
+r : are ! bas bas bas bas ! saa pe ruk gayaa  aage ba.Dh 
+ki : re
+r : re ke aage kyA hai 
+ki : gaa
+r : are vaah vaah vaah vaah! kyA gale me.n taasiir hai
+ki : ye baat hai ! to maa
+r : chal vaapas aajaa apanii jagah pe 
+ki : saa re gaa maa 
+r : aahaa 
+ki : maa saa re gaa
+r : vaah vaah 
+ki : gaa saa re maa 
+r : oho 
+ki : maa gaa re saa 
+r : oh oh oh 
+
+ki : saa re gaa maa, maa saa re gaa, gaa saa re maa, maa gaa re saa 
+r : pa dha pa maa maa pa maa ga ra pa maa maa ga re saa 
+dono : saa re gaa maa, maa saa re gaa, gaa saa re maa, maa gaa re saa 
+
+ki : (giit pahale banA thA, yA banii thI ye saragam 
+ek hii saath huA thA, do dilo.n kA ye sa.ngam ) \- 2
+r : pyaar kA ye taraanaa, zamaanaa sun le 
+saa re gaa maa 
+##one  two  three  four ##
+dono : saa re gaa maa, maa saa re gaa, gaa saa re maa, maa gaa re saa 
+
+ki : jaise dil milate.n hai.n, vaise sur khilate.n hai.n (dhiime) 
+jaise dil milate.n hai.n, vaise sur khilate.n hai.n (tej) 
+r : phuul kab giito.n ke, ho.nTho.n pe khilate.n hai.n 
+ki : tuum tanaanaa, dhin tanaanaa zamaanaa sun le 
+r : saa re gaa maa 
+##one  two  three  four ##
+ki : saa re gaa maa 
+r : maa saa re gaa
+ki : gaa saa re maa 
+r : maa gaa re saa 
+
+dono : maa gaa re saa ##(at least 5-6 times, from loud to slow)## 
+%
+#endindian
+\endsong
+%

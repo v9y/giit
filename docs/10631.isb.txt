@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{jhuule me.n pawan ke aa_ii bahaar}%
+\film{Baiju Baawraa}%
+\year{1952}%
+\starring{Bharat Bhushan, Meena Kumari, Surendra, Ratan Kumar}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10610 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Malini Kanth
+% 
+\printtitle
+#indian
+%
+do \:	jhuule me.n pawan ke aa_ii bahaar
+	naino.n me.n nayaa ra.ng laa_ii bahaar
+	pyaar chhalake ho pyaar chhalake
+
+la \:	o
+	Dole man moraa sajanaa
+	Dole man moraa
+ra \:	ho jii ho
+la \:	Dole man moraa sajanaa
+	chuunariyaa baar\-baar Dhalake
+do \:	jhuule me.n pawan ke aa_ii bahaar
+	pyaar chhalake ho pyaar chhalake
+
+ra \:	o o o
+	merii taan se uu.Nchaa teraa jhuulanaa gorii \-2
+la \:	mere jhuulane ke sa.ng tere pyaar kii Dorii \-2
+do \:	tuu hai jiivan si.ngaar
+	pyaar chhalake
+	jhuule me.n pawan ke aa_ii bahaar
+	pyaar chhalake ho pyaar chhalake
+
+ra \:	o o o
+	baadal jhuum ke aaye gaagar pyaar kii laaye \-2
+la \:	koyal kuukatii jaaye ban me.n mor bhii gaaye \-2
+do \:	chhe.De.n ham\-tum malhaar
+	pyaar chhalake
+	aa aa aa
+	chhe.De.n ham\-tum malhaar
+	jhuule me.n pawan ke aa_ii bahaar
+	naino.n me.n nayaa ra.ng laa_ii bahaar
+	pyaar chhalake ho pyaar chhalake
+	ho ho pyaar chhalake \-3
+%
+#endindian
+\endsong
+

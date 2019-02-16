@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o yaa qurbaan ... o sabaa kahanaa mere diladaar ko}%
+\film{Kabuliwala}%
+\year{1961}%
+\starring{Balraj Sahni}%
+\singer{Rafi, chorus}%
+\music{Salil Choudhary}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+o yaa qurbaan
+
+vo aa.Nkhe.n thii dilabar kii yaa nargis-e-mastaanaa
+dekhe hue us but ko ab ho gayaa zamaanaa
+o sabaa kahanaa mere diladaar ko
+dil ta.Dapataa hai tere diidaar ko
+o sabaa kahanaa \threedots
+
+o yaa qurbaan
+dekhe.nge kab vo suurat jis pe bahaar sadake
+ye dil to kyaa hai yaaro.n kaabul qa.ndhaar sadake
+kis tarah bhuule nigaah-e-yaar ko
+dil ta.Dapataa hai tere diidaar ko
+o sabaa kahanaa \threedots
+
+o yaa qurbaan
+kaisii hai ye qayaamat, o tuu hii bataa Kudaayaa
+jitanaa bulaayaa us ko utanaa vo yaad aayaa
+kyaa qaraar aaye tere biimaar ko
+dil ta.Dapataa hai tere diidaar ko
+o sabaa kahanaa \threedots
+
+%
+#endindian
+\endsong
+%

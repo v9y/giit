@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{ye desh hamaaraa pyaaraa hindustaan jahaa.N se nyaaraa}%
+\film{Hamjoli}%
+\year{1946}%
+\starring{Noorjehan, Jairaj, Ghulam Mohammed, Billubai, Zeenat}%
+\singer{Noorjehan}%
+\music{Hafiz Khan}%
+\lyrics{Anjum Philbhiti}%
+%
+% Contributor: BOL ANAMOL #12015 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa ) \-2
+
+( hindustaan ke ham hai.n pyaare
+hindustaan hamaaraa pyaaraa ) \-2
+
+ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa
+
+( maanaa ke hai.n ham hind ke rahane
+waale bhuukhe marate hai.n ) \-2
+( lekin isake ann se ab bhii
+log jahaa.N ke palate hai.n ) \-2
+
+ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa
+
+(jaag uThe hai.n hind ke baasii
+ham ye zaahir kar de.nge ) \-2
+( waqt pa.Daa to desh pe apanii
+jaan nichhaawar kar de.nge ) \-2
+
+ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa
+
+( le ke rahe.nge ham aazaadii
+wo din aane waalaa hai
+wo din aane waalaa hai ) \-2
+( jhaNDaa apanaa saarii duniyaa
+par laharaane waalaa hai ) \-2
+
+ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa
+
+hindustaan ke ham hai.n pyaare
+hindustaan hamaaraa pyaaraa
+
+ye desh
+ye desh hamaaraa pyaaraa
+hindustaan jahaa.N se nyaaraa
+%
+#endindian
+\endsong
+

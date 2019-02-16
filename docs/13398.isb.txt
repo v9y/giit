@@ -1,0 +1,28 @@
+%
+\startsong
+\stitle{rau.nde hai mujh ko teraa pyaar}%
+\film{Pyaar Tune Kya Kiya}%
+\year{2002}%
+\starring{Fardin Khan, Urmila Matondkar, Sonali Kulkarnii}%
+\singer{Alisha Chinoy/ Saumya}%
+\music{Sandeep Chowtha, W Killer}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+rau.nde hai mujh ko teraa pyaar chubhataa hai teraa intazaar
+Das rahii.n tanhaa_iiyaa.N dard ye kar rahaa hai pukaar
+
+kharo.nchatii hai kyuu.N mujh ko havaa rah rah ke
+nicho.Datii huu.N dil ghabaraatii huu.N mai.n tere li_e
+kataraa kataraa meraa jaanaa.n tere milan ko tarase
+rau.nde hai mujh \threedots
+%
+#endindian
+\endsong
+

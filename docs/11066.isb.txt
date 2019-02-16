@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{cheharaa teraa cheharaa sapanaa hai meraa}%
+\film{Daag - The Fire}%
+\year{1999}%
+\starring{Sanjay Dutt, Chandrachur Singh, Mahima Chaudhary}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Rajesh Roshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+cheharaa teraa cheharaa sapanaa hai meraa
+chaahuu.n tujhe kitanaa na mujhe hai pataa
+cheharaa teraa cheharaa \threedots
+
+aa Dhuu.nDh le mai.n kahaa.n kho gayaa
+ye ishq me.n hamako kyaa ho gayaa
+chaahat kii ye jaane kaisii ma.nzil hai
+ham kahaa.n hai ye bataanaa mushkil hai
+ab hame.n inhii.n raaho.n pe chalanaa hai
+kuchh bhii ho ye rastaa naa badalanaa hai
+tanhaa ye do premii ko_ii naa tiisaraa
+cheharaa teraa cheharaa \threedots
+
+ye jism hai khushbu_o.n se banaa
+mai.n huu.n tere pyaar kaa aa_iinaa
+tere chhuune se badan to jalataa hai
+jaane kitane ra.ngo.n me.n ye Dhalataa hai
+chi.ngaarii hai merii jalatii saa.Nso.n kii
+garmii hai ye merii pyaasii aa.Nkho.n kii
+mai.n pyaasaa saharaa huu.N saavan kii tuu ghaTaa
+cheharaa teraa cheharaa \threedots
+%
+#endindian
+\endsong
+

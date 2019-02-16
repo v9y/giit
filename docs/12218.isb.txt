@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{hamane dekhaa hai tumhe.n aisaa Gumaa.N hotaa hai}%
+\film{Ji Chahta Hai}%
+\year{1964}%
+\starring{Joy Mukherjii, Rajshri, Rajendra Nath, Shyama}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10944 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+hamane dekhaa hai tumhe.n aisaa Gumaa.N hotaa hai
+aa.Nkh milatii hai to kyo.n dard javaa.N hotaa hai
+hamane dekhaa hai \threedots
+
+aisaa lagataa hai ki hamadam meraa vaapas aayaa
+mere jiivan pe muhabbat kaa nashaa saa chhaayaa
+dil me.n chalane lagaa phir husn kaa roshan saayaa
+hamane dekhaa hai \threedots
+
+jaane kyo.n meraa dil qadamo.n pe jhuk jaataa hai
+ko_ii bichha.Daa hu_aa saathii mujhe yaad aataa hai
+ye milan pyaar bharaa kisali_e ta.Dapaataa hai
+hamane dekhaa hai \threedots
+
+aaj sadiyo.n kii mulaakaat nikal aa_ii hai
+jaise tuufaan se baaraat nikal aa_ii hai
+dil me.n rahatii thii vo hii baat nikal aa_ii hai
+hamane dekhaa hai \threedots
+%
+#endindian
+\endsong
+

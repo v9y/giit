@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{pyaaraa bhaiyaa meraa duulhaa raajaa banake aa gayaa}%
+\film{Kyaa Kehnaa}%
+\year{1999}%
+\starring{Preity Zinta, Chandrachud Singh, Saif Ali Khan, Farida Jalal, Anupan Kher}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaaraa bhaiyaa meraa duulhaa raajaa banake aa gayaa
+pyaaraa bhaiyaa meraa
+resham kii paga.Dii pe seharaa ghar aa.ngan mahakaa gayaa
+pyaaraa bhaiyaa meraa
+pyaaraa bhaiyaa meraa \threedots
+
+aaj kaisii dhuum hai gaa rahii shahanaa_iiyaa.n
+aa.Nchalo.n kii chhaa.nv me.n baiThaa bhaiyaa saa_ii.nyaa.n
+sajake Dolii aa_egii lauTake jab saath me.n
+pyaarii sii bhaabhii kaa haath luu.ngii apane haath me.n
+phir ek din are kyaa kahanaa ik phuul saa khilegaa a.nganaa
+pyaaraa bhaiyaa meraa \threedots
+
+dekho kaisii saj rahii suurat mere yaar kii
+mastii me.n kyaa jhuumatii shaam aa_ii pyaar kii
+o ho o ho
+goriyo.n ke biich me.n baiThaa kaisii shaan se
+aise hii puure ho.n din mere bhii aramaan ke
+in haatho.n me.n bhii ko_ii haath aa_e
+apanii bhii suhaag kii raat aa_e
+dekho yaaraa meraa duulhaa raajaa banake aa gayaa
+dekho yaaraa meraa
+resham kii paga.Dii pe \threedots
+%
+#endindian
+\endsong
+

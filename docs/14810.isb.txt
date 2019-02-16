@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shubh mangal din aayaa}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Chorus}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+aa
+shubh mangal din aayaa
+ajii shubh mangal din aayaa
+ab to jiyaraa laharaayaa
+shubh mangal din aayaa
+
+bujhe huye sab diip jale
+aa
+bichha.De phir se gale mile
+aanand aaj chhaayaa
+
+shubh mangal din aayaa
+ajii shubh mangal din aayaa
+
+#endindian
+\endsong

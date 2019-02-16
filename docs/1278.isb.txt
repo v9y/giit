@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mujhe duniyaa vaalo.n sharaabii na samajho}%
+\film{Leader}%
+\year{1964}%
+\starring{Dilip Kumar, Vyjayanthi Mala}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Ramesh Hariharan (hariharn@phoenix.princeton.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(mujhe duniyaa vaalo.n, sharaabii na samajho
+mai.n piitaa nahii.n huu.N, pilaayii gayii hai ) \- 2
+jahaa.N bekhudii me.n kadam la.Dakha.Daaye
+vahii raah mujhako dikhaayii gayii hai
+mujhe duniyaa vaalo.n sharaabii na samajho
+mai.n piitaa nahii.n huu.N pilaayii gayii hai
+
+nashe me huu.N lekin mujhe ye khabar hai
+ke is zindagii me.n sabhii pii rahe.n hai
+kisii ko mile hai.n chhalakate piyaale
+kisiiko nazar se pilAyii gayii hai
+mujhe duniyaa vaalo.n \threedots
+
+zamaane ke yaaro.n, chalan hai.n niraale
+yahaa.N tan hai.n ujale, magar dil hai.n kaale
+ye duniyaa hai duniyaa yahan mAr Dar ke
+dilo.n kii kharaabii chhupaayii gayii hai
+mujhe duniyaa vaalo.n \threedots
+%
+#endindian
+\endsong
+%

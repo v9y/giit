@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{ham aur tum aur ye Kushii ye qahaqahe ye dillagii}%
+\film{Alibaaba}%
+\year{1940}%
+\starring{Surendra, Sardar Akhtar, Ghulam Mohammed, Wahidan}%
+\singer{Surendra, Wahidanbai}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: BOL ANAMOL #12269 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+su \:	( ham aur tum aur ye Kushii
+	ye qahaqahe ye dillagii
+	chhiTakii hu_ii hai chaa.Ndanii ) \-2
+	ham aur tum
+wa \:	( a.nga.Daa_iyaa.N bhuuto.n (?) ne lii.n
+	mahakaa chaman kaliyaa.N khilii.n ) \-2
+	aa_ii hawaa mastii bharii \-2
+
+	ham aur tum aur ye Kushii
+	ye qahaqahe ye dillagii
+	chhiTakii hu_ii hai chaa.Ndanii
+	ham aur tum
+
+su \:	( dil me.n hujuum\-e\-aarazuu
+	aa.Nsuu me.n ras pahaluu me.n tuu ) \-2 
+	qisamat hamaarii jaag uThii \-3
+
+	ham aur tum aur ye Kushii
+	ye qahaqahe ye dillagii
+	chhiTakii hu_ii hai chaa.Ndanii
+	ham aur tum
+
+wa \:	( baa.Nhe.n gale me.n pa.D ga_ii.n
+	aa.Nkho.n se aa.Nkh la.D ga_ii.n ) \-2
+	chhalakii sharaab\-e\-zi.ndagii \-4
+
+% the following lines, first Wahidan sings, then surendra sings
+% after a little lag even when Wahidan has not yet finished.
+
+	ham
+	aur tum
+	aur ye Kushii
+	ye qahaqahe
+	ye dillagii
+do \:	chhiTakii hu_ii hai chaa.Ndanii
+	ham aur tum
+%
+#endindian
+\endsong
+%
+

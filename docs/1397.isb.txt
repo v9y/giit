@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pa.nchhii baavaraa}% 
+\film{Bhakt Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed, Monica Desai, Nagendra}%
+\singer{Khursheed}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Urzung Khan
+%
+\printtitle 
+#indian 
+%
+
+pa.nchhii baavaraa
+pa.nchhii baavaraa 
+chaa.Nd se priit lagaaye 
+chaa.Nd se priit lagaaye 
+
+chhaayA dekh nadii me.n muurakh
+phuulaa nahii.n samaaye 
+vo harajaaii taaro.n ke sa.ng 
+apanii raas rachaaye 
+chaa.Nd se priit lagaaye 
+pa.nchhii baavaraa \threedots
+
+kaun bataaye tujhe chakoraa
+gore man ke kaale
+jyuu.N\-jyuu.N priit ba.Dhaayegaa tuu
+tyuu.N\-tyuu.N vo ghaT jaa_e
+chaa.Nd se priit lagaaye
+pa.nchhii baavaraa \threedots
+
+%
+#endindian
+\endsong
+%

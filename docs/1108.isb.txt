@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n huu.N gho.Daa, ye hai gaa.Dii, merii rik_shaa sab se niraalii}%
+\film{Kunvaaraa Baap}%
+\year{1974}%
+\starring{Mahmood, Vinod Mehra, Bharati}%
+\singer{Kishore, Mahmood, chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n huu.N gho.Daa, ye hai gaa.Dii, merii rik_shaa sab se niraalii
+naa gorii hai naa ye kaalii, ho ho ho ho ho ho
+ghar tak pahu.nchaa dene vaalii \threedots
+
+ek rupaiyaa bhaa.Daa, paise.njar itanaa jaa.Daa
+malaa naako re naako re naako re
+ho dubalaa patalaa chalegaa, aa.Daa tirachhaa chalegaa
+saalaa ho yaa ho vo saalii, yaane kii aadhii gharavaalii
+ek dikhaakar bii.Dii, rukavaa dii chaar gaa.Dii
+are paise kaa khelaa hai khiilaa
+ho jo marazii hai karaa lo, paakiT se noT nikaalo
+phir le jaao jeb khaalii, baajuu haT burke vaalii
+ham aazaad hai.n misTar, kyaa inasaan aur kyaa jaanavar
+mere desh me.n saare baraabar
+ho kuttaa ?? pe soe, maanav kaa ghar to roe
+zi.ndagii lagatii hai jaalii, ho zi.ndagii lagatii hai jaalii
+%
+#endindian
+\endsong
+%

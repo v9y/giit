@@ -1,0 +1,26 @@
+%
+\startsong
+\stitle{tujhako apanii dulhan mai.n banaa luu.n zaraa}%
+\film{Officer}%
+\year{2001}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Babul Supriyo}%
+\music{Deepak Choudhary}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhako apanii dulhan mai.n banaa luu.n zaraa
+aajaa ghuu.nghaT teraa mai.n uThaa luu.n zaraa
+haa.n tujhii se tujhe mai.n churaa luu.n zaraa
+pal me.n ye zi.ndagii mai.n bitaa luu.n zaraa
+jaane kyaa ra.n laa_egaa meraa junuu.n
+%
+#endindian
+\endsong
+

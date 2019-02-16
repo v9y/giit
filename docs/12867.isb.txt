@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jab se tuu merii zi.ndagii me.n aayaa ... tere binaa ab mujhe jiinaa nahii.n}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Suresh Wadekar, Anuradha Paudwal}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab se tuu merii zi.ndagii me.n aayaa satara.ngii sapane aa.Nkho.n me.n laayaa
+tere binaa ab mujhe jiinaa nahii.n ho ho
+saa.Nso.n me.n milan kii ye viiNaa baje saragam mere adharo.n pe saje
+tere binaa ab mujhe \threedots
+
+is jiivan kaa matalab hai kyaa tuune mujhe samajhaa diyaa
+apanaa tuune maanaa mujhe mujhape ba.Daa ehasaan kiyaa
+meraa man meraa tan merii dhun teraa sur
+saathii jiivan tere bin adhuuraa
+tuu jahaa.n hai merii duniyaa hai.n vahii.n ho ho
+jab se tuu merii \threedots
+
+jho.nke pavan ke paanii ke rele ik duusare ke bin ham akele
+kis kaam ke ye mausam ye mele
+mai.n thaam letii huu.N terii baahe.n
+in raaho.n par dil se nikalakar dil ko ga_ii hai.n nigaahe.n
+ik duusare pe maranaa pa.Degaa badanaamiyo.n se Daranaa pa.Degaa
+ab pyaar hamako karanaa pa.Degaa
+ham pyaar karanaa chaahe.n na chaahe.n
+%
+#endindian
+\endsong
+

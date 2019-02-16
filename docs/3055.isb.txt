@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{champaa kalii dekho jhuk hii gayii jaaduu kiyaa mere pyaar ne}%
+\film{Ziddi}%
+\year{1964}%
+\starring{Asha Parekh, Joy Mukherjee}%
+\singer{Rafi, Asha}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+champaa kalii dekho jhuk hii gayii jaaduu kiyaa mere pyaar ne
+juhii ke phuul tuune dil le liyaa re paagal kiyaa tere pyaar ne
+
+ye teraa shabaab pyaar kaa kamal
+a.Nkha.Diyaa.N hai.n yaa koii Gazal hai pyaar kii
+ban gaye ham yuu.N hasii.n
+aap kii ye inaayat huii
+champaa kalii dekho \threedots
+
+mere dil kii aag raag ban gayii
+mujh ko zi.ndagii me.n gunagunaanaa aa gayaa
+jaan-e-man tum jaan lo
+pyaar patthar ko detaa hai jhukaa
+juhii kii phuul \threedots
+
+o~ raat naujavaa.N tum bhii ho yahaa.N
+aaj apane pyaar par bahaar aa gayii
+mil gaye dil khil gaye
+ye kalii terii dulhan banegii
+champaa kalii dekho \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare}%
+\film{Chalte Chalte}%
+\year{2003}%
+\starring{Shahrukh Khan, Rani Mukherjee}%
+\singer{Abhijeet, Alka Yagnik}%
+\music{Jatin-Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11723 [V S Rawat]
+% Producer: Dreamz Unlimited, UTV Motion Pictures, Director: Aziz Mirza
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3373 Gold Stereo, Cost: Rs 55/-, CD: 112053 CDF, Cost: Rs 125/-
+% Site: www.chaltechalte.com
+% 
+\printtitle
+#indian
+%
+abhi \:	he he he he he he he
+	haa aa haa ho o ho
+
+	taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare
+	raaz ye kaise khol rahii ho tum aa.Nkho.n se bol rahii ho
+	jaaduu aate hai.n tumako saare
+al \:	taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare
+	chhuu lete ho taar jo dil ke tum hii bataa_o tum se mil ke
+	jaan\-o\-dil ko_ii kyuu.N naa haare
+abhi \:	taubaa tumhaare ye ishaare
+
+	jism damakataa jaaduu\-jaaduu zulf ghanerii Kushbuu\-Kushbuu
+al \:	saa.Nse.n hamaarii mahakii\-mahakii nazare.n tumhaarii bahakii\-bahakii
+abhi \:	tumhaaraa badan hai jaise chaman hosh u.Daa de.n ye nazaare
+al \:	taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare
+abhi \:	ho raaz ye kaise khol rahii ho tum aa.Nkho.n se bol rahii ho
+	jaaduu aate hai.n tumako saare
+	taubaa tumhaare ye ishaare
+
+	he he he he he he he
+al \:	aa aa aa aa aa aa aa haa
+
+abhi \:	ko_ii nashaa hai chhalaka\-chhalakaa hosh bachaa hai halakaa\-halakaa
+al \:	ham hai.n jaise kho_e\-kho_e jaage lekin so_e\-so_e
+abhi \:	machalatii raho pighalatii raho baa.Nho.n ke ghere me.n hamaare
+al \:	taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare
+	chhuu lete ho taar jo dil ke tum hii bataa_o tum se mil ke
+	jaan\-o\-dil ko_ii kyuu.N naa haare
+abhi \:	taubaa tumhaare ye ishaare ham to diivaane hai.n tumhaare
+	raaz ye kaise khol rahii ho tum aa.Nkho.n se bol rahii ho
+	jaaduu aate hai.n tumako saare
+do \:	taubaa tumhaare ye ishaare
+%
+#endindian
+\endsong
+

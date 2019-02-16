@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{maaTii ko laajaanaa naa}%
+\film{Fashion}%
+\year{1957}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Hemant, Bela Mukherjee}%
+\music{Hemant}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator:
+% Date: 01/31/2000
+% Credits:
+% Comments: Hemant-da A genius (34)
+%
+\printtitle
+#indian
+%
+
+he: ba.De ba.De tufaano.N ke aage kabhii nahii.n jo haaraa hai
+    naarii kii taaqat par ab tak zindaa desh tumhaaraa hai
+
+    maaTii ko lajaanaa naa is maaTii ko lajaanaa naa
+    desh hai mahaan isakii shaan ko miTaanaa naa
+do: maaTii ko lajaanaa naa is maaTii ko lajaanaa naa
+    desh hai mahaan is kii shaan ko miTaanaa naa \threedots
+
+he: vichha.Daa hua yahaa.n kaa vichha.Dii kaa nuur hai.n
+be: haa.N vichha.Dii kaa nuur hai.n
+he: (is) maaTii meraa maa hua siitaajii kaa si.nduur hai.n
+be: siitaajii kaa si.nduur hai.n
+he: desh ke javaano.n o faishan ke diivaano.n
+tho.Dii baat puraanii maano
+apanii sej ko paraa_ii naag se kabhii sajaanaa naa \threedots
+
+he: galiyaa.n paraayiin ko khoyaa teraa dhyaan hai.n
+be: ho khoyaa teraa dhyaan hai
+apanii puujaaran kaa tu hii bhagavaan hai
+be: tu hii bhagavaan hai
+he: raam hai tu usakaa ghanashyaam hai tu usakaa
+chaaro.n dhaam hai tu usakaa
+aisii naarii ke jigar pe kaTaarii tu chalaanaa naa \threedots
+
+%
+#endindian
+\endsong
+%
+

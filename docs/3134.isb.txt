@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{madiine ko jaaye.n ye jii chaahataa hai}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Irfan Moinuddin
+% Transliterator: K Vijay Kumar
+% Comments: Album - Tareef Us Khuda Ki
+%
+\printtitle
+#indian
+%
+
+madiine ko jaaye.n ye jii chaahataa hai
+muqaddar banaaye.n ye jii chaahataa hai
+
+madiine ke aaqaa, do alam ke maulaa
+tere paas aaye.n ye jii chaahataa hai
+madiine ko jaaye.n ye jii chaahataa hai
+
+jahaa.N dono.n aalam hai.n mahv\-e\-tamannaa
+vahaa.N sar jhukaaye.n ye jii chaahataa hai
+madiine ko jaaye.n ye jii chaahataa hai
+
+muhammad kii baate.n, muhammad kii siirat
+sune aur sunaye.n ye jii chaahataa hai
+madiine ko jaaye.n ye jii chaahataa hai
+
+%
+#endindian
+\endsong
+%

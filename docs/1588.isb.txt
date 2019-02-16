@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{sach hue sapane tere}%
+\film{Kaala Bazaar}%
+\year{1960}%
+\starring{Dev Anand, Waheeda Rehman}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 02/17/1997
+%
+\printtitle
+#indian
+%
+sach hue sapane tere jhuum le o man mere
+(chikii chikii chik chaa chaa chai) \-2
+chikii chikii chik chaa
+ 
+bekal man kaa dhiiraj lekar mere saajan aaye
+jaise koi subah kaa bhuulaa saa.Njh ko ghar aa jaaye
+priit ne ra.Ng bikhere jhuum le o man mere
+(chikii chikii chik chaa chaa chai) \-2
+chikii chikii chik chaa
+ 
+man kii paayal chham chham bole har ek saa.Ns taraanaa
+dhiire dhiire siikh liyaa akhiyo.n ne musakaanaa
+ho gaye duur a.ndhere jhuum le o man mere
+(chikii chikii chik chaa chaa chai) \-2
+chikii chikii chik chaa
+ 
+jis ulajhan ne dil ulajhaake saarii raat jagaayaa
+banii hai vo aaj priit kii maalaa man kaa miit milaayaa
+jagamag saa.Njh savere jhuum le o man mere
+(chikii chikii chik chaa chaa chai) \-2
+chikii chikii chik chaa
+%
+#endindian
+\endsong
+%

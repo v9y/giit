@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{chaa.Nd ho yaa na ho ... mai.n tere saath huu.N}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Nd ho yaa na ho chaa.Ndanii raat hai
+mai.n tere saath huu.N tuu mere saath hai
+aur kuchh ho na ho ek hii baat hai
+khuubasuurat ba.Dii ye mulaakaat hai
+
+kaisaa ye mausam o saajan hai
+baadal hai ko_ii na saavan hai
+lag rahaa hai magar aaj barasaat hai
+mai.n tere saath huu.N \threedots
+
+pyaar ke kachche dhaage kii is Dor se
+ik duuje ko chal baa.Ndh le zor se
+apane aramaano.n kii aaj baaraat hai
+khuubasuurat ba.Dii \threedots
+%
+#endindian
+\endsong
+

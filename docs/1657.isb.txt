@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{sur naa saje kyaa gaauu.N mai.n}%
+\film{Basant Bahaar}%
+\year{1956}%
+\starring{Bharat Bhushan, Nimmi}%
+\singer{Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          U V Ravindra
+%          Surajit Bose
+% Editor:  
+%
+\printtitle
+#indian
+%
+sur nA saje kyA gAU.N mai.n \- 2
+sur ke binA, jIvan sUnA \- 2
+sur nA saje kyA gAU.n mai.n 
+sur nA saje \threedots
+
+jalate gayaa jiivana meraa \-2
+is raat kaa na hogaa saveraa \-2
+sur naa saje ... 
+
+dono.n jahA.n, mujhase rUThe \- 2
+tere binA ye gIt bhI jhUThe \- 2
+sur nA saje \threedots
+
+taT se lagii nadiyaa gaave \-2
+pii tum kahaa.N papiihaa gaave \-2
+sur naa saje ...
+
+(sa.ngIt man ko pa.nkh lagAe
+gIto.n me.n rimajhim ras barasAe ) \- 2
+svar kI sAdhanA \- 2
+paramesh{}var kI
+sur nA saje \threedots
+%
+#endindian
+\endsong
+%

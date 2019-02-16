@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aaj gaavat man mero jhuum ke}%
+\film{Baiju Bawra}%
+\year{1952}%
+\starring{Bharat Bhushan, Meena Kumari}%
+\singer{D V Paluskar, Ustad Amir Khan}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Ameesh Oza
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+aaj gaavat man mero jhuum ke
+torii taan bhagavaan
+aaj gaavat man mero   \threedots
+
+haar gayaa to jiivan jaave
+jiitaa gaayak duniyaa paave
+rakhiyo ab morii shaan re
+aaj gaavat man mero   \threedots
+
+prem ke kaaraN premii gaave
+taano.n se baadal pigharaave
+jagat me.n rahe maan re
+aaj gaavat man mero   \threedots
+
+saat suro.n ke madhur milan me.n
+jaaduu aaj jagaa de.n
+baijuu ke sa.ngiit vidhaataa
+jal me.n aag lagaa de.n
+jal me.n aag lagaa de.n
+aa~
+aaj gaavat man mero   \threedots
+
+%
+#endindian
+\endsong
+%

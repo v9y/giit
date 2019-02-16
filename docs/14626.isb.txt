@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{palako.n pe sapane jaise ... ye saa.Nse.n bahakii hai.n}%
+\film{Yeh Kya Ho Raha Hai}%
+\year{2002}%
+\starring{Prashant, Vaibhav, Aamir, Yash}%
+\singer{KayKay, Mahalakshmi, Chorus}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+uu yeh uu yeh uu yeh uu yeh
+palako.n pe sapane jaise dhiire dhiire chhaate hai.n
+ra.ng dhiime dhiime aa.Nkho.n me.n ghule jaate hai.n
+palako.n pe sapane \threedots
+
+ye saa.Nse.n bahakii hai.n
+kyuu.N aise bahakii hai.n ye saa.Nse.n
+khilatii hai.n khvaabo.n kii kaliyaa.n
+to mahakii hai.n ye saa.Nse.n
+uu yeh dil me.n jo bhii ab hai kaho naa uu yeh
+uu yeh hone bhii do ab hai jo honaa uu yeh
+uu yeh tumase jo milii nazar merii
+to chhaa ga_ii.n hai.n kaisii ye ra.ngiiniyaa.N
+zi.ndagii merii hu_ii hasii.n
+hu_aa javaa.n nigaaho.n me.n saaraa samaa.n
+ra.ng hai.n Dhalake Dhalake
+jaam hai.n chhalake chhalake
+ye saa.Nse.n bahakii \threedots
+
+tumase kyaa kahuu.N ke jo mujhe mile ho tum to kaisaa lagaa hai mujhe
+mai.n kahii.n rahuu.N magar meraa ye dil yahii.n rahegaa pataa hai mujhe
+pighalaa pighalaa saa hai dil khoyaa khoyaa saa hai dil
+khvaab hai.n jaage jaage soyaa soyaa saa hai dil
+ye saa.Nse.n bahakii \threedots
+%
+#endindian
+\endsong
+

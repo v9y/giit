@@ -1,0 +1,77 @@
+
+%
+\startsong
+\stitle{o pi pi pi piyaa ham aur ham pi pi piyaa tum aur ham}%
+\film{Naujawaan}%
+\year{1951}%
+\starring{Nalini Jayawant, Premnath}%
+\singer{Kishore, Shamshad}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11908 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+sha \:	o 
+	pi pi pi piyaa
+	pi pi piyaa
+	ho ho
+	pi pi piyaa
+	ho o ho o ho o ho
+	pi pi piyaa
+ki \:	ham aur tum
+sha \:	pi pi piyaa
+ki \:	tum aur ham
+sha \:	pi pi piyaa
+ki \:	ham aur tum dono.n rahe.n ek saath
+sha \:	naino.n me.n nainaa aur haatho.n me.n haath
+
+ki \:	ham aur tum
+sha \:	pi pi piyaa
+ki \:	tum aur ham
+sha \:	pi pi piyaa
+do \:	ham aur tum dono.n rahe.n ek saath
+	naino.n me.n nainaa aur haatho.n me.n haath
+	jalaa kare.n jalane waale chaahe.n jo bhii ho
+sha \:	ho o ho o ho
+ki \:	ho o ho o ho
+do \:	ham aur tum dono.n rahe.n ek saath
+
+sha \:	rum paa
+ki \:	paa paa paa
+sha \:	rum paa
+ki \:	paa paa paa
+
+sha \: aa jaa o baa.Nke piyaa aajaa
+	piyaa aajaa
+	naino.n se ras barasaa jaa
+	piyaa aajaa
+	aa jaa o baa.Nke piyaa aajaa
+ki \:	huu.n huu.n huu.n huu.n
+sha \:	naino.n se ras barasaa jaa
+ki \:	rut mastaanii 
+sha \:	aa haa
+ki \:	raat suhaanii
+sha \:	waa waa
+ki \:	mauj me.n jawaanii bhii hai aajaa
+sha \:	o pi pi pi piyaa
+ki \:	o pi pi pi piyaa
+	oy
+do \:	jalaa kare.n jalane waale chaahe.n jo bhii ho
+sha \:	ho o ho o ho
+ki \:	ho o ho o ho
+do \:	ham aur tum dono.n rahe.n ek saath
+	naino.n me.n nainaa aur haatho.n me.n haath
+	jalaa kare.n jalane waale chaahe.n jo bhii ho
+sha \:	ho o ho o ho
+ki \:	ho o ho o ho
+
+ki \:	##yoodling##
+%
+#endindian
+\endsong
+

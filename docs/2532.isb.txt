@@ -1,0 +1,82 @@
+%
+\startsong
+\stitle{baaGo.n me.n bahaar hai}%
+\film{Aradhana}%
+\year{1969}%
+\starring{Rajesh Khanna, Farida Jalal, Sharmila Tagore}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+pu :   achchhaa to ye baat hai 
+       tum bhii sun lo
+       jo jo savaal mai.n puuchhuu.N unakaa sach\-sach javaab denaa
+       Dan.h?
+strii: Dan.h
+pu :   achchhaa, to baaGo.n me.n bahaar hai?
+strii: kyaa?
+pu :   mai.n ne puuchhaa baaGo.n me.n bahaar hai?
+strii: haa.N hai
+pu :   kaliyo.n pe nikhaar hai?
+strii: haa.N hai
+pu :   to, to tumako mujhase pyaar hai
+strii: na na na, na na na, na na na, na na na
+       
+pu :   o~ baaGo.n me.n bahaar hai
+strii: hai
+pu :   kaliyo.n pe nikhaar hai
+strii: hai
+pu :   o~ tumako mujhase pyaar hai
+strii: na na na, na na na, na na na, na na na
+pu :   o~ baaGo.n me.n bahaar hai   \threedots
+       
+strii: chho.Do haTo, jaa_o paka.Do na bai.nyyaa
+       aa_uu.N na mai.n tere baato.n me.n sai.nyyaa
+pu :   tumane kahaa hai dekho, dekho mujhe sai.nyyaa
+       bolo tumako iqaraar hai
+strii: hai
+pu :   phir bhii in.kaar hai
+strii: haa.N hai
+pu :   o~ tumako mujhase pyaar hai
+strii: na na na, na na na, nahii.n nahii.n nahii.n nahii.n
+pu :   o~ baaGo.n me.n bahaar hai
+       
+       tumane kahaa thaa mai.n sau duHkh sahuu.Ngii
+       chupake piyaa tere man me.n rahuu.Ngii
+strii: vo sab kahuu.Ngii lekin vo na kahuu.Ngii
+       tumako jisakaa intazaar hai
+pu :   hai
+strii: phir bhii taqaraar hai
+pu :   hai
+       o~ tumako mujhase pyaar hai
+strii: na na na, na na na, na na na, na na na
+pu :   o~ baaGo.n me.n bahaar hai
+       
+strii: achchhaa chalo, chhe.Do aage kahaanii
+       hotii hai kyaa bolo pyaar kii nishaanii
+pu :   bechain rahatii hai prem diivaanii
+       bolo kyaa dil beqaraar hai
+strii: hai
+pu :   mujhape aitabaar hai
+strii: hai
+pu :   jiinaa dushavaar hai
+strii: hai, hai
+pu :   aaj somavaar hai
+strii: are baabaa, hai
+pu :   tumako mujhase pyaar hai
+strii: hai
+       na na na na na
+
+%
+#endindian
+\endsong
+%

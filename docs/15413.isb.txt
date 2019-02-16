@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kal raat bazm me.n jo milaa gulabadan saa thaa}%
+\film{Passions (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Mohsin Naqvi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+kal raat bazm me.n jo milaa gulabadan saa thaa
+Kushbuu se usake lafz the cheharaa chaman saa thaa
+
+dekhaa use to bol pa.De usake Katb\-o\-khaal
+puuchhaa use to chup saa rahaa kam\-sukhan saa thaa
+
+tanhaa_iyo.n kii rut me.n bhii lagataa thaa mutama_in
+wo shaKs apanii zaat me.n ik a.njuman saa thaa
+
+wo saadagii pahan ke bhii dil me.n utar gayaa
+usakii har ik adaa me.n ajab bhol pan saa thaa
+
+#endindian
+\endsong

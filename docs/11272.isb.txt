@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{mausam aayaa hai ra.ngiin bajii hai kahii.n suriilii biin}%
+\film{Dholak}%
+\year{1951}%
+\starring{Meena Shori, Ajit, Yashodhara Katju, Manmohan Krishan, Satish Batra}%
+\singer{Sulochana Kadam, Satish Batra, Chorus}%
+\music{Shyamsunder}%
+\lyrics{Ajiz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #12292 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+su \:	mausam aayaa hai ra.ngiin
+	bajii hai kahii.n suriilii biin
+	aise me.n haule haule haule haule aa
+su sa \:	( mausam aayaa hai ra.ngiin
+	bajii hai kahii.n suriilii biin
+	aise me.n haule haule haule haule aa ) \-2
+
+su \:	phuul khile kaliyaa.N sharamaa_ii.n
+	rut mastii kii aa ga_ii
+	rut aa ga_ii
+sa ko \:	rut aa ga_ii
+su \:	niile\-niile ambar par
+	bin puuchhe badalii chhaa ga_ii
+	ho chhaa ga_ii
+su  ko \:	ho chhaa ga_ii
+su \:	khilaa hai Kushiyo.n kaa baazaar
+	kare.nge naino.n kaa vyopaar
+	aise me.n haule haule haule haule aa
+sa ko \:	mausam aayaa hai ra.ngiin
+	bajii hai kahii.n suriilii biin
+	aise me.n haule haule haule haule aa
+
+su \:	jhuum rahii hai Daalii\-Daalii
+	jhuum rahaa man meraa re
+	man meraa re
+sa ko \:	man meraa re
+su \:	do nainano.n se ojhal
+	us kaa nainan biich baseraa re
+	baseraa re
+sa ko \:	baseraa re
+
+su \:	kare.nge chaahat kaa ikaraar
+	kisii kii jiit kisii kii haar
+	aise me.n haule haule haule haule aa
+sa ko \:	mausam aayaa hai ra.ngiin
+	bajii hai kahii.n suriilii biin
+	aise me.n haule haule haule haule aa
+%
+#endindian
+\endsong
+%
+

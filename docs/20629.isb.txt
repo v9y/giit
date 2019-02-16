@@ -1,0 +1,53 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{tuu dil meraa lauTaa de}%
+\film{Mai Baap}%
+\year{1957}%
+\starring{}%
+\singer{Geeta, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+% 
+% Audio on: HMV
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 28 Dec 2004
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+gii: tuu dil meraa lauTaa de
+     a.ngrezii saahibazaade
+     merii taubaa
+
+ra:  tum pahale dil hai detaa
+     phir usako waapas letaa
+     tum hai kaisaa
+
+gii: (mai.n ek ra.ngiilii titalii
+     kabhii baithuu.N na mai.n iThalii
+     nahii.n ek Thikaanaa meraa
+     mai.n chamakuu.N jaise bijalii) \-2
+     mai.n chamakuu.N jaise bijalii
+     tuu dil meraa lauTaa de \threedots
+
+ra:  (kabhii paas kha.De laharaanaa
+     kabhii pyaar se bhii ghabaraanaa
+     kabhii phuul kabhii tuu kaa.NTaa
+     teraa raaz na ham ne jaanaa) \-2
+     o teraa raaz na ham ne jaanaa
+gii: tuu dil meraa lauTaa de \threedots
+
+gii: (mujhe dekh na yuu.N harajaa_ii
+     merii Tuut ga_ii a.ngraa_ii
+     meraa chho.D de zaalim piichhaa
+     tere pyaar se mai.n baaz aa_ii) \-2
+     tere pyaar se mai.n baaz aa_ii
+     tuu dil meraa lauTaa de \threedots
+%
+#endindian
+\endsong

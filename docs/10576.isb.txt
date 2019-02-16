@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{balamaa baa.Nsuriyaa ab ye hii pukaare}%
+\film{Balmaa}%
+\year{1992}%
+\starring{Avinash Wadhawan, Ayesha, Saeed Jafrey, Anjana Mumtaz, Shammi}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko \:	balamaa \-12
+aa \:	baa.Nsuriyaa ab ye hii pukaare
+	aa balamaa nadiyaa ke kinaare \-2
+ku \:	terii aa.Nkho.n se ni.ndiyaa churaa_uu.Ngaa
+	tere ho.nTho.n se laalii u.Daa_uu.Ngaa
+aa \:	tujhe saa.Nso.n me.n apanii basaa_uu.Ngii
+	tujhe apanii nazar me.n chhupaa_uu.Ngii
+ku \:	baa.Nsuriyaa ab ye hii \threedots
+aa \:	aa balamaa nadiyaa ke \threedots
+
+	aa.Nkhe.n bichhaa_e baiThii thii dilabar kii chaah me.n
+	kab se kha.Dii thii mai.n vahaa.N chaahat kii raah me.n
+ku \:	tuune jo dii sazaa to mai.n tere paas aa gayaa
+	duniyaa bhulaa ke mai.n sanam tujhame.n samaa gayaa
+aa \:	diivaanii ho ga_ii thii mai.n tere pyaar me.n \-2
+	bechain ho rahii thii mai.n ( tere intazaar me.n ) \-3
+ku \:	baa.Nsuriyaa ab ye hii \threedots
+aa \:	aa balamaa nadiyaa ke \threedots
+
+ku \:	aa jaa kariib aa mere tujhako qaraar duu.N
+	baaho.N me.n terii pyaar ke lamhe.n guzaar duu.N
+aa \:	hai aarazuu yahii merii tere saamane rahuu.N
+	kahanii hai jitanii baat mai.n tujhase vo sab kahuu.N
+ku \:	mere saath hai tuu saathiyaa har ik haal me.n
+	khoyaa rahuu.N hameshaa mai.n tere Kyaal me.n \-2
+aa \:	baa.Nsuriyaa ab ye hii \threedots
+ku \:	tujhe saa.Nso.n me.n \threedots
+%
+#endindian
+\endsong
+

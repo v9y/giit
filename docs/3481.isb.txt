@@ -1,0 +1,43 @@
+% ITRANS SONG # 3481; Created on Jan 26, 2004
+%
+%      From: Abhay Phadnis (aphadnis@hotmail.com)
+%      Date: 2002-11-05 04:36:31 PST 
+%
+\startsong
+\stitle{terii Kaatir jal rahe.n hai.n}%
+\film{Pakistani-film{Paigham)}%
+\year{1964}%
+\starring{}%
+\singer{Noorjehan}%
+\music{A Hameed}%
+\lyrics{Faiyaz Hashmi}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Credits: Urzung Khan, Jamal Akbar
+% Comments: Noor-e-Tarannum Series; November 05, 2002
+%
+\printtitle
+#indian
+%
+(terii Kaatir jal rahe.n hai.n kab se parawaane
+pyaar kyaa hai kyaa bataa_e.N tujh ko diiwaane) \-2
+
+laakh terii beruKii ham pe sitam .Dhaatii rahii
+jis qadar tujhako bhulaayaa terii yaad aatii rahii
+ho ga_e tere liye ham sab se begaane
+pyaar kyaa hai kyaa bataa_e.N tujh ko diiwaane
+terii Kaatir jal rahe.n hai.n \threedots
+
+dil luTaakar bhii terii duniyaa me.n rah sakate nahii.n \-2
+ham tere hoke bhii tujhako apanaa kah sakate nahii.n
+dil me.n rah jaa_e.Nge yuu.N hii dil ke afasaane
+pyaar kyaa hai kyaa bataa_e.N tujh ko diiwaane
+
+terii Kaatir jal rahe.n hai.n kab se parawaane
+pyaar kyaa hai kyaa bataa_e.N tujh ko diiwaane
+terii Kaatir jal rahe.n hai.n \threedots
+%
+#endindian
+\endsong
+%

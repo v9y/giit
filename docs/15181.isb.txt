@@ -1,0 +1,63 @@
+% ITRANS SONG
+
+\startsong
+\stitle{naa bha.Nwaraa naa ko_ii gul}%
+\film{Aarti}%
+\year{1962}%
+\starring{Ashok Kumar, Meena Kumari, Pradeep Kumar}%
+\singer{Rafi, Asha, Chorus}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ra \:	naa bha.Nwaraa naa ko_ii gul
+	akelaa huu.N mai.n teraa bulabul
+	hai ek tanahaa_ii
+	merii jaa.N mere jahaa.N me.n aa
+aa \:	mere jahaa.N me.n ra.ng\-o\-buu
+	kahii.n par ha.Nsii kahii.n aa.Nsuu
+	ye hii bataa saudaa_ii
+	mai.n ye zi.ndagii bhulaa duu.N kyaa
+
+	ulfat kii hai yahaa.N buu baas
+	man me.n lagii labo.n par pyaas
+ko \:	man me.n lagii labo.n par pyaas
+aa \:	chaa.Ndii sonaa ho na ho
+	dil hai apane paas	
+ra \:	merii duniyaa aur hasii.n hai
+	yahaa.N da.ngaa shor nahii.n hai
+	
+	hai ek tanahaa_ii
+	merii jaa.N mere jahaa.N me.n aa
+	naa bha.Nwaraa naa ko_ii gul
+	akelaa huu.N mai.n teraa bulabul
+	hai ek tanahaa_ii
+	merii jaa.N mere jahaa.N me.n aa
+
+	teraa jahaa.N hai jisakaa naam
+	Gam kii subah dukho.n kii shaam
+ko \:	ho ##no no no##
+ra \:	maamuulii sii baat pe
+	la.Danaa isakaa kaam
+aa \: phir bhii ye sab hai.n apane
+	mil jul kar dekhe.n sapane
+
+	ye hii bataa saudaa_ii
+	mai.n ye zi.ndagii bhulaa duu.N kyaa
+	mere jahaa.N me.n ra.ng\-o\-buu
+	kahii.n par ha.Nsii kahii.n aa.Nsuu
+	ye hii bataa saudaa_ii
+	mai.n ye zi.ndagii bhulaa duu.N kyaa
+
+ra \:	naa bha.Nwaraa naa ko_ii gul
+	akelaa huu.N mai.n teraa bulabul
+	hai ek tanahaa_ii
+	merii jaa.N mere jahaa.N me.n aa
+
+#endindian
+\endsong

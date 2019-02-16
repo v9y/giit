@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{dil me.n jigar me.n merii nazar me.n}%
+\film{Jung}%
+\year{2000}%
+\starring{Sanjay Dutt, Jackie Shroff, Shilpa Shetty, Ravina Tondon}%
+\singer{Kumar Sanu, Hema Sardesai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa baago.n me.n naa bahaaro.n me.n
+naa gu.ncho.n me.n naa gulazaaro.n me.n
+naa ra.ngo.n naa rukhasaaro.n me.n
+naa galiyo.n naa baazaaro.n me.n
+
+dil me.n jigar me.n merii nazar me.n
+cheharaa teraa mere sanam
+aa.Nkho.n me.n tuu hai nii.ndo.n me.n tuu hai
+khvaabo.n me.n tuu hai terii kasam
+dil me.n jigar me.n \threedots
+
+pyaar mujhako kiyaa merii jaa.n shukriyaa
+mai.n diivaanaa hu_aa tuune kyaa kah diyaa
+jab se terii merii baat hotii nahii.n
+din guzarataa nahii.n raat hotii nahii.n
+ho.nTho.n me.n tuu hai baato.n me.n tuu hai
+vaado.n me.n tuu hai terii kasam
+dil me.n jigar me.n \threedots
+
+teraa jaaduu chalaa yuu.n asar kar gayaa
+tere diladaar ko bekhabar kar gayaa
+naa tujhe chain hai naa huu.N mai.n hosh me.n
+kar na baiThe.n khataa ham kahii.n josh me.n
+siine me.n tuu dha.Dakan me.n tuu hai
+yaado.n me.n tuu hai terii kasam
+dil me.n jigar me.n \threedots
+%
+#endindian
+\endsong
+

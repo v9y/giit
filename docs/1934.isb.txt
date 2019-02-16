@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{ye nayii nayii priit hai tuu hii to meraa miit hai}% 
+\film{Pocketmaar}%
+\year{}%
+\starring{Dev Anand}%
+\singer{Talat, Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%	   Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+lataa:		ye nayii nayii priit hai
+		tuu hii to meraa miit hai
+		naa jaane koii saajanaa 
+		ye terii merii daastaa.n
+	
+talat:		samaa hai ye pyaar kaa
+		naye iqaraar kaa
+		naa ho koii jahaa.N 
+		banaa le.n vahii.n aashiyaa.n
+	
+lataa:		ye nayii nayii priit hai
+	
+(lataa:		nazar tumase milii aise
+		ke ham sharmaa gaye
+talat:		pukaaraa jab tere dil ne
+		to phir ham aa gaye ) \- 2
+lataa:		kasam tumhe.n pyaar kii
+		isii iqaraar kii
+		naa jaane koii saajanaa 
+		ye terii merii daastaa.n
+talat:		samaa hai ye pyaar kaa
+	
+(talat:		nigaaho.n hii nigaaho.n me.n
+		kaho kyaa kar diyaa
+lataa:		mere daaman ko phuulo.n se 
+		ye kisane bhar diyaa ) \- 2
+talat:		chalo chal de.n vahaa.N
+		zamiin aur aasamaa.n
+		gale milate jahaa.N
+		banaa le vahii.n aashiyaa.n
+	
+latA:		ye nayii nayii priit hai
+		tU hii to mera miit hai
+		naa jaane koii saajanaa 
+		ye terii merii daastaa.n
+	
+##both:##		samaa hai ye pyaar kaa
+		naye iqaraar kaa
+		naa ho koii jahaa.N 
+		banaa le.n vahii.n aashiyaa.n
+		ye nayii nayii priit hai
+#endindian
+\endsong
+%

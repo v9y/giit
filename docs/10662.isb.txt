@@ -1,0 +1,62 @@
+
+%
+\startsong
+\stitle{kar gayaa re kar gayaa mujhape jaaduu sa.Nwariyaa}%
+\film{Basant Bahaar}%
+\year{1956}%
+\starring{Bharat Bhushan, Nimmi, Chandrashekhar, Kumkum}%
+\singer{Lata, Asha}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10828 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+do \:	aa
+aa \:	kar gayaa re
+	kar gayaa mujhape jaaduu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+la \:	ye kyaa kiyaa re
+	Gazab kiyaa re
+	chor ko samajhii mai.n saadhuu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+do \:	kar gayaa re \-2
+	kar gayaa mujhape jaaduu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+
+aa \:	bholii suratiyaa magar hai sayaanaa \-2
+la \:	siikhe ko_ii wo se daaman bachaanaa \-2
+do \:	o
+	vaadaa kar ke mukar gayaa
+	kar gayaa re \-2
+	kar gayaa mujhape jaaduu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+
+aa \:	tum jo kaho to mai.n naam bataa duu.N \-2
+la \:	patthar kii muurat ke darshan karaa duu.N \-2
+	o
+	jisake qadamo.n pe sar gayaa
+do \:	kar gayaa re \-2
+	kar gayaa mujhape jaaduu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+
+la \:	baalam ye sab hai tumhare hii kaaran \-2
+aa \:	mahafil me.n naache tumhaarii pujaaran \-2
+do \:	o
+		mat puuchho dil kidhar gayaa
+	kar gayaa re \-2
+	kar gayaa mujhape jaaduu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+	ye kyaa kiyaa re
+	Gazab kiyaa re
+	chor ko samajhii mai.n saadhuu sa.Nwariyaa
+	kar gayaa mujhape jaaduu
+%
+#endindian
+\endsong
+

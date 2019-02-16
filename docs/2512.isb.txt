@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aaye bhii akelaa, jaaye bhii akelaa}%
+\film{Dost}%
+\year{1954}%
+\starring{}%
+\singer{Talat}%
+\music{Hansraj Behl}%
+\lyrics{Varma Malik}%
+%
+% Contributor: Yogesh Sethi
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+aaye bhii akelaa, jaaye bhii akelaa
+do din kii zi.ndagii hai, do din kaa melaa
+do din kaa melaa   \threedots
+
+terii zi.ndagii mauj hai do gha.Dii kii
+ye baate.n hai.n naadaa.N sab jiite jii kii
+sab jiite jii kii
+ye duniyaa.N huii hai na hogii kisii kii
+vahii ek ma.nzil hai har aadamii kii
+har aadamii kii
+jahaa.N sab ko jaanaa pa.Degaa akelaa
+do din kii zi.ndagii hai, do din kaa melaa   \threedots
+
+ek baar saath deke saath na chho.Danaa
+jaan jaaye to jaaye dostii na to.Danaa
+dostii na to.Danaa
+nazare.n na pher lenaa, mu.Nh ko na mo.Danaa
+duniyaa.N ko chho.D denaa, yaar ko na chho.Danaa
+yaar ko na chho.Danaa
+dekho manasuur kaise jaan pe khelaa
+do din kii zi.ndagii hai, do din kaa melaa   \threedots
+
+%
+#endindian
+\endsong
+%

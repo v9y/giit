@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{diivaanaa mujh saa nahii.n is ambar ke niiche}%
+\film{Teesri Manzil}%
+\year{1966}%
+\starring{Shammi Kapoor, Asha Parekh, Premnath}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10805 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+diivaanaa mujh saa nahii.n is ambar ke niiche \-2
+aage hai qaatil meraa aur mai.n piichhe\-piichhe
+diivaanaa mujh saa \threedots
+
+paayaa hai dushman ko jab se pyaar ke qaabil
+tab se ye aalam hai rastaa yaad na ma.nzil
+nii.nd me.n jaise chalataa hai ko_ii chalanaa yuu.N hii aa.Nkhe.n mii.nche
+diivaanaa mujh saa \threedots
+
+hamane bhii rakh dii hai.n kal pe kal kii baate.n \-2
+jiivan kaa haasil hai.n pal do pal kii baate.n
+do hii gha.Dii kaa saath rahegaa karanaa kyaa hai tanahaa jii ke
+diivaanaa mujh saa \threedots
+%
+#endindian
+\endsong
+

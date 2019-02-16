@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham pyaar karate hai.n sanam ikaraar karate hai}%
+\film{Pyaasi Mamtaa}%
+\year{1998}%
+\starring{Aajesh Rekhi, Megha, Upasana, Gagan, Nirala Thakur, K P Singh}%
+\singer{Anuradha Paudwal}%
+\music{Surinder Kohli}%
+\lyrics{R V Singh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham pyaar karate hai.n sanam ikaraar karate hai
+ab maan bhii jaa_o ham tum pe marate hai.n
+ham pyaar karate hai.n \threedots
+
+tum dil kii tamannaa aramaan kahaa.n haasil ho
+ab apanii khushii Gam me.n har haal me.n shaamil ho
+ham ek ishaare par jaa.n nisaar karate hai.n
+ham pyaar karate hai.n \threedots
+
+Dar hamane zamaane kaa siikhaa hii nahii.n jaanaa.n
+bas terii ibaadat kii aur tujhako Kudaa maanaa
+yah hazaaro.n me.n sviikaar karate hai.n
+ham pyaar karate hai.n \threedots
+
+chaahat ko hamaarii tum ek baar samajh lete
+qadamo.n me.n tumhaarii ham ye jaan bhii de dete
+ham pyaar tumhe.n behad sarakaar karate hai.n
+ham pyaar karate hai.n \threedots
+%
+#endindian
+\endsong
+

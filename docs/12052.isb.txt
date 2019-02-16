@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{sach kahate hai.n ham kasam se ... hame.n pyaar ho gayaa sanam se}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa.Nkho.n me.n khushiyo.n ke aa.Nsuu
+saa.Nso.n me.n jiine kii pyaas
+mahakii dha.Dakan me.n jaagaa hai
+chaahat kaa pahalaa ehasaas
+
+sach kahate hai.n ham sach kahate hai.n ham kasam se
+hame.n pyaar ho gayaa sanam se
+sach kahate hai.n ham hame.n pyaar ho gayaa
+ab to mushkil ba.Daa i.ntazaar ho gayaa
+kahaa.n dil kho gayaa kasam se
+o hame.n pyaar ho gayaa sanam se
+
+kyaa hasii.n dilanashii.n ye zamaanaa lage
+sa.ng tere ye mausam suhaanaa lage
+kyaa nashiilii javaa.n ye mulaakaat hai
+hosh me.n ham nahii.n aisii kyaa baat hai
+rab se zyaadaa teraa aitabaar ho gayaa
+kahaa.n dil kho gayaa \threedots
+
+aajakal raat bhar nii.nd aatii nahii.n
+ek pal ke li_e yaad jaatii nahii.n
+din mahiinaa samaa.n saal aisaa na thaa
+pahale dil kaa mere haal aisaa na thaa
+jiinaa tere binaa dushvaar ho gayaa
+kahaa.n dil kho gayaa \threedots
+%
+#endindian
+\endsong
+

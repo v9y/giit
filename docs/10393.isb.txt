@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{o tere naino.n ke mai.n diip jalaa_uu.Ngaa}%
+\film{Anuraag}%
+\year{1972}%
+\starring{Vinod Mehra, Moushumi Chatterjee, Ashok Kumar}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11535 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ra \:	o tere naino.n ke mai.n diip jalaa_uu.Ngaa
+	apanii aa.Nkho.n se duniyaa dikhalaa_uu.Ngaa
+	tere naino.n ke \threedots
+
+la \:	achchhaa
+	vo kyaa hai
+ra \:	ek mandir hai
+la \:	us mandir me.n
+ra \:	ek muurat hai
+la \:	ye muurat kaisii hotii hai
+ra \:	terii suurat jaisii hotii hai
+la \:	vo kyaa hai
+
+	mai.n kyaa jaanuu.N chhaa.Nv hai kyaa aur dhuup hai kyaa
+	ra.ng\-bira.ngii is duniyaa kaa ruup hai kyaa
+	vo kyaa hai
+ra \:	ek parvat hai
+la \:	us parvat pe
+ra \:	ek baadal hai
+la \:	ye baadal kaisaa hotaa hai
+ra \:	tere aa.Nchal jaisaa hotaa hai
+la \:	vo kyaa hai
+
+ra \:	mast havaa ne ghuu.NghaT kholaa kaliyo.n kaa
+	jhuum ke mausam aayaa hai ra.ng\-raliyo.n kaa
+la \:	vo kyaa hai
+ra \:	ek bagiyaa hai
+la \:	us bagiyaa me.n
+ra \:	ka_ii bha.Nvare hai
+la \:	bha.Nvare kyaa rogii hote hai.n
+ra \:	nahii.n dil ke rogii hote hai.n
+
+la \:	aisii bhii anjaan nahii.n mai.n ab sajanaa
+	bin dekhe mujhako dikhataa hai sab sajanaa
+ra \:	achchhaa
+	to vo kyaa hai
+la \:	vo saagar hai
+ra \:	us saagar me.n
+la \:	ik naiyaa hai
+ra \:	are tuune kaise jaan liyaa
+la \:	man kii aa.Nkho.n se naam liyaa
+	vo kyaa hai
+%
+#endindian
+\endsong
+

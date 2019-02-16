@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aavaaz hamaarii isii vaadii me.n rahegii ... kabhii hamako na bhulaanaa}%
+\film{Shoorveer}%
+\year{1988}%
+\starring{Rajan Sippy, Mandakini, Suresh Oberoi, Danny, Kader Khan, Rakesh Bedi}%
+\singer{Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aavaaz hamaarii isii vaadii me.n rahegii
+aaj kii baate.n ye kal bhii kahegii
+guu.njegaa giit suhaanaa
+hamako na bhulaanaa kabhii hamako na bhulaanaa
+aavaaz hamaarii isii \threedots
+
+ho.nTho.n pe to aayaa hai vahii bhuulaa fasaanaa
+laa_uu.n to bhalaa kaise vo bachapan kaa zamaanaa
+ho yaar mile dil ke aa gaa le zaraa mil ke
+yaado.n kaa giit suhaanaa 
+hamako na bhulaanaa \threedots
+
+aatii hai ye pahachaanii sii aavaaz kahaa.n se
+kahaanii to apanii magar kisakii jubaa.n se
+aa jaa ke zaraa dekhuu.n baaho.n me.n tujhe le luu.n
+apanaa hai yaa ke begaanaa
+hamako na bhulaanaa \threedots
+%
+#endindian
+\endsong
+

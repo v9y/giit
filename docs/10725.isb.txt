@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{vo ha.Ns ke mile ham se ham pyaar samajh baiThe}%
+\film{Baharen Phir Bhi Aayengi}%
+\year{1966}%
+\starring{Dharmendra, Mala Sinha, Tanuja}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11493 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+vo ha.Ns ke mile ham se ham pyaar samajh baiThe
+bekaar hii ulfat kaa izahaar samajh baiThe
+vo ha.Ns ke mile \threedots
+
+aisii to na thii qismat apanaa bhii ko_ii hotaa \-2
+apanaa bhii ko_ii hotaa
+kyuu.N Kud ko muhabbat kaa haqadaar samajh baiThe
+vo ha.Ns ke mile \threedots
+
+ro_e.N to bhalaa kaise khole.n to zubaa.N kyuu.N kar \-2
+khole.n to zubaa.N kyuu.N kar
+Darate hai.n ki jaane kyaa sa.nsaar samajh baiThe
+bekaar hii ulfat kaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{lo aa gayii unakii yaad, vo nahii.n aaye}%
+\film{Do Badan}%
+\year{1966}%
+\starring{Asha Parekh, Manoj Kumar}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Sanjeev Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Purnima
+% Editor:
+%
+\printtitle
+#indian
+%
+lo aa gayii unakii yaad, vo nahii.n aaye
+
+dil unako DhU.N.Dhataa hai, Gam kaa si.ngaar kar ke
+aa.Nkhe.n bhii thak gayii hai.n, ab i.ntazaar kar ke \-2
+ik saa.Ns rah gayii hai, vo bhii na TuuT jaaye
+lo aa gayii unakii yaad   \threedots
+
+rotii hai.n aaj ham par, tanahaa_iyaa.N hamaarii.n
+vo bhii na paaye shaayad, parachhaa_iyaa.N hamaarii.n
+ba.Dhate hii jaa rahe hai.n, maayuusiyo.n ke saaye
+lo aa gayii unakii yaad   \threedots
+
+lau tharatharaa rahii hai, ab shamm\-e\-zi.ndagii kii
+uja.Dii huii muhabbat, mehamaa.N hai do gha.Dii kii
+mar kar hii ab mile.nge, jii kar to mil na paaye
+lo aa gayii unakii yaad   \threedots
+
+%
+#endindian
+\endsong
+%

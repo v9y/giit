@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pyaar pyaar pyaar ... jhuuThaa hii sahii mujhe pyaar karo}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar pyaar pyaar ye pyaar
+maine to kahaa sau baar sanam
+tum bhii to kabhii izahaar karo
+jhuuThaa hii sahii mujhe pyaar karo
+mujhe pyaar pyaar pyaar pyaar karo
+
+ik dard saa dil me.n rahataa hai
+ik baar ye haalat hotii hai
+maine to sunaa hai duniyaa me.n
+ik baar muhabbat hotii hai
+maine to tumhe.n apanaa maanaa
+tum bhii to kabhii iqaraar karo
+jhuuThaa hii sahii \threedots
+
+bechain kiyaa tuune mujhako
+din raat mai.n aahe.n bharatii huu.N
+kisii aur kii naa chaahat mujhako
+dilabar mai.n tujhape maratii huu.N
+maine to haamii bhar lii hai
+tum chaaho to inkaar karo
+jhuuThaa hii sahii \threedots
+%
+#endindian
+\endsong
+

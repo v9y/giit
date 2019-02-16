@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{vaadaa rahaa sanam, hon.nge judaa na ham (abhijiit)}%
+\film{Khiladi}%
+\year{}%
+\starring{Ayesha Julka, Akshya Kumar, Prem Chopada}%
+\singer{Abhijit}%
+\music{Jatin-Lalit}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+vaadaa rahaa sanam, ho.nge judaa na ham
+chaahe na chaahe zamaanaa
+hamaarii chaahato.n kaa 
+miT naa sakegaa fasaanaa
+
+(dil de diyaa hai tumhe.n pahalii nazar me.n
+tum kho gaye jo kabhii milake safar me.n ) \-2
+sitaaro.n ke Thikaano.n se
+phuulo.n ke aashiyaano.n se
+mai.n tumhe.n Dhuu.NDh laau.Ngaa
+zamii.n se aasamaano.n se o jaane jaa.n
+hamaarii chaahato.n kaa \threedots
+
+(kitane ha.Nsii hai.n lamhe ye zindagii ke
+saa.Nso.n me.n phuul mahake laakho.n khushii ke ) \-2
+ye dil to akelaa thaa 
+tanhaa_ii kaa melaa thaa
+tum mujhe mil jaaogii 
+ye kabhii nahii.n sochaa thaa o jaane jaa.n
+hamaarii chaahato.n kaa \threedots
+
+## hmmm hmmm ## \threedots
+%
+#endindian
+\endsong
+%

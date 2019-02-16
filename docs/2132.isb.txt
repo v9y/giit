@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{koii dost na raqiib hai}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Rana Sahri}%
+%
+% Contributor: Ramesh Hariharan
+% Transliterator: K Vijay Kumar
+% Credits: Nita
+% Comments: Album - VISION
+%
+\printtitle
+#indian
+%
+
+koii dost hai na raqiib hai
+teraa shahar kitanaa ajiib hai
+
+vo jo ishq thaa vo junuun thaa
+ye jo hijr hai ye nasiib hai
+
+yahaa.N kis kaa cheharaa pa.Dhaa karuu.N
+yahaa.N kaun itanaa kariib hai
+
+mai.n kisase kahuu.N mere saath chal
+yahaa.N sab ke sar pe saliib hai
+
+%
+#endindian
+\endsong
+%

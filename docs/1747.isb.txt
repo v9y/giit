@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tum aaj ha.Nsate ho ha.Ns lo mujh par ##Mukesh gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Murli Manohar Swarup}%
+\lyrics{Mir Dard}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (tanvi@utxvms.cc.utexas.edu)
+%          Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum aaj ha.Nsate ho ha.Ns lo mujh par
+ye aazamaaish naa baar hogii
+mai.n jaanataa huu.N mujhe khabar hai
+ki kal fazaa khushagavaar hogii
+
+rahe muhabbat me.n zindagii bhar
+rahegii ye kashamakash baraabar
+naa tumako qurabat me.n jiit hogii
+naa mujhako furaqat me.n haar hogii
+
+hazaar ulfat sataaye lekin
+mere iraado.n se hai ye mumakin
+agar sharaafat ko tumane chhe.Daa
+to zindagii tum pe vaar hogii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{dil dha.Dak\-dha.Dak dil pha.Dak\-pha.Dak pha.Dake}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiyya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Rafi, Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10614 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil dha.Dak\-dha.Dak dil pha.Dak\-pha.Dak pha.Dake
+pha.Dak\-pha.Dak nain pha.Dak\-pha.Dak nain pha.Dake.n
+
+e dil tuu
+huppii
+jaaduu lagaa_e
+huppii
+
+Kushiyaa.N manaa_e jaa taraa pam \-2
+a.Nkhiyaa.N milaa_e jaa
+dil me.n samaa_e jaa
+apanaa banaa_e jaa
+huppii
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{ye shamaa to jalii roshanii ke li_e}%
+\film{Aya Sawan Jhoom Ke}%
+\year{1969}%
+\starring{Dharmendra, Asha Parekh, Aruna Irani}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11098 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye shamaa to jalii roshanii ke li_e
+is shamaa se kahii.n aag lag jaa_e to
+ye shamaa kyaa kare
+ye havaa to chalii saa.Ns le har ko_ii
+ghar kisii kaa uja.D jaa_e aa.Ndhii me.n to
+ye havaa kyaa kare
+
+chal ke puurab se ThaNDii havaa aa ga_ii
+uTh ke parvat ke kaalii ghaTaa chhaa ga_ii
+ye ghaTaa to uThii pyaas sabakii bujhe
+aashiyaa.N pe kisii ke girii.n bijaliyaa.N to
+ye ghaTaa kyaa kare
+ye shamaa to jalii \threedots
+
+puuchhataa huu.N mai.n sabase ko_ii de javaab
+naaKudaa kii bhalaa kyaa Kataa hai janaab
+naaKudaa le ke saahil ke jaanib chalaa
+Duub jaa_e safiinaa jo ma.Njhadhaar me.n to
+naaKudaa kyaa kare
+ye shamaa to jalii \threedots
+
+vo jo ulajhan sii tere Kyaalo.n me.n hai
+vo ishaaraa bhii mere savaalo.n me.n hai
+ye nigaah to milii dekhane ke li_e
+par kahii.n ye nazar dhokhaa khaa jaa_e to
+ye nigaah kyaa kare
+ye shamaa to jalii \threedots
+%
+#endindian
+\endsong
+

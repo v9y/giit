@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{na jaane kab wo palaT aaye.n dar khulaa rakhanaa}%
+\film{Saadgee (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain}%
+\lyrics{Iftekhar Naseem}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+na jaane kab wo palaT aaye.n dar khulaa rakhanaa
+gaye huwo.n ke liye dil me.n kuchh jagah rakhanaa
+
+hazaar talK ho.n yaade.n magar wo jab bhii mile.n
+zubaa.N pe achchhe dino.n kaa hii zaayakaa rakhanaa
+
+na ho ke kurb hii phir marg\-e\-rabt ban jaaye
+mile agar to zaraa usase faasalaa rakhanaa
+
+utaar phai.nk de Kush\-fahamiyo.n ke saare gilaaf
+jo shaKs bhuul gayaa usako yaad kyaa rakhanaa
+
+#endindian
+\endsong

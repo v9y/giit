@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{duniyaa kaa mazaa le lo duniyaa tumhaarii hai}%
+\film{Bahaar}%
+\year{1951}%
+\starring{Karan Divan, Vyjayantimala}%
+\singer{Shamshad}%
+\music{S D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10017 [V S Rawat]
+% Transliterator: 
+% Comments: First Hindi film of Vyjayantimala. Colored Film released in 1956
+% 
+\printtitle
+#indian
+%
+duniyaa kaa mazaa le lo ( duniyaa tumhaarii hai ) \-2
+duniyaa tumhaarii hai ye ( duniyaa tumhaarii hai ) \-2
+
+duniyaa ko laat maaro duniyaa salaam kare
+mu.D mu.D salaam kare jhuk jhuk salaam kare
+kabhii namaste kare to kabhii raam raam kare
+duniyaa se Daroge to duniyaa dabaa_egii
+rob jamaa_egii ha.Nsii u.Daa_egii
+chain na lene degii jaan jalaa_egii
+taan ke siinaa chalo
+duniyaa kaa mazaa le lo \threedots
+%
+#endindian
+\endsong
+

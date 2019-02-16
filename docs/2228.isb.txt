@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tum ek baar muhabbat kaa imtahaan to lo}%
+\film{Babar}%
+\year{1960}%
+\starring{}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Ashok Dhareshwar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum ek baar muhabbat kaa imtahaan to lo
+mere junuu.N merii vahashat kaa imtahaan to lo
+tum ek baar   \threedots
+
+salaam\-e\-shauq pe ra.njish bharaa payaam na do
+mere Koluus ko firaas\-o\-havas kaa naam na do
+merii vafaa kii haqiikat kaa imtahaan to lo
+tum ek baar   \threedots
+
+na taKt\-o\-taaj na laal\-o\-guhar kii hasarat hai
+tumhaare pyaar tumhaarii nazar kii hasarat hai
+tum apane husn kii azamat kaa imtihaan to lo
+tum ek baar   \threedots
+
+mai.n apanii jaan bhii de duu.N to aitabaar nahii.n
+ke tum se ba.Dhake mujhe zi.ndagii se pyaar nahii.n
+yuu.N hii sahii merii chaahat kaa imtihaan to lo
+tum ek baar   \threedots
+%
+#endindian
+\endsong
+%

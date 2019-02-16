@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bhaarat hamako jaan se pyaaraa hai}%
+\film{Roja}%
+\year{}%
+\starring{Arvind, Madhu}%
+\singer{Hariharan}%
+\music{A R Rahman}%
+\lyrics{P K Mishra}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Pranav Shah (shah@elvis.umd.umich.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+bhaarat hamako jaan se pyaaraa hai
+sabase nyaaraa gulistaa.n hamaaraa hai
+sadiyo.n se bhaarat bhuumi duniyaa kii shaan hai
+bhaarat maa.n kii rakshaa me.n jiivan qurbaan hai
+bhaarat hamako jaan se \threedots
+
+uja.De nahii.n apanaa chaman, TUTe nahii.n apanaa vatan
+duniyaa dhar dharatii korI, barabaad naa karade koii
+mandir yahaa.N, masjid vahaa.N, hinduu yahaa.N muslim vahaa.N
+milate rahe ham pyaar se 
+jaago \threedots
+
+hindustaanii naam hamaaraa hai, sabase pyaaraa desh hamaaraa hai
+janmabhuumi hai hamaarii shaan se kahe.nge ham
+sabhii to bhaaI\-bhaaI pyaar se rahe.nge ham
+hindustaanii naam hamaaraa hai
+
+aasaam se gujaraat tak, ba.ngaal se mahaaraashhTr tak
+jhanakii sahii gun ek hai, bhaashhaa alag sur ek hai
+kashmiir se madraas tak, kah do sabhii ham ek hai.n
+aavaaz do ham ek hai.n
+
+jAgo \threedots
+%
+#endindian
+\endsong
+%

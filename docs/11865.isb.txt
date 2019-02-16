@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{ek pahelii hai tuu haa.N naar navelii hai tuu}%
+\film{Heeraa Pannaa}%
+\year{1973}%
+\starring{Dev Anand, Zeenat, Raakhee}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11540 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ek pahelii hai tuu
+haa.N
+naar navelii hai tuu
+haa.N
+kuchh kahaa
+jitanaa mai.n sulajhaa_uu.N aur ulajhatii jaa_e
+o
+haa.N
+yahaa.N aa_o naa
+ek pahelii hai \threedots
+
+diivaanaa hone lagaa huu.N tar ra ram
+mai.n isape khone lagaa huu.N tar ra ram
+o nainaa tere aise jaise bhuul\-bhulaiyaa
+ba.Dii alabelii hai tuu
+naar navelii hai \threedots
+
+o ho
+kab tak piichhaa karoge
+yah premii aa.Nkho.n ko miiche tar ra ram
+chalataa jaa_e tere piichhe la la la laa
+ai khi.nchaa chalaa jaa_e kachche dhaage se sai.nyaa
+khel vo khelii hai tuu
+naar navelii hai \threedots
+
+jaaduu ko_ii hai ki dhokhaa tar ra ram
+qadamo.n ko na jaa_e rokaa
+jaane kahaa.N le ke chalii thaam ke bai.nyaa aate jaa_i_e
+aaj akelii hai tuu
+naar navelii hai \threedots
+%
+#endindian
+\endsong
+

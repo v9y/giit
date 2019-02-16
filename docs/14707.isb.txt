@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{Da.nDaa phe.nk thaanedaaraa la_ile mujhe tuu baaho.n me.n}%
+\film{Zakhmi Zameen}%
+\year{1990}%
+\starring{Jayaprada, Aditya Pancholi, Ranjeet, Mona, Vicky, Irshat, Firoz Irani}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye ye ye
+Da.nDaa phe.nk thaanedaaraa la_ile mujhe tuu baaho.n me.n
+mai.n jaane na duu.ngii tujhe rokuu.ngii raaho.n me.n
+Da.nDaa phe.nk thaanedaaraa \threedots
+
+aa.Nkhe.n bedardii mujhako na dikhaa
+jaa ja tuu aise mujhako naa Daraa
+dil hai ko_ii thaanaa nahii.n
+aajaa zaraa dekh merii nigaaho.n me.n
+Da.nDaa phe.nk thaanedaaraa \threedots
+
+jaa jaa bevafaa tere binaa jii luu.ngii mai 
+ho ho jaa jaa beraham aa.Nsuu tere pii luu.ngii mai.n
+bach ke kahaa.n jaa_egaa tuu vaapas nahii.n aa_egaa tuu
+dam hai merii baaho.n me.n
+Da.nDaa phe.nk thaanedaaraa \threedots
+%
+#endindian
+\endsong
+

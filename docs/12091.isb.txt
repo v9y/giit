@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{pahalii pahalii baar jab pyaar kisii se hotaa hai}%
+\film{Jab Pyaar Kisi Se Hotaa Hai}%
+\year{1998}%
+\starring{Salman, Twinkle, Namrata Shirodkar, Johny Lever, Farida, Saeed}%
+\singer{Lata, Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii pahalii baar jab pyaar kisii se hotaa hai
+hotaa hai ye haal jab pyaar kisii se hotaa hai
+ye dil kahii.n lagataa nahii.n terii tarah merii tarah paagal sabhii ho jaate hai.n
+pahalii pahalii baar jab \threedots
+
+dil ko karaar nahii.n aataa raato.n ko nii.nd aatii nahii.n
+jaan chalii jaatii hai lekin aake terii yaad jaatii nahii.n
+taubaa mere yaar jab pyaar kisii se hotaa hai
+hotaa hai ye haal jab \threedots
+
+pyaar me.n karuu.n mai.n bevafaa_ii aisaa nahii.n mai.n harajaa_ii
+laakho.n hasiino.n ko dekhaa tuu hii pasand mujhe aa_ii
+hotaa hai kamaal jab pyaar kisii se hotaa hai
+hotaa hai ye haal jab \threedots
+%
+#endindian
+\endsong
+

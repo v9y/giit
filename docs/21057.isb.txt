@@ -1,0 +1,37 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jab tere pyaar kaa afasaanaa likhaa hai mai.nne}%
+\film{(Non-film)}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Maqbool-Iqbal Hussain}%
+\lyrics{Aish Kanwal}%
+% 
+% Audio on: 
+% Tags: Ghazal
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 25 Aug 2006
+% Series: Andaaz-e-Bayaan Aur
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+jab tere pyaar kaa afasaanaa likhaa hai mai.nne
+har jagah apane ko diiwaanaa likhaa hai mai.nne
+
+beKudii ne mujhe phir hosh me.n aane na diyaa
+terii aa.Nkho.n ko hii maiKaanaa likhaa hai mai.nne
+
+kaun huu.N kyaa huu.N mujhe apanii Kabar kuchh bhii nahii.n
+aaj Kud apane ko begaanaa likhaa hai mai.nne
+
+jabase dekhaa hai tere ghar me.n bahaaro.n kaa hujuum
+apane is ghar ko hii viiraanaa likhaa hai mai.nne
+%
+#endindian
+\endsong

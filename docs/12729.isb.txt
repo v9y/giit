@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N}%
+\film{Lekh}%
+\year{1949}%
+\starring{Suraiya, Sitara, Motilal, Ishu Jagirdar, Cukoo, Anand Pal}%
+\singer{Suraiya, Mukesh}%
+\music{Krishna Dayal}%
+\lyrics{Raghupat Rai}%
+%
+% Contributor: BOL ANAMOL #12617 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+su \:		badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N
+	hil\-mil baiThe.n dono.n yahii.n man bhaaye re
+	aa_ii bahaar balamaa man naahii.n maane
+	tujh bin sa_iyaa.N mohe suunaa jag laage
+	badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N
+	hil\-mil baiThe.n dono.n yahii.n man bhaaye re
+
+mu \:	hil\-mil baiThe.n dono.n ko_ii na paas ho
+	( hil\-mil baiThe.n dono.n ko_ii na paas ho
+	din kare raam aisaa aa_ii bahaar ho ) \-2
+su \:	it\-ut Dhuu.NDhuu.N baalam badaraa kii chha.Nv re
+	jiyaa nahii.n laage moraa tum kis Thaa.Nv re
+
+	badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N
+	hil\-mil baiThe.n dono.n yahii.n man bhaaye re
+mu \:	man me.n uma.ng more aa.Nkho.n me.n pyaar jii
+	( man me.n uma.ng more aa.Nkho.n me.n pyaar jii
+	ho.nTho.n se nikale naam teraa har baar jii ) \-2
+su \:	badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N
+	hil\-mil baiThe.n dono.n yahii.n man bhaaye re
+
+do \:	pyaar ke sapane sadaa suhaane
+	pyaar kare wo na apane\-begaane
+	merii aa.Nkho.n me.n suurat tumhaarii
+	raam kare na jaaye bisaarii
+
+	( badaraa kii chhaa.Nv tare nanhii.n\-nanhii.n buundiyaa.N
+	hil\-mil baiThe.n dono.n yahii.n man bhaaye re ) \-2
+%
+#endindian
+\endsong
+%
+

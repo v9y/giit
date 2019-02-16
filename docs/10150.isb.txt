@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{Dhuu.nDh rahe hai.n mere li_e la.Dakaa ... ye sun ke vo nii.nd se jaag gayaa}%
+\film{Aazmaaish}%
+\year{1995}%
+\starring{Dharmendra, Anjali Jathar, Mohnish, Prem Chopra, Rohit Kumar}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Dhuu.nDh rahe hai.n mere li_e la.Dakaa mere ghar vaale
+are kitane la.Dake dekhe lambe gore Thigane kaale
+
+ek la.Dake ne puuchhaa kyaa kuchh naachanaa gaanaa aataa hai
+maine kahaa aataa hai kyaa tujhe tabalaa bajaanaa aataa hai
+bha_ii vaah kyaa kahane kyaa javaab maaraa hai
+ye sun ke vo nii.nd se jaag gayaa maidaan chho.D ke bhaag gayaa
+kuchh mat puuchho taubaa hai bas in la.Dako.n kii maa.ngo.n se
+u.Date hai.n ye pa.nkh lagaa kar chalate nahii.n ye Taa.ngo.n se
+
+ek la.Dake ne kahaa mujhe ye meraa ghar baar sambhaalegii
+maine kahaa na mere bachche terii ammaa paalegii
+ye sun ke vo nii.nd se \threedots
+
+phir ik la.Dakaa aayaa jisakaa qad mujhase bhii chhoTaa thaa
+daravaaze ke biich pha.ns gayaa taubaa kitanaa moTaa thaa
+us moTe ne puuchhaa tujhe gho.De kii savaarii aatii hai
+maine kahaa aatii hai par tuu gho.Daa hai ki haathii hai
+ye sun ke vo nii.nd se \threedots
+
+ra.ngamahal me.n sotii thii mai.n yauvan kii ra.ngaraliyo.n me.n
+duur se ik din ik paradesii aayaa merii galiyo.n me.n
+us zulmii ne itanaa kahakar merii zid ko to.D diyaa
+naa kar haa.N kar terii marzii tere li_e jag chho.D diyaa
+ye sun kar mai.n nii.nd se jaag ga_ii mai.n saath piyaa ke bhaag ga_ii
+%
+#endindian
+\endsong
+

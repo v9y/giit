@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{terii maut kha.Dii ho sarahaane jidhar}%
+\film{Devdaas}%
+\year{1935}%
+\starring{Saigal, Jamuna, Rajkumari, A H Shor, Raju, Nimo, K C Dey}%
+\singer{K C Dey}%
+\music{Timir Baran}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+maut
+( terii maut kha.Dii ho sarahaane jidhar
+terii baalii se ho jaaye wo jalawaagar ) \-2
+terii maut
+
+terii jaan me.n aa jaaye jaan agar \-2
+tujhe pyaar se dekh le ek nazar \-2
+
+terii maut kha.Dii ho sarahaane jidhar
+terii baalii se ho jaaye wo jalawaagar
+terii maut
+
+tujhe jaaye.n musiibate.n bhuul sabhii \-2
+unakaa ahasaan bhuul sako na kabhii
+tujhe jaaye.n musiibate.n bhuul sabhii
+unakaa ahasaan bhuul sako na kabhii
+nikale roz aramaan dil ke sabhii
+aaj nikale roz aramaan dil ke sabhii
+wo jo pyaar se dekh le ek nazar
+terii maut
+terii maut kha.Dii ho sarahaane jidhar
+terii baalii se ho jaaye wo jalawaagar
+terii maut
+
+#endindian
+\endsong

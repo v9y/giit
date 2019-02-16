@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{mere dil se dillagii naa kar}%
+\film{Woh Saat Din}%
+\year{1983}%
+\starring{Anil Kapoor, Padmini Kolhapuri, Nasiruddin Shah}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11320 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mere dil se dillagii naa kar \-2
+dil dha.Dak gayaa to kyaa hogaa \-2
+halkaa saa biich me.n paradaa hai \-2
+ye sarak gayaa to kyaa hogaa \-2
+mere dil se dillagii \threedots
+
+man paapii hai tan ghaayal hai \-2
+chham\-chham ke naa chal pag paayal hai \-2
+terii paayal kaa ko_ii ghu.Ngharuu \-2
+jo chhanak gayaa to kyaa hogaa \-2
+mere dil se dillagii \threedots
+
+mat chhe.Do tum ham diivaano.n ko \-2
+ham chhe.D na de.n aramaano.n ko \-2
+dil shiishaa hai dil gu.nchaa hai \-2
+ye chaTak gayaa to kyaa hogaa
+mere dil se dillagii \threedots
+
+aasaan na kar mushqil merii \-2
+hai duur abhii ma.nzil merii \-2
+apane raste se ye raahii
+jo bhaTak gayaa to kyaa hogaa
+mere dil se dillagii \threedots
+%
+#endindian
+\endsong
+

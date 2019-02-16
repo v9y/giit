@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{jaane vo kaun hai kyaa naam hai un aa.Nkho.n kaa}%
+\film{Bheegi Raat}%
+\year{1965}%
+\starring{Pradeep Kumar, Meena Kumari, Ashok Kumar}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10488 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jaane vo kaun hai kyaa naam hai un aa.Nkho.n kaa
+
+dil pe anjaanii sii ik tasviir banaa detii hai.n
+bujh ke rah jaatii hai jab ko_ii tamannaa dil me.n
+ek chiraaG aur bhii chupake se jalaa detii hai.n
+jaane vo kaun hai \threedots
+
+mujhako bahalaatii hai.n naashaad jo hotaa huu.N kabhii
+nii.nd me.n ra.ng milaatii hai.n jo sotaa huu.N kabhii
+( jaagataa huu.N to ) \-2 ka_ii Kvaab dikhaa detii hai.n
+jaane vo kaun hai \threedots
+
+jab bhii uThatii hai.n chhalakatii hai.n gulaabo.n kii tarah
+der tak mai.n bahakataa huu.N sharaabii kii tarah
+kyaa kahuu.N chupake se kyaa chiiz pilaa detii hai.n
+jaane vo kaun hai \threedots
+
+roz milatii hai.n vo tanahaa nahii.n rahane detii.n
+ye hai baat aur ki apanaa nahii.n kahane detii.n
+( aur kah duu.N to ) \-2 palak ha.Ns ke jhukaa detii hai.n
+jaane vo kaun hai \threedots
+%
+#endindian
+\endsong
+

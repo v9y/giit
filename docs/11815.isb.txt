@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{sonaa kitanaa sonaa hai sone jaisaa ... tuu meraa ##hero number one##}%
+\film{Hero No.1}%
+\year{1997}%
+\starring{Govinda, Karisma, Kader, Paresh, Tiku, Satish Shah, Rakesh Bedi}%
+\singer{Udit Narayan, Poornima}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sonaa kitanaa sonaa hai sone jaisaa teraa man
+sun zaraa sun kyaa kahatii hai diivaane dil kii dha.Dakan
+tuu meraa tuu meraa tuu meraa tuu meraa tuu meraa ##hero number one##
+
+hiiro tuu meraa hiiro hai vilen jaisaa kaam na kar
+sapano.n kii is raanii ko aise to badanaam na kar
+diivaane yaar kahataa hai pyaar achchhaa nahii.n diivaanaapan
+tuu meraa tuu meraa \threedots
+
+andar kitanii garmii hai baahar kitanii sardii hai
+tuune bedardii merii haalat kaisii kar dii hai
+dil me.n basaa le apanaa banaa le yuu.n na ba.Dhaa merii ulajhan
+tuu meraa tuu meraa \threedots
+%
+#endindian
+\endsong
+

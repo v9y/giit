@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{dil hii bujhaa huaa ho to fasl\-e\-bahaar kyaa}%
+\film{Nirdosh}%
+\year{1950}%
+\starring{Mukesh, Nalini Jaywant}%
+\singer{Mukesh}%
+\music{Ashok Ghosh}%
+\lyrics{Neelkanth Tiwari}%
+% 
+% Contributor: Preeti Ranjan Panda <ppanda@ics.uci.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 10/22/1995
+% Credits: Snehal B. Oza <snehal@wipro.wipsys.soft.net>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments:  
+%
+\printtitle
+#indian
+%
+dil hii bujhaa huaa ho to fasl\-e\-bahaar kyaa
+saaqii nachaa, sharaab ha.Nsaa, ab ??? kyaa
+
+duniyaa chale chalaa hai jab hasarato.n kaa bojh
+saathii nahii.n hai, sar pe gunaaho.n kaa bojh kyaa
+dil hii bujhaa huaa \threedots
+
+baad\-e\-panaa quzuun ? hai naam\-o\-nishaa.n kisiike
+jab ham nahii.n rahe to rahegaa mazaar kyaa
+dil hii bujhaa huaa \threedots
+%
+#endindian
+\endsong
+%
+

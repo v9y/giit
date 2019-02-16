@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa jaa sanam madhur chaa.Ndanii me.n ham}%
+\film{Chori Chori}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis, Pran, Johnny Walker, Bhagwan, Gope, Tuntun, Raj Sulochana}%
+\singer{Manna De, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Sanjeev Ramabhadran (sanjeevr@phoenix.princeton.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: Neha Desai
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ma: aa jaa sanam madhur chaa.Ndanii me.n ham
+tum mile.n to viiraane me.n bhii aa jaaegii bahaar
+jhUmane lagegaa aasamaa.n \- 2
+
+la: kahataa hai dil aur machalataa hai dil
+more saajan le chal mujhe taaro.n ke paar
+lagataa nahI.n hai dil yahaa.N \- 2
+
+ma: bhiigii\-bhiigii raat me.n, dil kA daaman thaam le
+khoI\-khoI zindagii haradam teraa naam le
+(la: chaa.Nd kii bahakii nazar, kah rahii hai pyaar kar
+zindagii hai ik safar, kaun jaane kal kidhar ) \- 2
+dono: aa jaa sanam madhur \threedots
+
+ma: dil ye chaahe aaj to, baadal ban u.D jaaU.N mai.n
+dulhan jaisaa aasamaa.n, dharatii par le aaU.N mai.n
+(la: chaa.Nd kaa Dolaa saje, dhUm taaro.n me.n mache
+jhUm ke duniyaa kahe, pyaar me.n do dil mile ) \- 2
+dono: aa jaa sanam madhur \threedots
+%
+#endindian
+\endsong
+%

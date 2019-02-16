@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{teraa hijr meraa nasiib hai, teraa Gam hii merii hayaat hai}%
+\film{Razia Sultan}%
+\year{}%
+\starring{Hema Malini, Dharmendra, Parveen Babi, Pradeep Kumar, Ajit}%
+\singer{Kabban Mirza}%
+\music{Khaiyyam}%
+\lyrics{Nida Fazli}%
+% 
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+teraa hijr meraa nasiib hai
+teraa Gam hii merii hayaat hai
+mujhe terii duurii kaa Gam ho kyo.n
+tuu kahii.n bhii ho mere saath hai
+
+mere vaaste tere naam par
+koii harf aae nahii.n nahii.n
+mujhe Kauf duniyaa nahii.n
+magar mere ruu\-ba\-ruu terii zaat hai
+
+teraa vasl ai merii dilarubaa
+nahii.n merii kismat to kyaa huaa
+merii mahajuubii yahii kam hai kyaa
+terii hasarato.n kaa to saath hai
+
+teraa ishq mujh pe hai maharbaa.n
+mere dil ko haasil hai do jahaa.N
+merii jaan\-e\-jaa.n isii baat par
+merii jaan jaae to baat hai
+%
+#endindian
+\endsong
+%
+

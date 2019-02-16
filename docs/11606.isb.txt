@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{hamase to achchhii terii paayal gorii}%
+\film{Ganwaar}%
+\year{1970}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Rafi, Asha}%
+\music{Naushad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10630 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	hamase to achchhii terii paayal gorii
+	ki baar\-baar teraa badan chuume \-2
+aa \:	khoTaa hai man teraa paapii sajan
+	najariyaa se moraa badan chuume
+ra \:	hamase to achchhii \threedots
+
+aa \:	 soch ke mujhako haath lagaanaa \-2
+	sholaa huu.N mai.n jal nahii.n jaanaa
+ra \:	kaise kahuu.N jabase hu_aa teraa\-meraa saamanaa
+	dil ne kahaa binaa pi_e mai.n to giraa thaamanaa
+aa \:	mai.n vo ku.Nvaarii kalii huu.N balam
+	ki Dar\-Dar ke jisako pavan chuume \-2
+ra \:	hamase to achchhii \threedots
+
+ra \:	naach rii itanaa thak jaa_e paayal \-2
+	hamaraa karejavaa ho jaa_e ghaayal
+aa \:	merii Dagar rakhiyo chhailaa kadam dekh\-bhaal ke
+	le na jaa_e merii najar dil teraa nikaal ke
+ra \:	haay gaalo.n kii laalii khil\-khil uThe
+	jo ek baar mukha.Daa sajan chuume \-2
+aa \:	khoTaa hai man \threedots
+%
+#endindian
+\endsong
+

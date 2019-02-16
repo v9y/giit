@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tujhasaa hasii.n dekhaa naa kahii.n}%
+\film{Harjaee}%
+\year{1981}%
+\starring{Randhir Kapoor, Tina Munim, Shammi Kapoor, Mala Sinha, Iftekhar}%
+\singer{Kishore, Chorus}%
+\music{R D Burman}%
+\lyrics{Vitthalbhai Patel}%
+%
+% Audio On: HMV [CDF 120432]
+% Contributor: BOL ANAMOL #10772 [V S Rawat]
+% Transliterator: 
+% Editor: George Thomas
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( tujhasaa hasii.n dekhaa naa kahii.n
+tuu hogii meharabaa.N kabhii naa kabhii ) \-2
+
+(pahale milan me.n hotii hai kashamakash
+pyaar se pahale hotii hai kashamakash
+tere jo dil me.n hai merii nazar me.n hai
+chaahat me.n hotii hai
+ko \:	 kashamakash \-4) \-2
+
+tujhasaa hasii.n \threedots
+
+( qudarat kaa tuu ek karishmaa hai gulabadan
+pichhale janam kaa ko_ii rishtaa hai gulabadan
+mahakaa hu_aa shabaab jaise ko_ii gulaab
+teraa nahii.n javaab
+ko \:	gulabadan \-4  ) \-2
+
+tujhasaa hasii.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{terii galiyo.n me.n na rakhe.nge kadam, aaj ke baad}%
+\film{Hawas}%
+\year{}%
+\starring{Navin Nischal, Neetu Singh}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+terii galiyo.n me.n naa rakhe.nge kadam, aaj ke baad
+tere milane ko na aae.nge sanam, aaj ke baad
+terii galiyo.n me.n naa \threedots
+
+tuu meraa milanaa \threedots
+tuu meraa milanaa samajh lenaa ek sapanaa thaa
+tujhako aakhir mil hii gayaa jo teraa apanaa thaa
+ham ko duniyaa me.n samajhanaa naa sanam, aaj ke baad
+tere milane ko naa aae.nge sanam,  aaj ke baad
+
+gir ke aae.ngii  \threedots
+gir ke aae.ngii ghaTaae.n phir se saavan kii
+tum to baaho.n me.n rahogii apane saajan kii
+gale ham Gam ko lagaae.nge sanam,  aaj ke baad
+tere milane ko naa aae.nge sanam,  aaj ke baad
+%
+#endindian
+\endsong
+%

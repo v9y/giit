@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{meraa dil ghabaraa_e merii aa.Nkh sharamaa_e}%
+\film{Mr. Qaartoon, M.A.}%
+\year{1958}%
+\starring{Johny Walker, Shyama, Raj Mehra, Mehmood, Kumkum, Meenu Mumtaz}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10531 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa :	meraa dil ghabaraa_e merii aa.Nkh sharamaa_e
+	kachhu samajh na aa_e re tuu meraa kyaa laage
+
+ra :	teraa pyaar ta.Dapaa_e meraa dam ghabaraa_e
+	kachhu samajh na aa_e re ki tuu merii kyaa laage
+aa :	meraa dil ghabaraa_e \threedots
+
+ra \:	dil me.n teraa tiir hai tuu merii taqadiir hai
+	aa.Nkho.n me.n o jaan\-e\-man terii hii tasviir hai
+aa \:	are tuune hai tuune kar Daalaa kyaa jaaduu
+	phuul dil kaa haay re binaa tere kumhalaa_e
+	kachhu samajh na aa_e \threedots
+
+	mai.n to terii ho chukii pahalii hii mulaaqaat me.n
+ra \:	gore\-gore haath ye de do mere haath me.n
+	ajii dil meraa hai teraa diivaanaa
+aa \:	hame.n nindiyaa na aa_e lagii dil kii jagaa_e
+	kachhu samajh na aa_e \threedots
+
+ra \:	sun lo jii tum pyaar ke vaado.n ko na to.Danaa
+	duniyaa chaahe chho.D de hamako tum naa chho.Danaa
+aa \:	ho ho sai.nyaa haay sai.nyaa Daalo jii gale bahiyaa.N \-2
+ra \:	tumhe.n dil jab paa_e ba.Dii Kushiyaa.N manaa_e
+	kachhu samajh na aa_e \threedots
+%
+#endindian
+\endsong
+

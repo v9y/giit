@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{khaamoshii thii mach gayaa shor ... aayaa aayaa mere dil kaa chor}%
+\film{Platform}%
+\year{1993}%
+\starring{Ajay Devgan, Prithvi, Priya Nandini Singh, Kiran Kumar, Paresh}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khaamoshii thii mach gayaa shor
+aayaa aayaa mere dil kaa chor
+vo tum nahii.n vo tum nahii.n vo to hai ko_ii aur
+khaamoshii thii mach gayaa \threedots
+
+mai.n bhalaa kyaa karuu.n vo sune na merii daastaa.n
+beraham bekhabar hai use kyaa khabar
+usape to meraa na chale jaan\-e\-man ko_ii zor
+khaamoshii thii mach gayaa \threedots
+
+mai.n yahaa.n to kahaa.n Dhuu.nDhatii hai usii ko nazar
+chho.De naa berukhii meraa jaan\-e\-jaa.n meraa dard\-e\-jigar
+husn kii ye adaa dekh na dilarubaa
+na ju.De dil ke aramaano.n se chaahat kii Dor
+khaamoshii thii mach gayaa \threedots
+%
+#endindian
+\endsong
+

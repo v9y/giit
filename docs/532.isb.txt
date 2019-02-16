@@ -1,0 +1,76 @@
+%
+\startsong
+\stitle{dil-e-naadaa.n, tujhe huaa kyaa hai}%
+\film{Mirza Ghalib}%
+\year{}%
+\starring{Bharat Bhushan, Suraiyya}%
+\singer{Talat, Suraiyya}%
+\music{Ghulam Mohammad}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rohini Sharma (rosharma@unccsun.uncc.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil\-e\-naadaa.n tujhe huaa kyaa hai
+aakhir is dard kii davaa kyaa hai
+
+ham hai.n mushtaaq aur vo bezaar
+yaa ilaahii, ye maajaraa kyaa hai
+
+mai.n bhii muh me.n zubaan rakhataa huu.N
+kaash puuchho kii mudda kyaa hai
+
+jabaki tujh bin nahii.n koI maujuud
+phir ye ha.ngaamaa ai khudaa kyaa hai
+
+ye parii\-cheharaa log kaise hai.n
+Gamazaa\-o\-ush{}vaa\-o\-adaa kyaa hai
+
+shikane\-zulafe\-amabarii kyaa hai
+nigaahe\-chashme\-surama saa kyaa hai
+
+sabz\-o\-gul kahaa.N se aaye hai.n
+abr kyaa chiiz hai, havaa kyaa hai
+
+hamako unase vafaa ki hai ummiid
+jo nahii.n jaanate vafaa kyaa hai
+
+haa.N bhalaa kar, teraa bhalaa hogaa
+aur daravesh kii sadaa kyaa hai
+
+jaan tum par nisaar karataa huu.N
+mai.n nahii.n jaanataa duaa kyaa hai
+
+maine maanaa ki kuchh nahii.n ##``##Gaalib##''##
+muft haath aaye, to buraa kyaa hai
+%
+%Glossary:
+%dil-e-naadaan:  naive heart
+%mushtaaq: enthusiastic
+%bezaar:  unsatisfied, angry
+%maajra: issue
+%hangaama: noise created by a lot of activity/talk
+%pari-chehra: beautiful (face of a fairy)
+%gamz-o-aish-o-adaa:  vanity(?)
+%shikne-zulfe-ambari:  locks of hair like the sky(?)
+%nigaahe-chashme-surma: the look of surma filled eyes
+%sabz-o-gul: greenery and flowers
+%abr: cloud
+%darvesh: beggar
+% --- Rohini
+% ghamza = amorous glance
+% 'ushwa = coquetry, work done surreptitiously
+% ghamza-o-'ushwa-o-adaa: grace of the coquettish glances or
+%                         grace of the concealed glances
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{iinaa miinaa Diikaa, Daai Daamonikaa}%
+\film{Asha}%
+\year{}%
+\starring{Kishore, Vyjayantimala}%
+\singer{Kishore / Asha}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+iinaa miinaa Diikaa, Daai, Daamonikaa
+maakaa naakaa naakaa, chIkaa pIkaa rIkaa
+Inaa mInaa DIkaa DIkaa De Daai Daamonikaa 
+maakaanaakaa maakaanaakaa chIkaa pIkaa rolaa rIkaa
+rampamposh rampamposh
+
+dil de duu.N, hai koI lene vaalaa,
+aise vaise ko nahii.n dene vaalaa
+sUratiyaa.N hasii.n ho, umariyaa.N javaa.N ho
+koI bhii use dekhe to bas ye gumaa.N ho
+yahI hai yahI hai yahii to hai vo
+iinaa miinaa Diikaa\threedots
+
+ye sharte.n to ba.Dii hai zaruurii
+jo koii karegaa inhe.n puurii
+mai.n khushii khushii use ye dil de duu.ngaa
+qasam khaa rahaa huu.N, ki daam bhii na luu.ngaa
+magar ye kahuu.NgA, magar ye kahuu.NgA
+( kyaa ? )
+yahii hai yahii hai yahii to hai vo
+iinaa miinaa Diikaa\threedots
+
+mat socho ki sastaa hai saudaa 
+phal paaye lagaaegaa jo paudhaa
+dil ki ye yaarii banegii phulavaarii
+ye duniyaa jalegii, jalan kI hai maarii
+ha.Nsegii ha.Nsegii ha.Nsegii merii pyaarii
+iinaa miinaa Diikaa\threedots
+%
+#endindian
+\endsong
+%

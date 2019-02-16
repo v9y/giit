@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{aanaa pa.Degaa mujh ko duniyaa me.n dobaaraa}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Virendra Rawat
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+mil na sakaa dil ko agar pyaar tumhaaraa
+aanaa pa.Degaa mujh ko duniyaa me.n dobaaraa
+
+gaal pe gulaab ke shabanam hai zi.ndagii
+pyaar ke liye to bahut kam hai zi.ndagii
+u.Datii hu_ii is umr ko ek teraa sahaaraa
+aanaa pa.Degaa mujh ko \threedots
+
+apanii ye chhoTii sii mulaaqaat bahut hai
+jitanii der teraa mile saath bahut hai
+bas ek jhalak, ek nazar, ek ishaaraa
+aanaa pa.Degaa mujh ko \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aataa hai zi.ndagii me.n bhalaa pyaar kis tarah}%
+\film{Balam}%
+\year{1949}%
+\starring{Suraiya, Vasti, Nigaar, Masud, Jayant, Agha}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12596 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	( aataa hai zi.ndagii me.n bhalaa pyaar kis tarah
+	bhalaa pyaar kis tarah ) \-2
+ra \:	( aa.Nkhe.n uThaa_o phir mai.n bataa_uu.Ngaa is tarah
+	bataa_uu.Ngaa is tarah ) \-2
+
+su \:	anjaan se milaap hogaa to kis tarah \-2	
+	hogaa to kis tarah
+ra \:	( do lahare.n aa ke duur se mil jaaye.n jis tarah
+	ho mil jaaye.n jis tarah ) \-2
+
+su \:	aataa hai zi.ndagii me.n bhalaa pyaar kis tarah
+	bhalaa pyaar kis tarah
+
+su \:	ulfat me.n Gam jo aaye sahuu.Ngii mai.n kis tarah \-2
+	sahuu.Ngii mai.n kis tarah
+ra \:	( tuufaa.N me.n naav chalatii hai bach\-bach ke jis tarah
+	ho bach\-bach ke jis tarah ) \-2
+
+su \:	aataa hai zi.ndagii me.n bhalaa pyaar kis tarah
+	bhalaa pyaar kis tarah
+
+su \:	mujhako bhalaa kisii pe yaqii.n aaye kis tarah \-2
+	yaqii.n aaye kis tarah
+ra \:	( be\-jaane\-buujhe mujhako bharosaa hai jis tarah
+	bharosaa hai jis tarah ) \-2
+
+su \:	aataa hai zi.ndagii me.n bhalaa pyaar kis tarah
+	bhalaa pyaar kis tarah
+ra \:	aa.Nkhe.n uThaa_o phir mai.n bataa_uu.Ngaa is tarah
+	bataa_uu.Ngaa is tarah
+%
+#endindian
+\endsong
+%
+
+

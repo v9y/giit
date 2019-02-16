@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{dil kyaa kare jab kisii se kisii ko pyaar ho jaae}%
+\film{Julie}%
+\year{1975}%
+\starring{Lakshmi, Vikram}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Shanthi Pandit <SHANTHIPAN@aol.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+dil kyaa kare jab kisii se kisii ko pyaar ho jaae
+jaane kahaa.N kab kisii ko kisii se pyaar ho jaae
+uu.Nchii\-uu.Nchii diivaaro.n sii is duniyaa kii rasme.n
+na kuchh tere bas me.n julie, na kuchh mere bas me.n
+
+(jaise parvat pe ghaTaa jhukatii hai
+ jaise saagar se lahar uThatii hai
+ aise kisii chahare pe nigaah rukatii hai)	\- 2
+ho, rok nahii.n sakatii nazaro.n ko, duniyaa bhar kii rasme.n
+na kuchh tere bas me.n julie, na kuchh mere bas me.n
+dil kyaa kare \threedots
+
+aa mai.n terii yaad me.n sab ko bhulaa duu.N
+duniyaa ko terii tasaviir banaa duu.N
+meraa bas chale to dil chiir ke dikhaa duu.N
+ho, dau.D rahaa hai saath lahuu ke pyaar tere nas\-nas me.n
+na kuchh tere bas me.n julie, na kuchh mere bas me.n
+dil kyaa kare \threedots
+%
+#endindian
+\endsong
+%
+

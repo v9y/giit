@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ai dil tujhe qasam hai}%
+\film{Dulari}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: (courtesy Ajatshatru)
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+ai dil tujhe qasam hai, tuu, himmat na haaranaa
+din zi.ndagii ke jaise bhii guzare guzaaranaa
+ai dil tujhe qasam hai   \threedots
+
+ulfat ke raaste me.n mile.nge hazaar Gam
+ban jaaye jaan par bhii to Gam se na haaranaa
+ai dil tujhe qasam hai   \threedots
+
+rone se kam na ho.nge kabhii terii mushakile.n
+biga.De hue nasiib ko ha.Ns kar sa.Nvaaranaa
+ai dil tujhe qasam hai   \threedots
+
+duniyaa sitam kare to na karanaa gilaa koii
+jo tere ho chuke hai.n tuu unako pukaaranaa
+ai dil tujhe qasam hai   \threedots
+
+%
+#endindian
+\endsong
+%

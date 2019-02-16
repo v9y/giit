@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{paisaa paisaa ... nii aisaa vaisaa kaisaa}%
+\film{Nach Di Sham Kaure (Non-Film)}%
+\year{2002}%
+\starring{}%
+\singer{Daler Mehandi, Chorus}%
+\music{Daler Mehandi, Babalu}%
+\lyrics{Daler Mehandi, Sanjiv Anand}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+nii aisaa vaisaa kaisaa 
+ho aisaa vaisaa kaisaa
+ik gal sach das de tainuu.n pyaar chaahidaa ke paisaa
+haa_y uu uu ai uu uu uu uu
+
+gaanii gaanii gaanii nii gaanii gaanii gaanii
+paisevaale lakkhaa.n phirade na_iyo.n labade dilaa.n de jaanii
+ho_y uu uu ai uu uu uu uu
+
+aarii aarii aarii nii aarii aarii aarii
+paisevaale chhaDD jaaNage saaDDii saarii umar dii yaarii 
+haa_y uu uu ai uu uu uu uu
+
+gehaNaa gehaNaa gehaNaa nii gehaNaa gehaNaa gehaNaa
+bahotyaa.n majaakaa.n vaaliye ji.nd bechake khariid tainuu.n lehaNaa
+haa_y uu uu ai uu uu uu uu
+
+meha.ndii meha.ndii meha.ndii o meha.ndii meha.ndii meha.ndii
+tere binaa haa_y soNiye saaDDii jaan nikaladii reha.ndii
+ho_y uu uu ai uu uu uu uu
+ 
+nii aisaa vaisaa kaisaa \threedots
+%
+#endindian
+\endsong

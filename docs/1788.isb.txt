@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tum se achchhaa kaun hai, dil lo jigar lo jaan lo}%
+\film{Jaanwar}%
+\year{1965}%
+\starring{Shammi, Rajshree}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Kannan Muthukaruppan (mkannan@plane.cs.berkeley.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+(ho, tum se achchhaa kaun hai,
+dil lo jigar lo jaan lo,
+ham tumhAre hai.n sanama,
+tum hame pahachaana lo ) \- 2
+	
+(mai.n huu.N vo jho.nkaa, masta havaakaa
+sa.nga tumhaare, chalataa rahuu.Ngaa
+jaba se huii hai, tum se mohabbata
+milataa rahaa huu.N, milataa rahuu.Ngaa ) \- 2
+hU\threedots, tum se achchhaa kauna hai \threedots
+	
+(siine me.n dila hai, dila me.n tumhii ho
+tuma me.n hamaarii, chhoTii sii jaana hai.n
+tuma ho salaamata, ham ko nahii.n Gama
+tum se hamaarii, duniyaa javaana hai.n ) \- 2
+hU\threedots, tum se achchhaa kauna hai \threedots
+	
+mara ke bhii dekhaa, mar naa sake ham
+dilakii lagii ne, hamako bachaayaa
+terii nazara kaa, jaaduu hai shaayada
+jisane hame phira, zi.ndaa banaayaa
+hU\threedots, tum se achchhaa kauna hai \threedots
+	
+ho, tum se achchhaa kaun hai
+dila lo jigara lo jaana lo
+ham tumhaare hai.n sanama
+tuma hame pahachaana lo
+%
+#endindian
+\endsong
+%

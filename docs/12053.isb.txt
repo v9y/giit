@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{aajaa aajaa mere sapano.n ke raajakumaar}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Alka Yagnik, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sar se sar sar chunarii sarake
+dhak dhak dhak dhak dil meraa dha.Dake
+khan khan khan khan chuu.Dii khanake
+chhan chhan chhan chhan paayal chhanake bole baar baar
+mere sapano.n ke raajakumaar
+mujhe hai teraa i.ntazaar
+aajaa sanam ab aajaa
+sajan ab aajaa piyaa tuu aajaa
+aajaa aajaa mere sapano.n ke \threedots
+
+tere bin mere sajan meraa dil ab maane naa
+mere din kaise kaTe.n paradesii tuu jaane naa
+jaagii so_ii rahatii huu.N
+ishq me.n kho_ii rahatii huu.N
+mai.n paagal diivaanii huu.N
+terii prem kahaanii huu.N
+bikharii hai.n laTe.n bahakii chaal hai
+aake dekh le meraa kyaa haal hai
+u.Dii hai.n nii.nde.n nii.nde.n chain kahii.n ab aa_e naa
+sajan ab aajaa sanam ab aajaa
+balam ab aajaa piyaa tuu aajaa
+aajaa aajaa mere sapano.n ke \threedots
+
+yaado.n kii khushbuu me.n Dhuu.nDhuu.n tujhako kaliyo.n me.n
+logo.n kii nazaro.n me.n Dhuu.nDhuu.n tujhako galiyo.n me.n
+ye pyaasii pyaasii baahe.n dekh rahii.n terii raahe.n
+naa jaane kab aa_egaa mere khvaab sajaa_egaa
+laharaane lagii zaraa thaam le
+ta.Dapaataa hai kyuu.n aajaa saamane
+basaa luu.n man me.n man me.n
+tanhaa rahaa ab jaa_e naa
+sajan ab aajaa sanam ab aajaa
+balam ab aajaa diivaane aajaa
+aajaa aajaa mere sapano.n ke \threedots
+%
+#endindian
+\endsong
+

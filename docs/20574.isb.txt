@@ -1,0 +1,42 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{cha.ndramaa jaa un se kah de}%
+\film{Bharat Milaap}%
+\year{1965}%
+\starring{Sohrab Modi, Sulochana, Ashish Kumar, Indrani Mukherjee}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 12 Nov 2004
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+(cha.ndramaa jaa un se kah de naa bano itane kaThor
+baaT takate ho ga_ii giilii mere palakan kii kor) \-2
+cha.ndramaa jaa un se kah de
+
+la: kahanaa tujh bin adhakhilaa maathe kaa Tiikaa hai
+ma: kahanaa tujh bin ye meraa sa.Nsaar phiikaa hai
+la: ho, chandramaa jaa un se kah de
+
+la: kahanaa ab naa sah sakuu.Ngii virah kii jvaalaa
+ma: Tuut jaa_e naa kahii.n merii saa.Ns kii maalaa
+la: ho, cha.ndramaa jaa un se kah de
+
+la: ye basa.ntii raat kaaTe nahii.n kaTatii 
+ma: ye gha.Dii niShThur gha.Dii ghaTate nahii.n ghaTatii
+la: un charaN kii raah me.n ye nain bhaTake hai
+ma: unake darshan ke liye ye praaN takate hai.n
+la: ho, cha.ndramaa jaa un se kah de
+%
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{aa.Nkho.n me.n samaa jaao, is dil me.n rahaa karanaa}%
+\film{Yasmin}%
+\year{1955}%
+\starring{Suresh, Vyjayanthimala, Jayant}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Jaan Nisar Akhtar}%
+% 
+% Contributor: Neha Desai <umdesai@cc.UManitoba.CA>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Date: 10/29/1996
+% Comments:
+%
+\printtitle
+#indian
+%
+aa.Nkho.n me.n samaa jaao, is dil me.n rahaa karanaa
+taaro.n me.n ha.Nsaa karanaa, phuulo.n me.n khilaa karanaa
+aa.Nkho.n me.n samaa jaao, is dil me.n rahaa karanaa
+
+jab se tumhe.n dekha hai, jab se tumhe.n paayaa hai
+kuchh hosh nahii.n mujhako, ek nashaa saa chhaayaa hai
+ab baat jo karanii ho, aa.Nkho.n se kahaa karanaa
+
+(aaiye kaash dha.Dakataa dil, kuchh der Thahar jaae
+ ye raat, mohabbat kii, yuu.Nhii na guzar jaae)		\- 2
+baakii abhii tum par, ye jaan fidaa karanaa
+aa.Nkho.n me.n samaa jaao, is dil me.n rahaa karanaa
+
+(kismat na dikhaae ab, gha.Diyaa.N hame.n furakat kii
+ har raat yuu.Nhii chamake, taqadiir mohabbat kii)	\- 2
+aaiye chaa.Nd sitaaro.n tum milajul ke duaa karanaa
+aa.Nkho.n me.n samaa jaao, is dil me.n rahaa karanaa
+%
+#endindian
+\endsong
+%
+

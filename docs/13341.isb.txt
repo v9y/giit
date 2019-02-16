@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{na ho ko_ii jahaa.N chale.n ham\-tum wahaa.N}%
+\film{Natak}%
+\year{1947}%
+\starring{Suraiya, Amar, Sofiya, Kanwar, Sham Kumar, Pratima Devi}%
+\singer{Suraiya, Amar}%
+\music{Naushad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: BOL ANAMOL #12623 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+do \:	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+
+	dha.Dake dil mil\-mil ke nikale aramaa.N
+	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+
+a \:	yuu.Nhii gaate rahe.n gunagunaate rahe.n \-2
+	furaqat ke Gam na sahe.n \-2
+su \:	( yuu.Nhii ham aapako yaad aate rahe.n
+	mil ke ye do dil kahe.n ) \-2
+do \:	kabhii aaye na apane chaman me.n Kizaa.N
+	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+
+su \:	kahii.n apanaa banaa ke na denaa daGaa \-2
+	hai ye duniyaa bewafaa \-2
+a \:	( nahii.n mumakin ke tumase karuu.N mai.n jafaa
+	ho.nge na ham\-tum judaa ) \-2
+do \:	rahe yuu.N hii hamaarii mohabbat jawaa.N \-2
+	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+	na ho ko_ii jahaa.N \-2
+	chale.n ham\-tum wahaa.N
+%
+#endindian
+\endsong
+%
+

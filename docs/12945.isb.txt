@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{sun more rasiyaa sun man\-basiyaa chho.D ke ab}%
+\film{Madan Manjari}%
+\year{1961}%
+\starring{Nalini Chonkar, Manhar Desai, Kammo, Sundar, B M Vyas, Naseem}%
+\singer{Mukesh, Suman}%
+\music{Sardar Malik}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10360 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	sun more rasiyaa sun man\-basiyaa
+	chho.D ke ab nahii.n jaanaa
+mu \:	pyaar nibhaa_uu.Ngaa dil se na jaa_uu.Ngaa
+	mai.n to teraa hii diivaanaa
+
+la \:	ho.nTho.n pe mere piyaa teraa hii naam hai
+	mai.n huu.N terii daasii tuu meraa ghanashyaam hai
+	tere li_e chho.Daa maine saaraa zamaanaa
+	sun more rasiyaa \threedots
+mu \:	pyaar nibhaa_uu.Ngaa \threedots
+
+	aa.Ndhii se khele chaahe mausam bahaar kaa
+	bujhane na duu.Ngaa kabhii diipak pyaar kaa
+	chamakegaa chaa.Nd ban ke pyaar kaa fasaanaa
+	pyaar nibhaa_uu.Ngaa \threedots
+la \:	sun more rasiyaa \threedots
+mu \:	pyaar nibhaa_uu.Ngaa \threedots
+%
+#endindian
+\endsong
+

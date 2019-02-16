@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{is ishq-o-muhabbat kii, kuchh hai.n ajiib rasme.n}%
+\film{Zulm Ki Pukaar}%
+\year{}%
+\starring{Parikshit Sahni, Ranjeeta}%
+\singer{Rafi, Chandrani Mukherjee}%
+\music{Sonik-Omi}%
+\lyrics{Varma Malik}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 17 1995
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com) 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments: Pankha Road se Pintu Diwana [46]
+%     Okay, lyrics are not *that* great as u might have started
+%     expecting :-)) but not bad either. A nice, simple worded, happy
+%     song. Humm it with your SOs and live the memories or make some! 
+%
+\printtitle
+#indian
+%
+m: is ishq\-o\-muhabbat kii, kuchh hai.n ajiib rasme.n
+   kabhii jiine ke vaade, kabhii marane kii kasame.n
+f: na ye tere bas me.n, na ye mere bas me.n
+   kabhii jiine ke vaade, kabhii marane kii kasame.n
+
+m: kabhii i.ntazaar karate, barasaat kii raato.n me.n
+   kabhii raat guzar jaae, baato.n hii baato.n me.n
+f: ik dard machalataa hai, is dil kii nas\-nas me.n
+   kabhii jiine ke vaade, kabhii marane kii kasame.n
+
+f: Gar hamako judaa kar de.n, ik baar jahaa.N ke sitam
+   har baar janam lekar, har baar mile.nge ham
+m: yuu.N ahad\-e\-vafaa kar le.n, aa milakar aapas me.n
+   kabhii jiine ke vaade, kabhii marane kii kasame.n
+
+m: mai.n terii mohabbat me.n, har rasm nibhaa duu.Ngaa
+   apanii nii.Nde.n dekar, tere Kvaab sajaa duu.Ngaa
+f: aisaa hii hotaa hai, jab dil na rahe bas me.n
+   kabhii jiine ke vaade, kabhii marane kii kasame.n
+%
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%

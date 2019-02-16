@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n to tum sa.ng, nain milaa ke}%
+\film{Man Mauji}%
+\year{1962}%
+\starring{Sadhna, Kishore Kumar, Naaz}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+mai.n to tum sa.ng, nain milA ke ##(slow)##
+hAr gaI sajanA, ho, hAr gaI sajanA
+mai.n to tum sa.ng, nain milA ke
+hAr gaI sajanA, ho, hAr gaI sajanA
+
+kyU.N jhUThe se prIt lagAI \- 2
+kyU.N chhaliye ko mIt banAyA
+kyU.N A.ndhI me.n dIp jalAyA
+mai.n to tum sa.ng \threedots
+
+sapane me.n jo bAG lagAe
+nI.nd khulI to vIrAne the
+ham bhI kitane dIvAne the
+mai.n to tum sa.ng \threedots
+
+nA milatI.n ye bairan a.NkhiyA.n
+chain na jAtA dil bhI ne rotA
+kAsh kisI se pyAr na hotA
+mai.n to tum sa.ng \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ishq aur pyaar kaa ... tho.Daa intazaar kaa mazaa liiji_e}%
+\film{Shapath}%
+\year{1997}%
+\starring{Mithun, Jackie, Harish, Ramya Krishnan, Vinita, Karina Grover, Kader}%
+\singer{Altaf Raja}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq aur pyaar kaa mazaa liiji_e
+tho.Daa intazaar kaa mazaa liiji_e
+dil\-e\-bekaraar kaa mazaa liiji_e
+tho.Daa intazaar kaa mazaa liiji_e
+mazaa liiji_e mazaa liiji_e mazaa liiji_e
+
+bekhyaal ho ga_e hai.n hosh me.n naa laa_i_e
+aa_i_e kariib aake aa.Nkho.n se pilaa_i_e
+aa.Nkho.n se bhii khumaar kaa mazaa lii_ji_e
+tho.Daa intazaar kaa \threedots
+
+o o aadhii raat Dhal chukii hai chaa.Ndanii javaan hai
+ko_ii badahavaas hai to ko_ii badagumaan hai
+ho o husn ke nikhaar kaa mazaa liiji_e
+tho.Daa intazaar kaa \threedots
+
+mastiyaa.n hai.n bekhudii hai chaahato.n kaa jaam hai
+na to ko_ii bebasii hai na to ko_ii kaam hai
+din hai aitabaar kaa mazaa liiji_e
+tho.Daa intazaar kaa \threedots
+%
+#endindian
+\endsong
+

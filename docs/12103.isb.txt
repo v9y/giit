@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu mere dil me.n bas jaa mujhako pha.nsaa le yaa pha.ns jaa}%
+\film{Judwaa}%
+\year{1996}%
+\starring{Salman, Karisma, Rambha, Kader, Anupam, Shakti, Bindu}%
+\singer{Kumar Sanu, Poornima}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu mere dil me.n bas jaa mujhako pha.nsaa le yaa pha.ns jaa
+tuu mere dil me.n \threedots
+
+ho ho ho saavan kii likh de kahaanii pyaasii hai merii javaanii
+kyaa sochataa hai baras jaa
+mujhako pha.nsaa le \threedots
+
+chikanii hai.n chaahat kii raahe.n usape ye chikanii baahe.n
+kyaa sochatii hai phisal jaa
+mujhako pha.nsaa le \threedots
+
+aa.Nkho.n se aa.Nkhe.n mile.ngii nazaro.n kii chhuriyaa.n chale.ngii
+haay mujhako bachaa le yaa mar jaa
+mujhako pha.nsaa le \threedots
+
+namakiin hai tujhako chakh luu.n ho.nTho.n pe apane rakh luu.n
+pha.ns jaa_egii jaa ke chhup jaa
+mujhako pha.nsaa le \threedots
+%
+#endindian
+\endsong
+

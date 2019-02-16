@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{bahaaro.n se puuchho mere pyaar ko tum}%
+\film{Meraa Ghar Mere Bachche}%
+\year{1960}%
+\starring{Sohrab Modi, Sulochana, Sudesh Kumar, Kumari Naaz}%
+\singer{Mukesh, Suman}%
+\music{Sardar Malik}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10358 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	bahaaro.n se puuchho mere pyaar ko tum
+	tumhaare taraane ham gaa rahe hai.n
+su \:	nazaaro.n se puuchho mere pyaar ko tum
+	tumhaare li_e ham ji_e jaa rahe hai.n
+	nazaaro.n se puuchho \threedots
+
+mu \:	agar jaan tum ho to ham bhii to dil hai.n
+	bhare hai.n hazaaro.n muhabbat ke aramaa.n
+su \:	agar tum ho saagar to mai.n bhii huu.N nadiyaa
+	hai.n dono.n dilo.n me.n muhabbat ke tuufaa.n
+mu \:	mere pyaar kaa to kinaaraa nahii.n hai
+	tere pyaar me.n ham bahe jaa rahe hai.n
+	bahaaro.n se puuchho \threedots
+
+mu \:	ye uudii ghaTaa_e.N mastii luTaa_e.N
+	jaise tumhaarii sharaabii niGaahe.n
+su \:	ye Tha.nDii havaa_e.N bharatii hai.n aahe.n
+	samajho inhe.n tum hamaarii sadaa_e.n
+mu \:	fizaa_o.n me.n dekho baadal nahii.n hai.n
+	ye aa.Nchal tumhaare hii laharaa rahe hai.n
+do  \:	bahaaro.n se puuchho \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mere chhoTe se dil ko to.D chale}%
+\film{Tamasha}%
+\year{1952}%
+\starring{}%
+\singer{Lata}%
+\music{Manna De}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+aramaano.n kii nagarii uja.D gayii
+apanii hii qisamat se ham chhale gaye
+jo aashaa banakar aaye the
+vo aa.Nsuu banakar chale gaye
+
+mere chhoTe se dil ko to.D chale
+kis or jii kis or
+vo to hamase yuu.N mukha.Daa mo.D chale
+kis or jii kis or
+
+do din bhii to milake rah na sake
+baat dil kii zubaan se kah na sake
+vo to hamase yuu.N naataa to.D chale
+kis or jii kis or
+mere chhoTe se dil ko   \threedots
+
+o~ o~ o~
+merii naiyyaa se ruuThaa kinaaraa
+merii qisamat kaa Duubaa sitaaraa
+vo to hamako akelaa chho.D chale
+kis or jii kis or
+mere chhoTe se dil ko   \threedots
+
+%
+#endindian
+\endsong
+%

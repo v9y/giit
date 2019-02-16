@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{zi.ndagii jab bhii terii bazm me.n laatii hai hame.n}%
+\film{Umrao Jaan}%
+\year{}%
+\starring{Rekha, Naseeruddin Shah}%
+\singer{Talat Aziz}%
+\music{Khaiyyam}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+zi.ndagii jab bhii terii bazm me.n laatii hai hame.n 
+ye zamii.n chaa.Nd se behatar nazar aatii hai hame.n
+
+surkh phUlo.n se mahak uThatI hai.n dil kI rAhe.n 
+din Dhale yU.N terI AvAz bulAtI hai hame.n 
+zi.ndagii  \threedots 
+
+yAd terI kabhii dastak kabhii saragoshI se 
+raat ke pichhale pahar roz jagaatI hai hame.n 
+zi.ndagii  \threedots 
+
+har mulAqAt kA a.njaam judAI kyU.N hai 
+ab to har vaqt yahI baat satAtI hai hame.n
+zi.ndagii  \threedots 
+%
+#endindian
+\endsong
+%

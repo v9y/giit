@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o baabula pyaare o roe paayala kii chhama chhama}%
+\film{Johnny Mera Naam}%
+\year{1970}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: SAMIUDDIN MOHAMMED (sm0e@Lehigh.EDU)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+o baabula pyaare\threedots
+
+o baabula pyaare\threedots
+o roe paayala kii chhama chhama
+o sisake saa.nso.n kI saragama
+o nisa dina tujhe pukaare mana, ho
+o baabula pyaare\threedots
+
+terI hii baaho.n me.n bachapana biitaa, khilatii gayii zi.ndagaanii
+ho, aa.ndhii aisii phira chalii, TuuTI Daalii se kalii
+bina saavana ke uja.Daa chamana, ho
+o baabula pyaare\threedots
+
+kaise suhaagana bane ye abhaagana, kauna biThaae Dolii
+kaise aaegii baaraata, kaise piile ho.nge haatha
+kaise beTii banegii dulhana, ho
+o bAbula pyaare\threedots
+
+janaka ne kaise tyaaga diyaa hai, apanii hii jaanakii ko
+ho, beTii bhaTake raaho.n me, maataa Duubii aaho.n me.n
+tarase tere daras ko nayana, ho
+o baabula pyaare\threedots
+%
+#endindian
+\endsong
+%

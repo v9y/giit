@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{pyaar kaa dard hai miiThaa\-miiThaa pyaaraa\-pyaaraa}%
+\film{Dard}%
+\year{1981}%
+\starring{Rajesh Khanna, Hema Malini, Poonam Dhillon, Om Shivpuri, Ranjeeta}%
+\singer{Kishor, Asha}%
+\music{Khaiyyam}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10264 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aa \:	pyaar kaa dard hai \-2
+	miiThaa\-miiThaa pyaaraa\-pyaaraa \-2
+ki \:	ye hasii.n dard hii \-2
+	do dilo.n kaa hai sahaaraa \-2
+
+aa \:	( tho.Daa\-tho.Daa chain bhii hai
+	tho.Dii\-tho.Dii beqaraarii ) \-2
+ki \:	( aur bhii ho pyaar javaa.N
+	aarazuu hai ye hamaarii ) \-2
+do \:	ye milan ho dobaaraa
+
+aa \:	pyaar kaa dard hai 
+	miiThaa\-miiThaa pyaaraa\-pyaaraa \-2
+ki \:	ye hasii.n dard hii
+	do dilo.n kaa hai sahaaraa \-2
+
+ki \:	( mujhe milaa pyaar teraa
+	tujhe merii chaah milii ) \-2
+aa \:	( naye\-naye sapano.n kii
+	hame.n na_ii raah milii ) \-2
+do \:	ek aramaa.N hamaaraa
+
+ki \:	pyaar kaa dard hai 
+	miiThaa\-miiThaa pyaaraa\-pyaaraa \-2
+aa \:	ye hasii.n dard hii
+	do dilo.n kaa hai sahaaraa \-2
+
+aa \:	( roz hame.n mil ke bhii
+	milane kii aas rahe ) \-2
+ki \:	( roz miTe pyaas ko_ii
+	aur ko_ii pyaas rahe ) \-2
+do \:	dil diwaanaa pukaaraa
+
+aa \:	pyaar kaa dard hai 
+ki \:	miiThaa\-miiThaa pyaaraa\-pyaaraa
+aa \:	haa.N miiThaa\-miiThaa pyaaraa\-pyaaraa
+ki \:	ye hasii.n dard hii
+aa \:	do dilo.n kaa hai sahaaraa
+ki \:	do dilo.n kaa hai sahaaraa
+
+do \:	pyaar kaa dard hai
+	miiThaa\-miiThaa pyaaraa\-pyaaraa \-2
+	ye hasii.n dard hii
+	do dilo.n kaa hai sahaaraa \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{kahii.n duur jab din Dhal jaaye}%
+\film{Anand}%
+\year{1970}%
+\starring{Amitabh Bachchan, Rajesh Khanna}%
+\singer{Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Ranganathan, Srikanth (gt9375a@prism.gatech.EDU)
+%          Ravi Dronamraju (ravid@herky.cs.uiowa.edu)
+%          Nita
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kahii.n duur jab din Dhal jaae 
+saa.Njh kii dulhan badan churaae 
+chupake se aae
+mere Kayaalo.n ke aa.Ngan me.n 
+koii sapano.n ke diip jalaae, diip jalaae
+kahii.n duur \threedots
+
+kabhii yuu.Nhii.n, jab huii.n, bojhal saa.Nse.n 
+bhar aa_ii baiThe baiThe, jab yuu.N hii aa.Nkhe.n 
+tabhii machal ke, pyaar se chal ke
+chhue koii mujhe par nazar na aae, nazar na aae
+kahii.n duur \threedots
+
+kahii.n to ye, dil kabhii, mil nahii.n paate
+kahii.n se nikal aae, janamo.n ke naate
+ghanii thii ulajhan, bairii apanaa man
+apanaa hii hoke sahe dard paraaye, dard paraaye
+kahii.n duur \threedots
+
+dil jaane, mere saare, bhed ye gahare
+kho gae kaise mere, sapane sunahare
+ye mere sapane, yahii to hai.n apane
+mujhase judaa na ho.nge inake ye saaye, inake ye saaye
+kahii.n duur \threedots
+
+%
+#endindian
+\endsong
+%

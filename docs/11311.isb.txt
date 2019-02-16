@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{zaalim zamaanaa mujhako tumase chhu.Daa rahaa hai}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu}%
+\singer{Suraiya, Shyam}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12638 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+shyaa \:	zaalim zamaanaa mujhako tumase chhu.Daa rahaa hai
+	e zaalim zamaanaa mujhako tumase chhu.Daa rahaa hai
+	a.njaam zi.ndagii kaa
+	a.njaam zi.ndagii kaa nazadiik aa rahaa hai
+	zaalim zamaanaa mujhako tumase chhu.Daa rahaa hai
+
+su \:	biite dino.n ke nagame.n dil aaj gaa rahaa hai
+	duniyaa me.n jaise apanii
+	duniyaa me.n jaise apanii ko_ii bulaa rahaa hai
+	biite dino.n ke nagame.n dil aaj gaa rahaa hai
+
+shyaa \:	tujhako qasam hai aakar suurat zaraa dikhaa jaa
+	suurat zaraa dikhaa jaa
+	diiwaanaa dekh teraa duniyaa se jaa rahaa hai
+
+su \:	barabaadiyo.n kaa apanii shiqawaa nahii.n kisii se
+	shiqawaa nahii.n kisii se
+	meraa nasiib mujhako ye din dikhaa rahaa hai
+	e biite dino.n ke nagame.n dil aaj gaa rahaa hai
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pyaar hai iishvar pyaar tapasyaa ... dil ek mandir pyaar hai puujaa}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar hai iishvar pyaar tapasyaa pyaar se sa.nsaar hai
+pyaar kii jot jalaane vaalaa i.nsaa.n bhii avataar hai
+dil ek mandir pyaar hai puujaa
+pyaar se ba.Dh kar ko_ii na duujaa
+ai mere hamasafar hai ye sabako khabar
+inase pyaaraa zamaane me.n ko_ii nahii.n
+dil ek mandir \threedots
+
+jag ke saare bandhan jhuuThe sachchii hai ik priit kii Dorii
+jisane kii ho priit vo jaane kyo.n chandaa ko chaahe chakorii
+prem kiyaa to sab kuchh chhuuTaa
+pyaar se ba.Dh kar \threedots
+
+usakii duniyaa svarg banii hai jisako man kaa miit milaa hai
+usakii baat na puuchhe ko_ii jis par priit kaa ra.ng cha.Dhaa hai
+us pe ra.ng cha.Dhe naa duujaa
+pyaar se ba.Dh kar \threedots
+%
+#endindian
+\endsong
+

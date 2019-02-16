@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{udhar se tum chale ... muhabbat ho ga_ii bas ek nazar se}%
+\film{Sagaai}%
+\year{1951}%
+\starring{Premnath, Gope, Yakub, Rehana, Vijayalaxmi, Hira Lal, Cuckoo}%
+\singer{Lata, Rafi}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12250 [V S Rawat], 10/01/2004
+%
+% song courtesy: http://homepage.mac.com/tarana/cr/
+% song contact: tarana at mac.com
+%
+\printtitle
+#indian
+%
+la \:	udhar se tum chale aur ham idhar se \-2
+	muhabbat ho ga_ii
+	muhabbat ho ga_ii bas ek nazar se
+	bas ek nazar se
+
+ra \:	mohabbat ban ke jo barasii hai dil par \-2
+	na jaane wo ghaTaa aa_ii kidhar se \-2
+	muhabbat ho ga_ii
+do \:	muhabbat ho ga_ii bas ek nazar se \-2
+	bas ek nazar se
+
+la \:	are dil kii Kushii ke dene waale \-2
+	bahut din ham terii ulafat ko tarase \-2
+	muhabbat ho ga_ii
+do \:	muhabbat ho ga_ii bas ek nazar se \-2
+	bas ek nazar se
+
+ra \:	o
+	chhupaa rakhaa thaa siine me.n
+la \:	o
+	chhupaa rakhaa thaa siine me.n
+do \:	tumhaare pyaar ko duniyaa ke Dar se \-2
+	muhabbat ho ga_ii
+	muhabbat ho ga_ii bas ek nazar se \-2
+	bas ek nazar se
+%
+#endindian
+\endsong
+%
+

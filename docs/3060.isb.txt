@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil beqaraar saa hai}%
+\film{Ishara}%
+\year{1964}%
+\starring{Joy Mukherjee, Vyjayantimala}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+dil beqaraar saa hai, mujh ko Kumaar saa hai
+jab se tujhe dekhaa sanam
+haay! dil beqaraar saa hai \threedots
+
+mausam nashe me.n chuur hai
+kuchh pii ke aayii hai ghaTaa
+bas kuchh na puuchho aaj kyaa
+paiGaam laayii hai ghaTaa
+ab mai.n ne jaanaa pyaar kyaa hai terii zulfo.n kii qasam
+dil beqaraar saa hai \threedots
+
+haatho.n me.n aa.Nchal thaam ke
+vo mu.Nh chhupaane kii adaa
+diivaanaa kar degaa hame.n
+vo muskuraane kii adaa
+ab mai.n new jaanaa pyaar kyaa hai terii ho.nTho.n kii qasam
+dil beqaraar saa hai \threedots
+
+%
+#endindian
+\endsong
+%

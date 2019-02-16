@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ham hai.n tere diivaane gar tuu buraa na maane}%
+\film{Shabistan}%
+\year{1951}%
+\starring{Naseem Shyam}%
+\singer{Talat, Geeta, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ham hai.n tere diivaane gar tuu buraa na maane
+kisse hai.n ye puraane gar tuu buraa na maane
+
+ye goraa goraa mukha.Daa ye chaa.Nd sii javaanii
+dharatii pe jaise aayii ik aasamaa.N kii raanii
+are hamako chalaa banaane, gar tuu buraa na maane
+ham hai.n tere diivaane \threedots
+
+pahalii nazar me.n tum ne apanaa banaa liyaa hai
+ab apane nazar se puuchho meraa qusuur kyaa hai
+are ye hai.n tere bahaane, gar tuu buraa na maane
+ham hai.n tere diivaane \threedots
+
+sapane sajaa sjaa kar ik mahala mai.n banaa_uu.N
+raanii tumhe.n banaa kar us me.n tumhe.n biThaa_uu.N
+ye to hai.n jel_khaane, gar tuu buraa na maane
+ham hai.n tere diivaane \threedots
+
+%
+#endindian
+\endsong
+%

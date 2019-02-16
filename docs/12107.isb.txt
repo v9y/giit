@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jo ham naa mile.nge to gul naa khile.nge}%
+\film{Jaan Ki Qasam}%
+\year{1991}%
+\starring{Krishna, Saathi Ganguli, Suresh Oberoi, Ranjeet, Raza Murad}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo ham naa mile.nge to gul naa khile.nge
+hai milanaa zaruurii hamaaraa sanam
+jaan kii qasam o merii jaan kii qasam
+
+ye kaisii hai halachal nahii.n chain ek pal
+bataa_o sanam
+jaan kii qasam \threedots
+
+samandar me.n uThatii ye kaisii lahar hai
+machalataa hai har vaqt ye kaisii umar hai
+aajaa merii baa.Nho.n me.n aa
+aise na tuu baate.n banaa
+haTo chho.D do mujhe na sataa_o
+karo na mujhape aise sitam
+jaan kii qasam \threedots
+
+nazar me.n basaa lo gale se tum lagaa lo
+agan jo lagii sanam
+kuchh mujhe hone lagaa
+dil meraa haa.N khone lagaa
+ye zulfe.n haTaa_o cheharaa dikhaa_o
+tumhe.n dekhe bin jii na paa_e.nge ham
+jaan kii qasam \threedots
+%
+#endindian
+\endsong
+

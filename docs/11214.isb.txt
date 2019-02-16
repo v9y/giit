@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{pukaaratii hai mohabbat qariib aa jaa_o}%
+\film{Daastaan-E-Lailaa Majnu}%
+\year{1974}%
+\starring{Anamika, Kanwaljeet, Dheeraj, Jaishri T, K N Singh}%
+\singer{Rafi, Suman}%
+\music{Iqbal Qureshi}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10244 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	pukaaratii hai mohabbat qariib aa jaa_o
+su \:	tumhii.n to ho merii jannat qariib aa jaa_o
+
+ra \:	jidhar niGaah uThe ha.Ns rahii ho phuulo.n me.n
+	tumhii.n to jhuul rahii ho kiran ke jhuulo.n me.n
+su \:	nazar ko hosh nahii.n dilanashii.n nazaaro.n kaa
+	alag vazuud nahii.n tumase chaa.Nd\-taaro.n kaa
+ra \:	barasate husn kii qasam qariib aa jaa_o
+	pukaaratii hai mohabbat \threedots
+
+su \:	ye pyaar jisape farishto.n ko rashq aataa hai
+	Kudaa bhii hamape mohabbat se muskaraataa hai
+ra \:	dilo.n kaa mel ibaadat hai kaun jaanegaa
+	yahii to asl haqiiqat hai kaun maanegaa
+su \:	hamaaraa ishq salaamat qariib aa jaa_o
+	tumhii.n to ho \threedots
+%
+#endindian
+\endsong
+

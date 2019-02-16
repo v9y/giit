@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bhuul jaaye.n saare Gam}%
+\film{Nausherwan-e-Adil}%
+\year{1957}%
+\starring{Sohrab Modi,Raaj Kumar,Mala Sinha}%
+\singer{Lata,Rafi}%
+\music{C Ramchandra}%
+\lyrics{Parvez Shamsi}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:17 Mar 2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+la: bhuul jaaye.n saare Gam, Duub jaaye.n pyaar me.n
+do: baj rahii hai dhun yahii, raat ke sitaar me.n
+    bhuul jaaye.n saare Gam
+
+
+ra: ha.Ns rahe hai phuul jo,gaa rahaa hai gulsitaa
+la: gaa rahaa hai gul jahaa.n,gaa rahaa hai aasamaa.n
+ra: (tuu hii tuu hai sadaa)\-2
+    laakh me.n hazaar me.n
+do: bhuul jaaye.n saare Gam \threedots
+
+la: sharm se jo hai Darii, aa nahii.n rahii ha.Nsii
+ra: bekhudii me.n bekhudii, kar rahii hai gud_gudii 
+la: (ham rahe karaar me.n)\-2
+    dil na hai karaar me.n
+do: bhuul jaaye.n saare Gam \threedots
+
+ra: ishq me.n jahar(?) hai, kuch hame.n khatar nahii.n
+do: ishq me.n jahar hai, kuch hame.n khatar nahii.n
+la: (bijaliyo.n se Dar nahii.n)\-2
+do: (chalatii jaaye.n aashiyaa.N)\-2
+    thaamakar bahaar me.n
+do: bhuul jaaye.n saare Gam
+
+%
+#endindian
+\endsong

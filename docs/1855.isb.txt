@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{vo hai.n zaraa khafaa khafaa, to nain yuu.n milaae hai.n ki ho ho}%
+\film{Shaagird}%
+\year{1967}%
+\starring{Saira Banu, Joy Mukherjee, I S Johar}%
+\singer{Lata, Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+vo hai.n zaraa khafaa khafaa
+to nain yuu.n milaae hai.n ki ho ho
+naa bol duu.n to kyaa karuu.N
+vo ha.Ns ke yU.N bulaae hai.n ki ho ho
+
+1) ha.Ns rahI hai chaa.NdanI
+machal ke ro naa duu.n kahii.n
+aise koI rUThataa nahI.n
+ye teraa khayaal hai
+kariib aa mere ha.nsii.n
+mujhako tujhase kuchh gilaa nahii.n
+baat yU.N banaae hai.n ki o ho \threedots
+vo hai.n \threedots
+
+2) aise mat sataa_iye
+zaraa taras to khaa_iye
+dil kI dha.Dakan mat jagaa_iye
+kuchh nahI.n kahU.ngaa mai.n
+naa a.Nkhiyaa.n jhukaa_iye
+sar ko kandhe se uThaa_iye
+aise nii.nd aae hai ki ham \threedots
+vo hai.n \threedots
+%
+#endindian
+\endsong
+%

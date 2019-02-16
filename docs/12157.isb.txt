@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{aaj is rut me.n man hu_aa cha.nchal ... man mayuur meraa ho gayaa paagal}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Nitin Mukesh}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaj is rut me.n man hu_aa cha.nchal nain tumase mil gaye to ha.Ns diyaa kaajal
+man mayuur meraa ho gayaa paagal jhuum kar aise giraa hai ruup kaa baadal
+aaj is rut me.n \threedots
+
+khil ke tamannaa_o.n kii kaliyaa.n mahakaa_e.n sapano.n kii galiyaa.n
+prem kii pyaarii ye ra.ngaraliyaa.n kar ga_ii.n mere dil me.n halachal
+ho man mayuur meraa \threedots
+
+teraa a.ng a.ng jaise ka.nchan saa.Nse.n mahake.n jaise chandan
+baa.ndh gayaa jiivan kaa ba.ndhan merii priiti se teraa aa.Nchal
+aaj is rut me.n \threedots
+%
+#endindian
+\endsong
+

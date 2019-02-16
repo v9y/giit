@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye vaadaa karo chaa.Nd ke saamane}%
+\film{Raaj Hath}%
+\year{1956}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+ye vaadaa karo chaa.Nd ke saamane
+bhulaa to na doge mere pyaar ko
+mere haath me.n haath de do zaraa
+sahaaraa milegaa mere pyaar ko
+
+ye chandaa ye taare to chhup jaaye.nge
+magar merii nazaro.n se chhupanaa na tum
+badal jaaye duniyaa na badale.nge ham
+nibhaanaa hii hogaa is iqaraar ko
+ye vaadaa karo chaa.Nd ke saamane   \threedots
+
+bahaaro.n ke saaye me.n aa jhuum le.n
+bhulaa de.n zamaane ke Gam aaj to
+zamaane ke Gam se hame.n kaam kyaa
+hame.n tum mile aur kyaa chaahiye
+ki ham chho.D baiThe hai.n sa.nsaar ko
+ye vaadaa karo chaa.Nd ke saamane   \threedots
+
+%
+#endindian
+\endsong
+%

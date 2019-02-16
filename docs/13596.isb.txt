@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{meraa prem himaalay se uu.Nchaa saagar se gaharaa}%
+\film{Pujarin}%
+\year{1969}%
+\starring{Rehana Sultan, Vijay Dutt, Pratap, Niranjan Sharma, Jay Kajariya}%
+\singer{Mukesh}%
+\music{Narayan Dutt}%
+\lyrics{Madan}%
+%
+% Contributor: BOL ANAMOL #10302 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+meraa prem himaalay se uu.Nchaa saagar se gaharaa pyaar meraa
+apanaa kah de ik baar mujhe hogaa upakaar teraa
+meraa prem himaalay se \threedots
+
+jab mast pavan ke giito.n pe bajatii hai bahaaro.n kii paayal
+cha.nchal nadiyaa kii baa.Nho.n me.n jab ghir aa_e pyaasaa baadal
+tab yaad mujhe terii aatii hai kuchh tujhape adhikaar meraa
+meraa prem himaalay se \threedots
+
+naino.n me.n hai.n amR^it ke pyaale tan niil\-gagan saa nirmal hai
+vaaNii me.n hai viiNaa kii saragam man phuul se bhii teraa komal hai
+tujhe dekh ke aisaa lagataa hai kitanaa sundar sa.nsaar meraa
+meraa prem himaalay se \threedots
+%
+#endindian
+\endsong
+

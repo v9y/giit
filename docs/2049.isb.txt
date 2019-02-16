@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{dasht-e-tanhaa_ii me.n ai jaan-e-jahaa.N larazaan hai}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Iqbal Bano}%
+\music{}%
+\lyrics{Faiz Ahmed Faiz}%
+%
+% Contributor: Vandana Sharma
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+dasht\-e\-tanhaa_ii me.n ai jaan\-e\-jahaan larazaan hai
+terii aavaaz ke saaye tere ho.nTho.n ke seraab
+dasht\-e\-tanhaa_ii me.n duurii ke khas\-o\-khaaG tale
+khil rahe hai.n tere pahaluu ke saame.n aur gulaab
+
+dasht\-e\-tanhaa_ii me.n   \threedots
+
+% [dasht = space, oblivion]
+% [larazaan = trembling]
+% [seraab = ...]
+% [khas-o-khaag = ??]
+% [same.n = ??]
+
+uTh rahii hai kahii.n qurabat se terii saa.Ns kii aa.Nch
+apanii khushabuu me.n sulagatii huii
+maddham, maddham duur ufaq paar chamakatii hui
+qataraa qataraa mil rahii hai terii diladaar nazar kii shabanam
+
+dasht\-e\-tanhaa_ii me.n   \threedots
+
+% [qurabat = proximity]
+% [ufaq = horizon]
+
+is qadar pyaar se ai jaan\-e\-jahaa.N rakhaa hai
+dil ke ruKasaar pe is vaqt terii yaad ne haath
+yuu.N Gumaa.N hotaa hai garaje hai abhii subh\-e\-firaaq
+Dhal gayya hijr kaa din aa bhii gayii vasl kii raat
+
+dasht\-e\-tanhaa_ii me.n   \threedots
+
+% [rukhsaar = face]
+% [Gumaan = to feel]
+% [firaaq = separation]
+% [hijr = separation]
+% [vasl = meet(ing)]
+
+dasht\-e\-tanhaa_ii me.n ai jaan\-e\-jahaan larazaan hai
+terii aavaaz ke saaye tere ho.nTho.n ke seraab
+
+%
+#endindian
+\endsong
+%

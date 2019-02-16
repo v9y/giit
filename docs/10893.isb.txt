@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{yahaa.N bandhu aate ko hai jaanaa}%
+\film{Chhattees Ghante}%
+\year{1974}%
+\starring{Sunil Dutt, Mala Sinha, Parvin Babi, Vijay Arora, Rajkumar, Ranjit}%
+\singer{Mukesh}%
+\music{Sapan Chakravarti}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10348 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+yahaa.N bandhu aate ko hai jaanaa
+ko_ii ho nahii.n yahaa.N kisii kaa Thikaanaa
+yahaa.N bandhu aate ko \threedots
+
+bole ye he bandhu tose
+bahatii nadii kahatii yahii
+uThatii ghaTaa bahatii havaa
+gaatii yahii gaanaa
+ko_ii ho nahii.n yahaa.N \threedots
+
+bole ye he bandhu tose
+jal kii lahar kal ho kahaa.N kisako Kabar
+bole yahii saa.Nso.n kaa taraanaa
+ko_ii ho nahii.n yahaa.N \threedots
+%
+#endindian
+\endsong
+

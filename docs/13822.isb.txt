@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{kal raat vaalii mulaakaat ke li_e har baat ke li_e maaf kiiji_e}%
+\film{Raja Saab}%
+\year{1969}%
+\starring{Shashi Kapoor, Nanda, Naaz}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11091 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( kal raat vaalii mulaakaat ke li_e
+har baat ke li_e
+maaf kiiji_e maaf kiiji_e ) \-2
+
+aa_iinaa naa dekhi_e merii suurat dekhi_e
+siidhii\-saadii bholii\-bhaalii merii muurat dekhi_e
+aadamii shariif nahii.n huu.N mai.n kyaa bhalaa
+qaabil\-e\-taariif nahii.n huu.N mai.n kyaa bhalaa
+aap hii ye i.nsaaf kiiji_e \-2
+maaf kiiji_e \-4
+
+merii kyaa mazaal hai jo mai.n daaman thaam luu.N
+taubaa\-taubaa merii taubaa aapakaa mai.n naam luu.N
+vo paravaanaa vo mastaanaa ko_ii aur thaa
+mai.n nahii.n thaa vo diivaanaa ko_ii aur thaa
+maan jaa_i_e dil saaf kiiji_e \-2
+maaf kiiji_e \-4
+
+suni_e janaab ye merii pahalii bhuul hai
+pahalii bhuul maaf ho ye duniyaa kaa asuul hai
+aap jo na ho.nge ajii ham pe meharabaa.N
+aapko sitamaGar kahegaa ye jahaa.N
+aur kyaa kahuu.N maaf kiiji_e
+maaf kiiji_e \-4
+kal raat vaalii \threedots
+%
+#endindian
+\endsong
+

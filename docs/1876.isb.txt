@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{yaar chulabulaa hai hasii.n dilarubaa hai}%
+\film{Dil Deke Dekho}%
+\year{}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Asha, Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Shalini Razdan
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yaar chulabulaa hai ha.nsii.n dilarubaa hai
+jhuuTh bolataa hai magar zaraa zaraa
+to bolo jii
+phir kyaa kare diivaanaa
+
+ye kise pataa hai ye husn kii adaa hai
+tumako dil diyaa hai magar zaraa zaraa
+to dekho jii
+dhokhe me.n aa na jaanaa
+
+chho.Do sharaarat shabaab ke hai.n din
+bachapan ke shaayad janaab ke hai.n din
+bas isii adaa pe ham sanam tumhaare ho liye
+kis tarah yaqii.n hamako aae ye to boliye
+to suna lo to suna lo to sun\-sun\-sun\-sun\-sun
+to suna lo jii
+kahataa kyaa zamaanaa
+yaar chulabulaa hai \threedots
+
+ulajhe se baalo.n kaa hai ye haal kyaa
+tumane jo dekha to aa gayaa nashaa
+chal rahaa hai tiir, dil bachaaiye bachaaiye
+pahale naino.n kii jhukii kamaan to uThaaiye
+to dekho to dekho to de\-de\-de\-de\-de
+to dekho jii
+dil ho gayaa nishaanaa
+yaar chulabulaa hai \threedots
+
+aise hasiino.n kaa aitabaar kyaa
+achchhaa to takate ho baar baar kyaa
+dekhataa huu.N kisane ye hasii.n shakal banaaii hai
+aisaa lag rahaa hai tumane gaharii choT khaaii hai
+to dekho to dekho to de\-de\-de\-de\-de
+to dekho jii
+is dil ka talamalaanaa
+yaar chulabulaa hai \threedots
+
+%
+#endindian
+\endsong
+%

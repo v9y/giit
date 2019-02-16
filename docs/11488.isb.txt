@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saare shahar me.n ha.ngaamaa hai ... jhaNak jhaNak}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Sunidhi Chauhan, Richa Sharma, KayKay, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saare shahar me.n ha.ngaamaa hai ha.ngaamaa
+dilo.n me.n ghar me.n ha.ngaamaa hai ha.ngaamaa
+hai meraa ha.ngaamaa ha.ngaamaa hai meraa
+
+jhaNak jhaNak jhaNak jhaNak baaje ye terii paayaliyaa
+jhaNak jhaNak jhaNak jhaNak baaje
+
+meraa a.ng a.ng meraa ra.ng ra.ng sone se bhii soNaa
+jo dekh le mujhe vo kahe tujhe paa ke naa khonaa
+ho.nTho.n kii aag kastuurii pyaas saa.Nso.n ko mahakaa_e
+meraa khyaal ulajhaa savaal raato.n ko bahakaa_e
+jhaNak jhaNak \threedots
+
+mahabuub meraa mere badan ko aa.Nkho.n se pighalaa_e
+hai usakaa ruup garamii kii dhuup ho chhuu le jal jaa_e
+usakaa nahii.n hai ko_ii javaab usakaa na ko_ii saanii
+dil ne mere to chaahaa usii ko de dii usako javaanii
+jhaNak jhaNak \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye tum bhii na socho ye ham bhii na soche.n}%
+\film{Khauff}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+natiizaa hamaarii muhabbat kaa kyaa hai
+ye tum bhii na socho ye ham bhii na soche.n
+tere dil me.n kyaa hai mere dil me.n kyaa hai
+ye tum bhii na socho \threedots
+
+chup the ham chup the tum kisane kyaa sunaa
+aa.Nkho.n ne laakho.n me.n ek tujhako chunaa
+is dil me.n jo bhii ho kah duu.n kyaa kaho
+siine me.n dha.Dakan hai sun luu.n kyaa suno
+kismat bhii aa_ii to kismat se kah de.nge
+ham tum naa ho.nge judaa
+hamaarii lakiiro.n me.n kyaa kyaa likhaa hai
+ye tum bhii na socho \threedots
+
+saa.Nso.n me.n chi.ngaarii aa.Nkho.n me.n nashaa
+gaalo.n me.n bijalii hai ho.nTho.n par mazaa
+puuchhuu.n kyaa puuchho naa dil hai kyaa khulaa
+dil lenaa dil denaa ye hai kyaa sazaa
+aa.Nkho.n ke ho jaa_o saa.Nso.n me.n kho jaa_o
+duniyaa kii paravaah hai kyaa
+hame.n kyaa jo hamase zamaanaa khafaa hai
+ye tum bhii na socho \threedots
+%
+#endindian
+\endsong
+

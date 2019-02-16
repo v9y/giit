@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mahabuub se hamaare baad\-e\-sabaa kahanaa ... dil kaa salaam kahanaa}%
+\film{Love 86}%
+\year{1986}%
+\starring{Tanuja, Rohan Kapoor, Farha Naaz, Govinda, Neelam, Satish Shah}%
+\singer{Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Prem Pandit}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mahabuub se hamaare baad\-e\-sabaa kahanaa
+itanaa payaam kahanaa dil kaa salaam kahanaa
+mahabuub se mere \threedots
+
+kahanaa unase jaake sab haal\-e\-dil sunaa ke
+hai pyaar kii duhaa_ii ta.Dapaatii hai judaa_ii
+bechain dil hamaaraa subah shaam kahanaa
+mahabuub se mere \threedots
+
+bechain tum vahaa.n ho bechain ham yahaa.n hai
+sholo.n me.n jal rahe hai.n karavaT badal rahe hai.n
+din raat hai labo.n par unakaa hii naam kahanaa
+mahabuub se mere \threedots
+
+har zulm se la.De jo kaa.NTo.n pe bhii chale jo
+daaman magar vafaa kaa jisase kabhii naa chhuuTaa
+u.nchaa rahaa jahaa.n me.n unakaa muqaam kahanaa
+mahabuub se mere \threedots
+
+vo pyaar kaa zamaanaa vo ha.Nsanaa muskaraanaa
+ye kisii kii baddu_aa hai sapanaa saa ban gayaa hai
+takadiir se milaa hai aa.Nsuu inaam kahanaa
+mahabuub se mere \threedots
+%
+#endindian
+\endsong
+

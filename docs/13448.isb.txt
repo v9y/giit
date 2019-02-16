@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{dil se mere duur na jaanaa}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Shekhar Ravjiyani, Mahalaxmi Iyer}%
+\music{Shekhar Ravjiyani}%
+\lyrics{Raj Kaushal, Mandira Bedi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil se mere duur na jaanaa
+tum merii zi.ndagii tum merii ho khushii
+dil se mere duur \threedots
+
+kyuu.n hai.n ye duuriyaa.n jaane tum ho kahaa.n
+mai.n to huu.N vahaa.n tum raho jahaa.n
+tere sa.ng mai.n rahuu.ngii sadaa
+merii nazar se na palake.n jhukaanaa
+tum merii zi.ndagii \threedots
+
+terii bas ik nazar kar de dil pe asar
+mai.n to huu.N idhar kyuu.n ho bekhabar
+thaam lo tum mujhe hamasafar
+dil se mere duur \threedots
+%
+#endindian
+\endsong
+

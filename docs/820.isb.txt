@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jab chalii ThaNDii havaa, jab uThii kaalii ghaTaa}%
+\film{Do Badan}%
+\year{}%
+\starring{Manoj Kumar, Asha Parekh}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan Parrikar (parrikar@mimicad.colorado.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(jab chalii ThaNDii havaa, jab uThii kaalii ghaTaa 
+mujhako ai jaan\-e\-vafaa tum yaad aae  ) \- 2
+
+zi.ndagii kii daastaa.n, chaahe kitanii ho ha.nsii.n
+bin tumhaare kuchh nahii.n,  bin tumhaare kuchh nahii.n
+kyaa mazaa aataa sanam,  aaj bhuulese kahii.n
+tum bhii aajaate yahii.n, tum bhii aajaate yahii.n
+ye bahaare.n ye fizaa,  dekhakar o dilarubaa
+jaane kyaa dil ko huaa,  tum yaad aaye
+jab chalii \threedots
+
+ye nazaare ye samaa,  aur phir itane javaa.N
+haaye re ye mastiyaa.N,  haaye re ye mastiyaa.N
+aisaa lagataa hai.n mujhe,  jaise tum nazadiik ho
+is chaman se jaan\-e\-jaa.n,  is chaman se jaan\-e\-jaa.n
+sun ke usakii sadaa, dil dha.Dakataa hai.n meraa
+aaj pahalese sivaa tum yaad aae
+jab chalii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{haay re haay nii.nd nahii.n aa_e chain nahii.n aa_e}%
+\film{Humjoli}%
+\year{1970}%
+\starring{Jeetendra, Leena Chandrawarkar, Mehmood, Pran, Shashikala}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11137 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	haay re haay nii.nd nahii.n aa_e chain nahii.n aa_e dil me.n tuu samaa_e
+	aayaa pyaar bharaa mausam diivaanaa diivaanaa
+	haay re haay \threedots
+
+	ko_ii dekh le agar
+ra \:	tuu Gam na kar
+la \:	mujhe to lag rahaa hai Dar
+ra \:	tuu Gam na kar
+	ritu sunaa rahii hai priit kii kahaaniyaa.N
+	haay re haay mast ghaTaa chhaa_e pyaas naa bujhaa_e aag sii lagaa_e
+	aayaa pyaar bharaa \threedots
+
+	dil ne dil se kyaa kahaa
+la \:	kyaa pataa
+ra \:	zaraa saa mere paas aa
+la \:	kyo.n bhalaa
+ra \:	aa tujhe mai.n de duu.N prem kii nishaaniyaa.N
+la \:	haay re haay jaan ghabaraa_e aa.Nkh jhukii jaa_e saa.Ns rukii jaa_e
+	aayaa pyaar bharaa \threedots
+
+la \:	chhe.Datii hai ye havaa
+ra \:	kyaa hu_aa
+la \:	jagaa hai dil me.n dard saa
+ra \:	kyo.n bhalaa
+la \:	ra.ng laa rahii hai.n pyaar kii javaaniyaa.N
+ra \:	zulf kii chhaa.Nv haay hosh u.Daa jaa_e paa.Nv Dagamagaa_e
+	ho aayaa pyaar bharaa \threedots
+%
+#endindian
+\endsong
+

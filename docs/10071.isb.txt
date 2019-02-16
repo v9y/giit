@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{merii jaan ... ye duniyaa apanii duniyaa}%
+\film{Aap Mujhe Achche Lagne Lage}%
+\year{2002}%
+\starring{Hritik Roshan, Ameesha Patel}%
+\singer{Alka Yagnik, KayKay}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii jaan merii jaan merii jaan
+ye duniyaa apanii duniyaa
+duniyaa ye pyaar kii duniyaa
+ye khul ke vafaa karatii hai
+sachche ikaraar kii duniyaa
+
+merii jaan merii jaan merii jaan
+duniyaa ye kaisii duniyaa
+jhuThe takaraar kii duniyaa
+chaahat ko kahaa.N samajhegii
+dushman ye pyaar kii duniyaa
+%
+#endindian
+\endsong
+

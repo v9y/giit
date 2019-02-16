@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dhik.h tanaa dhik.h tanaa dhik.h tanaa}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Salman Khan, Madhuri Dixit}%
+\singer{S P Balasubramaniam}%
+\music{Ram Laxman}%
+\lyrics{Ravinder Rawal}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+dhik.h tanaa tik.h tanaa dhik.h tanaa
+dhik.h, dhik.h tanaa tik.h tanaa dhik.h tanaa
+bhaabhii tum khushiyo.n kaa khazaanaa
+dhik.h tanaa tik.h tanaa dhik.h tanaa
+
+pahalii kiraN jab se uge
+bhaabhii merii tab se jage
+sabakaa puuraa dhyaan dhare vo
+shaam Dhale tak kaam kare
+kal tak rahaa is chaa.Nv se
+meraa bachapan an_jaanaa
+dhik.h tanaa   \threedots
+
+hogii merii shaadii kabhii
+kahate hai.n ye mujhase sabhii
+Kud apanii devaraanii chunanaa
+baat kisii kii mat sunanaa
+tum Dhuu.NDh ke ra.ng ruup me.n
+apanii parachhaa_ii laanaa
+dhik.h tanaa   \threedots
+
+kab tak rahuu.N sabase chhoTaa
+aaye koii mujhase chhoTaa
+ha.Nsataa bolataa koii khilaunaa
+ab in baaho.n ko do na
+tumase maa.Nge ghar kaa aa.Ngan
+pyaaraa pyaaraa nazaraanaa
+dhik.h tanaa   \threedots
+
+%
+#endindian
+\endsong
+%

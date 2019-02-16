@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{tum aasha vishvaas hamaare}% 
+\film{Subah}%
+\year{1982}%
+\starring{Smita Patil}%
+\singer{Lata}%
+\music{Hridaynath}%
+\lyrics{}%
+%
+% Contributor: Milind Bhandarkar (milind@hal.cs.uiuc.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+kaam nA jaane, dhaam naa jaane 
+jaane naa sevaa puujaa 
+jaane bas itanaa ajaan ham 
+ek binaa nahii duujaa 
+
+tum aashaa vish{}vaas hamaare 
+tum dharatii aakaash hamaare
+raamaa \threedots 
+
+daataa maataa tum ba.ndhu bhraataa ho 
+divasa raatri sa.ndhyaa prabhaat ho 
+dIpaka sUrya chandr taaraka me.n 
+tum hii jyoti prakaash hamaare 
+raamaa \threedots
+
+saa.Nso.n me.n tum aate jaate 
+ek tumhii.n se hai sab naate 
+jIvan van ke har patajha.D me.n 
+ek tumhii.n madhumaas hamaare 
+raamaa \threedots 
+
+tum hii sab me.n hai tum me.n sab 
+tum hii bhav ho ho tum hii rab 
+ashru hamaarii aa.Nkho.n me.n tum 
+tum ho to parihaas hamaare 
+raamaa \threedots 
+%
+#endindian
+\endsong
+%

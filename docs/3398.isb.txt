@@ -1,0 +1,42 @@
+% ITRANS SONG # 3398; Created on Jan 26, 2004
+%
+% From: naniwadekar (not_this_naniw@hotmail.com)
+% Date: 2002-10-11 09:16:34 PST
+%
+\startsong
+\stitle{lagan lagii hai sajan milan kii}%
+\film{Naataa}%
+\year{1955}%
+\starring{Madhubala, Abhi Bhattacharya, Chanchal, Gope, S Nazir, Kanhaiya Lal}%
+\singer{Lata}%
+\music{S Mohinder}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 11 Oct 2002
+% Comments: Raag Jaunpuri
+%    The film produced by Madhubala Ltd, Mumbai.
+%
+\printtitle
+#indian
+%
+lagan lagii hai sajan milan kii
+ba.Dhatii jaa_e lay dha.Dakan kii
+
+deke ga_ii hai rain birah kii
+aa_ii?? milan kii ho .a.a
+chhaayaa se pag pa.Dat hai.n aage
+galii balam kii o.a.ar
+pyaasii a.Nkhiyaa.N thii darshan kii
+lagan lagii hai \threedots
+
+aaj sakhii rii tere man me.n
+aramaano.n kaa raa.a.aj
+kyaa kyaa sapane dekh rahii hai
+kahe to aawe laa.a.aj
+hogii torii baat sapan kii
+lagan lagii hai \threedots
+%
+#endindian
+\endsong
+%

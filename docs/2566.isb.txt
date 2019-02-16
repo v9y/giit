@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dilaa do hame.n bhii dulhan gorii gorii}%
+\film{Ek Hi Raasta}%
+\year{1956}%
+\starring{Ashok Kumar, Sunil Dutt, Meena Kumari}%
+\singer{Asha, chorus}%
+\music{Hemant}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ba.De bhaiyaa laaye hai.n landan se chhorii
+dilaa do hame.n bhii dulhan gorii gorii
+
+joruu binaa aadhe hai.n ham
+jaane kab ho.nge puure
+sab to rachaaye shaadii
+ham hii phire laNDuure
+kahii.n kar na Daale ham dulhan kii chorii
+dilaa do hame.n bhii \threedots
+
+aa~ phuule jo dono.n gaal to mulaal ho gayaa
+apanaa to maare ra.nj ke ye haal ho gayaa
+aa~ dekhe koii baraat to ham roye zaar zaar
+dulhan kaa naam sun sun ke dil hoye beqaraar
+pa.Duu.N dekho ammaa jii pai.nyaa mai.n torii
+dilaa do hame.n bhii \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ishaq daa rog lagaa oye hoye ... jiivan ko jog lagaa ... tuu isakii jaan bachaa}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishaq daa rog lagaa oye hoye
+jiivan ko jog lagaa oye hoye
+tuu isakii jaan bachaa legaa
+ishaq daa rog lagaa \threedots
+
+kabhii ho dard yahaa.n kabhii ho dard vahaa.n oye hoye
+jabaa.n dii piir bedardii kaisii dard ho yahaa.n vahaa.n
+kabhii aisaa bhii ho jaa_egaa ko_ii itanaa mujhe ta.Dapaa_egaa
+nahii.n thaa mujhako pataa karuu.n kyaa mujhako bataa oye hoye
+mai.n ban ga_ii prem diivaanii
+karuu.n kyaa mujhe \threedots
+
+mujhe kuchh na kisii ke kahanaa thaa sach kahatii huu.N chup rahanaa thaa
+ye ka.nganaa bol gayaa bhed sab khol gayaa
+chhupaayaa laakh magar ka.ngan bhed vah khol gayaa
+sakhii puuchh zaraa baat hu_ii kab kaise kahuu.n kyaa baat hu_ii
+mai.n a.nganaa biich kha.Dii unase aa.Nkh la.Dii
+sharm se ho ga_ii paanii mai.n a.nganaa biich kha.Dii oye hoye
+ishaq daa rog lagaa \threedots
+%
+#endindian
+\endsong
+

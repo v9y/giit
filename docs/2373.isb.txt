@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kahataa hai jokar saaraa zamaanaa}%
+\film{Mera Naam Joker}%
+\year{1970}%
+\starring{Raj Kapoor, Simi Garewal, Padmini, Dharmendra, Manoj Kumar, Rishi Kapoor}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+kahataa hai jokar saaraa zamaanaa
+aadhii haqiikat aadhaa fasaanaa
+chashmaa uThaao, phir dekho yaaro
+duniyaa nayii hai, cheharaa puraanaa
+kahataa hai jokar   \threedots
+
+dhakke pe dhakkaa, rele pe relaa
+hai bhii.D itanii par dil akelaa
+Gam jab sataaye, siiTii bajaanaa
+par masakharii se dil na lagaanaa
+kahataa hai jokar   \threedots
+
+apane pe ha.Ns ke jag ko ha.Nsaayaa
+ban ke tamaashaa mele me.n aayaa
+hindu na muslim, puurab na pashchim
+mazahab hai apanaa ha.Nsanaa ha.Nsaanaa
+kahataa hai jokar   \threedots
+              
+%
+#endindian
+\endsong
+%

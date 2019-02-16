@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{taalo.n me.n nainiitaal baakii sab talaiyaa.n}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+baalam moraa aayo re pyaar kaa sa.ndesaa laayo re
+
+taalo.n me.n nainiitaal baakii sab talaiyaa.n
+aajaa muhabbat me.n naache.n taa taa thaiyaa.n
+taalo.n me.n nainiitaal \threedots
+
+rut piichhe pa.Dii hai milane kii gha.Dii hai
+dha.Dakan kah rahii hai bechainii ba.Dii hai
+chalii Tha.nDii havaa_e.n haa.N lage khushbuu ke mele
+yahaa.n ko_ii nahii.n hai mujhe baaho.n me.n le le
+are gaalo.n me.n gorii ke gaal baakii sab gala_iiyaa.n
+aajaa muhabbat me.n \threedots
+
+nahii.n aisaa diivaanaa nahii.n aisii diivaanii
+nahii.n aisaa fasaanaa ho nahii.n aisii kahaanii
+ho ko_ii maane na maane ko_ii jaane na jaane
+duniyaa se kyaa Daranaa ham aashiq puraane
+chummii me.n ik chummaa baakii sab chumaiyaa.n
+aajaa muhabbat me.n \threedots
+%
+#endindian
+\endsong
+

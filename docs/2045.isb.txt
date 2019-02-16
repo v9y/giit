@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chhaa_ii kaarii badariyaa bairaniyaa ho raam}%
+\film{Jeevan Jyoti}%
+\year{1953}%
+\starring{}%
+\singer{Lata / Asha}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+chhaa_ii kaarii badariyaa bairaniyaa ho raam
+ghan badaraa gaganavaa jhukan laagii ho
+more sajanaa bidesiyaa ko na aaye ho
+chhaa_ii kaarii badariyaa   \threedots
+
+jhulano pe gaavan kii rut aa_ii re
+ratiyaa.N jagaavan kii rut aa_ii re
+kachhu kho ke paavan kii rut aa_ii re
+more sajanaa bidesiyaa ko na aaye ho
+chhaa_ii kaarii badariyaa   \threedots
+
+jaave koii pii ko laave sakhii
+akele me.n kachhu naahi bhaave sakhii
+haay! puravaa pavan jii jalaave sakhii
+more sajanaa bidesiyaa ko na aaye ho
+chhaa_ii kaarii badariyaa   \threedots
+
+%
+#endindian
+\endsong
+%

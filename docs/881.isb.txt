@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jin raato.n kii bhor nahii.n hai.n, aaj aisii hii raat aaii}%
+\film{Door Gagan Ki Chhaaon Mein}%
+\year{1964}%
+\starring{Kishore, Supriya Chowdhury, Amit Kumar}%
+\singer{Kishore}%
+\music{Kishore}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jin raato.n kii bhor nahii.n hai
+aaj aisii hii raat aaI
+jo jis Gam me.n Duub gayaa hai
+saagar kii hai gaharAI
+
+raat ke taaro.n tum hii bataao
+merii vo ma.nzil hai kahaa.N
+paagal banakar jisake liye mai.n
+kho baiThaa huu.N dono jahaa.N
+jin raato.n \threedots
+
+raah kisii kii huii naa roshan
+jalanaa meraa bekaar gayaa
+luuT ga_ii taqadiir mujhe mai.n
+jiit ke baazii haar gayaa
+jin raato.n kii bhor nahii.n hai \threedots
+%
+#endindian
+\endsong
+%

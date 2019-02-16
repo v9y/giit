@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{hazaaro.n ra.ng badalegaa zamaanaa}%
+\film{Shirin Farhaad}%
+\year{1956}%
+\starring{Pradeep Kumar, Madhubala}%
+\singer{Rafi}%
+\music{S Mohinder}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Neha Desai
+% Editor:  
+%
+\printtitle
+#indian
+%
+hazAro.n ra.ng badalegA zamAnA
+na badalegA muhabbat kA fasAnA
+hazAro.n \threedots
+
+pighal jAte hai.n patthar mom ho kar
+lipaT jAte hai.n katare se samandar
+muhabbat jab chhe.DatI hai tarAnA
+hazAro.n \threedots
+
+muhabbat maut se bhI kyA maregI
+zamAne se muhabbat kyA DaregI
+ki isakI Thokaro.n me.n hai zamAnA
+hazAro.n \threedots
+%
+#endindian
+\endsong
+%

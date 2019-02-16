@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ho ho aahaa ... dil kii lagii kahii jaa_e naa sajanaa re}%
+\film{Anmol}%
+\year{1993}%
+\starring{Manish Koirala, Rishi Kapoor}%
+\singer{Lata}%
+\music{Ram-Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: BOL ANAMOL #11645 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ho ho aahaa \-2
+( dil kii lagii kahii jaa_e naa sajanaa re sajanaa re sajanaa
+diivaanii mai.n diivaanaa tuu diivaanaa mausam suhaanaa
+ho ho ho diivaanii mai.n diivaanaa tuu diivaanaa mausam suhaanaa ) \-2
+ho ho ho diivaanii mai.n \threedots
+
+( pyaar tujhe karatii huu.N kitanaa ye kaise samajhaa_uu.N
+paas mere tuu aa jaa tere Kvaabo.n me.n bas jaa_uu.N ) \-2
+aur ko_ii sun paa_e na sajanaa re sajanaa re sajanaa
+diivaanii mai.n diivaanaa \threedots
+
+( tan se lapeTuu.N priit mai.n terii tuu meraa aa.Nchal hai
+in aa.Nkho.n me.n bhar luu.N tujhako pyaar kaa ye kaajal hai ) \-2
+kaalii ghaTaa ab chhaa_e na sajanaa re sajanaa re sajanaa 
+diivaanii mai.n diivaanaa \threedots
+%
+#endindian
+\endsong
+

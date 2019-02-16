@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{saawan kii rut bhaaye sajanawaa}%
+\film{Vishwas}%
+\year{1943}%
+\starring{Mehtab, Sulochna Chaterji, Gulab, Surendra, Trilok Kapur}%
+\singer{Surendra Nath, Mehtab}%
+\music{Firoz Nizami}%
+\lyrics{Pt Indra}%
+%
+% Contributor: BOL ANAMOL #12276 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+me \:	( saawan kii rut bhaaye sajanawaa
+	saawan kii rut bhaaye ) \-2
+	terii galii me.n baadar chhaaye \-2
+	ku.njan mor nachaaye \-2
+	saawan kii rut bhaaye sajanawaa
+	saawan kii rut bhaaye \-2
+
+su \:	terii galii me.n ik paradesii \-2
+	aayaa hai aas lagaaye \-2
+	usakii aas me.n pyaas chhipii hai \-2
+	pyaase ko kaun bulaaye \-2
+	saawan kii ritu bhaaye sajanawaa
+	saawan kii ritu bhaaye \-2
+
+me \:	ruup\-nagar kaa lobhii\-jogii \-2
+	naino.n kaa jaal bichhaaye \-2
+su \:	wo jogii to ruup\-nagar kii \-2
+	raanii kaa gun gaaye \-2
+	saawan kii ritu bhaaye sajanawaa
+me \:	saawan kii rut bhaaye sajanawaa
+do \:	saawan kii rut bhaaye \-2
+%
+#endindian
+\endsong
+%
+

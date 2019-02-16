@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{khilate hai.n gul yahaa.N, khilake bikharane ko}%
+\film{Sharmilee}%
+\year{1971}%
+\starring{Shashi Kapoor, Rakhee}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Venkatasubramanian K G (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+khilate hai.n gul yahaa.N, khilake bikharane ko
+milate hai.n dil yahaa.N, milake bichha.Dane ko
+khilate hai.n gul yahaa.N \threedots
+
+(kal rahe naa rahe, mausam ye pyaar kaa 
+kal ruke na ruke, Dolaa bahaar kaa ) \- (2)
+chaar pal mile jo aaj, pyaar me.n guzaar de
+khilate hai.n gul yahaa.N \threedots
+
+jhiilo.n ke ho.nTho.n par, megho.n kaa raag hai
+phuulo.n ke siine me.n, Tha.nDii Tha.nDii aag hai
+dil ke aaine me.n tuu, ye samaa utaar de
+khilate hai.n gul yahaa.N \threedots
+
+pyaasaa hai dil sanam, pyaasii ye raat hai
+ho.nTho.n me dabii dabii, koii miiThii baat hai
+in lamho.n pe aaj tuu, har khushii nisaar de
+khilate hai.n gul yahaa.N \threedots
+%
+#endindian
+\endsong
+%

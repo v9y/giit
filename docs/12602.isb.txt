@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{jiine ke bahaane laakho.n hai.n jiinaa tujhako aayaa hii nahii.n}%
+\film{Khoon Bhari Maang}%
+\year{1988}%
+\starring{Rekha, Kabir Bedi, Sonu Walia, Shatrughan Sinha, Rakesh Roshan}%
+\singer{Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11640 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( jiine ke bahaane laakho.n hai.n ) \-2 jiinaa tujhako aayaa hii nahii.n
+ko_ii bhii teraa ho sakataa hai kabhii tuune apanaayaa hii nahii.n
+jiine ke bahaane \threedots
+
+kyo.n dil me.n tere aramaan nahii.n duniyaa itanii viiraan nahii.n
+har taraf ujaale hai.n phir bhii tere saath ko_ii saayaa hii nahii.n
+ko_ii bhii teraa ho \threedots
+
+kyaa Gam hai jisakaa ilaaj nahii.n kal naa thaa agar kyaa aaj nahii.n
+har Gam kaa maraham hotaa hai dil tuune dikhalaayaa hii nahii.n
+ko_ii bhii teraa ho \threedots
+
+tuu Dhuu.NDh kahii.n jo qaraar mile kisii mo.D pe bhii jo pyaar mile
+pyaase ko jaanaa pa.Dataa hai saagar chal ke aayaa hii nahii.n
+ko_ii bhii teraa ho \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ai merii jaan\-e\-vafaa maine dekhaa hai ye kyaa}%
+\film{Neeli Ankhen}%
+\year{1962}%
+\starring{Ajeet, Shakeela, Helen, Johny Walker, Raj Mehra, Baalam, Tuntun}%
+\singer{Mukesh}%
+\music{Duttaram}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10181 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ai merii jaan\-e\-vafaa maine dekhaa hai ye kyaa
+zulf chehare pe girii chaa.Nd badalii me.n chhupaa
+ai merii jaan\-e\-vafaa \threedots
+
+chalane lagii kyo.n havaa laharaa ke jhuum ke
+aa_ii hai shaayad terii zulfo.n ko chuum ke \-2
+ai merii jaan\-e\-vafaa \threedots
+
+ghuu.NghaT uThaayaa teraa ra.ngii.n bahaar ne
+tuu vo kalii hai jo khil jaa_e pyaar me.n
+saahil pe dekhaa tujhe lahare.n javaa.N hu_ii.n
+aur chhuu ke daaman teraa jaane kahaa.N ga_ii.n \-2
+ai merii jaan\-e\-vafaa \threedots
+
+tere hii dam se to aaj kii raat hasii.n
+mastii me.n Duubii fizaa lo chalii duur kahii.n
+gumasum sii baiThii hai kis haal me.n
+ulajhaa diyaa hai tujhe kis Kyaal ne \-2
+ai merii jaan\-e\-vafaa \threedots
+%
+#endindian
+\endsong
+

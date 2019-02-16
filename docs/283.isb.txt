@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bechain nazar betaab jigar}%
+\film{Yasmin}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{C Ramchandra}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+bechain nazar betAb jigar
+ye dil hai kisIkA dIvAnA hAy dIvAnA
+kab shAm ho aur vo shammA jale
+kab u.D kar pahu.nche paravAnA hAy paravAnA
+
+hai dil kA chaman khilane ke liye
+AegA koI milane ke liye
+phUlo.n se kaho tAro.n se kaho \- 2
+chupake se sajA de.n vIrAnA, hAy vIrAnA
+
+jab rAt zarA shabanam me.n ghule
+laharAI huI vo zulf khule
+nazaro.n se nazar ej bhed kahe \- 2
+dil dil se kahe ek afasAnA, hAy afasAnA
+
+ra.ngIn fizA chhAe to zarA 
+vAde pe koI Ae to zarA
+ai josh\-e\-vafA dil chIz hai kyA \- 2
+ham jAn bhI de.n de.n nazarAnA, hAy nazarAnA
+
+bechain nazar betAb jigar \threedots
+%
+#endindian
+\endsong
+%

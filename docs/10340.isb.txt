@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{dulhan se tumhaaraa milan hogaa o man tho.Dii dhiir}%
+\film{Anokhi Raat}%
+\year{1968}%
+\starring{Sanjeev Kumar, Shahida, Tarun Bose, Aruna Irani, Anwar, Mukri}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10480 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dulhan se tumhaaraa milan hogaa
+o man tho.Dii dhiir dharo
+baa.Nho.n me.n chaa.Ndii kaa badan hogaa
+o man tho.Dii dhiir dharo
+
+chaa.Nd parii hai cha.nchal hai vo terii hai chitachor
+mukha.De ko hii takate\-takate ho jaa_egii bhor
+gore tan kaa tumhe.n darashan hogaa
+o man tho.Dii dhiir dharo
+baa.Nho.n me.n chaa.Ndii \threedots
+
+vo hai merii padminiyaa aur tuu baa.Nkaa raajapuut
+gaz bhar kii chhaatii rakhataa hai dil bhii rakh majabuut
+nayano.n\-nayano.n me.n raN hogaa
+o man tho.Dii dhiir dharo
+dulhan se tumhaaraa \threedots
+%
+#endindian
+\endsong
+

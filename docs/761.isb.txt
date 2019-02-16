@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{in havaao.n me.n, in fizaao.n me.n tujhako meraa pyaar pukaare}% 
+\film{Gumraah}%
+\year{1963}%
+\starring{Sunil Dutt, Mala Sinha, Ashok Kumar}%
+\singer{Mahendra Kapoor, Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor:  Reeta Sinha (librs@unix.cc.emory.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% (1st 2 stanzas only) 
+in havaao.n me.n, in fizaao.n me.n tujhako meraa pyaar pukaare 
+aajaa aajaa re, tujhako meraa pyaar pukaare 
+
+ruk nA paauu.n mai.n, khichatii aauu.n mai.n, dil ko jab diladaar pukaare 
+aajaa aajaa re tujhako meraa pukaare 
+
+tujhase ra.ngat, tujhase mastii in jharano me.n, in phuulo.n me.n 
+tere dam se merI hastii jhuule chaahat ke jhuulo.n me.n 
+machalii jaaye.n shokh uma.nge, do baaho.n kA haar pukaare 
+aajaa aajaa re 
+
+dil me.n tere dil kii dha.Dakan, aa.Nkh me.n terI aa.Nkh kA jaadu 
+lab par tere lab ke sa.ng, saa.Ns me.n terI saa.Ns kii khushabuu 
+zulfo.n kA har pe.nch bulaaye, A.Nchal kA har taar pukaare 
+aajaa aajaa re, tujhako meraa pyaar pukaare 
+
+% Although the mood shifts, I find the "sad" version just a tad nicer...
+% (1st 2 stanzas again) !<
+in havaao.n me.n, in fizaao.n me.n tujhako meraa pyaar pukaare 
+aajaa aajaa re, tujhako meraa pyaar pukaare 
+
+ruk nA pAuu.n mai.n, khi.nchatI aauu.n mai.n 
+dil ko jab diladaar pukaare 
+
+lauT rahii hai.n merI sadAye.n diivaro.n se sar Takaraa ke 
+haath paka.D kar chalane vaale ho gaye ruKasat haath chhu.Daake 
+unako kuchh bhI yaad nahii.n hai, ab koI sau baar pukaare 
+
+ilm nahii.n thA itanI jal{}dii khatam fasaane ho jaaye.nge 
+tum begaane ban jaaoge, ham diivaane ho jaaye.nge 
+kal baaho.n kA haar milaa thA, aaj ashko.n kA haar pukaare 
+aajaa aajaa re, tujhako meraa pyaar pukaare 
+%
+#endindian
+\endsong
+%

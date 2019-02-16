@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{phailii hai Kabar aaj ye}%
+\film{Maan}%
+\year{1954}%
+\starring{Ajit, Chitra, Jagirdar, Kamlesh Kumari}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Kaif Bhopali}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 16 Nov 2004
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+o, phailii hai Kabar
+phailii hai Kabar aaj ye phuulo.n kii zubaanii
+aa_ii hai javaanii sakhii aa_ii hai javaanii
+o, phailii hai Kabar \threedots
+
+maaluum nahii.n kisakii ye dhun aaTh pahar hai, maaluum nahii.n
+aahaT pe nazar hai hare kaaGaz pe nazar hai \-2
+dil bhii hai diivaanaa merii aa.Nkhe.n bhii diivaanii \-2 
+merii aa.Nkhe.n bhi diivaanii
+ho, phailii hai Kabar \threedots
+
+milate hii nazar unase mere 
+mere dil ka dha.Dakanaa o mere dil ka dha.Dakanaa
+aa.Nkho.n ka jhapakanaa merii aa.Nkho.n ka jhapakanaa
+maaluum na ho jaa_e kisii ko ye kahaanii, 
+kisii ko ye kahaanii o kisii ko ye kahaanii
+ho, phailii hai Kabar \threedots
+
+%
+#endindian
+\endsong

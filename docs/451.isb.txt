@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{des parades, are khushiyaa.N, yahii.n pe, mile.nge haa.N mere}%
+\film{Des Pardes}%
+\year{1978}%
+\starring{Dev Anand}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: Yashesh Bhatia 
+% Editor:  
+%
+\printtitle
+#indian
+%
+des parades,
+are khushiyaa.N, yahii.n pe, mile.ngI haa.N mere
+apanaa hai apanaa, ye des parades
+
+vahii puraane hai.n
+vahii puraane hai.n, saare phasaane, nayaa hai lekin jahaa.N
+are raste naye hai.n, ye manzil naI hai, 
+lekin vahii aasamaa.N
+teraa naa meraa, apanaa hai apanaa 
+ye des parades
+
+akelaa nahii.n huu.N mai.n
+akelaa nahii.n huu.N mai.n, tere binaa, sa.nga mere terii yaad hai
+milakara khile.n phuul hara ra.nga ke, basa yahii merii phariyaad hai
+sapanaa hai sapanaa
+ye des parades\threedots
+%
+#endindian
+\endsong
+%

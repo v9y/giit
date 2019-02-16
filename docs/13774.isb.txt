@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mai.n terii tum mere ho aashiqii kaa ye samaa hai jo hotaa hai hone do}%
+\film{Raam Shaastra}%
+\year{1995}%
+\starring{Jackie, Manisha, Aditya, Deepti Bhatnagar, Mukesh Rishi, Dara Singh}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o mai.n terii tum mere ho aashiqii kaa ye samaa hai
+jo hotaa hai hone do
+o mai.n terii tum mere ho \threedots
+
+kuchh hu_aa
+kuchh kuchh hu_aa
+kyaa hu_aa
+kyaa pataa
+le ii huu huu huu
+laa laa laa
+chorii chorii chupake chupake aa ke
+le chale kahaa.n mujhe u.Daake
+jaanuu.n tere dil ko churaa ke
+le jaa_e.nge siine se lagaa ke
+o mai.n terii tum mere ho \threedots
+
+chhuune de
+chhuu ga_e naa
+kyaa yahaa.n
+haa.N haa.N yahaa.n
+terii aa.Nkhe.n bole.n yuu.n gaur se
+terii saa.Nse bole.n yuu.n rimajhim
+kuchh naa soche.n dekho zaraa
+pyaaraa mausam hai kuchh hone do
+o mai.n terii tum mere ho \threedots
+
+%
+#endindian
+\endsong
+
+

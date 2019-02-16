@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ye bahakii bahakii chaal ... aisaa lagataa hai mujhe pyaar ho gayaa hai}%
+\film{Ab Insaaf Hogaa}%
+\year{1994}%
+\starring{Rekha, Mithun, Farooque Shaikh, Prem Chopra, Raza Murad, Parikshit}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye bahakii bahakii chaal ye bikhare bikhare baal
+teraa bhii ye haal meraa bhii ye haal
+aise kaise ye dil bekaraar ho gayaa hai
+aisaa lagataa hai mujhe pyaar ho gayaa hai
+
+nii.nd nahii.n aatii mujhe raato.n me.n
+bas do chaar mulaaqaato.n me.n
+tere binaa jiinaa dushvaar ho gayaa
+aisaa lagataa hai mujhe \threedots
+
+bas me.n meraa dil aaj nahii.n
+ab ko_ii isakaa ilaaj nahii.n
+tiir dil ke aar paar ho gayaa
+aisaa lagataa hai mujhe \threedots
+%
+#endindian
+\endsong
+

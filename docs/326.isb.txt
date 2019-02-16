@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{cha.ndaa hai tuu, meraa suuraj hai tuu}%
+\film{Aradhana}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Aug  9 1995 
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+(cha.ndaa hai tuu, meraa suuraj hai tuu
+ o merii aa.Nkho.n kaa taaraa hai tuu) \-3
+jiitii huu.N mai.n bas tujhe dekhakar
+is TuuTe dil kaa sahaaraa hai tuu
+
+tuu khele khel ka_ii, meraa khilonaa hai tuu \-2
+jisase ba.Ndhii har aashaa merii
+meraa vo sapanaa salonaa hai tuu
+nanhaa saa hai kitanaa su.ndar hai tuu
+chhoTaa saa hai kitanaa pyaaraa hai tuu
+cha.ndaa hai tuu, meraa suuraj hai tuu
+
+munne tuu khush hai ba.Daa, tere guDDe kii shaadii hai aaj \-2
+mai.n vaarii re mai.n balihaarii re
+ghuu.NghaT me.n gu.Diyaa ko aatii hai laaj
+yuu.Nhii kabhii hogii shaadii terii
+duulhaa banegaa ku.nvaaraa hai tuu
+cha.ndaa hai tuu, meraa suuraj hai tuu
+
+purvaaii van me.n u.De, pa.nchhii chaman me.n u.De \-2
+raam kare kabhii ho ke ba.Daa
+tuu banake baadal gagan me.n u.De
+jo bhii tujhe dekhe vo ye kahe
+kis maa.N kaa aisaa dulaaraa hai tuu
+cha.ndaa hai tuu, meraa suuraj hai tuu
+%
+#endindian
+\endsong
+%

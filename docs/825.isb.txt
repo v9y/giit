@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jab jaag uThe aramaa.n, to kaise nii.nd aaye}%
+\film{Bin Baadal Barsaat}%
+\year{1963}%
+\starring{Biswajeet, Asha Parekh}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jab jaag uThe aramaa.n to kaise nii.nd aae
+ho ghar me.n hasii.n mehamaa.n to kaise nii.nd aae, nii.nd aae
+jab jaag uThe aramaa.n to kaise nii.nd aae
+
+(ye raat ye dil kii dha.Dakan ye ba.Dhatii huii betaabii   
+ik jaam kii khaatir jaise bechain ho koii sharaabii ) \- (2)
+sholo.n me.n girii ho jaan to kaise nii.nd aae
+jab jaag uThe aramaa.n to kaise nii.nd aae
+
+(nazadiik bahut hai ma.nzil phir bhii hai Gazab kii duurii 
+ai dil ye tuu hii batalaa de ye kaun sii hai majabuurii ) \- (2)
+jab soch me.n ho inasaa.n to kaise nii.nd aae
+ho ghar me.n hasii.n mehamaa.n to kaise nii.nd aaye, nii.nd aae
+jab jaag uThe aramaa.n to kaise nii.nd aae
+%
+#endindian
+\endsong
+%

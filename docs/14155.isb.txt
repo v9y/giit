@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{apanii ulfat pe zamaane kaa ... to kitanaa achchhaa hotaa}%
+\film{Sasural}%
+\year{1961}%
+\starring{Rajendra Kumar, B Saroja Devi, Mehmood, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10909 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	apanii ulfat pe zamaane kaa na paharaa hotaa
+	to kitanaa achchhaa hotaa \-2
+la \:	pyaar kii raat kaa ko_ii na saveraa hotaa
+	to kitanaa achchhaa hotaa \-2
+mu \:	apanii ulfat pe \threedots
+
+	paas aakar bhii bahut duur bahut duur rahe
+	ek bandhan me.n ba.Ndhe phir bhii to majabuur rahe
+	merii raaho.n me.n na ulajhan kaa a.Ndheraa hotaa
+	to kitanaa achchhaa hotaa \-2
+
+la \:	dil mile aa.Nkh milii pyaar na milane paa_e
+	baaGabaa.N kahataa hai do phuul na khilane paa_e.N
+	apanii ma.nzil ko jo kaa.NTo.n ne na gheraa hotaa
+	to kitanaa achchhaa hotaa \-2
+
+mu \:	ajab sulagatii hu_ii laka.Diyaa.N hai.n jag vaale
+la \:	mile.n to aag ugal de.n kaTe.n to dhu_aa.N kare.n
+do \:	apanii duniyaa me.n bhii sukh chain kaa pheraa hotaa
+	to kitanaa achchhaa hotaa \-2
+	apanii ulfat pe \threedots
+%
+#endindian
+\endsong
+

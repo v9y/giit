@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{bachcho.n tum taqadiir ho kal ke hindustaan kii}%
+\film{Didi}%
+\year{1959}%
+\starring{Sunil Dutt, Shobha Khote, Jaishri, Sajjan, Om Prakash, Lalita Pawar}%
+\singer{Rafi, Asha}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10289 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	bachcho.n tum taqadiir ho kal ke hindustaan kii
+	baapuu ke varadaan kii neharuu ke aramaan kii
+	bachcho.n tum taqadiir \threedots
+
+	aaj ke TuuTe kha.NDaharo.n par tum kal kaa desh basaa_oge
+	jo ham logo.n se na hu_aa vo tum kar ke dikhalaa_oge
+	( tum nanhii.n buniyaade.n ho ) \-2 duniyaa ke na_e vidhaan kii
+	bachcho.n tum taqadiir \threedots
+
+aa \:	diin\-dharam ke naam pe ko_ii biij phuuT kaa bo_e naa
+	jo sadiyo.n ke baad milii hai vo aazaadii kho_e naa
+do \:	( har mazahab se uu.Nchii hai ) \-2 qiimat insaanii jaan kii
+	bachcho.n tum taqadiir \threedots
+
+ra \:	phir ko_ii jayachand na ubhare phir ko_ii jaafar na uThe
+	Gairo.n kaa dil Kush karane ko apano.n par kha.nzar na uThe
+do \:	( dhan\-daulat ke laalach me.n ) \-2 tauhiin na ho iimaan kii
+	bachcho.n tum taqadiir \threedots
+
+aa \:	naarii ko is desh ne devii kah kar daasii jaanaa hai
+	jisako kuchh adhikaar na ho vo ghar kii raanii maanaa hai
+do \:	( tum aisaa aadar mat lenaa ) \-2 aa.D ho jo apamaan kii
+	bachcho.n tum taqadiir \threedots
+
+	rah na sake ab is duniyaa me.n yug saramaayaadaarii kaa
+	tumako jha.nDaa laharaanaa hai mehanat kii saradaarii kaa
+	( tum chaaho to ) \-2 badal ke rakh do qismat har insaan kii
+	bachcho.n tum taqadiir \threedots
+%
+#endindian
+\endsong
+

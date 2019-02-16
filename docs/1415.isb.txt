@@ -1,0 +1,117 @@
+%
+\startsong
+\stitle{pannaa kii tamannaa hai ki hiiraa mujhe mil jaaye}%
+\film{Heera Panna}%
+\year{1973}%
+\starring{Dev Anand, Zeenat Aman}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% (dialogue before the song)
+% Dev:	Sooraj namashkar kar raha hai aapko, zara hat toh
+%	hathayiye.....
+%	Chehra choomne deejiye apna!
+%	*pause*
+%	*laughingly* Sooraj ki sunehri kirnon ko!
+%
+% Zeenat: *sigh of releif* Mmmhmhm..
+%
+% Dev:	Aapko kuch maloom bhi hai ki aap kahan hain,  
+%	kahan se aa rahi hain, kahan jaayengi, raat ko kya 
+%	hua, kaise hua, kyon hua?
+%
+% Zeenat: Aapki pistol kahan hai?
+%
+% Dev:	Meri jeb mein!
+%	
+% Zeenat: Aur..aur woh aadmi bhaag gaya tha na raat ko?
+%
+% Dev:	Abhi tak toh nahin aaya wapas, lekin yeh toh batayiye 
+%	ki mujh mein aisi kya gasoosiyat(?) hai ki aap mere 
+%	saath akeli aane ko taiyaar ho gayin aur woh shaaks 
+%	jis se aapki jaan pehchaan bhi hai...
+%
+% Zeenat: Sach boloon?
+%
+% Dev:	Jhooth boliyega toh utar doonga gaadi se, peidal
+%	chalke jana padega bangalore ki taraf!
+%
+% Zeenat: Isliye ki aap ke paas ek khaas cheez hai jo uske
+%	paas nahin!
+%
+% Dev:	Kya?
+%
+% Zeenat: Heera!
+%
+% Dev:	Bahar se kaise baamp liya aapne, woh toh andar hai!
+%	Aur thitholna padega aapko..
+%	Heera heere ka dil rakhta hai yeh sahi hai, lekin
+%	is waqt toh dil bilkul gayab hai..
+%	andar gehri gehraiyon mein guskar bhi aap usey dhoond na
+%	paayengi.  Kisi ko diya tha ik baar, aur wapas lout 
+%	ke nahin aaya..
+%
+% Zeenat:	Aur agar hum dhoond nikale?
+%
+% (Song begins)
+%
+lataa:	pannaa kii tamannaa hai ki hiiraa mujhe mil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+ho \threedots pannaa kii tamannaa hai ki hiiraa mujhe mil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+%    hai...lo........rararu roooo..
+%    hai...lo........tarara roooo...aa...
+%    panna ki tamanna hai ki hiira mujhe mil jaaye
+%    chahe meri jaan jaaye, chahe mera dil jaaye
+
+kishor:	hiiraa to pahale hii kisii aur kaa ho chukaa \- 2
+kisii kii, madabharii, aa.Nkho.n me.n kho chukaa
+yaado.n kii bas se dhuul ban chukaa dil kaa phuul
+lataa:	siine pe mai.n rakh duu.N jo haath phir khil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+ho \threedots pannaa kii tamannaa hai ki hiiraa mujhe mil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+
+lataa:	dil to dete hai.n lete hai.n log ka_ii baar \- 2
+huaa kyaa, kisii se, kiyaa thaa, tumane pyaar
+yaado.n ko chho.D de, vaado.n ko to.D de
+kishor:	apanii jagah se kaise parabat hil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+
+%lataa:	la lalalalalalalala la la la la la la la...
+%kishor:	mhmmmmm......mhmmmmhmmmm..lala la la la....
+kishor:	bhuulaa naa mere dil ko kabhii jis kaa khayaal \- 2
+ho sake, to use, mere dil se tuu nikaal
+lataa ## (laughs) ##:
+naa karuu.N mai.n ye kaam to nahii.n meraa naam    \- 2
+kishor:	baato.n se ye zakhme\-jigar kaise sil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+lataa: ho \threedots pannaa kii tamannaa hai ki hiiraa mujhe mil jaaye
+chaahe merii jaan jaaye chaahe meraa dil jaaye
+%kishor:	hoi...lo........tarara roooo...
+%    hoi...lo........tarara roooo...
+%
+% both simultaneously:
+%kishor:	la la la la .....
+%lata:	hiira hiira  hiira hiira
+%    hiira hiira  hiira hiira
+%    la la la la .....
+%kishor:	la la la la ....
+%lataa:   hiira hiira  hiira hiira
+%    hiira hiira  hiira hiira
+%    la la la la .....
+%
+#endindian
+\endsong
+%

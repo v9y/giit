@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{taubaa\-taubaa kyaa hogaa honaa hai jo}%
+\film{Mr. Natwarlaal}%
+\year{1979}%
+\starring{Amitabh, Rekha, Rajni Sharma, Amjad Khan, Kader Khan}%
+\singer{Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11599 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+taubaa\-taubaa kyaa hogaa honaa hai jo vo hogaa honaa hai jo ho jaane do
+aane vaalaa aa_egaa jaane vaalaa jaa_egaa tum naa maano to jaane do \-2
+
+jaane kisakii baat karuu.N mai.n jaane kisakaa naam luu.N
+tho.Dii der ruko mai.n dhak\-dhak karate dil ko thaam luu.N
+( dhak\-dhak ) \-3 
+meraa dil hai diivaanaa diivaano.n kaa diivaanaa diivaane ko samajhaane do
+aane vaalaa aa_egaa \threedots
+
+aa aa haa haa o ho ho
+
+mai.n bebas huu.N tere bas me.n mujhako ye ikaraar hai
+par ye bulabul kab u.D jaa_e ko_ii aitabaar hai
+ik havaa kaa mai.n jho.nkaa de jaa_uu.Ngii mai.n dhokhaa
+aisaa mauqaa to aane do
+aane vaalaa aa_egaa \threedots
+
+tumane sochaa hogaa mai.n aurat huu.N mai.n kamazor huu.N
+mai.n ghar me.n kuchh aur huu.N baahar mai.n kuchh aur huu.N
+mai.n hasiinaa tum Daakuu mai.n shiishaa tum patthar
+shiishaa patthar Takaraane do
+aane vaalaa aa_egaa \threedots
+%
+#endindian
+\endsong
+

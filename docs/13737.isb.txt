@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{raajaa chalo akele me.n}%
+\film{Raajaaji}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aahaa aahaa ha_iiyaa aahaa aahaa ha_iiyaa
+raajaa chalo akele me.n
+baj gayaa tabalaa tabele me.n
+pha.ns ga_ii jaan jhamele me.n
+baj gayaa tabalaa \threedots
+
+ho aaj sajan milane kii mast gha.Dii hai
+raat ba.Dii chhoTii baat ba.Dii hai
+phuul sabhii bikhare hai.n TuuTii la.Dii hai
+hamako jahaa.n milanaa vahaa.n bhai.ns kha.Dii hai
+ai raajaa chalo \threedots
+
+jhumarii talaiyaa nainiitaal chale.nge.n
+shimalaa chale.nge yaa bhopaal chale.nge
+aise bhalaa birahaa me.n kaahe jale.n ham
+aa_o kahii.n chorii se bhaag chale.n ham
+pha.ns ga_ii jaan \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jaane kyaa tuune kahii jaane kyaa maine sunii}%
+\film{Pyaasa}%
+\year{}%
+\starring{Guru Dutt, Waheeda Rehman, Rehman, Mala Sinha}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: 
+% Editor: Satish Subramanian (subraman@cs.umn.edu)
+%
+\printtitle
+#indian
+%
+jaane kyaa tuune kahii
+jaane kyaa maine sunii
+baat kuchh ban hii gayii
+jaane kyaa tUne kahii \threedots
+
+sanasanaahaT sii huii
+tharatharaahaT sii huii
+jaag uThe khvaab kaI
+baat kuchh ban hii gayii
+jaane kyaa tUne kahii \threedots
+
+nain jhuk jhuk ke uThe
+paa.Nv ruk ruk ke uThe
+aa gayii jaan na_ii
+baat kuchh ban hii gayii
+jaane kyaa tUne kahii \threedots
+
+zulf shaane pe mu.De
+ek khushabuu sii u.De
+khul gaye raaz ka_ii
+baat kuchh ban hii gayii
+jaane kyaa tUne kahii \threedots
+%
+#endindian
+\endsong
+%

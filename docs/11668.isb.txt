@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mai.n tere gale kii maalaa}%
+\film{Gramophone Singer}%
+\year{1938}%
+\starring{Surendra, Bibbo, Prabha, Bhudo Adwani}%
+\singer{Surendra Nath, Bibbo}%
+\music{Anil Biswas}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12268 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+su \:	mai.n tere gale kii maalaa \-6
+
+bi \:	tuu saagar mai.n sariitaa \-2
+	tuu kavi mai.n kaviitaa
+	tuu saagar mai.n sariitaa
+	tuu kavi mai.n kaviitaa
+
+su \:	tuu merii nazar kii jwaalaa
+	( tuu merii nazar kii jwaalaa
+	mai.n tere gale kii maalaa ) \-2
+
+bi \:	mai.n tere gale kii maalaa \-2
+do \:	mai.n tere gale kii maalaa \-2
+
+su \:	diipak ban sansaar jalaa de \-2
+	aaG lagaa de aaG lagaa de \-2
+	diipak ban sansaar jalaa de \-2
+
+bi \:	ha.Ns aur ha.Ns kar prem sikhaa de \-2
+	prem sikhaane waalaa
+	tuu prem sikhaane waalaa
+	mai.n tere gale kii maalaa \-2
+su \:	mai.n tere gale kii maalaa \-2
+do \:	mai.n tere gale kii maalaa \-2
+%
+#endindian
+\endsong
+%
+

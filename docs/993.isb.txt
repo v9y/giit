@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ta.Dap ai dil ta.apane se zaraa aaraam aataa hai}%
+\film{Shaan}%
+\starring{1950}%
+\singer{Suraiyya}%
+\music{Hansraj Behl}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ta.Dap ai dil ta.apane se zaraa aaraam aataa hai
+ki lab par har ta.Dap ke saath unakaa naam aataa hai
+
+jise sun kar merii duniyaa khushii se jhuum uThatii thii
+na vo aavaaz aatii hai na vo paiGaam aataa hai
+
+tujhe mai.n kyaa bataa_uu.N kis tarah tujh ko ye samajhaa_uu.N
+tere aane se is dil ko ba.Daa aaraam aataa hai
+
+lagaa le zor ye duniyaa na badalegii vafaa apanii
+badal jaaye vafaa to ishq par ilzaam aataa hai
+
+%
+#endindian
+\endsong
+%

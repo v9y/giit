@@ -1,0 +1,38 @@
+% ITRANS SONG
+
+\startsong
+\stitle{nigaaho.n ne phe.nkaa hai pa.nje pe chhakkaa}%
+\film{Jaali Note}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Anjaan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+aa \:	nigaaho.n ne phe.nkaa hai pa.nje pe chhakkaa \-2
+	balam teraa\-meraa hu_aa pyaar pakaa
+ra \:	muhabbat me.n dil ko lagaa aisaa dhakkaa \-2
+	la.Dii aa.Nkh mai.n rah gayaa hakkaa\-bakkaa
+aa \:	nigaaho.n ne phe.nkaa hai pa.nje pe chhakkaa
+
+ra \:	ghaTaa_o.n ke ghuu.NghaT me.n chandaa chhupaaye
+	labo.n par chamak bijaliyo.n kii sajaaye \-2
+	mere dil me.n aise qadam tuune rakhaa \-2
+	la.Dii aa.Nkh mai.n rah gayaa hakkaa\-bakkaa
+aa \:	nigaaho.n ne phe.nkaa hai pa.nje pe chhakkaa
+
+	muqaddar ho raazii to duniyaa bhii raazii
+	muhabbat hai kyaa hai ye sab pattebaazii \-2
+	tere haath hai aaj qisamat kaa yakkaa \-2
+	balam teraa\-meraa hu_aa pyaar pakaa
+ra \:	muhabbat me.n dil ko lagaa aisaa dhakkaa \-2
+
+% the version I heard ends here abruptly.
+
+#endindian
+\endsong

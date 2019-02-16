@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tum ne mujh se prem jataa kar}%
+\movie{Wapas}%
+\year{1943}%
+\starring{Asit Baran, Bharati Devi}%
+\singer{Asit Baran}%
+\music{R C Boral}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator:
+% Date: Dec 11, 2000
+% Credits: Urzung Khan
+% Comments: Three lyricsts in this movie: Pt Bhushan,
+% Akhtar Chughtai, Zakir Hussain
+%
+\printtitle
+#indian
+%
+ 
+tum ne mujh se prem jataa kar
+duniyaa se begaanaa kiyaa
+dil thaa ek sukh duHkh kaa saathii
+us ko bhii diivaanaa kiyaa
+tum ne \threedots
+ 
+dil kaa shiishaa naazuk shiishaa
+Thes lagii bas chuur hu_aa
+biitii jo kuchh mujh par biitii
+logo.n ne afasaanaa kiyaa
+tum ne \threedots
+ 
+haa aa aa aa
+
+tum se jo us din aa.Nkh lagii
+ab tak na hamaarii aa.Nkh lagii
+da.rd kaa saudaa mol liyaa
+sukh chain tumhe.n nazaraanaa kiyaa
+tum ne \threedots
+
+%
+#endindian
+\endsong
+%
+

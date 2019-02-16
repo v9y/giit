@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ik ghar banaauu.ngaa, tere ghar ke saamane}%
+\film{Tere Ghar Ke Saamne}%
+\year{1963}
+\starring{Dev Anand, Nutan}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor:  Atish Sanyal (asanyal@worldbank.org)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: Dev is getting drunk; Nutan appears in glass.
+%           Trick cinematography is great, especially for a 1960s film!
+\printtitle 
+#indian
+%
+dev  : chaahe aasamaan TuuT pa.De
+       chaahe dharatii phuuT jaaye
+       chaahe hastii hI kyo.n na miT jaaye
+       phir bhii mai.n \threedots
+nUtan: phir bhii mai.n?
+
+rafii : tere ghar ke saamane
+       ik ghar banaauu.ngaa, tere ghar ke saamane
+       duniyaa basaauu.ngaa, tere ghar ke saamane
+       ik ghar banaauu.ngaa, tere ghar ke saamane
+
+lataa : ghar kaa banaanaa koii, aasaan kaam nahii.n
+       duniyaa basaanaa koii, aasaan kaam nahii.n
+rafii : dil me.n vafaaye.n ho.n to, tuufaa.n kinaaraa hai
+       bijalii hamaare liye, pyaar kaa ishaaraa hai
+       tan man luTaauu.ngaa, tere ghar ke saamane
+       duniyaa basaauu.ngaa, tere ghar ke saamane
+       ik ghar banaauu.ngaa, tere ghar ke saamane
+
+lataa : kahate hai.n pyaar jise, dariyaa hai aag kaa
+       yaa phir nashaa hai koii, jiivan ke raag kaa
+rafii : dil me.n jo pyaar ho to, aag bhii phuul hai
+       sachchii lagan jo ho to, parbat bhii dhuul hai
+       taare sajaauu.ngaa, tere ghar ke saamane
+       duniyaa basaauu.ngaa, tere ghar ke saamane
+       ik ghar banaauu.ngaa, tere ghar ke saamane
+
+lataa : kaa.nTo.n bhare hai.n lekin, chaahat ke raaste
+       tum kyaa karoge dekhe.n, ulafat ke vaaste
+rafii : ulafat me taaz chhuuTe, ye bhii tumhe.n yaad hoga
+       ulafat me taaz bane, ye bhii tumhe.n yaad hoga
+       mai.n bhii kuchh banaauu.ngaa
+lataa  : huu.N
+rafii : tere ghar ke saamane
+lataa : dekhe.n
+rafii : duniyaa basaauu.ngaa, tere ghar ke saamane
+       ik ghar banaauu.ngaa, tere ghar ke saamane
+%
+#endindian
+\endsong
+%

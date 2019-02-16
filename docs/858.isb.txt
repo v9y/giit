@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jhukatii ghaTaa gaatii havaa sapane jagaae}%
+\film{Dhool Ka Phool}%
+\year{}%
+\starring{Ashok Kumar, Rajendra Kumar, Mala Sinha, Nanda}%
+\singer{Asha, Mahendra Kapoor}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+jhukatii ghaTaa gaatii havaa sapane jagaae
+nanhaa saa dil meraa machal\-machal jaae
+
+1) mahake hue dahake hue mast nazaare
+nikhare hue bikhare hue ra.ng ke dhaare
+aaj pavan ho ke magan hamako bulaae, jhukatii \threedots
+
+ravaanA hai chhotii sii kashtii havaao.n ke rukh par
+nadii ke saaz pe mallaah giit gaataa hai
+tumhaaraa jism har ik lahar ke jhakole se
+o merii shariir nigaaho.n me.n jhuul jaataa hai
+
+2) jism meraa jaan bhii merii tere liye hai
+pyaar bharii duniyaa sajii tere liye hai
+aa.Nkho.n me.n chhaae tere jalavo.n ke saae, jhukatii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{mai.n unhe.n chhe.Duu.N aur kuchh na kahe.n}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Saigal}%
+\music{}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+mai.n unhe.n chhe.Duu.N aur kuchh na kahe
+chal nikalate jo may piye hote
+
+kahar ho yaa balaa ho, jo kuchh ho
+kaash ki tum mere liye hote
+
+merii qisamat me.n Gam gar itanaa thaa
+dil bhii yaa rab, ka_ii diye hote
+
+aa hii jaataa vo raah par Gaalib
+koii din aur bhii jiye hote
+%
+#endindian
+\endsong
+%

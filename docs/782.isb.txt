@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaaduu terii nazar, khushabuu teraa badan}%
+\film{Darr}%
+\year{}%
+\starring{Shahrukh Khan, Juhi Chawla, Sunny Deol, Anupam Kher}%
+\singer{Udit Narayan}%
+\music{Shiv-Hari}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Deepu, Avinash Chopde (avinash@acm.org)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+	jAdU terI nazar, khushabU terA badan (2)
+	tU hA.N kar yA nA kar (2)
+	tU hai merI kiran (2)
+	jAdU terI nazar \threedots
+	
+	(mere khvAbo.N kI tasvIr hai tU 
+	bekhabar merI taqadIr hai tU  ) \- 2
+	tU kisI aur kI ho nA jAnA
+	kuchh bhI kar jAU.NgA mai.N dIvAnA
+	tU hA.N kar yA \threedots
+	
+	(fAsale aur kam ho rahe.n hai.N 
+	dUr se pAs ham ho rahe.n hai.N  ) \- 2
+	mA.Ng lU.NgA mai.N tujhe AsamA.N se
+	chhIn lU.NgA tujhe is jahA.N se
+	tU hA.N kar yA \threedots
+	
+%
+#endindian
+\endsong
+%

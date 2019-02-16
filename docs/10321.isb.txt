@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{shamaa jalii paravaanaa aayaa}%
+\film{Ambar}%
+\year{1952}%
+\starring{Nargis, Raj Kapoor, Agha, Vipin Gupta, Ramesh Sinha, Cukoo, Helen}%
+\singer{Rafi, Lata}%
+\music{Gulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10197 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	shamaa jalii paravaanaa aayaa shamaa jalii \-2
+	( ho pyaar kii aag me.n jal jaane ko
+	aaj ko_ii diivaanaa aayaa ) \-2 shamaa jalii
+la \:	ho shamaa jalii paravaanaa aayaa shamaa jalii \-2
+	( o aa.Nkh se nikale Kushii ke aa.Nsuu
+	zubaa.N pe ik afasaanaa aayaa ) \-2 shamaa jalii
+do \:	ho shamaa jalii paravaanaa \threedots
+
+ra \:	( duniyaa me.n do dilavaalo.n kaa
+	mil ke bichhu.Danaa khel nahii.n hai haay khel nahii.n hai ) \-2
+la \:	( jiivan bhar kaa sa.ng hai apanaa
+	chaar dino.n kaa mel nahii.n hai ) \-2
+ra \:	ho lauT ke phir mahafil me.n terii
+	dekh teraa mastaanaa aayaa shamaa jalii
+do \:	ho shamaa jalii paravaanaa \threedots
+
+la \:	( ham bhii jale.n paravaane banakar
+	hamako sikhaa do apanii adaa_e.N ) \-2
+ra \:	( tum kyaa jaano aag paraa_ii
+	ho na sake.ngii tumase vafaa_e.N ) \-2
+la \:	( ho hamane jo phuu.Nkaa tan\-man apanaa
+	tabhii tumhe.n jal jaanaa aayaa ) \-2 shamaa jalii
+do \:	ho shamaa jalii paravaanaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{bataa mujhako sanam mere tujhe kaisii lagatii huu.N}%
+\film{Divyashakti/ Divine Strength}%
+\year{1993}%
+\starring{Ajay Devgan, Raveena, Amrish, Satyen, Shafi, Aloknath, Natasha}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bataa mujhako sanam mere tujhe kaisii lagatii huu.N
+ek se lekar das tak ##number one## hai tuu
+##do you love me? I love you.##
+
+tujhase pahale naa ko_ii aayaa merii zi.ndagii me.n sanam
+ko_ii bhii dil me.n naa samaayaa tujhe tere rab kii kasam
+mujhe tere binaa nahii.n rahanaa hai
+saarii duniyaa se yahii kahanaa hai
+ek se lekar das tak \threedots
+
+maine dekhaa naa kabhii bhii tere jaisaa hasii.n javaa.n
+merii jaa.n tuu jaan\-e\-jaa.n tuu dekhatii huu.N bas tere khvaab
+terii hii yaado.n me.n khoyaa rahataa huu.N
+mai.n bhii logo.n se yahii kahataa huu.N
+ek se lekar das tak \threedots
+%
+#endindian
+\endsong
+

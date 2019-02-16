@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{duniyaa mujhase kahatii hai ki piinaa chho.D de}%
+\film{Kahaani Qismat ki}%
+\year{1973}%
+\starring{Dharmendra, Rekha}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11216 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+duniyaa mujhase kahatii hai ki piinaa chho.D de \-2
+ye kyuu.N nahii.n kahatii zaalim jiinaa chho.D de
+kyaa samajhe ye duniyaa kyaa jaane ye duniyaa \-2
+
+kitanaa mushqil hai ye zindagii kaa safar
+maut aa.Nkhe.n dikhaatii hai har mo.D par
+jag se ghabaraakar mai.n jo sharaab na pii_uu.N
+to kah do mere dosto mai.n kaise jii_uu.N
+duniyaa mujhase kahatii \threedots
+
+merii behoshiyo.n ko na ilzaam do \-2
+ho sake to mujhe ek aur jaam do
+mere din raat piine me.n ik raaz hai
+mere marane me.n jiine kaa andaaz hai
+duniyaa mujhase kahatii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{a.nt nahii.n aur a.ng nahii.n ... sa.ndhyaa}%
+\film{Sandhya}%
+\year{2003}%
+\starring{Jackie Shroff, Raveena Tandon}%
+\singer{Zubin Garg}%
+\music{Anand Raaj Anand}%
+\lyrics{Shaheen Iqbal}%
+%
+% Contributor: BOL ANAMOL #11767 [V S Rawat]
+% Producer: Quest Films
+% Director: Sangeeth Sivan
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Bass Deluxe 00000010429, Cost: Rs 40/-, CD: 
+%
+\printtitle
+#indian
+%
+a.nt nahii.n aur a.ng nahii.n
+Kvaab nahii.n hai shor nahii.n
+so_ii hu_ii yaad nahii.n
+jaagii hu_ii bhor nahii.n
+Dar hai kuchh duur hai
+mox hai mashahuur hai 
+gul se naa sulajhe to par naa bujhe re
+sa.ndhyaa \-4
+%
+#endindian
+\endsong
+

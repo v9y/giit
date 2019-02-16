@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{suno zaraa havaa_o.n me.n ye kaisii hai sadaa}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suno zaraa suno zaraa havaa_o.n me.n
+ye kaisii hai sadaa ko_ii to hai jo ye kah rahaa hai kii raah me.n
+vo mo.D aa gayaa hai ki jisake aage naa zamii.n hai na aasamaa.n
+na ma.nzile.n na raastaa
+suno zaraa \threedots
+
+yaado.n ke Gam hii hai.n usame.n gaatii hai.n tanahaa_iyaa.n
+haa.N din Dhal rahaa hai to kitanii lambii hai.n parachhaa_iyaa.n
+bas ek pal me.n hogaa dhu_aa.n hai aarazuu ki ye sadaa
+suno zaraa \threedots
+
+dhu.ndhalaa ga_e hai.n sitaare phuulo.n ko nii.nd aa ga_ii
+gumasum se ham sochate hai.n baate.n adhuurii ka_ii hu_ii.n na puurii
+kyuu.n ko_ii bhii daastaa.n kise khabar kise pataa
+suno zaraa \threedots
+%
+#endindian
+\endsong
+

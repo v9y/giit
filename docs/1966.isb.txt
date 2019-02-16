@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{yuu.Nhii tum mujhase baat karatii ho}%
+\film{Sachcha Jhootha}%
+\year{1970}%
+\starring{Rajesh Khanna, Mumtaz, Vinod Khanna}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Sujatha Nagarajan (sujatha@nu.cs.fsu.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%         Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+%
+\printtitle
+#indian
+%
+ra: yuu.Nhii tum mujhase baat karatii ho
+    yaa koii pyaar kaa iraadaa hai
+la: adaae.n dil kii jaanataa hii nahii.n
+    meraa hamadam bhii kitanaa saadaa hai
+
+ra: roz aatii ho tum Kayaalo.n me.n	(2)
+    zi.ndagii me.n bhii merii aa jaao
+    biit jaae na ye savaalo.n me.n
+    is javaanii pe kuchh taras khaao
+la: haal\-e\-dil samajho sanam	(2)
+    mu.Nh se na kahe.nge ham
+    hamaarii bhii koii maryaadaa hai, yuu.Nhii tum\threedots
+    
+ra: ban ga_ii ho merii sadaa ke liye
+    yaa mujhe yuu.N hii tum banaatii ho
+la: kahii.n baaho.n me.n na bhar luu.N tumako
+    kyo.n mere hausale ba.Dhaatii ho
+ra: hausale aur karo, faasale duur karo
+    paas aate na Daro
+    dil na to.De.nge apanaa vaadaa hai, yuu.Nhii tum\threedots
+    
+ra: bholepan me.n hai vafaa kii khushabuu
+    isape sab kuchh na kyuu.N luTaauu.N mai.n
+la: meraa betaab dil ye kahataa hai
+    tere saae se lipaT jaauu.N mai.n
+ra: mujhase ye mel teraa   (2)
+    na ho ik khel teraa
+    ye karam mujhape kuchh ziyaadaa hai, yuu.Nhii tum\threedots
+%
+#endindian
+\endsong
+%

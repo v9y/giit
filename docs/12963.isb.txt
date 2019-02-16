@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ham hai.n to chaa.Nd aur taare}%
+\film{Main Nashe Mein Hoon}%
+\year{1959}%
+\starring{Raj Kapoor, Mala Sinha}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10874 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ham hai.n to chaa.Nd aur taare jahaa.N ke ye ra.ngii.n nazaare
+haay re haay o duniyaa ham terii nazar me.n aavaare
+
+ko \:	ham hai.n to chaa.Nd \threedots
+
+jiivan ke ye lambe raste kaaTe.nge gaate ha.Nsate
+mil jaa_egii hamako ma.nzil ik roz to chalate\-chalate
+aramaa.N javaa.N hai.n hamaare chhuune chale hai.n sitaare
+haay re haay \threedots
+
+ko \:	ham hai.n to chaa.Nd \threedots
+
+ik josh hai apane dil me.n ghabaraa_e.n na ham mushkil me.n
+siikhaa hii nahii.n ruk jaanaa ba.Dhate hii chale mahafil me.n
+karate hai.n gagan se ishaare bijalii pe qadam hai.n hamaare
+haay re haay \threedots
+ham hai.n to chaa.Nd \threedots
+%
+#endindian
+\endsong
+

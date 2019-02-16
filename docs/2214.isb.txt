@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{sun mere saajanaa, ho}%
+\film{Aansoo}%
+\year{1953}%
+\starring{}%
+\singer{Rafi, Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Sanjeev Rambhadran
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+
+la: saajanaa ho, saajanaa ho
+ra: saa.Nvarii o~~~~
+
+la: sun mere saajanaa re, sun mere saajanaa
+    dekho jii mujhako bhuul na jaanaa
+    sun mere saajanaa re
+ra: sun merii saa.Nvarii o, sun merii saa.Nvarii
+    apanaa banaake chho.D na jaanaa
+    sun merii saa.Nvarii o
+
+ra: na tujhako mai.n bhulaa_uu.Ngaa, nigaaho.n me.n chhupaa_uu.Ngaa
+    magar itanaa karo vaadaa ki rishtaa to.D na jaanaa
+    sun merii saa.Nvarii o
+
+la: ye rishtaa chaar aa.Nkho.n kaa mere saajan na TuuTegaa
+    jo mujhako aazamaanaa ho to Dolii leke aa jaanaa
+    sun mere saajanaa re
+
+ra: baje jis roz shahanaa_ii samajh lenaa baaraat aayii
+    o aramaano.n kii Dolii me.n tu dulahan ban ke aa jaanaa
+    sun merii saa.Nvarii o
+
+la: agar qisamat badal jaaye, judaa_ii hamako ta.Dapaaye
+    qasam hai pyaar kii tujhako tu mujhase ruuTh na jaanaa
+    sun mere saajanaa re
+
+%
+#endindian
+\endsong
+%

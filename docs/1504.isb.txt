@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{raajaa kii aayegii baaraat, ra.ngiilii hogii raat}%
+\film{Aah}%
+\year{}%
+\starring{Raj Kapoor, Nargis, Vijayalakshmi}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+rAjA kI AyegI bArAt, ra.ngIlI hogI rAt
+magan mai.n nAchU.ngI, ho magan mai.n nAchU.ngI
+rAjA kI AyegI bArAt \threedots
+
+rAjA ke mAthe tilak lagegA, (rAnI ke mAthe sindUr \- 2)
+mai.n bhI apane man kI AshA, (pUrI karU.ngI zarUr \- 2)
+me.nhadI se pIle ho.nge hAth, saheliyo.n ke sAth
+magan mai.n nAchU.ngI, ho magan mai.n nAchU.ngI
+rAjA kI AyegI bArAt \threedots
+
+rAnI ke sa.ng rAjA Dole sajAte, (chale jAe.nge parades \- 2)
+jab jab unakI yAd AyegI, (dil pe lagegI Thes \- 2)
+naino.n se hogI barasAt, andherI hogI rAt
+magan mai.n nAchU.ngI, ho magan mai.n nAchU.ngI
+rAjA kI AyegI bArAt \threedots
+%
+#endindian
+\endsong
+%

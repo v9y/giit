@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tum kyo.n kasam uThaate ho bas kah do ke pyaar hai}%
+\film{Prem Shakti}%
+\year{1994}%
+\starring{Govinda, Karisma,  Nitish, Sulbha, Viju Khote, Neela, Sameer Khakhad}%
+\singer{Anuradha Paudwal}%
+\music{Ram Laxman}%
+\lyrics{Ravindra Rawal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum kyo.n kasam uThaate ho bas kah do ke pyaar hai
+kasam se haa.N kasam se
+kasam se bhii zyaadaa mujhako tum par aitabaar hai
+tumase pyaar hai haa.N aitabaar hai
+tum kyo.n kasam uThaate \threedots
+
+maine maanaa sanam tumako merii behad zaruurat hai
+mai.n bhii ikaraar karatii huu.N tumase mujhe mohabbat hai
+merii saa.Nse.n merii dha.Dakan merii chaahat meraa jiivan
+tujhape qurbaan hai sab kuchh TuuTe kabhii naa ye ba.ndhan
+kasam se mai.n sab jaanuu.n tuu meraa talabagaar hai
+tumase pyaar hai haa.N \threedots
+
+maine sochaa yahii aksar ab to kismat sa.nvar jaaye
+terii zulfo.n kii chhaayaa me.n ye zi.ndagaanii guzar jaa_e
+phir na bichha.De kabhii ham tum phir ye mausam Thahar jaa_e
+saare aramaan ho.n puure dil me.n mere tuu utar jaa_e
+ksasm se is dil par ab to teraa akhtiyaar hai
+tumase pyaar hai haa.N \threedots
+%
+#endindian
+\endsong
+

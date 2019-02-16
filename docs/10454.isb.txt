@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{diiwaalii kii raat piyaa ghar aane waale hai.n}%
+\film{Amar Kahani}%
+\year{1949}%
+\starring{Suraiyya, Jairaaj, Mehra, Ranjana}%
+\singer{Suraiyya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12038 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( diiwaalii kii raat piyaa ghar aane waale hai.n
+sajan ghar aane waale hai.n
+balam ghar aane waale hai.n ) \-2
+
+( jhuum\-jhuum kar diye kii baatii
+mere dil ko kare ishaaraa ) \-2
+( jaan ga_ii mai.n aane waalaa
+hai teraa saajan pyaaraa ) \-2
+
+diiwaalii kii raat piyaa ghar aane waale hai.n
+sajan ghar aane waale hai.n
+balam ghar aane waale hai.n
+
+( jin galiyo.n se aaye balamawaa
+un galiyo.n me.n nain bichhaa_uu.N
+( qadam\-qadam par aashaa_o.n ke
+diip jalaatii jaa_uu.N ) \-2
+
+diiwaalii kii raat piyaa ghar aane waale hai.n
+sajan ghar aane waale hai.n
+balam ghar aane waale hai.n
+
+( aaj raat aa.Nkho.n\-aa.Nkho.n me.n
+kah duu.Ngii sab dil kii baate.n ) \-2
+( roz\-roz kab aatii hai.n ye
+madur milan kii raate.n ) \-2
+
+( diiwaalii kii raat piyaa ghar aane waale hai.n
+sajan ghar aane waale hai.n
+balam ghar aane waale hai.n ) \-2
+%
+#endindian
+\endsong
+

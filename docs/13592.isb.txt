@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{nazar me.n bijalii adaa me.n shole}%
+\film{Prince}%
+\year{1969}%
+\starring{Shammi Kapoor, Vyjayanthimala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Farooq Kaisar}%
+%
+% Contributor: BOL ANAMOL #11117 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+nazar me.n bijalii adaa me.n shole
+janaab\-e\-aalii mai.n sadake jaavaa.N
+zaraa palaT ke idhar to dekho \-2
+o Gusse vaalii mai.n sadake jaavaa.N
+
+( kabhii to hamako salaam kar lo
+kabhii to puuchho ke haal kyaa hai ) \-2
+ye husn tumako diyaa Kudaa ne
+tumhaaraa isame.n kamaal kyaa hai
+nazar me.n bijalii \threedots
+
+( teraa ye aashiq teraa diivaanaa
+zamaane bhar me.n judaa hai pyaare ) \-2
+labo.n pe mere jo aa ga_ii hai
+vo tere dil kii sadaa hai pyaare
+nazar me.n bijalii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{din mahiine saal guzarate jaa_e.Nge}%
+\film{Avtaar}%
+\year{1983}%
+\starring{Rajesh Khanna, Shabana Azmi}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11318 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	din mahiine saal guzarate jaa_e.Nge
+	ham pyaar me.n jiite pyaar me.n marate jaa_e.Nge
+la \:	( dekhe.nge
+ki \:	dekh lenaa ) \-2
+la \:	din mahiine saal \threedots
+ki \:	din mahiine saal \threedots
+
+	( mat sharamaa_o aa jaa_o ) \-2 merii baa.Nho.n me.n
+	dekho apanii tasviir merii nigaaho.n me.n
+	kyaa hu_aa gar kaa.NTe hai.n apanii raaho.n me.n \-2
+	in raaho.n me.n phuul bikharate jaa_e.Nge
+	ham pyaar me.n jiite \threedots
+
+la \:	tumako hamane maan liyaa rab tum jaano \-2
+	ham ye jaane.n baaqii sab tum jaano
+	kyaa kahanaa hai kyaa nahii.n ye ab tum jaano \-2
+	tum jo kahoge ham vo karate jaa_e.Nge
+	ham pyaar me.n jiite \threedots
+
+la \:	dukh\-sukh kaa saathii ( haa.N jii ) \-2 tumhe.n banaayaa hai \-2
+ki \:	hamane jiivan kaa saajhii haa.N jii tumhe.n banaayaa hai \-2
+la \:	dil kii na_iiyaa kaa maajhii tumhe.n banaayaa hai \-2
+ki \:	is paar se us paar utarate jaa_e.Nge
+	ham pyaar me.n jiite \threedots
+%
+#endindian
+\endsong
+

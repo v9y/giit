@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shaam ke waqt jaam yaad aayaa}%
+\film{Mahtab (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Mohsin Naqvi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+shaam ke waqt jaam yaad aayaa
+kitanaa dilachasp kaam yaad aayaa
+
+jab bhii dekhaa ko_ii hasii.n cheharaa
+mujhako teraa salaam yaad aayaa
+
+sunake qisse Kudaa kii azmat ke
+aadamii kaa maqaam yaad aayaa
+
+ba.nsarii kii navaa ko tez karo
+aaj raadhaa ko shyaam yaad aayaa
+
+sahan\-e\-masjid me.n bhii hame.n 'mohasin'
+mayakade kaa qayaam yaad aayaa
+
+#endindian
+\endsong

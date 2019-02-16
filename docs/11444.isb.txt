@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n me.n ra.ng kyuu.N aayaa}%
+\film{Ek Phool Chaar Kaante}%
+\year{1960}%
+\starring{Sunil Dutt, Waheeda, Johnny Walker, Dhoomal}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10885 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	aa.Nkho.n me.n ra.ng kyuu.N aayaa bolo nashaa saa kyo.n chhaayaa
+	hamako ye raaz batalaa_o dil kho ke tumane kyaa paayaa
+la \:	chamakii nasiib kii raahe.n ham kyuu.N na aaj itaraa_e.N
+	raaho.n se haT ga_e kaa.NTe to phuul kyuu.N na muskaa_e.N
+mu \:	aa.Nkho.n me.n ra.ng \threedots
+
+	mukha.De pe subah kii dhuup ye khilataa\-khilataa ruup
+	kaajal lakiir chitavan ke tiir ye nainaa ruup anuup
+la \:	tum kyaa samajho ye raaz ulfat ke ye andaaz
+	sun ke zaruur hogaa Guruur aur karane lagoge naaz
+mu \:	aisaa Kyaal mat kiije ham se ye bhed kah diije
+	ham bhii to aap hii ke hai.n hamase yuu.N sharm naa kiije
+la \:	chamakii nasiib kii raahe.n \threedots
+mu \:	aa.Nkho.n me.n ra.ng \threedots
+
+	tarasaa_o na yuu.N hamadam tumhe.n naaz\-o\-adaa kii qasam
+	jaldii se bol do ye raaz khol do paradaa uThaa do sanam
+la \:	haragiz na kahuu.Ngii ye baat jo.Doge na jab tak haath
+	banake nasiib rahanaa qariib jyuu.N taare chaa.Nd ke saath
+mu \:	tumase judaa na ho.nge ham badale.n hazaar ye aalam
+	ham tumape jaan de de.nge gaatii hai saa.Ns kii saragam
+	aa.Nkho.n me.n ra.ng \threedots
+%
+#endindian
+\endsong
+

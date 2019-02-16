@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{are yaar merii, tum bhii ho Gazab, ghuu.NghaT to zaraa o.Dho}%
+\film{Teen Deviyan}%
+\starring{Dev Anand, Nanda, Simi, Kalpana}%
+\singer{Kishore, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kishor: are yaar merii tum bhii ho Gazab, ghuu.NghaT to zaraa o.Dho
+ahaa maano kahaa ab tum ho javaa.n,
+merii jaan la.Dakapan chho.Do
+aashaa: jab merii chunariyaa malamal kii,
+phir kyo.n na phiruu.N jhalakii\-jhalakii
+kishor: are yaar merii tum bhii ho Gazab \threedots
+
+aashaa: (koI jo mujhako haath lagaaegaa, 
+haath na usake aauu.ngii 
+mai tere man kii laal parii huu.N re, 
+man me.n tere u.D jaauu.ngii   ) \- 2
+kishor: tum parii to zaruur ho,  par ba.Dii mashahuur ho
+aashaa: jab merii chunariyaa malamal kii \threedots
+kishor: are yaar merii tum bhii ho Gazab \threedots
+
+aashaa: (dekhake tarase laakh ye bha.nvare,  aur inhe.n tarasaauu.ngii 
+terii galii kii ek kalii huu.N, 
+tere gale lag jaauu.ngii    ) \- 2
+kishor: tum kalii to zaruur ho,  par ba.Dii mashahuur ho
+aashaa: jab merii chunariyaa malamal kii \threedots
+kishor: are yaar merii tum bhii ho Gazab \threedots
+
+aashaa: (Daalake ghu.nghaTaa ruup ko apane,  aur nahii.n mai.n chhupaauu.ngii
+su.ndarii banake terii balamavaa, 
+aaj to mai.n laharaauu.ngii    )\- 2
+kishor: su.ndarii to zaruur ho,  par ba.Dii mashahuur ho
+aashaa: jab merii chunariyaa malamal kii \threedots
+kishor: are yaar merii tum bhii ho Gazab \threedots
+aashaa: jab merii chunariyaa malamal kii \threedots
+kishor ## (whispers): ## are yaar merii tum bhii ho Gazab \threedots
+%
+#endindian
+\endsong
+%

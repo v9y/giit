@@ -1,0 +1,50 @@
+% ITRANS SONG
+
+\startsong
+\stitle{haay chhore kii jaat ba.Dii bewafaa}%
+\film{Chandni Raat}%
+\year{1949}%
+\starring{Naseer, Shyam, David, Ulhas Parveen, Cukoo}%
+\singer{Lata, G M Durrani}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	haay chhore kii jaat ba.Dii bewafaa
+	bewafaa se ko_ii dil lagaaye naa
+	ho bewafaa se ko_ii dil lagaaye naa
+du \:	haay chhorii kii jaat ba.Dii bewafaa
+	luuT le dil najariyaa milaaye na
+	ho luuT le dil najariyaa milaaye na
+
+la \:	( ho jaanuu.N mai.n bhed haay sab tere jii kaa
+	ho sab tere jii kaa ) \-2
+	tujhase jo pyaar kare na ho usii kaa
+du \:	puuchho na haal mere dil kii lagii kaa
+	ho puuchho na haal mere dil kii lagii kaa
+	duniyaa me.n tere sivaa mai.n na kisii kaa
+la \:	aise zaalim se priit kare ko_ii kyaa
+	priit karake jo muurakh nibhaaye na
+
+du \:	haay chhorii kii jaat ba.Dii bewafaa
+	luuT le dil najariyaa milaaye na
+
+du \:	( ho ulfat kii aag lagii dil ko jalaane
+	ho dil ko jalaane ) \-2
+	dil par jo biit rahii tuu hii na jaane
+la \:	jaa_o jii jaa_o karo na ye bahaane \-2
+	mai.n bhii na maanuu.N meraa dil bhii na maane
+du \:	aa.Nkho.n\-aa.Nhko.n me.n tuune liyaa dil meraa
+	saaf kah do ke dil hamako bhaaye ne
+	o saaf kah do ke dil hamako bhaaye ne
+
+la \:	haay chhore kii jaat ba.Dii bewafaa
+	bewafaa se ko_ii dil lagaaye naa
+	ho bewafaa se ko_ii dil lagaaye naa
+
+#endindian
+\endsong

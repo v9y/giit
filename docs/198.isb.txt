@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{akele hai.n, to kyaa Gam hai}% 
+\film{Qayamat Se Qayamat Tak}%
+\year{1988}%
+\starring{Aamir Khan, Juhi Chawala}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Anand-Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: Porkey (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+akele hai.n, to kyaa Gam hai 
+chaahe.n to hamaare bas me.n kyaa nahii.n 
+bas ik zaraa, sAth ho teraa 
+tere to hai.n ham, kab se sanam 
+
+1) ab ye nahii.n sapanaa, ye sab hai apanaa 
+ye jahaa.N \threedots ho \threedots pyaar kaa 
+chhoTaa saa ye aashiyaa.N bahaar kaa, bas ik zaraa \threedots
+
+2) phir nahii.n TUTegaa, ham pe koii tuufaan 
+saajanaa \threedots ho \threedots dekhanaa 
+har tuufaa.n kaa mai.n karuu.ngaa saamanaa, bas ik zaraa \threedots 
+
+3) ab to mere saajan biitegaa har din 
+pyaar kii \threedots ho \threedots baaho.n me.n 
+ra.ng jaaegii rut terii adaao.n se, bas ik zaraa \threedots 
+%
+#endindian
+\endsong
+%

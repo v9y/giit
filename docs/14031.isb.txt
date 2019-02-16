@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tumhe.n chhe.De havaa cha.nchal sharaarat tumase siikhii hai}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	tumhe.n chhe.De havaa cha.nchal
+a \:	sharaarat tumase siikhii hai
+ku \:	vo baiThaa phuul pe bha.Nvaraa
+a \:	muhabbat tumase siikhii hai
+	mere gulafaam sun lo tum diivaane dil kaa kahanaa hai
+ku \:	kiyaa hai faisalaa maine tumhaare bin naa rahanaa hai
+	tumhe.n chhe.De havaa \threedots
+
+	kare diivaanagii mausam sanam tumhaarii in adaa_o se
+	gazab lagatii ho tum rab kii kasam
+	bharosaa ho naa jo meraa to puuchho in fizaa_o.n se
+	tumhe.n chhe.De havaa \threedots
+
+a \:	banaayaa aashiyaa.N maine sanam tumhaarii hii nigaaho.n me.n
+	naa jaa_uu.n duur mai.n tumase kabhii
+	bitaa duu.N umr mai.n saarii sanam terii hii baaho.n me.n
+ku \:	tumhe.n chhe.De havaa \threedots
+
+	banii hai surama_ii dekho ghaTaa terii aa.Nkho.n ke kaajal se
+	churaatii hai javaa.N Kushbuu havaa
+	lipaT ke merii jaan\-e\-man tere hii reshamii aa.Nchal se
+	tumhe.n chhe.De havaa \threedots
+%
+#endindian
+\endsong
+

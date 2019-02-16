@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{dil kii baate.n dil hii jaane}%
+\film{Roop Teraa Mastaanaa}%
+\year{1972}%
+\starring{Jeetendra, Mumtaz, I S Johar, Pran}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11205 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	dil kii baate.n
+la \:	dil hii jaane
+ki \:	aa.Nkhe.n chhe.De.n
+la \:	sau afasaane
+ki \:	naazuk\-naazuk
+la \:	pyaare\-pyaare
+ki \:	vaade hai.n
+la \:	iraade hai.n
+ki \:	aa\-aa mil ke daaman daaman se baa.Ndh le.n
+la \:	aa\-aa mil ke daaman daaman se baa.Ndh le.n
+ki \:	dil kii baate.n \threedots
+
+	tuu ha.Ns pa.Dii yaa phulajha.Dii chhuuTii kahiii.n dha.Dakan ba.Dhii
+	ik sholaa saa laharaa gayaa
+la \:	haa haa ye nuur hogaa terii aa.Nkho.n me.n pyaar kaa
+ki \:	yaa naGamaa guu.Njaa hogaa bahaar kaa
+	dil kii baate.n \threedots
+
+la \:	tuu jo kahe mai.n vo kahuu.N saayaa banuu.N sa.ng\-sa.ng rahuu.N
+	tuu aur mai.n ab ek hai.n
+ki \:	aa\-aa mai.n giit ban tere ho.nTh chuum luu.N
+la \:	aa sapanaa ban ke in aa.Nkho.n me.n jhuum luu.N
+do \:	dil kii baate.n \threedots
+%
+#endindian
+\endsong
+

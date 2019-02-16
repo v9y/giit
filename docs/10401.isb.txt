@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{ta.ng mai.n aa gayaa huu.N javaanii se}%
+\film{Angaarey}%
+\year{1975}%
+\starring{Sanjeev Kumar, Rakhi, Dheeraj, Alka, Madan Puri, Jivan}%
+\singer{Kishore, Asha}%
+\music{Chitragupt}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11556 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ta.ng mai.n aa gayaa huu.N javaanii se
+paas aa_o zaraa meharabaanii se
+ta.ng mai.n aa ga_ii is kahaanii se
+
+aag lagaa ke dil me.n samaa ke
+dekho aise ha.Nso na tiir chalaa ke
+suno samajho merii baat jii
+zaraa dil pe rakh do haath jii
+aag bujhatii nahii.n dil kii paanii se
+
+dard liyaa dil jo diyaa hai
+tumane apanaa Kud ye haal kiyaa hai
+bahaano.n se tum mat naam lo
+haath na thaam lo be_iimaanii se
+
+haath paka.D lo maan bhii jaa_o
+baato.n\-baato.n me.n sanam ruuTh ga_e ho
+mere dil kii duniyaa khil ga_ii
+mujhe saarii duniyaa mil ga_ii
+aur maa.Nguu.N mai.n kyaa zindagaanii se
+%
+#endindian
+\endsong
+

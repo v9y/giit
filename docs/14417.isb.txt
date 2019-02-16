@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{meraa dil tujh pe marataa hai pyaar karataa hai ... nakharaa na kar diivaanii}%
+\film{Taaqat}%
+\year{1995}%
+\starring{Dharmendra, Shatrughan, Farha, Kajol, Vikas Bhalla, Kader, Mukesh Khanna}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa dil tujh pe marataa hai pyaar karataa hai
+chho.D naadaanii
+nakharaa na kar diivaanii
+
+teraa dil mujh pe marataa hai pyaar karataa hai
+jaa re diivaane
+na piichhaa kar paravaane
+
+vaadaa karake na aanaa aake itanaa ta.Dapaanaa
+maine tujhako pahachaanaa tuu hai paagal diivaanaa
+chhup chhup ke aahe.n bharatii hai
+har baat pe naa naa karatii hai
+terii baato.n me.n jo aa_uu.n gar
+mai.n mushkil me.n pa.D jaa_uu.ngii
+nii.nd luuTaa chain luuTaa ruup kii raanii
+nakharaa na kar diivaanii \threedots
+
+yuu.n hii inakaar karuu.ngii kaise na pyaar karuu.ngii
+Gam na aane duu.ngaa saaraa dukh maa.ng luu.ngaa
+teraa jhuuThaa har vaadaa hai ne teraa nek iraadaa hai
+in aa.Nkho.n kii tasviir me.n hai tuu hii merii taqadiir me.n hai
+tuu anaa.Dii baat merii tuu nahii.n maane
+na piichhaa kar paravaane \threedots
+%
+#endindian
+\endsong
+

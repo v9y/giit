@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu meraa ##superman## mai.n terii ##lady##}%
+\film{Dariyaadil}%
+\year{1987}%
+\starring{Govinda, Kimi, Roshni, Rajkiran, Shoma Anand, Asrani, Gulshan Grover}%
+\singer{Sadhana Sargam, Mohammed Aziz, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu meraa ##superman## mai.n terii ##lady##
+ho gayaa hai apanaa pyaar ##already##
+
+mai.n teraa ##superman## tuu merii ##lady##
+ho gayaa hai apanaa pyaar ##already##
+
+mahasuus karuu.n mahafuuz terii baaho.n me.n
+mai.n naaz karuu.n chale saath tuu jab raaho.n me.n
+tuu meraa ##superman## \threedots
+
+##super super super superman##
+hamadard hai tuu kamazoro.n kaa hai sahaaraa
+tujhe mere li_e a.mbar se gayaa hai utaaraa
+mai.n teraa ##superman## \threedots
+
+teraa sun ke naam aa jaa_e chamak aa.Nkho.n me.n
+mere dil ne chunaa hai saath teraa laakho.n me.n
+tuu meraa ##superman## \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{havaa havaa ai havaa khushabuu luTaa de}%
+\film{}%
+\starring{}%
+\singer{Hasan Jahangir}%
+\music{}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Dev Alok (dalok@eos.ncsu.edu)
+%          Tushar Samant (samant@tartarus.uchicago.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(havaa havaa ai havaa khushabuu luTaa de 
+kahaa.N khulii haa.n khulii zulf bataa de 
+ab usakaa pataa de, zaraa mujhako bataa de 
+mai.n us se miluu.ngaa, ek baar milaa de 
+yaar milaa de, diladaar milaa de \- 2 ) \- 2
+
+(phir kisii ke chehare kaa ra.ng khil gayaa 
+bichha.Daa huA aaj koI usako mil gayaa ) \- 2
+kaise mil gayaa, kahaa.N mil gayaa 
+ham ne to DhU.NDh liyaa saaraa zamaanaa 
+havaa havaa ai \threedots
+
+(ye adaa bhI usakii kyaa kaam kar gayii 
+jaate jaate ek hasiin shaam kar gayii ) \- 2
+shaam kar gayii, tere naam kar gayii 
+aise hasiin chehare ko apanaa banaanaa 
+havaa havaa ai \threedots
+
+(zindagii kii dhuup ko saayaa kar gayii 
+aaj mere paas se vo guzar gayii ) \- 2
+usane jo kahaa, tumane hii sunaa 
+ye baat aur kisii ko nA bataanaa 
+havaa havaa ai \threedots
+havaa havaa ai \threedots
+%
+#endindian
+\endsong
+%

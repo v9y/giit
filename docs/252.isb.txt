@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{badalii me.n chhipe chaa.Nd ne}%
+\film{Shatranj}%
+\year{1956}%
+\starring{Ashok Kumar, Meena Kumari}%
+\singer{Hemant, Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar 
+% Credits: Hemantada, a genius in his niche #2
+% Editor: 
+%
+\printtitle
+#indian
+%
+l:  badalii me.n chhipe chaa.Nd ne kuchh mujhase kahaa hai
+    badalii me.n chhipe chaa.Nd ne kuchh mujhase kahaa hai
+he: hamane bhii sunaa hai
+l:  gaatii hu_ii ek giit nayaa aayii havaa hai
+he: hamane bhii sunaa hai   \threedots
+                     
+l:  ye ra.ng bharii raat ye chandaa ye sitaare
+    ye ra.ng bharii raat ye chandaa ye sitaare
+he: ek saath hame.n dekh ke karate hai.n ishaare
+l:  kahate hai.n zamii.n par ko_ii dil dilase milaa hai
+he: hamane bhii sunaa hai
+
+do: badalii me.n chhipe chaa.Nd ne kuchh mujhase kahaa hai
+    hamane bhii sunaa hai
+
+H: do chaa.Nd chamakate hai.n mai.n kis chaa.Nd ko dekhuu.N
+   do chaa.Nd chamakate hai.n mai.n kis chaa.Nd ko dekhuu.N
+L: us chaa.Nd ko mai.n chho.D ke is chaa.Nd ko dekhuu.N
+L: vo chaa.Nd to duniyaa.N kaa hai ye chaa.Nd meraa hai
+H: hamane bhii sunaa hai
+                     
+do: badalii me.n chhipe chaa.Nd ne kuchh mujhase kahaa hai
+    hamane bhii sunaa hai
+
+L: mat dekh mere chaa.Nd ko O chaa.Nd jalan se
+   mat dekh mere chaa.Nd ko O chaa.Nd jalan se
+L: mai.n to.D ke rakh duu.Ngii tujhe niil gagan se
+H: milate hu_e dil dekh ke ye chaa.Nd jalaa hai
+L: hamane bhi sunaa hai... 
+                     
+do: badalii me.n chhipe chaa.Nd ne kuchh mujhase kahaa hai
+    hamane bhii sunaa hai
+
+%
+#endindian
+\endsong
+%

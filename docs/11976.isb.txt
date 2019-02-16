@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{ham chale tere dil ke makaan se}%
+\film{Inaam}%
+\year{1955}%
+\starring{Suraiya, Naasir, Kammo, Mukri, Yaqub, Protima Devi, Bimla Kumari}%
+\singer{Suraiya, Mohantara, Ajinkya, Chorus}%
+\music{S N Tripathi}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #12616 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+su \:	ham chale
+	ham chale tere dil ke makaan se
+	aadaab\-arz namaste salaam\-waalequm
+ko \:	ham chale
+	ham chale tere dil ke makaan se
+	aadaab\-arz namaste salaam\-waalequm
+	ham chale
+su \:	baaz aaye ham aisii pahachaan se
+ko \:	aadaab\-arz namaste salaam\-waalequm
+	salaam\-waalequm
+
+mo \:	aa
+	ek to diijiye inako dil bhii
+su \:	aa
+	ek to diijiye inako dil bhii
+	aa
+	chaahiye saath ##taxi## kaa ##bill## bhii \-3
+	duur bhaago jii
+	duur bhaago jii aise i.nsaan se
+ko \:	aadaab\-arz namaste salaam\-waalequm
+	salaam\-waalequm
+
+mo \:	aa
+	dil kisii aur ko jaa ke diije
+su \:	aa
+	dil kisii aur ko jaa ke diije
+	aa
+	ajii hamape to kirapaa hii kiije \-3
+	pyaar kar liije
+	pyaar kar liije saare jahaan se
+ko \:	aadaab\-arz namaste salaam\-waalequm
+	salaam\-waalequm
+
+mo \:	aa
+	chal gayaa tumape nazaro.n kaa jaaduu
+su \:	aa
+	chal gayaa tumape nazaro.n kaa jaaduu
+	jaa_o ja.ngal me.n ban jaa_o saadhuu \-3
+	jaa ke maa.Ngo
+	jaa ke maa.Ngo muraade.n bhagawaan se
+ko \:	aadaab\-arz namaste salaam\-waalequm
+	salaam\-waalequm
+%
+#endindian
+\endsong
+%
+

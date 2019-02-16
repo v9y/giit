@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{akhiyo.n ko rehane do, akhiyo.n ke aas paas}%
+\film{Bobby}%
+\year{1973}%
+\starring{Rishi Kapoor, Dimple Kapadia, Raj Kapoor, Premnath}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Surajit A. Bose <bose.2@nd.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+TuuTake dil ke Tuka.De Tuka.De ho gae mere siine me.n
+aa gale lagake mar jaae.n, kyaa rakhaa hai jiine me.n
+
+a.Nkhiyo.n ko rahane de, a.Nkhiyo.n ke aas paas
+duur se dil kii bujhatii rahe pyaas
+
+dard zamaane me.n kam nahii.n milate
+sab ko mohabbat se Gam nahii.n milate
+TuuTane vaale dil hote hai.n kuchh khaas
+duur se dil kii bujhatii rahe pyaas
+
+rah ga_ii duniyaa me.n naam kii khushiyaa.N
+tere mere kis kaam kii khushiyaa.N
+saarii umr hamako rahana hai yuu.N udaas
+duur se dil kii bujhatii rahe pyaas
+%
+#endindian
+\endsong
+%
+

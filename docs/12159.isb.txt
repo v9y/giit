@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{merii zi.ndagii tere haatho.n me.n ... mai.n nahii.n chhaDDaNaa.n}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii zi.ndagii tere haatho.n me.n
+teraa haath teraa haath mai.n nahii.n chhaDDaNaa.n
+soNiye mai.n nahii.n chhaDDaNaa.n
+merii ma.nzil terii baaaho.n me.n
+teraa saath teraa saath mai.n nahii.n chhaDDaNaa.n
+saahibaa mai.n nahii.n chhaDDaNaa.n
+
+phuulo.n me.n teraa cheharaa hai khushbuu me.n hai pyaar teraa
+mujhako duniyaa kii har shai me.n ruup milaa hai yaar teraa
+teraa zikr merii har baato.n me.n terii baat
+merii ma.nzil terii \threedots
+
+tere naam kaa taanaa dekar ha.Nsatii hai merii sakhiyaa.n
+mujhako aate jaate dekhe.n shaq se logo.n kii a.nkhiyaa.n
+ba.Daa mazaa hai in mulaaqaato.n me.n mulaaqaat
+mulaaqaat mai.n nahii.n chhaDDaNaa.n
+makkhaNaa.n mai.n nahii.n chhaDDaNaa.n
+merii ma.nzil terii \threedots
+%
+#endindian
+\endsong
+

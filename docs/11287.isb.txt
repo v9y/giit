@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aajaa re pyaar pukaare nainaa to ro\-ro haare}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{1966}%
+\starring{Dharmendra, Nutan, Rehman, Jeevan}%
+\singer{Lata}%
+\music{Sonik Omi}%
+\lyrics{G S Rawal}%
+%
+% Contributor: BOL ANAMOL #10378 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Sonik Omi
+% 
+\printtitle
+#indian
+%
+aajaa re pyaar pukaare
+nainaa to ro\-ro haare
+ko_ii na jaane dard meraa o ko_ii na jaane dard meraa
+aajaa re pyaar pukaare \threedots
+
+luuTaa de ke sahaaraa tere pyaar ne
+ho bairii hamako to maaraa tere pyaar ne \-2
+terii yaad to hamako rulaa_e re
+kahaa bhii na jaa_e re
+aajaa re pyaar pukaare \threedots
+
+chandaa bichha.D na jaa_e terii chaa.Ndanii
+ho aajaa tujhako bulaa_e terii chaa.Ndanii \-2
+ab aavaaz do dil ghabaraa_e re
+chain na paa_e re
+aajaa re pyaar pukaare \threedots
+%
+#endindian
+\endsong
+

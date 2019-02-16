@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{aasamaan se aayaa farishtaa, pyaar kaa sabak sikhalaane}%
+\film{An Evening In Paris}%
+\year{1967}%
+\starring{Shammi Kapoor, Sharmila}%
+\singer{Rafi, Sharmila Tagore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+aasamaan se aayaa farishtaa, pyaar kaa sabak sikhalaane
+dil me.n hai tasaviir yaar kii laayaa huu.N vo dikhalaane
+kaho pyaar hai tum se
+  jaa jaa
+o jaanaa kaho pyaar hai tum se
+  jaa jaa jaa
+
+dilabar terii Kaatir, mai.n chaa.Nd chho.D kar aayaa huu.N
+le le nazaraanaa, mai.n apane pyaar ko laayaa huu.N
+aasamaan se aayaa farishtaa   \threedots
+
+siikho, zaraa siikho a.ndaaz pyaar kaa hamase tum
+kar lo, are kar lo iqaraar pyaar kaa hamase tum
+aasamaan se aayaa farishtaa   \threedots
+
+saayaa huu.N mai.n teraa, tere saath\-saath hii aa_uu.Ngaa
+aashiq huu.N mai.n teraa, baaho.n me.n baa.Ndh le jaa_uu.Ngaa
+
+aasamaan se aayaa farishtaa, pyaar kaa sabak sikhalaane
+dil me.n hai tasaviir yaar kii laayaa huu.N vo dikhalaane
+kaho pyaar hai tum se
+  haa.N haa.N
+o jaanaa kaho pyaar hai tum se
+  haa.N hai   \threedots
+
+%
+#endindian
+\endsong
+%

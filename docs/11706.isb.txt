@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kyaa aapako ehasaas hai ... hamaaraa dil aapake paas hai}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa aapako ehasaas hai baat ab ye hii khaas hai
+aapakaa dil hamaare paas hai hamaaraa dil aapake paas hai
+aapakaa dil hamaare \threedots
+
+ye kyuu.n aaj resham sii hai roshanii
+ye kyaa giit saa in havaa_o.n me.n hai
+tumhe.n chhuu ke resham hu_ii roshanii
+mere dil kii dha.Dakan fizaa_o.n me.n hai
+bahake bahake ka_ii dil me.n jazbaat hai.n
+jaagii jaagii ko_ii anakahii pyaas hai
+aapakaa dil hamaare \threedots
+
+vo baadal utarane lage jhiil me.n
+parinde darakhto.n pe gaane lage
+jo tum hamasafar ho to ai hamasafar
+hame.n saare ma.nzar suhaane lage
+ma.nzilo.n se gale raaste mil ga_e
+sapane sach ho ga_e puurii har aas hai
+aapakaa dil hamaare \threedots
+%
+#endindian
+\endsong
+

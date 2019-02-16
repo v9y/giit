@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{gunagunaa rahe hai.n bha.Nvare, khil rahii hai kalii kalii}%
+\film{Aradhana}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+m: aa\threedots, (gunagunaa rahe hai.n bha.Nvare 
+khil rahii hai.n kalii kalii  ) \- (2)
+l: galii galii
+m: kalii kalii
+l: gunagunaa rahii\threedots
+##mm.. aa..##
+
+l: zaraa dekho sajan beiimaan bha.Nvaraa kaise musakaaye
+m: haay kalii yuu.N sharamaaye
+ghuu.NghaT me.n jaise koii chhup jaaye
+l: haay zaraa\threedots
+m: haay kalii\threedots
+l: R^itu aisii haae kaisii ye pavan chalii galii galii
+gunagunaa rahii\threedots
+m: galii galii
+l: kalii kalii
+m: gunagunaa rahii\threedots
+##mm.. aa..##
+
+m: kisii ko kyaa kahe.n ham dono bhii hai.n dekho kuchh khoye
+l: khoye huaa kyaa oe oe jaage jiyaa me.n aramaan soye 
+m: soye kisii ko\threedots
+l: khoye huaa kyaa\threedots
+m: R^itu aisii haae kaisii ye pavan chalii galii galii
+gunagunaa rahii\threedots
+l: galii galii
+m: kalii kalii
+l: gunagunaa rahii\threedots
+aa\threedots
+
+l: suno paas na aao, kaliyo.n ke bahaane pyaar na jataao
+m: jaao chalo baat na banaao
+bha.Nvare ke bahaane aa.Nkh na la.Daao
+l: jaao suno paas\threedots
+m: jaao chalo baat\threedots
+l: R^itu aisii haae kaisii ye pavan chalii galii galii
+gunagunaa rahii\threedots
+m: gunagunaa rahii\threedots
+l: galii galii)
+m: kalii kalii) \threedots
+%
+#endindian
+\endsong
+%

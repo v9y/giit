@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{paravaane o paravaane do din kii javaanii hai}%
+\film{Naazneen}%
+\year{1951}%
+\starring{Nasir Khan, Madhubala, Agha, Jayant, Om Prakash, Amjad Khan}%
+\singer{Lata}%
+\music{Gulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10201 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Amjad Khan as child artist
+% 
+\printtitle
+#indian
+%
+paravaane o paravaane do din kii javaanii hai
+jal jaa tuu muhabbat me.n yah aag puraanii hai
+
+mujhase na bachaa daaman dil hai teraa diivaanaa
+chhup\-chhup ke meraa milanaa mil\-mil ke bichha.D jaanaa
+ik raaz hai ulfat kaa tuu jisakii nishaanii hai
+
+ab duur na ho mujhase bas kar merii saa.Nso.n me.n
+nazaro.n se milaa nazare.n aur dekh in aa.Nkho.n me.n
+kuchh teraa fasaanaa hai kuchh merii kahaanii hai
+aa ga_e dil me.n tum \threedots
+%
+#endindian
+\endsong
+

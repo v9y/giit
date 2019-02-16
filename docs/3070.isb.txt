@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{do bol tere miiThe miiThe}%
+\film{Daara}%
+\year{1953}%
+\starring{Begumpara, Nigar Sultana, Sheikh Mukhtar}%
+\singer{Hemant, Lata}%
+\music{Mohammad Shafi}%
+\lyrics{Madhup Sharma}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #50
+%
+\printtitle
+#indian
+%
+
+he: kuchh nazar haTii kuchh nazar jhuukii
+    Takaraake labo.N se baat chhuupii
+la: ye baat chhupaa_e chhup na sakii
+    ham tum se muhabbat kar baiThe
+
+ko: do bol tere miiThe miiThe
+
+la: (do bol tere miiThe miiThe
+     dil jaan ke maalik ban baiThe) \-2 \threedots
+
+la: tuu palako.n kii parachhaa_ii me.n
+    tuu ye dil kii gaharaa_ii me.n
+    ham ek ishaare par apanii
+    duniyaa ko tumhaaraa kar baiThe \threedots
+
+la: khushiiyo.n kaa jo aayaa ye melaa
+    dil teraa akelaa jab se milaa
+    aakaash kii suunii jholii me.n
+    ham chaa.Nd sitaare bhar baiThe \threedots
+
+%
+#endindian
+\endsong
+%

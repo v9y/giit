@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aa.Nkhe.n pyaarii hai.n ... jo mere siine me.n}%
+\film{Yeh Hai Jalwa}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Ameesha Patel, Rishi Kapoor, Rinki Khanna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa.Nkhe.n pyaarii hai.n baate.n pyaarii hai.n
+par sabase pyaaraa teraa dil hai
+jo mere siine me.n dha.Dakataa hai dha.Dakataa hai
+aa.Nkhe.n pyaarii \threedots
+
+mauqaa bhii hai mausam bhii hai hai.n aramaan mastii bhare
+hotaa hai jo ho jaane do hai.n ye haalaat badale hu_e
+ta.Dapataa hai man meraa machalataa hai tan meraa
+ho tere pyaar kaa ek sholaa hai
+jo mere siine me.n bha.Dakataa hai bha.Dakataa hai
+
+mushqil ba.Daa kahanaa hai ye merii saa.Nso.n me.n tuufaan hai
+roko nahii.n kah do sanam tujhape qurbaan ye jaan hai
+nahii.n tum bin ab gujaaraa mere dil kaa tuu sahaaraa
+o tere pyaar kaa ik saavan hai
+jo mere siine me.n barasataa hai barasataa hai
+aa.Nkhe.n pyaarii \threedots
+%
+#endindian
+\endsong
+

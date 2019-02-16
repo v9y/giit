@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{dilawaale dilawaale ... tum priit na kar pachhataanaa}%
+\film{Natak}%
+\year{1947}%
+\starring{Suraiyya, Amar, Sofiya}%
+\singer{Umadevi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12166 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+dilawaale dilawaale
+jal\-jal kar hii mar jaanaa
+tum priit na kar pachhataanaa \-2
+dilawaale dilawaale
+
+( priit kii dil se aaG uThe
+aur dono.n taraf lag jaaye ) \-2
+tan ko jalaaye man ko jalaaye \-2
+phir bhii na nikale haay \-2
+ek shamaa ho ek parawaanaa
+
+tum priit na kar pachhataanaa \-2
+dilawaale dilawaale
+
+( ra.ng\-ra.ngiilii duniyaa me.n hai.n
+ra.ng\-ra.ng ke dhokhe
+do din kii jiiwan\-maayaa
+isako naa bitaanaa ro ke ) \-2
+ha.Ns\-ha.Ns kar priit nibhaanaa
+
+tum priit na kar pachhataanaa \-2
+dilawaale dilawaale
+jal\-jal kar hii mar jaanaa
+tum priit na kar pachhataanaa \-2
+dilawaale dilawaale
+%
+#endindian
+\endsong
+

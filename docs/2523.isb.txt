@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ajanabii se ban ke karo na ishaaraa}%
+\film{Ek Raaz}%
+\year{1963}%
+\starring{Kishore Kumar, Jamuna}%
+\singer{Kishore, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ki : ajanabii se ban ke karo na kinaaraa
+     khudaaraa idhar bhii dekho
+     idhar bhii khudaaraa
+la : aap kaa to dil hai diivaanaa bechaaraa
+     ishaaraa na samajhegaa ye
+     nazar kaa ishaaraa
+
+la : ham na pa.De.nge nazaro.n kii chaah me.n
+ki : phir chal rahii ho kyo.n merii raah me.n
+la : bekhudii me.n ham ko mausam ne thaa pukaaraa
+ki : ajanabii se ban ke \threedots
+
+ki : betaab dil hai aisii bhii chaal kyaa
+la : dil hai tumhaaraa ham jaane haal kyaa
+ki : dekhiye nazar me.n afasaanaa hai hamaaraa
+     aanabii se ban ke \threedots
+
+%
+#endindian
+\endsong
+%

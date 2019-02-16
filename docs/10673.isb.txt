@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{na jaane kahaa.N kho gayaa vo zamaanaa}%
+\film{Begaana}%
+\year{1963}%
+\starring{Supriya Chaudhary, Dharmendra, Shailesh Kumar, Madhvi, Manorama}%
+\singer{Mukesh}%
+\music{Sapan Jagmohan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10351 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Sapan Jagmohan
+% 
+\printtitle
+#indian
+%
+na jaane kahaa.N kho gayaa vo zamaanaa
+yahii.n thaa chaman me.n meraa aashiyaanaa
+mai.n kis\-kis de puuchhuu.N khud apanaa Thikaanaa
+yahii.n thaa chaman \threedots
+
+vafaa_o.n ke vaade ( vahii bhuul baiThe ) \-2
+jo kahate the mujh se mohabbat nibhaanaa
+yahii.n thaa chaman \threedots
+
+muqaddar ke haatho.n hamii.n ( kuchh na siikhe ) \-2
+unhe.n aa gayaa hamase aa.nkhe.n churaanaa
+yahii.n thaa chaman \threedots
+%
+#endindian
+\endsong
+

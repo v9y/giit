@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{tujhe jiivan kii Dor se, baa.Ndh liyaa hai, terii zulm\-o\-sitam}%
+\film{Asli Naqli}%
+\year{1962}%
+\starring{Dev Anand, Sadhana}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          U V Ravindra
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafii: tujhe jiivan kii Dor se, baa.Ndh liyaa hai, baa.Ndh liyaa hai
+tere zulm\-o\-sitam, sar aa.Nkho.n par
+lataa: maine badale me.n pyaar ke, pyaar diyaa hai, pyaar diyaa hai
+terii khushiyaa.N aur gam, sar aa.Nkho.n par
+rafii: tujhe jiivan kii \threedots
+
+(apsaraa koI aae to dekhuu.N nahii.n   
+koI bahakaaye ha.nsake to bahakuu.N nahii.n   ) \- 2
+tore matavaare naino.n ne, jaaduu kiyaa
+o \threedots tore matavaare naino.n ne, jaaduu kiyaa
+terii ulfat sanam sar aa.Nkho.n par \threedots 
+
+(mere jiivan kii anamiT kahaanii hai tuu
+merii taqadiir aur zi.ndagaanii hai tuu  ) \- 2
+liye firate hai.n sabase chhupaaye hue
+o \threedots liye firate hai.n sabase chhupaaye hue
+terii tasaviir ham sar aa.Nkho.n par \threedots
+
+chaa.ND suuraj bhii hai.n terii parachhaa_iyaa.N
+tujh se roshan huii dil kii gaharaa_iyaa.N
+tere chehare kii jhilamil se ma.nzil milii
+o tere chehare kii jhilamil se ma.nzil milii
+aisii pyaarii puunam sar aa.Nkho.n par \threedots
+
+(dono): tujhe jiivan kii Dor se, baa.Ndh liyaa hai, baa.Ndh liyaa hai
+tere zulmo\-sitam, sar aa.Nkho.n par
+%
+#endindian
+\endsong
+%

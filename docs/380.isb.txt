@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{chamakate chaa.Nd ko TuuTaa huaa taaraa banaa Daalaa}%
+\film{Awargi}%
+\starring{???}%
+\singer{Ghulam Ali}%
+\music{???}%
+\lyrics{???}%
+% 
+% Contributor: Sangeeta Thakur <sat@cypress.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/28/1996
+%
+\printtitle
+#indian
+%
+chamakate chaa.Nd ko TuuTaa huaa taaraa banaa Daalaa
+merii aaavaaragii ne mujhako, aavaaraa banaa Daalaa
+
+yahii aaGaaz thaa meraa, yahii a.njaam honaa thaa
+mujhe barabaad honaa thaa, mujhe naakaam honaa thaa
+merii taqadiir ne mujhako, taqadiir kaa maaraa banaa Daalaa
+chamakate chaa.Nd ko \threedots
+
+ba.Daa dilkash ba.Daa ra.Ngiin hai yah shahar kahate hai.n
+yahaa.N par hai.n hazaaro.n ghar gharo.n me.n log rahate hai.n
+mujhe is shahar kii galiyo.n kaa ba.njaaraa banaa Daalaa
+chamakate chaa.Nd ko \threedots
+%
+#endindian
+\endsong
+%
+

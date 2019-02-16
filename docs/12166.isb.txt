@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mil ga_ii vah mujhe mil ga_ii ... jisakaa nahii.n hai javaab kahii.n}%
+\film{Jeewan Ek Sangharsh}%
+\year{1990}%
+\starring{Rakhi, Anil Kapoor, Madhuri, Anupam Kher, Paresh Rawal, Moon Moon Sen}%
+\singer{Alka Yagnik, Kavita Subramaniam, Amit Kumar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mil ga_ii vah mujhe mil ga_ii
+apsaraa gulabadan chulabulii rasabharii
+mausamii gulanashii.n chaa.Nd sii hasii.n
+jisakaa nahii.n hai javaab kahii.n
+
+mil gayaa vah mujhe mil gayaa
+manachalaa ajanabii sajiilaa naujavaa.n
+pyaar kaa devataa vo meraa meharabaa.n
+mai.n zamii.n vo meraa aasamaa.n
+usake sivaa mujhe chain kahaa.n
+mil ga_ii \threedots
+
+zulfe.n hai.n ki mahake a.ndhere
+baahe.n hai.n ki khushbuu ke ghere
+hame.n jab tum mile phuul badan khile
+dil kii kalii bhii khil ga_ii
+mil ga_ii vah mujhe mil ga_ii \threedots
+
+saa.Nso.n me.n dabii dabii halachal hai
+aa.Nkho.n me.n sulagataa saa baadal hai
+teraa ko_ii doSh nahii.n tujhe ko_ii hosh nahii.n
+pyaar me.n meraa dil gayaa
+mil ga_ii vah mujhe mil ga_ii \threedots
+%
+#endindian
+\endsong
+

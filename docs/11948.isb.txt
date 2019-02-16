@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{kR^iShNaa kR^iShNaa bol pyaare}%
+\film{Insaaf/ The Final Justice}%
+\year{1997}%
+\starring{Akshay Kumar, Shilpa Shetty, Ranjeet, Paresh, Aloknath, Mohan Joshi}%
+\singer{}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kR^iShNaa kR^iShNaa bol pyaare man kii aa.Nkhe.n khol pyaare
+nas nas me.n ras ghol pyaare madamastii me.n Dol pyaare
+maan le meraa kahanaa haa.N dam pe dam maare jaa 
+kR^iShNaa kR^iShNaa bol \threedots
+
+laa laa laa laa premikaa premikaa
+duniyaa vaale kuchh bhii bole.n kabhii fikar mat karanaa
+maje luuTanaa mauj manaanaa kabhii naa aahe.n bharanaa
+jo jitanaa badanaam hogaa utanaa usakaa naam hogaa
+dard me.n jiinaa aaraam hogaa usakaa hii sab kaam hogaa
+maan le meraa kahanaa \threedots
+%
+#endindian
+\endsong
+

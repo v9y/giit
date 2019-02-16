@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aavaaragii hamaarii}%
+\film{Yeh Nazdeekiyaan}%
+\year{1982}%
+\starring{Jeetendra, Parveen Babi, Shabana Azmi}%
+\singer{Talat Aziz}%
+\music{Raghunath Seth}%
+\lyrics{Vinod Pande}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+aavaaragii hamaarii pyaari-sii thii kabhii jo
+vahii aaj hamako rulaane lagii hai
+jo bharatii thii dil me.n tara.nge hameshaa
+vahii aaj dil ko jalaane lagii hai
+aavaaragii hamaarii
+
+na ko_ii Gam na gilaa na ko_ii shugaha ka nishaan
+paayii thii har khushii har suquu.N hamako thaa
+naGame the, bahaaro.n ke tarannum har kahii.n
+phir bhii kyo.n ham bhaTakaa kiye
+yah tuu hii bataa, aavaaragii, aavaaragii
+aavaaragii hamaarii   \threedots
+
+khaamoshiyaa.N hai.n har taraf, tan_haaiyaa.N hai.n har taraf
+yaado.n ke bha.Nvar se ab kaise nikale.n
+saathii na rahaa ko_ii na ko_ii hamasafar
+zi.ndagii ke safe.n par likhane ko
+hai ab to bas aavaaragii, aavaaragii
+aavaaragii hamaarii   \threedots
+
+%
+#endindian
+\endsong
+%
+

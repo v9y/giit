@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{aane vaalaa pal, jaane vaalaa hai}%
+\film{Golmaal}%
+\year{}%
+\starring{Amol Palekar, Bindiya Goswami}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%	   Arun Verma (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aane vaalaa pal jaane vaalaa hai
+ho sake to is me.n
+zi.ndagii bitaa do
+pal jo ye jaane vaalaa hai
+
+ek baar yuu.N milii,  maasuum sii kalii   (2)
+khilate hue kahaa 
+khush paash mai.n chalii
+dekhaa to yahii.n hai.n
+Dhuu.NDhaa to nahii.n hai.n
+pal jo ye jaane vaalaa hai.n
+
+o ho
+aane vaalaa pal jaane vaalaa hai.n
+ho sake to is me.n,  zi.ndagii bitaa do
+pal jo ye jaane vaalaa hai.n
+
+ek baar vaqt se,  lamahaa giraa kahii.n   (2)
+vahaa.N daastaa.n milii
+lamahaa kahii.n nahii.n
+tho.Daa saa ha.Nsaake
+tho.Daa saa rulaake
+pal ye bhii jaane vaalaa hai.n
+
+o ho
+aane vaalaa pal jaane vaalaa hai.n
+ho sake to is me.n,  zi.ndagii bitaa do
+pal jo ye jaane vaalaa hai.n
+%
+#endindian
+\endsong
+%

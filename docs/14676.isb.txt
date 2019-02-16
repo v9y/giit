@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{muhabbat chiiz hai kyaa muhabbat karake dekhe.nge}%
+\film{Yeh Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Biswajeet, Sharmila Tagore, Mumtaz}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #11503 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+muhabbat chiiz hai kyaa muhabbat karake dekhe.nge \-2
+qazaa kahate hai.n kisako kisii par mar ke dekhe.nge
+muhabbaat chiiz hai \threedots
+
+( ba.Daa hii Kuubasuurat dil se vaadaa kar liyaa hamane
+ki tum par jaan dene kaa iraadaa kar liyaa hamane ) \-2
+( kahaa.N hai pyaar kii suulii ) \-2 ye suulii cha.Dh ke dekhe.nge
+qazaa kahate hai.n \threedots
+
+( tumhaare dar pe dil apanaa muhabbat kaa savaalii hai
+nashiilii aa.Nkh se dekho suraahii dil kii khaalii hai ) \-2
+( chhalak jaatii hai kaise ) \-2 suraahii bhar ke dekhe.nge
+qazaa kahate hai.n \threedots
+
+( liyaa jaa_egaa kab tak jaan\-e\-man imtahaa.N apanaa
+sunaa do muskuraa kar faisalaa kuchh meharabaa.N apanaa ) \-2
+( tumhaare faisale par ) \-2 Kushii se mar ke dekhe.nge
+qazaa kahate hai.n \threedots
+%
+#endindian
+\endsong
+

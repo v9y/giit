@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{din kuchh aise Guzaarataa hai ko_ii}%
+\film{Marasim (Non-Film)}%
+\year{1999}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #11648 [Nelson Fernandes]
+% Transliterator: V S Rawat
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+din kuchh aise Guzaarataa hai ko_ii
+jaise ehasaa.N utaarataa hai ko_ii
+din kuchh aise \threedots
+
+aa_iinaa dekh kar tasallii hu_ii
+hamako is ghar me jaanataa hai ko_ii
+din kuchh aise \threedots
+
+pak gayaa hai shajar pe phal shaayad
+phir se patthar uchhaalataa hai ko_ii 
+din kuchh aise \threedots
+
+% shajar = pe.D = ##tree##
+
+duur se Guzarate hai.n sannaaTe
+jaise hamako pukaarataa hai ko_ii
+din kuchh aise \threedots
+%
+#endindian
+\endsong
+

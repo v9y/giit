@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ishq sama.ndar ... meraa yaar milaa de mujh ko}%
+\film{Kaante}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sanjay Dutt, Sunil Shetty, Kumar Gaurav, Mahesh Manjarekar, Lucky Ali, Tabu, Malaika Arora}%
+\singer{Anand Raj Anand, Sunidhi Chauhan}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Raj Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq jab had se paar ho jaa_e
+zi.ndagii beqaraar ho jaa_e
+ishq itanaa bhii naa jataa_o ke
+husn sar pe savaar ho jaa_e
+
+ishq sama.ndar ishq sama.ndar
+meraa yaar milaa de mujh ko
+duu.N laakh du_aa_e.N tujh ko
+haa.n meraa yaar milaa de mujh ko
+duu.N laakh du_aa_e.N tujh ko
+
+diidaar binaa dilabar ke kuchh suujh rahaa naa mujh ko
+use dil kii baat bataa degaa merii aa.Nkho.n kaa ma.nzar
+o ishq sama.ndar dil de a.ndar ishq sama.ndar dil de
+meraa yaar milaa de \threedots
+
+ko_ii bevafaa nahii.n hotaa dil kaa buraa nahii.n hotaa
+qismat se diivaano.n kaa har vaqt buraa nahii.n hotaa
+siinaa chhalanii ho jaataa hai jab chale vaqt kaa Ka.njar
+o ishq sama.ndar \threedots
+
+bevafaa se bhii pyaar hotaa hai
+yaar kuchh bhii ho yaar hotaa hai
+ishq sama.ndar
+
+tujh se hii pyaar karanaa hai teraa intazaar hai karanaa
+mere li_e to jiinaa tere ishq me.n hai maranaa
+kitanaa aur duur tuu bhaagegaa daulat ke li_e sika.ndar
+o ishq sama.ndar \threedots
+%
+#endindian
+\endsong
+

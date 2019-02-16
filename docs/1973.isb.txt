@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{zaraa saa jhuum luu.N mai.n}%
+\film{Dilwale Dulhaniya Le Jayenge}%
+\year{1995}%
+\starring{Shah Rukh Khan, Kajol, Amrish Puri, Farida Jalal, Anupam Kher}%
+\singer{Asha, Abhijit}%
+\music{Jatin-Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+huu.N huu.N   \threedots
+laa laa laa   \threedots
+aa  : zaraa saa jhuum luu.N mai.n
+abhi: are na re na re na
+aa  : zaraa saa ghuum luu.N mai.n
+abhi: are na re na re na
+aa  : aa tujhe chuum luu.N mai.n
+abhi: are na re baabaa na
+aa  : mai.n chalii banake havaa
+abhi: rabba mere mai.n_nu bachaa
+
+aa  : mausam bhii be_imaan mastii kaa ye samaa
+      roko logo.n zamii.n pe girane lagaa aas_maa.N
+      Thumak Thumak ke jhuuluu.Ngii
+      mai.n u.Dake gagan ko chhuu luu.Ngii
+      mai.n chalii banake havaa
+abhi: rabba mere mai.n_nu bachaa   \threedots
+
+aa  : ThaNDii ThaNDii pavan jalataa hai ye badan
+      jii chaahataa hai banaa luu.N tujhako apanaa sajan
+      hu_aa nahii.n ye pahale kabhii merii chaal badal gayii abhii abhii
+      mai.n chalii banake havaa
+abhi: rabba mere mai.n_nu bachaa   \threedots
+
+abhi: jaatii hai tuu kahaa.N jaan\-e\-man jaan\-e\-jaa.N
+      la.Dakii hai tuu khuubasuurat la.Dakaa mai.n naujavaa.N
+      tujhe gale lagaa luu.N aa palako.n me.n biThaa luu.N aa
+      ho gayaa mujhe nashaa
+aa  : rabba mere mai.n_nu bachaa   \threedots
+
+abhi: zaraa saa jhuum luu.N mai.n
+aa  : are na re na re na
+abhi: zaraa saa ghuum luu.N mai.n
+aa  : are na re na re na
+abhi: aa tujhe chuum luu.N mai.n
+aa  : are na re baabaa na
+abhi: mai.n chalii banake havaa
+aa  : rabba mere mai.n_nu bachaa
+
+%
+#endindian
+\endsong
+%

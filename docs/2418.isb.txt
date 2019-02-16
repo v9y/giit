@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mohe panaghaT pe nand_laal chhe.D gayo re}%
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Madhubala, Dilip Kumar, Prithviraj Kapoor, Durga Khote, Ajit}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mohe panaghaT pe nandalaal chhe.D gayo re
+morii naajuk kala_iyaa maro.D gayo re
+mohe panaghaT pe   \threedots
+
+ka.nkarii mohe maarii, gagariyaa pho.D daarii
+morii saa.Dii anaa.Dii bhigoy gayo re
+mohe panaghaT pe   \threedots
+
+naino.n se jaaduu kiyaa, jiyaraa moh liyaa
+moraa ghuu.NghaTaa najariyo se to.D gayo re
+mohe panaghaT pe   \threedots              
+
+%
+#endindian
+\endsong
+%

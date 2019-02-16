@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{maut aayegii maut aanii hai}%
+\film{Naghmaa}%
+\year{1953}%
+\starring{Nadira, Ashok Kumar, Om Prakash, Rupmala, Murad}%
+\singer{Afzal Hussain}%
+\music{Nashad}%
+\lyrics{Nakhshab+Shokh Lakhnavi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+maut aayegii maut aanii hai
+ek na ek roz jaan jaanii hai
+
+taaj me.n jinake Ta.nkate the gauhar
+Thokare.n khaa rahe hai.n unake sar
+kam nahii.n aasamaa.N jafaa_o.n me.n
+dha.Dakate hai.n dil fajaa_o.n me.n
+Gam se majabuur aaj milate hai.n
+hai.n zabaa.N band ho.nTh hilate hai.n
+dil ko hamajoliyo.n me.n bahalaanaa
+yaa akele me.n dil ko samajhaanaa
+rote rahanaa bahut tabiiyat ko
+yaad rakhanaa merii vasiiyat ko
+dekho aahe.n machal na jaaye.n kahii.n
+mu.Nh se naale nikal na jaaye.n kahii.n
+yaad karake mujhe bhulaa denaa
+dil kisii aur jaa lagaa lenaa
+dekh lo aaj hamako jii bhar ke
+ko_ii aataa nahii.n hai phir mar ke
+dil me.n le kar tumhaarii yaad chale
+haay duniyaa se naamuraad chale
+
+#endindian
+\endsong

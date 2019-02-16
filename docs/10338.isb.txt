@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{kaise bataa_uu.N unase ... dil beqaraar kyuu.N hai}%
+\film{Anjuman}%
+\year{1948}%
+\starring{Nargis, Jairaj}%
+\singer{Mukesh, Shamshad}%
+\music{Bulo C Rani}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10082 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	kaise bataa_uu.N unase is dil ko pyaar kyuu.N hai
+	dil beqaraar kyuu.N hai
+sha \:	unako bhulaa ke unakaa ab i.ntazaar kyuu.N hai
+	dil beqaraar kyuu.N hai
+
+	maaluum kyaa thaa aa.Nsuu parada me.n hai.n ha.Nsii ke
+mu \:	kisako Kabar thii yuu.N din badale.nge zindagii ke
+sha \:	ik bevafaa kii Kaatir be_iKtiyaar kyuu.N hai
+	dil beqaraar kyuu.N hai
+	unako bhulaa ke \threedots
+
+	batalaa_o ai bahaaro bolo are nazaaro
+mu \:	mai.n tumase puuchhataa huu.N chup kyuu.N ho ai sitaaro
+sha \:	kaalii hai chaa.Ndanii kyuu.N uja.Dii bahaar kyuu.N hai
+do \:		dil beqaraar kyuu.N hai
+sha \:	unako bhulaa ke \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{yah log puuchhate hai.n mujhe kitanaa pyaar hai}%
+\film{Sooryavanshi}%
+\year{1992}%
+\starring{Salman, Sheeba, Amrita, Saeed Jafrey, Sushma Seth, Puneet Issar}%
+\singer{Kavita Subramaniam, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Kulwant Jani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yah log puuchhate hai.n mujhe kitanaa pyaar hai
+kaise bataa_uu.n tujhape dil\-o\-jaa.n nisaar hai
+
+yah log puuchhate hai.n mujhe kitanaa pyaar hai
+kaise bataa_uu.n tuu meraa hamadam hai yaar hai
+hamaraaz hamasafar hai meraa hamanavaa hai tuu
+dil me.n jo mere baat hai sab jaanataa hai tuu
+
+milate hii tum se dil ko ye ehasaas ho gayaa
+rishtaa meraa tumhaaraa ko_ii khaas ho gayaa
+duniyaa me.n isase ba.Dhake bhii kyaa ko_ii pyaar hai
+kaise bataa_uu.n tujhape \threedots
+
+vah dostii hai jo ye karishmaa dikhaa sake
+ik buu.nd me.n bhii pyaar kaa saagar samaa sake
+taakat hai sirf pyaar me.n yah gul khilaa sake
+patthar ko bhii taraash ke hiiraa banaa sake
+tuu hii mere nasiib kii pahalii bahaar hai
+kaise bataa_uu.n tujhape \threedots
+%
+#endindian
+\endsong
+

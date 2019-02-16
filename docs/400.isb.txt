@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{chhoTii sii ye duniyaa, pahachaane raasate hai.n}% 
+\film{Rangoli}%
+\starring{Kishore}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+chhoTii sii ye duniyaa, pahachaane raste.n hai.n 
+tum kabhI to miloge, kahii.n to miloge to puuchhe.nge haal 
+chhoTii sI \threedots
+
+ham to ye samajhe.nge hamane ek patthar ko puujaa 
+lekin tumako apane jaisA nahii.n milege duujaa, nahii.n milegaa duujaa 
+chhoTii sii ye duniyaa \threedots
+
+siikhaa nahii.n hamaare dil ne pyaar me.n dhiiraj khonaa 
+aag me.n jal ke bhI jo nikhaare, hai vohii sachchaa sonaa, hai vohI sachchaa sonaa 
+chhoTii sii ye duniyaa \threedots
+
+dil kI daulat mat Thukaraao, dekho pachhatAoge
+aaj chale jaate ho jaise, lauT ke bhI aaoge, lauT ke bhI aaoge 
+chhoTii sii ye duniyaa \threedots
+%
+#endindian
+\endsong
+%

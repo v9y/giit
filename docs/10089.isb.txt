@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{man teraa meraa ... mai.n dil ban ke tujh me.n}%
+\film{Aaghaaz}%
+\year{2000}%
+\starring{Sunil Shetty, Sushmita Sen, Namrata Shirodkar}%
+\singer{Babul Supriyo, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+man teraa meraa man ek rahe teraa meraa man
+muhabbat kaa matalab samajhane lagaa huu.N
+mai.n dil ban ke tujh me.n dha.Dakane lagaa huu.N
+man teraa meraa \threedots
+
+muhabbat kaa matalab samajhane lagii huu.N
+mai.n dil ban ke tujh me.n dha.Dakane lagii huu.N
+man teraa meraa \threedots
+
+dekhuu.n jahaa.n pyaar hii pyaar ho
+aisaa khyaalo.n kaa sa.nsaar ho
+nanhe.n khilauno.n se bhar jaa_e ghar
+ghar ko lage naa kisii kii nazar
+yahii soch kar mai.n ta.Dapane lagaa huu.N
+mai.n dil ban ke \threedots
+
+vaadii me.n guu.nje.ngii shahanaa_iiyaa.n
+miT jaa_e.ngii saarii tanhaa_iiyaa.n
+meha.ndii mahaavar lagaa_uu.ngii mai.n
+si.nduurii sapane sajaa_uu.ngii mai.n
+isii aarazuu se mahakane lagii huu.N
+mai.n dil ban ke \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{tum apanii yaad bhii dil se}%
+\film{Yasmin}%
+\year{1955}%
+\starring{Vyjayantimala, Suresh, Jayant }%
+\singer{Lata, Talat}%
+\music{C Ramchandra}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  Anil Hingorani
+% Transliterator:  K Vijay Kumar
+% Date: December 8, 2000
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+ 
+talat:
+tum apanii yaad bhii dil se bhulaa jaate to achchhaa thaa
+lataa:
+ye do aa.Nsuu lagii dil kii bujhaa jaate to achchhaa thaa
+ 
+talat:
+mere aramaa.N bhii le jaate merii hasarat bhii le jaate \-2
+nazar se chiin kar apanii hasii.n suurat bhii le jaate
+a.ndhere aur in aa.Nkho.n me.n chhaa jaate to achchhaa thaa
+tum apanii yaad bhii  \threedots
+
+lataa:
+mere dil kii muhabbat kaa yaqii.n kab tum ko aayaa thaa \-2
+jahaa.N sau zulm Dhaaye the jahaa.N dil ko miTaayaa thaa
+mujhe bhii apane haatho.n se miTaa jaate to achchhaa thaa
+ye do aa.Nsuu lagii dil kii  \threedots
+ 
+talat:
+meraa dil pher de merii nishaanii pherane vaale \-2
+lataa:
+jo mumakin ho to lauTaa do merii aahe.n mere naale \-2
+ham apane dil kaa khoyaa chain paa jaate to achchhaa thaa
+ye do aa.Nsuu lagii dil kii  \threedots
+ 
+%
+#endindian
+\endsong
+%

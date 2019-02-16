@@ -1,0 +1,32 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kit jaa_oge kanhaiyaa man ke basaiyaa}%
+\film{Izzat}%
+\year{1937}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Devika Rani}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+( kit jaa_oge kanhaiyaa man ke basaiyaa
+hamase nehaa lagaa ke ) \-2
+
+chhabii nainan me.n muurat man me.n \-2
+basii hu_ii hai samaa ke \-2
+palak muu.Nd tumakaa laaj aa rii \-2 ??
+raakho man biramaa ke
+palak muu.Nd tumakaa laaj aa rii
+raakho man biramaa ke
+
+kit jaa_oge kanhaiyaa man ke basaiyaa
+hamase nehaa lagaa ke
+
+#endindian
+\endsong

@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{teraa jalavaa jisane dekhaa vo teraa ho gayaa}%
+\film{Ujaalaa}%
+\year{1959}%
+\starring{Shammi Kapoor, Mala Sinha, Rajkumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11448 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( teraa jalavaa jisane dekhaa vo teraa ho gayaa
+mai.n ho ga_ii kisii kii ko_ii meraa ho gayaa ) \-2
+kyaa dekhaa dil ne tujhame.n kyo.n teraa ho gayaa
+ye sochate hii sochate saveraa ho gayaa
+teraa jalavaa jisane \threedots
+
+hai tujhame.n bhii aisaa anokhaa saa jaaduu
+jo dekhe vo hotaa hai dil se beqaabuu
+laage tose nainaa tose nainaa laage
+Kyaalo.n me.n Duubii huu.N tere mai.n baabuu
+tuu aayaa to mahafil me.n ujaalaa ho gayaa
+mai.n ho ga_ii \threedots
+
+terii ik jhalak ne vo haalat banaa dii
+mere tan\-badan me.n muhabbat jagaa dii
+kabhii khul ke aa bahate paanii saa aa
+kinaare pe rahatii huu.N phir bhii mai.n pyaasii
+ab dil kaa kyaa kare.n Gam gayaa so gayaa
+mai.n ho ga_ii \threedots
+
+bulaatii hai tujhako ye aa.Nchal kii chhaiyaa
+zaraa muskuraa de pa.Duu.N tore paiyaa
+qasam hai tujhe dil kii jaan\-e\-tamannaa
+tujhe hamane maanaa hai apanaa hii saiyaa
+mai.n akelii aur teraa zamaanaa ho gayaa
+mai.n ho ga_ii \threedots
+%
+#endindian
+\endsong
+

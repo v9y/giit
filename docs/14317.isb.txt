@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o sanam ... mai.n tujhe pukaaruu.N sanam\-sanam}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12546 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	o sanam \-3
+	mai.n tujhe pukaaruu.N sanam\-sanam sanam\-sanam \-2
+su \:	mai.n tere liye huu.N terii qasam terii qasam
+do \:	o sanam \-4
+
+ra \:	abhii\-abhii aa.Nkho.n ne kyaa kiyaa re \-2
+su \:	aa.Nkho.n ne aa.Nkho.n ko chuum liyaa re \-2
+ra \:	phir kyuu.N na pukaaruu.N sanam\-sanam sanam\-sanam \-2
+do \:	o sanam \-4
+
+su \:	abhii\-abhii dil ne Kabar sunaa_ii \-2
+ra \:	aa.Nkho.n ne aa.Nkho.n se kar lii sagaa_ii \-2
+su \:	ab shauq se kah lo sanam\-sanam sanam\-sanam \-2
+do \:	o sanam \-4
+
+su \:	likhii thii qisamat me.n judaa_ii \-2
+	TuuT ga_ii aa.Nkho.n kii sagaa_ii \-2
+ra \:	ab tum mujhako yaad na karanaa
+	merii qasam fariyaad na karanaa
+
+	jaane waale chale gaye \-2
+	ham kahate rah gaye sanam\-sanam sanam\-sanam \-2
+	o sanam \-4
+%
+#endindian
+\endsong
+%
+

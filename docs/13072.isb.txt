@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{hasiin ho Kudaa to nahii.n ho}%
+\film{Mud Mud Ke Na Dekh}%
+\year{1960}%
+\starring{Bharat Bhushan, Anita Guha, Jivan, Tiwari, Prem Chopra, Helen}%
+\singer{Mukesh}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10212 [V S Rawat]
+% Transliterator: 
+% Comments: First Film of Prem Chopra
+% 
+\printtitle
+#indian
+%
+hasiin ho hasiin ho Kudaa to nahii.n ho
+ruko ruko havaa to nahii.n ho
+
+hasiin ho Kudaa to nahii.n ho
+ruko ruko havaa to nahii.n ho
+
+ye chaal bemisaal hai adaa bhii ye qamaal hai
+magar sunaa hai aapane qamaal to jamaal hai
+isali_e kahataa huu.N aka.D ke na chalo
+hasiin ho Kudaa to \threedots
+
+na yuu.N maTak\-maTak ke chal na paa.Nv yuu.N paTak ke chal
+kha.De hai.n ham bhii raaho.n me.n dupaTTaa na jhaTak ke chal
+bahut hasiin mile.nge hamako naaz na karo
+hasiin ho Kudaa to \threedots
+
+na rastaa hai ye aapakaa na rastaa ye mere baap kaa
+agar mai.n saath ho liyaa to kyaa gayaa janaab kaa
+mai.n aadamii huu.N kaam kaa jii saath le chalo
+hasiin ho Kudaa to \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{ba.Dii mushkil hai, khoyaa meraa dil hai}%
+\film{Anjaam}%
+\year{}%
+\starring{Shahrukh Khan, Madhuri Dixit}%
+\singer{Abhijit}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+% 
+% Contributor: Dharmesh Patel dxp8108@hertz.njit.edu 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Jan 21 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+(ba.Dii mushkil hai, khoyaa meraa dil hai
+ koii use Dhuu.NDh ke laae na	\-2
+ jaake kahaa mai.n rapaT likhaauu.N, koii batalaae na
+ mai.n rouu.N yaa ha.Nsuu.N, karuu.N mai.n kyaa karuu.N \-2)	\-2
+
+(diivaanagii kii had se, aage guzar na jaauu.N
+ aa.Nkho.n mai.n usakaa chaharaa, kaise use dikhalaauu.N)	\-2
+
+vo hai, sab se hasii.n, vaisaa, koii bhii nahii.n
+mere khudaa, usakii adaa, hai ba.Dii kaatil
+mujhe nahii.n pataa, chhaayaa hai kyaa nashaa
+mai.n rouu.N yaa ha.Nsuu.N, karuu.N mai.n kyaa karuu.N
+
+(sapano.n me.n aane vaalii, baaho.n me.n kab aaegii
+ itane dino.n tak mujhako, aise vo ta.Dapaaegii)	\-2
+
+dekhuu.N, mu.Dake jidhar, paae, vahii nazar
+merii Dagar, meraa safar, vo merii ma.nzil
+diivaanaa hai samaa, jaage hai.n armaa.n
+mai.n rouu.N yaa ha.Nsuu.N, karuu.N mai.n kyaa karuu.N
+
+ba.Dii mushkil hai, khoyaa meraa dil hai \threedots
+%
+#endindian
+\endsong
+%

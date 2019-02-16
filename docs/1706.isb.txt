@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{terii chhoTii sii ek bhuul ne saaraa gulshan jalaa diyaa}%
+\film{Shiksha}%
+\year{1978}%
+\starring{Raj Kiran, Sushma Varma, Master Sandeep, Beena}%
+\singer{Yesudas}%
+\music{Bappi Lahiri}%
+\lyrics{Gauhar Kanpuri}%
+% 
+% Contributor: Malini Kanth <MaliniX_Kanth@ccm.hf.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+% Credits: ADhareshwar@worldbank.org <Ashok Dhareshwar>
+%
+\printtitle
+#indian
+%
+terii chhoTii sii ek bhuul ne saaraa gulshan jalaa diyaa
+kyaa mahake.nge phir phuul kabhii, kyaa phir se bahaare.n aae.ngii
+
+jaane kahaa.N kii riit hai ye, koii kare aur koii bhare
+nyaaya nahii.n anyaaya hai ye, doshii ji_e, nirdosh mare
+sun le tuu ai qaafil (???), tujhase kahe teraa dil
+terii chhoTii sii \threedots
+
+tuune a.ndhere de ke ise, chhiin lii naino.n kii muskaan
+saa.Njh savere, raat aur din, isake lie ek samaan
+sun le tuu ai qaafil (???), tujhase kahe teraa dil
+terii chhoTii sii \threedots
+
+tere chalan kii aa.Ndhii ne, dekh le kitane ghar luuTe
+bikhar gae rishte naate, jiivan ke saathii chhuuTe
+sun le tuu ai qaafil (???), tujhase kahe teraa dil
+terii chhoTii sii \threedots
+%
+#endindian
+\endsong
+%
+

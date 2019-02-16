@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{qismat kii, baazii kaa, faisalaa to, ho gayaa hai}%
+\film{Aap To Aise Na The}%
+\year{1980}%
+\starring{Ranjeeta, Raj Babbar}%
+\singer{Asha, Suresh Wadkar, Manhar}%
+\music{Usha Khanna}%
+\lyrics{Nida Fazli}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kismat kii, baazii kaa, faisalaa to, ho gayaa hai
+faasalaa bhii, kho gayaa hai, dekhe.n kisako kaun milataa hai
+
+jisako jise milanaa hai, har haal me.n milataa hai 
+duniyaa me.n muhabbat hii, kismat ko badalatii hai
+ye shammaa havaao.n me.n, bujhatii nahii.n jalatii hai
+kismat kii a\-ha\-haa, baazii kaa a\-ha\-haa,
+faisalaa to o\-ho\-ho ho gayaa hai a\-ha\-haa, faasalaa bhii \threedots
+
+kudarat hii banaatii hai har rishtaa muhabbat kaa 
+yuu.N bhii kabhii hotaa hai, anajaan sii raaho.n me.n
+kismat jise kahate hai.n, aa jaatii hai baaho.n me.n,
+kismat kii e e e, baazii kaa aa aa aa aa,
+faisalaa to o o o ho gayaa hai ai ai ai, faasalaa bhii \threedots
+
+har roz nahii.n banatii tasaviir muhabbat kii
+jo saa.Nso.n me.n rahataa hai, jo palako.n me.n sotaa hai
+vo pyaar javaanii me.n, ik baar hii hotaa hai
+kismat kii a\-ha\-haa \threedots
+%
+#endindian
+\endsong
+%

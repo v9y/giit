@@ -1,0 +1,90 @@
+
+%
+\startsong
+\stitle{a_ii a_ii aa ... ai chiTakuu bhaTakuu ... chal jhuume.n ham mastii me.n}%
+\film{Surya}%
+\year{2003}%
+\starring{Milind Soman, Natanya Singh}%
+\singer{Shael, Baby}%
+\music{Aadesh Shrivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11770 [V S Rawat]
+% Producer: Lucky Star's Entertainment Ltd, www.luckystarsentertainment.net, contact@luckystarsentertainment.net
+% Director: Parto Ghosh
+% Audio: Lucky Star's Entertainment
+% Cassette: Royal Stereo LSFC 1013, Cost: Rs 45/-, CD: Royal Stereo LSFD 1013, Cost: Rs 55/-
+%
+\printtitle
+#indian
+%
+be \:	a_ii a_ii aa \-3
+ko \:	saa saa la_ii laa laa la_ii laa laa la_ii laa laa \-2
+	saa saa la_ii laa laa la_ii laa laa la_ii laa laa laa
+
+be  \:	ai chiTakuu bhaTakuu kidhar ko jaa relaa
+	are bataa naa bii.Duu kaa_e ko maamaa banaa relaa
+ko \:	ai chiTakuu bhaTakuu kidhar ko jaa relaa
+	are bataa naa bii.Duu kaa_e ko maamaa banaa relaa
+	
+shai \:	ko_ii Kush hai ko_ii naaraaz hai kyaa ##style## hai kyaa andaaz hai
+	yahaa.N to apun kaa hii raaj hai are ham saa hai ko_ii kahaa.N
+
+	chal jhuume.n ham mastii me.n
+ko \:	mastii me.n \-3
+shai \:	chal ghuume.n ham mastii me.n
+ko \:	mastii me.n \-2
+shai \:	chal jhuume.n ham mastii me.n
+ko \:	mastii me.n \-3
+shai \:	chal ghuume.n ham mastii me.n
+
+ko \:	ho
+be \:	a_ii a_ii aa \-3
+
+ko \:	hoy \-11
+shai \:	tiir\-e\-nazar se kaT jaa_egii ko_ii poragii to paT jaa_egii haa
+ko \:	uu
+shai \:	tiir\-e\-nazar se kaT jaa_egii ko_ii poragii to paT jaa_egii
+	are juhuu kii sair karaa_e.Nge saagar ke jal se nahalaa_e.Nge
+ko \:	kyaa
+	juhuu kii sair karaa_e.Nge saagar ke jal se nahalaa_e.Nge
+	are aa_egaa yaaro.n mazaa he he he
+
+	chal jhuume.n dil kii kashtii me.n
+ko \:	kashtii me.n \-2
+shai \:	chal ghuume.n ham bastii me.n
+ko \:	mastii me.n
+ko \:	saa saa la_ii laa laa la_ii laa laa la_ii laa laa \-2
+	saa saa la_ii laa laa la_ii laa laa la_ii laa laa laa
+
+shai \:	apanaa to ghar ye phuTapaath hai maalik to apane hii saath hai
+	kyuu.N
+	apanaa to ghar ye phuTapaath hai maalik to apane hii saath hai
+	kabhii aam hai to kabhii Kaas hai ham to ba.De hii bindaas hai.n
+	kyuu.N bii.Duu
+ko \:	kabhii aam hai.n to kabhii Kaas hai.n ham to ba.De hii bindaas hai.n
+shai \:	are kisako yahaa.N hai pataa
+	haa.N haa.N haa.N
+	
+	chal jhuume.n apanii hastii me.n
+ko \:	hastii me.n \-2
+shai \:	chal ghuume.n ham bastii me.n
+ko \:	mastii me.n
+be  \:	ai chiTakuu bhaTakuu kidhar ko jaa relaa
+ko \:	are bataa naa bii.Duu kaa_e ko maamaa banaa relaa
+shai \:	ko_ii Kush hai ko_ii naaraaz hai kyaa ##style## hai kyaa andaaz hai
+	yahaa.N to apun kaa hii raaj hai are ham saa hai ko_ii kahaa.N
+
+	chal jhuume.n
+ko \:	jhuume.n
+shai \: ham mastii me.n
+ko \:	ham
+	mastii me.n \-3
+shai \:	chal ghuume.n ham mastii me.n
+ko \:	mastii me.n \-3
+ko \:	( saa saa la_ii laa laa la_ii laa laa la_ii laa laa \-2
+	saa saa la_ii laa laa la_ii laa laa la_ii laa laa laa ) \-3
+%
+#endindian
+\endsong
+

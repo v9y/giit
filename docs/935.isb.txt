@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{kabhii kabhii yuu.Nhii hamane apane jii ko bahalaayaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Nida Fazli}%
+% 
+% Contributor: Ramesh Hariharan ( rameshh@acad1.tp.ac.sg ) 
+% Transliterator: Rajiv Shridhar ( rajiv@hendrix.coe.neu.edu ) 
+% Date: Thu Aug  3 1995
+% Credits:  
+%	  
+%	 
+% Editor:  
+% Comments:  From the album "VISIONS"
+%
+\printtitle
+#indian
+%
+kabhii kabhii yuu.Nhii hamane apane jii ko bahalaayaa hai
+jin baato.n ko khud nahii.n samajhe, auro.n ko samajhaayaa hai
+
+hamase puuchho izzat vaalo.n kii izzat kaa haal kabhii
+hamane bhii is shahar me.n rahakar tho.Daa naam kamaayaa hai
+
+usase bichha.De baraso.n biite, lekin aaj na jaane kyo.n
+aa.Ngan me.n ha.Nsate bachcho.n ko be\-kaaraN dhamakaayaa hai
+
+koii milaa to haath milaayaa, kahii.n ga_e to baate.n kii
+ghar se baahar jab bhii nikale, din bhar bojh uThaayaa hai
+%
+#endindian
+\endsong
+%

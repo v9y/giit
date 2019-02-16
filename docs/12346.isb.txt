@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aahe Dhol baje raat saje}%
+\film{Kehtaa Hai Dil Baar Baar}%
+\year{2002}%
+\starring{Jimmy Shergil, Kim Sharma, Paresh Rawal}%
+\singer{Udit Narayan, Kavita Subtamaniam}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aahe Dhol baje raat saje guu.Nje.n shahanaa_iiyaa.N bhii
+are chunarii u.De dulhan kii chhe.De.n puravaa_iiyaa.N bhii
+haay guu.Nje.n shahanaa_iiyaa.N bhii
+o chhe.De.n puravaa_iiyaa.N bhii
+are Dhol baje \threedots
+Dhol baje raat saje ho
+
+naino.n ko nainaa chhe.Date hai.n karate hai.n baate.n pyaar kii
+o ye dil diivaanaa jaanataa hai marzii diivaane yaar kii
+haay jaage.n a.nga.Daa_iiyaa.N bhii 
+o guu.Nje.n shahanaa_iiyaa.N bhii
+Dhol baje raat saje ho
+
+man se man kii Dor baa.Ndhii aaj garabe me.n jhuum ke
+ho aa_e re aa_e din khushii ke ham to naache.nge jhuum ke
+ho ha.Nse.n a.nganaa_iiyaa.N bhii
+ho miTe.n tanhaa_iiyaa.N bhii
+Dhol baje \threedots
+%
+#endindian
+\endsong
+

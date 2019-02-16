@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{o kanhaiyaa aaj aanaa Kvaab me.n}%
+\film{Kanhaiyaa}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10868 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	o kanhaiyaa o kanhaiyaa aaj aanaa Kvaab me.n
+	apanii raadhaa ko gale se tuu lagaanaa Kvaab me.n
+ko \:	o kanhaiyaa \threedots
+
+la \:	nain hamaare teraa ma.ndir aur ye dil aaratii
+ko \:	aur ye dil aaratii
+la \:	le ga_ii hai dil hamaaraa terii suurat saa.Nvarii
+ko \:	terii suurat saa.Nvarii
+la \:	kah rahii hai gunagunaakar man kii koyal baavarii
+ko \:	man kii koyal baavarii
+la \:	o kanhaiyaa \threedots
+
+la \:	jab suhaanii shaam aa_e yaad aa_e shaam kii
+ko \:	yaad aa_e shaam kii
+la \:	jap rahii huu.N prem maalaa mai.n tumhaare naam kii
+ko \:	mai.n tumhaare naam kii
+la \:	tum nahii.n merii vyaakul zindagii kis kaam kii
+ko \:	o kanhaiyaa \threedots
+
+la \:	aaj palako.n ke jharokho.n mai.n bulaa luu.Ngii tujhe
+ko \:	mai.n bulaa luu.Ngii tujhe
+la \:	dil ke si.nhaasan pe mohan mai.n biThaa luu.Ngii tujhe
+ko \:	mai.n biThaa luu.Ngii tujhe
+la \:	dono.n aa.Nkhe.n mii.nch luu.Ngii aur chhupaa luu.Ngii tujhe
+la \:	o kanhaiyaa \threedots
+%
+#endindian
+\endsong
+
+

@@ -1,0 +1,86 @@
+% 
+\startsong
+\stitle{kaun ho tum, kaun ho}%
+\film{Stree}%
+\year{1961}%
+\starring{Sandhya, V. Shantaram}%
+\singer{Mahendra Kapoor}%
+\music{C Ramchandra}%
+\lyrics{Bharat Vyas}%
+% 
+% Contributor: Shubha Tewari (st6g@fermi.clas.Virginia.EDU)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Sep  7 1995
+% Credits: P-Stats by Arun Verma (verma@cs.cornell.edu)
+%	   Additions by Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments: 'kaun ho' comes twice in the film, both times by 
+%  Mahendra Kapoor.  The Stree LP has quaint names for the two parts.  
+%  The lyrics provided by Shubha belong to the first version, called 
+%  'kaun ho tum: milan.'  In the film, it occurs just after Dushyant's 
+%  first encounter with Shakuntala.  The second version, called 'kaun 
+%  ho tum: viraha', is set after he recovers his memory, but cannot 
+%  find her.  It's very somber. 
+%
+\printtitle
+#indian
+%
+1: milan
+
+nava madiraa, jaisii an\-chakhii nava madiraa
+jaisii an\-gii.ndhaa muurtii
+jaane kisakii milan raat par
+chamakegii ye ban\-jyotii, aa aa aa
+
+kaun ho tum, kaun ho \-2
+kaun ho
+
+kavi kii madhur kalpanaa ho tum
+yaa gaayak kii madhurim taan
+yaa saritaa jal kii tara.ng ho
+arun kamal kii madhu muskaan
+
+kaun ho tum, kaun ho \-2
+kaun ho
+
+R^itu basa.nt kii pratham kalii ho
+saavan kii pahalii barasaat
+yaa chir virahii do hR^idayo.n ke
+madhur milan kii pahalii raat
+
+kaun ho tum, kaun ho \-2
+kaun ho
+
+praNaya giit kii pratham pa.nkti ho
+yaa manu kii pahalii sa.ntaan
+nav yauvan kii pratham dR^ishTii ho
+nayano.n kii pahalii pahachaan
+
+kaun ho tum, kaun ho \-2
+kaun ho
+
+2: viraha
+
+kaun ho tum, kaun ho, o o, aa aa aa
+kaun ho tum, kaun ho \-2
+kaun ho
+
+(tum ashaadh kii prathama ghaTaa ho
+ yaa pahalaa bijalii kaa baan) \-2
+yaa rimajhim pahalii puhaar kii \-2
+virahii nayan kii ashru samaan
+
+kaun ho tum, kaun ho \-2
+kaun ho
+
+vikal si.ndhu me.n karuN bi.ndu ho \-2
+ghan ghuu.NghaT me.n i.ndu samaan
+muuk hR^idaya kii chhupii huuk ho \-2
+dukhii jagat ke kampit praaN
+
+kaun ho tum, kaun ho \-2
+kaun ho
+%
+#endindian
+\endsong
+%

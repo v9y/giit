@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{koii jab raah na paae, mere sa.ng aae}%
+\film{Dosti}%
+\year{1964}%
+\starring{Sushil Kumar, Sudhir Kumar, Sanjay Khan}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+koii jab raah na paae, mere sa.ng aae
+ke pag pag diip jalaae, merii dostii meraa pyaar
+
+jiivan kaa yahii hai dastuur
+pyaar binaa akelaa majabuur
+dostii ko maane to sab dukh duur
+koI kaahe Thokar khaae, mere sa.ng aae \threedots
+
+dono ke hai.n ruup hazaar
+par merii sune jo sa.nsaar
+dostii hai bhaa_ii to bahanaa hai pyaar
+koI mat chain churaae, mere sa.ng aae \threedots
+
+pyaar kaa hai pyaar hii naam
+kahii.n miiraa kahii.n ghanashyaam
+dostii kaa yaaro nahii.n koI daam
+koi kahii.n duur naa jaae, mere sa.ng aae \threedots
+%
+#endindian
+\endsong
+%

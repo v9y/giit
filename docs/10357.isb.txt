@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{kah do kah do jahaa.N se kah do ishq par zor nahii.n}%
+\film{April Fool}%
+\year{1964}%
+\starring{Saira Bano, Bisvajiit, Jayant, Sajjan}%
+\singer{Rafi, Suman}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10958 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	kah do kah do jahaa.N se kah do ishq par zor nahii.n
+	mar jaa_e.Nge ik duuje par machegaa ko_ii shor nahii.n
+
+su \:	teraa tasavvur saat ra.ng subah\-o\-shaam
+	pyaar bharaa tuufaa.N uThaa_e subah\-o\-shaam
+	sapane suhaane dikhaa_e subah\-o\-shaam
+	dil kii zubaa.N par rahataa hai teraa naam
+	haay tumasaa kahaa.N se laa_uu.N
+	jahaa.N me.n ko_ii aur nahii.n
+	mar jaa_e.Nge ik duuje \threedots
+
+ra \:	diip kahii.n jale pata.ngaa vahii.n jaa_e
+	chaa.Nd kahii.n khile chakoraa vahii.n jaa_e
+	phuul kahii.n mahake to bha.Nvaraa vahii.n jaa_e
+	dil kaa papiihaa tere hii paas jaa_e
+	meraa dil hai vo paagal pa.nchhii
+	ke aisaa to chakor nahii.n
+	mar jaa_e.Nge ik duuje \threedots
+
+su \:	pyaar kii agan me.n jale hai.n do badan
+	kam nahii.n hogii ye pyaar kii lagan
+	pyaar hai vo sholaa bujhegaa naa kabhii
+	chaahe kitanaa paanii giraa_e ye gagan
+	pyaar itanii hasii.N zindagii hai
+	ki aisaa ko_ii daur nahii.n
+	mar jaa_e.Nge ik duuje \threedots
+%
+#endindian
+\endsong
+

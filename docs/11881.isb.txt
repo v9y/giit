@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{baalamaa re haay ... morii laT sulajhaa de}%
+\film{Hum Hindustani}%
+\year{1960}%
+\starring{Sunil Dutt, Asha Parekh, Joy Mukherjee}%
+\singer{Asha}%
+\music{Usha Khanna}%
+\lyrics{K Manohar}%
+%
+% Contributor: BOL ANAMOL #11455 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+baalamaa re haay baalamaa morii laT sulajhaa de \-2
+bindiyaa kho ga_ii kho ga_ii re
+baalamaa re haay \threedots
+
+tujhako merii priit pukaare
+ye adhuuraa giit pukaare
+o mere nain hai.n bechain zaraa dekho jii
+o meraa haal hai behaal zaraa socho jii
+baalamaa re haay \threedots
+
+dil kaa pyaaraa dil kaa vaasii
+samajhe na zaalim baat zaraa sii
+o tere pyaar kii sau baar qasam khaatii huu.N
+o tere naam pe dil thaam ke rah jaatii huu.N
+baalamaa re haay \threedots
+
+priit ne chhe.Dii hai shahanaa_ii
+dil se ho ga_ii dil kii sagaa_ii
+o mere pyaar kaa ye taar kabhii TuuTe naa
+o mere haath se ye haath kabhii chhuuTe naa
+baalamaa re haay \threedots
+%
+#endindian
+\endsong
+

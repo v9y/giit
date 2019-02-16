@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{lailaa ko bhuul jaa_e.nge majanuu.n ko bhuul jaa_e.nge}%
+\film{Saugandh}%
+\year{1991}%
+\starring{Rakhi, Akshay Kumar, Shanti Priya, Pankaj Dheer, Roopa Ganguly}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lailaa ko bhuul jaa_e.nge majanuu.n ko bhuul jaa_e.nge
+aane vaale premii ab kasame.n hamaarii khaa_e.nge
+lailaa ko bhuul jaa_e.nge \threedots
+
+is duniyaa ko pyaar sikhaanaa kaam hamaaraa hogaa
+prem granth ke har panne par naam hamaaraa hogaa
+kuchh aisaa kar jaa_e.nge hame.n log bhulaa na paa_e.nge
+lailaa ko bhuul jaa_e.nge \threedots
+
+jab tak ho.nge chaa.Nd sitaare tab tak phuul khile.nge
+bheSh badal ke ruup badal ke ham dharatii pe mile.nge
+chaahat kii khushbuu se ham to gulashan ko mahakaa_e.nge
+lailaa ko bhuul jaa_e.nge \threedots
+%
+#endindian
+\endsong
+

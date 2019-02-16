@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jab tujhe maine dekhaa nahii.n thaa}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Udit Narayan, Sadhana Sargam}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab tujhe maine dekhaa nahii.n thaa
+is tarah maine sochaa nahii.n thaa
+ko_ii bhii kuchh bhii aisaa nahii.n thaa
+ko_ii bhii tere jaisaa nahii.n thaa
+jab tujhe maine dekhaa to jaanaa
+khuubasuurat hai kitanaa zamaanaa
+jab tujhe maine \threedots
+
+yahii shahar thaa gulasitaa.n thaa
+yahii phuul the ye samaa.n thaa
+ka_ii baar guzaraa mai.n yahaa.n se
+par meraa dil na jaane kahaa.N thaa
+jab tujhe maine dekhaa to jaanaa
+uf ye mausam hai kitanaa suhaanaa
+
+zi.ndagii thii yaa ko_ii pahelii
+haa.N ye raahe.n thii.n kitanii akelii
+mai.n yuu.n hii chalii jaa rahii thii
+duur ma.nzil nazar aa rahii thii
+jab tujhe maine dekhaa to jaanaa
+bas kahii.n ab nahii.n mujhako jaanaa
+jab tujhe maine \threedots
+%
+#endindian
+\endsong
+

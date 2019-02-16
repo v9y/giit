@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{husn vaale vafaa nahii.n karate}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Rafi, Shamshad}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10251 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+ra \:	husn vaale vafaa nahii.n karate
+	ye kisii kaa bhalaa nahii.n karate
+aa \:	a ra ra ra ra dil ko thaamanaa
+ra \:	haa.N jii zaraa ho to saamanaa
+	husn vaale vafaa nahii.n karate
+	ye dard dete hai.n lekin davaa nahii.n dete
+ko \:	( davaa nahii.n dete ) \-2
+
+ra \:	churaa to lete hai.n dil phir pataa nahii.n dete
+ko \:	( pataa nahii.n dete ) \-2
+aa \:	tumhe.n banaa diyaa aashiq du_aa nahii.n dete
+ra \:	husn vaale vafaa nahii.n \threedots
+
+aa \:	galii\-galii me.n ye dil le ke ghuumane vaale
+ko \:	( ye ghuumane vaale ) \-2
+aa \:	dupaTTaa dekh ke mastii me.n jhuumane vaale
+ko \:	( ye jhuumane vaale ) \-2
+ra \:	zamii.n pe rah ke sitaaro.n ko chuumane vaale
+	chiraaG dil ke jalaa do ba.Daa a.ndheraa hai
+ko \:	( ba.Daa a.ndheraa hai ) \-2
+aa \:	zaraa sii shaam to ho le abhii saveraa hai
+ra \:	na Taalo aaj hame.n tiisaraa ye pheraa hai
+%
+#endindian
+\endsong
+

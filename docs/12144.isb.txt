@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{terii aa.Nkh mastaanii hai a.nguur kaa paanii hai}%
+\film{Jawaab Hum Denge}%
+\year{1987}%
+\starring{Shatrughan Sinha, Jackie Shrof, Sridevi, Kader Khan, Asrani}%
+\singer{Anuradha Paudwal, Shabbir Kumar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sha \:	terii aa.Nkh mastaanii hai a.nguur kaa paanii hai
+	are zaraa bach ke rahanaa gori_e terii cha.Dhatii javaanii hai
+	kahii.n se ko_ii aa_egaa u.Daa ke le jaa_egaa
+
+anu \:	haa.N merii khilatii javaanii hai laharo.n kii ravaanii hai
+	are zaraa bach ke rahanaa raajaa dariyaa tuufaanii hai
+	yahaa.N jo ko_ii aa_egaa isii me.n bah jaa_egaa
+
+sha \:	harii harii shiishe vaale chuu.Dii khanakaa ke
+	hiire motiyo.n se ja.Daa ka.nganaa bajaa ke
+	tumjhako manaa_uu.ngaa haay dil me.n basaa ke
+	kahaa.N chalii moranii ke jaise balakhaa ke
+	kajaraa lagaa ke gajaraa sajaa ke
+	teraa ra.ng baadaamii hai teraa ruup gulaabii hai
+	are zaraa bach ke rahanaa gori_e terii chaal sharaabii hai
+	tujhako ko_ii dekhegaa isii me.n bah jaa_egaa
+anu \:	merii khilatii javaanii hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{saare jahaa.N ke saamane ikaraar kar liyaa}%
+\film{Main Teraa Dushman}%
+\year{1989}%
+\starring{Jackie, Jayaprada, Tej Sapru, Rakesh Bedi, Rajesh Khanna, Anupam Kher}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saare jahaa.N ke saamane ikaraar kar liyaa
+are ab jo ho so ho hamane pyaar kar liyaa
+aaj tumhe.n jiivan saathii sviikaar kar liyaa
+are jab jo ho so ho hamane pyaar kar liyaa
+
+huur jannat kii tujhako dekhe to husn par tere vo bhii jal jaa_e
+mai.n to insaa.n huu.N devataa_o.n par ruup kaa tere jaaduu chal jaa_e
+terii priit me.n rab kaa bhii diidaar kar liyaa
+saare jahaa.N ke saamane \threedots
+
+paas tuu hai jab ko_ii ma.nzil kyaa paas tuu hai jab ko_ii saahil kyaa
+teraa ghar aa.ngan jab milaa mujhako duniyaa vaalo.n kii ko_ii mahafil kyaa
+dono.n jahaa.n kii khushiyo.n par adhikaar kar liyaa
+saare jahaa.N ke saamane \threedots
+
+ek pal bhii sahii na jaaye aaj hamase terii duurii
+duniyaa vaalo.n se le lii terii chaahat kii ma.njuurii
+ho ho har paradaa uTh jaa_egaa diivaar hai jo TuuTegii
+re maine manaa liyaa kismat ko tuu mujhase kyaa ruuThegii
+sabake dil me.n hamane ghar taiyaar kar liyaa
+saare jahaa.N ke saamane \threedots
+%
+#endindian
+\endsong
+

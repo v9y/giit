@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dekhane vaalo.n ne kyaa kyaa nahii.n dekhaa hogaa}%
+\film{Chori Chori Chupke Chupke}%
+\year{2000}%
+\starring{Salman, Rani Mukherjii, Preity Zinta}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Anaam}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhane vaalo.n ne kyaa kyaa nahii.n dekhaa hogaa
+meraa daavaa hai ke tujhasaa nahii.n dekhaa hogaa
+jis tarah maine terii raah takii hai baraso.n
+yuu.n kisii ne teraa rastaa nahii.n dekhaa hogaa
+dekhane vaalo.n ne \threedots
+
+din ho chaahe.n raat ho ham dono.n kaa saath ho
+ho.nTho.n pe mere sanam bas terii hii baat ho
+bas tujhe pyaar duu.n bas teraa naam luu.n
+bahake jo kabhii tujhako thaam luu.n
+is tarah se tujhe palako.n me.n chhupaa luu.ngaa mai.n 
+merii aa.Nkho.n me.n sirf teraa hii cheharaa hogaa
+dekhane vaalo.n ne \threedots
+
+chhaa_ii hai kyaa bekhudii ye dil bhii betaab hai
+khushbuu bikhare phuul se bas itanaa saa khvaab hai
+jab tak chhaa.nv ho jab tak dhuup ho
+aise hii khilaa teraa ye ruup ho
+jis tarah maine du_aa_o.n me.n tujhe maa.ngaa hai
+aise rab se naa kisii se tujhe maa.ngaa hogaa
+dekhane vaalo.n ne \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aaraa hile chhaparaa hile ... lachakegii jab kamariyaa}%
+\film{Apne Dam Par}%
+\year{1996}%
+\starring{Mithun, Shilpa Shirodkar, Irfan Kamal, Ankita Nigam, Govinda, Sonali}%
+\singer{Govinda, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Yogesh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chiichii chiichii chiichii poraa
+are aaraa hile chhaparaa hile aur paTanaa hilelaa
+lachakegii jab kamariyaa ##baby## saarii duniyaa hilelaa
+are mu.mba_ii hile dillii hile kalakattaa hilelaa
+lachakegii jab kamariyaa \threedots
+
+are ham to huu.N jaan sabakaa sab kare hamakaa pyaar
+sabakaa dil ham churaa luu.n u.Daa luu.n puruSh ho chaahe naar
+chhorii hile chhokaravaa hile porii poraa hilelaa
+lachakegii jab kamariyaa \threedots
+
+dekh sab kuchh hilaa ke ham to dikhalaa diyaa
+ki tumane kamar hilaa ke Dulaa ke hamakaa hilaa diyaa
+battii hile pala.ngavaa hile saaraa kamaraa hilelaa
+lachakegii jab kamariyaa \threedots
+%
+#endindian
+\endsong
+

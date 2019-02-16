@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{meraa salaam le jaa}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar,Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:25 March,2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+ko: ahaahahaa ahaa ha haa haa
+    ahaa ha haa ha haa meraa salaam le jaa
+la: meraa salaam le jaa, dil kaa payaam le jaa, ulfat kaa jaam le jaa
+    (u.Dan khaTole vaale aa re)\-2
+ko: meraa salaam le jaa, dil kaa payaam le jaa, ulfat kaa jaam le jaa
+    (u.Dan khaTole vaale aa re)\-2
+
+la: la la la laa la laa laa la ho~
+ko: la la la laa la laa laa la ho~
+la: u.Dataa havaao.n me.n, baadal ke chhaa.Nv me.n, kaun se gaa.Nv me.n
+    jaayegaa tuu
+ko: u.Dataa havaao.n me.n, baadal ke chhaa.Nv me.n, kaun se gaa.Nv me.n
+    jaayegaa tuu
+la: niiche zamiin hai, duniyaa hasiin hai, dil ko yakiin hai
+    aayegaa tuu
+ko: niiche zamiin hai, duniyaa hasiin hai, dil ko yakiin hai
+    aayegaa tuu
+    hoy, meraa salaam le jaa, dil kaa payaam le jaa, ulfat ka jaam le jaa
+    (u.Dan khaTole vaale aa re)\-2
+
+la: la la la laa la laa laa la ho~
+ko: la la la laa la laa laa la ho~
+la: uu.Nchii u.Daan hai, palako.n pe jaan hai, aage tuufaan hai
+    jaanaa kahii.n
+ko: uu.Nchii u.Daan hai, palako.n pe jaan hai, aage tuufaan hai
+    jaanaa kahii.n
+la: ma.nzil bhii duur hai, himmat bhii chuur hai, aanaa zaruur hai
+    aajaa yahii.n
+ko: ma.nzil bhii duur hai, himmat bhii chuur hai, aanaa zaruur hai
+    aajaa yahii.n
+    hoy, meraa salaam le jaa, dil kaa payaam le jaa, ulfat ka jaam le jaa
+    (u.Dan khaTole vaale aa re)\-2
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ham tujh se muhabbat kar ke sanam}%
+\film{Aawaara}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis, K N Singh, Prithviraj}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ham tujh se muhabbat kar ke sanam
+rote bhii rahe, ha.Nsate bhii rahe
+
+hai dil kii lagii kyaa tujhako khabar
+ik dard uThaa tharraayii nazar
+khaamosh the ham is Gam kii qasam
+rote bhii rahe, ha.Nsate bhii rahe   \threedots
+
+ye dil jo jalaa ik aag lagii
+aa.Nsuu jo bahe barasaat huii
+baadal kii tarah aavaaraa the ham
+rote bhii rahe, ha.Nsate bhii rahe   \threedots
+
+%
+#endindian
+\endsong
+%

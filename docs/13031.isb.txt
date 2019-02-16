@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{jaan\-e\-man ik nazar dekh le}%
+\film{Mere Mehboob}%
+\year{1963}%
+\starring{Rajendra Kumar, Sadhana, Ameeta, Ashok Kumar, Nimmi}%
+\singer{Lata, Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10642 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( jaan\-e\-man ik nazar dekh le
+tere sadake idhar dekh le ) \-2
+
+ye bahaare.n ye chaman sab Kushii se hai.n magan
+chuume.n qadamo.n ko tere chaa.Nd kii pahalii kiraN
+jaan\-e\-jaa.N raah\-e\-vafaa dil haii diivaanaa teraa
+chaahe.n apanaa naa samajh miiThii nazare.n to uThaa
+gair hii jaan kar dekh le
+jaan\-e\-man ik nazar \threedots
+
+jo bhii marajii hai terii hai vahii merii Kushii
+merii jaanib se tujhe ho mubaarak ye gha.Dii
+zulf kii chhaa.Nv tale pyaar kaa daur chale
+shaam\-e\-furaqat me.n agar ko_ii jalataa hai jale
+tuu Kushii kii sahar dekh le
+jaan\-e\-man ik nazar \threedots
+
+husn\-e\-yusuf kii qasam Dagamagaate hai.n qadam
+jii me.n aataa hai yahii chhiin luu.N teraa sanam
+lekin haay mast adaa maan ehasaan meraa
+maine har jazbaa\-e\-dil tujhape qurbaan kiyaa
+meraa dil aur jigar dekh le
+jaan\-e\-man ik nazar \threedots
+%
+#endindian
+\endsong
+

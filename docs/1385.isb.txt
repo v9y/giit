@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{o o o o mujhe kisii se pyaar ho gayaa}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Raj Kapoor, Nargis, Premnath}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+o o o o mujhe kisii se pyaar ho gayaa \- 2
+pyaar ho gayaa dil beqaraar ho gayaa, beqaraar ho gayaa
+o o o o mujhe \threedots
+
+dard chaahaa thaa hamane chhipaanaa
+khul gayaa phir bhii dil kaa fasaanaa
+dil ne ye kyaa kiyaa, o salone piyaa,
+moraa dha.Dake jiyaa
+o o o o mujhe \threedots
+
+jo chhipaanaa maine chaahaa
+aa.Nkho.n ne kah diyaa
+aur jo mai.nne kahanaa chaahaa
+dil me.n hii rah gayaa
+o o o o mujhe \threedots
+
+aa.Nkho.n aa.Nkho.n me.n kar ke ishaare
+kisane dil se kahaa ham tumhaare
+haay ye kyaa kiyaa, o salone piyaa,
+moraa dha.Dake jiyaa
+o o o o mujhe \threedots
+%
+#endindian
+\endsong
+%

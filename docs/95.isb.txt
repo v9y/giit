@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aanevaalii hai, aanevaalii hai milan kii gha.Dii}%
+\film{Milan}%
+\year{}%
+\starring{Jackie Shroff, Manisha Koirala}%
+\singer{Abhijit, chorus}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: Anil + Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aanevaalii hai (4) aanevaalii hai milan kii gha.Dii
+naa pUchho meraa haal yaaro.n naa pUchho meraa haal yaaro.n
+hoke judaa mai.n pyaar se rahaa ka_ii saal yaaro.n
+aanevaalii hai milan kI gha.Dii (2)
+
+(gujarii hai kaise judaaii kI raate.n
+usako bataaU.ngaa mai.n saarii baate.n ) \- 2
+had se jyaadaa muhabbat karU.ngaa
+baaho.n me.n bharake use chUm lU.ngaa
+rab ne sunalii merii duaa
+mai.n dIvaanaa aisaa huaa badal gayI
+chalo yAro.n
+aanevaalii hai milan kii gha.Dii (2)
+
+(milane ko vo bhii machalatii hogii
+raato.n ko karavaT badalatii hogii ) \- 2
+sIne se saa.Dii sarakatii to hogii
+haatho.n kii chU.Dii khanakatii to hogii
+aatii hogii usako sharam
+bahake ho.nge usake kadam
+khule ho.nge baal yaaro.n
+aanevaalii hai milan ke gha.Dii (2)
+
+naa pUchho meraa haal yaaro.n \- 2
+hoke judaa mai.n pyaar se rahaa kai saal yaaro.n
+aanevaalii hai milan ke gha.Dii
+%
+#endindian
+\endsong
+%

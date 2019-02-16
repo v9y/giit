@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ek cha.nchal shokh hasiinaa mere sapano.n me.n aa_e}%
+\film{Baaghi/ A Rebel for Love}%
+\year{1990}%
+\starring{Salman, Nagma, Shakti, Kiran Kumar, Beena, Asha Sachdev, Mohnish}%
+\singer{Kavita Subramaniam, Abhijit, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek cha.nchal shokh hasiinaa mere sapano.n me.n aa_e
+mujhe ek jhalak dikhalaa ke vo mere dil kaa chain churaa_e
+
+ho.nTho.n se madiraa chhalake gaalo.n pe hai.n a.ngaare
+phuulo.n ke jaisii khilatii javaanii nainaa nashiile hai.n kajaraare
+jaise ki naagin Dole aise chale balakhaake
+madahosh kar de mujhako jo vo sharamaa ke
+kabhii khule.n jo zulfe.n usakii ghaTaa se chhaa_e
+ek cha.nchal shokh hasiinaa \threedots
+
+jhiil me.n khilataa ek kamal vo hai kisii shaayar kii gazal
+baahe.n uThaa ke le a.nga.Daa_ii dil me.n machaa de halachal 
+pariyo.n kii vo shahazaadii cheharaa hai bholaa bhaalaa
+dekhaa hai jab se usako mai.n ho gayaa matavaalaa
+yahii du_aa_e.n maa.nguu.n har pal vo mujhako mil jaa_e
+ek cha.nchal shokh hasiinaa \threedots
+%
+#endindian
+\endsong
+

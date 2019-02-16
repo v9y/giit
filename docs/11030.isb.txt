@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{chorii chorii sataane lagaa ... lamhaa hasiin pyaar kaa dil ne phir yaad kiyaa}%
+\film{Dil Ne Phir Yaad Kiya}%
+\year{2001}%
+\starring{Govinda, Tabbu}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ne phir yaad kiyaa
+chorii chorii sataane lagaa raato.n ko bhii jagaane lagaa
+lamhaa hasiin pyaar kaa dil ne phir yaad kiyaa
+
+chaaro.n taraf Kumaar hai mausam bhii bekaraar hai
+bahake hu_e khyaalo.n pe ab naa iKtiyaar hai
+lamhaa hasiin pyaar kaa \threedots
+
+chhaayaa ajab suruur hai saare gamo.n se duur hai
+mastii me.n hai ye zi.ndagii kuchh to hu_aa zaruur hai
+dhiire dhiire jalaane lagaa nii.ndo.n ko bhii churaane lagaa
+lamhaa hasiin pyaar kaa \threedots
+%
+#endindian
+\endsong
+

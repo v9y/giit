@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{baabul kaa ghar chho.D ke beTii piyaa ke ghar chalii}%
+\film{Sainik}%
+\year{1993}%
+\starring{Akshay Kumar, Ronit Roy, Ashwini Bhave, Farheen, Aloknath, Satish Shah}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	baabul kaa ghar chho.D ke beTii piyaa ke ghar chalii \-2
+	ye kaisii gha.Dii aa_ii hai milan hai judaa_ii hai \-2
+ku \:	baabul kaa ghar \threedots
+
+a \:	bachapan ke vo khel khilaune chho.D ke sab jaa_egii
+	vo raajaa raanii kii kahaanii yaad bahut aa_egii
+	rokar bhii mamataa kii kiimat kaise chukaa paa_egii
+	baabul kaa ghar \threedots
+
+ku \:	maikaa hai do din kaa baseraa kaun yahaa.N rah paa_e
+	bin beTii kaa baap bhii dekho beTii kaa byaah rachaa_e
+	roke ruke naa aa.Nsuu kii dhaaraa aa.Nkh chhalakatii jaa_e
+	baabul kaa ghar \threedots
+a \:	baabul kaa ghar \threedots
+%
+#endindian
+\endsong
+

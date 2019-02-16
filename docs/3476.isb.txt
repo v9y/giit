@@ -1,0 +1,36 @@
+% ITRANS SONG # 3476; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-09-03 00:43:25 PST
+%
+\startsong
+\stitle{tarasii hu_ii hai.n muddat se aa.Nkhe.n}%
+\film{Najma}%
+\year{1943}%
+\starring{Ashok Kumar, Veena, Sitara, Kumar, Yaqub}%
+\singer{Ashok Kumar}%
+\music{Rafiq Ghaznavi}%
+\lyrics{Anjum Pilibhiti}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 03 Sept 2002
+% Comments: Mehboob's first film under his own banner
+%
+\printtitle
+#indian
+%
+tarasi hui hai.n muddat se aankhe.n
+nazaro.n ki duniya aabaad kar de
+
+tumko bana kar husn ka malik
+kisne kaha.n tha jallad kar de
+
+sharm hayaa ke qurabaan jaaoon
+samne aa ke dilshad kar de
+
+kabze me.n tere hai dil ki duniya
+aabaad kar yaa barbaad kar de
+%
+#endindian
+\endsong
+%

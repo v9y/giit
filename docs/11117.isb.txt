@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{khi.Dakii khulii zaraa ... to ha.ngaamaa ho gayaa}%
+\film{Deewaanaa Mastaanaa}%
+\year{1997}%
+\starring{Govinda, Anil Kapur, Juhi Chawla}%
+\singer{Sonu Nigam, Poornima}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khi.Dakii khulii zaraa zaraa paradaa sarak gayaa
+kamaraa thaa dil kaa khaalii ko_ii chupake se aa gayaa
+to ha.ngaamaa ho gayaa
+khi.Dakii khulii zaraa \threedots
+
+jab hosh u.De to mai.n hosh me.n aayaa
+khaamosh kha.Daa thaa mai.n josh me.n aayaa
+aisii chalii havaa aisii chalii havaa ye sholaa bha.Dak gayaa
+kamaraa thaa dil kaa \threedots
+
+ye mukha.Daa kitanaa namakiin hai yaaro.n
+o ko_ii phoTo khii.ncho kyaa ##scene## hai yaaro.n
+taubaa gazab hu_aa o baabaa gazab hu_aa
+dam meraa aTak gayaa 
+kamaraa thaa dil kaa \threedots
+%
+#endindian
+\endsong
+

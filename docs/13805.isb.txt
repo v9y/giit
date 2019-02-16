@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{ik tum paas na aanaa duur\-duur hii rahanaa}%
+\film{Raaste Ka Patthar}%
+\year{1972}%
+\starring{Amitabh Bachchan, Nita Khayani, Shatrughan Sinha, Prem Chopra}%
+\singer{Mukesh, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11203 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	ik tum paas na aanaa duur\-duur hii rahanaa
+	mohe Dar laage jaage nainaa saarii rainaa
+mu \:	ik tum duur na jaanaa paas hii rahanaa
+	tore sa.ng laage mere nainaa naahii.n chainaa
+
+aa \:	piyaa mat chhe.Do prem kii batiyaa.N
+	laaj se jhuk jaa_e.Ngii merii a.Nkhiyaa.N
+mu \:	din hai.n suhaane dil hai.n diivaane chho.Do bahaane
+	torii a.Nkhiyo.n me.n to haa.N hai ho.nTho.n pe hai naa
+aa \:	ik tum paas na \threedots
+
+mu \:	kuchh to kaho kaahe kho_ii\-kho_ii ho
+	jaagii ho ki so_ii hu_ii ho
+aa \:	dil kii ye dha.Dakan kahatii hai saajan mai.n tore kaaraN
+	aise ta.Dapuu.N re jaise pi.njare me.n mainaa
+mu \:	ik tum duur na \threedots
+
+aa \:	kho ga_e tum kahii.n aur hii jaise
+	dekh rahe ho kaahe tum mujhe aise
+mu \:	ye matavaalii chaal tihaarii kitanii hai pyaarii
+	siikhaa nadiyo.n kii maujo.n ne tumase hii bahanaa
+aa \:	ik tum paas na \threedots
+mu \:	ik tum duur na \threedots
+aa \:	mohe Dar laage \threedots
+mu \:	tore sa.ng laage \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{Tim\-Tim karate taare ye kahate hai.n saare}%
+\film{Chiraagh Kahaan Roshni Kahaan}%
+\year{1959}%
+\starring{Rajendra Kumar, Meena Kumari, Meenu Mumtaz, Honey Irani}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: BOL ANAMOL #11446 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+Tim\-Tim karate taare ye kahate hai.n saare
+so jaa tohe ni.ndiyaa pukaare
+Tim\-Tim karate \threedots
+
+sapano.n ke desh chandaa maamaa raajaa
+bulaa rahaa hai bajaakar suro.n kaa baajaa
+chorii\-chorii khi.Dakii se karataa hai ishaare
+Tim\-Tim karate \threedots
+
+ra.ng\-bira.ngii pariyaa.N tujhe jhuulaa jhulaa_e.Ngii
+billii\-totaa\-mainaa kii kahaanii bhii sunaa_e.Ngii
+achchhe\-achchhe tujhe khilaune de.ngii pyaare\-pyaare
+Tim\-Tim karate \threedots
+
+baadalo.n kii paalakii pe tujhako biThaa ke
+chandaa maamaa saaraa jag laa_egaa ghumaa ke
+lauT ke aa_e shaan se raajaa dvaare
+Tim\-Tim karate \threedots
+%
+#endindian
+\endsong
+

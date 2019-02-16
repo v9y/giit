@@ -1,0 +1,40 @@
+%
+\startsong 
+\stitle{jab shaam kaa suuraj Dhalataa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Kanwar Kumar}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 1, 2001
+% Comments:
+%
+\printtitle
+#indian
+%
+
+jab shaam kaa suuraj Dhalataa hai
+chhup chhup ke chaa.Nd ke saaye me.n
+ko_ii mujhe pukaaraa karataa hai
+jab shaam kaa suuraj \threedots
+
+jab hosh me.n taare aate hai.n
+beKud raat ho jaatii hai
+mere kaano.n me.n dhiire dhiire
+aavaaz kisii kii aatii hai
+jab shaam kaa suuraj \threedots
+
+kahii.n aa.Nkh zaraa sii lag jaaye
+sapano.n kii raaNii aatii hai
+mai.n us se aa.Nkh churaa_uu.N
+vo ulfat kii saaz bajaatii hai
+jab shaam kaa suuraj \threedots
+
+%
+#endindian
+\endsong
+%

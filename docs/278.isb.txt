@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bas ek chup sii lagii hai}%
+\film{Sannata}%
+\starring{}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar 
+% Credits: Hemantada, a genius in his niche #5
+% Editor: 
+%
+\printtitle
+#indian
+%
+bas ek chup sii lagii hai nahii.n udaas nahii.n
+kahii.n pe saa.Ns rukii hai nahii.n udaas nahii.n
+bas ek chup sii lagii hai 
+
+ko_ii anokhii nahii.n aisii zi.ndagii lekin
+khuub na ho
+mili jo -
+khuub milii hai. 
+nahii.n udaas nahii.n
+bas ek chup sii lagii hai    \threedots
+
+sahar bhii ye raat bhii dopahar bhii milii lekin
+hamii.n ne shaam chunii
+hamii.n ne -
+shaam chunii hai
+nahii.n udaas nahii.n
+bas ek chup sii lagii hai   \threedots
+
+vo daasataa.N jo hamane kahii bhii
+hamane likhii
+aaj vo -
+khud se sunii hai 
+nahii.n udaas nahii.n 
+bas ek chup sii lagii hai
+
+%
+#endindian
+\endsong
+%
+

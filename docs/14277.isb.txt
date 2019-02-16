@@ -1,0 +1,80 @@
+
+%
+\startsong
+\stitle{saaqiyaa aaj mujhe nii.nd nahii.n aayegii}%
+\film{Sahib Bibi Aur Ghulam}%
+\year{1962}%
+\starring{Guru Dutt, Meena Kumari, Waheeda Rehman, Rehman}%
+\singer{Asha}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11469 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa \:	saaqiyaa \-2
+	saaqiyaa aaj mujhe nii.nd nahii.n aayegii
+	nii.nd nahii.n aayegii
+
+	saaqiyaa aaj mujhe nii.nd nahii.n aayegii
+	sunaa hai terii mahafil me.n ratajagaa hai
+	aa.Nkho.n\-aa.Nkho.n me.n yuu.N hii raat guzar jaayegii
+	sunaa hai terii mahafil me.n ratajagaa hai
+
+ko \:	saaqiyaa aaj mujhe nii.nd nahii.n aayegii
+	sunaa hai terii mahafil me.n ratajagaa hai
+	aa.Nkho.n\-aa.Nkho.n me.n yuu.N hii raat guzar jaayegii
+	sunaa hai terii mahafil me.n ratajagaa hai \-2
+
+aa \:	aa
+	saaqii hai aur shaam bhii
+	ulfat kaa jaam bhii
+	ho
+	taqadiir hai usii kii
+	jo le inase kaam bhii
+
+	ra.ng\-e\-mahafil hai raat bhar ke liye
+ko \:	ra.ng\-e\-mahafil hai raat bhar ke liye
+aa \:	sochanaa kyaa abhii sahar ke liye
+ko \:	sochanaa kyaa abhii sahar ke liye
+
+aa \:		ra.ng\-e\-mahafil hai raat bhar ke liye
+	sochanaa kyaa abhii sahar ke liye
+	teraa jalawaa ho terii suurat ho
+	aur kyaa chaahiye nazar ke liye \-2
+	aaj suurat terii beparadaa nazar aayegii
+ko \:	sunaa hai terii mahafil me.n ratajagaa hai
+	saaqiyaa aaj mujhe nii.nd nahii.n aayegii
+	sunaa hai terii mahafil me.n ratajagaa hai \-2
+
+aa \:	aa
+	mohabbat me.n jo miT jaataa hai
+	wo kuchh kah nahii.n sakataa
+	haa.N
+	ye wo kuuchaa hai jisame.n
+	dil salaamat rah nahii.n sakataa
+	kisakii duniyaa yahaa.N tabaah nahii.n
+ko \:	kisakii duniyaa yahaa.N tabaah nahii.n
+aa \:	kaun hai jisake lab pe aah nahii.n
+ko \:	kaun hai jisake lab pe aah nahii.n
+
+aa \:	kisakii duniyaa yahaa.N tabaah nahii.n
+	kaun hai jisake lab pe aah nahii.n
+	husn par dil zaruur aayegaa
+	isase bachane kii ko_ii raah nahii.n \-2
+	zindagii aaj nazar milate hii luT jaayegii
+ko \:	sunaa hai terii mahafil me.n ratajagaa hai
+aa \:	o o o
+ko \:	saaqiyaa aaj mujhe nii.nd nahii.n aayegii
+aa \:	aa aa aa
+ko \:	aa.Nkho.n\-aa.Nkho.n me.n yuu.N hii raat guzar jaayegii
+	sunaa hai terii mahafil me.n ratajagaa hai \-2
+%
+#endindian
+\endsong
+

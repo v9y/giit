@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{aa jaa rii aa, ni.ndiyaa tuu aa, jhilamil sitaaro.n se utar aa.Nkho.n}%
+\film{Do Bigha Zameen}%
+\year{}%
+\starring{Balraj Sahni, Meena Kumari, Nirupa Roy}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa jaa re aa ni.ndiyaa tuu aa
+jhilamil sitaaro.n se utar aa.Nkho.n me.n aa sapane sajaa
+
+1) soI kalI soyaa chaman pIpal tale soI havaa
+sab ra.ngaa ik ra.ng me.n tuune ye kyaa jaaduu kiyaa
+aa jaa \threedots
+
+2) sa.nsaar kii raanI hai tuu raa jaa hai meraa laaDalaa
+duniyaa hai merii god me.n soyaa huaa sapanaa meraa, 
+aa jaa \threedots
+%
+#endindian
+\endsong
+%

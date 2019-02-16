@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mubaarak ho sab ko samaa ye suhaanaa (mai.n to diivaanaa diivaanaa)}%
+\film{Milan}%
+\year{1967}%
+\starring{Sunil Dutt, Nutan}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mubaarak ho sab ko samaa ye suhaanaa
+mai.n khush huu.N mere aa.Nsuo.n pe na jaanaa
+mai.n to diivaanaa diivaanaa diivaanaa \- 2
+
+hazaaro.n tarah ke ye hote hai.n aa.Nsuu
+agar dil me.n Gam ho to rote hai.n aa.Nsuu
+khushii me.n bhii aa.Nkhe.n bhigote hai.n aa.Nsuu
+inhe.n jaan sakataa nahii.n ye zamaanaa
+mai.n khush huu.N mere aa.Nsuo.n pe na jaanaa
+mai.n to diivaanaa diivaanaa diivaanaa \- 2
+
+ye shahanaaiyaa.N de rahii hai.n duhaaI
+koii chiiz apanii huii hai paraaI
+kisii se milan hai kisii se judaaii
+nae rishto.n ne to.Daa naataa puraanaa
+mai.n khush huu.N mere aa.Nsuo.n pe na jaanaa
+mai.n to diivaanaa diivaanaa diivaanaa \- 2
+%
+#endindian
+\endsong
+%

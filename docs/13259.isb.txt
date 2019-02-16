@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chale ho kahaa.N sarakaar hame.n beqaraar kar ke}%
+\film{Naache Naagin Baaje Been}%
+\year{1960}%
+\starring{Kumkum, Chandrashekhar, K N Singh, Helen, Agha, Sundar, Ratna}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10144 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	chale ho kahaa.N sarakaar hame.n beqaraar kar ke
+la \:	hamaarii Kushii ko_ii roke hai kyo.n taqaraar kar ke
+
+ra \:	kuchh to bataa_o u.Daa_e li_e jaatii hai kisakii lagan
+la \:	jaane merii paayal ki jaane mere nainaa yaa jaane meraa man
+ra \:	magar kuchh hamase bhii kaho to sahii
+la \:	hamaarii Kushii ko_ii \threedots
+
+	kaho paradesii iraadaa kisii ulTe safar kaa hai kyaa
+ra \:	ye kaam terii tiikhii nazar kaa hai kyaa
+la \:	mai.n samajhii nahii.n phir se kaho to sahii
+ra \:	chale ho kahaa.N \threedots
+
+	khud kare chorii uupar se mu.Nh\-zorii adaa hai kisakii
+la \:	mat ulajhanaa hamaare piichhe aanaa khataa hai kisakii
+ra \:	hamii.n se hu_ii Galatii suno to sahii
+la \:	hamaarii Kushii ko_ii \threedots
+%
+#endindian
+\endsong
+

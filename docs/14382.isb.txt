@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ai chaa.Nd terii chaa.Ndanii kii kasam}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai chaa.Nd terii chaa.Ndanii kii kasam
+mere paas bhii ik chaa.Nd hai
+tujhame.n to phir bhii daag hai
+meraa chaa.Nd to bedaag hai
+terii duuriyo.n kii kasam
+meraa chaa.Nd mere paas hai
+ai chaa.Nd terii \threedots
+
+kiraNo.n se bharii subah ho taaro.n se bharii shaam
+maujo.n me.n teraa cheharaa phuulo.n me.n teraa naam
+mere mahabuub sanam tuu meraa ehsaas hai
+ai chaa.Nd terii \threedots
+
+taariif karo naa itanii tum saa.Nse.n hai.n rukii jaatii.n
+aatii hai sharm sii mujhako aa.Nkhe.n hai.n jhukii jaatii.n
+merii dha.Dakano.n me.n sanam har gha.Dii terii pyaas hai
+ai chaa.Nd terii \threedots
+%
+#endindian
+\endsong
+

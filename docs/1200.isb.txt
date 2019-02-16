@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{mere jiivan me.n aayaa hai kaun}%
+\film{Pyaase Nain}%
+\year{1954}%
+\singer{Talat, Asha}%
+\music{S K Paul}%
+\lyrics{Waheed Qureshi}%
+% 
+% Contributor: Hemlata Khemani (hnkst5+@pitt.edu)
+% Transliterator:
+% Date: 2 sept, 1997
+% Credits: 
+% Comments: This song is a duet but can be considered a solo 
+% for all practical purposes. Asha just provides some humming 
+% in the background. The words are all sung by Talat. 
+%
+\printtitle
+#indian
+%
+mere jiivan me.n aayaa hai kaun \- 5
+
+kaisii chhaa_ii bahaar meraa dil beqaraar 
+kaisii chha_ii bahaar
+kaisii chhaa_ii bahaar meraa dil beqaraar 
+aaj man me.n
+aaj man me.n samaayaa hai kaun
+mere jiivan me.n aayaa hai kaun \- 2
+
+ik na_ii raushanii ik na_ii zi.ndagii 
+ik na_ii raushanii
+ik na_ii zi.ndagii aaj mujhako milii
+aaj naino.n me.n
+aaj naino.n me.n chhaayaa hai kaun
+mere jiivan me.n aayaa hai kaun \- 2
+
+%
+#endindian
+\endsong
+%

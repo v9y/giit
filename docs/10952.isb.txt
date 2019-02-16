@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ba.Dii mushqil hai ajab meraa dil hai}%
+\film{Chingaari}%
+\year{1955}%
+\starring{Nalini Jaywant, Shekhar, Pran}%
+\singer{Lata}%
+\music{Manohar }%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11944 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( ba.Dii mushqil hai
+ajab meraa dil hai
+naa jaane kise Dhuu.NDhe
+naa jaane kise chaahe ) \-2
+
+sakhiyo.n se chhupatii phiruu.N kahii.n jii naa lage
+raato.n ko taare ginuu.N palak bhii na lage
+mere sa.ng\-sa.ng merii ni.ndiyaa bhii saarii raat jage \-2
+
+ba.Dii mushqil hai
+ajab meraa dil hai
+naa jaane kise Dhuu.NDhe
+naa jaane kise chaahe
+
+sapane aaye man lalachaay
+jaa ke phir naa aay \-2
+dil naadaa.N ye aramaa.N
+machale aur rah jaay \-2
+
+ba.Dii mushqil hai
+ajab meraa dil hai
+naa jaane kise Dhuu.NDhe
+naa jaane kise chaahe
+%
+#endindian
+\endsong
+

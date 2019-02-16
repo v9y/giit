@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{tuu kahaa.N, ye bataa, is nashiilii raat me.n, jaane naa meraa dil diivaanaa}%
+\film{Tere Ghar Ke Saamne}%
+\year{}%
+\starring{Dev Anand, Nutan}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Here is a Rafi solo from 'Tere Ghar ke Saamne'.  
+%
+% Dev walks on the rain-drenched streets looking for Nutan and
+% finally she comes out in the balcony of her house..
+%
+% Have a nice day!
+%
+% bye
+% satish
+%
+tuu kahaa.N,  ye bataa,  is nashiilii raat me.n
+maane naa meraa dil diivaanaa
+haay re \threedots maane naa meraa dil diivaanaa
+
+he \threedots ba.Daa naTakhaT hai samaa   \- 2
+har nazaaraa hai javaa.N
+chhaa gayaa chaaro.n taraf,  merii aaho.n kaa dhuaa.N
+dil meraa, merii jaa.N, naa jaanaa \threedots tuu kahaa.N \threedots
+
+o o \threedots aaii jab Tha.nDii havaa   \- 2
+maine puuchhaa jo pataa
+vo bhii kataraake gaI, aur bechain kiyaa
+pyaar se, tuu mujhe, de sadaa \threedots tuu kahaa.N \threedots
+
+he \threedots chaa.nd taaro.n ne sunaa   \- 2
+in bahaaro.n ne sunaa
+dard kaa raag meraa,  rahaguzaaro.n ne sunaa
+tuu bhii sun, jaaneman, aa bhii jaa  \threedots tuu kahaa.N \threedots
+
+o o \threedots pyaar kaa dekho asar   \- 2
+aae tum thaame jigar
+mil gaI aaj mujhe,  merii manachaahii Dagar
+kyuu.N chhupaa, ek jhalak, phir dikhaa  \threedots tuu kahaa.N \threedots
+%
+#endindian
+\endsong
+%

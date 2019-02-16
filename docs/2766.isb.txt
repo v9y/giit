@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ai dil ai diivaane}%
+\film{Baaz}%
+\year{1950}%
+\starring{Geeta Bali, Guru Dutt}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ai dil ai diivaane \-3
+aag lagaa lii kyo.n daaman me.n
+o zaalim chaahat ke bahaane
+ai dil ai diivaane \threedots
+
+jurm nahii.n thaa dil kaa lagaanaa
+samajhaa kab nadaan zamaanaa
+ek nazar aur kitanii baate.n
+ek khaamoshii laakh fasaane
+ai dil ai diivaane \threedots
+
+ye to nahii.n hai terii ma.nzil
+duur bahut hai apanaa saahil
+aramaano.n kii naazuk kashtii
+lagii hai tuufaa.n se Takaraane
+ai dil ai diivaane \threedots
+
+%
+#endindian
+\endsong
+%

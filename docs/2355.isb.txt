@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaane kyaa baat hai, nii.nd nahii.n aatii, ba.Dii lambii raat hai}%
+\film{Sunny}%
+\year{}%
+\starring{Sunny Deol, Sharmila Tagore, Dharmendra}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+jaane kyaa baat hai, jaane kyaa baat hai
+nii.nd nahii.n aatii, ba.Dii lambii raat hai
+
+saarii saarii raat mujhe isane jagaayaa
+jaise koii sapanaa jaise koii saayaa
+koii nahii.n lagataa hai koii mere saath hai
+nii.nd nahii.n aatii   \threedots
+
+dhak\-dhak kabhii se jiyaa Dol rahaa hai
+ghuu.NghaT abhii se meraa khol rahaa hai
+duur abhii to piyaa kii mulaaqaat hai
+nii.nd nahii.n aatii   \threedots
+
+jab jab dekhuu.N mai.n ye chaa.Nd sitaare
+aisaa lagataa hai mujhe laaj ke maare
+jaise koii Doli koii baaraat hai
+nii.nd nahii.n aatii   \threedots
+
+%
+#endindian
+\endsong
+%

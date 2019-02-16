@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{ye pardaa haTaa do zaraa mukha.Daa dikhaa do}%
+\film{Ek Phool Do Mali}%
+\year{1969}%
+\starring{Sadhna, Sanjay, Balraj Sahni}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10696 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ye pardaa haTaa do zaraa mukha.Daa dikhaa do
+	ham pyaar karane vaale hai.n ko_ii Gair nahii.n
+	are ham tum pe marane vaale hai.n ko_ii Gair nahii.n
+aa \:	o majanuu.n ke naanaa mere piichhe na aanaa
+	jaa pyaar karane vaale terii Kair nahii.n
+	are o hamape marane vaale terii Kair nahii.n
+ra \:	ye pardaa haTaa \threedots
+
+aa \:	shukr karo ki pa.De nahii.n hai merii maa.N ke Da.nDe
+	ek haath me.n ho jaate aramaan tumhaare Tha.nDe
+ra \:	maa.N ko bhii samajhaa do bas itanaa bataa do
+	ham pyaar karane \threedots
+aa \:	o majanuu.n ke naanaa \threedots
+
+ra \:	jahaa.N mile.n do javaa.N nazar hotii takaraar vahii.n hai
+	dil par rakh kar haath ye kah do hamase pyaar nahii.n hai
+aa \:	dil kii baate.n dilavaale nazaro.n se hii pahachaanate
+	lekin kuchh aise hai.n anaa.Dii jo ye bhii nahii.n jaanate
+ra \:	ye pahale bataate baaraat le ke aate
+	ham pyaar karane \threedots
+aa \:	o majanuu.n ke naanaa \threedots
+%
+#endindian
+\endsong
+

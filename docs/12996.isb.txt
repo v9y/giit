@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{chha.Dii re chha.Dii kaisii gale me.n pa.Dii}%
+\film{Mausam}%
+\year{1975}%
+\starring{Sanjeev Kumar, Sharmila Tagore}%
+\singer{Rafi, Lata}%
+\music{Madan Mohan}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10582 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ra \:	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+	pairo.n kii be.Dii kabhii lage hathaka.Dii
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+
+	( siidhe\-siidhe raasto.n ko
+	tho.Daa saa mo.D de do ) \-2
+	bejo.D ruuho.n ko
+	halkaa saa jo.D de do
+	jo.D do na TuuT jaaye saa.nso.n kii la.Dii \-2
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+
+la \:	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+	pairo.n kii be.Dii kabhii lage hathaka.Dii
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+
+	dhiire\-dhiire chalanaa sapane
+	nii.ndo.n me.n Dar jaate hai.n
+	ho
+	dhiire\-dhiire chalanaa sapane
+	nii.ndo.n me.n Dar jaate hai.n
+	kahate hai.n sapane kabhii
+	jaage to mar jaate hai.n
+	nii.nd se na jaage ko_ii Kaabo.n kii la.Dii \-2
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+
+	lagataa hai saa.Nso.n me.n
+	TuuTaa hai kaa.Nch ko_ii
+	ho
+	lagataa hai saa.Nso.n me.n
+	TuuTaa hai kaa.Nch ko_ii
+	chubhatii hai siine me.n
+	bhiinii sii aa.Nch ko_ii
+	aa.Nchal me.n baa.Ndh lii hai aag kii la.Dii \-2
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii \-2
+	pairo.n kii be.Dii kabhii lage hathaka.Dii
+	chha.Dii re chha.Dii kaisii gale me.n pa.Dii
+ra \:	chha.Dii re chha.Dii kaisii gale me.n pa.Dii
+la \:	chha.Dii re chha.Dii kaisii gale me.n pa.Dii
+%
+#endindian
+\endsong
+

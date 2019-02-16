@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{dil ke dhokhe me.n naa aanaa dil kii jhuuThii zaat hai}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Suraiya, Rafi, Chorus}%
+\music{Hansraj Behl}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12604 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \: ( dil ke dhokhe me.n naa aanaa dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+su \:	raat ko ye din kah de aur din ko kah de raat hai
+	dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai ) \-2
+
+ra \:	ek maze kii baat bataave.n suno kalejaa thaam ke
+	ajii suno kalejaa thaam ke
+	jin me.n kisii kaa pyaar nahii.n hai wo dil bhii kis kaam ke
+	ajii wo dil bhii kis kaam ke
+	maano yaa na maano lekin ba.De pate kii baat hai 
+
+su \: dil ke dhokhe me.n naa aanaa dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+su \:	raat ko ye din kah de aur din ko kah de raat hai
+	dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+
+su \:	pyaar kii galiyo.n me.n dilawaale khel na dil kaa khelanaa
+	khel na dil kaa khelanaa
+	Kushiyo.n se mu.Nh mo.D ke ek din dard pa.Degaa jhelanaa
+	dard pa.Degaa jhelanaa
+	qadam\-qadam par is duniyaa me.n ashqo.n kii barasaat hai
+
+su \: dil ke dhokhe me.n naa aanaa dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+su \:	raat ko ye din kah de aur din ko kah de raat hai
+	dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+
+ra \:	dil ko jhuuThaa kahane waalii dil kaa kahanaa maan le
+	ajii dil kaa kahanaa maan le
+	dil hii sonaa dil hii chaa.Ndii dil ko daulat jaan le
+	ajii dil ko daulat jaan le
+ko \:	na na na
+su \:	saat ko ye chhH kah de aur chhH ko kah de saat hai
+
+	dil ke dhokhe me.n naa aanaa dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+su \:	raat ko ye din kah de aur din ko kah de raat hai
+	dil kii jhuuThii zaat hai
+ko \:	ajii dil kii jhuuThii zaat hai
+%
+#endindian
+\endsong
+%
+

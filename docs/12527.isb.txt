@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{tujh sa.ng priit lagaa_ii sajanaa}%
+\film{Kaamchor}%
+\year{1982}%
+\starring{Rakesh Roshan, Jayaprada}%
+\singer{Lata, Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10412 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	tujh sa.ng priit lagaa_ii sajanaa
+la \:	tujh sa.ng priit lagaa_ii
+ki \:	sajanaa sajanaa
+la \:	sajanaa
+ki \:	ho raamaa
+la \:	ho raamaa
+ki \:	tujh sa.ng priit lagaa_ii sajanaa
+	sajanaa sajanaa ho raamaa
+la \:	tujh sa.ng priit lagaa_ii sajanaa
+	sajanaa sajanaa ho raamaa
+ki \:	haay bedardii haay bedardii
+la \:	tujh sa.ng priit \threedots
+
+ki \:	aajaa tere haatho.n me.n meha.ndii lagaa duu.N
+	gorii\-gorii baa.Nho.n pe ka.nganaa cha.Dhaa duu.N
+	kaalii ghaTaa_o.N kaa kajaraa lagaa duu.N
+	ik tuu hii man ko hai bhaa_ii sajanaa
+	sajanaa sajanaa ho raamaa
+la \:	tujh sa.ng priit \threedots
+
+	tuune mujhe chorii se apanaa banaayaa
+	pyaar kii raaho.n pe chalanaa sikhaayaa
+	dukh aur sukh me.n jiinaa bataayaa \-2
+	mai.n huu.N tujh pe vaarii sajanaa
+	sajanaa sajanaa ho raamaa
+	haay bedardii haay bedardii
+do \:	tujh sa.ng priit \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dil ko laakh sambhaalaa jii phir bhii dil}%
+\film{Guest House}%
+\year{1959}%
+\starring{Ajeet, Shakeela, Maruti, Lalita Pawar, Pran, Cukoo, Helen}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10117 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil ko laakh sambhaalaa jii phir bhii dil matavaalaa jii
+kal tak meraa thaa aaj kyo.n teraa ho gayaa
+
+pahalii mulaakaat me.n hamane na jaanaa chhoTii sii ye baat banegii afasaanaa
+par tere pyaar me.n pahalii hii baar me.n meraa ye bholaa saa dil kho gayaa
+dil ko laakh sambhaalaa \threedots
+
+chor kare chorii jii nazare.n churaa ke tuune mujhe luuTaa hai nazare.n milaa ke
+mujhako na hosh thaa dil madahosh thaa naa jaane kaise ye jaaduu ho gayaa
+dil ko laakh sambhaalaa \threedots
+
+chho.Do meraa haath buraa hai zamaanaa kahii.n hame.n dekh na le ko_ii begaanaa
+dekho jii pyaar kaa Te.Dhaa hai raastaa do dil mile bairii jag ho gayaa
+dil ko laakh sambhaalaa \threedots
+%
+#endindian
+\endsong
+

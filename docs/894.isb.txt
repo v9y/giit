@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jo bhii buraa bhalaa hai, allaah jaanataa hai}% 
+\film{Best of Sajda}%
+\starring{}%
+\singer{Jagjit Singh,Lata}%
+\music{}%
+\lyrics{Akhtar}%
+%
+% Contributor: Rajesh Sharma (rsharma@cs.indiana.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+l: jo bhI buraa bhalaa hai, allaah jaanataa hai 
+bande ke dil me.n kyA hai, allaah jaanataa hai 
+
+j: ye farsh\-o\-arsh kyA hai, allaah jaanataa hai 
+parado.n me.n kyA chhipaa hai, allaah jaanataa hai 
+
+l: jaa kar jahaa.N se ko_ii, vaapas nahii.n hai AtA 
+vo kaun sI jagah hai, allaah jaanataa hai 
+
+j: nekii badI ko apanii, kitanaa hii tU chhipaaye 
+allaah ko pataa hai, allaah jaanataa hai 
+
+l: ye dhuup chhAo.n dekho, ye subah shaam dekho 
+sab kyU.n ye ho rahaa hai, allaah jaanataa hai 
+
+j: qismat ke naam ko to, sab jaanate hai.n lekin 
+kismat me.n kyA likhA hai, allaah jaanataa hai 
+
+##
+-----------------------------------------------------------------------
+Dictionary      :       
+1.     ## bande        ##   -       person
+2.     ## farsh\-o\-arsh ##   -       earth \& sky
+3.     ## nekii\-badii    ##   -       virtue \& vice
+-----------------------------------------------------------------------##
+%
+#endindian
+\endsong
+%

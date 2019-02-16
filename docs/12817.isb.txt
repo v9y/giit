@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kal tak mujhe thii naa khabar ... maine dil tujhako diyaa}%
+\film{Maine Dil Tujhko Diya}%
+\year{2002}%
+\starring{Sanjay Dutt, Sohail Khan, Samira Reddy}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Dabbu Malik}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kal tak mujhe thii naa khabar kis chiiz ko kahate hai.n pyaar
+terii khushii kii khaatir ab khud ko badal duu.Ngaa mai.n yaar
+maine dil tujhako diyaa isake sivaa kuchh naa kiyaa
+chaahe.n sab hii khudaa mujhako mile pyaar teraa
+maine dil tujhako diyaa \threedots
+
+mujhase khataa ho to ga_ii ab kyaa karuu.N ye to bataa
+tumane sanam jo hai kiyaa milanii to hai usakii sazaa
+sochaa nahii.n samajhaa nahii.n chaahaa nahii.n par ho gayaa
+socho zaraa samajho zaraa achchhaa nahii.n jo hai kiyaa
+maine dil tujhako diyaa \threedots
+
+jab tuu chale duniyaa chale jab tuu ruke duniyaa ruuke
+badale nazar mujhase jo tuu dha.Dakan merii rukane lage
+kyaa mai.n kahuu.N kaisaa hai tuu bas pyaar kaa cheharaa hai tuu
+mushkil to hai kahanaa magar kahatii huu.N mai.n meraa hai tuu
+maine dil tujhako diyaa \threedots
+%
+#endindian
+\endsong
+

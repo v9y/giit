@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ai kaash chalate mil ke}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Manna De, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ai kaash chalate mil ke
+ye tiin raahii dil ke
+chaa.Nd aur mai.n aur tuu uu~ uu~
+
+chalaa chalaa saa raat kaa jaaduu
+ko_ii na ho har suu u.Datii ho khushabuu
+tum ho ham ho.n kam se kam ho faasale dil ke
+ai kaash chalate mil ke \threedots
+
+nazar pe ho na dil pe ho qaabuu
+ko_ii na ho har suu u.Datii ho khushabuu
+chalate chalate jaa nikalate paas ma.nzil ke
+ai kaash chalate mil ke \threedots
+
+%
+#endindian
+\endsong
+%

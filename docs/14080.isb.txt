@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aa ye hasiin raat mohabbat me.n guzaar de.n}%
+\film{Shiv Raam}%
+\year{1991}%
+\starring{Jeetendra, Aditya Pancholi, Javed Jafri, Sangeeta Bijlani, Ekta, Neeta Puri}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Rajesh Roshan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	aa ye hasiin raat mohabbat me.n guzaar de.n
+	dil kii kashtii pyaar ke saagar me.n utaar de.n \-2
+a \:	aa ye hasiin raat \threedots
+
+ku \:	kyaa pataa kal kyaa ho kal kaa nahii.n bharosaa
+	maaluum nahii.n kis pal de ye zindagaanii dhokhaa
+a \:	aisaa hone se pahale kahii.n khone se pahale
+	ek duusare ko ham jii bhar ke pyaar de.n
+ku \:	dil kii kashtii pyaar ke \threedots
+
+	ek aag sii lagii hai siine me.n hasarato.n kii
+	barasaa do ghaTaa_e.n tum mujhape chaahato.n kii
+	ho.nTho.n kii naramii se saa.Nso.n kii garmii se
+	bechain uma.ngo.n ko ha.Ns ke nikaal de.n
+a \:	dil kii kashtii pyaar ke \threedots
+%
+#endindian
+\endsong
+

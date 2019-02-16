@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chhoTaa saa bhaiyaa hamaaraa, bahanaa ke dil kaa dulaaraa}%
+\film{Rishta Kaagaz Kaa}%
+\year{1983}%
+\starring{Raj Babbar, Rati Agnihotri, Nutan}%
+\singer{Lata}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhoTaa saa bhaiyaa hamaaraa bahanaa ke dil kaa dulaaraa
+suuraj ne dekhaa chandaa ne dekhaa sabako lage kitanaa pyaaraa
+
+tuu hii to hai merii duniyaa, kaise ye chhUTegii
+bhaaii bahan ke milan kii, Dorii na TuuTegii
+jag me.n kahii.n bhii rahe tuu, duu.ngii mai.n tujhako sahaaraa
+chhoTaa \threedots
+
+hogaa ba.Daa jis din tuu, lekar duaa merii
+pyaar se charchaa karegaa, saaraa zamaanaa terii
+kadamo.n ke niiche hogaa, duniyaa kaa duujaa kinaaraa
+chhoTaa \threedots
+%
+#endindian
+\endsong
+%

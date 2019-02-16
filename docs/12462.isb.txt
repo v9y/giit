@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere achchhe sajan mere pyaare sajan mere bhole sajan aajaa}%
+\film{Khalnaayak/ The Villain}%
+\year{1993}%
+\starring{Sanjay Dutt, Madhuri Dixit, Jackie Shrof}%
+\singer{Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aajaa sajan aajaa
+mere achchhe sajan mere pyaare sajan mere bhole sajan aajaa
+uThatii hai kasak aajaa dil kare dhak dhak aajaa kab hogaa milan aajaa
+mere achchhe sajan \threedots
+
+mai.n to khud aap hii pyaasii huu.N
+mai.n kaisii raam kii ga.ngaa huu.N
+mai.n to bas naam kii ga.ngaa huu.N
+merii pyaas bujhaa aajaa mujhe ga.ngaa banaa aajaa kar puuraa vachan aajaa
+aajaa sajan aajaa \threedots
+
+jo aise TuuT ke barasaa hai ho
+sab kahate hai ye baadal hai
+baadal nahii.n meraa kaajal hai
+ye bijalii nahii.n merii bi.ndiyaa kahii.n chamakii bairan aajaa
+aajaa sajan aajaa \threedots
+%
+#endindian
+\endsong
+

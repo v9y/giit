@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tere mere naam kaa charchaa ... chal shaadii kar lete hai.n}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere mere naam kaa charchaa galiyo.n me.n hone lagaa hai
+log mujhe badanaam leke teraa naam karate hai
+chal shaadii kar lete hai.n
+tere mere naam kaa charchaa \threedots
+
+jhuuThii kasame.n khaate khaate
+Darane lagii huu.N aate jaate
+ho kasame.n nibhaa_e.nge hai vaadaa apanaa to nek hai iraadaa
+har Gam baaTe.nge aadhaa aadhaa aadhaa aadhaa aadhaa aadhaa
+aadhaa kyaa mai.n puuraa sah luu.ngii
+kaa.NTo.n pe guzaaraa kar luu.ngii
+par ho na jaa_e.n judaa ye sochake ham Darate hai.n
+chal shaadii kar lete hai.n \threedots
+
+mausam hai ba.Daa aashiqaanaa
+aise me.n hame.n naa ta.Dapaanaa
+he taubaa teraa aisaa sharamaanaa
+dhiire se teraa yuu.n muskaanaa
+gar andaaz hai pyaaraa denaa hogaa tumako sahaaraa
+vaadaa nibhaanaa kahii.n bhuul na jaanaa
+ham tum pe marate hai.n
+chal shaadii kar lete hai.n \threedots
+%
+#endindian
+\endsong
+

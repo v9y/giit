@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kyaa kahanaa mere sher kaa ... munnaa bhaa_ii tuu saamane aa_e}%
+\film{Hum Kisise Kum Nahin}%
+\year{2002}%
+\starring{Amitabh Bachchan, Ajay Devgan, Sanjay Dutt, Aishwarya Rai}%
+\singer{Udit Narayan, Vinod Rathod}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa kahanaa mere sher kaa
+kyaa kahanaa mere yaar kaa
+kad lambaa te siinaa chau.Daa
+tuu hai lambii ##race## kaa gho.Daa
+ho saaraa shahar mujhe ##hero## bulaa_e
+
+munnaa bhaa_ii tuu saamane aa_e vaaT lag jaa_e merii
+tuu sar pe kha.Daa ho jaa_e khaaT lag jaa_e merii
+ham botal kholataa hai ai kyaa bolataa hai
+aa_iilaa saalaa piyaa hamane tuu kyuu.N Dolataa hai
+sab hamase Darataa hai ham tumase Darataa hai
+pyaar tumhe.n karataa hai ham tumape marataa hai
+aa_ig aa_ig aa aa aa aa_ig
+ho josh aa_e to hosh aa jaa_e
+munnaa bhaa_ii tuu \threedots
+
+tujhe maine aashiq banaayaa aashiq banaayaa
+ishq karane tuu mere ghar are mere ghar aayaa
+chal ho ga_ii dostii ##double## ho ga_ii
+mushkil hal ho ga_ii gupachup gal ho ga_ii
+aa_ig aa_ig aa aa aa aa_ig
+ho baat a.ndar kii baahar na jaa_e
+##wife## mujhako agar mil jaa_e to ##life## ban jaa_e merii
+o munnaa o munnaa bhaa_ii tuu \threedots
+%
+#endindian
+\endsong
+

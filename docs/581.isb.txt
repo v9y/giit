@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ek ajanabii, hasiinaa se, yuu.N mulaakaat, ho ga_ii}%
+\film{Ajnabee}%
+\year{1974}%
+\starring{Rajesh Khanna, Zeenat Aman}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ek ajanabii, hasiinaa se, yuu.N mulaakaat, ho ga_ii
+phir kyaa huaa, ye naa puuchho, kuchh aisii baat, ho ga_ii
+ek ajanabii \threedots
+
+vo achaanak aa ga_ii, yuu.N nazar ke saamane
+jaise nikal aayaa ghaTaa se chaa.Nd
+chehare pe zulfe.n, bikharii huii thii.n
+din me.n raat ho ga_ii
+ek ajanabii \threedots
+
+jaan\-e\-man jaan\-e\-jigar, hotaa mai.n shaayar agar
+kahataa Gazal terii adaao.n par
+mai.n ne ye kahaa to, mujhase Kafaa vo
+jaan\-e\-hayaat ho ga_ii
+ek ajanabii \threedots
+
+khuubasuurat baat ye, chaar pal kaa saath ye
+saarii umar mujhako rahegaa yaad
+mai.n akelaa thaa magar, ban ga_ii vo hamasafar
+vo mere saath ho ga_ii
+ek ajanabii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dekho jii dekho ik baar is taraf dekho}%
+\film{Aas}%
+\year{1953}%
+\starring{Kamini Kaushal, Shekhar, Om Prakash}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+dekho jii dekho ik baar is taraf dekho
+ye dil banaa hai shiishe kaa 
+patthar pe is ko mat phe.nko
+chho.Do jii chho.Do aisii banaavaTii baate.n
+ham ne to aisii ulajhan me.n 
+kaaTii hai.n sai.nka.Do.n raate.n
+
+bahaaro.n ko aaye hue chaar din
+hame.n dil lagaaye hue chaar din
+dekho na to.Do aise suhaane sapane ko
+ye dil banaa hai shiishe kaa \threedots
+
+duaa do ki ye dil raham kar gayaa
+kaho ye ki jaaduu asar kar gayaa
+jaaduu hai kis kaa maaluum nahii.n apane ko
+ye dil banaa hai shiishe kaa \threedots
+
+%
+#endindian
+\endsong
+%

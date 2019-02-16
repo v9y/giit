@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{hai aisaa ##champion## kahaa.n}%
+\film{Champion}%
+\year{2000}%
+\starring{Sunny Deol, Manisha Koirala, Rahul Dev}%
+\singer{Jaspindar Narula, Sunidhi Chauhan, Chorus}%
+\music{Vishal Shekhar}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##champion## ##champion##
+aisaa ko_ii diivaanaa aisaa ko_ii mastaanaa
+aisaa ko_ii paravaanaa haa.n
+dil ko churaane vaalaa apanaa banaane vaalaa
+jaaduu jagaane vaalaa haa.n
+patthar ko jo pighalaa de din me.n taare dikhalaa de
+kar de har mushqil ko aasaa.n hai aisaa ##champion## kahaa.n
+
+vo hai faulaadii usakaa phuulo.n saa dil
+ra.ngate hai.n saare usake ra.ngo.n se mil
+usakii zubaa.n jo bole Tha.nDe pa.D jaa_e shole
+usane kahaa jo vo kiyaa
+hai aisaa ##champion## kahaa.n \threedots
+
+chalataa hai vo to kabhii rukataa nahii.n
+dushman ke aage kabhii jhukataa nahii.n
+vo aage usake piichhe saaraa zamaanaa bhaage
+joshiilaa hai vo naujavaa.n
+hai aisaa ##champion## kahaa.n \threedots
+%
+#endindian
+\endsong
+

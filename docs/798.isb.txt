@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jaane kahaa.N meraa jigar gayaa jii}%
+\film{Mr. and Mrs. 55}%
+\year{1955}%
+\starring{Guru Dutt, Madhubala}%
+\singer{Rafi, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane kahaa.N meraa jigar gayaa jii
+abhii abhii yahii.n thaa kidhar gayaa jii
+kisii kii adaao.n pe mar gayaa jii
+ba.Dii ba.Dii a.nkhiyo.n se Dar gayaa jii
+
+kahii.n maare Dar ke chUhaa to nahii.n ho gayaa
+kone kone dekhaa na jaane kahaa.N kho gayaa
+yahaa.N use laae kaahe ko binaa kaam re
+jal_dii jal_dii Dhuu.NDho ke hone lagii shaam re
+
+sachchii sachchii kah do dikhaao nahii.n chaal re
+tuune to nahii.n hai.n churaayaa meraa maal re
+aise nahii.n chorii khulegii takaraar se
+chalo chalo thaane bataae.n jamaadaar se
+
+koi ulfat kii nazar zaraa pher de
+lele do chaar aane jigar meraa chhe.D de
+baate.n hai.n nazar kii nazar se samajhaaU.ngii
+pahale pa.Do pa_iyaa.n to phir batalaaU.ngii
+%
+#endindian
+\endsong
+%

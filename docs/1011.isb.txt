@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kiyaa hai pyaar jise ham ne zindagii ke tarah}% 
+\film{Jashn-e-Bahar}%
+\year{}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Qatil Shifai}%
+%
+% Contributor: Ravi Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Dhawal Tyagi (tyagi@srishti.cns.vt.edu)
+%          Hetav Dave (hetav@cs.mun.ca)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+% Also sung by J&C Singh, in the movie "Gold Disc"
+%
+kiyaa hai pyaar jise ham ne zindagii ke tarah 
+vo aashanaa bhI milaa ham se ajanabii ke tarah 
+
+ba.Dhaa ke pyaas merI us ne haath chho.D diyaa 
+vo kar rahaa thA muravvat bhI dillagii ke tarah 
+
+kabhI nA sochaa thA ham ne qAtil us ke lie 
+karegaa ham pe sitam vo bhI har kisii ke tarah 
+
+kise khabar thii ba.De hii kuchh aur taarii kii (?)
+milaa hai hamase vo kisii badalii me.n chaa.Ndanii kii tarah
+
+sitam to ye hai ke vo bhI nA ban sakaa apanA 
+kubuul hamane liye jis ke Gam khushii ke tarah 
+%
+#endindian
+\endsong
+%

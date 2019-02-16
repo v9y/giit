@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{niilaa aasamaa.N so gayaa}%
+\film{Silsila}%
+\year{1981}%
+\starring{Amitabh, Rekha, Jaya Bhaduri, Shashi Kapoor, Sanjeev Kumar}%
+\singer{Amitabh}%
+\music{Shiv-Hari}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: Nikhil Garg
+% Editor: 
+%
+\printtitle
+#indian
+%
+niilaa aasamaa.N so gayaa
+
+o
+os barase raat bhiige ho.nTh tharraaye
+dha.Dakane.n kuchh kahanaa chaahe kah nahii.n paaye
+havaa kaa giit maddham hai
+samay kii chaal bhii kam hai
+niilaa aasamaa.N so gayaa
+
+o
+merii baa.Nho.n me.n sharamaake lajaake aise tum aaye
+ki jaise baadalo.n me.n chaa.Nd dhiire dhiire aa jaaye
+ye tanahaa_ii, ye mai.n aur tum
+zamii.n bhii ho gayii gumasum
+niilaa aasamaa.N so gayaa
+
+%
+#endindian
+\endsong
+%

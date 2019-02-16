@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{mai.n yahaa.N tuu kahaa.N meraa dil tujhe pukaare}%
+\film{Bedard Zamaanaa Kyaa Jaane}%
+\year{1959}%
+\starring{Ashok Kumar, Nirupa Roy, Pran, Helen}%
+\singer{Rafi, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10856 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	mai.n yahaa.N tuu kahaa.N
+	meraa dil tujhe pukaare
+la \:	jhukii\-jhukii hai nazar jhuume\-jhuume re jigar
+	ko_ii kyo.n hame.n pukaare
+ra \:	mai.n yahaa.N tuu kahaa.N \threedots
+
+la \:	khil rahii chaa.Ndanii raat hai
+	jaise chaa.Ndii kii barasaat hai
+ra \:	aaj kah do na dil khol ke
+	jo dil me.n chhupii baat hai
+	mai.n yahaa.N tuu kahaa.N \threedots
+
+la \:	sach kah duu.N tumhe.n o balam
+	bichha.De.nge nahii.n tum\-ham \-2
+ra \:	ik pal bhii nahii.n duur ho.n
+	chaa.Nd\-taaro.n kii hamako qasam
+ra \:	mai.n yahaa.N tuu kahaa.N \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil tujhape aa gayaa kyaa nashaa chhaa gayaa}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal, Abhijit}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( dil tujhape aa gayaa ) \-2 kyaa nashaa chhaa gayaa he haa
+meraa dil merii jaa.n meraa chain merii aarazuu ( sirf tuu ) \-2
+dil tujhape aa gayaa \threedots
+
+( jab se tujhako dekhaa hai ) \-2 dil hai beqaraar
+tuu kyaa jaane tujhase kitanaa karataa huu.N mai.n pyaar
+fasaane ulfat ke tujhe sunaa duu.ngaa
+jo mere dil me.n hai tujhe bataa duu.ngaa
+dil tujhape aa gayaa \threedots
+
+ho mere dil kii haalat ( tujhe kyaa hai pataa ) \-2
+maine tujhako chaahaa ( isame.n merii kyaa hai khataa ) \-2
+tuu ek musaafir hai mai.n terii ma.nzil huu.N
+tuu ek taraanaa hai ( mai.n terii mahafil huu.N ) \-2
+dil tujhape aa gayaa \threedots
+%
+#endindian
+\endsong
+

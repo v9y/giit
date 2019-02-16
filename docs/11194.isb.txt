@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{mai.n Kush honaa chaahuu.N}%
+\film{Dhoop Chhaaon/ Bhagya Chakra}%
+\year{1935}%
+\starring{Biswanath Bhaduri, Vikram Kapoor, K C Dey, Pahadi Sanyal, Indu Mukherjee}%
+\singer{Parul Ghosh, Suprova Sarkar, Harimati}%
+\music{Rai Chand Boral}%
+\lyrics{Pt. Sudarshan}%
+%
+% Contributor: BOL ANAMOL #10009 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n Kush honaa chaahuu.N Kush ho na sakuu.N
+jab tak hai teraa cheharaa udaas
+sir par sa.nkaT pa.De kabhii ro na sakuu.N
+jab tak rahe terii aa.Nkho.n me.n aas
+
+aanand nagar ke baasii aanand luTaane aa_e
+duniyaa.N ke dukhiyaa_o.n kaa dukh dard miTaane aa_e
+merii aa.Nkho.n me.n priit mere ho.nTho.n pe giit
+mere man me.n hai miit mere jiivan me.n jiit
+muft me.n luuTo sabhii dukh se chhuuTo sabhii
+aa_o aa_o hamaare paas
+%
+#endindian
+\endsong
+

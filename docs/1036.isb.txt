@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kyaa miliye aise logo.n se, jinakii fitarat chhupii rahe}%
+\film{Izzat}%
+\year{1968}%
+\starring{}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kyaa miliye aise logo.n se, jinakii fitarat chhupii rahe
+nakalii cheharaa saamane aae, asalii suurat chhupii rahe
+
+khud se hii jo khud ko chhupaae, kyaa unase pahachaan kare.n
+kyaa unake daaman se lipaTe.n, kyaa unakaa aramaan kare.n
+jinakii aadhii niiyat ubhare, aadhii niiyat chhupii rahe,
+nakalii \threedots
+
+diladaarii kaa Dho.ng rachaakar, jaal bichhaae baato.n kaa
+jiite jii kaa rishtaa kahakar, sukh Dhuu.NDhe kuchh raato.n kaa
+ruuh kii hasarat lab pe aae, jism kii hasarat chhupii rahe,
+nakalii \threedots
+%
+#endindian
+\endsong
+%

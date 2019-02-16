@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dil hii dil me.n ... meraa ka.nganaa jhaa.njhar}%
+\film{Krodh/ Blast of Anger}%
+\year{2000}%
+\starring{Sunil Shetty, Rambha, Apurva Agnihotri, Sakshi Shivanand}%
+\singer{Abhijit, Alka Yagnik, Chorus}%
+\music{Anand Milind}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil hii dil me.n pyaar kii baate.n kab tak unhe.n chhupaa_egii
+kar le tuu ikaraar pyaar kaa varanaa paka.Dii jaa_egii
+
+meraa ka.nganaa jhaa.njhar chuu.Dii khan khan karatii hai
+mere yaar diivaanii la.Dakii tujh pe maratii hai
+teraa ka.nganaa jhaa.njhar chuu.Dii khan khan karatii hai
+ye sabako pataa hai yaar tuu mujh pe maratii hai
+meraa ka.nganaa \threedots
+
+galii galii guu.nj rahii hai.n tere pyaar kii khabare.n
+chaaro.n taraf hai.n charche tere bol kahaa.n se guzare.n
+kabhii kisii ke pyaar kii kaliyaa.N idhar udhar naa bikhare.n
+maine bahut chhupaayaa lekin kah ga_ii.n sab kuchh nazare.n
+tuune pyaar kiyaa hai phir itanaa kyuu.n Daratii hai
+meraa ka.nganaa \threedots
+
+dhiire dhiire khii.nch rahaa hai tuu saa.Nso.n kii Dorii
+naa jaane kab tumane kar lii mere dil kii chorii
+mere gale kaa haar bane.ngii baahe.n gorii gorii
+ba.De pyaar se ra.ng duu.ngaa mai.n terii umariyaa korii
+tuu ra.ng de mujhako merii tamannaa karatii hai
+meraa ka.nganaa \threedots
+%
+#endindian
+\endsong
+

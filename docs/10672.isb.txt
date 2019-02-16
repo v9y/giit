@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ai mohabbat merii duniyaa me.n teraa kaam na thaa}%
+\film{Bees Saal Baad}%
+\year{1962}%
+\starring{Biswajeet, Waheeda Rehman}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10218 [V S Rawat]
+% Transliterator: 
+% Comments: Based on "The Hound of Baskerville" by Arthur Conan Doyle
+% 
+\printtitle
+#indian
+%
+ai mohabbat merii duniyaa me.n teraa kaam na thaa
+tuu naa aa_ii thii to Gam kaa bhii kahii.n naam na thaa
+ai mohabbat merii duniyaa \threedots
+
+jaane kyuu.N aaj hai shikavaa mujhe duniyaa bhar se
+isase pahale to kisii par ko_ii ilzaam na thaa
+ai mohabbat merii duniyaa \threedots
+
+merii qismat ki mujhe ashq hii piine ko mile
+mere hisse me.n mohabbat kaa ko_ii jaam na thaa
+ai mohabbat merii duniyaa \threedots
+
+dene vaale mujhe kyo.n tuune mohabbat de dii
+kyaa mujhe ishq se pahale ko_ii aaraam na thaa
+ai mohabbat merii duniyaa \threedots
+%
+#endindian
+\endsong
+

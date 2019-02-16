@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{baabuujii dhiire chalanaa, pyaar me.n zaraa sa.nbhalanaa}%
+\film{Aar Paar}%
+\year{1954}%
+\starring{Guru Dutt, Shyama, Shakeela}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          PVR Narasimha Rao (pvr@rice.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+baabuujii dhiire chalanaa
+pyaar me.n zaraa sambhalanaa
+haa.N ba.De dhokhe hai.n
+ba.De dhokhe hai.n is raah me.n, baabuujii \threedots
+
+kyuu.N ho khoye huye sar jhukaaye
+jaise jaate ho sab kuchh luTaaye
+ye to baabuujii pahalaa kadam hai
+nazar aate hai.n apane paraaye
+haa.N ba.De dhokhe hai.n \threedots
+
+ye muhabbat hai o bholebhaale
+kar na dil ko Gamo.n ke havaale
+kaam ulafat kaa naazuk bahut hai
+aake ho.nTho.n pe TuuTe.nge pyaale
+haa.N ba.De dhokhe hai.n \threedots
+
+ho gayii hai kisii se jo anaban
+thaam le duusaraa koI daaman
+zi.ndagaanii ki raahe.n ajab hai.n
+ho akelaa hai to laakho.n hai.n dushman
+haa.N ba.De dhokhe hai.n \threedots
+%
+#endindian
+\endsong
+%

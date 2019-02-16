@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tere hasii.n badan me.n jo dil bhii hasii.n hotaa}%
+\film{Holi Ayee Re}%
+\year{1970}%
+\starring{Mala Sinha, Premendra, Kumud Chhugani, Balraj Sahni, Rahman, Rajendra Nath}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11127 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tere hasii.n badan me.n jo dil bhii hasii.n hotaa
+phir ko_ii tere muqaabil duniyaa me.n nahii.n hotaa
+tere hasii.n badan \threedots
+
+aa.Nkhe.n ba.Dii\-ba.Dii hai.n phir ta.ngadil hai kaise
+hai badan to phuul jaisaa phir sa.ngadil hai kaise
+komal kalii ke jaisaa jo dil bhii kahii.n hotaa
+phir ko_ii tere muqaabil \threedots
+
+siikhaa si.ngaar tuune pyaar kyuu.N na aayaa
+inkaar to hai aataa ikaraar kyuu.N na aayaa
+jaisaa libaas teraa ehasaas kahii.n hotaa
+phir ko_ii tere muqaabil \threedots
+%
+#endindian
+\endsong
+

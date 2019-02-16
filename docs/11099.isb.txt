@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tumane kisii se kabhii pyaar kiyaa hai}%
+\film{Dharmaatmaa}%
+\year{1975}%
+\starring{Firoz Khan, Hema Malini, Rekha, Premnath}%
+\singer{Mukesh, Kanchan}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumane kisii se kabhii pyaar kiyaa hai
+bolo naa
+tumane kisii se kabhii pyaar kiyaa hai
+pyaar bharaa dil kisii ko diyaa hai
+
+pyaar kahaa.n apanii kismat me.n pyaar kaa bas diidaar kiyaa hai
+tumane kisii se \threedots
+
+tum ho itane hasii.n ki tum par laakho.n maratii ho.ngii
+tum ho itane javaa.n hazaaro.n aahe.n bharatii ho.ngii
+kisako kahaa tumane apanaa
+ban ke rahe kis kaa sapanaa
+sapane.n to sapane.n hai.n aakhir kisane inhe.n saakaar kiyaa hai
+tumane kisii se \threedots
+
+maine dekhaa haal dilo.n kaa dekhe do dilavaale
+maine dekhe do dilavaale
+ek duuje ke pyaar pe dono.n jaan luTaane vaale
+dono.n jaan luTaane vaale
+pyaar kaa saaraa jahaa.n dushman
+dekh sakaa naa unakaa milan
+auro.n kii chho.Do apanii sunaa_o tumane kahaa.n dil haar diyaa hai
+tumane kisii se \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{saath kisii ke koii kab aataa hai}%
+\film{Parmatma}%
+\year{}%
+\starring{Shatrughan Sinha, Rekha, Aruna Irani}%
+\singer{Mukesh}%
+\music{K Babuji}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Editor: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+saath kisiike koii kab aataa hai
+saath kisiike kab jaataa hai
+pal do pal kaa saath sabhii kaa
+pal do pal kaa naataa hai
+
+kachche gha.De jaisii ye duniyaa
+paar kisii ko taare kyaa
+khud hii sahaaraa Dhuu.Ndhane vaale
+tujhako de.nge sahaare kyaa \-2
+
+jo na mile kyaa usakaa gam
+jab mile hue kho jaate hai.n
+sapane nahii.n jis nii.nd ke a.ndar
+aisii nii.nd so jaate hai.n \-2
+%
+#endindian
+\endsong
+%

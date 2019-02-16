@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{jab yaad kii badalii chhaatii hai}%
+\film{Painter Babu}%
+\year{1983}%
+\starring{Meenakshi Seshadri, Rajiv Goswami?}%
+\singer{Mahendra Kapoor}%
+\music{Uttam Singh-Jagdish Khanna}%
+\lyrics{Manoj Kumar}%
+% 
+% Contributor: Ashok Dhareshwar (adhareshwar@worldbank.org)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Jan 18 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%
+\printtitle
+#indian
+%
+(jab yaad kii badalii chhaatii hai
+ tab aa.Nkh merii bhar aatii hai)	\-3
+
+mujhe sulaane kii khaatir raat bhii thak\-thak jaatii hai \-2
+par nii.nd merii to
+par nii.nd merii to pagalii Thaharii, tere ghar tak jaatii hai
+jab yaad kii badalii \threedots
+
+tuu kyaa teraa vaadaa kyaa har baat terii sharmaatii hai  \-2
+pat miT jaae.nge
+par miT jaae.nge pyaar me.n ham, ye dil kii agan bataatii hai
+jab yaad kii badalii \threedots
+
+chaar diivaarii ma.ndir kii, yaad terii doharaatii hai	\-2
+par khaalii ma.ndir, o
+par khaalii ma.ndir me.n puujaa to man ki thakan ba.Dhaatii hai
+jab yaad kii badalii \threedots
+%
+#endindian
+\endsong
+%

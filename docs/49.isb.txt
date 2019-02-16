@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aaiye meharabaa.N, baiThiye jaan-e-jaa.N}%
+\film{Howrah Bridge}%
+\year{1958}%
+\starring{Madhubala, Ashok Kumar}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+aaiye meharabaa.N, baiThiye jaan\e-\jaa.N
+shauq se liijiye jii, pyaar kaa imtahaa.N
+aaiye meharabaa.N   \threedots
+
+dekha machal ke jidhar, bijalii giraa de udhar
+kisakaa jalaa aashiyaa.N, bijalii ko ye kyaa khabar
+aaiye meharabaa.N   \threedots
+
+kaise ho tum naujavaa.N, itane hasii.n mahamaa.N
+kaise karuu.N mai.n bayaa.N, dil kii nahii.n hai zubaa.N
+aaiye meharabaa.N   \threedots
+
+%
+#endindian
+\endsong
+%

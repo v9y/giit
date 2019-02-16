@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{meraa naam hai mohabbat meraa naam yaad rakhanaa}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Lata, Udit Narayan, Sunny Deol, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+har subah yaad rakhanaa har shaam yaad rakhanaa
+meraa naam hai mohabbat meraa naam yaad rakhanaa
+
+chaahe.n ho ye zamii.n chaahe.n ho ye aasamaa.n
+ko_ii faasalaa na hogaa ab hamaare darmiyaa.n
+ye ra.ngo.n kaa mausam hai ye khushbuu kii a.nga.Daa_ii
+ik duuje me.n kho jaa_e.n kahatii hai ye tanhaa_ii
+is jagah ko is fizaa ko naa bhulaanaa
+merii chaahato.n kaa jaanam iinaam yaad rakhanaa
+meraa naam hai mohabbat \threedots
+
+roshan hai merii duniyaa terii panaaho.n me.n
+mujhe saarii umr rakhanaa apanii nigaaho.n me.n
+sadiyo.n kii du_aa ke badale mahabuub hasii.n milataa hai
+zulfo.n kii ghanii chhaa.Nv me.n dilakash lamhaa Dhalataa hai
+tum se mil ke maine samajhaa maine jaanaa
+nazaro.n kii bekhudii kaa ye salaam yaad rakhanaa
+meraa naam hai mohabbat \threedots
+
+badalaa badalaa saa mere dil kaa aalam lagataa hai
+mai.n jitanaa tumhe.n chaahuu.n utanaa hii kam lagataa hai
+ko_ii aur nahii.n jaan\-e\-man mere dil me.n tum rahate ho
+bas tumase pyaar karuu.n mai.n pal pal mujhase kahate ho
+bin tumhaare kuchh nahii.n mai.n maine maanaa
+ho.nTho.n se jo likhaa vo paigaam yaad rakhanaa
+meraa naam hai mohabbat \threedots
+%
+#endindian
+\endsong
+

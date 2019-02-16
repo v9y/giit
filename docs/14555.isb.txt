@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ham hai.n raajaa raaj kare.n ... na kisii kii bhii paravaah na hii ko_ii Gam}%
+\film{Vansh}%
+\year{1992}%
+\starring{Siddharth, Sudesh Berry, Priyanka, Ektaa, Kader, Anupam, Rima, Beena}%
+\singer{S P Balasubramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raajaa raaj kare.n
+ham hai.n raajaa raaj kare.n
+na kisii kii bhii paravaah na hii ko_ii Gam
+saamane ko_ii bhii aa_e hai kisame.n ye dam
+ham zamaane me.n kisii se nahii.n Dare.n
+raajaa raaj kare.n \threedots
+
+ham to dilajale hai.n ham to manachale hai.n ham saa ko_ii kahaa.n
+duniyaa ko jhukaane aaye ham diivaane hamase hai ye jahaa.n
+raabaa.Dii baabaa
+raat hasii.n mast samaa.n hosh kise dil hai javaa.n
+na kisii kii bhii paravaah \threedots
+
+kam hai zi.ndagaanii tho.Dii hai javaanii le le jam ke mazaa
+shaayad kal mile na phir ye pal mile na aisaa baiThaa hai kyaa
+aa_o chalo.n pyaar kare.n ham nigaahe.n chaar kare.n
+na kisii kii bhii paravaah \threedots
+
+kaa.NTo.n pe chale.nge sholo.n me.n jale.nge Dare.nge na kabhii
+mastii me.n rahe.nge khushiyaa.n chhiin le.nge de.nge ham ha.Nsii
+ba.ngalaa nahii.n ghar nahii.n ##degree## milii rozagaar nahii.n
+%
+#endindian
+\endsong
+

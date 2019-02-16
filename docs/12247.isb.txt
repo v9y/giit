@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chalo tumako lekar chale.n ham un fizaa_o.n me.n}%
+\film{Jism}%
+\year{2003}%
+\starring{Bipasha Basu, John Abraham}%
+\singer{Shreya Ghoshal}%
+\music{M M Kreem}%
+\lyrics{Neelesh Mishra}%
+%
+% Contributor: BOL ANAMOL #11684 [V S Rawat]
+% Producer: Shreya Creations Pvt Ltd, Fish Eye Network Production, Pooja Bhat, Sujit Kumar Singh
+% Director: Amit Saxena
+% Audio: Saregama India Ltd
+% Cassette: NHF 810546 Digital, Cost: Rs 55/-, CD: CDF 112043, Cost: Rs 125/-
+% 
+\printtitle
+#indian
+%
+( chalo tumako lekar chale.n ham un fizaa_o.n me.n
+jahaa.N miiThaa nashaa hai taaro.n kii chhaa.Nvo.n me.n ) \-2
+chalo tumako lekar chale.n ham un fizaa_o.n me.n
+
+gaatii sarasaraatii in havaa_o.n sa.ng aa_o paas mere aanaa
+sapano.n kaa safar hai mere dil kaa ye bha.Nvar hai isame.n Duub jaanaa
+zaraa saa lamhaa chhupaa thaa ab mil gayaa
+jahaa.N miiThaa nashaa hai taaro.n kii chhaa.Nvo.n me.n
+chalo tumako lekar chale.n ham un fizaa_o.n me.n
+
+maddham roshanii hai aur cha.Nchal chaa.Ndanii hai chale aa_o naa
+shabanam sii chubhan hai aur mahakaa saa milan hai duur jaa_o naa
+suhaanaa sapanaa tumhaaraa sach ho gayaa
+jahaa.N miiThaa nashaa hai taaro.n kii chhaa.Nvo.n me.n
+chalo tumako lekar chale.n \threedots taaro.n kii chhaa.Nvo.n me.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{raat jo tuune diip bujhaaye mere the}%
+\film{Meraj-E-Ghazal (Non-Film)}%
+\year{1983}%
+\starring{}%
+\singer{Asha}%
+\music{Ghulam Ali}%
+\lyrics{Saleem Gilani}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+raat jo tuune diip bujhaaye mere the
+ashq jo taariikii ne chhupaaye mere the
+
+kaif\-e\-bahaaraa.N mahar\-e\-nigaaraa.N lutf\-e\-junuu.N
+mausam\-e\-gul ke mahake saaye mere the
+
+mere the wo Kaab jo tuune chhiin liye
+giit jo ho.nTho.n par murajhaaye mere the
+
+aa.Nchal aa.nchal gesuu gesuu chaman chaman
+saarii Kushbuu merii saaye mere the
+
+saahil saahil lahare.n jisako Dhuu.NDhatii hai.n
+maazii ke wo mahake saaye mere the
+
+#endindian
+\endsong

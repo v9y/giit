@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{dil kaa naa karanaa aitabaar ko_ii}%
+\film{Halaaku}%
+\year{1956}%
+\starring{Ajit, Meena Kumari, Veena, Pran}%
+\singer{Rafi, Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10833 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	dil kaa naa karanaa aitabaar ko_ii ho
+	bhuule se bhii na karanaa pyaar ko_ii \-2
+	dil kaa naa karanaa \threedots
+
+	laakh manaayaa dil naa maanaa
+	jaan ke dhokhe me.n ( aayaa diivaanaa ) \-2
+ra \:	jaan ke dhokhe me.n ( aayaa diivaanaa ) \-2
+la \:	kisakaa hu_aa hai dil\-e\-zaar ko_ii \-2
+	dil kaa naa karanaa \threedots
+
+	kyuu.N kahate ho pyaar kiyaa thaa
+	kah do kisii se ( dard liyaa thaa ) \-2
+ra \:	kah do kisii se ( dard liyaa thaa ) \-2
+la \:	badale me.n le gayaa qaraar ko_ii \-2
+	dil kaa naa karanaa \threedots
+
+	Duube sitaare kho_e nazaare
+	phir na mile.nge ( dil ke sahaare ) \-2
+ra \:	phir na mile.nge ( dil ke sahaare ) \-2
+la \:	karataa rahegaa i.ntazaar ko_ii \-2
+	dil kaa naa karanaa \threedots
+%
+#endindian
+\endsong
+

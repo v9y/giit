@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sojaa cha.ndaa raajaa sojaa chal sapano.n me.n chal}%
+\film{Mission Kashmir}%
+\year{2000}%
+\starring{Hritik Roshan, Snajay Dutt, Pretty Zinta, Jackie Shroff, Sonali Kulkarni, Puru Rajkumar}%
+\singer{Mahalaxmi Iyer}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sojaa cha.ndaa raajaa sojaa chal sapano.n me.n chal
+nii.nd kii pariyaa.n pahan ke aa_ii.n pairo.n me.n paayal
+tujhako apane naram paro.n par lekar jaa_e.ngii
+sone kaa ik des hai jisakii sair karaa_e.ngii
+dharatii se kuchh duur kahii.n saat sama.ndar paar
+aakaasho.n ke biich hai sapano.n kaa sa.nsaar
+vo zamii.n hai pyaar kii vahaa.n sirf pyaar hai
+mere chaa.Nd jaa vahaa.n teraa intazaar hai
+sojaa cha.ndaa raajaa \threedots
+
+jin pariyo.n ke husn pe jannat ho qurabaan
+un pariyo.n ke desh me.n hogaa tuu mehamaan
+hai na_ii kahaaniyaa.N jo tujhe sunaa_e.ngii
+tere saath naache.ngii tere saath gaa_e.ngii
+sojaa cha.ndaa raajaa \threedots
+%
+#endindian
+\endsong
+

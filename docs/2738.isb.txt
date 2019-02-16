@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ye kaisaa sur mandir hai}%
+\film{Prem Nagar}%
+\year{1974}%
+\starring{Hema Malini, Rajesh Khanna}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+ye kaisaa sur mandir hai jis me.n sa.ngiit nahii.n
+giit likhe diivaaro.n pe gaane kii riit nahii.n
+
+viiNaa terii merii jaise ek kahaanii
+is ghar me.n ham dono.n kii kisii ne qadar na jaanii
+teraa bhii koii miit nahii.n meraa bhii miit nahii.n
+ye kaisaa sur mandir hai \threedots
+
+muurat rakh dene se kyaa mandir ban jaataa hai
+yuu.N hii pa.Daa rahane se shiishaa patthar ban jaataa hai
+vo puujaa kaisii puujaa hai jis me.n priit nahii.n
+ye kaisaa sur mandir hai \threedots
+
+%
+\printtitle
+#indian
+%

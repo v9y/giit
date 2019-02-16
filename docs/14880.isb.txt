@@ -1,0 +1,29 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jag maa hii jug\-jug jiyo}%
+\film{Pukaar}%
+\year{1939}%
+\starring{Sohrab Modi, Chandramohan, Nasim Bano, Sheela, Sardar Akhtar}%
+\singer{Female Voice?}%
+\music{Mir Sahab}%
+\lyrics{Kamal Amrohi}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% Kosh does not have any mention of this verse
+
+\printtitle
+#indian
+
+jag maa hii jug\-jug jiyo
+jiyo sadaa tum naam
+( jiyo sadaa tum naam sadaa tum
+suphal rahe har kaam ) \-2
+
+jag maa hii jug\-jug jiyo
+jiyo sadaa tum naam
+
+#endindian
+\endsong

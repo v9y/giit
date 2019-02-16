@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{pyaar agar tum karate ho}%
+\film{Nayaa Saawan}%
+\year{1992}%
+\starring{Ashwini Bhave, Asif-Sahil, Javed Jafri, Laxmikant Berde, Deepak Shraf}%
+\singer{Kumar Sanu, Lata}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+la \:	pyaar agar tum karate ho haa.N karate ho
+ku \:	pyaar agar tum karatii ho haa.N karatii ho
+la \:	pyaar agar tum karate ho saarii umar bharosaa karanaa
+	isii ke li_e to jiinaa hai isame.n naa dhokhaa karanaa
+ku \:	pyaar agar tum karatii ho saarii umar bharosaa karanaa
+	isii ke li_e to jiinaa hai isame.n naa dhokhaa karanaa
+la \:	pyaar agar tum karate ho
+ku \:	haa.N haa.N karate hai.n
+la \:	karate ho
+ku \:	haa.N karate hai.n
+
+	kabhii tumhe.n aur kabhii hame.n duniyaa badanaam karegii
+la \:	ham dono.n me.n galatafahamii ho aise kaam karegii \-2
+	sun lenaa jo log kahe.n unape naa bharosaa karanaa naa naa naa	
+ku \:	pyaar agar tum karatii ho
+la \:	haa.N karatii huu.N
+	pyaar agar tum \threedots
+
+la \:	raho mere tum paas\-paas mai.n saamane rahuu.N tumhaare
+ku \:	cheharaa tumhaaraa nazar aa_e to phir kyaa chaa.Nd sitaare
+la \:	pyaar ko jab bhii dil chaahe tum dil ko naa Tokaa karanaa naa naa naa
+	pyaar agar tum \threedots
+%
+#endindian
+\endsong
+

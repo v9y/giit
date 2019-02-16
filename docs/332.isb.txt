@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{cha.ndaamaamaa duur ke pue pakaae.n buur ke}%
+\film{Vachan}%
+\year{}%
+\starring{}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+cha.ndaamaamaa duur ke, pue pakaae.n buur ke
+aap khaae.n thaalii me.n, mun_ne ko de.n pyaalI me.n
+
+1) pyaalI gaI TuuT munnaa gayaa ruuTh
+laae.nge naI pyaaliyaa.N bajaa bajaa ke taaliyaa.N
+munne ko manaae.nge ham duudh malaaI khaae.nge, 
+cha.ndaamaamaa \threedots
+
+2) u.DanakhaTole baiTh ke munnaa cha.ndaa ke ghar jaaegaa
+taaro.n ke sa.ng aa.Nkh michaulI khel ke dil bahalaaegaa
+khel kuud se jab mere munne kaa dil bhar jaaegaa
+Thumak Thumak meraa munnaa vaapas ghar ko aaegaa, 
+cha.ndaamaamaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{jaane kaisaa chhaane lagaa nashaa ye pyaar kaa}%
+\film{Zabak}%
+\year{}%
+\starring{Mahipal, Manhar Desai, Sahira, Shyama}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 09/17/1995
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments: Released in 1961 
+%
+\printtitle
+#indian
+%
+(jaane kaisaa chhaane lagaa nashaa ye pyaar kaa
+ tho.Daa tho.Daa aane lagaa mazaa bahaar kaa)	\-2
+
+dil jo mile, gul se khile, jaan ga_e hamaraaz na_e \-2
+tujhase sanam, terii kasam, siikh ki_e a.ndaaz na_e
+ga_ii dilako u.Daa, terii shoK adaa, meraa bas na chalaa
+jaane kaisaa\threedots
+
+dil the javaa.n, raat hasii.n aise me.n tumase aa.Nkh la.Dii \-2
+kaise bujhe dilake lagii ab to ye mushkil aan pa.Dii
+aisaa dard milaa, nahii.n jisakii davaa, tere pyaar ke sivaa
+jaane kaisaa\threedots
+%
+#endindian
+\endsong
+%
+

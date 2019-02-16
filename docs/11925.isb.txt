@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chhuukar tere man ko ... mai.n diivaanaa saa hone lagaa}%
+\film{International Khilaadi}%
+\year{1999}%
+\starring{Akshay Kumar, Twinkle Khanna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chhuukar tere man ko man ko
+ho dil me.n halachal sii hone lagii ek ulajhan sii hone lagii
+mai.n diivaanaa saa hone lagaa tuu bhii paagal sii hone lagii
+chhuukar tere man ko \threedots
+
+dil me.n halachal sii hone lagii ek ulajhan sii hone lagii
+tuu diivaanaa saa hone lagaa mai.n bhii paagal sii hone lagii
+chhuukar tere man ko \threedots
+
+tujhako kyaa hu_aa mujhako ye bataa
+dil hai laapataa kyaa hu_aa kyaa pataa
+mai.n to nii.ndo.n me.n khone lagii merii baaho.n me.n sone lagii
+haa.N mai.n diivaanaa saa \threedots
+
+ab naa sataa he chupake se aajaa ho
+najaro.n kii raaho.n se dil me.n samaa jaa
+jaan\-e\-vafaa he tuu meraa ho jaa haa
+mai.n tujhame.n kho jaa_uu.n tuu mujhame.n kho jaa
+ek mastii sii chhaane lagii
+ho merii dha.Dakan bhii gaane lagii
+haa.N mai.n diivaanaa saa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ye kyaa ho gayaa hai ... kyaa hu_aa kaho naa}%
+\film{Bas Itna Sa Khvab Hai}%
+\year{2001}%
+\starring{Abhishek Bachchan, Jackie Shroff, Rani Mukerji, Sushmita Sen}%
+\singer{Alka Yagnik, Shaan}%
+\music{Aadesh Srivastava}%
+\lyrics{Goldy Behl}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye kyaa ho gayaa hai ye kyuu.n ho gayaa
+ab tak ye meraa thaa ab dil kho gayaa
+kise kahuu.N naa kahuu.N kisako pataa
+kaise kahuu.N naa kahuu.N ye tuu hii bataa
+
+kyaa hu_aa kaho naa kaho tujhe kyaa hu_aa mere yaar
+he hame.n bataa kuchh naa chhupaa ab hame.n bataa mere yaar
+ye kyaa ho gayaa \threedots
+
+usane paas aa ke kuchh bhii naa kahaa
+phir bhii sun sakaa mai.n har vo daastaa.n
+kyaa usane bhii vo sun liyaa jo maine bhii to naa kahaa
+he usake paas jaa ke mujhako yuu.N lagaa
+jaise vo meraa hai kab se jaanuu.n naa
+kyaa usane bhii kuchh aisaa kahaa
+ke tuu merii hai o jaan\-e\-jaa.n
+kyaa hu_aa \threedots
+
+yaa vo ik parii hai yaa hai meraa khvaab
+palake.n ba.nd karake dekhuu.n baar baar
+huu.n pahalii baar mujhako ye kyaa ho gayaa
+har pal ab meraa ye usakaa ho gayaa
+kyaa mai.n karuu.N naa karuu.N mai.n bekaraar
+raate.n jaaguu.n naa so_uu.N naa aa_e karaar
+pyaar hu_aa tujhe to pyaar hu_aa pyaar hu_aa mere yaar
+he pyaar hu_aa tujhe \threedots
+%
+#endindian
+\endsong
+

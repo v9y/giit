@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{tum ruuThii raho mai.n manaataa rahuu.N}%
+\film{Aas Ka Panchhi}%
+\year{1961}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10899 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	tum ruuThii raho mai.n manaataa rahuu.N \-2
+	ki in adaa_o.n pe aur pyaar aataa hai \-2
+la \:	tho.De shiqave bhii ho.n kuchh shikaayat bhii ho \-2
+	to mazaa jiine kaa aur bhii aataa hai \-2
+
+mu \:	haay dil ko churaakar le gayaa
+	mu.Nh chhupaa lenaa hamase vo aapakaa
+	dekhanaa vo biga.D kar phir hame.n
+	aur daa.nto.n me.n uu.Ngalii kaa daabanaa
+	o mujhe terii qasam yahii samaa.N maar gayaa
+	isii jalave pe tere dono.n jahaa.N haar gayaa
+	tum ruuThii raho \threedots
+la \:	tho.De shiqave bhii \threedots
+
+	ye na samajho ki tumase duur huu.N
+	tere jiivan kii pyaar bharii aas huu.N
+	chaa.Nd ke sa.ng jaise hai chaa.Ndanii
+	vaise mai.n bhii tere dil ke paas huu.N
+	haay vo dil nahii.n jo na dha.Dakanaa jaane
+	aur diladaar nahii.n jo na ta.Dapanaa jaane
+	tho.De shiqave bhii \threedots
+mu \:	tum ruuThii raho \threedots
+
+	chaahe.n ko_ii Dagar ho pyaar kii
+	Katm hogii na terii\-merii daastaa.N
+	dil jalegaa to hogii roshanii
+	tere dil me.n banaayaa hai aashiyaa.N
+	o sharad puunam kii ra.ng bharii chaa.Ndanii
+	merii sab kuchh merii taqadiir merii zindagii
+	tum ruuThii raho \threedots
+%
+#endindian
+\endsong
+

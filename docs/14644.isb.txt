@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ik dil se nikalate hai.n ye ye raaste hai.n pyaar ke}%
+\film{Yeh Raaste Hain Pyaar Ke}%
+\year{2001}%
+\starring{Ajay Devgan, Madhuri Dixit, Preity Zinta}%
+\singer{Shaan, Jaspindar Narula}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye ye
+ik dil se nikalate hai.n ye
+ye raaste hai.n pyaar ke
+ik dil ko pahu.Nchate hai.n ye
+ye raaste hai.n pyaar ke
+ik dil se nikalate \threedots
+
+aage bhuul bhulaiyaa.n jaane.n kaa.NTe hai.n yaa phuul
+saiyaa.n thaam lo baiyaa.n ham rastaa naa jaa_e.n bhuul
+ye raaste hai.n pyaar ke \threedots
+
+roshanii kho jaa_egii raat bhii to aa_egii
+kyaa kare.nge raat ko nii.nd bhii to aa_egii
+raat jab aa jaa_egii aag sii lag jaa_egii
+pyaar kii baate.n kare.nge nii.nd kisako aa_egii
+ye raaste hai.n pyaar ke \threedots
+
+sun o mere hamasafar hai bahut lambaa safar
+aaj tum ham saath hai.n kal ho kyaa kisako khabar
+kuchh nahii.n hogaa magar ho gayaa jo kuchh agar
+is jahaa.N ko chho.D ke bhii saath ho.nge hamasafar
+ye raaste hai.n pyaar ke \threedots
+%
+#endindian
+\endsong
+

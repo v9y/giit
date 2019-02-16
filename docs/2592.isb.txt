@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ik bevafaaa ko dil kaa sahaaraa samajh liyaa}%
+\film{Ajeeb Ladki}%
+\year{1952}%
+\starring{Naseem, Rehman, Kukku, Shashikala, Jayant}%
+\singer{Talat, Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ik bevafaaa ko dil kaa sahaaraa samajh liyaa
+patthar ko ham ne aa.Nkh kaa taaraa samajh liyaa
+ik bevafaaa ko dil kaa sahaaraa samajh liyaa
+dushman ko ham ne jaan se pyaaraa samajh liyaa
+
+apanaa hii thaa qusuur jo tuufaa.N me.n ghir gaye
+ik mauj thii ki jis ko kinaaraa samajh liyaa
+patthar ko ham ne \threedots
+
+jaaduu bharii nigaah ke dhokhe me.n aa gaye
+bhuule se apane dil ko tumhaaraa samajh liyaa
+dushman ko ham ne \threedots
+
+%
+#endindian
+\endsong
+%

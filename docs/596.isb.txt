@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ek pyaar kaa naGamaa hai, maujo.n kii ravaanii hai}%
+\film{Shor}%
+\year{1972}%
+\starring{Manoj Kumar, Jaya Bhaduri, Nanda}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Rakesh Jain (jain@seas.smu.edu)
+%          C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ek pyaar kaa naGamaa hai, maujo.n kii ravaanii hai	
+zi.ndagii aur kuchh bhii nahii.n, terii merii kahaanii hai \- (2)
+
+kuchh paakar khonaa hai, kuchh khokar paanaa hai
+jiivan kaa matalab to, aanaa aur jaanaa hai
+do pal ke jiivan se, ek umr churaanii hai
+zi.ndagii aur\threedots
+
+tuu dhaar hai nadiyaa kii, mai.n teraa kinaaraa huu.N
+tuu meraa sahaaraa hai, mai.n teraa sahaaraa huu.N
+aa.Nkho.n me.n sama.ndar hai, aashaao.n kaa paanii hai
+zi.ndagii aur\threedots
+
+tuufaan to aanaa hai, aakar chale jaanaa hai
+baadal hai ye kuchh pal kaa, chhaakar Dhal jaanaa hai
+parachhaai.nyaa.N rah jaatii.n, rah jaatii nishaanii hai
+zi.ndagii aur\threedots
+
+jo dil ko tasallii de, vo saaz uThaa laao
+dam ghuTane se pahale hii, aavaaz uThaa laao
+khushiyo.n kii tamannaa hai, ashko.n kii ravaanii hai
+zi.ndagii aur\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{insaaf kaa mandir hai ye bhagavaan kaa ghar hai}%
+\film{Amar}%
+\year{1954}%
+\starring{Dilip Kumar, Madhubala, Nimmi}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10605 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+insaaf kaa mandir hai ye bhagavaan kaa ghar hai \-2
+kahanaa hai jo kah de tujhe kis baat kaa Dar hai
+insaaf kaa mandir hai \threedots
+
+hai khoT tere man me.n jo bhagavaan se hai duur \-2
+hai paa.Nv tere phir bhii tuu aane se hai majabuur \-2
+himmat hai to aajaa ye bhalaa_ii kii Dagar hai
+insaaf kaa mandir hai \threedots
+
+dukh de ke na dukhiyo.n se jo insaaf karegaa
+bhagavaan bhii usako na kabhii maaf karegaa
+( ye soch le ) \-2 har baat kii daataa ko Kabar hai \-2
+insaaf kaa mandir hai \threedots
+
+maayuus na ho haar ke taqadiir kii baazii
+pyaaraa hai vo Gam jisame.n ho bhagavaan bhii raazii
+( dukh dard mile ) \-2 jisame.n vahii pyaar amar rahe \-2
+insaaf kaa mandir hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chuu.Dii jo khanakii haatho.n me.n}%
+\film{Non-Film}%
+\year{1998}%
+\starring{}%
+\singer{Phalguni Pathak}%
+\music{Lalit Sen}%
+\lyrics{Lalit Sen}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chuu.Dii jo khanakii haatho.n me.n haay
+yaad piyaa kii aane lagii haay bhiigii bhiigii raato.n me.n
+chuu.Dii jo khanakii \threedots
+
+Tha.nDii Tha.nDii pavan chale tan man me.n haay aag lage
+tere pyaar kii chi.ngaarii a.ng a.ng me.n haay mere jale
+rimajhim sii barasaato.n me.n haay
+yaad piyaa kii \threedots
+
+abake baras haay ye saavan jaan na merii le jaa_e are
+dhak dhak moraa jiyaa kare tan se chunar jab u.D jaa_e
+bole jo koyal baago.n me.n haay
+yaad piyaa kii \threedots
+%
+#endindian
+\endsong
+

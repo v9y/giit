@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{dil huu.N huu.N kare, ghabaraae}%
+\film{Rudaali}%
+\year{}%
+\starring{Dimple}%
+\singer{Bhupen Hazarika / Lata}%
+\music{Bhupen Hazarika}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+dil huu.N huu.N kare, ghabaraae
+ghan dham dham kare, garajaae
+ek buu.Nd kabhii paanii kii
+more a.Nkhiyo.n se barasaae
+
+terii jholii Daaruu.N, sab suukhii paat jo aae
+teraa chhuaa lage, merii suukhii Daal hariyaae
+dil huu.N huu.N kare, ghabaraae
+
+jis tan ko chhuuaa tuune us tan ko chhupaa_uu.N
+jis man ko laage nainaa, vo kisako dikhaa_uu.N
+o morii chandramaa, terii chaa.Ndanii a.Ng jalaae
+uu.Nchii torii aTaarii, mai.n ne pa.Nkh li_e kaTavaae
+
+%
+% In the Lata version, this line is slightly different
+% torii uu.Nchii aTaarii, mai.n ne pa.Nkh li_e kaTavaae
+%
+
+dil huu.N huu.N kare, ghabaraae
+
+%
+#endindian
+\endsong
+%

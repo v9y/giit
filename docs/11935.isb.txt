@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{muhabbat honii thii muhabbat ho ga_ii hai}%
+\film{Ittefaq}%
+\year{2001}%
+\starring{Sunil Shetty, Puja Batra, Anupama Verma}%
+\singer{Babul Supriyo, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+muhabbat honii thii muhabbat ho ga_ii hai ho ga_ii hai
+naa tujhako pataa naa mujhako pataa
+muhabbat honii thii muhabbat ho ga_ii hai
+naa terii khataa naa merii khataa
+muhabbat honii thii \threedots
+
+o jo dil me.n aa_egaa ham vo kar jaa_e.nge
+ham is jamaane se Darate hai.n kyaa
+o chaahat kii raaho.n me.n ha.Ns ke mar jaa_e.nge
+hamako to hai aashiqii kaa nashaa
+naa maiine to kii naa tuune to kii
+muhabbat honii thii \threedots
+
+ho mausam mastaanaa hai dil bhii diivaanaa hai
+baaho.n me.n aa der kis baat kii
+o nazadiik aa_e.nge duur naa jaa_e.nge
+hamako kasam is mulaakaat kii
+mai.n anjaan thaa tuu thii bekhabar 
+mai.n anjaan thii tuu thaa bekhabar
+muhabbat honii thii \threedots
+%
+#endindian
+\endsong
+

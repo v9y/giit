@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{zindagii aaj mere naam se sharamaatii hai}%
+\film{Son Of India}%
+\year{1962}%
+\starring{Sajid, Kumkum, Kamaljeet}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10664 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zindagii aaj mere naam se sharamaatii hai
+apane haalaat pe mujhe khud hii ha.Nsii aatii hai
+zindagii aaj mere \threedots
+
+ek Gam chain se jiine nahii.n detaa mujhako \-2
+ek ulajhan hai jo aksar mujhe ta.Dapaatii hai
+zindagii aaj mere \threedots
+
+is tarah chho.D ke nikalaa huu.N mai.n apanii ma.nzil
+jaise hasarat ko_ii siine se nikal jaatii hai
+zindagii aaj mere \threedots
+
+raah chalate hu_e kuchh soch ke ruk jaataa huu.N \-2
+har qadam par ko_ii bhuulii hu_ii yaad aatii hai
+zindagii aaj mere \threedots
+%
+#endindian
+\endsong
+

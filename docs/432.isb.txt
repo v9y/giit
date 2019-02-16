@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{dekh hame.n aavaaz na denaa}% 
+\film{Amardeep}%
+\year{1958}%
+\starring{}%
+\singer{Rafi, Asha}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+% Producer: Shivaajii Productions 
+%
+% Contributor: Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+A: ##hmmm## \threedots
+r: dekh hame.n aavaaz na denaa 
+A: dekh hame.n aavaaz na denaa 
+ o bedard zamaane, o bedard zamaane 
+r: aaj chale ham chho.Dake tujhako 
+ duniyA na_ii basaane, o bedard zamaane 
+
+r: chamakaa shaam kaa pahalaa taaraa \- 2
+A: gagan dulaaraa 
+ sabase pahale usane dekhaa pyaar hamaaraa \- 2
+r: aane vaalii raat sunegii \- 2
+r, A: tere mere taraane 
+ o bedard zamaane 
+A: dekh hame.n aavaaz nA denaa 
+o bedard zamaane, o bedard zamaane 
+
+A: dUr kahii.n ek pa.nchhii gAye 
+r: ye samajhaaye 
+A: dUr kahii.n ek pa.nchhii gAye 
+r: ye samajhaaye 
+ pyaar me.n ho jaate.n hai.n apane dard paraaye \- 2 
+a: dil kii dha.Dakan kyA hotii hai
+ dil kii dha.Dakan kyA hotii hai
+r, A: pyaar kare.n to jaane 
+o bedard zamaane 
+
+A: dekh hame.n aavaaz nA denaa 
+o bedard zamaane, o bedard zamaane 
+aaj chale ham chho.D ke tujhako 
+duniyA na_ii basaane, o bedard zamaane 
+ham \threedots
+%
+#endindian
+\endsong
+%

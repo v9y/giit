@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bin dekhe aur bin pahachaane tum par ham qurabaan}%
+\film{Jab Pyar Kisi Se Hota Hai}%
+\year{}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Vandana (vandana@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+bin dekhe aur bin pahachaane tum par ham qurabaan
+mohabbat isako kahate hai.n, mohabbat isako kahate hai.n
+
+bin dekhe aur bin pahachaane tum par ham qurabaan
+mohabbat isako kahate hai.n, mohabbat isako kahate hai.n
+gar tum par naa marate to jiinaa thaa aasaan
+mohabbat isako kahate hai.n, mohabbat isako kahate hai.n
+
+(chaahat ke sa.ndesh lekar aatii hai shaam
+gar tum bhii aa jaate to aa jaataa aaraam ) \- 2
+dil kii bastii bas hii jaatii 
+merii har dha.Dakan ye gaatii
+tum aate to mujhapar hotaa
+kitanaa ba.Daa ehasaan
+bin dekhe aur bin pahachaane \threedots
+
+(bekal mere aramaa.n, bekal hai meraa pyaar
+kabase mai.n karataa huu.N tumhaaraa intazaar ) \- 2
+kabase merii baahe.n suunii
+jiivan kii ye raahe.n suunii
+tum bin kaise puure ho.nge
+dil me.n base aramaan 
+bin dekhe aur bin pahachaane \threedots
+%
+#endindian
+\endsong
+%

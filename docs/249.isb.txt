@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{bachapan kii mohabbat ko dil se na judaa karanaa}%
+\film{Baiju Bawra}%
+\year{}%
+\starring{Meena Kumari, Bharat Bhushan, Surendra, Ratan Kumar}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+bachapan kii mohabbat ko dil se na judaa karanaa
+jab yaad merii aae milane kii duaa karanaa
+
+ghar merii ummiido.n kaa suunaa ki_e jaate ho
+duniyaa ai muhabbat kii luuTe lie jaate ho
+jo Gam di_e jaate ho us Gam kii duaa karanaa
+jab yaad merii aae \threedots
+
+saavan me.n papiihaa kaa sa.Ngiit sunaauu.Ngii
+fariyaad tujhe apanii gaa\-gaa kar sunaauu.Ngii
+aavaaz merii sun ke dil thaam liyaa karanaa
+jab yaad merii aae \threedots
+%
+#endindian
+\endsong
+%
+

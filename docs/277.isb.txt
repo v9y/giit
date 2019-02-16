@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{baraso re, baraso re}% 
+\film{Tansen}%
+\year{1943}%
+\starring{Saigal, Khursheed, Mubarak, Nagendra}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Pt. Indra Chandra}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+baraso re, baraso re 
+kaare baadaravaa 
+jiyaa pe baraso, baraso 
+jaise morI a.Nkhiyaa.n barasaae 
+baraso re, baraso re 
+
+baraso re, baraso re 
+kaare baadaravaa 
+jiyaa pe baraso, baraso 
+jaise morI a.Nkhiyaa.n barasaae 
+baraso re, baraso re 
+%
+#endindian
+\endsong
+%

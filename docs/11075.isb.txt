@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{is kadar pyaar hai tumase hai hamasafar}%
+\film{Deewana (Non-Film)}%
+\year{1999}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+is kadar pyaar hai tumase ai hamasafar
+ab to jiite hai.n ham bas tumhe.n dekhakar
+tumhaarii har adaa tumhaarii har nazar
+ye kyaa kahane lagii tumhe.n hai kyaa khabar
+is kadar pyaar hai \threedots
+
+dil me.n hai.n betaabiyaa.n nii.nd u.Dane lagii
+tere khyaalo.n se hii aa.Nkh ju.Dane lagii
+har pal tumako dekhaa maine kahatii hai merii nazar
+tumhaarii har adaa \threedots
+
+saa.Nso.n me.n basane lagii jabase tuu o jaan\-e\-jaa.n
+apanaa saa lagane lagaa mujhako saaraa jahaa.n o
+mahakaa mahakaa lagataa mujhako khushiyo.n se dil kaa nagar
+tumhaarii har adaa \threedots
+%
+#endindian
+\endsong
+
