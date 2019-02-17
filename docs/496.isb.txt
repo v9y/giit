@@ -1,43 +1,57 @@
-% 
+%
 \startsong
-\stitle{dil javaa.n hai aarzuu javaa.n}%
+\stitle{dil javaa.N hai aarazuu javaa.N}%
 \film{Samundari Daaku}%
 \year{1956}%
-\starring{}%
-\singer{Talat}%
+\starring{Nasir Khan, Nadira, Johny Walker}%
+\singer{Talat, Asha}%
 \music{Jaidev}%
 \lyrics{Vishwamitra Adil}%
-% 
+%
 % Contributor: Arun Verma <verma@lindt.mcs.anl.gov>
 % Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
 % Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+%       Surajit A. Bose
 % Date: 10/26/1996
 %
 \printtitle
 #indian
 %
-dil javaa.n hai aarzuu javaa.n
-ek nazar idhar bhii maharbaa.n
-kab talak ye hamase beruKii
-kab talak rahegii chup zubaa.n
+dil javaa.N hai aarazuu javaa.N
+ek nazar idhar bhii mehar_baa.N
+kab talak ye hamase beruKhii
+kab talak rahegii chup zubaa.N
 
-ye kyaa Gazab hai dilarubaa hai apane aap se Kafaa
-Dharii rahegii har adaa jo dil kisiipe aa gayaa
-Guruur\-e\-dil rahegaa phir kahaa.N
-ik nazar idhar bhii \threedots
+ye kyaa Gazab hai dilarubaa hai apane aap se Khafaa
+dharii rahegii har adaa jo dil kisii pe aa gayaa
+Guruur-e-dil rahegaa phir kahaa.N
+ek nazar idhar bhii ...
 
 vo husn kyaa jo ruuThake nigaah ko na pher le
 vo ishq kyaa jo chhe.Dake na zulf ko bikher de
 vo soz kyaa uThe na jo dhuaa.N
-ik nazar idhar bhii \threedots
+ek nazar idhar bhii ...
 
-mai.n jaanataa huu.N hai fareb ye jhukii nazar terii
-uThii to haar jaayegii zaruur muskuraaegi
-na chhup sakegii dil kii daastaan
-ik nazar idhar bhii \threedots
+mai.n jaanataa huu.N ai parii jhukii-jhukii nazar terii
+uThii to haar jaayegii zaruur muskuraaegii
+na chhup sakegii dil kii daastaa.N
+ek nazar idhar bhii ...
 
+ajiib shai hai pyaar bhii ki jiit bhii hai haar bhii
+nashaa bhii hai Khumaar bhii Khizaa.N bhii hai bahaar bhii
+yahii hai do dilo.n kii daastaa.N
+ek nazar idhar bhii ...
+
+Guruur hai na shaan hai har ek adaa zubaan hai
+yah kaisaa imtahaan hai ki husn mehar_baan hai
+zamii.n pe jhuk rahaa hai aasamaa.N
+ek nazar idhar bhii ...
+
+ta.Dap qaraar ban ga_ii Khizaa.N bahaar ban ga_ii
+dabii-dabii jo aag thii kisii kaa pyaar ban ga_ii
+mai.n aa ga_ii vahii.n hai dil jahaa.N
+ek nazar idhar bhii ...
 %
 #endindian
 \endsong
 %
-
