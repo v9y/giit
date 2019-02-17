@@ -1,9 +1,15 @@
 ITRANS Song Book (ISB)
 =========
+## Interfaces and Tools
+* [giitaayan - A window to ISB](https://www.giitaayan.com)
+* [HiTrans - Transliteration scheme and tool](https://www.giitaayan.com/x.htm)
 
-[giitaayan - A window to ISB](https://www.giitaayan.com)
+## References
+* [ITRANS 6.0 Transliteration scheme](ITRANS.txt)
+* [ISB Song Schema](https://www.giitaayan.com/preview.asp)
+* [Nagari style guide](https://www.giitaayan.com/hindispelling.asp)
 
-## Links
+## Related Links
 * [RMIM Puraskaar](https://awards.giitaayan.com)
 * [SurveykShaN](https://survey.giitaayan.com)
-* [HiTrans - Transcription tool](https://www.giitaayan.com/x.htm)
+
