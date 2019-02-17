@@ -2,40 +2,50 @@
 \startsong
 \stitle{jiivan ke safar me.n raahii, milate hai.n bichha.D jaane ko}%
 \film{Munimji}%
-\year{}%
+\year{1955}%
 \starring{Dev Anand, Nalini Jaywant, Pran}%
-\singer{Kishore}%
+\singer{Kishore / Lata}%
 \music{S D Burman}%
 \lyrics{Sahir}%
 %
 % Contributor:  
 % Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%                 Vijay Kumar K (Lata's part)
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor:  
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
 jiivan ke safar me.n raahii, milate hai.n bichha.D jaane ko
 aur de jaate hai.n yaade.n, tanahaaii me.n ta.Dapaane ko
-jiivan ke safar\threedots
+jiivan ke safar...
 
-ye ruup kii daulata vaale, kab sunate hai.n dil ke naale
+ye ruup kii daulat vaale, kab sunate hai.n dil ke naale
 taqadiir na bas me.n Daale, inake kisii diivaane ko
-jiivan ke safar\threedots
+jiivan ke safar...
 
 jo inakii nazar se khele, dukh paae musiibat jhele
 phirate hai.n ye sab alabele, dil leke mukar jaane ko
-jiivan ke safar\threedots
+jiivan ke safar...
 
-dil leke dagaa dete hai.n, ik rog lagaa dete hai.n
-ha.Ns ha.Ns ke jalaa dete hai.n, ye husn ke paravaane ko
-jiivan ke safar\threedots
+dil leke daGaa dete hai.n, ik rog lagaa dete hai.n
+ha.Ns-ha.Ns ke jalaa dete hai.n, ye husn ke paravaane ko
+jiivan ke safar...
 
 ab saath na guzare.nge ham, lekin ye fizaa raato.n kii
 doharaayaa karegii haradam, is pyaar ke afasaane ko
-jiivan ke safar\threedots
+jiivan ke safar...
+
+% Lata's version
+---
+ro-ro ke inhii.n raaho.n me.n, khonaa pa.Daa ek apane ko
+ha.Ns-ha.Ns ke inhii.n raaho.n me.n apanaayaa thaa begaane ko
+
+tum apanii nayii duniyaa me.n kho jaao paraaye ban kar
+jii paaye.n to jii le.nge ham, marane kii sazaa paane ko
+
 %
 #endindian
 \endsong
