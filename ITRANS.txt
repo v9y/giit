@@ -1,0 +1,80 @@
+ITRANS 6.00 - Encoding for Unicode Output
+-----------------------------------------------------------------------
+This is the transliteration scheme used by ITRANS version 6.00 (and
+higher). If you encounter any text that uses this scheme, that text
+can be printed in the Devanagari script using the ITRANS package.
+-----------------------------------------------------------------------
+In addition to these ASCII/English codes, Unicode characters can be directly
+entered without needing to escape out of ITRANS mode (no ## escape needed).
+-----------------------------------------------------------------------
+Vowels (dependent and independent):
+-------
+a            aa / A        i            ii / I        u       uu / U
+Rri / R^i    RRI / R^I     Lli / L^i    LLI / L^I
+e            ee / E        ai           o             oo / O  au
+aM      aH
+
+Consonants:
+----------- 
+k     kh     g     gh     ~N
+ch    Ch     j     jh     ~n / JN
+T     Th     D     Dh     N
+t     th     d     dh     n
+p     ph     b     bh     m
+y     r      l     v / w    L / ld
+sh    Sh / shh     s     h
+x / kSh      shr
+j~n / dny / jny / jnj
+zh    SRI (Tamil, same as shrii)
+R (Marathi, Tamil RA)
+Y (Bengali)
+
+k  with a dot:      q
+kh with a dot:      K
+g  with a dot:      G
+j  with a dot:      z / J
+p  with a dot:      f
+D  with a dot:      .D
+Dh with a dot:      .Dh
+
+Specials/Accents:
+-----------------
+Anusvara:       .n / M / .m  (dot on top of previous consonant/vowel)
+Avagraha:       .a    (`S`-like symbol basically to replace a after o)
+Ardhachandra:   .c    (for vowel sound as in english words `cat' or `talk')
+Chandra-Bindu:  .N    (chandra-bindu on top of previous letter)
+Chandra-Bindu-Viraam:  .N.h
+Halant:		.h    (to get half-form of the consonant - no vowel - virama)
+Visarga:        H     (visarga - looks like a colon character)
+Danda           |
+Double-danda    ||
+Udatta          .s
+Double-Svarita  .ds
+Anudatta        .au
+Om:		OM, AUM (Om symbol)
+
+-----------------
+Direct entry of Unicode code points
+ka&#x0953;     ka with grave accent
+
+No need to use itrans escape codes ##. Unicode code points can be
+directly entered inside itrans encoded sections.
+
+-----------------
+ Consonants have been shown without any vowel, add suffix "a" to produce
+ a normal consonant, example, "jaya" or "jay" for (JA)-(YA), etc.
+ Watch out for ambiguous input: use _ to break lexical scans, example:
+ use "ga_ii" instead of "gaii" when you need (GA)-(VOWEL ii), because "gaii"
+ will be parsed as (GA with dependent VOWEL ai)-(VOWEL i)!
+ But in most cases the _ is not needed...
+-------------------------------------------------------------------------
+Each devanagari letter is constructed as C + C + C + .. + V
+(one or more consonants, followed by a vowel).
+If the vowel is omitted at the end of a word, the "a" vowel will be
+assumed (use halant - .h to get the short form of the consonant - which
+is a consonant without any vowel, ex: k.h).
+-------------------------------------------------------------------------
+Punctuation available:
+,    ;    :    /    ?    !    (    )
+Note that hyphen (-) is not available --- use \- in the indian text to get
+a hyphen. Also, use \. to get period (.), for Danda, use |.
