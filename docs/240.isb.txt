@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{baad muddat ke yah gha.Dii aaii}%
+\film{Jahan Ara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/10/1996
+%
+\printtitle
+#indian
+%
+ra: baad muddat ke yah gha.Dii aa_ii
+    aap aae to zi.ndagii aa_ii
+    ishq mar marake kaamayaaB huaa
+    aaj ek zarraa aaftaab huaa
+
+su: shukriyaa ai huzuur aane kaa
+    vaqt jaagaa gariib\-khaane kaa
+    ek zamaane ke baad iid huii
+    iid se pahale merii diid huii
+
+ra: iid kaa chaa.Nd aaj dekhaa hai
+    iid kaa kyo.n na aitabaar aae
+    haath uThaakar duaa yah karataa huu.N
+    iid phir aisii baar\-baar aae
+
+    din zamaane kaa raat apanii hai
+    is gha.Dii qaayanaat apanii hai
+    ishq par husn kii inaayat hai
+    mere pahaluu me.n merii jannat hai
+
+su: faasale vaqt ne miTaa hii diye
+    dil ta.Dapate hue milaa hii diye
+    kaash is vaqt maut aa jaae
+    zi.ndagaanii pe aake chhaa jaae
+
+dono.n: baat muddat ke \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{muhabbat jis ko kahate hai.n vo ik dha.Dakan puraanii hai}%
+\film{Maa Beta}%
+\year{1962}%
+\starring{Nirupa Roy, Ameeta, Manoj Kumar}%
+\singer{Lata, Hemant}%
+\music{Hemant}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Prithivraj Dasgupta
+% Transliterator: 
+% Credits:
+%
+\printtitle
+#indian
+%
+
+la: muhabbat jis ko kahate hai.n vo ik dha.Dakan puraanii hai
+he: muhabbat jis ko kahate hai.n vo ik dha.Dakan puraanii hai
+    ye qissaa har nazar kaa hai ye har dil kii kahaanii hai
+la: ye qissaa har nazar kaa hai ye har dil kii kahaanii hai
+  
+la: kabhii to ye Gariibo.n ke bhii sar pe taaj dharatii hai
+he: kabhii ye baadashaaho.n ke dilo.n pe raaj karatii hai
+la: usiike dam pe duniyaa hai isii se zi.ndagaanii hai \threedots 
+  
+la: kabhii ye ek bijalii hai kabhii shabanam kaa motii hai
+he: kabhii ho.nTho.n pe ha.Nsatii hai kabhii aa.Nkho.n me.n rotii hai 
+la: kabhii ye aag sholaa hai kabhii ye aag paanii hai \threedots 
+  
+%
+#endindian
+\endsong
+%

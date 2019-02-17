@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chal di_e de ke Gam ye na sochaa ke ham}%
+\film{Son Of India}%
+\year{1962}%
+\starring{Sajid, Kumkum, Kamaljeet}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10662 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+chal di_e de ke Gam ye na sochaa ke ham
+is jahaa.N me.n akele kidhar jaa_e.Nge
+aisii ma.nzil pe chho.Daa hai tumane hame.n
+ab sahaaraa na doge to mar jaa_e.Nge
+chal di_e de ke Gam \threedots
+
+bijaliyo.n kaa na Dar thaa na aa.Ndhii kaa Gam
+kho ga_e the muhabbat kii duniyaa me.n ham
+kyaa Kabar thii ki luT jaa_egaa aashiyaa.N
+kyaa Kabar thii ki tinake bikhar jaa_e.Nge
+chal di_e de ke Gam \threedots
+
+yaad karake tumhe.n ro_e.Nge umr bhar
+chain aa_egaa dil ko na shaam\-o\-sahar
+zindagii me.n rahegii tumhaarii kamii
+din guzarane ko yuu.N bhii guzar jaa_e.Nge
+chal di_e de ke Gam \threedots
+%
+#endindian
+\endsong
+

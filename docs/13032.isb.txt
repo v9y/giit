@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{maine kuchh khoyaa hai ... tere pyaar me.n}%
+\film{Mere Sajnaa}%
+\year{1975}%
+\starring{Navin Nishchal, Rakhee, Ajit, Helen}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11251 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+maine kuchh khoyaa hai maine kuchh paayaa hai tere pyaar me.n \-2
+mere kuchh vaade hai.n mere kuchh aramaa.N hai.n mere kuchh sapane hai.n
+maine kuchh khoyaa \threedots
+
+( Kafaa hone kaa ye ko_ii daur nahii.n
+tere sivaa mere ko_ii aur nahii.n ) \-2
+duniyaa kii aa.Nkho.n se bache.nge ham kahaa.N
+aur qariib aur qariib aa jaan\-e\-jahaa.N
+mai.n tere piichhe huu.N ko_ii mere piichhe hai dushman itane hai.n
+maine kuchh khoyaa \threedots
+
+( terii bholii adaa pe bechain huu.N mai.n
+abhii tujhe pataa nahii.n kaun huu.N mai.n ) \-2
+man meraa paapii hai bachaa mujhe sanam
+ha.Nso nahii.n jo mai.n kahuu.N sach hai sanam
+are kyaa jaane tuu nahii.n pahachaane tuu mujhe Gam kitane hai.n
+maine kuchh khoyaa \threedots
+%
+#endindian
+\endsong
+

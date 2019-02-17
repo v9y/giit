@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mere li_e aatii hai shaam ... raato.n kaa raajaa huu.N mai.n}%
+\film{Raaton Ka Raja}%
+\year{1970}%
+\starring{Dheeraj, Vaishali, Jaishri T, Shatrughan Sinha}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10795 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mere li_e aatii hai shaam cha.ndaa bhii hai meraa Gulaam
+dharatii se sitaaro.n tak hai meraa i.ntazaam
+raato.n kaa raajaa huu.N mai.n
+
+mahafil saje Doluu.N jidhar se
+saaqii bahake merii nazar se
+chaahuu.N to abhii khud chal ke aa_e jaam
+raato.n kaa raajaa \threedots
+
+khi.Dakii khule mujhe bulaa_e
+mahalo.n me.n hai mere hii saa_e
+sote\-jaagate sab jaane.n meraa naam
+raato.n kaa raajaa \threedots
+
+maine.n javaa.N ho.nTho.n kii laalii
+akasar palako.n se hii churaa lii
+saare gulabadan mujhe karate hai.n salaam
+dharatii se sitaaro.n tak \threedots
+%
+#endindian
+\endsong
+

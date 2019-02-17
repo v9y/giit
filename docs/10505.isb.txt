@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chaahaa hai tujhe paayaa hai tujhe ... yuu.n tuune mujhako chhuu_aa}%
+\film{Baaghi}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaahaa hai tujhe paayaa hai tujhe
+kuchh bhii na chaahi_e aur ab mujhe
+chaahaa hai tujhe \threedots
+
+tuu hii hai tuu hii hai in aa.Nkho.n me.n
+tuu hii hai tuu hii hai in baaho.n me.n
+yuu.n tuune mujhako chhu_aa ke jaagii ko_ii pyaas hai pyaas hai
+tuu aa ke lag jaa gale diivaanaa tere paas hai haa.n paas hai
+
+tuu saath ho to mile zi.ndagii tere binaa kyaa hai jiinaa
+har pal sharaabii nigaahe.n terii mujhako sikhaatii hai.n piinaa
+yuu.n tuune mujhako \threedots
+
+shole bha.Dakane lage pyaar ke aajaa ye shole bujhaa de.n
+banake mai.n saavan baras jaa_uu.ngaa dil me.n tuu aramaa.n jagaa de
+yuu.n tuune mujhako \threedots
+%
+#endindian
+\endsong
+

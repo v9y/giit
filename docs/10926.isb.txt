@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{o Tim kaa Timaa ... us paar saajan is paar dhaare}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Raj Kapoor, Nargis, Pran, Johnny Walker, Bhagwan, Gope, Tuntun, Raj Sulochana}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10829 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ko \:	o Tim kaa Timaa Timbhaa taare kare.n achambhaa
+	o Tim kaa Timaa Timbhaa
+
+us paar saajan is paar dhaare
+le chal o maa.Njhii kinaare kinaare
+le chal o maa.Njhii kinaare \-2
+
+ko \:	o ko.Diiyaa ko.Diiyaa kavalaanii kavalaanii \-2
+
+duur yahaa.N se gaa.Nv piyaa kaa
+haal na puuchhe ko_ii jiyaa kaa \-2
+gaharaa saagar aur mai.n akelii
+suujhe.n na ko_ii sahaare sahaare
+le chal o maa.Njhii \threedots
+
+ko \:	o Tim kaa Timaa Timbhaa \threedots
+
+lahare.n dekhuu.N dil laharaa_e \-2
+jal darapan me.n pii muskaa_e \-2
+pyaasii a.Nkhiyaa.N dono.n ye sakhiyaa.N
+haradam kare hai.n ishaare ishaare
+le chal o maa.Njhii \threedots
+
+ko \:	o Tim kaa Timaa Timbhaa \threedots
+%
+#endindian
+\endsong
+

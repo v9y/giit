@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaun kisake haath aayaa aur khilaunaa ho gayaa}%
+\film{Saugaat (Non-Film)}%
+\year{1996}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Jay-Vijay}%
+\lyrics{Qateel Shifai}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+kaun kisake haath aayaa aur khilaunaa ho gayaa
+chho.Diye is baat ko jo bhii thaa honaa ho gayaa
+
+usake kuuche kii zamii.n jis roz mai.nne o.Dh lii
+aasamaa.n us roz se meraa bichhaunaa ho gayaa
+
+dekh luu.N to der tak letii hai chaTakhaare nazar
+jaayaqaa ab usake chehare kaa salonaa ho gayaa
+
+merii qiimat sirf piital ke baraabar thii 'qatiil'
+chhuu ke paaras\-badan ko mai.n to sonaa ho gayaa
+
+#endindian
+\endsong

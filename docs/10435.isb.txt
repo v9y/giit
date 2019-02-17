@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa}%
+\film{Aadhi Raat}%
+\year{1950}%
+\starring{Ashok Kumar, Nargis}%
+\singer{Rafi, Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11886 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa \-2
+	ta.Dap lete hai.n lekin unako ta.Dapaanaa nahii.n aataa
+	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa
+
+	gha.Dii bhar ke liye bhii duur unase rah nahii.n sakate
+	tumhe.n ham chaahate hai.n unase ye bhii kah nahii.n sakate
+	naa jaane kyuu.N zubaa.N par dil kaa afasaanaa nahii.n aataa
+	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa
+
+ra \:	ko_ii haalat ho duniyaa pyaar kii aabaad rahatii hai
+	kabhii jab wo nahii.n hote to unakii yaad rahatii hai
+	mohabbat wo kalii hai jisako murajhaanaa nahii.n aataa
+	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa
+
+la \:	uma.nge.n jaag uTThii hai.n tamannaa muskaraa_ii hai
+	hamaare dil ne aramaano.n kii ik mahafil sajaa_ii hai
+	ye wo mahafil hai jisame.n ko_ii begaanaa nahii.n aataa
+
+	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa
+	ta.Dap lete hai.n lekin unako ta.Dapaanaa nahii.n aataa
+	hame.n duniyaa ko dil ke zaKm dikhalaanaa nahii.n aataa
+%
+#endindian
+\endsong
+

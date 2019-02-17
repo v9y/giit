@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{gum sum saa ye jahaa.N}%
+\film{Duniya Jhukti Hai}%
+\year{1960}%
+\starring{}%
+\singer{Hemant, Geeta}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+gii : o~ o~ o~
+he  : o~ o~
+
+gii : gum sum saa ye jahaa.N, ye raat ye havaa
+he  : ek saath aaj do dil dha.Dake.nge dil_rubaa
+do  : gum sum saa ye jahaa.N, ye raat ye samaa
+
+he  : dekho vo chaa.Nd badalii kii oT me.n chhupane lagaa
+gii : ye niil gagan bhii pyaar ke aage jhukane lagaa
+he  : itanii hasiin
+gii : itanii shariir
+he  : hai chaa.Nd kii ye adaa
+do  : gum sum saa ye jahaa.N, ye raat ye havaa
+
+gii : ulfat me.n chuur duniyaa se duur ham aa hii gaye
+he  : ma.nzil ke paas ab to huzuur ham aa hii gaye
+gii : chaahat ke phuul
+he  : dekhe.n na dhuul
+do  : Daalii se na ho judaa
+
+do  : gum sum saa ye jahaa.N, ye raat ye havaa
+      ek saath aaj do dil dha.Dake.nge dil_rubaa
+      gum sum saa ye jahaa.N, ye raat ye samaa
+%
+#endindian
+\endsong
+%

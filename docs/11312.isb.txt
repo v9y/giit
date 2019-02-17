@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ajii ham dillii ke daade hai.n}%
+\film{Dilli Ka Dada}%
+\year{1962}%
+\starring{Sheikh Mukhtar, Shekhar, Sahira, Nishi}%
+\singer{Mukesh, Mahendra Kapoor}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10290 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	ajii ham dillii ke daade hai.n
+ma \:	daade kyaa paradaade hai.n
+do \:	buro.n ke haq me.n Te.Dhe hai.n bhalo.n ke haq me.n saade hai.n
+	ham dillii ke daade hai.n \threedots
+
+mu \:	shahar kii chau.Dii sa.Dako.n par ham siinaa taan ke chalate hai.n
+ma \:	dhan\-daulat vaale bha.Dabhuuje hamako dekh ke jalate hai.n
+do \:	ajii unake aur iraade hai.n apane aur iraade hai.n
+	are ham dillii ke daade hai.n \threedots
+
+mu \:	jaamaa maszid kii sii.Dhii par baiTh kar khicha.Daa khaate hai.n
+	laal qile ke agale\-pichhale sab qisse doharaate hai.n
+do \:	ajii yuu.N lagataa hai jaise ham laavaaris shahazaade hai.n
+	are ham dillii ke daade hai.n \threedots
+
+mu \:	do din apanaa bai.nD bajaa kar ga_ii huquumat goro.n kii
+ma \:	lekin ab bhii dhau.ns hai baakii chor\-munaafaaKoro.n kii
+	dekhe.n kab tak puure ho.n jo sarakaar ke vaade hai.n
+do \:	dillii ke daade hai.n \threedots
+%
+#endindian
+\endsong
+

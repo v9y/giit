@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dukhii man mere, sun meraa kahanaa}%
+\film{Funtoosh}%
+\year{1956}%
+\starring{Dev Anand, Sheela Ramani}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dukhii man mere sun meraa kahanaa
+jahaa.N nahii.n chainaa vahaa.N nahii.n rahanaa
+dukhii man\threedots
+
+dard hamaaraa koii na jaane
+apanii garaj ke sab hai.n diivaane
+kisake aage ronaa roe.n
+des paraayaa log begaane
+dukhii man\threedots
+
+laakh yahaa.N jholii phailaa le
+kuchh nahii.n de.nge is jag vaale
+patthar ke dil mom na ho.nge
+chaahe jitanaa niir bahaale
+dukhii man\threedots
+
+apane liye kab hai.n ye mele
+ham hai.n har ik mele me.n akele
+kyaa paaegaa usame.n rahakar
+jo duniyaa jiivan se khele
+dukhii man\threedots
+%
+#endindian
+\endsong
+%

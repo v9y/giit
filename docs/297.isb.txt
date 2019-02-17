@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{bha.Nvare kii gunjan hai meraa dil}%
+\film{Kal Aaj Aur Kal}%
+\year{1971}%
+\starring{Randhir Kapoor, Raj Kapoor, Prithviraj Kapoor, Babita}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Azra Bano <bano@charlie.ece.scarolina.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/03/1996
+% Credits: Pradeep Dubey <pradeep@watson.ibm.com>
+%
+\printtitle
+#indian
+%
+(bha.Nvare kii gunjan hai meraa dil
+ kabase sa.nbhaale rakhaa hai dil
+ tere liye, tere liye	\-2	   )		\-2
+
+(mujhe kabase thii pyaar kii justajuu
+ merii zi.ndagaanii me.n hai tuu hii tuu)	\-2
+mai.n aayaa huu.N duniyaa me.n tere liye
+mere dil me.n jhuume terii aarzuu 
+bha.Nvare kii gunjan hai meraa dil \threedots
+
+(gagan se bhii uu.Nchaa meraa pyaar hai
+ tujhii par miTuu.Ngaa ye iqaraar hai)		\-2
+tuu itanaa samajh le mere hamasafar
+tere pyaar se meraa sa.Nsaar hai
+bha.Nvare kii gunjan hai meraa dil \threedots
+
+##yodels##
+%
+#endindian
+\endsong
+%
+

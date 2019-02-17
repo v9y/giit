@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ho raajaa sai.nyaa aatii huu.N mai.n bhii}%
+\film{Naache Naagin Baaje Been}%
+\year{1960}%
+\starring{Kumkum, Chandrashekhar, K N Singh, Helen, Agha, Sundar, Ratna}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10145 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ho raajaa sai.nyaa aatii huu.N mai.n bhii ruk jaanaa akele jaanaa naa
+
+chaloge sa.ng to aa.Nchal kii chhaiyaa.N kar duu.Ngii
+rukoge tum to tan\-man tumape vaar duu.Ngii
+tumhaarii mai.n piyaa hamase kataraanaa naa
+ho raajaa sai.nyaa \threedots
+
+na hove aisaa ko_ii Gaur se terii or dekhe
+lagaa ke nehaa ko_ii jaaduugar naa Dor phe.nke
+burii hai duniyaa raaho.n me.n luT jaanaa naa
+ho raajaa sai.nyaa \threedots
+
+ba.De naadaan ho apano.n se naataa to.Date ho
+kalaa_ii morii bedardii kaahe mo.Date ho
+pukaare ha.Ns ke tumako ko_ii diivaanaa naa
+ho raajaa sai.nyaa \threedots
+%
+#endindian
+\endsong
+

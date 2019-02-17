@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{ho kis jagah jaa_e.N kisako dikhalaa_e.N}%
+\film{Light House}%
+\year{1958}%
+\starring{Ashok Kumar, Nutan, Nigar, Johny Walker}%
+\singer{Asha}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11442 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ho kis jagah jaa_e.N kisako dikhalaa_e.N zaKm\-e\-dil apanaa \-2
+ho
+
+saare jag me.n apanaa ko_ii nahii.n
+o saare jag me.n apanaa ko_ii nahii.n
+sukh kyaa dukh kaa sapanaa ko_ii nahii.n
+ho kis jagah jaa_e.N \threedots
+
+dil ke aramaa.N puure ho na sake
+aa dil ke aramaa.N puure ho na sake
+ha.Nsanaa kaisaa khul kar ro na sake
+ho kis jagah jaa_e.N \threedots
+%
+#endindian
+\endsong
+

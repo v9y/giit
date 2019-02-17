@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{nafarat kii duniyaa ko chho.D ke, pyaar kii duniyaa me.n}%
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+nafarat kii duniyaa ko chho.D ke, pyaar kii duniyaa me.n
+khush rahanaa mere yaar
+is jhuuThakii nagarii ko chho.D ke, gaataa jaa pyaare
+amar rahe teraa pyaar
+
+jab jaanavar koii, inasaan ko maare
+kahate hai.n duniyaa me.n, vahashii use saare
+ek jaanavar kii jaan aaj inasaano.n ne lii hai
+chup kyuu.n hai sa.nsaar
+
+bas aakhirii sun le, ye mel hai apanaa
+bas Katm ai saathii, ye khel hai apanaa
+ab yaad me.n terii biit jaae.nge ro\-ro ke
+jiivan ke din chaar
+%
+#endindian
+\endsong
+%

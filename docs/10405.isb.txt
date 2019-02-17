@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{merii dilarubaa mere paas aa}%
+\film{Aap Beetee}%
+\year{1976}%
+\starring{Ashok Kumar, Shashi Kapoor, Hema Malini, Premnath, Nirupa Roy}%
+\singer{Kishore, Lata, Usha}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11567 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	merii dilarubaa dilarubaa mere paas aa
+la \:	nahii.n\-nahii.n
+	tere pyaar me.n shaq hai mujhe tuu hai bevafaa
+ki \:	nahii.n\-nahii.n
+	merii dilarubaa mere \threedots
+
+	tujhape meraa dil aa gayaa dil par kisakaa zor hai
+la \:	tuu kuchh kahe lagataa hai ye mere dil me.n ko_ii chor hai
+ki \:	ko_ii chor hai
+	is raat me.n mulaaqaat me.n naam na le kisii Gair kaa
+la \:	mujhe chho.D de
+ki \:	dil to.D de
+la \:	teraa kyaa yaqii.n
+ki \:	nahii.n\-nahii.n
+	merii dilarubaa mere \threedots
+
+la \:	aisaa na ho terii yaad me.n mai.n baad me.n
+	aahe.n bharuu.N ro\-ro maruu.N
+ki \:	kaise yaqiin aa_e tujhe tuu jo kahe mai.n vo karuu.N
+la \:	mere husn kii taariif kar jis pe fidaa tuu ho gayaa
+ki \:	terii qasam tujh saa hasii.n dekhaa nahii.n
+
+la \:	mere saajanaa mere baalamaa tuu hai kahaa.N mere jaalamaa.N
+	kyaa naam hai is chiiz kaa isase teraa kyaa vaastaa
+ki \:	anajaan hai pareshaan hai bhuulii ghar kaa raastaa
+la \:	kyo.n jii mai.n jaan se anajaan kaise ban ga_ii
+	magar ye kaun hai merii saut hai
+ki \:	ye ye merii maut hai
+la \:	mai.n kaun huu.N
+ki \:	mahabuub hai
+la \:	mai.n kaun huu.N
+ki \:	tuu tuu Kuub hai
+do :	ye sach nahii.n ( ye jhuuTh hai ) \-2
+%
+#endindian
+\endsong
+

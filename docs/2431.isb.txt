@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{o mahabuubaa tere dil ke paas hii hai merii ma.nzil-e-maqsuud}%
+\film{Sangam}%
+\year{1964}%
+\starring{Raj Kapoor, Vyjayantimala, Rajendra Kumar}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+o mahabuubaa!
+o mahabuubaa!
+o mahabuubaa tere dil ke paas hii hai merii ma.nzil\-e\-maqsuud
+vo kaun sii mahafil hai jahaa.N tuu nahii.n maujuud
+o mahabuubaa   \threedots
+
+guzaruu.N mai.n idhar se kabhii, guzaruu.N mai.n udhar se
+milataa hai har ik raasataa, jaa kar tere dar se
+o mahabuubaa   \threedots
+
+baaho.n ke tujhe haar mai.n pahanaa_uu.Ngaa ik din
+sab dekhate rah jaaye.nge, le jaa_uu.Ngaa ik din
+o mahabuubaa   \threedots
+
+kis baat se naaraaz ho, kis baat kaa hai Gam
+kis soch me.n Duubii ho tum, ho jaayegaa sa.ngam
+o mahabuubaa   \threedots
+
+%
+#endindian
+\endsong
+%

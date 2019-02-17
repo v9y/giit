@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{na kisii kii aa.Nkh kaa nuur huu.N}%
+\film{Laal Quila}%
+\year{1960}%
+\starring{Jairaj, Nirupa Roy}%
+\singer{Rafi}%
+\music{S N Tripathi}%
+\lyrics{Bahadur Shah Zafar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+na kisii kii aa.Nkh kaa nuur huu.N
+na kisii ke dil kaa qaraar huu.N
+jo kisii ke kaam na aa sakaa
+mai.n vo ek musht\-e\-gubaar huu.N
+
+na to mai.n kisii kaa habiib huu.N
+na to mai.n kisii kaa raqiib huu.N
+jo biga.D gayaa vo nasiib huu.N
+jo uja.D gayaa vo dayaar huu.N, jo kisii ke \threedots
+
+meraa ra.ng\-ruup biga.D gayaa
+meraa yaar mujhase bichha.D gayaa
+jo chaman fizaa.n me.n uja.D gayaa
+mai.n usii kii fasl\-e\-bahaar huu.N, jo kisii ke \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aaj kaa ye din kal ban jaayegaa kal}%
+\film{Nastik}%
+\year{1983}%
+\starring{Amitabh Bachchan}%
+\singer{Kishore}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+aaj kaa ye din kal ban jaayegaa kal
+piichhe mu.Dake na dekh, pyaare aage chal
+
+haau jaanevaale pe na aitabaar kar
+aanevaale kaa tuu i.ntazaar kar
+biite dino kii yaado.n me.n na jal
+ai baabuu aage chal   \threedots
+
+ye shiqave bahaaro.n ke fazuul hai.n
+phuulo.n me.n kaa.NTo.n kaa usuul hai
+badalaa hai mausam, tuu bhii to badal
+sheruu aage chal   \threedots
+
+ek jagah jo baiThaa rah jaayegaa
+raaste kaa patthar vo ban jaayegaa
+laharaa ke ban jaa aavaaraa baadal
+pyaare aage chal   \threedots
+
+%
+#endindian
+\endsong
+%

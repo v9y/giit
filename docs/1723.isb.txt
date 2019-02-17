@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{Thahariye hosh me.n aaluu.N to chale jaaiyegaa}%
+\film{Mohabbat Isko Kahte Hain}%
+\year{1965}%
+\starring{Shashi Kapoor, Nanda}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Khaiyyam}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafii: Thahariye hosh me.n aaluu.N to chale jaaiyegaa
+suman: m \threedots m \threedots
+rafii: aapako dil me.n biThaaluu.N to chale jaaiyegaa
+suman: m \threedots m \threedots
+rafii: aapako dil me.n biThaaluu.N \threedots
+
+rafii: kab talaq rahiyegaa yuu.N duur kii chaahat banake    \- 2
+dil me.n aa jaaiye iqaraar\-e\-muhabbat banake
+apanii taqadiir banaa luu.N to chale jaaiyegaa
+suman: m \threedots m \threedots
+rafii: aapako dil me.n biThaaluu.N \threedots
+
+suman: mujhako iqaraar\-e\-muhabbat pe hayaa aatii hai   \- 2
+baat kahate hue garadan merii jhuk jaatii hai
+dekhiye sar ko jhukaa luu.N to chale jaaiyegaa
+rafii: m \threedots m \threedots
+suman: dekhiye sar ko jhukaa luu.N to chale jaaiyegaa
+rafii: haay,  aapako dil me.n biThaaluu.N \threedots
+
+rafii: aisii kyaa sharm zaraa paas to aane diije    \- 2
+rukh se bikharii hui zulfe.n to haTaane diije
+pyaas aa.Nkho.n kii bujhaa luu.N to chale jaaiyegaa
+Thahariye hosh me.n aaluu.N to chale jaaiyegaa \threedots
+%
+#endindian
+\endsong
+%

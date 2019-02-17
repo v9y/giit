@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{bahaar\-e\-husn terii ... jahaa.N tuu hai vahaa.N phir chaa.Ndanii}%
+\film{Aao Pyar Karen}%
+\year{1964}%
+\starring{Joy Mukherjee, Saira Banu, Shyam Chaterji, Rajendranath}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10445 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bahaar\-e\-husn terii
+
+jahaa.N tuu hai vahaa.N phir chaa.Ndanii ko kaun puuchhegaa \-2
+teraa dar ho to jannat kii galii ko kaun puuchhegaa
+jahaa.N tuu hai \threedots
+
+kalii ho haath me.n le kar bahaaro.n se na sharamaanaa
+zamaanaa tujh ko dekhegaa kalii ko kaun puuchhegaa
+jahaa.N tuu hai \threedots
+
+farishto.n ko pataa denaa naa apanii rahaguzaaro.n kaa
+vo qaafir ho ga_e to bandagii ko kaun puuchhegaa
+jahaa.N tuu hai \threedots
+
+kisii ko muskaraa ke Kuubasuurat maut naa denaa
+qasam hai zindagii kii zindagii ko kaun puuchhegaa
+jahaa.N tuu hai \threedots
+%
+#endindian
+\endsong
+

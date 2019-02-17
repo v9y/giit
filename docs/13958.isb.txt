@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye silasilaa hai pyaar kaa ye chalataa rahegaa}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaise kahuu.n ke dil ko terii justajuu nahii.n
+ye aur baat hai ke merii kismat me.n tuu nahii.n
+
+ye silasilaa hai pyaar kaa ye chalataa rahegaa
+tujhe dekh ke dil machalataa rahegaa
+ye silasilaa hai \threedots
+
+shaayad havaa naa chalegii phuulo.n me.n bhii khushbuu na hogii
+tujhe chaahuu.ngii mai.n tujhe paa_uu.ngii mai.n
+ye merii tamannaa tujhe nahii.n pataa
+ye silasilaa hai \threedots
+
+kyaa hai muhabbat kaa jaaduu hotii hai kyaa bekaraarii
+ye ab jaanaa maine ye ab samajhaa maine
+kahii.n chain aa_e naa ab tere binaa
+ye silasilaa hai \threedots
+%
+#endindian
+\endsong
+

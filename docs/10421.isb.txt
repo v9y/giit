@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{kisii se tum pyaar karo to phir izahaar karo}%
+\film{Andaaz}%
+\year{2003}%
+\starring{Akshay Kumar, Lara Dutta, Priyanka Chopra}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11660 [V S Rawat]
+% Producer: Suneel Darshan, Director: Raj Kanwar,
+% Audio: Shree Krishna Audio
+% Cassette: PHF 001 Stereo, Cost: Rs 50/-, CD: TCCD001, Cost: Rs 145/-
+% Site: www.andaazthefilm.com
+%
+\printtitle
+#indian
+%
+ku \:	( he he he
+	he he he he he he he ) \-2
+	he he he he he he
+	kisii se tum pyaar karo to phir izahaar karo
+	kahii.n na phir der ho jaa_e \-2
+	kisii pe aitabaar karo to phir ikaraar karo
+	kahii.n na phir der ho jaa_e \-2
+	yahii to dil churaane kaa andaaz hotaa hai ho ho ho ho ho
+	kisii se tum pyaar \threedots
+
+	muhabbat kaa Gam hai mile jitanaa kam hai
+	ye to zamaanaa nahii.n jaan paa_egaa
+	meraa jo sanam hai zaraa beraham hai
+	deke mujhe vo dard muskuraa_egaa
+	dil ko aise dilabar pe bhii naaz hotaa hai ho ho ho ho ho
+	kisii se tum pyaar \threedots
+
+	mubaarak samaa.N hai Kushii kaa jahaa.N hai
+	ye din ko_ii to nayaa gul khilaa_egaa
+a \:	nazar se bayaa.N hai ye vo daastaa.N hai
+	chaahat ko kaise ko_ii bhii chhupaa_egaa
+	aashiqo.n kii aa.Nkho.n me.n ye raaz hotaa hai ho ho ho ho ho
+ku \:	kisii se tum pyaar \threedots
+a \:	kisii pe aitabaar \threedots
+%
+#endindian
+\endsong
+

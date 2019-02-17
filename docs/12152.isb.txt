@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tere li_e laayaa huu.N mai.n laal laal chuu.Diyaa.n}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere li_e laayaa huu.N mai.n laal laal chuu.Diyaa.n
+saje.ngii kalaa_iyo.n pe pyaar kii ye chuu.Diyaa.n
+
+mujhako pasand hai.n ye laal laal chuu.Diyaa.n
+pahanuu.ngii pyaar se mai.n yaar kii chuu.Diyaa.n
+tere li_e laayaa \threedots
+
+ghar jaa_egii tuu mujhase milane ke baad re
+ye jab chhanake.ngii aa_egii merii yaad re
+apane pyaar ke ikaraar kii ye chuu.Diyaa.n
+mujhako pasand hai.n \threedots
+
+laaya tuu jaise ye tohafaa apane saath re
+mere ghar laanaa yuu.n hii ek din baaraat re
+mere li_e to aitabaar kii ye chuu.Diyaa.n
+tere li_e laayaa \threedots
+%
+#endindian
+\endsong
+

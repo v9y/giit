@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tere mere saath jo hotaa hai}%
+\film{Aks (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Lucky Ali}%
+\music{Lucky Ali}%
+\lyrics{Aslam, Mehboob, Amol, Akki, Tanvir Shaah, Sandesh, Aljaaz, Aarashi}%
+%
+% Contributor: V S Rawat, 25/12/2002
+%
+\printtitle
+#indian
+%
+tere mere saath jo hotaa hai baat samajh me.n aatii nahii.n
+tere mere saath jo hotaa hai sabake saath vo hotaa nahii.n
+jab saaraa jag hii sotaa hai
+phir nii.nd hame.n kyuu.n aatii nahii.n
+ai o ai i.ntazaar me.n terii huu.n hoke zaruur aa_e
+ai o ai is bahaane ab meraa chaa.Nd leke nuur aa_e
+
+kuchh lamho.n ke li_e hai yahaa.n zaruur
+ko_ii bhii rahaa nahii.n yahaa.n pe bekasuur
+jab duniyaa ko dekhuu.n lage satara.ngii.n
+sachchaa bhii yaa jhuuThaa bhii yaa khush Gam bhii
+dil vaalo.n ne sahii maano dil diyaa hogaa
+dil vaalo.n ne kuchh aisaa hii kiyaa hogaa
+laa la laa la
+
+karataa nahii.n mai.n tujhase ko_ii dillagii
+achchhaa huu.N yaa buraa huu.N mai.n huu.N yuu.N hii sahii
+pyaar teraa jaanaa maine dil de diyaa
+tujhase bichha.D ke mai.n jaa_uu.ngaa kahaa.n
+ai o ai i.ntazaar me.n \threedots
+ai o ai is bahaane ab \threedots
+ai o ai o ai iyaa o aa
+%
+#endindian
+\endsong
+

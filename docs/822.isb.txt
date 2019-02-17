@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jab dil hii TuuT gayaa}%
+\film{Shahjehan}%
+\year{1946}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+jab dil hii TuuT gayaa, jab dil hii TuuT gayaa
+ham jii ke kyA kare.nge, ham jii ke kyA kare.nge
+jab dil hii TuuT gayaa \- 2
+
+ulafat kA diyaa hamane, is dil me.n jalaayaa thA  \- 2
+ummiid ke phuulo.n se, is ghar ko sajaayaa thA  \- 2
+ik bhedii luuT gayaa, ik bhedii luuT gayaa
+ham jii ke kyA kare.nge, ham jii ke kyA kare.nge
+jab dil hii TuuT gayaa 
+
+(maaluum nA thA itanI, mushkil hai.n merI raahe.n
+mushkil hai.n merI raahe.n ) \- 2
+aramaa.n ke bahe aa.Nsuu, hasarat kI bharI aahe.n \- 2 
+har sAthI chhuuT gayaa, har sAthI chhuuT gayaa
+ham jii ke kyA kare.nge, ham jii ke kyA kare.nge
+jab dil hii TuuT gayaa 
+%
+#endindian
+\endsong
+%

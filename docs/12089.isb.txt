@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{is dil me.n kyaa hai dha.Dakan}%
+\film{Jab Pyaar Kisi Se Hotaa Hai}%
+\year{1998}%
+\starring{Salman, Twinkle, Namrata Shirodkar, Johny Lever, Farida, Saeed}%
+\singer{Lata, Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+is dil me.n kyaa hai dha.Dakan dha.Dakan me.n kyaa hai saajan
+phuulo.n me.n kyaa hai khushbuu aa.Nkho.n me.n kyaa hai jaaduu
+tuu merii jaa.n hai tuu hii meraa pyaar tere li_e hii mai.n huu.N bekaraar
+is dil me.n kyaa hai \threedots
+
+chhuu liyaa tuune mujhako saaraa badan jal rahaa hai
+pyaar me.n zor kaisaa ko_ii jaaduu saa bas chal rahaa hai
+paagal naa mai.n ho jaa_uu.n
+is dil me.n kyaa hai \threedots
+
+thaam le merii baahe.n mausam javaa.n hai hasii.n hai
+kyaa karuu.n naam teraa dil bhuulataa hii nahii.n hai
+jaaguu.n yaa mai.n so jaa_uu.n
+is dil me.n kyaa hai \threedots
+%
+#endindian
+\endsong
+

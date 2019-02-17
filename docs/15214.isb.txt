@@ -1,0 +1,47 @@
+% ITRANS SONG
+
+\startsong
+\stitle{avadhapurii sab prem hii chhaavaa}%
+\film{Padosi}%
+\year{1941}%
+\starring{Mazahar Khan, Gajanan Jagirdar, Anees Khatun}%
+\singer{Master Krishnarao}%
+\music{Master Krishnarao}%
+\lyrics{Pt Sudarshan}%
+
+% Contributor: [GEETANJALI], V S Rawat, Oct 22, 2004
+
+% Kosh does not mention the singer. Bapu Watwe, an authority 
+% on Prabhat, supplied the name to Mr Dhananjay Naniwadekar.
+% Bapu Watwe's sister was married to Prabhat's founder and
+% film director Vishnupant Damle. Watwe grew up in Damle's
+% house, observed Prabhat's years at first hand during his
+% school days and has written a book in Marathi on Prabhat
+% Film Co.
+
+% The source for the song is the film's VCD.
+
+\printtitle
+#indian
+
+avadhapurii sab prem hii chhaavaa \-2
+swarg samaan surang jamaavaa
+
+bandhu dekh bandhuu harashaaye \-2
+a.nkhiyan priit na chhupat chhupaaye
+
+man so bhe.nT kare sab ko_ii \-2
+nar naarin sab ai gat ho_ii
+
+avadhapurii sab prem hii chhaavaa
+swarg samaan surang jamaavaa
+
+bandhu dekh bandhuu harashaaye
+a.nkhiyan priit na chhupat chhupaaye
+
+% the song ends abruptly at this point as Thakur thinks he
+% should end his prayer and get on with other business of
+% the day.
+
+#endindian
+\endsong

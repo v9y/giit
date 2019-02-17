@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{saavan barasataa hai ... tujhase mil kar bhii yah dil tarasataa hai}%
+\film{Shaandaar}%
+\year{1990}%
+\starring{Mithun, Minakshi, Mandakini, Juhi, Sumeet Saigal, Tanuja, Saeed Jafrey}%
+\singer{Anuradha Paudwal}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saavan aayaa
+saavan barasataa hai
+tujhase milane ko tujhase mil kar bhii yah dil tarasataa hai
+saavan barasataa hai \threedots
+
+Thahar Thahar jaage man me.n lahar ko_ii thar thar tan kaa.npe aise
+lahar lahar par bin maa.njhii ke naiyaa Dole jaise
+jhuum ke baadal ghire TuuT ke barasii ghaTaa
+chuum ke bhiigaa badan chhe.De yah ThaNDii havaa
+saavan barasataa hai \threedots
+
+taras taras ga_e kitane baras yahaa.n tab hai.n ye baadal barase
+ba.Dhatii jaa_e man kii dha.Dakan dekh na pyaasii nazar se
+pyaar kii pyaas ba.Dhe jab bhii javaanii me.n
+jii chaahe jal jaa_uu.n barakhaa ke paanii me.n
+saavan barasataa hai \threedots
+%
+#endindian
+\endsong
+

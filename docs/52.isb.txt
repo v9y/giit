@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aaj ham apanii duaao.n kaa asar dekhe.nge}%
+\film{Pakeezah}%
+\year{1971}%
+\starring{Meena Kumari, Rajkumar, Ashok Kumar}%
+\singer{Lata, chorus}%
+\music{Ghulam Mohammad}%
+\lyrics{Kaif Bhopali}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Tabassum Hijazi
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aaj ham apanii duaao.n kaa asar dekhe.nge
+tIr\-e\-nazar dekhe.nge, zakhm\-e\-jigar dekhe.nge (2)
+
+aap to aa.Nkh milaate hue sharamaate hai.n,
+aap to dil ke dha.Dakane se bhii Dar jaate hai.n
+phir bhii ye zidd.h hai ke ham zakhm\-e\-jigar dekhe.nge,
+tIr\-e\-nazar dekhe.nge, zakhm\-e\-jigar dekhe.nge (2)
+
+pyaar karanaa dil\-e\-betaab buraa hotaa hai
+sunate aaye hai.n ke ye khvaab buraa hotaa hai
+aaj is Kvaab kii taabiir magar dekhe.nge
+tIr\-e\-nazar dekhe.nge, zakhm\-e\-jigar dekhe.nge (2)
+
+jaanalevaa hai muhabbat kaa samaa aaj kii raat
+shamaa ho jayegii jal jal ke dhu.naa aaj kii raat
+aaj kI raat bache.nge to sahar dekhe.nge (2)
+tIr\-e\-nazar dekhe.nge, zakhm\-e\-jigar dekhe.nge (2)
+%
+#endindian
+\endsong
+%

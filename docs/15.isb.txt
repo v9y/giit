@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{aa jaan\-e\-jaa.n, aa mere husn javaa.n}%
+\film{Inteqam}%
+\year{1969}%
+\starring{Sanjay Khan, Sadhana}%
+\singer{Lata, Usha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Himanshu Gupta <hgupta@DB.Stanford.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Date: 07/11/1996
+% Comments:  Lata sounds very seductive. Too bad, that its a
+%            picturized as a cabaret song. One of Lata's best, IMO.
+%            From Lata GC-II (CD Golden Collection)
+%
+\printtitle
+#indian
+%
+(aa jaan\-e\-jaa.n
+ aa jaan\-e\-jaa.n
+ aa meraa ye husn javaa.n, javaa.n, javaa.n
+ tere liye hai aas lagaaye
+ o zaalim aa jaanaa na)		\-2
+ aa jaan\-e\-jaa.n \threedots
+
+o aa.Nkh se mastii Tapake hai, Tapake hai, tuu dekhe na
+dil kaa saagar chhalake hai, chhalake hai, tuu samajhe na
+aa la la la la la aa kyo.n ta.Dapaaye, tuu kyo.n tarasaaye
+o zaalim aa jaanaa na
+aa jaan\-e\-jaa.n \threedots
+
+o duur se kitanii aayii huu.N, aayii huu.N, tuu jaane na
+pyaar kaa tohfaa laayii huu.N, laayii huu.N, tuu maane na
+aa la la la la la aa be\-dardii se, tuu kyo.n Thukaraaye
+aa zaalim aa jaanaa na
+aa jaan\-e\-jaa.n \threedots
+%
+#endindian
+\endsong
+%
+

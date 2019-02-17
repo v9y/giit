@@ -1,0 +1,29 @@
+% 
+\startsong
+\stitle{dekh lii terii khudaaii, bas meraa dil bhar gayaa}%
+\film{Kinare Kinare}%
+\starring{???}%
+\singer{Talat}%
+\music{Jaidev}%
+\lyrics{Nyay Sharma}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+dekh lii terii khudaaii, bas meraa dil bhar gayaa
+terii rahmat chup rahii, mai.n rote\-rote mar gayaa
+
+vo bahaare.n naach uThii thii.n, jhuum uThii thii.n badaliyaa.N
+apanii qismat yaad aate hii meraa dil Dar gayaa
+
+mere maalik kyaa kahuu.N, terii duaao.n kaa fareb
+mujh pe yuu.N chhaa gayaa, ki mujhako ghar se beghar kar gayaa
+%
+#endindian
+\endsong
+%
+

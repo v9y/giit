@@ -1,0 +1,55 @@
+% 
+\startsong
+\stitle{aavaaraa ai mere dil}%
+\film{Raat Aur Din}%
+\year{1967}%
+\starring{Nargis, Pradeep Kumar, Feroz Khan}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Surajit A. Bose <bose.2@nd.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+aavaaraa ai mere dil
+jaane kahaa.N hai terii ma.nzil
+aavaaraa ai mere dil
+
+viiraano.n me.n, saharaao.n me.n
+aatii jaatii in raaho.n me.n
+tere ishaaro.n par
+naachii mai.n jiivan bhar
+aavaaraa \threedots
+
+ab to batalaa, ai dil mere
+baakii hai.n ab kitane phere
+ab to ruke ye safar,
+meraa bhii ho koii ghar
+aavaaraa \threedots
+
+raat aur din ke ye do chahare
+kaun hai apanaa, ye to kah de
+mai.n kaun huu.N mai.n kyaa huu.N
+sach huu.N yaa saayaa huu.N
+aavaaraa \threedots
+
+%
+% Faster version with dance beats..
+% mukhaDa, 1st stanza & 3rd stanza same as above
+% 2nd stanza ...
+%
+kaise kaise tuufaa.N aaye
+bijalii chamkii, baadal chhaaye,
+par naa ruke ham tum,
+par naa jhuke ham tum
+aavaaraa \threedots
+
+%
+#endindian
+\endsong
+%
+

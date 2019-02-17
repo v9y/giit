@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{huu.n pyaar pyaar pyaar me.n}%
+\film{Company}%
+\year{2002}%
+\starring{Ajay Devgan, Vivek Oberoy, Manisha, Antara Mali, Mohanlal}%
+\singer{Babul Supriyo, Sonali Bajpayee}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n pyaar pyaar pyaar me.n haa.n pyaar pyaar pyaar me.n
+ham dono.n kho ga_e
+pahale do the ab ik ho ga_e
+pyaar pyaar pyaar me.n \threedots
+
+terii baaho.n me.n meraa jahaa.N
+jaa_uu.Ngii ab yahaa.N se kahaa.N
+ai sanam ham na ho.nge judaa
+haa.N meraa bhii ye vaadaa rahaa
+o pyaar pyaar pyaar me.n \threedots
+
+huu.N dard miiThaa hai ye pyaar kaa
+pyaar bin jiinaa bekaar kaa
+har taraf pyaar kaa hai nashaa
+pyaar sabase ba.Daa hai khudaa
+pyaar pyaar pyaar me.n \threedots
+%
+#endindian
+\endsong
+

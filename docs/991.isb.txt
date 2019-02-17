@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{khudaa hii judaa kare to kare}%
+\film{Aap To Aise Na The}%
+\year{1980}%
+\starring{Ranjeeta, Raj Babbar, Deepak Parashar}%
+\singer{Kishore, Rafi}%
+\music{Usha Khanna}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+khudaa hii judaa kare to kare,
+koii taakat judaa hamako nahii.n kar paaegii
+kamasin ho hasiinaa ho, vo husn kaa chaahe nagiinaa ho
+ho koii suurat judaa hamako nahii.n kar paaegii, khudaa hii \threedots
+
+ham khuubiyo.n ke bhii aashiq, ham goriyaa.N ke bhii shaidaa 
+ek duusare ke liye hii, hame.n rab ne kiyaa jaise paidaa
+vo chaahe rakhe amiirii me.n, vo chaahe rakhe fakiirii me.n
+ho koii haalat judaa hamako nahii.n kar paaegii, khudaa hii \threedots
+
+bhuule se koii parii jo, ham dono.n ko bhaane lagegii
+vo biich me.n do dilo.n ke, kabhii diivaar ban naa sakegii
+ham tere liye to jahaa.N chho.D de.n, pariyaa.N to kyaa ham jaa.N chho.D de.n
+ho puurii jannat judaa hamako nahii.n kar paaegii, khudaa hii \threedots
+
+hamapyaalaa aur hamanivaalaa, hamaraahii hamaraaz hamadam
+ham jo gire.n thaamanaa tum, tum jo giro thaame.nge ham
+tuufaan ho chaahe kinaaraa ho, ek duusare kaa sahaaraa ho
+ho koI aagat judaa hamako nahii.n kar paaegii, khudaa hii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tumhe.n jo bhii dekh legaa, kisii kaa naa ho sakegaa}%
+\film{Majboor}%
+\year{}%
+\starring{Biswajeet, Waheeda Rehman, Naaz}%
+\singer{Hemant}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Preetham Gopalaswamy  (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tumhe.n jo bhii dekh legaa, kisii kaa naa ho sakegaa
+parii ho bhalaa ho kyaa ho tum
+tumhe.n jo bhii dekh legaa \threedots
+
+duniyaa chale udhar hii jidhar ye nigaah ghuume
+shabanam ko dekh lo gar banakar sharaab jhuume
+nashaa hii nashaa ho kyaa ho tum
+tumhe.n jo bhii dekh legaa \threedots
+
+kajaraare nain bha.nvare palake.n jo kholate hai.n
+dilo.n kii bhii baat kyaa hai Imaan bhii Dolate hai.n
+bhuuto.n ke khudaa ho kyaa ho tum
+tumhe.n jo bhii dekh legaa \threedots
+
+kahaa.N ye dhamakataa cheharaa, kahaa.N aisaa nuur hogaa
+jisane banaayaa tumako use bhii guruur hogaa
+khudaa kii adaa ho kyaa ho tum
+tumhe.n jo bhii dekh legaa \threedots
+%
+#endindian
+\endsong
+%

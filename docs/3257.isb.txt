@@ -1,0 +1,39 @@
+% ITRANS SONG # 3257; Created on Jan 26, 2004
+%
+%      From: Achyut Joshi (asj2@duke.edu)
+%      Date: 2001-03-06 09:36:37 PST 
+%
+\startsong
+\stitle{aaj kii raat naa jaa naa jaa naa jaa re}%
+\film{non-Film}%
+\year{1973}%
+\starring{}%
+\singer{Lata}%
+\music{K Mahavir}%
+\lyrics{Abhilash}%
+%
+% Contributor: Achyut Joshi
+% Transliterator: Achyut Joshi
+% Editor: Arun Sampath (asam at hotmail.com)
+%
+\printtitle                                                                    
+#indian
+%
+aaj kii raat naa jaa, naa jaa, naa jaa re (2x)
+aaj kii raat
+
+bin tere chaa.Ndanii hai nadii aag kii
+taare dhu.Ndhale hai.n, phiikaa hai ye chaa.Nd bhii
+hai ghuTii ye fizaa, naa jaa re
+aaj kii raat naa jaa, naa jaa, naa jaa re 
+aaj kii raat
+
+ye gagan mere qadamo.n pe jhuk jaayegaa
+raat tham jaayegii tuu jo ruk jaayegaa
+naa sataa, ho, naa rulaa, naa jaa re
+aaj kii raat naa jaa, naa jaa, naa jaa re
+aaj kii raat   
+
+#endindian
+\endsong
+%

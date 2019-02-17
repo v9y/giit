@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{intahaa ho ga_ii, i.ntazaar kii}%
+\film{Sharaabi}%
+\year{1984}%
+\starring{Amitabh, Jayaprada}%
+\singer{Kishore, Lata}%
+\music{Bappi Lahiri}%
+\lyrics{???}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar <anurag@cis.brown.edu>
+% Credits: Sumeet K. Hingorani <sumeet@happy.cc.utexas.edu>
+%          Anurag Juneja <juneja-anurag@CS.YALE.EDU>
+%          Shashikant Joshi <rava0002@gold.tc.umn.edu>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+%
+\printtitle
+#indian
+%
+kishor: intahaa ho ga_ii, i.ntazaar kI
+	aaI na kuchh khabar, mere yaar kI
+	ye hame.n hai yaqii.n, bevafaa vo nahii.n
+	phir vajah kyaa huI, i.ntazaar kii, intahaa ho\threedots
+	
+	baat jo hai usame.n baat vo yahA.N kahI.n nahI.n kisii me.n
+	vo hai merii, bas hai merii, shor hai yahii galii galii me.n
+	saath saath vo hai mere Gam me.n mere dil kii har khushii me.n
+	zi.ndagii me.n vo nahI.n to kuchh nahI.n hai merii zi.ndagii me.n
+	bujh na jaaye ye shamaa, aitabaar kii
+	intahaa ho\threedots
+	
+lataa: 	o, mere sajanaa, lo mai.n aa gaI
+	are, logo.n ne diye ho.nge ba.De ba.De nazaraane 
+	lAI huu.N mai.n tere liye dil meraa
+	dil yahii maa.Nge duaa ham kabhii ho.n na judaa
+	dil meraa teraa hai ye dil meraa
+	ye merii zi.ndagii hai terii \- 2
+        tuu meraa sapana, mai.n tujhe paa ga_ii
+        o, mere sajanaa, lo mai.n aa ga_ii
+	laa laa\threedots
+	
+kishor: Gamo.n ke a.ndhere Dhale, bujhate sitaare jale
+	dekhaa tujhe to dilo.n me.n jaan aaI
+	hoTho.n pe taraane jage, aramaan diivaane jage
+	baaho.n me.n aake tuu aise sharamAI
+        chhaa gaI phir vohii bekhuudii
+	laa laa\threedots
+	
+dono:   laa laa\threedots
+
+kishor: vo gha.Dii kho ga_ii i.ntazaar kii
+        aa ga_ii rut hasii.n, rasm\-e\-yaar kii
+        ye nashaa ye khushii, ab na kam ho.n kabhii
+        umr bhar na Dhale, raat pyaar kii
+%
+#endindian
+\endsong
+%

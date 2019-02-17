@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{yaa merii ma.nzil bataa yaa zindagii ko chhiin le}%
+\film{Rakhi}%
+\year{1962}%
+\starring{Ashok Kumar, Waheeda Rahman, Pradeep Kumar, Ameeta, Mehmood}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10734 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+yaa merii ma.nzil bataa yaa zindagii ko chhiin le \-2
+jisake piichhe Gam lage ho.n us Kushii ko chhiin le
+yaa merii ma.nzil \threedots
+
+de nahii.n sakataa agar aaraam kii ik saa.Ns bhii \-2
+paa.Nv mere to.D de aavaaraGii ko chhiin le
+yaa merii ma.nzil \threedots
+
+aa.Nkh me.n aa.Nsuu kahaa.N ro duu.N jo apane haal par \-2
+aa ga_ii jo apane Gam par us ha.Nsii ko chhiin le
+yaa merii ma.nzil \threedots
+%
+#endindian
+\endsong
+

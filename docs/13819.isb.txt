@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{kisii meharabaa.N kii nazar Dhuu.NDhate hai.n}%
+\film{Raja Saab}%
+\year{1969}%
+\starring{Shashi Kapoor, Nanda, Naaz}%
+\singer{Rafi/ Manhar}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11088 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+% every line is first sung by main singer and then repeated by korus.
+%
+kisii meharabaa.N kii nazar Dhuu.NDhate hai.n
+jo de\-de sahaaraa vo dar Dhuu.NDhate hai.n
+kisii meharabaa.N kii \threedots
+
+tumhaarii galii me.n sadaa hamane dii hai
+tumhe.n zindagii kii du_aa hamane dii hai
+du_aa_o.n kaa apanii asar Dhuu.NDhate hai.n
+kisii meharabaa.N kii \threedots
+
+nasiibo.n ke gulashan me.n khilatii hai.n Kushiyaa.N
+kahii.n Dhuu.NDhane se bhii milatii hai.n Kushiyaa.N
+magar ham to hai.n beKabar Dhuu.NDhate hai.n
+kisii meharabaa.N kii \threedots
+%
+#endindian
+\endsong
+

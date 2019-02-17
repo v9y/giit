@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{aaj ham tum o sanam mil ke ye vaadaa kare.n}%
+\film{Saathi}%
+\year{1991}%
+\starring{Aditya Pancholi, Mohsin Khan, Varsha Usgaonkar, Paresh Rawal, Avtar Gill}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaj ham tum o sanam mil ke ye vaadaa kare.n
+mai.n tere dil me.n rahuu.n tuu mere dil me.n rahe
+
+o ham terii aa.Nkho.n me.n aise kho jaa_e.nge
+duniyaa vaale na hamako nazar aa_e.nge
+aaj ham tum o sanam \threedots
+
+chaa.Ndanii raat me.n jab yaad aatii hai
+tere diivaane ko kitanaa ta.Dapaatii hai
+aaj ham tum o sanam \threedots
+%
+#endindian
+\endsong
+

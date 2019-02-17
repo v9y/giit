@@ -1,0 +1,62 @@
+
+%
+\startsong
+\stitle{kah duu.N tumhe.n yaa chup rahuu.N}%
+\film{Deewaar}%
+\year{1975}%
+\starring{Amitabh Bachchan, Parveen Babi, Shashi Kapoor, Neetu Singh, Nirupa Roy, Iftikhar}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10761 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	kah duu.N tumhe.n
+aa \:	haa.N
+ki \:	yaa chup rahuu.N
+aa \:	naa
+ki \:	dil me.n mere aaj kyaa hai
+aa \:	kyaa hai
+ki \:	kah duu.N tumhe.n yaa chup rahuu.N
+	dil me.n mere aaj kyaa hai
+	jo bolo to jaanuu.N guruu tumako maanuu.N
+	chalo ye bhii vaadaa hai
+aa \:	achchhaa
+ki \:	kah duu.N tumhe.n \threedots
+
+aa \:	sochaa hai tumane ki chalate hii jaa_e.N
+	taaro.n se aage ko_ii duniyaa basaa_e.N
+	Thiik hai
+ki \:	a.nhaa.N
+aa \;	to tum bataa_o
+ki \:	bataa_uu.N
+aa \:	haa.N
+ki \:	sochaa ye hai ki tumhe.n rastaa bhulaa_e.N
+	suunii jagah pe kahii.n chhe.De.n sataa_e.N
+aa \:	haay re naa naa
+	ye naa karanaa
+	are nahii.n re nahii.n re nahii.n re nahii.n re nahii.n nahii.n 
+ki \:	kah duu.N tumhe.n \threedots
+
+aa \:	sochaa hai tumane ki kuchh gunagunaa_e.N
+	mastii me.n jhuume.n zaraa dhuume.n machaa_e.N
+	ab Thiik hai
+ki \:	u huu.N
+aa \;	to tum bataa_o naa
+ki \:	bataa_uu.N
+aa \:	haa.N
+ki \:	sochaa ye hai ki tumhe.n nazadiik laa_e.N
+	phuulo.n se ho.nTho.n kii laalii churaa_e.N
+aa \:	haay re naa naa \-2
+	ye naa karanaa
+	are nahii.n re nahii.n re nahii.n re nahii.n re nahii.n nahii.n
+ki \:	kah duu.N tumhe.n \threedots
+%
+#endindian
+\endsong
+

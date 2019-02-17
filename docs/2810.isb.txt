@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{Duub jaaye jo qisamat kaa taaraa}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date: Jan 22,2001
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+
+Duub jaaye
+(Duub jaaye jo qismat kaa taaraa
+ko_ii hotaa nahii.n phir sahaaraa) \-2
+Duub jaaye
+
+o~ chaa.Nd suuraj ho roshan hame.n kyaa
+o~ koii phuulo.n kaa gulashan hame.n kyaa
+is ? jiivan hamaaraa
+Duub jaaye \threedots
+
+aisaa ulajhaa hai kaa.nTo.n me.n daaman
+apanii parachhaii.n hai apanii dushman
+laakh tuufaan hai.n
+laakh tuufaan hai.n aur ek bechaaraa
+ko_ii hotaa nahii phir sahaaraa
+Duub jaaye \threedots
+
+o rah ga_ii aarazuu nazar me.n
+o kaTii apanii duniyaa bha.Nvar me.n
+jab nazar aa rahaa thaa kinaaraa
+ko_ii hotaa nahii.n phir sahaaraa
+Duub jaaye \threedots
+
+%
+#endindian
+\endsong
+%

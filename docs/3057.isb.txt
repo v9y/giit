@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{da.rshan pyaasii aa_ii daasii}%
+\film{Sangdil}%
+\year{1952}%
+\starring{Dilip Kumar, Madhubala}%
+\singer{Geeta}%
+\music{Sajjad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 8, 2002
+% Availability: HMV CD Hindi film soundtrack: Arzoo/Sangdil
+% Comment: Devotional song
+%
+\printtitle
+#indian
+%
+
+da.rshan pyaasii aa_ii daasii
+jagamag diip jalaaye
+prabhu charaN kii dhuul mile to
+jiivan me.n sukh aaye
+
+jag naiyaa ke khevanahaare
+terii jyotii chaa.Nd sitaare
+aa_ii paapan sharaN tihaare
+sadaa hii raakho apanii dvaare
+binatii karuu.N mai.n nis din torii
+charaNan siis lagaaye
+prabhu charaN kii dhuul mile to
+jiivan me sukh aaye
+da.rshan pyaasii aa_ii daasii \threedots
+
+dharo na avaguN dhyaan prabhu jii
+raakho meraa maan prabhu jii
+bhav saagar ke paar lagaa_o
+diijo ye varadaan prabhu jii
+pal pal chhin chhin paapii jiivan 
+daras tihaare paaye
+prabhu charaN kii dhuul mile to
+jiivan me sukh aaye
+da.rshan pyaasii aa_ii daasii \threedots
+
+%
+#endindian
+\endsong
+%

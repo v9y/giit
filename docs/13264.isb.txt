@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{kis tarah jiite hai.n ye log bataa do yaaro.n}%
+\film{Nai Roshni}%
+\year{1967}%
+\starring{Ashok Kumar, Mala Sinha, Rajkumar, Bishwajit, Pahadi Sanyal, Asit Sen}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10723 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kis tarah jiite hai.n ye log bataa do yaaro.n
+hamako bhii jiine kaa a.ndaaz sikhaa do yaaro.n
+kis tarah jiite hai.n \threedots
+
+pyaar lete hai.n kahaa.N se ye zamaane vaale \-2
+un galii\-kuucho.n kaa rastaa to dikhaa do yaaro.n
+hamako bhii jiine kaa \threedots
+
+dard ke naam se vaaqif na jahaa.N ho ko_ii \-2
+aisii mahafil me.n hame.n bhii biThaa do yaaro.n
+hamako bhii jiine kaa \threedots
+
+saath denaa hai to khud piine kii aadat Daalo \-2
+varanaa maiKaane kaa dar hamase bhii chhu.Daa do yaaro.n
+hamako bhii jiine kaa \threedots
+%
+#endindian
+\endsong
+

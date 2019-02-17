@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{haay ruuThe sai.nyaa hamaare sai.nyaa kyo.n ruuThe}%
+\film{Devar}%
+\year{1966}%
+\starring{Dharmendra, Sharmila Tagore, Devan Verma}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10493 [V S Rawat]
+% Transliterator: 
+% Comments: Based on novel "naa" by Tarashankar Bandhopadhyaya
+% 
+\printtitle
+#indian
+%
+haay ruuThe sai.nyaa
+ruuThe sai.nyaa hamaare sai.nyaa kyo.n ruuThe
+naa to ham bevafaa naa to ham jhuuThe
+ruuThe sai.nyaa hamaare \threedots
+
+chain na aayaa hame.n nii.nd na aa_ii
+dete rahe saarii rain duhaa_ii
+ko_ii unakii bhii haay raam
+ko_ii unakii bhii yuu.N hii ni.ndiyaa luuTe
+ruuThe sai.nyaa hamaare \threedots
+
+kaise na ta.Dape dil ye diivaanaa
+sach hii to kahataa hai saaraa zamaanaa
+laagii chhuuTe naa chaahe duniyaa chhuuTe
+ruuThe sai.nyaa hamaare \threedots
+
+unako manaayaa har ek adaa se
+haay magar taubaa unakii balaa se
+( vo naa maane ) \-3 kisii kaa chaahe dil TuuTe
+ruuThe sai.nyaa hamaare \threedots
+%
+#endindian
+\endsong
+

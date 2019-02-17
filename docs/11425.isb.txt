@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ho nainaa tere nainaa ho baat bataate hai.n}%
+\film{Ek Bechaaraa}%
+\year{1972}%
+\starring{Jitendra, Rekha, Vinod Khanna, Kalpana, Bindu}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11199 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	ho nainaa tere nainaa ho baat bataate hai.n
+	raat bhar tuu kisii ke saath jaagii hai ho raat jaagii hai
+la \:	ho nainaa tere nainaa ho baat bataate hai.n
+	aag jaise jiyaa me.n tere laagii hai ho laagii hai
+mu \:	ho nainaa tere \threedots
+
+	tho.Daa paas to aane do nigaaho.n me.n bas jaane do
+	hai bechain apanaa dil dil ko bahalaane do
+	aa.Nkhe.n to milaane do ruuTho aur manaane do
+la \:	ho taubaa merii taubaa ho nikalaa re premii tuu
+	mai.n samajhii thii tuu ko_ii bairaagii hai ai bairaagii hai
+
+	ab tum aise na dekho ki hamase dekhaa jaa_e naa
+	hamako laaj aa_e re tumako laaj aa_e naa
+	bairii baaj aa_e naa chho.Do chhe.Do haay naa
+mu \:	o gorii teraa aa.Nchal ho baat bataataa hai
+	haath sai.nyaa se chhu.Daa ke raat bhaagii hai ho raat bhaagii hai
+mu \:	ho nainaa tere \threedots
+%
+#endindian
+\endsong
+

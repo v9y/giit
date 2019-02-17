@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kahaa.N tak ham uThaa_e.n Gam}%
+\film{Aarzoo}%
+\year{1950}%
+\starring{Dilip Kumar, Kamini Kaushal}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor:  Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Comments : LATAnjali series
+%
+\printtitle
+#indian
+%
+
+kahaa.N tak ham uThaa_e.n Gam jiye.n ab yaa ke mar jaa_e.n
+are zaalim muqaddar ye bataa de ham kidhar jaa_e.n
+
+kahaa.N tak ham \threedots
+
+ham unakaa naam lekar kaaT de.nge zi.ndagii apanii \-2
+na vo aa_e.n magar milane kaa kar vaadaa to kidhar jaa_e.n \-2
+
+papiihe se kaho gaaye na vo naGame bahaaro.n ke \-2
+kaho gulashan uja.D jaa_e kaho kaliyaa.N bikhar jaa_e.n \-2
+
+kahaa.N tak ham \threedots
+
+%
+#endindian
+\endsong
+%

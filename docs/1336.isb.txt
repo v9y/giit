@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{navaprabhaat aayaa jaago navaprabhaat aayaa}%
+\film{Shrikrishna Leela}%
+\year{1970}%
+\starring{}%
+\singer{Asha}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+
+%
+% Contributor: Vandana Vidwans
+% Transliterator: Surajit A. Bose
+% Credits:
+%
+
+\printtitle
+#indian
+
+aa aa aa aa 
+cha.Ndra chhupaa suuraj ugaa
+bikharaa laal gulaal
+Daal Daal pa.nchii jage
+jaago he gopal
+
+aa aa aa aa aa aa aa aa aa aa aa aa
+navaprabhaat aayaa jaago
+navaprabhaat aayaa jaago
+navaprabhaat aayaa \threedots
+
+aa aa aa aa aa aa aa
+phuul jage kaliyaa.N jaagii
+cha.nchal maalaniyaa.N jaagii \-2
+
+gokul kii gaiyaa.N jaagii
+gaao.n kii gwalaniyaa.N jaagii \- 2
+
+jaag uThii hai navajiivan me.n
+dharatii kii kaayaa \threedots
+
+koii sakhii shrR^i.ngaar kare
+Thumak Thumak kar paa.Nv bhare \- 2
+
+chham chham karati panihaaran
+chhal chhal jal ke kalash bhare \- 2
+
+dekh sunahare ravikiraNo.n ne
+amR^it barasaayaa aa aa aa \-2
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{ye jo zi.ndagii hai}%
+\film{1947 Earth}%
+\year{1999}%
+\starring{Aamir Khan, Nandita Das}%
+\singer{Sukhvinder Singh, Sujata Trivedi, Srinivas, chorus}%
+\music{A R Rahman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: Jan 20, 2000
+% Credits:
+% Editor:
+% Comments: Geetanjali series
+%
+\printtitle
+#indian
+%
+
+sukh: jo afasaane dil ne bune
+      unako koii dil hii sune
+      ham haule haule pyaar kii dhu.ndalii fizaao.n me.n aaye
+      gahare gahare hai.n Kvaab kii niilii ghaTaao.n ke saaye
+      ham tum dono.n khoye khoye
+      sapane dekhe.n jaage soye
+      gumasum hairaa.N
+
+ko: (ye jo zi.ndagii hai koii daastaa.N hai
+      kab hogaa kyaa ye khabar kahaa.N hai
+      ye jo zi.ndagii hai koii kaaravaa.N hai
+      kahaa.N jaayegii ye khabar kahaa.N hai) \-2
+
+sujaa:bahatii hai.n chi.ngaariyaa.N jaise
+      sar se paa.Nv tak nas nas me.n
+      halkaa halkaa hosh hai lekin
+      kuchh bhii nahii.n ab mere bas me.n
+
+      mere a.ng a.ng me.n bechainii bijalii banake laharaaye
+      ek miiThe miiThe dard kaa baadal tan man par chhaaye
+      saa.Nse.n ulajhe dha.Dake ye dil
+      jaane kaise merii mushkil
+      hogii aasaa.N
+
+ko:   (ye jo zi.ndagii hai koii daastaa.N hai
+      kab hogaa kyaa ye khabar kahaa.N hai
+      ye jo zi.ndagii hai koii kaaravaa.N hai
+      kahaa.N jaayegii ye khabar kahaa.N hai) \-3
+
+sukh: are kaash merii in aa.Nkho.n kii ab roshanii bujh jaaye
+      mai.n ne dekhaa thaa jo Kvaab vo mujhako na kabhii yaad aaye
+      aise barase Gam ke tiishe
+      TuuTe dil ke saare shiishe
+      dil hai viiraa.N
+
+ko:   (ye jo zi.ndagii hai koii daastaa.N hai
+      kab hogaa kyaa ye khabar kahaa.N hai
+      ye jo zi.ndagii hai koii kaaravaa.N hai
+      kahaa.N jaayegii ye khabar kahaa.N hai) \-2
+
+%
+#endindian
+\endsong
+%

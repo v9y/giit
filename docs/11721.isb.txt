@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mujhase milatii hai ik la.Dakii rozaanaa}%
+\film{Heraa Pheri}%
+\year{2000}%
+\starring{Akshay Kumar, Sunil Shetty, Tabbu, Paresh Raval, Om Puri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhase milatii hai ik la.Dakii rozaanaa
+vo merii diivaanii mai.n usakaa diivaanaa
+o ho ho ho ho
+mujhase milataa hai ik la.Dakaa rozaanaa
+mai.n usakii diivaanii vo meraa diivaanaa
+o ho ho ho ho
+
+abhii mulaakaato.n kii shuru_aat hu_ii hai
+aa.Nkho.n hoo aa.Nkho.n me.n kuchh baat hu_ii hai
+kab tak sharamaa_egii kab tak ghabaraa_egii
+ik din khulakar mere saamane aa_egii
+mujhe bataa degii chaahat kaa afasaanaa
+mujhase milatii hai \threedots
+
+roz roz vo mujhase kuchh kahane aataa hai
+jaane kyaa sochake kuchh kah nahii.n paataa hai
+ye pyaar kaa jaaduu hai usape chal jaa_egaa
+dhiire dhiire mujhako har baat bataa_egaa
+mujhe pataa hai phir bhii banataa hai anjaanaa
+mujhase milataa hai \threedots
+%
+#endindian
+\endsong
+

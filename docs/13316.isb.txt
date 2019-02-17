@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ye kahe chaa.Ndanii raat sunaa do apane dil kii baat}%
+\film{Nirmohi}%
+\year{1952}%
+\starring{Nutan, Sajjan, Amarnath, Raj Mehra}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{P N Rangeen}%
+%
+% Contributor: BOL ANAMOL #11917 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ye kahe chaa.Ndanii raat
+sunaa do apane dil kii baat
+aa_ii ritu mastaanii \-2
+
+mohe kahate aaye laaj
+kisii kii do aa.Nkho.n ne aaj
+kah dii pyaar kii kahaanii \-2
+
+( ko_ii naye taraane laayaa
+ko_ii Kaab suhaane laayaa ) \-2
+ab tak naa sune kaano.n ne
+aise afasaane laayaa \-2
+is dil me.n basaa_ii aaG
+kiyaa ye suunaa ghar aabaad
+terii ba.Dii meharabaanii \-2
+
+ye kahe chaa.Ndanii raat
+sunaa do apane dil kii baat
+aa_ii ritu mastaanii \-2
+%
+#endindian
+\endsong
+

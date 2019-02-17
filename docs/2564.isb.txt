@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{dil kii ma.nzil kuchh aisii hai ma.nzil}%
+\film{Tere Ghar Ke Saamne}%
+\year{1963}%
+\starring{Dev Anand, Nutan, Harindranath}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor: Vandana V Iyengar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+ole ole ole ole ole ole o!
+dil kii man.zil kuchh aisii hai ma.nzil
+pyaar jis ne kiyaa ho vo jaane
+
+% whispering %
+pahaluu me.n yuu.N to sab ke hii dil hai
+dard ho jis me.n dil vahii dil hai
+% normal voice %
+pahaluu me.n yuu.N to sab ke hii dil hai
+dard ho jis me.n dil vahii dil hai
+pyaar jo hogaa dard bhii hogaa
+pyaar na ho to jiinaa mushkil hai
+aaj kis se javaan hai ye mahafil
+pyaar jis ne kiyaa ho vo jaane
+
+dil kii ma.nzil kuchh aisi hai ma.nzil \threedots
+
+% whispering %
+itanaa ba.Daa hai duniyaa.N kaa melaa
+log dilo.n se milate nahii.n hai.n
+% normal voice %
+itanaa ba.Daa hai duniyaa.N kaa melaa
+log dilo.n se milate nahii.n hai.n
+pyaar binaa to dono jahaa.N me.n
+phuul khushii ke khilate nahii.n hai.n
+kaun kis kaa huaa hai qaatil
+pyaar jis ne kiyaa ho vo jaane
+
+dil kii ma.nzil kuchh aisi hai ma.nzil \threedots
+
+%
+#endindian
+\endsong
+%

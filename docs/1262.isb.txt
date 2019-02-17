@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{muhabbat kii jhuuThii kahaanii pe roye}%
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Prithviraj Kapoor, Dilip Kumar, Madhubala}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+muhabbat kI jhUThI kahAnI pe roye
+ba.DI choT khAI (javAnI pe roye \- 2)
+muhabbat kI jhUThI \threedots
+
+na sochA na samajhA, na dekhA na bhAlA
+terI ArazU ne, hame.n mAr DAlA
+tere pyAr kI meharabAnI pe roye, roye
+muhabbat kI jhUThI \threedots
+
+khabar kyA thI ho.nTho.n ko sInA pa.DegA
+muhabbat chhupA ke bhI, jInA pa.DegA
+jiye to magar zindagAnI pe roye, roye
+muhabbat kI jhUThI \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{muhabbat ba.Dhaa kar judaa ho gaye}%
+\film{Dastan}%
+\year{}%
+\starring{Suraiyya}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+muhabbat ba.Dhaa kar judaa ho gaye
+na sochaa na samajhaa Kafaa ho gaye
+muhabbat ba.Dhaa kar   \threedots
+
+vafaa_o.n kaa badalaa sitam se diyaa
+sitam se diyaa
+gha.Dii bhar me.n tum kyaa se kyaa ho gaye
+muhabbat ba.Dhaa kar   \threedots
+
+zamaane me.n kisako ham apanaa kahe
+ham apanaa kahe
+are jab tumhii.n bevafaa ho gaye
+muhabbat ba.Dhaa kar   \threedots
+
+%
+#endindian
+\endsong
+%

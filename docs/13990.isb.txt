@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{raam naaraayan baajaa bajaataa}%
+\film{Saajan Chale Sasuraal}%
+\year{1996}%
+\starring{Govinda, Karisma, Tabbu, Kader, Satish Kaushik, Satish Shah, Shakti}%
+\singer{Udit Narayan}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raam naaraayan baajaa bajaataa
+jhuum jhuum jhuum jhuum Thumakaa lagaataa
+sab logo.n kaa dil bahalaataa re
+raam naaraayan baajaa \threedots
+
+vo kisii shokh nadii kii hai ravaanii dekho
+mere mahabuub kii madamast javaanii dekho
+jaa ke ulajhaa mai.n anaa.Dii jo usake jhumake se
+vo mujhe luuT ga_ii maar ga_ii Thumake se
+ho bamba_ii hile dillii hile kalakattaa hilelaa
+ki usakii lachake jab kamariyaa to saarii duniyaa hilelaa
+he raam naaraayan baajaa \threedots
+
+yaar aa.Nkho.n me.n nayaa khvaab adhuuraa laayaa
+leke haatho.n me.n apanaa taan tambuuraa laayaa
+chhe.D ke saaj naye giit banaa detaa huu.N
+chhorii kaisii bhii ho mai.n usako paTaa letaa huu.N
+he chalii rii sajanii sajan ghar jii ho jiyaa ab naa jalaa
+ab na jalaa jiyaa ab na jalaa
+Dolii kab leke aa_uu.N mai.n ho dilajaanii bataa
+he raam naaraayan baajaa \threedots
+%
+#endindian
+\endsong
+
+

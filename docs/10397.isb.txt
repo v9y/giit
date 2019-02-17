@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{zindagii ke ra.ng ka_ii re saathii re}%
+\film{Aadmi Aur Insaan}%
+\year{1969}%
+\starring{Dharmendra, Saira Bano, Feroz Khan, Mumtaz, Ajit, Madan Puri}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11513 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+zindagii ke ra.ng ka_ii re saathii re zindagii ke ra.ng ka_ii re \-2
+
+zindagii dilo.n ko kabhii jo.Datii bhii hai
+zindagii dilo.n ko kabhii to.Datii bhii hai \-2
+zindagii ke ra.ng \threedots
+
+zindagii kii raah me.n Kushii ke phuul bhii
+zindagii kii raah me.n Gamo.n kii dhuul bhii \-2
+zindagii ke ra.ng \threedots
+
+zindagii kabhii yaqii.n kabhii Gumaan hai
+har qadam pe teraa\-meraa imtahaan hai
+zindagii ke ra.ng \threedots
+%
+#endindian
+\endsong
+

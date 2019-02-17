@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{pal bhar ke liye koii hame.n pyaar kar le, jhuuThaa hii sahii}%
+\film{Johnny Mera Naam}%
+\year{1970}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          PVR Narasimha Rao (pvr@rice.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pal bhar ke liye koI hame.n pyaar kar le
+jhuuThaa hii sahii
+do din ke liye koI iqaraar kar le
+jhuuThaa hii sahii
+pal bhar \threedots
+
+hamane bahut tujhako chhup chhupake dekhaa    \- 2
+dil pe khii.nchii hai tere kaajal kii rekhaa
+kaajal ki rekhaa banii lachhaman kii rekhaa
+ho ho ho ho kaajal kii rekhaa \threedots
+raam me.n kyuu.N tuune raavaN ko dekhaa    \- 2
+kha.De khi.Dakii pe  e e e e e e
+kha.De khi.Dakii pe jogii sviikaar kar le
+jhuuThaa hii sahii
+pal bhar \threedots
+
+%    ## [Hema Malini humming] ##
+hemaa:  laa laa laa \threedots pyaar kar le
+%    ## [Kishore takes over] ## jhuuTaa hii sahii
+kishor: jhuuThaa hii sahii
+(dhiire se ja.De tere nain ba.De,
+jis din se la.De tere dar pe pa.De  ) \- 2
+sun sunakar terii nahii.n nahii.n
+jaa.N \threedots
+apanii nikal jaaye naa kahii.n
+zaraa haa.N kah de merii jaa.N kah de
+merii jaa.N kah de zaraa haa.N kah de
+jab rain pa.De nahii.n chain pa.De
+nahii.n chain pa.De jab rain pa.De
+
+maanaa tuu saare hasiino.n se ha.nsii.n hai    \- 2
+apanii bhii suurat burii to nahii.n hai    \- 2
+kabhii tuu bhii
+o kabhii tuu bhii hamaaraa diidaar kar le
+jhuuThaa hii sahii
+%
+#endindian
+\endsong
+%

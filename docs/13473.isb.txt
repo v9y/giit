@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tumase milane ko dil karataa hai}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	ruk jaanaa \-4
+	tumase milane ko dil karataa hai
+	re baabaa tumase milane ko dil karataa hai
+	tum hii ho jisape dil marataa hai
+a \:	tumase milane ko dil \threedots
+
+	jab se tumase shuruu ye kahaanii hu_ii
+	log kahate hai.n mai.n to diivaanii hu_ii
+	jaane kyaa baat aisii hai tujhame.n sanam
+	ye dil tere li_e hii machalataa hai
+	tumase milane ko dil \threedots
+
+ku \:	duur tumase rahuu.N to ho.n bechainiyaa.n
+	paas aa_uu.N to ba.Dhatii hai.n betaabiyaa.n
+	ho naa jaa_e kahii.n tuu mujhase judaa
+	aisii baato.n se dil Darataa hai
+	re baabaa tumase milane ko dil \threedots
+%
+#endindian
+\endsong
+

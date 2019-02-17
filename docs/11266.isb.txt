@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{o merii mahabuubaa ... tujhe jaanaa hai to jaa}%
+\film{Dharam-Veer}%
+\year{1977}%
+\starring{Dharmendra, Jeetendra, Zeenat, Neetu}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11276 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( o merii ( mahabuubaa ) \-3
+tujhe jaanaa hai to jaa terii marzii meraa kyaa
+par dekh tuu jo ruuTh kar chalii jaa_egii
+tere saath hii mere marane kii Kabar aa_egii ) \-2
+
+jo bhii ho merii is prem\-kahaanii kaa \-2
+par kyaa hogaa terii mast javaanii kaa
+aashiq huu.N mai.n tere dil me.n rahataa huu.N
+apanii nahii.n mai.n tere dil kii kahataa huu.N
+taubaa\-taubaa phir kyaa hogaa
+ki baad me.n tuu ik roz pachhataa_egii
+ye rut pyaar kii judaa_ii me.n hii guzar jaa_egii
+o merii mahabuubaa \threedots
+
+terii chaahat meraa chain churaa_egii \-2
+lekin tujhako bhii to nii.nd naa aa_egii
+mai.n to mar jaa_uu.Ngaa lekar naam teraa
+naam magar kar jaa_uu.Ngaa badanaam teraa
+taubaa\-taubaa phir kyaa hogaa
+ki yaad merii dil teraa ta.Dapaa_egii
+mere jaate hii tere aane kii Kabar aa_egii
+o merii mahabuubaa \threedots
+
+diivaanaa mastaanaa mausam aayaa hai \-2
+aise me.n tuune dil ko tarasaayaa hai
+maanaa apanii jagah pe tuu bhii qaatil hai
+par yaaro.n se teraa bachanaa mushkil hai
+taubaa\-taubaa phir kyaa hogaa
+phir pyaar me.n nazar jab Takaraa_egii
+ta.Dapatii hu_ii merii jaan tuu nazar aa_egii
+o merii mahabuubaa \threedots
+%
+#endindian
+\endsong
+

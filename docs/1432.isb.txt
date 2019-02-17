@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{phir miloge kabhii is baat kaa vaadaa karalo}%
+\film{Ye Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Biswajeet, Sharmila Tagore, Mumtaz}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafii:  (phir miloge kabhii is baat kaa vaadaa karalo 
+hamase ek aur mulaakaat kaa vaadaa karalo  )   \- 2
+
+(dil har baat adhuurii hai adhuurii hai abhii
+apanii ek aur mulaakaat zaruurii hai abhii  )   \- 2
+cha.nd lamho.n ke liye saath kaa vaadaa karalo
+hamase ek aur mulaakaat kaa vaadaa karalo
+phir miloge kabhii is baat kaa vaadaa karalo
+
+aashaa:  aap kyuu.N dilakaa ha.nsii.n raaz mujhe dete hai.n
+kyuu.N nayaa naGamaa nayaa saaz mujhe dete hai.n
+mai.n to huu.N Duubii huii pyaar kii tuufaano.n me.n
+aap saahil se hii aavaaz mujhe dete hai.n
+kal bhii ho.nge yahii.n jazabaat ye vaadaa karalo
+rafii:  hamase ek aur mulaakaat kaa vaadaa karalo
+phir miloge kabhii is baat kaa vaadaa karalo
+hamase ek aur mulaakaat kaa vaadaa karalo
+%
+#endindian
+\endsong
+%

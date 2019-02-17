@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{dil me.n ko_ii rahataa hai}%
+\film{Meri Bhabhi}%
+\year{1969}%
+\starring{Sunil Dutt, Waheeda Rahman, Kamini Kaushal, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11108 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	dil me.n ai jii dil me.n ko_ii rahataa hai rahataa hai
+	kaun hai batalaa_o sapanaa hai ki apanaa hai
+	ai jii dil me.n ko_ii \threedots
+
+la \:	dil me.n ai jii dil me.n vahii rahataa hai rahataa hai
+	jo ko_ii apanaa hai aur jiivan kaa sapanaa hai
+	ai jii dil me.n ko_ii \threedots
+
+mu \: ye nayan hamase hii magar kyuu.N begaane se
+	faasale ba.Dhate hai.n kyo.n aur qariib aane se \-2
+la \:	duurii ai jii duurii bas itanii hai itanii hai
+	faasalaa chhaayaa kaa apane tan se jitanaa hai
+mu \:	ai jii dil me.n ko_ii \threedots
+
+mu \:	laaj to rakh logii adhuurii sii in baato.n kii
+	to.D to naa dogii za.njiir mulaakaato.n kii \-2
+la \:	haay rii merii mushqil tum kyaa jaano kyaa jaano
+	saamane aanaa bhii ghuu.NghaT me.n bhii chhipanaa hai
+mu \:	ai jii dil me.n ko_ii \threedots
+
+do \:	ai jii dil me.n ko_ii \threedots
+%
+#endindian
+\endsong
+

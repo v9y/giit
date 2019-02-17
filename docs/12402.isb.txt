@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{raajaa kii qaid me.n raanii hai ... Kauf}%
+\film{Khauff}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Sukhvindar Singh, Jaspindar Narula, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n gilaa tujhase karuu.n bhii to bhalaa kaise
+tujhako dekhuu.n to mohabbat terii yaad aatii hai
+aajakal duur rahuu.n yaa ki tere paas rahuu.n
+saa.Ns Dar Dar ke kaleje me.n aTak jaatii hai
+
+ye adbhut prem kahaanii hai ho
+raajaa kii qaid me.n raanii hai
+jaane ye kaisii chaahat hai ye kaisaa chaahane vaalaa hai
+ye jisake pyaar me.n paagal thaa usako paagal kar Daalaa hai
+
+ye ishq nahii.n aur ishq bhii hai ho
+yaa ishq me.n ko_ii be_iimaanii hai
+raajaa kii qaid me.n \threedots
+
+chup rahatii hai to Daratii hai kuchh kahatii hai to maratii hai ho
+ko_ii to aisii dahashat hai jo isakaa piichhaa karatii hai
+rishte to kab ke ulajh ga_e ho
+ik Dor magar sulajhaanii hai
+raajaa kii qaid me.n \threedots
+
+chehare pe Kauf aa.Nkho.n me.n Kauf
+saa.Nso.n me.n Kauf ho.nTho.n me.n Kauf
+kasamo.n me.n Kauf vaado.n me.n Kauf
+baaho.n me.n Kauf yaado.n me.n Kauf
+nii.ndo.n me.n Kauf khvaabo.n me.n Kauf
+dil me.n hai Kauf dha.Dakan me.n Kauf
+hai idhar Kauf hai udhar Kauf
+jis taraf jaa_e us taraf Kauf
+raajaa kii qaid me.n \threedots
+%
+#endindian
+\endsong
+

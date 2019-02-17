@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{bhuul jaa sapane suhaane ... kaise tujhako bhulaa_uu.N}%
+\film{Raajdhaani}%
+\year{1956}%
+\starring{Suni Dutt, Nimmi}%
+\singer{Lata, Talat}%
+\music{Hansraj Behl}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10213 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ta \:	bhuul jaa sapane suhaane bhuul jaa \-2
+la \:	kaise tujhako bhulaa_uu.N ( saajanaa ) \-3
+	mai.n tumase duur dil Gam se chuur
+	mere dil koo sajan samajhaa jaa
+	kaise tujhako bhulaa_uu.N \threedots
+
+la \:	ek tuufaa.N idhar ek tuufaa.N udhar
+	phir bhii mil ke rahegii nazar se nazar \-2
+	aaj mil ke rahegii nazar
+	kaise tujhako bhulaa_uu.N \threedots
+
+ta \:	mujhe terii qasam nahii.n marane kaa Gam
+	Gam ye hai bichha.D jaa_e.Nge tumase ham
+	o bichha.D jaa_e.Nge tumase ham
+	bhuul jaa sapane suhaane \threedots
+
+la \:	aa_ii laharo.n kaa siinaa sanam chiir ke \-2
+	jiitanaa hai tujhe aaj taqadiir se \-2
+	aaj taqadiir se o sanam
+	kaise tujhako bhulaa_uu.N \threedots
+%
+#endindian
+\endsong
+

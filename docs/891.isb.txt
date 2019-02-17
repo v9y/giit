@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{jiye.n to jiye.n kaise, bin aapake}%
+\film{Saajan}%
+\year{}%
+\starring{Sanjay Dutt, Salman Khan, Madhuri Dixit}%
+\singer{Kumar Sanu, Anuradha Paudwal, S P Balasubramaniam}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor:  
+% Transliterator: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: Parimal R. Zaveri (parimal@cadence.com)
+%          Kannan Muthukaruppan (mkannan@plane.cs.berkeley.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+%          Kumar Sanu (1st stanza)
+%          Anuradha Paudwal (2nd stanza)
+%          S.P. Balasubramaniam (3rd stanza)
+%	   Pankaj Udhas has a separate version of the 1st stanza.
+%
+jiye.n to jiye.n kaise, bin aapake \- 2
+lagataa nahii.n dil kahii.n, bin aapake \- 2
+
+(kaise kahuu.N, binaa tere,
+zi.ndagii ye kyaa hogii, ) \- 2
+jaise koii sazaa, koii bad\-duaa hogii \- 2
+maine kiyaa hai, ye faisalaa,
+jiinaa nahii.n hai, tere binaa
+jiye.n to jiye.n kaise, bin aapake \- 2
+
+(mujhe koii, dede zahar,
+ha.Nsake mai.n pii luu.ngii ) \- 2
+hara darda sah luu.ngii, har haal mai.n jii luu.ngii \- 2
+dard\-e\-judaaii sah naa sakuu.ngii,
+tere binaa mai.n rah naa sakuu.ngii,
+jiye.n to jiye.n kaise, bin aapake \- 2
+
+dekh ke vo, mujhe teraa palake.n jhukaa denaa \- 2
+yaad bahut aae, teraa muskuraa denaa \- 2
+kaise bhulaauu.n, vo saarii baate.n,
+vo miiThii raate.n, vo mulaakaate.n
+jiye.n to jiye.n kaise, bin aapake \- 2
+lagataa nahii.n hai dil kahii.n, bin aapake
+%
+#endindian
+\endsong
+%

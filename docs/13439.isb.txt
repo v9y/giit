@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kuchh tumhaare hai.n kuchh hamaare hai.n}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh tumhaare hai.n kuchh hamaare hai.n
+ham dono.n ke sapane kitane pyaare hai.n
+kuchh tumhaare hai.n \threedots
+
+iname.n us aramaa.n kaa nuur hai jo dil me.n palataa rahaa
+vo ra.ngii.n nagamaa jo ho.nTh me.n dab ke machalataa rahaa
+jalave tamaam aazaad hai.n ham dil ke hai.n baadashaah
+kuchh tumhaare hai.n \threedots
+
+dekho zaraa aise jhuum ke kyuu.n Dolatii hai bahaar
+yuu.n hai ke aaj is tara.ng me.n shaamil hai apano.n kaa pyaar
+yuu.n hii nahii.n khul khelii hai zulfo.n kii baad\-e\-sabaa
+kuchh tumhaare hai.n \threedots
+%
+#endindian
+\endsong
+

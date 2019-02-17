@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ehasaan mere dil pe tumhaaraa hai dosto.n}%
+\film{Gaban}%
+\year{}%
+\starring{Sunil Dutt}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ehasaan mere dil pe tumhaaraa hai dosto
+ye dil tumhaare pyaar kaa maaraa hai dosto
+
+banataa hai meraa kaam tumhaare hii kaam se
+hotaa hai meraa naam tumhaare hii naam se
+tum jaise meharabaa.N kaa sahaaraa hai dosto
+ye dil \threedots
+
+jab aa pa.Daa hai ko_ii bhii mushkil kaa raastaa
+mai.n ne diyaa hai tum ko muhabbat kaa vaastaa
+har haal me.n tumhii.n ko pukaaraa hai dosto
+ye dil \threedots
+
+yaaro.n ne mere vaaste kyaa kuchh nahii.n kiyaa
+sau baar shukriyaa are sau baar shukriyaa
+bachapan tumhaare saath guzaaraa hai dosto 
+ye dil \threedots
+%
+#endindian
+\endsong
+%

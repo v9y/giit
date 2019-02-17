@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{har gha.Dii Dhal rahii shaam hai zi.ndagii}%
+\film{Saaransh}%
+\year{}%
+\starring{Anupam Kher, Rohini Hattangadi}%
+\singer{Amit Kumar}%
+\music{Ajit Varman}%
+\lyrics{Vasant Dev}%
+%
+% Contributor: 
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+Har Ghadi Dhal Rahi Shyam Hai Zindagi
+Dard Ka Doosra Naam Hai Zindagi
+Har Ghadi...
+Aasman Hai Wahi
+Aur Wahi Hai Zameen
+Hai Mukaam Gair Ka
+Gair Hai Ya Hameen
+Ajnabi Aankh Si Aaj Hai Zindagi
+Dard Ka Doosra Naam Hai Zindagi
+
+Kyon Khade Raah Mein
+Raah Bhi So Gayee
+Apni To Chaon Bhi
+Apne Se Kho Gayee
+Bhatke Hue Panchi Ki Raat Hai Zindagi
+Dard Ka Doosra Naam Hai Zindagi 
+
+%
+#endindian
+\endsong
+%

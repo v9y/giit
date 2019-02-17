@@ -1,0 +1,52 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ronaa hai bekaar pagalii ronaa hai bekaar}%
+\film{Jawab}%
+\year{1942}%
+\starring{Kanan Devi, Jamuna, Barua, Ahindra Chaudharu, Devbala}%
+\singer{Ranjit Roy, Female Voice?}%
+\music{Kamal Dasgupta}%
+\lyrics{Pt Madhur}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+% Kosh names only Ranjit Roy as singer.
+% But there is a female voice also
+
+ra \:	ronaa hai bekaar pagalii ronaa hai bekaar \-2
+	apane man kii baat chhupaatii
+	kuchh puuchho aur kuchh batalaatii
+	tere ye nayanaa kah dete hai.n \-2
+	jiit hu_ii yaa haar pagalii \-2
+	hu_ii yaa haar
+	
+% female
+	are sharaabhii o hushiyaar
+	( nashe me.n kar dii Kaalii botal
+	aur duniyaa ko kahataa paagal ) \-2
+	kyuu.N kar man ke giit sunaaye.n
+	kyuu.N kar
+	kyuu.N kar man ke giit sunaaye.n
+	TuuT gayaa siitaar sharaabii \-2
+	TuuT gayaa siitaar
+	
+ra \:	maanaa ke mai.n huu.N diiwaanaa
+	magar tujhe bhii hai pahachaanaa
+	diiwaane se diiwaane kii
+	ye kaisii takaraar pagalii \-2
+	ye kaisii takaraar
+	
+% female
+	( haa.N\-haa.N
+	haa.N\-haa.N ham dono.n diiwaane ) \-2
+	gaaye.n paagalapan ke gaane \-2
+	yahii nashaa pahuu.Nchaa detaa hai \-2
+	premii ko us paar sharaabii \-2
+	premii ko us paar
+
+#endindian
+\endsong

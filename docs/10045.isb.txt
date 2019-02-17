@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{taa thaiyaa ... aapake soNe mukha.De kii ham}%
+\film{Aamdani Atthani Kharcha Rupaiya}%
+\year{2001}%
+\starring{Govinda, Juhi Chawala, Tabbu, Chandrachud Singh, Johny Lever, Vinay, Ishaa}%
+\singer{Priti Pinki, Sunidhi Chauhan, Shaan}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+o saajan o jaan\-e\-jaanaa.n hamase hai ye jamaanaa
+taa thaiyaa taa thaiyaa taa tha_ii
+taa thaiyaa taa thaiyaa
+thaiyaa thaiyaa taa thaiyaa taa thaiyaa taa thaiyaa
+tum tananananan taa thaiyaa ham to sajan terii hai.n chhai.nyaa
+chhai.nyaa chhai.nyaa chhai.nyaa
+tum tananananan \threedots
+
+aapake soNe mukha.De kii
+ham hii to hai.n do a.Nkhiyaa.n a.Nkhiyaa.n
+tum chaay ho to ham pyaalii hai.n
+tum rel ho to ham paTarii hai.n
+chho.Do ye nakharaa jaane do
+haT jaa_o havaa ko aane do
+hai maamalaa ##fifty-fifty## kaa
+ham dono.n hai.n baraabar
+##fifty## nahii.n ho tum ##zero## ho
+dekho aa_iine me.n jaakar
+aapake soNe mukha.De kii \threedots
+
+bharate naa maa.Ng tumhaarii ham
+rah jaatii yuu.N hii ku.nvaarii tum
+tumhe.n deke dahez khariidaa hai
+aurat ne mard ko jiitaa hai
+kisii kaam kii nahii.n hai aurat
+ise paalaa hai mard ne
+kyaa bhuul ga_e tum raaj kiyaa ##india## me.n indiraa ne
+tum tananananan \threedots
+%
+#endindian
+\endsong
+

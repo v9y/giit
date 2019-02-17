@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kahanaa hai, kahanaa hai}% 
+\film{Padosan}%
+\year{1967}%
+\starring{Sunil Dutt, Saira Bano, Mahmood, Kishore Kumar}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+kahanaa hai, kahanaa hai  ##(slow)##
+
+kahanaa hai, kahanaa hai, aaj tumase ye pahalii baar, ho
+tum hii, to lAI ho, jIvan me.n mere, pyaar pyaar pyaar \- (2) 
+
+tumase, kahane vaalii, aur bhI hai.n, pyaarii baate.n
+saamane sabake kaise, kah duu.n mai.n vo, pyaarii baate.n 
+aaj mujhe bas itanaa hii ab karanaa hai iqaraar 
+tum hii to lAI ho \threedots
+
+kab se, dil ne mere, maan liyaa hai tujhako apanaa 
+aa.Nkhe.n merI dekh rAhI hai.n sote uThate ye sapanaa 
+mere gale me.n Daal rAhI ho tum baaho.n kA haar
+tum hii to lAI ho \threedots
+%
+#endindian
+\endsong
+%

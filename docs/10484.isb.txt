@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{maa.N maa.N vo bachche duniyaa me.n ... mujhe maaf karanaa om saa_ii.n raam}%
+\film{Biwi No. 1}%
+\year{1999}%
+\starring{Anil Kapoor, Salman, Karisma, Tabbu, Sushmita, Saif, Himani}%
+\singer{Abhijit, Alka Yagnik, Aditya Narayan, Anmol}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+maa.N maa.N
+vo bachche duniyaa me.n khushanasiib hote hai.n
+jo ##mummy daddy## ke kariib hote hai.n
+mujhe maaf karanaa om saa_ii.n raam
+tum se pahale luu.Ngaa ##mummy daddy## kaa naam
+
+jinhe.n ##mummy daddy## kaa pyaar nahii.n milataa
+unhe.n khushiyo.n kaa sa.nsaar nahii.n milataa
+kabhii bhii hame.n naa yuu.N majabuur karanaa
+##mummy daddy## se na hame.n duur karanaa
+ham to ba.De hote hai.n in kii uu.Ngalii thaam
+mujhe maaf karanaa \threedots
+
+##daddy## binaa kaun ##chocolate## laa_egaa
+##mummy## binaa kaun lorii sunaa_egaa
+##daddy## kii yaad mujhe pal pal sataatii hai
+##mummy## se duur ho ke aa.Nkh bhar aatii hai
+in ke saath rahanaa hai hame.n subah shaam
+mujhe maaf karanaa \threedots
+
+mujhe maaf karanaa om saa_ii.n raam
+tum se pahale luu.Ngii apane bachcho.n kaa naam
+
+o o mujhe maaf karanaa om saa_ii.n raam
+tum se pahale luu.Ngaa apane bachcho.n kaa naam
+
+hame.n maaf karanaa om saa_ii.n raam
+tum se pahale le.nge apane bachcho.n kaa naam
+%
+#endindian
+\endsong

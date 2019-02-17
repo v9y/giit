@@ -1,0 +1,34 @@
+% ITRANS SONG
+
+\startsong
+\stitle{viiNaa merii aashaa bharii ... kyuu.n chamelii khilakhilaatii hai bataa}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Lata}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+viiNaa merii aashaa bharii kab gaayegii
+
+% The above prelude, mentioned in kosh, is not in the version I heard
+
+kyuu.n chamelii khilakhilaatii hai bataa \-2
+ho kamalinii kyuu.N muskaraatii hai bataa
+kyuu.n chamelii khilakhilaatii hai bataa \-2
+
+puurNimaa kab chamakatii hai bataa \-2
+kab kahaanii giit banatii hai bataa
+
+kyuu.n chamelii khilakhilaatii hai bataa
+ho kamalinii kyuu.N muskaraatii hai bataa
+kyuu.n chamelii khilakhilaatii hai bataa
+
+#endindian
+\endsong

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tohe saa.Nvariyaa naahii khabariyaa}%
+\film{Milan}%
+\year{1967}%
+\starring{Sunil Dutt, Nutan, Jamuna}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11033 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tohe saa.Nvariyaa naahii khabariyaa
+tumare kaaran apane des me.n balam
+ham ho ga_e paradesii paradesii ham ho ga_e paradesii
+
+naa jaane kaun saa apanaa a.Nganaa kaun sii aTariyaa
+apane hii gaa.Nv kii galiyo.n me.n bhuule phirate hai.n ham Dagariyaa
+aa_o ghar apane hame.n chho.D aa_o \-2
+ke ham ho ga_e paradesii \threedots
+
+ye duniyaa laaj sapanaa chain ni.ndiyaa pyaar javaanii
+apanaa kyaa rah gayaa tumhare naam kar dii jab jindagaanii
+haay sab apane hame.n bahut yaad aa_e \-2
+ke ham ho ga_e paradesii \threedots
+%
+#endindian
+\endsong
+

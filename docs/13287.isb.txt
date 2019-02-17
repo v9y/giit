@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{sharamaa ke yuu.N na dekh adaa ke maqaam se}%
+\film{Neelkamal}%
+\year{1968}%
+\starring{Raaj Kumar, Wadeeda Rahman, Manoj Kumar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10727 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sharamaa ke yuu.N na dekh adaa ke maqaam se
+ab baat ba.Dh chukii hai nazar ke maqaam se
+sharma ke yuu.N na \threedots
+
+tasviir khii.nch lii hai tere shoK husn kii
+merii nazar ne aaj Kataa ke maqaam se
+sharamaa ke yuu.N na \threedots
+
+duniyaa ko bhuul kar merii baa.Nho.n me.n jhuul jaa
+aavaaz de rahaa huu.N vafaa ke maqaam se
+sharamaa ke yuu.N na \threedots
+
+dil ke mu_aamale me.n natiize kii fiqr kyaa
+aage hai ishq zurm\-o\-sazaa ke maqaam se
+sharamaa ke yuu.N na \threedots
+%
+#endindian
+\endsong
+

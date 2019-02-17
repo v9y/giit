@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dil tuu bhii gaa pyaar me.n muskaraa}%
+\film{Hamrahi}%
+\year{1963}%
+\starring{Rajendra Kumar, Jamuna}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10941 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+dil tuu bhii gaa pyaar me.n muskaraa
+sapane me.n jo aate hai.n akasar
+mahafil me.n unako bulaa ke laa
+dil tuu bhii gaa
+kal jo hu_aa so hu_aa bhuul jaa
+
+vo bhii na bole ham bhii na bole aa.Nkh milii pahachaan hu_ii
+ko_ii chalaa jab saath safar me.n hamako Dagar aasaan hu_ii
+
+ruup\-nagar kii bhii.D me.n hamane Kud ko bhulaanaa siikh liyaa hai
+
+dard balaa kaa dard hai lekin hosh nahii.n to kuchh bhii nahii.n
+aaj jahaa.N ko ham duniyaa ko chho.D ke aa_e duur kahii.n
+%
+#endindian
+\endsong
+

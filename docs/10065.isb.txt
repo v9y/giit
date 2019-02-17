@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{oy hoy ke ku.Diyaa.n shahar diiyaa.n}%
+\film{Arjun Pandit}%
+\year{1999}%
+\starring{Sunny Deol, Juhi Chawala}%
+\singer{Daler Mehandi, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho o re ho o re ho o re ho
+oy hoy ke ku.Diyaa.n shahar diiyaa.n
+oy hoy ke ku.Diyaa.n shahar dii
+o lak patalaa pata.ng naale goraa goraa ra.ng
+chale naagin jaisii chaal
+ke ku.Diyaa.n shahar \threedots
+
+is pyaar me.n hai.n baabaa lafa.De ba.De
+kaahe ko meha.ndii mere piichhe pa.De
+ham to hai.n raajaa raanii dil ke ba.De
+taahii.n taa meha.ndii tere piichhe pa.De
+mujhe dil de de dil de de dil de de dil
+aisii zid naa karo merii jaan
+ke ku.Diyaa.n shahar \threedots
+
+o kab a.Nkhiyaa.n milaa le.n kab a.Nkhiyaa.n churaa le.n
+kab dil me.n basaa le.n kab dil se nikaale.n
+dil kar detii behaal
+ke ku.Diyaa.n shahar \threedots
+
+kuchh aise ghulamil dil leke de de dil
+baat raste kii chho.D mai.n huu.N terii ma.nzil
+teraa meha.ndii aaj nachche tere naal
+ke ku.Diyaa.n shahar \threedots
+%
+#endindian
+\endsong
+

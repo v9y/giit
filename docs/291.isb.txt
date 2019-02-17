@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{beqaraar dil, tuu gaaye jaa, khushiyo.n se bhare vo taraane}%
+\film{Door Ka Raahi}%
+\year{1971}%
+\starring{Ashok Kumar, Kishore Kumar, Tanuja}%
+\singer{Kishore, Sulakshna Pandit}%
+\music{Kishore}%
+\lyrics{A Irshad}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+beqaraar dil, tuu gaaye jaa
+khushiyo.n se bhare vo taraane
+jinhe.n sun ke duniyaa jhuum uThe
+aur jhuum uThe dil diivaane
+beqaraar dil \threedots
+
+raag ho koI milan kaa, sukh se bharii saragam kaa
+yug\-yug ke ba.ndhan kaa, saath ho laakho.n janam kaa
+aise hii bahaare.n gaatii rahe.n, aur sajate rahe viiraane
+jinhe.n sun ke \threedots
+
+raat yuu.N hii tham jaayegii, rut ye ha.nsii.n musakaaegii
+ba.ndhii kalii khil jaayegii, aur shabanam sharamaayegii
+pyaar ke vo kaise nagame, jo ban jaaye.n afasaane
+jinhe.n sun ke \threedots
+
+dard me.n Duubii dhun ho, siine me.n ik sulagan ho
+saa.nso.n me.n halakii chubhan ho, sahamii huii dha.Dakan ho
+doharaate rahe.n bas giit ye aa, duniyaa se rahe.n begaane
+jinhe.n sun ke \threedots
+%
+#endindian
+\endsong
+%

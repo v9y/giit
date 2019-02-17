@@ -1,0 +1,53 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jaa jaa re jaa saajanaa}%
+\film{Adaalat}%
+\year{1958}%
+\starring{Pradeep Kumar, Nargis, Pran, Achala Sachdev, Yaqub, Murad}%
+\singer{Lata/ Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+% Lata part
+
+jaa jaa re jaa saajanaa
+( jaa jaa re jaa saajanaa
+kaahe sapano.n me.n aaye
+jaa ke des paraaye
+bewafaa ) \-2
+jaa jaa re jaa saajanaa
+
+( tujhako Garaz kyaa merii wafaa se
+jiyuu.N yaa maruu.N mai.n terii balaa se ) \-2
+o
+jaa jaa re jaa saajanaa
+kaahe sapano.n me.n aaye
+jaa ke des paraaye
+bewafaa
+jaa jaa re jaa saajanaa
+
+% Asha part
+
+jaa jaa re jaa re jaa re
+jaa jaa jaa
+jaa jaa jaa baalamaa \-2
+kaahe sapano.n me.n aaye
+jaa ke des paraaye
+bewafaa
+jaa jaa jaa baalamaa \-2
+
+dil to diyaa thaa tujhe ba.De aramaan se \-2
+pyaar lagaayaa bhii to kis be_iimaan se \-2
+de hii gayaa jo daGaa
+saiyaa.N jaa jaa jaa baalamaa
+jaa jaa jaa baalamaa
+
+#endindian
+\endsong

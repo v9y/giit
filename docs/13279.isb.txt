@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{shammaa me.n taaqat kahaa.N jo ek paravaane me.n hai}%
+\film{Naya Kanoon}%
+\year{1965}%
+\starring{Ashok Kumar, Vyjayantimala, Bharat Bhushan, Purnima, Nishi}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10584 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+shammaa me.n taaqat kahaa.N jo ek paravaane me.n hai \-2
+lutf jalane me.n nahii.n jal\-jal ke mar jaane me.n hai \-2
+shammaa me.n taaqat \threedots
+
+chaa.Ndanii raato.n me.n aksar sochataa rahataa huu.N mai.n
+kisakii ye tasviir hai jo dil ke viiraane me.n hai \-2
+shammaa me.n taaqat \threedots
+
+may kii mastii to utar jaatii hai tho.Dii der me.n
+zindagii bhar kaa nashaa aa.Nkho.n ke paimaano.n me.n hai
+shammaa me.n taaqat \threedots
+
+tuu kahe to aasamaa.N kii dhajjiyaa.N kar duu.N sanam
+aaj ik aisii hii vahashat tere diivaane me.n hai \-2
+lutf jalane me.n \threedots
+%
+#endindian
+\endsong
+

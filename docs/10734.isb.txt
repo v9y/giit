@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ye sard aahe.n merii ye dard teraa sanam}%
+\film{Bhoot}%
+\year{2003}%
+\starring{Rekha, Ajay Devgan, Nana Patekar, Urmila, Fardeen Khan}%
+\singer{Gayatri Iyer}%
+\music{Anand Raaj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: BOL ANAMOL #11777 [V S Rawat]
+% Producer: Dream Merchants Entertainment, Nitin Manmohan
+% Director: Ramgopal Varma
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3363 Stereo, Cost: Rs 50/-, CD: 
+%
+\printtitle
+#indian
+%
+( ye sard aahe.n merii ye dard teraa sanam
+kis tarah tum se kahe.n kis tarah bebas hai.n ham
+jaa_e.N kahaa.N ham tum bin
+kaise sataa_e.N din\-raat tumako ) \-2
+zindagii ye zindagii ban ga_ii hai bebasii \-2
+
+kyaa kare.n ham kyaa kare.n ulajhano.n kaa daur hai \-2
+dil me.n kuchh bujhane lagaa dha.Dakano.n me.n shor hai
+Kamosh dil kii sadaa ( sunataa nahii.n kyuu.N Kudaa ) \-2
+zindagii ye zindagii ban ga_ii hai bebasii \-2
+ye sard aahe.n merii ye dard teraa sanam
+
+phir pareshaa.N raat hai mai.n saath kaise duu.N sanam \-2
+ajanabii saa ek saayaa ban gayaa hai meraa hamadam
+ta.Dapaa rahaa hai mujhe ( bahakaa rahaa hai mujhe ) \-2
+zindagii ye zindagii ban ga_ii hai bebasii \-2
+ye sard aahe.n merii ye dard teraa sanam
+%
+#endindian
+\endsong
+

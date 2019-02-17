@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aajakal lagataa nahii.n dil aajakal}%
+\film{Shohrat}%
+\year{1996}%
+\starring{Avinash Wadhawan, Sudesh Berry, Madhu, Varsha Usgaonkar}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Nikhil Vinay}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aajakal lagataa nahii.n dil aajakal
+jabase hai pyaar hu_aa dil bekaraar hu_aa
+man me.n hai har pal halachal
+aajakal lagataa nahii.n \threedots
+
+haal hogaa aisaa jo hotii khabar ye
+kabhii na milaate tumase nazar ye
+tere kyaa hu_e sanam ham na rahe ham
+aasaar mere ga_e badal ga_e badal aajakal
+aajakal lagataa nahii.n \threedots
+
+apanaa hii dil ho gayaa hai paraayaa
+jabase hai tumane apanaa banaayaa
+sapane gulaabii hai.n aramaa.n sharaabii hai.n
+mahakaa lage hai har pal har pal aajakal
+aajakal lagataa nahii.n \threedots
+%
+#endindian
+\endsong
+

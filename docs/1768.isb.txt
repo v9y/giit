@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum kamsin ho, naadaa.N ho}%
+\film{Aayi Milan Ki Bela}%
+\year{1964}%
+\starring{Rajendra Kumar}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator:
+%
+\printtitle
+#indian
+%
+tum kamsin ho, naadaa.N ho, naazuk ho, bholii ho
+sochataa huu.N mai.n ki tumhe.n pyaar naa karuu.N
+
+mad_hosh adaa ye alha.Dapan
+bachapan to abhii biitaa hii nahii.n
+ehasaas hai kyaa aur kyaa hai ta.Dap
+is soch me.n dil Duubaa hii nahii.n
+
+tum aahe.n bharo aur shikave karo
+ye baat hame.n ma.nzuur nahii.n
+tum taare gino aur nii.nd u.De
+vo raat hame.n ma.nzuur nahii.n
+
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,52 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa_ii re ghir ghir pahalii pahalii baadariyaa}%
+\film{Miss Mary}%
+\year{1957}%
+\starring{Meena Kumari, Gemini Ganesan, Kishore, Jamuna, Om Prakash}%
+\singer{Geeta, Chorus}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+gii \:	aa_ii re ghir ghir pahalii pahalii baadariyaa \-2
+	aaj sakhii jhukii jhukii kyuu.N hai najariyaa
+	
+ko \:	aa_ii re ghir ghir pahalii pahalii baadariyaa \-2
+	aaj sakhii jhukii jhukii kyuu.N hai najariyaa
+	aa_ii re
+
+gii \:	ma.ngal manaa_o rii, dii jalaa_o rii
+	gorii ko chandan kaa Tiikaa lagaa_o rii
+
+ko \:	ma.ngal manaa_o rii, dii jalaa_o rii
+	gorii ko chandan kaa Tiikaa lagaa_o rii
+
+gii \:	saj dhaj ke jhuule pe baiThii suhaagan
+	a.nganaa me.n chhup chhup ke dekhe.n sa.Nwariyaa
+
+ko \:	aa_ii re ghir ghir pahalii pahalii baadariyaa \-2
+	aaj sakhii jhukii jhukii kyuu.N hai najariyaa
+	aa_ii re
+
+gii \:	chun chun ke kaliyaa banaa_o rii palanaa
+	aane hii waalaa hai chhoTaa saa lalanaa
+
+ko \:	chun chun ke kaliyaa banaa_o rii palanaa
+	aane hii waalaa hai chhoTaa saa lalanaa
+
+gii \:	mil jul ke gorii kii god bharaa_o re \-2
+	phuulo.n se bhar do gulaabii chunariyaa
+
+ko \:	aa_ii re ghir ghir pahalii pahalii baadariyaa \-2
+	aaj sakhii jhukii jhukii kyuu.N hai najariyaa
+	aa_ii re
+
+#endindian
+\endsong

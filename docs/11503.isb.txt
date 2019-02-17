@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{mujhe mil ga_ii hai mohabbat kii ma.nzil}%
+\film{First Love}%
+\year{1961}%
+\starring{Mehmood, Naaz}%
+\singer{Mukesh}%
+\music{Duttaram}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10176 [V S Rawat]
+% Transliterator: 
+% Comments: independentaly posted by Srinivas Ganti
+% 
+\printtitle
+#indian
+%
+( mujhe mil ga_ii hai mohabbat kii ma.nzil
+ko_ii puuchh le ye mere hamasafar se ) \-2
+mujhe mil ga_ii hai \threedots
+
+nazar se nazar kaa ba.Daa faasalaa thaa
+magar aaj dil ke qarii.n ho ga_e ho
+( tumhe.n maine dekhaa jo dil kii nazar se
+merii bhii nazar me.n hasii.n ho ga_e ho ) \-2
+mujhe mil ga_ii hai \threedots
+
+mere haath me.n yuu.N teraa haath aayaa
+ke gulashan me.n jaise bahaar aa ga_ii ho
+( magar haath se yuu.N khi.nchaa haath teraa
+mai.n samajhaa kalii ko_ii sharamaa ga_ii ho ) \-2
+mujhe mil ga_ii hai \threedots
+
+jise sunakar dil kii hu_ii tez dha.Dakan
+mujhe aaj aisii kahaanii milii hai
+( niGaaho.n se chaahe n niGaahe.n milii naa
+mohabbat kii lekin nishaanii milii hai ) \-2
+mujhe mil ga_ii hai \threedots
+%
+#endindian
+\endsong
+

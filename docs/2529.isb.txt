@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aur hai dil kii lagii aur dil kaa lagaanaa aur hai}%
+\film{Raagrang}%
+\year{1952}%
+\starring{}%
+\singer{Talat}%
+\music{Roshan}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aur hai dil kii lagii aur dil kaa lagaanaa aur hai
+ye kahaanii aur hai aur vo fasaanaa aur hai
+aur hai dil kii lagii
+
+ruuTh ke jo chal diyaa kyaa khabar usako bhalaa
+yaad rakahanaa aur hai aur bhuul jaanaa aur hai
+aur hai dil kii lagii \threedots
+
+jo taraanaa lab pe aayaa vo to sab ne sun liyaa
+rah gayaa jo dil hii dil me.n vo taraanaa aur hai
+aur hai dil kii lagii \threedots
+
+haay kis khuubii se luuTaa bevafaa taqadiir ne
+terii barabadii kaa ai dil har fasaanaa aur hai
+aur hai dil kii lagii \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{maanaa ho tum, behad hasii.n, aise bure, ham bhii nahii.n}%
+\film{Toote Khilone}%
+\year{1978}%
+\starring{Shekhar Kapoor, Shabana Azmi, Utpal Dutt}%
+\singer{Yesudas}%
+\music{Bappi Lahiri}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+maanaa ho tum, behad ha.nsii.n
+aise bure, ham bhii nahii.n
+dekho kabhii to, pyaar se
+Darate ho kyuu.N, iqaraar se
+
+khulataa nahii.n, kuchh dilarubaa
+tum hamase khush ho, yaa ho khafaa
+tirachhii nazar, tiikhii adaa
+lagate ho kyuu.N, bezaar se
+dekho kabhii to, pyaar se \threedots
+
+tum do kadam, do saath agar
+aasaan ho jaaye safar
+chho.Do bhii ye, duniyaa kaa Dar
+to.Do na dil yuu.N, inakaar se
+dekho kabhii to, pyaar se \threedots
+%
+#endindian
+\endsong
+%

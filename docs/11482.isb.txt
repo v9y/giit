@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{dekhe.n bhii to kyaa dekhe.n ... hamane tumhe.n paa liyaa}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Lata, Udit Narayan, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n dekhe.n bhii to kyaa dekhe.n tumhaare sivaa
+chaahe.n bhii to kyaa chaahe.n tumhaare sivaa
+soche.n bhii to kyaa soche.n tumhaare sivaa
+maa.nge.n bhii to kyaa maa.nge.n tumhaare sivaa
+hamane tumhe.n paa liyaa o ji.nd jaaN maahiyaa
+ho dekhe.n bhii to kyaa \threedots
+
+terii chuu.Diyo.n se sadaa aa rahii hai
+zaraa sii ye duurii bhii ta.Dapaa rahii hai
+ye kyaa kah rahii hai paayal kii chhamachham
+sanam aa gayaa hai mohabbat kaa mausam
+hamane tumhe.n paa liyaa \threedots
+
+tumhe.n furasato.n me.n rab ne banaayaa
+bhulaa ke jahaa.n tumako jaa.n me.n basaayaa
+terii khushbu_e.n hai.n mahakatii ye saa.Nse.n
+teraa aa_iinaa hai.n merii dono.n aa.Nkhe.n
+sanam dono.n aa.Nkhe.n
+dekhe.n bhii to kyaa \threedots
+
+tumhe.n dekhane se sanam dard jaa_e
+tere baaju_o.n me.n hame.n chain aa_e
+ye kyaa ho gayaa dil sa.mbhaale na sa.mbhale
+terii garmiyo.n se meraa jism pighale
+hamane tumhe.n paa liyaa \threedots
+
+sanam hamane baa.Ndhaa ye janmo.n kaa ba.ndhan
+tumhaare li_e hai hamaaraa ye jiivan
+baraso.n kii maa.ngii du_aa ra.ng laa_ii
+tum kyaa mile mil ga_ii ye khudaa_ii
+haa.n ye khudaa_ii
+o dekhe.n bhii to kyaa \threedots
+%
+#endindian
+\endsong
+

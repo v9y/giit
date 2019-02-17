@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saa.Nvare, saa.Nvare}%
+\film{Anuradha}%
+\year{1960}%
+\starring{Leela Naidu, Balraj Sahani}%
+\singer{Lata}%
+\music{Pt. Ravishankar}%
+\lyrics{Shailendra}%
+%
+% Contributor : Surajit Bose
+% Transliterator : Surajit Bose
+% Credits :
+% Comments :
+%
+\printtitle
+#indian
+%
+
+saa.Nvare, saa.Nvare, jaao, saa.Nvare, saa.Nvare
+kaahe mose karo jora jorii, bai.nyaa.N naa maro.Do morii
+duu.Ngii duu.Ngii gaarii haTo jaao jii, saa.Nvare \threedots
+
+sa.ng na sahelii, pa_ike akeli
+ab na jaa he more shaam
+roko na Dagar morii, aa~ saa.Nvare \threedots
+
+gopii gvaale dekhanevaale
+bina vichaare kahe.nge saare
+paka.Dii raadhaa kii chorii, aa~ saa.Nvare \threedots
+
+muralii bajaao, ga_iyaa.N charaao
+hamarii gvail chho.Do he chhail
+milo jab aave horii, aa~ saa.Nvare \threedots
+
+%
+#endindian
+\endsong
+%

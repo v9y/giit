@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{bhagavaan ik qusuur kii itanii ba.Dii sazaa}%
+\film{Gehra Daagh}%
+\year{1963}%
+\starring{Rajendra Kumar, Mala Sinha, Usha Kiran, Madan Puri, Lalita Pawar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10699 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bhagavaan ik qusuur kii itanii ba.Dii sazaa
+duniyaa terii yahii hai to duniyaa se mai.n chalaa
+bhagavaan ik qusuur \threedots
+
+duniyaa ke zaalimo.n ne chalaa_ii.n vo aa.Ndhiyaa.N
+saare chiraaG bujh ga_e mai.n dekhataa rahaa
+duniyaa terii yahii hai \threedots
+
+mai.n ye samajh rahaa thaa mere daaG dhul ga_e
+hogaa kuchh aur Kuun\-e\-jigar ye pataa na thaa
+duniyaa terii yahii hai \threedots
+
+mujh saa badanasiib na hogaa jahaan me.n
+jo bhii milaa usii ne gunahagaar hii kahaa
+duniyaa terii yahii hai \threedots
+%
+#endindian
+\endsong
+

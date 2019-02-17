@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jab chhaaye meraa jaaduu, koii bach na paaye}%
+\film{Loot Maar}%
+\year{1980}%
+\starring{Dev Anand, Tina Munim, Rakhee, Kalpana Iyer, Amjad Khan}%
+\singer{Asha}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: Neeraj Deshmukh
+% Transliterator: Vandana V Iyengar
+% Credits:
+% Editor:
+% Comments: The Missing Element #8
+%
+\printtitle
+#indian
+%
+jab chhaaye meraa jaaduu, koii bach na paaye, haay!
+
+phuulo.n kii nam.rii huu.N mai.n
+sholo.n kii gam.rii huu.N mai.n
+tuufaano.n kii halachal huu.N
+havaao.n kaa aa.Nchal huu.N mai.n
+jo Dhuu.NDhe ho, vo hii paaye
+phir bhii haath na aaye, haa!
+jab chhaye   \threedots
+
+kabhii mai.n dad.r jagaatii huu.N
+kabhii mai.n zaKm miTaatii huu.N
+kabhii mai.n raaz chhupaatii huu.N
+kabhii Kud raaz ban jaatii huu.N
+dul TuuTe, ho, sau chhuuTe
+phir bhii tuu piichhe aaye, haa!
+jab chhaaye   \threedots
+
+mujhase tum Takaraanaa na
+aake yahaa.N pachhataanaa na
+meraa badan pighalaa sonaa
+jaan bhii jaaye khabar ho na
+ye mastii, nahii.n sastii
+dilavaalaa hii bolii lagaaye, haa!
+jab chhaye   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jiivan me.n tuu Daranaa nahii.n}%
+\film{Khote Sikke}%
+\year{1974}%
+\starring{Firoz Khan, Narendra Nath, Danny, Ranjit, Sudhir, Paintal, Rehana Sultan}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10780 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+jiivan me.n tuu Daranaa nahii.n
+sar niichaa kabhii karanaa nahii.n
+himmat vaale ko maranaa nahii.n
+ko \:	maranaa nahii.n \-2
+jiivan me.n tuu \threedots
+
+hai saathii tuu apanaa ko_ii duujaa nahii.n
+apanii har mushkil me.n akelaa tuu muskuraa
+jag me.n tuu sabase ba.Daa hai
+dil chhoTaa karanaa nahii.n
+ko \:	karanaa nahii.n \-2
+jiivan me.n tuu \threedots
+
+jiinaa hai to pyaare tuu la.Danaa zindagii se
+aa.Ndhii ho yaa tuufaa.N naa dabanaa kisii se
+jag me.n tuu aage hii ba.Dhanaa
+piichhe qadam dharanaa nahii.n
+ko \:	dharanaa nahii.n \-2
+jiivan me.n tuu \threedots
+%
+#endindian
+\endsong
+

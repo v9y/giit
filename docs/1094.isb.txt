@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n aashiq huu.N bahaaro.n kaa, fizaao.n kaa nazaaro.n kaa}%
+\film{Aashiq}%
+\year{1962}%
+\starring{Raj Kapoor, Nanda, Padmini}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Ikram Ahmad Khan (i-khan@tamu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n aashiq huu.N bahaaro.n kaa
+fizaao.n kaa nazaaro.n kaa
+mai.n mastaanaa musaafir huu.N
+javaa.n dharatii ke a.njaane kinaaro.n kaa
+
+sadiyo.n se jag me.n aataa rahaa mai.n
+nae ra.ng jiivan me.n laataa rahaa mai.n
+har ek des me.n nit nae bhes me.n
+
+kabhii mai.nne ha.Ns ke diipak jalaae
+kabhii ban ke baadal aa.Nsuu bahaae
+meraa rastaa pyaar kaa rastaa
+
+chalaa gar safar ko koii besahaaraa
+to mai.n ho liyaa sa.ng liye ek taaraa
+gaataa huaa dukh bhulaataa huaa
+%
+#endindian
+\endsong
+%

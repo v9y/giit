@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kyo.n zindagii kii raah me.n majabuur ho gae}%
+\film{Saath Saath}%
+\year{1982}%
+\starring{Farooq Sheikh, Deepti Naval}%
+\singer{Chitra Singh}%
+\music{Kuldeep Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kyo.n zindagii kii raah me.n majabuur ho gae
+itane hue kariib ki ham duur ho gae
+
+aisaa nahii.n ki hamako koii bhii khushii nahii.n
+lekin ye zindagii to koI zindagii nahii.n
+kyo.n isake faisale hame.n ma.nzuur ho gae, 
+itane hue \threedots
+
+paayaa tumhe.n to hamako lagaa tumako kho diyaa
+ham dil pe roe aur ye dil ham pe ro diyaa
+palako.n se Kvaab kyo.n gire kyo.n chuur ho gae,
+itane hue \threedots
+%
+#endindian
+\endsong
+%

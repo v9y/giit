@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aag lag jaa_e kahii.n par to dhu_aa.n uThataa hai}%
+\film{Akelaa}%
+\year{1991}%
+\starring{Amitabh, Amrita, Jackie, Meenakshi, Aditya, Kiran Juneja, Shashi Kapoor}%
+\singer{Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aag lag jaa_e kahii.n par to dhu_aa.n uThataa hai
+u.D jaatii hai khabar ishq ho jaaye agar to kahaa.n chhipataa hai
+
+kahate hai.n log mohabbat me.n
+ye dil jab dil se milataa hai
+ik phuul saa dil me.n khilataa hai
+aag lag jaa_e kahii.n par \threedots
+
+jab saamane vo aa jaa_e to
+ye saa.Ns zaraa ruk jaatii hai
+ye aa.Nkh zaraa jhuk jaatii hai
+besabab yuu.n hii ye sar aise kahaa.n jhukataa hai
+aag lag jaa_e kahii.n par \threedots
+
+is ishq kii kyaa taariif karuu.n
+dil kaa ik aramaan hai ye
+aramaan nahii.n tuufaan hai ye
+rokane se bhii ye tuufaan kahaa.n rukataa hai
+aag lag jaa_e kahii.n par \threedots
+%
+#endindian
+\endsong
+

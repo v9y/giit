@@ -1,0 +1,47 @@
+% 
+\startsong 
+\stitle{kahaa.N chho.D ke chalaa hai tuu}% 
+\film{Anjaan}% 
+\year{1956}% 
+\starring{Vyjayantimala, Pradeep Kumar}% 
+\singer{Lata}% 
+\music{Hemant}% 
+\lyrics{Rajinder Krishan}% 
+%
+% Contributor: Srinivas Ganti 
+% Transliterator: Srinivas Ganti 
+% Credits: 
+% Date: January 15, 2002
+% Comments: LATAnjali series
+%
+\printtitle 
+#indian 
+%
+
+(kahaa.N chho.D ke chalaa hai tuu
+ye phuulo.n bharii raahe.n 
+mere desh kii havaae.n paradesiyaa)\-2
+zaraa mu.D ke to dekh, khoii khoii ye nigaahe.n merii 
+ThaNDii ThaNDii aahe.n paradesiyaa
+haay! kahaa.N chho.D ke chalaa hai
+
+(sai.nyaa maan naa maan meraa dil anajaan
+bhuulaa duniyaa kaa pyaar tere pyaar me.n)\-2
+mai.n ne chhup chhup haay din raat banaaye 
+miiThe sapano.n ke haar tere pyaar me.n
+zaraa mu.D ke to dekh, khoii khoii nigaahe.n merii
+suunii suunii baahe.n paradesiyaa
+haay! kahaa.N chho.D ke chalaa hai \threedots
+
+(tuu jo lauT ke aaye mujhe mukha.Daa dikhaaye 
+to mai.n akhiyaa.N bichaauu.N terii raah me.n)\-2
+bas ek baar merii sun jaa pukaar 
+mai.n to jal jal jaa_uu.N terii chaah me.n
+zaraa mu.D ke to dekh, khoii khoii ye nigaahe.n
+haay! ro bhii naa paaye paradesiyaa
+haay! kahaa.N chho.D ke chalaa hai \threedots
+
+%
+#endindian
+\endsong
+%

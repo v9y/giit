@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{chehare se zaraa aa.Nchal jab aapane sarakaayaa}%
+\film{Ek Baar Muskuraa Do}%
+\year{1972}%
+\starring{Deb Mukherjee, Joy Mukherjee, Tanuja}%
+\singer{Mukesh, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #10517 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	chehare se zaraa aa.Nchal jab aapane sarakaayaa
+	duniyaa ye pukaar uThii lo chaa.Nd nikal aayaa
+	chehare se zaraa \threedots
+
+	maanaa ke vo hiiraa ho mushkil se jo haath aa_e
+	itanaa bhii na ta.Dapaa_o ke jaan nikal jaa_e
+	chho.Do jii
+aa \:	naa naa
+mu \:	ye jhaga.De
+aa \:	naa naa
+mu \:	chho.Do jii ab ye jhaga.De ek baar muskaraa do
+	taqadiir hai kyaa apanii maine jo tumhe.n paayaa
+	duniyaa ye pukaar \threedots
+
+aa \:	vaise to mujhe tum par puuraa hii bharosaa hai
+	par kaise bhulaa duu.N mai.n aa.Nkho.n ne jo dekhaa hai
+	chhe.Doge
+mu \:	taubaa
+aa \:	dil to.Doge
+mu \:	taubaa
+aa \:	chhe.Doge dil to.Doge ek baar muskaraa do
+mu \:	bas itanii shiqaayat par kitanaa mujhe ta.Dapaayaa
+	duniyaa ye pukaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tujhe kyaa sunaauu.N mai.n dilarubaa, tere saamane meraa haal hai}%
+\film{Aakhri Daao}%
+\year{}%
+\starring{Shekhar, Nutan}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tujhe kyaa sunaaU.N mai.n dilarubaa
+tere saamane meraa haal hai
+terii ik nigaah kii baat hai
+merii zi.ndagii kaa savaal hai
+
+merii har Kushii tere dam se hai
+merii zi.ndagii tere Gam se hai
+tere dard se rahe beKabar
+mere dil kii kab ye mazaal hai
+
+tere husn par hai merii nazar
+mujhe subah shaam kii kyaa Kabar
+merii shaam hai terii justajuu
+merii subaha teraa Kayaal hai
+
+mere dil jigar me.n samaa bhii jaa
+rahe kyo.n nazar kaa bhii faasalaa
+ke tere baGair o jaan\-e\-jaa.n
+mujhe zi.ndagii bhii muhaal hai
+%
+#endindian
+\endsong
+%

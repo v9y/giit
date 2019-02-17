@@ -1,0 +1,70 @@
+%
+\startsong
+\stitle{achchhaa jii mai.n haarii, chalo maan jaao naa}%
+\film{Kaala Paani}%
+\year{1958}%
+\starring{Dev, Madhubala}%
+\singer{Rafi, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aashaa:  achchhaa jii mai.n haarii,  chalo maan jaao naa
+rafii:  dekhii sabakii yaarii,  meraa dil jalaao naa
+
+%aashaa:  achcha jii main haari
+%    chalo maan jao naaaa
+%rafii:  dekhi sabki yaari
+%    mera dil jalao naaa
+%
+aashaa:  (chhoTe se qusuur pe,  aise ho khafaa  
+rafii:  ruuThe to huzuur the,  merii kyaa khataa   )  \- 2
+aashaa:  dekho dil naa to.Do
+rafii:  chho.Do haath chho.Do
+aashaa:  dekho dil na to.Do
+rafii:  are! chho.Do haath chho.Do
+aashaa:  chho.D diyaa to haath maloge samajhe?
+rafii:  ajii samajhe!
+
+%aashaa:  achcha jii main haari
+%    chalo maan jao naaaa
+%rafii:  dekhi sabki yaari
+%    mera dil jalao naaa
+aashaa: (jiivan ke ye raaste,  lambe hai.n sanam 
+rafii:  kaaTe.nge ye zi.ndagii, Thokar khaake ham    )  \- 2
+aashaa:  oy! zaalim saath dele
+rafii:  achchhe ham akele
+aashaa:  zaalim saath dele
+rafii:  are achchhe ham akele
+aashaa:  chaar kadam bhii chal na sakoge samajhe?
+rafii:  haa.N samajhe!
+
+%aashaa:  achcha jii main haari
+%    chalo maan jao naaaa
+%rafii:  dekhi sabki yaari
+%    mera dil jalao naaa
+%
+aashaa: (jaao rah sakoge naa tum bhii chain se   
+rafii:  tum to khair luuTanaa jiineke maze          )  \- 2
+aashaa:  kyaa karanaa hai jiike
+rafii:  ho rahanaa kisii ke
+aashaa:  kyaa karanaa hai jiike
+rafii:  are, ho rahanaa kisii ke
+aashaa:  ham naa rahe to yaad karoge,  samajhe?
+rafii:  samajhe!
+
+aashaa:  achchhaa jii mai.n haarii,  chalo maan jaao naa
+rafii:  dekhii sabakii yaarii,  meraa dil jalaao naa
+%
+#endindian
+\endsong
+%

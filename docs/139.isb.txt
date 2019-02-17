@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ab tere bin jii le.nge ham, zahar zindagii kaa pii le.nge ham}%
+\film{Aashiqui}%
+\year{}%
+\starring{Rahul Roy, Anu Agarwal, Deepak Tijori}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer, Rani Mallik}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ab tere bin jI le.nge ham
+zahar zindagI kaa pI le.nge ham
+kyaa huaa jo ek dil TuuT gayaa
+kyaa huaa jo ek dil TuuT gayaa \threedots
+
+ab tere bin jI le.nge ham
+zahar zindagI kA pii le.nge ham \threedots
+
+terI aashiqI bhI ye kyaa ra.ng lAI
+vafaa maine kii tuune kii bevafaaI
+merI bhuul thii mai.n ye kyaa chAhataa thaa
+kisii bevafaa se vafaa chAhataa thaa
+tU jAne kyaa beqaraarii
+bedard, bemuravvat
+jaa sa.ngadil hasInaa
+dekhii terI muhabbat
+ab maine jaanaa tujhako beraham \threedots
+ab tere bin jI le.nge ham
+zahar zindagI kA pii le.nge ham \threedots
+
+sanam to.D detaa muhabbat ke vaade
+agar jaan jaataa mai.n tere iraade
+kise mai.nne chaahA
+kahaa.N dil lagaayaa
+mai.n naadaan thaa kuchh samajh hii na paayaa
+mere aa.Nsuo.n ke motii
+aa.Nkho.n se bahataa paanii
+mere TuuTe dil ke Tuka.De
+tere pyaar kii nishAnii
+kaise mai.n bhUluu.ngaa tere sitam
+
+ab tere bin jI le.nge ham
+zahar zindagI kaa pii le.nge ham
+kyaa huaa jo ek dil TuuT gayaa \- 2
+ab tere bin jI le.nge ham
+zahar zindagI kA pii le.nge ham
+jI le.nge ham \threedots \- 4
+%
+#endindian
+\endsong
+%

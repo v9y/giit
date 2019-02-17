@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{yaaro.n mai.n paagal ho gayaa ... mai.n huu.N afalaatuun}%
+\film{Aflaatoon}%
+\year{1997}%
+\starring{Akshay Kumar, Urmila, Anupam, Sazia Mullick, Farida, Rajesh Joshi}%
+\singer{Vinod Rathod}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaaro.n mai.n paagal ho gayaa ho gayaa
+dekho mai.n ghaayal ho gayaa ho gayaa
+galii galii me.n tujhe Dhuu.nDh rahaa naam pataa teraa puuchh rahaa
+kis ##number## pe karuu.n ##telephone##
+dil me.n talaash terii chehare pe junuun
+afalaa afalaa afalaatuun afalaatuun mai.n huu.N afalaatuun
+
+aisaa lagataa hai vo kahii.n pe chhupii hu_ii
+merii kismat kii gaa.Dii kahii.n pe rukii hu_ii
+vo mil jaa_e to aa jaa_e dil ko zaraa sukuun
+afalaa afalaa afalaatuun \threedots
+
+mai.n huu.N afalaatuun ye hai afalaatuun
+
+apanii zulfo.n ko merii za.njiir banaa de
+merii jaan kii paravaah na kar tiir chalaa de
+maaf kiyaa jaa tujhako qaatil maine apanaa khuun
+afalaa afalaa afalaatuun \threedots
+
+gorii ho yaa kaalii ho yaa ko_ii bhii chalegii
+par vo paise vaalii ho ko_ii bhii chalegii
+mujhako kyaa vo saa.Dii pahane yaa pahane pataluun
+afalaa afalaa afalaatuun \threedots
+%
+#endindian
+\endsong
+

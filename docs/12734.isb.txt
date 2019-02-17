@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{dil thaam chale ham aaj kidhar ko_ii dekhe}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Rafi}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10247 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+dil thaam chale ham aaj kidhar ( ko_ii dekhe ) \-2
+bechain jigar betaab nazar ( ko_ii dekhe ) \-2
+
+bhiigii sii havaa kalii sii ghaTaa detii hai terii zulfo.n kaa pataa o ho aa haa
+mausam hai hasii.n kyo.n naa ho yaqii.n ab duur nahii.n vo jaan\-e\-vafaa
+namaqiin samaa.N ra.ngiin safar ( ko_ii dekhe ) \-2
+dil thaam chale ham \threedots
+
+?
+choTii pe vahaa.N ik abr\-e\-javaa.n dekho to zaraa kyo.n jhukane lagaa
+mausam kii sharaarat kaa ma.nzar ( ko_ii dekhe ) \-2
+dil thaam chale ham \threedots
+
+yuu.N rel chale naagin kii tarah laharaatii hu_ii balakhaatii hu_ii o ho aa haa
+phuulo.n se bhare in rasto.n pe har mo.D pe ye samajhaatii hu_ii
+ye ishq bhii to hai ik chakkar ( ko_ii dekhe ) \-2
+dil thaam chale ham \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pa.njaabii ku.Dii maare jhaTake ... pa.njaabii mu.nDaa maare jhaTake}%
+\film{Salaakhen}%
+\year{1998}%
+\starring{Sunny, Raveena, Amrish, Manisha, Anupam, Farida, Deven}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekho jii dekho dil meraa dha.Dake sholaa saa ko_ii aa.Nkho.n me.n pha.Dake
+nii.nd churaa_e hosh u.Daa_e isakii adaa_e.n ba.Dii haT ke
+pa.njaabii ku.Dii maare jhaTake
+
+dekho jii dekho kaise aka.D ke baate.n kare merii baahe.n paka.D ke
+mujhako sataa_e nainaa la.Daa_e chhe.De mujhe zid karake
+pa.njaabii mu.nDaa maare jhaTake
+
+daa.nto.n ke niiche u.ngalii dabaa ke diivaanaa kar de ye muskuraa ke
+merii adaa me.n kyo.n aise marataa mere li_e kyo.n aahe.n hai bharataa
+gaal gulaabii chaal sharaabii dekhuu.n ise to aa.Nkh pha.Dake
+pa.njaabii ku.Dii maare jhaTake \threedots
+
+hath lagaa naa dilabarajaanii naadaan samajh naa mai.n huu.N sayaanii
+mirchii ke jaisii bolii ye bole aise chale jaise naagin Dole
+paagal ba.Daa hai piichhe pa.Daa hai taane kase.n sab la.Dake
+pa.njaabii mu.nDaa maare jhaTake \threedots
+%
+#endindian
+\endsong
+

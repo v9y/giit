@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{phir chhi.Dii raat, baat phuulo.n kii}%
+\film{Baazaar}%
+\year{1982}%
+\starring{Supriya Pathak, Farooq Shaikh}%
+\singer{Lata, Talat Aziz}%
+\music{Khaiyyam}%
+\lyrics{Maqdoom Mohiuddin}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu
+% Date: 10/08/1995
+% Credits: Vandana Venkatesan <vvenkate@pcocd2.intel.com> 
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+ma: (phir chhi.Dii raat, baat phuulo.n kii
+fa:  raat hai yaa baaraat phuulo.n kii) \-2
+
+fa: phuul ke hai.n phuul ke gajare \-2
+   shaam phuulo.n kii, raat phuulo.n kii
+
+ma: aapakaa saath\-saath phuulo.n kaa \-2
+   aapakii baat baat phuulo.n kii
+
+fa: phuul khilate rahe.nge duniyaa me.n \-2
+   roz nikalegii baat phuulo.n kii
+
+ma: nazare.n milatii hai.n jaam milate hai.n \-2
+   mil rahii hai hayaat phuulo.n kii
+
+ma/fa: ye mahakatii huii Gazal maKaduu.n \-2
+   jaise saharaa me.n raat phuulo.n kii
+%
+#endindian
+\endsong
+%
+

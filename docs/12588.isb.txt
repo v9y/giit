@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{Tik\-Tik Tik\-Tik chalatii jaa_e gha.Dii}%
+\film{Kal Aaj Aur Kal}%
+\year{1971}%
+\starring{Randhir Kapoor, Raj Kapoor, Prithviraj Kapoor, Babita}%
+\singer{Mukesh, Kishore, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: BOL ANAMOL #11529 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	( Tik\-Tik Tik\-Tik ) \-2 chalatii jaa_e gha.Dii
+	kal aaj aur kal kii pal\-pal ju.Datii jaa_e ka.Dii
+	Tik\-Tik
+aa \:	Tik\-Tik chalatii jaa_e \threedots
+ki \:	Tik\-Tik Tik\-Tik
+aa \:	Tik\-Tik Tik\-Tik
+
+ki \:	nahii.n vaqt ke saath jo chalate piichhe vo rah jaate hai.n
+	apane hii haatho.n se apane ghar me.n aag lagaate hai.n
+	duniyaa badale mausam badale dharatii apanii saa.Dii badale
+	tum badalo paga.Dii
+	kal aaj aur kal kii \threedots
+do \:	chalatii jaa_e gha.Dii \threedots
+
+aa \:	na_e\-puraane aaj aur kal me.n bhed ye kisane Daalaa hai
+	jale diip se diip yahaa.N par sab me.n ek ujaalaa hai
+	ho vaqt nayaa ho raat na_ii ho baat na_ii ho mile jahaa.N par
+	chhoTii su_ii.n se ba.Dii
+	kal aaj aur kal kii \threedots
+	Tik\-Tik Tik\-Tik
+do \:	chalatii jaa_e gha.Dii \threedots
+	haa.N haa.N haa.N
+
+mu \:	ramataa jogii bahataa paanii vaqt kii raam\-kahaanii hai
+	is saagar kii laharo.n jaisii duniyaa aanii\-jaanii hai
+	ise chalaa_e use chalaa_e saare jag ko gha.Dii chalaa_e
+	par Kud rahe kha.Dii
+	kal aaj aur kal kii \threedots
+	haa.N haa.N haa.N
+tii \:	Tik\-Tik Tik\-Tik
+	chalatii jaa_e gha.Dii \threedots
+%
+#endindian
+\endsong
+

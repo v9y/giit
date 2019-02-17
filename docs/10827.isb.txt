@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{bairan nii.nd na aa_e mohe}%
+\film{Chaachaa Zindaabaad}%
+\year{1959}%
+\starring{Kishor Kumar, Anita Guha, Anoop Kumar, Om Prakash, Bhagwan, Jagirdar}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10559 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bairan nii.nd na aa_e \-2
+mohe bairan nii.nd na aa_e
+moraa jiyaa ghabaraa_e
+bairan nii.nd na \threedots
+
+suunii pa.Dii merii palako.n kii galiyaa.N \-2
+kaun khilaa_e ni.ndiyaa kii kaliyaa.N
+apane bhii hai.n paraa_e
+mohe bairan nii.nd \threedots
+
+laakh jatan karuu.N aa.Nkh naa laage \-2
+so ga_ii.n Kushiyaa.N aur Gam jaage
+ghaayal man kit jaa_e
+mohe bairan nii.nd \threedots
+
+yaad aa_e.n jab pyaar kii baate.n \-2
+aur bhii lambii ho jaa_e.n raate.n
+bhor nazar nahii.n aa_e
+mohe bairan nii.nd \threedots
+%
+#endindian
+\endsong
+

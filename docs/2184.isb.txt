@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pal pal more mukh se nikale nis din tero naam more shyaam}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Khaiyyam}%
+\lyrics{Madhukar Rajasthani}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+more shyaam more shyaam
+pal pal more mukh se nikale
+nis din tero naam
+more shyaam more shyaam   \threedots
+
+tere charaN kii mai.n huu.N daasii liijo aa.Nchal thaam
+bhaTak na jaaye jiivan aashaa ghir aayii hai shyaam
+more shyaam, more shyaam   \threedots
+
+daras kii baatii ab to jalaa do Dhuu.NDh phirii nand_gaa.Nv
+man kii muraliyaa vo sur khoje jin me.n base ghanashyaam
+more shyaam, more shyaam   \threedots
+
+ho na sakii mai.n raadhaa terii phir bhii pujaarin huu.N mai.n
+ha.Nsii u.Daaye bR^ij ke baasii priit huii badanaam
+more shyaam, more shyaam   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{kyaa dil ne kahaa kyaa tum ne sunaa}%
+\film{Kyaa Dil Ne Kahaa}%
+\year{2002}%
+\starring{Tushaar Kapoor, Ishaa Deol}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Shanjay Chhail}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+laa laa laa la la la laa la la laa laa la laa
+kyaa dil ne kahaa huu.N
+kyaa dil ne kahaa kyaa tum ne sunaa
+palake.n jhukii hai.n saa.Nse.n rukii hai.n ko_ii hame.n pukaare
+a.njaanii raahe.n thaame.n hai.n baahe.n ham hii nahii.n hamaare
+o yaaraa
+kyaa dil ne kahaa kyaa tum ne sunaa
+
+milate bichha.Date yuu.N chalate chalate ham ho ga_e tumhaare
+kaisaa asar hai ham beKabar hai.n badale hai.n ye sitaare
+o yaaraa \threedots
+
+huu.n tanhaa tanhaa jiite the haa Kud se baate.n karate the haa
+tumasaa ko_ii mil jaa_egaa haa dil pe likhate rahate the haa
+dil pe ye likhate rahate the
+nazare.n churaanaa laage suhaanaa baalii umar hai jaanaa.n
+o yaaraa \threedots
+
+jo dil ne kahaa haa.N maine sunaa
+om premaa_y namaH
+
+o mai.n to bha.Nvaraa huu.N haa kaliyo.n kii karataa chorii haa
+baa.Ndhe kyuu.N priit kii Dorii haa rahane de tho.Dii duurii haa
+rahane de tho.Dii sii duurii 
+are terii tuu jaane maine.n hai.n baa.Ndhe saato.n janam ke dhaage
+o yaaraa \threedots
+%
+#endindian
+\endsong
+

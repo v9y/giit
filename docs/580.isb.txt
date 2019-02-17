@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ehasaan teraa hogaa mujhapar, dil chaahataa hai vo kahane do}%
+\film{Junglee}%
+\year{1961}%
+\starring{Shammi Kapoor, Saira Banu, Shashikala, Lalita PAwar, Anup Kumar}%
+\singer{Rafi / Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ehasaan teraa hogaa mujhapar, dil chaahataa hai vo kahane do
+mujhe tumase muhabbat ho gaI hai mujhe 
+palako.n kii chhaa.No me.n rahane do
+
+(tumane mujhako ha.nsanaa sikhaayaa \- 2)
+rone kahoge ro le.nge ham
+aa.Nsuu kaa hamaare Gam naa karo
+vo bahate hai.n to bahane do \threedots
+
+(chaahe banaa do, chaahe miTaa do \- 2)
+mar bhii gae to de.nge duaae.n
+u.D\-u.D ke kahegii Kaak sanam
+ye dard\-e\-muhabbat sahane do \threedots
+%
+#endindian
+\endsong
+%

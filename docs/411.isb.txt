@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{chiTThii aaii hai aaii hai chiTThii aaii hai}%
+\film{Naam}%
+\year{1986}%
+\starring{Sanjay Dutt, Kumar Gaurav, Amrita Singh, Poonam Dhillon, Nutan}%
+\singer{Pankaj Udhas}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi ?}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Asvinder Singh (SINGHAS@gunet.georgetown.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chiTThii aaii hai aaii hai chiTThii aaii hai \-2
+chiTThii hai vatan se chiTThii aayii hai
+ba.De dino.n ke baad, ham bevatano.n ko yaad \-2
+vatan kii miTTii aaii hai, chiTThii aaii hai \threedots
+
+uupar meraa naam likhaa hai.n, a.ndar ye paigaam likhaa hai.n \-2
+o parades ko jaane vaale, lauT ke phir naa aane vaale
+saat samu.ndar paar gayaa tuu, hamako zi.ndaa maar gayaa tuu
+khuun ke rishte to.D gayaa tuu, aa.Nkh me.n aa.Nsuu chho.D gayaa tuu
+kam khaate hai.n kam sote hai.n, bahut zyaadaa ham rote hai.n, chiTThii \threedots
+
+suunii ho gaI.n shahar kii galiyaa.N, kaa.nTe ban gaI.n baag kii kaliyaa.N \-2
+kahate hai.n saavan ke jhuule, bhuul gayaa tuu ham nahii.n bhuule
+tere bin jab aaii diivaalii, diip nahii.n dil jale hai.n khaalI
+tere bin jab aaii holii, pichakaarii se chhuuTii golii
+piipal suunaa panaghaT suunaa ghar shamashaan kaa banaa namuunaa \-2
+fasal kaTii aaii baisaakhii, teraa aanaa rah gayaa baakii, chiTThii \threedots
+
+pahale jab tuu Kat likhataa thaa kaagaz me.n cheharaa dikhataa thaa \-2
+ba.nd huaa ye mel bhii ab to, khatam huaa ye khel bhii ab to
+Dolii me.n jab baiThii bahanaa, rastaa dekh rahe the nainaa \-2
+mai.n to baap huu.N meraa kyaa hai, terii maa.N kaa haal buraa hai
+terii biivii karatii hai sevaa, suurat se lagatii hai.n bevaa
+tuune paisaa bahut kamaayaa, is paise ne desh chhu.Daayaa
+pa.nchhii pi.njaraa to.D ke aajaa, desh paraayaa chho.D ke aajaa
+aajaa umar bahut hai chhoTii, apane ghar me.n bhii hai.n roTii, chiTThii \threedots
+%
+#endindian
+\endsong
+%

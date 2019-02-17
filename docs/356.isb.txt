@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chain se hamako kabhii, aapane jiine naa diyaa}%
+\film{Praan Jaaye Par Vachan Na Jaaye}%
+\year{1973}%
+\starring{}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Kedar Nahade (ksn2@Lehigh.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: This song actually didn't make it into the movie.
+%
+\printtitle
+#indian
+% 
+chain se hamako kabhii aapane jiine naa diyaa
+zahar bhii chaahaa agar, piinaa to piine naa diyaa
+chain se hamako kabhii
+
+chaa.nd ke rath me.n raat kii dulhan jab jab aaegii
+yaad hamaarii aapake dil ko tarasaa jaaegii
+aapane jo hai diyaa, vo to kisiine naa diyaa
+zahar bhii chaahaa agar, piinaa to piine naa diyaa
+chain se \threedots
+
+aapakaa Gam jo is dil me.n din\-raat agar hogaa
+sochake ye dam ghuTataa hai phir kaise guzar hogaa
+kaash naa hotii apanii judaaI maut hii aa jaatii
+koI bahaane chain hamaarii ruuh to paa jaatii
+ik pal ha.Nsanaa kabhii dil kii lagii ne naa diyaa
+zahar bhii chaahaa agar, piinaa to piine naa diyaa
+%
+#endindian
+\endsong
+%

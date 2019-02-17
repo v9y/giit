@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{mat bhuul are insaan terii nekii\-badii}%
+\film{Mastaanaa}%
+\year{1954}%
+\starring{Motilal, Nigar Sultana, Kuldeep Kaur, Sundar, Chandrashekhar, Gop}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10579 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mat bhuul are insaan
+terii nekii\-badii nahii.n usase chhupii
+sab dekh rahaa bhagavaan
+mat bhuul are \threedots
+
+hai jisane banaayaa miTaa_e vahii
+phuul\-kaa.NTo.n ko sa.ng\-sa.ng khilaa_e vahii
+khel jiivan\-maran kaa rachaa_e vahii
+Daale maaTii ke putale me.n jaan
+mat bhuul are \threedots
+
+jo vidhaataa ne likhii use maan le
+praaN deve vahii aur vahii praaN le
+( tere bas me.n hai kyaa ) \-2 ye zaraa jaan le
+tuu hai nirbal to vo hai balavaan
+mat bhuul are \threedots
+%
+#endindian
+\endsong
+

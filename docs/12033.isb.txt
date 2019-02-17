@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{terii yaad me.n paagal ... haare haare haare ham to dil se haare}%
+\film{Josh}%
+\year{2000}%
+\starring{Shahrukh Khan, Aishwarya Rai, Chandrachud Singh, Sharad Kapoor, Priya Gil}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii yaad me.n paagal pal pal rotaa hai
+bin tere naa jaage ye na sotaa hai
+aksar tanhaa_ii me.n tujhe pukaare
+naa zor dil pe chale
+haare haare haare ham to dil se haare
+terii yaad me.n \threedots
+
+ab jaane ham ye pyaar kyaa hai
+dard\-e\-jigar mushqil ba.Daa hai
+sunataa nahii.n kahanaa ko_ii bhii
+dil bekhabar zid pe a.Daa hai
+samajhaa_uu.n kaise ise jaan\-e\-jaa.n
+haare haare haare ham to \threedots
+
+har aa_iinaa TuuTaa lage hai
+sach bhii hame.n jhuuThaa lage hai
+jaane kahaa.n ham aa ga_e hai.n
+saaraa jahaa.n ruuThaa lage hai
+kyaa dard dil ne diyaa kyaa kahe.n
+haare haare haare ham to \threedots
+%
+#endindian
+\endsong
+

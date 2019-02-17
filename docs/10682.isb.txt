@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{gorii chalo na ha.ns kii chaal zamaanaa dushman hai}%
+\film{Beti Bete}%
+\year{1964}%
+\starring{Sunil Dutt, B.Saroja Devi, Jamuna}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10968 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	gorii chalo na ha.ns kii chaal zamaanaa dushman hai
+	terii umar hai solah saal zamaanaa dushman hai
+aa \:	kuchh paravaah nahii.n sarakaar zamaanaa dushman ho
+	mujhe tumase hu_aa hai pyaar zamaanaa dushman ho
+
+ra \:	o chaa.Nd sii ujalii hasiinaa tum chho.D do aanaa\-jaanaa
+	rokegaa tumhaarii raahe.n ham jaisaa ko_ii diivaanaa
+aa \:	ko_ii laakh lagaa_e pahare mai.n pahare to.D ke aa_uu.N
+	huu.N tere milan kii pyaasii mai.n duniyaa chho.D ke aa_uu.N
+
+ra \:	ye ishq hai aag kaa dariyaa tum soch\-samajh ke utaranaa
+	hai.n isame.n hazaaro.n tuufaa.N aasaan nahii.n hai guzaranaa
+aa \:	jab pyaar kaa ba.ndhan baa.Ndhaa phir aag ho yaa ho paanii
+	Dar jaa_e vo kaisii ulfat jal jaa_e vo kaisii javaanii
+ra \:	gorii chalo na \threedots
+%
+#endindian
+\endsong
+

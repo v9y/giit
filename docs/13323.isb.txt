@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{madabharii rut jawaan hai}%
+\film{Nartaki}%
+\year{1940}%
+\starring{Leela Desai, Najan, Jagdish Sethi}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{Munshi Aarzoo}%
+%
+% Contributor: BOL ANAMOL #12146 [V S Rawat]
+%
+\printtitle
+#indian
+%
+madabharii rut jawaan hai \-2
+rut jawaan hai
+gaal ra.ng bhare man uma.ng bhare \-2
+aa.Nkh ras Tapakaaye
+rut jawaan hai
+madabharii rut jawaan hai
+
+Daal kii lachak paat kii lahak phuul kii mahak lalachaaye \-2
+yuu.N bich balamaa
+yuu.N bich balamaa duur dikhaaye kalii\-kalii musakaaye
+madabharii rut jawaan hai
+
+chanchal ruup damakatii daamin lalachaa kar tarasaaye \-2
+isii lagan me.n
+aisaa Duube
+isii lagan me.n aisaa Duube aap bhii gum ho jaaye
+rut jawaan hai
+madabharii rut jawaan hai
+%
+#endindian
+\endsong
+

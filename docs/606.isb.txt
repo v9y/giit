@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{gaae jaa giit milan ke tuu apanii lagan ke, sajan ghar jaanaa hai}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+gaae jaa giit milan ke, tuu apane lagan ke
+sajan ghar jaanaa hai
+
+kaahe chhalake naino.n kii gagarii kaahe barase jal
+tum bin suunii saajan kii nagarii paradesiyaa ghar chal
+pyaase hai.n diip nayan ke, tere darshan ke
+sajan ghar\threedots
+
+luT na jaae jiivan kaa Dheraa mujhako hai ye Gam
+ham akele, ye jag luTeraa bichha.De.n na milake ham
+biga.De nasiib na banake ye din jiivan ke
+sajan ghar\threedots
+
+Dole nayanaa priitam ke dvaare milane kii ye dhun
+baalam teraa tujhako pukaare yaad aanevaale sun
+saathii mile.nge bachapan ke khile.nge phuul man ke
+sajan ghar\threedots
+%
+#endindian
+\endsong
+%

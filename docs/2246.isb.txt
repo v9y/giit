@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye kis kaa tasavvur hai, ye kis kaa fasaanaa hai}%
+\film{non-Film}%
+\year{1970}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{Jagjit Singh}%
+\lyrics{Jigar Moradabadi}%
+%
+% Contributor: U V Ravindra
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ye kis kaa tasavvur hai, ye kis kaa fasaanaa hai
+jo ashq hai.n aa.Nkho.n me.n, tas_biih kaa daanaa hai
+
+% [tasawwur: imagination/dream/memory/thought]
+% [fasaanaa: story/anecdote/description]
+% [tasbiiH ka daanaa: rosary beads]
+
+aa.Nkho.n me.n namii sii hai, chup\-chup se voh baiThe hai.n
+naazuk sii nigaaho.n me.n naazuk saa fasaanaa hai
+
+ye ishq nahii.n aasaa.N, itanaa to samajh liije
+ik aag kaa dariyaa hai, aur Duub ke jaanaa hai
+
+yaa vo the Kafaa ham se, yaa ham hai.n Kafaa un se
+kal un kaa zamaanaa thaa, aaj apanaa zamaanaa hai
+
+%
+#endindian
+\endsong
+%

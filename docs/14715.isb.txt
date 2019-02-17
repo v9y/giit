@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{huu.N jalataa hai jiyaa meraa bhiigii\-bhiigii raato.n me.n}%
+\film{Zakhmee}%
+\year{1975}%
+\starring{Sunil Dutt, Asha Parekh, Reena Roy, Rakesh Roshan, Johny Walker}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Gauhar Kanpuri}%
+%
+% Contributor: BOL ANAMOL #10078 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	huu.N jalataa hai jiyaa meraa bhiigii\-bhiigii raato.n me.n
+	aajaa gorii chorii\-chorii ab to rahaa nahii.n jaa_e re
+	huu.N huu.N ( haay re ) \-3
+	he jalataa hai jiyaa meraa \threedots
+
+aa \:	gulaabii ye pyaale hai.n tere havaale
+	tuu bhii dil kii lagii ko bujhaa le
+	phir naa aa_e kabhii aisii raat \-2
+ki \:	jalataa hai jiyaa meraa \threedots
+
+	pilaa_ii hai tumane jo pyaase ko shabanam
+	dil ke shole bhalaa kaise ho.n kam
+	banake baadal karo barasaat \-2
+ki \:	ho ho jalataa hai jiyaa meraa \threedots
+
+aa \:	naa naa abhii ye fasaanaa hame.n naa sunaanaa
+	dekho raajaa qadam naa ba.Dhaanaa
+	nahii.n chhe.Do aisii vaisii baat \-2
+ki \:	ho jalataa hai jiyaa meraa \threedots
+%
+#endindian
+\endsong
+

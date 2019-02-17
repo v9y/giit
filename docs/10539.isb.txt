@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{husn tumhaaraa kyaa lagataa hai a_ii ya_ii yaa}%
+\film{Bhaai}%
+\year{1997}%
+\starring{Sunil Shetty, Sonali Bendre, Pooja Batra}%
+\singer{Udit Narayan, Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+husn tumhaaraa kyaa lagataa hai a_ii ya_ii yaa
+ruup karaaraa kyaa dikhataa hai a_ii ya_ii yaa
+taariif merii karate ho yaar achchhaa lagataa hai
+mahabuub kaa mahabuubaa ko pyaar achchhaa lagataa hai
+husn tumhaaraa kyaa \threedots
+
+madabharii shokh cha.nchal nigaahe.n ra.ng inake niraale
+narm gulaabii ye lab hai.n tere yaa gulaabo.n ke pyaale
+aise to naa merii zulfe.n sajaa_o
+gaalo.n kii ye laalii yuu.n naa churaa_o
+jaan le legaa jaan\-e\-jaa.n teraa ye muskaanaa
+mere dilabar ko_ii siikhe tujhase yuu.n dil churaanaa
+husn tumhaaraa kyaa \threedots
+
+tuu merii dha.Dakano.n me.n shaamil tuu merii zi.ndagaanii
+bin tere to adhuurii jaanaa merii saarii kahaanii
+aa_o ham dono.n aise kho jaa_e.n
+sapane hamaare ek ho jaa_e.n
+ek duuje se jiivan me.n ham kabhii naa judaa ho.n
+baa.ndh lo tum mujhe apanii baaho.n me.n
+husn tumhaaraa kyaa \threedots
+%
+#endindian
+\endsong
+

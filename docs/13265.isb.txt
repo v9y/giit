@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tere ishq kaa mujhape hu_aa ye asar hai}%
+\film{Naagin}%
+\year{1976}%
+\starring{Sunil Dutt, Reena Roy, Firoz Khan, Mumtaz}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11263 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tere ishq kaa mujhape hu_aa ye asar hai \-2
+	na apanii Kabar hai na dil kii Kabar hai
+aa \:	tere ishq kaa mujhape hu_aa ye asar hai \-2
+	jidhar dekhatii huu.N tuu aataa nazar hai
+
+	mujhe pyaar aisaa tumhaaraa milaa hai
+	ke kaliyo.n ko jaise nazaaraa milaa hai
+ra \:	jo shiishe me.n mujhako ishaaraa milaa hai
+	ke tuufaa.N ko jaise kinaaraa milaa hai
+	terii hii nazar pe ye merii nazar hai
+	tere ishq kaa \threedots
+
+aa \:	ye jii chaahataa hai o mere sanam
+	ke do kii jagah ek ho jaa_e.N ham
+ra \:	tere haath hai maut aur zindagii
+	lo ab aa ga_ii faisale kii gha.Dii
+aa \:	hotaa nahii.n ab to mujhase sabar hai
+	tere ishq kaa \threedots
+ra \:	na apanii Kabar \threedots
+%
+#endindian
+\endsong
+

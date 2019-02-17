@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ham chho.D chale hai.n mahafil ko yaad aaye kabhii to mat ronaa}%
+\film{Ji Chahta Hai}%
+\year{}%
+\starring{Raj Kapoor}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham chho.D chale hai.n mahafil ko yaad aaye kabhii to mat ronaa
+is dil ko tasallii de denaa, ghabaraaye kabhii to mat ronaa
+ham chho.D chale hai.n mahafil ko   \threedots
+
+ek Kvaab saa dekhaa thaa hamane
+jab aa.Nkh khulii vo TuuT gayaa
+ye pyaar agar sapanaa banakar
+ta.Dapaaye kabhii to mat ronaa
+ham chho.D chale hai.n mahafil ko
+
+tum mere Kayaalo.n me.n khokar
+barabaad na karanaa jiivan ko
+jab koii sahelii baat tumhe.n
+samajhaaye kabhii to mat ronaa
+ham chho.D chale hai.n mahafil ko   \threedots
+
+jiivan ke safar me.n tanahaa_ii
+mujhako to na zindaa chho.Degii
+marane kii khabar ai, jaan\-e\-jigar
+mil jaaye kabhii to mat ronaa
+ham chho.D chale hai.n mahafil ko   \threedots
+
+%
+#endindian
+\endsong
+%

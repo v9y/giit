@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{yaad aa rahii hai, terii yaad aa rahii hai}%
+\film{Love Story}%
+\year{}%
+\starring{Kumar Gaurav, Vijayeta}%
+\singer{Amit Kumar, Lata}% 
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Jasjit Singh (jasjit@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: Arati Deo, Neha
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yaad aa rahii hai, terii yaad aa rahii hai
+yaad aane se, tere jaane se, jaan jaa rahii hai
+
+pahale ye na jaanaa, tere baad ye jaanaa pyaar me.n
+jiinaa mushkil kar degaa, ye dil dIvaanaa pyaar me.n
+jaane kaise, saa.Ns ye aise, aa jaa rahii hai
+yaad aa rahii hai  \threedots
+
+ye rut kii ra.ngaraliyaa.n, ye phuulo.n kii galiyaa.n ro pa.Dii.n
+meraa haal sunaa to, mere saath ye kaliyaa.n ro pa.Dii.n
+ek nahii.n tuu, duniyaa aa.NsU, barasaa rahii hai
+yaad aa rahii hai  \threedots
+
+banate banate dulhan, priit hamaarii ulajhan ban gaI
+mere dil kii dha.Dakan, merii jaan kii dushman ban gaI
+kuchh kah kahake, mujhe rah rahake, ta.Dapaa rahii hai
+yaad aa rahii hai  \threedots
+%
+#endindian
+\endsong
+%

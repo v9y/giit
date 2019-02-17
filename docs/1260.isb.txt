@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{muhabbat hii na jo samajhe, vo zaalim pyaar kyaa jaane}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Talat}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+%          Preetham Gopalaswamy (preetham@isr.umd.edu) 
+%
+\printtitle
+#indian
+%
+muhabbat hii na jo samajhe, vo zaalim pyaar kyaa jaane
+nikalatii dil ke taaro.n se, jo hai jha.nkaar kyaa jaane
+muhabbat hii na jo samajhe \threedots
+
+use to qatl karanaa aur ta.Dapaanaa hii aataa hai
+galaa kisakaa kaTaa kyuu.Nkar kaTaa talavaar kyaa jaane \- 2
+muhabbat hii na jo samajhe \threedots
+
+davaa se faayadaa hogaa ki hogaa zahar\-e\-qaatil se 
+% zahar-e-qaatil = killer's poison
+maz.r kii kyaa davaa hai ye koii biimaar kyaa jaane
+muhabbat hii na jo samajhe \threedots
+
+karo fariyaad sar Takaraa_o apanii jaan de Daalo \- 2
+ta.Dapate dil kii haalat husn kii diivaar kyaa jaane \- 2
+muhabbat hii na jo samajhe \threedots
+%
+#endindian
+\endsong
+%

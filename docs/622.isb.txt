@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{Gazab kaa hai din, socho zaraa}% 
+\film{Qayamat Se Qayamat Tak}%
+\year{1988}%
+\starring{Amir, Juhi Chavala}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: Porkey (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+Gazab kaa hai din, socho zaraa 
+ye dIvaanaapan, dekho zaraa 
+tum ho akele, ham bhii akele 
+mazaa aa rahaa hai, qasam se, qasam se 
+
+1) dekh lo, hamako kariib se 
+aaj ham mile hai.n nasiib se 
+ye pal phir kahaa.N 
+aur ye ma.njil phir kahaa.N, Gazab \threedots 
+
+2) kyaa kahuu.N, meraa jo haal hai 
+raat din, tumhaaraa khayaal hai 
+phir bhii, jaan\-e\-jaa.n 
+mai.n kahaa.N aur tum kahaa.N, Gazab \threedots 
+%
+#endindian
+\endsong
+%

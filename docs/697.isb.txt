@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{ham ko dushman kii nigaaho.n se na dekhaa kiijiye}%
+\film{non-Film}%
+\starring{}%
+\singer{Chitra Singh}%
+\music{Jagjit Singh, Chitra Singh}%
+\lyrics{Rais Akhtar}%
+% 
+% Contributor: Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Oct 22 1995
+% Credits: Vinaya (vinaya@subsys.enet.dec.com)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  from the album MEMORABLE GHAZALS
+%
+\printtitle
+#indian
+%
+ham ko dushman kii nigaaho.n se na dekhaa kiijiye
+pyaar hii pyaar hai.n ham, ham pe bharosaa kiijiye
+
+cha.nd yaado.n ke sivaa haath na kuchh aayegaa
+is tarah umr\-e\-guzaraa kaa na piichhaa kiijiye
+
+roshnii auro.n ke aa.Ngan me.n gavaaraa na sahii
+kam se kam apane hii ghar me.n to ujaalaa kiijiye
+
+kyaa Kabar kab vo chale aaye.nge milane ke liye
+roz palko.n pe na_ii shamme.n jalaayaa kiijiye
+%
+#endindian
+\endsong
+%

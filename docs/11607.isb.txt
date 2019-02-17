@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{teraa chikanaa ruup hai aisaa anaar jaise gadariilaa}%
+\film{Ganwaar}%
+\year{1970}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Rafi, Asha}%
+\music{Naushad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10631 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	teraa chikanaa ( ruup hai aisaa ) \-2
+	anaar jaise gadariilaa \-2
+aa \:	chhil jaa_e naa ( haath kahii.n teraa ) \-2
+	badan meraa pathariilaa \-2
+
+ra \:	sun\-sun rii pagalii khaa_e chugalii
+	a.Nkhiyaa.N laaj kii maarii ab tak rahii ku.Nvaarii
+	hoy kaaran kyaa hogaa
+aa \:	mai.n to kab se jiyaravaa haarii piyaa kii pyaarii
+	rahii huu.N ku.Nvaarii\-ku.Nvaarii
+	chhil jaa_e naa haath \threedots
+
+	jisane paka.Dii merii bahiyaa.N
+	vo nyaaraa dekh jale jag saaraa
+	ki tuu bhii jale
+ra \:	kasam tere gaalo.n kii u.Date baalo.n kii
+	jal jaa_egaa ye diivaanaa naa pachhataanaa naa aa.Nsuu bahaanaa
+	mujhase gorii baa.Ndh le Dorii banavaa duu.Ngaa ba.ngalaa
+	jo hogaa ra.ng\-ra.ngiilaa
+	hoy baiThii raaj kare
+aa \:	mai.n ka.ngalii\-ka.ngale kii
+	naa bhuukhii ba.ngale kii
+	jahaa.N mere sajan kaa pheraa pyaar kaa Deraa vahii.n ghar meraa
+	chhil jaa_e naa haath \threedots
+%
+#endindian
+\endsong
+

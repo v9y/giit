@@ -1,0 +1,64 @@
+%
+\startsong
+\stitle{dhiire se aajaa rii a.Nkhiyan me.n}%
+\film{Albela}%
+\starring{Geeta Bali, Bhagwan}%
+\singer{Lata / Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Vijay Kumar
+% Editor:  
+%
+\printtitle
+#indian
+%
+% Comments: An excellent and classic lullaby. The song is in two parts.
+% The duet version is a sadder song. Chitalkar just sings the mukha.Da
+% and Lata sings the two antaraas. The tune is the same for both versions.
+%
+dhiire se aajaa rii a.Nkhiyan me.n
+ni.ndiyaa aajaa rii aajaa, dhiire se aajaa
+chhoTe se nainan kii bagiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+
+o \threedots
+lekar suhaane sapano.n kii kaliyaa.N, sapano.n kii kaliyaa.N
+aake basaa de palako.n kii galiyaa.N, palako.n kii galiyaa.N
+palako.n kii chhoTii sii galiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+dhiire se \threedots
+
+o \threedots
+taaro.n se chhup kar taaro.n se chorii, taaro.n se chorii
+detii hai rajanii cha.Ndaa ko lorii, cha.Ndaa ko lorii
+ha.Nsataa hai cha.Ndaa bhii nindiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+dhiire se \threedots
+
+%Sad / Duet version
+dhiire se aajaa rii a.Nkhiyan me.n
+ni.ndiyaa aajaa rii aajaa, dhiire se aajaa
+chhoTe se nainan kii bagiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+
+o \threedots
+aa.Nkhe.n to sab kii hai.n ik jaisii
+jaisii amiiro.n kii, gariibo.n kii vaisii
+palako.n kii suunii sii galiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+dhiire se \threedots
+
+o \threedots
+jagatii hai a.Nkhiyaa.N sotii hai qismat, sotii hai qismat
+dushman gariibo.n kii hotii hai qismat, hotii hai qismat
+dam bhar gariibo.n kii kuTiyan me.n
+nindiyaa aajaa rii aajaa, dhiire se aajaa
+dhiire se \threedots
+%
+#endindian
+\endsong
+%

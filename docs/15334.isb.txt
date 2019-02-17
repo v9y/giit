@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{faisalaa tumako bhuul jaane kaa}%
+\film{Kehna Usey (Non-Film)}%
+\year{1984}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Niaz Ahmed}%
+\lyrics{Farhat Shahzad}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+faisalaa tumako bhuul jaane kaa
+ik nayaa Kaab hai diiwaane kaa
+
+dil kalii kaa laraz laraz uThaa
+zikr thaa phir bahaar aane kaa
+
+hausalaa kam kisii me.n hotaa hai
+jiit kar Kud hii haar jaane kaa
+
+zi.ndagii kaT ga_ii manaate hu_e
+ab iraadaa hai ruuTh jaane kaa
+
+aap shahazaad kii na fikr kare.n
+wo to aadii hai zaKm khaane kaa
+
+#endindian
+\endsong

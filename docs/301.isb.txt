@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{bhaiyaa mere raakhii ke ba.ndhan ko nibhaanaa}%
+\film{Chhoti Behan}%
+\year{1959}%
+\starring{Balraj Sahni, Nanda, Rehman, Shyama, Mehmood}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/07/1996
+% Credits: Nitin Sharma <nitin@cs.washington.edu>
+%          Neeraj Malhotra <malhotra@bedford.progress.com>
+%          Ashok Dhareshwar <ADhareshwar@worldbank.org> 
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: 
+%
+\printtitle
+#indian
+%
+bhaiyaa mere, raakhii ke ba.ndhan ko nibhaanaa
+bhaiyaa mere, chhoTii bahan ko na bhulaanaa
+dekho ye naataa nibhaanaa, nibhaanaa
+bhaiyaa mere\threedots
+
+ye din ye tyohaar khushii kaa, paavan jaise niir nadii kaa
+bhaa_ii ke ujale maathe pe, bahan lagaae ma.ngal Tiikaa
+jhuume ye saavan suhaanaa, suhaanaa
+bhaiyaa mere\threedots
+
+baa.Ndh ke hamane resham Dorii, tum se vo ummiid hai jo.Dii
+naazuk hai jo daa.Nt (?) ke jaise, par jiivan bhar jaae na to.Dii
+jaane ye saaraa zamaanaa, zamaanaa
+bhaiyaa mere\threedots
+
+shaayad vo saavan bhii aae, jo bahanaa kaa ra.ng na laae
+bahan paraae desh basii ho, agar vo tum tak pahu.Nch na paae
+yaad kaa diipak jalaanaa, jalaanaa
+bhaiyaa mere\threedots
+%
+#endindian
+\endsong
+%
+

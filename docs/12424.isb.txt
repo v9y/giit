@@ -1,0 +1,29 @@
+%
+\startsong
+\stitle{maanaa aaj ghaayal teraa zamiir hai}%
+\film{Krodh/ Blast of Anger}%
+\year{2000}%
+\starring{Sunil Shetty, Rambha, Apurva Agnihotri, Sakshi Shivanand}%
+\singer{Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maanaa aaj ghaayal teraa zamiir hai
+doSh nahii.n teraa doShii merii takadiir hai
+jo na pa.Dh sakaa ko_ii ye vo tahariir hai
+ye jo hai mukaddar ye to patthar pe lakiir hai
+kisane yahaa.N dekhaa kismat kaa lekhaa
+kaun yahaa.N honii ko hone se Taal sakaa
+jaan sakaa hai ye kaun yahaa.N
+le jaa_e kisako nasiib kahaa.N
+%
+#endindian
+\endsong
+

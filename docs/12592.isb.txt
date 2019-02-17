@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{dil machal rahaa hai ra.ng badal rahaa hai}%
+\film{Khaleefaa}%
+\year{1976}%
+\starring{Randhir Kapoor, Rekha, I S Johar, Sonia Sahni}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11576 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+dil machal rahaa hai ra.ng badal rahaa hai
+aag dil me.n lagii hai bujhaa de naa
+abhii samaa nahii.n hai ra.ng jamaa nahii.n hai
+chaar din aur yuu.Nhii bitaa denaa
+dil machal rahaa \threedots
+
+ye beruKii kaisii
+hai.n chaar din is zindagii ke
+do din javaanii ke hai.n vo to
+aa jaa naa mil ke bitaa_e.N sanam
+ye dillagii chho.Do
+ko_ii hame.n agar hame.n dekh legaa to
+Dar hai ki duniyaa ki nazaro.n me.n aise hii rusavaa na ho jaa_e.N ham
+kyaa karegii duniyaa jal maregii duniyaa
+tuu jalan mere dil kii bujhaa denaa
+abhii samaa nahii.n \threedots
+
+aa_uu.Ngii Dolii me.n sajadhaj ke jab ghar piyaa ke kabhii
+to kar lenaa jii bhar ke puure tuu aramaa.N jaan\-e\-jaa.N dil ke sabhii
+dekho ye tanhaa_ii jo hame.n phir milegii tuu lag jaa gale se
+uThaa hai muhabbat kaa tuufaan dil me.n abhii
+tuu maan jaa sai.nyaa ab chho.D de bai.nyaa
+jaage aramaa.N abhii to sulaa de naa
+dil machal rahaa \threedots
+%
+#endindian
+\endsong
+

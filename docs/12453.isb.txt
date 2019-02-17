@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye raat hai ra.ngiilii sharaabii jhuum}%
+\film{Qeemat}%
+\year{1998}%
+\starring{Akshay Kumar, Saif, Raveena, Sonali, Shakti, Anupam, Moushumi}%
+\singer{}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye raat hai ra.ngiilii sharaabii jhuum chhaane lagaa hai nashaa gulaabii jhuum
+mahafil me.n hai jaaduu dil meraa bekaabuu
+ye shaam hai javaanii kii ye maut ke palluu kii
+ye raat hai ra.ngiilii \threedots
+
+a.nkhiyo.n me.n madiraa jism suraahii tuu mayakhaanaa hai
+jisako bhii dekhe apanii nazar se vo diivaanaa hai
+terii mast nazar ne chhu_aa mai.n bhii diivaanaa hu_aa
+merii raato.n ko tuune sajaa diyaa
+tuune mujhako sharaabii banaa diyaa
+are hosh varanaa duu.ngii bhii na tumako ye jaaduu
+ye raat hai ra.ngiilii \threedots
+
+goraa ye badan chi.ngaarii hai sanam kahii.n aag naa lag jaa_e
+man kii chunar abhii ku.nvaarii hai sanam kahii.n daag naa lag jaa_e
+tujhase sharamaa_e kalii teraa charchaa jaanam galii
+ye teraa yauvan nayaa meraa sabr to jaanam gayaa
+mere ruup kii gaagar chhalake pyaas bujhaa jaanaa
+ye raat hai ra.ngiilii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{tuu ja.ngal kii moranii te mai.n baaGaa.n daa mor}%
+\film{Raja Saab}%
+\year{1969}%
+\starring{Shashi Kapoor, Nanda, Naaz}%
+\singer{Rafi, Suman}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11090 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tuu ja.ngal kii moranii te mai.n baaGaa.N daa mor
+	ke luk\-chhup chorii\-chorii
+	aahaa ke luk\-chhup chorii\-chorii
+	chorii\-chorii luk\-chhup aa do baataa.N kar la_i_e
+	baataa.N kar la_i_e mulaaqaataa.N kar la_i_e
+su \:	meraa naam hai chaa.Ndanii te teraa naam chakor
+	ke luk\-chhup chorii\-chorii
+ra \:	aahaa
+su \:	ke luk\-chhup chorii\-chorii
+	chorii\-chorii luk\-chhup aa do baataa.N kar la_i_e
+
+ra \:	( o premanagar ke ham vaasii ) \-2 jag se apanaa kyaa kaam hai
+	ham dono.n ye kyaa jaane.n ye duniyaa kisakaa naam hai
+	( mai.n huu.N baadal baavaraa) \-2 tuu mast ghaTaa ghanaghor
+	ke luk\-chhup chorii\-chorii
+su \:	aahaa
+ra \:	ke luk\-chhup chorii\-chorii \threedots
+su \:	baataa.N kar la_i_e \threedots
+ra \:	tuu ja.ngal kii moranii \threedots
+
+su \:	( chupake\-chupake chhe.Daa kar tuu ) \-2 ye afasaane pyaar ke
+	bulabul se baate.n karate hai.n jaise phuul bahaar ke
+	( sun le ko_ii aur jo ) \-2 to mach jaa_e phir shor
+	ke luk\-chhup chorii\-chorii
+re \:	o_e ho_e
+su \:	ke luk\-chhup chorii\-chorii \threedots
+
+ra \:	( o terii zulfo.n me.n ba.Ndh jaa_uu.N ) \-2 sab za.njiire.n to.D ke
+	terii akkhaa.N vich bas jaa_uu.N saarii duniyaa chho.D ke
+	na TuuTe Dorii saa.Ns kii 
+do \:	naa TuuTe Dorii saa.Ns kii naa TuuTe prem kii Dor
+	ke luk\-chhup chorii\-chorii \threedots
+%
+#endindian
+\endsong
+

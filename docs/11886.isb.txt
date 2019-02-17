@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{saathii hai alabelaa ... hame.n to hai shikavaa mausam se}%
+\film{Hum Matwale Naujawan}%
+\year{1961}%
+\starring{Shekhar, Saeeda Khan, Jivan, Lilian, Mirza Musharraf, Tuntun}%
+\singer{Mukesh}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10123 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+saathii hai alabelaa phir bhii ko_ii akelaa
+kisii se ham kuchh bhii nahii.n kahate
+hame.n to hai shikavaa mausam se
+saathii hai alabelaa \threedots
+
+sunataa nahii.n zamaanaa raahii kaa afasaanaa
+rastaa nayaa ma.nzil na_ii tanhaa hai diivaanaa
+kisii ko kyaa lenaa phir hamase
+hame.n to hai shikavaa \threedots
+
+siine me.n sulagaa_e.n sholaa saa ye havaa_e.n
+phir bhii agar dil se mere daaman ko vo bachaa_e.n
+to ko_ii kyo.n bijalii ban chamake
+hame.n to hai shikavaa \threedots
+
+dil dekhi_e hamaaraa maa.ngaa nahii.n sahaaraa
+inako nahii.n unako nahii.n tumako nahii.n pukaaraa
+to ko_ii kyo.n ulajhe tham tham ke
+hame.n to hai shikavaa \threedots
+%
+#endindian
+\endsong
+

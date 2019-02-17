@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{ham tumhaare hai.n tumhaare sanam}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Udit Narayan, Anuradha Paudwal/ Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+%Part 1:
+%
+ham tumhaare hai.n tumhaare sanam
+jaan\-e\-man mohabbat kii har kasam kii kasam
+naa judaa ho.nge sanam
+ham tumhaare hai.n \threedots
+
+he he laa la laa laa la laa laa la laa
+ho ho ho
+ye suhaane pal ye mulaakaate.n
+ham na bhuule.nge pyaar kii baate.n
+din hai mushkil raat bhaarii
+har gha.Dii hai bekaraarii
+chaahate.n hotii na kam
+ham tumhaare hai.n \threedots
+
+o ho ho ho ho ho o
+tum ko dha.Dakano.n me.n yuu.N basaanaa hai
+apanii palako.n me.n yuu.N chhuupaanaa hai
+jab uThaa_e.N ham nigaahe.n
+tum ko dekhe.n tum ko paa_e.N
+duur jaa_e.N ab na ham
+ham tumhaare hai.n \threedots
+%
+%Part 2:
+%
+bevafaa_ii kaa dard ta.Dapaa_e
+biite lamho.n kii yaad kyuu.N aa_e
+tuune mere dil ko to.Daa
+tanhaa tanhaa mujh ko chho.Daa
+kyuu.N kiyaa aisaa sitam
+ham tumhaare hai.n \threedots
+%
+#endindian
+\endsong
+

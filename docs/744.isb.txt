@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{huzuurevaalaa, jo ho ijaazat, to ham ye saare, jahaa.N se kah de.n}%
+\film{Ye Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Biswajeet, Sharmila Tagore, Mumtaz}%
+\singer{Asha, Usha?}%
+\music{O P Nayyar}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+huzuurevaalaa, jo ho ijaazat, 
+to ham ye saare, jahaa.N se kah de.n
+tumhaarii adaao.n pe marate hai.n ham,
+ye kisane kahaa hai ki Darate hai.n ham
+huzuurevaalaa \threedots
+
+kyo.n na kah de.n mohabbat khudaa hai
+ye haqiiqat nahii.n hai to kyaa hai
+o dil vaale daa.nv lagaa le
+kar diyaa dil ko tere havaale
+ba.Daa lutf chhup chhup ke jalane me.n hai
+mazaa tiir khaake sambhalane me.n hai
+huzuurevaalaa \threedots
+
+dekhiye to zaraa muskuraa ke
+kaun baiThaa hai pahaluu me.n aake
+o dil vaale daa.nv lagaa le
+kar diyaa dil ko tere havaale
+ye niichii nigaahe.n gazab kar gaI.n
+pataa naa chalaa zulm kab kar gaI.n
+huzuurevaalaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{ek pyaasaa tujhe ... baazii kisii ne pyaar kii jiitii yaa haar dii}%
+\film{Nazrana}%
+\year{1961}%
+\starring{Raj Kapoor, Vyjayantimala}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10725 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ek pyaasaa tujhe maiKaanaa di_e jaataa hai
+jaate\-jaate bhii ye nazaraanaa di_e jaataa hai
+
+baazii kisii ne pyaar kii jiitii yaa haar dii
+jaise guzar sakii ye shab\-e\-Gam guzaar dii
+baazii kisii ne \threedots
+
+saahil karegaa yaad usii naamuraad ko
+kashtii Kushii se jisane bha.Nvar me.n utaar dii
+baazii kisii ne \threedots
+
+chal pa.De safar ko to mu.D ke kyaa dekhanaa
+duniyaa ne usako sadaa baar\-baar dii
+baazii kisii ne \threedots
+%
+#endindian
+\endsong
+

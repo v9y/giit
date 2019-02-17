@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tuune meraa duudh piyaa hai tuu bilkul mere jaisaa hai}%
+\film{Aakhiri Raastaa}%
+\year{1986}%
+\starring{Amitabh Bachchan, Sridevi, Jayaprada}%
+\singer{S Janaki, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuune meraa duudh piyaa hai tuu bilkul mere jaisaa hai
+tujhame.n hai khuun meraa tuu bilkul mere jaisaa hai
+
+( maa.N ke laa.D kii tuu hai kahaanii baap ke pyaar kii tuu hai nishaanii \-2
+ham dono.n kaa dhyaan tuu rakhanaa apane ghar kii shaan tuu rakhanaa
+tuu beTe kaa farz nibhaanaa tujhe maine janm diyaa hai
+tuu bilkul mere jaisaa hai \-2
+
+apane bachapan kaa hai ye zamaanaa yaad tuu rakhanaa bhuul na jaanaa
+mere bu.Dhaape kaa tuu hai sahaaraa merii ummiido.n kaa tuu hai sahaaraa
+mere saare kaam tuu karanaa
+uu.Nchaa meraa naam tuu karanaa tujhe meraa naam milaa hai
+tuu bilkul mere jaisaa hai \-2
+%
+#endindian
+\endsong
+

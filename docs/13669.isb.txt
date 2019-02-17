@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jhummak jhummak chal mere haathii}%
+\film{Poonam}%
+\year{1952}%
+\starring{Ashok Kumar, Kamini Kaushal, Asha Mathur, Sajjan}%
+\singer{Lata, Chorus}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11920 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	jhummak jhummak chal mere haathii chal mere haathii
+ko \:	jhummak jhummak chal mere haathii chal mere haathii
+la \:	duulhaa ban ke guDDaa nikalaa piichhe chale baraatii
+ko \:	duulhaa ban ke guDDaa nikalaa piichhe chale baraatii
+	jhummak jhummak chal mere haathii chal mere haathii
+
+la \:	jaldii\-jaldii chal mere bhaa_ii gu.Diyaa kaa ghar duur hai
+ko \:	gu.Diyaa kaa ghar duur hai
+la \:	apane sa.ng to buDDhaa maamaa chalane se majabuur hai
+ko \:	chalane se majabuur hai
+la \:	gu.Diyaa kaa ghar duur hai
+ko \:	gu.Diyaa kaa ghar duur hai
+
+ko \:	hoy
+	jhummak jhummak chal mere haathii chal mere haathii \-2
+la \:	duulhaa ban ke guDDaa nikalaa piichhe chale baraatii
+ko \:	duulhaa ban ke guDDaa nikalaa piichhe chale baraatii
+	jhummak jhummak chal mere haathii chal mere haathii
+%
+#endindian
+\endsong
+

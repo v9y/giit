@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{chalo chale.n maa.N sapano.n ke gaa.Nv me.n}%
+\film{Jaagriti}%
+\year{1954}%
+\starring{Abhi Bhattacharya}%
+\singer{Asha}%
+\music{Hemant}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11649 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+chalo chale.n maa.N sapano.n ke gaa.Nv me.n
+kaa.NTo.n se duur kahii.n phuulo.n kii chhaa.Nv me.n
+chalo chale.n maa.N \threedots
+
+ho rahe ishaare reshamii ghaTaa_o.n me.n
+chalo chale.n maa.N \threedots
+
+aa_o chale.n ham ek saath vahaa.N
+dukh na jahaa.n ko_ii Gam na jahaa.N
+aaj hai nima.ntraN san\-san havaa_o.n me.n
+chalo chale.n maa.N \threedots
+
+rahanaa mere sa.ng maa.N har dam
+aisaa na ho ki bichha.D jaa_e.N ham
+ghuumanaa hai hamako duur kii dishaa_o.n me.n
+chalo chale.n maa.N \threedots
+%
+#endindian
+\endsong
+

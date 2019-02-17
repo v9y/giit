@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{o nadiyaa chale chale re dhaaraa}% 
+\film{Safar}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Manna De}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Ramesh Hariharan (hariharn@tucson.Princeton.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Prince, Satish
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Obviously one of my all-time favourites, this song has a lot of
+% life in it by virtue of both the strong lyrics and energetic
+% rendition. This is one of the songs that can get your blood running when
+% everything else in life seems meaningless and one gets too carried down
+% by the lows in one's life.  What sets this song apart from others is 
+% a potent smash-mouth nature and directness; the message is conveyed 
+% without being too philosophical about it. The rowing of the boat along 
+% with the beautiful chorus lends a lot of atmosphere to the lyrics. Need
+% we say "Manna De for PM ?" :-)
+%
+\printtitle 
+#indian 
+%
+ohoho \threedots ##(chorus)## \- 2
+o nadiyaa chale chale re dhaaraa
+ohohoh \threedots ##(chorus)##
+o nadiyaa chale chale re dhaaraa 
+chandaa chale chale re taaraa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa ##(chorus)## 
+ohoho \threedots ##(chorus)## \- 2 
+
+jIvan kahii.n bhii Thaharataa nahii.n hai  \- 2
+aa.Ndhii se tUphA.n se Darataa nahii.n hai 
+tuu nA chalegaa to chal de.ngii raahe.n 
+hai re hai re hai re hai re ##(chorus)## 
+o \threedots tuu nA chalegaa to chal de.ngI raahe.n 
+ma.nzil ko tarase.ngii terI nigaahe.n 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa ##(chorus)## 
+o nadiyaa chale chale re dhaaraa 
+chandaa chale chale re tAraa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa ##(chorus)## 
+o \threedots ##(up and down)## \threedots\threedots ##(chorus)## \- 8 
+
+paar huA vo rahaa vo safar me.n 
+o \threedots paar huA vo rahaa vo safar me.n 
+jo bhI rukA phir gayaa vo bha.nvar me.n 
+naav to kyA baha jAye kinaaraa
+o \threedots naav to kyA baha jAye kinaaraa 
+ba.Dii hii tez samay kii hai dhaaraa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa ##(chorus)## 
+oh\threedots nadiyaa chale chale re dhaaraa 
+cha.Ndaa chale chale re taaraa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa 
+tujhako chalanaa hogaa, tujhako chalanaa hogaa ##(chorus)## 
+ohohoh \threedots##(chorus)## \- 4 ##(with manna 'oh'ing ... in the background)## 
+%
+#endindian
+\endsong
+%

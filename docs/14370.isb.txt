@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{jo jaam se piitaa huu.N utar jaatii hai}%
+\film{Tum Se Achcha Kaun Hain}%
+\year{2002}%
+\starring{Nakul Kapoor, Kim Sharma, Aarti Chhabaria}%
+\singer{Sonu Nigam, Tauseef Akhtar}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+haa.N maikade kii galii me.n jaanaa chho.D diyaa
+jab se dekhaa use shiishe kaa jaam to.D diyaa
+vaah vaah vaah
+
+jo jaam se piitaa huu.N utar jaatii hai
+jo aa.Nkh se piitaa huu.N to cha.Dh jaatii hai
+jo jaam se \threedots
+
+chhan chhanananan chhan chhan
+mastaanaa yaar taubaa ha.Nsatii bahaare.n taubaa
+vo chhupake vaar taubaa nazaro.n kii maar taubaa
+chhaa_e Kumaar taubaa aa_e karaar taubaa
+dil jaa_e haar taubaa ho jaa_e pyaar taubaa
+na puuchh yaar muhabbat kaa nashaa kaisaa hai
+ko_ii din raat khyaalo.n me.n basaa rahataa hai
+ba.Dii hasiin in me.n shaam\-o\-sahar hotii hai
+na dard\-o\-gam kii na duniyaa kii khabar hotii hai
+aa aa
+ye beKudii to zi.ndagii mahakaatii hai mahakaatii hai mahakaatii hai
+jo aa.Nkh se piitaa huu.N \threedots
+
+huu.n zulfo.n kii badaliyo.n me.n raato.n me.n hai nashaa nashaa
+mahabuub kii adaa me.n baato.n me.n hai nashaa nashaa
+diladaar kii sharaabii aa.Nkho.n me.n hai nashaa
+ho.NTho.n kii surkhiyo.n me.n saa.Nso.n me.n hai nashaa
+gulaabii narm se ho.NTho.n ko chuum ke dekho
+kisii kii madabharii baaho.n jhuum ke dekho
+diivaane pyaar kaa aisaa suruur chhaa_egaa
+tujhe zamii.n pe bhii jannat kaa mazaa aa_egaa
+aa aa
+ye maikashii to aashiqii sikhalaatii hai sikhalaatii hai sikhalaatii hai
+jo aa.Nkh se piitaa huu.N \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ai dil_rubaa jaan-e-vafaa}%
+\film{Shirin Farhad}%
+\year{1956}%
+\starring{Pradip Kumar, Madhubala}%
+\singer{Hemant, Asha}%
+\music{S Mohinder}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Comments: Hemant-da series #76
+%
+\printtitle
+#indian
+%
+
+he: ai dil_rubaa jaan\-e\-vafaa tere sivaa kaun hai meraa
+aa: ai dil_rubaa jaan\-e\-vafaa tuu ne kyaa jaaduu kiyaa
+
+he/aa: aa aa aa aa
+he: Kudaa tujh ko har ik nazar se bachaaye
+aa: terii zi.ndagii me.n ko_ii Gam na aaye
+he: har ik pal musarrat kaa paiGaam laaye
+aa: jahaa.N me.n du_aae.n tere saath jaa_e.N
+he: TuuTe na dil aramaa.N bharaa
+roshan rahe.n shamm\-e\-vafaa
+aa: ai dil_rubaa \threedots
+
+he/aa: aa aa aa aa
+he: na ho khatm terii khushii kaa khazaanaa
+aa: terii lab na bhuule kabhii muskuraanaa
+he: muhabbat sunaaye vafaa kaa fasaanaa
+aa: rahe maharabaa.N tujh pe zaalim zamaanaa
+he: dil ne tujhe dii hai du_aa 
+phuule phale gulashan teraa
+aa: ai dil_rubaa \threedots
+
+%
+#endindian
+\endsong
+%

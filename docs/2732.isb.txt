@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{vo chaa.Nd nahii.n hai dil hai kisii diivaane kaa}%
+\film{Aandhiyan}%
+\year{1952}%
+\starring{Dev Anand, Nimmi, Kalpana Kartik}%
+\singer{Hemant, Asha}%
+\music{Ali Akbar Khan}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: 
+% Credits:
+% Comments: Hemantada series #48
+%
+\printtitle
+#indian
+%
+
+he: vo chaa.Nd
+    vo chaa.Nd nahii.n hai
+    dil hai kisii diivaane kaa
+    (aakash jise kahatii duniyaa) \- 2
+    vo naam hai ik viiraane kaa \threedots
+
+    (diivaane ke dil kii hii tarah) \- 2
+    vo raato.n jalataa rahataa hai
+    is nii.nd kii maaTii nagarii me
+    vo kuchh na kisii se kahataa hai
+    (hai us me shamaa kii bechainii) \- 2
+    aur pyaar bhii hai paravaane kaa \threedots
+
+he: jab se pahaluu se gayaa hai dil
+    kisii pahaluu nii.nd nahii.n aatii
+aa: (jo suurat dil men samayii hai) \-2
+    (vo suurat dil se nahii.n jaatii ) \-2
+    aao aa.Nchal patalaa jaa_o
+    kyaa raat hai dil me samaane kaa
+    kyaa raat
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum chaa.Nd se hasiin ho}%
+\film{Aurat Teri Yahi Kahani}%
+\year{1954}%
+\starring{}%
+\singer{Talat}%
+\music{Bulo C Rani}%
+\lyrics{Butaram Sharma}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+tum chaa.Nd se hasiin ho taaro.n se puuchh lo
+phuulo.n se khuubaruu ho bahaaro.n se puuchh lo
+
+kyo.n dekhatii hai merii nazar tumako baar baar
+apanii nazar ke shokh ishaaro.n se puuchh lo
+
+qisamat me ho judaaii to kaise milaap ho
+bahatii nadii ke dono.n kinaaro.n se puuchh lo
+
+kuchh aa.Nsuo.n se puuchh lo ulfat kii talkhiyaa.N
+kuchh badanasiib pyaar ke maaro.n se puuchh lo
+
+%
+#endindian
+\endsong
+%

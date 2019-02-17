@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{saaGar nahii.n hai to kyaa hai}%
+\film{Naatak}%
+\year{1975}%
+\starring{Vijay Arora, Mausami Chaterjii, Nazima, Subhash Ghai}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11252 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+saaGar nahii.n hai to kyaa hai terii aa.Nkh kaa nashaa to hai
+baadal nahii.n hai to kyaa hai terii zulf kii ghaTaa to hai
+saaGar nahii.n hai \threedots
+
+merii tamannaa kii mahafil se tum yuu.N uTh ke jaane lage ho
+aisii bhii kyaa beruKii ruuTh kar hamase aa.Nkhe.n churaane lage ho
+mausam nahii.n hai to kyaa hai mauqaa ye pyaar kaa to hai
+saaGar nahii.n hai \threedots
+
+terii ghanii zulf ke saa_e me.n chaar pal saath tere ji_e.Nge
+saaGar se roz piite hai.n aaj terii nazar se pi_e.Nge
+saaqii nahii.n hai to kyaa hai ik shoK dilarubaa to hai
+saaGar nahii.n hai \threedots
+
+shaayad yahii hai qayaamat kii raat maan lene ko jii chaahataa hai
+terii qasam aaj dil hii nahii.n jaan dene ko jii chaahataa hai \-2
+qaatil nahii.n hai to kyaa hai qaafir terii adaa to hai
+saaGar nahii.n hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+% ITRANS SONG # 3300; Created on Jan 26, 2004
+%
+%      From: Abhay Phadnis (aphadnis@hotmail.com)
+%      Date: 2002-11-08 03:23:37 PST 
+%
+\startsong
+\stitle{chaahe kare duniyaa laakh jafaa}%
+\film{Pakistani-Fim(Ajnabi)}%
+\year{1962}%
+\starring{Bahar, Ejaz}%
+\singer{Noorjehan}%
+\music{Asghar Ali, Muhammad Hussain}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 08 November 2002
+% Credits: Urzung Khan
+% Comments: Noor-e-Tarannum series
+% Availability: "Noor Jehan - Superhits" - Magnasound
+%
+\printtitle
+#indian
+%
+chaahe kare duniyaa laakh jafaa
+zi.ndaa rahegaa naam\-e\-wafaa
+chaahe kare duniyaa laakh jafaa
+
+kaun kar sakaa judaa zi.ndagii se pyaar ko \-2
+kis kaa hausalaa hai jo luuT le bahaar ko
+aa_ii Kizaa.N phir bhii rahaa gulashan haraa
+zi.ndaa rahegaa naam\-e\-wafaa
+chaahe kare duniyaa laakh jafaa
+
+saaz to.D doge tum, taar tharatharaa_e.Nge \-2
+aaG banake raag ye tum ko bhii jaalaae.Nge
+ai zaalimo rokoge kyaa dil kii sadaa
+zi.ndaa rahegaa naam\-e\-wafaa
+chaahe kare duniyaa laakh jafaa
+%
+#endindian
+\endsong
+%

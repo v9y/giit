@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{saathii mere tere binaa ... jiinaa naa jiinaa haa_e raam jii}%
+\film{Itihaas/ History of Love}%
+\year{1997}%
+\starring{Ajay Devgan, Twinkle, Sapna Bedi, Shakti, Aruna, Mohnish}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa 
+saathii mere tere binaa tere binaa tere binaa
+jiinaa naa jiinaa haa_e raam jii
+saathii mere tere binaa \threedots
+
+chaahat ke saharaa me.n buu.nd gire pyaas mujhe  aaj lage saavan jha.Dii ho ho
+ye prem kahaanii to maine likhii tuune likhii jaan\-e\-vafaa dil me.n vahii
+ye jag to sataa_e aur hamako rulaa_e
+ro_uu.n aur merii aa.Nkho.n me.n ha.Nse paanii
+zi.ndagii ke chaar dinaa jaan merii chaar dinaa chaar dinaa
+jiinaa naa jiinaa haa_e raam jii \threedots
+
+chup chup jaanaa nakhare naa karanaa
+raaje kii beTii aa_ii hai milane kii rut aa_ii hai
+o.Dh chunar baiThii dulhan sej banii dharatii saajan
+ho ambar kii baaho.n me.n kaise mile khud ke gale
+ek hu_e ham do badan
+sapane sajaa_e duniyaa bhulaa_e
+in baaho.n me.n guzar jaa_egii zi.ndagaanii
+sau saal se bhii ba.Dii pyaar kii hai jiit ba.Dii
+yaaraa haa.N jii haa.N haa_e raam jii \threedots
+%
+#endindian
+\endsong
+

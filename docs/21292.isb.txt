@@ -1,0 +1,52 @@
+% ITRANS Song #21292
+% 
+\startsong
+\stitle{pyaar bhii aataa hai kabhii gussaa bhii aataa hai}%
+\film{Goonj}%
+\year{1952}%
+\starring{Suresh, Suraiya, Sapru, Madan Puri, Bhagwan}%
+\singer{Asha, Talat}%
+\music{Sardul Kwatra}%
+\lyrics{D N Madhok}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Badr
+% Transliterator: Badr
+% Date: 12 Sep 2007
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20090905.
+%
+\printtitle
+#indian
+%
+aa: pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai \-2
+aa: tumhii.n kaho ko_ii kisii ko ajii yuu.N chho.D ke jaataa hai
+ta:  pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai \-2
+ta: tumhii.n kaho ko_ii kisii ko ajii yuu.N chho.D ke jaataa hai
+do: pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai
+
+aa: aao mai.n aapake dil me.n bhar duu.N apane dil kii haaye
+ta: aao mai.n aapake dil me.n bhar duu.N apane dil kii haaye
+aa: phir jaan sakoge o sajan dard paraaye
+do: phir jaan sakoge o sajan dard paraaye
+aa: kahate phiroge dil nA lage dil ghabaraataa hai
+do: kahate phiroge dil nA lage dil ghabaraataa hai
+do: tumhii.n kaho ko_ii kisii ko ajii yuu.N chho.D ke jaataa hai
+do: pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai
+
+ta: kise maaluum thaa dil deke sadaa ro_e.nge ham bhii
+aa: kise maaluum thaa dil deke sadaa ro_e.nge ham bhii
+aa: auro.n kii tarah bewafaa hai meraa balam bhii
+do: auro.n kii tarah bewafaa hai meraa balam bhii
+ta: aa.Nkh bhar aatii hai, kabhii dil bhar aataa hai
+do: aa.Nkh bhar aatii hai, kabhii dil bhar aataa hai
+do: tumhii.n kaho ko_ii kisii ko ajii yuu.N chho.D ke jaataa hai
+
+do: pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai \-2
+do: tumhii.n kaho ko_ii kisii ko ajii yuu.N chho.D ke jaataa hai
+do: pyaar bhii aataa hai, kabhii Gussaa bhii aataa hai
+%
+#endindian
+\endsong

@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{o piyaa, meraa bholaa jiyaa kaahe tuune liyaa}%
+\film{Maalkin}%
+\year{1953}%
+\starring{Nutan, Sajjan}%
+\singer{Lata, Kishore}%
+\music{Roshan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Neha Desai
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+la : o piyaa meraa bholaa jiyaa kaahe tuune liyaa
+     o piyaa meraa bholaa jiyaa kaahe tuune liyaa
+     ye baat zaraa samajhaa denaa
+     ye baat zaraa samajhaa denaa
+
+ki : bhaa gayaa mere dil ko vo pahale pahal
+     bhaa gayaa mere dil ko vo pahale pahal
+     mujhe dekh teraa sharamaa denaa
+     ye baat zaraa samajhaa denaa
+la : o piyaa~
+ 
+ki : yaad hai jab milii thii nazar se nazar
+     ek sholaa uThaa kuchh idhar se udhar
+la : pyaar kahate hai.n is ko na thii ye khabar
+     pyaar kahate hai.n is ko na thii ye khabar
+     tumhe.n aataa hai tiir chalaa denaa
+     ye baat zaraa samajhaa denaa
+ 
+ki : tere milane se pahale na thii ye khushii
+     dil ko achchhii na lagatii thii ye chaa.Ndanii
+la : ek nazar se badal ke merii zi.ndagii
+     ek nazar se badal ke merii zi.ndagii
+     kahii.n dil se na mujhako bhulaa denaa
+     ye baat zaraa samajhaa denaa
+     o piyaa meraa bholaa jiyaa kaahe tuune liyaa
+     o piyaa
+ 
+do : raaz ulfat ke dil me.n chhipaaye hue
+     yuu.N hii chalate chale.n muskuraaye hue
+     ham se tum tum se ham nain lagaaye hue
+     yuu.N hii sa.ng sa.ng umr bitaa denaa
+     ye baat zaraa samajhaa denaa
+
+%
+#endindian
+\endsong
+%

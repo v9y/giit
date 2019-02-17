@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{tum laakh chhupaanaa chaahoge par pyaar chhupaa naa paa_oge}%
+\film{Singapore}%
+\year{1960}%
+\starring{Shammi Kapoor, Padmini, Shashikala, K N Singh}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10891 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tum laakh chhupaanaa chaahoge par pyaar chhupaa naa paa_oge
+	kachche dhaage se ba.Ndhe sarakaar chale aa_oge \-2
+la \:	tum laakh jataanaa chaahoge par pyaar jataa naa paa_oge
+	dil ko thaame haatho.n se Kaamosh chale aa_oge
+
+ra \:	tumhaare chehare kii ra.ngat to ye bataatii hai
+	kisii kii yaad tumhe.n har gha.Dii sataatii hai
+	yah ulajhe\-ulajhe baal muhabbat kaa raaz kahate hai.n
+	kamal se nain Kyaalo.n me.n Duube rahate hai.n
+	tumhaarii chaal me.n shoKii hai aur sharaarat hai
+	zaruur tumako kisii na kisii se ulfat hai
+	lo raaz khul gayaa ab kis li_e chhupaate ho
+	zamaanaa jaan gayaa hamako kyo.n banaate ho
+	tum laakh chhupaanaa \threedots
+
+la \:	tumhaare ho.NTho.n pe har baat kaa.Np jaa_egii
+	lagii ye dil kii zubaa.N par kabhii na aa_egii
+	bataa_o kaise jataa_oge pyaar phir apanaa
+	na hogaa puuraa kabhii aarazuu kaa ye sapanaa
+	tumhe.n yah pyaar kii hasarat bahut sataa_egii
+	kabhii rulaa_egii tumako kabhii ha.Nsaa_egii
+	hamaare kuuche me.n aashiq hazaar aate hai.n
+	magar jo aate hai.n vo hosh bhuul jaate hai.n
+	tum laakh chhupaanaa \threedots
+
+ra \:	hamaare hizr me.n tumako na nii.nd aa_egii
+	akelaa paa ke judaa_ii tumhe.n sataa_egii
+	ham apanii aah se patthar ko mom karate hai.n
+	ham apane pyaar se gulashan me.n ra.ng bharate hai.n
+	hamaaraa jazbaa\-e\-mohabbat ye ra.ng laa_egaa
+	tumhaare dar se tumhe.n ba.Dh ke khii.nch laa_egaa
+	gulo.n kii qaid me.n Kushbuu to ruk nahii.n sakatii
+	isii tarah qaid muhabbat chhup nahii.n sakatii
+	tum laakh chhupaanaa \threedots
+%
+#endindian
+\endsong
+

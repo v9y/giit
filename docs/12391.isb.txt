@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{Gam hai yaa khushii hai tuu merii zi.ndagii hai tuu}%
+\film{Kaartoos}%
+\year{1999}%
+\starring{Sanjay Dutt, Jackie Shroff, Manisha Koirala}%
+\singer{Alka Yagnik, Chorus}%
+\music{Nusrat Fateh Ali Khan}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Gam hai yaa khushii hai tuu merii zi.ndagii hai tuu
+
+merii raat kaa chiraag merii nii.nd bhii hai tuu
+merii zi.ndagii hai \threedots
+
+mai.n khizaa.n kii shaam huu.N ruut bahaar kii hai tuu
+merii zi.ndagii hai \threedots
+
+merii saarii umr me.n ek hii kamii hai tuu
+merii zi.ndagii hai \threedots
+%
+#endindian
+\endsong
+

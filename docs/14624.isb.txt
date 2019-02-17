@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{cha.ndaa taare sun le.n saare terii yaado.n me.n}%
+\film{Yaadein}%
+\year{2001}%
+\starring{Hritik Roshan, Kareena Kapoor, Jackie Shroff, Amrish Puri}%
+\singer{Sukhvindar Singh, Kavita Subramaniam}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+cha.ndaa taare sun le.n saare terii yaado.n me.n ham so_e jaage
+so_e jaage
+saaraa aalam kyaa hai jaanam tere pyaar ke aage
+aahaa aahaa
+ho cha.ndaa taare sun le.n saare \threedots
+
+ham tum itanaa pyaar kare.nge jo bhii sunegaa vo ye kahegaa
+kaun rahaa hai kaun rahegaa pyaar rahaa hai pyaar rahegaa
+cha.ndaa taare sun le.n saare \threedots
+
+mere dil kii tere dil kii baat ko_ii bhii rah naa jaa_e
+vaqt kaa dariyaa chho.D ke saahil hamase aage bah naa jaa_e
+cha.ndaa taare sun le.n saare \threedots
+%
+#endindian
+\endsong
+

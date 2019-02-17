@@ -1,0 +1,52 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaagaa re jaa re jaa re}%
+\film{Wafa}%
+\year{1950}%
+\starring{Nimmi, Karan Diwan}%
+\singer{Lata}%
+\music{Vinod}%
+\lyrics{Aziz Kashmiri}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+%
+% Song Courtesy: tarana at mac.com
+% Comments by Tarana: I know that I might be stretching things a 
+% little when I call this song "less-heard". I know that this song
+% cannot be a lesser known song - at least among the more
+% knowledgable groups. But I have not seen many references to this
+% song during discussions - or of course. to see a HMV collection
+% with this etheral melody ! Lata is supreme here. Her control over
+% the words, over her bhaav is so perfect that I would unhesitatingly
+% point to this song as one of Lata's very best melodies of her career!
+% Vinod has composed other lilting melodies with Lata - most popular
+% perhaps being her melodies in Ek Thi Ladki. But this song from the
+% 1950 stunner soundtrack Wafaa establishes the pair at their
+% combined peak !
+
+\printtitle
+#indian
+
+kaagaa re jaa re jaa re
+more piyaa kaa sandesavaa laa re laa re laa re
+kaagaa re jaa re jaa re
+
+u.D jaa re o kaale kaagaa jaa saajan ke dwaar
+kahanaa usane kar dii der kaahe jiyaa bekaar
+binaa doSh ke o nirmohii
+binaa doSh ke o nirmohii kaahe ruuTh gayaa re
+jaa re
+kaagaa re jaa re jaa re
+
+duur des ke jaane waale le jaa mere bain
+kahanaa tujh bin nain baaware rote hai.n din rain
+merii dashaa dikhalaane ko
+merii dashaa dikhalaane ko do nain mere le jaa re
+jaa re
+kaagaa re jaa re jaa re
+more piyaa kaa sandesavaa laa re laa re laa re
+kaagaa re jaa re jaa re
+
+#endindian
+\endsong

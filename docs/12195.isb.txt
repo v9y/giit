@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{ai sanam aaj ye qasam khaa_e.N}%
+\film{Jahanara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Lata, Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10572 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	ai sanam
+	ai sanam aaj ye qasam khaa_e.N
+	mu.D ke ab dekhane kaa naam naa le.n
+	pyaar kii vaadiyo.n me.n kho jaa_e.N
+ta \:	ai sanam aaj ye qasam khaa_e.N
+	faasale pyaar ke miTaa Daale.n
+	aur duniyaa se duur ho jaa_e.N
+do \:	ai sanam aaj ye \threedots
+
+ta \:	jis taraf jaa_e.N bahaaro.n ke salaam aa_e.Nge \-2
+	aasamaano.n se bhii ra.ngiin payaam aa_e.Nge
+la \:	teraa jalavaa hai jahaa.N merii jannat hai vahaa.N
+	tere ho.nTho.n kii ha.Nsii sau bahaaro.n kaa samaa.N
+ta \:	ai sanam aaj ye \threedots
+
+la \:	apanaa iimaan faqat apanii mohabbat hogii
+ta \:	har gha.Dii ishq kii ik taazaa qayaamat hogii
+la \:	dekh kar ra.ng\-e\-vafaa muskuraa_egaa Kudaa
+ta \:	aur sochegaa zaraa ishq kyo.n paidaa kiyaa
+do \:	ishq kyo.n paidaa kiyaa \-2
+	ai sanam aaj ye \threedots
+%
+#endindian
+\endsong
+

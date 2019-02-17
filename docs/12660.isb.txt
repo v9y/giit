@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{siine me.n sulagataa hai dil ... kaisii hai ye agan}%
+\film{Laawaaris}%
+\year{1999}%
+\starring{Jackie, Dimple, Akshay Khanna, Manisha, Govind Namdeo, Parmeet Sethi}%
+\singer{Roop Kumar Rathod, Alka Yagink}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+siine me.n sulagataa hai dil Gam se pighalataa hai dil
+jitane bhii aa.Nsuu hai.n bahe utanaa hii jalataa hai dil
+kaisii hai ye agan kaisii hai ye jalan
+kaisii baarish hu_ii jal gayaa hai chaman
+
+kaisaa ye sitam ho gayaa paayaa jise thaa vo kho gayaa
+lagataa hai nasiib meraa hameshaa ke li_e so gayaa
+kaisii hai ye agan \threedots
+
+mai.n huu.N aur yaado.n kii hai.n parachhaa_iiyaa.n
+Thokare.n hai.n aur hai.n rusavaa_iiyaa.n
+duur tak kuchh bhii nazar aataa nahii.n
+har taraf phailii hai.n bas tanhaa_iiyaa.n
+jalate the jo mere li_e bujh ga_e vo saare diye
+tuu hii ye bataa de zi.ndagii kab tak ko_ii jiye
+kaisii hai ye agan \threedots
+
+chhaa ga_ii.n Gam kii ghaTaa_e.n kyaa karuu.n
+ro rahii.n hai.n ye havaa_e.n kyaa karuu.n
+gholatii thii.n ras jo kaano.n me.n kabhii
+kho ga_ii hai.n vo sadaa_e.n kyaa karuu.n
+jaane ab jaanaa hai kahaa.n
+aa.Nkho.n me.n hai jaise dhu_aa.n
+milate nahii.n hai.n raaste miT ga_e saare nishaa.n
+kaisii hai ye agan \threedots
+%
+#endindian
+\endsong
+

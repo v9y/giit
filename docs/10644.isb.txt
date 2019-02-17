@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kyaa jaano mai.n huu.N kaun ... dekho ye mere ba.Ndhe haath}%
+\film{Bandhe Haath}%
+\year{1973}%
+\starring{Mumtaz, Amitabh Bachchan, O P Ralhan, Kumud Chhugani, Ajeet}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10749 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+huu.N huu.N huu.N
+( kyaa jaano mai.n huu.N kaun maaraa hu_aa zindagii kaa
+mujhako to mahafil me.n laayaa haii pyaar kisii kaa ) \-2
+lag ke gale se phir bhii machal naa sakuu.N mai.n
+dekho ye mere ba.Ndhe haath
+kaise miluu.N tumase chaahuu.N to mil naa sakuu.N mai.n
+dekho ye mere ba.Ndhe haath
+
+( murajhaa_e gul ke paas jaise bahaar kii baa.Nhe.n
+mere paas vaise hii phailii hai.n yaar kii baa.Nhe.n ) \-2
+thaam ke inako phir bhii sa.Nbhal naa sakuu.N mai.n
+dekho ye mere \threedots
+
+( siine me.n dil meraa kahane ko pyaar kaa dil hai
+dha.Dake naa khul ke jo vo bekaar saa dil hai ) \-2
+jalataa huu.N lekin pahaluu badal naa sakuu.N mai.n
+dekho ye mere \threedots
+%
+#endindian
+\endsong

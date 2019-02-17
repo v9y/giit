@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ik but se muhabbat kar ke}%
+\film{Maan Abhiman}%
+\year{1980}%
+\starring{Raj Kiran, Rameshwari, Shashi Puri}%
+\singer{Yesudas}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ik but se muhabbat kar ke
+mai.n ne yahii jaanaa hai
+samajhaaye se jo na samajhe
+dil aisaa diivaanaa hai
+ik but se muhabbat kar ke \threedots
+
+khuubasuurat hai balaa kaa aur balaa se kam nahii.n
+usakaa Gam bhii to lage to jag kaa koii Gam nahii.n
+chale paa.Nv dilo.n pe rakh ke
+usakaa hii zamaanaa hai
+ik but se muhabbat kar ke \threedots
+
+phuul champe kaa hasiin behad magar khushabuu nahii.n
+hai mere mahabuub me.,n sab kuchh vafaa kii buu nahii.n
+kuchh bhii mujhe ghar apanaa
+us gul se sajaanaa hai
+ik but se muhabbat kar ke \threedots
+
+%
+#endindian
+\endsong
+%

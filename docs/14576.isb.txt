@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{ambuuvaa kii Daalii\-Daalii jhuum rahii hai aalii}%
+\film{Vidyapati}%
+\year{1937}%
+\starring{Pahari Sanyal, Kananbala, Chhaya Devi, Prithviraj Kapoor}%
+\singer{Kanan Devi, Dhumi Khan}%
+\music{R C Boral}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: BOL ANAMOL #11976 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+kaa \:	( ambuuvaa kii Daalii\-Daalii
+	jhuum rahii hai aalii ) \-2
+
+dhu \:	( mai.n pii kar mad kii pyaalii
+	yuu.N chaal chaluu.N matawaalii ) \-2
+
+kaa \:	( ambuuvaa kii Daalii\-Daalii
+	jhuum rahii hai aalii ) \-2
+	matawaalii \-3
+
+dhu \:	matawaalii \-3
+	mai.n chaal chaluu.N matawaalii
+kaa \:	mai.n chaal chaluu.N matawaalii
+dhu \:	Daraa Dar Dar Dar Dar Dar Da
+kaa \:	Daraa Dar Dar Dar Dar Dar Da
+	more anganaa me.n aaye aalii\-aalii
+	mai.n chaal chaluu.N matawaalii
+
+	jhuum rahii hai aalii
+	ambuuvaa kii Daalii
+	jhuum rahii hai aalii
+	ambuuvaa kii Daalii
+	( ambuuvaa kii Daalii\-Daalii
+	jhuum rahii hai aalii ) \-2
+
+do \:	matawaalii \-3
+	matawaalii \-3
+	mai.n chaal chaluu.N matawaalii \-2
+	more anganaa me.n aaye aalii\-aalii
+	mai.n chaal chaluu.N matawaalii
+	jhuum rahii hai aalii
+	ambuuvaa kii Daalii
+	jhuum rahii hai aalii
+	ambuuvaa kii Daalii
+	ambuuvaa kii Daalii\-Daalii
+	jhuum rahii hai aalii
+%
+#endindian
+\endsong
+

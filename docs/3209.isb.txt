@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{Takkaa la_ii kalii da_ii}%
+\film{Shin Shinaki Bubla Boo}%
+\starring{?}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: Neha Desai
+% Transliterator:
+% Date: June 8, 1999
+% Credits:
+% Editor:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+la:
+   ye~ khilatii kalii ko_ii le
+   ye~ ha.Nsatii kalii ko_ii le
+
+chi:
+   da_ii
+
+la:
+   haa.N da_ii, Takkaa la_ii, haa.N da_ii, kalii da_ii
+   Takkaa la_ii, haa.N kalii da_ii, haa.N Takkaa la_ii la_ii la_ii kalii da_ii
+   haa.N da_ii, Takkaa la_ii, haa.N da_ii, kalii da_ii
+   Takkaa la_ii, haa.N kalii da_ii, haa.N Takkaa la_ii la_ii la_ii kalii da_ii
+
+   le lo gulaab le lo~
+   khilataa shabaab le lo~
+   lailaa kii aarzuu_e.n majanuu ke Kvaab le lo
+   chaahat kaa ra.ng nayaa ulfat kii khushabuu na_ii ko_ii la_ii?
+
+chi:
+   haa.N la_ii
+
+ko:
+   haa.N la_ii, kalii la_ii, haa.N da_ii, Takkaa da_ii
+   kalii la_ii, haa.N Takkaa da_ii, haa.N kalii la_ii la_ii la_ii takkaa da_ii
+   haa.N la_ii, kalii la_ii, haa.N dai, Takkaa da_ii
+   kalii la_ii, haa.N Takkaa da_ii haa.N kalii la_ii la_ii la_ii Takkaa da_ii
+
+la:
+   puuchhe tuu bol kyaa hai
+   phuulo.n kaa mol kyaa hai
+
+   de de jo jii me.n aaye dil me.n TaTol kyaa hai
+   aayegii phir na maalan kuuche se gayii to gayii ko_ii la_i?
+
+chi:
+   haa.N la_ii
+
+ko:
+   haa.N la_ii, kalii la_ii, haa.N da_ii, Takkaa da_ii
+   kalii la_ii, haa.N Takkaa da_ii, haa.N kalii la_ii la_ii la_ii takkaa da_ii
+   haa.N la_ii, kalii la_ii, haa.N dai, Takkaa da_ii
+   kalii la_ii, haa.N Takkaa da_ii haa.N kalii la_ii la_ii la_ii Takkaa da_ii
+
+%
+#endindian
+\endsong
+%

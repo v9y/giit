@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{tujhe dekhaa to ... mere soNe rab ne kinnii soNii chiiz banaa_ii hai}%
+\film{Kuchh Dil Ne Kahaa}%
+\year{2000}%
+\starring{Rakesh Bapat, Raeema Sen, Nandini Singh}%
+\singer{Udit Narayan, Anuradha Paudwal, Chorus}%
+\music{Lalit Sen}%
+\lyrics{Bipin Chandra Chaugule}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hoy hoy
+ku.Diye
+oy mu.nDeyaa
+tujhe dekhaa to bas mujhe aisaa lagataa hai
+jaise mere sapano.n se abhii abhii tuu nikal ke is duniyaa me.n aa_ii hai
+mere soNe rab ne kinnii soNii chiiz banaa_ii hai
+
+tujhe dekhaa to bas mujhe aisaa lagataa hai
+jaise mere sapano.n se abhii abhii tuu nikal ke is duniyaa me.n aayaa hai
+mere soNe rab ne tujhe mere li_e banaayaa hai
+tujhe dekhaa to \threedots
+
+haay jaaduu hai ko_ii terii aa.Nkho.n me.n 
+dil aa rahaa hai terii baato.n me.n
+terii bi.ndiyaa ke lashkaare
+jaise din me.n nikale taare
+merii meha.ndii ke ra.ng saare
+ab to hai.n naam tumhaare
+tujhe dekhaa to bas mujhe aisaa lagataa hai
+mere naino.n kii is Dolii me.n abhii abhii tuu baiTh ke aa_ii hai
+mere soNe rab ne \threedots
+
+ku.Diye
+oy mu.nDeyaa
+aa oy
+hoy dekhaa na tumasaa ko_ii pahale kabhii
+jo bhii hai dil me.n hamase kah do abhii
+kahanaa sunanaa kyaa gorii
+bas baa.Ndh le priit kii Dorii
+jab ham raazii tum raazii
+kyuu.N pyaar ho chorii chorii
+tujhe dekhaa to bas mujhe aisaa lagataa hai
+jaise jannat kii har ek khushbuu tere a.ng a.ng me.n samaa_ii hai
+mere soNe rab ne \threedots
+%
+#endindian
+\endsong
+

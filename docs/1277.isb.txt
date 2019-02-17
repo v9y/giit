@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujhe dekh kar aapakaa muskaraanaa}%
+\film{Ek Musafir Ek Hasina}%
+\year{1962}%
+\starring{Joy Mukherjee, Sadhana}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+\threedots aapakaa muskaraanaa
+mujhe dekh kar aapakaa muskaraanaa
+muhabbat nahii.n hai to phir aur kyaa hai
+ho \threedots  mujhe dekh kar aapakaa muskaraanaa
+
+o ho ho \threedots
+mujhe tum begaanaa kah lo yaa ke diivaanaa
+magar ye diivaanaa jaane dil kaa fasaanaa
+banaavaT me.n dil kii haqiiqat chupaanaa
+muhabbat nahii.n hai to phir aur kyaa hai
+ho \threedots  mujhe dekh kar aapakaa muskaraanaa
+
+o ho ho \threedots
+khayaalo.n me.n khoyii khoyii rahatii ho aise
+musaafir kii chalatii phiratii tasaviir jaise
+adaa aashiqii kii nazar shaayaraanaa
+muhabbat nahii.n hai to phir aur kyaa hai
+ho \threedots  mujhe dekh kar aapakaa muskaraanaa
+%
+#endindian
+\endsong
+%

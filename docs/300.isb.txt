@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{bhagavaan do gha.Dii zaraa insaan banake dekh}%
+\film{Bahaar}%
+\year{1951}%
+\starring{Karan Diwan, Vyjayantimala}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bhagavaan do gha.Dii jaraa i.nsaan banake dekh
+dharatii pe chaar din kabhii mehamaan banake dekh
+mehamaan banake dekh
+
+o o o 
+hai jinako terii yaad kabhii unakii le khabar
+kabhii unakii le khabar
+aasamaan vaale kabhii gariibo.n pe kar nazar
+gariibo.n pe kar nazar
+dil me.n kisii gariib ke aramaan banake dekh
+dharatii pe chaar din \threedots
+
+o o o
+jo kuchh bhii ho rahaa hai vo terii nazar me.n hai
+terii nazar me.n hai
+aa dekh merii aas kii naiyaa bha.nvar me.n hai, naiyaa bha.nvar me.n hai
+sab jaanate hue bhii naa anajaan banake dekh
+dharatii pe chaar din \threedots
+
+o o o
+tujh ko khabar nahii.n koI kitanaa niraash hai
+kitanaa niraash hai
+tinake kii Duubate ko maalik talaash hai, maalik talaash hai
+inasaan ban sake naa to bhagavaan banake dekh
+dharatii pe chaar din \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{rekhaa o rekhaa jab se tumhe.n dekhaa}%
+\film{Adhikaar}%
+\year{1971}%
+\starring{Ashok Kumar, Nanda, Deb Mukherjee}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Ramesh Pant}%
+%
+% Contributor: BOL ANAMOL #11523 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+rekhaa o rekhaa jab se tumhe.n dekhaa
+khaanaa\-piinaa\-sonaa dushvaar ho gayaa
+mai.n aadamii thaa kaam kaa bekaar ho gayaa
+rekhaa o rekhaa \threedots
+
+tumase dil kyaa lagaayaa hai tumako qaabil banaayaa hai
+din\-raat jalaatii ho diivaanaa banaatii ho
+are meraa bhii ek din zaruur aa_egaa
+rekhaa o rekhaa \threedots
+
+kaafii maha.ngaa ye pyaar hai shaadii kaa intazaar hai
+maalik pe bharosaa hai maine to ye sochaa hai
+are mehanat jo kii hai to phal bhii milegaa
+rekhaa o rekhaa \threedots
+%
+#endindian
+\endsong
+

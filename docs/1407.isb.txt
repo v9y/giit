@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{pahale jo mohabbat se inkaar kiyaa hotaa}% 
+\film{Pardesi}%
+\year{}%
+\starring{Motilal, Khursheed, Snehprabha}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+pahale jo mohabbat se inkaar kiyaa hotaa 
+yuu.n hamako nA duniyA se bezaar kiyaa hotaa 
+
+ab tere sivaa koI aa.Nkho.n me.n nahii.n rahataa 
+do roz to parado.n me.n gulazaar kiyaa hotaa 
+pahale jo mohabbat se \threedots 
+
+maaluum agar hotaa a.njaam mohabbat kA 
+nA dil hii diyaa hotaa nA pyaar kiyaa hotaa 
+pahale jo mohabbat se \threedots
+
+mai.n terI huu.N mai.n terI, kaano.n mere kahanaa 
+aur bhaag ke duniyA se aa.Nkho.n me.n merI rahanaa 
+itanaa jo samajhate ham, chupake se terA (?) 
+nA dil hii diyaa hotaa nA pyaar kiyaa hotaa 
+pahale jo mohabbat se \threedots
+%
+#endindian
+\endsong
+%

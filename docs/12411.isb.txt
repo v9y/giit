@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{battiyaa.n bujhaa do kuchh baat aisii hai}%
+\film{Khilaadi 420}%
+\year{2000}%
+\starring{Akshay Kumar, Mahima Chaudhary}%
+\singer{Sonu Nigam, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii biivii kaa javaab nahii.n
+siidhii saadii suurat isakii kitanii bholii
+shahad se bhii zyaadaa miiThii hai isakii bolii
+isakaa mukha.Daa chaa.Nd kaa Tuka.Daa
+are isakaa mukha.Daa aa chaa.Nd kaa Tuka.Daa o
+yaar mere aisaa ko_ii hogaa naa kahii.n
+merii biivii kaa \threedots
+
+jhuuThii hai ye to jhuuThii mujhame.n takaraar karatii
+uupar se gussaa lekin a.ndar se pyaar karatii
+lagatii hai gusse me.n ye aur bhii hasii.n
+merii biivii kaa \threedots
+
+ye to balakhaa_e dekho saavan ke jhuulo.n jaisii
+isake tan kii khushbuu hai gulashan ke phuulo.n jaisii
+shokhiyaa.N hai.n isame.n ba.Dii ye hai mahajabii.n
+merii biivii kaa \threedots
+%
+#endindian
+\endsong
+

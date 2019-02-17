@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{duniyaa yah kahatii hai merii qismat me.n likhii vah}%
+\film{Miss Bombay}%
+\year{1957}%
+\starring{Nalini Jaywant, Ajeet, Rahman, Ramesh Thakur, Bhagwan, Vijaylaxmi}%
+\singer{Rafi, Suman}%
+\music{Hansraj Behl}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10209 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	duniyaa yah kahatii hai \-2
+	merii qismat me.n likhii vah jo piichhe baiThii hai \-2
+su \:	meraa dil ye kahataa hai \-2
+	din me.n sapanaa dekhe hai vo jo aage baiThaa hai \-2
+
+ra \:	ye sapanaa nahii.n zaalim \-2
+	sachchii\-sachchii pyaar ho gayaa tuu kah de mujhe baalam \-2
+su \:	jab hamako na paa_oge \-2
+	chhup\-chhup ke o pagale tum ashq bahaa_oge \-2
+ra \:	ab dil me.n ye Thaanii hai \-2
+	yaa tujhe paanaa hai yaa jaan ga.Nvaanii hai\-2
+su \:	mai.n shor machaa duu.Ngii \-2
+	chup naa rahaa jo tuu mai.n qaid karaa duu.Ngii \-2
+ra \:	kah do is qaafir ko \-2
+	gorii\-gorii baa.Nho.n me.n kar qaid musaafir ko \-2
+su \:	tuu rok khaTaare ko \-2
+	mai.n tere sahaare ko \-2
+ra \:	meraa dil bole gorii \-2
+	roz jalaatii ho kabhii ha.Ns ke bhii mil gorii \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{gaa.Nv me.n piipal ... paanii me.n aag lagaa_e raanii terii javaanii}%
+\film{Sooraj Aur Chandaa}%
+\year{1973}%
+\starring{Sanjeev Kumar, Meeta, Bindu, Sujit Kumar}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11227 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+gaa.Nv me.n piipal piipal kii chhai.nyaa
+chhai.nyaa me.n panaghaT panaghaT me.n paanii
+paanii me.n aag lagaa_e raanii terii javaanii
+gaa.Nv me.n piipal \threedots
+
+nikalii nahaa ke gorii taalaab se kuchh aise
+saavan ke baadalo.n se nikalaa ho chaa.Nd jaise \-2
+kaano.n me.n jhumake mukha.De pe aa.Nchal
+aa.Nkho.n me.n kajaraa paa.Nv me.n paayal
+paayal ke giit sunaa_e o raanii terii javaanii
+gaa.Nv me.n piipal \threedots
+
+ye ruup hai yaa sholaa ye ra.ng hai ke jaaduu
+ye nain hai.n ke jhuule ye zulf hai ki baadal haay
+teraa kyaa kahanaa dekhe jo nainaa
+to saarii rainaa jaage ye nainaa
+naino.n se nii.nd churaa_e o raanii terii javaanii
+gaa.Nv me.n piipal \threedots
+%
+#endindian
+\endsong
+

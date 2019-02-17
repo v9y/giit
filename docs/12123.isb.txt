@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{teraa saath hai itanaa pyaaraa ... hame.n aanaa pa.Degaa duniyaa me.n dubaaraa}%
+\film{Jaanbaaz}%
+\year{1986}%
+\starring{Firoz Khan, Sridevi, Anil Kapoor, Dimple Kapadia}%
+\singer{Kishor, Sapana Awasthi}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa saath hai itanaa pyaaraa \-2
+kam lagataa hai jiivan saaraa
+tere milan kii lagan me.n
+hame.n aanaa pa.Degaa duniyaa me.n dubaaraa \-2
+
+maine tan man tujh par vaaraa
+pyaas bujhii na karake nazaaraa
+tere milan kii lagan \threedots
+
+jitanii tujhame.n hai adaa ( utanii hii vafaa ) \-2
+jitanaa jahaa.n me.n pyaar hai ( tujhase mujhe milaa ) \-2
+ba.Dhatii hii jaa_e betaabii ba.Dhatii jaa_e ye betaabii
+jitanaa karuu.n nazaaraa
+hame.n aanaa pa.Degaa \threedots
+
+pyaar ke ek ek pal pe hai.n ( sau jiivan qurbaan ) \-2
+pyaar kabhii marataa nahii.n ( marate hai.n insaan ) \-2
+pyaar usii kaa jiivan hai jo tere saath guzaaraa
+hame.n aanaa pa.Degaa \threedots
+%
+#endindian
+\endsong
+
+

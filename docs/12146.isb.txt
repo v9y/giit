@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{chaahaa hai tujhe chaahe.nge saa.Nso.n me.n bas jaa_e.nge}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Shabbir Kumar, Amit Kumar, Shailendra, Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaahaa hai tujhe chaahe.nge
+saa.Nso.n me.n bas jaa_e.nge
+tujhe apanaa Kudaa banaa_e.nge
+ab dilabar yaar tujhase hoke judaa
+ik pal bhii na ham jii paa_e.nge
+chaahaa hai tujhe \threedots
+
+badale.nge log rut badalegii badalegaa ye zamaanaa
+duniyaa na bhuul paa_egii teraa meraa fasaanaa
+ho nazaro.n ke saamane rahanaa kabhii mujhase naa duur jaanaa
+rab ko bhulaanaa aasaa.n hai mushkil hai tumhe.n bhulaanaa
+tere li_e o mere sanam ham le.nge sau sau janam
+sadiyo.n talaq havaa_o.n me.n guu.njegaa ye taraanaa
+ab dilabar yaar tujhase \threedots
+
+Kushiyaa.n sabhii zamaane kii mai.n tujh pe sanam luTaa duu.N
+tere li_e ai jaan\-e\-vafaa mai.n dono.n jahaa.N bhulaa duu.N
+mahakii hu_ii bahaaro.n ko zulfo.n se mai.n terii sajaa duu.N
+kaa.NTe chubhe.n naa paa.nvo.n me.n raaho.n me.n phuul bichhaa duu.N
+aayegaa ko_ii bhii Gam to.De.nge naa ye kasam
+aa dil ke aa_iine me.n tujhe terii tasviir dikhaa duu.N
+chaahaa hai tujhe \threedots
+%
+#endindian
+\endsong
+

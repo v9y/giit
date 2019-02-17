@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{kisii ke Thukaraa kar aramaan ... yah mausam roj nahii.n aataa}%
+\film{Pocketmaar}%
+\year{1956}%
+\starring{Dev Anand, Geeta Bali, Nadira, Gop, Sundar, Meenu Mumtaz}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10589 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kisii ke Thukaraa kar aramaan na jaa o bedardii naadaan
+yah mausam roj nahii.n aataa \-2
+
+are anajaan nahii.n aasaan bahaaro.n ke aise saamaan
+ye mausam roj \threedots
+
+shamaa tak aa ke paravaane kahaa.N jaataa hai diivaane
+yuu.N hii kyo.n hotaa hai hairaan nazaaqat mauqe kii pahachaan
+ye mausam roj \threedots
+
+sadaa ik baat nahii.n hotii hasii.n har raat nahii.n hotii
+bharosaa kyaa ghaTaa_o.n kaa sadaa barasaat nahii.n hotii
+ye rut do din kii mehamaan na hogii kal koyal kii taan
+ye mausam roj \threedots
+%
+#endindian
+\endsong
+

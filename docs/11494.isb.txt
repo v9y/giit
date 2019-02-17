@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{gorii tere chalane pe meraa dil qurbaa.N}%
+\film{Faisla}%
+\year{1965}%
+\starring{Sheikh Mukhtar, L Vijaylaxmi, Jugal Kishor, Jagdeep, Jeevan, Jagdev}%
+\singer{Mukesh}%
+\music{Usha Khanna}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10462 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+gorii tere chalane pe meraa dil qurbaa.N \-2
+teraa chalanaa teraa rukanaa teraa mu.Danaa taubaa
+gorii tere chalane \threedots
+
+paayal bajaanaa us pe laharaanaa lachakanaa \-2
+zulfe.n u.Daanaa aur meraa duur se takanaa
+mujhe Dar hai luT naa jaa_e kahii.n meraa iimaan
+meraa dil qurbaan \threedots
+
+teraa diivaanaa terii aarazuu karataa hai teraa diivaanaa
+teraa saudaa_ii tere naam pe marataa hai
+zaraa tham jaa zaraa ruk jaa teraa hogaa ehasaan
+meraa dil qurbaan \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{teraa dil kahaa.N hai, sab kuchh yahaa.N hai}%
+\film{Chandni Chowk}%
+\year{1954}%
+\starring{Meena Kumari, Shekar}%
+\singer{Asha}%
+\music{Roshan}%
+\lyrics{}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Credits:
+% Date:9 March,2001
+% Comments : Lyricist not specified in HFGK.
+%
+\printtitle
+#indian
+%
+
+(teraa dil kahaa.N hai, sab kuchh yahaa.N hai
+dil bhii javaa.N, ye rut bhii javaa.N, ye soyaa jahaa.N)\-2
+teraa dil kahaa.N hai
+
+(aise me.n aake, aise me.n aake
+dil me.n samaa jaa, dil me.n samaa jaa)\-2
+teraa dil kahaa.N hai, sab kuchh yahaa.N hai
+dil bhii javaa.N, ye rut bhii javaa.N, ye soyaa jahaa.N
+teraa dil kahaa.N hai
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{apane ki_e pe ko_ii pashemaan ho gayaa}%
+\film{Mehndi}%
+\year{1958}%
+\starring{Jayshri, Ajit, Veena, Kumar}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10714 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+apane ki_e pe ko_ii pashemaan ho gayaa
+lo aur merii maut kaa saamaan ho gayaa
+
+aaKir ko ra.ng laa_ii.n merii begunaahiyaa.N
+mujhako sataa ke vo bhii pareshaan ho gayaa
+lo aaj merii maut \threedots
+
+kyaa raaz hai ki aa.Nkh milaa lii huzuur ne
+kyo.n aaj mujh Gariib pe ehasaan ho gayaa
+lo aaj merii maut \threedots
+
+ye bahakii\-bahakii baate.n ye bazm ye adaa
+ye aaj kyaa tujhe are naadaan ho gayaa
+lo aaj merii maut \threedots
+%
+#endindian
+\endsong
+

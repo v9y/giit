@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{le chalo le chalo ab kahii.n le chalo}%
+\film{Maan Jaaiye}%
+\year{1972}%
+\starring{Rehana Sultan, Rakesh Pande, Jalal Agha, Asit Sen, Leela Misra}%
+\singer{Mukesh, Vaani Jairam}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10261 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+vaa \:	le chalo le chalo ab kahii.n le chalo
+mu \:	soch lo soch lo phir zaraa soch lo
+vaa \:	le chalo le chalo \threedots
+
+	pyaar tumase kiyaa hai Kushii ke li_e
+	tumako saathii chunaa zindagii ke li_e
+	ye na ho tum kahii.n raah me.n chho.D do
+mu \:	soch lo soch lo \threedots
+
+mu \:	Gar nahii.n hai yaqii.n to qadam rok lo
+vaa \:	le chalo le chalo \threedots
+
+mu \:	pyaar kii raah me.n hai.n ka_ii mushkile.n
+	tumako soche hu_e sukh mile.n na mile.n
+	nibhaa sako to nibhaane kaa vaadaa karo
+vaa \:	le chalo le chalo \threedots
+do \:	ha.n ha.n ha.n ha.n \-3
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{haTo tum baajuu havaa aane do ... kar buum buum}%
+\film{Albela}%
+\year{2001}%
+\starring{Govinda, Aishwarya Rai, Namrata Shirodkar}%
+\singer{Sonu Nigam, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+haTo tum baajuu havaa aane do
+diivaanepan kaa nashaa chhaane do
+mai.n huu.N kahaa.n mujhe hosh nahii.n
+meraa dil ye kahe kar buum buum
+haTo tum baajuu \threedots
+
+aaj mere bahake hai.n kadam ba.Daa betaab hai man
+jaane kidhar mujhe leke chalii diivaanii pagalii pavan
+ho isame.n meraa ko_ii doSh nahii.n
+meraa dil ye kahe kar buum buum
+haTo tum baajuu \threedots
+
+yaar milegii kahii.n naa kahii.n jo khvaabo.n me.n aane lagii
+sabase hasii.n hai vo sabase javaa.n jo har pal sataane lagii
+ho rahanaa mujhe khaamosh nahii.n
+meraa dil ye kahe kar buum buum
+haTo tum baajuu \threedots
+%
+#endindian
+\endsong
+

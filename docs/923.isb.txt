@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{kaahe ko byaahe bides, are lakhiyan baabul mohe}%
+\film{Umrao Jaan}%
+\year{1981}%
+\starring{Rekha, Naseeruddin Shah, Farouque Shaikh}%
+\singer{Jagjit Kaur, Chorus}%
+\music{Khayyam}%
+\lyrics{Amir Khusro}%
+% 
+% Contributor: Vandana Sharma <uusharma@uxa.ecn.bgu.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Nitin Sharma <nitin@cs.washington.edu>, Saket Jain
+% Date: 07/18/1996
+%
+\printtitle
+#indian
+%
+ja: kaahe ko byaahe bides, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides 
+
+ja: ham to baabul tore bele kii kaliyaa.n 
+ko: ham to baabul tore bele kii kaliyaa.n 
+ja: are ghar\-ghar maa.Ngii hai.n jaae, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides 
+
+
+ja: ham to baabul tore pi.njare kii chi.Diyaa 
+ko: ham to baabul tore pi.njare kii chi.Diyaa 
+ja: are kuhuk kuhuk rahii jaae, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides 
+
+
+ja: mahalaa.n tale se Dolaa jo nikalaa 
+ko: mahalaa.n tale se Dolaa jo nikalaa 
+ja: are biiran ne khaaii pachhaa.D, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides 
+
+
+ja: bhaiyaa ko diyo baabul mahalaa.n do mahalaa.n 
+ko: bhaiyaa ko diyo baabul mahalaa.n do mahalaa.n 
+ja: are ham ko diyo parades, are lakhiyaa baabul more 
+ko: kaahe ko byaahe bides, are lakhiyaa baabul more  \-2 
+ko: kaahe ko byaahe bides \threedots 
+
+%
+#endindian
+\endsong
+%
+

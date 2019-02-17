@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{koyaliyaa jab gaatii hai paayaliyaa chhanakaatii hai ... nadiyaa ke paanii ne chhu_aa}%
+\film{Jungle Love}%
+\year{1990}%
+\starring{Rockey, Kirti Singh, Goga Kapoor, Mahesh Anand, Shiva, Gajendra Chauhan}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+koyaliyaa jab gaatii hai paayaliyaa chhanakaatii hai
+sard havaa jab aatii hai su_ii chubhaa ke jaatii hai
+nadiyaa ke paanii ne chhu_aa kaise bataa_uu.n kyaa hu_aa 
+koyaliyaa jab gaatii \threedots
+
+miiThaa miiThaa dard hai miiThii miiThii pyaas hai
+cha.Dhatii javaanii kaa ehasaas hai
+baaho.n me.n sameT luu.n mahakii bahaar ko
+dil kahe rok luu.n nadiyaa kii dhaar ko
+Dolo tum balakhaa_o bin saavan laharaa_o
+nadiyaa ke paanii ne \threedots
+
+Tha.nDii Tha.nDii aag hai bhiigaa bhiigaa a.ng hai
+Dase.n tanhaa_iyaa.n ko_ii nahii.n sa.ng hai
+saa.Nse.n hai dhu_aa.N jalataa hai man meraa
+rah rah ke ghabaraa_uu.n jal me.n na jal jaa_uu.n
+nadiyaa ke paanii ne \threedots
+%
+#endindian
+\endsong
+

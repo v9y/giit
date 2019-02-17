@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{aap mujhe achchhe lagane lage sapane sachche}%
+\film{Jeene Ki Raah}%
+\year{1969}%
+\starring{Jeetendra, Tanuja}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11105 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+ahaa
+aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+nain saarii rain jagane lage
+
+ke aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+nain saarii rain jagane lage
+ke aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+
+baate.n yahii hone lagii.n gaa.Nv me.n ho
+baate.n yahii hone lagii.n gaa.Nv me.n
+chhupatii phiruu.N mai.n dhuup me.n chhaa.Nv me.n
+za.njiire.n faulaad kii hai.n paa.Nv me.n
+magar chhan\-chhananan ghu.Ngharuu bajane lage
+
+ahaa aap mujhe achchhe lagane lage
+nain saarii rain jagane lage
+ke aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+
+a.Nkhiyo.n ko bhed kholanaa aa gayaa haay
+a.Nkhiyo.n ko bhed kholanaa aa gayaa
+mere man ko bhii Dolanaa aa gayaa
+Kaamoshii ko bolanaa aa gayaa
+dekho giit mere mukh pe sajane lage
+
+ahaa aap mujhe achchhe lagane lage
+nain saarii rain jagane lage
+ke aap mujhe achchhe lagane lage
+sapane sachche lagane lage
+%
+#endindian
+\endsong
+

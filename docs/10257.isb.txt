@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{vo tiir dil pe chalaa jo terii kamaan me.n hai}%
+\film{Aarti}%
+\year{1962}%
+\starring{Ashok Kumar, Meena Kumari, Pradeep Kumar}%
+\singer{Rafi, Asha}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10477 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	vo tiir dil pe chalaa jo terii kamaan me.n hai
+aa \:	haay kisii kii aa.Nkh me.n jaaduu terii zubaan me.n hai
+
+ra \:	nazar me.n aate hii tum to jigar me.n samaa_e sanam
+	jigar me.n aate hii dil kii taraf ba.Dhaa_e qadam
+	kahii.n Thaharatii nahii.n jo usii adaa kii qasam \-2
+	zamii.n pe hai vahii bijalii jo aasamaan me.n hai
+aa \:	haay kisii kii aa.Nkh \threedots
+
+	ye maanaa ra.ng mohabbat ke ho chale gahare
+	magar labo.n pe hai.n dilo.n pe hai.n pahare
+	jo beqaraar ho dil se kahii.n vo kyaa Thahare
+	abhii to husn mohabbat ke imtahaan me.n hai
+ra \:	vo tiir dil pe chalaa \threedots
+
+
+aa \:	tumhaarii aa.Nkho.n ke aage ye din ye raat kahaa.N
+ra \:	gulo.n kii shaakh kahaa.N ek sanam kaa haath kahaa.N
+aa \:	hasiin dekhe hazaaro.n magar ye baat kahaa.N \-2
+do \:	ye baat aur hai jo terii aanabaan me.n hai	
+	kisii kii aa.Nkh \threedots
+%
+#endindian
+\endsong
+

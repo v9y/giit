@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saasuu jii tuune merii kadar naa jaanii ... bahuu ko tuune bahuu na samajhaa}%
+\film{Biwi Ho To Aisi}%
+\year{1988}%
+\starring{Kader Khan, Bindu, Rekha, Farukh Sheikh, Salman Khan, Asrani}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saasuu jii tuune merii kadar naa jaanii
+bahuu ko tuune bahuu na samajhaa samajhaa samajhaa naukaraanii
+saasuu jii tuune merii \threedots
+
+jab se tere ghar me.n aa_ii
+ik din chain se rah na paa_ii
+merii ko_ii baat na maanii tuune kii manamaanii
+saasuu jii tuune merii \threedots
+
+are gaalii dii chaabuk barasaayaa
+chorii kaa ilzaam lagaayaa
+aaj sunaa_uu.ngii sabako tere zulmo.n kii kahaanii
+saasuu jii tuune merii \threedots
+
+nark se ghar ko svarg banaayaa
+sevaa kii har naaz uThaayaa
+o jiit liyaa dil pyaar se sabakaa tumase rahii begaanii
+saasuu jii tuune merii \threedots
+%
+#endindian
+\endsong
+

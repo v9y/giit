@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{din javaanii ke chaar yaar pyaar ki_e jaa}%
+\film{Pyar Kiye Ja}%
+\year{1966}%
+\starring{Shashi Kapoor, Kishore Kumar, Mahmood, Kalpana, Rajshri, Om Prakash}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11005 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+din javaanii ke chaar yaar pyaar ki_e jaa
+kahaa.N baar\-baar
+aataa hai dil diivaanaa ik baar yaar pyaar ki_e jaa
+
+ba.Dii mushkil se fursat pyaar kii milatii hai dilabar
+khel zaraa sii pyaar kii baazii nikale aramaa.N saare
+jab tak ye bahaar yaar pyaar ki_e jaa
+din javaanii ke \threedots
+
+umariyaa Dhal ga_ii lekin abhii tak dil javaa.N hai
+samajho socho
+agar tum aazamaa_oge to bologe ki haa.N hai
+chiiz ba.Dii hai pyaar mohabbat umr me.n kyaa rakhaa hai pyaare
+ab to kar le ikaraar yaar pyaar ki_e jaa
+din javaanii ke \threedots
+
+agar mu.D ke dekho mere maasuum qaatil \-2
+to jaanoge ki ham hii hai.n tumhaare dil ke qaabil
+ruup badal ke chaahane vaalaa muddat se thaa paas tumhaare
+le\-le baa.Nho.n ke haar yaar pyaar ki_e jaa
+din javaanii ke \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,88 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{haayalaa haayalaa huaa huaa}%
+\film{Koi ... Mil Gaya}%
+\year{2003}%
+\starring{Preity Zinta, Hrithik Roshan}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Vidyaan
+% Transliterator: Vidyaan
+% Date: 11 Mar 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+udit:
+haayalaa haayalaa \threedots
+he, taarii raaraa raarii raarii raaraa taarii raaraa raarii raa raa raa
+alakA: 
+haayalaa haayalaa \threedots
+
+alakA: haayalaa haayalaa
+udit: huaa huaa 
+alakA: haayalaa haayalaa 
+udit: tuune chhuaa
+alakA: (haayalaa haayalaa mai.n to mar ga_ii re,
+    beKudii me.n kyaa ye kar ga_ii re) \- 2
+udit: haayalaa haayalaa 
+alakA: huaa huaa  
+udit: haayalaa haayalaa 
+alakA: tuune chhuaa
+udit: (haayalaa haayalaa jaa.N taras ga_ii re,
+    phir koii ghaTaa baras ga_ii re) \- 2
+
+udit: chhuunaa thaa ik bahaanaa, chhuu liyaa chhuu liyaa chhuu liyaa
+    he, pyaar thaa ye puraanaa, kah diyaa kah diyaa kah diyaa
+alakA: tumako mai.n maan ga_ii, aaj pahachaan ga_ii \- 2
+    nikale tum to diiwaane
+udit: merii chorii
+alakA: mai.nne paka.Dii
+udit: gorii baa.Nhe.n
+alakA: kaahe jaka.Dii.n, kaa.Npane lagaa hai ye jiyaa
+alakA: haayalaa haayalaa 
+udit: huaa huaa
+alakA: haayalaa haayalaa 
+udit: tuune chhuaa
+alakA: haayalaa haayalaa mai.n to mar ga_ii re
+    beKudii me.n kyaa ye kar ga_ii re
+udit: haayalaa haayalaa huaa huaa, 
+    haayalaa haayalaa tujhe chhuaa
+    haayalaa haayalaa jaa.N taras ga_ii re 
+    phir koi ghaTaa baras gayii re \-2
+
+koras: Dolaalaare Doleraaraa hebaabaare 
+
+alakA: rok kar dil ko dekhaa, naa rukaa naa rukaa naa rukaa
+    tuune kuchh kar diyaa to, ye jhukaa ye jhukaa ye jhukaa
+udit: jaane kyaa mai.nne kiyaa, tujhako jaane kyaa huaa \- 2
+    hum lage muskuraane
+alakA: chaahe din ho 
+udit: chaahe raate.n
+alakA: yuu.Nhii baiThe 
+udit: kare.n baate.n, pyaar hamane bas me.n kar liyaa
+udit: haayalaa haayalaa 
+alakA: huaa huaa  
+udit: haayalaa haayalaa 
+alakA: tuune chhuaa
+udit: haayalaa haayalaa jaa.N taras ga_ii re,
+    phir koii ghaTaa baras ga_ii re
+alakA: haayalaa haayalaa 
+udit: huaa huaa 
+alakA: haayalaa haayalaa
+udit: tuune chhuaa
+alakA: haayalaa haayalaa mai.n to mar ga_ii re,  
+   beKudii me.n kyaa ye kar ga_ii re
+udit: phir koii ghaTaa baras ga_ii re
+
+%
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{saa.Nvale salone aaye din bahaar ke}%
+\film{Ek Hi Raasta}%
+\year{1956}%
+\starring{Sunil Dutt, Meena Kumari, Daisy Irani, Ashok Kumar}%
+\singer{Hemant, Lata}%
+\music{Hemant}%
+\lyrics{Majrooh}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantda-A genius in his niche(28)
+%
+\printtitle
+#indian
+%
+la: saa.Nvale salone aaye din bahaar ke
+    jhuumate nazaare jhuume ra.ng ugaar ke
+la: nadii kinaare
+he: koii pukaare
+do: aayaa zamaanaa gaao giit pyaar ke \threedots
+
+la: jhuuum ke pavan dekho chalii chalii
+    pyaar ke nashe me.n khilii kalii kalii
+he: phuulo.n ke dar se ye bha.Nvaraa pukaare
+    aaye diivaane tere i.ntazaar ke \threedots
+
+la: Dolatii ghaTaa ke sa.ng Dole jiyaa
+    baag me.n papiihaa bole piyaa piyaa
+he: R^it ra.ngiilii kahe karake ishaare
+    chhe.Do fasaane dil\-e\-beqaraar ke \threedots
+
+%
+#endindian
+\endsong
+%

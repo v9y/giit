@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{bolo bolo kuchh to bolo, gussaa chho.Do dil na to.Do}%
+\film{Dil Deke Dekho}%
+\year{}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+% \printtitle
+#indian
+%
+bolo bolo kuchh to bolo, gussaa chho.Do dil na to.Do
+pyaar ho to kah do yas,  pyaar nahii.n to kah do no
+phir jo ho ho so ho,  phir jo ho ho so ho,  haay
+pyaar ho to kah do yaa{\threedots}h
+
+aapakii adaao.n kaa hisaab nahii.n
+laakho.n me.n hamaaraa bhii javaab nahii.n
+kam nahii.n tum,   kam nahii.n tum,   socho zaraa
+
+bolo bolo kuchh to bolo, gussaa chho.Do dil na to.Do
+aise na aa.nchal bachaalo sanam
+pyaar ho to kah do yas \threedots
+
+kaahe ko nazar ghabaraaI sii hai
+mahafil bhii hai tanahaaI bhii hai
+ruke ruke tum, ruke ruke ham, socho zaraa
+
+bolo bolo kuchh to bolo, gussaa chho.Do dil na to.Do
+ab to nigaahe.n milaa lo sanam
+pyaar ho to kah do yas \threedots
+
+kahaa.N chale jii zaraa haal suno
+kisii dilavaale kaa savaal suno
+Dare Dare tum, Dare Dare ham, socho zaraa
+
+bolo bolo kuchh to bolo, gussaa chho.Do dil na to.Do
+Thokar lage naa sambhaalo sanam
+pyaar ho to kah do yas \threedots \- 2
+%
+#endindian
+\endsong
+%

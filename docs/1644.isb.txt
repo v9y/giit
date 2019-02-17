@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{suhaanii raat Dhal chukii, naa jaane tum kab aaoge}% 
+\film{Dulari}%
+\year{}%
+\starring{Madhubala}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+(suhaanii raat Dhal chukii
+naa jaane tum kab aaoge ) \- 2
+jahaa.N kii rut badal chukii .a .a .a 
+naa jaane tum kab aaoge
+
+nazaare .a .a .a  apanii mastiyaa.n
+dikhaa dikhaa ke so gaye
+sitaare .a .a .a  apanii raushanii
+luTaa luTaa ke so gaye
+har ek shammaa jal chukii
+naa jaane tum kab aaoge
+suhaanii raat Dhal chukii \threedots
+
+ta.Dap rahe hai.n ham yahaa.N  \- 2
+tumhaare i.ntazaar me.n \- 2
+(khizaa kaa ra.ng, aa chalaa hai      
+mausam\-e\-bahaar me.n ) \- 2
+mausam\-e\-bahaar me.n             
+havaa bhii rukh badal chukii .a .a .a 
+naa jaane tum kab aaoge
+
+suhaanii raat Dhal chukii
+naa jaane tum kab aaoge
+%
+#endindian
+\endsong
+%

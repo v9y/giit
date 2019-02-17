@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{o nanhe se farishte, tujh se ye kaisaa naataa}% 
+\film{Ek Phool Do Mali}%
+\year{1969}%
+\starring{Sadhna, Sanjay, Balraj Sahni}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor:  C.S.Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+o nanhe se farishte, tujh se ye kaisaa naataa 
+kaise ye dil ke rishte, o nanhe se farishte 
+##happy birthday to you ## \threedots
+
+1) tujhe dekhane ko tarase, kyo.n har gha.Dii nigaahe.n 
+bechain sii rahatii hai.n, tere liye ye baahe.n 
+mujhe khud pataa nahii.n hai, mujhe tujhase pyaar kyuu.n hai, 
+o nanhe \threedots
+
+2) naazuk saa phuul hai tuu, kisii aur ke chaman kaa 
+khushabuu se terii mahake, kyo.n baag mere man kaa 
+merii zindagii me.n chhaaii, tujhase bahaar kyuu.n hai, 
+o nanhe \threedots
+
+3) tuu kuchh nahii.n hai meraa, phir bhii ye ta.Dap kaisii 
+tujhe dekhate hii khuun me.n, uThatii hai ik lahar sii 
+har vakt mujhako rahataa, teraa intazaar kyuu.n hai, 
+o nanhe \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{aayaa hai mujhe phir yaad vo zaaliim guzaraa zamaanaa bachapan kaa}%
+\film{Devar}%
+\year{1966}%
+\starring{Dharmendra, Sharmila Tagore, Devan Verma}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Jasjit Singh (jasjit@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+%          Rahul Upadhyay
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aayaa hai mujhe phir yaad vo zaalim 
+guzaraa zamaanaa bachapan kaa 
+haay re akele chho.D ke jaanaa 
+aur nA aanaa bachapan kaa 
+aayaa hai mujhe phir yaad vo zaalim 
+
+vo khel vo saathii vo jhuule 
+vo dau.D ke kahanaa aa chhU le
+ham aaj talak bhI nA bhuule \- 2
+vo khvaab suhaanaa bachapan kA 
+aayaa hai mujhe phir yaad vo zaalim 
+
+isakii sabako pahachaan nahii.n 
+ye do din kA mehamaan nahii.n 
+mushkil hai bahut, aasaan nahii.n \- 2
+ye pyaar bhulaanaa bachapan kA 
+aayaa hai mujhe phir yaad vo zaalim 
+
+mil kar roye fariyaad kare.n 
+un biite dino.n kii yaad kare.n 
+ai kaash kahii.n mil jaaye koI \- 2
+vo miit puraanaa bachapan kA 
+aayaa hai mujhe phir yaad vo zaalim 
+%
+#endindian
+\endsong
+%

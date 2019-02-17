@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{chandaa ne dii chaa.Ndanii ... meraa munnaa ban gayaa}%
+\film{Maa}%
+\year{1991}%
+\starring{Jeetendra, Jayaprada, Kader, Shakti, Gulshan, Aruna Irani, Sahila Chaddha}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ka \:	chandaa ne dii chaa.Ndanii suuraj ne dii roshanii \-2
+	phuulo.n ne diyaa ra.ng to meraa munnaa ban gayaa
+	ki meraa munnaa ban gayaa
+ku \:	priit ne pyaar diyaa prem se pyaar liyaa
+	milaa jo teraa sa.ng to meraa munnaa ban gayaa
+	ki meraa munnaa ban gayaa
+ka \:	chandaa ne dii chaa.Ndanii \threedots
+
+	tuu mere man kii ga.ngaa hai sadaa jo paavan rahatii hai
+ku \:	tuu mere man kii jamunaa hai yug yug se bahatii hai
+ka \:	sach hogaa sapanaa o mere sajanaa
+	lagii jo tere a.ng to meraa munnaa ban gayaa
+ku \:	chandaa ne dii chaa.Ndanii \threedots
+
+ka \:	ye ghar meraa ma.ndir hai tuu puujaa kii thaalii hai
+ku \:	maa.N kii mamataa is thaalii me.n jot jalaane vaalii hai
+ka \:	jiivan ke aadhaar tuu meraa shrR^i.ngaar
+	man me.n uThii tara.ng to meraa munnaa ban gayaa
+ku \:	chandaa ne dii chaa.Ndanii \threedots
+
+	shabanam phuul kalii aur kiraNo.n jaisii terii suurat hai
+ku \:	mujhako salonii tere mere jaisii muurat hai
+ka \:	mujhako milaa sammaan mere paavan dhaam
+	khilaa hai sabakaa ra.ng to meraa munnaa ban gayaa
+ku \:	chandaa ne dii chaa.Ndanii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{man aanand aanand chhaayo}%
+\film{Vijeta}%
+\year{1982}%
+\starring{Kunal Kapoor, Supriya Pathak, Rekha, Shashi Kapoor, Om Puri}%
+\singer{Asha, Satyasheel Deshpande}%
+\music{Ajit Varman}%
+\lyrics{Vasant Dev}%
+% 
+% Contributor: Chetan Vinchhi (CVinchhi@Telogy.com)
+% Transliterator: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Date: Wed Jan 17 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  Lovely classical song from a Govind Nihalani film.
+%
+\printtitle
+#indian
+%
+man aanand aanand chhaayo
+miTyo gagan ghan a.ndhakaar
+a.Nkhiyan me.n jab sUraj aayo
+man aana.nd \threedots
+
+uThii kiraN kii lahar sunaharii
+jaise paavan ga.ngaajal
+arpaN ke pal har si.ngaar madhu
+giit si.nduurii gaayo
+man aana.nd \threedots
+
+aisii pii.D rahii man me.n to
+asuvan haath bikaanii
+aa.Nsuo.n se bhaye binasuuri (?)
+rom rom muskaayo
+man aana.nd \threedots
+
+maan sarovar magan kampan
+nabhadarpan kii jhaa.nkii
+taa me.n abikal adhakhul lochan
+praaNaha.Ns utar aayo
+man aana.nd \threedots
+%
+#endindian
+\endsong
+%

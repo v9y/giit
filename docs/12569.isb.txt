@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{saajanaa din bahure hamaare}%
+\film{Khel}%
+\year{1950}%
+\starring{Nigar, Nargis, Dev Anand, Hafeez Jahaan, Anwarm Murad}%
+\singer{Geeta}%
+\music{Sajjad}%
+\lyrics{Aarzoo Lakhnavi}%
+%
+% Contributor: BOL ANAMOL #12293 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+saajanaa din bahure hamaare \-2
+pyaase aa pahu.Nche nadiyaa kinaare
+saajanaa din bahure hamaare
+
+kaamanaa_o.n me.n bechainii aa_ii \-2
+man kii komal kalii musakaa_ii
+ham kahaa.N tum kahaa.N \-2
+aur ye pyaaraa samaa.N ha.Nse
+Kaabo.n ke chamake sitaare
+saajanaa din bahure hamaare
+
+( khel chaahat kaa khel
+ye hai man kii kulel
+ba.De itanaa to mel ) \-2
+manjhe cha.Dh jaaye bel \-2
+tum hamaare bano.n ham tumhaare
+saajanaa din bahure hamaare
+
+phir kahaa.N aisii raate.n suhaanii \-2
+phir kahaa.N ye machalatii jawaanii
+man kii maujo.n me.n zor \-2
+prem\-nadiyaa kaa shor
+aaj mil jaaye.n do bahate dhaare
+saajanaa din bahure hamaare \-2
+saajanaa
+%
+#endindian
+\endsong
+%
+

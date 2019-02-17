@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dukh jo di_e hai.n duniyaa ne mai.n jaanuu.N yaa tuu jaane}%
+\film{Naach Ghar}%
+\year{1959}%
+\starring{Ashok Kumar, Shokha Khote, Gopi Krishan, Helen, Anoop Kumar}%
+\singer{Rafi, Lata}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10297 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dukh jo di_e hai.n duniyaa ne mai.n jaanuu.N yaa tuu jaane
+
+ham jaise nirdhan duniyaa me.n aa_e kyo.n
+usase hii puuchhe ko_ii usane banaa_e kyo.n
+Gam apane sukh begaane mai.n jaanuu.N yaa tuu jaane
+
+rastaa hii aa.Ngan rastaa hii ghar hai
+kahaa.N\-kahaa.N bhaTake kisako Kabar hai
+fariyaade.n hai.n yaa gaane mai.n jaanuu.N yaa tuu jaane
+
+auro.n ke dumahale aur ra.ng\-raliyaa.N
+hamako milii hai.n a.ndhiyaarii galiyaa.N
+barabaadii ke afasaane mai.n jaanuu.N yaa tuu jaane
+dukh jo di_e hai.n \threedots
+%
+#endindian
+\endsong
+

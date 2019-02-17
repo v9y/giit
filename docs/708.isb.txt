@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{hame.n kyaa khabar thii isii mo.D par yuu.N}%
+\film{Kartavya}%
+\year{}%
+\starring{Sanjay Kapoor, Juhi Chawla}%
+\singer{???}%
+\music{Dilip Sen-Sameer Sen}%
+\lyrics{???}%
+% 
+% Contributor: Kuntal Shah <kuntal@india.ti.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+hame.n kyaa khabar thii isii mo.D par yuu.N
+milegaa hame.n bhii koii ajanabii
+badal jaegii yuu.N meriii zi.ndagii
+
+ham apanii hii dhun me.n akele akele
+chale hii chale jaa rahe the akele akele
+mil gae ho jo tum
+ab nahii.n hai.n sanam akele akele
+ye dil jaanataa thaa mulaaqaat hogii
+kisii na kisii se kabhii na kabhii
+
+dete hai.n gavaahii na nazaare ham.ne tum se pyaar hai
+dha.Dakan bhii ye pukaare hame.n tum se pyaar hai
+kah rahaa hai samaa
+saa.Nso.n kiii garmiyaa.N hame.n tum se pyaar hai
+kariib aake tere hu_ii ham ko haasil
+terii baaho.n me.n na_ii bekhudii
+%
+#endindian
+\endsong
+%
+

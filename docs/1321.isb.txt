@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{nain hamaare saa.njh sakhaare, dekhane laakho.n sapane}%
+\film{Annadata}%
+\year{1972}%
+\starring{Anil Dhawan, Jaya Bhaduri, Om Prakash}%
+\singer{Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%            Vinay P Jain
+%
+\printtitle
+#indian
+%
+nain hamaare saa.Njh sakaare
+dekhe.n laakho.n sapane
+sach ye kahii.n
+ho.nge yaa nahii.n
+koI jaane naa
+koI jaane naa yahaa.N
+
+chalate rahe.n Dagar pe Gam kii jnake vaaste
+chhalate rahe.n dilo.n ko ajanabii se raaste
+sadiyo.n se chhaye, ye jo sapano.n ke saaye
+sach ye kahii.n \threedots
+
+man ye kahe dukhii na ho Gamo.n se haar ke
+likhate rahe jo aa.Nsuo.n se giit pyaar ke
+giit vo chaahe roe koI ha.Ns ke gaae
+sach ye kahii.n \threedots
+
+sunate rahe bahaaro.n kii jo roz aahaTe.n
+chunate rahe labo.n pe ham to muskuraahaTe.n
+dil me.n dabaae laakho.n aramaa.N jo haay
+sach ye kahii.n \threedots
+%
+#endindian
+\endsong
+%

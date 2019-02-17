@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tum ne kisii kii jaan ko, jaate hue dekhaa hai}%
+\film{Rajkumar}%
+\year{}%
+\starring{Prithviraj Kapoor, Shammi Kapoor, Sadhana}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum ne kisii kii jaan ko jaate hue dekhaa hai
+vo dekho mujhase ruuThakar, merii jaan jaa rahii hai
+
+kyaa jaane kis qusuur kii, dii hai.n mujhe sazaae.n
+diivaanaa kar rahii hai.n, taubaa shikan adaae.n
+zulfo.n me.n mu.N chhupaakar, mujhako lubhaa rahii hai
+
+ghabaraa rahii hai Kud bhii, bechain ho rahii hai
+apane hii Kuun\-e\-dil me.n daaman Dubo rahii hai
+bejaan rah gae ham, vo muskaraa rahii hai
+
+mastii bharii havaao.n ab jaake rok lo tum
+tumako merii qasam hai samajhaa ke rok lo tum
+usakii judaaI dil par, nashtar chalaa rahii hai    %%%%% (nashtar=lancet)
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{pii bin suunaa rii patajha.D jaisaa jiiwan meraa}%
+\film{Hamdard}%
+\year{1953}%
+\starring{Nimmi, Shekhar, Smriti Biswas}%
+\singer{Manna Dey, Lata}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #12127 [V S Rawat]
+%
+\printtitle
+#indian
+%
+ma \:	pii bin suunaa rii
+la \:	aa
+	patajha.D jaisaa jiiwan meraa
+do \:	pii bin suunaa rii
+	patajha.D jaisaa jiiwan meraa
+	pii bin suunaa rii
+
+ma \:	man bin tan jyuu.N jal bin nadiyaa
+la \:	jyuu.N mai.n suunii binaa sa.Nwariyaa
+do \:	man bin tan jyuu.N
+	auro.n kii to rain andherii \-2
+ma \:	par hai meraa din bhii andheraa
+do \:	pii bin suunaa rii
+ma \:	dha pa
+la \:	dha pa ma
+ma \:	re ma pa dha pa
+la \:	dha pa ma
+ma \:	ga ma pa ga re sa
+la \:	ma re sa
+ma \:	re sa dha pa
+do \:	dha pa re sa dha pa ma
+	ga re ma ma re ga re sa
+	ma pa dha dha pa dha pa ma
+	pa dha sa dha dha sa dha pa
+	sa re ma ma re ma re sa
+ma \:	ma re re sa dha pa 
+
+la \:	re sa dha pa ma re re sa
+do \:	pii bin suunaa rii
+
+do \: 	aa_ii madhuu ritu basant bahaar rii \-2
+la \;	phuul\-phuul par bhramar guu.njat
+	sakhii.n aaye nahii.n bha.Nwar hamaar re
+	aa_ii
+do\: 	madhuu ritu basant bahaar rii
+ 	aa_ii madhuu ritu basant bahaar
+
+	kab lag nainan dwaar sajaa_uu.N \-2
+	diip jalaa_uu.N diip bujhaa_uu.N
+la \:	kab lag karuu.N singaar rii
+	aa_ii
+do\: 	madhuu ritu basant bahaar rii
+ 	aa_ii madhuu ritu basant bahaar
+	aa
+ 	aa_ii madhuu ritu basant bahaar rii
+	bahaar rii \-3
+%
+#endindian
+\endsong
+

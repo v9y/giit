@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{gore gore mukha.De pe kaalaa kaalaa chashmaa}%
+\film{Suhaag}%
+\year{1994}%
+\starring{Akshay Kumar, Karisma, Ajay Devgan, Naghma, Aruna Irani, Tiku}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+gore gore mukha.De pe kaalaa kaalaa chashmaa
+taubaa Kudaa khair kare khuub hai karishmaa
+gore gore mukha.De pe \threedots
+
+dekho isako gaur se la.Dakii hai ki huur hai
+jaaduu isake ruup me.n ye kitanii magaruur hai
+dekhuu.N jab dekhuu.N ise dil dha.Dake
+ta.Dape javaanii haay aa.Nkh pha.Dake
+taubaa Kudaa khair kare \threedots
+
+aadat apanii chho.D de kahanaa meraa maan le
+yaanii mai.n kyaa chiiz huu.N tuu mujhako pahachaan le
+jaa re jaa anaa.Dii aisii baate.n naa banaa
+jaanuu.N mai.n huu.N jaanuu.N terii marzii hai kyaa
+tuune merii jaan meraa dekhaa naa karishmaa
+gore gore mukha.De pe \threedots
+%
+#endindian
+\endsong
+

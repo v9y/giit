@@ -1,0 +1,35 @@
+%
+\startsong 
+\stitle{zamaanaa kyaa kahegaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Dec 28, 2000
+%
+\printtitle
+#indian
+%
+
+zamaanaa kyaa kahegaa tum agar ham ko bhulaa doge
+hamaare pyaar kii duniyaa banaakar yuu.N miTaa doge
+
+nahii.n kuchh Gam hame.n is kaa kahe duniyaa jo diivaanaa
+hamaarii bebasii ko haay tum ne bhii nahii.n jaanaa
+hamaaraa haal kyaa hogaa jo tum bhii muskuraa doge
+hamaare pyaar kii duniyaa banaakar yuu.N miTaa doge \threedots
+
+vo dariyaa kaa kinaaraa vo suhaanii chaa.Ndanii raate.n
+jahaa.N ham tum kiyaa karate the chhupakar pyaar kii baate.n
+na sochaa thaa kabhii ham ne ke tum ye sab bhulaa doge
+hamaare pyaar kii duniyaa banaakar yuu.N miTaa doge \threedots
+
+%
+#endindian
+\endsong
+%

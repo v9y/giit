@@ -1,0 +1,71 @@
+% 
+\startsong
+\stitle{naam kyaa hai, pyaar kaa maaraa}%
+\film{Ye Dillagi}%
+\year{1994}%
+\starring{Kajol, Akshay Kumar, Saif Ali Khan}%
+\singer{Lata, Kumar Sanu}%
+\music{Dilip Sen-Sameer Sen}%
+\lyrics{Sameer}%
+% 
+% Contributor: Satish Subramanian <subraman@cs.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/26/1996
+%
+\printtitle
+#indian
+%
+la: naam kyaa hai?
+ku: pyaar kaa maaraa
+la: ghar kaa pataa do
+ku: dil hai tumhaaraa
+la: kyaa karate ho?
+ku: tumase pyaar
+la: isakaa natiijaa?
+ku: kuchh ho yaar
+
+la: naam kyaa hai?
+ku: pyaar kaa maaraa\threedots
+
+ku: mai.n teraa diivaanaa, tuu merii diivaanii
+    aise kyo.n nai Kafaa?
+la: kuchh na maanuu.N mai.n, jaanuu.N jaanuu.N mai.n
+    terii marzii hai kyaa
+ku: kabhii lailaa majanuu
+la: are jaa re jaa re jaa
+ku: kabhii shirii.n farhaad
+la: mujhe aise na sataa
+ku: kabhii raa.Njhaa kabhii hiir
+la: dil rakh duu.N mai.n chiir
+ku: kabhii ##Romeo Juliet##
+la: chal haT baajuu haT
+
+la: naam kyaa hai?
+ku: pyaar kaa maaraa\threedots
+
+ku: siine me.n dil hai, dil me.n dha.Dakan hai
+    dha.Dakan me.n tuu hai basii
+la: terii baato.n me.n, mai.n na aauu.Ngii
+    yuu.N na kar dillagii
+ki: o chho.Duu.N na terii galii
+la: tuu hai bha.Nvaraa mai.n kalii
+ku: o raanii aise na aka.D
+la: merii baahe.n na paka.D
+ku: hai iraadaa meraa nek
+la: duu diivaanaa dil\-phe.nk
+ku: mujhe Kvaabo.n me.n basaa
+la: aise baate.n na banaa
+
+la: naam kyaa hai?
+ku: pyaar kaa maaraa
+la: ghar kaa pataa do
+ku: dil hai tumhaaraa
+la: kyaa karate ho?
+ku: tumase pyaar
+la: isakaa natiijaa?
+ku: kuchh ho yaar
+%
+#endindian
+\endsong
+%
+

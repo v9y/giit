@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chalo achchhaa hu_aa tum bhuul gaye}%
+\film{Lakhon Mein Ek (Pakistani-Film)}%
+\year{1967}%
+\starring{Shamimara, Ejaz}%
+\singer{Noorjehan}%
+\music{Nisar Bazmi}%
+\lyrics{Fayyaz Hashmi}%
+
+% Contributor: V S Rawat, Aug 7, 2004
+% Series: NOOR-E-TARANNUM
+
+\printtitle
+#indian
+
+chalo achchhaa hu_aa tum bhuul gaye \-2
+ek bhuul thaa meraa pyaar ho saajanaa
+
+chalo achchhaa hu_aa tum bhuul gaye \-2
+
+( mai.n samajhuu.Ngii baaware nayanaa, dekh rahe the sapane
+ho dekh rahe the sapane ) \-2
+kho kar sab kuchh khoyaa, bhaag me.n thaa ye apane
+
+chalo achchhaa hu_aa tum bhuul gaye
+ek bhuul thaa meraa pyaar ho saajanaa
+chalo achchhaa hu_aa tum bhuul gaye
+
+man bagiyaa me.n aag bharii thii, phuul kahaa.N se khilate
+ho phuul kahaa.N se khilate
+ek nadii ke do the kinaare, kaise bhalaa phir milate
+
+chalo achchhaa hu_aa tum bhuul gaye
+ek bhuul thaa meraa pyaar ho saajanaa
+chalo achchhaa hu_aa tum bhuul gaye \-2
+
+#endindian
+\endsong

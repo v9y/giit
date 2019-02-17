@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye meraa jiivan tere liye hai jiivan kaa sapanaa}%
+\film{Andhaa Kanoon}%
+\year{1983}%
+\starring{Amitabh, Rajanikant, Madhavi}%
+\singer{Kishore}%
+\music{}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Porky 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+ye meraa jiivan tere liye hai 
+jiivan kaa sapanaa tere liye hai 
+maa.Ng le ha.Nsake kyaa chaahiye tujhe 
+merii to duniyaa tere liye hai 
+
+1) Daalii pe baiThI chhoTI sI chi.Diyaa 
+kaa.ndhe pe mere nanhii sii gu.Diyaa 
+chi.Diyaa se bhii sundar merI gu.Diyaa, ye meraa \threedots
+
+2) dekhaa thaa sapanaa jo zindagii kaa 
+ye bhii to vaisaa hii din hai khushii kaa 
+jiine kaa Dha.ng tujhase mai.nne siikhaa, ye meraa \threedots
+
+3) maano badal jaae dono.n kii ma.nzil 
+phir bhii rahegaa sAth meraa dil 
+chaahe.nge to milanaa nahii.n mushkil, ye meraa \threedots
+%
+#endindian
+\endsong
+%

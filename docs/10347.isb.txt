@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{hurraa ho maaraa ... sun champaa sun taaraa}%
+\film{Apnaa Desh}%
+\year{1972}%
+\starring{Rajesh Khanna, Mumtaz}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11536 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+hurraa ho maaraa 
+sun champaa sun taaraa ko_ii jiitaa ko_ii haaraa
+are ba.Daa mazaa aa_e haay suno merii baat
+jhuume.n naache.n gaa_e.n chalo aaj saarii raat
+sun champaa \threedots
+
+sach ke gale me.n pa.Dii maalaa
+jhuuTho.n kaa to mu.Nh hu_aa kaalaa
+kaise hu_aa aise hu_aa hairaa.N hai jag saaraa
+sun champaa \threedots
+
+bandaa huu.N mai.n to siidhaa\-saadaa
+karataa huu.N tumase mai.n ye vaadaa
+aaj se hogaa vah dukh meraa dukha hai jo tumhaaraa
+sun champaa \threedots
+
+chham\-chham bajii merii paayal
+dil dushmano.n ke hu_e ghaayal
+is jiivan pe sabako haq hai apanaa hai ye naaraa
+sun champaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\stitle{koii mausam aisaa aae}%
+\film{non-Film}%
+\year{1994}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Azhar Inaayati}%
+%
+% Contributor: Indu Shukla
+% Date: 03/14/2000
+% Transliterator:
+% Credits:
+% Comments: from Face to Face CD Magnasound D4-Z1230
+%
+\printitle
+#indian
+
+koii mausam aisaa aae
+us ko apane saath jo laae
+
+logo.n se taariif sunii hai
+us se milakar dekhaa jaae
+
+aaj bhii dil par bojh bahut hai
+aaj bhii shaayad nii.nd naa aae
+
+haal hai dil kaa juganuu jaisaa
+jalataa jaae bujhataa jaae
+
+biite lamhe.n kuchh aise hai.n
+khushabuu jaise haath naa aae
+
+%
+#endindian
+\endsong
+%

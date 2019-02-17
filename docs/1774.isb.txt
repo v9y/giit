@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tum mujhe bhuul bhii jaao to ye haq hai tumako}%
+\film{Didi}%
+\year{}%
+\starring{}%
+\singer{Mukesh, Sudha Malhotra}%
+\music{Sudha Malhotra}%
+\lyrics{Sahir}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+sudhA: tum mujhe bhUl bhI jAo to ye haq hai tumako
+merI bAt aur hai mai.nne to muhabbat kI hai
+
+mere dil kI mere jazabAt kI kImat kyA hai
+ulajhe\-ulajhe se khyAlAt kI kImat kyA hai
+mai.nne kyU.n pyAr kiyA tumane na kyU.n pyAr kiyA
+in pareshAn savAlAt ki kImat kyA hai
+tum jo ye bhI na batAo to ye haq hai tumako
+merI bAt aur hai mai.nne to muhabbat kI hai
+tum mujhe bhUl bhI jAo to ye haq hai tumako
+
+mukesh: zindagI sirf muhabbat nahI.n kuchh aur bhI hai
+zulf\-o\-ruKasAr kI jannat nahI.n kuchh aur bhI hai
+bhUkh aur pyAs kI mArI huI is duniyA me.n
+ishq hI ek haqIkat nahI.n kuchh aur bhI hai
+tum agar A.Nkh churAo to ye haq hai tumako
+mai.nne tumase hI nahI.n sabase muhabbat kI hai
+tum agar A.Nkh churAo to ye haq hai tumako
+
+sudhA: tumako duniyA ke Gam\-o\-dard se furasat naa sahI
+sabase ulafat sahI mujhase hI muhabbat nA sahI
+mai.n tumhArI hU.N yahI mere liye kyA kam hai
+tum mere hoke raho ye merI qismat nA sahI
+aur bhI dil ko jalAo ye haq hai tumako
+merI bAt aur hai mai.nne to muhabbat kI hai
+tum mujhe bhUl bhI jAo to ye haq hai tumako
+%
+#endindian
+\endsong
+%

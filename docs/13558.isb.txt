@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{mahabuub mere ... tuu hai to duniyaa kitanii hasii.n hai}%
+\film{Patthar Ke Sanam}%
+\year{1967}%
+\starring{Manoj Kumar, Waheeda Rehman, Mumtaz}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11038 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	mahabuub mere mahabuub mere \-2
+	tuu hai to duniyaa kitanii hasii.n hai
+	jo tuu nahii.n to kuchh bhii nahii.n hai
+la \:	mahabuub mere mahabuub mere
+	tuu hai to duniyaa kitanii hasii.n hai
+	jo tuu nahii.n to kuchh bhii nahii.n hai
+	mahabuub mere \threedots
+
+mu \:	tuu ho to ba.Dh jaatii hai qiimat mausam kii
+	ye jo terii aa.Nkhe.n hai.n sholaa shabanam sii
+	yahii.n maranaa bhii hai mujhako mujhe jiinaa bhii yahii.n hai
+	mahabuub mere \threedots
+
+la \:	aramaa.N kisako jannat kii ra.ngii.n galiyo.n kaa
+	mujhako teraa daaman hai bistar kaliyo.n kaa
+	jahaa.N par hai.n terii baa.Nhe.n merii jannat bhii vahii.n hai
+	mahabuub mere \threedots
+
+mu \:	rakh de mujhako tuu apanaa diivaanaa kar ke
+la \:	nazadiik aajaa phir dekhuu.N tujhako jii bhar ke
+mu \:	mere jaise ho.nge laakho.n ko_ii bhii tujhasaa nahii.n hai
+	mahabuub mere \threedots
+la \:	ho mahabuub mere \threedots
+do \:		mahabuub mere \threedots
+%
+#endindian
+\endsong
+

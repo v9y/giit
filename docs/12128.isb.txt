@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jiivan banaa jiivan mil gayaa teraa daaman}%
+\film{Jaani Dost}%
+\year{1983}%
+\starring{Dharmendra, Parveen Babi, Jeetendra, Sridevi, Amjad Khan, Asrani}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jiivan banaa jiivan mil gayaa teraa daaman
+aake mujhe aise milaa tuu patajha.D ko jaise saavan
+saharaa hu_aa gulashan khil gayaa meraa tan man
+milane se tere Duubate dil ko mil ga_ii hai ( na_ii dha.Dakan ) \-3
+jiivan banaa jiivan \threedots
+
+( tere binaa suunaa suunaa aa.ngan aa.ngan
+tere bin tanhaa tanhaa jiivan aa aa ) \-2
+dekhate hii tujhe milaa khud kaa pataa
+dil me.n jiine kii jaagii lagan
+saharaa hu_aa gulashan \threedots
+
+( tuu hai paaras tujhako paa ke kho ga_ii mai.n
+tuune chhu_aa ka.nchan ka.nchan ho ga_ii mai.n ) \-2
+ruup kii tuu sudhaa man kaa pyaalaa bharaa
+bharate nahii.n hai.n nayan
+jiivan banaa jiivan \threedots
+%
+#endindian
+\endsong
+

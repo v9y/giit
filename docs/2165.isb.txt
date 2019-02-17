@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{more nayan paakhii bechaare}%
+\film{Pinjare Ke Panchhi}%
+\year{1966}%
+\starring{Meena Kumari, Balraj Sahni}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Pradeep Dubey
+% Transliterator: Nita Naqvi
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+more nayan paakhii bechaare
+mere nainaa bechaare
+tere liye chhaT_paT chhaT_paT din rainaa
+ye akulaaye.n, na u.D paaye.n
+nayan paakhii bechaare   \threedots
+
+ahaa re~
+nain sakhaa re terii ik jhalakii ko tarase re
+ahaa re~
+yaad me.n terii nit saavan bhaado.n barase re
+aajaa ki ab to tujh bin rahaa nahii.n jaaye
+aajaa ki lag jaaye na tujhe inakii haay
+tere liye chhaT_paT chhaT_paT din rainaa
+ye akulaaye.n, na u.D paaye.n
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kuchh aisaa jahaa.N ham banaa_e.n ... jahaa.n pahalaa ho}%
+\film{Bas Itna Sa Khvab Hai}%
+\year{2001}%
+\starring{Abhishek Bachchan, Jackie Shroff, Rani Mukerji, Sushmita Sen}%
+\singer{Alka Yagnik, Shaan}%
+\music{Aadesh Srivastava}%
+\lyrics{Goldy Behl}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh aisaa jahaa.N ham banaa_e.n
+jahaa.n pahalaa ho har vo nazaaraa
+pahalaa saavan kaa baadal pahalaa laharaataa aa.Nchal
+pahalaa bha.nvaraa vo paagal
+jahaa.n pahalaa pyaar ho
+kuchh aisaa jahaa.N \threedots
+
+huu.n pahalii kalii ne pahalii ghaTaa se kyaa kahaa hai sun zaraa
+baarish kii pahalii buu.nde.n tum
+suuraj kii pahalii kiraNe tum
+aur meraa pahalaa pahalaa pyaar tum
+kuchh aisaa jahaa.N \threedots
+
+huu.n pahalii tamannaa pahalii vo khvaahish tuu hii tuu hai jaa.n merii
+pyaar kaa pahalaa vaadaa tum aa.Nkho.n kaa pahalaa sapanaa tum
+har khushii kaa pahalaa pahalaa khvaab tum
+kuchh aisaa jahaa.N \threedots
+%
+#endindian
+\endsong
+

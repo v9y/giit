@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{teraa hii aasaraa hai, o do jahaa.N vaale}%
+\film{Arab Ka Saudagar}%
+\year{1956}%
+\starring{Pradeep Kumar, Shashikala}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+% 
+% Contributor: Swapneel Mahajan <swapneel@cse.iitb.ernet.in>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/22/1995
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments: Released in 1956
+%
+\printtitle
+#indian
+%
+teraa hii aasaraa hai, o do jahaa.N vaale
+hai bekaso.n kii kashtii maalik tere havaale
+
+iisaa ko tuune zaalimo.n ke pa.njo.n se thaa chhu.Daayaa
+muusaa ko tuune maujo.n me.n bhii rastaa dikhaayaa
+barabaad ho rahii hai duniyaa merii, bachaa le
+
+kashtii ye kyo.n hai tuune tuufaan se bachaaii
+mai.nne tujhe pukaaraa maalik terii duhaaii
+sun le kisiike dil se nikale hu_e ye naale
+
+raham\-o\-karam pe tere duniyaa kii zi.ndagii hai
+tuu maare yaa bachaa le maalik terii Kushii hai
+miTatii ho agar mohabbat mujhako bhii tuu miTaa de
+%
+#endindian
+\endsong
+%
+

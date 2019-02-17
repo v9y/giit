@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{chalii aa_iyo raadhe raanii jamanaa ke tiir}%
+\film{Sangeet}%
+\year{1992}%
+\starring{Jackie, Madhuri, Aruna Irani, Shafi, Nitish, Anjan Shrivastava, Asha Sharma}%
+\singer{Anuradha Paudwal, Suresh Wadekar}%
+\music{Anand Milind}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chalii aa_iyo raadhe raanii jamunaa ke tiir
+likhe.nge prem kahaanii jamunaa ke tiir
+mai.n to ban ga_ii mohan terii tasviir
+aa_uu.ngii re jamunaa ke tiir
+chalii aa_iyo raadhe raanii \threedots
+
+Dhuu.nDho milaa na mujhako meraa dil kho gayaa
+haal mujhe bin batalaa_e vo to teraa ho gayaa
+dekh lo jo chaahe meraa kalejaa chiir
+chalii aa_iyo raadhe raanii \threedots
+
+sakhiyo.n ko apane dil kii baat na bataa_iyo
+jiivan bhar priit nibhaa_iyo chho.D ke na jaa_iyo
+tuu hii to raadhe merii takadiir
+likhe.nge prem kahaanii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tumhaare pyaar me.n ham ... shikaar karane ko aa_e}%
+\film{Shikar}%
+\year{1968}%
+\starring{Dharmendra, Asha Parekh, Sanjeev Kumar, Rehman, Johnny Walker}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11070 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tumhaare pyaar me.n ham beqaraar ho ke chale
+shikaar karane ko aa_e shikaar ho ke chale
+shikaar karane ko \threedots
+
+tumhe.n qariib se dekhaa to dil ko haar diyaa
+tumhaarii shoK adaa ne hame.n to maar diyaa
+har ek baat pe ham to nisaar ho ke chale
+shikaar karane ko \threedots
+
+tumhaarii aa.Nkh mohabbat kii baat kahatii hai
+tumhe.n bhii kisii kii talaash rahatii hai
+ye raaz jaan ga_e raazadaar ho ke chale
+shikaar karane ko \threedots
+
+na apanaa hosh na apanii Kabar kahaa.N hai.n ham
+isii kaa naam mohabbat hai ai mere hamadam
+tumhaare kuuche se diivaanaavaar ho ke chale
+shikaar karane ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{jhuumataa muskaraataa chal}%
+\film{Mauqaa}%
+\year{1970s Not Released}%
+\starring{Nipon Goswami, Shobhana}%
+\singer{Mukesh}%
+\music{Asheet Ganguli}%
+\lyrics{Abhilash}%
+%
+% Contributor: BOL ANAMOL #10062 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jhuumataa muskaraataa chal pyaar me.n gunagunaataa chal
+o mere man ho ke magan sapane Kushii ke sajaataa chal
+jhuumataa muskaraataa chal \threedots
+
+phuulo.n bharii ye Daaliyaa.N mahakii mahakii vaadiyaa.N
+kaliyo.n kaa ye nikharaa joban nazaro.n se tuu churaataa chal
+o mere man ho ke magan \threedots
+
+mauqaa milaa hai sunaharaa uTh gayaa Gam kaa paharaa
+aashaa_o.n kii dharatii par tuu duniyaa na_ii basaataa chal
+o mere man ho ke magan \threedots
+%
+#endindian
+\endsong
+

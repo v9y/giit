@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ilaahii tuu sun le hamaarii du_aa}%
+\film{Chhote Nawab}%
+\year{1961}%
+\starring{Mehmood, Ameeta, Johny Walker, Meenu Mumtaz, Helen}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10758 [V S Rawat]
+% Transliterator: 
+% Comments: First film of R D Burman
+% 
+\printtitle
+#indian
+%
+ilaahii tuu sun le hamaarii du_aa
+hame.n sirf ek aasaraa hai teraa
+terii rahamate.n raah roshan kare.n
+salaamat rahe saayaa maa.N\-baap kaa
+ilaahii tuu sun le \threedots
+
+hamase lekar umar saarii nii.nd de\-de unhe.n
+dard unake de\-de hame.n
+burii ye gha.Dii Taal de e Kudaa
+ilaahii tuu sun le \threedots
+
+naaz uThaa_e jisane paalaa pyaar haradam diyaa
+ho na hamase vo judaa
+tuu ummiid kaa ye diiyaa mat bujhaa
+ilaahii tuu sun le \threedots
+
+sivaa tere maalik meraa kaun hai yahaa.N
+bevafaa ye hai jahaa.N
+kahii.n tuu bhii hamako na denaa bhulaa
+ilaahii tuu sun le \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{la.Dakii la.Dakii tuu vo la.Dakii tu ru tu ru ru}%
+\film{Kohraam/ The Explosion}%
+\year{1999}%
+\starring{Amitabh Bachchan, Nana Patekar, Tabu}%
+\singer{Abhijit, Alka Yagnik, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+la.Dakii la.Dakii la.Dakii la.Dakii
+tuu vo la.Dakii tu ru tu ru ru
+jisape meraa dil aayaa hai
+zamaane se na bilkul Daro tum
+dekho mujhii se bas pyaar karo tum dekho
+
+la.Dakaa la.Dakaa la.Dakaa la.Dakaa
+tuu vo la.Dakaa tu ru tu ru ru
+jisape meraa dil \threedots
+
+adaa_o.n pe terii o jaanaa.n teraa ye aashiq fidaa hai
+aa.Nkho.n se zaraa dekh le tuu tuu hii to merii apsaraa hai
+zamaane se na bilkul \threedots
+
+churaa le tuu chain meraa merii taariif karake
+u.Daa le tuu hosh meraa mujhe pahaluu me.n bhar ke
+zamaane se na bilkul \threedots
+
+chhupaa na ko_ii baat mujhase diivaanii ikaraar kar le
+jo dil teraa chaahataa hai diivaane mere yaar kar le
+zamaane se na bilkul \threedots
+%
+#endindian
+\endsong
+

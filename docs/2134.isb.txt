@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kuchh aur zamaanaa kahataa hai}%
+\film{Chhoti Chhoti Baatein}%
+\year{1965}%
+\starring{Motilal, Nadira}%
+\singer{Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Shailendra}%
+%
+% Contributor: Deepak Sabnis <deepak_sabnis@hp.com>
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+kuchh aur zamaanaa kahataa hai, kuchh aur hai zidd mere dil kii
+mai.n baat zamaane kii maanuu.N, yaa baat sunuu.N apane dil kii
+kuchh aur zamaanaa kahataa hai   \threedots
+
+duniyaa ne hame.n berahamii se
+Thukaraa jo diyaa, achchhaa hii kiyaa
+naadaan ham samajhe baiThe the
+nibhatii hai yahaa.N dil se dil kii
+kuchh aur zamaanaa kahataa hai   \threedots
+
+inasaaf, muhabbat, sachchaa_ii
+vo raham\-o\-qaram ke dikhalaave
+kuchh kahate zubaa.N sharamaatii hai
+puuchho na jalan mere dil kii
+kuchh aur zamaanaa kahataa hai   \threedots
+
+go bastii hai insaano.n kii
+insaan magar Dhuu.NDhe na milaa
+patthar ke buto.n se kyaa kiije
+fariyaad bhalaa TuuTe dil kii
+kuchh aur zamaanaa kahataa hai   \threedots
+
+%
+#endindian
+\endsong
+%

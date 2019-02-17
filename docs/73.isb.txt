@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aaj unase pahalii mulaaqaat hogii}% 
+\film{Paraya Dhan}%
+\year{}%
+\starring{Rakesh Roshan}%
+\singer{Kishore, chorus}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ko : la lallala , la lallalla 
+
+aaj unase pahalii mulaaqaat hogii, 
+phir aamane saamane baat hogI 
+phir hogaa kyA, kyA pataa kyA khabar \- 2
+
+(anadekhaa anjaanaa mukha.Daa kaisaa hogaa   
+nA jAne vo chaa.Nd kA Tuka.Daa kaisaa hogaa) \- 2 
+milate hii unase haay dil me.n, 
+ek beqaraarii sI din raat hogii 
+phir hogaa kyA 
+ko : yA yayyaya , yA yayaya 
+
+(baiThe.n ho.nge raaste pe vo aa.Nkhe.n bichhaaye 
+har aahaT pe sochate ho.nge, saajan aaye  ) \- 2
+kyA haal hogaa, vahaa.N kuchh nA puuchho 
+dil me.n uma.ngo.n ki baraat hogii 
+phir hogaa kyA 
+
+(khulake ho.ngI tanhaaii me.n dil kii baate.n
+pyaase tanaman pe ho.ngI rim\-jhim barasaate.n ) \- 2
+ai mere dil ye bhI to soch le tU 
+koI sahelii agar saath hogii 
+phir hogaa kyA  
+%
+#endindian
+\endsong
+%

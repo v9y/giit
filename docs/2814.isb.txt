@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dhiimii dhiimii hai kyo.n havaa}%
+\film{Nausherwan-e-Adil}%
+\year{1957}%
+\starring{Sohrab Modi, Rajkumar, Mala Sinha}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Parvez Shamsi}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:17 Mar 2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+dhiimii dhiimii hai, miiThii miiThii hai, dhiimii dhiimii hai kyo.n havaa
+milake aa_ii hai, mastii chhaa_ii hai, phuul laa_ii hai, khush_numaa
+
+(mahak rahe hai.n dil jigar, na hosh hai na hai khabar)\-2
+(kahii.n pe dil, kahii.n pe ham, hai kuchh khushii, to kuchh hai Gam)\-2
+nayaa huaa ye maazaraa
+dhiimii dhiimii hai \threedots
+
+(khilii hai jo kalii kalii, mahakatii hai galii galii)\-2
+(ye kah rahii hai.n bulabule.n, sanam ke ghar chalo chale.n)\-2
+bahaar kaa mile (?)
+dhiimii dhiimii hai \threedots
+
+%
+#endindian
+\endsong
+%

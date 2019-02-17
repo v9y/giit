@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{hai ye zamii.n hamaarii ... saaraa jahaa.N hamaaraa hai}%
+\film{Sara Jahan Hamara}%
+\year{1961}%
+\starring{Premnath, Shyama, Heeralal, Rajeshwari, Azra, Jankidas}%
+\singer{Mukesh}%
+\music{Babul}%
+\lyrics{Qamil Chandpuri}%
+%
+% Contributor: BOL ANAMOL #10070 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+hai ye zamii.n hamaarii vo aasamaa.n hamaaraa
+lo aaj vaqt badalaa saaraa jahaa.N hamaaraa hai
+hai ye zamii.n hamaarii \threedots
+
+ham jis taraf chale hai.n duniyaa badal ga_ii hai
+tuufaan haT gayaa hai aa.Ndhii sa.mbhal ga_ii hai
+karataa hai naaz khud par har ek javaa.n hamaaraa
+lo aaj vaqt badalaa \threedots
+
+kashtii ko le chale maujo.n pe ham Kushii kii
+aavaaz aa rahii hai kaano.n me.n zindagii kii
+roke nahii.n rukegaa ab kaaravaa.n hamaaraa
+lo aaj vaqt badalaa \threedots
+
+ye chimaniyaa.n milo.n kii ye taaj kii miinaare.n
+ga.ngaa kii bahatii mauj jamanaa ke tej dhaare
+dharatii kaa zarraa zaraa hai raazadaa.n hamaaraa
+lo aaj vaqt badalaa \threedots
+
+paiGaam de rahe hai.n ham sabako dostii kaa
+Da.nkaa bajaa rahe hai.n ham duniyaa me.n shaa.nti kaa
+insaaniyat kaa jhaNDaa hai ab nishaa.n hamaaraa
+lo aaj vaqt badalaa \threedots
+%
+#endindian
+\endsong
+

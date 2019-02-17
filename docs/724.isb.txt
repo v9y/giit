@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{hazaar raahe.n, mu.Dake dekhii.n}% 
+\film{Thodi Si Bewafai}%
+\starring{Rajesh khanna, Shabana Azmi}%
+\singer{Kishore, Lata}%
+\music{Khaiyyam}%
+\lyrics{Gulzar}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ki: hazaar raahe.n, mu.Dake dekhii.n 
+kahii.n se koI sadaa nA aaii 
+l: ba.DI vafaa se, nibhaaii tumane 
+hamaarii tho.Dii sI bevafaaii \threedots
+
+ki: jahaa.N se tum mo.D mu.D gaye the \- 2
+vo mo.D ab bhI vahii kha.De hai.n 
+l: ham apane pairo.n me.n jaane kitane \- 2
+bha.nvar lapeTe hue kha.De hai.n 
+ba.DI vafaa se, nibhAii tumane 
+hamaarii tho.Dii sI bevafaaI \threedots
+
+ki: kahii.n kisii roz yuu.n bhI hotA 
+hamaarii haalat tumhaarii hotI 
+l: jo raate.n hamane guzaarii marake 
+vo raat tumane guzaarii hotii.n 
+ba.DI vafaa se, nibhaaii tumane 
+hamaarii tho.Dii sI bevafaaii\threedots 
+
+ki: unhe.n ye zid thI ke ham bulaate 
+hame.n ye ummiid vo pukaare.n 
+l: hai naam ho.nTho.n me.n ab bhI lekin
+aavaaz me.n pa.D gaI daraare.n 
+
+ki: hazaar rAhe.n, mu.Dake dekhii.n 
+kahii.n se koI sadaa nA aaii 
+l: ba.DI vafaa se, nibhaaii tumane 
+hamaarii tho.Dii sI bevafaaii\threedots 
+%
+#endindian
+\endsong
+%

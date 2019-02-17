@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{maut tuu ek kaviitaa hai}%
+\film{Anand}%
+\year{1970}%
+\starring{Rajesh Khanna, Amitabh Bachchan, Sumita Sanyal}%
+\singer{Amitabh}%
+\music{}%
+\lyrics{???}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+% Comments:  Poem recited by Amitabh at Rajesh Khanna's request
+%
+\printtitle
+#indian
+%
+maut tuu ek kaviitaa hai .
+mujhase ek kaviitaa kaa vaadaa hai milegii mujhako ..
+
+Duubatii nabzo.n me.n jab dard ko nii.nd aane lage
+zard saa cheharaa li_e chaa.Nd ufak tak pahu.nche
+din abhii paanii me.n ho raat kinaare ke kariib
+na abhii a.ndheraa ho na ujaalaa ho
+na raat na din
+jism jab khatm ho aur ruuh ko saa.Ns aae .
+
+mujhase ek kaviitaa kaa vaadaa hai milegii mujhako ..
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{tere jaisaa yaar kahaa.N kahaa.N aisaa yaaraanaa}%
+\film{Yaaraanaa}%
+\year{1981}%
+\starring{Amitabh Bachchan, Neetu Singh}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10426 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tere jaisaa yaar kahaa.N kahaa.N aisaa yaaraanaa
+yaad karegii duniyaa teraa\-meraa afasaanaa
+tere jaisaa yaar kahaa.N \threedots
+
+merii zindagii sa.Nvaarii mujhako gale se lagaa ke
+baiThaa diyaa falak pe mujhe Kaaq se uThaa ke \-2
+yaaraa terii yaarii ko maine to Kudaa maanaa
+yaad karegii duniyaa \threedots
+
+mere dil kii ye du_aa hai kabhii duur tuu na jaa_e
+tere binaa ho jiinaa vo din kabhii na aa_e \-2
+tere sa.ng jiinaa yahaa.n tere sa.ng mar jaanaa
+yaad karegii duniyaa \threedots
+%
+#endindian
+\endsong
+

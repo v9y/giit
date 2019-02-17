@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{saare shahar me.n aapasaa ko_ii nahii.n}%
+\film{Bairaag}%
+\year{1976}%
+\starring{Dilip Kumar, Saira Bano, Lina Chandrawarkar, Prem Chopra}%
+\singer{Rafi, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11258 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	saare shahar me.n aapasaa ( ko_ii nahii.n ) \-2
+aa \:	sach
+ra \:	saare shahar me.n \threedots
+aa \:	yahii sochakar raat bhar mai.n ( so_ii nahii.n ) \-2 \-2
+ra \:	saare shahar me.n \threedots
+
+	tumako merii vafaa pe jaane kyaa\-kyaa Gumaa.N ho rahe hai.n
+	kitanaa bhii tum chhupaa_o afasaane bayaa.N ho rahe hai.n
+	ishq karataa huu.N aashiq meraa naam hai
+aa \:	aah aashiq h h h h
+ra \: ishq karataa huu.N aashiq meraa naam hai
+	aish karanaa merii jaa.N meraa kaam hai
+aa \:	aise bhii ho tum vaise bhii ho tum jaise bhii ho
+	hamako shiqaayat aapase ( ko_ii nahii.n ) \-2
+	saare shahar me.n \threedots
+
+ra \:	meraa dil jisape fidaa hai vo dilabar vo mahabuub ho tum
+aa \:	tho.De se tum ho ziddii par aadamii bahut Kuub ho tum
+ra \:	ai hasiinaa ba.Dii Kuubasuurat ho tum
+	muskaraatii hu_ii ko_ii muurat ho tum
+aa \:	ai jaan\-e\-jaa.N kho_e ho kahaa.N
+	ko_ii tumhaarii chiiz to ( kho_ii nahii.n ) \-2
+ra \:	saare shahar me.n \threedots
+%
+#endindian
+\endsong
+

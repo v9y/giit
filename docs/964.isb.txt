@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{karate hai.n ishaare falak se chaa.Nd taare}%
+\film{Raagrang}%
+\starring{Geeta Bali, Ashok Kumar}%
+\singer{Lata , Trilok Kapoor}%
+\music{Roshan}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar
+% Date: April 13, 1998
+% Credits:
+% Editor: 
+% Comments: LATAnjali series
+%  
+\printtitle  
+#indian  
+%  
+
+tri: o~ o~ o~ karate hai.n ishaare, falak se chaa.Nd taare
+     o dilarubaa tuu gaaye jaa
+l:   o~ o~ o~ pyaar kaa ye ishaaraa, ba.Daa hai pyaaraa pyaaraa
+     nazar se dil me.n aaye jaa
+
+tri: nazar se dil me.n kaise aaye.n,
+     aap hii dil me.n aake bataa_e.n
+l:   chho.Do ye bahaanaa, aisii baate.n na banaanaa
+     mai.n huu.N shamaa, tuu hai paravaanaa
+     pyaar kaa ye taraanaaa rubaab se sunaa_e jaa
+tri: karate hai.n ishaare   \threedots 
+
+l:   lab par aaye mast taraane,
+     chhalake taaro.n ke paimaane
+tri: raat nashiilii, dekho chaa.Nd hai nashiilaaa
+     mere saathii, qadam hai.n Dagamagaa_e
+     hai.n mastiyo.n me.n aa_e
+     ye ruup tuu dikhaa_e jaa
+do:  o~ pyaar kaa ye taraanaa   \threedots  
+
+%  
+#endindian  
+\endsong  
+%

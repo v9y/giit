@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tumane jo kahaa maine vo sunaa}%
+\film{Laawaaris}%
+\year{1999}%
+\starring{Jackie, Dimple, Akshay Khanna, Manisha, Govind Namdeo, Parmeet Sethi}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumane jo kahaa maine vo sunaa sun ke maine jo sapanaa bunaa
+dekho usako to.D na denaa tanhaa mujhako chho.D na denaa
+har Gam se bachaa luu.ngaa mai.n rakhanaa yaad apanaa vaadaa
+baaho.n me.n chhupaa luu.ngaa mai.n kar lo pakkaa iraadaa
+tumane jo kahaa maine \threedots
+
+tumako har pal chaahuu.ngii mai.n rakhanaa yaad apanaa vaadaa
+tumhaarii ban jaa_uu.ngii mai.n kar lo pakkaa iraadaa
+tumane jo kahaa maine \threedots
+
+zi.ndagii me.n agar aa_e mo.D ko_ii ho na jaanaa kahii.n tum judaa
+raat ho yaa ho din Gam ho yaa ho khushii mai.n tumhaaraa rahuu.ngaa sadaa
+tum bin maanegaa naa ye man rakhanaa yaad apanaa vaadaa
+TuuTegaa naa ab ye ba.ndhan kar lo pakkaa iraadaa
+tumane jo kahaa maine \threedots
+
+tumase milane se pahale mai.n thaa bekhabar pyaar kyaa hai muhabbat hai kyaa
+ab tumhe.n zi.ndagii bhar kaa mai.n hamasafar maan luu.n ye ijaazat hai kyaa
+jiivan bhar tumako chaahuu.ngaa rakhanaa yaad apanaa vaadaa
+tumako hii apanaa_uu.ngaa kar lo pakkaa iraadaa
+tumane jo kahaa maine \threedots
+%
+#endindian
+\endsong
+

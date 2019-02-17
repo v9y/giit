@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{dil javaa.n hai aarzuu javaa.n}%
+\film{Samundari Daaku}%
+\year{1956}%
+\starring{}%
+\singer{Talat}%
+\music{Jaidev}%
+\lyrics{Vishwamitra Adil}%
+% 
+% Contributor: Arun Verma <verma@lindt.mcs.anl.gov>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Date: 10/26/1996
+%
+\printtitle
+#indian
+%
+dil javaa.n hai aarzuu javaa.n
+ek nazar idhar bhii maharbaa.n
+kab talak ye hamase beruKii
+kab talak rahegii chup zubaa.n
+
+ye kyaa Gazab hai dilarubaa hai apane aap se Kafaa
+Dharii rahegii har adaa jo dil kisiipe aa gayaa
+Guruur\-e\-dil rahegaa phir kahaa.N
+ik nazar idhar bhii \threedots
+
+vo husn kyaa jo ruuThake nigaah ko na pher le
+vo ishq kyaa jo chhe.Dake na zulf ko bikher de
+vo soz kyaa uThe na jo dhuaa.N
+ik nazar idhar bhii \threedots
+
+mai.n jaanataa huu.N hai fareb ye jhukii nazar terii
+uThii to haar jaayegii zaruur muskuraaegi
+na chhup sakegii dil kii daastaan
+ik nazar idhar bhii \threedots
+
+%
+#endindian
+\endsong
+%
+

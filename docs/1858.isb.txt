@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{vo jab yaad aae, bahut yaad aae}%
+\film{Parasmani}%
+\year{}%
+\starring{Mahipal, Geetanjali}%
+\singer{Lata, Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Farouq Qaiser}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+vo jab yaad aae bahut yaad aae
+Gam\-e\-zi.ndagii ke a.ndhere me.n hamane
+chiraag\-e\-muhabbat jalaae bujhaae
+
+aahaTe.n jaag uThii.n raaste ha.ns diye
+thaamakar dil uThe ham kisii ke liye
+ka_ii baar aisaa bhii dhokhaa huaa hai
+chale aa rahe hai.n vo nazare.n jhukaae
+
+dil sulagane lagaa ashq bahane lage
+jaane kyaa\-kyaa hame.n log kahane lage
+magar rote\-rote ha.nsii aa ga_ii hai
+Kayaalo.n me.n aake vo jab muskuraae
+
+vo judaa kyaa hue zi.ndagii kho ga_ii
+shammaa jalatii rahii roshanii kho ga_ii
+bahut koshishe.n kii.n magar dil na bahalaa
+ka_ii saaz chhe.De ka_ii giit gaae
+%
+#endindian
+\endsong
+%

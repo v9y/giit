@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{dil kahe ruk jaa re ruk jaa, yahii.n pe kahii.n}%
+\film{Man Ki Aankhen}%
+\year{1970}%
+\starring{Waheeda Rehman, Dharmendra}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Mohan Rathore (rathore@ece.rutgers.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+     dil kahe ruk jaa re ruk jaa, yahii.n pe kahii.n
+     jo baat (2) is jagah me.n, hai kahii.n pe nahii.n
+
+(1)  parbat Upar khi.DakI khuule, jhaa.Nke sundar bhor,
+     chale pavan suhaanii
+     nadiyo.n ke ye raag rasIle, jharano.n kA ye shor
+     bahe jhar jhar paanI
+     mad bharaa, mad bharaa samaa, ban dhulaa\-dhulaa
+     har kalii sukh palii yahaa.N, ras ghulaa\-ghulaa
+     to dil kahe ruk jaa he ruk jaa\threedots
+
+(2)  uu.nche\-uu.nche pe.D ghanere, chhanatI jinase dhuup
+     kha.Dii baa.Nh pasaare
+     niilii niilii jhiil me.n jhalake niil gagan kaa ruup
+     bahe ra.ng ke dhaare
+     Daalii\-Daalii chi.Diyo.n ki sadaa, sur milaa\-milaa
+     champaaii champaaii fijaa, din khilaa\-khilaa
+     to dil kahe ruk jaa re ruk\threedots
+
+(3)  pariyo.n ke ye jamaghaTa, jinake phuulo.n jaise gaal
+     sab shokh hathelI
+     iname.n hai vo alha.Da jisakI hiraNii jaisii chaal
+     baDii chhail\-chhabIlI
+     manachalii\-manachalii adaa, chhab javaa.n javaa.n
+     har gha.DI cha.Dha rahaa nashaa, sudh rahii kahaa.N
+     to dil kahe ruk jaa re ruk jaa\threedots
+%
+#endindian
+\endsong
+%

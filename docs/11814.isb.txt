@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ik la.Dakii hai haay ik la.Dakaa hai haay}%
+\film{Haqeeqat}%
+\year{1995}%
+\starring{Ajay Devgan, Tabbu, Aruna Irani, Mohan Joshi, Ishrat Ali}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik la.Dakii hai haay ik la.Dakaa hai haay
+chhup chhup ke milate hai.n kyaa baate.n karate hai.n
+saaraa shahar ye jaane ham prem diivaane
+hame.n Dar nahii.n duniyaa kaa
+
+ham pyaar ke diivaane bas dil kii baat maane.n
+ik la.Dakii hai haay \threedots
+
+ye din hai.n apane diivaanepan ke baaho.n me.n aajaa aajaa zaraa
+ho milate milate sadiyaa.n biitii.n dil ab tak nahii.n bharaa
+dil Dole hai kyaa bole hai
+dono.n me.n chakkar hai charchaa ye ghar ghar hai
+kaise ham ye bataa_e.n
+hame.n Dar hai ki haay badanaam na ho.n dono.n
+ham pyaar ke diivaane \threedots
+
+merii javaanii terii diivaanii tere li_e hai sab kuchh meraa
+o merii jaanam ho phir se kah do meraa sab kuchh hai ab teraa
+ta.Dapaa_e dil ghabaraa_e dil
+ab kaisaa ghabaraanaa mai.n teraa diivaanaa
+maine pyaar kiyaa tujhe dil ye diyaa
+ikaraar kiyaa khulake
+ham pyaar ke diivaane \threedots
+%
+#endindian
+\endsong
+
+

@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{le ga_ii le ga_ii dil vo... kyaa jaaduu kiyaa ... mujhako jhaTakaa de ga_ii}%
+\film{Kaise Kahoon Ke... Pyaar Hai}%
+\year{2003}%
+\starring{Dharmendra, Amit Hingorani, Sharbani Mukherji, Sunny Deol}%
+\singer{Shaan}%
+\music{Viju Sha}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11755 [V S Rawat]
+% Producer: Kapleshwar Pictures, Arjun Hingorani, Director: Anil Kumar Sharma
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Soprano 40459, Cost: Rs 50/-, CD: 
+% 
+\printtitle
+#indian
+%
+ko \:	le ga_ii le ga_ii le ga_ii dil vo le ga_ii le ga_ii le ga_ii \-2
+shaa \:	( kyaa jaaduu kiyaa naa jaanaa use dekhaa banaa diivaanaa
+	mere Kaabo.n kii raanii merii diivaanii paagal mujhe kar ga_ii
+	dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+	ho dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii ) \-2
+
+ko \:	riibaa ruubaa rab ruubaa ruubaa rab \-6
+
+shaa \:	saaraa din bechainii detii raat bhar ta.Dapaatii hai
+	saamane jab aatii hai to vo zaraa sharamaatii hai
+ko \:	riibaa ruubaa rab \-6
+shaa \:	saaraa din bechainii detii raat bhar ta.Dapaatii hai
+	saamane jab aatii hai to vo zaraa sharamaatii hai
+	merii betaabiyo.n ko bataanaa ko_ii jaa ke use samajhaanaa
+	o hasii.n naazaniinaa bholii hasiinaa chaahat se kyo.n Dar ga_ii
+	dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+	ho dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+
+ko \:	o o o o o o \-5
+ko \:	( o o o o o o
+shaa \: ye_ii ye ) \-4
+	ek din aisaa aa_egaa ishq me.n kho jaa_egii
+	hai yaqii.n mujhako to yaaro.n vo merii ho jaa_egii
+ko \:	riibaa ruubaa rab \-6
+shaa \:	he ek din aisaa aa_egaa ishq me.n kho jaa_egii
+	hai yaqii.n mujhako to yaaro.n vo merii ho jaa_egii
+	mujhase hai abhii anajaanii karatii hai ba.Dii naadaanii
+	use meraa nashaa hai mujhako pataa hai
+	mujhape bhii vo mar ga_ii
+	dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+	ho dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+
+	kyaa jaaduu kiyaa naa jaanaa use dekhaa banaa diivaanaa
+	mere Kaabo.n kii raanii merii diivaanii paagal mujhe kar ga_ii
+	dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+	ho dil meraa churaa kar le ga_ii mujhako jhaTakaa de ga_ii
+	le ga_ii le ga_ii le ga_ii dil vo le ga_ii le ga_ii le ga_ii \-2
+%
+#endindian
+\endsong
+

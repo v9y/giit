@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ham tum ho.nge, baadal hogaa}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Ramesh Hariharan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ham tum ho.nge, baadal hogaa
+raqs me.n saaraa ja.ngal hogaa
+
+vasl kii shab aur itanii kaalii
+un aa.Nkho.n kaa kaajal hogaa
+
+kisane kiyaa mahmez havaa ko
+shaayad unakaa aa.Nchal hogaa
+
+kyaa milanaa 'faaruuq' se logo.n
+hogaa koii paagal hogaa
+
+%
+#endindian
+\endsong
+%

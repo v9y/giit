@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aisii diivaanagii dekhii nahii.n kahii.n ... diivaanaa teraa naam rakh diyaa}%
+\film{Deewaanaa}%
+\year{1992}%
+\starring{Rishi Kapoor, Shahrukh Khan, Divya Bharati}%
+\singer{Alka Yagnik, Vinod Rathod}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aisii diivaanagii dekhii nahii.n kahii.n
+maine isali_e jaan\-e\-jaanaa.n diivaanaa
+teraa naam rakh diyaa haa.N naam rakh diyaa teraa naam rakh diyaa
+
+meraa nasiib hai jo mere yaar ne
+ha.Ns ke pyaar se bekhudii me.n diivaanaa
+meraa naam rakh diyaa haa.N naam rakh diyaa meraa naam rakh diyaa
+
+tuune pahalii nazar me.n sanam mere dil ko churaayaa
+hu_ii duniyaa se paraa_ii tuune apanaa banaayaa
+binaa dekhe tujhe ab na aa_e karaar
+har gha.Dii hai mujhe bas teraa intazaar
+aisii diivaanagii \threedots
+
+terii chaahat kii chaa.Ndanii merii aa.Nkho.n me.n bas ga_ii
+ye khushbuu tere jism kii merii saa.Nso.n me.n bas ga_ii
+tuu merii aarazuu tuu hai merii vafaa
+zi.ndagii me.n kabhii ab na ho.nge judaa
+aisii diivaanagii \threedots
+%
+#endindian
+\endsong
+

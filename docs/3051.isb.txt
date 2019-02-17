@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{chaar dino.n kii chaa.Ndanii hai phir a.Ndhiyaarii raat}%
+\film{Girls School}%
+\year{1949}% 
+\starring{}%
+\singer{Shankar Dasgupta, Lata}%
+\music{Anil Biswas}%
+\lyrics{Pradeep}%
+% 
+% Contributor: Sathya Suresh
+% Credits: Malini Kanth
+% Transliterator: K Vijay Kumar
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+sh: baar baar tum soch rahii ho
+    man me.n kaun sii baat, man me.n kaun sii baat
+la: chaar dino.n kii chaa.Ndanii hai phir a.Ndhiyaarii raat
+
+sh: aaj tumhaare chehare kii ra.ngat bolo kyo.n badalii hai
+la: mujhe bhii Kud maaluum nahii.n
+    ki merii kashtii kidhar chalii hai
+sh: duur o dekho jhil\-mil jhil\-mil
+    chamak rahii hai apanii ma.nzil
+    us ma.nzil kii or sajaniyaa
+    chalo chale.n ek saath
+
+la: kitanaa hai aasaan jagat me.n man ke mahal banaanaa
+    par kitanaa mushqil hai apane haath se unhe.n giraanaa
+    kitanaa hai aasaan jagat me.n man ke mahal banaanaa
+    pahale ek dhu.Ndhalii sii aashaa, phir majabuurii aur niraashaa
+sh: prem ke path par har premii ko milii yahii sauGaat
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ho goriyaa re, ho goriyaa re, tere aane se saj ga_ii hamarii ye TuuTii}%
+\film{Nayyaa}%
+\year{1979}%
+\starring{Prashant Nanda, Zarina Wahab}%
+\singer{Yesudas}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu), Vinay P Jain
+%
+\printtitle
+#indian
+%
+ho goriyaa re, ho goriyaa re
+tere aane se saj gaI hamarii ye TuuTii phuuTii naav (2)
+
+naiyaa to hamaaraa ghar aa.Nganaa
+is se hii paanaa aur maa.Nganaa
+gorii ye duaa_e.n denaa zaruur
+maa.Njhii se naiyaa ho nahii.n duur
+o goriyaa re \threedots
+
+sab ko kinaare pahu.Nchaayegaa
+maa.Njhii to kinaaraa nahii.n paayegaa
+gaharii nadii kaa or na chhor
+laharo.n se zyaadaa manavaa me.n shor
+o goriyaa re \threedots
+
+apanaa to nit yahii kaam hai
+aane jaane vaalo.n ko salaam hai
+kabhii kabhii aanaa is naav me.n
+ik ghar teraa hai mere gaa.Nv me.n
+o goriyaa re \threedots
+
+%
+#endindian
+\endsong
+%

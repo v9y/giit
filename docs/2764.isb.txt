@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ab yaad hame.n kyo.n aatii ho}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{F Casanovas}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Comments: Orchestra in this song by F Casanovas
+% Date: Dec 28, 2000
+% Comments: Hemantda series #63
+%
+\printtitle
+#indian
+ 
+ab yaad hame.n kyo.n aatii ho
+uja.D ga_ii duniyaa apanii
+yaad hame.n kyo.n aatii ho
+ 
+dil me.n ab vo zor kahaa.N
+bekaar hame.n ta.Dapaatii ho
+yaad hame.n kyo.n aatii ho
+ 
+ha.Nsii ha.Nsii me.N rulaa gaye tum
+bane hu_e ko miTaa gaye tum
+biite giit puraane ho ga_e
+un ko phir kyo.n gaatii ho
+yaad hame.n kyo.n aatii ho
+ 
+dil ko khilaunaa jaan ke to.Daa
+ham ko paagal banaa ke chho.Daa
+ab bhii kyaa jii bharaa nahii.n hai
+jo yuu.N hame.n jalaatii ho
+yaad hame.n kyo.n aatii ho
+
+%
+#endindian
+\endsong
+%

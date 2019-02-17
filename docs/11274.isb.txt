@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jaane kahaa.N ga_ii dil meraa le ga_ii}%
+\film{Dil Apnaa Aur Preet Paraai}%
+\year{1960}%
+\starring{Meena Kumari, Raaj Kumar, Nadira, Helen}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10883 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jaane kahaa.N ga_ii \-2
+dil meraa le ga_ii le ga_ii
+jaane kahaa.N \threedots
+
+dekhate\-dekhate kyaa se kyaa ho gayaa \-2
+dha.Dakane.n rah ga_ii.n dil judaa ho gayaa \-2
+haay jaane kahaa.N \threedots
+
+aaj TuuTaa hu_aa dil kaa ye saaz hai \-2
+ab vo naGme.n kahaa.N sirf aavaaz hai \-2
+haay jaane kahaa.N \threedots
+
+ghuTataa rahataa na dam jaan to chhuuTatii \-2
+kaash kahataa ko_ii vo muhabbat na thii \-2
+haay jaane kahaa.N \threedots
+
+haal kyaa hai meraa aake Kud dekh jaa \-2
+ab tere haath hai jiinaa maranaa teraa \-2
+haay jaane kahaa.N \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%  
+\startsong
+\stitle{kyaa kyaa na log chal base}%
+\film{Hyderabad Ki Nazneen}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Vasant Desai}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Anil Hingorani
+% Transliterator: K Vijay Kumar
+% Date: September 28 , 1998
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+kyaa kyaa na log chal base \-2
+shauq\-e\-jamaal\-e\-yaar me.n
+hamase hazaaro.n miT gaye \-2
+haalat-e-intezaar me.n
+
+puurii tarah khile na phuul
+rah gayii dil me.n hasarate.n \-2
+baaG hii saaraa jal gayaa \-2
+aag lagii bahaar me.n
+kyaa kyaa na log \threedots
+
+phiikii pa.Dii hai chaa.Ndanii
+taare bhii jhilamilaate hai.n \-2
+sab hai.n nazar me.n beqaraar \-2
+dil jo nahii.n qaraar me.n
+kyaa kyaa na log \threedots
+
+miT bhii gaye to kyaa huaa
+maut hai ek zi.ndagii \-2
+ek naam aur ba.Dh gayaa \-2
+duniyaa kii yaadagaar me.n
+kyaa kyaa na log \threedots
+
+%  
+#endindian  
+\endsong
+%

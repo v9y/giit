@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{ye samaa ye rut ye nazaare dil meraa machalane lagaa}%
+\film{Do Kaliyaan}%
+\year{1968}%
+\starring{Biswajeet, Mala Sinha, Baby Sonia}%
+\singer{Lata, Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Editor: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+ra: ye samaa ye rut ye nazaare, dil meraa machalane lagaa
+    jaane vafaa, ai dilarubaa, aise me.n aa merii baaho.n me.n aa
+la: rok le nigaaho.n ke ishaare, tan meraa pighalane lagaa
+    mai.n huu.N terii, tuu hai meraa, aa mere dil kii panaaho.n me.n aa
+
+shaane (???) pe mere, giraa de zulfe.n
+aa.Nkho.n pe mere, bichhaa de zulfe.n
+aisaa jagaa de pyaar kaa jaaduu
+saare jahaa.N pe chhaae nashaa
+%
+#endindian
+\endsong
+%

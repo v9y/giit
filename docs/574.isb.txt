@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{duur koii gaae dhun ye sunaae}%
+\film{Baiju Bawra}%
+\year{1952}%
+\starring{Meena Kumari, Bharat Bhushan, Surendra, Ratan Kumar}%
+\singer{Shamshad, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/24/1996
+%
+\printtitle
+#indian
+%
+duur koii gaae dhun ye sunaae
+tere bin chhaliyaa re baaje na muraliyaa
+man ke a.ndar ho pyaar kii agni
+nainaa khoye\-khoye ki haay raamaa naina khoye\-khoye
+abhii se hai ye haal to aage
+raam jaane kyaa hoe
+nii.nd nahii.n aae birahaa sataae
+tere bin chhaliyaa \threedots
+ 
+more a.Nganaa laaj kaa paharaa paa.Nv pa.Dii za.njiir
+ki haay raamaa paa.Nv pa.Dii za.njiir
+yaad kisii kii jab\-jab aae
+laage jiiyaa pe tiir
+ke haay raamaa lage jiiyaa pe tiir
+aa.Nkh bhar aae jal barasaae
+tere bin chhaliyaa \threedots
+%
+#endindian
+\endsong
+%
+

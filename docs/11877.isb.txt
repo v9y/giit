@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ba.Dii mushkil hai tujhe bhuul jaanaa}%
+\film{Hum Hain Rahi Pyar Ke}%
+\year{1960s Not Released}%
+\starring{}%
+\singer{Lata, Talat}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10273 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ta \:	ba.Dii mushkil hai \-2
+	tujhe bhuul jaanaa \-2
+	ba.Dii mushkil hai \threedots
+la \:	ba.Daa sa.ngadil hai \-2
+	ye zaalim zamaanaa \-2
+	ba.Daa sa.ngadil hai \threedots
+
+la \:	zamaanaa vafaa kii ( sazaa de rahaa hai ) \-2
+	tumhe.n dil ta.Dap kar ( sadaa de rahaa hai ) \-2
+	bane ham nishaanaa zaraa dekh jaanaa
+ta \:	ba.Dii mushkil hai \threedots
+
+	vahii aag ab tak ( lagii hai jigar me.n ) \-2
+	tumhaarii hii suurat ( basii hai nazar me.n ) \-2
+	kiyaa har bahaanaa magar dil na maanaa
+la \:	ba.Daa sa.ngadil hai \threedots
+
+	kahaa.N le ke jaa_e.N ( ye aa.Nsuu ye aahe.n ) \-2
+	nibhaa_e.N to kaise ( mohabbat nibhaa_e.N ) \-2
+	sadaa zaKm khaanaa magar muskuraanaa
+ta \:	ba.Dii mushkil hai \threedots
+la \:	ba.Daa sa.ngadil hai \threedots
+%
+#endindian
+\endsong
+

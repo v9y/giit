@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{na jaane kaisii burii gha.Dii me.n ... arthii nahii.n naarii kaa}%
+\film{Naag Panchami}%
+\year{1953}%
+\starring{Nirupa Roy, Manahar Desai, Ranjeet Kumari, B M Vyas, Durga Khote}%
+\singer{Rafi, Asha}%
+\music{Chitragupt}%
+\lyrics{Gopal Singh Nepali}%
+%
+% Contributor: BOL ANAMOL #10141 [V S Rawat]
+% Transliterator: 
+% Comments: This song is in the background.
+% 
+\printtitle
+#indian
+%
+na jaane kaisii burii gha.Dii me.n dulhan banii ek abhaagan
+piyaa kii arthii lekar chalii hone satii suhaagan
+
+arthii nahii.n naarii kaa suhaag jaa rahaa hai
+bhagavaan tere ghar kaa si.ngaar jaa rahaa hai
+
+bajataa thaa jiivan kaa giit do saa.Nso.n ke taaro.n me.n
+TuuTaa hai jisakaa taar vo sitaar jaa rahaa hai
+bhagavaan tere ghar kaa \threedots
+
+jalataa thaa jab tak jalatii rahii chi.ngaarii
+bujhane ko ab tan kaa a.ngaar jaa rahaa hai
+bhagavaan tere ghar kaa \threedots
+
+bhav saagar kii laharo.n me.n bichha.De aise do saathii
+sajanii ma.Njhadhaar saajan us paar jaa rahaa hai
+bhagavaan tere ghar kaa \threedots
+%
+#endindian
+\endsong
+

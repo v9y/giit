@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mai.n us se itanaa pyaar karataa huu.N ki jitanaa vo nahii.n karatii}%
+\film{Meraa Javaab}%
+\year{1985}%
+\starring{}%
+\singer{Anuradha Paudwal, Manhar}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+mai.n us se itanaa pyaar karataa huu.N
+ki jitanaa vo nahii.n karatii
+mai.n us se itanaa pyaar karatii huu.N
+ki jitanaa vo nahii.n karataa
+
+1) pyaar apanaa asar dikhaataa hai
+aadamii kyaa se kyaa ho jaataa hai
+koI shaayar ban jaataa hai
+koI diivaanaa ho jaataa hai
+mai.n usape itanaa marataa huu.N
+ki jitanaa vo nahii.n maratii
+mai.n us se itanaa pyaar \threedots
+
+2) kyo.n ye chaahat karane jaa.n masaratii hai
+har gha.Dii kyuu.n ye dha.Dakan machalatii hai
+aag sii siine me.n mere jalatii hai
+roz jis dam se ye shaam Dhalatii hai
+mai.n us se itanaa pyaar karatii huu.N \threedots
+
+3) vo mere hii dil me.n rahatii hai
+mai.n jis se mohabbat karataa huu.N
+usako hii khudaa mai.nne maanaa hai
+mai.n jisakii ibaadat karatii huu.N
+mai.n usape itanaa naaz karatii huu.N
+ki jitanaa vo nahii.n karataa
+%
+#endindian
+\endsong
+%

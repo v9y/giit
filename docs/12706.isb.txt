@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{tan me.n agni man me.n chubhan ... o rabbaa Kair}%
+\film{Laat Saheb}%
+\year{1967}%
+\starring{Shammi Kapoor, Nutan, Rajendra Nath}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11060 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	tan me.n agni man me.n chubhan
+	kaa.Np uThaa meraa bhiigaa badan
+	o rabbaa Kair Kair Kair o rabbaa Kair
+ra \:	ujalaa mukh jaise darpan
+	kaalii laT jaise naagan
+	o rabbaa Kair Kair Kair o rabbaa Kair
+
+aa \:	ko_ii lahar jab tan ko chhuu le \-2
+	biich bha.Nvar merii kaayaa jhuule
+	baan jigar par maare pavan
+	thaam ke dil rah jaa_uu.N sajan
+	o rabbaa Kair \threedots
+
+ra \:	phuul se nikharii terii javaanii \-2
+	sholaa ban gayaa ThaNDaa paanii \-2
+	chaa.Nd se utarii cha.ndr kiraN
+	kaun bujhaa_e man kii tapan
+	o rabbaa Kair \threedots
+
+aa \:	soch naa tuu baa.Nho.n me.n le\-le
+	ishq vahii jo aag se khele
+	aaj hu_aa do dil kaa milan
+	aaj milaa dharatii se gagan
+	o rabbaa Kair \threedots
+%
+#endindian
+\endsong
+

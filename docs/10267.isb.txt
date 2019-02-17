@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{o shamaa mujhe phuu.nk de ... paravaane jaa hai ajab chalan}%
+\film{Aashiq}%
+\year{1962}%
+\starring{Raj Kapoor, Padmini, Nanda, Abhi Bhattacharya, Leela Chitnis}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10917 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	o shamaa mujhe phuu.nk de
+	mai.n na mai.n rahuu.N tuu na tuu rahe
+	yahii ishq kaa hai dastuur \-2
+la \:	paravaane jaa hai ajab chalan
+	yahaa.N jiite jii apanaa milan
+	qismat ko nahii.n ma.njuur \-2
+
+	shaam se lekar roz sahar tak tere li_e mai.n saarii raat jalii
+	maine to haay ye bhii na jaanaa kab din Duubaa kab raat Dhalii
+	phir bhii hai.n milane se majabuur \-2
+mu \:	o shamaa mujhe \threedots
+
+	patthar dil hai.n ye jagavaale jaane na ko_ii mere dil kii jalan \-2
+	jab se hai janamii pyaar kii duniyaa tujhako hai merii mujhe terii lagan
+	tum bin ye duniyaa hai benuur \-2
+la \:	paravaane jaa hai \threedots
+
+mu \:	haay rii qismat a.ndhii qismat dekh sakii naa terii\-merii Kushii
+la \:	haay rii ulfat bebas ulfat ro ke thakii jal\-jal ke marii
+do \:	dil jo mile kisakaa thaa qasuur \-2
+mu \:	o shamaa mujhe \threedots
+la \:	paravaane jaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{tum se mujhe pyaar kyuu.N ho gayaa}%
+\film{Na Tum Jaano Na Hum}%
+\year{2002}%
+\starring{Hritik Roshan, Isha Deol, Said Ali Khan}%
+\singer{Kamaal Khan}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum se mujhe pyaar kyuu.N ho gayaa tum naa mile aur mai.n kho gayaa
+tum mere Kvaabo.n se jaa naa sake tum merii baaho.n me.n aa naa sake
+
+tum se gilaa nahii.n mujhe qismat se hai.n gile
+karataa hai aasamaan kyuu.N ye dil ke faisale
+tum mere Kvaabo.n  \threedots
+
+barabaad ho gayaa mai.n kyuu.N ye bhii na kah sakaa
+royaa mai.n yuu.N ke ek bhii aa.Nsuu na bah sakaa
+tum mere Kvaabo.n  \threedots
+%
+#endindian
+\endsong

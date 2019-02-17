@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{zaraa sii aahaT hotii hai to dil sochataa hai}% 
+\film{Haqeeqat}%
+\year{1964}%
+\starring{Dharamendra, Priya Rajvansh}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@eng.umd.edu) 
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian
+%
+zaraa sii aahaT hotI hai to dil sochataa hai 
+kahii.n ye vo to nahii.n, kahii.n ye vo to nahii.n 
+zaraa sI aahaT hotI hai \threedots 
+
+chhup ke siine me.n koI jaise sadaa detaa hai 
+shaam se pahale diyaa dil kA jalaa detaa hai 
+hai usii kii ye sadaa, hai usii kii ye adaa 
+kahii.n ye vo to nahii.n \threedots 
+
+shakl phiratii hai nigaaho.n me.n vohii pyaarii sI 
+merI nas\-nas me.n machalane lagI chi.ngArI sI 
+chhuu gaI jism meraa kisake daaman kii havaa 
+kahii.n ye vo to nahii.n \threedots 
+%
+#endindian
+\endsong
+%

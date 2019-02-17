@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{o merii chhammak chhallo ... o mere raam lubhaayaa}%
+\film{Pyaasaa Saawan}%
+\year{1981}%
+\starring{Jeetendra, Mausami Chatterji, Rina Roy, Deven Verma}%
+\singer{Kishor, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: BOL ANAMOL #11309 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	o merii chhammak chhallo do din kii hai zindagaanii \-2
+	tuu pyaar mujhe kar aise mai.n likh duu.N prem kahaanii
+aa \:	o mere raam lubhaayaa \-2
+	kyaa likhanii prem kahaanii
+	mauqaa hai mauj manaa lo kab kisakii rahii javaanii
+
+ki \:	likhane kaa shauq mujhe hai likhataa huu.N dil kii baate.n \-2
+	tho.Dii sii din kii baate.n tho.Dii raato.n kii baate.n \-2
+aa \:	din ke kyaa taur\-tariike raato.n kii niiyat kyaa hai
+	tum to kyaa jaano is par mausam kii chaahat kyaa hai
+ki \:	dil jo kahataa hai usako aa.Nkho.n se mai.n kahataa huu.N
+	dil kii haalat ko samajho  rut hai kitanii mastaanii
+aa \:	o mere raam lubhaayaa \threedots
+ki \:	o merii chhammak chhallo \threedots
+aa \:	o mere raam lubhaayaa \threedots
+
+	sun\-sun ke bole meraa dil baiThaa jaa_e \-2
+	pyaase aramaano.n vaalaa saavan ye biitaa jaa_e
+ki \:	mujhako kuchh hosh nahii.n thaa sachamuch mai.n be_asar thaa
+	nazaro.n me.n tum hii tum the mausam se beKabar thaa
+aa \:	ab to kuchh Kair\-Kabar lo sun lo ghanaghor anaa.Dii
+	ma.nzil pe aa ke bhaTakii merii yauvan kii gaa.Dii
+	karate ho kyo.n naadaanii socho baate.n mardaanii \-2
+	mauqaa hai mauj \threedots
+ki \:	o merii chhammak chhallo \threedots
+%
+#endindian
+\endsong
+

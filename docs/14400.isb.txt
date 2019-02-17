@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{merii duniyaa me.n aake mat jaa}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Sonu Nigam, Chorus/ S Shailaja, Chorus}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o ai aa ishq kaa dard hai dard hai ishq kaa
+merii duniyaa me.n aake mat jaa mat jaa kahii.n mat jaa
+merii duniyaa me.n aake mat jaa mat jaa mat jaa
+merii duniyaa me.n \threedots
+
+kyaa maine paa liyaa hai kyaa maine kho diyaa hai
+shaayad ye soch kar hii dil aaj ro diyaa hai
+tuu hii to thaa meraa apanaa kaise phir se TuuTaa sapanaa
+tuu jo mil ke kho jaa_egaa jiinaa mushkil ho jaa_egaa
+o merii duniyaa me.n \threedots
+
+ye ishq kii hai.n raahe.n mai.n jin pe chal rahaa huu.N
+is aag me.n na jaane mai.n kab se jal rahaa huu.N
+mai.n to huu.N teraa diivaanaa tuune mujhako naa pahachaanaa
+dilabar mere aisaa naa kar chaahat me.n tuu rusavaa naa kar
+o merii duniyaa me.n \threedots
+%
+#endindian
+\endsong
+

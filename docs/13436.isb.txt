@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dono.n taraf aag hai ... isii ko to kahate hai.n pyaar}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Kumar Sanu, Kavita Subtamaniam, Rakesh Pandit}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yahaa.n vahaa.n idhar udhar
+dono.n taraf aag hai lagii
+dono.n taraf pyaas hai jagii
+dono.n taraf ek jaisaa haal
+dono.n taraf dil hai bekaraar
+isii ko to kahate hai.n pyaar
+haa dono.n taraf \threedots
+
+huu.n kahii.n kahii.n khilate hai ye phuul
+kabhii kabhii hotii hai ye bhuul
+kisii kisii ko ye nashaa ko_ii ko_ii dil kaa khariidadaar
+jummaa jummaa hu_e saat din terii merii mulaakaat ko
+nii.nd nahii.n aatii raat ko jiinaa meraa hu_aa dushvaar
+isii ko to kahate \threedots
+
+yaad bahut aate ho tum aake chale jaate ho tum
+abhii aanaa jaanaa chho.D ke dil me.n samaa jaa_o mere yaar
+baiTh jaa tuu mere saamane mai.n terii tasviir khii.nch luu.n
+jab bhii jahaa.n bhii mai.n chaahuu.n kar luu.n teraa diidaar
+isii ko to kahate \threedots
+%
+#endindian
+\endsong
+

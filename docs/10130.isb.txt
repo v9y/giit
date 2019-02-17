@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye khabar chhapavaa do akhabaar me.n ... paagal ho ga_e pyaar me.n}%
+\film{Aflaatoon}%
+\year{1997}%
+\starring{Akshay Kumar, Urmila, Anupam, Sazia Mullick, Farida, Rajesh Joshi}%
+\singer{Lalit Sen, Shweta}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye khabar chhapavaa do akhabaar me.n posTar lagavaa do baazaar me.n
+ek la.Dakaa ek la.Dakii ek la.Dakaa ek la.Dakii
+haay haay dono.n paagal ho ga_e pyaar me.n
+ye khabar chhapavaa do \threedots
+
+nii.nd nahii.n aatii aa.Nkho.n me.n jab se aa.Nkh la.Dii hai
+mai.n bhii huu.N betaab ba.Daa tuu bhii bechain ba.Dii hai
+tere mere biich zamaane kii diivaar kha.Dii hai
+aa Dhuu.nDhe.n ko_ii khi.Dakii daravaazaa is diivaar me.n
+ye khabar chhapavaa do \threedots
+
+ham dono.n hai.n yaar ka.nvaare nikalii sau baaraate.n
+dil ke andar hii na rah jaa_e.n dil kii yah baate.n
+tho.De se hai.n pyaar ke din tho.Dii sii pyaar kii raate.n
+yah na ho mar jaa_e.n ham dono.n i.ntazaar me.n
+ye khabar chhapavaa do \threedots
+
+pyaar ke dushman duniyaa vaale kar le.n jo hai karanaa
+chupake chupake thaam ke dil Tha.nDii aahe.n kyaa bharanaa
+pyaar kiyaa to tho.Dii sii badanaamii se kyaa Daranaa
+kaa.NTe bhii hote hai.n yahaa.n phuulo.n ke haar me.n
+ye khabar chhapavaa do \threedots
+%
+#endindian
+\endsong
+

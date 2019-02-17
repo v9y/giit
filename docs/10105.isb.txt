@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aashiq mujhe aashiq tuune banaayaa ... sajanaa yahii pyaar hai}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Roop Kumar Rathod, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa
+aashiq mujhe aashiq tuune banaayaa vallaah vallaah
+dil hai teraa mere siine me.n
+dil hai meraa tere siine me.n
+ye kyaa gazab yaar hai
+sajanaa yahii pyaar hai
+
+tuune aisaa dard diyaa hai mushkil hai batalaanaa
+tuune kaisaa haal kiyaa hai tuune bhii naa jaanaa
+jaanaa.n nahii.n jaanaa nazare.n churaa ke vallaah vallaah
+o zulfo.n kii ra.ngii.n chhaa.Nv me.n
+mahabuub kii gorii baaho.n me.n
+dilabar giraftaar hai
+sajanaa yahii pyaar hai o
+
+zahar judaa_ii vaalaa mujhako jaan\-e\-man nahii.n piinaa
+bin tere naa maranaa ab to bin tere naa jiinaa
+jiinaa nahii.n jiinaa tanhaa akele vallaah vallaah
+mahakii muhabbat kii raaho.n me.n raaho.n me.n
+dilakash panaaho.n me.n
+duniyaa kii diivaar hai
+sajanaa yahii pyaar hai
+aashiq mujhe aashiq \threedots
+%
+#endindian
+\endsong
+

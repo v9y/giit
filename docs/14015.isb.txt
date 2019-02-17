@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{har dil me.n hai rab basataa ... sabase ba.Daa khilaa.Dii hai vo}%
+\film{Sabse Badaa Khilaadi}%
+\year{1995}%
+\starring{Akshay Kumar, Mamta Kulkarni, Mohnish, Sadashiv, Gulshan}%
+\singer{Kumar Sanu}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( har dil me.n hai rab basataa \-2
+sabase ba.Daa khilaa.Dii hai vo tarah tarah ke khel hai rachataa ) \-2
+har dil me.n hai rab basataa \threedots
+
+khol ke aa.Nkhe.n dekh lo bhaiyaa ye duniyaa hai gorakhadha.ndhaa
+jaisaa karegaa bharegaa vaisaa sar pe laTak rahaa hai pha.ndaa
+be\-aavaaz hai laaThii usakii ho \-2 jisakii maar se ko_ii na bachataa
+har dil me.n hai rab basataa \threedots
+
+kahii.n pe raga.De kahii.n pe jhaga.De ek jaan ke sau hai.n lafa.De
+man kaa mail kahii.n nahii.n dhulataa sirf yahaa.N dhulate hai.n kapa.De
+cheharo.n par muskaan sajii hai ho \-2 sachchii ha.Nsii ko_ii nahii.n ha.Nsataa
+har dil me.n hai rab basataa \threedots
+
+dono.n haath the khaalii tere duniyaa me.n jab tuu aayaa thaa
+jo paayaa sab yahii.n pe paayaa bol apane sa.ng kyaa laayaa thaa
+moh maayaa ke jaal me.n pha.nsakar ho \-2 kabhii tuu rotaa kabhii tuu ha.Nsataa
+har dil me.n hai rab basataa \threedots
+%
+#endindian
+\endsong
+

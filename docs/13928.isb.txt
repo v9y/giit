@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tere pyaar ke tiir ne ghaayal ... are tuu hai kamaal}%
+\film{Safaari}%
+\year{1999}%
+\starring{Sanjay Dutt, Juhi Chawla}%
+\singer{Udit Narayan, Kavita Subramaniam}%
+\music{Shyam Mohan}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haa.N tere pyaar ke tiir ne ghaayal kar diyaa diyaa
+tere ishq ne mujhe paagal kar diyaa diyaa
+are are tuu hai kamaal
+
+dil jiitane kii hai tujhame.n har adaa adaa adaa
+to bolo kaise na hotaa mai.n fidaa fidaa
+are are tuu hai kamaal
+
+jabase sanam dil ko teraa pyaar milaa aa aa
+tan me.n nayaa man me.n nayaa shor machaa aa aa
+itane kariib aa jaa_e.n laharo.n jaise mil jaa_e.n
+terii saa.Nso.n me.n bechainii hai
+dil kaa mausam tuufaanii hai
+tere ishq ne mujhe \threedots
+
+kaisii diivaanagii kyuu.n ye betaabiyaa.n
+kaisii ye bekhudii kyuu.n ye behoshiyaa.n
+na hosh me.n tum aa_o na hosh me.n ham aa_e.n
+ai kaash ke ab ye pal aise hii Thahar jaa_e.n
+ho is pyaar se dekho nahii.n dam ye nikal hii na jaa_e kahii.n
+he o merii jaan merii jaa.n ho tum tere hii dam se to jiite hai.n ham
+tere pyaar ke tiir \threedots
+%
+#endindian
+\endsong
+

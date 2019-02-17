@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jaan merii jaa rahii sanam}%
+\film{Lucky - No Time For Love}%
+\year{2005}%
+\starring{Mithun Chakraborty, Salman Khan, Sneha Ullal}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Adnan Sami}%
+\lyrics{Sameer}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 12 Feb 2005
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+u,a: (aake bhar lo baazu_o.n me.n tumako hai qasam
+   jaan merii jaa rahii sanam) \-2
+
+u: kyaa mohabbat hai kyaa nazaaraa hai
+kal talak ye dil thaa meraa ab tumhaaraa hai
+a: kyaa tamannaa hai kyaa ishaaraa hai
+hamane to pal\-pal ta.Dapake pal guzaaraa hai
+u: dekho dekho ab karo naa mujh pe yuu.N sitam
+jaan merii jaa rahii sanam
+
+a: kyaa la.Dakapan hai kyaa jawaanii hai
+ab tumhaare naam saarii zi.ndagaanii hai
+u: kyaa haqiiqat hai kyaa kahaanii hai
+saamane mere mere sapano.n kii raanii hai
+a: ab sahaa naa jaa_e mujh se duurii kaa ye Gam
+jaan merii jaa rahii sanam
+
+
+%
+#endindian
+\endsong

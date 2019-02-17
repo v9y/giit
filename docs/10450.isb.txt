@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{u.Dii hawaa me.n gaatii hai jaatii chi.Diyaa ye raag}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Devika Rani}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+%
+% Contributor: BOL ANAMOL #11973 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( u.Dii hawaa me.n jaatii hai gaatii chi.Diyaa ye raag
+aavo priitam hil\-mil khele.n prem\-priit kaa phaag ) \-2
+
+( chi.Diyaa sa.ng\-sa.ng u.Datii\-phiratii
+saadh ra.nge dil kii nadiyaa ) \-3
+( mai.n dukhiyaarii bichha.D gayii
+kaa ke sa.ng kheluu phaag ) \-2
+
+u.Dii hawaa me.n jaatii hai gaatii chi.Diyaa ye raag
+aavo priitam hil\-mil khele.n prem\-priit kaa phaag
+%
+#endindian
+\endsong
+

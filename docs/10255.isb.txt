@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{paas nahii.n aanaa bhuul nahii.n jaanaa}%
+\film{Aap Ki Qasam}%
+\year{1974}%
+\starring{Rajesh Khanna, Mumtaz, Sanjiv Kumar}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10742 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	paas nahii.n aanaa bhuul nahii.n jaanaa
+	tumako sauga.ndh hai ki aaj mohabbat ba.nd hai
+	paas nahii.n aanaa \threedots
+
+ki \:	pahale to aag bha.Dakaatii hai
+	phir dil kii pyaas tuu bujhaatii hai
+	terii yahii adaa to mujhako pasa.nd hai
+la \:	achchhaa
+ki \:	haa.N\-haa.N
+la \:	magar aaj mohabbat ba.nd hai \threedots
+
+la \:	kitanaa mazaa hai aise jiine me.n
+	dhak\-dhak bhii hotii nahii.n siine me.n
+	ko_ii bechainii nahii.n kitanaa aana.nd hai
+	ki aaj mohabbat ba.nd hai \threedots
+
+ki \:	mat chhe.D apane diivaane ko
+	rahane de tuu is bahaane ko
+	ho.nTho.n pe naa hai magar dil to razaama.nd hai
+la \:	razaama.nd hai
+	magar aaj mohabbat ba.nd hai \threedots
+%
+#endindian
+\endsong
+

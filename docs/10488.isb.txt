@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{hariyaalaa bannaa hai ... chehare pe seharaa hai ... badhaa_ii ho}%
+\film{Badhaai Ho Badhaai}%
+\year{2002}%
+\starring{Anil Kapoor, Shilpa Shetty, Kirti Reddy, Amrish Puri, Kadar Khan}%
+\singer{Udit Narayan, KayKay, Sapana Awasthi, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hariyaalaa bannaa hai seharaa sajaa_e
+gharavaale baaraat le ke hai.n aa_e
+he ghu.ngharuu vaaliyo.n ghu.ngharuu baa.ndh lo ho
+chalo tum bhii to Dholak saath lo ai
+
+chehare pe seharaa hai sehare pe kalagii
+kalagii me.n motii hai motii me.n jyoti
+jyoti me.n jaise khushii muskuraa_ii ho
+badhaa_ii ho badhaa_ii ho badhaa_ii ho
+
+maa.N ke nasiibo.n se ye din hai aayaa
+kismat ne banne kaa seharaa dikhaayaa
+jisame.n hai champaa chamelii kii kaliyaa.N
+baaraat nikalii to mahakii hai.n galiyaa.N
+khushbuu ne jaise khushbuu ne jaise lii a.ng.Daa_ii ho
+badhaa_ii ho \threedots
+
+bahane.n magan hai.n ki bhaabhii milegii
+bhaabhii jo unakii sahelii banegii
+bhaiyaa jo pyaare to bhaabhii bhii pyaarii
+dono.n kii jo.Dii hogii aisii nyaarii
+suuraj kii cha.ndaa se ho suuraj kii cha.ndaa se jaise sagaa_ii ho
+badhaa_ii ho \threedots
+%
+#endindian
+\endsong
+

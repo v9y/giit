@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{diivaanaa teraa haay kasam yahii khaay}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa teraa haay kasam yahii khaay
+tere kadamo.n me.n jhuumatii bahaar bichhaa duu.ngaa
+jo tuu mil jaa_e gazab ho jaa_e
+terii duniyaa me.n khushiyo.n ke mele lagaa duu.ngaa
+o hasiinaa saath jiinaa dostii kaa haath de de
+o hasiinaa dil jo chhiinaa dostii kaa haath le le
+diivaanaa teraa haay \threedots
+
+aasamaano.n pe yahii hai likhaa
+naam teraa hii hai mujhase ju.Daa
+tuu to pa.Dh kar ke bhii a.njaan hai
+ye sataane kii hii pahachaan hai
+zid yahii hai tuu merii hai
+aarazuu ye aakharii hai
+hai ba.Daa mushkil merii jaa.n tumako samajhaanaa
+
+aap is dil ko dukhaate hai.n kyuu.N
+duur yuu.n kataraa ke jaate hai.n kyuu.N
+kuchh kamii hamame.n jo ho to bataa de
+ham to khud ko bhii badal ke dikhaa de.n
+baat jo bhii aapakii hai sar jhukaake maan lii hai
+pyaar itanaa karane vaalaa paa_e.nge kahaa.n
+diivaanaa teraa haay \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,72 @@
+% 
+\startsong
+\stitle{ek ho gaye ham aur tum}%
+\film{Bombay}%
+\year{}%
+\starring{Arvind Swamy, Manisha Koirala, Sonali Bendre, Prasad}%
+\singer{Remo Fernandes, chorus}%
+\music{A R Rahman}%
+\lyrics{Mehboob}%
+% 
+% Contributor: Shoba Thamma (shoba@astro.ocis.temple.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 19 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ek ho gaye ham aur tum
+tuu u.D ga_ii nii.nde.n re
+aur khanakii paayal mastii me.n to
+ka.ngan khanake re		
+
+##chorus##:
+(hammaa, hammaa
+ hammaa, hammaa, hammaa)	\-2
+
+hai pahalii baar mile
+tum pe dam ye nikale
+tum pe (ye) javaanii dhiire\-dhiire
+maatam machale re
+
+##chorus##:
+(hammaa, hammaa
+ hammaa, hammaa, hammaa)        \-2
+
+khilii chaa.Ndanii jaisaa ye badan
+janaab milaa tumako
+man me.n sochataa jaisaa ruup teraa
+aayaa nazar hamako
+sitam khulii\-khulii ye, sanam gorii\-gorii ye
+baahe.n karatii hai yuu.N
+hame.n tumane jab gale lagaayaa to
+kho hii gaye ham to
+
+##chorus##:
+(hammaa, hammaa
+ hammaa, hammaa, hammaa)        \-2
+ek ho gaye \threedots \threedots khanake re
+(hammaa, hammaa
+ hammaa, hammaa, hammaa)        \-2
+hai pahalii baar \threedots \threedots machale re
+
+khulii zulf me.n, terii aa.Nkho.n me.n
+madahosh ho gaye
+gore gaal pe, bhiige ho.nTh pe
+yaaraa fidaa ho gaye
+sanam pyaar me.n, bhiigii raat me.n
+pyaas jagaate rahe.n
+khatam na ho sanam, pyaar kaa mausam
+chaahat ba.Dhatii rahe
+
+##chorus##:
+(hammaa, hammaa
+ hammaa, hammaa, hammaa)        \-2
+hammaa!!
+%
+#endindian
+\endsong
+%

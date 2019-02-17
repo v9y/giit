@@ -1,0 +1,42 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jo baat ishaaro.n me.n kahii tum nahii.n samajhe}%
+\film{Joshila}%
+\year{1973}%
+\starring{Dev Anand, Hema Malini, Raakhee, Bindu, Pran}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+% 
+% Audio on: Music India
+% Tags: 
+% Contributor: Shalini Razdan
+% Transliterator: Shalini Razdan
+% Date: 30 Jun 2006
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+jo baat ishaaro.n me.n kahii, tum nahii.n samajhe 
+hamane to hazaaro.n me.n kahii, tum nahii.n samajhe
+tum nahii.n samajhe \-2
+jo baat ishaaro.n me.n kahii, tum nahii.n samajhe
+hamane to hazaaro.n me.n kahii, tum nahii.n samajhe
+
+(hamane ye chaahaa thaa qadamo.n me.n bas rahate
+ho lekin ham ye hasarat apane mu.Nh se kaise kahate) \-2
+saa.Nso.n kii pukaaro.n me.n kahii tum nahii.n samajhe
+jo baat ishaaro.n me.n  kahii \threedots
+
+(hamane nii.nde.n haarii.n tumane chaahat jiitii
+ho bhiigii rut me.n tapate dil par tum bin jo jo biitii) \-2
+ashko.n kii phuhaaro.n me.n kahii tum nahii.n samajhe
+jo baat ishaaro.n me.n kahii \threedots
+
+%
+#endindian
+\endsong

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chup hai dharatii, chup hai.n chaa.Nd sitaare}%
+\film{House No. 44}%
+\year{1955}%
+\starring{Dev Anand, Kalpana Karthik}%
+\singer{Hemant}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: A Tribute to Sachin Dev Burman #4
+%
+\printtitle
+#indian
+%
+
+hey mm mm mm
+hey mm mm mm
+
+chup hai dharatii, chup hai.n chaa.Nd sitaare
+mere dil kii dha.Dakan tujhako pukaare
+
+khoye khoye se ye mast nazaare
+Thahare Thahare se yah ra.ng ke dhaare
+Dhoo.NDh rahe hai.n tujhako saath hamaare
+chup hai dharatii \threedots
+
+Aa~ haa~
+kone kone mastii phail rahii hai
+baahe.n banakar hastii phail rahii hai
+tujh bin duube dil ko kaun ubhaare
+chup hai dharatii \threedots
+
+nikharaa nikharaa sa hai chaa.Nd kaa jauvan
+bikharaa bikharaa sa hai nuur ka daaman
+aajaa merii tan_haayii ke sahaare
+chup hai dharti \threedots
+%
+#endindian
+\endsong
+%

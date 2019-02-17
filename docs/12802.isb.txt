@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kyuu.n chhupaate ho man kii baat}%
+\film{Mann/ Listen To Your Heart}%
+\year{1999}%
+\starring{Aamir Khan, Manisha Koirala, Anil Kapoor}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyuu.n chhupaate ho man kii baat
+kah bhii do biitii jaa_e raat
+duuriyaa.n kisali_e de do haatho.n me.n haath
+
+dil bhii tumhaaraa hai ham bhii tumhaare hai.n
+man me.n machalate aramaa.n hamaare hai.n
+dekho sitaare karate kaise ishaare hai.n
+karalo muhabbat kamasin nazaare hai.n
+kyuu.n chhupaate ho \threedots
+
+dil hai diivaanaa kahanaa naa maane
+rasmo.n ko kasamo.n ko ye paagal naa jaane
+zidii ba.Daa hai zid pe a.Daa hai
+aa jaa_o aa bhii jaa_o isako manaane
+kyuu.n chhupaate ho \threedots
+
+hamase muhabbat karate ho tum bhii
+ham jitanaa marate tumape marate ho tum bhii
+hamako pataa hai dil jaanataa hai
+tanhaa_iiyo.n me.n aahe.n bharate ho tum bhii
+kyuu.n chhupaate ho \threedots
+%
+#endindian
+\endsong
+

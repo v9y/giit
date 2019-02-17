@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{aa jaa re aa zaraa, laharaa ke aa zaraa}%
+\film{Love In Tokyo}%
+\year{1966}%
+\starring{Joy Mukherjee, Asha Parekh}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ye zi.ndagii kii mahafil, mahafil me.n ham akele
+daaman ko koii thaame, zulfo.n se koii khele
+
+aa jaa re aa zaraa, laharaa ke aa zaraa
+aa.Nkho.n se dil me.n samaa
+aa jaa re aa zaraa   \threedots
+
+dekh fizaa me.n ra.ng bharaa hai
+mere jigar kaa zaKm haraa hai
+siine se mere sar ko lagaa de
+haatho.n me.n tere dil kii davaa hai
+aa jaa re aa zaraa   \threedots
+
+tere bhii dil me.n aag lagii hai
+mere bhii dil me.n aag lagii hai
+dono.n taraf hai ek sii haalat
+dono.n dilo.n par bijalii girii hai
+aa jaa re aa zaraa   \threedots
+
+dil kaa sulagaanaa kisako dikhaa_uu.N
+saa.Nso.n ke tuufaa.N kaise chhupaa_uu.N
+aa.Nkhe.n kyaa kyaa dekh rahii.n hai.n
+dil pe jo guzarii kaise bataa_uu.N
+aa jaa re aa zaraa   \threedots
+
+%
+#endindian
+\endsong
+%

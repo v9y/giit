@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aa_iinaa aa_iinaa tuu bataa de zaraa ... kyaa mere yaar ko bhaa_e cheharaa}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa_iinaa aa_iinaa tuu bataa de zaraa
+kyaa mere yaar ko bhaa_e cheharaa meraa
+aa_iinaa aa_iinaa tuu \threedots
+
+sach hai kyaa jhuuTh kyaa yah kar faisalaa
+kyaa mere yaar ko \threedots
+
+mai.n to jaanuu.n haal saare apane jiyaa ke
+ye na jaanuu.n kyaa dil me.n piyaa ke
+ai havaa ai ghaTaa tuu hii sa.ndesh laa
+kyaa mere yaar ko \threedots
+
+kyaa mai.n huu.N pasand unhe.n bhed zaraa khol de
+nahii.n mai.n jaanuu.n tuu hii ab kuchh bol re
+dekh yuu.n na sataa baat aage ba.Dhaa
+kyaa mere yaar ko \threedots
+%
+#endindian
+\endsong
+

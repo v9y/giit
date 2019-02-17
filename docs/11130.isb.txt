@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kab maine ye sochaa thaa ... mere mahabuub mere sanam}%
+\film{Duplicate}%
+\year{1998}%
+\starring{Shahrukh Khan, Juhi Chawla}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kab maine ye sochaa thaa kab maine ye jaanaa thaa
+tum itane badal jaa_oge tum itanaa mujhe chaahoge
+tum itanaa pyaar karoge tum yuu.n ikaraar karoge
+mere mahabuub mere sanam shukriyaa meharabaanii karam
+kab maine ye sochaa \threedots
+
+aa.Nkho.n me.n jo narmii hai pahale to nahii.n thii
+saa.Nso.n me.n jo garmii hai pahale to nahii.n thii
+pahale to naa yuu.N chhaa_ii.n thii.n zulfo.n kii ghaTaa_e.n
+pahale to naa yuu.N mahakii thii.n aa.nchal kii havaa_e.n
+pahale to nahii.n aatii thii.n tumako ye adaa_e.n
+aaj kitane hasii.n hai.n sitam
+shukriyaa meharabaanii \threedots
+
+tum par mere pyaar kaa jaaduu pahale to nahii.n thaa
+dil jaisaa hai bekaabuu pahale to nahii.n thaa
+pahale to nahii.n hotii thii.n yuu.n pyaar kii baate.n
+hairaan huu.N mai.n sun ke sarakaar kii baate.n
+ikaraar kii baate.n ho.n yaa i.nkaar kii baate.n
+baat chhe.Dii to hai kam se kam
+shukriyaa meharabaanii \threedots
+%
+#endindian
+\endsong
+

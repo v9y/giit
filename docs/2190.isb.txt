@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{raftaa raftaa vo hamaare dil ke armaa.N ho gae}%
+\film{Ham Kahaan Ja Rahe Hain}%
+\year{1966}%
+\starring{Neena, Prakash}%
+\singer{Asha, Mahendra Kapoor}%
+\music{Basant Prakash}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor:  Nita Awatramani
+% Transliterator: Nita Awatramani
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+raftaa raftaa vo hamaare dil ke armaa.N ho gae
+pahale jaa.N, phir jaan\-e\-jaa.N
+phir jaan\-e\-jaanaa.N ho gae
+raftaa raftaa\threedots
+
+raftaa raftaa vo merii taskii.n kaa saamaa.N ho gae
+pahale dil phir dil_rubaa phir dil ke mehamaa.N ho gae
+raftaa raftaa\threedots
+
+raftaa raftaa un kii aa.Nkho.n kaa nashaa ba.Dhane lagaa 
+pahale may phir maikadaa phir may kaa tuufaa.N ho gae
+raftaa raftaa \threedots
+
+raftaa raftaa husn nikharaa aur nikharataa hii gayaa
+pahale gul phir gul_badan phir gul ba_daamaa.N ho gae
+raftaa raftaa \threedots
+
+%
+#endindian
+\endsong
+%

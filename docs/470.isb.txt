@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dhuaa.N banake fizaa ne u.Daa diyaa mujhako}% 
+\film{Best of Sajda}%
+\starring{}%
+\singer{Lata}%
+\music{Jagjit Singh}%
+\lyrics{Nazeer Baqri}%
+%
+% Contributor: Rajesh Sharma (rsharma@cs.indiana.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: rameshh@acad1.tp.ac.sg (Ramesh Hariharan)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+dhuaa.N banake fizaa ne u.Daa diyaa mujhako 
+mai.n jal rahaa thA kisii ne bujhaa diyaa mujhako 
+
+kha.DA huu.N aaj bhI roTii ke chaar harq liye 
+savaal ye hai kitaabo.n ne kyA diyaa mujhako 
+
+safed sa.ng kii chaadar lapeT kar mujh par 
+fasil\-e\-shahar me.n kisane sajaa diyaa mujhako 
+
+mai.n ek zarraa bulandii ko chhuune nikalaa thA 
+havaa ne thaam ke zamii.n par giraa diyaa mujhako 
+
+##
+Dictionary      :       1.      fiza            -       environment
+                        2.      hurf            -       words
+                        3.      sung            -       stone
+                        4.      faseel-e-shaher -       boundary of city
+                        5.      zurra           -       small particle
+                        6.      bulundi         -       height
+##
+%
+#endindian
+\endsong
+%

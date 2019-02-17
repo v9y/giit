@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{ai are chupake se dil de\-de na_ii te}%
+\film{Maryaadaa}%
+\year{1971}%
+\starring{Rajesh Khanna, Mala Sinha, Rajkumar, Pran, Asit Sen}%
+\singer{Kishore, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11530 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	ai
+la \:	are
+ki \:	chupake se dil de\-de
+la \:	na_ii te
+ki \:	na_ii te shor mach jaa_egaa
+la \:	o_e mai.n ho ga_ii badanaam yah na soch tuu bach jaa_egaa
+
+ki \:	jaise raat akelii me.n
+la \:	kyaa
+ki \:	milate hai.n chaa.Nd\-chakorii
+	chhup\-chhup ke mil jaanaa
+la \:	kahaa.N
+ki \:	sapano.n me.n aake o gorii
+la \:	dekh o dilabarajaanii
+ki \:	bol
+la \:	priit terii diivaanii
+ki \:	vah to hai
+la \:	chho.D ye prem\-kahaanii
+	na_ii te shor mach jaa_egaa \threedots
+
+ki \:	chaahe jo bhii ho jaa_e
+la \:	kyaa
+ki \:	mujhe pyaar nahii.n karanaa hai
+la \:	na na
+ki \:	mar jaanaa hai chup rah ke
+la \:	taubaa\-taubaa
+ki \:	ikaraar nahii.n karanaa hai
+la \:	maan le meraa kahanaa
+	dekh milaa le nayanaa
+	na_ii te shor mach jaa_egaa \threedots
+%
+#endindian
+\endsong
+

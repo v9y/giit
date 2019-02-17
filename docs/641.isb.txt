@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{ha.Ns tuu haradam}% 
+\film{Loot Maar}%
+\year{1980}%
+\starring{Dev Anand, Tina Munim, Mahmood, Prem Chopra}%
+\singer{Kishore, Varsha Bhosle, Shivangi Kolhapure}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ki: he ha.Ns tuu haradam 
+khushiyaa.n yaa Gam 
+kisii se Daranaa nahii.n, Dar Dar ke jiinaa nahii.n 
+ha.Ns tuu haradam 
+khushiyaa.n yaa Gam 
+
+l: ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+kisii se Daranaa nahii.n, Dar Dar ke jiinaa nahii.n 
+dono: ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+
+ki: jo Darapok hai.n, khud vohii aa.Nkh dikhaayaa karate hai.n 
+jo kamajor hai.n khud vohii haath uThaayaa karate hai.n 
+l: dushman kii kisii baat se tum Dar jaayaa nA karo 
+ki: he ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+dono : kisii se Daranaa nahii.n, Dar Dar ke jiinaa nahii.n 
+ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+
+ki: terI himmat kii kismat jo biga.Dii baat banaayegii 
+shaan se tU ye kadan uThaa, ma.nzil khud mil jaayegii 
+l: khud ko la.Daai me.n tum ulajhaayaa nA karo 
+ki: he ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+dono : kisii se Daranaa nahii.n, Dar Dar ke jiinaa nahii.n 
+ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+
+ki: luuTamaar me.n kyA rakhA, khuun kharaabaa hotA hai 
+jaisii karanii vaisii bharanii yahii faisalaa hotA hai 
+he ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+dono : kisii se Daranaa nahii.n, Dar Dar ke jiinaa nahii.n 
+ha.Ns tU haradam 
+khushiyaa.n yA Gam 
+%
+#endindian
+\endsong
+%

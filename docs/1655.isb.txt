@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{suno jii suno, hamaarii bhii suno}%
+\film{Ek Dil Sau Afsaane}%
+\year{1963}%
+\starring{Raj Kapoor, Waheeda Rehman}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Rahul Anand Narain <narain@sky.net>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits : Afzal Khan
+% Date: 08/09/1996
+%
+\printtitle
+#indian
+%
+suno jii suno, hamaarii bhii suno
+ajii maharbaan \threedots hamarii bhii suno
+na Tappaa, na Thumarii, Gazal hai na kajarii
+yah raaginii hai pyaar kii
+suno jii suno, ajii maharbaan
+hamaarii bhii suno
+
+taraanaa hamaaraa zamaane se nyaaraa
+har ek sur me.n dil hai dha.Dakataa huaa
+har ek bol pyaaraa ki jaise sitaaraa
+akelaa gagan me.n chamakataa huaa
+suno jii suno \threedots
+
+ishaaro.n me.n boluu.N, zubaa.n tak na kholuu.N
+nigaaho.n se kah duu.N samajh lo agar
+na yah beKudii hai, na diivaanagii hai
+mujhe to lagii hai tumhaarii nazar
+suno jii suno \threedots
+
+suno mere jii kii, merii aarzuu kii
+tamannaa yahii thii ke tum ho kariib
+yah chilman haTaa do, vah jhalkii dikhaa do
+ki ab to jagaa do hamaare nasiib
+suno jii suno \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jiijaajii merii jiijii hai anaa.Dii}%
+\film{Pongaa Pandit}%
+\year{1975}%
+\starring{Randhir Kapoor, Nita Mehta, Danny, Prema Narayan}%
+\singer{Kishore, Asha, Usha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11563 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( jiijaajii ) \-2 merii jiijii hai anaa.Dii ise pyaar se sikhala_iyo o o
+( saalii jii ) \-2 jab mai.n pyaar sikhalaa_uu.N tum duur\-duur rahiyo o o
+
+bholii\-bhaalii merii jiijii pyaar\-vyaar na jaane
+apane aapako kuchh na samajhe tumako svaamii maane
+( svaamii jii ) \-2  ye to ba.Dii naTakhaT hai
+( jiijaajii ) \-2 merii \threedots
+
+tuu to baayaa a.ng hai meraa tuu diipak mai.n baatii
+teraa\-meraa dharm kaa naataa phir kaahe sharamaatii
+( sajanii jii ) \-2 jo hu_aa so hu_aa ab aur na tarasa_iyo
+( jiijaajii ) \-2 merii \threedots
+
+chhoTii saalii kaa ye haq hai ra.ng me.n bha.ng milaa_e
+chup rii apane jiijaa jii se laaj tujhe na aa_e
+( devii jii ) \-2 ab isake bhii haath kahii.n piile karavaa_iyo
+( jiijaajii ) \-2 merii \threedots
+%
+#endindian
+\endsong
+

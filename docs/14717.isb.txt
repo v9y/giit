@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{banaa ke kyuu.N bigaa.Daa re bigaa.Daa re nasiibaa}%
+\film{Zanjeer}%
+\year{1973}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Pran}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11220 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+banaa ke kyuu.N bigaa.Daa re bigaa.Daa re nasiibaa
+uupar vale \-2
+
+jo tujhako ma.nzuur nahii.n thaa phuul khile.n is pyaar ke
+phir kyo.n tuune in aa.Nkho.n ko ra.ng dikhaa_e bahaar ke
+aas ba.Ndhaa ke pyaar jataa ke bigaa.Daa re nasiibaa
+uupar vale \-2
+banaa ke kyuu.N \threedots
+
+paap kare insaan agar to vo paapii kahalaataa hai
+tuune bhii ye paap kiyaa phir kaise kahuu.N tuu daataa haii
+raah dikhaa ke raah pe laa ke bigaa.Daa re nasiibaa
+uupar vale \-2
+banaa ke kyuu.N \threedots
+%
+#endindian
+\endsong
+

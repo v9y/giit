@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mai.n paagal meraa manavaa paagal}% 
+\film{Aashiana}%
+\year{1952}%
+\starring{}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Arun Mahajan (amahajan@synoptics.com)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+mai.n pAgal meraa manavA pAgal 
+pAgal merI priit re 
+pagale\-pan kii pii.D vo jaane 
+bichha.De jisakaa miit re 
+mai.n pAgal meraa manavaa paagal \threedots
+
+kahe ye duniyA mai.n diivaanaa 
+din me.n dekhU.N sapane 
+diivaanii duniyA kyA jaane \- 2
+ye sapane hai.n apane \- 2 
+ghaayal man kii ha.nsii u.Daaye 
+ye duniyA kii riit re, mai.n paagal \threedots
+
+chhupii huii merI kaayaa me.n 
+raakh kisii paravaane kii  
+ye meraa dukhiyaa jiivan hai
+ruuh kisii dIvaane kii 
+man ke TuuTe taar bajaakar 
+gaaU.N apane giit re 
+
+mai.n pAgal meraa manavA pAgal 
+pAgal merI priit re, mai.n paagal \threedots
+%
+#endindian
+\endsong
+%

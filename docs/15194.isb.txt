@@ -1,0 +1,38 @@
+% ITRANS SONG
+
+\startsong
+\stitle{saiyaa.N lag jaa gale, aajaa meraa dil jale}%
+\film{Miss Mary}%
+\year{1957}%
+\starring{Meena Kumari, Gemini Ganesan, Kishore, Jamuna, Om Prakash}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+( saiyaa.N lag jaa gale, aajaa meraa dil jale
+chup kaise rahuu.N mai.n meraa bas naa chale ) \-2
+
+( kaisaa ye jaaduu kiyaa, laage kahii.n naa jiyaa
+a.Nkhiyo.n hii a.Nkhiyo.n me.n haay mujhe luuT liyaa ) \-2
+chorii chorii aajaa zaraa khi.Dakii tale, aajaa khi.Dakii tale
+
+chup kaise rahuu.N mai.n meraa bas naa chale
+saiyaa.N lag jaa gale, aajaa meraa dil jale
+chup kaise rahuu.N mai.n meraa bas naa chale
+
+( dil to hu_aa hai teraa, tuu bhii to ho jaa meraa
+shaam savere kabhii merii galii Daal pheraa ) \-2
+tujh bin piyaa merii jaan jale, merii jaan jale
+
+chup kaise rahuu.N mai.n meraa bas naa chale
+saiyaa.N lag jaa gale, aajaa meraa dil jale
+chup kaise rahuu.N mai.n meraa bas naa chale
+
+#endindian
+\endsong

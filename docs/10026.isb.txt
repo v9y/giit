@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jise ha.Nsanaa ronaa hai vo pyaar kare}%
+\film{Awara Paagal Deewana}%
+\year{2002}%
+\starring{Akshay Kumar, Sunil Shetty, Aftaab Shivdasani, Preeti Jhangiyani, Amrita Arora, Aarti Chhabaria}%
+\singer{Sonu Nigam, Alka Yagnik, Shaan, Udit Narayan, Sarika Kapoor, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+he he he he he he
+jise ha.Nsanaa ronaa hai vo pyaar kare
+jise paagal honaa hai vo pyaar kare
+jise paanaa khonaa hai vo pyaar kare
+har sitam jo sahe dard\-o\-gam jo sahe
+merii jaa.N vo pyaar kare
+jise ha.Nsanaa ronaa hai \threedots
+
+kabhii dil is me.n ta.Dape kabhii is me.n mile aaraam
+kabhii naam hu_aa is me.n kabhii is me.n hu_e badanaam
+ik pal kaa milan is me.n baraso.n kii judaa_ii hai
+is me.n ra.ngaraliyaa.N hai.n is me.n tanhaa_ii hai
+jise ha.Nsanaa ronaa hai \threedots
+
+he he he he he he he
+phuulo.n kii sej bhii hai kaa.NTo.n kaa bistar bhii
+jiine kaa mazaa hai to marane kaa Dar bhii
+hote hai.n khafaa rab se jag se la.D jaate hai.n
+jo is ke diivaane hai.n suulii cha.Dh jaate hai.n
+jise khvaab sa.njonaa hai vo pyaar kare
+jise ha.Nsanaa ronaa hai \threedots
+jise paagal honaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{jaane kyuu.N mai.n tujhako din raat sochataa huu.N}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+aahaa laa laa
+jaane kyuu.N mai.n tujhako din raat sochataa huu.N
+jaane kyuu.N mai.n terii har baat sochataa huu.N
+ye paagalapan hai yaa pyaar hai
+ye kaisaa mujhape khumaar hai
+har pal ho tujhase merii mulaaqaat sochataa huu.N
+jaane kyuu.N mai.n tujhako \threedots
+
+tere khyaalo.n me.n kho_e rahanaa meraa kaam ab yahii hai
+ye jaan le tuu ki paagal dil kaa paigaam ab yahii hai
+ho jaa_e shaayad ko_ii karaamaat sochataa huu.N
+jaane kyuu.N mai.n tujhako \threedots
+
+milane ko aksar mile tuu mujhame.n phir bhii hai.n faasale kyuu.n
+dil kii lagii ne banaa_e hai.n ye benaam silasile kyuu.n
+badale.nge kaise ab ye haalaat sochataa huu.N
+jaane kyuu.N mai.n tujhako \threedots
+%
+#endindian
+\endsong
+

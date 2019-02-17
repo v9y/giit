@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mainuu.n ishq daa lagayaa rog mere bachane dii na_iyo ummiid}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( mainuu.n ishq daa lagayaa rog ) \-2 mere bachane dii na_iyo ummiid \-2
+( mujh se kahane lage hai.n log ) \-2 mere bachane dii na_iyo ummiid
+mainuu.n ishq daa \threedots
+
+ishq ne jalaa diyaa sab kuchh bhulaa diyaa
+ishq ne dekho kaisaa apanaa haal banaa diyaa
+kaisii hai bekhudii kaisii agan lagii
+jab se ishq hu_aa hai tab se duniyaa lage na_ii
+ye dil hai ke maane naa paagal kuchh bhii jaane naa
+mainuu.n ishq daa \threedots
+
+ishq ne banaa diyaa ishq ne miTaa diyaa
+ishq ne tujhako mujhako kyaa duniyaa ko jhukaa diyaa
+ishq me.n mar jaa_e.n aa kuchh kar jaa_e.n
+ishq kii Kushbuu se saare aalam ko mahakaa_e.n
+pyaar me.n tere jaan\-e\-jaa.n maine chho.Daa hai saaraa jahaa.n
+mainuu.n ishq daa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mere jiivan saathii, kalii thii mai.n to pyaasii}%
+\film{Sathi}%
+\year{1968}%
+\starring{Rajendra Kumar, Vyjayantimala, Simi Garewal}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mere jIvan sAthI, kalI thI mai.n to pyAsI
+tUne dekhA huI khil ke bahAr, mere jIvan sAthI \threedots
+
+mastI nazar me.n kal ke khumAr kI 
+mukha.De pe lAlI hai piyA tere pyAr kI
+khushabU se tere tan me.n basA ke 
+laharAe yU.N DAlI sI tere gunagAr kI
+mere jIvan sAthI \threedots
+
+kahA.n kA ujAlA abhI vahI rAt hai
+gorI gorI bAho.n pe jaise terA hAth hai
+chU.DI  ?                        
+kAno.n me.n ab tak vahI terI bAt hai
+mere jIvan sAthI \threedots
+
+tujhako mai.n sajanA bindiyA kA pyAr dU.N
+chunarI ke ra.ng se ghar ko sa.nvAr dU.N
+zulfo.n kA gajarA naino.n kA kAjal 
+tere nazarAne hai.n tujh pe hI vAr dU.N
+mere jIvan sAthI \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{qismat me.n khushii kaa naam nahii.n}%
+\film{Saiyan}%
+\year{1951}%
+\starring{Ajit,Madhubala,Sajjan}%
+\singer{Lata}%
+\music{Sajjad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Date:25 Dec,2000
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+(kismat me.n khushii kaa naam nahii.n
+do din bhii hame.n aaraam nahii.n)\-2
+(ai Gam ke savere tuu hii bataa)\-2
+is subah kii koii shyaam nahin
+qismat me.n khushii\threedots
+
+(aisaa bhii koii naashaad na ho
+aisaa bhii koii barbaad na ho)\-2
+kyaa shay hasiin maaluum nahii.n
+rone ke sivaa kuchh kaam nahii.n
+qismat me.n kushii\threedots
+
+(dukh dard kii kaalii raate.n hai
+dil todane vaalii baate.n hai)\-2
+(ye kaun saa Gam hai ai qismat)\-2
+jis Gam kaa koii anjaam nahii.n
+qismat me.n khushii\threedots
+
+%
+#endindian
+\endsong
+%
+

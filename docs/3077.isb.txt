@@ -1,0 +1,77 @@
+%
+\startsong
+\stitle{ghar aayaa mahamaan koii jaan na pahachaan bane baalamaa}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar,Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:30 March,2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+la:
+ghar aayaa mahamaan koii jaan na pahachaan bane baalamaa
+o ba.Daa zaalamaa ho ba.Daa zaalamaa
+
+ko:
+o ghar aayaa mehamaan
+ghar aayaa mahamaan koii jaan na pahachaan bane baalamaa
+o ba.Daa zaalamaa ho ba.Daa zaalamaa
+
+la:
+pahale naina.n me.n phir man me.n aayaa
+chaa.Ndanii mere jiivan me.n laayaa ho
+ko:
+pahale naina.n me.n phir man me.n aayaa ho
+chaa.Ndanii mere jiivan me.n laayaa ho
+la:
+o~ o~ cha.ndaa kii khi.Dakii se dekhe jo ghuur
+kha.Daa duur, jiyaa chuur
+ko:
+hoy cha.ndaa kii khi.Dakii se dekhe jo ghuur
+kha.Daa duur jiyaa chuur
+la:
+mohe chhe.De har aan 
+kare maan beimaan bane baalamaa
+o ba.Daa zaalamaa ho ba.Daa zaalamaa
+
+la:
+o~ kare naTakhaT ishaaro.n me.n batiyaa.N \-2
+jiyaa dha.Dake moraa \-2
+pha.Dake a.Nkhiyaa.N
+ko:
+o~ pha.Dake a.Nkhiyaa.N
+la:
+o~ o~ pha.Dake a.Nkhiyaa.N ho
+ko:
+kare naTakhaT ishaaro.n me.n batiyaa.\N
+ho jiyaa dha.Dake moraa, pha.Dake a.Nkhiyaa.n
+la:
+o~ o~ laage naa manavaa pe birahaa kaa tiir
+bahe niir uThe piir
+ko:
+hoy laage naa manavaa pe birahaa kaa tiir
+bahe niir uThe piir
+la:
+kahii.n jaaye naa jaan
+mai.n naadaan huu.N anajaan bane baalamaa
+o ba.Daa zaalamaa ho ba.Daa zaalamaa
+
+ko:
+o ghar aayaa mehamaan
+ghar aayaa mahamaan koii jaan na pahachaan bane baalamaa
+o ba.Daa zaalamaa ho ba.Daa zaalamaa
+
+%
+#endindian
+\endsong
+%

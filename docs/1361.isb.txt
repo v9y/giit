@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{o dukhiyaa jiyaara tose nainaa}% 
+\film{Tansen}%
+\year{1943}%
+\starring{Saigal, Khursheed, Mubarak, Nagendra}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Pt. Indra Chandra}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+o dukhiyaa jiyaara tose nainaa 
+de re mai kaa bhaalI ???? 
+beqadaro.n se priit lagaake 
+baalii umariyaa gavaalii 
+dukhiyaa jiyaaraa \threedots
+
+bhaatii thI tumako more saiyyA.n 
+sAvan kii ghaTaa ye kaalii 
+mai.nne barakhaa kI rut raajaa 
+naino.n biich chhupaalii 
+dukhiyaa jiyaara \threedots
+
+tum to bhuul gaye the hamako 
+ham bhI bhuul gaye the 
+aa.Nkh se ik aa.Nsuu mere gir ke 
+terI yaad sambhaalii 
+dukhiyaa jiyaara \threedots 
+%
+#endindian
+\endsong
+%

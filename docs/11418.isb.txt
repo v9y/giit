@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{terii nazar me.n mai.n rahuu.N merii nazar me.n tuu}%
+\film{Eighteen Fifty Seven/ 1857}%
+\year{1946}%
+\starring{Suresh, Vasti, Suraiyya, Nigar, Lakshmi}%
+\singer{Surendra Nath, Suraiyya}%
+\music{Sajjad Hussain}%
+\lyrics{Shewan Rizvi}%
+%
+% Contributor: BOL ANAMOL #12014 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+surai \:	( terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+	aa aa aa aa aa ) \-2
+sure \:	terii kahaanii \-3
+	terii kahaanii mai.n kahuu.N
+	merii kahaanii tuu
+	uu uu uu uu uu
+surai \:	aa
+do \:	terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+	aa aa aa aa aa
+
+surai \:	( nikharii hu_ii ho chaa.Ndanii
+	ii ii ii ii
+	chhaa_ii hu_ii bahaar ) \-2
+	tujhase judaa na mai.n rahuu.N \-2
+	aur mujhase judaa na tuu
+	aa aa aa aa aa
+	( terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+	aa aa aa aa aa ) \-2
+
+sure \:	( jalawe tere
+	jalawe tere nazar me.n ho.n
+	dil me.n ho terii aarazuu ) \-2
+	mujhako yahii ho juustazuu \-2
+	ke lab pe mere ho tuu
+	aa aa aa aa aa
+surai \:	aa
+do \:	terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+	aa aa aa aa aa
+
+surai \:	( ishq pe chhaaye.n mastiyaa.N
+sure \:	husn pe shoKiyaa.N ) \-2
+surai \:	mastii bharii jawaaniyaa.N \-2
+sure \:	chhe.De.n yahii kahaaniyaa.N
+do \:	ke tujhase judaa na mai.n rahuu.N \-2
+	aur mujhase judaa na tuu
+	aa aa aa aa aa
+	terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+	aa aa aa aa aa
+	terii nazar me.n mai.n rahuu.N
+	merii nazar me.n tuu
+%
+#endindian
+\endsong
+

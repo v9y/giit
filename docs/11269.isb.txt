@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{je ham\-tum chorii se ba.ndhe ek Dorii se}%
+\film{Dharti Kahe Pukar Ke}%
+\year{1969}%
+\starring{Jeetendra, Nanda, Sanjeev Kumar, Nivedita}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11100 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	je ham\-tum chorii se ba.ndhe ek Dorii se
+	ja_iyo kahaa.N ai huzuur
+la \:	are ii ba.ndhan hai pyaar kaa
+	je ham\-tum chorii \threedots
+
+mu \:	kajaraa vaalii phir tuu aise kaahe nihaare
+	ii chitavan ke gorii maane to samajhaa jaa re
+la \:	matalabavaa ek hai ek hai nainan pukaar kaa
+	je ham\-tum chorii \threedots
+do \:	ai huzuur
+mu \:	je ham\-tum chorii \threedots
+
+la \:	dekho baadar aa_e pavan ke pukaare
+	ulfat merii jiitii anaa.Dii piyaa haare
+mu \: aa_egaa re majaa re majaa ab jiit\-haar kaa
+do \:	je ham\-tum chorii \threedots
+
+mu \:	ghuu.NghaT me.n se mukha.Daa diikhe abhii adhuuraa
+	aa bai.nyaa me.n aajaa milan to ho puuraa
+la \:	ii milanaa to nahii.n to nahii.n kuchh ek baar kaa
+	je ham\-tum chorii \threedots
+%
+#endindian
+\endsong
+

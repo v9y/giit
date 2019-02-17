@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pyaar kii kashtii me.n ... gagan se duur}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar kii kashtii me.n laharo.n kii mastii me.n
+pavan ke shor shor me.n chale.n ham zor zor me.n
+gagan se duur gagan se duur
+
+vahaa.n kyaa pyaar milegaa chaman kaa phuul khilegaa
+jise dil Dhuu.NDh rahaa hai kyaa vo diladaar milegaa
+
+vahaa.n sach ho.nge sapane bane.nge Gair bhii apane
+dil kii baaraat sajegii mile.nge saajan apane
+maine sunaa kyaa sunaa
+jo kahaa kyaa kahaa jaanaa bahut hai duur
+pyaar kii kashtii me.n \threedots
+
+pyaar ko pyaar mile to nazar kahii.n lag naa jaa_e
+mile.n jiivan me.n ham tum kahii.n phir bichha.D na jaa_e.n
+nazar kyaa lage vahaa.n par hai pyaar hii pyaar jahaa.n par
+na bichha.De.n milane vaale jahaa.N sab ho.n dilavaale
+to chalo chale.n haa.N chale.n
+yuu.n milake haa.n milake hoke Kushii me.n chuur
+pyaar kii kashtii me.n \threedots
+%
+#endindian
+\endsong
+

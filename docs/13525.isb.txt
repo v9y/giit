@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{jaanaa to jaanaa.n bas ye jaanaa pyaar diivaanaa hotaa hai}%
+\film{Pyaar Deewaanaa Hotaa Hai}%
+\year{1992}%
+\starring{Pankaj Berry, Saathi Ganguli, Beena, Sameer Khakhad, Zahir Rizvi}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Babul Bose}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaanaa to jaanaa.n bas ye jaanaa pyaar diivaanaa hotaa hai
+kar detaa hai dil ko diivaanaa pyaar diivaanaa hotaa hai
+jaanaa to jaanaa.n bas ye \threedots
+
+( mere dil me.n terii dha.Dakan pyaar teraa nas nas me.n
+tujh bin zindaa rahanaa jaanam ab to nahii.n hai bas me.n ) \-2
+ai duniyaa kuchh naa samajhaanaa pyaar diivaanaa hotaa hai
+kar detaa hai dil ko \threedots
+
+( yuu.N to jalatii har ik shai se duur hii rahanaa achchhaa
+lekin shamaa ke jalane me.n jaane asar hai kaisaa ) \-2
+ha.Ns kar jal jaa_e paravaanaa pyaar diivaanaa hotaa hai
+kar detaa hai dil ko \threedots
+%
+#endindian
+\endsong
+

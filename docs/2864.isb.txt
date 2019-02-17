@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ik mahal ho sapano.n kaa}%
+\film{Ek Mahal Ho Sapnon Ka}%
+\year{197?}%
+\starring{Dharmendra}%
+\singer{Rafi, Lata}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ik mahal ho sapano.n kaa
+phuulo.n bharaa aa.Ngan ho aur saath ho apano.n kaa
+
+u.Date baadal farsh bane aur dhu.Ndh kii ho.n diivaare.n
+chhat ke jhilamil taare teraa meraa naam pukaare
+ik mahal ho sapano.n kaa \threedots
+
+sapano.n ke is mahal me.n bikhare muskaano.n ke moti
+mere pyaar kii khushabuu phaile tere ruup kii jyoti
+ik mahal ho sapano.n kaa \threedots
+
+mai.n tere nayano.n par kar duu.N apanaa sab kuchh vaarii
+mai.n terii baaho.n me.n chup kar bhuuluu.N duniyaa saarii
+ik mahal ho sapano.n kaa \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{gumanaam hai ko_ii badanaam hai ko_ii}%
+\film{Gumnaam}%
+\year{1965}%
+\starring{Manoj Kumar, Nanda, Helen, Mehmood}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10995 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+gumanaam hai ko_ii badanaam hai ko_ii
+kisako Kabar kaun hai vo anajaan hai ko_ii
+gumanaam hai ko_ii \threedots
+
+kisako samajhe.n ham apanaa kal kaa naam hai ik sapanaa \-2
+aaj agar tum zindaa ho to ( kal ke li_e ) \-2 maalaa japanaa
+gumanaam hai ko_ii \threedots
+
+pal do pal kii mastii hai bas do din kii hastii hai \-2
+chain yahaa.N par maha.Ngaa hai aur ( maut yahaa.N ) \-2 par sastii hai
+gumanaam hai ko_ii \threedots
+
+kaun balaa tuufaanii hai maut ko Kud hairaanii hai \-2
+aa_e sadaa viiraano.n se jo ( paidaa hu_aa ) \-2 vo faanii hai
+gumanaam hai ko_ii \threedots
+%
+#endindian
+\endsong
+

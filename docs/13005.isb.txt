@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{pyaar kii duniyaa luTegii hame.n maaluum na thaa}%
+\film{Mehndi}%
+\year{1958}%
+\starring{Jayshri, Ajit, Veena, Kumar}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10715 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+pyaar kii duniyaa luTegii hame.n maaluum na thaa
+dil kii dil hii me.n rahegii hame.n maaluum na thaa
+
+ham to samajhe the a.Ndheraa na kabhii chhaa_egaa
+shamaa jalate hii bujhegii hame.n maaluum na thaa
+
+kyaa qayaamat hai ki Duube to kinaare hokar
+unakii nazaro.n se gire jaan se pyaare hokar
+kyaa Kabar thii vo daaG de.nge hamaare hokar
+bebasii hamape ha.Nsegii hame.n maaluum na thaa
+
+unako paayaa thaa adaa unakii qasam mar\-mar ke
+kar sake pyaar kii baate.n na magar jii bhar ke
+phir ga_e hamase ve ikaraar\-e\-mohabbat kar ke
+ye sazaa hamako milegii hame.n maaluum na thaa
+%
+#endindian
+\endsong
+

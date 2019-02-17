@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{luuTaa hai zamaane ne qismat ne miTaayaa hai}%
+\film{Doraahaa}%
+\year{1952}%
+\starring{Nalini Jaywant, Shekhar, Diwan Sharar}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+luuTaa hai zamaane ne qismat ne miTaayaa hai
+ik baar ha.Nsaayaa thaa
+ik baar ha.Nsaayaa thaa sau baar rulaayaa hai
+luuTaa hai zamaane ne qismat ne miTaayaa hai
+
+duniyaa me.n vafaa kaisii ulfat bhii hai ik dhokhaa \-2
+ye duniyaa bhii dekhii hai
+ye duniyaa bhii dekhii hai ye dhokhaa bhii khaayaa hai
+
+is Gam ke andhere me.n ab yaad nahii.n ye bhii \-2
+kab diip jalaayaa thaa
+kab diip jalaayaa thaa kab diip bujhaayaa hai
+
+Kaamosh huu.N is Dar se rusavaa_ii na ho terii \-2
+umaDe huye ashqo.n ko
+umaDe huye ashqo.n ko palako.n me.n chhupaayaa hai
+
+luuTaa hai zamaane ne qismat ne miTaayaa hai
+
+#endindian
+\endsong

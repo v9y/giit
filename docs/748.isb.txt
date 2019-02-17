@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{iichak biichak ghurr}%
+\film{Bawre Nain}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Shamshad}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ai iichak biichak chur.r
+dil u.Da gayaa baabuu phur.r
+
+shuruu shuruu me.n pyaar kahegaa tuu dialabar mai.n jaanii
+dhiire dhiire rog ba.Dhaa tab yaad aayegii naanii
+nazar kaa tiir siine me.n lagaa, gayaa dil chiir
+man ulajhaa ulajhii do akhiyaa.N, haay! ab kyo ho tadabiir
+oy iichak biichak   \threedots
+
+abhii se ek ke do do tumako dene lage dikhaayii
+sachamuch dono ek bane to phir kyaa hogaa bhaa_ii?
+baa.Nvare nain na in ko nii.nd na in ko chain
+dekhat hai ab baaT kisii kii ye pagale din rain
+oy iichak biichak   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{teraa duudh aisaa hai naa meraa khuun aisaa hai}%
+\film{Aakhiri Raastaa}%
+\year{1986}%
+\starring{Amitabh Bachchan, Sridevi, Jayaprada}%
+\singer{Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+teraa duudh aisaa hai naa meraa khuun aisaa hai \-2
+naa ye tere jaisaa hai naa ye mere jaisaa hai
+
+pariyo.n kii hogii vo shahazaadii jisase hogii terii shaadii \-2
+Dolii bahuu kii laa_uu.ngaa mai.n jhuum ke naachuu.ngaa gaa_uu.ngaa mai.n \-2
+tujhe banaa kar darpaN apanaa maine dekhaa thaa ye sapanaa
+meraa nasiib TuuT gayaa nasiib meraa aisaa hai
+tuu ji_e hazaaro.n saal nahii.n paravaah tuu kaisaa hai
+teraa duudh aisaa hai naa \threedots
+%
+#endindian
+\endsong
+

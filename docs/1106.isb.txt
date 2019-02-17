@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{mai.n har ik pal kaa shaayar huu.N}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Amitabh Bachchan, Shashi Kapoor, Raakhee, Rishi Kapoor, Waheeda, Neetu Singh}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+mai.n har ik pal kaa shaayar huu.N
+har ik pal merii kahaanii hai
+har ik pal merii hastii hai
+har ik pal merii javaanii hai
+mai.n har ik pal kaa shaayar huu.N
+
+rishto.n kaa ruup badalataa hai, buniyaade.n khatm nahii.n hotii.n
+Kvaabo.n aur uma.Ngo.n kii miyaade.n khatm nahii.n hotii.n
+ik phuul me.n teraa ruup basaa, ik phuul me.n merii javaanii hai
+ik cheharaa terii nishaanii hai, ik cheharaa merii nishaanii hai
+mai.n har ik \threedots
+
+tujhako mujhako jiivan amrit ab in haatho.n se piinaa hai
+inakii dha.Dakan me.n basanaa hai, inakii saa.Nso.n me.n jiinaa hai
+tuu apanii adaae.n baksh inhe.n, mai.n apanii vafaae.n detaa huu.N
+jo apane lie sochii.n thii kabhii, vo saarii duaae.n detaa huu.N
+mai.n har ik \threedots
+%
+#endindian
+\endsong
+%
+

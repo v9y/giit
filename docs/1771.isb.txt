@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{tum ko fursat ho merii jaan to idhar dekh to lo}%
+\film{Bewafaa}%
+\year{}%
+\starring{Raj Kapoor, Nargis, Ashok Kumar}%
+\singer{Talat}%
+\music{Alla Rakha}%
+\lyrics{Sarshar Silani}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+tum ko fursat ho merii jaan to idhar dekh to lo
+chaar aa.Nkhe.n na karo, ek nazar dekh to lo
+
+baat karane ke lie, kaun tumhe.n kahataa hai
+na karo hamase koii baat maGar dekh to lo
+
+apane biimaar\-e\-mohabbat kii tasallii ke lie
+haal\-e\-dil puuchh to lo, zaKm\-e\-jigar dekh to lo
+
+dil\-e\-barbaad ko aabaad karo yaa na karo
+kam se kam tum meraa uja.Daa huaa ghar dekh to lo
+%
+#endindian
+\endsong
+%
+

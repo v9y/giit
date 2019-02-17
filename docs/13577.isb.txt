@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ab do dilo.n kii mushkil aasaan ho ga_ii hai}%
+\film{Pooja Ke Phool}%
+\year{1964}%
+\starring{Ashok Kumar, Mala Sinha, Dharmendra, Nimmi, Sandhya Roy, Pran}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10593 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ab do dilo.n kii mushkil aasaan ho ga_ii hai
+	duniyaa ko mohabbat kii pahachaan ho ga_ii hai
+la \:	ab pyaar kii har ma.nzil aasaan ho ga_ii hai
+	aapas me.n do dilo.n kii pahachaan ho ga_ii hai
+
+ra \:	is raaste se guzaraa ik din ko_ii bechaaraa
+	naa jaane kis adaa se tumane use pukaaraa
+	aisaa kiyaa ishaaraa kuchh soch ke bechaaraa
+	vo ho gayaa tumhaaraa
+	duniyaa bhii dekhakar ye hairaan ho ga_ii hai
+
+la \:	kab se tumhaarii Kaatir ham raah me.n pa.De the
+	ik roz phir ye dekhaa tum saamane kha.De the
+	aisii nazar milaa_ii duniyaa mujhe bhulaa_ii
+	kuchh soch bhii na paa_ii
+	jaise ki ruuh merii bejaan ho ga_ii hai
+
+ra \:	milanaa thaa jinako ab vo diivaane mil ga_e hai.n
+la \:	terii daastaa.N se mere afasaane mil ga_e hai.n
+ra \:	ab ek hii kahaanii ab ek hii fasaanaa
+	ab ek hii taraanaa
+la \:	do jism to hai.n lekin ik jaan ho ga_ii hai
+%
+#endindian
+\endsong
+

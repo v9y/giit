@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{##You are my Chicken Fry##}% 
+\film{Rock Dancer}%
+\year{}%
+\starring{}%
+\singer{Bappi Lahiri, Sweta Shetty}%
+\music{Bappi Lahiri}%
+\lyrics{}%
+%
+% Contributor: Rohan Chandran (rohan@Xenon.Stanford.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+b: (## You are my chicken fry
+	You are my fish fry##) \- 2
+	(kabhii naa kahanaa ku.Diye ##bye bye bye##) \-2
+
+s: (##	You are my samosa
+	You are my masala dosa##) \- 2
+	(mai.n naa kahuu.Ngii mu.nDiyaa ##bye bye bye## ) \- 2
+
+b:	haa \threedots haa \threedots haa \threedots haa \threedots
+				       
+(s:	saraso.n kaa tU saag hai		
+	mai.n makke kii roTii	
+b:	jo bhii tujhako dekhe		
+	ho jaaye ?? goTii		) \- 2
+				       
+s: (## 	You are my chocolate
+	You are my cutlet [cut-uh-let]##) \- 2
+	(mai.n naa kahuu.Ngii mu.nDiyaa ##bye bye bye##)
+
+b: (## 	You are my chicken fry
+	You are my fish fry##) \- 2
+	(kabhii naa kehenaa ku.Diye ##bye bye bye## ) \-2
+
+b:	haa \threedots haa \threedots haa \threedots haa \threedots
+					
+(b: 	garamaa garam tanduurii tU hai	
+	mai.n to aa.Nkhe.n sekuu.n
+s:	mu.nh me.n paanii aajaataa hai	
+	jab mai.n tujhako dekhU.N	) \- 2
+					
+b: (##	You are my rossogolla
+	You are my rasmalai##) \- 2
+	kabhii naa kahanaa ku.Diye ##bye bye bye##
+
+s: (##	You are my samosa
+	You are my masala dosa##) \- 2
+	(mai.n naa kahuu.Ngii mu.nDiyaa ##bye bye bye## ) \- 2
+
+b: (## 	You are my chicken fry
+	You are my fish fry##) \- 2
+	(kabhii naa kahanaa ku.Diye ##bye bye bye##) \-2
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{koii sone ke dilavaalaa, koii chaa.Ndii ke dilavaalaa}%
+\film{Maya}%
+\year{1961}%
+\starring{Dev Anand, Mala Sinha}%
+\singer{Rafi}%
+\music{Salil Choudhary}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+koii sone ke dilavaalaa, koii chaa.Ndii ke dilavaalaa
+shiishe kaa hai matavaale meraa dil
+mahafil ye nahii.n terii diivaane kahii.n chal
+
+hai.n to sanam lekin patthar ke sanam yahaa.N
+pyaar vaalii naramii adaao.n me.n kahaa.N
+ho.nTho.n se dekh inake, Takaraae na teraa pyaalaa
+koii sone\threedots
+
+kyaa jaaniye kahaa.N se aatii hai kaano.n me.n sadaa
+ai diivaane Gam teraa sab se judaa
+is mahafil se uThaa dil, na bahalegaa ye matavaalaa
+koii sone\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{aa jaa o jaan\-e\-jaa.N mere meharabaa.N}%
+\film{Geet Gaya Pattharon Ne/ A Poem in Stone}%
+\year{1964}%
+\starring{Rajshri, Jeetendra, Surendra, Bharati}%
+\singer{Asha}%
+\music{Ramlal}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11483 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa jaa o jaan\-e\-jaa.N mere meharabaa.N
+aa jaa o jaan\-e\-jaa.N
+nainaa kaa kajaraa bulaa_e
+dil kaa ye acharaa bulaa_e
+baa.Nho.n kaa gajaraa bulaa_e
+aa jaa o jaan\-e\-jaa.N \threedots
+
+jab se gayaa tuu ghar se
+merii muhabbat tarase
+palako.n se saavan ( barase ) \-2
+( cha.ndaa ) \-3 chandaa na guzare idhar se
+har saa.Ns dil ko dukhaa_e
+zaKmo.n ne aa.Nsuu bahaa_e
+aa jaa o jaan\-e\-jaa.N \threedots
+
+ghu.Ngharuu me.n naGmaa tumhaaraa
+aa.Nkho.n me.n jalavaa tumhaaraa
+phuulo.n me.n mukha.Daa ( tumhaaraa ) \-2
+( taaro.n me.n ) \-3 ha.Nsanaa tumhaaraa
+merii nazar lalachaa_e
+ho.nTho.n se nikale haay
+aa jaa o jaan\-e\-jaa.N \threedots
+%
+#endindian
+\endsong
+

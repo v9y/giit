@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{duniyaa me.n jiinaa hai to siikh lo tum maranaa}%
+\film{Yoddhaa}%
+\year{1991}%
+\starring{Sanjay Dutt, Sunny, Sangeeta Bijlani, Paresh Rawal, Abhinav Chaturvedi}%
+\singer{Kumar Sanu, Amit, Chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( duniyaa me.n jiinaa hai to
+o o o o
+siikh lo tum maranaa
+o o o o ) \-2
+ho jaa_egii varanaa
+kyaa
+tannanaa \-6 naa naa naa naa
+duniyaa me.n jiinaa hai to \threedots
+
+nikale to dam nikale dil se ye Gam nikale
+faisalaa aaj ye karake ghar se jo ham nikale
+o
+hamako hai kyaa karanaa
+kyaa
+tannanaa \-6 naa naa naa naa
+duniyaa me.n jiinaa hai to \threedots
+
+kuchh hone vaalaa hai kyaa hone vaalaa hai
+sar cha.Dhake bolegaa jaaduu yah kaalaa hai
+tar ru ru ru ru
+sab pe nazar rakhegaa
+tannanaa \-6 naa naa naa naa
+duniyaa me.n jiinaa hai to \threedots
+
+sholo.n pe chalanaa hai bachakar nikalanaa hai
+phuulo.n kii chaahat me.n kaa.NTo.n pe chalanaa hai
+are ru ru ru ru
+jamakar qadam rakhanaa
+tannanaa \-6 naa naa naa naa
+duniyaa me.n jiinaa hai to \threedots
+%
+#endindian
+\endsong
+

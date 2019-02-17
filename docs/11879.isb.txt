@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{niilii\-niilii ghaTaa o bhiigii\-bhiigii havaa}%
+\film{Hum Hindustani}%
+\year{1960}%
+\starring{Sunil Dutt, Asha Parekh, Joy Mukherjee}%
+\singer{Mukesh, Asha}%
+\music{Usha Khanna}%
+\lyrics{K Manohar}%
+%
+% Contributor: BOL ANAMOL #10464 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	niilii\-niilii ghaTaa o bhiigii\-bhiigii havaa
+	hai nashaa hii nashaa kahii.n kho jaa_e.N aa
+mu \:	niilii\-niilii ghaTaa \threedots
+
+	palako.n chhalake gaalo.n pe Dhalake
+	saavan kii buu.Ndo.n me.n cha.nchal ishaare hai.n
+aa \:	samajho ishaaraa de do sahaaraa
+	tum bhii hamaare ho ham bhii tumhaare hai.n
+	aa jhuume.n zaraa
+	niilii\-niilii ghaTaa \threedots
+
+	laharo.n kaa aa.Nchal saahil pe Dole
+	barakhaa kii raanii bhii zulfo.n ko khole
+mu \:	laharo.n me.n kho jaa ojhal tuu ho jaa
+	ma.nzil ye apanii hai dil meraa bole hai
+	aa jhuume.n zaraa
+	niilii\-niilii ghaTaa \threedots
+
+	mausam kaa jaaduu dil hai beqaabuu
+	bahake qadam hai.n kyuu.N hogaa aur aage kyaa
+aa \:	jannat yahii hai mujhako yaqii.n hai
+	pahaluu me.n tuu jo hai dil aur maa.nge kyaa
+	aa jhuume.n zaraa
+do \:	niilii\-niilii ghaTaa \threedots
+%
+#endindian
+\endsong
+

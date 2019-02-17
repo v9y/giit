@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{din Dhal jaaye haay, raat naa jaay}%
+\film{Guide}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+din Dhal jaaye haay, raat naa jaay
+tuu to na aae terii, yaad sataaye,  din Dhal jaaye
+
+pyaar me.n jinake, sab jag chho.Daa, aur hue badanaam
+unake hii haatho.n, haal huaa ye, baiThe hai.n dil ko thaam
+apane kabhii the, ab hai.n paraaye
+din Dhal jaaye haay \threedots
+
+aisii hii rim\-jhim, aisii fuvAre.n, aisii hii thii barasaat
+khud se judaa aur, jag se paraaye, ham dono.n the saath
+phir se vo saavan, ab kyuu.N na aaye
+din Dhal jaaye haay \threedots
+
+dil ke mere tum, paas ho kitanii, phir bhii ho kitanii duur
+tum mujh se mai.n, dil se pareshaa.N, dono.n hai.n majabuur
+aise me.n kisako, kaun manaaye
+din Dhal jaaye haaye \threedots
+%
+#endindian
+\endsong
+%

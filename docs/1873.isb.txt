@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{yaad na jaaye, biite dino.n kii}%
+\film{Dil Ek Mandir}%
+\year{}%
+\starring{Rajendra Kumar, Raj Kapoor, Meena Kumari}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yaad na jaae, biite dino.n kii
+jaake na aaye jo din, dil kyuu.N bulaae, unhe.n
+dil kyo.n bulaae
+yaad na jaaye \threedots
+
+din jo pakheruu hote, pi.njare me.n mai.n rakh detaa \- 2
+paalataa unako jatan se
+paalataa unako jatan se, motii ke daane detaa
+siine se rahataa lagaae
+yaad na jaae \threedots
+
+tasviir unakii chhupaake, rakh duu.N jahaa.N jii chaahe \- 2
+man me.n basii ye suurat
+man me.n basii ye suurat, lekin miTe na miTaae
+kahane ko hai vo paraae
+yaad na jaae \threedots
+%
+#endindian
+\endsong
+%

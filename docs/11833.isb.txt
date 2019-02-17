@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{sun jaa aa ThaNDii havaa ... aahaa tham jaa ai kaalii ghaTaa}%
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11170 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	( sun jaa aa ThaNDii havaa
+ki \:	aahaa tham jaa ai kaalii ghaTaa
+	kuchh pyaarii\-pyaarii baate.n hamaarii aa jaate\-jaate tuu bhii sun jaa ) \-2
+	tham jaa ai kaalii \threedots
+
+ki \:	ham aaj dono.n akele hai.n sun baavarii
+	yuu.N hii shor machaanaa naa tuu
+la \:	jo nii.nd aa jaa_e saiyaa.N kii baiyaa.N me.n
+	to zindagii bhar jagaanaa na tuu
+ki \:	dhiire\-dhiire haule\-haule
+la \:	man kii kahaanii aa rii diivaanii
+	chhupate\-chhupaate tuu bhii sun jaa
+ki \:	tham jaa ai kaalii \threedots
+
+la \:	par yaad rakhanaa ye baate.n
+	kisii aur se jaa ke bairan tuu kahanaa nahii.n
+ki \:	naino.n me.n ni.ndiyaa nahii.n aaj bas 
+	aaj hamare jiyaa me.n bhii chainaa nahii.n
+la \:	chorii\-chorii chupake\-chupake
+ki \:	ek duusare se ham jo kahe.nge
+	ha.Nsate\-ha.Nsaate tuu bhii sun jaa
+	tham jaa ai kaalii \threedots
+%
+#endindian
+\endsong
+

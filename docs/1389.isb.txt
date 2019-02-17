@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{o saathii re tere binaa bhii kyaa jiinaa}%
+\film{Muqaddar Ka Sikandar}%
+\year{1978}%
+\starring{Amitabh Bachchan, Raakhee, Shashi Kapoor, Rekha}%
+\singer{Lata, Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+% 
+% Contributor: Himanshu Gupta (hgupta@cs.stanford.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Dec 28 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+(o saathii re, tere binaa bhii kyaa jiinaa
+ phuulo.n me.n kaliyo.n me.n, sapano.n kii galiyo.n me.n
+ tere binaa kuchh kahii.n na
+ tere binaa bhii kyaa jiinaa)   \-2
+
+o saathii re, tere binaa bhii kyaa jiinaa
+tere binaa bhii kyaa jiinaa
+
+jaane kaise anajaane hii, aan basaa koii pyaase man me.n
+apanaa sab kuchh kho baiThe hai.n, paagal man ke paagalapan me.n
+dil ke afasaane\threedots
+dil ke afasaane, mai.n jaanuu.N tuu jaane, aur ye jaane koii na
+tere binaa bhii kyaa jiinaa
+o saathii re\threedots
+
+har dha.Dakan me.n pyaas hai terii, saa.Nso.n me.n terii khushabuu hai
+is dharatii se us ambar tak, merii nazar me.n tuu hii tuu hai
+pyaar ye TuuTe na \threedots
+pyaar ye TuuTe na, tuu mujhase ruuThe na, saath ye chhuuTe kabhii na
+tere binaa bhii kyaa jiinaa
+o saathii re \threedots
+
+tujh bin jogan merii raate.n, tujh bin mere din ba.njaaran
+meraa jiivan jalatii buu.Nde.n, bujhe\-bujhe mere sapane saare
+tere binaa merii threedots
+tere binaa merii, mere binaa terii, ye zi.ndagii zi.ndagii na
+tere binaa bhii kyaa jiinaa
+o saathii re\threedots
+%
+#endindian
+\endsong
+%

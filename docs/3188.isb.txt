@@ -1,0 +1,52 @@
+% 
+\startsong 
+\stitle{rut aaye rut jaaye}% 
+\film{Sahara}% 
+\year{1958}% 
+\starring{Meena Kumari, Raajan}% 
+\singer{Lata, chorus}% 
+\music{Hemant}% 
+\lyrics{Bharat Vyas}% 
+% 
+% Contributor:Srinivas Ganti 
+% Transliterator:Srinivas Ganti 
+% Credits: 
+% Date: 29 October, 2001 
+% Commnets:LATAnjali series 
+%
+\printtitle 
+#indian 
+% 
+
+rut aaye rut jaaye \-2
+duniyaa ra.ng badalatii hai
+duniyaa ra.ng badalatii hai, taqaqdiir na badalii jaaye
+rut aaye rut jaaye
+
+bahaar aa_ii
+bahaar aa_ii, chaman kii har kalii khil khil ke musakaa_ii \-2
+na_ii Daale kare aTake me.n aa leke ? anga.Daa_ii
+magar mere nasiibo.n kii kalii rahatii hai murjhaa_ii
+isako kaun khilaaye
+rut aaye rut jaaye
+
+barkhaa kii rut aa_ii jhuumke, rim jhim rim jhim barse \-2
+jhilmil jhilmil pa.Dii puhaare.n, megh bhare amabar se
+rim jhim rim jhim barse
+magar pyaasii nayan mere rahe saavan me.n bhii tarase
+is pyaas ko kaun bujhaaye
+rut aaye rut jaaye
+
+jag\-mag jag\-mag aa_ii divaalii, ghar ghar huaa ujaalaa re
+jag\-mag jag\-mag aa_ii divaalii
+jag\-mag jag\-mag aa_ii divaalii, ghar ghar huaa ujaalaa re
+chham chham chham chham lachhamii aa_ii \-2
+pahane diipak maalaa re, ghar ghar huaa ujaalaa re
+magar mere bujhe dil ko sadaa sansaar taanaa ? re
+is jyot ko kaun jagaaye
+rut aaye rut jaaye
+
+%
+#endindian 
+\endsong
+%

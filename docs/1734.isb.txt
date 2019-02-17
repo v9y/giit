@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{totaa mainaa kii kahaanii to puraanii puraanii ho ga_ii}%
+\film{Fakeera}%
+\year{}%
+\starring{Shashi Kapoor, Shabana Azmi}%
+\singer{Kishore, Lata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Arun Verma (verma@cs.cornell.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+totaa mainaa kii kahaanii to puraanii puraanii ho ga_ii
+ab hai sabake labo.n par ye taazaa Kabar
+ek la.Dakii diivaanii ho ga_ii
+tujhase milake zi.ndagaanii haay kitanii suhaanii ho ga_ii
+milate hii nazar huaa aisaa asar
+mai.n fakiire kii raanii ho ga_ii
+totaa mainaa kii kahaanii \threedots
+
+kahii.n koI na thaa duur duur tak
+ham jisako hamaaraa kahate
+tuu na milataa agar suunii raah par
+piyaa ham besahaaraa rahate
+ai mere hamasafar chaahane vaalo.n par
+vaqt kii meharabaanii ho ga_ii
+totaa mainaa kii kahaanii \threedots
+
+tuu ra.ng hai mai.n huu.N Kushabuu
+gul khilate hai.n apane milan se
+teraa mukha.Daa hai saamane mere
+mujhe matalab nahii.n hai chaman se
+ek apanii Dagar ek apanaa nagar
+ek apanii kahaanii ho ga_ii
+totaa mainaa kii kahaanii \threedots
+%
+#endindian
+\endsong
+%

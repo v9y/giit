@@ -1,0 +1,49 @@
+% ITRANS SONG
+
+\startsong
+\stitle{are buu.Dhaa hai gho.Daa, laal hai lagaam}%
+\film{Sargam}%
+\year{1950}%
+\starring{Raj Kapoor, Rehana, Omprakash, David}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+chi \:	haa aa
+	are buu.Dhaa hai gho.Daa, laal hai lagaam
+la \:	o buu.Dhaa hai gho.Daa, laal hai lagaam
+	kaisii ye jo.Dii milaa_ii mere
+do \:	raam
+	kaisii ye jo.Dii milaa_ii mere raam \-3
+
+chi \:	haa.N pahaluu\-e\-huur me.n la.nguur Kudaa kii qudarat
+la \:	aa.N kauwe kii cho.nch me.n a.nguur Kudaa kii gudarat
+chi \:	are gadhe ko de diye khaane badaam
+la \:	o gadhe ko de diye khaane badaam
+
+do \:	kaisii ye jo.Dii milaa_ii mere raam \-4
+
+chi \:	ho bandar ke haath me.n ye saaz dekhiye
+	aur ulluu ke sar pe ye taaz dekhiye
+	jo dekhaa kabhii na wo aaj dekhiye
+la \:	ha.Nsegii jo dekhegii duniyaa tamaam
+	ho ha.Nsegii jo dekhegii duniyaa tamaam
+
+do \:	kaisii ye jo.Dii milaa_ii mere raam \-3
+	haa kaisii ye jo.Dii milaa_ii mere raam
+
+do \:	kaisii ye jo.Dii milaa_ii mere raam \-3
+	ho kaisii ye jo.Dii milaa_ii mere raam
+
+la \:	haa.N bu.Dhawaa hai ghu.Dawaa, lalawaa lagaam
+chi \:	haa.N bu.Dhawaa hai ghu.Dawaa, lalawaa lalawaa hai lagaam
+	haa.N
+do \:	kaisii ye ju.Diyaa mila_iyaa more raam \-3
+
+#endindian
+\endsong

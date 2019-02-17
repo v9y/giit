@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ye raat ye fizaaye.n phir aaye yaa na aaye}%
+\film{Batwara}%
+\year{1961}%
+\starring{}%
+\singer{Rafi, Asha}%
+\music{S Madan}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ye raat ye fizaaye.n phir aaye yaa na aaye
+aao shamaa bujhaa ke ham aaj dil jalaaye.n
+
+ye narm sii khaamoshii ye reshamii a.Ndheraa
+kahataa hai zulf kholo ruk jaayegaa saveraa
+jugunuu se mil ke chamake taare se jhilamilaaye.n
+aao shamaa bujhaa ke \threedots
+
+bhiigii huii havaaye.n ab raat Dhal rahii hai
+aise me.n do dilo.n kii ik shammaa jal rahii hai
+ye pyaar kaa ujaalaa mil ke amar banaaye.n
+aao shamaa bujhaa ke \threedots
+
+%
+#endindian
+\endsong
+%

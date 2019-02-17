@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ho.nTho.n pe teraa naam}%
+\film{Fashion}%
+\year{1957}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Hemant, Lata}%
+\music{Hemant}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+la: ho.NTho.n pe teraa naam tuu hii to hai meraa shyaam 
+    tere sivaa meraa ko_ii aur naa (2)
+
+    jiivan apanaa tum sa.ng baa.Ndhaa
+    tuu meraa mohan mai.n terii raadhaa
+    charaNo.n me.n tere piyaa mere hai.n chaaro dhaam
+    tere sivaa meraa ko_ii aur naa \threedots
+
+he: o o o o 
+    dvaar tihaare aayaa teraa puujaarii (2)
+    daras kaa pyaasaa prem bhikhaarii
+    tum hii base ho mere naino.n me.n subah\-shaam
+    tere sivaa meraa ko_ii aur naa
+
+do: ho.NTho.n pe teraa naam tuu hii to hai meraa shyaam 
+     tere sivaa meraa ko_ii aur naa (2) 
+
+%
+#endindian
+\endsong
+%

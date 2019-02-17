@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{nekii terii saath chalegii baabaa}%
+\film{Aansoo Aur Muskan}%
+\year{1970}%
+\starring{Hema Malini, Parikshit Ajay Sahni, Om Prakash}%
+\singer{Mahendra Kapoor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11520 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+nekii terii saath chalegii baabaa
+saath yahii ek baat chalegii baabaa
+sa.ng na de.nge bandhu\-baraatii
+sa.ng na de.nge jiivan\-saathii
+nekii terii saath chalegii \threedots
+
+ve jinake li_e tuune mahal banaa_e ye na tujhe bahalaa_e.Nge bhaa_ii
+aag pe ik din so jaa_egaa banake dhu_aa.N tuu kho jaa_egaa
+nekii terii saath chalegii \threedots
+
+ai yaad me.n terii aa.Nsuu bahaakar jiivan ko_ii na kho_egaa
+ik taaraa TuuT gayaa to aasamaan kyo.n ro_egaa
+kaisii baabul kii mamataa matalab kaa har naataa
+nekii terii saath chalegii \threedots
+%
+#endindian
+\endsong
+

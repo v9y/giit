@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{apanii kaho kuchh merii suno, kyaa dil kaa lagaanaa bhuul gae}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Lata, Talat}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/26/1996
+%
+\printtitle
+#indian
+%
+la: apanii kaho kuchh merii suno
+    kyaa dil kaa lagaanaa bhuul gae, kyaa bhuul gae
+ta: rone kii aadat aisii pa.Dii
+    ha.Nsane kaa taraanaa bhuul gae, haa.N bhuul gae
+
+la: kaalii raate.n biit ga_ii.n
+    phir chaa.Ndanii raate.n aaii hai.n	  \-2
+ta: dil me.n nahii.n ujiyaalaa mere
+    Gam kii ghaTaae.n chhaaii hai.n       \-2
+la: priit ke vaade yaad karo
+    kyaa priit nibhaanaa bhuul gae, kyaa bhuul gae
+
+ta: bhuulaa huaa hai raah musaafir
+    bichha.Daa huaa hai ma.nzil se	  \-2
+la: khoe hue raste kaa pataa
+    tum puuchh lo Kud apane dil se	  \-2
+ta: chalate chalate aise thake
+    ma.nzil kaa Thikaanaa bhuul gae, haa.N bhuul gae
+
+la: nazdiik aao, nazdeek aa \threedots
+    yah mausam nahii.n phir aane kaa	  \-2
+ta: nazdiik shamaa ke jaane se
+    kyaa haal huaa parvaane kaa		  \-2
+la: miTane kaa fasaanaa yaad rahaa
+    jalane kaa fasaanaa bhuul gae, kyaa bhuul gae
+    apanii kaho kuchh merii suno
+    kyaa dil kaa lagaanaa bhuul gae, kyaa bhuul gae
+%
+#endindian
+\endsong
+%
+

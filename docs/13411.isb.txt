@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kabhii sochaa na thaa maine ... dil diivaanaa diivaane kaa}%
+\film{Pyaar Kiya Nahin Jaata}%
+\year{2002}%
+\starring{Sonali Bendre}%
+\singer{Sonu Nigam, Sonali Bajpayee}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Raj Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kabhii sochaa na thaa maine mujhe ho jaa_egaa pyaar
+dil diivaanaa diivaane kaa kyaa aitabaar kyaa aitabaar kyaa aitabaar
+kabhii sochaa na thaa \threedots
+
+aaj mujhako lagaa baat kuchh hai zuruur
+paas kitane ho tum jab hu_e mujhase duur
+bekaraarii hai kyuu.N ye khumaarii hai kyuu.N
+kyuu.N pareshaan hai.n kyuu.N ye aramaan hai.n
+tum kyaa ga_e ho jaanam sa.ng le ga_e bahaar
+dil diivaanaa \threedots
+
+sach kahuu.N pyaar kyaa hai mai.n nahii.n jaanataa thaa
+pyaar kii baate.n sach hai.n mai.n nahii.n maanataa thaa
+kyaa mujhe ho rahaa hai kyaa meraa kho rahaa hai
+mujhako ehasaas hai kyaa merii pyaas hai
+tuu nahii.n paas mere hai teraa i.ntazaar
+dil diivaanaa \threedots
+%
+#endindian
+\endsong
+

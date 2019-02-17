@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chhe.D do tum pyaar kii vo saragam}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Udit Narayan, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chhe.D do tum chhe.D do
+chhe.D do tum pyaar kii vo saragam
+sun ke jise ye dil jhuume aashiq bane.n diivaane ham
+chhe.D do tum \threedots
+
+pa.nchhii ke jaise dekho havaa me.n u.Dane lagaa hai man
+kaisaa dilo.n pe yaaro.n hamaare chhaayaa diivaanaapan
+ham mastii ke mastaane hai.n is duniyaa se begaane hai.n
+hamako fikar hai naa hai ko_ii Gam
+chhe.D do tum \threedots
+
+ko_ii hasiinaa chorii se ik din khvaabo.n me.n aa_egii
+sharm\-o\-hayaa se baate.n karegii nii.nde churaa_egii
+ta.Dapaa_egii tarasaa_egii ko_ii dard hame.n de jaa_egii
+ha.Ns ke karegii vo ham pe sitam
+chhe.D do tum \threedots
+%
+#endindian
+\endsong
+

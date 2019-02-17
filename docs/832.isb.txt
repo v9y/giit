@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jab tak hai jaa.n, jaan\-e\-jahaa.N}% 
+\film{Shole}%
+\year{1975}%
+\starring{Hema, Dharmendra, Amitabh, Amjad Khan, Sanjeev Kumar, Jaya Bhaduri}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Andy J. Lucyshyn (ajl@engr.ucf.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+jab tak hai jaa.n, jaan\-e\-jahaa.N, 
+mai.n naachuu.Ngii 
+
+pyaar kabhii bhii marataa nahii.n 
+maut se bhii ye Darataa nahii.n 
+luT jaae.nge miT jaae.nge mar jaae.nge ham 
+zindaa rahegii hamaarii daastaa.n 
+o haa.n, jab tak hai jaa.n \threedots
+
+TuuT jaae paayal to kyaa 
+paa.Nv ho jaae.n ghaayal to kyaa 
+dil diyaa hai dil liyaa hai pyaar kiyaa hai to 
+denaa pa.Degaa muhabbat kaa imtahaa.n 
+o haa.n, jab tak hai jaa.n \threedots
+
+ye nazar jhuk sakatii nahii.n 
+ye zubaa.n ruk sakatii nahii.n 
+mai.n kahuu.Ngii Gam sahuu.Ngii chup rahuu.Ngii kyaa
+bebas huu.N lekin nahii.n mai.n bezubaa.n 
+o haa.n, jab tak hai jaa.n \threedots
+%
+#endindian
+\endsong
+%

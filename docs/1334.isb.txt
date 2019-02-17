@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{nasiib me.n jisake jo likhaa thaa, vo terii mahafil me.n kaam aayaa}%
+\film{Do Badan}%
+\year{1966}%
+\starring{Manoj Kumar, Asha Parekh}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+nasiib me.n jisake jo likhaa thaa
+vo terii mahafil me.n kaam aayaa
+kisii ke hisse me.n pyaas aaii
+kisii ke hisse me.n jaam aayaa
+
+mai.n ik fasaanaa huu.N bekasii kaa
+ye haal hai merii zi.ndagii kaa
+na husn hii mujhako raas aayaa
+na ishq hii mere kaam aayaa
+nasiib me.n \threedots
+
+badal ga_ii.n terii ma.nzile.n bhii
+bichha.D gayaa mai.n bhii kaaravaa.n se
+terii muhabbat ke raaste me.n
+na jaane ye kyaa makaam aayaa
+nasiib me.n \threedots
+
+tujhe bhulaane ki koshishe.n bhii
+tamaam naakaam ho ga_ii hai.n
+kisii ne zikr\-e\-vafaa kiyaa jab
+zubaa.N pe teraa hii naam aayaa
+nasiib me.n \threedots
+%
+#endindian
+\endsong
+%

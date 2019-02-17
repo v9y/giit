@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jis din se mai.n ne tumako dekhaa hai, is dil me.n ik sapanaa saa jaagaa hai}%
+\film{Parwaana}%
+\year{1971}%
+\starring{Amitabh Bachchan, Navin Nischal, Yogita Bali, Om Prakash}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+r: jis din se maine tumako dekhaa hai
+is dil me.n ik sapanaa saa jaagaa hai
+ijaazat ho to sunaa duu.N \- 2
+
+A: is dil ne jabase tumako paayaa hai
+kuchh chorii\-chorii maine bhii dekhaa hai
+gar ijaazat ho to bataa duu.N \- 2
+
+r: shokhii hai nazaaqat hai, aa.Nkho.n me.n sharaarat hai
+aise bhii sharamaanaa kyaa, kah do ki mohabbat hai
+A: kahane kii zaruurat kyaa, baato.n kii haqiiqat kyaa
+chhalake na nigaaho.n se, aisii bhii muhabbat kyaa
+kuchh khoyaa\-khoyaa dil bhii rahataa hai
+kuchh chorii\-chorii maine bhii dekhaa hai
+ijaazat ho \threedots
+
+r: dil ko naa sambhaaluu.N to, siine se lagaa luu.N to
+hoTho.n kii jo laalii hai, usako mai.n churaa luu.N to
+A: yuu.N nazare.n na Daalo tum, ab dil ko sambhaalo tum
+dekhe na hame.n duniyaa, siine me.n chhupaa lo tum
+na jaane mujhako Dar kyo.n lagataa hai
+kuchh chorii\-chorii maine bhii dekhaa hai
+ijaazat ho \threedots
+%
+#endindian
+\endsong
+%

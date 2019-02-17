@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{tum zaraa sii baat par khafaa na ho}%
+\film{Mr. Lambu}%
+\year{1956}%
+\starring{Suraiya, Vijaylaxmi, N A Ansari, Kamaljeet, Meenu Mumtaz, Helen, Bhagwan}%
+\singer{Rafi, Suraiya}%
+\music{O P Nayyar}%
+\lyrics{Harsh}%
+%
+% Contributor: BOL ANAMOL #10532 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Kamaljeet
+% 
+\printtitle
+#indian
+%
+su \:	tum zaraa sii baat par khafaa na ho
+	tuu meraa dilarubaa hai mai.n terii dilarubaa
+	maaf kar do merii khataa jo bhii ho
+
+ra \:	dil diyaa hai ab jo bhii ho so ho
+	laakh ho.n sitam ham to e sanam
+	haa.N kahe.nge sar jhukaa ke jo kaho
+su \:	tum zaraa sii baat par \threedots
+
+	dard ban ke mere dil me.n aa_e ho
+	baadalo.n me.n bijaliyaa.N bhii laa_e ho
+ra \:	bijaliyaa.N nahii.n dil kii aag hai
+	tere husn kaa ye suhaag hai
+	jo hai teraa aaj tuu bhii usakii ho
+
+	pyaar ghaTaa_o.n me.n chaa.Nd tuu
+	le u.Dii haa.N ye terii aarazuu
+su \:	yah bataa_o kyaa dil jalaa_oge
+	yaa merii lagii tum bujhaa_oge
+	miiThe\-miiThe bol bol ek do
+
+	sun ke terii ye nashiilii raaginii
+	jhuumatii hai mere dil me.n chaa.Ndanii
+ra \:	ek baat hai aaj puuchh luu.N
+	jaane phir kabhii mai.n kah sakuu.N
+	ek jaan ho ke ham kyo.n hai.n do
+	dil diyaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{beqaraar hai koii, aa mere diladaar aa}%
+\film{Shama Parwana}%
+\year{}%
+\starring{Shammi Kapoor, Suraiyya}%
+\singer{Suraiyya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+% 
+% Contributor: Neha Desai (umdesai@cc.umanitoba.ca)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Jan 21 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+beqaraar hai koii, aa mere diladaar aa
+hai kisii kii zi.ndagii, aa ishq hai gamaKvaar aa
+
+Dasatii hai naagan sii, furaqat kii raate.n
+jhuTii hai.n bin tere jiine kii baate.n
+haay kaisii bebasii, aa mai.n huu.N talabagaar aa
+
+chun luu.N Gam tere, dukh\-dard miTaa duu.N
+ho.nTho.n pe nagamo.n kii kaliyaa.N khilaa duu.N
+ro rahii hai beqasii, aa husn hai biimaar aa
+
+ha.Nsanaa hai bas me.n, na ronaa hai bas me.n
+mahalo.n me.n rahakan, ???
+ma.nzilo.n me.n pyaar kii, aa to.D ke diivaar aa
+%
+#endindian
+\endsong
+%

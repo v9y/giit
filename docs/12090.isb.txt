@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{dil me.n basaa ke palako.n me.n biThaa ke}%
+\film{Jab Pyaar Kisi Se Hotaa Hai}%
+\year{1998}%
+\starring{Salman, Twinkle, Namrata Shirodkar, Johny Lever, Farida, Saeed}%
+\singer{Lata}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil me.n basaa ke palako.n me.n biThaa ke nazaro.n me.n qaid kar liyaa
+aa.Nkho.n me.n ba.nd kar liyaa maine tumako pasand kar liyaa
+
+ham dono.n a.njaan raahii raste magar mil ga_e
+patajha.D ke mausam me.n jaise dil phuul se khil ga_e
+tum duur raho yaa paas raho nazaro.n me.n qaid kar liyaa
+aa.Nkho.n me.n ba.nd \threedots
+
+ab ye bechainiyaa.n hai.n aage naa jaane ho kyaa
+itane kariib aa ga_e hai.n ab kaise ho.nge judaa
+baaho.n me.n sanam tuune thaam liyaa nazaro.n me.n qaid kar liyaa
+aa.Nkho.n me.n ba.nd \threedots
+%
+#endindian
+\endsong
+

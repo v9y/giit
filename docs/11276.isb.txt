@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ye vaadaa kare.n jahaa.N bhii rahe.n}%
+\film{Dil Bhi Teraa Hum Bhi Tere}%
+\year{1960}%
+\starring{Balraj Sahni, Usha Kiran, Kumkum, Dharmendra}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Kanhaiya Lal Pardesi}%
+%
+% Contributor: BOL ANAMOL #10882 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	ye vaadaa kare.n jahaa.N bhii rahe.n \-2
+la \:	tum hamaare raho ham tumhaare rahe.n
+	ye vaadaa kare.n \threedots
+do \:	ye vaadaa kare.n \threedots
+
+la \:	kitanaa hasii.n hai sapanaa meraa
+	mai.n bhii terii dil bhii hai teraa
+mu \:	dil ko milaa hai dil kaa sahaaraa
+	saath na TuuTe ab ye hamaaraa
+	muskaraate qadam ham milaa ke chale.n
+	ye vaadaa kare.n \threedots
+la \:	tum hamaare raho \threedots
+do \:	ye vaadaa kare.n \threedots
+
+mu \:	gul hai.n hazaaro.n is gulistaa.N me.n
+	tujhasaa na ko_ii saare jahaa.N me.n
+la \:	tujhase mohabbat merii hu_ii hai
+	tum jo mile ho duniyaa milii hai
+	har zamaane kii nazare.n bachaa ke chale.n
+	ye vaadaa kare.n \threedots
+mu \:	tum hamaare raho \threedots
+do \:	ye vaadaa kare.n \threedots
+%
+#endindian
+\endsong
+

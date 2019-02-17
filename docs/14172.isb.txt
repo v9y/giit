@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mar ga_e ham jiite jii maalik tere sa.nsaar me.n}%
+\film{Shabaab}%
+\year{1954}%
+\starring{Bharat Bhushan, Nutan}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10656 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mar ga_e ham jiite jii maalik tere sa.nsaar me.n
+chal diyaa hamako khivaiyaa chho.D ke ma.Njhadhaar me.n
+maalik tere sa.nsaar me.n
+mar ga_e ham \threedots
+
+unakaa aanaa unakaa jaanaa bas khel thaa taqadiir kaa
+Kvaab the vo zindagii ke din jo guzare pyaar me.n
+maalik tere sa.nsaar me.n
+mar ga_e ham \threedots
+
+le ga_e vo saath apane saaj bhii aavaaz bhii \-2
+o rah gayaa naGamaa adhuuraa dil ke TuuTe taar me.n
+maalik tere sa.nsaar me.n
+mar ga_e ham \threedots
+%
+#endindian
+\endsong
+

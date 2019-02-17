@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{maut kitanii bhii sa.ngadil ho magar}%
+\film{Aaj Aur Kal}%
+\year{1963}%
+\starring{Ashok Kumar, Sunil Dutt, Tanuja, Nanda}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11470 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+maut kitanii bhii sa.ngadil ho magar
+zindagii se to meharabaa.N hogii
+
+nit na_e ra.nj dil ko detii hai zindagii har Kushii kii dushman hai
+maut sabase nibaah karatii hai zindagii zindagii kii dushman hai
+kuchh na kuchh to sakuun paa_egaa
+maut ke bas me.n jisakii jaa.N hogii
+maut kitanii bhii sa.ngadil \threedots
+
+ra.ng aur nasl naam aur daulat zindagii kitane farq maanatii hai
+maut hadabandiyo.n se uu.Nchii hai saarii duniyaa ko ek jaanatii hai
+jin usuulo.n pe mar rahe hai.n ham
+un usuulo.n kii kadrdaa.N hogii
+maut kitanii bhii sa.ngadil \threedots
+
+maut se aur kuchh mile na mile zindagii se to jaan chhuuTegii
+muskuraahaT nasiib ho ke na ho aa.Nsu_o.N kii la.Dii to TuuTegii
+ham na ho.nge to Gam kise hogaa
+Katm har Gam kii daastaa.N hogii
+maut kitanii bhii sa.ngadil \threedots
+%
+#endindian
+\endsong
+

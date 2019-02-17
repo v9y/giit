@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{itanaa bhii naa chaaho mujhe}%
+\film{Yeh Pyaar Hi To Hai}%
+\year{2001}%
+\starring{Saif Ali Khan, Pooja Bhatt}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+itanaa bhii naa chaaho mujhe
+ki mai.n ik pal tumase duur rah naa sakuu.n
+yuu.n naa pyaar se dekho mujhe
+ke mai.n dil kii baate.n tujhase kah naa sakuu.n
+itanaa bhii naa \threedots
+
+itanii bechainii le ke kaise jiyegaa ko_ii
+itanii chaahat daaman me.n kaise rakhegaa ko_ii
+chain kahii.n lene na de mujhako pyaar teraa
+itanaa bhii naa \threedots
+
+sochaa naa hogaa tumane itanaa pyaar karuu.ngaa
+maa.ng ke dekho jaan merii jaan bhii mai.n de duu.ngaa
+bhuuluu.ngaa naa mai.n tujhako kabhii ab merii jaan\-e\-vafaa
+itanaa bhii naa \threedots
+%
+#endindian
+\endsong
+

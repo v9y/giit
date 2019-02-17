@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dil ke jharokhe me.n aajaa ... chaa.Nd saa mukha.Daa dikhaa jaa ... saathiyaa beliyaa}%
+\film{Dil Ke Jharokhe Mein}%
+\year{1997}%
+\starring{Manisha, Vikas Bhalla, Mamik, Praveen Dastur, Kulbhushan}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Bappi Lahiri}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saathiyaa beliyaa saathiyaa beliyaa
+aajaa aajaa aajaa aajaa
+dil ke jharokhe me.n aajaa
+cha.ndaa saa mukha.Daa dikhaa jaa
+R^itu yahii pyaar kii hai dilabar yaar kii hai
+sunane kii ek baat hai aajaa saathiyaa beliyaa
+
+ab to aajaa pukaare.n tujhe pyaar kii vaadiyaa.n
+har tamannaa merii raah dekhe terii jaan\-e\-jaa.n
+bekaraar i.ntazaar ye is dil kii viiraaniyaa.n
+dil ke jharokhe me.n aajaa \threedots
+
+kho gayaa bachapanaa aa rahe hai.n javaanii ke din
+dekho naa laa_e hamako kahaa.n zi.ndagaanii ke din
+aur naa jaane kyaa aage dikhalaa_e.n terii meharabaaniyaa.n
+dil ke jharokhe me.n aajaa \threedots
+%
+#endindian
+\endsong
+

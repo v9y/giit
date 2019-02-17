@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaaduu hai ye kaisaa kaisaa khumaar hai}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Sonu Nigam, Anuradha Paudwal, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaaduu hai ye kaisaa kaisaa khumaar hai
+ye puuchhataa hai dil kaisaa ye pyaar hai
+kuchh roz se bechain se betaab tho.De se ham hai.n tum ho
+jaaduu hai ye kaisaa \threedots
+
+aa.Nkho.n me.n raat jaage ab nii.nd kyuu.n na aa_e
+yaado.n kii bekhyaalii meraa chain le ke jaa_e
+ham dono.n hai.n TuuTe bikhare hosh kho rahaa hai
+tumase milake tumako paake kuchh to ho rahaa hai
+tum paas ho phir bhii kyuu.n i.ntazaar hai
+ye puuchhataa hai \threedots
+
+kaise bataa_e.n tum se kyaa baat ho rahii hai
+lagataa hai dhuup me.n bhii barasaat ho rahii hai
+ham diivaane tum ho paagal bahake ham hai.n bahake
+terii saa.Nso.n ko chhuu chhuu ke merii saa.Ns mahake
+kaisaa hai ye mausam kaisii bahaar hai
+ye puuchhataa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dhiire baho nadiyaa dhiire baho hame.n utaran paar}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Kusum Kumari, Party}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+% Every line is first rendered by the lead singer, and then repeated
+% by chorus
+
+dhiire baho nadiyaa dhiire baho hame.n utaran paar
+
+kaahe kii torii naiyaa re aur kaahe kii patawaar
+
+kaunhau toraa naiyaa khiwaiyaa re kaunhau utaran paar
+
+dhiire baho nadiyaa dhiire baho hame.n utaran paar
+
+chhalapat morii naiyaa re chhalak rahii patawaar ??
+
+sach moraa naiyaa khiwaiyaa re hame.n utaran paar
+
+dhiire baho nadiyaa dhiire baho hame.n utaran paar
+
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{zi.ndagii ye dillagii hai}%
+\film{Kyaa Dil Ne Kahaa}%
+\year{2002}%
+\starring{Tushaar Kapoor, Ishaa Deol}%
+\singer{Shaan}%
+\music{Himesh Reshammiya}%
+\lyrics{Shanjay Chhail}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Life what's life##
+zi.ndagii ri baa baa ri baa re re re zi.ndagii zi.ndagii
+zi.ndagii ye dillagii hai zi.ndagii ye aavaaragii hai
+zi.ndagii ye dillagii hai zi.ndagii aavaaragii hai
+us ko jiyuu.Ngaa mai.n apanii tarah mai.n apanii tarah
+
+chaahat ke raste me.n hai.n Katare ba.De ba.De ba.De ba.De
+mere ishaaro.n par to ma.nzil mu.De ju.De u.De u.De
+merii adaa hai judaa ko_ii samajhe naa
+##that's the way I am##
+zi.ndagii diivaanagii hai zi.ndagii ravaanagii hai
+us ko jiyuu.Ngaa \threedots
+
+aage kyaa hogaa maine socha nahii.n nahii.n nahii.n nahii.n
+is pal jo achchhaa lage vo hii sahii sahii sahii sahii
+dhu_aa.N dhu_aa.N saa hai ye dil me.n a.njaanaa
+##boy o boy##
+zi.ndagii hairaanagii hai zi.ndagii naaraazagii hai
+us ko jiyuu.Ngaa \threedots
+%
+#endindian
+\endsong
+

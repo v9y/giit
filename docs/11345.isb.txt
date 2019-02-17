@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{gu.Diyaa hamase ruuThii rahogii kab tak}%
+\film{Dosti}%
+\year{1964}%
+\starring{Sushil Kumar, Sudhir Kumar, Baby Farida, Uma, Sanjay Khan}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12176 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+( gu.Diyaa
+hamase ruuThii rahogii
+kab tak na ha.Nsogii
+dekho jii kiran sii laharaa_ii
+aa_ii re aa_ii re ha.Nsii aa_ii
+dekho jii kiran sii laharaa_ii
+aa_ii re aa_ii re ha.Nsii aa_ii ) \-2
+gu.Diyaa
+
+( jhukii\-jhukii palako.n me.n aa ke
+dekho gupachup aa.Nkho.n se jhaa.Nke
+tumhaarii ha.Nsii
+gupachup aa.Nkho.n se jhaa.Nke ) \-2
+phir bhii
+a.Nkhiyaa.N band karogii
+
+kab tak na ha.Nsogii
+( dekho jii kiran sii laharaa_ii
+aa_ii re aa_ii re ha.Nsii aa_ii ) \-2
+gu.Diyaa
+
+( abhii\-abhii aa.Nkho.n se chhalake
+abhii kuchh\-kuchh ho.nTho.n pe jhalake
+tumhaarii ha.Nsii
+kuchh\-kuchh ho.nTho.n pe jhalake ) \-2
+phir bhii
+mukh pe haath dharogii
+
+kab tak na ha.Nsogii
+( dekho jii kiran sii laharaa_ii
+aa_ii re aa_ii re ha.Nsii aa_ii ) \-2
+gu.Diyaa
+hamase ruuThii rahogii
+kab tak na ha.Nsogii
+( dekho jii kiran sii laharaa_ii
+aa_ii re aa_ii re ha.Nsii aa_ii ) \-2
+%
+#endindian
+\endsong
+

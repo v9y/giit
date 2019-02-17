@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{mohabbat se dekhaa Kafaa ho ga_e hai.n}%
+\film{Bheegi Raat}%
+\year{1965}%
+\starring{Pradeep Kumar, Meena Kumari, Ashok Kumar}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10489 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mohabbat se dekhaa Kafaa ho ga_e hai.n
+hasii.n aajakal ke Kudaa ho ga_e hai.n
+hasii.n aajakal ke \threedots
+
+adaa_o.n me.n thii saadaGii ab se pahale
+vallaah
+kahaa.N ra.ng the ye sunahare rupahale
+o ( nazar milate hii ) \-2 kyaa se kyaa ho ga_e hai.n
+hasii.n aajakal ke \threedots
+
+kisii mo.D pe ban ke suuraj nikalanaa
+taubaa
+kahii.n dhuup me.n chaa.Ndanii ban ke chalanaa
+o ( jidhar dekho jalavaa ) \-2 numaa.N ho ga_e hai.n
+hasii.n aajakal ke \threedots
+
+yahaa.N to lagaa dil pe ek zaKm gaharaa
+o yahaa.N to lagaa dil pe ek zaKm gaharaa
+haay
+vahaa.N sirf unakaa ye a.ndaaz Thaharaa
+o (Kataa kar ke bhii ) \-2 beKataa ho ga_e hai.n
+hasii.n aajakal ke \threedots
+%
+#endindian
+\endsong
+

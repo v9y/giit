@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{haay terii aa.Nkh me.n vo qamaal hai}%
+\film{Mr. India}%
+\year{1961}%
+\starring{Geeta Bali, I S Johar, Kamaljeet, Helen}%
+\singer{Rafi}%
+\music{G S Kohli}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10188 [V S Rawat]
+% Transliterator: 
+% Credits: Aashish Thakker
+% Comments: 
+% 
+\printtitle
+#indian
+%
+haay \-5
+terii aa.Nkh me.n vo qamaal hai
+o terii har adaa bemisaal hai
+o meraa dil hu_aa u.Dan\-chhuu
+haay haay \threedots
+
+ba.De shauq se o maine pyaar kii o bhejii arjiyaa.N
+( are bevafaa ) \-2 tuune ghar bulaa khilaa dii mirchiyaa.N
+ik aag sii o tuune phuu.Nk dii
+o meraa dil hu_aa \threedots
+
+tere pyaar kaa chakkar buraa haay chal gayaa
+( terii ye ha.Nsii ) \-2 dil me.n dha.nsii mai.n to mar gayaa
+mat muskuraa o tujhe kyaa pataa
+o meraa dil hu_aa \threedots
+%
+#endindian
+\endsong
+

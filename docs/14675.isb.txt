@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{dil me.n pyaar kaa tuufaan naa samajhe ko_ii naadaan}%
+\film{Yahudi}%
+\year{1958}%
+\starring{Sohrab Modi, Dilip Kumar, Meena Kumari}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10852 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+dil me.n pyaar kaa tuufaan
+naa samajhe ko_ii naadaan
+zaalim ghuur\-ghuur ke
+dekhe duur\-duur se
+dil me.n pyaar kaa \threedots
+
+jisake li_e mai.n saarii raat jaagii
+usane hii dekho merii Kabar na lii
+chhe.De miiThe raag
+mere dil me.n jaage aag
+dil me.n pyaar kaa \threedots
+
+ye beruKii na du_aa na salaam
+mujhako vafaa kaa milaa ye iinaam
+vaadaa karanaa thaa aasaan
+jaa dekhaa teraa iimaan
+dil me.n pyaar kaa \threedots
+%
+#endindian
+\endsong
+

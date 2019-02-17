@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tum itanaa jo muskuraa rahe ho, kyaa Gam hai jisako chhupaa rahe ho}%
+\film{Arth}%
+\year{}%
+\starring{Raj Kiran, Shabana Azmi}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum itanaa jo muskuraa rahe ho
+kyaa Gam hai jisako chhupaa rahe ho
+tum itanaa\threedots
+
+aa.Nkho.n me.n namii ha.Nsii labo.n par
+kyaa haal hai kyaa dikhaa rahe ho
+kyaa Gam hai\threedots
+
+ban jaaye.nge zahar piite piite \- (2)
+ye ashq jo piite jaa rahe ho
+kyaa Gam hai\threedots
+
+rekhaao.n kaa khel hai muqaddar \- (2)
+rekhaao.n se maat khaa rahe ho
+kyaa Gam hai\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{vaqt se din aur raat}%
+\film{Waqt}%
+\year{1965}%
+\starring{Balraj Sahni, Achala Sachdev, Rajkumar, Sunil Dutt, Sadhna, shashi Kapoor, Sharmila}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: Sanjeev Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+vaqt se din aur raat
+vaqt se kal aur aaj
+vaqt kii har shah Gulaam
+vaqt kaa har shah pe raaj
+
+vaqt kii paaband hai.n
+aate jaate raunake
+vaqt hai phuulo.n kii sej
+vaqt hai kaa.NTo.n kaa taaj
+vaqt se din aur raat   \threedots
+
+aadamii ko chaahiye
+vaqt se Dar kar rahe
+kaun jaane kis gha.Dii
+vaqt kaa badale mijaaz
+vaqt se din aur raat   \threedots
+
+%
+#endindian
+\endsong
+%

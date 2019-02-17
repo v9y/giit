@@ -1,0 +1,49 @@
+% ITRANS SONG
+
+\startsong
+\stitle{sajanaa meraa dil, teraa dil, gayaa mil}%
+\film{Jhoola}%
+\year{1962}%
+\starring{Vyjayantimala, Sunil Dutt, Pran, Sulochna, Rajendra Nath, Achla Sachdev}%
+\singer{Lata}%
+\music{Salil Chowdhary}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+sajanaa
+( sajanaa meraa dil, teraa dil, gayaa mil
+kisii se mat kahanaa o sajanaa ) \-2
+( pyaar ha.Nsaa hai abhii abhii
+lage nazar na ise kabhii ) \-2
+o sajanaa sajanaa sajanaa
+sajanaa meraa dil, teraa dil, gayaa mil
+kisii se mat kahanaa o sajanaa
+
+( dil jo meraa meharabaa.N hai
+mujhako ko_ii Gam kahaa.N hai ) \-2
+( tuu nahii.n to kuchh nahii.n hai
+tuu jo hai to dil javaa.N ) \-2
+
+sajanaa meraa dil, teraa dil, gayaa mil
+kisii se mat kahanaa o sajanaa
+
+( mai.n huu.N terii ye qasam le
+tuu hai meraa ye qasam de ) \-2
+( ham na badale.n chaahe badale
+ye zamii.n ye aasamaa.N ) \-2
+
+sajanaa meraa dil, teraa dil, gayaa mil
+kisii se mat kahanaa o sajanaa
+( pyaar ha.Nsaa hai abhii abhii
+lage nazar na ise kabhii ) \-2
+o sajanaa sajanaa sajanaa
+sajanaa meraa dil, teraa dil, gayaa mil
+kisii se mat kahanaa o sajanaa
+
+#endindian
+\endsong

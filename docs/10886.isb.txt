@@ -1,0 +1,70 @@
+
+%
+\startsong
+\stitle{chaa.Ndanii raat hai haay kyaa baat hai ... mere bhole piyaa}%
+\film{Chandni Raat}%
+\year{1949}%
+\starring{Naseer, Shyam, David, Ulhas Parveen, Cukoo}%
+\singer{Uma Devi, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12039 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	( chaa.Ndanii raat hai
+	haay kyaa baat hai
+	dekho jii dekho jii dekho\-dekho jii ) \-3
+u \:	ho
+
+u \:	mere bhole piyaa
+	o mere bhole piyaa
+	o bhuul ja_iyo na priit lagaa ke
+ko \:	mere bhole piyaa
+	o mere bhole piyaa
+	o bhuul ja_iyo na priit lagaa ke
+
+u \:	hai ye duniyaa paapii
+ko \:	hai ye duniyaa paapii
+u \:	ro ke kahe ye moraa jii
+ko \:	ro ke kahe ye moraa jii
+	moraa jii
+u \:	kahii.n nagarii naa dil kii uja.D na jaaye merii
+	jaavo naa aa.Nkh churaa ke
+ko \:	kahii.n nagarii naa dil kii uja.D na jaaye merii
+	jaavo naa aa.Nkh churaa ke
+
+ko \:	( chaa.Ndanii raat hai
+	haay kyaa baat hai
+	dekho jii dekho jii dekho\-dekho jii ) \-2
+u \:	ho
+
+u \:	maano merii baat balam
+ko \:	maano merii baat balam
+u \:	dekho nikal jaaye na dam
+ko \:	dekho nikal jaaye na dam
+u \:	aaj mere nanhe.n se dil pe nahii.n Dhaavo sitam
+	birahaa ke tiir chalaa ke
+ko \:	o
+	aaj mere nanhe.n se dil pe nahii.n Dhaavo sitam
+	birahaa ke tiir chalaa ke
+
+u \:	mere bhole piyaa
+	o mere bhole piyaa
+	o bhuul ja_iyo na priit lagaa ke
+ko \:	mere bhole piyaa
+	o mere bhole piyaa
+	o bhuul ja_iyo na priit lagaa ke
+
+ko \:	( chaa.Ndanii raat hai
+	haay kyaa baat hai
+	dekho jii dekho jii dekho\-dekho jii ) \-3
+u \:	ho
+%
+#endindian
+\endsong
+

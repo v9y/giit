@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jiivan ke raaste me.n jiit unakii jo chalate hai.n ... bhagavaan hai tere saath}%
+\film{Ghar Sansaar}%
+\year{1986}%
+\starring{Jeetendra, Sridevi, Kader Khan, Shriram Laagoo, Ranjeet, Sulochana}%
+\singer{Kishor, Alka Yagnik, Mohammed Aziz}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jiivan ke raaste me.n jiit unakii jo chalate hai.n \-2
+himmat se hii mehanat se hii to bhaag badalate hai.n
+bhagavaan hai tere saath rahamaan hai tere saath
+jiivan ke raaste me.n \threedots
+
+jisane ki aa.Nsu_o.n ko khud kar diyaa pasiinaa
+yaaro.n usii ne siikhaa is zindagii ko jiinaa
+bhagavaan hai tere saath \threedots
+
+raftaar rahe qaayam zindagaanii
+jiivan hai paanii kab tak jab tak rahe ravaanii
+bhagavaan hai tere saath \threedots
+
+taaqat hai hausale se insaan se bhii zyaadaa
+TuuTe bhale hii saa.Nse.n TuuTe na iraadaa
+bhagavaan hai tere saath \threedots
+%
+#endindian
+\endsong
+

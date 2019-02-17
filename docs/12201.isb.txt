@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{shamaa se ko_ii kah de ... sitaaro unase kahanaa}%
+\film{Jai Bhawani}%
+\year{1961}%
+\starring{Jaishri Gadkar, Manhar Desai, Lata Sinha, Sapru, Veena, Ram Mohan}%
+\singer{Mukesh, Suman}%
+\music{S Mohindar}%
+\lyrics{G S Nepali}%
+%
+% Contributor: BOL ANAMOL #11459 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+shamaa se ko_ii kah de ki tere rahate\-rahate a.Ndheraa ho rahaa
+ki tum ho vahaa.N to milane ko yahaa.N pata.ngaa ro rahaa
+
+sitaaro unase kahanaa nazaaro.n unase kahanaa sazaa ho rahii
+ki tum ho vahaa.N to milane ko yahaa.N shamaa ro rahii
+sitaaro unase kahanaa \threedots
+
+ta.Dapate pyaar ke hii diidaar magar diivaanaa hame.n roke
+shamaa se ko_ii aise jale jaise pata.nge se judaa ho ke
+duhaa_ii dete\-dete judaa_ii sahate\-sahate a.ndheraa ho rahaa
+ki tum ho vahaa.N to milan ko yahaa.N pata.ngaa ro rahaa
+shamaa se ko_ii kah de \threedots
+
+ba.ndhii za.njiir magar bepiir terii tasviir nahii.n jaatii
+sitam kii baat sahe.n ham ghaat milan kii baat nahii.n aatii
+ki aahe.n bharate\-bharate a.ndheraa ho rahaa
+ki tum ho vahaa.N to milane ko yahaa.N pata.ngaa ro rahaa
+sitaaro unase kahanaa \threedots
+%
+#endindian
+\endsong
+

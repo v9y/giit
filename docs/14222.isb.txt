@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{diyaa naa bujhe rii aaj hamaaraa}%
+\film{Son Of India}%
+\year{1962}%
+\starring{Sajid, Kumkum, Kamaljeet}%
+\singer{Lata, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11963 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	diyaa naa bujhe rii aaj hamaaraa
+ko \:	diyaa naa bujhe rii aaj hamaaraa
+la \:	chale rii pawan
+	sananan sanan
+	thar\-thar kaa.Npe jiyaraa
+	aa
+ko \:	diyaa naa bujhe rii aaj hamaaraa
+
+la \:	aasathaa jag\-mag ruup nikhaare
+	aa
+ko \:	aasathaa jag\-mag ruup nikhaare
+la \:	priit me.n khoye nain hamaare
+	Dhuu.NDhe.n pii kaa dhaaraa
+ko\:	diyaa naa bujhe
+
+la \:	ek to badaraa ghan ghan garaje
+	aa
+ko \:	ek to badaraa ghan ghan garaje
+la \:	duuje bijariyaa cham\-cham chamake
+	jal\-thal hai jag saaraa
+	aa
+ko \:	diyaa naa bujhe rii aaj hamaaraa
+	chale rii pawan
+	sananan sanan
+	thar\-thar kaa.Npe jiyaraa
+	aa
+	diyaa naa bujhe rii
+	aa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{tuu jo mere sur me.n, sur milaa le}%
+\film{Chitchor}%
+\year{1976}%
+\starring{Amol Palekar, Zarina Wahab, Dina Pathak, Vijayendra}%
+\singer{Yesudas, Hemlata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/14/1996
+% Credits: Arun Verma <verma@CS.Cornell.EDU>
+%          Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+%
+\printtitle
+#indian
+%
+ye: tuu jo mere sur me.n \-2
+   sur milaa le, sa.ng gaa le
+   to zi.ndagii ho jaae safal
+he: tuu jo mere man kaa \-2
+   ghar banaa le, man lagaa le
+   to ba.ndagii ho jaae safal
+dono.n: tuu jo mere sur me.n
+
+ye: chaa.Ndanii raato.n me.n, haath li_e haatho.n me.n
+he: chaa.Ndanii raato.n me.n, haath li_e haatho.n me.n
+dono.n: Duube rahe.n ek duusare kii, ras bharii baato.n me.n
+ye: tuu jo mere sa.ng me.n \-2
+   muskuraa le, gunagunaa le
+   to zi.ndagii ho jaae safal
+
+he: tuu jo mere man kaa\threedots
+dono.n: tuu jo mere sur me.n\threedots
+
+he: kyo.n ham bahaaro.n se, khushiyaa.N udhaar le.n
+ye: kyo.n ham bahaaro.n se, khushiyaa.N udhaar le.n
+dono.n: kyo.n na milake ham khud hii apanaa jiivan sudhaar le.n
+he: tuu jo mere path me.n \-2
+   diip gaa le o ujaale
+   to ba.ndagii ho jaae safal
+
+ye: tuu jo mere sur me.n \-2
+   sur milaa le, sa.ng gaa le
+   to zi.ndagii ho jaae safal
+%
+#endindian
+\endsong
+%
+

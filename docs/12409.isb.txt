@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaagate hai.n ham raat raat bhar kar ga_ii.n terii chaahate.n asar}%
+\film{Khilaadi 420}%
+\year{2000}%
+\starring{Akshay Kumar, Mahima Chaudhary}%
+\singer{Sonu Nigam, Kavita Subramaniam}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaagate hai.n ham raat raat bhar
+kar ga_ii.n terii chaahate.n asar
+nii.nd kho ga_ii chain kho gayaa
+kyaa kare.n hame.n pyaar ho gayaa
+tum ho bekhabar nahii.n tumhe.n hai kuchh khabar
+jaagate hai.n ham \threedots
+
+haal dil kaa jaan\-e\-jaanaa.n kaise ham kahe.n
+duur tumase duur tumase kaise ham rahe.n
+naa tumhe.n pataa naa hame.n pataa
+bevajah hame.n aa rahaa mazaa
+bekaraar karane vaalii aa_ii hai umar
+jaagate hai.n ham \threedots
+
+maar Daale.n naa hame.n ye bekaraariyaa.n
+hosh me.n na aane de.ngii ye khumaariyaa.n
+chhaa rahaa sanam pyaar kaa nashaa
+tumako jaane naa ho gayaa ye kyaa
+duur kyuu.n kha.Dii hai paas aa zaraa idhar
+jaagate hai.n ham \threedots
+%
+#endindian
+\endsong
+

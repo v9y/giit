@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye hai ##chemistry## pyaar kii ... dil ke ##test tube## me.n}%
+\film{Muqaddar}%
+\year{1996}%
+\starring{Mithun, Ayesha, Rohit Kumar, Moushumi, Kiran Kumar, Simran}%
+\singer{Shankar Mahadevan, Parvez, Gayatri Iyer}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##History. No. Geography. It's boring. Chemistry. Yes.##
+ke ke ke ke ##chemistry##
+ye hai ##chemistry## pyaar kii
+dil ke ##test tube## me.n pyaar kaa ##oxygen## Daalo
+kyaa hai zaruurat chaay kii kyaa hai zaruurat yaar kii
+
+##fix## kisii se ##date## karo ##laboratory## me.n ##wait## karo
+tumane sunaa maine kyaa bolaa ye hai milan kaa ##formula##
+aa_o kare.n ham ##practical##
+chal kahii.n mere saath chal
+ye kaisaa ##oxide## hai ##love## kaa ye ##hydride## hai
+ye hai ##chemistry##
+dil ke ##test tube## me.n \threedots
+
+##Come on everybody. Let's do the lab rap.##
+##CaCO3 H2SO4 Potasium Cyanide and H2O##
+##hey everybody! this is a lab rap.##
+##No physics, no biology, just## ke ke ke ke ##chemistry##
+ye hai.n kaise bulabule chaahat ke hai.n silasile
+tuu ##sulphate## me.n ##nitrogen## ho jaa_e na ##explosion##
+##acid## hai duniyaa saarii jal na jaa_e ulfat pyaarii
+kaisaa ##experiment## hai ishq to ##permanent## hai
+ye hai ##chemistry##
+dil ke ##test tube## me.n \threedots
+%
+#endindian
+\endsong
+

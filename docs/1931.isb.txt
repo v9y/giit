@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ye meraa prema patra pa.Dha kara ke tuma naaraaja naa honaa}%
+\film{Sangam}%
+\year{}%
+\starring{Raj Kapoor, Rajendra Kumar, Vyjayanthimala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Indu Prakas (prakas@cs.cornell.edu)
+%          Satish Subramanian (subraman@cs.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+% 
+ye meraa premapatra pa.Dha kara ke
+ki tuma naaraaja naa honaa
+ki tuma merii zi.ndagii ho \- 2
+
+tujhe mai.n chaa.Nda kahataa thaa
+magara usame.n bhii daaG hai
+tujhe suuraja mai.n kahataa thaa
+magar usame.n bhii aaga hai
+tujhe itanaa hii kahataa huu.N
+ki mujhako (tumase pyaara hai \- 3) 
+ye meraa premapatra \threedots
+
+tujhe ga.ngaa mai.n samajhuu.Ngaa
+tujhe jamunaa mai.n samajhuu.Ngaa
+tuu dil ke paasa hai itanii
+tujhe apanA mai.n samajhuu.Ngaa
+agara mara jaaU.N rUh bhaTakegI
+tere (i.ntajaara me.n \- 3) 
+ye meraa premapatra pa.Dha kara ke
+ki tuma naaraaja naa honaa
+ki tuma merii zi.ndagii ho
+ki tuma merii ba.ndagii ho
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{pyaar to hameshaa rahegaa ... mere dil me.n kaun hai ... sirf tum}%
+\film{Sirf Tum}%
+\year{1999}%
+\starring{Sanjay Kapur, Priya Gil, Jackie, Sushmita, Mohnish, Johny Lever}%
+\singer{Hariharan, Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye zamii.n aasamaa.n ye sadii ye jahaa.n
+ye chaman ye fizaa kuchh rahe na rahe
+pyaar to hameshaa rahegaa
+mere dil me.n kaun hai dha.Dakano.n me.n kaun hai
+kaun hai nazar me.n sirf tum sirf tum sirf tum
+
+aa.Nkho.n se milatii hai.n aa.Nkhe.n
+ho jaatii hai.n dil kii saarii baate.n
+betaabii me.n din kaTate hai.n
+karavaT lekar kaTatii saarii raate.n
+harapal ba.Dhataa jaa_e isame.n aisaa hai nashaa
+dil ne ye pukaaraa aur diivaano.n ne kahaa
+pyaar to hameshaa rahegaa pyaar to hameshaa rahegaa
+
+na duniyaa kii daulat maa.nge.n
+naa chaa.Ndii maa.nge.n naa maa.nge.n sonaa
+jaati dharam mazahab naa maane
+ho jaataa hai jab jisase hai honaa
+vedo.n me.n likhaa hai aur gra.ntho.n me.n pa.Dhaa
+sabane hai ye maanaa aur sabame.n basaa
+pyaar to hameshaa rahegaa pyaar to hameshaa rahegaa
+mere dil me.n \threedots
+%
+#endindian
+\endsong
+

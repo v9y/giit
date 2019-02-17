@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{raat ra.ngiilii gaa_e re mose rahaa na jaa_e re}%
+\film{Nayaa Andaaz}%
+\year{1956}%
+\starring{Kishore Kumar, Meena Kumari}%
+\singer{Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10041 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+raat ra.ngiilii gaa_e re mose rahaa na jaa_e re
+mai.n kaa karuu.N kaase kahuu.N more saajanaa
+
+mere dil ko aa_e chain ho aa piyaa aa jaanaa
+mai.n kaa karuu.N kaase kahuu.N mere raajaa
+raat ra.ngiilii gaa_e re \threedots
+
+meraa dil kyo.n dha.Dake baar baar mohe kyaa pataa
+mere dil kii jaane kaun baat tuu hii bataa
+mai.n kaa karuu.N kaase kahuu.N mre sajanaa
+raat ra.ngiilii gaa_e re \threedots
+%
+#endindian
+\endsong
+

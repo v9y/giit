@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ai ishq ye sab duniyaa vaale}%
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Dilip Kumar, Madhubala, Pritvhiraj Kapoor, Ajit, Sheila Dalaya}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+ai ishq ye sab duniyaa vaale
+bekaar kii baate.n karate hai.n
+paayal ke Gamo.n kaa ilm nahii.n
+jha.nkaar kii baate.n karate hai.n
+
+har dil me.n chhupaa hai piir koii
+har paa.Nv me.n hai za.njiir koii
+puuchhe koii un se Gam ke maze
+jo pyaar kii baate.n karate hai.n
+
+ulfat ke naye diivaano.n ko
+kis tarah se koii samajhaaye
+nazaro.n pe lagii hai paabandii
+diidaar kii baate.n karate hai.n
+
+bha.Nvare hai.n agar madahosh to kyaa
+paravaane bhii hai.n khaamosh to kyaa
+sab pyaar ke naGame.n gaate hai.n
+sab yaar kii baate.n karate hai.n
+
+%
+#endindian
+\endsong
+%

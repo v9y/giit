@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{merii daastaa.N mujhe hii meraa dil sunaa ke ro_e}%
+\film{Aao Pyar Karen}%
+\year{1964}%
+\starring{Joy Mukherjee, Saira Banu, Shyam Chaterji, Rajendranath}%
+\singer{Lata}%
+\music{Usha Khanna}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10444 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii daastaa.N mujhe hii meraa dil sunaa ke ro_e
+kabhii ro ke muskaraa_e kabhii muskaraa ke ro_e
+merii daastaa.N mujhe \threedots
+
+mile Gam se apane furasat to mai.n haal puuchhuu.N unakaa
+shab\-e\-Gam se ko_ii kah de kahii.n aur jaa ke ro_e
+merii daastaa.N mujhe \threedots
+
+hame.n vaastaa ta.Dap se hame.n kaam aa.Nsu_o.n se
+tujhe yaad karake ro_e yaa tujhe bhulaa ke ro_e
+merii daastaa.N mujhe \threedots
+
+vo jo aajamaa rahe the merii beqaraariyo.n ko
+mere saath\-saath vo bhii mujhe aajamaa ke ro_e
+merii daastaa.N mujhe \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tuu laakho.n me.n hai ek sanam}%
+\film{Birju Ustad}%
+\year{1964}%
+\starring{Sheikh Mukhtar, Chandrashekhar, Vijaya Chaudhary}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10942 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tuu laakho.n me.n hai ek sanam \-2
+tujh sii hasiinaa dekhii kabhii naa saare jahaa.N me.n terii qasam haay terii qasam
+tuu laakho.n me.n \threedots
+
+kyuu.N ghuu.NghaT ne Daale ghere
+kyuu.N baiThe ho nazare.n phere
+ruuThii ho kyuu.N hamase hasiinaa ( aa_o manaa_e.N ham ) \-2
+tuu laakho.n me.n \threedots
+
+yaad tumhaarii paas bulaa ke
+rakh luu.N apane dil me.n chhupaa ke
+isii bahaane jaan\-e\-tamannaa ( saath raho haradam ) \-2
+tuu laakho.n me.n \threedots
+%
+#endindian
+\endsong
+

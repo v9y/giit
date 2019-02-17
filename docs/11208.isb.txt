@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{dil ko terii tasviir se bahalaa_e hu_e hai.n}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiyya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Suraiya, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10613 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil ko haay
+dil ko terii tasviir se bahalaa_e hu_e hai.n
+is ghar me.n ham ik chaa.Nd ko chamakaa_e hu_e hai.n
+
+ab kaun sii daulat hai jo taqadiir se maa.Nge
+ulfat hii ba.Dii chiiz thii jo paa_e hu_e hai.n
+
+jab tuu hai Kyaalo.n me.n to duniyaa se hame.n kyaa
+duniyaa ko terii yaad me.n Thukaraa_e hu_e hai.n
+
+miTakar bhii na daaman teraa haatho.n se chhuuTegaa
+ham terii mohabbat kii qasam khaa_e hu_e hai.n
+%
+#endindian
+\endsong
+

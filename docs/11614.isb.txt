@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tumhe.n paa ke hamane jahaa.N paa liyaa hai}%
+\film{Gehra Daagh}%
+\year{1963}%
+\starring{Rajendra Kumar, Mala Sinha, Usha Kiran, Madan Puri, Lalita Pawar}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10700 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	tumhe.n paa ke hamane jahaa.N paa liyaa hai \-2
+	zamii.n to zamii.n aasamaa.N paa liyaa hai
+ra \:	tumhe.n paa ke \threedots
+
+aa \:	miTaa na sakegii jise ab Kizaa.N bhii
+	jalaa na sake.ngii ab bijaliyaa.N bhii
+	mohabbat kaa vo aashiyaa.N paa liyaa hai
+	tumhe.n paa ke \threedots
+
+ra \:	zamaane ke Gam pyaar me.n Dhal ga_e hai.n \-2
+	ummiido.n ke laakho.n di_e jal ga_e hai.n \-2
+	ke jabase tumhe.n meharabaa.N paa liyaa hai
+	tumhe.n paa ke \threedots
+
+aa \:	jahaa.N se mohabbat kii raahe.n milii hai.n
+ra \:	vahii.n se merii gardishe.n tham ga_ii hai.n
+do \:	na bichha.De.nge ham kaaravaa.N paa liyaa hai
+	tumhe.n paa ke \threedots
+%
+#endindian
+\endsong
+

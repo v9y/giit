@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{tumhe.n mai.n agar apanaa saathii banaa luu.N}%
+\film{Shatranj}%
+\year{1969}%
+\starring{Rajendra Kumar, Waheeda Rahman}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11120 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	tumhe.n mai.n agar apanaa saathii banaa luu.N
+	bataa do saath doge kahaa.N tak
+ra \:	zamii.n se jahaa.N aasamaa.N mil rahaa hai
+	na chho.De.nge daaman tumhaaraa vahaa.N tak
+
+la \:	yahaa.N har qadam par na_ii dilaqashii hai
+	kahaa.N tak tumhaaraa bharosaa karuu.N mai.n
+ra \:	du_aa hai ke benuur ho jaa_e.N aa.Nkhe.n
+	kisii aur kii jo tamannaa karuu.N mai.n
+
+la \:	salaamat hai.n jab tak ye zulfo.n ke saa_e
+	to phir aur kisakaa aramaan hogaa
+ra \:	tumhaare hii qadamo.n me.n maranaa hu_aa
+	to ye maranaa kitanaa aasaan hogaa
+%
+#endindian
+\endsong
+

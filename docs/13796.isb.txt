@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{mai.n ba.ngaalii chhokaraa ... mai.n madraasii chhokarii}%
+\film{Raagini}%
+\year{1958}%
+\starring{Kishore, Ashok Kumar, Padmini, Sundar, Achala Sachdev, Iftikhar}%
+\singer{Kishor, Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10544 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	mai.n ba.ngaalii chhokaraa
+	koru pyaar ko namaskaaram
+aa \:	mai.n madraasii chhokarii
+	tujhe tumase pyaaram
+ki \:	chhuTTii re mai.n ba.ngaalii chhokaraa \threedots
+
+kii \:	aamare baa.ngalaa desh me.n har gorii ke lambe baal
+	luthiir upor po.De gaal lokhii naache taale\-taale
+	khaa_e sudhu machchhii jhaal khaa_e go sudhu paa_e go
+	aamare baa.ngalaa desh \threedots
+
+aa \:	aa.n aa.n aa.n aa.N aa.N aa.N a.n a.n a.n aa
+	aaj to har baazaar me.n sai.nyaa milataa hai nakalii maal
+	karu.Ngii tere vaaste solaa si.ngaaram
+ki \:	more jaa_ii \-2
+aa \:	mai.n madraasii chhokarii \threedots
+
+ki \:	tum jo suno baa.ngaalii gaanaa
+	monovaa jaa_e jhuum
+	siikhii go tomaay kemun kore paavo
+	tum jo suno baa.ngaalii \threedots
+aa \:	de re naa de re naa dhiin tar dere naa
+	mere baa.Nke naach kii sai.nyaa machii ruus me.n dhuum
+ki \:	ore baa baa
+aa \:	mai.n huu.N paayal saajanaa aur tuu jha.nkaaram
+aa \:	mai.n madraasii chhokarii \threedots
+
+ki \:	sach puuchho to mere dil me.n pyaar illai\-illai
+aa \:	o baa.ngaalii meraa ho jaa kahatii hai mis pillai \-2
+	pappii tujhe pukaaratii ga.ngolii yaaram
+ki \:	kii bole re
+aa \:	meraa ho jaa saajanaa phir be.Daa paaram
+ki \:	re mai.n ba.ngaalii chhokaraa \threedots
+%
+#endindian
+\endsong
+

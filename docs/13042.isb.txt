@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mat puuchh meraa hai kaun vatan aur mai.n kahaa.N}%
+\film{Mr. India}%
+\year{1961}%
+\starring{Geeta Bali, I S Johar, Kamaljeet, Helen}%
+\singer{Rafi}%
+\music{G S Kohli}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10187 [V S Rawat]
+% Transliterator: 
+% Credits: Aashish Thakker
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( mat puuchh meraa hai kaun vatan ) \-2 aur mai.n kahaa.N kaa huu.N
+saaraa jahaa.N hai meraa mai.n saare jahaa.N kaa huu.N
+mat puuchh meraa hai \threedots
+
+mai.n chiin me.n huu.N chiinii jaapaan me.n jaapaanii
+la.ndan me.n huu.N a.ngrejii i.nDiyaa me.n hindustaanii
+mai.n jis gha.Dii jahaa.N bhii huu.N samajho vahaa.N kaa huu.N
+mat puuchh meraa hai \threedots
+
+mai.n pyaar kaa huu.N jaaduu jo sar pe cha.Dh ke bole
+ik phuu.Nk se u.Daa duu.N sau eTamo.n ke gole
+qismat jo badal de duniyaa kii us aasamaa.n kaa huu.N
+mat puuchh meraa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{janam-janam kaa saath hai nibhaane ko}%
+\film{Tumse Achcha Kaun Hai}%
+\year{1969}%
+\starring{Shammi Kapoor, Babita, Mehmood, Lalita Pawar}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #12244 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+( janam-janam kaa saath hai
+nibhaane ko
+sau\-sau baar maine janam liye ) \-3
+
+( pyaar amar hai duniyaa me.n
+pyaar kabhii nahii.n marataa hai ) \-2
+maut badan ko aatii hai
+ruh kaa jalawaa rahataa hai
+
+( janam-janam kaa saath hai
+nibhaane ko
+sau\-sau baar maine janam liye ) \-2
+
+( o shahjaadii sapano.n kii
+itanii tuu hairaan na ho ) \-2
+mai.n bhii teraa sapanaa huu.N
+jaan mujhe a.njaan na ho
+
+( janam-janam kaa saath hai
+nibhaane ko
+sau\-sau baar maine janam liye ) \-2
+
+( tuu ma.nzil mai.n raahii huu.N
+ek din tujhako paa_uu.Ngaa ) \-2
+kaun mujhe ab rokegaa
+haradam yuu.Nhii aa_uu.Ngaa
+
+janam-janam kaa saath hai
+nibhaane ko
+sau\-sau baar maine janam liye
+%
+#endindian
+\endsong
+%
+

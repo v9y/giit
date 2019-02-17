@@ -1,0 +1,76 @@
+%
+\startsong
+\stitle{jo vaadaa kiyaa vo, nibhaanaa pa.Degaa}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep Kumar, Bina Roy}%
+\singer{Rafi, Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Surajit Bose
+% Comments: This is actually a tandem song. The first three verses as given
+% here are Part I: "tarasatii nigaaho.n ne," "ham apanii vafaa pe naa," and
+% "chamakate hai.n jab tak ye." The lines "ye maanaa hame.n jaa.N se" and
+% following aren't so much a verse as part of the sthayii, though it is
+% delayed until after the first verse. These lines occur after the first
+% verse of Part II as well. The remainder of the verses given above are part
+% II of the song
+%
+\printtitle
+#indian
+%
+jo vaadaa kiyaa vo nibhaanaa pa.Degaa
+roke zamaanaa chaahe roke khudaaii tumako aanaa pa.Degaa
+jo vaadaa\threedots
+
+tarasatii nigaaho.n ne aavaaz dii hai
+muhabbat kii raaho.n ne aavaaz dii hai
+jaan\-e\-hayaa, jaan\-e\-adaa chho.Do tarasaanaa tumako aanaa pa.Degaa
+jo vaadaa\threedots
+
+ye maanaa hame.n jaa.N se jaanaa pa.Degaa
+par ye samajh lo tumane jab bhii pukaaraa hamako aanaa pa.Degaa
+jo vaadaa\threedots
+
+ham apanii vafaa pe naa ilazaam le.nge
+tumhe.n dil diyaa hai tumhe jaa.N bhii de.nge
+jab ishq kaa saudaa kiyaa phir kyaa ghabaraanaa tumako aanaa pa.Degaa
+jo vaadaa\threedots
+
+chamakate hai.n jab tak ye chaa.Nd aur taare
+na TuuTe.nge ab ehad\-o\-paimaa.n hamaare
+ik duusaraa jab de sadaa hoke diivaanaa hamako aanaa pa.Degaa
+jo vaadaa\threedots
+
+%
+% Part-II
+%
+
+hamaarii kahaanii tumhaaraa fasaanaa
+hameshaa hameshaa kahegaa zamaanaa
+kaise bhalaa kaisii sazaa dede zamaanaa hamako aanaa pa.Degaa
+jo vaadaa\threedots
+
+sabhii ehal\-e\-duniyaa ye kahatii hai hamase
+ki aataa nahii.n koii mu.Dake adam se
+aaj zaraa shaan\-e\-vafaa dekhe zamaanaa tumako aanaa pa.Degaa
+jo vaadaa\threedots
+
+bahut jii lagaayaa zamaane se hamane
+bahut vaqt kaaTaa bahaane se hamane
+jab se huaa tumase judaa ye dil na maanaa tumako aanaa pa.Degaa
+jo vaadaa kiyaa
+
+ham aate rahe hai.n ham aate rahe.nge
+muhabbat kii rasame.n nibhaate rahe.nge
+jaan\-e\-vafaa tum do sadaa fir kyaa Thikaanaa hamako,
+aanaa pa.Degaa
+jo vaadaa\threedots
+%
+#endindian
+\endsong
+%

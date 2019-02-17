@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ek shahanshaah ne banavaa ke hasii.n taajamahal}%
+\film{Leader}%
+\year{1964}%
+\starring{Dilip Kumar, Vyjayantimala, Jayant}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ek shahanshaah ne banavaa ke hasI.n taajamahal
+saarii duniyaa ko muhabbat kii nishaanii dii hai
+isake saaye me sadaa pyaar ke charche ho.nge
+khatm jo ho naa sakegii vo kahaanii dii hai
+ek shahanshaah ne banavaake \threedots
+
+taaj vo shammaa hai ulfat ke sanam khaane kii
+jisake paravaano me mufalis bhii zaradaar bhii hai
+sa.ng\-e\-maramar me samaae hue khvaabo.n kii qasam
+marahale pyaar ke aasaan bhii dush{}vaar bhii hai.n
+dil ko ek josh iraado.n ko javaanii dii hai
+ek shahanshaah ne banavaake \threedots
+
+taaj ik zindaa tasavvur hai kisii shaayar kaa
+isaka afasaanaa hakiikat ke sivaa kuchh bhii nahii
+isake aagosh me aakar ye gumaa.n hotaa hai
+zindagii jaise muhabbat ke sivaa kuchh bhii nahii
+taaj ne pyaar kii maujo.n ko ra_vaanii dii hai
+ek shahanshaah ne banavaake \threedots
+
+ye hasI.n raat ye mahakii huii puranUr fazaa
+ho ijaazat to ye dil ishq kaa izahaar kare
+ishq insaan ko insaan banaa detaa hai
+kisakii himmat hai muhabbat se jo inakaar kare
+aaj takadIr ne ye raat suhaanii dii hai
+ek shahanshaah ne banavaake \threedots
+%
+#endindian
+\endsong
+%

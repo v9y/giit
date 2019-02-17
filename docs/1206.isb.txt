@@ -1,0 +1,80 @@
+%
+\startsong
+\stitle{mere mahabuub me.n kyaa nahii.n kyaa nahii.n}%
+\film{Mere Mehboob}%
+\year{1963}%
+\starring{Sadhana, Rajendra Kumar, Amita}%
+\singer{Lata, Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Ravi K Rai (rrai@plains.nodak.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+la: mere mahabuub me.n kyA nahii.n kyA nahii.n 
+mere mahabuub me.n kyA nahii.n 
+vo to laakho.n me.n hai ek hasii.n 
+vo to laakho.n me.n hai ek hasii.n, ek hasii.n 
+
+aa: mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+mere mahabuub me.n kyA nahii.n 
+bholii suurat adA naazanii.n 
+bholii suurat adA naazanii.n, naazanii.n 
+mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+mere mahabuub me.n kyA nahii.n 
+
+la: aa .a .a
+	meraa mahabuub ek chaa.Nd hai 
+	husn apanA nikhaare hue 
+aa: o .a .a
+la: aasamaan kA farishtaa hai vo 
+	ruup insaan kA dhare hue 
+aa: o .a .a
+la: rashk\-e\-jannat hai vo mahazabii.n 
+	rashk\-e\-jannat hai vo mahazabii.n, mahazabii.n 
+	mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+
+aa: aa .a .a
+	maah ho anjum ho yA kaikashaa.n
+	sabase pyaaraa hai meraa sanam 
+la: aa .a .a
+aa: usake jalavo.n me.n hai vo asar 
+	hosh u.D jaaye allaah qasam 
+la: aa .a .a
+aa: dekhale gar use tU kahii.n 
+	dekhale gar use tU kahii.n, tU kahii.n 
+	mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+	mere mahabuub me.n kyA nahii.n 
+
+la: meraa mahabuub hai jaaneman 
+	karavaa kadamaah ruuh gulabadan 
+aa: meraa dilavar hai aisA javaan 
+	ho bahaaro.n me.n jaise chaman 
+la: usakii chaalo.n me.n aisI lachak 
+	jaise phuulo.n ki Daalii hile 
+aa: usakii aavaaz me.n vo khanak 
+	jaise shiishe se shiishaa mile 
+	usake a.ndaaz hai dilanashii.n 
+dono: bholii suurat adA naazanii.n, naazanii.n 
+	mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+	mere mahabuub me.n kyA nahii.n 
+
+aa: tere afasaano.n me.n merI jaan 
+	hai jhalak merI afasaano.n ki 
+la: daastaane.n hai milatii huii.n 
+	allaah ham dono paravaano.n 
+dono: paravaano.n kii
+dono: ek hii shamaa ho nA kahii.n 
+	vo to laakho.n me.n hai ek hasii.n, ek hasii.n 
+	mere mahabuub me.n kyA nahii.n, kyA nahii.n 
+	mere mahabuub me.n kyA nahii.n 
+%
+#endindian
+\endsong
+%

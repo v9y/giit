@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{holii aayii re kanhaa_ii, holii aayii re}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Sunil Dutt, Rajendra Kumar, Rajkumar}%
+\singer{Shamshad, chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anil Ubale
+% Transliterator: Anil Ubale
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+sha : holii aayii re kanhaa_ii, holii aayii re
+      holii aayii re kanhaa_ii
+      ra.ng chhalake sunaa de zaraa baa.nsarii
+
+ko (strii) : holii aayii re kanhaa_ii
+             ra.ng chhalake sunaa de zaraa baa.nsarii
+
+ko (pu) : holii aayii re, aayii re, holii aayii re
+
+sha : barase gulaal ra.ng more aa.nganavaa
+      apane hii ra.ng me.n ra.ng de mohe sajanavaa
+
+ko (pu) : ho dekho naache moraa manavaa
+
+ko (strii) : barase gulaal ra.ng more aa.nganavaa, jii more aa.nganavaa
+             apane hii ra.ng me.n ra.ng de mohe sajanavaa
+
+sha : tore kaaran gharase aa_ii, tore kaaran ho
+      tore kaaran gharase aa_ii
+      huu.N nikalake sunaa de zaraa baa.nsarii
+
+ko (strii) : holii aayii re kanhaa_ii
+             ra.ng chhalake sunaa de zaraa baa.nsarii
+
+ko (pu) : holii aayii re, aayii re, holii aayii re
+
+sha : chhuTe naa ra.ng aisii ra.ng de chunariyaa
+      dhoban ye dhoye chaahe saarii umariyaa
+
+ko (pu) : ho man ko ra.ng degaa saa.Nvariyaa
+
+ko (strii) : chhuTe naa ra.ng aisii ra.ng de chunariyaa, jii
+             ra.ng de chunariyaa
+             dhoban ye dhoye chaahe saarii umariyaa
+
+sha : mohe bhaaye naa harajaa_ii, mohe bhaaye naa
+      mohe bhaaye naa harajaa_ii
+      ra.ng halake sunaa de zaraa baa.nsarii
+
+ko (strii) : holii aayii re kanhaa_ii
+             ra.ng chhalake sunaa de zaraa baa.nsarii
+
+%
+#endindian
+\endsong
+%

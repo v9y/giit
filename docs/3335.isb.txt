@@ -1,0 +1,47 @@
+% ITRANS SONG # 3335; Created on Jan 26, 2004
+%
+% From: Neha (nehadesai@hotmail.com)
+% Date: 2001-08-24 16:28:01 PST
+%
+\startsong
+\stitle{guzaraa huaa ulafat kaa zamaanaa}%
+\film{Maan}%
+\year{1954}%
+\starring{Ashok Kumar, Dev Anand, Meena Kumari}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: Neha Desai, 2001-08-24
+% Transliterator: V S Rawat, 27/01/04
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+( guzaraa huaa ulafat kaa zamaanaa
+yaad karake roye.nge
+yaad karake roye.nge ) \-3
+
+( jab saawan kii mast ghaTaae.n
+dhuum machaatii aaye.ngii ) \-2
+jab koyal kii miiThii taane.n
+kaano.n me.n bas jaae.ngii
+ham ek bhuulaa huaa taraanaa
+yaad karake roye.nge
+
+kabhii kabhii jab tumako apane
+dil kaa dard sunaate the
+kabhii kabhii
+kabhii kabhii jab tumako apane
+dil kaa dard sunaate the
+pyaar se ****** dekar saajan
+hamako gale lagaate the
+wahii pyaar se gale lagaanaa
+yaad karake roye.nge \-2
+guzaraa huaa ulafat kaa zamaanaa
+yaad karake roye.nge \-2
+%
+#endindian
+\endsong
+%

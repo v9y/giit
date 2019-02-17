@@ -1,0 +1,61 @@
+%
+\startsong
+\stitle{pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai chhotii sii baat}%
+\film{Chalte Chalte}%
+\year{1976}%
+\starring{Simi Garewal, Vishal Anand}%
+\singer{Shailendra Singh, Lata}%
+\music{Bappi Lahiri}%
+\lyrics{Amit Khanna}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+la : ho ho ho, ho ho
+shai: ho ho ho, ho ho ho
+
+shai: (pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai
+chhoTii sii baata kaa fasaanaa bana jaataa hai ) \- 2
+la: are sajanaa kaa sajanii se, ho rahaa saamanaa \- 2
+dono: khela hii, khela me.n, dila gayaa, thaamanaa, naa\-naa, haa.N\-haa.N, naa\-naa
+shai: (pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai
+chhoTii sii baata kaa fasaanaa bana jaataa hai ) \- 2
+
+la: (kahane kii nahii.n baata magara ye phir bhii kahatii huu.N mai.n
+rahane kii nahii.n jagaha koii tere dila me.n rahatii huu.N mai.n ) \- 2
+jiita kara, pyaara me.n, pa.Degaa, haaranaa, naa\-naa, haa.N\-haa.N, naa\-naa,
+shai: (pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai
+chhoTii sii baata kaa fasaanaa bana jaataa hai ) \- 2
+la: are sajanaa kaa sajanii se, ho rahaa saamanaa,
+haa.N jii sajanii kaa sajanaa se, ho rahaa saamanaa,
+khela hii, khela me.n, dila gayaa, thaamanaa, naa\-naa, haa.N\-haa.N, naa\-naa,
+shai: (pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai, 
+chhoTii sii baata kaa phasaanaa bana jaataa hai ) \- 2
+
+naadaana samajha kara tumako dekho maapha kara diyaa hamane
+pyaara kii kitaaba se judaa_ii kaa naam hii saapha kara diyaa hamane
+yaara kii, baata tuma, kabhii naa, Taalanaa, naa\-naa, haa.N\-haa.N, naa\-naa
+(pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai
+chhoTii sii baata kaa phasaanaa bana jaataa hai ) \- 2
+la: are sajanaa kaa sajanii se, ho rahaa saamanaa
+sajanii kaa sajanaa se, ho rahaa saamanaa
+khela hii, khela me.n, dila gayaa, thAmanaa, haa.N\-haa.N
+haa.N\-haa.N, haa.N
+shai: (pyaar me.n kabhii\-kabhii, aisaa ho jaataa hai
+chhoTii sii baata kaa phasaanaa bana jaataa hai ) \- 2
+
+la: ho ho ho, ho ho 
+sha: ho ho ho, ho ho ho
+dono: aa haa haa, aa haa
+aa haa haa, aa haa haa
+ho ho ho, ho ho 
+ho ho ho, ho ho ho
+%
+#endindian
+\endsong
+%

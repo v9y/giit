@@ -1,0 +1,47 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{saat janam saat vachan saat sama.ndar}%
+\film{Prem}%
+\year{1994}%
+\starring{Sanjay Kapoor, Tabu}%
+\singer{Nalin Dave}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: HMV
+% Tags: 
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 21 Jan 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+saat janam, saat vachan, saat sama.ndar
+aaj hu_aa puuraa janmo.n kaa safar
+o hamasafar, o hamasafar
+o hamasafar, o hamasafar
+
+baraso.n ke baad ye din aayaa hai
+tuune mujhe yaad kiyaa, mujhe bulaayaa hai
+phuul hii phuul khil ga_e, is dil ke a.ndar
+aaj hu_aa puuraa janmo.n kaa safar
+o hamasafar, o hamasafar
+o hamasafar, o hamasafar
+saat janam, saat vachan, saat sama.ndar \threedots
+
+sadiyo.n ke bichha.Do.n kaa, aaj milan hogaa
+naa jaane is dil kaa, kyaa haal sajan hogaa
+kitane baras biit ga_e, ik pal ke a.ndar
+aaj hu_aa puuraa janmo.n kaa safar
+o hamasafar, o hamasafar
+o hamasafar, o hamasafar
+saat janam, saat vachan, saat sama.ndar \threedots
+
+%
+#endindian
+\endsong

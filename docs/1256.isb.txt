@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{muhabbat ba.De kaam kii chiiz hai}%
+\film{Trishul}%
+\year{1978}%
+\starring{Rakhee, Hema, Shashi and Amitabh, Sanjeev Kumar, Poonam, Sachin}%
+\singer{Lata, Kishore, Yesudas}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Arun Verma (verma@cs.cornell.edu)
+% Comments: Kishore sings for Shashi, Yesudas for Amitabh
+%
+\printtitle
+#indian
+%
+har taraf husn aur javaanii hai, aajakii raat kyaa suhaanii hai
+reshamii jism tharatharaate hai.n, maramarii ho.nTh gunagunaate hai.n 
+dha.Dakano.n mai.n suruur phailaa hai, ra.ng najadiik\-o\-duur phailaa hai 
+daavat\-e\-ishq de rAhI hai fazaa, aaj ho jaa kisii hasii.n pe fidaa 
+
+ki: muhabbat ba.De kaam kii chiiz hai, kaam kii chiiz hai 
+muhabbat ke dam se hai duniyaa ye roshan 
+muhabbat nA hotI to kuchh bhI naa hotA 
+najar aur dil kii panaaho.n kii khaatir 
+ye jannat nA hotI to kuchh bhI naa hotaa 
+yahii ek aaraam kii chiiz hai, kaam kii chiiz hai
+muhabbat ba.De kaam kii chiiz hai, kaam kii chiiz hai
+
+ye: kitaabo.n me.n chhapate hai, chaahat ke kisse
+haqIkat kii duniyA me.n chaahat nahii.n
+zamaane ke baazaar me.n, ye vo shah hai 
+ke jisakii kisIko, zaruurat nahii.n hai
+ye bekaar bedaam kii chiiz hai, naam kii chiiz hai
+
+ki: ye kudarat ke Inaam kii chiiz hai 
+muhabbat se itanaa khafaa hone vaale
+chal aa aaj tujhako muhabbat sikhaa de 
+teraa dil jo baraso.n se viiraa.n pa.Daa hai 
+kisii nAzaniinaa.n ko isame basaa de.n 
+meraa mashavaraa kaam kii chiiz hai, kaam kii chiiz hai 
+muhabbat ba.De kaam kii chiiz hai, kaam kii chiiz hai
+%
+#endindian
+\endsong
+%

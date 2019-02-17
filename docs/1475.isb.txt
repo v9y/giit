@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pyaar huaa iqaraar huaa hai, pyaar se phir kyo.n Darataa hai dil}%
+\film{Shree 420}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis, Nadira}%
+\singer{Manna De, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+pyaar huaa iqaraar huaa hai
+pyaar se phir kyo.n Darataa hai dil
+(kahataa hai dil, rastaa mushkil
+maaluum nahii.n hai kahaa.N ma.nzil ) \- 2
+pyaar huaa iqaraar huaa \threedots
+
+dil kahe is maa.ng ko, mai.n taaro.n se sa.nvaar duu.N
+tumase nayaa sa.nsaar luu.N, tumako nayaa sa.nsaar duu.N
+chaa.Nd aur suuraj, diip gagan ke
+is dharatii pe utaar duu.N
+aahaa haa aahaa haa, aa \threedots
+pyaar huaa iqaraar huaa \threedots
+
+raato.n daso.n dishaao.n se, kahe.ngii apanii kahaaniyaa.N
+priit hamaare pyaar kii, doharaae.ngii javaaniyaa.N
+mai.n na rahuu.Ngii, tum na rahoge
+phir bhii rahe.ngii nishaaniyaa.N
+aahaa haa aahaa haa, aa \threedots
+pyaar huaa iqaraar huaa \threedots
+%
+#endindian
+\endsong
+%

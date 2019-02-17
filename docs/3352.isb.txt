@@ -1,0 +1,62 @@
+% ITRANS SONG # 3352; Created on Jan 26, 2004
+%
+% April 24 2001
+% 
+\startsong 
+\stitle{jab ujiyaaraa chhaaye ... jaago mohan pyaare}% 
+\film{Jaagte Raho}% 
+\year{1956}% 
+\starring{Raj Kapoor, Motilal, Nargis, Pradip Kumar}% 
+\singer{Lata}% 
+\music{Salil Choudhary}% 
+\lyrics{Shailendra}% 
+%
+% Contributor: Srinivas Ganti 
+% Transliterator: V S Rawat
+%
+\printtitle 
+#indian 
+% 
+la: 
+jaago 
+ko: 
+jaago jaago 
+
+la: 
+jab ujiyaaraa chhaaye
+man ka andheraa jaaye 
+kirano.n kii raanii gaaye 
+jaago he, mere man mohan pyaare 
+
+ko: 
+jaagii re jaagii re jag kaliyaa.n jaagii \-2 
+jaagii re jaagii re jaagii re 
+jaagii re jaagii re jag jag 
+
+jaago mohan pyaare jaago \-2 
+nav yug chuume nai.n tihaare 
+jaago, jaago mohan pyaare 
+
+ko: 
+jaagii jaagii re jag kaliyaan jaagii \-2 
+jaagii re jaagii re jaagii re 
+jaagii re jaagii re jag jag 
+
+( bhiigii bhiigii a.Nkhiyo.n se musakaaye 
+  ye naii bhor tohe a.ng lagaaye ) \-2 
+baahe.n phailaa o dukhiyaare 
+jaago mohan pyaare \threedots 
+
+( jisane man kaa diip jalaayaa 
+  duniyaa ko usane hii ujalaa paayaa ) \-2 
+mat rahanaa a.Nkhiyo.n ke sahaare 
+jaago mohan pyaare \threedots 
+
+( kiran parii gagarii chhalakaaye 
+  jyot kaa pyaasaa pyaas bujhaaye ) \-2 
+phuul bane man ke a.ngaare 
+jaago mohan pyaare \threedots 
+% 
+#endindian 
+\endsong 
+% 

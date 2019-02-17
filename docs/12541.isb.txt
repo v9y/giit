@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{ho more saa.Nvare salone piyaa tose milane ko machale jiyaa}%
+\film{Kanhaiyaa}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10866 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	ho more saa.Nvare salone piyaa
+ko \:	tose milane ko machale jiyaa
+la \:	hame.n tarasaa na abake baras din barakhaa ke aa_e rasiyaa
+ko \:	more saa.Nvare salone \threedots
+
+la \:	pake ni.mbu_aa anaar jhuke ambu_aa kii Daar
+	kare papiihaa pukaar piyaa aajaa ik baar
+ko \:	pake ni.mbu_aa anaar \threedots
+la \:	kaase man kii kahuu.N batiyaa.N
+	hame.n tarasaa na \threedots
+ko \:	more saa.Nvare salone \threedots
+
+la \:	chale nazaro.n kaa khel o kahii.n chorii\-chorii mel
+	kahii.n hiran ko chuum kare hiranii kulel
+	gale milane kii rut aa_ii re yahii gaatii jaa_e nadiyaa
+	hame.n tarasaa na \threedots
+ko \:	more saa.Nvare salone \threedots
+
+la \:	havaa laharaa ke aa_e aa o merii chunarii u.Daa_e aa
+	jiyaa dhak\-dhak moraa ko_ii dekh le na haay \-2
+	maine duniyaa se mukh mo.D ke tere sapano.n ko apanaa liyaa
+	o more saa.Nvare salone piyaa
+	tose milane ko machale jiyaa
+%
+#endindian
+\endsong
+

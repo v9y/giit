@@ -1,0 +1,70 @@
+
+%
+\startsong
+\stitle{baat hai ek buu.nd sii dil ke pyaale me.n}%
+\film{Jal Bin Machhali Nritya Bin Bijalee}%
+\year{1971}%
+\starring{Sandhya, Abhijeet}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11173 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	baat hai ek buu.nd sii dil ke pyaale me.n
+	aate\-aate ho.nTho.n tak tuufaan naa ban jaa_e \-3
+mu \:	baat kyaa
+	aramaan vo kyaa dil ke li_e baat kyaa
+	tuufaa.N me.n jo jiine kaa saamaan naa ban jaa_e \-2
+	baat kyaa threedots
+
+mu \:	raaz hai kyaa aisaa
+la \:	uhuu.n uhuu.n huu.n
+mu \:	dekho Taalo naa
+la \:	uhuu.n uhuu.n huu.n
+mu \:	ham ko_ii Gair hai.n kyaa
+la \:	uhuu.n uhuu.n huu.n
+mu \:	phir kah Daalo naa
+la \:	hai dil kii vo lahar aisii cha.nchal
+	jo ise chhe.Daa kisii matavaale ne jo ise
+	aate\-aate ho.nTho.n \threedots
+mu \:	( naa ban jaa_e ) \-2 baat kyaa \threedots
+
+la \:	merii aa.Nkhe.n pa.Dhi_e
+mu \:	uhuu.n uhuu.n huu.n
+la \:	kuchh likhaa hogaa
+mu \:	uhuu.n uhuu.n huu.n
+la \:	dha.Dakan sunate ho
+mu \:	uhuu.n uhuu.n huu.n
+la \:	dil sunataa hogaa
+mu \:	vaise to hai mere dil me.n bhii halachal phir bhii
+	halachal vo kyaa dil ke li_e phir bhii
+	tuufaa.N me.n jo \threedots
+la \:	( naa ban jaa_e ) \-2 baat hai ek \threedots
+
+	tum kahaa.N mai.n kahaa.N
+mu \:	o ho o ho ho
+	ham tum sa.ng sa.ng hai.n
+la \:	uhuu.n uhuu.n huu.n
+	dharatii aur ambar
+mu \:	o ho o ho ho
+	dono.n ek ra.ng hai.n
+la \:	tum ho mere kah do jo ye aramaan
+	sun liyaa jo chhip ke kisii duniyaa vaale ne sun liyaa
+	aate\-aate ho.nTho.n \threedots
+mu \:	( naa ban jaa_e ) \-2 baat kyaa \threedots
+la \:	baat hai ek \threedots
+mu \:	baat kyaa
+la \:	baat hai ek
+mu \:	baat kyaa
+la \:	jii baat hai
+%
+#endindian
+\endsong
+

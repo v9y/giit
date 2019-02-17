@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kaahe itanaa gumaan chhori_e ye melaa do din kaa}%
+\film{Bharosa}%
+\year{1963}%
+\starring{Guru Dutt, Asha Parekh, Mahmood, Shubha Khote}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10680 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	kaahe itanaa gumaan chhori_e ye melaa do din kaa \-2
+aa \:	kaahe karataa hai pyaar chhoravaa ye melaa do din kaa
+	jaa\-jaa Dore na Daal chhoravaa ye melaa do din kaa
+
+ra \:	are sun\-sun
+aa \:	are jaa\-jaa\-jaa
+ra \:	o chal Thumak\-Thumak zaraa Thumak\-Thumak
+
+	terii Kaatir khol ke rakhaa hai dil kaa daravaazaa
+	pa_iyaa.N ham nahii.n pa.Dane vaale marazii ho to aajaa
+aa \:	ba.Daa aayaa diladaar chhoravaa ye melaa do din kaa
+	kaahe karataa hai pyaar \threedots
+
+aa \:	dekh zaraa ye kaalii\-kaalii zulfo.n kii za.njiire.n
+	ba.Ndhii hu_ii hai iname.n tere jaiso.n kii taqadiire.n
+ra \:	luT jaa_egaa jahaan chhori_e ye melaa do din kaa
+	kaahe itanaa gumaan \threedots
+%
+#endindian
+\endsong
+

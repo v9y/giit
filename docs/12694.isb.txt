@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{sapanaa meraa sach ho gayaa ... kabhii mai.n kahuu.n kabhii tum kaho}%
+\film{Lamhe}%
+\year{1991}%
+\starring{Anil Kapoor, Sridevi, Waheeda Rahman, Anupam Kher}%
+\singer{Lata, Hariharan}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sapanaa meraa sach ho gayaa
+kabhii mai.n kahuu.n kabhii tum kaho
+ki maine tumhe.n ye dil de diyaa
+
+kabhii mai.n sunuu.n kabhii tum suno
+ki maine tumhe.n ye dil de diyaa
+kabhii mai.n kahuu.n kabhii tum \threedots
+
+saath saath ham aas paas yuu.n baiThe rahe.n
+ek duusare se yahii kahate rahe.n
+paas paas ham saath saath yuu.n baiThe rahe.n
+ek duusare se yahii kahate rahe.n
+kabhii mai.n kahuu.n kabhii tum \threedots
+
+chalate rahe.n u.Date rahe.n ham bahate rahe.n
+ek duusare se yahii kahate rahe.n
+kabhii mai.n kahuu.n kabhii tum \threedots
+
+dard\-e\-dil dard\-e\-jigar ham sahate rahe.n
+ek duusare se yahii kahate rahe.n
+kabhii mai.n kahuu.n kabhii tum \threedots
+%
+#endindian
+\endsong
+
+

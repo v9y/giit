@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{har gha.Dii mere pyaar kaa saayaa chalegaa tere}%
+\film{Pyaar Kaa Saayaa}%
+\year{1991}%
+\starring{Rahul Roy, Sheeba, Amrita, Mohnish, Avtar Gill, Anant Mahadevan}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii dostii se milaa hai mujhe ek tohafaa pyaar kaa
+hai badanasiibii hamaarii sanam na mil sakaa pyaar kaa
+terii dostii se milaa hai \threedots
+
+kisako bhalaa doSh de.n qismat kii sab baat hai 
+sab zor usakaa chale apane naa kuchh haath hai
+kaise kaaTuu.n mai.n ye zindagii tere binaa sajanaa
+terii dostii se milaa hai \threedots
+
+mai.n to nahii.n par meraa saayaa tere saath hai
+baaho.n me.n terii sanam merii hii saugaat hai
+tere milan ko ta.Dapataa huu.N mai.n ab har gha.Dii dilarubaa
+terii dostii se milaa hai \threedots
+
+kaa.NTo.n kaa ja.ngal lage saathii ye duniyaa mujhe
+yaado.n me.n tuu hai bataa kaise bhulaa_uu.N tujhe
+kaaTe kaTe naa ye zindagii tere binaa jaan\-e\-jaa.n
+terii dostii se milaa hai \threedots
+%
+#endindian
+\endsong
+

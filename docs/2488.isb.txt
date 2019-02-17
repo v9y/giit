@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{yaad na aaye koii}%
+\film{Maachis}%
+\year{}%
+\starring{Tabu, Chandrachur Singh}%
+\singer{Lata}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: Guri Buxi
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+yaad na aaye koii
+lahuu na rulaaye koii
+yaad na aaye koii
+
+haay, akhiyo.n me.n baiThaa thaa
+akhiyo.n se uTh ke, jaane kis desh gayaa
+
+jogii meraa jogii ve
+raa.Njhaa, meraa raa.Njha.Daa
+meraa daraveshh gayaa
+rabbaa~
+duur na jaaye koii
+yaad na aaye koii   \threedots
+
+shaam ke diye ne aa.Nkh bhii na kholii
+andhaa kar gayii raat
+
+jalaa bhii nahii.n thaa
+deh kaa baalan
+koyalaa kar gayii raat
+rabbaa~
+aur na jalaaye koii
+yaad na aaye koii   \threedots
+
+
+%
+#endindian
+\endsong
+%

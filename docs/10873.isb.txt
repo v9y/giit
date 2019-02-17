@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{##ruby o ruby## jaan\-e\-mahabuubii}%
+\film{Chaahat}%
+\year{1971}%
+\starring{Mala Sinha, Biswajit, Mumtaz, Jitendra, Asit Sen}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11167 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	##ruby o ruby## jaan\-e\-mahabuubii
+	dil kii baate.n chhe.D de
+la \:	ab na kar i.ntazaar kyuu.N ki ham\-tum me.n pyaar
+	hone vaalaa hai aajakal me.n
+do \:	##ruby o ruby## \threedots
+
+mu \:	dil ko banaa_e.N saaz aaj kii raat ham
+la \:	dil ke uThaa_e.N naaz aaj kii raat ham
+mu \:	kahane do
+la \:	jo na kahaa
+mu \:	sun le vo
+la \:	jo na sunaa
+do \:	ye umar naa guzar jaa_e aajakal me.n
+	##ruby o ruby## \threedots
+
+mu \:	nazare.n churaa ke ham kyaa kare.nge sanam
+la \:	daaman bachaa ke ham kyaa kare.nge sanam
+mu \:	phir kabhii
+la \:	honaa to hai
+mu \:	ye sitam
+la \:	honaa to hai
+do \:	honaa hai to ho jaa_e aajakal me.n
+	##ruby o ruby## \threedots
+%
+#endindian
+\endsong
+

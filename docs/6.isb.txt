@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{a.ndhe jahaa.N ke a.ndhe raaste, jaaye.n to jaaye.n kahaa.N}%
+\film{Patita}%
+\year{}%
+\starring{Dev Anand, Usha Kiran}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+a.ndhe jahaan ke a.ndhe raaste,  jaae.n to jaae.n kahaa.N
+duniyaa to duniyaa,  tuu bhii paraayaa,  ham yahaa.N naa vahaa.N
+
+jiine kii chaahat nahii.n,  mar ke bhii raahat nahii.n
+is paar aa.Nsuu,  us paar aahe.n,  dil meraa bezubaa.n
+a.ndhe jahaan ke \threedots
+
+ham ko na koI bulaae,  naa koI palake.n bichhaae
+ai Gam ke maaro.n, ma.nzil vahii.n hai, dam ye TuuTe jahaa.N
+a.ndhe jahaan ke \threedots
+
+aaGaaz ke din teraa a.njaam tay ho chukaa
+jalate rahe.n hai.n,  jalate rahe.nge, ye zamii.n aasamaa.n
+a.ndhe jahaan ke \threedots
+%
+#endindian
+\endsong
+%

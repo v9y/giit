@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{he ma_ii jab\-jab piir pa.Dii ... o ambe maiyaa}%
+\film{Johar Mehmood In Hongkong}%
+\year{1971}%
+\starring{Mehmood, I S Jauhar, Soniya Sahni, Aruna Irani, Pran}%
+\singer{Mukesh, Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11155 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	he ma_ii jab\-jab piir pa.Dii bhagatan par tuune sunii pukaar
+mu \:	he ma_ii jisakii raxaa tuu kare use kyaa maare sa.nsaar
+do \:	use kyaa maare sa.nsaar
+
+ra \:	he aayo\-aayo navaraatri tyauhaar o ambe maiyaa
+ko \:	terii jay\-jayakaar ho ambe maiyaa terii jay\-jayakaar
+mu \:	he ( kar de kar de bhakto.n kaa be.Daa paar ) \-2 o ambe maiyaa
+ko \:	terii jay\-jayakaar \threedots
+
+ra \:	ham to baalak tere maataa aur tuu jiivan daataa hai
+ko \:	aur tuu jiivan daataa hai
+mu \:	ko_ii usako chhuu nahii.n paataa terii sharan jo aataa hai
+ko \:	terii sharan jo aataa hai
+ra \:	ho aa_ii si.nh pe savaar terii shakti apaar
+	tujhe ambe jagadambe jag saaraa jaane re
+ko \:	ho jag saaraa jaane re
+mu \:	aaj apanaa aaj apanaa dikhaa de chamatkaar
+ko \:	ho aaj apanaa aaj apanaa dikhaa de chamatkaar ho ambe maiyaa
+ra \:	kar de kar de \threedots
+
+ra \:	vipadaa me.n hai desh hamaaraa tuu hii bachaane vaalii hai
+ko \:	tuu hii bachaane vaalii hai
+mu \:	aa.Nchal me.n ye diip chhupaa le aa.Ndhii aane vaalii hai
+ko \:	aa.Ndhii aane vaalii hai
+ra \:	ho bairii piichhe pa.De hame.n ghere kha.De
+	tujhe ambe jagadambe jag saaraa jaane re
+ko \:	ho jag saaraa jaane re
+mu \:	deshadrohii kii kar de ba.nTaadhaar ambe maiyaa
+ko \:	ho ambe maiyaa
+ra \:	kar de kar de \threedots
+
+ra \:	chaaro.n khaane chitt hai dushman usane hamako maan liyaa
+ko \:	usane hamako maan liyaa
+mu \:	naacho gaa_o mauj manaa_o maiyaa ne kalyaaN kiyaa
+ko \:	maiyaa ne kalyaaN kiyaa
+ra \:	he aisii devii ne aaj rakhii bhakto.n kii laaj
+	tujhe ambe jagadambe jag saaraa jaane re
+ko \:	ho jag saaraa jaane re
+mu \:	nahii.n bhuule.nge teraa upakaar
+ko \:	ho nahii.n bhuule.nge teraa upakaar ho ambe maiyaa
+	aayo\-aayo navaraatri \threedots
+%
+#endindian
+\endsong
+

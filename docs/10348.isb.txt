@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kajaraa lagaa ke gajaraa sajaa ke bijurii giraa ke}%
+\film{Apnaa Desh}%
+\year{1972}%
+\starring{Rajesh Khanna, Mumtaz}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11537 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	kajaraa lagaa ke gajaraa sajaa ke bijurii giraa ke ja_iyo naa
+la \:	nain milaa ke chain churaa ke ni.ndiyaa u.Daa ke ja_iyo naa
+
+ki \:	mukha.Daa na dekho darpaN me.n jhaa.Nko zaraa mere man me.n
+	aise jiyaa pe chhaa_ii ho jaise ghaTaa_e.N saavan me.n
+	raat aur din tumhare bin man me.n aur kaun hai
+	ab zid chho.Do na aage\-aage dau.Do dil naa meraa to.Do
+	ghu.NghaTaa giraa ke mukha.Daa chhipaa ke bijurii giraa ke ja_iyo naa
+la \:	nain milaa ke \threedots
+
+	chho.Do merii
+	ho o zulmii
+	chho.Do merii kalaa_ii ko sun lo merii duhaa_ii ko
+	kyo.n chhe.Date ho raste me.n la.Dakii kisii paraa_ii ko
+	meraa naam ho badanaam jo ko_ii dekh le
+	chalo haTo jaa_o jiyaa na dha.Dakaa_o dekho baaj aa_o
+	apanaa banaa ke sapanaa dikhaa ke ni.ndiyaa u.Daa ke ja_iyo naa
+ki \:	kajaraa lagaa ke \threedots
+%
+#endindian
+\endsong
+

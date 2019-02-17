@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{dil me.n uma.ng sajan}%
+\film{Goonj}%
+\year{1952}%
+\starring{Suraiya, Suresh}%
+\singer{Suraiya, Chorus}%
+\music{Sardul Kwatra}%
+\lyrics{Varma Malik}%
+%
+% Contributor: BOL ANAMOL #12558 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	( dil me.n uma.ng sajan
+	naino.n me.n ra.ng sajan
+	Dole hai a.ng\-a.ng zaalamaa
+
+ko \: ajii ho jii ho jii ho baalamaa ) \-2
+
+su \:	chun\-chun taare o chun\-chun taare
+	mai.n chunarii sajaa_uu.Ngii
+ ko \:	chunarii sajaa_uu.Ngii
+su \:	( gore gaalo.n pe gore\-gore gaalo.n pe
+	kaalakh lagaa_uu.Ngii
+ko \:	kaalakh lagaa_uu.Ngii ) \-2
+su \:	o banake pata.ng
+	u.Duu.N tere hii sa.ng aajaa
+	Dole hai a.ng\-a.ng zaalamaa
+ko \: 	ajii ho jii ho jii ho baalamaa
+
+su \:	dil me.n uma.ng sajan
+	naino.n me.n ra.ng sajan
+	Dole hai a.ng\-a.ng zaalamaa
+
+ko \: ajii ho jii ho jii ho baalamaa
+
+su \:	gin\-gin gha.Diyaa.N o gin\-gin gha.Diyaa.N
+	piyaa birahaa kaa a.nt hai
+ko \:	birahaa kaa a.nt hai
+su \:	( chorii\-chorii aa jaa piyaa chorii\-chorii aa jaa piyaa
+	aa gayaa basa.nt hai o
+ko \:	aa gayaa basa.nt hai ) \-2
+su \:	o Dole hai kaag
+	more jaage hai.n bhaag
+	dekho gaate hai raag\-ra.ng zaalamaa
+ko \: 	ajii ho jii ho jii ho baalamaa
+
+su \:	dil me.n uma.ng sajan
+	naino.n me.n ra.ng sajan
+	Dole hai a.ng\-a.ng zaalamaa
+
+ko \: ajii ho jii ho jii ho baalamaa
+%
+#endindian
+\endsong
+%
+

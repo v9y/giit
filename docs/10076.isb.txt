@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{pyaar mohabbat ishq ibaadat ... aur kare.n kyaa ab ke baras}%
+\film{Ab Ke Baras}%
+\year{2002}%
+\starring{Arya Babbar, Amrita Rao, Danny}%
+\singer{Udit Narayan, Anuradha Paudwal, Chorus/ Sonu Nigam, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+pyaar mohabbat ishq ibaadat
+aur kare.n kyaa ab ke baras
+tum jo mile ho sab kuchh milaa hai
+aur kyaa chaahe.n ab ke baras
+
+maine bhii kyaa khvaab sunaharaa dekhaa
+har chehare me.n teraa cheharaa dekhaa
+patajha.D bahaar basa.nt yaa barasaate.n
+sab mausam karate hai.n terii baate.n
+tere naam kar dii maine saarii zi.ndagaanii
+mere har fasaane me.n hai terii kahaanii
+mai.n bhii to ban baiThii huu.N terii diivaanii
+aa jii le.n mar le.n had se guzar le.n
+aur kare.n kyaa ab ke baras
+pyaar mohabbat \threedots
+
+prem kaa ra.ng hai aisaa jo na chhuuTe
+Dor vafaa kii jiivan bhar naa TuuTe
+betaabii tanhaa_ii pyaasii raate.n
+jaan\-e\-man sab hai.n terii saugaate.n
+bekaraariyo.n kii haalat kaise mai.n bataa_uu.N
+u.Ngalii pe gin gin ke din ab mai.n bitaa_uu.N
+chaahat yahii hai tujhako dulhan banaa_uu.N
+o hamajolii rasmo.n kii Dolii
+le ke tuu aajaa ab ke baras
+pyaar mohabbat \threedots
+%
+%Part 2:
+%
+kitane sadame.n kitane aa.Nsuu jhele
+ham dono.n to baraso.n rahe akele
+socho jo biitii baate.n a.Nkh bhar aa_ii
+dil pe lagaa_e pahare kaisii Kudaa_ii
+hamako judaa_ii yaaraa kitanaa rulaa_ii
+pyaar mohabbat \threedots
+
+pyaar kii khaatir kam thaa jiivan yaaraa
+isali_e aa_e duniyaa me.n dobaaraa
+aa.Nkho.n se dil kii saarii baato.n ko bole.n
+aajaa gale se lag ke ham aaj ro le.n
+phir naa judaa ho.n aise ham ek ho le.n
+pyaar mohabbat \threedots
+%
+#endindian
+\endsong
+

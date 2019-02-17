@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{mohe baa.Nkaa balam lage piyaaraa}%
+\film{Bela}%
+\year{1947}%
+\starring{Nigar, Jairam, Shrinath Tripathi, Krishna Kumari}%
+\singer{Zohra Bai, Chorus}%
+\music{Bulo C Rani}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12018 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	mohe baa.Nkaa balam lage piyaaraa \-2
+zo \:	( nanadii parades na jaane de
+ko \:	baa.Nkaa balam lage piyaaraa ) \-2
+zo \:	mohe baa.Nkaa balam lage piyaaraa
+
+	kaalii\-kaalii raat jiyaa Dag\-mag Dolegaa
+	ho kaalii\-kaalii raat jiyaa Dag\-mag Dolegaa
+ko \:	Dag\-mag Dolegaa
+zo \:	ho miiThe\-miithe bol un bin kaun bolegaa
+	miiThe\-miithe bol un bin kaun bolegaa
+	suunaa diikhegaa jag saaraa
+ko \:	suunaa diikhegaa jag saaraa
+
+zo \:	nanadii parades na jaane de
+ko \:	baa.Nkaa balam lage piyaaraa
+zo \:	mohe baa.Nkaa balam lage piyaaraa
+ko \:	mohe baa.Nkaa balam lage piyaaraa
+
+zo \:	saa.Nwalii ghaTaaye.n jab ghir\-ghir aaye.ngii
+	ho saa.Nwalii ghaTaaye.n jab ghir\-ghir aaye.ngii
+	bhesh biiraane (?) le ke man kaa jagaaye.ngii \-2
+	aise me.n unakaa ba.Daa sahaaraa
+ko \:	aise me.n unakaa ba.Daa sahaaraa
+
+zo \:	nanadii parades na jaane de
+ko \:	baa.Nkaa balam lage piyaaraa
+zo \:	mohe baa.Nkaa balam lage piyaaraa
+ko \:	mohe baa.Nkaa balam lage piyaaraa
+zo \:	nanadii parades na jaane de
+ko \:	baa.Nkaa balam lage piyaaraa
+%
+#endindian
+\endsong
+

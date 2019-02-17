@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kitane dino.n ke baad mile ho}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	kitane dino.n ke baad mile ho zaraa bataa_o mujhe sanam \-2
+	itane din tum kahaa.N rahe \-2
+ku \:	kitane dino.n ke baad mile ho puuchh rahaa hai ye mausam \-2
+	itane din tum kahaa.N rahe \-2
+
+	ek din bhii aisaa na gayaa maine tujhe yaad na kiyaa ho \-2
+	ek pal aisaa na rahaa jo maine teraa dard na liyaa ho
+	ab mujhase duur na jaanaa
+a \:	kitane dino.n ke baad \threedots
+ku \:	kitane dino.n ke baad \threedots
+
+a \:	merii to subah aur shaam tere intazaar me.n kaTii hai.n
+	tanhaa judaa_ii kii gha.Dii tere hasii.n pyaar me.n kaTii hai
+	saathiyaa phir mujhe na yuu.N ta.Dapaanaa
+ku \:	kitane dino.n ke baad \threedots
+a \:	kitane dino.n ke baad \threedots
+%
+#endindian
+\endsong
+

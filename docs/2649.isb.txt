@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{meraa pyaar mujhe lauTaa do}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+meraa pyaar mujhe lauTaa do
+mai.n jiivan me.n ulajh gayaa huu.N
+tum jiinaa sikhalaa do
+meraa pyaar mujhe lauaa do \threedots
+
+Thukaraane se pahale mujhako 
+lauTaa do vo priit kii baate.n
+merii ha.Nsii mastiyaa.N merii
+lauTaa do vo chaa.Ndanii raate.n
+mere sapano.n ko lauTaa do
+meraa TuuTaa dil lauTaa do
+meraa pyaar mujhe lauaa do \threedots
+
+mai.n ne jis ko jiivan samajhaa
+tumane usakii ha.Nsii u.Daayii
+dikhaa dikhaa phuulo.n ke sapane
+mujhako kaa.Nto.n kii raah bataayii
+meraa apanaapan lauTaa do
+mere giit mujhe lauTaa do
+meraa pyaar mujhe lauTaa do \threedots
+
+%
+#endindian
+\endsong
+%

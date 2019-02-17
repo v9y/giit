@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{jo mai.n hotaa ek TuuTaa huaa taaraa}%
+\film{Chhupa Rustom}%
+\year{1973}%
+\starring{Dev Anand, Hema Malini, Vijay Anand}%
+\singer{Kishore, Asha}%
+\music{S D Burman}%
+\lyrics{Vijay Anand}%
+% 
+% Contributor: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/26/1996
+%
+\printtitle
+#indian
+%
+ki: jo mai.n hotaa ek TuuTaa huaa taaraa
+    terii raato.n kaa, raato.n kaa, to kyaa hotaa
+aa: jo mai.n hotii ek koii bhaTakii kiraN
+    us taare kii, us taare kii, to kyaa hotaa
+
+dono.n: banate sa.ng sa.ngaa, miTate sa.ng\-sa.ng
+    jiite sa.ng sa.ngaa, marate sa.ng\-sa.ng
+
+aa: jo mai.n hotii u.Dii\-u.Dii nii.nde.n
+    terii aa.Nkho.n kii, aa.Nkho.n kii, to kyaa hotaa
+ki: jo mai.n hotaa miiThaa\-miiThaa sapanaa
+    un nii.ndo.n kaa, nii.ndo.n kaa, to kyaa hotaa
+
+dono.n: banate sa.ng\threedots
+
+ki: jo mai.n hotaa qismat kaa likhaa
+    tere haatho.n kaa, haatho.n kaa, to kyaa hotaa
+aa: jo mai.n hotii chhupaa\-chhuptaa matalab
+    tere baato.n kaa, tere baato.n kaa re, to kyaa hotaa
+
+dono.n: banate sa.ng\threedots
+%
+#endindian
+\endsong
+%
+

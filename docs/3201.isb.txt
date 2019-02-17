@@ -1,0 +1,48 @@
+% 
+\startsong
+\stitle{shyaamal shyaamal baran}%
+\film{Navrang}%
+\year{1959}% 
+\starring{Sandhya}%
+\singer{Mahendra Kapoor}%
+\music{C Ramchandra}%
+\lyrics{Bharat Vyas}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+shyaamal shyaamal baran
+komal komal charaN
+tere mukha.De pe cha.ndaa gagan kaa ja.Daa
+ba.De man se vidhaataa ne tujh ko ga.Dhaa
+
+tere baalo.n me.n simaTii saavan kii ghaTaa, aa~
+tere gaalo.n pe chhiTakii puunam kii chhaTaa, o puunam kii chhaTaa
+tiikhe tiikhe nayan
+miiThe miiThe bayan
+tere a.ngo.n pe champaa kaa ra.ng cha.Dhaa
+ba.De man se vidhaataa ne \threedots
+
+o~, ye umar ye kamar sau sau bal khaa rahii
+terii tirachhii nazar tiir barasaa rahii
+naazuk naazuk badan
+dhiime dhiime chalan
+terii baa.Nkii lachak me.n hai jaaduu ba.Daa
+ba.De man se vidhaataa ne \threedots
+
+kis paaras se sonaa ye Takaraa gayaa
+tujhe rach ke chiteraa bhii chakaraa gayaa
+na idhar jaa sakaa
+na udhar jaa sakaa
+dekhataa rah gayaa vo kha.Daa hii kha.Daa
+ba.De man se vidhaataa ne \threedots
+
+%
+#endindian
+\endsong
+%

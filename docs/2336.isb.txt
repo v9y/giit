@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ham tere pyaar me.n saaraa aalam kho baiThe}%
+\film{Dil Ek Mandir}%
+\year{1963}%
+\starring{Meena Kumari, Rajendra Kumar, Rajkumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham tere pyaar me.n saaraa aalam kho baiThe
+tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao
+ham tere pyaar me.n saaraa aalam   \threedots
+
+pa.nchii se chhu.Daakar apanaa ghar, tum apane ghar me.n le aaye
+ye pyaar kaa pi.najaraa man bhaayaa, ham bhar bhar ke muskaaye
+jab pyaar huaa is pi.njare se, tum kahane lage aazaad raho
+ham kaise bhulaaye.n pyaar teraa, tum apanii zubaa.N se ye na kaho
+
+ik pyaar kaa ... dekhaa thaa, ik pyaar kaa ... to.D diyaa
+hamane to ..., ab ... ... jo.D diyaa
+is pyaar ke ga.ngaa jal me.n balam jii ham tan man apanaa dho baiThe
+tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao   \threedots
+
+jab hii to suhaagan kahalaayii, duniyaa ke nazar me.n pyaar banii
+tum pyaar kii sundar muurat ho, aur pyaar hamaarii puujaa hai
+ab in charaNo.n me.n dam nikale, bas itanii aur tamannaa hai
+o pyaar ke saagar ham terii laharo.n me.n naav Dubo baiThe
+tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao   \threedots
+
+%
+#endindian
+\endsong
+%

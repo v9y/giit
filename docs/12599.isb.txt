@@ -1,0 +1,84 @@
+
+%
+\startsong
+\stitle{tum\-tum taraaraa ... chanaa jor garam baabuu}%
+\film{Kraanti}%
+\year{1981}%
+\starring{Dilip Kumar, Manoj Kumar, Hema Malini, Shatrughan Sinha, Shashi Kapoor,  Parveen Babi}%
+\singer{Rafi, Kishore, Lata, Nitin Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: BOL ANAMOL #11618 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	tum\-tum taraaraa tum\-tum taram
+ki \:	tum\-tum taraaraa tum\-tum taram
+la \:	tum\-tum taram\-taram
+ki \:	tum\-tum taram\-taram
+do \:	duniyaa ke ho.n laakh dharam par apanaa ek dharam
+	chanaa zor garam
+la \:	chanaa zor garam baabuu mai.n laa_ii mazedaar
+	chanaa zor garam
+ki \:	chanaa zor garam baabuu mai.n laayaa mazedaar
+	chanaa zor garam
+
+la \:	meraa chanaa banaa hai aalaa jisame.n Daalaa garam\-masaalaa
+	isako khaa_egaa dilavaalaa chanaa zor garam
+ki \:	meraa chanaa khaa gayaa goraa\-goraa
+	khaa ke ban gayaa taga.Daa gho.Daa
+	maine paka.D ke use maro.Daa
+	maar ke Ta.nga.Dii usako to.Daa
+	chanaa zor garam
+	chanaa zor garam baabuu \threedots
+
+la \:	mere chane kii aa.Nkh sharaabii\-sharaabii chane kii aa.Nkh sharaabii
+	ho isake dekho gaal gulaabii\-gulaabii dekho gaal gulaabii
+ki \:	ho isakaa ko_ii nahii.n javaabii jaise ko_ii ku.Dii pa.njaabii
+do \:	naache chhanan\-chhanan \-2
+la \:	koThe cha.Dh ke tainuu pukaaraa.n sun le mere balam
+	chanaa zor garam baabuu \threedots
+
+ni \:	meraa chanaa khaa ga_e gore\-gore
+	meraa chanaa khaa ga_e gore o gore
+	jo ginatii me.n the tho.De
+	o phir bhii maare.n hamako ko.De
+la \:	tum\-tum taram\-taram
+ni \:	laakho.n ko.De TuuTe phir bhii TuuTaa na dam\-kham
+	chanaa zor garam
+	chanaa zor garam baabuu \threedots
+
+ra \:	o meraa chanaa hai apanii marzii kaa
+ni \:	marzii kaa bha_ii marzii kaa
+ra \:	meraa chanaa hai apanii marzii kaa
+ni \:	marzii kaa bha_ii marzii kaa
+ra \:	ye dushman hai Kudagarzii kaa
+	Kudagarzii kaa
+ni \:	Kudagarzii kaa
+ra \:	sar qafan baa.Ndh kar nikalaa hai diivaanaa hai ye pagalaa hai
+	meraa chanaa hai apanii marzii kaa
+ni \:	marzii kaa bha_ii marzii kaa
+	apano.n se naataa jo.Degaa Gairo.n ke sar ko pho.Degaa
+	apanaa ye vachan nibhaa_egaa maaTii kaa karz chukaa_egaa
+
+ra \:	miT jaane ko miT jaa_egaa aazaad vatan ko karaa_egaa
+la \:	na to chorii hai na to Daakaa hai bas ye to ek dhamaakaa hai
+ni \:	dhamaake me.n aavaaz bhii hai
+la \:	ik soz bhii hai ik saaz bhii hai
+ki \:	samajho to ye baat saaf bhii hai
+la \:	aur na samajho to raaz bhii hai
+ra ni \:	apanii dharatii apanaa hai gagan ye meraa hai meraa hai vatan \-2
+	is par jo aa.Nkh uThaa_egaa zindaa dafanaayaa jaa_egaa
+ra \:	meraa chanaa hai apanii marzii kaa
+ko \:	marzii kaa bha_ii marzii kaa
+ra \:	ye dushman hai Kudagarzii kaa
+ko \:	Kudagarzii kaa Kudagarzii kaa
+%
+#endindian
+\endsong
+

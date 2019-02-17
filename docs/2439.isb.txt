@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{duniyaa kare savaal to ham kyaa javaab de.n}%
+\film{Bahu Begum}%
+\year{1967}%
+\starring{Meena Kumari}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+duniyaa kare savaal to ham kyaa javaab de.n
+tumako na ho Kayaal to ham kyaa javaab de.n
+duniyaa kare savaal   \threedots
+
+puuchhe koii ki dil ko kahaa.N chho.D aaye hai.n
+kis kis se apanaa rishtaa\-e-jaa.N to.D aaye hai.n
+mushakil ho arz\-e-\haal to ham kyaa javaab de.n
+tumako na ho Kayaal to   \threedots
+
+puuchhe koii ki dard\-e-\vafaa kaun de gayaa
+raato.n ko jaagane kii sazaa kaun de gayaa
+kahane se ho malaal to ham kyaa javaab de.n
+tumako na ho Kayaal to   \threedots
+
+%
+#endindian
+\endsong
+%

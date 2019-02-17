@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil kii aavaaz bhii sun, mere fasaane pe na jaa}%
+\film{Hamsaaya}%
+\year{1968}%
+\starring{Joy Mukherjee, Mala Sinha, Sharmila Tagore}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dil kii aavaaz bhii sun mere fasaane pe na jaa
+merii nazaro.n kii taraf dekh zamaane pe na jaa
+
+ik nazar fer le jiine kii ijaazat de de
+ruuThane vaale vo pahalii sii muhabbat de de
+(ishq maasuum hai \- 2), ilazaam lagaane pe na jaa
+
+vaqt inasaan pe aisaa bhii kabhii aataa hai
+raah me.n chho.Dake saayaa bhii chalaa jaataa hai
+(din bhii nikalegaa kabhii \- 2), raat ke aane pe na jaa
+
+mai.n haqiiqat huu.N ye ik roz dikhaauu.Ngaa tujhe
+begunaahii pe muhabbat kii rulaauu.Ngaa tujhe
+daag dil ke nahii.n miTate hai.n miTaane pe na jaa
+%
+#endindian
+\endsong
+%

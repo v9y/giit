@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{dil le ke chhupane waale tuu hai kahaa.N bataa de}%
+\film{Paras}%
+\year{1949}%
+\starring{Kamini Kaushal, Madhubala, Rehman}%
+\singer{Rafi, Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12302 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+ra \:	dil le ke chhupane waale
+	( dil le ke chhupane waale
+	tuu hai kahaa.N bataa de ) \-2
+	suurat nahii.n dikhaataa
+	aawaaz hii sunaa de
+la \: o dil me.n basane waale
+	( o dil me.n basane waale
+	nazare.n zaraa uThaa de ) \-2
+	aur chaa.Nd ban ke merii
+	duniyaa ko jagamagaa de
+ra \:	dil le ke chhupane waale
+
+ra \:	tujhako merii qasam hai
+	mil kar judaa na honaa
+la \:	duniyaa hazaar chaahe
+	tuu bewafaa na honaa
+ra \:	aa.Nkho.n me.n aas le kar
+	jiiwan ke din bitaa de
+la \:	aisaa na ho ke duniyaa
+	tujh se hame.n u.Daa de
+ra \:	dil le ke
+	o o dil le ke
+la \: 	ho o
+do \:	dil le ke chhupane waale
+	tuu hai kahaa.N bataa de
+	dil le ke chhupane waale
+%
+#endindian
+\endsong
+%
+

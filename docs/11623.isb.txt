@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{dhuup me.n nikalaa na karo ruup kii raanii}%
+\film{Giraftaar}%
+\year{1985}%
+\starring{Amitabh Bachchan, Madhavi, Kamal Haasan, Poonam Dhillon}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10073 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	dhuup me.n nikalaa na karo ruup kii raanii
+	goraa ra.ng kaalaa naa pa.D jaa_e \-2
+	mast mast aa.Nkho.n se chhalakaa_o na madiraa
+	madhushaalaa me.n taalaa na pa.D jaa_e
+	dhuup me.n nikalaa na \threedots
+
+	tum jo thak ga_ii ho to baa.Nho.n me.n uThaa le.n \-2
+	huqm do hame.n to abhii paalakii laa de.n
+	pa.nth hai pathariilaa paidal na chalo tum \-2
+	kahii.n paa.Nv me.n chhaalaa na pa.D jaa_e
+	dhuup me.n nikalaa na \threedots
+
+aa \:	dhuup ho yaa chhaa.Nv sajan mai.n to aa_uu.Ngii \-2
+	tumase milane aag pe bhii chal ke aa_uu.Ngii
+	ek pal bhii tanhaa tumhe.n chho.Duu.N to kaise \-2
+	kisii sautan se paalaa na pa.D jaa_e
+ki \:	dhuup me.n nikalaa na \threedots
+%
+#endindian
+\endsong
+

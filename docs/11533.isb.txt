@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tujhe dekh ke dha.Dakataa hai dil}%
+\film{Ghaat}%
+\year{2000}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Pankaj Udhaas, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhe dekh ke dha.Dakataa hai dil tere dard kaa mujhako ehasaas hai ehasaas hai
+terii aashiqii merii zi.ndagii ho.nTho.n pe mere terii pyaas hai terii pyaas hai
+
+tujhe dekh ke dha.Dakataa hai dil mere dard kaa tujhako ehasaas hai ehasaas hai
+terii aashiqii merii \threedots
+
+tamannaa yahii hai jaan\-e\-vafaa tere pyaar ko mai.n nayaa naam duu.n
+chhupaa luu.n tujhe zulfo.n tale gha.Dii do gha.Dii tujhako aaraam duu.n aaraam duu.n
+mujhe ishq me.n milii bekhudii meraa chain dilabar tere paas hai
+tujhe dekh ke dha.Dakataa \threedots
+
+kabhii ek pal hoke judaa maine akele guzaaraa nahii.n
+mai.n tere binaa zi.ndaa rahuu.n merii chaahato.n ko gavaaraa nahii.n  gavaaraa nahii.n
+merii jaan me.n terii jaan hai terii saa.Ns me.n merii saa.Ns hai
+tujhe dekh ke dha.Dakataa \threedots
+%
+#endindian
+\endsong
+

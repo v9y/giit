@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mujhe mil gayaa bahaanaa terii diid kaa}%
+\film{Barsaat Ki Raat}%
+\year{1960}%
+\starring{Bharat Bhushan, Madhubala}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+mujhe mil gayaa bahaanaa terI diid kA 
+kaisI khushii leke AyA chaa.Nd, iid kA 
+mujhe mil gayaa bahaanaa terI diid kA \- 2
+
+zulf machalake khul khul jaaye 
+chaal me.n mastii ghul ghul jaaye, ghul ghul jaaye 
+aisI khushI aaj milii aaj milii aisI khushI 
+aa.Nkho.n mai.n naam nahii.n, nii.nd kA 
+mujhe mil gayaa bahaanaa \threedots
+
+jaagatii aa.Nkhe.n bunatii hai.n sapane 
+tujhako biThaake pahaluu me.n apane, pahaluu me.n apane 
+dil kii lagI aisI ba.Dii aisI ba.DI dil kii lagI 
+aa.Nkho.n mai.n naam nahii.n nii.nd kA 
+mujhe mil gayaa bahaanaa terI diid kA 
+kaisI khushii leke AyA chaa.Nd iid kA 
+mujhe mil gayaa bahaanaa terI diid kA 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+% ITRANS SONG # 3392; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-11-22 00:46:25 PST                               
+%
+\startsong
+\stitle{ko_ii kisii kaa dard na jaane}%
+\film{Siskiyaan}%
+\year{1950s Not Released}%
+\starring{Shriram, Naaz Merathi, Madhuraj, Maajid Merathi}%
+\singer{Raagi, Kishori}%
+\music{Raagi-Raajan}%
+\lyrics{Naaz Merathi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date:  22 Nov 2002
+% Credits: Snehal Oza
+% Comments: Raagi is Kewal Singh Raagi.
+%    Kishori is probably his sister.
+%
+\printtitle
+#indian
+%
+rA: ko_ii kisii kaa dard na jaane, haa_e
+ki: apane ho yaa ho begaane, haa_e
+
+rA: kyuu.N bha.Nvaraa kaliyo.n se milataa hai
+     kyuu.N diipak bujh bujh ke jalataa hai
+     kyuu.N jal marate hai.n parawaane
+ki: ko_ii kisii kaa   \threedots
+
+ki: jiivan hai ek ra.ngiin sapanaa
+     is duniyaa me.n ko_ii na apanaa, haay
+     sab matalab ke hai.n diiwaane
+rA: ko_ii kisii kaa   \threedots
+
+rA: duniyaa hai do din kaa melaa
+ki: muurakh tuu jaa_egaa akelaa, haay
+rA: chho.D ke bastii are viraane
+dono.n: ko_ii kisii kaa   \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{pyaar kii qasam hai na dekh aise pyaar se}%
+\film{Dil Deke Dekho}%
+\year{1959}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi, Asha}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10455 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	pyaar kii qasam hai na dekh aise pyaar se
+aa \:	ho tuu meraa sanam hai kahuu.Ngii mai.n pukaar ke
+ra \:	pyaar kii qasam hai \threedots
+
+aa \:	pyaar kii adaa hai zindagii
+ra \:	Gam kii bhii sadaa hai zindagii
+aa \:	o o ho ho
+ra \:	ho o ho ho
+aa \:	Gam sahuu.Ngii chaah me.n terii
+ra \:	jii qasam to khaa_i_e merii
+aa \:	terii qasam chaman merii bahaar ke
+ra \:	pyaar kii qasam hai \threedots
+
+aa \:	lab pe hai khilaa gulaab saa
+ra \:	aa.Nkh me.n hasiin Kvaab saa
+aa \:	o o ho ho
+ra \:	ho o ho ho
+aa \:	jo hasii.n na ho vah Kvaab kyaa
+ra \:	kho na jaa_e vo shabaab kyaa
+aa \:	kahe ki chal yahii hai.n din khumaar ke
+ra \:	pyaar kii qasam hai \threedots
+%
+#endindian
+\endsong
+

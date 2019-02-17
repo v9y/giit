@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{alabelaa sajan aayo rii}%
+\film{Hum Dil De Chuke Sanam}%
+\year{1999}%
+\starring{Ajay Devgan, Salman Khan, Aishwarya Rai, Helen}%
+\singer{Sultan Khan, Shankar Mahadevan, Kavita Subramaniam}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+alabelaa sajan aayo rii
+alabelaa sajan \threedots
+
+mora har man sukh paayo rii
+alabelaa sajan \threedots
+
+alabelaa alabelaa alabelaa alabelaa alabelaa alabelaa
+alabelaa sajan \threedots
+dhiir naa naa 
+chaukii puraa_o ma.ngal gaavo
+chaukii puraa_o ma.ngal gaavo
+man ra.ng nis paayo rii
+
+alabelaa sajan \threedots
+alabelaa sajan \threedots
+%
+#endindian
+\endsong
+

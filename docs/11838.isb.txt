@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{o sunataa jaa dil kaa naGmaa pyaar kii dhun par}%
+\film{Halaaku}%
+\year{1956}%
+\starring{Ajit, Meena Kumari, Veena, Pran}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10834 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+o sunataa jaa \-2
+dil kaa naGmaa pyaar kii dhun par o sitamagar
+o sunataa jaa \threedots
+
+tuu hai mere saamane to aaj kii mahafil hai javaa.N
+jaane phir aa_e naa aa_e bahaaro.n kaa samaa.N
+o sunataa jaa \threedots
+
+pyaar ke is khel me.n dil teraa jaa_e naa jal
+dekh laharaatii shamaa huu.N tuu bhii paravaane sa.mbhal
+o sunataa jaa \threedots
+%
+#endindian
+\endsong
+

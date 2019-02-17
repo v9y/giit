@@ -1,0 +1,75 @@
+
+%
+\startsong
+\stitle{kaisii diivaanagii hai ... o tujh par gagan se ... sab TuuT gayaa}%
+\film{Chalte Chalte}%
+\year{2003}%
+\starring{Shahrukh Khan, Rani Mukherjee}%
+\singer{Sukhvinder Singh, Preeti, Pinky}%
+\music{Aadesh Shrivastava}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11728 [V S Rawat]
+% Producer: Dreamz Unlimited, UTV Motion Pictures, Director: Aziz Mirza
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3373 Gold Stereo, Cost: Rs 55/-, CD: 112053 CDF, Cost: Rs 125/-
+% Site: www.chaltechalte.com
+% 
+\printtitle
+#indian
+%
+prii \:	kaisii diivaanagii hai \-3
+	sab kuchh ko_ii bhulaa ke
+	nikalaa hai ghar jalaa ke
+	kaisii diivaanagii hai
+
+su \:	( o tujh par gagan se barasii agan kyuu.N hai
+	paayaa chaman se kaa.NTo.n kaa ban kyuu.N hai ) \-2
+	kyaa hai ulajhan haaraa kyuu.N man thakaa hai kyuu.N tan re
+	
+ko \:	sab TuuT gayaa sab chhuuT gayaa ko_ii luuT gayaa jaise
+	ko_ii chho.D gayaa dil to.D gayaa jha.Njho.D gayaa jaise
+	sab TuuT gayaa
+	sab chhuuT gayaa 
+	sab TuuT gayaa sab chhuuT gayaa ko_ii luuT gayaa jaise
+	ko_ii chho.D gayaa dil to.D gayaa jha.Njho.D gayaa jaise
+su \:	o tujh par gagan se barasii agan kyuu.N hai
+	paayaa chaman se kaa.NTo.n kaa ban kyuu.N hai
+
+	ho pyaasii havaa_e.N jalatii dishaa_e retii kii hai.n saarii ghaTaa_e.N
+	o ret jo barase to ye man tarase lauT ke jaa_e.N kaise idhar se
+ko \:	ab jaa_o jidhar dekhoge udhar sunasaan nagar saare
+	dil biga.D ga_e baaG uja.D ga_e desh ukha.D ga_e saare
+	ab jaa_o jidhar
+	dekhoge udhar 
+	ab jaa_o jidhar dekhoge udhar sunasaan nagar saare
+	dil biga.D ga_e baaG uja.D ga_e desh ukha.D ga_e saare
+su \:	ho o tujh par gagan se barasii agan kyuu.N hai
+	paayaa chaman se kaa.NTo.n kaa ban kyuu.N hai
+
+prii \:	kaisii diivaanagii hai \-3
+	sab kuchh ko_ii bhulaa ke
+	nikalaa hai ghar jalaa ke
+	kaisii diivaanagii hai re
+
+su \:	jiinaa sitam hai ummiid kam hai bas ik dil hai aur itanaa Gam hai
+	kaalii hai.n raate.n ka.Davii hai.n baate.n dil khaa rahaa hai maato.n pe maate.n
+ko \:	ab yahaa.N\-vahaa.N tuu jaa_e jahaa.N vo pyaar kahaa.N pyaare
+	vo apano.n kaa vo sapano.n kaa sa.nsaar kahaa.N pyaare
+	ab yahaa.N\-vahaa.N
+	tuu jaa_e jahaa.N
+	ab yahaa.N\-vahaa.N tuu jaa_e jahaa.N vo pyaar kahaa.N pyaare
+	vo apano.n kaa vo sapano.n kaa sa.nsaar kahaa.N pyaare
+su \:	ho tujh par gagan se barasii agan kyuu.N hai
+	paayaa chaman se kaa.NTo.n kaa ban kyuu.N hai
+	kyaa hai ulajhan haaraa kyuu.N man jhukaa hai kyuu.N tan re
+ko \:	sab TuuT gayaa sab chhuuT gayaa ko_ii luuT gayaa jaise
+	ko_ii chho.D gayaa dil to.D gayaa jha.Njho.D gayaa jaise
+	sab TuuT gayaa
+	sab chhuuT gayaa
+	sab TuuT gayaa sab chhuuT gayaa ko_ii luuT gayaa jasie
+	ko_ii chho.D gayaa dil to.D gayaa jha.Njho.D gayaa jaise
+%
+#endindian
+\endsong
+

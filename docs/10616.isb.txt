@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{mai.n raahii bhaTakane vaalaa huu.N}%
+\film{Baadal}%
+\year{1951}%
+\starring{Premnath, Madhubala}%
+\singer{Mukesh}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10812 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mai.n raahii bhaTakane vaalaa huu.N
+ko_ii kyaa jaane matavaalaa huu.N
+
+ye mast ghaTaa merii chaadar hai
+ye dharatii meraa bistar hai
+mai.n raat me.n din kaa ujaalaa huu.N
+ko_ii kyaa jaane \threedots
+
+ye bijalii raat dikhaatii hai
+ma.nzil pe mujhe pahu.Nchaatii hai
+mai.n tuufaano.n kaa paalaa huu.N
+ko_ii kyaa jaane \threedots
+
+mai.n machaluu.N to ik aag bhii huu.N
+mai.n jhuumuu.N to ik raag bhii huu.N
+duniyaa se duur niraalaa huu.N
+ko_ii kyaa jaane \threedots
+%
+#endindian
+\endsong
+

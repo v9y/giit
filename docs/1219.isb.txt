@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{mere sapano.n kii raanii kab aayegii tuu}%
+\film{Aradhana}%
+\year{1969}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere sapano.n kii raanii kab aayegii tuu
+aaii rut mastaanii kab aayegii tuu
+biitii jaaye zi.ndaganii kab aayegii tuu
+chalii aa, aa tuu chalii aa \threedots
+
+phuul sii khil ke, paas aa dil ke
+duur se mil ke, chain naa aaye
+aur kab tak mujhe ta.Dapaayegii tuu
+mere sapano.n kii raanii kab aayegii tuu \threedots
+
+pyaar kii kaliyaa.N, baago.n kii galiyaa.N
+sab ra.ngaraliyaa.N, puuchh rahii.n hai.n
+giit panaghaT pe kis din gaayegii tuu
+mere sapano.n kii raanii kab aayegii tuu \threedots
+
+kyaa hai bharosaa, aashiq dil kaa
+aur kisii pe, ye aa jaaye
+aa gayaa to bahut pachhataayegii tuu
+mere sapano.n kii raanii kab aayegii tuu
+aaii rut mastaanii kab aayegii tuu
+biitii jaaye zi.ndagaanii kab aayegii tuu
+chalii aa, aa tuu chalii aa \threedots
+%
+#endindian
+\endsong
+%

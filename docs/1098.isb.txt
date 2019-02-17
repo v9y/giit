@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{mai.n Dhuu.NDhataa huu.N jinako raato.n ko khayaalo.n me.n}%
+\film{Thokar}%
+\year{1974}%
+\starring{Baldev Khosla, Alka, TunTun, Sunder, Mumtaz Begum, Poonam Vaidya}%
+\singer{Mukesh}%
+\music{Shamji Ghanshamji}%
+\lyrics{Saajan Dehlavi}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 17 1995
+% Credits: preetham@connectinc.com (Preetham Gopalaswamy)
+%	   daw601@anu.edu.au (David Windsor)
+%	   manojpai@ix.netcom.com (Namrata Ojha)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  Producer --> Movie Temple
+%
+\printtitle
+#indian
+%
+mai.n Dhuu.NDhataa huu.N jinako raato.n ko khayaalo.n me.n
+vo mujhako mil sake na subah ke ujaale me.n
+
+suhaanii pyaar kii baate.n, mere diladaar kii baate.n
+kabhii iqaraar kii baate.n, kabhii inakaar kii baate.n
+ek dard saa chhupaa hai, dil ke hasii.n chhaalo.n me.n
+mai.n Dhuu.NDhataa huu.N\threedots
+
+jo yuu.N barabaad hote hai.n, vo kab aabaad hote hai.n
+dil\-e\-naashaad hote hai.n, vo ek fariyaad hote hai.n
+ulajhaa huaa huu.N kabase, Gam ke ajiib jaalo.n me.n
+mai.n Dhuu.NDhataa huu.N\threedots
+%
+#endindian
+\endsong
+%

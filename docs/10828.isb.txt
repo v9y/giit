@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil chorii saaDDaa ho gayaa oy kii kariye}%
+\film{Chorani (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Shaam Balkar}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+dil chorii saaDDaa ho gayaa oy kii kariye kii kariye
+naino.n me.n kisii ke kho gayaa oy kii kariye kii kariye
+o ##madam## terii chaal tere silkii silkii baal
+ab mai.n isase zyaadaa kyaa kahuu.n
+mai.n nashe me.n Tallii ho gayaa oy kii kariye kii kariye
+dil chorii saaDDaa \threedots
+
+najaraa.n de vaar naa kar nii saanuu.n bekaraar naa kar nii
+dil ho gayaa nii bekaabuu haay chal gayaa teraa jaaduu he he
+dil nikal ke saaDDaa o gayaa oy kii kariye kii kariye
+dil chorii saaDDaa \threedots
+
+pahale hii ke.Dii ghaT sii je.Dii mukha.De utte laT sii
+duujaa ai mast adaavaa.n mai.n ke.De paase jaavaa.n hoy
+nahale pe dahalaa ho gayaa oy kii kariye kii kariye
+dil chorii saaDDaa \threedots
+
+huN ke.Dii gal daa shikavaa aa baN jaa merii mitavaa
+kaanuu.n sharamaa_ii jaave palakaa.n nuu.n jhukaa_ii jaave oy
+ho hoNaa sii o ho gayaa oy kii kariye kii kariye
+dil chorii saaDDaa \threedots
+%
+#endindian
+\endsong
+

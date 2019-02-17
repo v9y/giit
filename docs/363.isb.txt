@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chal rii sajanii ab kyaa soche, kajaraa naa baha jaaye rote rote}%
+\film{Bambai Ka Babu}%
+\year{1960}%
+\starring{Dev Anand, Suchitra Sen}%
+\singer{Mukesh}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Arati Deo 
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chal rii sajanii ab kyaa soche  \- (2)
+kajaraa naa baha jaaye rote rote
+chal rii sajanii ab kyaa soche
+
+(baabul pachhataae haatho.n ko mal ke 
+kaahe diyaa parades Tuka.De ko dil ke  ) \- 2
+aa.NsU liye, soch rahaa, duur kha.Daa re
+chal rii sajanii \threedots
+
+mamataa kaa aa.Ngan, gu.Diyo.n kaa ka.nganaa
+chhoTii ba.Dii sakhiyaa.N, ghar galI a.nganA 
+chhUT gayaa, chhUT gayaa, chhUT gayaa re
+chal rii sajanii \threedots
+
+(dulhan banake gorii kha.Dii hai 
+koii nahii apanaa kaisii gha.Dii hai  ) \- (2)
+koii yahaa.N, koii vahaa.N, koii kahaa.N re
+
+chal rii sajanii ab kyaa soche
+kajaraa naa baha jaaye rote rote
+chal rii sajanii ab kyaa soche
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mere li_e zaruurii mere li_e pyaar teraa sajanaa}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	mere li_e zaruurii mere li_e pyaar teraa sajanaa pyaar teraa
+	aa_uu.Ngii mai.n lauT ke aa_uu.Ngii mai.n jab bhii mujhe tuu degaa sadaa
+
+	rah na sakuu.N tere bin rah na sakuu.N hoke judaa mai.n tujhase judaa
+	saath teraaa zaruurii saath teraa saa.Nso.n ko jaise zaruurii havaa
+
+	tuu paas hai to dilabar kis baat kii kamii hai
+	zindaa rahane ko mere teraa pyaar laazamii hai
+
+ku \:	tuu apanii or harapal mere dil ko khii.nchatii hai
+	zulfo.n ke baadalo.n me.n meraa jiivan sii.nchatii hai
+
+	suuraj naa ho ambar me.n to chaa.Nd kyaa chamakegaa
+	jo tuu naa ho to hamadam meraa dam naa chal sakegaa
+
+	hai sitaar tere tan me.n baato.n me.n raaginii hai
+	tere chehare kii badaulat duniyaa me.n chaa.Ndanii hai
+%
+#endindian
+\endsong
+

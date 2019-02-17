@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kataraa kataraa milatii hai}%
+\film{Ijaazat}%
+\year{}%
+\starring{Nasseruddin Shah, Rekha, Anuradha Patel}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Tanvi (tanvi@utxvms.cc.utexas.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: K Vijay Kumar
+% Editor:  
+%
+\printtitle
+#indian
+%
+kataraa kataraa milatii hai
+kataraa kataraa jiine do
+zi.ndagii hai, bahane do
+pyaasii huu.N mai.n pyaasii rahane do
+
+tumane to aakAsh bichhAyA
+mere na.nge pairo.n me.n zamiin hai
+dekhe to tumhArii aarazuu hai
+shAyad aise zindagI hasiin hai
+aarazuu me.n bahane do
+pyaasI huu.N mai.n pyaasI rahane do
+
+kal bhii to kuchh aisaa hii hu_aa thaa
+nii.nd me.n thii tumane jab chhu_aa thaa
+girate girate baaho.n me.n bachii mai.n
+sapane pe paa.Nv pa.D gayaa thaa
+sapano.n me.n rahane do
+pyaasii huu.N mai.n pyaasii rahane do
+%
+#endindian
+\endsong
+%

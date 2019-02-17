@@ -1,0 +1,46 @@
+% ITRANS SONG
+
+\startsong
+\stitle{bhaa_ii re ... mausam biitaa jaay}%
+\film{Do Beeghaa Zameen}%
+\year{1953}%
+\starring{Balraj Sahni, Nirupa Roy, Ratan Kumar, Meena Kumari}%
+\singer{Manna Dey, Lata, Chorus}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ma \:	bhaa_ii re
+	ga.ngaa aur jamunaa kii gaharii hai dhaar
+	aage yaa piichhe sabako jaanaa hai paar
+	
+	dharatii kahe pukaar ke, biij bichhaa le pyaar ke
+	mausam biitaa jaay, mausam biitaa jaay
+ko \:	mausam biitaa jaay, mausam biitaa jaay \-2
+ma \:	apanii kahaanii chho.D jaa, kuchh to nishaanii chho.D jaa
+	kaun kahe is or tuu phir aaye na aaye
+ko \:	mausam biitaa jaay, mausam biitaa jaay \-2
+
+la \:	terii raah me.n kaliyo.n ne nain bichhaaye
+	Daalii\-Daalii koyal kaalii tere giit gaaye
+	tere giit gaaye
+	apanii kahaanii chho.D jaa, kuchh to nishaanii chho.D jaa
+	kaun kahe is or tuu phir aaye na aaye
+ko \:	mausam biitaa jaay, mausam biitaa jaay \-2
+ma \:	ho bhaa_ii re
+	niilaa ambar muskaaye, har saa.Ns taraane gaaye
+	haay teraa dil kyo.n murajhaaye
+ko \:	ho ho ho ho ho
+	man kii banshii pe tuu bhii ko_ii dhun bajaa le bhaa_ii
+	tuu bhii muskuraa le
+ma, la \:	apanii kahaanii chho.D jaa, kuchh to nishaanii chho.D jaa
+	kaun kahe is or tuu phir aaye na aaye
+ma \:	ho bhaa_ii re, bhaa_ii re, bhaa_ii re, o o
+ko \:	mausam biitaa jaay, mausam biitaa jaay \-2
+
+#endindian
+\endsong

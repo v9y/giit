@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{vaadaa rahaa sanam, hon.nge judaa na ham (abhiijit \& alkaa)}%
+\film{Khiladi}%
+\year{}%
+\starring{Ayesha Julka, Akshya Kumar, Prem Chopada}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Jatin-Lalit}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor:  Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+alakaa: vaadaa rahaa sanam, ho.nge judaa na ham
+chaahe na chaahe zamaanaa
+hamaarii chaahato.n kaa 
+miT naa sakegaa fasaanaa
+
+abhiijiit: vaadaa rahaa sanam, ho.nge judaa na ham
+chaahe na chaahe zamaanaa
+hamaarii chaahato.n kaa 
+miT naa sakegaa fasaanaa
+
+alakaa: (in vaadiyo.n me.n yuu.n hii milate rahe.nge
+dil me.n vafaa ke diye jalate rahe.nge ) \- 2
+ye maa.Ngaa hai duaao.n me.n 
+kamii na ho vafaao.n me.n 
+rahe terii nigaaho.n me.n
+dekho na in fizaao.n me.n o jaane jaa.n
+hamaarii chaahato.n kaa \threedots
+
+abhiijiit: (kaisii udaasii tere chehare pe chhaa_ii
+kyaa baat hai jo terii aa.Nkh bhar aa_ii) \- 2
+dekho to kyaa nazaare hai.n
+tumhaarii tarah pyaare hai.n
+ha.nso na mere liye tum 
+sabhii to tumhaare hai.n o jaane jaa.n
+hamaarii chaahato.n kaa \threedots
+
+dono: vaadaa rahaa sanam, ho.nge judaa na ham
+chaahe na chaahe zamaanaa
+hamaarii chaahato.n kaa 
+miT naa sakegaa fasaanaa
+%
+#endindian
+\endsong
+%

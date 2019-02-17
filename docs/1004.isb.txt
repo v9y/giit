@@ -1,0 +1,68 @@
+%
+\startsong     
+\stitle{kis ne chilaman se maaraa, nazaaraa mujhe}%
+\film{Baat Ek Raat Ki}%
+\year{1962}%
+\starring{Dev Anand, Waheeda Rehman}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliteration: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+kis na \threedots chilaman se maaraa
+haay \threedots
+kis na chilaman se maaraa
+are, nazAraa mujhe kis na chilaman se maaraa
+nazAraa mujhe kis na chilaman se maaraa
+		
+bikhere baal jab vo \- 2
+bikhere baa \threedots l, jab vo
+aasamaano.n par ghaTaa jhuume
+chale jab
+chale jab, haay
+chale jab naasuut\-e\-zaalim
+qayaamat bhii qadam chuume \- 2
+haa, pag me.n paayal DhAlake
+ghuu.NghaT nayan jhukaae
+bin baadal kii daaminii \- 2
+chamakat laTakat jaay \- 3
+phir naa dekhaa haay
+phir naa dekhaa, naa dekhaa, naa dekhaa, naa dekhaa
+are phir naa dekhaa palaTake
+dubaaraa mujhe phir naa dekhaa palaTake
+dubaaraa mujhe kis na chilaman se \threedots haay \threedots
+kis na chilaman se maaraa
+	
+siine me.n dil hai, dil me.n daaG
+daaGo.n me.n so soz saadah\-e\-ishq
+siine me.n dil hai
+are vaah! siine me.n dil hai
+dil me.n daaG
+daaGo.n me.n so soz saadah\-e\-ishq
+
+pardaa vo pardaa hai dinha
+pardaa nashii.n kaa raaz\-e\-ishq
+pardaa vo pardaa
+arre vaah! pardaa vo pardaa
+vaah vaah! pardaa vo pardaa
+arre maulaah! pardaa vo pardaa
+pardaa vo pardaa hai dinha
+pardaa nashii.n kaa raaz\-e\-ishq
+jatan milan kaa jab karo
+naam pataa jab ho
+ek jhalak bas
+ek jhalak dikhalaayake kar gaI paagal moy
+kar gaI paagal moy!
+kar gaI paagal moy!!
+mere dil, mere dil, mere dil
+arre!!
+%
+#endindian
+\endsong
+%

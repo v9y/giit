@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ghar se taiyaar hoke kitthe chale o naale kalle kalle}%
+\film{Chorani (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Shaam Balkar}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+ghar se taiyaar hoke kitthe chale o naale kalle kalle o
+kalle kalle ho challe challe ho
+oy hoy tiikhii talavaar ho ke kitthe challe o naale kalle kalle o
+yuu.n naa kareyaa karo duniyaa se Dareyaa karo jii
+tiikhii talavaar ho ke \threedots
+
+pahalaa jhumakaa duujii jhaa.njhar kyuu.n chhaNakaa_ii jaave.n
+tiijaa teraa ruup soNiye chauthii tuu itaraave oy
+do te do chaar ho ke kitthe chale o naale kalle kalle o
+ghar se taiyaar hoke \threedots
+
+zulfaa.n vichcho.n mahake uDadii uDadii chaar chuphere
+bul fullaa.n diiyaa.n pattiyaa.n varage gal gulaabii ne tere
+phullaa.n daa haar ho ke kitthe chale o naale kalle kalle o
+ghar se taiyaar hoke \threedots
+%
+#endindian
+\endsong
+

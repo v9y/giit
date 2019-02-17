@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{mai.n bevafaa nahii.n huu.N tere pyaar kii qasam}%
+\film{Preet Na Jane Reet}%
+\year{1966}%
+\starring{Shammi Kapoor, B Saroja Devi, Johny Walker}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10998 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mai.n bevafaa nahii.n huu.N tere pyaar kii qasam
+ikaraar jo kiyaa hai usii ikaraar kii qasam
+mai.n bevafaa nahii.n \threedots
+
+maanaa hamaare pyaar kaa aalam badal gayaa
+apane hii dil kii aag se kaashaanaa jal gayaa
+dil phir bhii hai vo hii tere diidaar kii qasam
+mai.n bevafaa nahii.n \threedots
+
+ulfat ke phuul gir ga_e qismat kii dhuul me.n
+Kushbuu hai tere saa.Ns kii har ek phuul me.n
+is pyaar ke luTe hu_e gulazaar kii qasam
+mai.n bevafaa nahii.n \threedots
+%
+#endindian
+\endsong
+

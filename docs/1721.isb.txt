@@ -1,0 +1,55 @@
+% 
+\startsong
+\stitle{thaaNe kaajaLiyo baNaalayuu.n mhaare naiNaa me.n ramaalyuu.n}%
+\film{Vir Durgadas}%
+\year{1960}%
+\starring{Nirupa Roy, Jairaj, Manhar Desai}%
+\singer{Lata, Mukesh}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+% 
+% Contributor: David Windsor <windeng@fac.anu.edu.au> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 08/07/1995
+% Credits: Shashikant Joshi <rava0002@gold.tc.umn.edu>
+%          Ashok Dhareshwar <adhareshwar@wolrdbank.org> 
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: Released in 1960
+%
+\printtitle
+#indian
+%
+la: thaaNe kaajaLiyo baNaalayuu.n mhaare naiNaa me.n ramaalyuu.n \-2
+    raaj paLakaa.n me.n band kar raakhuu.Nlii
+    ho ho ho, raaj paLakaa.n me.n band kar raakhuu.Nlii
+
+mu: gorii paLakaa.n me.n nii.nd kaiyaa.n aavelii
+    gorii paLakaa.n me.n nii.nd kaiyaa.n aavelii, aavelii
+    gorii paLakaa.n me.n nii.nd kaiyaa.n aavelii
+
+la: mhaarii paLakaa.n paalaNiye jhulaavelii jhulaavelii
+    jhulaavelii paLakaa.n paalaNiye jhulavelii
+    ho mhaare naiNaa suu.n duur-duur kaiyaa.n jaavolaa jii
+    DhoLaa kaiyaa.n jaavolaa jii
+    thaaNe chandaN haar baNaayaluu.n
+    thaaNe chandaN haar baNaayaluu.n mhaare hirade suu.n lagaaluu.n
+    chunda.Dii me.n lhukaae thaaNe raakhu.nlii
+    ho ho ho, chunda.Dii me.n lhukaae thaaNe raakhu.nlii
+
+mu: gorii chunda.Dii lahar laharaavelii
+    gorii chunda.Dii lahar laharaavelii, laharaavelii
+    gorii chunda.Dii lahar laharaavelii
+
+la: DhoLaa praaNaa.n me.n priit jagaavelii
+    praaNaa.n me.n priit jagaavelii
+    (ho mhaare hiva.De su.n duur-duur kaiyaa.n jaavolaa jii
+     DhoLaa kaiyaa.n jaavolaa jii)				\-2
+    thaaNe motii.Do baNaalyuu.n
+    thaaNe motii.Do baNaalyuu.n mhaare hoTaa suu.n lagaalyuu.n
+    raaj nathaNii me.n baa.Ndhakar raakhu.nlii
+    thaaNe kaajaLiyo baNaalayuu.n mhaare naiNaa me.n ramaalyuu.n
+%
+#endindian
+\endsong
+%
+

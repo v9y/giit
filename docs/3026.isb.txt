@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{ajii hamako hai tumase pyaar}%
+\film{Mehbooba}%
+\year{1954}%
+\starring{Shammi Kapoor, Nalini Jaywant, Achala Sachdev}%
+\singer{Talat, Lata}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shalini Razdan
+% Transliterator:  Surajit A. Bose
+% Date:  February 6th, 2002
+% Availability: Golden Collection Talat Mehmood Duets
+%
+\printtitle
+#indian
+%
+
+talat:    ajii hamako hai tumase pyaar
+lataa:     to hogaa mai.n kyaa jaanuu.N
+talat:    ab jiinaa bhii hai dushavaar
+lataa:      to hogaa mai.n kyaa jaanuu.N
+
+talat:    khoyaa khoyaa, ye raaz terii aa.Nkho.n me.n kyo.n hai.n
+lataa:     bahakaa bahakaa, a.ndaaz terii baato.n me.n kyo.n hai.n
+talat:    maharabaa.N hai.n kyo.n terii adaae.N
+lataa:     ham ye baate.n kyo.n tujhe bataae.N
+
+talat:    ajii ye bhii to hai iqaraar
+lataa:     to hogaa mai.n kyaa jaanuu.N
+talat:    ab jiinaa bhii hai dushavaar
+lataa:      to hogaa mai.n kyaa jaanuu.N
+talat:    ajii hamako hai tumase pyaar
+lataa:     to hogaa mai.n kyaa jaanuu.N
+talat:    ab jiinaa bhii hai dushavaar
+lataa:      to hogaa mai.n kyaa jaanuu.N
+
+talat:    bin tere, diladaar nahii.n kaTatii hai.n raate.n
+lataa:     chho.Do chho.Do takaraar, karo mausam kii baate.n
+talat:    isii adaa kaa huu.N mai.n diiwaanaa
+lataa:     dekho dekho hosh naa gawaanaa
+
+talat:    meraa dil hai teraa biimaar
+lataa:     to hogaa mai.n kyaa jaanuu.N
+talat:    ab jiinaa bhii hai dushavaar
+lataa:      to hogaa mai.n kyaa jaanuu.N
+talat:    ajii hamako hai tumase pyaar
+lataa:     to hogaa mai.n kyaa jaanuu.N
+talat:    ab jiinaa bhii hai dushavaar
+lataa:      to hogaa mai.n kyaa jaanuu.N
+
+%
+#endindian
+\endsong
+%

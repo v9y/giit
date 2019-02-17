@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{mere dil kii duniyaa uja.D ga_ii samajhe the dil kii lagii hu_ii}%
+\film{Janmabhoomi}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani, Pramila, Chandraprabha}%
+\singer{Ashok Kumar}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+%
+% Contributor: BOL ANAMOL #11974 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+mere dil kii duniyaa uja.D ga_ii \-2
+samajhe the dil kii lagii hu_ii
+aa.n aa.n
+
+dil hii dil me.n rah jaayegii
+kyaa Kabar thii ye jwaalaa ban kar
+jiiwan me.n aaG lagaayegii
+merii prem\-nagariyaa uja.D gayii
+
+mere dil kii duniyaa uja.D ga_ii \-2
+%
+#endindian
+\endsong
+

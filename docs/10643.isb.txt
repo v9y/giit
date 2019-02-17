@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{naa to aaj barasaat kaa mausam ... binaa badaraa ke bijuriyaa}%
+\film{Bandhan}%
+\year{1969}%
+\starring{Rajesh Khanna, Mumtaz, Anju Mahendru}%
+\singer{Mukesh, Male voice}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11085 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	naa to aaj barasaat kaa mausam naa kahii.n chhaa_ii badariyaa
+	phir bhii more jiyaraa me.n chamake are tham\-tham ko_ii bijuriyaa
+ko \:	vaa\-vaah\-vaah toharaa javaab naahii.n
+
+mu \:	binaa badaraa ke bijuriyaa kaise chamake
+ko \:	ho binaa badaraa ke bijuriyaa kaise chamake
+mu \:	kaise chamake ko_ii puuchhe re hamase
+ko \:	kaise chamake ko_ii puuchhe re hamase
+mu \:	ho binaa badaraa ke \threedots
+ko \:	ho binaa badaraa ke \threedots
+
+mu \:	raaho.n me.n jab gorii nayanaa milaaye ke
+ko \:	nayanaa milaaye ke
+mu \:	muskaaye ghu.NghaTaa me.n mukha.Daa chhipaaye ke
+	( to mar jaa_e.N ) \-2 ham to qasam se qasam se
+mu \:	binaa badaraa ke \threedots
+ko \:	ho binaa badaraa ke \threedots
+mu \:	kaise chamake \threedots
+ko \:	ho binaa badaraa ke \threedots
+
+mu \:	baiThe ho.n jab miiThe sapane sajaaye ke
+ko \:	sapane sajaaye ke
+mu \:	aise me.n haule se paas kabhii aaye ke
+	( jo bichhavaa ) \-2 bajaaye de gorii chham se qasam se
+mu \:	binaa badaraa ke \threedots
+ko \:	ho binaa badaraa ke \threedots
+mu \:	kaise chamake \threedots
+ko \:	ho binaa badaraa ke \threedots
+%
+#endindian
+\endsong
+

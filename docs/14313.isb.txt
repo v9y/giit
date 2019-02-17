@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{mai.n kah duu.N tumako chor to bolo kyaa karoge}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12542 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	mai.n kah duu.N tumako chor
+	to bolo
+	to bolo kyaa karoge \-2
+	aur abhii machaa duu.N shor
+	to bolo
+	to bolo kyaa karoge \-2
+
+ra \:	( mai.n chorii\-chorii aa_uu.N
+	aur dil me.n tere bas jaa_uu.N
+	ho aur dil me.n tere bas jaa_uu.N ) \-2
+	aur ban jaa_uu.N chitachor
+	to bolo kyaa karoge \-2
+su \:	mai.n kah duu.N tumako chor
+	to bolo
+	to bolo kyaa karoge \-2
+
+su \:	( itanaa na pyaar ba.Dhaavo
+	uu.Nchii na pata.nge.n u.Daavo
+	jii uu.Nchii na pata.nge.n u.Daavo ) \-2
+	kahii.n kachchii rah ga_ii Dor
+	to bolo kyaa karoge \-2
+su \:	mai.n kah duu.N tumako chor
+	to bolo
+	to bolo kyaa karoge \-2
+
+ra \:	( ham duur desh me.n jaa ke
+	ek na_ii pata.ng ma.ngaa ke
+	jii ek na_ii pata.ng ma.ngaa ke ) \-2
+	baa.Ndhe.nge dil kii Dor
+	to bolo kyaa karoge \-2
+%
+#endindian
+\endsong
+%
+

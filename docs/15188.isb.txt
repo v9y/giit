@@ -1,0 +1,49 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shin shinaa kii buubalaa buu}%
+\film{Shin Shinaaki Booblaa Boo}%
+\year{1952}%
+\starring{Rehana, Ranjan}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+chi \:	( shin shinaa kii
+la \:	buubalaa buu ) \-3
+do \:	do hai.n jism ek hai ruuh
+	buubalaa buu \-3
+
+la \:	shin ye puuchhe buubalaa
+	ye to bataa buubalaa
+	ishq hai kyaa buubalaa
+	buubalaa ai buubalaa
+chi \:	mai.n bataa_uu.N kyaa bhalaa
+	phir bhii ye huu.N jaanataa
+	ishq Kud ko Dhuu.NDhane kii justajuu hai justajuu
+do \:	do hai.n jism ek hai ruuh
+	buubalaa buu \-3
+	shin shinaa kii buubalaa buu \-3
+	do hai.n jism ek hai ruuh
+	buubalaa buu \-3
+
+la \:	mai.n jo puuchhuu.N mai.n huu.N kyaa
+chi \:	mai.n jo kah duu.N kuchh nahii.n
+la \:	mai.n ye puuchhuu.N tuu huu.N kyaa
+chi \:	mai.n jo kah duu.N kuchh nahii.n
+do \:	dono.n kuchh nahii.n magar
+	tuu hai mai.n aur mai.n huu.N tuu
+	do hai.n jism ek hai ruuh
+	buubalaa buu \-3
+	shin shinaa kii buubalaa buu \-3
+	do hai.n jism ek hai ruuh
+	buubalaa buu \-4
+
+#endindian
+\endsong

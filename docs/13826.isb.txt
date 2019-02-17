@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{bol biinaa madhur\-madhur kachhu bol}%
+\film{Ram Rajya/ Luv Kush}%
+\year{1943}%
+\starring{Shobhna Samarth, Prem Adeeb, Umakant, Badri Prasad, Amirbai Karnataki}%
+\singer{Saraswati Rane}%
+\music{Shankarrao Vyas}%
+\lyrics{Ramesh Gupta}%
+%
+% Contributor: BOL ANAMOL #11855 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com  (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+tuu bol bol bol
+biinaa madhur\-madhur kachhu bol \-2
+
+biinaa madhur\-madhur kachhu bol \-2
+
+shaant mahii jhanakaar sunaa de \-2
+jiiwan ke sab taar hilaa de \-2
+ek baar phir madhur dhwanii me.n \-2
+ma.njul manahar kar kallol
+biinaa madhur\-madhur kachhu bol \-2
+
+% mahii : dharatii: Earth
+
+aaj nayii vo raag sunaa de \-2
+jisase ja.D me.n chetan aatii \-2
+bichha.D jaaye.n naa tere saathii \-2
+sa.njiivanii amR^it ras ghol
+biinaa madhur\-madhur kachhu bol \-2
+
+bhor bhaye bekal man Dole
+kal naa paaye bhramar ban Dole
+birah vedanaa prachaND hove \-2
+pR^ithvii gagan uThe.n sab Dol
+%
+#endindian
+\endsong
+

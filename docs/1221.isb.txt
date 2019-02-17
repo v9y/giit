@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mere TuuTe hue dil se koii to aaj ye puuchhe}%
+\film{Chhaliya}%
+\year{1960}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere TuuTe hue dil se koii to aaj ye puuchhe
+ke teraa haal kyaa hai ke teraa haal kyaa hai
+mere TuuTe\threedots
+
+kismat terii riit niraalii, o chhaliye ko chhalane vaalii
+phuul khilaa to TuuTii Daalii
+jise ulafat samajh baiThaa, merii nazaro.n kaa dhokhaa thaa
+kisii kii kyaa khataa hai
+mere TuuTe\threedots
+
+maa.Ngii muhabbat paaii judaaii, duniyaa mujhako raas na aaii
+pahale kadam par Thokar khaaii
+sadaa aazaad rahate the hame.n maaluum hii kyaa thaa
+muhabbat kyaa balaa hai
+mere TuuTe\threedots
+%
+#endindian
+\endsong
+%

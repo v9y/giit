@@ -1,0 +1,58 @@
+% 
+\startsong
+\stitle{man kyo.n bahakaa re bahakaa aadhii raat ko}%
+\film{Utsav}%
+\year{1984}%
+\starring{Rekha, Anuradha Patel}%
+\singer{Lata, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Vasant Dev}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 08/10/1996
+% Credits: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu> 
+% Comments:  
+%
+\printtitle
+#indian
+%
+(man kyo.n bahakaa re bahakaa aadhii raat ko
+ belaa mahakaa ho
+ belaa mahakaa re mahakaa aadhii raat ko) \-2
+kisane ba.Nsii bajaaii aadhii raat ko
+jisane palake.n ho
+jisane palake.n churaaii aadhii raat ko
+man kyo.n \threedots
+belaa mahakaa re mahakaa aadhii raat ko
+
+jhaa.Njhar jhamake sun \-3
+jhamake aadhii raat ko
+usako Toko na roko, roko na Toko, Toko na roko, aadhii raat ko
+o laaj lage re lage aadhii raat ko \-2
+binaa sinduur so_uu.N aadhii raat ko
+belaa mahakaa re mahakaa aadhii raat ko
+man kyo.n \threedots
+
+(baat kahate bane kyaa aadhii raat ko
+ aa.Nkh kholegii baat aadhii raat ko) \-2
+hamane pii chaa.Ndanii aadhii raat ko \-2
+chaa.Nd aa.Nkho.n me.n aayaa aadhii raat ko
+
+belaa mahakaa re mahakaa aadhii raat ko
+man kyo.n \threedots
+
+(raat gunatii rahegii aadhii baat ko
+ aadhii baato.n kii priit aadhii raat ko) \-2
+raat puurii ho kaisii aadhii raat ko \-2
+raat hotii shuruu hai aadhii raat ko
+
+man kyo.n \threedots
+belaa mahakaa re mahakaa aadhii raat ko
+man kyo.n \threedots
+%
+#endindian
+\endsong
+%
+

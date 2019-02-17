@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aajaa aajaa aa ab aa sun le sadaa dil kii ... mere hamasafar jaan\-e\-jigar}%
+\film{Angrakshak}%
+\year{1995}%
+\starring{Sunny, Pooja Bhatt, Kulbhushan, Javed Jafri, Nazar, Rami Reddy}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aajaa aajaa aa ab aa sun le sadaa dil kii
+mere hamasafar jaan\-e\-jigar mere hamanavaa.n jaan\-e\-jahaa.n
+aajaa aajaa aa ab aa \threedots
+
+maut se nahii.n haare.nge pyaar ke diivaane
+zulm chaahe jitanaa kar le sa.ngadil zamaane
+aa ab aa \threedots
+
+vo aag mai.n nahii.n jo chaahe vo bujhaa de
+vo chiiz mai.n nahii.n huu.N jo chaahe vo miTaa de
+jhuuThii nahii.n hai.n qasame.n sachche hai.n mere vaade
+haare.nge ham kabhii na mazabuut hai.n iraade
+aa ab aa \threedots
+%
+#endindian
+\endsong
+

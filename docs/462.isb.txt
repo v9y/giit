@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{dhiire dhiire se merii zi.ndagii me.n aanaa}%
+\film{Aashiqui}%
+\year{}%
+\starring{Anu Agarwal, Rahul Roy}%
+\singer{Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+##m##: dhiire dhiire se merii zi.ndagiii me.n aanaa
+dhIre dhIre se dil ko churaanaa
+tumase pyaar hame hai kitanaa jaanejaanaa
+tumase milakar tumako hai bataanaa
+
+##f##: dhIre dhIre se merI zi.ndagii me.n aanaa
+dhIre dhIre se dil ko churaanaa
+tumase pyaar hame hai kitanaa jaanejaanaa
+tumase milakar tumako hai bataanaa
+
+##m##: jab se tujhe dekhaa dil ko kahI.n aaraam nahI.n
+mere hoTho.n pe ek tere sivaa koI naam nahI.n \threedots
+##f##: apanaa bhii haal tumhaare jaisaa hai saajan
+bas yaad tujhe karate hai.n aur koI kaam nahI.n \threedots
+##m##: ban gayaa hU.N mai.n teraa dIvaanaa
+dhIre dhIre se dil ko churaanaa
+
+##f##: dhIre dhIre se merI zi.ndagii me.n aanaa
+dhIre dhIre se dil ko churaanaa \threedots
+
+##f##: tUne bhii aksar mujhako jagaayaa raato.n me.n
+aur nI.nd churaaI mIThii mIThii baato.n me.n \threedots
+##m##: tUne bhii beshak mujhako kitanaa ta.Dapaayaa
+phir bhii terii har ek adaa par pyaar aayaa \threedots
+aajaa aajaa ab kaisaa sharamaanaa
+dhIre dhIre se dil ko churaanaa
+
+##f##: dhIre dhIre se merI zi.ndagii me.n aanaa
+dhIre dhIre se dil ko churaanaa \threedots
+##m##: tumase pyaar hame hai kitanaa jaanejaanaa
+tumase milakar tumako hai bataanaa \threedots
+%
+#endindian
+\endsong
+%

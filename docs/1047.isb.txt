@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{laakho.n hai yahaa.N dilavaale, aur pyaar nahii.n milataa}%
+\film{Kismat}%
+\year{1968}%
+\starring{Biswajeet, Babita}%
+\singer{Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@csn.org)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+laakho.n hai yahaa.N dila vaale,  aur pyaar nahii.n milataa
+aa.Nkho.n me.n kisii kii vafaa kaa, iqaraar nahii.n milataa
+
+mahafil mahafil jaa dekhaa,  har dil me.n samaa kar dekhaa
+har saaz pe gaa kar dekhaa
+dil ko kahii.n chain naa milaa \- 2
+mai.n to duniyaa me.n pyaare akelaa hii rahaa
+laakho.n hai yahaa.N \threedots
+
+is dil ko kahaa.N le jaae.n,  kuchh aap agar faramaae.n
+to aap ke ham ho jaae.n
+kah do hame.n ha.nsake zaraa \- 2
+ajii jo kuchh bhii dil ne tumhaare hai kahaa
+laakho.n hai yahaa.N \threedots
+%
+#endindian
+\endsong
+%

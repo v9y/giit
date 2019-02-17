@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{jis ghar ke logo.n ko ... are ham pa.nchhii ek Daal ke}%
+\film{Hum Panchhi Ek Daal Ke}%
+\year{1957}%
+\starring{Romi, Satish Vyas, Roop Kumar, Jagdip, Mohan Choti, David, Murad}%
+\singer{Rafi/ Rafi, Asha}%
+\music{N Dutta}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #10291 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	jis ghar ke logo.n ko subah jhaga.Date dekhaa hai
+	shaam hu_ii ki ghar vahii uja.Date dekhaa hai
+	are banatii nahii.n hai baat jhaga.De se kabhii yaaro.n
+	are banatii baat ko biga.Date dekhaa hai
+
+	are ham pa.nchhii ( ek Daal ke ) \-2
+	sa.ng\-sa.ng Dole.n jii sa.ng\-sa.ng Dole.n
+	bolii apanii\-apanii bole.n jii bole.n jii bole.n jii bole.n
+ko \:	sa.ng\-sa.ng Dole.n \threedots
+
+	din ke jhaga.De din ko bhuule.n raat ko sapano.n me.n ham jhuule.n
+	dharatii bichhaunaa niilii chadariyaa miiThii nii.nde.n so le.n jii so le.n jii so le.n
+ko \:	sa.ng\-sa.ng Dole.n \threedots
+%
+#endindian
+\endsong
+

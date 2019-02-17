@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{merii nii.ndo.n me.n tum, mere Kvaabo.n me.n tum}%
+\film{Naya Andaaz}%
+\year{1956}%
+\starring{Kishore, Meena Kumari}%
+\singer{Kishore, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Mahesh Chaubal (chaubal@umbc.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+% 
+ki: 	(merii nii.ndo.n me.n tuma, mere Kvaabo.n me.n tuma
+	ho chuke ham tumhaarii mohabbata me.n guma ) \- 2
+
+sh:	(mana kii biinaa kii dhuna, tuu baalama aaja suna
+	merii nazaro.nne tujhako liyaa aaja chuna ) \- 2
+	mana kii biinaa kii dhuna, tuu balama aaja suna
+
+sh:	(merii dila kii lagii tuu, merii zi.ndagii tuu
+	merii hara nazara hai terii dAstaa.n ) \- 2
+ki:	(mere dila kii bahaare.n tumhiiko pukaare.n
+	tumhiise hai aabaada meraa jahaa.N ) \- 2
+sh: 	tU meraa naaza hai, meraa a.ndaaza hai, dila kii Avaaza hai
+ki: 	merii nii.ndo.n me.n tuma, mere khvaabo.n me.n tuma
+	ho chuke hama tumhaarii mohabbata me.n guma
+
+sh:	mana kii biinaa kii dhuna, tuu balama aaja suna
+	merii nazaro.nne tujhako liyaa aaja chuna
+	mana kii biinaa kii dhuna, tuu baalama aaja suna
+%
+#endindian
+\endsong
+%

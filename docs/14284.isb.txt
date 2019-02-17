@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{terii mastii me.n mastaanaa ... tere ishq me.n}%
+\film{Supari}%
+\year{2003}%
+\starring{Uday Chopra, Rahul Dev, Aakash Saigal, Purab Kohli, Nandita Das}%
+\singer{Vishal,  Mahalaxmi}%
+\music{Vishal-Shekhar}%
+\lyrics{Vishal}%
+%
+% Contributor: BOL ANAMOL #11687 [V S Rawat]
+% Producer & Director: Aum Creates Unlimited, Padam Kumar
+% Audio: Saregama India Ltd
+% Cassette: NHF 810559 Digital, Rs 55/-, CD: , Cost: Rs 125/-
+% site: www.whatissupari.com
+% 
+\printtitle
+#indian
+%
+vi \:	terii mastii me.n mastaanaa
+	tere ishq me.n \-2
+
+	terii mastii me.n mastaanaa
+	paagalapan se bhii diivaanaa hu_aa re
+	duniyaa chho.Dii bandhan to.De
+	is dil kii ab tuu hii bas tuu du_aa re
+ma \:	tere ishq me.n tere ishq me.n jag chhuuTaa re
+	tere ishq me.n tere ishq me.n ( dil TuuTaa re ) \-2 
+
+	o o o o
+
+vi \:	is dil kaa aramaan tuu hai
+	qudarat kaa ehasaan tuu hai
+	tuu zindagii jaan tuu hai mai.n bas jii rahaa huu.N
+	paanii kii laharo.n me.n tuu hai
+	anjaan cheharo.n me.n tuu hai
+	jab se milii mujhako tuu hai mai.n bas jii rahaa huu.N
+ma \:	tere ishq me.n \-2
+ko \:	tere ishq me.n \-4
+
+vi \:	har dil kii halachal me.n tuu hai
+	raG\-raG me.n pal\-pal me.n tuu hai
+	jiine kii tuu aarazuu hai mai.n bas jii rahaa huu.N
+	ab ke liye aaj tuu hai
+	tuu hai to bas tuu hii tuu hai
+	har pal kii Kushbuu me.n tuu hai mai.n bas jii rahaa huu.N
+ma \:	tere ishq me.n tere ishq me.n jag chhuuTaa re
+	tere ishq me.n tere ishq me.n ( dil TuuTaa re ) \-2 
+ko \:	tere ishq me.n \-2
+ma \:	tere ishq me.n \-6
+ko \:	tere ishq me.n \-4
+%
+#endindian
+\endsong
+

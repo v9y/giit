@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kaa karuu.N sajanii, aaye na baalam}%
+\film{Swami}%
+\starring{Girish Karnad, Dheeraj, Shabana Azmi, Vikram}%
+\singer{Yesudas}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kaa karuu.N sajanii, aae na baalam
+khoj rahii hai.n piyaa paradesii a.Nkhiyaa.N \- 2
+aae na baalam
+
+jab bhii koii, aahaT hoe, manavaa moraa bhaage
+dekho kahii.n, TuuTe nahii.n, prem ke ye dhaage
+ye matavaarii priit hamaarii
+chhupe na chhupaae \- (2)
+saavan ho tum mai.n huu.N torii badariyaa
+aaye na baalam, kaa karuu.N\threedots
+
+bhor bha_ii aur, saa.Njh Dhalii re, samay ne lii a.nga.Daaii
+ye jag saaraa, nii.nd se haaraa, mohe nii.nd na aaii
+mai.n ghabaraauu.N, Dar Dar jaauu.N
+aae vo na aae \- (2)
+raadhaa bulaae kahaa.N khoe ho kanhaiyyaa
+aae na baalam, kaa karuu.N\threedots
+%
+#endindian
+\endsong
+%

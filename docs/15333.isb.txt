@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ek waadaa hai kisii kaa jo wafaa hotaa nahii.n}%
+\film{Parchhaiyan (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Saghar Siddiqui}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+ek waadaa hai kisii kaa jo wafaa hotaa nahii.n
+waranaa in taaro.n bharii raato.n me.n kyaa hotaa nahii.n
+
+jii me.n aataa hai ulaT de.n unake chehare se naqaab
+hausalaa karate hai.n lekin hausalaa hotaa nahii.n
+
+shammaa jisakii aabaruu par jaan de de jhuum kar
+wo pata.ngaa jal to jaataa hai fanaa hotaa nahii.n
+
+ek muddat se rah\-o\-rasm\-e\-nazaaraa band hai
+ab to unakaa tuur par bhii saamanaa hotaa nahii.n
+
+#endindian
+\endsong

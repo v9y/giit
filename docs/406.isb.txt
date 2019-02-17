@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{chhuu lene do naazuk ho.nTho.n ko, kuchh aur nahii.n hai.n jaam hai.n ye}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Dharmendra, Meena Kumari, Padmini}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+chhuu lene do naazuk hoTho.n ko
+kuchh aur nahii.n hai.n jaam hai.n ye
+qudarat ne jo hamako baKshaa hai
+vo sabase ha.nsii.n iinaam hai.n ye
+
+sharamaa ke na yuu.N hii kho denaa
+ra.ngiin javaanii kii gha.Diyaa.N
+betaab dha.Dakate siino.n kaa
+aramaan bharaa paigaam hai ye, chhuu \threedots
+
+achchho.n ko buraa saabit karanaa
+duniyaa kii puraanii aadat hai
+is mai ko mubaarak chiiz samajh
+maanaa kii bahut badanaam hai ye, chhuu \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye pyaar kyaa hai kisii ne naa jaanaa ... sab kii zubaa.n par magar ye fasaanaa}%
+\film{Gupt/ The Hidden Truth}%
+\year{1997}%
+\starring{Bobby Deol, Manisha Koirala, Kajol}%
+\singer{Alka Yagnik, Kavita Subramaniam, Kumar Sanu}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye pyaar kyaa hai kisii ne naa jaanaa
+sab kii zubaa.n par magar ye fasaanaa
+jaaduu kyaa ye kyaa pataa kab kisii pe ye chal gayaa
+sholaa hai meraa badan kab kisakaa dil jal gayaa aa aa aa
+ye pyaar kyaa hai \threedots
+
+pahale zaraa dil thaam lo phir pyaar kaa naam lo
+naa kuchh kaho naa kuchh suno aa.Nkho.n se kaam lo
+sab ke li_e ye pyaar kaa phuul khilataa nahii.n
+sab ko magar pyaar kaa ye Gam bhii milataa nahii.n
+ye pyaar kyaa hai \threedots
+
+is pyaar me.n dil pe kabhii kuchh zor chalataa nahii.n
+is dil me.n jo bas jaa_e vo dil se nikalataa nahii.n
+kuchh yaar to pyaar me.n kyaa kuchh nahii.n kar ga_e
+ye pyaar kyaa hai \threedots
+%
+#endindian
+\endsong
+

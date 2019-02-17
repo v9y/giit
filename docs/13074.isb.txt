@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{nigaah\-e\-mehar hamase ... sitam bhii tumhaare}%
+\film{Mukti}%
+\year{1960}%
+\starring{Nalini Jaywant, Motilal, Anant Kumar, Sulochana, Krishna Kumari}%
+\singer{Rafi, Asha}%
+\music{Malay Chakravati}%
+\lyrics{Aarzoo Lakhnawi}%
+%
+% Contributor: BOL ANAMOL #10284 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+nigaah\-e\-mehar hamase aaj be\-taqasiir phiratii hai.n
+kisii kii kuchh nahii.n chalatii jab taqadiir phiratii hai
+
+sitam bhii tumhaare karam bhii tumhaare
+pukaare.n sitamaqash to kisako pukaare.n
+
+zabaa.N par Kaamoshii nazar se ishaare
+jo yuu.N choT khaa_e vo kisako pukaare
+sitam bhii tumhaare \threedots
+
+zamaane kii karavaT badal degaa saahil
+chalaa\-chal chalaa\-chal kinaare\-kinaare
+sitam bhii tumhaare \threedots
+
+nazar usane badalii jo dil ko lubhaa kar
+pukaar uThii qismat burii haar haare
+sitam bhii tumhaare \threedots
+%
+#endindian
+\endsong
+

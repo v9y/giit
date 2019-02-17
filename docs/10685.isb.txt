@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{dar bhii thaa ... tumase hii ghar ghar kahalaayaa}%
+\film{Bhabhi ki Chudiyan}%
+\year{1961}%
+\starring{Dharmendra, Meena Kumari}%
+\singer{Mukesh}%
+\music{Sudhir Phadke}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: BOL ANAMOL #10389 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dar bhii thaa thii.n diivaare.n bhii
+tumase hii ghar ghar kahalaayaa
+
+suunaa ma.ndir thaa man meraa bujhaa diip thaa jiivan meraa
+pratimaa ke paavan charaNo.n me.n mai.n diipak banakar muskaayaa
+tumase hii ghar ghar \threedots
+
+devaalay ban gayaa suhaavanaa maa.N tumase meraa ghar\-aa.Ngan
+aa.Nchal kii mamataa maayaa me.n paa_ii paa_ii sukh kii shiital chhaayaa
+tumase hii ghar ghar \threedots
+
+kaise ho guNagaan tumhaaraa jo kuchh bhii hai varadaan tumhaaraa
+tumane hii mere jiivan ke sapano.n ko sach kar dikhalaayaa
+tumase hii ghar ghar \threedots
+
+aa.Nkhe.n merii jyoti tumhaarii rah na ga_ii.n raahe.n a.ndhiyaarii
+rahane do mere maathe par maa.N tumane jo haath ba.Dhaayaa
+tumase hii ghar ghar \threedots
+%
+#endindian
+\endsong
+

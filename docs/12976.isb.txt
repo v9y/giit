@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{buraa lagataa hai lage duniyaa ko}%
+\film{Manmauji}%
+\year{1962}%
+\starring{Sadhna, Kishore Kumar, Naaz}%
+\singer{Kishor}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10577 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( buraa lagataa hai lage duniyaa ko
+apanii marajii se jiyuu.Ngaa mai.n to ) \-2
+
+siidhii chaal chaluu.N yaa Te.Dhii mai.n manamaujii diivaanaa
+bhare hu_e ko chho.Duu.N le luu.N khaalii paimaanaa
+jis haal me.n huu.N achchhaa huu.N
+kyaa lenaa mujhe duniyaa se
+buraa lagataa hai lage \threedots
+
+Kushiyaa.N merii Gam bhii mere duniyaa kaa ehasaan na luu.N
+bikataa hai jo baazaaro.n me.n mai.n aisaa iimaan na luu.N
+meraa dard mubaarak mujhako
+duniyaa kii jhuuThii davaa se
+buraa lagataa hai lage \threedots
+%
+#endindian
+\endsong
+

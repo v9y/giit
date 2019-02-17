@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil me.n kyaa hai teraa pyaar ... meraa pyaar hai tuu diladaar hai tuu}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Hariharan}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil me.n kyaa hai teraa pyaar
+o aa.Nkho.n me.n kyaa hai i.ntazaar
+o dil me.n kyaa hai \threedots
+
+meraa pyaar hai tuu diladaar hai tuu tere dam se hai ye bahaar
+dil me.n kyaa hai \threedots
+
+pahale bhii phuul khilate the aatii thii.n bahaare.n gulashan me.n
+phuulo.n kii hai ye naa to bahaar kii hai
+ye khushbuu to hamaare pyaar kii hai
+merii jaan hai tuu aramaan hai tuu mere dil kaa tuu karaar hai
+dil me.n kyaa hai \threedots
+
+Tha.nDii havaa_o.n me.n sanam garmii hai pyaar kii
+shaamil hai mere pyaar me.n diladaar teraa pyaar bhii
+kahe dil meraa piyaa pyaar teraa paa_uu.n mai.n baar baar
+dil me.n kyaa hai \threedots
+%
+#endindian
+\endsong
+

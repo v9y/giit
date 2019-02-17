@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{o mere sonaa re sonaa re sonaa re}%
+\film{Teesri Manzil}%
+\year{}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana bhat (B536HIND@UTARLVM1.UTA.EDU)
+%          Raj Ganesan (cpd.tandem.com!raj)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+o mere sonaa re sonaa re sonaa re
+de duu.ngii jaan judaa mat honaa re
+(maine tujhe zaraa der me.n jaanaa
+huaa kusuur khafaa mat honaa re ) \- 2
+o mere sonaa re sonaa re sonaa re
+
+o merii baa.Nho.n se nikalake
+tuu agar mere raste se haT jaaegaa
+to laharaake, ho balakhaake
+meraa saayaa tere tan se lipaT jaaegaa
+tum chhu.Daao laakh daaman
+chho.Date hai.n kab ye aramaa.n
+ki mai.n bhii saath rahuu.Ngii rahoge jahaa.N
+o mere \threedots
+
+o miyaa.n hamase na chhipaao
+vo banaavaT ki saarii adaae.n liye
+ki tum isape ho itaraate
+ki mai.n piichhe huu.N sau iltizaae.n liye
+jii mai.n khush huu.N mere sonaa
+jhuuTh hai kyaa, sach kaho naa
+ki mai.n bhii saath rahuu.Ngii rahoge jahaa.N
+o mere \threedots
+
+o phir hamase na ulajhanaa
+nahii.n laT aur ulajhan me.n pa.D jaaegii
+o pachhataaogii kuchh aise
+ki ye surakhii labo.n kii utar jaaegii
+ye sazaa tum bhuul na jaanaa
+pyaar ko Thokar mat lagaanaa
+ki chalaa jaaU.ngaa phir mai.n na jaane kahaa.N
+o mere \threedots
+%
+#endindian
+\endsong
+%

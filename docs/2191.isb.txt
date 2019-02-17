@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{rahiye ab aisii jagah, chalakar jahaa.N koii na ho}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Begum Akhtar}%
+\music{}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: gujarati@doc.us.dell.com
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+% Comments: nohaaKvaa.N = mourner. tiimaradaar = doctor
+%           paasabaa.N = sentry
+%
+\printtitle
+#indian
+%
+rahiye ab aisii jagah, chalakar jahaa.N koii na ho
+ham suKan koii na ho aur ham_zabaa.N koii na ho
+
+be dar\-o\-diivaar sa ek ghar banaayaa chaahiye
+koii hamasaayaa na ho aur paasabaa.N koii na ho
+
+pa.Diye gar biimaar to koii na ho tiimaaradaar
+aur agar mar jaaye.n to, nohaaKvaa.N koii na ho
+%
+#endindian
+\endsong
+%

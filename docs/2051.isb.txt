@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{desh hamaaraa hindustaan, sabase sundar hindustaan}%
+\film{non-Film}%
+\year{1947}%
+\starring{}%
+\singer{Hemant, Bela Mukherjee, Samaresh Roy, Abha Banerjee}%
+\music{Hemant}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments : Hemantada ... (32)
+%
+\printtitle
+#indian
+%
+
+he:  agar garaj ke kah sakataa hai Tarkii Tarkiish jaatii kaa
+     agar garv se i.nglish kehataa i.nglai.nD hai a.ngrezo.n kaa
+     to kyo.n naa kahe ham bhaaratavaasii hi.ndustaan hamaaraa hai
+     hi.ndustaan hamaaraa hai hi.ndustaan hamaaraa hai
+
+sab: desh hamaaraa hi.ndustaan sabase sundar hi.ndustaan
+     viiro.n kaa ye janmasthaan jay jay bhaarat hi.ndustaan
+
+he:  ma.ndir masjid ved puuraaN sab kaa puujak hai inasaan
+     sab se ba.Dhakar hi.ndustaan jay jay bhaarat hi.ndustaan
+
+be:  hi.ndu musalim ek samaan pyaare bhaarat ke santaan
+     aao sab mil gaaye.n gaan jay jay bhaarat hi.ndustaan \threedots
+
+he:  jisame.n hai kuchh maa.N kii shaan
+     jisame.n hai kuchh maa.N kii aan
+     vahii miTaataa apanii hastii rakhane hi.ndustaan kii shaan \threedots
+
+he, be: taaj mahal hai aaj jahaa.N par dillii kaa hai laal qilaa
+sa:     is dharatii ke inasaano.n ko aazaadii hai aaj milaa
+sa, be: aaj desh kii aazaadii hai hi.ndustaaniyo.n ke haath
+        baag Dor kii saarii taaqat bhaaratavaasiyo.n ke paas
+        isakii bastii isakii hastii apane bhaarat maa.N kii shaan
+        aaj likho tum ha.Nsate basate apanii hi.ndustaan kii shaan \threedots
+
+%
+#endindian
+\endsong
+%

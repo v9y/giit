@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{raamapur kaa vaasii huu.N mai.n laxmaN meraa naam}%
+\film{Raampur Ka Laxman}%
+\year{1972}%
+\starring{Randhir Kapoor, Rekha}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10794 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+raamapur kaa vaasii huu.N mai.n laxmaN meraa naam
+siidhii\-saadii bolii merii siidhaa\-saadaa kaam
+o par huu.N ba.Daa alabelaa
+sau ke baraabar akelaa
+raamapur kaa vaasii \threedots
+
+rukanaa\-jhukanaa mai.n kyaa jaanuu.N ai bhaa_ii
+ho yaar kii yaarii mujhako yahaa.N talaq laa_ii
+are khel tamaashaa mujhako mat samajho pyaaro.n
+ho abhii to paradaa uThane me.n der hai yaaro.n
+( tum dekhoge ) \-2 us roz mujhe mai.n apanii jaan pe jis din khelaa
+raamapur kaa vaasii \threedots
+
+pyaar\-mohabbat me.n vaise to Dhiilaa huu.N
+haa.N lekin dil kaa mai.n bhii ba.Daa ra.ngiilaa huu.N
+are aa.Nkho.n\-aa.Nkho.n hii me.n dil pe laharaa_uu.N
+o in ho.nTho.n kii laalii utaar le jaa_uu.N
+( kar duu.N paagal ) \-2 ho ko_ii gaa.Nv kii gorii yaa ko_ii shaharii lailaa
+raamapur kaa vaasii \threedots
+
+suuT pahan kar tum dekho naqalii sapanaa
+ho merii dhotii\-kurate pe sochakar ha.Nsanaa
+are khaddar kii chhaayaa me.n bhaarat jaagaa hai
+is laaThii se a.ngrez Dar ke bhaagaa hai
+ye a.ngrezii faishan\-vaishan mai.n kyaa jaanuu.N mai.n huu.N bhaarat kaa chhailaa
+raamapur kaa vaasii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{u.Daate hai.n mere Gam kii ha.Nsii ... beqas kii aabaruu}%
+\film{Ek Hi Raastaa}%
+\year{1956}%
+\starring{Sunil Dutt, Meena Kumari, Ashok Kumar, Jivan}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10226 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+u.Daate hai.n mere Gam kii ha.Nsii tere jahaa.N vaale
+tamaashaa dekh le tuu bhii tamaashaa dekhane vaale
+
+beqas kii aabaruu ko niilaam kar ke chho.Daa
+aaKir tere jahaa.N ne badanaam kar ke chho.Daa
+
+ham aa.Nsu_o.n ko piikar baiThe the muskaraane
+dekhaa gayaa na tujhase itanaa bhii o zamaane
+chhoTii sii aarazuu ko naakaam kar ke chho.Daa
+beqas kii aabaruu ko \threedots
+
+pahale to Gam diyaa phir Gam kii ha.Nsii u.Daa_ii
+zaalim hai terii duniyaa maalik terii duhaa_ii
+tere jahaa.N ne teraa bhii naam kar ke chho.Daa
+beqas kii aabaruu ko \threedots
+%
+#endindian
+\endsong
+

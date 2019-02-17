@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aaye hai.n duaae.n dene, aapakii balaaye.n lene}% 
+\film{Jadugar}%
+\year{}%
+\starring{Amitabh Bachchan}%
+\singer{Kumar Sanu}%
+\music{Kalyanji-Anandji}%
+\lyrics{}%
+%
+% Contributor:  Vallury Prabhakar (prabhakv@mlw.ma.gmr.com)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+aaye hai.n duaae.n dene, aapakii balaaye.n lene
+zi.ndagii hamaarii lelo, aish karo khaao khelo
+jiyo jI, jiyo jI, jiyo jI, jiyo jI
+jab talak jI chAhe, jiyo, jiyo jI
+
+patA ab chalA, hai kyo.n ho gayA
+zamaanA dIvaanA tumhArA
+banA de kabhI, miTA de kabhI
+tumhArA zarA sA ishaarA
+chale hukUmat yahA.n tumhaarI
+fidA hai tumape duniyA saarI
+kyA kahane, kyA kahane aapake to
+kisI ko banA ke jiyo, kisI ko miTA ke jiyo
+zindagI hamaarI lelo \threedots
+
+jo pahale kabhI, kisii ne nA dI
+vo sauGaat ham aaj de.nge
+tumhe.n umr bhar, dubaarA kabhI
+pujaarI nA aise mile.nge
+saika.Do.n bechAre aaye, zindagI ke maare aaye
+kyA kahane, kyA kahane aapake to
+log aate jaate rahe.n, aap muskuraate rahe.n
+zindagI hamaarI lelo \threedots
+%
+#endindian
+\endsong
+%

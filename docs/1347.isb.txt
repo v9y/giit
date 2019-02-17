@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{niile ambar ke tale, do yahaa.N saathii mile}%
+\film{Safed Jhooth}%
+\year{1977}%
+\starring{Ashok Kumar, Vinod Mehra, Mithu Mukherjee}%
+\singer{Yesudas}%
+\music{Shyamal Mitra}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Surendra Pothuru (spothuru@ponder.csci.unt.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+	niile ambar ke tale
+	do yahA.n saathI mile
+	jhalake jhalake aramaan milaake lekar basAne ghar chale
+	niile ambar ke tale
+	
+	har gha.DI bin rainA
+	chain ab Ae naa
+	man kahe merA saathI ab kahI.n jAe nA
+	ye milan me.n koI ab shAm na Dhale
+	niile ambar ke tale \threedots
+	
+	zindagI me.n aise din kabhii Ate hai.n
+	rasmo.n ke ba.ndhan me.n miit ba.ndh jaate hai.n
+	phir majake uThe hai.n tan ke phuul khile
+	niile ambar ke tale \threedots
+%
+#endindian
+\endsong
+%

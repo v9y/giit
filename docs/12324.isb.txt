@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{laaThii se maare naa ... maare nazar se kaTaarii}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+laaThii se maare naa ka.nkar se maare
+haay chaakuu se maare naa kha.nzar se maare
+maare nazar se kaTaarii gazab kare la.Dakii ka.nvaarii
+
+ho palako.n se maare naa aa.Nkho.n se maare
+ho.nTho.n se maare naa haatho.n se maare
+maare nazar se ishaaraa gazab kare la.Dakaa ka.nvaaraa
+
+gaalo.n kii ra.ngat gulaabii gulaabii
+aa.Nkhe.n hai.n isakii sharaabii sharaabii
+isake fasaane kitaabii kitaabii
+chaahe na mujhako zaraa bhii zaraa bhii
+kahanaa na maane ruuThii hai ruuThii
+terii kahaanii jhuuThii hai JhuuThii
+choTii se maare na aa.Nchal se maare
+haay chhalle se maare na paayal se maare
+to maare nazar se \threedots
+
+la.Dakaa hai kaisaa anaa.Dii anaa.Dii
+khud ko samajhataa khilaa.Dii khilaa.Dii
+pyaarii lage isakii gaalii re gaalii
+isakii adaa hai niraalii niraalii
+samajhaa_uu.N kaise paagal hai paagal
+mujhako banaa le kaajal re kaajal
+golii se maare na bolii se maare
+o phuulo.n se maare na kaa.NTo.n se maare
+to maare nazar se \threedots
+%
+#endindian
+\endsong
+

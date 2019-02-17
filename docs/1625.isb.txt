@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{sholaa jo bha.Dake dil meraa dha.Dake, dard javaanii kaa sataae}%
+\film{Albela}%
+\year{}%
+\starring{Geeta Bali, Bhagwan}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Credits: C.S. Sudarshana Bhat at UTexas (ceindian@utacnvx.uta.edu)
+%          Header Info: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+sholaa jo bha.Dake dil meraa dha.Dake
+dard javaanii kaa sataae ba.Dh\-ba.Dh ke
+
+mahakii havaae.n bahake kadam mere
+aise me.n thaam lo aa ke balam more
+pattaa bhii kha.Dake to bijalii sii ka.Dake, dard \threedots
+
+pyaar ko mere kisane pukaaraa
+dil me.n utar gayaa kisakaa ishaaraa
+yaad ye kisakii laa_I paka.D ke, dard \threedots
+
+dekhaa jo tumako dard huaa kam
+ab to na ho.nge tumase judaa ham
+%
+#endindian
+\endsong
+%

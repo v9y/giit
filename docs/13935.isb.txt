@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{naaraaz saveraa hai ... nazadiik saveraa hai}%
+\film{Sangharsh}%
+\year{1999}%
+\starring{Akshay Kumar, Preity Zinta, Asutosh Rana}%
+\singer{Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+naaraaz saveraa hai har or a.ndheraa hai
+ko_ii kiran to aa_e kahii.n se aa_e aa_e
+naaraaz saveraa hai
+
+zi.ndagii tanhaa_iiyo.n kaa karz hai naam hai
+har khushii Dhalatii hu_ii dukh bharii shaam hai
+saa.Nso.n ke khazaano.n kaa ye vaqt luTeraa hai
+ko_ii kiran to \threedots
+
+raat kii khaamoshiyo.n me.n anasunaa shor hai
+khii.nchatii baa.ndhe binaa hii kaun sii ye Dor hai
+bejaan salaakho.n ne merii ruuh ko gheraa hai
+ko_ii kiran to \threedots
+
+vo mere bachapan kaa mausam vo zamaanaa kho gayaa
+maut ke saa_e me.n rah ke bejubaa.n mai.n ho gayaa
+zakhmo.n kii zamiino.n pe zulmo.n kaa baseraa hai
+ko_ii kiran to \threedots
+%
+%Part 2:
+%
+nazadiik saveraa hai pal bhar kaa a.ndheraa hai
+mere li_e naa ashq bahaa_o jaa_o jaa_o
+nazadiik saveraa hai
+
+de rahaa mujhako sadaa_e.n vo khulaa aasamaa.n
+le rahii.n merii balaa_e.n vo hasii.n vaadiyaa.n
+tum laa_o ujaalo.n ko sapanaa yahii meraa hai
+din hai.n khushii ke giit milan ke gaa_o gaa_o
+%
+#endindian
+\endsong
+

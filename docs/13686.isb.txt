@@ -1,0 +1,24 @@
+
+%
+\startsong
+\stitle{##verse## kaam aaKir jazbaa\-e\-be_iKtiyaar aa hii gayaa}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Waheeda, Mala Sinha, Rahman}%
+\singer{}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12205 [V S Rawat]
+%
+\printtitle
+#indian
+%
+kaam aaKir jazbaa\-e\-be_iKtiyaar
+aa hii gayaa
+dil kuchh is suurat se ta.Dapaa
+unako pyaar aa hii gayaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{dil par huaa aisaa jaaduu}%
+\film{Mr. and Mrs. 55}%
+\year{1955}%
+\starring{Guru Dutt, Shakeela, Johnny Walker}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+ajii, dil par huaa aisaa jaaduu tabiiyat machal\-machal ga_ii
+nazare.n milii.n kyaa kisii se ki haalat badal\-badal ga_ii
+
+(kal tak hamaaraa na puuchho kaisaa haal thaa
+ milatii kahii.n aa.Nkh dil ko yah malaal thaa)	\- 2
+us ne jo dekhaa to hasarat nikal ga_ii
+sun pyaare, sun pyaare, apanii to kismat badal ga_ii
+dil par huaa aisaa jaaduu \threedots
+
+(milatii hai aahaT sii pyaar usake paa.Nv kii
+ dil me.n chamakatii hai.n bijaliyaa.N adaao.n kii)	\- 2
+hogaa ujaalaa ki ab raat Dhal ga_ii
+sun pyaare, sun pyaare, apanii to kismat badal ga_ii
+dil par huaa aisaa jaaduu \threedots
+
+(kaisii hai ulfat kii dillagii yah hamanashii.n
+ vo ho ga_ii.n merii aur use khabar nahii.n)	\- 2
+zaalim mohabbat bhii kyaa chaal chal ga_ii
+sun pyaare, sun pyaare, apanii to kismat badal ga_ii
+dil par huaa aisaa jaaduu \threedots
+%
+#endindian
+\endsong
+%
+

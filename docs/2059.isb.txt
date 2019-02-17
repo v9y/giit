@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil to dil hai kisii din machal jaayegaa}%
+\film{Kab Kyon Aur Kahaan}%
+\year{1970}%
+\starring{Dharmendra, Babita}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+dil to dil hai kisii din machal jaayegaa
+ek din ye iraadaa badal jaayegaa
+chaahe haa.N kahiye, chaahe na kahiye   \threedots
+
+aisaa ishaaraa hogaa hogaa
+dil ye hamaaraa hogaa hogaa
+jaan\-e\-jigar maanaa teraa
+patthar jigar hai, patthar jigar
+lekin merii aaho.n me.n hai
+itanaa asar, haa.N itanaa asar
+dhiire dhiire ye patthar pighal jaayegaa
+ek din ye iraadaa badal jaayegaa   \threedots
+
+jaaduu chalegaa dhiire dhiire
+gussaa Dhalegaa dhiire dhiire
+maah\-e\-jabii.n ye pyaar kii
+naazuk umar hai naazuk umar
+aayegaa dil kispae kahaa.N
+kisako khabar hai kisako khabar
+dil tumhaaraa kisii din phisal jaayegaa
+ek din ye iraadaa badal jaayegaa   \threedots
+
+%
+#endindian
+\endsong
+%

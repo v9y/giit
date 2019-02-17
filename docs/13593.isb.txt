@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{bach ke jaane na duu.Ngii diladaar terii merii laagii sarat}%
+\film{Prince}%
+\year{1969}%
+\starring{Shammi Kapoor, Vyjayanthimala}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Farooq Kaisar}%
+%
+% Contributor: BOL ANAMOL #11118 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	bach ke jaane na duu.Ngii diladaar terii merii laagii sarat \-2
+ra \:	( khaalii jaa_e.Nge ) \-2 naino.n ke baan terii merii laagii sarat \-2
+la \:	bach ke jaane na \threedots
+
+	chaa.Nd se mukh pe bi.ndiyaa chamakane lagii \-2
+	laal ho.nTho.n kii agni bha.Dakane lagii
+	ruup aisaa kisii ne na dekhaa kahii.n \-2
+	har qadam pe javaanii chhalakane lagii \-2
+	( maar Daalegaa ) \-2 solah si.ngaar
+	terii merii laagii sarat
+	bach ke jaane na \threedots
+
+ra \:	tere piichhe hai jag mere piichhe hai tuu
+	har qadam pe meraa haath khii.nche hai \-2
+	log jal\-jal ke dekhe hai.n merii taraf \-2
+	merii baa.Nho.n me.n jab aa.Nkh mii.nche hai tuu \-2
+	( ba.Daa a.Diyal hai ) \-2 manavaa hamaar 
+	terii merii laagii sarat
+la \:	bach ke jaane na \threedots
+
+	mujhako naino.n me.n ko_ii chhupaa_e nahii.n \-2
+	siidhaa\-saadaa mujhe pyaar bhaa_e nahii.n
+	sach kahuu.Ngii piyaa chaahe laage buraa \-2
+	tujhako chhe.De binaa chain aa_e nahii.n \-2
+	( tiikhii batiyo.n se ) \-2 ba.Dhataa hai pyaar
+	terii merii laagii sarat
+	bach ke jaane na \threedots
+%
+#endindian
+\endsong
+

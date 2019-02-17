@@ -1,0 +1,59 @@
+% ITRANS SONG # 3474; Created on Jan 26, 2004
+%
+% From: Shalini Razdan (shalinirazdan@hotmail.com)
+% Date: 2002-12-12 06:58:32 PST
+%
+\startsong
+\stitle{Takaraa gaye do baadal ambar pe}%
+\film{Mazaaq}%
+\year{1975}%
+\starring{Moushimi Chatterjee, Vinod Mehra, Aruna Irani, Mehmood}%
+\singer{Asha, Vinod Mehra}%
+\music{R D Burman}%
+\lyrics{Yogesh}%
+%
+% Contributor: Shalini Razdan
+% Transliterator: Surajit A. Bose
+% Date: Dec 12, 2002
+% Series: Geetanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aashaa:   Takaraa gaye do baadal ambar pe
+                to barasane lage buunde.n bikhar ke
+                Takaraa gaye do
+
+vinod ##(speaking)##:
+                maushumii, kitanaa pyaaraa naam hai ye
+                is naam kaa saath to har mausam se hai
+                chaahe wo sardii kaa ho yaa garmii kaa
+                patajha.D kaa yaa saawan kaa
+
+aashaa:   aahaa! chho.Do jaao, ba.De wo ho tum
+                naam meraa jo.D diyaa, mausam se sanam
+                mausam phir bhii, mausam hai sanam
+                naam mera jo.Daa na bataa Kud se kyo.n balam
+                mujhase milaao ye nain to
+                aise na jalaao mere man ko
+                Takaraa gaye do
+
+vinod ##(speaking)##:
+                ye saawan kaa mausam to Kuubasuurat hai hii
+                lekin tumhaarii is Kuubasuurat umar ne
+                ise aur bhii Kuubasuurat banaa diyaa hai
+
+aashaa:   jaane aaii kaisii ye umar
+                ban ke kalii khilane lagii
+                suunii raah par
+                tan me.n man me.n, uThii ye lahar
+                tujhase sajan Takaraae man, jaauu.N mai.n bikhar
+                aag lage re saawan ko, chhoo gayaa mere daaman ko
+                Takaraa gaye do baadal ambar pe
+                to barasane lage buunde.n bikhar ke
+                Takaraa gaye do
+%
+#endindian
+\endsong
+%

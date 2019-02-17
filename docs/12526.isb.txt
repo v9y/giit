@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{tumase ba.Dhakar duniyaa me.n na dekhaa ko_ii aur zubaa.N par}%
+\film{Kaamchor}%
+\year{1982}%
+\starring{Rakesh Roshan, Jayaprada}%
+\singer{Alka Yagnik, Kishore Kumar, Chandru Atma}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumase ba.Dhakar duniyaa me.n
+na dekhaa ko_ii aur zubaa.N par
+aaj dil kii baat aa ga_ii
+tumase ba.Dhakar duniyaa me.n \threedots
+
+kyaa Kuub aa.Nkhe.n hai.n terii
+iname.n zindagaanii hai merii
+
+alkaa: kyaa Kuub aa.Nkhe.n hai.n terii, iname.n zindagaanii hai merii
+
+jii le.nge ham dekh dekh ke inako
+kyaa Kuub aa.Nkhe.n hai.n terii
+tuu hii tuu Kvaabo.n me.n hai
+na duujaa ko_ii aur zubaa.N par
+aaj dil kii baat aa ga_ii \threedots
+
+sundarataa tuune vo paa_ii
+naazaa.N hai tum pe Kudaaii
+naaz nahii.n apane par phir bhii tujhako
+sundarataa tuune vo paa_ii
+dil kaa hasii.n tere jaisaa
+na dekhaa ko_ii aur zubaa.N par
+aaj dil kii baat aa ga_ii \threedots
+
+alkaa: tum se ba.Dhakar duniyaa me.n na dekhaa koii aur,
+zubaa.N par aaj dil kii baat aa ga_ii
+
+baato.n me.n terii ik adaa hai
+terii adaa me.n vafaa hai
+phir phir tujhase milane ko jii chaahe
+baato.n me.n terii ik adaa hai
+dil me.n itanaa pyaar li_e
+naa aayaa ko_ii aur zubaa.N par
+aaj dil kii baat aa ga_ii \threedots
+
+dono.n: tum se ba.Dhakar duniyaa me.n na dekhaa koii aur
+        zubaa.N par aaj dil kii baat aa ga_ii
+%
+#endindian
+\endsong
+

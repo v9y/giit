@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{badalaa to aise badalaa ... zindagii bhar Gam judaa_ii}%
+\film{Miss Bombay}%
+\year{1957}%
+\starring{Nalini Jaywant, Ajeet, Rahman, Ramesh Thakur, Bhagwan, Vijaylaxmi}%
+\singer{Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan, Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10207 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+badalaa to aise badalaa hai kuchh ra.ng\-e\-gulasitaa.N
+ik phuul pe bahaar hai ik phuul pe Kizaa.N
+
+zindagii bhar Gam judaa_ii kaa mujhe ta.Dapaa_egaa
+har nayaa mausam puraanii yaad lekar aa_egaa
+zindagii bhar Gam \threedots
+
+hai.n vahii raahe.n vahii galiyaa.N magar sunasaan hai.n
+tuu nahii.n to dil kii saarii bastiyaa.N viiraan hai.n
+dil me.n hai jo Gam teraa vo jaan lekar jaa_egaa
+zindagii bhar Gam \threedots
+
+ho.n mubaarak tujhako Kushiyaa.N aur mujhe rusavaa_iyaa.N
+tujhako teraa ghar salaamat aur mujhe tanahaa_iyaa.N
+marate\-marate bhii teraa hii naam lab pe aa_egaa
+zindagii bhar Gam \threedots
+%
+#endindian
+\endsong
+

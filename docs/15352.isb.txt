@@ -1,0 +1,27 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ham hii me.n thii na ko_ii baat yaad na tumako aa sake}%
+\film{Live (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{}%
+\lyrics{Hafeez Jullundhary}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+ham hii me.n thii na ko_ii baat yaad na tumako aa sake
+tumane hame.n bhulaa diyaa ham naa tumhe.n bhulaa sake
+
+tum bhii na sun sake agar qissaa\-e\-Gam sunegaa kaun
+kisakii zubaa.N khulegii phir ham naa agar sunaa sake
+
+shauq\-e\-wisaal hai yahaa.N lab pe sawaal hai yahaa.N
+kisakii majaal hai yahaa.N hamase nazar milaa sake
+
+#endindian
+\endsong

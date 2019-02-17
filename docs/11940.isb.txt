@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kaise kahuu.n kaise ho tum ... tum hii tum}%
+\film{Ishq}%
+\year{1997}%
+\starring{Aamir Khan, Ajay Devgan, Kajol, Juhi Chawala}%
+\singer{Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaise kahuu.n kaise ho tum ko_ii nahii.n jaise ho tum
+jaan bhii tum aur dil bhii tum sab kuchh ho aise ho tum
+raaho.n me.n baaho.n me.n aaho.n me.n tum hii tum
+
+tum ho jahaa.n mai.n huu.N vahii.n
+tum bin sanam mai.n kuchh nahii.n
+tum ho hasii.n tum mahazabii.n tum naazanii.n tum dilanashii.n
+mere dil me.n tum ho tum
+kaise kahuu.n kaise ho \threedots
+
+saagar bhii saahil bhii tum sab kuchh ho aise ho tum
+
+kaliyo.n me.n phuulo.n me.n taaro.n me.n tum hii tum
+tum jab mile mai.n kho ga_ii tum par fidaa mai.n ho ga_ii
+tum zi.ndagii tum taazagii tum roshanii tum chaa.Ndanii
+mere dil me.n tum ho tum hii tum
+kaise kahuu.n kaise ho \threedots
+
+giito.n me.n raago.n me.n saazo.n me.n tum hii tum
+kaise kahuu.n kaise ho \threedots
+%
+#endindian
+\endsong
+

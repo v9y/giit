@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{maa.N paas bulaatii hai ... yaad tumhaarii jab}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Alka Yagnik, Sunidhi Chauhan, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maa.N o maa.N maa.N o maa.N maa.N o maa.N maa.N o maa.N
+paas bulaatii hai kitanaa rulaatii hai
+yaad tumhaarii jab jab mujhako aatii hai aatii hai
+
+jinake sar pe mamataa kii du_aa_e.n hai.n
+kismat vaale vo hai.n jinakii maa_e.n hai.n
+jism to hotaa hai par jaan nahii.n hotii
+unase puuchho jinakii maa.N nahii.n hotii
+lorii sunaatii hai chhupake sulaatii hai
+yaad tumhaarii jab \threedots
+
+aajaa siine se tujhako lagaa luu.N mai.n 
+chiir ke dil ko dha.Dakan me.n chhupaa luu.n mai.n
+saavan ban banake merii aa.Nkhe.n barasii hai.n
+tere li_e kitanaa ye pal pal tarasii hai.n
+kitanaa sataatii hai.n jaane.n jaatii hai.n
+yaad tumhaarii jab \threedots
+%
+#endindian
+\endsong
+

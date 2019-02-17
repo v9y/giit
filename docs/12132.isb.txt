@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aa_egaa aa_egaa bichha.Daa yaar hamaaraa}%
+\film{Jaagriti}%
+\year{1992}%
+\starring{Salman Khan, Karisma Kapoor}%
+\singer{Kavita Subramaniam, Abhijit, Suresh Wadekar}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a, su \:	aa_egaa aa_egaa bichha.Daa yaar hamaaraa \-2
+	khii.nch ke usako laa_egaa ik din pyaar hamaaraa
+	aa_egaa aa_egaa \threedots
+
+	haare.nge ham naa ummiide.n apanii kaise rahegaa harapal a.Ndheraa
+	bikharegaa ik din har\-suu ujaalaa rainaa Dhalegii hogaa saveraa
+	is dil kaa vo aramaan hai ham jism hai.n vo jaan hai
+	bichha.De.nge phir naa kabhii ham dobaaraa
+	aa_egaa aa_egaa \threedots
+
+ka \:	usakii mohabbat dil me.n basii hai usake li_e hai ye zi.ndagaanii
+	usakaa lahuu hai merii rago.n me.n hai paas mere usakii nishaanii
+	mar\-mar ke bhii jiitii rahii ashqo.n ko mai.n piitii rahii
+	u.Ngalii pe gin\-gin ke din hai guzaaraa
+a, su \:	aa_egaa aa_egaa \threedots
+%
+% Part 2:
+%
+a, su \:	aa gayaa aa gayaa bichha.Daa yaar hamaaraa \-2
+	khii.nch ke usako laayaa hai din pyaar hamaaraa
+	aa gayaa aa gayaa \threedots
+%
+#endindian
+\endsong
+

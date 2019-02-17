@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{har taraf pattharo.n kaa saayaa hai}%
+\film{Saugaat (Non-Film)}%
+\year{1996}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Jay-Vijay}%
+\lyrics{Qateel Shifai}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+har taraf pattharo.n kaa saayaa hai
+mai.nne shiishe kaa ghar banaayaa hai
+
+kho gaye rezaa rezaa Kaab mere
+tuu bhii mujhape ro ai shabaab mere
+tujhako mai.nne ye din dikhaayaa hai
+
+dil meraa kaa.Nch kaa khilaunaa thaa
+ek din chakanaachuur honaa thaa
+dil jo TuuTaa to yaad aayaa hai
+
+kisakaa shikawaa karuu.N Kudaa mere
+ko_ii mujarim nahii.n siwaa mere
+apanaa dhokhaa to mai.nne khaayaa hai
+
+#endindian
+\endsong

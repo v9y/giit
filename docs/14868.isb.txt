@@ -1,0 +1,29 @@
+% ITRANS SONG
+
+\startsong
+\stitle{havaa tum dhiire baho, mere aate ho.nge chitachor}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Leela Chitnis}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+havaa tum dhiire baho, mere aate ho.nge chitachor \-3
+havaa tum dhiire baho
+
+( chhoTii sii mere dil kii talaiyaa
+Dag\-mag Dole priit kii naiyaa ) \-2
+
+o purawaiyaa dayaa karo
+mere hiyaa me.n uThat hilor
+havaa tum dhiire baho, mere aate ho.nge chitachor \-2
+
+#endindian
+\endsong

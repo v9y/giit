@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{mai.n ne chaa.Nd aur sitaaro.n kii tamannaa kii thii}%
+\film{Chandrakantaa}%
+\year{1956}%
+\starring{Bharat Bhushan, Beena Rai}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+%          Vandana Vidwans
+%
+\printtitle
+#indian
+%
+(mai.n ne chaa.Nd aur sitaaro.n kii tamannaa kii thii
+mujhako raato.n kii siyaahii ke sivaa kuchh na milaa ) \- 2
+mai.n ne chaa.Nd sitaaro.n \threedots
+
+mai.n vo naGamaa huu.N jise pyaar kii mahafil na milii
+vo musaafir huu.N jise koii bhii manzil na milii
+zakhm paae.n hai.n bahaaro.n kii tamannaa kii thii
+mai.n ne chaa.Nd sitaaro.n \threedots
+
+kisii gesuu kisii aa.Nchal kaa sahaaraa bhii nahii.n
+raaste me.n koii dhu.Ndhalaa saa sitaaraa bhii nahii.n
+merii nazaro.n ne nazaaro.n kii tamannaa kii thii
+mai.n ne chaa.Nd sitaaro.n \threedots
+
+merii raaho.n se judaa ho gaI raahe.n unakii
+aaj badalii nazar aatii hai.n nigaahe.n unakii
+jisase is dil ne sahaaro.n kii tamannaa kii thii
+mai.n ne chaa.Nd sitaaro.n \threedots
+
+pyaar maa.Ngaa to sisakate hue aramaan mile
+chain chaahaa to uma.Date hue tuufaan mile
+Duubate dil ne kinaaro.n kii tamannaa kii thii
+mai.n ne chaa.Nd sitaaro.n \threedots
+
+dil me.n naakaam ummido.n ke basere paaye
+roshanii lene ko nikalaa to a.ndhere paaye
+ra.ng aur nuur ke dhaaro.n kii tamannaa kii thii
+mai.n ne chaa.Nd aur sitaaro.n \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,96 @@
+
+%
+\startsong
+\stitle{a.mbar ko apanii baa.Nho.n me.n aaj bhar le ... rak rak rak}%
+\film{Rudraksh}%
+\year{2003}%
+\starring{Sanjay Dutt, Sunil Shetty, Bipasha Basu, Isha Koppikar}%
+\singer{Gayatri Iyer, Kunal, Shankar}%
+\music{Shankar-Ehsaan-Loy}%
+\lyrics{Sameer, Arun Bhairav}%
+%
+% Contributor: BOL ANAMOL #11830 [V S Rawat]
+% Producer: Karma Entertainment, Bhairav Film, Nitin Manmohan, Sohail Maklai
+% Director: Mani Shankar
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3381 Royal Stereo, Cost: Rs 50/-
+% website: www.rudrakshthefilm.com
+%
+\printtitle
+#indian
+%
+gaa \:	a.mbar ko apanii baa.Nho.n me.n aaj bhar le
+	jo bhii tamannaa hai saath mere kar le
+
+	ra ra ra 
+	rak rak rak 
+	ta dhin 
+	re re tran \-7
+
+sha \:	( rak rakak
+	rak rakak rakakak
+	ta dhin ta dhin ta dhin
+	ta dhin ta dhin ta dhin ) \-2
+
+gaa \:	dhin ta dhin ta na na \-4
+do \:	dhin ta dhin ta na na \-4
+
+gaa \:	aisaa mauqaa phir kahaa.N
+	anjaanaa sahamaa samaa.N
+	aa jaa dikhaa duu.N
+	tujhako qahaqashaa
+	aisaa nazaaraa
+	hai yahaa.N kahaa.N
+	kuchh nahii.n mushqil hai
+	sabako samajhaanaa hai
+	chaa.Nd ko taaro.n ko
+	dharatii pe laanaa hai
+
+	a.mbar ko apanii baa.Nho.n me.n aaj bhar le
+	jo bhii tamannaa hai saath mere kar le
+
+ku \:	re
+	aisaa mauqaa phir kahaa.N
+	anjaanaa sahamaa samaa.N
+gaa \:	aa jaa dikhaa duu.N
+	tujhako qahaqashaa
+	aisaa nazaaraa
+	hai yahaa.N kahaa.N
+
+do \:	a.mbar ko apanii baa.Nho.n me.n aaj bhar le
+gaa \:	he
+
+do \:	dhin ta dhin ta na na \-8
+
+gaa \:	mai.n jahaa.N huu.N zi.ndagii hai
+	zi.ndagii kii har Kushii hai
+	hai merii ra.ngat judaa
+ku \:	he
+	is adaa se is nazar se
+	is nazar ke har asar se
+	ko_ii nahii.n bach sakaa
+gaa \:	dil ko thaam le
+	meraa naam le
+ku \:	laaye hosh me.n
+	aisaa jaam le
+gaa \:	ho.nTho.n pe
+ko \:	saaGar sajaa le
+gaa \:	palako.n se
+ko \:	pal\-pal uThaa le
+gaa \:	nuuro.n kii
+ko \:	duniyaa basaa le
+gaa \:	jannat kii
+ko \:	raunak churaa le
+
+gaa \:	a.mbar ko apanii baa.Nho.n me.n aaj bhar le
+	jo bhii tamannaa hai saath mere kar le
+
+ku \:	aisaa mauqaa phir kahaa.N
+	anjaanaa sahamaa samaa.N
+
+gaa \:	( dhin ta dhin ta na na
+ko \:	dhin ta dhin ta na na ) \-8
+%
+#endindian
+\endsong
+

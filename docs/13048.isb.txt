@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ai hamasafar bataa de ma.nzil terii kidhar hai}%
+\film{Mohar}%
+\year{1959}%
+\starring{Shammi Kapoor, Geeta Bali}%
+\singer{Rafi, Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10583 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	ai hamasafar bataa de ma.nzil terii kidhar hai
+ra \:	jisakii nahii.n hai ma.nzil ye ishq vo safar hai
+la \:	ai hamasafar bataa \threedots
+
+	ye pyaar kii tamannaa jis dil me.n muskaraa_e
+	vo dil chiraaG banakar duniyaa ko jagamagaa_e
+	shab ko bhii din banaa de ulfat me.n vo asar hai
+ra \:	jisakii nahii.n hai \threedots
+
+	ma.nzuur ishq ko hai Kushiyaa.N mile yaa aahe.n
+	ha.Ns ke jo Gam bhii sah le ye ishq kaa jigar hai
+la \:	ai hamasafar bataa \threedots
+
+	ik saath ham chale hai.n duniyaa basaa ke dil kii
+ra \:	ra.ngiin hasarato.n se mahafil sajaa ke dil kii
+la \:	is vaqt pyaar apanaa duniyaa se beKabar hai
+ra \:	jisakii nahii.n hai \threedots
+%
+#endindian
+\endsong
+

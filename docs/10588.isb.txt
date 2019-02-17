@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ye hasiinaa ye diivaanaa ... ##she is my girl friend.## ... ##he is my boy friend.##}%
+\film{Bhrashtaachaar}%
+\year{1989}%
+\starring{Rekha, Mithun, Abhinav Chaturvedi, Shilpa Shirodkar, Rajnikant, Anupam Kher}%
+\singer{Kavita Subramaniam, Sudesh Bhonsale, Chorus}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye hasiinaa ye diivaanaa
+ye hasiinaa merii nii.nd churaatii hai saarii raat jagaatii hai
+kabhii chalii aatii hai kabhii chalii jaatii hai ba.Daa ta.Dapaatii hai
+##but she is my girl friend.##
+##girl friend?##
+##she is my girl friend.##
+
+ye diivaanaa merii nii.nd churaataa hai saarii raat jagaataa hai
+kabhii chalaa aataa hai kabhii chalaa jaataa hai ba.Daa ta.Dapaataa hai
+##but he is my boy friend.##
+##boy friend?##
+##oh! he is my boy friend.##
+
+logo.n se maine sunaa hai tho.Dii sii ye bevafaa hai
+mai.n bhii ko_ii vaadaa karuu.n aur vaadaa to.D duu.n
+kabhii kabhii sochataa huu.N isako mai.n chho.D duu.n
+haay haay magar kyaa karuu.n ##she is my girl friend.##
+
+mujhako magar bevafaa_ii is bevafaa ne sikhaa_ii
+mai.n bhii kisii aur kii baaho.n me.n jhuul jaa_uu.n
+kabhii kabhii sochatii huu.N ise bhuul jaa_uu.n
+haay haay magar kyaa karuu.n ##he is my boy friend.##
+
+mai.n aag huu.N ye hai paanii barabaad merii javaanii
+duur se karuu.n na ise kabhii mai.n salaam bhii
+bhuul ke na luu.n kabhii isakaa mai.n naam bhii
+haay haay magar kyaa karuu.n ##she is my girl friend.##
+##he is my boy friend.##
+%
+#endindian
+\endsong
+

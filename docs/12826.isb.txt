@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{Dholak me.n taal hai ... mere yaar kii shaadii hai}%
+\film{Mere Yaar Ki Shaadi Hai}%
+\year{2002}%
+\starring{Jimmy Shergil, Uday Chopada, Sanjana}%
+\singer{Udit Narayan, Sonu Nigam, Alka Yagnik}%
+\music{Jiit Pritam}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Dholak me.n taal hai paayal me.n chhan chhan
+ghuu.nghaT me.n gorii hai sehare me.n saajan
+jahaa.N bhii ye jaa_e.N bahaare.n hii chhaa_e.N
+ye khushiyaa.N paa_e.N mere dil ne du_aa dii hai
+mere yaar kii shaadii hai
+Dholak me.n taal \threedots
+
+hoy hoy hoy hoy hoy
+oy oy oy oy oy
+pyaar milaa priit milii mere yaar ko
+ba.Dii pyaarii jiit milii mere yaar ko
+khush hai jo dil maine mahafil giito.n se sajaa dii hai
+mere yaar kii shaadii \threedots
+
+haar nahii.n jiit nahii.n jahaa.N pyaar hai
+jisame.n haar jiit ho vo kahaa.N pyaar hai
+lag jaa gale yaar mere maine dil se sadaa dii hai
+mere yaar kii shaadii \threedots
+
+saathii sakhiyaa.N bachapan kaa ye a.nganaa
+gu.Diyaa jhuule ko_ii bhii to hogaa sa.ng naa
+chhupaa_uu.Ngii aa.Nsuu kaise bhiige.nge ka.nganaa
+saathii sakhiyaa.N re
+saathii sun le bole jo ye a.Nganaa
+ye man jiivan pyaar ke hii ra.ng me.n ra.nganaa
+ha.Ns degii terii chuu.Dii khanake.nge ka.nganaa
+saathii sun le re
+mere yaar kii shaadii \threedots
+%
+#endindian
+\endsong
+

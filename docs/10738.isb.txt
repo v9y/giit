@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{tumhaarii yaad me.n ... dil meraa beqaraar hai}%
+\film{Bandish}%
+\year{1955}%
+\starring{Ashok Kumar,  Meena Kumari}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Ravi Shankar}%
+%
+% Contributor: BOL ANAMOL #11943 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( tumhaarii yaad me.n
+mere balamaa
+o mere saajanaa
+dil meraa haay beqaraar hai
+dil meraa beqaraar hai
+ho o o
+dil meraa beqaraar hai ) \-2
+tumhaarii
+
+( qisamat ke maare jaaye.n kahaa.N
+milataa nahii.n hai teraa nishaa.N
+haay teraa nishaa.N ) \-2
+aa ke mujhe tuu de jaa sahaare \-2
+iltazaa baar\-baar hai
+
+dil meraa beqaraar hai
+ho o o
+dil meraa beqaraar hai
+tumhaarii yaad me.n
+mere balamaa
+o mere saajanaa
+dil meraa haay beqaraar hai
+dil meraa beqaraar hai
+ho o o
+dil meraa beqaraar hai
+tumhaarii
+%
+#endindian
+\endsong
+

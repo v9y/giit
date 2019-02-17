@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{aa pyaar ke ra.ng bhare.n pyaare alfaazo.n me.n}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa pyaar ke ra.ng bhare.n pyaare alfaazo.n me.n
+yuu.n sune.n ham dil kii baate.n apanii aavaazo.n me.n
+aa pyaar ke ra.ng \threedots
+
+jisane dil dha.Dakaayaa us pal ko ham yaad kare.n
+us pal kii yaado.n se naGme.n ham aabaad kare.n
+sa.ngiit nayaa jaagaa ho sa.ngiit nayaa jaagaa
+dha.Dakan ke in saazo.n me.n
+aa pyaar ke ra.ng \threedots
+
+milanaa aur bichhu.Danaa is jiivan kii riit rahii
+kitane ruup badale man me.n lekin priit rahii
+hai.n ra.ng vafaa_o.n ke apane is andaazo.n me.n
+aa pyaar ke ra.ng \threedots
+%
+#endindian
+\endsong
+

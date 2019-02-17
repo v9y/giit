@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaane kaise kab kahaa.N iqaraar ho gayaa}%
+\film{Shakti}%
+\year{1982}%
+\starring{Dilip Kumar, Rakhee, Amitabh Bachchan, Smita Patil, Amrish Puri}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane kaise kab kahaa.N iqaraar ho gayaa
+ham sochate hii rah gae aur pyaar ho gayaa   (2)
+
+gulashan banii.n galiyaa.N sabhii
+phuul ban gae kaliyaa.N sabhii     (2)
+
+lagataa hai meraa seharaa tayyAr ho gayaa
+ham sochate \threedots 
+
+tumane hame bebas kiyaa
+dil ne hame dhokhaa diyaa 
+uf taubaa jiinaa kitanaa dush{}vaar ho gayaa
+ham sochate \threedots 
+
+ham chup rahe kuchh na kahaa
+kahane ko kyaa baaqii rahaa
+bas aa.Nkho.n hii aa.Nkho.n me.n iqaraar ho gayaa
+%
+#endindian
+\endsong
+%

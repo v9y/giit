@@ -1,0 +1,108 @@
+
+%
+\startsong
+\stitle{tiitar ke do aage tiitar}%
+\film{Mera Naam Joker}%
+\year{1970}%
+\starring{Raj Kapoor, Manoj Kumar, Rishi Kapoor, Dharmendra, Dara Singh, Rajendra Kumar, Padmini, Simi Garewal, Achala Sachdev, Om Prakash, Ksiena Rabianka}%
+\singer{Asha, Simi, Mukesh, Chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #12185 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+aa \:	( tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar ) \-2
+
+si \:	bolo
+	bataa_o
+
+aa \:	tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar
+
+ko \:	do
+si \:	uu.n hu.N
+ko \:	paa.Nch
+si \:	ai.n hu.N
+ko \:	saat
+si \:	a.n hu.N
+ko \:	ta ta ta ta ta ta tiin
+si \:	shaabaash
+	##laugh##
+
+si \:	chaar kachare kachhe chaachaa
+	chaar kachare pakke
+	pakke kachare kachhe chaachaa
+	kachche kachare pakke
+aa \:	chaar kachare kachhe chaachaa
+	chaar kachare pakke
+	pakke kachare kachhe chaachaa
+	kachche kachare pakke
+
+si \:	bolo
+
+ko \:	chaar kachare kachhe chaachaa
+	chaar kachare pakke
+	pakke kachare kachhe chaachaa
+	kachche kachare pakke
+
+aa \:	pakke kachare kachhe chaachaa
+	kachche kachare pakke
+
+	tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar
+
+ko \:	tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar
+
+si \:	piiTh uu.Nchii uu.NTh kii
+	uu.Nchaa_ii se nahii.n hotii
+	hotii hii hai hotii hii hai
+	piiTh uu.Nchii uu.NTh kii
+aa \:	piiTh uu.Nchii uu.NTh kii
+	uu.Nchaa_ii se nahii.n hotii
+	hotii hii hai hotii hii hai
+	piiTh uu.Nchii uu.NTh kii
+si \:	hai.n naa
+	raajuu tum bhii gaa_o
+
+mu ko \:	piiTh uu.Nchii uu.NTh kii
+	uu.Nchaa_ii se nahii.n hotii
+	hotii hii hai hotii hii hai
+	piiTh uu.Nchii uu.NTh kii
+
+aa \:	hotii hii hai hotii hii hai
+	piiTh uu.Nchii uu.NTh kii
+
+aa \:	tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar
+
+ko \:	tiitar ke do aage tiitar
+	tiitar ke do piichhe tiitar
+	aage tiitar
+	piichhe tiitar
+	bolo kitane tiitar
+
+aa \:	aa
+%
+#endindian
+\endsong
+

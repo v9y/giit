@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{o nii.nd na mujhako aaye}%
+\film{Post Box No. 999}%
+\year{}%
+\starring{}%
+\singer{Lata, Hemant}%
+\music{Kalyanji-Anandji}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: David Anthony Windsor
+% Transliterator: David Anthny Windsor
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+he: o nii.nd na mujh ko aae,
+    dil mera ghabaraae
+    chup ke chup ke, koii aa ke,
+    soyaa pyaar jagaae
+la: o nii.nd \threedots
+
+he: soyaa huaa sa.Nsaar hai,
+    soyaa huaa sa.Nsaar
+    mai.n jaaguu.N yahaa.N,
+    tuu jaage vahaa.N,
+    ek dil me.n dard dabaae
+
+do: o nii.nd \threedots
+
+la: ek biich me.n diivaar hai,
+    ek biich me.n diivaar
+    mai.n ta.Dapuu.N yahaa.N,
+    tuu ta.Dape vahaa.N,
+    haay chain jiyaa ko nahii.n aae
+
+do: o nii.nd \threedots
+
+he: mai.n huu.N yahaa.N beqaraar
+    tuu hai vahaa.N beqaraar
+    mai.n gaauu.N yahaa.N
+    tuu gaaye vahaa.N
+    dil ko dil bahalaae
+
+do: o nii.nd \threedots
+
+%
+#endindian
+\endsong
+%

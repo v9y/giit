@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ruk jaa o jaanevaalii ruk jaa, mai.n to raahii terii ma.nzil kaa}%
+\film{Kanhaiyya}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K.G. (gopala@cs.wisc.edu)
+% Credits: Satyan R. Coorg (satyan@au-bon-pain.lcs.mit.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ruk jaa o jaane vaalii ruk jaa
+mai.n to raahii terii ma.nzil kaa
+nazaro.n me.n terii mai.n buraa sahii
+aadamii buraa nahii.n mai.n dil kaa  \- (2)
+
+dekhaa hii nahii.n tujhako
+suurat bhii na pahachaanii
+tuu aake chalii chham se
+yuu.N Duubake din paanii \- (2)
+	    ruk jaa \threedots
+
+mud.hdat se mere dil ke
+sapano.n kii tuu raanii hai
+ab tak na mile lekin
+pahachaan puraanii hai \- (2)
+	    ruk jaa \threedots
+
+aa pyaar kii raaho.n me.n
+baaho.n kaa sahaaraa le
+duniyaa jise gaatii hai
+us giit ko doharaa le  \- (2)
+	    ruk jaa \threedots
+%
+#endindian
+\endsong
+%

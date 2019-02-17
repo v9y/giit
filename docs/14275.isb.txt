@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{dil shaam se Duubaa jaataa hai}%
+\film{Sanskaar}%
+\year{1958}%
+\starring{Ameeta, Anant Kumar, Ranjana, Yaqub, Leela Mishra}%
+\singer{Asha}%
+\music{Anil Biswas}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: BOL ANAMOL #11444 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+dil shaam se Duubaa jaataa hai \-2
+raat aa_egii to kyaa hogaa \-2
+jab naagan banakar tanahaa_ii \-2
+Das jaa_egii to kyaa hogaa \-2
+dil shaam se Duubaa \threedots
+
+jab pyaas mere aramaano.n kii
+har saa.Ns pe ba.Dhatii jaa_egii \-2
+ye kashtii jab tuufaano.n se \-2
+Takaraa_egii to kyaa hogaa \-2
+dil shaam se Duubaa \threedots
+
+raah takate agar thak jaa_e nazar
+detii hai tasallii aas magar \-2
+jab aas tasalii de\-de kar \-2
+thak jaa_egii to kyaa hogaa \-2
+dil shaam se Duubaa \threedots
+%
+#endindian
+\endsong
+

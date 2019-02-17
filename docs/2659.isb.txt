@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{merii raato.n ke a.ndhere me.n ujaale tum ho}%
+\film{Khoobsurat}%
+\year{1952}%
+\starring{}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Shams Azimabadi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+merii raato.n ke a.ndhere me.n ujaale tum ho
+jis pe sau chaa.Nd hai.n qurabaan vo taare tum ho
+merii raato.n ke \threedots
+
+jis taraf dekhataa huu.N tum hii nazar aate ho
+jo nigaaho.n me.n base hai.n vo nazaare tum ho
+jis pe sau chaa.Nd hai.n qurabaan \threedots
+
+dil to kyaa chiiz hai ab jaan bhii hai tum pe nisaar
+jaan\-o\-dil se bhii jyaadaa mujhe pyaare tum ho
+jis pe sau chaa.Nd hai.n qurabaan \threedots
+
+%
+#endindian
+\endsong
+%

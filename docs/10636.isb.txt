@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tum hame.n bhuul ga_e ham na tumhe.n bhuul sake}%
+\film{Balam}%
+\year{1949}%
+\starring{Suraiya, Vasti, Nigaar, Masud, Jayant, Agha}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10399 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum hame.n bhuul ga_e ham na tumhe.n bhuul sake \-2
+tum hame.n bhuul ga_e \threedots
+
+meraa TuuTaa hu_aa dil unako dikhaa_o jaa kar
+ek baar to unako ye paigaam sunaa_o jaa kar
+tum hame.n bhuul ga_e \threedots
+
+ai havaa jaanaa zaraa unakii galii se ho kar
+vo meraa haal jo puuchhe to ye kahanaa ro kar
+tum hame.n bhuul ga_e \threedots
+
+tum to milate hii nahii.n ham yaad se mil lete hai.n
+tum to sunate hii nahii.n ham yaad se kah dete hai.n
+tum hame.n bhuul ga_e \threedots
+%
+#endindian
+\endsong
+

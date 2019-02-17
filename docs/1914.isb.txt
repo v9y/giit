@@ -1,0 +1,36 @@
+%
+startsong
+\stitle{ye kaisii adaaye.n hai.n unakii adaaye.n}% 
+\film{Raagrang}% 
+\year{}%
+\starring{Geeta Bali}% 
+\singer{Lata}% 
+\music{Roshan}% 
+\lyrics{Kaif Irfani}% 
+% 
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com) 
+% Transliterator: K Vijay Kumar
+% Date: April 7, 1998
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+ye kaisii adaa_e.n, hai.n unakii adaa_e.n
+ke dil ko bhii to.De.n, nazar bhii na aa_e.n
+
+ye dil jo lagaayaa, ba.Dii choT khaa_ii
+jafaa tumane kii, aur mujhe sham.r aa_ii
+mujhe le na Duube ye merii khataa_e.n
+ye kaisii adaa_e.n   \threedots
+
+vahii aasamaa.N hai, vahii chaa.Nd taare
+magar tum nahii.n vo, na vaade tumhaare
+ye kis jum.r kii mil rahii hai.n sazaa_e.n
+ye kaisii adaa_e.n   \threedots
+
+% 
+#endindian 
+\endsong 
+%

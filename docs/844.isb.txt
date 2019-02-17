@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{jaisaa des, vaisaa bhes, phir kyaa Daranaa}%
+\film{Des Pardes}%
+\year{}%
+\starring{Dev Anand, Tina Munim}%
+\singer{Kishore, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+% 
+ki: 	jaisaa des, vaisaa bhes, phir kyaa Daranaa
+la:     oha \threedots haay
+ki: 	jaisaa des, vaisaa bhes, phir kyaa Daranaa
+	are, chho.Do raanii chho.Do, yuu.Nhii.n aahe.n bharanaa
+	are, kaahe kii sharam hai ku.Diye, jal_dii karanaa
+la:	mai.n nahii.n karanaa, yuu.N nahii.n bananaa \- 2
+
+la:	kaisii ye nagariyaa, kaise hai.n ye log, kaise hai.n ye log
+	haaya sabako laagaa, prabhu, besharamii kaa rog
+	aba tuu hii bataa bhagavAn, mai.n bhii kyaa karuu.N
+	mai.n bhii kyaa karuu.N
+	mai.n to kuchha bhii karane se, naa jaane kyuu.N Daruu.N
+	ghu.NghaTaa, kholuu.N naa kholuu.N, naa kholuu.N, kholuu.N re
+ki:	are chho.D de nakharaa aba to goriye
+	are aayaa hai maukaa le aba tuu bana saa.Nvaranaa
+	are kaahe kii sharam hai ku.Diye, jal_dii karanaa
+la:	mai.n nahii.n karanaa, yuu.N nahii.n bananaa \- 2
+
+ki:	mana ko Dhak le gorii, tana kaa Dhakanaa hai bekaar
+	Dhakanaa hai bekaar
+	phuul naa mahake jaba taka, usakaa khilanaa hai bekaar
+	are, aksara aisaa hotaa hai pahalii pahalii baar
+	pahalii pahalii baar
+	aa mujhase tuu le le himmat tho.Dii sii udhaar
+	jhuuTha, boluu.N naa, boluu.N naa, boluu.N, boluu.N re
+la:	are, gira naa jaauu.N, mai.n to kamasin re, aauucha
+ki:	are, haatho.n me.n mere tuu apanaa haatha dharanaa
+la:     are, kaahe kii sharama ve mu.N.Dayaa, jal_dii karanaa
+ki:	are vaaha bhaI vaaha, huii gala naa
+la:	jaisaa des, vaisaa bhes, phir kyaa Daranaa
+dono:   jaisaa des, vaisaa bhes, phir kyaa Daranaa
+la:	are, kaahe kii sharama ve mu.N.Dayaa, jal_dii karanaa\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aaye na baalam vaadaa kar ke}%
+\film{Shabab}%
+\year{1955}%
+\starring{Bharat Bhushan, Nutan}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aaye na baalam vaadaa kar ke
+aaye na baalam vaadaa kar ke
+thak gaye nainaa dhiiraj dhar ke
+aaye na baalam \threedots
+
+chhup gayaa chandaa luT gayii jyoti
+taare ban gaye jhuuThe motii
+pa.D gaye phiike ra.ng najar ke
+aaye na baalam \threedots
+
+aao ki tum bin aa.Nkho.n me.n dam hai
+raat hai lambii jiivan kam hai
+dekh luu.N tum ko mai.n jii bhar ke
+aaye na baalam \threedots
+
+%
+#endindian
+\endsong
+%

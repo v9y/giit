@@ -1,0 +1,42 @@
+% ITRANS SONG # 3364; Created on Jan 26, 2004
+%
+% From: Prithviraj (prithvidg@hotmail.com)
+% Date: 2000-12-11 20:40:17 PST
+%
+\startsong
+\stitle{jiivan hai bekaar binaa tumhaare}%
+\film{Wapas}%
+\year{1943}%
+\starring{Asit Baran, Bharati Devi}%
+\singer{Asit Baran, Indrani Roy}%
+\music{R C Boral}%
+\lyrics{Pt Bhushan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Dec 11, 2000
+%
+\printtitle
+#indian
+%
+i:   jiivan hai bekaar binaa tumhaare binaa tumhaare
+     suunaa sab sa.nsaar binaa tumhaare binaa tumhaare
+     binaa tumhaare in nainan me ghor a.ndheraa chhaa_e
+     chalatii hu_ii havaa tham jaa_e sukh kii saa.Ns na aa_e
+     TuuTe dil ke taar binaa tumhaare binaa tumhaare
+
+a:   ham se na bhed chhupaa_o sajanii
+     Kud bano na hame.n banaa_o
+     man me.n aur zubaa.N  par bhalaa ye kaisaa dhokaa
+     jisakii man me chaah usii ko  ye rokaa vo Tokaa
+     kaun kahegaa priit ise ye kaisaa ulTaa pyaar
+a/i: jiivan hai bekaar \threedots
+
+i:   tum ho o o
+     tum ho paas jo ujarii bagiyaa.N pal bhar me bas jaa_e
+     maut zi.ndagii bane anokhii ra.ngat muuh par aa_e
+a:   mast havaa_e.N hasii.N khushii kii guu.nj uThe champaa
+a/i: jiivan hai bekaar \threedots
+%
+#endindian
+\endsong
+%

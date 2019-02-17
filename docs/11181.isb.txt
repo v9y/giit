@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{dulhan tuu duulhaa mai.n ban jaa_uu.ngaa}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal. Debashish Dasgupta}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dulhan tuu duulhaa mai.n ban jaa_uu.ngaa
+meraa i.ntazaar karanaa baaraat lekar aa_uu.ngaa
+
+duulhaa tuu dulhan mai.n ban jaa_uu.ngii
+dekh sajanaa pyaar me.n tere mar jaa_uu.ngii
+
+mere jiivan saathii jab se dil me.n mere aa_e ho
+janm janm ke pyaar ko apane saath me.n jaise laa_e ho
+dekhaa maine tujhako jab se maa.ng liyaa tumhe.n apane rab se
+tujh bin jii na paa_uu.ngii
+duulhaa tuu dulhan mai.n \threedots
+%
+#endindian
+\endsong
+

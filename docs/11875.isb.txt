@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{o bichha.De hu_e saathii jiyuu.N kaise bataa de}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Balraj Sahni}%
+\singer{Rafi, Lata}%
+\music{Mohammed Shafi}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10330 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \: o bichha.De hu_e saathii jiyuu.N kaise bataa de
+	uja.Dii hu_ii duniyaa ko merii aa ke basaa de \-2
+ra \: o bichha.De hu_e saathii na ro\-ro ke sadaa de
+	fariyaad terii aur meraa Gam na ba.Dhaa de
+
+la \:	Gam terii judaa_ii ke uThaa_e nahii.n jaate \-2
+	dushvaar hai jiinaa mujhe ( marane kii du_aa de ) \-2
+	o bichha.De hu_e saathii \threedots
+
+ra \:	ha.Ns\-ha.Ns ke merii yaad me.n din kaaT de Gam ke \-2
+	mumakin hai ki taqadiir kabhii ( hamako milaa de ) \-2
+	o bichha.De hu_e saathii \threedots
+%
+#endindian
+\endsong
+

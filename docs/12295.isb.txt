@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ye la.Dakaa haa_y allaah haa_y haa_y re allaah}%
+\film{Kabhi Khushi Kabhi Gham}%
+\year{2002}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Shahrukh Khan, Kajol, Hritik Roshan, Kareena Kapoor}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor:  V S Rawat
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+banno kii meha.ndii kyaa kahanaa
+banno kii jo.Daa kyaa kahanaa
+banno lage hai phuulo.n kaa gahanaa
+banno kii aa.Nkhe.n kajaraarii
+banno lage sabase pyaarii
+banno pe jaa_uu.N mai.n vaarii vaarii
+
+banno kii sahelii resham kii Dorii
+chhup chhup ke sharamaa_e dekhe chorii chorii
+ye maane yaa naa maane mai.n to is pe mar gayaa
+ye la.Dakii haa_y allaah haa_y haa_y re allaah
+
+baabul kii galiyaa.N naa chhaDD ke jaaNaa
+paagal diivaanaa is ko samajhaanaa
+dekho jii dekho ye to mere piichhe pa.D gayaa
+ye la.Dakaa haa_y allaah haa_y haa_y re allaah
+
+lab kahe.n naa kahe.n bolatii hai nazar
+pyaar nahii.n chhupataa yaar chhupaane se
+o ruup ghuu.NghaT me.n ho to suhaanaa lage
+baat nahii.n banatii yaar bataane se
+ye dil kii baate.n dil hii jaane yaa jaane Kudaa
+ye la.Dakaa haa_y allaah haa_y haa_y re allaah
+
+sajanaa maa.Ngane se kabhii haath nahii.n milataa
+jo.Diyaa.N banatii hai.n pahale se sabakii
+le ke baaraat ghar tere aa_uu.Ngaa mai.n
+merii nahii.n ye to marzii hai rab kii
+are jaa re jaa yuu.N jhuuThii muuThii baate.n naa banaa
+ye la.Dakaa haa_y allaah haa_y haa_y re allaah
+
+banno kii sahelii \threedots
+baabul kii galiyaa.N \threedots
+
+ye la.Dakii haa_y allaah haa_y haa_y re allaah
+ye la.Dakaa haa_y allaah haa_y haa_y re allaah
+
+e ye la.Dakii haa_y allaah haa_y haa_y re allaah
+ye la.Dakaa haa_y allaah haa_y haa_y re allaah
+%
+#endindian
+\endsong

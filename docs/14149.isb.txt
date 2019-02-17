@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{Dafalii vaale Dafalii bajaa}%
+\film{Sargam}%
+\year{1979}%
+\starring{Rishi Kapoor, Jayaprada}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11284 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	Dafalii vaale Dafalii bajaa
+	mere ghu.Ngharuu bulaate hai.n aa
+	mai.n naachuu.N tuu nachaa
+	Dafalii vaale \threedots
+
+	tere bin mai.n kyaa mere bin tuu kyaa ik duuje bin ham akele
+	dono.n ke man se man ke milan se lagate hai.n saragam ke mele ( haay ) \-3
+	tuu to.De ke jo.De tuu rakhe ke chho.De ye dil kiyaa tere havaale
+	Dafalii vaale \threedots
+
+ra \:	terii chham\-chham se merii Dam\-Dam se kyaa ra.ng chhaane lagaa hai
+la \:	aa.Nkho.n ke raste tuu ha.Nsate\-ha.Nsate \-2
+	dil me.n samaane lagaa hai ( haay ) \-3
+ra \:	( unhe.n bhii bulaa_o ) \-2 unhe.n bhii dikhaa_o kahaa.N hai.n ye duniyaa vaale
+la \:	Dafalii vaale \threedots
+%
+#endindian
+\endsong
+

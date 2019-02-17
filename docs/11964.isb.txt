@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{dekh sakate nahii.n tumako jii bhar ke ham}%
+\film{Ilzam}%
+\year{1970}%
+\starring{Dara Singh, Sanjana, Premna, Azra, Tiwari, Ulhas, Mumtaz Begum}%
+\singer{Mukesh}%
+\music{Usha Khanna}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10466 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dekh sakate nahii.n tumako jii bhar ke ham
+dil me.n kisake Gumaa.n kyaa guzar jaa_egaa
+tumako apanaa kahe.n to kahe.n kis tarah 
+saarii mahafil kaa cheharaa utar jaa_egaa
+dekh sakate nahii.n \threedots
+
+tum bhii betaab ho ham bhii bechain hai.n
+dil se milane kii hasarat machalane lagii
+sabr kaa ab to daaman sulagane lagaa
+pyaar kii aag siine me.n jalane lagii
+tumase milane na paa_e agar aaj ham
+lagataa hai dil hii Thahar jaa_egaa
+dekh sakate nahii.n \threedots
+
+ho kisii desh me.n yaa kisii bheSh me.n
+shakle.n apano.n kii pahachaan letaa hai dil
+tum kaho na kaho ham kahe.n naa kahe.n
+baat dil kii to khud jaan letaa hai dil
+saamane bas yuu.N hii muskaraate raho
+zindagii kaa muqaddar sa.Nvar jaa_egaa
+dekh sakate nahii.n \threedots
+%
+#endindian
+\endsong
+

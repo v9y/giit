@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{kitanaa pyaaraa hai ye pyaar ... haay meraa dil}%
+\film{Josh}%
+\year{2000}%
+\starring{Shahrukh Khan, Aishwarya Rai, Chandrachud Singh, Sharad Kapoor, Priya Gil}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kitanaa pyaaraa hai ye pyaar pyaaraa pyaaraa
+hu_aa hai pahalii baar hotaa hai ek baar
+phir naa hogaa ye dobaaraa
+
+haay meraa dil churaake le gayaa
+churaane vaalaa meraa qaatil
+
+haay meraa dil churaake le ga_ii
+churaane vaalii merii qaatil
+
+ye dil tujhape aayaa hai aate aate
+dard\-e\-dil to jaataa hai jaate jaate
+jaage hai.n so_e hai.n
+ham dono kho_e hai.n
+kaisii tanhaa_ii hai
+mastii sii chhaa_ii hai
+ye mausam hai pyaar ke qaabil
+haay meraa dil \threedots
+
+ab to kaaTe naa kaTe.n pyaasii raate.n
+kuchh kuchh hotaa hai sunake aisii baate.n
+bechainii sahane de
+palako.n me.n rahane de
+terii baaho.n me.n hai
+terii raaho.n me.n hai
+jaan\-e\-jaa.n merii ma.nzil
+haay meraa dil \threedots
+%
+#endindian
+\endsong
+

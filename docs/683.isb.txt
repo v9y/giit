@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ham matavaale naujavaa.N, ma.nzilo.n ke ujaale}%
+\film{Shararat}%
+\year{1959}%
+\starring{Kishore Mumar, Meena Kumari, Raajkumar, Kumkum}%
+\singer{Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Kannan Muthukkaruppan (mkannan@mahogany.CS.Berkeley.EDU)
+% Transliterator: Anurag Acharya (anurag_acharya@cs.cmu.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham matavAle naujavaa.N, ma.nzilo.n ke ujaale
+log kare badanAmI, kaise ye duniyaa vaale 
+kare bhalAI ham, bure bane.n har dam
+is jahA.N kI, rIt nirAlI 
+pyAr ko samajhe, hAy re hAy sitam
+ham matavAle naujavaa.N \threedots
+
+ham dhUl me.n lipaTe sitAre, ham zarre nahI.n hai.n a.ngAre
+nAdA.N hai jahA.N, samajhegA kahA.N, ham naujavA.N ke ishAre 
+jab jab jhUm ke nikale ham, jaan ke pa.D jAye.n lAle
+log kare.n badanAmI, kaise ye duniyaa vAle
+ham matavAle naujavaa.N \threedots
+
+ham rote dilo.n ko ha.NsA de.n, dukh dad.r kI aag bujhaa de.n
+bechain nazar, betaab jigar, ham sabako ko gale se lagA le.n
+ham man maujI shahazAde, dukhiyo.n ke rakhavAle
+log kare.n badanAmI, kaise ye duniyaa vaale
+kare.n bhalAI ham, bure bane har dam
+is jahA.n kI, rIt nirAlI, 
+pyAr ko samajhe, hAy re hAy sitam
+
+ham matavAle naujavaa.N, ma.nzilo.n ke ujAle
+log kare.n badanAmI, kaise ye duniyaa vAle
+%
+#endindian
+\endsong
+%

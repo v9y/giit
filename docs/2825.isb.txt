@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dil ne to diyaa dhokhaa}%
+\film{Bedardi}%
+\year{1951}%
+\starring{}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil ne to diyaa dhokhaa muhabbat ne sazaa dii
+rotii huii aa.Nkho.n ne ha.Nsii Gam kii u.Daa dii
+dil ne to diyaa dhokhaa \threedots
+
+tinako.n ko bachaataa hii nahii.n ku.Nj havaa se
+barabaad nasheman ho to ho merii balaa se
+duniyaa jo basaa_ii thii vo duniyaa hii miTaa dii
+dil ne to diyaa dhokhaa \threedots
+
+ik mai.n huu.N ki ab tak vo jafaa_e.n nahii.n bhuulaa
+nazare.n nahii.n bhuulaa vo adaa_e.n nahii.n bhuulaa
+ik tum ho ki do din me.n merii yaad bhulaa dii
+dil ne to diyaa dhokhaa \threedots
+
+%
+#endindian
+\endsong
+%

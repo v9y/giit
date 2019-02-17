@@ -1,0 +1,73 @@
+%
+\startsong
+\stitle{tere bin mai.n kuchh bhii nahii.n ... tere saare aa.Nsuu mere}%
+\film{Naaraaz}%
+\year{1994}%
+\starring{Mithun Chakraborty, Pooja Bhatt, Atul Agnihotri, Sonali Bendre}%
+\singer{Kumar Sanu, Udit Narayan, Anu Malik}%
+\music{Anu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Audio On: Tips
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saanu:
+(tere bin mai.n kuchh bhii nahii.n)\-4
+tere saare aa.Nsuu mere merii saarii Kushiyaa.N terii
+
+udit:
+(tere bin mai.n kuchh bhii nahii.n)\-2
+tere saare aa.Nsuu mere merii saarii Kushiyaa.N terii
+
+saanu:
+tere bin mai.n kuchh bhii nahii.n
+udit:
+tere bin mai.n kuchh bhii nahii.n
+
+saanu:
+(tuu aasamaa.N mai.n zamii.n 
+tuu jahaa.N mai.n bhii vahii.n
+merii duniyaa bas tuu hii tuu 
+tuu nahii.n to mai.n bhii nahii.n)\-2
+% tiirath as pronounced
+(mai.n chaaro.n dhaam kyo.n jaa_uu.N mere tiirath hai.n bas yahii.n)\-2
+udit:
+tere saare aa.Nsuu mere merii saarii Kushiyaa.N terii
+saanu:
+(tere bin mai.n kuchh bhii nahii.n)\-2
+udit:
+(tere bin mai.n kuchh bhii nahii.n)\-2
+
+udit:
+(do shahazaade raat akelii 
+rah naa jaa_e baat adhuurii)\-2
+anu:
+mere bhaa_ii tuu mujhase kuchh kahanaa chaahataa hai
+kah de naa 
+ye adhuurii baat mujhe samajh me.n nahii.n aatii
+ko_ii to ba.Dii baat hai bhaa_ii
+apane chhoTe bhaa_ii se kyo.n chhupaataa hai
+udit:
+(mai.n dil huu.N dha.Dakan tuu hai 
+kaise bhuuluu.N bachapan tuu hai)\-2
+ye duniyaa hai zaalim ba.Dii 
+ba.Daa bholaa tuu maasuum hai
+(ek baazuu se hogaa uThaanaa mere bhaa_ii tujhe ye zamii.n)\-2
+saanu:
+tere saare aa.Nsuu mere merii saarii Kushiyaa.N terii
+(udit:
+tere bin mai.n kuchh bhii nahii.n
+saanu:
+tere bin mai.n kuchh bhii nahii.n)\-2
+saanu:
+tere saare aa.Nsuu mere 
+udit:
+merii saarii Kushiyaa.N terii
+%
+#endindian
+\endsong

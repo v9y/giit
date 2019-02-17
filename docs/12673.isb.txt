@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{vo hotaa hai vo jo ... hamako jii vo ho gayaa haay raamaa raamaa}%
+\film{Love Ke Liye Kuch Bhi Karega}%
+\year{2001}%
+\starring{Fardin Khan, Aftab Shivdasani, Saif Ali Khan, Sonali Bendre, Twinkle Khanna}%
+\singer{Asha, Sonu Nigam}%
+\music{Vishal}%
+\lyrics{Abbas Tyrewala}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vo hotaa hai vo jo bas ho jaataa hai
+hotaa hai naa jisame.n kuchh ho jaataa hai
+haay haay haay 
+vo hotaa hai \threedots
+
+hamako jii vo ho gayaa haay raamaa raamaa
+are chupake chupake aise gul ho jaataa hai
+are apanaa jii gul ho gayaa haay raamaa raamaa
+raamaa raamaa raamaa raamaa haay raamaa raamaa
+
+ho sunate hai.n sapano.n me.n baate.n sunii hu_ii
+o.Dh ke nii.ndo.n me.n ham raate.n bunii hu_ii
+ho aa.Nkho.n me.n kahaanii hai khvaabo.n kii zubaanii hai
+jaagaa raat bhar subah ko mai.n so gayaa
+haay raamaa raamaa
+
+mastaanaa kadamo.n ko rastaa judaa lage
+har patthar kaa cheharaa jaise Kudaa lage
+dekho to naadaanii hai samajho to ruumaanii hai
+jhuuThaa saa ye pal sachchaa kaise ho gayaa
+haay raamaa raamaa
+
+apanaa jii vo kho gayaa
+are chupake se gul ho gayaa
+hamako jii vo ho gayaa
+haay raamaa
+%
+#endindian
+\endsong
+

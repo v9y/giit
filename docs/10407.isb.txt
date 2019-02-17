@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{##I am in Love## ... ko_ii hai aashiq ko_ii mahabuub hai}%
+\film{Aashiq Hoon Bahaaron Ka}%
+\year{1977}%
+\starring{Rajesh Khanna, Zeenat Aman, Danny, Om Prakash, Asrani}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11578 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+##oho laa##
+##I am in Love. you are in love.##
+##He is in love. She is in love##
+
+ko_ii hai aashiq ko_ii mahabuub hai
+yah duniyaa Kuub hai \-2
+##I am in Love.## \threedots
+
+kahii.n pe romiyo\-juuliyaT kahii.n raa.njhaa kahii.n hiir
+kahii.n shiirii\-farahaad ye naam sabako hai yaad
+sabake bahaane dil se manasuub hai.n
+yah duniyaa Kuub hai \threedots
+
+kitane hai.n mausam lekin yah rut hai ek suhaanii
+baraso.n kii zindagaanii me.n do din kii hai javaanii
+aur ye javaanii dil se manasuub hai
+yah duniyaa kuub hai \threedots
+%
+#endindian
+\endsong
+

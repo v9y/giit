@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aashaa niraashaa to jiivan me.n aa_e ... haare.nge na himmat kabhii}%
+\film{Mr. Bond}%
+\year{1992}%
+\starring{Akshay Kumar, Sheeba, Saathi Ganguli, Ruchika Pandey, Dolly Minhas}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aashaa niraashaa to jiivan me.n aa_e honii ko ko_ii rok na sake
+Dar ke na ruk jaanaa ba.Dhate jaanaa
+haare.nge na himmat kabhii le le.n chalo ham kasam
+aashaa niraashaa to \threedots
+
+mausam badalataa rahegaa ye daur chalataa rahegaa
+do gha.Dii kaa a.ndheraa aayegaa phir saveraa
+ye vaqt to rukataa nahii.n ambar kabhii jhukataa nahii.n
+aa.ndhii se tuufaa.n se na ghabaraanaa
+haare.nge na himmat \threedots
+
+kaa.NTo.n me.n bhii gul khile.nge Gam kii bhii gul khushii hai
+aa.Nsuu ke piichhe ha.Nsii hai
+ummiid ko khonaa nahii.n maayuus tum honaa nahii.n
+mushkil kii gha.Diyo.n me.n tum muskaraanaa
+haare.nge na himmat \threedots
+%
+#endindian
+\endsong
+

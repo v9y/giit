@@ -1,0 +1,41 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{mujhe dard tuune ye kyaa}%
+\film{Saloni}%
+\year{1952}%
+\starring{Ashok Kumar, Nalini Jaywant}%
+\singer{Lata}%
+\music{Basant Prakash}%
+\lyrics{Arjun Dev Ashk}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 19 May 2005
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+mujhe dard tuune ye kyaa diyaa
+na mai.n jii sakuu.N na mai.n mar sakuu.N
+
+meraa bas chale tumhe.n aa miluu.N
+meraa bas chale mai.n bhulaa hii duu.N
+merii bebasii zaraa dekh tuu
+na ye kar sakuu.N na vo kar sakuu.N
+
+merii bebasii kaa jo bas chale
+tumhe.n jaake meraa payaam de
+mai.n jo zi.ndaa huu.N to bas is liye
+teraa i.ntazaar hii kar sakuu.N
+
+mujhe dard ye tuu ne kyaa diyaa \threedots
+
+%
+#endindian
+\endsong

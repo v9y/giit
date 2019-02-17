@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n ne ik giit likhaa hai}%
+\film{Yeh Nazdeekiyaan}%
+\year{1982}%
+\starring{Jeetendra, Parveen Babi, Shabana Azmi}%
+\singer{Anuradha Paudwal}%
+\music{Raghunath Seth}%
+\lyrics{J P Dixit}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+mai.n ne ik giit likhaa hai, jo tumako sunaatii huu.N
+soye hu_e ra.ngii.n Kvaabo.n ko, saa.Nso.n se sajaatii huu.N
+
+ha.Nsate hu_e phuulo.n pe, Thaharii hu_ii shabanam hai
+yah kaun saa naGamaa hai, yah kaun sii saragam hai
+ik saaz jo gumasum hai, mai.n usako jagaatii huu.N
+mai.n ne ik giit likhaa hai   \threedots
+
+yah dhuup khaTakatii sii, soye hu_e saaye hai.n
+kis desh se chal kar yah, is desh me.n aaye hai.n
+mai.n inakii sadaa banakar us paar se aatii huu.N
+saa.Nso.n me.n samaatii huu.N
+mai.n ne ik giit likhaa hai   \threedots
+
+ik pyaar kii siharan hai, mad_mast phuhaaro.n me.n
+ik shokh sharaarat hai, ra.ngiin nazaaro.n me.n
+is pyaar ke saaGar me.n, maujo.n ko uThaatii huu.N
+mai.n ne ik giit likhaa hai   \threedots
+
+%
+#endindian
+\endsong
+%

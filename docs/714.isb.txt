@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{har koii chaahataa hai, ik muTThii aasamaan}%
+\film{Ek Mutthi Aasmaan}%
+\starring{}%
+\singer{Kishore}%
+\music{Madan Mohan}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Ravi Dronamraju  (ravid@herky.cs.uiowa.edu)
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+% Editor:  
+%
+\printtitle
+#indian
+%
+har koii chaahataa hai, ik muTThii aasamaan
+har koii Dhuu.NDhataa hai, ik muTThii aasamaan
+jo siine se lagaa le, ho aisaa ik jahaan
+har koii chaahataa hai, ik muTThii aasamaan, har koii \threedots
+
+chaa.Nd sitaaro.n kaa melaa hai, ye dil phir bhii akelaa hai \- 2
+mahafil me.n hai shahanaaii, phir bhii dil me.n hai tanahaaii
+hai saa.Nso.n me.n jaise ka_ii tuufaan, har koii, har koii \threedots
+
+% (tej dhuun me.n)
+milataa nahii.n kyaa yahaa.N ai dil, phir kyo.n nA mile giito.n kI ma.njil 
+chalate jaanaa yuu.N hii rAho.n me.n, bhar hii lagaa koI baaho.n mai.n 
+hameshaa rahegaa nA dil vIraan, har koI, har koI \threedots
+
+% (tej dhuun) 
+har koI \threedots
+mujhako jiine kA koI sahaaraa milaa, Gam ke tuufaan me.n koI kinaaraa milaa 
+suunii suunii thI jo raahe.n, ban gayii pyaar kii baahe.n 
+lo khushiyo.n se merI huii pahachaan, har koI, har koI \threedots
+
+% (dhiima dhuun)
+saudaa hai rishtedaarii, yaarii ek dikhaavaa hai 
+apanA kyA hai duniyA me.n, man kA ek chhalaavaa hai 
+kahaa.N milegaa tujhako yaar, zahar bharii duniyA me.n pyaar 
+sabhii ajanabii hai.n sabhii anjaan \- 2, har koI, har koI \threedots
+
+% (tej tej dhuun) 
+insaan honaa kaafii hai, koI farishtaa nahii.n to kyA 
+dilo.n ke rishte kyA kaam hai.n, khuun kA rishtaa nahii.n to kyA 
+gair hii banate hai.n apane, sach ho jaate hai.n sapane 
+jo dil kA ho sachchaa agar insaan, har koI, har koI \threedots
+%
+#endindian
+\endsong
+%

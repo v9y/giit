@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ikke ko baadashaah ne maaraa ... ye zindagii hai ek ju_aa}%
+\film{Zindagi Ek Juaa/ Life is a Gamble}%
+\year{1992}%
+\starring{Anil Kapoor, Madhuri, Suresh Oberoi, Shakti, Anupam, Amrish}%
+\singer{Kumar Sanu}%
+\music{Bappi Lahiri}%
+\lyrics{Prakash Mehra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ikke ko baadashaah ne maaraa baadashaah jo beGam se haaraa
+aur Gulaam a a am qismat kaa maaraa bechaaraa
+
+ye zindagii hai ek ju_aa kabhii jiit bhii kabhii haar bhii
+yahaa.N dushmano.n kii bhii.D me.n jaa mil jaa_e.nge tujhe yaar bhii
+tuu khelataa jaa khelataa jaa baaziyo.n pe baaziyaa.n \-2
+ye zindagii hai ek ju_aa \threedots
+
+ek baazii tuune jiitii ek baazii maine haarii
+kaun jiitaa kaun haaraa ye hai qissaa baad kaa
+ye zindagii hai ek ju_aa \threedots
+
+jab talak hai band muTThii vo hai pyaare laakh kii
+aur jaise hii khilii ho jaa_egii vo Kaaq kii
+laakh kyaa aur Kaaq kyaa ye hai kissaa baad kaa
+ye zindagii hai ek ju_aa \threedots
+
+ye zamaanaa mujhase hai mai.n zamaane se nahii.n
+har fasaanaa mujhase hai mai.n fasaane se nahii.n
+ek din zaalim jahaa.N merii dostii doharaa_egaa
+ye zindagii hai ek ju_aa \threedots
+%
+#endindian
+\endsong
+

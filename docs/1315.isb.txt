@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{nafarat karane vaalo.n ke siine me.n pyaar bhar duu.N}% 
+\film{Johnny Mera Naam}%
+\year{1970}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+nafarat karane vaalo.n ke siine me.n pyaar bhar duu.N \- 2
+are mai.n vo paravaanaa huu.N patthar ko mom kar duu.N
+nafarat karane vaalo.n ke siine me.n pyaar bhar duu.N
+
+(phir aap kyaa hai.n? hai.n? 
+aakhir to phuul hai.n, faulaad nahii.n hai.n
+are, bulabul hai.n kisii baaG ke, saiyaad nahii.n hai.n!)
+
+bulabul ke ta.Dapane se saiyaad pighalataa hai \- 2
+aaho.n me.n asar ho to faulaad pighalataa hai
+faulaad ke bhii dil me.n ulafat kii aag bhar duu.N
+are mai.n vo paravaanaa huu.N patthar ko mom kar duu.N
+nafarat karane vaalo.n ke siine me.n pyaar bhar duu.N
+
+(sharm\-o\-hayA kaa pardaa dush{}vaar nahii.n hai
+ajii halkaa saa ik paradA hai, diivaar nahii.n hai!)
+	
+aa.Nchal kii ye diivaar to diivaar nahii.n hai \- 2
+phir aap ke bhii dil me.n inkaar nahii.n hai
+inkaar jin labo.n me.n iqaraar uname.n bhar duu.N
+are mai.n vo paravaanaa huu.N patthar ko mom kar duu.N
+nafarat karane vaalo.n ke siine me.n pyaar bhar duu.N
+
+(ham vo hai.n,
+zindagii me.n kabhii saatha naa chho.De.nge!
+thaame.nge agar haath to phir haath naa chho.De.nge!!)
+
+ham haath naa chho.De.nge, tuufaa.n se kinaaro.n tak \- 2
+ham saath naa chho.De.nge, dharatii se sitaaro.n tak
+chaahata ke sitaaro.n se, dharatI kii maa.Ng bhar duu.N
+are mai.n vo paravaanaa huu.N patthar ko mom kar duu.N
+nafarat karane vaalo.n ke, siine me.n pyaar bhar duu.N
+are mai.n vo paravaanaa huu.N patthar ko mom kar duu.N
+nafarat karane vaalo.n ke, siine me.n pyaar bhar duu.N
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil jaan jigar tujhape nisaar kiyaa hai ... pyaar kiyaa hai re tujhe}%
+\film{Saajan Chale Sasuraal}%
+\year{1996}%
+\starring{Govinda, Karisma, Tabbu, Kader, Satish Kaushik, Satish Shah, Shakti}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil jaan jigar tujhape nisaar kiyaa hai
+kyuu.n
+pyaar kiyaa hai re tujhe pyaar kiyaa hai
+
+tuune bhii mujhe kitanaa bekaraar kiyaa hai
+kyuu.n
+pyaar kiyaa hai re bahut pyaar kiyaa hai
+dil jaan jigar tujhape \threedots
+
+mai.n to huu.N terii adaa_o.n kaa maaraa
+tuu hii kyuu.n samajhe na meraa ishaaraa
+jhuum ke tuu aajaa baaho.n me.n samaa jaa
+ab tak ba.Daa hii i.ntazaar kiyaa hai
+kyuu.n
+pyaar kiyaa hai \threedots
+
+merii taraf dekh zaraa nazare.n uThaa ke
+palako.n me.n rakhaa hai tujhako chhupaa ke
+apanaa banaa_e.nge tujhako rijhaa_e.nge
+tere li_e to ye si.ngaar kiyaa hai
+kyuu.n
+pyaar kiyaa hai \threedots
+%
+#endindian
+\endsong
+
+

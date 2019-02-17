@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{teraa pyaar se jiivan bhar jaa_e}%
+\film{Aarohi}%
+\year{1982}%
+\starring{}%
+\singer{Mukesh}%
+\music{Anand Saagar Kiran}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #11622 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+teraa pyaar se jiivan bhar jaa_e tere man kaa madhuban khil jaa_e
+lo suhaag kii ye chuu.Diyaa.N pahan tuu amar suhaagan ban jaa_e
+teraa pyaar se jiivan \threedots
+
+tere man kii uma.ng puurii ho.n tere sa.ng rahe jiivan\-saathii
+chandaa se kiraN kaa ye naataa jaise diipak ke sa.ng baatii
+tere ghar me.n sadaa ujiyaaraa ho tere pyaar me.n kaliyaa.N muskaa_e.N
+teraa pyaar se jiivan \threedots
+
+tere ka.Nganaa kii khan\-khan se nit guu.Nj uThe pii kaa a.nganaa
+apane is nuutan jiivan ko tuu priit ke ra.ngo.n se ra.nganaa
+tuu apane piyaa ke man bhaa_e terii maa.Ng si.nduurii sa.Nvar jaa_e
+teraa pyaar se jiivan \threedots
+%
+#endindian
+\endsong
+

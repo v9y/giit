@@ -1,0 +1,57 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mere ai dil bataa, pyaar tuune kiyaa}%
+\film{Jhanak Jhanak Paayal Baaje}%
+\year{1955}%
+\starring{Gopi Krishna, Sandhya, Madan Puri, Manorama, Mumtaz, Jaishri Gadkar}%
+\singer{Lata/ Lata, Manna Dey}%
+\music{Vasant Desai}%
+\lyrics{Hasrat}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+% Part I
+
+aa
+mere ai dil bataa \-2
+pyaar tuune kiyaa, paa_ii mai.nne sazaa
+kyaa karuu.N \-4
+mere ai dil bataa \-2
+
+aa
+tuu Kushii ke sama.ndar se khelaa kiyaa
+kis maze se mujhe tuune dhokhaa diyaa
+tujhako motii mile, mujhako aa.Nsuu mile
+kyaa karuu.N \-4
+mere ai dil bataa \-2
+
+aa
+tuu to paagal rahaa pyaar ke raag me.n
+tuune Daalaa mujhe dard kii aag me.n
+terii kisamat khulii merii duniyaa jalii
+kyaa karuu.N \-4
+mere ai dil bataa \-2
+pyaar tuune kiyaa, paa_ii mai.nne sazaa
+kyaa karuu.N \-4
+mere ai dil bataa \-2
+
+% Part II
+
+ma \:	siitaa ban ko chalii raam ke saath me.n
+	sukh ko Thukaraa diyaa
+	tyaag ke kaa.NTo.n par ha.Ns ke chalatii rahii
+	ye janak kii sutaa
+
+la \:	mere ai dil bataa
+	kyaa karuu.N \-2
+
+ma \:	maharaanii miiraa ne jogan ban mahalo.n kaa tyaag kiyaa
+	le ikataaraa chalii Dhuu.NDhane manamohan kaa kahaa.N pataa
+
+#endindian
+\endsong

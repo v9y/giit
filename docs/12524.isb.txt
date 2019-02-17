@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{laagii chhuuTe naa ab to sanam}%
+\film{Kaali Topi Laal Roomaal}%
+\year{1959}%
+\starring{Chandrashekhar, Shakeela, Kumkum, Agha, K N Singh}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10128 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	laagii chhuuTe naa ab to sanam
+	chaahe jaa_e jiyaa terii qasam
+	laagii chhuuTe naa \threedots
+
+ra \:	tujhako pukaare ban ke diivaanaa naa maane re jiyaa \-2
+la \:	o jii ho
+	pyaar kiyaa to karake nibhaanaa suno jii rasiyaa
+ra \:	o pyaar kiyaa to pyaar kiyaa terii qasam
+	laagii chhuuTe naa \threedots
+
+la \:	duur huu.N phir bhii dil ke qariib nishaanaa hai teraa \-2
+ra \:	soch le phir se ek gariib diivaanaa hai teraa \-2
+la \:	soch liyaa jii soch liyaa terii qasam
+ra \:	laagii chhuuTe naa \threedots
+
+la \:	jab se la.Dii hai tujhase niGaahe.n ta.Dap rahaa dil \-2
+ra \:	dekh ke chalanaa pyaar kii raah ba.Dii hai mushkil
+la \:	dekh liyaa jii dekh liyaa terii qasam
+	laagii chhuuTe naa \threedots
+%
+#endindian
+\endsong
+

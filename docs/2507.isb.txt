@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{aabaad raho mere dil ko jalaane vaale}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Date: 
+% Credits:
+% Comments: 
+%
+\printtitle
+#indian
+%
+aabaad raho mere dil ko jalaane vaale
+tum shaad raho merii hastii miTaane vaale
+
+aanaa kabhii gurbat pe do aa.Nsuu bahaane ko
+tiire\-e\-nazar se jhuuThe dariyaa bahaane vaale
+
+shammaa bhii jalaa denaa mere mazaar pe tum
+har dam hii aashiqo.n ke diip jalaane vaale
+
+%
+#endindian
+\endsong
+%

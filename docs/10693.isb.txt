@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{saahil jo Dubo de kashtii ko saahil kii tamannaa kaun kare}%
+\film{Baawra}%
+\year{1950}%
+\starring{Raj Kapoor, Nimmi, Lalita Pawar, K N Singh}%
+\singer{Rafi}%
+\music{Krishan Dayal}%
+\lyrics{Amarnath Khanna}%
+%
+% Contributor: BOL ANAMOL #10487 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( saahil jo Dubo de kashtii ko ) \-2 saahil kii tamannaa kaun kare \-2
+aaraam na ho jis ma.nzil par ma.nzil kii tamannaa kaun kare
+saahil jo Dubo de \threedots
+
+jab dukh hii dukh ho duniyaa me.n roto.n pe ha.Ns de mahafil me.n
+duniyaa se mohabbat kisako ho mahafil kii tamannaa kaun kare
+saahil jo Dubo de \threedots
+
+jab jaal bichhaa ho gulashan me.n aur kaa.NTe ulajhe.n daaman me.n
+us baag kii Kvaahish kaun kare us gul kii tamannaa kaun kare
+saahil jo Dubo de \threedots
+
+ummiid miTii dil TuuT gayaa vo shamaa bujhii vo dil na rahaa
+TuuTe hu_e dil se ha.Nsatii hu_ii mahafil kii tamannaa kaun kare
+saahil jo Dubo de \threedots
+%
+#endindian
+\endsong
+

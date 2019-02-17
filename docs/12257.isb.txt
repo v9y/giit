@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{maine kyaa jii ... kii gal hai ko_ii nahii.n}%
+\film{Jaan-e-Man}%
+\year{1976}%
+\starring{Dev Anand, Hema Malini, Premnath, Ajit}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11573 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+maine kyaa jii 
+ki \:	oy kii gal hai
+la \:	ko_ii nahii.n
+ki \:	terii aa.Nkho.n se lagataa hai tuu kal raat ko so_ii nahii.n
+la \:	nii.nd hai kyaa kaun sii chiiz jo maine tere pyaar me.n kho_ii nahii.n
+
+ki \:	gal kaa matalab baat bich na baat nahii.n ko_ii aisii
+	dil kii aag bujhaa_e jo barasaat nahii.n ko_ii aisii
+	jii bhar ke ham mile ho.n
+la \:	jab mulaaqaat nahii.n ko_ii aisii
+	are ye to merii himmat hai mai.n ta.Dapii jaagii ro_ii nahii.n
+ki \:	kii gal hai \threedots
+
+la \:	ik ham aaj akele us pe mausam ye mastaanaa
+	jaag uThaa dil me.n shaayad dard ko_ii puraanaa
+ki \:	tuu jo kuchh bhii aaj kahegii hogaa ik bahaanaa
+	mai.n tujhako chhe.Duu.Ngaa varanaa chho.D de sharamaanaa
+la \:	dekhane\-sunane vaalaa duujaa aur yahaa.N par ko_ii nahii.n
+ki \:	kii gal hai \threedots
+%
+#endindian
+\endsong
+

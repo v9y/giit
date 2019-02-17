@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{dil aisaa kisii ne meraa to.Daa}%
+\film{Amanush}%
+\starring{Uttam Kumar}%
+\singer{Kishore}%
+\music{Shyamal Mitra}%
+\lyrics{Indeevar}%
+% 
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Thu Jul 27 1995
+% Credits: Rizwan Syed (rizwan@earth.sparco.com) 
+%	   Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Editor:  
+% Comments:  
+%
+\printtitle
+#indian
+%
+(dil aisaa kisiine meraa to.Daa
+ barbaadii kii taraf aisaa mo.Daa) 	\-2
+ek bhale maanush ko
+amaanush banaake chho.Daa
+dil aisaa kisiine meraa to.Daa
+barbaadii kii taraf aisaa mo.Daa
+
+(saaGar kitanaa mere paas hai
+ mere jiivan me.n phir bhii pyaas hai) 	\-2
+hai pyaas ba.Dii jiivan tho.Daa
+amaanush banaake chho.Daa\threedots
+
+(kahate hai.n ye duniyaa ke raaste
+ koii ma.nzil nahii.n tere vaaste)	\-2
+naakaamiyo.n se naataa meraa jo.Daa
+amaanush banaake chho.Daa\threedots
+
+Duubaa suuraj phir se nikale
+rahataa nahii.n hai a.ndheraa
+meraa suuraj aisaa ruuThaa
+dekhaa na mai.nne saveraa
+ujaalo.n ne saath meraa chho.Daa
+amaanush banaake chho.Daa
+
+dil aisaa kisiine meraa to.Daa\threedots
+%
+#endindian
+\endsong
+%

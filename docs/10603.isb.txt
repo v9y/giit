@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ek baar jhalak dikhalaa ke hame.n ... isii kaa naam duniyaa hai to}%
+\film{Bewafaa}%
+\year{1952}%
+\starring{Ashok Kumar, Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Alla Rakha Qureshi}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: BOL ANAMOL #10019 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek baar jhalak dikhalaa ke hame.n qismat kaa sitaaraa Duub gayaa
+kashtii to bechaarii kashtii thii paanii me.n kinaaraa Duub gayaa
+
+isii kaa naam duniyaa hai to duniyaa dekh lii maine
+
+kisii kii aarazuu kaa Kuun karake kyaa milaa mujhako
+ki apane dil kii duniyaa bhii uja.Date dekh lii maine
+isii kaa naam duniyaa hai \threedots
+
+merii aa.Nkho.n ke aage luT rahaa thaa dil kaa qaafilaa
+qayaamat hai ki jiite jii qayaamat dekh lii maine
+isii kaa naam duniyaa hai \threedots
+
+merii a.ndhii javaanii ne mujhe barabaad kar Daalaa
+kisii kii bevafaa_ii par luTaa dii zindagii maine
+isii kaa naam duniyaa hai \threedots
+%
+#endindian
+\endsong
+

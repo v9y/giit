@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{raat kaa samaa jhuume chandramaa}%
+\film{Ziddi}%
+\year{1964}%
+\starring{Asha Parekh, Joy Mukherjee}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 17 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+aayaa na koii aise yahaa.N, chham se na hogaa
+o kaam kiyaa hamane vo, rustam se na hogaa
+
+(raat kaa samaa jhuume chandramaa
+ tan moraa naache re jaise bijuriyaa)	\-2
+raat kaa samaa \threedots
+
+dekho dekho dekho huu.N nadii pyaar kii
+suno suno suno baa.Ndhe nainaa ba.Ndhii
+mai.n alabelii maan lo ba.Dii ziddii \-2
+maane mujhako jahaa.N
+raat kaa samaa\threedots
+
+naachuu.N naachuu.N naachuu.N moranii baag kii
+Doluu.N Doluu.N Doluu.N hiraNiyaa madabharii
+ghuu.Ngar baaje chhmaa\-chham \-2
+raat kaa samaa\threedots
+
+dhiire dhiire dhiire jiit merii hu_ii
+haule haule haule haar terii hu_ii
+(terii tarah jaa re jaa bahut dekhe \-2
+mujhasaa koii kahaa.N
+raat kaa samaa\threedots
+%
+#endindian
+\endsong
+%

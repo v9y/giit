@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aayii bahaar, muskuraayii bahaar}%
+\film{Roopkumari}%
+\year{1956}%
+\starring{Shakeela, Mahipal}%
+\singer{Geeta}%
+\music{S N Tripathi}%
+\lyrics{B D Mishra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+aayii bahaar muskuraayii bahaar
+aayii bahaar muskuraayii bahaar
+pyaar ke devata aa kare.n milake pyaar
+aayii bahaar muskuraayii bahaar   \threedots
+
+o~ ho~
+priit kyaa hai tujhe mai.n sikhaa_uu.N
+tere sapano.n kii mahafil sajaa_uu.N
+mastiyo.n kii bahaar luuT le ek baar
+pyaar ke devata aa kare.n milake pyaar   \threedots
+
+o~ ho~
+prem kaa diip tuu bhii jalaa le
+suune man kaa andheraa miTaa le
+chhe.D de man ke taar sun le meri pukaar
+pyaar ke devata aa kare.n milake pyaar   \threedots
+%
+#endindian
+\endsong
+%

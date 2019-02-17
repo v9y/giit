@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{tere binaa dil lagataa nahii.n ... kyaa karuu.n}%
+\film{Deewaanaa Mastaanaa}%
+\year{1997}%
+\starring{Govinda, Anil Kapur, Juhi Chawla}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere binaa dil lagataa nahii.n
+o merii jaan kyaa karuu.n kyaa karuu.n
+tuu jo nahii.n hai kuchh bhii nahii.n hai
+ye jahaan kyaa karuu.n kyaa karuu.n
+
+kaise shuruu ho ga_ii ye kahaanii
+maine bhii naa jaanaa tuu bhii naa jaanii
+i.nkaar bhii maine kiyaa ikaraar bhii maine kiyaa
+mai.n kho gayaa bas ho gayaa dil be_iimaan
+tere binaa dil lagataa \threedots
+
+tuune kahaa nahii.n maine sunaa hai
+laakho.n me.n tuune mujhako chunaa hai
+kyaa sach hai yah sapanaa nahii.n
+aataa nahii.n mujhako yakii.n
+ye kyaa hu_aa kaise hu_aa
+mai.n huu.N hairaan kyaa karuu.n
+tere binaa dil lagataa \threedots
+
+ye aag dil me.n kaisii lagii hai
+dono.n taraf ik jaisii lagii hai
+dhak dhak kare ye dil meraa
+jiinaa hu_aa mushkil meraa
+vo chain kaa mausam gayaa
+aayaa tuufaa.n kyaa karuu.n
+tere binaa dil lagataa \threedots
+%
+#endindian
+\endsong
+

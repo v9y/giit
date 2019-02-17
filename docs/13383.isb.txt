@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{sajanavaa prem\-kahaanii dhiire\-dhiire kahanaa}%
+\film{O Janewale}%
+\year{1948}%
+\starring{Geeta Desai, Trilok Kapoor, Umakant, Pande, Mehar Sultana}%
+\singer{Mukesh, Shamshad}%
+\music{Ali Husain Muradabadi}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11419 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+sha \:	( sajanavaa prem\-kahaanii ) \-2 o dhiire\-dhiire kahanaa
+	prem kii galiyaa.N ra.ng\-ra.ngiilii Daalii\-Daalii par hai laalii
+	sajanavaa prem\-kahaanii \threedots
+
+mu \:	( ab jiivan me.n ) \-2 aa_ii bahaar kaliyaa.N khilii hai.n hazaar
+sha \:	jaag uThaa hai man me.n pyaar aa_ii Kushii kii bahaar
+	sajanavaa prem\-kahaanii \threedots
+
+mu \:	kalii\-kalii muskaa_ii chaa.Ndanii sharamaa_ii
+sha \:	priit lagaa ke chho.D na jaanaa o baalam harajaa_ii
+	sajanavaa prem\-kahaanii \threedots
+%
+#endindian
+\endsong
+

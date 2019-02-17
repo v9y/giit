@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jiit hii le.nge baazii ham tum, khel adhuuraa chhuTe na}% 
+\film{Shola aur Shabnam}%
+\year{}%
+\starring{Dharmendra}%
+\singer{Rafi, Lata}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  Hari Vattyam (r2hmv@akronvm.uakron.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+rafii: 
+jiit hii le.nge baazii ham tum, khel adhuuraa chhuuTe na
+pyaar kaa ba.ndhan, janm kaa ba.ndhan, janm kaa ba.ndhan TuuTe na
+
+milataa hai jahaa.N dharatii se gagan, aao vahii.n ham jaae.n 
+tuu mere liye, mai.n tere liye \- 2 
+is duniyaa ko Thukaraaye.n \- 2 
+duur basaa le dil kii jannat \- 2 
+jisako zamaanaa luuTe nA, pyaar kA ba.ndhan 
+
+lataa:
+milane kii khushI nA milane kA gam, khatm ye jhaga.De ho jaae.n 
+tU tU nA rahe, mai.n mai.n nA rahuu.N \- 2 
+ik duuje mai.n kho jaae.n \- 2 
+mai.n bhI nA chho.Duu.n pal bhar daaman \- 2 
+tU bhI pal bhar ruuThe nA, pyaar kA ba.ndhan \threedots
+%
+#endindian
+\endsong
+%

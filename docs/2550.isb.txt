@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{chhoTaa saa balamaa}%
+\film{Raagini}%
+\starring{}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+% 
+% Contributor: Vandana Iyengar
+% Transliterator: Nita
+% Date: 23rd July 1999
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+chhoTaa saa balamaa
+a.nkhiyan nii.nd churaa le gayo
+ratiyan nii.nd na aaye
+chhoTaa saa balamaa
+ 
+kis bairan ke jaal me.n pha.nsake
+bhuul gayaa tuu pyaar ke raste
+chhoTaa saa balamaa
+a.nkhiyan nii.nd churaa le gayo
+ratiyan nii.nd na aaye
+chhoTaa saa balamaa
+ 
+mere dil ko jaan khilonaa
+to.D gayaa bedard salonaa
+chhoTaa saa balamaa
+a.nkhiyan nii.nd churaa le gayo
+ratiyan nii.nd na aaye
+chhoTaa saa balamaa
+
+%
+#endindian
+\endsong
+%

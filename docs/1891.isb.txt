@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{diivaanaa huaa baadal}%
+\film{Kashmir Ki Kali}%
+\year{1964}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Neeraj Malhotra (malhotra@bedford.progress.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafii:	o ho ho, o ho ho, aa haa haa
+##mmmm##, ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+diivaanaa huaa baadal
+saavan kii ghaTaa chhaaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+diivaanaa huaa baadal
+
+aisii to merii taqadiir na thii
+tumasaa jo koii mahabuub mile
+(dil aaj khushii se paagal hai) \- 2
+(ai jaanevafaa tum khuub mile) \- 2
+dil kyuu.N naa bane paagal,  kyaa tumane adaa paaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+diivaanaa huaa baadal
+
+aashaa:	jab tumase nazar TakaraaI sanam
+jazabaat kaa ek tuufaan uThaa
+(tinake kii tarah mai.n bah nikalii) \- 2
+(sailaad mere roke na rukaa) \- 2
+jiivan me.n machii halachal
+aur bajane lagii shahanaaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+rafii:	diivaanaa huaa baadal
+
+hai aaj naye aramaano.n se,  aabaad merii dil kii nagarii
+(baraso.n se fizaa.N kaa mausam thaa) \- 2
+(viiraan ba.Dii duniyaa thii merii) \- 2
+haatho.n me.n teraa aa.Nchal,  aayaa jo bahaar aaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+
+aashaa:	diivaanaa huaa baadal,  saavan ki ghaTaa chhaaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI
+rafii:	diivaanaa huaa baadal,  saavan kii ghaTaa chhaaI
+ye dekhake dil jhuumaa,  lii pyaar ne a.nga.DaaI,
+diivaanaa huaa baadal
+%
+#endindian
+\endsong
+%

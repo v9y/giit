@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{zaKm dil ke agar siye hote}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Adam}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+zaKm dil ke agar siye hote
+ahal\-e\-dil kis tarah jiye hote
+
+wo mile bhii to ik jhijhak sii rahii
+kaash tho.Dii sii ham piye hote
+
+aarazuu mutama_in to ho jaatii
+aur bhii kuchh sitam kiye hote
+
+lazzat\-e\-Gam to baKsh dii usane
+hausale bhii 'adam' diye hote
+
+#endindian
+\endsong

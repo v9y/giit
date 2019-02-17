@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{jaane\-anajaane log mile magar ko_ii milaa naa apanaa}%
+\film{Jaane Anjaane}%
+\year{1971}%
+\starring{Shammi Kapoor, Lina Chandrawarkar, Sandhya Roy, Vinod Khanna}%
+\singer{Kishor}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11179 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jaane\-anajaane log mile magar ko_ii milaa naa apanaa ho \-2
+jaane kyaa hamane sochaa thaa rah gayaa ban ke sapanaa o
+jaane\-anajaane log \threedots
+
+( milaa naa ko_ii aisaa insaa.N dil kaa dard miTaataa
+kam se kam do baat to karataa dil kii aas ba.Ndhaataa ) \-2
+dard bharaa hai afasaanaa bhaagy me.n likhaa ta.Dapanaa
+jaane\-anajaane log \threedots
+
+( aas\-niraas ke doraahe par dil to hamaaraa TuuTaa
+is qismat ne dhiire\-dhiire apanaa sab kuchh luuTaa ) \-2
+bhiig chukii hai.n ye palake.n bhuul ga_e ham ha.Nsanaa
+jaane\-anajaane log \threedots
+%
+#endindian
+\endsong
+

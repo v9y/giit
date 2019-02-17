@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kyaa hai is baa.Nsuriyaa me.n ... kabhii ho.nTho.n se mujhe}%
+\film{Geet}%
+\year{1970}%
+\starring{Rajendra Kumar, Mala Sinha}%
+\singer{Suman}%
+\music{Kalyanji-Anandji}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #11124 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+kyaa hai is baa.Nsuriyaa me.n jo mujhame.n nahii.n saa.Nvariyaa
+kabhii ho.nTho.n se mujhe bhii lagaa le
+baa.Nsurii banaa_ii ke ho baa.Nsurii banaa_ii ke
+mai.n to gaa_uu.N tere giit mere miit
+saare jag ko bhulaa_ii ke
+kabhii ho.nTho.n se \threedots
+
+tore sa.ng nehaa laagaa tore ra.ng raatii
+ban\-ban dvaare\-dvaare phiruu.N madamaatii
+tujhame.n hii samaa ga_ii mai.n tere paas aa_ii ke
+kabhii ho.nTho.n se \threedots
+
+saaraa jag jaan gayaa raadhaa bha_ii shyaam kii
+chhe.De.n teraa naam leke sakhiyaa.N saare gaa.Nv kii
+ho chhaliyaa tuune sudh naa liinii baavarii banaa_ii ke
+kabhii ho.nTho.n se \threedots
+%
+#endindian
+\endsong
+

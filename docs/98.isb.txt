@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{aao mil jaae.n ham suga.ndh aur suman kii tarah}%
+\film{Prem Geet}%
+\year{1981}%
+\starring{Raj Babbar, Anita Raj}%
+\singer{Jagjit Singh, Chitra Singh}%
+\music{Jagjit Singh}%
+\lyrics{}%
+%
+% Contributor: Porky 
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Renu Thamma (RTHAMMA@VAX1.UMKC.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aao mil jaae.n ham suga.ndh aur suman kii tarah 
+ek ho jaae.n chalo jaan aur badan kii tarah 
+
+1) dil ke mandir me.n sajaa rakhii hai muurat terii 
+mere jiine kii to suurat hai ye suurat terii 
+raat din sAth rahe.n siine me.n dha.Dakan kii tarah, aao\threedots
+
+2) ek jIvan kii khushii tumane dii ik ik pal me.n 
+bhar diyaa saare jag kaa pyaar mere A.Nchal me.n 
+pyaar kaa ek bhii pal pyaaraa hai jIvan kii tarah, aao\threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pa.nchhii baadal premii ke paagal ham kaun hai.n saathiyaa}%
+\film{Lamhe}%
+\year{1991}%
+\starring{Anil Kapoor, Sridevi, Waheeda Rahman, Anupam Kher}%
+\singer{Lata, Suresh Wadekar}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pa.nchhii baadal premii ke paagal
+ham kaun hai.n saathiyaa
+o yaad nahii.n bhuul gayaa
+pa.nchhii baadal premii \threedots
+
+hamako kisii kii bhii ko_ii zaruurat nahii.n
+duniyaa me.n is pyaar se kuchh khuubasuurat nahii.n
+le jaa_e jaane hame.n ye tej dhaaraa kahaa.n
+hamako to ko_ii Gam nahii.n Duubaa kinaaraa kahaa.n
+hai bahataa paanii ye zi.ndagaanii isakaa bharosaa hai kyaa
+pa.nchhii baadal premii \threedots
+
+khoye rahe.n \-2
+Dhuu.nDhe zamaanaa hame.n ham yuu.n hii kho_e rahe.n
+aa aa aa
+aramaano.n kii sej pe din raat so_e rahe.n
+aa_o zaraa aur bhii nazadiik ho jaa_e.n ham
+ek duusare kii javaa.n baaho.n me.n so jaa_e.n ham
+sapane hii sapane biich me.n apane ko_ii nahii.n duusaraa
+pa.nchhii baadal premii \threedots
+%
+#endindian
+\endsong
+
+

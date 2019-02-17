@@ -1,0 +1,80 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{puravaa suhaanii aayii re}%
+\film{Purab aur Pachhim}%
+\year{1970}%
+\starring{Manoj Kumar, Saira Banu, Bharati & Vinod Khanna}%
+\singer{Mahendra Kapoor, Lata, Manhar, Chorus}%
+\music{Kalyanji-Anandji}%
+\lyrics{Santosh Anand}%
+% 
+% Audio on: 
+% Tags: Spring festival song
+% Contributor: AJAY GUPTA guptaaj@bharatpetroleum.in, UVR
+% Transliterator: UVR
+% Date: 15 Sep 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+m0k0: kahii.n na aisii subah dekhii
+la: aa.a.a jaise baalak kii muskaan
+m0k0: yaa phir duur kahii.n gaa_e
+la: halkii\-sii muralii kii taan
+m0k0: gurabaanii gurudwaare me.n
+la: to masjid se uThatii aazaan
+m0k0, la: aatmaa aur paramaatmaa mile.n jahaa.N yahii hai wo sthaan
+%
+% Santosh Anand (lyricist) uses "aazaan", which is  wrong!  The correct word is "azaan"
+%
+
+ko: Dholii Dhol bajaaNaa, taal se taal milaaNaa
+    Dholii Dholaa Dholii Dholaa Dholii Dhol bajaaNaa
+    taa\-thaa thaiyyaa tak\-tak thaiyyaa, taal se taal milaaNaa
+
+la: puravaa suhaanii aa_ii re, puravaa (2)
+    R^ituo.n kii raanii aa_ii re, puravaa
+    mere ruke nahii.n paa.Nv, naach uTThaa saaraa gaa.Nv
+    priit pe jawaanii chhaa_ii re, puravaa
+    puravaa suhaanii aa_ii re, puravaa
+
+m0k0: mausam kaa musaafir kha.Daa raste me.n
+la: laa laa laa laa\-laa la\-laa la\-laa
+m0k0: mausam kaa musaafir kha.Daa raste me.n
+la: usake haatho.n sab kuchh luTaa saste me.n
+la: chhoTii sii umariyaa hai
+ma0ka0: lambii sii Dagariyaa re
+la: jiivan hai parachhaa.Nii re, puravaa
+    puravaa suhaanii aa_ii re, puravaa
+ko: hoe! Dholii Dhol bajaaNaa, bajaaNaa
+    hoe! taal se taal milaaNaa, milaaNaa
+
+la: kar le kar bhii le pyaar kii puujaa
+    naa naa naa naa\-naa na\-naa na\-naa
+la: kar le kar bhii le pyaar kii puujaa
+    pyaar ke ra.ng pe cha.Dhe na ra.ng duujaa
+    chaahe koii sapanaa hai, mere liye apanaa hai
+    baat merii ban aa_ii re
+    puravaa suhaanii aa_ii re, puravaa
+
+man: ho miiraa sii diiwaanii re, naache mastaanii (2)
+la: ho.nTho.n pe hai saragam to aa.Nkho.n me.n paanii
+    ghu.Ngharuu diiwaane hue
+man: rishte puraane hue
+la: giit me.n kahaanii gaa_ii re, puravaa
+    puravaa suhaanii aa_ii re, puravaa
+    R^ituo.n kii raanii aa_ii re, puravaa
+    mere ruke nahii.n paa.Nv, naach uThaa saaraa gaa.Nv
+    priit pe jawaanii chaa_ii re, puravaa
+    puravaa suhaanii aa_ii re, puravaa
+ko: hoe! Dholii Dhol bajaaNaa, bajaaNaa
+    hoe! taal se taal milaaNaa, milaaNaa
+    Dholii Dhol bajaaNaa, taal se taal milaaNaa (2)
+la: o \threedots
+%
+#endindian
+\endsong

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ham judaa ho ga_e raaste kho ga_e}%
+\film{Gadar - Ek Prem Katha}%
+\year{2001}%
+\starring{Sunny Deol, Ameesha Patel, Amrish Puri}%
+\singer{Udit Narayan, Priti Uttam, Rakesh P.}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+ham judaa ho ga_e raaste kho ga_e
+magar ham mile.nge ye yaad rakhanaa merii raah takanaa
+ham judaa ho ga_e \threedots
+
+kaagaz ho to phaa.D duu.N dhaagaa ho to kaaT duu.N
+duniyaa ho to chho.D duu.N vaadaa kaise to.D duu.N
+is vaade pe mujhako ab jiinaa ab maranaa sajanaa
+ham judaa ho ga_e \threedots
+
+ai havaa tuu hii jaa jaa ke unako sunaa haal meraa hai kyaa
+aise jii rahii huu.N mai.n jaise mar rahii huu.N mai.n
+naam teraa raat din yaad kar rahii huu.N mai.n
+logo.n ne to.Daa hai har sapanaa mere dil kaa
+ham judaa ho ga_e \threedots
+%
+#endindian
+\endsong
+

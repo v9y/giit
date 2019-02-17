@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa}%
+\film{Teen Deviyan}%
+\year{1965}%
+\starring{Dev Anand, Nanda, Simi, Kalpana}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa \- 2
+kishor: agar ise samajh sako, mujhe bhii samajhaanaa
+likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa \threedots
+
+lataa: javaab thaa kisii tamannaa kaa, 
+likhaa to hai magar adhuuraa saa
+are o o o o  
+javaab thaa kisii tamannaa kaa,  
+likhaa to hai magar adhuuraa saa
+kishor: kaisii na ho merii har baat adhuurii,
+abhii huu.N aadhaa divaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+kishor: agar ise samajh sako, mujhe bhii samajhaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+
+lataa: jo kuchh nahii.n to ye ishaare kyuu.N, 
+Thahar gae mere sahaare kyuu.N  
+are o o o o  
+jo kuchh nahii.n to ye ishaare kyuu.N, 
+Thahar gae mere sahaare kyuu.N  
+kishor: tho.Daa saa hasiino.n kaa sahaaraa leke chalanaa,
+hai merii aadat rozaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+kishor: agar ise samajh sako, mujhe bhii samajhaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+
+kishor: yahaa.N vahaa.N fizaa me.n aavaaraa, 
+abhii talaq ye dil hai bechaaraa
+are o o o o  
+yahaa.N vahaa.N fizaa me.n aavaaraa,  
+abhii talaq ye dil hai bechaaraa
+lataa: o o \threedots dil ko tere ab tak naa samajhe,
+tujhahii ko hamane pahachaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+kishor: agar ise samajh sako, mujhe bhii samajhaanaa
+lataa: likhaa hai terii aa.Nkho.n me.n, kisakaa afasaanaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{merii vafaa_e.n yaad karoge ... ro_oge fariyaad karoge}%
+\film{Sainik}%
+\year{1993}%
+\starring{Akshay Kumar, Ronit Roy, Ashwini Bhave, Farheen, Aloknath, Satish Shah}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	merii vafaa_e.n yaad karoge
+	ro_oge haa.N haa.N fariyaad karoge \-2
+
+	mujhako to barbaad kiyaa hai \-2
+	aur kise he he barbaad karoge \-2
+	ro_oge fariyaad karoge \threedots
+
+	kaise bhuuloge tum mujhako \-2
+	yaad mujhe mere baad karoge
+
+aa \:	merii muhabbat yaad karoge \-2
+	ro_oge fariyaad karoge \threedots
+
+	apano.n ko to bhuul chuke ho \-2
+	aur kise tum yaad karoge
+	ro_oge fariyaad karoge \threedots
+
+	luuT ke merii duniyaa dilabar
+	kaise khud ko aabaad karoge
+	ro_oge fariyaad karoge \threedots
+%
+#endindian
+\endsong
+

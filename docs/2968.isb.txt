@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere raaste pe ham ne ik ghar banaa liyaa hai}%
+\film{Kavi}%
+\year{1954}%
+\starring{Geeta Bali, Bharat Bhushan, Nalini Jaywant, Om Prakash}%
+\singer{Talat, Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tere raaste pe ham ne ik ghar banaa liyaa hai
+terii muskuraahaTo.n se is ko sajaa liyaa hai
+tere raaste pe ham ne \threedots
+
+aane se tere pahale aataa hai ek ishaaraa
+suuraj ke pahale jaise ik roshanii kii dhaaraa
+ham ne yahii ishaaraa dil me.n basaa liyaa hai
+tere raaste pe ham ne \threedots
+
+tere ghar se duur kyo.n hai.n terii zi.ndagii kii raahe.n
+mere dil kii dha.Dakano.n me.n tere giit terii aahe.n
+terii roshanii se dil kaa diipak jalaa liyaa hai
+tere raaste pe ham ne \threedots
+
+terii paayalo.n kii chham\-chham mere giit me.n samaayii
+merii aarazuu ne saragam terii naam se sajaayii
+chhoTii sii is adaa ko naGamaa banaa liyaa hai
+tere raaste pe ham ne \threedots
+
+%
+#endindian
+\endsong
+%

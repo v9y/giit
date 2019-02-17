@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{do gha.Dii vo jo paas aa baiThe, ham zamaane se duur jaa baiThe}%
+\film{Gateway of India}%
+\year{}%
+\starring{Madhubala, Bharat Bhushan}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator:  (Anurag_Acharya@DRAVIDO.SOAR.CS.CMU.EDU)
+% Credits: Abhay Avachat (avachat@sun7.mch.sni.de)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Context: bb and madhubala are together writing a nazm at 3:00 am in the 
+%   morning. he writes something and she sings it, and then she writes 
+%   something and then he sings it.
+%
+rafI : do gha.DI vo jo paas aa baiThe 
+ham zamaane se dUr jaa baiThe 
+
+AshA : do gha.DI vo jo paas aa baiThe 
+ham zamaane se dUr jaa baiThe 
+
+rafI : (bhuul kii unakaa ham_nashii.n ho ke 
+roye.nge dil ko umr bhar kho ke) \- 2
+haay! kyaa chiiz thii ga.Nvaa baiThe 
+
+AshA : (dilako ek din zarur jAnA thaa 
+vahI pahu.NchA jahA.n ThikAnA thaa ) \- 2 
+dil vahii dil jo dil me.n jaa baiThe
+
+rafI : (ek dil hI thA GamagusAr apanaa 
+meharabA.n, khaas raazadAr apanaa ) \- 2
+gair kA kyo.n ise banaa baiThe 
+
+AshA : (gair bhI to koI hasI.n hogaa 
+dil yU.N hI de diyA nahI.n hogaa ) \- 2
+dekh kar kuchh to dil lagaa baiThe
+
+do gha.DI vo jo paas aa baiThe 
+ham jamaane se dUr jaa baiThe 
+
+%
+#endindian
+\endsong
+%

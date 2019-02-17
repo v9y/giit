@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{dil aaj shaayar hai, Gam aaj naGamaa hai}%
+\film{Gambler}%
+\starring{Dev Anand, Zeenat Aman}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Amol Bokil (bokil@seas.smu.edu)
+%          Rajan Parrikar (parrikar@mimicad.colorado.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil aaj shaayar hai, Gam aaj naGamaa hai
+shab ye Gazal hai sanam
+gairo.n ke shero.n ko o sunane vaale
+ho is taraf bhii karam
+
+(aake zaraa dekh to terii khaatir
+ham kis tarah se jiye) \- 2
+aa.Nsuu ke dhaage se siite rahe ham
+jo zakhm tuune diye
+chaahat kii mahafil me.n Gam teraa lekar
+qismat se khelaa juaa
+duniyaa se jiite par tujhase haare
+yuu.N khel apanaa huaa \threedots
+
+(ye pyaar hamane kiyaa jis tarah se
+usakaa na koii javaab) \- 2
+zarraa the lekin terii lau me.n jalakar
+ham ban gae aafataab
+hamase hai zi.ndaa vafaa aur ham hii se
+hai terii mahafil javaa.N
+jab ham na ho.nge to ro roke duniyaa
+Dhuu.NDhegii mere nishaa.n \threedots
+
+(ye pyaar koii khilaunaa nahii.n hai
+har koii le jo khariid) \- 2
+merii tarah zi.ndagii bhar ta.Dap lo
+phir aanaa isake kariib
+ham to musaafir hai.n koii safar ho
+ham to guzar jaae.nge hii
+lekin lagaayaa hai jo daa.nv hamane
+vo jiit kar aae.nge hii \threedots
+%
+#endindian
+\endsong
+%

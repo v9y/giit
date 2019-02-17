@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ek teraa sundar mukha.Daa ek teraa pyaar}%
+\film{Bhai Bhai}%
+\year{1970}%
+\starring{Sunil Dutt,  Asha Parekh, Mehmood, Pran}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11146 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ek teraa sundar mukha.Daa ek teraa pyaar se bharaa dil
+milanaa mushqil
+ek teraa sundar \threedots
+is or Dhuu.NDhuu.N chaahe us or Dhuu.NDhuu.N ko_ii ma.nzil \-2
+milanaa mushqil
+ek teraa sundar \threedots
+
+aa ke sirahaane tere tujhako jo dekhaa
+har saa.Ns meraa phir to Kushabuu se mahakaa
+jaisii milii hai mujhako aisii suhaanii ko_ii ma.nzil
+milanaa mushqil
+ek teraa sundar \threedots
+
+resham se Gesuu tere raate.n milan kii
+Kaamosh lab kahate hai.n baate.n milan kii
+dekhe hazaaro.n qaatil aisaa hasiin ko_ii qaatil
+milanaa mushqil
+ek teraa sundar \threedots
+%
+#endindian
+\endsong
+

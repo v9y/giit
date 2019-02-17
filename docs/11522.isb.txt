@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil ne kahaa kaun hai vo sanam ... ulajhaa huu.N mai.n}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ne kahaa kaun hai vo sanam
+jisape fidaa hu_e pahalii nazar me.n ham dil ne kahaa
+usakii talaash me.n ba.Dhane lage kadam dil ne kahaa
+
+ulajhaa huu.N mai.n jisake savaalo.n me.n
+rahatii hai chhup ke vo mere khyaalo.n me.n
+dil ne kahaa \threedots
+
+aa.Nkho.n kii sharaarat se saa.Nso.n kii haraarat se
+mujhako jagaatii hai vo
+ho jab mai.n so jaataa huu.N paagal ho jaataa huu.N
+khvaabo.n me.n aatii hai vo
+ulajhaa huu.N mai.n \threedots
+
+vo jisakii adaa_o.n ne vo jisakii nagaaho.n ne
+jiinaa sikhaayaa mujhe ho ho
+jab ko_ii aahaT ho to aisaa lagataa hai
+usane bulaayaa mujhe
+ulajhaa huu.N mai.n \threedots
+%
+#endindian
+\endsong
+

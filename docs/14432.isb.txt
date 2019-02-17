@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mujhako to kuchh kuchh hotaa hai}%
+\film{Tyaagi}%
+\year{1992}%
+\starring{Rajnikant, Jayaprada, Bhagyashri, Himalaya, Sujata Mehta, Gulshan}%
+\singer{Kumar Sanu, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhako to kuchh kuchh hotaa hai
+kyaa tumako bhii kuchh kuchh hotaa hai
+jo kuchh mujhako hotaa hai
+bolo aisaa hii tumhe.n bhii kuchh hotaa hai
+
+aa_e.ngii bahaare.n tum kyaa karoge
+chhaa_e.ngii fizaa_e.n tum kyaa karoge
+mia.n ghaTaa_o.n me.n chhup jaa_uu.Ngii
+are tumako nahii.n mil paa_uu.Ngii
+jaa_oge tum jahaa.N jahaa.N paa_oge mujhako vahaa.N vahaa.N
+mujhako to kuchh kuchh \threedots
+
+bolo bolo la.Dako.n na na na
+barasegaa saavan kyaa karoge
+mai.n dil me.n kisii ko basaa luu.Ngii
+saajan kahake apanaa luu.Ngii
+chhupaa_o na mujhase kuchh dilabar
+mujhako to kuchh kuchh \threedots
+
+pahale khaa_o tum qasam chho.Doge na mujhako sanam
+kisii aur ko tum na basaa_oge dil me.n apane ai hamadam
+khaate hai.n ham rab kii qasam saath rahe.nge janm janm
+mujhako to kuchh kuchh \threedots
+%
+#endindian
+\endsong
+

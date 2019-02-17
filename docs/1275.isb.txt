@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mujhe dard\-e\-dil kaa pataa na thaa, mujhe aap kis liye mil gaye}%
+\film{Aakash Deep}%
+\year{1965}%
+\starring{}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+	mujhe dard\-e\-dil kaa pataa na thaa
+	mujhe aap kis liye mil gaye?
+	mai.n akele yuu.N bhii maze me.n thaa 
+	mujhe aap kis liye mil gaye?
+	
+	yuu.N hii apane apane safar me.n gum 
+	kahii.n duur mai.n kahii.n duur tum
+	kahii.n duur tum
+	chale jaa rahe the judaa judaa
+	mujhe aap kis liye mil gaye?
+	mai.n akele yuu.N bhii maze me.n thaa
+	mujhe aap kis liye mil gaye?
+	
+	na mai.n chaa.nd huu.N kisii shaam kaa
+	na chiraaG huu.N kisii baam kaa
+	kisii baam kaa
+	mai.n to raaste kaa huu.N ek diyaa
+	mujhe aap kis liye mil gaye?
+	mai.n akele yuu.N bhii maze me.n thaa
+	mujhe aap kis liye mil gaye?
+	
+	mujhe dard\-e\-dil kaa pataa na thaa
+	mujhe aap kis liye mil gaye?
+%
+#endindian
+\endsong
+%

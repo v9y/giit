@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chaman me.n rah ke viiranaa}%
+\film{Deedar}%
+\year{1951}%
+\starring{Nargis, Ashok Kumar, Dilip Kumar, Nimmi, Yaqub}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Oct 11, 2001
+%
+\printtitle
+#indian
+%
+
+##slow##
+chaman me.n rah ke viiraanaa meraa dil hotaa jaataa hai
+
+##fast##
+chaman me rah ke viiraanaa meraa dil hotaa jaataa hai
+khushii me.n aaj kal kuchh Gam bhii shaamil hotaa jaataa hai
+chaman me.n rah ke viiraanaa \threedots
+
+(na jaane kyo.n badalatii jaa rahii hai zi.ndagii merii
+na jaane zi.ndagii merii) \- 2
+mai.n dil se beKabar dil mujh se Gaafil hotaa jaataa hai
+chaman me.n rah ke viiranaa \threedots
+
+(ye ulajhan aur ye bechainii ye dha.Dakan aur ye betaabii
+ye dha.Dakan aur ye betaabii) \- 2
+meraa dil jaane kin tiiro.n se ghaayal hotaa jaataa hai
+chaman me.n rah ke viiranaa \threedots
+
+%
+#endindian
+\endsong
+%

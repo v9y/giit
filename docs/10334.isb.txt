@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mujhe nahii.n puuchhanii tumase biitii baate.n}%
+\film{Anjaan Raahen}%
+\year{1974}%
+\starring{Firoz Khan, Asha Parekh, Zaahira, Akabar Khan, Jalal Agha}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11233 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mujhe nahii.n puuchhanii tumase biitii baate.n
+kaise bhii guzaarii ho.n tumane apanii raate.n
+jaisii bhii ho bas aaj se tum merii ho
+merii hii banake rahanaa
+mujhe tumase hai itanaa kahanaa
+mujhe nahii.n puuchhanii \threedots
+
+biite hu_e kal pe tumhaare adhikaar nahii.n hai meraa
+us dvaar pe mai.n kyo.n jaa_uu.N jo dvaar nahii.n hai meraa
+biitaa hu_aa kal to biit chukaa
+kal kaa dukh aaj naa sahanaa
+mujhe nahii.n puuchhanii \threedots
+
+mai.n raam nahii.n huu.N phir kyuu.n ummiid karuu.N siitaa kii
+ko_ii insaano.n me.n Dhuu.NDhe kyo.n paavanataa ga.ngaa kii
+duniyaa me.n farishtaa ko_ii nahii.n
+insaan hii banake rahanaa
+mujhe nahii.n puuchhanii \threedots
+%
+#endindian
+\endsong
+

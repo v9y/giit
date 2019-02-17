@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{yaaro.n na jaane mujhe kyaa ho gayaa ... ek la.Dakii ne teraa dil le liyaa}%
+\film{Yash}%
+\year{1996}%
+\starring{Vijay Anand, Kartika Rane, Parikshit Sahani, Mangal Dhillon, Sonu Walia}%
+\singer{Jojo}%
+\music{Tabun}%
+\lyrics{Rajesh Johari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Friends, are you ready for the music##
+yaaro.n na jaane mujhe kyaa ho gayaa
+ek la.Dakii ne teraa dil le liyaa
+lage kyo.n naa ab meraa jiyaa
+ek la.Dakii ne teraa dil le liyaa
+nii.nd ga_ii re meraa chain gayaa
+mai.n pa pa pa paagal hu_aa
+yaaro.n na jaane mujhe \threedots
+
+sapano.n me.n bhii vo aa_e dil dhak dhak dhak dha.Dakaa_e
+mujhe saarii raat jagaa_e
+tuu gayaa kaam se pyaare
+har taraf nazar vo aa_e mujhe usakii yaad sataa_e
+usake bin jiyaa na jaa_e
+tuu gayaa kaam se pyaare
+mujhe prem kaa rog lagaa
+mai.n pa pa pa paagal hu_aa
+yaaro.n na jaane mujhe \threedots
+
+un ho.nTho.n ke a.ngaare usake nainaa kajaraare
+karate hai.n mujhe ishaare
+tere baj ga_e baarah pyaare
+jab chhup jaa_e.n chaa.Nd sitaare jab so jaa_e.n saare nazaare
+chupake se mujhe pukaare
+tere baj ga_e baarah pyaare
+mai.n huu.N diivaanaa nayaa nayaa
+mai.n pa pa pa paagal hu_aa
+yaaro.n na jaane mujhe \threedots
+%
+#endindian
+\endsong
+

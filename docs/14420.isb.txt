@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{yaar dil se dil milaa le mujhako palako.n me.n sajaa le}%
+\film{Teen Moti}%
+\year{1995}%
+\starring{Rasheed Khan, Shabir Khan, Ashok Tyagi, Sahiba Vandana, Babban}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Nawab Arzoo}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yaar dil se dil milaa le mujhako palako.n me.n sajaa le
+tujhase merii duniyaa javaa.n tuu meraa dil tuu merii jaa.n
+banake saathii banake hamadam aa gale mujhako lagaa le
+yaar dil se dil milaa le \threedots
+
+ye ho.nTh tere hai.n surkh kaliyaa.n
+ka.nval sii aa.Nkhe.n zulf hai kaalii ghaTaa sii hai naa
+ye terii baate.n yaa shaayarii hai.n
+sulag uThii hai siine me.n miiThii agan
+tere binaa jiinaa nahii.n tuu hai jahaa.n mai.n huu.N vahii.n
+ye meraa dil ye merii jaa.n kar dii yaar tere havaale
+yaar dil se dil milaa le \threedots
+
+ik aa_inaa hai tumhaaraa cheharaa
+mai.n isame.n dekhuu.n apanii hii suurat hai naa
+mai.n ban ga_ii huu.N tumhaarii dha.Dakan
+judaa na honaa tumako hai merii kasam
+kam naa kabhii ye pyaar ho bas jiit ho naa haar ho
+mai.n huu.N khushbuu aa mujhako tuu apanii saa.Nso.n me.n basaa le
+yaar dil se dil milaa le \threedots
+%
+#endindian
+\endsong
+

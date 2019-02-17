@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{kar le dil kii baat aaj mauqaa hai}%
+\film{Pehchan}%
+\year{1970}%
+\starring{Manoj Kumar, Babita, Balraj Sahni}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11150 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	( kar le dil kii baat ) \-2 ( aaj mauqaa hai ) \-2
+la \:	( chal duniyaa ke saath ) \-2 ( aaj mauqaa hai ) \-2
+
+	pyaar teraa dha.Dakan me.n rakh luu.N miiThaa dard banaa ke
+	apane ghuu.NghaT kii badalii me.n le jaa_uu.N tujhe chhupaa ke
+mu \:	apane maathe pe likh luu.N tujhako taqadiir banaa ke
+	terii duniyaa me.n kho jaa_uu.N apanaa aap bhulaa ke
+	( naachuu.N tere saath ) \-2 ( aaj mauqaa hai ) \-2
+la \:	( chal duniyaa ke \threedots
+
+mu \:	patalii\-patalii qamar ye terii lachak ga_ii bal khaa ke
+	luT gayaa ik paradesii gorii terii galii me.n aa ke
+la \:	jitane bhii aramaa.N hai.n mere sab ke giit banaa de
+	sab ra.ng phiike pa.D jaa_e.N tuu aisaa ra.ng jamaa de
+	are ( kar de sabako maat ) \-2 ( aaj mauqaa hai ) \-2
+mu \:	kar le dil kii \threedots
+
+	jhuk\-jhuk lambe ho ga_e terii palako.n ke ye saa_e
+	maa.Ng ye terii zulfo.n kii kuchh kahane se sharamaa_e
+la \:	apane mu.Nh se kaise kah duu.N tujhako hii man chaahe
+	mere dil kii baat sharam se ho.nTho.n pe ruk jaa_e
+	are ( sab kuchh tere haath ) \-2 ( aaj mauqaa hai ) \-2
+mu \:	kar le dil kii \threedots
+la \:	chal duniyaa ke \threedots
+%
+#endindian
+\endsong
+

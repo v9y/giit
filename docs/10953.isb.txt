@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{dar\-dar kii Thokare.n hai.n ... ab merii zindagii hai}%
+\film{Chor Baazaar}%
+\year{1954}%
+\starring{Shammi Kapoor, Sumitra Devi}%
+\singer{Lata}%
+\music{Sardar Malik}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11931 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+% The song was in this film but was removed later on.
+% Then, it was included in the film Hoor-e-Arab/ 1955
+% kosh mentions this song in both the films.
+%
+\printtitle
+#indian
+%
+qismat me.n Duubanaa hai maujo.n se kyaa Dare.nge \-2
+maalik ke aasare pe kashtii ko chho.D de.nge
+kashtii ko chho.D de.nge
+milaa jaayegaa hame.n bhii tuufaan me.n kinaaraa
+
+dar\-dar kii Thokare.n hai.n ko_ii nahii.n sahaaraa
+ab merii zi.ndagii hai TuuTaa hu_aa sitaaraa
+dar\-dar kii Thokare.n hai.n
+%
+#endindian
+\endsong
+

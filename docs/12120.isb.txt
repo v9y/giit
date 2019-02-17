@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{jaan kii baazii lagaane vaalaa hotaa hai jaa.nbaaz}%
+\film{Jaanbaaz}%
+\year{1986}%
+\starring{Firoz Khan, Sridevi, Anil Kapoor, Dimple Kapadia}%
+\singer{Mahesh Gadwi, Nitu}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaa.nbaaz \-3
+jaan kii baazii lagaane vaalaa hotaa hai jaa.nbaaz
+jaa.nbaaz \-2
+jiine kaa hai marane kaa hai apanaa hii a.ndaaz
+jaa.nbaaz \-4
+
+husn\-o\-javaanii kii chaahat hai \-2
+pyaar jataane kii aadat hai \-2
+achchhii suurat par marate hai.n
+khaas hasiino.n me.n shoharat hai \-2
+jaa.nbaaz \-3
+ko_ii bulabul dhokhaa de to ban jaate hai.n baaz
+jaa.nbaaz \-5
+
+naa_insaafii sah nahii.n sakataa \-2
+bin Takaraa_e rah nahii.n sakataa
+manamaano.n kii manamaanii
+khuun gariib kaa bah nahii.n sakataa \-2
+jaa.nbaaz \-3
+saare rishte to.D ke nikalii dil se ye aavaaz
+jaa.nbaaz \-5
+
+ek hu_e jab bhaa_ii bhaa_ii \-2
+kaT ga_e baadal aa.Ndhii aa_ii
+zulm\-o\-sitam pe TuuT pa.De.nge
+khuun se ubharegii sachchaa_ii \-2
+jaa.nbaaz \-3
+yaar nahii.n dushman bhii kare.nge aaj to is par naaz
+jaa.nbaaz \-5
+jaan kii baazii lagaane vaalaa \threedots
+%
+#endindian
+\endsong
+
+

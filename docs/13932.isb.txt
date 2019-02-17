@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tere aane kii jab khabar mahake}%
+\film{Saher (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Navaaj Devbandi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere aane kii jab khabar mahake
+terii khushbuu se saaraa ghar mahake
+tere aane kii \threedots
+
+shaam mahake tere tasavvur se
+shaam ke baad phir sahar mahake
+tere aane kii \threedots
+
+raat bhar sochataa rahaa tujhako
+zahan\-o\-dil mere raat bhar mahake
+tere aane kii \threedots
+
+yaar aa_e to dil munavvar ho
+diid ho jaa_e to nazar mahake
+tere aane kii \threedots
+
+vo gha.Dii do gha.Dii jahaa.N baiThe
+vo zamii.n mahake vo shajar mahake
+tere aane kii \threedots
+%
+#endindian
+\endsong
+

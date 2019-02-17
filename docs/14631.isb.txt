@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{o jaan\-e\-jigar ... jalavaa}%
+\film{Yeh Hai Jalwa}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Ameesha Patel, Rishi Kapoor, Rinki Khanna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o jaan\-e\-jigar o jaan\-e\-jigar
+le ga_ii man ye karaarii karaarii nazar
+maan jaa dilabar
+jalavaa jalavaa jalavaa jalavaa
+o jaan\-e\-jigar \threedots
+
+kyaa khabar thii jaanaa.n mujhe pyaar ho jaa_egaa
+dil tumhaare li_e bekaraar ho jaa_egaa
+ye tiir\-e\-nazar
+le ga_ii man ye meraa terii baalii umar
+maan jaa dilabar
+o jaan\-e\-jigar \threedots
+
+jaa_o mere piyaa tumhe.n maaf hamane kiyaa
+jalavaa aisaa kiyaa dha.Dake ye meraa jiyaa
+aisaa hai asar
+terii hii yaado.n me.n jaage.nge ham raat bhar
+aa bhii jaa dilabar
+o jaan\-e\-jigar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{dil ke aa jaane ke din aane lage}%
+\film{Bhulaaye Na Bane}%
+\year{}%
+\starring{}%
+\singer{Anup Jalota}%
+\music{Anup Jalota}%
+\lyrics{Sardar Anjum}%
+% 
+% Audio on: 
+% Tags: Ghazal
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 4 Jun 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+dil ke aa jaane ke din aane lage
+aa_iinaa dekhaa to sharamaane lage
+
+ba.nd palako.n me.n ko_ii chhupane lagaa
+chaa.Ndanii raato.n se ghabaraane lage
+
+surama_ii Kvaabo.n me.n Kvaabo.n kii qasam
+ajanabii chehare nazar aane lage
+
+kamasinii terii adaa_e.N taubaa
+thaa idhar jaanaa udhar jaane lage
+
+aashiyaa.N me.n na chhupaa_o bijalii
+naasamajh the jo ye samajhaane lage
+
+dil ko ab kaise bachaa_e.N 'a.njum'
+vo mere sar kii qasam khaane lage
+
+%
+#endindian
+\endsong

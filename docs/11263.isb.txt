@@ -1,0 +1,77 @@
+
+%
+\startsong
+\stitle{tere hamasafar giit hai.n tere}%
+\film{Dharam Karam/ Duty and Deed}%
+\year{1975}%
+\starring{Raj Kapoor, Randhir Kapoor, Rekha, Premnath, Dara Singh}%
+\singer{Mukesh, Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10766 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tere hamasafar giit hai.n tere
+	giit hii to jiivan miit hai.n tere
+	ho naGame.n pyaar ke tuu gaa_e jaa
+	gaa_e jaa aur muskaraa_e jaa
+	tere hamasafar giit \threedots
+
+ki \:	tere hamasafar giit hai.n tere
+mu \:	ho naGame.n pyaar ke \threedots
+ki \:	tere hamasafar giit hai.n tere
+mu \:	tere hamasafar giit hai.n tere
+ko \:	la la laa
+
+ki \:	sundarataa kii o shahazaadii husn kii devii
+	ai muurat Kaamoshii kii
+	itanii pyaarii suurat le ke kaash ki tuu bhii
+	mere sur me.n jaa sakatii
+	har dil koo diivaanaa tuu banaa detii jaan\-e\-man \-2
+	tere hamasafar giit \threedots
+
+	gaa_o gaa_o naa shaabaash
+aa \:	aa aa
+ki \:	laa laa la la laa bolo la la laa
+aa \:	aa aa
+ki \:	tere
+aa \:	tere
+ki \:	hamasafar
+aa \:	safar
+ki \:	giit hai.n tere
+aa \:	tere
+ki \:	laa laa la laa
+aa \:	jiivan laa laa laa
+aa \:	tere hamasafar giit hai.n tere
+	giit hii to jiivan miit hai.n tere
+ki \:	ho naGame.n pyaar ke \threedots
+aa \:	tere hamasafar giit \threedots
+ki \:	tere hamasafar giit \threedots
+ko \:	la la laa
+
+aa \:	mere hamadam mere saathii terii dhun me.n
+	kyaa jaaduu hai kyaa jaane
+	o mere hamadam \threedots
+	gunagunaane lage dil ke viiraane
+	dekho naa gunagunaane lage dil ke viiraane
+ki aa \:	tere hamasafar giit \threedots
+aa \:	ho naGame.n pyaar ke \threedots
+
+mu \:	giit sunaa ke saaj bajaa ke pal do pal ko
+	dukhiyo.n kaa dil bahalaa ke
+aa \:	laa laa laa
+mu \:	o giit sunaa ke \threedots
+	ko_ii kaam kar ga_e ham to ye jaane.n duniyaa me.n \-2
+ki aa \:	tere hamasafar giit \threedots
+mu \:	naGame.n pyaar ke tuu gaa_e jaa
+mu ki aa \:	gaa_e jaa aur muskaraa_e jaa
+	tere hamasafar giit \threedots
+%
+#endindian
+\endsong
+

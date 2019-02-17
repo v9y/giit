@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{mujhe mat roko mujhe gaane do}%
+\film{Sargam}%
+\year{1979}%
+\starring{Rishi Kapoor, Jayaprada}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11289 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( mujhe mat roko ) \-2 mujhe gaane do
+
+mai.n zindaa huu.N ye kyaa kam hai
+jab tak in haatho.n me.n dam hai
+( Dafalii vaale ko ) \-2 Dafalii bajaane do
+mujhe mat roko \threedots
+
+naa sonaa naa chaa.Ndii naa gho.De naa haathii
+mere giit mere saathii mai.n duulhaa ye baaraatii
+( mujhe giito.n kii Dolii ) \-2 sajaane do
+mujhe mat roko \threedots
+
+mai.n bhii huu.N mushqil me.n tuu bhii hai mushqil me.n
+meraa Gam hai tere dil me.n teraa Gam hai mere dil me.n
+is dil ko zaraa is paagal ko bahalaane do
+mujhe mat roko \threedots
+
+jo hotaa hai ho jaane do
+mujhe mat roko \threedots
+%
+#endindian
+\endsong
+

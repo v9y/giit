@@ -1,0 +1,23 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ra.ng Daaraa ra.ng Daaraa mohe prem ra.ng me.n}%
+\film{Vidyapati}%
+\year{1937}%
+\starring{Pahari Sanyal, Kananbala, Chhaya Devi, Prithviraj Kapoor}%
+\singer{Rampyari 'Chapla'}%
+\music{R C Boral}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+ra.ng Daaraa ra.ng Daaraa mohe prem ra.ng me.n \-4
+ma.nd\-ma.nd uma.ng hai \-2
+a.ng a.ng me.n
+
+#endindian
+\endsong

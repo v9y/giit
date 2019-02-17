@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{raanii khol de apane du_aar milane kaa din aa gayaa}%
+\film{Tadbir}%
+\year{1945}%
+\starring{Saigal, Suraiya, Mubarak, Zillo, Salvi}%
+\singer{Saigal, Suraiya}%
+\music{Lal Mohomed}%
+\lyrics{Swami Ramanand}%
+%
+% Contributor: BOL ANAMOL #10010 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+sai \:	raanii khol de apane du_aar \-2
+	milane kaa din aa gayaa aa gayaa
+	kar le nayano.n se nayanaa tuu chaar \-2
+	milane kaa din aa gayaa aa gayaa aa gayaa
+
+su \:	laaj kii maarii mai.n na boluu.N \-2
+	priit ke ghuu.NghaT ko na kholuu.N \-2
+sai \:	kyuu.N
+su \:	kyaa jaanuu.N kyuu.N
+	aaj maanuu.N balamawaa mai.n haar \-2
+	dil meraa ghabaraa gayaa \-2
+sai \:	kar le nayano.n se nayanaa tuu chaar \-2
+	milane kaa din aa gayaa aa gayaa aa gayaa
+
+sai \:	aaj dil me.n uThaa hai tuufaan \-2
+su \:	bolo kyuu.N
+sai \:	aaj tan me.n mere naach rahe praan
+su \:	bolo kyuu.N
+sai \:	aaj nas\-nas me.n chhaayaa khumaar \-2
+su \:	kyuu.N
+sai \:	milane kaa din aa gayaa aa gayaa
+	kar le nayano.n se nayanaa tuu chaar \-2
+	milane kaa din aa gayaa aa gayaa aa gayaa
+
+su \:	laaj kii maarii mai.n na boluu.N \-2
+	priit ke ghuu.NghaT ko na kholuu.N \-2
+sai \:	kyuu.N
+su \:	kyaa jaanuu.N kyuu.N
+	aaj maanuu.N balamawaa mai.n haar \-2
+	dil meraa ghabaraa gayaa \-2
+sai \:	kar le nayano.n se nayanaa tuu chaar \-2
+	milane kaa din aa gayaa aa gayaa aa gayaa
+%
+#endindian
+\endsong
+

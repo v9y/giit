@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{paagal ... sun zaraa itanaa savaal hai ... jhuum uThaa jo dil to}%
+\film{Arjun Pandit}%
+\year{1999}%
+\starring{Sunny Deol, Juhi Chawala}%
+\singer{Lalit Sen, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paagal paagal paagal paagal
+sun zaraa sun zaraa itanaa savaal hai paagal paagal
+hamako to bataa de aaj teraa jo haal hai paagal paagal
+he sun zaraa \threedots
+
+jhuum uThaa jo dil to ho gayaa mai.n paagal paagal 
+mil ga_ii jo ma.nzil to ho gayaa mai.n paagal paagal
+harapal barasatii hai ek mastii
+dil me.n hai jaise ko_ii halachal
+paagal paagal paagal paagal he
+jhuum uThaa jo \threedots
+
+jise apanaane ko ye dil betaab thaa
+dil betaab thaa jiinaa ek azaab thaa
+kal vo jo aarazuu thaa kal vo jo Kvaab thaa
+kal vo jo Kvaab thaa kaisaa laajavaab thaa
+vo mil gayaa hai to Gam bhii kyaa hai
+dil me.n hai jaise ko_ii halachal
+jhuum uThaa jo \threedots
+
+kaise mai.n bataa_uu.n merii kaisii manamiit hai
+kaisii manamiit hai kaisii merii priit hai
+merii dha.Dakano.n kaa merii saa.Nso.n kaa vo giit hai
+diivaane dosto.n kii he du_aa_e.n aaj lele he
+ho tere raasto.n me.n he lage.n phuulo.n ke mele he
+na ko_ii ulajhane.n ho.n he na ho.n ko_ii jhamele he
+tuu apanaa pyaar paake he sadaa Kushiyo.n me.n khele
+itanii du_aa do ke ab jo bhii ho
+haatho.n se chhuuTe naa ye aa.Nchal
+jhuum uThaa jo \threedots
+%
+#endindian
+\endsong
+

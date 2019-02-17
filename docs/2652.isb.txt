@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{mere Kayaalo.n me.n aa ke gale lagaa ja mujhe}%
+\film{Gunaah}%
+\year{1953}%
+\starring{}%
+\singer{Talat}%
+\music{Pt. Govindram}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+mere khayaalo.n me.n aa ke gale lagaa jaa mujhe
+ki aaj phir meraa jii chaahataa hai rone ko
+
+namak chhi.Dakate hai.n le le ke mazaa vahii aa.Nsuu
+haay re vahii aa.Nsuu
+jo tere dar pe mile dil ke zakhm dhone ko
+kii aaj phir meraa jii chaahataa hai rone ko \threedots
+
+thakaa huaa hai musaafir savaal hai daataaa
+kafan dilaa mujhe mu.Nh Dhaa.Npane ko sone ko
+kii aaj phir meraa jii chaahataa hai rone ko \threedots
+
+%
+#endindian
+\endsong
+%

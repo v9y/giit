@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil jab se TuuT gayaa kaise kahe.n kaise jiite hai.n}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Alka Yagnik, Pankaj Udhas}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil jab se TuuT gayaa kaise kahe.n kaise jiite hai.n
+kabhii jyaadaa kabhii kam piite hai.n
+
+jaan\-e\-vafaa jaane na tuu zakhmo.n ko ham kaise siite hai.n
+kaise tere binaa ham jiite hai.n
+
+jaam kaa hai sahaaraa varanaa kyaa hai hamaaraa
+ye davaa jo na piite ham bhalaa kaise jiite
+dekhe.n mu.Dake jahaa.N hai vahaa.N bebasii
+bekhudii ban ga_ii ab merii zi.ndagii
+saath teraa chhuuT gayaa kaise kahe.n kaise jiite hai.n
+kabhii jyaadaa kabhii kam \threedots
+
+tujh pe karake bharosaa hamane khaayaa hai dhokhaa
+pahale jo jaan jaate tujhase dil na lagaate
+apanii har aarazuu aa.Nsu_o.n me.n Dhalii
+dard kii aag me.n har tamannaa jalii
+kisako pataa kisako khabar zakhmo.n ko ham kaise siite hai.n
+kabhii jyaadaa kabhii kam \threedots
+%
+#endindian
+\endsong
+

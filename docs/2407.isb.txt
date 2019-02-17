@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{meraa naam raajuu gharaanaa anaam}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran, Lalita Pawar}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+meraa naam raajuu gharaanaa anaam
+bahatii hai ga.ngaa jahaa.N meraa dhaam
+meraa naam raajuu   \threedots
+
+kaam naye nit giit banaanaa
+giit banaa ke jahaa.N ko sunaanaa
+koii na mile to akele me.n gaanaa
+kaviraaj kahe, na ye taaj rahe
+na ye raaj rahe, na ye raaj_gharaanaa
+priit aur priit kaa giit rahe
+kabhii luuT sakaa na koii ye khazaanaa
+meraa naam raajuu   \threedots
+
+dhuul kaa ik baadal alabelaa
+nikalaa huu.N apanii safar me.n akelaa
+chhup\-chhup dekhuu.N mai.n duniyaa kaa melaa
+kaahe maan kare, abhimaan kare
+naadaan tujhe ik din to hai jaanaa
+Dafalii uThaa aavaaz milaa
+gaa mil ke mere sa.ng prem taraanaa
+meraa naam raajuu   \threedots
+
+%
+#endindian
+\endsong
+%

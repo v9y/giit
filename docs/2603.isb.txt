@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jalatii hai duniyaa.N jalatii rahegii}%
+\film{Kamal Ke Phool}%
+\year{1950}%
+\starring{}%
+\singer{Talat}%
+\music{Shyamsunder}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+jalatii hai duniyaa.N jalatii rahegii
+o dil vaale pyaar kiye jaa
+jalatii hai duniyaa.N jalatii rahegii
+
+dil me.n kisii kaa pyaar basaa le
+duniyaa.N kii baate.n dil se bhulaa de
+jalatii hai duniyaa.N jalatii rahegii
+
+kahataa chalaa jaa dil ke fasaane
+terii balaa se duniyaa.N na maane
+jalatii hai duniyaa.N jalatii rahegii
+
+khilate hue dil khil ke rahe.nge
+milanaa hai jinako mil ke rahe.nge
+jalatii hai duniyaa.N jalatii rahegii
+
+%
+#endindian
+\endsong
+%

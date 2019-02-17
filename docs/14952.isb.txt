@@ -1,0 +1,59 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa_ii saawat rut aa_ii, sajan moraa Dole hai man}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Shamshad, Mukesh, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+sha \:	aa_ii saawan rut aa_ii, sajan moraa Dole hai man
+	laagii terii lagan ghar aajaa
+	o ghar aajaa mohan ghar aajaa
+ko \:	aa_ii saawan rut aa_ii, sajan moraa Dole hai man
+	laagii terii lagan ghar aajaa
+	o ghar aajaa mohan ghar aajaa
+
+sha \:	kheto.n\-kheto.n Dag\-mag Dole hariyaalii matawaarii
+	ho hariyaalii matawaarii
+ko \:	kheto.n\-kheto.n Dag\-mag Dole hariyaalii matawaarii
+	ho hariyaalii matawaarii
+sha \:	aise me.n o priitam pyaar aaye yaad tehaarii
+	ho aaye yaad tehaarii
+ko \:	aise me.n o priitam pyaar aaye yaad tehaarii
+	ho aaye yaad tehaarii
+
+	ghar aajaa sajan ghar aajaa
+	o ghar aajaa mohan ghar aajaa
+	aa_ii saawan rut aa_ii, sajan moraa Dole hai man
+	laagii terii lagan ghar aajaa
+
+sha \:	( tore binaa mohe kal naahii aaye
+ko \:	kal naahii aaye ) \-2
+sha \:	dil kii lagii ta.Dapaaye
+	ho dil kii lagii ta.Dapaaye
+	mast pawan chale, man laharaaye \-2
+	aa_ii milan rut haay \-2
+
+	ghar aajaa sajan ghar aajaa
+	o ghar aajaa mohan ghar aajaa
+	aa_ii saawan rut aa_ii, sajan moraa Dole hai man
+	laagii terii lagan ghar aajaa
+
+mu \:	o
+	kheto.n se parabat par aa kar \-2
+	jiiwan jot jagaa le \-2
+	duniyaa hai do din kaa melaa kuchh ro le kuchh gaa le \-2
+
+ko \:	ghar aajaa sajan ghar aajaa
+	o ghar aajaa mohan ghar aajaa
+
+#endindian
+\endsong

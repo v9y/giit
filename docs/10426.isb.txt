@@ -1,0 +1,63 @@
+
+%
+\startsong
+\stitle{aa_egaa mazaa ab barasaat kaa ... paradesii mujhe tuu luuT gayaa}%
+\film{Andaaz}%
+\year{2003}%
+\starring{Akshay Kumar, Lara Dutta, Priyanka Chopra}%
+\singer{Babul Supriyo, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11665 [V S Rawat]
+% Producer: Suneel Darshan, Director: Raj Kanwar
+% Audio: Shree Krishna Audio
+% Cassette: PHF 001 Stereo, Cost: Rs 50/-, CD: TCCD001, Cost: Rs 145/-
+% Site: www.andaazthefilm.com
+%
+\printtitle
+#indian
+%
+a \:	( aa_egaa mazaa ab barasaat kaa
+	terii\-merii dilakash mulaaqaat kaa ) \-2
+	maine to sambhaale rakhaa thaa \-2
+	tuune dekhaa jo pattaa chhuuT gayaa
+	yuu.N a.Nkhiyaa.N milaake a.Nkhiyo.n se \-2
+	paradesii mujhe tuu luuT gayaa
+	aa aa aa aa
+
+baa \:	ik bhiigii hasiinaa kyaa kahanaa 
+	yauvan kaa nagiinaa kyaa kahanaa
+	saavan kaa mahiinaa kyaa kahanaa
+	baarish me.n pasiinaa kyaa kahanaa
+a \:	mere ho.nTho.n pe ye a.nguur kaa jo paanii hai
+	mere mahabuub tere pyaas kii kahaanii hai
+	jab ghaTaa_o.n se buu.Nd zor se barasatii hai
+	tujhase milane ko terii jaan\-e\-man tarasatii hai
+	andaaz jo dekhaa zaalim kaa \-2
+	sabr kaa baa.Ndh merii TuuT gayaa
+	yuu.N a.Nkhiyaa.N milaake a.Nkhiyo.n se \-2
+	paradesii mujhe tuu luuT gayaa
+
+baa \:	nazaro.n me.n chhupaa le der na kar
+	ye duurii miTaa le der na kar
+	ab dil me.n basaa le der na kar
+	siine se lagaa le der na kar
+a \:	ba.Dii bechain huu.N merii jaan mai.n kal\-paraso.n se
+	haa.N mujhe intazaar is din kaa baraso.n se
+	ab jo rokegaa to mai.n had se Guzar jaa_uu.Ngii
+	aur ta.Dapaa_egaa diladaar to mar jaa_uu.Ngii
+	rah jaa_e.Nge pyaase ham dono.n \-2
+	ye mausam jo ham se ruuTh gayaa
+	maine to sambhaale rakhaa thaa \-2
+	tuune dekhaa jo pattaa chhuuT gayaa
+do \:	yuu.N a.Nkhiyaa.N milaake a.Nkhiyo.n se \-2
+a \:	paradesii mujhe tuu luuT gayaa
+	aa aa aa aa
+
+	yuu.N a.Nkhiyaa.N milaake a.Nkhiyo.n se
+	paradesii mujhe tuu luuT gayaa
+%
+#endindian
+\endsong
+

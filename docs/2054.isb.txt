@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{dil diivaanaa dil mastaanaa maane na}%
+\film{Aawaz}%
+\year{}%
+\starring{}%
+\singer{Lata, Talat}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Somesh Gaur
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+dil diivaanaa dil mastaanaa maane na
+lagii bujhaanaa buraa zamaanaa jaane na
+bhiigaa bhiigaa pahaluu hai dliadaar jahaa.N
+bhiigii bhiigii raato.n kaa vo pyaar kahaa.N
+
+raste pe terii merii pahalii mulaaqaat huii
+akhiyo.n kii akhiyo.n se vo jo ek baat huii
+usii ek miiThi baat pe ye dil aabaad hai
+
+pyaar kaa jo duHkh uThaayaa apanaa hii qusuur hai
+teraa koii dosh nahii.n dil majabuur hai
+apana jahaa.N to apane haatho.n barabaad hai
+
+%
+#endindian
+\endsong
+%

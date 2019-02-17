@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{priitam aan milo dukhiyaa jiyaa bulaa_e}%
+\film{Mr. & Mrs. '55}%
+\year{1955}%
+\starring{Gurudutt, Madhubala, Shakeela, Johnny Walker, Lalita Pawar}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Saroj Mohini Iyer}%
+%
+% Contributor: BOL ANAMOL #10035 [V S Rawat]
+% Transliterator: 
+% Comments: the song also exists in C H Atma voice
+% 
+\printtitle
+#indian
+%
+priitam aan milo
+dukhiyaa jiyaa bulaa_e piyaa aan milo
+priitam aan milo
+
+aa_ii rain a.ndherii baalamaa man moraa ghabaraa_e hai
+duur baiThaa ta.Dape pa.nchhii ye hii raTan lagaa_e hai
+aan milo
+priitam aan milo \threedots
+
+bhiigii raat me.n pe.D ke niiche aa.Nkh michaulii khel rachaayaa
+priitam yaad karo jab tumane prem bharaa ik giit sunaayaa
+priitam aan milo \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{piyaa piyaa piyaa meraa jiyaa pukaare}%
+\film{Baap Re Baap}%
+\year{1955}%
+\starring{Kishor Kumar, Chand Usmani, Smriti Biswas, Jayant, Ulhas, Leela Misra}%
+\singer{Asha, Kishor}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10511 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	piyaa piyaa piyaa meraa jiyaa pukaare
+	ham bhii chale.nge sai.nyaa sa.ng tumhaare
+ki \:	( chorii\-chorii\-chorii ) \-2 kaahe hame.n pukaare
+	tum to basii ho gorii man me.n hamaare \-2
+aa \:	piyaa piyaa piyaa \threedots
+
+	yuu.N chhup\-chhup hamase chale ho kahaa.N sai.nyaa.N
+	mai.n laaguu.N tore pai.nyaa naa chho.D morii bai.nyaa.N
+ki \:	ye chhab matavaarii ye mukh goraa\-goraa
+	na dekho\-dekho aise ke jiyaa Dole moraa
+aa \:	bhole\-bhaale nainaa kare jaane kyaa ishaare
+ki \:	tum to basii ho gorii \threedots
+
+aa \:	mai.n piyaa terii chhaayaa ke sa.ng\-sa.ng Doluu.N
+	tuu jaa_e jahaa.N sai.nyaa.N mai.n saath tere ho luu.N
+ki \:	ye rut manamaatii ye din madamaate
+	vo dekho gorii ham\-tum chale hai.n ha.Nsate\-gaate
+aa \:	mere piyaa jhuume jiyaa jhuume ye nazaare
+ki \:	tum to basii ho gorii \threedots
+%
+#endindian
+\endsong
+

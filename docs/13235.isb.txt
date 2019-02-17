@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{meraa badalii me.n chhup gayaa chaa.Nd re}%
+\film{Naagin}%
+\year{1954}%
+\starring{Pradip Kumar, Vyjanthimala}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjali series, LATAnjalii series
+% 
+\printtitle
+#indian
+%
+( meraa badalii me.n chhup gayaa chaa.Nd re
+kahaa.N Dhuu.NDhe.n nayan more baavare
+aajaa aajaa o saa.Nvare ) \-2
+
+duniyaa ne to.D diye sapane suhaane
+ro ro ke yaad karuu.N guzare zamaane
+aajaa piyaa moraa ta.Dapaa jiyaa
+mere jiivan kii hone lagii shaam re
+kahaa.N Dhuu.NDhe.n nayan more \threedots
+
+mai.n huu.N yahaa.N aur tuu hai vahaa.N
+kaise aa_uu.N mai.n piyaa tore gaa.Nv re \-2
+kahaa.N Dhuu.NDhe.n nayan more \threedots
+%
+#endindian
+\endsong

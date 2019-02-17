@@ -1,0 +1,39 @@
+% ITRANS SONG # 3296; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-09-02 01:24:22 PST                               Original Format
+%
+\startsong
+\stitle{bhuule se kabhii yaad kar}%
+\film{Ek Roz}%
+\year{1947}%
+\starring{Nasreen, Al Nasir, Asha Posale, Azmal}%
+\singer{Naseem Akhtar}%
+\music{Shyamsunder}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 02 sept 2002
+% Comments: Though the film is registered as produced by
+%   Gupta Art Productions, Mumbai, it should be a Lahore
+%   Production. The producer was Daaud Chaand. The film
+%   features many familiar Lahore artists.
+%
+\printtitle
+#indian
+%
+bhuule se kabhii yaad kar ai bhuulane vaale
+kyuu.N kar diyaa mujhako merii qismat ke havaale
+
+aramaan taDapate hai.n dil\-e\-daar me.n ab tak
+kab tuune dil\-e\-daar ke aramaan nikaale
+
+dariyaa\-e\-musiibat me.n kahii Duub na jaa_e.N
+ab tere sivaa kashtii\-e\-dil kaun sambhaale
+
+qismat ke a.ndhere me.n tujhe Dhuu.NDh rahii.n huu.N
+aa jaa merii duniyaa\-e\-tamannaa ke ujaale
+%
+#endindian
+\endsong
+%

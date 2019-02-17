@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{bulabul mere chaman ke taqadiir merii ban ke}%
+\film{Heer}%
+\year{1956}%
+\starring{Nutan, Pradeep Kumar}%
+\singer{Geeta}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+bulabul mere chaman ke, taqadiir merii ban ke
+jaago merii tamannaa, jaago
+
+dekho merii nazar me.n, hasarat machal rahii hai
+paravaanaa so rahaa hai, aur shammaa jal rahii hai
+kahatii hai beqaraarii, ye raate.n hai.n hamaarii
+jaago merii tamannaa, jaago
+
+niile gagan pe cha.ndaa ruk jaaye chalate chalate
+jaago to Thahar jaaye.N ye raat Dhalate Dhalate
+aaye na phir saveraa tum saath do jo meraa
+jaago merii tamannaa, jaago
+
+%
+#endindian
+\endsong
+%

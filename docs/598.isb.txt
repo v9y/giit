@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ek subah ek mo.D par}%
+\film{Hip Hip Hurray}%
+\year{1984}%
+\starring{Raj Kiran, Dipti Naval}%
+\singer{}%
+\music{Vanraj Bhatia}%
+\lyrics{Gulzar}%
+%
+% Contributor: Vandana
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+ek subah ek mo.D par mai.n ne kahaa use rok kar
+haath ba.Dhaa ae zi.ndagii, aa.Nkh milaakar baat kar
+
+roz tere jiine ke liye 
+ek subah mujhe mil jaatii hai
+murajhaatii ko_ii shaam agar to
+raat ko_ii khil jaatii hai
+mai.n roz subah tak aataa huu.N 
+aur roz shuruu karata huu.N safar
+haath ba.Dhaa ae zi.ndagii, aa.Nkh milaakar baat kar
+
+tere hazaaro.n cheharo.n me.n
+ek chehraa hai mujhase milataa hai
+aa.Nkho.n kaa ra.ng bhii ek saa hai
+aavaaz kaa a.ng bhii milataa hai
+sach puucho to ham do ju.Dava hai.n
+tuu shaam merii mai.n terii sahar
+haath ba.Dhaa ae zi.ndagii, aa.Nkh milaakar baat kar
+
+%
+#endindian
+\endsong
+%

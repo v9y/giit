@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{jaane na jaane ... mai.n huu.N pujaarii tuu merii devii}%
+\film{Bhai Bahen}%
+\year{1969}%
+\starring{Ashok Kumar, Sunil Dutt,  Nutan, Pran, Padmini}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: BOL ANAMOL #11112 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jaane na jaane tuu hii na jaane
+mai.n huu.N pujaarii tuu merii devii
+maane na maane aayaa manaane
+prem bhikhaarii tuu merii devii
+
+jag ko bisaaraa karataa huu.N puujaa
+meraa sahaaraa ko_ii na duujaa
+praaNo.n se pyaarii tuu merii devii
+mai.n huu.N pujaarii \threedots
+
+sach hii kahaa hai sach hii kahuu.Ngaa
+teraa rahaa huu.N teraa rahuu.Ngaa
+kanyaakumaarii tuu merii devii
+mai.n huu.N pujaarii \threedots
+%
+#endindian
+\endsong
+

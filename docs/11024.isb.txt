@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ko_ii taazaa havaa man ko chhuu ga_ii ... tuu bas tuu}%
+\film{Dhaai Akshar Prem Ke/ Love is The Only Inspiration}%
+\year{2000}%
+\starring{Abhishek Bachchan, Karisma Kapoor}%
+\singer{Babul Supriyo}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko_ii taazaa havaa man ko chhuu ga_ii
+mujhe aisaa lagaa jaise tuu ga_ii
+dekhuu.n yahaa.n dekhuu.n vahaa.n
+chaaro.n taraf aa_e nazar tuu bas tuu
+ko_ii taazaa havaa \threedots
+
+teraa nashaa hai khumaarii hai
+puuchho naa kyaa bekaraarii hai
+tere binaa merii jaan\-e\-jaa.n
+mushkil hai din raat bhaarii hai
+ab to tere khyaal me.n
+dha.Dakano.n ke savaal me.n tuu bas tuu
+ko_ii taazaa havaa \threedots
+
+merii nazar me.n nazaaro.n me.n
+tuu hai basii chaa.Nd taaro.n me.n
+teraa dupaTTaa mahakataa hai
+phuulo.n kii mahakii bahaaro.n me.n
+har galii har makaan me.n
+is zamii.n aasamaan me.n tuu bas tuu
+ko_ii taazaa havaa \threedots
+%
+#endindian
+\endsong
+

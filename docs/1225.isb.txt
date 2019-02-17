@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{merii jaa.N merii jaa.N pyaar kisii se ho hii gayaa hai}%
+\film{Yahudi}%
+\year{1958}%
+\starring{Meena Kumari, Dilip Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+merii jaa.N merii jaa.N pyaar kisiise ho hii gayaa hai, ham kyaa kare.n \-2
+ham kyaa kare.n, aur koii kyaa kare, dil jo diyaa hai koii kyaa kare
+
+(bholii thii mai.n, haay kyaa thii khabar
+ luuTegii yuu.N mujhe unakii nazar) \-2
+na hote muqaabil na dil haarate ham
+ye apanii Kataa hai, Gilaa kyaa kare.n
+merii jaa.N merii jaa.N\threedots
+
+(jinakii nigaaho.n ne ghaayal kiyaa
+ le.nge unhii.n se dil kii davaa) \-2
+na ham muskuraate na vo paas aate
+usakii milii hai hamako sazaa, kyaa kare.n
+merii jaa.N merii jaa.N \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{dil ko ta.Dapanaa ... o dene waale ye kyaa diyaa}%
+\film{Kamal Ke Phool}%
+\year{1950}%
+\starring{Suraiya, Shakuntala, Amarnath, Jiwan, Raj Mehra}%
+\singer{Suraiya}%
+\music{Shyamsunder}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12550 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+dil ko ta.Dapanaa aa.Nkho.n ko ronaa
+qismat me.n likhaa barabaad honaa
+o dene waale ye kyaa diyaa \-4
+
+( meraa chaman hai kaliyo.n se Kaalii
+ye kyaa kiyaa o duniyaa ke maalii ) \-2
+phuulo.n kaa sapanaa kaa.NTho.n pe sonaa \-2
+haay kaa.NTho.n pe sonaa
+o dene waale ye kyaa diyaa \-4
+
+( dekh liyaa terii duniyaa kaa melaa
+sabake hai.n saathii meraa dil hai akelaa ) \-2
+mere liye hai ronaa hii ronaa \-2
+haay ronaa hii ronaa
+o dene waale ye kyaa diyaa \-4
+%
+#endindian
+\endsong
+%
+

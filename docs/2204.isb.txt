@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{samaa ye suhaanaa, akele tum ho akele ham hai.n}%
+\film{Goonj}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Pankaj Kakkar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+samaa ye suhaanaa, akele tum ho akele ham hai.n
+koii kisii kaa diivaanaa, diivaane tum ho diivaane ham hai.n
+
+sajaayii hai hamane Kvaabo.n kii mahafil
+hame.n mil gayii hai muhabbat kii ma.nzil
+koii   \threedots
+
+ye chaahat kaa mausam mahakataa mahakataa
+ye mastii kaa aalam bahakataa bahakataa
+koii   \threedots
+
+%
+#endindian
+\endsong
+%

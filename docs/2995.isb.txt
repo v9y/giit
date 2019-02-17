@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye jhuumate nazaare tum paas ho hamaare}%
+\film{Nai Raahen}%
+\year{1959}%
+\starring{Ashok Kumar, Geeta Bali}%
+\singer{Hemant, Lata}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Credits: 
+% Editor:
+% Date: Feb 5, 2000
+%
+\printtitle
+#indian
+%
+
+he: ye jhuumate nazaare tum paas ho hamaare
+    kahatii hai.n kuchh nigaahe.n samajho zaraa ishaare
+la: ye raah to na_ii hai jaane kahaa.N ga_ii hai
+    Dar laage haay kaise mai.n chaluu.N sa.ng tumhaare \threedots
+ 
+he: kahataa hai bahaar kaa mastii bharaa samaa.N
+    aa.Nkho.n me.n aa.Nkhe.n Daal ke sun dil kii daastaa.N
+la: baahe.n gale me.n Daal duu.N dil chaahataa to hai
+    phir sochatii huu.N kar naa de badanaam ye jahaa.N
+h:  kuchh bhii kahe zamaanaa baato.n me.n tum na aanaa
+    tumako kisiikaa Dar kyaa mai.n saath huu.N tumhaare \threedots
+ 
+la: apanaa banaake saajanaa mu.Nh mo.Danaa nahii.n
+    samajhaa jis ko pyaar mai.n dhokhaa na ho kahii.n
+he: dil to tumhaaraa ho chuukaa haazir hai jaan bhii
+    ik baar mere pyaar kaa kar lo zaraa yakii.n
+la: aisaa naa mu.Nh se boliye ham to tumhaare ho liye
+    lo haath de diyaa hai ab haath me.n tumhaare \threedots
+ 
+he/la: aa aa aa aa aa aa
+
+%
+#endindian
+\endsong
+%

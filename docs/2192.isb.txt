@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{rasik balamaa, haay, dil kyo.n lagaayaa tose}%
+\film{Chori Chori}%
+\year{1956}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+rasik balamaa, haay, dil kyo.n lagaayaa
+tose dil kyo.n lagaayaa, jaise rog lagaayaa
+
+jab yaad aaye tihaarii
+suurat vo pyaarii pyaarii
+nehaa lagaa ke haarii
+aa~
+nehaa lagaa ke haarii
+ta.Dapuu.N mai.n Gam kii maarii
+rasik balamaa   \threedots
+
+Dhuu.Ndhe hai.n paagal nainaa
+paaye na ik pal chainaa
+Dasatii hai ujda.Dii rainaa
+aa~
+Dasatii hai ujda.Dii rainaa
+kaase kahuu.N mai.n bainaa
+rasik balamaa   \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Nd akelaa jaaye sakhii rii}%
+\film{Alaap}%
+\year{1977}%
+\starring{Amitab Bachchan, Rekha, Asrani, Om Prakash}%
+\singer{Yesudas}%
+\music{Jaidev}%
+\lyrics{Dr. Rahi Masoom Reza}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+chaa.Nd akelaa jaaye sakhii rii
+kaahe akelaa jaaye sakhii rii
+man moraa ghabaraaye rii
+sakhii rii, sakhii rii, o sakhii rii
+chaa.Nd akelaa   \threedots
+
+vo bairaagii vo manabhaavan
+kab aayegaa more aa.Ngan
+itanaa to batalaaye rii
+sakhii rii, sakhii rii, o sakhii rii
+chaa.Nd akelaa   \threedots
+
+a.ng a.ng me.n holii dahake
+man me.n belaa chamelii mahake
+ye R^it kyaa kahalaaye rii
+bhaabhii rii, bhaabhii rii, o bhaabhii rii
+chaa.Nd akelaa   \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{rahate ho ab to har gha.Dii merii nazar ke saamane}%
+\film{Toote Tare}%
+\year{1948}%
+\starring{Sheikh Mukhtar, Shameem, Kanhaiyalal, Mridula, Murad}%
+\singer{Mukesh, Geeta}%
+\music{Nashad}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11421 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+gii \:	rahate ho ab to har gha.Dii merii nazar ke saamane
+	( merii nazar ke ) \-2 saamane
+mu \:	aa.Nkho.n se dil me.n aa ga_e dil se nazar ke saamane
+	( dil se nazar ke ) \-2 saamane
+do \:	rahate ho ab to \threedots
+
+mu \:	phuulo.n me.n ha.Ns rahe ho kyaa
+gii \:	Kushbuu me.n bas rahe ho kyaa \-2
+mu \:	aa.Nkhe.n bichhaa rahe hai.n ham
+gii \:	aa_o nazar ke saamane
+mu \:	aa_o nazar ke
+do \:	aa_o nazar ke saamane
+	rahate ho ab to \threedots
+
+mu \:	aa_iine me.n chiraaG me.n
+gii \:	taaro.n me.n mahataab me.n
+mu \:	kis\-kis tarah se aa_e ho
+gii \:	merii nazar ke saamane
+mu \:	merii nazar ke saamane
+do \:	merii nazar ke saamane
+	rahate ho ab to \threedots
+
+gii \:	nazaro.n me.n merii aa_iinaa
+mu \:	aa_iine pe nazar merii
+gii \:	dono.n nazar se duur\-duur
+do \:	dono.n nazar se duur\-duur
+	dono.n nazar ke saamane \-3
+	rahate ho ab to \threedots
+%
+#endindian
+\endsong
+

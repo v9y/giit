@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chal diyaa dil meraa to.D ke}%
+\film{Fifty Fifty}%
+\year{1956}%
+\starring{}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chal diyaa dil meraa to.D ke
+yuu.N akelaa mujhe chho.D ke
+yaad rakhanaa magar bevafaa
+tujhako bhuulegaa na dil meraa
+
+sochatii hai tamanaa merii
+kyo.n basaayii thii duniyaa.N merii
+kyo.n banaayaa thaa vo aashiyaa.N
+aaj uThataa hai jis se dhuaa.N
+dil na samajhe ye terii adaa
+yaad rakhanaa magar bevafaa 
+tujhako bhuulegaa na dil meraa \threedots
+
+sochataa hai ye dil kyaa huaa
+raat par din kaa dhokhaa huaa
+phuul le kar ye kaa.NTe diye
+kyo.n sitamagar sitam ye kiye
+chaahe mujhako tuu jitanaa bhulaa
+yaad rakhanaa magar bevafaa 
+tujhako bhuulegaa na dil meraa \threedots
+
+%
+#endindian
+\endsong
+%

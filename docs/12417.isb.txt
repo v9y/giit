@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{jaan\-e\-man la.Dakii tuu ##number one.##}%
+\film{Kohraam/ The Explosion}%
+\year{1999}%
+\starring{Amitabh Bachchan, Nana Patekar, Tabu}%
+\singer{Udit Narayan, Kavita Subramaniam, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aahaa aahaa aahaa aahaa
+##I am number one. You are number one. We are number one.##
+aahaa aahaa aa_ii aa_ii aahaa aahaa
+
+jaan\-e\-man jaan\-e\-man la.Dakii tuu ##number one.##
+la.Dakaa mai.n ##number one.##
+meraa javaab tuu he teraa javaab mai.n he
+o_e o_e o_e kyaa baat hai he
+aahaa aahaa aa_ii aa_ii aahaa aahaa
+
+jaan\-e\-man jaan\-e\-man la.Dakaa tuu ##number one.##
+la.Dakii mai.n ##number one.##
+meraa javaab tuu \threedots
+
+tuune kiyaa hai jo mai.n yaad karuu.ngaa
+ab mai.n jo karuu.ngaa tuu yaad karegii
+tuu hai javaanii ke josh me.n josh me.n
+achchhaa
+aajaa diivaane hosh me.n hosh me.n
+meraa javaab tuu \threedots
+
+merii nigaaho.n me.n tuu Duub jaa_egaa
+chhe.Degaa mujhako to TuuT jaa_egaa
+aa mai.n guruur teraa to.D duu.n to.D duu.n
+paagal banaa ke tujhe chho.D duu.n chho.D duu.n
+meraa javaab tuu \threedots
+
+aisaa lagataa hai aage baat chalegii
+lambii hamaarii mulaakaat chalegii
+aa terii baaho.n me.n jhuum luu.n jhuum luu.n
+aisaa na ho mai.n tujhe chuum luu.n chuum luu.n
+meraa javaab tuu \threedots
+%
+#endindian
+\endsong
+

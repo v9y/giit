@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ik yaar maa.ngaa thaa ... to kaun sii Kudaa_ii maa.ng lii}%
+\film{Officer}%
+\year{2001}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Sonu Nigam}%
+\music{Deepak Choudhary}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik yaar maa.ngaa thaa maine rab tujhase
+to kaun sii Kudaa_ii maa.ng lii
+ik kataraa chaahaa thaa maine saagar se tere
+to kaun sii Kudaa_ii maa.ng lii
+
+vo terii bekaraarii meraa diivaanapan
+ba.Dhatii hii jaa rahii thii vo pyaar kii agan
+haatho.n me.n teraa cheharaa palake.n jhukii.n jhukii.n
+ho.nTho.n par dil kii baate.n aa kar rukii.n ruukii.n
+ik phuul maa.ngaa thaa bahaaro.n se terii
+to kaun sii Kudaa_ii \threedots
+
+chaahat ke raasto.n me.n dil tanhaa rah gayaa hai
+khvaabo.n kaa vo sama.ndar aa.Nkho.n me.n bah gayaa hai
+use Dhuu.nDhatii hai.n aa.Nkhe.n har gaam har Dagar
+har aahaT dekhatii hai ab tak merii nazar hamasafar
+ik jho.nkaa maa.ngaa thaa havaa_o se terii
+to kaun sii Kudaa_ii \threedots
+%
+#endindian
+\endsong
+

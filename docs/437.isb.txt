@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{dekhaa ek Kvaab to ye silasile hue}%
+\film{Silsila}%
+\year{}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Rekha}%
+\singer{Lata, Kishore}%
+\music{Shiv-Hari}%
+\lyrics{Javed Akhtar}%
+% 
+% Contributor: David Anthony Windsor <daw601@leonard.anu.edu.au>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/03/1996
+%
+\printtitle
+#indian
+%
+dekhaa ek Kvaab to ye silasile hue
+duur tak nigaaho.n me.n hai.n gul khile hue
+ye Gilaa hai aap kii nigaaho.n me.n
+phuul bhii ho.n darmiyaa.n to faasale hue
+dekhaa ek \threedots
+
+merii saa.Nso.n me.n basii Kushabuu terii
+ye tere pyaar kii hai jaadugarii
+terii aavaaz hai havaao.n me.n
+pyaar kaa ra.Ng hai fizaao.n me.n
+dha.Dakano.n me.n tere giit hai.n khile hue
+kyaa kahuu.N ke sharm se hai.n lab sile hue
+dekhaa ek Kvaab \threedots
+
+meraa dil hai terii panaaho.n me.n
+ab chhupaa luu.N mai.n tujhe baaho.n me.n
+terii tasviir hai nigaaho.n me.n
+duur tak roshanii hai raaho.n me.n
+kal agar na roshanii ke kaafile hue
+pyaar ke hazaar diip hai.n jale hue
+dekhaa ek Kvaab \threedots
+%
+#endindian
+\endsong
+%
+

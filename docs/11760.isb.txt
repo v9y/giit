@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{o sapano.n ke saudaagar ik sapanaa de de}%
+\film{Hum Kisise Kum Nahin}%
+\year{2002}%
+\starring{Amitabh Bachchan, Ajay Devgan, Sanjay Dutt, Aishwarya Rai}%
+\singer{Sonu Nigam, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o sapano.n ke saudaagar ik sapanaa de de
+sapanaa lenaa hai to dil apanaa de de
+taubaa merii taubaa taubaa taubaa taubaa taubaa
+sapanaa itanaa maha.ngaa hai to ik ka.nganaa de de
+ka.nganaa lenaa hai to haath apanaa de de
+o sapano.n ke \threedots
+
+o is pyaar ke saude me.n dhokhaa nahii.n karanaa
+dhokhaa karuu.N mai.n to saudaa nahii.n karanaa
+huu.n mai.n kar luu.N aitabaar
+haa.N kar le aitabaar
+kar luu.N
+kar le
+ye baat hai to dil kyaa hai jaan bhii tuu sajanaa le le
+o sapano.n ke \threedots
+
+kaagaz kaa phuul hai jo vo phuul nahii.n khilataa
+kyaa muft me.n duniyaa me.n kuchh bhii nahii.n milataa
+ho har chiiz kaa hai ik mol
+ye pyaar to hai anamol
+to phir to phir
+ye baat hai to sapanaa kyaa sab kuchh apanaa le le
+o sapano.n ke \threedots
+%
+#endindian
+\endsong
+

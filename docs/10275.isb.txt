@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{mai.n raahii a.njaan raaho.n kaa o yaaro.n meraa naam anajaanaa}%
+\film{Aya Sawan Jhoom Ke}%
+\year{1969}%
+\starring{Dharmendra, Asha Parekh, Aruna Irani}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11096 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	saathiyaa nahii.n jaanaa ke jii naa lage
+	mausam hai suhaanaa ke jii naa lage
+	saathiyaa nahii.n jaanaa \threedots
+la \:	saathiyaa maine maanaa ke jii naa lage
+	jii ko thaa samajhaanaa ke jii naa lage
+ra \:	saathiyaa nahii.n jaanaa \threedots
+
+la \:	mere achchhe baalamaa chho.Do aaj ba_iiyaa.N
+	vo jhuuThaa jo sa_iyaa.N kal aa_e naa
+ra \:	jaake phir aa_ogii aake phir jaa_ogii
+	aane\-jaane me.n javaanii Dhal jaa_e naa
+	ho chho.Do aanaa jaanaa ke jii naa lage
+	saathiyaa nahii.n jaanaa \threedots
+
+	jii kaa buraa haal hai jab se jii lagaayaa
+	tujhe jii me.n basaayaa tere ho li_e
+la \:	jii kaa thaa Kyaal to kaahe jii lagaayaa
+	mujhe jii me.n basaayaa ai jii boli_e
+ra \:	ho ab kaahe pachhataanaa ke jii naa lage
+la \:	saathiyaa maine maanaa \threedots
+
+	jaane kii to baalamaa marzii nahii.n merii
+	Dar lagataa hai bairii jagavaalo.n se
+ra \:	oy chhaDDo vii naa soNiyo.n jag se Darate ho
+	jag Kud Darataa hai dilavaalo.n se
+la \:	o ho chho.Do ye bahaanaa
+ra \:	ke jii naa lage
+do \:	saathiyaa nahii.n jaanaa \threedots
+%
+#endindian
+\endsong
+

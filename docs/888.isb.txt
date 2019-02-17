@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jiyaa beqaraar hai, chhaa_ii bahaar hai,}%
+\film{Barsaat}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jiyaa beqaraar hai, chhaaI bahaar hai
+aajaa more balamaa, teraa intazaar hai
+jiyaa beqaraar hai \threedots
+
+(o \threedots, suuraj dekhe cha.Ndaa dekhe sab dekhe.n ham tarase ho
+sab dekhe.n ham tarase ) \- 2
+jaise barase koii badariyaa vaise a.Nkhiyaa.N barase \- 2
+vaise a.Nkhiyaa.N barase 
+jiyaa beqaraar hai \threedots
+
+(o \threedots, naino.n se ek taaraa TuuTe miTTii me.n mil jaae ho
+miTTii me.n mil jaae ) \- 2
+aa.Nsuu kii barasaat balamavaa dil me.n aag lagaae \- 2
+dil me.n aag lagaae \- 2
+jiyaa beqaraar hai \threedots
+
+(o \threedots, tujhako nazare.n Dhuu.NDh rahii hai.n mukha.Daa to dikhalaa jaa ho
+mukha.Daa to dikhalaa jaa ) \- 2
+raste par huu.N aas lagaae
+jaane vaale aa jaa \- 2
+jiyaa beqaraar hai \threedots
+%
+#endindian
+\endsong
+%

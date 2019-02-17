@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ai havaa aa ke thaam le ... aajaa ha.Ns ke jiinaa sikhaa duu.N}%
+\film{Yaad Rakhegi Duniyaa}%
+\year{1992}%
+\starring{Aditya, Rukhsar, Tinu, Radha Seth, Yunus Parvez, Dina Pathak}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o aa o
+ai havaa aa ke thaam le aa.nchal
+ai ghaTaa ban jaa aa.Nkh kaa kaajal
+kaliyo.n se chhipake unhe.n mahakaa duu.N
+murajhaa_e phuulo.n ko khilaa duu.N
+aajaa ha.Ns ke jiinaa sikhaa duu.N
+ai havaa aa ke \threedots
+
+kaale kaale baadal se ras barasaatii huu.N
+barakhaa kii buu.ndo.n me.n jhuum ke gaatii huu.N
+seharaa me.n bhii jal barasaa duu.n
+sabakii pyaas bujhaa duu.N
+aajaa ha.Ns ke \threedots
+
+parvat se jharanaa banake bahatii huu.N
+laharo.n ke darpaN me.n ha.Nsatii rahatii huu.N
+titalii jaisii u.D ke dikhaa duu.N
+duniyaa kii sair karaa duu.N
+aajaa ha.Ns ke \threedots
+%
+#endindian
+\endsong
+

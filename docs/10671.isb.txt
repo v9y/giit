@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{duur kahii.n tuu chal dil rahaa hai machal}%
+\film{Bedard Zamaanaa Kyaa Jaane}%
+\year{1959}%
+\starring{Ashok Kumar, Nirupa Roy, Pran, Helen}%
+\singer{Rafi, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10857 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	duur kahii.n tuu chal dil rahaa hai machal
+	pyaar kii raaho.n me.n priit kii chhaa.Nvo.n me.n
+	dekh hu_ii halachal
+la \:	duur kahii.n tuu chal \threedots
+
+ra \:	ye gulaabii aasamaa.N shaam kaa u.Dataa dhu_aa.N
+la \:	le chalo mujhako vahaa.N
+ra \:	ra.ng bikharaa hai jahaa.N bhiigaa\-bhiigaa hai samaa.N
+la \:	le chalo mujhako vahaa.N
+ra \:	ye nazaare ye ishaare u.D rahaa aa.Nchal
+la \:	duur kahii.n tuu chal \threedots
+
+ra \:	hai ye mausam pyaar kaa pyaar ke ikaraar kaa \-2
+la \:	sapano.n ke si.ngaar kaa do dilo.n ke taar kaa
+	taar kii jhanakaar kaa giit hai ye bahaar kaa
+ra \:	tuu rasiilii rut nashiilii aur havaa cha.nchal
+do \:	duur kahii.n tuu chal dil \threedots
+%
+#endindian
+\endsong
+

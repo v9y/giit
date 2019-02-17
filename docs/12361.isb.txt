@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{haayo rabbaa haayo rabbaa kuchh ho gayaa}%
+\film{Kranti}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel}%
+\singer{Sonu Nigam, Kavita Subramaniam}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haayo rabbaa haayo rabbaa
+haayo rabbaa haayo rabbaa kuchh ho gayaa
+haayo rabbaa haayo rabbaa kuchh kho gayaa
+merii taubaa ab kyaa hogaa
+jaan bhii na chalii jaa_e dil to gayaa
+haayo rabbaa \threedots
+
+dil se chalaa ye dil ko gayaa ye pyaar kaa hasii.n raastaa
+haa.n ye to zaraa socho magar aa_ii nahii.n usakii khabar
+is raste se jo gayaa
+haayo rabbaa \threedots
+
+aa.Nkho.n se mai.n tujhe chuum luu.n
+aa bin piye zaraa jhuum luu.n
+haay aane lagii mujhako sharam dekhe ko_ii meraa sanam
+kaisaa besharam ho gayaa
+haayo rabbaa \threedots
+%
+#endindian
+\endsong
+

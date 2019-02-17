@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{dil sa.mbhaale sa.mbhalataa nahii.n aaj to}%
+\film{Raaz}%
+\year{1967}%
+\starring{Rajesh Khanna, Babita, I S Johar}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11024 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	dil sa.mbhaale sa.mbhalataa nahii.n aaj to
+	paas aane kii de do ijaazat hame.n
+la \:	dekhi_e ye hasii.n shaam Dhalane ko hai
+	ab to jaane kii de do ijaazat hame.n \-2
+	dekhi_e ye hasii.n \threedots
+
+mu \:	kaise kah de.n ki jaa_o in aa.Nkho.n se ab
+	tumako jaate hu_e dekhaa jaataa nahii.n
+la \:	ham bhii majabuur hai.n varanaa jaane kaa to
+	ye Kyaal apane dil me.n bhii aataa nahii.n
+mu \:	jhiil sii apanii aa.Nkho.n me.n pahale zaraa
+	Duub jaane kii de do ijaazat hame.n
+la \:	ab to jaane kii de do ijaazat hame.n
+	dekhi_e ye hasii.n \threedots
+
+	Daal dii tumane aa.Nkho.n me.n aa.Nkhe.n agar
+	jaane phir kab sanam aa_e.N ham hosh me.n
+mu \:	zindagii bhar hame.n saath rahanaa hai ab
+	ham rahe.nge mohabbat ke aaGosh me.n
+la \:	kyaa bataa_e.N hame.n Dar zamaane kaa hai
+	is zamaane kii le do ijaazat hame.n
+	paas aane kii de do \threedots
+%
+#endindian
+\endsong
+

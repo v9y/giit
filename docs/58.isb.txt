@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{aaj kii kaalii ghaTaa, mast-matavaalii ghaTaa}%
+\film{Uski Kahaani}%
+\year{}%
+\starring{}%
+\singer{Geeta}%
+\music{Kanu Roy}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor: Vijay Kumar
+%
+\printtitle
+#indian
+%
+% The song is very much in the same genre as the other Geeta/Kanu combinations
+% from "Anubhav", very soft, very melodious and with minimal instruments.
+% Geeta sounds great although one does detect a tired quality to her voice, which
+% leads me to believe that it is an early 70s song.   The lyrics are Gulzaresque
+% in style in that there is little rhyming either in the words or in the rhythm.
+% The lyricist however is Kaifi Azmi and Kanu Roy does a marvellous job of 
+% maintaining the mood of the song.
+%
+aaj kI kaalii ghaTaa, mast\-matavaalii ghaTaa 
+mujhase kahatii hai ki pyaasaa hai koI 
+kaun pyaasaa hai, mujhe kyaa maaluum 
+aaj kii kaalii ghaTaa \threedots
+
+pyaas ke naam se jii Darataa hai 
+is ilzaam se jii Darataa hai 
+shauk\-e\-badanaam se jii Darataa hai 
+miiThii nazaro.n me.n samaayaa hai koI 
+kyo.n samaayaa hai, mujhe kyA maaluum 
+aaj kii kaalii ghaTaa \threedots
+
+pyaasii aa.Nkho.n me.n muhabbat leke 
+la.Dakha.Daa jaane kii ijaazat leke 
+mujhase bevajah shikaayat leke 
+dil kii dahaliiz tak aayaa hai koI 
+kaun AyA hai, mujhe kyA maaluum 
+aaj kii kaalii ghaTaa \threedots
+
+kuchh mazaa aane lagaa jiine me.n 
+jaag uThaa dard koI siine me.n 
+mere ehasaas ke aaine me.n 
+ik saayaa nazar aataa hai koI
+kisakaa saayaa hai, mujhe kyaa maaluum 
+aaj kii kaalii ghaTaa \threedots
+
+zindagii pahale nA thii itanI hasiin 
+aur agar thii to mujhe yaad nahii.n 
+yahii afasaanaa nA ban jaaye kahii.n 
+kuchh nigaaho.n se sunaataa hai koI 
+kyaa sunaataa hai, mujhe kyA maaluum 
+aaj kii kaalii ghaTaa \threedots
+%
+#endindian
+\endsong
+%

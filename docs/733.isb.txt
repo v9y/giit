@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{ho.nTho.n pe sachchaaii rahatii hai jahaa.N dil me.n safaaii rahatii hai}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.ndsu.nodak.edu)
+% Transliterator:  
+% Credits: Rajan Parrikar 
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Himanshu Bhatt (bhatt@ticipa.pac.sc.ti.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(hoTho.n pe sachchaaii rahatii hai 
+jahaa.N dil me.n safaaii rahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai ) \- 2
+
+(mehamaa.n jo hamaaraa hotaa hai
+vo jaan se pyaaraa hotaa hai ) \- 2
+zyaadaa kii nahii.n laalach hamako 
+tho.De me guzaaraa hotaa hai \- 2
+bachcho.n ke liye jo dharatii maa.N 
+sadiyo.n se sabhii kuchha sahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai
+
+(kuchh log jo zyaadaa jaanate hai.n 
+insaan ko kam pahachaanate hai.n ) \- 2
+ye puurab hai puurabavaale 
+har jaan kii kiimat jaanate hai.n \- 2
+mil jul ke raho aur pyaar karo 
+ek chiiza yahii jo rahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai
+
+(jo jisase milaa sikhaa hamane 
+gairo.n ko bhii apanaayaa hamane ) \- 2
+matalab ke liye andhe hokar 
+roTii ko nahii puujaa hamane \- 2
+ab ham to kyA saarii duniyaa 
+saarii duniyaa se kahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai
+
+hoTho.n pe sachchaaii rahatii hai 
+jahA.n dil me.n safaaii rahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai
+%
+#endindian
+\endsong
+%

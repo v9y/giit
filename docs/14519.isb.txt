@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{zaraa bolo kyaa logii is dil kaa kiraayaa}%
+\film{Us Paar}%
+\year{1944}%
+\starring{Swarnlata, Ishwar Lal, Chandramohan, Sulochana Chatterji}%
+\singer{Mukesh, Kusum}%
+\music{Firoz Nijami}%
+\lyrics{Pt. Madhur}%
+%
+% Contributor: BOL ANAMOL #11408 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	zaraa bolo rii haa.N
+	zaraa bolo kyaa logii is dil kaa kiraayaa
+	zaraa bolo \threedots
+
+	is mumba_ii me.n khaalii ik ##room## nahii.n hai
+	aur paga.Dii hai karatii jebo.n kaa safaayaa
+	rupayo.n kaa safaayaa noTo.n kaa safaayaa
+	zaraa bolo \threedots
+
+ku \:	mere dil kii koThariyaa ho dil kii koThariyaa ##To let## nahii.n hai
+	isako bani_e ne Gu.D kaa godaam banaayaa
+mu \:	zaraa bolo \threedots
+
+	jab gu.D hai to chuuho.n kii dau.D rahegii
+	terii aur bani_e kii jo.Dii bejo.D rahegii
+	us bani_e ne kitanaa bhaa.Daa hai chukaayaa
+	zaraa bolo \threedots
+
+##female## \:	gujaraatii kahate sau pa.njaabii kahate
+	sau\-sau ke paa.Nch noT lo
+	aur biikaanerii kahate hamase paa.Nch hazaar lo
+	shikaarapurii kahate hai.n mujhase jo chaaho so lo
+
+ku \:	lekin ( koThariyaa do ) \-2 tumhii.n socho
+	is paga.Dii ne meraa hai ( mol ba.Dhaayaa ) \-2
+mu \:	zaraa bolo \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ho gayaa dil aur aa.Nkh me.n jhaga.Daa}%
+\film{non-film}%
+\year{}%
+\singer{Pankaj Mullick}%
+\music{}%
+\lyrics{Pt. Madhur}%
+%
+% Contributor: Aashish Thakker
+% Transliterator: Aashish Thakker
+% Credits: Balaji AS Murthy, Afzal Khan
+% Date: 11th February, 2002
+%
+\printtitle
+#indian
+%
+
+ho gayaa dil aur aa.Nkh me.n jhaga.Daa
+dil ko churaa gayaa paradesii
+nahii.n aa.Nkh ne paka.Daa
+ho gayaa dil \threedots
+
+aa.Nkhe.n bolii.n paagal dil hai
+jisake zakhamo.n par maraham hai
+dil kehataa ham luTe magar
+kuchh nahii.n aa.Nkh kaa biga.Daa
+dil ko churaa gayaa \threedots
+
+dil ne apanaa bhed chhupaayaa
+aa.Nkho.n ne jag ko batalaayaa
+duniyaa ha.Nsii dekh ke un kaa
+ronaa honaa mukha.Daa
+dil ko churaa gayaa \threedots
+
+dono karane lage Gulaamii
+kaisii miiThii ye badanaamii
+is jhag.De me.n aa.Nsuu banakar
+dil aa.Nkho.n se bichha.Daa
+dil ko churaa gayaa \threedots
+
+%
+#endindian
+\endsong
+%

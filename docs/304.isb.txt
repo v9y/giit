@@ -1,0 +1,68 @@
+%
+\startsong
+\stitle{bhalii-bhalii sii ek suurat bhalaa saa ek naam}%
+\film{Buddha Mil Gaya}%
+\year{}%
+\starring{Navin Nischol, Archana, Om Prakash, Deven Varma}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Credits: Rajan P. Parrikar 
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ki:    bhalii\-bhalii sii ek suurat bhalaa saa ek naam
+       dha.Dakan hai mere dil ki subah ho yaa shaam
+aa:    kaun hai vo dilarubaa, are kaho naa hamase zaraa
+% ki:    Haaaaaaaaaaaan, oye lo na na na na, oye oye oye tum ho woh dilaruba
+ki:    \threedots tum ho vo dilarubaa
+aa:    bhalii\-bhalii sii ek suurat bhalaa saa ek naam
+       dha.Dakan hai mere dil ki subah ho yaa shaam
+
+aa:    huii mere bhii jiyaa kii chorii
+ki:    achchhaa?
+aa:    are haa.N us chor kii shakal hai gorii
+ki:    to kyaa huaa?
+aa:    ho gayaa milanaa bahut zaruurii
+ki:    ## (alarmed) ## chal pagalii!
+aa:    phir suno to aage hamaarii dil kii majabuurii tu tu tu
+       vo jo mere kariib aayaa
+ki:    o ho
+aa:    mere tan pe pa.Daa jo saayaa
+ki:    (phat(?) gayii!) phir kyaa huaa?
+aa:    yuu.N samajho na gale lagaayaa
+ki:    ## (disgusted) ## chhii chhii chhii
+aa:    tab se sotii huu.N jaagatii huu.N leke usakaa naam
+ki:    kaun hai.n vo dilarubaa kaho na hamase zaraa
+%aa:    Oye oye la la la la oye oye oye ouch! Tum ho woh dilaruba
+aa:    \threedots tum ho vo dilarubaa
+ki:    bhalii\-bhalii \threedots
+
+ki:    haay mushqil hai.n meraa bhii jiinaa
+aa:    ha\threedots ma \threedots
+ki:    sochuu.N to aataa hai.n pasinaa
+aa:    baap\-re!
+ki:    ## (pure fantasy) ## kal maine dekhii ajab hasInaa
+aa:    ha\threedots ma \threedots
+ki:    pyaar me usake dha.Dake meraa dil jalataa hai siinaa
+       dhak dhak dhak
+       paas vo aaI ba.Dii adaa se
+aa:    haa!
+ki:    bolii kyuu.N ho khafaa\-khafaa se
+aa:    haay mar jaauu.N
+ki:    ham bhii the ek nazar ke pyaase
+aa:    kyuu.N nahii.n?
+ki:    ## (hallucinating now) ##
+       dil pe usane jo haath rakhaa aa gayaa aaraam
+aa:    kaun hai.n vo dilarubaa kaho na hamase zaraa
+% ki:    Oye lo na na na na oh ho ouch! Tum ho woh dilaruba
+ki:    \threedots tum ho vo dilarubaa
+aa:    bhalii\-bhalii \threedots
+%
+#endindian
+\endsong
+%

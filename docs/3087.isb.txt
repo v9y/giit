@@ -1,0 +1,36 @@
+% 
+\startsong
+\stitle{ham se kyaa puuchhate ho dard kahaa.N hotaa hai}%
+\film{Lady Doctor}%
+\year{}% 
+\starring{}%
+\singer{Parul Ghosh}%
+\music{Anil Biswas}%
+\lyrics{Wali Saheb}%
+% 
+% Contributor: <Urzung Khan >
+% Transliterator: Urzung Khan
+% Date: December 1,2001
+% Credits: S Jayaraman
+% Comments:  
+%
+\printtitle
+#indian
+%
+
+ham se kyaa puuchhate ho dard kahaa.N hotaa hai
+aap kaa tiir bataa degaa jahaa.N hotaa hai
+ham se kyaa puuchhate ho \threedots
+
+ye lagii aisii lagii hai ki pataa bhii naa lagaa
+aag lagane se bhii kuchh der dhu_aa.N hotaa hai
+ham se kyaa puuchhate ho \threedots
+
+dil me.n jo dard hai tum us kii davaa mat Dhuu.nDho
+dard kam hone se ye dard javaa.N hotaa hai
+ham se kyaa puuchhate ho \threedots
+
+%
+#endindian
+\endsong
+%

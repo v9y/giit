@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aajaa sanam mere paas ... naa baabaa naa ye Dar lagataa hai}%
+\film{Peetaambar}%
+\year{1991}%
+\starring{Ravi Kishan, Jaya Swami, Shahla Khan, Jaya Mathur, Sunil Dhawan}%
+\singer{Kumar Sanu, Dilraj Kaur}%
+\music{Suraj Kiran}%
+\lyrics{Khalid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+di \:	aajaa sanam mere paas aajaa
+ku \:	naa baabaa naa ye Dar lagataa hai
+di \:	aa jaa naa
+ku \:	naa baabaa naa
+di \:	aa jaa naa
+ku \:	naa naa naa
+	mujhako naa sataa ho
+di \:	aajaa sanam mere paas aajaa
+
+ku \:	dekho dekho yuu.N na dekho dekhane se kuchh hotaa hai
+di \:	haay haay kyaa karuu.N mai.n
+	ye jo meraa dil hai tum pe marataa hai
+	dard ye miiThaa saa pahalii baar hu_aa
+	bas me.n nahii.n meraa dil jab se pyaar hu_aa
+	aajaa sanam mere paas aajaa
+
+ku \:	ruko zaraa ruko
+	mai.n ku.nvaaraa ek la.Dakaa huu.N
+di \:	dekho dil naa to.Do mai.n sholo.n me.n jal rahii huu.N
+	bahatii nadiyaa huu.N kyuu.N pyaasaa marataa hai
+	mai.n bhii javaa.N tuu bhii javaa.N phir kyuu.N Darataa hai
+	aajaa sanam mere paas aajaa
+%
+#endindian
+\endsong
+

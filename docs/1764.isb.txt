@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{tum jiyo hazaaro.n saal}%
+\film{Sujata}%
+\year{}%
+\starring{Nootan, Sunil Dutt, Shashikala, Sulochana}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+% Comments: Poignant movie about untouchability 
+%           Bimal Roy Productions
+%
+\printtitle
+#indian
+%
+tum jiyo hazaaro.n saal 
+saal ke din ho.n pachaas hazaar
+ 
+suuraj roz aataa rahe roz gaataa rahe 
+leke kiraNo.n ke mele 
+palachhin kaliyaa.N gin gin teraa har din 
+tab tak ra.Ngo.n se khele.n
+ra.Ng jab tak baakii hai bahaaro.n me.n
+tum jiyo hazaaro.n saal 
+saal ke din ho.n pachaas hazaar \threedots
+ 
+yahaa.N vahaa.N shaam ho chaahe jahaa.N
+yuu.N hii jhuume shamaa sunake tumhaarii baate.n
+pyaar liye chaa.Nd kaa Tiikaa liye 
+yuu.N hii juganuu liye chamake tumhaarii raate.n
+nuur jab tak baakii hai sitaaro.n me.n
+tum jiyo hazaaro.n saal 
+saal ke din ho pachaas hazaar \threedots
+%
+#endindian
+\endsong
+%
+

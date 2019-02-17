@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{zi.ndagii pyaar kaa giit hai, ise har dil ko gaanaa pa.Degaa}%
+\film{Sautan}%
+\year{}%
+\starring{Rajesh Khanna, Tina Munim, Padmini}%
+\singer{Kishore}%
+\music{Usha Khanna}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+zi.ndagii pyaar kaa giit hai,  ise har dil ko gaanaa pa.Degaa
+zi.ndagii Gam kaa saagar bhii hai,  ha.nsake us paar jaanaa pa.Degaa
+
+zi.ndagii bevafaa hai to kyaa,  apane ruThe hai.n hamase to kyaa
+haath me.n haath naa ho to kyaa,  saath phir bhii nibhaanaa pa.Degaa
+zi.ndagii \threedots
+
+zi.ndagii ek musakaan hai,  TuuTe dil kii koI aas hai
+zi.ndagii ek banavaas hai,  kaaT kar sabako jaanaa pa.Degaa
+zi.ndagii \threedots
+
+%    (now the female version)
+hai abhii duur ma.nzil to kyaa,  raastaa bhii hai mushkil to kyaa
+raat taaro.n bharii na mile to,  Gam kaa diipak jalaanaa pa.Degaa
+zi.ndagii \threedots
+% .... lines missing?????????????
+%
+#endindian
+\endsong
+%

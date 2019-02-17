@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{ye kyaa kiyaa re duniyaa vaale jahaa.N ke Gam}%
+\film{Beti}%
+\year{1969}%
+\starring{Sanjay, Kishor Sahu, Nanda, Kamini Kaushal, Shyama, Raj Mehra}%
+\singer{Mukesh}%
+\music{Sonik Omi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10376 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ye kyaa kiyaa re duniyaa vaale
+jahaa.N ke Gam tuune sabhii mujhako de Daale
+ye kyaa kiyaa re \threedots
+
+o re bedardii o harajaa_ii dekh lii maine terii Kudaa_ii
+pahale hii meraa dil ghaayal thaa aur bhii us par choT lagaa_ii
+tuune rulaa ke mujhe dar\-dar phiraa ke mujhe
+kab ke ye aramaa.n nikaale
+ye kyaa kiyaa re \threedots
+
+subah kaa suuraj raat ke taare ban ga_e sab ke sab a.ngaare
+aas ke ba.ndhan to.D ke tuune chhiin li_e sabhii sa.ng\-sahaare
+mere lahuu kii qasam aur bhii kar le sitam
+aag tuu dil kii bujhaa le
+ye kyaa kiyaa re \threedots
+%
+#endindian
+\endsong
+

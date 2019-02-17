@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{meraa raajaa beTaa buujhe ek pahelii}% 
+\film{Anuraag}%
+\year{1972}%
+\starring{Ashok Kumar, Vinod Mehra, Moushumi Chatterjee}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  ceindian@utacnvx.uta.edu (Porky)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+## hmmmmm ... ##
+meraa raajaa beTaa bUjhe ek pahelii 
+pyaarI pyaarI a.Nkhiyo.n kii kaun sahelii 
+(ni.ndiyaa)
+meraa raajaa beTaa bUjhe ek pahelii 
+soe sab jaage saarii raat akelii 
+(maa.N)
+
+1) ban Than ke aa_e ni.ndiyaa lagaae 
+chaa.Nd ke maathe pe bi.ndiyaa lagaae 
+mukha.De pe chamake cha.Ndr kiraN 
+meraa raajaa beTaa bUjhe ek pahelii 
+kaun vo dulhan naar navelii 
+(raat)
+
+2) khoyaa a.ndhere me.n melaa jahaa.N kaa 
+nain jharokho.n se sapano.n ne jhaa.Nkaa 
+dhiire dhiire chale rii pAgal pavan 
+meraa raajaa beTaa bUjhe ek pahelii 
+champaa ke baalo.n me.n mahake chamelii 
+(gajaraa)
+%
+#endindian
+\endsong
+%

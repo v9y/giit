@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{merii aa.Nkho.n me.n tum ho mere sapano.n me.n tum ho}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii aa.Nkho.n me.n tum ho mere sapano.n me.n tum ho
+merii dha.Dakan me.n tum ho merii saa.Nso.n me.n tum ho
+ab ye haalaat hai.n dono.n ab saath hai.n
+dil me.n jazbaat hai.n haatho.n me.n haath hai.n
+ham dono.n kaa ye pyaar hai kitanaa pyaaraa
+merii aa.Nkho.n me.n tum \threedots
+
+tum agar ho hasii.n hai zi.ndagii
+tum nahii.n to kuchh nahii.n hai zi.ndagii
+tum se hii raaho.n me.n paa_ii hai maine har khushii
+tum ye jaan lo tum ye maan lo
+tum ho merii ma.nzil tum hii raastaa
+merii aa.Nkho.n me.n tum \threedots
+
+merii har saa.Ns kaa sa.ngiit ho
+tum ko_ii khushbuu ko_ii ra.ng ho
+tumako jo dekhe vo kyuu.n na da.ng ho
+tum jo aa ga_e dil pe chhaa ga_e
+tumane mujh par jaaduu hai kar diyaa
+merii aa.Nkho.n me.n tum \threedots
+%
+#endindian
+\endsong
+

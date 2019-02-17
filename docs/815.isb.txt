@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{jaauu.N kahaa.N bataa ai dil}%
+\film{Chhoti Behan}%
+\year{1959}%
+\starring{Rehman, Balraj Sahni, Nanda, Shyama}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Credits : Hrishi Dixit, Afzal Khan
+%
+\printtitle 
+#indian 
+%
+jaauu.N kahaa.N bataa ai dil
+duniyaa ba.Dii hai sa.ngadil
+chA.ndanI AI ghar jalAne
+suujhe nA koI ma.nzil
+jaauu.N kahaa.N bataa ai dil
+
+ban ke TUTe yahA.N, ArazU ke mahal
+ye zamI.n, AsamA.N, bhI gae hai.n badal
+kahatI hai zi.ndagI, is jahA.N se nikal
+jaauu.n kahaa.N bataa ai dil \threedots
+
+hAy is pAr to, A.Nsuo.n kI Dagar
+jAne us pAr kyA, hai kise ye khabar
+Thokare.n, khA rahI, har kadam par nazar
+jaauu.N kahaa.N bataa ai dil \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ham hai.n raahii pyaar ke, hamase kuchh na boliye}%
+\film{Nau Do Gyaarah}%
+\year{}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: R. Gopalakrishnan (gopalakr@louie.udel.edu)
+% Credits: Kannan Muthukaruppan (mkannan@plane.cs.berkeley.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+	 ham hai.n rAhI pyAr ke, hamase kuchh na boliye \- 3
+	 jo bhI pyAr se milA, ham usI ke ho liye \- 2
+	 ham usI ke ho liye
+	 jo bhI pyAr se milA, ham usI ke ho liye
+	
+	 dard bhI hame.n qubUl, chaina bhI hame.n qubUl \- 2
+	 hamane.n har tarah ke phUl, haar me.n piro liye, \- 2
+	 jo bhI pyAr se milA \threedots
+	
+	 dhUp thI nasIba me.n, to dhUp me.n liyA hai dam \- 2
+	 chA.NdanI milI to ham, chA.NdanI me.n so liye \- 2
+	 jo bhI pyAr se milA \threedots
+	
+	 dil pe AsarA kiye, ham to bas yU.NhI.n jiye \- 2
+	 ek kadam pe ha.Ns liye, ek kadam pe ro liye \- 2
+	 jo bhI pyAr se milA \threedots
+
+	 rAh me.n pa.De.n hai.n ham, kabase aap kI qasam	\- 2
+	 dekhiye to kam se kam, boliye naa boliye \- 2
+	 jo bhI pyAr se milA \threedots
+
+	 ham hai.n rAhI pyAr ke, hamase kuchh na boliye
+	 jo bhI pyAr se milA, ham usI ke ho liye
+%
+#endindian
+\endsong
+%

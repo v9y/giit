@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{meharabaano qadaradaano ... duniyaa me.n rahanaa hai to kaam karo}%
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11169 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+meharabaano qadaradaano dosto yaaro
+are khel dekho khel ##one two three up##
+
+duniyaa me.n rahanaa hai to kaam karo pyaare
+haath jo.D sabako salaam karo pyaare
+varanaa ye duniyaa jiine nahii.n degii
+khaane nahii.n degii piine nahii.n degii
+khel ko_ii nayaa subah\-shaam karo pyaare
+duniyaa me.n rahanaa \threedots
+
+paise binaa duniyaa me.n roTii nahii.n milatii
+roTii nahii.n milatii la.ngoTii nahii.n milatii
+haath jo.D sabako salaam karo pyaare
+duniyaa me.n rahanaa \threedots
+
+ek din tere\-mere Kvaab ho.nge puure
+aisii ko_ii baat kar chal o jamuure
+rah jaa_e.N sab dil thaam kar o pyaare
+duniyaa me.n rahanaa \threedots
+
+taa.Nge me.n lagii jaisii gho.Dii chalii jaa_e
+rassii pe gorii aisii dau.Dii chalii jaa_e
+chal ghar chale.n raam\-raam karo pyaare
+duniyaa me.n rahanaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tumako kitanaa pyaar hai kitanaa beqaraar hai jiyaa}%
+\film{Goonj}%
+\year{1989}%
+\starring{Kumar Gaurav, Juhi Chawla, Binju Ali, Tinu Anand, Bindu}%
+\singer{Kishore, Lata}%
+\music{Biddu}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11642 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	tumako kitanaa pyaar hai kitanaa beqaraar hai jiyaa
+	jaa_o jii jaa_o hamane tumhe.n dekh liyaa
+ki \:	hamane bhii sarakaar dekh liyaa
+	Gusse me.n hai pyaar dekh liyaa
+la \:	tumako kitanaa pyaar \threedots
+
+ki \:	pal me.n na jaa_e tumhaarii galii to dil ke kariib sii hai
+	pal me.n hai duur ye bhii adaa tumhaarii ajiib sii hai
+la \:	ek mere tum to ho tum bhii diivaane ho dekh liyaa
+	jaa_o jii jaa_o \threedots
+ki \:	hamane bhii sarakaar \threedots
+
+la \:	aa_o gale lagaa kar tumhaarii baa.Nho.n me.n jhuul jaa_e.N	
+	kho jaa_e.N ik duuje me.n saarii baato.n ko bhuul jaa_e.N
+ki \:	aaj phir pyaar se hamako na sataa_o
+	jaa_o jii jaa_o \threedots
+la \:	hamane bhii sarakaar \threedots
+ki \:	tumako kitanaa pyaar \threedots
+%
+#endindian
+\endsong
+

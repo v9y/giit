@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{sun rasiyaa kaahe ko jalaa_e jiyaa aajaa}%
+\film{Naagin}%
+\year{1954}%
+\starring{Pradip Kumar, Vyjanthimala}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: GEETanjali series, LATAnjalii series
+% 
+\printtitle
+#indian
+%
+sun rasiyaa \-2
+kaahe ko jalaa_e jiyaa aajaa
+
+( likh likh haarii balam tohe patiyaa.N
+tum bin kaise bitaa_uu.N kaarii ratiyaa.N ) \-2
+sun rasiyaa kaahe ko jalaa_e \threedots
+
+( kab hogaa puuraa sajan meraa sapanaa
+piyaa tum aa ke kahoge mujhe apanaa ) \-2
+sun rasiyaa kaahe ko jalaa_e \threedots
+%
+#endindian
+\endsong

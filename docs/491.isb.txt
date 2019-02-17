@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{dil hai chhoTaa saa, chhoTii sii aashaa mastii bhare mana kii}%
+\film{Roja}%
+\year{}%
+\starring{Arvind, Madhubala}%
+\singer{Minmini}%
+\music{A R Rahman}%
+\lyrics{Mani Rathnam}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Rekha Pai (rekhi@bombay.mti.sgi.com)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+(dila hai chhoTaa saa, chhoTii sii aashaa
+mastii bhare mana kii, bholii sii aashaa
+chaa.Nda taaro.n ko, chhuune kii aashaa
+aasamaano.n me.n u.Dane kii Ashaa ) \- 2
+dila hai chhoTaa saa, choTii sii aashA
+	
+mahaka jaauu.N mai.n, aaja to aise
+phuula bagiyaa me.n, mahake hai jaise
+baadalo.n kii mai.n oDhuu.N chunariyaa
+jhuuma jaauu.n mai.n banake bAvariyaa
+apanii choTii me.n baa.ndha luu.N duniyaa
+	
+erero ere ereyo \threedots
+erero ere ereyo \threedots
+	
+svarga sii dharatii, khila rahe jaise
+meraa mana bhii to, khila rahaa aise
+koyala kii tarahaa, gaane ko aramaa.n
+machhalii kii tarahaa, machale ye aramaa.n
+javaanii hai laayii ra.ngiina sapanaa
+dila hai chhoTaa saa \threedots
+	
+dila hai chhoTaa saa, chhoTii sii aashaa
+mastii bhare mana kii, bholii sii aashaa
+chaa.Nda taaro.n ko, chhuune kii aashaa
+aasamaano.n me.n u.Dane kii aashaa
+dila hai chhoTaa saa \threedots
+%
+#endindian
+\endsong
+%

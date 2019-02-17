@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{manamaanii se haragiz n Daro}% 
+\film{Man Pasand}%
+\year{1980}%
+\starring{Dev Anand, Tina Munim, Girish Karnad, Mehmood}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+##hmmm##
+
+manamaanii se haragiz nA Daro, 
+kabhI shaadii nA karo 
+man maanii se haragiz nA Daro, 
+kabhI shaadii nA karo
+
+are, marazii hai, aaj kahii.n baahar khaanaa khaaye.n 
+vo kahe.ngii, nahii.n sAhab Thiik aaTh baje ghar vaapas aa jaaye.n
+
+kitaab liye haath me.n aap chain se baiThe hai.n 
+vo kahe.ngii, hamase ruuThe hai.n? 
+
+kabhI kisii bhI nArii se kar lo, do baate.n 
+vo kahe.ngii, kyA inhii.n se hotI hai.n chhup ke mulAqaate.n? 
+
+are, taubaa bevaquufii kii hai shaadii intahaa 
+are, aurat apanA soche auro.n kii nahii.n paravaah 
+(kyo.n Thiik nahii.n kahaa maine)
+jo jii mai.n aaye vo karo kabhI shaadii nA karo 
+
+manamaanI se haragiz nA Daro, 
+kabhI shaadii haa.n kabhI shaadii, nA baabaa na 
+%
+#endindian
+\endsong
+%

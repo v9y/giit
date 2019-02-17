@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{lagii tumase lagan saathii chhuuTe na}%
+\film{Saranga}%
+\year{1960}%
+\starring{}%
+\singer{Lata, Mukesh}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+lagii tumase lagan saathii chhuuTe na
+naataa janam janam kaa TuuTe na
+
+chaahe qisamat hamako Thukaraaye
+chaahe duniyaa dushaman ban jaaye
+chaahe sab ruuTh jaaye
+lagii tumase lagan   \threedots
+
+ye priit ke hai.n naazuk dhaage
+duniyaa kii nazar na lage
+koii pyaar hamaaraa luuTe na
+lagii tumase lagan   \threedots
+
+%
+#endindian
+\endsong
+%

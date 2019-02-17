@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{lailaa ne kahaa hai majanuu.n se ... vahii mujhase kah de tuu ##I love you.##}%
+\film{Jungle Love}%
+\year{1990}%
+\starring{Rockey, Kirti Singh, Goga Kapoor, Mahesh Anand, Shiva, Gajendra Chauhan}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lailaa ne kahaa jo majanuu.n se raa.njhaa ne kahaa jo hiir se
+vahii mujhase kah de tuu ##I love you.##
+
+nazaro.n se chaahat kaa intazaar karate hai.n
+pyaar to ham premii ik baar karate hai.n
+meraa husn kahataa hai terii javaanii se
+shuru_aat ulfat kii apanii kahaanii se mere hamadam kar shuruu
+##I love you.## \threedots
+
+bhuul ke duniyaa ko tere saath jiinaa hai
+pyaarii nigaaho.n me.n ab Duub jaane do
+zulfo.n ke parade me.n mahabuub aane do mujhako terii aarazuu
+##I love you.## \threedots
+
+terii muhabbat me.n ham Duub jaa_e.nge
+teraa hasii.n cheharaa dil me.n basaa_e.nge
+baaho.n me.n jiinaa hai baaho.n me.n maranaa hai
+mujhako kabhii dil se ab duur na karanaa rakhanaa sadaa ruu ba ruu
+##I love you.## \threedots
+%
+#endindian
+\endsong
+

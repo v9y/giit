@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ko_ii phuul na khilataa ... agar tuu na hotii}%
+\film{Paise Ki Gudiyaa/ Ghunghat Aur Ghungharoo}%
+\year{1974}%
+\starring{Ashok Kumar, Saira Banu, Navin Nishchal, Padma Khanna}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11243 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ko_ii phuul na khilataa ye kalii bhii na hotii zindagii bhii na hotii
+agar tuu na hotii
+ko_ii phuul na khilataa \threedots
+
+na hotaa ujaalaa aur ye raat bhii na hotii ko_ii baat hii na hotii
+agar tuu na hotii
+ko_ii phuul na khilataa \threedots
+
+ko_ii zamii.n na hotii aur aasamaa.N na hotaa \-2
+ko_ii hasii.n na hotaa ko_ii javaa.N na hotaa \-2
+na taare muskaraate ye nazaare bikhar jaate
+ko_ii Kushii na hotii naa intazaar hotaa \-2
+ko_ii phuul na khilataa \threedots
+
+naa ko_ii dil machalataa naa beqaraar hotaa
+puuchhe jo ko_ii hamase ye sab hai tere dam se ko_ii shai bhii na hotii
+agar tuu na hotii
+ko_ii phuul na khilataa \threedots
+%
+#endindian
+\endsong
+

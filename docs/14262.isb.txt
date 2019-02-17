@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{shiish mahal banawaaye ... kaho jii kisakii sachchii shaan}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Suraiya, Chorus}%
+\music{Hansraj Behl}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12606 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	shiish mahal banawaaye ko_ii taajamahal banawaaye
+	lekin taajamahal par duniyaa aa kar phuul cha.Daaye
+
+	kaho jii kisakii sachchii shaan
+ko \:	mohabbat karane waale kii
+su \:	kaho jii kisakii jhuuThii shaan
+ko \:	pyaar me.n Darane waale kii
+su \:	pyaar me.n Darane waale kii \-2
+	kaho jii kisakii sachchii shaan
+ko \:	mohabbat karane waale kii
+
+su \:	ko_ii daulat jahaa.N kii luuT kar aa.Nsuu bahaataa hai
+	luTaa kar ko_ii apanaa aap bhii muskuraataa hai
+	kaho jii kisakii sachchii shaan
+ko \:	luTaa kar  waale kii
+su \:	kaho jii kisakii jhuuThii shaan
+ko \:	luuTa kar waale kii
+su \:	luuTa kar waale kii \-2
+	kaho jii kisakii sachchii shaan
+ko \:	mohabbat karane waale kii
+
+su \:	kisii ne pyaar kaa waadaa kar ke kisii se aa.Nkh churaa_ii
+	kisii ne apanii jaan ga.Nwaa ke pyaar kii riit nibhaa_ii
+	kaho jii kisakii sachchii shaan
+ko \:	pyaar me.n marane waale kii
+su \:	kaho jii kisakii jhuuThii shaan
+ko \:	maut se Darane waale kii
+su \:	maut se Darane waale kii \-2
+	kaho jii kisakii sachchii shaan
+ko \:	mohabbat karane waale kii
+%
+#endindian
+\endsong
+%
+

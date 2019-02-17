@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pal bhar hii kii pahachaan me.n paradesii sanam se}%
+\film{Anuraag}%
+\year{1956}%
+\starring{Mukesh}%
+\singer{Mukesh}%
+\music{Mukesh}%
+\lyrics{Indeevar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+pal bhar hii kii pahachaan me.n paradesii sanam se
+lagataa hai ki ham jaanate ho.n janam janam se
+
+nigaahe.n chau.nkii dil kisii duusarii duniyaa me.n kho gayaa
+kise dekhaa hai ki zi.ndagii se mujhe pyaar ho gayaa
+kis ne mahakaa diyaa hai aa ke raaho.n ko merii
+raaho.n ke bhaag jaag gaye kis ke kadam se
+lagataa hai ki \threedots
+
+kisii jiivan me.n sahii tum se merii priit rahii
+jo priit bhuul gaye aaj lagate hai.n naye
+ahasaan hai qisamat kaa milaa aa.Nsu-e-Gam se
+lagataa hai ki \threedots
+
+zaraa sharamaanaa aur muskaanaa hai nishaanii pyaar kii
+binaa bole hii nain kah dete hai.n kahaanii pyaar kii
+jis ne dil haar diyaa us ne jag jiit liyaa
+dil de milaa kyaa na kahaa jaayegaa ham se
+lagataa hai ki \threedots
+
+%
+#endindian
+\endsong
+%

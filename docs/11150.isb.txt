@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aashiqii me.n har aashiq ho jaataa hai majabuur ... is me.n dil kaa kyaa kasuur}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu, Anuradha Paudwal, Sadhana Sargam}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aashiqii me.n har aashiq ho jaataa hai majabuur
+is me.n dil kaa mere dil kaa is me.n dil kaa kyaa kasuur
+aashiqii me.n har aashiq \threedots
+
+nigaahe.n na milatii na ye pyaar hotaa
+na mai.n tujhase milatii na izahaar hotaa
+mere aashiq mere dilabar mere jaan\-e\-jaa.n
+ab tere bin ek pal na jiinaa yahaa.n
+tujh se mil ke kaisaa chhaayaa hai suruur
+is me.n dil kaa \threedots
+
+na puuchho kaisii hai ye bekaraarii
+mohabbat kii pyaasii hai ye duniyaa saarii
+na jaane dil kisakaa kab kho jaa_e
+haa.N yahii chaahat kaa aksar hotaa hai dastuur
+is me.n dil kaa \threedots
+%
+#endindian
+\endsong
+

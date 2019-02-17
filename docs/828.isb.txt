@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{jab koii baat biga.D jaae, jab koii mushakil pa.D jaae,}%
+\film{Jurm}%
+\year{}%
+\starring{Vinod Khanna, Meenakshi Seshadari}%
+\singer{Kumar Sanu, Sadhna Sargam}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar, Payam}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: Vivek Vohra (vivek@oz.che.rochester.edu)
+%          Amin Meghani (ameghani@bnr.ca)
+%          Satish Subramanium (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+saanuu : jab koii baat biga.D jaae, jab koii mushkil pa.Da jaae
+tum denaa saath meraa, o, hamanavaaz
+jaba koI baata biga.Da jaae, jaba koI mushkila pa.Da jaae
+naa koI hai, naa koI thaa, zindagii me.n tumhaare sivaa
+tuma denaa saatha meraa, o, hamanavaaza
+
+saanuu : (ho chaa.Ndanii jaba taka raata, detaa hai hara koI saatha
+tuma magara andhero.n me.n, naa chho.Danaa meraa haatha ) \- 2
+jaba koI baata biga.Da jaae \threedots
+naa koI hai, naa koI thaa \threedots
+
+saadhanaa : (vafaadArii kii vo rasme.n, nibhaae.Nge hama to kasame.n
+eka bhii saa.Nsa zindagii kii, jaba taka ho apane basa me.n ) \- 2
+jaba koI baata biga.Da jaae \threedots
+shaanuu : naa koI hai, naa koI thaa \threedots
+
+saanuu : dila ko mere huA yakii.n, hama pahale bhii mile kahii.n
+silasilaa ye sadiyo.n kaa, koI aaja kii baata nahii.n
+saadhanaa: dila ko mere huA yakii.n, hama pahale bhii mile kahii.n,
+silasilaa ye sadiyo.n kaa, koI aaja kii baata nahii.n
+dono: jaba koI baata biga.Da jaae, jaba koI mushkila pa.Da jaae
+tuma denaa saatha meraa, o, hamanavaaza,
+naa koI hai, naa koI thaa, zindagii me.n tumhaare sivaa
+tuma denaa saatha meraa, o, hamanavaaza \- 2
+%
+#endindian
+\endsong
+%

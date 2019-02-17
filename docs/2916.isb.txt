@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mujhe bhii maut kaa paigaam}%
+\film{Luteraa}%
+\year{1955}%
+\starring{Nasir Khan,Jabeen,Begum Para}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Credits:Hrishi Dixit
+% Date:January 28,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+nazar ke saamane jab luT gayaa jahaa.N meraa
+koii bataaye ke kaun aaye.n(?) ab kahaa.N meraa
+
+(mujhe bhii maut kaa paiGaam aa jaaye to achchhaa ho)\-2
+hameshaa ke liye aaraam aa jaaye to achchhaa ho
+
+(tumhaare saath jiine kii tamanna kii, huii ruKasat)\-2
+agar ab zi.ndagii kii shaam aa jaaye to achchhaa ho
+mujhe bhii maut\threedots
+
+(mubaarak ho tujhe to ab khushii ke jaam ai duniyaa)\-2
+(yahaa.N to zahar kaa ik jaam aa jaaye to achchhaa ho)\-2
+mujhe bhii maut\threedots
+
+%
+#endindian
+\endsong
+%
+

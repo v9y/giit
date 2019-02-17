@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{falasafaa pyaar kaa tum kyaa jaano}%
+\film{Duniya}%
+\year{1968}%
+\starring{Dev Anand, Vyjayantimala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11077 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+falasafaa pyaar kaa \-2
+tum kyaa jaano \-2
+tumane kabhii pyaar na kiyaa
+tumane intazaar na kiyaa
+
+Kuubasuurat ho magar pyaar ke a.ndaaz nahii.n
+ye kamii hai ke tumhaaraa ko_ii hamaraaz nahii.n
+dil me.n jab dard nahii.n baat banegii kaise
+saaz chhe.Daa bhii magar pyaar kii aavaaz nahii.n \-2
+falasafaa pyaar kaa \threedots
+
+kaise samajhaa_uu.N ye naazuk saa fasaanaa tumako
+ye vo ma.nzar hai jo mahasuus hu_aa karataa hai
+rahatii duniyaa me.n vahii rahataa hai marakar zindaa
+pyaar ke naam pe jo jaan diyaa karataa hai \-2
+falasafaa pyaar kaa \threedots
+
+pyaar shiirii.n ne kiyaa pyaar hii lailaa ne kiyaa
+pyaar miiraa ne kiyaa pyaar hii raadhaa ne kiyaa
+pyaar har ra.ng me.n logo.n ko sadaa detaa hai
+pyaar ke parde me.n ham sabakaa Kudaa rahataa hai \-2
+falasafaa pyaar kaa \threedots
+%
+#endindian
+\endsong
+

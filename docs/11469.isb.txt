@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aajaa maahiyaa aa dhuup maluu.N mai.n}%
+\film{Fizaa}%
+\year{2000}%
+\starring{Hritik Roshan, Karisma, Jaya, Neha, Sushmita, Vikran Saluja}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+maahii re maahii maahii re 
+aajaa maahii mere aajaa maahii mere aajaa maahii mere aa
+aa dhuup maluu.N mai.n tere haatho.n me.n 
+aa sajadaa karuu.n mai.n tere haatho.n me.n
+o subah kii meha.ndii chhalak rahii hai aajaa
+aajaa maahiyaa aajaa aajaa maahiyaa ho aajaa maahiyaa
+
+aahistaa pukaaro sab sun le.nge
+bas labo.n se chhuu lo lab sun le.nge
+aa aa.Nkh bhii kal se pha.Dak rahii hai aajaa
+aajaa maahiyaa \threedots
+
+ik nuur se aa.Nkhe.n chau.nk ga_ii.n dekhaa jo tujhe aa_iine me.n
+ko_ii nuur kiran hogii vo bhii jo chubhane lagii hai siine me.n
+aajaa maahiyaa \threedots
+
+laal ho jab ye shaam kinaaraa o.Dhaa lenaa sar pe saaraa
+chal rok le suuraj chhup jaa_egaa
+paanii me.n gir ke bujh jaa_egaa
+aajaa maahiyaa \threedots
+%
+#endindian
+\endsong
+

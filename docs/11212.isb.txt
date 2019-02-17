@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{naam teraa hai zabaa.N par yaad terii dil me.n hai}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12532 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+o
+( naam teraa hai zabaa.N par yaad terii dil me.n hai
+jaanewaale ab to aa jaa zi.ndagii mushkil me.n hai
+zi.ndagii mushkil me.n hai ) \-2
+
+dil kaa jo a.njaam honaa thaa wahii aaKir hu_aa
+chaa.Nd aramaano.n kaa mere badaliyo.n me.n chhup gayaa
+chhup gayaa
+ab a.ndheraa hii a.ndheraa pyaar kii mahafil me.n hai
+
+jaanewaale ab to aa jaa zi.ndagii mushkil me.n hai
+zi.ndagii mushkil me.n hai
+
+rah ga_ii \-2
+fariyaad ban kar \-2
+wo Kushii kii daastaa.N \-2
+tere Gam ko dil me.n le kar ham to baiThe hai.n yahaa.N
+hai.n yahaa.N
+dil ke maalik tuu na jaane kaun sii ma.nzil me.n hai
+
+jaanewaale ab to aa jaa zi.ndagii mushkil me.n hai
+zi.ndagii mushkil me.n hai
+%
+#endindian
+\endsong
+%
+

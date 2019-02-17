@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ye shahar hai aman kaa ... yahaa.N pe sab shaa.nti shaa.nti hai}%
+\film{Raaz}%
+\year{2002}%
+\starring{Dino Maria, Bipasha basu, Sonali Kulkarni}%
+\singer{Sujaan, jolly Mukherjee, Bali brahmabhatt, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+% 
+%
+\printtitle
+#indian
+%
+ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii
+ye shahar hai aman kaa yahaa.N kii fizaa hai niraalii
+ye shahar hai aman kaa aman kaa yahaa.N kii fizaa hai niraalii
+yahaa.N pe sab shaa.nti shaa.nti hai
+ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii
+
+yahaa.N dhuup hai yahaa.N chhaa.Nv hai yahaa.N chaa.Ndanii raat hai
+yahaa.N ruup hai yahaa.N ra.ng hai yahaa.N husn kii baat hai
+taakichii taakichii taaki chikaa chikaa ##baby## taakichii taakichii tak aa
+
+yahaa.N Kvaab hai yahaa.N jashn hai yahaa.N mahafile.n hai.n javaa.N
+yahaa.N shokhiyaa.N madahoshiyaa.N yahaa.N har taraf mastiyaa.N
+ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii
+ye shahar hai aman kaa \threedots
+
+yahaa.N raag hai yahaa.N faag hai yahaa.N dil me.n bas pyaar hai
+yahaa.N dostii yahaa.N zi.ndagii dushman yahaa.N yaar hai
+taakichii taakichii taaki chikaa chikaa ##baby## taakichii taakichii tak aa
+
+yahaa.N chaahate.n yahaa.N raahate.n yahaa.N chaa.Nd taare mile.n
+yahaa.N sardiyaa.N yahaa.N garmiyaa.N yahaa.N saare mausam khile.n
+ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii ye_ii
+ye shahar hai aman kaa \threedots
+
+shaa.nti shaa.nti
+%
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mastaanaa mastaanaa ye dil meraa mastaanaa}%
+\film{Chhailaa}%
+\year{1996}%
+\starring{Prabhu Deva, Roja, Radhika, Vijay Kumar}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Ilayaraja}%
+\lyrics{P K Mishra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mastaanaa mastaanaa ye dil meraa mastaanaa
+aa jaanaa aa jaanaa ye dil meraa le jaanaa
+mil jaanaa mil jaanaa ma.ndir me.n mil jaanaa
+diipak jalataa ho to aataa hai paravaanaa
+aanaa mere raajaa aa jaanaa
+mastaanaa mastaanaa \threedots
+
+bholaa saa dil ye meraa luuT le haa.N aajaa luuT le
+aa.Nkho.n ke tiir tere he he he tiir tere chubh ga_e hai.n dil me.n
+chubhane de chubhane de dil me.n tiir chubhane de
+hone de hone de ghaayal dil ko hone de
+mai.n to thaa manamaujii kyuu.n luuTaa tuune
+khilatii javaanii merii he he he he ho ga_ii terii
+naache.nge naache.nge duniyaa ko batalaa_e.nge
+hotaa hai pyaar kyaa
+%
+#endindian
+\endsong
+
+

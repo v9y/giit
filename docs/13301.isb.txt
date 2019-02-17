@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{haay tabassum teraa ... dhuup khil ga_ii raat me.n}%
+\film{Nishan}%
+\year{1965}%
+\starring{Sheikh Mukhtar, Sanjeev Kumar, Nazima, Helen, Heeralal, Prem Chopra}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Javed Anwar}%
+%
+% Contributor: BOL ANAMOL #10471 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+haay tabassum teraa \-2
+dhuup khil ga_ii raat me.n
+yaa bijalii girii barasaat me.n
+haay tabassum teraa \threedots
+
+dekhii terii a.nga.Daa_ii
+shammaa kii lau tharatharaa_ii
+uf ye ha.Nsii maasuum sii jannat kaa jaise saveraa
+haay tabassum teraa \threedots
+
+palako.n kii chilaman uThaanaa
+dhiire se ye muskaraanaa
+lab jo hile zulfo.n tale chhaayaa gulaabii a.Ndheraa
+haay tabassum teraa \threedots
+
+roko na apanii ha.Nsii ko
+jiine do vallaah kisii ko
+terii ha.Nsii jo ruk ga_ii ruk jaa_egaa saa.Ns meraa
+haay tabassum teraa \threedots
+%
+#endindian
+\endsong
+

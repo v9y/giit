@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{zaraa Thaharo jii abdul gaffaar rumaal meraa le ke jaanaa}%
+\film{Satta Baazaar}%
+\year{1959}%
+\starring{Meena Kumari, Balraj Sahni}%
+\singer{Rafi, Suman}%
+\music{Kalyanji Anandji}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10861 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+su \:	zaraa Thaharo jii abdul gaffaar
+	rumaal meraa le ke jaanaa
+ra \:	o gorii hamako bhii tumase hai pyaar
+	rumaal hame.n de ke jaanaa
+	tere chaahane vaale hai.n hazaar
+	rumaal hame.n de ke jaanaa
+
+su \:	resham ke Tuka.De pe duniyaa diivaanii
+	is par likhii hai dilo.n kii kahaanii
+ra \:	paagal hai tum par ye badanaam jaanii
+	maa.Nge mohabbat kii tumase nishaanii
+su \:	kuchh din karo i.ntazaar
+	rumaal meraa le ke \threedots
+
+ra \:	ulfat ke chakkar me.n ham pha.Ns rahaa hai
+	rotaa nahii.n dekh ham ha.Ns rahaa hai
+	biimaar\-e\-ulfat huu.N dil kho gayaa hai
+	apane ko jaane ye kyaa ho gayaa hai
+su \:	tumhe.n aataa hai Tha.nDaa bukhaar
+	rumaal meraa le ke \threedots
+
+	dard\-e\-mohabbat kii isame.n davaa hai
+	jisako su.Nghaa duu.N vo andhaa hu_aa hai
+ra \:	ghabaraa naa bulabul ham aa_e chhu.Daane
+	duniyaa ke pi.njare se tujhako u.Daane
+su \:	sun lo ye dil kii pukaar
+	rumaal meraa le ke \threedots
+%
+#endindian
+\endsong
+

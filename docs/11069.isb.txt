@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jabase tumhe.n maine dekhaa sanam}%
+\film{Dehak/ A Burning Passion}%
+\year{1998}%
+\starring{Akshay Khanna, Sonali Bendre}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Aadesh Srivastava}%
+\lyrics{Shyam Raj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jabase tumhe.n maine dekhaa sanam
+merii aa.Nkho.n me.n tum merii nii.ndo.n me.n tum mere khvaabo.n me.n tum ho
+
+jabase tumhe.n maine jaanaa sanam
+merii dha.Dakan me.n tum merii saa.Nso.n me.n tum merii yaado.n me.n tum ho
+
+jabase tumhe.n maine dekhaa sanam
+mere khyaalo.n me.n thii kab apsaraa yaa parii
+chaahat thii jisakii mujhe tum to ho bilkul vahii
+
+jabase tumhe.n maine chaahaa sanam
+mere giito.n me.n tum merii baato.n me.n tum iraado.n me.n tum o
+
+jabase tumhe.n maine dekhaa sanam
+tum ho mohabbat merii tum merii diivaanagii
+mere sivaa ab tumhe.n ko_ii bhii dekhe nahii.n
+
+jabase tumhe.n maine sochaa sanam
+merii chaaho.n me.n tum merii raaho.n me.n tum merii baaho.n me.n tum o
+
+jabase tumhe.n maine \threedots
+%
+#endindian
+\endsong
+

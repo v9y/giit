@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{mai.n raahii a.njaan raaho.n kaa o yaaro.n meraa naam anajaanaa}%
+\film{Anjaana}%
+\year{1969}%
+\starring{Rajendra Kumar, Babita}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11095 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mai.n raahii a.njaan raaho.n kaa
+o yaaro.n meraa naam anajaanaa
+mai.n pa.nchhii anjaan baaGo.n kaa
+o yaaro.n meraa naam \threedots
+
+mere saare giit anjaane jaane kyaa ye log diivaane
+jaane bas ye kaliyaa.N ye phuulo.n kii galiyaa.N
+mai.n raagii anjaan giiito.n kaa
+o yaaro.n meraa naam \threedots
+
+raste me.n bahaar mil jaa_e shaayad ko_ii yaar mil jaa_e
+nikalaa huu.N akelaa Dhuu.NDhuu.N ko_ii melaa
+mai.n saathii anjaan sapano.n kaa 
+pukaaro meraa naam \threedots
+%
+#endindian
+\endsong
+

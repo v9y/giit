@@ -1,0 +1,40 @@
+% ITRANS SONG # 3326; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ek vo bhii diwaalii thii, ek ye bhii diwaalii hai}%
+\film{Nazrana}%
+\year{1961}%
+\starring{Raj Kapoor, Vaijayantimala}%
+\singer{Mukesh}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: GEETanjali Series
+% Date: 25 October 2002
+%
+\printtitle
+#indian
+%
+(ek vo bhii diwaalii thii, ek ye bhii diwaalii hai
+uja.Daa hu_aa gulashan hai, rotaa hu_aa maalii hai) \2
+
+(baahar to ujaalaa hai magar dil me.n a.Ndheraa
+samajho naa ise raat, ye hai Gam kaa saveraa) \2
+kyaa diip jalaaye.n ham taqadiir hii kaalii hai
+uja.Daa hu_aa gulashan hai, rotaa hu_aa maalii hai
+
+(aise na kabhii diip kisii dil kaa bujhaa ho
+mai.n to vo musaafir huu.N jo raste me.n luTaa ho) \2
+ai maut tuu hii aa jaa dil teraa sawaalii hai
+uja.Daa hu_aa gulashan hai, rotaa hu_aa maalii hai
+
+%sawaalii - ##beggar##
+
+(ek vo bhii diwaalii thii, ek ye bhii diwaalii hai
+uja.Daa hu_aa gulashan hai, rotaa hu_aa maalii hai) \2
+%
+#endindian
+\endsong
+%

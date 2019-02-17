@@ -1,0 +1,70 @@
+%
+\startsong
+\stitle{chaahe kitanaa mujhe tum bulaao jii, nahii.n boluu.Ngii}%
+\film{Armaan}%
+\year{1953}%
+\starring{Dev Anand, Madhubala}%
+\singer{Asha / Asha, Talat}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments : In the duet version, Asha sings only the "chaahe kitanaa"
+%            refrain at the start and in every stanza. Talat sings the rest
+%
+\printtitle
+#indian
+%
+
+chaahe kitanaa mujhe tum bulaao jii nahii.n boluu.Ngii nahii.n boluu.Ngii
+
+tum ho paradesii kyaa jaane kis din chho.D jaao mujhe tum akelii
+jis kaa a.njaam ho aahe.n bharanaa ham na buujhe.nge aisii pahelii
+dil kaa daravaazaa na khaTakhaTaao jii nahii.n boluu.Ngii nahii.n boluu.Ngii
+o chaahe kitanaa   \threedots
+
+tum ne merii nazar me.n samaake
+tum ne merii nazar me.n samaake merii raato.n kii ni.ndiyaa churaa lii
+dekhate dekhate aarazuu ne ik bastii anokhii basaa lii
+merii duniyaa pe aise na chhaao jii nahii.n boluu.Ngii nahii.n boluu.Ngii
+chaahe kitanaa   \threedots
+
+mai.n huu.N alha.D sajan mai.n na jaanuu.N
+mai.n huu.N alha.D sajan mai.n na jaanuu.N ye lagaane nibhaane kii rasame.n
+kyaa khabar kaise chupake hii chupake kar liyaa tumane dil apane bas me.n
+dha.Dakano.n ko na yuu.N gud_gudaao jii nahii.n boluu.Ngii nahii.n boluu.Ngii
+o chaahe kitanaa  \threedots
+
+% Duet version %
+aa : chaahe kitanaa mujhe tum bulaaoge
+     nahii.n boluu.ngii, nahii.n boluu.Ngii
+     chaahe kitanaa mujhe tum bulaaoge
+     nahii.n boluu.Ngii, nahii.n boluu.Ngii
+
+ta : bol na bol ai jaanevaale sun to le diivaano.n kii
+     ab nahii.n dekhii jaatii hamase ye haalat aramaano.n kii
+     bol na bol ai jaanevaale \threedots
+
+     husn ke khilate phuul hameshaa bedardo.n ke haath bike \-2
+     aur chaahat ke matavaalo.n ko dhuul milii viiraano.n kii
+
+aa : chaahe kitanaa mujhe tum bulaaoge
+     nahii.n boluu.Ngii, nahii.n boluu.Ngii
+ta : bol na bol ai jaanevaale \threedots
+
+     dil ke naazuk jazbo.n par bhii raaj hai sone chaa.Ndii kaa
+     ye duniyaa kyaa qiimat degii taazaadil insaano.n kii
+
+aa : chaahe kitanaa mujhe tum bulaaoge
+     nahii.n boluu.Ngii, nahii.n boluu.Ngii
+
+ta : bol na bol ai jaanevaale sun to le diivaano.n kii
+     ab nahii.n dekhii jaatii hamase ye haalat aramaano.n kii
+     bol na bol ae jaanevaale \threedots
+
+%
+#endindian
+\endsong
+%

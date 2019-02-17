@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{rajaniiga.ndhaa phuul tumhaare mahake yuu.N hii jiivan me.n}%
+\film{Rajnigandha}%
+\year{1974}%
+\starring{Vidya Sinha, Amol Palekar}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+%          Milind Girkar (girkar@kpc.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rajaniiga.ndhaa phuul tumhaare mahake yuu.N hii jiivan me.n
+o\threedots jaise mahake priit piyaa kii mere anuraagii man me.n
+rajaniiga.ndhaa\threedots
+
+har pal merii in aa.Nkho.n me.n bas rahate hai.n sapane unake
+man kahataa hai mai.n ra.ngo.n kii ek pyaar bharii badalii banakar
+barasuu.N unake jiivan me.n
+rajaniiga.ndhaa\threedots
+
+adhikaar ye jabase saajan kaa har dha.Dakan par maanaa mai.nne
+mai.n jabase unake saath ba.ndhii ye bhed tabhii jaanaa mai.nne
+kitanaa sukh hai ba.ndhan me.n
+%
+#endindian
+\endsong
+%

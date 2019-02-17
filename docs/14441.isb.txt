@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{pyaar kaa fasaanaa banaa le dil diivaanaa}%
+\film{Teesra Kaun}%
+\year{1965}%
+\starring{Firoz Khan, Kalpana, Shashikala}%
+\singer{Mukesh, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10804 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mu \:	pyaar kaa fasaanaa banaa le dil diivaanaa \-2
+	kuchh tum kaho kuchh ham kahe.n \-2
+la \:	pyaar kaa fasaanaa \threedots
+
+mu \;	aisaa naa ho baaGo.n se bahaar chalii jaa_e
+	kalii\-kalii ho ke beqaraar chalii jaa_e
+	aisii rut binaa ki_e pyaar chalii jaa_e
+	isiili_e to kahaa hai
+la \:	pyaar kaa fasaanaa \threedots
+
+mu \:	chhoTii sii hai aaj kii hamaarii mulaaqaat
+la \:	ha.n ha.n
+mu \:	ye na ho ki jii me.n rah jaa_e jii kii baat
+	jaane phir kab ko_ii dekhe hame.n saath
+	isiili_e to kahaa hai
+la \:	pyaar kaa fasaanaa \threedots
+%
+#endindian
+\endsong
+

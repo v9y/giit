@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{salaam aapakii miiThii nazar ko salaam}%
+\film{Boy Friend}%
+\year{1961}%
+\starring{Shammi Kapoor, Madhubala, Dharmendra}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10902 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+salaam aapakii miiThii nazar ko salaam
+kiyaa hamape jaaduu asar ko salaam
+o salaam salaam salaam
+salaam aapakii miiThii \threedots
+
+Kudaa bhii Kyaalo.n me.n laayaa hai tumako
+Kud haatho.n se apane banaayaa hai tumako
+falaq ne bhii dil me.n biThaayaa hai tumako
+hamaarii zamii.n pe bhii laayaa hai tumako
+salaam o sunaharii sahar ko salaam
+o salaam \threedots
+
+ye bhiigaa saa mausam fizaa jhuumatii hai
+havaa mere dil ko masalane lagii hai
+nazar kyaa milii zindagii mil ga_ii hai
+merii raah me.n chaa.Ndanii khil ga_ii hai
+kiyaa hamape jaaduu \threedots
+
+ye jii chaahataa hai na jaa_uu.N yahaa.N se
+ye ghar aapakaa kam nahii.n aasamaa.N se
+hu_aa mai.n tumhaaraa aur aayaa kahaa.N se
+mujhe to mohabbat milii hai yahaa.N se
+salaam aapake sa.ng\-e\-dar ko salaam
+kiyaa hamape jaaduu \threedots
+%
+#endindian
+\endsong
+

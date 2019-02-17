@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa terii tasaviir banaa luu.N}%
+\film{Naadan}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Chic Chocolate}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aa terii tasaviir banaa luu.N
+mai.n apanii taqadiir banaa luu.N
+dil ke kore kaagaz par 
+ulfat kii lakiir banaa luu.N
+aa terii tasaviir banaa luu.N \threedots
+
+ra.ng hamaare terii javaanii
+ban jaaye ek prem kahaanii
+duur kisii ko lene jaa ke
+sun luu.N aur sunaa luu.N
+aa terii tasaviir banaa luu.N \threedots
+
+baal hai.n baadal jaise kaale
+saaGar se nainaa matavaale
+tere gulaabii gaalo.n se
+jii karataa hai ra.ng churaa luu.N
+aa terii tasaviir banaa luu.N \threedots
+
+%
+#endindian
+\endsong
+%

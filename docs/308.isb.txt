@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{bhiigii bhiigii raato.n me.n miiThii miiThii baato.n me.n}%
+\film{Ajnabee}%
+\year{}%
+\starring{Rajesh Khanna, Zeenat Aman, Yogita Bali}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+kishor:	bhiigii bhiigii raato.n me.n, miiThii miiThii baato.n me.n
+aisii barasaato me.n, kaisaa lagataa hai?
+
+lataa: (aisaa lagataa hai tum banake baadal,
+mere badan ko bhigoke mujhe, chhe.D rahe ho o
+chhe.D rahe ho ) \- 2
+	
+lataa: (ambar khele holii uii maa.N
+bhiigii morii cholii, hamajolii, hamajolii ) \- 2
+o, paanii ke is rele me.n saavan ke is mele me.n
+chhat pe akele me.n
+kaisaa lagataa hai
+
+kishor:	aisaa lagataa hai
+tU banake ghaTaa apane sajan ko bhigoke khel khel rahii ho o
+khel rahii ho
+	
+lataa: aisaa lagataa hai
+tum banake baadal mere badan ko bhigoke mujhe chhe.D rahe ho ho.
+chhe.D rahe ho
+	
+kishor:	(barakhaa se bachaa luu.N tujhe 
+siine se lagaa luu.N  
+aa chhupaa luu.n aa chhuupaa luu.N ) \- 2
+dil ne pukaaraa dekho rut kaa ishaaraa dekho
+uf ye nazaaraa dekho
+kaisaa lagataa hai, bolo?
+
+lataa: aisaa lagataa hai kuchh ho jaayegaa 
+mast pavan ke ye jhoke.n sai.nyaa dekh rahe ho o
+dekh rahe ho
+aisaa lagataa hai
+tum banake baadal mere badan ko bhigoke mujhe chhe.D rahe ho ho
+chhe.D rahe ho
+%
+#endindian
+\endsong
+%

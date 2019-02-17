@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{jaane ye kyaa ho gayaa ... dekho naa}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Shankar Mahadevan, Alka Yagnik}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11672 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+sha.n \:	jaane ye kyaa ho gayaa
+	dil to jaise kho gayaa
+	jaage\-jaage so gayaa
+	dekho naa
+a \:	lage kyo.n mujhe ye samaa nayaa
+	ye zamii.N na_ii aasamaa.N nayaa
+	duniyaa hii na_ii lagatii hai
+	ho ho o ho ho o ho ho aa ha ha
+
+	jaane ye kyaa ho gayaa \threedots dekho naa
+sha.n \:	lage kyo.n mujhe ye \threedots na_ii lagatii hai
+a \:	duniyaa hii na_ii lagatii hai
+
+uu.n huu.n huu.n huu.n huu.n 
+
+a \:	ye saare phuul ko_ii baat mujhase kahate hai.n
+	kyo.n mujhe yuu.N lage
+sha.n \:	taare tumhaare aa.Nchal me.n chhup ke rahate hai.n
+	kyo.n mujhe yuu.N lage
+	chhaa_ii hai kaisii mere dil pe diivaanagii ho
+	dekho naa \-3
+	jaane kaisaa aalam hai
+	pighalaa saa mausam hai
+	a.ng\-a.ng resham hai
+	dekho naa
+	ho lage kyo.n mujhe ye samaa \threedots aasamaa.N nayaa
+a \:	duniyaa hii na_ii lagatii hai
+
+sha.n \:	Kushbuu hai roshanii me.n hai.n ra.ng havaa_o.n me.n
+	kyo.n mujhe yuu.N lage
+a \:	gaatii hai.n kaliyaa.N giit unake hai.n fizaa_o.n me.n
+	kyo.n mujhe yuu.N lage
+	raaho.n me.n hai.n Kvaabo.n kii kaisii ye chaa.Ndanii ho
+sha.n \:	dekho naa \-3
+a \:	jaane ham hai.n kahaa.N
+sha.n \:	milii hame.n hai.n yahaa.N sapano.n kii vaadiyaa.N
+a \:	dekho naa
+sha.n \:	ho lage kyo.n mujhe ye samaa nayaa
+a \:		ye zamii.N na_ii aasamaa.N nayaa
+do \:	duniyaa hii na_ii lagatii hai
+sha.n \:	jaane ye kyaa ho gayaa \threedots so gayaa dekho naa
+%
+#endindian
+\endsong
+

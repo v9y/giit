@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{hai bas kii har ek un ke ishaare me.n nishaan aur}%
+\film{Mirza Ghalib}%
+\starring{Bharat Bhushan, Suraiyya}%
+\singer{Rafi}%
+\music{Ghulam Mohammad}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+hai bas kii har ek un ke ishaare me.n nishaan aur
+karate hai.n muhabbat to guzarataa hai gumaan aur
+
+yaa rab vo na samajhe hai.n na samajhe.nge merii baat
+de aur bhii dil inako jo na de mujhako zubaa.N aur
+
+tum shahar me.n ho to hame.n kyaa Gam jab uThe.nge
+le aae.nge baazaar se jaakar dil\-o\-jaan aur
+
+hai aur bhii duniyaa me.n sukhanavaar bahut achchhe
+kahate hai.n kii Gaaliib kaa hai a.ndaaz\-e\-bayaa.N aur
+%
+#endindian
+\endsong
+%

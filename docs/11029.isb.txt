@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{hai diivaanaa ye ishq meraa}%
+\film{Dhaai Akshar Prem Ke/ Love is The Only Inspiration}%
+\year{2000}%
+\starring{Abhishek Bachchan, Karisma Kapoor}%
+\singer{Babul Supriyo, Anuradha Paudwal}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hai diivaanaa ye ishq meraa har gha.Dii le bas naam teraa
+naam teraa naam teraa naam teraa
+inkaar me.n ikaraar hai kyaa yahii pyaar hai
+hai diivaanaa ye ishq \threedots
+
+uu kadam jo bahakane lage paagal hu_aa ye samaa.n
+nazar jo simaTane lagii to jhukane lagaa aasamaa.n
+fizaa_o.n me.n aise ishaare hu_e
+diivaane tere ye nazaare hu_e
+chhaayaa hai nashaa
+hai diivaanaa ye ishq \threedots
+
+na mujhako subah kaa pataa na mujhako khabar shaam kii
+kahii.n chain lene na de muhabbat kii ye bekhudii
+sanam TuuT ke mai.n bikharane lagii
+tere baazu_o.n me.n nikharane lagii
+ab hosh naa rahaa
+hai diivaanaa ye ishq \threedots
+%
+#endindian
+\endsong
+

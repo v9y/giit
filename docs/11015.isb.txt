@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{diivaane pyaar ke hai.n ham diivaane}%
+\film{Deewaane}%
+\year{2000}%
+\starring{Ajay Devgan, Urmila Matondkar, Mahima Chaudhary}%
+\singer{Kumar Sanu, Udit Narayan, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kitanii mohabbat kisako kaun yahaa.n karataa hai
+ye ko_ii bhii na jaane
+diivaane pyaar ke hai.n ham diivaane
+diivaane pyaar ke \threedots
+na maane pyaar ke bin dil na maane
+
+ye kaun sii ma.nzil hai ye kaun saa maqaam hai
+aa.Nkho.n me.n ko_ii cheharaa ho.nTho.n pe ko_ii naam hai
+duniyaa me.n kyaa hai dhokhaa hii dhokhaa
+mujhako to bas hai tujhape bharosaa
+zulfo.n ke saa_e resham sii baahe.n
+tere li_e hai.n merii vafaa_e.n
+shamaa hai diivaanii vo na kabhii samajhegii
+kyuu.n jalate hai.n paravaane
+diivaane pyaar ke \threedots
+
+h.nH usane dekhaa hii nahii.n apanii hathelii ko kabhii
+usame.n dhu.ndhalii sii kahii.n merii bhii lakiir to hai
+aayaa hai mausam dil kii lagii kaa
+ye sab terii chaahat kaa asar hai
+sard havaa ke jho.nke dekho is rut me.n bhii
+mujhe aa_e hai.n jalaane
+diivaane pyaar ke \threedots
+%
+#endindian
+\endsong
+

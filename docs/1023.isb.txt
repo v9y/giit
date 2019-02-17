@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kuchh dil ne kahaa, kuchh bhii nahii.n}%
+\film{Anupama}%
+\year{1966}%
+\starring{Dharmendra, Sharmila}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish V. Maruvada (maruvada@cup.hp.com)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+kuchha dila ne kahaa, kuchha bhii nahii.n \- 2
+aisii bhii baate.n hotii hai.n \- 2
+kuchha dila ne kahaa, kuchha bhii nahii.n
+
+letaa hai dila a.nga.Daa_iyaa.n, isa dila ko samajhaaye koI
+aramaana naa aa.Nkhe.n khola de.n, rusavaa naa ho jaaye koI
+palako.n kii Tha.nDii seja para, sapano.n kii pariyaa.n sotii hai.n
+aisii bhii baate.n hotii hai.n \- 2
+kuchha dila ne kahaa, kuchha bhii nahii.n
+
+dila kii tassalii ke liye, jhuuThii chamaka jhuuTh nikhaara
+jiivana to suunaa hii rahaa, saba samajhe aayii bahaara
+kaliyo.n se koii puuchhataa, ha.nsatii hai.n yaa rotii hai.n
+aisii bhii baate.n hotii hai.n \- 2
+kuchha dila ne kahaa, kuchha bhii nahii.n
+%
+#endindian
+\endsong
+%

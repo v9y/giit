@@ -1,0 +1,58 @@
+% ITRANS SONG # 3301; Created on Jan 26, 2004
+%
+%      From: naniwadekar (nani345@hotmail.com)
+%      Date: 2002-08-23 19:36:38 PST
+%
+\startsong
+\stitle{Dhiil di_e jaa ... chal chal chamelii baaG me.n}%
+\film{Dada}%
+\year{1949}%
+\starring{Sheikh Mukhtar, Shyam, Munawwar Sultana, Begum Para, Mukri, Murad, Kukku, Suraiya Sultana}%
+\singer{Shamshad, Durrani, Chorus}%
+\music{Nashad}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 23 August 2002
+% Credits: Satish Kalra
+% Comments: Umar Khayyam Films Ltd
+%
+\printtitle
+#indian
+%
+fem ko:
+      (Dhiil di_e jaa, ) \- 3 Dhiil
+male ko:
+      (Dhiil di_e jaa, ) \- 3 Dhiil
+sb:  chal chal chamelii baaG me.n
+      guDDii u.Daa_e.nge
+gmd: guDDii ke sa.ng aakaash pe
+      nainaa laDaa_e.nge
+ko:  chal chal chamelii    \threedots
+
+gmd: naino.n ke chheDistaan me.n
+      (Gar dil ulajh gaye) \- 2
+sb:  maa.njhe pe rakhake prem ke
+      ham kaaT jaa_e.nge
+sb + fem ko: ham kaaT jaa_e.nge
+ko:  chal chal chamelii    \threedots
+
+gmd:     ##picnic## pe jaa rahaa hai ye
+          (##college## kaa kaarawaa.N) \- 2
+male ko: ##picnic## pe jaa rahaa hai ye
+          (##college## kaa kaarawaa.N) \- 2
+sb:      kahataa hu_aa hasiin
+          (uma.ngo.n kii daastaa.n) \- 2
+fem ko:  kahataa hu_aa hasiin
+          (uma.ngo.n kii daastaa.n) \- 2
+gmd:     aise me.n ko_ii giit
+          (muhabbat kaa chhe.D de) \- 2
+male ko: aise me.n ko_ii giit
+          (muhabbat kaa chhe.D de) \- 2
+fem ko:  dekho muqaabale me.n hai.n
+          (la.Dako.n ke la.Dakiyaa.N) \- 2
+chorus:  chal chal chamelii    \threedots
+%
+#endindian
+\endsong
+%

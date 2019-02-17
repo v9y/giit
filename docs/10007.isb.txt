@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jogiyaa ve jogiyaa haay ve soNe jogiyaa}%
+\film{23rd March 1931 Shaheed}%
+\year{2002}%
+\starring{Sunny Deol, Bobby Deol, Aishwarya Rai, Amrita Singh}%
+\singer{Alka Yagnik, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jogiyaa ve jogiyaa haay ve soNe jogiyaa
+ho rab kaulo.n ma.ngaa
+rab kaulo.n ma.ngaa hor kii soNeyaa
+saaDDiyaa.n du_aavaa.n tainuu.n jii soNeyaa
+haay teraa lashkaaraa tuu hai chaa.Nd hamaaraa
+rab kaulo.n ma.ngaa \threedots
+
+chhup chhup dekhatii huu.N terii tasviir ko ho
+kuchh ho gayaa hai raa.njhe terii is hiir ko
+rab jaaNe kittaa e tuu kii soNeyaa
+saaDDiyaa.n du_aavaa.n \threedots
+
+abake baras jaane rut kaisii aa_ii hai haa.N
+pyaar vaale ra.ng dii mai.n chunnii ra.ngavaa_ii hai
+mai.n to banii huu.N tere la_ii soNeyaa
+saaDDiyaa.n du_aavaa.n \threedots
+%
+#endindian
+\endsong
+

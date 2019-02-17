@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{aaj mausam ba.Daa beiimaan hai, aaj mausam}%
+\film{Loafer}%
+\year{}%
+\starring{Dharmendra, Mumtaz}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Neha K. Desai (umdesai@cc.umanitoba.ca)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Jan 21 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+aaj mausam ba.Daa beiimaan hai
+ba.Daa beiimaan hai, aaj mausam
+aane vaalaa koii tuufaan hai
+koii tuufaan hai, aaj mausam
+
+kyaa huaa hai, huaa kuchh nahii.n hai
+baat kyaa hai pataa kuchh nahii.n hai
+mujhase koii Kataa ho ga_ii to
+is me.n merii Kataa kuchh nahii.n hai
+Kuubasuurat hai tuu rut javaan hai
+aaj mausam ba.Daa beiimaan hai
+
+kaalii\-kaalii ghaTaa dar rahii hai
+Tha.nDii aahe.n havaa bhar rahii hai
+sabako kyaa\-kyaa gumaan ho rahe hai.n
+har kalii ham pe shak kar rahii hai
+phuulo.n kaa dil bhii kuchh badagumaan hai
+
+ai mere yaar ai husn vaale
+dil kiyaa mai.nne tere havaale
+terii marzii pe ab baat Thaharii
+jiine de chaahe tuu maar Daale
+tere haatho.n me.n ab merii jaan hai
+%
+#endindian
+\endsong
+%

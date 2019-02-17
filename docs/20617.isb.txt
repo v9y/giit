@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{ai pardaanashii.n ye ishq kahii.n}%
+\film{Teerandaaz}%
+\year{1955}%
+\starring{Madhubala, Ranjan}%
+\singer{Lata, chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+% 
+% Audio on: Personal collection
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 16 Dec 2004
+% Series: Latanjali
+% Comments: A ghazal style lilting song
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+la:  ai pardaanashii.n ye ishq kahii.n pardo.n me.n chhupaayaa jaataa hai
+naadaan kahii.n in sholo.n ko siine me.n dabaayaa jaataa hai
+ko: aa aa aa
+
+la:  pardo.n me.n abhii hone de jawaa.N a.Ndaaz ye tiira.ndaazii ke
+a.Ndaaz ye sab rah jaate hai.n jab tiir chalaayaa jaataa hai
+ko:  ai pardaanashiin\threedots
+
+la:  maanaa ke zabaa.N Kaamosh rahe aa.Nkho.n pe magar kaabuu kisakaa
+maanaa ke zabaa.N Kaamosh rahe aa.Nkho.n pe magar kaabuu kisakaa
+afasaanaa-e-dil ho.nTho.n se nahii.n aa.Nkho.n se sunaayaa jaataa hai
+ko: ai pardaanashii.n\thredots
+
+la:  is aaga kaa bujhanaa mushkil hai is raaz kaa chhupanaa mushkil hai
+hote hai.n jahaa.N bhar me.n charache,  jitanaa ye chhupaayaa jaataa hai
+ko: ai pardaanashii.n\threedots
+
+
+%
+#endindian
+\endsong

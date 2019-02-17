@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{chaahaa hai tujhako ... teraa milanaa pal do pal kaa}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+chaahaa hai tujhako chaahat se zyaadaa
+samajhaa hai tujhako mohabbat se zyaadaa
+ye mai.n jaanataa huu.N yaa dil jaanataa hai
+
+teraa milanaa pal do pal kaa merii dha.Dakane.n churaa_e
+Dar hai mujhe pyaar teraa merii jaan le na jaa_e
+tuu bataa kis tarah jiyaa jaa_e haay haay
+
+aa merii jaan meraa sab kuchh tuu apanaa kar le
+bas merii chaahat se rishtaa kar le
+tere li_e mai.n kuchh bhii ho sakataa huu.N
+magar mere li_e tuu vo hai jis ke li_e mai.n saa.Ns letaa huu.N
+
+puuchho naa kyaa hotaa mujhe paas jo tuu na ho to
+ruke merii saa.Nso.n kii lahar
+soch zaraa ye tuu bhii pyaar ne tere mujhe
+diyaa hai jo vaado.n kaa zahar
+kis tarah zahar ye piyaa jaa_e haay haay
+teraa milanaa pal do pal \threedots
+
+chupake chupake dil me.n tuune aag lagaa dii ye kyaa
+mai.n to terii yaado.n me.n jalaa
+o laakh sa.mbhaalaa phir bhii dil ye diivaanaa meraa
+tere hii ishaaro.n pe chalaa
+imtehaa.N aur kyaa diyaa jaa_e haay haay
+teraa milanaa pal do pal \threedots
+%
+#endindian
+\endsong
+

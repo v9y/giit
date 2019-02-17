@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaa jaa jaa jaa bevafaa}%
+\film{Aar Paar}%
+\starring{Guru Dutt, Shyama, Shakeela, Jagdeep}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Date: 24-Jun-1999
+%
+\printtitle
+#indian
+%
+
+jaa jaa jaa jaa bevafaa
+kaisaa pyaar kaisii priit re
+tuu naa kisii kaa miit re
+jhuuThii tere pyaar kii qasam
+jaa jaa jaa jaa bevafaa \threedots
+
+kyo.N na Gam se aahe.n bharuu.N
+yaad aa gaye kyaa karuu.N
+beKabar bas itanaa bataa
+pyaar me jiyuu.N yaa maruu.N
+jaa jaa jaa jaa bevafaa \threedots
+
+dil pe har jafaa dekh lii
+be_asar duaa dekh lii
+kuchh kiyaa na dil ka Kayaal
+jaa terii vafaa dekh lii
+jaa jaa jaa jaa bevafaa \threedots
+
+%
+#endindian
+\endsong
+%

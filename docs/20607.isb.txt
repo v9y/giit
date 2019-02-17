@@ -1,0 +1,57 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{aa naino.n me.n jhuumakar saajanaa}%
+\film{Dara}%
+\year{1953}%
+\starring{}%
+\singer{Lata, chorus}%
+\music{Mohammed Shafi}%
+\lyrics{Arshi Jaipuri}%
+% 
+% Audio on: 
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 2 Dec 2004
+% Series: Latanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+
+koras:
+aa_o naino.n me.n jhuumakar
+aa_o baaj rahii shahanaa_ii
+
+
+lataa:
+(aa.a naino.n me.n jhuumakar saajanaa
+sapano.n me.n baaje shahanaa_ii) \-2
+
+
+niil gagan par jitane sitaare
+ko:
+niil gagan par jitane sitaare
+la:
+utane hii dil me.n aramaa.N hamaare
+dil kii ye mahafil kisane sajaa_ii
+
+aa.a naino.n me.n jhuumakar saajanaa
+sapano.n me.n baaje shahanaa_ii
+
+
+chho.D ke duniyaa 
+ko:
+chho.D ke duniyaa to.D ke bandhan
+la:
+aaj luTaane pyaar pe tan man
+chaa.Nd ke sar par chaa.Ndanii aa_ii
+
+aa.a naino.n me.n jhuumakar saajanaa
+sapano.n me.n baaje shahanaa_ii
+
+%
+#endindian
+\endsong

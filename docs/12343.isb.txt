@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ik pal kaa jiinaa ... ai mere dil tuu gaa_e jaa}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Lucky Ali}%
+\music{Rajesh Roshan}%
+\lyrics{Vijay Akela}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik pal kaa jiinaa phir to hai jaanaa
+tohafaa kyaa leke jaa_iye dil ye bataanaa
+khaalii haath aa_e the khaalii haath jaa_e.nge
+bas pyaar ke do miiThe bol jhilamilaa_e.nge
+to ha.Ns kyuu.nki duniyaa ko hai ha.Nsaanaa
+ai mere dil tuu gaa_e jaa ai aa_e aa o aa_e.N aa
+
+aa.Nkho.n me.n dilabar kaa sapanaa bhii hai
+haa.N ko_ii sapanaa bhii hai
+o duniyaa me.n meraa ko_ii apanaa bhii hai
+haa.N ko_ii apanaa bhii hai
+ik cheharaa Kaas hai jo dil ke paas hai
+ho.nTho.n pe pyaas hai milane kii aas hai
+dilabaro.n kaa magar kahaa.N ko_ii Thikaanaa
+ai mere dil tuu gaa_e \threedots
+
+o jiivan Kushiyo.n kaa ek jho.nkaa saa hai
+haa.n ko_ii jho.nkaa saa hai
+o aur ye jho.nkaa ik dhokhaa saa hai
+haa.n ko_ii dhokhaa saa hai
+ye kaisii hai Kushii jal jal ke jo bujhii
+bujh bujh ke jo jalii milake bhii naa milii
+dosto.n par kisii haal me.n na ghabaraanaa
+ai mere dil tuu gaa_e \threedots
+%
+#endindian
+\endsong
+

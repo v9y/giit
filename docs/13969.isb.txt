@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{le le le yaar jaam se tuu ... chusakii chusakii}%
+\film{Shapath}%
+\year{1997}%
+\starring{Mithun, Jackie, Harish, Ramya Krishnan, Vinita, Karina Grover, Kader}%
+\singer{Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aah chusakii chusakii aa haa haa
+chusakii chusakii chusakii
+le le le yaar jaam se tuu is dilabar ke naam se tuu chusakii
+
+a.nguurii paanii mastii kii ravaanii
+aa_ii kas ke javaanii ba.Dii suhaanii
+le le le yaar jaam se \threedots
+
+mahabuubaa ko bhulaanaa jo chaahe jism ko dabaanaa
+are kuchh soch mere yaaraa le pyaar se tuu chusakii
+
+saath me.n ek hasiinaa ho raat ko chaa.Nd sitaaro.n kii
+are mastii vaalii baate.n ho.n mahafil me.n kuchh yaaro.n kii 
+kuchh na soch mere yaaraa
+le le le yaar jaam se \threedots
+%
+#endindian
+\endsong
+

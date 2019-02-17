@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ai chaa.Nd zaraa chhup jaa ai vaqt zaraa ruk jaa}%
+\film{Laat Saheb}%
+\year{1967}%
+\starring{Shammi Kapoor, Nutan, Rajendra Nath}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11059 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	ai chaa.Nd zaraa chhup jaa ai vaqt zaraa ruk jaa
+	ik baat hai ho.nTho.n pe kah luu.N to qaraar aa_e
+	ik bojh to haT jaa_e
+ra \:	ai chaa.Nd zaraa chhup jaa ai vaqt zaraa ruk jaa
+	ruK unakaa idhar ko hai ab kyuu.N na bahaar aa_e
+	duniyaa na badal jaa_e
+	ai chaa.Nd zaraa chhup \threedots
+
+aa \:	sab Kvaab saa lagataa hai is raat me.n jaaduu hai
+	Kaamosh nazaaro.n kii har saa.Ns me.n jaaduu hai
+	ham hai.n ki ba.Ndhe se hai.n dil hai ki u.Daa jaa_e
+	ik baat hai ho.nTho.n \threedots
+
+ra \:	mai.n pyaar kii baazii me.n dil haaraa to kyaa haaraa \-2
+	pahaluu me.n mere duniyaa baa.Nho.n me.n jahaa.N saaraa
+	kyaa degaa muqaddar ab ham maa.Ng ke pachhataa_e
+aa \:	ai chaa.Nd zaraa \threedots
+%
+#endindian
+\endsong
+

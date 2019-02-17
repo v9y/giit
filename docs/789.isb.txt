@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaaiye aap kahaa.N jaaye.nge, ye nazar lauT ke phir aayegii}%
+\film{Mere Sanam}%
+\starring{iswajeet, Asha Parekh, Mumtaz}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaaiye aap kahaa.N jaaye.nge
+ye nazar lauT ke phir aayegii
+duur tak aap ke piichhe piichhe
+merii aavaaz chalii aayegii
+jaaiye\threedots
+
+aapako pyaar meraa yaad jahaa.N aayegaa
+koii kaa.NTaa vohii daaman se lipaT jaayegaa \- (2)
+jaaiye\threedots
+
+jab uThoge merii betaab nigaaho.n kii tarah
+rok le.ngii koii Daalii merii baaho.n kii tarah \- (2)
+jaaiye\threedots
+
+dekhiye chain milegaa na kahii.n dil ke sivaa
+aapakaa koii nahii.n, koii nahii.n dil ke sivaa \- (2)
+jaaiye\threedots
+%
+#endindian
+\endsong
+%

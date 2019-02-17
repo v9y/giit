@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{samajhii thii ke ye ghar meraa hai maaluum hu_aa mehamaan thii mai.n}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Dharmendra, Meena Kumari, Padmini}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11489 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+samajhii thii ke ye ghar meraa hai
+maaluum hu_aa mehamaan thii mai.n
+ho jinhe.n apanaa\-apanaa kahatii thii
+ho un sabake liye anajaan thii mai.n
+
+is tarah na mujhako Thukaraa_o
+ik baar gale se lag jaa_o
+haay mai.n ab bhii tumhaarii huu.N logo.n
+ruuTho na agar naadaan thii mai.n
+
+% the following one stanza was not in the song version I have
+
+meraa khoyaa hu_aa bachapan laa do mujhe
+kyaa doSh hu_aa samajhaa do mujhe
+wo ho.nTh bhii naa kyuu.N kahate hai.n
+jin ho.nTho.n kii muskaan thii mai.n
+
+tum shaad raho aabaad raho
+ab mai.n tum sabase duur chalii
+haay parades banii hai.n wo galiyaa.N
+jin galiyo.n kii pahachaan thii mai.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{mujhe gale se lagaa lo, bahut udaas huu.N mai.n}%
+\film{Aaj Aur Kal}%
+\year{1963}%
+\starring{Ashok Kumar, Sunil Dutt, Tanuja, Nanda}%
+\singer{Asha, Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sat Jan 27 1996
+% Credits: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+aa: mujhe gale se lagaa lo, bahut udaas huu.N mai.n
+    
+    nazar me.n tiir se chubhate hai.n ab nazaaro.n se
+    mai.n thak ga_ii huu.N sabhii TuuTate sahaaro.n se
+    ab aur bojh na Daalo
+
+ra: bahut sahii, Gam\-e\-duniyaa, magar udaas na ho
+    kariib hai shab\-e\-Gam kii, sahar udaas na ho
+    bahut sahii
+
+    sitam ke haath kii talavaar TuuT jaaegii
+    ye uu.Nch\-niich kii ciivaar TuuT jaaegii
+    tujhe kasam hai merii hamasafar udaas na ho
+
+aa: na jaane kab ye tariikaa ye taur badalegaa
+    sitam kaa Gam kab musiibat kaa daur badalegaa
+    mujhe jahaa.N se uThaa lo, bahut udaas huu.N mai.n
+%
+#endindian
+\endsong
+%

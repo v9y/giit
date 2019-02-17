@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ishq chaa.Ndii hai ishq sonaa hai}%
+\film{Biwi No. 1}%
+\year{1999}%
+\starring{Anil Kapoor, Salman, Karisma, Tabbu, Sushmita, Saif, Himani}%
+\singer{Shankar Mahadevan, Hema Sardesai}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+ishq chaa.Ndii hai ishq sonaa hai
+sonaa sonaa baabaa sonaa sonaa baabaa sonaa sonaa sonaa
+hai javaanii to ishq honaa hai
+
+is umr me.n to aisaa hotaa hai
+nii.nd u.Datii hai chain khotaa hai
+yaad aatii hai jaan jaatii hai
+premii jagate hai.n jag sotaa hai
+kabhii ha.Nsanaa hai kabhii ronaa hai
+sonaa sonaa baabaa \threedots
+
+ham diivaano.n se log jalate hai.n
+aisaa karate hai.n bhaag chalate hai.n
+dil jo kahataa hai ham vo karate hai.n
+is zamaane se ham kyaa Darate hai.n
+ishq jaaduu hai ishq Tonaa hai
+sonaa sonaa baabaa \threedots
+%
+#endindian
+\endsong

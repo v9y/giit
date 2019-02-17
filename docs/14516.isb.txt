@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{mujhe raat din ye Kyaal hai vo nazar se mujhako}%
+\film{Oomar Qaid}%
+\year{1961}%
+\starring{Sheikh Mukhtar, Sudhir, Nazima, Mukri, Heeralal, Uma Dutt, Sulochana}%
+\singer{Mukesh}%
+\music{Iqbal Qureshi}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10256 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mujhe raat din ye Kyaal hai vo nazar se mujhako giraa na de
+merii zindagii kaa diyaa kahii.n ye Gamo.n kii aa.Ndhii bujhaa na de
+mujhe raat din ye \threedots
+
+mere dil ke daaG na jal uThe.n kahii.n mere siine kii aag se \-2
+ye ghuTii\-ghuTii merii aah bhii kahii.n hosh mere ga.nvaa na de
+mujhe raat din ye \threedots
+
+mai.n diyaa huu.N aisaa jahaan me.n ki jalaa to huu.N nahii.n roshanii \-2
+jo jigar me.n hai vo Kalish kahii.n merii hasarato.n ko miTaa na de
+mujhe raat din ye \threedots
+%
+#endindian
+\endsong
+

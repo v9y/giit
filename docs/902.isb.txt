@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jo un kii tamannaa hai, barabaad ho jaa}% 
+\film{Inteqam}%
+\year{1969}%
+\starring{Dharmendra}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: U.V. Ravindra (uvr@tata_elxsi.soft.net)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: The lyrics betray an extreme sense of dejected frustration.  "Teri
+%    qismat meiN yeh muhabbat nahiN hai," they seem to be saying.  "Teri
+%    qismat meiN hai to sirf barbaadi, maut, marna, miT jaanaa.  Aur
+%    choon ki yahi teri qismat hai, tu ise bhi usi hunar se nibhaa jis
+%    hunar se tu ab talak jeetaa ayaa hai -- usi be_gilaa, be_shikwaa
+%    andaaz se qurbaan ho jaa wafaa ke naam par!"
+%
+%    Umeed hai naGHmaa pasand aayaa hogaa.
+%
+\printtitle 
+#indian 
+%
+jo un kii tamannaa hai, barabaad ho jaa 
+tU ai dil muhabbat kii kismat banaa de 
+ta.Dap aur ta.Dap kar abhii jaan de de 
+yuu.n marate hai.n mar jaane vAle, dikhaa de 
+jo un kii tamannaa hai, barabaad ho jaa \threedots 
+
+nA un kaa tabassum, tere vaaste hai
+nA tere liye un kii zulfo.n ke saaye
+tU beaas phir kyo.n jiye jaa rahaa hai
+javAnI me.n ye zindagaanii luTaa de 
+jo un kii tamannaa hai, barabaad ho jaa \threedots 
+
+sitam yaa karam husn vaalo.n kii marzii
+yahii soch kar koI shikavaa nA karanaa
+sitamagar salaamat rahe husn teraa
+yahii us ko miTane se pahale duaa de 
+jo un kii tamannaa hai, barabaad ho jaa \threedots 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aisii muhabbat se hum baaz aaye}%
+\film{Nirala}%
+\starring{Madhubala, Dev Anand}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: Kanti Shah
+% Transliterator:
+% Date: April 26, 1999
+% Credits:
+% Editor:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+aisii muhabbat se ham baaz aaye
+jo dil ko jalaaye sataaye dukhaaye
+dil ko jalaaye sataaye dukhaaye
+
+aisii muhabbat se ham baaz aaye
+jo dil ko jalaaye sataaye dukhaaye
+
+(banaakar tumhe.n apanaa kyaa hamane paayaa
+khushii luT gayii chain dil kaa ga.nvaayaa) \-2
+ba.De Gam sahe aur bahut dukh uThaaye
+aisii muhabbat se ham baaz aaye \threedots
+
+(tasavvur me.n tumase hu_ii kitanii baate.n
+guzaarii bahut jaag kar hamane raate.n) \-2
+kabhii hamane chhup chhup ke aa.nsuu bahaaye
+aisii muhabbat se ham baaz aaye \threedots
+
+aisii muhabbat se ham baaz aaye
+jo dil ko jalaaye sataaye dukhaaye
+dil ko jalaaye sataaye dukhaaye
+
+%
+#endindian
+\endsong 
+%

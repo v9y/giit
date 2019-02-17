@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chhoTii sii ye zi.ndagaanii re}%
+\film{Aah}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+chhoTii sii ye zi.ndagaanii re
+chaar din kii javaanii terii
+haay re haay
+Gam kii kahaanii terii
+
+shaam huii ye desh biiraanaa
+tujh ko apane balam ghar jaanaa, sajan ghar jaanaa
+raah me.n muurakh mat luT jaanaa, mat luT jaanaa
+chhoTii sii ye \threedots
+
+baabul kaa ghar chhuuTaa jaaye
+akhiyan ghor a.Ndheraa chhaaye, jii dil ghabaraaye
+aa.Nkh se Tapake dil kaa khazaanaa
+chhoTii sii ye \threedots
+
+%
+#endindian
+\endsong
+%

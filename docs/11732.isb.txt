@@ -1,0 +1,26 @@
+%
+\startsong
+\stitle{tere dil me.n merii tasviir ve}%
+\film{Hindustaan Ki Qasam}%
+\year{1999}%
+\starring{Amitabh bachchan, Ajay Devgan, Manisha Koirala, Sushmita Sen}%
+\singer{Sadhana Sargam}%
+\music{Sukhwinder Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere dil me.n merii tasviir ve
+teraa pyaar merii jaagiir ve
+ho ik saa.Ns me.n mai.n khud raa.njhaa
+is saa.Ns me.n mai.n khud hiir ve
+o teraa pyaar merii jaagiir ve
+%
+#endindian
+\endsong
+

@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{tere ho.nTho.n ke do phuul pyaare\-pyaare}%
+\film{Paaras}%
+\year{1971}%
+\starring{Sanjeev Kumar, Rakhee, Farida Jalal, Shatrughan Sinha, Mehmood}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11158 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	tere ho.nTho.n ke do phuul pyaare\-pyaare
+	mere pyaar kii bahaaro.n ke nazaare
+	ab mujhe chaman se ( kyaa lenaa ) \-2
+la \:	terii aa.Nkho.n ke do taare pyaare\-pyaare
+	merii raato.n ke chamakate sitaare
+	ab mujhe gagan se ( kyaa lenaa ) \-2
+mu \:	tere ho.nTho.n ke \threedots
+
+	terii kaayaa ka.nchan\-ka.nchan kiraNo.n kaa hai jisame.n baseraa
+	terii saa.Nse.n mahakii\-mahakii terii zulfo.n me.n Kushbuu kaa Deraa
+	teraa mahake a.ng\-a.ng jaise sone me.n suga.ndh
+	mujhe cha.ndan\-van se ( kyaa lenaa ) \-2
+la \:	terii aa.Nkho.n ke \threedots
+
+	maine dekhaa jabase tujhako mere sapane hu_e si.nduurii
+	tujhe paa ke mere jiivan\-dhan har kamii hu_ii merii puurii
+	piyaa ek teraa pyaar mere solah si.ngaar
+	mujhe ab darpaN se ( kyaa lenaa ) \-2
+mu \:	tere ho.nTho.n ke \threedots
+
+	teraa mukha.Daa damake\-chamake jaise saagar pe chamake saveraa
+la \:	terii baa.Nhe.n pyaar ke jhuule terii baa.Nho.n me.n jhuule man meraa
+mu \:	terii miiThii har baat \-2
+la \:	ras kii hai barasaat
+do \:	hame.n ab saavan se ( kyaa lenaa ) \-2
+mu \:	tere ho.nTho.n ke \threedots
+la \:	terii aa.Nkho.n ke \threedots
+
+do \:	hame.n ( kyaa lenaa ) \-2
+%
+#endindian
+\endsong
+

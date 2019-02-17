@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{machalatii aarazuu kha.Dii baa.Nhe.n pasaare}%
+\film{Usne Kahaa Thaa}%
+\year{1960}%
+\starring{Sunil Dutt, Nanda, Indrani Mukherji, Durga Khote, Tarun Bose}%
+\singer{Lata}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10346 [V S Rawat]
+% Transliterator: 
+% Comments: First hindi film of Indrani Mukherji
+% 
+\printtitle
+#indian
+%
+o ho machalatii aarazuu kha.Dii baa.Nhe.n pasaare
+o mere saajanaa re dha.Dakataa dil pukaare aa jaa
+ho machalatii aarazuu \threedots
+
+meraa aa.Nchal paka.D\-paka.D ke kah rahaa meraa dil
+zamaane kii niGaaho.n se yahaa.N chhup\-chhup ke mil
+yahii.n tanhaa_ii me.n dil kii kalii jaa_egii khil
+ho machalatii aarazuu \threedots
+
+ajab mastii me.n Duubaa giit gaatii hai havaa
+dupaTTaa meraa rah\-rah ke u.Daatii hai havaa
+karuu.N kyaa aate\-jaate chhe.D jaatii hai havaa
+ho machalatii aarazuu \threedots
+
+milan ke madabhare cha.nchal Kyaalo.n me.n magan
+mai.n to takatii huu.N terii raah o mere sajan
+bahaaro.n ki li_e muntazir jaise chaman
+ho machalatii aarazuu \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{pareshaan raat saari hai, sitaaro.n tum to so jaao}%
+\film{Ishq-e-Laila}%
+\year{1957}%
+\starring{}%
+\singer{Iqbal Bano}%
+\music{}%
+\lyrics{Qatil Shifai}%
+%
+% Contributor: Saleem Khanani
+% Transliterator: K Vijay Kumar
+% Credits: Afzal Khan
+% Editor:
+% Comments : This is a Pakistani film.
+%
+\printtitle
+#indian
+%
+pareshaan raat saarii hai sitaaro tum to so jaao
+suquut\-e\-marg taa'rii hai, sitaaro tum to so jaao
+
+hame.n bhii nii.nd aa jaayegii ham bhii so hii jaaye.nge
+abhii kuchh beqaraarii hai, sitaaro tum to so jaao
+
+hame.n to aaj kii shab pau phaTe tak jaganaa hogaa
+yahii qismaat hamaarii hai, sitaaro tum to so jaao
+
+tumhe.n kyaa ham agar luuTe gaye raah\-e\-muhabbat mai.n
+ye baazii hamane haarii hai, sitaaro tum to so jaao
+
+kahe jaate ho ro ro kar hamaaraa haal duniyaa se
+ye kaisii razadaarii hai, sitaaro tum to so jaao
+%
+#endindian
+\endsong
+%

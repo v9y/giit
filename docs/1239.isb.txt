@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{mil kar judaa hue to na soyaa kare.nge ham}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh, Chitra Singh}%
+\music{Jagjit Singh, Chitra Singh}%
+\lyrics{Qatil Shifai}%
+% 
+% Contributor: Ramesh Hariharan (rameshh@acad1.tp.ac.sg)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Nov  5 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  from the album Milestones
+%
+\printtitle
+#indian
+%
+mil kar judaa hue to na soyaa kare.nge ham
+ek duusare kii yaad me.n royaa kare.nge ham
+
+aa.Nsuu chhalak\-chhalak ke sataae.nge raat bhar
+motii palak\-palak me.n piroyaa kare.nge ham
+
+jab duuriyo.n kii yaad dilo.n ko jalaaegii
+jismo.n ko chaa.Ndanii me.n bhigoyaa kare.nge ham
+
+Gar de gayaa daGaa tuufaan bhii 'qatiil'
+saahil pe kashtiyo.n ko Duboyaa kare.nge ham
+%
+#endindian
+\endsong
+%

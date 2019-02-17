@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aa_ii hai duur se la.Dakii diivaanii hai ... bhuule nahii.n ye safaarii}%
+\film{Safaari}%
+\year{1999}%
+\starring{Sanjay Dutt, Juhi Chawla}%
+\singer{Amit Kumar}%
+\music{Shyam Mohan}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa_ii hai duur se la.Dakii diivaanii hai
+hai to vo ajanabii par jaanii pahachaanii hai
+mujhako to yaad rahegaa ye safar pyaar kaa
+dekho bhulaanaa nahii.n tum bhii kabhii ye safaarii ye safaarii
+yaad rahe bhuule nahii.n ye safaarii
+
+tho.Dii tho.Dii gusse me.n bhiigii javaanii hai
+dekho dekho mil gayaa aag me.n paanii hai
+tumako bhii to siidhe raste le hii aa_egii
+ye safaarii \threedots
+
+daavaa hai ye meraa chaahe jaa_o jahaa.n
+dil pe rah jaa_e.nge in lamho.n ke nishaa.n
+terii aa.Nkho.n se bhii ik din nii.nd churaa_egii
+ye safaarii \threedots
+%
+#endindian
+\endsong
+

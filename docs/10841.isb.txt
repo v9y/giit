@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{paisaa kamaanaa tan tanaa tan tan tan ... kulii ##number one##}%
+\film{Coolie No. 1}%
+\year{1995}%
+\starring{Govinda, Karisma, Harish, Kaanchan, Kader, Shakti, Sadashiv}%
+\singer{Kumar Sanu, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tan tanaa tan tan tan
+paisaa kamaanaa tan tanaa tan tan tan
+mauj manaanaa tan tanaa tan tan tan
+saare jahaa.n kaa bojh uThaanaa mehanat meraa jiivan
+kulii ##number one## mai.n kulii ##number one##
+
+dekhe kahii.n jo la.Dakii ka.nvaarii piichhe piichhe usake bhaage
+mujhako sataa_e paagal ka.nvaaraa bechain raato.n ko jaage
+merii baat na maane o meraa dard na jaane diivaanaa hai meraa man
+kulii ##number one## \threedots
+
+ho.nge adhuure sapane bhii puure jamake bajaa_uu.ngaa baajaa
+maanaa ki khaalii hai jeb merii lekin mai.n dil kaa huu.N raajaa
+nayaa ##band## bajegaa nayaa ra.ng sajegaa ban jaa_uu.ngaa mai.n sajan
+kulii ##number one## \threedots
+%
+#endindian
+\endsong

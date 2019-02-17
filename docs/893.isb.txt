@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jo baat tujh me.n hai terii tasviir me.n nahii.n}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep Kumar, Beena Rai}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jo baat tujh me.n hai terii tasviir me.n nahii.n,  tasviir me.n nahii.n
+jo baat tujh me.n hai
+
+ra.ngo.n me.n teraa aks Dhalaa, tuu na Dhal sakii
+saa.nso.n kii aa.nch jism kii Kushabuu na Dhal sakii
+tujh me.n, tujh me.n jo loch hai terii tahariir me.n nahii.n
+tahariir me.n nahii.n
+jo baat tujh me.n hai terii \threedots
+
+bejaan husn me.n kahaa.N raftaar kii adaa
+inakaar kii adaa hai na iqaraar kii adaa
+koii, koii lachak bhii zulf\-e\-girahagiir me.n nahii.n
+jo baat tujh me.n hai terii \threedots
+
+duniyaa me.n koI chiiz nahii.n hai terii taraha
+phir ek baar saamane aa jaa kisii taraha
+kyaa aur, kyaa aur ek jhalak merii taqadiir me.n nahii.n
+taqadiir me.n nahii.n
+jo baat tujh me.n hai terii \threedots
+%
+#endindian
+\endsong
+%

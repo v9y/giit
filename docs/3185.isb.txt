@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{rasiyaa re man basiyaa re}%
+\film{Pardesi}%
+\year{1957}%
+\starring{Nargis, Oleg, Balraj Sahni}%
+\singer{Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Sardar Jafri, Prem Dhawan}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:March 17, 2002
+%
+\printtitle
+#indian
+%
+
+(rasiyaa re man basiyaa re
+tere binaa jiyaa moraa laage naa)\-2
+laage naa re jiyaa laage naa
+tere binaa jiyaa moraa laage naa
+rasiyaa re man basiyaa re
+tere binaa jiyaa moraa laage naa
+
+(sun sun muralii kii dhun matavaarii
+rah jaaye raadhaa torii thaarii kii thaarii)\-2
+laakh jatan karuu.N, laaj kii maarii
+paa.Nv chhat par aaye naa
+tere binaa jiyaa moraa laage naa
+rasiyaa re man basiyaa re
+tere binaa jiyaa moraa laage naa
+
+(sa.ng sa.ng chaluu.N tore man to ye chaahe re
+lok laaj roke piyaa kaa karuu.N haay re)\-2
+raam kare haay kisii ke man me.n bairii ? jaage naa
+tere binaa jiyaa moraa laage naa
+rasiyaa re man basiyaa re
+tere binaa jiyaa moraa laage naa
+
+%
+#endindian
+\endsong
+%

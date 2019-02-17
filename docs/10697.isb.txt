@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{phir mile.ngii kahaa.N aisii tanahaa_iyaa.N}%
+\film{Bhaavna}%
+\year{1972}%
+\starring{Dev Kumar, Soniya Sahni, Padma Khanna, Indira, Dev Dutt, Sundar}%
+\singer{Mukesh, Asha}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10260 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	phir mile.ngii kahaa.N
+aa \:	kyaa
+mu \:	aisii tanahaa_iyaa.N
+aa \:	kyuu.N
+mu \:	phir mile.ngii kahaa.N aisii tanahaa_iyaa.N \-2
+	puuchhatii hai nazar ai hasii.n hamasafar ( kyaa iraadaa hai ) \-4
+aa \:	dekhakar ye fizaa dil machalane lagaa \-2
+	mai.n bhii puuchhuu.N agar ai hasii.n jaaduugar ( kyaa iraadaa hai ) \-4
+	dekhakar ye fizaa \threedots
+
+mu \:	uf ye naaz\-o\-adaa haay ye baa.Nkapan
+	chaa.Ndanii me.n nahaayaa saa goraa badan
+	aa.Nkho.n se Dhal rahaa hai nashaa hii nashaa \-2
+	hosh me.n ko_ii kaise rahe jaan\-e\-man
+aa \:	dekhakar ye fizaa \threedots
+
+ko \:	sakhii lo pyaar hu_aa chorii se ikaraar hu_aa chorii se
+	dil ba.Ndh hii ga_e is Dorii se
+	piyaa ne apane paas bulaakar kahaa yah naTakhaT gorii se
+
+mu \:	kyaa iraadaa hai \-4
+
+aa \:	baat dil kii suno phuul ko_ii chuno \-2
+	phir tamannaa kii Daalii jhuke na jhuke \-2
+	leke ra.ngiiniyaa.N kaun jaane yahaa.N \-2
+	ye bahaaro.n kaa mausam ruke na ruke
+mu \:	phir mile.ngii kahaa.N \threedots
+%
+#endindian
+\endsong
+

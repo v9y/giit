@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ba.nd muTThii me.n ... TuuT ke Daalii se ... ye to meha.ndii}%
+\film{Chori Chori Chupke Chupke}%
+\year{2000}%
+\starring{Salman, Rani Mukherjii, Preity Zinta}%
+\singer{Jaspindar Narula, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa ba.nd muTThii me.n dil ko chhupaa_e baiThe hai.n
+hai bahaanaa ke meha.ndii lagaa_e baiThe hai.n
+meha.ndii haa.n haa.n meha.ndii ho
+meha.ndii haa.n haa.n meha.ndii
+TuuT ke Daalii se haatho.n pe bikhar jaatii hai meha.ndii
+ye to meha.ndii hai meha.ndii to ra.ng laatii hai
+
+log baago.n se ise to.D ke laate hai.n
+aur patthar pe ise shauq se pisavaate hai.n meha.ndii
+phir bhii ho.nTho.n se isake uf talak na aatii hai
+ye to meha.ndii hai \threedots
+
+apane ras ra.ng se is duniyaa ko sajaanaa hai
+kaam meha.ndii kaa to gairo.n ke kaam aanaa hai meha.ndii
+apanii khushbuu se ye saharaa_o.n ko mahakaatii hai
+ye to meha.ndii hai \threedots
+%
+#endindian
+\endsong
+

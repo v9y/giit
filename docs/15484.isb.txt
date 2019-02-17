@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{nain hai.n yaa ke jaam saaqii ke}%
+\film{Passions (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Chowdhari Bashir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+nain hai.n yaa ke jaam saaqii ke
+ho gaye ham Gulaam saaqii ke
+
+jaan\-o\-dil ab kahaa.N rahe apane
+kar diye hamane naam saaqii ke
+
+may hii may chal rahii thii har jaanib
+ham gaye ghar jo shaam saaqii ke
+
+aaj waa_iz ko jhuumate dekhaa
+ho na ho hai.n ye kaam saaqii ke
+
+ho gaye ham asiir\-e\-mayaKaanaa
+aa gaye zer\-e\-daam saaqii ke
+
+#endindian
+\endsong

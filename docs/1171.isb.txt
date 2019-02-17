@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{meraa dil bhii kitanaa paagal hai, ye pyaar jo tum se karataa hai}%
+\film{Saajan}%
+\year{}%
+\starring{Madhuri Dixit, Sanjay Dutt, Salman Khan}%
+\singer{Kumar Sanu, }%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Kannan Muthukkaruppan (mkannan@acacia.CS.Berkeley.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(meraa dil bhii kitanaa paagal hai 
+ye pyaar jo tum se karataa hai )  \- 2
+
+par saamane jab tum aate ho,  kuchh bhii kahane se Darataa hai
+o mere saajan, o mere saajan, saajan saajan, mere saajan\threedots
+
+meraa dil bhii kitanaa paagal hai \threedots
+
+kitanaa isako samajhaataa huu.N,  kitanaa isako bahalaataa huu.N \-2
+naadaa.n hai kuchh na samajhataa hai, din raat ye aahe.n bharataa hai \threedots
+
+meraa dil bhii kitanaa paagal hai \threedots
+
+har pal mujhako ta.Dapaataa hai,  mujhe saarii raat jagaataa hai \-2
+is baat ki tumako khabar nahii.n,  ye sirf tumhii pe marataa hai
+
+meraa dil bhii kitanaa paagal hai \threedots
+%
+#endindian
+\endsong
+%

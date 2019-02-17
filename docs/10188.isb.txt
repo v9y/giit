@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{mai.n huu.N zamii.n tuu aasamaa.n ... tere binaa zi.ndagii hai adhuurii}%
+\film{Aye Meri Bekhudi}%
+\year{1993}%
+\starring{Anil Bakshi, Priyanka, Prem Chopra, Aloknath, Aprajita, Satyen Kappu}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anil Mohile}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n huu.N zamii.n tuu aasamaa.n kabhii to mile.nge kahii.n
+tere binaa zi.ndagii hai adhuurii bichha.De to mar jaa_e.nge
+mai.n huu.N zamii.n \threedots
+
+mai.n huu.N zamii.n tuu aasamaa.n ik daastaa.n
+daavaa thaa jinako pyaar kaa kyo.n vo bichha.Date rahe
+dilo.n ke vatan vafaa ke chaman hameshaa uja.Date rahe
+magar pyaar kaa sabak ham sanam duniyaa ko sikhaa_e.nge
+tere binaa zi.ndagii \threedots
+
+na lailaa huu.N mai.n na mai.n hiir huu.N ki auro.n kii ho jaa_uu.n mai.n
+tujhe gair kaa agar rab kare to rab se bhii Takaraa_uu.n mai.n
+hotii hai kyaa lagan pyaar kii jahaa.n ko ye dikhalaa_e.nge
+tere binaa zi.ndagii \threedots
+%
+#endindian
+\endsong
+

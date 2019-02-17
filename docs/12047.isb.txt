@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{diivaane ho ke ham milane lage}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaane ho ke ham milane lage sanam jab se ju.De hai.n silasile
+aa.Nkho.n se ruuTh kar nii.nde.n chalii ga_ii.n naa jaane kaise gul khile
+naa jaane kaise pyaar hu_aa na jaane kab ikaraar hu_aa
+ke apanii baat ban ga_ii
+diivaane ho ke ham \threedots
+
+dha.Dakataa hai dil tumhaare li_e
+ai husn\-e\-jaa.n zaraa sochi_e
+haa.n ye kyaa dillagii ye kyaa hai sitam
+aa_e abhii abhii chal di_e
+miTe.nge kaise ye faasale
+diivaane ho ke ham \threedots
+
+muqaddar meraa sa.nvar jaane do
+dil jo kahe vo kar jaane do
+ho merii baaho.n me.n chale aa_o tum
+had se mujhe guzar jaane do
+ke aa_o lagaa luu.n tumako gale
+diivaane ho ke ham \threedots
+%
+#endindian
+\endsong
+

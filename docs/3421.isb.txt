@@ -1,0 +1,44 @@
+% ITRANS SONG # 3421; Created on Jan 26, 2004
+%
+% From: Neha (nehadesai@hotmail.com)
+% Date: 2001-08-24 16:28:01 PST
+%
+\startsong
+\stitle{mere pyaar me.n tujhe kyaa milaa mere devataa mujhe bhuul jaa}%
+\film{Maan}%
+\year{1954}%
+\starring{Ashok Kumar, Dev Anand, Meena Kumari}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Neha Desai, 2001-08-24
+% Transliterator: V S Rawat, 27/01/04
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+( mere pyaar me.n tujhe kyaa milaa
+mere devataa mujhe bhuul jaa ) \-2
+yahii aa.Nsuo.n kaa hai faisalaa
+mere devataa mujhe bhuul jaa
+mere pyaar me.n tujhe kyaa milaa
+
+merii hasarate.n mujhe ro chukii
+merii ma.nzile.n mujhe kho chukii \-2
+mai.n hu.n wo chaman tere pyaar kaa \-2
+jo uja.D gayaa mujhe bhuul jaa
+mere pyaar me.n tujhe kyaa milaa
+
+teraa pyaar mujhako naa de sadaa \-2
+mai.n hu.n sa.ngadil mai.n hu.n bewafaa \-2
+jise mai.ne khud hii bujhaa diyaa \-2
+mai.n hu.n wo diyaa mujhe bhuul jaa
+mere pyaar me.n tujhe kyaa milaa
+mere devataa mujhe bhuul jaa
+mere pyaar me.n tujhe kyaa milaa
+%
+#endindian
+\endsong
+%

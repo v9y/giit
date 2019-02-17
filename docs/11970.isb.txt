@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{idhar intazaar udhar intazaar tuu bhii beqaraar}%
+\film{Intezaar}%
+\year{1973}%
+\starring{Rinku Jaiswal, Padmini Kapila, Baldev Khosa, I S Johar, Rakesh Pande, Mohan Choti}%
+\singer{Mukesh}%
+\music{Chitragupt}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #10124 [V S Rawat]
+% Transliterator: 
+% Comments: Based on Malayalam novel "adimakal" written by Pamman
+% 
+\printtitle
+#indian
+%
+idhar intazaar udhar intazaar tuu bhii beqaraar mai.n bhii beqaraar
+jag kii maryaadaa dekho banii hai diivaar
+idhar intazaar \threedots
+
+Tha.nDii Tha.nDii aahe.n aur jalatii javaanii
+aag se dekho jaise lipaTaa hai paanii
+ye tanahaa_ii ye a.nga.Daa_ii
+ik hai javaanii aur Gam beshumaar
+idhar intazaar \threedots
+
+paas paas rahake bhii itanii hai duurii
+ko_ii nahii.n samajhegaa terii majabuurii
+zindagii hai terii raat a.ndherii
+ruuTh na jaa_e kahii.n ruup kii bahaar
+idhar intazaar \threedots
+%
+#endindian
+\endsong
+

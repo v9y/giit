@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kise maaluum thaa do din me.n saavan biit jaayegaa}%
+\film{Vidya}%
+\year{1948}%
+\starring{}%
+\singer{Suraiya}%
+\music{S D Burman}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+kise maaluum thaa do din me.n saavan biit jaayegaa
+tamannaae.n hamarii yuu.N ta.Dapatii chho.D jaayegaa
+saavan biit jaayegaa
+kise maaluum thaa \threedots
+
+dil\-e\-betaab terii yaad me.n aa.Nsuu bahaayegaa
+hame.n rah\-rah ke ye zaalim zamaanaa yaad aayegaa
+saavan biit jaayegaa
+kise maaluum thaa do din me.n \threedots
+
+zabaa.N bedardiyaa.N us kii na kahane paayegii lekin
+hamaarii aa.Nkh kaa paanii kahaanii kah sunaayegaa
+saavan biit jaayegaa
+kise maaluum thaa \threedots
+
+jahaa.N vaalo.n are ham ne kisii kaa kyaa bigaa.Daa thaa
+hamaarii raah me.n bhagavaan bhii kaa.Nte bichhaayegaa
+saavan biit jaayegaa
+kise maaluum thaa \threedots
+
+%
+#endindian
+\endsong
+%

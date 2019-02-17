@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{naa ye zamii.n thii naa aasamaa.N thaa}%
+\film{Sagaai}%
+\year{1966}%
+\starring{Rajshri, Biswajit, Rahman, Prem Chopra, Durga Khote, Asit Sen}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10736 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	naa ye zamii.n thii naa aasamaa.N thaa
+	naa chaa.Nd\-taaro.n kaa hii nishaa.N thaa
+	magar ye sach hai ke un dino.n bhii
+	teraa\-meraa pyaar yuu.N hii javaa.N thaa
+aa \:	naa ye zamii.n thii \threedots
+do \:	naa ye zamii.n thii \threedots
+
+ra \:	( chale kahaa.N se kahaa.N pe aa_e
+	khumaar ban ke jahaa.N pe chhaa_e ) \-2
+aa \:	( nibhaa_ii rasm\-e\-vafaa kuchh aise
+	muhabbato.n ke chaman khilaa_e ) \-2
+ra \:	na kaise aasaan hotii ma.nzil
+	har ek aramaan naujavaa.N thaa
+aa \:	naa ye zamii.n thii \threedots
+do \:	naa ye zamii.n thii \threedots
+
+aa \:	hamii.n ne taaro.n ko roshanii dii
+	hamii.n ne phuulo.n ko taazagii dii
+ra \:	hamii.n ne taaro.n \threedots
+aa \:	jidhar se guzare jahaa.N bhii Thahare
+	har ek zarre ko zindagii dii
+ra \:	kuchh isame.n dil kii ta.Dap thii shaamil
+	Kudaa bhii kuchh hamape meharabaa.N thaa
+aa \:	naa ye zamii.n thii \threedots
+do \:	naa ye zamii.n thii \threedots
+
+aa \:	( nazar me.n phuulo.n bharii hai.n raahe.n
+	Kushii se ra.ngiin hai.n nigaahe.n ) \-2
+ra \:	suno to kuchh kah rahii haii hamase
+	bahaar phailaa ke apanii baa.Nhe.n
+la \:	idhar se guzaroge ek din tum
+	nasiib aisaa meraa kahaa.N thaa
+ra \:	naa ye zamii.n thii \threedots
+do \:	naa ye zamii.n thii \threedots
+%
+#endindian
+\endsong
+

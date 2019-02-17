@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{thaa.De rahiyo o baa.nke yaar}%
+\film{Pakeezah}%
+\year{1971}%
+\starring{Ashok Kumar, Rajkumar, Meena Kumari}%
+\singer{Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chaa.Ndanii raat ba.Dii der ke baad aaii hai
+ye mulaaqaat ba.Dii der ke baad aaii hai
+aaj kii raat vo aae hai.n ba.Dii der ke baad
+aaj kii raat ba.Di der ke baad aaii hai
+
+Thaa.De rahiyo o baa.Nke yaar re Thaa.De rahiyo
+Thaa.De rahiyo \- (3) 
+
+Thaharo lagaay aauu.N, naino.n me.n kajaraa
+choTii me.n guu.Nd laauu.N phuulo.n kaa gajaraa
+mai.n to kar aauu.N solah shrR^i.ngaar re \- (3)
+Thaa.De rahiyo\threedots
+
+##(some "bols"..)##
+
+jaage na koii, rainaa hai tho.Dii
+bole chhamaachham paayal nigo.Dii\threedots bole
+##(some music)##
+nigo.Dii\threedots bole\threedots
+ajii dhiire se kholuu.Ngii dvaar re
+saiyaa.N dhiire se kholuu.Ngii dvaar re
+mai.n to chupake se
+ajii haule se kholuu.Ngii dvaar re
+Thaa.De rahiyo\threedots
+%
+#endindian
+\endsong
+%

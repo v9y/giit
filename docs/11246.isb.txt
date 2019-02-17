@@ -1,0 +1,59 @@
+
+%
+\startsong
+\stitle{ham panchhii masataane ek hii dhun hai}%
+\film{Dekh Kabiraa Royaa}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Lata, Geeta Dutt, Seeta}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11956 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	ham panchhii masataane \-2
+la \:	ek hii dhun hai
+gii \:	ek hii manzil
+do \:	pyaar ke ham diiwaane
+	ham panchhii masataane \-2
+
+la \:	( dharatii ko chho.D kar piichhe
+	baadal ke paar jaanaa hai ) \-2
+gii \:	 chun\-chun ke shoK taaro.n ko
+	ek aashiyaa.N banaanaa hai
+la \:	ek lagan hai
+gii \:	ek hii mastii
+ko \:	ik jaise afasaane
+	ham panchhii masataane \-2
+
+la \:	( dil kii lagii ye kahatii hai
+	rukane kaa naam mat lenaa ) \-2
+gii \:	tuufaan re (?) sitaaro.n ke
+	chhupane kaa naam naa lenaa
+la \:	pyaar shamaa hai
+gii \:	ham dilawaale
+ko \:	usii ke hai.n parawaane
+	ham panchhii masataane \-2
+
+la \:	( ik saath chal pa.De hai.n to 
+	manzil ko Dhuu.NDh hii le.nge ) \-2
+gii \:	jis dil me.n ghar banaanaa hai
+	us dil ko Dhuu.NDh hii le.nge
+ko \:	ham alabele
+	aaj chale hai.n
+	duniyaa na_ii basaane
+
+	ham panchhii masataane \-2
+	ek hii dhun hai
+	ek hii manzil
+	pyaar ke ham diiwaane
+	ham panchhii masataane \-2
+%
+#endindian
+\endsong
+

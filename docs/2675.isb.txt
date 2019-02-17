@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{nanhe munne bachche terii muTThii me.n kyaa hai}%
+\film{Boot Polish}%
+\year{1954}%
+\starring{David, Baby Naaz, Rattan Kumar}%
+\singer{Rafi, Asha, chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 15th March, 2000
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+ra: (nanhe munne bachche terii muTThii me.n kyaa hai) \- 2
+aa: muTThii me.n hai taqadiir hamaarii
+ko: muTThii me.n hai taqadiir hamaarii
+aa: ham ne qismat ko bas me.n kiyaa hai
+ko: ham ne qismat ko bas me.n kiyaa hai
+ra: (bholii bhalii matavaalii aa.Nkho.n me.n kyaa hai) \-2
+aa: aa.Nkhon me.n jhuume ummiido.n kii divaalii
+ko: aa.Nkhon me.n jhuume.n ummiido.n kii divaalii
+aa: aanevaalii duniyaa kaa sapanaa sajaa hai
+ko: aanevaalii duniyaa kaa sapanaa sajaa hai \threedots
+
+ra: (bhiikh me.n jo motii mile loge yaa na loge
+zi.ndagii ke aa.Nsuu_o.n kaa bolo kyaa karoge) \-2
+aa: bhiikh me.n jo motii mile to bhii ham naa le.nge
+ko: bhiikh me.n jo motii mile to bhii ham naa le.nge
+aa: zi.ndagii ke aa.Nsuu_o.n kii maalaa pahane.nge
+ko: zi.ndagii ke aa.Nsuu_o.n kii maalaa pahane.nge
+aa: mushkilo.n se la.Date bhi.Date jiine me.n mazaa hai
+ko: mushkilo.n se la.Date bhi.Date jiine me.n mazaa hai
+
+ra: (ham se na chhupaao bachcho hame.n bhii bataao
+aanevaale duniyaa kaisii hogii samajhaao) \-2
+aa: aanevaale duniyaa me.n sab ke sar pe taaj hogaa
+ko: aanevaale duniyaa me.n sab ke sar pe taaj hogaa
+aa: na bhuukho.n kii bhii.D hogii na dukho.n kaa raaj hogaa
+ko: na bhuukho.n kii bhii.D hogii na dukko.n kaa raaj hogaa
+aa: badalegaa zamanaa ye sitaaro.n pe likhaa hai
+ko: badalegaa zamanaa ye sitaaro.n pe likhaa hai \threedots
+
+%
+#endindian
+\endsong
+%

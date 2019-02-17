@@ -1,0 +1,76 @@
+
+%
+\startsong
+\stitle{harii tum merii raakho laaj harii}%
+\film{Dekh Kabiraa Royaa}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Sudha Malhotra, Male Voice}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11957 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+##male voice## \:	
+	aa om
+	aa aa
+	harii
+	harii tum merii raakho laaj harii
+	tum merii
+
+	maataa jii aap bhii kharataal bajaa_iye naa
+
+	tum merii raakho laaj harii \-2
+	tum jaanat sab a.ntaryaamii
+	tum jaanat haa.N
+	tum jaanat haa.N
+	tum jaanat 
+
+su \:	tum jaanat sab 
+	aa
+	tum jaanat sab a.ntaryaamii
+	karanii kachhu naa karii
+	prabhuu jii mere
+	karanii kachhu naa karii
+	tum merii raakho laaj harii \-2
+
+	beTaa tum bhii gaa_o naa
+
+##male## \:	maataa jii aap hii gaate rahiye
+
+su \:	nahii.n nahii.n beTaa tum gaa_o
+
+##male## \:	aa
+	harii
+	haa haa
+	avagun mose bisarat naahii.n
+	avagun mose haa.N
+	avagun mose haa.N
+	avagun
+
+su \:	avagun mose
+	aa
+	avagun mose bisarat naahii.n
+	pal chhin kharii-kharii
+	prabhu jii mere
+	pal chhin kharii-kharii
+	tum merii raakho laaj harii \-2
+
+	beTaa chup kyo.n ho gaye gaa_o naa
+
+##male## \:	harii \-2
+	raakho laaj harii \-3
+	raakho
+	harii \-4
+	raakho laaj
+	harii \-2
+	haay harii
+%
+#endindian
+\endsong
+

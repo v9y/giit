@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{sajaayaa na karo phuul baalo.n pe}%
+\film{Gunahon Ke Raaste}%
+\year{1970}%
+\starring{Dara Singh, Sanjana, N A Ansari, Azaad, Renu, Johny Whisky, Dilip Dutt}%
+\singer{Mukesh}%
+\music{Jagdish Khanna}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10259 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+sajaayaa na karo phuul baalo.n pe
+giraayaa na karo zulf gaalo.n pe
+dilajalo.n ko sataanaa burii baat hai
+sajaayaa na karo \threedots
+
+uf javaanii kaa ye muskaraataa chaman
+haay ye naram\-o\-naazuk saa ujalaa badan
+chhuu ke mailaa na kar de ko_ii jaan\-e\-man
+sajaayaa na karo \threedots
+
+yuu.N na a.nga.Daa_ii lo jhuum kar naazanii.n
+aa_iine kii nazar lag naa jaa_e kahii.n
+is qadar husn par naaz achchhaa nahii.n
+sajaayaa na karo \threedots
+%
+#endindian
+\endsong
+

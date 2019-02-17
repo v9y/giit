@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{terii naa naa naa merii le legii jaa.n}%
+\film{C.I.D.}%
+\year{1990}%
+\starring{Vinod Khanna, Amrita, Suresh Oberoi, Juhi, Aloknath, Shafi}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Kalyanji Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	terii naa naa naa merii le legii jaa.n
+	merii le legii jaa.n terii naa naa naa
+	are kah de haa.N kah de haa.N kah de are kah de kabhii haa.N ##please##
+	terii naa naa naa \threedots
+
+	ho jo hai dil me.n mere vo dil me.n tere
+	tuu bhii mujhe pyaar kare
+	jab saamane mai.n tere aa_uu.N phir kyo.n inkaar kare
+	( ye raaz kabhii ) \-2 chhupataa hai kahaa.N
+	are kah de haa.N kah de are dhiire se kah de tuu haa.N ##oh come on##
+	terii naa naa naa \threedots
+
+	( us bandhan me.n ) \-2 tujhe baa.ndh liyaa jo to.De naa TuuTe kabhii
+	tumase mai.n ba.ndhii aise jaise saa.Nso.n se ba.ndhii zindagii
+	( teraa saayaa huu.N ) \-2 tuu jahaa.N mai.n vahaa.N
+	are kah de haa.N kah de are bhuule se kah de tuu haa.N ##no chance##
+	terii naa naa naa \threedots
+
+ku \:	( dil dil hai meraa ) \-2 patthar to nahii.n ( kahii.n ye na bahak jaa_e ) \-2
+	( ko_ii chi.ngaarii ) \-2 sholaa banake ( dil me.n naa utar jaa_e ) \-2
+	( ko_ii anahonii ) \-2 kahii.n ho naa yahaa.N
+	jab dil ho diivaanaa phir maane manaa_e kahaa.N
+a \:	naa re naa naa naa
+ku \:	are kah de haa.N
+a \:	naa re naa naa naa
+ku \:	dil ye maane naa
+a \:	naa re naa naa naa naa naa
+%
+#endindian
+\endsong
+

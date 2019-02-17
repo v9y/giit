@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{raat\-raat bhar jaag\-jaag kar intazaar karate hai.n}%
+\film{Pyar Ka Sagar}%
+\year{1961}%
+\starring{Meena Kumari, Rajendra Kumar}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11461 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+raat\-raat bhar jaag\-jaag kar intazaar karate hai.n
+ham tumase pyaar karate hai.n
+
+jab\-jab baadal chaa.Nd se khele aa.Nkh\-michaulii
+jab\-jab bha.Nvaraa phuul se bole pyaar kii bolii
+us gha.Dii sanam tumako yaad ham baar\-baar karate hai.n
+ham tumase pyaar \threedots
+
+tumako karake duur ham aaj hai.n Kud pachhataate
+nain bichhe hai.n raah me.n kaash ke tum aa jaate
+jab se tum ga_e hamako Gam na_e beqaraar karate hai.n
+ham tumase pyaar \threedots
+%
+#endindian
+\endsong
+

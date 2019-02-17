@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{hamasafar ab ye safar kaT jaa_egaa}%
+\film{Juari}%
+\year{1968}%
+\starring{Shashi Kapoor, Nanda, Tanuja, Naaz, Rahman, Madan Puri, Devid}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11067 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	hamasafar ab ye safar kaT jaa_egaa
+la \:	raaste me.n jii na ab ghabaraa_egaa
+do \:	hamasafar ab ye safar \threedots
+
+mu \:	kis qadar ra.ngiin hai.n lamhaat ye
+	hamaqadam pahale kahaa.N thii baat ye
+	ko_ii hasarat thii na ko_ii yaad thii
+	zindagii kyaa thii ko_ii fariyaad thii
+	dil meraa to mujhase bhii anajaan thaa
+	ek patthar kii tarah bejaan thaa
+	pyaar teraa ab ise dha.Dakaa_egaa
+do \:	hamasafar ab ye safar \threedots
+
+la \:	suunii raahe.n aur kaalii raat thii
+	apanii to parachhaa_ii.n bhii naa saath thii
+	har qadam par aa rahaa thaa ye Kyaal
+	tanhaa ma.nzil tak pahu.Nchanaa hai muhaal
+	aise hii viiraan se ek mo.D par
+	jii uThii mai.n terii suurat dekh kar
+	ab ye viiraanaa chaman kahalaa_egaa
+do \:	hamasafar ab ye safar \threedots
+
+mu \:	merii nazaro.n ko hai duniyaa se gilaa
+	chal diyaa vo chho.Dakar jo bhii milaa
+la \:	mujhape logo.n ne kiye hai.n jo sitam
+	mai.n ba.Dii mushqil se bhuulii huu.N sanam
+mu \:	dekhanaa tuu bhii yahii karanaa nahii.n
+	dilajalo.n se dillagii karanaa nahii.n
+	umr bhar varanaa ye Gam ta.Dapaa_egaa
+	ye musaafir raah me.n rah jaa_egaa
+la \:	ye rahaa vaadaa na din vo aa_egaa
+do \:	hamasafar ab ye safar \threedots
+%
+#endindian
+\endsong
+

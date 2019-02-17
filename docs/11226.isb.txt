@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{chaahe laakh karo tum puujaa ... gariibo.n kii suno}%
+\film{Dus Laakh}%
+\year{1966}%
+\starring{Sanjay Khan, Babita, Pran, Helen}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Ravi}%
+%
+% Contributor: BOL ANAMOL #10687 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	chaahe laakh karo tum puujaa tiirath karo hazaar
+	diin\-dukhii ko Thukaraayaa to sab\-kuchh hai bekaar
+
+	gariibo.n kii suno vo tumhaarii sunegaa \-2
+	tum ek paisaa doge vo das laakh degaa
+do \:	gariibo.n kii suno \threedots
+
+ra \:	bhuukh lage to ye bachche aa.Nsuu pii kar rah jaate hai.n
+	haay gariibo.n kii majabuurii kyaa\-kyaa ye sah jaate hai.n
+	ye bachapan ke din hai.n gha.Dii khelane kii
+aa \:	umar ye nahii.n aise dukh jhelane kii
+ra \:	taras khaa_o inape ai aulaad vaalo.n
+	uThaa lo inhe.n bhii gale se lagaa lo
+aa \:	uThaa lo inhe.n bhii gale se lagaa lo
+ra \:	murajhaa_e naa phuul kahii.n ye aa.Ndhii aur barasaat me.n
+do \:	gariibo.n kii suno \threedots
+
+aa \:	badaqismat biimaar ye buu.Dhaa qadam\-qadam par girataa hai
+	phir bhii in bachcho.n kii Kaatir haath pasaare phirataa hai
+ra \:	kahii.n inakaa ye saath naa chhuuT jaa_e
+aa \:	anaatho.n kii ye aas bhii TuuT jaa_e
+ra \:	kahaa.N jaa_e.Nge ye muqaddar ke maare
+	ye bujhate di_e TimaTimaate sitaare
+aa \:	ye bujhate di_e TimaTimaate sitaare
+ra \:	in beghar bechaaro.n kii qismat hai tumhaare haath me.n
+do \:	gariibo.n kii suno \threedots
+%
+#endindian
+\endsong
+

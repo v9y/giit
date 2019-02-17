@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye javaanii had kar de ... le mazaa le zi.ndagii kaa}%
+\film{Sarfarosh/ A Reason To Live}%
+\year{2000}%
+\starring{Aamir Khan, Sonali Bendre}%
+\singer{Kavita Subramaniam}%
+\music{Jatin Lalit}%
+\lyrics{Israar Ansari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye javaanii had kar de
+buu.Dhe javaa.n ko mast kar de
+ko_ii na jaane kal kyaa ho
+aane vaalaa pal kyaa ho
+le mazaa le zi.ndagii kaa zi.ndagii kaa zi.ndagii kaa
+ho ye javaanii had kar de \threedots
+
+ra.ngii.n samaa.n dil hai javaa.n
+saare yahaa.n josh me.n
+kyaa raat hai kyaa baat hai
+ko_ii nahii.n hosh me.n
+chhaayaa hai kaisaa nashaa
+le le zaraa le le mazaa maikashii kaa
+ho ye javaanii had kar de \threedots
+
+kaatil bhii hai aashiq bhii hai
+aate hai.n saare yahaa.n
+is dil me.n hai kyaa kyaa chhupaa
+kisako pataa merii jaa.n
+aajaa mere paas aa
+le le zaraa le le mazaa aashiqii kaa
+ho ye javaanii had kar de \threedots
+%
+#endindian
+\endsong
+

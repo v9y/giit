@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{piyaa tuu ab to aa jaa, sholaa saa man dahake aa ke bujhaa jaa}%
+\film{Caravan}%
+\year{1971}%
+\starring{Jeetendra, Asha Parekh, Aruna Irani}%
+\singer{Asha, R D Burman}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  C.S. Sudarshan Bhat (ceindian@utacnvx.uta.edu) 
+% Transliterator: Ravi Kant Rai 
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+A: piyaa tuu\threedots ab to aa jaa he he he he
+rA: moniikaa \threedots
+A: vo aa gayaa \threedots dekho \threedots dekho \threedots vo aa gayaa
+rA: moniikaa moniikaa \threedots
+
+A: piyaa tU ab to aa jaa
+sholaa saa man dahake aa ke bujhaa jaa
+tan kii jvaalaa Tha.nDii ho jaa
+aise gale lagaa jaa
+ah ha.n hah hahaa
+ah ha.n hah hahaa
+rA: moniikaa, mAi DArling \threedots
+
+pyaase pyaase in mere labo.n ke liye
+tere hoTho.n ne hazaar vaade kiye
+bhUlane vaale koii jiye to kaise jiye
+are haa.n are haa.n are haa.n haa
+laa laa la laa laa la laa laa la laa laa la laa aa aa
+piyaa tuu \threedots
+
+merI haalat pe rahe jo teraa karam
+vo baat bhii mujhako qubUl hai o sanam
+jisakI khaatir ruk liye the mere kadam
+are haa.n are haa.n are haa.n haa
+laa laa la laa laa la laa laa la laa laa la laa aa aa
+piyaa tuu \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,69 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tinak tin taanii, do din kii zi.ndagaanii}%
+\film{Sargam}%
+\year{1950}%
+\starring{Raj Kapoor, Rehana, Omprakash, David}%
+\singer{Lata, Saraswati Rani, Chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	aa
+	sa re ga re sa ni, tinak tin taanii
+	ga re ma ga re sa ni, tinak tin taanii
+	pa pa ma ma ga ga ma, ma ma ga ga re re ga
+	ga ga re re sa sa ni, tinak tin taanii
+	tinak tin taanii, do din kii zi.ndagaanii
+do \:	( tinak tin taanii
+	tinak tin taanii, do din kii zi.ndagaanii ) \-2
+
+sa \:	log kahe.n ye baaG hai phuulaa \-2
+	phuulaa, phuulaa, phuu phuu phuu phuu phuu
+	log kahe.n ye baaG hai phuulaa
+la \:	log kahe.n ye baaG hai phuulaa
+	aa
+	log kahe.n ye baaG hai phuulaa
+	man bha.Nwaraa kaliyo.n me.n bhulaa \-2
+	saadhu kahe.n murajhaanii \-2
+
+sa \:	do din kii zi.ndagaanii
+la \:	ga re ma ga re sa ni
+sa \:	tinak tin taanii
+la \:	pa pa ma ma ga ga ma, ma ma ga ga re re ga
+	ga ga re re sa sa ni
+do \:	tinak tin taanii
+	tinak tin taanii, do din kii zi.ndagaanii
+
+sa \:	log kahe.n ye jag hai melaa \-2
+	me me me me me me me melaa
+	laa me laa me laa
+	melaa melaa me me me me me me me
+	laa laa melaa melaa melaa
+la \:	log kahe.n ye jag hai melaa
+	aa
+	log kahe.n ye jag hai melaa
+	ko_ii rahe kyuu.N isame.n akelaa \-2
+	saadhuu kahe.n aanaa\-jaanii \-2
+
+sa \:	do din kii zi.ndagaanii
+la \:	ga re ma ga re sa ni
+sa \:	tinak tin taanii
+la \:	pa pa ma ma ga ga ma, ma ma ga ga re re ga
+	ga ga re re sa sa ni
+do \:	tinak tin taanii
+	tinak tin taanii, do din kii zi.ndagaanii
+
+la \:
+% saragam
+la \:	do din kii zi.ndagaanii
+do \:	tinak tin taanii
+	tinak tin taanii, do din kii zi.ndagaanii
+
+#endindian
+\endsong

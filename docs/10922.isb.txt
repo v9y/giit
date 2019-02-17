@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{chiraaG dil kaa jalaa_o bahut a.Ndheraa hai}%
+\film{Chirag}%
+\year{1969}%
+\starring{Sunil Dutt, Asha Parekh}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10561 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+chiraaG dil kaa jalaa_o bahut a.Ndheraa hai \-2
+kahii.n se lauT ke aa_o bahut a.Ndheraa hai
+chiraaG dil kaa \threedots
+
+kahaa.N se laa_uu.N vo ra.ngat ga_ii bahaaro.n kii \-2
+tumhaare saath ga_ii roshanii nazaaro.n kii
+mujhe bhii paas bulaa_o bahut a.Ndheraa hai
+chiraaG dil kaa \threedots
+
+sitaaro.n tum se a.Ndhere kahaa.N sa.mbhalate hai.n \-2
+unhii.n ke naq{}sh\-e\-qadam se chiraaG jalate hai.n
+unhii.n ko Dhuu.NDh ke laa_o bahut a.Ndheraa hai
+chiraaG dil kaa \threedots
+%
+#endindian
+\endsong
+

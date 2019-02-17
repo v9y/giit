@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{hai isii me.n pyaar kii aabaruu, vo jafaa kare.n mai.n vafaa karuu.N}%
+\film{Anpadh}%
+\starring{Dharmendra, Mala Sinha}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Atul (atulthombre@hgrd01.enet.dec.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+hai isii me.n pyaar kii aabaruu
+vo zafaa kare.n mai.n vafaa karuu.N
+jo vafaa bhii kaam na aa sake
+to vohii kahe.n ke mai.n kyaa karuu.N
+hai isii \threedots
+
+(mujhe Gam bhii unakaa aziiz hai 
+ke unhii.n kii dii huii chiiz hai ) \- (2)
+ke unhii.n kii dii huii chiiz hai
+yahii Gam hai ab merii zi.ndagii
+ise kaise dil se judaa karuu.N
+hai isii \threedots
+
+(jo na ban sake mai.n vo baat huu.N 
+jo na khatm ho mai.n vo raat huu.N ) \- (2)
+jo na khatm ho mai.n vo raat huu.N
+ye likhaa hai mere nasiib me.n
+yuu.Nhii shammaa banake jalaa karuu.N
+hai isii \threedots
+
+(na kisii ke dil kii huu.N aarazuu 
+na kisii kii nazar kii huu.N justajuu ) \- (2)
+na kisii kii nazar kii huu.N justajuu
+mai.n vo phuul huu.N jo udaas ho
+na bahaar aae to kyaa karuu.N
+hai isii \threedots
+%
+#endindian
+\endsong
+%

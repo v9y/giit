@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kyaa maine aaj sunaa haa.n maine tumako chunaa}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Vinod Rathore, Kavita Subramaniam}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa maine aaj sunaa haa.n maine tumako chunaa
+hai pyaar hamase haa.n jii kasam se
+sunake hu_aa pyaar meraa duganaa
+kyaa maine aaj \threedots
+
+dil kitanaa khush hotaa hai tumase milake
+hamako sunaa_o kisse apane dil ke
+harapal ye japataa rahataa hai naam tumhaaraa
+tum bhii ho pyaare dil bhii tumhaaraa hai pyaaraa
+ho pyaar amar hai phir kisakaa Dar hai
+giit ko_ii dil kii dhun pe gunagunaa
+kyaa maine aaj \threedots
+
+tumane paa_ii khuubii kyaa mujhame.n aisii
+pariyaa.n bhii shaayad nahii.n tumhaare jaisii
+mujhako hameshaa yuu.n hii chaahoge kyaa
+tum bhii to apanaa vaadaa nibhaa_oge kyaa
+tumako pataa hai bolo naa kyaa hai
+man hii man ko_ii sapanaa maine hai bunaa
+kyaa maine aaj \threedots
+%
+#endindian
+\endsong
+

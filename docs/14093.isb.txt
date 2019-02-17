@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{meraa dil ta.Dapaa kar kahaa.N chalaa}%
+\film{Shabnam}%
+\year{1949}%
+\starring{Dilip Kumar, Kaamini Kaushal}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10045 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa dil ta.Dapaa kar kahaa.N chalaa itanaa to bataa ke jaa
+ise khel kahuu.N yaa pyaar kahuu.N mujhe ye samajhaa ke jaa
+meraa dil ta.Dapaa kar \threedots
+
+ho.nTho.n par naa aa.Nkho.n me.n haa.N kuchh ruuThe kuchh maane hu_e
+ikaraar hai yah inakaar hai yah itanaa to bataa ke jaa
+meraa dil ta.Dapaa kar \threedots
+
+jii bhar ke sataayaa tuune hame.n ab chorii chorii jaane lagee
+o duur desh ke saudaagar karzaa to chukaa ke jaa
+meraa dil ta.Dapaa kar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{o o ye dil le kar nazaraanaa aa gayaa teraa diivaanaa}%
+\film{Ek Baar Muskuraa Do}%
+\year{1972}%
+\starring{Deb Mukherjee, Joy Mukherjee, Tanuja}%
+\singer{Mukesh, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #10518 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	o o ye dil le kar nazaraanaa aa gayaa teraa diivaanaa
+	dilabar jaanii na denaa dil to.D to.D to.D
+aa \:	ye pyaar hai gaharaa saagar hai Duub ke tujhako jaanaa
+	dilabar jaanii jaa jaa re pallaa chho.D chho.D chho.D
+
+	o o nas\-nas me.n hai bijalii kahii.n jal naa jaanaa
+ko \:	kahii.n jal naa jaanaa jal naa jaanaa
+aa \:	soch samajhakar hamase zaraa dil Takaraanaa
+ko \:	zaraa dil Takaraanaa dil Takaraanaa
+aa \:	raah pyaar kii ba.Dii kaThin hai kahaa.N chalaa mar jaane
+	o dilabar jaanii jaa jaa re \threedots
+
+mu \:	TuuT pa.De yah bijalii to qismat chamake
+ko \:	are qismat chamake qismat chamake
+mu \:	aag me.n tap kar sonaa aur bhii damake
+ko \:	are aur bhii damake aur bhii damake
+mu \:	haar\-jiit kii baat pyaar me.n chalii kise samajhaane
+	o dilabar jaanii na denaa \threedots
+%
+#endindian
+\endsong
+

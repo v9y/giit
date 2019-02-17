@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chaahe.n zubaa.n se kuchh naa kaho ai mere sanam}%
+\film{Dil Hai Tumhaara}%
+\year{2002}%
+\starring{Jimmy Shergil, Arjun Rampal, Preity Zinta, Mahima Chaudhary, Rekha}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaahe.n zubaa.n se kuchh naa kaho ai mere sanam
+aa.Nkhe.n to kah rahii hai.n tumhe.n mujhase pyaar hai
+chaahe.n zubaa.n se \threedots
+
+maathe pe kyuu.N pasiinaa hai ye to bataa_iye
+aise na mujhako dekhake palake.n jhukaa_iye
+ham jaanate hai.n aapakaa dil bekaraar hai
+aa.Nkhe.n to kah rahii \threedots
+
+tum saamane jo aa_e to sharamaa ga_ii nazar
+mai.n kuchh bhii kah sakii naa aisaa hu_aa asar
+harapal mujhe to ab tumhaaraa i.ntazaar hai
+aa.Nkhe.n to kah rahii \threedots
+%
+#endindian
+\endsong
+

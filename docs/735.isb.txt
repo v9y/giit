@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{hogaa tumase pyaaraa kaun hamako to tumase hai hai kanchan}% 
+\film{Zamane Ko Dikhana Hai}%
+\year{}%
+\starring{Rishi, Padmini}%
+\singer{Shailendra Singh}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Reeta  Sinha (librs@emoryu1.cc.emory.edu)
+% Editor:
+%
+\printtitle 
+#indian 
+%
+(are hogaa tumase pyaaraa kaun 
+hamako to tumase hai hai ka.Nchan 
+hai ka.Nchan pyaar) \-2 
+
+(uu.Nche gharavaalii ho yA galiyo.n kii raanii 
+koii bhii ho tum rahatii ho kahii.n ) \-2 
+tumase ba.Dhake yaaraa kaun hamako to tumase hai he kaa.Nchhii 
+ko: hai kaa.Nchhii 
+hai kaa.Nchhii 
+ko: hai kaa.Nchhii 
+ho pyaar 
+
+(ho dekho in aa.Nkho.n me.n ye sUrat hai kisakii 
+ho dekho ik nazar to kam se kam) \- 2 
+aakhir hai hamaaraa kaun hamako to tumase hai hai hai kaa.Nchhii 
+ko: hai kaa.Nchhii 
+hai kaa.Nchhii 
+ko: hai kaa.Nchhii 
+ho pyaar 
+
+(kahate ho ki jaao lekin batalaao 
+ho jaae.n bhii to jaae.n ham kahaa.N) \- 2 
+aisaa dil kaa maaraa kaun hamako to tumase hai hai kaa.Nchhii 
+ko: hai kaa.Nchhii 
+hai kaa.Nchhii 
+ko: hai kaa.Nchhii 
+ho pyaar 
+
+are hogaa tumase \threedots 
+%
+#endindian
+\endsong
+%

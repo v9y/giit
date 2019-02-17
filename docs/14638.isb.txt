@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mai.n dil kii dil me.n rakhataa huu.N}%
+\film{Yeh Pyaar Hi To Hai}%
+\year{2001}%
+\starring{Saif Ali Khan, Pooja Bhatt}%
+\singer{Kumar Sanu, Pankaj Udhas}%
+\music{Nadeem Shravan}%
+\lyrics{}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n dil kii dil me.n rakhataa huu.N bas ye hii meraa doSh hai
+jis me.n jitanaa pyaar hai utanaa vo khaamosh hai
+mai.n dil kii dil me.n \threedots
+
+mai.n apanii kahaanii kaise kahuu.N usame.n teraa naam bhii aa_egaa
+gar hogii merii rusavaa_ii to sar teraa bhii jhuk jaa_egaa
+a.njaam\-e\-mohabbat kyaa hogaa ye soch ke mai.n ghabaraataa huu.N
+tuu naa mujhe pahachaan sakaa bas isakaa mujhe afasos hai
+jis me.n jitanaa pyaar \threedots
+
+mujh me.n kitanii bechainii hai mai.n kaash tujhe batalaa paataa
+chaahat ke saare zakhmo.n ko mai.n kaash tujhe dikhalaa paataa
+mai.n apane is paagal dil ko har baar yahii samajhaataa huu.N
+maanaa madahosh hai pyaar meraa lekin mujh me.n to hosh hai
+jis me.n jitanaa pyaar \threedots
+%
+#endindian
+\endsong
+

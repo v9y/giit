@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ho maine pyaar kiyaa oy hoy kyaa jurm kiyaa}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran, Lalita Pawar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10887 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	ho maine pyaar kiyaa oy hoy kyaa jurm kiyaa \-2
+	( in aa.Nkho.n kaa ra.ng ho gayaa gulaabii\-gulaabii
+	haay haay haay dil kii haalat sharaabii\-sharaabii ) \-2
+	ho maine pyaar kiyaa \threedots
+
+	thar\-thar man meraa kaa.Npe aa.Nkh merii sharamaa_e
+	o gore\-gore tan par aaj pasiinaa aa_e
+	haay kahaa.N tak dil sa.mbhaaluu.N
+	tiir saa chubhaa kaise nikaaluu.N hoy
+	ho ba.Dh ga_ii aur dil kii betaabii\-betaabii
+
+ko \:	haay haay haay dil kii haalat \threedots
+la \:	ho maine pyaar \threedots
+
+la \:	jab\-jab unako dekhuu.N aane lage a.nga.Daa_ii
+ko \:	jab\-jab unako dekhuu.N aane lage a.nga.Daa_ii
+la \:	dhiire\-dhiire aaKir ba.nd kalii muskaa_ii
+ko \:	dhiire\-dhiire aaKir ba.nd kalii muskaa_ii
+la \:	haay karuu.N kyaa hosh nahii.n hai
+	ham kahii.n aur dil kahii.n hai hoy
+	ho ban\-ban Dole umariyaa shabaabii\-shabaabii
+ko \:	haay haay haay dil kii haalat \threedots
+la \:	ho maine pyaar \threedots
+
+	kyaa hai.n khataa_e.N merii aaj ko_ii batalaa_e
+	ho kaun se dil ko to.Daa kaun se dil ta.Dapaa_e
+	pyaar kiyaa hai pyaar ko jaanuu.N
+	aur ko_ii insaaf naa maanuu.N hoy
+	ho pyaar kii har adaa laajavaabii\-laajavaabii
+ko \:	haay haay haay dil kii haalat \threedots
+la \:	ho maine pyaar \threedots
+%
+#endindian
+\endsong
+

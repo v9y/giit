@@ -1,0 +1,49 @@
+% ITRANS SONG # 3294; Created on Jan 26, 2004
+%
+%      From: Prithviraj (prithvidg@hotmail.com)
+%      Date: 2000-12-11 20:10:11 PST 
+%
+\startsong
+\stitle{bhuul na jaanaa aaj kii baate.n}%
+\film{Wapas}%
+\year{1943}%
+\starring{Asit Baran, Bharati Devi}%
+\singer{Asit Baran, Indrani Roy}%
+\music{R C Boral}%
+\lyrics{Munshi Zakir Husain}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Dec 11, 2000
+%
+\printtitle
+#indian
+%
+i:   bhuul na jaanaa aaj kii baate.n
+     ye upavan ye samay suhaanaa
+     bhuul na jaanaa
+a:   dono.n kaa aakaar mil jaanaa
+     bhuul na jaanaa
+a/i: dono.n kaa aakaar mil jaanaa
+     bhuul na jaanaa
+a:   chhupanaa rukanaa aur sha.rmaanaaa
+i:   chhupanaa rukanaa aur sha.rmaanaaa
+a:   bhuul na jaanaa bhuul na jaanaa
+
+i:   khushii se hai man phulaa phulaa
+a:   kaisaa pyaaraa pyaaraa jhuulaa
+i:   jhuulan apanaa
+a:   aur jhuulanaa
+a/i: bhuul na jaanaa aaj kii baate.n
+     bhuul na jaanaa
+
+a:   dil se dil kaa taar milaakar
+i:   prem kaa sundar saaz bajaakar
+i:   jhuum jhuum
+a:   jhuum jhuum dono.n kaa gaanaa
+i/a: aa aa aa haa haa haa haa
+     bhuul  na jaanaa aaj kii baate.n
+     bhuul na jaanaa
+%
+#endindian
+\endsong
+%

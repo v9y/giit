@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{suno jii tum, tum ba.De wo ho}%
+\film{Saas Bhi Kabhi Bahu Thi}%
+\year{1970}%
+\starring{Leena Chandavarkar, Sanjay Khan, Shashikala, Om Prakash}%
+\singer{Suman Kalyanpur, Kishore}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  Shalini Razdan
+% Transliterator:  Surajit A. Bose
+% Date: February 16th, 2002
+% Credits:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+suman:  haa.N
+kishor: kyaa?
+
+suman: (suno jii tum
+ho tum ba.De wo ho) \- 2
+tumasaa dekhaa naa hamane diiwaanaa koii
+
+kishor: (chalo maanaa
+ho ham ba.De wo hai.n) \- 2
+ham bure yaa bhale aap hii ke to hai.n
+
+suman: suno jii tum \threedots
+
+suman: aisii baat banaate ho
+jaan merii le jaate ho
+ab tumase kaun la.De
+raat ko nii.nd churaate ho
+din ko Kwaab dikhaate ho
+ab tumase kaun la.De
+
+kishor: (dekho jii dekho
+ham pe naa aisaa dosh dharo) \- 2
+
+suman: suno jii tum \threedots
+
+kishor: chalo maanaa \threedots
+
+kishor: saamane jab aa jaatii ho
+aa.Nkho.n par chhaa jaatii ho
+o merii jaan\-e\-bahaar
+dil meraa kho jaataa hai
+paagal saa ho jaataa hai
+o merii jaan\-e\-bahar
+
+suman: (jaao jii jaao
+ham se naa aisii baat karo) \- 2
+
+kishor: chalo maanaa \threedots
+suman: suno jii tum \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{dhak-dhak karane lagaa, moraa jiyaraa Darane lagaa}%
+\film{Beta}%
+\year{}%
+\starring{Madhuri Dixit, Anil Kapoor}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+% 
+% Contributor: Rizwan M. Syed <rizwan@Jupiter.SPARCO.Com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/03/1996
+%
+\printtitle
+#indian
+%
+a: (dhak\-dhak karane lagA, ho morA jIyarA Darane lagA
+    sai.nyA bai.nyA chho.D nA, kachchI kaliyA.N to.D na)	\-2
+
+u: (dil se dil mil gayA, mujhase kaisI ye hayA
+    tU hai merI dilarubA, kyA lagatI hai, vAh re vAh)	\-2
+
+a: apanA banAyA pIyA tUne mujhe, mai.n mIThe\-mIThe sapane sajAne lagI
+u: dekhA merI rAnI jab mai.nne tujhe, merI soI\-soI dha.Dakan gAne lagI
+a: jAdU terA chhAne lagA, merI nas\-nas me.n samAne lagA
+u: Kud ko mai.n bhulAne lagA, tujhe sA.Nso.n me.n basAne lagA
+a: rishtA, ab ye rishtA, sAthI TUTegA na to.De kabhI
+u: dil se dil mil gayA \threedots
+
+u: ulajhI hai kAlI\-kAlI laT terI, zarA in zulfo.n ko sulajhAne to de
+a: itanI bhI kyA hai jaladI tujhe, gha.DI apane milan kI tU Ane to de
+u: aise na bahAne banA, merI rAnI, ab to bAho.n me.n A
+a: aise na nigAhe.n milA, koI dekhegA to sochegA kyA?
+u: mastI chhAI hai mastI, Ake lag jA gale se abhI
+
+a: dhak\-dhak karane lagA \threedots
+u: dil se dil mil gayA \threedots
+%
+#endindian
+\endsong
+%
+

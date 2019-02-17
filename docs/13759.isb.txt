@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mere hamasafar mere paas aa}%
+\film{Refugee}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kareena Kapoor, Jackie Shroff, Sunil Shetty, Anupam Bher, Reena Roy, Kulbhushan Kharbanda, Ashish Vidyarthi}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa
+mere hamasafar mere hamasafar mere paas aa mere paas aa
+hame.n saath chalanaa hai umr bhar mere paas aa mere paas aa
+mere paas aa
+mere hamasafar \threedots
+
+hai safar hamaaraa nayaa nayaa kisii pal a.ndheraa jo ho gayaa
+kahii.n kho na jaa_e ye rahaguzar mere paas aa mere paas aa
+hame.n saath chalanaa hai \threedots
+
+zaraa Thahar jaa mere hamanavaa yahaa.n agale mo.D pe hogaa kyaa
+kise hai pataa kise hai khabar mere paas aa mere paas aa
+hame.n saath chalanaa hai \threedots
+
+jo gharo.n ko chho.Dake hai.n chale unhe.n kyaa Daraa_e.nge faasale
+hame.n jaanaa hai dil ke nagar mere paas aa mere paas aa
+hame.n saath chalanaa hai \threedots
+%
+#endindian
+\endsong
+

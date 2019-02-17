@@ -1,0 +1,68 @@
+%
+\startsong
+\stitle{zi.ndagii zi.ndagii mere ghar aanaa, aanaa zi.ndagii}%
+\film{Dooriyan}%
+\year{}%
+\starring{Uttam Kumar, Shamila Tagore}%
+\singer{Bhupinder, Anuradha Paudwal}%
+\music{Jaidev}%
+\lyrics{Sudarshan Faakir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde <avinash@acm.org>
+% Credits: C. S. Sudarshana Bhat <cesaa129@utacnvx.uta.edu>
+%          Venkatasubramanian K Gopalakrishnan <gopala@cs.wisc.edu>
+%          Preetham Gopalaswamy <preetham@src.umd.edu>
+%          Surajit A. Bose <bose.2@nd.edu>
+% Editor: Anurag Shankar <anurag@astro.indiana.edu>
+%         Rajiv Shridhar <rajiv@coe.neu.edu>
+% Last modified: 02/20/1997
+%
+\printtitle
+#indian
+%
+bhuu:  zi.ndagii zi.ndagii mere ghar aanaa \- aanaa zi.ndagii
+zi.ndagii mere ghar aanaa \- aanaa zi.ndagii
+a:  zi.ndagii o zi.ndagii mere ghar aanaa \- aanaa
+mere ghar aanaa
+a/bhuu: zi.ndagii zi.ndagii mere ghar aanaa \- aanaa zi.ndagii
+
+bhuu:  mere ghar kaa siidhaa saa itanaa pataa hai
+ye ghar jo hai chaaro.n taraf se khulaa hai
+na dastak zaruurii, naa aavaaz denaa
+mere ghar kaa daravaazaa koii nahii.n hai
+hai.n diivaare.n gum aur chhat bhii nahii.n hai
+ba.Dii dhuup hai dost
+kha.Dii dhuup hai dost
+tere aa.nchal kaa saayaa churaa ke jiinaa hai jiinaa 
+jiinaa zi.ndagii, zi.ndagii
+a:  o zi.ndagii mere ghar aanaa
+a/bhuu: aanaa zi.ndagii \- zi.ndagii mere ghar aanaa
+
+a:  mere ghar kaa siidhaa saa itanaa pataa hai
+mere ghar ke aage muhabbat likhaa hai
+na dastak zaruurii, na aavaaz denaa
+mai.n saa.nso.n kii raftaar se jaan luu.ngii
+havaao.n kii khushabuu se pahachaan luu.ngii
+teraa phuul huu.N dost
+terii bhuul huu.N dost
+tere haatho.n me.n cheharaa chhupaa ke jiinaa hai jiinaa 
+jiinaa zi.ndagii, zi.ndagii
+bhuu:  o zi.ndagii mere ghar aanaa
+a/bhuu: aanaa zi.ndagii \- zi.ndagii mere ghar aanaa
+
+bhuu: magar ab jo aanaa to diire se aanaa
+zamaane kii shahazaadii soii huii hai
+ye pariyo.n ke sapano.n me.n khoii huii hai
+bahut Kuub hai ye, teraa ruup hai ye
+tere aa.Nchal me.n tere daaman me.n
+tere aa.Nkho.n me.n terii palko.n me.n
+tere kadamo.n isako biThaake
+jiinaa hai, jiinaa hai
+jiinaa zi.ndagii, zi.ndagii
+a:  o zi.ndagii mere ghar aanaa
+a/bhuu: aanaa zi.ndagii \- zi.ndagii mere ghar aanaa
+%
+#endindian
+\endsong
+%

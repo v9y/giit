@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{jab chaahaa yaaraa tumane, aa.Nkho.n se maaraa tumane}%
+\film{Zabardast}%
+\year{}%
+\starring{Rajeev Kapoor, Sunny Deol, Rati, Jayaprada}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Aug  9 1995 
+% Credits: Neeraj Deshmukh
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+jab chaahaa yaaraa tumane, aa.Nkho.n se maaraa tumane
+ho.nTho.n se zindaa kar diyaa
+are tumhaarii marzii pe chal rahe.n hai.n, Kataa hamaarii kyaa
+ho jab chaahaa yaaraa tumane \threedots
+
+(chalo jii ham bure sahii, chalo jii ham jhuuThe hai.n
+ maGar inahii.n nigaaho.n se hazaaro.n dil TuuTe hai.n) \-2
+are, kasam se kahanaa, hamaarii suurat nahii.n hai pyaarii kyaa
+ho\threedots, jab chaahaa yaaraa tumane\threedots
+
+(samajh sako to hamasafar, hame.n tum apanaa jaano
+ are, udhar nahii.n idhar chalo, kabhii to kahanaa maano) \-2
+are, lipaT aake puuchhe.n, ke aage marzii ab hai hamaarii kyaa
+ho\threedots, jab chaahaa yaaraa tumane\threedots
+%
+#endindian
+\endsong
+%

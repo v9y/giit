@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{chaa.Nd saa mukha.Daa kyo.n sharmaayaa}%
+\film{Insaan Jaag Uthaa}%
+\year{1959}%
+\starring{Sunil Dutt, Madhubala}%
+\singer{Asha, Rafi}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Andy J. Lucyshyn <ajl@engr.ucf.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Credits: Preetham Gopalaswamy <preetham@connectinc.com>
+%          Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 09/07/1996
+% Comments: One of only two instances of SDB-Shakeel combination;
+%           The other is `Benazir'.
+%
+\printtitle
+#indian
+%
+naTakhaT taaro.n hame.n na nihaaro
+hamarii ye priit na_ii
+
+chaa.Nd saa mukha.Daa kyo.n sharmaayaa
+aa.Nkh milii aur dil ghabaraayaa
+chaa.Nd saa\threedots
+
+jhuk gae cha.nchal nainaa ik jhalakii dikhalaake
+bolo gorii kyaa rakhaa hai palako.n me.n chhupaake
+tujhako re saa.Nvariyaa tujhase hii churaake
+naino.n me.n sajaayaa mai.nne gajaraa banaake
+chaa.Nd saa\threedots
+
+ye bhiige nazaare karate hai.n ishaare
+milane kii ye rut hai gorii din hai.n hamaare
+sun lo piyaa pyaare kyaa kahate hai.n taare
+hamane to ??? ??? kitano.n ke pyaare
+kabhii na alag huii saayaa se kaayaa
+chaa.Nd saa\threedots
+%
+#endindian
+\endsong
+%
+

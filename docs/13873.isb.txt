@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{saawan ke baadalo unase ye jaa kaho}%
+\film{Rattan}%
+\year{1944}%
+\starring{Swarnlata, Vaasti, Karan Deewan, Manju}%
+\singer{Zohrabai, Karan Deewan}%
+\music{Naushad}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #11863 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+zo \:	( saawan ke baadalo
+	unase ye jaa kaho ) \-2
+	taqadiir me.n yahii thaa
+	saajan mere naa ro
+	saawan ke baadalo
+
+ka \:	( ghanaghor ghaTaavo
+	mat jhuum ke aavo ) \-2
+	yaad unakii sataayegii
+	tum\-tum yahaa.N naa ho
+	saawan ke baadalo
+
+zo \:	( jis din se judaa ham hai.n
+	aa.Nkhe.n merii puranam hai.n
+	aa.Nkhe.n merii puranam hai.n ) \-2
+	ro\-ro ke mai.n mar jaa_uu.N
+	dukh terii balaa ko
+	saawan ke baadalo
+
+ka \:	( chhe.Do naa hame.n aa ke
+	baraso kahii.n aur jaa ke
+	baraso kahii.n aur jaa ke ) \-2
+	wo din naa rahe apane
+	raate.n naa rahii.n wo
+	saawan ke baadalo
+
+zo \:	saawan ke baadalo
+	unase ye jaa kaho
+%
+#endindian
+\endsong
+

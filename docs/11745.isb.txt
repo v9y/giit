@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{zaraa aa.Nkho.n me.n kaajal lagaa lo sanam}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zaraa aa.Nkho.n me.n kaajal lagaa lo sanam
+surK chehare pe zulfe.n giraa lo sanam
+tere gaalo.n pe jo kaalaa til hai vahii meraa dil hai
+
+terii baato.n ne aisaa kiyaa hai asar
+sharm se jhuuk rahii hai merii ye nazar
+tujhe jisane diivaanaa kiyaa hai
+merii bi.ndiyaa hai merii bi.ndiyaa hai
+kaalii sii aa.Nkhe.n aa.Nkho.n me.n kaajal
+kyuu.n na ho ghaayal dil meraa
+o chho.Do jii chho.Do baate.n banaanaa
+paagal hai paagal dil teraa
+dhakadhak kyuu.n karataa hai
+mujhape ye marataa hai
+dard jisane tujhe ye diyaa hai
+merii bi.ndiyaa hai merii bi.ndiyaa hai
+zaraa aa.Nkho.n me.n \threedots
+
+laalii ye laalii ho.nTho.n kii laalii
+aajaa churaa luu.n chorii se
+o tuu jo bulaa_e mai.n bhaagii aa_uu.n
+khii.nch tuu aisii Dorii se
+khud pe naa qaabuu hai
+chaahat kaa jaaduu hai
+chain jisane teraa le liyaa hai
+merii bi.ndiyaa hai merii bi.ndiyaa hai
+zaraa aa.Nkho.n me.n \threedots
+%
+#endindian
+\endsong
+

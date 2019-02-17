@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{naa jaane kab pyaar kar baiThe ... dil de diyaa maine dil le liyaa}%
+\film{Raam Avtaar}%
+\year{1988}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Mohammed Aziz, Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+naa jaane kab pyaar kar baiThe dil aisaa diivaanaa hai
+dil ko thaam ke rakhanaa logo.n mausam ba.Daa suhaanaa hai
+
+naa naa naa naa karate karate ikaraar kar liyaa
+o logo.n raam duhaa_ii \-2
+maine pyaar kar liyaa \-2
+dil de diyaa maine dil le liyaa
+( ye kyaa kiyaa ) \-3 tuune ye kyaa kiyaa
+dil de diyaa \threedots
+
+( chain aur ni.ndiyaa kho jaa_e
+jaan bhii jaatii hai to jaa_e ) \-2
+ab jo honaa ho jaa_e
+( bas jii ) \-3 bas intazaar kar liyaa
+dil de diyaa \threedots
+
+is dil kii baato.n me.n aake \-2
+ek duuje kaa dil ta.Dapaa ke
+ek duuje kii ( kasam uThaa ke ) \-2
+ek duuje pe hamane etabaar kar liyaa
+dil de diyaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{bhuule se mohabbat kar baiThaa ... dil hii to hai}%
+\film{Dil Hi To Hai}%
+\year{1963}%
+\starring{Raj Kapoor, Nutan, Pran}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10496 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bhuule se mohabbat kar baiThaa
+naadaa.N thaa bechaaraa dil hii to hai
+har dil se Kataa ho jaatii hai
+biga.Do na Kudaaraa dil hii to hai
+duniyaa me.n hamaaraa dil hii to hai
+
+( is tarah nigaahe.n mat phero
+aisaa na ho dha.Dakan ruk jaa_e ) \-2
+siine me.n ko_ii patthar to nahii.n \-2
+ehasaas kaa maaraa dil hii to hai
+duniyaa me.n hamaaraa \threedots
+
+( bedaadagaro.n kii Thokar se
+sab Kvaab suhaane chuur hu_e ) \-2
+ab dil kaa sahaaraa Gam hii to hai \-2
+ab Gam kaa sahaaraa dil hii to hai
+duniyaa me.n hamaaraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{pyaar teraa pyaar chaahiye ... tujhe jo maine dekhaa to dil ne}%
+\film{Baaghi}%
+\year{2000}%
+\starring{Sanjay Dutt, Manisha Koirala}%
+\singer{Abhijit, Jaspindar Narula}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Tu Tu ru ru
+pyaar pyaar pyaar teraa pyaar chaahiye
+bekaraar dil ko karaar chaahiye
+tujhe jo maine dekhaa to dil ne ye pukaaraa ke zi.ndagii me.n ek yaar chaahiye
+pyaar pyaar tuu de de mujhako pyaar pyaar
+pyaar pyaar pyaar teraa \threedots
+
+kahataa hai dil meraa terii aa.Nkho.n me.n Duub jaa_uu.n
+chaahat hai ye apanii mai.n dulhan tujhe banaa_uu.n
+aise hii kuchh sapane mere dil ne bhii dekh Daale
+karatii huu.N khush ho kar mai.n khud ko tere havaale
+hosh meraa khone lagaa ye kyaa mujhe hone lagaa
+kaise tujhe yaar mai.n bataa_uu.n
+mai.n huu.N terii jaan\-e\-adaa dil pe teraa chhaayaa nashaa
+aajaa tujhe dil me.n basaa_uu.n
+tujhe jo maine dekhaa \threedots
+
+paagal kar Daaluu.ngii tujhe itanaa pyaar mai.n duu.ngii
+in baaho.n me.n rah kar ye jiivan guzaar duu.ngii
+dekhe naa ye duniyaa kahii.n dil me.n chhupaa de mujhako
+jiine ko tarasaa huu.N tuu jiinaa sikhaa de mujhako
+paas aa jaa yaar mere baahe.n merii thaam zaraa
+samaa.n hai ye pyaar kaa suhaanaa
+jaan merii tere li_e pyaar meraa tere li_e
+teraa hii to mai.n huu.N diivaanaa
+tujhe jo maine dekhaa \threedots
+%
+#endindian
+\endsong
+

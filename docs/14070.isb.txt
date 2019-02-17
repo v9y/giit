@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{imalii kaa buuTaa berii kaa pe.D ... Tinak Tinak chinataaraa ... he raajuu chal niiruu chal}%
+\film{Saudaagar}%
+\year{1991}%
+\starring{Dilip Kumar, Rajkumar, Vivek Mushran, Manisha Koirala}%
+\singer{Sadhana Sargam, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he raajuu chal niiruu chal
+Tinak Tinak chinataaraa
+imalii kaa buuTaa berii kaa pe.D imalii khaTTii miiThe ber
+is ja.ngal me.n ham do sher chal ghar jaldii ho ga_ii der
+imalii kaa buuTaa \threedots
+
+jis din se tuu ruuTh gayaa terii kasam dil TuuT gayaa
+na jaane kab raat hu_ii na jaane kab saver
+imalii kaa buuTaa \threedots
+
+raunak pyaar ke naam kii hai ye daulat kis kaam kii hai
+tere binaa hiire motii lagate hai.n miTTii ke Dher
+imalii kaa buuTaa \threedots
+%
+#endindian
+\endsong
+

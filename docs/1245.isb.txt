@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{milii Kaak me.n muhabbat, jalaa dil kaa aashiyaanaa}%
+\film{Chaudhvin Ka Chaand}%
+\year{1960}%
+\starring{Guru Dutt, Rehman, Waheeda Rehman, Johnny Walker}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+milii Kaak me.n muhabbat, jalaa dil kaa aashiyaanaa
+jo thii aaj tak haqiiqat, vahii ban ga_ii fasaanaa
+
+ye bahaar kaisii aaii, jo fizaa.n bhii saath laaii
+mai.n kahaa.N rahuu.N chaman me.n, meraa luT gayaa Thikaanaa
+
+mujhe raastaa dikhaakar, mere kaaravaa.n ko luuTaa
+idhar aa gale lagaa luu.N, tujhe garadish\-e\-zamaanaa
+%
+#endindian
+\endsong
+%

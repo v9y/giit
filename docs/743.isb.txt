@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{huzuur is kadar bhii na itaraake chaliye}%
+\film{Masoom}%
+\year{1986}%
+\starring{Naseeruddin Shah, Saeed Jaffrey, Shabana Azmi}%
+\singer{Bhupinder, Suresh Wadkar}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+huzuur is kadar bhii na itaraa ke chaliye
+khule aam aa.Nchal na laharaa ke chaliye (2)
+
+koI manachalaa gar paka.D legaa aa.Nchal
+zaraa sochiye aap kyaa kiijiyegaa
+lagaa de.n agar ba.Dhake zulfo.n me.n kaliyaa.N
+to kyaa apanii zulfe.n jhaTak diijiyegaa
+huzuur is \threedots
+
+bahut dilanashii.n hai.n ha.Nsii kii ye la.Diyaa.n
+ye motii magar yuu.N naa bikharaayaa kiije
+u.Daakar na le jaaye jho.nkaa havaa kaa
+lachakataa badan yuu.N naa laharaayaa kiije
+huzuur is \threedots
+
+bahut khuubasuurat hai har baat lekin
+agar dil bhii hotaa to kyaa baat hotii
+likhii jaatii phir daastaan\-e\-muhabbat
+ek afasaane jaise mulaaqaat hotii
+huzuur is \threedots
+%
+#endindian
+\endsong
+%

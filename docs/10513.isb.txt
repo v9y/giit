@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jhuume ye zamii.n jhuume aasamaa.n}%
+\film{Bas Itna Sa Khvab Hai}%
+\year{2001}%
+\starring{Abhishek Bachchan, Jackie Shroff, Rani Mukerji, Sushmita Sen}%
+\singer{Roop Kumar Rathod, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Goldy Behl}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jhuume ye zamii.n jhuume aasamaa.n
+dono.n hai.n merii baaho.n ke daramiyaa.n
+kaisaa mazaa hai ye kaisaa hai nashaa
+kadamo.n me.n hai jaise mere ye jahaa.n
+jo maine chaahaa hai vo hii paayaa hai
+aaj mastii me.n jaam uThaayaa hai
+jhuume ye zamii.n \threedots
+
+ho terii zamii.n teraa aasamaa.n
+bas itanaa saa teraa khvaab thaa
+ho ab hai vahii zamii.n aasamaa.n
+vahii aa.Nkh khulii teraa kuchh bhii nahii.n
+aayaa jahaa.n se chal de vahii.n
+ab ye nahii.n terii ye mahafil nahii.n
+ho terii zamii.n \threedots
+
+ho ga.ngaa ma_iyaa he ga.ngaa ma_iyaa
+tuu jaanaa hame.n naahii.n re he ga.ngaa ma_iyaa
+%
+#endindian
+\endsong
+

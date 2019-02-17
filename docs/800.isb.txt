@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{jaane kaisaa hai, meraa diivaanaa, kabhii apanaa saa lage}%
+\film{Aansoo Ban Gaye Phool}%
+\year{1969}%
+\starring{Ashok Kumar, Deb Mukherjee, Alka, Nirupa Roy}%
+\singer{Kishore, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Govind Munees}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa:
+jaane kaisaa hai meraa diivaanaa
+kabhii apanaa saa lage,  kabhii begaanaa
+% kishor:
+ki:
+ba.Dii bholii ho, ye bhii na jaanaa
+kabhii apano.n ko nahii.n kahate begaanaa
+
+% kishor:
+ki:
+yuu.N bhii jiitaa thaa magar koI aramaan na the
+jab talak aap mere dil ke mehamaan na the
+dil ke mehamaan na the
+tumase mahakaa hai meraa viiraanaa, kabhii apano.n ko nahii.n \threedots
+
+% asha:
+aa:
+mai.n vo aazaad ghaTaa tumane jise baa.Ndh liyaa
+apanii aa.Nkho.n me.n mujhe nayaa aakaash diyaa
+nayaa aakaash diyaa
+yahii chhoTaa saa meraa afasaanaa, kabhii apanaa saa lage \threedots
+
+% asha:
+kabhii chhe.De hai pavan kabhii chhe.De hai.n piyaa
+% kishor:
+ki:
+yahii to hogaa sanam tumane jab pyaar kiyaa
+tumane jab pyaar kiyaa
+mere paas aao chho.Do sharamaanaa
+kabhii apano.n ko nahii.n \threedots
+%
+#endindian
+\endsong
+%

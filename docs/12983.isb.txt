@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{zamii.n bhii chup hai ... maasuum dil kii haa.N pe}%
+\film{Maashooqaa}%
+\year{1953}%
+\starring{Suraiya, Mukesh, Kuldeep Kaur, Agha, Durga Khote}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10504 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zamii.n bhii chup hai aasamaa.N bhii chup hai kisii kii duniyaa uja.D rahii hai
+bataa ai maalik ye kaisii qismat jo banate\-banate biga.D rahii hai
+
+maasuum dil kii haa.N pe naa kah diyaa kisii ne
+aur bas isii bahaane Gam de diyaa kisii ne
+
+baad\-e\-sabaa jo aa_ii aur phuul muskaraa_e \-2
+sahalaa ke zaKm mere bahalaa diyaa kisii ne
+aur bas isii bahaane \threedots
+
+maaluum kyaa thaa hamako hai ra.nj\-o\-Gam kii duniyaa \-2
+sau\-sau sitam uThaa_e do din kii zindagii me.n
+aur bas isii bahaane \threedots
+%
+#endindian
+\endsong
+

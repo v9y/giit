@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{laharaa ke bal khaa ke ... aa gaye aa gaye aa gaye}%
+\film{Goonj}%
+\year{1952}%
+\starring{Suraiya, Suresh}%
+\singer{Suraiya, Chorus}%
+\music{Sardul Kwatra}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12557 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ko \:	laharaa ke bal khaa ke raah pe \-2
+su \:	aa gaye aa gaye aa gaye \-2
+	jinako dekh\-dekh sharamaa_uu.N
+	aur na dekhuu.N to ghabaraa_uu.N
+	( wo jo mere Kayaalo.n pe chhaa gaye
+	aa gaye ) \-2
+
+su \:	aa gaye aa gaye aa gaye \-3
+ko \:	laharaa ke bal khaa ke raah pe \-3
+
+su \:	tan ke gore man ke kaale\-kaale \-2
+	jinako mai.n kahuu.N chor dil kahe bhole\-bhaale \-2
+	( wo jo ThaNDii aag lagaa gaye
+	aa gaye ) \-2
+
+su \:	aa gaye aa gaye aa gaye \-3
+ko \:	laharaa ke bal khaa ke raah pe \-3
+
+su \:	nainaa unake Dhuu.NDh rahe hai.n hamako \-2
+	par ham to dukh de.nge ba.Daa aise balam ko \-2
+	( wo jo dil kaa chain churaa gaye
+	aa gaye ) \-2
+
+su \:	aa gaye aa gaye aa gaye \-3
+ko \:	laharaa ke bal khaa ke raah pe \-3
+
+ko \:	laharaa ke bal khaa ke raah pe \-2
+%
+#endindian
+\endsong
+%
+

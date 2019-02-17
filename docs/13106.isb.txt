@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ho o kyaa yahii teraa pyaar thaa}%
+\film{Mirza Sahiban}%
+\year{1947}%
+\starring{Noorjehan, Trilok Kapoor, Gulab, Gope}%
+\singer{Noorjehan}%
+\music{Pt Amarnath, Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12142 [V S Rawat]
+%
+\printtitle
+#indian
+%
+( ho o
+kyaa ye hii teraa pyaar thaa ) \-2
+( ho o
+mujhako to i.ntazaar thaa ) \-2
+( ho o
+kyaa ye hii teraa pyaar thaa ) \-2
+
+( ho o
+denii thii gar judaa_ii ) \-2
+kyuu.N aa.Nkh thii milaa_ii \-2
+ho.nge judaa naa ham kabhii \-2
+ho o
+mujhako ye aitabaar thaa
+
+ho o
+kyaa ye hii teraa pyaar thaa
+( ho o
+mujhako to i.ntazaar thaa ) \-2
+( ho o
+kyaa ye hii teraa pyaar thaa ) \-2
+
+( ho o
+saahibaa milane aa_ii ) \-2
+aur dil ke Tuka.De laa_ii \-2
+aaj wo dil hai Kuun Duubaa \-2
+ho o
+jisame.n kisii kaa pyaar thaa
+
+ho o
+kyaa ye hii teraa pyaar thaa
+( ho o
+mujhako to i.ntazaar thaa ) \-2
+( ho o
+kyaa ye hii teraa pyaar thaa ) \-2
+%
+#endindian
+\endsong
+

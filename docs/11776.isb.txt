@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{##area## kaa ##hero## huu.N}%
+\film{Hello Brother}%
+\year{1999}%
+\starring{Salman Khan, Arbaaz Khan, Rani Mukherji}%
+\singer{Sonu Nigam, Hema Sardesai}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Shekhani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##area## kaa ##hero## huu.N ai
+##area## kaa ##hero## huu.N kyaa paanii kam samajhelii hai
+chal haT jaa baajuu chhokarii ye khopa.Dii haThelii hai
+thoba.Daa hai chikanaa ##body## mast banaa_ii
+kapa.De Daale ##top## ke ##english## apun kii ##high##
+##understand##
+jaisii terii suurat vaisii terii baate.n
+galiyo.n me.n din guzaare sa.Dako.n pe raate.n
+ai aisaa kyuu.n bolatii hai dil kyuu.n to.Datii hai
+dil kii kitaab tuu kyuu.n nahii.n kholatii hai
+are jaa re jaa diivaane tuu Dhuu.nDhe kyuu.n bahaane tuu
+kisako sunaataa hai jhuuThe ye fasaane tuu
+phir teraa meraa hai kaisaa rishtaa ye to mujhe bataa de
+##area## kaa ##hero## \threedots
+
+##life## me.n to terii bahut se hai.n faa.nde
+tabhii to jhaale maaze roTii che vaa.nde
+jaisaa tuu karegaa vaisaa hii bharegaa
+tuu bhii aisaa bolegii to apun kyaa karegaa
+are re re aisaa kyuu.n sochataa hai dil kyuu.n to.Dataa hai
+mai.n jo tere saath huu.N aas kyuu.n chho.Dataa hai
+ye jo teraa ruup hai chhaa.nv hai ke dhuup hai
+mai.n to itanaa jaanataa huu.N yaarii terii khuub hai
+phir Takaraa jaa duniyaa se aur sabako tuu haraa de
+##area## kaa ##hero## \threedots
+%
+#endindian
+\endsong
+

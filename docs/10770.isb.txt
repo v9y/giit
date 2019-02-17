@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{ishq vishq me.n pyaar vyaar me.n ##number one## pa.njaabii}%
+\film{Chori Chori Chupke Chupke}%
+\year{2000}%
+\starring{Salman, Rani Mukherjii, Preity Zinta}%
+\singer{Sonu Nigam, Jaspindar Narula, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq vishq me.n pyaar vyaar me.n ##number one## pa.njaabii
+dil lene me.n dil dene me.n ##number one## pa.njaabii
+baisaakhii me.n bha.nga.Daa paake mast rahe.n pa.njaabii
+hiir sohaNii kii dhun gaake mast rahe.n pa.njaabii
+ho la.Dakii jo dekhe.n gulaabii kar de.n dhamaal pa.njaabii
+aa.Nkhe.n jo dekhe.n sharaabii kar de.n dhamaal pa.njaabii
+la.Dakii jo dekhe.n \threedots
+
+terii ek jhalak jo dekhe luT jaa_e paTiyaalaa
+mere bhole bhaale dil pe tuune Daakaa Daalaa
+sarii duniyaa dekhe meraa ruup ye sonaa sonaa
+mai.n to jisape chaahuu.n usape kar duu.n jaaduu Tonaa
+are aisii vaisii baato.n se to ho oy
+aisii vaisii baato.n se to Darate nahii.n pa.njaabii
+jhuuThaa muuTaa vaadaa kisii se karate nahii.n pa.njaabii
+chaahat kii raaho.n me.n aage ba.Dhate hai.n pa.njaabii
+aa.Nkho.n se aa.Nkho.n kii bhaaShaa pa.Dhate hai.n pa.njaabii
+cheharaa jo dekhe.n kitaabii kar de.n dhamaal pa.njaabii
+aa.Nkhe.n jo dekhe.n \threedots
+pa.njaabii pa.njaabii oy ##number one## pa.njaabii
+
+assii gaj kaa ghaagharaa merii resham vaalii cholii
+mujhe agar paanaa hai to ghar aajaa leke Dolii
+saarii raat na sone de terii chuu.Dii daa lashkaaraa
+le jaa_uu.n mai.n tujhe uThaake kar de zaraa ishaaraa
+oy zid pe apanii aa jaa_e.n to o maane.n naa pa.njaabii
+zid pe apanii aa jaa_e.n to maane.n naa pa.njaabii
+mahabuubaa ke dil kii baato.n ko jaane.n pa.njaabii
+maine sunaa hai ke hote hai.n dilavaale pa.njaabii
+mastii me.n Duube rahate hai.n matavaale pa.njaabii
+chhe.De jo ko_ii zaraa bhii kare de.n dhamaal pa.njaabii
+la.Dakii jo dekhe.n \threedots
+%
+#endindian
+\endsong
+

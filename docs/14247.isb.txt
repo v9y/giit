@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{aap apane nashe me.n jiite hai.n ham zaraa sii sharaab}%
+\film{Swayamvar}%
+\year{1980}%
+\starring{Sanjeev Kumar, Shashi Kapoor, Vidya Sinha, Moushumi Chaterjee}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10422 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aap apane nashe me.n jiite hai.n
+ham zaraa sii sharaab piite hai.n
+
+paa.Nv bahak ke sa.mbhal jaate hai.n
+sar bahak jaa_e to sa.mbhalataa nahii.n
+daaruu cha.Dh ke utar jaatii hai
+paisaa cha.Dh jaa_e to utarataa nahii.n
+merii aa.Nkho.n me.n rahatii hai mastii
+aapake sar pe suruur rahataa hai
+
+piite ham hai.n magar ye dekhaa hai kyaa dekhaa hai
+aapakii aa.Nkh laal hotii hai
+ham to chalate hai.n la.Dakha.Daa ke magar
+aapakii chaal me.n chaal hotii hai
+aap apane nashe me.n \threedots
+%
+#endindian
+\endsong
+

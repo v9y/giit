@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{o merii o merii o merii sharamiilii aao naa tarasaao naa}%
+\film{Sharmilee}%
+\year{}%
+\starring{Shashi Kapoor, Raakhee}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor: P.V. Rao (pvr@rice.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+o merii o merii o merii sharmiilii
+aao naa tarasaao naa
+o merii o merii o merii sharmiilii
+
+teraa kaajala lekara raata banii, raata banii
+terii me.nhadii lekara dina ugaa, dina ugaa
+terii bolii sunakara sura jaage, sura jaage
+terii khushabuu lekara phuula khilaa, phUl khilaa
+jaana\-e\-mana tuu hai kahaa.N
+o merii\threedots
+
+terii raaho.n se guzare jaba se ham, jaba se ham
+mujhe merii Dagara taka yaada nahii.n, yaada nahii.n
+tujhe dekhaa jaba se dilarubaa, dilarubaa
+mujhe meraa ghara taka yaada nahii.n, yaada nahii.n
+jaana\-e\-mana tuu hai kahaa.N
+o merii\threedots
+
+o niiraja nayanaa aa zaraa, aa zaraa
+terii laaja kaa ghuu.NghaTa khola duu.n, khola duu.n
+tere aa.Nchala para koI gIt likhuu.N, gIt likhuu.N
+tere ho.nTho.n me.n amR^ita ghola duu.N, ghola duu.N
+jaana\-e\-mana tuu hai kahaa.N
+o merii\threedots
+%
+#endindian
+\endsong
+%

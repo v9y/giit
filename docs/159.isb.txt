@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ai dil\-e\-naadaa.n, ai dil\-e\-naadaa.n, aarazuu kyaa hai}%
+\film{Razia Sultan}%
+\year{}%
+\starring{Dharamendra, Hema}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: Jasjit Singh (jasjit@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@isc.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(ai dil\-e\-nAdaan, ai dil\-e\-nAdaan,
+aarazuu kyaa hai, justajuu kyaa hai ) \- 2
+ai dil\-e\-nAdaan\threedots
+
+ham bhaTakate hai.n, kyo.n bhaTakate hai.n, dashto\-seharaa me.n
+aisaa lagataa hai, mauj pyaasii hai, apane dariyaa me.n
+kaisii ulajhan hai, kyo.n ye ulajhan hai
+ek saayaa saa, rU\-baruu kyaa hai
+ai dil\-e\-nAdaan, ai dil\-e\-nAdaan,
+aarazuu kyaa hai, justajuu kyaa hai
+
+kyaa qayaamat hai, kyaa musiibat hai,
+kah nahii.n sakate, kisakaa aramaa.N hai
+zi.ndagii jaise, khoyii\-khoyii hai, hairaa.n hairaa.n hai
+ye zamii.n chup hai, aasamaa.n chup hai
+phir ye dha.Dakan sii, chaar sU kyaa hai
+ai dil\-e\-nAdaan, ai dil\-e\-nAdaan,
+
+aisii raaho.n me.n, kitane kaa.NTe hai.n,
+Arazuuo.n ne, Arazuuo.n ne,
+har kisii dil ko, dard baa.NTe hai.n,
+kitane ghaayal hai.n, kitane bismil hai.n,
+is khudaaii me.n, ek tuu kyaa hai
+ek tuu kyaa hai, ek tuu kyaa hai
+ai dil\-e\-nAdaan, ai dil\-e\-nAdaan,
+%
+#endindian
+\endsong
+%

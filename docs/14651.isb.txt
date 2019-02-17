@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jo bhii chaahuu.n vo mai.n paa_uu.n ... bas itanaa saa khvaab hai}%
+\film{Yes Boss}%
+\year{1997}%
+\starring{Shahrukh Khan, Juhi Chawala, Aditya Pancholi}%
+\singer{Abhijit}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo bhii chaahuu.n vo mai.n paa_uu.n zi.ndagii me.n jiit jaa_uu.n
+chaa.Nd taare to.D laa_uu.n saarii duniyaa pe mai.n chhaa_uu.n
+bas itanaa saa khvaab hai
+
+yaar tuu bhii sun zaraa aarazuu merii hai kyaa
+maan jaa e Kudaa itanii hai du_aa mai.n ban jaa_uu.n sabase ba.Daa
+mere piichhe mere aage haath jo.De.n duniyaa vaale
+bas itanaa saa khvaab hai \threedots
+
+shaan se rahuu.n sadaa mujh par log ho.n fidaa
+hasiinaa_e.n dil khotii.n
+dil par kamal khile.n sone kaa mahal mile
+barasane lage.n hiire motii
+maan jaa e Kudaa bas itanii sii hai du_aa
+mai.n jyaadaa nahii.n maa.ngataa
+saarii duniyaa saarii taakat saarii duniyaa me.n ho hukuumat
+bas itanaa saa khvaab hai \threedots
+%
+#endindian
+\endsong
+

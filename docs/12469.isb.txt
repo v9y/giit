@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{hoke man aaj magan naache re chhanan chhanan}%
+\film{Khilaadi}%
+\year{1992}%
+\starring{Akshay Kumar, Ayesha, Deepak Tijori, Sabeeha, Johny Lever, Tinu Anand}%
+\singer{Asha, Abhijit, Udit Narayan}%
+\music{Jatin Lalit}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hoke man aaj magan naache re chhanan chhanan aajaa piyaa ab to aajaa
+sun ke terii paayal kii chham chham dekh mai.n aa gayaa
+hoke man aaj magan \threedots
+
+raato.n ko nii.nd aatii nahii.n mujhako bolo sajan
+aa ga_ii tujhape javaanii
+pyaar hotaa hai kyaa zaraa mujhako bataa
+itanii bholii na ban mujhe yuu.n naa banaa
+gorii ha.N tohe haa.N sab pataa re
+hoke man aaj magan \threedots
+
+jo mai.n gayaa ruuTh kar tujh se to kyaa karegii bataa
+yaad tujhako karuu.ngii
+gar lauTakar phir naa aayaa to kyaa haal hogaa teraa
+mai.n to jii na sakuu.ngii
+jaan maine to kii tere sa.ng dillagii
+terii ye dillagii jaan legii merii
+chho.D gussaa muskaraa re
+hoke man aaj magan \threedots
+
+terii merii jo.Dii lagatii hai kaisii bataa_o piyaa
+jaise cha.ndaa chakorii
+ek duuje ke a.ng lagakar chale.n sa.ng kaise bataa
+ho jyo.n pata.ng aur Dorii
+tuu hai meraa sanam tuu hai meraa Kudaa
+miit mai.n tuu sadaa kaise ho.nge judaa
+pyaar haa.N mai.n huu.N haa.N tuu vafaa re
+hoke man aaj magan \threedots
+%
+#endindian
+\endsong
+

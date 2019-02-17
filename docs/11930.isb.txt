@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{halkaa halkaa dard hai dard ye bedard hai ... merii tuu tuu hii tuu}%
+\film{International Khilaadi}%
+\year{1999}%
+\starring{Akshay Kumar, Twinkle Khanna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+halkaa halkaa dard hai dard ye bedard hai
+chal gayaa hai pyaar kaa jaaduu haa.N merii tuu tuu hii tuu
+
+halkaa halkaa dard hai dard ye bedard hai
+dha.Dakano.n pe chhaa gayaa hai tuu hii tuu meraa tuu tuu hii tuu
+tuu hii tuu
+
+ghanere the jitane a.ndhero.n ke saa_e
+muhabbat ke utane diye jagamagaa_e
+kabhii tum the tanhaa ye dil se bhulaa do
+betaab huu.N mai.n apanaa banaa lo
+halkaa halkaa dard hai \threedots
+
+vafaa_o.n ne terii sa.mbhaalaa hai mujhako
+mai.n apanii aa.Nkho.n me.n basaa luu.ngaa tujhako
+tumhe.n chuumatii hai.n ye merii nigaahe.n
+mujhe mil ga_ii hai.n chaahat kii raahe.n
+halkaa halkaa dard hai \threedots
+%
+#endindian
+\endsong
+

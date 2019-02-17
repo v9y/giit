@@ -1,0 +1,74 @@
+%
+\startsong
+\stitle{raajadulaarii biTiyaa rii tohe}%
+\film{Angaare}%
+\year{1954}%
+\starring{Nargis, Nasir Khan}%
+\singer{Lata, chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: October 06, 1999
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+chorus:
+(tum tum dhuum dhaam tum tum dhum dhaam tum tum dhuum dhaam
+naacho gaa_o naacho gaa_o naacho gaa_o mil\-jul kar) \-2
+
+la: he~e~e~e raajadulaarii biTiyaa rii tohe merii umar lag jaaye
+
+ko: jiyo jiyo jiyo
+
+la: he~e~e~e raajadulaarii biTiyaa rii tohe merii umar lag jaaye
+ko: jiyo jiyo jiyo
+
+la: merii suunii duniyaa.N me.n tuu chandaa banake aa_ii
+ko: aa_ii re aa_ii chandaa banake aa_ii
+la: o~o~o nain kii jyoti aas kii motii dil kii ThaNDak laa_ii
+ko: laa_ii re laa_ii dil kii ThaNDak laa_ii
+la: o~o~o raam kare rakhavaalii ho kabhii tujhape aa.Nch na aaye
+ko: jiyo jiyo jiyo
+
+la: he~e~e~e raajadulaarii biTiyaa rii tohe merii umar lag jaaye
+ko: jiyo jiyo jiyo
+
+ko:(tum tum dhuum dhaam tum tum dhum dhaam tum tum dhuum dhaam
+    naacho gaa_o naacho gaa_o naacho gaa_o mil\-jul kar) \-2
+
+la: ha.Nsake lahake khilake mahake terii jiivan Daalii
+ko: Daalii re Daalii terii jiivan Daalii
+la: o~o~o tujhako paakar mai.n ne saare jag kii daulat paa lii
+ko: paa lii re paa lii jag kii daulat paa lii
+la: o~o~o raam kare rakhavaalii ho kabhii tujhape aa.Nch na aaye
+ko: jiyo jiyo jiyo
+
+la: he~e~e~e raajadulaarii biTiyaa rii tohe merii umar lag jaaye
+ko: jiyo jiyo jiyo
+
+ko:(tum tum dhuum dhaam tum tum dhum dhaam tum tum dhuum dhaam
+    naacho gaa_o naacho gaa_o naacho gaa_o mil\-jul kar) \-2
+
+la: aa.Nkh michaulii khel rahe hai.n sapane pyaare pyaare
+    sapane pyaare pyaare
+    aaj gale se lag jaa lag jaa, aaj gale se lag jaa
+    pyaasii mamataa tujhe pukaare
+    pyaasii mamataa tujhe pukaare
+    pyaasii mamataa tujhe pukaare
+    raam kare rakhavaalii ho kabhii tujhape aa.Nch na aaye
+ko: jiyo jiyo jiyo
+
+la: he~e~e~e raajadulaarii biTiyaa rii tohe merii umar lag jaaye
+    merii umar lag jaaye
+    merii umar lag jaaye
+    merii umar lag jaaye
+
+%
+#endindian
+\endsong
+%

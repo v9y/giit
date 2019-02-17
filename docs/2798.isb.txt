@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chalo chale.n re saajan}%
+\film{Payal}%
+\year{1960}%
+\starring{Sunil dutt, Padmini}%
+\singer{Hemant, Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+la: chalo chale.n re saajan dhiire\-dhiire
+    balam dhiire\-dhiire safar hai pyaar kaa
+he: kho_ii kho_ii hai ye raat ra.ngiilii
+    nazar hai nashiilii samaa iiqaraar kaa \threedots
+
+la: aa.Nkho.n me.n khushii kii lahare.n
+    aur dil me.n muhabbat bhii javaa.N
+he: do dil hai.n basaane
+    ik pyaar kii duniyaa aaj yahaa.N
+do: ik pyaar kii duniyaa aaj yahaa.N \threedots
+
+he: gum\-sum sii hai ye duniyaa saarii
+    khaamosh nadii ke kinaare hai.n
+la: hai chaa.Nd mere pahaluu me.n
+    daaman me.n chamakate taare hai.n
+do: daaman me.n chamakate taare hai.n \threedots
+
+%
+#endindian
+\endsong
+%

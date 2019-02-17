@@ -1,0 +1,34 @@
+% ITRANS SONG
+
+\startsong
+\stitle{wohii mizaaj wohii chaal hai zamaane kii}%
+\film{Once More (Non-Film)}%
+\year{1990}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{}%
+\lyrics{Saeed Raahi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+%prelude
+ek hame.n aawaaraa kahanaa ko_ii ba.Daa ilzaam nahii.n
+duniyaa waale dil waalo.n ko aur bahut kuchh kahate hai.n
+
+wohii mizaaj wohii chaal hai zamaane kii
+hame.n bhii ho ga_ii aadat fareb khaane kii
+
+mai.n saare shahar me.n tanhaa nahii.n hu_aa ruswaa
+sazaa milii hai tumhe.n bhii to dil lagaane kii
+
+sharaab milatii hai lekin hamaarii pyaas se kam
+ajiib rasm hai saaqii yahaa.N pilaane kii
+
+nazar bachaa ke tumhe.n dekhataa huu.N mahafil me.n
+nazar lage na kahii.n tumako is diwaane kii
+
+#endindian
+\endsong

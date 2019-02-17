@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{niil gagan par u.Date baadal aa aa aa}%
+\film{Khandaan}%
+\year{}%
+\starring{Sunil Dutt, Nutan}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Umesh Garg (garg@neon.helios.nd.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Oct 22 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+niil gagan par u.Date baadal aa aa aa
+dhuup me.n jalataa khet hamaaraa, kar de tuu chhaayaa
+chhupe hue o cha.nchal pa.nchhii, jaa jaa jaa
+dekh abhii hai kachchaa daanaa pak jaae to khaa
+
+bahataa\-bahataa kyaariyo.n me.n Tha.nDaa\-Tha.nDaa paanii
+chuum na le kahii.n paa.Nv tere, o kheto.n kii raanii
+chuum ke mere paa.Nv maile vo hogaa mailaa
+mai.n huu.N kheto.n kii daasii tuu kheto.n kaa raajaa
+
+harii\-bharii in khetiyo.n kii raam kare rakhavaalii
+vo chaahe to sau\-sau daane degii ek\-ek Daalii
+mehanat\-vaalo.n kii sunataa hai vo uupar\-vaalaa
+khol ke rakhiyo apanii jholii bhar degaa daataa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{aayaa hai tere dar pe savaalii}%
+\film{Daastaan-E-Lailaa Majnu}%
+\year{1974}%
+\starring{Anamika, Kanwaljeet, Dheeraj, Jaishri T, K N Singh}%
+\singer{Rafi}%
+\music{Iqbal Qureshi}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10245 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+% Part 1:
+%
+aayaa hai tere dar pe savaalii
+daaman naa meraa rah jaa_e khaalii
+aastaane se tere
+%
+% Part 2:
+%
+aayaa hai tere dar pe savaalii
+tere li_e to hastii miTaa lii
+jab tuu nahii.n to rah gayaa kyaa
+mujhako Kabar kyaa mujhako pataa kyaa
+kyaa chiiz kho dii kyaa chiiz paa lii
+tere li_e to hastii \threedots
+
+is dar pe e dil khaalii sadaa de
+mujhako pataa kyaa jaane vo kyaa de
+ai jaan\-e\-aalam kaasaa hai khaalii
+tere li_e to hastii \threedots
+
+% kaasaa: bowl that sages carry in their hands, 
+%
+#endindian
+\endsong
+

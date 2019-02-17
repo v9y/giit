@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{hotaa rahaa yuu.Nhii agar a.njaam vafaa kaa}%
+\film{Malhaar}%
+\year{1951}%
+\starring{Shammi, Arjun, Moti Sagar}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Indeevar}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+hotaa rahaa yuu.Nhii agar a.njaam vafaa kaa
+legaa na zamaane me.n koii naam vafaa kaa
+
+sinduur kii laalii hai kisii ke suhaag me.n
+jiite jii jal rahaa hai koii Gam kii aag me.n
+is ke sivaa hogaa bhii kyaa a.njaam vafaa kaa
+legaa na    \threedots
+
+jaakar nahii.n aanaa jise kyo.n dekhe vo mu.Dake
+milate nahii.n hamaraahii doraahe pe bichha.Dake
+maluum hai hotaa hai jo a.njaam vafaa kaa
+legaa na    \threedots
+
+qasame.n nahii.n nibhatii dhare rah jaate hai.n vaade
+ye ret kii diivar hai jo chaahe giraa de
+sau kaam jafaao.n ke hai.n ik kaam vafaa kaa
+legaa na    \threedots
+
+%
+#endindian
+\endsong
+%

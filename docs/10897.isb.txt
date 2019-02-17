@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{dil se dil kii Dor baa.Ndhe chorii\-chorii jaane}%
+\film{Chhaya}%
+\year{1961}%
+\starring{Sunil Dutt, Asha Parekh}%
+\singer{Mukesh, Lata}%
+\music{Salil Chaudhary}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10336 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	dil se dil kii Dor baa.Ndhe chorii\-chorii jaane
+	ham\-tum tum\-ham sa.ng\-sa.ng chale ( aaj kahaa.N ) \-2
+la \:	dil se dil kii Dor \threedots
+
+mu \:	qadam milaakar chale udhar le ke chale ye pyaar jidhar
+la \:	pyaar ke raahii tuu hii bataa Katm kahaa.N hogaa ye safar
+mu \:	jahaa.N pe gaa_e dil kii saragam jhuum jhuum ko_ii
+	ham\-tum tum\-ham \threedots
+
+la \:	na_ii sii duniyaa nayaa samaa.N chhupaa hu_aa thaa pyaar kahaa.N
+mu \:	chhupaa hu_aa thaa yahii.n\-kahii.n Kabar ye dil ko magar nahii.n
+la \:	haTaa_o paradaa pyaar jagaa chalo basaa le.n
+	ham\-tum tum\-ham sa.ng\-sa.ng ek ( nayaa jahaa.N ) \-2
+do \:	dil se dil kii Dor \threedots
+%
+#endindian
+\endsong
+

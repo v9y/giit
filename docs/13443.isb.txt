@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chuu.Dii jo khanakii ... yaad piyaa kii aane lagii}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Phalguni Pathak, Chorus}%
+\music{Lalit Sen}%
+\lyrics{Lalit Sen}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khan khan khanake haath me.n
+khan khan haath me.n
+chuu.Dii jo khanakii haatho.n me.n haay haay
+yaad piyaa kii aane lagii haay bhiigii bhiigii raato.n me.n
+khan khan khan khan khan khan khan
+yaad piyaa kii \threedots
+
+Tha.nDii Tha.nDii pavan chale tan man me.n haay aag lage
+tere pyaar kii chi.ngaarii a.ng a.ng me.n haay mere jale
+rimajhim sii barasaato.n me.n haay haay
+yaad piyaa kii \threedots
+
+baagaa.n me.n koyal he bole hai dekho mor papiihaa naache hai
+
+abake baras haay ye saavan jaan na merii le jaa_e
+dhak dhak moraa jiyaa kare tan se chunar jab u.D jaa_e
+bole jo koyal baago.n me.n haay haay
+yaad piyaa kii \threedots
+%
+#endindian
+\endsong
+

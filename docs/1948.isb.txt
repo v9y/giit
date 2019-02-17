@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye samaa, samaa hai ye pyaar kaa}%
+\film{Jab Jab Phool Khile}%
+\year{1965}%
+\starring{Shashi Kapoor, Nanda}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator:  Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc
+%          Anand P. Narayan (narayan@ucsu.Colorado.EDU)
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye samaa
+samaa hai ye pyaar kaa
+kisii ke i.ntazaar kaa
+dil naa churaale kahii.n meraa
+mausam bahaar kaa
+ye samaa\threedots
+
+basane lage aa.Nkho.n me.n
+kuchh aise sapane
+koii bulaae jaise
+naino.n se apane \- (2)
+ye samaa\threedots
+
+milake khayaalo.n me.n hii
+apane balam se
+nii.nd ga.nvaa.Nii apanii
+mai.nne qasam se \- (2)
+ye samaa\threedots
+%
+#endindian
+\endsong
+%

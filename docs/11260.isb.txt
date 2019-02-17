@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{jab ek kazaa se guzaro to ik aur kazaa mil jaatii hai}%
+\film{Dhan Daulat}%
+\year{1980}%
+\starring{Rajendra Kumar, Mala Sinha, Rishi Kapoor, Prem Chopra, Premnath}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10764 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	haay gili gili vaah re
+	jiinaa kyaa ajii pyaar binaa jiivan ke yahii chaar dinaa \-2
+	dhan\-daulat binaa chale magar zindagii naa chale yaar binaa
+	milii duniyaa to mazaa hai ki mile dil bhii
+	bindiyaa bhii chamake jo baje paayal bhii
+ko \:	milii duniyaa to \threedots
+aa \:	jiinaa kyaa ajii pyaar \threedots
+
+	( sapane puure hu_e aaj din phirate nahii.n derii
+	sun to mere hasii.n aaj ik tuu hii nahii.n
+	saarii duniyaa hai hasii.n ) \-2
+ki \:	yahaa.N to terii qasam pyaar vaalo.n me.n sanam
+	apanaa pahalaa naam aa_e \-2
+aa \:	ho milii duniyaa to \threedots
+ki \:	jiinaa kyaa ajii pyaar \threedots
+aa \:	dhan\-daulat binaa \threedots
+do \:	milii duniyaa to \threedots
+%
+#endindian
+\endsong
+

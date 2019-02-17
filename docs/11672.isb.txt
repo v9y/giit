@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mujhako jiine kaa bahaanaa mil gayaa hai}%
+\film{Garib}%
+\year{1942}%
+\starring{Surendra, Rose, Baby Meena, Veena Kumari, Sankata}%
+\singer{Surendra Nath}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: BOL ANAMOL #12274 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+mujhako jiine kaa bahaanaa mil gayaa hai \-2
+tum mile goyaa zamaanaa mil gayaa hai \-2
+mujhako jiine kaa bahaanaa mil gayaa hai \-2
+
+tujhako ai chitawan mubaarik meraa dil \-2
+mast karane ko nishaanaa mil gayaa hai \-2
+mujhako jiine kaa bahaanaa mil gayaa hai \-2
+
+naaz hai taqadiir par apane mujhe \-2
+tere kuuche me.n Thikaanaa mil gayaa hai \-2
+mujhako jiine kaa bahaanaa mil gayaa hai \-2
+
+tum mile goyaa zamaanaa mil gayaa hai \-2
+mujhako jiine kaa bahaanaa mil gayaa hai \-2
+%
+#endindian
+\endsong
+%
+

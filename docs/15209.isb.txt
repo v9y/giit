@@ -1,0 +1,48 @@
+% ITRANS SONG
+
+\startsong
+\stitle{saath jiye.nge saath mare.nge ... naa jaa mere saathii naa jaa}%
+\film{Saarangaa}%
+\year{1960}%
+\starring{Sudesh Kumar, Jaishri Gadkar, Neelofar, B M Vyas, Niranjan Sharma}%
+\singer{Rafi, Chorus}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ra \:	saath jiye.nge saath mare.nge
+	ye waadaa kyuu.N to.D diyaa
+	Kud to tum chal pa.De akele
+	hame.n raah me.n chho.D diyaa
+
+	naa jaa mere saathii naa jaa \-3
+
+	aisii ek aag jagegii \-2
+	duniyaa shamashaan lagegii
+	taare a.ngaare ho.nge
+	dharatii kii ruuh jalegii
+	phuul kaa ra.ng u.Degaa
+	ambar kaa chaa.Nd chhupegaa
+	tere bin jiivan saathii
+	jiiwan kaa diip bujhegaa
+
+	naa jaa mere saathii naa jaa \-3
+
+	aisaa tuufaan uThegaa \-2
+	ghan ghan baadal garajegaa
+	ka.D ka.D bijalii ka.Dakegii
+	saaraa sansaar jalegaa
+	ye dil ab zahar piyegaa
+	tere bin kaun jiyegaa
+	TuuTaa jab jiiwan dhaagaa
+	kaise ko_ii zaKm siyegaa
+
+	naa jaa mere saathii naa jaa \-3
+
+#endindian
+\endsong

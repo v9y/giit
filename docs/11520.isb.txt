@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jab dil churaa_e ko_ii ... dil sochataa hai aur rotaa hai zaar zaar}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Alka Yagnik, Babul Supriyo}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab dil churaa_e ko_ii apanaa banaa_e ko_ii
+sapane dikhaa_e aur ho jaa_e phir judaa
+chaahat ke sab afasaane dil jinako sach hii maane
+banake vo rah jaate hai.n ik anasunii sadaa
+o kyuu.N dekhe hamane chaahat ke sapane
+dil sochataa hai aur rotaa hai zaar zaar
+jab dil churaa_e \threedots
+
+ye duuriyaa.N dil kii majabuuriyaa.N dil kii
+sach hai magar phir bhii maane naa dil meraa
+bhiigii sii aa.Nkho.n me.n suunii sii raaho.n me.n
+ham le chale hai.n kitanii yaado.n kaa kaaravaa.N
+ho ab man hii man me.n diivaanepan me.n
+dil sochataa hai aur rotaa hai zaar zaar
+jab dil churaa_e \threedots
+
+dil me.n tamannaa hai dil me.n iraade hai.n
+khvaabo.n ke mele lekar jaa_e.N bhii to kahaa.N
+kuchh tum na kah sake kuchh ham na kah sake
+jaane kyuu.N ho jaatii hai khaamosh ye zubaa.n
+ho kyaa dil ko ho gayaa hai kyaa dil kaa kho gayaa hai
+dil sochataa hai aur rotaa hai zaar zaar
+jab dil churaa_e \threedots
+%
+#endindian
+\endsong
+

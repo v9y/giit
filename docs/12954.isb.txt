@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n\-aa.Nkho.n me.n ham\-tum ho ga_e diivaane}%
+\film{Mahal}%
+\year{1969}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Kishor, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11087 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	aa.Nkho.n\-aa.Nkho.n me.n ham\-tum ho ga_e diivaane
+aa \:	baato.n\-baato.n me.n dekhaa ban ga_e afasaane
+ki \:	aa.Nkho.n\-aa.Nkho.n \threedots
+
+ki \:	ham ajanabii the tum the paraa_e
+	ik duusare ke dil me.n samaa_e
+	ham aur tum me.n uf ye mohabbat kaise ho ga_ii
+	ham tum jaane nahii.n jaane
+aa \:	baato.n\-baato.n \threedots
+
+ki \:	kitanii hasiin ye tanahaa_iyaa.N hai.n
+aa \:	tanhaa_iyo.n me.n rusvaa_iyaa.N hai.n
+ki \:	rusavaa_iyo.n se Darate nahii.n ham
+la \:	chhe.Do pyaar kii baate.n
+ki \:	chho.Do ye bahaane
+do \:	aa.Nkho.n\-aa.Nkho.n \threedots
+%
+#endindian
+\endsong
+

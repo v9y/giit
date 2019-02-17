@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{pyaar huaa hai jab se mujh ko nahii.n chain aataa}%
+\film{Abhilasha}%
+\year{}%
+\starring{Sanjay Khan, Meena Kumari, Nanda, Rehman}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+pyaar huaa hai jab se mujh ko nahii.n chain aataa
+chhup ke nazar se bhii tuu dil se nahii.n jaataa
+are pyaar huaa hai jab se \threedots
+
+lipaTii hai tuu merii hii baaho.n se
+phir hai sajanaa ojhal kyo.n merii nigaaho.n se
+mai.n huu.N tere dil haay me.n phir bhii merii jaa.N
+tuu ne hii mujhako nahii.n dekhaa mai.n karuu.N kyaa?
+are pyaar huaa hai jab se \threedots
+
+rakhanaa dil ko le kar in haatho.n me.n
+dil hai paagaal aanaa na tuu is kii baato.n me.n
+lekin is dil pe, are, qaabuu kis ko
+ye to hai teraa diivaanaa mai.n karuu.N kyaa?
+are pyaar huaa hai jab se \threedots
+
+juujhaa tere gesu bikharaane me.n
+milataa hai kyaa ai zaalim mujhe sataane me.n
+tujhako ulajhaa ke mujhako merii jaa.N
+achchhii lagatii hai terii suurat mai.n karuu.N kyaa?
+are pyaar huaa hai jab se \threedots
+
+%
+#endindian
+\endsong
+%

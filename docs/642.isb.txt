@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ha.Nsake bolaa karo bulaayaa karo ##jagjit gazal##}%
+\film{non-Film}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Abdul Hameed Adam}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ha.Ns ke bolaa karo bulaayaa karo
+aapakaa ghar hai aayaa jaayaa karo
+
+muskuraahaT hai husn kaa zevar
+muskuraanaa na bhuul jaayaa karo, 
+aapakaa \threedots
+
+had se ba.Dhakar hasIn lagate ho
+jhUThii kasame.n zarUr khaayaa karo, 
+aapakaa \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,70 @@
+% ITRANS SONG
+
+\startsong
+\stitle{zulf hai dosh par ... suurat ho to aisii ho}%
+\film{Baarish}%
+\year{1957}%
+\starring{Devanand, Nutan, Jagdish Sethi, Lalita Pawar, Gop, Anwar, Kumkum}%
+\singer{Talat, Rafi, Chitalkar, Francis Waz, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ta :	aa.n
+	zulf hai dosh pe yaa saa.Np hai balakhaayaa hu_aa
+	chaal jaise mor ko_ii raks me.n aayaa hu_aa
+	e dil ki dushman hai.n ye aa.Nkho.n ke gulaabii Dore
+	bach ke jaayegaa kahaa.N choT ko_ii khaayaa hu_aa
+	ek nazar me.n dil le jaaye \-2
+	suurat ho to aisii ho \-2
+	dekh jise chandaa sharamaaye
+	suurat ho to aisii ho \-2
+
+ra \:	aa
+	ek ek akh terii puure sawaa lakh dii hai o
+	zi.ndagii saaDDii tere agge fakat takh dii hai o
+	so.ndiyaa.N jaag diyaa.N ho.nTho.n pe naam hai teraa o
+	o soniyo tiisarii baar terii galii kaa aaj pheraa hai o
+	are dekh ke mu.Nh se nikale haay \-2
+	suurat ho to 
+ko \:	aisii ho 
+	suurat ho to aisii ho
+	ek nazar me.n dil le jaaye
+	suurat ho to aisii ho \-2
+	dekh jise chandaa sharamaaye
+	suurat ho to aisii ho \-2
+
+% some other language lyrics
+	ek nozor me.n dil le jaaye \-2
+	suurat ho to 
+ko \:	aisii ho 
+	suurat ho to aisii ho
+	ek nazar me.n dil le jaaye
+	suurat ho to aisii ho \-2
+	dekh jise chandaa sharamaaye
+	suurat ho to aisii ho \-2
+
+chi \:	haay re haay re
+	baaT chalat hai Thumak Thumak
+thaa tha_ii
+	baaT chalat hai Thumak Thumak kyuu.N gopii bri.ndaaban kii
+	jo dekhat so sudh budh bhuulat pal chhin me.n tan man kii
+	ye do nainaa mad ke pyaale kesh ye ghuu.Nghar waale
+	are ruup daas aayaa hai le ke abhilaaShaa darshan kii
+	hoy
+	a.ng a.ng bijalii laharaaye \-2
+	suurat ho to 
+ko \:	aisii ho 
+	suurat ho to aisii ho
+	ek nazar me.n dil le jaaye
+	suurat ho to aisii ho \-2
+	dekh jise chandaa sharamaaye
+	suurat ho to aisii ho \-2
+ 
+#endindian
+\endsong

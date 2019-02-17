@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{are hai ... ho kaise zaalim se pa.D gayaa paalaa re}%
+\film{Chamkee}%
+\year{1952}%
+\starring{Ragini, Shekhar, Roopmala, Ulhas,  Murad, Cukoo}%
+\singer{Mukesh}%
+\music{Manna De}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11424 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+are hai
+ho kaise zaalim se pa.D gayaa paalaa re
+binaa maut mujhe maar Daalaa re
+haay re binaa maut mujhe maar Daalaa re
+
+kha.De khi.Dakii me.n hai.n ba.Dii shaan se
+baate.n karate hai.n vah aasamaan se
+kis adaa se dupaTTaa sa.mbhaalaa re
+haay mere dil pe chalaate hai.n bhaalaa re
+binaa maut mujhe \threedots
+
+ba.De Kaamosh hai.n aajakal vah
+dekho kitane ga_e hai.n badal vah
+aijii dekho kitane ga_e hai.n badal vah
+jhukii nazare.n labo.n par hai taalaa re
+binaa maut mujhe \threedots
+
+ham bhii aadamii kabhii the ba.De kaam ke
+meraa ishq ne niakaalaa diivaalaa re
+ajii dekho kaise hu_aa ye ghuTaalaa re
+binaa maut mujhe \threedots
+%
+#endindian
+\endsong
+

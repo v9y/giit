@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{tere pyaar me.n huye badanaam ham loTe kii qasam Thaalii kii qasam}%
+\film{Toote Khilaune}%
+\year{1954}%
+\starring{Shekhar, Poornima, Gulab, Ranjeet Kumari, Ginger (dog)}%
+\singer{Shamshad, Chitragupt}%
+\music{Chitragupt}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #12290 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+chi \:	tere pyaar me.n huye badanaam ham
+	loTe kii qasam Thaalii kii qasam \-2
+sha \:	bhuule ghar ke sab kaam ham
+	aaluu kii qasam gobhii kii qasam \-2
+chi \:	tere pyaar me.n huye badanaam ham
+	loTe kii qasam Thaalii kii qasam
+sha \:	bhuule ghar ke sab kaam ham
+	aaluu kii qasam gobhii kii qasam
+
+chi \:	( din raat muhobbat me.n terii
+	chuulhe kii tarah ham jalate rahe
+	haay jalate rahe ) \-2
+sha \: ( ham dil kii ka.Dhaa_ii me.n baalam
+	tere pyaar ke bhajiye talate rahe ) \-2
+chi \:	chuulhe kii tarah ham jalate rahe
+	jalate rahe subah\-o\-shaam ham
+	koyale kii qasam laka.Dii kii qasam \-2
+
+sha \:	tere pyaar me.n huye badanaam ham
+	loTe kii qasam Thaalii kii qasam
+chi \:	bhuule ghar ke sab kaam ham
+	aaluu kii qasam gobhii kii qasam
+
+sha \:	( naino.n kii raqaabii me.n rakh ke
+	ham pyaar kii barafii laa na sake
+	haay laa na sake ) \-2
+chi \:	teraa jalawaa miiThaa halawaa hai
+	jii bhar ke ise ham khaa na sake
+	o teraa jalawaa miiThaa halawaa hai
+	jii bhar ke ise ham khaa na sake \-2
+sha \:	tum piste aur baadaam ham
+	pe.De kii qasam barfii kii qasam \-2
+
+do \:	tere pyaar me.n huye badanaam ham
+	loTe kii qasam Thaalii kii qasam \-2
+	bhuule ghar ke sab kaam ham
+	aaluu kii qasam gobhii kii qasam \-2
+%
+#endindian
+\endsong
+%
+

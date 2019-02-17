@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{haTo kaahe ko jhuuTiii banaa_o batiyaa.N}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+haTo kaahe ko jhuuTiii banaa_o batiyaa.N
+
+Gair kaa saath hai aur roz mulaaqaate.n hai.n
+pyaar hai us ke liye aur ham se faqat baate.n hai.n
+jaao jaao jaao jhuuThii baat na banaao
+jal rahii virah me.n sai.nyaa aur na jalaao
+...
+haTo kaahe ko jhuuTii \threedots
+
+ye u.Dii u.Dii sii ra.ngat
+ye khule khule se gesu
+terii subah kah rahii hai
+terii raat kaa fasaanaa
+dekho jii kisii kaa pyaar ham se na chhupaao
+sab hame.n pataa hai pyaare nain na jhukaao
+suno kahatii hai kyaa kyaa tumharii akhiyaa.N
+haTo kaahe ko jhuuTii \threedots
+
+%
+#endindian
+\endsong
+%

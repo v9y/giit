@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{lo chalii mai.n apane devar kii baaraat le ke}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Renuka Shahane, Madhuri Dixit, Salmaan Khan}%
+\singer{Lata}%
+\music{Ram Laxman}%
+\lyrics{Ravinder Rawal}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+lo chalii mai.n apanii devar kii baaraat le ke lo chalii mai.n
+na baiND bajaa, na hii baaraatii, khushiyo.n kii saugaat le ke
+lo chalii mai.n   \threedots
+
+devar dulhaa banaa, sar pe seharaa sajaa
+bhaabhii ba.Dhakar aaj balaa_iyaa.N letii hai
+prem kii kaliyaa.N khile, pal pal khushiyaa.N mile
+sachche man se aaj duaae.N detii hai
+gho.De pe cha.Dh ke, chalaa hai baa.Nkaa, apanii dulhan se milane
+lo chalii mai.n   \threedots
+
+vaah! vaah! raam jii, jo.Dii kyaa banaa_ii
+devar devaraaniijii, badhaa_ii ho badhaa_ii
+sab rasamo.n se ba.Dii hai jag me.n dil se dil kii sagaa_ii
+
+aaj hai shubh gha.Dii, aaj banii mai.n ba.Dii
+kal tak ghar kii bahu thii, ab huu.N jeThaanii
+huqum chalaa_uu.Ngii mai.n, aa.Nkh dikhaa_uu.Ngii mai.n
+sahamii kha.Dii rahegii merii devaraanii
+hazaar sapane, palako.n me.n apane diivaanii mai.n saath le ke
+lo chalii mai.n   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{itane qariib aake bhii na jaane kis liye}%
+\film{Shagun}%
+\starring{}%
+\singer{Talat, Mubarak Begum}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+% 
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+% Date: 
+% Credits: 
+% Editor:  
+% Comments:  
+%
+%\printtitle
+#indian
+%
+t : itane qariib aake bhii kyaa jaane kis liye (2)
+    kuchh ajanabii se aap hai.n, kuchh ajanabii se ham
+    kuchh ajanabii se aap hai.n
+m : vo ek baat jo thii faqat aap ke liye (2)
+    vo ek baat kah na sake aap hii se ham (2)
+    kuchh ajanabii se aap hai.n
+ 
+t : aisii to ko_ii qaid nahii.n dil kii baat par
+    apas kii baat hai to Dare kyo.n kisii se ham
+    kuchh ajanabii se aap hai.n   \threedots
+
+m : tum duur ho to maut bhii aaye na ham ko raas (2)
+    tum paas to jaan bhii de de khushii se ham
+    kuchh ajanabii se aap hai.n   \threedots
+
+t : maut ek vaham, aur haqiikat hai zi.ndagii
+    ik duusare ko maa.Nge.nge is zi.ndagii se ham
+do: ik duusare ko maa.Nge.nge is zi.ndagii se ham
+    ik duusare ko maa.Nge.nge 
+%
+#endindian
+\endsong
+%

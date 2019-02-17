@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{khudaa bhii aasamaa.N se jab zamii.n par dekhataa hogaa}%
+\film{Dharti}%
+\year{1970}%
+\starring{Rajendra Kumar, Waheeda Rehman, Kamini Kaushal, Balraj Sahni}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  Sanjeev Ramabhadran (sanjeevr@phoenix.princeton.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Nita Awatramani
+%
+\printtitle 
+#indian
+%
+khudA bhI aasamaa.N se jab zamI.n par dekhatA hogA
+mere mahabUb ko kisane banAyA sochatA hogA
+khudA bhI \threedots
+
+musavvir khud pareshaa.n hai ke ye tasvIr kisakI hai
+banogI jisakI tum aisI hasI.n taqadIr kisakI hai
+kabhI vo jal rahA hogA, kabhI khush ho rahA hogA
+khudA bhI \threedots
+
+zamaane bhar kii mastii ko nigaaho.n me.n sameTaa hai
+kalii se jism ko kitane bahaaro.n ne lapeTaa hai
+nahii.n tum saa ko_ii pahale na ko_ii duusaraa hogaa
+Kudaa bhii \threedots
+
+farishte bhI yahaa.N raato.n ko aakar ghUmate ho.nge
+jahaa.N rakhatI ho tum paa.Nv, jagah vo chUmate ho.nge
+kisIke dil pe kyA guzarI, ye vo hI jaanatA hogA
+khudA bhI \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{manamohan man me.n ho tumhii.n}%
+\film{Kaise Kahoon}%
+\year{1964}%
+\starring{Biswajit, Nanda, Rehman, Naaz, Durga Khote, Manmohan Krishn}%
+\singer{Rafi, Suman Kalyanpur, S D Batish}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: Dhananjay Naniwadekar
+%
+\printtitle
+#indian
+%
+
+shi : a~ tanu~~um aa~ aa~ aa aa~
+su  : aa~ aa~ aa~ aa~ aa~
+shi : aa~ manamohan man me.n ho tumhii.n
+ra, su : manamohan man me.n ho tumhii.n
+         more a.ng a.ng tumhii.n samaaye
+    jaano ya jaano na ho tumahii
+    manamohan man ## SDB joins in, R+S fade out ## me.n \threedots
+R: manamohan man me.n man me.n
+S: ho tumhii.n ho tumhii.n ho tumhii.n
+R+S=manamohan man me.n ho tumhii.n
+more a.ng a.ng tumhii.n samaaye
+jaano yaa jaano naa ho tumhii.n
+manamohan ## SDB joins in, R+S fade out ## man me.n \threedots
+
+SDB: dekh dekh torii chhab saa.Nvariyaa
+R+S: dekh dekh torii chhab saa.Nvariyaa
+    banii hai raadhaa tumharii baa.Nvariyaa
+    rom rom tumhare guN gaaye
+    maano yaa maano naa ho tumhii.n
+    manamohan man ## R fade out, S alone ## me.n
+R: dekh dekh torii chhab saa.Nvariyaa
+S: ho~o bani hai raadha tumharii baa.Nvariyaa
+R+S: dekh dekh torii chhab saa.Nvariyaa
+    banii hai raadhaa tumharii baa.Nvariyaa
+    rom rom tumhare guN gaaye
+    maano yaa maano na ho tumhii.n
+    manamohan man(R fade out, S alone) me.n
+R: a~ aa~
+S: aa~ aa~ a~
+
+%
+#endindian
+\endsong
+%

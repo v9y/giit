@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ham yahaa.N tum yahaa.N dil javaa.N vo samaa.N lekin kahaa.N}%
+\film{Zakhm}%
+\year{1998}%
+\starring{Ajay Devgan, Sonali Bendre, Pooja Bhatt, Nagarjuna}%
+\singer{Kumar Sanu/ Alka Yagnik}%
+\music{M M Kreem}%
+\lyrics{Anand Bakshi}%
+%
+% contributor: BOL ANAMOL #11796 [V S Rawat]
+% producer: Pooja Bhatt Productions, Pooja Bhatt
+% director: Mahesh Bhatt
+% audio: HMV, The Gramaphone Comapny of India Ltd.
+% cassette: NHF 810337 Stereo, Cost: Rs 45/-, CD: 
+%
+\printtitle
+#indian
+%
+ku \:	( ham yahaa.N tum yahaa.N dil javaa.N vo samaa.N lekin kahaa.N
+	shuruu\-shuruu ke pyaar kaa
+	phir se chalo churaa_e.N dil yaar kaa ) \-2
+	ham yahaa.N tum yahaa.N
+
+	phir ho.n vahii baate.n phir ho.n vahii raate.n \-2
+	phir vahii ratajage phir vahii bechainiyaa.N
+	ham yahaa.N tum yahaa.N \threedots dil yaar kaa
+
+ko \:	ta raa raa rii 
+
+ku \:	jab kuchh kahe.n lab se pahale kahe.n sab se \-2
+	jaan\-e\-man merii jaa.N jaan\-e\-jaa.N jaan\-e\-jahaa.N
+	ham yahaa.N tum yahaa.N dil javaa.N vo samaa.N
+%
+% Part 2:
+%
+a \:	( ham yahaa.N tum yahaa.N dil javaa.N vo samaa.N lekin kahaa.N
+	shuruu\-shuruu ke pyaar kaa
+	phir se chalo churaa_e.N dil yaar kaa ) \-2
+	ham yahaa.N tum yahaa.N
+
+	nikale zaraa ghar se phir vo ghaTaa barase \-2
+	aag ye phir lage phir uThe dil se dhu_aa.N
+	ham yahaa.N tum yahaa.N \threedots dil yaar kaa
+
+ko \:	ta raa raa rii raa raa raa
+
+a \:	chaahaa tumhe.n kitanaa Dhuu.NDhaa tumhe.n kitanaa \-2
+	mil ga_e ham agar kho ga_e phir ham kahaa.N
+	ham yahaa.N tum yahaa.N dil javaa.N vo samaa.N
+%
+#endindian
+\endsong

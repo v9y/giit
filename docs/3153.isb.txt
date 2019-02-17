@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujh se muhabbat kaa iqaraar karataa}%
+\film{Hum Hain Rahi Pyar Ke}%
+\year{1994}%
+\starring{Aamir khan, Juhi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor:  Tabassum.Hijazi
+% Transliterator:
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+a:  mujh se muhabbat kaa iqaraar karataa,
+    kaash koii la.Dakaa mujhe pyaar karataa
+
+ku: mujh se muhabbat ka iqraar karatii,
+    kaash koii la.Dakii mujhe pyaar karatii
+
+a:  merii maa.Ng me.n chaa.Nd taare sajaataa
+    jo mai.n ruuTh jaatii mujhe vo manaataa
+    haalat merii vo jaanataa
+    Dha.Dakan merii pahachaanataa
+    apnii bhii chaahat kaa izahaar karataa
+    kaash koii la.Dakaa mujhe pyaar karataa\threedots
+
+ku: o~ o~
+    vo bechain hotii, mai.n betaab hotaa
+    nigaaho.n me.n usakii, meraa Kvaab hotaa
+    sharamaa ke vo lagatii gale
+    rakhataa use palako.n tale
+    chorii chorii vo meraa diidaar karatii
+    kaash koii la.Dakii mujhe pyaar karatii\threedots
+
+%
+#endindian
+\endsong
+%

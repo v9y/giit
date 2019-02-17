@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{terii galiyo.n me.n ham aaye}%
+\film{Minoo}%
+\year{}%
+\starring{}%
+\singer{Manna De, Antara Choudhary}%
+\music{Salil Choudhary}%
+\lyrics{}%
+%
+% Contributor: Pradeep Dubey
+% Transliterator: 
+%
+#indian
+\printtitle
+%
+
+teri galiyo.n mei.n hum aaye, diye armaano.n ke jalaaye
+(or is it: dil armaano.n bharaa laaye?)
+hum pe ho jaaye karam haaye jo terA
+apni kismat bhi sa.nwar jaaye zarA
+
+jaise majboor hai.n hum koi majboor na ho
+kisike man ka mahal aise choor na ho
+aise khusiyo.n se koi door na ho
+teri galiyo.n ...
+
+zindagi teri bahAro.n mei.n muskAye sadA
+tere daamanko na chhoo paaye ghum ki havA
+hum garibo.n kii lage tujhko duA
+teri galiyo.n ...
+
+%
+#endindian
+\endsong
+%

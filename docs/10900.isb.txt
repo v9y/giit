@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tere pyaar ne mujhe Gam diyaa tere Gam kii umr daraaz ho}%
+\film{Chhaila Babu}%
+\year{1967}%
+\starring{Naaz, Subiraaj, Jeb Rahman, Ranjana Kadam}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #11031 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tere pyaar ne mujhe Gam diyaa tere Gam kii umr daraaz ho
+vo zamaanaa aa_e Kudaa kare mere pyaar par tujhe naaz ho
+tere pyaar ne mujhe \threedots
+
+meraa pyaar luuTane vaale jaa tuu tamaam umr javaa.N rahe
+terii zindagii me.n fizaa.N rahe
+mere saath ho merii bebasii tere saath naGamaa\-o\-saaz ho
+tere pyaar ne mujhe \threedots
+
+kahii.n aur chal mere dil yahaa.N kabhii lauT kar nahii.n aa_e.Nge
+milii dil lagaane ki vo sazaa ke kahii.n bhii dil na lagaa_e.Nge
+use kyaa pataa ki vafaa hai kyaa jise bevafaa_ii pe naaz ho
+tere pyaar ne mujhe \threedots
+%
+#endindian
+\endsong
+

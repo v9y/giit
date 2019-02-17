@@ -1,0 +1,61 @@
+% ITRANS SONG
+
+\startsong
+\stitle{maane chaakar raakho jii sa.nwaliyaa}%
+\film{Meerabai}%
+\year{1947}%
+\starring{Neena, Masud Parvez, Ramayan Tiwari, Nilam, Shyama}%
+\singer{Sitara Kanpuri, Chorus}%
+\music{S K Pal}%
+\lyrics{Meerabai}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+si \:	maane chaakar raakho jii
+	chaakar raakho jii sa.nwaliyaa
+	maane chaakar raakho jii
+	
+	maane chaakar raakho jii
+ko \:	chaakar raakho jii sa.nwaliyaa
+	maane chaakar raakho jii
+
+si \:	chaakar rah tuu baabul gaa tuu
+	nis\-din darshan paa tuu
+	bri.ndaapan kii ku.nj\-galin me.n
+ko \:	bri.ndaapan kii ku.nj\-galin me.n
+	terii liilaa gaa tuu \-2
+
+si \:	maane chaakar raakho jii
+ko \:	chaakar raakho jii sa.nwaliyaa
+	maane chaakar raakho jii
+
+si \:	uu.Nchii\-uu.Nchii mahal banaa_uu.N
+	jis bich raakhuu.N baarii
+	saa.Nwariyaa ke darashan paa_uu.N
+ko \:	saa.Nwariyaa ke darashan paa_uu.N
+	jaa_uu.N tan\-man vaarii \-2
+
+si \:	maane chaakar raakho jii
+ko \:	chaakar raakho jii sa.nwaliyaa
+	maane chaakar raakho jii
+
+si \:	jogii aayaa jog karan ko \-2
+	tap karane sa.nyaasii
+	hari\-bhajan ko saadhuu aayaa
+	bri.ndaaban ke paasii
+	kaahe niir jhare nainan se
+ko \:	kaahe niir jhare nainan se
+si \:	dhiir dharo jii miiraa
+	aadhii raat prabhuu darshan dete
+ko \:	aadhii raat prabhuu darshan dete
+	prem nadii ke tiiraa \-2
+
+si \:	maane chaakar raakho jii
+ko \:	chaakar raakho jii sa.nwaliyaa
+	maane chaakar raakho jii
+
+#endindian
+\endsong

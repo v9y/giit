@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{tum se izahaar-e-haal kar baiThe bekhuudii me.n kamaal kar baiThe}%
+\film{Mere Mehboob}%
+\year{1963}%
+\starring{Rajendra Kumar, Sadhana, Ameeta, Ashok Kumar, Nimmi}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Ravi K Rai (rrai@plains.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@eng.umd.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aaj furakat kA khvaab TuuT gayaa 
+mil gaye tum hijaab TuuT gayaa 
+
+tum se izahaar\-e\-haal kar baiThe 
+bekhudii me.n kamaal kar baiThe 
+tum se izahaar\-e\-haal \threedots
+
+kho gaye husn kI bahaaro.n me.n 
+kah diyaa raaz\-e\-dil ishaaro.n me.n 
+kaam ham bemisaal kar baiThe 
+bekhudii me.n kamaal kar baiThe 
+tum se izahaar\-e\-haal \threedots
+
+kitane majabuur ho gaye dil se 
+soche samajhe bagair qaatil se 
+zindagii kA savaal kar baiThe 
+bekhudii me.n kamaal kar baiThe 
+tum se izahaar\-e\-haal \threedots
+
+ye adaae.n ye shokhiyaa.n taubaa 
+bas khudaa hii khudaa hai us dil kA 
+jo tumhaaraa khayaal kar baiThe 
+bekhudii me.n kamaal kar baiThe 
+tum se izahaar\-e\-haal \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,64 @@
+%
+\startsong
+\stitle{kyaa mausam hai, ai diivaane dil chal kahii.n duur nikal jaaye.n}%
+\film{Doosra Aadmi}%
+\year{1977}%
+\starring{Rakhee, Rishi Kapoor, Neetu Singh, Parikshit Sahni, Deven Verma}%
+\singer{Lata, Kishore, Rafi}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vandana Sharma (uusharma@uxa.ecn.bgu.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Sep  7 1995
+% Credits:  preetham@connectinc.com (Preetham Gopalaswamy)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ki : kyaa mausam hai
+la : aa~
+ki : ai diivaane dil
+     are chal kahii.n duur nikal jaae.n
+la : aa~
+ki : chal kahii.n duur nikal jaae.n
+     koii ham_dam hai
+la : aa~
+ki : chaahat ke qaabil
+     to kis liye ham sa.nbhal jaae.n
+la : aa~
+ki : chal kahii.n duur nikal jaae.n
+
+la : jhuum ke jab jab kabhii do dil gaate hai.n
+     chaar kadam chalate hai.n phir kho jaate hai.n
+ki : he he he 
+     aisaa hai to kho jaane do mujh ko bhii aaj
+     ye kyaa kam hai
+la : aa~
+ki : do pal ko raahii
+     are, mil jaae.n bahal jaae.n
+la : aa~
+ki : chal kahii.n duur nikal jaae.n
+
+ra : ye mastiyaa.N, ye bahaar dil ho chalaa beqaraar
+     mai.n girataa huu.N mujhe thaam lo
+     bhiige labo.n se meraa naam lo
+la : duniyaa ko ab do nazar kyo.n aae.n ham
+     itane qariib aao ke ik ho jaae.n ham
+     ke ik ho jaae.n ham
+dono:ke ik ho jaae.n ham
+ra : ke ik ho jaae.n ham
+
+la : huu.N~
+     khoye se ham, khoyii sii ma.nzil
+     achchhaa hai sa.nbhal jaae.n
+ki : chal kahii.n duur nikal jaae.n
+la : ho~ achchhaa hai sa.nbhal jaae.n
+ki : chal kahii.n duur nikal jaae.n
+la : ho~ achchhaa hai sa.nbhal jaae.n
+%
+#endindian
+\endsong
+%

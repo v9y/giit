@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{merii bi.ndiyaa terii ni.ndiyaa na u.Daa de to kahanaa}%
+\film{Lamhe}%
+\year{1992}%
+\starring{Anil Kapoor, Sridevi, Waheeda Rahman, Anupam Kher}%
+\singer{Lata}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii bi.ndiyaa terii ni.ndiyaa na u.Daa de to kahanaa
+meraa kaajal tujhako paagal na banaa de to kahanaa
+oh o merii bi.ndiyaa \threedots
+
+khanake.nge khanakhan jab mere ka.nganaa
+dha.Dakegaa dhakadhak dil teraa sajanaa
+mere jhumake tumako tumase na churaa le.n to kahanaa
+oh o merii bi.ndiyaa \threedots
+
+mai.n puure solah si.ngaar kar luu.n
+darpaN se baate.n do chaar kar luu.n
+meraa gajaraa tumako bha.nvaraa na banaa de to kahanaa
+oh o merii bi.ndiyaa \threedots
+
+terii pasand ab merii pasand hai
+ye jaan terii muTThii me.n band hai
+tuu jo bole mai.n vah kar ke na dikhaa duu.n to kahanaa
+merii bi.ndiyaa \threedots
+
+mere nayanaa mere ka.nganaa
+merii chunarii o merii cholii
+meraa joban meraa darpaN
+merii bi.ndiyaa \threedots
+%
+#endindian
+\endsong
+

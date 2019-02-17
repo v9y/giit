@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ye zi.ndagii usiiki hai, jo kisii kaa ho gayaa}%
+\film{Anaarkali}%
+\year{1953}%
+\starring{Pradeep Kumar, Bina Rai}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu) 
+% Comments:
+%
+\printtitle
+#indian
+% 
+ye zi.ndagii usii kI hai, jo kisii kaa ho gayaa
+pyaara hii me.n kho gayaa, ye zi.ndagI \threedots
+
+ye bahAr, ye samA, kah rahA hai pyAr kar
+kisI kI ArazU me.n apane dil ko beqarAr kar
+zi.ndagii hai bevafaa\threedots
+zi.ndagii hai bevafaa, luuT pyaar kaa mazaa
+ye zi.ndagI \threedots
+
+dha.Dak rahA hai dil to kyA, dil kI dha.Dakane.n nA sun
+phir kahA.n ye fursate.n, phir kahA.N ye rAt\-din
+aa rahii hai ye sadaa\threedots
+aa rahii hai ye sadaa, mastiyo.n me.n jhuum jaa
+ye zi.ndagI \threedots
+
+do dila yahaa.N na mila sake, mile.nge us jahaan me.n
+khile.nge hasarato.n ke phuula, mauta ke aasmaana me.n
+ye zi.ndagii chalii gaI jo pyaara me.n to kyaa huaa
+ye zi.ndagii \threedots
+
+sunaa rahii hai daastaa.n, shamaa mere mazaara kii
+fizaa me.n bhii khilI rahii, ye kalii anaara kii
+ise mazaara mata kaho, ye mahala hai pyaara kaa
+ye zi.ndagii \threedots
+
+ai zi.ndagii kii shaama aa, tujhe gale lagaauu.n mai.n
+tujhii me.n DUba jaauu.n mai.n
+jahaa.N ko bhuula jaauu.n mai.n
+basa ek nazara mere sanama, alvidaa, alvidaa
+alvidaa \threedots alvidaa \threedots
+alvidaa \threedots alvidaa \threedots
+%
+#endindian
+\endsong
+%

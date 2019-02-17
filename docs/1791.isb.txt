@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{tumhaaraa chaahane vaalaa khudaa kii duniyaa me.n}%
+\film{Kahin Din Kahin Raat}%
+\year{}%
+\starring{}%
+\singer{Mahendra Kapoor, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(tumhArA chAhane vAlA khudA kI duniyaa me.n
+mere sivA bhI koI aur ho khudA nA kare ) \- 2
+tumhArA chAhane vAlA \threedots
+
+ye bAt kaise gavArA karegA dil merA
+tumhArA zikr kisI aur kI zubAn pe ho
+tumhAre husn kI tArIf AInA bhI kare
+to mai.n tumhArI qasam hai ke to.D dU.N usako
+tumhAre pyAr tumhArI adA kA dIvAnA
+mere sivA bhI koI aur ho khudA nA kare
+tumhArA chAhane vAlA \threedots
+
+% fantastic sitar playing ...
+vo din nA Aye ke mujhase kabhI judA hokar
+kisI kA pyAr dobArA kahI.n talAsh karo
+jhukA ke sar ko kisI ajanabI ke shAno.n par
+tum apane Gam kA sahArA kahI.n talAsh karo
+karIb dil ke tumhAre kisI bhI hAlat me.n
+mere sivA bhI koI aur ho khudA nA kare
+tumhArA chAhane vAlA \threedots
+
+AshA: tumhAre dil ko kahI.n mujhase kabhI Thes lage
+mujhe yakIn hai aisA kabhI nahI.n hogA
+mujhe vafAo.n pe apanI ba.DA bharosA hai
+tumhArA pyAr hI de jAye nA kahI.n dhokhA
+duA ye hai ke tumhArA khudA kI duniyA me.n
+mere sivA bhI koI aur ho khudA nA kare
+tumhArA chAhane vAlA \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tumhe.n ham yaad karate hai.n}%
+\film{Rukhsaanaa}%
+\year{1955}%
+\starring{Meena Kumari, Kishor Kumar, Shammi}%
+\singer{Asha}%
+\music{Sajjad}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: BOL ANAMOL #12295 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+tumhe.n ham yaad karate hai.n \-2
+kahaa.N ho tum kahaa.N ho tum
+yahii fariyaad karate hai.n
+tumhe.n ham yaad karate hai.n \-2
+
+( luTaa kar apanii duniyaa ham
+chale hai.n terii mahafil se ) \-2
+Kushii me.n jo Guzaaraa wo
+zamaanaa yaad karate hai.n
+tumhe.n ham yaad karate hai.n \-2
+
+( ummide.n hai.n na Kushiyaa.N hai.n
+uma.nge.n hai.n na aramaa.N hai.n ) \-2
+tumhaare Gam se ab dil kaa
+jahaa.N aabaad karate hai.n
+tumhe.n ham yaad karate hai.n \-2
+kahaa.N ho tum kahaa.N ho tum
+yahii fariyaad karate hai.n
+tumhe.n ham yaad karate hai.n \-2
+%
+#endindian
+\endsong
+%
+

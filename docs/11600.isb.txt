@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{aa matalab kaa tuu miit ... toraa man ba.Daa paapii}%
+\film{Gunga Jumna}%
+\year{1961}%
+\starring{Dilip Kumar, Vyjayantimala, Pran}%
+\singer{Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11458 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa matalab kaa tuu miit bedardii garaz kii raakhe priit
+dukhiyaa man ko ghaayal karanaa samajhe tuu apanii jiit
+aa
+
+toraa man ba.Daa paapii saa.Nvariyaa re \-2
+milaa_e chhal\-bal se najariyaa re \-2
+toraa man ba.Daa \threedots
+
+tuu sa.ngadil hai terii zindagii me.n pyaar nahii.n
+tere chaman me.n hai sab\-kuchh magar bahaar nahii.n
+tujhe qasam hai na yuu.N muskaraa ke dekh hame.n
+teirii nazar kaa bhii zaalim kuchh aitabaar nahii.n
+haa.N milaa_e chhal\-bal se \threedots
+
+sitamagaro.n kii inaayat se beruKii achchhii
+jo tere saath naa guzare vo zindagii achchhii
+garaz kaa yaar hai matalab kaa tuu hai diivaanaa
+na terii dostii achchhii na dushmanii achchhii
+haa.N milaa_e chhal\-bal se \threedots
+
+jahaa.N me.n ho jise jiinaa vo tujhase duur rahe
+jo maranaa chaahe vo aakar tere huzuur rahe
+ye kyaa gazab hai ki ham aah karake ho.n badanaam
+tuu laakh zulm kare phir bhii beqasuur rahe
+haa.N milaa_e chhal\-bal se \threedots
+%
+#endindian
+\endsong
+

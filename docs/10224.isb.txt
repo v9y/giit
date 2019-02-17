@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{rab mere araj sun merii}%
+\film{Aag}%
+\year{1948}%
+\starring{Raj Kapoor, Nargis, Kamini Kaushal, Nigar, Kamal Kapoor, Premnath}%
+\singer{Mukesh, Shailesh}%
+\music{Ram Ganguli}%
+\lyrics{Saraswati Kumar 'Deepak'}%
+%
+% Contributor: BOL ANAMOL #11414 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	rab mere araj sun merii sharaN ab terii
+	jis din se gayaa dil meraa dukho.n ne gheraa
+do \:	rab mere araj sun \threedots
+
+mu \:	kyo.n ruuTh rahe karataar merii sarakaar ( bataate jaa_o ) \-2
+	kyaa hamase ho ga_ii bhuul ( hame.n batalaa_o ) \-2
+	pa.Duu.N na paiyaa na ho naaraaz mere sarataaj ye dil ab teraa
+	jis din se gayaa \threedots
+ko \:	rab mere araj sun \threedots
+
+shai \:	pa.Dii dil kii duniyaa suunii idhar bhii dekho ( idhar bhii aa_o ) \-2
+	sab kha.De hu_e behaal zaraa musakaa_o na ab tarasaa_o
+	lagaa aise nazar kaa tiir kalejaa chiir gayaa jo meraa
+	jis din se gayaa \threedots
+
+mu \:	merii sunate jaa_o baat ( tumhaare jo.D rahaa huu.N mai.n haath ) \-2
+	kyo.n mujhase jaate duur mere o nuur ( nibhaa do saath ) \-2
+	zaraa baiTho ha.Nso\-muskaa_o hame.n bahalaa_o basaa do Deraa
+	jis din se gayaa \threedots
+ko \:	haay rab mere araj sun \threedots
+%
+#endindian
+\endsong
+

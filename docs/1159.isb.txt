@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{matalab jo samajhe mere sa.ndesh kaa}% 
+\film{Barood}%
+\year{1976}%
+\starring{Ashok Kumar, Rishi Kapoor, Shoma Anand, Ajeet}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+haa \threedots
+
+ba.Daa hii khuubasuurat is jagah kA har nazaaraa hai 
+hai, magar phir bhI kisii kA naam lekar dil pukaaraa hai 
+
+matalab jo samajhe mere sa.ndesh kA, matalab jo samajhe 
+matalab jo samajhe mere sa.ndesh kA, 
+is desh me.n hai koI kyA mere desh kA 
+matalab samajhe jo, mere sa.ndesh kA 
+
+ye chehare, ye aa.Nkhe.n \- 2 
+(badale libaas ra.ng ruup to vohii hai, 
+yaado.n ki chhaao.n dhuup to vohii hai ) \-2
+kyA phaayadaa, kyA phaayadaa phir is bheshh kA, 
+is desh me.n hai koI kyA mere desh kA 
+matalab samajhe jo, mere sa.ndesh kA 
+matalab jo samajhe \threedots
+
+vo maaTii, vo pAnI \- 2 
+(aa mil ke phuulo.n kii baate.n kare.nge, 
+saavan ke jhuulo.n kI baate.n kare.nge  ) \- 2
+mil ke sahe.n, mil ke sahe.n ye Gam paradesh kA
+is desh me.n hai koI kyA mere desh kA 
+matalab samajhe jo, mere sa.ndesh kA 
+matalab jo samajhe \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dil le le dil de de aur kuchh na maa.nge diivaanaa}%
+\film{Khilaadi 420}%
+\year{2000}%
+\starring{Akshay Kumar, Mahima Chaudhary}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ruu tuu ruu ruu
+dil le le dil de de aur kuchh na maa.nge diivaanaa
+mai.n teraa ho gayaa tuu merii ban jaanaa re he he he
+
+jaa re jaa diivaane tuune nahii.n mujhako jaanaa
+bevajah pyaar kaa naa banaa haa.n afasaanaa re
+mai.n huu.n akelii sa.Dak pe kyuu.n chhe.Dataa hai mujhe
+isakii sazaa kyaa milegii aajaa bataa duu.n tujhe haa.n haa.n
+
+tanhaa ku.nvaarii javaanii kaise kaTegii bataa
+mai.n jo gayaa to akelii rah jaa_egii dilarubaa
+dil meraa luuT ke yuu.n mujhe haa.n ta.Dapaa naa re
+he he he ta.Dapaa naa re
+jaanaa.n merii jaan\-e\-jaanaa.n kahanaa meraa maan le
+tere li_e mai.n banaa huu.N mujhako tuu pahachaan le haa.n haa.n
+
+piichhe mere piichhe aa naa piichhaa meraa chho.D de
+haasil na kuchh hone vaalaa apanaa ye dil to.D de
+ishq ke dard se tuu abhii anjaanaa re anjaanaa re he
+dil le le \threedots
+%
+#endindian
+\endsong
+

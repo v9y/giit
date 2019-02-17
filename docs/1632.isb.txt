@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{siine me.n jalan aa.Nkho.n me.n tuufaan saa kyo.N hai}%
+\film{Gaman}%
+\year{}%
+\starring{Farooq Sheikh, Smita Patil}%
+\singer{Suresh Wadkar}%
+\music{Jaidev}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+siine me.n jalan aa.Nkho.n me.n tuufaan saa kyo.n hai
+is shahar me.n har shaKs pareshaan saa kyo.n hai
+
+dil hai to dha.Dakane kaa bahaanaa koI Dhuu.NDhe
+patthar kii tarah behis\-o\-bejaan saa kyo.n hai
+
+tanahaaI kii ye kaun sii ma.nzil hai rafiiqo.n
+taa\-hadd\-e\-nazar ek bayaabaan saa kyo.n hai
+
+kyaa koI naI baat nazar aatii hai ham me.n
+aaInaa hame.n dekh ke hairaan saa kyo.n hai
+%
+#endindian
+\endsong
+%

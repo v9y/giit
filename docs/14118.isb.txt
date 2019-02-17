@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{tum ishq kii mahafil ho ... ik baar phir kaho zaraa}%
+\film{Saaz Aur Awaz}%
+\year{1966}%
+\starring{Joy Mukherjee, Saira Bano, Kanhaiyyalal}%
+\singer{Rafi, Asha}%
+\music{Naushad}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10651 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	tum ishq kii mahafil ho tum husn kaa jalavaa ho
+	yaa saaj\-e\-mohabbat par chhe.Daa hu_aa naGamaa ho
+aa \:	ik baar phir kaho zaraa
+ko \:	ik baar phir kaho zaraa
+
+aa \:	shaa_iir ho musavvir ho maaluum nahii.n kyaa ho
+	lagataa hai mujhe aisaa tum merii tamannaa ho
+ra \:	ik baar phir kaho zaraa
+ko \:	ik baar phir kaho zaraa
+
+ra \:	zulfe.n hai.n ghaTaa jaisii cheharaa hai kamal jaisaa
+	( maramar kaa badan pyaaraa ) \-2 hai taajamahal jaisaa
+	jaise tumhe.n qudarat ne haatho.n se banaayaa ho \-2
+	tum ishq kii mahafil \threedots
+aa \:	ik baar phir kaho zaraa
+ko \:	ik baar phir kaho zaraa
+
+aa \:	tum kyaa mile ulfat kii tasviir nazar aa_ii
+	mujhako mere Kvaabo.n kii taabiir nazar aa_ii
+	bharataa nahii.n dil jisase tum aisaa nazaaraa ho \-2
+	shaa_iir ho musavvir ho \threedots
+ra \:	ik baar phir kaho zaraa
+ko \:	ik baar phir kaho zaraa
+%
+#endindian
+\endsong
+

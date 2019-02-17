@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{jab dil mile.n tab gul khile.n}%
+\film{Yaadein}%
+\year{2001}%
+\starring{Hritik Roshan, Kareena Kapoor, Jackie Shroff, Amrish Puri}%
+\singer{Udit Narayan, Sukhvindar Singh, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab dil mile mile mile dil mile
+tab gul khile khile khile gul khile
+jab dil mile.n tab gul khile.n
+jab gul khile.n tab dil mile.n
+mile.n mile.n mile.n dil mile.n
+khile.n khile.n khile.n khile.n gul khile.n
+
+ho ho is ishq me.n aisii aag lage ho
+is ishq me.n aisii aag lage
+dil dariyaa me.n tuufaan uThe.n
+dharatii Dole aakaash hile ho
+ye ishq kayaamat bhii hai jii
+ye ishq ibaadat bhii hai jii
+ko_ii taubaa kare ko_ii sajadaa kare
+o jab dil mile mile mile \threedots
+
+jabase tuu hai is dil me.n is dil me.n
+merii jaan hai mushkil me.n mushkil me.n
+mahafil me.n hai tanhaa_ii tanhaa_ii
+tanhaa_ii hai mahafil me.n mahafil me.n
+ho
+ye duniyaa apanii prem galii
+aa galii me.n lag jaa yar gale
+ho jaa_e.n saare duur gile ho
+jab dil mile mile mile \threedots
+
+jo kaho tum kar jaa_e.n kar jaa_e.n
+ab abhii yahii.n mar jaa_e.n mar jaa_e.n
+ik duuje kaa dil miiThii sii pyaarii sii
+yaado.n se ham bhar jaa_e.n bhar jaa_e.n
+ho
+ye ishq hamaaraa kaisaa ho
+ye ishq hamaaraa aisaa ho
+ke saarii duniyaa yaad kare
+jab dil mile mile mile \threedots
+%
+#endindian
+\endsong
+

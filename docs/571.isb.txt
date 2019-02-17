@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{duniyaa ra.ng ra.ngiili baabaa}%
+\film{Dhartimata}%
+\year{}%
+\starring{Saigal}%
+\singer{Saigal, Uma Shashi, Pankaj Mullick}%
+\lyrics{Pt. Sudarshan}%
+\music{Pankaj Mullick}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+p : duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii (2)
+
+   yah duniyaa ik sundar bagiyaa shobhaa isake nyaare hai.n (2)
+   har Daarii par jaaduu chhaayaa (2)
+   har Daarii matavaarii hai
+   adbhut pa.nchhii phuul manohar (2)
+   kalii-kalii chaTakiilii baabaa
+   duniyaa ra.ng ra.ngiilii
+
+p : duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii
+u : a-ha-haa-a-ha-haa-a-ha-haa-a-ha-haa, a-ha-haa-a-ha-haa-a-ha-haa (saath me.n)
+
+u : kadam kadam par aashaa apanaa ruup anuup dikhaatii hai (2)
+   biga.De kaaj banaatii hai, dhiiraj ke giit sunaatii hai (2)
+   isakaa sur misrii se miiThaa isake taar sajiilii baabaa
+   duniyaa ra.ng ra.ngiilii
+
+u : duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii
+s : a-ha-haa-a-ha-haa-a-ha-haa-a-ha-haa, a-ha-haa-a-ha-haa-a-ha-haa (saath me.n)
+
+s : duHkh kii nadiyaa jiivan naiyaa aashaa ke patavaar lage (2)
+   o naiyaa ke khene vaale (2)
+   naiyaa terii paar lage, paar basat hai desh sunaharaa
+   kismat chhail-chhabiilii baabaa
+   duniyaa ra.ng ra.ngiilii
+   duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii
+
+s : duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii
+p,u : a-ha-haa-a-ha-haa-a-ha-haa-a-ha-haa, a-ha-haa-a-ha-haa-a-ha-haa (saath me.n)
+
+sab : duniyaa ra.ng ra.ngiilii baabaa, duniyaa ra.ng ra.ngiilii
+%
+#endindian
+\endsong
+%

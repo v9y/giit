@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{likhaa hai ye in havaa_o.n pe, likhaa hai ye in ghaTaa_o.n pe}%
+\film{Darr}%
+\year{1993}%
+\starring{Juhi Chawla, Sunny Deol, Shahrukh Khan, Anupam Kher}%
+\singer{Lata, Hariharan}%
+\music{Shiv-Hari}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Deepu, Avinash Chopde (avinash@acm.org)
+% Editor:  
+%
+\printtitle
+#indian
+%
+h/l: likhA hai ye in havA_o.n pe
+likhA hai ye in ghaTA_o.n pe
+tU hai mere liye, mai.n hU.N tere liye \-2
+
+h: ishq kI hasIn dAstAn se, ham utar ke Aye AsamAn se
+l: ye samA.N ye pyAr kI kahAniyA.N, mil rahI hai.N Aj do javAniyA.N
+pahalI muhabbat kI rAho.n pe
+h,l: likhA hai ye in \threedots
+
+h: yU.N hI zarA tU muskurA, sharamA ke A.Nchal mu.Nh me.n dabA
+zulfo.n kA tU ghU.NghaT haTA, ye khUbasUrat cheharA dikhA
+is nAz se iThalAte hue, chalake zarA mere pAs A
+ki Ashiq hU.N mai.n in adAo.n pe
+l: likhA hai ye in \threedots
+
+h: Ao kah de.n Aj is jahAn se
+ham guzar ke jI se aur jAn se
+l: pyAr kI hasIn jIt hAr me.n 
+dil hai chIz kyA ki mai.nne pyAr me.n
+sar rakh diyA tere pA.Nv me.n
+h/l: likhA hai ye in \threedots
+%
+#endindian
+\endsong
+%

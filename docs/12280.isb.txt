@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jiiwan hai madhuban tuu isame.n phuul khilaa}%
+\film{Jaasoos}%
+\year{1950s Not Released}%
+\starring{}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{Indeewar}%
+%
+% Contributor: BOL ANAMOL #12128 [V S Rawat]
+%
+\printtitle
+#indian
+%
+jiiwan hai madhuban
+tuu isame.n phuul khilaa
+kaa.NTo.n se na bhar daaman
+ab maan bhii jaa \-2
+jiiwan hai madhuban
+
+( dekh zaraa dil me.n
+tuu hai kaun sii manzil me.n ) \-2
+( uTh jaane de har pardaa
+ab aur na Kud ko chhupaa ) \-2
+jiiwan hai madhuban
+
+( diip jalaataa chal
+musakaan luTaataa chal ) \-2
+( Thokar se sambhal Kud bhii
+auro.n ko bhii raah dikhaa ) \-2
+
+jiiwan hai madhuban
+tuu isame.n phuul khilaa
+kaa.NTo.n se na bhar daaman
+ab maan bhii jaa \-2
+jiiwan hai madhuban
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{phir wahii chaa.Nd wahii ham wahii tanhaa_ii hai}%
+\film{Baarish}%
+\year{1957}%
+\starring{Devanand, Nutan, Jagdish Sethi, Lalita Pawar, Gop, Anwar, Kumkum}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+la \:	phir wahii chaa.Nd wahii ham wahii tanhaa_ii hai \-2
+	aaj phir dil ne mohabbat kii qasam khaa_ii hai
+	phir wahii chaa.Nd wahii ham wahii tanhaa_ii hai
+do \:	aaj phir dil ne mohabbat kii qasam khaa_ii hai
+	phir wahii chaa.Nd
+
+chi \:	duur duniyaa se khaii.n bhiigii hu_ii raato.n me.n \-2
+la \:	do mohabbat bhare dil gum hai.n hasii.N baato.n me.n \-2
+	dil me.n jo baat hai aa.Nkho.n me.n chalii aa_ii hai
+
+do \:	aaj phir dil ne mohabbat kii qasam khaa_ii hai
+	phir wahii chaa.Nd
+
+chi \:	ye samu.ndar kaa kinaaraa, hai ye Kaamoshii kaa samaa
+la \:	ye samu.ndar kaa kinaaraa, hai ye Kaamoshii kaa samaa
+chi \:	ye ik Kaab mohabbat kaa
+la \:	ik Kaab mohabbat kaa hai is waqt jawaa.N
+	na ko_ii Dar hai zamaane kaa na rusavaa_ii hai
+
+do \:	aaj phir dil ne mohabbat kii qasam khaa_ii hai
+	phir wahii chaa.Nd wahii ham wahii tanhaa_ii hai
+	aaj phir dil ne mohabbat kii qasam khaa_ii hai
+	phir wahii chaa.Nd
+
+#endindian
+\endsong

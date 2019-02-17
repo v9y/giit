@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aa gayaa aa gayaa dil churaane mai.n aa gayaa}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Udit Narayan, Chorus}%
+\music{Nikhil Vinay}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+ho aa gayaa he aa gayaa haa.N aa gayaa aa gayaa
+##Hey you beautiful girls##
+##I have this beautiful flower in my hands##
+##I wonder which one of you will be lucky to get it##
+##you, you, you, how about you##
+
+aa gayaa aa gayaa dil churaane mai.n aa gayaa
+aa gayaa aa gayaa dil churaane ye aa gayaa
+##Life is love-able## pyaar nahii.n ##sell-able##
+dil meraa ##available## tere li_e
+aa gayaa \threedots
+
+nayaa giit hai nayaa saaz hai na_ii ##beat## hai haa nayaa raag hai
+mere saath me.n zaraa jhuum le milaa ke nazar aa mujhe chuum le
+ra.ng jamaane aayaa aayaa
+dhuum machaane aayaa aayaa
+chain churaane aayaa aayaa
+pyaar kaa tohafaa laayaa laayaa
+aa gayaa \threedots
+
+javaa.N umr hai haa hasii.n raat hai chaahato.n bharii mulaakaat hai
+jis ko dekhi_e bekaraar hai har hasiin ko mujh se pyaar hai
+hosh u.Daane aayaa aayaa
+Kvaab sajaane aayaa aayaa
+gam bhulaane aayaa aayaa
+mahafilo.n pe chhaayaa chhaayaa
+aa gayaa \threedots
+%
+#endindian
+\endsong
+

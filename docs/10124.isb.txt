@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{##I love you.## ... o merii nii.ndo.n me.n tuu}%
+\film{Auzaar}%
+\year{1997}%
+\starring{Salman Khan, Sanjay Kapur, Shilpa Shetty}%
+\singer{Sudesh Bhonsale}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##I love you. I love you.##
+o merii nii.ndo.n me.n tuu mere khvaabo.n me.n tuu
+o merii dha.Dakan me.n tuu merii saa.Nso.n me.n tuu
+mere chaaro.n taraf bas tuu tuu hii tuu
+##I love you. I love you. I love you.##
+
+ajanabii hai abhii tuu mere des me.n
+o tuu na_e ruup me.n mai.n na_e bhes me.n
+tujhako dekhaa to sab dil lage thaamane
+chaa.Ndanii kuchh nahii.n hai tere saamane
+teraa cheharaa mile chaa.Nd se huu ba huu
+##I love you.## \threedots
+
+kar sitamagar sitam yuu.n naa dil par mere
+aa samaa jaa mere dil me.n dilabar mere
+der achchhiii nahii.n ishq ke khel me.n
+baiTh jaa tuu mere pyaar kii ##rail## me.n
+mai.n shuruu ho gayaa tuu bhii ho jaa shuruu
+##I love you.## \threedots
+%
+#endindian
+\endsong
+

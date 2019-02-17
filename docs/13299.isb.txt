@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{baaGo.n me.n phuul kisane khilaa_e hai.n maine to nahii.n}%
+\film{Night In London}%
+\year{1967}%
+\starring{Biswajeet, Mala Sinha}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11037 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	baaGo.n me.n phuul kisane khilaa_e hai.n
+ra \:	maine to nahii.n maine to nahii.n 
+la \:	chor kaun taare kisane churaa_e hai.n
+ra \:	maine to nahii.n maine to nahii.n taubaa
+
+la \:	taubaa kaa savaal kyaa taubaa maine kii nahii.n
+ra \:	kaisaa ye suruur hai maine pii hai jii nahii.n
+	phir mere hosh kisane u.Daa_e hai.n
+ra \:	maine to nahii.n maine to nahii.n
+
+la \:	aaKir is jahaan me.n hotii hai ye baat kyo.n
+	do aur do jamaa kare.n to banate nahii.n paa.Nch kyo.n
+	do aur do chaar kisane banaa_e hai.n
+ra \:	maine to nahii.n maine to nahii.n
+
+la \:	ye jo dil ke saaz the vo to be\-aavaaz the
+	tere mere pyaar ke afasaane to raaz the
+	raaz sabako ye kisane bataa_e hai.n
+	tuune to nahii.n tuune to nahii.n
+ra \:	maine to nahii.n maine to nahii.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ye mausam aur ye tanhaa_ii}%
+\film{Dastan}%
+\year{}%
+\starring{Suraiyya, Raj Kapoor, Veena}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: Loosely based on Wuthering Heights.
+%
+\printtitle
+#indian
+%
+ye mausam aur ye tanhaa_ii zaraa dam bhar ko aa jaao
+yahii maukaa hai milane kaa lagii dil kii bujhaa jaao
+yahii maukaa hai milane kaa
+
+ba.Dii mushakil se mai.n ne aaj dil ke taar chhe.De hai.n
+inhii.n taaro.n pe tum aakar koii naGamaa sunaa jaao
+ye mausam aur ye tanhaa_ii
+
+yahaa.N har chiiz khaalii hai muhabbat ke sivaa pyaare
+ye duniyaa aanii jaanii hai, zaraa ha.Ns lo ha.Nsaa jaao
+yahii maukaa hai milane kaa
+
+%
+#endindian
+\endsong
+%

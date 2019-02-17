@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sau baar janam nahii.n milataa ... kyaa soch rahaa hai rudraa}%
+\film{Pitaah}%
+\year{2001}%
+\starring{Sanjay Dutt, Nandita Das, Jackie Shroff, Salil Ankola, Anupama Verma}%
+\singer{Sukhvindar Singh, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sau baar janam nahii.n milataa milataa hai ek baar o
+rishte khuun ke nahii.n banate baar baar
+luT jaa_e miT jaa_e kaT jaa_e insaa.n rishto.n ke li_e
+kyaa soch rahaa hai rudraa dikhaa pralay kii mudraa
+sau baar janam \threedots
+
+aa.Nkh tiisarii khol de dushman ko ye bol de rudr rudr rudraa
+krodh kaa ye taa.nDav hai vo kaurav tuu paa.nDav hai
+u.Daa de dushmano.n kii nidraa
+ho kyaa soch rahaa \threedots
+
+zulm ko sahanaa zulm hai aaj teraa ye dharm hai
+tere rakt kaa jo kaatil hai usakii maut terii ma.nzil hai
+varadaan sha.nkar kaa hai naam teraa rudraa
+kyaa soch rahaa \threedots
+%
+#endindian
+\endsong
+

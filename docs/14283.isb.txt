@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ho zaraa ruk jaa pyaare ruk jaa}%
+\film{Sitaaron Se Aagey}%
+\year{1958}%
+\starring{Ashok Kumar, Vyjayantimala}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11655 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ho zaraa ruk jaa pyaare ruk jaa
+aas lagaa_e baiThe hai.n raaho.n me.n kab se ham
+zaraa ruk jaa \threedots
+
+buraa hotaa hai raaho.n me.n machalanaa
+ajii achchhaa hai ruk\-ruk chalanaa
+sun pyaare itaraa_e kaahe yaaro.n se kataraa_e kaahe
+aas lagaa_e baiThe \threedots
+
+aajaa kab se pukaare tujhe bandaa
+tere dam se chale hai meraa dhandhaa
+aajaa terii ##service## kare.n phir qismat kii thailii bhare.n
+aas lagaa_e baiThe \threedots
+
+in haatho.n kaa jaaduu jo dikhaa duu.N
+tujhe ghar tak abhii mai.n pahu.Nchaa duu.N
+biga.Dii ho to banaa de aa jaa
+rukatii ho to chalaa de aajaa
+aas lagaa_e baiThe \threedots
+%
+#endindian
+\endsong
+

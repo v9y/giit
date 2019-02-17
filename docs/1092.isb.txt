@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{mahafil me.n mere kaun ye diivaanaa aa gayaa}%
+\film{Albela}%
+\year{1951}%
+\starring{Geeta Bali, Bhagawan}%
+\singer{Rafi, Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+% Date: 
+% Credits: Hrishi Dixit
+% Comments:  
+%
+%\printtitle
+#indian
+%
+f : mahafil me.n mere kaun ye diivaanaa aa gayaa
+m : jab shammaa ne pukaara to paravaanaa aa gayaa, 
+    o paravaanaa aa gayaa
+
+f : aanaa hai mere paas to kha.njar ko dekh lo 
+    kha.njar ko dekh lo, dekh lo
+m : ajii yuu.N kaho ki aa.Nkh ke nashtar ko dekh lo
+    dekhaa tujhe to husn pe mar jaanaa aa gayaa, 
+    o mar jaana aa gayaa
+    jab shammaa ne pukaaraa to paravaanaa aa gayaa, 
+    o paravaanaa aa gayaa
+
+f : diivaane, diivane apanii maut kaa bhii Dar nahii.n tujhe
+m : diivaane aise hote hai.n khabar nahii.n tujhe
+    ai husn hoshiyaar ki diivaanaa aa gayaa,
+    ki diivaana aa gayaa
+    jab shammaa ne pukaaraa to paravaanaa aa gayaa, 
+    o paravaanaa aa gayaa
+%
+#endindian
+\endsong
+%

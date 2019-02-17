@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aasamaa.N pe hai khudaa aur zamii.n pe ham}%
+\film{Phir Subah Hogi}%
+\year{1958}%
+\starring{Raj Kapoor, Mala Sinha, Rehman}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aasamaa.N pe hai khudaa aur zamii.n pe ham (2)
+aajakal vo is taraf dekhataa hai kam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+
+aajakal kisii ko vo Tokataa nahii.n,
+chaahe kuchh bhii kijiiye rokataa nahii.n
+ho rahii hai luT maar phaT rahe hai.n bam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+aajakal vo is taraf dekhataa hai kam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+
+kisako bheje vo yahaa.N haath thaamane
+is tamaam bhii.D kaa haal jaanane
+aadamii hai.n anagiinat devataa hai.n kam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+aajakal vo is taraf dekhataa hai kam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+
+jo bhii hai vo Thiik hai zikra kyo.n kare.n
+ham hii sab jahaa.N kii fikra kyo.n kare.n
+jo bhii hai vo Thiik hai zikra kyo.n kare.n
+ham hii sab jahaa.N kii fikra kyo.n kare.n
+jab use hii Gam nahii.n to kyo.n hame.n ho Gam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+aajakal vo is taraf dekhataa hai kam
+aasamaa.N pe hai khudaa aur zamii.n pe ham
+%
+#endindian
+\endsong
+%

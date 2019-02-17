@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aayaa sapano.n me.n ko_ii ... churaa ke meraa dil le gayaa}%
+\film{Waapasi Saajan Ki}%
+\year{1995}%
+\starring{Shoaib Khan, Ashwini Bhave, Shoma Sircar, Kulbhushan, Gulshan}%
+\singer{Abhijit, Sapana}%
+\music{Anand Milind}%
+\lyrics{Azad Jullundhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa aa
+aayaa sapano.n me.n ko_ii shahazaadaa
+churaa ke meraa dil le gayaa
+kar gayaa aaj milane kaa vaadaa
+churaa ke meraa dil \threedots
+
+nazare.n milaa ke vo paagal banaa gayaa
+khushbuu sii banakar vo dil me.n samaa gayaa
+laage su.ndar jo phuulo.n se pyaaraa
+churaa ke meraa dil \threedots
+
+maa.ng bharegaa merii mujhe apanaa_egaa
+meraa bholaa baalam siidhaa saadaa
+churaa ke meraa dil \threedots
+
+ban ke dulhaniyaa.n piyaa ke ghar jaa_uu.ngii
+apanii mohabbat se usako rijhaa_uu.ngii
+kar liyaa maine dil me.n aaj iraadaa
+churaa ke meraa dil \threedots
+%
+#endindian
+\endsong
+

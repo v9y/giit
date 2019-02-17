@@ -1,0 +1,60 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chaahe giitaa baa.nchiye ... piyaa ke ra.ng ra.ng diinii.n o.Dhanii}%
+\film{Dev}%
+\year{2004}%
+\starring{Amitabh Bachchan, Om Puri, Rati Agnihotri, Fardeen Khan, Kareena Kapoor}%
+\singer{Kailash Kher, Mahua Kamat, Shraddha Pandit}%
+\music{Aadesh Shrivastava}%
+\lyrics{Nida Fazli}%
+
+% Contributor: GEETANJALI [V S Rawat], Aug 02, 2004
+% Credits: Amit Malhotra, Satish Kalra
+
+\printtitle
+#indian
+
+kai \:	chaahe giitaa baa.nchiye yaa pa.Dhiye qur_aan
+	merii\-terii prii hii har pusatak kaa GYaan
+
+ko \:	ra.ng diinhii.n \-4
+	ra.ng diinhii.n \-7
+	ra.ng diinhii.n \-7
+	
+kai \:	hu aa aa aa
+	piyaa ke ra.ng ra.ng diinii.n o.Dhanii \-5
+ko \:	ra.ng diinhii.n \-7
+kai \:	piyaa ke ra.ng ra.ng diinii.n o.Dhanii \-2
+	
+% kailaash aalaaps "piyaa" twice in background
+
+ko \:	( jaise chaa.Nd ke sa.ng chaa.Ndanii
+	jaise raag ke sa.ng hai raginii ) \-2
+	
+kai \:	jaise chaa.Nd ke sa.ng chaa.Ndanii
+	jaise raag ke sa.ng hai raginii
+	
+	jaise bharii basant me.n moranii
+	
+	piyaa ke ra.ng ra.ng diinhii.n o.Dhanii \-2
+	
+ko \:	ra.ng diinhii.n \-7
+
+	ho ho ho ho
+	
+kai \:	( tujhe pahanuu.N o.Dhuu.N bichhaa_uu.N mai.n
+	tujhe bhar ke saa.Nso.n me.n gaa_uu.N mai.n ) \-2
+	
+ko \:	tujhe pahanuu.N o.Dhuu.N bichhaa_uu.N mai.n
+	tujhe bhar ke saa.Nso.n me.n gaa_uu.N mai.n
+	
+kai \:	terii raah ab nahii.n chho.Danii \-2
+	
+ko \:	piyaa ke ra.ng ra.ng diinhii.n o.Dhanii \-4
+	ra.ng diinhii.n \-7
+% aalaap
+ta di ya na re dhum taa naa de re naa
+
+#endindian
+\endsong

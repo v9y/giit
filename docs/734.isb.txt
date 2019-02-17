@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{ho.nTho.n se chhuulo tum, meraa giit amar kar do}%
+\film{Prem Geet}%
+\starring{Raj Babbar, Anita Raj}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ho.nTho.n se chhuulo tum
+meraa giit amar kar do
+ban jaao miit mere
+merii priit amar kar do
+
+na umar kii siimaa ho
+na janam kaa ho ba.ndhan
+jab pyaar kare ko_ii
+to dekhe keval man
+na_ii riit chalaakar tum
+ye riit amar kara do
+ho.nTho.n se chhuulo tum  \threedots
+
+jag ne chhiinaa mujhase
+mujhe jo bhii lagaa pyaaraa
+sab jiitaa kiye mujhase
+mai.n har dam hii haaraa
+tum haar ke dil apanaa
+merii jiit amar kar do
+ho.nTho.n se chhuulo tum  \threedots
+
+aakaash kaa suunaapan
+mere tanahaa man me.n
+paayal chhanakaatii tum
+aajaao jiivan me.n
+saa.Nse.n dekar apanii
+sa.ngiit amar kar do
+ho.nTho.n se chhuulo tum  \threedots
+%
+#endindian
+\endsong
+%
+

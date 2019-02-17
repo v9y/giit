@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chalatii chalii jaaye, zi.ndagii kii Dagar}%
+\film{Door Ka Raahi}%
+\year{1971}%
+\starring{Ashok Kumar, Kishore Kumar, Tanuja}%
+\singer{Hemant}%
+\music{Kishore}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Deepu, Avinash Chopde (avinash@acm.org)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chalatii chalii jaaye, zi.ndagii kii Dagar
+kabhI khatm nA ho, ye safar
+manzil kI use, kuchh bhI nA khabar
+phir bhI chalA jA_e, dUr kA rAhI
+dUr kA rAhI (2) \threedots
+
+mu.D ke nA dekhe, kuchh bhI nA bole
+bhed apane dil kA, rAhI nA khole
+AyA kahA.N se, kis desh kA hai
+koI nA jAne, kyA  DhU.nDhatA hai
+manzil kI use \threedots
+
+jhalake nA kuchh bhI, AshA nirAshA
+kyA koI samajhe, naino.N kI bhAshhA
+cheharA ki jaise, korA safA hai
+qismat ne jis par, kuchh nA likhA hai
+manzil kI use \threedots
+
+%
+#endindian
+\endsong
+%

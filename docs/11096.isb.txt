@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{dil ne tujhako jo paa liyaa ... ye kyaa kiyaa piyaa}%
+\film{Dus}%
+\year{1998?}%
+\starring{Sanjay Dutt, Ravina Tondon, Salman Khan, Shilpa Shetty}%
+\singer{Sujata}%
+\music{Sandip Chawla}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ne tujhako jo paa liyaa samaa liyaa chhupaa liyaa piyaa
+jisase shikavaa gilaa kiyaa usako dil me.n basaa liyaa
+haay maine ye kyaa kiyaa piyaa
+
+ha.Nsanaa mujhako sikhaa diyaa ha.Nsaa diyaa rulaa diyaa piyaa
+is kalii ko khilaa diyaa mujhako mujhase milaa diyaa
+haay tuune ye kyaa kiyaa piyaa
+
+ab to sapanaa churaa liyaa sajaa liyaa jataa liyaa piyaa
+rog kaisaa lagaa liyaa dil me.n dard jagaa liyaa
+haay hamane ye kyaa kiyaa piyaa
+
+faasalo.n ko ghaTaa liyaa duuriyo.n ko miTaa liyaa
+haay hamane ye \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tumhe.n apanaa banaane kii kasam khaa_ii hai}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	tumhe.n apanaa banaane kii kasam ( khaa_ii hai ) \-2
+	terii aa.Nkho.n me.n chaahat hii nazar ( aa_ii hai ) \-2
+a \:	tumhe.n apanaa banaane \threedots
+
+ku \:	muhabbat kyaa hai mai.n sabako bataa duu.ngaa
+	zamaane ko tere aage jhukaa duu.ngaa
+	terii ulfat merii jaanaa.n vo ra.ng ( laa_ii hai ) \-2
+	tumhe.n apanaa banaane \threedots
+
+ku \:	tere ho.nTho.n se mai.n shabanam churaa_u.ngaa
+	tere aa.Nchal tale jiivan bitaa_u.ngaa
+	merii nas nas me.n tuu ban ke lahuu ( samaa_ii hai ) \-2
+a \:	tumhe.n apanaa banaane \threedots
+
+	terii baaho.n me.n hai.n dono.n jahaa.n mere
+	mai.n kuchh bhii to nahii.n dilabar binaa tere
+	tujhe paa ke zamaane kii Kushii ( paa_ii hai ) \-2
+ku \:	tumhe.n apanaa banaane \threedots
+%
+#endindian
+\endsong
+

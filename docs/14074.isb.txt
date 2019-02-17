@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{shaayad merii shaadii kaa Kayaal dil me.n aayaa hai}%
+\film{Sautan}%
+\year{1983}%
+\starring{Rajesh Khanna, Tina Munim, Padmini Kolhapuri}%
+\singer{Kishore, Lata}%
+\music{Usha Khanna}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: BOL ANAMOL #11631 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	shaayad merii shaadii kaa Kayaal dil me.n aayaa hai
+	isiili_e ##mummy## ne merii tumhe.n chaay pe bulaayaa hai
+ki \:	kyaa kahaa phir se doharaanaa naa
+la \:	shaayad merii shaadii \threedots
+
+ki \:	pa.nchhii akelaa dekh ke mujhe ye jaal bichhaayaa hai
+	isiili_e ##mummy## ne terii mujhe chaay pe bulaayaa hai
+	kyuu.N hai na
+la \:	nahii.n\-nahii.n
+
+	( Thiik tum chaar baje ghar chale aanaa
+	meraa haath maa.Ng lenaa zaraa naa sharamaanaa ) \-2
+ki \:	saat phere mere sa.ng sapane dekh rahii ho
+	khilii hu_ii dhuup me.n taare dekh rahii ho
+	are nahii.n baabaa chaay nahii.n piinaa
+la \:	kyuu.N \-2
+ki \:	taubaa merii taubaa maaf kar denaa
+la \:	inhii.n adaa_o.n par to haay apanaa dil aayaa hai
+	isiili_e ##mummy## ne merii \threedots
+ki \:	naa naa naa naa
+	pa.nchhii akelaa dekh \threedots
+
+la \:	( dillagii naa karo chhe.Do naa hamako sanam
+	haa.N kaho ghar chalo tumako merii qasam ) \-2
+ki \:	jaan\-e\-man maanaa ham tumape marate hai.n
+	pyaar to Thiik hai shaadii se Darate hai.n
+	shaadii se pahale to sab achchhaa lagataa hai
+	saarii umr ko phir ronaa pa.Dataa hai
+a \:	inhii.n adaa_o.n par to haay apanaa dil aayaa hai
+	isiili_e ##mummy## ne merii \threedots
+ki \:	o pa.nchhii akelaa dekh \threedots
+
+la \:	tumhe.n merii qasam aa_oge naa
+ki \:	nahii.n bilkul nahii.n
+	haa.N terii qasam aa_uu.Ngaa
+%
+#endindian
+\endsong
+

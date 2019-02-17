@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{om shaa.nti ... aa_e hai.n du_aa_e.n dene}%
+\film{Jaadugar}%
+\year{1989}%
+\starring{Amitabh Bachchan, Jayaprada, Aditya Pancholi, Pran, Amrish Puri, Raza Murad}%
+\singer{Kumar Sanu, Sapana Mukherji, Sadhana Sargam}%
+\music{Kalyanji Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+om shaa.nti shaa.nti om shaanti shaanti 
+huuhaa \-4 ( jaiho ) \-4
+hai.n bahut tarase hai.n darshan ko ( aa_e hai.n duur se ham to ) \-2
+aa kuchh dene ko kuchh lene ko ( aa_e hai.n duur se ham to ) \-2
+mubaarak ho mere sarakaar mere sarakaar aapakii to ( jaiho ) \-3
+
+( aa_e hai.n du_aa_e.n dene aapakii balaa_e.n lene
+zindagii hamaarii le lo aish karo khaa_o khelo ( jiyo jii ) \-5
+haa.N jab talak jii chaahe jiyo jiyo jii ) \-2
+
+ho_uu.n pataa ab chalaa hai
+yuu.N kyuu.N ho gayaa ( zamaanaa diivaanaa tumhaaraa ) \-2
+he he banaa de kabhii miTaa de kabhii tumhaaraa zaraa saa ishaaraa
+chale huquumat yahaa.N tumhaarii fidaa hai tumape duniyaa saarii \-2
+kyaa kahane aapakii to are bolo na ( jaiho ) \-3
+kisii ko banaa ke jiyo kisii ko miTaa ke jiyo
+haa.N kisii ko banaa ke jiyo kisii ko miTaa ke jiyo
+zindagii hamaarii le lo \threedots
+
+he jo pahale kabhii kisii ne na dii ( vo sauGaat ham aaj de.nge ) \-2
+tumhe.n umr bhar dobaaraa kahii.n pujaarii naa aise mile.nge
+saika.Do.n bechaare aa_e zindagii ke maare aa_e
+kyaa kahane aapakii to are bolo na ( jaiho ) \-3
+log aate jaate rahe.n aap muskuraate rahe.n
+haa.N log aate jaate rahe.n aap muskuraate rahe.n
+zindagii hamaarii le lo \threedots
+
+om shaa.nti
+%
+#endindian
+\endsong
+

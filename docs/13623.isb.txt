@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ba.Daa Kushanasiib hai jise tuu nasiib hai}%
+\film{Pyase Panchhi}%
+\year{1961}%
+\starring{Amita, Mehmood, Jeevan, David}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #10896 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ba.Daa Kushanasiib hai jise tuu nasiib hai
+use aur chaahi_e kyaa jisake tuu qariib hai
+ba.Daa Kushanasiib \threedots
+
+sadaqe jaa_e.N terii nazar ke
+tiir chalaa_e.N jii bhar\-bhar ke
+jii uThe.n ham tujhape mar ke
+haal\-e\-dil naa puuchhi_e haal\-e\-dil ajiib hai
+use aur chaahi_e \threedots
+
+ham to kahaa.N the tere qaabil
+teraa qaram hai tuune diyaa dil
+Kud hii chal ke aa ga_ii ma.nzil
+vah to baadashaah hai bhale hii Gariib hai
+use aur chaahi_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mohe apanaa banaa lo saajan mohe apanaa banaa lo}%
+\film{Bandish}%
+\year{1955}%
+\starring{Ashok Kumar,  Meena Kumari}%
+\singer{Asha}%
+\music{Hemant}%
+\lyrics{Prem Dhawan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+mohe apanaa banaa lo saajan mohe apanaa banaa lo \-2
+mere nanhe se naazuk man kii dekho batiyaa.N naa Taalo
+ho o ho o
+mohe apanaa banaa lo saajan mohe apanaa banaa lo
+
+( sambhale na aaj piyaa jaane kyuu.N meraa jiyaa
+gir\-gir mai.n jaa_uu.N haay tumane kyaa jaaduu kiyaa ) \-2
+ho o ho o
+zaraa aa ke sambhaalo saajan zaraa aa ke sambhaalo 
+mohe apanaa banaa lo saajan mohe apanaa banaa lo
+
+( baa.Nho.n me.n terii piyaa jhuulaa mai.n jhuuluu.N
+tuu mujhako na bhuule naa mai.n tujhako bhuuluu.N ) \-2
+ho o ho o
+ye qasam aaj khaa lo saajan ye qasam aaj khaa lo 
+
+mohe apanaa banaa lo saajan mohe apanaa banaa lo
+mere nanhe se naazuk man kii dekho batiyaa.N naa Taalo
+ho o ho o
+mohe apanaa banaa lo saajan mohe apanaa banaa lo \-2
+
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ai Kudaa mujhe de pataa mere mahabuub kaa}%
+\film{Taajmahal}%
+\year{2001}%
+\starring{Raghu Nair, Poornima}%
+\singer{Roop Kumar Rathod, KayKay}%
+\music{Santosh Nair}%
+\lyrics{Rahul B Seth}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai Kudaa mujhe de pataa mere mahabuub kaa
+hai tujhase ye iltazaa mujhe usake paas le jaa
+phuul sii naazuk thii vo ik parii aasamaanii
+usakii paak muhabbat thii terii meharabaanii
+aakharii ik ehasaan kar mujhe yuu.n naa ta.Dapaa
+mujhe usake paas le jaa
+ai Kudaa mujhe de pataa \threedots
+
+kitane hasiin lamho.n se thii bharii zi.ndagaanii
+chho.D ga_ii yaado.n me.n pyaar kii har nishaanii
+sun le fariyaad ye mujhe yuu.n naa ta.Dapaa
+mujhe usake paas le jaa
+ai Kudaa mujhe de pataa \threedots
+
+aa.Nkhe.n hai.n nam hai Gam kaa dhu_aa.N
+hone lagii hai merii jaan judaa
+rah jaa_e.ngii bas yaade.n yahaa.n yaade.n yahaa.n yaade.n yahaa.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{vatan kii maaTii haath me.n lekar maathe tilak lagaa lo}%
+\film{Gaon}%
+\year{1947}%
+\starring{Karan Deewan, Indu, Mishra, Tiwari, Ameer Banu, Ram Singh}%
+\singer{Mukesh, Geeta}%
+\music{Khemchand Prakash}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #11410 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+do \:	vatan kii maaTii haath me.n lekar maathe tilak lagaa lo
+gii \:	vatan kii maaTii haath me.n lekar maathe tilak lagaa lo
+mu \:	jis maaTii ne janam diyaa us maaTii ke guN gaa lo
+gii \:	jis maaTii ne janam diyaa us maaTii ke guN gaa lo
+ko \:	vatan kii maaTii haath \threedots
+
+mu \:	maaTii ho ke sonaa ugale
+gii \:	maaTii ho ke sonaa ugale ye sonaa vo sonaa hai
+ko \:	ye sonaa vo sonaa hai
+do \:	chor churaa_e Daakuu luuTe khatam kabhii nahii.n honaa hai
+mu \:	aisii pyaarii daulat ko
+gii \:	aisii pyaarii daulat ko
+do \:	tan\-man se apanaa lo
+ko \:	jis maaTii ne janam \threedots
+
+mu \:	Gairo.n ne baahar se aa ke
+gii \:	Gairo.n ne baahar se aa ke
+mu \:	peT bhare yahaa.N apane
+ko \:	peT bhare yahaa.N apane
+do \:	sukh kii nii.nd sadaa vo so_e dekhe sukh ke sapane
+ko \:	sukh kii nii.nd sadaa vo so_e dekhe sukh ke sapane
+mu \:	band karo ab ghar ke dvaare
+gii \:	band karo ab ghar ke dvaare
+ko \:	jis maaTii ne janam \threedots
+%
+#endindian
+\endsong
+

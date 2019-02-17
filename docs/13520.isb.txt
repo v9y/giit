@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dekhe hai.n ka_ii chehare jahaa.N me.n magar}%
+\film{Pyaar Pyaar}%
+\year{1995}%
+\starring{Suyog Mukherjee, Rajeshwari, Paresh Rawal, Kiran Kumar, Mushtaq Khan}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhe hai.n ka_ii chehare jahaa.N me.n magar
+ek tere hii chehare pe pyaar aayaa
+ho.nge hasii.n laakho.n jahaa.N me.n magar
+ek tujhape hii dil diladaar aayaa
+pyaar aayaa pyaar aayaa
+ek tere hii chehare \threedots
+
+aa.Nkho.n me.n aisii kaajal kii rekhaa
+hu_e javaa.N duniyaa me.n magar kitane
+yuu.N kisii pe na aisaa nikhaar aayaa pyaar aayaa
+ek tere hii chehare \threedots
+
+tujhape luTaa dii ye zindagaanii
+betaabii is dil kii ba.Dhatii ga_ii
+pyaar aisaa kisii pe pahalii baar aayaa
+pyaar aayaa
+ek tere hii chehare \threedots
+%
+#endindian
+\endsong
+

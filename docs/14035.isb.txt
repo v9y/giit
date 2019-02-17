@@ -1,0 +1,23 @@
+%
+\startsong
+\stitle{mile.n tum se bichha.D ke ham mere saajan du_aa karanaa}%
+\film{Salaami}%
+\year{1993}%
+\starring{Ayub Khan, Kabir Bedi, Beena, Goga Kapoor, Latika Shukla, Saeed Jaffrey}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+
+mere mahabuub kii ye hii \threedots
+%
+#endindian
+\endsong
+

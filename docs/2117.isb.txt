@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{kaahe ko roye, chaahe jo hoye}%
+\film{Aradhana}%
+\year{}%
+\starring{Rajesh Khanna, Sharmila Tagore, Farida Jalal}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+banegii aashaa ik din terii ye niraashaa
+
+kaahe ko roye, chaahe jo hoye
+safal hogii terii aaraadhanaa
+kaahe ko roye   \threedots
+
+aa.Nkhe terii kaahe naadaan
+chhalak gayii gaagar samaan
+samaa jaaye is me.n tuufaan
+jiyaa teraa saagar samaan
+jaane kyo.n tuune yuu.N
+asuvan se nain bhigoye
+kaahe ko roye   \threedots
+
+kahii.n pe hai sukh kii chhaayaa
+kahii.n pe hai dukho.n kaa dhuup
+buraa bhalaa jaisaa bhii hai
+yahii to hai bagiyaa kaa ruup
+phuulo.n se, kaa.nTo.n se 
+maalii ne haar piroye
+kaahe ko roye   \threedots
+
+diyaa TuuTe to hai maaTii
+jale to ye jyoti bane
+aa.Nsuu bahe to hai paanii
+ruke to ye motii bane
+ye motii aa.Nkho.n kii
+puu.Njii hai ye na khoye
+kaahe ko roye   \threedots
+
+%
+#endindian
+\endsong
+%

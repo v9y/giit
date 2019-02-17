@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{kaho aake bahaar kare meraa si.ngaar}%
+\film{Forty Days/ Chaalees Din/ 40 Din}%
+\year{1959}%
+\starring{Shakeela, Premnath, K N Singh, Maruti, Shammi, Nishi, Cukoo, Satish Batra}%
+\singer{Mukesh, Asha}%
+\music{Babul}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: BOL ANAMOL #10064 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	kaho aake bahaar kare meraa si.ngaar
+	mujhe pyaar milaa ho diladaar milaa
+mu \:	chunuu.N phuul hazaar karuu.N tujhape nisaar
+	mujhe pyaar milaa ho diladaar milaa
+
+aa \:	ye mast fizaa dil ko diivaanaa banaatii hai
+mu \:	ik shokh nazar terii sau bhed bataatii hai
+aa \:	tumhii.n meraa qaraar tumhii.n meraa nikhaar
+	mujhe pyaar milaa \threedots
+
+	bedard zamaane ko ham pyaar sikhaa de.nge
+mu \:	dil kho hii chuke pahale ab jaa.n bhii ga.nvaa de.nge
+aa \:	ye hai aisaa khumaar nahii.n jisakaa utaar
+	mujhe pyaar milaa \threedots
+%
+#endindian
+\endsong
+

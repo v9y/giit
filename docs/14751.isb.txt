@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mast pawan shaaKe.n laharaaye.n}%
+\film{Haar Jeet/ Abhinetri}%
+\year{1940}%
+\starring{Kanan Devi, Pahadi Sanyal}%
+\singer{Kanan Devi, Pahadi Sanyal}%
+\music{R C Boral}%
+\lyrics{Arzoo or Kedar Sharma}%
+
+% Contributor: V S Rawat, 31 Jul 2004
+% Series: GEETanjali
+% Comments: A 1 min 35 sec long piece of music at the start
+% Song courtesy: Oldies Club (oldiesclub at iname dot com)
+
+\printtitle
+#indian
+
+kaa \:	mast pawan shaaKe.n, laharaaye.n
+	ban\-ban mor papiihe gaaye.n
+	he mast pawan shaaKe.n, laharaaye.n
+	ban\-ban mor papiihe gaaye.n
+	he mast pawan shaaKe.n, laharaaye.n
+
+	phuul, phuul
+	phuul\-phuul par bha.Nware jaaye.n
+	jaakar, priit ke, giit sunaaye.n
+
+	phuul\-phuul par bha.Nware jaaye.n
+	jaakar priit ke giit sunaaye.n
+
+pa \:	( jo hriday me.n giit hai vyaakul
+	tuu bhii use sunaa sunaa ) \-2
+	gaa sajanawaa gaa sanawaa
+	gaa sajanawaa gaa
+
+do \:	mast pawan shaaKe.n laharaaye.n
+	ban\-ban mor papiihe gaaye.n.a.a.a
+	he mast pawan shaaKe.n	
+
+#endindian
+\endsong

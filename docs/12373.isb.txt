@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{pahalii pahalii baar hai ... kyaa yahii pyaar hai}%
+\film{Kya Yehi Pyaar Hai}%
+\year{2002}%
+\starring{Jackie Shroff, Aftab Shivdasani, Ameesha Patel, Anupama Verma}%
+\singer{Alka Yagnik, Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii pahalii baar hai dil bekaraar hai
+chhaane lagii bekhudii kaisaa ye khumaar hai
+ai dil mujhako bataa kyaa yahii pyaar hai
+haa.N yahii pyaar hai
+pahalii pahalii baar \threedots
+
+haa.N yahii pyaar hai
+aramaan ko_ii dha.Dakan me.n hai
+mehamaan dil ke darpan me.n hai
+chhaane lagii hai.n ab mastiyaa.n
+khushbuu kisii kii tan man me.n hai
+raato.n kii nii.nde.n u.Dane lagii.n
+aur chain din kaa jaane lagaa
+jaaduu saa chalane lagaa kyaa yahii pyaar hai
+haa.N haa.N yahii pyaar hai
+pahalii pahalii baar \threedots
+
+kuchh naa kahe.nge ho.nTho.n se ham
+baate.n kare.nge aa.Nkho.n se ham
+haa.N mahasuus kar lo saa.Nse.n merii
+baate.n kare.nge saa.Nso.n se ham
+ab kyaa kare.nge lafzo.n kaa ham
+mujh ko to aisaa lagane lagaa
+dha.Dakan ne merii kahaa kyaa yahii pyaar hai
+haa.N haa.N yahii pyaar hai
+pahalii pahalii baar \threedots
+%
+#endindian
+\endsong
+

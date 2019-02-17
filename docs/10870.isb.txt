@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kahii.n qaraar na ho aur kahii.n Kushii na mile}%
+\film{Chandi Ki Deewar}%
+\year{1964}%
+\starring{Bharat Bhushan, Nutan, Indrani Mukherji, Honey Irani, Sudhir, Naaz}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10287 [V S Rawat]
+% Transliterator: 
+% Credits: U.V. Ravindra
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kahii.n qaraar na ho aur kahii.n Kushii na mile
+hamaare baad kisii ko ye zindagii na mile
+
+siyaah\-nasiib ko_ii unase ba.Dhake kyaa hogaa \-2
+jo apanaa ghar bhii jalaa de.n to roshanii na mile
+hamaare baad kisii ko \threedots
+
+% siyaah = black, dark. siyaah\-nasiib = ill-fated.
+
+yahii suluuk hai gar aadamii se duniyaa kaa \-2
+to kuchh ajab nahii.n duniyaa me.n aadamii na mile
+hamaare baad kisii ko \threedots
+
+ye bebasii bhii kisii bad{}du_aa se kam to nahii.n
+ke khul ke jii naa sake aur maut bhii na mile
+hamaare baad kisii ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,53 @@
+% ITRANS SONG # 3280; Created on Jan 26, 2004
+%
+%      From: Abhay Phadnis (aphadnis@hotmail.com)
+%      Date: 2002-10-25 03:47:39 PST 
+%
+\startsong
+\stitle{baat hii baat me.n}%
+\film{Pakistani-film{Dopatta)}%
+\year{1952}%
+\starring{Noorjehan, Sudhir, Ajey Kumar, Yasmin}%
+\singer{Noorjehan}%
+\music{Feroze Nizami}%
+\lyrics{Mushir Kazmi}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Comments: Noor-e-Tarannum Series; October 25, 2002
+% Availability: "Rare Gems - Noor Jehan", Vol. 2 - HMV release
+% Editor:	Urzung Khan, Jamal
+%
+\printtitle
+#indian
+%
+baat hii baat me.n jii baat hii baat me.n
+baat hii baat me.n jii chaa.Ndanii raat me.n \-2
+jiyaa meraa kho gayaa
+haa_e kisiikaa ho gayaa
+pahalii mulaaqaat me.n jii \-2
+chaa.Ndanii raat me.n
+baat hii baat me.n
+
+aa_e din bahaar ke jii aa_e din bahaar ke \-2
+giit gaa_uu.N pyaar ke, pyaar me.n dil haar ke
+taaro.n bharii raat me.n, haa.n
+taaro.n bharii raat me.n jii taaro.n bharii raat me.n
+jiyaa meraa kho gayaa haa_e kisiikaa ho gayaa
+pahalii mulaaqaat me.n jii \-2
+chaa.Ndanii raat me.n
+baat hii baat me.n
+
+gaa_e jiyaa giit hai jii gaa_e jiyaa giit hai \-2
+laagii un se priit hai, priit kii ye riit hai
+haath rahe haath me.n haa.n
+haath rahe haath me.n jii
+chaa.Ndanii raat me.n
+jiyaa meraa kho gayaa haa_e kisiikaa ho gayaa
+pahalii mulaaqaat me.n jii \-2
+chaa.Ndanii raat me.n
+baat hii baat me.n
+%
+#endindian
+\endsong
+%

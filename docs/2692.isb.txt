@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{puravaiyaa ke jho.nke aaye}%
+\film{Dulhan Wahi Jo Piya Man Bhaye}%
+\year{1977}%
+\starring{Rameshwari, Prem Kishan, Gayatri}%
+\singer{Hemlata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+puravaiyaa ke jho.nke aaye
+chandan ban kii mahak bhii laaye
+duur vo nindyaa raanii muskaaye
+muu.Nd lo nainaa to naino.n me.n aa jaaye
+puravaiyaa ke jho.nke aaye
+
+nii.nd kii dulhan ba.Dii sharmiilii
+ujiyaare me.n na aaye
+koii jo chau.nke koii kuchh bole
+to raste pe mu.D jaaye
+diip bujhaa do to pal bhar me.n aa jaaye
+muu.Nd lo nainaa to \threedots
+
+nii.nd kii chintaa le ke jo jaage
+usako nii.nd na aaye
+phuul saa manavaa le ke jo soye
+usako hii nii.nd sulaaye
+chho.D do chintaa to pal bhar me.n aa jaaye
+muu.Nd lo nainaa to \threedots
+
+%
+#endindian
+\endsong
+%

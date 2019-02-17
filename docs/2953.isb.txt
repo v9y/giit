@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{sau saal pahale mujhe tum se pyaar thaa}%
+\film{Asli Naqli}%
+\year{1961}%
+\starring{Dev Anand, Sadhana}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: David Windsor
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+sau saal pahale mujhe tum se pyaar thaa
+aap bhii hai aur kal bhii rahegaa
+sadiyo.n se tujh se milane jiyaa beqaraar thaa
+aaj bhii hai aur kal bhii rahegaa
+ 
+tum ruuThaa na karo merii jaa.N merii jaan nikal jaatii hai
+tum ha.Nsatii rahatii ho to ik bijalii sii chamak jaatii hai
+mujhe jiite jii o dilabar, teraa i.ntazaar thaa
+aaj bhii hai aur aur kal bhii rahegaa
+sau saal \threedots
+ 
+is dil ke taaro.n me.n madhur jha.nkar tumhii se hai
+aur yah hasiin jalavaa yah mast bahaar tumhii se hai
+dil to meraa sanam, teraa talabagaar thaa
+aaj bhii hai aur aur kal bhii rehegaa
+sau saal \threedots
+ 
+in pyaar kii raaho.n me.n kaho to ab dil ko luTaa duu.N mai.n
+o chaa.Ndii ke qadamo.n me.n dha.Dakate dil ko bichhaa duu.N mai.n
+tujhe mere jiivan par sadaa iKtiyaar thaa
+aaj bhii hai aur aur kal bhii rehegaa
+sau saal /threedots
+
+%
+#endindian
+\endsong
+%

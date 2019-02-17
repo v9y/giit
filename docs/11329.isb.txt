@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jisakaa mujhe thaa i.ntazaar}%
+\film{Don}%
+\year{1978}%
+\starring{Amitabh, Zeenat, Pran,  Iftikhar, Om Shivpuri}%
+\singer{Kishore, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11590 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	jisakaa mujhe thaa i.ntazaar jisake li_e dil thaa beqaraar
+	vo gha.Dii ( aa ga_ii ) \-2
+	aaj pyaar me.n had se guzar jaanaa hai
+	maar denaa hai tujhako yaa mar jaanaa hai
+
+	mujhape kyaa guzarii tuu kyaa jaane tuu kyaa samajhe o diivaane
+	le ke rahuu.Ngii badalaa tujhase aa_ii huu.N dil kii aag bujhaane
+	o qaatil merii nazaro.n se bach ke kahaa.N jaa_egaa
+	diyaa hai jo mujhako vahii tuu mujhase paa_egaa
+	vo gha.Dii ( aa ga_ii ) \-2
+	tiir banake jigar me.n utar jaanaa hai
+	maar denaa hai \threedots
+
+ki \:	jaaduu teraa kisape chalaa hogaa kisii din ye faisalaa
+	vo gha.Dii aa_egii
+	jaanaa.N tuune abhii ye kahaa.N jaanaa hai
+	kise jiinaa hai aur kisako mar jaanaa hai
+	vo gha.Dii aa_egii \threedots
+
+	hogaa teraa aashiq zamaanaa auro.n kaa dil hogaa teraa nishaanaa
+	naaz na kar yuu.N tiir nazar pe aa_e hame.n bhii tiir chalaanaa
+	jo hai khilaa.Dii unhe.n khel ham dikhaa_e.Nge
+	apane hii jaal me.n shikaarii pha.Ns jaa_e.Nge
+	vo gha.Dii ( aa_egii ) \-2
+	vaqt aane pe tujhako samajhaanaa hai
+	maar denaa hai \threedots
+%
+#endindian
+\endsong
+

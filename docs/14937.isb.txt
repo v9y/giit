@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{lachhamii muurat daras dikhaaye}%
+\film{Street Singer}%
+\year{1938}%
+\starring{Saigal, Kanan Devi, Jagdish, Vikram Kapoor, Subeer, Rekha}%
+\singer{Kanan Devi}%
+\music{R C Boral}%
+\lyrics{Arzoo Lucknowi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+lachhamii muurat daras dikhaaye \-2
+sir par mukut gale me.n maalaa \-2
+man lalachaaye
+lachhamii muurat daras dikhaaye \-2
+
+( hai kyaa ko_ii sohaavan sapanaa
+dhan maayaa sab apanaa\-apanaa ) \-2
+naahi.n\-naahi.n khuulii aa.Nkh me.n
+naahi.n\-naahi.n nahii.n khuulii aa.Nkh me.n
+sapanaa kahaa.N samaay
+
+lachhamii muurat daras dikhaaye \-2
+
+laalach kii kharii bii dhuup ye hai
+naa pichhale janam kii ruup ye hai
+laalach kii kharii bii dhuup ye hai
+naa pichhale janam kii ye ruup pe hai
+
+( ho nahii.n sakataa Duubaa suuraj
+raat ko saamane aaye ) \-2
+( naa dhokhaa naa ye chhal hai
+kyaa pichhale karam kaa phal hai ) \-2
+ko_ii jatan ho jaaye
+ye devi haath na aa
+
+% the version I had ended abruptly here
+
+#endindian
+\endsong

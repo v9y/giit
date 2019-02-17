@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bekhudii kaa ba.Daa sahaaraa hai}%
+\film{Ek Hi Bhool}%
+\year{}%
+\starring{Jeetendra, Rekha, Nazneen}%
+\singer{S P Balasubramaniam}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+
+% Credits: 
+%
+\printtitle
+#indian
+%
+bekhudii kaa ba.Daa sahaaraa hai varanaa duniyaa me.n kyaa hamaaraa hai
+log marate hai.n maut aane se hamako is zi.ndagii ne maaraa hai
+bekhudii kaa ba.Daa sahaaraa hai   \threedots
+
+is muqaddar ka ye sitam dekho
+Duubate jaa rahe hai.n ham dekho
+aur vo saamane kinaaraa hai
+bekhudii kaa ba.Daa sahaaraa hai   \threedots
+
+aadamii kuchh bhii kar nahii.n sakataa
+vaqt aisaa guzar nahii.n sakataa
+vaqt aisaa magar guzaaraa hai
+bekhudii kaa ba.Daa sahaaraa hai   \threedots
+
+kitanii halkii hai kitanii bojhil hai
+ko_ii aurat nahii.n ye botal hai
+band is me.n jahaan saaraa hai
+bekhudii kaa ba.Daa sahaaraa hai   \threedots
+
+%
+#endindian
+\endsong
+%

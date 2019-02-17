@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{bhagavaan terii duniyaa me.n insaan nahii.n hai.n}%
+\film{Rail Kaa Dibbaa}%
+\year{1953}%
+\starring{Madhubala, Shammi Kapoor, Sajjan, Om Prakash, Cukoo, Jayant}%
+\singer{Asha}%
+\music{Gulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10043 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bhagavaan terii duniyaa me.n insaan nahii.n hai.n
+masjid bhii hai mandir bhii hai iimaan nahii.n hai.n
+bhagavaan terii duniyaa me.n \threedots
+
+aapas me.n yahaa.N phuuT hai dil sabake judaa hai.n
+daulat jinako mil jaa_e vahii log Kudaa hai.n
+itanaa bhii nahii.n sochate ham kaun hai.n kyaa hai.n
+insaan ko insaan kii pahachaan nahii.n hai
+bhagavaan terii duniyaa me.n \threedots
+
+tuu chaahe to har mauj ko tuufaan banaa de
+sachchaa hai to biga.De hu_e iimaan banaa de
+in Kaaq ke putalo.n ko phir insaan banaa de
+varanaa mai.n samajhuu.Ngii tuu bhagavaan nahii.n hai
+bhagavaan terii duniyaa me.n \threedots
+%
+#endindian
+\endsong
+

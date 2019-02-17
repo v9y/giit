@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ab koii gulashan naa uja.De ab vatan aazaad hai}%
+\film{Mujhe Jeene Do}%
+\year{1963}%
+\starring{Sunil Dutt, Waheeda, Nirupa Roy}%
+\singer{Rafi, chorus}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ab koI gulashan naa uja.De ab vatan aazaad hai
+ruuh ga.ngaa kii himaalay kaa badan aazaad hai
+
+khetiyaa.N sonaa ugaae.n, vaadiyaa.N motii luTaae.n
+aaj gautam kii zamii.n, tulasii kaa ban aazaad hai
+
+ma.ndiro.n me.n sha.nkh baaje, masjido.n me.n ho azaa.n
+shekh kaa dharm aur diin\-e\-barahaman aazaad hai
+
+luuT kaisii bhii ho ab is desh me.n rahane na paae
+aaj sabake vaaste dharatii kaa dhan aazaad hai
+%
+#endindian
+\endsong
+%

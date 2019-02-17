@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{ham aur tum tum aur ham Kush hai.n yuu.N aaj}%
+\film{Daagh}%
+\year{1973}%
+\starring{Rajesh Khanna, Sharmila Tagore, Rakhee}%
+\singer{Kishor, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11222 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	ham aur tum tum aur ham Kush hai.n yuu.N aaj mil ke \-2
+	jaise kisii sa.ngam par mil jaa_e.N do nadiyaa.N tanhaa bahate\-bahate
+aa \:	ham aur tum \threedots
+ki \:	ham aur tum \threedots
+
+ki \:	mu.D kar kyo.n dekhe.n
+aa \:	piichhe chaahe kuchh bhii ho
+ki \:	chalate hii jaa_e.N
+aa \:	na_ii ma.nzilo.n ko
+ki \:	raste aasaa.N hai.n
+aa \:	nahii.n aaj ham do
+	tuu merii baa.Nho.n me.n mai.n terii baa.Nho.n me.n
+	laharaa_e.N raaho.n me.n
+ki \:	chale.n jhuumate ham\-tum
+aa \:	ham aur tum \threedots
+do \:	ham aur tum \threedots
+ki \:	ham aur tum \threedots
+
+aa \:	zulf ko khilane do saa.Nso.n ko ghulane doo
+	dil se dil tulane do
+ki \:	diivaane ho jaa_e.N kohare me.n kho jaa_e.N
+	mil ke yuu.N so jaa_e.N
+	jaise kisii parvat par mil jaa_e.N do baadal tanhaa u.Date\-u.Date
+do \:	ham aur tum \threedots
+%
+#endindian
+\endsong
+

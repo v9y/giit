@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{mile jo tere nainaa hamaare nainaa se}%
+\film{Do Aankhen Baarah Haath}%
+\year{1997}%
+\starring{Govinda, Aruna Irani, Madhuvanti, Rupali, Raman Khatri}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Bappi Lahiri}%
+\lyrics{Sunil Jha}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	kasam se kasam se aashiqii hai tumase
+	nazar me.n hai tuu jigar me.n hai tuu pichhale janam se
+	aahaa \-3
+a \:	kasam se kasam se \threedots
+
+ku \:	( sharm\-o\-hayaa kaa ruK se pardaa haTaa do
+a \:	aisaa suhaanaa mausam yuu.N na tum ga.nvaa do ) \-2
+ku \:	haa.N kah do naa pavan se niile gagan se
+	nazar me.n hai tuu \threedots
+a \:	kasam se kasam se \threedots
+
+	( kadamo.n me.n tere apanii duniyaa bichhaa duu.N
+ku \:	chaahat me.n terii Kaatir khud ko miTaa duu.N ) \-2
+a \:	palako.n kii chilaman se kah de.nge dushman se
+	nazar me.n hai tuu \threedots
+ku \:	kasam se kasam se \threedots
+%
+#endindian
+\endsong
+
+

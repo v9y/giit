@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{dekh lo aaj hamako jii bharake}%
+\film{Baazaar}%
+\year{1982}%
+\starring{Supriya Pathak}%
+\singer{Jagjit Kaur}%
+\music{Khaiyyam}%
+\lyrics{Mirza Shauq}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Tue Aug  8 1995
+% Credits:  
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+dekh lo aaj hamako jii bharake \-2
+koii aataa nahii.n hai phir marake
+
+ho ga_e tum, aGar ke saudaa_ii
+duur pahu.Nchegii merii rusvaaii
+dekh lo aaj \threedots
+
+aao achchii tarah se karalo pyaar
+ke nikal jaae.n ham manaa lo tum
+dekh lo aaj \threedots
+
+yaad itanii tumhe.n dilaate jaa_e.n
+paan kalake li_e lagaate laae.n
+%
+#endindian
+\endsong
+%

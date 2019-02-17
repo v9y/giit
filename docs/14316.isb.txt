@@ -1,0 +1,64 @@
+%
+\startsong
+\stitle{nayaa\-nayaa hai pyaar zamaanaa dekh na le}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Shamshad, S D Batish}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12545 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	nayaa\-nayaa hai pyaar zamaanaa dekh na le
+	pahalaa hai ikaraar zamaanaa dekh na le
+	nayaa\-nayaa hai pyaar zamaanaa dekh na le
+
+su \:	nayaa\-nayaa hai pyaar zamaanaa dekh na le \-2
+
+sha \:	hu_aa sab chaupaT
+	ga_ii duniya DaT
+	hu_ii baate.n ulaT
+	sun o naTakhaT
+	zaraa baat palat
+	kuchh gaa jhaTapaT
+	jhaTapaT \-5
+
+su \:	ho ga_ii.n aa.Nkhe.n chaar zamaanaa dekh na le
+	nayaa\-nayaa hai pyaar zamaanaa dekh na le
+
+	mujhe yaad nahii.n ko_ii raag
+	zaraa tuu jaag
+	chhe.D ko_ii raag
+	ke jisase lage dilo.n me.n aag
+	ke sun kar duniyaa jaaye bhaag
+	chhe.D ko_ii raag \-5
+
+sha \:	pahalii nazar kaa pyaar zamaanaa dekh na le
+	pahalaa hai ikaraar zamaanaa dekh na le
+
+	sun rii 
+	sun rii gorii
+	zaraa baat morii
+	pahale khe.nch to le
+	na ye TuuTe Dorii
+	kuchh gaa gorii
+	kuchh gaa \-5
+
+su \:	pahalaa hai diidaar zamaanaa dekh na le
+	nayaa\-nayaa hai pyaar zamaanaa dekh na le
+
+	haa.N jalate rahe.nge jalane waale
+	ha.Nsate rahe.nge ha.Nsane waale
+	e e e
+sha \:	ho phir bhii raho hushiyaar merii sarakaar zamaanaa dekh na le \-2
+%
+#endindian
+\endsong
+%
+

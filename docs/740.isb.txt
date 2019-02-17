@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{huii shaam un kaa khayaal aa gayaa}%
+\film{Mere Humdum Mere Dost}%
+\starring{Dharmendra, Sharmila Tagore}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+huii shaam un kaa Kayaal aa gayaa
+vahii zi.ndagii kaa savaal aa gayaa
+
+abhii tak to ho.nTho.n pe thaa tabassum kaa ek silasilaa
+bahut shaadamaa.n the ham unako bhulaakar
+achaanak ye kyaa ho gayaa
+ki chehare pe ra.ng\-e\-malaal aa gayaa \threedots
+
+hame.n to yahii thaa guruur gam\-e\-yaar hai ham se duur
+vahii Gam jise hamane kis\-kis jatan se
+nikaalaa thaa is dil se duur
+vo chalakar qayaamaat kii chaal aa gayaa \threedots
+%
+#endindian
+\endsong
+%

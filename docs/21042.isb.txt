@@ -1,0 +1,33 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{uudho karman kii gati nyaarii}%
+\film{Suur ke Shyam (Non-film)}%
+\year{2005}%
+\starring{}%
+\singer{Parthiv Gohil}%
+\music{Ashit Desai}%
+\lyrics{Soordas}%
+% 
+% Audio on: Suhetu Music
+% Tags: Devotional
+% Contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% Date: 18 Jul 2006
+% Series: Sukhsaagar
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+uudho karman kii gati nyaarii | 
+sab nadiyaa jal bhari bhari rahiyaa.N saagar kehi bidha khaarii || 
+ujjvala pa.Nkha diye bagulaa ko koyala kehi guna kaarii | 
+sundara nayana mRRigaa ko diinhe bana bana phirata ujaarii || 
+muurakh muurakh raaje kiinhe paNDita phirata bhikhaarii | 
+suur shyaama milane kii aashaa chhina chhina biitata bhaarii || 
+
+%
+#endindian
+\endsong

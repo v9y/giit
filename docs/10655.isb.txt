@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{vo duur jo nadiyaa bahatii hai vahaa.N ik alabelii}%
+\film{Barkhaa}%
+\year{1959}%
+\starring{Anant Kumar, Jagdip Nanda, Shobha Khote,  Leela Chitnis, Achala Sachdev}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10108 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	vo duur jo nadiyaa bahatii hai vahaa.N ik alabelii rahatii hai
+la \:	sun bhaiyaa vahii merii bhaabhii hai goraa mukha.Daa hai gaal gulaabii hai.n
+
+	dekho us piipal ke niiche ko_ii mast kha.Daa hai a.Nkhiyaa.N mii.nche
+ra \:	mat dekh uThaa ke le jaa_egaa tujhe apanaa banaa ke le jaa_egaa
+
+	dekho baadal aavaaraa phirataa hai kyo.n maaraa maaraa
+la \:	mai.n jaan ga_ii ye bechaaraa hai mere bhaiyaa jaisaa ku.Nvaaraa hai
+
+ra \:	vo pa.nchhii jo u.Dataa jaataa hai miiThii dhun me.n kuchh gaataa hai
+la \:	kahataa hai tuu pii ghar jaa_egii phir bhaiyaa ko yaad na aa_egii
+
+ra \:	chal aisii zubaa.N par baat na laa ha.Nsate ha.Nsate pii ke ghar jaa
+	terii raakhii kii laaj nibhaa_uu.Ngaa jiite jii na tujhako bhulaa_uu.Ngaa
+%
+#endindian
+\endsong
+

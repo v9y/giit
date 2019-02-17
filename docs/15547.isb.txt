@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tere chehare kii tarah aur mere siine kii tarah}%
+\film{Passions (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Mustafa Zaidi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+tere chehare kii tarah aur mere siine kii tarah
+meraa har sher damakataa hai nagiine kii tarah
+
+phuul jaage hai.n kahii.n tere badan kii maanind
+os mahakii hai kahii.n tere pasiine kii tarah
+
+ai mujhe chho.D ke tuufaan me.n jaane waale
+dost hotaa hai talaatum me.n safiine kii tarah
+
+teraa waadaa thaa ke is maah zuruur aayegaa
+ab to har roz guzarataa hai mahiine kii tarah
+
+#endindian
+\endsong

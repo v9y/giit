@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{Kyaalo.n pe mere chhaa_e hu_e ... ham pe dil aayaa to bolo}%
+\film{Do Ustaad}%
+\year{1959}%
+\starring{Raj Kapoor, Madhubala, Sulochana, Daisy Irani, Sheikh Mukhtar}%
+\singer{Rafi, Asha, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10515 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	Kyaalo.n pe mere chhaa_e hu_e maaluum hote ho
+	nahii.n aa_e hu_e magar aa_e hu_e maaluum hote ho
+
+aa \:	ham pe dil aayaa to bolo kyaa karoge
+	hamane ta.Dapaayaa to bolo kyaa karoge
+
+ra \:	tere ra.ngii.n husn pe mai.n ho ke paagal
+	thaam luu.Ngaa kaa.Npate haatho.n se aa.Nchal
+aa \:	haath na aayaa aa.Nchal to bolo kyaa karoge
+	hamane ta.Dapaayaa \threedots
+
+ra \:	hogii ek din beKabar terii javaanii
+	zulf ke saa_e me.n so jaa_uu.Ngaa raanii
+aa \:	na milaa saayaa to bolo kyaa karoge
+	hamane ta.Dapaayaa \threedots
+
+ra \:	hogii tere bin jo suunii merii raate.n
+	Kvaab me.n tumase karuu.Ngaa dil kii baate.n
+aa, sha \:	Kvaab na aayaa to bolo kyaa karoge
+	hamane ta.Dapaayaa \threedots
+%
+#endindian
+\endsong
+

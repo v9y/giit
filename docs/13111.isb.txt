@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{rahiye ab aisii jagah chal kar jahaa.N}%
+\film{Mirzaa Ghaalib}%
+\year{1954}%
+\starring{Bharat Bhushan, Suraiya}%
+\singer{Suraiya}%
+\music{Ghulam Mohammad}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: BOL ANAMOL #11939 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+rahiye ab aisii jagah chal kar jahaa.N ko_ii na ho
+hamasuKan ko_ii na ho aur hamazabaa.N ko_ii na ho
+rahiye ab aisii jagah
+
+be\-dar\-o\-diiwaar kaa ik ghar banaayaa chaahiye \-2
+ko_ii hamasaayaa na ho aur paasabaa.N ko_ii na ho
+rahiye ab aisii jagah
+
+pa.Diye gar biimaar to ko_ii na ho tiimaaradaar \-2
+aur agar mar jaa_iye to nauhaKwaa.N ko_ii na ho
+rahiye ab aisii jagah
+%
+#endindian
+\endsong
+

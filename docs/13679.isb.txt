@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kabhii nekii bhii usake dil me.n gar aa jaaye hai mujhase}%
+\film{Ghalib (Pakistan)}%
+\year{1962}%
+\starring{}%
+\singer{Noorjehan}%
+\music{Tasdak Hussain}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: BOL ANAMOL #12102 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+kabhii nekii bhii usake dil me.n gar aa jaaye hai mujhase
+jafaaye kar ke apanii yaad sharamaa jaaye hai mujhase
+kabhii nekii
+
+udhar wo badaGumaanii hai idhar ye naatawaanii hai \-2
+na puuchhaa jaaye hai usase na bolaa jaaye hai unase
+kabhii nekii
+
+huye hai.n paa.Nv hii pahale nabard\-e\-ishq me.n zaKmii \-2
+na bhaagaa jaaye hai mujhase na Thaharaa jaaye hai mujhase
+kabhii nekii bhii usake dil me.n gar aa jaaye hai mujhase
+kabhii nekii
+
+sambhalane de mujhe ai naa_ummiidii kyaa qayaamat hai \-2
+ke daamaan\-e\-Kayaal\-e\-yaar chhuuTaa jaaye hai mujhase
+kabhii nekii bhii usake dil me.n gar aa jaaye hai mujhase
+kabhii nekii
+%
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jo bhii dekhe aapako dekhataa rah jaa_e}%
+\film{Do Aankhen Baarah Haath}%
+\year{1997}%
+\starring{Govinda, Aruna Irani, Madhuvanti, Rupali, Raman Khatri}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Bappi Lahiri}%
+\lyrics{Sunil Jha}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	jo bhii dekhe aapako dekhataa rah jaa_e \-2
+	aap jise mil jaa_e.n usakii zindagii ban jaa_e \-2
+ka \:	aap merii taariife.n karake kar de.nge badanaam \-2
+	aapakaa javaab nahii.n aapako salaam \-2
+
+ku \:	ho.nTh tere chhuune ko dil meraa diivaanaa
+	chaahuu.N saare badan pe likh duu.N mai.n chaahat kaa afasaanaa \-2
+ka \:	sochane kaa maukaa mujhako bhii do jaan\-e\-jaanaa.n \-2
+	itanii jaldii aap itanaa aage mat ba.Dh jaanaa \-2
+ku \:	jo bhii dekhe aapako \threedots
+
+	( aap ba.De Kuubasuurat chaahe dil dil le lo
+ka \:	mai.n bhii chaahuu.N kis ko kaise dilabar ko dil de duu.N ) \-2
+ku \:	pyaar hame.n kab tak de de.ngii ye to batalaa diije \-2
+ka \:	ye soch ke bataa_e.nge ham milate rahaa kiije \-2
+ku \:	jo bhii dekhe aapako \threedots
+%
+#endindian
+\endsong
+
+

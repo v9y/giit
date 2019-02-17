@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{daaruu kii botal me.n ... phir naa kahanaa ##michal## daaruu}%
+\film{Majboor}%
+\year{1974}%
+\starring{Amitabh Bachchan, Praveen Babi, Pran}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11240 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+daaruu kii botal me.n saaheb paanii bharataa hai
+phir naa kahanaa ##michal## daaruu pii kar da.ngaa karataa hai
+
+shii shiish e kaisaa karataa aisaa kaahe ko hotaa
+dekh le jis din ##michal## ko raat ko seTh nahii.n sotaa
+Kud chorii karataa hai lekin chor se Darataa hai
+phir naa kahanaa \threedots
+
+ja.ngal me.n hai.n mor ba.De shahar me.n hai.n chor ba.De
+apane bhii ustaad yahaa.N pa.De hu_e aur ba.De
+##michal## to logo.n kii bas Kaalii jeb katarataa hai
+phir naa kahanaa \threedots
+
+saal\-mahiine ke li_e khaane\-piine ke li_e
+kitanaa paisaa chaahi_e aaKir jiine ke li_e
+log diivaane hai.n jo is paise pe marataa hai
+phir naa kahanaa \threedots
+%
+#endindian
+\endsong
+

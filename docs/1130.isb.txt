@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mai.n tasviir utaarataa huu.N}% 
+\film{Heera Panna}%
+\year{1973}%
+\starring{Dev Anand, Zeenat, Raakhee}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+mai.n tasviir utaarataa huu.N, 
+bikharii huii hasiino.n kii julfe.n savaarataa huu.N, 
+phir julfo.n ke sa.ng me.n mai.n raate.n guzaarataa huu.N 
+
+koI hasiinaa kitanii bhI maGaruur ho, 
+husn kii duniyA me.n kitanii mashahuur ho 
+mastii me.n chuur ho, paas ho yA dUr ho, dau.Dii chalii AtI hai 
+mai.n jisako pukaarataa huu.N 
+mai.n tasviir utaarataa huu.N \threedots 
+
+chaa.Nd kI bhI nA pa.Dii jinape kiran, maine dekhe un hasiino.n ke badan 
+meraa aisA hai chalan jaanejaa.n o jaaneman, to.D ke saare bandhan 
+mai.n sabako nihaarataa huu.N 
+mai.n tasviir utaarataa huu.N \threedots 
+
+thak ke saahil pe samandar so gayaa, yaad terI aa gayii mai.n so gayaa 
+ye gayaa \threedots mai.n vo gayaa \threedots ye mujhe kyA ho gayaa 
+ye gayaa mai.n vo gayaa ye mujhe kyA ho gayaa 
+naam terA letA huu.N mai.n jisako pukaarataa huu.N 
+mai.n tasviir utaarataa huu.N \threedots 
+%
+#endindian
+\endsong
+%

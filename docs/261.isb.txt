@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{bahanaa ne bhaaii kii kalaaii se pyaar baa.Ndhaa hai}%
+\film{Resham Ki Dori}%
+\year{1974}%
+\starring{Dharmendra, Saira Banu}%
+\singer{Suman Kalyanpur}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 17 1995
+% Credits: Vinod Jairaj (vjairaj@black.weeg.uiowa.edu)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+(bahanaa ne bhaaii kii kalaaii se
+ bahanaa ne bhaaii kii kalaaii se pyaar baa.Ndhaa hai 
+ pyaar ke do taar se, sa.Nsaar baa.Ndhaa hai
+ resham kii Dorii se \-2
+ resham kii Dorii se sa.Nsaar baa.Ndhaa hai)            \-2
+
+su.ndarataa me.n jo kanhaiyaa hai
+mamataa me.n yashodaa maiyyaa hai
+vo aur nahii.n duujaa koii
+vo to meraa raajaa bhaiyaa hai
+bahanaa ne bhaaii\threedots
+
+meraa phuul hai tuu, talvaar hai tuu
+merii laaj kaa paharedaar hai tuu
+mai.n akelii kahaa.N is duniyaa me.n
+meraa saaraa sa.Nsaar hai tuu
+bahanaa ne bhaaii\threedots
+
+hame.n duur bhale kismat kar de
+apane man se na judaa karanaa
+saavan ke paavan din bhaiyaa
+bahanaa ko yaad kiyaa karanaa
+bahanaa ne bhaaii\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaa rahe ho tum kahaa.n jaa_oge ... khatare ba.De hai.n raaho.n me.n}%
+\film{Hum Tum Pe Marte Hain}%
+\year{1999}%
+\starring{Govinda, Urmila Matondkar, Anupam Kher}%
+\singer{Udit Narayan, Shobha Joshi, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaa rahe ho tum kahaa.n jaa_oge lauT kar vaapas yahaa.n aa_oge
+khatare ba.De hai.n raaho.n me.n bas jaa_o merii baaho.n me.n
+kyaa aanaa jaanaa
+haa.n jaa rahe ho tum \threedots
+
+jab tak haa.N kii jha.nDii nahii.n jhukegii
+usase pahale gaa.Dii nahii.n rukegii
+za.njiir khii.nch lo tum yaa aa.Nkhe.n mii.nch lo tum
+khatare ba.De hai.n \threedots
+
+baiTho tumako palako.n pe ham biThaa le.n
+Thaharo tumako siine se ham lagaa le.n
+sabakii nazar hai tum par lagataa nahii.n tumhe.n Dar
+khatare ba.De hai.n \threedots
+
+ai halo re halo
+tum ye samajhe tum duur jaa rahe ho
+lekin tum to mere paas aa rahe ho
+mujh par yakii.n nahii.n to khud apane dil se puuchho
+khatare ba.De hai.n \threedots
+%
+#endindian
+\endsong
+

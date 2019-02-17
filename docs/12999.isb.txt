@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{o maahii o dupaTTaa meraa de\-de}%
+\film{Meena Bazar}%
+\year{1950}%
+\starring{Nargis, Shyam, Kuldip, Om Prakash, Gop, Sapru, Kanhaiyalal}%
+\singer{Rafi, Lata}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10235 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	o maahii o maahii o
+	( dupaTTaa meraa de\-de ) \-2 de\-de
+
+	tuu hai bedardii tujhe laaj naa aa_e re \-2
+	naazuk kalaa_ii merii TuuT naa jaa_e re \-2
+	de de dupaTTaa o paradesiyaa \-2
+	o maahii o dupaTTaa meraa \threedots
+
+ra \:	o gorii o gorii o
+	kar lo ye vaadaa gorii aa_ogii chorii\-chorii \-2
+	achchhaa hai ye bahaanaa lene dupaTTaa aanaa
+	ham naa de.nge tuu zor lagaa le \-2
+la \:	o maahii o dupaTTaa meraa \threedots
+
+	luu.N mai.n balaa_e.N terii kar naa badanaamii merii \-2
+	ab naa sataa_o sai.nyaa tujhako qasam hai merii \-2
+	de\-de dupaTTaa o paradesiyaa \threedots
+
+ra \:	o gorii o gorii o
+	isane milaayaa hame.n pyaaraa dupaTTaa teraa \-2
+	ek kinaaraa teraa ek kinaaraa meraa
+	( aaj dono.n kinaare milaa de ) \-2 milaa de
+la \:	o maahii o dupaTTaa meraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{tum besahaaraa ho to kisii kaa sahaaraa bano}%
+\film{Anurodh}%
+\year{1977}%
+\starring{Rajesh Khanna, Vinod Mehra}%
+\singer{Manna De, chorus}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Uday Patel, K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+tum besaharaa ho to kisii kaa sahaaraa bano
+tum ko apane aap hii sahaaraa mil jaayegaa
+kashtii koii Duubatii pahu.Nchaa do kinaare pe
+tum ko apane aap hii kinaaraa mil jaayegaa
+tum besahaaraa ho to \threedots
+
+ha.Ns kar zindaa rahanaa pa.Dataa hai
+apanaa duHkh khud sahanaa pa.Dataa hai
+rastaa chaahe kitanaa lambaa ho
+dariyaa ko to bahanaa pa.Dataa hai
+tum ho ek akele to ruk mat jaao chal nikalo
+raste me.n ko_ii saathii tumhaaraa mil jaayegaa
+tum besahaaraa ho to \threedots
+
+jiivan to ek jaisaa hotaa hai
+ko_ii ha.Nsataa ko_ii rotaa hai
+sabr se jiinaa aasaa.N hotaa hai
+fiqrase jiinaa mushkil hotaa hai
+tho.De phuul hai.n kaa.NTe hai.n jo taqadiir ne baa.NTe hai.n
+hum ko in me.n se hissaa hamaaraa mil jaayegaa
+tum besahaaraa ho to \threedots
+
+%
+% Sad version
+% Mukhada & 1st stanza are the same in both versions
+%
+tum besahaaraa ho to \threedots
+
+na bastii me.n na viiraano.n me.n
+na kheto.n me.n na khalihaano.n me.n
+na milataa hai pyaar bazaaro.n me.n
+na bikataa hai chain dukaano.n me.n
+Dhuu.Ndh rahe ho tum jis ko
+us ko baahar mat Dhuu.NDho
+man ke andar Dhuu.NDho priitam pyaaraa mil jaayegaa
+tum besahaaraa ho to \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{havaa sard chal rahii hai ... ##Love me. Touch me##}%
+\film{Benaam}%
+\year{1999}%
+\starring{Mithun Chakravarti, Aditya Pancholi, Payal Malhotra}%
+\singer{Poornima}%
+\music{Bappi Lahiri}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye ye
+o havaa sard chal rahii hai har saa.Ns jal rahii hai
+lag jaa gale se tuu haay tabiiyat machal rahii hai
+##Love me. Touch me##
+ye ye havaa sard chal rahii \threedots
+
+ko_ii nahii.n apane sivaa aur yahaa.n jaan\-e\-jigar
+rakh de mere aahaa ho.nTho.n pe huu.n huu.n ho.nTho.n ko tuu jaa_e kidhar
+likh de mere tan pe ko_ii chaahat kii daastaa.n
+mausam hai pyaar kaa
+##Love me. Touch me##
+ye ye havaa sard chal rahii \threedots
+
+aa shole uThe nas nas me.n phuu.nk na de.n kahii.n goraa badan
+o dilabar oho kuchh aisaa kar aahaa miT jaa_e dil kii jalan
+barasaa de chaahat kii mujhape tuu baarishe.n
+aa tujhako merii kasam
+##Love me. Touch me##
+ye ye havaa sard chal rahii \threedots
+%
+#endindian
+\endsong
+

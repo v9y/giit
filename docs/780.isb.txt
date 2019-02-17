@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaa re, jaa re u.D jaa re pa.nchhii, bahaaro.n ke des jaa re}%
+\film{Maya}%
+\year{1961}%
+\starring{Dev, Mala Sinha}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Ravi K Rai 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaa re, jaa re u.D jaa re pa.nchhii
+bahaaro.n ke des jaa re
+yahaa.N kyaa hai mere pyaare
+kyuu.N uja.D ga_ii bagiyaa mere man kii
+jaa re \threedots
+
+naa Daalii rahii naa kalii
+ajab Gam kii aa.Ndhii chalii
+u.Dii dukh kii dhuul raaho.n me.n
+jaa re \threedots
+
+mai.n viiNaa uThaa naa sakii
+tere sa.ng gaa naa sakii
+Dhale mere giit aaho.n me.n
+jaa re \threedots
+%
+#endindian
+\endsong
+%

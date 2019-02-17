@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{naa naa naa tum hamape ha.Nso naa piyaa}%
+\film{Mera Munna}%
+\year{1948}%
+\starring{Motilal, Nayantara, E Tarapur, Leela Mishra}%
+\singer{Mukesh, Lalita Deoolkar}%
+\music{C Ramchandra}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11373 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: This lyrics were printed in Listeners' Bulletin Vol #69 under Geetanjali #59
+%
+\printtitle
+#indian
+%
+la \:	naa naa naa
+	tum hamape ha.Nso naa piyaa hamape ha.Nso naa \-2
+
+mu \:	haa.N haa.N haa.N
+	tum hamase la.Do naa hamase la.Do naa ajii hamase la.Do naa
+la \:	tum hamape ha.Nso naa \threedots
+
+la \:	( bas itanaa kaho ) \-2 chuu.Diyaa.N ham laa_e.N ki Topii
+la \:	sharamaa ke chale jaa_e.Nge baat aisii kaho naa
+	tum hamape ha.Nso naa \threedots
+mu \:	tum hamase la.Do naa \threedots
+la \:	tum hamape ha.Nso naa \threedots
+
+mu \:	tum hamako bhulaa dogii jab aa_egaa mehamaan
+la \:	apano.n se jalo naa piyaa apano.n se jalo naa
+mu \:	tum hamase la.Do naa \threedots
+la \:	tum hamape ha.Nso naa \threedots
+
+mu \:	gar tumane use pyaar kiyaa ham to jale.nge haa.N ham to jale.nge
+la \:	vo meraa hai tum mere ho aapas me.n la.Do naa
+mu \:	tum hamase la.Do naa \threedots
+la \:	tum hamape ha.Nso naa \threedots
+%
+#endindian
+\endsong
+

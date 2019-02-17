@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{Kaamosh saa afasaanaa paanii se likhaa hotaa}%
+\film{Libaas}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Gulzar}%
+%
+% Contributor: Abhishek Kapur
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+Kaamosh\-saa afasaanaa paanii se likhaa hotaa
+na tum ne kahaa hotaa, na ham ne sunaa hotaa
+dill kii baat na puuchh, dil to aataa rahegaa
+dil bahakataa rahaa hai, dil bahakataa rahegaa
+dil ko ham ne kuchh samajhaayaa hotaa
+Kaamosh\-saa afasaanaa \threedots
+
+sahame se rahate hai.n, jab ye din Dhalataa hai
+ek diyaa bujhataa hai, ek diyaa jaltaa hai
+tum ne koii to diip jalaayaa hotaa
+Kaamosh\-saa afasaanaa \threedots
+
+itane saahil Dhuu.NDhe, koii na saamane aayaa
+jab ma.Njhadhaar me.n Duube, saahil thaamane aayaa
+tum ne saahil ko pahale bichhaayaa hotaa
+Kaamosh\-saa afasaanaa \threedots
+
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{merii pat raakho giradhaarii mai.n dukhiyaa sharaN tihaarii}%
+\film{Ghunghat}%
+\year{1960}%
+\starring{Bina Rai, Bharat Bhushan, Pradeep Kumar, Asha Parekh}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10707 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii pat raakho giradhaarii
+mai.n dukhiyaa sharaN tihaarii
+
+chho.D tumhaaraa dvaar prabhujii kisake dvaare jaa_uu.N
+tum bin meraa kaun sahaaraa kisase aas lagaa_uu.N
+ye bolo kR^iShN muraarii re
+merii pat raakho \threedots
+
+dekho biich bha.Nvar merii Duub rahii hai naiyaa
+chaaro.n or hai a.Ndheraa ko_ii nahii.n khivaiyaa
+tuufaan uThaa hai bhaarii mujhe shakti ko banavaarii
+merii pat raakho \threedots
+%
+#endindian
+\endsong
+

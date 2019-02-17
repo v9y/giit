@@ -1,0 +1,72 @@
+
+%
+\startsong
+\stitle{khaT\-khuT karatii ... gaa.Dii waale gaa.Dii dhiire haa.Nk re}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Rajkumar, Sunil Dutt, Rajendra Kumar, Kanhaiya Lal, Kumkum}%
+\singer{Shamshad, Rafi, Corus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10034 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ko \:	khaT\-khuT karatii chham\-chhum karatii
+	gaa.Dii hamarii jaaye
+	phar\-phar bhaage sabase aage
+	ko_ii paka.D naa paaye
+
+sha \:	ho gaa.Dii vaale gaa.Dii dhiire haa.Nk re
+ko \:	gaa.Dii vaale gaa.Dii dhiire haa.Nk re
+sha \:	jiyaa u.Daa jaa_e la.De aa.Nkh re
+	hoy
+ko \:	jiyaa u.Daa jaa_e la.De aa.Nkh re
+	hoy
+	gaa.Dii waale gaa.Dii dhiire haa.Nk re
+
+sha \:	dil khaaye hichakole
+	gaa.Dii le chal haule\-haule
+ko \:	gaa.Dii le chal haule\-haule \-2
+sha \:	ho bi.ndiyaa morii gir\-gir jaaye
+	nathanii haale\-Dole
+ko \:	ho rii nathanii haale\-Dole
+ra \:	o dekh najar na laage gorii
+	kaahe mukha.Daa khole
+ko \:	dekh najar na laage re gorii
+	kaahe mukha.Daa khole
+ra \:	o naino.n waalii ghuu.NghaT se
+	naa jhaa.Nk re
+	hoy
+ko \:	gaa.Dii waale gaa.Dii dhiire haa.Nk re
+
+ko \:	ara ra ra ra ra
+	haay
+sha \:	morii laal chunariyaa u.D ga_ii re
+	morii kajare kii Dibiyaa gir ga_ii re
+	hawaa me.n u.D ga_ii morii chunariyaa
+	mil ga_ii.n tose akhiyaa.N
+ko \:	balamaa mil ga_ii.n tose akhiyaa.N \-2
+sha \:	ho goraa badan moraa thar\-thar kaa.Npe
+	dha.Dakan laagii chhatiyaa
+ko \:	raamaa dha.Dakan laagii chhatiyaa
+ra \:	o alabelii biich Dagariyaa
+	naa kar aisii batiyaa.N
+ko \:	o alabelii biich Dagariyaa
+	naa kar aisii batiyaa.N
+ra \:	o sune.n sab logawaa
+	kaTe naak re
+ko \:	gaa.Dii waale gaa.Dii dhiire haa.Nk re
+
+ko \:	khaT\-khuT karatii chham\-chhum karatii
+	gaa.Dii hamarii jaaye
+	phar\-phar bhaage sabase aage
+	ko_ii paka.D naa paaye
+
+ko \:	o gaa.Dii waale gaa.Dii dhiire haa.Nk re
+%
+#endindian
+\endsong
+

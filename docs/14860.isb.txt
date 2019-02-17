@@ -1,0 +1,41 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aag paanii me.n lagii, hoy hoy kaise}%
+\film{Jhoola}%
+\year{1962}%
+\starring{Vyjayantimala, Sunil Dutt, Pran, Sulochna, Rajendra Nath, Achla Sachdev}%
+\singer{Lata, Rafi, Chorus}%
+\music{Salil Chowdhary}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+ra \:	aag paanii me.n lagii, hoy hoy kaise \-2
+	ke husn kii naav chalii hoy hoy aise \-3
+
+la \: 	aayaa laharo.n me.n dhuwaa.N oy oy kaise \-2
+	ke dilajale ho.nge yahaa.N oy oy aise \-3
+
+ra \:	aa_ii kahaa.N se jaane.n haay itanii titaliyaa.N
+la \:	Dar ke rahanaa ban jaaye.ngii bijaliyaa.N \-2
+ra \:	dhuup me.n bijalii girii hoy hoy kaise
+	ke husn kii naav chalii hoy hoy aise \-3
+
+la \:	paanii kii kamii nahii.n aaG bujhaate jaa_o \-2
+ra \:	ham bujhaate jaaye.n tum lagaate jaa_o \-2
+la \: 	aaj roshan hai jahaa.N oy oy kaise
+	ke dilajale ho.nge yahaa.N oy oy aise \-3
+
+ra \:	aag paanii me.n lagii, hoy hoy kaise
+	ke husn kii naav chalii hoy hoy aise \-3
+
+la \: 	aayaa laharo.n me.n dhuwaa.N oy hoy kaise \-2
+	ke dilajale ho.nge yahaa.N oy oy aise \-3
+
+#endindian
+\endsong

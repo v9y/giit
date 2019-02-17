@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{man mor huaa matavaalaa}%
+\film{Afsar}%
+\year{1948}%
+\starring{Dev Anand, Suraiyya}%
+\singer{Suraiyya}%
+\music{S D Burman}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Hemlata N. Khemani (hnkst5+@pitt.edu)
+% Date: 16 sept, 1997
+% Transliterator:
+%
+\printtitle
+#indian
+%
+
+man mor huaa matavaalaa
+kisane jaaduu Daalaa re kisane jaaduu Daalaa
+man mor
+
+ghir ghir aa_ii \-2 
+kaarii badariyaa
+bole praaN\-papiihaa piyaa piyaa piyaa
+jiyaa sharamaaye\-2
+muskaa_ii aramaano.n kii jayamaalaa
+matawaalaa huaa matawaalaa
+kisane jaaduu Daalaa re kisane jaaduu Daalaa
+man mor
+
+tum suhaag ho mai.n suhaganii 
+suhaaganii mai.n suhaaganii
+tum sur ho mai.n madhur raaginii mai.n suhaganii
+tum nas\-nas ras kii phuaar
+mai.n rom\-rom madhushaalaa
+matavaalaa huaa matawaalaa
+kisane jaaduu Daalaa re kisane jaaduu Daalaa
+man mor
+
+%
+#endindian
+\endsong
+%

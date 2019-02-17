@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{maa.N mujhe apane aa.Nchal me.n chhipaa le}%
+\film{Chhota Bhai}%
+\year{1966}%
+\starring{Rahman, Nutan, Mahesh Kumar}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11494 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+maa.N mujhe apane aa.Nchal me.n chhipaa le
+gale se lagaa le
+ki aur meraa ko_ii nahii.n
+phir na sataa_uu.Ngaa kabhii paas bulaa le
+gale se lagaa le
+ki aur meraa ko_ii nahii.n
+maa.N mujhe apane \threedots
+
+bhuul merii chhoTii sii bhuul jaa_o maataa
+aise ko_ii apano.n se ruuTh nahii.n jaataa
+ruuTh gayaa huu.N mai.n tuu mujhako manaa le
+gale se lagaa le
+ki aur meraa ko_ii nahii.n
+maa.N mujhe apane \threedots
+
+god me.n terii aaj tak mai.n palaa huu.N
+u.Ngalii paka.D ke terii maa.N mai.n chalaa huu.N
+tere binaa mujhako ab kaun sambhaale
+gale se lagaa le
+ki aur meraa ko_ii nahii.n
+maa.N mujhe apane \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mere chehare pe likhaa hai afasaanaa aapakaa ... maine bhii kabuul kiyaa hai}%
+\film{Taaqat}%
+\year{1995}%
+\starring{Dharmendra, Shatrughan, Farha, Kajol, Vikas Bhalla, Kader, Mukesh Khanna}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere chehare pe likhaa hai afasaanaa aapakaa
+sab jaan ga_e ki mai.n huu.N diivaanaa aapakaa
+mere chehare pe likhaa hai \threedots
+
+maine bhii kabuul kiyaa hai nazaraanaa aapakaa
+dilabar ye meraa bhii dil hai diivaanaa aapakaa
+
+mahabuub kasam hai rab kii ikaraar kiyaa na maine
+sab jaan ga_e phir kaise ijahaar kiyaa na maine
+chupake se sanam chorii se mulaaqaat hu_ii hai tumase
+sab jaan ga_e phir kaise jo baat hu_ii hai tumase
+are raaz bataa detaa hai ghaba.Daanaa aapakaa
+sab jaan ga_e hai.n ki \threedots
+
+jab phuul khile baaho.n me.n khushbuu to bikharatii jaa_e
+har baat chhupaa le ko_ii par pyaar chhupaa na paa_e
+jab aag lage is tan me.n uThataa hai dhu_aa.n saa.Nso.n se
+tasviir merii dikhatii hai hamaraah kii do aa.Nkho.n se
+bechain mujhe karataa hai ta.Dapaanaa aapakaa
+dilabar ye meraa bhii dil \threedots
+%
+#endindian
+\endsong
+

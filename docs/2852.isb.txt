@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham ko chho.D ke kahaa.N jaa_oge}%
+\film{Shrimati 420}%
+\year{1956}%
+\starring{Meena, Om Prakash, Johnny Walker}%
+\singer{Geeta}%
+\music{N Dutta}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 7, 2000
+%
+\printitle
+#indian
+%
+
+ham ko chho.D ke kahaa.N jaa_oge
+sai.nyaa tum ba.Daa duHkh paa_oge
+ab jaan bhii lo pahachaan bhii lo
+nazare.n ye pyaar kii
+
+tum javaa.N meraa dil javaa.N
+ek nazar mere meharabaa.N
+maano maano merii baat mano 
+nahii.n gair jaano o piyaa
+ham ko chho.D ke \threedots
+
+dilrubaa merii har adaa
+har nazar merii ik balaa
+gorii gorii merii dekho baahe.n
+bhare log aahe.n o piyaa
+ham ko chho.D ke \threedots
+
+%
+#endindian
+\endsong
+%

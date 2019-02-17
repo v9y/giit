@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jurm\-e\-ulfat pe hame.n log sazaa dete hai.n}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep Kumar, Beena Roy}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+jurm\-e\-ulfat pe hame.n log sazaa dete hai.n \- 2
+kaise naadaan hai.n, sholo.n ko havaa dete hai.n 
+kaise naadaan hai.n 
+
+hamase dIvaane kahii.n tar ke vafaa karate hai.n \- 2
+jaan jaaye ki rahe baat nibhaa dete hai.n 
+jaan jaaye\threedots
+
+aap daulat ke taraazuu mai.n dilo.n ko taule.n \- 2
+ham mohabbat se mohabbat kA silaa dete hai.n 
+ham mohabbat se\threedots
+
+taKt kyA chiiz hai aur laal\-o\-javaahar kyA hai \- 2
+ishq vAle to khudaa_ii bhI luTa dete hai.n 
+ishq vaale \threedots
+
+hamane dil de bhI diyaa ehad\-e\-vafaa le bhI liyaa \- 2
+aap ab shokh se dede.n jo sazaa dete hai.n 
+jurm\-e\-ulfat pe hame.n log sazaa dete hai.n 
+%
+#endindian
+\endsong
+%

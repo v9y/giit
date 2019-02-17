@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ai merii aa.Nkho.n ke pahale sapane}%
+\film{Man Mandir}%
+\year{1971}%
+\starring{Sanjeev Kumar, Waheeda Rahman}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajendra Krishan}%
+%
+% Contributor: BOL ANAMOL #11174 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	ai merii aa.Nkho.n ke pahale sapane
+	ra.ngiin sapane maasuum sapane
+	palako.n kaa palanaa jhulaa_uu.N tujhe
+	gaa\-gaa ke lorii sulaa_uu.N tujhe
+	ai merii aa.Nkho.n ke \threedots
+
+	ek\-ek pal ginuu.N us gha.Dii ke li_e
+	jisakii ummiid me.n har ko_ii maa.N ji_e	
+	ai merii aa.Nkho.n ke \threedots
+mu \:	o ai merii aa.Nkho.n ke \threedots
+
+	mai.n abhii se terii sun rahaa huu.N sadaa
+	duur jaise kahii.n saaz ho baj rahaa
+	ai merii aa.Nkho.n ke \threedots
+
+do \:	ai merii aa.Nkho.n ke \threedots
+%
+#endindian
+\endsong
+

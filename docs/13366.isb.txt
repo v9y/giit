@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pyaar kisii se kab hotaa hai ... pyaar kaa matalab rab hotaa hai}%
+\film{Om Jai Jagadish}%
+\year{2002}%
+\starring{Anil Kapoor, Abhishek Bachchan, Fardin Khan, Vahida Rahman, Mahima Chaudhary, Urmila Matondkar, Tara Sharma}%
+\singer{Udit Narayan, Sonu Nigam, Alka Yagnik, Kavita Subramaniam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar kisii se kab hotaa hai jab honaa ho tab hotaa hai
+pyaar kaa kyaa matalab hotaa hai
+pyaar kaa matalab rab rab rab rab rab hotaa hai
+pyaar kisii se \threedots
+
+ko_ii mahasuus karake to dekhe ise
+khuubasuurat se bhii khuubasuurat hai ye
+khushbuu banake ye saa.Nso.n me.n ghul jaataa hai
+dil kii bechainiyo.n kii zaruurat hai ye
+isakii dha.Dakan anjaanii sii isakaa dard ajab hotaa hai
+pyaar kaa kyaa matalab \threedots
+
+naa subah kaa pataa naa khabar shaam kii
+isakii chaahat me.n hai bas nashaa hii nashaa
+ko_ii maane naa maane magar sach hai ye
+sabase hotii hai ik baar aisii khataa
+isakii pyaas pataa chalatii hai jab ho.nTho.n pe lab hotaa hai
+pyaar kaa kyaa matalab \threedots
+%
+#endindian
+\endsong
+

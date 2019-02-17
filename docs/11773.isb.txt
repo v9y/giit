@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mere sapano.n kaa vo raajaa ... haTaa saavan kii ghaTaa}%
+\film{Hello Brother}%
+\year{1999}%
+\starring{Salman Khan, Arbaaz Khan, Rani Mukherji}%
+\singer{Babul Supriyo, Japindar Narula}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere sapano.n kaa vo raajaa mere dil kaa vo raajakumaar
+mai.n to usakii diivaanii banuu.ngii
+usape aane lagaa mujhako pyaar
+karatii huu.N usakaa mai.n ab i.ntazaar
+ye to hai tujhako pataa
+ai haTaa saavan kii ghaTaa haTaa saavan kii ghaTaa
+mere sapano.n kaa \threedots
+
+ko_ii baat hai usame.n puuchho naa
+vo jo aayaa pasa.nd mujhako
+o tuune aaj mujhe pahachaanaa hai
+maine maanaa akal hai tujhako
+mai.n to tere chakkar me.n aa_uu.ngii nahii.n
+kitanaa bhii mujhako paTaa
+ai haTaa saavan kii ghaTaa \threedots
+
+tere sapano.n me.n jo aataa hai
+vahii dilabar huu.N mai.n jaanaa.n
+vo to aur ko_ii duujaa hai
+meraa majanuu meraa diivaanaa
+haal tuu kyaa jaane tere majanuu kaa ai
+hogaa kurataa bhii saalaa phaTaa
+ai haTaa saavan kii ghaTaa \threedots
+%
+#endindian
+\endsong
+

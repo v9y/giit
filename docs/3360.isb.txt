@@ -1,0 +1,42 @@
+% ITRANS SONG # 3360; Created on Jan 26, 2004
+%
+% From: Vinay (v9y@hotmail.com)
+% Date: 2002-11-26 10:57:08 PST
+%
+\startsong
+\stitle{jahaa.N bin hawaa ke pardaa hile}%
+\film{Jhoothaa Sach}%
+\year{1984}%
+\starring{Dharmendra, Rekha, Amrish Puri, Pinky, Jugal Hansraj}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: Nov 26, 2002
+% Audio on: HMV
+% Comments: Tere Hamsafar Geet Hain Tere (THGHT)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+jahaa.N bin hawaa ke pardaa hile
+aajaa mai.n wahii.n huu.N lag jaa gale
+aa jaa machalataa hai dil
+haay kaisaa jalataa hai dil
+
+raat jaane se pahale ai sanam aa_iiye
+in labo.n ke nishaa.N chho.Date jaa_iiye
+ham se nahii.n ab sa.Nbhalataa hai dil
+haay kaisaa jalataa hai dil..
+
+aise kho jaaye.n milake aaj ai jaaneman
+hosh me.n naa rahe.n do sulagate badan
+shamme.n bujhaa do machalataa hai dil
+haay kaisaa jalataa hai dil..
+%
+#endindian
+\endsong
+%

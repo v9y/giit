@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kahataa hai dil tum ho mere liye}%
+\film{Memsaahib}%
+\year{1956}%
+\starring{Meena Kumari, Shammi Kapoor, Kishore Kumar}%
+\singer{Talat, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+kahataa hai dil tum ho mere liye, mere liye, jii mere liye
+haa.N dilrubaa ham hai.n tere liye, tere liye, jii tere liye
+
+dil jaisaa chiiz tumhe.n de diyaa
+sanam teraa kaise karuu.N shukriyaa
+kyaa kyaa kiyaa tum ne mere liye, mere liye, jii mere liye
+kahataa hai dil \threedots
+
+kaho jii tumhaarii tamannaa hai kyaa
+nahii.n chaahiye kuchh tumhaare sivaa
+ham bhii to jiite hai.n tere liye, tere liye, jii tere liye
+kahataa hai dil \threedots
+
+basaa do mujhe ek aisaa jahaa.N
+nayii ho jahaa.N kii zamii.n aasamaa.N
+dil kii ye duniyaa hai tere liye, tere liye, jii tere liye
+kahataa hai dil \threedots
+
+%
+#endindian
+\endsong
+%

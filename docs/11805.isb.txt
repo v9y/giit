@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum churaa lo dil meraa sanam suno buraa kyaa hai}%
+\film{Hum To Mohabbat Karegaa}%
+\year{2000}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Annu Malik, Shraddha Pandit}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+churaa lo dil churaa lo dil
+tum churaa lo dil meraa sanam suno buraa kyaa hai
+dil tumhaaraa ho chukaa sanam suno buraa kyaa hai
+dil denaa thaa dil de chuke tumape maranaa thaa ham mar chuke
+aur kyaa kare.n bolo naa
+tum churaa lo \threedots
+
+pal pal teraa ab i.ntazaar dil bhii rahe kuchh bekaraar
+jiinaa mushkil hu_aa hai ajab pyaar kaa ye khumaar
+yaad terii aatii rahe jaan merii jaatii rahe
+ye mujhe kyaa ho gayaa bin tere kuchh naa achchhaa lage
+dil denaa thaa \threedots
+
+dil kii dha.Dakan bas tuu hii tuu merii chaahat bas tuu hii tuu
+lo kasam kii khaa_ii kasam merii duniyaa bas tuu hii tuu
+mujhako naa karo itanaa pyaar kal kaa kyaa pataa mere yaar
+is pyaar kii jiit me.n ho na jaa_e kahii.n apanii haar
+dil denaa thaa \threedots
+%
+#endindian
+\endsong
+

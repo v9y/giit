@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{musaafir huu.N yaaro.n, naa ghar hai naa Thikaana}%
+\film{Parichay}%
+\year{1972}%
+\starring{Pran, Jaya Bhaduri, Jeetendra, Sanjeev Kumar}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Credits: Venkatasubramanian K G (gopala@cs.wisc.edu)
+%          Credits: Anand P. Narayan Banana) (narayan@ucsu.Colorado.EDU)
+% Editor:  
+%
+\printtitle
+#indian
+%
+musaafir huu.N mai.n yaaro.n
+naa ghar hai naa Thikaanaa
+mujhe chalate jaanaa hai, bas, chalate jaanaa
+musaafir\threedots
+
+	ek raah ruk ga_ii, to aur ju.D gaI
+	mai.n mu.Daa to saath\-saath, raah mu.D gaI
+	havaa ke paro.n pe, meraa aashiyaanaa
+	musaafir\threedots
+
+	din ne haath thaam ke, idhar biThaa liyaa
+	raat ne ishaare se, udhar bulaa liyaa
+	subah se shaam se meraa, dostaanaa
+	musaafir\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ai merii zindagii ke sahaare ... aaj galiyo.n me.n terii}%
+\film{Sohni Mahiwaal}%
+\year{1958}%
+\starring{Bharat Bhushan, Nimmi, Achala sachdev, Sheela Kashmiri, Mukri, Tuntun}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10660 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ai merii zindagii ke sahaare kahaa.N hai tuu
+mujhako bhii apane paas bulaa le jahaa.N hai tuu
+
+aaj galiyo.n me.n terii aayaa hai diivaanaa teraa \-2
+dil me.n lekar Gam teraa ho.nTho.n pe afasaanaa teraa
+aaj galiyo.n me.n terii \threedots
+
+bhiikh de diidaar kii paradaa uThaa jalavaa dikhaa \-2
+maa.Ngataa hai husn kii Kairaat mastaanaa teraa \-2
+aaj galiyo.n me.n terii \threedots
+
+tuu hii dil ko husn kii chi.ngaariyo.n se phuu.Nk de \-2
+aag me.n Gam kii jalaa jaataa hai paravaanaa teraa \-2
+aaj galiyo.n me.n terii \threedots
+
+terii marjii hai banaa de yaa miTaa de tuu mujhe \-2
+zindagii tujh par hai sadake dil hai nazaraanaa teraa \-2
+aaj galiyo.n me.n terii \threedots
+%
+#endindian
+\endsong
+

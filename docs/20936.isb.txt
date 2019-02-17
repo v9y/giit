@@ -1,0 +1,54 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{baat merii suniye to zaraa}%
+\film{Kuch Naa Kaho}%
+\year{2003}%
+\starring{Aishwarya Rai, Abhishek Bachchan}%
+\singer{Shankar Mahadevan, Mahalaxmi}%
+\music{Shankar-Ehsaan-Loy}%
+\lyrics{Javed Akhtar}%
+% 
+% Audio on: 
+% Tags: fun breathless dialogue
+% Contributor: Vidyaan
+% Transliterator: Vidyaan
+% Date: 22 Dec 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+sha.nkar:
+baat merii suniye to zaraa
+baat merii suniye to zaraa
+merii baat sunake ye bataaiye ki isake baare me.n hai aapakaa Kayaal kyaa
+itnaa kyo.n Guruur aap me.n hai itanaa aap me.n hai naaz kisaliye bataaiye ye hai kisane ye sikhaayaa aapako
+ki jo bhii tumako chaahe jo bhii tumako pyaar se mile
+usii se tum raho Kafaa Kafaa
+
+mahaalaxmii:
+baat merii suniye to zaraa
+aise ham nahii.n hai.n lekin ham agar ho.n aise bhii to isame.n kyaa huaa
+kyo.n naa ho Guruur hamako kyo.n naa hamako naaz ho ki ham hasiin logo.n kii hii Thokaro.n me.n hai zamaanaa
+jisako dekhiye hamaaraa hai diiwaanaa
+ham kisii kaa dil bhii to.D de.n kisii ko aadhe raaste me.n chho.D de.n to usako bhii ye duniyaa kahatii hai adaa
+(he he he aapakaa jawaab mil gayaa
+ho ho ho kahiye kaisaa aapako lagaa)
+
+sha.nkar:
+baat merii suniye to zaraa
+aaj sun hii liijiye ki kyaa hai husn aapakaa
+kyaa hai aapakii adaa
+aap ke har ek sitam ko hamane hii adaa kahaa
+aur aap kii har ek adaa ko ha.Nsake hamane hii sahaa
+hamane hii zaraa sii ek baat ko ba.Dhaa ke daastaan kar diyaa hai
+hamane hii to husn kii zamiin ko aasamaan kar diyaa hai
+duniyaa me.n jo aapkaa ye husn bemisaal hai
+to isame.n bhii hamaare ishq kaa hii to kamaal hai
+agar hamii.n na hote isakaa kaun sochtaa
+%
+#endindian
+\endsong

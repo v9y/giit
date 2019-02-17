@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{a.ndhere me.n jo baiThe hai.n, nazar un par bhii kuchh Daalo}%
+\film{Sambandh}%
+\year{}%
+\starring{Deb Mukherjee, Anjana, Pradeep Kumar}%
+\singer{Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{Pradeep}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+a.ndhere me.n jo baiThe hai.n, nazar un par bhii kuchh Daalo
+are o roshanI vAlo.n 
+bure ham hai.n nahI.n itane, zarA dekho hame.n bhAlo 
+are o roshanI vAlo.n \threedots 
+
+kafan se o.Dh kar baiThe hai.n, ham sapano.n kii lAsho.n ko 
+jo kismat ne dikhAe, dekhate hai.n un tamAsho.n ko 
+hame.n nafarat se mat dekho, zarA ham par raham khAlo 
+are o roshanI vAlo.n \threedots 
+
+hamAre bhI the kuchh sAthI, hamAre bhI the kuchh sapane 
+sabhI vo rAh me.n chhUTe, vo sab rUThe jo the apane 
+jo rote hai.n kaI din se, zarA unako bhI samajhA lo 
+are o roshanI vAlo.n \threedots 
+%
+#endindian
+\endsong
+%

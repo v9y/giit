@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{pyaar ke mo.D par ... tumako hii chaahe.nge ham}%
+\film{Parwana}%
+\year{2003}%
+\starring{Ajay Devgan, Amisha Patel, Pooja Batra, Ketaki Dave, Danny Denzongpa, Sayaji Shinde, Gulshan Grover}%
+\singer{Saud Khan, Prabha Bharati}%
+\music{Sanjeev Darshan}%
+\lyrics{Afsar}%
+%
+% Contributor: BOL ANAMOL #11721 [V S Rawat]
+% Producer & Director: Bahry Films, Deepak Bahry
+% Audio: Saregama India Ltd
+% Cassette: NHF 810564 Digital, Cost: Rs 50/-, CD: 112053 CDF, Cost: Rs 125/-
+% 
+\printtitle
+#indian
+%
+sau \:	pyaar ke mo.D par chal di_e chho.D kar
+	kyaa milaa hai tumhe.n dil meraa to.D kar
+	mujhako pyaaraa lage har sitam
+	tumako hii chaahe.nge ham \-4
+pra \:	pyaar ke mo.D par chal di_e chho.D kar
+	kyaa milaa hai tumhe.n dil meraa to.D kar
+	mujhako pyaaraa lage har sitam
+	tumako hii chaahe.nge ham \-4
+
+sau \:	tumase to hai ye merii zindagii
+	merii vafaa ye merii aashiqii
+pra \:	Dhuu.NDhe tumhe.n ye hamaarii nazar
+	ta.Dapaa karuu.N mai.n to shaam\-o\-sahar
+sau \:	Guzare naa ye raat\-din kyaa kare.n
+	ye zindagii tere bin kyaa kare.n
+	kyaa yahii hai mohabbat sanam
+pra \:	tumako hii chaahe.nge ham \-2
+sau \:	tumako hii chaahe.nge ham \-2
+
+pra \:	mai.n huu.N tumhaare Kayaalo.n me.n gum
+	vaade vafaa ke bhulaa baiThe tum
+sau \:	maine to kii hai mohabbat magar
+	tumane diye mujhako zaKam\-e\-jigar
+pra \:	jab tak rahe mere siine me.n dam
+	ye pyaar hogaa kabhii bhii naa kam
+	yahii vaadaa hai rab kii qasam
+sau \:	tumako hii chaahe.nge ham \-2
+pra \:	tumako hii chaahe.nge ham \-2
+
+sau \:	pyaar ke mo.D par chal di_e chho.D kar
+pra \:	kyaa milaa hai tumhe.n dil meraa to.D kar
+sau \:	mujhako pyaaraa lage har sitam
+pra \:	( tumako hii chaahe.nge ham
+sau \:	tumako hii chaahe.nge ham ) \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{piyu\-piyu bol, piyu\-piyu bol}%
+\film{Bandhan}%
+\year{1940}%
+\starring{Leela Chitnis, Ashok Kumar, B H Desai, Suresh, Arun Kumar}%
+\singer{Pradeep}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+piyu\-piyu bol, piyu\-piyu bol
+praan\-papiihe, piyu\-piyu bol
+
+mere jiivan kii jamunaa me.n \-2
+jaag uThe manjul kallol \-2
+praan\-papiihe, piyu\-piyu bol
+
+pal\-pal nisidin saa.Njh\-sakaare
+mujhe sajan kaa naam sunaa re
+piy kaa naam ba.Daa manaranjan
+piy kaa bol ba.Daa anamol
+
+praan\-papiihe, piyu\-piyu bol
+piyu\-piyu bol, piyu\-piyu bol
+praan\-papiihe, piyu\-piyu bol
+
+#endindian
+\endsong

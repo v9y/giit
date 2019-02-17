@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saathii na koii ma.nzil, diyaa hai na koii mahafil}%
+\film{Bambai Ka Babu}%
+\year{}%
+\starring{Dev Anand, Suchitra Sen}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+saathii na koii ma.nzil
+diyaa hai na koii mahafil
+chalaa mujhe leke ai dil, akelaa kahaa.N \threedots
+
+hamadam mile koii kahii.n
+aise nasiib hii nahii.n
+bedard hai zamii.n duur aasamaa.N \threedots
+
+galiyaa.n hai.n apane desh kii
+phir bhii hai.n jaise ajanabii
+kisako kahe koii apanaa yahaa.N \threedots
+
+patthar ke inasaa.n mile
+patthar ke devataa mile
+shiishe kaa dil liye, jaauu.N kahaa.N \threedots
+%
+#endindian
+\endsong
+%

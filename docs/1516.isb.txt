@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{raat ne kyaa kyaa khvaab dikhaaye, ra.ng bhare sau jaal bichhaaye}%
+\film{Ek Gaon Ki Kahani}%
+\year{1957}%
+\starring{Talat Mahmood, Mala Sinha, Nirupa Roy, Abhi Bhattacharya}%
+\singer{Talat}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+% Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+raat ne kyA kyA khvAb dikhaaye 
+ra.ng bhare sau jaal bichhAye 
+A.Nkhe.n khulI to sapane TUTe 
+rah gaye Gam ke kaale sAye 
+raat ne \threedots 
+
+o \threedots (ham ne to chaahA bhUl bhI jAye.n 
+vo afasAnA kyo.n dohorAye.n ) \- 2
+dil rah rah ke yaad dilAye
+raat ne kyA kyA \threedots
+
+(dil me.n dil kA dad.r chhupAye 
+chalo jahA.n qismat le jAye ) \- 2
+duniyA parAyI log parAye 
+raat ne kyA kyA \threedots
+
+%
+#endindian
+\endsong
+%

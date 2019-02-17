@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{bai.nyaa na dharo, o balamaa, na karo mose raar}%
+\film{Dastak}%
+\starring{Sanjeev Kumar, Rehana Sultan}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor: Rekha Pai (rekhi@bombay.mti.sgi.com)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Chetan Vinchhi (cvinchhi@telogy.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bai.nyaa na dharo, o balamaa,
+% 	<sitar>
+%	<rhythm kicks in here>
+bai.nyaa na dharo, o balamaa
+bai.nyaa na dharo, o balamaa
+na karo mose raa\threedots r
+bai.nyaa na dharo
+%	<sitar interlude>
+
+Dhalegii chunariyaa, tan se
+Dhalegii chunariyaa, tan se \threedots tan se \threedots
+aa aa aa\threedots
+Dhalegii chunariyaa, tan se
+ha.Nse.ngii re chU.Diyaa.N chhan se 
+ha.Nse.ngii re chU.Diyaa.N chhan se \threedots chhan se chhan se
+ha.Nse.ngii re chU.Diyaa.N chhan se
+machegii jhanakaa \threedots r \threedots
+bai.nyaa na dharo \threedots na dharo \threedots na dharo, o balamaa
+%	<sitar interlude>
+
+mohe chho.Do hAy \threedots sajanaa \threedots
+mohe chho.Do hAy \threedots mohe chho.Do 
+mohe  \threedots chho.Do \threedots chho.Do sajanaa \threedots
+mohe chho.Do hAy sajanaa \threedots
+jiyaa siich uThaaye \threedots sajanaa
+jiyaa siich uThaaye \threedots uThaaye sajanaa \threedots
+rahaa mohe nihaa \threedots r
+bai.nyaa na dharo \threedots na dharo \threedots na dharo, o balamaa
+%	<sitar interlude>
+
+mai.n to aap bahakii bahakii
+mai.n to aap bahakii bahakii bahakii, aa \threedots aa \threedots aa
+mai.n to aap bahakii bahakii
+chaluu.N jaise mahakii mahakii
+chaluu.N jaise mahakii \threedots mahakii
+chaluu.N jaise mahakii
+%	<sitar>
+chameliyaa kii Daa \threedots ra
+bai.nyaa na dharo, o balamaa
+na karo mose raa \threedots ra
+bai.nyaa na dharo \threedots na dharo \threedots na dharo, o balamaa
+%
+#endindian
+\endsong
+%

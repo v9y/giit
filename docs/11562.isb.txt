@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tere pyaar ko salaam o sanam}%
+\film{Gumraah}%
+\year{1993}%
+\starring{Sanjay Dutt, Shridevi, Anupam, Rahul Roy, Soni Razdan, Kunika}%
+\singer{Kumar Sanu}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere pyaar ko salaam tere pyaar ko salaam o sanam
+o merii jaan tere naam o sanam
+mai.n terii ho ga_ii terii kasam
+o tere pyaar ko salaam \threedots
+
+paas aa ham me.n kuchh faasalaa na rahe
+kuchh teraa na rahe kuchh meraa na rahe
+ek duuje me.n kho jaa_e.n ham
+o tere pyaar ko salaam \threedots
+
+nii.nd bhii u.D ga_ii chain bhii kho gayaa
+pyaar kaa aisaa mujhe nashaa ho gayaa
+Dagamagaane lage mere kadam
+o tere pyaar ko salaam \threedots
+%
+#endindian
+\endsong
+

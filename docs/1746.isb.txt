@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{tum aa.Nkho.n se duur ho (saathiyaa, beliyaa, saajanaa)}%
+\film{Mirza Saheban}%
+\year{1947}%
+\starring{Noorjehan, Trilok Kapoor, Gulab, Gope}%
+\singer{Noorjehan, G M Durrani}%
+\music{Pt. Amarnath, Husnlal-Bhagatram}%
+\lyrics{Aziz Kashmiri}%
+% 
+% Contributor: Pavan Kumar Desikan <pkd@cs.duke.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 07/28/1996
+% Comments:
+%
+\printtitle
+#indian
+%
+nuur jahaa.N:
+tum aa.Nkho.n se duur ho, huii nii.nd aa.Nkho.n se duur
+mere saathii Gam kii choT se huaa dil kaa shiishaa chuur
+saathiyaa, beliyaa, saajanaa, ho o o \threedots
+
+durraanii:
+mujhe shikavaa hai taqadiir se, nahii.n tumase koii Gilaa
+haay, nahii.n tumase koii Gilaa
+mujhe laakar yuu.N pardes me.n meraa sab kuchh chhiin liyaa
+haay, meraa sab kuchh chiin liyaa
+saathiyaa, beliyaa, saajanaa, ho o oy \threedots
+
+nuur jahaa.N:
+merii aa.Nkho.n me.n aa.Nsuu aa base, huu.N rone par majabuur
+mere zaKm hue pardesiyaa, aa ris\-ris ke naasuur
+saathiyaa, beliyaa, saajanaa, ho o o \threedots
+
+durraanii:
+mujhe rogii karake pyaar kaa, diyaa Gam kaa rog lagaa
+haay diyaa Gam kaa rog lagaa
+mere jalate hue charaaG ko merii, qismat ga_ii bujhaa
+haay, merii qismat ga_ii bujhaa
+saathiyaa, beliyaa, saajanaa, ho o oy \threedots
+
+nuur jahaa.N:
+mujhe dhokaa diyaa nasiib ne, nahii.n meraa koii kusuur	\-2
+saathiyaa, beliyaa, saajanaa ho o o \threedots
+%
+#endindian
+\endsong
+%
+

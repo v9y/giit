@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{may se miinaa se naa saaqii se ... dil bahalataa hai meraa aapake aa jaane se}%
+\film{Khudgarz}%
+\year{1987}%
+\starring{Jeetendra, Shatrughan Sinha, Amrita Singh, Bhanupriya, Kader Khan}%
+\singer{Sadhana Sargam, Mohammed Aziz}%
+\music{Rajesh Roshan}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+may se miinaa se naa saaqii se naa paimaane se
+dil bahalataa hai meraa aapake aa jaane se
+
+gul se gu.ncho.n se naa bulabul ke gunagunaane se
+dil bahalataa hai \threedots
+
+khvaab me.n jannat kaa nak{}shaa aa gayaa saamane
+huuro.n se bhii dil naa bahalaa ham lage tujhe Dhuu.nDhane
+jannat kii bahaaro.n se na pariyo.n ke muskaraane se
+dil bahalataa hai \threedots
+
+ek din mai.n ga_ii thii jauharii baazaar me.n
+terii aa.Nkhe.n yaad aa_ii.n hiiro.n ke bhii haar me.n
+motii se hiiro.n se na jevar se naa kisii khazaane se
+dil bahalataa hai \threedots
+%
+#endindian
+\endsong
+

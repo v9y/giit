@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kuchh to log kahe.nge, logo.n kaa kaam hai kahanaa}%
+\film{Amar Prem}%
+\year{1971}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: Sandeep C. Patwardhan (scp@shack.csci.csc.com)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(kuchha to loga kahe.nge, logo.n kaa kaama hai kahanaa
+chho.Do bekaara kii baato.n me.n kahii.n biita naa jaae rainaa ) \- 2
+kuchha to loga kahe.nge, logo.n kaa kaama hai kahanaa
+
+kuchha riita jagata kii aisii hai, hara eka subaha kii shaama huii \- 2
+tU kauna hai, teraa naama hai kyaa, siitaa bhii yahaa.N badanaama huii
+phira kyuu.N sa.nsaara kii baato.n se, bhiiga gaye tere nayanaa
+kuchha to loga kahe.nge, logo.n kaa kaama hai kahanaa
+chho.Do bekaara kii baato.n me.n kahii.n biita naa jaae rainaa
+kuchha to loga kahe.nge \threedots
+
+hamako jo taane dete hai.n, hama khoe hai.n ina ra.ngaraliyo.n me.n \- 2
+hamane unako bhii chhupa chhupake, aate dekhaa ina galiyo.n me.n
+ye sacha hai jhuuThii baata nahii.n, tuma bolo ye sacha hai naa
+kuchha to loga kahe.nge, logo.n kaa kaama hai kahanaa
+chho.Do bekaara kii baato.n me.n kahii.n biita naa jaae rainaa
+kuchha to loga kahe.nge \threedots
+%
+#endindian
+\endsong
+%

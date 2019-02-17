@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{aa ... ye pyaar to hai ek dhokhaa ... allaah kare dil na laage kisii se}%
+\film{Andaaz}%
+\year{2003}%
+\starring{Akshay Kumar, Lara Dutta, Priyanka Chopra}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11662 [V S Rawat]
+% Producer: Suneel Darshan, Director: Raj Kanwar
+% Audio: Shree Krishna Audio
+% Cassette: PHF 001 Stereo, Cost: Rs 50/-, CD: TCCD001, Cost: Rs 145/-
+% Site: www.andaazthefilm.com
+%
+\printtitle
+#indian
+%
+a \:	aa ( aa aa aa ) \-3
+	ye pyaar to hai ek dhokhaa isali_e maine dil ko rokaa \-2
+	ham jis pe mare.n vo bhii hamape mare soch ke raat bhar ham jage
+	oy oy oy oy
+	allaah kare dil na laage kisii se \-4
+
+	ba.Daa siidhaa\-saadaa ba.Daa bholaa\-bhaalaa
+	hai sabase judaa vo diivaanaa meraa
+	abhii faasalaa hai magar ye pataa hai
+	haqiiqat banegaa fasaanaa meraa
+
+	ba.De josh me.n hai na ham hosh me.n hai.n
+	sa.mbhaalo hame.n ham bahakane lage
+	bataa_e.N to kaise chhu_aa tumane aise
+	to ham ban ke Kushbuu mahakane lage
+so \:	ishq to hai havaa_o.n kaa jho.nkaa isali_e maine dil ko rokaa \-2
+a \:	ham jis pe mare.n \threedots
+	allaah kare dil na \threedots
+
+so \:	suhaanii Dagar me.n tumhaarii nazar me.n
+	Kayaalo.n kii duniyaa basaa_e.Nge ham
+	mohabbat kii la.Diyaa.N hasii.n chand gha.Diyaa.N
+	sanam zindagii se churaa_e.Nge ham
+
+a \:	sajaa do ye gesuu churaa lo ye Kushbuu
+	mujhe baazu_o.n me.n chhupaa lo sanam
+	bahaaro.n me.n aa ke gale se lagaa ke
+	mujhe apanii dulhan banaa lo sanam
+so \:	is chaahat ne hamako Tokaa isali_e maine dil ko rokaa \-2
+a \:	ham jis pe mare.n \threedots
+	allaah kare dil na \threedots
+%
+#endindian
+\endsong
+

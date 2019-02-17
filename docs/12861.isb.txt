@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ilaa luu ilaa luu terii mai.n aur meraa tuu}%
+\film{Mrityudaataa}%
+\year{1997}%
+\starring{Amitabh, Dimple, Arbaz, Madhuri, Karisma, Paresh, Ashish Vidyarthi}%
+\singer{Kavita Subramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ilaa luu ilaa luu terii mai.n aur meraa tuu
+kore kaagaz pe likhavaa le niiche hastaaxar karavaa le
+ilaa luu ilaa luu \threedots
+
+jaan\-e\-jaanaa.n baraso.n se mai.n teraa diivaanaa huu.N
+dekh merii aa.Nkho.n me.n pyaar kaa paravaanaa huu.N
+merii jaa.n tumase milane kii bekaraarii rahatii hai
+jaan\-e\-jaa.n is dil me.n khumaarii rahatii hai
+jaan\-e\-jaa.n mujh par kar Daalaa kyaa jaaduu
+ilaa luu ilaa luu \threedots
+
+aajakal jo raato.n me.n khvaab tere aate hai.n
+manachale aramaano.n ko haay dard saa de jaate hai.n
+diivaanii aisii haalat me.n nii.nd kise aatii hai
+chaahat me.n na milane kii bebasii ta.Dapaatii hai
+merii saa.Nso.n me.n rahatii terii khushbuu
+ilaa luu ilaa luu \threedots
+%
+#endindian
+\endsong
+

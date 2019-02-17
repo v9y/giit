@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ye raat bhii jaa rahii hai ke Gam kii ghaTaa chhaa rahii hai}%
+\film{Sau Saal Baad}%
+\year{1966}%
+\starring{Firoz Khan, Kumkum, Rajendra Nath}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11006 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye raat bhii jaa rahii hai
+ke Gam kii ghaTaa chhaa rahii hai
+mere hamadam tuu nahii.n aayaa
+ye raat bhii jaa \threedots
+
+nahii.n jis taraf ko_ii ma.nzil usii raah pe chal rahii huu.N
+terii yaad me.n o sitamagar shamaa kii tarah jal rahii huu.N \-2
+shamaa bujhii jaa rahii hai
+mere hamadam tuu \threedots
+
+ko_ii dushmanii aasamaa.N kii muhobbat kii har daastaa.N kii
+kahii.n ye na ho ki tuu aa_e chale jaa_e.N ham is jahaa.N se \-2
+ho.nTho.n pe jaa.N aa rahii hai
+mere hamadam tuu \threedots
+
+ye raat bhii ( jaa rahii hai ) \-3
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{zi.ndagii zi.ndagii zi.ndagii kab tum ko dekhaa hai}%
+\film{Janam}%
+\year{}%
+\starring{Kumar Gaurav, Anupam Kher, Anita Kanwar}%
+\singer{Amit Kumar}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Humaira Mahi (hm1@acpub.duke.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+zi.ndagii, zi.ndagii, zi.ndagii \- 2
+
+(kab tum ko dekhaa hai \- 2), taaro.n ke sa.ng 
+phuulo.n ke ra.ng me.n, tum ko paanaa hai 
+ye mai.nne Thaanaa hai, tum ko paanaa hai 
+ye mai.nne Thaanaa hai, apane ghar laanaa hai 
+ye mai.nne Thaanaa hai 
+
+%the second stanza goes something like this: 
+tum mere sAth ho, mai.n tere sAth huu.N 
+vo zamiin sAth hai, aasamaan sAth hai 
+ye bhiigaa bhiigaa jism, ye bhiigii aarazuu 
+zindagii mil gayii, zindagii hai saudaagar 
+detii hai kuchh lene ke baad 
+dii bahaar mujh ko magar phir 
+lii chaman rakhane ke baad 
+sa.ng ke sa.ng, lahuu ke ra.ng me.n 
+tum ko paanaa hai, tum ko paanaa hai 
+
+zindagii \threedots
+%
+#endindian
+\endsong
+%

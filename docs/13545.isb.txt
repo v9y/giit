@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{milaa hai kisii kaa jhumakaa Tha.nDe\-Tha.nDe hare\-hare}%
+\film{Parakh}%
+\year{1960}%
+\starring{Vasant Choudhry, Motilal, Sadhana}%
+\singer{Lata}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10344 [V S Rawat]
+% Transliterator: 
+% Comments: Story written by Salil Chaudhary
+% 
+\printtitle
+#indian
+%
+milaa hai kisii kaa jhumakaa Tha.nDe\-Tha.nDe hare\-hare niim tale
+o sachche motii vaalaa jhumakaa Tha.nDe\-Tha.nDe hare\-hare niim tale
+suno kyaa kahataa hai jhumakaa Tha.nDe\-Tha.nDe hare\-hare niim tale
+milaa hai kisii kaa \threedots
+
+pyaar kaa hi.nDolaa yahaa.N jhuul ga_e nainaa
+sapane jo dekhe mujhe bhuul ga_e nainaa \-2
+haay re bechaaraa jhumakaa
+Tha.nDe\-Tha.nDe hare\-hare \threedots
+
+jiivan bhar kaa naataa paradesiyaa se jo.Daa
+aap ga_ii piyaa sa.ng mujhe yahaa.N chho.Daa \-2
+pa.Daa hai akelaa jhumakaa
+Tha.nDe\-Tha.nDe hare\-hare \threedots
+
+haay re ye priit kii hai riit jaane kaisii
+tan\-man haar jaane me.n hai jiit jaane kaisii \-2
+jaane ne bechaaraa jhumakaa
+Tha.nDe\-Tha.nDe hare\-hare \threedots
+%
+#endindian
+\endsong
+

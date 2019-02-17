@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{hame.n kaash tum se muhabbat na hotii}%
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Madhubala, Dilip Kumar, Prithviraj Kapoor}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+hame.n kaash tum se muhabbat na hotii
+kahaanii hamaarii haqiikat na hotii
+
+na dil tum ko dete na majabuur hote
+na duniyaa na duniyaa ke dastuur hote
+qayaamat se pahale qayaamat na hotii
+
+hamii.n ba.Dh gaye ishq me.n had se aage
+zamaane ne Thokar lagaayii to jaage
+agar mar bhii jaate to hairat na hotii
+
+tumhii.n phuu.Nk dete nasheman hamaaraa
+muhabbat pe ahasaan hotaa tumhaaraa
+zamaane se koi shikaayat na hotii
+
+%
+#endindian
+\endsong
+%

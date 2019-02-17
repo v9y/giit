@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jal ke dil khaaq huaa}%
+\film{Parichay}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Shailesh}%
+\lyrics{Shailendra}%
+%
+% Contributor: Somesh Gaur
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+dil ke phaphole jal uThe siine ke daaG se
+lag ga_ii is ghar ko aag ghar ke chiraaG se
+
+jal ke dil khaaq huaa aa.Nkho.n se royaa na gayaa
+zakhm ye aise jale phuulo.n pe soyaa na gayaa
+
+ham khataavar hai.n yaa hamako banaanevaalaa
+chaa.Nd ke mukha.De pe bhii daaG hai kaalaa kaalaa
+itanii barasaate.n huii phir bhii vo dhoyaa na gayaa
+
+ha.Nsate dekhaa na gayaa baaG ke maalii se hame.n
+dhuul me.n phe.nk diyaa to.Dake Daalii se hame.n
+dil\-e\-nadaan ko maalaa me.n piroyaa na gayaa
+
+aasaraa deke hame.n aas kaa dil to.D diyaa
+laake saahil pe akelaa hame.n kyo.n chho.D diyaa
+biich ma.Njh_dhaar me.n kyo.n hamako Duboyaa na gayaa
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ik paradesii meraa dil le gayaa, jaate jaate miiThaa miiThaa Gam de gayaa}%
+\film{Phagun}%
+\year{1958}%
+\starring{Madhubala, Bharat Bhushan}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Neha Desai
+%          Vandana Vidwans
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aashaa: ik paradesii meraa dil le gayaa
+jaate jaate miiThaa miiThaa Gam de gayaa, haa.N, ik\threedots
+rafii: kaun paradesI teraa dil le gayaa
+moTii moTii a.Nkhiyo.n me aa.Nsuu de gayaa
+
+rafii: Dhuu.NDh rahe tujhe laakho.n dil vaale
+kar de o gorii zaraa aa.Nkho.n se ujaale
+aashaa: aa.Nkho.n kaa ujaalaa paradesii le gayaa
+jaate jaate miiThaa miiThaa Gam de gayaa
+
+aashaa: mere paradesiyaa kii yahii hai nishaanii
+a.Nkhiyaa.n bilaur kii shiishe kI javaanii
+ThaNDii ThaNDii aaho.n kaa salaam de gayaa 
+jaate jaate miiThaa miiThaa Gam de gayaa, oy, kaun\threedots
+rafii: oho, kaun paradesI teraa dil le gayaa\threedots
+
+rafii: usako bulaa duu.N saamane laa duu.N
+kyaa mujhe dogii jo tumase milaa duu.N
+aashaa: jo bhii mere paas thaa vo sab le gayaa
+jaate jaate miiThaa miiThaa Gam de gayaa 
+
+rafii: oy, kaun\threedots
+aashaa: ik\threedots
+%
+#endindian
+\endsong
+%

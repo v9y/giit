@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aate jaate jo milataa hai tumasaa lagataa hai}%
+\film{Har Dil Jo Pyaar Karegaa/ Love Can Happen Anytime}%
+\year{2000}%
+\starring{Salman Khan, Raani Mukherjii, Prity Zinta}%
+\singer{Sonu Nigam, Alka Yagnik, Annu Malik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aate jaate jo milataa hai tumasaa lagataa hai
+ham to paagal ho jaa_e.nge aisaa lagataa hai
+o tere pyaar me.n tere intazaar me.n
+
+tumase mil ke maine jaanaa ye pyaar bhii ajiib chiiz hai
+insaa.n khud ko bhuul jaataa hai aisaa kyuu.n hotaa hai
+ho diivaanepan kii ye intehaa hai cheharo.n me.n kyaa hai cheharaa teraa
+tere sivaa ham soche.n bhii kaise yaado.n pe har pal paharaa teraa
+kyaa bebasii hai jaano.n sanam kahanaa hamaaraa maano sanam
+hamase puuchho tanahaa rahanaa kaisaa lagataa hai
+ham to paagal ho \threedots
+
+##hey relax##
+tumhe.n dekhataa huu.n to lagataa hai ko_ii aisaa bhii mere paas to hai
+are jisako merii tanhaa_ii kaa ehsaas to hai
+
+ye aashiqii bhii aisaa nashaa hai jab ye lage to chhuuTe nahii.n
+naataa dilo.n kaa hai aisaa naataa to.De se bhii to TuuTe nahii.n
+jisane kahaa ye sach hii kahaa bhuule kabhii naa pahalii vafaa
+tumase milanaa baate.n karanaa achchhaa lagataa hai
+ham to paagal ho \threedots
+
+kyaa sochane lagii.n
+haa.n a.n soch rahii huu.N tum kyaa soch rahe ho
+haH mai.n haa haa haa haa haa haa
+ho jii chaahataa hai zulfo.n ke niiche yuu.n hii hameshaa so_e rahe.n
+bas tumako dekhe.n bas tumako chaahe.n khvaabo.n me.n yuu.n hii kho_e rahe.n
+tumase milii hai jabase nazar hamako nahii.n hai kuchh bhii khabar
+ab to hamako afasaanaa bhii sachchaa lagataa hai
+ham to paagal ho \threedots
+%
+#endindian
+\endsong
+

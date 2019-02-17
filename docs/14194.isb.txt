@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{tumako piyaa dil diyaa kitane naaz se}%
+\film{Shikari}%
+\year{1963}%
+\starring{Ragini, Ajit, Helen}%
+\singer{Lata, Usha}%
+\music{G S Kohli}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: BOL ANAMOL #10190 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tumako piyaa dil diyaa kitane naaz se
+nainaa la.D ga_e bhole\-bhaale kaise dagaabaaz se ho
+tumako piyaa dil diyaa \threedots
+
+haay re duhaa_ii terii zulmii piyaa
+dha.Dake anaa.Dii jiyaa ye kyaa hu_aa
+u_ii mai.n mar ga_ii laaj ke maare dekhaa kis a.ndaaz se ho
+tumako piyaa dil diyaa \threedots
+
+laagii najariyaa torii jaaduu bharii
+maa.Ngii bahaare.n hamane bijalii girii
+dil ke so_e aramaa.N jaage terii hii aavaaz se ho
+tumako piyaa dil diyaa \threedots
+%
+#endindian
+\endsong
+

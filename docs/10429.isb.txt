@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{tuu hii bataa zindagii jo bhii hu_aa kyuu.N hu_aa}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Roop Kumar Rathod/ Shreya Ghoshal}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11668 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+( tuu hii bataa zindagii jo bhii hu_aa kyuu.N hu_aa
+kho_ii hai kyuu.N har Kushii kis kii lagii bad_du_aa ) \-2
+kise\-kise javaab duu.N
+bujhaa\-bujhaa ye dil hai kyuu.N
+kyaa mai.n kahuu.N bikharaa kyuu.N sapanaa meraa
+tuu hii bataa zindagii \threedots kyuu.N hu_aa
+
+( phiike\-phiike din kaalii raate.n
+aa.Nsu_o.n ke jaisii barasaate.n ) \-2
+puuchhe mujhase jo dil kii baate.n
+kyaa mai.n kahuu.N dard kyuu.N dil ko milaa
+tuu hii bataa zindagii \threedots kyuu.N hu_aa
+
+( suunaa\-suunaa saa hai ab ye man
+Duubii\-Duubii sii hai ab dha.Dakan ) \-2
+jaa_uu.N kahaa.N ab yahii hai ulajhan
+kyaa mai.n kahuu.N khoyaa kyuu.N rastaa meraa
+tuu hii bataa zindagii \threedots lagii bad_du_aa
+kise\-kise javaab duu.N \threedots sapanaa meraa
+tuu hii bataa zindagii \threedots kyuu.N hu_aa
+%
+#endindian
+\endsong
+

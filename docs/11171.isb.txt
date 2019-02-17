@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tere li_e mai.n banaa huu.N mere li_e hai banii tuu ... ##I love you.##}%
+\film{Deshwaasi}%
+\year{1989}%
+\starring{Manoj Kumar, Hema Malini, Rajiv Goswami, Poonam, Mandakini}%
+\singer{Anuradha Paudwal, Nitin Mukesh}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere li_e mai.n banaa huu.N mere li_e hai banii tuu
+jaise phuul aur khushbuu jaise dil aur aarazuu
+##love you. I love you.##
+
+tere li_e mai.n banii huu.N mere li_e hai banaa tuu
+jaise phuul aur khushbuu jaise dil aur aarazuu
+##love you. I love you.##
+
+ham do pa.nchhii ham do baadal dharatii pe kyaa kaam hamaaraa
+ham kab jaa_e.n kyaa kar jaa_e.n paagal premii naam hamaaraa
+isali_e to kahaa hai maine kahaa hai maine tere li_e
+jaise phuul aur khushbuu \threedots
+
+ik duuje ke binaa kyaa jiinaa maranaa achchhaa is jiine se
+ho jiinaa maranaa bhuul ke baabaa aajaa lag jaa mere siine se
+isali_e to kahaa hai maine kahaa hai maine tere li_e
+jaise phuul aur khushbuu \threedots
+%
+#endindian
+\endsong
+

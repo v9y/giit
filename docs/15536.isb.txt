@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{shauq se aaye.n Gam zamaane ke}%
+\film{From Bhupinder With Love (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Bhupinder}%
+\music{}%
+\lyrics{Faqir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+shauq se aaye.n Gam zamaane ke
+dar khule hai.n GariibaKaane ke
+
+ye muhabbat ye dostii ye wafaa
+sab wasiile hai.n dil dukhaane ke
+
+kyaa sune ko_ii daastaan\-e\-hayaat
+laakh unawaa.N hai.n ik fasaane ke
+
+ik Kazaanaa hai zi.ndagii 'faaqir'
+ashq motii hai.n is Kazaane ke
+
+#endindian
+\endsong

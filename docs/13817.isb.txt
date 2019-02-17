@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{jaanii o jaanii jaldii se aajaa mil aake}%
+\film{Raajaa Jaani}%
+\year{1972}%
+\starring{Dharmendra, Hema Malini, Premnath, Prem Chopra, Johny Walker}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11202 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+jaanii o jaanii \-3
+jaldii se aajaa mil aake biitii jaa_e ye javaanii
+jaanii o jaanii \threedots
+
+biga.Daa nasiibaa banane ke li_e ek ishaaraa teraa kaafii hai \-2
+aashiq ke jiine\-marane ke li_e itanaa sahaaraa teraa kaafii hai
+tujhape luTaa duu.Ngaa miTaa duu.Ngaa mai.n ye zindagaanii
+jaanii o jaanii \threedots
+
+aa.Nkho.n me.n terii tasviir li_e Dhuu.NDh rahaa huu.N tujhe raste me.n \-2
+terii galii me.n teraa diivaanaa bech rahaa dil saste me.n
+karake ye saudaa le jaa de jaa raanii dil kii nishaanii
+jaanii o jaanii \threedots
+%
+#endindian
+\endsong
+

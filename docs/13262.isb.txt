@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{kahaa.N terii ma.nzil kahaa.N hai Thikaanaa}%
+\film{Nai Raahen}%
+\year{1959}%
+\starring{Ashok Kumar, Geeta Bali}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Gopal Singh Nepali}%
+%
+% Contributor: BOL ANAMOL #10721 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kahaa.N terii ma.nzil kahaa.N hai Thikaanaa
+musaafir bataa de kahaa.N tujhako jaanaa \-2
+kahaa.N terii ma.nzil \threedots
+
+gagan me.n u.Dane vaalo.n kaa bhii gulashan rain\-baseraa hai
+ghar kii or chale raahii to dhu.Ndhalii shaam saveraa hai
+suuraj\-chaa.Nd\-sitaare hai.n to unakii bhii ma.nzil hai
+ma.nzil hai to jahaa.N bhii jaa_e raah terii jhilamil hai
+bin ma.nzil bekaar hai Gaafil ) \-2 qadam bhii uThaanaa
+musaafir bataa de \threedots
+%
+#endindian
+\endsong
+

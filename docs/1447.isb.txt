@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{piyaa aajaa saavan aayaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Runa Laila}%
+\music{???}%
+\lyrics{???}%
+% 
+% Contributor: Vandana Sharma (uusharma@uxa.ecn.bgu.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Oct 22 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+piyaa aajaa savan aayaa \-4
+
+mere man ke nagar me.n guu.Njii
+terii yaado.n kii shahanaaii \-2
+gha.nghor ghaTaa laharaaii
+tere pyaar kaa jalavaa chhaayaa
+
+aajaa saavaan aayaa
+piyaa aajaa saavan aayaa
+
+mere man me.n aag lagaae.n
+terii yaad me.n gum nazaare \-2
+mujhe buu.Nde.n lage.n a.ngaare
+mujhe sard havaa ne jalaayaa
+
+aajaa saavan aayaa
+piyaa aajaa saavan aayaa \-4
+%
+#endindian
+\endsong
+%

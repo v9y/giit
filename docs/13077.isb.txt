@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{zikr hotaa hai jab qayaamat kaa tere jalavo.n}%
+\film{My Love}%
+\year{1970}%
+\starring{Shashi Kapoor, Sharmila Tagore, Nirupa Roy, Jayant}%
+\singer{Mukesh}%
+\music{Daan Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10172 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+zikr hotaa hai jab qayaamat kaa tere jalavo.n kii baat hotii hai
+tuu jo chaahe to din nikalataa hai tuu jo chaahe to raat hotii hai
+zikr hotaa hai jab \threedots
+
+tujhako dekhaa hai merii nazaro.n ne terii taariif ho magar kaise
+ke bane ye nazar zubaa.N kaise ke bane ye zubaa.N nazar kaise
+naa zubaa.N ko dikhaa_ii detaa hai naa niGaaho.n se baat hotii hai
+zikr hotaa hai jab \threedots
+
+tuu chalii aa_e muskuraatii hu_ii to bikhar jaa_e.n har taraf kaliyaa.N
+tuu chalii jaa_e uTh ke pahaluu se to uja.D jaa_e.n phuulo.n kii galiyaa.N
+jis taraf hotii hai nazar terii us taraf qaayanaat hotii hai
+zikr hotaa hai jab \threedots
+
+tuu niGaaho.n se naa pilaa_e to ashq bhii piine vaale piite hai.n
+vaise jiine ko to tere bin bhii is zamaane me.n log jiite hai.n
+zindagii to usii ko kahate hai.n jo guzar tere saath hotii hai
+zikr hotaa hai jab \threedots
+%
+#endindian
+\endsong
+

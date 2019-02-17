@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kaa.Nchii re kaa.Nchii re, priit merii saa.Nchii}%
+\film{Hare Rama Hare Krishna}%
+\year{}%
+\starring{Dev Ananad, Zeenat Aman}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kaa.Nchii re kaa.Nchii re, priit merii saa.Nchii
+ruk jaa na jaa dil to.Da ke
+
+jhuuThaa hai ye gussaa teraa sachchaa nahii.n
+sachche premii ko ta.Dapaanaa achchhaa nahii.n
+vaapas naa aauu.ngaa mai.n jo chalaa jaauu.ngaa
+ye terii galiyaa.N chho.Da ke, e e \threedots
+
+tere haatho.n me.n hai merii Dorii jaise
+kachche dhaage se mai.n ba.ndhaa aayaa aise
+mushkil hai jiinaa, dede o hasiinaa
+vaapas meraa dil mo.Dake, e e \threedots
+
+% Lata...
+la:  kaa.Nchaa re kaa.Nchaa re, pyaar meraa saa.Nchaa
+ruk jaa naa jaa dil to.Da ke
+
+ra.ng tere me.n ye tan ra.ng liyaa
+tan kyaa hai maine man ra.ng liyaa
+bas chup hii rahanaa, ab phir naa kahanaa
+ruk jaa naa jaa dil to.Da ke, e e \threedots
+%
+#endindian
+\endsong
+%

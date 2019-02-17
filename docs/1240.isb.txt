@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{milate hii aa.nkhe.n dil huaa diivaanaa kisiikaa}%
+\film{Babul}%
+\year{1950}%
+\starring{}%
+\singer{Talat, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ta:	milate hii aa.Nkhe.n dil huaa diivaanaa kisiikaa
+sh:	milate hii aa.Nkhe.n dil huaa diivaanaa kisiikaa
+ta:	afasaanaa meraa ban gayaa, afasaanaa kisiikaa
+sh:	afasaanaa meraa ban gayaa, afasaanaa kisiikaa
+
+ta:	puuchho naa mohabbat kaa asara, haay na puuchho
+	haay naa puuchho
+sh:	puuchho naa mohabbat kaa asara, haay na puuchho
+	haay naa puuchho
+ta:	dam bhara me.n koI ho gayaa, paravaanaa kisiikaa
+sh:	dam bhara me.n koI ho gayaa, paravaanaa kisiikaa
+dono: 	afasaanaa meraa ban gayaa, afasaanaa kisiikaa
+	milate hii aa.Nkhe.n dil huaa diivaanaa kisiikaa
+
+ta:	ha.nsate hii naa aa jaaye.n kahii.n, aa.Nkho.n me.n aa.Nsuu
+	aa.Nkho.n me.n aa.Nsuu
+sh:	ha.nste hii naa aa jaaye.n kahii.n, aa.Nkho.n me.n aa.Nsuu
+	aa.Nkho.n me.n aa.Nsuu
+ta:	bharate hii chhalaka jaaye naa, paimaanaa kisiikaa
+sh:	bharate hii chhalaka jaaye naa, paimaanaa kisiikaa
+dono: 	afasaanaa meraa ban gayaa, afasaanaa kisiikA
+%
+#endindian
+\endsong
+%

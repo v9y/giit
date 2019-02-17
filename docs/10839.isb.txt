@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{husn hai suhaanaa ishq hai diivaanaa ... goriyaa churaa na meraa jiyaa}%
+\film{Coolie No. 1}%
+\year{1995}%
+\starring{Govinda, Karisma, Harish, Kaanchan, Kader, Shakti, Sadashiv}%
+\singer{Abhijit, Chandana Dixit}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+husn hai suhaanaa ishq hai diivaanaa
+ruup kaa khazaanaa aaj hai luTaanaa
+aake diivaane mujhe siine se lagaa
+naa naa naa goriyaa churaa na meraa jiyaa
+goriyaa churaa na \threedots
+
+karake ishaaraa bulaa_e javaanii aise lubhaa na mujhe diivaanii
+tere binaa hai adhuurii kahaanii duu.ngaa tujhe mai.n ko_ii nishaanii
+aa jaa aa jaa_o na aajaa aa jaa_o naa dilabarajaanii
+jaan\-e\-jaanaa.n o jaanaa.n tuu hai khvaabo.n kii raanii
+apanaa banaa_uu.ngii nigaahe.n to milaa
+naa naa naa goriyaa ne paagal mujhe kiyaa
+goriyaa churaa na \threedots
+
+maukaa milan kaa kahaa.n roj aa_e aise mujhe kyo.n kariib laa_e
+dard\-e\-judaa_ii sahii ab na jaa_e ko_ii nashaa saa dha.Dakan pe chhaa_e
+dhiire dhiire se haule haule se kyuu.n ta.Dapaa_e
+pyaasii raato.n me.n aisii baato.n me.n kyo.n bahakaa_e
+kyaa hai iraadaa mere yaar bataa
+naa naa naa goriyaa hai aashiq teraa piyaa
+husn hai suhaanaa \threedots
+%
+#endindian
+\endsong

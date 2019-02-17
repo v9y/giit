@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{giit meraa sulaaye jagaaye tujhe}%
+\film{Soorat Aur Seerat}%
+\year{1962}%
+\starring{Nutan, Dharmendra, KN Singh, Sulochana, Asit Sen}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 16 Dec 2005
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+giit meraa sulaaye jagaaye tujhe
+pyaar ke paalane me.n jhulaaye tujhe
+
+bhor kii pahalii\-pahalii vo suuraj kiraN
+aake jis vaqt chuume ye goraa badan
+baa.Nh banakar \-
+baa.Nh banakar gale se lagaaye tujhe
+
+bhii.D me.n zi.ndagii kii rahe paas ye
+aur akele me.n tujhase kare baat ye
+raah jiivan \-
+raah jiivan kii haradam dikhaaye tujhe
+
+mere saa.Nso.n kii sa.ngiit tham jaaye jab
+merii aavaaz tujh tak nahii.n aaye jab
+terii dha.Dakan \-
+terii dha.Dakan ye naGmaa sunaaye tujhe
+%
+#endindian
+\endsong

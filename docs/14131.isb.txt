@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{kitane bhii tuu kar le sitam ... sanam terii qasam}%
+\film{Sanam Teri Qasam}%
+\year{1982}%
+\starring{Kamalhasan, Reena Roy}%
+\singer{Kishor/ Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10799 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+% Kishor solo:
+%
+( kitane bhii tuu kar le sitam ha.Ns\-ha.Ns ke sahe.nge ham \-2
+ye pyaar na hogaa kam sanam terii qasam
+sanam terii qasam o sanam terii qasam \-2 ) \-2
+
+jitanaa ta.Dapaa_egii mujhako utanaa ta.Dapegii tuu bhii
+jo aaj hai aarazuu merii vo kal terii aarazuu hogii
+ye jhuuTh nahii.n sach hai sanam
+sanam terii qasam \threedots
+
+nafarat se dekhanaa pahale andaaz pyaar kaa hai ye
+kuchh hai aa.Nkho.n kaa rishtaa gussaa ikaraar kaa hai ye
+ba.Daa pyaaraa hai teraa julam
+sanam terii qasam \threedots
+%
+% Asha solo:
+%
+( kitane bhii tuu kar le sitam ha.Ns\-ha.Ns ke sahe.nge ham \-2
+ye pyaar na hogaa kam sanam terii qasam
+sanam terii qasam o sanam terii qasam \-2 ) \-2
+
+maanaa ke Kataa merii hai par itanii sazaa na de tuu
+le pa_iyaa.N pa.Duu tere sajanaa ab to gale lagaa le tuu
+tere dam se hai meraa dam
+sanam terii qasam \threedots
+
+aise hii ruuTh ke mujhase ab aur kahaa.N jaa_egaa
+aaho.n me.n asar hogaa to tuu lauT ke phir aa_egaa
+are tuu hai to kyaa hai Gam
+sanam terii qasam \threedots
+%
+#endindian
+\endsong
+

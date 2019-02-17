@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{rab ke saamane ... merii jaa.n tujhe pyaar karataa huu.N}%
+\film{Qahar/ The Ultimate Calamity}%
+\year{1997}%
+\starring{Sunny, Sunil Shetty, Arman Kohli, Rambha, Deepti Bhatnagar, Sonali}%
+\singer{Vinod Rathod, Sadhana Sargam}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rab ke saamane sab ke saamane ikaraar karataa huu.N
+jaan se ba.Dhakar merii jaa.n tujhe pyaar karataa huu.N
+
+rab ke saamane sab ke saamane ikaraar karatii huu.N
+jaan se ba.Dhakar merii jaa.n tujhe pyaar karatii huu.N
+
+is haa.N naa ke biich kahii.n aTakaa hu_aa thaa dil meraa
+sharm ke maare mai.n chup thii jiinaa thaa mushkil meraa
+laaj sharam kii ye rekhaa mai.n paar karataa huu.N
+rab ke saamane \threedots
+
+aaj khushii ke maare mai.n diivaanii naa ho jaa_uu.n
+bikharaa ke apanii zulfe.n mai.n saaye me.n so jaa_uu.n
+jaa terii marjii mai.n kab i.nkaar karatii huu.N
+rab ke saamane \threedots
+%
+#endindian
+\endsong
+

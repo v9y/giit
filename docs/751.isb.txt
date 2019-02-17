@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ik baat bataa de jogii}%
+\film{Taj}%
+\year{1956}%
+\starring{Pradeep Kumar}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+ik baat bataa de jogii,
+yah jogan kab terii hogii
+
+yah raaj taaj sab teraa
+tuu ho jaaye jo meraa
+tere jhuke jhuke jhuke jhuke nain 
+le gaye chain
+ki dil hu_aa rogii
+yah jogan kab terii hogii    \threedots
+
+tuu jogii jab se nyaaraa
+mere dil par jaaduu Daaraa
+mai.n pal pal japuu.N teraa naam
+kahaa.N aaraam
+ki dil hu_aa rogii
+yah jogan kab terii hogii    \threedots
+
+%
+#endindian
+\endsong
+%

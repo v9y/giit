@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{chekhush nazaare ke khud pukaare hai}%
+\film{Pyar Ka Mausam}%
+\year{1969}%
+\starring{Asha Parekh, Shashi Kapoor}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10792 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+( chekhush nazaare ) \-2 ke khud pukaare
+hai yaar kii ma.nzil
+
+gulo.n kii vaadii sabaa kii bastii galii bahaaro.n kii
+nigaah ko thii talaash kab se inhii.n nazaaro.n kii
+ki bekhudii me.n nikal pa.Daa hai uThaa ke saaz\-e\-dil
+chekhush nazaare \threedots
+
+ye vo mahal hai karake dariichaa hai aasamaa.N jisakaa
+ye vo hai chilaman ki jisake piichhe hai vo hasii.n qaatil
+chekhush nazaare \threedots
+%
+#endindian
+\endsong
+

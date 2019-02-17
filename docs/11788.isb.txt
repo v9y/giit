@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{abhii to mohabbat kaa ... teraa naam hogaa}%
+\film{Hum Ho Gaye Aap Ke}%
+\year{2001}%
+\starring{Fardin Khan, Reema Sen, Apurva Agnihotri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+abhii to mohabbat kaa aagaaz hai
+abhii to mohabbat kaa a.njaam hogaa
+ba.Daa dilanashii.n teraa a.ndaaz hai
+ba.Daa khuubasuurat teraa naam hogaa
+abhii to mohabbat kaa \threedots
+
+ye aa.Nkhe.n ye palake.n ye bi.ndiyaa ye kaajal
+ye chuu.Dii ye k.nganaa ye jhumake ye paayal
+ba.Dii hii suriilii ye aavaaz hai
+ise sun ke dil ko bhii aaraam hogaa
+abhii to mohabbat kaa \threedots
+
+ye mastii adaa kii ye zulfo.n kii khushbuu
+ye ho.nTho.n kii laalii ye baato.n kaa jaaduu
+diivaane sabhii tere mohataaz hai.n
+ko_ii naa ko_ii teraa gulafaam hogaa
+abhii to mohabbat kaa \threedots
+%
+#endindian
+\endsong
+

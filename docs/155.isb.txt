@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ai dil mujhe aisii jagah le chal jahaa.N koii na ho}%
+\film{Aarzoo}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai dil mujhe aisii jagah le chal jahaa.N koI na ho
+apanaa paraayaa meharabaa.n naa\-meharabaa.n koI na ho
+ai dil mujhe aisii jagah le chal 
+
+jaa kar kahii.n kho jaauu.N mai.n, nii.nd aae aur so jaauu.N mai.n
+nii.nd aae aur so jaauu.N mai.n
+duniyaa mujhe Dhuu.NDhe magar meraa nishaa.n koI na ho
+ai dil mujhe aisii jagah le chal 
+
+ulfat kaa badalaa mil gayaa, vo Gam luTaa vo dil gayaa
+vo Gam luTaa vo dil gayaa
+chalanaa hai sab se duur duur ab kaaravaa.n koI na ho
+apanaa paraayaa meharabaa.n naa\-meharabaa.n koI na ho
+ai dil mujhe aisii jagah le chal jahaa.N koI na ho
+%
+#endindian
+\endsong
+%

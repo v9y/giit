@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sun lo sunaataa huu.N tumako kahaanii, ruuTho naa (re mammaa re mammaa re)}%
+\film{Andaaz}%
+\year{1971}%
+\starring{Shammi Kapoor, Hema Malini}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+sun lo sunaataa huu.N tumako kahaanii
+ruuTho naa hamase o gu.Diyo.n kii raanii
+re mammaa re mammaa re
+re mammaa re mammaa re
+
+1) ham to gae baazaar me.n lene ko aaluu
+aaluu vaaluu kuchh na milaa piichhe pa.Daa bhaaluu, re mammaa \threedots
+
+2) ham to gae baazaar me.n lene ko laTTuu
+laTTuu vaTTuu kuchh na milaa piichhe pa.Daa TaTTuu, re mammaa \threedots
+
+3) ham to gae baazaar me.n lene ko roTii
+roTii voTii kuchh na milii piichhe pa.Dii moTii, re mammaa \threedots
+%
+#endindian
+\endsong
+%

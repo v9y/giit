@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mai.n to huu.N paagal mu.nDaa tuu hai merii sonii ku.Dii}%
+\film{Army}%
+\year{1996}%
+\starring{Sridevi, Shahrukh, Harish, Mohnish, Sudesh Berry, Ronit, Ravi Krishan}%
+\singer{Bali Brahmbhat}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n to huu.N paagal mu.nDaa tuu hai merii sonii ku.Dii
+leke dil ke pi.njare ko bulabul merii kahaa.n u.Dii
+raste me.n kha.Daa hai zid pe kyo.n a.Daa hai
+mere piichhe pa.Daa hai tuu diivaanaa ba.Daa hai
+rabbaa aa_ii musiibat ba.Dii
+mai.n to huu.N paagal \threedots
+
+patalii kamar se Thumakaa jo maare ho jaa_e.n paagal saare ka.nvaare
+mirchii ke jaisii bolii naino.n se maare golii dekhe to chehare se lagatii hai bholii
+dekhaa kahii.n na aisaa anaa.Dii ulTii chalaa_e chaahat kii gaa.Dii
+merii marzii na jaane merii baate.n na maane
+chhe.De hai raaho.n me.n karake bahaane
+mai.n to huu.N paagal \threedots
+
+tiikhii hasiinaa miiThii kaTaarii kab tak rahegii aisii ka.nvaarii
+leke mai.n Dolii aa_uu.N haathii gho.De bhii laa_uu.N
+diivaanii dulhan mai.n tujhako banaa_uu.n
+terii hai terii merii javaanii mai.n bhii banuu.ngii khvaabo.n kii raanii
+jaldabaazii na karanaa aise aahe.n naa bharanaa
+terii hii baaho.n me.n hai jiinaa maranaa
+mai.n to huu.N paagal \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{kasam se terii aa.Nkhe.n kasam se terii baate.n}%
+\film{Ajnabee}%
+\year{2002}%
+\starring{Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\singer{Udit Narayan, Sonu Nigam, Alka Yagnik, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+he kasam se terii aa.Nkhe.n
+aa.Nkhe.n aa.Nkhe.n
+kasam se terii baate.n
+baate.n baate.n
+he kasam se terii aa.Nkhe.n
+kasam se terii baate.n
+kasam se teraa ha.Nsanaa teraa chalanaa haa_y re kasam se
+he kasam se terii aa.Nkhe.n a_iyaa re a_iyaa
+kasam se terii baate.n a_iyaa re a_iyaa
+kasam se teraa nazar milaanaa a_iyaa re a_iyaa
+kasam se teraa nazar churaanaa a_iyaa re a_iyaa
+a_iyo
+kasam se terii aa.Nkhe.n a_iyaa \threedots
+
+ham ne dekhaa jinhe.n sach vo sapane bane
+begaane ajanabii saathii apane bane
+puuchho naa tum kaise hu_aa
+ye ittefaak kaise hu_aa
+achchhaa hu_aa jo hu_aa ho ho ho
+kasam se yuu.N Takaraanaa a_iyaa re a_iyaa
+kasam se yuu.N mil jaanaa a_iyaa re a_iyaa
+a_iyo
+kasam se terii aa.Nkhe.n a_iyaa \threedots
+
+TuuTe ab naa kabhii apanii ye dostii
+yuu.N hii gaatii rahe mastii me.n zi.ndagii
+jaage rahe.n so_e rahe.n
+ham pyaar me.n kho_e rahe.n
+kal kyaa ho kyaa pataa ho ho ho
+kasam se yuu.N sharamaanaa a_iyaa re a_iyaa
+kasam se yuu.N ghabaraanaa a_iyaa re a_iyaa
+a_iyo
+kasam se terii aa.Nkhe.n a_iyaa \threedots
+%
+#endindian
+\endsong
+

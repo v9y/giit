@@ -1,0 +1,75 @@
+%
+\startsong
+\stitle{ek la.Dakii ko dekhaa to aisaa lagaa}%
+\film{1942 A Love Story}%
+\year{1994}%
+\starring{Anil Kapoor, Manisha Koirala, Jackie Shroff}%
+\singer{Kumar Sanu}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Navin Kabra (navin@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%        It was August, 1942.  The "Quit India" movement had gath-
+% ered  momemtum.   Protestors,  all  over the country, came out in
+% large numbers and the  thunderous  cry  of  'quit  india'  echoed
+% across  the  nation.   The odd response of the British became in-
+% creasingly brutal and what followed was savage repression leading
+% to  unprecedented violence, lathi charges, and ruthless firing on
+% unarmed protestors. The country was quickly  engulfed  in  flames
+% and  Kasauni,  a small town in the Himalayan foothills was no ex-
+% ception. It was in the midst of this savage turbulence that Nandu
+% (Anil)  and  Rajjo  (Manisha)  met for the first time and fell in
+% love.. a love that changed their lives forever.. a love that  was
+% destined  to be consumed by the ravaging fires of passion and li-
+% beration that swept the land.  Because, this was also the fateful
+% time when a group of dedicated revolutionaries, led by the coura-
+% geous and fiery Shubanker (Jackie), brought the spirit of freedom
+% struggle  to Kasauni in prusuit of their sworn mission. Individu-
+% als no longer mattered, all that mattered was commitment  to  the
+% cause. And so began an immortal sage..  of people, of freedom, of
+% duty, of conflict, of scarifice.. and of LOVE. 
+% 
+	ho o \threedots ek la.Dakii ko dekhaa to aisaa lagaa 
+	ek la.Dakii ko dekhaa to aisaa lagaa, jaise
+	khilataa gulaab, jaise
+	shaayar kaa khvaab, jaise
+	ujalii kiran, jaise
+	ban me.n hiran, jaise
+	chaa.Ndanii raat, jaise
+	naramii baat, jaise
+	mandir me.n ho ek jalataa diyaa, ho!
+	o\threedots ek la.Dakii ko dekhaa to aisaa lagaa!
+	
+	ho, ek la.Dakii ko dekhaa to aisaa lagaa
+	ek la.Dakii ko dekhaa to aisaa lagaa, jaise
+	subah kaa ruup, jaise
+	saradii kii dhuup, jaise
+	vINaa kii taan, jaise
+	ra.ngo.n kii jaan, jaise
+	balakhaaye.n bel, jaise
+	laharo.n kaa khel, jaise
+	khushabuu liye aaye Tha.nDii havaa, ho!
+	o\threedots ek la.Dakii ko dekhaa to aisaa lagaa!
+	
+	ho, ek la.Dakii ko dekhaa to aisaa lagaa
+	ek la.Dakii ko dekhaa to aisaa lagaa, jaise
+	naachataa mor, jaise
+	resham kii Dor, jaise
+	pariyo.n kaa raag, jaise
+	sandal kii aag, jaise
+	solah shrR^i.ngaar, jaise
+	ras kii phuhaar, jaise
+	aahistaa aahistaa ba.Dhataa nashaa, ho!
+	o\threedots ek la.Dakii ko dekhaa to aisaa lagaa!
+	ek la.Dakii ko dekhaa to aisaa lagaa!
+%
+#endindian
+\endsong
+%

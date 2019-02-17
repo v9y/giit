@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{kabiraa nirbhay raam jape ... mahafil me.n terii yuu.N hii rahe}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Dharmendra, Meena Kumari, Padmini}%
+\singer{Asha, Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12087 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aa \:	kabiraa nirbhay raam jap
+	jab lagadii me.n baati ?
+	tel ghaTaa baatii bujhii
+	sovegaa din\-raati
+
+ra \:	mahafil me.n terii yuu.N hii rahe
+	jash\-e\-charaaGaa.N
+	aa.Nkho.n me.n hii ye raat
+	Guzar jaaye to achchhaa
+
+aa \:	saach baraabar tap nahii.n
+	jhuuTh baraabar paap
+	jaa ke hiraday saach hai
+	taa ke hiraday aap
+
+ra \:	jaa kar terii mahafil se
+	kahaa.N chain milegaa
+	ab apanii jagah apanii
+	Kabar jaaye to achchhaa
+
+aa \:	jab mai.n thaa tab hari nahii.n
+	ab hari hai mai.n naahii.n
+	sab a.ndhiyaaraa miT gayaa
+	jab diipak dekhaa maahi.n
+
+ra \:	jis subah kii taqadiir me.n
+	likhii ho judaa_ii
+	us subah se pahale
+	ko_ii mar jaaye to achchhaa \-2
+%
+#endindian
+\endsong

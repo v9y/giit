@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{laakho.n diivaane ho.n mere}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Krishna Kumar}%
+\music{Vishal, Shiraz, Samrat}%
+\lyrics{Vishal, Raj Kaushal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laakho.n diivaane ho.n mere jeb me.n ho duniyaa saarii
+aa.Nkh me.n sapanaa bas junuun aur dil me.n hai ik chi.ngaarii
+mujhako hai yakii.n mai.n kuchh kar dikhaa_uu.ngaa
+duniyaa ke hasiino.n kaa mai.n dil churaa_uu.ngaa
+sapano.n me.n dekhe.nge mujhe khvaabo.n me.n paa_e.nge mujhe
+nii.nde.n saarii duniyaa kii mai.n u.Daa_uu.ngaa
+laakho.n diivaane \threedots
+
+ham javaan hai.n ham hasiin hai.n
+hamako khud par hii yakiin hai
+%
+#endindian
+\endsong
+

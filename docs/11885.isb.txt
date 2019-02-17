@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{mat puuchhi_e dil hai kahaa.N ... ham matavaale naujavaa.N}%
+\film{Hum Matwale Naujawan}%
+\year{1961}%
+\starring{Shekhar, Saeeda Khan, Jivan, Lilian, Mirza Musharraf, Tuntun}%
+\singer{Mukesh, Rafi}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10122 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	mat puuchhi_e dil hai kahaa.N dil kii ma.nzil hai kahaa.N
+	saarii duniyaa kaa Gam chale bhuul ke ham matavaale naujavaa.N \-2
+ra \:	mat puuchhi_e dil hai \threedots
+
+ra \:	ujale ujale mukha.De tasviir li_e
+mu \:	nazare.n li_e tiir kamaan zulf\-e\-za.njiir li_e
+ra \:	phirate hai.n yahaa.N se vahaa.N dilavaale jaa_e.n kahaa.N
+do \:	saarii duniyaa kaa Gam \threedots
+
+ra \:	chalate chalate kyo.n yuu.N hii guzar jaa_e.n
+mu \:	dil de ke khariide.nge jiine kii tamannaa_e.n
+	sundar sapano.n kii dukaan lagataa hai saaraa jahaa.N
+do \:	saarii duniyaa kaa Gam \threedots
+%
+#endindian
+\endsong
+

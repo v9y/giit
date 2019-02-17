@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{chaar din kii chaa.Ndanii thii phir a.ndherii raat hai}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12519 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( chaar din kii chaa.Ndanii thii phir a.ndherii raat hai
+ham idhar hai.n wo udhar hai.n beqasii kaa saath hai ) \-2
+
+kyaa Kabar thii unakaa daaman haath se chhuT jaayegaa
+Gam ke haatho.n zi.ndagii kaa kaaravaa.N luT jaayegaa
+dil lagaa kar Gam uThaaye.n kyaa anokhii baat hai
+
+chaar din kii chaa.Ndanii thii phir a.ndherii raat hai
+ham idhar hai.n wo udhar hai.n beqasii kaa saath hai
+
+% the song at the site ends here. 
+%
+#endindian
+\endsong
+%
+

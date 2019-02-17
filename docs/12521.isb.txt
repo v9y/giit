@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{o kaalii Topii vaale zaraa naam to bataa}%
+\film{Kaali Topi Laal Roomaal}%
+\year{1959}%
+\starring{Chandrashekhar, Shakeela, Kumkum, Agha, K N Singh}%
+\singer{Rafi, Asha}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10125 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	o kaalii Topii vaale zaraa naam to bataa
+ra \:	o gore gore gaalo.n vaalii kaam to bataa
+
+aa \:	mohe vo naam bataa duur hii rah ke
+	tohe pukaar sakuu.N ( mai.n vo hii kah ke ) \-2
+ra \:	vo hii bataane kaa iinaam to bataa
+aa \:	o kaalii Topii vaale \threedots
+
+ra \:	chham chham ke tiir chale ( dil hu_aa ghaayal ) \-2
+	phir ek baar sunuu.N ( gorii terii paayal ) \-2
+aa \:	paayal sunaane kaa iinaam to bataa
+ra \:	o gore gore gaalo.n vaalii \threedots
+
+aa \:	tum bhii vahii ho baabuu hame.n naa banaa_o
+ra \:	tumako bhii dekh liyaa jaa_o jii jaa_o
+aa \:	jaa_uu.Ngii jaane kaa iinaam to bataa
+	o kaalii Topii vaale \threedots
+%
+#endindian
+\endsong
+

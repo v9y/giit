@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ja.ng yadaa yadaa hi}%
+\film{Jung}%
+\year{2000}%
+\starring{Sanjay Dutt, Jackie Shroff, Shilpa Shetty, Ravina Tondon}%
+\singer{Hariharan, Mahalakshmi, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yadaa yadaa hi dharmasya glaanirbhavati bhaarat
+abhyutthaanamadharmasya tadaatmaana.m sR^ijaamyaham
+paritraaNaay saadhunaam vinaaShaay cha duShkR^itaam
+dharm sa.nsthaapanaarthaay sa.mbhavaami yuge yuge
+
+ja.ng ja.ng ja.ng ja.ng ja.ng ja.ng
+vighn naash karane vaalaa om gaNeshaay namaH
+par duHkh ko harane vaalaa om gaNeshaay namaH
+jay jay gaNeshaH jay jay jay gaNeshaH
+jay jay jay gaNeshaH jay jay jay gaNeshaH jay jay
+ja.ng ja.ng ja.ng ja.ng ja.ng ja.ng
+%
+#endindian
+\endsong
+

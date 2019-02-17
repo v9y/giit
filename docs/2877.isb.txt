@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ka.nkar ka.nkar se mai.n puuchhuu.N}%
+\film{Har Har Mahadev}%
+\year{1950}%
+\starring{Trilok Kapur, Nirupa Roy}%
+\singer{Geeta}%
+\music{Avinash Vyas}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Feb 14, 2001
+%
+\printtitle
+#startsong
+%
+
+ka.nkar ka.nkar se mai.n puuchhuu.N
+sha.nkar meraa kahaa.N hai ko_ii bataaye
+
+shikhar shikhar se puuchh rahii huu.N
+sha.nkar meraa kahaa.N hai
+gauriivar ga.ngaadhar har har 
+sha.nkar meraa kahaa.N hai ko_ii bataaye
+
+lahar lahar laharaatii ga.nge tuu kyo.n gaatii gaane
+shiv jii ham se ruuTh ga_e hai.n kyaa ye baat na jaane
+ro ro nayan gavaa_e.N ko_ii bataaye \threedots
+
+o niil gagan kii cha.ndrakalaa
+ko_ii bataaye \threedots
+
+haule haule chal phaNiidhar mai.n bhii tere sa.ng chaluu.N
+tuu lipaTegaa gale shyaam ke mai.n charaNo.n me.n rah luu.N
+meraa dhanya jiivan ho jaaye
+ko_ii bataaye ko_ii bataaye
+
+%
+#endindian
+\endsong
+%

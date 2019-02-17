@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aur kyaa ehad-e-vafaa hote hai.n}%
+\film{Sunny}%
+\year{}%
+\starring{Sunny Deol, Sharmila, Dharmendra, Waheeda, Amrita Singh}%
+\singer{Asha / Suresh Wadkar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: David Anthony Windsor
+% Transliterator: K Vijay Kumar
+% Credits: G V Shivkumar, Kuntal Shah
+% Editor:
+%
+\printtitle
+#indian
+%
+
+aur kyaa ehad\-e\-vafaa hote hai.n
+log milate hai.n judaa hote hai.n
+
+kab bichha.D jaaye hamasafar hii to hai
+kab badal jaaye ik nazar hii to hai
+jaan\-o\-dil jisape fidaa hote hai.n
+aur kyaa ehad\-e\-vafaa hote hai.n   \threedots
+
+baat nikalii thii is zamaane kii
+jisako aadat hai bhuul jaane kii
+aap kyo.n hamase khafaa hote hai.n
+aur kyaa ehad\-e\-vafaa hote hai.n   \threedots
+
+jab rulaa lete hai.n jii bhar ke hame.n
+jab sataa lete hai.n jii bhar ke hame.n
+tab kahii.n khush vo zaraa hote hai.n
+aur kyaa ehad\-e\-vafaa hote hai.n   \threedots
+
+%
+#endindian
+\endsong
+%

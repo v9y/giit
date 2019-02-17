@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe}%
+\film{Aaj Aur Kal}%
+\year{}%
+\starring{Ashok Kumar, Sunil Dutt, Tanuja, Nanda}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: Samiuddin Mohammed (sm0e@ns1.cc.lehigh.edu)
+% Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye vaadiyaa.N ye fizaa_e.n bulaa rahii hai.n tumhe \- 2
+khaamoshiyo.n kii sadaa_e.n bulA rahii hai.n tumhe 
+ye vaadiyaa.N ye fizaa_e.N bulaa rahii hai.n tumhe 
+
+tumahArI zulpho.n se khushabU kI bhIkh lene ko 
+jhukI jhukI sI ghaTAe.n bulA rahI hai.n tumhe 
+khAmoshiyo.n kI sadAe.N \threedots 
+
+hasI.n champAI pairo.n ko jabase dekhA hai 
+nadI kI mast adAe.n bulA rahI hai.n tumhe 
+khAmoshiyo.n kI sadAe.N \threedots 
+
+merA kahA nA suno dil kI baat to sunalo 
+har ek dil kI duAe.N bulA rahI hai.n tumhe 
+khAmoshiyo.n kI sadAe.n bulA rahI hai.n tumhe 
+
+ye vAdiyA.N ye fizAe.N bulA rahI hai.n tumhe \threedots 
+%
+#endindian
+\endsong
+%

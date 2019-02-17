@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum saath ho zi.ndagii bhar ke liye}%
+\film{Tum Saath Ho}%
+\year{}%
+\starring{}%
+\singer{Anoop Ghoshal}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Pavan Jha
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tum saath ho, zi.ndagii bhar ke liye
+tum saath rahanaa zi.ndagii\-zi.ndagii bhar
+tum saath ho   \threedots
+
+kuchh mere ra.ng ho, kuchh terii saragam
+phir kyaa khushii kyaa Gam
+sabase alag hai sabase judaa
+teraa meraa sa.ngam
+tum saath ho   \threedots
+
+tum ho subah kii pahalii kiraN
+man se ba.Ndhaa hai man
+duur hai.n phir bhii duur nahii.n hai.n
+itane paas hai.n ham
+tum saath ho   \threedots
+
+%
+#endindian
+\endsong
+%

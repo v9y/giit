@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{bolo priitam kyaa bolii thii mai.n aage re}%
+\film{Arjun Pandit}%
+\year{1976}%
+\starring{Ashok Kumar, Vinod Mehra, Sanjeev Kumar, Srividya}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Ketan Dholakia
+% Transliterator: Ketan Dholakia
+% Date: 6 Jun 2006
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+aa.a o.a
+
+bolo priitam
+(bolo priitam kyaa bolii thii mai.n aage re
+bolo priitam kyaa bolii thii mai.n) \-2
+bolo priitam 
+
+kahii.n bhii ruuTh ke jaaoge jaaoge
+yahii.n pe lauT ke aaoge aaoge \-2
+aaye naa karake bahaanaa piyaa
+bolo priitam \threedots
+
+(dekho na saa.Ns ulajh gayii naa gayii naa
+agan\-sii sulag gayii naa gayii naa) \-2
+kaahe ko garavaa se lipaTaa liyaa
+bolo priitam \threedots
+
+%
+#endindian
+\endsong

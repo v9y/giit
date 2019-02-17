@@ -1,0 +1,52 @@
+% ITRANS SONG # 3298; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)
+% Date: 2002-12-13 14:46:08 PST 
+%
+\startsong
+\stitle{cha.ndaa tale muskuraayii.n javaaniyaa.N}%
+\film{Chandiraani}%
+\year{1953}%
+\starring{N T Rama Rao, P Bhanumati}%
+\singer{Talat, P Bhanumati}%
+\music{C R Subbaraman-M S Viswanathan}%
+\lyrics{Vishwamitra Adil}%
+%
+% Audio On: sdburman.com
+% Contributor: Srinivas Ganti, Nimish Pachapurkar
+% Transliterator: Srinivas Ganti
+% Date: Dec 13, 2002
+% Series: GEETanjali
+% Comments: Has Telugu & Tamil versions
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ta:cha.ndaa tale o
+bha:cha.ndaa tale o
+ta:(cha.ndaa tale muskuraaye.N (muskuraaii ?) 
+vaaniyaa.N)\-3
+bha:(ho.nTho.n pe aa ga_ii dil kii kahaaniyaa.N)\-2
+cha.ndaa tale o
+cha.ndaa tale muskuraaye.N javaaniyaa.N
+
+ta:dil kaa fasaanaa kahaa bhii naa jaaye
+kahe binaa hamase rahaa bhii naa jaaye
+bha:bhaa ga_ii terii naadaaniyaa.N ho naadaaniyaa.N
+cha.ndaa tale muskuraaye.N javaaniyaa.N
+ta:ho.nTho.n pe aa ga_ii dil kii kahaaniyaa.N
+cha.ndaa tale o
+cha.ndaa tale muskuraaye.N javaaniyaa.N
+
+ta:pahalii vafaae.N pahalii bahaar hai
+koii bataa de kaisaa ye pyaar hai
+bha:taaro.n ne ??? phir ye ??? ho ??
+both:cha.ndaa tale muskuraaye.N javaaniyaa.N
+ho.nTho.n pe aa ga_ii dil kii kahaaniyaa.N
+cha.ndaa tale o
+cha.ndaa tale musakuraaye.N javaaniyaa.N
+%
+#endindian
+\endsong
+%

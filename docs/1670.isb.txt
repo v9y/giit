@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tasaviir terii dil meraa bahalaa na sakegii}% 
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+
+tasaviir terii dil meraa bahalaa na sakegii
+ye terii tarah mujh se to sharmaa na sakegii
+tasaviir terii \threedots
+
+mai.n baat karuu.Ngaa to ye khaamosh rahegii
+siine se lagaa luu.Ngaa to ye kuchh na kahegii
+aaraam vo kyaa degii jo ta.Dapaa na sakegii
+tasaviir terii \threedots
+
+ye aa.Nkhe.n hai.n Thaharii huii cha.nchal vo nigaahe.n
+ye haath hai.n sahame hue aur mast vo baahe.n
+parchhaa_ii.n to i.nsaan ke kaam aa na sakegii
+tasaviir terii \threedots
+
+in ho.nTho.n ko faiyyaaz mai.n kuchh de na sakuu.Ngaa
+is zulf ko mai.n haath me.n bhii le na sakuu.Ngaa
+ulajhii huii raato.n ko ye sulajhaa na sakegii
+tasaviir terii \threedots
+
+%
+#endindian
+\endsong
+%

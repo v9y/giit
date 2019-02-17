@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{tum pyaar se dekho ham pyaar se dekhe.n}%
+\film{Sapnon Ka Saudagar}%
+\year{1968}%
+\starring{Raj Kapoor, Hema Malini, Jayant, Tanuja}%
+\singer{Mukesh, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11082 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	tum pyaar se dekho ham pyaar se dekhe.n
+	jiivan ke a.Ndhere me.n bikhar jaa_e ujaalaa
+shaa \:	tum pyaar se dekho \threedots
+
+mu \:	ham tum par jo bhaarii the vo din biit ga_e hai.n
+	matavaalii Dagar pe jo mile miit na_e hai.n
+shaa \:	Kushiyo.n kii lahar aur chaa.Nd jo.D ga_ii hai
+	ham pyaar karane vaalo.n kii duniyaa hii na_ii hai \-2
+mu \:	tum pyaar se dekho
+shaa \:	ham pyaar se dekhe.n
+do \:	jiivan ke a.Ndhere \threedots
+ko \:	tum pyaar se dekho \threedots
+
+mu \:	phir aaj dha.Dakataa hu_aa dil bol rahaa hai
+	phir se kahii.n u.D jaane ko par khol rahaa hai
+shaa \:	nagarii javaa.N aramaano.n kii ye premanagar hai
+	har dil uchhal rahaa hai mohabbat kaa asar hai
+mu \:	tum pyaar se dekho
+shaa \:	ham pyaar se dekhe.n
+do \:	jiivan ke a.Ndhere \threedots
+ko \:	tum pyaar se dekho \threedots
+%
+#endindian
+\endsong
+

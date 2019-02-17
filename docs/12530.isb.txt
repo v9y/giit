@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{teraa phuulo.n jaisaa ra.ng ... chaahe chale.n chhuriyaa.N}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Amitabh Bachchan, Shashi Kapoor, Rakhi, Waheeda Rahman, Rishi Kapoor, Nitu Singh}%
+\singer{Kishor, Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10266 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	teraa phuulo.n jaisaa ra.ng teraa shiishe jaisaa a.ng
+	pa.Dii jaise hii nazar mai.n to rah gayaa da.ng
+la \:	aate\-jaate kare ta.ng tere achchhe nahii.n Dha.ng
+	mai.n to karuu.Ngii sagaa_ii kisii duusare ke sa.ng
+ki \:	o mere hote ko_ii aur kare tere baare gaur \-2
+	ye na hogaa kisii taur chaahe chale.n chhuriyaa.N
+
+	siidhe\-siidhe haa.N karatii hai yaa chalanaa hai thaane
+la \:	thaane jaate\-jaate mar ga_e tujhase ka_ii diivaane
+ki \:	yuu.N hii nakhare na kar terii choTii ko paka.D \-2
+	tujhe laa_uu.Ngaa mai.n ghar chaahe chale.n chhuriyaa.N
+
+la \:	haay terii baate.n hai.n ajab
+ki \:	are ho le honaa hai jo ab
+la \:	tujhe merii hai qasam kahii.n Dhaanaa na Gazab
+ki \:	ho tujhe chho.De.nge na ham chaahe roke hame.n rab
+la \:	tuu hai itanaa hii ta.ng to mai.n ra.ngii tere ra.ng
+	le mai.n chalii tere sa.ng chaahe chale.n chhuriyaa.N
+
+la \:	dil aane kii baat hai jab jo lag jaa_e pyaaraa
+ki \:	dil par kisakaa zor hai dil ke aage har ko_ii haaraa
+	haay o mere yaaraa
+	dil milane se teraa\-meraa mel hai
+la \:	dil milanaa muqaddaro.n kaa khel hai
+ki \:	dil milane kaa melaa ye jahaan hai
+la \:	dil milane se duniyaa javaan hai
+	dil aane kii baat hai \threedots
+
+	tiir ishaq vaalaa ko_ii maane yaa naa maane be\-kamaan hai
+	mohabbat har dil kaa aramaan mohabbat har dha.Dakan kii jaan \-2
+	kisii se kar le tuu pahachaan kisii ko de\-de dil aur jaan
+	kisii ko rakh dil me.n mehamaan kisii ke rah dil me.n mehamaan
+	javaanii aatii hai ik baar ye mausam rahataa hai din chaar
+	na khonaa is rut ko bekaar nahii.n nit khilataa ye gulazaar
+	kisii se kar lenaa ikaraar kisii se le lenaa ikaraar
+	kisii kii Kaatir ho badanaam yahii hai dilavaalo.n kaa kaam
+	zamaanaa chaahe de ilzaam samajh har tohaman ko iinaam
+	kisii se le dil kaa paiGaam kisii ko de dil kaa paiGaam
+	dil aane kii baat hai \threedots
+%
+#endindian
+\endsong
+

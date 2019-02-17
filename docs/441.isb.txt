@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dekhane me.n bholaa hai, dil kaa salonaa}%
+\film{Bambai Ka Babu}%
+\year{1960}%
+\starring{Dev Anand, Suchitra Sen}%
+\singer{Asha, chorus}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Date:
+% Credits:
+% Editor: Surajit Bose
+%
+\printtitle
+#indian
+%
+
+dekhane me.n bholaa hai dil kaa salonaa
+bamba_ii se aayaa hai baabuu chinnannaa
+
+galii galii gaa.Nv kii re jaagii hai sote sote
+phir se laage hai aisaa hue ham chhoTe chhoTe
+sa.ng leke aayaa hai meraa bachapanaa
+bamba_ii se \threedots
+
+nikii munnii nuur beGam use na banaanaa jii
+hasiino.n kaa shah_zaadaa hai ha.Nsii naa u.Danaa jii
+dil u.Da le jaayegaa cho.Do bachapanaa
+bamba_ii se \threedots
+
+suno magar shah_zaade jii kahii.n bhuul mat jaanaa
+burii hai.n yah naino.n vaale banaate hai.n diivaanaa
+gaa.Nv hai yah pariyo.n kaa dil ko bachaanaa
+bamba_ii se \threedots
+%
+#endindian
+\endsong
+%

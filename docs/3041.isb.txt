@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{bahaaro.n se puuchho nazaaro.n se puuchho}%
+\film{Fashion}%
+\year{1957}%
+\starring{Pradeep Kumar, Anita Guha}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #47
+%
+\printtitle
+#indian
+%
+
+he: bahaaro.n se puuchho nazaaro.n se puuchho
+    dil kyo.n divaanaa meraa ho gayaa
+    laakh sambhaalaa magar kho gayaa 
+la: bahaaro.n se puuchho nazaaro.n se puuchho
+    dil kyo.n divaanaa meraa ho gayaa
+    laakh sambhaalaa magar kho gayaa
+
+la: tuu bhii divaanaa sanam mai.n bhii diivaanii
+    ulfat kii hai ajab kahaanii
+    tu bhii divaanaa sanam mai.n bhii divaanii
+he: ulfat kii hai ajab kahaanii
+la: meraa dil teraa kaise ho gayaa
+do: lakh sambhaalaa magar kho gayaa
+
+he: ba.Dane lagii hai ab beqaraarii
+la: miTane lagii hai nii.nd hamaarii
+he: dil ko naa jaane ye kyaa ho gayaa
+la/he: lakh sambhaalaa magar kho gayaa \threedots
+
+%
+#endindian
+\endsong
+%

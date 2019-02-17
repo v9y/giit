@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{vaadaa kiyaa hai aane kaa usane ... naache.nge ham ##Disco## Daa.nDiyaa}%
+\film{Love Love Love}%
+\year{1989}%
+\starring{Aamir Khan, Juhi Chawla, Gulshan Grover, Dalip Tahil, Om Shivpuri}%
+\singer{Alisha Chinai, Vijay Benedict}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vaadaa kiyaa hai aane kaa usane aa_egii aa_egii
+aa_egii vo to mastii dilo.n par chhaa_egii chhaa_egii
+jhuume.nge ham gaa_e.nge ham naache.nge ham ##Disco## Daa.nDiyaa
+
+baaho.n me.n jab vo aa_egii saa.Nso.n me.n halachal machaa_egii
+pyaar se aa.Nkhe.n milaa_egii dil par chhaap lagaa_egii
+vo phulajha.Dii phuulo.n kii jha.Dii jab chha.Dii se chha.Dii milaa_egii
+mastii me.n dil meraa jhuumegaa chhaa_egaa nashaa
+u.ngalii pe mujhako nachaa_egii aa_egaa mazaa
+
+kyuu.n aa_ii naa terii mahabuubaa
+vaade pe tere hai mujhako yakii.n vaadaa tuu nahii.n to.D sakatii
+is mo.D pe laakar mujhako daaman tuu chho.D nahii.n sakatii
+aavaaz duu.ngaa jab mai.n tujhe tuu naa kahii.n ruk paa_egii
+hai aaj to pyaar kaa imtahaa.n
+tuu apanaa vaadaa nibhaa_egii haa.N
+
+vaadaa kiyaa thaa aane kaa maine ye lo mai.n aa ga_ii
+mahabuub tere li_e mai.n duniyaa se Takaraa ga_ii
+jhuume.nge ham \threedots
+
+terii chha.Dii se merii chha.Dii aisii la.Dii haay aisii la.Dii
+tan me.n ko_ii chi.ngaarii u.Dii
+haa.N saa.Nso.n kii garmii aur ba.Dhii
+aisaa tajurbaa pahale hu_aa naa pahale naa aa_ii aisii gha.Dii
+ha.ngaamaa mil ke machaa_e.nge hogaa ratajagaa
+aisaa hu_aa naa hogaa kabhii ##Disco## Daa.nDiyaa
+jhuume.nge ham \threedots
+%
+#endindian
+\endsong
+

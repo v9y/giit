@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ai sanam jisane tujhe chaa.Nd sii suurat dii hai}%
+\film{Diwana}%
+\year{1967}%
+\starring{Raj Kapoor, Saira Bano, Kanhaiyyalal}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11050 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai sanam jisane tujhe chaa.Nd sii suurat dii hai
+usii maalik ne mujhe bhii to mohabbat dii hai
+ai sanam jisane tujhe \threedots
+
+phuul uThaa le to kalaa_ii me.n lachak aa jaa_e
+tujh hasiinaa ko Kudaa ne vo nazaaqat dii hai
+mai.n jise pyaar se chhuu luu.N vo hii ho jaa_e meraa
+usii maalik ne \threedots
+
+mai.n guzarataa hii gayaa terii hasii.n raaho.n se
+ik tere pyaar ne kyaa\-kyaa mujhe himmat dii hai
+mere dil ko bhii zaraa dekh kahaa.N tak huu.N mai.n
+usii maalik ne \threedots
+
+tuu agar chaahe to duniyaa ko nachaa de zaalim
+chaal dii hai tujhe maalik ne qayaamat dii hai
+mai.n agar chaahuu.N to patthar ko banaa duu.N paanii
+usii maalik ne \threedots
+%
+#endindian
+\endsong
+

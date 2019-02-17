@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{jaane vaale se mulaaqaat naa hone paa_ii}%
+\film{Amar}%
+\year{}%
+\starring{Dilip Kumar, Madhubala, Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaane vaale se mulaaqaat naa hone paaI \- 2
+dil kii dil me.n hii rahii baat naa hone paaI
+jaane vaale se \threedots
+
+chaa.Ndanii khil na sakii, chaa.Nd ne mu.Nh mo.D liyaa  \- 2
+jisakaa aramaan thaa vo baat naa hone paaI
+jaane vaale se \threedots
+
+dil me.n tuufaan uThe, dil kii jubaa.N khul na sakii \- 2
+badaliyaa.N chhaa gaI.n barasaat naa hone paaI
+jaane vaale se \threedots
+%
+#endindian
+\endsong
+%

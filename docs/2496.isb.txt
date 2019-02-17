@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ye teraa ghar, ye meraa ghar}%
+\film{Saath Saath}%
+\year{}%
+\starring{Farouq Sheikh, Deepti Naval}%
+\singer{Jagjit Singh, Chitra Singh}%
+\music{Kuldeep Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ye teraa ghar ye meraa ghar kisii ko dekhanaa ho gar
+to pahale aa ke maa.Ng le, merii nazar terii nazar
+ye teraa ghar ye meraa ghar
+ye ghar bahut hasiin hai   \threedots
+
+na baadalo.n kii chhaa.Nv me.n, na chaa.Ndanii kii gaa.Nv me.n
+na phuul jaise raaste bane hai.n isake vaaste
+magar ye ghar ajiib hai, zamiin ke qariib hai
+ye ii.nT pattharo.n kaa ghar, hamaarii hasarato.n kaa ghar
+ye teraa ghar ye meraa ghar   \threedots
+
+jo chaa.Ndanii nahii.n to kyaa, ye roshanii hai pyaar kii
+dilo.n ke phuul khil gaye, to fiqr kyaa bahaar kii
+hamaare ghar na aayegii, kabhii khushii udhaar kii
+hamaarii raahato.n kaa ghar, hamaarii chaahato.n kaa ghar
+ye teraa ghar ye meraa ghar   \threedots
+
+%
+#endindian
+\endsong
+%

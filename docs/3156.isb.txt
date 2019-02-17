@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mujhe tum se muhabbat hai}%
+\film{Do Sitare}%
+\year{1951}%
+\starring{Suraiya, Dev Anand, Premnath}%
+\singer{Suraiyya}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Arunabha Roy
+% Transliterator: Arunabha Roy
+% Date: Oct 12, 2001
+%
+#indian
+\printtitle
+%
+
+mujhe tum se muhabbat hai \- 2
+magar ab tak kahaa.N the tum, mujhe tum se shikaayat hai
+mujhe tum se muhabbat hai \threedots
+
+muhabbat jis qadar hotii hai laharo.n ko kinaare se
+musaafir ko a.ndherii raat me.n roshan sitaare se
+muhabbat kii qasam tum se mujhe itanii muhabbat hai
+mujhe tum se muhabbat hai \threedots
+
+mere ho.nTho.n ke sapano.n me.n tumhaaraa naam aataa thaa
+tumhaare naam se dil ko ba.Daa aaraam aataa thaa
+vahii ho tum, mujhe tum se muhabbat thii, muhabbat hai
+mujhe tum se muhabbat hai \threedots
+
+%
+#endindian
+#endsong
+%

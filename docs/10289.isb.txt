@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tuu laalii hai savere vaalii gagan ra.ng de}%
+\film{Abhi To Jee Lein}%
+\year{1977}%
+\starring{Jaya Bhaduri, Kiran Kumar, Radha Saluja, Mukesh, Simi Grewal, Paintal}%
+\singer{Kishor, Asha}%
+\music{Sapan Jagmohan}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10350 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	tuu laalii hai savere vaalii gagan ra.ng de tuu mere man kaa
+aa \:	jo suuraj tuu mai.n dharatii terii tuu saathii hai mere jiivan kaa
+ki \:	tuu laalii hai \threedots
+aa \:	jo suuraj tuu \threedots
+
+ki \:	ho tere\-mere biich kii miTegii kab duurii
+aa \:	ho hotii hai kuchh to sanam sabhii kii majabuurii
+ki \:	tum ho niGaaho.n me.n kab aa_ogii baa.Nho.n me.n
+aa \:	tum me.n jo himmat ho mujh se mohabbat ho
+	jag se mujhe chhiin lo
+ki \:	tuu laalii hai \threedots
+aa \:	jo suuraj tuu \threedots
+
+aa \:	ho tere hii phere karuu.N khii.nchii hu_ii mai.n aa_uu.N
+ki \:	ho dekhuu.N tujhe duur se gale naa lag jaa_uu.N
+aa \:	kisane tumhe.n rokaa kar lo vo jo sochaa
+ki \:	ha.Nsii naa u.Daa_o aur naa jalaa_o
+	aa.Nchal kii tum chhaa.Nv do
+ki \:	tuu laalii hai \threedots
+aa \:	jo suuraj tuu \threedots
+%
+#endindian
+\endsong
+

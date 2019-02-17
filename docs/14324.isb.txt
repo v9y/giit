@@ -1,0 +1,63 @@
+
+%
+\startsong
+\stitle{ajii aavo mohabbat kii khaa le.n qasam}%
+\film{Shehnai}%
+\year{1947}%
+\starring{Rehana, Indumati, Nasir Khan, Dulari, Mumtaz Ali, Niranjan Sharma}%
+\singer{Ameerbai, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #12123 [V S Rawat]
+%
+\printtitle
+#indian
+%
+chi \:	ajii aavo
+	ajii aavo mohabbat kii khaa le.n qasam
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+a \:	ajii aavo jawaanii kii qasam khaa le.n
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+a \:	jis dhaaraa me.n naiyaa hamaarii bahe re
+	hamaarii bahe re
+chi \:	jis dhaaraa me.n duniyaa ye saarii bahe re
+	ye saarii bahe re
+do \:	us dhaaraa me.n \-2
+	ghul\-mil ke sa.ng bahe.n ham
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+	ajii aavo jawaanii kii qasam khaa le.n
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+a \:	jis bolii me.n bole.n papiihaa piyaa ho
+	papiihaa piyaa ho
+chi \: jis bolii me.n dha.Dake hamaaraa jiyaa ho
+	hamaaraa jiyaa ho
+do \:	us bolii me.n \-2
+	kaano.n me.n tumase kahe.n ham
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+	ajii aavo jawaanii kii qasam khaa le.n
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+chi \:	( chaahe.n pachchhim se suuraj nikalane lage
+a \:	chaahe.n chandaa bhii aaG ugalane lage ) \-2
+do \:	ye ulfat hamaarii kabhii ho naa paaye kam
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+
+	ajii aavo jawaanii kii qasam khaa le.n
+	hamaare raho tum tumhaare rahe.n ham
+	ajii aavo
+%
+#endindian
+\endsong
+

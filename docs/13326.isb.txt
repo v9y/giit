@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ek aag hai dahakataa raag hai}%
+\film{Naujawaan}%
+\year{1951}%
+\starring{Nalini Jayawant, Premnath}%
+\singer{Manna De, Chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11907 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+o ho
+o ho
+ho
+ho
+ho o o ho
+ek aaG hai dahakataa raag hai 
+jawaanii merii jawaanii merii jawaanii merii
+jal jaaye.nge agar paas aaye.nge jalaane waale
+
+are re re re re re re re re
+haay re
+dil paaq hai nazar bebaaq hai
+Dar kisakaa mujhe Dar kisakaa mujhe Dar kisakaa
+pachhataaye.nge agar Takaraaye.nge zamaane waale
+ho
+
+aa
+haay
+ek aaG hai dahakataa raag hai 
+jawaanii merii jawaanii merii jawaanii merii
+jal jaaye.nge agar paas aaye.nge jalaane waale
+ho
+o ho
+%
+#endindian
+\endsong
+

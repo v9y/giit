@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{lo lo jii mai.n aa ga_ii har dil pe chhaa ga_ii}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lo lo jii mai.n aa ga_ii har dil pe chhaa ga_ii
+jo bhii yahaa.n mujhako dekhe vo to yahii ha.Ns ke bole vaah re vaah
+lo lo jii mai.n aa ga_ii haa.N
+
+ruup hai sirf dhokhaa pahachaan le
+haa.N baat dil kii diivaane ab maan le
+o merii jaan maanegaa naa kahanaa meraa pachhtaa_egaa
+lo lo jii mai.n \threedots
+
+hosh me.n aa anaa.Dii zaraa soch le
+haa.N kyaa se kyaa ho ga_ii mai.n zaraa dekh le
+jaan\-e\-vafaa tujhape meraa jaaduu nayaa chal jaa_egaa
+lo lo jii mai.n \threedots
+%
+#endindian
+\endsong
+

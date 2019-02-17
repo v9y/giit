@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{achchhaa jii maaf kar do tho.Daa insaaf kar do}%
+\film{Musaafirkhaanaa}%
+\year{1955}%
+\starring{Shyama, Karan Deewan, Gop, Johny Walker, Shammi, Kumkum,  Om Prakash}%
+\singer{Rafi, Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10036 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+achchhaa jii maaf kar do tho.Daa insaaf kar do
+dil par jo tiir chalaa_e usakaa hisaab kar do
+
+aa_o jii maaf kiyaa hamane insaaf kiyaa
+is  dil ko dil me.n rakhake jhaga.Daa hii saaf kiyaa
+
+terii nazar to dil me.n karake tuufaan ga_ii
+terii adaa hii Thaharii apanii to jaan ga_ii
+achchhaa jii maaf kar do \threedots
+
+chorii se aa_e dil me.n tumane qusuur kiyaa
+dekhaa naa bhaalaa kyo.n jo itanaa Guruur kiyaa
+achchhaa jii maaf kar do \threedots
+
+sabase kahuu.Ngaa tuune dil beqaraar kiyaa
+meraa hii dilabar banakar mujh pe hii vaar kiyaa
+achchhaa jii maaf kar do \threedots
+
+tuune vah chaal chal dii jisakaa hisaab nahii.n
+chorii aur siinaazorii teraa javaab nahii.n
+achchhaa jii maaf kar do \threedots
+%
+#endindian
+\endsong
+

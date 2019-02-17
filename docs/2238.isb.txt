@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{vikal moraa manavaa, tum bin haay}%
+\film{Mamta}%
+\year{1966}%
+\starring{Dharmendra, Mala Sinha}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Hemlata Khemani
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham gavanavaa naa jaibe ho binaa jhuulanii
+ambuvaa kii Daarii pa.D rahii buu.Ndiyaa
+acharaa se ulajhe lahariyaa
+lahariyaa ho binaa jhuulanii
+ham gavanavaa naa jaibe ho binaa jhuulanii
+
+sakal bana gagana pavana chalata puravaa_ii rii maa_ii \-2
+R^itu basanta aa_ii phuulan chhaa_ii belariyaa
+Daar Daar ambuvan kii kohariyaa
+rahii pukaar aur meghavaa buu.Ndan jharanaa_ii
+sakal bana gagana pavana chalata puravaa_ii rii
+
+vikal morA manavA, tum bin hAy
+Ae na sajanA ritu bItI jAe
+vikal morA manavA, tum bin hAy
+
+bhor pavan chalI, bujh gae dIpak
+chalI gaI rain shrR^i.ngAr kI
+kaise virahA kI dhUp DhalI
+arI ai kalI a.Nkhiyan kI pa.DI kumhalAe
+vikal morA manavA ...
+
+yug se khule hai.n paT nainan ke mere
+yug se andherA morA a.nganA
+sUraj chamakA na chA.nd khilA
+arI ai jalA rahI apanA, tan man haay
+vikal morA manavA ...
+
+%
+#endindian
+\endsong
+%
+

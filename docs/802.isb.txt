@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaane kaise sapano.n mai.n kho gayii a.nkhiyaa.n}% 
+\film{Anuradha}%
+\year{}%
+\starring{Balraj Sahni, Lila Naidu, Abhi Bhattacharya}%
+\singer{Lata}%
+\music{Pt. Ravishankar}%
+\lyrics{Shailendra}%
+%
+% Contributor:  Pavan Kumar Desikan (pkd@duke.cs.duke.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+jaane kaise sapano.n mai.n kho gayii a.Nkhiyaa.n 
+mai.n to huu.N jaagii morI so gayii a.Nkhiyaa.n 
+
+ajab dIvaanii bha_ii, mose anjaanii bha_iii
+pal me.n paraaii dekho ho gayii a.Nkhiyaa.n 
+mai.n to huu.N jagii morI so gayii a.Nkhiyaa.n 
+
+barasii ye kaisii dhaaraa, kaa.Npe tanaman saaraa 
+ra.ng se a.ng bhigo gayii a.Nkhiyaa.n 
+mai.n to huu.N jagii morI so gayii a.Nkhiyaa.n 
+
+man ujiyaaraa chhaayaa, jag ujiyaaraa chhaayaa
+jagamag dIp sa.njo gayii a.Nkhiyaa.n 
+mai.n to huu.N jagii morI so gayii a.Nkhiyaa.n 
+
+jaane kaise sapano.n mai.n kho gayii a.Nkhiyaa.n 
+mai.n to huu.N jagii morI so gayii a.Nkhiyaa.n 
+%
+#endindian
+\endsong
+%

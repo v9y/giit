@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{zindagii me.n jiite jiite maranaa zaruur thaa}%
+\film{Naagmani}%
+\year{1991}%
+\starring{Sumeet Saigal, Shikha Swarup, Kiran Kumar, Aruna Irani, Aloknath}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Annu Malik}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zindagii me.n jiite jiite maranaa zaruur thaa
+tum mil ga_e ho ho ho ho
+tum mil ga_e ho pyaar karanaa zaruur thaa
+
+ye sabakaa hai Kyaal hai umr kaa savaal
+is jism se tum hii kaho dil kaise de.n nikaal
+haalaat ke tuufaa.n se guzaranaa zaruur thaa
+tum mil ga_e ho \threedots
+
+duniyaa badal ga_ii har chiiz mil ga_ii
+lagataa hai har Kushii merii qismat me.n Dhal ga_ii
+mujhako tumhaare dil me.n utaranaa zaruur thaa
+tum mil ga_e ho \threedots
+%
+#endindian
+\endsong
+

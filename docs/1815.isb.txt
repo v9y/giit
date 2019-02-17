@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tuu hii hai meraa sahaaraa}%
+\film{Stree}%
+\year{1961}%
+\starring{V Shantaram, Sandhya}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: K Vijay Kumar  
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+a.Nganaa me.n suuraj muskaayaa
+godii me.n svag.r utar aayaa
+sab kuchh kho ke tujhe paayaa
+tuu hii hai meraa saharaa   \threedots
+
+merii a.Ndhiyaarii raato.n me.n
+tuu chamakaa banake diyaa re
+saare sahaare TuuTe tab tuune janam liyaa re
+jhuume maa.N kaa jiyaa re
+ab dukha.Do.n kaa a.nt aayaa
+patajha.D me.n bhii basa.nt aayaa
+sab kuchh khoke tujhe paayaa
+tuu hii hai meraa sahaaraa   \threedots
+
+laal mere, pratipaal mere
+ab terii aas lagaa_uu.N
+nanhii, nanhii haatho.n me.n tere
+apane haath thamaa_uu.N
+man ko dhiir ba.Ndhaa_uu.N
+jiivan saagar laharaayaa
+banake kinaaraa tuu aayaa
+sab kuchh khoke tujhe paayaa
+tuu hii hai meraa sahaaraa   \threedots
+
+%
+#endindian
+\endsong
+%

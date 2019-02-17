@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{suno haal merii zindagii kaa mujhe pyaar milaa naa}%
+\film{Chandan}%
+\year{1971}%
+\starring{Somdutt, Komal, Ramesh Dev, Jogindar, Zeb Rahman, Ram Mohan}%
+\singer{Mukesh}%
+\music{Sonik Omi}%
+\lyrics{Omkar Verma}%
+%
+% Contributor: BOL ANAMOL #10377 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+suno haal merii zindagii kaa
+mujhe pyaar milaa naa kisii kaa
+
+badanaam kiyaa logo.n ne mujhe aur naam diyaa to aavaaraa
+apano.n ne mujhe Thukaraa diyaa phir bhii mai.n nahii.n himmat haaraa
+maine to ba.Dhaayaa haath sadaa duniyaa kii taraf dostii kaa
+mujhe pyaar milaa naa \threedots
+
+Gam ko bhii lagaayaa maine gale aur ha.Nsataa rahaa mushkil me.n
+samajhaa naa kisii ne apanaa mujhe hai daaG yahii mere dil me.n
+shikavaa naa kiyaa maine to kabhii ai maalik terii beruKii kaa
+mujhe pyaar milaa naa \threedots
+%
+#endindian
+\endsong
+

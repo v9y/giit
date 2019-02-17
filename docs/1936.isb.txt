@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{ye raakhii ba.ndhan hai aisaa}%
+\film{Beimaan}%
+\year{1972}%
+\starring{Manoj Kumar, Raakhee}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Varma Malik}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/17/1995
+% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments:  
+%
+\printtitle
+#indian
+%
+(ye raakhii ba.ndhan hai aisaa \-3
+ jaise cha.Ndaa aur kiraN kaa
+ jaisaa badarii aur pavan kaa
+ jaise dharatii aur gagan kaa) 	\-2
+ye raakhii ba.ndhan hai aisaa \-3
+
+duniyaa kii jitanii bahane.n hai.n
+un sabakii shraddhaa hai isame.n
+hai dharam karam bhaiyaa kaa ye
+bahanaa kii rakshaa isame.n hai
+jaise subhadraa aur kishan kaa
+jaise badarii aur pavan kaa
+jaise dharatii aur gagan kaa
+ye raakhii ba.ndhan \threedots
+
+m: aaj khushii ke din bhaaii ke
+   bhar\-bhar aae nainaa \-2
+   kadar bahan kii unase puuchho
+   jinakii nahii.n hai bahanaa
+   mol nahii.n koii is ba.ndhan kaa
+   jaise badarii aur pavan kaa
+   jaise dharatii aur gagan kaa
+
+ye raakhii ba.ndhan hai aisaa \-3
+
+%
+#endindian
+\endsong
+%
+

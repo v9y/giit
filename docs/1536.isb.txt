@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{rim jhim rim jhim rum jhum rum jhum}% 
+\film{1942 A Love Story}%
+\year{1994}%
+\starring{Anil Kapoor, Manisha Koirala, Jackie Shroff}%
+\singer{Kumar Sanu}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor:  Porkey (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+rim jhim rim jhim rum jhum rum jhum 
+bhiigii bhiigii rut me.n tum ham ham tum 
+chalate hai.n chalate hai.n 
+bajataa hai jalatara.ng par ke chhat pe jab 
+motiyo.n jaisA jal barasaae 
+buu.Ndo.n kii ye jha.Dii laaI hai vo gha.Dii 
+jisake liye ham tarase, ho ho ho rim jhim rim jhim 
+
+bAdal kii chaadare.n o.Dhe hai.n vaadiyaa.n 
+saarii dishaaye.n so_ii hai.n 
+sapano.n ke gaao.n me.n bhiigii sii chhaa.Nv me.n 
+do aatmaae.n khoii hai.n 
+
+aa_ii hai.n dekhane jhiilo.n ke aa_ine 
+baalo.n ko khole ghaTaae.n 
+raahe.n dhuaa.N dhuaa.N jaae.nge ham kahaa.N 
+aao yahii.n rah jaae.n 
+%
+#endindian
+\endsong
+%

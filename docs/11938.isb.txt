@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dekho dekho jaanam ham dil apanaa tere li_e laa_e}%
+\film{Ishq}%
+\year{1997}%
+\starring{Aamir Khan, Ajay Devgan, Kajol, Juhi Chawala}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekho dekho jaanam ham dil apanaa tere li_e laa_e
+socho socho duniyaa me.n kyo.n aa_e tere li_e laa_e
+ab tuu hame.n chaahe ab tuu hame.n bhuule
+ham to bane rahe.nge tere saa_e
+
+ye kyaa hame.n hu_aa ye kyaa tumhe.n hu_aa 
+saa.Nso.n ke dariyaa me.n gulamul sii hone lagii
+na_ii hai ye sajaa me.n hai mazaa
+
+chaahat ko chaahat kii shabanam bhigone lagii
+ab aur kyaa chaahe.n ab aur kyaa dekhe.n
+dekhaa tumhe.n to dil se nikalii haay
+dekho dekho jaanam \threedots
+
+shiishe ne shiishe se Takaraakar kuchh kah diyaa
+ye pal muraado.n ke ye pal hai.n yaado.n ke
+ab merii jaan rahe yaa chalii jaa_e
+dekho dekho jaanam \threedots
+%
+#endindian
+\endsong
+

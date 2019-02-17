@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{barakhaa kii raat aa_ii manavaa}%
+\film{Adhikar}%
+\year{1938}%
+\starring{P C Barua, Jamuna Barua, Pankaj Mullick}%
+\singer{Pankaj Mullick}%
+\music{Timir Baran}%
+\lyrics{Munshi Arzoo}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Nov 30, 2000
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+barakhaa kii raat aa_ii manavaa
+kar le man kaa baat
+garajat sa.nkaT kaa badaravaa
+duHkh kii pa.Dat phuhaar
+manavaa kar le man kaa baat \threedots
+ 
+kaarii rainaa naagin achakaa_e
+jiyaaraa dekh Daraa_e
+meghaa garaje jiyaaraa laraje
+kholo man kaa dvaar
+manavaa kar le man laa baat \threedots
+ 
+nainan se nainaa muskaaye
+chhaaye jagat ujiyaaraa
+man me.n jhar jhar amR^it barase
+jaisa saavan kii phuhaar
+manavaa kar le man kaa baat \threedots
+ 
+aa_o barakhaa rut me.n bole
+byaakul man ke bain
+chho.D jagat kii ulTii riiti
+jhuuThaa hai sa.nsaar
+manavaa kar le ma kaa baat \threedots
+
+% 
+\endindian
+#endsong
+%

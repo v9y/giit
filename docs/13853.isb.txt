@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{ik rastaa aa haa aa haa do raahii}%
+\film{Raam Balraam}%
+\year{1980}%
+\starring{Amitabh Bachchan, Dharmendra, Zeenat Aman, Rekha, Ajeet, Amjad Khan}%
+\singer{Rafi, Kishore}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11610 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	ik rastaa aa haa aa haa do raahii aa haa aa haa
+	ik chor ik sipaahii
+
+ra \:	bachapan kaa khel javaanii kaa sach
+ki \:	bachapan kaa khel javaanii kaa sach
+ra \:	ye hai terii\-merii zindagaanii kaa sach
+	na miT sake nasiibo.n ke kalam kii syaahii
+	ik rastaa aa haa \threedots
+do \:	ik chor ik sipaahii \threedots
+
+ki \:	achchhaa hai Karaab hai buraa hai nek hai
+ra \:	achchhaa hai Karaab hai buraa hai nek hai
+ki \:	kuchh bhii hai ham dono.n kaa lahuu to ek hai
+ra \:	kuchh bhii hai ham dono.n kaa lahuu to ek hai
+ki \:	naa banaa chor tuu marzii se na banaa mai.n sipaahii
+ra \:	ik rastaa aa haa \threedots
+
+ra \:	ma.nzil hai ek mere saathiyaa
+ki \:	ma.nzil hai ek mere saathiyaa
+ra \:	maanaa ham dono.n kaa judaa hai raastaa
+ki \:	maanaa ham dono.n kaa judaa hai raastaa
+ra \:	ham chalate hai.n to dete hai.n qadam ye gavaahii
+ra \:	ik rastaa aa haa \threedots
+do \:	ik rastaa aa haa \threedots
+%
+#endindian
+\endsong
+

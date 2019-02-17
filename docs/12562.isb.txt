@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{priit ke ba.ndhan me.n ... un par kaun kare jii vishvaas}%
+\film{Kavi Kaalidaas}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy, Anita Guha}%
+\singer{Rafi, Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10325 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	priit ke ba.ndhan me.n
+
+la \:	un par kaun kare jii vishvaas \-2
+	ki_e bha.Nvaro.n kaa bhes phire kaliyo.n ke des
+	kare rasiyaa jo ghar\-ghar vilaas
+	un par kaun kare \threedots
+
+ra \:	o ye to jug\-jug kii hai pyaas \-2
+	jise bha.Nvaraa bujhaa_e kalii\-kalii paas aa_e
+	kare puurii adhuurii jo aas
+	ye to jug\-jug kii \threedots
+
+la \:	ras ke lobhii chain na paa_e.N ulaTe apanii pyaas ba.Dhaa_e.N
+	ik pyaalii se jo priit lagaa_e.N janam\-janam kii pyaas bujhaa_e.N
+	jaise dharatii aur aakaash o jaise dharatii aur aakaash
+	jab dono.n mile to saarii sR^iShTi hile
+	chhaa_e patajha.D me.n bhii madhumaas
+	un par kaun kare \threedots
+
+ra \:	suuraj hai ek usakii kiraNe.n hazaar hai.n
+	sarajan haaraa hai use kaN\-kaN se pyaar hai
+	ba.ndhan me.n priit ke kab vo laachaar hai	
+	vo kamalinii ke man kaa si.ngaar hai kare ghar\-ghar me.n vo prakaash \-2
+	usakaa hR^iday vishaal usame.n navayug kii jvaal
+	nav\-jiivan bharii usakii shvaa.ns
+	ye to jug\-jug kii \threedots
+%
+#endindian
+\endsong
+

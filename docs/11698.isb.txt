@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{dil kii kahaanii mai.n ... dil chho.D aayaa ... dil to.D aayaa}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Sonu Nigam, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+mahafil me.n sab ko meraa salaam
+dilavaalo.n sun lo meraa payaam
+ho_y ho_y
+
+dil kii kahaanii mai.n kis ko sunaa_uu.N
+baat ye dil kii mai.n tum ko bataa_uu.N
+dil kii kahaanii \threedots
+
+baat hai dil kii dil ko pataa hai
+kyaa mai.n bataa_uu.N aur kyaa mai.n chhupaa_uu.N
+dil chho.D aayaa ho_y ho_y jaane mai.n kahaa.N
+o dil to.D aayaa jaanuu.N naa jaane mai.n kahaa.N
+
+pyaar agan hai o pyaar lagan hai 
+o pyaar hai miiraa pyaar kishan hai
+pyaar agan hai o_e o_e o_e o_e
+pyaar lagan hai o_e o_e o_e o_e
+pyaar hai miiraa pyaar kishan hai
+dil kii mere aavaaz ho tum ho_y
+giit huu.N mai.n aur saaz ho tum
+dil chho.D aayaa \threedots
+
+raat na aa_e o chaa.Nd na nikale
+mausam badale tuu naa badale
+raat na aa_e o_e o_e o_e o_e
+chaa.Nd na nikale o_e o_e o_e o_e
+mausam badale tuu naa badalanaa saathii mere
+saath hii chalanaa saathii mere
+dil chho.D aayaa \threedots
+
+saathiyaa tuu ab to aa bhii jaa
+sun le tuu ab dil kii sadaa
+aa jaa tuu ab to aa bhii jaa
+%
+#endindian
+\endsong
+

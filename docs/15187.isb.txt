@@ -1,0 +1,61 @@
+% ITRANS SONG
+
+\startsong
+\stitle{saa.nii re ghar ghar me.n ek chor}%
+\film{Shin Shinaaki Booblaa Boo}%
+\year{1952}%
+\starring{Rehana, Ranjan}%
+\singer{Lata, Chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+la \:	saa.nii re \-6
+	ghar ghar me.n ek chor saa.nii \-2
+	ghar ghar me.n ek chor
+	
+ko \:	saa.nii re \-4
+	ghar ghar me.n ek chor saa.nii \-2
+	ghar ghar me.n ek chor
+la \:	saa.nii re
+
+	tuu bhaktii kaa diyaa jalaava_ii
+	chor bujhaava_ii baatii
+	o
+	tuu bhaktii kaa diyaa jalaava_ii
+	chor bujhaava_ii baatii
+	luuT jaaye sab maal Kazaanaa
+	din dekhe naa raatii re
+	din dekhe naa raatii
+	haath kise ke aava_ii naa wo \-2
+	laakh kare ko_ii shor
+	saa.nii ghar ghar me.n ek chor \-2
+
+ko \:	saa.nii re \-4
+	ghar ghar me.n ek chor saa.nii \-2
+	ghar ghar me.n ek chor
+la \:	saa.nii re
+
+	o
+	tere dekhate ghar me.n aayaa
+	ghar me.n aayaa tere dekhate
+	ro le
+	kaisaa jaaduu Daalaa tujhape
+	tuu kuchh bhii naa bole re
+	tuu kuchh bhii naa bole
+	tan man baa.Ndh liye hai.n dono.n \-2
+	baa.Ndh karam kii Dor
+	saa.nii ghar ghar me.n ek chor \-2
+
+ko \:	saa.nii re \-4
+	ghar ghar me.n ek chor saa.nii \-2
+	ghar ghar me.n ek chor
+la \:	saa.nii re
+
+#endindian
+\endsong

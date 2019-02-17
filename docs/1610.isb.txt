@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{sarakatii jaaye hai rukh se naqaab aahistaa aahistaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Amir Minai}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Aniruddha B. Deglurkar (ani@ms.uky.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: In the movie version, the singers
+%           are Kishore and Lata.
+%
+\printtitle
+#indian
+%
+sarakatii jaaye hai rukh se naqaab aahistaa aahistaa
+nikalataa aa rahaa hai aafataab aahistaa aahistaa
+
+javaa.n hone lage jab vo to hamase kar liyaa paradaa
+hayaa yakalaKt aaii aur shabaab aahistaa aahistaa
+
+savaal\-e\-vasal pe unako uduu kaa khauf hai itanaa
+dabe ho.nTho.n se dete hai.n javaab aahistaa aahistaa
+
+hamaare aur tumhaare pyaar me.n bas fark hai itanaa
+idhar to jal{}dii\-jal{}dii hai udhar aahistaa aahistaa
+
+vo bedardii se sar kaaTe.n amiir aur mai.n kahuu.N unase
+huzuur aahistaa aahistaa janaab aahistaa aahistaa
+%    I know that Dedaar-e-yaar(the movie) featured the same ghazal,
+%    but a slightly diff. version. Lata and Kishor sang it and I think
+%    did a good job. How diff is thhe "filmi" version ? Does anybody
+%    know ?
+%    Aniruddha.
+%
+
+shab\-e-\-furqat kaa jaagaa huu.N farishto.n ab to sone do
+kabhii fursat me.n kar lenaa hisaab, aahistaa aahistaa
+#endindian
+\endsong
+%

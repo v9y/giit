@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{pahaluu me.n yaar ho to kis baat kii kamii hai}%
+\film{Shrimanji}%
+\year{1968}%
+\starring{Kishor Kumar, I S Jauhar, Shahida, Jivan, Asit Sen}%
+\singer{Kishor, Asha}%
+\music{O P Nayyar}%
+\lyrics{Ajiz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #10546 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	pahaluu me.n yaar ho to kis baat kii kamii hai \-2
+	hai Kushanasiib jisako ye zindagii milii hai \-2
+	pahaluu me.n yaar \threedots
+
+	ho ik taraf Kudaa_ii aur ik taraf mohabbat
+	mai.n maa.Ng luu.N Kudaa se ik dilarubaa kii chaahat \-2
+	jannat se Kuubasuurat diladaar kii galii hai
+	hai Kushanasiib jisako \threedots
+
+aa \:	yuu.N kis tarah kisii kaa ham etabaar kar le.n
+	hai zindagii kaa saudaa ham kaise pyaar kar le.n \-2
+	ulajhan hai Kuubasuurat mushkil sii aa pa.Dii hai
+ki \:	hai Kushanasiib jisako \threedots
+%
+#endindian
+\endsong
+

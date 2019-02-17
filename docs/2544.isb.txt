@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chaa.Nd sitaare karate ishaare}%
+\film{Adl-e-Jahangir}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chaa.Nd sitaare karate ishaare
+ham hai.n tumhaare tum ho hamaare
+
+aao milaa le.n ham tum nigaahe.n
+tum hame.n chaaho ham tumhe.n chaahe.n
+pyaar bharaa dil tumako pukaare
+ham hai.n tumhaare \threedots
+
+aa.Nkho.n me.n mastii ye husn pyaaraa
+dekhaa hai jab se jalavaa tumhaaraa
+sharamaa rahe.n hai.n ra.ngii.n nazaare
+ham hai.n tumhaare \threedots
+
+yuu.N hii muskuraaye hamaarii vafaa_e.n
+rah rah ke aa_e.n lab par duaa_e.n
+kabhii na judaa ho.n muhabbat ke maare
+ham hai.n tumhaare \threedots
+
+
+%
+#endindian
+\endsong
+%

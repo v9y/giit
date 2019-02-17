@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{ai dil na mujhase chhupaa, sacha bataa, kyaa huaa}%
+\film{Badal}%
+\year{}%
+\starring{Premnath, Bina Rai}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Neha Desai (umdesai@cc.umanitoba.ca)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Mon Jan 29 1996
+% Credits: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+la: ai dil na mujhase chhupaa
+    sach bataa, kyaa huaa
+mu: jaane bhii do dilarubaa
+    jo huaa, so huaa
+
+la: taare gine raat bhar
+    jaane kab yaad me.n so ga_ii
+    vo Kaab thaa madabharaa
+    jis me.n behosh mai.n kho ga_ii
+    koii nii.nd me.n, hamase ruuTh ke
+    hamako luuT ke chal diyaa
+mu: jaane bhii do dilarubaa
+    jo huaa, so huaa
+
+mu: khi.Dakii na chho.Do khulii
+    pyaar ke chor hai.n taak me.n
+    kitano.n kii chorii huii
+    madabharii chaa.Ndanii raat me.n
+    aise marz kii, dil ke dard kii
+    dil kaa dard hii hai davaa
+la: ai dil na mujhase chhupaa
+    sach bataa, kyaa huaa
+
+la: baate.n banaao na jii
+    raaz to aapake khul gae
+mu: aa.Nkhe.n churaao na jii
+    nain se nain to mila gae
+la: kyaa buraa huaa, dil machal gayaa
+    ghar badal gayaa aapakaa
+mu: jaane bhii do dilarubaa
+    jo huaa, so huaa
+%
+#endindian
+\endsong
+%

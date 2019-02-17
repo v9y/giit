@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{ye samajho aur samajhaa_o ... daal\-roTii khaa_o}%
+\film{Jwaar Bhaataa}%
+\year{1973}%
+\starring{Dharmendra, Saira Banu, Sujit Kumar}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11224 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	ye samajho aur samajhaa_o tho.Dii me.n mauj manaa_o
+	daal\-roTii khaa_o prabhu ke gun gaa_o \-2
+la \:	ajii laalach me.n naa aa_o naa dil kaa chain ga.Nvaa_o
+	daal\-roTii khaa_o \threedots
+
+ki \:	tan pe la.ngoTii peT me.n roTii ( sone ko ek khaTiyaa ) \-2
+la \:	matalab to hai nii.nd se chaahe ( ba.Dhiyaa ho yaa ghaTiyaa ) \-2
+do \:	raadhe\-shyaam siitaa-raam \-2
+ki \:	nafarat ko duur haTaa_o aur sabako gale lagaa_o
+	daal\-roTii khaa_o \threedots
+
+la \:	chaa.Ndii kii thaalii vaale ko kyaa ( bhuukh lage hai zyaadaa ) \-2
+ki \:	kyo.n naa khaa le phir aapas me.n ( baa.NT ke aadhaa\-aadhaa ) \-2
+do \:	raadhe\-shyaam siitaa-raam \-2
+la \:	sabase sastii chiiz hai kyaa
+	bolo \-bolo
+ki \:	chorii Daakaa aur be_iimaanii
+la \:	to phir maha.ngii kyaa hogii
+	socho\-socho \-2
+ki \:	kisii kii Kaatir qurbaanii
+do \:	chhoTe ko paas biThaa_o bhuule ko raah dikhaa_o
+	daal\-roTii khaa_o \threedots
+	raadhe\-shyaam siitaa-raam \-2
+%
+#endindian
+\endsong
+

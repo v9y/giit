@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bhagavat bhagavaan kii hai aaratii}%
+\film{Bhagawat Mahima}%
+\year{1955}%
+\starring{}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Saraswati Kumar Deepak}%
+%
+% Contributor: Prithvi Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+bhagavat bhagavaan kii hai aaratii
+paapiyo.n ko paap se hai praarthii
+
+ye amar granth ye mukhya panth
+ye pa.ncham ved niraalaa
+nava jyoti jagaanevaalaa
+hari gaan yahii varadaan yahii
+jag kii ma.ngal aaratii
+paapiyo.n ko paap se hai praarthii   \threedots
+
+ye shaantigiit paavan puniit saa
+kop miTaanevaalaa
+hari daras dikhaanevaalaa
+hai sukh karanii, hai duHkh harinii
+madhusuudan kii aaratii
+paapiyo.n ko paap se hai praarthii   \threedots
+
+ye madhur bol, jag phand khol
+san.hmaarg dikhaanevaalaa
+biga.Dii ko banaanevaalaa
+shrii raam yahii, ghanashyaam yahii
+prabhu kii mahimaa kii aaratii
+paapiyo.n ko paap se hai praarthii   \threedots
+
+%
+#endindian
+\endsong
+%

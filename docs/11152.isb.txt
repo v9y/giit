@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{meraa sanam sabase pyaaraa hai}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu, Asha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa sanam ( sabase pyaaraa hai ) \-2
+vo jaa.n jigar dil hamaaraa hai
+sabase pyaaraa hai \threedots
+
+itane dino.n maine maa.ngii du_aa
+tab jaa ke hamadard tum saa milaa
+ab har qadam saath chalanaa mere
+kuchh bhii nahii.n zindagii bin tere
+tujhe nazar me.n utaaraa hai
+sabase pyaaraa hai \threedots
+
+o lab pe mere teraa naam na ho
+aisii subah aisii shaam na ho
+do jism ek jaan ho jaa_uu.N mai.n
+huu.N aaj mai.n aaj kho jaa_uu.N mai.n
+tujhape sab kuchh vaaraa hai
+sabase pyaaraa hai \threedots
+%
+#endindian
+\endsong
+

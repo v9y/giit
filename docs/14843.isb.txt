@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{roshan hai tere dam se duniyaa kaa pariiKaanaa}%
+\film{Devdaas}%
+\year{1935}%
+\starring{Saigal, Jamuna, Rajkumari, A H Shor, Raju, Nimo, K C Dey}%
+\singer{Pahari Sanyal}%
+\music{Timir Baran}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+roshan hai tere dam se duniyaa kaa pariiKaanaa \-3
+allaah tujhe rakhe o jalawaa re jaanaanaa \-2
+roshan hai tere dam se duniyaa kaa pariiKaanaa
+roshan hai tere dam se
+
+kyaa jalawaagarii hai ye o mast nazar waale \-2
+paimaane ke andar hai mayaKaane kaa mayaKaanaa \-2
+
+roshan hai tere dam se duniyaa kaa pariiKaanaa
+roshan hai tere dam se
+
+zaahid ke taassub se sab qafr kaa barapaa hai \-2
+varanaa
+butaKaane me.n kaabaa hai kaabe me.n hai butaKaanaa \-2
+
+roshan hai tere dam se duniyaa kaa pariiKaanaa
+roshan hai tere dam se
+
+#endindian
+\endsong

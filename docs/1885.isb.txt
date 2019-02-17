@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye aa.Nkhe.n, uf yummaa! ye surat, uf yummaa!}%
+\film{Jab Pyar Kisi Se Hota Hai}%
+\year{}%
+\starring{Dev Anand, Asha Parekh}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@pico.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafii: ye aa.Nkhe.n, uf yummaa!
+ye suurat, uf yummaa!
+pyaar kyuu.N naa hogaa, ye adaaye.n,  uf yummaa!
+lataa: ye mausam, uf yummaa!
+ye dha.Dakan, uf yummaa!
+kaise dil ko rokuu.N,  koi thaame.n, uf yummaa!
+rafii: ye aa.Nkhe.n, uf yummaa!
+
+tum dil ho dilarubaa ho,  tum par jahaa.N fidaa ho    \- 2
+ham to hai.n kyaa, kuchh bhii nahii.n
+tum saa hasiin koI nahii.n,  tum to chaa.nd kaa Tuka.Daa ho
+
+ye shokhii, uf yummaa!
+ye sharaarat, uf yummaa!
+pyaar kyuu.N naa hogaa,  ye adaaye.n,  uf yummaa!
+ye aa.Nkhe.n, uf yummaa!
+lataa: kab tak rahuu.N chhupaaye,  siine me.n aag, haay    \- 2
+jalane lagaa ye saaraa badan
+samajho zaraa ye dil kii agan
+tum jo milo chain aa jaaye
+
+ye uma.nge.n, uf yummaa!
+ye tara.nge.n, uf yummaa!
+kaise dil ko rokuu.N,  koI thaame.n, uf yummaa!
+%
+#endindian
+\endsong
+%

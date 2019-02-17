@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mil jaate hai.n jo bane ik duuje ke vaaste}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Karishma Kapoor, Madhuri Dixit, Shahrukh Khan}%
+\singer{Lata, Hariharan}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kitane duur duur ho.n ham dono.n ke raaste
+mil jaate hai.n jo bane ik duuje ke vaaste
+aa aa jaise dil hai dha.Dakan hai ik duuje ke vaaste
+jaise aa.Nkh hai darpaN hai ik duuje ke vaaste
+jaise barakhaa saavan hai ik duuje ke vaaste
+ik sajanii ik saajan hai ik duuje ke vaaste
+aa aa aa
+
+us rab ne jab dil di_e dil ke do Tuka.De kiye
+dono.n pe ik naam likhaa ik raadhaa ik shyaam likhaa
+ab ye dil dha.Dakate hai.n milate aur bichha.Date hai.n
+ik duuje ke vaaste \threedots
+
+ham dono.n ik jaan hai.n do dil ik aramaan hai.n
+lekin ab is mo.D par dekhe.n daaman chho.Dakar
+vaqt kaa hai ye faisalaa ham tum ho jaa_e.N judaa
+maa.nge.n khushiyo.n kii du_aa
+ik duuje ke vaaste \threedots
+%
+#endindian
+\endsong
+

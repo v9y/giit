@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{rote rote ha.Nsanaa siikho, ha.Nsate ha.Nsate ronaa}% 
+\film{Andhaa Kanoon}%
+\year{}%
+\starring{Amitabh, Rajnikant, Hema}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+(rote rote ha.Nsanaa sIkho, ha.Nsate ha.Nsate ronaa 
+jitanii chaabhii bharii raam ne, are utanaa chale khilaunaa ) \- 2
+
+ham do ek hamaarii pyaarii pyaarii muniyaa hai 
+bas yahii choTii sI apanii sArI duniyA hai 
+ham do ek hamaarii pyaarii pyaarii muniyaa hai 
+khushiyo.n se AbAd hai, apane ghar kA konaa konaa 
+rote rote \threedots 
+
+ba.DI ba.DI khushiyaa.n hai.n chhoTii chhoTii baato.n me.n 
+nanhe munhe taare jaise sotii rAto.n me.n 
+ba.DI ba.DI khushiyaa.n hai.n chhoTii chhoTii baato.n me.n 
+aisA sundar hai ye jIvan, jaise koI sapanA salonaa 
+rote rote \threedots 
+
+mausam badale to, mat Dar jaanaa gu.Diyaa rAnI 
+mausam badale to, mat Dar jaanaa gu.Diyaa rAnI 
+savan me.n bijalii chamakegI, barasegaa pAnI 
+dharatii ambar bhIg jaaye.n, naino.n ko nahii.n bhigonaa 
+rote rote \threedots 
+%
+#endindian
+\endsong
+%

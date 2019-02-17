@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{sa.ngiit jahaa.n hai giit vahaa.n hai ... giit jahaa.n hai priit vahaa.n hai}%
+\film{Sangeet}%
+\year{1992}%
+\starring{Jackie, Madhuri, Aruna Irani, Shafi, Nitish, Anjan Shrivastava, Asha Sharma}%
+\singer{Anuradha Paudwal, Pankaj Udhas}%
+\music{Anand Milind}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sa.ngiit jahaa.n hai giit vahaa.n hai
+giit jahaa.n hai priit vahaa.n hai
+hai priit jahaa.n man miit vahaa.n
+man jahaa.n miit jahaa.n man miit vahaa.n sa.ngiit
+
+chham chham chham chham paayal bole kaano.n me.n saragam ras ghole
+kuu.n kuu.n koyal gaaye duniyaa ko sa.ngiit sunaaye
+sa.ngiit jahaa.n hai \threedots
+
+gun gun bha.nvaraa gaataa jaa_e phuulo.n ke man ko bharamaa_e
+run jhun run jhun chalatii.n havaa_e.n sadiyo.n se ko_ii saaj bajaa_e
+sa.ngiit jahaa.n hai \threedots
+
+rim jhim rim jhim baadal barase giit 
+niile ambar se prem sudhaa kii chhalake gaagar
+sa.ngiit jahaa.n hai \threedots
+%
+#endindian
+\endsong
+

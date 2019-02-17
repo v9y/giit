@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{laal laal gaal}%
+\film{Mr. X}%
+\year{1957}%
+\starring{???}%
+\singer{Rafi, chorus}%
+\music{N Dutta}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Pankaj Kakkar <pankaj@gradient.cis.upenn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+%
+\printtitle
+#indian
+%
+laal laal gaal, jaan ke hai.n laagu
+ho, dekh dekh dekh, dil pe rahe kaabu
+hoi, chor chor chor, bhaag paradesii baabuu
+
+chor chor chor, ye nahii.n hai.n maalo dhar ke (???)
+ke mo.D mo.D mo.D ye to hai.n dil\-o\-jigar ke
+ho, piile piile piile inake baal hai.n niraale
+ke niile niile niile, inake akhiyo.n ke pyaale
+
+ajanabii pe bedha.Dak khulii sa.Dak chalate hai.n ye
+chalate hai.n ye jaaduu laal laal gaal
+laal laal gaal \threedots
+
+haay haay haay, ye nigaaho.n kaa nishaanaa
+vaay vaay vaay, koii tiir khaa na jaanaa
+maan maan maan, merii jaan meraa kahanaa
+inake chaal\-Dhaal ke khayaal me.n na rahanaa
+ajanabii pe \threedots
+%
+#endindian
+\endsong
+%
+

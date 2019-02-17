@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{o jaane vaale jaa_o na ghar apanaa chho.D ke}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Rajkumar, Sunil Dutt, Rajendra Kumar, Kanhaiya Lal, Kumkum}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10644 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+o jaane vaale jaa_o na ghar apanaa chho.D ke
+maataa bulaa rahii hai tumhe.n haath jo.D ke
+
+ham sabako chho.Dakar ab jaate ho tum kahaa.N
+uja.Dii hai laakh phir bhii hai dharatii tumhaarii maa.N
+duniyaa me.n sukh na paa_oge dil maa.N kaa to.D ke
+o jaane vaalo.n \threedots
+
+Thaharo pukaaratii hai tumhaarii zamii.n tumhe.n
+lauT aa_o maa.N kii haay lage naa kahii.n tumhe.n
+ruk jaa_o maa.N kii haay lage naa kahii.n tumhe.n
+%
+#endindian
+\endsong
+

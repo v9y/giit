@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{pyaar zindagii hai pyaar ba.ndagii hai ba.ndagii hai}%
+\film{Muqaddar Ka Sikandar}%
+\year{1978}%
+\starring{Amitabh Bachchan, Rekha, Rakhee, Vinod Khanna}%
+\singer{Asha, Lata, Mahendra Kapoor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Porky 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pyaar zindagii hai, pyaar ba.ndagii hai, ba.ndagii hai 
+yahallaa yahallaa uu yaa allaah 
+pyaar se pyaar karo ye umr pyaar kii hai 
+pyaar binaa kyaa jiinaa, ye bhii koI zindagii hai, pyaar\threedots
+
+1) pyaar karam pyaar duaa, pyaar sitam pyaar vafaa 
+pyaar se judaa to yahaa.N koI nahii.n koI nahii.n 
+pyaar khushii pyaar nashaa, kyaa vo najar kyaa vo adaa 
+ho kisii ke pyaar me.n jo koii nahii.n koii nahii.n 
+dil ko lagaa ke dekho pyaar me.n kyaa khushii hai 
+pyaar binaa kyaa jiinaa ye bhii koI zindagii hai, pyaar\threedots
+
+2) dUr rahe paas rahe, dil me.n tere pyaas rahe 
+tere liye mai.n huu.N tuu hai mere liye mere liye 
+pyaar sanam pyaar khudaa, yaar kabhii ho naa judaa 
+yaar binaa koI yahaa.N kaise jiye kaise jiye 
+baaho.n me.n yaar ke hii duniyaa bahaar kii hai, pyaar\threedots
+
+3) dekh hame.n koI jale, koI jale haath male 
+tuu jo mere saath chale logo.n se kyaa Daranaa yahaa.N 
+pyaar yahaa.N jo naa kare, Kaak jiye KAk mare 
+yaar mere tere liye jiinaa yahaa.N maranaa yahaa.N 
+marake bhii naa miTe jo ye vo dIvaanagii hai, pyaar\threedots
+%
+#endindian
+\endsong
+%

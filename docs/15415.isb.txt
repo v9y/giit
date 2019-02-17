@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaTate hai.n din kaise re}%
+\film{The Loves Of Runa Laila (Non-Film)}%
+\year{1987}%
+\starring{}%
+\singer{Runa Laila, Chorus}%
+\music{O P Nayyar}%
+\lyrics{Bimla Khaitan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+kaTate hai.n din kaise re
+bin tere kR^iShnaa jaa_uu.N mai.n kahaa.N, bolo re
+
+saaraa saaraa raatii jaaguu.N
+itii ut kR^iShnaa bhaaguu.N
+giradhar gopaalaa, ban terii miiraa naachuu.N re
+kaTate hai.n din kaise re
+
+prabhu paad mai.n to tere
+charano.n kii bha_ii daasii
+kR^iShNaa mai.n dhan paayaa
+tere haatho.n gej baasii
+hare kR^iShNaa hare kR^iShNaa
+kR^iShNaa kR^iShNaa hare hare
+hare raam hare raam
+raam raam hare hare
+
+#endindian
+\endsong

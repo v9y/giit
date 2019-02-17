@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{la.Dakii ba.Dii anjaanii hai}%
+\film{Kuchh Kuchh Hotaa Hai}%
+\year{1998}%
+\starring{Shahrukh, Kajol, Rani Mukherji, Salman, Farida, Anupam}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+oh oho
+he eye he he
+la la la
+la.Dakii ba.Dii anjaanii hai sapanaa hai sach hai kahaanii hai
+dekho ye pagalii bilkul naa badalii ye to vahii diivaanii hai
+
+la.Dakaa ba.Daa anjaanaa hai sapanaa hai sach hai fasaanaa hai
+aa haa ye pagalaa bilkul naa badalaa ye to vahii diivaanaa hai
+
+paas rah ke bhii thii duurii jaane kaisii thii majabuurii
+vaqt vo bhii ajiib thaa jab tuu mere kariib thaa
+kho ga_ii ye kis jahaa.n me.n mai.n yahaa.n huu.N dekh to zaraa
+la.Dakaa ba.Daa anjaanaa hai \threedots
+
+bhii.D me.n bhii thii tanhaa_ii yaad har pal terii aa_ii
+roke ko_ii mujhe zaraa bhar naa aa_e ye dil meraa
+bahake bahake mere kadam aise me.n tuu sa.mbhaal to zaraa
+la.Dakii ba.Dii anjaanii hai \threedots
+
+tum ne naa jaane kyaa sapane dikhaa_e
+jaage naa sotaa hai
+kuchh kuchh hotaa hai
+%
+#endindian
+\endsong
+

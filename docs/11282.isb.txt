@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{jaane vaale kabhii nahii.n aate ... dil ek ma.ndir hai}%
+\film{Dil Ek Mandir}%
+\year{1963}%
+\starring{Rajendra Kumar, Raj Kapoor, Meena Kumari}%
+\singer{Rafi, Suman}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10934 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	jaane vaale kabhii nahii.n aate
+	jaane vaalo.n kii yaad aatii hai
+
+su \:	dil ek ma.ndir hai \-2
+	pyaar kii jisame.n hotii hai puujaa
+	ye priitam kaa ghar hai
+	dil ek ma.ndir \threedots
+
+	( har dha.Dakan hai aaratii va.ndan
+	aa.Nkh jo mii.nchii ho ga_e darshan ) \-2
+	maut miTaa de chaahe hastii yaad to amar hai
+	dil ek ma.ndir \threedots
+
+	( ham yaado.n ke phuul cha.Dhaa_e.N
+	aur aa.Nsuu ke diip jalaa_e ) \-2
+	saa.Nso.n kaa har taar pukaare ye prem\-nagar hai
+	dil ek ma.ndir \threedots
+%
+#endindian
+\endsong
+

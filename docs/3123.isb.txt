@@ -1,0 +1,42 @@
+%  
+\startsong
+\stitle{kar de zaraa ishaaraa}%
+\film{Khazana}%
+\starring{Madhubala}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani
+% Transliterator:
+% Date: March 8, 1999
+% Credits:
+% Editor:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+kar de zaraa ishaaraa
+tere naam kaa sahaaraa \-2
+
+chhaa_ii hu_ii siyaahii
+bhaTakaa hu_aa hai raahi
+sar par kha.Dii tabaahii \-2
+terii razaa se chamake, Duubaa hu_aa sitaaraa
+tere naam kaa sahaaraa \threedots
+
+a.njaam zi.ndagii kaa
+dil ko Daraa rahaa hai
+tuufaan aa rahaa hai \-2
+tuu hii use bachaa le, duniyaa ne jis ko maaraa
+tere naam kaa sahaaraa \threedots
+
+kar de zaraa ishaaraa
+tere naam kaa sahaaraa
+
+%
+#endindian
+\endsong
+%

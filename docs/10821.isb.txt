@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ye chaa.Nd ko_ii diivaanaa hai}%
+\film{Chhupa Rustam}%
+\year{1999?}%
+\starring{Sanjay Kapoor, Manisha Koirala}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye chaa.Nd ko_ii diivaanaa hai ko_ii aashiq ba.Daa puraanaa hai
+piichhe kisake ye bhaage saarii raat ye jaage
+ye shamaa hai yaa paravaanaa hai diivaanaa hai
+ye chaa.Nd ko_ii \threedots
+
+mere nain ka.nvaare kajaraare
+merii bi.ndiyaa maare lashkaare
+mere sapano.n me.n aa_e mujhe giit sunaa_e
+pa.nchhii paradesii ba.njaare haa.n ba.njaare
+man mast magan ho jaa_e naa
+ra.ng ruup ratan kho jaa_e naa
+man meraa akelaa ye puunam kaa melaa
+mele me.n milan ho jaa_e naa
+mere dil me.n chhupaa hai chor ko_ii
+meraa dard na jaane aur ko_ii
+ise dil se nikaaluu.n dil kaise sa.mbhaaluu.n
+mere dil pe nahii.n hai zor ko_ii haay zor ko_ii
+jis din se tujhako dekhaa hai
+us din se ye maine jaanaa hai
+tuu mere li_e hai mai.n tere li_e huu.N
+ye sach baakii afasaanaa hai
+ye chaa.Nd ko_ii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ham dil de chuke hai.n sanam}%
+\film{Ham Dil De Chuke Sanam}%
+\year{1999}%
+\starring{}%
+\singer{Kavita Krishnamurthy, Mohammad Salamat}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ka: ham dil de chuke sanam
+    tere ho gaye hai.n ham
+    terii kasam
+    o ho ho   \threedots
+
+    o~ o~ oo~ 
+
+mu: u.Nh u.Nh duniyaa kare sitam
+    tujhape miTe.nge ham
+    terii kasam
+ka: o~ o~ ham dil de chuke sanam
+    tere ho gaye hai.n ham
+    terii kasam
+
+mu: ummiide.n tumhii.n se hai.n mere sanam
+    thaamaa hai tumhaaraa hii ye daaman
+ka: bhuule.nge kabhii na ab tumhe.n ham
+    o~ ham dil de chuke sanam   \threedots
+
+    e~ a~ a~ a~
+ka: terii yaado.n ke saaye me.n guzaregii ye zi.ndagii
+    us khudaa ke baad to puujaa hogii bas terii
+mu: chaahe jo maa.Ng lo sab tumhaaraa hai
+    o~ ham dil de chuke sanam   \threedots
+
+ka: o~ ham dil de chuke sanam   \threedots
+%
+#endindian
+\endsong
+%

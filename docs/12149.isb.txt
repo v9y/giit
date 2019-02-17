@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jo sachche premii hai.n kisii se Dar nahii.n sakate}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Vipin}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo sachche premii hai.n kisii se Dar nahii.n sakate
+jo pyaar karate hai.n vo kabhii mar nahii.n sakate
+ham pyaar karane vaale har baar kasam le.nge
+jii jii ke mare.nge ham mar mar ke janam le.nge
+jo sachche premii hai.n \threedots
+
+hame.n saath jiinaa hame.n saath maranaa
+nahii.n Dar Kudaa kaa duniyaa se kyaa hai Daranaa
+pyaar hii hai Kudaa pyaar iimaan hai
+pyaar se premiyo.n kii pahachaan hai
+is pahachaan kii rusavaa_ii premii kar nahii.n sakate
+jo pyaar karate hai.n \threedots
+
+premii ja.ng pyaar vaalii haar nahii.n sakate
+log sachche aashiqo.n ko kabhii maar nahii.n sakate
+pyaar kii lau naa dushman bujhaa paa_e.nge
+naam chaahat kaa vo naa miTaa paa_e.nge
+kaT jaate hai.n aashiq jhukaa vo sar nahii.n sakate
+jo pyaar karate hai.n \threedots
+
+hamaare pyaar ke dushman agar nazadiik aa_e.nge
+hamaare pyaar kii chi.ngaariyo.n se jal jaa_e.nge
+muhabbat miT nahii.n sakatii kabhii duniyaa kii nafarat se
+Kudaa kaa naam chalataa hai to ik naam\-e\-mohabbat se
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tujhe apane paas bulaatii hai terii duniyaa}%
+\film{Patitaa}%
+\year{1953}%
+\starring{Dev Anand, Usha Kiran, Agha}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+tujhe apane paas bulaatii hai terii duniyaa
+kab se baa.Nhe.n phailaatii hai terii duniyaa
+tujhe apane paas bulaatii hai terii duniyaa
+
+sapane bhii yahaa.N benuur hai.n
+jo hai.n tere wo tujhase duur hai.n
+is duniyaa me.n teraa kaun hai \-2
+ye soch ke ghabaraa jaatii hai terii duniyaa
+tujhe apane paas bulaatii hai terii duniyaa
+
+nazaro.n se giraa de.nge kabhii
+do din me.n bhulaa de.nge kabhii
+barase.nge na baadal dhuul ke \-2
+ro\-ro ke yahii samajhaatii hai terii duniyaa
+tujhe apane paas bulaatii hai terii duniyaa
+
+vahaa.N chhoTe\-ba.De sab ek se
+vahaa.N ko_ii nahii.n jo tujh pe ha.Nse
+vahaa.N rishte na ho.nge jhuuTh ke \-2
+sabako siine se lagaatii hai terii duniyaa
+tujhe apane paas bulaatii hai terii duniyaa
+kab se baa.Nhe.n phailaatii hai terii duniyaa
+tujhe apane paas bulaatii hai terii duniyaa
+
+#endindian
+\endsong

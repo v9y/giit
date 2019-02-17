@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jaane dil me.n kab se hai tuu}%
+\film{Mujhse Dosti Karoge}%
+\year{2002}%
+\starring{Hritik Roshan, Kareena Kapoor, Rani Mukherjee}%
+\singer{Lata, Sonu Nigam}%
+\music{Rahul Sharma}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+jaane dil me.n kab se hai tuu jab se mai.n huu.N tab se hai tuu
+mujh ko mere rab kii kasam yaaraa rab se pahale hai tuu
+jaane dil me.n kab se \threedots
+
+aa
+raahii chale naa chale chalate hai.n ye raaste
+aa_o chale.n ruk ga_ii raste me.n kis vaaste
+mai.n to kha.Dii huu.N yahii.n yaar milaa jab se hai tuu
+jaane dil me.n kab se \threedots
+
+naadaan ho jaate hai.n anjaan ho jaate hai.n
+ik duusare pe chalo kurbaan ho jaate hai.n
+tuu hai jahaa.N mai.n vahaa.N mujh ko sab se pyaaraa hai tuu
+jaane dil me.n kab se \threedots
+
+aa uu.N
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye mausam bhii gayaa vo mausam bhii gayaa ... ab to kaho mere sanam}%
+\film{Balmaa}%
+\year{1992}%
+\starring{Avinash Wadhawan, Ayesha, Saeed Jafrey, Anjana Mumtaz, Shammi}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye mausam bhii gayaa vo mausam bhii gayaa
+ab to kaho mere sanam phir kab miloge
+mile.nge jab haa.N haa.N haa.N
+baarish hogii
+ye mausam bhii gayaa \threedots
+
+bin tere kahii.n kaTe.n na ye pal
+ye din ye raat mere balamaa
+ab to Dhuu.nDhe yahaa.n hameshaa tujhe merii nazar
+merii dilarubaa ho.ngii bhalaa kaise khatm terii merii duuriyaa.n
+ye mausam bhii gayaa \threedots
+
+kyuu.n banaa_e bhalaa bahaane lagaa mujhe gale
+na aise sataa mai.n miTaa duu.n terii bechainii
+mere hasii.n sanam zaraa paas aa
+mil ke bhalaa milane kii ab kaisii majabuuriyaa.n
+ye mausam bhii gayaa \threedots
+%
+#endindian
+\endsong
+
+

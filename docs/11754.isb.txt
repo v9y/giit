@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{aa.Nkho.n kii gustaakhiyaa.n maaf ho.n}%
+\film{Hum Dil De Chuke Sanam}%
+\year{1999}%
+\starring{Ajay Devgan, Salman Khan, Aishwarya Rai, Helen}%
+\singer{Shankar Mahadevan, Chorus}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he miTTii pe khii.nchii lakiire.n rab ne to ye tasviir banii
+aag havaa paanii ko milaayaa to phir ye tasviir sajii
+ai hastii terii vishaal ho qudarat kaa tuu kamaal
+
+he manamohinii terii adaa
+tujhe jab dekh le to phir ghaTaa
+barase jhar jhar jhar jhar jhar jhar
+sa ra ra sa ra ra
+naache chamak chamak vo bijalii diivaanii
+hai bemisaal tuu gorii gorii anachhu_ii
+tujhame.n hai qudarat saarii kho_ii
+tujhame.n qudarat saarii kho_ii kho_ii
+he aahaa he he aahaa
+
+miTTii kii hai muurat terii maasuumiyat fitarat terii
+ye saadaapan ye bholaapan tuu mahakii mahakii tuu lahakii lahakii
+tuu chalii chalii har galii galii
+tuu havaa ke Dha.ng sa.ng sanan sanan
+meraa a.ng a.ng jaise jalatara.ng
+ko_ii lahar lahar chalii Thahar Thahar
+paanii kaa mel tere tan badan
+jhar jhar ra jhar ra a.ngaare jaisaa
+teraa rom rom hai dahakaa dahakaa
+agni kaa khel tuu agan agan
+zaraa thirak thirak zaraa lachak lachak
+kabhii maTak maTak kabhii Thumak Thumak
+chalii chhuum chhuum kabhii ghuum ghuum
+dharatii ko chuum machii dhuum dhuum
+cha.nchal ba.Dii tuu naTakhaT ba.Dii
+tuu bahakii bahaar ras kii fuhaar
+tere tiikhe nain tere kesh rain
+ye balakhaanaa ye itaraanaa
+he aahaa he he aahaa \threedots
+%
+#endindian
+\endsong
+

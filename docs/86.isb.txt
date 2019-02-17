@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aa jaa aaii bahaar dil hai beqaraar o mere raajakumaar}%
+\film{Rajkumar}%
+\year{}%
+\starring{Shammi Kapoor, Sadhana}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Rajan Parrikar + Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa jaa aaii bahaar, dil hai beqaraar
+o mere raajakumaar, tere bin rahaa na jaae
+aa jaa aaii bahaar, dil hai beqaraar
+o mere raajakumaar, tere bin rahaa na jaae
+aa jaa
+
+julfo.n se jab bhii, chale puravaaii    (2)
+tan meraa TuuTe    (2)
+aayI a.nga.Daaii    (2)
+dekhuu.N baar baar, teraa intazaar
+o mere raajakumaar, tere bin rahaa na jaae
+aa jaa aaii \threedots
+
+man me sunuu mai.n, terii muraliyaa    (2)
+naachuu.N mai.n chham\-chham    (2)
+baaje paayaliyaa    (2)
+dil kaa taar\-taar, terii kare pukaar
+o mere raajakumaar, tere bin rahaa na jaae
+aa jaa aaii \threedots
+
+jal kii machhariyaa, jal me hai pyaasii    (2)
+khushiyo.n ke din hai.n    (2)
+phir bhii udaasii    (2)
+lekar meraa pyaar, aa jaa ab ke baar
+o mere raajakumaar, tere bin rahaa na jaae
+aa jaa aaii \threedots
+%
+#endindian
+\endsong
+%

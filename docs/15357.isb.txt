@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{hamaare saath jise maut se ho pyaar chale}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Shamim Jaipuri}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+hamaare saath jise maut se ho pyaar chale
+ko_ii chale na chale ham to suu\-e\-daar chale
+
+na daur\-e\-jaam na ab qissaa\-e\-bahaar chale
+unhii.n kaa zikr chale aur baar baar chale
+
+hamii.n chaman me.n payaam\-e\-bahaar laaye the
+chaman se le ke hamii.n hasarat\-e\-bahaar chale
+
+ye Gam nahii.n ki yahaa.N kuchh hame.n amaa.N na milii
+Kushii me.n aise terii a.njuman sa.Nwaar chale
+
+#endindian
+\endsong

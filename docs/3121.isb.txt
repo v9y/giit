@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kaisii hai ye rut ke jis me.n}%
+\film{Dil Chahta Hai}%
+\year{2001}%
+\starring{Amir Khan, Akshaye Khanna, Saif Ali Khan, Preity Zinta}%
+\singer{Srinivas}%
+\music{Shankar, Ehsaan, Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Arunabha Roy, Neha Desai
+% Transliterator: Arunabha Roy, Neha Desai
+% Date:March 14, 2002
+%
+\printtitle
+#indian
+%
+
+kaisii hai ye rut ke jis me.n phuul banake dil khile
+ghul rahe hai.n ra.ng saare ghul rahii hai.n KHushabuu_e.n
+chaa.Ndanii jharane ghaTaaye.n giit baarish titaliyaa.N
+ham pe ho gaye hai.n sab meharabaan
+
+dekho nadii ke kinaare pa.nchhii pukaare kisii pa.nchhii ko
+dekho ye jo nadii hai milane chalii hai saagar hii ko
+ye pyaar kaa hii saaaraa hai kaaravaan
+
+kasii hai ye rut ke  \threedots
+
+ho, kaise kisii ko bataaye.n kaise ye samajhaaye.n kyaa pyaar hai
+is me.n ba.ndhan nahii.n hai aur naa ko_ii bhii diivaar hai
+suno pyaar kii niraalii hai daastaa.N
+
+kaisii hai ye rut \threedots
+
+%
+#endindian
+\endsong
+%

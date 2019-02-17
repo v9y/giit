@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{marana terii galii me.n jiinaa terii galii me.n}%
+\film{Shabaab}%
+\year{1954}%
+\starring{Bharat Bhushan, Nutan}%
+\singer{Lata/ Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10653 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( marana terii galii me.n ) \-2 jiinaa terii galii me.n
+marana terii galii \threedots
+
+miT jaa_egii hamaarii duniyaa terii galii me.n \-2
+marana terii galii \threedots
+
+aa_e hai.n tere dar pe ham zindagii luTaane
+tuu dekhe yaa na dekhe tuu jaane yaa na jaane
+puuraa kare.nge ham to vaadaa terii galii me.n
+marana terii galii \threedots
+
+dil se terii mohabbat kam umr bhar naa hogii
+ham tujhape mar miTe.nge tujhako Kabar na hogii
+marane ke baad hogaa charchaa terii galii me.n
+marana terii galii \threedots
+%
+#endindian
+\endsong
+

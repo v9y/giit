@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{naa jaane ye chandaa naa jaane.n ye sitaare}%
+\film{Champaakali}%
+\year{1957}%
+\starring{Bharat Bhushan, Suchitra Sen, Shobha Khote}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10223 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+naa jaane ye chandaa naa jaane.n ye sitaare
+aaj mere sapane kisii ne ra.ng Daare
+naa jaane ye chandaa \threedots
+
+a.Nkhiyo.n me.n ghuumatii pyaar bharii baat hai
+chaa.Ndanii me.n dvaar kha.Dii piyaa kii baaraat hai
+laakh kare ghuu.NghaT kii oT se ishaare
+aaj mere sapane \threedots
+
+man kii muraade.n merii jhuum rahii.n saath mere
+naav merii aashaa kii lagii hai kinaare
+naa jaane ye chandaa \threedots
+%
+#endindian
+\endsong
+

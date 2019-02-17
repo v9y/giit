@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jalaakar aag dil me.n}%
+\film{Toofaan}%
+\year{1954}%
+\starring{}%
+\singer{S D Batish}%
+\music{S D Batish}%
+\lyrics{Waheed Qureshi}%
+%
+% Contributor: Balaji A S Murthy
+% Transliterator: Balaji A S Murthy
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+jalaakar aag dil me.n, zindagii barabaad karate hai.n
+na ha.Nsate hai.n, na rote hai.n, na kuchh fariyaad karate hai.n
+
+ummiide.n, hasarat-o-aramaan, sab apanaa li_e dil me.n
+li_e barabaadiyaa.N ab, ra.nj-o-Gam aabaad karate hai.n
+na ha.Nsate hai.n \threedots
+
+rahe.n majabuuriyaa.N apanii, rahe.n barabaadiyaa.N apanii
+ham apane aashiyaa ko, aap hii barabaad karate hai.n
+na ha.Nsate hai.n \threedots
+
+nahii.n apanii ko_ii ma.nzil, kahaa.N jaa_e.n, kidhar jaa_e.n
+sahaaraa maut kaa hai, maut ko apanaa karate hai.n
+na ha.Nsate hai.n \threedots
+
+%
+#endindian
+\endsong
+%

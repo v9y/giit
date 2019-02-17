@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{Tha.nDii Tha.nDii chale re havaa o sajanaa}%
+\film{Guest House}%
+\year{1959}%
+\starring{Ajeet, Shakeela, Maruti, Lalita Pawar, Pran, Cukoo, Helen}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10115 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+( Tha.nDii Tha.nDii chale re havaa ) \-2 o sajanaa jiyaraa meraa laharaa_e
+u.D\-u.D jaa_e sar se chunariyaa mukh se nikale haay re
+Tha.nDii Tha.nDii chale re havaa \threedots
+
+ko_ii rasiyaa ko_ii chhaliyaa mere man ko bhaane lagaa
+is milan me.n is lagan me.n ik mazaa saa aane lagaa
+aage\-aage lagan more man kii jaane kyaa ra.ng laa_e re
+Tha.nDii Tha.nDii chale re havaa \threedots
+
+laT jo ulajhii phir na sulajhii aa sajan sulajhaa de zaraa
+mai.n na jaanuu.N bhed man ke tuu hii ab samajhaa de zaraa
+yuu.N to laage nazar torii pyaarii phir bhii kyo.n ta.Dapaa_e re
+Tha.nDii Tha.nDii chale re havaa \threedots
+%
+#endindian
+\endsong
+

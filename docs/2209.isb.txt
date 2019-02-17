@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{sitaaro.n chaa.Nd se kah do bas itanii baat dhiire se}%
+\film{Badi Bahoo}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+sitaaro.n chaa.Nd se kah do bas itanii baat dhiire se
+milan kii raat hai guzare milan kii raat dhiire se
+sitaaro.n chaa.Nd se   \threedots
+
+arii badalii chhupaa le do gha.Dii cha.ndaa ko daaman me.n
+cha.ndaa ko daaman me.n
+piyaa se aaj kahanii hai mujhe ek baat dhiire se
+milan kii raat hai    \threedots
+
+abhii dil hii me.n dil ki baat thii par jaan lii tumane
+par jaan lii tumane
+ghaTaa chhaane se pahale ho gayii barsaat dhiire se
+milan kii raat hai    \threedots
+
+%
+#endindian
+\endsong
+%

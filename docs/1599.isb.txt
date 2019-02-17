@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{samaa hai suhaanaa suhaanaa, nashe me.n jahaa.N hai}%
+\film{Ghar Ghar Ki Kahani}%
+\year{}%
+\starring{}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Ashish S Bokil (abokil@hubcap.clemson.edu)
+%          Rajan Parrikar (parrikar@csn.org)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+samaa hai suhaanaa suhaanaa
+nashe me.n jahaa.N hai
+kisii ko kisii kii khabar hii kahaa.N hai
+har dil me.n dekho
+mohabbat javaa.N hai
+##hmm##\threedots
+
+kah rahii hai nazar nazar se afasaane
+##hmm##\threedots
+kah rahii hai nazar nazar se afasaane
+ho rahaa hai asar ke jisako dil jaane
+dekho ye dil kii ajab daastaa.n hai
+nazar bolatii hai, dil bezubaa.n hai
+##hmm##\threedots
+samaa hai suhaanaa suhaanaa\threedots
+
+ho rahaa hai milan dilo.n kaa mastaanaa
+##hmm##\threedots
+ho rahaa hai milan dilo.n kaa mastaanaa
+ho gayaa hai koii kisii kaa diivaanaa
+jahaa.N dilarubaa hai, dil bhii vahaa.N hai
+jise pyaar kahiye, vahii darmiyaa.N hai
+##hmm##\threedots
+samaa hai suhaanaa suhaanaa\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{mitavaa mitavaa, more man mitavaa}%
+\film{Parinay}%
+\year{1974}%
+\starring{Romesh Sharma, Shabana Azmi}%
+\singer{Manna De, Vani Jairam}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Contributor: Malini <MaliniX_Kanth@ccm.hf.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+mitavaa mitavaa, more man mitavaa
+aajaa re, aajaa re, aajaa re
+tujhako pukaare, pyaar kisii kaa
+aajaa re, aajaa re, aajaa re
+
+raat ke mukh par, chaa.Nd kaa Tiikaa
+tujh bin, laage phiikaa phiikaa
+o mitavaa, raat ke mukh par
+mitavaa aajaa aajaa
+aajaa aajaa, mitavaa aajaa
+tujhako pukaare, pyaar kisii kaa
+
+ik pal rok na paaye aa.Nsuu
+kyuu.N itane barasaaye aa.Nsuu	\- 2
+koii na jaane dukh badalii kaa	\- 2
+aajaa re, aajaa re, aajaa re
+aajaa re, mitavaa mitavaa
+%
+#endindian
+\endsong
+%
+

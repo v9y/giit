@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ye chaa.Nd ye sitaare ye saath teraa\-meraa}%
+\film{Halaaku}%
+\year{1956}%
+\starring{Ajit, Meena Kumari, Veena, Pran}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10836 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ye chaa.Nd ye sitaare ye saath teraa\-meraa
+shab\-e\-zindagii kaa naa ab ho saveraa
+
+dilarubaa o dilarubaa
+dil kii tamannaa aa_ii labo.n par
+aaj kii raat ye umr nichhaavar
+ye chaa.Nd ye sitaare \threedots
+
+aa.Nkhe.n aa.Nkho.n me.n Daal ke haradam
+kah do kabhii naa ho.nge judaa ham
+ye chaa.Nd ye sitaare \threedots
+%
+#endindian
+\endsong
+

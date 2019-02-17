@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{saarii khushiyaa.N hai.n muhabbat kii zamaane ke liye}%
+\film{Suhana Safar}%
+\year{1970}%
+\starring{Shashi Kapoor, Sharmila, Om Prakash, Lalita Pawar, David}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Suresh Mani
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+saarii khushiyaa.N hai.n muhabbat kii zamaane ke liye
+mai.n ne to pyaar kiyaa aa.Nsuu bahaane ke liye
+saarii khushiyaa.N hai.n   \threedots
+
+kaash ye jazabaa\-e\-dil kaam to aa jaataa kabhii
+unake ho.nTho.n pe meraa naam to aa jaataa kabhii
+yaad kar lete mujhe bhuul hii jaane ke liye
+saarii khushiyaa.N hai.n   \threedots
+
+khuun\-e\-dil khuun\-e\-jigar khuun\-e\-tamannaa ke sivaa
+saarii duniyaa me.n mujhe ra.ng na koii bhii milaa
+apane aramaano.n kii tasaviir banaane ke liye
+saarii khushiyaa.N hai.n   \threedots
+
+%
+#endindian
+\endsong
+%

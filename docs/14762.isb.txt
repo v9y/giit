@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{garaj\-garaj ghir aaye baadar}%
+\film{Koel (Pakistani-Film)}%
+\year{1959}%
+\starring{Noorjehan, Aslam Parvez, Nilo, Nazar, Allauddin, Sahira}%
+\singer{Ustad Fateh Ali Khan}%
+\music{Khurshid Anwar}%
+\lyrics{}%
+
+% Contributor: BOL ANAMOL [V S Rawat], Aug 02, 2004
+% Credit: Irfan
+% Song Courtesy: http://hindi-movies-songs.com/
+% Comments : An original bandish in Rag Malhar,
+% This song is the title music of the film. The titles scroll while
+% Alauddin sings this alongwith a small girl( for Noorjehan).
+
+\printtitle
+#indian
+
+um.a.a.a.a
+
+% dialogue
+
+garaj\-garaj ghir aaye baadar
+umaD\-ghumaD kar chhaye.n
+jal\-thal kar dii baras\-baras ghan
+garaj\-garaj ghir aaye baadar
+aa.a.a.a
+
+garaj\-garaj ghir aaye baadar
+umaD\-ghumaD kar chhaye.n
+jal\-thal kar dii baras\-baras ghan
+garaj\-garaj ghir aaye baadar
+
+Dhalatii bojhal uThii.n ghaTaaye.n \-2
+nagarii \-nagarii juum ke chhaaye.n
+ras\-buu.ndan kii pa.De phuhaar
+chale pawaniyaa sanan\-sanan ghan
+garaj\-garaj ghir aaye baadar
+
+#endindian
+\endsong

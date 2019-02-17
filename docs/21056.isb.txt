@@ -1,0 +1,34 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{kisii kii yaad me.n paaii hai jab kamii hamane}%
+\film{(Non-film)}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Maqbool-Iqbal Hussain}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Audio on: 
+% Tags: Ghazal
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 25 Aug 2006
+% Series: Andaaz-e-Bayaan Aur
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+kisii kii yaad me.n paaii hai jab kamii hamane
+to aa.Nsuo.n se jalaa dii hai zi.ndagii hamane
+
+siyaah raat kaa daaman hai aur kuchh bhii nahii.n
+wo jis muqaam pe dekhii thii raushanii hamane
+
+tere Kayaal kaa shiishaa na TuuT jaae kahii.n
+isii Kayaal me.n har shab guzaar dii hamane
+%
+#endindian
+\endsong

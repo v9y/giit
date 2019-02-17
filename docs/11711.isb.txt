@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{gam hai kyuu.n har khushii kam hai kyuu.n ye bataa}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Udit Narayan}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+gam hai kyuu.n har khushii kam hai kyuu.n ye bataa
+har gha.Dii aa.Nkh bhii nam hai kyuu.n ye bataa
+tuune kis jurm kii paa_ii ye sazaa ho
+dard se dil kaa sa.ngam hai kyuu.n ye bataa
+tuune kis jurm kii \threedots
+
+tujhape jo sitam hu_aa duusaro.n kaa paap thaa
+isame.n doSh hai teraa kyaa
+jisape zulm ho gayaa usako hii mile sazaa
+kis kitaab me.n hai likhaa
+tuu kyuu.n o.Dhe sar par ilzaamo.n kii chaadar
+jabake hai tuu hii nirdoSh yahaa.n ye bataa
+o o o o gam hai kyuu.n \threedots
+
+naarii jo bhii ho sahe sar jhukaa_e chup rahe
+ye rivaaz hai duniyaa kaa
+tuu ye riit chho.D de tuu ye rasm to.D de
+ye ilaaz hai duniyaa kaa
+kyuu.n aa.Nsuu piitii hai kyuu.n duHkh me.n jiitii hai
+kyuu.n aa.Nkho.n me.n gam kaa hai dhu_aa.N ye bataa
+o yo o o gam hai kyuu.n \threedots
+%
+#endindian
+\endsong
+

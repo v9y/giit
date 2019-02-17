@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{##this is the story of eternal love##}%
+\film{Taajmahal}%
+\year{2001}%
+\starring{Raghu Nair, Poornima}%
+\singer{Sunidhi Chauhan}%
+\music{Santosh Nair}%
+\lyrics{Rahul B Seth}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##this is the story of eternal love told by the heavens above##
+##true love, those who believe in immortal love, is forever##
+##angels always watch over them, people whose love is for real##
+##love can't be fathomed down, it is deeper than any ocean##
+##love's what makes a tear drop more precious than even a pearl##
+##it's love when a smile is received like a thousand blessings from heaven##
+##love can never be shackled by arms, no rules no reasons at all##
+##love gives it always a smile whatever maybe the season##
+##this is the story of internal love## \threedots
+
+##senses go numb and there is pain in my heart##
+##the light of your love is so set to depart##
+##souls of true lovers never go apart, never apart, never apart##
+%
+#endindian
+\endsong
+

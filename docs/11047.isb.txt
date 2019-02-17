@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pyaar dilo.n kaa melaa hai ... dha.Dake dil baar baar}%
+\film{Dulhan Hum Le Jaayenge}%
+\year{2000}%
+\starring{Salman Khan, Karisma Kapoor, Om Puri, Paresh Raval, Anupam Kher}%
+\singer{Sonu Nigam, Alka Yagnik, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar dilo.n kaa melaa hai phir ko_ii kyuu.n akelaa hai
+jaane kyaa hu_aa hai kyuu.n jiyaa bekaraar hai
+dha.Dake dil baar baar
+mausam be_iimaan hu_aa aaj pahalii baar
+dha.Dake dil baar baar
+jaane kyaa hu_aa hai \threedots
+
+jaanaa.n maine jaanaa kyaa hai dil lagaanaa tumase milakar yaar
+kyaa hai chain ga.nvaanaa dil kaa kyaa hotaa hai pyaar
+pyaar ba.Daa alabelaa hai kabhii tanhaa kabhii melaa hai
+ba.Daa sharmiilaa ba.Daa sharmiilaa hai meraa diladaar
+dha.Dake dil baar baar
+mausam be_iimaan hu_aa \threedots
+
+tuune o hasiinaa he dil meraa chhiinaa tuu hai meraa qaraar
+dil kaa ra.ng ye kaisaa hogaa rab hii jaane yaar
+pyaar ba.Daa ra.ngiilaa hai ra.ng dilo.n kaa melaa hai
+ba.Daa ra.ngiilaa ba.Daa ra.ngiilaa hai meraa diladaar
+dha.Dake dil baar baar
+mausam be_iimaan hu_aa \threedots
+%
+#endindian
+\endsong
+

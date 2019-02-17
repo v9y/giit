@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{nazar laage raajaa tore ba.ngale par}%
+\film{Kaala Paani}%
+\year{1958}%
+\starring{Dev Anand, Nalini Jaywant, Madhubala}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Jabeen Syed
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+nazar laage raajaa tore ba.ngale par
+
+jo mai.n hotii raajaa ban kii koyaliyaa
+kuhuku rahatii raajaa tore ba.ngale par
+
+jo mai.n hotii raajaa kaarii badariyaa
+baras rahatii raajaa tore ba.ngale par
+
+jo mai.n hotii raajaa belaa chameliaa
+lipaT rahatii raajaa tore ba.ngale par
+
+jo mai.n hotii raajaa terii dulhaniyaa
+maTak rahatii raajaa tore ba.ngale par
+%
+#endindian
+\endsong
+%

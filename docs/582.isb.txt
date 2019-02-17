@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ek akelaa is shahar me.n, raat me.n aur dopahar me.n}%
+\film{Gharonda}%
+\year{1977}%
+\starring{Amol Palekar, Zarina Wahab, Dr. Shriram Lagoo}%
+\singer{Bhupinder}%
+\music{Jaidev}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Dinesh K. Prabhu (prabhu@amelia.nas.nasa.gov)
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: The happier version (do diivaane shahar me.n) is #1097.s
+%
+\printtitle
+#indian
+%
+ek akelaa is shahar me.n, raat me.n aur dopahar me.n
+aab\-o\-daanaa Dhuu.NDhataa hai, aashiyaanaa Dhuu.NDhataa hai
+
+din khaalii khaalii bartan hai, aur raat hai jaise a.ndhaa ku.Nvaa
+in suunii andherii aa.Nkho.n me.n, aa.NsU kii jagah aataa hai.n dhu.N_aa
+jiine kii vajah to ko_ii nahii.n, marane kaa bahaanaa Dhuu.NDhataa hai
+ek akelaa is shehar me.n
+
+in umr se lambii sa.Dako.n ko, manzil pe pahu.Nchate dekhaa nahii.n
+bas dau.Datii phiratii rahatii hai.n, ham ne to Thaharate dekhaa nahii.n
+is ajanabii se shehar me.n, jaanaa pahachaanaa Dhuu.NDhataa hai
+ek akelaa is shehar me.n
+%
+#endindian
+\endsong
+%

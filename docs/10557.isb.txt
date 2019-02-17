@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{hamako sirf tumase pyaar hai}%
+\film{Barsaat}%
+\year{1995}%
+\starring{Bobby Deol, Twinkle Khanaa}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamako sirf tumase pyaar hai
+kah rahii hai dil kii bekhudii bas tumhaaraa i.ntazaar hai
+hamako sirf tumase \threedots
+
+Dhuu.nDhate hai.n ham tumako dar ba dar
+jaane kab kahaa.n miloge hamase hamasafar
+kaisii duuriyaa.n kaisaa faasalaa
+ham yahaa.n pe aa_e sun ke pyaar kii sadaa
+ab naa tumase duur ho.nge ham
+tum pe dil kyaa jaa.n nisaar hai
+hamako sirf tumase \threedots
+
+jaagate rahe ham to raat bhar
+ek lamhaa ek pal bhii so_ii na nazar
+tum nigaah me.n tum khyaal me.n
+haal hai buraa hamaaraa aise haal me.n
+yuu.n to hamape na karo sitam
+hamako tum pe aitabaar hai
+kah rahii hai dil kii \threedots
+%
+#endindian
+\endsong
+

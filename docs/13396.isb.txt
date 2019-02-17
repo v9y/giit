@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pyaar tuune kyaa kiyaa ... ek hii pal me.n achaanak}%
+\film{Pyaar Tune Kya Kiya}%
+\year{2002}%
+\starring{Fardin Khan, Urmila Matondkar, Sonali Kulkarnii}%
+\singer{Sonu Nigam, Alka Yagnik/ Chitra}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+pyaar tuune kyaa kiyaa huu.n kyaa kiyaa
+pyaar tuune kyaa kiyaa ai pyaar tuune kyaa kiyaa 
+ek hii pal me.n achaanak dii hai na_ii duniyaa
+dii hai.n na_ii khushiyaa.n
+pyaar tuune kyaa kiyaa \threedots
+
+pahalii dafaa use dekh kar
+hone lagaa kuchh aisaa asar
+khud se hu_ii mai.n bekhabar
+mai.n huu.N yahaa.N meraa dil hai vahaa.N
+pyaar tuune kyaa kiyaa \threedots
+
+tuu de rahaa hai ahasaas ye
+jaise ko_ii mere paas hai
+jis ke badan ko chhuu kar
+mere badan ko chhuu rahii hai havaa
+pyaar tuune kyaa kiyaa \threedots
+%
+#endindian
+\endsong
+

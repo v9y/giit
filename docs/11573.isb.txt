@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{prem patr aayaa hai usane bulaayaa hai}%
+\film{Geet}%
+\year{1992}%
+\starring{Avinash Wadhawan, Divya Bharti, Laxmikant Berde, Shakti, Anil Dhawan}%
+\singer{Kumar Sanu, Chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+prem patr aayaa hai usane bulaayaa hai
+jo na sochaa thaa kabhii aaj vo ho gayaa \-2
+prem patr aayaa hai \threedots
+
+Kat me.n likhaa hai jo kyaa ye haqiiqat hai
+kyaa ye haqiiqat hai tumhe.n mujhase muhabbat hai
+hai to jaan\-e\-man kabhii ye jubaa.n se bhii kah do
+kah do ye kah do merii ho haa.N tum merii ho
+are baabaa kah to diyaa
+jo na sochaa thaa \threedots
+
+achaanak ye hu_aa kaise mere dil ko hairat hai
+kyo.n hairat hai
+inaayat hai tumhaarii yaa meharabaa.n mujhape qismat hai
+tumhe.n kyaa lagataa hai
+oh tum apane to saaraa aalam apanaa hai
+maine dekhaa vo sach hai yaa ko_ii sapanaa hai
+ye sach hai sach hai sach hai
+jo na sochaa thaa \threedots
+%
+#endindian
+\endsong
+

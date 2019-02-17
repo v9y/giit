@@ -1,0 +1,35 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{dard ke maare hue}%
+\film{Hangama}%
+\year{1952}%
+\starring{}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+% 
+% Audio on: http://www.indianscreen.com
+% Tags: Ghazal Sad Sweet Melodious
+% Contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% Date: 30 Jan 2006
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+dard ke maare hu_e aur pyaar ke luuTe hu_e
+kaun sii duniyaa me.n jaae.Nge ye dil TuuTe hu_e
+
+chaar din kii is judaaii me.n samajh baiThaa hai dil
+ik zamaanaa ho gayaa tumase hame.n chhuuTe hu_e
+
+kuchh suhaane Kwaab dekhe the mohabbat ne kabhii
+haay rii qismat wo saare Kwaab ab jhuuThe hu_e
+
+%
+#endindian
+\endsong

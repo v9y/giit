@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{aapake kamare me.n ko_ii rahataa hai}%
+\film{Yaadon Ki Baaraat}%
+\year{1973}%
+\starring{Dharmendra, Zeenat, Vijay Arora, Tariq, Ajeet, Anamika}%
+\singer{Kishore, Asha, R D Burman}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11546 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	aapake kamare me.n ko_ii rahataa hai
+	ham nahii.n kahate zamaanaa kahataa hai
+
+	ham aaj idhar se guzare to ba.De itmiinaan se
+	giraa rahaa thaa ko_ii paradaa haay sar\-e\-shaam se
+	udhar aapakii ##photo## se sajii diivaar pe
+	pa.Daa hu_aa thaa ek saayaa ba.De aaraam se
+	aapake kamare me.n \threedots
+
+aa \:	magar ek din mai.n guzarii galii me.n sarakaar kii
+	tabhii se chalatii dil pe haay talavaar sii
+	dabii\-dabii halkii\-halkii ha.Nsii kii adaa_o me.n
+	machal rahii kisii chuu.Dii kii haay jha.nkaar sii
+	yah na samajho ko_ii Gaafil rahataa hai
+
+ki \:	agar mai.n kahuu.N jo dekhaa nahii.n thaa vah ko_ii Kvaab
+	pa.Daa thaa ##table## pe chashmaa vah kisakaa janaab
+	gore gale me.n vah mafalar thaa kis hasiin kaa
+	zaraa haath dil par rakh kar diiji_e javaab
+	aapake kamare me.n \threedots
+%
+#endindian
+\endsong
+

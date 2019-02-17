@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{yaad rahegaa pyaar kaa ye ra.ngiin zamaanaa}%
+\film{Umar Qaid}%
+\year{1975}%
+\starring{Sunil Dutt, Vinod Mehra, Mausami Chaterjii, Reena Roy, Jeetendra}%
+\singer{Mukesh, Lata}%
+\music{Sonik Omi}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10387 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	yaad rahegaa pyaar kaa ye ra.ngiin zamaanaa yaad rahegaa
+la \:	is duniyaa me.n chhoTii sii apanii duniyaa basaanaa yaad rahegaa
+	ho yaad rahegaa pyaar \threedots
+
+mu \:	ek hai.n ham aur ek rahe.nge sukh me.n bhii aur dukh me.n bhii
+la \:	jab\-tak hai saa.Nso.n kaa ba.ndhan ye ba.ndhan TuuTe na kabhii
+mu \:	janam\-janam ye rasme.n nibhaane kii qasame.n khaanaa yaad rahegaa
+do \:	ho yaad rahegaa pyaar \threedots
+
+la \:	apane jahaa.N me.n madhur hasii.n kii guu.Nj kabhii naa maa.Nd pa.De
+mu \:	jo bhii qadam ba.Dhataa hai apanaa ek duuje kii or ba.Dhe
+la \:	pyaar me.n chhup ke do saayo.n kaa ek ho jaanaa yaad rahegaa
+do \:	ho yaad rahegaa pyaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ai dil pyaar kii ma.nzil ab hai muqaabil dekh to le}%
+\film{Aas Ka Panchhi}%
+\year{1961}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10898 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai dil pyaar kii ma.nzil ab hai muqaabil dekh to le
+aa.Nchal Dhal gayaa sar se chaa.Nd ko apane dekh to le
+ai dil pyaar kii ma.nzil \threedots
+
+aaj ke jaisii raat na hogii ye halachal ye baat na hogii
+dekhane vaale dekhate jaa tuu roz to ye barasaat na hogii
+ai dil pyaar kii ma.nzil \threedots
+
+tab ek sapanaa dekh rahaa thaa ab ek sapanaa dekh rahaa huu.N
+kyaa hai nazaaraa kyaa batalaa_uu.N dekh lo kyaa\-kyaa dekh rahaa huu.N
+ai dil pyaar kii ma.nzil \threedots
+
+saamane mere vo jo vahaa.N hai.n jinakii nazar mere dono.n jahaa.N hai.n
+kaash ko_ii ye puuchh le unase kal vo kahaa.N the aaj kahaa.N hai.n
+ai dil pyaar kii ma.nzil \threedots
+%
+#endindian
+\endsong
+

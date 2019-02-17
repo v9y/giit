@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{dil meraa luTeyaa gayaa}%
+\film{International Khilaadi}%
+\year{1999}%
+\starring{Akshay Kumar, Twinkle Khanna}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zi.ng lak lak zi.ng
+ik duuNii duuNii te do duuNii chaar kii gal ho_ii tuu das mere yaar
+mainuu.n ishq daa cha.Dheyaa bukhaar dil meraa luTeyaa gayaa
+luTeyaa gayaa luTeyaa gayaa ho mere yaar dil meraa luTeyaa gayaa
+
+he la.D ga_ii la.D ga_ii aa.Nkh ye la.D ga_ii tere ruup kii mastii cha.Dh ga_ii
+he tuu chaahe to hosh u.Daa de suulii pe tuu mujhe cha.Dhaa de
+kuchh bhii kar le yaar 
+ke dil meraa luTeyaa gayaa \threedots
+
+pahalii baar meraa man bhaTakaa dekhake tujhako lagaa hai jhaTakaa
+maine sochaa mil gayaa baa.nkaa ju.D gayaa mere pyaar kaa Taa.nkaa
+dil baiThii mai.n haar
+ai dil meraa luTeyaa gayaa \threedots
+
+ik duuNii duuNii te do duuNii chaar das phir aage hu_aa kyaa yaar
+kii dasiye akkhaa.n jad la.Diyaa.n pyaar diyaa.n lagiyaa.n hathaka.Diyaa.n
+o_e tuune kar diyaa mujhe diivaanaa ab tuu mujhase duur na jaanaa
+chhi.D ga_e dil ke taar
+ke dil meraa luTeyaa gayaa \threedots
+
+aaag lagii sholaa ik bha.Dakaa usape tuune paanii chhi.Dakaa
+tuune kiyaa hai kaisaa jaaduu ho gayaa meraa dil bekaabuu
+kar le aa.Nkhe.n chaar
+ke dil meraa luTeyaa gayaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{bolo bolo re bhagawaan}%
+\film{Sanam}%
+\year{1951}%
+\starring{Suraiya, Devanand, Meena Kumari, Gope, K N Singh}%
+\singer{Suraiya, Shamshad, Amirbai}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12538 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	bolo bolo re bhagawaan bolo bolo re bolo bolo re \-2
+	kaisaa hai bhagawaan meraa jise dukhiyo.n kii pahachaan nahii.n \-2
+	duniyaa ke bhagawaan bataa \-2
+	kyaa tuu meraa bhagawaan nahii.n
+	bolo bolo re bhagawaan bolo bolo re bolo bolo re \-2
+
+	( naa thaa jo unako meraa unhe.n banaayaa kyuu.N
+	chhiin hii lenaa thaa jo unako meraa unhe.n banaayaa kyuu.N ) \-2
+a \:	bolo pyaar miTaane waale \-2
+	tuune pyaar sikhaayaa kyuu.N
+do \:	bolo bolo re bhagawaan bolo bolo re bolo bolo re \-2
+%
+#endindian
+\endsong
+%
+

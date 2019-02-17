@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{kyo.n mile tum\-ham bevafaa o sanam}%
+\film{Bedard Zamaanaa Kyaa Jaane}%
+\year{1959}%
+\starring{Ashok Kumar, Nirupa Roy, Pran, Helen}%
+\singer{Rafi, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10855 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	kyo.n mile tum\-ham bevafaa o sanam
+	luT ga_ii zindagii kyaa Kushii kyaa Gam
+la \:	kyo.n mile tum\-ham \threedots
+
+ra \:	hasarate.n ghaayal hai.n ab to zindagii Kaamoosh hai
+	jaane vaale Kush ho ke jaanaa ham pa.De behosh hai.n
+	luT gayaa kaaravaa.N rah ga_e bedam
+la \:	kyo.n mile tum\-ham \threedots
+
+	chain ik pal bhii na paayaa hamane tere pyaar me.n
+	chupake\-chupake rote rahe ham is bhare sa.nsaar me.n
+	ye jahaa.N beraham kyaa jiye.Nge ham
+ra \:	kyo.n mile tum\-ham \threedots
+%
+#endindian
+\endsong
+

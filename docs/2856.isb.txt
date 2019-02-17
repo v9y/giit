@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{hari ko bisaaro naa}%
+\film{Narsinh Avtaar}%
+\year{1949}%
+\starring{Shobana Samarth, Mahipal, Laxman, Niranjan Sharma}%
+\singer{Lata}%
+\music{Vasant Desai}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Srinivas Ganti  
+% Transliterator: 
+% Credits: Neha Desai
+%
+\printtitle
+#indian
+%
+
+(hari ko bisaaro naa
+hari naa bisaare.nge)\-2
+(ghir ghir aaye vipadaa)\-2
+(hari dukh taare.nge)\-2
+hari na bisaare.nge\threedots
+
+(hari ke hai.n koTii haath
+hari hai anaath naath
+(ur dhaaro  hari ko to)\-2
+hari ur dhaare.nge 
+hari naa bisaare.nge
+hari ko bisaaro naa\threedots
+
+saato.n janam paalak hai.n
+dushto.n ke dhaalak hai.n
+hari hari naam japaa
+(hari hari)\-2 
+hari hari naam japaa
+(hari hii ubhaare.nge)\-3
+hari na bisaare.nge
+hari ko bisaaro naa\threedots
+
+%
+#endindian
+\endsong
+%

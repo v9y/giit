@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{tum ne pukaaraa aur ham chale aae}%
+\film{Rajkumar}%
+\year{1964}%
+\starring{Shammi Kapoor, Sadhana}%
+\singer{Suman Kalyanpur, Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 17 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+r: (tum ne pukaaraa aur ham chale aae
+   dil hathelii par le aae re)		\-2
+su: (tum ne pukaaraa aur ham chale aae
+    jaan hathelii par le aae re)	\-2
+
+r: aao baiTho hamaare pahaluu me.n panaah le lo
+   merii jalatii hu_ii aa.Nkho.n pe ye aa.Nkhe.n rakh do
+   ai mere pyaar ke Kvaabo.n kii hasii.n shahazaadii
+   ho.nTh kyo.n kaa.np rahe hai.n, zaraa kuchh to bolo
+
+su: tum ne pukaaraa aur ham chale aae
+   jaan hathelii par le aae re
+r: tum ne pukaaraa aur ham chale aae
+
+su: aaj khelo merii zulfo.n se, ijaazat hai tumhe.n
+   mujhako chhuu lo, merii nas nas me.n sharaare bhar do
+   mere diladaar merii aa.Nkho.n me.n rahane vaale
+   mai.n tumhaarii huu.N, merii maa.Ng me.n taare bhar do
+
+r: tum ne pukaaraa aur ham chale aae
+   dil hathelii par le aae re
+
+r: naam raushan hai tumhii.n se mere afasaane kaa
+   zi.ndagii naam hai ulfat me.n jiie jaane kaa
+   tum agar hamako na milate to ye suurat hotii
+   log le jaate janaazaa tere diivaane kaa
+
+su: tum ne pukaaraa aur ham chale aae
+   jaan hathelii par le aae re
+r: tum ne pukaaraa aur ham chale aae
+%
+#endindian
+\endsong
+%

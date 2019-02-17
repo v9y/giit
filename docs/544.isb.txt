@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{do diivaane shahar me.n, raat me.n aur dopahar me.n}% 
+\film{Gharonda}%
+\year{1977}%
+\starring{Amol Palekar, Zarina Wahab}%
+\singer{Bhupinder, Runa Laila}%
+\music{Jaidev}%
+\lyrics{Gulzar}%
+%
+% Contributor: Private Eye on RMIM (an36002@anon.penet.fi) 
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: The sadder version (ek akelaa is shahar me.n) is also in the ISB
+%
+\printtitle 
+#indian
+%
+##Dialogs first: ##
+bhU: ek diivaanaa shahar me.n
+rU: ek diivaanaa nahii.n, ek diivaanii bhii
+bhU: ## Hmm? hmm-hmm. [it is hard to transcribe sounds! :-)] ##
+
+## then the song starts: ##
+bhU: do diivaane shahar me.n, raat me.n aur dopahar me.n
+   aab\-o\-daanaa Dhuu.NDhate hai.n ek aashiyaanaa Dhuu.NDhate hai.n
+rU: do dIvaane shahar me.n, raat me.n aur dopahar me.n
+   aab\-o\-daanaa Dhuu.NDhate hai.n ek aashiyaanaa Dhuu.NDhate hai.n
+
+rU: in bhUlabhula{}iyA galiyo.n me.n, apanA bhI koI ghar hogA
+   ambar pe khulegI khi.DakI yA, khi.DakI pe khulA ambar hogA
+bhU: in bhUlabhula{}iyA galiyo.n me.n, apanA bhI koI ghar hogA
+   ambar pe khulegI khi.DakI yA, khi.DakI pe khulA ambar hogA
+   asamAnI ra.ng kI A.Nkho.n me.n
+rU: asamAnI yA AsamAnI?
+bhU: asamAnI ra.ng kI A.Nkho.n me.n
+   basane kA bahAnA DhU.nDhate hai.n, DhU.nDhate hai.n
+rU: aabodAnA DhU.nDhate hai.n ek aashiyAnA DhU.nDhate hai.n
+
+bhU: jab taare zamI.n par chalate hai.n
+rU: taare, aur zamI.n par?
+bhU: ## of course ##
+bhU: jab taare zamI.n par chalate hai.n
+rU: ## Hmmm hmmm ##
+bhU: AkAsh zamI.n ho jaatA hai
+rU: A aa aa
+bhU: us raat nahI.n phir ghar jaatA, vo chaa.nd yahI.n so jaatA hai
+rU: jab taare zamI.n par chalate hai.n
+AkAsh zamI.n ho jaatA hai
+us raat nahI.n phir ghar jaatA, vo chaa.nd yahI.n so jaatA hai
+bhU: pal bhar ke liye
+rU: pal bhar ke liye
+bhU: pal bhar ke liye in A.Nkho.n me.n ham ek zamAnA DhU.nDhate hai.n, DhU.nDhate hai.n
+rU: aabodAnA DhU.nDhate hai.n ek aashiyAnA DhU.nDhate hai.n
+%
+#endindian
+\endsong
+%

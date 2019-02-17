@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{dil kaa qaraar luT chukaa}%
+\film{Lekh}%
+\year{1949}%
+\starring{Suraiyya, Motilal, Sitara, Ishu Jagirdar}%
+\singer{Suraiyya}%
+\music{Krishan Dayal}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #11378 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: This lyrics were printed in Listeners' Bulletin Vol #52 under Geetanjali #42
+%
+\printtitle
+#indian
+%
+dil kaa qaraar luT chukaa Gam kii kahaanii rah ga_ii
+vo to nazar se duur hai.n unakii nishaanii rah ga_ii
+
+suukh chuke hai.n ashq bhii aag bujhegii kis tarah
+dil ko jalaane ke li_e yaad puraanii rah ga_ii
+
+dil ko lagaa ke Thes vo aa.Nkhe.n churaa ke chal di_e
+ha.Nsane ke din na rahe rotii javaanii rah ga_ii
+dil kaa qaraar \threedots
+%
+#endindian
+\endsong
+

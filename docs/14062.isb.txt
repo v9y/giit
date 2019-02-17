@@ -1,0 +1,29 @@
+%
+\startsong
+\stitle{merii jaan chalii dushman ke ghar rab khair kare}%
+\film{Sanam Bewafaa}%
+\year{1990}%
+\starring{Salman, Chandni, Pran, Danny, Kanchan, Puneet Issar, Pankaj Dheer}%
+\singer{Vivek Sharma, Chorus}%
+\music{Mahesh Kishor}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii jaan chalii dushman ke ghar rab khair kare
+
+merii jaan chalii anajaanii Dagar rab khair kare
+
+duniyaa kii lage na burii nazar rab khair kare
+
+tere sar pe rahe allaah kii mehar rab khair kare
+merii jaan chalii \threedots
+%
+#endindian
+\endsong
+

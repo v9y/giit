@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aaj tuu maa.ng le jo teraa dil kahe}%
+\film{Gang}%
+\year{1999}%
+\starring{Jackie Shroff, Juhi Chawala, Nana Patekar, Kumar Gaurav, Javed Jaffery}%
+\singer{Hariharan, Abhijit, Roop Kumar Rathod, Jolly Mukherji}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaj tuu maa.ng le jo teraa dil kahe
+mai.n duu.n tujhako tuu jo maa.nge jaan bhii kyaa hai tere aage
+aaj tuu maa.ng le \threedots
+
+o ho ho ho o o ho ho ho
+ruup kahe to laa_uu.n chaa.Nd taare hasii.n mai.n
+naam tere likhuu.n aasamaa.n aur zamii.n mai.n
+tere li_e jii_uu.n varanaa jii_uu.n nahii.n mai.n
+ye bataa tere dil me.n kyaa hai aarazuu
+aaj tuu maa.ng le \threedots
+
+mere dil me.n hai tuu dil hu_aa tujhase roshan
+mere dil me.n hai tuu mahakaa is dil kaa aa.ngan
+mere dil me.n hai tuu khil gayaa dil kaa gulashan
+maan jaa mere dil me.n tuu hai tuu hii tuu
+aaj tuu maa.ng le \threedots
+%
+#endindian
+\endsong
+

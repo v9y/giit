@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{uupar jaa ke yaad aa_ii.n niiche kii baate.n}%
+\film{Paanch Dushman}%
+\year{1973}%
+\starring{Manu, Raji, Pran, Shatrughan Sinha, Vinod Khanna}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10789 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+jiinaa to hai par ai dil kahaa.N \-2
+are baiThuu.N to nahii.n milatii hai zamii.n ho
+mai.n u.Danaa chaahuu.N to hai duur aasamaa.N
+
+( naaraaz ko_ii na ko_ii meharabaa.N
+na kahii.n ko_ii bijalii na ko_ii aashiyaa.N ) \-2
+are baiThuu.N to \threedots
+
+jalataa hai badan kahii.n saayaa nahii.n
+kisii aa.Nchal ke badale hai sulagataa dhu_aa.N
+are baiThuu.N to \threedots
+%
+#endindian
+\endsong
+

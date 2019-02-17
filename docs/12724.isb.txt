@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{aajakal shauq\-e\-diidaar hai}%
+\film{Leader}%
+\year{1964}%
+\starring{Dilip Kumar, Vyjayanthi Mala}%
+\singer{Rafi, Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10638 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	aajakal shauq\-e\-diidaar hai
+	kyaa kahuu.N aapase pyaar hai
+	aajakal shauq\-e\-diidaar hai
+	( kyaa kahuu.N ) \-2 aapase pyaar hai \-3
+
+aa \:	merii jaanib se inkaar hai
+	merii jaanib se inkaar inkaar hai
+	kyaa karuu.N mai.n agar pyaar hai
+	( kyaa karuu.N ) \-2 mai.n agar pyaar hai \-3
+
+ra \:	pyaar vo chiiz hai jisase o naazanii.n
+	pahale inkaar karate hai.n saare hasii.n
+	phir kahate hai.n ikaraar hai
+	phir ye kahate hai.n ikaraar ikaraar hai
+	kyaa kahuu.N aapase \threedots
+
+aa \:	chhoTaa mu.Nh aur ba.Dii baat mat bhuuli_e
+	dekhi_e apanii auqaat mat bhuuli_e
+	kissaa\-e\-ishq bekaar hai
+	kissaa\-e\-ishq bekaar bekaar hai
+	kyaa karuu.N mai.n agar \threedots
+
+ra \:	aapakii har adaa par mai.n qurbaan huu.N
+	kuchh taras khaa_i_e mai.n bhii insaan huu.N
+	kisali_e mujhase takaraar hai
+	kisali_e mujhase takaraar takaraar hai
+	kyaa kahuu.N aapase \threedots
+
+aa \:	sun sake.nge na ham aapakii iltijaa
+	jaa ke diiji_e kisii aur dar pe sadaa
+	yahaa.N dil hai na diladaar hai
+	yahaa.N dil hai na diladaar diladaar hai
+	kyaa karuu.N mai.n agar \threedots
+
+ra \:	jaan\-e\-man ab to milane kaa vaadaa karo
+aa \:	ham nahii.n jaanate tum jiyo yaa maro
+ra \:	guftaguu kaa ye ko_ii tariikaa nahii.n
+aa \:	aur tumako bhii ko_ii saliikaa nahii.n
+ra \:	merii ulfat kii ##insult## yuu.N na karo
+aa \:	##you shut-up##
+ra \:	##you shut-up## \-2
+aa \:	##you shut-up. Idiot## apanaa raastaa chalo
+ra \:	yuu.N naa ta.Dapaa_o aashiq ko dekho ##hello, hello##
+%
+#endindian
+\endsong
+

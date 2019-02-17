@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{hue hai.n tum pe aashiq ham, bhalaa maano buraa maano}% 
+\film{Mere Sanam}%
+\year{1965}%
+\starring{Biswajeet, Asha Parekh, Mumtaz}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: Shashikant Joshi urf pintu diwana (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor:
+% Comments: Pankha Road se Pintu Diwana [31]  14 May 1995
+%        Oh the guitar! I always simulate the guitar playing on this
+%        song. The interlude I mean. I just don't care if it was an
+%        Elvis song someday :-)))
+%        bandiyaaN bhee kyaa lucky hotee haiN, jo bande mar mar ke loT
+%        jaate haiN kadamoN meN. Ladies! What DO you feel, when a guy
+%        maro-maro on you? Arey naheen bhai, maiN aapke shahar kaa
+%        laD.akaa naheeN hooN, bas :-))))))
+%        shaayad Prince and Irfan/Ikram ko bhee sukoon milegaa jo
+%        poochhate the (Azra ke Dholak ke Geet ke baad) ke ye sab kahaaN
+%        hota hai :-))))))))
+%
+\printtitle 
+#indian 
+%
+hue hai.n tum pe aashiq ham, bhalaa maano buraa maano 
+ye chaahat ab naa hogii kam, bhalaa maano buraa maano 
+## Guitar .... ##
+
+ye ruuThii sii nazar ye maathe kii shikan \- 2 
+libaas\-e\-ra.ng me.n ye bal khaataa badan 
+hai pyaasaa pyaar kaa ye saaraa baa.Nkapan \- 2
+ho ho ho pyaar kyaa hai jaan\-e\-tamannaa ab to pahachaano 
+hue hai.n tum pe \threedots
+## Guitar .... ##
+
+ajI ik ham to kyaa, ho tum aise hasiin \- 2 
+farishtaa bhii tumhe, agar dekhe kahI.n 
+to jannat bhuul ke bahak jaaye yahii.n \- 2 
+ho ho ho pyaar kyaa hai \threedots
+hue hai.n tum pe \threedots
+## Guitar .... ##
+
+tumhI ko chun liyaa, nazar kii baat hai \- 2 
+liyaa Gam aapakaa, jigar kii baat hai 
+ho tum phir bhii khafaa, asar kii baat hai \- 2 
+ho ho ho pyaar kyaa hai \threedots
+hue hai.n tum pe  \threedots
+## Guitar .... ##
+%
+#endindian
+\endsong
+%

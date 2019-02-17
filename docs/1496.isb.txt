@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ra.njish hii sahii dil hii dukhaane ke liye##(Gazal: Jagjit+Lata)##}% 
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh, Lata}%
+\music{}%
+\lyrics{Ahmad Faraz}%
+%
+% Contributor: Hrishikesh K. Joshi (mathkjx@gsusgi2.Gsu.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pyare Bharatiya bhaiyo tatha beheno (ek ko rahane de...
+%     ek ko rahane de).  Mujhe asha hai ki aap ko ye ghazl pasand aayegi.
+%     Main sirf itna jaanta hoon ki isse Jagjit Singh aur Lata ji ne
+%     solo main gaya hai. Haal hee main ise Anuradha Paudwal ne bhi gaya hai...
+%
+\printtitle 
+#indian 
+%
+ra.njish hii sahii dil hii dukhaane ke liye aa \- 2
+aa phir se mujhe chho.D ke jAne ke liye aa 
+ra.njish hii sahii \threedots
+
+kis kis ko bataaye.nge judaa_ii kA sabab ham \- 2
+rasmo.n rahe duniyA hii nibhaane ke liye aa aa aa 
+ra.njish hii sahii \threedots
+
+pahale \threedots
+pahale se marAsim nA sahii phir bhI kabhI to \- 2
+tuu bhI to kabhI mujhako manaane ke liye aa 
+ra.njish hii sahii \threedots
+
+tujhako \threedots
+tujhako bahut aate hai.n, nA aane ke bahaane \- 2
+vaise hii kisii roz nA jaane ke liye aa aa aa 
+
+ra.njish hii sahii dil hii dukhaane ke liye aa 
+aa phir se mujhe chho.D ke jaane ke liye aa 
+%
+#endindian
+\endsong
+%

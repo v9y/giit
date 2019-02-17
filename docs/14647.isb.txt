@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{halle halle zaraa haule haule ... ye raat aage challe}%
+\film{Yeh Raaste Hain Pyaar Ke}%
+\year{2001}%
+\starring{Ajay Devgan, Madhuri Dixit, Preity Zinta}%
+\singer{Vinod Rathod, Alka Yagnik, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+halle halle zaraa haule haule
+haa.n ye raat aage challe zaraa halle halle
+ko_ii baat aage challe zaraa halle halle
+ye raat aage challe \threedots
+
+roz kahaa.n aisii mahafil aur aisii dhuumadhaam
+yaar balle balle
+ye raat aage challe \threedots
+
+naa vo mai.n naa vo tuu naa vo ham badal ga_ii duniyaa
+rah ga_e piichhe dil aage nikal ga_ii duniyaa
+kaun kahaa.N par chho.D ghuumaghaam
+yaar balle balle
+ye raat aage challe \threedots
+
+taa raa raaraa chhai.nyaa chhai.nyaa chhammaa chhammaa
+aur balle balle
+halle halle zaraa \threedots
+
+dil me.n jo bas gayaa dil se vo nikalataa nahii.n
+aasamaa.n kaa hai ye faisalaa badalataa nahii.n
+phuul mile yaa kaa.NTe chhaDD chho.D chuum chaam
+dil jalle jalle
+ye raat aage challe \threedots
+%
+#endindian
+\endsong
+

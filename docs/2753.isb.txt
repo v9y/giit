@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aa.Nkh milaane ke liye}%
+\film{Chandan}%
+\year{1958}%
+\starring{Kishore Kumar, Mala Sinha, Nutan}%
+\singer{Geeta}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 13, 2001
+%
+\printtitle
+#indian
+%
+
+aa.Nkh milaane ke liye dil hai lagaane ke liye
+ye jahaa.N maharabaa.N mauj manaane ke liye
+
+chaa.Ndanii jab talak hai javaa.N jhuum le
+Daalii Daalii ghuum le mu.Nh kaliyo.n kaa chuum le
+dekh bahaaro.n kaa samaa nahii.n ab aane ke liye
+ye jahaa.N maharabaa.N mauj manaane ke liye
+
+zi.ndagii kyaa Kabar aaj hai kal na ho
+pyaar kii ye mahafil na ho dil me.n ye halachal na ho
+ko_ii mile yaa na mile naaz uThaane ke liye
+ye jahaa.N maharabaa.N mauj manaane ke liye
+
+do gha.Dii pyaar kar muskuraa gaa_e jaa
+kaa.NTo.n ko Thukaraa_e jaa phuulo.n ko apanaa_e jaa
+ek bahaanaa Dhuu.NDh le ra.ng jamaane le liye
+ye jahaa.N maharabaa.N mauj manaane ke liye
+
+%
+#endindian
+\endsong
+%

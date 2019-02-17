@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{qasam hai tujhe mahafil kii ... piine se pilaane se}%
+\film{Deedar}%
+\year{1970}%
+\starring{Anjana, Premendra, Dheeraj, K N Singh, Kumud Tripathi, Leela Mishra}%
+\singer{Kishor, Usha Khanna}%
+\music{Usha Khanna}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #10453 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	qasam hai tujhe mahafil kii
+	mai.n naachuu.N tuu pii
+	mai.n naachuu.N tuu
+ki \:	hik
+	bili bili bappaa ba bappaa \-6
+
+	piine se pilaane se paimaane se mayaKaane se
+	begaane se zamaane se tuu bach bachaa \-2
+
+ki \:	he javaanii me.n kabhii kis kis kis he he ho ho he he
+	javaanii me.n kabhii kisii se aa.Nkh na la.Daa
+	aa.Nkh la.D jaa_e to bhii dil naa milaa
+	dil mil jaa_e bhii to shor na machaa
+	miiThe\-miiThe vaado.n pe tuu sabako nachaa
+aa \:	kyuu.N
+ki \:	kyuu.N kyaa
+	yahaa.N dil bhii buraa hai diladaar bhii buraa
+	ikaraar bhii buraa hai inakaar bhii buraa \-2
+aa \:	piine
+ki \:	se
+aa \:	pilaane
+ki \:	se
+aa \:	paimaane
+ki \:	se
+aa \:	mayaKaane
+ki \:	se
+	begaane se zamaane se tuu bach bachaa \-2
+aa \:	bili bili bappaa ba bappaa \-6
+
+ki \:	are dil de ko_ii to \-3 he he ho ho he
+	are dil de ko_ii to dil to.D do beshaq
+	aa.Nkh jo milaa_e aa.Nkhe.n pho.D do beshaq huu huu
+	phuul naa khile to Tahanii mo.D do beshaq
+	burii duniyaa hai ise chho.D do beshaq
+aa \:	kisali_e
+ki \:	kisali_e kyaa
+	nek naam bhii buraa badanaam bhii buraa
+	aaGaaz bhii buraa hai a.njaam bhii buraa \-2
+	piine se pilaane se \threedots
+%
+#endindian
+\endsong
+

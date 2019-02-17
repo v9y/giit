@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dharatii pe jo rab hotaa hai vo hai pitaa}%
+\film{Pitaah}%
+\year{2001}%
+\starring{Sanjay Dutt, Nandita Das, Jackie Shroff, Salil Ankola, Anupama Verma}%
+\singer{Udit Narayan, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik rab ambar pe hotaa hai
+ik rab dharatii pe hotaa hai
+ambar tak pahu.Nchaa kaun
+dharatii pe jo rab hotaa hai
+vo hai pitaa vo hai pitaa
+ik rab ambar pe \threedots
+
+phuul saa jisakaa man hotaa hai aur siinaa faulaad kaa
+apanaa duHkh to vo naa jaane jaane har duHkh aulaad kaa
+Gam sahe vo rahkar maun hamako nahii.n pataa
+dharatii pe jo rab \threedots
+
+sabase pahalaa dharam hai jisakaa apanaa ghar sa.nsaar
+sabase pahalaa karam hai jisakaa apano.n kaa uddhaar
+usake binaa ham kaun hamako nahii.n pataa
+dharatii pe jo rab \threedots
+
+jiine kaa paigaam diyaa hai pitaa ne hamako naam diyaa hai
+hamase khataa hu_ii to bhii apane sar pe ilzaam liyaa hai
+unase ba.Daa hai kaun hamako nahii.n pataa
+dharatii pe jo rab \threedots
+%
+#endindian
+\endsong
+

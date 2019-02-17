@@ -1,0 +1,80 @@
+
+%
+\startsong
+\stitle{hai aag hamaare siine me.n ... ham bhii hai.n}%
+\film{Jis Desh Mein Ganga Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran}%
+\singer{Manna De, Mukesh, Mahendra Kapoor, Lata, Geeta}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11456 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mannaa \:	hai aag hamaare siine me.n ham aag se khelate aate hai.n
+ko \:	hoy\-hoy
+mannaa \:	Takaraate hai.n jo is taaqat se vo miTTii me.n mil jaate hai.n
+ko \:	hoy\-hoy
+mu \:	tumase to pata.ngaa achchhaa hai jo ha.Nsate hu_e jal jaataa hai
+gii \:	oy hoy hoy hoy
+mu \:	vo pyaar me.n miT to jaataa hai ( par naam amar kar jaataa hai ) \-2
+
+ko \:	ham bhii hai.n tum bhii ho dono hai.n aamane\-saamane
+	dekh lo kyaa asar kar diyaa pyaar ke naam ne
+
+mahe \:	ham gaate\-garajate saagar hai.n ko_ii hamako baa.Ndh nahii.n paayaa
+ko \:	hoy\-hoy
+mahe \:	hoy ham mauj me.n jab bhii laharaa_e.N saaraa jag Dar se tharraayaa
+ko \:	hoy\-hoy
+mu \:	ham chhoTii sii vo buu.Nd sahii hai siip ne jisako apanaayaa
+gii \:	oy hoy hoy hoy
+mu \:	khaaraa paanii ko_ii pii na sakaa ( ik pyaar kaa motii kaam aayaa ) \-2
+ko \:	ham bhii hai.n \threedots
+
+gii \:	kis phuul pe maratii hai duniyaa hai kaun saa phal sabase miiThaa
+ko \:	oy hoy\-hoy
+gii \:	nainaa se nainaa jo Takaraa_e to kaun haaraa aur kaun jiitaa
+mu \:	ye dil kaa kamal sabase sundar mehanat kaa phal sabase miiThaa
+ko \:	oy hoy\-hoy
+mu \:	is pyaar kii baazii me.n ha.Ns kar ( jo dil haaraa vo sab jiitaa ) \-2
+gii \:	oy hoy\-hoy
+ko \:	ham bhii hai.n \threedots
+
+mannaa \:	itanaa saa hai dil itanaa saa jigar kyaa baat ba.Dii karane aa_e
+ko \:	hoy\-hoy
+mannaa \:	kyaa paidaa hogii aag agar patthar se na patthar Takaraa_e
+ko \:	hoy\-hoy
+mu \:	nanhaa saa ye dil aa.Nkho.n me.n na ho to pal me.n a.Ndheraa ho jaa_e
+ko \:	hoy\-hoy
+la \:	itanaa saa ye dil tuu de\-de agar ( saaraa jag teraa ho jaa_e ) \-2
+ko \:	ham bhii hai.n \threedots
+la \:	dekh lo kyaa asar \threedots
+ko \:	ham bhii hai.n \threedots
+
+la \:	jaane kaisii ye mauje.n anjaanii.n
+	dil me.n aa_ii jaise yaad puraanii
+	ho yaad puraanii
+mu \:	le liyaa dil meraa aaj kii ra.ng bharii shaam ne
+ko \:	ham bhii hai.n \threedots
+
+mu \:	tuune mujhako samajhaa thaa begaanaa
+	lekin tujhako maine hii pahachaanaa
+	haay pahachaanaa
+la \:	mil ga_ii.n ma.nzile.n raah sii khul ga_ii saamane
+ko \:	ham bhii hai.n \threedots
+
+la \:	tuu jo kah de mai.n terii ho jaa_uu.N
+	kho_ii\-kho_ii aa.Nkho.n me.n kho jaa_uu.N
+mu \:	tumane ye kyaa kiyaa log dil ko lage thaamane
+la \:	dekh lo kyaa asar \threedots
+ko \:	ham bhii hai.n \threedots
+%
+#endindian
+\endsong
+

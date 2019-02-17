@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{dil lagaa ke qadar ga_ii pyaare}%
+\film{Kaalaa Paani}%
+\year{1958}%
+\starring{Dev Anand, Nalini Jaywant, Madhubala}%
+\singer{S D Burman, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11441 [V S Rawat]
+%
+\printtitle
+#indian
+%
+aa \:	aa aa aa
+	uu uu uu
+	( dil lagaa ke
+	qadar ga_ii pyaare ) \-2
+	dil lagaa ke
+	puuchhe naa ko_ii phiruu.N besahaare \-2
+	dil lagaa ke qadar ga_ii pyaare
+	dil lagaa ke 
+
+sa \:	dhin ta dhaa
+	ta ta ta dhaa
+
+aa \:	bolii bole duniyaa saarii
+	mai.n raajaa tumase haarii
+	kyaa karuu.N mai.n nainaamaarii
+	kaho naa kyaa karuu.N mai.n nainaamaarii
+	ko_ii kuchh pukaare \-2
+	dil lagaa ke qadar ga_ii pyaare
+	dil lagaa ke \-3
+	
+sa \:	dhin ta dhaa
+	ta ta ta dhaa
+
+aa \:	naa ko_ii saathii naa ko_ii belii
+	so_uu.N\-jaaguu.N mai.n akelii
+	suunii sejiyaa suunii havelii
+	dekho naa suunii sejiyaa suunii havelii
+	ye sochaa thaa man me.n basuu.Ngii tihaare
+	dil lagaa ke qadar ga_ii pyaare
+	dil lagaa ke
+	puuchhe naa ko_ii phiruu.N besahaare
+	dil lagaa ke qadar ga_ii pyaare
+%
+#endindian
+\endsong
+

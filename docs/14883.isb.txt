@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa_ii aa_ii sajanavaa ajab ratiyaa}%
+\film{Sikandar}%
+\year{1941}%
+\starring{Sohrab Modi, Prithviraj Kapoor, Vanmala}%
+\singer{Sheela}%
+\music{Mir Saheb?/Rafiq Ghaznavi?}%
+\lyrics{Pt Sudarshan}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+aa_ii aa_ii haa.N haa.N
+aa_ii aa_ii sajanavaa ajab ratiyaa
+aaj aa_ii sajanavaa ajab ratiyaa \-2
+
+is ratiyaa par bal\-bal jaavuu.N \-2
+is ratiyaa par praaan cha.Dhaavuu.N \-2
+aisii har roz aatii hai kab ratiyaa \-2
+aa_ii aa_ii haa.N haa.N
+aa_ii aa_ii sajanavaa ajab ratiyaa
+aaj aa_ii sajanavaa ajab ratiyaa \-2
+
+chaa.Ndii kii ratiyaa me.n ja.Date hai.n hiire \-2
+niilam kii sa.Dako.n pe chalate hai.n hiire \-2
+nas\-nas me.n samaa_ii Gazab ratiyaa
+aa_ii aa_ii haa.N haa.N
+aa_ii aa_ii sajanavaa ajab ratiyaa
+aaj aa_ii sajanavaa ajab ratiyaa \-2
+
+chaa.Ndii kii ratiyaa me.n giit ugat hai.n \-2
+sone kii bagiyaa me.n supane phalat hai.n \-2
+kaisii sundar salonii sulabh ratiyaa
+aa_ii aa_ii haa.N haa.N
+aa_ii aa_ii sajanavaa ajab ratiyaa
+aaj aa_ii sajanavaa ajab ratiyaa \-2
+
+#endindian
+\endsong

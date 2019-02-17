@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mohabbat ke din ho.n ... ye merii zi.ndagii ab tere naam hai}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mohabbat ke din ho.n mohabbat kii raate.n
+kabhii khatm na ho.n mohabbat kii baate.n
+ye merii zi.ndagii ab tere naam hai
+tuu hai merii subah tuu merii shaam hai
+dilabar tujhe pyaar karanaa ab meraa kaam hai
+ye merii zi.ndagii \threedots
+
+khvaabo.n me.n dekhaa jise tuu hai vahii dilarubaa
+chaahuu.n mai.n kitanaa tujhe tujhako nahii.n hai pataa
+Darataa hai dil jaa_o sanam yuu.n naa mujhe chaaho sanam
+ham jo hu_e milake judaa socho zaraa phir hogaa kyaa
+abhii to mile ho na tum aisaa socho
+merii chaahato.n kaa yuu.n rastaa na roko
+ho ye merii zi.ndagii \threedots
+
+tere sivaa ab mujhe kuchh yaad aataa nahii.n
+betaab rahataa huu.n mai.n kyuu.n dard jaataa nahii.n
+diivaanagii mushkil ba.Dii mai.n kyaa karuu.n mujhako bataa
+is dard kii kyaa hai davaa tuu jo kahe maa.nguu.n du_aa
+ho ye dil hai diivaanaa nahii.n maanataa hai
+sivaa ishq ke kuchh nahii.n jaanataa hai
+hai ye merii zi.ndagii \threedots
+%
+#endindian
+\endsong
+

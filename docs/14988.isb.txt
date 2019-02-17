@@ -1,0 +1,60 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Dar laage duniyaa se balamaa ho, ulfat na bane afasaanaa}%
+\film{Buzdil}%
+\year{1951}%
+\starring{Kishore Sahu, Nimmi, Premnath}%
+\singer{Lata, Talat}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	( Dar laage duniyaa se balamaa ho
+	ulfat na bane afasaanaa ) \-2
+ta \:	Gam kyuu.N ho \-2
+	tere saath\-saath teraa diiwaanaa
+	tuu diipak mai.n huu.N parawaanaa
+la \:	Dar laage duniyaa se balamaa ho
+	ulfat na bane afasaanaa
+
+	o
+	mujhe kar de na ko_ii tujhase judaa
+	Daratii huu.N bahut duniyaa se
+ta \:	ho o
+	kab hotii hai dil se dha.Dakan judaa
+	kam nagamaa judaa biinaa se
+la \:	sun bhole
+	sun bhole sajanaa ho
+	duniyaa ko nahii.n samajhaanaa
+
+ta \:	Gam kyuu.N ho \-2
+	tere saath\-saath teraa diiwaanaa
+	tuu diipak mai.n huu.N parawaanaa
+la \:	Dar laage duniyaa se balamaa ho
+	ulfat na bane afasaanaa
+
+ta \:	ho
+	aajaa sapano.n me.n jiiwan yuu.N chho.D de.n
+	bahe jaise nadii me.n paanii
+la \:	o
+	merii himmat ba.Dhaaye rahanaa sajan
+	nadiyaa hai ba.Dii tuufaanii
+ta \:	tuufaa.N se ghabaraa mat jaanaa ho
+	yuu.N hii ulfat kii naav chalaanaa
+la \:	sun balamaa
+	sun balamaa
+	pa.De saath\-saath chaahe mar jaanaa
+	hame.n ab to hai pyaar nibhaanaa
+ta \:	Gam kyuu.N ho \-2
+	tere saath\-saath teraa diiwaanaa
+	tuu diipak mai.n huu.N parawaanaa
+la \:	Dar laage duniyaa se balamaa ho
+	ulfat na bane afasaanaa
+
+#endindian
+\endsong

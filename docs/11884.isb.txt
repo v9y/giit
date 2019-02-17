@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{biite nahii.n raat sanam karo ko_ii baat sanam}%
+\film{Hum Matwale Naujawan}%
+\year{1961}%
+\starring{Shekhar, Saeeda Khan, Jivan, Lilian, Mirza Musharraf, Tuntun}%
+\singer{Mukesh, Geeta}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10121 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+gii \:	biite nahii.n raat sanam karo ko_ii baat sanam
+	duniyaa so_e hame.n nii.nd laage naa
+mu \:	mile bhii to duur se ham ko_ii dekhe ye sitam
+	mai.n to jaaguu.N merii taqadiir jaage naa
+
+	maano sanam kaTegii ye raat nahii.n jo hamii.n saath nahii.n
+gii \:	kyaa hu_aa jo teraa meraa saath nahii.n ye ko_ii baat nahii.n
+mu \:	naa bano jii diye dete hai.n gavaahii tere nainaa
+gii \:	biite nahii.n raat sanam \threedots
+
+	khi.Dakii khulii chandaa nazar aa hii gayaa mujhe ta.Dapaa hii gayaa
+mu \:	naam teraa zubaa.N par laharaa hii gayaa lab tak aa hii gayaa	
+gii \:	jo labo.n pe hai vo kah de jo hai dil me.n vo na kahanaa
+mu \:	mile bhii to duur se \threedots 
+	
+	raat Dhalii chaa.Ndaniyaa.n zard bhii hai ye havaa sard bhii hai
+gii \:	haa.N ai piyaa havaa zaraa sard bhii hai dil me.n kuchh dard bhii hai
+mu \:	na kahaa thaa merii jaa.n hamase kabhii duur na rahanaa
+gii \:	biite nahii.n raat sanam \threedots
+%
+#endindian
+\endsong
+

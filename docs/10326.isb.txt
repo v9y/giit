@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{raahii naye\-naye rastaa nayaa\-nayaa}%
+\film{Aanand Aashram}%
+\year{1977}%
+\starring{Uttam Kumar, Sharmila Tagore}%
+\singer{Kishor}%
+\music{Shyamal Mitra}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10370 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+raahii naye\-naye rastaa nayaa\-nayaa
+tum naa badalii.n mai.n naa badalaa sab\-kuchh badal gayaa
+raahii naye\-naye \threedots
+
+yaad suhaanii bachapan kii patthar pe khi.nchii rekhaa
+pahalaa\-pahalaa pyaar dilo.n se miTate nahii.n dekhaa
+tuufaan samay ke bujhaa na sake diip jalaa to jalaa
+tum naa badalii.n \threedots
+
+vaqt ke saath badal jaa_e use pyaar nahii.n kahate
+jo har mo.D pe mu.D jaa_e use yaar nahii.n kahate
+yaar vahii jo saathii ban kar dukh me.n saath chalaa \-2
+tum naa badalii.n \threedots
+%
+#endindian
+\endsong
+

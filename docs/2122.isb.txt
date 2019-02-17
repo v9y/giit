@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kal ke chaa.Nd aaj ke sapane}%
+\film{Nai Raahen}%
+\year{1959}%
+\starring{}%
+\singer{Hemant, Lata}%
+\music{Ravi}%
+\lyrics{Shailendra}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+he: kal ke chaa.Nd aaj ke sapane tum ko pyaar bahut saa pyaar
+do: kal ke chaa.Nd aaj ke sapane tum ko pyaar bahut saa pyaar
+he: laal tumhaare hii dam se kal jagamag hogaa ye sa.nsaar \threedots
+
+he: aa.Nkh michaulii khele.nge kal tumase aa.ngan meraa
+    sa.ng tumhaare lauT aayegaa
+    ruuThaa bachapan meraa (2)
+    ab tutalaakar baat kare.nge ye daravaaze ye diivaar
+la: laal tumhaare hii dam se kal jagamag hogaa ye sa.nsaar \threedots
+
+la: nain tumhaare chaa.Nd aur suuraj (2)
+    phuul se jiivan jyotii
+    sadaa mere palako.n me rahanaa merii man kii motii
+    ek baar maa.N kahane par ham nyauchhaavar ho.nge sau baar
+he: laal tumhaare hii dam se kal jagamag hogaa ye sa.nsaar \threedots 
+
+%
+#endindian
+\endsong
+%

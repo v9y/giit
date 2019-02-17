@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dhiire dhiire Dhal rii chandaa dhiire dhiire Dhal}%
+\film{Angulimal}%
+\year{1960}%
+\starring{}%
+\singer{Arti Mukherji}%
+\music{Anil Biswas}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Surajit Bose
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+dhiire dhiire Dhal rii chandaa dhiire dhiire Dhal
+aaj kii ye raat mand phir na aaye kal
+o chandaa dhiire dhiire Dhal \threedots
+
+svapn bachapan ke adhuure
+ho rahe.nge aaj puure
+phir na jaane kab aaye.nge ye sunahare pal
+o chandaa dhiire dhiire Dhal \threedots
+
+priit kii dulhan sajii hai
+man me.n shahanaa_ii bajii hai
+aaj ghulane de nayan me.n raat kaa kaajal
+o chandaa dhiire dhiire Dhal \threedots
+
+%
+#endindian
+\endsong
+%

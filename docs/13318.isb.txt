@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aa dil se dil milaa le is dil me.n ghar basaa le}%
+\film{Navrang}%
+\year{1959}%
+\starring{Mahipal, Sandhya}%
+\singer{Asha}%
+\music{C Ramchandra}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #11447 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+( aa dil se dil milaa le ) \-2 is dil me.n ghar basaa le
+o rasiyaa man\-basiyaa aajaa gale lagaa le
+aa dil se dil \threedots
+
+dil ke chaman me.n kab se bulabul chahak rahii hai \-2
+phuulo.n ke is badan me.n Kushbuu mahak rahii hai \-2
+ka.nganaa me.n mere laakho.n aramaa.N chamak rahe hai.n \-2
+( a.Nganaa me.n tere saajan ) \-2 ghu.Ngharuu jhanak rahe hai.n
+aa dil se dil \threedots
+
+chamake.nge laakh chandaa ye raat phir naa aa_e \-2
+ho.ngii hazaar baate.n ye baat phir naa aa_e \-2
+saajan yuu.N sa.ng tan ke man saath phir naa aa_e \-2
+( navara.ng saa ra.ngiilaa ) \-2 prabhaat phir naa aa_e
+aa dil se dil \threedots
+%
+#endindian
+\endsong
+

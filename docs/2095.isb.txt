@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jaa rii jaa rii o kaarii badariyaa}%
+\film{Azad}%
+\year{1955}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+jaa rii jaa rii o kaarii badariyaa
+mat baraso re merii nagariyaa
+parades gaye hai.n saa.Nvariyaa
+jaa rii jaa rii   \threedots
+
+kaahe ghir ghir shor machaaye rii
+meraa naram karejavaa jalaaye rii
+meraa manavaa jale, koii bas na chale
+haay! tak tak ke suunii Dagariyaa
+jaa rii jaa rii   \threedots
+
+ja_iyo ja_iyo rii desh piyaa ke
+kahiyo dukha.De tuu mere jiyaa ke
+kahiyo chham chham roye, akhiyaa.N na soye
+huii yaad me.n pii kii baa.Nvariyaa
+jaa rii jaa rii   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ye raate.n na_ii puraanii aate aate\-jaate}%
+\film{Julee}%
+\year{1975}%
+\starring{Vikram, Lakshmi}%
+\singer{Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10409 [V S Rawat]
+% Transliterator: 
+% Comments: LATAnjali series:
+% 
+\printtitle
+#indian
+%
+ye raate.n na_ii puraanii \-2
+aate aate\-jaate kahatii hai.n ko_ii kahaanii
+ye raate.n \threedots
+
+aa rahaa hai dekho ko_ii jaa rahaa hai dekho ko_ii
+sabake dil hai.n jaage\-jaage sabakii aa.Nkhe.n kho_ii\-kho_ii
+Kaamoshii karatii hai baate.n
+ye raate.n \threedots
+
+kyaa samaa.N hai jaise Kushbuu u.D rahii ho kaliyo.n se
+guzarii ho ni.ndiyaa me.n palako.n kii galiyo.n se
+sundar sapano.n kii baaraate.n
+ye raate.n \threedots
+
+kaun jaane kab chale.ngii kis taraf se ye havaa_e.N
+saal bhar to yaad rakhanaa aisaa na ho bhuul jaa_e.N
+is raat kii mulaakaate.n
+ye raate.n \threedots
+%
+#endindian
+\endsong
+

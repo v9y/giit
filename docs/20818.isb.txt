@@ -1,0 +1,37 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{tuune hame.n kyaa diyaa rii zindagii}%
+\film{Zindagi Zindagi}%
+\year{1972}%
+\starring{Sunil Dutt, Waheeda Rehman}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: 
+% Tags: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 7 Sep 2006
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+tuune hame.n kyaa diyaa rii zindagii
+hamane maa.Ngii to milii naa maut bhii
+
+Kaalii haath aa_e the Kaalii haath ham chale dilajale
+hamane chaahe the phuul hii hamane paa_ii naa dhuul bhii
+
+naa diyaa naa kiraN man kaa ye suunaapan phuu.Nke tan
+duur galiyo.n me.n raat bhar jhilamilaatii hai chaa.Ndanii
+
+haa.N, bevafaa beKabar be_iimaan beqadar tuu magar
+giit gaataa hai tere hii duniyaa me.n har aadamii
+%
+#endindian
+\endsong

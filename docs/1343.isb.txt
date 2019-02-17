@@ -1,0 +1,51 @@
+% 
+\startsong
+\stitle{nigaahe.n milaane ko jii chaahataa hai}%
+\film{Dil Hi To Hai}%
+\year{}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Asha}%
+\music{Roshan}%
+\lyrics{Sahir}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+  \threedots raaz kii baat hai
+  mehafil me.n kahe.n yaa na kahe.n 
+  bas gayaa hai koii is dil me.n kahe.n yaa na kahe.n
+  kahe.n yaa na kahe.n \threedots
+ 
+nigaahe.n milaane ko jii chaahataa hai
+dil\-o\-jaa.n luTaane ko jii chaahataa hai
+ 
+vo tohamat jise ishq kahatii hai duniyaa
+vo tohamat uThaane ko jii chaahataa hai
+ 
+kisii ke manaane me.n lazzat vo paayii 
+ki phir ruuTh jaane ko jii chaahataa hai
+ 
+vo jalavaa jo ojhal bhii hai saamane bhii
+vo jalavaa churaane ko jii chaahataa hai
+ 
+o\threedots jis gha.Dii merii nigaaho.n ko terii diid huii
+vo gha.Dii mere liye aish kii tamahiid huii
+jab kabhii mai.nne teraa chaa.Nd saa cheharaa dekhaa
+iid ho yaa ki na ho mere liye iid huii
+vo jalavaa jo ojhal bhii hai saamane bhii
+vo jalavaa churaane ko jii chaahataa hai
+ 
+mulaaqaat kaa koii paiGaam diijiye kii
+chhup chhupake aane ko jii chaahataa hai
+aur aake na jaane ko jii chaahataa hai
+aur aake na jaane ko jii chaahataa hai
+nigaahe.n milaane ko jii chaahataa hai
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{Kuubasuurat hasiinaa jaan\-e\-jaa.N jaan\-e\-man}%
+\film{Mr. X in Bombay}%
+\year{1964}%
+\starring{Kishore, Kumkum}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10951 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	Kuubasuurat hasiinaa jaan\-e\-jaa.N jaan\-e\-man
+	ra.ng jisake labo.n kaa Dhuu.NDhataa hai chaman
+	tuu nahii tuu nahii.n vo hasii.n to sanam ko_ii aur hii hai
+la \:	Kuubasuurat diivaanaa jaan\-e\-jaa.N jaan\-e\-man
+	sun ke jisake fasaane jhuum uThaa meraa man
+	tuu nahii tuu nahii.n vo hasii.n to sanam ko_ii aur hii hai
+
+ki \:	kal vo milii thii to shab baato.n me.n Dhalii thii
+la \:	ho mujhe chhe.Do naa aise to bataa do kaun thii vo
+ki \:	( ha haa ) \-2 naazo.n palii thii vo shabanam thii yaa kalii thii 
+	ho ho ho ho ho ho
+	jaisii vo thii vaisii
+	tuu nahii tuu nahii.n \threedots
+la \:	Kuubasuurat diivaanaa \threedots
+
+	Kvaabo.n me.n aksar vo aane\-jaane lagaa hai
+ki \:	o chalo chho.Do rahane do nahii.n ye dillagii achchhii
+la \:	is dillagii me.n ye dil jal jaane lagaa hai
+	ho ho ho ho ho ho
+	kaise kah duu.N tuu hai
+	tuu nahii tuu nahii.n \threedots
+ki \:	Kuubasuurat hasiinaa \threedots
+
+	jhuume nazaare agar vo zulfe.n savaare
+la \:	o meraa dil naa jalaa sun le
+	mere badale use chun le
+ki \:	( haa haa ) \-2 samajhii nahii.n tuu terii jaanib hai.n ishaare
+	ho ho ho ho ho ho
+	haa.N haa.N tuu hii hai vo
+do \:	tuu nahii tuu nahii.n \threedots
+ki \:	Kuubasuurat hasiinaa \threedots
+la \:	sun ke jisake fasaane \threedots
+do \:	tuu nahii tuu nahii.n vo hasii.n to sanam ( teraa pyaar hai ) \-2
+%
+#endindian
+\endsong
+

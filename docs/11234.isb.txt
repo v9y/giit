@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{dekh liyaa maine qisamat kaa tamaashaa dekh liyaa}%
+\film{Deedaar}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Ashok Kumar, Nimmi}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10618 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+ra \:	dekh liyaa maine
+	qisamat kaa tamaashaa dekh liyaa
+	ik aaG bujhii
+	ik aaG lagii
+	aa.Nkho.n ne merii kyaa dekh liyaa
+
+la \:	dekh liyaa maine
+	saajan teraa vaadaa dekh liyaa
+	rasate pe huu.N mai.n
+	ma.nzil pe hai tuu
+	ye pyaar kaa naataa dekh liyaa
+	dekh liyaa maine
+
+ra \:	aayaa mai.n kisii kii mahafil me.n
+	mahafil me.n
+	tuufaan liye laakho.n dil me.n
+	milakar bhii rahaa mai.n mushkil me.n
+	milane kaa natiijaa dekh liyaa
+	ik aaG bujhii
+	ik aaG lagii
+	aa.Nkho.n ne merii kyaa dekh liyaa
+	dekh liyaa maine
+
+la \:	chhupate hii tere o chaa.Nd mere
+	o chaa.Nd mere
+	suuraj bhii na nikalaa aa.Ngan me.n
+	phir Gam kii a.Ndherii raat hu_ii
+	do din kaa ujaalaa dekh liyaa
+	rasate pe huu.N mai.n
+	ma.nzil pe hai tuu
+	ye pyaar kaa naataa dekh liyaa
+	dekh liyaa maine
+	dekh liyaa maine
+	saajan teraa vaadaa dekh liyaa
+ra \:	dekh liyaa maine
+	qisamat kaa tamaashaa dekh liyaa
+%
+#endindian
+\endsong
+

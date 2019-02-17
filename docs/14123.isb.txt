@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{dil meraa kho gayaa ... kho jaane do}%
+\film{Seemaa}%
+\year{1971}%
+\starring{Simi Garewal, Kabir Bedi, Bharati, Rakesh Roshan}%
+\singer{Kishor, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11188 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	dil meraa kho gayaa
+aa \:	kho jaane do
+ki \:	pyaar ab ho gayaa
+aa \:	ho jaane do
+
+aa \:	dil meraa kho gayaa
+ki \:	kho jaane do
+aa \:	pyaar ab ho gayaa
+ki \:	ho jaane do
+
+aa \:	dil meraa kho gayaa \threedots
+
+	aa.Nchal se lipaTo naa zulfe.n u.Daa_o naa
+	duur se baat karo gale lagaa_o naa
+	aa.Nchal se lipaTo naa
+ki \:	naa naa
+aa \:	zulfe.n u.Daa_o naa
+ki \:	naa naa
+aa \:	duur se baat karo gale lagaa_o naa
+ki \:	pyaar kii baat nahii.n ye bhii ko_ii baat hai
+	haatho.n me.n haath nahii.n kaisaa ye saath hai
+aa \:	ruup sharamaa gayaa
+ki \:	sharamaane do
+	pyaar ab ho gayaa \threedots
+
+ki \:	gore maathe pe aisaa Tiikaa suhaanaa hai
+	phuul pe soyaa jaise shabanam kaa daanaa hai
+	gore maathe pe aisaa
+aa \:	naa naa
+ki \:	Tiikaa suhaanaa hai
+aa \:	naa naa
+ki \:	phuul pe soyaa jaise shabanam kaa daanaa hai
+aa \:	karake taariif merii mujhako banaa_o naa
+	asalii jo baat hai vo baat banaa_o naa
+ki \:	dil me.n kuchh ho rahaa
+aa \:	ho jaane do
+ki \:	pyaar ab ho gayaa \threedots
+%
+#endindian
+\endsong
+

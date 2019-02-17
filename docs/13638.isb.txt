@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{mai.n tujhe pyaar karuu.Ngaa to ... dono.n kisii ko nazar nahii.n aa_e}%
+\film{Prem Kahaani}%
+\year{1975}%
+\starring{Rajesh Khanna, Mumtaz, Shashi Kapoor}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11564 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	mai.n tujhe pyaar karuu.Ngaa to terii yaad aa_egii
+	terii yaad aa_egii to 
+
+	dono.n kisii ko nazar nahii.n aa_e
+	chal dariyaa me.n Duub jaa_e.N
+
+la \:	baaqii abhii hai.n kitanii hii batiyaa.N
+	baiTh ga_e kyo.n pher ke a.Nkhiyaa.N
+	hamaare nain mile.nge to dil dha.Dake.nge
+	dil dha.Dake.nge to shole bha.Dake.nge
+	shole bha.Dake.nge to aag lag jaa_egii
+	aag lag jaa_egii to to to
+ki \:	kaise dilo.n kii aag bujhaa_e.N
+	chal dariyaa me.n \threedots
+
+	tuune lagaayaa aa.Nkh me.n kajaraa
+	kyuu.N nahii.n baa.Ndhaa baalo.n me.n gajaraa
+	terii zulf u.Degii to ghaTaa chhaa jaa_egii
+	ghaTaa chhaa jaa_egii to paanii barasegaa
+	paanii barasegaa to man tarasegaa
+	man tarasegaa to to to
+la \:	muft me.n man ko kyo.n ta.Dapaa_e.N
+	chal dariyaa me.n \threedots
+do \:	chal dariyaa me.n \threedots
+%
+#endindian
+\endsong
+

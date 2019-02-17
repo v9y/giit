@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mai.n huu.N tere pyaar me.n paagal jaan\-e\-jaa.n aahaa}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Anuradha Paudwal, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n huu.N tere pyaar me.n paagal jaan\-e\-jaa.n aahaa aahaa
+Dhalakaa jaa_e meraa aa.Nchal jaan\-e\-jaa.n aahaa aahaa
+##I love you. I love you.## tuu tuu tuu tuu
+
+gusse me.n bhii pyaar hai ruuThanaa bekaar hai
+tere mere biich me.n parade kii diivaar hai
+Dhal naa jaa_e mastaanaa pal jaan\-e\-jaa.n aahaa aahaa
+are mai.n huu.N tere \threedots
+
+tuu ba.Daa bedard hai jaane kaisaa mard hai
+garm kar saa.Nse.n merii dekh mausam sard hai
+bahakaa jaa_e meraa kaajal jaan\-e\-jaa.n aahaa aahaa
+mai.n huu.N tere \threedots
+%
+#endindian
+\endsong
+

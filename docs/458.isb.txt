@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dhiire dhiire bol koii sun naa le, sun naa le koii sun naa le}%
+\film{Gora Aur Kaala}%
+\year{}%
+\starring{Rajendra Kumar, Hema Malini}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%INCOMPLETE
+dhiire\-dhiire bol koii sun na le, sun na le koii sun na le
+sej se kaliyaa.N chun na le, chun na le koii chun na le
+hamako kisii kaa Dar nahii.n
+koii zor javaanii par nahii.n
+dhiire\-dhiire\threedots
+
+kuchh kah le kuchh kar le ye sa.nsaar
+ham premii hai.n ham to kare.nge pyaar
+koii dekh le to dekh le, koii jaan le to jaan le
+koii dosh hamaare sar nahii.n, koii zor\threedots
+
+baato.n ke badale aa.Nkho.n se lo kaam
+varanaa ham ho jaaye.nge re badanaam
+naadaan tum a.njaan tum beiimaan tum ? tum
+kyuu.N chain tumhe.n pal bhar nahii.n, koii zor\threedots
+
+ek\-ek din ab lagataa hai ek saal
+tere bin ab meraa bhii hai yahii haal
+aa pyaar kar duniyaa se Dar mat duur jaa mat paas aa
+mai.n shiishaa huu.N patthar nahii.n, koii zor\threedots
+%
+#endindian
+\endsong
+%

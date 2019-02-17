@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{diye jalate hai.n, phuul khilate hai.n, ba.Dii mushkil se magar}%
+\film{Namak Haraam}%
+\year{1973}%
+\starring{Amitabh, Rajesh Khanna}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@cliff.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+diye jalate hai.n, phUl khilate hai.n
+ba.Dii mushkil se magar, duniyaa me.n log milate hai.n
+
+jab jis vaqt kisiikaa, yaar judaa hotaa hai.n
+kuchh naa pUchho yaaro.n dil kaa, haal buraa hotaa hai
+dil pe yaado.n ke jaise, tiir chalate hai.n
+diye \threedots
+
+daulat aur javaanii, ek din kho jaatii hai,
+sach kahataa huu.N, saarii duniyaa 
+dushman ban jaatii hai
+umr bhar dost lekin, saath chalate hai.n
+diye \threedots
+
+is ra.Ng\-dhuup pe dekho, haragij naaz naa karanaa,
+jaan bhii maa.Nge, yaar to de denaa, naaraaz naa karanaa
+ra.Ng u.D jaate hai.n, dhuup Dhalate hai.n
+diye \threedots
+%
+#endindian
+\endsong
+%

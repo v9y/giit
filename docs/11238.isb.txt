@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{pate kii baat kahegaa kahegaa jab bhii diivaanaa}%
+\film{Diwana}%
+\year{1967}%
+\starring{Raj Kapoor, Saira Bano, Kanhaiyyalal}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11052 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+pate kii baat kahegaa kahegaa jab bhii diivaanaa
+merii suurat pe naa jaanaa
+pate kii baat kahegaa \threedots
+
+vahaa.N kuchh der hai pyaare nahii.n a.ndher hai pyaare
+jo tujhako na dikhaa_ii de nazar kaa pher hai pyaare
+tuu bahakaave me.n na aanaa hai usakaa sab jag jaanaa
+merii suurat pe naa \threedots
+
+chaar ke aaTh tuu kar le aaTh se saaTh tuu kar le
+rahegaa phir bhii ye khaalii peT ko laakh tuu bhar le
+siikh le man ko manaanaa sabar se kaam chalaanaa
+merii suurat pe naa \threedots
+
+jo na talavaar se hogaa vo pal me.n pyaar se hogaa
+na kar paa_e.Nge jo laakho.n vo ek diladaar se hogaa
+sabhii se pyaar nibhaanaa hai apanaa chalan puraanaa
+merii suurat pe naa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dhiire dhiire dhiire mujhako sanam mujhase churaa le}%
+\film{Khilaadi 420}%
+\year{2000}%
+\starring{Akshay Kumar, Mahima Chaudhary}%
+\singer{Udit Narayan, Mahalakshmi}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dhiire dhiire dhiire mujhako sanam mujhase churaa le
+chorii chorii dilajaanii mujhe garavaa lagaa le
+ab ik pal bhii na duurii sahii jaa_e
+terii yahii baat meraa jiyaa ta.Dapaa_e
+dhiire dhiire dhiire \threedots
+
+khan khan khan khanake chuu.Dii nain lajaa_e
+chhan chhan chhan chhanake paayal paas bulaa_e
+kasam tujhe dekh na mujhe aise pyaar se
+jaan\-e\-adaa sharm na kar apane yaar se
+dhiire dhiire dhiire \threedots
+
+kuchh kuchh kuchh hone lagaa dil me.n hamaare
+javaa.n javaa.n rut chhe.De hame.n kar ke ishaare
+aa_e na mujhe nii.nd zaraa jaaguu.n raat bhar
+terii merii jo na hu_ii ab vo baat kar
+dhiire dhiire dhiire \threedots
+%
+#endindian
+\endsong
+

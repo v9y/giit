@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{jhil-mil sitaaro.n kaa aa.ngan hogaa}%
+\film{Jeevan Mrityu}%
+\year{1970}%
+\starring{Dharmendra, Rakhee}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%	   Himanshu Gupta (hgupta@db.stanford.edu)
+% Editor:  Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%
+\printtitle
+#indian
+%
+r: jhilamil sitaaro.n kaa aa.Ngan hogaa
+   rimajhim barasataa saavan hogaa
+   aisaa su.ndar sapanaa apanaa jiivan hogaa
+l: jhilamil sitaaro.n kaa aa.Ngan hogaa \threedots
+
+r: prem kii galii me.n ek chhoTaa saa ghar banaae.nge
+   kaliyaa.N naa mile naa sahii kaa.NTo.n se sajaae.nge
+   bagiyaa.N se su.ndar vo ban hogaa
+   rimajhim barasataa saavan hogaa
+
+l: jhilamil sitaaro.n kaa aa.Ngan hogaa 
+r: rimajhim barasataa saavan hogaa
+
+l: terii aa.Nkho.n se saaraa sa.nsaar mai.n dekhuu.Ngii
+   dekhuu.Ngii is paar yaa us paar mai.n dekhuu.Ngii
+   naino.n ko teraa hii darshan hogaa
+   rimajhim barasataa saavan hogaa
+
+l: jhilamil sitaaro.n kaa aa.Ngan hogaa 
+r: rimajhim barasataa saavan hogaa
+
+r: phir to mast havaao.n ke ham jhoke ban jaae.nge
+l: nainaa sundar sapano.n ke jharokhe ban jaae.nge
+   man aashaao.n kaa darpaN hogaa
+   rimajhim barasataa saavan hogaa
+
+dono.n: rimajhim sitaaro.n kaasaavan hogaa
+        jhilamil sitaaro.n kaaa saavan hogaa
+
+## Sad version ##
+roe.ngii ye aa.Nkhe.n phir bhii mai.n to muskuraauu.Ngii
+duHkh ke tuufaano.n se bhii mai.n naa ghabaraauu.Ngii
+jab saath mere meraa saajan hogaa
+rimajhim barasataa saavan hogaa
+
+%
+#endindian
+\endsong
+%

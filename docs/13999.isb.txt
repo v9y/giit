@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n ka.nganaa khanakaa_uu.n tum giit likho}%
+\film{Sangeet}%
+\year{1992}%
+\starring{Jackie, Madhuri, Aruna Irani, Shafi, Nitish, Anjan Shrivastava, Asha Sharma}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n ka.nganaa khanakaa_uu.n tum giit likho
+mai.n paayal chhanakaa_uu.n tum giit likho
+mai.n bi.ndiyaa chamakaa_uu.n tum giit likho
+mai.n ka.nganaa khanakaa_uu.n \threedots
+
+kaalii kaalii laT bikharaa duu.N
+aa.nchal ke baadal ko u.Daa duu.N
+yauvan kii madiraa chhalakaa duu.N
+a.ng a.ng ko mai.n chhand banaa duu.N
+mai.n saj dhaj ke aa_uu.N tum giit likho
+mai.n ka.nganaa khanakaa_uu.n \threedots
+
+saa.Nso.n me.n aake bas jaa_uu.N
+man ke so_e bhaav jagaa_uu.n
+kavitaa ban ke aise rijhaa_uu.n
+amar kavi mai.n tumako banaa_uu.n
+mai.n gajaraa mahakaa_uu.n tum giit likho
+mai.n ka.nganaa khanakaa_uu.n \threedots
+%
+#endindian
+\endsong
+

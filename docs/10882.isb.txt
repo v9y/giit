@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{o o terii aa.Nkho.n me.n pyaar maine dekh liyaa}%
+\film{Chaand Mere Aajaa}%
+\year{1960}%
+\starring{Bharat Bhushan, Nanda, Lalita Pawar, Johny Walker, Veena, Sapru}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10110 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	o o terii aa.Nkho.n me.n pyaar maine dekh liyaa gorii tuu laakh chhupaa
+la \:	tuu bhii hai beqaraar maine dekh liyaa sai.nyaa na baat banaa
+
+ra \:	jhukii\-jhukii palake.n uThaa_o zaraa gorii
+la \:	a.Nkhiyaa.N na Daalo sai.nyaa a.Nkhiyo.n me.n morii
+ra \:	ab to mai.n jaan gayaa gorii terii chorii
+	terii aa.Nkho.n me.n pyaar \threedots
+
+la \:	dhiire\-dhiire chalanaa ye raahe.n anajaanii
+ra \:	bachapan biitaa kaise biitegii javaanii
+la \:	mai.n huu.N naadaan mai.n na jaanii ye kahaanii
+	tuu bhii hai beqaraar \threedots
+
+ra \:	kaahe terii batiyaa.N lage hai.n ba.Dii pyaarii
+la \:	maine bhii tere li_e sudh hai bisaarii
+ra \:	isako hii pyaar kahe duniyaa ye saarii
+	terii aa.Nkho.n me.n pyaar \threedots
+%
+#endindian
+\endsong
+

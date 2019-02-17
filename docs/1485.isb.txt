@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pyaar par bas to nahii.n hai meraa, lekin phir bhii}%
+\film{Sone Ki Chidiya}%
+\year{1958}%
+\starring{Balraj Sahni, Nutan, Talat}%
+\singer{Talat, Asha}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pyaar par bas to nahii.n hai meraa, lekin phir bhii
+tuu bataa de ke tujhe pyaar karuu.N yaa naa karuu.N
+
+mere Kvaabo.n ke jharokho.n ko sajaane vaalii
+tere Kvaabo.n me.n kahii.n meraa guzar hai ke nahii.n
+puuchh kar apanii nigaaho.n se bataa de mujhako 
+merii raato.n ke muqaddar me.n sahar hai ke nahii.n
+pyaar par bas to nahii.n hai \threedots
+
+kahii.n aisaa na ho paao.n mere tharraa jaae.n
+aur terii maramarii baaho.n kaa sahaaraa na mile
+ashk bahate rahe khamosh siyaah raato.n me.n
+aur tere reshamii aa.nchal kaa kinaaraa na mile
+pyaar par bas to nahii.n hai \threedots
+%
+#endindian
+\endsong
+%

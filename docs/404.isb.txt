@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{chhupanevaale saamane aa, chhup chhup ke meraa jii na jalaa}%
+\film{Tumsa Nahin Dekha}%
+\starring{Shammi Kapoor, Ameeta}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Abdul Razak
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhupane vaale saamane aa
+chhup chhup ke meraa jii na jalaa
+suuraj se kiran baadal se pavan
+kab talak chhupegii ye to bataa
+chhupane vaale saamane aa \threedots
+
+aakhir tere naaz kii ye
+haar nahii.n to aur hai kyaa
+dau.D ke aanaa paas mere
+pyaar nahii.n to aur hai kyaa
+duur kha.Dii hairaan hai kyaa
+daa.Nto.n me.n yuu.N u.ngalii na dabaa
+chhupane vaale saamane aa \threedots
+
+aa lipaTii hai dil se mere
+zulf terii bal khaaii huI
+dekh rahaa huu.N terii nazar
+apanii nazar tak aa_I huI
+gaalo.n par zulfe.n na giraa
+tuu hai qayaamat mai.n huu.N balaa
+chhupane vaale saamane aa \threedots
+
+%
+#endindian
+\endsong
+%

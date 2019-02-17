@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{haatho.n me.n haath ho.nTho.n pe afasaane pyaar ke}%
+\film{Door Ki Awaz}%
+\year{1964}%
+\starring{Joy Mukherjii, Saira Bano, Om Prakash, Pran, Johny Waker, Manorama}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10691 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	haatho.n me.n haath ho.nTho.n pe afasaane pyaar ke \-2
+	ma.nzil ko apanii chal di_e diivaane pyaar ke \-2
+ra \:	dil kii raaho.n me.n aajaa in nigaaho.n me.n aajaa
+	ai mere dil kii duniyaa merii baa.Nho.n me.n aajaa
+
+aa \:	aisii madahoshii kyaa itanii betaabii kyaa hai
+	saamane jab hai ma.nzil phir tumhe.n zaldii kyaa hai
+ra \:	rah\-rah ke chhalake jaate hai.n paimaane pyaar ke
+	ma.nzil ko apanii \threedots
+do \:	haatho.n me.n haath \threedots
+
+ra \:	kab se diivaanaa thaa dil teraa paravaanaa thaa dil
+	kar diyaa tujhape sadake teraa nazaraanaa thaa dil
+aa \:	dil kaa afasaanaa kah ke pyaar kii dhun me.n rah ke
+	mai.n bhii huu.N kho_ii\-kho_ii tum bhii ho bahake\-bahake
+do \:	mastii me.n Duube jaate hai.n mastaane pyaar ke
+	ma.nzil ko apanii \threedots
+	haatho.n me.n haath \threedots
+%
+#endindian
+\endsong
+

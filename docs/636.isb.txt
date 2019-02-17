@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{gum hai kisii ke pyaar me.n, dil subah shaam}%
+\film{Raampur Ka Lakshman}%
+\year{}%
+\starring{Randhir, Rekha}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai 
+% Credits: Srinivas (gt0632c@prism.gatech.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kishor:  gum hai kisii ke pyaar me.n, dil subah shaam
+par tumhe.n likh nahii.n paa_uu.N, mai.n usakaa naam
+haay raam, haay raam
+ra.ndhiir:  kuchh likhaa?
+rekhaa:  haa.N
+ra.ndhiir:  kyaa likhaa? 
+lataa:   gum hai kisii ke pyaar me.n, dil subah shaam
+par tumhe.n likh nahii.n paa_uu.N, mai.n usakaa naam
+haay raam, haay raam
+rekhaa:   achchhaa, aage kyaa likhuu.N?
+ra.ndhiir:  aage? 
+
+kishor:  sochaa hai ek din mai.n usase milake
+kaha Daaluu.N apane sab haal dil ke
+aur kar duu.N jiivan usake havaale
+phir chho.D de chaahe apanaa banaa le
+ab to jaise bhii meraa ho a.njaam
+
+gum hai kisii ke pyaar me.n, dil subah shaam
+par tumhe.n likh nahii.n paa_uu.N, mai.n usakaa naam, 
+haay raam, haay raam
+ra.ndhiir:  likh liyaa?
+rekha:  haa.N
+ra.ndhiir:  zaraa pa.Dhake to sunaao
+
+lataa: chaahaa hai tumane jis baavarii ko
+vo bhii sajanavaa chaahe tumhii.n ko
+nainaa uThaae to pyaar samajho
+palake.n jhukaa de to iqaraar samajho
+rakhatii hai kab se chhupaa chhupaa ke
+ra.ndhiir:  kyaa?
+lataa:  apane ho.nTho.n me.n piyaa teraa naam
+
+gum hai kisii ke pyaar me.n, dil subah shaam
+par tumhe.n likh nahii.n paa_uu.N, mai.n usakaa naam
+haay raam, haay raam
+%
+#endindian
+\endsong
+%

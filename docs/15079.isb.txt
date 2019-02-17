@@ -1,0 +1,43 @@
+% ITRANS SONG # 15079; Created on Aug 16, 2004
+
+\startsong
+\stitle{dil ko lagaa ke kahii.n Thokar na khaanaa}%
+\film{Beqarar (Pakistani-Film)}%
+\year{1950}%
+\starring{}%
+\singer{Munawwar Sultana, Zahoor}%
+\music{}%
+\lyrics{}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 13, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+mu \:	dil ko lagaa ke kahii.n
+	dil ko lagaa ke kahii.n Thokar na khaanaa
+	zaalim zamaanaa hai ye zaalim zamaanaa
+za \:	kisako sunaa_uu.N apane Gam kaa fasaanaa
+	zaalim zamaanaa hai ye zaalim zamaanaa
+
+mu \:	nishaa.N tak bhii teraa miTaa degii duniyaa
+	bahaaro.n se pahale jalaa degii duniyaa \-2
+	tere hii saamane teraa aashiyaanaa
+	zaalim zamaanaa hai ye zaalim zamaanaa
+
+za \:	Kush hai zamaanaa mujhako naasaaz karake
+	merii aarazuu kii duniyaa barabaad karake \-2
+	kahataa hai aahe.n bharanaa aa.Nsuu bahaanaa
+	zaalim zamaanaa hai ye zaalim zamaanaa
+
+do \:	( do dil mile.n to ko_ii milane na degaa
+	kaliyaa.N tamannaa_o.n kii khilane na degaa ) \-2
+	dil me.n ummiido.n kii na duniyaa basaanaa \-2
+	zaalim zamaanaa hai ye zaalim zamaanaa
+
+	dil ko lagaa ke kahii.n Thokar na khaanaa
+	zaalim zamaanaa hai ye zaalim zamaanaa
+
+#endindian
+\endsong

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{o saajan dekh is duniyaa se kyaa\-kyaa le ke jaate hai.n}%
+\film{Do Sitaare}%
+\year{1951}%
+\starring{Suraiya, Dev Anand, Premnath}%
+\singer{Suraiya}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12627 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+o saajan dekh is duniyaa se kyaa\-kyaa le ke jaate hai.n \-2
+tere qadamo.n me.n marane kii tamannaa le ke jaate hai.n
+o saajan dekh is duniyaa se kyaa\-kyaa le ke jaate hai.n
+o saajan dekh
+
+tumhii.n se pyaar karane kii tamannaa le ke aaye the \-2
+tumhii.n se pyaar karane kii tamannaa le ke jaate hai.n \-2
+o saajan dekh is duniyaa se kyaa\-kyaa le ke jaate hai.n
+o saajan dekh
+
+ye duniyaa pyaar ke qaabil na thii \-2
+ham kis tarah milate \-2
+mile.nge phir kabhii bas ye tamannaa le ke jaate hai.n \-2
+o saajan dekh is duniyaa se kyaa\-kyaa le ke jaate hai.n
+o saajan dekh
+%
+#endindian
+\endsong
+%
+

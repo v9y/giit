@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mere dil kii galiyo.n me.n kab se tuu aabaad hai ... mujhe tho.Daa tho.Daa yaad hai}%
+\film{Banjaaran}%
+\year{1991}%
+\starring{Rishi, Sridevi, Kulbhushan Kharbanda, Gulshan, Pran, Raza Murad}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dil kii galiyo.n me.n kab se tuu aabaad hai
+mujhe tho.Daa tho.Daa yaad hai
+sadiyo.n pahale tuu hii thaa tuu hii sadiyo.n ke baad hai
+mujhe tho.Daa tho.Daa yaad hai
+mere dil kii galiyo.n me.n \threedots
+
+bhuulii bisarii yaado.n se ik tasviir banaa_ii hai
+guzaraa hu_aa zamaanaa hai lambii ba.Dii judaa_ii hai
+dil me.n terii yaad hai ho.nTho.n pe terii fariyaad hai
+mujhe tho.Daa tho.Daa \threedots
+
+ham ik duuje ke ho.nge kab yah mere sajan hogaa
+ham sau baar mile bichha.De ab kii baar milan hogaa
+teraa meraa pyaar amar hai kyaa ye tujhako yaad hai
+mujhe tho.Daa tho.Daa \threedots
+
+to.D ke saarii diivaare.n is duniyaa.n kii rasmo.n kii
+jhuum ke vaapas aa_ii hai ye rut vaapas do kasamo.n kii
+TuuT gayaa Gam kaa pi.njaraa pa.nchhii ab aazaad hai
+mujhe tho.Daa tho.Daa \threedots
+%
+#endindian
+\endsong
+

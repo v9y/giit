@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n bamba_ii kaa baabuu naam meraa a.njaanaa}%
+\film{Naya Daur}%
+\year{1957}%
+\starring{Dilip Kumar, Vyjayantimala, Ajit, Johnny Walker}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Sahir}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/28/1996
+%
+\printtitle
+#indian
+%
+mai.n bamba_ii kaa baabuu naam meraa a.njaanaa
+i.nglish dhun me.n gaauu.N mai.n hi.ndustaanii gaanaa
+
+yah duniyaa hai us kii jo duniyaa se khele
+saKtii ho yaa narmii ha.Nsate\-ha.Nsate jhele
+sun lo ajii sun lo yah jaaduu kaa taraanaa
+mai.n bamba_ii kaa baabuu \- threedots
+
+kuchh hai.n daulat vaale kuchh hai.n taaqat vaale
+asalii vaali vah hai jo himmat vaale
+sun lo ajii sun lo yah jaaduu kaa taraanaa
+mai.n bamba_ii kaa baabuu \- threedots
+
+aayaa huu.N mai.n ba.ndhu ruus aur chiin me.n jaa ke
+kaam kii baat bataa dii mai.n ne kaama.Dii gaanaa gaa ke
+sun lo ajii sun lo yah jaaduu kaa taraanaa
+mai.n bamba_ii kaa baabuu \- threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{koii bataa de dil hai jahaa.N}%
+\film{Main Chup Rahoongi}%
+\year{196x}%
+\starring{}%
+\singer{Lata, Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Malini Kanth
+% Transliterator: Malini Kanth
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+
+lataa : ko_ii bataa de dil hai jahaa.N
+        kyo.n hotaa hai dard vahaa.N
+rafii : tiir chalaa ke ye to na puuchho
+        dil hai kahaa.N aur dard kahaa.N
+
+lataa : jaane raat ko aa.Nkho.n se
+        nii.nd kahaa.N u.D jaatii hai
+rafii : apane ghar me.n Gair ko paa kar
+        bechaarii mu.D jaatii hai
+
+rafii : jab ho Kalish sii pahaluu me.n
+        samajho pyaar ne kaam kiyaa
+lataa : aise pyaar ko kyaa kahiye
+        ke jisane be-aaraam kiyaa
+
+lataa : dil pe aisii kyaa guzarii
+        gha.Dii gha.Dii ye ghabaraaye
+rafii : mai.n to kisii kaa ho baiThaa
+        baar baar ye samajhaaye
+
+%
+#endindian
+\endsong
+%

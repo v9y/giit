@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{husn ishq kii ye kahaanii har dil kii ... javaanii zi.ndaabaad}%
+\film{Jawaani Zindaabaad}%
+\year{}%
+\starring{Aamir, Farha, Javed Jafri, Rohini, Utpal Dutt, Sushma Seth, Asrani}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Verma Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+husn ishq kii ye kahaanii har dil kii jaanii pahachaanii
+milaa jahaa.n par aag aur paanii duniyaa kahatii use javaanii
+kahii.n shiirii kahii.n farahaad kahii.n setii kahii.n muraad
+har dil ko kare aabaad
+javaanii zi.ndaabaad javaanii zi.ndaabaad
+
+har Gam se aazaad
+javaanii zi.ndaabaad \threedots
+
+jisape javaanii jab jab aa_ii kaano.n me.n baajii shahanaa_ii
+saal solahavaa.n jis din laage tan piichhe man aage bhaage
+binaa baat ke kho_ii kho_ii aadhii jaagii aadhii so_ii
+ho.nTh gulaabii jab jab khole ha.Ns ha.Ns ke ko_ii baat bhii bole
+har baat pe milatii daad
+javaanii zi.ndaabaad \threedots
+
+ye cha.nchal madamast javaanii jaise cha.Dhatii nadii kaa paanii
+jahaa.n bhii uTh ga_ii.n gorii baahe.n ruk ga_e raste tham ga_ii.n raahe.n
+lekin jab ye aa.Nkh milaa_e dil ke Tuka.De karatii jaa_e
+jahaa.N bhii chhanake isakii paayal tiin mare aur terah ghaayal
+hu_e aashiq ka_ii barbaad
+javaanii zi.ndaabaad \threedots
+%
+#endindian
+\endsong
+

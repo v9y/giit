@@ -1,0 +1,41 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kirano.n ke jhuulo.n se ... chalii aa}%
+\film{Shirin Farhad (Pakistani-Film)}%
+\year{1975}%
+\starring{Mohammad Ali, Zeba}%
+\singer{Mehdi Hasan, Irene Parveen, Chorus}%
+\music{Khurshid Anwar}%
+\lyrics{Qateel Shifai}%
+
+% Contributor: BOL ANAMOL [V S Rawat], Aug 02, 2004
+% Credits: Irfan
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+me \:	kirano.n ke jhuulo.n se
+	 u.Date baguulo.n se
+	gaate hayuulo.n se aage chalii aa
+ko \:	chalii aa \-3
+me \:	mahak ban ke phuulo.n se aage chalii aa
+ko \:	aa aa aa aa
+	
+me \:	Kayaalo.n me.n tujhako bahot mai.nne chaahaa \-2
+	magar saamane hai nayaa ek duraahaa
+	hayuulaa nahii.n mai.n badan chaahataa huu.N
+	sabaa kii bajaahe.n chaman chaahataa huu.N
+ko \:	chaman chaahataa huu.N \-2
+me \:	adhuurii bahaaro.n se
+	dhu.Ndhale nazaaro.n se
+	mubaham ishaaro.n se aage chalii aa
+ko \:	chalii aa \-3
+me \:	ab in chaa.Nd\-taaro.n se aage chalii aa
+ko \:	aa aa aa aa
+
+% mubaham: hidden/ concealed
+
+#endindian
+\endsong

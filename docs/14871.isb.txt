@@ -1,0 +1,32 @@
+% ITRANS SONG
+
+\startsong
+\stitle{maare raam jilaave raam}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Pradeep, Chorus}%
+\music{Ramchandra Pal}%
+\lyrics{Sant Kabir}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+maare raam jilaave raam \-4
+jaako raakhe saa_iyaa.N maar naa sakataa koy \-2
+baal na baa.Nkaa kar sake jo jag bairii hoy \-2
+maare raam jilaave raam \-2
+
+mariye to mar jaa_iye chhuuT jaay ja.njaal \-2
+aisaa maranaa ko mare din me.n sau\-sau baar \-2
+maare raam jilaave raam \-2
+
+sir raakhe sir jaat hai sir kaaTe sir hoy \-2
+jaise baatii diip kii kaTe ujiyaaraa hoy \-2
+maare raam jilaave raam \-2
+
+#endindian
+\endsong

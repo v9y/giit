@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{javaa.n ho yaaro.n ye tumako ... are yaaro.n mere pyaaro.n}%
+\film{Jo Jeetaa Wohi Sikandar}%
+\year{1992}%
+\starring{Aamir Khan, Ayesha Jhulka, Mamik}%
+\singer{Udit Narayan, Vijayata, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+javaa.n ho yaaro.n ye tumako hu_aa kyaa ajii hamako dekho zaraa
+ye maanaa abhii hai.n khaalii haath
+na ho.nge sadaa yahii din raat
+kabhii to banegii apanii baat
+are yaaro.n mere pyaaro.n merii maano.n ho diladaaro.n
+javaa.n ho yaaro.n \threedots
+
+mehanat se mile jo usase guzaar duuje ke maal ko Thokar se maar
+aayegii idhar bhii ek din bahaar hogaa ye zamaanaa hamape nisaar
+ye maanaa abhii hai.n \threedots
+
+isako chhuunaa nahii.n hai raam raam ye to hai paap kii gaTharii tamaam
+kab ye rut badal jaa_e kisako khabar
+lag jaa_e hame.n bhii sone ke par phir aise u.De.nge ham sab yaar
+gulo.n se ladegii moTar kaar hasiinaa hogii gale kaa haar
+are yaaro.n mere pyaaro.n \threedots
+%
+#endindian
+\endsong
+

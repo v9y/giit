@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{aa.Nsuu kii aag leke terii yaad aa_ii}%
+\film{Yahudi}%
+\year{1958}%
+\starring{Sohrab Modi, Dilip Kumar, Meena Kumari}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10851 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aa.Nsuu kii aag leke terii yaad aa_ii
+jalate hu_e raag leke terii yaad aa_ii
+shiqave hazaar le ke terii yaad aa_ii
+haay re kaisii judaa_ii
+
+rotaa hai gu.Nchaa\-gu.Nchaa aa.Ngan udaas hai
+ab dil kii aarazuu ko jalavo.n kii pyaas hai
+aa.Nsuu kii aag leke \threedots
+
+dono.n jahaan terii chaahat me.n chho.D duu.N
+pyaar kaa naazuk rishtaa kaise mai.n to.D duu.N
+aa.Nsuu kii aag leke \threedots
+%
+#endindian
+\endsong
+

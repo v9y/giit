@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{yammaa yammaa, yammaa yammaa, ye khuubasuurat samaa}%
+\film{Shaan}%
+\year{1980}%
+\starring{Amitabh, Shashi Kapoor, Parveen Babi, Bindiya Goswami, Sunil Dutt, Kulbhushan}%
+\singer{R D Burman, Rafi, chorus}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yammaa yammaa, yammaa yammaa, ye khuubasuurat samaa
+bas aaj kii raat hai zi.ndagii, kal ham kahaa.N tum kahaa.N
+
+ha.nsate hue aisii shaan se, diivaane ??? jaae.nge
+jhuuThii shamo.n se milake gale, paravaane jal jaae.nge
+rah jaaegaa yaado.n kaa diyaa, kal ham kahaa.N tum kahaa.N
+
+kal kyaa ho jaae kisako khabar, aa ??? chale.n jhuumakar
+ye zi.ndagii ik lambaa safar, pal bhar ke sab hamasafar
+ik raat ke mehamaan sab yahaa.N, kal ham kahaa.N tum kahaa.N
+%
+#endindian
+\endsong
+%

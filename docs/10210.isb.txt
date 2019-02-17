@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{huu.N abhii mai.n javaa.N ai dil}%
+\film{Aar Paar}%
+\year{1954}%
+\starring{Guru Dutt, Shyama, Shakeela, Jagdish Sethi, Jagdeep, Kumkum, Johny Walker}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10015 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Kumkum
+% 
+\printtitle
+#indian
+%
+huu.N abhii mai.n javaa.N ai dil
+behosh huu.N bin pi_e kal kaa bhii Gam kisali_e
+huu.N abhii mai.n javaa.N \threedots
+
+ye naGamaa aur ye fizaa ek sadaa aur ek adaa
+jo hai ganiimat hai aaj kal kaun jaane ho kyaa
+so na ho ye samaa.N ai dil
+huu.N abhii mai.n javaa.N \threedots
+
+duniyaa kaa kyaa etabaar khonaa na apanaa qaraar
+chun le muraado.n ke phuul biite na yuu.N hii bahaar
+taak me.n hai Kizaa.N ai dil
+huu.N abhii mai.n javaa.N \threedots
+
+dekho hai ye zindagii yuu.N nahii.n bekhudii
+mujhako bahak jaane de baate.n na kar hosh kii
+hosh kaisaa yahaa.N ai dil
+huu.N abhii mai.n javaa.N \threedots
+%
+#endindian
+\endsong
+

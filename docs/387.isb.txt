@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chhalake terii aa.Nkho.n se sharaab aur jiiyaadaa}%
+\film{Aarzoo}%
+\year{}%
+\starring{Rajendra Kumar and Sadhana}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhalake terii aa.Nkho.n se sharaab aur ziyaadaa \- 3
+khilate rahe hoTho.n se gulaab aur ziyaadaa \- 2
+
+kyaa baat hai terii mahafil me.n sitamagar \- 3
+dha.Dake hai dilakhaanaa kharaab aur ziyaadaa \- 2
+
+is dil me.n abhii aur bhii zakhmo.n kii jagah hai bAkii \- 3
+ab ruup kii katarii ko doaab me.n jaka.D le.n
+ki ishq ke tUfaa.n kii baato.n me.n jaka.D le.n \- 2
+allaah kare zor\-e\-sharaab aur ziyaadaa
+khilate rahe hoTho.n ke gulaab aur ziyaadaa
+
+%
+#endindian
+\endsong
+%

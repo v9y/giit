@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{le chalaa jidhar yah dil nikal pa.De}%
+\film{Miss Bombay}%
+\year{1957}%
+\starring{Nalini Jaywant, Ajeet, Rahman, Ramesh Thakur, Bhagwan, Vijaylaxmi}%
+\singer{Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10208 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+le chalaa jidhar yah dil nikal pa.De
+ham chale.n jidhar zamaanaa chal pa.De
+jo saath vaqt ke chalaa vo mard hai
+jo rah gayaa vo raaste kii gard hai
+le chalaa jidhar \threedots
+
+subah\-shaam kaam hii kaam hai
+yahii to hai nasiib jisakaa naam hai
+tadabiir ki_e jaa_o taqadiir badal jaa_egii
+aaj naa sahii to kal suhaanii gha.Dii aa_egii
+le chalaa jidhar \threedots
+
+motii bhii mile to tum naa bhiikh lo
+haatho.n se kamaa ke jiinaa siikh lo
+muTThii me.n tumhaarii chhupaa hu_aa jahaan hai
+miTTii sonaa ho tumhaare haatho.n me.n vo jaan hai
+le chalaa jidhar \threedots
+
+o jiine vaale zindagii kaa raag sun
+aaraam hai haraam ye aavaaz sun
+ye raaz tuune jaanaa to zindagaanii ban ga_ii
+varanaa jiine\-marane kii yuu.N kahaanii ban ga_ii
+le chalaa jidhar \threedots
+%
+#endindian
+\endsong
+

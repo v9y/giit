@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{chale the saath mil kar chale.nge saath mil kar}%
+\film{Haseena Maan Jayegi}%
+\year{1968}%
+\starring{Shashi Kapoor, Babita, Amita, Johny Walker}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Akhtar Roomani}%
+%
+% Contributor: BOL ANAMOL #11065 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chale the saath mil kar chale.nge saath mil kar \-2
+tumhe.n rukanaa pa.Degaa merii aavaaz sun kar
+chale the saath \threedots
+
+hamaarii jaan le le.ngii tumhaarii ye adaa_e.N
+hame.n jiine na de.ngii tumhaarii ye nigaahe.n
+samajh lo baat dil kii tumhe.n de.nge du_aa_e.N
+chale the saath \threedots
+
+ba.Daa pyaasaa hai ye dil ise madahosh kar do
+bha.Dak uThe hai.n shole inhe.n Kaamosh kar do
+hamaaraa hosh le lo hame.n behosh kar do
+chale the saath \threedots
+%
+#endindian
+\endsong
+

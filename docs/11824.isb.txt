@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{zulm karane se buraa hai zulm sahan karanaa ... bas pyaar rahegaa}%
+\film{Hukoomat}%
+\year{1987}%
+\starring{Dharmendra, Rati Agnihotri, Swapna, Prem Chopra, Joginder}%
+\singer{Alka Yagnik, Munna Aziz, Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Verma Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zulm karane se buraa hai zulm sahan karanaa
+Dar ke jiine se achchhaa hai saamane la.Dake maranaa
+naa zulm naa zaalim kaa adhikaar rahegaa
+duniyaa me.n kuchh rahegaa to bas pyaar rahegaa
+
+uThaa ke mil ke nii.nd se tum sabako jagaa do
+is haath se us haath ko tum saath milaa do
+sachchaa_ii se tum jhuuTh kii buniyaad hilaa do
+aur vaqt kii aavaaz se aavaaz milaa do
+janataa ke haath me.n hii ikhtiyaar rahegaa
+duniyaa me.n kuchh rahegaa \threedots
+
+naa aadamii kaa aadamii gulaam rahegaa
+naa siinaa jorii aur naa i.ntakaam rahegaa
+bure kaa naa aaGaaz naa a.njaam rahegaa
+jo baakii rahaa to Kudaa kaa naam rahegaa
+Kudaa kaa naam rahaa to sa.nsaar rahegaa
+duniyaa me.n kuchh rahegaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aap kii mahakii hu_ii zulf ko kahate hai.n ghaTaa}%
+\film{Trishul}%
+\starring{Amitabh Bachchan, Raakhee, Sanjeev Kumar, Waheeda Rehman,
+Shashi Kapoor, Hema Malini, Geeta Kak, Poonam Dhillon, Sachin, Prem
+Chopra, Shetty}%
+\singer{Yesudas, Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+y: aap kii mahakii hu_ii zulf ko kahate hai.n ghaTaa
+y: aap kii madabharii aa.Nkho.n ko ka.Nval kahate hai.n
+l: mai.n to kuchh bhii nahii.n tum ko hasii.n lagatii huu.N
+l: is ko chaahat bharii nazaro.n kaa amal kahate hai.n
+
+y: ek ham hii nahii.n sab dekhane vaale tum ko
+y: sang-e-marmar pe likhii shoKh Gazal kahate hai.n
+l: aisii baate.n na karo jin kaa yaqii.n mushkil ho
+l: aisii taariif ko niyaat kaa Khalal kahate hai.n
+
+y: merii taqadiir ki tum ne mujhe apanaa samajhaa
+l: merii taqadiir ki tum ne mujhe apanaa samajhaa
+y, l: is ko sadiyo.n kii tamannaao.n kaa phal kahate hai.n - 2
+
+%
+#endindian
+\endsong
+%

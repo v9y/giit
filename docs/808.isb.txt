@@ -1,0 +1,42 @@
+%
+\startsong 
+\stitle{jaane vaale sipahii se puuchho vo kahaa.N jaa rahaa hai}%
+\film{Usane Kaha Tha}%
+\year{}%
+\starring{Sunil Dutt, Nanda}%
+\singer{Manna De, chorus}%
+\music{Salil Choudhary}%
+\lyrics{Maqdoom Mohiuddin}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: pradeep@watson.ibm.com (Pradeep Dubey)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane vaale sipAhii se puuchho
+vo kahaa.N jaa rahaa hai
+
+ishq hai qaatil\-e\-zi.ndagaanii
+khuun se tar hai usakii javaanii
+haay maasuum bachapan kii yaade.n
+haay do roz kii naujavaanii
+jaane vaale \threedots
+
+kaise sahame hue hai.n nazaare
+kaise Dar Dar ke chalate hai.n taare
+kyaa javaanii kaa khuun ho rahaa hai
+sukh.r hai aa.nchalo.n ke kinaare
+jaane vaale \threedots
+
+kaun dukhiyaa hai jo gaa rahii hai
+bhuukhe bachcho.n ko bahalaa rahii hai
+laash jalane kii buu aa rahii hai
+zi.ndagii hai ki chillaa rahii hai
+jaane vaale \threedots
+%
+#endindian
+\endsong
+%

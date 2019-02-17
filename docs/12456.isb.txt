@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{bha.nga.Daa paale aajaa aajaa ... bolo bolo bolo ji.nda.Dii hai kahaa.n}%
+\film{Karan Arjun}%
+\year{1994}%
+\starring{Rakhi, Shahrukh Khan, Kajol, Salman Khan, Mamata Kulkarni}%
+\singer{Kumar Sanu, Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho ho ho bha.nga.Daa paale aajaa aajaa
+bolo bolo bolo ji.nda.Dii hai kahaa.n ji.nda.Dii vahaa.n teraa sa.ng hai jahaa.n
+zi.ndagii mile to ise mat khonaa jiite jii judaa hamase mat honaa
+bha.nga.Daa paale aajaa aaja \threedots
+
+aa.ngan me.n paayal khanakegii panaghaT phir se gaa_egaa
+muskaano.n ko aramaano.n ko qaid na ko_ii kar paa_egaa
+chhalake a.nkhiyo.n se pyaar dil hu_aa bekaraar
+naache.n log magan matavaale
+bha.nga.Daa paale aajaa aaja \threedots
+
+sachchaa_ii ko kaaT sake jo aisii ko_ii talavaar kahaa.n
+pyaar ko ba.ndii banaakar rakh le aisii ko_ii diivaar kahaa.n
+na ho ko_ii majabuur na ho ko_ii Gam se chuur
+aajaa khushiyo.n ke mele lagaa le
+bha.nga.Daa paale aajaa aaja \threedots
+%
+#endindian
+\endsong

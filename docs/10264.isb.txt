@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{nashiilii raat hai ... lo aayii milan kii raat suhaanii raat}%
+\film{Aashiq}%
+\year{1962}%
+\starring{Raj Kapoor, Padmini, Nanda, Abhi Bhattacharya, Leela Chitnis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10914 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+nashiilii raat hai saare chiraaG gul kar do
+Kushii kii raat me.n kyaa kaam jalane vaalo.n kaa
+
+lo aayii milan kii raat suhaanii raat \-2
+naino.n se kisii ke nain mile haatho.n me.n kisii kaa haath
+lo aayii milan kii \threedots
+
+dene ko mubaarakabaad tumhe.n ye chaa.Ndanii dar par aa hii ga_ii
+ho.NTho.n pe vafaa ke giit li_e ik chandra kiran sharamaa hii ga_ii
+jiivan me.n kitane ra.ng bhare ye meha.ndii vaale haath
+lo aayii milan kii \threedots
+
+duniyaa ne to kyaa\-kyaa nazar diyaa dulhan ko chamakataa nazaraanaa
+ham dil kaa shaguufaa laa_e hai.n anamol hai ye to diivaanaa
+kar liiji_e qubuul is dil ko rah jaa_egii apanii baat
+lo aayii milan kii \threedots
+%
+#endindian
+\endsong
+

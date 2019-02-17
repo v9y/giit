@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{raat din tere khayaal aane lage}%
+\film{Raat (Non-Film)}%
+\year{2002}%
+\starring{}%
+\singer{Anuradha Paudwal}%
+\music{Lalit}%
+\lyrics{Nawab Arzoo}%
+%
+% Contributor: V S Rawat
+%
+\printtitle
+#indian
+%
+raat din tere khayaal aane lage
+haule haule mujh ko yuu.N sataane lage
+
+mujhe ye kyaa hu_aa hai kuchh pataa nahii.n
+hu_aa hai kuchh magar jo dil yahaa.N nahii.n
+aahaa aahaa aahaa o aahaa aahaa aahaa
+raat din tere khayaal \threedots
+
+kabhii kabhii lagaa vo mere paas hai
+kabhii vo mujh se duur ho gayaa
+ye merii bekhudii meraa diivaanaapan
+vo merii dha.Dakano.n me.n kho gayaa
+mujhe ye kyaa hu_aa \threedots
+
+mai.n apane aap me.n thii is tarah se gum
+vo kab mere kariib aa gayaa
+pataa nahii.n chalaa mere haatho.n me.n
+ban ke vo nasiib aa gayaa
+mujhe ye kyaa hu_aa \threedots
+%
+#endindian
+\endsong

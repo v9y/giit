@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{sa.Nbhaalaa hai mai.nne bahut apane dil ko}%
+\film{Naaraaz}%
+\year{1994}%
+\starring{Mithun Chakraborty, Pooja Bhatt, Atul Agnihotri, Sonali Bendre}%
+\singer{Kumar Sanu}%
+\music{Anu Malik}%
+\lyrics{Qateel Shifai}%
+%
+% Audio On: Tips
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+(sa.Nbhaalaa hai mai.nne bahut apane dil ko)\-2
+zubaa.N par teraa phir bhii naam aa rahaa hai
+(jahaa.N raaz ko chhupaayaa na jaa_e)\-2
+mohabbat me.n aisaa makaam aa rahaa hai
+(sa.Nbhaalaa hai mai.nne bahut apane dil ko)\-2
+zubaa.N par teraa phir bhii naam aa rahaa hai
+sa.Nbhaalaa hai mai.nne bahut apane dil ko
+
+(banaayaa hai mai.nne tujhe apanaa saaqii
+% he says rahe; shouldn't it be rahe.n?
+rahe kis tarah phir mere hosh baakii)\-2
+rahe kis tarah phir mere hosh baakii
+(nazar yuu.N bahakane lagii hai ki jaise)\-2
+mere saamane ko_ii jaam aa rahaa hai
+sa.Nbhaalaa hai mai.nne bahut apane dil ko
+zubaa.N par teraa phir bhii naam aa rahaa hai
+jahaa.N raaz ko chhupaayaa na jaa_e
+mohabbat me.n aisaa makaam aa rahaa hai
+sa.Nbhaalaa hai mai.nne bahut apane dil ko
+
+(ye zulfo.n ke baadal ghanere ghanere
+mere baazu_o.n par jo tuune bikhere)\-2
+mere baazu_o.n par jo tuune bikhere
+(mai.n samajhaa ki jaise merii dha.Dakano.n ko)\-2
+terii dha.Dakano.n kaa payaam aa rahaa hai
+sa.Nbhaalaa hai mai.nne bahut apane dil ko
+zubaa.N par teraa phir bhii naam aa rahaa hai
+jahaa.N raaz ko chhupaayaa na jaa_e
+mohabbat me.n aisaa makaam aa rahaa hai
+sa.Nbhaalaa hai mai.nne bahut apane dil ko
+%
+#endindian
+\endsong

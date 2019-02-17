@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{banno terii a.nkhiyaa.n suramedaanii}%
+\film{Dushmani}%
+\year{1996}%
+\starring{Sunny, Jackie, Manisha, Deepti Naval, Raghuvir Yadav, Anupam}%
+\singer{Sapana Mukherji, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+banno terii a.nkhiyaa.n suramedaanii
+banno teraa mukha.Daa laakh kaa re
+banno teraa ka.ngan hai hazaarii
+banno teraa ka.ngan \threedots
+
+banno terii a.nkhiyaa.n suramedaanii
+banno teraa jhumakaa laakh kaa re
+banno terii jhaa.njhar hai hazaarii
+banno terii jhaa.njhar \threedots
+
+banno terii a.nkhiyaa.n suramedaanii
+banno terii mu.ndarii laakh kii re
+banno terii nathanii hai hazaarii
+banno terii nathanii \threedots
+
+banno terii a.nkhiyaa.n suramedaanii
+banno teraa jo.Daa laakh kaa re
+banno teraa Tiikaa hai hazaarii
+banno terii Tiikaa \threedots
+
+banno terii a.nkhiyaa.n suramedaanii
+banno teraa bannaa laakh kaa re
+banno terii jo.Dii hai hazaarii
+banno terii jo.Dii \threedots
+%
+#endindian
+\endsong
+

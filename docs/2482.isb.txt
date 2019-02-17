@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{umr huii tumase mile phir bhii jaane kyo.n}%
+\film{Bahurani}%
+\year{1963}%
+\starring{Guru Dutt, Mala Sinha}%
+\singer{Lata, Hemant}%
+\music{C Ramchandra}%
+\lyrics{Sahir}%
+%
+% Contributor: Malini Kanth
+% Transliterator: Malini Kanth
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+la : umr huii, tumase mile, phir bhii jaane kyo.n
+     aise lage jaise pahalii baar mile hai.n
+he : umr huii, baag saje, phir bhii jaane kyo.n
+     aise lage phool pahalii baar khile hai.n
+
+la : ruup jagaa yuu.N, bin sa.Nvaare saajanaa, mai.n sa.Nvar gaii \-2
+     aaj lagaa yuu.N, aaj lagaa yuu.N,
+     motiyo.n se merii maa.Ng bhar gaii
+     kajaraa chhalake, acharaa Dhalake,
+     aise lage jaise pahalii baar mile hai.n
+
+he : sa.ng tumhaaraa, merii zindagii ko raas aa gayaa \-2
+     paa ke sahaaraa, paa ke sahaaraa,
+     duur thhaa mai.n, apane paas aa gayaa
+     duniyaa saarii, laage nyaarii,
+     aise lage jaise pahalii baar mile hai.n
+
+la : jhuum uThaa tan, man me.n ek aisii baat aa gaii \-2
+     jisakii thii lagan, jisakii thii lagan
+     aaj vo milan kii raat aa gaii
+     alake lahake, akhiyaa.N bakahe
+     aise lage jaise pahalii baar mile hai.n
+
+%
+#endindian
+\endsong
+%

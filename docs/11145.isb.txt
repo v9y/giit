@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{terii ummiid teraa i.ntazaar ... ai sanam ham to sirf tumase pyaar karate hai.n}%
+\film{Deewaanaa}%
+\year{1992}%
+\starring{Rishi Kapoor, Shahrukh Khan, Divya Bharati}%
+\singer{Sadhana Sargam, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii ummiid teraa i.ntazaar karate hai.n
+ai sanam ham to sirf tumase pyaar karate hai.n
+
+jaan\-e\-man ham bhii tujhape jaa.n nisaar karate hai.n
+ai sanam ham to sirf \threedots
+
+khvaab aa.Nkho.n me.n ab nahii.n aate
+ab to palako.n me.n tum samaa_e ho
+har gha.Dii saath saath rahate ho
+dil kii duniyaa me.n ghar basaa_e ho
+terii har baat pe ham etabaar karate hai.n
+ai sanam ham to sirf \threedots
+
+ham ko jisakii thii talaash vo ho tum
+khushbuu saa.Nso.n kii dil kii pyaas ho tum
+tere aashiq tere diivaane hai.n
+saarii duniyaa se ham begaane hai.n
+jaan ham pyaar tumhe.n beshumaar karate hai.n
+ai sanam ham to sirf \threedots
+%
+#endindian
+\endsong
+

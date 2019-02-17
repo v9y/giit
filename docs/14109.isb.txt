@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{merii duniyaa ko bahaaro.n se ... jaane tum kaun ho}%
+\film{Saanjh Ki Belaa}%
+\year{1980}%
+\starring{Nutan, Bindu, Laxmi Chhaya, Joy Mukherji, Rahman, I S Jauhar}%
+\singer{Mukesh}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10735 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii duniyaa ko bahaaro.n se sajaayaa tumane
+jaane tum kaun ho \-3
+dil ke viiraano.n ko gulazaar banaayaa tumane
+jaane tum kaun ho \-3
+
+chal rahaa thaa mai.n akelaa ko_ii damasaaz na thaa
+baat kahataa kise dil kii ko_ii hamaraaz na thaa
+banake hamaraaz bhii ye raaz chhipaayaa tumane
+jaane tum kaun ho \-3
+
+ko_ii sapanaa to nahii.n ho jise apanaa samajhaa
+jaan\-e\-jaa.N samajhaa jaan\-e\-tamannaa samajhaa
+saamane aa ke bhii paradaa na haTaayaa tumane \-2
+jaane tum kaun ho \-3
+%
+#endindian
+\endsong
+

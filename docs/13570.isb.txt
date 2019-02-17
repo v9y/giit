@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ye zulf kaisii hai za.njiir jaisii hai}%
+\film{Piyaa Ka Ghar}%
+\year{1972}%
+\starring{Anil Dhawan, Jaya Bhaduri}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11201 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	ye zulf kaisii hai za.njiir jaisii hai
+	vo kaisii hogii jisakii tasviir aisii hai
+la \:	ye aa.Nkh kaisii hai tiir jaisii hai
+	vo kaisaa hogaa jisakii tasviir aisii hai
+
+ra \:	tum to mujhe pasa.nd ho kyaa mai.n tumhe.n pasa.nd huu.N
+	kyaa tum razaama.nd ho mai.n to razaama.nd huu.N
+	bolo chup kyo.n ho
+la \:	mai.n tumase kyaa boluu.N taqadiir kaisii hai
+	vo kaisaa hogaa \threedots
+
+	ghuu.NghaT nikaal ke piyaa baiThuu.Ngii mai.n to aaj se
+	dekho na is tarah mujhe mar jaa_uu.Ngii mai.n laaj se
+ra \:	ye Kvaab kaisaa hai taabiir kaisii hai
+	vo kaisii hogii \threedots
+%
+#endindian
+\endsong
+

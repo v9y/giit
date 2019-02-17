@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{naa aah hai naa raah hai ... bhuut huu.N mai.n}%
+\film{Bhoot}%
+\year{2003}%
+\starring{Rekha, Ajay Devgan, Nana Patekar, Urmila, Fardeen Khan}%
+\singer{Sunidhi Chauhan, Vijay Prakash, Salim Merchant}%
+\music{Salim-Sulaiman}%
+\lyrics{Lalit Marathe}%
+%
+% Contributor: BOL ANAMOL #11774 [V S Rawat]
+% Producer: Dream Merchants Entertainment, Nitin Manmohan
+% Director: Ramgopal Varma
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3363 Stereo, Cost: Rs 50/-, CD: 
+%
+\printtitle
+#indian
+%
+su \:	naa aah hai naa raah hai
+	naa jism hai naa jaa.N hai
+	a.ndheraa huu.N pyaas huu.N mai.n
+	bhuut huu.N mai.n \-4
+
+	naa dard hai naa uma.ng hai
+	naa aas hai naa saa.Ns hai
+	rau.ndii hu_ii aag huu.N mai.n
+	bhuut huu.N mai.n \-3
+	bhuut huu.N
+
+	mai.n huu.N zindaa huu.N zindaa so_ii nahii.n
+ko \:	bhuut huu.N mai.n \-4
+
+su \:	bechain saa sailaab hai
+	zaalimaanaa tezaab hai
+	zahar laa\-ilaaj hai mai.n
+	bhuut huu.N mai.n \-7
+%
+% Part 2:
+%
+ko \:	ko_ii nahii.n jo
+	kyaa yahaa.N hai
+su \:	naa aah hai naa raah hai
+	naa jism hai naa jaa.N hai
+	a.ndheraa huu.N pyaas huu.N mai.n
+	bhuut huu.N mai.n \-4
+
+ko \:	ko_ii nahii.n
+su \:	naa dard hai naa uma.ng hai
+	naa aas hai naa saa.Ns hai
+	rau.ndii hu_ii aag huu.N mai.n
+	mai.n mai.n mai.n mai.n
+	bhuut huu.N mai.n bhuut \-3
+	bhuut huu.N
+
+	mai.n huu.N zindaa huu.N zindaa so_ii nahii.n
+
+su \:	bechain saa sailaab hai
+	zaalimaanaa tezaab hai
+	zahar laa\-ilaaj hai mai.n
+	bhuut huu.N mai.n \-7
+	ko_ii nahii.n
+%
+#endindian
+\endsong
+

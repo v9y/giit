@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{elo jii sanam ham aa gaye aaj phir dil le ke}%
+\film{Andaz Apna Apna}%
+\year{1994}%
+\starring{Aamir Khan, Raveena Tandon, Salman Khan, Karishma Kapoor, Paresh Rawal}%
+\singer{Vicky Mehta, Behroze Chatterjee}%
+\music{Tushar Bhatia}%
+\lyrics{Majrooh}%
+%
+% Contributor: Hemlata Khemani
+% Transliterator: K Vijay Kumar
+% Credits: Vishal Ailawadhi, Srinivas Ganti
+% Editor: 
+%
+\printtitle
+#indian
+%
+elo elo!
+elo jii sanam ham aa gaye aaj phir dil leke
+ab itanaa bhii gussaa karo nahii.n jaanii
+ye khoyaa khoyaa mausam pavan diivaanii
+kahii.n u.Daa le na yaaraa tujhe diladaaraa tujhe
+elo elo   \threedots
+
+kaise jaadugar hai.n bahaar ke ye din
+jaan hii na le le khumaar ke ye din
+jiine nahii.n paa_uu.Ngaa haay mar jaa_uu.Ngaa
+aise na maaro nazaaraa mujhe   \threedots
+
+maathe pe to bal hai labo.n pe muskan
+chhab hai Gazab kii mai.n tere qurbaan
+dekho jaan\-e\-jaanaa bahak na jaanaa
+aajaa mai.n de duu.N sahaaraa tujhe   \threedots
+
+chalo jii mai.n gussaa na aur karuu.Ngii
+terii shiqaayat pe gaur karuu.Ngii
+kyaa hai merii ma.nzil samajh gayaa dil
+jaanaa karo na ishaaraa mujhe   \threedots
+
+%
+#endindian
+\endsong
+%

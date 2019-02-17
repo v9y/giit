@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tum judaa hokar hame.n aur pyaare ho gaye}%
+\film{Kareeb}%
+\year{}%
+\starring{}%
+\singer{Roopkumar Rathod, Sanjeevini}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+tum judaa hokar hame.n aur pyaare ho gaye
+the qariib to duur the, ab hamaare ho gaye
+
+ek ek saa.Nso.n me.n yaad banake mahakatii ho tum
+ai, ho kahii.n, ho khafaa
+phir bhii mujh me.n dha.Dakatii ho tum
+Dhuu.NDhataa hai pyaar kaa raasataa aaj bhii
+tum judaa   \threedots
+
+duur ho to lagaa merii aa.Nkho.n kii tum pyaas the
+hogaa pataa ye kahaa.N tum mere is qadar paas the
+Dar nahii.n raat kaa merii palako.n pe juganuu puuche
+saath ab tum nahii.n mere saath aarazuu to hai
+tum judaa   \threedots
+
+kyaa kahe.n kis tarah TuuTakar rah ga_ii har qasam
+ye vaqt kaa hai sitam bevafaa, the na tun aur na ham
+kyaa khabar thii hame.n pyaar me.n ho.ngii majabuuriyaa.N
+jitane ham the qariib utanii nazadiik thii duuriyaa.N
+tum judaa   \threedots
+
+%
+#endindian
+\endsong
+%

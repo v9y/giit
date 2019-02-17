@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{dono javaanii kii mastii me.n chuur}%
+\film{Coolie}%
+\year{}%
+\starring{Amitabh Bachchan, Rati Agnihotri}%
+\singer{Shabbir Kumar, ???}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+dono javaanii kii mastii me.n chuur
+teraa qusuur na meraa qusuur
+na tuune ##signal## dekhaa, na mai.n ne ##signal## dekhaa
+##accident## ho gayaa, rabbaa rabbaa
+##accident## ho gayaa, ##agreement## ho gayaa
+##permanent## ho gayaa, rabbaa rabbaa
+
+ham do anaa.Dii, na dekhaa agaa.Dii, na dekhaa pichhaa.Dii
+paTarii pe Daal dii ye dil kii gaa.Dii
+na tuune battii dekhii, na mai.n ne jhaNDii dekhii
+##accident## ho gayaa rabbaa rabbaa   \threedots
+
+raah\-e\-shabaab thii, umr\-e\-hijaab thii
+tuu benaqaab thii
+mausam kii bhii kuchh niiyat kharaab thii
+na tuune Kataraa dekhaa, na mai.n ne Kataraa dekhaa
+##accident## ho gayaa rabbaa rabbaa   \threedots
+
+are nukasaan saaraa, to bharanaa pa.Degaa
+ab pyaar hamako karanaa pa.Degaa
+na tuune siiTii maarii, na mai.n siiTii maarii
+##accident## ho gayaa rabbaa rabbaa   \threedots
+
+%
+#endindian
+\endsong
+%

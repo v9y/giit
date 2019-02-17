@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{muhabbat kii raaho.n me.n, chalanaa sambhal ke}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar, Nimmi}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+muhabbat kii raaho.n me.n
+chalanaa sambhal ke
+yahaa.N jo bhii aayaa
+gayaa haath mal ke
+
+na paaii kisii ne muhabbat kii ma.nzil
+qadam Dagamagaae, zaraa duur chal ke
+
+hame.n Dhuu.NDhatii hai, bahaaro.n kii duniyaa
+kahaa.N aa gae ham, chaman se nikal ke
+
+kahii.n Duub jaae na, hasarat bharaa dil
+na yuu.N tiir fe.nko, nishaanaa badal ke
+%
+#endindian
+\endsong
+%

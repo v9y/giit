@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{raaz siine me.n mohabbat kaa chhupaa_e rakhanaa}%
+\film{Hum Hain Rahi Pyar Ke}%
+\year{1960s Not Released}%
+\starring{}%
+\singer{Lata, Talat}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10274 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	raaz siine me.n mohabbat kaa chhupaa_e rakhanaa raaz siine me.n
+ta \:	shamaa jo dil me.n jalaa_ii hai jalaa_e rakhanaa shamaa jo dil me.n
+
+la \:	dil ke jazbaat niGaaho.n me.n khi.nche aate hai.n \-2
+ta \:	kitanaa dushvaar hai nazaro.n ko jhukaa_e rakhanaa kitanaa dushvaar hai
+
+ta \:	aaj to husn kaa jii bhar ke nazaaraa kar le.n \-2
+	zulf apanii zaraa chehare se haTaa_e rakhanaa zulf apanii zaraa
+
+la \:	dil dha.Dakataa hai nazar yuu.N na milaa_o hamase \-2
+	pyaar ko pyaar ke aadaab sikhaa_e rakhanaa pyaar ko pyaar ke
+
+ta \:	saamane tum ho to kyo.n hosh rahe duniyaa kaa \-2
+	kyaa qayaamat hai ye daaman ko bachaa_e rakhanaa kyaa qayaamat hai
+la \:	raaz siine me.n \threedots
+%
+#endindian
+\endsong
+

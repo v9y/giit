@@ -1,0 +1,47 @@
+% 
+\startsong 
+\stitle{bhuul sakataa hai bhalaa kaun}% 
+\film{Dharmputra}%
+\year{1961}%
+\starring{Shashi Kapoor, Indrani Mukherjee}% 
+\singer{Mahendra Kapoor}% 
+\music{N Dutta}% 
+\lyrics{Sahir}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: October 24, 1999 
+% Credits: 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+
+bhuul sakataa hai bhalaa kaun ye pyaarii aa.Nkhe.n
+ra.ng me.n Duubii huii nii.nd se bhaarii aa.Nkhe.n
+bhuul sakataa hai bhalaa kaun \threedots
+
+merii har sos ne har soch ne chaahaa hai tumhe.n
+jab se dekhaa hai tumhe.n tab se saraahaa hai tumhe.n
+bas ga_ii hai.n merii aa.Nkho.n me.n tumhaarii aa.Nkhe.n
+ra.ng me.n Duubii huii nii.nd se bhaarii aa.Nkhe.n
+bhuul sakataa hai bhalaa kaun \threedots
+
+tum jo nazaro.n ko uThaao to sitaare jhuk jaaye.n
+tum jo palko.n ko jhukaao to zamaane ruk jaaye.n
+kyuu.N na ban jaaye.n in aa.Nkhon kii pujaarii aa.Nkhen
+ra.ng me.n Duubii huii nii.nd se bhaarii aa.Nkhe.n
+bhuul sakataa hai bhalaa kaun \threedots
+
+jaagatii raato.n ko sapano.n kaa khazaanaa mil jaaye
+tum jo mil jaao to jiine ka bahaanaa mil jaaye
+apanii qismat pe kare naaz hamaarii aa.Nkhen
+bhuul sakataa hai bhalaa kaun ye pyaarii aa.Nkhe.n
+ra.ng me.n Duubii huii nii.nd se bhaarii aa.Nkhe.n
+bhuul sakataa hai bhalaa kaun \threedots
+
+% 
+#endindian 
+\endsong
+%

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{nazar\-nazar se ho rahii hai baat pyaar kii}%
+\film{Main Nashe Mein Hoon}%
+\year{1959}%
+\starring{Raj Kapoor, Mala Sinha}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10875 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	nazar\-nazar se ho rahii hai baat pyaar kii
+	machal\-machal rahii hai raat ye bahaar kii
+	gha.Dii nahii.n ye sabr kii na intazaar kii
+	machal\-machal rahii \threedots
+
+	bahake chale lahake chale dil ke ye aramaa.N
+	idhar bhii hai.n udhar bhii hai.n ek se tuufaa.N
+	ye raat pyaar kii dilo.n ke haar kii \-2
+	nazar\-nazar se \threedots
+
+mu \:	jaate kahaa.N ruke yahaa.N saare raaste
+	ham bhii aa_e dil bhii laa_e tere vaaste
+la \:	ye raat pyaar kii dilo.n ke haar kii \-2
+	nazar\-nazar se \threedots
+%
+#endindian
+\endsong
+

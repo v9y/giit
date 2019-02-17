@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{har ek baat pe kahate ho tum ke tuu kyaa hai}%
+\film{non-Film}%
+\year{1948}%
+\starring{}%
+\singer{Saigal}%
+\music{}%
+\lyrics{Mirza Ghalib}%
+%
+% Contributor: BOL ANAMOL #12238 [V S Rawat], 23/01/2004
+% Credits: U.V. Ravindra
+%
+\printtitle
+#indian
+%
+har ek baat pe kahate ho tum ke tuu kyaa hai
+tumhii.n bataa_o ye andaaz\-e\-guftaguu kyaa hai \-2
+har ek baat
+
+rago.n me.n dau.Dane
+rago.n me.n dau.Date phirane ke ham nahii.n qaa_il
+jab aa.Nkh hii se na Tapakaa to phir lahuu kyaa hai \-2
+har ek baat
+
+piyuu.N sharaab
+e piyuu.N sharaab agar Kum bhii dekh luu.N do\-chaar
+ye shiishaa\-o\-qadah\-o\-kuuzaa\-o\-subuu kyaa hai \-2
+har ek baat pe kahate ho tum ke tuu
+
+hu_aa hai shah kaa musaahib
+hu_aa hai shah kaa musaahib phire hai itaraataa \-2
+wagaranaa shahar me.n Gaalib kii aabaruu kyaa hai \-2
+har ek baat pe kahate ho tum ke tuu
+%
+#endindian
+\endsong
+%
+

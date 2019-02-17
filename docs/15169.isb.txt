@@ -1,0 +1,67 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jo siine me.n na dil hotaa ... ham to jaanii pyaar karegaa}%
+\film{Baarish}%
+\year{1957}%
+\starring{Devanand, Nutan, Jagdish Sethi, Lalita Pawar, Gop, Anwar, Kumkum}%
+\singer{Asha, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+chi \: jo siine me.n na dil hotaa 
+	to phir ham tum pe kyuu.N marate
+	aa.N bolo naa
+	are jo siine me.n na dil hotaa 
+	to phir ham tum pe kyuu.N marate
+	aa
+	mohabbat jaisaa ghaTiyaa kaam
+	karate bhii to kyuu.N karate
+	haay re haay re
+	Daa.cz gaa.Dii ke i.njan kii qasam
+
+	ham to jaanii pyaar karegaa, pyaar karegaa, pyaar
+	are are are are
+	are diiwaane abe maregaa
+	nahii.n Daregaa, nahii.n Daregaa
+	ham to jaanii pyaar karegaa, pyaar karegaa, pyaar karegaa
+	ham to jaanii
+
+aa \:	( abhii hai jawaa.N duniyaa kaa kuchh nahii.n hai mazaa chakkhaa
+chi \:	pyaar nahii.n to duniyaa me.n phir bolo kyaa hai rakkhaa ) \-2
+	rok sako to roko hamako
+	rok sako to roko hamako ham to nainaa chaar karegaa
+aa \:	nahii.n Daregaa
+chi \: nahii.n Daregaa
+	( ham to jaanii pyaar karegaa, pyaar karegaa, pyaar karegaa
+	ham to jaanii ) \-2
+
+	( dil se dil kaa saudaa karane ye hai aayaa ba.ndaa
+	maan bhii jaa_o pyaar se achchhaa nahii.n hai ko_ii dha.ndhaa ) \-2
+aa \:	jaan kii terii khair nahii.n hai
+chi \: abe bhaag jaldii
+aa \:	jaan kii terii khair nahii.n hai agar tuu takaraar karegaa
+
+chi \: nahii.n Daregaa, nahii.n Daregaa
+	( ham to jaanii pyaar karegaa, pyaar karegaa, pyaar karegaa
+	ham to jaanii ) \-2
+
+aa \:	( pahale to dil phe.nk kabhii naa dekhaa aisaa vaisaa
+chi \:	kabhii hu_aa hai aur naa hogaa dekho mere jaisaa ) \-2
+	maano yaa naa maano ham to
+	maano yaa naa maano ham to tumako gale kaa haar karegaa
+
+aa \:	nahii.n Daregaa
+chi \: nahii.n Daregaa
+	( ham to jaanii pyaar karegaa, pyaar karegaa, pyaar karegaa
+	ham to jaanii ) \-2
+	haay haay haay haay re
+
+#endindian
+\endsong

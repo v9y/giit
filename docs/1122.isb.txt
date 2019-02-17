@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{mai.n ne tere liye hii saat ra.ng ke sapane chune}%
+\film{Anand}%
+\year{1970}%
+\starring{Rajesh Khanna, Amitabh, Sumita Sanyal}%
+\singer{Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n ne tere liye hii saat ra.ng ke sapane chune
+sapane suriile sapane
+kuchh ha.Ns ke, kuchh Gam ke
+terii aa.Nkho.n ke saae churaae
+rasiilii yaado.n ne
+mai.n ne tere liye \threedots
+
+chhoTii baate.n
+chhoTii chhoTii baato.n kii hai yaade.n ba.Dii
+bhuule nahii.n biitii huI ek chhoTii gha.Dii
+janam janam se aa.Nkhe.n bichhaaI.n
+tere liye in raaho.n me.n
+mai.n ne tere liye \threedots
+
+bhole bhaale
+bhole bhaale dil ko bahalaate rahe
+tanhaaii me.n tere Kayaalo.n ko sajaate rahe
+kabhii kabhii to aavaaz dekar
+mujhako jagaayaa Kvaabo.n ne
+mai.n ne tere liye \threedots
+
+ruuThii raate.n
+ruuThii huI raato.n ko jagaayaa kabhii
+tere liye biitii subah ko bulaayaa kabhii
+tere binaa bhii tere liye hii
+diye jalaaye raato.n me.n
+mai.n ne tere liye \threedots
+%
+#endindian
+\endsong
+%

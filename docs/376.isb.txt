@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chalo ik baar phir se, ajanabii ban jaaye.n ham dono.n}%
+\film{Gumraah}%
+\year{1963}%
+\starring{Ashok Kumar, Sunil Dutt, Mala Sinha}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chalo ik baar phir se, ajanabii ban jaae.n ham dono
+chalo ik baar phir se \threedots
+
+na mai.n tumase koI ummiid rakhuu.N dilanavaazii kii
+na tum merii taraf dekho galat a.ndaaz nazaro.n se
+na mere dil kii dha.Dakan la.Dakha.Daaye merii baato.n se
+na zaahir ho tumhaarii kashm\-kash kaa raaz nazaro.n se
+chalo ik baar phir se \threedots
+
+tumhe.n bhii koI ulajhan rokatii hai peshakadamii se
+mujhe bhii log kahate hai.n ki ye jalave paraae hai.n
+mere hamaraah bhii rusavaaiyaa.n hai.n mere maajhii kii \- 2
+tumhaare saath bhii guzarii huii raato.n ke saaye hai.n
+chalo ik baar phir se \threedots
+
+taarruf rog ho jaaye to usako bhuulanaa behatar
+taalluk bojh ban jaaye to usako to.Danaa achchhaa
+vo afasaanaa jise a.njaam tak laanaa naa ho mumakin \- 2
+use ek khuubasuurat mo.D dekar chho.Danaa achchhaa
+chalo ik baar phir se \threedots
+%
+#endindian
+\endsong
+%

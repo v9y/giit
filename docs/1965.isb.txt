@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{yuu.Nhii dil ne chaahaa thaa ronaa rulaanaa}%
+\film{Dil Hi To Hai}%
+\year{}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Suman Kalyanpur}%
+\music{Roshan}%
+\lyrics{Sahir}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: 
+% Editor: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+yuu.Nhii dil ne chaahaa thaa ronaa rulaanaa
+terii yaad to ban ga_ii ik bahaanaa
+
+hame.n bhii nahii.n ilm, ham jis pe roe
+vo biitii rute.n hai.n ke aataa zamaanaa \-2
+
+Gam\-e\-dil hai aur Gam\-e\-zi.ndagii bhii
+na isakaa Thikaanaa na usakaa Thikaanaa \-2
+
+koii kisape ta.Dape, koii kisape roe
+idhar dil jalaa hai, udhar aashiyaanaa \-2
+%
+#endindian
+\endsong
+%

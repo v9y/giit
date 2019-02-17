@@ -1,0 +1,55 @@
+% ITRANS SONG
+
+\startsong
+\stitle{daa dir daaraa ... merii laaDalii rii merii laaDalii rii banii hai}%
+\film{Andaz}%
+\year{1949}%
+\starring{Raj Kapoor, Dilip Kumar, Nargis}%
+\singer{Lata, Chorus}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+la \:    daa dir daaraa dir daaraa daa dir daaraa \-2
+    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+ko \:    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+
+la \:    niil\-gagan par baadal Dole Dole har ik taaraa
+ko \:    daa dir daaraa dir daaraa daa dir daaraa
+la \:    chaa.Nd ke andar bu.Dhiyaa Dole
+ko \:    daa dir daaraa daa dir daaraa daa dir daaraa daa dir daa
+la \:    chaa.Nd ke andar bu.Dhiyaa Dole
+    Thumuk\-Thumuk dir daaraa
+ko \:    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+
+la \:    kamalaa gaaye bimalaa gaaye gaaye kunabaa saaraa
+ko \:    daa dir daaraa dir daaraa daa dir daaraa
+la \:    ghu.NghaT kaa.D ke gu.Diyaa naache
+ko \:    daa dir daaraa daa dir daaraa daa dir daaraa daa dir daa
+la \:    ghu.NghaT kaa.D ke gu.Diyaa naache
+    jhume.n re guDDaa pyaaraa
+ko \:    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+
+la \:    baTalar naache bairaa naache naache moTii aayaa
+ko \:    daa dir daaraa dir daaraa daa dir daaraa
+la \:    kaale saahab kaa Topaa naache
+ko \:    daa dir daaraa daa dir daaraa daa dir daaraa daa dir daa
+la \:    kaale saahab kaa Topaa naache
+    gorii mem kaa saayaa
+ko \:    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+
+la \:    merii laaDalii rii merii laaDalii rii banii hai
+    taaro.n kii tuu raanii \-2
+
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mere piichhuu pa.De hai.n}%
+\film{Salaakhen}%
+\year{1998}%
+\starring{Sunny, Raveena, Amrish, Manisha, Anupam, Farida, Deven}%
+\singer{Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+piichhuu pa.De hai.n mere piichhuu pa.De hai.n
+kuchh la.Dake aage kuchh piichhe kha.De hai.n
+kuchh chhat ke uupar kuchh niiche kha.De hai.n
+piichhuu pa.De hai.n \threedots
+
+dekho dekho zaraa diivaane yahaa.n kitane hai.n
+ik shamaa hai to paravaane yahaa.n kitane hai.n
+apane joban ke nazaro.n ko chhupaa_uu.n kaise
+ba.Dii mushkil me.n huu.N mai.n jaan bachhaa_uu.n kaise
+samajhaa_o inako ye paagal ba.De hai.n
+kuchh chhat ke uupar \threedots
+
+ko_ii naa jaane merii umr abhii satrah hai
+merii maasuum javaanii ko yahaao.n khataraa hai
+in aa.Nkho.n se mere dil pe yahaa.n vaar kare.n
+nahii.n kuchh to ye chhup chhup ke mujhe pyaar kare.n
+kaise bachuu.n mai.n yahaa.n saare chha.De hai.n
+kuchh chhat ke uupar \threedots
+%
+#endindian
+\endsong
+

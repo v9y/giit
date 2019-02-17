@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{pyaar me.n dil kaa murgaa bole kuka.Duu kuu ##I love you##}%
+\film{Kartavya}%
+\year{1995}%
+\starring{Sanjay Kapoor, Juhi, Aruna Irani, Saeed Jaffrey, Gulshan, Mohnish}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar me.n dil kaa murgaa bole kuka.Duu kuu ##I love you##
+ho ruuTh ke jaane vaalii na jaa aajaa tuu ##I love you##
+mujhape terii aashiqii kaa chal gayaa jaaduu ##I love you##
+pyaar me.n dil kaa murgaa bole \threedots
+
+aage aage diivaanii piichhe piichhe diivaanaa
+mastii bharaa hai samaa.n
+khvaabo.n me.n aane vaalii dil ko dha.Dakaane vaalii
+le na meraa imtehaa.n
+kahane se Daratii hai ye haa.n mujh pe maratii hai ye
+mujhako to sab hai pataa
+mai.n huu.N teraa saudaa_ii karatii hai kyo.n rusvaa_ii
+aake gale se lagaa
+jaan de duu.ngaa mai.n jaanam ab tere ruu ba ruu ##I love you##
+pyaar me.n dil kaa murgaa bole \threedots
+
+aashiyaa.n pyaar kaa bas gayaa mere man me.n
+kho ga_ii mai.n sanam tere diivaanepan me.n o
+sun le diivaane jogii ham to hai.n dil ke rogii
+hamako lagaa prem rog
+mere sapano.n ke raajaa merii baaho.n me.n aajaa
+mil hii gayaa apanaa yog
+dha.Dakane.n betaab merii dil hai bekaabuu ##I love you##
+pyaar me.n dil kaa murgaa bole \threedots
+%
+#endindian
+\endsong

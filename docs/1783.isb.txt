@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tum ko dekhaa to ye khayaal aayaa, zi.ndagii dhuup tum ghanaa saayaa}%
+\film{Saath Saath}%
+\year{}%
+\starring{Farooq Sheikh, Deepti Naval}%
+\singer{Jagjit Singh}%
+\music{Kuldeep Singh}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum ko dekhaa to ye Kayaal aayaa
+zi.ndagii dhuup tum ghanaa saayaa
+tum ko\threedots
+
+aaj phir dilane ek tamannaa kii \- (2)
+aaj phir dilako hamane samajhaayaa
+zi.ndagii dhuup tum ghanaa saayaa\threedots
+
+tum chale jaaoge to soche.nge \- (2)
+hamane kyaa khoyaa, hamane kyaa paayaa
+zi.ndagii dhuup tum ghanaa saayaa\threedots
+
+ham jise gunagunaa nahii.n sakate \- (2)
+vaqt ne aisaa giit kyuu.N gaayaa
+zi.ndagii dhuup tum ghanaa saayaa\threedots
+%
+#endindian
+\endsong
+%

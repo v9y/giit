@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{kaalii palak terii gorii khulane lagii hai tho.Dii\-tho.Dii}%
+\film{Do Chor}%
+\year{1972}%
+\starring{Dharmendra, Tanuja, Shobhana Samarth, K N Singh, Asit Sen}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10768 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+	he he uu.N huu.N
+ki \:	kaalii palak terii gorii khulane lagii hai tho.Dii\-tho.Dii
+	ek choranii ek chor ke ghar karane chalii hai chorii
+la \:	kaalii palak piyaa morii khulane lagii hai tho.Dii\-tho.Dii
+	ek choranii ek chor ke ghar karane chalii hai chorii ho chorii
+	kaalii palak piyaa \threedots
+
+ki \:	aa_egii baa.Ndh ke paayal tuu ho.nTh dabaa_e badan ko churaa_e
+	naazuk qamar se lagaa_e adaa kii kaTaarii zaalimaa.N
+	pheregii dhiire\-dhiire tuu mere gale par ye baa.Nho.n ke Ka.nzar
+	jaa_egii dil meraa lekar samajh ke anaa.Dii baalamaa
+	roz raat ko yuu.N hii baa.Ndhegii laTo.n kii Dorii ho Dorii
+	kaalii palak terii \threedots
+
+la \:	na to mai.n Dor se baa.Ndhuu.n naa jaal bichhaa_uu.N na tiir chalaa_uu.N
+	naazuk qamar se lagaa_uu.N chhurii na kaTaarii saajanaa
+	o sajanaa mai.n to teraa dil luu.Ngii tujhase chhupaa ke nazar ko bachaa ke
+	are yuu.N hii zaraa muskaraa ke kahuu.Ngii anaa.Dii saajanaa ho saajanaa
+	roz raat ko tere ghar hogii terii chorii ho chorii
+	kaalii palak terii \threedots
+
+ki \:	achchhii hu_ii merii chorii ek dil khoyaa ek dil paayaa
+	aise ko_ii paas aayaa ki aa gayaa luTane kaa mazaa
+	ha.Ns ke lipaT ga_e dono.n bas ga_e dono.n hu_aa jab vaadaa pyaar kaa
+do \:	roz raat ko mile.nge cha.ndaa aur chakorii o chakorii
+ki \:	kaalii palak terii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{dil teraa hai mai.n bhii terii huu.N sanam}%
+\film{Bombay To Goa}%
+\year{1972}%
+\starring{Amitabh, Mehmood, Shatrughan, Aruna Irani}%
+\singer{Kishor, Lata}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10752 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	dil teraa hai mai.n bhii terii huu.N sanam oh \-2
+	tere sar kii qasam tere dar kii qasam
+	saare ghar kii qasam ho sanam
+ki \:	jag chho.Daa hai tere pyaar me.n sanam \-2
+	terii aa.Nkho.n kii qasam tere baalo.n kii qasam
+	tere gaalo.n kii qasam ho sanam
+	jag chho.Daa hai \threedots
+
+	ho ho ik na_ii duniyaa basaane dekho chale do diivaane
+aa \:	ham naa sune.nge kisii kii ko_ii aa_e naa hame.n samajhaane
+	apanii dhun me.n chalate rahe.n piichhe haTe naa apanaa qadam
+	dil teraa hai \threedots
+ki \:	jag chho.Daa hai \threedots
+
+aa \:	kyaa karate ho
+ki \:	kyaa kar rahaa huu.N
+aa \:	baiyaa.n chho.Do naa
+ki \:	kyo.n chho.Duu.N
+aa \:	##please## samajho naa
+ki \:	kyaa samajhuu.N
+aa \:	##shhhh## vo log dekh rahe hai.n
+ki \:	are to dekhane do aur jale.nge
+aa \:	achchhaa to ye baat hai to mai.n aur paas aa_uu.N
+ki \:	aa_o naa
+aa \:	lo aa ga_ii
+	duniyaaa chaahe jitanii jale Dar ke rahe.n kyo.n duniyaa se ham
+	dil teraa hai \threedots
+ki \:	jag chho.Daa hai \threedots
+
+%
+#endindian
+\endsong
+

@@ -1,0 +1,74 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n me.n chhaayaa rahataa hai ... ishq hai nashaa\-nashaa}%
+\film{Rudraksh}%
+\year{2003}%
+\starring{Sanjay Dutt, Sunil Shetty, Bipasha Basu, Isha Koppikar}%
+\singer{Shaan, Sunidhi Chauhan}%
+\music{Vishal-Shekhar}%
+\lyrics{Sameer, Arun Bhairav}%
+%
+% Contributor: BOL ANAMOL #11827 [V S Rawat]
+% Producer: Karma Entertainment, Bhairav Film, Nitin Manmohan, Sohail Maklai
+% Director: Mani Shankar
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3381 Royal Stereo, Cost: Rs 50/-
+% website: www.rudrakshthefilm.com
+%
+\printtitle
+#indian
+%
+su \:	( aa.Nkho.n me.n chhaayaa rahataa hai
+	dil me.n suruur bhar de ) \-2
+	Kaamosh dha.Dakano.n ko bhii
+	chaahat me.n chuur kar de
+	naa jaane ko_ii lekin hamako hai pataa
+	ishq hai nashaa\-nashaa \-2
+	ishq hai ishq hai ishq hai nashaa\-nashaa
+
+	aa.Nkho.n me.n chhaayaa rahataa hai
+	dil me.n suruur bhar de
+	Kaamosh dha.Dakano.n ko bhii
+	chaahat me.n chuur kar de
+	naa jaane ko_ii lekin hamako hai pataa
+	ishq hai nashaa\-nashaa \-2
+	ishq hai ishq hai ishq hai nashaa\-nashaa
+
+shaa \:	paagal kare.n betaabiyaa.N
+	aramaan bhii hai.n josh me.n
+	pariyaa.N javaa.N baa.Nho.n me.n hai.n
+	kaise rahe.n ham hosh me.n
+
+su \:	huu.N
+	rah\-rah ke bahakanaa ishq hai
+	bin Kushbuu mahakanaa ishq hai
+	dhiire\-dhiire saa.Nso.n me.n ye to basaa
+
+	ishq hai nashaa\-nashaa \-2
+	ishq hai ishq hai ishq hai nashaa\-nashaa
+
+shaa \:	 har pal rahe diiwaanagii
+	isame.n suquu.N aataa nahii.n
+	ko_ii jatan ko_ii kare
+	dard\-e\-jigar jaataa nahii.n
+
+su \:	aa
+	dha.Dakan kaa dha.Dakanaa ishq hai
+	dilabar kaa ta.Dapanaa ishq hai
+	mere yaar ta.Dapane me.n bhii aaye mazaa
+
+	ishq hai nashaa\-nashaa \-2
+	ishq hai ishq hai ishq hai nashaa\-nashaa
+
+	aa.Nkho.n me.n chhaayaa rahataa hai
+do \:	dard\-e\-suruur bhar de
+su \:	Kaamosh dha.Dakano.n ko bhii
+do \:	chaahat me.n chuur kar de
+su \:	naa jaane ko_ii lekin hamako hai pataa
+do \:	( ishq hai nashaa\-nashaa \-2
+	ishq hai ishq hai ishq hai nashaa\-nashaa ) \-2
+%
+#endindian
+\endsong
+

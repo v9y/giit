@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{dil kii ye aarazuu thii koii dilarubaa mile}%
+\film{Nikaah}%
+\starring{Raj Babbar, Salma Agha, Deepak Parashar}%
+\singer{Mahendra Kapoor, Salma Agha}%
+\music{Ravi}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: Tabassum Hijazi
+%          Chandrashekar Ramanathan (shekar@walt.CS.MsState.Edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ma: dil kii ye aarazuu thii koii dilarubaa mile \- (2)
+lo ban gayaa nasiib ke tum ham se aa mile
+dil kii ye \threedots
+
+sa: dekhe.n hame.n nasiib se ab, apane kyaa mile \- (2)
+ab tak to jo bhii dost mile, bevafaa mile    \- (2)
+
+ma: aa.Nkho.n ko ik ishaare kii zehamat to diijiye
+kadamo.n me.n dil bichhaaduu.N ijaazat to diijiye
+Gam ko gale lagaaluu.N jo Gam aap kaa mile \- (2)
+dil kii ye \threedots \- (2)
+
+sa: hamne udaasiyo.n me.n guzaarii hai zindagii   \- (2)
+lagataa hai Dar fareb\-e\-vafaa se kabhii kabhii \- (2)
+aisaa na ho ki zaKm koii phir nayaa mile      \- (2)
+ab tak to jo bhii dost mile bevafaa mile
+
+ma: kal tum judaa hue the jahaa.N saath chho.D kar
+ham aaj tak kha.De hai.n usii dil ke mo.D par
+ham ko is intazaar kaa kuchh to silah mile (2)
+dil kii ye \threedots \- (2)
+
+sa: dekhe.n hame.n nasiib se ab, apane kyaa mile \- (2)
+ab tak to jo bhii dost mile, bevafaa mile    \- (2)
+%
+#endindian
+\endsong
+%

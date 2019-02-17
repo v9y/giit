@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{abr barasaa na hawaa tez chalii hai abake}%
+\film{Saadgee (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain}%
+\lyrics{Mohsin Naqvi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+abr barasaa na hawaa tez chalii hai abake
+kitanii wiiraa.N terii yaado.n kii galii hai abake
+
+kyaa kahuu.N kitane bahaano.n se bhulaayaa hai use
+ye qayaamat ba.Dii mushkil se Talii hai abake
+
+yaa merii aa.Nkh ke kashkol me.n aa.Nsuu chamakaa
+yaa a.ndhere me.n ko_ii shammaa jalii hai abake
+
+kisako furasat hai dhuwaa.N dekhane jaaye 'mohasin'
+jhopa.Dii shahar se kuchh duur jalii hai abake
+
+#endindian
+\endsong

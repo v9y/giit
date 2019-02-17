@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ba.ngalaa gaa.Dii ... dil mat denaa merii sautan ko}%
+\film{Chhupa Rustam}%
+\year{1999?}%
+\starring{Sanjay Kapoor, Manisha Koirala}%
+\singer{Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o ba.ngalaa gaa.Dii jhumake ka.nganaa 
+sab de denaa usako sajanaa
+aag lage usake joban ko dil mat denaa merii sautan ko
+
+tuu hai usake prem kaa rogii merii ba.Dii badanaamii hogii
+usakaa mat ban jaanaa jogii bhuul ke apanii jogan ko
+dil mat denaa \threedots
+
+usane gaa kar filmii gaanaa kar Daalaa tujhako diivaanaa
+hoTal me.n khaataa hai khaanaa chho.D ke ghar ke bhojan ko
+dil mat denaa \threedots
+
+mere paas nahii.n kyaa raajaa chhuu ke dekh badan ye aajaa
+kar ke bahaane galii me.n naa jaa milane kisii pa.Dosan ko
+dil mat denaa \threedots
+%
+#endindian
+\endsong
+

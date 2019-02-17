@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{bamba_ii se ga_ii puunaa ... ham hai.n raahii pyaar ke}%
+\film{Hum Hain Raahi Pyaar Ke}%
+\year{1993}%
+\starring{Aamir Khan, Juhi Chawla}%
+\singer{Sadhana Sargam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bamba_ii se ga_ii puunaa puunaa se ga_ii dillii dillii se ga_ii paTanaa
+phir bhii na milaa sajanaa
+mahakaayaa maine gajaraa chamakaa_ii maine bi.ndiyaa
+khanakaayaa maine ka.nganaa
+phir bhii na milaa sajanaa
+ham hai.n raahii pyaar ke ham hai.n raahii pyaar ke
+
+aa.Nkho.n me.n chhupaa luu.ngii saa.Nso.n me.n basaa luu.ngii
+mai.n usakii mohabbat me.n duniyaa ko bhulaa duu.ngii
+khvaabo.n me.n nahii.n kho_ii raato.n ko nahii.n so_ii
+mai.n usake li_e ro_ii
+phir bhii na milaa sajanaa \threedots
+
+jab yaad usakii aa_e dil meraa dha.Dak jaa_e
+vo hai ba.Daa bedardii kitanaa mujhe ta.Dapaa_e
+baaho.n me.n use Dhuu.nDhaa raaho.n me.n use Dhuu.nDhaa
+galiyo.n me.n use Dhuu.nDhaa
+phir bhii na milaa sajanaa \threedots
+%
+#endindian
+\endsong
+

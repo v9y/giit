@@ -1,0 +1,51 @@
+% 
+\startsong 
+\stitle{tuu mere pyaar kaa phuul hai}% 
+\film{Dhool Ka Phool}%
+\year{1959}%
+\starring{Rajendra Kumar, Mala Sinha}% 
+\singer{Lata}% 
+\music{N Dutta}% 
+\lyrics{Sahir}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: October 26, 1999 
+% Credits: 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+
+(tuu mere pyaar kaa phuul hai ke merii bhuul hai
+kuchh kah nahii.n sakatii
+par kisii kaa kiyaa tuu bhare 
+ye sah nahii.n sakatii) \- 2
+
+(merii badanaamii tere saath palegii, saath palegii
+sun sun taane merii kokh jalegii, haay, kokh jalegii) \- 2
+kaa.NTo.n bhare hai.n sab raaste tere vaaste
+jiivan kii Dagar me.n 
+kaun banegaa teraa aasaraa bedard nagar me.n
+
+tuu mere pyaar kaa phuul hai ke merii bhuul hai
+kuchh kah nahii.n sakatii
+par kisii kaa kiyaa tuu bhare 
+ye sah nahii.n sakatii
+
+(puuchhegaa ko_ii to kise baap kahegaa, baap kahegaa
+jag tujhe phe.nkaa hu_aa paap kahegaa, haaye, paap kahegaa) \- 2
+banake rahegii sharmindagii terii zi.ndagii 
+jab tak tuu jiyegaa
+aaj pilaauu.n tujhe duudh mai.n, kal zahar piyegaa
+
+tuu mere pyaar kaa phuul hai ke merii bhuul hai
+kuchh kah nahii.n sakatii
+par kisii kaa kiyaa tuu bhare 
+ye sah nahii.n sakatii
+
+% 
+#endindian 
+\endsong
+%

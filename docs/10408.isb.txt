@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{naukarii sau kii hazaar kii}%
+\film{Aahuti}%
+\year{1978}%
+\starring{Rajendra Kumar, Shashi Kapoor, Parvin Babi, Rakesh Roshan, Zahira, Asha Sachdev}%
+\singer{Kishore, Anuradha}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11588 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	naukarii sau kii hazaar kii qiimat nahii.n hotii pyaar kii
+	pyaar anamol hai ek miiThaa bol hai
+	miiThii\-miiThii baate.n yaar kii
+	naukarii sau kii \threedots
+do \:	naukarii sau kii \threedots
+
+ki \:	mushqil raaho.n se aksar bachakar log nikalate hai.n
+	phuulo.n ke jo aashiq hai.n vo kaa.NTo.n pe chalate hai.n
+	chho.D ke galiyaa.N bahaar kii
+a \:	naukarii sau kii \threedots
+do \:	naukarii sau kii \threedots
+
+a \:	pyaar nahii.n karataa ko_ii daulat ke diivaano.n se
+	vo kyaa jaane.n farq hai kyaa dil aur dukaano.n me.n
+	dil amaanat diladaar kii
+do \:	naukarii sau kii \threedots
+
+ki \:	barasegii ban ke ghaTaa ye apanii jo pyaas hai
+a \:	ye apanii jo pyaas hai
+	ham jaage usake li_e ab vo subah paas hai
+ki \:	vo subah paas hai
+do \:	raat biitii intazaar kii
+	naukarii sau kii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{baadal yuu.N garajataa hai}%
+\film{Betaab}%
+\year{1980}%
+\starring{Sunny Deol, Amrita Singh}%
+\singer{Lata, Shabbir Kumar}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+baadal yuu.N garajataa hai Dar kuchh aisaa lagataa hai
+chamak\-chamak ke lapak ke ye bijalii ham pe gir jaayegii
+
+baahar bhii tuufaan, andar bhii tuufaan
+biich me.n do tuufaano.n ke ye shiishe kaa makaan
+aise dil dha.Dakataa hai
+Dar kuchh aisaa lagataa hai \threedots
+
+ye diivaanii shaam ye tuufaanii shaam
+aag barasatii hai saavan me.n paanii kaa hai naam
+bas kuchh bhii ho sakataa hai
+Dar kuchh aisaa lagataa hai \threedots
+
+taubaa husn\-e-\yaar badale ra.ng hazaar
+sharm kabhii aatii hai aur kabhii aataa hai pyaar
+dekhe.n kaun Thaharataa hai
+Dar kuchh aisaa lagataa hai \threedots
+
+tum baiTho us paar, ham baiThe.n is paar
+aao apane biich banaa le.n ham koii diivaar
+dil phir bhii mil sakataa hai
+Dar kuchh aisaa lagataa hai \threedots
+
+%
+#endindian
+\endsong
+%

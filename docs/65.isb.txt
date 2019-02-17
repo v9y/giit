@@ -1,0 +1,65 @@
+% 
+\startsong
+\stitle{aaj mere man me.n sakhii baa.Nsurii bajaae koii}%
+\film{Aan}%
+\year{}%
+\starring{Dilip Kumar, Nimmi}%
+\singer{Lata, chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Mahesh Chaubal (chaubal@umbc.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Mon Jul 10 1995
+% Credits:  
+% Editor:  
+% Comments:  A great use of chorus by Naushad
+%
+\printtitle
+#indian
+%
+la:  aa haa haa\threedots
+    aaj mere man me.n sakhii baa.Nsurii bajaae koii
+    aaj mere man me.n\threedots
+    aaj mere man me.n sakhii baa.Nsurii bajaae koii
+    pyaar bhare giit sakhii baar\-baar gaa_e koii
+    baa.Nsurii bajaae\threedots
+    baa.Nsurii bajaae, sakhii gaa_e sakhii re, koii chhailavaa ho
+ko: koii alabelavaa ho, koii chhailavaa ho
+la:  ra.Ng merii javaanii kaa ki_e jhuumataa ghar aayaa hai saavan
+ko: ra.Ng merii javaanii kaa ki_e jhuumataa ghar aayaa hai saavan
+la:  aa haa haa\threedots
+    ho sakhii, ho re sakhii, aayaa hai saavan
+ko: mere naino.n me.n hai saajan
+
+la:  in uu.Ndii ghaTaao.n me.n, havaao.n me.n sakhii, naache meraa man
+    ho sakhii, naache meraa man
+ko: ho aa.Ngan me.n saavan man\-bhaavan ho jii
+la:  ho, in uu.Ndii ghaTaao.n me.n, havaao.n me.n sakhii, naache meraa man
+ko: lallaa laalaa laa laalaa
+la:  dil ke hi.nDole pe mohe jhuule na jhulaae koii
+ko: pyaar bhare giit sakhii, baar\-baar gaa_e koii
+la:  baa.Nsurii bajaae sakhii gaae sakhii re
+    koii chhailavaa ho
+ko: koii alabelavaa ho, koii chhailavaa ho
+
+la:  kahataa hai ishaaro.n me.n koii
+    aa mohe ambu_aa ke tale mil
+ko: bhalaa vo kaun hai ghaayal
+    kahataa hai ishaaro.n me.n koii
+    aa mohe ambu_aa ke tale mil
+la:  mai.n naam na luu.N
+    aaj lage laaj sakhii dha.Dake meraa dil ho sakhii dha.Dake meraa dil
+ko: ho aa.Ngan me.n saavan man\-bhaavan ho jii
+la:  ho, mai.n naam na luu.N
+    aaj lage laaj sakhii dha.Dake meraa dil ho sakhii dha.Dake meraa dil
+ko: lallaa laalaa laa laalaa
+la:  taar pe jiivan ke madhur raaginii sunaae koii
+ko: pyaar bhare giit sakhii baar\-baar gaa_e koii
+la:  baa.Nsurii bajaae sakhii gaae sakhii re
+la:  koii chhailavaa ho
+ko: koii alabelavaa ho, koii chhailavaa ho
+%
+#endindian
+\endsong
+%

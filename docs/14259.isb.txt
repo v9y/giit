@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{ham bhii akele tum bhii akele}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Suraiya, Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12605 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ra \:	ham bhii akele tum bhii akele \-2
+	aa jaa lagaa le.n mohabbat ke mele
+	ham bhii akele tum bhii akele
+
+su \:	ham bhii akele tum bhii akele \-2
+	aa jaa lagaa le.n mohabbat ke mele
+	ham bhii akele tum bhii akele
+
+ra \:	ho
+	mausam jawaan hai dil bhii jawaan hai
+su \:	ho
+	mausam jawaan hai dil bhii jawaan hai
+	palako.n me.n soyaa hu_aa saaraa jahaan hai
+
+	ham bhii akele tum bhii akele \-2
+
+su \:	ho
+	pahalii barasaat hai ThaNDii\-ThaNDii raat hai
+ra \:	ho
+	pahalii barasaat hai ThaNDii\-ThaNDii raat hai
+	hai chain dil se mile dil to kyaa hii baat hai	
+
+	ham bhii akele tum bhii akele \-2
+
+ra \:	ho
+	hasarat yahii hai dil\-e\-beqaraar kii
+su \:	ho
+	hasarat yahii hai dil\-e\-beqaraar kii
+	aise me.n chhe.D piyaa baat ko_ii pyaar kii
+
+	ham bhii akele tum bhii akele \-2
+	aa jaa lagaa le.n mohabbat ke mele
+	ham bhii akele tum bhii akele
+%
+#endindian
+\endsong
+%
+

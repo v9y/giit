@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mai.n zi.ndagii kaa saath nibhaataa chalaa gayaa}%
+\film{Hum Dono}%
+\year{1961}%
+\starring{Dev Anand, Sadhana, Nanda}%
+\singer{Rafi}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n zi.ndagii kaa saath nibhaataa chalaa gayaa
+har fikr ko dhu.Ne.n me.n u.Daataa chalaa gayaa
+
+barabaadiyo.n kaa soG manaanaa fizuul thaa \- 2
+barabaadiyo.n kaa jashn manaataa chalaa gayaa
+mai.n zi.ndagii\threedots
+
+jo mil gayaa usii ko muqaddar samajh liyaa \- 2
+jo kho gayaa mai.n usako bhulaataa chalaa gayaa
+mai.n zi.ndagii\threedots
+
+Gam aur khushii me.n fark na mahasuus ho jahaa.N \- 2
+mai.n dil ko us muqaam pe laataa chalaa gayaa
+mai.n zi.ndagii\threedots
+%
+#endindian
+\endsong
+%

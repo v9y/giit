@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kaaravaa.N guzaraa kiyaa ham rahaguzar dekhaa kiye}%
+\film{An Unforgettable Treat(Non-Film)}%
+\year{1971}%
+\starring{}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Faani Badayuni}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+% Credits: Vinay P Jain
+
+\printtitle
+#indian
+
+kaaravaa.N guzaraa kiyaa ham rahaguzar dekhaa kiye
+har qadam par naqsh\-e\-paa\-e\-raahabar dekhaa kiye
+
+yaas jab chhaa_ii ummide.n haath mal kar rah ga_ii.n
+dil kii nabze.n chhuT ga_ii.n aur chaaraagar dekhaa kiye
+
+ruK merii jaanib nigaah\-e\-lutf dushman kii taraf
+yuu.N udhar dekhaa kiye goyaa idhar dekhaa kiye
+
+dardama.ndaan\-e\-wafaa kii haay re majabuuriyaa.N
+dard\-e\-dil dekhaa naa jaataa thaa magar dekhaa kiye
+
+tuu kahaa.N thii ai ajal ai naa_muraado.n kii muraad
+marane waale raah terii umr bhar dekhaa kiye
+
+% ajal: maut, death, qismat
+
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil kho gayaa kyaa ho gayaa}%
+\film{Dil Kho Gayaa}%
+\year{1998?}%
+\starring{Indra Kumar}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Raees Bhartiya}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o dil kho gayaa kyaa ho gayaa
+meraa dil kahii.n se laa do sanam laa do
+dil kho gayaa \threedots
+
+o kyuu.n pyaar kiyaa kyuu.n dil diyaa
+ab dil kahaa.n se laa duu.n sanam laa duu.n
+o dil kho gayaa \threedots
+
+pyaar kiyaa nahii.n maine soch samajhake 
+ho gayaa jaane kaise tumase mil ke
+meraa chain gayaa kyaa ho gayaa
+meraa chain kahii.n se laa do sanam laa do
+o kyuu.n pyaar kiyaa \threedots
+
+vaise to tere jaisaa meraa bhii haal hai
+pyaar bhii kaise kaise karataa kamaal hai
+meraa hosh gayaa kyaa ho gayaa
+meraa hosh kahii.n se laa do sanam laa do
+dil kho gayaa \threedots
+%
+#endindian
+\endsong
+

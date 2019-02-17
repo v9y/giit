@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{diivaanaa dil diivaanaa ... kab se kare hai teraa i.ntazaar}%
+\film{Kabhi Haan Kabhi Naa}%
+\year{1993}%
+\starring{Shahrukh, Suchitra Krishnamurty, Deepak Tijori, Satish Shah, Anjan Srivastava, Rita Bhaduri}%
+\singer{Amit Kumar, Udit Narayan}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa dil diivaanaa
+diivaanaa teraa diivaanaa
+kab se kare hai teraa i.ntazaar kab aa_egii merii jaan\-e\-bahaar
+ki jitanaa hii bahalaa_uu.n ke utanaa hii machalataa hai dil
+diivaanaa teraa diivaanaa \threedots
+
+andaaz dikhalaatii sau sau tarah ke jalave dikhaatii hu_ii
+andaaz dikhalaatii sau sau tarah ke jalave luTaatii hu_ii
+aatii hu_ii mausam ke saath gulashan khilaatii hu_ii
+aa bhii jaa ab jaan\-e\-jaa.n
+diivaanaa dil diivaanaa \threedots
+
+dil se lagaakar ke rakhaa hai ab tak resham kaa teraa rumaal
+aage kahuu.n kyaa jaan\-e\-man jaane kyaa meraa haal
+aa bhii jaa ab jaan\-e\-jaa.n
+diivaanaa dil diivaanaa \threedots
+%
+#endindian
+\endsong
+

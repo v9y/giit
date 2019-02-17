@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{piyaa mere saath rahe.nge aaj kii raat}%
+\film{Amrapali}%
+\year{1945}%
+\starring{Prem Adeeb, Sabita Devi, Badri Prasad, Jeevan}%
+\singer{Amirbai}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #12009 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+piyaa mere saath rahe.nge aaj kii raat \-3
+
+aaj pulakit hai meraa man \-2
+aaj pulakit hai meraa tan
+piyaa mere saath rahe.nge aaj kii raat
+
+ab to o mere kuTiyaa ke diip damako
+mere aa.Ngan me.n chaa.Nd chamako
+o chaa.Nd chamako
+aaj mehamaan banake aaye.nge
+aaye.nge
+mere jiiwan me.n mere naath
+piyaa mere saath rahe.nge aaj kii raat \-2
+
+aaj mere man kii koyal kuhuu\-kuhuu bolegii
+aaj merii priit pahalii baar ghu.NghaT kholegii
+mai.n binaa mol
+mai.n binaa mol bikuu.Ngii kisii ke haath
+piyaa mere saath rahe.nge aaj kii raat
+aaj kii raat
+aaj kii raat
+piyaa mere saath rahe.nge aaj kii raat
+%
+#endindian
+\endsong
+

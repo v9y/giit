@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{nazar kii baat hai kisii ko kyaa pataa}%
+\film{Dil Kitnaa Naadaan Hai}%
+\year{1996}%
+\starring{Raja, Rageshwari, Kiran Kumar, Aloknath, Rima, Munika, Deven Bhojani}%
+\singer{}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nazar kii baat hai kisii ko kyaa pataa
+nazar ne jo kahaa vo dil ne sun liyaa
+o ham jubaa.n se kyuu.n kahe.n dil kii baat
+honaa thaa hu_aa hai pyaar
+nazar kii baat hai \threedots
+
+tuufaa.n uThaa_e terii suurat mere dil me.n
+rahatii hai terii pyaarii muurat mere dil me.n
+khushbuu terii ab tak merii saa.Nso.n me.n rachii hai
+machale hu_e aramaano.n me.n halachal sii machii hai
+jis vaqt hu_ii pahalii mulaakaat hamaarii
+us vaqt se dil hai terii chaahat kaa pujaarii
+tuufaa.n uThaa_e terii \threedots
+
+rahatii hai hameshaa terii hasarat mere dil me.n
+har shay se hai ba.Dhakar terii kiimat mere dil me.n
+phuulo.n kii tarah tuu mere pahaluu me.n mahakanaa
+bin tere naa ruk jaa_e kahii.n dil kaa dha.Dakanaa
+jis din se bichhaayaa hai tere dar pe bichhaunaa
+miTTii terii galiyo.n kii nazar aatii hai sonaa
+bin tere naa ruk jaa_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{unhe.n paa liyaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Madhukar Rajasthani}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+vidaa_ii kii gha.Diyo.n ke sapane sajaa kar
+unhe.n paa liyaa hai unhe.n paa liyaa hai
+judaa_ii ke naGamo.n se diipak jalaa kar
+unhe.n paa liyaa hai unhe.n paa liyaa hai
+
+ashKo.n ke TuuTe sitaaro.n se aage
+nazaaro.n se aage
+muhabbat kii chhoTii sii duniyaa basaa kar
+unhe.n paa liyaa hai unhe.n paa liyaa hai
+
+farebii bahaaro.n se aa.Nkhe.n churaakar
+khushiiyaa.N bhulaa kar
+aaho.n ke sholo.n se daaman jalaa kar
+unhe.n paa liyaa hai unhe.n paa liyaa hai
+
+%
+#endindian
+\endsong
+%

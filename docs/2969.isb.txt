@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{terii nigaaho.n me.n tere hii baaho.n me.n}%
+\film{Bahana}%
+\year{1960}%
+\starring{Meena Kumari, Sajjan}%
+\singer{Talat, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+terii nigaaho.n me.n tere hii baaho.n me.n
+rahane ko jii chaahataa hai
+dil me.n chhupaa yahii baat sajan se
+kahane ko jii chaahataa hai
+terii nigaaho.n me.n \threedots
+
+dil ye hamaaraa ghar hai tumhaaraa
+aao jii aa ke bas jaao jii
+nain hamaare dekhe Kvaab tumhaare
+zaraa Kvaabo.n me.n aa ke ha.Ns jaao jii
+jaan se pyaaraa hame.n ghar ye tumhaaraa yahaa.N
+rahane ko jii chaahataa hai
+terii nigaaho.n me.n \threedots
+
+dekho jii dekho aur kisii ko
+dil me.n na apane basaanaa jii
+pyaar bharaa ye vaadaa ham to na bhuule piyaa
+tum bhii ise na bhulaanaa jii
+priit hamaarii rahe duniyaa se nyaarii yahii
+kahane ko jii chaahataa hai
+terii nigaaho.n me.n \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aisaa lagataa hai jaise ##I am in love##}%
+\film{Yeh Dil Aashiqana}%
+\year{2002}%
+\starring{Karan Nath, Jeevidha, Aditya Pancholi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+siine me.n halachal hai dha.Dakan bhii paagal hai
+ha.Nsataa hai rotaa hai dil me.n kuchh hotaa hai
+aisaa lagataa hai jaise ##I am in love##
+
+jaagii huu.N so_ii huu.N khvaabo.n me.n kho_ii huu.N
+jab tanhaa rahatii huu.N khud se kuchh kahatii huu.N
+aisaa lagataa hai \threedots
+
+naa jaane kab kaise maine hosh ga.nvaayaa hosh ga.nvaayaa
+diivaanaa dil kho gayaa kaise samajh na paayaa samajh na paayaa
+kyaa mausam aayaa hai paagalapan chhaayaa hai
+ko_ii to jaaduu hai khud pe naa kaabuu hai
+aisaa lagataa hai \threedots
+
+saarii saarii rainaa mujh ko nii.nd naa aa_e nii.nd naa aa_e
+ko_ii chorii chorii meraa chain churaa_e chain churaa_e
+chuu.Dii kyuu.N bajatii hai bi.ndiyaa kyuu.N sajatii hai
+tanhaa_ii Dasatii hai mujh pe vo ha.Nsatii hai
+aisaa lagataa hai \threedots
+%
+#endindian
+\endsong
+

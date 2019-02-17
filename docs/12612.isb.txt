@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{are ho jamaalo zaraa mujhako sambhaalo ... mere dil kii baate.n jaane naa}%
+\film{Kaise Kahoon Ke... Pyaar Hai}%
+\year{2003}%
+\starring{Dharmendra, Amit Hingorani, Sharbani Mukherji, Sunny Deol}%
+\singer{Udit Narayan, Vaishali Samant}%
+\music{Viju Sha}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11756 [V S Rawat]
+% Producer: Kapleshwar Pictures, Arjun Hingorani, Director: Anil Kumar Sharma
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Soprano 40459, Cost: Rs 50/-, CD: 
+% 
+\printtitle
+#indian
+%
+u \:	( are ho jamaalo zaraa mujhako sambhaalo javaa.N mahafil sajaa lo
+	jamaalo ho jamaalo 
+	kiyaa hai pyaar maine ik la.Dakii se
+	vo naadaa.N mere dil kii baate.n jaane naa ) \-2
+
+ko \: ye ye ye
+u \:	uu.N ( mere savaalo.n me.n mere javaabo.n me.n tuu chhupii hai
+	mere Kayaalo.n me.n aa.Nkho.n me.n Kvaabo.n me.n tuu basii hai ) \-2
+	tuu merii yaado.n me.n tuu merii chaahat kii chaa.Ndanii hai
+	tuu merii saa.Nso.n me.n tuu sirf mere li_e hii banii hai
+	mere ho.nTho.n pe teraa fasaanaa
+	banaa tere li_e mai.n diivaanaa
+	mujhe kitanii mohabbat hai tujhase
+	mere dilabar nahii.n tuune jaanaa
+	are ho jamaalo zaraa mujhako sambhaalo javaa.N mahafil sajaa lo
+	jamaalo ho jamaalo 
+	kiyaa hai pyaar maine ik la.Dakii se
+	vo naadaa.N mere dil kii baate.n jaane naa
+
+ko \: ye ye ye
+vai \:	( tuu jo milaa mujhako saare zamaane ko bhuul ga_ii mai.n
+	aake panaaho.n me.n terii hii baa.Nho.n me.n jhuul ga_ii mai.n ) \-2
+	chaahat ke panno.n pe maine to teraa hii ra.ng sajaayaa
+	tanhaa akele me.n maine to tujhako hii a.ng lagaayaa
+	mujhe tuune jo apanaa banaayaa
+	mere sapano.n ko sach kar dikhaayaa
+	baat baraso.n jo dil me.n chhupaa_ii
+	raaz vo aaj sabase bataayaa
+
+u \:	he ho jamaalo zaraa mujhako sambhaalo javaa.N mahafil sajaa lo
+	jamaalo ho jamaalo 
+vai \:	kiyaa hai pyaar maine ik la.Dake se
+	isake bin ab meraa dil to maane naa
+	ho maane naa ho
+	ho o maane naa
+%
+#endindian
+\endsong
+

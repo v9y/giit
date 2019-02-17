@@ -1,0 +1,62 @@
+
+%
+\startsong
+\stitle{hamase mat puuchho ... haay allaa\-qasam ba.Daa qaatil hai}%
+\film{China Town}%
+\year{1962}%
+\starring{Shammi Kapoor, Shakeela, Helen, Madan Puri}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11462 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa \:	hamase mat puuchho ki ham kyaa kar ga_e
+	kis tarah nazaro.n kaa daaman bhar ga_e
+	ko_ii inakii shoKiyaa.N dekhaa ki_e
+	ham to inakii saadaGii par mar ga_e
+
+ra \:	haay allaa\-qasam ba.Daa qaatil hai meraa yaar
+	chinaa chin chin chuu \-2
+aa \:	haath me.n tiir na talavaar
+	chinaa chin chin chuu
+
+ra \:	haay ye naaz ke jis naaz pe lailaa miT jaa_e
+	haay ye husn ke jis husn pe duniyaa luT jaa_e
+	dil ise dekhe to mushqil hai ki Kaamosh rahe
+	meraa jimmaa hai kisii ko bhii agar hosh rahe
+aa \:	haay\-haay sadaqe
+	hai kuchh aisaa meraa diladaar
+	chinaa chin chin chuu
+ra \:	ba.Daa qaatil hai \threedots
+aa \:	haath me.n tiir \threedots
+
+	inakii har baat pe nikale na meraa dam kaise
+	ye adaa_e.N ho.n to qurbaan na ho.n ham kaise
+	kabhii is tarah Kafaa jaise ko_ii pyaar kare
+	kabhii Kaamosh ki jaise ko_ii ikaraar kare
+ra \:	aur kabhii ikaraar me.n inkaar
+	chinaa chin chin chuu
+aa \:	ba.Daa qaatil hai \threedots
+ra \:	ba.Daa qaatil hai \threedots
+aa \:	haath me.n tiir \threedots
+
+ra \:	hamane chaahaa thaa ki zaalim ko na chaahe.nge kabhii \-2
+	ik sitamagar se yuu.N na nibhaa_e.Nge kabhii
+	par kare.n kyaa ki hamii Kafaa ho ke bhuul ga_e
+	jab milii aa.Nkh to sab zor\-o\-jafaa bhuul ga_e
+aa \:	o qasam Kudaa kii kyaa kare.n aa hii gayaa pyaar
+	chinaa chin chin chuu
+ra \:	ba.Daa qaatil hai \threedots
+aa \:	haath me.n tiir \threedots
+ra \:	ba.Daa qaatil hai \threedots
+%
+#endindian
+\endsong
+

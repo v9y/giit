@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{bolo jii bolo kuchh ... paravaanaa terii mahafil aayaa hai}%
+\film{Nishan}%
+\year{1965}%
+\starring{Sheikh Mukhtar, Sanjeev Kumar, Nazima, Helen, Heeralal, Prem Chopra}%
+\singer{Mukesh, Suman}%
+\music{Usha Khanna}%
+\lyrics{Javed Anwar}%
+%
+% Contributor: BOL ANAMOL #10470 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	bolo jii bolo kuchh bolo jii bolo
+	paravaanaa terii mahafil aayaa hai
+	diivaanaa terii mahafil aayaa hai
+su \:	socho jii socho kuchh socho jii socho
+	kyuu.N shamaa ne tumako bulaayaa hai \-2
+
+mu \:	shamaa roshanii terii kam ho na jaa_e
+	terii bazm me.n dil jalaane ko aa_e
+su \:	nahii.n dilajalo.n kaa yahaa.N kaam ko_ii \-2
+mu \:	hamaare hii dam se hai terii kahaanii
+su \:	navaazish inaayat karam meharabaanii
+	socho jii socho kuchh \threedots
+
+	hai paravaane terii zaraa sii ye hastii
+	nahii.n dekh achchhii ye aatish\-parastii
+mu \:	mohabbat me.n jalanaa hai iimaan meraa \-2
+su \:	mohabbat kii duniyaa ba.Dii beraham hai
+mu \:	magar aashiqo.n pe Kudaa kaa karam hai
+	bolo jii bolo kuchh \threedots
+%
+#endindian
+\endsong
+

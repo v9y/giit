@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil me.n mere bas ik savaal hai javaab do bataa_o}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Krishna Kumar}%
+\music{Vishal, Shekhar Ravjiyani}%
+\lyrics{Vishal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil me.n mere bas ik savaal hai javaab do bataa_o to lauT ke tum kab aa_ogii
+dil me.n mere teraa khyaal hai javaab do bataa_o ke kab merii tum ho jaa_ogii
+
+jabase khoyaa tujhe zi.ndagii khaalii khaalii sii lag rahii hai
+tere bin jaan\-e\-jaanaa.n jiine kaa ko_ii matalab nahii.n hai
+mujhe chho.D ke tum na jaanaa kabhii tumase duur rahake hai jiinaa nahii.n
+dil me.n mere \threedots
+
+jabase dekhaa tujhe merii jaa.n mai.n to paagal saaa ho gayaa  huu.N
+terii aa.Nkho.n me.n un nigaaho.n me.n mai.n to bas kho gayaa huu.N
+mujhe chho.D ke \threedots
+
+akelaa akelaa mai.n phirataa rahaa duniyaa kii raaho.n me.n girataa rahaa
+tere hii sapano.n me.n khoyaa hu_aa jaagaa hu_aa jaise soyaa hu_aa
+ab tuu hii ma.nzil hai tuu aarazuu tuu jaan jiine kii chaahat hai tuu
+tere binaa zi.ndagii hai adhuurii aakar kar le merii tamannaa_e.n puurii
+dil me.n mere \threedots
+
+haa.N aisaa bhii ho jaataa hai pyaar me.n kabhii kabhii
+%
+#endindian
+\endsong
+

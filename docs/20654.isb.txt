@@ -1,0 +1,41 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{kisii se na kahanaa}%
+\film{Kisi Se Na Kehna}%
+\year{1983}%
+\starring{Farooque Sheikh, Deepti Naval, Utpal Dutt, Deven Verma}%
+\singer{Asha}%
+\music{Bappi Lahiri}%
+\lyrics{}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 26 Jan 2005
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+phuulo.n tumhe.n pataa hai man kyo.n khilaa\-khilaa hai
+meraa bhed ye (kisii se na kahanaa) \-3
+
+har shaam hai si.nduurii har din lage suhaanaa
+jab se dil ne maanaa unako to apanaa
+ra.ngo.n tumhe.n pataa hai man kyo.n ra.ngaa\-ra.ngaa hai
+meraa bhed ye (kisii se na kahanaa) \-3
+
+ka_ii baar ye hu_aa hai jab saamane vo aa_e
+kuchh bhii kah na paa_e jhuk ga_e nainaa
+naino.n tumhe.n pataa hai man miit vo meraa hai
+meraa bhed ye (kisii se na kahanaa) \-3
+
+
+
+
+%
+#endindian
+\endsong

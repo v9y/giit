@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n mast ku.Dii tuu bhii mast mast mu.nDaa hai}%
+\film{Jodi No.1}%
+\year{1999?}%
+\starring{}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mast mast mast
+mai.n mast ku.Dii tuu bhii mast mast mu.nDaa hai
+mai.n bhii hasiin tuu bhii jabaradast mu.nDaa hai
+mai.n mast ku.Dii \threedots
+
+tujhase nazar la.Dii khushbuu sii u.Dii
+tuune chhu_aa to ruup kii mastii chhalak pa.Dii
+ai merii phulajha.Dii ruk jaa tuu ik gha.Dii
+ye dil phisal gayaa meraa chikanii hai tuu ba.Dii
+baate.n banaa rahaa hai ba.Daa chikanaa chust mu.nDaa hai
+mai.n bhii hasiin \threedots
+
+ye husn kaa dariyaa chhalakaa hu_aa nashaa
+mai.n tujhape fida ho gayaa ho.nTho.n se tuu pilaa
+kyaa khuub jamegii dono.n kii ye jo.Dii
+chaahat ke faisale me.n abhii der hai tho.Dii
+dil chhiin liyaa tuune ba.Daa sakht mu.nDaa hai
+mai.n bhii hasiin \threedots
+%
+#endindian
+\endsong
+

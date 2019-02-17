@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{jahaa.N me.n jinakii qismat ... bahut puradard hai}%
+\film{Birha Ki Raat}%
+\year{1950}%
+\starring{Dev Anand, Nargis, Snehprabha Pradhan, Om Prakash, Madan Puri}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: BOL ANAMOL #10400 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jahaa.N me.n jinakii ummiido.n ke be.De paar hote hai.n
+vo Kushqismat hazaaro.n me.n kahii.n do\-chaar hote hai.n
+
+bahut puradard hai ai sunane vaalo.n daastaa.N merii
+go Gam kii daastaa.N merii
+hazaaro.n ra.nj hai.n aur ek jaan\-e\-naatavaa.N merii
+vo jaan\-e\-naatavaa.N merii
+bahut puradard hai \threedots
+
+% tavaa.N: physical strength, naa-tavaa: weakling
+
+safar vo zindagii kyo.n tuune bakhshaa bakhshane vaale
+o bakhshane vaale
+zaraa ye bhii bataa de aake ma.nzil hai kahaa.N merii
+ki ma.nzil hai kahaa.N merii
+bahut puradard hai \threedots
+
+muhabbat aur naakaamii ( javaanii aur barabaadii ) \-2
+inhii.n do chaar lafzo.n me.n ( chhupii hai daastaa.N merii ) \-2
+bahut puradard hai \threedots
+%
+#endindian
+\endsong
+

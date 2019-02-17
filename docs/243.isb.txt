@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{baaho.n me.n terii, mastii ke ghere, saa.nso.n me.n terii}%
+\film{Kaala Patthar}%
+\year{1979}%
+\starring{Amitabh Bachhan, Rakhee, Shashi Kapoor, Parveen Babi}%
+\singer{Lata, Rafi}%
+\music{Rajesh Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Kannan Muthukkaruppan (mkannan@mahogany.CS.Berkeley.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+baaho.n me.n terii, mastii ke ghere
+saa.nso.n me.n terii, khushabuu ke Dere
+mastii ke ghero.n me.n, khushabuu ke Dere me.n, ham khoe jaate hai.n
+
+## male ##: Kvaabo.n me.n jisako, tanahaa javaanii
+baraso.n se takatii thii, tuu vahii hai
+## female ##: chhuune se jisako, siine me.n merii
+lau jaag sakatii thii, tuu vahii hai
+## male ##: kuchh Kvaab mere,  kuchh Kvaab tere
+## female ##: yuu.N milate jaate hai.n
+dil khilate jaate hai.n,  lab gun\-gunaate hai.n
+baaho.n me.n terii \threedots
+
+## male ##: bikharaa ke zulfe.n, jhuk jaao mujhape
+milane do saayaa, tapate badan ko
+## female ##: maine hameshaa, terii amaanat
+samajhaa hai mere, jaanaaz tan ko
+## male ##: tuu saath mere,  mai.n saath tere
+## female ##: ruuho.n ke ruuho.n se
+jismo.n ke jismo.n se,  sadiyo.n ke naate hai.n
+baaho.n me.n terii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{meraa tujh se hai pahale kaa naataa koii}%
+\film{Aa Gale Lag Ja}%
+\year{1973}%
+\starring{Shashi Kapoor, Sharmila, Shatrughan Sinha, Master Tito}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/08/1995
+% Credits:  Ashok Dhareshwar <adhareshwar@worldbank.org>
+%           Rajan P. Parrikar <parrikar@spot.Colorado.EDU>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: Another version by Kishore and Poornima (Sushma Shreshta)
+%
+\printtitle
+#indian
+%
+meraa tujh se hai pahale kaa naataa koii
+yuu.N hii nahii.n dil lubhaataa koii
+jaane tuu yaa jaane na
+maane tuu yaa maane na
+
+dhuaa.N\-dhuaa.N thaa vo samaa
+yahaa.N\-vahaa.N jaane kahaa.N
+tuu aur mai.n kahii.n mile the pahale
+dekhaa tujhe to dil ne kahaa
+jaane tuu yaa jaane na
+maane tuu yaa maane na
+
+tuu bhii rahii mere li_e
+mai.n bhii rahaa tere li_e
+pahale bhii mai.n tujhe baaho.n me.n leke
+jhuumaa kiyaa aur jhuumaa kiyaa
+jaane tuu yaa jaane na
+maane tuu yaa maane na
+
+dekho abhii khonaa nahii.n
+kabhii judaa honaa nahii.n
+ab khel me.n yuu.Nhii rahe.nge dono.n
+vaadaa rahaa ye is shaama kaa
+jaane tuu yaa jaane na
+maane tuu yaa maane na
+%
+#endindian
+\endsong
+%

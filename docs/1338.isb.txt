@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{nazar ke saamane jigar ke paas}%
+\film{Aashiqui}%
+\year{}%
+\starring{Anu Agarwal, Rahul Roy}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer, Rani Mallik}%
+%
+% Contributor: satish subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+saa: nazar ke saamane jigar ke paas \- 2
+koI rahataa hai vo ho tum m_m_m_m_m
+
+anu: nazar ke saamane jigar ke paas \- 2
+koI rahataa hai vo ho tum m_m_m_m_m
+
+saa: nazar ke saamane jigar ke paas
+
+betaabii kyaa hotii hai pUchho mere dil se \- 2
+tanhaa tanhaa lauTaa huu.N mai to bharI mahafil se
+mar naa jaauu.n kahI.n \threedots
+mar naa jaauu.n kahI.n hoke tum se judaa
+
+saa: nazar ke saamane jigar ke paas \- 2
+koi rahataa hai vo ho tum m_m_m_m_m.
+nazar ke saamane jigar ke paas
+
+anu: tanhaaI jIne naa de bechainI ta.Dapaae \- 2
+tumako mai.n naa dekhU.n to dil meraa ghabarAe
+ab mujhe chho.D ke \threedots
+ab mujhe chho.D ke duur jaanaa nahii.n
+
+anu: nazar ke saamane jigar ke paas \- 2
+koI rahataa hai vo ho tum m_m_m_m_m
+saa: nazar ke saamane jigar ke paas \- 2
+
+dono: koI rahataa hai vo ho tum m_m_m_m_m
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dukh se bharaa huaa hai dil}%
+\film{Jaan Pehchaan}%
+\year{1950}%
+\starring{}%
+\singer{Shankar Dasgupta}%
+\music{Khemchand Prakash}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+duHkh se bharaa huaa hai dil
+jiine me.n kuchh mazaa nahii.n
+TuuT gaye sab aasare
+ab koii aasaraa nahii.n
+duHkh se bharaa huaa hai dil
+
+dard se dil niDhaal hai
+aaj ye apanaa haal hai
+ruuThii huii hai zi.ndagii
+maut kaa bhii pataa nahii.n
+duHkh se bharaa huaa hai dil
+
+biga.De hue nasiib ne
+luuT liyaa chaman meraa
+haay! Kizaa tuu Gam na kar
+terii koii khataa nahii.n
+duHkh se bharaa huaa hai dil   \threedots
+
+%
+#endindian
+\endsong
+%

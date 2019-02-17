@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dil le ke dil diyaa hai ehasaan kyaa kiyaa hai}%
+\film{Stage}%
+\year{1951}%
+\starring{}%
+\singer{Lata, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Sarshar Silani}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+la : dil le ke dil diyaa hai ehasaan kyaa kiyaa hai
+     itanaa guruur kaisaa kyaa muft de diyaa hai
+
+ra : qurabaan is adaa ke phir dekh muskuraa ke
+     nazaro.n se dil u.Daa ke qabzaa jamaa liyaa hai
+la : dil le ke dil diyaa hai ehasaan kyaa kiyaa hai
+
+la : do mast nain tere do mast nain mere
+     dono.n ne chaar ho ke ik dil churaa liyaa hai
+ra : dil le ke dil diyaa hai ehasaan kyaa kiyaa hai
+
+ra : taaro.n se koii puuchhe bechainiyaa.N hamaarii
+     jis din se dil diyaa hai ik dard le liyaa hai
+do : dil le ke dil diyaa hai ehasaan kyaa kiyaa hai
+
+%
+#endindian
+\endsong
+%

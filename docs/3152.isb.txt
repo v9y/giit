@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{muhabbat par bahaar aatii}%
+\film{Shayar}%
+\year{1949}%
+\starring{Dev Anand,Suraiyya}%
+\singer{Lata}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:13 May,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+tere khayaal ko dil se lagaaye baiThe hai.n
+ham intezaar kii duniyaa basaaye baiThe hai.n
+
+(muhabbat par bahaar aatii)\-2
+jahaan gulzaar ho jaataa
+(agar betaab nazaro.n ko)\-2
+teraa diidaar ho jaataa
+
+mere dil kii khushii bankar,
+agar tum saamane aate
+saamane aate
+(to shaayad aankhon aankhon me.n)\-2
+koii ikaraar ho jaataa
+
+milaa hai dil se dil, 
+ye bhii sahaaraa kam nahii.n mujhako
+kam nahii.n mujhako
+(nazaro.n se jab nazar milatii)\-2
+to beD-e-paar? ho jaataa
+(muhabbat par bahaar aatii)\-2
+jahaan gulzaar ho jaataa
+%
+#endindian
+\endsong
+%

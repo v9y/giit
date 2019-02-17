@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{dil me.n ho tum, aa.Nkho.n me.n tum, bolo tumhe kaise chaahuu.N}%
+\film{Satyamev Jayate}%
+\starring{Vinod Khanna, Anita Raaj}%
+\singer{Bappi Lahiri}%
+\music{Bappi Lahiri}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Vivek Vohra (vivek@oz.che.rochester.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+% 
+dil me.n ho tum, aa.Nkho.n me.n tum
+bolo tumhe kaise chaahuu.N
+puujaa karu.N, sajadaa karu.N
+jaise kaho vaise chaahuu.N
+jaanuu.N merii jaanuu.N, jaane, yaa naa jaanuu.N
+
+akelaa huu.N mai.n akelaa
+tumhe phir dila ne pukaaraa
+tumhaarii yaade.n sataaai.n
+nahii.n hai koI hamaaraa
+duniyaa ke Gam, sahataa huu.N mai.n
+birahaa ke Gam, sah naa paaU.N
+jaanuu.N merii jaanuu.N, jaane, yaa naa jaanuu.N
+
+hameshaa dekhaa yahii hai
+milana ke sa.nga hai judaaI
+shaayada vo hogaa diivaanaa
+chaahata hai jisane banaaI
+chaahe jaluu.N, chaahe maruu.N
+phir bhii tere guna me.n gaaU.N
+jaanuu.N merii jaanuu.N, jaane, yaa naa jaanuu.N
+
+dila me.n ho tum, aa.Nkho.n me.n tum
+bolo tumhe kaise chaahuu.N
+puujaa karu.N, sajadaa karu.N
+jaise kaho vaise chaahuu.N
+jaanuu.N merii jaanuu.N, jaane, yaa naa jaanuu.N
+%
+#endindian
+\endsong
+%

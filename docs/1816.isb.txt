@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tuu mere saath chal na paaegii ## mukesh gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Vipin Mehra}%
+\lyrics{Shamim Shahabadi}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (tanvi@utxvms.cc.utexas.edu)
+%          Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tuu mere saath chal na paaegii
+jab merii raah terii raah se milatii hii nahii.n
+phir meraa saath nibhaane kii zaruurat kyaa hai
+apanii maasuum tamannaao.n ko raibaar naa banaa
+Kvaab phir Kvaab hai.n labo.n kii haqiikat kyaa hai
+ye na_ii raah tujhe raas nahii.n aaegii
+
+maine maanaa ki tujhe mujhase muhabbat hai magar
+merii gurbat terii chaahat kaa dilaa kyaa degii
+apanii meharumi\-e\-kismat se pareshaan huu.N mai.n
+bebasii ashq\-e\-nadaamat ke sivaa kyaa degii
+vaqt kii dhuup me.n har chiiz jhulas jaegii
+tuu mere saath chal na paaegii
+%
+#endindian
+\endsong
+%

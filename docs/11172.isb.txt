@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ek to kam zindagaanii ... pyaar me.n saaraa jiivan guzaar do}%
+\film{Dharam Adhikaari}%
+\year{1986}%
+\starring{Dilip Kumar, Jitendra, Sridevi, Pran, Kader Khan, Shakti Kapoor}%
+\singer{Shabbir Kumar, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek to kam zindagaanii usase bhii kam naujavaanii
+usase bhii kam vaqt kii meharabaanii
+pal pal pyaar me.n baa.nT do
+pyaar me.n saaraa jiivan guzaar do
+ek to kam zindagaanii \threedots
+
+pyaar teraa rab meraa mil ga_ii mujhe to Kudaa_ii
+motii badan hiire nayan nazare.n kiran saa.Nse.n chaman
+aa_ii bahaar li_e aashaa
+are o ek to kam zindagaanii \threedots
+
+ho.nTh mere naam tere har saa.Ns tere li_e hai
+pyaar kabhii kam na hogaa dil ye iraadaa kiye hai
+ma.nzil terii merii galii \-2 bha.nvaraa hai tuu mai.n kalii huu.N
+sa.ngat terii chaahi_e
+ek to kam zindagaanii \threedots
+%
+#endindian
+\endsong
+

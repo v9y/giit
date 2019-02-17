@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{sochaa thaa pyaar ham naa kare.nge}%
+\film{Bluff Master}%
+\year{1963}%
+\starring{Shammi Kapoor, Saira Bano, Pran}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #10927 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+sochaa thaa pyaar ham naa kare.nge
+suurat pe yaar ham naa mare.nge
+phir bhii kisii pe dil aa gayaa
+sochaa thaa pyaar \threedots
+
+bahut Kaaq duniyaa kii chhaanii thii hamane
+ab tak kisii kii na maanii thii hamane \-2
+dhokhe me.n dil kaise aa gayaa
+sochaa thaa pyaar \threedots
+
+yahaa.N tak to aaye the daaman bachaa ke
+jaa na sake phir tere dar pe aa ke \-2
+jaaduu mohabbat kaa chhaa gayaa
+sochaa thaa pyaar \threedots
+
+agar dil na dete ba.Daa naam karate
+magar pyaar me.n ba.Daa kaam karate \-2
+dil ko yahii kaam bhaa gayaa
+sochaa thaa pyaar \threedots
+%
+#endindian
+\endsong
+

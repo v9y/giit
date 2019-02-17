@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jaane chale jaate hai.n kahaa.N, duniyaa se jaanevaale}%
+\film{Pushpanjali}%
+\starring{}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Preeti Ranjan Panda on RMIM (ppanda@cliff.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu), Satish Subramanian
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane chale jaate hai.n kahaa.N,
+duniyaa se jaanevaale, jaane chale jaate hai.n kahaa.N,
+kaise DhU.nDhe koI unako, nahI.n kadamo.n ke bhii nishaa.n
+
+(jaane hai vo \- 2) kaun nagariyaa,
+aaye jaaye khat naa khabariyaa,
+aaye jab jab unakii yaade.n,
+aaye hoTho.n pe fariyaade.n,
+jaake phir naa aane vaale
+jaane chale jaate hai.n kahaa.N \threedots
+
+(mere bichha.De \- 2) jiivan saathii,
+saathii jaise dIpak baatii,
+mujhase bichha.D gaye tum aise,
+saavan ke jaate hii jaise,
+u.Dake baadal kaale kaale,
+jaane chale jaate hai.n kahaa.N 
+
+duniyaa se jaanevaale, jaane chale jaate hai.n kahaa.N,
+kaise DhU.nDhe koI unako, nahii.n kadamo.n ke bhii nishaa.n
+jaane chale jaate hai.n kahaa.N \threedots
+%
+#endindian
+\endsong
+%

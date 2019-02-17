@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mujhako baar baar yaad na aa bewafaa o bewafaa}%
+\film{Raagini}%
+\year{1958}%
+\starring{Kishore, Ashok Kumar, Padmini, Sundar, Achala Sachdev, Iftikhar}%
+\singer{Asha, Kishore}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ki \:	mujhako baar baar 
+	mujhako baar baar yaad na aa, bewafaa o bewafaa
+	mujhako baar baar yaad na aa, bewafaa, bewafaa
+
+	( haay kyaa baat tuune kahii
+	mai.n sharaabii huu.N yuu.N hii sahii ) \-2
+	aa mere haal par muskaraa
+	mujhako baar baar 
+	mujhako baar baar yaad na aa, bewafaa, bewafaa
+
+	( giit sunane ko aaye sabhii
+	ko_ii jaane naa dil kii lagii ) \-2
+	khuub gaa mere dil khuub gaa
+	mujhako baar baar 
+	mujhako baar baar yaad na aa, bewafaa, o bewafaa
+
+	( terii mahafil se ab ham chale
+	hai ko_ii jo mujhe thaam le ) \-2
+	mai.n giraa, mai.n giraa, mai.n giraa
+	mujhako baar baar 
+	mujhako baar baar yaad na aa, bewafaa, bewafaa
+
+% Asha joins here
+
+aa \:	( tuu hii sab kuchh hai mere liye
+	mai.nne pii aaj tere liye ) \-2
+	bhuul jaa apanaa Gam bhuul jaa
+	mujhako baar baar 
+	mujhako baar baar yaad na aa, bewafaa, bewafaa \-2
+
+ki \:	mujhako baar baar yaad na aa, bewafaa, bewafaa \-2
+
+#endindian
+\endsong

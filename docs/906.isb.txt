@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jogii, ham to luT gaye tere pyaar me.n}% 
+\film{Shaheed}%
+\year{1965}%
+\starring{Manoj Kumar, Nirupa Roy, Kamini Kaushal, Prem Chopra, Pran}%
+\singer{Lata}%
+\music{Prem Dhawan}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Prince Kohli (pkohli@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Anju Bhatnagar
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+jogii, ham to luT gaye tere pyaar me.n 
+jaane tujhako,
+haay re jaane tujhako khabar kab hogii 
+o ham to luT gaye tere pyaar me.n 
+jaane tujhako haay re jaane tujhako khabar kab hogii 
+
+chandaa bhI dekhA taare bhI dekhe dekhaa sUraj baraso.n 
+lekin jis din tujhako dekhaa man me.n phUTii saraso.n 
+haay re jogii \threedots 
+
+champaa kii Daal me.n a.Dii chunariyaa raa.njhe aake chhu.Daae.n 
+jis raa.njhe ko dil de baiThii us ko lagan paraae 
+haay re jogii \threedots 
+
+buraa ho in bairan a.Nkhiyo.n kA kar baiThii.n naadaanii 
+pahale aag lagaa dii man me.n ab barasaae.n paanii 
+haay re jogii \threedots 
+%
+#endindian
+\endsong
+%

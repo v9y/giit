@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{merii jaan kuchh bhii kiiji_e ... kabhii yaad hame.n bhii kiiji_e}%
+\film{Chhalia}%
+\year{1960}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10878 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	merii jaan kuchh bhii kiiji_e
+	chaahe jaan merii liiji_e
+	par dil hamii.n ko diiji_e \-2
+la \:	kabhii yaad hame.n bhii kiiji_e
+	kabhii naam hamaaraa liiji_e
+	sapano.n me.n aayaa kiiji_e \-2
+
+mu \:	kabhii to hamase kar lo do baate.n pyaaraa mukha.Daa mo.D ke
+	tum kaho to dharatii pe laa de.n chaa.Nd\-taare to.D ke
+	par ye vaadaa hamase kar lo jaa_oge naa chho.D ke
+la \:	kabhii yaad hame.n \threedots
+
+	yaad aakar terii jo ta.Dapaa_e to ko_ii kyaa kare
+	teraa daaman na haatho.n me.n aa_e to ko_ii kyaa kare
+	chaa.Nd bhii aag ban jaa_e to ko_ii kyaa kare
+mu \:	merii jaan kuchh \threedots
+
+	dil kisii ko ek din to dogii kyuu.N hame.n detii nahii.n
+	paas aakar ye to bataa de kyaa ham bure hai.n o hasii.n
+	chaudahavii.n kaa chaa.Nd ho tum ham bhii tujhase kam nahii.n
+la \:	kabhii yaad hame.n \threedots
+mu \:	merii jaan kuchh \threedots
+%
+#endindian
+\endsong
+

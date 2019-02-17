@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{aayii barakhaa bahaar pa.De buu.Ndan phuhaar}%
+\film{Shokhiyan}%
+\year{1951}%
+\starring{Suraiya, Premnath, Jeevan}%
+\singer{Lata, chorus}%
+\music{Jamal Sen}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aayii barakhaa bahaar pa.De bu.Ndan phuhaar
+bairii bin barakhaa suhaaye na sakhii
+o daiyaa un bin kachhu mohe bhaaye na sakhii
+o rii, o rii \threedots
+
+o pavan chale puravai_iyaa, puravai_iyaa
+o morii Dole re jaise naiyaa, naiyaa
+o more raajaa balam
+ghar aaye na sakhii
+bairii bin barakhaa \threedots
+
+nainaa tapat baalam binaa
+gale milan ko byaakul saare
+o va_ii va_ii daiyaa
+o moraa chain karejavaa
+paaye na sakhii
+bairii bin barakhaa \threedots
+
+yaad aayii nit baat suhaanii
+chhalak gayii aa.Nkho.n se javaanii
+o va_ii va_ii daiyaa
+o koii chhailaa piyaa
+... bhii aaye na sakhii
+bairii bin barakhaa \threedots
+
+%
+#endindian
+\endsong
+%
+

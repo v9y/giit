@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{kaahe manavaa naache}%
+\film{Alaap}%
+\year{1977}%
+\starring{Rekha, Amitabh Bachchan}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Dr. Rahi Masoom Reza}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+kaahe manavaa naache hamaraa
+sakhii rii koii ise ab samajhaaye
+kaahe manavaa naache   \threedots
+
+nayanan kajaraa Daalan baiThii
+maathe pe suuraj paalan baiThii
+biich me.n aaye dekho sapane kaa.N se
+kaahe manavaa naache   \threedots
+
+nas nas me.n ye kaun utaraa hai
+dil me.n kis kaa dil dha.Dakaa hai
+naabaa naam kaa nis din baase
+kaahe manavaa naache   \threedots
+
+%
+#endindian
+\endsong
+%

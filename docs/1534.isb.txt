@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{reshamii ujaalaa hai, makhamalii andheraa}% 
+\film{Sharmilee}%
+\year{}%
+\starring{Shashi Kapoor, Raakhi}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  Prince Kohli on RMIM (pkohli@cc.gatech.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+## Aaaaahhh (haaaaa? :) ##
+
+(reshamI ujAlA hai, makhamalI a.ndherA 
+aaj kI raat, aisA kuchh karo ) \- 2
+ho nahI.n, ho nahI.n, ho nahI.n saverA \threedots
+
+(aisI to raat roz nahI.n aaye, aa.Nkho.n se koI roz nA pilAye
+aaj to jaam se hamAre, pI le, pI le, pI le zaraa \threedots ) \- 2:
+reshamI ujAlA hai \threedots
+
+(aisA re shabaab aur hai kahaa.N, merI zulfo.n kA aashiq hai jahaa.N
+dekhI nA hogI kahI.n tUne, aisI, aisI, aisI adaa \threedots ) \- 2
+reshamI ujAlA hai \threedots
+
+A mere paas sochatA hai kyA, aaj hai muaaf terI har khatA 
+dIvAnA tere liye kab se, dil hai, dil hai, dil hai, merA, merA, merA, merA \threedots ) \- 2
+reshamI ujAlA hai \threedots
+%
+#endindian
+\endsong
+%

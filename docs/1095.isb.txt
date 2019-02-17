@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mai.n aayaa huu.N, leke saaz haatho.n me.n}% 
+\film{Amir Garib}%
+\year{1974}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+mai.n AyA huu.N, leke saaz hAtho.n me.n 
+mahafil kii mastaanii, ho mastaanii raato.n me.n in in in in 
+mai.n AyA huu.N 
+
+to.Dake dilo.n ko mai.n ye kaam kar rahaa huu.N
+haa.n mai.n mohabbat ko naye a.ndaaz de rahaa huu.N 
+basakar sabakii aa.Nkho.n me.n, in dilakash mulaakaato.n me.n 
+mai.n AyA huu.N 
+
+shokh hasiino.n ko mai.n aavaaz de rahaa huu.N 
+haa.n naam javAnI kA mai.n badanaam kar rahaa huu.N 
+ha.Nsakar baato.n baato.n me.n, naGamo.n kI baaraato.n me.n 
+mai.n AyA huu.N  
+
+giit mere sunakar, naujavaan jaag uThe hai.n 
+haa.n nii.nd nahii.n AtI, ka{}ii aramaan jaag uThe hai 
+thaam ke dil ko hAtho.n me.n, jalate hai.n barasAto.n me.n 
+mai.n AyA huu.N 
+
+mai.n AyA huu.N , leke saaz hAtho.n me.n 
+mahafil kii mastaanii , ho mastaanii raato.n me.n in in in in 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,73 @@
+%
+\startsong
+\stitle{chhoTaa saa ghar hogaa baadalo.n kii chhaa.Nv me.n}%
+\film{Naukri}%
+\year{1954}%
+\starring{Kishore Kumar, Sheila Ramani, Kanhaiyalal}%
+\singer{Kishore, Shaila Belle / Hemant}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Ranjit Konkar (konkar@bimini.stanford.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Arun Verma (verma@cs.cornell.edu)
+%          Prithviraj Dasgupta
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+
+chhoTaa saa ghar hogaa baadalo.n kii chhaa.Nv me.n
+aashaa diivaanii man me.n ba.nsurii bajaaye
+ham hii ham chamake.nge taaro ke us gaa.Nv me.n
+aa.Nkho.n kii roshanii har dam ye samajhaaye
+
+chaa.Ndii kii kursii pe baiThe merii chhoTii bahanaa
+sone ke si.nhaasan pe baiThe merii pyaarii maa.N
+meraa kyaa mai.n pa.Daa rahuu.Ngaa ammii jii ke paa.Nv me.n
+meraa kyaa mai.n pa.Daa rahuu.Ngaa ammii jii ke paa.Nv me.n
+aa a_i re, aa a_i re
+aa a_i re, aa a_i re
+chhoTaa saa ghar hogaa \threedots
+
+merii chhoTii bahanaa naazo.n kii paalii shahazaadii
+jitanii bhii jaldii ho mai.n kar duu.Ngaa isakii shaadii
+achchhaa hai ye balaa hamaarii jaaye duuje gaa.Nv me.n
+achchhaa hai ye balaa hamaarii jaaye duuje gaa.Nv me.n
+aa a_i re, aa a_i re
+aa a_i re, aa a_i re
+chhoTaa saa ghar hogaa \threedots
+
+## (different tune - ) ##
+
+kahegii maa.N dulhan laa beTaa ghar suunaa suunaa hai
+man me.n jhuum kahuu.Ngaa mai.n maa.N itanii jaldii kyaa hai?
+galii galii me.n tere raaj_dulaare kii charchaa hai
+aakhir koii to aayegaa in naino.n kii gaa.Nv me.n
+aakhir koii to aayegaa in naino.n kii gaa.Nv me.n
+aa a_i re, aa a_i re
+aa a_i re, aa a_i re
+chhoTaa saa ghar hogaa \threedots
+
+%
+% Hemant Kumar version
+%
+chhoTaa saa ghar hogaa baadalo.n ke chhaa.Nv me.n
+aashaa divaanii man me.n ba.nsuurii bajaaye
+ham hii ham chamake.nge taaro.n ke us gaa.Nv me.n
+aa.Nkho.n kii roshanii haradam ye samajhaaye
+
+(chhaa.Ndii kii kursii pe baithe merii chhoTii bahanaa ) \-2
+sone ke si.nhaasan pe baithe merii pyaarii maa.N
+(meraa kyaa mai pa.Daa rahuu.Ngaa ammii jii ke paa.Nv me.n) \-2
+aa aa aa_ii re aa aa aa_ii re
+aa aa aa_ii re aa aa aa_ii re \threedots
+
+%
+#endindian
+\endsong
+%

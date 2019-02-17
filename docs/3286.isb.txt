@@ -1,0 +1,56 @@
+% ITRANS SONG # 3286; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)
+% Date: 2002-07-23 16:04:54 PST 
+%
+\startsong
+\stitle{barakhaa kii raat me.n he ho haa}%
+\film{Sardaar}%
+\year{1955}%
+\starring{Ashok Kumar, Beena Roy, Nigaar}%
+\singer{Geeta, Chorus}%
+\music{Jagmohan 'Sursagar'}%
+\lyrics{Uddhav Kumar}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:20 July, 2002
+% Credits: V S Rawat
+%
+\printtitle
+#indian
+%
+ge:aahaa ~
+ch:ho haa ho he ho haa
+ge:barkhaa kii raat me.n he ho haa
+ch:barkhaa kii raat me.n he ho haa
+ge:(ras barase niil gagan se)\-2
+ch:(barkhaa kii raat me.n he ho haa)\-2
+ge:(ras barase niil gagan se)\-2
+ch:(barkhaa kii raat me.n he ho haa)\-2
+
+ge:(Tap Tap aaye meraa aa.nchal bhigoye
+Tap Tap aaye mere mukha.De ko dhooye)\-2
+meraa kaa.Np kaa.Np jaaye jiyaa buu.ndan se
+ras barase niil gagan se
+ch:(barkaa kii raat me.n he ho haa)\-2
+
+ge:(koii kahe baadal se motii gire)\-2
+(koii kahe raat haaye rotii phire)\-2
+mai.n to maa.ng laa_ii saawan ko phaagun se
+ras barase niil gagan se
+ch:(barkhaa kii raat me.n he ho haa)\-2
+
+ge:(bhiige hai tan phir bhii jalataa hai man)\-2
+(jaise ke jal me.n lagii ho agan)\-2
+raam sab ko bachaaye is ulajhan se
+ras barase niil gagan se
+ch:(barkhaa kii raat me.n he ho haa)\-2
+ge:(ras barase niil gagan se)\-2
+ch:(barkhaa kii raat me.n he ho haa)\-2
+ge:aahaa ~
+ch:(barkhaa kii raat me.n he ho haa)\-2
+%
+#endindian
+\endsong
+%

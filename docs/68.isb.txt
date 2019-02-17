@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aaj safar me.n tumane kyo.n, chho.D diyaa meraa saath}%
+\film{Hamaare Tumhaare}%
+\year{}%
+\starring{Sanjeev Kumar, Raakhee, Radhika, Gayatri, Prem Kishan, Mehmood, Shubha Khote}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subramaniam 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham aur tum the saathii
+abhii hai kal kii baat
+aaj safar me.n tumane kyo.n
+chho.D diyaa meraa saath
+
+kaise hai.n ye a.ndhere Dhalate nahI.n
+miilo.n talaq ujaale milate nahI.n
+hamAre tumhAre
+hamAre tumhAre jiivan me.n kaise aa_I
+ye a.ndhiyArI raat
+aaj safar \threedots
+
+jalatA hai dil mai.n phir bhI khAmosh huu.N
+kisase karuu.N mai.n shikavA kyA doshh duu.N
+hamAre tumhAre
+hamAre tumhAre sapane jo sach hue the
+thAme hai.n merA haath
+aaj safar \threedots
+%
+#endindian
+\endsong
+%

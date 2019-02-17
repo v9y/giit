@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{phuulo.n se dostii hai kaa.NTo.n se yaarii hai}%
+\film{Duniyaa Jhukti Hai}%
+\year{1960}%
+\starring{Sunil Dutt, Shyama, Kumkum, Agha Jaan,  Daisy Irani, B M Vyas}%
+\singer{Rafi}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10225 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+phuulo.n se dostii hai kaa.NTo.n se yaarii hai
+aise maze kii hoy
+aise maze kii pyaare zindagii hamaarii hai
+
+samajhaa Kushii ko Kushii Gam ko na Gam
+maut ke bhii naam se na ghabaraa_e ham
+kashtii sadaa hii ma.Njhadhaar me.n utaarii hai
+aise maze kii pyaare \threedots
+
+chaahe zamii.n ho yaa ho aasamaan
+Thokar me.n apanii hai.n dono.n jahaan
+jitanii guzaarii isii shaan se guzaarii hai
+aise maze kii pyaare \threedots
+
+apanii khataa_o.n pe bhii naaz hai
+judaa saarii duniyaa se a.ndaaz hai
+pii bhii nahii.n hai phir bhii khumaarii hai
+aise maze kii pyaare \threedots
+%
+#endindian
+\endsong
+

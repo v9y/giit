@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{idhar se dekho ... ye la.Dakii nahii.n ye banaaras kaa paan hai}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Sonu Nigam, Bela Sulakhe}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+idhar se dekho udhar se dekho
+dekho chaahe.n jidhar se dekho
+kamasin hai shokh hai hasiin hai javaaan hai
+dil meraa dil yaaro.n isape kurbaan hai
+ye la.Dakii nahii.n ye banaaras kaa paan hai
+
+aashiq diivaanaa hai paagal naadaan hai
+niiyat se lagataa mujhe ye be_iimaan hai
+are isako bachaa isakii khatare me.n jaan hai
+ye ko_ii premii mujhe dilaphe.nk lagataa hai
+naa to dil se naa shakal se nek lagataa hai
+
+ise ho.nTho.n pe apane sajaa kar rakhuu.n
+ise daa.Nto.n tale mai.n dabaa ke rakhuu.n
+ye to javaanii ke katthe kii dukaan hai
+ye la.Dakii nahii.n ye \threedots
+
+dil me.n haa.N ho.nTho.n pe naa mahabuub hotii hai
+ye hasiino.n kii adaa bhii khuub hotii hai are
+are mai.n chiiz kyaa huu.N ye jaane nahii.n
+ba.Daa ziddii anaa.Dii hai maane nahii.n
+tevar se mere abhii ye a.njaan hai
+are isako bachaa \threedots
+%
+#endindian
+\endsong
+

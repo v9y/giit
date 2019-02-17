@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dil me.n dard saa ... muhabbat ye nahii.n to kyaa hai}%
+\film{Kranti}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n dil me.n dard saa jagaa hai
+kaa.NTaa saa kahii.n lagaa hai
+muhabbat ye nahii.n to kyaa hai o ho ho
+aa haa haa haa
+dil me.n dard saa \threedots
+
+zaraa saa jo duur ga_e to dau.De dau.De paas tumhaare aa_e
+yaad tumhaarii haay hamaarii jaan hii naa le jaa_e
+chhup jaa_o tum merii in baaho.n me.n
+marake bhii naa ham bichha.De in raaho.n me.n
+vaadaa hamane bhii kiyaa hai
+vaadaa tumane bhii kiyaa hai
+muhabbat ye nahii.n to \threedots
+
+naa ye ham jaane naa tum jaane ik duuje ke ham diivaane
+likh diye pyaar ne aa.Nkho.n aa.Nkho.n me.n dil ke afasaane
+jab mile hai.n ham mile hai.n a.njaano.n se
+ab mile.nge ham lekin diivaano.n se
+ham tum me.n jo silasilaa hai saaraa shahar jaanataa hai
+muhabbat ye nahii.n to \threedots
+%
+#endindian
+\endsong
+

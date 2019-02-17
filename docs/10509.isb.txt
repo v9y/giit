@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dilanashii.n har adaa chhaa rahaa hai ik nashaa}%
+\film{Bas Itna Sa Khvab Hai}%
+\year{2001}%
+\starring{Abhishek Bachchan, Jackie Shroff, Rani Mukerji, Sushmita Sen}%
+\singer{Sukhvindar Singh, Shaan, Hema Sardesai}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n dilanashii.n har adaa chhaa rahaa hai ik nashaa
+dekh le jo tujhe tujhape ho jaa_e fidaa
+sun le zaraa dil kii sadaa sabase judaa merii adaa
+chalane lagaa jaaduu meraa mai.n baa.ndh ke rakh duu.n havaa
+haay dilanashii.n har adaa \threedots
+
+dil ye teraa hai tuu hii na jaane
+pyaar are jaan\-e\-jigar tuu na maane
+kyuu.n piichhe pa.De hai.n diivaane
+maan jaa jaan\-e\-jaanaa.n chalegaa nahii.n bahaanaa
+nazar ke tiir chale.nge zaraa khud ko bachaanaa 
+dilanashii.n har adaa \threedots
+
+tuu churaane lagii chain meraa
+mai.n piichhaa na chho.Duu.Ngaa teraa
+jaa jaaduu chalegaa na teraa
+he nazar se mujhe pilaa ke kiyaa mujhako mastaanaa
+kahaa.N aataa hai mujhako kisii kaa hosh u.Daanaa
+dilanashii.n har adaa \threedots
+%
+#endindian
+\endsong
+

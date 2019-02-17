@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tuu to jaane naa maine kii terii bandagii ... sun le maahiyaa}%
+\film{Dus}%
+\year{1998?}%
+\starring{Sanjay Dutt, Ravina Tondon, Salman Khan, Shilpa Shetty}%
+\singer{Sukhvindar Singh, Shankar Mahadevan}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere binaa mai.n nahii.n mere binaa tuu nahii.n
+khushbuu binaa phuul nahii.n phuul binaa khushbuu nahii.n
+
+tuu to jaane naa maine kii terii bandagii
+tuu sanam hai tuu khudaa hai maahiyaa
+merii aa.Nkho.n me.n teraa jalavaa hai pyaar tujhase kiyaa dil diyaa
+
+dha.Dakano.n kii jubaa.n sirf sunataa sadaa hai tuu
+lamhaa lamhaa yahaa.n mujhako hai terii justajuu sun le maahiyaa
+merii saa.Nso.n me.n terii khushbuu hai kah rahaa hai yahii ye jiyaa
+tuu to jaane naa \threedots
+
+ye zamii.n aasamaa.n hai.n ye terii nishaaniyaa.n
+sabake ho.nTho.n pe hai.n o sirf terii kahaaniyaa.n sun le maahiyaa
+har jagah har suu hai teraa jaaduu paa ke tujhako jahaa.n paa liyaa
+tuu to jaane naa \threedots
+%
+#endindian
+\endsong
+

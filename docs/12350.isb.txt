@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{idhar bhii udhar bhii ... ham tum kitane duur kitane paas}%
+\film{Kitne Door Kitne Paas}%
+\year{2002}%
+\starring{Fardin Khan, Amrita Arora}%
+\singer{Udit Narayan, Kavita Subramaniam}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+idhar bhii udhar bhii yahaa.n bhii vahaa.n bhii
+dono.n taraf lagii ye aag
+dono.n taraf lagii ye pyaas
+ham tum ham tum ham tum
+kitane duur duur kitane paas
+kitane duur kitane paas
+duur duur paas paas
+idhar bhii udhar bhii \threedots
+
+pyaar ke raste aise jaise bhuul bhulaiyaa.n
+kachche dhaage se tum hamako baa.ndh lo sai.nyaa.n
+dil chaahe.n ik duusare kii thaam le.n baiyaa.n
+ham dono.n kho jaa_e.nge hotaa hai aisaa ehasaas
+ham tum \threedots
+
+yahaa.N vahaa.N kyaa saat sama.ndar paar nahii.n milataa
+logo.n ko rab mil jaataa hai yaar nahii.n milataa
+is duniyaa me.n sabako aisaa pyaar nahii.n milataa
+jinako milataa hai ye pyaar hote hai.n vo dil kuchh khaas
+ham tum \threedots
+%
+#endindian
+\endsong
+

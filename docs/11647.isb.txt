@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{tere naaz uThaane ko jii chaahataa hai}%
+\film{Grahasthi}%
+\year{1948}%
+\starring{Sulochana Chatterji, Kuldeep, Yaqub, Pran, Masuud, Mirza Mushharf}%
+\singer{Mukesh, Shamshad}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11417 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	tere naaz uThaane ko jii chaahataa hai
+	tujhe Dhuu.NDh laane ko jii chaahataa hai
+
+sha \:	ga_e din bulaane ko jii chaahataa hai
+	vafaa aajamaane ko jii chaahataa hai
+
+mu \:	qasam hai tujhe dil kii duniyaa me.n aa jaa
+	ye duniyaa basaane ko jii chaahataa hai
+
+sha \:	jahaa.N dil ne kuchh dil se ha.Ns kar kahaa thaa
+	vahii.n lauT jaane ko jii chaahataa hai
+
+mu \:	mohabbat me.n aataa hai aisaa bhii ek din
+	jab aa.Nsuu bahaane ko jii chaahataa hai
+sha \:	vafaa aajamaane ko \threedots
+%
+#endindian
+\endsong
+

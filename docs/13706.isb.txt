@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{husn vaale husn kaa anjaam dekh}%
+\film{Qawali Ki Raat}%
+\year{1964}%
+\starring{Kumkum, Kanwaljeet, Mumtaz, Deven Verma, Jagdeep, Mohan Choti}%
+\singer{Rafi, Asha}%
+\music{Iqbal Qureshi}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #10255 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+husn vaale husn kaa anjaam dekh
+Duubate suuraj ko vaqt\-e\-shaam dekh
+subah ke suuraj kaa bhii a.ndaaz dekh
+bhuul jaa anjaam ko aaGaaz dekh
+
+dil kii dha.Dakan dard kaa saamaan huu.N
+husn kaa uThataa hu_aa tuufaan huu.N
+ahal\-e\-dil haTate nahii.n maidaan se
+khelane nikalaa huu.N mai.n tuufaan se
+husn ke jalavo.n se shaayad tuu abhii anajaan hai
+subah ke suuraj kaa \threedots
+
+dekhe jo mujhako jaahid kaabe ko bhuul jaa_e
+kaashii ko jaane vaalaa kaashii se palaT jaa_e
+kaashii bhii terii mujhame.n kaabaa bhii teraa mujhame.n
+jo mujhape nazar Daale kaashii bhii nazar aa_e
+jo mujhape nazar Daale kaabaa bhii nazar aa_e
+kaashii bhii nazar aa_e kaabaa bhii nazar aa_e
+husn ke jalavo.n se ishq se Takaraa_e
+husn vaale husn kaa \threedots
+%
+#endindian
+\endsong
+

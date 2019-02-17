@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{badanaam na ho jaaye muhabbat kaa fasaanaa}%
+\film{Shaheed}%
+\year{1948}%
+\starring{Dilip Kumar, Kamini Kaushal}%
+\singer{Surinder}%
+\music{Ghulam Haider}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: Urzung Khan
+%
+\printtitle
+#indian
+%
+
+badanaam na ho jaaye muhabbat kaa fasaanaa
+ai dard bhare aa.Nsuo.n aa.Nkho.n me.n na aanaa
+
+duniyaa.N me.n muhabbat kii yahii riit hai ai dil
+jal jaanaa magar ho.nTho.n par fariyaad na laanaa
+ai dard bhare aa.Nsuo.n \threedots
+
+kah de naa kahii.n aa.Nkh mere dil kii kahaanii
+ai dil terii dha.Dakan kahii.n sun le na zamaanaa
+ai dard bhare aa.Nsuo.n \threedots
+
+ai jaan\-e\-muhabbat yahii bas merii duaa hai
+ho jaaye tere saath merii jaa.N bhii ravaa na
+ai dard bhare aa.Nsuo.n \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aan milo sajanaa sajanaa re aan milo sajanaa}%
+\film{Gadar - Ek Prem Katha}%
+\year{2001}%
+\starring{Sunny Deol, Ameesha Patel, Amrish Puri}%
+\singer{Parvin Sultana, Ajay Chakravarti}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+aan milo sajanaa sajanaa re aan milo sajanaa
+a.Nkhiyo.n me.n naa aa_e ni.ndiyaa
+mohe naa bhaa_e kaajal bi.ndiyaa
+suunaa pa.Daa a.nganaa a.nganaa 
+suunaa pa.Daa a.nganaa re a.nganaa re
+aan milo sajanaa \threedots
+
+cha.ndaa aa_e taare aa_e aane vaale saare aa_e
+aa_e kabhii sa.ng naa sa.ng naa sa.ng naa sa.ng naa 
+aan milo sajanaa \threedots
+
+aa biitii jaa_e yuu.n hii umariyaa
+kis ra.ng se mai.n ra.nguu.N chunariyaa
+bhaa_e ko_ii ra.ng naa ra.ng naa 
+aan milo sajanaa \threedots
+%
+#endindian
+\endsong
+

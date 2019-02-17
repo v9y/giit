@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jhan jhan na na na paayal baaje}%
+\film{Nazraanaa}%
+\year{1987}%
+\starring{Rajesh Khanna, Sridevi, Preeti Sapru, Geeta Kak, Jaishri Gadkar}%
+\singer{Lata, Mohammed Aziz, Suresh Wadekar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+la \: ( jhan jhan na na na ) \-2 paayal baaje \-2
+       barakhaa barase haule haule \-2
+       ( bha.nvaro.n ne kaliyo.n ke ) \-2 ghuu.NghaT khole
+        jhan jhan na na na \threedots
+
+         pal bhar me.n kyaa hu_ii re
+         din me.n jaise raat hu_ii re
+mo \: is gorii kaa kaajal bikharaa
+         bhiigaa bhiigaa aa.Nchal nikharaa
+         tan naache man naache tan man Dole
+la \:   o jhan jhan na na na \threedots
+
+mo \: ( mast pavan ) \-2 saavan kii sahelii
+          buujhe ko_ii rut kii pahelii
+la \: man giito.n kaa mausam aayaa
+       phir giito.n kaa mausam aayaa \-2
+       jii chaahe jii bhar ke ha.Ns le ro le
+       ho jhan jhan na na na \threedots
+
+su \: kitanii sundar suurat dekho
+        raadhaa jaisii muurat dekho
+la \: suurat kaa jag mol lagaa_e \-2
+       is man ko is jag me.n ko_ii na taule
+       ho jhan jhan na na na \threedots
+su \: barakhaa barase \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{javaaniyaa.N ye mast mast bin piye}%
+\film{Tumsa Nahin Dekha}%
+\year{}%
+\starring{Shammi Kapoor, Ameeta}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+javaaniyaa.N ye mast mast bin piye
+jalaatii chal rahii hai raah me.n diye
+na jaane iname.n kisake vaaste huu.N mai.n
+na jaane iname.n kaun hai.n mere liye
+mere liye mere liye \- 2
+
+sabhii ha.nsii.n sabhii javaa.n
+kahaa.N pe dil ko haariye
+sabhii hai.n dil ke mehamaa.n
+kise kise pukaariye
+javaaniyaa.N ye mast mast \threedots
+
+diivaane ham the chaah ke
+to beqaraar ho liye
+ke duur kii nigaah ke
+gunahagaar ho liye
+javaaniyaa.N ye mast mast \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{jaanam tere li_e raat din aramaa.n machal}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaanam haa.n haa.n jaanam
+jaanam tere li_e raat din aramaa.n machal machalate hai.n
+yaado.n me.n terii ham o sanam karavaT badal badalate hai.n
+jaanam tere li_e \threedots
+
+de sahaaraa thaam le tuu gir na jaa_e.n pyaar de tuu
+chaahat me.n terii betaab ham jaan\-e\-jaa.n taras tarasate hai.n
+jaanam tere li_e \threedots
+
+so_e aramaa.n jaage jaage jaane kyaa ho aage aage
+tere bin har pal mere nainaa jaan\-e\-jaa.n baras barasate hai.n
+jaanam tere li_e \threedots
+%
+#endindian
+\endsong
+

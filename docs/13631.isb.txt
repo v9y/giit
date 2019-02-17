@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{tum bin hamarii kaun Kabar le govardhan giridhaarii}%
+\film{Pukaar}%
+\year{1939}%
+\starring{Sohrab Modi, Chandramohan, Nasim Bano, Sheela, Sardar Akhtar}%
+\singer{Sheila}%
+\music{Mir Sahab}%
+\lyrics{Kamal Amrohi}%
+%
+% Contributor: BOL ANAMOL #11987 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+tum bin hamarii kaun Kabar le govardhan giridhaarii
+govardhan giridhaarii
+
+bhakt miraa kii vipadaa me.n bas \-2
+kaam tumhii.n to aaye the \-2
+sha.nkar jii kii mushakil me.n tum \-2
+sur paa ban kar chhaaye the \-2
+mor bhii to aa kar sun lo \-2
+o jag ke rakhawaarii \-2
+govardhan giridhaarii \-2
+
+tum bin hamarii kaun Kabar le govardhan giridhaarii
+govardhan giridhaarii
+
+ulajh gaye the tum hii jaa ke \-2
+durayodhan ke paapo.n se \-2
+dropadii kii laaj bachaa lii \-2
+nandak saade haatho.n se \-2
+mujh par bhii kirpaa ho jaaye \-2
+ab hai morii baarii \-2
+govardhan giridhaarii \-2
+%
+#endindian
+\endsong
+

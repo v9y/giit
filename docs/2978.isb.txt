@@ -1,0 +1,50 @@
+%  
+\startsong
+\stitle{tumhe.n baa.Ndhane ke liye mere paas aur kyaa hai}%
+\film{Ratnaghar}%
+\year{1955}%
+\starring{Shakuntala, Lalita Pawar, Raja Paranjape}%
+\singer{Lata}%
+\music{Sudhir Phadke}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: Neha Desai (nehadesai@hotmail.com)
+% Transliterator: K Vijay Kumar
+% Date: July 22, 1998
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+(tumhe.n baa.ndhane ke liye mere paas aur kyaa hai
+meraa prem hai
+meraa prem hai re, meraa prem hai \-2) \-2
+meraa prem hai re, meraa prem hai \-2
+
+_____ kalii kii khul khul jaatii
+o~ o~
+_____ kalii kii khul khul jaatii khushabuu u.D u.D jaatii
+kumhalaatii phuulo.n kii maalaa man ko baa.ndh na paatii \-2
+bulbul banake bhed bataatii
+kyaa ##pause## kyaa?
+tumhe.n baa.ndhane ke liye mere paas aur kyaa hai \threedots
+
+o~ o~ ho ho ho
+priit ke raajaa merii priit ke raajaa \-2
+kaise mai.n tumako rijhaa_uu.Ngii
+(kaalii kaalii ______ niilam ke jhuulese
+nayano.n me.n tumako jhulaa_uu.ngii) \-2
+koyal banake giit sunaa_uu.Ngii
+kyaa ##pause## kyaa?
+tumhe.n baa.ndhane ke liye mere paas aur kyaa hai \threedots
+
+(tumhe.n baa.ndhane ke liye mere paas aur kyaa hai
+meraa prem hai
+meraa prem hai re, meraa prem hai \-2)
+
+%
+#endindian
+\endsong
+%

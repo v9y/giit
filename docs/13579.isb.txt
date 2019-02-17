@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{gorii nain tumhaare kyaa kahane}%
+\film{Purnima}%
+\year{1965}%
+\starring{Dharmendra, Meena Kumari, Anita Guha, Mehmood}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10983 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+gorii nain tumhaare kyaa kahane \-2
+baalo.n me.n saavan kii ghaTaa
+gaalo.n pe puunam kii chhaTaa
+ghu.NghaTaa haTaa
+gorii nain tumhaare \threedots
+
+cha.nchal\-cha.nchal chaal tumhaarii hiranii dhokhaa khaa_e
+goraa\-goraa dekhake mukha.Daa chandaa chhup\-chhup jaa_e
+baat kare to phuul jhare.n muskaa_e to ra.ng bhare.n
+zulm kare.n
+gorii nain tumhaare \threedots
+
+pal me.n maare pal me.n jilaa_e chhup\-chhup baan chalaa_e
+niilakamal se in naino.n kaa bhed samajh naa aa_e
+kabhii\-kabhii to pyaar kare.n kabhii\-kabhii takaraar kare.n
+ras ke bhare
+gorii nain tumhaare \threedots
+%
+#endindian
+\endsong
+

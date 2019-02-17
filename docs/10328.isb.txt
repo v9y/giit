@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{yuu.N to aapas me.n biga.Date hai.n Kafaa hote hai.n}%
+\film{Andaz}%
+\year{1949}%
+\starring{Raj Kapoor, Dilip Kumar, Nargis}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10607 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Comments: Malini Kanth
+% 
+\printtitle
+#indian
+%
+do \:	yuu.N to aapas me.n biga.Date hai.n Kafaa hote hai.n
+	( milane vaale kahii.n ) \-2 ulfat me.n judaa hote hai.n
+
+la \:	hai.n zamaane me.n ajab chiiz mohabbat vaale
+	( hai.n zamaane me.n ) \-2 ajab chiiz mohabbat vaale
+	dard Kud banate hai.n Kud apanii davaa hote hai.n
+do \:	milane vaale kahii.n \threedots
+
+ra \:	haa.N
+	haal\-e\-dil mujhase na puuchho merii nazare.n dekho
+	( haal\-e\-dil mujhase ) \-2 na puuchho merii nazare.n dekho
+	raaz dil ke to nigaaho.n se adaa hote hai.n
+do \:	milane vaale kahii.n \threedots
+
+la \:	milane ko yuu.N to milaa karatii hai.n sabakii aa.Nkhe.n
+	( milane ko yuu.N to ) \-2 milaa karatii hai.n sabakii aa.Nkhe.n
+	dil ke aa jaane ke andaaz judaa hote hai.n
+do \:	yuu.N to aapas me.n \threedots
+
+ra \:	aise ha.Ns\-ha.Ns ke na dekhaa karo tum sabakii taraf
+	( aise ha.Ns\-ha.Ns ke ) \-2 na dekhaa karo tum sabakii taraf
+	log aisii hii adaa_o.n pe fidaa hote hai.n
+do \:	yuu.N to aapas me.n \threedots
+%
+#endindian
+\endsong
+

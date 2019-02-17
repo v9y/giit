@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ye kis ne giit chhe.Daa}%
+\film{Meri Soorat Teri Aankhen}%
+\year{1963}%
+\starring{Pradeep Kumar, Asha Parekh, Ashok Kumar}%
+\singer{Mukesh, Suman Kalyanpur}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+suman:  ye kis ne giit chhe.Daa ye kis ne giit chhe.Daa
+        dil meraa naache thirak thirak kis ne giit chhe.Daa
+mukesh: ye kis kii zulf bikharii ye kis kii zulf bikharii
+        jag saaraa gayaa mahak mahak kis kii zulf bikharii
+ 
+ 
+mukesh: chorii chorii haule haule ThaNDii ThaNDii havaa aaye
+        kaliyo.n ke mukh chuume bagiyaa ko sulagaaye
+        Daalii Daalii jaaye lachak lachak kis kii zulf bikharii
+suman:  ye kis ne giit chhe.Daa \threedots
+ 
+suman:  tum ne hii kiyaa Tonaa tumane jaaduu pheraa
+        an_jaanii Dagarii pe chalaa dekho man meraa
+        matavaalaa gayaa bahak bahak, kis ne giit chhe.Daa
+mukesh: ye kis kii zulf bikharii \threedots
+ 
+mukesh: ek baazii mai.n ne jiitii ek baazii dil haaraa
+suman:  mere saajan tere kaaraN mai.n ne chho.Daa jag saaraa
+        sa.ng tere chalii runak jhunak kis ne giit chhe.Daa
+ 
+mukesh: ye kis kii zulf bikharii jag saaraa gayaa mahak mahak
+suman:  kis ne giit chhe.Daa dil meraa naache thirak thirak
+dono:   kis ne giit chhe.Daa ye kis ne giit chhe.Daa ye kis ne giit chhe.Daa 
+
+%
+#endindian
+\endsong
+%

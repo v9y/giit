@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{din mahiinaa sanam saal aisaa na thaa ... ye mujhe kyaa hu_aa}%
+\film{Waah Tera Kya Kehna}%
+\year{2002}%
+\starring{Govinda, Ravina Tandon, Priti Jhangiyani, Shammi Kapoor}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+din mahiinaa sanam saal aisaa na thaa
+meraa pahale kabhii haal aisaa na thaa
+aisii khumaarii na thii
+ye bekaraarii na thii
+dil dha.Dakataa na thaa
+ye mujhe kyaa hu_aa haa.N mujhe kyaa hu_aa
+ye mujhe kyaa hu_aa kyaa hu_aa kyaa hu_aa
+din mahiinaa sanam \threedots
+
+ba.Dii bekaraarii thii kal shaam se
+meraa jiyaa ta.Dape tere naam se
+terii tanhaa_ii kaa ehasaas hai
+mere bhii labo.n pe terii pyaas hai
+yaado.n ke mele naa the
+khvaabo.n ke rele naa the
+dil machalataa naa thaa
+ye mujhe kyaa hu_aa \threedots
+
+tuune mujhe chaahaa teraa shukriyaa
+maine bhii meraa dil tujhe de diyaa
+terii inhii.n baato.n pe marane lagii
+tere li_e mai.n aahe.n bharane lagii
+aise nazaare naa the
+aise ishaare naa the
+mai.n bhii aisii naa thii
+ye mujhe kyaa hu_aa \threedots
+%
+#endindian
+\endsong
+

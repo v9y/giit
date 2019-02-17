@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{khudaa\-e\-bartar}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep Kumar, Bina Roy}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Transliterator: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Surprisingly rare for a song from Taj Mahal.  Anti-war theme.
+%
+\printtitle
+#indian
+%
+khudaa\-e\-bartar terii zamii.n par, zamii.n kii khaatir ye ja.ng kyo.n hai
+har ek fatah\-o\-zafar ke daaman pe khUn\-e\-iinsaa.n kaa ra.ng kyo.n hai
+khudaa\-e\-bartar \threedots
+
+zamii.n bhii terii, hai.n ham bhii tere, ye milkiyat kaa savaal kyaa hai
+ye katl\-o\-Kuu.N kaa rivaaz kyo.n hai, ye rasm\-e\-ja.ng\-o\-jadaal kyaa hai
+jinhe talab hai jahaan bhar kii, unhii kaa dil itanaa ta.ng kyo.n hai
+khudaa\-e\-bartar \threedots
+
+Gariib maa.No shariif behano.n ko amn\-o\-izzat kii zi.ndagii de
+jinhe ataa kii hai tU ne taaqat, unhe hidaayat kii roshanii de
+saro.n me.n kibr\-o\-Guruur kyo.n hai.n, dilo.n ke shiishe pe za.ng kyo.n hai
+khudaa\-e\-bartar \threedots
+
+Kazaa ke raste pe jaanevaalo.n ko bach ke aane kii raah denaa
+dilo.n ke gulashan uja.D na jaae, muhabbato.n ko panaah denaa
+jahaa.N me.n jashn\-e\-vafaa ke badale, ye jashn\-e\-tiir\-o\-tafa.ng kyo.n hai
+khudaa\-e\-bartar \threedots
+
+khudaa\-e\-bartar terii zamii.n par, zamii.n kii khaatir ye ja.ng kyo.n hai
+har ek fatah\-o\-zafar ke daaman pe khUn\-e\-insaa.n kaa ra.ng kyo.n hai
+khudaa\-e\-bartar \threedots
+%
+#endindian
+\endsong
+%

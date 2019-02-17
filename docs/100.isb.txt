@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{aap kahe.n aur ham na aaye.n, aise to haalaat nahii.n}%
+\film{Des Pardes}%
+\year{1978}%
+\starring{Rajesh Khanna, Tina Munim, Indrani Mukherjee}%
+\singer{Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+% 
+% Contributor: Mahesh Chaubal <chaubal@umbc.edu> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/12/1995
+% Credits: Rahul Shridhar <rahul@eng2.uconn.edu> 
+%          Prince Kohli <prince@viman.engr.sgi.com>
+%          Anand Tiwari <anand@cegt201.bradley.edu>
+%
+\printtitle
+#indian
+%
+aap kahe.n aur ham na aaye.n, aise to haalaat nahii.n
+ma.Nzil pe pahu.Nche.nge kaise, aapakaa jab tak saath nahii.n
+aap kahe.n aur ham na aaye.n, aise to haalaat nahii.n
+
+chaahane vaalo.n ke aaj duniyaa me.n chaahane vaale aa ga_e
+ulfat kii may aa.Nkho.n se lo aaj pii lene vaale aa ga_e
+aap pii_e.n aur aap na jhuume.n
+ma.Nzil pe pahu.Nche.nge kaise aapakaa jab tak saath nahii.n
+
+kasaa huaa hai tiir husn kaa, zaraa sambhalake rahiyegaa
+nazar nazar ko maaregii, to kaatil hame.n na kahiyegaa
+chaal chalii hai sochake hamane is khel me.n apanii maat nahii.n
+
+paas aake ye aapake hame.n hone lagaa ehasaas hai
+dam hai to bas aapake damase aap hii se saa.Ns hai
+bayaan kare.n jo haal\-e\-dil ko aise koii jazbaat nahii.n
+
+aap kahe.n aur ham na aaye.n, aise to haalaat nahii.n
+ma.Nzil pe pahu.Nche.nge kaise, aapakaa jab tak saath nahii.n
+aap kahe.n aur ham na aaye.n, aise to haalaat nahii.n
+%
+#endindian
+\endsong
+%
+

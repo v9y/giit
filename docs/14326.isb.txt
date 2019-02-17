@@ -1,0 +1,79 @@
+%
+\startsong
+\stitle{jaane do naa paas aa_o naa}%
+\film{Saagar}%
+\year{1985}%
+\starring{Rishi Kapoor, Dimple Kapadia, Kamalahasan}%
+\singer{Asha, Shailendra Singh}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #12248 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+aa \:	jaane do naa
+shai \:	e
+	paas aa_o naa
+aa \:	ho
+	jaane do naa
+shai \:	e
+	paas aa_o naa
+aa \:	chhu_o naa chhu_o naa mujhe
+	chhu_o naa chhu_o naa dekho
+	chhu_o naa chhu_o naa chhu_o naa
+shai \:	o
+	paas aa_o naa
+aa \:	jaane do naa
+shai \:	aa_o naa aa_o naa paas
+	aa_o naa aa_o naa dekho
+	aa_o naa aa_o naa aa_o naa
+aa \:	ho
+	jaane do naa
+shai \:	paas aa_o naa
+
+aa \:	uu.m
+	huh
+	chho.Do kalaa_ii dekho ro duu.Ngii \-2
+	jaa_o mai.n tumase nahii.n boluu.Ngii
+shai \:	maan bhii jaa_o merii baat sanam
+	haatho.n me.n rahane do ye haath sanam
+aa \:	chhu_o naa chhu_o naa mujhe
+	chhu_o naa chhu_o naa dekho
+	chhu_o naa
+shai \:	paas aa_o naa
+aa \:	jaane do naa
+
+shai \:	pyaase ho.nTho.n kii jo kahaanii hai \-2
+	paas aa ke tumhe.n sunaanii hai
+aa \:	ye baate.n mai.n naa kar paa_uu.Ngii
+	paas naa aanaa mar jaa_uu.Ngii
+shai \:	aa_o naa aa_o naa paas
+	aa_o naa aa_o naa dekho
+	aa_o naa
+aa \:	jaane do naa
+shai \:	paas aa_o naa
+
+aa \:	dil jaise karavaTe.n badalataa hai \-2
+	meraa to saaraa tan jalataa hai
+shai \:	aramaa.N jo dil me.n machalate hai.n
+	tan yuu.Nhii jalate\-pighalate hai.n
+aa \:	chhu_o naa chhu_o naa mujhe
+	chhu_o naa chhu_o naa dekho
+	chhu_o naa
+shai \:	paas aa_o naa
+aa \:	ho jaane do naa
+shai \:	aa_o naa aa_o naa paas
+	aa_o naa aa_o naa dekho
+	aa_o naa aa_o naa aa_o naa
+aa \:	o jaane do naa
+shai \:	paas aa_o naa
+aa \:	huu.N huu.N
+shai \:	huu.N huu.N
+aa \:	huu.N huu.N
+%
+#endindian
+\endsong
+%
+

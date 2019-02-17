@@ -1,0 +1,66 @@
+% ITRANS SONG
+
+\startsong
+\stitle{zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa}%
+\film{Naujawaan}%
+\year{1951}%
+\starring{Nalini Jayawant, Premnath}%
+\singer{Rafi, Geeta, Chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+gii \:	o
+ko \:	( o jhanak jhananan jhananan
+	ho ho tinii minii tinii minii minii minii ) \-2
+
+ra \:	are o sun le sun le sun le sun le
+	zaraa jhuum le
+	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+gii \:	ho zaraa jhuum le, jhuum le, zaraa jhuum le
+ko \:	zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+
+gii \:	o
+ra \:	( ho ye jiiwan laharo.n kaa relaa, jag do din kaa melaa re sun le
+ko \:	jag do din kaa melaa ) \-2
+ra \:	kyaa paayaa duniyaa me.n jisane dil kaa khel na khelaa
+	zaraa zaraa jhuum le
+ko \:	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+gii \:	ho zaraa jhuum le, jhuum le, zaraa jhuum le
+ko \:	zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+
+gii \:	ho
+ko \:	( o jhanak jhananan jhananan
+	ho ho tinii minii tinii minii minii minii ) \-2
+
+ra \:	( o biitii gha.Diyaa.N lauT na paaye.n chaahe.n jitanaa chaaho
+ko \:	are re re
+	chaahe.n jitanaa chaaho ) \-2
+ra \:	o jii aaj kaa din hai apanaa gorii kal kyaa na jaane kyaa ho
+	zaraa zaraa jhuum le
+ko \:	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+gii \:	ho zaraa jhuum le, jhuum le, zaraa jhuum le
+ko \:	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+ra \:	aa
+
+ko \:	( o jhanak jhananan jhananan
+	ho ho tinii minii tinii minii minii minii ) \-2
+
+gii \:	o sone jaise din hai.n baalam chaa.Ndii jaisii raate.n
+	re baalam chaa.Ndii jaisii raate.n
+ko \:	ho baalam ho baalam chaa.Ndii jaisii raate.n
+gii \:	o sone jaise din hai.n baalam chaa.Ndii jaisii raate.n
+	biit na jaaye samaa.N suhaanaa, sun le man kii baate.n
+	re baalam sun le man kii baate.n
+	zaraa jhuum le
+ko \:	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+gii \:	ho zaraa jhuum le, jhuum le, zaraa jhuum le
+ko \:	ho zaraa jhuum le, jawaanii kaa samaa.N hai suhaanaa, zaraa jhuum le
+	ho zaraa jhuum le \-12
+
+#endindian
+\endsong

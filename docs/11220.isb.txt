@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{chaahe aaj mujhe naa pasand karo}%
+\film{Darindaa}%
+\year{1977}%
+\starring{Sunil Dutt, Firoz Khan, Parvin Babi}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11265 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chaahe aaj mujhe naa pasand karo
+chaahe dvaar hR^iday ke band karo
+aaKir me.n tumhe.n merii hii honaa hogaa \-2
+tuu mile to puuchhuu.N \threedots
+
+bachapan ke pyaar kii miTatii nahii.n nishaanii
+kitanaa bhii miTaanaa chaahe ise javaanii
+jahaa.N yaad terii so_ii ho duujaa na aur ko_ii ho
+ko_ii dil kaa tumhaare aisaa bhii konaa hogaa
+aaKir me.n tumhe.n \threedots
+
+mai.n kyaa se kyaa ban gayaa tumhaare kaaraN
+naa samajho ise dikhaavaa hai ye mere pyaar kaa daavaa
+mere ha.Nsane pe ha.Nsanaa rone pe ronaa hogaa
+aaKir me.n tumhe.n \threedots
+%
+#endindian
+\endsong
+

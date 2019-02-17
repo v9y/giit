@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{lo pyaar kii ho gayii jiit}%
+\film{Jaadu}%
+\year{1951}%
+\starring{Nalini Jaywant, Suresh}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+lo pyaar kii ho gayii jiit
+balam ham tere ho gaye
+ham tujh se lagaa kar priit
+nayii duniyaa.N me.n kho gaye
+
+naino.n ne tere saajan
+man ko lubhaa ke chho.Daa
+dil pe kiyaa vo jaaduu
+apanaa banaa ke chho.Daa
+mere dil me.n khushii kaa ra.ng
+ho.nTho.n pe khushii ke giit
+lo pyaar kii ho gayii jiit \threedots
+
+aramaan bhare do dil hai.n
+duniyaa.N pe hai javaanii
+terii qasam o saajan
+rut hai ba.Dii suhaanii
+o~
+rahe.n mil ke sadaa ham tum
+yuu.Nhii jaaye umariyaa biit
+lo pyaar kii ho gayii jiit \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pyaar do pyaar do ... ek to kam zi.ndagaanii usase bhii kam hai javaanii}%
+\film{Jaanbaaz}%
+\year{1986}%
+\starring{Firoz Khan, Sridevi, Anil Kapoor, Dimple Kapadia, Rekha}%
+\singer{Sapana Awasthi}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe pyaar do ho ho pyaar do
+ek to kam zi.ndagaanii usase bhii kam hai javaanii \-2
+jab tak josh me.n javaanii \-2
+jab tak khuun me.n ravaanii
+mujhe hosh me.n aane na do
+pyaar do \-7
+do pyaar do pyaar do \-4
+
+nuur\-e\-Kudaa bhii barase vahaa.n pe pyaar me.n milate hai.n do dil jahaa.n pe \-2
+zi.ndagii se tumhe.n jo bhii lamhaa mile \-2
+use pyaar par vaar do vaar do
+pyaar do \-2
+do pyaar do
+ek to kam zi.ndagaanii \threedots
+
+hai husn\-o\-ishq ke dam se zamaanaa yahii haqiiqat hai baakii fasaanaa \-2
+dilavaale jahaa.n hai jannat vahaa.n \-2
+jahaa.n pyaar hii pyaar ho
+pyaar do pyaar lo pyaar lo
+ek to kam zi.ndagaanii \threedots
+%
+#endindian
+\endsong
+
+

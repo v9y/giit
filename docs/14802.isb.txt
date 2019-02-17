@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{haule\-haule jhuuleho jhuulaa}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{}%
+\music{Emani Shankar Shastri}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+haule\-haule jhuuleho jhuulaa \-2
+merii laaDo pyaarii \-2
+muniyaa pyaarii
+jhuule do jhuulaa jhuule do
+
+pahale jhuule baabul jhulaaye
+ammaa mangal gaaye giit
+duuje jhuule bhaiyaa jhulaaye
+bhaabhii naak cha.Dhaay jii
+
+haule\-haule jhuuleho jhuulaa \-2
+merii laaDo pyaarii \-2
+muniyaa pyaarii
+jhuule do jhuulaa jhuule do
+haule\-haule jhuuleho jhuulaa
+
+#endindian
+\endsong

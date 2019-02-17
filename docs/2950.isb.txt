@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{sapano.n kii suhaanii duniyaa ko}%
+\film{Shikast}%
+\year{1953}%
+\starring{Dilip Kumar, Nalini Jaywant, Durga Khote, K N Singh}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Hrishi Dixit
+% Comments: The lyrics of the third stanza bear a resemblance to
+%           Kishore's "jin raato ki bhor nahi hai" from Door Gagan Ki Chhaon
+%           Me, also written by Shailendra.
+%
+\printtitle
+#indian
+%
+
+sapano.n kii suhaanii duniyaa ko 
+aa.Nkho.n me.n basaanaa mushkil hai
+apano.n se bataanaa mushkil hai
+gairo.n se chhupaanaa mushkil hai
+
+meraa bachapan biit chukaa hai
+dil kaa la.Dakapan baakii hai
+mai.n apane aap ko samajhaa luu.N
+par dil ko manaanaa mushkil hai
+sapano.n kii suhaanii duniyaa ko \threedots
+
+ehasaan teraa kaise bhuuluu.N
+tere Gam ke sahaare zi.ndaa huu.N
+varanaa in jaatii saa.Nso.n kaa
+phir lauT ke aanaa mushkil hai
+sapano.n kii suhaanii duniyaa ko \threedots
+
+raah kisii kii huii na roshan
+meraa jalanaa yuu.N hii gayaa
+ham aag lagaa baiThe hai.n magar
+ye aag bujhaanaa mushkil hai
+sapano.n kii suhaanii duniyaa ko \threedots
+
+%
+#endindian
+\endsong
+%

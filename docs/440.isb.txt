@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{dekhaa na haay re sochaa na haay re rakh dii nishaane pe jaa.N}% 
+\film{Bombay To Goa}%
+\year{1972}%
+\starring{Amitabh, Mehmood, Shatrughan, Aruna Irani}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor:
+%
+\printtitle 
+#indian 
+%
+(dekhaa na haay re sochaa na haay re rakh dii nishaane pe jaa.N 
+kadamo.n me.n tere nikale meraa dil hai bas yahii aramaa.N) \- 2
+
+Dole Dole Dole ae ae ,Dole Dole Dole ae ae , Dole Dole ae ae aae 
+
+(miT jaaye.nge mar jaaye.nge, kaam koI kar jaaye.nge 
+marake bhI chain nA mile, to jaaye.nge yaaro.n kahaa.N ) \- 2
+are oho \threedots  huu.N huu.N huu.N 
+dekhaa nA haay \threedots
+
+(qaatil hai kaun, kahaa.Nahii.n jAye 
+chup bhI to rahaa nahii.n jaaye 
+bulabul hai kaun, kaun sayyaad 
+kuchh to kaho re meri jaa.N ) \- 2
+are oho \threedots huu.N huu.N huu.N 
+dekhaa nA haay \threedots
+
+(ghar se nikale ham khaake qasam 
+chho.De.nge piichhaa nA ham 
+sar pe kafan baa.ndhe hue, aaye dIvaanaa yahaa.N ) \- 2
+are oho \threedots huu.N huu.N huu.N 
+
+dekhaa nA haay re sochaa nA haay re rakh dii nishaane pe jaa.N 
+kadamo.n me.n tere nikale meraa dil hai bas yahii aramaa.N 
+%
+#endindian
+\endsong
+%

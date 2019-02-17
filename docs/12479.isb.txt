@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{is jahaa.n kii nahii.n hai.n tumhaarii aa.Nkhe.n}%
+\film{King Uncle}%
+\year{1992}%
+\starring{Jackie, Anu Agrawal, Shahrukh, Nagma, Deven Verma, Paresh}%
+\singer{Nitin Mukesh, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+is jahaa.n kii nahii.n hai.n tumhaarii aa.Nkhe.n
+aasamaa.n se ye kisane utaarii aa.Nkhe.n
+aa_e hai.n ham jahaa.n me.n tumhaare li_e
+hai.n tumhaare li_e hii hamaarii aa.Nkhe.n
+is jahaa.n kii nahii.n hai.n \threedots
+
+do jahaa.n de ke le luu.n to sastii hai.n ye
+aasamaa.n se ye kisane \threedots
+
+rahate ho aa.Nkho.n me.n tum hii ab din raat
+ab to ghar hai hamaaraa tumhaarii aa.Nkhe.n
+duniyaavaalo.n se rakhanaa bachaa kar inhe.n
+na churaale ko_ii ye tumhaarii aa.Nkhe.n
+aa_e hai.n ham jahaa.n me.n \threedots
+%
+#endindian
+\endsong
+

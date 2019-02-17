@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{vaastaa hii naa jab rahaa tumase}%
+\film{Chori Chori}%
+\year{1973}%
+\starring{Sanjay, Radha Saluja, Bindu, Gulshan Bawra, Jeetendra, Shashi Kapoor, Shatrughan, Simi}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #11539 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+vaastaa hii naa jab rahaa tumase
+phir jafaa_o.n kaa kyaa gilaa tumase
+tum kisii Gair kii amaanat ho
+kaisaa shiqavaa\-gilaa bhalaa tumase
+
+usakii qismat pe rashq aataa hai
+jisake dil kaa jahaa.N basaa tumase
+achchhii qismat hii nahii.n thii apanii
+kaise kah duu.N buraa bhalaa tumase
+vaastaa hii naa \threedots
+
+dard ke paraa_e ho baiThe
+kaise maa.Nguu.N davaa ab tumase
+vaastaa hii naa \threedots
+%
+#endindian
+\endsong
+

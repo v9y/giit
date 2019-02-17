@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{apalam chapalam}%
+\film{Azad}%
+\year{1955}%
+\starring{Dilip Kumar, Meena Kumari}%
+\singer{Lata, Usha}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+apalam chapalam
+chap laayii re duniyaa ko chho.D
+terii galii aayii re aayii re aayii re
+apalam chapalam   \threedots
+
+ba.Daa majabuur kiyaa, haay! tere pyaar ne
+maar diyaa maar diyaa, haay! tere pyaar ne
+ab pachhataaye dil, haay! kit jaaye dil
+kaahe ko ye aag lagaayii re lagaayii re lagaayii re
+apalam chapalam   \threedots
+
+Te.Dhaa me.Dhaa khel hai ye pyaar jo mai.n jaanatii
+bhuul ke bhii baat kabhii dil kii na maanatii
+dil beimaan huaa, dekho jii paraayaa huaa
+roye roye jaaN ga.Nvaayii re ga.Nvaayii re ga.Nvaayii re
+apalam chapalam   \threedots
+
+daGaa dene vaalaa dekho kaisaa daGaa de gayaa
+chho.D gayaa yaad aur dil meraa le gayaa
+mai.n ne hii qusuur kiyaa, aise ko jo dil diyaa
+sudh budh sab bisaraa_ii re
+apalam chapalam   \threedots
+
+%
+#endindian
+\endsong
+%

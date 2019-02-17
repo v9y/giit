@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{yah sach hai ai jahaa.N vaalo.n hame.n jiinaa nahii.n aayaa}%
+\film{Kal Hamaaraa Hai/ Teen Patte}%
+\year{1959}%
+\starring{Bharat Bhushan, Madhubala, Leela Chitnis, Jayant,  Jagdev}%
+\singer{Rafi}%
+\music{Gajanan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10169 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+yah sach hai ai jahaa.N vaalo.n hame.n jiinaa nahii.n aayaa \-2
+mare ham sau baar jiite jii magar maranaa nahii.n aayaa
+yah sach hai ai jahaa.N vaalo.n \threedots
+
+ba.Dii aasaan thii.n raahe.n na ma.nzil ko_ii mushkil \-2
+magar aasaan raaho.n par hame.n chalanaa nahii.n aayaa
+yah sach hai ai jahaa.N vaalo.n \threedots
+
+sisakatii raat ke saayo.n me.n jab kho jaa_e.Nge ham bhii \-2
+shamaa jal\-jal ke puuchhegii ye paravaanaa nahii.n aayaa
+yah sach hai ai jahaa.N vaalo.n \threedots
+%
+#endindian
+\endsong
+

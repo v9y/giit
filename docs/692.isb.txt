@@ -1,0 +1,78 @@
+%
+\startsong
+\stitle{ham to mohabbat karegaa, duniyaa se nahii.n Daregaa}%
+\film{Dilli Ka Thug}%
+\year{1958}%
+\starring{Kishore, Nutan}%
+\singer{Kishore}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Kannan Muthukaruppan (mkannan@plane.cs.berkeley.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+kishor:   ham to mohabbat karegaa,
+          duniyaa se nahii.n Daregaa,
+          chaahe ye zamaanaa kahe,
+          hamako dIvaanaa ajI
+          ham to mohabbat\threedots
+		
+          chupake se aap to,
+          dil leke chale jaate.n hai,
+          piichhe piichhe diivAne,
+          phir bhii chale aate.n hai \- 2
+		
+nU:       merii juutI se!!
+	
+kishor:   juutaa paalish karegaa, 
+          lekin tum par maregaa
+          chaahe ye zamaanaa kahe,
+          hamako dIvaanaa ajI
+          ham to mohabbat karegaa,
+          duniyaa se nahii.n Daregaa,
+		
+          Thokar se aur bhii,
+          aramaa.n ye javaa.n hote hai,
+          duniyaa me.n ham jaise,
+          aashiqa bhii kahaa.N hote.n hai \- 2
+
+nU:       are vaah re majanuu.N
+
+kishor:   lailaa lailaa karegaa,
+          ThaNDii aahe.n bharegaa,
+          chaahe ye jamaanaa kahe,
+          hamako dIvaanaa ajI
+          ham to mohabbat karegaa,
+          duniyaa se nahii.n Daregaa,
+		
+          duur ho ho ke ajI,
+          yuu.N na sataao hamako,
+          ham jiye.n kaise bhalaa,
+          ye to bataao hamako \- 2
+	
+nU:       Duub maro
+	
+kishor:   Duubegaa nahii.n tairegaa,
+          pyaar se ham nahii.n Daregaa,
+          chaahe ye zamaanaa kahe,
+          hamako diivaanaa ajii
+          ham to mohabbat karegaa,
+          duniyaa se nahii.n Daregaa
+          chaahe ye jamaanaa kahe,
+          hamako divaanaa ajI
+          ham to mohabbat karegaa
+		
+          Da Da Da Da DaDaDa
+          ham to mohabbat karegaa
+          Da Da Da Da DaDaDa\threedots %(fade)
+%
+#endindian
+\endsong
+%

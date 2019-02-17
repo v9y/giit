@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{koii mere dil me.n Kushii banake aayaa}%
+\film{Andaaz}%
+\year{1949}%
+\starring{Nargis, Dilip Kumar, Raj Kapoor}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+koii mere dil me.n Kushii banake aayaa
+a.ndheraa thaa ghar me.n raushanii banake aayaa
+koii mere dil me.n...
+
+dha.Dakataa hai dil jaag uThii hai.n uma.nge.n
+mohabbat kii vo zi.ndagii ban ke aayaa
+koii mere dil me.n...
+
+mohabbat ne chhe.Daa hai saaz dil kaa
+vo har taar kii raaginii ban ke aayaa
+koii mere dil me.n...
+
+samaayaa thaa dil me.n jo ik dard banakar
+vo ho.NTho.n pe merii ha.Nsii ban ke aayaa
+koii mere dil me.n...
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+% ITRANS SONG # 3363; Created on Jan 26, 2004
+%
+\startsong
+\stitle{jhuume jhuume dil meraa}%
+\film{Poonam}%
+\year{1952}%
+\starring{Ashok Kumar, Kamini Kaushal, Asha Mathur, Sajjan}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Credits: Srinivas Ganti
+% Date: Nov 16, 2002
+% Comments: LATAnjali Series
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+jhuume jhuume dil meraa, jhuume jhuume dil meraa
+cha.ndaa kii chaa.Ndanii me.n jhuume jhuume dil meraa
+
+a.Nga.Daa_ii aane lagii, mastii bhii gaane lagii
+aa.Nkho.n me.n pyaar liye raat bhii jaane lagii
+cha.ndaa kii chaa.Ndanii me.n \threedots
+
+mai.n naachuu.N pyaar naache, meraa si.ngaar naache
+taaro.n ne saaz chhe.Daa dil kii pukaar naache
+cha.ndaa kii chaa.Ndanii me.n \threedots
+
+jiine kaa Dha.ng aayaa, le kar uma.ng aayaa
+kirano.n ke diip jale, giito.n ko sa.ng laayaa
+cha.ndaa kii chaa.Ndanii me.n \threedots
+%
+#endindian
+\endsong
+%

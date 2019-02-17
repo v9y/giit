@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{dil me.n chhupaa ke pyaar kaa tuufaan le chale}%
+\film{Aan}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Nadira, Premnath, Mukri, Cukoo}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10604 [V S Rawat]
+% Comments: First colored film in Hindi, First film of Nadira
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+dil me.n chhupaa ke pyaar kaa tuufaan le chale
+ham aaj apanii maut kaa saamaan le chale
+maut kaa saamaan le chale
+dil me.n chhupaa ke pyaar kaa tuufaan le chale
+
+ha ha haa a aa
+miTataa hai kaun dekhiye ulafat kii raah me.n
+he
+ulafat kii raah me.n
+miTataa hai kaun dekhiye ulafat kii raah me.n
+wo le chale hai.n aan to ham jaan le chale
+maut kaa saamaan le chale
+dil me.n chhupaa ke pyaar kaa tuufaan le chale
+
+ha ha haa a aa
+manzil pe hogaa faisalaa qisamat ke khel kaa
+aa
+qisamat ke khel kaa
+manzil pe hogaa faisalaa qisamat ke khel kaa
+kar de jo dil kaa Kuun wo mehamaan le chale
+maut kaa saamaan le chale
+dil me.n chhupaa ke pyaar kaa tuufaan le chale
+%
+#endindian
+\endsong
+

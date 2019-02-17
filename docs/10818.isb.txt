@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ek to aisii la.Dakii ho jo mere naam se sajatii ho}%
+\film{Chehara}%
+\year{1999?}%
+\starring{Ayub Khan, Madhu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek to aisii la.Dakii ho jo mere naam se sajatii ho
+shaam savere aa.Nkh bichhaa_e meraa rastaa takatii ho
+o re o o re o huu.n aa
+
+ek to aisaa la.Dakaa ho jo mere naam se sajataa ho
+shaam savere aa.Nkh bichhaa_e meraa rastaa takataa ho
+o re o o re o huu.n aa
+
+dil me.n na_ii dha.Dakan li_e aa_e mere saamane
+bahake hu_e jazbaat ko aagosh me.n thaam le
+sach meraa sapanaa ho aisaa ko_ii apanaa ho
+chaahe mujhe jo din raat o
+ek to aisii la.Dakii \threedots
+
+bhuuluu.n na mai.n saarii umar itanaa mujhe pyaar de
+ho tanhaa mere aramaan ko chaahat kaa sa.nsaar de
+usape mai.n marataa huu.N ishq usii se karataa huu.N
+kaise rahuu.n mai.n usake binaa o
+ek to aisaa la.Dakaa \threedots
+%
+#endindian
+\endsong
+

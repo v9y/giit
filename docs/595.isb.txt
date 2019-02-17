@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ek mai.n huu.N ek merii beqasii kii shaam hai}%
+\film{Taraana}%
+\starring{Dilip Kumar, Madhubala}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Nita Awatramani, Balaji A. S. Murthy
+% Transliterator: Nita Awatramani
+%
+\printtitle
+#indian
+%
+verbal prelude:
+jalii jo shaakh-e-chaman, saath baaGabaa.N bhii jalaa
+jalaa ke mere nasheman ko aasmaa.n bhii jalaa
+ 
+ek mai.n huu.N ek merii beqasii kii shaam hai
+ab to tujh bin zi.ndagii bhii mujh pe ik ilzaam hai
+ 
+dil pe kyaa guzarii tere jaane se ko_ii kyaa kahe
+saa.Ns jo aatii hai vo bhii dard kaa paiGaam hai
+ 
+aa.Nsuuo.n mujh par ha.Nso mere muqaddar par ha.Nso
+ab kahaa.N vo zi.ndagii jis kaa muhabbat naam hai
+ 
+%
+#endindian
+\endsong
+%

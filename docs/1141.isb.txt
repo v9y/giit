@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mai.n zi.ndagii me.n haradam rotaa hii rahaa huu.N}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Raj Kapoor, Nargis, Premnath}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n zi.ndagii me.n haradam rotaa hii rahaa huu.N
+rotaa hii rahaa huu.N, ta.Dapataa hii rahaa huu.N
+mai.n zi.ndagii \threedots
+
+ummiid ke diye bujhe dil me.n hai a.ndheraa
+jiivan kaa saathii na banaa koI bhii meraa
+phir kisake liye
+phir kisake liye aaj mai.n jiitaa hii rahaa huu.N
+mai.n zi.ndagii \threedots
+
+rah\-rah ke ha.Nsaa hai merii haalat pe zamaanaa
+kyaa dukh hai mujhe ye to kisii ne bhii na jaanaa
+Kaamosh
+Kaamosh mohabbat liye phirataa hii rahaa huu.N
+mai.n zi.ndagii \threedots
+
+aaI na mujhe raas mohabbat kii phizaaye.n
+sharamaaI merii aa.Nkh se saavan kii ghaTaae.n
+laharo.n me.n sadaa
+laharo.n me.n sadaa Gam ko bahaataa hii rahaa huu.N
+mai.n zi.ndagii \threedots
+%
+#endindian
+\endsong
+%

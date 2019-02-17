@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{taalaa khol de chaabii se o paradesii balamaa}%
+\film{Laal Baadshaah}%
+\year{1999}%
+\starring{Amitabh, Manisha, Shilpa Shetty, Shakti, Amrish, Mohan Joshi}%
+\singer{Vinod Rathod, Anuradha Paudwal}%
+\music{Aadesh Srivastava}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+taalaa khol de chaabii se o paradesii balamaa
+ba.nsii pyaar kii bajaa de tuu bajaa de sajanaa
+taalaa khol de \threedots
+
+duniyaa bole kuchh bhii bolii tuu maar zamaane ko golii
+aajaa khele.n DaT ke holii bhiige laha.ngaa bhiige cholii
+mere jiivan kii khushbuu tujhako kar degii matavaalaa
+taalaa khol de \threedots
+
+mai.n ruupanagar kii gorii huu.N mai.n jaisalamer kii chhorii huu.N
+meraa tan bhaTake meraa man bhaTake jaaduu hai.n mere laTake jhaTake
+are siidhii sachchii baat kahii naa Daal mirch masaalaa
+taalaa khol de \threedots
+%
+#endindian
+\endsong
+

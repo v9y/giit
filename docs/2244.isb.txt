@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye javaanii hai diivaanii}%
+\film{Jawani Diwani}%
+\year{1972}%
+\starring{Randhir Kapoor, Jaya Bhaduri}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ye javaanii, hai diivaanii
+haT merii raanii, ruk jaa o raanii
+dekh zaraa piichhe mu.Dake
+chalii kahaa.n aise u.D ke
+gili gili akkhaa, gili gili akkhaa
+bili bili bili   \threedots
+
+baate.n, mulaaqaate.n karane kii shaam hai
+aise me.n ruuThanaa diivano.n kaa kaam hai
+he, ye javaanii hai diivaanii   \threedots
+
+khilake dil milate, khil jaataa banake phuul
+par tujhako na bhuuli chhoTii sii merii bhuul
+he, ye javaanii hai diivaanii   \threedots
+
+ruuThii, chalii jhuuThii haT chhuuTii dostii
+shiqavaa hai ho.nTho.n pe, aa.Nkho.n me.n pyaar bhii
+he, ye javaanii hai diivaanii   \threedots
+
+%
+#endindian
+\endsong
+%

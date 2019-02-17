@@ -1,0 +1,55 @@
+% 
+\startsong
+\stitle{gaa mere man gaa}%
+\film{Lajwanti}%
+\year{1958}%
+\starring{Nargis, Balraj Sahni}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/01/1996
+% Comments: Movie has lovely Asha solos, 2 others are:
+%       "Ek hans ka joda" and 
+%       "Chanda re chanda re chupe rehna soye meri maina
+%
+\printtitle
+#indian
+%
+gaa mere man gaa \threedots gaa mere man gaa
+tuu gaa mere man gaa \threedots gaa mere man gaa
+(yuu.N hii bitaae jaa din zi.ndagii ke) \- 2
+gaa mere man gaa \threedots gaa mere man gaa
+ 
+hmm, terii TuuTii huii biinaa 
+kahe tujhako hai jiinaa 
+jiivan ko nibhaa
+hmm, chaahe bhar bhar aae 
+chaahe dukh barasaaye
+tere naino.n kii ghaTaa
+tuu nain mat chhalakaa\threedots
+gaa mere man gaa \threedots
+ 
+ye hai.n duniyaa ke mele
+tujhe phiranaa akele
+sah sahake sitam
+hmm, nafarat kaa diivaanaa 
+nahii.n samajhaa zamaanaa 
+teraa dukh teraa Gam
+khaa Thes aur muskaa\threedots 
+gaa mere man gaa \threedots
+ 
+hmm, har suu hai a.ndheraa phir kaun hai teraa
+jo mai.n kahuu.N zaraa sun
+hmm, merii kho ga_ii paayal merii giit hai ghaayal 
+merii zakhamii hai dhun
+phir bhii tuu jhuume jaa\threedots
+gaa mere man gaa \threedots
+%
+#endindian
+\endsong
+%
+

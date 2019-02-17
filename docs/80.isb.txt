@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa jaa re, ab meraa dil pukaaraa, ro ro ke gam bhii haaraa}%
+\film{Aah}%
+\year{}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa jaa re
+aa jaa re, ab meraa dil pukaaraa
+ro ro ke Gam bhii haaraa
+badanaam naa ho pyaar meraa
+aa jaa re
+
+ho o o ghabaraaye haay ye dil \- 2
+sapano.n me.n aake kabhii mil \- 2
+maut merii taraf aane lagii
+jaan terii taraf jaane lagii
+bol shaam\-e\-judaaI kyaa kare \- 2
+aas milane kii ta.Dapaane lagii
+aa jaa re  \threedots
+
+aapane bImaar\-e\-Gam ko dekh le
+ho sake to tU hamako dekh le
+tUne dekhaa naa hogaa ye samaa \- 2
+kaise jaataa hai dam ko dekh le
+aa jaa re  \threedots
+%
+#endindian
+\endsong
+%

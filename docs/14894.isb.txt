@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{prem karat ban me.n, jalat tan me.n, piyaa base man me.n}%
+\film{Toofaani Taarzan}%
+\year{1937}%
+\starring{John Kavas, Ms Gulshan, benman Shroff}%
+\singer{Female Voice?}%
+\music{Master Mohammed}%
+\lyrics{Pt Gyan}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% kosh mentions Ahmad Dilawar as the singer, but this is a solo
+% in a female voice.
+
+\printtitle
+#indian
+
+( prem karat ban me.n, jalat tan me.n,
+piyaa base man me.n
+ban jogan prem\-lagan liye dhyaan sajan ke ) \-2
+
+milaa na mahe jab dard\-e\-dil kaa gulashan me.n \-2
+mai.n DhuuDhat\-DhuuDhat aan basii huu.N ban me.n \-2
+
+( prem karat ban me.n, jalat tan me.n,
+piyaa base man me.n
+ban jogan prem\-lagan liye dhyaan sajan ke ) \-2
+
+#endindian
+\endsong

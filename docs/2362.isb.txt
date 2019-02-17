@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{jiinaa yahaa.N maranaa yahaa.N}%
+\film{Mera Naam Joker}%
+\year{1970}%
+\starring{Raj Kapoor, Simi Garewal, Padmini, Dharmendra, Manoj Kumar, Rishi Kapoor}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shaili Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+jiinaa yahaa.N maranaa yahaa.N
+isake sivaa jaanaa kahaa.N
+jii chaahe jab hamako aavaaz do
+ham hai.n vahii.n ham the jahaa.N
+jiinaa yahaa.N maranaa yahaa.N   \threedots
+
+kal khel me.n ham ho.n na ho.n
+gardish me.n taare rahe.nge sadaa
+bhuuloge tum, bhuule.nge vo
+par ham tumhaare rahe.nge sadaa
+ho.nge yahii.n apane nishaa.N
+isake sivaa jaanaa kahaa.N
+jiinaa yahaa.N maranaa yahaa.N   \threedots
+
+ye meraa giit jiivan sa.ngiit
+kal bhii koii doharaayegaa
+jag ko ha.Nsaane baharuupiyaa
+ruup badal phir aayegaa
+svarg yahii.n nark yahaa.N
+isake sivaa jaanaa kahaa.N
+jiinaa yahaa.N maranaa yahaa.N   \threedots
+
+%
+#endindian
+\endsong
+%

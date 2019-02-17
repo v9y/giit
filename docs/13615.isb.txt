@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{hurre pyaar mohabbat ke sivaa ye zindagii kyaa zindagii}%
+\film{Pyar Mohabbat}%
+\year{1966}%
+\starring{Dev Anand, Saira Bano, Shashikala}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11015 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	hurre \-3
+	( pyaar mohabbat ) \-2 ke sivaa ye zindagii kyaa zindagii \-2
+aa \:	aa gale lag jaa mere aur chho.D de ye dillagii \-2
+ra \:	pyaar mohabbat \threedots
+aa \:	aa gale lag jaa \threedots
+
+ra \:	jo tumane kiyaa jo hamane kiyaa vo jaane do
+	jo tumase hu_aa jo hamase hu_aa vo jaane do
+	do din kii javaanii hai ye jhaga.De jaane do
+	aa jaa_o hamaare paas ab gilaa jaane do
+ra \:	pyaar mohabbat \threedots
+aa \:	aa gale lag jaa \threedots
+
+	tuufaa.N me.n khilii aashaa kii kalii ab Gam kyaa hai
+	ham ek hu_e ma.nzil ke li_e ab Gam kyaa hai
+	ek dil kii lagii ek dil kii bujhii ab Gam kyaa hai
+	saavan kii ghaTaa barasaa_e Kushii ab Gam kyaa hai
+ra \:	Gam kyaa hai
+	pyaar mohabbat \threedots
+aa \:	aa gale lag jaa \threedots
+%
+#endindian
+\endsong
+

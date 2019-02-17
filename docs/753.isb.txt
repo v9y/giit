@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ik hasii.n nigaah kaa dil pe saayaa hai}%
+\film{Maya Memsahab}%
+\year{1992}%
+\starring{Shah Rukh Khan, Deepa Sahi, Faroukh Sheikh, Raj Babbar}%
+\singer{Kumar Sanu / Lata}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+% Comments : There are two versions of the song. The Lata version was
+%            not used in  the film. The second stanza appears only in 
+%            the Kumar Sanu version
+%
+\printtitle
+#indian
+%
+ik hasii.n nigaah kaa dil pe saayaa hai
+jaaduu hai junuun hai kaisii maayaa hai, ye maayaa hai
+
+paa.Nv ke tale kahii.n dil pa.Daa mile agar
+chuum kar uThaa_iye, khuub dekh bhaal kar
+jo ko_ii puuchh le to kyaa, raah se uThaayaa hai
+ik hasii.n nigaah kaa   \threedots
+
+chalii gayii vo ma.nchalii
+pukaaruu.Ngaa galii galii
+vo le ke merii zi.ndagii
+chalii, chalii udhar chalii
+vo ruuThii ruuThii rahatii hai
+bahut bahut manaayaa hai
+vo ruuThii ruuThii rahatii hai, bahut bahut manaayaa hai
+ik hasii.n nigaah kaa   \threedots
+
+tere niilii aa.Nkh ke bha.Nvar ba.De hasiin hai.n
+Duub jaane do mujhe, ye Kvaabo.n kii zamiin hai
+uTha lo apanii palako.n ko ye pad.raa kyo.n giraayaa hai
+ik hasii.n nigaah kaa   \threedots
+%
+#endindian
+\endsong
+%

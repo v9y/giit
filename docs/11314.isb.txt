@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{merii zindagii ne mujh pe ehasaan kyaa kiyaa hai}%
+\film{Do Aur Do Paanch}%
+\year{1980}%
+\starring{Amitabh Bachchan, Shashi Kapoor, Hema Malini, Parveen Babi}%
+\singer{Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10767 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii zindagii ne mujh pe ehasaan kyaa kiyaa hai
+jiine de naa marane de mujhe aisaa Gam diyaa hai
+merii zindagii ne \threedots
+
+jo milaa kho gayaa kyaa mere paas hai
+dard hii dard hai pyaas hii pyaas hai
+meraa dil hii jaane maine kyaa\-kyaa zahar piyaa hai
+jiine de na marane \threedots
+
+jal ke ham phir bujhe bujhe ke ham phir jale
+zindagii Kuub hai ye tere faisale
+mar\-mar umr saarii yahaa.N kaun jiyaa hai
+jiine de na marane \threedots
+
+pyaar me.n kii vafaa to milii kyaa sazaa
+dostii yaar kii de ga_ii kyaa daGaa
+kyaa bolate kisii ke ho.nTho.n ko sii liyaa hai
+jiine de na marane \threedots
+%
+#endindian
+\endsong
+

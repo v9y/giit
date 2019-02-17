@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{badaraa chhaa_e ki jhuule ... ki aayaa saavan ho jhuum ke}%
+\film{Aya Sawan Jhoom Ke}%
+\year{1969}%
+\starring{Dharmendra, Asha Parekh, Aruna Irani}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11097 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	badaraa ho badaraa chhaa_e ki jhuule pa.D ga_e haay
+	ki mele lag ga_e mach ga_ii dhuum re
+	ki aayaa saavan ho jhuum ke
+la \:	badaraa ho badaraa chhaa_e ki jhuume parvat haay
+	re kajaraarii badariyaa ko chuum re
+	ki aayaa saavan ho jhuum ke ki aayaa saavan jhuum ke
+
+	kaahe saamane sabake baalamavaa tuu chhe.De jaalamavaa
+ra \:	kaahe phe.nke nazar kii Dorii tuu luk\-chhup ke gorii
+la \:	kajaraa ho kajaraa haay re bairii bikharaa jaa_e re
+	meraa kajaraa ki mach ga_ii dhuum re
+	ki aayaa saavan jhuum \threedots
+
+ra \:	jaane kisako kisakii yaad aa_ii ke chalii puravaa_ii
+la \:	jaane kis birahan kaa man tarasaa ke paanii barasaa
+ra \:	ka.nganaa ho ka.nganaa laa_e ki ghar lauT ke aa_e
+	paradesii bidesavaa se ghuum ke
+	ki aayaa saavan \threedots
+
+la \:	tere sehare kii hai.n ye la.Diyaa.N ki saavan kii jha.Diyaa.N
+ra \:	ye hai.n mast ghaTaa_o.N kii Tolii ki terii hai Dolii
+la \:	dha.Dakaa jaa_e dha.Dakaa jaa_e re meraa manavaa haay
+	saajanavaa ki mach ga_ii dhuum re
+ko \:	ki aayaa saavan \threedots
+%
+#endindian
+\endsong
+

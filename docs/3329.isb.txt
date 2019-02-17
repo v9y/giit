@@ -1,0 +1,34 @@
+% ITRANS SONG # 3329; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-08-11 11:23:18 PST
+%
+\startsong
+\stitle{Gariibo.n par dayaa kar ke}%
+\film{Roti}%
+\year{1942}%
+\starring{Chandramohan, Sheikh Mukhtar, Sitara, Akhtari Faizabadi, Ashraf Khan}%
+\singer{Ashraf Khan}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: Dhananjay Naniwadekar
+:% Credits: Satish Kalra
+% Comments: This is last film which Mehboob Khan and Anil Biswas
+%    did together.
+%
+\printtitle
+#indian
+%
+Gariibo.n par dayaa kar ke     ba.Daa ehasaan karate ho
+inhe.n buzdil banaa dene kaa   tum saamaan karate ho
+
+inhii.n ko luuTate ho      aur inhe.n khairaat dete ho
+ba.De tum dharm waale ho   ye achchhaa daan karate ho
+
+Daro us waqt se             jab ra.ng badalegaa zamaane kaa
+ye tumase le.nge badalaa    inakaa ab apamaan karate ho
+%
+#endindian
+\endsong
+%

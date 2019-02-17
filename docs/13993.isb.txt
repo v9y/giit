@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ek baar ek baar pyaar se tuu bol pyaar se tuu bol mere yaar}%
+\film{Sambandh}%
+\year{1995}%
+\starring{Saif, Pooja Bhatt, Atul Agnihotri, Sheeba, Saeed Jaffrey, Vikas Anand}%
+\singer{Kumar Sanu, Poornima, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek baar ek baar pyaar se tuu bol pyaar se tuu bol mere yaar
+ek baar ek baar \threedots
+
+jab ek la.Dakaa kisii la.Dakii se mile use ho jaataa hai pyaar
+vo mu.nh se to kuchh bhii na kahe par dil to ye kahataa hai yaar
+kyaa
+ek baar ek baar \threedots
+
+jab ek la.Dakii kisii la.Dake se mile to use ho jaataa hai pyaar
+vo mu.nh se to \threedots
+
+saamane tuu aa ga_ii bekaraarii chhaa ga_ii pahalii mulaakaat ho ga_ii
+hosh tuu u.Daa ga_ii dha.Dakane.n ba.Dhaa ga_ii dil se dil kii baat ho ga_ii
+in nigaaho.n ne in adaa_o.n ne le liyaa hai karaar
+ek baar ek baar \threedots
+
+aisaa dilarubaa hasii.n dekhaa maine na kahii.n tuune meraa dil churaa liyaa
+tere in savaalo.n me.n kho ga_ii khyaalo.n me.n tuune dard\-e\-dil mujhe diyaa
+merii dha.Dakan pe merii chaahat pe meraa na ikhtiyaar
+ek baar ek baar \threedots
+%
+#endindian
+\endsong
+

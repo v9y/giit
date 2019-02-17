@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{mere mahabuub tere dam se hai duniyaa me.n bahaar}%
+\film{Bhai Bhai}%
+\year{1970}%
+\starring{Sunil Dutt,  Asha Parekh, Mehmood, Pran}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11145 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mere mahabuub tere dam se hai duniyaa me.n bahaar
+varanaa is Gam se bharii duniyaa me.n kyaa rakhaa hai \-2
+mere mahabuub tere \threedots
+
+terii aa.Nkho.n me.n nazar aa_ii hai jannat mujhako
+merii jannat terii aa.Nkho.n ke sivaa ko_ii nahii.n
+mere mahabuub tere \threedots
+
+mai.n tasavvur me.n tere jhuum liyaa karataa huu.N
+merii daulat terii chaahat ke sivaa ko_ii nahii.n
+mere mahabuub tere \threedots
+
+zindagaanii me.n ka_ii ra.ng ke mo.D aate hai.n
+tuu salaamat rahe shaayar kii du_aa kahatii hai
+chaa.Nd ghaTataa hai ghaTe husn teraa ba.Dhataa hii rahe
+mai.n rahuu.N yaa na rahuu.N merii vafaa kahatii hai
+mere mahabuub tere \threedots
+%
+#endindian
+\endsong
+

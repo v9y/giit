@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{he re kanhaiyaa kisako kahegaa tuu maiyaa}%
+\film{Chhoti Bahu}%
+\year{1971}%
+\starring{Sharmila Tagore, Rajesh Khanna, Nirupa Roy, Shashikala I S Jauhar}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11152 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+he re kanhaiyaa kisako kahegaa tuu maiyaa
+ek ne tujhako janm diyaa re ek ne tujhako paalaa
+kanhaiyaa kisako kahegaa \threedots
+
+maanii maanataa_e.N aur devii\-dev puuje piir sahii devakii ne
+duudh me.n nahalaane kaa god me.n khilaane kaa
+sukh paayaa yashodaa jii ne
+ek ne tujhako janm diyaa ek ne jiivan sa.mbhaalaa
+kanhaiyaa kisako kahegaa \threedots
+
+marane ke Dar se bhej diyaa dhar se devakii ne re gokul me.n
+binaa di_e janm yashodaa banii maataa tujhako chhupaayaa aa.Nchal me.n
+janm diyaa ho chaahe paalaa ho kisii ne bhed ye mamataa na jaane
+ko_ii bhii ho jisane diyaa ho pyaar maa.N kaa man to maa.N usii ko maane
+ek ne tujhako dii hai.n ye aa.Nkhe.n ek ne diyaa ujaalaa
+kanhaiyaa kisako kahegaa \threedots
+%
+#endindian
+\endsong
+

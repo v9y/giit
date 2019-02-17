@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{bedard tere dard ko siine se lagaa ke}%
+\film{Padmini}%
+\year{1948}%
+\starring{Ashok Kumar, Mumtaz Shanti}%
+\singer{Lata}%
+\music{Gulam Haidar}%
+\lyrics{Wali Saheb}%
+%
+% Contributor: BOL ANAMOL #10194 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bedard tere dard ko siine se lagaa ke
+ro le.nge tasavvur me.n tujhe paas biThaa ke \-2
+
+jab duur thii unase mai.n bahut paas thii unake
+kyuu.N duur kiyaa thaa yuu.N mujhe paas bulaa ke
+bedard tere dard ko \threedots
+
+barabaad bhii hoke na kare.nge teraa shikawaa \-2
+ha.Ns le.nge ga_e vaqt ko ham saamane laa ke
+bedard tere dard ko \threedots
+
+ThaNDak unhe.n milatii hai agar merii jalan se \-2
+dekhuu.Ngii tamaashaa mai.n bhare ghar ko jalaa ke
+bedard tere dard ko \threedots
+%
+#endindian
+\endsong
+

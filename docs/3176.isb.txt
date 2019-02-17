@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{priit kaa naataa jo.Dane vaale}
+\film{Shama Parwana}
+\year{1953}
+\starring{Shammi Kapoor, Suraiya}
+\singer{Suraiyya}
+\music{Husnlal-Bhagatram}
+\lyrics{}
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: April 7, 2000
+% Comments: Suraiya sounds like Geeta Dutt in this song
+% Availability: Laila Majnu/Shama Parwana sdtrk HMV CDF 120276
+% This song is not listed in the HFGK.
+%
+\printtitle
+#indian
+
+priit kaa naataa jo.Danevaale 
+priit kaa naataa ajii to.D na jaanaa
+tum jo mile mil ga_e mujhe bhii 
+jiine kaa ek madhur bahaanaa
+
+din ho phuul raate.n kaliyaa.N 
+madhuban ho mere man kii galiyaa.N
+ha.Ns ha.Ns kar man basanevaale 
+miit banaakar priit nibhaanaa
+priit kaa naataa to.D na jaanaa naa \threedots
+
+%
+#endindian
+\endsong
+%

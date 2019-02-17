@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{churaakar dil ko yuu.N ... haay meraa dil mujhe vaapas}%
+\film{Ambar}%
+\year{1952}%
+\starring{Nargis, Raj Kapoor, Agha, Vipin Gupta, Ramesh Sinha, Cukoo, Helen}%
+\singer{Rafi}%
+\music{Gulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10196 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+churaakar dil ko yuu.N aa.Nkhe.n churaanaa kisase siikhaa hai
+zaraa sii baat par yuu.N ruuTh jaanaa kisase siikhaa hai
+
+chale jaanaa tum duur ba.De shauq se huzuur
+haay meraa dil mujhe vaapas kar do
+ho meraa dil mujhe vaapas kar do
+
+mere dil ko churaakar aa_oge to jaa nahii.n paa_oge
+chorii\-chorii ga_e bhii to phir yahii.n aa_oge
+dil deke judaa_ii mujhe nahii.n ma.nzuur
+haay meraa dil mujhe \threedots
+
+ho zaraa ye kah do tirachhii nazar se ki hamako ye sataa_e naa
+mai.n huu.N ko_ii Gair to yah chhe.D mujhe bhaa_e naa
+maine priit lagaa_ii hu_aa mujhase qasuur
+haay meraa dil mujhe \threedots
+%
+#endindian
+\endsong
+

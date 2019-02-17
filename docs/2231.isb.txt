@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu laakh chale rii gorii tham tham ke}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Iqbal Bano}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Nishi Bhatnagar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tuu laakh chale rii gorii tham\-tham ke
+paayal me.n giit hai.n chham\-chham ke
+
+tuu piyaa se mil kar aa_ii hai
+bas aaj se nii.nd paraa_ii hai
+dekhegii sapane saajan ke
+tuu laakhe chale   \threedots
+
+ye jiivan bhar kaa rog sakhii
+tujhe pagalii kahe.nge log sakhii
+yaad aaye.nge vaade baalam ke
+tuu laakh chale   \threedots
+
+mai.n ne bhii kiyaa thaa pyaar kabhii
+aa_ii thii yahii aavaaz kabhii
+ab giit mai.n gaatii huu.N Gam ke
+tuu laakh chale   \threedots
+%
+#endindian
+\endsong
+%

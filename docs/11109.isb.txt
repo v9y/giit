@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chaa.Nd ne kuchh kahaa ... pyaar kar o ho pyaar kar}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Karishma Kapoor, Madhuri Dixit, Shahrukh Khan}%
+\singer{Lata, Udit Narayan}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Nd ne kuchh kahaa raat ne kuchh sunaa tuu bhii sun bekhabar
+pyaar kar o ho pyaar kar
+aa_ii hai chaa.Ndanii mujhase kahane yahii merii galii mere ghar
+pyaar kar o ho o pyaar kar
+chaa.Nd ne kuchh kahaa \threedots
+
+kyaa kahuu.N kyaa pataa baat kyaa ho ga_ii
+dillagii ye mere saath kyaa ho ga_ii
+ik ishaaraa hai ye dil pukaaraa hai ye isase churaa naa nazar
+pyaar kar o ho ho pyaar kar
+chaa.Nd ne kuchh kahaa \threedots
+
+hai kaun kyaa khabar ko_ii to hai magar
+sapano.n me.n hai kahii.n aataa nahii.n nazar
+mai.n yahaa.N vo vahaa.N aa rahii phir yahaa.N aavaaz kisakii magar
+pyaar kar o ho ho pyaar kar
+chaa.Nd ne kuchh kahaa \threedots
+
+jisape ham the miTe usako pataa hii nahii.n o
+kyaa gilaa ham kare.n vo bevafaa bhii nahii.n
+hamane jo sun liyaa usane kahaa bhii nahii.n ai dil zaraa sochakar
+pyaar kar o ho pyaar kar
+chaa.Nd ne kuchh kahaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{havaa kah rahii hai ... mohabbat ne mohabbat ko}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+havaa kah rahii hai ghaTaa kah rahii hai hasii.n ye nazaaraa hai
+dil hii ye samajhegaa dil hii ye jaanegaa dil kaa ishaaraa hai
+mohabbat ne mohabbat ko mohabbat se pukaaraa hai
+havaa kah rahii hai \threedots
+
+mohabbat se merii jo aa.Nkhe.n milii to mohabbat mai.n karane lagaa
+jo dekhii mohabbat kii diivaanagii to mohabbat pe marane lagaa
+mohabbat ko to chain aa_e merii jaa.n mohabbat ke aaGosh me.n
+mohabbat se mil ke diivaane rahe.n naa mohabbat kabhii hosh me.n
+meraa dil merii jaa.n tuu meraa aramaa.n
+mujhe to terii khuubasuurat javaa.n in adaa_o ne maaraa hai
+zaraa puuchh maine binaa tere kaise ye lamhaa guzaaraa hai
+mohabbat ne mohabbat ko \threedots
+
+mohabbat mohabbat tere dil pe likh duu.N mohabbat meraa naam hai
+mohabbat se ba.Dh ke nahii.n kaam ko_ii mohabbat meraa kaam hai
+mohabbat ko dekhuu.N mohabbat ko chaahuu.N mohabbat se baate.n karuu.N
+mohabbat kabhii duur jaa_e jo mujhase mohabbat me.n aahe.n bharuu.N
+ye vaadaa TuuTe naa ye daaman chhuuTe naa
+teraa pyaar mujhako ai jaan\-e\-jahaa.n zi.ndagii se bhii pyaaraa hai
+tere ruup ko maine jaan\-e\-tamannaa jigar me.n utaaraa hai
+mohabbat ne mohabbat ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{dekho jii, meraa jiiyaa churaae liye jaae}%
+\film{Naubahaar}% 
+\year{1952}% 
+\starring{Ashok Kumar, Nalini Jayawant}% 
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Neha Desai <umdesai@cc.UManitoba.CA>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/29/1996
+%
+\printtitle
+#indian
+%
+dekho jii, meraa jiiyaa churaae liye jaae	\- 2
+
+naam na jaanuu.N, dhaam na jaanuu.N	\- 2
+kyaa hogaa a.njaam na jaanuu.N
+man pa.nchhii ghabaraae
+e rii meraa jiiyaa churaae liye jaae
+dekho jii \threedots
+
+nain kahe ham ne dhan paayaa
+man kose mohe kiyaa paraayaa
+priit Thumak muskaae
+e rii meraa jiiyaa churaae liye jaae
+dekho jii \threedots
+
+rasiyaa saadhuu kar gayaa jaaduu	\- 2
+na tan pe na man pe kaabuu
+dhuuli raamaa ke bharmaae
+e rii meraa jiiyaa churaae liye jaae
+dekho jii \threedots
+%
+#endindian
+\endsong
+%
+

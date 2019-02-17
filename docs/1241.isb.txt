@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{milatii hai nazar nazaro.n se agar}%
+\film{Do Dilon Ki Daastaan}%
+\year{1966}%
+\starring{Pradeep Kumar, Vyjyanthimala}%
+\singer{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{Raja Mehdi Ali Khan}%
+% 
+% Contributor: Shashikant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 26 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ra: milatii hai nazar nazro.n se agar sharmaate ho kyo.n, kyo.n, kyo.n
+la: duniyaa kaa hai Dar nazaro.n se nazar Takaraate ho kyo.n, kyo.n, kyo.n
+
+la: milate hii nigaahe.n diivaane, kyo.n machal gayaa dil teraa hai
+ra: bas ye samajho ik bha.Nvare ne, tumhe phuul samajhakar gheraa hai
+la: huu.N phuul agar bha.Nvaraa banakar, tarasaate ho kyo.n, kyo.n, kyo.n
+
+la: jaao jii ham nahii.n dil dete, ham dekhe.nge kyaa kar loge
+ra: ye achchhii tarah ham jaan gae, tum koii bahaanaa kar loge
+la: phir ban\-Than ke is la.Dakii ke paas aate ho kyo.n, kyo.n, kyo.n
+%
+#endindian
+\endsong
+%

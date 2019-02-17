@@ -1,0 +1,39 @@
+% ITRANS SONG # 3412; Created on Jan 26, 2004
+%
+% From: Achyut Joshi (asj2@duke.edu)
+% Date: 2001-03-08 13:18:04 PST
+%
+\startsong
+\stitle{man re tuu hii bataa kyaa gaa_uu.N}%
+\film{Hamrahi}%
+\year{1963}%
+\starring{Rajendra Kumar, Jamuna, Mehmood}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Achyut Joshi
+% Transliterator: Achyut Joshi
+%
+\printtitle
+#indian
+%
+man re, tuu hii bataa kyaa gaa_uu.N
+kah duu.N apane dil ke dukha.De
+yaa aa.Nsuu pii jaa_uu.N
+
+jis ne barabas baa.ndh liyaa hai
+is pi.njare me.n qaid kiyaa hai
+kab tak mai.n us patthar dil kaa
+jii bahalaatii jaa_uu.N
+man re \three dots
+
+nee.nd me.n jab ye jag sotaa hai
+mai.n rotii huu.N, dil rotaa hai
+mukh pe jhooThii muskaano.n ke
+kab tak ra.ng cha.Dhaa_uu.N
+man re \three dots
+%
+#endindian
+\endsong
+%

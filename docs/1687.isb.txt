@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{tere khayaalo.n me.n ham, tere hii baaho.n me.n ham}%
+\film{Geet Gaya Pattharon Ne}%
+\year{}%
+\starring{Rajshri, Jeetendra}%
+\singer{Asha}%
+\music{Ramlal}%
+\lyrics{Hasrat}%
+% 
+% Contributor:  
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Credits: Arun Verma <verma@CS.Cornell.EDU>
+%          Surajit A. Bose <bose.2@nd.edu>
+%          Neeraj Malhotra <malhotra@bedford.progress.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+tere khayaalo.n me.n ham, tere hii baaho.n me.n ham \-2
+apane hai.n dono jahaa.N, o jaan\-e\-bekhudii yahaa.N
+tere khayaalo.n \threedots
+
+yuu.N roshanii bhor kii, palako.n me.n tere chhupii
+jab aa.Nkh kholegaa tuu, putalii me.n ho.nge hamii.n
+ham hai.n kalaa kii jagah, aa.Nkho.n me.n tere ravan
+
+tere khayaalo.n me.n ham, tere hii baaho.n me.n ham
+madabhar cha.nchal ye shaam, detii hai tujhako payaam
+patthar se kar shaayarii, tujhako hamaaraa salaam
+tuu hai jahaa.N ham vahaa.N, jhuume zamii.n aasmaa.n
+
+tere khayaalo.n me.n ham, tere hii baaho.n me.n ham
+%
+#endindian
+\endsong
+%
+

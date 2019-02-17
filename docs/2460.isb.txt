@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{sudh bisar gayii aaj}%
+\film{Sangeet Samrat Tansen}%
+\year{1962}%
+\starring{Bharat Bhushan, Anita Guha}%
+\singer{Rafi, Manna De}%
+\music{S N Tripathi}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+sudh bisar gayii aaj apane gunan kii
+aa hii gayii baat biite dinan kii
+
+bikhare sapan saare vidhanaa se ham haare
+asuvo.n me.n Duubii hai.n palake.n nayan kii
+palake.n nayan kii
+sudh bisar gayii aaj   \threedots
+
+jiyaraa gayo TuuT, gayii preraNaa ruuTh
+ghuT ghuT gayii suukh saritaa suran kii
+saritaa suran kii
+sudh bisar gayii aaj   \threedots
+
+sa ri sa ma, ma ga ma dha, dha ma dha sa
+ni sa ga, sa\-\- (ni sa ni) (dha ni dha) (ma dha ma)
+(ga ma dha ma dha ni sa) ni dha pa ma, ni dha pa ma, ni dha pa ma
+sudh bisar gayii aaj   \threedots
+
+haay re kalakaar jaane na sa.nsaar
+har raag me.n piir hai kis ke man kii
+haay, kis ke man kii
+sudh bisar gayii aaj   \threedots
+
+% tej gati
+sudh bisar gayii aaj apane gunan kii
+aa hii gayii baat biite dinan kii
+
+% dhiimii gati
+sudh bisar gayii aaj apane gunan kii
+
+%
+#endindian
+\endsong
+%

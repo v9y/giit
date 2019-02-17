@@ -1,0 +1,23 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tiir naino.n kaa zaalim ne haay maaraa mujhe}%
+\film{Best Of Mehdi Hassan (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{Mehdi Hasan}%
+\lyrics{}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+tiir naino.n kaa zaalim ne haay maaraa mujhe
+
+nainaa ba.De Gariib hai.n are rahe.n palak kii oT
+daa.Nv pa.De chuuke.n nahii.n re kare.n laakhan me.n choT 
+
+#endindian
+\endsong

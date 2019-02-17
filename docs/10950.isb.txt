@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{tumane naa jaanaa ... suno naa suno naa sun lo naa}%
+\film{Chalte Chalte}%
+\year{2003}%
+\starring{Shahrukh Khan, Rani Mukherjee}%
+\singer{Abhijeet}%
+\music{Aadesh Shrivastava}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11729 [V S Rawat]
+% Producer: Dreamz Unlimited, UTV Motion Pictures, Director: Aziz Mirza
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3373 Gold Stereo, Cost: Rs 55/-, CD: 112053 CDF, Cost: Rs 125/-
+% Site: www.chaltechalte.com
+% 
+\printtitle
+#indian
+%
+he he haa haa haa haa haa haa
+he he huu.N huu.N huu.N huu.N huu.N
+laa raa laa huu.N huu.N huu.N he he he he
+
+( tumane naa jaanaa ke mai.n diivaanaa
+lekar aayaa huu.N dil kaa nazaraanaa
+mere dil kii hai jo daastaa.N
+suno naa suno naa sun lo naa
+hamasafar mujhii ko chun lo naa
+suno naa suno naa sun lo naa ) \-2
+
+( tum jo gumasum ho to mai.n hairaa.N huu.N
+ye raaz kaise tumako bataa_uu.N ) \-2
+tum par marataa huu.N mai.n sach kahataa huu.N
+maa.Ng ke dekh lo mujhase jaa.N
+suno naa suno naa sun lo naa
+hamasafar mujhii ko chun lo naa
+suno naa suno naa sun lo naa
+
+( main bhii huu.N tanahaa tum bhii tanahaa ho
+gar saath ham ho.n to socho kyaa ho ) \-2
+jo ma.nzil\-ma.nzil do diivaane dil
+le chale.n pyaar kaa kaaravaa.N
+suno naa suno naa sun lo naa
+hamasafar mujhii ko chun lo naa
+suno naa suno naa sun lo naa
+
+tumane naa jaanaa \threedots chun lo naa
+suno naa suno naa sun lo naa
+%
+#endindian
+\endsong
+

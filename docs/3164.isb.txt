@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o bhuulane waale}%
+\film{Pagli}%
+\year{1943}%
+\starring{Padam, Asha (Posle?), Kapoor, Aruna}%
+\singer{Naseem Akhtar, Shamshad}%
+\music{Jhande Khan}%
+\lyrics{}%
+%
+% Contributor: Dhananjay Naniwadekar
+% Transliterator:
+% Date : 06 sept 2002
+% Credits : Kamlakar Pasupuleti, Satish Kalra
+% Comments: Raag Bhairavi
+% The film has 10 songs and 4 MDs. Jhande Khan, Gobind
+% Ram, Amir Ali have given 2 songs each. Rashid Atre has
+% given 3. One is unattributed. The lyricists are Qamar
+% Jalaabadi and Melaram 'Wafa'.
+%
+\printtitle
+#indian
+%
+
+na : o bhuulane vaale mai.n tujhe
+     kaise bhulaa duu.N
+do :
+     o bhuulane vaale
+
+na : kyo.n bhuul gaye pyaar me.n Duubii hu_ii baate.n
+sh : bharapuur javaanii kii uma.ngo.n bharii raate.n
+     aramaan bhare dil se muhabbat kii vo ghaate.n
+do : siine me.n basaa le
+na : o bhuulane vaale  \threedots
+
+na : kyo.n prem ke bandhan ko piyaa to.D gaye ho
+     sapano.n ko basaa kar mere mukh mo.D gaye ho
+sh : ma.Njhadhaar me.n naiyaa merii kyo.n chho.D gaye ho
+do : maujo.n ke havaale
+na : o bhuulane vaale  \threedots
+
+%
+#endindian
+\endsong
+%

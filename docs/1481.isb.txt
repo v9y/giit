@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa}%
+\film{Mughal-e-Azam}%
+\year{1960}%
+\starring{Prithviraj Kapoor, Dilip Kumar, Madhubala}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Surajit Bose
+% Editor:  
+%
+\printtitle
+#indian
+%
+insaan kisii se duniyaa me.n ik baar muhabbat karataa hai
+is dard ko lekar jiitaa hai, is dard ko lekar marataa hai
+
+pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa koii chorii nahii.n kii pyaar kiyaa\threedots
+pyaar kiyaa koii chorii nahii.n kii chhup chhup aahe.n bharanaa kyaa
+jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa
+
+aaj kahe.nge dil kaa fasaanaa jaan bhii lele chaahe zamaanaa \-2
+maut vohii jo duniyaa dekhe
+maut vohii jo duniyaa dekhe ghuT ghuT kar yuu.N maranaa kyaa
+jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa
+
+unakii tamannaa dil me.n rahegii, shammaa isii mahafil me.n rahegii \hbox{\-2}
+ishq me.n jiinaa ishq me.n maranaa
+ishq me.n jiinaa ishq me.n maranaa aur hame.n ab karanaa kyaa
+jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa
+
+chhup na sakegaa ishq hamaaraa chaaro.n taraf hai unakaa nazaaraa \-2
+paradaa nahii.n jab koii khudaa se
+paradaa nahii.n jab koii khudaa se ba.ndo.n se paradaa karanaa kyaa
+jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa to Daranaa kyaa jab pyaar kiyaa to Daranaa kyaa
+pyaar kiyaa koii chorii\threedots
+%
+#endindian
+\endsong
+%

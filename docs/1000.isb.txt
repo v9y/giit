@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kis nazar kaa mast ishaaraa hai zi.ndagii}%
+\film{Raagrang}%
+\year{1952}%
+\starring{Geeta Bali}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar 
+% Date: April 20, 1998
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+kis nazar kaa mast ishaaraa hai zi.ndagii
+kis aasmaa.N kaa TuuTaa sitaaraa hai zi.ndagii
+
+kyaa kashtiyaa.N rahe.ngii ye laharo.n se hoshiyaar, laharo.n se hoshiyaar
+unake hai.n jinase laakh ummiido.n ke beqaraar, haay beqaraar
+dariyaa kaa ek bahataa kinaaraa hai zi.ndagii
+kis aasmaa.N kaa   \threedots 
+
+jiinaa usii kaa hai jo jiye aur ke liye
+aa.Nsuu bhii de nasiib to ha.Nsakar unhe.n piye
+duniyaa ko ye payaam hamaaraa hai zi.ndagii
+kis aasmaa.N kaa   \threedots 
+
+%  
+#endindian  
+\endsong  
+%

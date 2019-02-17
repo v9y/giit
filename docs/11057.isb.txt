@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chhaayaa hai jo ... aisaa lag rahaa hai pyaar ho rahaa hai}%
+\film{Dil Hai Tumhaara}%
+\year{2002}%
+\starring{Jimmy Shergil, Arjun Rampal, Preity Zinta, Mahima Chaudhary, Rekha}%
+\singer{Shaan, Kavita Subramaniam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chhaayaa hai jo dil pe kyaa nashaa hai
+aisaa lag rahaa hai pyaar ho rahaa hai
+ho chhaayaa hai jo \threedots
+
+bekaraarii me.n bhii kitanaa mazaa hai
+aisaa lag rahaa hai \threedots
+
+apanii palako.n me.n mujhako chhupaayaa hai
+ek chehare ne meraa chain churaayaa hai
+har taraf shokh mausam kaa saayaa hai
+in havaa_o.n ne meraa aa.Nchal u.Daayaa hai
+dil me.n jo chhupii hai ik dilarubaa hai
+aisaa lag rahaa hai \threedots
+
+mai.n to diivaanii terii hone lagii
+ajanabii khyaalo.n me.n khone lagii
+kuchh khabar hu_ii naa mujhako terii kasam
+kab aur kahaa.N ye chaahat hu_ii sanam
+dard hai chubhan hai havaa hai
+aisaa lag rahaa hai \threedots
+%
+#endindian
+\endsong
+

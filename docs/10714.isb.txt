@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{huu.N bahaaro.n ne ki_e sajade gulo.n ne sar jhukaayaa hai}%
+\film{Bombay By Nite}%
+\year{1976}%
+\starring{Prithviraj Kapoor, Sanjeev Kumar, Kumkum, Ramesh Dev, Bela Bose}%
+\singer{Mukesh}%
+\music{Iqbal Qureshi}%
+\lyrics{Upendra}%
+%
+% Contributor: BOL ANAMOL #10243 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+huu.N
+bahaaro.n ne ki_e sajade gulo.n ne sar jhukaayaa hai
+ba.Dii furasat se maalik ne hasii.n tumako banaayaa hai
+bahaaro.n ne ki_e sajade \threedots
+
+tere gaalo.n kii surKii ko churaane Gulaab aa_e
+teraa naazuk badan jisakii balaa lene shabaab aa_e
+vo gore haath jisame.n sa.ng\-e\-maramar kii safedii hai
+ghaTaa saavan kii zulfo.n me.n terii aaraam karatii hai
+hasiinaa o hasiinaa \-2
+bahaaro.n ne ki_e sajade \threedots
+
+teraa cheharaa zamii.n kaa chaa.Nd banakar jagamagaayaa hai
+magar kyuu.N chaa.Ndanii ko apane ghuu.NghaT me.n chhupaayaa hai
+do aa.Nkhe.n aisii hai.n jaise Gazal ke pahale do misare
+terii maasuumiyat par baiThe hai.n a.ndaaz ke pahare
+hasiinaa o hasiinaa \-2
+bahaaro.n ne ki_e sajade \threedots
+%
+#endindian
+\endsong
+

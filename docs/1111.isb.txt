@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mai.n kyaa karuu.N raam mujhe buDDhaa mil gayaa}%
+\film{Sangam}%
+\year{1964}%
+\starring{Raj Kapoor, Vyjayantimala, Rajendra Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+mai.n kyaa karuu.N raam mujhe buDDhaa mil gayaa
+haay, haay buDDhaa mil gayaa
+
+mai.n gu.Diyaa hasiin merii moranii sii chaal hai
+sar me.n safed usake daadaa jii saa baal hai
+biga.Degaa har kaam mujhe buDDhaa mil gayaa
+mai.n kyaa karuu.N raam mujhe buDDhaa mil gayaa   \threedots
+
+sab jo gaye baaG meraa buDDhaa bhii chalaa gayaa
+sab to laaye phuul buDDhaa gobhii le kar aa gayaa
+mai.n ho ga_ii badanaam mujhe buDDhaa mil gayaa
+mai.n kyaa karuu.N raam mujhe buDDhaa mil gayaa   \threedots
+
+pariyo.n ke desh mujhe buDDhaa le kar aa gayaa
+mai.n ne jo uThaayaa ghuu.NghaT buDDhaa gussaa khaa gayaa
+ab kyaa hogaa a.njaam mujhe buDDhaa mil gayaa
+mai.n kyaa karuu.N raam mujhe buDDhaa mil gayaa   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,74 @@
+
+%
+\startsong
+\stitle{tum bhii naa maano mai.n bhii naa maanuu.N ... hai pyaar tumhe.n}%
+\film{The Hero}%
+\year{2003}%
+\starring{Sunny Deol, Preity Zinta, Priyanka Chopra, Kabir Bedi}%
+\singer{Hariharan, Alka Yagnik}%
+\music{Uttam Singh}%
+\lyrics{Javed Akhtar}%
+%
+% contributor: BOL ANAMOL #11787 [V S Rawat]
+% producer: Time Movies, Nanjibhai Shah, Dhirajlal Shah, Pravin Shah, Hasmukh Shah
+% director: Anil Sharma
+% audio: Time Magnetics (India) Ltd, time@bom4.vsnl.net.in
+% cassette: TFC-002 Stereo, Cost: Rs 40/-, CD: 
+% website: www.theherothefilm.com
+%
+\printtitle
+#indian
+%
+ha \:	tum bhii naa maano mai.n bhii naa maanuu.N \-2
+	par tum bhii jaano par mai.n bhii jaanuu.N
+	( hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe ) \-2
+
+a \:	tum bhii naa maano mai.n bhii naa maanuu.N \-2
+	par tum bhii jaano par mai.n bhii jaanuu.N
+	( hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe ) \-2
+	
+ha \:	aa.Nkhe.n bhii jaise dil kii zubaa.N hai.n
+	sab kuchh sunaatii Kaamoshiyaa.N hai.n
+a \:	aa.Nkhe.n bhii jaise dil kii zubaa.N hai.n
+	sab kuchh sunaatii Kaamoshiyaa.N hai.n
+ha \:	ham paas aa_e.N yaa duur jaa_e.N
+	baa.Ndhe hai ko_ii bandhan hame.n
+a \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+ha \:	tum bhii naa maano mai.n bhii naa maanuu.N
+	par tum bhii jaano par mai.n bhii jaanuu.N
+	hai pyaar tumhe.n hai pyaar mujhe
+a \:	lagataa hai yahii har baar mujhe
+	
+a \:	ek pal ko tumane jo chhuu liyaa hai
+	kuchh bhii naa kahake sab kah diyaa hai
+ha \:	ek pal ko tumane jo chhuu liyaa hai
+	kuchh bhii naa kahake sab kah diyaa hai
+a \:	saa.Nso.n kii ulajhan siine kii dha.Dakan
+	rakhatii kahaa.N hai kuchh raaz me.n
+ha \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+a \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+
+ha \:	dil ki kahaanii jo anakahii hai
+	saarii fizaa me.n guu.Njii hu_ii hai
+a \:	dil ki kahaanii jo anakahii hai
+	saarii fizaa me.n guu.Njii hu_ii hai
+ha \:	saarii havaa_e.N
+a \:	saarii dishaa_e.N
+do \:	ye hii sunaa_e.N ye hii sune.n
+	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+ha \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+a \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+do \:	hai pyaar tumhe.n hai pyaar mujhe
+	lagataa hai yahii har baar mujhe
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{bol merii taqadiir me.n kyaa hai mere hamasafar ab to bataa}%
+\film{Hariyali Aur Rasta}%
+\year{1962}%
+\starring{Manoj Kumar, Mala Sinha}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10924 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	bol merii taqadiir me.n kyaa hai mere hamasafar ab to bataa
+	jiivan ke do pahaluu hai.n hariyaalii aur raastaa
+mu \:	kahaa.N hai mere pyaar kii ma.nzil tuu batalaa tujhako hai pataa
+	jiivan ke do \threedots
+
+la \:	jahaa.N ham aa ke pahu.Nche hai.n vahaa.N se lauTakar jaanaa
+	nahii.n mumakin magar mushkil hai duniyaa se bhii Takaraanaa \-2
+mu \:	tere li_e ham kuchh bhii sahe.nge teraa dard ab dard meraa
+	jiivan ke do \threedots
+la \:	bol merii taqadiir \threedots
+
+	jahaa.N jis haal me.n bhii ho.n rahe.nge ham tumhaare hii
+	nadii saagar se milatii hai nahii.n milate kinaare hii \-2
+mu \:	apanaa\-apanaa hai ye muqaddar aaj kare.n ham kisase gilaa
+	jiivan ke do \threedots
+	kahaa.N hai mere \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{na jiyaa laage na tere binaa meraa kahii.n, jiyaa laage na}%
+\film{Anand}%
+\year{1970}%
+\starring{Sumita Sanyal, Amitabh, Rajesh Khanna}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor: Tanvi (tanvi@utxvms.cc.utexas.edu)
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+% This is based on the original bengali song with the same tune
+%
+naa, jiyaa laage naa 
+tere binaa, meraa kahii.n, jiyaa laage naa 
+naa, jiyaa laage naa
+
+(tum agar jaao kabhI jaao kahii.n 
+vaqt se kahanaa zaraa, vo Thahar jaaye vahii.n ) \- 2
+vo gha.Dii \- 2, vahii.n ruke naa jaaye naa 
+naa, jiyaa laage naa \threedots
+
+(jiinaa bhuule the kahaa.N yaad nahii.n 
+tujhako paayaa hai jahaa.N, saa.Ns phir aaii vahii.n ) \- 2
+zi.ndagii \- 2, tere binaa haay, bhaaye naa 
+naa, jiyaa laage naa \threedots
+%
+#endindian
+\endsong
+%

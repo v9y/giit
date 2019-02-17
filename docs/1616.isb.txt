@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{shaam dekho Dhal rahii hai}% 
+\film{Anjaan Hai Koyee}%
+\year{}%
+\starring{}%
+\singer{Rafi, Usha Khanna}%
+\music{Usha Khanna}%
+\lyrics{Manohar Khanna}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+l: shaam dekho Dhal rahii hai 
+pa.nchhii dekho jaa rahe hai 
+tU bhI chal mere sa.ng o jIvan saathii   \threedots 
+
+rafii: shaam dekho Dhal rahii hai 
+pa.nchhii dekho jaa rahe hai 
+tU bhI chal mere sa.ng o jIvan saathii \threedots 
+dono: shaam dekho Dhal rahii hai 
+
+l: hai shaam ke A.Nchal mai.n, mastii hai bhiigii bhiigii 
+aur de rahii hai dha.Dakan, aavaaz dhiimii dhiimii 
+aavaaz dhiimii dhiimii 
+tU bhI chal mere sa.ng o jIvan saathii \threedots 
+shaam dekho Dhal \threedots 
+
+rafii: ye niil kamal sI aa.Nkhe.n, hai kaajal bin kajarArI 
+hai (ras sambhalake ??) ye sundar pyaarii pyaarii 
+ye sundar pyaarii pyaarii 
+tU bhI chal mere sa.ng o jIvan saathii \threedots 
+shaam dekho Dhal \threedots 
+%
+#endindian
+\endsong					% TeX	
+%

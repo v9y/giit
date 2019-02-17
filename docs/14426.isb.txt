@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{mahakii kyuu.N galii galii ... alabelaa mausam kahataa hai svaagatam}%
+\film{Tohfaa}%
+\year{1984}%
+\starring{Jitendra, Sridevi, Jayaprada}%
+\singer{Kishor, Lata, Kavita Subramaniam}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10076 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	mahakii kyuu.N galii galii khilii kyuu.N kalii kalii kyaa kahatii hai havaa \-2
+ki \:	tujhe har Kushii mile lambii zindagii mile detii hai ye du_aa
+la \:	alabelaa mausam kahataa hai svaagatam
+ki \:	alabelaa mausam \threedots
+
+la \:	kaun saa hai vo phuul ki jisase aa.Ngan banataa hai gulashan
+ki \:	jab aa.Nchal me.n laal hai teraa ghar ban jaa_egaa madhuban
+la \:	kaun se hai.n vo diip ki jinase Darate hai.n a.Ndhiyaare
+ki \:	ghar me.n ujaalaa kar dete hai.n sundar nain tumhaare \-2
+do \:	alabelaa mausam \threedots
+
+ka \:	##johny johny yes papa, eating sugar? no papa##
+	##telling lie? no papa, open your mouth. ha ha ha##
+ki \:	kyuu.N puujaa ke baad hii bolo maa.Ng bharaa karate hai.n
+la \:	lambii umar sinduur kii ho ham ye maa.Ngaa karate hai.n
+	ye to kaho jiivan ke safar kii aaKarii aarazuu kyaa hai
+ki \:	tujhase pahale mai.n uTh jaa_uu.N maine ye sochaa hai
+la \:	agale janam me.n dono.n mile.nge apanaa ye vaadaa hai
+do \:	apanaa ye vaadaa hai
+	alabelaa mausam \threedots
+%
+#endindian
+\endsong
+

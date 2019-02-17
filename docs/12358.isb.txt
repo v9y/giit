@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ja.ng ho yaa pyaar ... ek to tiin chaar}%
+\film{Kranti}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel}%
+\singer{Asha, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ja.ng ho yaa pyaar kar gayaa jo pahalaa vaar
+vo jiit gayaa jiit gayaa jiit gayaa mere yaar
+
+ek to tiin chaar bijalii chamakii jamunaa paar
+dosto.n kii mahafil me.n dushmano.n kaa kaam kyaa
+dushmano.n kii mahafil me.n dosto.n kaa kaam kyaa
+aapakaa hai naam kyaa boli_e sarakaar
+ek to tiin chaar \threedots
+
+huu.N yaa mujhako diivaanaa banaa
+yaa meraa diivaanaa ban jaa
+shamaa.n ban jaa paravaanaa ban jaa
+tiir ban jaa yaa nishaanaa ban jaa
+aa mere aa mere aa mere diladaar
+ek to tiin chaar \threedots
+%
+#endindian
+\endsong
+

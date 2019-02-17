@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{ai shammaa tuu bataa teraa parawaanaa kaun hai}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiyya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Suraiyya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12052 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( ai shammaa tuu bataa
+ai shammaa tuu bataa
+teraa parawaanaa kaun hai
+luuTaa hai jisane tujhako
+wo diiwaanaa kaun hai ) \-2
+ai shammaa tuu bataa
+
+( mahafil me.n sab hai.n
+pyaar kaa saaGar piye huye
+pyaar kaa saaGar piye huye ) \-2
+pahaluu me.n apane dard kii 
+duniyaa liye huye
+jo teraa ho chukaa \-2
+wo mastaanaa kaun hai
+
+luuTaa hai jisane tujhako
+wo diiwaanaa kaun hai
+ai shammaa tuu bataa
+
+( ho.nTho.n pe dil kii baat ye
+kyuu.N aa ke rah ga_ii
+kyuu.N aa ke rah ga_ii ) \-2
+dekhaa ye kisako aa.Nk jo
+sharamaa ke rah ga_ii
+kah de tuu haal\-e\-dil \-2
+yahaa.N begaanaa kaun hai
+
+luuTaa hai jisane tujhako
+wo diiwaanaa kaun hai
+ai shammaa tuu bataa
+%
+#endindian
+\endsong
+

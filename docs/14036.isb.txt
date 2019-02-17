@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ishq me.n mere rabbaa jaane mai.n kyaa kar jaataa}%
+\film{Sanam}%
+\year{1997}%
+\starring{Manisha, Vivek Mushran, Sanjay Dutt, Shakti, Gulshan, Anupam}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq me.n mere rabbaa jaane mai.n kyaa kar jaataa
+tujhase pyaar na karataa to shaayad mai.n mar jaataa
+
+ishq me.n mere rabbaa jaane mai.n kyaa kar jaatii
+tujhase pyaar na karatii to shaayad mai.n mar jaatii
+
+tere li_e paagal diivaane mai.n jitanii diivaanii thii
+tujhako apanaa maan liyaa thaa duniyaa se begaanii thii
+mai.n to koraa kaagaz tuu merii prem kahaanii thii
+saa.Nso.n me.n terii pyaas chhupii thii tuu merii zi.ndagaanii thii
+tere binaa jiinaa nahii.n
+ishq me.n mere rabbaa \threedots
+
+kaise bataa_uu.n bin tere merii kaise raat guzaratii thii
+khvaabo.n me.n kho_ii rahatii thii khud se baate.n karatii thii
+tere binaa mere ho.nTho.n pe aur kisii kaa naam na thaa
+ik bechainii sii rahatii thii aur kahii.n aaraam na thaa
+tuu hai jahaa.N mai.n huu.N vahii.n
+ishq me.n mere rabbaa \threedots
+%
+#endindian
+\endsong
+

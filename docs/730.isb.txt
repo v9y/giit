@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ho jab se milii tose akhiyaa.N jiyaraa Dole re}%
+\film{Amanat}%
+\year{1955}%
+\starring{Bharat Bhushan, Chand Usmani}%
+\singer{Hemant, Geeta}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+% Credits: Prithviraj Dasgupta
+% Comments: Hemantada, a genius in his niche #3
+%
+\printtitle
+#indian
+%
+he:  O~~~~~~  
+gii: O~~~~~  
+
+he:  ho jab se milii tose akhiyaa.N jiyaraa Dole re, Dole o Dole
+gii: ho miiThe miiThe pyaar ke ye hichakole re, Dole o Dole
+     Dole re Dole o Dole
+do:  ho jab se milii tose akhiyaa.N   \threedots
+                     
+gii: ho Dole re Dole ye dil kii duniyaa, 
+     mai.n nahii.n apane bas me.n
+     man me.n chhipaa ek chor hai,
+     jo is jii kii batiyaa.N khole
+     jab se milii tose akhiyaa.N jiyaraa Dole re Dole o Dole
+     ho jab se milii tose akhiyaa.N
+
+gii: raat mile jab din se
+     aa jaa_uu.N mai.n nadii kinaare
+he:  cha.nchal jal kii naTakhaT lahare.n
+     kar jaaye ajab ishaare
+gii: hole hole, tu bhi kisi ki ho le re
+     Dole re Dole
+do:  ho jab se milii tose akhiyaa.N   \threedots
+                     
+he:  pyaar me.n ye dil jaise, 
+     biich dhaar ek naiyya
+gii: mai.n is paar huu.N yaa us paar huu.N
+     sach sach bataa khevaiyyaa
+he:  paar vahii jo priit mein dil ko Dubo le re
+     Dole re Dole
+                     
+do:  ho jab se milii tose akhiyaa.N jiyaraa Dole re Dole
+
+%
+#endindian
+\endsong
+%

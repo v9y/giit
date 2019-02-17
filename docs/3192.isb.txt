@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{saa.Nvariyaa dekh zaraa is or}%
+\film{Sardari Begum}%
+\year{1996}%
+\starring{Kiron Kher,Amrish Puri, Smriti Mishra, Rajeshwari}%
+\singer{Arti Ankalikar }%
+\music{Vanraj Bhatia}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Uday Patel
+% Transliterator:
+% Date: January 11, 2002
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+
+saa.Nvariyaa dekh zaraa is or
+yuu.N naa aa.Nkh churaa chitachor
+saa.Nvariyaa dekh zaraa is or
+
+mai.N huu.N sajanaa pi.njare me.n gaatii mainaa
+tuu ban kaa hai mor
+saa.Nvariyaa dekh zaraa is or
+
+tuune baa.Ndhaa kaise dhaage se mujhako
+TuuTe naa ye Dor
+saa.Nvariyaa dekh zaraa is or
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{merii chaahat rahegii hameshaa javaa.N}%
+\film{Mehmaan}%
+\year{1974}%
+\starring{Bishwajit, Rekha, Anwar Husain, Manmohan Krishan, Abhi Bhattacharya}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10717 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+merii chaahat rahegii hameshaa javaa.N
+jism Dhalane se jazbaat Dhalate nahii.n
+maut aane se bhii pyaar marataa nahii.n
+dam nikalane se aramaa.N nikalate nahii.n
+merii chaahat rahegii \threedots
+
+( laakh tuufaan ho.n ham naa ghabaraa_e.Nge
+tuu na aa_egii milane to ham aa_e.Nge ) \-2
+( jaan par khelane se jhijhakate hai.n jo
+vo muhabbat kii raaho.n pe chalate nahii.n ) \-2
+merii chaahat rahegii \threedots
+
+tuu mile naa mile par salaamat rahe
+duur hii kii sahii tujhase nisbat rahe
+zindagii bhar terii mujhako hasarat rahe
+hasarato.n ke binaa Kvaab palate nahii.n
+merii chaahat rahegii \threedots
+%
+#endindian
+\endsong
+

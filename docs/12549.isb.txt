@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{paisaa ye paisaa paisaa hai kaisaa}%
+\film{Karz}%
+\year{1980}%
+\starring{Rishi Kapoor, Tina Munim, Simi Grewal, Raj Kiran, Premnath}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11304 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+paisaa ye paisaa paisaa hai kaisaa
+nahii.n ko_ii aisaa jaisaa ye paisaa
+ke ho musiibat na ho musiibat
+ho musiibat na ho musiibat saat aaTh nau das
+
+prem dekhaa pyaar dekhaa yaarii dekhii yaar dekhaa \-3
+dil ke aar\-paar dekhaa ye saaraa sa.nsaar dekhaa
+uupar\-niiche a.ndar\-baahar duur\-paas mausam hai ik jaisaa
+paisaa \-2
+paisaa ye paisaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{havaao.n pe likh do, havaao.n ke naam}%
+\film{Do Dooni Chaar}%
+\year{}%
+\starring{}%
+\singer{Kishore}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator:  (Anurag_Acharya@DRAVIDO.SOAR.CS.CMU.EDU)
+% Credits: Sandeep Sarode (sandeeps@fc.hp.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+havAo.n pe likh do havAo.n ke naam 
+ham anajAn paradesiyo.n kA salaam 
+havAo.n pe likh do \threedots
+
+shaakh par jab, dhUp AI, haath chhUne ke liye \- 2
+chhA.Nv chham se, nIche kUdI, h.Ns ke bolI Aiye 
+ye bhole se chehare hai.n mAsUm naam 
+havAo.n pe likh do \threedots
+
+chulabulA ye, pAnI apanI, raah bahanA bhUlakar 
+lete lete, AinA chamakA rahA hai phUl par 
+yahA.N subah se khelA karatI hai shaam 
+havAo.n pe likh do \threedots
+
+%
+#endindian
+\endsong
+%

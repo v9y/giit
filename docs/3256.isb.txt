@@ -1,0 +1,80 @@
+% ITRANS SONG # 3256; Created on Jan 26, 2004
+%
+% From: UVR (uvr@usa.net)
+% Date: 2001-03-02 13:36:25 PST
+%
+\startsong
+\stitle{aa_ii hai.n bahaare.n miTe zulm\-o\-sitam}%
+\film{Raam Aur Shyam}%
+\year{1968}%
+\starring{Dilip Kumar, Waheeda Rahman, Mumtaaz}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  U.V. Ravindra <uvr@usa.net>
+% Transliterator: U.V. Ravindra
+% Series credits: GEETanjali series;
+% Date: Mar 2, 2001
+%
+% Coordinator's note:
+%  Unless otherwise stated, 'koras' (chorus) below
+%  refers to a female-voice chorus.
+%
+\printtitle
+#indian
+%
+(rafii: aa_ii hai.n bahaare.n miTe zulm\-o\-sitam
+       pyaar kaa zamaanaa aayaa duur hue Gam
+       raam kii lilaa ra.ng laa_ii
+koras: a\-haa haa
+rafii: shaam ne ba.nsii bajaa_ii
+koras: a\-haa haa\-haa                           ) \-2
+
+rafii: chamakaa hai inasaaf kaa suuraj phailaa hai ujaalaa
+koras: ujaalaa,
+       chamakaa hai inasaaf kaa suuraj phailaa hai ujaalaa
+rafii: na_ii uma.nge.n sa.ng laayegaa har din aanevaalaa
+koras: aanevaalaa,
+       na_ii uma.nge.n sa.ng laayegaa har din aanevaalaa
+rafii: ho ho
+       munnaa giit sunaayegaa
+       Tunnaa Dhol bajaayegaa
+koras: munnaa giit sunaayegaa, Tunna Dhol bajaayegaa
+rafii: sa.ng\-sa.ng merii chhoTii munnii naachegii chham\-chham
+
+rafii + koras:
+       aa_ii hai.n bahaare.n miTe zulm\-o\-sitam
+       pyaar kaa zamaanaa aaya duur hue Gam
+       raam kii liilaa ra.ng laa_ii
+koras: a\-haa haa
+rafii: shaam ne ba.nsii bajaa_ii
+koras: a\-haa haa\-haa
+
+rafii: ab na ho.nge majabuurii ke is ghar me.n afasaane
+koras: ab naa ho.nge majabuurii ke is ghar me.n afasaane
+rafii: pyaar ke ra.ng me.n ra.ng jaaye.nge sab apane begaane
+koras: pyaar ke ra.ng me.n ra.ng jaaye.nge sab apane begaane
+rafii: ho ho ho
+       sab ke din phir jaaye.nge
+       ma.nzil apanii paaye.nge
+       jiivan ke taraane milake gaaye.nge haradam
+rafii + koras + #male# koras:
+       ho
+       aa_ii hai.n bahaare.n miTe zulm\-o\-sitam
+       pyaar kaa zamaanaa aaya duur hue Gam
+rafii + #male# koras:
+       raam kii liilaa ra.ng laa_ii
+koras: a\-haa haa
+rafii + #male# koras:
+       shaam ne ba.nsii bajaa_ii
+koras: a\-haa haa\-haa
+%
+%
+rafii + koras + #m# koras:
+       aa\-aa
+       aa\-aa
+%
+#endindian
+\endsong
+%

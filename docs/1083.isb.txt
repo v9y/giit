@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{machal ke jab bhii aa.Nkho.n se chhalak jaate hai.n do aa.Nsuu}%
+\film{Griha Pravesh}%
+\year{1979}%
+\starring{Sanjeev Kumar, Sharmila Tagore}%
+\singer{Bhupinder}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor: C.S.Sudarshana Bhat or Porky (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: K Vijay Kumar
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+machal ke jab bhI aa.Nkho.n se chhalak jaate hai.n do aa.Nsuu
+sunaa hai aabashaaro.n ko ba.DI taqaliif hotI hai
+
+khudaaraa ab to bujh jaane do is jalatI huI lau ko
+charaago.n se mazaaro.n ko ba.DI taqaliif hotI hai, machal \threedots
+
+kahuu.N kyaa vo ba.DI maasuumiyat se puuchh baiThe hai.n
+kyaa sachamuch dil ke maaro.n ko ba.DI taqaliif hotI hai
+machal \threedots
+
+tumhaaraa kyaa tumhe.n to raah de dete hai.n kaa.NTe bhI
+magar ham Kaakazaaro.n ko ba.DI taqaliif hotI hai
+machal \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ai havaa mere sa.ng sa.ng chal}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          C.S. Sudarshan Bhat alias porky (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ai havaa mere sa.ng sa.ng chal
+mere dil me.n huii halachal
+kaahe dariyaa kaa paanii kal kal
+tujhe aas milan kii pal pal
+
+1) ruk naa sakuu.n mai.n dau.Dii aauu.n
+phir kuchh soch ke mai.n ghabaraauu.n, ai havaa \threedots
+
+2) tuune ye kaisaa jaaduu kiyaa hai
+bin Dor ke mujhe baa.Ndh diyaa hai, ai havaa \threedots
+
+3) kaThaputalii sii naach rahii huu.N
+kaise kahuu.N tujhe Dhuu.NDh rahii huu.N, ai havaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{meraa dil tere liye dha.Dakataa hai}%
+\film{Aashiqui}%
+\year{}%
+\starring{Rahul Roy, Anu Agarwal}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+meraa dil tere liye dha.Dakataa hai, dha.Dakataa hai
+dekhuu.N jo tujhe to ye dil, bahakataa hai, bahakataa hai
+
+zaraa paas aa tere lab chuum luu.N
+mai.n kyaa chaahatii huu.N mai.n kaise kahuu.N
+sameTo na baaho.n me.n ye goraa badan
+bujhegii bhalaa kaise dil kii agan
+koii sholaa siine me.n bha.Dakataa hai, bha.Dakataa hai
+meraa dil tere liye   \threedots
+
+nayaa dard hai ye to nayii pyaas hai
+javaanii kaa pahalaa ehasaas hai
+muhabbat kaa dil pe nashaa chhaa gayaa
+kuchh bhii ho jaanam mazaa aa gayaa
+ke ab dil sambhaale na, sambhalataa hai, sambhalataa hai
+meraa dil tere liye   \threedots
+
+%
+#endindian
+\endsong
+%

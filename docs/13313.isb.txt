@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{terii zaalim nigaaho.n ne ... hamako ghaayal kiyaa}%
+\film{Nili}%
+\year{1950}%
+\starring{Suraiya, Dev Anand, Agha, Shyama Dulari, Cukoo}%
+\singer{Suraiya, G M Durrani, Ojha, Chorus}%
+\music{S Mohinder}%
+\lyrics{Surjeet Sethi}%
+%
+% Contributor: BOL ANAMOL #12612 [V S Rawat], 10/02/2004
+% I could not differentiate between the voices of Durrani & Ojha
+% Thus, attributed all male voices to Durrani.
+%
+\printtitle
+#indian
+%
+jii \:	terii zaalim nigaaho.n ne 
+	ho terii
+ko \:	ho terii zaalim nigaaho.n ne 
+	haay re terii zaalim
+	ho terii zaalim nigaaho.n ne 
+	haay re terii zaalim nigaaho.n ne 
+jii \:	hamako ghaayal kiyaa
+	dil ko ta.Dapaa diyaa
+	haay ye kyaa kiyaa
+	terii qaafir adaa_o.n ne
+ko \:	haay re terii zaalim
+	ho terii zaalim nigaaho.n ne 
+	haay re terii zaalim nigaaho.n ne 
+
+jii \:	hamane mohabbat kii baato.n me.n aa kar ho aa kar \-2
+	apane bhole se dil ko luTaa kar luTaa kar \-2
+	pyaar kiyaa hai dard liyaa hai
+	ye kyaa kiyaa ho jiyaa re
+	terii qaafir adaa_o.n ne
+ko \:	haay re terii zaalim
+	ho terii zaalim nigaaho.n ne 
+	haay re terii zaalim nigaaho.n ne 
+
+su \:	raat ko jab chamake.nge taare ho taare \-2
+	rah takuu.Ngii mai.n Gesuu sa.Nvaare sa.Nvaare
+	chupake se aanaa dekhe na zamaanaa
+	sakhiyo.n dil kaa fasaanaa
+	terii qaafir adaa_o.n ne
+ko \:	haay re terii zaalim
+	ho terii zaalim nigaaho.n ne 
+	haay re terii zaalim nigaaho.n ne 
+%
+#endindian
+\endsong
+%
+

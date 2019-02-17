@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ek dil hazaar Gam}%
+\film{Aag Ka Dariya}%
+\year{1953}%
+\starring{}%
+\singer{Talat}%
+\music{Vinod}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+ek dil hazaar Gam
+kaise jii sake.nge ham
+
+zi.ndagii bichha.D gayii
+har khushii uja.D gayii
+aa.Nkh ho chalii hai nam
+kaise jii sake.nge ham \threedots
+
+aasamaa.N badal gayaa
+zamii.n kaa tiir chal gayaa
+Das rahe hai.n har sitam
+kaise jii sake.nge ham \threedots
+
+%
+#endindian
+\endsong
+%

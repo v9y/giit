@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ye reshamii zulfe.n, ye sharabatii aa.Nkhe.n}%
+\film{Do Raaste}%
+\year{1969}%
+\starring{Rajesh Khanna, Mumtaz, Balraj Sahni, Prem Chopra, Bindu}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Riaz F. Shaikh (cisrfsx@gsusgi2.gsu.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye reshamii zulfe.n, ye sharabatii aa.Nkhe.n
+inhe.n dekh kar jii rahe hai.n sabhii \- 2
+ye \threedots
+
+(jo ye aa.Nkhe sharam se, jhuk jaae.ngii
+saarii baate.n yahii.n bas, ruk jaae.ngii ) \- 2
+chup rahanaa ye afasaanaa, koii inako naa batalaanaa ki
+inhe.n dekh kar jii rahe hai.n sabhii \- 2
+ye \threedots
+
+(zulfe.n maGaruur itanii, ho jaae.ngii
+dil to ta.Dapaae.ngii, jii ko tarasaae.ngii ) \- 2
+ye kar de.ngii diivaanaa, koii inako naa batalaanaa ki
+inhe.n dekh kar jii rahe hai.n sabhii \- 2
+ye \threedots
+%
+#endindian
+\endsong
+%

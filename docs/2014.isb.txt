@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ab aayii gaavanavaa kii saarii umar morii baari}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Shyam Sharma}%
+\lyrics{Kabir}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+ab aayii gaavanavaa kii saarii umar morii baarii
+aayii gaavanavaa kii saarii
+saaj samaaj piya le aaye aur kahariyaa achaarii
+ho~o ab aayii gaavanavaa kii saarii umar morii baarii   \threedots
+
+bham na bedad.rii daradiyo na jaane
+jo rat\-gaThiya hamaarii
+ho~o ab aayii gaavanavaa kii saarii   \threedots
+
+nadiyaa kinare nadiyaa kinare
+nadiyaa kinaare balam more rasiya
+diini ghuu.NghaT paT taarii
+ho~o ab aayii gaavanavaa kii saarii   \threedots
+
+kahat kabiir suno bha_ii saadhu
+chhuuTe mahal aTaarii
+ho~o ab aayii gaavanavaa kii saarii   \threedots
+
+%
+#endindian
+\endsong
+%

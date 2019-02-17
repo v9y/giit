@@ -1,0 +1,98 @@
+%
+\startsong
+\stitle{cholii ke piichhe kyaa hai, cholii ke piichhe}%
+\film{Khalnayak}%
+\year{}%
+\starring{Sunjay Dutt, Madhuri Dixit, Jackie Shroff, Neena Gupta}%
+\singer{Alka Yagnik, Ila Arun}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+koras: 	  kukuk ku kukukukukuk
+i: cholii ke piichhe kyaa hai, cholii ke piichhe ?  \- 2
+	  chunarii ke niiche kyaa hai, chunarii ke niiche ? 
+a: ho, cholii me.n dil hai meraa, chunarii me.n dil hai meraa 
+	  cholii me.n dil hai meraa, chunarii me.n dil hai meraa 
+	  ye dil me.n duu.ngii mere yaar ko, pyaar ko!
+i: aah!!
+ko:  kukuk ku kukukukukuk
+	
+i: are, laakho.n diivaane tere, laakho.n diivaane
+	  aashiq puraane tere, aashiq puraane
+a: ho, aashiq milaa naa aisaa, ##hmmm##
+	  merii pasa.nd jaisaa ##hmmm##
+	  de dil shahar ye aisaa, kyaa karuu.n kyaa karuu.n 
+i: hay!!
+ko:  kukuk ku kukukukukuk
+	
+a: resham kaa laha.ngaa meraa, resham kaa laha.ngaa
+	  laha.ngaa hai maha.ngaa meraa, laha.ngaa hai maha.ngaa
+	  laha.ngaa uThaa ke chaluu.n, ghu.NghaT giraa ke chaluu.N
+	  kyaa kyaa bachaa ke chaluu.N raamajii, raamajii 
+i: hay!!
+ko:  kukuk ku kukukukukuk
+	
+i: are, isako bachaa lo baabuu, is ko bachaa lo
+	  dil me.n chhupaalo baabuu, dil me.n chhupaalo
+a: ho, aashiq pa.De hai.n piichhe, {o ho!}
+	  koii idhar ko khii.nche, ##hmmm##
+	  koii udhar ko khii.nche, kyaa karuu.n kyaa karuu.n
+i: hay!!
+ko:  kukuk ku kukukukukuk
+	
+a: hai! shaadii karaado merii {o ho!} shaadii karaado ##hmmm##
+	 	Dolii sajaado merii Dolii sajaa do {ah ha ah ha!}
+		sautan banaa naa jAye, 
+	        jogan banaa naa jaaye	
+	        jogan sahaa naa jaaye, kyaa karuu.n, kyaa karuu.n {hai chhorii}
+ko: kukukukk
+	
+I: are! la.Dakii ho kaisii bolo, la.Dakii ho kaisii	
+		la.Dakaa ho kaisaa bolo , la.Dakaa ho kaisaa
+a:	ho la.Dakii ho mere jaisii {ah ha!}
+	     la.Dakaa ho tere jaisaa {vaah vaah!}
+	     aaye mazaa phir kaisaa, pyaar kaa, pyaar kaa {vaah!!}
+ko: kukukukk
+	
+a: ho \threedots jhumarii kaa jumaruu ban jaa, jhumarii kaa jumaruu {kich kich}
+		paayal kaa, ghu.Ngharuu ban jaa paayal kaa ghu.Ngaruu {kich kich}
+		merii salaamii kar le
+		merii gulaamii kar le
+		hogaa tU hogaa koI bAdashaah, bAdashaah {are jaan!}
+ko: kukukukk
+	
+a: baalii umariyaa merii  baalii umariyaa 
+		sUnii sajariyaa merii sUnii sajariyaa 
+		mere sapano.n ke raajaa
+		jal_dii se vaapas aajaa {ah!}
+		sotii hU.N mai.n daravaajaa khol ke, khol ke {ah!}
+ko: kukukukk
+	
+a: begam bagair baadashaah kis kaam kaa
+	  baadashaah bagair begam kis kaam kii
+	  terii marazii tU jaane, merii marazii mai.n jaanuu.n
+	  maine javaanii tere naam kii, naam kii {ho chorii}
+	
+i: cholii ke piichhe kyaa hai, cholii ke piichhe ? 
+	  cholii ke piichhe kyaa hai, cholii ke piichhe ? 
+	  chunarii ke niiche kyaa hai , chunarii ke niiche
+a: ho, cholii me.n dil hai meraa, chunarii me.n dil hai meraa {ah ha!}
+	  ho, cholii me.n dil hai meraa, chunarii me.n dil hai meraa {vah vah}
+	  ye dil me.n duu.ngii mere yaar ko, pyaar ko {kurr}
+ko:	  cholii me.n dil hai meraa, chunarii me.n dil hai meraa \- 2
+	  huu \threedots
+	  cholii me.n dil hai meraa, chunarii me.n dil hai meraa 
+a:	  dil \threedots dil hai meraa \threedots \- 2
+%
+#endindian
+\endsong
+%

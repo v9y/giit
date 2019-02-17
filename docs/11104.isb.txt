@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum sitam aur karo TuuTaa nahii.n dil ye abhii}%
+\film{Dulha Dulhan}%
+\year{1964}%
+\starring{Raj Kapoor, Sadhna, Agha, K N Singh, Raj Mehra, Madhumati}%
+\singer{Mukesh}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum sitam aur karo TuuTaa nahii.n dil ye abhii
+ham bhii kyaa yaad kare.nge tumhe.n chaahaa thaa kabhii
+tum sitam aur karo \threedots
+
+ye vahii ho.nTh hai.n jo giit mere gaate the
+% ????? missing line?
+aaj kyaa ho gayaa kyo.n ho gaye begaane sabhii
+tum sitam aur karo \threedots
+
+apane khvaabo.n kaa jahaa.n mujhame.n kabhii Dhuu.nDhaa thaa
+tum vahii ho ki kabhii tumane mujhe puujaa thaa
+dekhate ho hame.n aise ki na dekhaa ho kabhii
+tum sitam aur karo \threedots
+%
+#endindian
+\endsong
+

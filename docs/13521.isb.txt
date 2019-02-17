@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{paas hii meraa ghar hai ajii aa_i_e ek pyaalaa chaay}%
+\film{Pyaar Pyaar}%
+\year{1995}%
+\starring{Suyog Mukherjee, Rajeshwari, Paresh Rawal, Kiran Kumar, Mushtaq Khan}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	paas hii meraa ghar hai ajii aa_i_e
+	ek pyaalaa chaay pii ke jaa_i_e
+ku \:	achchhaa chaay kyaa hai khaanaa bhii mai.n khaa_uu.Ngaa
+	par aaj nahii.n mai.n aur kisii din aa_uu.Ngaa
+a \:	paas hii meraa ghar hai \threedots
+
+	aaj mujhe ##daddy## se tumako milavaanaa hai
+	pyaar kaa ra.ng Daal ke chaay pilaanaa hai
+ku \:	aaj mujhe ek dost kii shaadii me.n jaanaa hai
+	vaadaa kiyaa hai maine vaadaa nibhaanaa hai
+	apanii shaadii kaa chakkar chalaa_i_e
+a \:	ek pyaalaa chaay pii ke jaa_i_e
+
+	mere ghar me.n aapakii aisii Kaatir hogii
+	jo chiiz aap kahe.nge fauran haazir hogii
+ku \:	jaan gayaa kyo.n ghar me.n bulaa rahii ho tum
+	shaadii kaa ko_ii chakkar chalaa rahii ho tum
+	jaal me.n naa mujhako pha.nsaa_i_e
+a \:	ek pyaalaa chaay pii ke jaa_i_e
+%
+#endindian
+\endsong
+

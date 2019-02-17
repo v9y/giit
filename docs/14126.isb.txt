@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{tum apanii sahelii ko itanaa bataa do}%
+\film{Samaaj Ko Badal Dalo}%
+\year{1970}%
+\starring{Ajay Parikshit Sahni, Prem Chopra, Aruna Irani, Pran, Mehmood, Devid}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10737 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	tum apanii sahelii ko itanaa bataa do
+	ki usase ko_ii pyaar karane lagaa hai
+	jo ab tak sadaa muskaraataa rahaa ho
+	har ik baat par aah bharane lagaa hai
+
+	tumhaarii sahelii balaa kii ha.Nsii hai
+	hame.n bhii Kabar hai use bhii yaqii.n hai
+	kisii kii to bananaa hai aaKir use bhii
+	buraa kyaa hai gar ko_ii marane lagaa hai
+
+	kisii aur kii baat maane na maane
+	magar tum kahogii to vo maan legii
+	zaraa apane biimaar ko kuchh davaa de
+	ki ab dard had se guzarane lagaa hai
+
+aa \:	bas ab naaz chho.Do zaraa paas aa_o
+	bahut ho chukaa ab na isako sataa_o
+	mai.n kaise na usakii sifaarish guzaaruu.N
+	ki bechaaraa bemaut marane lagaa hai
+%
+#endindian
+\endsong
+

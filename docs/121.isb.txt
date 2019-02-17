@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aavaaz de kahaa.N hai duniyaa merii javaa.N hai}% 
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Suresh, Noorjehan, Suraiyya}%
+\singer{Noorjehan, Surendra}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@openlab-10.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+aavaaz de kahaa.N hai duniyaa merI javaa.N hai 
+aabaad mere dil me.n ummiid kaa jahaa.N hai 
+duniyaa merI javaa.N hai \threedots
+
+aa raat jaa rahI hai 
+yuu.n jaise chaa.Ndanii kI 
+baaraat jaa rahI hai 
+chalane ko ab falak se 
+taaro.n kaa kaaravaa.N hai 
+aise me.n tU kahaa.N hai 
+duniyaa merI javaa.N hai \threedots
+
+kismat pe chhaa rahI hai 
+kyo.n raat kii siyaahii 
+vIrA.N hai merI nii.nde.n 
+taaro.n se le gavaahii 
+barabaad mai.n yahaa.N huu.N 
+aabaad tU kahaa.N hai 
+bedard aasamaa.N hai \threedots
+
+aavaaz de kahaa.N hai \threedots
+%
+#endindian
+\endsong
+%

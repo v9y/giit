@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{pyaar kab karoge ... o saaraa din tum kaam karoge}%
+\film{Nigaahen}%
+\year{1989}%
+\starring{Sunny Deol, Sridevi}%
+\singer{Anuradha Paudwal, Suresh Wadekar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: sequel of Nagina
+% 
+\printtitle
+#indian
+%
+pyaar kab karoge \-4
+o saaraa din tum kaam karoge
+
+mausam hai diivaano.n kaa mat lo naam bahaaro.n kaa
+kab tak karate rahoge Kuun mere aramaano.n kaa
+kab tak nii.nd 
+pyaar kab karoge \threedots
+
+pyaar kaa naam likho uupar baaqii saare naamo.n se
+na jaane kab milegii fursat tumako apane kaamo.n se
+raat ko tum aaraam karoge
+pyaar kab karoge \threedots
+%
+#endindian
+\endsong
+

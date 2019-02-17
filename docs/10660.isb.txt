@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{maayuus to huu.N vaade se tere kuchh aas nahii.n}%
+\film{Barsaat Ki Raat/ The Rainy Nights/ Saathi}%
+\year{1960}%
+\starring{Bharat Bhushan, Madhubala, Shyama, Chandrashekhar, K N Singh}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10483 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+maayuus to huu.N vaade se tere
+kuchh aas nahii.n kuchh aas bhii hai
+mai.n apane Kyaalo.n ke sadake
+tuu paas nahii.n aur paas bhii hai
+maayuus to huu.N \threedots
+
+hamane to Kushii maa.Ngii thii magar
+jo tuune diyaa achchhaa hii diyaa
+jis Gam kaa ta_aalluuq ho tujhase
+vo raas nahii.n aur raas bhii hai
+mai.n apane Kyaalo.n ke \threedots
+
+palako.n se larajate ashqo.n se
+tasviir jhalakatii hai terii \-2
+diidaar kii pyaasii aa.Nkho.n ko
+ab pyaas nahii.n aur pyaas bhii hai
+mai.n apane Kyaalo.n ke \threedots
+%
+#endindian
+\endsong
+

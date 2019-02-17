@@ -1,0 +1,36 @@
+% 
+\startsong
+\stitle{aa.Nkho.n aa.Nkho.n me.n har ik raat guzar jaatii hai}%
+\film{Marvel Man}%
+\year{1964}%
+\starring{Mahesh Kumar, Shakila Banu Bhopali, Polson}%
+\singer{Mubarak Begum}%
+\music{Robin Banerjee}%
+\lyrics{Yogesh}%
+% 
+% Contributor: Ashok Dhareshwar (ADhareshwar@WorldBank.Org)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Jan 18 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:
+%
+\printtitle
+#indian
+%
+aa.Nkho.n aa.Nkho.n me.n har ik raat guzar jaatii hai	\-2
+tum nahii.n aate ho to yaad bhii kyo.n aatii hai
+aa.Nkho.n aa.Nkho.n me.n har ik raat guzar jaatii hai
+
+ham khayaalo.n me.n bulaa lete hai.n aksar tumako	\-2
+jab tabiiyat zaraa tanahaaii se ghabaraataa hai		\-2
+aa.Nkho.n aa.Nkho.n me.n har ik raat guzar jaatii hai
+
+har ik aahaT pe yuu.N ham chau.nk uThaa karate hai.n	\-2
+jis tarahaa bijalii ghaTaao.n me.n chamak jaatii hai
+tum nahii.n aate ho to, yaad bhii kyo.n aatii hai
+aa.Nkho.n aa.Nkho.n me.n har ik raat guzar jaatii hai
+%
+#endindian
+\endsong
+%

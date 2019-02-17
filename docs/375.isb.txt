@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chalo diladaar chalo, chaa.Nd ke paar chalo}%
+\film{Pakeezah}%
+\year{1971}%
+\starring{Rajkumar, Meena Kumari, Ashok Kumar}%
+\singer{Lata, Rafi}%
+\music{Ghulam Mohammad}%
+\lyrics{Kaif Bhopali}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chalo diladaar chalo chaa.Nd ke paar chalo
+ham hai.n taiyaar chalo
+
+(aao kho jaae.n sitaaro.n me.n kahii.n) \- 2
+chho.D de.n aaj ye duniyaa ye zamii.n, duniyaa ye zamii.n
+chalo diladaar\threedots
+
+(ham nashe me.n hai.n sambhaalo hame.n tum) \- (2)
+nii.nd aatii hai jagaa lo hame.n tum, jagaa lo hame.n tum
+chalo diladaar\threedots
+
+(zi.ndagii khatm bhii ho jaaye agar) \- (2)
+na kabhii khatm ho ulfat kaa safar, ulfat kaa safar
+chalo diladaar\threedots
+%
+#endindian
+\endsong
+%

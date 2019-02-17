@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{aaraam hai haraam}%
+\film{Apnaa Ghar}%
+\year{1960}%
+\starring{Premnath, Shyama, Nanda, Moti Sagar, Mishra, Leela Mishra}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #11449 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aaraam hai haraam
+tum desh ke kone\-kone me.n pahu.Nchaa do ye paiGaam
+aaraam hai haraam \threedots
+
+dekho pa.De hai.n desh me.n ab tak kitane kaam adhuure
+milakar haath ba.Dhaa_o tabhii ho sakate hai.n puure
+jaa_o ek ho jaa_o is desh ko swarg banaa_o
+bhaarat kaa ho is duniyaa me.n sabase uu.Nchaa naam
+aaraam hai haraam \threedots
+
+jaat\-paat ke bandhan to.Do uu.Nch\-niich ko chho.Do
+na_e samay se na_e jagat se apanaa naataa jo.Do
+badalaa Dha.ng puraanaa hai nayaa zamaanaa hai
+aisaa karo saveraa jisakii kabhii na aa_e shaam
+aaraam hai haraam \threedots
+
+kabhii kisii ke aage na jholii phailaanaa
+chaahe ruukhii\-suukhii hii haatho.n se kamaakar khaanaa
+yahii hai aan tumhaarii yahii jaan tumhaarii
+jisame.n apanaa sar jhukataa ho karo na aisaa kaam
+aaraam hai haraam \threedots
+%
+#endindian
+\endsong
+

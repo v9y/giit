@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{kyaa dard hai kyaa pyaas hai kyaa pyaas hai puuchho naa}%
+\film{Rudraksh}%
+\year{2003}%
+\starring{Sanjay Dutt, Sunil Shetty, Bipasha Basu, Isha Koppikar}%
+\singer{Richa Sharma, Shankar}%
+\music{Shankar-Ehsaan-Loy}%
+\lyrics{Sameer, Arun Bhairav}%
+%
+% Contributor: BOL ANAMOL #11832 [V S Rawat]
+% Producer: Karma Entertainment, Bhairav Film, Nitin Manmohan, Sohail Maklai
+% Director: Mani Shankar
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3381 Royal Stereo, Cost: Rs 50/-
+% website: www.rudrakshthefilm.com
+%
+\printtitle
+#indian
+%
+ri \:	 kyaa dard hai kyaa pyaas hai kyaa pyaas hai
+	puuchho naa \-2
+	kitanaa ajab ahasaas hai ahasaas hai
+	puuchho naa \-2
+sha.n \:	ek anokhii qash\-ma\-qash hai
+	Kud pe meraa ab naa bas hai
+
+ri \:	ho 
+	kyaa dard hai kyaa pyaas hai kyaa pyaas hai
+	puuchho naa \-2
+	kitanaa ajab ahasaas hai ahasaas hai
+	puuchho naa \-2
+
+	kahii.n maine dekhaa nahii.n mard aisaa
+	teraa haath lagataa hai maraham ke jaisaa
+	ta.Dap mere dil kii mere kaam aaye
+	mujhe dard me.n bhii to aaraam aaye
+sha.n \:	ho
+	ek nashaa hai jism teraa
+	u.D rahaa hai hosh meraa
+	
+ri \:	o 
+	kyaa dard hai kyaa pyaas hai kyaa pyaas hai
+	puuchho naa \-2
+	kitanaa ajab ahasaas hai ahasaas hai
+	puuchho naa \-2
+
+	terii ik chhu_an se bahakane lagii hai.n
+	merii garm saa.Nse.n mahakane lagii hai.n
+	naa pahale kisii ne chhu_aa mujhako aise
+	meraa haal kyaa hai bataa_uu.N mai.n kaise
+
+sha.n \:	ho
+	dil ko paagal karane waalaa
+	teraa jaaduu hai niraalaa
+
+ri \:	kyaa dard hai kyaa pyaas hai
+	puuchho naa \-2
+	kitanaa ajab ahasaas hai ahasaas hai
+	puuchho naa \-2
+%
+#endindian
+\endsong
+

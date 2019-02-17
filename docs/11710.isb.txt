@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ha.Nsatii khelatii mastii se bharii ... ##it's my family##}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ha.Nsatii khelatii mastii se bharii
+duniyaa pyaar kii duniyaa khvaab kii
+naazo.n me.n palii mishrii kii Dalii
+##it's my family##
+ha.Nsatii khelatii \threedots
+
+pyaarii sii baat hai miiThe giit hai.n
+pappaa to dost hai.n mammii miit hai.n
+pa pa pa pyaarii sii baat hai ma ma ma miiThe giit hai.n
+pa pa pa pappaa to dost hai.n ma ma ma mammii miit hai.n
+duniyaa me.n hai.n sabase achchhe ye pappaa aur sabase achchhii mammii
+kuu kuu
+##it's my family## paa paa paa
+##it's my family## ma maa maa
+##it's my family##
+
+phuul jo khil ga_e maalii hai magan
+pyaar se mahakaa hai meraa ye chaman
+pha pha pha phuul jo khil ga_e ma ma ma maalii hai magan
+pa pa pa pyaar se mahakaa hai ma ma ma meraa ye chaman
+duniyaa se Kushiyaa.n maa.nguu.n mai.n kyuu.n
+mere ghar me.n hai itanii khushii
+uu uu
+##it's my family## paa paa paa
+##it's my family## ma maa maa
+##it's my family##
+ha.Nsatii khelatii \threedots
+%
+#endindian
+\endsong
+

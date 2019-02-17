@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kaalaa shaa kaalaa haay kaale hai.n dilavaale goriyaa nuu.n dafaa karo}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho kaalaa shaa kaalaa 
+haay kaale hai.n dilavaale goriyaa nuu.n dafaa karo
+gore dil ke kaale goriyaa nuu.n dafaa karo
+
+gorii raadhaa kaa saajan hai kaalaa kR^iShN kanhaiyaa
+mere li_e goraa saajan mat Dhuu.nDhiyo merii maiyaa
+kaale ko jo de de mere shagun kaa ek rupaiyaa
+mai.n sadake kaale re dilavaale ve o matavaale ve
+ve kaale hai.n dilavaale \threedots
+
+kaalii raat ke aa.nchal se jo chamake chaa.Nd sitaare
+kaalii koyaliyaa jab gaaye jhuume.n man matavaare
+gore gaal pe kaalaa til moraa ruup sa.nvaare
+mai.n sadake kaale pe o kismat pe o dilavaale ke
+ai dil kaale ke havaale
+goriyaa nuu.n dafaa \threedots
+%
+#endindian
+\endsong
+

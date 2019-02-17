@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{iichak daanaa biichak daanaa}%
+\film{Shree 420}%
+\year{1956}%
+\starring{Nargis, Raj Kapoor, Nadira}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Sunil Kabra, K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor: 
+%
+\printtitle
+#indian
+%
+lata :    iichak daanaa biichak daanaa daane uupar daanaa, iichak daanaa
+          chhajje uupar la.Dakii naache, la.Dakaa hai diivaanaa, iichak daanaa
+
+lata :    ek jaanavar aisaa jisake dum par paisaa
+          sar pe bhii taaj hai baadashaah ke jaisaa
+          o~
+          baadal dekhe chham\-chham naache albelaa masataanaa, iichak daana
+          bolo kyaa?
+bachche : mor
+          iichak daanaa, biichak daanaa   \threedots
+
+lata :    harii thii man bharii thii, laakh motii ja.Dii thii
+          raajaa jii ke baaG me.n dushaalaa o.Dhe kha.Dii thii
+          o~
+          kachche\-pakke baal hai.n usake mukha.Daa hai suhaanaa, iichak daanaa
+          bolo kyaa?
+raaj :    buDDhii
+bachche : bhuTTaa
+
+lata :    chhoTii sii chhokarii laal_baa_ii naam hai
+          pahane vo ghaagharaa ek paisaa daam hai
+          o~
+          mu.Nh me.n sabake aag lagaaye aataa hai rulaanaa, iichak daanaa
+          bolo kyaa? bolo na
+bachche : mich.rii
+
+mukesh :  iichak daanaa biichak daanaa daane uupar daanaa, iichak daanaa
+          chhajje uupar la.Dakii naache, la.Dakaa hai diivaanaa, iichak daanaa
+
+          chaale.n vo chalakar dil me.n samaayaa
+          aa hii gayaa vo, kiyaa hai safaayaa
+          tum bhii dekho bachakar rahanaa chakkar me.n na aanaa, iichak daanaa
+lata :    Gam?
+raaj :    dhat! ham!
+
+%
+#endindian
+\endsong
+%

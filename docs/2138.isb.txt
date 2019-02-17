@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{lapak jhapak tuu aa re badaravaa}%
+\film{Boot Polish}%
+\year{1954}%
+\starring{David, Baby Naaz}%
+\singer{Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Uday Patel
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+lapak japak tuu aa re badaravaa
+sar kii khetii suukh rahii hai
+baras baras tuu aa re badaravaa
+
+jhaga.D jhaga.D kar paanii laa tuu
+aka.D aka.D  bijalii chamakaa tuu
+tere gha.De me.n paanii nahii.n to
+panaghaT se bhar laa
+re badaravaa   \threedots
+
+ban me.n koyal kuuk uThii hai
+sab ke man me.n huuk uThii hai
+bhuudal se tuu baal ugaa de
+jhaT paT tuu barasaa
+re badaravaa   \threedots
+    
+%
+#endindian
+\endsong
+%

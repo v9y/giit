@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kaun aayaa mere man ke dvaare, paayal kii jhanakaar liye}%
+\film{Dekh Kabira Roya}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Manna De}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(kaun aayaa mere man ke dvaare, 
+paayal kii jhanakaar liye ) \- 2
+kaun aayaa \threedots
+
+(aa.Nkh na jaane, dil pahachaane 
+suuratiyaa kuchh aisii ) \- 2
+yaad karu.N to, yaad na aaye 
+muuratiyaa ye kaisii
+paagal manavaa, soch me.n Duubaa 
+sapano.n kaa sa.nsaar liye
+kaun aayaa \threedots
+
+(ik pal sochuu.N, merii aashaa 
+ruup badal kar aaI) \- 2
+duuje pal phir, dhyaan ye aae 
+ho na kahii.n parachhaaii.n
+jo paradesii ke, ghar aaI 
+ek anokhaa pyaar liye
+kaun aayaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dil kaa lagaanaa khel na jaano dil kaa lagaanaa mushkil hai}%
+\film{Asha Aur Khayam (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Asha}%
+\music{Khayyam}%
+\lyrics{Nida Fazli}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+dil kaa lagaanaa khel na jaano dil kaa lagaanaa mushkil hai
+jis par dil aa jaaye usako dil se bhulaanaa mushkil hai
+
+dil diiwaanaa jaane kisakaa rastaa takataa rahataa hai
+wo to shaayad thaa usakaa lauT ke aanaa mushkil hai
+
+paas thaa jab wo tanhaa_ii bhii aksar achchhii lagatii thii
+bichha.D gaye to yuu.N lagataa hai usako bhulaanaa mushkil hai
+
+Gazalo.n se giito.n se sabako bahalaanaa to aasaa.N hai
+ha.Ns ha.Ns kar lekin mahafil me.n dard ko gaanaa mushkil hai
+
+#endindian
+\endsong

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{meraa man Dole meraa tan Dole ... dupaTTaa}%
+\film{Mujhe Kuchh Kehna Hai}%
+\year{2001}%
+\starring{Kareena Kapoor, Tushar Kapoor, Rinki Khanna, Amrish Puri}%
+\singer{Anuradha Sriram}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor:  V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+naa piilaa naa niilaa naa kaalaa naa goraa
+abhii hai dupaTTaa meraa koraa koraa
+
+huu.N meraa man Dole meraa tan Dole
+meraa tan Dole meraa man Dole
+agar kare dil teraa
+o agar kare dil teraa
+aa ra.ng de dupaTTaa meraa
+
+is ke aashiq dekho log hazaar hai.n
+is pe jiine marane ko taiyaar hai.n
+aur ko_ii le jaa_e baad me.n tuu pachhataa_e
+abhii to saare bebas hai.n laachaar hai.n
+agar kare dil teraa \threedots
+
+gore tan pe pa.ndrah solah saal se
+maine is ko rakhaa hai sambhaal ke
+tuu chaahe mujh ko paanaa to ghar mere aa jaanaa
+le jaanaa mujh pe laal chunariyaa Daal ke
+agar kare dil teraa \threedots
+
+meraa man Dole meraa tan Dole
+%
+#endindian
+\endsong

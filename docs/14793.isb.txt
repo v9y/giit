@@ -1,0 +1,26 @@
+% ITRANS SONG
+
+\startsong
+\stitle{piir\-piir kyaa karataa re terii piir na jaane koy}%
+\film{Achhut Kanya}%
+\year{1936}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Ashok Kumar}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+piir\-piir kyaa karataa re terii piir na jaane koy \-2
+
+tere dil kii lagii ko_ii kyaa jaane
+tan piir bha_ii ko_ii kyaa jaane
+ghaayal kii gati ghaayal jaane aur na jaane koy \-2
+piir\-piir kyaa karataa re terii piir na jaane koy \-2
+
+#endindian
+\endsong

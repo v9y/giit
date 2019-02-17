@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{is tarah to.Daa meraa dil}%
+\film{Shehnai}%
+\year{1964}%
+\starring{Bishwajit, Rajshri, Johny Walker, Rahman}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11486 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+is tarah to.Daa meraa dil kyaa meraa dil dil na thaa \-2
+ye to kah jaate tumhaare pyaar ke qaabil na thaa
+is tarah to.Daa \threedots
+
+aapako apanaa samajh kar apanii qismat sau.np dii
+apane aramaa.N de di_e apanii mohabbat sau.np dii \-2
+kisali_e vo Kvaab dekhe jinase kuchh haasil na thaa
+is tarah to.Daa \threedots
+
+jaate\-jaate kuchh gilaa ko_ii shiqaayat to hu_ii
+ham bhii raaho.n me.n pa.De the par inaayat naa hu_ii \-2
+ek Thokar hii lagaate ye to kuchh mushqil na thaa
+is tarah to.Daa \threedots
+%
+#endindian
+\endsong
+

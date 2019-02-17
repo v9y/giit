@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{kaahe tarasaae jiyaraa yauvan R^itu sajan jaake naa aae}%
+\film{Chitralekha}%
+\year{}%
+\starring{Ashok Kumar, Meena Kumari, Pradeep Kumar}%
+\singer{Asha, Usha}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Surajit Bose
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kaahe tarasaae jiyaraa
+yauvan R^itu sajan jaake naa aae
+kaahe jiyaraa tarasaae
+kaahe tarasaae \threedots
+
+nit nit jaage naa
+soyaa shrR^i.ngaar,
+jhanan jhan jhanan, nit naa bulaae
+kaahe jiyaraa tarasaae
+kaahe tarasaae \threedots
+
+nit nit barase naa
+ras kii phuhaar 
+sapanaa ban gagan, nit naa luTaae
+kaahe jiyaraa tarasaae
+kaahe tarasaae \threedots
+
+nit nit aaye na
+tan pe nikhaar
+saavan man suman nit na khilaaye
+kaahe jiyaraa tarasaae
+kaahe tarasaae \threedots
+
+%
+#endindian
+\endsong
+%

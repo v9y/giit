@@ -1,0 +1,43 @@
+% ITRANS SONG # 3471; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-11-08 19:26:32 PST
+%
+\startsong
+\stitle{sun le tuu merii iltijaa}%
+\film{Nek Parvin}%
+\year{1946}%
+\starring{Ragini, Ulhas, Yakub, Yashodhara Katju}%
+\singer{Zeenat Begum}%
+\music{Firoz Bizami}%
+\lyrics{Wahid Qureshi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 08 nov 2002
+% Credits: Satish Kalra
+% Comments: GEETanjalii series
+%
+\printtitle
+#indian
+%
+sun le tuu merii iltijaa
+sun le Kudaa merii du_aa
+
+lambaa safar hai zindagii
+ham do musaafir ajanabii
+bhuul naa jaaye.n raasataa
+    sun le Kudaa \threedots
+
+ham ko tuu kar de ek jaa.N
+ghar ko banaa de gulasitaa.N
+tujhako nabii kaa waasataa
+    sun le Kudaa \threedots
+
+jhuule Kushii ke jhuule.n ham
+paas naa aaye ko_ii Gam
+tuu meharabaa.N rahe sadaa
+    sun le Kudaa \threedots
+%
+#endindian
+\endsong
+%

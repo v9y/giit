@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{naa naa naa naa}%
+\film{Hum Tumhare Hain Sanam}%
+\year{2002}%
+\starring{Salman Khan, Shahrukh Khan, Madhuri Dixit}%
+\singer{Sonu Nigam, Chorus}%
+\music{Dabbu Malik}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+naa naa naa naa naa naa naa naa naa
+he naa naa naa naa naa naa naa naa naa
+##everybody## naa naa naa naa naa naa naa naa naa
+dil ho rahaa hai diivaanaa us pe teraa muskuraanaa
+adaa_o.n se dil ko churaanaa hai la.Dakiyo.n kii adaa
+naa naa naa naa \threedots
+
+jab tiir nazar ke chalate hai.n ye dil nishaane banate hai
+ab aaj ye hamane.n bhii jaanaa mushkil hai dil kaa bach paanaa
+naa naa naa naa \threedots
+
+ye dil maa.Nge aur le le jaa.N jaa_e.N to aashiq jaa_e.N kahaa.N
+ye pyaar kare jab diivaanaa ho mushkil dil ko samajhaanaa
+naa naa naa naa \threedots
+%
+#endindian
+\endsong
+

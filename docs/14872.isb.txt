@@ -1,0 +1,39 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mai.n to aaratii utaaruu.N raadheshyaam kii re}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Leela Chitnis, Pradeep, Chorus}%
+\music{Ramchandra Pal}%
+\lyrics{Pradeep}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+lii \:	mai.n to aaratii utaaruu.N raadheshyaam kii re
+ko \:	mai.n to aaratii utaaruu.N raadheshyaam kii re
+lii \:	raadheshyaam kii re motii shyaam kii re
+ko \:	raadheshyaam kii re motii shyaam kii re
+	mai.n to aaratii utaaruu.N raadheshyaam kii re \-2
+
+pra \:	hriday ke kapaaT khol, bhaktii ke tale hi.nDol \-2
+	madhur naam bol\-bol \-2
+	mai.n to chhagan chhavi nihaaruu.N raadheyshyaam kii re \-2
+	mai.n to aaratii utaaruu.N raadheshyaam kii re \-2
+	
+	lalaa ke charan pakhaar lalii ke basan sa.Nwaar \-2
+	naman karuu.N baar\-baar \-2
+	jugal muurti mai.n sajaa_uu.N raadheyshyaam kii re \-2
+	mai.n to aaratii utaaruu.N raadheshyaam kii re \-4
+	
+	raadheshyaam kii re motii shyaam kii re \-4
+	raadheshyaam kii re raadheshyaam kii re \-4
+	mai.n to aaratii utaaruu.N raadheshyaam kii re \-3
+
+#endindian
+\endsong

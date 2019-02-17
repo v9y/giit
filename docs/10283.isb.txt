@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{o sanam tere ho ga_e ham pyaar me.n tere kho ga_e ham}%
+\film{Ayee Milan Ki Bela}%
+\year{1964}%
+\starring{Rajendra Kumar, Saira Bano, Dharmendra, Shashikala}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10962 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	o sanam tere ho ga_e ham pyaar me.n tere kho ga_e ham
+	zindagii ko ai hamadam aa gayaa musakuraanaa
+ra \:	o sanam tere ho ga_e ham pyaar me.n tere kho ga_e ham
+	mil gayaa mujhako ai sanam zindagii kaa bahaanaa
+
+la \:	do bhaTakate raahii aa mile ma.nzil par
+ra \:	do dilo.n kii kashtii aa lagii saahil par
+la \:	mukuraate jaa_e.N ik sa.ng do muqaddar
+	o sanam tere ho ga_e \threedots
+
+ra \:	raat chup sunatii hai ye ha.Nsii afasaanaa
+la \:	dekhate hai.n taare bas gayaa viiraanaa
+ra \:	chaa.Nd ko sharamaa de aapakaa sharamaanaa
+la \:	o sanam tere ho ga_e \threedots
+
+ra \:	suunepan me.n achaanak ko_ii pa.nchhii bolaa
+la \:	jaag kar sapane se dil kisii kaa Dolaa
+ra \:	raat kii raanii kaa kisane ghuu.NghaT kholaa
+la \:	o sanam tere ho ga_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mere saajan hai.n us paar, mai.n man maar, huu.N us paar}%
+\film{Bandini}%
+\year{1963}%
+\starring{Ashok Kumar, Nutan}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Aniruddha B. Deglurkar (ani@ms.uky.edu)
+%          Anant Kumar (akumar@pollux.usc.edu)
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+o re maajhii o re maajhii o o mere maajhii
+mere saajan hai.n us paar, mai.n man maar, huu.N is paar
+o mere maajhii, abakii baar, le chal paar, le chal paar
+mere saajan hai.n us paar\threedots
+
+ho man kii kitaab se tuu, meraa naam hii miTaa denaa
+gun to na thaa koii bhii, avagun mere bhulaa denaa
+mujhako terii bidaa kaa\threedots
+mujhako terii bidaa kaa mar ke bhii rahataa i.ntazaar
+mere saajan\threedots
+
+mat khel jal jaaegii, kahatii hai aag mere man kii
+mat khel\threedots
+mat khel jal jaaegii, kahatii hai aag mere man kii
+mai.n ba.ndinii piyaa kii chir sa.nginii huu.N saajan kii
+meraa khii.nchatii hai aa.Nchal\threedots
+meraa khii.nchatii hai aa.Nchal man miit terii har pukaar
+mere saajan hai.n us paar
+o re maajhii o re maajhii o o mere maajhii
+mere saajan hai.n us paar\threedots
+%
+#endindian
+\endsong
+%

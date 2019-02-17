@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{nainaa re dekhe unake nain}%
+\film{Bhakta Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed}%
+\singer{Khursheed}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12131 [V S Rawat]
+%
+\printtitle
+#indian
+%
+nainaa re dekhe unake nain \-2
+
+basant uname.n bahaar uname.n \-2
+jiiwan kaa ras si.ngaar uname.n \-2
+duniyaa bhar kaa chain
+
+nainaa re dekhe unake nain \-2
+naa nain
+
+nainaa dekh nainaa haare \-2
+nainaa aa.N
+nainaa aa.N
+( nainaa dekh nainaa haare
+phirate hai.n maare\-maare ) \-2
+ta.Dapat hai.n din\-rain
+
+nainaa re dekhe unake nainaa
+nainaa
+
+basant uname.n bahaar uname.n \-2
+jiiwan kaa ras si.ngaar uname.n \-2
+duniyaa bhar kaa chain
+
+nainaa re dekhe unake nain \-2
+nainaa
+%
+#endindian
+\endsong
+

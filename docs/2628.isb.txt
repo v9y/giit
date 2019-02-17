@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kyaa likhuu.N kaise likhuu.N likhane ke bhii qaabil nahii.n}%
+\film{Maan Abhiman}%
+\year{1980}%
+\starring{Raj Kiran, Rameshwari, Shashi Puri}%
+\singer{Hemlata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+kyaa likhuu.N kaise likhuu.N likhane ke bhii qaabil nahii.n
+yuu.N samajh liije ki mai.n patthar huu.N mujh me.n dil nahii.n
+kyaa likhuu.N kaise likhuu.N \threedots
+
+har qadam par aap ne samajhaa sahii mai.n ne Galat
+ab safaayii peshh kar ke bhii koii haasil nahii.n
+yuu.N samajh liije ki mai.n \threedots
+
+is tarah ba.Dhatii gayii kuchh raaste kii ulajhane
+saamane ma.nzil thii mai.n kahatii rahii ma.nzil nahii.n
+kyaa likhuu.N kaise likhuu.N \threedots
+
+mai.n ye maanuu.N yaa na maanuu.N dil meraa kahane lagaa
+ab merii nazadiikiyo.n me.n duuriyaa.N shaamil nahii.n
+kyaa likhuu.N kaise likhuu.N \threedots
+
+%
+#endindian
+\endsong
+%

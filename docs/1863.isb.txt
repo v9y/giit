@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{vo shaam kuchh ajiib thii}%
+\film{Khamoshi}%
+\year{}%
+\starring{Rajesh Khanna, Waheeda Rahman}%
+\singer{Kishore}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Song originally posted by Girish Harshe (GRH6@psuvm.psu.edu)
+%          Modifications by: Sujatha Nagarajan (sujatha@nu.cs.fsu.edu)
+%          Loosely based on Yaman raag (?) 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+vo shaam kuchh ajiib thii, ye shaam bhii ajiib hai
+vo kal bhii paas paas thii, vo aaj bhii kariib hai
+
+jhukii huii nigaah me.n, kahii.n meraa Kayaal thaa
+dabii dabii ha.Nsii.n me.n ik, hasiin saa savaal thaa
+mai.n sochataa thaa, meraa naam gunagunaa rahii hai vo
+na jaane kyuu.N lagaa mujhe, ke muskuraa rahii hai vo
+vo shaam kuchh ajiib thii \threedots
+
+meraa Kayaal hai.n abhii, jhukii huii nigaah me.n
+khulii huii ha.Nsii bhii hai, dabii huii sii chaah me.n
+mai.n jaanataa huu.N, meraa naam gunagunaa rahii hai vo
+yahii Kayaal hai mujhe, ke saath aa rahii hai vo
+
+vo shaam kuchh ajiib thii, ye shaam bhii ajiib hai
+vo kal bhii paas paas thii, vo aaj bhii kariib hai
+%
+#endindian
+\endsong
+%

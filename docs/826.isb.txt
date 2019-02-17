@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{jab jab duniyaa ta.Dapaaegii, mohabbat ba.Dhatii jaaegii}%
+\film{Sadak}%
+\year{}%
+\starring{Sanjay Dutt}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Amin Meghani (ameghani@bnr.ca)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ho \threedots jab jab pyaar pe paharaa huaa hai
+pyaar aur bhii gaharaa (4) huaa hai
+do pyaar karane valo.n ko
+ho ho ho ## (and a bottle of rum) ##
+jab jab duniyaa ta.Dapaaegii
+mohabbat ba.Dhatii jaaegii
+ho kuchh bhii karale duniyaa
+ye na miT paaegii
+mohabbat ba.Dhatii jaaegii
+
+baadal ko barasane se, bijalii ko chamakane se
+koI bhii rok naa paaegaa (2)
+phuulo.n ko mahakane se, bulabul ko chahakane se
+koI bhii rok naa paaegaa (2)
+jab jab ulfat kii raaho.n me.n
+duniyaa diivaar uThaaegii
+mohabbat ba.Dhatii jaaegii (2)
+
+is dil kii yaado.n ko, mahabuub ke vaado.n ko
+koI kyaa baa.ndhe za.njiiro.n se (2)
+chaahat ke khazaano ko, nazaro.n ke fasaano ko
+koI paa naa sake jaagiiro.n se
+jab jab duniyaa dilavaalo.n ko 
+diivaaro.n me chunavaaegii
+mohabbat ba.Dhatii jaaegii (2)
+%
+#endindian
+\endsong
+%

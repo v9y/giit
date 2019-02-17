@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{ye jiivan hai, is jiivan kaa, yahii hai, yahii hai, yahii hai ra.ng ruup}%
+\film{Piya ka Ghar}%
+\year{}%
+\starring{Anil Dhawan, Jaya Bhaduri}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ye jiivan hai 
+is jiivan kaa
+yahii hai, yahii hai, yahii hai ra.ng ruup (2)
+tho.De Gam hai.n, tho.Dii khushiyaa.N
+yahii hai, yahii hai, yahii hai chhaa.Nv dhuup
+ye jiivan hai \threedots
+
+(ye naa socho isame.n apanii
+haar hai ki jiit hai ) \- 2
+use apanaa lo jo bhii
+jiivan kii riit hai
+ye zid chho.Do, yU.N naa to.Do
+har pal ek darpaN hai
+ye jiivan hai \threedots
+
+dhan se naa duniyaa se
+ghar se na dvaar se
+saa.Nso.n kii Dor ba.ndhii hai
+priitam ke pyaar se
+duniyaa chhuuTe, par naa TuuTe
+ye kaisaa ba.ndhan hai
+ye jiivan hai
+is jiivan kaa
+yahii hai, yahii hai, yahii hai ra.ng ruup
+tho.De Gam hai.n 
+tho.Dii khushiyA.N
+yahii hai, yahii hai, yahii hai chhaa.Nv dhuup
+ye jiivan hai
+%
+#endindian
+\endsong
+%

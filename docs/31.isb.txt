@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aa.Nkho.n me.n qayaamat ke kaajal, ho.nTho.n pe gazab kii laalii hai}%
+\film{Kismat}%
+\year{1968}%
+\starring{Biswajeet, Babita}%
+\singer{Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Satish Subramanium 
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa.Nkho.n me.n qayaamat ke kaajal
+ho.nTho.n pe gazab kii laalii hai
+ba.ndaaparavar kahiye kisakii
+taqadiir sa.nvarane vaalii hai
+
+sazake\threedots
+sazake mai.n tumhaarii baaho.n ke
+jo aag lagaa dii paanii me.n
+qurabaan tumhaarii aa.Nkho.n ke
+jo bhar de.n ra.ng javaanii me.n
+mar jaaU.N tumhaare gaalo.n par
+jin me.n ke gulo.n kii laalii hai
+ba.ndaaparavar \threedots
+
+o ho ho\threedots
+ye aapakii mastii kaa aalam
+ye bahake hue jazabaat mere
+kuchh kah na sakaa mai.n diivaanaa
+kahate hai.n magar haalaat mere
+yaa aap nashe me.n DUbe hai.n
+yaa merii nazar matavaalii hai
+ba.ndaaparavar \threedots
+%
+#endindian
+\endsong
+%

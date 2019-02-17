@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{patthar hai khudaa, patthar ke sanam}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Sudarshan Faakir}%
+% 
+% Contributor: Amarjit <raiam@bc.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+%
+\printtitle
+#indian
+%
+patthar hai khudaa, patthar ke sanam, patthar ke hii inasaan paae hai.n
+tum shahar\-e\-mohabbat kahate ho, ham jaan bachaake aae hai.n
+
+butaKaanaa samajhate ho jisako, puuchho na vahaa.N kyaa haalat hai
+ham log vahii.n se lauTe hai.n, bas shukr hai ke lauT aae hai.n
+
+ham soch rahe hai.n muddat se, ab umr guzaare.nge bhii to kahaa.N
+saharaa me.n Kushii ke phuul nahii.n, sharao.n me Gamii ke saae hai.n
+
+ho.nTho.n pe tabassum halakaa saa, aa.Nkho.n me.n namii sii hai faakir
+ham ahl\-e\-mohabbat par aksar aise bhii zamaane aae hai.n
+
+patthar hai khudaa \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mujhe tum se kuchh bhii na chaahiye}%
+\film{Kanhaiyya}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Neha Desai
+% Transliterator: Nita
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+mujhe tum se kuchh bhii na chaahiye
+mujhe mere haal pe chho.D do
+mujhe mere haal pe chho.D do
+meraa dil agar koii dil na thaa
+use mere saamane to.D do
+mujhe tum se kuchh bhii   \threedots
+
+mai.n ye bhuul jaa_uu.Ngaa zi.ndagii
+kabhii muskuraayii thii pyaar me.n
+mai.n ye bhuul jaa_uu.Ngaa meraa dil
+kabhii khil uThaa thaa bahaar me.n
+jinhe.n is jahaa.N ne bhulaa diyaa
+meraa naam un me.n hii jo.D do
+mujhe tum se kuchh bhii   \threedots
+
+tumhe.n apanaa kahane kii chaah me.n
+kabhii ho sake na kisii ke ham
+yahii dad.r mere jigar me.n hai
+mujhe maar Daalegaa bas ye Gam
+mai.n vo gul huu.N jo na khilaa kabhii
+mujhe kyo.n na shaaK se to.D do
+mujhe tum se kuchh bhii   \threedots
+%
+#endindian
+\endsong
+%

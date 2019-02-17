@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{meraa bichha.Daa yaar milaa de sadakaa rasuul kaa}%
+\film{Sohni Mahiwaal}%
+\year{1958}%
+\starring{Bharat Bhushan, Nimmi, Achala sachdev, Sheela Kashmiri, Mukri, Tuntun}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10657 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+meraa bichha.Daa yaar milaa de sadakaa rasuul kaa
+mere dil kaa dard miTaa de sadakaa rasuul kaa
+
+maalik tuune duniyaa bhar kii biga.Dii baat banaa_ii
+merii bhii taqadiir banaa de jaanuu.N terii Kudaa_ii
+meraa uja.Daa pyaar basaa de
+meraa bichha.Daa yaar \threedots
+
+tuu hii bataa de jaa_uu.N kidhar ki naa ma.nzil naa Deraa
+us nagarii kii raah dikhaa de yaar jahaa.N ho meraa
+merii naiyaa paar lagaa de
+meraa bichha.Daa yaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{ye to baat hai log kam jaanate hai.n ... sharaafat alii ko sharaafat ne maaraa}%
+\film{Amrit}%
+\year{1986}%
+\starring{Rajesh Khanna, Smita Patil, Zrina Wahab, Pallavi Joshi}%
+\singer{Kavita Subramaniam, Munna Aziz, Mahendra Jaiswal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye to baat hai log kam jaanate hai.n
+hamane kise maaraa ye ham jaanate hai.n
+kisii ko kisii kii mohabbat ne maaraa
+kisii ko kisii kii adaavat ne maaraa
+sharaafat alii ko sharaafat ne maaraa
+kisii ko kisii kii \threedots
+
+falak par zamii.n par kahii.n na kahii.n par
+banii sakht ulajhan banaa vaqt dushman
+mere Gam gusaaro.n muqaddar ke maaro.n
+kisii ko naa chho.Daa bharam sabakaa to.Daa
+amiiro.n ko duniyaa me.n daulat ne maaraa
+gariibo.n ko duniyaa me.n gurabat ne maaraa
+sharaafat alii ko \threedots
+
+dosto.n har baat ke matalab hai.n do
+ek hai mu.nh me.n jubaa.n aur lab hai.n do
+ham ka.nvaare the to masalaa ek thaa
+ho ga_ii shaadii to masale hai.n do
+hu_ii tumase shaadii ga_ii umr aadhii
+milaa roz sadamaa miTaa na mukadamaa
+u.Dii mu.nh se laalii hu_ii jeb khaalii
+daliilo.n se taubaa vakiilo.n se taubaa
+mujhe haay terii vaqaalat ne maaraa
+tujhe haay merii adaalat ne maaraa
+sharaafat alii ko \threedots
+
+kiyaa ta.ng Gam ne magar phir bhii hamane
+kasam ye na to.Dii sharaafat na chho.Dii
+nazaakat na chho.Dii sadaakat na chho.Dii
+agarache jahaa.n me.n har ek imtehaa.n me.n
+nazaakat alii ko nazaakat ne maaraa
+sadaakat alii ko sadaakat ne maaraa
+sharaafat alii ko \threedots
+
+vakaalat ko chho.Do bano tum gava_iyaa
+kamaa lo rupa_iyaa o babu_aa o bha_iyaa
+gazal khuub gaa_ii o shaabaa o shaabaa
+tere naam kiittaa o tere naam kiittaa mai.n chhajjuu daa Dhaabaa
+kisii ko kisii kii sharaafat ne maaraa
+kisii ko kisii kii shikaayat ne maaraa
+sharaafat alii ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kyaa huu.N mai.n naa tuu jaane mujhe ... terii hastii hai kyaa}%
+\film{Sultanat}%
+\year{1986}%
+\starring{Dharmendra, Sunny Deol, Sridevi, Karan Kapoor, Juhi Chawla}%
+\singer{}%
+\music{Kalyanji Anandji}%
+\lyrics{Anjaan/ Hasan Kamaal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa huu.N mai.n naa tuu jaane mujhe tuu pahachaane naa
+ek hogaa laakho.n me.n jo pyaar meraa paa_egaa \-2
+jaa re jaa diivaane tuu kyaa mujhako jhukaa_egaa
+terii hastii hai kyaa
+kyaa huu.N mai.n naa tuu \threedots
+
+ho mujhape chale aisaa tiir hii kahaa.N
+baa.ndhe mujhe vo za.njiir kahaa.N
+terii Gulaamii qubuul karuu.N aisii terii taqadiir kahaa.N
+jhuuThaa suruur teraa jhuuThaa Guruur teraa
+teraa Guruur chuur kar duu.Ngii
+terii hastii hai kyaa
+kyaa huu.N mai.n naa tuu \threedots
+
+ho sholaa badan teraa shabaab
+chhuu le mujhe yahaa.N kisame.n hai taab
+ho.nge naa puure kabhii tere Kvaab
+zarraa hai tuu aur mai.n aafataab 
+baaG\-e\-shabaab huu.N vo aafataab huu.N mai.n
+siine me.n aag tere bhar duu.Ngii
+terii hastii hai kyaa
+kyaa huu.N mai.n naa tuu \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aap ke anurodh pe mai.n ye giit sunaataa huu.N}%
+\film{Anurodh}%
+\year{}%
+\starring{Rajesh Khanna, Vinod Mehra}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Ravi Iyer
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+aap ke anurodh par, mai.n ye giit sunaataa huu.N
+apane dil kii baato.n se, aap kaa dil bahalaataa huu.N
+aap ke anurodh pe   \threedots
+
+mat puuchho auro.n ke duHkh me.n, ye prem kavi kyo.n rotaa hai
+bas choT kisii ko lagatii hai aur dard kisii ko hotaa hai
+duur kahii.n koi darpaN TuuTe, ta.Dap ke mai.n rah jaataa huu.N
+aap ke anurodh pe   \threedots
+
+taariif mai.n jisakii karataa huu.N, kyaa ruup hai vo, kyaa khushabuu hai
+kuchh baat nahii.n aisii koii, ye ek suro.n kaa jaaduu hai
+koal kii ek kuuk se sabake dil me.n huuq uThaataa huu.N
+aap ke anurodh pe   \threedots
+
+mai.n pahane phirataa huu.N jo, vo za.njiire.n kaise banatii hai.n
+ye bhed bataa duu.N giito.n me.n tasaviire.n kaise banatii hai.n
+sundar ho.nTho.n kii laalii se, mai.n ra.ng ruup churaataa huu.N
+aap ke anurodh pe main ye giit sunaataa huu.N   \threedots
+
+%
+#endindian
+\endsong
+%

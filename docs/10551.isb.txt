@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{haay re haay re ... madhubaalaa gazab kar Daalaa}%
+\film{Banaarasi Baaboo}%
+\year{1998}%
+\starring{Govinda, Ramya, Kader, Shakti, Sanam, Asif Sheikh, Bindu}%
+\singer{Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay haay haay haay haay haay haay
+haay re haay re gazab kar Daalaa o madhubaalaa gazab kar Daalaa
+datiyan kii ##setting## dekho motiyan kii maalaa
+achchho.n ko isane kachchaa chabaa Daalaa
+haay re haay aaj hamase pa.Daa paalaa
+madhubaalaa gazab kar Daalaa \threedots
+
+maathe pe bi.ndiyaa naa kaano.n me.n baalaa
+gore se mukha.De pe chashmaa hai kaalaa
+haay haay re teraa ra.ng ba.Daa aalaa
+madhubaalaa gazab kar Daalaa \threedots
+
+ye to mirchii kaa tiikhaa masaalaa
+kholuu.ngaa mai.n isake bheje kaa taalaa
+haay re haay ye to viSh kaa bharaa pyaalaa
+madhubaalaa gazab kar Daalaa \threedots
+%
+#endindian
+\endsong
+

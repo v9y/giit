@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{bachanaa ai hasiino.n, lo mai.n aa gayaa}% 
+\film{Ham Kisise Kam Nahin}%
+\year{}%
+\starring{Rishi Kapoor}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+bachanaa ai hasiino.n, lo mai.n aa gayaa 
+hAy, bachanaa ai hasiino.n, lo mai.n aa gayaa 
+husn kA aashiq, husn kA dushman 
+apanii adA hai yaaro.n se judaa 
+koras : hai ho 
+hai, bachanaa \threedots 
+
+hai, duniyA me.n nahii.n hai, aaj meraa saa dIvaanaa 
+pyaar vaalo.n kii jubaa.n pe hai meraa hii taraanaa 
+sabakii ra.ng bharii aa.Nkho.n pe aaj, chamak rahaa hai meraa hii nashaa 
+koras : hai ho 
+hai, bachanA \threedots 
+
+jaam milate.n hai.n adab se, shaam detii hai salAmii 
+giit jhukate hai labo.n pe, saaz karate hai.n gulaamii 
+ho koI, paradaa yA bAdashaah, aaj to sab hai.n mujhape fidaa 
+koras : hai ho 
+hai, bachanaa \threedots
+
+ek ha.ngaamaa uThaa duu.n, mai.n to jaaU.n jidhar se 
+jiit letA huu.N dilo.n ko, ek halkii sI najar se 
+mahabuubo.n kii mahafil me.n aaj, chhaayii hai chhaayii hai merI hii adA 
+koras : hai ho 
+
+hai, bacahanaa \threedots
+%
+#endindian
+\endsong
+%

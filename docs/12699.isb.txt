@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{ai sanam yah zindagii aa_ii hai lekar Kushii}%
+\film{Lailaa Majnoon}%
+\year{1953}%
+\starring{Shammi Kapoor, Nutan}%
+\singer{Shamshad}%
+\music{Gulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10030 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai sanam yah zindagii aa_ii hai lekar Kushii
+kar le baate.n pyaar kii
+
+phailii hai dekho chaa.Ndanii tuu meraa aur mai.n terii
+
+phuulo.n kii baraat hai taaro.n bharii raat hai
+teraa meraa saath hai
+dil kaa kahanaa maan le yah raat phir na aa_egii
+
+aa_e din qaraar ke mausam\-e\-bahaar ke
+tere mere pyaar ke
+tujhako merii qasam tuu sun le dil kii raaganii
+%
+#endindian
+\endsong
+

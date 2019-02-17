@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{dhiire dhiire subah huii jaag uThii zi.ndagii}%
+\film{Haisiyat}%
+\year{1984}%
+\starring{Raj Babbar}% 
+\singer{Vani Jairam, Yesudas}%
+\music{Bappi Lahiri}%
+\lyrics{}%
+%
+% Contributor: C.S.Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator:  
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dhiire dhiire subah huii jaag uThii zi.ndagii
+pa.nchhii chale ambar ko ambar ko ambar ko
+maajhii chale saagar ko saagar ko saagar ko
+pyaar kaa naam jiivan hai
+ma.nzil hai priitam kii galii
+
+Duub ke suuraj phir nikalaa
+saare jahaa.N ko nuur milaa
+dil ke dvaare tumako pukaare
+ek na_ii zi.ndagii, pyaar kA \threedots
+
+kiraNo.n se daaman bhar lo
+priit se tum tan man bhar lo
+jisame.n jitanii pyaas jagii
+utanii hii priit milii, pyaar kA \threedots
+%
+#endindian
+\endsong
+%

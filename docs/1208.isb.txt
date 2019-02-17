@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{mere mahabuub qayaamat hogii}%
+\film{Mr. X in Bombay}%
+\year{1964}%
+\starring{Kishore, Kumkum}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar - needs correct words (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mere mahabuub qayaamat hogii
+aaj rusavaa terii galiyo.n me.n muhabbat hogii
+
+naam nikalegaa tere hii lab se
+jaan jab is dil\-e\-naadaan se rukhasat hogii
+mere mahabuub \threedots
+
+terii galii mai.n aataa sanam
+naGame vafaa ke gaataa sanam
+tujh se sunaa naa jaataa sanam
+ab aa pahu.nchaa aayaa huu.N magar
+ye kah kar mai.n diivaanaa
+Katm ab aaj ye vahashat hogii
+aaj rusavaa \threedots
+
+mere sanam ke dar se agar
+bad\-e\-sabaa ho teraa guzar
+kahanaa sitamagar kuchh hai khabar
+teraa naam liyaa 
+jab tak bhii jiyaa
+ai shammaa teraa paravaanaa
+jisase ab tak tujhe nafarat hogii
+aaj rusavaa \threedots
+
+mere mahabuub \threedots
+%
+#endindian
+\endsong
+%

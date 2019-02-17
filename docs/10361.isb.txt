@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{chale jaanaa zaraa Thaharo kisii kaa dam nikalataa hai}%
+\film{Around The World}%
+\year{1967}%
+\starring{Raj Kapoor, Rajashri, Ameeta, Pran}%
+\singer{Mukesh, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11045 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	chale jaanaa zaraa Thaharo kisii kaa dam nikalataa hai
+	ye ma.nzar dekhakar jaanaa
+shaa \:	chale jaanaa zaraa \threedots
+
+mu \:	abhii aa_e ho baiTho to ye mausam bhii suhaanaa hai
+	abhii to haal\-e\-dil tumako nigaaho.n se sunaanaa hai
+	nazar pyaasii ye dil pyaasaa
+	kisii kaa dam \threedots
+
+shaa \:	hasii.n jharano.n ke saaye me.n akelaa chho.D jaate ho
+	hamaare dil ko aaKir kisali_e tum to.D jaate ho
+	zaraa dam lo kahaa maano 
+	kisii kaa dam \threedots
+
+mu \:	hamaarii jaan ho tum bhii agar chal dii.n to kyaa hogaa
+	tumhaare bin bahaaro.n me.n Kushii kyaa hai mazaa kyaa hai
+	o jaan\-e\-man na jaa_o tum
+	kisii kaa dam \threedots
+
+
+shaa \:	qasam khaatii huu.N mai.n apanii tumhe.n ab naa sataa_uu.Ngii
+	tumhaarii baat jo bhii ho vahii mai.n maan jaa_uu.Ngii
+	bharii aa.Nkhe.n jhukii palake.n
+	kisii kaa dam \threedots
+do \:	chale jaanaa zaraa \threedots
+%
+#endindian
+\endsong
+

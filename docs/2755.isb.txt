@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{aaj mere nasiib ne mujhako rulaa rulaa diyaa}%
+\film{Hulchul}%
+\year{1951}%
+\starring{Dilip Kumar,Nargis}%
+\singer{Lata}%
+\music{Sajjad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: Srinivas Ganti,Hrishi Dixit
+% Transliterator: 
+% Date: February 2,2001
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+(aaj mere nasiib ne mujhako rulaa rulaa diyaa)\-2
+biite dino.n kii yaad ne phir meraa dil dukhaa diyaa 
+aaj mere nasiib\threedots
+
+(luuT liyaa meraa karaar phir ? dil\-e\-bekaraar ne)\-2
+dard ne mere chain ko Kaaq me.n phir milaa diyaa
+aaj mere nasiib\threedots
+
+(laauu.N kahaa.N se mai.n vo dil)\-2 
+tumako jo pyaar kar sake
+jisame base hue the vo, mai.n ne vo dil ga.Nvaa diyaa
+aaj mere nasiib\threedots
+
+(ashq jo the ruke ruke, aaj vo phir baras pa.De) \-2
+ai merii naamuraadiyo.n, tumane mujhe miTaa diyaa
+aaj mere nasiib ne \threedots
+
+%
+#endindian
+\endsong
+%

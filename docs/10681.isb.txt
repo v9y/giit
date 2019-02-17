@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{baat itanii sii hai kah do ko_ii diivaano.n se}%
+\film{Beti Bete}%
+\year{1964}%
+\starring{Sunil Dutt, B.Saroja Devi, Jamuna}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10967 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+baat itanii sii hai kah do ko_ii diivaano.n se
+aadamii vo hai jo khelaa kare tuufaano.n se
+baat itanii sii hai \threedots
+
+na_ii ma.nzil na_ii raaho.n pe chale hai.n ham to
+ye maaluum hai kaa.NTo.n pe chale hai.n ham to
+( Gam bhii Dar jaataa hai ) \-2 ham jaise mastaano.n se
+aadamii vo hai \threedots
+
+apanii taqadiir pe ronaa ba.Dii naadaanii hai
+jaan sii chiiz ko khonaa ba.Dii naadaanii hai
+( kuchh to dhiiraj rakho ) \-2 kah do ko_ii naadaano.n se
+aadamii vo hai \threedots
+
+zindagii vo hai chaman ke phuul bhii khil jaate hai.n
+dil ke Tuka.De jo bichha.Date hai.n vo mil jaate hai.n
+jaise shiishe kabhii mil jaate hai.n paimaano.n se
+aadamii vo hai \threedots
+%
+#endindian
+\endsong
+

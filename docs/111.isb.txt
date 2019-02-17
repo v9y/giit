@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aate jaate pahaluu me.n aayaa koii}%
+\film{Yahudi}%
+\year{1958}%
+\starring{Dilip Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+aate jaate pahaluu me.n aayaa koii
+mere dil batalaa na chhupaa
+aaj se mai.n tujhe dil kahuu.N yaa dilarubaa
+
+terii sunuu.N aur sunatii rahuu.N
+mai.n apanii ta.Dap chhupaa luu.N
+phir bhii kahaa.N tak sabr karuu.N
+mai.n khud ko kitanaa sa.nbhaaluu.N
+aate jaate   \threedots
+
+mast nazar tuune ye kyaa kiyaa
+liyaa ye kaun saa badalaa
+hai ye sharaab\-e\-nazar kaa asar
+ki mujhe dil bhii na sa.nbhalaa
+aate jaate   \threedots
+
+teraa tasavvur teraa hii Gam
+labo.n pe ab teraa taraanaa
+nii.nd se bhii ab kahatii huu.N mai.n
+tuu unako Kvaab me.n laanaa
+aate jaate   \threedots
+
+%
+#endindian
+\endsong
+%

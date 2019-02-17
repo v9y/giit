@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ho tujhape salaam, ai mere naakaam\-e\-mohabbat}%
+\film{Sohni Mahiwal}%
+\year{1946}%
+\starring{Begum Para, Ishwarlal}%
+\singer{Zohrabai, G M Durrani}%
+\music{Lal Mohammad}%
+\lyrics{Munshi Dil}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+zo \:	ho tujhape salaam
+	ho tujhape salaam, ai mere naakaam\-e\-mohabbat
+	naakaam\-e\-mohabbat
+	pahu.Nchaa de sabaa
+	pahu.Nchaa de sabaa, usako ye paiGaam\-e\-mohabbat
+	paiGaam\-e\-mohabbat
+	aa.Nkho.n
+	( aa.Nkho.n me.n nazar aataa hai a.njaam\-e\-mohabbat
+	a.njaam\-e\-mohabbat ) \-2
+	jiitii huu.N mai.n le-le ke faqat naam\-e\-mohabbat \-2
+	haa.N naam\-e\-mohabbat \-2
+	ho tujhape salaam \-2
+
+du \:	tumase to shikaayat nahii.n
+	tumase to shikaayat nahii.n, qismat kaa gilaa hai
+	ye mujhako silaa dil ke lagaane kaa milaa hai \-2
+	ro_uu.N to mere haal
+	ro_uu.N to mere haal pe ha.Nsataa hai zamaanaa \-2
+	ai jaan\-e\-mohabbat
+	ai jaan\-e\-mohabbat mujhe bhuul na jaanaa \-2
+	ho tujhape salaam \-2
+
+zo \:	mai.n terii huu.N mai.n
+	mai.n terii huu.N mai.n terii zamaane ko Kabar hai
+	zamaane ko Kabar hai
+	jo haal udhar teraa wohii haal idhar hai \-2
+	ho tujhape salaam \-2
+	
+du \:	tum qaid hu_ii.n milane se majabuur huye ham \-2
+zo \:	ye qaid kyaa chiiz Kudaa_ii ko jalaa duu.N
+	fariyaad ke naalo.n se qayaamat ko jagaa duu.N
+	aasaa.N nahii.n duniyaa se muhabbat kaa miTaanaa
+
+#endindian
+\endsong

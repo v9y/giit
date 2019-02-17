@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{miinii miinii chiichii duniyaa me.n chaa.Nd\-suuraj}%
+\film{Kathputli}%
+\year{1957}%
+\starring{Balraj Sahni, Vyjanthimala, Agha}%
+\singer{Mukesh, Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10844 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+mu \:	miinii miinii chiichii  \-2
+	duniyaa me.n chaa.Nd\-suuraj hai.n ( kitane hasii.n ) \-2
+	utanaa hii sun mere bhaiyaa dil ko lubhaa_e rupaiyaa
+la \:	duniyaa me.n chaa.Nd\-suuraj \threedots
+
+mu \:	rupayo.n kaa chashmaa cha.Dhaa_o ye duniyaa dikhegii ra.ngiilii
+la \:	duniyaa me.n chaa.Nd\-suuraj \threedots
+
+mu \:	rupayo.n kaa chashmaa cha.Dhaa_o ye duniyaa dikhegii ra.ngiilii
+la \:	saare nashe isake naukar ye hai chiiz aisii nashiilii
+mu \:	ye cham\-cham isii kii chham\-chham isii ko gaa_e isii ko gavaiyaa
+la \:	ye cham\-cham isii kii chham\-chham isii ko gaa_e isii ko gavaiyaa
+mu \:	miinii miinii chiichii
+la \:	chiichii
+do \:	duniyaa me.n chaa.Nd\-suuraj \threedots
+
+mu \:	sapano.n kii ra.ngiin raate.n jaise ki aa_ii diivaalii
+la \:	kal kaa bhalaa kyaa bharosaa rahe.nge maalik yaa maalii
+mu \:	ha.Ns ke rulaa_e rulaa ke ha.Nsaa_e yahii zindagii kaa ravaiyaa
+la \:	ha.Ns ke rulaa_e rulaa ke ha.Nsaa_e yahii zindagii kaa ravaiyaa
+mu \:	miinii miinii chiichii
+la \:	chiichii
+do \:	duniyaa me.n chaa.Nd\-suuraj \threedots
+%
+#endindian
+\endsong
+

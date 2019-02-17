@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tum mere ho bas mere hii mere ho}%
+\film{Betaabi}%
+\year{1997}%
+\starring{Chandrachur, Arshad Warsi, Anjala Zaveri, Mayuri Kango, Shakti}%
+\singer{Udit Narayan}%
+\music{Vishal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum mere ho bas mere hii mere ho
+puuchh lo havaa_o.n se surama_ii ghaTaa_o.n se
+baarisho.n ke paanii se puuchho nadiyaa diivaanii se
+tum mere ho bas \threedots
+
+aa.Nkho.n kii galiyo.n se aa ke ruuh me.n tum bas jaa_o
+saath chale.n aur saath ruke.n saa.Nso.n me.n yuu.n mil jaa_o
+puuchh lo khyaalo.n me.n baadalo.n kii shaalo.n se
+khvaahisho.n se sapano.n se puuchho gairo.n se yaa apano.n se
+tum mere ho bas \threedots
+
+mai.n tumako mahasuus karuu.N ban jaa_o tum ehasaas
+ek duuje ko dekh naa paa_uu.N aa jaa_o itane paas
+puuchh lo bahaaro.n se champa_ii nazaaro.n se
+khushbu_o.n kii vaadii se puuchho is rut shahazaadii se
+tum mere ho bas \threedots
+%
+#endindian
+\endsong
+

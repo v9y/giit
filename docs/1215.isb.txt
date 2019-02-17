@@ -1,0 +1,62 @@
+% 
+\startsong
+\stitle{mere pyaar kii aavaaz pe chalii aanaa}%
+\film{Raj Mahal}%
+\year{1982}%
+\starring{Vinod Khanna, Neetu Singh, Danny, Om Shivpuri}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Varma Malik}%
+% 
+% Contributor: Rizwan Syed <rizwan@earth.sparco.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 09/10/1995
+% Credits: Vandana Venkatesan <vvenkate@intel.com>
+%          Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments:
+%
+\printtitle
+#indian
+%
+r: o sonaalii, o sonaalii
+l: ho, ho
+
+r: mere pyaar kii aavaaz pe chalii aanaa
+   o chalii aanaa\threedots		 \-2
+
+l: mai.n aa rahii huu.N
+   mai.n aa rahii huu.N pyaar kii aavaaz pe
+   ye pyaar bharaa naGamaa
+   tum phir se gunagunaanaa
+r: mere pyaar kii aavaaz pe chalii aanaa
+   o chalii aanaa
+
+r: dekho mausam gaharaa gaharaa hai 	   \-2
+   aur shaam kaa ra.Ng sunaharaa hai
+l: (aao ham dono.n chhup jaae.n
+    pyaar kii duniyaa me.n kho jaae.n)	   \-2
+   aise kho jaae.nge
+   aise kho jaae.nge Dhuu.NDhegaa ye saaraa zamaanaa
+r: mere pyaar kii aavaaz pe chalii aanaa
+   o chalii aanaa
+
+l: tuu hai sapano.n kii parchhaaiyo.n me.n \-2
+   tuu hai is dil kii gaharaaiyo.n me.n
+r: (baa.Ndhake tujhako baaho.n me.n
+    rakh luu.N aaj nigaaho.n me.n)	   \-2
+l: to ye vaadaa karo \threedots
+   to ye vaadaa karo, mujhako kabhii na bhulaanaa
+r: mere pyaar kii aavaaz pe chalii aanaa
+   o chalii aanaa
+l: mai.n aa ga_ii huu.N \threedots
+   mai.n aa ga_ii huu.N, pyaar kii aavaaz pe
+   ye pyaar bharaa naGamaa
+   tum phir se gunagunaanaa
+r: mere pyaar kii aavaaz pe chalii aanaa
+   o chalii aanaa
+%
+#endindian
+\endsong
+%
+

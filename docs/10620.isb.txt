@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{unase pyaar ho gayaa}%
+\film{Baadal}%
+\year{1951}%
+\starring{Premnath, Madhubala, Purnima}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11899 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( unase pyaar ho gayaa
+unase pyaar ho gayaa
+dil meraa kho gayaa
+dil unakaa kho gayaa
+dil dil se mil gayaa ) \-2
+
+unase pyaar ho gayaa
+
+dard miTaaye tuune tiir chubhaa ke \-2
+aaG bujhaa_ii ik aaG lagaa ke \-2
+unase pyaar ho gayaa
+unase pyaar ho gayaa
+dil meraa kho gayaa
+dil unakaa kho gayaa
+dil dil se mil gayaa
+
+unase pyaar ho gayaa
+
+naino.n se nain mile badale zamaane \-2
+samajhe samajhane waale aur naa jaane
+aur naa jaane ko_ii aur naa jaane \-2
+unase pyaar ho gayaa
+unase pyaar ho gayaa
+dil meraa kho gayaa
+dil unakaa kho gayaa
+dil dil se mil gayaa
+
+unase pyaar ho gayaa
+
+ulfat kii dekho kaisii ajab kahaanii \-2
+aaye naa baadal phir bhii barasaa hai paanii \-2
+( unase pyaar ho gayaa
+unase pyaar ho gayaa
+dil meraa kho gayaa
+dil unakaa kho gayaa
+dil dil se mil gayaa ) \-2
+
+unase pyaar ho gayaa
+%
+#endindian
+\endsong
+

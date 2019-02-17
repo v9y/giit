@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{aa jaa ab to aajaa merii qismat ke Kariidaar}%
+\film{Anaarkali}%
+\year{1953}%
+\starring{Bina Rai, Pradeep Kumar, Mubarak, S. L. Puri, Sulochana, Kuldeep Kaur}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/24/1996
+%
+\printtitle
+#indian
+%
+aa jaa ab to aa jaa merii qismat ke Kariidaar
+niilaam ho rahii hai merii chaahat sar\-e\-baazaar
+sab ne lagaaii bolii lalachaaii har nazar
+mai.n terii ho chukii huu.N duniyaa hai beKabar
+zaalim ba.De bhole hai.n mere ye talabagaar
+hasrat bharii javaanii ye husn ye shabaab
+ra.Ngiin dil ko mahafil mere hasiin Kvaab
+goyaa ki merii duniyaa luuTane ko hai taiyaar
+%
+#endindian
+\endsong
+%

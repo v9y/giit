@@ -1,0 +1,82 @@
+
+%
+\startsong
+\stitle{naa naa naa re naa naa haath naa lagaanaa ... duu.Ngii gaariyaa.N}%
+\film{Taj Mahal}%
+\year{1963}%
+\starring{Pradeep, Bina Rai, Jeevan, Minoo Mumtaz}%
+\singer{Suman, Meenu Purushottam}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12182 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+su \:	naa naa naa re naa naa
+	haath naa lagaanaa
+	tose baar\-baar kahuu.N
+	mohe naa sataanaa
+	duu.Ngii gaariyaa.N
+	
+mii \:	ruup ye suhaanaa
+	usape ye baanaa
+	gorii torii a.Nkhiyaa.N hai.n
+	ra.ng kaa Kazaanaa
+	laage.n pyaariyaa.N
+
+su \:	bha_iyaa moraa gabaruu hai
+	sai.nyaa.N moraa baa.Nkaa \-2
+	chaale.ngii kaTaare.n taine
+	mu.D ke jo jhaa.Nkaa \-2
+	royegaa tor gharaanaa
+	na jaan ga.Nwaanaa
+	ke mai.n boluu.N mai.n boluu.N
+	mai.n duu.Ngii gaariyaa.N
+
+	naa naa naa re naa naa
+	haath naa lagaanaa
+	tose baar\-baar kahuu.N
+	mohe naa sataanaa
+	duu.Ngii gaariyaa.N
+
+mii \:	naino.n kii kaTaarii laage
+	man pe dudhaarii \-2
+	gesuu jhuke.n na torii
+	chhab matawaarii \-2
+	ruup jhalak dikhalanaa
+	nahii.n tarasaanaa
+	o na bolo ye baityaa.N
+	na bolo nyaariyaa.N
+
+	ruup ye suhaanaa
+	usape ye baanaa
+	gorii torii a.Nkhiyaa.N hai.n
+	ra.ng kaa Kazaanaa
+	laage.n pyaariyaa.N
+
+su \:	ruup ke Kazaane pe hai
+	sai.nyaa.N jii kaa paharaa \-2
+	jiive moraa sai.nyaa.N jaase
+	pyaar moraa gaharaa \-2
+	tuu hai puruSh anajaanaa
+	binaa pahachaanaa
+	re mai.n boluu.N mai.n boluu.N
+	mai.n duu.Ngii gaariyaa.N
+
+mii \:	ruup ye suhaanaa
+	usape ye baanaa
+	gorii torii a.Nkhiyaa.N hai.n
+	ra.ng kaa Kazaanaa
+	laage.n pyaariyaa.N
+
+su \:	naa naa naa re naa naa
+	haath naa lagaanaa
+	tose baar\-baar kahuu.N
+	mohe naa sataanaa
+	duu.Ngii gaariyaa.N
+%
+#endindian
+\endsong
+

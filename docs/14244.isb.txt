@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{aa aa kaise samajhaa_uu.N ba.Dii naasamajh ho}%
+\film{Suraj}%
+\year{1966}%
+\starring{Rajendra Kumar, Vyjayantimala, Ajit}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11016 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	aa aa 
+	kaise samajhaa_uu.N ba.Dii naasamajh ho \-2
+	hamase na jiitogii tum rahane do ye baazii
+	kaise samajhaa_uu.N \threedots
+
+aa \:	aa aa 
+	kaise samajhaa_uu.N ba.De naasamajh ho \-2
+	aa_e\-ga_e tum jaise saika.Do.n anaa.Dii
+	kaise samajhaa_uu.N \threedots
+
+ra \:	ham dil kaa saaz bajaate hai.n duniyaa ke hosh u.Daate hai.n
+	ham saat suro.n ke saagar hai.n har mahafil me.n laharaate hai.n \-2
+	kaise samajhaa_uu.N \threedots
+
+aa \:	tum saaz bajaanaa kyaa jaano tum ra.ng jamaanaa kyaa jaano \-2
+	mahafil to hamaare dam se hai tum hosh u.Daanaa kyaa jaano \-2
+	kaise samajhaa_uu.N \threedots
+
+	mai.n naachuu.N chaa.Nd\-sitaaro.n par sholo.n par sharaaro.n par
+ra \:	ham aisii kalaa ke diivaane chhaa jaa_e.N nashiilii bahaaro.n par
+	kaise samajhaa_uu.N \threedots
+%
+#endindian
+\endsong
+

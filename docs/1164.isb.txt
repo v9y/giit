@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{mausam hai ThaNDaa ThaNDaa}%
+\film{Jhanjhar}%
+\year{1953}%
+\starring{Motilal, Kamini Kaushal}%
+\singer{Lata , chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar
+% Date: June 22, 1998
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+l : mausam hai ThaNDaa ThaNDaa, aa khele.n gillii DaNDaa
+ko: to baDaa mazaa aayegaa, baDaa hii mazaa aayegaa
+l : maiyyaa ?? chorii chorii, mai.n aa_ii dau.Dii dau.Dii
+    jo pataa chal jaayegaa
+ko: to ba.Daa mazaa   \threedots
+
+l : milajul ke khele.n saare, ko_ii jeet jaaye ko_ii haare
+    maar jo DaNDe kii laage, kar kar kar ???
+    saamane jo aayegaa, vo chit jaayegaa \-2
+
+ko: to ba.Daa mazaa   \threedots
+l : mausam hai ThaNDaa ThaNDaa \threedots
+
+l : ye khel hai ba.Daa suhaanaa
+ko: baDaa suhaanaa, ba.Daa suhaanaa
+l : ye khel hai ba.Daa suhaanaa
+    sab khelo.n kaa hai naanaa
+ko: ba.Daa suhaanaa, ba.Daa suhaanaa
+    sab khelo.n se achchhaa
+    aa aa~~~
+    isase khele hai bachchaa bachchaa
+    aa aa~~~
+l : baazii jo lagaayegaa, mauj vo u.Daayegaa \-2
+ko: to ba.Daa mazaa   \threedots
+
+l : mausam hai ThaNDaa ThaNDaa \threedots 
+
+%  
+#endindian  
+\endsong 

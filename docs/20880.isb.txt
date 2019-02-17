@@ -1,0 +1,45 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{naGamaa hamaaraa gaayegaa ye zamaanaa}%
+\film{Bundal Baaz}%
+\year{1976}%
+\starring{Rajesh Khanna, Sulakshana Pandit}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: Universal
+% Tags: 
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 26 Oct 2005
+% Series: GEETanjali, THGHT
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+la: naGamaa hamaaraa gaa_egaa ye zamaanaa -3
+ra: ham de chale ishq ko ek aisaa taraanaa
+do: naGamaa hamaaraa gaa_egaa ye zamaanaa
+
+la: tum se mere shaah\-e\-jahaa.N 
+    meraa Gam bhii ra.ngii.n Gazal
+ra: tum se bhii ye mumataaz\-e\-man 
+    mere aa.Nsuu taajamahal
+la: o o kitanaa hasii.n dilanashii.n hai hamaaraa fasaanaa
+ra: naGamaa hamaaraa \.\.\.
+
+ra: diiwaano.n ke siine me.n dil
+    dil me.n jab tak baaqii hai pyaar
+la: do dil milate ho.nge jahaa.N
+    ham tum aae.Nge baar baar
+ra: o o mahakaa huaa hamase hai pyaar kaa har zamaanaa
+la: naGamaa hamaaraa \.\.\.
+ra: ham de chale.n \.\.\.
+do: naGamaa hamaaraa \.\.\.
+%
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{merii hasarato.n kii duniyaa tuu mile kahii.n jo mujhako}%
+\film{Gaal Gulaabi Nain Sharaabi}%
+\year{1974}%
+\starring{Radha Saluja, Kiran Kumar, Paintal, Aparna Chaudhary, Ranjeet}%
+\singer{Rafi, Krishna Kalle}%
+\music{Shyamji Ghanshyamji}%
+\lyrics{Kulwant Jani}%
+%
+% Contributor: BOL ANAMOL #10371 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	merii hasarato.n kii duniyaa
+	tuu mile kahii.n jo mujhako
+	siine se lagaa luu.N tujhako
+	merii hasarato.n kii \threedots
+
+	pyaar meraa ishq meraa ko_ii miT jaane kii shai nahii.n hai
+	tuu milegii mere dil ko aaj bhii to ye puuraa yaqii.n hai
+	( tuu jahaa.N hai ) \-2 pyaar mere
+	tuu jahaa.N hai pyaar mere mere Kvaabo.n kii ma.nzil vahii.n hai
+	merii hasarato.n kii \threedots
+
+kR^i \:	o o mere dilabar zindagii bhar naam teraa rahegaa zubaa.N par
+	sar jhukegaa us jagah par paa.Nv tere pa.De.nge jahaa.N par
+ra \:	( puure ho.nge ) \-2 saare vaade
+	puure ho.n sanam saare vaade jo\-jo aapas me.n hamane ki_e hai.n
+	merii hasarato.n kii \threedots
+%
+#endindian
+\endsong
+

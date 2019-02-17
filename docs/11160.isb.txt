@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kabhii ha.Nsate hai.n kabhii rote hai.n}%
+\film{Dushmani}%
+\year{1996}%
+\starring{Sunny, Jackie, Manisha, Deepti Naval, Raghuvir Yadav, Anupam}%
+\singer{S P Balasubramaniam, Kavita Subramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kabhii ha.Nsate hai.n kabhii rote hai.n
+pyaar karane vaale to diivaane hote hai.n
+kabhii ha.Nsate hai.n \threedots
+
+kyaa kahaa kisane hamane sunaa nahii.n
+hai kahaa.n jaanaa hamako pataa nahii.n
+kyo.n
+hamane baseraa kiyaa terii nigaaho.n tale
+paravaah nahii.n kuchh hame.n duniyaa jale to jale
+jaagate hai.n ham jab duniyaa vaale sote hai.n
+kabhii ha.Nsate hai.n \threedots
+
+yaad na rastaa ham kahaa.n aa ga_e
+bhuul ke khud ko dil me.n samaa ga_e
+siine pe sar rakh ke ham yahaa.n ab ek ho jaa_e.nge
+do premii mil ke yahaa.n ab ek ho jaa_e.nge
+%
+#endindian
+\endsong
+

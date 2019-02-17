@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tum bin merii kaun khabar le}%
+\film{Jhanjhar}%
+\starring{Usha Kiran, Motilal??, Kamini Kaushal??}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator:
+% Date: July 1, 1998
+% Credits:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+tum bin merii kaun khabar le  
+govardhan giridhaarii \-2
+
+mor mukuT piitaa.mbar sohe \-2
+kuNDal kii gat nyaarii re
+govardhan giridhaarii \threedots
+
+bharii sabhaa me.n draupadii ????? \-2
+raakho laaj hamaarii re
+govardhan giridhaarii \threedots
+
+miira ke prabhiu giridhar naagar \-2
+charaN kamal balihaarii re
+govardhan giridhaarii \threedots
+
+%  
+#endindian  
+\endsong 
+%

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ghaTaa ghan ghor ghor}% 
+\film{Tansen}%
+\year{1943}%
+\starring{Saigal, Khursheed, Mubarak, Nagendra}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Pt. Indra Chandra}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ghaTaa ghanaghor ghor 
+mor machaave shor 
+more sajan aajaa 
+aajaa more sajan aajaa 
+
+ek mauj kaa naam javaanii
+ik aaye ik jaaye
+mauj me.n mauj naa lii jisane vo 
+phir kaahe pachhataaye 
+ba.Daa duHkh deve jiyaa 
+maane naa haay piyaa 
+ise samajhaajaa 
+aajaa ise samajhaajaa 
+ghaTaa ghanaghor ghor \threedots
+
+sab lag phiruu.N khoj me.n tere 
+piyaa khoye khoye 
+jo laagii naa jaane more 
+unakaa bhalaa naa hoye 
+phiruu.N mai.n dvaare dvaare 
+do nainavaa ke maare 
+mukh dikhalaajaa 
+aajaa mukh dikhalaajaa 
+ghaTaa ghanaghor ghor \threedots
+%
+#endindian
+\endsong
+%

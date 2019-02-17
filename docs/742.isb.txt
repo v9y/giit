@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{husn vaale teraa javaab nahii.n koi tujh-saa nahii.n hazaaro.n me.n}%
+\film{Gharana}%
+\year{}%
+\starring{Rajendra Kumar, Raaj Kumar, Asha Parekh}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+%          Rajan Parrikar (parrikar@spot.colorado.edu)
+%          Sanjeev Ramabhadran (sanjeevr@phoenix.princeton.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+husn vaale teraa javaab nahii.n
+koI tujh\-saa nahii.n hazaaro.n me.n
+
+tuu hai aisii kalii jo gulashan me.n
+saath apane bahaar laayii ho
+tuu hai aisii kiraN jo raat Dhale
+chaa.Ndanii me.n nahaa ke aayii ho
+ye teraa nuur ye tere jalave
+jis tarah chaa.Nd ho sitaaro.n me.n
+husn vaale \threedots
+
+terI aa.Nkho.n me.n aisii mastii hai
+jaise chhalake hue ho.n paimaane
+tere ho.nTho.n pe vo khaamoshii hai
+jaise bikhare hue ho.n afasaane
+terii zulfo.n kii aisii ra.ngat hai
+jaise kaalii ghaTaa bahaaro.n me.n
+husn vaale \threedots
+
+terii suurat jo dekh le shaayar
+apane shero.n me.n taazagii bhar le
+ek musavvir jo tujh ko paa jaae
+apane Kvaabo.n me.n zi.ndagii bhar le
+naGamaagar Dhuu.NDh le agar tujh ko
+dard bhar le vo dil ke taaro.n me.n
+husn vaale teraa javaab nahii.n \threedots
+%
+#endindian
+\endsong
+%

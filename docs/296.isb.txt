@@ -1,0 +1,47 @@
+% 
+\startsong
+\stitle{bha.Nvaraa ba.Daa naadaan haay}%
+\film{Sahib Biwi Aur Ghulam}%
+\year{1962}%
+\starring{Guru Dutt, Meena Kumari, Waheeda Rehman, Rehman}%
+\singer{Asha}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+% Comments: Guru Dutt Films Pvt. Ltd.
+%
+\printtitle
+#indian
+%
+bha.Nvaraa ba.Daa naadaan haay
+bagiyan kaa mehamaan haay
+phir bhii jaane na jaane na jaane na
+kaliyan kii musakaan haay
+bha.Nvaraa ba.Daa naadaan \threedots
+ 
+kabhii u.D jaaye kabhii ma.nDaraaye
+bhed jiyaa ke khole na
+saamane aaye nain milaaye 
+mukh dekhe kuchh bole na, vo mukh dekhe kuchh bole na
+bha.Nvaraa ba.Daa naadaan haay \threedots
+ 
+akhiyo.n me.n rajake chale bach bachake
+jaise ho koii begaanaa 
+rahe sa.Ng dil ke mile nahii.n milake
+banake rahe vo anjaanaa, ho banake rahe vo anjaanaa
+bha.Nvaraa ba.Daa naadaan haay \threedots
+ 
+koii jab roke koii jab Toke 
+gun gun karataa bhaage re
+na kuchh puuchhe na kuchh buujhe 
+kaisaa anaa.Dii laage re, vo kaisaa anaa.Dii laage re
+bha.Nvaraa ba.Daa \threedots
+%
+#endindian
+\endsong
+%
+

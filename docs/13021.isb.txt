@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{kaa.NTo.n pe chal ke ... kahii.n se maut ko laa_o}%
+\film{Mera Qusoor Kya Hai}%
+\year{1964}%
+\starring{Dharmendra, Nanda, Shashikala, Bablu, Om Prakash, Raj Mehra}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10139 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kaa.NTo.n pe chal ke paa.Nv ke chhaalo.n se kyaa gilaa
+maa.Ngii thii khud hii raat ujaalo.n se kyaa gilaa
+
+kahii.n se maut ko laa_o ke Gam kii raat kaTe
+meraa hii sog manaa_o ke Gam kii raat kaTe
+kahii.n se maut ko \threedots
+
+kare na piichhaa meraa zindagii ko samajhaa do \-2
+ye raah usako bhulaa do ke Gam kii raat kaTe
+kahii.n se maut ko \threedots
+
+kaho bahaaro.n se ab shaaK\-e\-dil na hogii harii \-2
+Kizaa.n ke giit sunaa_o ke Gam kii raat kaTe
+kahii.n se maut ko \threedots
+
+na chaaraagar kii zaruurat na kuchh davaa kii hai
+du_aa ko haath uThaa_o ke Gam kii raat kaTe
+kahii.n se maut ko \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{u.Date baadal se puuchho bahatii nadiyaa se puuchho}%
+\film{Sangraam}%
+\year{1993}%
+\starring{Ajay Devgan, Ayesha, Karisma, Laxmikant, Tej Sapru, Danny, Amrish}%
+\singer{Sadhana Sargam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+u.Date baadal se puuchho bahatii nadiyaa se puuchho
+in bahaaro.n se puuchho in nazaaro.n se puuchho
+inako pataa hai meraa naam mai.n saath inake subah\-o\-shaam
+u.Date baadal se puuchho \threedots
+
+bulabul se siikhaa maine baat karanaa phuulo.n se siikhaa muskaraanaa
+koyal se siikhaa maine aah bharanaa bha.nvaro.n se siikhaa gunagunaanaa
+mai.n huu.N cha.nchal shokh havaa mujhe aataa hai u.D jaanaa
+u.Date baadal se puuchho \threedots
+%
+#endindian
+\endsong
+

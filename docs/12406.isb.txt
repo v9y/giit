@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jab kisii ko kisii se mohabbat hotii hai ... kaisaa ye pyaar hai}%
+\film{Khilaadi 420}%
+\year{2000}%
+\starring{Akshay Kumar, Mahima Chaudhary}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab kisii ko kisii se mohabbat hotii hai
+ye na puuchho sanam kaisii haalat hotii hai
+naa subah kaa pataa naa khabar shaam kii
+kyaa kisii se kahe.n jaan\-e\-jaa.n
+kaisaa ye pyaar hai ye kaisaa pyaar hai
+jab kisii ko kisii se \threedots
+
+jisane kiyaa hai usako pataa
+kaisaa nashaa hai is dard kaa
+naa rok raahe.n jaan\-e\-vafaa
+karane de mujhako tuu ye khataa
+ab to miTaa faasalaa
+har gha.Dii bekhudii har gha.Dii bebasii
+kyuu.n sataane lagii.n duuriyaa.n
+kaisaa ye pyaar hai \threedots
+
+cheharaa teraa ye mere sanam
+merii nazar me.n hai chhaane lagaa
+kaise sa.mbhaaluu.n isako bhalaa
+siine se ye dil jaane lagaa
+chalataa nahii.n bas meraa
+naa tujhe chain hai naa mujhe hosh hai
+dha.Dakane.n ban ga_ii.n hai.n zubaa.n
+kaisaa ye pyaar hai \threedots
+%
+#endindian
+\endsong
+

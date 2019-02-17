@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{nigaaho.n se hame.n samajhaa rahe hai.n}%
+\film{Passions (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Javed Qureshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+nigaaho.n se hame.n samajhaa rahe hai.n
+nawaazish hai karam faramaa rahe hai.n
+
+mai.n jitanaa paas aanaa chaahataa huu.N
+wo utanaa duur hote jaa rahe hai.n
+
+mai.n kyaa kahataa kisii se biitii baate.n
+wo Kud hii daastaa.N doharaa rahe hai.n
+
+fasaanaa shauq kaa aise sunaa hai
+tabassum zer\-e\-lab faramaa rahe hai.n
+
+#endindian
+\endsong

@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{jaaduugar tere nainaa dil jaayegaa bachake kahaa.N}%
+\film{Man Mandir}%
+\year{1971}%
+\starring{Sanjeev Kumar, Waheeda Rahman}%
+\singer{Lata, Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Vandana (vandana@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+k:      jaaduugar tere nainaa
+	dil jaayegaa bachake kahaa.N
+l:	##hmmmmm##
+k:      jaaduugar tere nainaa
+	dil jaayegaa bachake kahaa.N
+	ruk jaauu.n, jhuk jaauu.n
+	teraa mukha.Daa mai.n dekhuu.N jahaa.N
+l:	jaaduugar mere saiyaa.N
+	tere jaisaa koI hogaa kahaa.N
+	ruk jaauu.n, jhuk jaauu.n
+	teraa saayaa bhii dekhuu.N jahaa.N
+
+k:	tere ruup kaa diivaanaa meraa dil hai (2)
+	ab duniyaa se begaanaa meraa dil hai
+l:	tU hI tuu hai dekhuu.N jidhar
+	yahaa.N vahaa.N idhar udhar
+k:      jaaduugar tere nainaa
+	dil jaayegaa bachake kahaa.N
+	ruk jaauu.n, jhuk jaauu.n
+	teraa mukha.Daa mai.n dekhuu.N jahaa.N
+l:	re jaaduugar \threedots
+
+l:	mai.n to ho gayii bhA.Nvariyaa tere naam kii (2)
+	dhun laagii re saa.Nvariyaa tere naam kii
+k:	leke gayii mujhe terii lagan
+	kahaa.N kahaa.N kidhar kidhar
+l:	jaaduugar mere saiyaa.N
+	tere jaisaa koI hogaa kahaa.N
+	ruk jaauu.n, jhuk jaauu.n
+	teraa saayaa bhii dekhuu.N jahaa.N
+k:	jaaduugar \threedots
+
+k:	tere pyaar kaa sahaaraa merii zi.ndagii
+l:	terii aa.Nkh kaa ishaaraa merii ba.ndagii
+k:	vahaa.N vahaa.N mere pyaar kaa ghar
+l:	jahaa.N jahaa.N terii nazar
+k:	jaaduugar
+l:	mere saiyaa.N
+k:	dil jaayegaa bachake kahaa.N
+l:	ruk jaauu.n, jhuk jaauu.n
+	terA saayA bhI dekhuu.N jahaa.N
+dono:	jaaduugar \threedots
+%
+#endindian
+\endsong
+%

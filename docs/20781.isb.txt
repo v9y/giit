@@ -1,0 +1,40 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{biit gaye din bhajan binaa re}%
+\film{(Non-film)}%
+\year{1980}%
+\starring{}%
+\singer{Hemant Kumar}%
+\music{Hemant Kumar}%
+\lyrics{Kabir}%
+% 
+% Audio on: Reliance CS R1007
+% Tags: Devotional traditional bhajan
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 1 Jun 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(biit gaye din bhajan binaa re) \-4
+
+(baal avasthaa khel ga.Nvaayo) \-2
+jab jawaanii tab maan manaa re
+biit gaye din bhajan binaa re \threedots
+
+na hai kaaraN muul ga.Nvaayo
+abahu na gaI man kii tR^ishhnaa re
+biit gaye din bhajan binaa re \threedots
+
+(kahat kabiir suno bhai saadho) \-2
+paar utar gaye sa.nt janaa re 
+biit gaye din bhajan binaa re \threedots
+
+%
+#endindian
+\endsong

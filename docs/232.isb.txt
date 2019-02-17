@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ba.Dii duur se aaye hai.n, pyaar kaa tohafaa laaye hai.n}%
+\film{Samjhauta}%
+\starring{Anil Dhawan}%
+\singer{Rafi, Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Varma Malik}%
+%
+% Contributor: Sanjeev Ramabhadran (@cmu,)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rafI: ba.Dii duur se aaye hai.n, pyaar kaa tohafaa laaye hai.n
+apanaalo yaa Thukaraado, pyaar kaa tohafaa laaye hai.n 
+
+jo dilo.n ke naate hai.n, vo jo.De nahii.n jaate
+jo.D liye to \threedots phir to.De nahii.n jaate
+
+ye naate dil me.n basaaye sajaaye hai.n (pyaar kaa tohafaa \threedots)
+
+anjaane logo.n me.n koI saathii to milegaa
+koI to hogaa jo hamako samajhegaa
+ye sapanaa dil me.n sajaaye hai.n (pyaar kaa tohafaa \threedots)
+
+dono: ham yaar hai.n yaaro.n ke nibhaa de.nge yaarii
+yaarii hai hamako saarii duniyaa se pyaarii 
+apanaa to dil hai saada, phiratii hai aTal iraade
+hai jaan se pyaaraa vaadaa, vaadaa kabhii na to.De.nge
+jiitejii ham yaaro.n kaa saath naa chho.De.nge
+
+rafii: sahaare yaaro.n ke paaye hai.n   (pyaar kaa tohafaa \threedots)
+%
+#endindian
+\endsong
+%

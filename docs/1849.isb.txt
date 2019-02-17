@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{vaqt ne kiyaa, kyaa hasii.n sitam, tum rahe na tum ham rahe na ham}%
+\film{Kaagaz Ke Phool}%
+\year{1959}%
+\starring{Guru Dutt, Waheeda Rehman}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+vaqt ne kiyaa kyaa ha.nsii.n sitam
+tum rahe na tum ham rahe na ham
+vaqt ne kiyaa\threedots
+
+beqaraar dil is tarah mile
+jis tarah kabhii ham judaa na the
+tum bhii kho gae, ham bhii kho gae
+ek raah par chalake do qadam
+vaqt ne kiyaa\threedots
+
+jaae.nge kahaa.N puuchhataa nahii.n
+chal pa.De magar raastaa nahii.n
+kyaa talaash hai kuchh pataa nahii.n
+bun rahe hai.n dil Kvaab dam\-ba\-dam
+vaqt ne kiyaa\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{apanaa to zamaane me.n itanaa hii fasaanaa hai}%
+\film{Nayaa Andaaz}%
+\year{1956}%
+\starring{Kishore Kumar, Meena Kumari}%
+\singer{Kishor}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10537 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+apanaa to zamaane me.n itanaa hii fasaanaa hai
+kuchh ham bhii diivaane hai.n kuchh dil bhii diivaanaa hai
+
+hamase to ko_ii puuchhe vo mast nazar kyaa hai \-2
+jiine kaa sahaaraa hai marane kaa bahaanaa hai
+kuchh ham bhii diivaane \threedots
+
+bhuule se kabhii hamane qaatil na kahaa unako
+dil jinakii adaa_o.n kaa Kaamosh nishaanaa hai
+apanaa to zamaane \threedots
+
+ye raaz hai ulfat kaa duniyaa ise kyaa jaane
+nazaro.n kaa churaanaa hii nazaro.n kaa milaanaa hai
+apanaa to zamaane \threedots
+
+ma.nzil kahaa.N hai ai dil ham ishq ke maaro.n kii
+ham jaa ke jahaa.N baiThe vahii.n apanaa Thikaanaa hai
+apanaa to zamaane \threedots
+%
+#endindian
+\endsong
+

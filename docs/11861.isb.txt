@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{iiT kii dukkii paan kaa ikkaa ... suno jii ye kalakattaa hai}%
+\film{Howrah Bridge}%
+\year{1958}%
+\starring{Ashok Kumar, Madhubala, K N Singh}%
+\singer{Rafi, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10523 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+iiT kii dukkii paan kaa ikkaa
+kahii.n jokar kahii.n sattaa hai
+suno jii ye kalakattaa hai
+
+Taalii ga.nj kii jhiil pe baabuu aa_e ruup ke daas
+jhiil kinaare ba.Dhatii jaa_e matavaalo.n kii pyaas
+naa ##pocket## me.n maal hai baabuu
+naa kapa.Daa naa lattaa hai
+suno jii ye kalakattaa \threedots
+
+chaura.ngii ke chauk me.n dekho matavaale ba.ngaalii
+rasagulle sii miiThii baate.n inakii shaan niraalii
+kahii benarjii kahii.n mukarjii
+kahii.n ghoSh kahii.n dattaa hai
+suno jii ye kalakattaa \threedots
+
+ye bastii hai aag kaa dariyaa isame.n haava.Daa pul hai
+apanii jaan bachaa lo baabuu varanaa Dibbaa gul hai
+sar par paa.Nv rakh kar bhaago kaTane vaalaa pattaa hai
+suno jii ye kalakattaa \threedots
+%
+#endindian
+\endsong
+

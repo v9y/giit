@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tujhe pyaar karate karate terii nii.nd tak u.Daa duu.n}%
+\film{Naajaayaz}%
+\year{1995}%
+\starring{Naseeruddin, Juhi, Ajay Devgan, Deepak Tijori, Reema Lagu, Ashish Vidyarthi}%
+\singer{Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhe pyaar karate karate terii nii.nd tak u.Daa duu.n
+aa_uu.n jo apanii zid pe tujhe kyaa se kyaa banaa duu.n
+tujhe pyaar karate karate \threedots
+
+tuu hii ye bandagii hai tuu hii merii aaratii hai
+mujhe kyaa garaz ki duniyaa mujhe kyaa pukaaratii hai
+tujhe zi.ndagii na_ii duu.n tujhe naam bhii nayaa duu.n
+aa_uu.n jo apanii zid pe \threedots
+
+vo khushii kii roshanii ho yaa vo Gam kaa ho a.ndheraa
+jo nasiib hogaa teraa vo nasiib hogaa meraa
+mere haatho.n kii lakiire.n tere haath pe sajaa duu.n 
+aa_uu.n jo apanii zid pe \threedots
+%
+#endindian
+\endsong
+

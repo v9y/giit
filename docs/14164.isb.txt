@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{kahaa.N jaa rahaa hai tuu ai jaane vaale}%
+\film{Seema}%
+\year{1955}%
+\starring{Nutan, Balraj Sahni, Shobha Khote, Sundar}%
+\singer{Rafi}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10824 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Shobha Khote
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+kahaa.N jaa rahaa hai tuu ai jaane vaale \-2
+a.Ndheraa hai man kaa diyaa to jalaa le
+kahaa.N jaa rahaa hai \threedots
+
+ye jiivan safar ek a.ndhaa safar hai \-2
+bahakanaa hai mumakin bhaTakane kaa Dar hai \-2
+sa.mbhalataa nahii.n dil kisii ke sa.mbhaale
+kahaa.N jaa rahaa hai \threedots
+
+jo Thokar na khaa_e nahii.n jiit usakii
+jo gir ke sa.mbhal jaa_e hai jiit usakii
+nishaa.N ma.nzilo.n ke ye pairo.n ke chhaale
+kahaa.N jaa rahaa hai \threedots
+
+kabhii ye bhii sochaa ki ma.nzil kahaa.N hai \-2
+ba.De se jahaa.N me.n ( teraa ghar kahaa.n hai ) \-2
+jo baa.Ndhe the ba.ndhan vo kyo.n to.D Daale
+kahaa.N jaa rahaa hai \threedots
+%
+#endindian
+\endsong
+

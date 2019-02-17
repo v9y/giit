@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ham tum se muhabbat kar ke sanam, duniyaa kaa fasaanaa bhuul gaye}%
+\film{Wahan Ke Log}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{C Ramchandra}%
+\lyrics{Shakeel}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ham tum se muhabbat kar ke sanam, duniyaa kaa fasaanaa bhuul gaye
+aa.Nkho.n se terii ek jaam piyaa phir hosh me.n aanaa bhuul gaye
+
+jab dekh lii terii mast nazar maikhaane kaa rastaa chho.D diyaa
+zulfo.n pe terii jab aa.Nkh pa.Dii, saavan kaa zamaanaa bhuul gaye
+aa.Nkho.n se terii   \threedots
+
+ai husn terii ulfat ne hame.n pahu.Nchaa diyaa aisii ma.nzil pe
+kadamo.n pe tere ek sajadaa kiyaa, phir sar ko uThaanaa bhuul gaye
+aa.Nkho.n se terii   \threedots
+%
+#endindian
+\endsong
+%

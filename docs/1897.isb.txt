@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ye dil tum bin kahii.n lagataa nahii.n, ham kyaa kare.n}%
+\film{Izzat}%
+\year{1963}%
+\starring{Dharmendra, Jaylalita, Tanuja, David, Lalita Pawar}%
+\singer{Lata, Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Sahir}%
+%
+% Contributor: Prince Kohli (pkohli@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+lataa: ye dil tum bin, kahii.n lagataa nahii.n, ham kyaa kare.n
+ye dil tum bin, kahii.n lagataa nahii.n, ham kyaa kare.n
+tasavvur me.n koI basataa nahii.n, ham kyaa kare.n
+tumhii kah do, ab ai jaanevafaa, ham kyaa kare.n
+
+rafI: luTe dil me.n diyaa jalataa nahii.n, ham kyaa kare.n
+tumhI kah do, ab ai jaane\-adaa, ham kyaa kare.n
+
+lataa: ye dil tum bin, kahii.n lagataa nahii.n, ham kyaa kare.n
+
+kisii ke dil me.n bas ke dil ko, ta.Dapaanaa nahI.n achchhaa \- 2
+nigaaho.n ko chhalakate dekh ke chhup jaanaa nahii.n achchhaa,
+ummIdo.n ke khile gulashan ko, jhulasaanaa nahii.n achchhaa
+hame.n tum bin, koI ja.nchataa nahii.n, ham kyaa kare.n,
+tumhI kah do, ab ai jaanevafaa, ham kyaa kare.n
+
+rafI: luTe dil me.n diyaa jalataa nahii.n, ham kyaa kare.n
+
+muhabbat kar to le.n lekin, muhabbat raas aaye bhI \- 2
+dilo.n ko bojh lagate hai.n, kabhI zulfo.n ke saaye bhI
+hazaaro.n Gam hai.n is duniyaa me.n, apane bhI paraaye bhI
+muhabbat hI kaa Gam tanhaa nahii.n, ham kyaa kare.n
+tumhI kah do, ab ai jaane\-adaa, ham kyaa kare.n
+
+lataa: ye dil tum bin, kahii.n lagataa nahii.n, ham kyaa kare.n
+
+bujhaa do aag dil kI, yaa ise khul kar havaa de do \- 2
+rafI: jo isakaa mol de paaye, use apanI vafaa de do
+lataa: tumhaare dil me.n kyaa hai bas, hame.n itanaa pataa de do,
+ke ab tanhaa safar kaTataa nahii.n, ham kyaa kare.n
+rafI: luTe dil me.n diyaa jalataa nahii.n, ham kyaa kare.n
+lataa: ye dil tum bin, kahI.n lagataa nahii.n, ham kyaa kare.n
+%
+#endindian
+\endsong
+%

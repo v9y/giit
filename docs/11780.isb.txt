@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kaun hai vo mere khvaabo.n me.n aa_e jo}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Udit Narayan, Hema Sardesai/ Anuradha Paudwal, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaun hai vo kaun hai vo
+kaun hai vo mere khvaabo.n me.n aa_e jo merii nii.nde.n churaa_e jo
+merii dha.Dakan ba.Dhaa_e jo kaun hai vo kaun hai vo
+
+terii talaash huu.N mai.n sanam teraa pyaar huu.N
+aa ke gale lagaa le teraa i.ntazaar huu.N
+o kaun hai vo \threedots
+
+aa.Nkho.n me.n saa.Nso.n me.n kyaa har shay me.n shaamil vahii
+aa_e kabhii saamane ab hai tamannaa yahii
+dekh to dilarubaa mai.n tere paas huu.N
+lab mere chuum le mai.n terii pyaas huu.N
+
+aa kaun hai vo merii yaado.n pe chhaa_e jo mujhe dil me.n basaa_e jo
+mujhe paagal banaa_e jo kaun hai vo kaun hai vo
+
+phuulo.n pe bikhare hu_e ra.ngo ke jaisaa hai vo
+ko_ii bataa de mujhe naa jaane kaisaa hai vo
+mai.n teraa ra.ng huu.N tuu meraa aa_iinaa
+kuchh nahii.n kuchh nahii.n ab mai.n tere binaa
+
+o kaun hai vo chhup chhup ke bulaa_e jo tan man me.n samaa_e jo
+ko_ii jaaduu jagaa_e jo kaun hai vo kaun hai vo
+%
+#endindian
+\endsong
+

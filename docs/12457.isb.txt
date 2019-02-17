@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{suuraj kab duur gagan se ... ye bandhan to pyaar kaa bandhan hai}%
+\film{Karan Arjun}%
+\year{1994}%
+\starring{Rakhi, Shahrukh Khan, Kajol, Salman Khan, Mamata Kulkarni}%
+\singer{Kumar Sanu, Udit Narayan, Alka Yagnik}%
+\music{Rajesh Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	suuraj kab duur gagan se cha.ndaa kab duur kiran se
+	Kushbuu kab duur pavan se kab duur bahaar chaman se
+a \:	ye bandhan to pyaar kaa bandhan hai janamo.n kaa sa.ngam hai
+u \:	ye bandhan to \threedots
+a \:	suuraj kab duur \threedots
+u \:	Kushbuu kab duur \threedots
+a \:	ye bandhan to \threedots
+
+a \:	tum hii mere jiivan ho tumhe.n dekh dekh jii luu.ngii \-2
+	mai.n to tumhaarii khaatir duniyaa kaa zahar pii luu.ngii
+ku \:	tere paavan charaNo.n me.n aakaash jhukaa de.nge ham
+	terii raaho.n me.n jo shole ho.n to khud ko bichhaa de.nge ham
+a \:	ye bandhan to \threedots
+u \:	ye bandhan to \threedots
+
+	mamataa ke ma.ndir kii hai tuu sabase pyaarii muurat \-2
+	bhagavaan nazar aataa hai jab dekhe.n terii suurat
+ku \:	jab jab duniyaa me.n aa_e.n teraa hii aa.Nchal paa_e.n
+	janmo.n kii diivaaro.n par ham pyaar apanaa likh jaa_e.n
+a \:	ye bandhan to \threedots
+u \:	ye bandhan to \threedots
+a \:	suuraj kab duur \threedots
+tiino.n \:	ye bandhan to \threedots
+%
+#endindian
+\endsong

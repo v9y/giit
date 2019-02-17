@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{aa jaao ta.Dapate hai.n aramaa.N, ab raat guzarane vaalii hai}%
+\film{Aawaara}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis, Prithviraj Kapoor}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Urzung Khan
+%
+\printtitle
+#indian
+%
+aa jaao ta.Dapate hai.n aramaa.N, ab raat guzarane vaalii hai
+ab raat guzarane vaalii hai
+mai.n ro_uu.N yahaa.N tum chup ho vahaa.N
+ab raat guzarane vaalii hai \- 2
+aa jaao \threedots
+
+o \threedots chaa.Nd kii ra.ngat u.Dane lagii
+lo taaro.n ke dil ab Duub gae, Duub gae
+hai dard bharaa bechain samaa.n, ab raat guzarane vaalii hai
+ab raat guzarane vaalii hai
+
+ik chaa.Nd ke Dole me.n aayii nazar
+ye chaa.Nd kii dulhan chal dii kidhar, chal dii kidhar
+aavaaz to do khoye ho kahaa.N, ab raat guzarane vaalii hai 
+ab raat guzarane vaalii hai 
+
+ghabaraa ke nazar bhii haar gayii
+taqadiir ko bhii nii.nd aane lagii, nii.nd aane lagii
+tum aate nahii.n, mai.n jaa_uu.N kahaa.N, ab raat guzarane vaalii hai 
+ab raat guzarane vaalii hai 
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{kyaa ye hii jawaanii hai}%
+\film{Chand}%
+\year{1944}%
+\starring{Begum Para, Prem Adeeb, Sitara, Sapru}%
+\singer{Zeenat Begum}%
+\music{Husnalal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12003 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+o
+kyaa ye hii jawaanii hai \-2
+har din hai nikharaa hu_aa \-2
+har raat suhaanii hai \-2
+kyaa ye hii jawaanii hai \-2
+
+mai.n Gairo.n se kyuu.N puuchhuu.N
+( mai.n Gairo.n se kyuu.N puuchhuu.N
+mai.n apano.n se kyuu.N puuchhuu.N ) \-2
+aa_iinaa jo kahaa hai \-2
+tuu husn kii raanii hai \-2
+kyaa ye hii jawaanii hai \-2
+
+( kyaa kahuu.N ke kaun aa kar
+kyaa kahuu.N ke kaun aa kar
+sapano.n me.n bulaataa hai ) \-2
+khulate hii merii aa.Nkhe.n \-2
+jaane kahaa.N jaataa hai \-2
+ye merii kahaanii hai \-2
+kyaa ye hii jawaanii hai \-2
+
+jaate huye bachapan se
+( jaate huye bachapan se
+aate huye jauvan se ) \-2
+dono.n se mai.n kahatii huu.N \-2
+ye dil kii na_ii hai duniyaa \-2
+ab kaise basaanii hai \-2
+kyaa ye hii jawaanii hai \-2
+%
+#endindian
+\endsong
+

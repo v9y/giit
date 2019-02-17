@@ -1,0 +1,64 @@
+
+%
+\startsong
+\stitle{shaalaa jawaaniyaa.N maaNe.N}%
+\film{Gul-E-Bakawali (Punjabi-Film)}%
+\year{1939}%
+\starring{Salim Raza, Hem Lata, Suraiya Jabeen, Baby Noorjehan}%
+\singer{Noorjehan}%
+\music{Ghulam Haider}%
+\lyrics{Wali Sahab}%
+%
+% Contributor: BOL ANAMOL #12140 [V S Rawat]
+% Credits: Urzung Khan
+%
+% First song sung by Noorjehan
+% There are 7 Gul Bakaawali listed in hfgk upto 1987, but none in Punjabi in year 1939
+%
+\printtitle
+#indian
+%
+% maaNe is used for cat/billii in Punjabi
+%
+( shaalaa jawaaniyaa.N maaNe.N
+shaalaa jawaaniyaa.N maaNe.N
+akhaa naa mo.Dii.n pii lai
+akhaa naa mo.Dii.n pii lai pii lai ) \-2
+shaalaa jawaaniyaa.N maaNe.N
+
+%
+% aakhaa = what has been said/requested/ordered.
+% na mo.Dii.n = do not turn down
+%
+
+( akhiyaa.N wich akhiyaa.N paa ke
+taubaa nuu.N phaa_ii laa ke ) \-2
+pighalii hu_ii jannat pii jaa \-2
+kaliyaa.N dii asamat pii jaa \-2
+jii lai do\-chaar dihaa.De jii lai
+jii lai do\-chaar dihaa.De jii lai jii lai
+shaalaa jawaaniyaa.N maaNe.N
+
+% phaa_ii=paaNsii
+
+shaalaa jawaaniyaa.N maaNe.N
+akhaa naa mo.Dii.n pii lai
+akhaa naa mo.Dii.n pii lai pii lai
+shaalaa jawaaniyaa.N maaNe.N
+
+( pagale mu.Nh\-zor jawaanii
+mu.D\-mu.D ke hath na_ii.n aanii ) \-2
+saaqii to.N pha.D paimaanaa \-2
+pii lai saramast zawaanaa
+jii lai do\-chaar dihaa.De jii lai
+jii lai do\-chaar dihaa.De jii lai jii lai
+shaalaa jawaaniyaa.N maaNe.N
+
+shaalaa jawaaniyaa.N maaNe.N
+akhaa naa mo.Dii.n pii lai
+akhaa naa mo.Dii.n pii lai pii lai
+shaalaa jawaaniyaa.N maaNe.N
+%
+#endindian
+\endsong
+%

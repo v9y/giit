@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{jaanuu.N merii jaa.n, mai.n tere qurbaa.n}%
+\film{Shaan}%
+\year{1980}%
+\starring{Amitabh, Shashi Kapoor, Parveen Babi, Bindiya Goswami, Sunil Dutt, Kulbhushan}%
+\singer{Rafi, Kishore, Asha, Usha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Tue Jan 23 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+jaanuu.N merii jaan, mai.n tere qurbaan
+are, mai.n teraa tuu merii jaane saaraa hi.ndustaan
+
+nazaro.n se na tol mujhe, dil se kaam le
+tuu jisakaa vo tere bin kyo.n kisiikaa naam le
+jaanuu.N merii jaan \threedots
+
+chhoTii sii ik baat bane, baat se daastaan
+chho.Dake sab baate.n ha.Nsate hai.n, vohii pyaar kii shaan
+jaanuu merii jaa.n \threedots
+
+Gusse se hai pyaar ba.Daa, pyaar se aitabaar
+jab aa jaae aa jaanaa, mai.n karuu.Ngaa i.ntazaar
+jaanuu merii jaa.n \threedots
+
+jaanuu.N merii jaan, mai.n tere qurbaan
+mai.n terii tuu meraa jaane saaraa hi.ndustaan
+%
+#endindian
+\endsong
+%

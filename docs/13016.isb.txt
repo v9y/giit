@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{mai.n bha.Nvaraa tuu hai phuul ye din mat bhuul}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Mukesh, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10641 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	mai.n bha.Nvaraa tuu hai phuul ye din mat bhuul
+	javaanii lauT ke aa_e naa
+sha \:	man gaa_e tere giit basaa kar priit
+	mohe kuchh tujh bin bhaa_e naa
+
+mu \:	tuu suuraj mai.n ujiyaaraa
+	hai ab jiivan bhar kaa mel
+	suno jii priit nahii.n hai khel
+sha \:	yah jiivan mujhako pyaaraa
+	ji_uu.N mai.n duniyaa ke dukh jhel
+	o priitam aag se kheluu.N khel
+mu \:	is dil kii hai dil se laag khule hai.n bhaag
+	ye duniyaa hamako sataa_e naa
+do \:	mai.n bha.Nvaraa tuu hai \threedots
+
+sha \:	tuu meraa hai mai.n terii
+	saajan mai.n raadhaa tuu shyaam
+	japuu.N mai.n haradam teraa naam
+mu \:	mai.n teraa huu.N tuu merii
+	chale.nge priit kaa daaman thaam
+	hame.n duniyaa se nahii.n hai kaam
+sha \:	bedard hai yah sa.nsaar chale.n us paar
+	jahaa.N dukh bhuul ke jaa_e naa
+do \:	mai.n bha.Nvaraa tuu hai \threedots
+%
+#endindian
+\endsong
+

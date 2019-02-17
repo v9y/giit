@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{arjun hai tuu ye teraa kuruxetra hai ... teraa karm hii shastr hai}%
+\film{Kurukshetra}%
+\year{2000}%
+\starring{Sanjay Dutt, Mahima Chaudhari}%
+\singer{Ravindra Sathe, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuruxetra
+arjun hai tuu ye teraa kuruxetra hai
+teraa karm hii shastr hai
+rukanaa nahii.n ba.Dhataa chal ba.Dhataa chal
+kuruxetra \threedots
+
+Dar ke jiinaa nahii.n sar jhukaanaa nahii.n
+mushkil hai ma.nzil magar rukanaa nahii.n haar kar
+tere aage piichhe hogaa ye jahaa.n
+yoddhaa hai tuu ye teraa kuruxetra hai
+teraa karm hii \threedots
+
+shakti apanii ba.Dhaa kar ke tuu kuchh dikhaa
+kal kii chi.ntaa na kar bas apanaa tuu karm kar
+giitaa kaa bhii yahii upadesh hai
+yugaa.ndhar hai tuu ye teraa kuruxetra hai
+teraa karm hii \threedots
+
+sach tere saath hai ja.ng kii raat hai
+hai aatmaa saarathii hai ye gha.Dii vaar kii
+ho jaa_e na dropadii kaa chiiraharaN
+kR^iShNa hai tuu ye teraa kuruxetra hai
+teraa karm hii \threedots
+
+yadaa yadaa hi dharmasya glaanirbhavati bhaarat
+abhyutthaanamadharmasya tadaatmaana.m sR^ijaamyaham
+paritraaNaay saadhunaam vinaaShaay cha duShkR^itaam
+dharm sa.nsthaapanaarthaay sa.mbhavaami yuge yuge
+%
+#endindian
+\endsong
+

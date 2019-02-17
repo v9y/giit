@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{meraa pyaar vo hai ke, mar kar bhii tum ko}%
+\film{Ye Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Biswajeet, Sharmila Tagore, Mumtaz}%
+\singer{Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+merA pyAr vo hai ke, mar kar bhI tum ko ##(slow)##
+judA apanI bAho.n se hone na degA 
+merA pyAr vo  hai ke, mar kar bhI tum ko
+judA apanI bAho.n se hone na degA 
+milI mujhako jannat to jannat ke badale
+khudA se merI jA.n tumhe.n mA.ng legA
+merA pyAr vo hai
+
+zamAnA to karavaT badalatA rahegA
+nae zindagI ke tarAne bane.nge
+miTegI na lekin muhabbat hamArI
+miTAne ke sau sau bahAne bane.nge
+haqIkat hameshA haqIkat rahegI
+kabhI bhI na isakA fasAnA banegA
+merA pyAr vo hai ke \threedots
+
+tumhe.n chhIn le merI bAho.n se koI
+merA pyAr yU.n besahArA nahI.n hai
+tumhArA badan chA.ndanI Ake chhUle
+mere dil ko ye bhI gavArA nahI.n hai
+khudA bhI agar tumase Ake milegA
+tumhArI qasam hai merA dil jalegA
+merA pyAr vo hai ke \threedots
+%
+#endindian
+\endsong
+%

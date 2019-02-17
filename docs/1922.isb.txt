@@ -1,0 +1,53 @@
+% 
+\startsong
+\stitle{ye la.Dakaa haay allaah kaisaa hai diivaanaa}%
+\film{Ham Kisise Kam Nahin}%
+\year{}%
+\starring{Rishi Kapoor, Zeenat Aman, Tariq, Kajal Kiran}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/10/1995
+% Credits: Prince Kohli <prince@viman.engr.sgi.com> 
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+%
+\printtitle
+#indian
+%
+AshA:
+(ye la.Dakaa haay allaah kaisaa hai diivaanaa
+ kitanaa mushqil hai taubaa isako samajhaanaa
+ ke dhiire\-dhiire dil beqaraar hotaa hai
+ ke hote hote hote, pyaar hotaa hai)	\-2
+
+ye la.Dakaa haay allaah \threedots
+
+(hamane to itanaa dekhaa, hamane to itanaa siikhaa
+ dil kaa saudaa hotaa hai saudaa zi.ndagii kaa) \-2
+milate hii kaise koii hotaa hai diivaanaa
+kitanaa mushqil hai taubaa isako samajhaanaa
+ke dhiire\-dhiire dil beqaraar hotaa hai
+ke hote hote hote, pyaar hotaa hai
+
+(ho sakataa hai dekho na, samajho miTTii ko sonaa
+ pal bhar kaa ha.Nsanaa ho jaae jiivan bhar kaa ronaa) \-2
+dekho jaldii me.n kabhii dilako na lagaanaa
+kitanaa mushqil hai taubaa isako samajhaanaa
+ke dhiire\-dhiire dil beqaraar hotaa hai
+ke hote hote hote, pyaar hotaa hai
+
+kishor:
+(bholii ho tum kyaa jaano, ab bhii mujhako pahachaano
+ sapanaa tumhaaraa mai.n huu.N, maano yaa na maano) \-2
+dekho naadaanii se mujhe na Thukaraanaa
+nahii.n to gaatii hii rahogii ye taraanaa
+ke dhiire\-dhiire dil beqaraar hotaa hai
+ke hote hote hote, pyaar hotaa hai
+%
+#endindian
+\endsong
+%
+

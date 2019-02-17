@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{aap agar aap na hote to bhalaa kyaa hote}%
+\film{Griha Pravesh}%
+\year{1979}%
+\starring{Sanjeev Kumar, Sharmila, Sarika}%
+\singer{Sulakshna Pandit}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Header Info: Pradeep Dubey (pradeep@watson.ibm.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aap agar aap na hote to bhalaa kyaa hote
+log kahate hai.n ki patthar ke masiihaa hote
+
+sa.ngemaramar pe taraashe hue chehare pe agar
+aapake ha.Nsane kaa a.ndaaz yahI hotaa magar
+vo jo sharamaa ke jhukaa lete hai.n aap nazar
+aise sharamaane pe kyo.n na ham fidaa hote, aap agar \threedots
+
+aapake maathe pe basatI hai javaa.n shaam kaa shahar (?)
+achchhI lagatI hai hame.n aapakI peshaanI magar
+vo jo maathe pe pasInaa ubhar aatI hai magar
+aise maathe pe bhalaa kyo.n na log fidaa hote, aap agar \threedots
+%
+#endindian
+\endsong
+%

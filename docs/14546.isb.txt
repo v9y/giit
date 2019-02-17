@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ishq naa karanaa kabhii tum ishq naa karanaa}%
+\film{Waapasi Saajan Ki}%
+\year{1995}%
+\starring{Shoaib Khan, Ashwini Bhave, Shoma Sircar, Kulbhushan, Gulshan}%
+\singer{Mohammed Aziz, Chorus}%
+\music{Anand Milind}%
+\lyrics{Azad Jullundhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+balleshaah kade ishq naa kari_e ishq de khel niraale
+ishq le miTTii vich milaa_e taajaa.n takhtaa.n vaale
+
+ishq naa karanaa kabhii tum ishq naa karanaa
+ishq kii baajii ko_ii naa jiitaa sab aashiq ga_e haar
+kabhii tum ishq naa \threedots
+
+ishq me.n laakho.n dard bichho.De ishq ne laakho.n ke dil to.De
+sohaNii ne bhii jaan ga.nvaa_ii sarasii ghar vaapas naa aa_ii
+ishq kii baat kare jab ko_ii mat karanaa aitabaar ho ho
+ishq naa karanaa \threedots
+
+do raahe.n hai.n par jab aa jaa_e.n aashiq ko kuchh samajh naa aa_e
+chho.D ke raa.njhaa takht hazaaraa naukar banake kare gujaaraa
+ishq ke diivaano.n ne dhokhaa khaayaa har baar
+ishq naa karanaa \threedots
+%
+#endindian
+\endsong
+

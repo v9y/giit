@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{bhulaa nahii.n denaa, jii bhulaa nahii.n denaa}% 
+\film{Baradari}%
+\year{1955}%
+\starring{Ajeet, Geeta Bali}%
+\singer{Rafi, Lata}%
+\music{Nashad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:  
+%
+\printtitle
+#indian
+%
+bhulaa nahii.n denaa jii bhulaa nahii.n denaa
+zamaanaa kharaab hai daGaa nahii.n denaa
+
+aa.Nkho.n me.n sapane jhuum rahe.n hai.n
+giit labo.n ko chuum rahe.n hai.n
+giito.n ko aahe.n banaa nahii.n denaa
+zamaanaa kharaab hai   \threedots
+
+aa.Nkho.n me.n mastii chhaayii huii hai
+nii.nd sii mujhako aayii huii hai
+nii.nd se mujhako jagaa nahii.n denaa
+zamaanaa kharaab hai   \threedots
+
+zi.ndagii aa.Nkhe.n malane lagii hai
+shammaa sii dil me.n jalane lagii hai
+shammaa jalaa ke bujhaa nahii.n denaa
+zamaanaa kharaab hai   \threedots
+%
+#endindian
+\endsong
+%

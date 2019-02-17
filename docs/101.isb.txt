@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai}%
+\film{Ghar}%
+\year{1978}%
+\starring{Rekha, Vinod Mehra}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kishor:	aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+aapase bhii khuubasuurat aapake a.ndaaz hai.n
+aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+
+lab hile to mogare ke phuul khilate hai.n kahii.n     \- 2
+aap kii aa.Nkho.n me.n kyaa saahil bhii milate hai.n kahii.n
+aap kii khaamoshiyaa.N bhii aap kii aavaaz hai.n
+
+lataa:	aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+aap se bhii khuubasuurat aapake a.ndaaz hai.n
+aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+
+aap kii baato.n me.n phir koI sharaarat to nahii.n     \- 2
+bevajah taarif karanaa aap kii aadat to nahii.n
+aap kii badamaashiyo.n ke ye naye a.ndaaz hai.n
+kishor:	aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+lataa:	aap se bhii khuubasuurat aapake a.ndaaz hai.n
+aap kii aa.Nkho.n me.n kuchh mahake hue se raaz hai
+%
+#endindian
+\endsong
+%

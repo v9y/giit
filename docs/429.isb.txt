@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{dariyaa kinaare ik ba.Ngalo go porii a_ii jo a_ii}%
+\film{Sabse Bada Rupaiyya}%
+\year{1976}%
+\starring{Vinod Mehra, Maushmi Chatterjee, Mehmood}%
+\singer{Kishore, Lata}%
+\music{Basu Manohari}%
+\lyrics{Majrooh}%
+% 
+% Contributor: 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/10/1997
+% Credits: Pradeep Dubey <pradeep@watson.ibm.com>
+%          David Anthony Windsor <daw601@leonard.anu.edu.au>
+%          Malini Kanth <MaliniX_Kanth@ccm.hf.intel.com>
+%
+\printtitle
+#indian
+%
+la: dariyA kinAre ik ba.Ngalo go porI a_I jo a_I
+ki: jAegI kahA.N ai porI
+    are, jAegI kahA.N, tere pIchhe ye porA a_I jo a_I
+la: a_I jo a_I, oT!
+    dariyA kinAre ik ba.Ngalo go porI a_I jo a_I
+
+la: mai.n jA ke khi.DakI pe baiThU.NgI solah si.ngAr kar ke
+ki: dUr se hI lalachAU.NgA kyA mai.n tujhako pukAr kar ke
+la: rahU.ngI na tere sAth, are chho.D merA hAth
+ki: jIyA me.n hai koI bAt, zabA.n pe hai koI bAt
+    kaisI tU banatI hai rI, a_I, a_I
+la: oT, dariyA kinAre \threedots
+
+ki: aisA hI ba.NgalA tere liye bA.NdhU.N to pAe jIyA chain
+la: e, kare vAdA, to bAho.n me.n jhUlU.N tere din rain
+    sadA sAth nibhAU.N, kahI.n aur na jAU.N
+ki: kabhI hAth na Ae, kabhI dil me.n samAe
+    kAhe satAtI hai rI, a_I a_I
+la: oT, dariyA kinAre \threedots
+%
+#endindian
+\endsong
+%
+

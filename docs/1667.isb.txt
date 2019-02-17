@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{tadabiir se biga.Dii hu_ii taqadiir banaa le, taqadiir banaa le}%
+\film{Baazi}%
+\year{}%
+\starring{}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Dinesh K. Prabhu (prabhu@amelia.nas.nasa.gov)
+%          Rajan P. Parrikar (parrikar@mimicad.Colorado.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(tadabiir se biga.Dii huI taqadiir banaa le, taqadiir banaa le  
+apane pe bharosaa hai to ye daa.nv lagaa le, 
+lagaa le daa.nv lagaa le ) \- 2
+
+(Darataa hai zamaane kii nigaaho.n se bhalaa kyuu.N 
+nigaaho.n se bhalaa kyuu.N ) \- 2
+insaaf tere saath hai ilazaam uThaa le, ilazaam uThaa le
+apane pe bharosaa hai.n to ye daa.nv lagaa le
+lagaa le daa.nv lagaa le
+
+(kyaa khaak vo jiinaa hai jo apane hii liye ho 
+apane hii liye ho ) \- 2
+khud miTake kisii aur ko miTane se bachaa le
+apane pe bharosaa hai.n to ye daa.nv lagaa le
+lagaa le daa.nv lagaa le
+
+TuuTe hue patavaar hai.n kashtii ke to ham kyaa
+haarii huI baaho.n ko hii patavaar banaa le, patavaar banaa le
+apane pe bharosaa hai.n to ye daa.nv lagaa le,
+lagaa le daa.nv lagaa le
+
+tadabiir se biga.Dii huI \threedots
+%
+#endindian
+\endsong
+%

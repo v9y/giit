@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tuufaa.N me.n ghirii hai.n merii taqadiir kii raahe.n}%
+\film{Shikast}%
+\year{1953}%
+\starring{Dilip Kumar, Nalini Jaywant, Durga Khote, K N Singh}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tuufaa.N me.n ghirii hai.n merii taqadiir kii raahe.n
+rotii hai.n mere haal pe saavan kii ghaTaaye.n
+tuufaa.N me.n ghirii hai.n \threedots
+
+raste pe chaluu.N kaun se dil tuu hii bataa de
+ma.nzil merii benaam hai tuu raah dikhaa de
+duniyaa me.n milii hai.n mujhe jiine kii sazaaye.n
+tuufaa.N me.n ghirii hai.n \threedots
+
+jitanii bhii hame.n paas vo ma.nzil nazar aayii
+utanii hii hame.n aur bhii mushkil nazar aayii
+ye Gam bhii pareshaan hai.n kyaa haal bataaye.n
+tuufaa.N me.n ghirii hai.n \threedots
+
+%
+#endindian
+\endsong
+%

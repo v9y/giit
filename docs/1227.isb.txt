@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{merii kahaanii bhuulane vaale teraa jahaa.N aabaad rahe}%
+\film{Deedar}%
+\year{1951}%
+\starring{Dilip Kumar, Ashok Kumar, Nargis, Nimmi}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+merii kahaanii bhuulane vaale teraa jahaa.N aabaad rahe, merii kahaanii
+terii khushii par mai.n miT jaauu.n duniyaa terii aabaad rahe
+merii kahaanii
+
+mere giit sune duniyaa ne magar
+meraa dard koI na jaan sakaa
+ek teraa sahaaraa thaa dil ko
+par tuu bhii na mujhe pahachaan sakaa
+bachapan ke vo giit puraane aaj tujhe na yaad rahe
+merii kahaanii
+
+mai.n apanaa fasaanaa kah na sakaa
+mere dil kii tamannaa dil me.n rahii
+lo aaj kinaare par aake
+aramaano.n kii kashtii Duub ga_ii
+qismat ko ma.nzuur yahii thaa lab par mere fariyaad rahe
+merii kahaanii
+%
+#endindian
+\endsong
+%

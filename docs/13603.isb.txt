@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ai merii zindagii tuu nahii.n ajanabii}%
+\film{Pyar Ka Sapna}%
+\year{1969}%
+\starring{Ashok Kumar, Mala Sinha, Bishwajit, Johny Walker, Helen, Durga Khote}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10157 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ai merii zindagii tuu nahii.n ajanabii
+	tujhako dekhaa hai pahale kabhii
+la \:	ai mere hamasafar mujhako pahachaan le
+	mai.n vo hii huu.N vo hii \-2
+
+ra \:	tuu mere paas rahakar bhii kyuu.N duur hai
+la \:	isali_eki tujhe khud ye ma.nzuur hai
+	mai.n tere paas huu.N mai.n tere saath thii
+	mai.n vo hii huu.N vo hii \threedots
+
+ra \:	dil me.n pa.Datii to hai.n terii parachhaa_iyaa.N \-2
+	duur hotii nahii.n phir bhii tanahaa_iyaa.N \-2
+la \:	dil ke aa_iine me.n dekh le jhaa.Nk kar
+	mai.n vo hii huu.N vo hii \threedots
+
+ra \:	ai merii zindagii tuu nahii.n ajanabii
+	tuu vo hii hai jo mere Kyaalo.n me.n thii
+la \:	mai.n madiraa huu.N jo tere Kyaalo.n me.n thii
+	kaun huu.N kyaa huu.N ab to pahachaan le
+	mai.n vo hii huu.N vo hii \threedots
+%
+#endindian
+\endsong
+

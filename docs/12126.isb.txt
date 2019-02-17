@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ham nahii.n jhuumate hai.n jhuumataa hai saaraa jahaa.n}%
+\film{Jaani Dost}%
+\year{1983}%
+\starring{Dharmendra, Parveen Babi, Jeetendra, Sridevi, Amjad Khan, Asrani}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham nahii.n jhuumate hai.n jhuumataa hai saaraa jahaa.n \-2
+jhuumate jhuumate yaad aa jaa_egaa to ham chale jaa_e.nge
+kaise jaa_e.nge
+ham nahii.n jhuumate hai.n \threedots
+
+jhuum ke tum mujhako ajii dekh rahe ho kyo.n
+tuu hai hasiinaa kabhii tuu ziinat kabhii tuu rekhaa
+maine tujhame.n kyaa kyaa dekhaa ra.ng badalaa kaisaa kaisaa
+dekhe bahut se javaa.n tujhasaa ko_ii nahii.n hasii.n
+tuu to hai kamal haasan naachegaa tuu ##show man## amitaabh jaisaa
+la.Daa_ii band karo ghar chalo
+ghar kidhar hai ghar
+jhuumate jhuumate yaad aa jaa_egaa \threedots
+
+ghar ko ham bhuule yaa hame.n ghar bhuulaa
+raat kahaa.n par ham kaaTe.nge kyaa khaa_e.nge
+kyaa piye.nge soye.nge ham kahaa.n pe jaakar
+baaho.n kaa takiyaa banaa zulfo.n kii chaadar bichhaa
+aa_e ho tum pyaar nibhaane pyaar hii piine pyaar hii khaane
+sapane.n dekhe.n mil kar yahii.n isii sa.Dak par 
+nahii.n nahii.n nahii.n
+jhuumate jhuumate yaad aa jaa_egaa \threedots
+%
+#endindian
+\endsong
+
+

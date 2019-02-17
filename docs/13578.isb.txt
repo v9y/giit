@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{tumhe.n zindagii ke ujaale mubaarak a.ndhere hame.n}%
+\film{Purnima}%
+\year{1965}%
+\starring{Dharmendra, Meena Kumari, Anita Guha, Mehmood}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10982 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+tumhe.n zindagii ke ujaale mubaarak
+a.ndhere hame.n aaj raas aa ga_e hai.n
+tumhe.n paa ke ham Kud se duur ho ga_e the
+tumhe.n chho.Dakar apane paas aa ga_e hai.n
+tumhe.n zindagii ke \threedots
+
+tumhaarii vafaa se shiqaayat nahii.n hai
+nibhaanaa to ko_ii ravaayat nahii.n hai
+jahaa.N tak qadam aaa sake aa ga_e hai.n
+a.ndhere hame.n aaj \threedots
+
+chaman se chale hai.n ye ilzaam lekar
+bahut jii li_e ham teraa naam lekar
+muraado.n kii ma.nzil se duur aa ga_e hai.n
+a.ndhere hame.n aaj \threedots
+%
+#endindian
+\endsong
+

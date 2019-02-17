@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ishq kyaa hai ishq ibaadat ishq hai iimaa.n}%
+\film{Taajmahal}%
+\year{2001}%
+\starring{Raghu Nair, Poornima}%
+\singer{Jagjit Singh}%
+\music{Santosh Nair}%
+\lyrics{Rajesh Johari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq kyaa hai ishq ibaadat ishq hai iimaa.n
+ishq jagaa_e patthar me.n bhii dil me.n ho jaise aramaa.n
+ishq me.n maranaa ishq me.n jiinaa
+ishq kaa daaman chho.D kabhii naa
+ishq kyaa hai \threedots
+
+ishq ko jisane jaan liyaa hai
+usane rab ko maan liyaa hai
+ishq me.n khushiyo.n kaa mausam hai
+ishq me.n aa.Nsuu ishq me.n Gam hai
+ishq me.n jo bhii khoyaa kho detaa apanii pahachaan
+ishq kyaa hai \threedots
+
+ishq safar hai ishq musaafir
+ishq chhipaa hai ishq hai zaahir
+ishq Gazal hai ishq taraanaa
+ishq kaa jaaduu sadiyo.n puraanaa
+ishq me.n gul khilate hai.n yaa dil ho jaate viiraa.n
+ishq kyaa hai \threedots
+%
+#endindian
+\endsong
+

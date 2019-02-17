@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Gazab kiyaa tere waade pe ... sautan ghar na jaa}%
+\film{Waaris}%
+\year{1954}%
+\starring{Talat, Suraiya}%
+\singer{Rajkumari}%
+\music{Anil Biswas}%
+\lyrics{Qamar Jalalabadi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+Gazab kiyaa tere waade pe aitabaar kiyaa
+tamaam raat qayaamat kaa i.ntazaar kiyaa
+
+sautan ghar na jaa o more saiyaa.N \-2
+sautan ghar na jaa bairan ghar na jaa o more saiyaa.N
+sautan ghar na jaa o more saiyaa.N
+
+Kabar na thii ke hame.n ashqabaar kar doge
+hamaarii Kushiyaa.N kisii par nisaar kar doge
+to.D ke meraa pyaar kaa sapanaa \-2
+na jaa pa.Duu.N mai.n tore pa_iyaa.N o more saiyaa.N \-2
+sautan ghar na jaa bairan ghar na jaa o more saiyaa.N
+
+% the version I heard ends here abruptly
+
+#endindian
+\endsong

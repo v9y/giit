@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{laharo.n kii tarah yaade.n}% 
+\film{Nishaan}%
+\year{1983}%
+\starring{Jeetendra, Sridevi?}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+laharo.n ki tarah yaade.n, dil se Takaraatii hai.n
+tUphAn uThaatii hai.n 
+laharo.n \threedots
+
+(kismat me.n hai ghor a.ndhere,
+raate.n sulagatii, dhu.ndhale savere) \- 2
+laharo.n \threedots
+
+ho ho ho oho oho ho 
+
+(takate takate suunii raahe.n 
+paTharaa gayii.n hai.n ab to nigaahe.n) \- 2
+laharo.n \threedots
+
+(baraso.n se dil pe bojh uThaaye 
+DhU.NDh rahaa huu.N pyaar ke saaye) \- 2
+laharo.n \threedots
+%
+#endindian
+\endsong
+%

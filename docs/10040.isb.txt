@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujh ko nii.nd aa rahii hai sone do}%
+\film{Ajnabee}%
+\year{2002}%
+\starring{Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+e e e e ii e la la la la laa
+o sone do sone do sone do sone do sone do
+mujh ko nii.nd aa rahii hai sone do
+dil kah rahaa hai kuchh hone do
+haa.n mujh ko nii.nd \threedots
+kuchh hone do hone do hone do hone do hone do
+mujh ko nii.nd \threedots
+
+ajiib haal hai kyuu.N jii
+teraa khyaal hai uu huu.n
+machal rahaa hai dil chho.Do jii
+sulag rahii hai jaa.n jaa_o jii
+aaj mujh ko gesu_o.n me.n khone do
+dil kah rahaa hai \threedots
+
+bujhaa duu.n battiyaa.n naa naa
+kare.nge mastiyaa.n jaa naa
+ye kaisaa dard hai saa.Nso.n me.n
+ye kaisii pyaas hai aa.Nkho.n me.n
+tum labo.n se ho.nTho.n ko bhigone do
+dil kah rahaa hai \threedots
+%
+#endindian
+\endsong
+

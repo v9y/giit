@@ -1,0 +1,83 @@
+%
+\startsong
+\stitle{##Mr. John## yaa baabaa khaan}%
+\film{Baarish}%
+\year{1957}%
+\starring{Devanand, Nutan}%
+\singer{Asha, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12079 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aa :	##Mr. John##
+	yaa baabaa khaan
+	yaa laalaa roshanadaan
+
+	( ##Mr. John##
+	baabaa khaan
+	yaa laalaa roshanadaan
+	jo ko_ii dekhe meraa jalawaa
+	ho jaaye qurabaan ) \-2
+
+ko :	yaa qurabaan \-3
+
+aa :	##Mr. John##
+	baabaa khaan
+	yaa laalaa roshanadaan
+
+	( jhuum ke barase baadal
+	mai.n jo zulfe.n apanii kholuu.N ) \-2
+	duniyaa samajhe motii barase
+	mai.n jo kuchh bhii boluu.N
+	karuu.N jo ek ishaaraa
+	jhuke zamaanaa saaraa
+	mere aage bichhate jaaye.n
+	dilawaale naadaan
+
+	##Mr. John##
+	baabaa khaan
+	yaa laalaa roshanadaan
+	jo ko_ii dekhe meraa jalawaa
+	ho jaaye qurabaan
+
+	##Mr. John##
+ko :	yaa ho ##Mr. John##
+aa :	yaa ho baabaa khaan
+ko :	yaa ho baabaa khaan
+aa :	yaa ho ##Mr. John##
+ko :	yaa ho ##Mr. John##
+aa :	yaa laalaa roshanadaan
+
+	( merii Kaatir duniyaa kyaa\-kyaa
+	bharatii hai baharuup ) \-2
+	merii nazar se par nahii.n chhupataa
+	kisii kaa asalii ruup
+	zaraa sii aa.Nkh dabaa_uu.N
+	to duniyaa ko bharamaa_uu.N
+	ek nazar me.n bech ke rakh duu.N
+	mai.n sau\-sau insaan
+
+ko :	yaa qurabaan \-4
+
+	##Mr. John##
+	baabaa khaan
+	yaa laalaa roshanadaan
+	jo ko_ii dekhe meraa jalawaa
+	ho jaaye qurabaan
+
+	##Mr. John##
+ko :	yaa ho ##Mr. John##
+aa :	yaa ho baabaa khaan
+ko :	yaa ho baabaa khaan
+aa :	yaa ho ##Mr. John##
+ko :	yaa ho ##Mr. John##
+aa :	yaa laalaa roshanadaan
+%
+#endindian
+\endsong

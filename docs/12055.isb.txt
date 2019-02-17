@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{chhamak chham chhamake a.nguurii badan}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Sapana Awasthi, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.nguurii a.nguurii a.nguurii a.nguurii
+a.nguurii o o o
+chhamak chham chhamake a.nguurii badan
+damak dam damakae a.nguurii badan
+pyaasii hai.n merii baahe.n jiyaa hai bekaraar
+ta.Dapaa na mujhe aise aake na mere yaar
+chhamak chham chhamake \threedots
+
+ko_ii pa.Daa hai mere jhumake ke piichhe
+ko_ii pa.Daa hai mere Thumake ke piichhe
+kaise chhupaa_uu.n kaise dabaa_uu.n sholaa javaanii kaa
+sahii na jaa_e mujhase birahaa kii jalan
+chhamak chham chhamake \threedots
+
+shaam savere teraa rastaa nihaaruu.n
+tanhaa akelii saarii rainaa guzaaruu.n
+kisako sunaa_uu.n kisako bataa_uu.n
+haal buraa hai dil kaa
+dard nahii.n jaane bedardii sajan
+chhamak chham chhamake \threedots
+%
+#endindian
+\endsong
+

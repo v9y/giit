@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{beTaa apanii maa.N se kabhii ruuTh bhii jaa_e}%
+\film{Gaddaar}%
+\year{1995}%
+\starring{Sunil Shetty, Harish, Sonali Bendre, Kiran Kumar, Mohan Joshi}%
+\singer{Udit Narayan, Roop Kumar Rathod}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+beTaa apanii maa.N se kabhii ruuTh bhii jaa_e
+maa.N apane beTe se kabhii ruuThatii nahii.n
+duniyaa kaa har ba.ndhan shaayad TuuT bhii jaa_e
+mamataa kii Dorii to kabhii TuuTatii nahii.n
+beTaa apanii maa.N se \threedots
+
+tuune hii sikhalaayaa mujhe muskuraanaa
+kaise kahaa.n se siikhaa tuune ruuTh jaanaa
+bhuul hu_ii hai mujhase mujhe maaf kar de
+phir naa karuu.ngii galatii i.nsaaf kar de
+beTaa apanii maa.N se \threedots
+
+maa.N kii baaho.n me.n saaraa sa.nsaar hotaa hai
+maa.N kii aa.Nkho.n me.n to bas pyaar hotaa hai
+duniyaa jalatii dhuup hai maa.N kaa aa.nchal hai chhaayaa
+vo kismat vaalaa hai jisane maa.N ko hai paayaa
+beTaa apanii maa.N se \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aa bhii jaa aa bhii jaa ai subah aa bhii jaa}%
+\film{Sur}%
+\year{2002}%
+\starring{Lucky Ali, Gauri Karnik}%
+\singer{Lucky Ali, Sunidhi Chauhan}%
+\music{M M Kreem}%
+\lyrics{Nida Fazli}%
+%
+% contributor: BOL ANAMOL #11789 [V S Rawat]
+% producer: PNC (Pritish Nandy Communications), Fish Eye Network Production
+% director: Tanuja Chandra
+% audio: Universal Music India Pvt Ltd, www. umusicindia.com
+% cassette: 6337 334 MC-B ECO-SP Stereo, Cost: Rs 50/-, CD: CDF 594, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+la \:	( aa bhii jaa aa bhii jaa ai subah aa bhii jaa \-2
+	raat ko kar vidaa dilarubaa aa bhii jaa ) \-2
+	aa bhii jaa aa bhii jaa ai subah aa bhii jaa
+	
+	mere mere dil ke paagalapan kii o siimaa kyaa hai
+	yuu.N to tuu hai merii chhaayaa tujhame.n o teraa kyaa hai
+	mai.n huu.N gagan tuu hai zamii.n adhuurii sii mere binaa
+	raat ko kar vidaa dilarubaa aa bhii jaa
+	aa bhii jaa aa bhii jaa ai subah aa bhii jaa \-2
+	
+su \:	dekhuu.N chaahe jisako kuchh\-kuchh tujhasaa dikhataa kyuu.N hai
+	jaanuu.N jaanuu.N naa mai.n teraa\-meraa rishtaa kyuu.N hai
+	kaise kahuu.N kitanaa bechain hai dil meraa tere binaa
+	raat ko kar vidaa dilarubaa aa bhii jaa
+	aa bhii jaa aa bhii jaa ai subah aa bhii jaa \-2
+%
+#endindian
+\endsong

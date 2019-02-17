@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{saa.njh Dhale gagan tale}%
+\film{Utsav}%
+\year{}%
+\starring{Shashi Kapoor, Shekhar Suman, Rekha, Neena Gupta, Amjad Khan}%
+\singer{Suresh Wadkar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Vasant Dev}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Ramesh Hariharan (hariharn@phoenix.Princeton.EDU)
+%          Raj Ganesan (cpd.tandem.com!raj)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar - still needs correct words (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+saa.njh Dhale gagan tale
+ham kitane ekaakii
+
+saa.njh Dhale gagan tale
+ham kitane ekaakii
+chho.D chale naino ko
+kiraNo.n ke paakhii
+
+path kii jaalii se jhaa.Nk rahii thii.n kaliyaa.N \- 2
+ga.ndh bharii gunagun me.n magan huI thii.n kaliyaa.N
+itane me.n Timir dasa sapane le nayano me.n
+kaliyo.n ke aa.Nsuo.n kaa koI nahii.n saathii
+chhoD chale nayano ko
+kiraNo.n ke paakhii
+saa.njh Dhale gagan tale \threedots
+
+juganuu kaa paT o.Dhe aayegii raat abhii \- 2
+nishiga.ndhaa ke sur me.n kah degii baat sabhii
+kapata hai man jaise Daalii ambavaa kii
+chho.D chale nayano ko
+kiraNo.n ke paakhii
+saa.njh Dhale gagan tale \threedots
+%
+#endindian
+\endsong
+%

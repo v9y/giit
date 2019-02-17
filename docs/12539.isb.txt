@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{jaa jaa jaa chho.D de o chhaliyaa merii gorii kala_iyaa.n}%
+\film{Kan Kan Men Bhagwan}%
+\year{1963}%
+\starring{Mahipal, Anita Guha, Ram Singh, Krishna Kumari, Kammo Tripathi}%
+\singer{Mukesh, Suman}%
+\music{Shivram}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10309 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+su \:	jaa jaa jaa chho.D de o chhaliyaa merii gorii kala_iyaa.n
+	phir na kabhii paas tere aa_uu.Ngii saiyaa.n chho.D kala_iyaa.n
+mu \:	aa aa aa jhuum rahii laharo.n me.n man kii talaiyaa
+	Dole re terii\-merii priit kii naiyaa \-2
+su \:	jaa jaa jaa \threedots
+
+	mai.n to bholii\-bhaalii naar tum chatur piyaa
+	baato.n\-baato.n me.n hii mohe bas me.n kar liyaa
+mu \:	aisii bholii hai piyaa ko maat kar diyaa
+	merii kaalii raat ko prabhaat kar diyaa
+su \:	terii ik nazar ne aisaa vaar kar diyaa
+	Darii re mai.n marii re mai.n haay sharamaa ga_ii mai.n
+	jaa jaa jaa \threedots
+
+	raadhikaa mai.n gorii shyaam tuu saa.Nvalaa
+	tere mere ra.ng kaa hai kyaa muqaabalaa
+mu \:	saa.Nvalii ghaTaa se puuchho shyaam kii kalaa
+	naino.n me.n kajaravaa kitanaa lag rahaa bhalaa
+su \:	hamako na chhu_o jii miiThe bol bol ke
+	Darii re mai.n marii re mai.n haay sharamaa ga_ii mai.n
+	jaa jaa jaa \threedots
+%
+#endindian
+\endsong
+

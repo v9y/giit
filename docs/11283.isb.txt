@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{gusse me.n jo nikharaa hai us husn kaa kyaa kahanaa}%
+\film{Dil Hi To Hai}%
+\year{1963}%
+\starring{Raj Kapoor, Nutan, Pran}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10495 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+gusse me.n jo nikharaa hai us husn kaa kyaa kahanaa
+kuchh der abhii hamase tum yuu.N hii Kafaa rahanaa \-2
+
+is husn ke saagar kii ik buu.Nd churaa le.n ham \-2
+in garm nigaaho.n ko siine se lagaa le.n ham \-2
+( pal bhar isii aalam me.n ) \-2 ai jaan\-e\-adaa rahanaa
+kuchh der abhii hamase \threedots
+
+ye bahakaa hu_aa cheharaa ye bikharii hu_ii zulfe.n \-2
+ye cha.Dhatii hu_ii dha.Dakan ye ba.Dhatii hu_ii saa.Nse.n \-2
+( saamaan\-e\-kazaa ho tum ) \-2 saamaan\-e\-kazaa rahanaa
+kuchh der abhii hamase \threedots
+
+pahale bhii hasii.n thii.n tum lekin ye haqiiqat hai \-2
+vo husn musiibat thaa ye husn qayaamat hai \-2
+( auro.n se to ba.Dhakar ho ) \-2 khud ke bhii sivaa rahanaa
+kuchh der abhii hamase \threedots
+%
+#endindian
+\endsong
+

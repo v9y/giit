@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{diivaane na jaane hu_aa kyaa ... jaise hote hote pyaar ho gayaa}%
+\film{Hote Hote Pyaar Ho Gayaa}%
+\year{1999}%
+\starring{Jackie Shorff, Kajol, Atul Agnihotri, Ayesha Jhulka}%
+\singer{Alka Yagnik}%
+\music{Anand Raj Anand, Pradeep-Ejaz}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai dil diivaane ai dil diivaane ai dil diivaane
+diivaane na jaane hu_aa kyaa
+mausam suhaane suhaane na jaane hu_aa kyaa
+takaraar karate karate lagataa hai mujhako aise
+inkaar karate karate lagataa hai mujhako aise
+jaise hote hote pyaar ho gayaa
+
+pal pal ko_ii ek halachal
+mujhe kaise bechain karane lagii
+taubaa mujhe ye pataa naa chalaa
+jaane kab mai.n badalane lagii
+aage meraa man bhaage aur mai.n huu.n piichhe piichhe
+unakii mohabbat mujhako apanii taraf yuu.n khii.nche
+aakhir hote hote ho gayaa
+hote hote pyaar ho gayaa \threedots
+
+mai.n huu.n vahii meraa dil bhii vahii hai
+magar dha.Dakane.n hai.n na_ii
+karane lagii mai.n bahaaro.n se baate.n
+sitaaro.n pe chalane lagii
+aa.Nkho.n ne rishte jo.De baa.ndhii dilo.n ne Dorii
+vo ho chuke hai.n mere kahane me.n kyaa hai chorii
+hote hote pyaar ho gayaa \threedots
+aur hote hote pyaar ho gayaa \threedots
+%
+#endindian
+\endsong
+

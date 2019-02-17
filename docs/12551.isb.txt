@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{ham bolegaa to bologe ke bolataa hai}%
+\film{Kasauti}%
+\year{1974}%
+\starring{Amitabh Bachchan, Hema Malini, Pran, Sonia Sahni}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11236 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ham bolegaa to bologe ke bolataa hai \-2
+
+ek memasaab hai saath me.n saab bhii hai
+memasaab sundar\-sundar hai saab bhii khuubasuurat hai
+dono.n paas\-paas hai.n baate.n khaas\-khaas hai.n
+duniyaa chaahe kuchh bhii bole bole
+duniyaa chaahe kuchh bhii bole
+ham kuchh nahii.n bolegaa
+ham bolegaa to \threedots
+
+hamaraa ek pa.Dosii hai naam jisakaa joshii hai \-2
+vo paas hamare aataa hai aur hamako ye samajhaataa hai
+jab do javaa.N dil mil jaa_e.Nge tab kuchh naa kuchh to hogaa
+do se chaar ho sakate hai.n aaTh se saaTh ho sakate hai.n
+jo karataa hai so paataa hai are apane baap kaa kyaa jaataa hai
+joshii pa.Dosii kuchh bhii bole bole
+joshii pa.Dosii kuchh bhii bole 
+ham kuchh nahii.n bolegaa
+ham bolegaa to \threedots
+
+merii bu.Dhiyaa naanii thii lekin ba.Dii sayaanii thii
+godii me.n mujhe biThaatii thii aur sachchii baat sunaatii thii
+jab saal sataravaa.n laagegaa dil dha.Dak\-dha.Dak to karegaa
+kisii su.ndarii se nainavaa milegaa to dil khusur\-phusur bhii karegaa
+jab aag se ghii milegaa phir ghii bhii to pighalegaa
+na aag se na ghii se hamako kyaa kisii se
+naanii chaahe kuchh bhii bole
+ham kuchh nahii.n bolegaa
+ham bolegaa to \threedots
+%
+#endindian
+\endsong
+

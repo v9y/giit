@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{bhejaa hai ik gulaab kisii ne kitaab me.n}%
+\film{Shikaari}%
+\year{2000}%
+\starring{Govinda, Karisma Kapoor, Mayuri Kango, Tabu}%
+\singer{Kumar Sanu, Asha}%
+\music{Aadesh Srivastava}%
+\lyrics{Madan Pal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.N
+bhejaa hai ik gulaab kisii ne kitaab me.n
+jii chaahataa hai bhej duu.n mai.n dil javaab me.n
+bhejaa hai ik \threedots
+
+mahakaa hu_aa hai subaho talak haa.n tan badan meraa
+aa kal raat aap mil ga_e the mujhako khvaab me.n
+bhejaa hai ik \threedots
+
+Dhalane lagii hai zi.ndagii usake hii ra.ng me.n
+aisii kashish na dekhii kabhii kisii gulaab me.n
+bhejaa hai ik \threedots
+
+dha.Dakaa hai dil to isame.n nahii.n aapakaa kusuur
+ho aramaa.n machal hii jaate hai.n aksar shabaab me.n
+bhejaa hai ik \threedots
+%
+#endindian
+\endsong
+

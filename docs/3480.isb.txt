@@ -1,0 +1,41 @@
+% ITRANS SONG # 3480; Created on Jan 26, 2004
+%
+% From: Sudhir (maildrop999@yahoo.com)
+% Date: 2002-11-20 19:48:58 PST
+%
+\startsong
+\stitle{tere puujan ko bhagawaan banaa man\-mandir aaliishaan}%
+\film{Majboori/ Chhoti Bahan}%
+\year{1954}%
+\starring{Shyama, Balraj Sahni, Gope, Baby Saroj}%
+\singer{Asha, Hameeda Bano}%
+\music{Robin Chatterjii}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Sudhir, 20/11/2002
+% iTranslator: V S Rawat, 27/01/2004
+% Comments: in a version heard by Sudhir, the seconde female
+% singer may be Meena Kapoor instead of Asha
+%
+\printtitle
+#indian
+%
+tere puujan ko bhagawaan
+bana man\-mandir aaliishaan
+tere poojan \threedots
+
+kaun banaye terii muurat
+kis ne dekhii terii suurat
+chaahe jag me.n ruup hai teraa
+ham dekhe.n bhagawaan
+banaa man\-mandir aaliishaan
+
+saagar terii shaan dikhaaye
+parabat teraa dhyaan dilaaye
+kaliyo.n me.n hai Kushbuu terii
+ham dekhe.n musakaan
+banaa man\-mandir aaliishaan
+%
+#endindian
+\endsong
+%

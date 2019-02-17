@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jaan pahachaan ho}%
+\film{Gumnaam}%
+\year{1965}%
+\starring{}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+jaan pahachaan ho, jiinaa aasaan ho
+dil ko churaanevaalo.n aa.Nkh na churaao,
+naam to bataao
+jaan pahachaan ho   \threedots
+
+haay aaj kii ye shaam javaa.N
+yuu.N na chalii jaaye
+phir se na aayegii ye kisiike bulaaye
+yaa~ yaa!
+jaan pahachaan ho   \threedots
+
+bolo ye na bolo tum
+ho gaye ishaare
+siidhii siidhii choT huii dil pe hamaare
+yaa~ uu, haa haa
+jaan pahachaan ho   \threedots
+
+chup\-chup dekhaa  dekhii
+nazare.n diivaanii
+zaraa sii ye baat ban jaaye na kahaanii
+haay~ uu ah ah
+jaan pahachaan ho   \threedots
+
+%
+#endindian
+\endsong
+%

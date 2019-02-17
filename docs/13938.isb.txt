@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mujhe raat din bas mujhe chaahatii ho}%
+\film{Sangharsh}%
+\year{1999}%
+\starring{Akshay Kumar, Preity Zinta, Asutosh Rana}%
+\singer{Sonu Nigam}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe raat din bas mujhe chaahatii ho
+kaho naa kaho mujhako sab kuchh pataa hai
+haa.n karuu.n kyaa mujhe tum bataatii nahii.n ho
+chhupaatii ho mujhase ye tumhaarii khataa hai
+haa.n mujhe raat din \threedots
+
+merii bekaraarii ko had se ba.Dhaanaa
+tumhe.n khuub aataa hai baate.n banaanaa
+nigaahe.n milaake yuu.n meraa chain lenaa
+sataake mohabbat me.n yuu.n dard denaa
+mujhe dekhake aise palake.n jhukaanaa
+sharaarat nahii.n hai to phir aur kyaa hai
+haa.n mujhe raat din \threedots
+
+tumhe.n nii.nd aa_egii ab naa mere bin
+mujhe hai yakii.n aisaa aa_egaa ik din
+khulii terii zulfo.n me.n soyaa rahuu.Ngaa
+tere hii khyaalo.n me.n khoyaa rahuu.ngaa
+kabhii gaur se merii aa.Nkho.n me.n dekho
+merii jaa.n tumhaaraa hii cheharaa chhupaa hai
+haa.n mujhe raat din \threedots
+%
+#endindian
+\endsong
+

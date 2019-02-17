@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{kR^iShNaa ##you are the greatest musician of the world##}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko \:	kR^iShNaa kR^iShNaa kR^iShNaa
+	kR^iShNaa hare kR^iShNaa
+	kR^iShNaa raadhe kR^iShNaa
+ku \:	o kR^iShNaa ##you are the greatest musician of this world##
+	o kR^iShNaa kyuu.n vaadaa de ke ##refusion of the world##
+
+a \:	baa.Nsurii se tuune prem sandeshaa diyaa hai mohanaa
+
+ku \:	tuune jo bhii giit sunaayaa giitaa ban ke jag pe chhaayaa
+	GYaan kaa man me.n diip jalaayaa
+	tuune hii sab ko lubhaayaa aur sab ko nachaayaa
+a \:	pyaar ko tuune kiyaa hai paavan har insaa.n ko diyaa hai jiivan
+	har aa.ngan me.n raadhaa mohan
+	tuune hii jag ko amar sa.ngiit sunaayaa
+%
+#endindian
+\endsong
+

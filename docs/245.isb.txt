@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{baar baar dekho, hazaar baar dekho, ke dekhane kii chiiz hai}%
+\film{China Town}%
+\year{1962}%
+\starring{Shammi Kapoor, Shakeela, Helen, Madan Puri}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@exa.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+%          Ikram Ahmad Khan (i-khan@tamu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+baar baar dekho,  hazaar baar dekho
+ke dekhane kii chiiz hai,  hamaaraa dilarubaa,  Taalii ho
+Taalii ho,  Taalii ho
+
+(haa.N jii haa.N,  aur bhii ho.nge diladaar yahaa.N
+laakho.n dilo.n kii bahaar yahaa.N 
+par ye baat kahaa.N  )   \- 2
+ye bemisaal husn, laajavaab ye aadaa,  Taalii ho
+Taalii ho,  Taalii ho
+
+(dil milaa, ek jaan\-e\-mahafil milaa 
+yaa chiraaG\-e\-ma.nzil milaa 
+ye na puuchho ke kahaa.N  )    \- 2
+nayaa nayaa ye aashiqii kaa raaz hai merA,  Taalii ho
+Taalii ho,  Taalii ho
+
+(balle balle, uThake misTar kyo.n chale 
+pyaar pe mere kaho kyo.n jale 
+baiTh bhii jaao meharabaa.N  )      \- 2
+duaa karo mile tumhe.n bhii aisaa dilarubaa,  Taalii ho
+Taalii ho,  Taalii ho
+%
+#endindian
+\endsong
+%

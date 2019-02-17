@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{biivii hai chiiz sajaavaT kii ... balle balle o yaaraa balle balle}%
+\film{Mother '98}%
+\year{1998}%
+\starring{Rekha, Jeetendra, Randhir Kapoor, Sanober Kabir, Rakesh Roshan}%
+\singer{Altaf Raja, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+biivii hai chiiz sajaavaT kii
+balle balle o yaaraa balle balle
+biivii se ghar ko sajaate hai.n
+balle balle o yaaraa balle balle
+sautan kaa shauq puraanaa hai sautan ko sar pe biThaate hai.n
+bharatii nahii.n niiyat sautan se sautan kii sautan laate hai.n
+balle balle o yaaraa balle balle
+biivii hai chiiz \threedots
+
+o jise duniyaa sautan kahatii hai vo do na.mbar kaa khaataa hai
+balle balle o yaaraa balle balle
+jise kaale dhan kii tarah sabakii nazaro.n se chhupaayaa jaataa hai
+biivii hai chiiz \threedots
+
+o_e shiyaa laahuu shiyuu o_e shiyaa laahuu
+har roz na_e kapa.Do.n kii tarah badale hai sahelii saajan kii
+balle balle o yaaraa balle balle
+o ik tan se kahaa.n man maanataa hai karate hai.n chaahat sau tan kii
+par sautan ko bhii khabar kahaa.n
+balle balle o yaaraa balle balle
+mil paatii hai inake man kii
+ye mard ba.De hii chaaluu hai.n chautarafaa jaal bichhaate hai.n
+balle balle o yaaraa balle balle
+biivii hai chiiz \threedots
+
+sautan ke chakkar ko saajan chaahe.n laakh chhipaa_e hazaaro.n se
+balle balle o yaaraa balle balle
+lekin ye paka.De jaate hai.n biivii kii tez nigaaho.n se
+biivii kii puuchhataachh kaa Dha.ng
+balle balle o yaaraa balle balle
+kuchh kam nahii.n thaanedaaro.n se
+biivii to pulis se ba.Dhakar hai ye pulis ke log bataate hai.n
+balle balle o yaaraa balle balle
+biivii hai chiiz \threedots
+%
+#endindian
+\endsong
+

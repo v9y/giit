@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{kab yaad me.n teraa saath nahii.n}%
+\film{Anjuman}%
+\year{1986}%
+\starring{Shabana Azmi, Faroukh Sheikh, Rohini Hatangadi}%
+\singer{Khayyam, Jagjit Kaur}%
+\music{Khayyam}%
+\lyrics{Faiz}%
+%
+% Contributor: BOL ANAMOL #12091 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+khai :	kab yaad me.n teraa saath nahii.n
+do :	kab yaad me.n teraa saath nahii.n
+	kab haath me.n teraa haath nahii.n
+	sad\-shuqr ke apanii raato.n me.n
+	( sad\-shuqr ke apanii raato.n me.n
+	ab hizr kii ko_ii raat nahii.n ) \-2
+
+ja :	maidaan\-e\-wafaa darabaar nahii.n
+	yaa.N naam\-o\-natab kii puuchh kahaa.N
+khai :	maidaan\-e\-wafaa darabaar nahii.n
+	yaa.N naam\-o\-natab kii puuchh kahaa.N
+	aashiq to kisii kaa naam nahii.n
+do :	( aashiq to kisii kaa naam nahii.n
+	kuchh ishq kisii kii zaat nahii.n ) \-\2
+
+	kab yaad me.n teraa saath nahii.n
+	kab haath me.n teraa haath nahii.n
+
+khai :	jis dhaj se ko_ii maqatal me.n gayaa
+	wo shaan salaamat rahatii hai
+ja :	jis dhaj se ko_ii maqatal me.n gayaa
+	wo shaan salaamat rahatii hai
+khai :	( ye jaan to aanii\-jaanii hai
+do :	is jaa.N kii to ko_ii baat nahii.n ) \-2
+
+	kab yaad me.n teraa saath nahii.n
+	kab haath me.n teraa haath nahii.n
+
+do :	( gar baazii ishq kii baazii hai
+	jo chaahe lagaa do Dar kaisaa ) \-2
+	gar jiit gaye to kyaa kahanaa
+	( gar jiit gaye to kyaa kahanaa
+	haare bhii to baazii maat nahii.n ) \-2
+
+	kab yaad me.n teraa saath nahii.n
+	kab haath me.n teraa haath nahii.n
+	sad\-shuqr ke apanii raato.n me.n
+	ab hizr kii ko_ii raat nahii.n
+%
+#endindian
+\endsong

@@ -1,0 +1,51 @@
+% 
+\startsong 
+\stitle{aaj ronaa pa.Daa to samajhe}% 
+\film{Girl Friend}%
+\year{1960}%
+\starring{Kishore, Waheeda Rehman}% 
+\singer{Kishore}% 
+\music{Hemant}% 
+\lyrics{Sahir}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: October 27, 1999 
+% Credits: 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+
+(aaj ronaa pa.Daa to samajhe
+ha.Nsane kaa mol kyaa hai
+apanaa sapanaa khonaa pa.Daa to samajhe ) \- 2
+
+Kvaabo.n kii haqiiqat kyaa thii
+aramaano.n kii qiimat kyaa thii
+apano.n kii muhabbat kyaa thii
+Gair honaa pa.Daa to samajhe
+
+aaj ronaa pa.Daa to samajhe \threedots
+
+sukh milataa hai kis mushkil se
+kyaa karatii hai duniyaa dil se
+is rang bharii mahafil se
+duur honaa pa.Daa to samajhe 
+
+aaj ronaa pa.Daa to samajhe \threedots
+
+nikale the jinhe.n apanaane
+vo log the sab begaane
+is baat ko ham diivaane
+chain khonaa pa.Daa to samajhe
+
+aaj ronaa pa.Daa to samajhe
+ha.Nsane kaa mol kyaa hai
+apanaa sapanaa khonaa pa.Daa to samajhe
+
+% 
+#endindian 
+\endsong
+%

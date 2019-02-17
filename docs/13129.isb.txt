@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{merii aa.Nkho.n me.n mere man me.n piyaa chhaaye piyaa jii aan milo}%
+\film{Musaafir}%
+\year{1940}%
+\starring{Charlie, Khursheed, Vaasanti, Ishwarlal, Lala Yaqub, Kantilal}%
+\singer{Khursheed, Chorus}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12129 [V S Rawat]
+%
+\printtitle
+#indian
+%
+merii aa.Nkho.n me.n mere man me.n piyaa chhaaye \-2
+piyaa jii aan milo \-3
+haay jiyaa jaaye
+
+merii aa.Nkho.n me.n mere man me.n piyaa chhaaye
+piyaa jii aan milo \-3
+haay jiyaa jaaye
+
+ko \:	ghaTaa ghanaghor ghor
+khu \:	ghaTaa ghanaghor ghor
+ko \:	ghaTaa ghanaghor ghor
+khu \:	mere man me.n baseraa chor haay\-haay \-2
+
+	piyaa jii aan milo
+	haay jiyaa jaaye
+	piyaa jii aan milo \-3
+	haay jiyaa jaaye
+
+##male## \:	chale jaanaa haa.N aa.N
+khu \:	chale jaanaa aa.N aa.N
+##male## \:	chale jaanaa haa.N aa.N
+khu \:	chale jaanaa aa.N aa.N
+	chale jaanaa balam ghar aa ke \-2
+	meraa bholaa saa man samajhaa ke \-2
+	( dekho jii
+	dekho jii ghir ke baadal aaye haay\-haay ) \-2
+
+	piyaa jii aan milo \-3
+	haay jiyaa jaaye
+
+	merii aa.Nkho.n me.n mere man me.n piyaa chhaaye \-2
+	piyaa jii aan milo \-3
+	haay jiyaa jaaye
+%
+#endindian
+\endsong
+

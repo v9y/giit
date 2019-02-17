@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ham jo ra.ng me.n aa ga_e}%
+\film{Censor}%
+\year{2001}%
+\starring{Dev Anand, Mohini Sharma, Vinay Anand, Govinda, Mamta Kulkarni, Jackie Shroff}%
+\singer{Kumar Sanu, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Vinu Mahendra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o
+ham jo ra.ng me.n aa ga_e
+aap bhii hamako bhaa ga_e
+kyaa mastii hai aur sastii hai
+piro lo in manako.n me.n man ke taar
+ham jo ra.ng me.n \threedots
+
+kharii baat boluu.n naa boluu.n khoTii
+chhoTii sii ye duniyaa ab aur bhii chhoTii
+meraa jo kahanaa hai agar tum maano to
+zaraa saa samajho to zaraa saa maano to
+ek hii ghar hai ye saaraa sa.nsaar
+ham jo ra.ng me.n \threedots
+
+saat suro.n kaa sa.ngam hii to saragam hai
+ai baat nahii.n banatii hai gar ek bhii kam hai
+milaa lo dil dil se mai.n kahataa mahafil se
+raah me.n saathii ho vaastaa kyaa ma.nzil se
+pyaar me.n bas ho jaa_o had se paar
+ham jo ra.ng me.n \threedots
+%
+#endindian
+\endsong
+

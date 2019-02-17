@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bas ek hii sur me.n, ek hii lay me.n ##( Gulzaar recital )##}%
+\film{Bol Re Papiharaa}%
+\starring{}%
+\singer{Gulzar}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+bas ek hii sur me.n, ek hii lay me.n
+subah se dekh\-dekh kaise baras rahaa
+hai udaas paanii
+phuhaar ke malamalii dupaTTe se
+u.D rahe hai.n
+tamaam mausam Tapak rahaa hai
+
+palak\-palak ris rahii hai ye
+kaayanaat saarii
+har ek shay bhiig\-bhiig kar 
+kaisii bojhal sii ho gayii hai
+
+dimaag kii giilii\-giilii socho.n se
+bhiigii\-bhiigii udaas yAde.n
+Tapak rahii hai.n
+
+thake\-thake se badan me.n
+bas dhIre\-dhIre saa.Nso.n kaa
+garam duuban(?) chal rahaa hai
+%
+#endindian
+\endsong
+%

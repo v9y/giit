@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{sanam mere sanam, kasam terii kasam}%
+\film{Hum}%
+\year{}%
+\starring{Govinda, Shilpa}%
+\singer{Amit Kumar, Alka Yagnik}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Tue Aug  8 1995
+% Credits: Rajeev Sivaram (rsivaram@cis.ohio-state.edu) 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments:  
+%
+\printtitle
+#indian
+%
+amit: sanam mere sanam, kasam terii kasam
+      mujhe aajakal nii.Nd aatii hai kam
+alkaa: sanam mere sanam, kasam terii kasam
+      tere li_e huaa, janam meraa janam
+
+alkaa: mahak rahaa hai tuu gulaab kii tarah
+amit: mahak rahii hai tuu sharaab kii tarah
+      dekh la.Dakha.Daa ga_e kadam, mere kadam
+
+amit: ye husn ye adaa, ye phuul saa badan
+alkaa: tuu dekh duur se, na chuumo jii sanam
+      ki aatii hai mujhe sharam ba.Dii sharam
+
+alkaa: tuu apane pyaar se bhigo de bas mujhe
+amit: tuu apane pyaar me.n Dubo de bas mujhe
+      samaa hai pyaar kaa, garam ba.Daa garam
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaam vo hai jo bhar ke chhalakataa hai}%
+\film{Sainik}%
+\year{1993}%
+\starring{Akshay Kumar, Ronit Roy, Ashwini Bhave, Farheen, Aloknath, Satish Shah}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaam vo hai jo bhar ke ( chhalakataa hai ) \-2
+pyaar vo hai jo aa.Nkho.n se ( jhalakataa hai ) \-2
+jaam vo hai jo \threedots
+
+laharo.n ko kabhii chhupaa paa_egaa samandar \-2
+roshanii kabhii chhupegii na shamaa ke andar \-2
+cheharaa Kaamosh aa_iine me.n utar jaa_egaa
+ra.ng Kushbuu kaa havaa_o.n me.n bikhar jaa_egaa ho bikhar jaa_egaa
+phuul vo hai jo khil ke ( mahakataa hai ) \-2
+pyaar vo hai jo \threedots
+
+pyaar kii chaahat kii na_ii roshanii dikhaane \-2
+aayaa huu.N dilo.n me.n se nafarate.n miTaane \-2
+saarii duniyaa se to ham dostii nibhaa_e.nge
+pyaar kaa giit saarii umr gunagunaa_e.nge ho gunagunaa_e.nge
+saaj vo hai jo naGamo.n pe ( khanakataa hai ) \-2
+pyaar vo hai jo \threedots
+%
+#endindian
+\endsong
+

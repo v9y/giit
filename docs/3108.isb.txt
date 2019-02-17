@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jiinevaale o matavaale zi.ndagii se pyaar kar}%
+\film{Sanskaar}%
+\year{1952}%
+\starring{Mumtaz Shanti, Purnima, Veera}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+
+jiinevaale o matavaale, zi.ndagii se pyaar kar, pyaar kar
+yuu.N hii na baiTh zi.ndagii me.n zi.ndagii se haar kar, pyaar kar
+jiinevaale
+
+(muurakh naa Dar, dekh a.ndheraa)\-2
+(hogaa kabhii to saveraa)\-2
+ra.nj\-o\-Gam se zi.ndagii ke ruup kaa si.ngaar kar, pyaar kar
+jiinevaale o matavaale, zi.ndagii se pyaar kar, pyaar kar
+jiinevaale
+
+(jo duHkh bhii aaye tuu jhelataa chal)\-2
+(har Gam se khelataa chal)\-2
+zi.ndaa hai to zi.ndagii pe jaan bhii nisaar kar, pyaar kar
+jiinevaale o matavaale, zi.ndagii se pyaar kar, pyaar kar
+jiinevaale
+
+%
+#endindian
+\endsong
+%

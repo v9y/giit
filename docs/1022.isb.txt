@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{koraa kaagaz thaa ye man meraa, likh liyaa naam is pe teraa}%
+\film{Aradhana}%
+\year{1969}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ki: koraa kaagaz thaa ye man meraa
+likh liyaa naam is pe teraa
+la: suunaa aa.ngan thaa jiivan meraa
+bas gayaa pyaar jis pe teraa
+
+ki: (TuuT naa jaaye sapane mai.n Darataa huu.N
+nit din sapano.n me.n dekhaa karataa huu.N) \- 2
+nainaa kajaraare matavaare ye ishaare
+khaalii darapan thaa ye man meraa
+rach gayaa ruup is me.n teraa
+
+la: koraa kaagaz thaa ye man meraa
+likh liyaa naam is pe teraa
+
+la: chain ga.nvaayaa maine ni.ndiyaa ga.nvaaI
+saarii saarii raat jaaguu.n duu.N mai.n duhaaI
+kahuu.N kyaa mai.n aage nehaa laage jii naa laage
+koii dush{}man thaa ye man meraa 
+ban gayaa miit jaa ke teraa
+
+ki: koraa kaagaz thaa ye man meraa
+likh liyaa naam is pe teraa
+
+ki: baago.n me.n phuulo.n ke khilane se pahale
+la: tere mere naino.n ke milane se pahale
+ki: kahaa.N kii ye baate.n 
+la: mulaakaate.n 
+ki: aisii raate.n
+la: TuuTaa taaraa thaa ye man meraa
+ki: ban gayaa chaa.nd hoke teraa
+
+ki, la: koraa kaagaz thaa ye man meraa
+likh liyaa naam is pe teraa
+%
+#endindian
+\endsong
+%

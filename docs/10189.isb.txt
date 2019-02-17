@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{teraa naam meraa naam teraa din merii shaam}%
+\film{Aye Meri Bekhudi}%
+\year{1993}%
+\starring{Anil Bakshi, Priyanka, Prem Chopra, Aloknath, Aprajita, Satyen Kappu}%
+\singer{Kumar Sanu}%
+\music{Anil Mohile}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe pyaar kaa dard milataa rahe \-2
+ye dard hii dil kaa davaa hai dard se kyaa Daranaa
+ye pyaar kii Kaatir jiinaa hii pyaar kii Kaatir maranaa
+mujhe pyaar kaa dard \threedots
+
+pyaar hai aisii aag ki jisame.n ha.Nsakar jale javaanii
+pyaar kii aag bujhaa naa paayaa dariyaa_o.n kaa paanii
+isii aag me.n chain jalataa rahe
+mujhe pyaar kaa dard \threedots
+
+qadam ba.Dhaa ke pyaar kabhii naa dekhe aage piichhe
+pyaar lahuu kii buu.ndo.n se hii phuul dilo.n se sii.nche
+jale hii magar pyaar palataa rahe
+mujhe pyaar kaa dard \threedots
+%
+#endindian
+\endsong
+

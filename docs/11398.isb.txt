@@ -1,0 +1,75 @@
+%
+\startsong
+\stitle{maine dekhaa tuune dekhaa}%
+\film{Dushman}%
+\year{1971}%
+\starring{Rajesh Khanna, Mumtaz, Meena Kumari}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #12245 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+la \:	maine dekhaa tuune dekhaa
+	( maine dekhaa tuune dekhaa
+	isane dekhaa usane dekhaa
+	sabane dekhaa ) \-2
+ki \:	kyaa dekhaa kyaa dekhaa
+la \:	( ik dushman
+	jo dosto.n se pyaaraa hai ) \-2
+
+ki \:	maine dekhaa tuune dekhaa
+	maine dekhaa tuune dekhaa
+	isane dekhaa usane dekhaa
+	sabane dekhaa
+la \:	kyaa dekhaa kyaa dekhaa
+ki \:	( ek gaa.Nv
+	jo shaharo.n se bhii nyaaraa hai ) \-2
+
+la \:	dushman dushman
+	jo dosto.n se pyaaraa hai
+
+la \:	aaj sazaa de.nge ham tumako
+	terii sab bhuulo.n kii
+	tere gale.n me.n ham Daale.nge
+	ye maalaa phuulo.n kii
+
+	is gaa.Nv kii riit yahii hai
+	jiiwan sa.ngiit yahii hai
+	aaj ke din kaa giit yahii hai
+	yahii hai
+
+la \:	maine dekhaa tuune dekhaa
+	maine dekhaa tuune dekhaa
+	isane dekhaa usane dekhaa
+	sabane dekhaa
+ki \:	kyaa dekhaa kyaa dekhaa
+la \:	ik chaa.Nd
+	jo sabakii aa.Nkh kaa taaraa hai
+	dushman\-dushman
+	jo dosto.n se pyaaraa hai
+
+ki \:	sabane maaf kiyaa mujhako par
+	mai.n huu.N jisakaa doShii
+	kab TuuTegii usake ghaayal
+	ho.NTho.n kii Kaamoshii
+
+	wo bhii maaf kare to jaanuu.N
+	man ko saaf kare to jaanuu.N
+	insaaf kare to jaanuu.N to jaanuu.N
+
+	meraa nahii.n teraa nahii.n \-2
+	isakaa nahii.n usakaa nahii.n
+	kisii kaa nahii.n
+	ye doSh taqadiir kaa saaraa hai \-2
+
+	ek gaa.Nv
+	jo shaharo.n se bhii nyaaraa hai
+%
+#endindian
+\endsong
+%
+

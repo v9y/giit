@@ -1,0 +1,56 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jab nain mile.n naino.n se ... laaraa luu}%
+\film{Jaadoo}%
+\year{1951}%
+\starring{Nalini Jaywant, Suresh}%
+\singer{Shamshad, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ko \:	jhi.ngalaa jhalak jhaalaa \-3
+	taaraa rap \-3
+	pap pap
+	taaraa raa pap
+
+sha \:	jab nain mile.n naino.n se
+	aur dil pe rahe na qaabuu
+	to samajho chal gayaa pyaar kaa jaaduu
+	laaraa luu laaraa luu
+
+	jab nain mile.n naino.n se
+	aur dil pe rahe na qaabuu
+	to samajho chal gayaa pyaar kaa jaaduu
+ko \:	laaraa luu laaraa luu
+	laaraa luu laaraa luu laaraa luu
+
+sha \:	dil haay kisii ke dil se \-2
+	milataa hai ba.Dii mushkil se \-2
+	( hai jinako mohabbat pyaarii
+	wo sun le.n baat hamaarii
+	laaraa luu laaraa luu laaraa luu ) \-2
+	jab huuk uThe dil dha.Dake
+	aur aa.Nkh se Tapake aa.Nsuu
+	to samajho chal gayaa pyaar kaa jaaduu
+ko \:	laaraa luu laaraa luu
+	laaraa luu laaraa luu laaraa luu
+
+sha \:	kyaa chiiz hai ye ulafat bhii \-2
+	talawaar bhii hai amarit bhii \-2
+	( sun\-sun ke duniyaa diiwaanii
+	ulafat kii hai ye nishaanii
+	laaraa luu laaraa luu laaraa luu ) \-2
+	jab saawan ke din aaye.n
+	ta.Dapaaye koyal kii kuu kuu
+	to samajho chal gayaa pyaar kaa jaaduu
+ko \:	laaraa luu laaraa luu
+	laaraa luu laaraa luu laaraa luu
+
+#endindian
+\endsong

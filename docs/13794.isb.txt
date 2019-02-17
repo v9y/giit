@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{piyaa mai.n huu.N pata.ng tuu Dor mai.n u.Datii}%
+\film{Raagini}%
+\year{1958}%
+\starring{Kishore, Ashok Kumar, Padmini, Sundar, Achala Sachdev, Iftikhar}%
+\singer{Kishor, Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10542 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	o o o aa aa aa aa aa
+	piyaa mai.n huu.N pata.ng tuu Dor
+	mai.n u.Datii chaaro.n or
+	( meraa dil ye javaa.N rahe bas me.n kahaa.N
+	jab chhaa_e ghaTaa ghanaghor ) \-2
+
+	( Tha.nDii havaa naache laharaa_e
+	pyaar kii badalii dil par chhaa_e ) \-2
+	( jhuum ke tan\-man meraa gaa_e
+	haay re aa.Nchal u.Dataa jaa_e ) \-2
+	aa.Nchal u.Dataa jaa_e
+	piyaa mai.n huu.N pata.ng \threedots
+
+ki \:	( baa.Nkii adaa nayanaa matavaale
+	chaal na_ii a.ndaaz niraale ) \-2
+	( pyaar kaa jaaduu dil par Daale
+	aa.Nkh milaa kar nii.nd churaa le ) \-2
+	nii.nd churaa le
+
+	haay merii gorii ra.ngiilii chor
+	yuu.N dekhe hamarii or
+	tiikhii\-tiikhii ye nazar jaa_e dil me.n utar
+	kuchh haay chale naa zor
+aa \:	piyaa mai.n huu.N pata.ng \threedots
+
+	( jhuume.n jiyaa baaje shahanaa_ii
+	raat suhaanii sapane laa_ii ) \-2
+	chaa.Nd ne ha.Ns kar aa.Nkh milaa_ii
+	mast javaanii le a.nga.Daa_ii ) \-2
+	le a.nga.Daa_ii
+	piyaa mai.n huu.N pata.ng \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{ruk jaa ho ruk jaa rokataa hai ye diivaanaa}%
+\film{Mr. X in Bombay}%
+\year{1964}%
+\starring{Kishore, Kumkum}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10950 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ruk jaa ho ruk jaa rokataa hai ye diivaanaa
+ruuTh kar mujhase naa jaanaa
+dekhane vaale samajhe.nge ke tuu hai merii mahabuubaa haa.N
+ho ruk jaa
+
+( ye mausam ye nazaare in phuulo.n ke ishaare
+terii suurat ke aashiq ye saare sanam ) \-2
+kabhii mast havaa chhe.Degii tujhe
+kabhii ham aa jaa_e.Nge
+ruk jaa \threedots
+
+( baiThii hai hasiinaa tuu sabase judaa kyo.n
+ai shoK\-adaa kuchh jhuum zaraa
+naa jal hamaare pyaar pe ) \-2
+bikharaa zulfe.n maayuus naa ho
+ko_ii tujhase bhii kahegaa
+ruk jaa \threedots
+
+( zulf na aise ulajhe duniyaa Galat naa samajhe
+mashahuur ho naa jaa_e afasaanaa ko_ii ) \-2
+ai jaan\-e\-vafaa are apanaa hai kyaa
+tujhe chhe.Degaa zamaanaa
+ruk jaa \threedots
+%
+#endindian
+\endsong
+

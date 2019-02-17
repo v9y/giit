@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{ishq pe ko_ii zor chale na ) \-2 na ko_ii man maanii}%
+\film{Teen Moti}%
+\year{1995}%
+\starring{Rasheed Khan, Shabir Khan, Ashok Tyagi, Sahiba Vandana, Babban}%
+\singer{Kumar Sanu, Poornima}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Nawab Arzoo}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	( ishq pe ko_ii zor chale na ) \-2 na ko_ii man maanii
+puu \:	pha.Ns ga_ii mai.n to prem bha.Nvar me.n ab kyaa hogaa jaanii
+ku \:	e bol bol raanii
+ko \:	e bol raanii
+puu \:	kittaa paanii \-2
+ko \:	kittaa paanii \-2
+ku \:	bol bol raanii
+ko \:	bol bol raanii
+ku \:	ittaa ittaa paanii
+ko \:	ittaa ittaa paanii
+ku \:	ishq pe ko_ii zor \threedots
+
+ku \:	maine to bin soche maine to bin samajhe
+	tumako dil de diyaa hai
+puu \:	ab nii.nd aa_e na ab chain aa_e na
+	jab se pyaar kiyaa hai
+ku \:	baaho.n me.n pyaar chhupaa luu.N
+puu \:	are naa re naa
+ku \:	tujhe pyaar sikhaa duu.N
+puu \:	are naa re naa
+ku \:	( naa naa mat kar paagal chhorii ) \-2 chhallaa le jaa nishaanii
+puu \:	haay haay pha.Ns ga_ii mai.n to \threedots
+
+ku \:	mujhako ijaazat do ho.nTho.n se ho.nTho.n kii
+	tho.Dii sii garmii chuus luu.N
+puu \:	sapano.n me.n aate ho mujhako sataate ho
+	bolo tumhe.n kyaa sazaa duu.N
+ku \:	dhu_aa.N ho.nTh gulaabii
+puu \:	re baabaa naa re naa
+ku \:	pii luu.N nain sharaabii
+puu \:	he baabaa naa re naa
+ku \:	laaj sharam sab chho.D ke aajaa
+	jhuume.n naache javaanii
+puu \:	pha.Ns ga_ii mai.n to \threedots
+%
+#endindian
+\endsong
+

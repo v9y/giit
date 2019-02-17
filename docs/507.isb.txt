@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mujh se mat puuchh mere ishq me.n kyaa rakhaa hai}% 
+\film{Anaarkali}%
+\year{1953}%
+\starring{Pradeep Kumar, Beena Rai}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  SAMIUDDIN MOHAMMED (sm0e@Lehigh.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Pavan Kumar Desikan (pkd@cs.duke.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+dil kii lagii hai kyaa, ye kabhii dil lagaake dekh 
+aa.Nsuu bahaake dekh kabhii muskaraake dekh 
+paravaanaa jal rahaa hai magar jal rahaa hai kyaa 
+ye raaz jaananaa hai to khud ko jalaake dekh 
+
+mujh se mat puuchh mere ishq me.n kyA rakhaa hai 
+ek sholaa hai jo siine me.n chhuupaa rakhaa hai 
+
+daag\-e\-dil daag\-e\-jigar daag\-e\-tamannaa lekar (2) 
+mai.n ne viiraan bahaaro.n ko sajaa rakhaa hai 
+mujh se mat puuchh 
+
+hai zamaanaa jise betaab miTaane ke liye (2) 
+mai.nne us yaad ko siine se lagaa rakhaa hai 
+mujh se mat puuchh 
+
+bhUlanevaale tujhe dard\-e\-muhabbat kii kasam (2) 
+mai.n ne is dard me.n duniyA ko bhulaa rakh hai 
+mujh se mat puuchh 
+
+%
+#endindian
+\endsong
+%

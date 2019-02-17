@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{##rock rock baby rock## do ekam do do duunii chaar}%
+\film{Dil Deke Dekho}%
+\year{1959}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi, Asha}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10456 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	##rock rock rock rock baby rock##
+	do ekam do do duunii chaar
+	tho.Daa\-tho.Daa de\-de mere dil ko qaraar
+	do ekam do do duunii chaar do ekam do
+
+aa \:	do tiyaa chhH do chauke aaTh
+ra \:	denaa\-denaa\-denaa mere haatho.n me.n haath \-2
+aa \:	do pa.nje das do chhakke baaraa
+ra \:	shaadii na hu_ii to ko_ii royegaa bechaaraa \-2
+aa \:	do ekam do are do duunii chaar \threedots
+
+	do satte chaudah do aTThe solah
+ra \:	daa.Dhii ko jalaa_e tere pyaar kaa sholaa \-2
+aa \:	to namaa aThaarah do daham biis
+ra \:	ho gayaa gaanaa ab laa_o merii fiis \-2
+aa \:	do ekam do
+ra \:	oy do duunii chaar
+aa \:	tho.Daa\-tho.Daa
+ra \:	de\-de mere dil ko qaraar
+	do ekam do
+aa \:	are do duunii chaar
+ra \:	tho.Daa\-tho.Daa
+aa \:	de\-de mere dil ko qaraar
+do \:	do ekam do
+%
+#endindian
+\endsong
+

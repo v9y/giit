@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ai dil dil kii duniyaa me.n aisaa haal bhii}%
+\film{Yaadein}%
+\year{2001}%
+\starring{Hritik Roshan, Kareena Kapoor, Jackie Shroff, Amrish Puri}%
+\singer{Sneha Pant, KayKay}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai dil dil kii duniyaa me.n aisaa haal bhii hotaa hai
+baahar ko_ii ha.Nsataa hai a.ndar ko_ii rotaa hai
+ai dil ko_ii pahachaanaa nahii.n kisii ne ye maanaa nahii.n
+kisii ne ye jaanaa nahii.n kisii ko bataanaa nahii.n
+dard chhupaa hai kahaa.n
+ai dil dil kii duniyaa \threedots
+
+tuune mujhase vafaa nahii.n kii tujhako kaise vafaa milegii
+tuune mujhako dard diyaa hai tujhako kaise davaa milegii
+siine me.n uThate hai.n aramaan aise
+dariyaa me.n aate hai.n tuufaan jaise
+kabhii kabhii khud hii maajhii kashtii ko Dubotaa hai
+ai dil dil kii duniyaa \threedots
+
+kaa.NTe chunakar teraa daaman phuulo.n se mai.n bhar jaa_uu.Ngaa
+isase ba.Dii sazaa kyaa hogii maaf tujhe mai.n kar jaa_uu.Ngaa
+ai aa hogii kisii ko pahachaan kaise
+pyaar me.n hote hai.n qurbaan kaise
+hamako ye maaluum na thaa pyaar bhii ik samajhautaa hai
+ai dil dil kii duniyaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mere paapaa ko gussaa jab aayaa hai}%
+\film{Shuul}%
+\year{1999}%
+\starring{Manoj Bajpai, Ravina Tondon}%
+\singer{Shankar Mahadevan, Kavita Subramaniam, Baby Anagha}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere paapaa kaa gussaa Tan TaDaa
+a_iyaa mere paapaa ko gussaa jab aayaa hai
+Dar ke maare ##T.V.## aur kapaaT hil jaataa hai
+paapaa kaa gussaa kaisaa hai daaraa si.nh jaisaa
+dekho dekho dekho dekho
+
+a_iyaa tere paapaa ko gussaa jab aayaa hai
+Dar ke maare \threedots
+
+jaldii savere mai.n uThatii huu.N kyaa kyaa gulaamii karatii huu.N
+socho socho socho socho
+
+inako uTha ke chaay banaake duu.n mai.n
+kapa.De saare dhotii huu.N mai.n naashtaa detii huu.N
+puure ghar kaa bojh apane sar pe mai.n letii huu.N
+tumhe.n bhii mai.n sa.mbhaaluu.n inhe.n bhii mai.n sa.mbhaaluu.n kaise bolo
+ho bolo bolo
+a_iyaa tere paapaa \threedots
+
+mai.n huu.N pulis me.n choro.n kaa piichhaa din bhar mai.n karataa huu.N
+aage piichhe ai dau.Duu.n bhaaguu.n
+merii majabuurii ko_ii nahii.n samajhe yahaa.n
+are mai.n bhii ghar me.n kaa.ckaroch aur chuuho.n se la.Datii huu.N
+saaraa din unake mai.n piichhe pa.Datii huu.N
+tum bhii the mere piichhe lekin shaadii se pahale
+mai.n huu.N mai.n huu.N ##boss## ghar kii
+a_iyaa mere paapaa \threedots
+%
+#endindian
+\endsong
+

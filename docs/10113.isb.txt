@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaagii hu_ii fizaa_e.n hai.n tere li_e mere li_e}%
+\film{Aur Pyaar Ho Gayaa}%
+\year{1997}%
+\starring{Bobby, Aishwarya, Anupam, Shammi Kapoor, Shammi, Priya Tendulkar}%
+\singer{Udit Narayan}%
+\music{Nushrat Fateh Ali Khan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaagii hu_ii fizaa_e.n hai.n tere li_e mere li_e
+gaatii hu_ii havaa_e.n hai.n tere li_e mere li_e
+phuulo.n me.n taajagii sii hai raaho.n me.n roshanii sii hai
+din me.n bhii chaa.Ndanii sii hai mere sanam tere li_e mere li_e
+jaagii hu_ii fizaa_e.n hai.n \threedots
+
+laa_ii hai kaisii khushii
+tere mere pahale pyaar me.n kho_ii kho_ii zi.ndagii
+kab aisaa thaa samaa.n kab thii dilakashii
+kaliyo.n kii chunarii Dhalakii hai laharo.n se mastii chhalakii hai
+sapano.n kii duniyaa jhalakii hai mere sanam tere li_e mere li_e
+jaagii hu_ii fizaa_e.n hai.n \threedots
+
+sunatii hai.n yah vaadiyaa.n dhiire dhiire
+haule haule kahate hai.n do dil
+hai jaise tham gayaa mausam kaa kaaravaa.n
+bha.nvare jo gunagunaate hai.n dil ke taar sanasanaate hai.n
+mere sanam tere li_e mere li_e
+jaagii hu_ii fizaa_e.n hai.n \threedots
+%
+#endindian
+\endsong
+

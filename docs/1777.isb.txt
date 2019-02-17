@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tum pukaar lo, tumhaaraa intazaar hai}%
+\film{Khamoshi}%
+\year{}%
+\starring{Waheeda Rahman, Rajesh Khanna, Dharmendra}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum pukaar lo, tumhaaraa intazaar hai,
+tum pukaar lo
+Kvaab chun rahii hai raat, beqaraar hai
+tumhaaraa intazaar hai, tum pukaar lo
+
+ho.nTh pe liye hue dil kii baat ham
+jaagate rahe.nge aur kitanii raat ham
+muqtasar sii baat hai tum se pyaar hai
+tumhaaraa intazaar hai, tum pukaar lo
+
+dil bahal to jaayegaa is Kayaal se
+haal mil gayaa tumhaaraa apane haal se
+raat ye qaraar kii beqaraar hai
+tumhaaraa intazaar hai, tum pukaar lo
+%
+#endindian
+\endsong
+%

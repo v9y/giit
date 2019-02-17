@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{kahaa.N u.D chale hai.n man praan mere}%
+\film{Bhabhi ki Chudiyan}%
+\year{1961}%
+\starring{Dharmendra, Meena Kumari}%
+\singer{Mukesh, Asha}%
+\music{Sudhir Phadke}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: BOL ANAMOL #10390 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	kahaa.N u.D chale hai.n man praan mere \-2
+mu \:	kise khojate hai.n madhur gaan mere
+aa \:	o o kahaa.N u.D chale \threedots
+
+mu \:	bahaare.n nichhaavar hu_ii.n phuul ban kar
+aa \:	tamannaa kii kaliyaa.N khilii phuul ban kar
+mu \:	khile phuul paa.Nkho.n me.n aramaan mere
+aa \:	kahaa.N u.D chale \threedots
+
+mu \:	madhur gandh kisakaa sa.ndeshaa hai laa_ii
+aa \:	hR^iday kii hu_ii hai hR^iday se sagaa_ii
+mu \:	chale aa rahe hai.n mehamaan mere
+aa \:	o o o kahaa.N u.D chale \threedots
+
+mu \:	havaa_o.n se kah do
+aa \:	zaraa dhiire Dole.n
+mu \:	kaho bulabulo.n se
+aa \:	zaraa dhiire bole.n
+mu \:	vo muskaan merii
+aa \:	vo varadaan mere
+aa \:	o o o kahaa.N u.D chale \threedots
+%
+#endindian
+\endsong
+

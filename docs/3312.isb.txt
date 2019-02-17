@@ -1,0 +1,68 @@
+% ITRANS SONG # 3312; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam_@usa.net)
+% Date: 2002-11-01 09:04:33 PST
+%
+\startsong
+\stitle{de bhii chuke ham dil nazaraanaa dil kaa}%
+\film{Jaal}%
+\Year{1952}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Kishore, Geeta, Poornima}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments:SDB Series # 68
+%                   aka Sun Mere Bandhu Re
+% Date: 30 October 2002
+%
+\printtitle
+#indian
+%
+%Kishore
+    (de bhii chuke ham dil nazaraanaa dil kaa) \2
+%Geeta
+    are, chho.Do bhii
+    (chho.Do bhii ye raag puraanaa dil kaa) \2
+
+%K
+    (ek nazar me.n haar chuke hai.n dil ko) \2
+    terii adaa pe vaar chuke hai.n dil ko
+    ajii mushkil hai ab lauT ke aanaa dil kaa
+%G
+    jaa jaa jaa
+    chho.Do bhii ye raag puraanaa dil kaa
+
+%G
+    (mu.nh dho le o jaal bichhaane waale) \2
+    ham nahii.n in baato.n me.n aane waale
+    khel hai ye jaanaa pahchaanaa dil kaa
+%K
+    are, de bhii chuke ham dil nazaraanaa \threedots
+%G
+    \threedots dil kaa
+
+%K
+    (chhiin ke dil aashiq kaa mukarane waale) \2
+    are, mar jaae.nge tujh par marane waale
+    haay, chho.D bhii de zaalim ta.Dapaanaa dil kaa
+%G
+    jaa jaa
+    chho.Do bhii ye raag puraanaa dil kaa
+
+%G
+    (Daalii Daalii phirate hai.n harajaaii) \2
+    lobhii bha.Nvaro.n ne kab priit nibhaaii
+    yuu.N hii sab karate hai.n bahaanaa dil kaa
+%K
+    haae, de bhii chuke ham dil nazaraanaa dil kaa
+%G
+    yuu.N hii sab karate hai.n bahaanaa dil kaa
+    khel hai ye jaanaa pahchaanaa dil kaa
+    chho.Do bhii ye raag puraanaa dil kaa
+%
+#endindian
+\endsong
+%

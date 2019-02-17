@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{ai bhaaii, zaraa dekhake chalo, aage hii nahii.n piichhe bhii}%
+\film{Mera Naam Joker}%
+\year{1970}%
+\starring{Raj Kapoor, Manoj Kumar, Rishi Kapoor, Dharmendra, Dara Singh, Rajendra Kumar, Padmini, Simi Garewal, Achala Sachdev, Om Prakash, Ksiena Rabianka}%
+\singer{Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Neeraj}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+%
+\printtitle
+#indian
+%
+(e bhaaii, zaraa dekhake chalo, aage hii nahii.n piichhe bhii
+ daaye.n hii nahii.n baaye.n bhii, uupar hii nahii.n niiche bhii) \- 2
+e bhaaii
+
+tuu jahaa.N aayaa hai vo teraa \- ghar nahii.n, gaa.Nv nahii.n
+galii nahii.n, kuuchaa nahii.n, rastaa nahii.n, bastii nahii.n
+
+duniyaa hai, aur pyaare, duniyaa yah ek sarakas hai
+aur is sarakas me.n \- ba.De ko bhii, choTe ko bhii
+khare ko bhii, khoTe ko bhii, moTe ko bhii, patale ko bhii
+niiche se uupar ko, uupar se niiche ko 
+baraabar aanaa\-jaanaa pa.Dataa hai 
+
+(aur ri.ng maasTar ke ko.De par \- ko.Daa jo bhuukh hai
+ ko.Daa jo paisaa hai, ko.Daa jo qismat hai
+ tarah\-tarah naach kar dikhaanaa yahaa.N pa.Dataa hai
+ baar\-baar ronaa aur gaanaa yahaa.N pa.Dataa hai
+ hiiro se jokar ban jaanaa pa.Dataa hai)		\- 2
+
+girane se Darataa hai kyo.n, marane se Darataa hai kyo.n
+Thokar tuu jab na khaaegaa, paas kisii Gam ko na jab tak bulaaegaa
+zi.ndagii hai chiiz kyaa nahii.n jaan paayegaa
+rotaa huaa aayaa hai chalaa jaaegaa
+kaisaa hai karishmaa, kaisaa khilavaa.D hai
+jaanavar aadamii se zyaadaa vafaadaar hai
+khaataa hai ko.Daa bhii rahataa hai bhuukhaa bhii
+phir bhii vo maalik par karataa nahii.n vaar hai
+
+aur insaaN yah \- maal jis kaa khaataa hai
+pyaar jis se paataa hai, giit jis ke gaataa hai
+usii ke hii siine me.n bhokataa kaTaar hai
+ 
+haa.N baabuu, yah sarakas hai sho tiin gha.nTe kaa
+pahalaa gha.nTaa bachapan hai, duusaraa javaanii hai
+tiisaraa bu.Dhaapaa hai 
+
+aur usake baad \- maa.N nahii.n, baap nahii.n
+beTaa nahii.n, beTii nahii.n, tuu nahii.n,
+mai.n nahii.n, kuchh bhii nahii.n rahataa hai
+rahataa hai jo kuchh vo \- Kaalii\-Kaalii kursiyaa.N hai.n
+Kaalii\-Kaalii taambuu hai, Kaalii\-Kaalii gheraa hai
+binaa chi.Diyaa kaa baseraa hai, na teraa hai, na meraa hai
+%
+#endindian
+\endsong
+%
+

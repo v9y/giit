@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{lak chikii ... mai.n Kvaabo.n kii shahazaadii ... kahate hai.n mujhako havaa havaa_ii}%
+\film{Mr. India}%
+\year{1987}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lak chikii lak chikii chikii lak chuum chuum
+mai.n Kvaabo.n kii shahazaadii huu.N har dil pe chhaa_ii \-2
+baadal hai.n merii zulfe.n bijalii merii a.nga.Daa_ii
+kahate hai.n mujhako havaa havaa_ii \-2
+havaa havaa_ii \-2
+
+bijalii giraane aa_ii huu.N mai.n
+samajhe kyaa ho naadaano.n mujhako bholii naa jaano.n
+mai.n huu.N saa.Npo.n kii raanii kaaTaa maa.nge naa paanii
+saagar se motii chhiinuu.n diipak se jyoti chhiinuu.n
+patthar se aag lagaa luu.n siine se raaz churaa luu.n
+churaa luu.N haa.N churaa luu.N jii
+maine jo tumase baat chhupaa_ii 
+ho jaanuu.n jo baat tumane chhupaa_ii
+kahate hai.n mujhako havaa havaa_ii \threedots
+
+laa_ii ra.ngii.n afasaane tuu bhii sun le diivaane
+aa dil me.n halachal kar duu.n aa tujhako paagal kar duu.n
+merii aa.Nkho.n me.n jaaduu merii saa.Nso.n me.n Kushbuu
+jab meraa ye tan lachake aa jaa_e naa ko_ii bachake \-2
+suurat hii maine aisii paa_ii
+kahate hai.n mujhako havaa havaa_ii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{phir na kiije merii gustaakh nigaaho.n kaa gilaa}%
+\film{Phir Subah Hogi}%
+\year{1958}%
+\starring{Raj Kapoor, Mala Sinha}%
+\singer{Mukesh, Asha}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+%
+\printtitle
+#indian
+%
+mukesh: phir nA kIjai merI gustaaK nigaaho.n kA gilaa 
+dekhiye aap ne phir pyaar se dekhaa mujhako 
+aashaa: mai.n kahaa.N tak ye nigaaho.n ko palaTane detii 
+aap ke dil ne ka_ii baar pukaaraa mujhako 
+
+mukesh: is kadar pyaar se dekho nA hamaarii jaanii 
+dil agar aur machal jaaye to mushkil hogii 
+aashaa: tum jahaa.N merI taraf dekh ke ruk jaaoge 
+vohii ma.njil merI taqadIr kii ma.njil hogii 
+mukesh: dekhiye aap ne phir pyaar se dekhaa mujhako 
+aashaa: aap ke dil ne ka_ii baar pukaaraa mujhako 
+
+mukesh: ek yuu.Nhii.n sI najar dil ko jo chhuu letii hai 
+kitane aramaan jagaa detii hai tumhe kyA maaluum 
+aashaa: rUh bechain hai kadamo.n se lipaTane ke liye 
+tumako har saa.Ns bulaatii hai tumhe kyA maaluum 
+mukesh: dekhiye aap ne phir pyaar se dekhaa mujhako 
+aashaa: aap ke dil ne ka_ii baar pukaaraa mujhako 
+
+mukesh: har nazar aap kii jazabaat ko ukasaatii hai 
+mai.n agar haath paka.D luu.n to khafaa mat honaa 
+aashaa: merI duniyaa\-e\-mohabbat hai tumhaare dam se 
+merI duniyaa\-e\-mohabbat se judaa mat honaa 
+mukesh: dekhiye aap ne phir pyaar se dekhaa mujhako 
+aashaa: aap ke dil ne ka_ii baar pukaaraa mujhako 
+%
+#endindian
+\endsong
+%

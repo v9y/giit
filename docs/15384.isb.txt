@@ -1,0 +1,37 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jab us zulf kii baat chalii}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{}%
+\lyrics{Khatir}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+jab us zulf kii baat chalii
+Dhalate Dhalate raat Dhalii
+
+un aa.Nkho.n ne luuT ke bhii
+in aa.Nkho.n ne luuT ke bhii
+apane uupar baat na lii
+
+shammaa kaa anjaam na puuchh
+parawaano.n ke saath jalii
+
+ab ke bhii wo duur rahe
+ab ke bhii barasaat chalii
+
+phir bhii chaTakii phir bhii kalii
+dekh ke sab haalaat kalii
+
+'Kaatir' ye hai baazii\-e\-dil
+isame.n jiit se maat bhalii
+
+#endindian
+\endsong

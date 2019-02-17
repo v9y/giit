@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{laakh zamaane waale Daale.n dilo.n pe taale}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12198 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+o
+( laakh zamaane waale
+Daale.n dilo.n pe taale
+tum bhii na bhuulo baalam
+ham bhii na bhuule.n ) \-2
+baalam
+ham bhii na bhuule.n
+
+o
+( dil kii lagii pe dekho
+aa.Nch na aaye
+jaan rahe ke jaaye
+pyaar na jaaye ) \-2
+biite so biite dekho
+duniyaa na jiite dekho
+
+tum bhii na bhuulo baalam
+ham bhii na bhuule.n
+baalam
+ham bhii na bhuule.n
+
+o
+( Gam jo tumhaaraa ho wo
+Gam bhii hai pyaaraa
+mai.n bhii tumhaarii baalam
+dil bhii tumhaaraa ) \-2
+priit lagii na chhuuTe
+Dor baa.Ndhe na TuuTe
+
+tum bhii na bhuulo baalam
+ham bhii na bhuule.n
+baalam
+ham bhii na bhuule.n
+
+laakh zamaane waale
+Daale.n dilo.n pe taale
+tum bhii na bhuulo baalam
+ham bhii na bhuule.n
+baalam
+ham bhii na bhuule.n
+o
+%
+#endindian
+\endsong
+

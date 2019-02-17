@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{taaro.n bharii raat sajan taaro.n bharii raat}%
+\film{Natak}%
+\year{1947}%
+\starring{Suraiya, Amar, Sofiya, Kanwar, Sham Kumar, Pratima Devi}%
+\singer{Suraiya, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12624 [V S Rawat], 10/02/2004
+% 
+\printtitle
+#indian
+%
+su \:	ho taaro.n bharii raat sajan \-2
+	taaro.n bharii raat
+ko \:	ho taaro.n bharii raat sajan taaro.n bharii raat
+su \:	ho
+	ab aise me.n aavo
+	ab aise me.n aavo to kahuu.N tumase mai.n ek baat sajan
+ko \:	o tumase mai.n ek baat
+	taaro.n bharii raat sajan taaro.n bharii raat
+
+su \:	dil\-dil se mile aur nigaaho.n se nigaahe.n
+ko \:	dil\-dil se mile aur nigaaho.n se nigaahe.n
+su \:	ye mast nazaare kii tumhe.n dekhanaa chaahe
+	tumhe.n dekhanaa chaahe
+ko \:	ye mast nazaare kii tumhe.n dekhanaa chaahe
+	tumhe.n dekhanaa chaahe
+su \:	tum aise me.n aa jaa_o \-2
+	to ho jaaye mulaaqaat sajan
+ko \:	ho jaaye mulaaqaat
+	taaro.n bharii raat sajan taaro.n bharii raat
+
+su \:	ghanaghor ghaTaa_o.n ko widaa de kar nikaalaa
+ko \:	ghanaghor ghaTaa_o.n ko widaa de kar nikaalaa
+su \:	phir chaa.Nd ke jalawo.n ne kiyaa dil me.n ujaalaa
+	kiyaa dil me.n ujaalaa
+ko \:	phir chaa.Nd ke jalawo.n ne kiyaa dil me.n ujaalaa
+	kiyaa dil me.n ujaalaa
+su \:	ho
+	aa jaa_o ke
+	aa jaa_o ke ab sach me.n hu_ii naino.n kii barasaat sajan
+ko \:	ho naino.n kii barasaat
+	taaro.n bharii raat sajan taaro.n bharii raat
+	ho taaro.n bharii raat sajan taaro.n bharii raat
+%
+#endindian
+\endsong
+%
+

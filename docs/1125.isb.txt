@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{mai.n piyaa terii tuu maane yaa na maane}%
+\film{Basant Bahaar}%
+\year{1956}%
+\starring{Bharat Bhushan, Nimmi}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Aug 10 1995
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Comments: Flute played by Pannalal Ghosh for this song
+%
+\printtitle
+#indian
+%
+mai.n piyaa terii tuu maane yaa na maane
+duniyaa jaane tuu jaane yaa na jaane
+
+kaaheko bajaae tuu miiThii miiThii taane.n
+mai.n piyaa terii tuu maane yaa na maane
+
+muralii kii lay ne dil meraa chhiinaa
+taar jagaae dilake taar jagaae
+raah bikhere jab tere dil ne
+raag uThaae mai.nne raag uThaae
+miTane na duu.Ngii, pyaar ke sagaane
+mai.n piyaa terii\threedots
+
+priit kii Dorii tum sa.ng baa.Ndhii
+tum sa.ng baa.Ndhii sai.nyaa tum sa.ng
+bujhane na duu.Ngii priit kaa diipak
+kitanii bhii aaye sai.nyaa duniyaa kii aa.Ndhii
+mai.n nahii.n badalii, badale zamaanaa
+
+mai.n piyaa terii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum ne kyaa kyaa kiyaa hai hamaare liye}% 
+\film{}%
+\year{}%
+\starring{}%
+\singer{Asha}%
+\music{}%
+\lyrics{}%
+%
+% Contributor:  Ambrish Sundaram
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian
+%
+tum ne kyaa kyaa kiyaa hai hamaare liye 
+ham nA kar paaye kuchh bhii tumhaare liye 
+
+kitane ehasaan kiye tum ne ham pe sanam 
+sau janam tumako de de.n to vo bhii hai kam 
+tum ne patajha.D ko sAvan ke dhaare diye 
+tum ne ashko.n ke badale sitaare diye 
+tum ne kyaa kyaa kiyaa 
+
+tumako maalUm thaa naav bah jaayegii 
+ye Thape.De nA tuufaan ke sah paayegii 
+phir bhii tum ne baaho.n ke sahaare diye 
+tum ne Duube huo.n ko kinaare diye 
+tum ne kyaa kyaa kiyaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{jinnaaraa ... saath tere hai ... jiivan se naa haar}%
+\film{Door Ka Raahi}%
+\year{1971}%
+\starring{Ashok Kumar, Kishore, Tanuja, Amit Kumar}%
+\singer{Kishor}%
+\music{Kishor Kumar}%
+\lyrics{A Irshad}%
+%
+% Contributor: BOL ANAMOL #10276 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jinnaaraa jin jinnaaraa \-4
+saath tere hai uupar vaalaa vahii hai sabakaa rakhavaalaa
+
+jiivan se naa haar jiine vaale baat merii tuu maan are matavaale
+har Gam ko tuu apanaa kar aur apanaa dard chhupaakar
+ba.Dhataa chal tuu laharaa kar duniyaa ke sukh\-dukh ko bisaraa kar
+jiivan se naa haar \threedots
+
+sukh\-dukh jiivan ke do paa_e dhuup sunaharii kahii.n ghanere saa_e
+jo suuraj a.Ndhiyaare me.n kho jaa_e vahii lauTakar nayaa saveraa laa_e
+jiivan se naa haar \threedots
+
+bahatii nadiyaa tujhako yaad dilaa_e samay jo jaa_e kabhii lauT ke phir naa aa_e
+diip to vo jo havaa me.n jalataa jaa_e khud ko jalaakar jag ko raah dikhaa_e
+jiivan se naa haar \threedots
+%
+#endindian
+\endsong
+

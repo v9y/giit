@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{chorii chorii le ga_ii dil ... teraa chalanaa ##item## hai}%
+\film{Aamdani Atthani Kharcha Rupaiya}%
+\year{2001}%
+\starring{Govinda, Juhi Chawala, Tabbu, Chandrachud Singh, Johny Lever, Vinay, Ishaa}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+chorii chorii le ga_ii dil chorii chorii
+le ga_ii dil chorii re chorii re chorii re chorii chorii
+teraa chalanaa ##item## hai
+teraa rukanaa ##item## hai
+teraa mukha.Daa ##item## hai
+teraa ha.Nsanaa ##item## hai
+teraa nakharaa ##item## hai
+teraa jalanaa ##item## hai
+haa.N teraa aanaa teraa jaanaa teraa dil churaanaa ##item## hai
+chorii chorii le ga_ii \threedots
+
+chorii chorii le gayaa dil chorii chorii
+le gayaa dil chorii chorii
+
+taal taal taal taal taubaa terii taal
+jaal jaal jaal jaal teraa bemisaal ho
+tuu hai ek chiiz yaaraa ba.Dii hii kamaal
+terii palake.n ##item## hai
+terii aa.Nkhe.n ##item## hai
+teraa jhumakaa ##item## hai
+teraa Thumakaa ##item## hai
+teraa laTakaa ##item## hai
+teraa jhaTakaa ##item## hai
+o teraa aanaa teraa jaanaa teraa dil churaanaa ##item## hai
+chorii chorii le ga_ii \threedots
+
+jaan jaan jaan jaan tuu hai merii jaan
+naam naam naam naam dil ye tere naam o
+tere ishq me.n ho ga_ii ba.Dii badanaam
+terii baate.n ##item## hai
+terii yaade.n ##item## hai
+teraa baahe.n ##item## hai
+teraa saa.Nse.n ##item## hai
+terii hastii ##item## hai
+terii mastii ##item## hai
+o teraa aanaa teraa jaanaa teraa dil churaanaa ##item## hai
+chorii chorii le gayaa \threedots
+%
+#endindian
+\endsong
+

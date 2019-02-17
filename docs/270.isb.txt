@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{balamaa khulii havaa me.n}%
+\film{Kashmir Ki Kali}%
+\year{1964}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+% 
+% Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/01/1996
+% Comments: Sharmila Tagore's debut movie
+%
+\printtitle
+#indian
+%
+balamaa khulii havaa me.n mahakii hu_ii fizaa me.n
+dil chaahataa hai meraa bahakanaa idhar udhar
+ 
+pag pag chaluu.N balakhaatii 
+khud bhii na jaanuu.N kahaa.N
+kahataa hai ye dil matavaalaa 
+aaj apanaa hai saaraa jahaa.N
+ho ho ho \threedots balamaa khulii havaa me.n \threedots
+ 
+chhun chhun bole morii paayal 
+aajaa kahe saajanaa 
+aajaa ke ye saare nazaare 
+sai.nyaa phiike hai.n tere binaa
+ho ho ho \threedots balamaa khulii havaa me.n \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{jaanam jaanam teraa meraa pyaar nayaa hai}%
+\film{Saavan Ko Aane Do}%
+\year{1979}%
+\starring{Arun Govil, Zarina Wahab, Rita Bhaduri}%
+\singer{Yesudas}%
+\music{Rajkamal}%
+\lyrics{Fauq Jaami}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaanam jaanam teraa meraa pyaar nayaa hai
+giit puraanaa saaz nayaa hai
+jaanam jaanam\threedots
+
+aaj kii har gha.Dii rup me.n ik nayaa nikhaar leke aaii hai
+raat kii chaa.Ndanii zi.ndagii me.n ik naI bahaar leke aaii hai
+kudarat ne khole hai.n aakho.N ke raaj naye
+jaanam jaanam\threedots
+
+jharano.n me.n aaj nayaa giit hai
+giito.n me.n pyaar kaa sa.ngiit hai (2)
+mahakii havaa ne cha.nchal fizaa ne (2)
+tujh hii se siikhe hai.n aakho.n ke raaj naye
+jaanam jaanam\threedots
+%
+#endindian
+\endsong
+%

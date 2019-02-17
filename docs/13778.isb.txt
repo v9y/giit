@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{##romeo## naam meraa chorii hai kaam meraa}%
+\film{Roop Ki Raani Choron Kaa Raajaa}%
+\year{1993}%
+\starring{Anil Kapoor, Shridevi, Jackie, Anupam, Paresh, Bindu, Deepak Qazir}%
+\singer{Amit Kumar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaun ho tum kaun ho tum kaun kaun kaun kaun kaun kaun
+##romeo## naam meraa chorii hai kaam meraa
+kyaa kyaa kyaa
+mai.n dil ko churaa_uu.n mai.n pyaar churaa_uu.n
+mai.n nii.nde churaa_uu.n mai.n chain churaa_uu.n
+mai.n chorii chorii pahale nain milaa_uu.n
+jo nain mile to mai.n nain churaa_uu.n
+##romeo## naam meraa \threedots
+
+ko_ii na jaane meraa fasaanaa
+log ye samajhe mai.n ko_ii diivaanaa
+jo raato.n me.n ghuume jo bin pi_e jhuume
+jo taare gine jo kalii ko chuume
+ye ko_ii na jaane mujh saa diivaanaa
+palaT de duniyaa badal de zamaanaa
+##romeo## naam meraa \threedots
+
+khataro.n se khelaa huu.N mai.n
+khataro.n me.n palaa huu.N mai.n
+jaan hathelii pe li_e ghuum rahaa huu.N mai.n
+jo thamataa nahii.n hai jo rukataa nahii.n hai
+vo aavaaraa huu.N mai.n vo ba.njaaraa huu.n mai.n
+kabhii mai.n yahaa.n huu.N kabhii mai.n vahaa.n huu.N
+kabhii zamii.n huu.N kabhii aasamaa.n huu.N
+##romeo## naam meraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{pyaar kii pyaas ... kyaa dharatii aur kyaa aakaash}%
+\film{Pyar Ki Pyas}%
+\year{1961}%
+\starring{Honey Irani, Shrikant, Nishi, Manmohan Krishan, Manorama, David}%
+\singer{Rafi, Lata}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10394 [V S Rawat]
+% Transliterator: 
+% Comments: First colored film in Cenemascope
+% 
+\printtitle
+#indian
+%
+ko \:	pyaar kii pyaas pyaar kii pyaas
+ra \:	kyaa dharatii aur kyaa aakaash sabako pyaar kii pyaas
+ko \:	pyaar kii pyaas pyaar kii pyaas
+
+la \:	saritaa ko saagar kii pyaas
+	saagar me.n laharo.n kaa vaas
+	lahare.n uTh\-uTh jaanaa chaahe.n
+	puunam ke cha.ndaa ke paas
+	man se man ko har jiivan ko \-2
+	ek aas vishvaas
+ko \:	pyaar kii pyaas pyaar kii pyaas
+
+ra \:	pahalii kiraN ko chhuukar ke
+	phuul chaman kaa khil jaataa hai
+	ek pyaar ke chumban se
+	ja.D patthar bhii hil jaataa hai
+la \:	jug\-jug ke pyaase chaatak ko \-2
+	ek buu.Nd kii aas
+ko \:	pyaar kii pyaas pyaar kii pyaas
+
+la \:	laakho.n taaro.n kii aa.Nkhe.n
+	raat ko bhar\-bhar aatii hai.n
+	bhor bha_e to kaliyo.n par
+	shabanam jhar\-jhar jaatii hai
+	praaN kaa patajha.D pal\-pal Dhuu.NDhe \-2
+	jiivan kaa madhumaas
+ko \:	pyaar kii pyaas pyaar kii pyaas
+
+ra \:	pyaasaa\-pyaasaa jag saaraa
+	pyaasii jag kii har dhaaraa
+	mahaa pyaar kii pyaas li_e
+	pyaasaa khud sR^ijanahaaraa
+	pyaas kii dharatii par iishvar ne \-2
+	likhaa sR^iShTi itihaas
+ko \:	pyaar kii pyaas pyaar kii pyaas
+%
+#endindian
+\endsong
+

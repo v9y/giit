@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ba.Dii barabaadiyaa.N le kar merii duniyaa.N me.n pyaar aayaa}% 
+\film{Dhun}%
+\year{1953}%
+\starring{Nargis, Raj Kapoor, Motilal}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaif Irfani}%
+%
+% Contributor: U.V. Ravindra
+% Transliterator: U.V. Ravindra
+% Date: November 3, 2000
+% Credits:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+
+ba.Dii barabaadiyaa.N le kar merii duniyaa.N me.n pyaar aayaa
+ha.Nsii ek baar aayii hai, to ronaa laakh baar aayaa
+ba.Dii barabaadiyaa.N le kar \threedots
+
+bharaa ashko.n se vo daaman jise phuulo.n se bhar_naa thaa
+mujhe is bevafaa duniyaa.N pe ronaa baar baar aayaa
+ba.Dii barabaadiyaa.N le kar merii duniyaa.N me.n pyaar aayaa
+ba.Dii barabaadiyaa.N le kar \threedots
+
+vafaa ta.Dapii Kushii ro_ii luTe aramaa.N ha.Nsii duniyaa.N
+jo aa.Nsuu aa.Nkh me.n aayaa, vo ho kar beqaraar aayaa
+ba.Dii barabaadiyaa.N le kar merii duniyaa.N me.n pyaar aayaa
+ha.Nsii ek baar aayii hai, to ronaa laakh baar aayaa
+ba.Dii barabaadiyaa.N le kar \threedots
+
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bhigo_ii morii saa.Dii re}%
+\film{Shaadi}%
+\year{1941}%
+\starring{}%
+\singer{Khursheed, ???, chorus}%
+\music{Khemchand Prakash}%
+\lyrics{}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+%
+\printtitle
+#indian
+%
+
+strii: (bhigo_ii morii saa.Dii re, dekho bhiige naa cholii)\-2
+pu.:   (sambhal sambhal ke pichakaarii )\-2
+        khelo ham se holii
+strii:  bhigo_ii morii saa.Dii re
+pu.:    khelo ham se holii
+strii: (bhigo_ii morii saa.Dii re, dekho bhiige naa cholii)\-2
+
+strii: (jug jug khele tum se holii
+        bhar ga_ii aakhir man kii jholii)\-2
+       (tan man khele re, man ke raajaa)\-2
+        holii ke din terii holii
+        bhigo_ii morii saa.Dii re, holii ke din terii holii
+       (bhigo_ii morii saa.Dii re, dekho bhiige naa cholii)\-2
+
+pu.:   (tan naache man naache ho gorii)\-2
+       (mohe nahii.n kuchh ab sudh morii)\-2
+strii: (nain.on me.n nainaa jagaaye ? balam ne )\-2
+       (maare sharam nahii.n bolii na bolii na bolii)\-2
+       (bhigo_ii morii saa.Dii re, dekho bhiige naa cholii)\-2
+
+%
+#endindian
+\endsong
+%

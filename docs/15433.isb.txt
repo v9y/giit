@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kuchh naa kisii se bole.nge}%
+\film{Lamha Lamha (Non-Film)}%
+\year{1993}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Rafique Husain/ Ghulam Ali}%
+\lyrics{Ahmed Faraz}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+kuchh naa kisii se bole.nge
+tanhaa_ii me.n ro le.nge
+
+ham be\-raah\-rawo.n kaa kyaa
+saath kisii ke ho le.nge
+
+Kud to huye ruswaa lekin
+tere bhed na khole.nge
+
+jiiwan zahar bharaa saagar
+kab tak amrat ghole.nge
+
+nii.nd to kyaa aayegii 'faraaz'
+maut aayii to so le.nge
+
+#endindian
+\endsong

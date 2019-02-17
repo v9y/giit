@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa aajaa dikhaa_uu.N tujhe jannat kii shaam}%
+\film{Laal Pathhar}%
+\year{1971}%
+\starring{Raj Kumar, Hema Malini, Rakhee, Vinod Mehra}%
+\singer{Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aa aajaa dikhaauu.N tujhe jannat kii shaam
+zulfo.n kii chhai.nyaa me.n kar le aaraam
+aa aajaa \threedots
+
+jo ra.ng mere badan me.n hai vo gulo.n me.n kahaa.N
+mahak uThii hai ye mahafil ajab gulaab huu.N mai.n
+merii adaa merii paayal ye giit mastaane
+meraa javaab nahii.n haay laajavaab huu.N mai.n
+aa.Nkhe.n milaa ke pii le aa.Nkho.n ke jaam
+aa aajaa \threedots
+
+jahaa.N me.n aaye ho kuchh roz aish kar jaao
+na jaane kal ye zamaanaa rahe rahe na rahe
+ye zi.ndagii hai ba.Dii bevafaa tumhaarii qasam
+na jaane kal ye taraanaa rahe rahe na rahe
+dekhaa jaayegaa jo hogaa a.njaam
+aa aajaa \threedots
+
+%
+#endindian
+\endsong
+%

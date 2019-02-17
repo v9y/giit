@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{rote hue aate hai.n sab, ha.nsataa huaa jo jaaegaa}%
+\film{Muqaddar Ka Sikandar}%
+\year{1978}%
+\starring{Amitabh Bachchan, Rekhaa, Raakhii, Amzad khaan, Vinod Khanna}%
+\singer{Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+rote hue aate hai.n sab, ha.nsataa huaa jo jaaegaa
+vo muqaddar kaa sikandar jaaneman kahalaaegaa
+
+vo sikandar kyaa thaa zisane zulm se jiitaa zahaa.n
+pyaar se jiite dilo.n ko vo jhukaa de aasamaa.n
+jo sitaaro.n par kahaanii pyaar kii likh jaaegaa
+vo muqaddar kaa sikandar\threedots
+
+zindagii to bevafaa hai ek din Thukaraaegii
+maut mahabuubaa hai apane saath lekar jaaegii
+mar ke jiine kii adaa jo duniyaa ko sikhalaaegaa
+vo muqaddar kaa sikandar\threedots
+
+hamane maanaa ye zamaanaa dard kii jaagiir hai
+har kadam pe aa.Nsuo.n kii ik naI za.njiir hai
+aae din par jo khushii ke giit gaataa jaaegaa
+vo muqaddar kaa sikandar\threedots
+
+rote hue aate hai.n sab, ha.nsataa huaa jo jaaegaa
+vo muqaddar kaa sikandar jaaneman kahalaaegaa
+%
+#endindian
+\endsong
+%

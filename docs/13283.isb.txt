@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jaan ga_ii mai.n to jaan ga_ii ... ko_ii banaa_e bahaane}%
+\film{Naya Rasta}%
+\year{1970}%
+\starring{Asha Parekh, Balraj Sahni, Jeetendra, Sujit Kumar, Veena, Farida Jalal}%
+\singer{Asha}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11522 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+jaan ga_ii mai.n to jaan ga_ii
+o ho jaan ga_ii mai.n to jaan ga_ii
+ko_ii banaa_e bahaane
+moraa cha.nchal jiyaravaa lubhaane
+jaan ga_ii mai.n to \threedots
+
+binaa kaaran kare mose baate.n
+o binaa kaaran kare mose baate.n
+mai.n to samajhuu.N vo sab usakii ghaate.n \-2
+( mu.D\-mu.D ke ) \-2 mohe bulaa_e
+more naino.n se nainaa milaane ko
+ho jaan ga_ii mai.n to \threedots
+
+mohe dekhe to man usakaa Dole
+o ho mohe dekhe to man usakaa Dole
+par vo ye baat khul ke na bole \-2
+( chaahe vo ) \-2 kitanaa chhupaa_e
+jiyaa ta.Dape hai garavaa lagaane ko
+jaan ga_ii mai.n to \threedots
+
+moraa man naache\-naache Kushii me.n
+ho ho moraa man naache\-naache Kushii me.n
+maine ghar kar liyaa usake jii me.n \-2
+( yuu.Nhii ) \-2 nahii.n usane chaahaa
+more juu.De me.n phulavaa lagaane ko
+jaan ga_ii mai.n to \threedots
+%
+#endindian
+\endsong
+

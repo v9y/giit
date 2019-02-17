@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{diivaanaa hu_aa mai.n diivaanaa merii jaa.n ... meraa bas meraa hai ajay}%
+\film{Ajay}%
+\year{1996}%
+\starring{Sunny, Karisma, Suresh Oberoi, Farida Jalal, Reena Roy, Mohnish}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa hu_aa mai.n diivaanaa merii jaa.n tere ishq me.n
+hai Thokar jahaa.n ko lagaanaa merii jaa.n tere ishq me.n
+mai.n paagal hu_ii diivaanii hu_ii terii dilarubaa terii raanii hu_ii
+meraa bas meraa hai ajay
+diivaanaa hu_aa mai.n \threedots
+
+tuufaan diivaanagii kaa roke kabhii na ruke
+sachchii muhabbat ke aage saaraa zamaanaa jhuke
+ab ye merii zi.ndagaanii hai terii chaahat ke naam
+chaahuu.ngii tujhako hameshaa chaahe subah ho yaa shaam
+hai kadamo.n me.n dil ko jhukaanaa merii jaa.n tere ishq me.n
+mai.n paagal hu_ii \threedots
+
+duniyaa kii saarii hado.n se aage guzar jaanaa hai
+jiinaa hai baaho.n me.n terii baaho.n me.n terii maranaa hai
+kaise tujhe mai.n bataa_uu.n kaisaa hai diivaanaapan
+terii vafaa_o.n kaa jaaduu chhaane lagaa jaan\-e\-man
+labo.n ko labo.n tak hai laanaa merii jaa.n tere ishq me.n
+mujhako hai sab kuchh luTaanaa merii jaa.n tere ishq me.n
+tuu paagal hu_ii diivaanii hu_ii
+diivaanii hu_ii mai.n diivaanii
+%
+#endindian
+\endsong
+

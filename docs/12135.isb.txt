@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{jalane vaale to jalate rahe.nge ... bas terii aarazuu hai aap hai.n nigaaho.n me.n}%
+\film{Jaagriti}%
+\year{1992}%
+\starring{Salman Khan, Karisma Kapoor}%
+\singer{Chitra, S P Balasubramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jalane vaale to jalate rahe.nge haath ko apane malate rahe.nge
+khul ke kare.nge ham pyaar chik dum
+
+bas terii aarazuu hai aap hai.n nigaaho.n me.n chiki dum
+apanii yo zi.ndagii hai yaar terii baaho.n me.n
+tere binaa naa jiinaa ga.nvaaraa
+dekhaa diladaar tujhako pyaar me.n hai dil haaraa
+jalane vaale to \threedots
+
+shamaa huu.N mai.n terii aur tuu meraa paravaanaa hai chiki dum
+majanuu.n raa.njhe kaa naa farahaad kaa zamaanaa hai chiki dum
+aajaa inhe.n ham aise jalaa_e.n
+diivaano.n kii kabhii bhii raah me.n naa ye aa_e.n
+jalane vaale to \threedots
+%
+#endindian
+\endsong
+

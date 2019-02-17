@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{suunii re sajariyaa saajan bin tere}%
+\film{Namak Haraam}%
+\year{1973}%
+\starring{Rajesh Khanna, Amitabh, Simi, Rekha, Asraani, A. K Hangal, Om Shivpuri, Raza Murad, Durga Khote}%
+\singer{Asha, Usha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #12177 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+aa \:	suunii re sajariyaa saajan bin tere
+u \:	suunii re sajariyaa saajan bin tere
+aa \:	ho bha_ii mai.n ba.Nwariyaa haay raam
+do \:	bha_ii mai.n ba.Nwariyaa saajan bin tere
+	suunii re sajariyaa saajan bin tere \-2
+
+u \:	rimajhim kaahe ko barase re badaraa
+	bah gayaa dhul ke naino.n se kajaraa
+do\:	rimajhim kaahe ko
+	rimajhim haa.N
+	rimajhim kaahe ko barase re badaraa
+	bah gayaa dhul ke naino.n se kajaraa
+u \:	abake baras saawan se puuchho
+aa \:	chhaa_ii kyuu.N badariyaa haay raam
+do \:	chhaa_ii kyuu.N badariyaa saajan bin tere
+	suunii re sajariyaa saajan bin tere \-2
+
+u \:	 log na jaane aise jiite hai.n kaise
+	tumase bichha.D ke ham to mar gaye jaise
+(?)
+% in HMV cassette SPHO 820348 (Anand, Mere Apne, Namak Haram) this song ends here.
+%
+%
+#endindian
+\endsong
+

@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{dil deke dekho, dil deke dekho}%
+\film{Dil Deke Dekho}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Asha, Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil deke dekho,  dil deke dekho
+dil deke dekho jii
+dil lene vaalo.n,  dil denaa siikho jii
+ho \threedots dil lene vaalo.n
+dil denaa siikho jii
+
+puuchho puuchho puuchho
+paravaane se zaraa
+dhiire dhiire jalane
+me.n kaisaa hai mazaa
+
+ohoho \threedots tum bhii dil deke
+jal jaanaa siikho jii
+aahaahaa \threedots tum bhii dil deke
+jal jaanaa siikho jii
+kaise?
+
+dil deke dekho \threedots
+
+samajho samajho samajho
+diivaane kii zubaan
+pyaar jo naa hotaa
+naa hotaa ye jahaa.N
+
+ohoho \threedots tum bhii dil deke
+ye gaanaa siikho jii
+aahaahaa \threedots tum bhii dil deke
+ye gaanaa siikho jii
+kyaa?
+
+dil deke dekho \threedots
+%
+#endindian
+\endsong
+%

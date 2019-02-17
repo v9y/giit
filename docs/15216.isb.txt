@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{Dol rahii hai naiyaa merii}%
+\film{Shikari}%
+\year{1946}%
+\starring{Ashok Kumar, Veera, Paro, Ram Shukul, Leela Mishra, Kishor Kumar}%
+\singer{Ashok Kumar, Paro/ Ashok Kumar}%
+\music{S D Burman}%
+\lyrics{Pradeep}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+% First film of S D Burman
+
+\printtitle
+#indian
+
+% Ashok Kumar version
+
+Dol rahii hai, Dol rahii hai, Dol rahii hai naiyaa
+Dol rahii hai naiyaa merii Dol rahii hai naiyaa
+aa ho ho
+ho ho ho ho \-3
+
+( aaj puunam kaa chaa.Nd khilaa ha.Ns rahii hai raat
+aaj chamakiilii laharo.n kaa cha.nchal hai gaat ) \-2
+mai.n akelaa huu.N kisase kahuu.N apane man kii baat
+( ho
+kahaa.N jaa_uu.N, kahaa.N jaa_uu.N, kahaa.N jaa_uu.N re ) \-2
+
+merii raadhaa hai kaun mai.n huu.N kisakaa kanhaiyaa
+merii raadhaa
+merii raadhaa hai kaun mai.n huu.N kisakaa kanhaiyaa
+
+Dol rahii hai naiyaa merii Dol rahii hai naiyaa
+Dol rahii hai, Dol rahii hai, Dol rahii hai naiyaa
+Dol rahii hai naiyaa merii Dol rahii hai naiyaa
+ho
+	
+#endindian
+\endsong

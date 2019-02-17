@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{saat ajuube is duniyaa me.n ... dharam\-viir kii jo.Dii}%
+\film{Dharam-Veer}%
+\year{1977}%
+\starring{Dharmendra, Jeetendra, Zeenat, Neetu}%
+\singer{Mukesh, Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11274 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	saat ajuube is duniyaa me.n aaThavii.n apanii jo.Dii
+mu \:	saat ajuube is \threedots
+do \:	are to.De se bhii TuuTe naa ye dharam\-viir kii jo.Dii
+	ho ho ho \-3
+mu \:	saat ajuube is \threedots
+do \:	are to.De se \threedots
+
+ra \:	ko_ii tujhako de aavaaz to mai.n boluu.N
+mu \:	ko_ii tujhe pukaare to mai.n lab kholuu.N
+ra \:	kyaa jiinaa aur kyaa mar jaanaa
+mu \:	aisaa hotaa hai yaaraanaa
+do \:	are chho.Dii yaaro.n ne duniyaa par yaar kii baa.Nh na chho.Dii
+	ho ho ho \-3
+
+mu \:	ye la.Dakii hai yaa resham kii Dor hai
+ra \:	kitanaa Gussaa hai kitanii mu.Nhazor hai
+mu \:	Dhiilaa chho.D naa denaa ha.Ns ke
+ra \:	rakhanaa dost lagaam kas ke
+do \:	are mushkil se kaabuu me.n aa_e tho.Dii Dhiil jo chho.Dii
+	ho ho ho \-3
+ra \:	saat ajuube is \threedots
+mu \:	are to.De se \threedots
+ko \:	aa aa aa
+
+ra \:	dukh\-sukh ke ham saathii hai.n ye vaadaa hai
+mu \:	apanaa jo kuchh hai sab aadhaa\-aadhaa hai
+ra \:	jo ye sachchaa vaadaa hai to sab\-kuchh aadhaa\-aadhaa hai to
+	are raanii maa.N se mujhako bhii mamataa mil jaa_e tho.Dii
+ko \:	aa aa aa
+ra \:	saat ajuube is \threedots
+mu \:	saat ajuube is \threedots
+do \:	are to.De se \threedots
+	ho ho ho \-3
+ko \:	aa aa aa
+%
+#endindian
+\endsong
+

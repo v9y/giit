@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ruuTh kar ham unhe.n ... bhuul jaane vaale yaad aane vaale}%
+\film{Gunaah}%
+\year{2002}%
+\starring{Dino Maria, Bipasha Basu}%
+\singer{Roop Kumar Rathod, Sabari Brothers, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ruuTh kar ham unhe.n bhuul jaane lage
+vo hame.n aur bhii yaad aane lage
+bhuul jaane vaale yaad aane vaale
+bhuul jaane vaale \threedots
+
+hamane dil se kahii.n apanii majabuuriyaa.N
+dil ko lekin ye saare bahaane lage
+bhuul jaane vaale \threedots
+
+airii ai
+unake kadamo.n me.n gir jaa_e.N mar jaa_e.N ham
+is tarah apanii miTTii Thikaane lage
+bhuul jaane vaale \threedots
+
+unase ik pal me.n kaise bichha.D jaa_e.N ham
+jinase milane me.n shaayad zamaane lage
+bhuul jaane vaale \threedots
+
+jo soch rahe hai.n kabhii dekhaa hii nahii.n thaa
+jo dekh rahe hai.n kabhii sochaa nahii.n thaa nahii.n thaa
+yaad aane vaale \threedots
+%
+#endindian
+\endsong
+

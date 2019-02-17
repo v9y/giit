@@ -1,0 +1,45 @@
+% ITRANS SONG # 3305; Created on Jan 26, 2004
+%
+% From: naniwadekar (not_this_naniw@hotmail.com)
+% Date: 2002-10-27 11:40:28 PST                               Original Format
+%
+\startsong
+\stitle{chhe.D de sajanii ... jinakii jawaanii unakaa zamaanaa}%
+\film{Holiday in Bombay}%
+\year{1941}%
+\starring{Sabita Devi, Shobhana Samarth, Arun, Vatsala Kumthekar, E Bilimoria, Jal Merchant, Ghori}%
+\singer{Kantilal, Shobhana Samarth}%
+\music{Khemchand Prakash}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 27 Oct 2002
+% Comments: The song is based on Raag Durga.
+%   Film - 'Holiday in Bombay' urf 'Bambai ki sair'
+%
+\printtitle
+#indian
+%
+kaa: chhe.D de sajanii wohii taraanaa
+sho: kaun saa, saajan?
+kaa: jinakii jawaanii unakaa zamaanaa
+bo: jinakii jawaanii unakaa zamaanaa
+
+sho: saajan, prem ke miiThe sapane
+kaa: dil leke ban jaa_o apane
+      mai.n kahuu.N pagalii, tum kaho diwaanaa
+bo: jinakii jawaanii unakaa zamaanaa
+
+sho: phuul khile hai.n Daalii Daalii
+kaa: kitanaa khush hai man kaa maalii
+      naachat titalii bhau.nraa mastaanaa
+bo: jinakii jawaanii unakaa zamaanaa
+
+kaa: dono jawaa.N dono kamasiin hai.n
+      khul gaye ab unake din hai.n
+      dekh ke unako jii na jalaanaa
+bo:  jinakii jawaanii unakaa zamaanaa
+%
+#endindian
+\endsong
+%

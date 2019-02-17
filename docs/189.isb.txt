@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ajahu.N naa aaye baalamaa, saavan biitaa jaae}%
+\film{Saanjh aur Savera}%
+\year{1964}%
+\starring{Meena Kumari, Guru Dutt, Mehmood, Shubha Khote}%
+\singer{Rafi, Suman Kalyanpur}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Prashant Kulkarni (praskulk@darboux.engin.umich.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ajahu.N naa aae baalamaa, saavan biitaa jaae
+haay re saavan biitaa jaae
+
+nii.nd bhii a.nkhiyan dvaar na aae
+tose milan kii aas bhii jaae
+aaI bahaar khile phulavaa 
+more sapane kaun sajaae
+aa \threedots ajahu.n \threedots
+
+chaa.nd ko badaraa garavaa lagaae
+aur bhii more man lalachaae
+yaar hasiin gale lag jaa
+morii umr guzaratii jaae
+aa \threedots ajahu.n \threedots
+%
+#endindian
+\endsong
+%

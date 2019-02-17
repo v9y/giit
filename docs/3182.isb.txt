@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{raat a.Ndherii duur saveraa barabaad hai dil meraa o}%
+\film{Aah}%
+\year{1953}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+raat a.Ndherii duur saveraa
+barabaad hai dil meraa o
+raat a.Ndherii \threedots
+
+aanaa bhii chaahe.n aa naa sake ham
+koii nahii.n aasaraa
+khoyii hai ma.nzil rastaa hai mushkil
+chaa.Nd bhii aaj chhupaa, o
+raat a.Ndherii \threedots
+
+aah bhii roye raah bhii roye
+suujhe na baaT koii
+tho.Dii umar hai suunaa safar hai
+meraa na saath koii, o
+raat a.Ndherii \threedots
+
+%
+#endindian
+\endsong
+%

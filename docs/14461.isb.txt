@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{muhabbat kar ... javaanii hai}%
+\film{Tohfa}%
+\year{1947}%
+\starring{Nawab, Veera, Anuradha, Rahman, Mishra}%
+\singer{Mukesh, Hameeda}%
+\music{M A Rauf (Usmania)}%
+\lyrics{Nazeer Haiderabadi}%
+%
+% Contributor: BOL ANAMOL #11412 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+muhabbat kar \-2
+javaanii hai \-2
+are o chhupane vaale sun mere dil kii kahaanii hai
+mere dil kii kahaanii hai aur aa.Nkho.n kii zubaanii hai
+
+are o gaane vaale sun ajab terii kahaanii hai
+ki dil kii baat hai aur phir bhii aa.Nkho.n kii zubaanii hai
+muhabbat kar \threedots
+
+yahii gaa_o yahii gaa\-gaa ke Kud tum giit ban jaa_o
+mere sapano.n kii devii ho merii aashaa na Thukaraa_o
+muhabbat kar \threedots
+
+nazar bahakii qadam bahake ( ye kaun aayaa ) \-2
+pavan lahake chaman mahake ( ye kaun aayaa ) \-2
+nahii.n aasaan tuufaano.n me.n dariyaa paar kar lenaa
+
+jo tinakaa Duub jaataa hai vo hii saahil se milataa hai
+merii jaa.N chaahane vaalaa ba.Dii mushqil se milataa hai
+%
+#endindian
+\endsong
+

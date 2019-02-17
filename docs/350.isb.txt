@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Ndii kii diivaar na to.Dii, pyaar bharaa dil to.D diyaa}%
+\film{Vishvaas}%
+\year{1969}%
+\starring{Jeetendra, Aparna Sen}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+chaa.NdI kii diivaar na to.Dii, pyaar bharaa dil to.D diyaa
+ik dhanavAn kI beTI ne, nirdhan kA dAman to.D diyaa
+chA.NdI kI \threedots
+
+kal tak jisane qasame.n khAI.n, dukh me.n sAth nibhAne kI
+Aj vo apane sukh kI khAtir, ho gaI ik begAne kI
+shahanAiyo.n kI gU.nj me.n dabake, rah gaI Ah dIvAne kI
+dhanavAno.n ne dIvAne kA, Gam se rishtA jo.D diyA
+ik dhanavAn kI beTI ne, nirdhan kA dAman to.D diyA
+chA.NdI kI \threedots
+
+ye kyA samajhe pyAr ko jinakA, sab kuchh chA.NdI sonA hai
+dhanavAno.n kI is duniyA me.n, dil to ek khilaunA hai
+sadiyo.n se dil TUTatA AyA, dil kA bas ye ronA hai
+jab tak chAhA dil se khelA, aur jab chAhA to.D diyA
+ik dhanavAn kI beTI ne, nirdhan kA dAman to.D diyA
+chA.NdI kI \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{tuu kitane baras kii tuu kitane baras kaa}%
+\film{Karz}%
+\year{1980}%
+\starring{Rishi Kapoor, Tina Munim, Simi Garewal, Raj Kiran, Pran,  Premnath, Durga Khote}%
+\singer{Kishore, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11607 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	tuu kitane baras kii
+la \:	tuu kitane baras kaa
+	mai.n solah baras kii
+ki \:	to mai.n satrah baras kaa
+la \:	solah
+ki \:	satrah
+la \:	satrah
+ki \:	solah
+la \:	mil naa jaa_e.N nainaa
+	ik do baras zaraa duur rahanaa
+	kuchh ho gayaa to phir na kahanaa
+	mai.n solah baras \threedots
+
+ki \:	kuchh bhii ho mushqil hai duur rahanaa
+	kuchh ho gayaa to phir na kahanaa
+	tuu solah baras \threedots
+
+	paravat pe cha.Dhake ghanaghor ghaTaa_e.N Takaraa_e.N to kyaa ho
+ki \:	barasaat ho
+	tere dil se meraa dil mil jaa_e to kyaa ho
+la \:	baaraat ho
+ki \:	jaane kab barasaat ho jaane kab baaraat ho
+	meraa dil to chaahe aaj kii raat milan kii raat ho
+la \:	ik do baras zaraa \threedots
+
+ki \:	sachche premii sab milate hai.n ab dekhe.n ham kab milate hai.n
+la \:	milane me.n ab kyaa mushqil hai terii\-merii ik ma.nzil hai
+	duur hai vo nazadiik nahii.n hai
+	ab ye milanaa Thiik nahii.n hai
+ki \:	kyuu.N \-4
+la \:	kyuu.Nki
+	mai.n solah baras \threedots
+%
+#endindian
+\endsong
+

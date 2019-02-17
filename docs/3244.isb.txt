@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{zamaane kaa dastuur hai ye puraana}%
+\film{Lajawab}%
+\year{1950}%
+\starring{Sohan, Rehana}%
+\singer{Lata, Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:2 July,2001
+% Comments:
+%
+\printtitle
+#indian
+%
+
+mu: zamaane kaa dastuur hai ye puraanaa
+    zamaane kaa dastuur hai ye puraanaa
+    miTaa kar banaanaa banaa kar miTaanaa
+    miTaa kar banaanaa banaa kar miTaanaa
+    zamaane kaa dastuur hai ye puraanaa
+
+la: vafaa kyaa yahii hai jafaa karane vaale
+    vafaa kyaa yahii hai jafaa karane vaale
+    nigaahe.n milaa kar nigaahe.n churaanaa
+    nigaahe.n milaa kar nigaahe.n churaanaa
+    zamaane kaa dastuur hai ye puraanaa
+
+mu: muhabbat kaa a.njaam zaahir thaa ham par
+    muhabbat kaa a.njaam zaahir thaa ham par
+    bahut hamane rokaa magar dil na maanaa
+    bahut hamane rokaa magar dil na maanaa
+    zamaane kaa dastuur hai ye puraanaa
+
+la: koii aasamaa.N se zaraa ye to puuchhe
+    koii aasamaa.N se zaraa ye to puuchhe
+    milaa kyaa jalaa kar meraa aashiyaanaa
+    milaa kyaa jalaa kar meraa aashiyaanaa
+    zamaane kaa dastuur hai ye puraanaa
+
+%
+#endindian
+\endsong
+%

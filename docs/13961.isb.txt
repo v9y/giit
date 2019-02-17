@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{aaj raat aa_egaa mazaa diivaane ho jaa_e.nge fidaa}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Chitra}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaj raat aa_egaa mazaa diivaane ho jaa_e.nge fidaa
+jaaduu hai merii adaa_o.n me.n mastii nigaaho.n me.n
+aa merii baaho.n me.n aa
+aaj raat aa_egaa \threedots
+
+har dil pe hai chhaayaa rahaa merii aashiqii kaa nashaa
+mai.n chaahatii kisako yahaa.n kisii ko nahii.n hai pataa
+aaj raat aa_egaa \threedots
+
+saa.Nse.n ba.Dii bechain hai.n labo.n pe hasii.n daastaa.n
+tanhaa_iiyaa.n kahane lagii.n na duurii rahe daramiyaa.n
+aaj raat aa_egaa \threedots
+%
+#endindian
+\endsong
+

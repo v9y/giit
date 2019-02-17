@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aap ko mujh se gilaa hotaa na shiqawaa hotaa}%
+\film{Tehzeeb}%
+\year{2003}%
+\starring{Shabana Azmi, Rishi Kapoor, Urmila Matondkar, Arjun Ramphal, Dia Mirza, Namrata Shirodkar}%
+\singer{Sujata Bhattacharya/ Vijaya}%
+\music{A R Rahman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #12311 [V S Rawat], 26/01/2004
+%
+% Cassette has full ghazal in Sujata's voice, then only first line
+% is again done by Vijaya. Not aware whether full version is there
+%
+\printtitle
+#indian
+%
+aap ko mujh se gilaa hotaa na shiqawaa hotaa
+merii majabuurii ko gar aap ne samajhaa hotaa
+samajhaa hotaa
+
+aap ko mujh se gilaa hotaa na shiqawaa hotaa \-2
+merii majabuurii ko gar aap ne
+merii majabuurii ko gar aap ne samajhaa hotaa
+samajhaa hotaa
+aap ko mujh se
+aap ko mujh se gilaa hotaa na shiqawaa hotaa
+
+dard kii yaad me.n bhii dard hai behatar ye thaa \-2
+apane zaKmo.n kaa hisaab ham ne na rakhaa hotaa
+merii majabuurii ko gar aap ne
+merii majabuurii ko gar aap ne samajhaa hotaa
+samajhaa hotaa
+
+Kwaab dekhe the jo hamane wo sabhii sach hote \-2
+sochiye aisaa agar hotaa to kaisaa hotaa
+merii majabuurii ko gar aap ne samajhaa hotaa
+samajhaa hotaa
+aap ko mujh se gilaa hotaa na shiqawaa hotaa
+%
+#endindian
+\endsong
+%
+

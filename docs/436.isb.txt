@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{dekh tere sa.nsaar kii haalat kyaa ho ga_ii bhagavaan}%
+\film{Nastik}%
+\year{}%
+\starring{Ajit, Nalini Jaywant}%
+\singer{Pradeep}%
+\music{C Ramchandra}%
+\lyrics{Pradeep}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Prithviraj Dasgupta
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dekh tere sa.nsaar kii haalat kyaa ho ga_ii bhagavaan
+kitanaa badal gayaa inasaan kitanaa badal gayaa inasaan
+suuraj na badalaa chaa.nd na badalaa naa badalaa re aasamaan
+kitanaa badal gayaa inasaan kitanaa badal gayaa inasaan
+
+aayaa samay ba.Daa beDha.ngaa
+aaj aadamii banaa lafa.ngaa
+kahii.n pe jhaga.Daa kahii.n pe da.ngaa
+naach rahaa nar ho kar na.ngaa
+chhal aur kapaT ke haatho.n apanaa
+bech rahaa iimaan, kitanaa \threedots
+
+raam ke bhakt rahiim ke ba.nde
+rachate aaj fareb ke pha.nde
+kitane ye makkar ye a.ndhe
+dekh liye inake bhii dha.ndhe
+inhii.n kii kaalii karatuuto.n se
+banaa ye mulk mashaan, kitanaa \threedots
+
+jo ham aapas me.n na jhaga.Date
+bane hue kyo.n khel biga.Date
+kaahe laakho.n ghar ye uja.Date
+kyo.n ye bachche maa.N se bichha.Date
+phuuT\-phuuT kar kyo.n rote
+pyaare baapuu ke praaN, kitanaa \threedots
+
+%
+#endindian
+\endsong
+%

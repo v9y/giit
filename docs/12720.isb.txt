@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{ho ke maayuus tere dar se savaalii na gayaa}%
+\film{Lailaa Majnun}%
+\year{1976}%
+\starring{Rishi Kapoor, Ranjeeta}%
+\singer{Rafi, Aziz Nazaa, Shankar Shambhu, Ambar Kumar}%
+\music{Madan Mohan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10576 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ho ke maayuus tere dar se savaalii na gayaa
+	jholiyaa.N bhar ga_ii.n sabakii ko_ii khaalii na gayaa
+
+a \:	tere darabaar me.n jo bhii pareshaa.N ho ke aa_e
+	du_aa_e.N de ke jaa_e aur muraade.n le ke aa_e
+	tuu rahamat kaa farishtaa hai tuu uja.De ghar basaa_e
+	tuu ruuho.n kaa masiihaa hai tuu har Gam kii davaa hai
+	ahal\-e\-dil aha\-e\-mohabbat pe inaayat hai terii
+	tuune Duubo.n ko ubaaraa hai ye shoharat hai terii
+	anokhii shaan terii niraalii aan terii
+	tuu mastii kaa Kazaanaa teraa har dil diivaanaa
+	tuu mahabuub\-e\-Kudaa hai tuu har Gam kii davaa hai
+	tabhii to sab ( kahate hai.n ) \-3
+	ho ke maayuus tere \threedots
+
+ra \:	jamaal\-e\-yaar dekhaa hai ruK\-e\-diladaar dekhaa
+	kisii kaa naazanii.n jalavaa sar\-e\-darabaar dekhaa
+	tamannaa_o.n ke saharaa me.n hasii.n gulazaar dekhaa
+	jabase dekhaa hai tujhe dil kaa ajiib aalam hai
+	jaan\-o\-iimaa.N bhii agar nazar karuu.N to kam hai
+	thaa jo sunane me.n aayaa tujhe vaisaa hii paayaa
+	tuu aramaano.n kii ma.nzil tuu ummiido.n kaa saahil
+	tuu har biga.Dii banaa_e tuu bichha.Do.n ko milaa_e
+	tabhii to sab ( kahate hai.n ) \-3
+	ho ke maayuus tere \threedots
+%
+#endindian
+\endsong
+

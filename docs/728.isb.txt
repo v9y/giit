@@ -1,0 +1,36 @@
+% 
+\startsong
+\stitle{he, niile gagan ke tale, dharatii kaa pyaar pale}%
+\film{Hamraaz}%
+\year{1967}%
+\starring{Sunil Dutt, Vimmi}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Umesh Garg (garg@neon.helios.nd.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Oct 22 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+he\threedots, niile gagan ke tale, dharatii kaa pyaar pale
+aise hii jag me.n, aatii hai.n subahe.n
+aise hii shaam Dhale \threedots
+
+shabanam ke motii, phuulo.n pe bikhare
+dono.n kii aas phale \threedots
+
+balakhaatii bele.n, mastii me.n khele.n
+pe.Do.n se milake gale \threedots
+
+nadiyaa kaa paanii, dariyaa se milake
+saagar kis or chale \threedots
+%
+#endindian
+\endsong
+%

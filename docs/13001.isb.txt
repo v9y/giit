@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{na thamate hai.n aa.Nsuu na rukate hai.n naale}%
+\film{Meena Bazar}%
+\year{1950}%
+\starring{Nargis, Shyam, Kuldip, Om Prakash, Gop, Sapru, Kanhaiyalal}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #10237 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+na thamate hai.n aa.Nsuu na rukate hai.n naale
+merii zindagaanii hai Gam ke havaale
+na thamate hai.n \threedots
+
+kaho dard de kar chale jaane vaale \-2
+ko_ii kab talaq ye amaanat sa.mbhaale
+na thamate hai.n \threedots
+
+abhii chup hu_e the abhii ro rahe hai.n \-2
+o terii yaad me.n hamane yuu.N din nikaale
+na thamate hai.n \threedots
+
+sisakatii hai.n hasarate.n ta.Dapate hai.n aramaa.N
+ba.De bevafaa ho are jaane vaale
+na thamate hai.n \threedots
+%
+#endindian
+\endsong
+

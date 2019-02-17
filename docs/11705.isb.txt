@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{terii aa.Nkho.n kaa a.ndaaz kahataa hai}%
+\film{Haan Maine Bhi Pyaar Kiya}%
+\year{2002}%
+\starring{Abhishek Bachchan, Karisma Kapoor, Akshay Kumar}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+terii aa.Nkho.n kaa a.ndaaz kahataa hai
+tuu pyaar mujh se hii karataa hai
+
+terii baato.n kaa a.ndaaz kahataa hai
+kyaa
+tuu yaar mujh pe hii maratii hai
+terii aa.Nkho.n kaa \threedots
+
+tere paas mai.n aa_uu.N tujhe pyaar sikhaa_uu.N
+tujh pe jaan luTaa_uu.N jaan\-e\-jaanaa
+meraa dil dha.Dakaayaa mujhe ishq sikhaayaa
+mujhe apanaa banaayaa tuu diivaanaa
+vaadaa kiyaa hai kasam ham ne lii hai
+na ham ho.nge mil ke judaa
+
+terii aa.Nkho.n kaa a.ndaaz kahataa hai
+tuu pyaar mujh se hii karatii hai
+terii baato.n kaa a.ndaaz kahataa hai
+tuu yaar mujh pe hii marataa hai
+
+nayaa silasilaa hai na_ii dostii hai
+nayaa dilarubaa hai na_ii dillagii hai
+khule aasamaano.n ke niiche mile hai.n
+muhobbat me.n do dil javaa.n
+terii saa.Nso.n kaa har saaz kahataa hai
+tuu pyaar mujh se hii karataa hai
+uf bahakane kaa a.ndaaz kahataa hai
+tuu pyaar mujh se hii karatii hai
+
+naa mai.n hosh me.n huu.N naa tujh ko khabar hai
+ho merii chaahato.n kaa ye tujh pe asar hai
+chalo ek duuje me.n aise samaa_e.N
+ke dekhe na ham ko jahaa.N
+tere khvaabo.n kaa har raaz kahataa hai
+tuu pyaar mujh se hii karataa hai
+haa_y lipaTane kaa a.ndaaz kahataa hai
+tuu yaar mujh pe hii maratii hai
+terii aa.Nkho.n kaa \threedots
+%
+#endindian
+\endsong
+

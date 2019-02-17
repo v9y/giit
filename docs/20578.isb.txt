@@ -1,0 +1,50 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{ab kaun hai meraa}%
+\film{Dost}%
+\year{1944}%
+\starring{Noor Jehan}%
+\singer{Noorjehan}%
+\music{Sajjad Hussain}%
+\lyrics{Shams Laknavi}%
+% 
+% Audio on: 
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 14 Nov 2004
+% Series: Noor-e-Tarannum
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+
+ab kaun hai meraa \-3
+dukh dard ne gheraa, mujhe dukh dard ne gheraa
+ab kaun hai meraa
+
+maalik mere aa.a bahr\-e\-madad naam hai teraa
+ab kaun hai meraa
+
+ghar ghar me.n ujaalaa hai Kushii aur ha.Nsii hai
+yaa.N dam pe hai banii hai 
+har simt nazar aa rahaa hai mujh ko andheraa
+ab kaun hai meraa
+
+(vo zindaa rahe.n unakii balaa leke uThuu.N mai.n
+qadamo.n pe maruu.n mai.n, qadamo.n pe maruu.N mai.n) \-2
+hasarat hai yahii aur yahii armaan hai meraa
+ab kaun hai meraa
+
+(shikawaa hai na unase na muqaddar kaa gilaa hai
+sab merii Kataa hai) \-2
+is mahafil\-e\-duniyaa se uThaa de meraa Deraa
+ab kaun hai meraa
+
+ab kaun hai meraa \-2
+
+%
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bin tere kuchh nahii.n hai baaho.n kaa sahaaraa de de}%
+\film{Maine Dil Tujhko Diya}%
+\year{2002}%
+\starring{Sanjay Dutt, Sohail Khan, Samira Reddy}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Dabbu Malik}%
+\lyrics{Salim Bijanauri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh bhii nahii.n kuchh nahii.n hai
+bin tere kuchh nahii.n hai
+baaho.n kaa sahaaraa de de
+jiine kaa bahaanaa de de
+tuu hii hai bas tuu hii hai
+bin tere kuchh nahii.n \threedots
+
+aa_e ye hii du_aa ho.nTho.n par
+chaahuu.N tujhako hii umr bhar
+jabase saath milaa hai teraa
+puuraa khvaab hu_aa hai meraa
+aramaa.N nahii.n ab ko_ii hai
+bin tere kuchh nahii.n \threedots
+
+mujhako chaahogii kyaa jiitejii
+tujhako chaahe.nge ham marake bhii
+itanaa chaahat pe hai yakii.n
+jitanaa apane khudaa pe nahii.n
+tuu hii merii ba.ndagii hai
+bin tere kuchh nahii.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dekh lo aaj hamako jii bharake}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Tahira Syed}%
+\music{Khalil Ahmed}%
+\lyrics{Mirza Shauq}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: Sat 19 January 2002
+%
+\printtitle
+#indian
+%
+ishq me.n hamane ye kamaa_ii kii
+dil diyaa Gam se aashanaa_ii kii
+
+dekh lo aaj hamako jii bharake
+ko_ii aataa nahii.n hai phir marake
+
+go Thikaane nahii.n hai hosh\-o\-hawaas
+itanaa kahane ko hai bulaayaa paas
+dekh lo \threedots
+
+baaG\-e\-aalam se naamuraad chale
+dil me.n lekar tumhaarii yaad chale
+dekh lo \threedots
+
+phir ham uThane lage biThaa lo tum
+phir bigaD jaaye.n ham manaa lo tum
+dekha lo \threedots
+
+hashr tak hogii phir ye baat kahaa.N
+tum kahaa.N ham kahaa.N ye raat kahaa.N
+dekh lo aaj hamako jii bharake
+ko_ii aataa nahii.n hai phir marake
+
+%
+#endindian
+\endsong
+%

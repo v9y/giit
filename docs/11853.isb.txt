@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ye hariyaalii aur ye raastaa}%
+\film{Hariyali Aur Rasta}%
+\year{1962}%
+\starring{Manoj Kumar, Mala Sinha}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10923 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ye hariyaalii aur ye raastaa \-2
+in raaho.n par teraa\-meraa jiivan bhar kaa vaastaa
+ye hariyaalii aur \threedots
+
+phuulaa\-phalaa hai priit kaa a.Nganaa
+gaatii huu.N tere pyaar kii rachanaa
+dil kii ye baate.n dil me.n na rakhanaa
+kah do jo kahanaa hai o more sajanaa
+ye hariyaalii aur \threedots
+
+tum rahate ho mere man me.n aise
+jaise ujaalaa chaa.Nd ke tan me.n
+jaise Kushbuu phuul chaman me.n
+jaise Tha.nDak mast pavan me.n
+ye hariyaalii aur \threedots
+
+aag ulfat kii dil me.n lagii hai
+dhiire\-dhiire ba.Dhatii rahii hai
+pyaasii koyaliyaa jalatii rahii hai
+jal\-jal ke tumase kah rahii hai
+ye hariyaalii aur \threedots
+%
+#endindian
+\endsong
+

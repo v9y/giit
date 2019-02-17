@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{zaruurat hai zaruurat hai zaruurat hai}%
+\film{Man Mauji}%
+\year{}%
+\starring{Kishore}%
+\singer{Kishore}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Vandana Vidwans
+%
+\printtitle
+#indian
+%
+zaruurat hai zaruurat hai, saKt zaruurat hai! 
+
+(zarUrat hai zarUrat hai zarUrat hai 
+ek shrImatI kI, kalAvatI kI, sevA kare jo pati kI ) \- 2
+zarUrat hai zarUrat hai zarUrat hai
+
+hasI.n hazAro.n bhI ho.n kha.De, magar usI par nazar pa.De \- 2
+ho zulf gAlo.n pe khelatI, ke jaise din raat se la.De 
+ho ho ho ho
+adAo.n me.n bahaar ho, nigAho.n pe khumaar ho 
+qubUl merA pyAr ho to kyA baat hai 
+zarUrat hai zarUrat hai zarUrat hai \threedots
+
+itar me.n sA.nse.n basI basI, vo mastiyo.n me.n rasI rasI \- 2
+zaraa sii palake.n jhukI jhukI, bhave.n ghanerI kasI kasI
+ho ho ho ho 
+phUlo.n me.n gulAb ho Kud apanA javAb ho
+vo pyAr kI kitaab ho to kyA baat hai 
+zarUrat hai zarUrat hai zarUrat hai \threedots
+
+jhaTak ke gesuu jahaa.N chale, to saath me.n aasamaa.N chale \-2
+lipaT ke kitane bhi paa.Nv se, yah puuchhate ho kahaa.N chale
+ho ho ho ho
+pyaar se jo kaam le, ha.Ns ke salaam le
+vo haath meraa tham le, to kyaa baat hai
+zaruurat hai zaruurat hai zaruurat hai
+
+haa.n haa.n! shriimatI kI
+ho ho ! kalAvati kI 
+sevA kare jo pati kI 
+zarUrat hai zarUrat hai zarUrat hai
+sakht zarUrat hai!
+
+%
+#endindian
+\endsong
+%

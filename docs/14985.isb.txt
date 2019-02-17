@@ -1,0 +1,71 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mausam\-e\-bahaar yaar ... yaar va_i va_i}%
+\film{Sargam}%
+\year{1950}%
+\starring{Raj Kapoor, Rehana, Omprakash, David}%
+\singer{Lata, Chitalkar, Chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ko \:	 ( mausam\-e\-bahaar yaar, dil hai gulazaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar ) \-2
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar \-2
+
+la \:	aa
+	tuu chho.D ke chalaa gayaa, dil meraa jalaa gayaa \-2
+	jhuuThe tere vaayade jhuuThaa teraa pyaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+ko \:	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar
+	mausam\-e\-bahaar yaar, dil hai gulazaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar \-2
+
+la \:	o
+	tujhako kyaa pataa sanam
+	tujhako kyaa pataa sanam, tere biinaa kabase ham, beqaraar \-2
+	beqaraar hai.n beqaraar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+chi \:	va_i va_i va_i va_i va_i va_i va_i va_i
+	yaar va_i va_i, yaar va_i va_i, yaar
+	va_i va_i va_i va_i yaar va_i va_i
+	va_i va_i va_i va_i yaar va_i va_i va_i
+ko \:	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i va_i
+la \:	va_i va_i va_i yaar va_i va_i va_i
+chi \:	va_i va_i va_i yaar va_i va_i va_i
+ko \:	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i yaar \-2
+	mausam\-e\-bahaar yaar, dil hai gulazaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar \-2
+
+chi \:	aa
+la \:	aa
+ko \:	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i yaar \-2
+
+	mausam\-e\-bahaar yaar, dil hai gulazaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar \-2
+
+chi \:	lo shamaa ko dekh ke parawaanaa aa gayaa
+ko \:	ho parawaanaa aa gayaa, ho parawaanaa aa gayaa
+la \:	TuuTe dil kii haay sun diiwaanaa aa gayaa
+ko \:	ho diiwaanaa aa gayaa, ho diiwaanaa aa gayaa
+chi \:	mai.n kisii ke ishq kii may pii ke mast huu.N \-2
+la \: jhuumataa wo jhuumataa mastaanaa aa gayaa \-2
+ko \:	aa.Nkho.n me.n Kumaar yaar, pyaar kaa izahaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+
+ko \:	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i yaar \-2
+	mausam\-e\-bahaar yaar, dil hai gulazaar yaar
+	aajaa aajaa ek baar, aajaa aajaa ek baar
+	yaar va_i va_i, yaar va_i va_i, yaar va_i va_i, yaar \-2
+
+#endindian
+\endsong

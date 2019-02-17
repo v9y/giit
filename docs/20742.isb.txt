@@ -1,0 +1,47 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{ko_ii to aaye re}%
+\film{Aaj Raat Ko}%
+\year{1975}%
+\starring{Vinod Khanna, Saira Banu, Vinod Mehra}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: Polydor/PolyGram/MIL/Universal
+% Tags: 
+% Contributor: George Thomas
+% Transliterator: George Thomas (georgethomas at despammed dot com)
+% Date: 18 Apr 2005
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: the film was released in 1988 as Faisla
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(ko_ii to aaye re ba.Daa i.ntazaar hai
+kabase taras rahaa meraa pyaar hai)\-2
+ko_ii milataa to mai.n kahatii ki
+aaj kii raat sanam tere saath
+ko_ii to aaye re ba.Daa i.ntazaar hai
+
+haule\-haule aake baa.Nho.n me.n uThaa le kahaa.N paa_uu.N aisaa hamadam
+jo na dekhaa mujhe aake dikhaa de vahii mausam
+terii ye duniyaa jo kuchh bhii kahatii 
+mai.n kahatii terii qasam ki ki
+aaj kii raat sanam tere saath
+ko_ii to aaye re ba.Daa i.ntazaar hai
+kab se taras rahaa meraa pyaar hai)\-2
+
+badan me.n jaisii agan lagii hai mere siine me.n hai tuufaa.N
+haa_e sa.Nbhaale nahii.n aaj sa.Nbhalate mere aramaa.N
+ko_ii jo aayaa to kyaa kahuu.Ngii 
+kahuu.Ngii terii qasam ki ki
+aaj kii raat sanam tere saath
+ko_ii to aaye re ba.Daa i.ntazaar hai
+ba.Daa i.ntazaar hai
+%
+#endindian
+\endsong

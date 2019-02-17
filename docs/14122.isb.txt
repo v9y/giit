@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ai dost mere maine duniyaa dekhii hai}%
+\film{Sachaai}%
+\year{1969}%
+\starring{Shammi Kapoor, Sadhana, Sanjeev Kumar, Pran, Johny Walker}%
+\singer{Rafi, Manna Day}%
+\music{Shankar-Jaikishan}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11119 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ai dost mere maine duniyaa dekhii hai
+achchhii tarah apanii nazar se dekhii hai
+yahaa.N achchhaa buraa kaun hai pahachaananaa mushqil
+
+sach kii puujaa karane vaale hamane bhuukhe marate dekhe
+jhuuTh kaa daaman thaamane vaale hamane mauje.n karate dekhe
+phuulo.n kii sej par so kar jhuuThe ko aaraam naa aa_e
+lekin sachche ko pal bhar me.n kaa.NTo.n par nii.nd aa jaa_e
+ai dost mere \threedots
+
+jisakaa man ho saaf ( vo girakar ) \-2 bhii uupar aataa hai
+chaa.Nd ko dekho jo ghaT\-ghaT kar phir bhii aage ba.Dh jaataa hai
+jisakaa taaraa chamakaa sab ne ba.Dhakar usakaa saath diyaa
+girate ko yahaa.N kisane thaamaa kisane usako haath diyaa
+apanii to har subah holii apanii to har shaam diivaalii
+do din kii ye duniyaa saath nahii.n hai jaane vaalii
+ai dost mere \threedots
+%
+#endindian
+\endsong
+

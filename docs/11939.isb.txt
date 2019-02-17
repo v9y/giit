@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jab nii.nd naa aa_e jab yaad sataa_e ... ishq hai}%
+\film{Ishq}%
+\year{1997}%
+\starring{Aamir Khan, Ajay Devgan, Kajol, Juhi Chawala}%
+\singer{Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jab nii.nd naa aa_e jab yaad sataa_e
+jab dil ghabaraa_e jab Gam ta.Dapaa_e
+ise kyaa kahi_e mere rab tuu bataa
+ishq hai ishq hai
+
+ishq haar bhii hai ishq jiit bhii hai
+dil kaa dushman bhii hai dil kaa miit bhii hai
+ishq hai ishq hai haa.N yahii ishq hai
+
+kabhii ishq ban ke shamaa jagamagaa_e
+kabhii banake Gam kaa a.ndheraa ye chhaa_e
+ishq hai giit bhii ishq hai raag bhii
+dil jalaa de magar ishq vo aag bhii
+
+aag lagaa_e ishq ishq jaan ga.nvaa_e ishq ishq
+dil ko sataa_e ishq ishq jaan ga.nvaa_e ishq ishq 
+ek diivaanagii hai ise kyaa kahuu.n
+ishq hai ishq hai
+dil ko dukhaa_e ishq ishq chain churaa_e ishq ishq
+ishq aakhir hai kyaa mai.n bhii hairaan huu.N
+ishq hai ishq hai \threedots
+%
+#endindian
+\endsong
+

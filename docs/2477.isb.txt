@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tumhaarii mast nazar gar idhar nahii.n hotii}%
+\film{Dil Hi To Hai}%
+\year{1963}%
+\starring{Raj Kapoor, Nutan, Pran}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: Kashif
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+tumhaarii mast nazar, agar idhar nahii.n hotii
+nashe me.n chuur fizaa is qadar nahii.n hotii
+
+tumhii.n ko dekhane kii dil me.n aarazuu_e.n hai.n
+tumhaare aage hii aur uu.Nchii nazar nahii.n hotii
+
+Kafaa na honaa agar ba.Dh ke thaam luu.N daaman
+ye dil fareb Kataa jaan kar nahii.n hotii
+
+tumhaare aane talak ham ko hosh rahataa hai
+phir us ke baad hame.n kuchh khabar nahii.n hotii
+
+%
+#endindian
+\endsong
+%

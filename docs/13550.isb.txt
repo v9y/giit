@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{pyaar bharii in aa.Nkho.n ne aajaa tujhako}%
+\film{Parbat}%
+\year{1952}%
+\starring{Premnath, Nutan, Poornima, Ulhas}%
+\singer{Lata, Geeta}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11918 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	pyaar bharii in aa.Nkho.n ne
+	aajaa tujhako yaad kiyaa
+
+la \:	aajaa ke bahaare.n merii hai.n
+	gulashan pe jawaanii tujhase hai
+	bechain du_aa_e.n kahatii hai.n
+	duniyaa hii suhaanii tujhase hai
+	ho suhaanii tujhase hai
+	ho pyaar ke sundar sapano.n ko
+	jaa ke kyuu.N barabaad kiyaa \-2
+
+gii \:	o pyaar bharii in aa.Nkho.n ne
+
+la \:	aa jaaye.n bahaare.n hamako kyaa
+	iThalaaye.n havaaye.n hamako kyaa \-2
+gii \:	fariyaad hamaarii kahatii hai
+	itaaraaye.n fizaa_e.n hamako kyaa
+	o fizaa_e.n hamako kyaa
+	o pyaar ke maare is dil ne
+	phir bhii tujhako yaad kiyaa \-2
+
+la \:	o pyaar bharii in aa.Nkho.n ne
+
+gii \:	aa jaa_o Kizaa.N kaa phuul hai.n ham
+	ikataar kii aisii dhuul hai.n ham
+	faake hii likhe.n hai.n qisamat me.n
+	fariyaad tumhaarii hai.n haradam
+	o tumhaarii hai.n haradam
+	o pyaar kii manzil par aa ke
+	aaj hame.n naashaad kiyaa \-2
+
+la \:	o pyaar bharii in aa.Nkho.n ne
+%
+#endindian
+\endsong
+

@@ -1,0 +1,58 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{man chaahe sanam}%
+\film{Aar Ya Paar}%
+\year{1996}%
+\starring{Jackie Shroff, Deepa Mehta, Kamal Sidhu}%
+\singer{Abhijeet, Sadhana Sargam}%
+\music{Viju Shah}%
+\lyrics{Indivar}%
+% 
+% Audio on: Venus
+% Contributor: George Thomas (georgethomas at despammed dot com)
+% Transliterator: George Thomas (georgethomas at despammed dot com)
+% Date: 11 Mar 2005
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+abhijiit:
+(man chaahe sanam mere yaar
+dil tujhape aayaa ab ham kyaa kare.n 
+tuu hii dil me.n samaayaa ab ham kyaa kare.n) \-2
+
+abhijiit:
+(haa.N haal\-e\-dil thaa tumako sunaanaa) \-2
+lekin mushkil thaa kah paanaa
+
+saadhanaa:
+(tanhaa_ii me.n)\-2
+tanhaa_ii me.n lipaTaa mujhase wo teraa thaa saayaa
+(tuune chain churaayaa)\-2 mere yaar
+dil tujhape aayaa ab ham kyaa kare.n 
+tuu hii dil me.n samaayaa ab ham kyaa kare.n
+
+
+saadhanaa:
+(o dil chaahe terii chaahat le luu.N) \-2
+sab kuchh apanaa badale me.n de duu.N
+
+abhijiit:
+(jiinaa kyaa hai)\-2
+jiinaa kyaa hai jaanaa hamane saath teraa jab paayaa
+kaisaa jaaduu chalaayaa haa.N kaisaa jaaduu chalaayaa mere yaar
+dil tujhape aayaa ab ham kyaa kare.n 
+tuu hii dil me.n samaayaa ab ham kyaa kare.n
+
+
+saadhanaa:
+man chaahe sanam mere yaar
+dil tujhape aayaa ab ham kyaa kare.n 
+tuu hii dil me.n samaayaa ab ham kyaa kare.n
+%
+#endindian
+\endsong

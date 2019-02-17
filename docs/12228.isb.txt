@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{jannat kii tasviir ... kashmiir na de.nge}%
+\film{Johar In Kashmir}%
+\year{1966}%
+\starring{Soniya Sahani, I S Jauhar, Kamal Kapoor}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11497 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+jannat kii tasviir na de.nge
+haatho.n me.n kisii Gair ke taqadiir na de.nge
+kashmiir hai bhaarat kaa kashmiir na de.nge
+
+dhamakii se kisii zulm kii ham Dar nahii.n sakate
+samajhautaa kisii desh se ham kar nahii.n sakate
+kyaa chhalegaa tuu phuuT yah ghar hai kabiir kaa
+jhaga.Daa nahii.n ho sakataa hai tulasii se miir kaa
+jo phuul chaman kaa hai chaman me.n hii khilegaa
+abdul hii apane desh par mar miTegaa
+luTane kabhii aazaadii kii jaagiir na de.nge
+kashmiir hai bhaarat kaa \threedots
+
+parades se tuune hathiyaar ma.ngavaa_e
+kalaur se neT sebarajeT giraa_e
+hathiyaaro.n se kar sakataa nahii.n dil pe tuu qabzaa
+taaqat se ba.Daa desh kii Kidamat kaa hai jazbaa
+gaddaar hai vah hind kaa jo pyaar tujhe de
+vah aman kaa dushman hai jo hathiyaar tujhe de
+diivaane ke ham haath me.n kashmiir na de.nge
+kashmiir hai bhaarat kaa \threedots
+%
+#endindian
+\endsong
+

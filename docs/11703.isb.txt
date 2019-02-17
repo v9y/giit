@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{mubaarak mubaarak ho tum ko ye shaadii tumhaarii ... tere maathe kii bi.ndiyaa}%
+\film{Haan Maine Bhi Pyaar Kiya}%
+\year{2002}%
+\starring{Abhishek Bachchan, Karisma Kapoor, Akshay Kumar}%
+\singer{Udit Narayan, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+tere maathe kii bi.ndiyaa chamakatii rahe
+tere haatho.n kii meha.ndii mahakatii rahe
+tere jo.De kii raunak salaamat rahe
+terii chuu.Dii hameshaa khanakatii rahe
+
+mubaarak mubaarak mubaarak mubaarak
+mubaarak ho tum ko ye shaadii tumhaarii
+sadaa khush raho tum du_aa hai hamaarii
+tumhaare kadam chuume to duniyaa saarii
+sadaa khush raho tum \threedots
+
+tumhaare li_e hai.n bahaaro.n ke mausam
+na aa_e kabhii zi.ndagii me.n ko_ii gam
+hamaaraa hai kyaa yaar ham hai.n diivaane
+hamaarii ta.Dap to ko_ii bhii na jaane
+mile na tumhe ishq me.n bekaraarii
+sadaa khush raho tum \threedots
+
+ke janmo.n ke rishte nahii.n to.De jaate
+safar me.n nahii.n hamasafar chho.De jaate
+na rasm\-o\-rivaajo.n ko tum bhuul jaanaa
+jo lii hai kasam to ise tum nibhaanaa
+ke hamane to tanhaa umar hai guzaarii
+sadaa khush raho tum \threedots
+
+jaa.n maine bhii pyaar kiyaa hai
+haa.N maine bhii pyaar kiyaa hai
+mubaarak mubaarak mubaarak mubaarak
+%
+#endindian
+\endsong
+

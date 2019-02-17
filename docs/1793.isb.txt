@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{tumhaare bulaane ko jii chaahataa hai, jii chaahataa hai}%
+\film{Ladli}%
+\year{1949}%
+\starring{Jairaj, Sulochana Chatterjee, Sulochana, Kuldip Kumar}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+% 
+% Contributor: Malini Kanth <MaliniX_Kanth@ccm.hf.intel.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/30/1996
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+%
+\printtitle
+#indian
+%
+tumhaare bulaane ko jii chaahataa hai, jii chaahataa hai
+muqaddar banaane ko jii chaahataa hai, jii chaahataa hai
+
+yah jii chaahataa hai ke tumhaarii bhii sun luu.N, tumhaarii bhii sun luu.N \- 2
+khud apanii sunaane ko, jii chaahataa hai, jii chaahataa hai
+tumhaare bulaane ko \threedots
+
+tumhaarii mohabbat me.n, khoii huii huu.N, khoii huii huu.N \- 2
+tumhe.n yah bataane ko, jii chaahataa hai, jii chaahataa hai
+tumhaare bulaane ko \threedots
+
+jo tum aao, to saath khushiyaa.N bhii aae.n, khushiyaa.N bhii aae.n \- 2
+zaraa muskuraane ko, jii chaahataa hai, jii chaahataa hai
+tumhaare bulaane ko \threedots
+%
+#endindian
+\endsong
+%
+

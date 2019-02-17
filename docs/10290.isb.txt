@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{ai dil merii aaho.n me.n itanaa to asar aa_e}%
+\film{Actress}%
+\year{1948}%
+\starring{Rehana, Prem Adeeb, Meena, David,  MIshra, Mukri, Zaidi}%
+\singer{Rafi}%
+\music{Shyam Sundar}%
+\lyrics{Nakshab}%
+%
+% Contributor: BOL ANAMOL #10397 [V S Rawat]
+% Transliterator: 
+% Credits: Urzung Khan
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa 
+ai dil merii aaho.n me.n \-2
+itanaa to asar aa_e
+jab aa.Nkh khule unakii tasviir nazar aa_e
+ai dil merii aaho.n me.n \threedots
+
+bekaar mohabbat hai jab tak ke mohabbat me.n \-3
+aramaan na ho.n puure ummiid na bar jaa_e
+jab aa.Nkh khule \threedots
+
+jis vaqt merii unakii nazaro.n se mile.n nazare.n \-3
+ko_ii na idhar dekhe ko_ii na idhar aa_e
+jab aa.Nkh khule \threedots
+
+puuchho to mohabbat kii ma.nzil se guzaranaa hai \-3
+socho to mohabbat kii ma.nzil se guzar aa_e
+jab aa.Nkh khule \threedots
+
+tuufaan se bachane kii ummiid naa thii lekin \-3
+aa hii ga_e saahil par go laakh bha.Nvar aa_e
+jab aa.Nkh khule \threedots
+%
+#endindian
+\endsong
+

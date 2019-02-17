@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tumase jo dekhate hii pyaar hu_aa ... tum itane din thii kahaa.n}%
+\film{Patthar Ke Phool}%
+\year{1991}%
+\starring{Salman Khan, Raveena Tandon}%
+\singer{Lata, S P Balasubramaniam}%
+\music{Ram Laxman}%
+\lyrics{Noor Qaskar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumase jo dekhate hii pyaar hu_aa
+zi.ndagii me.n pahalii baar hu_aa
+tum itane din thii kahaa.n mai.n Dhuu.nDhataa hii rahaa
+kahaa.n
+kabhii ##lincoln road## kabhii ##carter road## kabhii ##warder road## kabhii ##peddar road##
+
+itane kuu.nche duniyaa chhaanii mere dil ne ek na maanii
+kahaa.n kahaa.n par tujhako Dhuu.nDhaa tere li_e mai.n hu_ii diivaanii
+phir bhii na teraa diidaar hu_aa pyaar mere se ka_ii baar hu_aa
+par tum itane din thii kahaa.n mai.n Dhuu.nDhataa hii rahaa
+kahaa.n
+kabhii ##turner road## kabhii ##carter road## kabhii ##jarbii road## kabhii ##arthur road##
+
+prem pahelii aisii ulajhii zor lagaayaa par na sulajhii
+pyaar pe ko_ii zor nahii.n hai dil me.n ko_ii aur nahii.n hai
+tere li_e dil bezaar hu_aa yaar mere aisaa ka_ii baar hu_aa
+par tum itane din thii kahaa.n mai.n Dhuu.nDhataa hii rahaa
+kahaa.n
+kabhii ##belly road## kabhii ##parla road## kabhii ##meera road## kabhii ##bandar road##
+
+uupar vaale kii hai maayaa usane hamako khuub milaayaa
+bhuule bhaTake aaj mile hai.n dekho kitane phuul khile hai.n
+jaane do jo ab tak yaar hu_aa milate hii ab ikaraar hu_aa
+chalate hai.n dono.n vahaa.n man puuchho ab tum kahaa.n
+par kahaa.n
+##lincoln road warder road tankan road badminton road##
+##cadder road## kabhiii ## peddar road##
+##worli road## kabhii ##arthur road##
+##turner road## kabhii ##carter road##
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{pyaar kar liyaa to kyaa, pyaar hai khataa nahii.n}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Amitabh, Shashi Kapoor, Rishi Kapoor, Rakhee, Neetu Singh}%
+\singer{Kishore}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Guess Who (neelu@sun.soe.clarkson.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n   \- (2)
+terii merii umr me.n kisane ye kiyaa nahii.n
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n
+
+tere ho.nTh mere ho.nTh sil gaye to kyaa huaa   \- (2)
+dil kii tarah jism bhii mil gaye to kyaa huaa   \- (2)
+isase pahale kyaa kabhii ye sitam huaa nahii.n   
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n
+
+(mai.n bhii hoshama.nd huu.N tuu bhii hoshama.nd hai    
+us tarah jiye.nge ham jis tarah pasa.nd hai   )   \- (2)
+unakii baat kyuu.N sune.n jinase vaastaa nahii.n
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n
+
+(rasm kyaa rivaaz kyaa dharm kyaa samaaj kyaa  
+dushmano.n kaa khauf kyuu.N dosto.n kii laaj kyaa )  \- (2)
+ye vo shokh hai ki jisase koI bhii bachaa nahii.n
+	   
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n \- (2)
+terii merii umr me.n kisane ye kiyaa nahii.n
+pyaar kar liyaa to kyaa pyaar hai khataa nahii.n
+%
+#endindian
+\endsong
+%

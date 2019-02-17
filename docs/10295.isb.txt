@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{zamii.n se hame.n aasamaa.N par biThaa ke giraa to na doge}%
+\film{Adaalat}%
+\year{1958}%
+\starring{Pradeep Kumar, Nargis, Pran, Achala Sachdev, Yaqub, Murad}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10552 [V S Rawat], U.V. Ravindra
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+do \:	aa aa aa
+
+aa \:	zamii.n se hame.n aasamaa.N par
+	biThaa ke giraa to na doge
+ra \:	agar ham ye puuchhe.n ke dil me.n
+	basaa ke bhulaa to na doge
+aa \:	zamii.n se hame.n \threedots
+ra \:	agar ham ye puuchhe.n \threedots
+
+aa \:	( ai raat is vaqt aa.Nchal me.n tere
+	jitane bhii hai.n ye sitaare ) \-2
+ra \:	jo de de tuu mujhako to phir mai.n luuTaa duu.N
+	kisii kii nazar pe ye saare
+aa \:	aa
+	kaho ke ye ra.ngiin sapane
+	sajaa ke miTaa to na doge
+ra \:	agar ham ye puuchhe.n \threedots
+
+aa \:	( tumhaare sahaare nikal to pa.De hai.n
+	hai ma.nzil kahaa.N dil na jaane ) \-2
+ra \:	jo tum saath doge to aa_egii ek din
+	ma.nzil gale se lagaane
+aa \:	aa
+	itanaa to dil ko yaqii.n hai
+	hame.n tum daGaa to na doge
+ra \:	agar ham ye puuchhe.n \threedots
+
+do: aahaa\-haa haahaa\-haa haahaa\-haa
+    la\-laa\-laa la\-laa\-laa la\-laa\-laa
+    m.h\-h.hm.h h.hm.h\-h.hm.h\-h.hm.h h.hm.h\-h.hm.h\-h.hm.h
+    aahaa\-haa haahaa\-haa haahaa\-haa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{muhabbat kii hai tumhaare li_e}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Kumar Sanu, Anuradha}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	muhabbat kii hai tumhaare li_e \-2
+	jaan bhii duu.Ngaa tumhaare li_e \-2
+a \:	baGaavat kii hai  tumhaare li_e \-2
+	jaan bhii duu.Ngii tumhaare li_e \-2
+ku \:	muhabbat kii hai \threedots
+
+a \:	Kushiyo.n kii Daphalii bajaate rahe.nge \-2
+	saarii umar yuu.N hii gaate rahe.nge \-2
+ku \:	haay saa.Nso.n kii saragam yahii gunagunaa_e \-2
+	tumako kabhii naa ko_ii Gam sataa_e
+	ibaadat kii hai tumhaare li_e
+	jaan bhii duu.Ngaa \threedots
+
+a \:	kashtii huu.N mai.n tuu hai meraa kinaaraa \-2
+	mujhako to hai sirf teraa sahaaraa \-2
+ku \:	mai.n chandramaa tuu merii roshanii hai \-2
+	mere li_e jaan\-e\-man tuu banii hai
+	ibaadat kii hai tumhaare li_e
+	jaan bhii duu.Ngaa \threedots
+
+ku \:	mujhako pataa hai naa tujhako Kabar hai \-2
+a \:	hamako to har pal zamaane kaa Dar hai \-2
+ku \:	ham vo kare.nge hame.n jo hai karanaa \-2
+	hamako zamaane kii ko_ii fiqar naa
+	adaavat kii hai tumhaare li_e
+	jaan bhii duu.Ngaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{prem kaa naataa chhuuTaa}%
+\film{Nartaki}%
+\year{1940}%
+\starring{Leela Desai, Najan, Jagdish Sethi}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{Munshi Aarzoo}%
+%
+% Contributor: BOL ANAMOL #12149 [V S Rawat]
+%
+\printtitle
+#indian
+%
+prem kaa naataa chhuuTaa \-2
+naataa chhuuTaa prem na chhuuTaa \-2
+baat kaa paalan TuuTaa
+aa haa 
+prem kaa naataa chhuuTaa \-2
+
+nem\-dharam se bol re GYaanii bol \-2
+kyaa sachchaa kyaa jhuuThaa
+
+baat kaa paalan TuuTaa
+aa haa 
+prem kaa naataa chhuuTaa \-2
+
+aap ne sej kii shobhaa \-2
+man kaa dhiiraj luuTaa
+kaise kaTe niraash jiiwan
+har ek sahaaraa chhuuTaa
+
+baat kaa paalan TuuTaa
+aa haa haa haa
+prem kaa naataa chhuuTaa \-2
+haa
+%
+#endindian
+\endsong
+

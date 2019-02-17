@@ -1,0 +1,109 @@
+% 
+\startsong
+\stitle{jaggeyaa jaggeyaa jaggeyaa, kade ishq chhupaN naiyo.n lageyaa}%
+\film{Kaala Patthar}%
+\year{1979}%
+\starring{Shashi Kapoor, Amitabh, Raakhee, Neetu, Shatrughan Sinha, Parveen Babi, Prem Chopra}%
+\singer{Mahendra Kapoor, Pamela Chopra, S K Mahan, chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Sahir}%
+% 
+% Contributor: Neeraj Malhotra <malhotra@bedford.progress.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 07/16/1996
+% Comments: I've tried to transliterate as close to my native
+%	    Punjabi as I could, to try and preserve the flavour
+%	    of the song, just as Neeraj did. However, some Punjabi
+%	    syllables have no Hindi equivalent, so it's not as exact
+%	    as I could make it in Gurmukhi - RS
+%
+\printtitle
+#indian
+%
+% SLOW START:
+%
+ishq aur mushq kade na chhupade
+te chaahe lakh chhupaaiye
+o_e, akhaa.n lakh jhukaake chaliye
+te pallaa lakh bachaaiye
+
+% FAST :
+%
+ishq aur mushq kade na chhupade
+te chaahe lakh chhupaaiye
+akhaa.n lakh jhukaake chaliye
+pallaa lakh bachaaiye
+ishq hai sachche rab dii rahamat
+ishq to.n kyuu.N sharmaaiye
+cha.Dhade cha.nd ne cha.Dhake rahanaa
+ho, cha.Dhade cha.nd ne cha.Dhake rahanaa
+kaannuu parde paaiye, kaannuu parde paaiye
+
+jaggeyaa jaggeyaa jaggeyaa, kade
+ishq chhupaN naiyo.n lageyaa
+
+% THE ONLY FEMALE VOICE IN THE SONG :
+%
+ho ho ho ho \threedots
+aa aa aa aa aa \threedots
+
+% SLOW AGAIN :
+duniyaa dii is bhii.D de a.ndar
+haa.N te, duniyaa dii is bhii.D de a.ndar
+je koii apaNaa paaiye
+apaNe nuu.N khushakismat kahiye
+rab daa shukar manaaiye
+dil badale dil mile.n te yaaraa \threedots
+ho \threedots
+
+%
+% **** INSTRUMENTS ****
+%
+hoye, dil badale dil mile.n te yaaraa
+saudaa jhaT chukaaiye
+ambar te jo svarag base, o_e
+ambar te jo svarag base
+o dharatii te lai aaiye
+dharatii te lai aaiye
+
+jaggeyaa jaggeyaa jaggeyaa, kade
+ishq chhupaN naiyo.n lageyaa
+
+hoye \threedots kade ishq chhupaN naiyo.n lageyaa
+ho   \threedots kade ishq chhupaN naiyo.n lageyaa
+hoye \threedots kade ishq chhupaN naiyo.n lageyaa
+
+% FAST AGAIN WITH A DIFFERENT TUNE 
+%
+o duniyaa chaar dinaa.n daa melaa
+duniyaa chaar dinaa.n daa melaa
+o duniyaa chaar dinaa.n daa melaa
+ho, matthe bal na paaiye
+ho, matthe bal na paaiye
+hoye, kauN bhale kauN mande jag vichch
+kauN bhale kauN mande jag vichch
+sabaNaa naal nibhaaiye
+sabaNaa naal nibhaaiye \threedots
+
+jaggeyaa jaggeyaa jaggeyaa, saannuu
+kaul ai sachchaa lageyaa
+jaggeyaa jaggeyaa jaggeyaa, saannuu
+kaul ai sachchaa lageyaa
+
+paapaa.n dii is nagarii a.ndar
+kis de aib ginaaiye
+apaNe a.ndar jad\-jad takiye
+apaNe a.ndar jad\-jad takiye
+o \threedots o \threedots o \threedots
+apaNe to.n sharmaaiye \threedots
+apaNe to.n sharmaaiye
+
+jaggeyaa jaggeyaa jaggeyaa, saannuu
+kaul ai sachchaa lageyaa
+jaggeyaa jaggeyaa jaggeyaa, saannuu
+kaul ai sachchaa lageyaa
+%
+#endindian
+\endsong
+%
+

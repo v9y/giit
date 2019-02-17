@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{zamii.n aasamaa.n mil jaa_e.n ... yaaraanaa yaar kaa naa kabhii}%
+\film{Saathi}%
+\year{1991}%
+\starring{Aditya Pancholi, Mohsin Khan, Varsha Usgaonkar, Paresh Rawal, Avtar Gill}%
+\singer{Kumar Sanu, Vipin}%
+\music{Nadeem Shravan}%
+\lyrics{Hasrat}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zamii.n aasamaa.n mil jaa_e.n ye to phir bhii mumakin hai
+magar ek yaar duniyaa me.n ba.Dii mushkil se milataa hai
+
+yaaraanaa yaar kaa naa kabhii chhuuTegaa
+teraa naam le lekar meraa dam TuuTegaa
+yaaraanaa yaar kaa \threedots
+
+jahaa.N gire pasiinaa teraa mai.n to Kuun bahaa duu.Ngaa
+tuu hii tuu hai dil me.n mere chiir ke dil dikhalaa duu.Ngaa
+ki ruuThuu.N jo tujhase mai.n to Kudaa ruuThegaa
+teraa naam le lekar \threedots
+
+ek hai.n apane sapane saathii tuu jaane mai.n jaanuu.N
+apane dil ke nek iraade chehare se pahachaanuu.N
+apanaa pyaar mere yaar ko_ii kyaa luuTegaa
+teraa naam le lekar \threedots
+%
+#endindian
+\endsong
+

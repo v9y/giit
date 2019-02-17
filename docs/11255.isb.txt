@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{diladaar ke qadamo.n me.n ... ab aage terii marzii}%
+\film{Devdaas}%
+\year{1955}%
+\starring{Dilip Kumar, Suchitra Sen, Vyjayanthimala, Motilal}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: LATAnjali Series:
+%			Based on Bengali novel by Sharat Chandra Chatterjii
+% Credits: Malini Kanth
+% 
+\printtitle
+#indian
+%
+diladaar ke qadamo.n me.n aa aa aa
+diladaar ke qadamo.n me.n dil Daal ke nazaraanaa
+mahafil se uThaa aur ye kahane lagaa diivaanaa
+
+puruSh \:	kyaa
+
+ab aage terii marzii ho aage terii marzii
+ho more sai.nyaa.N ho more balamaa bedardii aage terii marzii
+aage terii marzii sajanavaa
+aage terii marzii piharavaa
+aage terii marzii
+
+na puuchh hamase ke kyo.n sogavaar baiThe hai.n
+terii adaa_o.n pe ham dil ko vaar baiThe hai.n
+labo.n pe jaan hai aur beqaraar baiThe hai.n
+nigaah milane ke ummiidavaar baiThe hai.n
+
+puruSh \:	sachchii
+
+ab aage terii marzii \threedots
+
+siine me.n mohabbat ke jazbaat kaa tuufaa.N hai
+jiine kii bhii hasarat hai marane kaa bhii aramaa.N hai
+ab aage terii marzii ho aage terii marzii
+ho more sai.nyaa.N ho more balamaa bedardii aage terii marzii
+aage terii marzii zulmii
+aage terii marzii nirda_ii
+aage terii marzii
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{dekhaa hai sabhii ne chaa.Nd ko use kyaa dekhe.n}%
+\film{Dil Ne Pukara}%
+\year{1967}%
+\starring{Shashi Kapoor, Rajshri, Sanjay Khan}%
+\singer{Rafi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11023 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+dekhaa hai sabhii ne chaa.Nd ko
+use kyaa dekhe.n tujhe dekh liyaa sab dekh liyaa \-2
+dekhaa hai sabhii ne \threedots
+
+nazaro.n me.n yuu.N hii naaraazii hai
+par dil hii dil me.n raajii hai
+ab duniyaa jo chaahe soche
+use kyaa jaane.n tujhe jaan liyaa sab jaan liyaa
+dekhaa hai sabhii ne \threedots
+
+ho.nTho.n pe aab\-e\-hayaat li_e
+chalatii hai bahaare.n saath li_e
+tere jaisaa hasii.n ko_ii aur bhii ho
+use kyaa maane.n tujhe maan liyaa sab maan liyaa
+dekhaa hai sabhii ne \threedots
+
+kuchh aise dil ne pukaaraa tujhe
+jannat se zamii.n pe utaaraa tujhe
+ab aur Kudaa ke paas hai kyaa
+ham kyaa maa.Nge.n tujhe maa.Ng liyaa sab maa.Ng liyaa
+dekhaa hai sabhii ne \threedots
+%
+#endindian
+\endsong
+

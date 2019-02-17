@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chhupaa lo yuu.N dil me.n pyaar meraa, ke jaise ma.ndir me.n}%
+\film{Mamta}%
+\year{1966}%
+\starring{Ashok Kumar, Suchitra Sen}%
+\singer{Lata, Hemant}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Rajan Parrikar (rajan@anteng.ssd.loral.com)
+%          Falguni Raval (XXED08A@prodigy.com@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chhupaa lo yuu.N dil me.n pyaar meraa 
+ke jaise ma.ndir me.n lau diye kii
+
+tum apane charaNo.n me.n rakh lo mujhako
+tumhaare charaNo.n kaa phuul huu.N mai.n
+mai.n sar jhukaae kha.Dii huu.N priyatam  \- 2
+ke jaise ma.ndir me.n lau diye kii
+
+ye sach hai jiinaa thaa paap tum bin
+ye paap maine kiyaa hai ab tak
+magar hai man me.n chhavi tumhaarii \- 2
+ke jaise ma.ndir me.n lau diye kii
+
+phir aag birahaa kii mat lagaanaa
+ke jalake mai.n raakh ho chukii huu.N
+ye raakh maathe pe maine rakh lii \- 2
+ke jaise ma.ndir me.n lau diye kii
+%
+#endindian
+\endsong
+%

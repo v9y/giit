@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{bolo sanam ab kyaa hai iraadaa socho zaraa kyaa kiyaa thaa vaadaa}%
+\film{Daulat Ki Jung}%
+\year{1991}%
+\starring{Aamir, Juhi, Kiran Kumar, Paresh, Dalip, Shafi, Tiku Talsaniya, Kader}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bolo sanam ab kyaa hai iraadaa socho zaraa kyaa kiyaa thaa vaadaa
+
+vaadaa thaa jiine kaa vaadaa thaa marane kaa had se guzarane kaa
+to kuchh ho jaane do qayaamat aane do
+bolo sanam ab \threedots
+
+chal kahii.n chal de.n laa apanii baaho.n ko na rok sake ko_ii is dil kii raaho.n ko
+aise mujhako dekho mere pyaare kaliyaa.n kaliyaa.n laa mere pyaare
+dil de ke jiinaa hai dil de ke maranaa hai to kuchh ho jaane do
+bolo sanam ab \threedots
+%
+#endindian
+\endsong
+

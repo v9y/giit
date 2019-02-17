@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{na quraan hai pa.Dhii ... na_iyo jiinaa tere binaa na_iyo maranaa tere binaa}%
+\film{Mujrim}%
+\year{1989}%
+\starring{Mithun, Madhuri, Suresh Oberoi, Shakti, Pallavi Joshi, Gulshan Grover}%
+\singer{Sadhana Sargam, Mohammed Aziz}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+na quraan hai pa.Dhii na hai giitaa kaa GYaan
+likhanaa pa.Dhanaa siikhaa to bas siikhaa teraa naam
+na_iyo jiinaa tere binaa na_iyo maranaa tere binaa
+na_iyo ronaa tere binaa na_iyo ha.Nsanaa tere binaa
+na_iyo jiinaa tere binaa \threedots
+
+tere sa.ng jaaganaa tere sa.ng sonaa
+jo kuchh bhii honaa ab to tere sa.ng honaa
+duniyaa hamaarii raaho.n ko ab kaise bhii sajaa_e
+kaliyaa.n bichhaa_e raaho.n me.n yaa a.ngaare barasaa_e
+na_iyo rukanaa tere binaa na_iyo chalanaa tere binaa
+na_iyo jiinaa tere binaa \threedots
+
+pyaar ke do lafzo.n me.n duniyaa samaa_ii
+pyaar ke li_e hii sabane duniyaa banaa_ii
+jo bhii saa.Ns mile hamako saath tere kaT jaa_e
+kismat se hame.n jo bhii mile dono.n me.n ba.nT jaa_e
+na_iyo miTanaa tere binaa na_iyo basanaa tere binaa
+na_iyo jiinaa tere binaa \threedots
+%
+#endindian
+\endsong
+

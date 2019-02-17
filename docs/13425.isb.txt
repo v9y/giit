@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dekhate dekhate kyaa se kyaa ho gayaa}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Srinivas, Chitra}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhate dekhate kyaa se kyaa ho gayaa
+baavafaa pyaar bhii bevafaa ho gayaa
+bevajah hai milii ye mujhako sazaa
+dekhate dekhate kyaa \threedots
+
+bikhare mere aramaan hai.n siine me.n TuuTii hai.n saa.Nse.n
+zakhmii hai dil haalaat se ashqo.n se bhiigii hai.n aa.Nkhe.n
+suune mere din bechain hai.n merii raate.n
+bevafaa bevafaa mai.n nahii.n bevafaa
+ye hakiikat hai kyaa jaanataa hai Kudaa
+kyaa merii bebasii naa tujhako pataa
+bevafaa bevafaa mai.n \threedots
+
+tuu har gha.Dii yaado.n me.n hai kaise tujhe mai.n bhulaa_uu.N
+kyaa hai.n merii majabuuriyaa.n kaise tujhe mai.n bataa_uu.N
+jiinaa mushkil tanhaa to mar bhii na paa_uu.N
+dekhate dekhate kyaa \threedots
+%
+#endindian
+\endsong
+

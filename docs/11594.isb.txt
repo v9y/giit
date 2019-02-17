@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{aa_e re din saavan ke balam tere aavan ke}%
+\film{Gaban}%
+\year{1966}%
+\starring{Sunil Dutt, Sadhana, Zeb Rahman, Agha}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11010 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa_e re din saavan ke saavan ke
+balam tere aavan ke aavan ke
+aa_e re din \threedots
+
+tere pyaar kaa jog liyaa mohe log kahe.n diivaanii \-2
+ho ghar\-ghar kii is kahaa\-sunii me.n mai.n ban ga_ii kahaanii
+o aa_e re din \threedots
+
+do naino.n ke diip jalaa_e jaaguu.N saarii rainaa \-2
+o kaise laage.n nain piyaa jab tum sa.ng laage nainaa
+o aa_e re din \threedots
+%
+#endindian
+\endsong
+

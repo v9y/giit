@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{tum bhii Kuubasuurat ho au dil bhii}%
+\film{Rootha Na Karo}%
+\year{1970}%
+\starring{Shashi Kapoor, Nanda, Naaz, Rajednra Nath, Sulochana, Aruna Irani}%
+\singer{Kishor}%
+\music{C Ramchandra}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10094 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tum bhii Kuubasuurat ho dil bhii Kuubasuurat hai \-2
+isali_e sab hasiino.n me.n tumase mujhe mohabbat hai
+tum bhii Kuubasuurat \threedots
+
+jab bhii gussaa karatii ho kuchh aur bhii achchhii lagatii ho
+chuu.Dii ke ye saaj bajaakar aur gazab kar jaatii ho o
+in thirakate qadamo.n me.n naachatii qayaamat hai \-2
+isali_e sab hasiino.n me.n \threedots
+
+chehare par yuu.N laT hai jaise chaa.Nd ke mukh par baadal ho
+kaajal hai in aa.Nkho.n me.n \-2 yaa mayakhaane me.n botal ho
+gorii hasiin baaho.n me.n zindagii kii raahat hai
+isali_e sab hasiino.n me.n \threedots
+%
+#endindian
+\endsong
+

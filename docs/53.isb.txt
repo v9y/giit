@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{aaj ham ishq kaa izahaar kare.n to kyaa ho}%
+\film{Trishul}%
+\starring{Shashi Kapoor, Hema Malini}%
+\singer{Kishore, Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: Rajan Parrikar + Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+k : aaj ham ishq kaa izahaar kare.n to kyaa ho?
+l : jaan pahachaan se inkaar kare.n to kyaa ho?
+k : bharii mahafil me.n tumhe pyaar kare.n to kyaa ho?
+l : koshishe aap kii betaar kare to kyaa ho?
+
+k : kahate Daratii ho dil me.n maratii ho
+jaaneman tum kamaal karatii ho
+kahate Daratii ho dil me.n maratii ho
+jaaneman tum kamaal karatii ho
+
+k : aa.Nkho.n aa.Nkho.n me.n muskuraatii ho
+baato.n baato.n me.n dil lubhaatii ho
+narm saa.nso.n kii garm laharo.n se
+dil ke taaro.n ko gudagudaatii ho
+arre in sab baato.n kaa matalab pUchhe to
+ra.ng chehare kaa laal karatii ho
+jaaneman tum kamaal karatii ho
+
+l : chup bhii rahie ye kyaa kayaamat hai
+aap kii bhii ajIb aadat hai
+itanaa ha.ngaamaa kisaliye aakhir
+pyaar hai yaa koii musIbat hai
+jab bhii milate ho jaane tum kyaa\-kyaa
+ulTe\-sIdhe savaal karate ho
+jaaneman tum kamaal karate ho
+
+k : mastiyaa.n sii fazaa.n pe chhaayii hai.n
+vaadiyaa.n ra.ng me.n nahaaI hai.n
+l : narm\-sabz\-pe.D shokh phUlo.n ne
+makhamalii chhaadare.n bichhaayii hai.n
+k : aah, chho.Do sharamaanaa aise mausam me
+tabiyat kyo.n nihaal karatii ho
+ho! jaaneman tum kamaal karatii ho
+l : jab bhii milate ho jaane tum kyaa\-kyaa
+ulTe\-sIdhe savaal karate ho
+jaaneman tum kamaal karate ho
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{raat suhaanii, jhuume javaanii}%
+\film{Rani Roopmati}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy}%
+\singer{Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:17 May,2001
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+raat suhaanii, jhuume javaanii
+dil hai diivaanaa haay tere liye
+aa dil milaa le, duniyaa basaa le
+dil hai divaanaa haay tere liye, tere liye 
+o raat suhaanii
+
+(o bevafaa mat der lagaa)\-2
+(soyaa huaa mat dard jagaa)\-2
+(mast bahaare.n tujh ko pukaare.n)\-2 
+dil hai diivaanaa \threedots
+
+(rut hai nashiilii mausam javaa.N)\-2
+(chubhane lagii hai ThaNDii havaa)\-2
+(chupake se aajaa, dil me.n samaa jaa)\-2
+dil hai diivaanaa \threedots
+
+%
+#endindian
+\endsong
+%

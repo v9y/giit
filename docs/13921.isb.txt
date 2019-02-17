@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ha.Nsaataa hai rulaataa hai ... kyuu.N siine me.n hai ye}%
+\film{Soch}%
+\year{2002}%
+\starring{Sanjay Kapoor, Ravina Tandon, Aditi Govitrikar, Arbaz Khan, Danny Danjongpa}%
+\singer{Shweta, Shraddha}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ha.Nsaataa hai rulaataa hai ye kaisaa pyaar hai
+banaataa hai miTaataa hai ye kaisaa pyaar hai
+kyuu.N jaane naa dil ye paagal kyaa hai merii bebasii
+kyuu.N siine me.n hai ye halachal kyuu.N pyaasii hai merii jaa.n
+pa pa raa raa paa paa ee yaa_ii ye
+pa pa raa raa vo
+
+khvaab dekhaa jo jaag ke vo khvaab sach ho gayaa
+mil gayaa sab to yuu.N lagaa na jaane kyaa kho gayaa
+kyuu.N chhaayaa nashaa ye harapal kyuu.N jhuume hai ye zi.ndagii
+kyuu.n siine me.n hai \threedots
+
+kaisii hai diivaanagii kaisaa ye ehasaas hai haa.N
+duur hai dilabar magar lagataa hai ke paas hai
+kyuu.N saa.Nse.n banii.n hai.n sa.ndal kyaa mil ga_ii mujhako khushii
+kyuu.N siine me.n hai halachal kyuu.N pyaasii hai merii jaa.n
+ha.Nsaataa hai \threedots
+%
+#endindian
+\endsong
+

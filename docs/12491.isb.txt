@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{har karam apanaa kare.nge ai vatan tere li_e ... meraa karmaa tuu meraa dharmaa tuu}%
+\film{Karma}%
+\year{1986}%
+\starring{Dilip Kumar, Nutan, Jackie Shrof, Poonam Dhillon, Anil Kapoor, Sridevi, Anupam Kher}%
+\singer{Mohammed Aziz, Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+meraa karmaa tuu meraa dharmaa tuu
+teraa sab kuchh mai.n meraa sab kuchh tuu
+
+har karam apanaa kare.nge \-2 ai vatan tere li_e
+dil diyaa hai jaa.n bhii de.nge ai vatan tere li_e
+
+tuu meraa karmaa tuu meraa dharmaa tuu meraa abhimaan hai
+ai vatan mahabuub mere tujhape dil qurbaan hai
+ham jiye.nge yaa mare.nge ai vatan tere li_e
+dil diyaa hai jaa.n bhii de.nge \threedots
+
+hinduu muslim sikh iisaa_ii hamavatan hamanaam hai.n
+jo kare inako judaa mazahab nahii.n iljaam hai
+ham jiye.nge yaa  mare.nge \threedots
+
+terii galiyo.n me.n chalaakar nafarato.n kii goliyaa.n
+luuTate hai.n sab luTere dulhano.n kii Doliyaa.n
+luT rahaa hai aa.np vo apane gharo.n ko luuT kar
+khelate hai.n bekhabar apane lahuu se holiyaa.n
+ham jiye.nge yaa  mare.nge \threedots
+%
+#endindian
+\endsong
+

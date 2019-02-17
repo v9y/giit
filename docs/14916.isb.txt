@@ -1,0 +1,41 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ye na thii hamaarii qisamat ki visaal\-e\-yaar hotaa}%
+\film{Ghalib (Pakistani-Film)}%
+\year{1962}%
+\starring{}%
+\singer{Noorjehan, Salim Raza}%
+\music{Tasadduq Husain}%
+\lyrics{Mirza Ghalib}%
+
+% Contributor: V S Rawat, Aug 7, 2004
+% Series: NOOR-E-TARANNUM
+% Credits: Afzal A Khan
+
+\printtitle
+#indian
+
+sa \:	ye na thii hamaarii qisamat ki visaal\-e\-yaar hotaa
+nuu \:	agar aur jiite rahate yahii i.ntazaar hotaa
+	ye na thii hamaarii qisamat
+
+	ko_ii mere dil se puuchhe
+	ko_ii mere dil se puuchhe tire tiir\-e\-niim\-kash ko
+	tiir\-e\-niim\-kash ko
+	ye Kalish kahaa.N se hotii jo jigar ke paar hotaa
+	ye na thii hamaarii qisamat
+
+sa \:	yeh kahaa.N kii dostii hai ke bane hai.n dost naaseh
+	ke bane hai.n dost naaseh
+	ko_ii chaaraasaaz hotaa ko_ii Gam\-gusaar hotaa
+	ye na thii hamaarii qisamat
+
+nuu \:	kahuu.N kisase mai.n ke kyaa hai
+	kahuu.N kisase mai.n ke kyaa hai shab\-e\-Gam burii balaa hai
+	shab\-e\-Gam burii balaa hai
+	mujhe kyaa buraa thaa maranaa agar ek baar hotaa
+	ye na thii hamaarii qisamat ki visaal\-e\-yaar hotaa
+
+#endindian
+\endsong

@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{paap kaa zulm kaa tuu vinaashak hai}%
+\film{Vinaashak}%
+\year{1998}%
+\starring{Sunil Shetty, Raveena, Danny, Tinu, Aloknath, Mohan Joshi, Om Puri}%
+\singer{Amit Kumar}%
+\music{Viju Shah}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vinaashak vinaashak
+zulmo.n kaa bhuuchaal yahaa.n jab aa jaataa hai
+baato.n kaa jab vikaraal ruup chhaa jaataa hai
+jab jab dharatii par adharm kaa taa.nDav hotaa hai
+ho kar laachaar jab yahaa.n majahab rotaa hai
+tab zulm kaa karane naash tab paap kaa karane vinaash vinaashak aataa hai
+paap kaa zulm kaa tuu vinaashak hai
+tuu haa.N vinaashak hai isame.n kyaa shaq hai
+tuu vinaashak hai \threedots
+
+aadamii hii haivaan yahaa.n jab ban jaataa hai
+i.nsaan hii jab shaitaan yahaa.n ban jaataa hai
+aata.nk se haahaakaar jab mach jaataa hai
+Daratii hai zamii.n aakaash bhii jab tharraataa hai
+haivaan kaa karane naash shaitaan kaa karane vinaash vinaashak aataa hai
+har aata.nk kaa tuu vinaashak hai
+tuu vinaashak hai \threedots
+
+chehare par jab zulm kaa cheharaa cha.Dh jaataa hai
+aata.nk dari.ndo.n kaa jab jab ba.Dh jaataa hai
+kaanuun kaa jab bhaxak ban jaataa hai
+har duShT kaa daaman paap se jab bhar jaataa hai
+chehare se pardaafaash zaalim kaa karane naash vinaashak aataa hai
+paap kaa zulm kaa tuu vinaashak hai
+haa.N vinaashak hai \threedots
+%
+#endindian
+\endsong
+

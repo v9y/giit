@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tere dar pe aayaa huu.N fariyaad le kar}%
+\film{Chor Bazaar}%
+\year{1954}%
+\starring{Shammi Kapoor, Sumitra Devi}%
+\singer{Talat}%
+\music{Sardar Malik}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments: The song was originally recorded for Laila Majnu (53), also
+%           starring Shammi Kapoor, but was used in Chor Bazar instead.
+%
+\printtitle
+#indian
+%
+
+tere dar pe aayaa huu.N fariyaad le kar
+zubaa.N par Gam\-e-\dil kii ruudaad le kar
+tere dar pe aayaa \threedots
+
+pareshaan hai dil gha.Dii bhar ko aa jaa
+zaraa merii sun jaa aur apanii sunaa jaa
+kahaa.N jaa_uu.N mai.n haal\-e-\barabaad le kar
+tere dar pe aayaa \threedots
+
+mere dard\-e\-dil se nahii.n bekhabar tuu
+bane merii qisamat jo kar de nazar tuu
+muhabbat ke naakaamiyaa.N chhaa rahe.n hai.n
+ummiido.n kii kaliyaa.N murajhaa gayii.n hai.n
+kahii.n mar na jaa_uu.N terii yaad le kar
+tere dar pe aayaa \threedots
+
+%
+#endindian
+\endsong
+%

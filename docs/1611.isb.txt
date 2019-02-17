@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{sau baar janam le.nge, sau baar fanaa ho.nge}%
+\film{Ustaadon Ke Ustaad}%
+\year{1963}%
+\starring{Ashok Kumar, Pradeep Kumar, Shakeela}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+sau baar janam le.nge, sau baar fanaa ho.nge
+ai jaan\-e\-vafaa phir bhii, ham tum na judaa ho.nge
+
+qismat hame milane se, rokegii bhalaa kab tak
+in pyaar kii raaho.n me.n, bhaTakegii vafaa kab tak
+qadamo.n ke nishaa.N khud hii, ma.nzil kaa pataa ho.nge
+
+ye kaisii udaasii hai, jo husn pe chhaaii hai
+ham duur nahii.n tum se, kahane ko judaaii hai
+aramaan bhare do dil, phir ek jagah ho.nge
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{##India## se aayaa ##life## banaane}%
+\film{Kehtaa Hai Dil Baar Baar}%
+\year{2002}%
+\starring{Jimmy Shergil, Kim Sharma, Paresh Rawal}%
+\singer{Adnan Sami, Chorus/ Lalit Pandit}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##India## se aayaa ##life## banaane
+##America## me.n maal kamaane
+ai mere yaaro.n ai mere pyaaro.n
+aayaa yahaa.N kuchh karake dikhaane
+puuchho naa kyaa kyaa kiyaa
+kabhii dho_ii thii ##car##
+kabhii thaa mai.n bekaar
+##waiter## kaa kaam kiyaa
+sabako kiyaa salaam
+kabhii dho_ii thii \threedots
+
+daulate.n hai.n yahaa.N
+shoharate.n hai.n yahaa.N
+##Madonna Clinton Michael## ko dekhaa
+##Briteny## ko dekhaa ##Whiteny## ko dekhaa
+sabakaa nazaaraa liyaa
+kalluu se ##hey what's up##
+##spanish## se ##ke paasa##
+desii se gapashap sabakii mai.n boluu.N bhaaShaa
+
+kyaa se kyaa ho gayaa
+bhii.D me.n kho gayaa
+bhuulaa nahii.n apane vatan ko
+baad\-e\-sabaa ko mahake chaman ko
+paisaa kamaayaa ba.Daa
+##casino## me.n gayaa
+hasiino.n me.n gayaa
+##subway## me.n bhii gayaa
+##highway## me.n bhii gayaa
+##India## se aayaa \threedots
+%
+#endindian
+\endsong
+

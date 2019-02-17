@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{dil kaa haal sune dilavaalaa, siidhii sii baat na mirch masaalaa}%
+\film{Shree 420}%
+\year{1955}%
+\starring{Raj Kapoor, Nargis, Nadira}%
+\singer{Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%	   Arun Verma (verma@cs.cornell.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil kaa haal sune dilavaalaa
+siidhii sii baat na mirch masaalaa
+kahake rahegaa kahanevaalaa
+dil kaa haal sune dilavaalaa
+
+chhoTe se ghar me.n gariib kaa beTaa
+mai.n bhii huu.N maa.N ke nasiib kaa beTaa (2)
+ranj\-o\-Gam bachapan ke saathii
+aa.Ndhiyo.n me.n jalii jiivan baatii
+bhuukh ne hai.n ba.De pyaar se paalaa
+dil kaa haal sune dilavaalaa
+
+(haay karuu.N kyaa suurat aisii
+gaa.nThake puure chor ke jaisii \- 2)
+chalataa phirataa jaanake ek din
+binaa dekhe pahachaan ke ek din
+baa.ndhake le gayaa pulisavaalaa
+dil kaa haal sune dilavaalaa
+
+buu.Dhe daarogaa ne chashme se dekhaa     (2)
+aage se dekhaa piichhe se dekhaa
+uupar se dekhaa niiche se dekhaa
+bolaa ye kyaa kar baiThe ghoTaalaa
+haay ye kyaa kar baiThe ghoTaalaa
+ye to hai thaanedaar kaa saalaa,  
+dil kaa haal sune dilavaalaa
+
+Gam se abhii aazaad nahii.n mai.n
+Kush magar aabaad nahii.n mai.n  (2)
+ma.nzil mere paas kha.Dii hai
+paa.Nv me.n lekin be.Dii pa.Dii hai
+Taa.nga detaa hai daulatavaalaa,  
+dil kaa haal sune dilavaalaa
+
+sun lo magar ye kisii se na kahanaa
+tinake kaa leke sahaaraa na bahanaa (2)
+bin mausammal haar na gaanaa
+aadhii raat ko machchil laanaa
+varanaa paka.D legaa pulisavaalaa
+dil kaa haal sune dilavaalaa
+%
+#endindian
+\endsong
+%

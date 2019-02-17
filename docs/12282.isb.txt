@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ban jaa_o hindustaanii ab kaisii manamaanii baabuu}%
+\film{Jeet}%
+\year{1949}%
+\starring{Suraiya, Dev Anand}%
+\singer{Suraiya, Female Voice, Male Voice, Chorus}%
+\music{Shyam Babu Pathak}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #12523 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	ban jaa_o hindustaanii \-4
+	ab kaisii manamaanii baabuu ab kaisii manamaanii
+ko \:	ban jaa_o hindustaanii \-4
+	
+su \:	kahaa.N chalii o memasaahib ye paa_uDar\-surKhii mal ke \-2
+	uu.Nchii ai.Dii phisal na jaaye chalanaa zaraa sambhal ke
+ko \:	haa.N chalanaa zaraa sambhal ke
+##female voice## \:	ye kyaa bakatii hai ##johny##
+ko \: ham bakate nahii.n ham kahate hai.n
+	ban jaa_o hindustaanii \-4
+
+##male voice## \:	##What nonsense. You Shut Up. You Shut Up. You Shut Up.##
+su \:	giT\-piT giT\-piT kyaa karate ho Taa_ii haiT lagaa ke \-2
+	desh ko naa badanaam karo tum desh kaa paisaa khaa ke \-2
+	apane desh kaa baanaa pahano bolo apanii baanii
+ko \:	ban jaa_o hindustaanii \-4
+
+##female voice## \:	( ye giT\-piT giT\-piT hai jaan hamaarii
+	faishan praaN hamaaraa ) \-2
+##male voice## \:	ham tumako na chho.De.nge \-2
+	ye dil me.n hamane Thaanii \-2
+ko \:	achchhaa ye baat hai
+su \:	##hat## utaaro baabuujii aur sun lo baat hamaarii \-2
+	##London## waalo.n kii to ##London## chalii ga_ii hai gaa.Dii \-2
+	ab tum bhii bistar baa.Ndhoge jo desh kii baat na maanii \-2	
+ko \:	ban jaa_o hindustaanii \-4
+%
+#endindian
+\endsong
+%
+

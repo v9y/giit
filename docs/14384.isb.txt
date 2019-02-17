@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{aapakaa chalanaa qayaamat ... qayaamat ho ... sharaarat ho}%
+\film{Teraa Jaadu Chal Gayaa}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kirti Reddy}%
+\singer{Sonu Nigam, Kavita Subramaniam}%
+\music{Ismail Darbar}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aapakaa chalanaa qayaamat aapakaa rukanaa qayaamat
+aapakaa mu.Danaa qayaamat aapakaa ha.Nsanaa qayaamat
+sar se leke paa.Nv tak aap to hai.n bas qayaamat
+qayaamat ho qayaamat haay qayaamat ho qayaamat ho
+qayaamat ho \threedots
+
+aapake dil me.n sharaarat aapake lab pe sharaarat
+aapako aatii sharaarat aap karate hai.n sharaarat
+sar se leke paa.Nv tak aapame.n hai bas sharaarat
+sharaarat ho sharaarat haay sharaarat ho sharaarat ho
+sharaarat haay sharaarat oy sharaarat ho sharaarat ho
+aapakaa mu.Danaa \threedots
+
+oy haay
+aapane.n pahalii nazar me.n chain meraa le liyaa
+nii.nd merii luuT lii dard jaane kyaa diyaa
+saarii duniyaa se judaa aapakaa a.ndaaz hai
+har galii kuuche me.n charchaa aapakaa hii aaj hai
+aapakii nazare.n qayaamat aapakii zulfe.n qayaamat
+aapakaa Thuamakaa qayaamat aapakaa jhumakaa qayaamat
+sar se leke paa.Nv \threedots
+
+aapakii baato.n se dilabar mai.n abhii anjaan huu.N
+aapakii taariif sunake mai.n zaraa hairaan huu.N
+dekhake lagataa hai mujhako aap diivaane ba.De hai.n
+raam jaane is tarah se kyuu.n mere piichhe pa.De hai.n
+aapakaa aanaa sharaarat aapakaa jaanaa sharaarat
+aapakii baate.n sharaarat aapakaa gaanaa sharaarat
+sar se leke paa.Nv \threedots
+
+aapakaa naa naa yuu.n karanaa jaan\-e\-man jaan\-e\-jaa.n
+aapakaa mujhape yuu.N maranaa jaan\-e\-man jaan\-e\-jaa.n
+mujhako to aisaa lagataa hai in mulaakaato.n me.n
+meraa dil mujhase kahataa hai in hasii.n raato.n me.n
+qayaamat sharaarat sharaarat sharaarat
+ho sharaarat ho ho qayaamat ho
+qayaamat
+qayaamat ho sharaarat ho
+%
+#endindian
+\endsong
+

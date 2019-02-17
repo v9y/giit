@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{do nain haay haay tere do nain}%
+\film{Daada}%
+\year{1966}%
+\starring{Dara Singh, Jayanti, Savita, Sudhir, Tiwari, Helen, Mohan Choti}%
+\singer{Mukesh, Usha Khanna}%
+\music{Usha Khanna}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10452 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	do nain haay haay tere do nain \-2
+	ra.ngiin chhalakate pyaale kahane ko hai.n bhole\-bhaale
+	hai.n aag lagaane vaale
+	do nain haay haay \threedots
+
+uu \:	do nain haay haay tere do nain \-2
+	maasuum ba.De sharmiile ye jaam jo ko_ii pii le
+	jii bhar ke jahaa.N me.n jii le
+	do nain haay haay \threedots
+
+mu \:	sabase niraale nain hai.n tere jinake hai.n diivaane sabhii
+	jaane kitane ruup hai.n inake zahar hai.n kabhii amR^it hai.n kabhii
+	jab chaahe.n sharaabii kar de.n har chiiz gulaabii kar de.n
+	ik pal me.n Karaabii kar de.n
+	do nain haay haay \threedots
+
+uu \:	uThate\-jhukate in naino.n me.n ikaraar aur i.nkaar bhii hai
+	badalii\-badalii in nazaro.n me.n gussaa bhii hai pyaar bhii hai
+	puuchho na fasaanaa inakaa chuuke na nishaanaa inakaa
+	hai aaj zamaanaa inakaa
+do \:	do nain haay haay \threedots
+%
+#endindian
+\endsong
+

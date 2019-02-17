@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye dil diivaanaa aashiq puraanaa ... ho ko_ii ha.ngaamaa}%
+\film{Bulandi}%
+\year{1999}%
+\starring{Rajnikant, Anil Kapoor, Raveena, Rekha, Harish, Sadashiv, Shakti, Aruna}%
+\singer{Sonu Nigam, Jaspindar Narula, Rakesh Pandit}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye dil diivaanaa aashiq puraanaa yaaro.n
+ye aashiqaanaa mausam suhaanaa yaaro.n
+kaun hameshaa rahataa hai machal ke ye dil kahataa hai
+ta.Dap ta.Dap ke yuu.n hii naa mar jaanaa
+ho ko_ii ha.ngaamaa ha.ngaamaa ho jaa_e
+ye dil diivaanaa \threedots
+
+tere jaisaa mere jaisaa ko_ii duujaa hai kahaa.n
+dil to saare dete hai.n hamane dii tujhako ye jaa.n
+samajho matalab hamaaraa rut kaa hai ye ishaaraa
+pyaar hazaaro.n karate hai.n ham to jiite marate hai.n
+dekh dekh ke tumako bas o jaanaa
+ho ko_ii ha.ngaamaa \threedots
+
+tho.De se ye pyaar ke din hai.n tho.Dii sii hai.n raate.n
+aisaa naa ho dil me.n hii rah jaa_e.n dil kii baate.n
+aa zaraa mil ke dekhe.n phuulo.n saa khil ke dekhe.n
+duniyaa ne to rokaa hai kadam kadam pe Tokaa hai
+prem galii me.n dhokhaa hai na jaanaa
+ho ko_ii ha.ngaamaa \threedots
+%
+#endindian
+\endsong
+

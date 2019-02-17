@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{o raajaa mohe le chal tuu dillii kii sair ko}%
+\film{Toote Tare}%
+\year{1948}%
+\starring{Sheikh Mukhtar, Shameem, Kanhaiyalal, Mridula, Murad}%
+\singer{Mukesh, Geeta}%
+\music{Nashad}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11420 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+gii \:	o raajaa mohe
+	raajaa mohe le chal tuu dillii kii sair ko \-2
+mu \:	raanii tohe le jaa_uu.N mai.n dillii kii sair ko \-2
+
+gii \:	garavaa lagaa_uu.N ( tohe vaarii\-vaarii jaa_uu.N ) \-2
+	o raajaa mohe \threedots
+
+mu \:	dillii hii kyaa tohe lakhana_uu dikhaa duu.N
+	suramaa missii tohe barelii kaa laa duu.N
+	nayano.n pe tore tan\-man luTaa duu.N
+	chal\-chal dillii kii \threedots
+	raanii tohe \threedots
+
+gii \:	lakhana_uu bhii dekhaa barelii bhii dekhii
+	saajan par hamane ( rasiinaa na dekhii ) \-2
+	le chal tuu dillii kii \threedots
+
+mu \:	dillii dikhaa_uu.N tohe moTar me.n phiraa_uu.N
+	raanii banaa_uu.N ( tohe nainaa biThaa_uu.N ) \-2
+	chal\-chal dillii kii \threedots
+	raanii tohe \threedots
+%
+#endindian
+\endsong
+

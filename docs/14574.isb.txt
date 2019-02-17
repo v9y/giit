@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{kyuu.N hamane diyaa dil}%
+\film{Vatan}%
+\year{1938}%
+\starring{Kumar, Bibbo, Yaqub, Maya Banerji, Sitara, Kaayam Ali}%
+\singer{Sitara}%
+\music{Anil Biswas}%
+\lyrics{Wajahat Mirza}%
+%
+% Contributor: BOL ANAMOL #11340 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: This lyrics were printed in Listeners' Bulletin Vol #75 under Geetanjali #65
+%
+\printtitle
+#indian
+%
+kyuu.N hamane diyaa dil
+
+thaa kisakaa ishaaraa aur kisane kahaa thaa
+ab tumase kahe.n kyaa kyuu.N hamane diyaa dil
+
+vo Kvaab me.n aanaa dil meraa churaanaa
+aur kah ke ye jaanaa kyuu.N kaisaa liyaa dil
+
+paravaanaa na jalataa kyuu.N sholaa jalaataa
+phir isakaa gilaa kyaa kaahe ko diyaa dil
+%
+#endindian
+\endsong
+

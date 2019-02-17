@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{aa jaa ke dil tujh ko ro ro pukaare}%
+\film{Firdaus}%
+\year{}%
+\starring{}%
+\singer{Asha}%
+\music{Robin Chatterjee}%
+\lyrics{D N Madhok}%
+% 
+% Contributor: Neha Desai 
+% Transliterator: Nita Awatramani
+% Date: 08\Oct\99
+% Credits: S. Kalra
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+aa jaa ke dil tujh ko ro ro pukaare \- 2
+aise mere din na guzare guzaare
+saajan aa jaa, aa jaa, aa jaa ho saajan aa jaa
+
+god me.n teraa pyaar hai khele \- 2
+dil me.n aramaano.n ke mele \- 2
+bhiige bhiige nainaa hamaare \- 2
+phuuT rahe hai.n dard tumhaare
+saajan aa jaa, aa jaa, aa jaa ho saajan aa jaa
+
+des paraayaa log paraaye \- 2
+kaun hai jo meraa Gam khaaye \- 2
+rotii huu.N is dard ke maare \- 2
+chhuuT gaye sab saath sahaare
+saajan aa jaa, aa jaa, aa jaa ho saajan aa jaa
+
+%
+#endindian
+\endsong
+%

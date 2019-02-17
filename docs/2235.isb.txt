@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ulfat kaa saaz chhe.Do}%
+\film{Aurat}%
+\year{1953}%
+\starring{Premnath, Bina Rai, Ulhas}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Neeraj Malhotra
+% Transliterator: Nita
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+ulfat kaa saaz chhe.Do, samaa suhaanaa hai,
+jalave bhii naach uThe, dil kaa taraanaa hai
+ulfat kaa saaz chhe.Do   \threedots
+
+dar pe huzuur aaye, leke muraad ham bhii
+itanii sii aarzuu hai, rah jaaye.n yaad ham bhii
+ulfat kaa saaz chhe.Do   \threedots
+
+dono jahaa.N ham bhii, tum par nisaar kare.n
+kadmon pe chaa.Nd taare, sajade hazaar kare.n
+ulfat kaa saaz chhe.Do   \threedots
+
+mahafil me.n aaj shamaa, kar degii naam roshan,
+thaamegaa aaj koii, dil kaa hasiin daaman
+ulfat kaa saaz chhe.Do   \threedots
+
+%
+#endindian
+\endsong
+%

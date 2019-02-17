@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{betaab ham aavaaraa ham hai.n ... yahii zi.ndagii hai apanii}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+betaab ham aavaaraa ham hai.n biite sau janam aavaaraa ham hai.n
+kabhii chal di_e kabhii tham ga_e kabhii Gam mile kabhii Gam ga_e
+yahii zi.ndagii hai apanii
+betaab ham aavaaraa ham \threedots
+
+tumako samajhaa_e.n kyaa hamako bhii pyaar thaa
+kahatii thii vo sadaa tuu hii to hai meraa
+vo la.Dakii magar kho ga_ii hai kisii aur kii ho ga_ii hai
+betaab ham aavaaraa ham \threedots
+
+pahale jo khvaab the sab kaamayaab the
+pahale thii raah me.n ma.nzil nigaah me.n
+magar nahii.n ab ko_ii ma.nzil chale ham jidhar bhii kahe dil
+betaab ham aavaaraa ham \threedots
+%
+#endindian
+\endsong
+

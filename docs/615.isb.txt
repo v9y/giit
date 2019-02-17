@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{Gam kaa khazaanaa teraa bhii hai meraa bhii}% 
+\film{Best of Sajda}%
+\starring{}%
+\singer{Lata, Jagjit Singh}%
+\music{}%
+\lyrics{Shahid Kabir}%
+%
+% Contributor: Rajesh Sharma (rsharma@cs.indiana.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: rameshh@acad1.tp.ac.sg (Ramesh Hariharan)
+% Editor:
+%
+\printtitle 
+#indian 
+%
+##L:   Lata
+J:   Jagjit
+L, J: Lata followed by Jagjit
+J, L: Jagjit followed by Lata
+L\&J: Both together
+##
+##L, J:## gam kA khazaanaa terA bhI hai meraa bhI 
+##L\&J:## ye nazaraanaa terA bhI hai meraa bhI 
+
+##L:## apane gam kA giit bana kar gaa lenaa 
+     raag puraanaa terA bhI hai meraa bhI 
+
+##L, J:## tU mujhako aur mai.n tumako samajhaauu.N kyA 
+##L\&J:## dil dIvaanaa terA bhI hai meraa bhI 
+
+##L:## shahar me.n galiyo.n galiyo.n jisakaa charchaa hai 
+     vo afasaanaa terA bhI hai meraa bhI 
+
+##J:## maikhaane kii baat nA kar vaaiz mujhase 
+     aana jaanaa terA bhI hai meraa bhI 
+
+##
+Dictionary      :       1.      waaiz   -       preacher
+##
+%
+#endindian
+\endsong
+%

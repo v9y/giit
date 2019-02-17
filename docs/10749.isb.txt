@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{bhikshaa de\-de maiyaa pi.ngalaa}%
+\film{Bharthari}%
+\year{1944}%
+\starring{Surendra, Mumtaaz Shanti, Arun, Kajjan, Sulochana Chaterjee}%
+\singer{Surendra Nath, Amirbai}%
+\music{Khemchand Prakash}%
+\lyrics{Pt Indra}%
+%
+% Contributor: BOL ANAMOL #12265 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+su \:	bhikshaa de\-de maiyaa pi.ngalaa
+	jogii khaDaa hai dwaar maiyaa pi.ngalaa
+a \:	jog utaaro raajaa bharatarii
+	raanii kare hai pukaar raajaa bharatarii
+su \:	bhikshaa de\-de maiyaa pi.ngalaa
+	jogii khaDaa hai dwaar maiyaa pi.ngalaa
+
+a \:	kaise dekhuu.N jog tumhaaraa \-2
+	gaa_uu.N prahar kaTaar raajaa bharatarii
+su \:	karm\-likhii naa miTe kise se \-2
+	karnahaar karataar maiyaa pi.ngalaa
+
+a \:	kesar\-chandan chho.D ke raajaa \-2
+	liinhii bhabhuutii dhaar raajaa bharatarii
+su \:	kesar kaayaa raakh banegii \-2
+	isame.n kaun si.ngaar maiyaa pi.ngalaa
+
+a \:	alakh jagaavo mahal me.n raajaa \-2
+	duu.Ngii aa.Nchal Daar raajaa bharatarii
+su \:	jogii to ja.ngal ke baasii \-2
+	kaisaa ghar\-sanasaar maiyaa pi.ngalaa
+
+a \:	dayaa na aa_ii o niramohii \-2
+	o niramohii chho.D chale majhadhaar raajaa bharatarii
+su \:	alakh niranjan alakh niranjan alakh niranjan
+	alakh niranjan alakh niranjan alakh niranjan
+	alakh niranjan japo rii maiyaa \-2
+	ho bhav\-saagar paar maiyaa pi.ngalaa
+
+su \:	bhikshaa de\-de maiyaa pi.ngalaa
+	jogii khaDaa hai dwaar maiyaa pi.ngalaa
+a \:	jog utaaro raajaa bharatarii
+	raanii kare hai pukaar raajaa bharatarii
+su \:	bhikshaa de\-de maiyaa pi.ngalaa
+	jogii khaDaa hai dwaar maiyaa pi.ngalaa
+%
+#endindian
+\endsong
+%
+

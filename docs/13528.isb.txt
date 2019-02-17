@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{log jahaa.n par rahate hai.n us jagah ko ... ise pyaar kaa ma.ndir kahate hai.n}%
+\film{Pyaar Kaa Mandir}%
+\year{1988}%
+\starring{Mithun, Madhavi, Rajkiran, Sachin, Shoma Anand, Shakti Kapoor}%
+\singer{Kavita Subramaniam, Udit Narayan, Mohammed Aziz, Suresh Wadekar}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+log jahaa.n par rahate hai.n us jagah ko vo ghar kahate hai.n
+ham is ghar me.n rahate hai.n ise pyaar kaa ma.ndir kahate hai.n
+ham is ghar me.n \threedots
+
+hu_ii aaj ke din ek baat ba.Dii apane ghar kii buniyaad pa.Dii
+vishvaash pe aur mohabbat pe har ek hu_ii diivaar kha.Dii
+har aa.ndhii har tuufaa.n se majabuut hai ye ghar kahate hai.n
+log jahaa.n par \threedots
+
+is ghar kii kiimat kyaa hogii duniyaa ko kuchh andaazaa hai
+ye daravaazaa is ghar kaa nahii.n jannat kaa ye daravaazaa hai
+is farsh ko dharatii kahate hai.n is chhat ko ambar kahate hai.n
+log jahaa.n par \threedots
+
+khushiyo.n ke diip jalaa_e.nge sapano.n ke phuul khilaa_e.nge
+miTane naa de.nge is ghar ko is ghar par ham miT jaa_e.nge
+ai maa.N tere bachche terii sauga.ndh uThaa kar kahate hai.n
+log jahaa.n par \threedots
+
+om hari om
+%
+#endindian
+\endsong
+

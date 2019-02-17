@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{diivaanaa dil hai meraa ... mai.n teraa diivaanaa}%
+\film{Kitne Door Kitne Paas}%
+\year{2002}%
+\starring{Fardin Khan, Amrita Arora}%
+\singer{Sonu Nigam, Sunidhi Chauhan}%
+\music{Sanjeev Darshan}%
+\lyrics{Abbas}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa dil hai meraa diivaanaa dil hai teraa
+diivaanepan me.n chhupaa diivaanagii kaa mazaa
+dil meraa tujhako hii jaane dil teraa mujhako hii jaane
+jo dil se pyaar karate hai.n kahalaate hai.n diivaane
+mai.n teraa diivaanaa tuu merii diivaanii
+tuu meraa diivaanaa mai.n terii diivaanii
+diivaanaa dil hai \threedots
+
+nii.nd me.n jab tuu aa_e aa.Nkho.n me.n jab samaa_e
+dil ye maa.nge du_aa_e.n khvaab naa TuuT jaa_e.n
+tujhako khvaabo.n kii yaaraa kyaa hai ab zaruurat
+jo khvaab dekhaa thaa tuune vo ban gayaa hai hakiikat
+mai.n teraa diivaanaa \threedots
+
+merii dha.Dakan se teraa ek ajiib rishtaa hai
+tuu yaad jab bhii karataa hai dil zor se dha.Dakataa hai
+mai.n dil huu.N tum merii dha.Dakan dil meraa mujhase kahataa hai
+jo choT lagatii hai tujhako to dard mujhako hotaa hai
+mai.n teraa diivaanaa \threedots
+%
+#endindian
+\endsong
+

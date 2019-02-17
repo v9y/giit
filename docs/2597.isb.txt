@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ishq ne to.Dii sar pe qayaamat}%
+\film{Junoon}%
+\year{1978}%
+\starring{Shashi Kapoor, Nafisa Ali, Shabana, Naseeruddin}%
+\singer{Rafi}%
+\music{Vanraj Bhatia}%
+\lyrics{Jigar Moradabadi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ishq ne to.Dii sar pe qayaamat
+zor\-e\-qayaamat kyaa kahiye
+
+sunane vaalaa koii nahii.n hai
+ruudaad\-e\-muhabbat kyaa kahiye
+
+dil hai kisii kaa raaz\-e\-haqiikat
+raaz\-e\-haqiikat kyaa kahiye
+
+hairat\-e\-jalavaa mohar\-b\-lab hai
+jalavaa\-e\-hairat kyaa kahiye
+
+us pe kisii kii tiir\-e\-sitam sii
+mashq\-e-\siyaasat kyaa kahiye
+
+%
+#endindian
+\endsong
+%

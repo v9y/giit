@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{zi.ndagii ke safar me.n akele the ham}%
+\film{Nartaki}%
+\year{1963}%
+\starring{Sunil Dutt, Nanda, Om Prakash}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+zi.ndagii ke safar me.n, akele the ham
+mil gae tum to dil ko sahaaraa milaa
+aa gae ik nae raaste par qadam
+jab tumhaarii nazar kaa ishaaraa milaa
+
+zi.ndagii ko tamannaa thii hamaraaz kii
+paaz\-e\-dil kii zaruurat thii aavaaz kii
+tumane jab muskuraakar pukaaraa hame.n
+zi.ndagii ko khushii kaa nazaaraa milaa
+
+ab zamaane kaa Dar hai na duniyaa kaa Gam
+apanii taqadiir par naaz karate hai.n ham
+aaj aa.Nkho.n ko jalave tumhaare mile
+aaj haatho.n ko daaman tumhaaraa milaa
+%
+#endindian
+\endsong
+%

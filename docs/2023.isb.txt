@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ai dil ab kahii.n na jaa}%
+\film{Bluff Master}%
+\year{1963}%
+\starring{Shammi Kapoor, Saira Bano, Pran}%
+\singer{Hemant}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ai dil ab kahii.n na jaa
+na kisii kaa mai.n, na koii meraa
+
+jab chale ham, raah ulajhii pyaar duniyaa ne kiyaa
+raah siidhii jab milii to sab ne Thukaraa diyaa
+ai dil   \threedots
+
+na kisii ko chaah merii na kisii ko i.ntazaar
+kis liye phir mu.D ke piichhe dekhanaa baar\-baar
+ai dil   \threedots
+
+%
+#endindian
+\endsong
+%

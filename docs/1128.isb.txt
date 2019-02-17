@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{mai.n shaayar to nahii.n, magar ai hasii.n}%
+\film{Bobby}%
+\year{1973}%
+\starring{Rishi Kapoor, Dimple}%
+\singer{Shailendra Singh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Baiju "Bawara" Shah (gt8269b@prism.gatech.edu)
+%          Amit N. Agarwal (aagarwal@leland.Stanford.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n shaayar to nahii.n
+magar ai ha.nsii.n
+jabase dekhaa, mai.nne tujhako, mujhako
+shaayarii, aa gaI
+
+main.n aashiq to nahI.n
+magar ai hasI.n
+jabase dekhaa, mai.nne tujhako, mujhako
+AshiqI, aa gaI
+
+pyaar kaa naam mai.nne sunaa thaa magar
+pyaar kyaa hai ye mujhako nahii.n thii khabar
+mai.n to ulajhaa rahaa ulajhano.n kii tarah
+dosto.n me.n rahaa dushmano.n kii tarah
+mai.n dushman to nahii.n
+magar ai ha.nsii.n
+jab se dekhaa, mai.n ne tujhako, mujhako
+dostii aa gaI
+
+sochataa huu.N agar mai.n duaa maa.Ngataa
+haath apane uThaakar mai.n kyaa maa.Ngataa
+jab se tujhase muhabbat mai.n karane lagaa
+tab se aise ibaadat mai.n karane lagaa
+mai.n qaafir to nahii.n
+magar ai ha.nsii.n
+jab se dekhaa, mai.n ne tujhako, mujhako
+ba.ndagii aa gaI
+%
+#endindian
+\endsong
+%

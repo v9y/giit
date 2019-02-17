@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{chhaayaa jaagii}%
+\film{Maya Memsahab}%
+\year{1994}%
+\starring{Deepa Sahi, Farouq Sheikh, Shahrukh Khan, Raj Babbar}%
+\singer{Lata, Hridaynath}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: Lata's contribution to this is purely alaap and humming.
+%
+\printtitle
+#indian
+%
+chhaayaa jaagii
+saayaa jaagii
+
+cha.nchal cha.nchal komal cha.nchal
+cha.nchal komal komal cha.nchal cha.nchal
+saayaa maa.Ngii
+
+sajake solah singaar
+chalii sapano.n ke sapanao.n ke paar
+maayaa laagii, maayaa laagii
+
+%
+#endindian
+\endsong
+%
+

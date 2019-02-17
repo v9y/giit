@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{tuune mere zaKm\-e\-jigar ko chhuu liyaa}%
+\film{Nageenaa}%
+\year{1951}%
+\starring{Nasir Khan, Nutan, Bipin Gupta, Gop}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10814 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+tuune ho tuune mere zaKm\-e\-jigar ko chhuu liyaa
+
+duur huu.N mai.n terii duniyaa se \-2
+kyuu.N chhu_aa daaman meraa
+tuune haay mere \threedots
+
+mai.n pyaar kii chaa.Ndanii raat huu.N \-2
+ulajhii hu_ii dard kii baat huu.N \-2
+tuune haay mere \threedots
+
+suunaa thaa ghar ko_ii rahane lagaa \-2
+Dar ke magar dil ye kahane lagaa \-2
+tuune haay mere \threedots
+%
+#endindian
+\endsong
+

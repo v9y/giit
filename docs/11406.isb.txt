@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dil diivaanaa Dhuu.NDhataa hai ... kaun hai vo kaun hai}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil diivaanaa Dhuu.NDhataa hai ik hasii.n la.Dakii
+kaun hai vo kaun hai mai.n jaanataa nahii.n
+ho dil diivaanaa \threedots
+
+paas aa_egii ek din vo
+pyaar laa_egii ek din vo
+usake maathe ko chuum luu.Ngaa
+usakii baaho.n me.n jhuum luu.Ngaa
+usakii aa.Nkho.n kaa mai.n ik hasii.n khvaab huu.N
+usase milane ko mai.n kitanaa betaab huu.N
+ho dil diivaanaa \threedots
+
+kyaa bataa_uu.N vo hai kaisaa vo diivaanaa khuub hai
+saarii duniyaa se judaa vo meraa mahabuub hai
+chhe.Dataa khvaabo.n me.n aa ke vo ba.Daa hai manachalaa
+mai.n use haasil karuu.Ngii ye hai meraa faisalaa
+kaun hai vo kaun hai mai.n jaanatii nahii.n
+dil diivaanaa Dhuu.NDhataa hai ik hasii.n la.Dakaa
+
+hasiinaa bataa teraa kyaa naam hai
+mere naam se tujhako kyaa kaam hai
+o maGaruur la.Dakii zaraa dhiire chal
+ai gustaakh tuu apanaa rastaa badal
+yuu.N aa.Nkhe.n naa dikhaa tuu
+yuu.N baate.n naa banaa tuu
+maanegii tuu naa aise
+dekhe hai.n tere jaise tuu nashe me.n chuur hai
+mujhako aisaa lag rahaa hai tuu ba.Dii majabuur hai
+kaun hai tuu mai.n jaanataa nahii.n
+ik hasii.n la.Dakii
+ik hasii.n la.Dakaa
+%
+#endindian
+\endsong
+

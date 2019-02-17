@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ho gayaa hai mujhe pyaar ... are nahii.n honaa thaa}%
+\film{Pardes}%
+\year{1997}%
+\starring{Shahrukh Khan, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye muhabbat bhii ek ibaadat hai
+aur ye ibaadat bhii ek mohabbat hai
+ye bhii diivaanagii hai vo bhii diivaanagii hai
+ye bhii dil kii lagii hai vo bhii dil kii lagii hai
+mujhako kyaa ho gayaa hai sabako hairaanagii hai
+ho gayaa hai mujhe pyaar
+are nahii.n honaa thaa nahii.n honaa thaa lekin ho gayaa
+ho gayaa hai mujhe \threedots
+
+is pyaar ke ye kis mo.D par vo chal diyaa mujhe chho.D kar
+aage jaa naa sakuu.N piichhe jaa naa sakuu.N
+Gam dikhaa naa sakuu.N Gam chhupaa naa sakuu.N
+saamane tere aag kaa dariyaa Duub ke jaanaa paar
+ho gayaa hai mujhe \threedots
+
+zamaanaa dilo.n ko nahii.n jaanataa zamaane ko ye dil nahii.n maanataa
+nahii.n aur ko_ii faqat ishq hai vo
+jo aashiq kii nazaro.n ko pahachaanataa hai
+ab vaqt faisale kaa nazadiik aa gayaa hai
+jiine kaa hai shauq to marane ko ho jaa taiyaar
+ho gayaa hai mujhe \threedots
+
+vaapas kar aa_ii mai.n baabul ko shaadii kaa jo.Daa
+maine pyaar ko pahan liyaa hai
+phe.nkii maine galii me.n jhuuThii rasmo.n kii a.nguuThii
+to.D di_e sab laaj ke pahare mai.n har aib se chhuuTii
+apanaa laal dupaTTaa mere dil ke khuun se ra.ng jaa
+ye sa.ngam ho jaa_e saagar se mil jaa_e ga.ngaa
+nahii.n honaa thaa \threedots
+%
+#endindian
+\endsong
+

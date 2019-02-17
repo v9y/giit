@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{aa gale lag jaa mere sapane mere apane mere paas aa}%
+\film{April Fool}%
+\year{1964}%
+\starring{Saira Bano, Bisvajiit, Jayant, Sajjan}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10960 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa gale lag jaa mere sapane mere apane mere paas aa \-2
+
+aabaad hai tuu merii dha.Dakano.n me.n merii jaan tujhame.n basii hai
+baadal se jo aas hai mor ko mere dil ko vo tujhase lagii hai
+ik terii muskaan a.nga.Daa_ii letii hu_ii merii taqadiir jaage
+ik terii jhalak chalii aa_e pal me.n merii ma.nzile.n mere aage
+aa gale lag jaa \threedots
+
+man aazamaa.N tuu mere pyaar ko khel mat yuu.N merii zindagii se
+ulfat ke maaro.n ko kyaa maaranaa jaan de dete hai.n jo Kushii se
+ye husn jisako mile jaan\-e\-jaa.N bedilii usakii ja.Nchatii nahii.n hai
+ho ruu\-ba\-ruu chaa.Nd se jo hasii.N beruKii usako sajatii nahii.n hai
+aa gale lag jaa \threedots
+%
+#endindian
+\endsong
+

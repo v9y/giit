@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{zaraa sii baat pe har rasm to.D aayaa thaa ##mukesh gazal ##}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: (tanvi@utxvms.cc.utexas.edu)
+%          Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+zaraa sii baat pe har rasm to.D aayaa thaa
+dil\-e\-tabaah ne bhii kyaa mizaaj paayaa thaa
+
+muaaf kar naa sakii merii zindagii mujhako
+vo ek lamhaa ki mai.n tujhase ta.ng aayaa thaa
+
+shaguftaa phUl simaT kar kalii bane jaise
+kuchh is tarah se tUne badan churaayaa thaa
+
+guzar gayaa hai koI lamhaa\-e\-sharar kii tarah
+abhii to mai.n use pahachaan bhii na paayaa thaa
+
+pataa nahii.n ki mere baad unape kyaa guzarii
+mai.n chaa.Nd khvaab zamaane me.n chho.D aayaa thaa
+%
+#endindian
+\endsong
+%

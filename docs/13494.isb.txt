@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{pyaar ke jahaan kii niraalii sarakaar hai ... muhabbat ke thaane me.n}%
+\film{Patanga}%
+\year{1949}%
+\starring{Shyam, Nigar Sultana, Yaqub, Gope, Rajendranath, Kukku}%
+\singer{Lata, Shamshad, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: Latanjali Series.
+% 
+\printtitle
+#indian
+%
+sha    \: pyaar ke jahaan kii ( niraalii sarakaar hai ) \-2
+la     \: pyaar ke jahaan kii ( niraalii sarakaar hai ) \-2
+dono.n \: ( muhabbat ke thaane me.n ) \-2 ye dil thaanedaar hai
+          ye dil havaladaar hai ye dil chaukiidaar hai
+
+dono.n \: pyaar ke jahaan kii \threedots
+
+la     \: anokhii kacherii hai ye ( anokhaa qaanuun hai ) \-3
+sha    \: muhabbat kii arzii kaa nayaa mazmuun hai \-2
+dono.n \: aa.Nkho.n kaa DaakaKaanaa ho aa.Nkho.n kaa Daakakhaanaa
+          nazaro.n kaa taar hai jii nazaro.n kaa taar hai 
+          muhabbat ke thaane me.n \threedots
+          pyaar ke jahaan kii \threedots
+
+la     \: pyaar ke isakuul me.n ( ik hii talaash hai ) \-3
+sha    \: laakho.n ummiidavaar ko_ii ko_ii paas hai \-2
+dono.n \: ( mushkil sabaq hai ye ) \-2
+          par mazedaar hai jii par mazedaar hai 
+          muhabbat ke thaane me.n \threedots
+          pyaar ke jahaan kii \threedots
+
+la     \: pyaar kiyaa jisane vo ( pyaar hii me.n kho gayaa ) \-3
+sha    \: itanaa samajh lo ke bekaar ho gayaa \-2
+dono.n \: ( usake li_e to ) \-2
+          har din itavaar hai jii har din itavaar hai 
+          muhabbat ke thaane me.n \threedots
+          pyaar ke jahaan kii \threedots
+%
+#endindian
+\endsong

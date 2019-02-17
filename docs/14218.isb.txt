@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{aane vaale ko aanaa hogaa}%
+\film{Sohni Mahiwaal}%
+\year{1958}%
+\starring{Bharat Bhushan, Nimmi, Achala sachdev, Sheela Kashmiri, Mukri, Tuntun}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10661 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	aane vaale ko aanaa hogaa
+la \:	jaane vaale ko jaanaa hogaa \-2
+
+ra \:	o milii hai pyaar kii ma.nzil na_e safar ke li_e
+la \:	tumhaare ho ga_e ham aaj umr bhar ke li_e
+ra \:	milii hai pyaar kii \threedots
+la \:	tumhaare ho ga_e \threedots
+ra \:	pyaar karake nibhaanaa hogaa
+do \:	pyaar karake nibhaanaa hogaa
+	aane vaale ko \threedots
+	jaane vaale ko \threedots
+
+ra \:	o Kushii kii mauj me.n ham aaj Duube jaate hai.n
+la \:	hamaare haath se patavaar chhuuTe jaate hai.n
+ra \:	Kushii kii mauj \threedots
+la \:	hamaare haath se \threedots
+ra \:	ishq me.n Duub janaa hogaa
+do \:	ishq me.n Duub janaa hogaa
+	aane vaale ko \threedots
+	jaane vaale ko \threedots
+
+la \:	o hamaare pyaar ke kisse sunaa_e jaa_e.Nge
+ra \:	ye giit saare zamaane me.n gaa_e jaa_e.Nge
+la \:	hamaare pyaar ke \threedots
+ra \:	ye giit saare zamaane \threedots
+la \:	ham naa ho.nge fasaanaa hogaa
+do \:	ham naa ho.nge fasaanaa hogaa
+	aane vaale ko \threedots
+	jaane vaale ko \threedots
+%
+#endindian
+\endsong
+

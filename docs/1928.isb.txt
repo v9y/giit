@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye mausam ra.ngiin samaa, Thahar zaraa o jaan\-e\-jaa.n}%
+\film{Modern Girl}%
+\year{}%
+\starring{Pradeep Kumar, Saida Khan, Smriti Biswas}%
+\singer{Mukesh, Suman Kalyanpur}%
+\music{Ravi}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+% INCOMPLETE
+%
+ye mausam ra.ngiin samaa Thahar zaraa o jaan\-e\-jaa.n
+teraa meraa meraa teraa pyaar hai to phir kaisaa sharamaanaa
+ruk to mai.n jaauu.N jaan\-e\-jaa.n mujhako hai inakaar kahaa.N
+teraa meraa meraa teraa pyaar sanam na ban jaae afasaanaa
+
+ye chaa.Nd aur sitaare kahate hai.n mil ke saare
+aajaa pyaar kare.n
+ye chaa.Nda bairii dekhe aise me.n bolo kaise
+iqaraar kare.n
+dil me.n hai kuchh kahe zubaa.n 
+pyaar yahii hai jaan\-e\-jaa.n
+teraa meraa \threedots
+
+ye pyaar kii lambii raahe.n baaho.n me.n Daale baahe.n
+kahii.n duur chale.n
+baiThe hai.n gheraa Daale ye zaalim duniyaa vaale
+hame.n dekh jale
+Thahar zaraa o jaan\-e\-jaa.n
+mujhako hai inakaar kahaa.N
+teraa meraa \threedots
+%
+#endindian
+\endsong
+%

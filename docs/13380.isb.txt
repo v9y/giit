@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{naa milate ham to kaho tum kidhar ga_e hote}%
+\film{Opera House}%
+\year{1961}%
+\starring{Ajeet, B Saroja Devi, K N Singh, Maruti, Baalam, Niranjan Sharma}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10148 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	naa milate ham to kaho tum kidhar ga_e hote
+la \:	tumhaaraa pyaar na milataa to mar ga_e hote
+
+	agar aise me.n ham naa tumhe.n paa jaate
+	chhupaa_e mu.Nh ko a.Ndhere me.n ashq barasaate ham ashq barasaate
+mu \:	vo ashq to merii aa.Nkho.n me.n bhar ga_e hote
+la \:	tumhaaraa pyaar na \threedots
+
+mu \:	hame.n to furaqat me.n isii Gam ne maaraa
+	merii bahaar bhaTakatii phiregii aavaaraa phiregii aavaaraa
+la \:	tumhaarii raah me.n hote jidhar ga_e hote
+mu \:	naa milate ham to \threedots
+
+la \:	jaane phir kyaa hotaa ye na puuchho hamase
+	zamaanaa chhiin hii letaa hame.n agar tumase \-2
+mu \:	diivaane phir to ko_ii kaam kar ga_e hote
+la \:	tumhaaraa pyaar na \threedots
+%
+#endindian
+\endsong
+

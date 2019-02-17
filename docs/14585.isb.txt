@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mujhe terii nazar ne aashiq banaayaa sanam}%
+\film{Waah Tera Kya Kehna}%
+\year{2002}%
+\starring{Govinda, Ravina Tandon, Priti Jhangiyani, Shammi Kapoor}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe terii nazar ne aashiq banaayaa sanam
+is jahaa.N ke diivaane sab aashiqo.n kii kasam
+chaahe.n din ho chaahe.n raate.n
+karataa huu.N bas terii baate.n jaan\-e\-jaa.n
+mujhe terii nazar ne \threedots
+
+pyaar ke vaade sabhii jo mai.n to.D duu.N
+kyaa karogii tum agar daaman chho.D duu.N
+yaar mere khudakushii mai.n kar jaa_uu.Ngii
+bevafaa_ii naa sahuu.Ngii mar jaa_uu.Ngii
+bevafaa mai.n nahii.n
+tujhako mujhape hai bharosaa
+kaise duu.Ngaa tujhako dhokhaa naa re naa
+
+chal rahii har saa.Ns pe teraa naam hai
+pyaar karanaa bas tujhe meraa kaam hai
+dekh terii chaahato.n me.n kyaa ho gayaa
+mai.n tere khvaabo.n khyaalo.n me.n kho gayaa
+hamanashii.n zi.ndagii terii baaho.n me.n guzaaruu.N
+tujhako dha.Dakan me.n utaaruu.N haa.N re haa.N
+mujhe terii nazar ne \threedots
+%
+#endindian
+\endsong
+

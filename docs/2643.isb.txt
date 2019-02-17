@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{man bhuulii kathaa_e.n yaad na kar}%
+\film{Doosri Shaadi}%
+\year{1947}%
+\starring{}%
+\singer{Shamshad}%
+\music{Pt. Govindram}%
+\lyrics{I C Kapoor}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+man bhuulii kathaa_e.n yaad na kar
+phir saavan ke din aaye.nge
+man bhuulii kathaa_e.n   \threedots
+
+phir koyal kuuk sunaayegii
+phir pavan jhuumatii aayegii
+pii aaye.nge muskaaye.nge
+tujhe ruuThaa huaa manaaye.nge
+man bhuulii kathaa_e.n   \threedots
+
+phir aashaa ra.ng dikhaayegii
+phir kalii phuul ban jaayegii
+man chaahegaa so paayegaa
+tere biite din phir aaye.nge
+man bhuulii kathaa_e.n   \threedots
+
+%
+#endindian
+\endsong
+%

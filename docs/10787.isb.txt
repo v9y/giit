@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{ammaa mere baabul ko bhejo rii ke saavan aayaa saavan aayaa}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Afroz Bano, Farida Khan}%
+\music{Sajid Wajid}%
+\lyrics{Ameer Khusro}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ammaa mere baabul ko bhejo rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+
+beTii teraa baabul to bichha.Daa rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+
+ammaa mere bhaiyaa ko bhejo rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+
+beTii teraa bhaiyaa to baalaa rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+
+ammaa mere bachapan ko bhejo rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+
+beTii teraa bachapan to chhuuTaa rii
+ke saavan aayaa saavan aayaa
+ammaa mere \threedots
+%
+#endindian
+\endsong
+

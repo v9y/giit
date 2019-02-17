@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{jaanam jaane jaa, jaanam jaane jahaa.N ... jaan-e-jigar, jaan-e-man}%
+\film{Aashiqui}%
+\year{}%
+\starring{Rahul Roy, Anu Agarwal}%
+\singer{}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer, Rani Mallik}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaanam jaanejaa.N, jaanam jaanejahaa.N
+jaanejigar jaaneman, mujhako hai terii qasam
+tuu jo mujhe na milaa, mar jaauu.ngii mai.n sanam
+
+o rokegaa ham ko, ab kyaa zamaanaa
+mar ke hame.n hai vaadaa nibhaanaa
+jaanejigar jaaneman \threedots
+
+mai.n phuulo.n se kalio.n se taaro.n se terii maa.Ng bhar duu.ngaa
+mai.n saa.nso kii mahakii nigaaho ko tere naam kar duu.ngaa
+
+mai.n pyaar tujhase karatii huu.N
+din raat aa.Nhe bharatii huu.N
+aa.Nhe bharatii huu.N,  aa.Nhe bharatii huu.N
+jaanejigar jaaneman \threedots
+
+(bin tere guzarate hai.n kaise mere din raat na puchho) \- 2
+jo dil me.n chhupe hai.n mere hamanashii.n vo baat na puuchho 
+
+do dil jab dha.Dakate hai.n
+aise hii ta.Dapate hai.n
+ta.Dapate hai.n, ta.Dapate hai.n
+jaanejigar jaaneman \threedots
+
+o rokegaa ham ko, ab kyaa zamaanaa
+mar ke hame hai vaadaa nibhaanaa
+jaanejigar jaaneman \threedots
+jaanam, jaanejaa.n,  jaanam, jaanejahan
+%
+#endindian
+\endsong
+%

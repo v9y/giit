@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{naa le ke jaa_o mere dost kaa janaazaa hai}%
+\film{Fizaa}%
+\year{2000}%
+\starring{Hritik Roshan, Karisma, Jaya, Neha, Sushmita, Vikran Saluja}%
+\singer{Jaspindar Narula}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+naa le ke jaa_o mere dost kaa janaazaa hai
+abhii to garm hai miTTii ye jism taazaa hai
+naa le ke jaa_o \threedots
+
+ulajh ga_ii hai kahii.n saa.Ns khol do is kii
+labo.n pe aa_ii hai jo baat puurii karane do
+abhii ummiid bhii jindaa hai Gam bhii taazaa hai
+naa le ke jaa_o \threedots
+
+jagaa_o is ko gale mil ke alavidaa to kahuu.N
+ye kaisii ruKasatii hai ye kyaa saliikaa hai
+abhii to jiine kaa har ek zakhm taazaa hai
+naa le ke jaa_o \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{haal chaal Thiik Thaak hai, sab kuchh Thiik Thaak hai,}%
+\film{Mere Apne}%
+\year{1971}%
+\starring{Meena Kumari, Vinod Khanna, Shatrughan Sinha}%
+\singer{Kishore, Mukesh}%
+\music{Salil Choudhary}%
+\lyrics{Gulzar}%
+%
+% Contributor: Sandeep C. Patwadhan (scp@shack.csci.csc.com)
+% Transliterator: Anurag Acharya (anurag_acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+haal chaal Thiik Thaak hai, sab kuchh Thiik Thaak hai
+##B.A.## kiyaa hai, ##B.A.## kiyaa, lagataa hai vo bhii ay.nvay.n kiyaa
+kaam nahii.n hai varanaa yahaa.N aap kii du_aa is sab Thiik Thaak hai
+
+aab\-o\-havaa 
+aab\-o\-havaa desh kii bahut saaf hai
+kaayadaa hai, kaanuun hai, inasaaf hai
+allaah miyaa.N jaane koii jiye yaa mare
+aadamii ko khuun vuun sab maaf hai
+aur kyaa kahuu.N, chhoTii moTii chorii
+rish{}vat khorii detii hai apanaa guzaaraa yahaa.N 
+aap kii du_aa se baakii Thiik Thaak hai
+
+gol mol roTii kaa pahiyaa chalaa \- 2
+piichhe piichhe chaa.Ndii kaa rupaiyaa chalaa 
+roTii ko bechaarii ko chiil le gayii (oh terii)
+chaa.Ndii le ke mu.Nh kaalaa kauvaa chalaa
+aur kyaa kahuu.N, maut kaa tamaashaa
+chalaa hai betahaashaa, jiine kii furasat nahii.n hai yahaa.N 
+aap kii du_aa se baakii Thiik Thaak hai ##(very good)## 
+%
+#endindian
+\endsong
+%

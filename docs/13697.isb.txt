@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{cha.nchal shokh havaa_o.n jaa ke sajanaaa se kahanaa}%
+\film{Qaid Mein Hai Bulbul}%
+\year{1992}%
+\starring{Himalaya, Bhagyashri}%
+\singer{Suresh Wadekar, Kavita Subramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+cha.nchal shokh havaa_o.n jaa ke sajanaaa se kahanaa
+mai.n baago.n kii bulabul mujhe pi.njare me.n nahii.n rahanaa
+cha.nchal shokh havaa_o.n \threedots
+
+ambar ke niiche panaghaT ke piichhe aise hii gaatii rahuu.ngii mai.n
+bulabul gulistaa.n ko naGme.n yuu.n hii sunaatii rahuu.ngii mai.n
+paayal bajaatii khushbuu luTaatii mai.n huu.N sahelii bahaaro.n kii
+shabanam kii buuTii phuulo.n kii la.Diyaa.n hai.n meraa gahanaa
+cha.nchal shokh havaa_o.n \threedots
+
+biitii kahaanii baate.n puraanii mujhako bahut yaad aatii hai.n
+pyaasii fizaa_e.n terii sadaa_e.n
+kaise mile.nge ham dobaaraa mai.n puuchhataa huu.N nazaaro.n se
+dard judaa_ii kaa ab to mujhe nahii.n sahanaa
+cha.nchal shokh havaa_o.n \threedots
+%
+#endindian
+\endsong
+

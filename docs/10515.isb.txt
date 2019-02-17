@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{baajare ke khet me.n ... mu_aa kaalaa kauvaa aayaa}%
+\film{Benaam}%
+\year{1999}%
+\starring{Mithun Chakravarti, Aditya Pancholi, Payal Malhotra}%
+\singer{Jaspindar Narula, Chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ha_iiyaa ha_iiyaa ho ho ho o
+baajare ke khet me.n kaalaa kauvaa aayaa
+cho.nch maar ke baalii to.Dii kaa.nv kaa.nv chillaayaa
+mu_aa kaalaa kauvaa aayaa
+
+din me.n bairii khet me.n aa_e raat ko chhat pe bole
+dekhake meraa ruup suhaanaa pa.nkh uThaa ke Dole
+laakh u.Daayaa maine lekin ye nahii.n u.D paayaa
+mu_aa kaalaa kauvaa aayaa \threedots
+
+kal kii baat sunaa_uu.n bairii subah se piichhe lagaa
+ho mauqaa paakar ye baalo.n kaa gajaraa le kar bhaagaa
+o_e ho_e
+o yuu.n lagataa hai prem nagar se ye kauvaa hai aayaa
+mu_aa kaalaa kauvaa aayaa \threedots
+%
+#endindian
+\endsong
+

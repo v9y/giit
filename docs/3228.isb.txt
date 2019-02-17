@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{tuu jahaa.N mile mujhe}%
+\film{Doosri Sita}%
+\year{1974}%
+\starring{Jaya Bhaduri, Romesh Sharma, Lalita Pawar, A. K. Hangal}%
+\singer{Asha/Nitin Mukesh}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  Shalini Razdan
+% Transliterator: Surajit A. Bose
+% Date: February 14th, 2002
+% Comments: Asha and Nitin sing tandem versions of the song. The NM version has only
+%           the 1st and 3rd stanzas.  The "palakon ki chaanv tale" stanza can be found
+%           in the video of the movie (Asha version only).
+%
+\printtitle
+#indian
+%
+
+(tuu jahaa.N mile mijhe
+vahii.n mere dono.n jahaa.N
+dono.n jahaa.N vahii.n mere
+mile mujhe tuu jahaa.N
+tu hai to sab hai yahaa.N re) \- 2
+tuu jahaa.N \threedots
+
+(hotaa nahii.n ye
+magar ho jaaye aisaa
+agar tuu hii nazar aaye tuu
+jab bhi uThe ye nazar) \- 2
+ho tu hai to sab hai yahaa.N re
+tuu jahaa.N \threedots
+
+(palako.n kii chhaa.Nv tale
+kahate hai.n ye log
+bhale jab koii hotaa nahii.n
+aao mil jaae.N gale) \- 2
+ho tu hai to sab hai yahaa.N re
+tuu jahaa.N \threedots
+
+(tere paa.Nv ke
+nishaa.N kho gaye.n hai.n
+kahaa.N suunii ho gayii hai nazar
+Gum hai.n dono.n jahaa.N) \- 2
+ho tu thaa to sab thaa yahaa.N re
+tuu jahaa.N \threedots
+
+%
+#endindian
+\endsong
+%

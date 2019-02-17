@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chupake se mile pyaase pyaase}%
+\film{Manzil}%
+\year{1960}%
+\starring{Dev Anand, Madhubala}%
+\singer{Rafi, Geeta}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chupake se mile, pyaase pyaase kuchh ham kuchh tum
+kyaa ho jo ghaTaa barase khul ke rum\-jhum rum\-jhum
+
+jhukatii huii aa.Nkho.n me.n hai.n bechain se aramaa.N ka_ii
+rukatii huii saa.Nso.n me.n hai.n khaamosh se tuufaa.N ka_ii
+madhyam, madhyam \threedots
+
+ThaNDii havaa kaa shor hai yaa pyaar kaa sa.ngiit hai
+chitavan terii ik saaz hai, dha.Dakan merii ik giit hai
+madhyam, madhyam \threedots
+
+chupake se mile, pyaase pyaase kuchh ham kuchh tum
+kyaa ho jo ghaTaa barase khul ke rum\-jhum rum\-jhum
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{duuriyaa.N nazadiikiyaa.N ban ga_ii.n ajab ittifaaq hai}%
+\film{Duniya}%
+\year{1968}%
+\starring{Dev Anand, Vyjayantimala}%
+\singer{Kishor, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11075 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	duuriyaa.N nazadiikiyaa.N ban ga_ii.n ajab ittifaaq hai \-2
+aa \:	kah Daalii.n kitanii baate.n anakahii ajab ittifaaq hai \-2
+ki \:	duuriyaa.N nazadiikiyaa.N \threedots
+
+	( aisii milii.n do nigaahe.n milatii hai.n jaise do raahe.n
+	jaagii ye ulfat puraanii gaane lagii hai.n fizaa_e.N
+	aah aah ) \-2
+	pyaar kii shahanaa_iyaa.N baj ga_ii.n ajab ittifaaq hai
+	duuriyaa.N nazadiikiyaa.N \threedots
+
+aa \:	( ek Dagar pe mile hai.n ham\-tum tum\-ham do saa_e
+	aisaa lagaa tumase milakar din bachapan ke aa_e
+	aah aah ) \-2
+	vaadiyaa.N ummiid kii saj ga_ii.n ajab ittifaaq hai
+ki \:	duuriyaa.N nazadiikiyaa.N \threedots
+
+	( pahale kabhii ajanabii the ab to merii zindagii ho
+	sapano.n me.n dekhaa thaa jisako saathii puraane tum hii ho
+	ho ho ho ) \-2
+	bastiyaa.N aramaan kii bas ga_ii.n ajab ittifaaq hai
+ki \:	duuriyaa.N nazadiikiyaa.N \threedots
+do \:	duuriyaa.N nazadiikiyaa.N \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{khushii do gha.Dii kii, mile naa mile}%
+\film{Door Ka Raahi}%
+\year{1971}%
+\starring{Ashok Kumar, Kishore, Tanuja}%
+\singer{Kishore}%
+\music{Kishore}%
+\lyrics{A Irshad}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Deepu, Avinash Chopde (avinash@acm.org)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+	khushI do gha.DI kI, mile nA mile
+	shamA ArazU kI, jale nA jale
+	khushI do gha.DI kI \threedots
+	
+	rahaguzar me.n kaI manzile.n bhI mile.n (2)
+	dekh kar ek pal, dam liyA phir chale
+	khushI do gha.DI kI \threedots
+	
+	har kadam par nae marhale the kha.De (2)
+	ham chale dil chalA, dil chalA ham chale
+	khushI do gha.DI kI \threedots
+	
+%
+#endindian
+\endsong
+%

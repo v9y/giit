@@ -1,0 +1,46 @@
+% 
+\startsong
+\stitle{pyaar karane vaale, pyaar karate hai.n shaan se}%
+\film{Shaan}%
+\year{1980}%
+\starring{Amitabh, Shashi Kapoor, Parveen Babi, Bindiya Goswami, Sunil Dutt, Kulbhushan}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Tue Jan 23 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+(##spoken##)
+shukriyaa, karam maharbaanii
+dosto.n zi.ndagii hasiin hai
+lekin sirf unake li_e
+jinho.n ne pyaar kiyaa hai
+kyo.nki sif.r pyaar karane vaale jaanate hai.n ki
+aan, baan aur shaan se jiinaa kise kahate hai.n
+hai na?
+
+(aashaa)
+pyaar karane vaale, pyaar karate hai.n shaan se
+jiite hai.n shaan se, marate hai.n shaan se
+
+ho, lete hai.n kisiikaa jo naam, unako hazaaro.n salaam
+kabhii rukate nahii.n, kabhii jhukate nahii.n, chaahe jo bhii ho a.njaam
+yaar kii galii se, guzarate hai.n shaan se
+jiite hai.n shaan se, marate hai.n shaan se
+
+ho, rastaa nahii.n aasaan, denaa pa.Dataa hai imtehaan
+ye hai dil kii lagii, ye nahii.n dillagii, aate hai.n ka_ii tuufaan
+???? ???? ubharate hai.n shaan se
+jiite hai.n shaan se, marate hai.n shaan se
+%
+#endindian
+\endsong
+%

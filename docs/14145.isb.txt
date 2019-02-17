@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{aarazuu_e.N ro rahii hai.n ... kise maaluum thaa ik din}%
+\film{Saaqi}%
+\year{1952}%
+\starring{Premnath,  Madhubala, Bipin Gupta, Gop, Cukoo, Iftikhar, Mumtaz}%
+\singer{Lata, Talat}%
+\music{C Ramchandra}%
+\lyrics{Rajidnra Krishan}%
+%
+% Contributor: BOL ANAMOL #10097 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	aarazuu_e.N ro rahii hai.n hasarate.n barabaad hai.n
+	ham zamaane me.n faqat ik duHkh bharii fariyaad hai.n
+
+	kise maaluum thaa ik din mohabbat bezubaa.N hogii
+	vo zaalim aasamaa.N jaane merii duniyaa kahaa.N hogii
+
+ta \:	kabhii ik Kvaab dekhaa thaa mere pahaluu me.n tum hoge \-2
+	kahaanii pyaar kii aa.Nkho.n hii aa.Nkho.n me.n bayaa.N hogii
+	kise maaluum thaa ik din \threedots
+
+la \:	lahuu dil kaa merii aa.Nkho.n kaa paanii ban ke kahataa hai \-2
+	ye paanii ban ke kahataa hai
+ta \:	na ham ho.nge na tum hoge hamaarii daastaa.N hogii \-2
+la \:	kise maaluum thaa ik din \threedots
+%
+#endindian
+\endsong
+

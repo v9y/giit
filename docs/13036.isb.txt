@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{kahii.n aisaa na ho tum ajanabii raaho.n me.n}%
+\film{Milaap}%
+\year{1972}%
+\starring{Shatrughan Sinha, Reena Roy, Danny, Sarita, Manmohan Krishna}%
+\singer{Rafi}%
+\music{Braj Bhooshan}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10081 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kahii.n aisaa na ho tum ajanabii raaho.n me.n kho jaa_o
+mere saathii merii aavaaz ke piichhe ( chale aa_o ) \-2
+
+pareshaa.n zindagii ko aas kaa saahil nazar aa_e
+mujhe phir pyaar kii kho_ii hu_ii ma.nzil nazar aa_e
+havaa_o.n me.n zaraa tum reshamii aa.Nchal ko laharaa_o
+mere saathii merii \threedots
+
+na jaane kitanii baar aayaa gayaa mausam bahaaro.n kaa
+magar ab tak nahii.n badalaa muqaddar beqaraaro.n kaa
+sabhii Gam duur ho jaa_e.n jo tum ik baar mil jaa_o
+mere saathii merii \threedots
+%
+#endindian
+\endsong
+

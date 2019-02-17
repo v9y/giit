@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{jo mere dil me.n hai tujhako bataa duu.n ... kahatii kyaa hai dil kii dha.Dakan}%
+\film{Junoon}%
+\year{1992}%
+\starring{Rahul, Pooja, Avinash Wadhawan, Avtar Gill, Rakesh Bedi, Mushtaq Khan}%
+\singer{Anuradha Paudwal}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo mere dil me.n hai tujhako bataa duu.n
+kahatii kyaa hai dil kii dha.Dakan sunaa duu.n
+tuu na milegaa to mar jaa_e.nge
+tere bin ab mere jaanam mujhe jiinaa nahii.n
+jo mere dil me.n hai \threedots
+
+ko_ii tumako mujhase churaa na sake
+yuu.n hii saamane mere rahanaa sanam
+gairo.n se kuchh bhii bataanaa nahii.n
+jo bhii kahanaa hai mujh se kahanaa sanam
+ye judaa_ii kaa aalam kahaa jaa_e naa
+ke ab to tere bin rahaa jaa_e naa
+jo mere dil me.n hai \threedots
+
+kahatii hai kyaa dil kii dha.Dakan sunaa duu.n
+tuu na milegaa to mar jaa_e.nge
+terii kasam nahii.n jii paa_e.nge
+mujhe aur kuchh bhii tamannaa nahii.n
+ki mai.n mar miTii huu.N tere pyaar me.n
+muhabbat me.n na le meraa imtahaa.n
+ke jaa.n de duu.ngii ikaraar me.n
+ko_ii zamaane me.n kuchh bhii kahe
+teraa pyaar meraa hai meraa rahe
+jo mere dil me.n hai \threedots
+%
+#endindian
+\endsong
+

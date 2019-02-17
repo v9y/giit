@@ -1,0 +1,69 @@
+%
+\startsong
+\stitle{bedard zamaanaa teraa dushaman}%
+\film{Mehandi}%
+\year{1958}%
+\starring{Jayshri, Ajit, Veena, Kumar}%
+\singer{Hemant, Lata}%
+\music{Ravi}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #60
+%
+\printtitle
+#indian
+%
+
+
+he: musiibat kaa kiye jaa saamanaa
+    kaa.NTo.n pe chalataa jaa
+    agar ma.nzil pe jaanaa hai
+    to gir gir ke sa.mbhalataa jaa
+ 
+%
+% Part 1
+%
+ 
+he: (bedard zamaanaa teraa dushaman hai to kyaa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Kudaa hai) \- 2
+ 
+    (maalik hai vahii sab se ba.Daa paalanevaalaa) \-2
+     chu.NTii ko bhii detaa hai jo khaane ko nivaalaa
+     bando.n pe hameshaa hii karam usakaa rahaa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Kudaa hai  \threedots
+ 
+%
+% Part 2
+%
+ 
+he: hazaaro.n kaaravaa.N luTe ga_e ma.nzil kii raaho.n me.n
+    jo Gam kaa saamanaa karataa gayaa ma.nzil pe vo pahu.Nchaa
+ 
+he: (bedard zamaanaa teraa dushaman hai to kyaa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Kudaa hai) \- 2
+ 
+la:  ye kaisii Kudaa_ii hai bolo kaisaa Kudaa hai
+     luTatii hu_ii duniyaa jo merii dekh rahaa hai
+     mai.n kaise bhalaa maanuu.N ke duniyaa me.n Kudaa hai
+     agar hai to kahaa.N hai
+ 
+he:  izzat bhii bachii jaan bachii kaise ye bolo
+     vo kaun sii taaqat thii zaraa dil ko TaTolo
+     hai jisakaa karam ham pe usii se ye gilaa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Kudaa hai \threedots
+
+he: (kuchh kam nahii.n apane liye jiine ke sahaare) \- 2
+     iimaan kii daulat hai abhii paas hamaare
+     ye aisaa sahaaraa hai jo har shah se ba.Daa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Khudaa hai \threedots
+ 
+do: (bedard zamaanaa teraa dushaman hai to kyaa hai
+     duniyaa me.n nahii.n jisakaa ko_ii usakaa Kudaa hai) \- 2
+ 
+%
+#endindian
+\endsong
+%

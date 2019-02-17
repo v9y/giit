@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{dekhi_e huzuur mujhase rah ke duur\-duur}%
+\film{Tu Nahin Aur Sahi}%
+\year{1960}%
+\starring{Pradeep Kumar, Kumkum, Nishi, Meenu Mumtaz, Dinshaa, Helen}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10739 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+rq \:	dekhi_e huzuur mujhase rah ke duur\-duur
+	kheli_e na dil\-e\-beqaraar se
+	pyaar kaa javaab diiji_e pyaar se
+aa \:	chho.Di_e jii haath kiiji_e duur hii se baat
+	kaam liiji_e tho.De intazaar se
+	baaj aa_e ham to aise pyaar se
+ra \:	pyaar kaa javaab \threedots
+aa \:	baaj aa_e ham to \threedots
+
+ra \:	itanii beruKii hamase kisali_e
+	dil diyaa hai kyaa hamane isali_e
+aa \:	aap to janaab had se ba.Dh chale
+	baato.n\-baato.n me.n pa.D ga_e gale
+ra \:	chal di_e kahaa.N baat suni_e meharabaa.N
+	baiThi_e to do gha.Dii qaraar se
+	pyaar kaa javaab \threedots
+aa \:	baaj aa_e ham to \threedots
+
+	yuu.N agar hame.n dekh le ko_ii
+	sochi_e zaraa kyaa kahe ko_ii
+ra \:	ko_ii kuchh kahe kahane diiji_e
+	pyaar ke hai.n din pyaar kiiji_e \-2
+aa \:	jaa_i_e janaab kahaa.N ham hai.n kahaa.N aap
+	phuul kyo.n ulajhane lage Kaar se
+	baaj aa_e ham to \threedots
+
+ra \:	aapako qasam sune.n to zaraa
+	beqaraar dil kah rahaa hai kyaa
+aa \:	dil kii baat kaa aitabaar kyaa
+	aapase buraa dil hai aapakaa
+ra \:	aapako nahii.n jii dil kii baat par yaqii.n
+	to puuchh liiji_e mausam\-e\-bahaar se
+	pyaar kaa javaab \threedots
+%
+#endindian
+\endsong
+

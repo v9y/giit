@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{vo hai zi.ndaa ... jiinaa kyaa jiivan se haar ke}%
+\film{Om Jai Jagadish}%
+\year{2002}%
+\starring{Anil Kapoor, Abhishek Bachchan, Fardin Khan, Vahida Rahman, Mahima Chaudhary, Urmila Matondkar, Tara Sharma}%
+\singer{KayKay, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vo hai zi.ndaa josh me.n jo aa_e
+chaa.Nd ko bhii vo zamii.n pe laa_e
+vo bha.nvar me.n jo kabhii ghir jaa_e
+ek din kaa aadamii ban jaa_e
+ye abhii jiitaa nahii.n hai yaaro.n
+mai.n abhii haaraa nahii.n huu.N yaaro.n
+jiinaa kyaa jiivan se haar ke
+jiinaa kyaa \threedots
+
+jo har saa.Ns jii gayaa
+marane kaa usako Gam nahii.n
+kahatii hai dharaa kahataa hai gagan
+kahataa hai ye man jisame.n hai lagan
+dil TuuTane.n pe bhii naGame.n gaa_e.n pyaar ke
+jiinaa kyaa \threedots
+
+kaalii ghanerii raat me.n chaa.Ndanii khil jaa_egii
+tujhe a.ndhero.n me.n kahii.n roshanii mil jaa_egii
+rahataa nahii.n saarii umar saathii ye gardish kaa khabar
+detii hai ma.nzil kaa pataa kaa.NTo.n bharii mushkil Dagar
+hogaa kal kyaa sochanaa jo bhii hai bas aaj hai
+kab kahaa.N jaa_e badal vaqt kaa ye mizaaj hai
+kyaa hai sukh aur duHkh hai kyaa chaar din kii baat hai
+dard me.n aaraam hai aa.Nsuu ha.Nsii ke saath hai
+jiinaa kyaa \threedots
+%
+#endindian
+\endsong
+

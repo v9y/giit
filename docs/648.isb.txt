@@ -1,0 +1,55 @@
+% 
+\startsong
+\stitle{haa.N, mai.n ne bhii pyaar kiyaa, pyaar se kab i.nkaar kiyaa}%
+\film{Boond Jo Ban Gayi Moti}%
+\year{1967}%
+\starring{Jeetendra, Mumtaz}%
+\singer{Mukesh, Suman Kalyanpur}%
+\music{Satish Bhatia}%
+\lyrics{Bharat Vyas}%
+% 
+% Contributor: Ashok Dhareshwar (adhareshwar@worldbank.org)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Jan 18 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:
+%
+\printtitle
+#indian
+%
+mu: haa.N, mai.n ne bhii pyaar kiyaa
+    pyaar se kab i.nkaar kiyaa
+    bhiigii\-bhiigii raate.n, miiThii\-miiThii baate.n
+    aur mai.n ne dil ko nisaar kiyaa
+    haa.N, mai.n ne bhii pyaar kiyaa
+su: mai.n ne bhii pyaar kiyaa
+mu: pyaar se kab i.nkaar kyaa
+su: pyaar se kab i.nkaar kiyaa
+    bhiigii\-bhiigii raate.n, miiThii\-miiThii baate.n
+    aur mai.n ne dil ko nisaar kiyaa
+mu: haa.N, mai.n ne bhii pyaar kiyaa
+
+mu: pyaar kiyaa kaliyo.n ke mahakate a.ngo.n se
+    pyaar kiyaa mai.n ne halake gulaabii gaalo.n se
+su: aahaa haa, aahaa haa, aa
+    pyaar kiyaa nargis kii nashiilii aa.Nkho.n se
+    pyaar kiyaa badalii kii ra.Ngiile diipo.n se
+    khulii chaa.Ndanii me.n
+su: ahaa haa
+    khulii chaa.Ndanii me.n mai.n ne adhikaar kiyaa
+dono.n: haa.N, mai.n ne bhii pyaar kiyaa
+
+mu: thaam liyaa siine se uchhalatii laharo.n ko
+    jhuum uThaa baaho.n me.n paka.D tuufaano.n ko
+su: ahaa haa, ahaa haa, aa
+mu: chuum liyaa bijalii se machalate ho.NTho.n ko
+    luuT liyaa mai.n ne mast ubharatii bahaaro.n ko
+    raat kii dulhan kaa
+su: ahaa haa
+    raat kii dulhan kaa mai.n ne si.ngaar kiyaa
+dono.n:  haa.N mai.n ne bhii pyaar kiyaa \threedots
+%
+#endindian
+\endsong
+%

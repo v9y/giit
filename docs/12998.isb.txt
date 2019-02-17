@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{apanii baa.Nho.n par hai tujhako ... kuchh bhii nahii.n hai teraa mol}%
+\film{Maayaa Baazaar}%
+\year{1958}%
+\starring{Anita Guha, Rajkumar Pande, Ulhas, B M Vyas, Ramesh Sinha, Mahipal}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10138 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+apanii baa.Nho.n par hai tujhako kyuu.N itanaa abhimaan
+tere jaise laakho.n dekhe ba.De ba.De balavaan
+kuchh bhii nahii.n hai teraa mol
+bolo naa ba.De bol
+khilaunaa tuu maaTii kaa
+
+garaj rahaa hai baras rahaa hai zid tuune kis baat par baa.Ndhii
+kyuu.N hai paagal muurakh baadal tujhako u.Daa le jaa_egii aa.Ndhii
+ser ko milate savaa ser lage naa yahaa.N der
+khilaunaa tuu maaTii kaa \threedots
+
+itanaa kyo.n itaraataa hai ha.Nsatii hai jab bhaagy kii rekhaa
+tuu chhoTaa saa diipak hai re tuune kabhii suuraj bhii hai dekhaa
+jhuuThe nashe me.n tuu chuur TuuTegaa ye Garuur
+khilaunaa tuu maaTii kaa \threedots
+%
+#endindian
+\endsong
+

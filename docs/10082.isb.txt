@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{maasuum chehare kii ... hamako to hone lagaa hai pyaar}%
+\film{Ansh}%
+\year{2002}%
+\starring{Abbas, Sharbani Mukerji, Rajat Bedi}%
+\singer{Sonu Nigam, Alka Yagnik/ Sonu Nigam}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maasuum chehare kii kyaa baat yaar
+hamako to hone lagaa hai pyaar
+chaaro.n taraf hai chhaayaa Kumaar
+hamako to hone lagaa \threedots
+
+nasiibo.n se apane churaa_e.nge tumako
+kisii roz apanaa banaa_e.nge tumako
+khud pe hame.n hai ba.Daa etabaar
+hamako to hone lagaa \threedots
+
+tumhii.n se tumhii.n ko churaayaa hai hamane
+nigaaho.n se sabakii bachaayaa hai hamane
+tumhe.n kuchh khabar bhii hai jaan\-e\-bahaar
+hamako to hone lagaa \threedots
+%
+#endindian
+\endsong
+

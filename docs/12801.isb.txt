@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{chaahaa hai tujhako chaahuu.ngaa haradam}%
+\film{Mann/ Listen To Your Heart}%
+\year{1999}%
+\starring{Aamir Khan, Manisha Koirala, Anil Kapoor}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaahaa hai tujhako chaahuu.ngaa haradam
+marake bhii dil se ye pyaar naa hogaa kam
+terii yaad jo aatii hai mere aa.Nsuu bahate hai.n
+apanaa to milan hogaa pal pal ye kahate hai.n
+kyaa ye zi.ndagaanii hai bas terii kahaanii hai
+bas terii kahaanii hai ye jo zi.ndagaanii hai
+chaahaa hai tujhako \threedots
+
+terii vo baate.n vo chaahat kii rasme.n
+jhuuThe the vaade kyaa jhuuThii thii kasame.n
+jaan\-e\-tamannaa kyaa ye sach hai bas itanaa kah de
+TuuT jaa_e naa lamhaa aitabaar kaa
+de ko_ii silaa mere intazaar kaa
+
+chaahaa hai tujhako chaahuu.ngii haradam
+marake bhii dil se \threedots
+
+terii huu.n terii jo chaahe.n kasam le le
+mujhako hamaraahii tuu apane Gam de de
+saarii umar hai mujhako dard judaa_ii kaa sahanaa
+raaste me.n kho_ii hai.n ma.nzile.n merii
+mere saath jaa_e.ngii mushkile.n merii
+chaahaa hai tujhako \threedots
+
+tuu saamane hai mere phir kyuu.n ye duurii hai
+tujhe kaise bataa_uu.n mai.n haay kyaa majabuurii hai
+ye bhii ko_ii jiinaa hai sirf aa.Nsuu piinaa hai
+sirf aa.Nsuu piinaa hai ye bhii ko_ii jiinaa hai
+%
+#endindian
+\endsong
+

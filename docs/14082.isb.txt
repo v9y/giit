@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{haay kyaa puuchhate ho dard kidhar hotaa hai}%
+\film{Shoorveer}%
+\year{1988}%
+\starring{Rajan Sippy, Mandakini, Suresh Oberoi, Danny, Kader Khan, Rakesh Bedi}%
+\singer{Anuradha Paudwal}%
+\music{Laxmikant Pyarelal}%
+\lyrics{S H Bihari}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay kyaa puuchhate ho dard kidhar hotaa hai
+ek jagah ho to bataa duu.n ki idhar hotaa hai
+
+kabhii cha.Dhataa hai idhar se to utarataa hai udhar se
+chalataa phirataa hii rahaa karataa hai naazuk tan pe
+kahii.n dikhataa nahii.n mahasuus magar hotaa hai
+haay kyaa puuchhate ho \threedots
+
+haath aataa nahii.n paka.Daa to phisal jaataa hai
+itanaa zaalim hai kaleje ko masal jaataa hai
+jaan le legaa merii mujhako ye Dar hotaa hai
+haay kyaa puuchhate ho \threedots
+
+tum to naadaan ho ye kyaa jaano kyaa hotaa hai
+haay ye dard javaanii kaa buraa hotaa hai
+tum jahaa.n haath lagaate ho vahaa.n hotaa hai
+haay kyaa puuchhate ho \threedots
+%
+#endindian
+\endsong
+

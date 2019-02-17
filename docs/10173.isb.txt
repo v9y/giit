@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aa_egii har pal tujhe merii yaad}%
+\film{Aandolan}%
+\year{1995}%
+\starring{Sanjay Dutt, Govinda, Mamta Kulkarni, Somi Ali, Asha Parekh}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	aa_egii har pal tujhe merii yaad \-2
+	haa.N is mulaakaat ke baad \-2
+ku \:	milane ko dil bhii karegaa fariyaad \-2
+	haa.N is mulaakaat ke baad \-2
+a \:	aa_egii har pal \threedots
+
+ku \:	ek dil hai ek jaan hai ek duuje kii pahachaan hai 
+a \:	ek dil hai \threedots
+ku \:	aa paas teraa diidaar karuu.N dil me.n rakh luu.N tujhe pyaar karuu.N
+a \:	mai.n tujhase ikaraar karuu.N terii chaahat pe etabaar karuu.N \-2
+ku \:	aa_egii har pal tujhe \threedots
+a \:	haa.N is mulaakaat ke \threedots
+
+a \:	kuchh paanaa hai kuchh khonaa hai milake na judaa ab honaa hai
+ku \:	kuchh paanaa hai \threedots
+a \:	ik pal jii le.n ek pal mar le.n aajaa mil ke vaadaa kar le.n
+ku \:	duniyaa me.n jab tak ho.nge ham to.De.nge na ulfat kii kasam \-2
+a \:	aa_egii har pal \threedots
+%
+#endindian
+\endsong
+

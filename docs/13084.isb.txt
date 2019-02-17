@@ -1,0 +1,77 @@
+
+%
+\startsong
+\stitle{aa ii e aa aa o ... dil ne bahut rokaa ... terii zindagii me.n chalii aayii}%
+\film{Main Prem Ki Diwani Hoon}%
+\year{2003}%
+\starring{Hritik Roshan, Abhishek Bachchan, Kareena Kapoor}%
+\singer{Chitra, KK}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: BOL ANAMOL #11693 [V S Rawat]
+% Producer: Rajshri Productions (P) Ltd., Kamal Kumar Barjatya, RajKumar Barjatya, Ajit Kumar Barjatya
+% Director: Sooraj R Barjatya
+% Audio: Saregama India Ltd.
+% Cassette: NHF 810565 Digital, Cost: Rs 55/-, CD: CDF 112054 DDD, Cost: Rs 150/-
+% 
+\printtitle
+#indian
+%
+chi \:	aa ii e aa aa o \-4
+	dil ne bahut rokaa maine bahut Tokaa
+ke \:	he he he he ai
+chi \:	dil ne bahut rokaa maine bahut Tokaa
+	pyaar naa maanaa meraa pyaar naa maanaa
+	terii zindagii me.n chalii aayii chalii aayii \-4
+ke \:	aa ii e aa aa o
+chi \:	aa ii e aa aa o
+ke \:	aa ii e aa aa o
+chi \:	aa ii e aa aa
+ke \:	dil ko kyo.n rokaa Kud ko kyo.n Tokaa \-2
+	pyaar naa maanaa teraa pyaar naa maanaa
+	merii zindagii me.n chalii aayii chalii aayii \-4
+chi \:	chalii aayii chalii aayii chalii aayii
+	aayii aayii aayii aayii chalii aayii chalii aayii
+ke \:	chalii aayii chalii aayii chalii aayii
+	aayii aayii aayii aayii chalii aayii chalii aayii
+chi \:	aa ii e aa aa o
+ke \:	aa ii e aa aa o
+
+ko \:	ye ye ye ye ye ye ye
+
+chi \:	aa ii e aa aa o
+ke \:	aa ii e aa aa o
+chi \:	( terii Kushii hai merii Kushii terii ha.Nsii hai merii
+	jo terii pasand vo merii pasand ab ho gayii huu.N mai.n terii ) \-2
+	dekhuu.N mai.n rastaa teraa hii rastaa aur ko_ii mujhe naa ja.Nchataa aa jaa naa jaa
+chi \:	terii zindagii me.n
+ki \:	merii\-merii zindagii me.n
+chi \:	terii\-terii zindagii me.n chalii aayii chalii aayii
+	terii zindagii me.n chalii aayii chalii aayii \-3
+ke \:	aa ii e aa aa o
+chi \:	aa ii e aa aa o
+
+ke \:	aa ii e aa aa o
+chi \:	aa ii e aa aa o
+ke \:	( jo tuu soche vo mai.n sochuu.N aur nahii.n kuchh sochaa
+	sapanaa jo teraa sapanaa hai meraa mai.n sach karane aa pahu.Nchaa ) \-2
+	dekhuu.N mai.n rastaa teraa hii rastaa aur ko_ii mujhe naa ja.Nchataa aa jaa naa jaa
+chi \:	terii zindagii me.n
+ke \:	merii\-merii zindagii me.n
+
+chi \:	dil ne bahut rokaa maine bahut Tokaa
+ke \:	pyaar naa maanaa meraa pyaar naa maanaa
+chi \:	( terii zindagii me.n chalii aayii chalii aayii
+ke \:	merii zindagii me.n chalii aayii chalii aayii ) \-2
+chi \:	chalii aayii chalii aayii chalii aayii
+	aayii aayii aayii aayii chalii aayii chalii aayii
+ke \:	chalii aayii chalii aayii chalii aayii
+	aayii aayii aayii aayii chalii aayii chalii aayii
+	aa ii e aa aa o \-2
+chi \:	aa ii e aa aa o
+	aa ii e aa aa
+%
+#endindian
+\endsong
+

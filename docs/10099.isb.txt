@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{kyaa karuu.n ... rabbaa mere ##I love you.##}%
+\film{Aarzoo}%
+\year{1999}%
+\starring{Akshay Kumar, Saif Ali Khan, Madhuri Dixit}%
+\singer{Sonu Nigam}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kyaa karuu.n kyaa karuu.n kyaa karuu.n kyaa karuu.n
+jiine ko marane ko marane ko jiine ko
+ha.Nsane ko rone ko rone ko ha.Nsane ko
+kyaa kyaa karane ko dil chaahe
+kyaa karuu.n kyaa karuu.n kyaa karuu.n
+tujhako maine chaahaa tujhako maine sochaa tujhako maine puujaa
+puujaa mil ga_ii mujhe tuu tuu tuu
+
+haay rabbaa rabbaa rabbaa rabbaa rabbaa mere ##I love you.##
+rabbaa rabbaa rabbaa rabbaa rabbaa mere ##Thank you.##
+aarazuu aarazuu o merii aarazuu
+
+dil chaahe to.D ke taare mai.n jhumake tere banaa duu.n
+chun chun ke phuul mai.n saare zulfo.n me.n terii lagaa duu.n
+le aa_uu.n mai.n chaa.Nd churaa ke bi.ndiyaa kii jagah lagaa duu.n
+ho khvaabo.n kii galiyo.n me.n tujhako maine Dhuu.nDhaa 
+tujhako maine sochaa tujhako maine puujaa
+puujaa mil ga_ii mujhe tuu tuu tuu
+rabbaa rabbaa \threedots
+
+teraa mukha.Daa chamak rahaa hai har gu.nchaa chaTak rahaa hai
+o terii chuu.Dii khanak rahii hai dil meraa dha.Dak rahaa hai
+terii chunarii sarak rahii hai dam meraa aTak rahaa hai
+ho maine apane rab se aur nahii.n kuchh maa.ngaa
+tujhako maine sochaa tujhako maine puujaa
+puujaa mil ga_ii mujhe tuu tuu tuu
+oy rabbaa rabbaa \threedots
+%
+#endindian
+\endsong
+

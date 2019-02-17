@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ye daulat bhii le lo, ye shoharat bhii le lo}%
+\film{Aaj}%
+\year{1987}%
+\starring{Kumar Gaurav, Smita Patil, Mark Zuber, Raj Kiran, Raj Babbar}%
+\singer{Jagjit Singh, Chitra Singh}%
+\music{Jagjit Singh, Chitra Singh}%
+\lyrics{Sudarshan Faakir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Ashish Parikh (parikh.8@postbox.acs.ohio-state.edu)
+%          Navin Kabra (navin@cs.wisc.edu)
+%          Nita Awatramani
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye daulat bhii le lo, ye shoharat bhii le lo
+bhale chhiin lo mujhase merii javaanii
+magar mujhako lauTaa do bachapan kaa saavan
+vo kaagaz kii kashtii, vo baarish kaa paanii
+
+% || Jagjit ||
+muhalle kii sabase nishaanii puraanii
+vo bu.Dhiyaa jise bachche kahate the naanii
+vo naanii kii baato.n me.n pariyo.n kaa Deraa
+vo chehare kii jhuri.ryo.n me.n sadiyo.n kaa pheraa
+bhulaae nahii.n bhuul sakataa hai koI
+vo chhoTii sii raate.n vo lambii kahaanii
+
+% || Chitra ||
+ka.Dii dhuup me.n apane ghar se nikalanaa
+vo chi.Diyaa vo bulabul vo titalii paka.Danaa
+vo gu.Diyaa kii shaadii me.n la.Danaa jhaga.Danaa
+vo jhuulo.n se giranaa vo gir ke sambhalanaa
+vo piital ke chhallo.n ke pyaare se tohafe
+vo TuuTii huI chuu.Diyo.n kii nishaanii
+
+% || Jagjit ||
+kabhii ret ke U.Nche Tiilo.n pe jaanaa
+gharau.nde banaanaa banaake miTaanaa
+vo maasuum chahat kii tasviir apanii
+vo Kvaabo.n khilauno.n kii jaagiir apanii
+na duniyaa kaa Gam thaa na rishto.n ke ba.ndhan
+ba.Dii khuubasuurat thii vo zi.ndagaanii
+%
+#endindian
+\endsong
+%

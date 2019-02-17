@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{rukh se zaraa naqaab uThaa do, mere huzuur}%
+\film{Mere Huzoor}%
+\year{1968}%
+\starring{Raj Kumar, Jeetendra, Mala Sinha}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Mohan Rathore <rathore@ece.rutgers.edu>
+% Transliterator:Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 07/13/1995
+% Credits: Vandana Venkatesan <vvenkate@pcocd2.intel.com> 
+%
+\printtitle
+#indian
+%
+apane rukh pe nigaah karane do
+khuubasuurat gunaah karane do
+rukh se pardaa haTaao jaan\-e\-hayaa
+aaj dil ko tabaah karane do
+
+rukh se zaraa naqaab uThaa do, mere huzuur
+jalvaa phir ek baar dikhaa do, mere huzuur
+
+tum hamasafar mile ho mujhe is hayaat me.n \-2
+mil jaae chaa.Nd jaise koii suunii raat me.n
+jaage tum kahaa.N ye bataa do, mere huzuur
+rukh se\threedots
+
+husn\-o\-jamaal aapakaa shiishe me.n dekh kar \-2
+madahoshh ho chukaa huu.N mai.n jalavo.n kii raah par
+Gar ho sake to hosh me.n laa do, mere huzuur
+rukh se\threedots
+
+vo marmarii se haath vo mahakaa huaa badan \-2
+Takaraayaa mere dil se, muhabbat kaa ek chaman
+mere bhii dil kaa phuul khilaa do, mere huzuur
+rukh se\threedots
+%
+#endindian
+\endsong
+%

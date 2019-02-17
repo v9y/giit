@@ -1,0 +1,53 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{ye barakhaa bahaar ... na jaa more saa.Nware piyaa}%
+\film{Mayur Pankh}%
+\year{1953}%
+\starring{Kishor Sahu, Sumitra Devi}%
+\singer{Lata, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	aa
+do \:	( ye barakhaa bahaar, sautaniyaa ke dwaar
+	na jaa more saa.Nware piyaa ) \-2
+	na jaa more saa.Nware piyaa \-2
+
+aa \:	andherii raat ghaTaa_o.n se dard barasegaa \-2
+	tere binaa jale ye dil sej pyaar tarasegaa
+la \:	mai.n ro\-ro maruu.N, tore pa_iyaa.N pa.Duu.N
+	na jaa more saa.Nware piyaa
+do \:	ye barakhaa bahaar, sautaniyaa ke dwaar
+	na jaa more saa.Nware piyaa \-3
+
+aa \:	tere baGair kyaa mazaa hai zi.ndagaanii me.n \-2
+la \:	na jaa_o beraham lagaa ke aag paanii me.n \-2
+	aa
+	ye ThaNdii phuhaar, ye koyal pukaar
+	na jaa more saa.Nware piyaa
+do \:	ye barakhaa bahaar, sautaniyaa ke dwaar
+	na jaa more saa.Nware piyaa \-3
+
+la \:	gha.Dii nahii.n ye dil ke sabr aazamaane kii \-2
+	hai rut nazar se nazar dil se dil milaane kii
+	ye pahalaa ashaa.D dikhaa de dulaar
+	na jaa more saa.Nware piyaa
+do \:	ye barakhaa bahaar, sautaniyaa ke dwaar
+	na jaa more saa.Nware piyaa \-3
+
+aa \:	tere baGair kyaa mazaa hai zi.ndagaanii me.n \-2
+la \:	na jaa_o beraham lagaa ke aag paanii me.n \-2
+	aa
+	ye ThaNdii phuhaar, ye koyal pukaar
+	na jaa more saa.Nware piyaa
+do \:	ye barakhaa bahaar, sautaniyaa ke dwaar
+	na jaa more saa.Nware piyaa \-3
+
+#endindian
+\endsong

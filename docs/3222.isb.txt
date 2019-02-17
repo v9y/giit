@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum aur ham bhuul ke Gam}%
+\film{Fashion}%
+\year{1957}%
+\starring{Pradeep Kumar}%
+\singer{Hemant, Geeta}%
+\music{Hemant}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #58
+%
+\printtitle
+#indian
+%
+
+gii: tum aur ham bhuul ke Gam
+     gaa_e.n pyaar bharii saragam
+he:  tum ho jahaa.N Gam kyaa vahaa.N
+     rut ra.ngiin javaa.N mausam
+do:  tum aur ham bhuul ke Gam
+     gaa_e.n pyaar bharii saragam
+
+gii: koyaliyaa kuhuu\-kuhuu bole kaliyo.n ne ghuu.NghaT khole  (2)
+he:  kaliyo.N se kahe ek bha.Nvaraa dil de do haule haule
+gii: haT chho.Do sanam mohe laage sharam (2)
+do:  tum aur ham \threedots
+
+he:  ghir aaye baadal kaale ab dil ko kaun sa.mbhaale (2)
+gii: apane hii dil se puuchho ham to hai.n bhole bhaale
+he:  ab chho.Do sharam tumhe.n merii qasam \threedots
+
+%
+#endindian
+\endsong
+%

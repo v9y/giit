@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{pahale se likhaa kuchh bhii ... ye lamhaa filhaal jii lene de}%
+\film{Filhaal}%
+\year{2002}%
+\starring{Tabu, Sushmita Sen, Sanjay Suri, Palash Sen}%
+\singer{Asha}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai zi.ndagii ye lamhaa jii lene de
+o pahale se likhaa kuchh bhii nahii.n
+roz nayaa kuchh likhatii hai tuu
+jo bhii likhaa hai dil se jiyaa hai
+ye lamhaa filhaal jii lene de
+
+maasuum sii ha.Nsii bevajah hii kabhii
+ho.nTho.n pe khil jaatii hai
+anajaan sii khushii bahatii hu_ii kabhii
+saahil pe mil jaatii hai
+ye anajaanaa saa Dar ajanabii hai magar
+khuubasuurat hai jii lene de
+ye lamhaa filhaal \threedots
+
+dil hii me.n rahataa hai aa.Nkho.n me.n bahataa hai
+kachchaa saa ik khvaab hai
+lagataa savaal hai shaayad javaab hai
+dil phir bhii betaab hai
+ye sukuu.n hai to hai ye junuu.n hai to hai
+khuubasuurat hai jii lene de
+ye lamhaa filhaal \threedots
+%
+#endindian
+\endsong
+

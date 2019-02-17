@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{pi.njare ke pa.nchhii re, teraa dard na jaane koe}%
+\film{Nagmani}%
+\year{1957}%
+\starring{Nirupa Roy, Trilok Kapoor, S N Tripathi}%
+\singer{Pradeep}%
+\music{Avinash Vyas}%
+\lyrics{Pradeep}%
+%
+% Contributor: Mohan Rathore (rathore@ece.rutgers.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+%
+\printtitle
+#indian
+%
+pi.njare ke pa.nchhii re, terA dad.r nA jaane koe (2) 
+
+kaha nA sake tU, apanii kahAnI 
+terI bhI pa.nchhii, kyaa zi.ndagaanii re 
+vidhi ne terI kathaa likhii aa.Nsuu me.n kalam Duboe 
+terA dad.r \threedots
+
+chupake chupake, rone vaale 
+rakhanaa chhupaake, dil ke chhAle re 
+ye patthar kA desh hai.n pagale, yahaa.N koI nA teraa hoy
+teraa dad.r \threedots
+%
+#endindian
+\endsong
+%

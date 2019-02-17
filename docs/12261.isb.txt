@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{unape sadake dil\-o\-jaa.N kar baiThe hai.n}%
+\film{Jaan Hatheli Pe}%
+\year{1987}%
+\starring{Dharmendra, Jeetendra, Hema Malini, Rekha, Raj Babbar, Mazhar Khan}%
+\singer{Suresh Wadekar, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11635 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+la \:	unape sadake
+su \:	unape sadake dil\-o\-jaa.N kar baiThe hai.n
+	is shauq\-e\-junuu.N me.n jiite\-jii mar baiThe hai.n
+la \:	dekhaa\-dekhaa hai jab se tab se
+	unako ham sajadaa kar baiThe hai.n
+	unape sadake dil \threedots
+su \:	dekhaa\-dekhaa hai \threedots
+
+la \:	mahabuubaa meraa saayaa hai aise betaab dil me.n mehamaan banake
+	utaraa falaq se ko_ii farishtaa zamii.n pe insaan ban ke
+	Kvaabo.n se ham daaman bhar baiThe hai.n
+su \:	dekhaa\-dekhaa hai \threedots
+la \:	dekhaa\-dekhaa hai \threedots
+
+su \:	jaaen kahaa.N kii ek adaa pe dono jahaa.N ko vaar diyaa hai
+	maut use kyaa maaregii jisako nazar ne maar diyaa hai
+	marane kaa kyaa samaa.N dhar baiThe hai.n
+la \:	dekhaa\-dekhaa hai \threedots
+
+	unake sitam ko ga.Nvaaraa kare.nge
+	unake karam ko sahaaraa kare.nge
+su \:	jaan rahe yaa jaan se jaa_e.N
+	mar ke bhii vaadaa nibhaayaa kare.nge
+do \:	unase aisaa vaadaa kar baiThe hai.n
+	dekhaa\-dekhaa hai \threedots
+la \:	dekhaa\-dekhaa hai \threedots
+%
+#endindian
+\endsong
+

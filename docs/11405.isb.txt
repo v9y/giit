@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{aapake aane se ... aapako dekhe.n kabhii ... ham khush hu_e}%
+\film{Ek Rishtaa}%
+\year{2001}%
+\starring{Amitabh Bachchan, Akshay Kumar, Karisma Kapoor, Mohnish Behl, Juhi Chawala, Simon Singh}%
+\singer{Kumar Sanu, Mohammed Aziz, Alka Yagnik, Sarika Kapoor}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aapake aane se ghar me.n kitanii raunak hai
+aapako dekhe.n kabhii apane ghar ko dekhe.n ham
+ham khush hu_e ham khush hu_e ham khush hu_e
+
+kitanii suunii suunii thii.n vo merii raate.n
+kitane suune suune the din
+kaise mai.n bataa_uu.N kaise hai.n guzaare
+maine vo judaa_ii ke din
+tere lauT aane se ghar me.n kitanii raunak hai
+aapako dekhe.n kabhii \threedots
+
+tuune jo bulaayaa mai.n to chalii aa_ii
+kho_ii zi.ndagii mil ga_ii
+aisaa lagataa hai saathii tujhe paa ke
+mujhako har khushii mil ga_ii
+faasale miTaane se ghar me.n kitanii raunak hai
+aapako dekhe.n kabhii \threedots
+
+aa.Nkho.n me.n khushii ke aa.Nsuu bhar aa_e
+roke na ruke bah ga_e
+boluu.n mai.n kyaa boluu.n kahanaa jo mujhe thaa
+aa.Nsuu mere vo kah ga_e
+dekho muskuraane se ghar me.n kitanii raunak hai
+aapako dekhe.n kabhii \threedots
+%
+#endindian
+\endsong
+

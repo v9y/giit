@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{paapii papiihaa re}%
+\film{Parwaana}%
+\year{1947}%
+\starring{Suraiyya, Saigal}%
+\singer{Suraiyya}%
+\music{Khurshid Anwar}%
+\lyrics{D N Madhok}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+paapii papiihaa re pii pii na bol bairii pii pii na bol
+nanhii sii jaan merii sun ke na jaaye Dol
+pii pii na bol bairii pii pii na bol
+paapii papiihaa re \threedots
+
+un ko ye ghamaND hai
+mai.n do nainaa maarii re
+mohe maan is baat par ki
+mai.n saajan kii pyaarii re
+bhed hamaare jii ke piyaa paas nahii khol
+pii pii na bol bairii pii pii na bol
+paapii papiihaa re \threedots
+
+
+%
+#endindian
+\endsong
+%

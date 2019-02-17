@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{kuchh tum kaho kuchh ham kahe.n}%
+\film{Shararat}%
+\year{2001}%
+\starring{Abhishek Bachchan, Hrishita Bhatt, Amrish Puri, Om Puri}%
+\singer{Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh tum kaho kuchh ham kahe.n phir ho shuruu ye daastaa.n
+ye to kahaanii hai apane pyaar kii
+betaab dha.Dakan ke ikaraar kii
+dil me.n hai kyaa tum jaan lo
+jo ham kahe.n maan lo maan lo jaan lo
+kuchh tum kaho \threedots
+
+hosh hai kahii.n naa karaar hai
+dard hai ajab saa khumaar hai
+o kyaa kare.n diivaano.n saa haal hai
+har gha.Dii tumhaaraa khyaal hai
+nii.nd bhii aa_e naa raat bhar
+Dhuu.NDhatii tumhe har gha.Dii nazar
+tumako nahii.n shaayad isakii hai khabar
+chaahegaa na ko_ii tumako is kadar
+dil me.n hai kyaa \threedots
+
+ham terii baaho.n me.n so ga_e
+chain kii panaaho.n me.n kho ga_e
+o ik hasii.n suhaanii sii shaam de.n
+aa tujhe mohabbat kaa naam de.n
+ham sabhii rasmo.n ko to.D de.n
+tum kaho to duniyaa bhii chho.D de.n
+hoke judaa ik pal naa rah paa_e.nge
+ro_e.nge ta.Dape.nge ham mar jaa_e.nge
+dil me.n hai kyaa \threedots
+%
+#endindian
+\endsong
+

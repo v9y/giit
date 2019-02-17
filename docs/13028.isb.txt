@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{merii jaa.N apane aashiq ko sataanaa kisase siikhaa hai}%
+\film{Mere Huzoor}%
+\year{1968}%
+\starring{Raj Kumar, Jeetendra, Mala Sinha}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11081 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	( merii jaa.N ) \-3 apane aashiq ko sataanaa kisase siikhaa hai
+	jo tum par jaan de usako miTaanaa kisase siikhaa hai
+aa \:	( suno jii ) \-3 piichhe\-piichhe aanaa kisase siikhaa hai
+	merii galiyo.n ke chakkar lagaanaa kisase siikhaa hai
+
+ra \:	ek din majanuu milaa thaa mujhako piipal gaa.Nv me.n
+	haath paka.Daa aur biThaayaa mujhako ThaNDii chhaa.Nv me.n
+	bhar ke saa.Ns vo bolaa yaar ke piichhe raho
+	mom ho jaa_egaa patthar roz jo milate raho
+	( tumhaare ghar ke ) \-3 chakkar roz lagaanaa usase siikhaa hai \-2
+aa \:	suno jii 
+ra \:	kyaa
+aa \:	suno jii \threedots
+
+	ek din lailaa milii mujhako amiinaabaad me.n
+
+% "amiinaabaad" is the name of a market in city of Lucknow, U.P., India
+
+	thaamakar daaman vo bolii Gum ho kisakii yaad me.n \-2
+	tum bhii aashiq ko Kuub sataa_o baat merii maan lo
+	jhuuThaa aashiq sachchaa pyaar usako jaan lo
+	( qasam se ) \-3 aap jaiso.n ko sataanaa usase siikhaa hai
+ra \:	haay merii jaa.N \threedots
+%
+#endindian
+\endsong
+

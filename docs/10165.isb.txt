@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ruk majanuu.n ruk ruk ... aaj meraa dil to.D ke jaa kal pa.Dh lenaa akhabaar me.n}%
+\film{Ajay}%
+\year{1996}%
+\starring{Sunny, Karisma, Suresh Oberoi, Farida Jalal, Reena Roy, Mohnish}%
+\singer{Alka Yagnik, Kumar Sanu, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ruk majanuu.n ruk ruk ruk majanuu.n ruk ruk majanuu.n
+aaj meraa dil to.D ke jaa kal pa.Dh lenaa akhabaar me.n
+aashiq ban ke jaan luTaa dii ik lailaa ne pyaar me.n
+ruk majanuu.n ruk ruk \threedots
+
+mai.n banii diivaanii dil churaa ke duur jaa ke kyo.n kare naadaanii
+kyaa nahii.n hai pas mere ye javaanii naam tere
+aisii mahabuubaa naa hogii sa.nsaar me.n
+aaj meraa dil to.D ke \threedots
+
+sirf kahate hai.n sabhii ko_ii karataa nahii.n
+aajakal ishq me.n ko_ii marataa nahii.n
+chho.D merii baahe.n peparo.n me.n roz nayii chhapatii hai.n afavaahe.n
+saath meraa chho.D de tuu ye iraadaa to.D de tuu
+marane varane kii baate.n kyuu.n karatii hai bekaar me.n
+ruk majanuu.n ruk ruk \threedots
+
+aashiq ban ke jaan luTaa dii ik majanuu.n ne pyaar me.n
+%
+#endindian
+\endsong
+

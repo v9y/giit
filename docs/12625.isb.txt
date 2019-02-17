@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{raadhaa raadhaa pyaarii raadhaa raadhaa prem agaadhaa}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Ashok Kumar, Leela Chitnis}%
+\music{Ramchandra Pal}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11985 [V S Rawat]
+%
+% Part I Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+% Part II Song Courtesy: http://hindi-movies-songs.com/
+%
+\printtitle
+#indian
+%
+% PART I
+
+a \:	raadhaa raadhaa pyaarii raadhaa
+	raadhaa prem agaadhaa
+	kisane ham aazaad parindo.n
+	ko bandhan me.n baa.Ndhaa
+lii \:	( saajan kyuu.N bandhan me.n baa.Ndhaa
+a \:	raadhaa kyuu.N bandhan me.n baa.Ndhaa ) \-2
+do \:	kisane ham aazaad parindo.n ko bandhan me.n baa.Ndhaa
+a \:	raadhaa raadhaa pyaarii raadhaa
+
+lii \:	( kuu.n\-kuu.n kar ke koyal bolii
+	dilawaalo.n kii duniyaa Dolii ) \-2
+a \:	( sharamiilii bholii kaliyo.n ne
+	apanii\-apanii khi.Dakii kholii ) \-2
+	fauran bha.Nwaro.n kii Tolii ne \-2
+	prem baan ko saadhaa
+	( raadhaa prem baan ko saadhaa
+lii \:	saajan prem baan kyuu.N saadhaa ) \-2
+a \:	raadhaa raadhaa pyaarii raadhaa
+	raadhaa prem agaadhaa
+	raadhaa raadhaa pyaarii raadhaa
+
+% PART II
+
+raadhaa raadhaa pyaarii raadhaa
+raadhaa prem agaadhaa
+kisane ham aazaad pari.ndo.n ko
+ba.ndhan me.n baa.Ndhaa
+saajan kyuu.N ba.ndhan me.n baa.Ndhaa
+
+raadhaa kyuu.N ba.ndhan me.n baa.Ndhaa
+kisane ham aazaad pari.ndo.n ko
+ba.ndhan me.n baa.Ndhaa
+raadhaa raadhaa pyaarii raadhaa
+raadhaa prem agaadhaa
+%
+#endindian
+\endsong
+

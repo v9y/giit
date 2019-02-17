@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{##Ave Maria, gracia plena##}%
+\film{Sur}%
+\year{2002}%
+\starring{Lucky Ali, Gauri Karnik}%
+\singer{Marijke Desouza}%
+\music{M M Kreem}%
+\lyrics{Nida Fazli}%
+%
+% contributor: BOL ANAMOL #11791 [V S Rawat]
+% producer: PNC (Pritish Nandy Communications), Fish Eye Network Production
+% director: Tanuja Chandra
+% audio: Universal Music India Pvt Ltd, www. umusicindia.com
+% cassette: 6337 334 MC-B ECO-SP Stereo, Cost: Rs 50/-, CD: CDF 594, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+##Ave Maria, gracia plena##
+##Maria gracia plena## \-2
+##Ave, ave dominus##
+##Dominus tecum##
+##Benedicta tu in mulieribus##
+##Et benedictus##
+##Et benedictus fructus ventris##
+##Ventris tui, Jesus##
+##Ave Maria##
+%
+#endindian
+\endsong

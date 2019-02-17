@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chandaa des piyaa ke jaa}%
+\film{Bhartruhari}%
+\year{}%
+\starring{}%
+\singer{Ameerbai}%
+\music{Khemchand Prakash}%
+\lyrics{Pt. Indra Chandra}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+chandaa des piyaa ke jaa
+saajan hamare bhuule hamako
+unhe.n manaa kar laa
+des piyaa ke jaa
+chandaa, des piyaa ke jaa   \threedots
+
+sundar manahar R^itu hai duhaa_ii
+madhuban me.n kyo.n birahaa banaa_ii
+itanii sunaakar aa
+des piyaa ke jaa   \threedots
+
+saa.Njh bhaye mai.n diip ban jalatii
+raat raat bhar ???? Dhalatii
+jaake yaad dilaa
+chandaa, jaake yaad dilaa
+chandaa, des piyaa ke jaa   \threedots
+
+%
+#endindian
+\endsong
+%

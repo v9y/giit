@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{sitaare Duub chale ... mohabbat kii bas itanii daastaa.n}%
+\film{Baaraadari}%
+\year{1955}%
+\starring{Ajeet, Geeta Bali}%
+\singer{Rafi, Lata}%
+\music{Nashad}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10304 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	sitaare Duub chale raat Dhalane vaalii hai
+	chale bhii aa_o ki duniyaa badalane vaalii hai
+ra \:	tumhe.n qasam hai na karanaa merii judaa_ii kaa Gam
+	havaa_e.n laakh chale.n shamaa jalane vaalii hai
+
+la \:	mohabbat kii bas itanii daastaa.n hai \-2
+	bahaare.n bahaare.n chaar din kii phir Kizaa.n hai
+	mohabbat kii bas \threedots
+ra \:	mohabbat kii bas \threedots
+
+la \:	ujaale ko tarasatii hai.n niGaahe.n
+	ba.Dii viiraan hai.n ulfat kii raahe.n
+	kahaa.N hai kahaa.N hai chaa.Nd mere tuu kahaa.N hai
+	mohabbat kii bas \threedots
+
+ra \:	mazaaa milane kaa aataa hai bichha.Da ke
+	muhabbat ra.ng laatii hai uja.Da ke
+	judaa_ii judaa_ii do dilo.n kaa imtahaa.N hai
+la \:	mohabbat kii bas \threedots
+%
+#endindian
+\endsong
+

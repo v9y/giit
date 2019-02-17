@@ -1,0 +1,73 @@
+% 
+\startsong
+\stitle{paradesii paradesii jaanaa nahii.n}%
+\film{Raja Hindustani}%
+\year{1996}%
+\starring{Aamir Khan, Karisma Kapoor}%
+\singer{Alka Yagnik, Udit Narayan, Kumar Sanu, Suresh Wadkar, Bela Sulakhe, Padma Menon}%
+\music{Nadeem-Shravan}%
+\lyrics{???}%
+% 
+% Contributor: Vishal Ailawadhi <vishal@ucla.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 1/13/1996
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Comments: Part 1: Alka Yagnik, Udit Narayan
+%           Part 2: Alka Yagnik, Kumar Sanu
+%           Part 3: Suresh Wadkar, Bela Sulakhe, Padma Menon
+%
+\printtitle
+#indian
+%
+bhaag 1:  gaayak \- alkaa yaaganik va udit naaraayaN
+
+a: paradesii paradesii jaanaa nahii.n, mujhe chho.D ke
+   paradesii mere yaaraa vaadaa nibhaanaa
+   mujhe yaad rakhanaa kahii.n bhuul na jaanaa
+
+u: paradesii paradesii jaanaa nahii.n, mujhe chho.D ke
+   paradesii mere yaaraa vaadaa nibhaanaa
+   tum yaad rakhanaa kahii.n bhuul na jaanaa
+
+a: mai.nne tumako chaahaa tumase pyaar kiyaa
+   sab kuchh tum pe yaar apanaa vaar diyaa
+   ban ga_ii jogan mai.nne priit kaa jog liyaa
+   na sochaa na samajhaa dil kaa rog liyaa
+u: paradesii mere yaaraa lauT ke aanaa
+   tum yaad rakhanaa kahii.n bhuul na jaanaa
+
+a: paradesii paradesii jaanaa nahii.n, mujhe chho.D ke
+   tum yaad rakhanaa kahii.n bhuul na jaanaa
+
+
+bhaag 2:  gaayak \- kumaar shaanu va alkaa yaaganik
+
+ku: phuulo.n ke mausam me.n milane aate hai.n
+   patajha.D me.n pa.nchhii ban kar u.D jaate hai.n
+   ha.Nsatii aa.Nkho.n me.n aa.Nsuu de aate hai.n
+   vaadaa kar ke bhii na vaapas aate hai.n
+   paradesii mere yaaraa guzaraa zamaanaa
+   use yaad rakhanaa kahii.n bhuul na jaanaa
+
+a: sach kahate hai.n duniyaa vaale pyaar na kar
+   pyaar to hai ik rog buraa is rog se Dar
+   diivaano.n kii qismat me.n tanhaaii hai
+   ishq kaa duujaa naam to yaar judaaii hai
+   paradesii mere yaaraa mujhe na rulaanaa
+   tum yaad rakhanaa kahii.n bhuul na jaanaa
+
+
+bhaag 3:  gaayak \- suresh vaaDakar, belaa sulaakhe va pad.hmaa menan
+
+su: paradesii paradesii jaanaa nahii.n
+be: tuu jaanaa nahii.n
+su: hame.n chho.D ke, hame.n chho.D ke
+   paradesii mere yaaraa vaadaa nibhaanaa
+   hame.n yaad rakhanaa kahii.n bhuul na jaanaa
+   paradesii paradesii jaanaa nahii.n
+   hame.n chho.D ke, hame.n chho.D ke
+%
+#endindian
+\endsong
+%
+

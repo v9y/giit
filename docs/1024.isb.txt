@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kuchh na kuchh to zaruur honaa hai, saamanaa aaj unase honaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Wajida Tabassum}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Pratap Khedkar (khedkar@merak.crd.ge.com)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kuchh na kuchh to zaruur honaa hai,
+saamanaa aaj unase honaa hai
+
+to.Do, phe.nko.n, rakho, karo kuchh bhii,
+dil hamaaraa hai, kyaa khilaunaa hai
+
+zi.ndagii aur maut kaa matalab,
+tumako paanaa hai, tumako khonaa hai
+
+itanaa Daranaa bhii kyaa hai duniyaa se,
+jo bhii honaa hai so to honaa hai
+
+uTh ke mahafil se mat chale jaanaa,
+tumase roshan ye konaa\-konaa hai
+%
+#endindian
+\endsong
+%

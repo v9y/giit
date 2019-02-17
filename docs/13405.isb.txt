@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{hamako to ishq aapakaa aise sataa rahaa hai}%
+\film{Pitaah}%
+\year{2001}%
+\starring{Sanjay Dutt, Nandita Das, Jackie Shroff, Salil Ankola, Anupama Verma}%
+\singer{Kavita Subramaniam}%
+\music{Anand Raj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamako to ishq aapakaa aise sataa rahaa hai
+ruk ruk ke tiir jaise siine me.n jaa rahaa hai
+hamako to \threedots
+
+aise kase hai.n taane duniyaa ne hamape yaar
+shabanam pe jaise ko_ii shole giraa rahaa hai
+hamako to \threedots
+
+kis haal me.n jiye.nge kis haal me.n mare.nge
+teraa ishq yaaraa hamako sab kuchh bataa rahaa hai
+hamako to \threedots
+
+lagataa hai aaj hamako le Duube.nge do ishaare
+ik hai terii nazar me.n ik mausam bataa rahaa hai
+hamako to \threedots
+%
+#endindian
+\endsong
+

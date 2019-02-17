@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ga.ngaa aaye kahaa.N se}%
+\film{Kabuliwala}%
+\year{1961}%
+\starring{Balraj Sahni, Usha Kiran, Sonu}%
+\singer{Hemant}%
+\music{Salil Choudhary}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ga.ngaa aaye kahaa.N se, ga.ngaa jaaye kahaa.N re
+aaye kahaa.N se, jaaye kahaa.N re
+laharaaye paanii me.n jaise dhuup\-chhaa.Nv re
+
+ga.ngaa aaye kahaa.N se, ga.ngaa jaaye kahaa.N re
+laharaaye paanii me.n jaise dhuup\-chhaa.Nv re
+
+raat kaarii din ujiyaaraa mil gaye dono.n saaye
+saa.Njh ne dekho ra.ng rupp ke kaise bhed miTaaye
+laharaaye paanii me.n jaise dhuup\-chha.Nv re   \threedots
+
+kaa.Nch koii maaTii koii ra.ng\-bira.nge pyaale
+pyaas lage to ek baraabar jis me.n paanii Daale
+laharaaye paanii me.n jaise dhuup\-chha.Nv re   \threedots
+
+naam koii bolii koii laakho.n ruup aur chehare
+khol ke dekho pyaar kii aa.Nkhe.n dabate re sa.ng mere 
+laharaaye paanii me.n jaise dhuup\-chha.Nv re   \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ye nainaa ye kaajal ye zulfe.n ye aa.Nchal}%
+\film{Dil Se Mile Dil}%
+\year{1978}%
+\starring{Bhism, Shyamali, Om Shivpuri, Leela Misra, Abhi Bhattacharya}%
+\singer{Kishor}%
+\music{Bappi Lahiri}%
+\lyrics{Amit Khanna}%
+%
+% Contributor: BOL ANAMOL #10072 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ye nainaa ye kaajal ye zulfe.n ye aa.Nchal \-2
+Kuubasuurat sii ho tum Gazal
+kabhii dil ho kabhii dha.Dakan kabhii sholaa kabhii shabanam
+tum hii ho tum merii hamadam
+ye nainaa ye kaajal \threedots
+
+zindagii tum merii tum merii zindagii
+
+merii aa.Nkho.n se dekho merii nazaro.n se jaano \-2
+tum maalaa ham motii tum diipak ham jyoti
+ye nainaa ye kaajal \threedots
+
+sapano.n kaa panaghaT ho aashaa kaa jhuramuT ho \-2
+tum nadiyaa ham dhaaraa tum chandaa ham taaraa
+ye nainaa ye kaajal \threedots
+
+merii saa.Nso.n se puuchho merii aaho.n ko samajho \-2
+tum puujaa ham pujaarii tum kismat ham ju_aarii
+ye nainaa ye kaajal \threedots
+%
+#endindian
+\endsong
+

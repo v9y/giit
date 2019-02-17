@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{pyaar pyaar ... chaahi_e tho.Daa pyaar}%
+\film{Lahu Ke Do Rang}%
+\year{1979}%
+\starring{Vinod Khanna, Shabana Azmi, Helen, Danny}%
+\singer{Kishor, Chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Faruk Kaisar}%
+%
+% Contributor: BOL ANAMOL #10075 [V S Rawat]
+% Transliterator: 
+% Credits: U.V. Ravindra
+% Comments: 
+% 
+\printtitle
+#indian
+%
+pya.a.a.ar pyaar pyaar pyaar pyaar
+chaahi_e tho.Daa pyaar tho.Daa pyaar chaahi_e  \-2
+jaan\-e\-man gul\-badan merii baat maani_e
+chaahi_e tho.Daa pyaar \threedots
+
+( chorii chhupe pyaar kabhii honaa chaahi_e
+rut ho javaa.N phir to hame.n khonaa chaahi_e  ) \-2
+jai kaalii kalakatte vaalii teraa vachan na jaa_e khaalii
+bachchaa log are bajaa_o taalii
+chaahi_e tho.Daa pyaar \threedots
+
+( ko_ii hasii.n kar na sakaa meraa saamanaa
+merii nazar jaaduu bharii dil ko thaamanaa ) \-2
+jai kaalii kalakatte vaalii teraa vachan na jaa_e khaalii
+chhokarii log are bajaa_o taalii
+chaahi_e tho.Daa pyaar \threedots
+%
+#endindian
+\endsong
+

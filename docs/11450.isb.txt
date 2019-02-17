@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{duniyaa ne chhe.Dii kahaaniyaa.N}%
+\film{Ek Thaa Raajaa}%
+\year{1951}%
+\starring{M G Ramchandar, Anjali Devi, S V Sahastranamam, Madhuri Devi}%
+\singer{Mukesh, Shamshad}%
+\music{C R Subbaaraaman}%
+\lyrics{Pt. Sudarshan}%
+%
+% Contributor: BOL ANAMOL #11423 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+sha \:	duniyaa ne chhe.Dii kahaaniyaa.N \-2
+mu \:	duniyaa ne chhe.Dii kahaaniyaa.N \-2
+sha \:	duniyaa ne chhe.Dii rasiilii kahaaniyaa.N
+	sun\-sun jaagii.n javaaniyaa.N
+
+mu \:	na_e tiir cha.Dhaane lage ab kamaa.N par
+sha \:	na_ii baate.n aane lagii.n ab zubaa.N par
+mu \:	nayaa ra.ng ubharaa
+sha \:	nayaa ruup jaagaa nayaa ra.ng ubharaa
+mu \:	nayaa ruup jaagaa
+	( qayaamat kii ) \-2 hai.n ye nishaaniyaa.N
+do \:	duniyaa ne chhe.Dii \threedots
+
+mu \:	na_e phuul khilane lage ab jahaa.N me.n
+sha \:	na_e chaa.Nd\-taare bane aasamaa.N me.n
+mu \:	nayaa josh man me.n
+sha \:	na_ii shaan tan par nayaa josh man me.n
+mu \:	na_ii shaan tan par
+do \:	( na_ii hai.n ) \-2 lahuu me.n ravaaniyaa.N
+	duniyaa ne chhe.Dii \threedots
+%
+#endindian
+\endsong
+

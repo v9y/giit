@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{piyaa bin naahii.n ... mil ga_e milane vaale ... miyaa.N\-biivii raajii}%
+\film{Miyaan Bibi Raazi}%
+\year{1960}%
+\starring{Shrikant Gaurav, Kamini Kadam, Seema, Raja Gosavi, Mehmood}%
+\singer{Mahendra Kapoor, Asha}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10437 [V S Rawat]
+% Transliterator: 
+% Comments: Hero Shrikant Gaurav has previously sung song in films
+% 			 (Naya Kadam - 1958) under the name of Shailesh Mukherji
+\printtitle
+#indian
+%
+ra \:	piyaa bin naahii.n aavat chain
+	mil ga_e milane vaale ho mil ga_e milane vaale
+	ab ghar me.n baiThe kaajii
+	kah do jii kah do miyaa.N\-biivii raajii
+
+su \:	ho ham tumhaare e e tum hamaare
+	ek jagah aa_e do sitaare
+	hamane kisii kaa kyaa liyaa hai bolo
+	dil deke jiite hai.n jii dil kii ye baazii
+	mil ga_e milane vaale \threedots
+
+ra \:	ho dil chaahe e e jise chaahe e e
+	jahaa.N pyaar to nibhaa_e
+	soch samajh ke baat ba.Dhaa_ii hamane
+	phir is duniyaa ko kaahe kii hai naaraazii
+do \:	are mil ga_e milane vaale \threedots
+
+su \:	ho na Kazaanaa a a na ghabaraanaa a a
+	pyaare badal chukaa hai zamaanaa
+	dil se dil kaa saath hai ye to
+ra \:	tum jisame.n raajii ham bhii raajii\-raajii
+do \:	mil ga_e milane vaale \threedots
+%
+#endindian
+\endsong
+

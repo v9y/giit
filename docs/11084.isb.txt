@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{chalo ye vaadaa ham kare.n hamako vafaa kii kasam}%
+\film{Dil Kho Gayaa}%
+\year{1998?}%
+\starring{Indra Kumar}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Nikhil Vinay}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chalo ye vaadaa ham kare.n hamako vafaa kii kasam
+he he
+chalo ye vaadaa vaadaa vaadaa 
+chalo ye vaadaa ham kare.n ho.nge nahii.n ham judaa
+hamako vafaa kii kasam ho.nge na ham bevafaa
+chalo ye vaadaa \threedots
+
+tum nazar me.n tum ho dil me.n tum khyaalo.n me.n ho
+khvaabo.n me.n tum ho saa.Nso.n me.n tum ho
+tum hii to dha.Dakan me.n ho
+chalo ye vaadaa vaadaa \threedots
+
+kaash teraa pyaar yuu.n hii har janam saath ho
+jab talak hai.n chaa.Nd taare ye mulaakaat ho ye mulaakaat ho
+chalo ye vaadaa vaadaa \threedots
+%
+#endindian
+\endsong
+

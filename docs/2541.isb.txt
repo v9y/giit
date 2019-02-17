@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{biga.Dii banaane vaale biga.Dii banaa de}%
+\film{Badi Behan}%
+\year{1949}%
+\starring{}%
+\singer{Suraiyya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+biga.Dii banaane vaale biga.Dii banaa de
+naiyyaa hamaarii paar lagaa de
+
+duniyaa.N hamaarii tere haath me.n hai
+chaahe basaa de chaahe miTaa de
+naiyyaa hamaarii paar lagaa de
+biga.Dii banaane vaale   \threedots
+
+idhar bhii hai.n kaa.NTe udhar bhii hai.n kaa.NTe.n
+tuu chaahe to kaa.NTo.n ko kaliyaa.N banaa de
+naiyyaa hamaarii paar lagaa de
+biga.Dii banaane vaale   \threedots
+
+%
+#endindian
+\endsong
+%

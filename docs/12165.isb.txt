@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{hai ##johny## kaa bhaa_ii ... ruukhii suukhii khaate hai.n jiite hai.n shaan se}%
+\film{Jeete Hain Shaan Se}%
+\year{1988}%
+\starring{Mithun, Mandakini, Sanjay Dutt, Vijayata Pundit, Govinda, Danny}%
+\singer{Anuradha Paudwal, Shabbir Kumar, Amit Kumar, Shailendra, Kavita Subramaniam}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hai ##johny## kaa bhaa_ii iqabaal iqabaal kaa bhaa_ii govindaa
+allaah jiijas raam ke pyaar pe ham hai.n zi.ndaa
+ko_ii shikaayat nahii.n allaah se bhagavaan se
+ruukhii suukhii khaate hai.n jiite hai.n shaan se
+
+insaaniyat iimaa.n apanaa aur pyaar hamaarii bolii
+are nafarat se nafarat karatii hai ham masto.n kii Tolii
+himmat naa kabhii haarii naa chho.Dii khuddaarii
+inhii.n adaa_o.n pe hamane chaahaa tumhe.n jii jaan se
+hamane pyaar kaa sabak liyaa hai giitaa aur quraan se
+ko_ii shikaayat nahii.n \threedots
+
+are dil ko kisii ke kyaa to.De.nge phuul na hamane to.Daa
+ho paayaa jise dilo.n kaa dushman use kabhii na chho.Daa
+ye raate.n baaraate.n chaahato.n kii saugaate.n
+aaj kisii ne kisii ko dekhaa hai aramaan se
+hamane pyaar kaa sabak \threedots
+%
+#endindian
+\endsong
+

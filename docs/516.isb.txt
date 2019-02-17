@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{dil lagaakar ham ye samajhe, zi.ndagii kyaa chiiz hai ##(female)##}%
+\film{Zindagi Aur Maut}%
+\starring{Pradeep Kumar, Faryal, N.A. Ansari}%
+\singer{Asha}%
+\music{C Ramchandra}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Himanshu Gupta (gupta@geisel.csl.uiuc.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Thu Aug  3 1995
+% Credits: Ashok Dhareshwar (ashok@worldbank.org) 
+% Editor:  
+% Comments: The mukha.Daa of the male version is not repeated here, 
+%	    but I'm using the same title as the male version because the
+%	    female version is sort of a continuation of/answer to/
+%	    undeniably linked to (choose one :-) ) the male version
+%	    sung by Mahendra Kapoor.		- Rajiv
+%
+\printtitle
+#indian
+%
+baad muddat ke mile to, is tarah dekhaa idhar
+jis tarah ek ajanabii par ajanabii Daale nazar
+aapane ye bhii na sochaa dostii kyaa chiiz hai
+
+pahale\-pahale aap hii apanaa banaa baiThe hame.n
+phir na jaane kisali_e dil se bhulaa baiThe hame.n
+ab hu_aa maaluum hamako beruKii kyaa chiiz hai
+
+pyaar sachchaa hai meraa to dekh lenaa, ai sanam
+aap aakar to.D de.nge Kud merii za.njiir\-e\-Gam
+bandaa paravar jaan le.nge bandagii kyaa chiiz hai
+%
+#endindian
+\endsong
+%

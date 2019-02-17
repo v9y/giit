@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{o duniyaa banaane waale kyaa yahii hai duniyaa terii}%
+\film{Sindoor}%
+\year{1947}%
+\starring{Kishor Sahu, Shamim, Paro, Gulab, Rajendra, Mehmood}%
+\singer{Ameerbai}%
+\music{Khemchand Prakash}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12126 [V S Rawat]
+%
+\printtitle
+#indian
+%
+( o duniyaa banaane waale
+kyaa yahii hai duniyaa terii ) \-2
+
+is duniyaa kii bharii sabhaa me.n \-2
+luT ga_ii duniyaa merii \-2
+kyuu.N luT ga_ii duniyaa merii
+
+o duniyaa banaane waale \-2
+kyaa yahii hai duniyaa terii
+o duniyaa banaane waale
+kyaa yahii hai duniyaa terii
+
+dil me.n dukh ho.NTo.n par aahe.n
+sar par hai.n ghanaghor ghaTaaye.n \-2
+o chaa.Nd banaane waale
+e chaa.Nd banaane waale
+kyuu.N merii raat andherii
+
+o duniyaa banaane waale \-2
+kyaa yahii hai duniyaa terii
+o duniyaa banaane waale
+kyaa yahii hai duniyaa terii
+
+dukhiyo.n ke ghar aataa hai tuu \-2
+dukh kii aaG bujhaataa hai tuu \-2
+o aaG bujhaane waale
+kyuu.N jal ga_ii nagarii merii
+jal ga_ii nagarii merii
+kyuu.N jal ga_ii nagarii merii
+
+o duniyaa banaane waale \-2
+kyaa yahii hai duniyaa terii
+o duniyaa banaane waale
+kyaa yahii hai duniyaa terii
+%
+#endindian
+\endsong
+

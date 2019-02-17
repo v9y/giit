@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{haay hukkuu haay ... ye la.Dakii mere saamane meraa dil li_e jaa_e}%
+\film{Gopi Kishan}%
+\year{1994}%
+\starring{Sunil Shetty, Karisma, Shilpa Shirodkar, Aruna Irani, Imtiaz Khan}%
+\singer{Alka Yagnik, Kumar Sanu, Poornima}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	haay hukkuu haay hukkuu haay haay \-4
+	ye la.Dakii mere saamane
+	( haay hukkuu haay hukkuu haay haay \-2
+	ye la.Dakii mere saamane meraa dil li_e jaa_e jaa_e jaa_e ) \-2
+
+puu \:	haay hukkuu haay hukkuu haay haay \-4
+	ye la.Dakaa mere saamane
+	haay hukkuu haay hukkuu haay haay \-2
+	ye la.Dakaa mere saamane meraa dil li_e jaa_e jaa_e jaa_e
+	haay raam
+ku \:	haay hukkuu \threedots
+a \:	haay hukkuu \threedots
+
+ku \:	( chorii chorii dekhe aa.Nkhe.n jhukaa_e
+	maane naa kahanaa baate.n banaa_e ) \-2
+a \:	kyaa diivaane chho.D bahaane \-2
+	ab to chain naa aa_e aa_e aa_e
+ku \:	haay hukkuu \threedots
+a \:	haay hukkuu \threedots
+
+a \:	( jaane na kaisaa jaaduu kiyaa hai
+	pyaar kaa mujhako dard diyaa hai ) \-2
+ku \:	isakii adaa sabase judaa \-2
+	ye to samajh na paa_e paa_e
+a \:	haay hukkuu \threedots
+ku \:	haay hukkuu \threedots
+
+dono.n \:	meraa dil li_e jaa_e jaa_e
+%
+#endindian
+\endsong

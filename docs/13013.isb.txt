@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{rut hai milan kii saathii mere aa re}%
+\film{Melaa}%
+\year{1971}%
+\starring{Sanjay Khan, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10785 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+la \:	rut hai milan kii saathii mere aa re
+	mohe kahii.n le chal baa.Nho.n ke sahaare
+	baaGo.n me.n kheto.n me.n nadiyaa kinaare
+	rut hai milan kii \threedots
+
+ra \:	ho ko_ii sajanavaa aajaa
+	tere binaa Tha.nDii havaa sahii naa jaa_e aajaa
+	rut hai milan kii \threedots
+
+la \:	jaise rut pe hariyaalii gaharii chhaa_e mukh pe
+	ra.ngat nikhaar kii
+ra \:	kheto.n ke sa.ng jhuume.n pavan me.n phulavaa sapano.n ke
+	Daalii aramaa.N kii
+la \:	tere sivaa ab to kuchh suujhe nahii.n saa.Nvare	
+	rut hai milan kii \threedots
+
+ra \:	o sajaniyaa jaan le le ko_ii mose
+	ab to laage nainaa tose
+	aajaa o aajaa
+	man kahataa hai duniyaa taj ke bas jaa_uu.N
+	terii aa.Nkho.n me.n
+la \:	aur mai.n gorii mahakii\-mahakii ghul ke rah jaa_uu.N
+	terii saa.Nso.n me.n
+ra \:	ek duuje me.n yuu.N kho jaa_e.N jag dekhaa kare
+	rut hai milan kii \threedots
+%
+#endindian
+\endsong
+

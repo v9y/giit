@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{dilarubaa dil pe tuu ye sitam ki_e jaa ki_e jaa}%
+\film{Raj Kumar}%
+\year{1964}%
+\starring{Prithviraj Kapoor, Shammi Kapoor, Sadhana}%
+\singer{Rafi, Asha}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10970 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	dilarubaa dil pe tuu ye sitam ki_e jaa ki_e jaa
+ra \:	o ham bhii to aag me.n jalate rahe
+	pyaar ke sholo.n pe chalate rahe ho
+
+	ho dilarubaa dil pe tuu ye sitam ki_e jaa ki_e jaa
+aa \:	o ham bhii to aag me.n jalate rahe
+	pyaar ke sholo.n pe chalate rahe
+
+ra \:	kyaa bataa_uu.N kyaa dil kaa haal hai
+	jis gha.Dii se mile ham
+	jaise saika.Do.n bijaliyaa.N girii.n aur jal uThe ham
+aa \:	haay kyo.n mujhe Kaaq karane par tule ho zaalim
+	aaKir kyaa bigaa.Daa hai maine tumhaaraa
+ra \:	dilarubaa dil pe \threedots
+aa \:	ham bhii to \threedots
+
+aa \:	a.ng\-a.ng me.n miiThaa dard hai chhaTapaTaa_e meraa dil
+	ik dafaa me.n hii qatl kar de tuu mujhako mere qaatil
+ra \:	haay dil kii gaharaa_iyo.n ko chiirataa hu_aa
+	ye dard ye qasak ye chubhan
+aa \:	aaj dil ke tum itane paas ho jaise merii dha.Dakan
+ra \:	ek aaj se apane jism\-o\-jaa.N ek apane tan\-man
+aa \:	aaj ek saath mahake hai.n do gulaab
+ra \:	ek Dor me.n guu.Nthe hai.n do motii
+do \:	ek saath dha.Dake hai.n do dil
+	dilarubaa dil pe \threedots
+%
+#endindian
+\endsong
+

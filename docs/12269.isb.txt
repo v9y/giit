@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{jab kabhii chaa.Nd naa ho ... agar tum saath ho}%
+\film{Jhankaar Beats}%
+\year{2003}%
+\starring{Juhi Chawla, Sanjay Suri, Rinke Khanna, Rahul Bose, Ria Sen, Shayan Munshi}%
+\singer{KK, Mahalaxmi Iyer}%
+\music{Vishal-Shekhar}%
+\lyrics{Vishal Dadlani}%
+%
+% Contributor: BOL ANAMOL #11749 [V S Rawat]
+% Producer: PNC (Pritish Nandy Communications), Rangita Pritish Nandy, Director: Sujoy Ghosh
+% Audio: Crescendo Music Pvt Ltd
+% Cassette: Soprano 40455, Cost: Rs 55/-, CD: 
+% 
+\printtitle
+#indian
+%
+ke \:	jab kabhii chaa.Nd naa ho andherii raat ho
+	Dar naa ho hogaa mujhako agar tum saath ho
+	jab kabhii baadal chhaa_e yaa ghanii barasaat ho	
+	hogii Kushii har ik buu.nd me.n agar tum saath ho
+	is jahaa.N me.n ko_ii meraa ho bhii yaa naa ho
+	har ik lamhaa bhar jaa_egaa roshanii se bas agar tum saath ho
+	jab kabhii
+ma \:	jab kabhii
+ke \:	aa.Nsuu aa_e
+ma \:	aa.Nsuu aa_e
+ke \:	yaa burii
+ma \:	yaa burii
+ke \:	sauGaat ho
+ma \:	sauGaat ho
+ke \:	muskaraa luu.Ngaa mai.n to phir bhii
+do \:	agar tum saath ho
+
+ke \:	tum yahaa.N ho to kyaa ra.nj duniyaa hai udhar
+	saare aramaa.N Kaab saare ban ga_e hai.n ab tumhaarii ik nazar
+	jab kabhii
+ma \:	jab kabhii
+ke \:	dil ghabaraa_e
+ma \:	dil ghabaraa_e
+ke \:	saamane
+ma \:	saamane
+ke \:	maat ho
+	jiit ke mai.n dikhalaa_uu.Ngaa
+do \:	agar tum saath ho
+
+	jab kabhii
+ma \:	jab kabhii
+ke \:	ha.Ns de aalam
+ma \:	ha.Ns de aalam
+ke \:	Kushiyo.n kii
+ma \:	Kushiyo.n kii
+ke \:	baaraat ho
+do \:	zindagii hogii jannat agar tum saath ho
+%
+#endindian
+\endsong
+

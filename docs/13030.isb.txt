@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{dhaaginaa tinak dhin ... jab tak ye sa.nsaar nachaa_e}%
+\film{Mere Lal}%
+\year{1966}%
+\starring{Dev Kumar, Indrani Mukherjii, Jagdev}%
+\singer{Mukesh, Usha/ Usha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11003 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	( dhaaginaa tinak dhin ) \-2 taa thaiyaa
+	( dhaaginaa tinak dhin ) \-3 vaah bhaiyaa
+	jab tak ye sa.nsaar nachaa_e jab tak ye sa.nsaar
+	jab tak ye sa.nsaar nachaa_e jhuum\-jhuum ke naache jaa
+	dhaaginaa tinak dhin \threedots
+
+	are vaah mere baa.Nke naacho isii laTak se
+	lachakaa_o re kamariyaa ho zaraa aur maTak ke
+	jag tujhape ha.Nse to chal sar ko jhaTak ke
+	zaraa aur maze se pyaare Thumak\-Thumak ke
+	sar par Topii laal sajaa_e sar par Topii laal
+	sar par Topii laal sajaa_e muu.Nchh taan ke naache jaa
+	dhaaginaa tinak dhin \threedots
+uu \:		dhaaginaa tinak dhin \threedots
+
+mu \:	pag dekh ruke naa chaahe bahe pasiinaa
+	ho terii raah take hai kahii.n ko_ii hasiinaa
+	sapano.n me.n basar ho chaahe ka_ii mahiinaa
+	shiqavaa mat kariyo pyaare yahii hai jiinaa
+	jab tak pag betaal na jaa_e yuu.N hii umar bhar naache jaa
+do \:		dhaaginaa tinak dhin \threedots
+%
+#endindian
+\endsong
+

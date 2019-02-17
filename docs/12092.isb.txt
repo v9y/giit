@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{ek thaa dil paas mere kar diyaa vo naam tere}%
+\film{Jab Pyaar Kisi Se Hotaa Hai}%
+\year{1998}%
+\starring{Salman, Twinkle, Namrata Shirodkar, Johny Lever, Farida, Saeed}%
+\singer{Lata, Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek thaa dil paas mere kar diyaa vo naam tere
+ek jaan thii paas mere ho ga_ii vo naam tere
+
+maa.nguu.n to vaapas naa denaa jaa_uu.n to tuu rok lenaa
+tere li_e hii to merii jaa.n terii kasam
+chain kho gayaa hai nii.nd ho ga_ii hai kam
+bachaa bachaa ke rakhaa thaa de diyaa hai tujhe aaj ye dil
+ek jaan thii paas mere \threedots
+
+aa is dil ke saare aramaa.n de duu.n tujhe
+ye dil hai kyaa tuu maa.nge jaa.n to de duu.n tujhe
+ye dil kii kahaanii kaise kare.n ham shuruu
+mai.n thaam luu.n baahe.n terii aajaa zaraa paas tuu
+chhupaa chhupaa ke rakhaa thaa de diyaa aaj tujhe ye dil
+ek thaa dil paas mere \threedots
+
+ye pahalii mohabbat pahalaa meraa pyaar hai
+to.De se bhii TuuTe naa jo ye vo kasam yaar hai
+ye vaadaa mai.n to.Duu.n aisaa nahii.n mai.n bevafaa
+kyaa baat hai is baat pe ho ga_ii mai.n to fidaa
+bachaa bachaa ke rakhaa thaa aaj tujhako de diyaa ye dil
+ek thaa dil paas mere \threedots
+%
+#endindian
+\endsong
+

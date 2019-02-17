@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{kahaa.N hai, tuu kahaa.N hai merii duniyaa luuTane vaale}%
+\film{Naubahaar}%
+\year{1952}%
+\starring{Ashok Kumar, Nalini Jayawant}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Shailendra?}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Credits:
+% Comments: LATAnjali
+% 
+\printtitle 
+#indian 
+%
+
+kahaa.N hai, tuu kahaa.n hai
+merii duniyaa luuTane vaale, duniyaa luuTane vaale
+basaakar dil me.n aramaa.n, kis liye barabaad kar Daale
+duniyaa luuTane vaale
+ 
+tujhe apanii qasam, aise me.n dam bhar ke liye aajaa
+labo.n par jaan aa_ii, zi.ndagii ke pa.D gaye laale
+duniyaa luuTane vaale \threedots
+
+tumhaarii yaad kaa ye dil sahaaraa leke baiThaa hai
+muhabbat chhuuTane vaalii, na aramaa.n TuuTane vaale
+duniyaa luuTane vaale \threedots
+
+%  
+#endindian  
+\endsong  
+%

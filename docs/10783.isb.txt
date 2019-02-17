@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aate aate aa ga_e paas ham}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Babul Supriyo, Alka Yagnik}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aate aate aa ga_e paas ham
+jaate jaate le ga_e tum sanam
+merii nii.nde.n mere sapane
+le chalo mujhako bhii saath apane
+tum na maano to tumako kasam
+aate aate aa ga_e \threedots
+
+chaahe.n dil maa.ng lo chaahe.n jaa.n maa.ng lo
+naa jii naa naa jii naa haa.N jii haa.N maa.ng lo
+aaj tum hamase saaraa jahaa.n maa.ng lo
+aate aate aa ga_e \threedots
+
+paas itane hai.n aataa nahii.n kuchh nazar
+hamako apanii khabar naa kisii kii khabar
+Dhuu.NDh lenaa hame.n kho ga_e ham agar
+aate aate aa ga_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{ham banjaare ... desh badalate hai.n bheSh badalate hai.n ... dil badalate nahii.n}%
+\film{Banjaaran}%
+\year{1991}%
+\starring{Rishi, Sridevi, Kulbhushan Kharbanda, Gulshan, Pran, Raza Murad}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jhuum chakaa jhuum jhuum chakaa chakaa chakaa
+desh badalate hai.n
+o desh badalate hai.n bheSh badalate hai.n
+dil badalate nahii.n \-3
+
+ham banjaare banjaare \-4
+aajaa aajaa ho aa jaa
+
+desh badalate hai.n bheSh badalate hai.n \-2
+dil badalate nahii.n \-2
+dil me.n basane vaale marake bhii dil se nikalate nahii.n
+desh badalate hai.n \threedots
+
+ye din jo varSho.n ke baad aayaa \-2
+dekhaa tumhe.n to kuchh yaad aayaa \-2
+ek kahaanii ba.Dii puraanii bhuul ga_ii thii mai.n diivaanii
+ek fasaanaa ba.Daa puraanaa bhuul gayaa thaa mai.n diivaanaa
+naam badalate hai.n jaam badalate nahii.n
+dil badalate nahii.n
+dil me.n basane vaale \threedots
+
+biite dino.n ke anjaan mukha.De \-2
+tum jo.D lo ye kaa.Nch ke Tuka.De
+pavan samay kii ik ba.njaaran bech rahii hai dekho darpaN
+nain badalate hai.n din rain badalate nahii.n 
+dil badalate nahii.n
+dil me.n basane vaale \threedots
+
+milate bichha.Date rahate hai.n saathii
+yah saarii duniyaa hai aatii jaatii
+kaisaa milanaa aur bichhu.Danaa pyaar na jaane jiinaa maranaa
+janm na jaane kitane mere sab terii galiyo.n ke phere
+ra.ng badalate hai.n sa.ng badalate nahii.n
+dil badalate nahii.n
+dil me.n basane vaale \threedots
+%
+#endindian
+\endsong
+

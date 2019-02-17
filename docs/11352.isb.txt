@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{mil\-mil ke gaaye.nge ho ho do dil yahaa.N}%
+\film{Dulari}%
+\year{1949}%
+\starring{Suresh, Madhubala, Geeta Bali}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12043 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	( mil\-mil ke gaaye.nge ho ho do dil yahaa.N
+la \:	ek teraa ek meraa
+ra \:	huu.N huu.N
+la \:	haa.N haa.N ) \-2
+
+la \:	ulfat ke paimaane bharapuur hai.n
+ra \:	sab chuur hai.n
+la \:	duniyaa kii nazaro.n se ham duur hai.n
+ra \:	dukh duur hai.n
+la \:	chhup\-chhup ke milane kii ab rut kahaa.N \-2
+	din apane raat apanii apanaa jahaa.N
+	apanaa jahaa.N
+
+la \:	mil\-mil ke gaaye.nge ho ho do dil yahaa.N
+ra \:	ek teraa ek meraa
+la \:	huu.N huu.N
+ra \:	haa.N haa.N
+
+ra \:	ahaa haa
+la \:	ahaa haa
+
+ra \:	is jab me.n aahe.n na fariyaad hai
+la \:	dil shaad hai
+ra \:	nagarii ye har Gam se aazaad hai
+la \:	aabaad hai
+ra \:	gulashan hai ulafat kaa ham hai.n jahaa.N
+	giit apane bol apane apanii zabaa.N
+	apanii zabaa.N
+
+ra \:	mil\-mil ke gaaye.nge ho ho do dil yahaa.N
+la \:	ek teraa ek meraa
+ra \:	huu.N huu.N
+la \:	haa.N haa.N
+
+do \:	mil\-mil ke gaaye.nge ho ho do dil yahaa.N
+	ek teraa ek meraa
+	huu.N huu.N
+	haa.N haa.N
+%
+#endindian
+\endsong
+

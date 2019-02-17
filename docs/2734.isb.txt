@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{yaad aake haradam sataaye}%
+\film{Piya Milan}%
+\year{1956}%
+\starring{}%
+\singer{Lata}%
+\music{Ramesh Naidu}%
+\lyrics{Hasrat}%
+% 
+% Contributor: Neha
+% Transliterator: Nita
+% Date: 5th October, 1999
+% Credits: Satish Kalra, Snehal Oza
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+yaad aake haradam sataaye
+aaj taqadiir luTii ham bhii haare
+
+lo ham un ke aramaan liye \- 2
+vo kyuu.N haradam Kayaalo.n me.n ho
+birahaa qasam Gam ta.Dapaaye hame.n \- 2
+ai dil kyuu.N tum hairaan ho
+tum hii bol do
+yaad aake \threedots
+
+matavaalaa ra.ngiilaa phuul ye
+pal bhar me.n manavaa ko chiin le
+udaas vo kar daale \- 2
+vo duur se maare mom dil pe kaa.NTe.n
+yaad aake \threedots
+
+%
+#endindian
+\endsong
+%

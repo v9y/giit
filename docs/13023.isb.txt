@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{duniyaa me.n aayaa hai to phuul khilaa_e jaa}%
+\film{Mere Arman Mere Sapne}%
+\year{1963}%
+\starring{Pradeep Kumar, Kumari Naaz, Aseem Kumar, Jaishri Gadkar, Pran}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10294 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+duniyaa me.n aayaa hai to phuul khilaa_e jaa
+aa.Nsuu kisii ke le ke Kushiyaa.N luTaa_e jaa
+
+chhoTii sii zindagii terii ha.Ns ke guzaar de
+apanii bigaa.D ke kisii kii sa.Nvaar de
+jo ho begaanaa yahaa.N apanaa banaa_e jaa
+aa.Nsuu kisii ke \threedots
+
+aayaa thaa pyaar se to jaanaa bhii pyaar se
+karanaa gilaa naaa kabhii jaan\-e\-bahaar se
+dil par jo biit rahii hai dil me.n chhupaa_e jaa
+aa.Nsuu kisii ke \threedots
+
+aaj terii aarazuu ban ga_ii daastaa.N
+phuulo.n pe aaj hotaa teraa bhii aashiyaa.N
+bujh ga_ii shamaa terii kisii kii jalaa_e jaa
+aa.Nsuu kisii ke \threedots
+%
+#endindian
+\endsong
+

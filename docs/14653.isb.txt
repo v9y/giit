@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jaataa hai tuu kahaa.n re baabaa sun pyaare}%
+\film{Yes Boss}%
+\year{1997}%
+\starring{Shahrukh Khan, Juhi Chawala, Aditya Pancholi}%
+\singer{Abhijit}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaataa hai tuu kahaa.n re baabaa sun pyaare ruk jaa re
+duniyaa ke ba.De Te.Dhe ye raaste
+khatare hii khatare hai.n tere vaaste
+jaataa hai tuu kahaa.n \threedots
+
+aajakal aisii bhii luuT hai
+kahane ko pyaar hai samajho to jhuuTh hai
+dekh tuu luTane lagaa
+teraa ishtahaar kisake haatho.n me.n
+jaataa hai tuu kahaa.n \threedots
+
+pyaar kaa jo karate hai.n shor dhyaan hai teraa jinakii or
+aa mai.n bataa_uu.n kaun hai vo raat me.n Daakuu din me.n chor
+jaataa hai tuu kahaa.n \threedots
+
+haath jo.Duu.n tere pa.Duu.n tere pa_iyaa.n
+chho.D ke na jaa mujhe chho.D ke merii ba_iyaa.n
+sun le merii arj o sajan jaane vaale ye to bataa
+jaataa hai tuu kahaa.n \threedots
+
+bikate hai.n iimaan yahaa.n baazaaro.n me.n 
+a.njaane tuu na jaane ko_ii jaal phailaa terii raaho.n me.n
+ko_ii baat hai terii baato.n me.n ye jaan le merii baato.n me.n
+faisalaa tujhako aaj karanaa hai Duub jaanaa hai yaa ubharanaa hai
+is taraf jhuuTh hai dikhaavaa hai
+us taraf laalachii nigaahe.n hai
+is taraf mere dil kii raahe.n hai.n
+jaataa hai tuu kahaa.n \threedots
+%
+#endindian
+\endsong
+

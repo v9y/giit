@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{milate milate sanam aaj apanii kasam}%
+\film{Pyaasa}%
+\year{2002}%
+\starring{Aftab Shivdasani, Yukta Mukhi, Julfi Saiyed}%
+\singer{Udit Narayan}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+milate milate sanam aaj apanii kasam
+bekhudii ba.Dh ga_ii ho ga_e hosh kam
+is mulaakaat me.n baat hii baat me.n
+muskuraa ke mujhe tuune dekhaa ki bas
+dil ye khone lagaa pyaar hone lagaa
+milate milate sanam \threedots
+
+dil machalane kii aadat nahii.n thii
+jab kisii se muhabbat nahii.n thii
+dil kii dha.Dakan kahe paas aajaa zaraa 
+tujhako dekhaa bahut phir bhii dil naa bharaa paas aajaa sanam
+ho milate milate sanam \threedots
+
+kaun itanii mohabbat karegaa
+is tarah kaun tumape maregaa
+dil hii kyaa jaan bhii ab luTaa_e.Nge ham
+hotaa hai pyaar kyaa ye bataa_e.Nge ham
+ho milate milate sanam \threedots
+%
+#endindian
+\endsong
+

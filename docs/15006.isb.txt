@@ -1,0 +1,57 @@
+% ITRANS SONG
+
+\startsong
+\stitle{marate ko maare duniyaa ... jhukatii hai duniyaa}%
+\film{Sagaai}%
+\year{1951}%
+\starring{Premnath, Gope, Yakub, Rehana, Vijayalaxmi, Hira Lal, Cuckoo}%
+\singer{Lata, Rafi, Chitalkar, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	marate ko maare duniyaa
+	waah rii duniyaa, waah rii duniyaa
+	aka.De kamazoro.n ke aage
+	taaqat waalo.n se ye bhaage
+
+ko \:	jhukatii hai duniyaa jhukaane waalaa chaahiye \-2
+la \:	jhukatii hai duniyaa jhukaane waalaa chaahiye
+	jhukaane waalaa chaahiye
+ko \:	jhukatii hai duniyaa jhukaane waalaa chaahiye \-2
+	jhukaane waalaa chaahiye \-2
+
+ra \:	piyo duudh khaa_o ghii, duniyaa karegii jii jii jii \-2
+	taaqat waalo.n kii jay hogii aur kamazoro.n kii pii pii pii
+ko \: pii pii pii
+ra \:	jalatii hai duniyaa jalaane waalaa chaahiye \-2
+la:	jalatii hai duniyaa jalaane waalaa chaahiye
+	jalaane waalaa chaahiye
+ko \:	jhukatii hai duniyaa jhukaane waalaa chaahiye \-2
+	jhukaane waalaa chaahiye \-2
+
+la \:	shiriimatii ho yaa beGam, ek jaan aur sau\-sau Gam \-2
+	aurat ko kamazor na samajho, mardo.n se kis baat me.n kam
+	Daratii hai duniyaa Daraane waalaa chaahiye \-3
+	Daraane waalaa chaahiye
+ko \:	jhukatii hai duniyaa jhukaane waalaa chaahiye \-2
+	jhukaane waalaa chaahiye \-2
+
+chi \:	saarii duniyaa ke kamazoro, chaahe kaalo chaahe goro \-2
+	maaro aisaa dhobii paTa.Daa, dushaman kaa ho jaaye raga.Daa \-2
+	dabatii hai duniyaa dabaane waalaa chaahiye \-2
+la \:	dabatii hai duniyaa dabaane waalaa chaahiye
+	dabaane waalaa chaahiye
+ko \:	jhukatii hai duniyaa jhukaane waalaa chaahiye
+	jalatii hai duniyaa jalaane waalaa chaahiye
+	Daratii hai duniyaa Daraane waalaa chaahiye
+	dabatii hai duniyaa dabaane waalaa chaahiye
+	jhukatii hai duniyaa jhukaane waalaa chaahiye
+	jhukaane waalaa chaahiye \-2
+
+#endindian
+\endsong

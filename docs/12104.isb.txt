@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{diivaanaa diivaanaa ye dil teraa diivaanaa}%
+\film{Jung}%
+\year{1996}%
+\starring{Mithun, Ajay Devgan, Aditya, Rambha, Sadashiv, Sujata Mehta}%
+\singer{Abhijit, Kavita Subramaniam}%
+\music{Nadeem Shravan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o_e o_e jii o_e o_e o_e
+diivaanaa diivaanaa ye dil teraa diivaanaa
+diivaanaa diivaanaa diivaanaa
+rulaanaa sataanaa par dil ko na jalaanaa
+diivaanaa diivaanaa diivaanaa
+diivaanaa diivaanaa ye dil \threedots
+
+tere biich me.n na aa_e ye zamaanaa
+
+palako.n se po.nchh ke ye dil saaf kar de
+mai.n maaf kar duu.n tuu bhii maaf kar de
+lag jaa gale tuu i.nsaaf kar de
+phir ye milan kaa ban jaa_e bahaanaa
+
+dil maa.ngataa hai tuu merii jaan bhii le le
+tere li_e hii jiinaa hai tere li_e hii maranaa hai
+aur mujhe kyaa karana hai
+chuTakii bhar si.nduur mujhe maa.ng me.n terii bharanaa hai
+aur mujhe kyaa karana hai
+%
+#endindian
+\endsong
+

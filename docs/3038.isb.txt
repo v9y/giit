@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{bachapan kii yaad dhiire dhiire}%
+\film{Shaheed}%
+\year{1948}%
+\singer{Lalita Dewoolkar}%
+\music{Ghulam Haider}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: Aashish Thakker
+% Transliterator: Aashish Thakker
+% Date: 8th February, 2002
+% Credits: S Jayaraman
+% Comments:
+%
+\printtitle
+#indian
+%
+
+bachapan kii yaad dhiire dhiire pyaar ban gayii
+aa dekh ek phulavaarii ab gulazaar ban gayii
+
+dil me.n mohabbat aayii javaanii ke saath saath
+merii dil kii nagarii pyaar kaa sa.nsaar ban gayii
+aa dekh ek phulavaarii \threedots
+
+duniyaa se jisako ham ne chhipaayaa thaa baar baar
+vo baat aake ho.nTho.n par iqaraar ban gayii
+aa dekh ek phulavaarii \threedots
+
+%
+#endindian
+\endsong
+%

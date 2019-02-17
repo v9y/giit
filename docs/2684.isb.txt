@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{o tiir chalaane vaale zaraa aa saamane aa kar tiir chalaa}%
+\film{Naghma}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+tiir chalaa tiir chalaa tiir chalaa
+
+o tiir chalaane vaale zaraa
+aa saamane aa kar tiir chalaa
+tiir chalaa tiir chalaa tiir chalaa
+tuune mujhe chhup kar luuT liyaa
+aa saamane aa kar tiir chalaa
+tiir chalaa tiir chalaa tiir chalaa
+
+dil to.Dane vaale khauf na khaa
+suurat to dikhaa, nazare.n to milaa
+ham bhii hai.n tere dil bhii hai teraa
+aa saamane aa kar tiir chalaa \threedots
+
+mai.n aur kahii.n tuu aur kahii.n
+ulfat kaa to ye dastuur nahii.n
+phir bhii tujhe dil detaa hai duaa
+aa saamane aa kar tiir chalaa \threedots
+
+%
+#endindian
+\endsong
+%

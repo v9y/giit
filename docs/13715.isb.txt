@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{jo bhii kasme.n khaa_ii.n thii.n hamane ... kyaa tumhe.n yaad hai}%
+\film{Raaz}%
+\year{2002}%
+\starring{Dino Maria, Bipasha basu, Sonali Kulkarni}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+% 
+%
+\printtitle
+#indian
+%
+jo bhii kasme.n khaa_ii.n thii.n ham ne
+vaadaa kiyaa thaa jo mil ke
+tuune hii jiivan me.n laayaa thaa mere saveraa
+kyaa tumhe.n yaad hai
+
+din vo ba.De hasiin the raate.n bhii khushanasiib thii.n
+tuune hii jiivan me.n \threedots
+
+jaage jaage rahate the kho_e kho_e rahate the
+karate the pyaar kii baate.n
+kabhii tanahaa_ii me.n kabhii puravaa_ii me.n
+hotii thii.n roz mulaakaate.n
+terii in baaho.n me.n terii panaaho.n me.n
+maine har lamhaa guzaaraa
+tere is chehare ko chaa.Nd sunahare ko
+maine to jigar me.n utaaraa
+kitane tere kariib thaa mai.n to teraa nasiib thaa
+ho.NTho.n pe rahataa thaa har vaqt bas naam teraa
+kyaa tumhe.n yaad hai
+haa.n mujhe yaad hai
+
+din ke ujaalo.n me.n Kvaabo.n khayaalo.n me.n
+maine tujhe pal pal dekhaa
+merii zi.ndagaanii tuu merii kahaanii tuu
+tuu hai mere haatho.n kii rekhaa
+maine tujhe chaahaa to apanaa banaayaa to
+tuune mujhe dil me.n basaayaa
+pyaar ke ra.ngo.n se bahakii uma.ngo.n se
+tuune meraa sapanaa sajaayaa
+tere labo.n ko chuum ke baaho.n me.n terii jhuum ke
+maine basaayaa thaa aa.Nkho.n me.n terii baseraa
+kyaa tumhe.n yaad hai
+haa.n mujhe yaad hai
+%
+#endindian
+\endsong

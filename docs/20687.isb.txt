@@ -1,0 +1,60 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{naa soe.nge naa sone de.nge}%
+\film{Mr. Romeo}%
+\year{1973}%
+\starring{}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Audio on: HMV
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 8 Mar 2005
+% Series: GEETanjali, THGHT
+% Comments: Credits: Saikat Choudhary
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+la: ( naa soe.nge naa sone de.nge ) 2
+     aaj saarii raat hogii mulaaqaat
+ki: savere baat kare.nge to nahii.n chalegaa
+la: aa haa.N chalegaa magar saarii raat meraa dil jalegaa
+     jalegaa re
+     naa soe.nge \.\.\.
+
+     pyaare pyaare ho.To.n se pyaare priitam ko pukaaraa hai
+     ho ho lambii kaalii raato.n kii zulfo.n ko mai.n ne sa.nwaaraa hai
+     laa laa \.\.\.
+     ye dil hai beqaraar 
+     kare.nge ham pyaar
+ki: savere pyaar kare.nge to nahii.n chalegaa
+la: chalegaa aa chalegaa magar raat bhar dil pe tiir chalegaa
+     naa soe.nge \.\.\.
+
+ki: chho.Do mat chhe.Do ke dekho pyaar kaa waqt hotaa hai
+la: ho ho premii jaag jaate hai saaraa jab zamaanaa ye sotaa hai
+ki: naa naa naa naa hu.n hu.n hu.n hu.n
+ki: Kudaa ke liye jaao
+la: zaraa saa muskuraao
+ki: savere muskuraae.nge to nahii.n chalegaa
+la: chalegaa aa chalegaa magar raat bhar dil me.n Gam palegaa
+     naa soe.nge \.\.\.
+
+
+     aa.nkho.n me.n basaa ho koii to kisi ko nii.nd aati hai
+     ho ho nii.nd kyaa hai taubaa aise me.n taubaa bhii TuuT jaatii hai
+     laa laa \.\.\.
+     ye aisii chaa.ndanii
+     naa aaegii kabhii
+ki: savere chaa.Nd dekhe.nge to nahii.n chalegaa
+la: chalegaa aa chalegaa magar raat bhar me.n ye chaa.Nd Dhalegaa
+     naa soe.nge \.\.\.
+
+%
+#endindian
+\endsong

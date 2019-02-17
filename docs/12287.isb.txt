@@ -1,0 +1,72 @@
+
+%
+\startsong
+\stitle{mai.n to dillii se dulahan laayaa re ai baabuu jii}%
+\film{Jhoola}%
+\year{1941}%
+\starring{Ashok Kumar, Leela Chitnis}%
+\singer{Arun Kumar, Rehmat Bano}%
+\music{Saraswati Devi}%
+\lyrics{Pradeep}%
+%
+% Contributor: BOL ANAMOL #11994 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	( mai.n to dillii se dulahan laayaa re
+	ai baabuu jii ) \-2
+ra \:	( meraa bamba_ii se baalam aayaa re
+	ai baabuu jii ) \-2
+a \:	mai.n to dillii se dulahan laayaa re
+	ai baabuu jii
+
+a \:	( biiwii merii naazuk
+ra \:	sajan alabelaa ) \-2
+do \:	naye zamaane ke majanuu\-o\-lailaa \-2
+	( sone me.n suhaagaa milaayaa re
+	ai baabuu jii ) \-2
+
+ra \:	baabuu jii mai.n huu.N saudaagar kii chhorii \-2
+	hoy sai.nyaa ne kar lii mere dhan kii chorii
+a \:	he.n chorii kaisii chorii
+ra \:	inane gupachup 
+	( inane gupachup meraa dil churaayaa re
+	ai baabuu jii ) \-2
+ra \:	meraa bamba_ii se baalam aayaa re
+	ai baabuu jii
+
+a \:	baabuu jii itanii araj suno morii \-2
+	are maine kal hii to dillii me.n
+	( isake baap kaa karajaa chukaayaa re
+	ai baabuu jii ) \-2
+
+ra \:	mere baap kaa naam na lenaa
+	jhuuTho.n ke saradaar
+	varanaa taanaa duu.Ngii
+	gaalii biis hazaar
+	dekho\-dekho jii
+	dekho\-dekho jii hazaar
+	hamako chhe.Do naa bekaar
+	( varanaa meraa bhii gussaa savaayaa re
+	ai baabuu jii ) \-2
+
+a \:	( pyaarii gu_iyaa.N aa_o aa_o
+	saarii baate.n bhul jaa_o ) \-2
+ra \:	bolo merii qasam
+a \:	haa.N haa.N
+ra \:	haa.N haa.N haa.N
+	bolo.n merii qasam
+a \:	haa.N haa.N
+	terii qasam
+	tere bhaa_ii kii qasam
+	terii ammaa kii qasam
+	tere baap kii qasam
+do \:	( aaj mausam salonaa aayaa re
+	ai baabuu jii ) \-2
+%
+#endindian
+\endsong
+

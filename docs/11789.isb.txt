@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{der se hu_aa par pyaar to hu_aa re}%
+\film{Hum Ho Gaye Aap Ke}%
+\year{2001}%
+\starring{Fardin Khan, Reema Sen, Apurva Agnihotri}%
+\singer{Alka Yagnik/ Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+der se hu_aa par pyaar to hu_aa re
+o dilarubaa tuune dil le liyaa re
+
+kyaa hai mohabbat ye mujhako bataayaa
+in dha.Dakano.n ko dha.Dakanaa sikhaayaa
+o bechainiyaa.n dii mere pyaase din ko
+raato.n ko tuune ta.Dapanaa sikhaayaa
+mushkil ba.Daa i.ntazaar hu_aa re
+o dilarubaa tuune \threedots
+
+aa.Nkho.n se nii.nde.n churaataa nahii.n thaa
+dard\-e\-jigar ko ba.Dhaataa nahii.n thaa
+ho tanhaa akelii thii ye zi.ndagaanii
+ko_ii khayaalo.n me.n aataa nahii.n thaa
+ye haal to pahalii baar hu_aa re
+o dilarubaa tuune \threedots
+%
+%Part 2:
+%
+der se hu_aa par pyaar to hu_aa re
+o dilarubaa tuune dil le liyaa re
+
+kyaa hai mohabbat ye mujhako bataayaa
+in dha.Dakano.n ko dha.Dakanaa sikhaayaa
+o bechainiyaa.n dii mere pyaase din ko
+raato.n ko tuune ta.Dapanaa sikhaayaa
+mushkil ba.Daa i.ntazaar hu_aa re
+o dilarubaa tuune \threedots
+
+mere khyaalo.n me.n aavaaragii thii
+chaahat me.n naa ko_ii diivaanagii thii
+ho kaagaz ke phuulo.n me.n khushbuu nahii.n thii
+viiraan khvaabo.n sii ye zi.ndagii thii
+mujhako teraa aitabaar hu_aa re
+o dilarubaa tuune \threedots
+%
+#endindian
+\endsong
+

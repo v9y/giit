@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{ye vaadaa hai ye meraa pyaar merii kasam hai}%
+\film{Raaju Chaachaa}%
+\year{2000}%
+\starring{Ajay Devgan, Kajol, Rishi Kapoor}%
+\singer{Kumar Sanu, Alka Yagnik, Ajay Devgan/ Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+aa aa
+huu.n huu.n kasam hai
+laa laa laa laa ye meraa pyaar merii kasam hai
+ye vaadaa hai ye meraa pyaar merii kasam hai
+kasam ye sanam na TuuTe
+kabhii zi.ndagii me.n na ye saath chhuuTe
+vo ho bevafaa jo mohabbat me.n ruuThe
+kaho naa
+ye vaadaa hai \threedots
+
+mohabbat kaa ye mausam yuu.n chhaa gayaa hai dilo.n me.n apane
+khil ga_e phuulo.n me.n ye tere aramaa.n ye mere sapane.n
+kahii.n aisaa na ho he ho he
+ye sapane.n ho.n jhuuThe he he he he
+vo ho bevafaa jo \threedots
+
+naam do hai.n apane ek jaa.n hai jaan liyaa hai
+naino kii Dorii se hamane tumako baa.ndh liyaa hai
+ye ba.ndhan hamaaraa na mar ke bhii TuuTe
+vo ho bevafaa jo \threedots
+%
+%Part 2:
+%
+ye vaadaa thaa ye teraa pyaar terii kasam thii
+vo vaade tere hai.n jhuuThe
+kahaa thaa tuune na ye saath chhuuTe
+vo ho bevafaa jo mohabbat me.n ruuThe
+
+aa zaraa tujhako ye aa.Nsuu dikhaa_uu.n apane
+merii aa.Nkho.n me.n the tere pyaar ke kuchh sapane
+magar tuune vo sapane bhii luuTe
+vo ho bevafaa jo mohabbat me.n ruuThe
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{pyaar kii raah dikhaa duniyaa ko roke jo nafarat}%
+\film{Lambe Haath}%
+\year{1960}%
+\starring{Mehmood, Naaz, Daisy, Jagdish Sethi, Naazii, Mridula, Moti (dog)}%
+\singer{Rafi}%
+\music{G S Kohli}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10186 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+pyaar kii raah dikhaa duniyaa ko roke jo nafarat kii aa.Ndhii
+tumame.n hii ko_ii gautam hogaa tumame.n hii ko_ii hogaa gaa.Ndhii
+pyaar kii raah dikhaa \threedots
+
+tum badaloge ulTii chaale.n biga.De hu_e zamaane kii \-2
+tum laa_oge bahaar vaapas is uja.De viiraane kii \-2
+dekh rahaa hai Kvaab zamaanaa murdaa chaa.Nd\-sitaaro.n ke
+fikr karo kuchh tum duniyaa kii ( biga.Dii baat banaane kii ) \-2
+pyaar kii raah dikhaa \threedots
+
+tumhe.n mohabbat karanii hai bhuukhe na.nge laachaaro.n se
+tumhe.n to hai i.nsaaf maa.nganaa zulm ke Thekedaaro.n se
+tumhe.n miTaane hai.n saare jhaga.De taKt aur taajo.n ke
+tumhe.n bachaanii haii ye duniyaa ( top tiir talavaaro.n se ) \-2
+pyaar kii raah dikhaa \threedots
+
+vaadaa karo ki tum naa tuufaano.n se ghabaraa_oge
+mehanat aur sachchaa_ii kii tum sadaa raah apanaa_oge
+na_ii zindagii na_ii Kushii kaa nayaa daur tum laa_oge
+phir apanii jaan bhii tum ( ik nayaa jahaan basaa_oge ) \-2
+pyaar kii raah dikhaa \threedots
+%
+#endindian
+\endsong
+

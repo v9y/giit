@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{o mere chhailaa pyaar ko tarase ye terii lailaa}%
+\film{Qeemat}%
+\year{1998}%
+\starring{Akshay Kumar, Saif, Raveena, Sonali, Shakti, Anupam, Moushumi}%
+\singer{}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o mere chhailaa pyaar ko tarase ye terii lailaa
+chho.D ye sharam tujhako hai kasam
+dil me.n hai.n aramaa.n garamaa garam
+o chhailaa \threedots
+
+aarazuu hai yahii tujhako mai.n kariib se dekhuu.n
+teraa ruup Tha.nDii dhuup Tha.nDii dhuup se aa.Nkhe.n sekuu.n
+pyaar tuu mujhase karataa hai saamane aa kyuu.n Darataa hai
+kar de ham par karam
+chho.D ye sharam \threedots
+
+jaise tum vaise ham apane jaisii duniyaa saarii
+mere yaar ye hai pyaar isame.n kyaa pardaa Daaluu.n
+siine pe sar rakh de.nge baaho.n me.n ham bhar le.nge
+pyaar ham kare.nge janam janam
+chho.D ye sharam \threedots
+
+o merii lailaa ##mood## me.n aa gayaa teraa chhailaa
+jaa_o naa sanam
+chho.D ke sharam \threedots
+%
+#endindian
+\endsong
+

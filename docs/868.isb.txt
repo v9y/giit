@@ -1,0 +1,36 @@
+% 
+\startsong
+\stitle{jigar kii aag se is dil ko jalataa dekhate jaao}%
+\film{Dopatta}%
+\year{1952}%
+\starring{Ajay Kumar, Noorjehan}%
+\singer{Noorjehan}%
+\music{Firoz Nizami}%
+\lyrics{Arsh Lucknowi}%
+% 
+% Contributor: Swapneel Mahajan (swapneel@cse.iitb.ernet.in)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Aug 20 1995
+% Credits: Snehal Oza (snehal@wipro.wipsys.soft.net)
+%          Urzung Khan
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+jigar kii aag se is dilako jalataa dekhate jaao
+luTii jaatii hai armaano.n kii duniyaa dekhate jaao
+
+lagii hai aag dil me.n aa.Nkh se aa.Nsuu barasate hai.n
+bharii barasaat me.n is ghar ko jalataa dekhate jaao
+
+isii din ke li_e bolo tumhe.n kyaa hamane chaahaa thaa
+ki ham barabaad ho.n aur tum tamaashaa dekhate jaao
+
+bahaa kar le chalii hai.n Gam kii mauje.n dil kii kashtii ko
+hamaare Duub jaane kaa nazaaraa dekhate jaao
+%
+#endindian
+\endsong
+%

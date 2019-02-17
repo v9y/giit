@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dekhanaa bhii to unhe.n duur se dekhaa karanaa}%
+\film{Parchhaiyan (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Hasrat Mohani}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+dekhanaa bhii to unhe.n duur se dekhaa karanaa
+shewaa\-e\-ishq nahii.n husn ko ruswaa karanaa
+
+ik nazar hii terii kaafii thii ki e raahat\-e\-jaa.N
+kuchh bhii dushwaar na thaa mujahko shaq\-e\-waa karanaa
+
+unako yaa.N aadate aa lene de ai abr\-e\-bahaar
+jis tarah chaahanaa phir baad me.n barasaa karanaa
+
+kuchh samajh me.n nahii.n aataa ki ye kyaa hai 'hasarat'
+unase mil kar bhii na izahaar\-e\-tamannaa karanaa
+
+#endindian
+\endsong

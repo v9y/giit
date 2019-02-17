@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ham chal rahe the, vo chal rahe the, magar duniyaavaalo.n ke dil}%
+\film{Duniya Na Maane}%
+\year{1959}%
+\starring{Pradeep Kumar, Mala Sinha}%
+\singer{Lata, Mukesh}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Ravi Kant Rai 
+% Transliterator:  
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu), Neha Desai
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ham chal rahe the, vo chal rahe the
+magar duniyaavaalo.n ke dil jal rahe the
+ham chal rahe the, vo chal rahe the
+magar duniyaavaalo.n ke dil jal rahe the
+ham chal rahe the
+
+vohii hai phizaaye.n vohii hai havaaye.n
+magar pyaar ki ab nahii vo adaaye.n
+vohii hai phizaaye.n vohii haihavaaye.n
+magar pyaar ki ab nahi vo adaaye.n
+bulaaye.n ham unako, magar vo na aaye.n
+ham chal rahe the, vo chal rahe the
+magar duniyaavaalo.n ke dil jal rahe the
+ham chal rahe the
+
+unhe.n bhulakar bhii, bhulaa naa sakU.ngaa
+jo dil me.n lagii hai bujhaa naa sakU.ngaa
+unhe.n bhulakar bhii, bhulaa naa sakU.ngaa
+jo dil me.n lagii hai bujhaa naa sakU.ngaa
+mai.n sapano.n kii duniyaa sajaa naa sakU.ngaa
+ham chal rahe the, vo chal rahe the
+magar duniyaavaalo.n ke dil jal rahe the
+ham chal rahe the
+%
+#endindian
+\endsong
+%

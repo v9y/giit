@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{are jaane vaale mujhe chho.D jaa tuu ... are jaan\-e\-jaa.n tuu}%
+\film{Saahibaan}%
+\year{1993}%
+\starring{Rishi, Madhuri, Sanjay Dutt, Sonu Walia, Bharat Kapoor}%
+\singer{Anuradha Paudwal}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are jaane vaale mujhe chho.D jaa tuu
+magar jaate jaate ye dil to.D jaa tuu
+are jaan\-e\-jaa.n tuu magar jaan\-e\-jaa.n tuu
+are jaan\-e\-jaa.n tuu \threedots
+
+samajh le tuu mere Gamo.n kii pahelii
+ke mai.n rah ga_ii huu.N bahut hii akelii
+nahii.n zi.ndagii to bhale maut ho vo
+kisii se to rishtaa meraa jo.D jaa tuu
+are jaan\-e\-jaa.n \threedots
+
+sadaa khush rahe tuu du_aa de rahii huu.N
+kha.Dii raaste me.n sadaa de rahii huu.N
+Thaharanaa zaraa aur meraa dil merii jaa.n
+meraa kuchh tuu vaapas mujhe mo.D jaa tuu
+are jaan\-e\-jaa.n \threedots
+%
+#endindian
+\endsong
+

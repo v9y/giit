@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{pyaar kar iqaraar kar izahaar kar inkaar kar}%
+\film{Humraaz}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel, Akshay Khanna}%
+\singer{Udit Narayan, Shaan, Kavita Subramaniam, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+pyaar kar iqaraar kar izahaar kar inkaar kar
+chaahe.n jo bhii de sazaa
+tujhe apanaa dil dene kaa hai mazaa
+pyaar kar \threedots
+
+jab ko_ii lagataa hai dil\-o\-jaan se pyaaraa
+us kaa nazare.n churaanaa nahii.n hotaa hai gavaaraa
+majabuur karataa hai pyaar
+ye dil kaa saudaa hai yaar
+ye dil kaa khel ajiib hai yaar
+jiit me.n kabhii hotii hai haar
+jiit ho yaa haar ho
+aar ho yaa paar ho
+chaahe.n jo bhii ho sazaa
+tujhe apanaa dil \threedots
+
+he he he he laa laa laa
+aitabaar hu_aa hai mujhe pyaar hu_aa hai
+ko_ii lage apanaa saa pahalii baar hu_aa hai
+paanaa hai ab to use chaahaa hai dil ne jise
+paa_egaa kaun kho_egaa kaun
+kis kaa nasiib kyaa jaanegaa kaun
+jo bhii ho nasiib me.n mahabuub ho qariib me.n
+chaahe.n jo ho rab kii razaa
+tujhe apanaa dil \threedots
+%
+#endindian
+\endsong
+

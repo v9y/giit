@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{beqadar bekhabar bevafaa baalamaa ... naa mai.n maaruu.ngii}%
+\film{Raam Lakhan}%
+\year{1989}%
+\starring{Anil Kapoor, Jackie Shrof, Dimple Kapadia, Madhuri Dixit}%
+\singer{Anuradha Paudwal, Manhar Udhas, Chorus}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+beqadar bekhabar bevafaa baalamaa
+naa mai.n maaruu.ngii naa mai.n tujhako chho.Duu.ngii
+aahistaa aahistaa ta.Dapaa ta.Dapaa ke o patthar dil mai.n tujhako to.Duu.ngii
+beqadar bekhabar \threedots
+
+tere saamane mere dushman dekh banuu.ngii aaj mai.n dulhan
+pahanuu.ngii shaadii kaa jo.Daa terii barbaadii kaa jo.Daa
+tere khuun me.n ra.ng ke mai.n laal chunariyaa o.Dhuu.ngii
+aahistaa aahistaa ta.Dapaa \threedots
+
+teraa ko_ii dharm nahii.n teraa ko_ii iimaan nahii.n
+achchhaa saajan kaise banegaa jo achchhaa insaan nahii.n
+tere naam se mai.n apanaa naam kabhii naa jo.Duu.ngii
+aahistaa aahistaa ta.Dapaa \threedots
+
+ek tujhe detii huu.N mauqaa jaa mujhako phir se de jaa dhokhaa
+dekhe.n log ye aa.Nkh michaulii jab tak chalatii hai ye golii
+banake terii maut mai.n tere piichhe dau.Duu.ngii
+aahistaa aahistaa ta.Dapaa \threedots
+%
+#endindian
+\endsong
+

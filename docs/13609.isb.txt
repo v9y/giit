@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{kahaa.N chhupe ho man ke ... ho saavan ke jhuule pa.De}%
+\film{Pyar Ki Pyas}%
+\year{1961}%
+\starring{Honey Irani, Shrikant, Nishi, Manmohan Krishan, Manorama, David}%
+\singer{Lata, Talat}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10393 [V S Rawat]
+% Transliterator: 
+% Comments: First colored film in Cenemascope
+% 
+\printtitle
+#indian
+%
+la \:	kahaa.N chhupe ho man ke mitavaa nainaa bha_e udaase
+	chhalak rahaa hai sukh kaa saagar ham pyaase ke pyaase
+
+	ho ho \-2
+	saavan ke jhuule pa.De \-2
+	sai.nyaa jii hame.n tum kahaa.N bhuule pa.De
+
+ta \:	ye nainaa jo tumase la.De gorii jii
+	torii palakan ke niiche kha.De
+la \:	saavan ke jhuule pa.De \threedots
+
+	tum nahii.n aa_e hamako bhuule
+	hamare a.Nganaa phulavaa na phuule
+	hamako akelii dekh sahelii
+	kahatii hai kyuu.N naa khilatii chamelii
+	belariyaa naa ma.nDave cha.Dhe to \-2
+	sai.nyaa jii hame.n tum \threedots
+ta \:	ye nainaa jo tumase \threedots
+la \:	saavan ke jhuule pa.De \threedots
+
+ta \:	tore dil me.n hamaraa dil hai
+	jaise tore nain me.n til hai
+	hamare milan bin ye manabhaavan
+	saavan bhii to kyaa hai saavan
+	piipal ke patave jha.De o \-2
+	ye tore\-more jab tak na nainaa la.De
+do \:	saavan ke jhuule pa.De \threedots
+%
+#endindian
+\endsong
+

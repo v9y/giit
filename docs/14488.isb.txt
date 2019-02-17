@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{dekho maane nahii.n ruuThii hasiinaa ... na jaane kyaa baat hai}%
+\film{Taxi Driver}%
+\year{1954}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Asha, Jagmohan Bakshi}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11941 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ja \:	o dekho maane nahii.n
+	( dekho maane nahii.n ruuThii hasiinaa
+	na jaane kyaa baat hai
+aa \:	aaye saajan ke mu.Nh pe pasiinaa
+	na jaane kyaa baat hai ) \-2
+
+ja \:	dir dir dir
+aa \:	Dar Dar Da Da
+
+ja \:	puuchho kis kaaran hu_ii ye la.Daa_ii
+aa \:	isakaa baalam hogaa harajaa_ii
+ja \:	o ho zaraa ruk jaaye.n sun le safaa_ii
+aa \:	kahatii hai gurii mai.n baaj aa_ii
+	maane nahii.n
+ja \:	o dekho maane nahii.n ruuThii hasiinaa
+	na jaane kyaa baat hai
+aa \:	ho o o
+	aaye saajan ke mu.Nh pe pasiinaa
+	na jaane kyaa baat hai
+
+ja \:	kaahe ko_ii utaraa hai dil se kisii ke
+aa \:	aayaa hogaa raat ko pii ke
+ja \:	kyaa kahaa pii ke
+aa \:	haa.N
+	aayaa hogaa raat ko pii ke
+ja \:	aise kaise biite.nge din zindagii ke
+aa \:	aahe.n bhar kar aa.Nsuu pii ke
+	maane nahii.n
+ja \:	o dekho maane nahii.n ruuThii hasiinaa
+	na jaane kyaa baat hai
+aa \:	aaye saajan ke mu.Nh pe pasiinaa
+	na jaane kyaa baat hai
+
+ja \:	dekho bechaaraa sajan rotaa hai
+aa \:	ab pachhataaye kyaa hotaa hai
+ja \:	mile.n dil\-dil se to pyaar khotaa hai
+aa \:	dil milanaa mushaqil hotaa hai
+	maane nahii.n
+ja \:	o dekho maane nahii.n ruuThii hasiinaa
+	na jaane kyaa baat hai
+aa \:	aaye saajan ke mu.Nh pe pasiinaa
+	na jaane kyaa baat hai
+ja \:	dekho maane nahii.n ruuThii hasiinaa
+	na jaane kyaa baat hai
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tum bin jiivan kaisaa jiivan, phuul khile to dil murajhaaye}%
+\film{Bawarchi}%
+\year{}%
+\starring{Rajesh Khanna, Jaya Bhaduri, Harindranath Chattopadhyay}%
+\singer{Manna De}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan <gopala@cs.wisc.edu>
+% Credits: C. S. Sudarshana Bhat <cesaa129@utacnvx.uta.edu>
+%          Preetham Gopalaswamy <preetham@src.umd.edu>
+%          Surajit Bose <bose.2@nd.edu>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%
+\printtitle
+#indian
+%
+tum bin jiivan kaisaa jiivan
+phuul khile to dil murajhaae
+aag lage jab barase saavan
+tum bin jiivan\threedots
+
+ruuThe tum jabase piyaa
+ruuThe tum jabase
+suunaa saa hai man kaa Dheraa
+bairii hai duniyaa
+baa.NTe koii kyuu.N dukh meraa
+apane aa.Nsuu apanaa hii daaman
+tum bin jiivan\threedots
+
+kaise dil bahale
+ha.Nsanaa chaahuu.N ronaa aaye
+Dhuu.NDhaa jag saaraa \- (2)
+kuchh na suujhe kuchh na bhaaye
+to.D gae tum man kaa darpan
+tum bin jiivan\threedots
+
+kaise samajhaauu.N
+guzarii kyaa kyaa biitii kyaa kyaa
+puuchhe yah duniyaa 
+kisake haatho.n yah dil TuuTaa
+haal huaa yah kisake kaaraN
+tum bin jiivan \threedots
+%
+#endindian
+\endsong
+%

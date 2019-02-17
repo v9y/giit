@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{mere yaaro.n khat aayaa hai ... yaar mai.n ##India## chalaa}%
+\film{Kitne Door Kitne Paas}%
+\year{2002}%
+\starring{Fardin Khan, Amrita Arora}%
+\singer{Sonu Nigam, Mohammed Aziz, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere yaaro.n khat aayaa hai
+ghar jaldii mujhe bulaayaa hai
+piipal kii Tha.nDii chhaa.Nv me.n
+ik la.Dakii mere gaa.nv me.n
+karatii hai meraa i.ntazaar
+yaar mai.n ##India## chalaa
+
+khat me.n likhaa hai aajaa kuchh kaam pa.D gayaa hai
+lekin nahii.n likhaa jo vo maine pa.Dh liyaa hai
+##O God! He is crazy.## o chhaDD yaar tuu agge bol
+logo.n se khabar ye sun lii hai
+merii maa.N ne la.Dakii chun lii hai
+##Oh no.##
+la.Dakii ne bhii haa.N kar dii hai
+mat puuchho merii kyaa marzii hai
+mai.n kabase huu.N taiyaar
+yaar mai.n ##India## chalaa \threedots
+
+kaajal lagaa rahii hai bi.ndiyaa lagaa rahii hai
+hai kitanii duur lekin ni.ndiyaa churaa rahii hai
+raa.njhe kii hiir ke jaisii hai
+gupachup tasviir ke jaisii hai
+naa maine usako dekhaa hai
+naa usane mujhako dekhaa hai
+bin dekhe ho gayaa pyaar
+yaar mai.n ##India## chalaa \threedots
+
+o des ko jaane vaale tuu ek kaam karanaa
+paradesiyo.n kaa jaa kar sabako salaam karanaa
+aa aa
+ye giit jo tuune gaayaa hai
+kuchh yaad hame.n bhii aayaa hai
+dil chaahe ham bhii ghar jaa_e.n
+parades me.n hii naa mar jaa_e.n
+jiivan kaa kyaa etabaar
+yaar tuu ##India## chalaa
+yaar mai.n ##India## chalaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaane kyaa Dhuu.NDhatii rahatii hai.n ye aa.Nkhe.n mujhame.n}%
+\film{Shola aur Shabnam}%
+\year{}%
+\starring{Dharmendra}%
+\singer{Rafi}%
+\music{Khaiyyam}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Shashi Kant Joshi (taken off soc.culture.indian) 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jaane kyaa Dhuu.NDhatii rahatii hai.n ye aa.Nkhe.n mujhame.n
+raakh ke Dher me.n sholaa hai na chi.ngaarii hai
+ab na vo pyaar na usakii yaade.n baakii
+aag yuu.N dil me.n lagii kuchh na rahaa kuchh na bachaa
+jisakii tasviir nigaaho.n me.n liye baiThaa ho
+mai.n vo diladaar nahii.n usakii huu.N khaamosh chitaa
+
+zi.ndagii ha.Ns ke na guzaratii to bahut achchhaa thaa
+khair ha.Ns ke na sahii ro ke guzar jaayegii
+raakh barabaad muhabbat kii bachaa rakhii hai.n
+baar\-baar isako jo chhe.Daa to bikhar jaayegii
+
+aarazuu jurma vafaa jurma tamannaa hai gunaaha
+ye vo duniyaa hai jahaa.N pyaar nahii.n ho sakataa
+kaise baazaar kaa dastuur tumhe.n samajhaauu.N
+bik gayaa jo vo khariidaar nahii.n ho sakataa \threedots
+%
+#endindian
+\endsong
+%

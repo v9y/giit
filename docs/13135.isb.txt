@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tumhii.n ne mujhako prem sikhaayaa}%
+\film{Manmohan}%
+\year{1936}%
+\starring{Miss Bibbo, Surendra, Yaqub, Ashalata, Ramchandra}%
+\singer{Surendra Nath, Bibbo}%
+\music{Ashok Ghosh/ Anil Biswas?}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12264 [V S Rawat], 23/01/2004
+%
+% kosh mentions Ashok Ghosh as M.D. of the film and mentions
+% Anil Biswas having said that he had composed this song.
+%
+\printtitle
+#indian
+%
+su \:	tumhii.n ne mujhako
+bi \:	mai.n a.ndar aa sakatii huu.N
+su \:	prem sikhaayaa
+
+	tumhii.n ne mujhako prem sikhaayaa
+	soye huye hiraday ko jagaayaa
+
+bi \:	mai.n kahatii huu.N mai.n a.ndar aa sakatii huu.N
+
+su \:	ek na_ii duniyaa me.n basaayaa
+bi \:	ek na_ii duniyaa me.n basaayaa
+su \:	mast banaayaa ruup dikhaayaa
+bi \:	mast banaayaa ruup dikhaayaa
+su \:	tumhii.n ho ruup\-si.ngaar baalam
+bi \:	tumhii.n ho ruup\-si.ngaar baalam
+do \:	tumhii.n ho ruup\-si.ngaar baalam
+	tumhii.n ho ruup\-si.ngaar
+
+	tumhii.n ne mujhako prem sikhaayaa
+	soye huye hiraday ko jagaayaa \-2
+%
+#endindian
+\endsong
+%
+

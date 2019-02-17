@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{saaz ho tum aavaaz huu.N mai.n, tum biinaa ho mai.n huu.N taar}%
+\film{Saaz Aur Awaz}%
+\year{1966}%
+\starring{Joy Mukherjee, Saira Bano, Kanhaiyyalal}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+sAz ho tum AvAz hU.N mai.n, tum bInA ho mai.n hU.N tAr
+rok sako to rok lo apanI, pAyal kI jha.nkAr
+sAz ho tum \threedots
+
+mere gIt ko gIt ne samajho, pyAr kI hai saragam
+mere rAg ke har ek sur pe, ghu.NgharU bole chham chham
+prIt kI lay par jhUm ke nAcho, ab na karo inakAr
+rok sako to rok lo apanI, pAyal kI jha.nkAr
+sAz ho tum \threedots
+
+prem tarAnA ra.ng pe AyA, rUp ne lI a.nga.DAI
+tAl pe man kI jhA.njhar jhanakI, patalI kamar balakhAI
+sudh\-budh khokar besudh hokar, nAch uThI gulanAr
+rok sako to rok lo apanI, pAyal kI jha.nkAr
+sAz ho tum \threedots
+
+tan man jhUme gagan to chUme, prIt huI matavAlI
+Aj milA jIvan se jIvan, pyAr ne ma.nzil pAI
+dil kI bAjI jIt ke mai.nne, jIt liyA sa.nsAr
+rok sako to rok lo apanI, pAyal kI jha.nkAr
+sAz ho tum \threedots
+%
+#endindian
+\endsong
+%

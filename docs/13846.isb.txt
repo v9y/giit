@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{yaar hamaarii baat suno aisaa ik insaan chuno}%
+\film{Roti}%
+\year{1974}%
+\starring{Rajesh Khanna, Mumtaz, Jagdip}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11244 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+yaar hamaarii baat suno aisaa ik insaan chuno
+jisane paap naa kiyaa ho jo paapii naa ho \-2
+
+ko_ii hai chaalaak aadamii ko_ii siidhaa\-saadaa \-2
+hamame.n se har ek hai paapii tho.Daa ko_ii zyaadaa
+ho ko_ii maan gayaa re ko_ii ruuTh gayaa
+ho ko_ii paka.Daa gayaa ko_ii chhuuT gayaa
+yaar hamaarii baat suno aisaa ik be_iimaan chuno
+ho jisane paap naa \threedots
+
+is paapan ko aaj sazaa de.nge milakar ham saare \-2
+lekin jo paapii na ho vo pahalaa patthar maare
+ho pahale apane man saaf karo re phir auro.n kaa insaaf karo
+yaar hamaarii baat suno aisaa ik naadaan chuno
+ho jisane paap naa \threedots
+%
+#endindian
+\endsong
+

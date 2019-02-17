@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tere dil ke paas meraa dil hai aaj meraa dil machal rahaa hai}%
+\film{Hindustaan Ki Qasam}%
+\year{1999}%
+\starring{Amitabh bachchan, Ajay Devgan, Manisha Koirala, Sushmita Sen}%
+\singer{Asha, Sonu Nigam}%
+\music{Sukhwinder Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere dil ke paas meraa dil hai aaj meraa dil machal rahaa hai
+haa.n merii jaa.n nikal rahii hai yaa ko_ii aramaa.n nikal rahaa hai
+haay haay tere dil ke paas \threedots
+
+dil chaahe aise me.n ik duuje ko thaam le.n
+tere dil ke paas \threedots
+
+yahaa.n husn bhii hai yahaa.n ishq bhii hai mahafil me.n kyaa nahii.n hai
+zaraa mu.D ke dekh ham jaisaa ek ko_ii duusaraa nahii.n hai
+are logo.n ke ho ho ho ho.nTho.n pe teraa meraa naam hai
+mai.n huu.n tere sa.ng mahafil kaa ra.ng palapal badal rahaa hai
+o merii jaa.n nikal rahii \threedots
+
+aa.Nkhe.n jhukaa ke baate.n dabaa ke ho.nTho.n ko sii rahe hai.n
+karade salaam chaahat ke jaam aa.Nkho.n se pii rahe hai.n
+haa haa haa dil de de haay dil le le duniyaa me.n rakhaa hai kyaa
+tere mere biich nahii.n aur ko_ii jaaduu saa chal rahaa hai
+merii jaa.n nikal rahii \threedots
+%
+#endindian
+\endsong
+

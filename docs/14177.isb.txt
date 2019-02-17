@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{mauj Kaamosh hai ... jaake laage nainaa wo paaye nahii.n chainaa}%
+\film{Shamaa Parawaanaa}%
+\year{1954}%
+\starring{Shammi Kapoor, Suraiya}%
+\singer{Suraiya, Asha, Chorus}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12591 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+mauj Kaamosh hai bahataa hu_aa dhaaraa Thaharaa
+subah se shaam hu_ii dil na hamaaraa Thaharaa
+
+aa
+ko \:	( o
+	jaake laage nainaa wo paaye nahii.n chainaa
+	nadiyaa kinaare wo guzaare din\-rainaa ) \-2
+
+su \:	saa.Ns jo aaye dil ko dukhaaye
+	ko_ii aise jiine ko kahaa.N se jigar laaye
+
+ko \:	o
+	jaake laage nainaa wo paaye nahii.n chainaa
+	nadiyaa kinaare wo guzaare din\-rainaa
+
+aa \:	gin\-gin lahare.n bitaaye din\-ratiyaa.N \-2
+	jaise\-jaise nadii bahe waise bahe.n a.Nkhiyaa.N \-2
+	aas jo aaye tuufaa.N uThaaye
+	ko_ii aise jiine ko kahaa.N se jigar laaye
+
+ko \:	o
+	jaake laage nainaa wo paaye nahii.n chainaa
+	nadiyaa kinaare wo guzaare din\-rainaa
+
+aa \:	piyaa se milan ko kinaare kha.De tarase \-2
+	kachhu na bataaye gorii duniyaa ke Dar se \-2
+su \:	aa.Nkh jhukaaye dard chhupaaye
+	ko_ii aise jiine ko kahaa.N se jigar laaye
+
+ko \:	( o
+	jaake laage nainaa wo paaye nahii.n chainaa
+	nadiyaa kinaare wo guzaare din\-rainaa ) \-2
+%
+#endindian
+\endsong
+%
+

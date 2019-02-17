@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{har taraf teraa jalavaa}%
+\film{Non-Film}%
+\year{1998}%
+\starring{}%
+\singer{Daler Mehandi}%
+\music{M Panwar}%
+\lyrics{Daler Mehandi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+har taraf teraa jalavaa
+
+ye havaa mahakii mahakii hai ye sabaa tere jaisii hai
+ye fizaa sun kyaa kahatii hai tuu mere dil me.n rahatii hai
+har taraf teraa jalavaa \threedots
+
+duniyaa to paagal hai duniyaa se kaun Dare
+tuu chaa.Nd sii gorii hai to kyuu.n naa pyaar kare
+apanaa fikar kise duniyaa kaa Dar kise
+sapano.n kii raanii jaraa sun sun sun sun
+har taraf teraa jalavaa \threedots
+
+tujhe ishq sikhaa de.nge teraa chain churaa le.nge
+tere ruup ke aashiq hai.n ye sabako bataa de.nge
+pyaar to karanaa hai had se guzaranaa hai
+merii ye kahaanii zaraa sun sun sun sun
+har taraf teraa jalavaa \threedots
+%
+#endindian
+\endsong
+

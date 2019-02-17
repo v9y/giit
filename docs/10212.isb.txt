@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{naa ko_ii dil me.n samaayaa naa ko_ii pahaluu me.n}%
+\film{Aa Gale Lag Jaa}%
+\year{1973}%
+\starring{Shashi Kapoor, Sharmila, Shatrughan Sinha, Master Tito}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10740 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+naa ko_ii dil me.n samaayaa naa ko_ii pahaluu me.n aayaa
+jaa ke bhii paas rahii.n tum hii
+aur jaan\-e\-jaa.N jaan\-e\-man
+jaanatii ho
+naa ko_ii dil me.n \threedots
+
+kyo.n tumane daaman churaayaa tum jaano.n mai.n kyaa bataa_uu.N
+mujhame.n hii kuchh aib hogaa kyo.n tum pe tohamat lagaa_uu.N
+mai.n to yahii.n kahuu.Ngaa puuchhogii jab bhii
+jaa ke bhii paas \threedots
+
+tum jo mujhe de ga_ii ho ik Kuubasuurat nishaanii
+lipaTaa ke siine se usako kaT jaa_egii zindagaanii
+mai.n to yahii.n kahuu.Ngaa puuchhogii jab bhii
+jaa ke bhii paas \threedots
+%
+#endindian
+\endsong
+

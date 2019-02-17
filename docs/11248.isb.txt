@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{zaalim zamaane ne itanaa sataayaa hai}%
+\film{Delhi Junction/ Dilli Junction}%
+\year{1960}%
+\starring{Ajit, Shakeela, Nishi}%
+\singer{Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10880 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+zaalim zamaane ne itanaa sataayaa hai
+rone lagii zindagii Gam muskuraayaa hai \-2
+zaalim zamaane ne \threedots
+
+phuuTii merii qismat TuuTe sabhii sapane \-2
+gairo.n se shiqavaa kyaa kare.n luuT ga_e apane
+apanaa jise samajhe usane miTaayaa hai
+rone lagii zindagii \threedots
+
+aa.Nsuu mere kab tak de.nge sahaaraa mujhe \-2
+tuu hii sahaaraa ai maut de ro\-ro pukaaraa tujhe
+jiine se bhii ab to jii ghabaraayaa hai
+rone lagii zindagii \threedots
+%
+#endindian
+\endsong
+

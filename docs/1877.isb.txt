@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{yaaraa siili siili birahaa kii raata kaa jalanaa}%
+\film{Lekin}%
+\year{1994}%
+\starring{Vinod Khanna, Dimple, Hema Malini, Amjad}%
+\singer{Lata}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+% 
+yaaraa siilI siilI birahaa kii raata kaa jalanaa
+yaaraa sIlI sIlI, yaaraa sIlI sIlI
+o yaaraa siilI siilI, Dolaa siilI siilI
+yaaraa siilI siilI birahaa kii raata kaa jalanaa
+
+ye bhii koii jiinaa hai.n, ye bhii koii jiinaa hai.n
+ye bhii koii maranaa
+yaaraa siilI siilI birahaa ke raata kaa jalanaa
+o yaaraa siilI siilI, Dolaa siilI siilI
+
+(TuuTe hue chuu.Diyo.n se jo.Duu.n ye kalAii mai.n
+pichhale galI me.n jaane kyaa chho.Da aaI mai.n ) \- 2
+biite galiyo.n se 
+bIte galiyo.n se, phira se guzaranaa
+o yaaraa siilI siilI, Dolaa siilI siilI
+yaaraa siilI siilI birahaa ke raata kaa jalanaa
+yaaraa siilI siilI, Dolaa siilI siilI
+
+(pairo.n me.n naa saayaa koii sara pe naa saaye re
+mere saatha jaaye naa merI parachhA.nI re ) \- 2
+baahara ujaa.Daa hai.n
+baahara ujaa.Daa hai.n, andara viiraanaa
+o yaaraa siilI siilI, Dolaa siilI siilI
+yaaraa siilI siilI birahaa ke raata kaa jalanaa
+yaaraa siilI siilI, Dolaa siilI siilI
+	
+yaaraa\threedots, Dolaa\threedots, yaaraa\threedots, DolA\threedots
+yaaraa\threedots, Dolaa\threedots
+%
+#endindian
+\endsong
+%

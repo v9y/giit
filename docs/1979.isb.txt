@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{zi.ndagii aa rahaa huu.N mai.n}%
+\film{Mashaal}%
+\year{}%
+\starring{Anil Kapoor, Rati Agnihotri, Dilip Kumar}%
+\singer{Kishore}%
+\music{Hridaynath}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Sunil Pulikkal (pulikkal@ecn.purdue.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+liye sapane nigAho.n me.n, chalA hU.N terI rAho.n me.n
+zi.ndagii aa rahA hU.N mai.n \- 2
+
+kaI yaado.n ke chehare hai.n, kaI kisse purAne hai.n
+terI sau dAstAne.n hai.n, tere kitane fasAne hai.n  \- 2
+magar ek vo kahAnI hai, jo ab mujhako sunAnI hai
+zindagI aa rahA hU.N mai.n 
+
+mere haatho.n kI garamI se, pighal jaaye.ngI za.njIre.n
+mere kadamo.n kI aahaT se, badal jaaye.ngI taqadIre.n \- 2
+ummIdo.n ke diye lekar, ye sab tere liye lekar
+zindagI aa rahA hU.N mai.n 
+
+kabhI tujhako gilA mujhase, kabhI mujhako shikAyat hai
+magar phir bhI tujhe merI, mujhe terI zarUrat hai \- 2
+mai.n ye iqaraar karatA hU.N, mai.n tujhase pyaar karatA hU.N
+zindagI aa rahA hU.N mai.n 
+%
+#endindian
+\endsong
+%

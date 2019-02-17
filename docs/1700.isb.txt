@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{tere sadake balam na kar koii Gam}%
+\film{Amar}%
+\year{}%
+\starring{Dilip Kumar, Madhubala, Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Samiuddin Mohammed (sm0e@lehigh.edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Sep  1 1995
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+tere sadake balam na kar koii Gam
+ye samaa ye jahaa.N phir kahaa.N
+ho, tere sadake balam na kar koii Gam
+
+din hai.n suhaane, phir kaun jaane aae na aae bahaar
+tuu Gam ko piile, dam bhar ko jiile, duniyaa kaa kyaa aaitabaar
+ho jii, piyaa, duniyaa kaa kyaa aitabaar
+tere sadake balam\threedots
+
+kaa.nTo.n me.n daaman ulajhe na saajan phuulo.n me.n ha.Nsake guzaar
+tho.Dii ha.Nsii hai, tho.Dii khushii hai, dukh zi.ndagii me.n hazaar
+ho jii, piyaa, dukh zi.ndagii me.n hazaar
+tere sadake balam\threedots
+
+naiyaa milan kii mauje.n pavan kii, kahatii hai.n mujhako pukaar
+gaataa chalaa chal, ha.Nsataa chalaa chal, jiivan kii nadiyaa ke paar
+ho jii, piyaa, jiivar kii nadiyaa ke paar
+tere sadake balam na kar koii Gam
+ye samaa ye jahaa.N phir kahaa.N
+
+%
+#endindian
+\endsong
+%

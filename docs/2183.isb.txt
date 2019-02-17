@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{paa.Nv pa.Duu.N tore shyaam}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Khaiyyam}%
+\lyrics{Madhukar Rajasthani}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+paa.Nv pa.Duu.N tore shyaam
+bR^ij me.n lauT chalo, lauT chalo
+paa.Nv pa.Duu.N tore shyaam
+bR^ij me.n lauT chalo   \threedots
+
+suunii kadam kii ThaNDii chha_iyyaa.N khoje dhun ba.nsii kii
+byaakul hoke bR^ij na Dubo de lahare.n jamunaajii kii
+lauT chalo, lauT chalo   \threedots
+
+duudh dahii se bharii maTakiyaa to.De kaun muraarii
+asuvan jal se bhare gagariyaa panaghaT pe panihaari
+lauT chalo, lauT chalo   \threedots
+
+bilakh rahii hai maat yashodaa nand_jii duHkh me.n khoye
+kuchh to soch are nim.rohii bR^ij kaa kaN kaN roye
+lauT chalo, lauT chalo   \threedots
+
+%
+#endindian
+\endsong
+%

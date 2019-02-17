@@ -1,0 +1,80 @@
+
+%
+\startsong
+\stitle{ye hai ##style## ... ##life## hai kyaa ek ##style##}%
+\film{style}%
+\year{2003}%
+\starring{Sahil Khan}%
+\singer{Abhijeet, KK}%
+\music{Sanjeev Darshan}%
+\lyrics{Tejpal Kaur}%
+%
+% Contributor: BOL ANAMOL #11718 [V S Rawat]
+% Producer & Director: N Chandra Productions, N Chandra 
+% Audio: Saregama India Ltd
+% Cassette: Cost: Rs 50/-, CD: 
+% 
+\printtitle
+#indian
+%
+ko \:	ru tu ru ru ru \-3
+a \:	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+	##style## hai ##style## sab kuchh ##style##
+	##life## hai kyaa ek ##style##
+
+	chaal me.n merii Gazab kaa ##style## hai
+	baalo.n kaa bhii kyaa ajab saa ##style## hai
+	lab pe jo ##smile## hai ye meraa ##style## hai
+	##yeah yeah yeah## he
+	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+
+	##speed## me.n ##bike## hai kyaa ##style## hai
+	kaalaa ye chashmaa haath me.n ##mobile## hai
+	aa.Nkh maar ke phir siiTii bajaanaa
+	##style## se tuu jaanii la.Dakii paTaanaa
+	yahii to ##o brother! style## ke khel hai.n
+	##style## se tuu khaa le ##bombay## bhel hai
+	##yeah yeah yeah## he
+	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+
+ke \:	##RAP##
+
+a \:	moTii ko pasand dekho ##mini frock## hai
+	patalii kaa ye ##parallel## haay kyaa ##joke## hai
+	he he haa haa haa
+	maathe kii laTo.n ko ye adaa se haTaanaa
+	oy hoy
+	chummaa dene kii ##style## me.n ##lipstick## lagaanaa
+	siine se ye lipaTii rahe kyaa ##file## hai
+	batakh ke jaise chalane kaa ye kyaa ##style## hai
+	##yeah yeah yeah## he
+	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+
+	##cool, cool, cool, baby! let us be cool.##
+	##this is my style, buddy! I wanna rule.##
+	maratii hai.n la.Dakiyaa.N mere pe pyaar se
+	he he he
+	lenaa naa dushmanii tuu mere yaar se
+	ye merii ##muscles## dekh ##side pose## se
+	das kilo kaa muqqaa hai ye dekh ##close## se
+	##yeah yeah yeah## ye
+	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+
+	chaal me.n merii Gazab kaa ##style## hai
+	baalo.n kaa bhii kyaa ajab saa ##style## hai
+do \:	lab pe jo ##smile## hai ye meraa ##style## hai
+	##style## hai
+	ye
+	ye hai ##style## \-2
+	##life## hai kyaa ek ##style##
+	##style## hai ##style## sab kuchh ##style##
+	##life## hai kyaa ek ##style##
+%
+#endindian
+\endsong
+

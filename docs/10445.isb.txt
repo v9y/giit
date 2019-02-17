@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{jiiwan se lambe hai.n bandhuu ye jiiwan ke raste}%
+\film{Aashirwad}%
+\year{1968}%
+\starring{Sanjeev Kumar, Sumita Sanyal, Ashok Kumar}%
+\singer{Manna Dey}%
+\music{Vasant Desai}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #12186 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+jiiwan se lambe hai.n bandhuu
+ye jiiwan ke raste \-2
+ik pal tham ke ronaa hogaa
+ik pal chalanaa ha.Ns ke
+ye jiiwan ke raste
+jiiwan se lambe hai.n bandhuu
+
+raaho.n se raahii kaa riishataa
+kitane janam puraanaa
+ek ko chalate jaanaa aage
+ek ko piichhe aanaa
+mo.D pe mat ruk jaanaa
+bandhuu
+doraaho.n me.n pha.Ns ke
+ye jiiwan ke raste
+jiiwan se lambe hai.n bandhuu
+
+din aur raat ke haatho.n naapii
+naapii ek umariyaa
+saa.Ns kii Dorii chhoTii pa.D ga_ii
+lambii aas Dagariyaa
+bhor ke manzil waale
+uTh kar
+bhor se pahale chalate
+ye jiiwan ke raste
+jiiwan se lambe hai.n bandhuu
+%
+#endindian
+\endsong
+

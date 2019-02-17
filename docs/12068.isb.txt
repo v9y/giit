@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{jaa.n kahaa.n hai tuu}%
+\film{Jungle}%
+\year{2000}%
+\starring{Fardin Khan, Urmila Matondkar, Sunil Shetty, Shushant Singh}%
+\singer{Kumar Sanu, Sunidhi Chauhan}%
+\music{Sandeep Chowtha}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaa.n kahaa.n hai tuu he jaa.n kahaa.n hai tuu
+tanhaa nahii.n kaTataa safar Dhuu.nDhe tujhe merii nazar
+mai.n yahaa.n mai.n yahaa.n mai.n yahaa.n
+jaa.n kahaa.n hai \threedots
+
+chaahato.n ke mahake gul khile
+kyaa hasiin hai.n ye silasile
+paagal kare diivaanagaii ab zor ko_ii naa chale
+jaa.n kahaa.n hai \threedots
+
+dekh naa mujhe yuu.n pyaar se Dar lage diivaanii umr se
+tuune mujhe ghaayal kiyaa kaajalo.n kii tiikhii dhaar se
+jaa.n kahaa.n hai \threedots
+%
+#endindian
+\endsong
+

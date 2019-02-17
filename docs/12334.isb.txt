@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{lapak jhapak jhapak lapak naach zaraa dhun pe merii}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Kamaal Khan, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Surya Bhanu Gupt}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##let's move##
+lapak jhapak jhapak lapak
+hoy lapak jhapak jhapak lapak
+naach zaraa dhun pe merii
+ha.Nsii khushii kii ye gha.Dii
+do dino.n kii zi.ndagii me.n
+aa_egii naa gha.Dii gha.Dii
+
+ik tuu hai mere li_e haa.N
+ik mai.n huu.N tere li_e
+lapak jhapak he jhapak lapak \threedots
+
+ye mastiyo.n kii umar dil se ye dil kaa safar
+aa_egaa tujhako mazaa khud se tuu baahar nikal
+he lapak jhapak saath mere haath me.n de de haath mere
+naach zaraa dhun pe merii \threedots
+
+milane milaane ke din haa.N ye ha.Nsane gaane ke din
+ye hai.n kisii ko sanam dil me.n basaane ke din
+lapak jhapak he jhapak lapak \threedots
+%
+#endindian
+\endsong
+

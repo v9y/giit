@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{bahaaro.n phuul barasaao, meraa mahabuub aayaa hai}%
+\film{Suraj}%
+\year{}%
+\starring{Rajendra Kumar, Vyjayantimala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bahaaro.n phuul barasaao
+meraa mahabuub aayaa hai \- (2)
+havaao.n raaginii gaao
+meraa mahabuub aayaa hai \- (2)
+
+o laalii phuul kii me.nha.Ndii lagaa in gore haatho.n me.n
+utar aa ai ghaTaa kaajal, lagaa in pyaarii aa.Nkho.n me.n
+sitaaro.n maa.Ng bhar jaao
+meraa mahabuub aayaa hai \- (2)
+
+nazaaro.n har taraf ab taan do ik nuur kii chaadar
+baDaa sharmiilaa dilabar hai, chalaa jaaye na sharamaa kar
+zaraa tum dil ko bahalaao
+meraa mahabuub aayaa hai \- (2)
+
+sajaaii hai javaa.N kaliyo.n ne ab ye sej ulfat kii
+inhe.n maaluum thaa aaegii ik din R^itu muhabbat kii
+fizaao.n ra.ng bikharaao
+meraa mahabuub aayaa hai \- (2)
+bahaaro.n \threedots
+%
+#endindian
+\endsong
+%

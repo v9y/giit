@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{raato.n ko jab bhii mai.n ... dil vich vich rukadaa}%
+\film{Badhaai Ho Badhaai}%
+\year{2002}%
+\starring{Anil Kapoor, Shilpa Shetty, Kirti Reddy, Amrish Puri, Kadar Khan}%
+\singer{Sonu Nigam, Anuradha Sriram, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Do you love me?##
+pa ni saa
+raato.n ko jab bhii mai.n sotaa thaa to mere khvaabo.n me.n
+pyaarii sii bholii sii ik la.Dakii kaa cheharaa thaa aataa
+dil ko thaa ta.Dapaataa
+a ra ra ra kyaa haal dil kaa kahuu.N
+dil vich vich chaladaa
+dil vich vich rukadaa
+tunak tunak dum dum dum dum tunak tunak dum
+dil vich vich \threedots
+
+maine usako dekhaa usane mujhako dekhaa
+mere to haatho.n me.n pyaar kii thii rekhaa
+lo pyaar ho bhii gayaa
+ham dono.n milate the khushiyo.n se khilate the
+miiThii sii baate.n thii mastii kii raate.n thii
+behoshii chhaa_ii thii madahoshii chhaa_ii thii
+a ra ra ra kyaa ra.ng thaa kyaa kahe.n
+dil vich vich \threedots
+
+ik din jo bichha.Dii to phir vo nahii.n aa_ii
+mere nasiib me.n aa_ii ye tanhaa_ii
+puuchhuu.N mai.n usakaa pataa
+dharatii se ambar se nadiyo.n se saagar se
+pe.Do.n se patto.n se parabat se rasto.n se
+laharo.n se saahil se apane hii is dil se
+a ra ra ra kyaa kho gayaa kyaa kahuu.N
+dil vich vich \threedots
+%
+#endindian
+\endsong
+

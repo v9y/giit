@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ba.Dii suunii suunii hai, zi.ndagii ye zi.ndagii}%
+\film{Mili}%
+\starring{Amitabh Bachchan, Jaya Bhaduri, Ashok Kumar}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Aniruddha B. Deglurkar (ani@ms.uky.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ba.Dii suunii suunii hai zi.ndagii ye zi.ndagii \- (2)
+mai.n khud se huu.N yahaa.N ajanabii ajanabii
+ba.Dii\threedots
+
+kabhii ek pal bhii, kahii.n ye udaasii
+dil meraa bhuule
+kabhii muskuraakar dabe paa.Nv aakar
+dukh mujhe chhuule
+na kar mujhase Gam mere, dillagii ye dillagii
+ba.Dii\threedots
+
+kabhii mai.n na soyaa, kahii.n mujhase khoyaa
+sukh meraa aise
+pataa naam likhakar, kahii.n yuu.Nhii rakhakar
+bhuule koii kaise
+ajab dukh bharii hai ye, bebasii bebasii
+ba.Dii\threedots
+%
+#endindian
+\endsong
+%

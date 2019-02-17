@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ek tamannaa jiivan kii ... chaahe.n shaadii ke din mar jaa_uu.n}%
+\film{Aankhen}%
+\year{1993}%
+\starring{Govinda, Raj Babbar}%
+\singer{Kumar Sanu, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ek tamannaa jiivan kii mai.n pyaar teraa hii paa_uu.n
+shaadii tujhii se ho merii chaahe.n shaadii ke din mar jaa_uu.n
+
+na tujhe jaanuu.n na pahachaanuu.n kyuu.n tuu gale pa.Dii hai
+samajh ke mujhako apanaa diivaanaa ghere hu_e kha.Dii hai
+teraa hii to thaa ye kahanaa tere bin mujhako nahii.n rahanaa
+teraa vaadaa iraadaa tujhako yaad dilaa_uu.n
+shaadii tujhii se ho merii \threedots
+
+hamaaraa dil jo to.D diyaa to hasii.n ye bhii kar jaa_iye
+hame.n yaad karegaa terii chaukhaT par mar ja_ive
+jo bhuulaa thaa yaad vo aayaa mai.n huu.N vahii jo tuune banaayaa
+na ho dukhii o chandramukhii chho.D ke kahii.n na jaa_uu.n
+shaadii tujhii se ho merii \threedots
+%
+#endindian
+\endsong
+

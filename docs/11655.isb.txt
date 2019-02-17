@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{jalane ke siwaa aur kyaa hai yahaa.N}%
+\film{Gajre}%
+\year{1948}%
+\starring{Suraiya, Motilal, Geeta Nizami}%
+\singer{Suraiya}%
+\music{Anil Biswas}%
+\lyrics{G S Nepali}%
+%
+% Contributor: BOL ANAMOL #11871 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+jalane ke siwaa aur kyaa hai yahaa.N
+chaahe dil ho kisii kaa yaa ho diyaa
+yaa ho diyaa
+jalane ke siwaa aur kyaa hai yahaa.N
+
+har raat diyaa jal\-jal ke bujhe \-2
+dil roz pukaare piyaa\-piyaa
+piyaa\-piyaa
+jalane ke siwaa aur kyaa hai yahaa.N
+
+bachapan se tumhii.n se priit lagii
+ab alag jawaanii biit rahii
+jab paas the tumako pyaar kiyaa \-2
+ab duur huye to tarase jiyaa \-2
+jalane ke siwaa aur kyaa hai yahaa.N
+
+hai rain ghirii par chain nahii.n \-2
+ye man hai kahii.n aur nain kahii.n \-2
+jabase tum bichha.D gaye hamane \-2
+phaagun me.n machalanaa chho.D diyaa
+jalane ke siwaa aur kyaa hai yahaa.N
+%
+#endindian
+\endsong
+

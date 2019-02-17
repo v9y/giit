@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{saudaagar, saudaagar, dil le le, dil dekar}%
+\film{Saudaagar}%
+\year{}%
+\starring{Manisha Koirala, Vivek Mushran}%
+\singer{Kavita Krishnamurthy, Manhar, Sukhvinder}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Aug  9 1995
+% Credits:  
+% Editor:  
+% Comments:  
+%
+\printtitle
+#indian
+%
+ka: tuu panchhii, paradesii, tuu jogii hai ke jaaduugar
+ma: iname.n se koii bhii nahii.n, mai.n sapano.n kaa saudaagar
+
+ka: saudaagar, saudaagar, dil le le, dil dekar
+   dil le le, dil dekar
+ma: soch samajh le, baad me.n na pachhataanaa ye kah kar
+   saudaagar, saudaagar, dil le le, dil dekar
+
+ma: haath kisii kaa vo paka.De jo chho.De jag saaraa
+   tuu uu.Nche mahalo.n\-vaalii, mai.n beghar ba.njaaraa
+ka: ek duuje ke dil me.n rahe.nge kyaa karanaa hai ghar
+   saudaagar, saudaagar, dil le le, dil dekar
+   dil le le, dil dekar
+
+ma: tere saath mai.n kaise, pyaar kaa vaadaa kar luu.N
+   aisaa koii vaadaa kar, mai.n tujhape bharosaa kar luu.N
+ka: jo chaahe likhavaale mujhase kore kaagaz par
+   saudaagar, saudaagar, dil le le, dil dekar
+   dil le le, dil dekar
+
+ma: dil to hai, par dilake armaan kahaa.N se laauu.N
+   Dolii, saharaa, ka.ngan, sab saamaan kahaa.N se laauu.N
+ka: tho.Daa saa sinduur kahii.N se le aa, bas jaakar
+   saudaagar, saudaagar, dil le le, dil dekar
+   dil le le, dil dekar
+
+ma: soch samajh le, baad me.n na pachhataanaa ye kah kar
+   saudaagar, saudaagar, dil le le, dil dekar
+%
+#endindian
+\endsong
+%

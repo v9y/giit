@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{chaahuu.n mai.n tuu mere paas ho}%
+\film{Taajmahal}%
+\year{2001}%
+\starring{Raghu Nair, Poornima}%
+\singer{Sunidhi Chauhan, KayKay}%
+\music{Santosh Nair}%
+\lyrics{Rahul B Seth}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa
+chaahuu.n mai.n tuu mere paas ho is pal yahaa.n mere ruu\-ba\-ruu
+ik pal bhii mere hamanashii.n bin tere mai.n rah naa sakuu.n
+hai tere diidaar kaa mujhape ye kaisaa junuu.n
+aa aa aa
+
+ab terii tasviir hii aa.Nkho.n me.n bas ke rah ga_ii
+bin tere hokar naamuqammil zi.ndagii ye rah ga_ii
+thaa merii kismat me.n kyuu.n tere bin jiinaa likhaa
+aa aa
+%
+#endindian
+\endsong
+

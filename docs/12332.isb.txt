@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mat ho udaas mai.n huu.N tere paas hameshaa hameshaa}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Shaan, Pamela Jain}%
+\music{Rajesh Roshan}%
+\lyrics{Surya Bhanu Gupt}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mat ho udaas mai.n huu.N tere paas
+hameshaa hameshaa hameshaa hameshaa
+na chhuuTegaa haath rahegaa ye saath
+hameshaa hameshaa hameshaa hameshaa
+
+tujhako mujhase ko_ii chhiin sakataa nahii.n 
+tujhako merii kasam kar le meraa yakii.n
+chhaa_e baadal to suuraj banaa le mujhe
+raat ho to diye saa jalaa le mujhe
+din ho ke raat mai.n huu.N tere saath 
+hameshaa hameshaa hameshaa hameshaa
+
+jaane kabase thii apane se bichha.Dii hu_ii
+tujhase milake sajan khud se mai.n phir milii
+hai bharosaa mujhe tuu na degaa dagaa
+maa.ng merii sajaa_egii terii vafaa
+nahii.n mai.n udaas jo na mere paas
+hameshaa hameshaa hameshaa hameshaa
+
+haatho.n me.n haath haatho.n me.n haath
+rahegaa ye saath rahegaa ye saath
+hameshaa hameshaa hameshaa hameshaa
+%
+#endindian
+\endsong
+

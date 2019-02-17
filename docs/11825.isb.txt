@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chaahat merii ra.ng laa_ii to mai.n paagal sii hone lagii}%
+\film{Hulchal}%
+\year{1995}%
+\starring{Vinod Khanna, Ajay Devgan, Kajol, Kader, Ronit Roy, Deven Verma}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	chaahat merii ra.ng laa_ii to \-2 mai.n paagal sii hone lagii
+ku \:	pahalii dafaa is dil me.n bhii halachal sii hone lagii \-2
+a \:	aake terii in baaho.n me.n \-2
+ku \:	tuu dulhan sii hone lagii
+a \:	pahalii dafaa is dil me.n \threedots
+
+a \:	kal bhii ye duniyaa nazaare li_e thii bahaaro.n kaa mausam bhii thaa
+ku \:	kal bhii sajaa thaa chaa.Nd gagan pe sitaaro.n ka aalam bhii thaa
+a \:	aaj phir kyuu.N sab kuchh nayaa lagane lagaa hai mujhe
+ku \:	aur paas aajaa o jaan\-e\-man jii bharake dekhuu.N tujhe
+a \:	tiir\-e\-nazar aisaa chalaa \-2 mai.n ghaayal sii hone lagii
+ku \:	pahalii dafaa is dil me.n \threedots
+
+	har baat dil kii kah dii hai tumase kuchh bhii chhipaayaa nahii.n
+a \:	saath rahoge kab tak mere ye to bataayaa nahii.n
+ku \:	saath saath rahanaa hame.n ab na judaa ho.nge ham
+a \:	jaan se bhii pyaarii lage terii vafaa o sanam
+ku \:	tere li_e ab zindagii \-2 mushkil sii hone lagii
+a \:	pahalii dafaa is dil me.n \threedots
+%
+#endindian
+\endsong
+

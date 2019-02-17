@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aa more sa.nvariyaa aa aa }%
+\film{Awara Paagal Deewana}%
+\year{2002}%
+\starring{Akshay Kumar, Sunil Shetty, Aftaab Shivdasani, Preeti Jhangiyani, Amrita Arora, Aarti Chhabaria}%
+\singer{Shaan, Sunidhi Chauhan, Annu Malik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+more sa.nvariyaa aa aa more sa.nvariyaa
+aa aa more more
+more sa.nvariyaa aa aa more sa.nvariyaa
+aa aa aa more sa.nvariyaa
+aa aa more sa.nvariyaa more sa.nvariyaa
+
+aa more sa.nvariyaa aa aa 
+aa more sa.nvariyaa aa
+mai.n huu.N akelii mushkil ba.Dii hai chaaro.n taraf khataraa
+
+ko_ii bachaa naa bachegaa ham se yahaa.N jaan\-e\-jaana
+kahataa hai ham ko jamaanaa aavaaraa paagal diivaanaa
+aa more sa.nvariyaa \threedots
+
+raate.n badal jaa_e.Ngii baate.n badal jaa_e.Ngii
+gha.Diyaa.N muhabbat bharii chaahat me.n Dhal jaa_e.Ngii
+chhaayaa nashaa hai dil kah rahaa hai mujh se nazar to milaa
+aa more sa.nvariyaa \threedots
+
+apane Thikaane pe hai bachane bachaane pe hai
+khatare me.n hai us kii jaa.n jo bhii nishaane pe hai
+baaho.n me.n le luu.N zulfo.n se kheluu.N Dar naa merii dilarubaa
+aa more sa.nvariyaa \threedots
+%
+#endindian
+\endsong
+

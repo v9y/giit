@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{parades jaa ke paradesiyaa bhuul na jaanaa piyaa}%
+\film{Arpan}%
+\year{1983}%
+\starring{Jeetendra, Parveen Babi, Reena Roy, Raj Babbar}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11629 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+parades jaa ke paradesiyaa bhuul na jaanaa piyaa \-2
+tan\-man kisii ne tujhe arpaN kiyaa
+parades jaa ke \threedots
+
+ik terii Kushii ke kaaraN ( laakh sahe dukh hamane o saajan ) \-2
+ha.Ns ke judaa_ii kaa zahar piyaa
+parades jaa ke \threedots
+
+dil me.n teraa pyaar basaayaa dil ko jaise rog lagaayaa
+saarii umar kaa dard liyaa
+parades jaa ke \threedots
+
+kab jaa_oge kab aa_oge kab aa_oge kab jaa_oge
+itane din hai kaun jiyaa
+parades jaa ke \threedots
+%
+#endindian
+\endsong
+

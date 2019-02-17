@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kahanaa hai aaj tujhase phir kisii se ye kahanaa nahii.n}%
+\film{Chori Chori}%
+\year{2002}%
+\starring{Ajay Devgan, Rani Mukerji, Sonali Bendre}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Sajid Wajid}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kahanaa hai aaj tujhase phir kisii se ye kahanaa nahii.n
+o rahanaa hai saath tere varanaa duniyaa me.n rahanaa nahii.n
+
+pyaar karate hamako jiinaa pyaar karate hamako maranaa
+Gam judaa_ii kaa sahanaa nahii.n
+ho o kahanaa hai aaj \threedots
+
+duniyaa se Daranaa nahii.n yaa pyaar karanaa nahii.n
+nazare.n churaa ke sanam hamako guzaranaa nahii.n
+Duubanaa hai saahilo.n par jhuumanaa hai ma.nzilo.n par
+yuu.N dariyaa me.n bahanaa nahii.n
+ho o kahanaa hai aaj \threedots
+
+mausam kii a.ng.Daa_iyaa.n duniyaa kii rusavaa_iyaa.n
+zi.ndagii ne phuul baa.NTe chun li_e hai.n hamane kaa.NTe
+haar phuulo.n kaa pahanaa nahii.n
+ho o kahanaa hai aaj \threedots
+%
+#endindian
+\endsong
+

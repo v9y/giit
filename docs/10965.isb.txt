@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n me.n intazaar kii duniyaa liye huye}%
+\film{Caravan}%
+\year{1944}%
+\starring{Arun, Kamla Chaterjee}%
+\singer{Zohra Bai}%
+\music{Bulo C Rani}%
+\lyrics{Munshi Aziz}%
+%
+% Contributor: BOL ANAMOL #12170 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+aa.Nkho.n me.n intazaar kii duniyaa liye huye \-2
+baiThii huu.N
+baiThii huu.N dil me.n terii tamannaa liye huye \-2
+aa.Nkho.n me.n intazaar kii duniyaa liye huye
+
+ban jaavo tum bahaar dil\-e\-naamuraad kii \-2
+aa jaavo zindagii kaa sahaaraa liye huye \-2
+
+baiThii huu.N dil me.n terii tamannaa liye huye
+aa.Nkho.n me.n intazaar kii duniyaa liye huye
+
+har simt Dhuu.NDhatii hai.n
+har simt Dhuu.NDhatii hai.n tumhii.n ko nigaah\-e\-zauk \-2
+pahaluu me.n apane dard tumhaaraa liye huye \-2
+
+baiThii huu.N dil me.n terii tamannaa liye huye
+aa.Nkho.n me.n intazaar kii duniyaa liye huye
+%
+#endindian
+\endsong
+

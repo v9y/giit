@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{aap yuu.N faasalo.n se guzarate rahe}%
+\film{Shankar Hussain}%
+\year{1977}%
+\starring{Madhuchanda, Kanwaljeet, Suhail, Madhumalini}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+% 
+% Contributor: Chetan Vinchhi <cvinchhi@telogy.com> 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu> 
+% Date: 07/27/1996
+% Credits: Sanjay Garg <sgarg@ecte.uswc.uswest.com>
+%          U.V. Ravindra <uvr@tata_elxsi.soft.net>
+%          Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor:  
+% Comments:  
+%
+\printtitle
+#indian
+%
+aap yuu.N faasalo.n se guzarate rahe
+dil se kadamo.n kii aavaaz aatii rahii
+aahaTo.n se a.ndhere chamakate rahe
+raat aatii rahii raat jaatii rahii
+
+ho, gunagunaatii rahii.n merii tanahaa_iyaa.N
+duur bajatii rahii.n kitanii shahanaa_iyaa.N
+zi.ndagii zi.ndagii ko bulaatii rahii
+aap yuu.N faasalo.n se guzarate rahe
+dil se kadamo.n kii aavaaz aatii rahii
+aap yuu.N\threedots
+
+kataraa kataraa pighalataa rahaa aasmaa.N \-2
+ruuh kii vaadiyo.n me.n na jaane kahaa.N
+ik nadii\threedots ik nadii dilarubaa giit gaatii rahii
+aap yuu.N faasalo.n se guzarate rahe
+dil se kadamo.n kii aavaaz aatii rahii
+aap yuu.N\threedots
+
+aap kii garm baaho.n me.n kho jaae.nge
+aap kii narm zaano.n pe so jaae.nge, so jaae.nge
+muddato.n raat nii.nde.n churaatii rahii
+aap yuu.N faasalo.n se guzarate rahe
+dil se kadamo.n kii aavaaz aatii rahii
+aap yuu.N\threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ye saaye hai.n, ye duniyaa hai, parachhaa_iyo.n kii}%
+\film{Sitara}%
+\year{}%
+\starring{Mithun, Zarina Wahab}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator:  Anurag Acharya (anurag.acharya@cs.cmu.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye saaye hai.n, ye duniyaa hai, parachhaa_iyo.n kii
+ye saaye hai.n, ye duniyaa hai
+bharI bhI.D me.n khAlI tanhAiyo.n kI ye sAye hai.n 
+ye duniyA hai 
+
+yahA.N koI sAhil sahArA nahI.n hai 
+kahi.n dUbane ko kinArA nahI.n hai 
+yahA.N koI sAhil sahArA nahI.n hai 
+yahA.N sArI raunak ye rusavAiyo.n kI 
+ye sAye hai, ye duniyA hai parachhAiyo.n kI 
+ye sAye hai, ye duniyA hai \threedots
+
+kaI chA.Nd uThakar jalAe bujhAe 
+bahut hamane chAhA zarA nI.nd Ae 
+kaI chA.Nd uThakar jalAe bujhAe 
+yahA.N raat hotI hai bezAriyo.n kI 
+ye sAye hai, ye duniyA hai parachhAiyo.n kI 
+ye sAye hai, ye duniyA hai \threedots
+
+yahA.N sAre chehare hai mA.Nge hue se 
+nigAho.n me.n A.NsU bhI Take hue se 
+yahA.N sAre chehare hai mA.Nge hue se 
+ba.DI nIchI rAhe.n hai U.NchAiyo.n kI 
+ye sAye hai, ye duniyA hai parachhAiyo.n kI 
+ye sAye hai, ye duniyA hai bharI bhI.D me.n khAlI tanhAiyo.n kI 
+ye sAye hai.n ye duniyA hai \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{aaj duniyaa ba.Dii suhaanii hai}%
+\film{Nartaki}%
+\year{1963}%
+\starring{Sunil Dutt, Nanda, Om Prakash}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11476 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aaj duniyaa ba.Dii suhaanii hai \-2
+kaisii ra.ngiin zindagaanii hai \-2
+aaj duniyaa ba.Dii \threedots
+
+jaane kyuu.N aaj dil me.n rah\-rah kar miiThe\-miiThe Kyaal aate hai.n
+jaane kyuu.N aaj mere ho.nTho.n par kuchh adhuure savaal aate hai.n
+ye haqiiqat hai yaa kahaanii hai \-2
+aaj duniyaa ba.Dii \threedots
+
+yuu.N nazar aa rahaa hai jaise ko_ii aaj mere qariib aataa ho
+aur dil kii hasiin raaho.n me.n zindagii ke di_e jalaataa ho
+jaane kisakii ye meharabaanii hai \-2
+aaj duniyaa ba.Dii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{sarakii jo sar se vo ... terii chunariyaa dil le ga_ii}%
+\film{Hello Brother}%
+\year{1999}%
+\starring{Salman Khan, Arbaaz Khan, Rani Mukherji}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laa laa laa
+sarakii jo sar se vo dhiire dhiire
+paagal hu_aa re mai.n dhiire dhiire
+terii chunariyaa dil le ga_ii
+sarakii jo sar se \threedots
+
+terii ye bi.ndiyaa dil le ga_ii
+
+tumase milakar ye jaanaa hai
+hotaa kyuu.n dil ye diivaanaa hai
+tay kar liyaa tumhe.n paanaa hai
+kyaa pyaar hai ye dikhaanaa hai
+mere bhole sanam mere pyaare sanam
+diivaane sanam anajaane sanam
+bole meraa ka.nganaa dhiire dhiire
+bole merii paayal dhiire dhiire
+o bole teraa ka.nganaa dhiire dhiire
+bole terii paayal dhiire dhiire
+terii chunariyaa \threedots
+
+teraa meraa janmo.n kaa naataa hai
+yuu.n hii nahii.n dil lubhaataa hai
+rishte ye rab hii banaataa hai
+karake bahaane milaataa hai
+merii yaado.n me.n tum merii baato.n me.n tum
+merii saa.Nso.n me.n tum merii raaho.n me.n tum
+bole merii dha.Dakan dhiire dhiire
+bole merii ta.Dapan dhiire dhiire
+o bole terii dha.Dakan dhiire dhiire
+bole terii ta.Dapan dhiire dhiire
+terii chunariyaa \threedots
+%
+#endindian
+\endsong
+

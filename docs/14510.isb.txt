@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{yaaro.n suurat hamaarii pe mat jaa_o}%
+\film{Ujaalaa}%
+\year{1959}%
+\starring{Shammi Kapoor, Mala Sinha, Rajkumar}%
+\singer{Mukesh, Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10877 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	yaaro.n suurat hamaarii pe mat jaa_o
+	yahaa.N bhii dil hai yuu.N hamase na kataraa_o
+mu \:	yaaro.n suurat hamaarii \threedots
+
+	ham bhii hai.n dil ke shaahajahaan
+ra \:	are pyaar pe sab kuchh hai qurbaan
+mu \:	zaraa sii hai Gariibii yahii hai kamanasiibii
+mu \:	zaraa sii hai Gariibii yahii hai kamanasiibii
+do \:	ki unase abhii na hu_ii pahachaan
+	yaaro.n suurat hamaarii \threedots
+
+ra \:	aapakii daulat zindaabaad
+mu \:	aapakii jebe.n zindaabaad
+ra \:	iimaan kii kahe.nge kahe.nge phir kahe.nge
+mu \:	iimaan kii kahe.nge kahe.nge phir kahe.nge
+do \:	ki peT ye paapii murdaabaad
+	yaaro.n suurat hamaarii \threedots
+
+mu \:	jaane kaisaa ye jahaan
+ra \:	jiinaa mushkil maut aasaan
+mu \:	ham phir bhii jii rahe hai.n zaKmo.n ko sii rahe hai.n
+ra \:	ham phir bhii jii rahe hai.n zaKmo.n ko sii rahe hai.n
+do \:	ye aap sabhii kaa hai ehasaan
+	yaaro.n suurat hamaarii \threedots
+%
+#endindian
+\endsong
+

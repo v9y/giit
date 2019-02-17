@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil diivaanaa kahataa hai ke pyaar kar}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil diivaanaa kahataa hai ke pyaar kar
+jaa kisii la.Dakii se aa.Nkhe.n chaar kar
+dil diivaanaa kahataa \threedots
+
+khulii zulfe.n bajii paayal nigaaho.n ne kiyaa ghaayal
+he dil diivaanaa kahataa \threedots
+
+nashe me.n zi.ndagii hai rago.n me.n bhii ravaanii hai
+ba.Dii paagal diivaanii hai javaanii to javaanii hai
+
+ko_ii khvaabo.n me.n aataa hai ko_ii nii.nde.n churaataa hai
+ko_ii cheharaa ko_ii jaaduu khyaalo.n ko sajaataa hai
+husn ke jalavo.n kaa tuu diidaar kar
+are jaa kisii la.Dakii se \threedots
+
+ko_ii majanuu.n ko_ii lailaa ko_ii chhamiyaa ko_ii chhailaa
+ko_ii nahalaa ko_ii dahalaa javaa.n ehasaas hai pahalaa
+ko_ii to paas aa_egaa ko_ii to dil churaa_egaa
+ko_ii to palako.n me.n rakh legaa ko_ii to muskuraa_egaa
+aashiqii me.n khud ko bekaraar kar
+are jaa kisii la.Dakii se \threedots
+%
+#endindian
+\endsong
+

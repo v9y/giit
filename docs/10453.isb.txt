@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{dil chhiin ke jaataa hai o mast nazar waale}%
+\film{Alibaaba}%
+\year{1940}%
+\starring{Surendra, Sardar Akhtar, Ghulam Mohammed, Wahidan}%
+\singer{Surendra, Wahidanbai}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: BOL ANAMOL #12270 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+su \:	dil chhiin ke jaataa hai \-2
+	( o mast nazar waale
+	kyuu.N aa.Nkh churaataa hai ) \-2
+
+	dil chhiin ke jaataa hai \-2
+	o mast nazar waale
+	kyuu.N aa.Nkh churaataa hai
+	dil chhiin ke jaataa hai
+
+wa \:	sharashaar\-e\-jawaanii huu.N \-2
+	( mai.n haath nahii.n lagatii
+	bahataa hu_aa paanii huu.N ) \-2
+	mai.n haath nahii.n lagatii
+
+su \: ( parawaanaa mai.n teraa huu.N
+	ai naaz\-o\-adaa waalii ) \-2
+	( diiwaanaa mai.n teraa huu.N
+	ai naaz\-o\-adaa waalii ) \-2
+	parawaanaa mai.n teraa huu.N
+	ai naaz\-o\-adaa waalii
+	parawaanaa mai.n teraa huu.N
+
+wa \:	tuu ho ko_ii diiwaanaa
+	ho o
+	tuu ho ko_ii diiwaanaa
+	kab shamaa ye kahatii hai
+	( kab shamaa ye kahatii hai
+	chaahe mujhe parawaanaa ) \-2
+	kab shamaa ye kahatii hai
+
+su \:	ab zulm na kar dilabar
+	( ab zulm na kar dilabar
+	kaash mai.n mar jaa_uu.N ) \-2
+	bas naam teraa le kar
+	kaash mai.n mar jaa_uu.N
+	bas naam teraa le kar
+%
+#endindian
+\endsong
+%
+

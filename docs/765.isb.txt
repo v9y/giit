@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{is bharii duniyaa me.n, koii bhii hamaaraa na huaa}%
+\film{Bharosaa}%
+\year{1963}%
+\starring{Guru Dutt, Asha Parekh, Mahmood, Shubha Khote}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+is bharii duniyaa me.n, koii bhii hamaaraa na huaa
+gair to gair hai.n, apano.n kaa sahaaraa na huaa
+
+log ro\-ro ke bhii is duniyaa me.n jii lete hai.n
+ek ham hai.n kii ha.nse bhii to guzaaraa na huaa
+
+ik muhabbat ke sivaa aur na kuchh maa.Ngaa thaa
+kyaa kare.n ye bhii zamaane ko ga.nvaaraa na huaa
+
+aasamaan jitane sitaare hai.n terii mahafil me.n
+apanii taqadiir kaa hii koii sitaaraa na huaa
+%
+#endindian
+\endsong
+%

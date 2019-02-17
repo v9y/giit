@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mohe chho.D gayo moraa saa.Nvariyaa}%
+\film{Taj}%
+\year{1956}%
+\starring{Pradeep Kumar}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+mohe chho.D gayo moraa saa.Nvariyaa
+merii aashaa chhuuT gayii
+
+aaj merii majabuur muhabbat ro-ro tumhe.n pukaare
+pyaar bharaa dil to.D ke saajan tum kit or sidhaare
+mukh mo.D gayo moraa saa.Nvariyaa
+merii aashaa chhuuT gayii
+
+kaun sune mere man kii batiyaa.N, ko_ii nahii.n meraa apanaa
+priit abhaagan aaj hu_ii ek adhuuraa sapanaa
+dil to.D gayo moraa saa.Nvariyaa
+merii aashaa chhuuT gayii
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+% 
+\startsong
+\stitle{jaanam ##I love you you love me##}%
+\film{Ye Dillagi}%
+\year{1994}%
+\starring{Saif Ali Khan, Kajol, Akshay Kumar}%
+\singer{Lata, Kumar Sanu}%
+\music{Dilip Sen-Sameer Sen}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Shanthi Pandit <SHANTHIPAN@aol.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+% Credits: Vishal Ailawadhi <vishal@ucla.edu>
+%          ss <ss@141.com>
+%
+\printtitle
+#indian
+%
+la: ho.NTho.n pe bas teraa naam hai tujhe chaahanaa meraa kaam hai	\- 2
+    tere pyaar me.n paagal huu.N mai.n subah\-o\-shaam
+    jaanam, ##I love you, you love me##
+ku: ho.NTho.n pe bas teraa naam hai tujhe chaahanaa meraa kaam hai	\- 2
+    tere pyaar me.n paagal huu.N mai.n subah\-o\-shaam
+    jaanam, ##I love you, you love me##
+    
+la: ye raat soii hai khoii\-khoii, aramaan mere hai.n jaage\-jaage
+    ye kyaa mujhako ho gayaa
+ku: zulfo.n ke saae chilaman banaae, aa mai.n diivaane inako haTaa duu.N
+    dekhuu.N teraa chaharaa
+la: diivaanagii kaa chaam hai, tuu ishq kaa iinaam hai
+ku: tere pyaar me.n paagal huu.N mai.n subah\-o\-shaam
+la: jaanam, ##I love you, you love me##
+ku: jaanam, ##I love you, you love me##
+    
+la: Tha.nDii havaae.n jaaduu jagaae.n, merii nigaahe.n hai.n pyaasii pyaasii
+    chhaane lagaa hai nashaa
+    ye gorii baahe.n tujhako bulaae.n aajaa miTaa duu.N duurii zaraa sii
+    ho na koii faasalaa
+la: dil kaa yahii paigaam hai, tuu chain hai aaraam hai
+ku: tere pyaar me.n paagal huu.N mai.n subah\-o\-shaam
+la: jaanam, ##I love you, you love me##
+ku: jaanam, ##I love you, you love me##
+    
+    ho.nTho.n pe bas teraa \threedots
+%
+#endindian
+\endsong
+%
+

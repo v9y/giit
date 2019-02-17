@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{raajaa kii kahaanii puraanii ho ga_ii}%
+\film{God Mother}%
+\year{1998}%
+\starring{Shabana Azami, Milind Gunaji, Nirmal Pandey}%
+\singer{Usha Uthup, Rekha, Kavita Subramaniam}%
+\music{Vishal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+daare raaraa daaruu raaraa daare raaraa daaruu ram
+raajaa kii kahaanii puraanii ho ga_ii
+bholii thii jo raanii sayaanii ho ga_ii
+ahaa
+raajaa kii kahaanii \threedots
+
+raajaa jii to ra.ngarelii karate hai.n ghar se baahar
+par chaahe.n ke raanii jhaa.Duu maare ghar ke a.ndar
+raajaa jii pa.Dane vaalii hai jhaa.Duu tumhaare sar par maar
+ba.De dino.n tumhaarii manamaanii ho ga_ii
+bholii thii jo raanii \threedots
+
+raajaa jii kahate to hai.n raanii ko jiivan saathii
+lekin samajhe.n raanii ko chyuu.nTii apane ko haathii
+raajaa jii vo din biite are raajaa jii vo din biite jab raanii ik abalaa thii
+haa.N abalaa raanii mahaaraanii ho ga_ii
+raajaa kii kahaanii \threedots
+
+he raajaa jii ye chaahe.n raanii maane unakii baat
+raat ko chaahe.n din kah de.n vo chaahe.n din ko raat
+he raajaa jii pa.Dane vaalii hai raanii kii ik laat
+raanii biga.Dii hai tuufaanii ho ga_ii
+raajaa kii kahaanii \threedots
+%
+#endindian
+\endsong
+

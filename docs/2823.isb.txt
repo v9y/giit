@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dil me.n kisii ke pyaar kaa jalataa huaa diyaa}%
+\film{Ek Mahal Ho Sapnon Ka}%
+\year{197?}%
+\starring{Dharmendra}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil me.n kisii ke pyaar kaa jalataa huaa diyaa
+duniyaa kii aa.Ndhiyo.n se bhalaa ye bujhegaa kyaa
+
+saa.Nso.n kii aa.Nch paa ke bha.Dakataa rahegaa ye
+siine me.n dil ke saath dha.Dakataa rahegaa ye
+dha.Dakataa rahegaa ye
+vo naqsh kyaa huaa jo miTaaye se miT gayaa
+vo dard kyaa huaa jo dabaaye se dab gayaa
+dil me.n kisii ke pyaar kaa \threedots
+
+ye zi.ndagii bhii kyaa hai amaanat unhii.n kii hai
+ye shaayarii bhii kyaa hai inaayat unhii.n kii hai
+inaayat unhii.n kii hai
+ab vo karam kare.n ki sitam un kaa faisalaa
+ham ne to dil me.n pyaar kaa sholaa jalaa liyaa
+dil me.n kisii ke pyaar kaa \threedots
+
+%
+#endindian
+\endsong
+%

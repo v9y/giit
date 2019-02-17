@@ -1,0 +1,68 @@
+%
+\startsong
+\stitle{aap kii khuubasuurat aa.Nkho.n me.n samaa sakataa huu.N?}%
+\film{Mahal}%
+\year{1969}%
+\starring{Dev, Asha Parekh, Farida Jalal}%
+\singer{Asha, Dev Anand}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dev: aap kii khuubasuurat aa.Nkho.n me.n samaa sakataa huu.N?
+kyaa mai.n andar aa sakataa huu.N?
+
+aashaa:  aa_iye aapakaa thaa hame.n intazaar \- 2
+aanaa thaa aa gaye, ##hm## \threedots kaise nahI.n aate sarakaar \- 2
+##hm## \threedots kaise nahI.n aate sarakaar
+aa_iye\threedots
+
+dev:  apanI mahafil me.n jise chaahe bulaa sakate hai.n aap
+ham bhalaa kyaa hai.n? sitaaro.n ko jhukaa sakate hai.n aap
+
+aashA:  (ha.NsI\threedots)
+ham naa kahate the nigaaho.n se khiche aae.nge aap \- 2
+raat bhar jaage.nge ta.Dape.nge machal jaae.nge aap
+(nI.nd nahI aaegI \- 2), aa.Nkh la.D jaegI
+hame yU.N naa Thukaraa_ie\threedots
+aa_iye\threedots
+
+(ha.NsI\threedots)
+aa_iye naa\threedots
+
+aa_iye aapakaa thaa hame intazaar
+aanaa thaa aa gaye, ho\threedots kaise nahI.n aate sarakaar
+aanaa thaa aa gaye, ##hm## \threedots kaise nahI.n aate sarakaar
+aa_iye\threedots
+
+dev:  mausam suhaanaa hai, dilakash zamaanaa hai
+phir bhI udaasI hai, ye raat pyaasI hai
+
+aasha:  hAy \threedots
+ek to ham tum akele phir samaa ye raat kaa \- 2
+dekhataa sunataa nahI.n koI hai Dar kis baat kaa
+aake zaraa baaho.n me.n \- 2
+basake nigaaho.n me.n
+dil zaraa dha.DakAiye
+aa_iye\threedots
+
+(ha.NsI\threedots)
+aa_iye naa\threedots
+
+aa_iye aapakaa thaa hame intazaar
+aanaa thaa aa gaye
+##hm## \threedots kaise nahI.n aate sarakaar
+aanaa thaa aa gaye
+he \threedots kaise nahI.n aate sarakaar
+aa_iye\threedots
+%
+#endindian
+\endsong
+%

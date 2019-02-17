@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aavaaraa huu.N, yaa gardish me.n huu.N aasamaan kaa taaraa huu.N}%
+\film{Aawaara}%
+\year{1951}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(aavaaraa huu.N, aavaaraa huu.N
+yaa gardish me.n huu.N aasamaan kaa taaraa huu.N ) \- 2
+aavaaraa huu.N, aavaaraa huu.N
+
+gharabaar nahii.n, sa.nsaar nahii.n
+mujhase kisIko pyaar nahii.n \- 2
+usapaar kisiise milane kaa iqaraar nahii.n
+mujhase kisIko pyaar nahii.n \- 2
+sunasaan nagar anjaan Dagar kaa pyaaraa huu.N
+aavaaraa huu.N, aavaaraa huu.N
+
+aabaad nahii.n barabaad sahii 
+gaataa huu.N khushiike gIt magar \- 2
+zakhmo.n se bharaa siinaa hai meraa
+ha.nsatii hai magar ye mast nazar
+duniyaa .a.a.a
+duniyaa me.n tere tiir kaa yaa takadiir kaa maaraa huu.N
+aavaaraa huu.N, aavaaraa huu.N 
+yaa gardish me.n huu.N aasamaan kaa taaraa huu.N
+aavaaraa huu.N, aavaaraa huu.N
+%
+#endindian
+\endsong
+%

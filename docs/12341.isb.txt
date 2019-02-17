@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Nd sitaare phuul khushbuu ... taazaa taazaa kalii khilii hai}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Kumar Sanu}%
+\music{Rajesh Roshan}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n huu.n huu.n huu.n huu.n huu.n huu.n
+chaa.Nd sitaare phuul khushbuu ye to saare puraane hai.n
+taazaa taazaa kalii khilii hai ham usake diivaane hai.n
+are kaalii ghaTaa_e.n barakhaa saavan ho
+kaalii ghaTaa_e.n barakhaa saavan ye to sab afasaane hai.n
+taazaa taazaa kalii \threedots
+
+a.ndaaz hai.n usake na_e na_e nayaa nayaa diivaanaapan o
+pahanaa hai taaz javaanii kaa ha.Ns ke lauT gayaa bachapan
+giit Gazal sab kal kii baate.n ho
+giit Gazal sab kal kii baate.n usake na_e taraane hai.n
+taazaa taazaa kalii \threedots
+
+hai ruup me.n itanaa saadaapan to kitanaa su.ndar hogaa man ho
+bin gahane aur si.ngaar binaa vo to lagatii hai dulhan
+kaajal bi.ndiyaa ka.ngan jhumake o
+kaajal bi.ndiyaa ka.ngan jhumake ye to guzare zamaane hai.n
+taazaa taazaa kalii \threedots
+%
+#endindian
+\endsong
+

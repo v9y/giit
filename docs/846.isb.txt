@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{jalataa hai badan, ho, ha_y! jalataa hai badan}%
+\film{Razia Sultan}%
+\year{1983}%
+\starring{Hema Malini, Dharmendra}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@myria.cs.umn.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jalataa hai badan
+ho \threedots hAy! jalataa hai badan
+pyaas bha.Dakii hai
+pyaas bha.Dakii hai sare shaam se jalataa hai badan \- 2
+ishq se kah do ki le aae kahii.n se saavan
+pyaas bha.Dakii hai sare shaam se jalataa hai badan
+jalataa hai badan \- 2
+
+jaane kab raat Dhale, subah tak kaun jale
+daur par daur chale, aao lag jaao gale
+aao lag jaao gale kam ho siine kI jalan
+pyaas bha.Dakii hai sare shaam se jalataa hai badan
+jalataa hai badan \- 3
+o aah! jalataa hai badan
+
+dekh jal jaae.nge ham, is tabassum kii kasam
+ab nikal jaayegaa dam, tere baaho.n me.n sanam
+dil pe rakh haath ki tham jaaye dil kI dha.Dakan
+pyaas bha.Dakii hai sare shaam se jalataa hai badan
+jalataa hai badan
+ishq se kah do ke le aaye kahii.n se saavan
+pyaas bha.Dakii hai sare shaam se jalataa hai badan
+jalataa hai badan \- 2
+o \threedots haay jalataa hai badan
+jalataa hai badan \threedots
+%
+#endindian
+\endsong
+%

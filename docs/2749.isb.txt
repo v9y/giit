@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{zi.ndagii phuulo.n kii nahii.n}%
+\film{Griha Pravesh}%
+\year{1979}%
+\starring{Sanjeev Kumar, Sharmila Tagore, Sarika}%
+\singer{Bhupinder}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor: Ashok Dhareshwar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+zi.ndagii phuulo.n kii nahii.n, phuulo.n kii tarah mahakii rahe
+zi.ndagii bhuulo.n kii nahii.n, phuulo.n kii tarah mahakii rahe
+zi.ndagii
+
+jab koii kahii.n gul khilataa hai, aavaaz nahii.n aatii lekin   \-2
+khushabuu kii khabar aa jaatii hai, khushabuu mahakii rahe
+zi.ndagii \threedots
+
+jab raah kahii.n koii mu.Datii hai, man.zil kaa pataa to hotaa nahii.n \-2
+ik raah pe raah mil jaatii hai, raahe.n mu.Datii rahe.n
+zi.ndagii \threedots
+
+%
+#endindian
+\endsong
+%

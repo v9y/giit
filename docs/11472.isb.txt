@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{gayaa gayaa dil jaane de}%
+\film{Fizaa}%
+\year{2000}%
+\starring{Hritik Roshan, Karisma, Jaya, Neha, Sushmita, Vikran Saluja}%
+\singer{Sonu Nigam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+o o o o
+gayaa gayaa dil jaane de
+kisii hasiinaa ko is dil me.n chorii chorii aane de
+
+us kaa cheharaa us kii zulfe.n us kaa tevar us kii aa.Nkhe.n
+us kaa jaaduu us kii mastii us kii khushbuu us kii baate.n
+dekhaa jo us ko dil meraa dha.Dakaa milane ko ta.Dapaa
+chupake se bolaa re bolaa re bolaa
+gayaa gayaa dil \threedots
+
+du_aa karo ki us kii baaho.n me.n biite har shaam
+yaaro.n mujh ko pataa nahii.n hai us la.Dakii kaa naam
+zaraa sii ##monica## zaraa sii ##Rebecca##
+zaraa sii ##Tina## zaraa sii miinaa
+dekhaa jo us ko dil meraa \threedots
+%
+#endindian
+\endsong
+

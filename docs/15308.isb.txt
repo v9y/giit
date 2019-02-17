@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{der lagii aane me.n tumako}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Andlib Shadani}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+der lagii aane me.n tumako shukr hai phir bhii aaye to
+aas ne dil kaa saath na chho.Daa tho.Daa ham ghabaraaye to
+
+shafaq dhanak mahataab ghaTaa_e.n taare naGme bijalii phuul
+us daaman me.n kyaa kyaa kuchh hai wo daaman haath me.n aaye to
+
+chaahat ke badale me.n ham to bech de.n apanii marzii tak
+ko_ii mile to dil kaa gaahar ko_ii hame.n apanaa_e to
+
+jhuuTh hai sab taariikh hameshaa apane ko doharaatii hai
+achchhaa meraa Kaab\-e\-jawaanii tho.Daa saa doharaa_e to
+
+#endindian
+\endsong

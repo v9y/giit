@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kahataa hai ye safar kahatii hai rahaguzar}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kahataa hai ye safar kahatii hai rahaguzar
+zamaane bhar ke Gam li_e ummiid dil me.n kam li_e
+tum chale ho kahaa.n
+kahataa hai ye safar \threedots
+
+dekhuu.n jahaa.n milataa nahii.n jazbaat kaa nishaan
+halkaa saa bhii nishaan
+begaane log hai.n anajaane log hai.n
+tamaam shahar me.n kahii.n milegaa pyaar hii nahii.n
+tum chale ho \threedots
+
+duniyaa me.n tum kab se ho gum kis raah se ho chale
+aakaash ke tale chalate rahe kam na hu_e ma.nzil ke faasale
+aise hai.n faasale
+raaho.n kii Thokar kahatii hai kyaa kare.n
+khulaa ko_ii bhii dar nahii.n
+kisii ke dil me.n ghar nahii.n
+tum chale ho \threedots
+%
+#endindian
+\endsong
+

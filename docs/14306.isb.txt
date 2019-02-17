@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{tasviir\-e\-yaar dil se ... ko_ii kisii kaa diiwaanaa naa bane}%
+\film{Sargam}%
+\year{1950}%
+\starring{Raj Kapoor, Rehana, Omprakash, David}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #11891 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+tasviir\-e\-yaar dil se miTaa_ii naa ga_ii
+aa.Nsu_o.n se aaG ye bujhaa_ii naa ga_ii
+phaa.Nh ban ke saa.Ns me.n aTakii hai unakii yaad
+laakh chaahaa bhuulanaa bhulaa_ii naa ga_ii
+
+ko_ii kisii kaa diiwaanaa naa bane \-2
+ho tiir\-e\-nazar kaa nishaanaa naa bane
+nishaanaa naa bane
+diiwaanaa naa bane
+ko_ii kisii kaa diiwaanaa naa bane
+
+aaG lage aisii aaG to haay
+jisake dekhe se ko_ii jal jaaye
+aisii shamaa kaa parawaanaa naa bane \-2
+ho tiir\-e\-nazar kaa nishaanaa naa bane
+ko_ii kisii kaa diiwaanaa naa bane
+
+dil lagaane ko samajhate the dillagii
+unako haatho.n de dii apanii zindagii
+duniyaa ke ha.Nsane kaa bahaanaa naa bane \-2
+ho tiir\-e\-nazar kaa nishaanaa naa bane
+ko_ii kisii kaa diiwaanaa naa bane
+diiwaanaa naa bane \-2
+ko_ii kisii kaa diiwaanaa naa bane
+%
+#endindian
+\endsong
+

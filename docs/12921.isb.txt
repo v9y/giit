@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{kaaTe nahii.n kaTate ye din ye raat ... lo aaj mai.n kahataa huu.N ##I love you##}%
+\film{Mr. India}%
+\year{1987}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Kishor, Alisha Chinai}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaaTe nahii.n kaTate ye din ye raat
+kahanii thii tumase jo dil kii baat
+lo aaj mai.n kahataa huu.N ##I love you##
+
+ko_ii nahii.n bas tum ho saath
+kahanii thii tumase jo dil kii baat
+lo aaj mai.n kahatii huu.N ##I love you##
+
+kaisii havaa hai 
+dhulii dhulii
+aaj fizaa hai.n
+khilii khilii
+saaraa nazaaraa
+nayaa nayaa
+dil ne pukaaraa
+piyaa piyaa
+tumane jo lii a.nga.Daa_ii hai phir baat vahii yaad aa_ii hai
+lo aaj mai.n kahataa \threedots
+
+##love you##
+mahakaa mahakaa
+teraa badan
+bahakaa bahakaa
+meraa ye man
+chhalakaa chhalakaa
+ruup teraa
+halkaa halkaa
+nashaa meraa
+jab aa hii ga_ii mai.n paas tere kah duu.n jo dil me.n hai mere
+lo aaj mai.n kahatii \threedots
+%
+#endindian
+\endsong
+

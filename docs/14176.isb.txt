@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{jaag devataa naag devataa ... janam diyaa jinako tumane}%
+\film{Shaalimaar}%
+\year{1978}%
+\starring{Dharmendra, Zeenat Aman}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10801 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ko \:	jaag devataa naag devataa
+ra \:	janam diyaa jinako tumane
+ko \:	jaag devataa naag devataa
+ra \:	janam diyaa jinako tumane kyo.n Das liyaa unako naag devataa
+ko \:	jaag devataa jaag devataa
+ra \:	janam diyaa jinako \threedots
+
+	dene vaale ko vaapas lene kaa kyaa haq hai \-2
+	vaapas lene vaale ko dene kaa kyaa haq hai \-2
+	baras rahaa hai aa.Nkh se paanii lagii hai dil me.n aag devataa
+ko \:	jaag devataa jaag devataa
+
+	paagal chhaatii piiT ke ro ke maatam karate hai.n
+	dobaaraa kab zindaaa hote hai.n jo marate hai.n
+	bujhe hu_e diipak na jale to kaisaa diipak raag devataa
+ko \:	jaag devataa jaag devataa \-2
+
+	bekaar hai ronaa insaano.n himmat se kaam lo diivaano.n
+	jo patthar hai kab khilataa hai insaaf kabhii yuu.N milataa hai
+	kyaa rakhaa hai in baato.n me.n taqadiir hai apane haatho.n me.n
+	ab to.D do jhuuThii rasmo.n ko sab baato.n ko sab qasamo.n ko
+	vo chiikh nahii.n thii naaraa thaa tumako bhagavaan pukaaraa thaa
+	is vaqt agar Dar jaa_oge vo mar gayaa tum mar jaa_oge
+	dekho uTho bhaago dau.Do za.njiir gulaamii kii to.Do \-4
+ko \:	jhi.ngaa lalaam hur hur
+%
+#endindian
+\endsong
+

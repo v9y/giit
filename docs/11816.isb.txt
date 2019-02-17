@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n tujhako bhagaa laayaa huu.N tere ghar se ... tere baap ke Dar se}%
+\film{Hero No.1}%
+\year{1997}%
+\starring{Govinda, Karisma, Kader, Paresh, Tiku, Satish Shah, Rakesh Bedi}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n tujhako bhagaa laayaa huu.N tere ghar se
+tere baap ke Dar se
+jaa_uu.ngaa duur leke tujhe sabakii nazar se
+tere baap ke Dar se
+
+mai.n sa.ng tere bhaag chalii mere ghar se
+mere baap ke Dar se
+jaa_uu.ngii duur leke tujhe sabakii nazar se
+mere baap ke Dar se
+
+zaalim hai sitamagar hai vo pyaar kaa dushman
+banane nahii.n degaa vo tujhako merii dulhan
+ham byaah rachaa_e.nge kahii.n duur shahar se
+mere baap ke Dar se \threedots
+
+le jaa_egaa kamare me.n kamare me.n hame.n ba.nd karegaa
+milanaa vo teraa meraa naapasa.nd karegaa
+dhak dhak sii dil me.n hotii hai aisii khabar se
+tere baap ke Dar se \threedots
+%
+#endindian
+\endsong
+

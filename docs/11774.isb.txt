@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ishq se kyaa lenaa aashiqii se ... ##hello brother##}%
+\film{Hello Brother}%
+\year{1999}%
+\starring{Salman Khan, Arbaaz Khan, Rani Mukherji}%
+\singer{Sonu Nigam, Jaspindar Narula, Kamaal Khan}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq se kyaa lenaa aashiqii se kyaa lenaa he
+maut se kyaa lenaa zi.ndagii se kyaa lenaa
+terii merii yaarii pe ha.Nsegii duniyaa saarii
+ho yaaraa terii yaarii pe qurbaan
+##hello brother brother##
+ishq se kyaa lenaa \threedots
+
+o soNaa soNaa yaar ko_ii dil ke li_e chaahiye
+chaahiye hamako chaahiye
+paT jaa_e ku.Dii ko_ii giit aisaa gaa_iye
+gaa_iye giit gaa_iye
+aa saaDDe naal ku.Diye tainuu.n mai.n pyaar de duu.n
+dil vich rakh luu.n chhupaa ke baaho.n kaa haar de duu.n
+terii merii yaarii pe \threedots
+
+paayaa teraa saath jab se badalii hai zi.ndagii
+zi.ndagii merii zi.ndagii
+chaahaa thaa jo mil gayaa mil ga_ii har khushii
+har khushii mujhako har khushii
+mai.n bhii khush huu.N isii me.n ke khush hai yaar meraa
+merii hai jaan usame.n jisame.n hai pyaar teraa
+o terii merii yaarii pe \threedots
+
+##What's up bro?##
+%
+#endindian
+\endsong
+

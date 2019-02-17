@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ishq kii zi.ndaa nishaanii hai ye}%
+\film{Taajmahal}%
+\year{2001}%
+\starring{Raghu Nair, Poornima}%
+\singer{Sunidhi Chauhan, KayKay}%
+\music{Santosh Nair}%
+\lyrics{Rahul B Seth}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ishq kii zi.ndaa nishaanii hai ye
+sadiyo.n puraanii kahaanii hai ye
+taajamahal kii baazabaanii hai ye
+kahaanii hai ye nishaanii hai ye
+ishq kii zi.ndaa \threedots
+
+dil se aake ik dil milaa
+allaah kaa karam hii to thaa
+ek duuje me.n hii paa liyaa
+un do dilo.n ne apanaa khudaa
+khushanumaa.n the dono.n jahaa.n
+kyaa zamiin kyaa aasamaa.n
+ishq kii zi.ndaa \threedots
+
+usakii aa.Nkho.n me.n vo nuur thaa
+bebas muhabbat me.n chuur thaa
+huur jaisii us mahazabii.n ke
+husn kaa hii ye qusuur thaa
+us mukaddas ishq kaa
+thaa gazab kaa silasilaa
+ishq kii zi.ndaa \threedots
+
+raah\-e\-ulfat me.n kahii.n
+ik hamasafar yuu.n bichha.D gayaa
+usane apanii bujhatii hu_ii
+roshan shamaa se vaadaa kiyaa
+intehaa me.n pyaar kii ik ajuubaa banaa diyaa
+%
+#endindian
+\endsong
+

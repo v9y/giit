@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{gaal gulaabii kisake hai.n nain sharaabii kisake hai.n}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Rafi}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10249 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+gaal gulaabii kisake hai.n nain sharaabii kisake hai.n
+baalo.n me.n kisake raat base dekh ke jisako subah ha.Nse
+bolo ( kaun ) \-6 shaqiilaa
+gaal gulaabii kisake hai.n \threedots
+
+la.mbii baahe.n kisakii hai.n tez niGaahe.n kisakii hai.n
+chuum ke jisako havaa chale dekh ke jisako chaa.Nd jale
+bolo ( kaun ) \-6 jamiilaa
+la.mbii baahe.n kisakii hai.n \threedots
+
+phuul barasate baato.n se dil ko luuTe ghaato.n se
+jo bijalii ko sharmaa_e dekh pasiinaa aa jaa_e
+bolo ( kaun ) \-6 liilaa
+phuul barasate baato.n se \threedots
+
+ra.ng damakataa kisakaa hai a.ng chamakataa kisakaa hai
+jalavaa jaaduu karataa hai shimalaa jis pe marataa hai
+bolo ( kaun ) \-6 shiilaa
+ra.ng damakataa kisakaa hai \threedots
+
+gaal gulaabii nain sharaabii la.mbii baahe.n tez niGaahe.n ra.ng damakataa
+bolo ( kaun ) \-6 soniyaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{Tapakaa re Tapakaa ik aur Tapakaa}%
+\film{Mahaanataa}%
+\year{1997}%
+\starring{Jeetendra, Sanjay Dutt, Madhuri, Shakti, Paresh, Amrish, Satyen}%
+\singer{Vinod Rathod}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+Tapakaa re Tapakaa ik aur Tapakaa
+do me.n se ek gayaa ek kaa ye maTakaa tiisaraa hai Tapakaa
+Dhi.ng Dhaatum DhiDhi.ng
+Tapakaa re Tapakaa \threedots
+
+ab teraa ##number## hai Dar naa jaanaa
+marane se pahale tuu mar naa jaanaa
+ho.nTho.n pe tere dam teraa aTakaa
+do me.n se ek gayaa \threedots
+
+chaar me.n se chaar ga_e pho.D do ye maTakaa
+chauthaa hai Tapakaa pho.D do ye maTakaa
+Tapakaa re Tapakaa \threedots
+
+chaaro.n ne apane yaaro.n ko maaraa
+yaaro.n ne milakar chaaro.n ko maaraa
+baakii rahaa naa ko_ii bhii khaTakaa
+chaar me.n se chaar ga_e \threedots
+%
+#endindian
+\endsong
+

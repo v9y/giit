@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tuu nii.ndo.n kii raanii aur mai.n pyaar kaa sapanaa}%
+\film{Honeymoon}%
+\year{1992}%
+\starring{Rishi, Varsha Usgaonkar, Ashwini Bhave, Mohnish, Girija Shanker}%
+\singer{Anuradha Paudwal, Udit Narayan, Chorus}%
+\music{Anand Milind}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu nii.ndo.n kii raanii aur mai.n pyaar kaa sapanaa
+chho.D ke mujhako jaanaa naa meraa jii nahii.n laganaa
+
+kabhii nii.ndo.n se judaa ho nahii.n sakataa sapanaa
+duniyaa apanii lagatii hai jab tuu ho gayaa apanaa
+
+terii komal javaanii ko kahii.n merii nazar naa lage
+merii du_aa hai laakho.n baras tuu solah baras kii banii rahe
+hotaa rahegaa janm janm ye milan apanaa
+duniyaa apanii lagatii hai \threedots
+
+ye barakhaa ye rimajhim rimajhim aur ye saath tumhaaraa
+khushii se ba.Dh ga_ii dha.Dakan merii ho gayaa dil aavaaraa
+gale lagaakar dekh zaraa mere dil kaa dha.Dakanaa
+chho.D ke mujhako jaanaa \threedots
+
+bolo to in gorii gorii baaho.n me.n so jaa_uu.N
+tere nayano.n kii nagarii me.n sajanaa mai.n kho jaa_uu.N
+mere pyaar ke dil ko tum zaraa pyaar se rakhanaa
+tuu nii.ndo.n kii raanii \threedots
+%
+#endindian
+\endsong
+

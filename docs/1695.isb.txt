@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tere mere sapane ab ek ra.ng hai.n}%
+\film{Guide}%
+\year{}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tere mere sapane ab ek ra.ng hai.n
+ho jahaa.N bhii le jaae.n raahe.n, ham sa.ng hai.n
+
+tere mere dil kaa, tay thaa ik din milanaa
+jaise bahaar aane par, tay hai phuul kaa khilanaa
+o mere jiivan saathii\threedots
+
+tere dukh ab mere, mere sukh ab tere
+tere ye do nainaa, chaa.nd aur suuraj mere
+o mere jiivan saathii\threedots
+
+laakh manaa le duniyaa, saath na ye chhuuTegaa
+aa ke mere haatho.n me.n, haath na ye chhuuTegaa
+o mere jiivan saathii\threedots
+%
+#endindian
+\endsong
+%

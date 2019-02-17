@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{adaa_e.n bhii hai.n muhabbat bhii hai ... mere mahabuub me.n}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+adaa_e.n bhii hai.n muhabbat bhii hai
+sharaafat bhii hai mere mahabuub me.n
+vo diivaanaapan vo zaalim adaa
+sharaafat bhii hai \threedots
+
+vo diivaanaapan vo maasuumiyat
+sharaarat bhii hai \threedots
+
+na puuchho meraa dil kahaa.n kho gayaa
+tujhe dekhate hii teraa ho gayaa
+aa.Nkho.n me.n tuu hai mere Kvaabo.n me.n tuu hai
+yaado.n ke mahake gulaabo.n me.n tuu hai
+vo sahamii nazar vo kamasin nazar
+chaahat bhii hai mere mahabuub me.n
+
+saa.Nso.n kii bahakii lahar ruk ga_ii
+mujhe sharm aa_ii nazar jhuk ga_ii
+ki ham unake kitane kariib aa ga_e
+the soch ke ham to ghabaraa ga_e
+vo baa.Nkapan vo diivaanagii
+inaayat bhii hai mere mahabuub me.n
+vo diivaanaapan vo zaalim adaa \threedots
+
+muhabbat kii duniyaa basaane chalaa
+mai.n tere li_e sab bhulaane chalaa
+Kushbuu ko_ii usakii baato.n me.n hai
+har faisalaa usake haatho.n me.n hai
+vo mahakaa badan vo sharmilaapan
+nazaakat bhii hai mere mahabuub me.n
+vo diivaanaapan vo zaalim adaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{kuchh aise ba.ndhan hote hai.n jo bin baa.Ndhe}%
+\film{Farishta Ya Qatil}%
+\year{1977}%
+\starring{Shashi Kapoor, Rekha, Premnath, Bindu, Johny Walker}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11267 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	( kuchh aise ) \-2 ba.ndhan hote hai.n jo bin baa.Ndhe ba.Ndh jaate hai.n
+mu \:	jo bin baa.Ndhe ba.Ndh jaate hai.n vo jiivan bhar ta.Dapaate hai.n
+	kuchh aise ba.ndhan \threedots
+la \:	kuchh aise ba.ndhan \threedots
+
+	jaane ye kaisaa naataa hai jo bin jo.De ju.D jaataa hai
+	ik din man kaa paagal pa.nchhii bin pa.nkh lage u.D jaataa hai
+mu \:	suuraj chhuune kii koshish me.n pa.nchhii ke par jal jaate hai.n
+	kuchh aise ba.ndhan \threedots
+la \:	kuchh aise ba.ndhan \threedots
+
+	jab pyaar kii tapatii raaho.n me.n do pyaase dil mil jaate hai.n
+	phir dhuup\-chhaa.Nv ban jaatii hai saa.Nso.n me.n phuul khil jaate hai.n
+mu \:	jaagii aa.Nkho.n ke ye sapane aksar man ko chhal jaate hai.n
+	kuchh aise ba.ndhan \threedots
+la \:	kuchh aise ba.ndhan \threedots
+%
+#endindian
+\endsong
+

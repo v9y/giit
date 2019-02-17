@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{bach ke balam kahaa.N jaa_oge}%
+\film{Nayaa Andaaz}%
+\year{1956}%
+\starring{Kishore Kumar, Meena Kumari}%
+\singer{Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10040 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bach ke balam kahaa.N jaa_oge
+hame.n tum piichhe piichhe paa_oge
+
+aaj to sai.nyaa moraa zamaanaa
+jaa_e na khaalii meraa nishaanaa
+maaruu.Ngii tirachhii najariyaa
+chho.Duu.N na tohe saa.Nvariyaa
+bach ke balam kahaa.N jaa_oge \threedots
+
+priit kajaraa nain me.n Dole
+man me.n javaanii khaa_e jhakole
+Thahare na sir pe chundariyaa
+chho.Duu.N na tohe \threedots
+
+jaa_oge kaise mo.D ke bai.nyaa
+tum se la.Duu.Ngii aaj mai.n sai.nyaa
+dekhegii saarii nagariyaa
+chho.Duu.N na tohe \threedots
+%
+#endindian
+\endsong
+

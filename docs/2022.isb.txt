@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ai chaa.Nd pyaar meraa tujhase ye kah rahaa hai}%
+\film{Khazana}%
+\year{1951}%
+\starring{Madhubala}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: January 5, 2000
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+ai chaa.Nd pyaar meraa tujhase ye kah rahaa hai
+tuu bevafaa na honaa
+tuu bevafaa na honaa, duniyaa to bevafaa hai
+ai chaa.Nd pyaar meraa   \threedots
+
+nikharegii chaudahavii.n ko jis dam terii javaanii
+miT jaayegii jahaa.N se us din merii kahaanii
+sab aasare to chhuuTe
+sab aasare to chhuuTe, ek teraa aasaraa hai
+ai chaa.Nd pyaar meraa   \threedots
+
+kii hai agar muhabbat tuune kabhii kisii se
+o aasamaa.N ke pyaare phir arz hai tujhii se
+puuraa kabhii na honaa
+puuraa kabhii na honaa ye merii iltajaa hai
+ai chaa.Nd pyaar meraa   \threedots
+
+%
+#endindian
+\endsong
+%

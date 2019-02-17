@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kaise kahe.n ham pyaar ne hamako kyaa kyaa khel dikhaaye}%
+\film{Sharmilee}%
+\starring{Shashi Kapoor, Raakhee}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Neeraj}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Ekkad, Srinath Varadarajan (sve6324@zeus.tamu.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+kaise kahe.n ham, pyaar ne hamako, kyA kyA khel dikhaaye 
+yuu.n sharamaa_ii, kismat hamase, khud se ham sharamaae 
+
+baago.n ko to patajha.D luuTe, luuTA hame.n bahaar ne 
+duniyA maratii maut se lekin, maaraa hamako pyaar ne 
+apanA vo haal hai.n bIch safar me.n jaise koI luT jaaye 
+kaise kahe.n ham pyaar ne hamako kyA kyA khel dikhaaye 
+
+tum kyA jaano, ##(laughs)##
+tum kyA jaano, kyA chaahaa thaa kyA lekar aaye ham 
+TuuTe sapane ghaayal nagame kuchh shole kuchh shabanam 
+itanaa sab hai paayaa hamane kaho to kahaa.NA jaaye
+kaise kahe.n ham pyaar ne hamako kyA kyA khel dikhaaye 
+
+aise baajii shahanaa_ii ghar me.n, ab tak so nA sake ham 
+apano.n ne hamako itanaa sataayaa, roye to ro nA sake ham 
+ab to karo kuchh aisA yaaro.n hosh nA hamako aaye
+kaise kahe.n ham pyaar ne hamako kyA kyA khel dikhaaye 
+yuu.n sharamaa_ii kismat hamase khud se ham 
+%
+#endindian
+\endsong
+%

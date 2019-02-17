@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{lauT gayaa Gam kaa zamaanaa}%
+\film{Naya Aadmi}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{Vishwanath-Ramamurthy}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Pritvhiraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+he: aa aa aa aa
+la: aa aa aa aa
+
+la: lauT gayaa Gam kaa zamaanaa
+    aa_ii khushii laharaatii
+    lauT gayaa Gam kaa zamaanaa
+he: lauT gayaa Gam kaa zamaanaa
+    aa_ii khushii laharaatii
+    lauT gayaa Gam kaa zamaanaa
+
+he: duur gagan me.n dekho chamake
+    aashaao.n ke taare aashaao.n ke taare
+    jhilamil pyaare pyaare
+la: badalii me.n chhupkar taaro.n ke sa.ng
+    cha.ndaa kare ishaare cha.ndaa kare ishaare
+do: kisakii lagan me aaj pavan hai.n
+    baago.n me.n iThalaatii
+
+    lauT gayaa Gam kaa zamaanaa
+    aa_ii khushii laharaatii
+    lauT gayaa Gam kaa zamaanaa
+
+la: raat nayii har baat nayii hai.n
+    nayaa nayaa hai zamaanaa
+    kaisaa samaa suhaanaa
+    kaisaa samaa suhaanaa
+he: gaaye cha.ndaniyaa dhiire dhiire
+    priit bharaa afasaanaa
+    priit bharaa afasaanaa
+la: aaj mere chhoTe se man me.n
+    aashaa hai musakaatii
+
+do: lauT gayaa Gam kaa zamaanaa
+    aa_ii khushii laharaatii
+    lauT gayaa Gam kaa zamaanaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ba.Dii der se meghaa barasaa ho raamaa}%
+\film{Namkeen}%
+\year{1982}%
+\starring{Shabana Azmi, Sharmila Tagore, Waheeda Rahman, Sanjeev Kumar, Kiran Vairale}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+
+% Contributor: V S Rawat, Aug 17, 2004
+
+\printtitle
+#indian
+
+( ba.Dii der se meghaa barasaa ho raamaa
+jalii.n kitanii ratiyaa.N ) \-2
+ba.Dii der se meghaa barasaa
+
+is pahaluu jhulasii to us pahaluu so_ii \-2
+saarii raat sulagii mai.n aayaa naa ko_ii
+haa.N
+baiThii rahii rakh ke hathelii pe do a.nkhiyaa.N \-2
+jalii.n kitanii ratiyaa.N
+( ba.Dii der se meghaa barasaa ho raamaa
+jalii.n kitanii ratiyaa.N ) \-2
+ba.Dii der se meghaa barasaa
+
+tho.Daa saa tej kabhii tho.Daa saa halkaa \-2
+rokaa naa jaaye mu_ii a.nkhiyo.n kaa Tapakaa
+haa.N
+jaagii rahii le ke hathelii pe bhiigii la.Diyaa.N \-2
+jalii.n kitanii ratiyaa.N
+( ba.Dii der se meghaa barasaa ho raamaa
+jalii.n kitanii ratiyaa.N ) \-2
+ba.Dii der se meghaa barasaa
+
+#endindian
+\endsong

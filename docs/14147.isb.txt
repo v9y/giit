@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{saajan ye mat jaaniyo ... piyaa kaise miluu.N tumase}%
+\film{Saarangaa}%
+\year{1960}%
+\starring{Sudesh Kumar, Jaishri Gadkar, Neelofar, B M Vyas, Niranjan Sharma}%
+\singer{Lata, Rafi}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10359 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	saajan ye mat jaaniyo
+	piyaa kaise miluu.N tumase mere paa.Nv pa.Dii za.njiir
+	hR^iday me.n agni sulage nainan se barase niir
+	mere paa.Nv pa.Dii za.njiir
+ra  \:	duniyaa se hai kyaa shikavaa merii ruuTh ga_ii taqadiir
+	laakh jatan kar haar gayaa suujhe na ko_ii tadabiir
+	merii ruuTh ga_ii taqadiir
+la \:	piyaa kaise miluu.N \threedots
+ra  \:	duniyaa se hai kyaa \threedots
+
+la \:	kaise duur karuu.N ye duurii samajh nahii.n mai.n paatii jii \-2
+	jo mai.n hotii ban kii chi.Diyaa pa.nkh lagaa u.D aatii
+	u.Dane lagii thii u.D na sakii qismat ne maaraa tiir
+	piyaa kaise miluu.N \threedots
+ra  \:	duniyaa se hai kyaa \threedots
+
+ra  \:	phuul mile kam kaa.NTe zyaadaa biij ye kaisaa boyaa jii o
+la  \:	maalik tere jag me.n jisane pyaar kiyaa vo royaa
+	aa.Nsuu ke ra.ngo.n me.n ra.ng Daalii pyaar kii ye tasviir
+la \:	piyaa kaise miluu.N \threedots
+ra  \:	duniyaa se hai kyaa \threedots
+%
+#endindian
+\endsong
+

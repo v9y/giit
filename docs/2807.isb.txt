@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{chorii chorii merii galii aanaa hai buraa}%
+\film{Jaal}%
+\year{}%
+\starring{Dev Anand, Gita Bali}%
+\singer{Lata, chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: SDB Series #28
+%
+\printtitle
+#indian
+%
+ 
+chorii chorii merii galii aanaa hai buraa
+- a_ig
+aa ke binaa baat kiye jaanaa hai buraa
+- a_ig!
+
+achchhe nahii.n ye ishaare
+pe.Do.n tale chhup\-chhupaake
+aao na do baate.n kar le.n
+nazaro.n se nazare milaa ke
+din hai.n pyaar ke, mauj bahaar ke
+dekho bhole bhaale dil ko ta.Dapaanaa hai buraa
+chorii chorii merii galii aanaa hai buraa \threedots
+
+dil aa gayaa hai to pyaare
+badanaam hone kaa Dar kyaa?
+ishq\-o\-vafaa kii galii me.n
+duniyaa ke Gam kaa guzar kyaa?
+din hai.n pyaar ke, mauj bahaar ke
+dekho bhole bhaale dil ko ta.Dapaanaa hai buraa
+chorii chorii merii galii aanaa hai buraa \threedots
+
+%
+#endindian
+\endsong
+%

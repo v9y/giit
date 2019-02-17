@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jaane na jaane na haay ye duniyaa jaane na dil kii lagii}%
+\film{Buzdil}%
+\year{1951}%
+\starring{Kishore Sahu, Nimmi, Premnath}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+jaane na, jaane na haay
+ye duniyaa jaane na dil kii lagii
+biga.Dii banaa_uu.N, kaise unako manaa_uu.N re
+ye duniyaa jaane na dil kii lagii
+haay raam, jaane na dil kii lagii
+
+dil me.n rahe wo mere
+dil kii na jaanii haay dil kii na jaanii
+kaa.NTo.n me.n ulajhii roye
+merii zi.ndagaanii roye merii jawaanii
+kaise ise sulajhaa_uu.N,
+mai.n kaise kaise ise sulajhaa_uu.N re
+ye duniyaa jaane na dil kii lagii
+haay raam, jaane na dil kii lagii
+
+saath\-sahaare chhuuTe
+aas ke taare TuuTe aas ke taare
+kaliyaa.N to khil na sakii.n
+dil se a.ngaare phuuTe dil se a.ngaare
+aag se aag bujhaa_uu.N
+bujhaa_uu.N kaise aag se aag bujhaa_uu.N re
+ye duniyaa jaane na dil kii lagii
+haay raam, jaane na dil kii lagii
+jaane na, jaane na haay
+ye duniyaa jaane na dil kii lagii
+
+#endindian
+\endsong

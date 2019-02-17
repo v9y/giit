@@ -1,0 +1,45 @@
+% 
+\startsong
+\stitle{shiishe se pii, yaa paimaane se pii}%
+\film{Phool Aur Patthar}%
+\year{1966}%
+\starring{Dharmendra, Meena Kumari, Shashikala}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: Achyut Joshi 
+% Transliterator: Achyut Joshi 
+% Credits: Uday Patel
+% Comments:
+%
+\printtitle 
+#indian 
+%
+
+(shiishe se pii, yaa paimaane se pii
+yaa merii aa.Nkho.n ke maiKaane se pii
+par pii diivaane, Kushii se jii diivaane) \-2
+shiishe se pii, yaa paimaane se pii
+
+(husn kha.Daa hai terii raaho.n me.n
+Daal de baahe.n zaraa baaho.n me.n) \-2
+raat suhaanii hai, bahakii javaanii
+pii le nigaaho.n hii nigaaho.n me.n
+
+(jaan le aa.Nkho.n ke ishaaro.n ko
+luuT le duniyaa kii bahaaro.n ko) \-2
+mai.n huu.N sanam terii
+tujhako qasam merii
+chhe.D le tuu bhii dil ke taaro.n ko
+
+(dekh ye gha.Dii phir naa aayegii
+zulfo.n kii ghaTaa phir naa chhaayegii
+baat samajh merii
+kal ye umar terii
+mausam kii tarah biit jaayegii
+
+%
+#endindian 
+\endsong 
+%

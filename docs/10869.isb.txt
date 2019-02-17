@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{aa jaa rii chaa.Ndanii hamaarii galii chaa.Nd leke}%
+\film{Chaand}%
+\year{1959}%
+\starring{Balraj Sahni, Pandari Bai, Meena Kumari}%
+\singer{Lata, Chorus}%
+\music{Hemant Kumar}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10220 [V S Rawat], Malini Kanth
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa jaa rii chaa.Ndanii
+aa jaa rii chaa.Ndanii hamaarii galii chaa.Nd leke aa jaa
+hamane nain bichhaa_e
+ko \:aa jaa
+baiThe lagan lagaa_e
+ko \:aa jaa
+ab to rahaa na jaa_e
+ko \:aa jaa
+
+## mukha.Daa repeats with Lata and chorus interchanging their
+lines ##
+
+jab jab mausam le a.nga.Daa_ii \-2
+bijalii chamakii badalii chhaa_ii \-2
+raam hii jaane kyaa hai baat nii.nd na aa_e saarii raat
+aa jaa rii chaa.Ndanii \threedots
+
+hamako pal\-chhin saa.Njh\-sakaare \-2
+chhup\-chhup jaane kaun pukaare \-2
+kar ke sapano.n me.n pahachaan aise na aayaa be_iimaan
+aa jaa rii chaa.Ndanii \threedots
+
+ik rut aa_e ik rut jaa_e \-2
+baalii umar ba.Daa dukh paa_e \-2
+na hamako nii.nd na unako chain naagin ban ga_ii kaalii rain
+aa jaa rii chaa.Ndanii \threedots
+%
+#endindian
+\endsong
+

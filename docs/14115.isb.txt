@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{bhiigaa\-bhiigaa pyaar kaa samaa.N bataa de tujhe jaanaa}%
+\film{Saawan}%
+\year{1959}%
+\starring{Bharat Bhushan, Ameeta, Jivan, Achala Sachdev, Helen, Tuntun, Leela Misra}%
+\singer{Rafi, Shamshad}%
+\music{Hansraj Behl}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10215 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	bhiigaa\-bhiigaa pyaar kaa samaa.N
+	bataa de tujhe jaanaa hai kahaa.N bali_e bataa de tujhe jaanaa hai kahaa.N
+sha \:	chaluu.Ngii tuu le chale jahaa.N
+	ki tere binaa jaanaa hai kahaa.N baliyaa ki tere binaa jaanaa hai kahaa.N
+
+ra \:	soch samajh le ba.Dii mushkil hai pyaar kii raaho.n me.n \-2
+sha \:	mujhe Dar kaisaa merii duniyaa hai piyaa terii baa.Nho.n me.n \-2
+	tum sa.ng jo.Dii priit kii Dorii mai.n to hu_ii terii sajanaa
+	ki tere binaa jaanaa hai \threedots
+
+ra \:	mu.D ke na dekhe.n kabhii dilavaale chho.Dii hu_ii ma.nzil ko \-2
+sha \:	chal hii di_e to rukanaa kaisaa ab jo ho so ho \-2
+	tuu hai merii kaayaa mai.n huu.N terii chhaayaa jahaa.N tuu hai mai.n bhii huu.N vahaa.N
+	ki tere binaa jaanaa hai \threedots
+do \:	bhiigaa\-bhiigaa pyaar kaa \threedots
+%
+#endindian
+\endsong
+

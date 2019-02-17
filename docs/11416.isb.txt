@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{a.nguuThii me.n nagiinaa iinaa ko mil ga_ii miinaa}%
+\film{Eenaa Meenaa Deekaa}%
+\year{1994}%
+\starring{Rishi, Vinod Khanna, Juhi, Kader, Shakti, Anupam, Gulshan, Mohnish}%
+\singer{Kumar Sanu, Poornima, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.nguuThii me.n nagiinaa iinaa ko mil ga_ii miinaa
+dil lene dil dene kaa ab aa_egaa mazaa
+kah do aaj zamaane se shamaa se paravaane se
+ab mushkil hogaa jiinaa iinaa ko mil ga_ii miinaa
+dil lene dil dene \threedots
+
+aa.Nkho.n me.n tere sapane hai.n lab pe taraanaa hai teraa
+aajaa khyaalo.n me.n basaa luu.n tuu to diivaanaa hai meraa
+dekhe.n tujhe hii merii nigaahe.n vo terii baate.n dil ko churaa le.n
+dha.Dakano.n me.n band kar luu.n duur ab jaa_e naa
+aayaa hai mast mahiinaa iinaa ko mil ga_ii miinaa
+dil lene dil dene \threedots
+
+baaho.n terii baahe.n biitegii zi.ndagii merii kaise bataa_uu.n jaan\-e\-jaanaa.n
+mujhako milii hai kyaa khushii
+yaado.n ke din hai.n khvaabo.n kii raate.n bhuule.ngii kaise yah mulaakaate.n
+ho ga_e hai.n ab puure aramaa.n rab se maa.nguu kyaa aa aa
+bin tere chain kahii.n na iinaa ko mil ga_ii miinaa
+dil lene dil dene \threedots
+%
+#endindian
+\endsong
+
+
+

@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{bhare hai.n aa.Nkh me.n aa.Nsuu}%
+\film{Sara Jahan Hamara}%
+\year{1961}%
+\starring{Premnath, Shyama, Heeralal, Rajeshwari, Azra, Jankidas}%
+\singer{Mukesh, Asha}%
+\music{Babul}%
+\lyrics{Anjum Jaipuri}%
+%
+% Contributor: BOL ANAMOL #10069 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	bhare hai.n aa.Nkh me.n aa.Nsuu Kushii kam hotii jaatii hai
+mu \:	vo kyaa bichha.De hai.n hamase zindagii kam hotii haatii hai
+
+	kahaa.N jaa_e.n kidhar jaa_e.n niGaaho.n me.n a.ndheraa hai
+	tamannaa zindagii kii ab to dil me.n sotii jaatii hai
+	bhare hai.n aa.Nkh me.n \threedots
+
+mu \:	muqaddar ban ke biga.Daa hai gilaa duniyaa se kyaa kiije
+aa \:	hamaaraa dil dha.Dakataa hai zaraa aavaaz to diije
+	tumhaaraa naam le le kar mohabbat rotii jaatii hai
+	bhare hai.n aa.Nkh me.n \threedots
+%
+#endindian
+\endsong
+

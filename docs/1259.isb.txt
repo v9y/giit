@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{muhabbat hai kyaa chiiz, ham ko bataao}%
+\film{Prem Rog}%
+\year{1982}%
+\starring{Rishi Kapoor, Padmini Kolhapuri}%
+\singer{Lata, Suresh Wadkar}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Santosh Anand}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar <anurag@astro.indiana.edu>
+% Credits: Satish Subramanian <submanan@cs.umn.edu>
+%	   Himanshu Gupta <himanshu.gupta@eng.sun.com>
+%          Vishal Ailawadhi <vishal@ucla.edu>
+%          Ashok Dhareshwar <ADhareshwar@worldbank.org>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: Released in 1982
+%
+\printtitle
+#indian
+%
+ye din kyo.n nikalatA hai, ye raat kyo.n hotI hai.n 
+ye pii.D kahaa.N se uThatii hai, ye A.Nkh kyo.n rotI hai
+
+(muhabbat hai kyA chIz \- 2, ham ko batAo 
+ye kisane shurU kI, kisane shurU kI, hame.n bhI sunAo ) \- 2
+muhabbat hai kyA chIz \- 2
+
+(bahakatA hai badan kaise, sulagatI hai.n ye saa.Nse.n kyo.n 
+ye kaise aag hotI hai, pighalatI hai ye shamA kyo.n ) \- 2
+
+jal uThI shamA to machal kar, parvAnA aa gayA 
+aag ke dAman me.n, apane Ap ko lipaTA diyA 
+hamane pUchhA dUsare kI, aag me.n rukA hai kyA  \- 2
+kuchh nA bolA, kuchh nA bolA, kuchh nA bolA apanI dhun me.n 
+bas yahI gAtA rahA 
+muhabbat hai kyA chIz \threedots
+
+ek din guzare jo ham, makade ke mo.D se 
+ek makash zarA ta, may se rishtA jo.D ke (?)
+hamane pUchhA kisI liyA tU, umar bhar bItA rahA \- 2
+kuchh nA bolA, kuchh nA bolA, kuchh nA bolA apanI dhun me.n 
+bas yahI gaatA rahA 
+muhabbat hai kyA chIz \threedots
+%
+#endindian
+\endsong
+%
+

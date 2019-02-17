@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{a.ntar ma.ntar ja.ntar se maidaan liyaa hai maar}%
+\film{Raajhath}%
+\year{1956}%
+\starring{Sohrab Modi, Pradeep Kumar, Madhubala}%
+\singer{Lata, Usha}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10839 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+a.ntar ma.ntar ja.ntar se maidaan liyaa hai maar
+haath me.n hai taqadiir kaa nak{}shaa ho gayaa be.Daa paar
+a.ntar ma.ntar ja.ntar \threedots
+
+jab aayaa daravaazaa pahalaa hamane use dhakelaa
+khulate hii daravaazaa dekhaa ujiyaaro.n kaa melaa
+raste me.n ik burzii dekhii dhokhaa dekhe vaalii
+us burzii ke paas ga_e to saamane dekhii jaalii
+chho.D ke burzii ba.Dhe aage ham bhii the hushiyaar
+a.ntar ma.ntar ja.ntar \threedots
+
+jab duujaa daravaazaa aayaa us par dekhaa taalaa
+akl kii chaabii lagaa ke hamane maze se kholaa taalaa
+phir dekhe chaubaare jin par thaa a.Ndhiyaaraa
+duur kahii.n par khi.Dakii chamakii jyuu.N badalii me.n taaraa
+aashaa_o.n ke diip jalaa_e ham bhii ho ga_e paar
+haath me.n hai taqadiir \threedots
+
+gairo.n ke mahal me.n pahu.Nche bhed churaakar laa_e
+sab daravaaze chor bane the choro.n se Takaraa_e
+chakkar ne sau chakkar Daale phir bhii naa ghabaraa_e
+jaise chal kar ham pahu.Nche the vaise vaapas aa_e
+apanii ma.nzil jiit ke aa_e naa maane ham haar
+haath me.n hai taqadiir \threedots
+%
+#endindian
+\endsong
+

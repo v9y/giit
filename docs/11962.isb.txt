@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{zaraa ruk jaa ai jaldii kyaa abhii pyaar mat karanaa}%
+\film{Isi Kaa Naam Zindagi}%
+\year{1992}%
+\starring{Aamir, Farha, Asrani, Beena, Tej Sapru, Bharat Kapoor, Babloo Mukherjii}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zaraa ruk jaa ai jaldii kyaa abhii pyaar mat karanaa
+sabar kaa phal hotaa miiThaa ye baat tum mat bhuulanaa
+achaanak dil se phuuTaa hai mere pyaar kaa jharanaa
+dil to dil hai karegaa ye jo bhii isako karanaa
+jharanaa kahe ye mujhase kahe ke tujhase duur rahuu.n
+dil pe nahii.n hai kaabuu meraa aakhir mai.n kyaa kahuu.n
+zaraa ruk jaa \threedots
+
+kaisaa sabar tujhe kyaa khabar meraa dil sulag rahaa
+isakii davaa hamaaraa milan ab to naa jaa_e sahaa
+zaraa ruk jaa \threedots
+
+mai.n huu.N teraa tuu hai merii karatii hai kyuu.n nakhare
+tuu kyaa jaane pyaar me.n hote bhed ba.De gahare
+zaraa ruk jaa \threedots
+%
+#endindian
+\endsong
+

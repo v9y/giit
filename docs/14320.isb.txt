@@ -1,0 +1,69 @@
+
+%
+\startsong
+\stitle{aa_ii hai diiwaalii sakhii aa_ii sakhii aa_ii re}%
+\film{Sheesh Mahal}%
+\year{1950}%
+\starring{Sohrab Modi, Naseem, Pushpa Hans, Nigar Sultana, Pran}%
+\singer{Shamshad, Geeta, Chorus}%
+\music{Vasant Desai}%
+\lyrics{Nazim Panipati}%
+%
+% Contributor: BOL ANAMOL #12060 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko \:	aa_ii re aa_ii re aa_ii re
+	chhaa_ii re chhaa_ii re chhaa_ii re
+
+sha \:	aa_ii hai diiwaalii \-2
+	sakhii aa_ii sakhii aa_ii re
+	aa_ii hai diiwaalii
+ko \:	aa_ii hai diiwaalii
+	sakhii aa_ii sakhii aa_ii re
+	aa_ii hai diiwaalii
+
+sha \:	aaj sakhii rii ujiyaaro.n ne
+	ghar\-ghar lii a.nga.Daa_ii re
+gii \:	aaj sakhii rii ujiyaaro.n ne
+	ghar\-ghar lii a.nga.Daa_ii re
+	aa_ii hai diiwaalii
+ko \:	aa_ii hai diiwaalii
+	sakhii aa_ii sakhii aa_ii re
+	aa_ii hai diiwaalii
+
+gii \:	diip jale hai.n galii\-galii me.n \-2
+ko \:	raate.n ra.ng\-ra.ngiilii
+gii \:	o o o
+	diip jale hai.n galii\-galii me.n
+	raate.n ra.ng\-ra.ngiilii
+ko \:	o raate.n ra.ng\-ra.ngiilii
+sha \:	mausam aayaa pyaaraa\-pyaaraa
+	rut aa_ii chamakiilii re
+	aa_ii hai diiwaalii
+ko \:	la la laa
+gii \:	aa haa haa haa haa
+	aa_ii hai
+	o aa_ii hai diiwaalii
+
+gii \:	o
+	ujiyaalo.n ko dekh\-dekh ke \-2
+	duur huye a.ndhiyaare
+ko \:	o duur huye a.ndhiyaare
+sha \:	naach\-naach tuu \-2
+	aaj sakhii rii
+	naach\-naach tuu
+	aaj sakhii rii
+	naach rahe hai.n saare re
+	aa_ii hai diiwaalii
+
+ko \:	( aa_ii hai diiwaalii
+	sakhii aa_ii sakhii aa_ii re
+	aa_ii hai diiwaalii ) \-2
+%
+#endindian
+\endsong
+

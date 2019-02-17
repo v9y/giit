@@ -1,0 +1,59 @@
+
+%
+\startsong
+\stitle{prabhuu jii mere avagun chit naa dharo}%
+\film{Kangan}%
+\year{1972}%
+\starring{Ashok Kumar, Mala Sinha, Sanjeev Kumar, Mehmood, Shyama, Aruna Irani}%
+\singer{Ashok Kumar, Chorus}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #12119 [V S Rawat]
+%
+\printtitle
+#indian
+%
+a \:	prabhuu jii mere avagun chit naa dharo
+ko \:	prabhuu jii mere avagun chit naa dharo
+a \:	samadarasii hai naam tumhaaro
+ko \:	samadarasii hai naam tumhaaro
+a \:	naam kii laaj karo
+ko \:	prabhuu jii mere avagun chit naa dharo \-2
+
+a \:	ek nadii ek naalaa kahaay
+	mail ho niir bharo
+ko \:	ek nadii ek naalaa kahaay
+	mail ho niir bharo
+a \:	gangaa me.n mil kar dono.n
+	gangaa naam paro
+ko \:	prabhuu jii mere avagun chit naa dharo \-2
+
+a \:	kaa.NTe aur kaliyaa.N dono.n se
+	madhuban rahe bharo
+ko \:	kaa.NTe aur kaliyaa.N dono.n se
+	madhuban rahe bharo
+a \:	maalii ek samaan hii sii.Nche
+	kar de sabako haro
+ko \:	prabhuu jii mere avagun chit naa dharo \-3
+
+a \: haa aa
+	madiraa piye chho.D gangaajal \-2
+	vyaakul man ho gayo hai paagal
+	man me.n rog garo
+	ho guru jii
+	man me.n rog garo
+	soor shyaam kii kR^ipaa binaa
+	soor shyaam kii kR^ipaa binaa
+	ko_ii jag me.n
+	naa sudharo naa sudharo naa sudharo
+ko \:	prabhuu jii mere avagun chit naa dharo
+	( prabhuu jii mere
+a \:	avagun chit naa dharo ) \-3
+	( naa dharo
+	avagun chit naa dharo ) \-2
+	chit naa dharo \-3
+%
+#endindian
+\endsong
+

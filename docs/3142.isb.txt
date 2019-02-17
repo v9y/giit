@@ -1,0 +1,43 @@
+% 
+\startsong 
+\stitle{mil mil ke bichha.D gaye nain}% 
+\film{Aaraam}% 
+\year{1951}% 
+\starring{Dev Anand,Madhubala}% 
+\singer{Lata}% 
+\music{Anil Biswas}% 
+\lyrics{Rajinder Krishan}% 
+% 
+% Contributor: Srinivas Ganti 
+% Transliterator: Hrishi Dixit 
+% Credits: 
+% Comments:LATAnjali 
+% Date:3 March,2001 
+% 
+\printtitle 
+#indian 
+% 
+
+mil mil ke bichha.D gaye nain \-2 
+gayaa sukh chain judaa_ii aa ga_ii 
+haay judaa_ii aa ga_ii 
+mil mil ke bichha.D gaye nain 
+
+( sajan se madhur milan kii raat 
+  huii ek sapane jaisii baat ) \-2 
+kare ab ro ro ke bechain 
+gayaa sukh chain judaa_ii aa ga_ii 
+haay judaa_ii aa ga_ii 
+mil mil ke \threedots 
+
+( qismat ne hamaaraa pyaar likhaa thaa 
+  jiivan me.n din chaar ) \-2 
+chhaa ga_ii Gam kii kaalii rain \-2 
+gayaa sukh chain judaa_ii aa ga_ii 
+haay judaa_ii aa ga_ii 
+mil mil ke \threedots 
+
+% 
+#endindian 
+\endsong 
+%

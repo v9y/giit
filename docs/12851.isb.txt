@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tum ab bhii ##beautiful## ho ... ##happy days are here again##}%
+\film{Mother '98}%
+\year{1998}%
+\starring{Rekha, Jeetendra, Randhir Kapoor, Sanober Kabir, Rakesh Roshan}%
+\singer{Sapana Mukherji, Hariharan, Roop Kumar Rathod}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##Wow.## tum ab bhii ##beautiful## ho tum ab bhii ##loveable## ho
+duniyaa kii hasiino.n me.n ab bhii ho tum ##one to ten.##
+##happy days are here again. happy days are here again.##
+tum ab bhii \threedots
+
+##happy days are here again. o yeah, yeah, here again.##
+kah rahaa dil meraa u.ngaliyaa.n chuum luu.n
+aa yahaa.n jaan\-e\-jaa.n ho.nTho.n kii laalii churaane to de
+haa.n dekhate hii tujhe kyaa nashaa chhaa gayaa
+kyaa mujhe ho gayaa mastii sii chhaane lagii hai sanam
+tum ab bhii ##love symbol## ho ##Oh yeah.##
+tum ab bhii ##loveable## ho aaho
+duniyaa kii hasiino.n \threedots
+
+aag se bhii garam shabanamii ye badan
+jo tujhe ##touch## kiyaa sholaa saa dil me.n bha.Dakane lagaa
+aakar bujhaa ye jalan kah rahii.n garamiyaa.n
+faasale kisali_e siine se aa ke lagaa le mujhe
+tum ab bhii ##sweet simple## ho
+tum ab bhii ##loveable## ho
+duniyaa kii hasiino.n \threedots
+
+bijaliyaa.n gir pa.De.n dekh lo tum jidhar
+kyaa nazar kyaa kamar baaho.n me.n jaanam tuu aajaa aa jaa
+ho aapane jo kahaa aapakaa shukriyaa
+aapake pyaar kaa ye to asar hai merii jaan\-e\-jaa.n
+tum ab bhii ##sholh gazal## ho
+tum ab bhii ##loveable## ho
+duniyaa kii hasiino.n \threedots
+%
+#endindian
+\endsong
+

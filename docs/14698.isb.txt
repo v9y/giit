@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pahalii pahalii baar jaagaa hai}%
+\film{zor}%
+\year{1998}%
+\starring{Sunny, Sushmita, Milind Gunaji, Om Puri, Anupam, Farida, Dina Pathak}%
+\singer{?, Vinod Rathod}%
+\music{Agosh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahalii pahalii baar jaagaa hai pahalaa pyaar tere hii li_e \-2
+hai yahii du_aa tere mere pyaar ko nahii.n lage nazar kisii kii
+rab se maa.nguu.N aur kyaa
+
+nain jhuke hai.n yuu.N sharam se kyaa kahuu.N mai.n kasam se
+kyaa kyaa aramaan dil me.n jage ki paayaa hai jab se pyaar teraa
+dil ko lubhaa jaa_e terii sharm ye bholaapan
+thii qismat hamaarii sanam kii laakho.n me.n tumako paayaa hai
+ab yahii du_aa mere pyaar terii Kushiyo.n ko naa lage kabhii nazar Gam kii bhii
+rab se maa.nguu.n \threedots
+
+pyaar kaa safar hai ye pyaaraa 
+kar lo ye vaadaa le ke haatho.n me.n haath meraa
+chaloge mere sa.ng yuu.N hii sadaa
+ho dhuup yaa chhaayaa ho a.Ndheraa yaa ujaalaa ho Khushii kaa yaa Gam kaa samaa.N
+ab teraa ye daaman chhuuTe naa 
+hai yahii du_aa terii baaho.n me.n jiinaa maranaa ho tere kadamo.n me.n
+pahalii pahalii baar jaagaa \threedots
+%
+#endindian
+\endsong
+

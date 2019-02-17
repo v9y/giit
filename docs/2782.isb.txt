@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{bahut buraa hai haal tere majabuur kaa}%
+\film{Humlog}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Vishwamitra Adil}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+bahut buraa hai haal tere majabuur kaa
+kab TuuTegaa balam faasalaa duur kaa
+
+mai.n ta.Dapuu.N nis din haay
+chain nahii.n aaye
+jiyaa hai bhaarii
+dil me.n aag lagaaye
+badariyaa kaarii
+piyaa saa.Nvare diyaa hai mujh ko
+badalaa kau qusuur kaa
+kab TuuTegaa balam \threedots
+
+uThaa_uu.N kab tak Gam kaa bhaar
+buraa sa.nsaar 
+na bhaaye jiinaa
+bahatii hai din raat
+aa.Nkh kii miinaa
+dil kaa saudaa kar saudaaGar
+mausam nahii.n guruur kaa
+kab TuuTegaa balam \threedots
+
+%
+#endindian
+\endsong
+%

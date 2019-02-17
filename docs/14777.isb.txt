@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chaa.Nd tuu jab bhii musakuraataa hai}%
+\film{Sarhad (Pakistani-Film)}%
+\year{1966}%
+\starring{Ejaz, Saloni, Husna, Talish, Alauddin}%
+\singer{Mehdi Hasan, Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Tanvir Naqvi}%
+
+% Contributor: V S Rawat, Aug 02, 2004
+% Credits: Irfan
+% Song Courtesy: http://hindi-movies-songs.com/
+% Series: NOOR-E-TARANNUM
+% Comments{}% The song is based on Raag Paha.Di
+
+\printtitle
+#indian
+
+nuu \:	( chaa.Nd tuu jab bhii musakuraataa hai
+	dil meraa Duub\-Duub jaataa hai ) \-2
+	
+	merii yaado.n me.n wo bhii ro\-ro kar
+	raat Gam kii guzaarate ho.nge
+	pyaar kii waadiyo.n me.n Gum ho kar
+	mujhako aksar pukaarate ho.nge
+	jab kabhii ye Kayaal aataa hai
+	dil meraa Duub\-Duub jaataa hai
+
+me \:	unakii zulfo.n ko chhuu liyaa hogaa
+	mast ho kar hawaaye.n aa_ii hai.n
+	gunagunaatii hai raat tham ##pause## tham ke
+	duur se yuu.N sadaaye.n aa_ii hai.n
+	jaise ko_ii mujhe bulaataa hai
+	dil meraa Duub\-Duub jaataa hai
+
+nuu \:	chaa.Nd tuu jab bhii musakuraataa hai
+	dil meraa Duub\-Duub jaataa hai
+
+#endindian
+\endsong

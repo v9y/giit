@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kachche ra.ng utar jaane do}%
+\film{Sunset Point (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Chitra, Gulzar}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kachche ra.ng utar jaane do
+mausam hai guzar jaane do
+
+vo kab tak intazaar karatii
+kohare me.n kha.Daa hu_aa pul to nazar aa rahaa thaa
+lekin usake sire nazar nahii.n aate the
+kabhii lagataa usake dono.n sire ek hii taraf hai.n
+aur kabhii lagataa is pul kaa ko_ii siraa nahii.n hai
+shaam bujh rahii thii aur aane vaale kii ko_ii aahaT nahii.n thii kahii.n
+niiche bahataa dariyaa kah rahaa thaa
+aa_o mere aaGosh me.n aa jaa_o
+mai.n tumhaarii badanaamii ke saare daag chhupaa luu.ngaa
+maTTii ke is shariir se bahut khel chuke
+is khilaune ke ra.ng ab utarane lage hai.n
+
+kachche ra.ng utar jaane do \threedots
+
+nadii me.n itanaa hai paanii sab dhul jaa_egaa
+maTTii kaa Tiilaa hai ye ghul jaa_egaa
+itanii sii maTTii hai dariyaa ko bahanaa hai
+dariyaa ko bahane do saare ra.ng bikhar jaane do
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{tum jo hue mere hamasafar, raste badal gaye}%
+\film{12 O' Clock}%
+\year{1958}%
+\starring{Guru Dutt, Waheeda Rehman, Shashikala}%
+\singer{Geeta, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Arati Deo (arati@soma.rice.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tum jo hue mere hamasafar, raste badal gaye
+laakho.n diye mere pyaar kii, raaho.n me jal gaye
+
+aayaa mazaa, laayaa nashaa, tere labo.n kii bahaaro.n kaa ra.ng
+mausam javaa.N, saathii hasii.n, usapar nazar ke ishaaro.n kaa ra.ng
+jitane bhii ra.ng the, sab terii aa.Nkho.n me.n Dhal gaye
+laakho.n diye mere pyaar kii, raaho.n me jal gaye \threedots
+
+kyaa ma.nzile.n kyaa kaaravaa.N, baaho.n me.n terii hai saaraa jahaa.N
+aa jaanejaa.N, chal de vahaa.N, milate jahaa.N pe zamii.n aasamaa.N
+ma.nzil se bhii kahii.n duur ham, aage nikal gaye
+laakho.n diye mere pyaar kii, raaho.n me jal gaye \threedots
+%
+#endindian
+\endsong
+%

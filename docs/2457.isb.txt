@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{sapt suran tiin graam}%
+\film{Sangeet Samrat Tansen}%
+\year{}%
+\starring{Bharat Bhushan}%
+\singer{Manna De}%
+\music{S N Tripathi}%
+\lyrics{Swami Haridas}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+sapt suran tiin graam, una.nchaas koTi taan
+gunijan sab karat dhyaan naad brahm jaake
+sapt suran tiin graam   \threedots
+
+sur alaap ala.nkaar
+muurchhanaa vividh prakaar
+kala\-kala jyo.n jal kii dhaar
+Thumak chalat aage, Thumak chalat aage, Thumak chalat aage
+sapt suran tiin graam   \threedots
+
+jiivan ko giit jaan
+saa.Ns saa.Ns jaise taan
+har dha.Dakan lay samaan
+har pal prabhu aage, har pal prabhu aage, har pal prabhu aage
+sapt suran tiin graam   \threedots
+
+guruu brahmaa guruur vishNu, guruu devo mahe{sh}varaH
+guruu saaxaat parabrahmaa tasmaisrii guravenamaH
+%
+#endindian
+\endsong
+%

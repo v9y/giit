@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{saarii duniyaa pyaarii par tuu hai sabase pyaaraa}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Mohammed Aziz, Anuradha Paudwal}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+saarii duniyaa pyaarii par tuu hai sabase pyaaraa
+tere li_e jiinaa kyaa maranaa bhii gavaaraa
+suurat jitanii pyaarii hai dil bhii utanaa pyaaraa
+tere li_e jiinaa kyaa \threedots
+
+terii sab adaa_e.n mujhe achchhii lagatii hai.n
+terii kahii baate.n mujhe sachchhii lagatii hai.n
+mere li_e rab ne tujhe ambara se utaaraa
+tere li_e jiinaa kyaa \threedots
+
+terii yaad leke so_uu.n terii yaad leke jaaguu.n
+du_aa jab bhii maa.nguu.n to mai.n saath teraa maa.nguu.n
+teraa naam paa ke bitaa duu.n mai.n jiivan saaraa
+tere li_e jiinaa kyaa \threedots
+%
+#endindian
+\endsong
+

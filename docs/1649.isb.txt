@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{sun mere ba.ndhuu re, sun mere mitavaa}%
+\film{Sujata}%
+\year{}%
+\starring{???}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Preeti Ranjan Panda <ppanda@du.ics.uci.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+sun mere ba.ndhuu re, sun mere mitavaa
+sun mere saathii re
+
+hotaa tuu piipal, mai.n hotii amar lataa terii
+tere gale maalaa ban ke, pa.Dii musakaatii re
+sun mere saathii re
+sun mere ba.ndhuu re \threedots
+
+diiyaa kahe tuu saagar, mai.n hotii terii nadiyaa
+lahar bahar kar tuu apane, piiyaa chaman jaatii re
+sun mere saathii re
+sun mere ba.ndhuu re \threedots
+%
+#endindian
+\endsong
+%
+

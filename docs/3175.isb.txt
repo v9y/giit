@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{piyaa kii galii laage bhalii}%
+\film{Parwana}%
+\year{1971}%
+\starring{Navin Nishchol, Amitabh Bachchan, Yogita Bali}%
+\singer{Asha, Parveen Sultana}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Malini Kanth
+% Comments:
+%
+\printtitle
+#indian
+%
+
+piyaa kii galii laage bhalii
+roko na sakhii jiyaa bas me.n nahii.n
+kahaa.N tuu chalii birahaa jalii
+dekhe na koii sakhii jaa na kahii.n
+
+badariyaa ghir ghir aaye
+bijuriyaa shor machaaye
+mai.n to jaa_uu.Ngii, mai.n to jaa_uu.Ngii, mai.n to jaa_uu.Ngii
+sa.Nvar ke bindiyaa lagaa ke
+na jaa tuu ruup sajaa ke
+mai.n to jaa_uu.Ngii, mai.n to jaa_uu.Ngii, mai.n to jaa_uu.Ngii
+chhup gaye taare rain Dhalak gaii
+suunii rahii morii sajiyaa to kyaa hogaa
+piyaa kii galii \threedots
+
+raat hai kaarii barakhaa parat hai
+bhiige jo naino.n kaa kajaraa to kyaa hogaa
+mast pavan hai chunarii u.Dat hai
+mahake jo phuulo.n kaa gajaraa to kyaa hogaa
+chho.Do chho.Do chho.Do bahiyaa.N rahaa na jaaye
+dekho dekho dekho dekho piyaa bulaaye
+kaise na jaa_uu.N, kaise na jaa_uu.N \-2
+der se morii raah takat hai
+ruuThaa jo baa.Nkaa sajanaa to kyaa hogaa
+piyaa kii galii \threedots
+
+diivaanii chup ho jaa re
+piyaa kii dhun mat gaa re
+mai.n to gaa_uu.Ngii, mai.n to gaa_uu.Ngii, mai.n to gaa_uu.Ngii
+jiyaa ko tuu samajhaa re
+sunegii sab duniyaa re
+mai.n to gaa_uu.Ngii, mai.n to gaa_uu.Ngii, mai.n to gaa_uu.Ngii
+kaahe tuu Toke kaahe roke
+rahaa chaman meraa pyaasaa to kyaa hogaa
+piyaa kii galii \threedots
+
+%
+#endindian
+\endsong
+%

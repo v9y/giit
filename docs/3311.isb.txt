@@ -1,0 +1,42 @@
+% ITRANS SONG # 3311; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-11-18 16:35:38 PST
+%
+\startsong
+\stitle{darda_ma.ndo.n kaa jahaa.N me.n}%
+\film{Veena}%
+\year{1948}%
+\starring{Sulochana Chatterjee, Veera, Rahman, Hemavati, Leela Mishra, Giradhari, Yakub}%
+\singer{Amirbai}%
+\music{Anil Biswas}%
+\lyrics{Swami Ramanand}%
+%
+% Contributor: dhananjay naniwadekar
+% Date:  18 november 2002
+% Credits: U.V. Ravindra (UVR)
+% Comments: Based on Bageshri.
+%   Features stunning use of piano.
+%
+\printtitle
+#indian
+%
+darda_ma.ndo.n kaa jahaa.N me.n   aasaraa koii nahii.n
+bewafaa saaraa zamaanaa   baawafaa koii nahii.n
+  bewafaa saaraa zamaanaa
+
+roke aa.Nkhe.n puuchhatii hai.n   mere dil se baar baar
+ibtidaa rone kii hai, kyaa    i.ntihaa koii nahii.n?
+  ibtidaa rone kii hai, kyaa
+
+jab umiido.n ne ye puuchhaa   ab tumhaaraa kaun hai
+aarazuu_o.n ne ta.Dap kar     yuu.N kahaa koii nahii.n
+  aarazuu_o.n ne ta.Dap kar
+
+kyaa kahe.n kisase kahe.n  kyuu.Nkar kahe.n kaise kahe.n
+sunanewaalaa daastaan\-e\-dard kaa koii nahii.n
+  dardama.ndo.n kaa jahaa.N me.n
+%
+#endindian
+\endsong
+%

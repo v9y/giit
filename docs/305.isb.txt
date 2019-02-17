@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{bharii duniyaa me.n aakhir dil ko samajhaane kahaa.N jaae.n}%
+\film{Do Badan}%
+\year{}%
+\starring{Manoj Kumar, Asha Parekh}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+bharii duniyaa me.n aaKir dil ko samajhaane kahaa.N jaae.n
+muhabbat ho ga_ii jinako vo diivaane kahaa.N jaae.n
+
+lage hai.n shammaa par pahare zamaane kii nigaaho.n ke
+jinhe.n jalane kii hasarat hai vo paravaane kahaa.N jaae.n
+
+sunaanaa bhii jinhe.n mushkil chhupaanaa bhii jinhe.n mushkil
+zaraa tuu hii bataa ai dil vo afasaane kahaa.N jaae.n
+%
+#endindian
+\endsong
+%

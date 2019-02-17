@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kaun ye aayaa mahafil me.n, bijalii sii chamakii dil me.n}%
+\film{Dil Deke Dekho}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Asha, Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kaun ye aayaa mahafil me.n
+bijalii sii chamakii dil me.n
+ujalaa mukha.Daa kaalaa til
+ho.nTh gulaabii jaise dil
+ra.ng\-e\-badan taubaa taubaa
+aa.Nkh milii to kyaa hogaa
+haay o o dilarubaa merii niitaa
+
+pyaar kiyaa hai to phir nibhaanaa
+aaj khul ke yuu.N aa.Nkh milaanaa
+dekhataa rahe Gam ye zamaanaa
+ho o ho o ho o o o o o
+
+tuu jo hai merii baaho.n me.n
+jalate hai diipak raaho.n me.n
+khaabo.n kii bastii hai zamii.n
+aaj hai duniyaa kitanii ha.nsii.n
+dila se dila kaa saath rahe 
+jiivan bhar ye raat rahe
+haay o o dilarubaa merii niitaa
+%
+#endindian
+\endsong
+%

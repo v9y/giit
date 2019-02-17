@@ -1,0 +1,49 @@
+% 
+\startsong
+\stitle{hamaare dil se na jaanaa}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar,Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti 
+% Date:20 March,2001
+% Credits: 
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+hamaare dil se na jaanaa,dhokaa na khaanaa,duniyaa ba.Dii  beimaa.n
+o piyaa duniyaa badii beimaa.n
+hamaare dil se na jaanaa,dhokaa na khaanaa,duniyaa ba.Dii beimaa.n
+hamaare
+
+(mai.n huu.n jii pyaar kii pahalii nishaanii)\-2
+(aa.Nkho.n se aaj kahuu.n dil kii kahaanii)\-2
+o~oo~ sun lo jii pai.nyaa pa.Duu.N ho~oo~
+(dekho jii vinatii karuu.n)\-2
+ho~oo~,hamaare ghar laaj nibhaanaa
+dil na dukhaanaa 
+balamaa kahanaa meraa maan
+oo~ piyaa duniyaa ba.Dii  beimaa.n
+hamaare \threedots
+
+(miiThe do bol yahaa.n,mushakil hai bolanaa)\-2
+(duniyaa kii riit(?) kabhii,man ke na kholanaa)\-2
+o~oo~ jhuuTii hai priit yahaa.n,ho~oo~
+(koii na miit yahaa.n)\-2
+ho~oo~,buraa hai aaj zamaanaa
+TuuTe jiyaa naa
+ulajhan me.n hai merii jaan
+oo~ piyaa duniyaa ba.Dii beimaa.n
+hamaare \threedots
+
+%
+#endindian
+\endsong
+%

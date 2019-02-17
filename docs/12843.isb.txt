@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{mai.n tumase pyaar karatii huu.N ... ik baar phir se kaho}%
+\film{Mahaanataa}%
+\year{1997}%
+\starring{Jeetendra, Sanjay Dutt, Madhuri, Shakti, Paresh, Amrish, Satyen}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+lo jii lo jii lo lo jii suno jii sunaa 
+mai.n tumase pyaar karatii huu.N
+ik baar phir se kaho ki tum mujhase pyaar karatii ho
+ik baar kyaa mai.n sau baar kahuu.Ngii
+mai.n ye ikaraar karatii huu.N
+haa.N mai.n tumase pyaar \threedots
+
+tere sapano.n ke piichhe bhaag bhaag ke
+lambii lambii raato.n me.n jaag jaag ke
+teraa i.ntazaar karatii huu.N
+haa.N mai.n tumase pyaar \threedots
+
+dil ke aramaano.n kii baaraat rukii thii
+kab se mere ho.nTho.n par ye baat rukii thii
+aaj mai.n izahaar karataa huu.N
+haa.N mai.n tumase pyaar karataa huu.N
+mai.n ye ikaraar karataa huu.N
+haa.N mai.n tumase pyaar \threedots
+
+o baate.n bas aaj naa jyaadaa karo
+pyaar karo pyaar kaa vaadaa karo
+vaade mai.n hazaar karataa huu.N
+lo jii suno mai.n tumase pyaar karataa huu.N
+ik baar phir se kaho tum mujhase pyaar karate ho
+ik baar kyaa mai.n sau baar kahuu.Ngaa
+mai.n ye ikaraar karataa huu.N
+mai.n ye ikaraar \threedots
+%
+#endindian
+\endsong
+

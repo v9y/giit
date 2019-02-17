@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{bachanaa zaraa ye zamaanaa hai buraa}%
+\film{Milaap}%
+\year{1955}%
+\starring{Geeta Bali, Dev Anand, K N Singh, Johny Walker, Kumkum, Uma Devi}%
+\singer{Geeta, Rafi}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10032 [V S Rawat]
+% Transliterator: 
+% Comments: First hindi film of N Dutta
+% 
+\printtitle
+#indian
+%
+bachanaa zaraa ye zamaanaa hai buraa
+kabhii merii galii me.n na aanaa
+
+merii galii me.n aane vaale ho jaate hai.n Gam ke havaale
+in raaho.n se jo bhii guzare soch samajh kar dil ko uchhaale
+ba.De ba.De dil yahaa.N banate hai.n nishaanaa
+bachanaa zaraa yah zamaanaa \threedots
+
+nain la.Daa kar dil ko lubhaanaa dil ko lubhaa kar paas bulaanaa
+paas bulaakar khud ghabaraanaa teraa bhii javaab nahii.n vaah
+
+aa.Nkh milaakar aa.Nkh churaanaa aa.Nkh churaa kar dil ko jalaanaa
+dil ko jalaakar hosh bhulaanaa hosh bhulaakar majanuu.n banaanaa
+in lailaa_o.n kaa hai yah khel puraanaa
+bachanaa zaraa yah zamaanaa \threedots
+
+shoKii samajhe.n sharm\-o\-hayaa ko aap bulaa_e.n apanii kazaa ko
+aur phir maa.nge hamase harajaanaa
+bachanaa zaraa yah zamaanaa \threedots
+%
+#endindian
+\endsong
+

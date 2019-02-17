@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{##Chocolate, Lime Juice, Ice Cream##}%
+\film{Ham Aapke Hain Kaun}%
+\year{1994}%
+\starring{Madhuri Dixit, Salmaan Khan, Renuka Shahane, Mohnish Behl, Anupam Kher}%
+\singer{Lata}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+##Chocolate, Lime Juice, Ice Cream,## Taufiyaa.N
+pahale jaise ab mere shauq hai.n kahaa.N
+gu.Diyaa, khilaune merii saheliyaa.N
+ab mujhe lagatii hai.n saarii paheliyaa.N
+ye kaun saa mo.D hai umar kaa
+
+ye kaisaa diivaanaapan hai kyaa jaanuu.N, mai.n kyaa jaanuu.N 
+mushakil ho gayaa Kud ko kaise pahachaanuu.N, mai.n pahachaanuu.N
+din kaTataa hai kaTe na ratiyaa.N
+kis se kahuu.N mai.n ye saarii batiyaa.N
+gu.Diyaa   \threedots
+
+man me.n tara.nge uThane lagii hai.n ye kaisii, ye kaisii
+ab jaisii huu.N pahale nahii.n thii mai.n aisii, mai.n aisii
+khilane lagii hai.n raaho.n me.n kaliyaa.N
+akhiyaa.N Dhuu.NDhe sapano.n kii galiyaa.n
+gu.Diyaa   \threedots
+
+%
+#endindian
+\endsong
+%

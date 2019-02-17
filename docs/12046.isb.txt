@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{jisane mere sapane mahakaa_e}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laa ra laa
+jisane mere sapane mahakaa_e
+mujhase mil ke vo kyuu.n sharamaa_e
+jaane usake dil me.n kyaa kyaa ho
+usako sochuu.n to kuchh ho jaa_e
+na jaane ab kyaa kare ye dil kii lagii
+mushkil me.n aane lagii hai ye zi.ndagii ye zi.ndagii
+jisane mere sapane \threedots
+
+ye dil to ab hai usakaa ye jaan ab hai usakii
+vo aarazuu jiine kii mujhe talab hai usakii
+kahe meraa dil usakaa khyaal mujhe raat din sataa_e
+jisane mere sapane \threedots
+
+nazar nazar se mil kar banaa hai ye afasaanaa
+mai.n jis tarah jalataa huu.N jalegaa kyaa paravaanaa
+meraa haal\-e\-dil jaane na vo ko_ii to use bataa_e
+jisane mere sapane \threedots
+%
+#endindian
+\endsong
+

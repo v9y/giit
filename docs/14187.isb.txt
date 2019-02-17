@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{tere sau diivaane jhuuThe paravaane}%
+\film{Shareef Badmaash}%
+\year{1973}%
+\starring{Dev Anand, Hema Malini}%
+\singer{Kishor}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10802 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+tere sau diivaane jhuuThe paravaane \-2
+ho ik teraa sachchaa aashiq huu.N mai.n
+maane yaa tuu naa maane 
+tere sau diivaane \threedots
+
+chho.D jaa_e.Nge dil to.D jaa_e.Nge ye beqadar yaar mushkil me.n \-2
+itanaa kar yaqii.n kho na jaa_e.N kahii.n raste hai.n anjaane
+maane yaa tuu naa maane 
+tere sau diivaane \threedots
+
+aaj hai yahaa.N kal aur kahii.n haa.N inakii kuchh aisii hii aadat hai \-2
+dil masal de.nge ye pii ke chal de.nge ye aa.Nkho.n ke paimaane
+maane yaa tuu naa maane 
+tere sau diivaane \threedots
+%
+#endindian
+\endsong
+

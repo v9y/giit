@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{maathe pe chamake isake ... meraa yaar diladaar ba.Daa soNaa}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Sonu Nigam, Alka Yagnik, Jaspindar Narula, Sukhvindar Singh}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chikaa chikaa chik chik
+maathe pe chamake isake suuraj kii laalii
+ho.nTho.n se chhalake dekho mastii kii pyaalii
+balakhaa_e aise jaise champaa kii Daalii
+isakii adaa_e.n saare jag se niraalii
+meraa yaar diladaar ba.Daa soNaa
+mai.n dekhuu.n baar baar isako
+
+kiraNe.n luTaa_e.n dekho chaaro.n dishaa_e.n
+khushbuu kaa jho.nkaa le ke aa_e.n havaa_e.n
+chaahat ke ra.ngo.n se hai.n ra.ngii.n fizaa_e.n
+saare jahaa.N se kahatii merii nigaahe.n
+meraa yaar diladaar ba.Daa soNaa
+mai.n de duu.n saaraa pyaar isako
+
+maahii meraa maahii merii ji.nd merii jaan ve
+terii is adaa pe ho gayaa mai.n qurbaan ve
+chikaa chikaa chik chik
+
+gore gore ra.ng isake niile niile nainaa
+dekhe binaa ab to kahii.n aa_e nahii.n chainaa
+haay resham jaise a.ng isake gesuu jaise baadal
+dil ko diivaanaa kare dhaanii dhaanii aa.Nchal
+shokh bahaaro.n sii lagatii hai isakii har a.nga.Daa_ii
+ho meraa yaar diladaar \threedots
+
+Dhol sajaNaa hai duniyaa ba.Dii bepiir ve
+bichha.Degii raa.njhaNaa se kabhii bhii na hiir ve
+
+shahanaa_ii kii saragamo.n sii miiThii terii baate.n
+dekhuu.n mai.n khvaabo.n me.n shaadii Dolii baaraate.n
+yaaraa tere saath merii shaam hai si.nduurii
+naa to ko_ii pyaas hai naa chaahat hai adhuurii
+sau.n rab dii ik pal bhii ab to sahanii nahii.n judaa_ii
+meraa yaar diladaar \threedots
+%
+#endindian
+\endsong
+

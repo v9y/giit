@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{tum ho saath raat bhii hasii.n hai}%
+\film{Mohar}%
+\year{1959}%
+\starring{Shammi Kapoor, Geeta Bali}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11961 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( tum ho saath raat bhii hasii.n hai
+ab to maut kaa bhii Gam nahii.n hai ) \-2
+
+( chaa.Nd jaanataa nahii.n ye daastaa.N
+kis taraf chalaa hai meraa kaaravaa.N ) \-2
+phir kabhii na saath ho.nge ham yahaa.N
+chaa.N ko to ye Kabar nahii.n hai
+
+tum ho saath raat bhii hasii.n hai
+ab to maut kaa bhii Gam nahii.n hai
+
+( kitanaa Kushanasiib meraa pyaar hai
+mere saamane merii bahaar hai ) \-2
+terii har adaa se mujhako pyaar hai
+aaj mujhako ko_ii Gam nahii.n hai
+
+tum ho saath raat bhii hasii.n hai
+ab to maut kaa bhii Gam nahii.n hai
+
+( aaj phuul mere pyaar ke khile
+ab na hai.n shiqaayate na hai.n gile ) \-2
+jo maut mujhako tere haath se mile
+wo maut zindagii se kam nahii.n hai
+
+tum ho saath raat bhii hasii.n hai
+ab to maut kaa bhii Gam nahii.n hai
+%
+#endindian
+\endsong
+

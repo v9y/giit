@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{sun rii sakhii mohe sajanaa bulaaye}%
+\film{Nagin}%
+\year{1954}%
+\starring{Pradeep Kumar, Vyjayantimala}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+sun rii sakhii mohe sajanaa bulaaye,
+mohe jaanaa hai pii kii nagariyaa
+o~ mohe jaanaa hai pii kii nagariyaa
+
+chun chun bagiyaa se laao rii chameliyaa
+kaliyo.n se merii sajaao rii Doliyaa
+kajaraa lagaao
+maathe bi.ndiyaa sajaao
+mohe ra.ng do gulaabii chunariyaa
+o~ mohe jaanaa hai pii kii nagariyaa
+sun rii sakhii   \threedots
+
+ba.nsii kii dhun pe bulaaye moraa chhaliyaa
+laao rii kahaa.N hai nigo.Dii paayaliyaa
+maa.ng bharo
+mat der karo
+kahii.n ruuTh na jaaye saa.Nvariyaa
+o~ mohe jaanaa hai pii kii nagariyaa
+sun rii sakhii   \threedots
+%
+#endindian
+\endsong
+%

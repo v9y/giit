@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tum saath ho jab apane, duniyaa ko dikhaa de.nge}%
+\film{Kaalia}%
+\year{1981}%
+\starring{Amitabh, Parveen}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Samiuddin Mohammed (sm0e@ns1.cc.lehigh.edu)
+%
+\printtitle
+#indian
+%
+tum sAth ho jab apane, duniyA ko dikhA de.nge 
+ham maut ko jIne ke, a.ndAz sikhA de.nge\threedots 
+
+ham to hai.n dil vaale, kha.njar se nahii.n Darate 
+are, ham to hai.n dil vaale, kha.njar se nahii.n Darate 
+ham zulfo.n ke kaidI hai.n, sUlI se nahii.n marate 
+sUlI ko bhI zulfo.n kI, za.njIr banA de.nge 
+tum sAth ho jab apane\threedots 
+
+ai ahal\-e\-jahA.n tum ko, nafarat kI hai bImArI 
+barasAyA karo shole, phe.nkA karo chi.ngArI 
+ham pyaar kI shabanam se, har aag bujhA de.nge 
+tum sAth ho jab apane\threedots 
+
+mAnA ke a.ndhero.n ke, gahare hai.n bahut saaye 
+par dar hai yahA.n kisako, AtI hai to raat aae 
+ham raat kI sIne me.n, ik shammA jalA de.nge 
+tum sAth ho jab apane\threedots 
+%
+#endindian
+\endsong
+%
+

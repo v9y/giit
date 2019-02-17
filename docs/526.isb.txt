@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil se milaa ke dil, pyaar kiijiye, koii suhaanaa iqaraar kiijiye}%
+\film{Taxi Driver}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Porky (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+dil se milaa ke dil, pyaar kIjiye
+koii suhaanaa iqaraar kIjiye
+
+1) sharamaanaa kaisaa, ghabaraanaa kaisaa
+jiine se pahale, mar jaanaa kaisaa
+faasalo.n kii chhaa.Nv me.n
+ras bharii fizaao.n me.n
+is zindagii ko gulazaar kIjiye, dil se \threedots
+
+2) aatii bahaare.n, jaatii bahaare.n
+kab se kha.Dii hai.n, baa.ndhii kataare.n
+chhaa rahii hai bekhudii
+kah rahii hai zindagii
+dil kii uma.nge.n bedaad kIjiye, dil se \threedots
+
+3) dil se bhulaa ke, rusavaaiyo.n ko
+jannat banaa le.n, tanahaaiyo.n ko
+aarazuu javaan hai
+vaqt meharabaan hai
+dil kho na jaae khushii yaar kIjiye, dil se \threedots
+%
+#endindian
+\endsong
+%

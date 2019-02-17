@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{le jaae.nge, le jaae.nge, dil_vaale dulhaaniyaa le jaae.nge}%
+\film{Chor Machaye Shor}%
+\year{1974}%
+\starring{Shashi Kapoor, Mumtaz}%
+\singer{Kishore, Asha, chorus}%
+\music{Ravindra Jain}%
+\lyrics{Rajkavi Inderjit Singh Tulsi}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/31/1996
+%
+\printtitle
+#indian
+%
+ki: le jaae.nge, le jaae.nge, dil\-vaale dulhaaniyaa le jaae.nge
+    are, rah jaae.nge, rah jaae.nge, paise\-vaale dekhate rah jaae.nge
+ko: le jaae.nge, le jaae.nge \threedots
+
+ki: tum ho kalii to gulaab ham hai.n
+ko: ho gulaab ham hai.n
+ki: ho.nTho.n se lagaa lo to sharaab ham hai.n
+ko: ho sharaab ham hai.n
+ki: kahate hai.n log ki Karaab ham hai.n
+    terii har baat kaa javaab ham hai.n
+ko: laajavaab ham hai.n
+ki: apane do haatho.n se
+    kamaayaa huaa khaane\-vaale
+    haq na paraayaa kabhii khaae.nge
+    sasur\-jii
+ko: le jaae.nge \threedots
+    terii so.n, machhariyaa
+ki: le jaae.nge
+
+aa: mai.n bhii tere saath huu.N, dil bhii tere saath
+ko: sajanaa dil bhii tere saath
+aa: chaahe jab aajaa channaa le ke baaraat
+ko: chhetii\-chhhetii aajaa channaa le ke baaraat
+ki: mere paas koThii hai na kaar sajanii
+    ka.Dakaa hai teraa diladaar sajanii
+ko: diladaar sajanii
+aa: koThii ba.Ngalaa na mujhe kaar chaahie
+    dil chaahie diladaar chaahie
+ki: haa.N chal phir chhalie soNie nii balie
+    dil kii hii duniyaa basaae.nge
+ko: le jaae.nge \threedots
+
+    tere baaG kii bulabul
+ki: le jaae.nge
+ko: le jaae.nge le jaae.nge \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{haule\-haule havaa Dole, kaliyo.n ke ghuu.NghaT khole}%
+\film{non-Film}%
+\starring{}%
+\singer{Geeta}%
+\music{???}%
+\lyrics{???}%
+% 
+% Contributor: Preeti Ranjan Panda <ppanda@du.ics.uci.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/12/1996
+% Credits: Mala Acharya <mala@portal.cs.mci.com>
+%          Neeraj Malhotra <malhotra@bedford.progress.com>
+%          Ashok Dhareshwar <adhareshwar@worldbank.org>
+%
+\printtitle
+#indian
+%
+haule\-haule havaa Dole	(##slow##)
+haule\-haule havaa Dole	(##fast##)
+kaliyo.n ke ghuu.NghaT khole
+aajaa mere man ke raajaa, pihu pihu papiihaa bole
+haule\-haule havaa Dole \threedots
+
+kaare\-kaare badaraa chhaaye, kaun sa.ndes laaye
+saavan suhaavan aayaa, piiyaa mere tum na aaye
+haule\-haule havaa Dole \threedots
+
+birahii gagan roye, mere do nayan roye.n
+piiyaa tum paas nahii.n, kahaa.N kis desh khoye
+ghane\-ghane badaraa naache (?), jhananana paayal baaje
+chhaae\-chhaae aaii bahaar, tum bin jiiyaa na laage
+haule\-haule havaa Dole \threedots
+%
+#endindian
+\endsong
+%
+

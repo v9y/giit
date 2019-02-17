@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{parabat ke piichhe, chambe daa gaa.Nv}%
+\film{Mehbooba}%
+\year{1976}%
+\starring{Rajesh Khanna, Hema Malini}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Shweta Saxena
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments : 
+%
+\printtitle
+#indian
+%
+parabat ke piichhe, chambe daa gaa.Nv
+gaa.Nv me.n do premii rahate hai.n
+ham to nhii.n vo diivaanaa jinako
+diivaanaa log kahate hai.n
+
+mile.nge yaa bichha.De.nge, haay raam kyaa hogaa
+na jaane in dono.n kaa a.njaam kyaa hogaa
+muft me.n ho jaaye.nge badanaam kyaa hogaa
+ghar se nikal ke, raste pe chal ke
+taane hazaar sahate hai.n
+gaa.Nv me.n do premii rahate hai.n   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{josh-e-javaanii haay, re haay}%
+\film{Around The World}%
+\year{1967}%
+\starring{Raj Kapoor, Rajashri}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+josh\-e-\-javaanii haay re haay
+nikale jidhar se dhuum machaaye
+duniyaa kaa melaa, mai.n huu.N akelaa
+kitanaa akelaa huu.N mai.n
+josh\-e\-javaanii haay re haay   \threedots
+
+shaam kaa ra.ngii.n shoK nazaaraa
+aur bechaaraa ye dil
+Dhuu.Ndh ke haaraa, koii sahaaraa
+par na milii ma.nzil
+josh\-e\-javaanii haay re haay   \threedots
+
+koii to hamase do baat karataa
+koii to kahataa halo
+ghar na bulaataa par ye to kahataa
+kuchh duur tak sa.ng chalo
+josh\-e\-javaanii haay re haay   \threedots
+
+bekaar guzare ham is taraf se
+bekaar thaa ye safar
+ab dar\-ba\-dar kii khaate hai.n Thokar
+raajaa jo the apane ghar
+josh\-e\-javaanii haay re haay   \threedots
+
+%
+#endindian
+\endsong
+%

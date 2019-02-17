@@ -1,0 +1,65 @@
+%
+\startsong
+\stitle{mitavaa sun mitavaa tujh ko kyaa Dar hai re}%
+\film{Lagaan}%
+\year{2001}%
+\starring{Aamir Khan}%
+\singer{Udit Narayan, Alka Yagnik, chorus}%
+\music{A R Rahman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor : VS Rawat, Vandana Sharma
+% Transliterator : K Vijay Kumar
+%
+\printtitle
+#indian
+%
+
+har sant kahe har saadhu kahe
+sach aur saahas hai jis ke man me.n
+ant me.n jiit usii kii hai
+
+u: aajaa re aajaa re
+   bhale kitane lambe ho.n raaste, ho
+   thake na teraa ye tan, ho
+   aajaa re aajaa re
+   sun le pukaare Dagariyaa
+   rahe na raaste tarasate, ho
+   tuu aajaa re
+   is dharatii kaa hai raajaa tuu, ye baat jaan le tuu
+   kaThinaa_ii se Takaraa jaa tuu, nahii.n haar maan le tuu
+
+   mitavaa sun mitavaa, tujh ko kyaa Dar hai re
+   ye dharatii apanii hai, apanaa ambar hai re
+   o mitavaa sun mitavaa tujh ko kyaa Dar hai re
+   ye dharatii apanii hai, apanaa ambar hai re
+   tuu aajaa re \threedots
+
+a: sun lo re mitavaa
+   jo hai tumhare man me.n, vo hii hamare man me.n
+   jo sapanaa hai tumharaa, sapanaa vo hii hamaraa hai
+   jiivan me.n
+u: haa.N, chale ham liye aasaa ke diye nayanan me.n
+   diye hamarii aasaao.n ke kabhii bujh na paaye.n
+a: kabhii aa.Ndhiyaa.N jo aa ke in ko bujhaaye.n
+u: mitavaa sun mitavaa, tujh ko kyaa Dar hai re \threedots
+
+u: sun lo mitavaa
+   puravaa bhii gaayegii, mastii bhii chhaayegii
+   mil ke pukaaro to, phuulo.n vaalii jo rut hai
+   aayegii
+a: haa.N, sukh bhare din duHkh ke bin laayegii
+   ham tum sajaaye.n aao sapano.n ke mele
+u: rahate ho kaahe bolo, tum yuu.N akele
+   mitavaa sun mitavaa, tujh ko kyaa Dar hai re \threedots
+
+   har sant kahe har saadhu kahe
+   sach aur saahas hai jis ke man me.n
+   ant me.n jiit usii kii hai
+
+   o mitavaa, sun mitavaa \threedots
+
+%
+#endindian
+\endsong
+%

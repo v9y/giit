@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{are bha_ii shriimaan jii ... kaho meharabaan jii}%
+\film{Shrimanji}%
+\year{1968}%
+\starring{Kishor Kumar, I S Jauhar, Shahida, Jivan, Asit Sen}%
+\singer{Kishor, Mahendra Kapoor}%
+\music{O P Nayyar}%
+\lyrics{Ajiz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #10545 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	bam bam ma kuu kuu kuu \-3
+	are bha_ii shriimaan jii
+ma \:	Duu ra ra ra haa kaho meharabaan jii
+ki \:	are bha_ii shriimaan jii
+ma \:	hoy ho kaho meharabaan jii
+do \:	ho ga_e ham hairaan ye kaise hai.n i.nsaan
+	mar jaate hai.n karate\-karate jiine kaa saamaan
+
+ki \:	are bha_ii shriimaan jii
+ma \:	qadam-qadam par na_e tamaashe log yahaa.N dikhalaate hai.n
+	are pahalavaan jii
+ki \:	are bhuukhe insaano.n ke saamane kutte biskuT khaate hai.n
+	are shriimaan jii
+do \:	ho ga_e
+ki \: he he
+do \:	ho ga_e ham hairaan \threedots
+
+ki \:	are bha_ii shriimaan jii
+ma \:	tilak lagaa kar phire.n luTere kaun inhe.n pahachaanegaa
+	are meharabaan jii
+ki \:	are aaj merii jaa.N luTane vaalaa guru inhii.n ko maanegaa
+	are shriimaan jii
+	ho ga_e ham hairaan
+ma \:	ye kaise hai.n i.nsaan
+do \:	mar jaate hai.n \threedots
+
+ki \:	are bha_ii shriimaan jii
+ma \:	hurr re re haa kaho meharabaan jii
+do \:	ho ga_e ham hairaan \threedots
+ki \:	are bha_ii shriimaan jii
+%
+#endindian
+\endsong
+

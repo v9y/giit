@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{zi.ndagii ko sa.Nvaaranaa hogaa}%
+\film{Alaap}%
+\year{1977}%
+\starring{Amitabh Bachchan, Rekha, Asrani}%
+\singer{Yesudas}%
+\music{Jaidev}%
+\lyrics{Dr. Rahi Masoom Reza}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+
+zi.ndagii ko sa.Nvaaranaa hogaa
+dil me.n suuraj utaaranaa hogaa
+
+zi.ndagii raat nahii.n raat kii tasaviir nahii.n
+zi.ndagii sirf kisii zulf kii za.njiir nahii.n
+zi.ndagii bas koii biga.Dii taqadiir nahii.n
+zi.ndagii ko nikhaaranaa hogaa
+zi.ndagii ko sa.Nvaaranaa hogaa   \threedots
+
+zi.ndagii dhuup nahii.n saaayaa\-e-\diivaar bhii hai
+zi.ndagii zaar nahii.n, zi.ndagii diladaar bhii hai
+zi.ndagii pyaar bhii hai, pyaar kaa iqaraar bhii hai
+zi.ndagii ko ubhaaranaa hogaa
+zi.ndagii ko sa.Nvaaranaa hogaa   \threedots
+
+%
+#endindian
+\endsong
+%

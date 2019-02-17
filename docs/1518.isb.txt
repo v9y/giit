@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{raato.n ke saaye ghane jab bojh dil par bane}%
+\film{Annadata}%
+\year{1972}%
+\starring{Anil Dhawan, Jaya Bhaduri, Om Prakash}%
+\singer{Lata}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor: Suneeta Donepudi <sdonepudi@telogy.com>
+% Transliterator: Suneeta Donepudi <sdonepudi@telogy.com>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+(raato.n ke saaye ghane jab bojh dil par bane
+ na to jale baatii na ho koii saathii \- 2
+ phir bhii na Dar agar bujhe.n diye
+ sahar to hai tere liye)			\- 2
+
+(jab bhii mujhe kabhii koii jo Gam ghere
+lagataa hai ho.nge nahii.n sapane yah puure mere) \- 2
+kahataa hai dil mujhako maanaa hai.n Gam tujhako
+phir bhii na Dar agar bujhe.n diye
+sahar to hai tere liye
+
+(jab na chaman khile meraa bahaaro.n me.n
+jab Duubane mai.n laguu.N raato.n kii majadhaaro.n me.n) \- 2
+maayuus man Dole par yah gagan bole
+phir bhii na Dar agar bujhe.n diye
+sahar to hai tere liye
+
+(jab zindagii kisii tarah bahalatii nahii.n
+khaamoshiyo.n se bharii jab raat Dhalatii nahii.n) \- 2
+tab muskuraauu.N mai.n yah giit gaauu.N mai.n
+phir bhii na Dar agar bujhe.n diye
+sahar to hai tere liye
+
+raato.n ke saaye ghane jab bojh dil par bane
+na to jale.n baatii na ho koii saathii \- 2
+phir bhii na Dar agar bujhe.n diye
+sahar to hai tere liye
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{aaj shiishe me.n baar\-baar ... dil me.n ek jaan\-e\-tamannaa}%
+\film{Benazir}%
+\year{1964}%
+\starring{Ashok Kumar, Meena Kumari, Shashi Kapoor, Tanuja, Nirupa Roy}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10428 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aaj shiishe me.n baar\-baar unhe.n dil kii suurat dikhaa_ii detii hai
+apanii suurat nazar nahii.n aatii merii suurat dikhaa_ii detii hai
+
+dil me.n ek jaan\-e\-tamannaa ne jagah paa_ii hai
+aaj gulashan me.n nahii.n ghar me.n bahaar aa_ii hai
+
+aa gayaa aa gayaa mere tasavvur me.n ko_ii paradaanashiin \-2
+aaj har chiiz nazar aatii hai mujhako hasii.n
+kyaa karuu.N mai.n ba.Dii dilakash merii tanhaa_ii hai
+aaj gulashan me.n nahii.n \threedots
+
+bahakii\-bahakii nashaa\-e\-husn me.n kho_ii\-kho_ii
+jaise Kyaalo.n kii ra.ngiin rubaa_ii ko_ii
+dil ke shiishe me.n parii ban ke utar aa_ii hai
+aaj gulashan me.n nahii.n \threedots
+
+husn ke saamane izahaar\-e\-vafaa hai mushkil \-2
+kaash chhup kar hii vo sun le meraa naalaa\-e\-dil
+jisane pyaar kii ma.nzil mujhe dikhalaa_ii hai
+aaj gulashan me.n nahii.n \threedots
+%
+#endindian
+\endsong
+

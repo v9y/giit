@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{merii paayal bole chhan chhan ... tujhako taras naa aa_e}%
+\film{Waapasi Saajan Ki}%
+\year{1995}%
+\starring{Shoaib Khan, Ashwini Bhave, Shoma Sircar, Kulbhushan, Gulshan}%
+\singer{Poornima, Chorus}%
+\music{Anand Milind}%
+\lyrics{Azad Jullundhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+merii paayal bole chhan chhan meraa ka.nganaa bole khan khan khan
+tohe baar baar samajhaa_e merii dekh javaanii
+haay beliyaa tujhako taras naa aa_e
+merii paayal bole \threedots
+
+merii meha.ndii kaa ra.ng laal abhii tarasaa_egaa kitane saal
+abhii o meraa ab tak husn ka.nvaaraa
+hai meraa dil tere pyaar kaa maaraa
+meraa yauvan tujhako bulaa_e merii dekh javaanii
+haay beliyaa tujhako \threedots
+
+merii chunarii kaa ra.ng dhaanii hai tuune merii kadar na jaanii hai
+meraa pyaar bharaa dil to.D diyaa merii maa.ng bharii aur chho.D diyaa
+tuune dil par tiir chalaa_e merii dekh javaanii
+haay beliyaa tujhako \threedots
+%
+#endindian
+\endsong
+

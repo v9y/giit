@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dil sajan jalataa hai}%
+\film{Mukti}%
+\year{1973}%
+\starring{Vidya Sinha, Shashi Kapoor}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: June 1, 2001
+% Credits:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+
+laa laa \threedots
+
+dil sajan jalataa hai, ye badan jalataa hai
+lagii dil kii lagii huii kab se hai jaanii
+jab se lagaa kahii.n pe dil tab se hai jaanii
+dil sajan jalataa hai \threedots
+
+chalii havaa ye kaisii phuulo.n kii galiyo.n me.n
+shabanam ke girane se aag lage kaliyo.n me.n
+ho, chalii havaa ye kaisii phuulo.n kii galiyo.n me.n
+shabanam ke girane se aag lage kaliyo.n me.n
+ye chaman jalataa hai, ye badan jalataa hai \threedots
+
+pyaar kaa ra.ng lagaa hai jab se merii bi.ndiyaa me.n
+ye dharatii jalatii hai sapano.n me.n ni.ndiyaa me.n
+ho, pyaar kaa ra.ng lagaa hai jab se merii bindiyaa me.n
+ye dharatii jalatii hai sapano.n me.n nindiyaa me.n
+ye gagan jalataa hai, ye badan jalataa hai \threedots
+
+%
+#endindian
+\endsong
+%

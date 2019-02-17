@@ -1,0 +1,67 @@
+
+%
+\startsong
+\stitle{ham\-tum ye bahaar dekho ra.ng laayaa pyaar}%
+\film{Ambar}%
+\year{1952}%
+\starring{Nargis, Raj Kapoor, Agha, Vipin Gupta, Ramesh Sinha, Cukoo, Helen}%
+\singer{Rafi, Lata}%
+\music{Gulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10198 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	( ham\-tum ye bahaar
+	dekho ra.ng laayaa pyaar
+	barasaat ke mahiine me.n
+la \:	rimajhim ye phuhaar
+	dil gaaye re malhaar
+	ik aag liye siine me.n ) \-2
+
+do \:	ho
+ra \:	ho
+la \:	ho
+ra \:	( terii zulfo.n kii ye ra.ngat hai
+	jo baadal banake chhaa_ii hai ) \-2
+	jo baadal banake chhaa_ii hai
+la \:	terii aa.Nkho.n kii ye mastii hai
+	jo saawan banake aa_ii hai
+ra \:	meraa dam jab tak
+	rahe pyaar kii chamak
+	mere dil ke nagiine me.n
+	ham\-tum yah bahaar \threedots
+la \:	rimajhim ye phuhaar
+	dil gaaye re malhaar
+	ik aag liye siine me.n
+
+la \:	o
+ra \:	o
+la \:	( duniyaa ko hamaarii ho na Kabar
+	aa.Nkho.n me.n ishaare ho jaaye.N ) \-2
+	aa.Nkho.n me.n ishaare ho jaaye.N
+ra \:	ulafat bhii chale aisaa jaaduu
+	dushman bhii hamaare ho jaaye.N
+la \:	Gam dil se ho duur
+	naa ho ko_ii majabuur
+	phir aaye mazaa jiine me.n
+do \:	rimajhim ye phuhaar
+	dil gaaye re malhaar
+	ik aag liye siine me.n
+
+	ham\-tum ye bahaar
+	dekho ra.ng laayaa pyaar
+	barasaat ke mahiine me.n
+	rimajhim ye phuhaar
+	dil gaaye re malhaar
+	ik aag liye siine me.n
+	ho
+	ho
+%
+#endindian
+\endsong
+

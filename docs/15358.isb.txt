@@ -1,0 +1,39 @@
+% ITRANS SONG
+
+\startsong
+\stitle{hamako kisake Gam ne maaraa ye kahaanii phir sahii}%
+\film{Live In Concert 2 (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Ghulam Ali/ Runa Laila}%
+\music{}%
+\lyrics{Mansoor Anwar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+% The album mentioned above has Ghulam Ali version. It is also in
+% Enchanting Hour.
+
+\printtitle
+#indian
+
+% not part of this ghazal
+dil kii choTo.n ne kabhii chain se rahane na diyaa
+jab chalii sard hawaa mai.nne tujhe yaad kiyaa
+isakaa ronaa nahii.n kyuu.N tumane kiyaa dil barabaad
+isakaa Gam hai ke bahut der me.n barabaad kiyaa
+
+hamako kisake Gam ne maaraa ye kahaanii phir sahii
+kisane to.Daa dil hamaaraa ye kahaanii phir sahii
+
+dil ke luTane kaa sabab puuchho na sabake saamane
+naam aayegaa tumhaaraa ye kahaanii phir sahii
+
+nafarato.n ke tiir khaa kar dosto.n ke shahar me.n
+hamane kis kis ko pukaaraa ye kahaanii phir sahii
+
+kyaa bataa_e.n pyaar kii baazii wafaa kii raah me.n
+kaun jiitaa kaun haaraa ye kahaanii phir sahii
+
+#endindian
+\endsong

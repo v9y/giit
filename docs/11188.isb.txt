@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{kaam jahaa.n me.n kyaa\-kyaa hote ... din\-dahaa.De}%
+\film{Din Dahaade}%
+\year{1990}%
+\starring{Sunil Puri, Kamran Rizvi, Shriprada, Kunika, Paramveer, Neeraj}%
+\singer{Kumar Sanu, Chorus}%
+\music{Jeetu Tapan}%
+\lyrics{Hasrat}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	kaam jahaa.n me.n kyaa\-kyaa hote \-2
+ko \:	din\-dahaa.De \3
+ku \:	khel tamaashe kyaa kyaa hote \-4
+ko \:	aa aa aa
+	din\-dahaa.De \3
+
+ku \:	kaisaa naazuk daur hai dekho \-2
+	paharedaar bhii chor hai dekho \-2
+	ujale ujale bheSh me.n bande
+	ghuu.NghaT kholo to ye na.nge
+	husn yahaa.N par luTate rahate \-3
+ko \:	aa aa aa
+	din\-dahaa.De \3
+
+ku \:	uu.Nche uu.Nche mahalo.n vaale \-2
+	kitane niiche girate jaa_e.n
+	baagaDor hai haath me.n inake
+	jisako chaahe use nachaa_e.n
+	chiikh kisii kii sunii na jaa_e \-3
+ko \:	aa aa aa
+	din\-dahaa.De \3
+
+ku \:	kul dharatii shamashaan banii hai \-2
+	zulmo.n kaa tuufaan banii hai
+	gaa.ndhii tilak javaahar bhagat si.nh
+	kab tak ye sab kaTate rahe.nge
+	iisaa suulii cha.Dhaa_e jaate \-3
+ko \:	aa aa aa
+	din\-dahaa.De \3
+
+ku \:	tuu chup kyo.n hai uupar vaale
+	are tuu kyo.n chup hai uupar vaale
+	ab ye duniyaa kaun sambhaale
+	ek pal tuu dharatii pe aa jaa
+	chakr sudarshan yahaa.N chalaa jaa
+	barbaadii ke saavan dekhe \-3
+ko \:	aa aa aa
+	din\-dahaa.De \3
+	kaam jahaa.n me.n \threedots
+%
+#endindian
+\endsong
+

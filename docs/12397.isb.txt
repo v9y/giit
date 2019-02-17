@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ba.Dii udaas hai zi.ndagii ko_ii to saathii chaahi_e}%
+\film{Kasoor}%
+\year{2000}%
+\starring{Aftaab Shivdasani, Lisa Ray, Apurva Agnihotri}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ai ai laa laa
+ba.Dii udaas hai zi.ndagii ko_ii to saathii chaahi_e
+ik talaash hai zi.ndagii ko_ii to saathii chaahi_e
+
+aa_egaa mujhape bhii pyaar kisii ko
+mujhako to hai ye aitabaar
+hogaa meraa bhii i.ntazaar kisii ko
+sach kah rahaa huu.N mere yaar
+aise na paagal machal dil diivaane sa.mbhal
+badahavaas hai zi.ndagii laa laa laa laa 
+ko_ii to saathii chaahi_e
+ik talaash hai \threedots
+
+yaado.n me.n ko_ii din raat sataa_e
+tanhaa kaTe naa ye safar
+kitanaa mujhe vo bechain banaa_e
+usako nahii.n hai khabar
+bas meraa naa chale usako lagaa luu.n gale
+ik talaash hai zi.ndagii laa laa laa laa 
+ko_ii to saathii chaahi_e
+ik talaash hai \threedots
+%
+#endindian
+\endsong
+

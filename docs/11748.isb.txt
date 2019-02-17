@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{paapaa mai.n paapaa ban gayaa}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Abhijit, Shankar Mahadevan, Anuradha Shriram}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paapaa paa paa paa paa paa paa pa_ipaa
+paa paa paa paa paa paa pa_ipaa
+paa paa pa ra pa paa paa paa
+paapaa mai.n paapaa ban gayaa
+dekho mai.n paapaa ban gayaa
+socho mai.n paapaa ban gayaa
+paapaa mai.n \threedots
+
+sonuu monuu kii khaatir mai.n unakaa gho.Daa ban jaa_uu.ngaa
+taaro.n se bahalaa_uu.ngaa baago.n me.n Tahalaa_uu.ngaa
+mai.n uu.ngalii thaam ke usakii use chalanaa sikhalaa_uu.ngaa
+are he aa_egaa ba.Daa mazaa
+paapaa mai.n \threedots
+
+he shaakaa maakaa naakaa maakaa chikii daa buu.Daa
+shaakaa maakaa naakaa maakaa paa paa paa paa paa
+chup gup chup
+goluu moluu kii khaatir ye muu.nchhe ba.Dhavaa_uu.ngaa
+nanhe.n munne haatho.n se muu.nchho.n ko khi.nchavaa_uu.ngaa
+are aise vo khii.nchegaa ye daadaa phir chiikhegaa
+are ye ye ye ko_ii paka.Do ise zaraa beTaa mai.n daadaa ban gayaa
+socho mai.n daadaa ban gayaa
+paapaa mai.n \threedots
+
+daa daa daa daa daa paa paa paa daa daa
+
+aa naa chaa.Ndii hamane maa.ngii naa chaahaa hamane sonaa
+maa.ngaa thaa hamane rab se ye cha.ndaa saa khilaunaa
+isane hamako milavaayaa ab duur kabhii na honaa
+are he jo maa.ngaa vo mil gayaa
+dekho ye paapaa ban gayaa
+socho ye paapaa ban gayaa
+paapaa mai.n \threedots
+%
+#endindian
+\endsong
+

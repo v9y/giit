@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{gore ra.ng pe naa itanaa Gumaan kar}%
+\film{Roti}%
+\year{1974}%
+\starring{Rajesh Khanna, Mumtaz, Jagdip}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11245 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	gore ra.ng pe naa itanaa Gumaan kar \-2
+	goraa ra.ng do din me.n Dhal jaa_egaa
+la \:	mai.n shamaa huu.N tuu hai paravaanaa \-2
+	mujhase pahale tuu jal jaa_egaa
+ki \:	gore ra.ng pe \threedots
+
+ki \:	ruup miT jaataa hai ye pyaar ai diladaar nahii.n miTataa
+la \:	ho ho phuul murajhaane se gulazaar o sarakaar nahii.n miTataa
+ki \:	kyaa baat kahii hai hoy taubaa \-2
+	ye dil be_iimaan machal jaa_egaa
+	gore ra.ng pe \threedots
+
+ki \:	o o aapako hai aisaa inkaar to ye pyaar yahii.n chho.Do
+la \:	o o pyaar kaa mausam hai bekaar kii takaraar yahii.n chho.Do
+ki \:	haatho.n me.n haath zaraa de\-do \-2
+	baato.n me.n vaqt nikal jaa_egaa
+	gore ra.ng pe \threedots
+
+la \:	o o mai.n tujhe kar Daaluu.N masaruur nashe me.n chuur to maanoge
+ki \:	o o tumase mai.n ho jaa_uu.N kuchh duur e maGaruur ho maanoge
+la \:	tuu laakh bachaa mujhase daaman \-2
+	ye husn kaa jaaduu chal jaa_egaa
+ki \:	gore ra.ng pe \threedots
+%
+#endindian
+\endsong
+

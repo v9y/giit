@@ -1,0 +1,51 @@
+% 
+\startsong 
+\stitle{pyaar kii rut dora.ngii saajan}% 
+\film{Apni Izzat}% 
+\year{1952}%
+\starring{Motilal, Munavvar Sultana}% 
+\singer{Talat, Madhubala Jhaveri}% 
+\music{Hansraj Behl}% 
+\lyrics{Asad Bhopali}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: Dec 09 2000
+% Credits: 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+ 
+t:
+pyaar kii rut dora.ngii saajan
+man me.n holii aa.Nkh me.n saavan  \-2
+ 
+m:
+pyaar kii rut dora.ngii saajan
+man me.n holii aa.Nkh me.n saavan  \-2
+ 
+m:
+pyaar suhaanaa sapanaa bhii hai    \-2
+pyaar kaa naam ta.Dapanaa bhii hai
+pyaar hii aahe.n pyaar hii dha.Dakan
+man me.n holii aa.Nkh me.n saavan  \-2
+ 
+t:
+tujhase mile bin chain na paaye.n  \-2
+tuu jo mile to ham kho jaaye.n  
+jitanaa soche.n utanii hii uljhan
+man me.n holii aa.Nkh me.n saavan  \-2
+ 
+m:
+huuk uThe dil baiThaa jaaye        \-2
+koii na jaane bhaag paraaye
+apane hii aa.Nsuu apanaa hii daaman
+m,t:
+man me.n holii aa.Nkh me.n saavan  \-2
+ 
+% 
+#endindian 
+\endsong
+%

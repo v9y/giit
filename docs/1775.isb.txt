@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tum mujhe yuu.N, bhulaa naa paaoge}%
+\film{Pagla Kahin Ka}%
+\year{1970}%
+\starring{Shammi Kapoor, Asha Parekh, Helen}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@myria.cs.umn.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum mujhe yU.N bhulaa naa paaoge
+haa.N tum mujhe yU.N bhulaa naa paaoge
+jab kabhii bhii sunoge giit mere
+sa.ng sa.ng tum bhii gunagunAoge
+haa.N tum mujhe yU.N bhulaa naa paaoge
+ho tum mujhe yU.N \threedots
+
+(vo bahaare.n vo chaa.ndanii raate.n
+hamane kii thii jo pyAr kii baate.n ) \- 2
+un nazaaro.n kii yaad aaegii
+jab khayaalo.n me.n mujhako laaoge
+haa.N tum mujhe yU.N bhulaa naa paaoge
+ho tum mujhe yU.N \threedots
+
+(mere haatho.n me.n teraa cheharaa thaa
+jaise koI gulaab hotaa hai ) \- 2
+aur sahaaraa liyaa thaa baaho.n kaa
+vo shaam kis tarah bhulaaoge
+haa.N tum mujhe yU.N bhulaa naa paaoge
+ho tum mujhe yU.N \threedots
+
+(mujhako dekhe binaa qaraar naa thaa
+ek aisaa bhii daur guzaraa hai ) \- 2
+jhUTh maanU.N to pUchhalo dil se
+mai.n kahU.ngaa to rUTh jaaoge
+haa.N tum mujhe yU.n bhulaa naa paaoge
+
+jab kabhii bhii \threedots
+%
+#endindian
+\endsong
+%

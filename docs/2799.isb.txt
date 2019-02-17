@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{chalo man jaaye.n ghar apane}%
+\film{Swami Vivekananda}%
+\year{}%
+\starring{Mithun}%
+\singer{Yesudas}%
+\music{Salil Choudhary}%
+\lyrics{Gulzar}%
+%
+% Contributor: Ramesh Hariharan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chalo man jaaye.n ghar apane
+is parades me.n, o parades me.n
+kyo.n paradesii raahe.n ye~
+chalo man jaaye.n ghar apane \threedots
+
+aa.Nkh jo bhaaye vo koraa sapanaa
+aa.Nkh jo bhaaye vo koraa sapanaa, saare paraaye hai.n ko_ii na apanaa \-2
+aise jhuuTe prem me.n pa.D naa bhuul me.n kaahe jiye.n~
+chalo man jaaye.n ghar apane \threedots
+
+sachche prem kii jyot jalaa ke
+sachche prem kii jyot jalaa ke, man sun mere kaan lagaa ke \-2
+paap aur puNy kii gaDarii uThaa ke apanii raah chale.n~
+chalo man jaaye.n ghar apane \threedots
+
+%
+#endindian
+\endsong
+%

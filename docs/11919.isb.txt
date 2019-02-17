@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{diivaanaa mai.n na thaa diivaanaa ban gayaa}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Shaan, Alka Yagnik, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa mai.n na thaa diivaanaa ban gayaa
+kab kaise aur kyaa afasaanaa ban gayaa
+na tujhe hai khabar naa mujhe hai magar
+jaane kab dil se dil mil gayaa
+diivaanii mai.n ho ga_ii
+diivaanaa mai.n ho gayaa
+
+diivaanaa tuu na thaa diivaanaa ban gayaa
+kab kaise aur \threedots
+
+jaaduu nigaaho.n kaa terii mujhape asar kar gayaa hai
+dil diivaanaa tumhaaraa vaadaa ko_ii kar gayaa hai
+maine maanaa merii jaa.n maine maanaa dil jo bolaa vahii kar diyaa 
+diivaanii mai.n ho ga_ii
+diivaanaa mai.n ho gayaa
+diivaanaa mai.n na thaa \threedots
+
+dha.Dakane.n sun rahii hai.n dha.Dakano.n kii zubaa.n ko
+aisaa hasii.n ho nazaaraa to kaise na aramaa.n javaa.n ho.n
+tere bin ek pal nahii.n jiinaa maine ye faisalaa kar liyaa
+diivaanii mai.n ho ga_ii
+diivaanaa mai.n ho gayaa
+diivaanaa mai.n na thaa \threedots
+%
+#endindian
+\endsong
+

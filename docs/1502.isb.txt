@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{raahii mil gaye raaho.n me.n, baate.n huii nigaaho.n me.n}%
+\film{Dil Deke Dekho}%
+\year{}%
+\starring{Shammi Kapoor, Asha Parekh}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+raahii mil gaye raaho.n me.n, baate.n huI nigaaho.n me.n
+dil samajhaa ham samajhe iqaraar ho gayaa
+vallaah pyaar ho gayaa pyaar ho gayaa
+ab to pyaar ho gayaa pyaar ho gayaa
+
+koI chalaa jaaegaa 
+phir koI pachhataaegaa
+jaage.nge soe soe
+raato.n ko khoe khoe
+koI thaa unape nisaar ho gayaa
+vallaah pyaar ho gayaa \threedots
+
+jo huaa so huaa
+dard mile yaa davaa
+ulfat me.n kaahekaa gam
+jo hogaa dekhe.nge ham
+honaa thaa dil ko qaraar ho gayaa
+ab to pyaar ho gayaa \threedots
+%
+#endindian
+\endsong
+%

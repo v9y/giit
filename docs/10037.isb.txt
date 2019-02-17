@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{muhabbat naam hai kis kaa shuruu kahaa.n}%
+\film{Ajnabee}%
+\year{2002}%
+\starring{Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+ho pahalii kasam pyaar kii tum yaad rakhanaa sanam
+ho pahalaa kadam pyaar kaa tum yaad rakhanaa sanam
+muhabbat naam hai kis kaa shuruu kahaa.n se hotii hai
+kiyaa kis ne ise paidaa khatam kahaa.n pe hotii hai
+
+muhabbat naam hai man kaa shuruu aa.Nkho.n se hotii hai
+kiyaa dil ne ise paidaa khatam saa.Nso.n pe hotii hai
+ye to mohabbat hai ye hii mohabbat hai
+
+duniyaa me.n jab zi.ndagii kaa naam nahii.n thaa
+haa.n ham tum mile.nge itanaa mujh ko yakii.n thaa
+ab ham mile hai.n duur nahii.n jaa_e.nge
+saarii umar tum ko hii chaahe.nge
+he ye vaadaa hai vaadaa meraa
+ye to mohabbat hai \threedots
+
+laakho.n hasiino.n me.n tum ko chunaa hai sanam
+duniyaa me.n tere li_e hii liyaa hai janam
+tum ne ye kah kar kyaa kar diyaa
+yuu.n hii baato.n baato.n me.n dil le liyaa
+ho dha.Dakano.n me.n nashaa hai teraa
+ye to mohabbat hai \threedots
+%
+#endindian
+\endsong
+

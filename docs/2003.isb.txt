@@ -1,0 +1,31 @@
+%
+\startsong
+\stitle{aa.Nkh se aa.Nkh milaataa hai koii}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{}%
+\lyrics{Shakeel}%
+%
+% Contributor: Malini Kanth
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+aa.Nkh se aa.Nkh milaataa hai koii
+dil ko khii.nche liye jaataa hai koii
+
+hai ye hairat ki bharii mahafil me.n
+mujhako tanhaa nazar aataa hai koii
+
+chaahiye Kud pe yaqiin\-e\-qaamil
+hausalaa kisakaa ba.Dhaataa hai koii
+
+sab karishmaat\-e\-tasavvur hai shaqiil
+van.raa aataa hai na jaataa hai koii
+%
+#endindian
+\endsong
+%

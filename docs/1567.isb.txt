@@ -1,0 +1,61 @@
+% 
+\startsong
+\stitle{saalaa mai.n to saahab ban gayaa}%
+\film{Sagina}%
+\year{}%
+\starring{Dilip Kumar, Om Prakash}%
+\singer{Kishore, Pankaj Mitra}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Arun Verma (verma@cs.cornell.edu) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Sun Aug  6 1995
+% Credits: Neeraj Malhotra (malhotra@bedford.progress.COM) 
+%	   
+% Editor:  
+% Comments:  
+%
+\printtitle
+#indian
+%
+kishor:
+( saalaa mai.n to saahab ban gayaa
+  are, saalaa mai.n to to saahab ban gayaa, hai.n
+  re, saahab banake kaisaa tan gayaa
+  ye buuT meraa dekho, ye suuT meraa dekho
+  jaisaa goraa koii lanaDhan kaa, haa! )		\-2
+
+pa.nkaj:
+vaah fakiire! vaah fakiire!
+vaah fakiire, suuT pahanakar kaisaa kuude phaa.Nde
+kavva jaise pa.Nkh mayuur ke apanii dum me.n baa.Ndhe
+
+kishor:
+apanii dum me.n baa.Ndhe !?
+kyaa jaano hum is bhejaa me.n kyaa\-kyaa nakshaa khii.nchaa \-2
+liiDar log kii uu.Nchii baate.n, kyaa samajhe tum niichaa
+haa.N, kyaa samajhe tum niichaa?
+meraa vo jaahilapan gayaa!
+
+##ATTENTION!##
+saalaa mai.n to \threedots
+
+pa.nkaj:
+suurat hai bandar kii phir bhii lagatii hai alabelii \-2
+kaisaa raajaa bhoj banaa hai meraa ga.Nguu telii
+
+kishor:
+teraa ga.Nguu telii !?
+tum la.ngoTii\-vaalaa na badalaa mai.n na badalegaa
+tum sab saalaa log kaa kismat, ham saalaa badalegaa
+ham saalaa badalegaa
+haa.N, ham saalaa badalegaa
+
+haa \threedots (khaa.nstaa hai)
+siinaa dekho kaisaa tan gayaa !! haa haa haa \threedots
+(ha.Nsate hu_e) saalaa mai.n to \threedots
+%
+#endindian
+\endsong
+%

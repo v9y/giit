@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{mere dilabar mujh par Kafaa na ho}%
+\film{Dharmaputra}%
+\year{1961}%
+\starring{Shashi Kapoor, Mala Sinha, Rahman, Nirupa Roy, Indrani Mukherjee}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10288 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	( mere dilabar mujh par Kafaa na ho \-2
+	kahii.n terii bhii kuchh Kataa na ho
+	jo ye dil diiivaanaa machal gayaa \-2
+ko \:	jo ye dil diiivaanaa \threedots ) \-2
+
+	jo kisii ke roke rukaa na ho
+	kisii sa.ng\-e\-dar par jhukaa na ho
+	tere dar par kaise phisal gayaa
+
+	ye nazar me.n mastii ghulii\-ghulii
+	ye sunaharii ra.ngat dhulii\-dhulii
+	ye ghanerii zulfe.n khulii\-khulii
+
+	vo zamaane bhar kaa Guruur hai
+	vo nashaa hai jo bhii suruur hai
+	vo tere shabaab me.n Dhal gayaa
+
+	mere dil kii jaanib niGaah kar
+	o mujhe naa Gam se tabaah kar \-2
+	kabhii bhuul se hii niGaah kar
+
+	o zaraa soch ki duniyaa kahegii kyaa
+	terii rusavaa_ii bach rahegii kyaa
+	jo diivaanaa ghar se nikal gayaa
+%
+#endindian
+\endsong
+

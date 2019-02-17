@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{mohabbat ke dhokhe me.n ko_ii na aa_e}%
+\film{Badi Bahen}%
+\year{1949}%
+\starring{Suraiyya, Rehman, Ulhas, Geeta Bali,  Pran}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10233 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mohabbat ke dhokhe me.n ko_ii na aa_e
+ye ek din ha.Nsaa_e to sau din rulaa_e \-2
+mohabbat ke dhokhe \threedots
+
+mujhe jab kisii se ( mohabbat nahii.n thii ) \-2
+to aa.Nkho.n ko rone kii ( aadat nahii.n thii ) \-2
+mohabbat ne aa.Nkho.n se aa.Nsuu bahaa_e
+mohabbat ke dhokhe \threedots
+
+mere dil ko dekho jo ( dhokhe me.n aayaa ) \-2
+mohabbat kaa ek giit ( bhuule se gaayaa ) \-2
+magar raat\-din ab kare haay\-haay
+mohabbat ke dhokhe \threedots
+%
+#endindian
+\endsong
+

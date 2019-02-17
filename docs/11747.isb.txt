@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaataa hai kahaa.n sun ... dil churaa ke jaa rahaa hai}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Hema Sardesai, Annu Malik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ba baa baa buu baa buu baabuu ##you know that I I I love you##
+##love you love you you you##
+aay haay haay jaataa hai kahaa.n sun sun sun sun o merii jaa.n
+dil churaa ke jaa rahaa hai hogaa tujhako aanaa phir yahaa.n yahaa.n yahaa.n ##you you##
+
+aay haay haay jaatii hai kahaa.n sun sun sun sun o merii jaa.n
+dil churaa ke jaa rahii hai hogaa tujhako aanaa phir yahaa.n ##you you##
+
+mausam ye kah rahaa hai tujhe mai.n pyaar kii bahaar duu.n
+mai.n bhii ye sochatii huu.n tujhe mai.n aur intazaar duu.n
+agar tuu hasiin hai to javaan mai.n bhii huu.N mere sanam
+jaa naa kariib aa naa diivaanepan kii hai tujhe kasam kasam kasam ##you you##
+aay haay haay \threedots
+
+tum to ajiib ho jii jo kahanaa meraa maanate nahii.n
+tum bhii kamaal ho jii jo haal meraa jaanate nahii.n
+chho.Do sataa_o naa yuu.n ki phir mile.nge ham yahii.n pe kal
+aa_o chalaa_o naa yuu.n mile.nge phir naa hamako aise pal haa.n pal ye pal ##you you##
+aay haay haay \threedots
+%
+#endindian
+\endsong
+

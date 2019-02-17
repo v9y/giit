@@ -1,0 +1,45 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{har ek raastaa}%
+\film{Ameer Aadmi Gharib Aadmi}%
+\year{1985}%
+\starring{Shatrughan Sinha, Zeenat Aman, Amjad Khan}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Nida Fazli}%
+% 
+% Audio on: MIL
+% Tags: 
+% Contributor: George Thomas
+% Transliterator: George Thomas (georgethomas at despammed at com)
+% Date: 9 Sep 2005
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: with a female chorus going 'paa paa paa paa'
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(har ek raastaa sajaa ke chal)\-2
+kisii ko hamasafar banaa ke chal
+har ek raastaa sajaa ke chal
+
+(mere dil me.n to merii chaahat hai
+yahii chaahat hii merii daulat hai
+yuu.N na milegii har Kushii)\-2
+kisii ke saath dil lagaa ke chal
+har ek raastaa sajaa ke chal
+kisii ko hamasafar banaa ke chal
+har ek raastaa sajaa ke chal
+
+(saarii mahafil me.n ik cheharaa ho
+tuu kisii kaa ho ko_ii teraa ho
+bhar le nazar me.n ye roshanii)\-2
+ye roshanii jalaa\-jalaa ke chal
+har ek raastaa sajaa ke chal
+kisii ko hamasafar banaa ke chal
+har ek raastaa sajaa ke chal
+%
+#endindian
+\endsong

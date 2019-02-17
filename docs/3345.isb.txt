@@ -1,0 +1,56 @@
+% ITRANS SONG # 3345; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-08-23 11:27:34 PST
+%
+\startsong
+\stitle{ho rasiyaa ho, kabhii le chal tuu}%
+\film{Daasi}%
+\year{1944}%
+\starring{Ragini, Najmul Hussain, Gyani, Om Prakash}%
+\singer{Zeenat Begum, Second Singer (ss), Third Singer, Chorus}%
+\music{Pt Amarnath}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Dhananjay Naniwadekar
+% Date: 23 august 2002
+% Credits: Satish Kalra and a few more friends
+% Comments: The individual singer credits are offered
+%   tentatively. For a detailed explanation, see the
+%   GEETanjali post for this song in the rmim archives.
+%
+\printtitle
+#indian
+%
+zb, ts, chorus:
+     ho rasiyaa ho, kabhii le chal tuu
+     jamunaa ke paar re
+
+zb: ho duniyaa ke Dar se
+     dilo.n kii rahii.n dil me.n
+ts: ho dilo.n kii rahii.n dil me.n
+zb: tuu bhii mushqil me.n hai
+     mai.n bhii mushqil me.n
+ko: ho rasiyaa ho, rasiyaa ho
+     biitii jaa_e umariyaa hamaar re
+         ho rasiyaa ho      \threedots
+
+ss:   aao mere sai.nyaa mai.n jaa_uu.N marii
+zb??: o mai.n jaa_uu.N marii
+ss??: jamunaa paar chalo baje baa.Nsurii
+zb??: baje baa.Nsurii
+bo:   mohe maaro naa birahaa kii maar re
+          ho rasiyaa ho      \threedots
+
+zb: ho khet rahe.nge jawaanii rahe naa
+ss: ho jawaanii rahe naa
+zb: ho khet rahe.nge jawaanii rahe naa
+ss: jawaanii rahe naa
+zb: aao bhii sai.nyaa.N ko_ii ye kahe naa
+ko: ho rasiyaa ho, rasiyaa ho
+     tuune jaanii naa laagii sitaar re
+         ho rasiyaa ho      \threedots
+%
+#endindian
+\endsong
+%

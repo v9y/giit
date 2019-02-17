@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{ik raastaa hai zindagii jo tham ga_e to kuchh nahii.n}%
+\film{Kaalaa Patthar}%
+\year{1979}%
+\starring{Amitabh Bachhan, Rakhee, Shashi Kapoor, Parveen Babi}%
+\singer{Lata, Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10411 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	ik raastaa hai zindagii jo tham ga_e to kuchh nahii.n
+	ye qadam kisii muqaam pe jo tham ga_e to kuchh nahii.n
+	ik raastaa hai zindagii \threedots
+
+la \:	o jaate raahii o baa.Nke raahii
+	merii baa.Nho.n ko in raaho.n ko
+	tuu chho.D ke naa jaa tuu vaapas aa jaa
+ki \:	vo husn ke jalave ho.n yaa ishq kii aavaaze.n
+	aazaad parindo.n kii rukatii nahii.n paravaaze.n
+	jaate hu_e qadamo.n se aate hu_e qadamo.n se
+	bharii rahegii rahaguzar jo ham ga_e to kuchh nahii.n
+	ik raastaa hai zindagii \threedots
+
+la \:	aisaa gazab nahii.n Dhaanaa piyaa mat jaanaa bidesavaa re
+ko \:	aisaa gazab nahii.n \threedots
+la \:	o hamakaa bhii sa.ng li_e jaanaa piyaa jab jaanaa bidesavaa re \-2
+ki \:	ho jaate hu_e raahii ke saaye se simaTanaa kyaa
+	ik pal ke musaafir ke daaman se lipaTanaa kyaa
+	jaate hu_e qadamo.n se aate hu_e qadamo.n se
+	bharii rahegii rahaguzar jo ham ga_e to kuchh nahii.n
+	ik raastaa hai zindagii \threedots
+%
+#endindian
+\endsong
+

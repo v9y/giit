@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{shaam se aa.Nkh me.n namii sii hai}%
+\film{Marasim (Non-Film)}%
+\year{1999}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+shaam se aa.Nkh me.n namii sii hai
+aaj phir aapakii kamii sii hai
+shaam se aa.Nkh \threedots
+
+dafn kar do hame.n ke saa.Ns mile
+nabz kuchh der se thamii sii hai
+aaj phir aapakii \threedots
+
+vaqt rahataa nahii.n kahii.n Tik kar
+isakii aadat bhii aadamii sii hai
+aaj phir aapakii \threedots
+
+ko_ii rishtaa nahii.n rahaa phir bhii
+ek tasaliim laazamii sii hai
+shaam se aa.Nkh \threedots
+%
+#endindian
+\endsong
+

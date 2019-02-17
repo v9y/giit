@@ -1,0 +1,27 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa jaa mere saathii aa jaa}%
+\film{Saarangaa}%
+\year{1960}%
+\starring{Sudesh Kumar, Jaishri Gadkar, Neelofar, B M Vyas, Niranjan Sharma}%
+\singer{Rafi, Asha}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+aa \:	( aa jaa mere saathii aa jaa
+ra \:	aa jaa mere saathii aa jaa ) \-2
+
+ra \:	yahii yahii jaaduu bharii 	miiThii miiThii taan
+	jisako sun kar Dolate mere tan man praan
+	kis muralii ne chhiin lii merii subah aur shaam
+	raato.n kii ni.ndiyaa ga_ii din kaa gayaa aaraam
+
+#endindian
+\endsong

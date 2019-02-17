@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mai.n gaauu.N tum so jaao, sukh sapano.n me.n kho jaao}%
+\film{Brahmachari}%
+\year{1968}%
+\starring{Shammi Kapoor, Rajashri, Pran, Mumtaz, Jagdeep}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n gaauu.N tum so jaao
+sukh sapano.n me.n kho jaao
+maanaa aaj kii raat hai lambii
+maanaa din thaa bhaarii
+par jag badalaa badalegii
+ek din taqadiir hamaarii
+us din ke khvaab sajaao
+
+1) kal tum jab aa.Nkhe.n khologe
+jab hogaa ujiyaaraa
+khushiyo.n kaa sandeshaa lekar
+aaegaa saveraa pyaaraa
+mat aas ke diip bujhaao, 
+mai.n gaaU.N \threedots
+
+2) jii karataa hai jiite jii
+mai.n yU.N hii gaataa jaaU.n
+gardish me.n thake haatho.n kaa
+maathaa sahalaataa jaauu.n
+phir ik din tum doharaao, 
+sukh sapano.n \threedots
+%
+#endindian
+\endsong
+%

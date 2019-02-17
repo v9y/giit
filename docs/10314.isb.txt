@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ik baat kahuu.N mere piyaa sun le agar tuu}%
+\film{Amar}%
+\year{1954}%
+\starring{Dilip Kumar, Madhubala, Nimmi}%
+\singer{Asha}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #11427 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ik baat kahuu.N mere piyaa sun le agar tuu \-2
+o piyaa sun le agar tuu
+ik baat kahuu.N \threedots
+jab dil me.n nahii.n paap to phir soch naa kar tuu
+ik baat kahuu.N \threedots
+
+chhoTe se mere man me.n hai kyaa kah nahii.n paa_uu.N
+mai.n to kah nahii.n paa_uu.N
+kahate hu_e sharamaa_uu.N bhalaa kaise bataa_uu.N
+mai.n kaise bataa_uu.N
+o sab kuchh hai in aa.Nkho.n me.n zaraa dekh idhar tuu
+o piyaa dekh idhar tuu
+jab dil me.n nahii.n \threedots
+
+do naino.n ke panaghaT pe ( lage pyaar ke mele ) \-2 \-2
+aa.Nsuu bhii hai muskaan bhii ( jo chaahe so le\-le ) \-2
+ho saajan bhare baazaar se khaalii naa guzar tuu
+piyaa khaalii naa guzar tuu
+jab dil me.n nahii.n \threedots
+%
+#endindian
+\endsong
+

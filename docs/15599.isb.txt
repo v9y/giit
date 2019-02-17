@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{zamaane bhar me.n jo badanaam bewafaa hii rahaa}%
+\film{Asha Aur Khayam (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Asha}%
+\music{Khayyam}%
+\lyrics{Naqsh Lyallpuri}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+zamaane bhar me.n jo badanaam bewafaa hii rahaa
+merii nigaah me.n wo ek dewataa hii rahaa
+
+qariib aane kii milane kii baat kar lete
+naye naye wo bahaane taraashataa hii rahaa
+
+na jaane kaun sii ma.nzil hai ye muhabbat bhii
+wo dil ke paas thaa dil usako Dhuu.NDhataa hii rahaa
+
+hazaar zaKm chhupaa kar wo apane siine me.n
+Kushii ke phuul zamaane me.n baa.NTataa hii rahaa
+
+#endindian
+\endsong

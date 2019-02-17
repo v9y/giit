@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ba.De pyaar se milanaa sabase duniyaa me.n inasaan re}%
+\film{Sati Anusuyaa}%
+\year{1956}%
+\starring{Sumitra Devi, Manhar Desai, Sulochana, Niranjan Sharma, B M Vyas}%
+\singer{Rafi}%
+\music{Shivram}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10367 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ba.De pyaar se milanaa sabase \-2
+duniyaa me.n inasaan re
+kyaa jaane kis bhes me.n baabaa mil jaa_e bhagavaan re
+
+( kaun ba.Daa hai kaun hai chhoTaa ) \-2 uu.Nchaa kaun aur niichaa
+prem ke jal se sabhii ko siichaa yah hai prabhuu kaa baGiichaa \-2
+( mat khii.ncho.n tum diivaare.n ) \-2 inasaano.n ke daramiyaan re
+kyaa jaane kis bhes me.n \threedots
+
+o maha.nt jii \-2
+tum maha.nt jii khoj rahe unhe.n motii kii la.Diyo.n me.n
+prabhuu ko motii kii la.Diyo.n me.n
+kabhii unhe.n Dhuu.NDhaa kyaa Gariibo.n kii a.Nta.Diyo.n me.n \-2
+( diin jano.n ke a.Nsuvan me.n ) \-2 kyaa kabhii kiyaa hai snaan re
+kyaa jaane kis bhes me.n \threedots
+
+kyaa jaane kab shyaam muraarii aa jaave ban kar ke bhikhaarii \-2
+( lauT na jaa_e kabhii dvaar se ) \-2 binaa li_e kuchh daan re
+kyaa jaane kis bhes me.n \threedots
+%
+#endindian
+\endsong
+

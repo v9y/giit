@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{khaamosh hai jahaa.N, mad_hosh hai fizaa, dil me.n samaa jaa}%
+\film{Naaz}%
+\year{1954}%
+\starring{}%
+\singer{Meena Kapoor, chorus}%
+\music{Anil Biswas}%
+\lyrics{Safdar 'Aah'}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+ko : dil me.n samaa jaa, dil me.n samaa jaa   \threedots
+sab: khaamosh hai jahaa.N, mad_hosh hai fizaa
+     dil me.n samaa jaa
+
+mii: khaamosh hai jahaa.N, mad_hosh hai fizaa
+     dil me.n samaa jaa
+
+     ai jaan\-e-\jahaa.N, jaan\-e\-jigar, jaan\-e\-tamannaa
+     sadake tere dharatii mere saamaan\-e\-tamannaa
+     ai naaz\-e\-saraapaa, aa dil me.n samaa jaa   \threedots
+
+     sun mast adaa mast nazar mast javaanii
+     ai jaam\-e\-muhabbat hame.n ye rakt\-e-\javaanii
+     pii aur pilaa jaa, aa dil me.n samaa jaa   \threedots
+
+sab: aa dil me.n samaa jaa
+     aa dil me.n samaa jaa
+%
+#endindian
+\endsong
+%

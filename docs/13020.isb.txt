@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{teraa jogii aayaa tuu Daal de bhixaa pyaar kii}%
+\film{Meraa Jeewan}%
+\year{1976}%
+\starring{Vidya Sinha, Ambika Jauhar, Dushyant, Satyen Kappu, Jairaj, Shivraj}%
+\singer{Rafi, Pankaj Mitra}%
+\music{Sapan Jagmohan}%
+\lyrics{M G Hashmat}%
+%
+% Contributor: BOL ANAMOL #10356 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+teraa jogii aayaa \-2
+tuu Daal de bhixaa pyaar kii aur le\-le du_aa diladaar kii
+teraa jogii aayaa \threedots
+
+mai.n jaanuu.N tuu jaane yaa rab jaane \-2
+
+hiir bane tuu raa.Njhaa ban ke terii galii mai.n aa_uu.N
+naam agar ho teraa lailaa mai.n majanuu.n kahalaa_uu.N
+tere pyaar me.n patthar khaa_uu.N aur mar ke amar ho jaa_uu.N
+teraa jogii aayaa \threedots
+
+pyaar ke raahii janam\-janam me.n ruup badal ke aa_e
+phir bhii aa.Nkhe.n naa pahachaane.n ye to samajh naa paa_e
+mere dil ke aramaa.N gaa_e.n aur tujhako yaad dilaa_e.n
+teraa jogii aayaa \threedots
+%
+#endindian
+\endsong
+

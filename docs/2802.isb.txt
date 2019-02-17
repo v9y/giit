@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{chham chham baaje re paayaliyaa}%
+\film{Jaane Anjane}%
+\year{1971}%
+\starring{Shammi Kapoor}%
+\singer{Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Uday Patel
+% Transliterator: K Vijay Kumar
+% Credits: Sanjeev Rambhadran
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chham\-chham baaje re paayaliyaa
+raah chalat lachake panihaarii
+chhalake gagariyaa
+chham chham baaje re paayaliyaa \threedots
+
+gore badan par bhiigii saarii
+aur lage sundar ye naarii
+motii ban\-bana Tapake paanii
+bhiigata jaaye Dagariyaa
+chham chham baaje re paayaliyaa \threedots
+
+chandramukhii jab laT bikharaaye
+jag saaraa ye dhokhaa khaaye
+ko_ii kahe lo saavan aayaa
+aayii kaarii badariyaa
+chham chham baaje re paayaliyaa \threedots
+
+mukha.De par aa.Nchal malamal kaa
+yaa koii khilataa phuul kamal kaa
+aayii na jaane kaun nagar se
+jaaye kaun nagariyaa
+chham chham baaje re paayaliyaa \threedots
+
+%
+#endindian
+\endsong
+%

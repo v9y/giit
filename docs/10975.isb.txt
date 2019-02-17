@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{vo chaa.Nd jaisii la.Dakii is dil pe chhaa rahi hai}%
+\film{Devdas}%
+\year{2002}%
+\starring{Shahrukh Khan, Madhuri Dixit, Aishwarya Rai}%
+\singer{Udit Narayan}%
+\music{Ismail Darbar}%
+\lyrics{Nusrat Badr}%
+%
+% Contributor:  V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+vo chaa.Nd jaisii la.Dakii is dil pe chhaa rahii hai
+aa.Nkho.n ke raaste se is dil me.n aa rahii hai
+vo chaa.Nd vo chaa.Nd vo chaa.Nd jaisii la.Dakii \threedots
+
+alha.D sii bholii bhaalii maasuum ye sharaarat
+badalii nahii.n hai ab tak bachapan kii us kii aadat
+ta.Dapaa rahii hai.n yaade.n
+ho jaa_uu.N naa naa ho jaa_uu.N ho jaa_uu.N naa mai.n paagal
+aa jaa_e saamane vo ye jaan jaa rahii hai
+vo vo chaa.Nd jaisii la.Dakii \threedots
+
+meraa chaa.Nd baadalo.n me.n kyuu.N jaa ke so gayaa hai
+ab duur is kadar vo kyuu.N mujh se ho gayaa hai
+kyuu.N jii rahaa huu.N tanhaa ye yaad bhii nahii.n hai
+bas itanaa yaad hai ki vo yaad aa rahii hai
+vo chaa.Nd vo chaa.Nd vo chaa.Nd jaisii la.Dakii \threedots
+%
+#endindian
+\endsong

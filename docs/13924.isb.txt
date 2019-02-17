@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aa mere sanam tujhako mai.n pyaar duu.N ... ishq davaa hai saare Gam kii}%
+\film{Soch}%
+\year{2002}%
+\starring{Sanjay Kapoor, Ravina Tandon, Aditi Govitrikar, Arbaz Khan, Danny Danjongpa}%
+\singer{Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa mere sanam tujhako mai.n pyaar duu.N
+is chaahat pe saa.Nse.n bhii vaar duu.N
+baaho.n me.n sonaa yaar hai
+bechainii me.n qaraar hai
+ishq davaa hai saare Gam kii
+isame.n khushbuu har mausam kii re
+aa mere sanam tujhako \threedots
+
+ye tanhaa_ii le luu.N terii tujhape luTaa duu.N har khushii
+tuu naa jaane tuu naa samajhe tujhse hai merii zi.ndagii
+mere kitane qariib hai tuu to meraa nasiib hai
+ishq davaa hai \threedots
+
+maanaa ke hai mushkil lekin aasaa.n ho jaa_egaa safar
+dhiire dhiire tujhape hogaa merii vafaa_o.n kaa asar
+mujhako to etabaar hai kahataa dil baar baar hai
+ishq davaa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{tere pyaar me.n diladaar jo hai meraa haal\-e\-izaar}%
+\film{Mere Mehboob}%
+\year{1963}%
+\starring{Rajendra Kumar, Sadhana, Ameeta, Ashok Kumar, Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@eng.umd.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+paas rahate hue bhI tujhase bahut dUr hai.n ham 
+kissA\-e\-dard sunaate hai.n ke majabuur hai.n ham 
+
+tere pyaar me.n diladaar jo hai meraa haal\-e\-izaar 
+koI dekhe yA nA dekhe allaah dekh rahaa hai 
+tere pyaar me.n diladaar \threedots
+
+jabase terI yaad mere dil me.n samaaii hai 
+vallaah kisii raat mujhe nii.nd nahii.n aaI hai 
+miiThaa miiThaa dard hai, ho.nTho.n pe aahe.n sard hai.n, 
+cheharaa bhI meraa zard hai 
+nA jaane kyA ra.ng dikhaae terA i.ntazaar 
+tere pyaar me.n diladaar \threedots
+
+tU hii merI zindagii hai, tU hii merI jaan hai 
+mujhako tU mil jaaye meraa yahii ek aramaan hai 
+terA meraa sAth ho, kuchh dil se dil kI baat ho, 
+jii bharake mulaakaat ho 
+naGame gaae.n pyaar ke milakar chhe.De.n dil ke taar 
+tere pyaar me.n diladaar \threedots
+
+sadake tere jaauu.n meraa TuuTaa dil jo.D de 
+nazaro.n kA hijaab zaraa nazaro.n se hii to.D de 
+aa.Nkho.n se kyuu.n dUr hai, kyuu.n milane se majabuur hai, 
+dil meraa Gam se chuur hai 
+yuu.nhii ta.Dape jaauu.Ngii jab tak nA hogaa diidaar 
+tere pyaar me.n diladaar \threedots
+%
+#endindian
+\endsong
+%

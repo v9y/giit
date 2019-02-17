@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{zindagii badalii mohabbat kaa mazaa aane lagaa}%
+\film{Anhonee}%
+\year{1952}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata, Rajkumari}%
+\music{Roshan}%
+\lyrics{Nakhshab Jaaravchi}%
+%
+% Contributor: BOL ANAMOL #11912 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	zindagii badalii mohabbat kaa mazaa aane lagaa
+	haay zindagii badalii
+la \:	dil ke Tuka.De ho gaye har saa.Ns ta.Dapaane lagaa
+	haay zindagii badalii
+ra \:	zindagii badalii mohabbat kaa mazaa aane lagaa
+	haay zindagii badalii
+
+	( sach to ye hai dil ke haatho.n apanii qisamat ban ga_ii
+	apanii qisamat ban ga_ii ) \-2
+la \:	dil ke haatho.n ye muqaddar Thokare.n khaane lagaa
+	dil ke Tuka.De ho gaye har saa.Ns ta.Dapaane lagaa
+	haay zindagii badalii
+ra \:	zindagii badalii mohabbat kaa mazaa aane lagaa
+	haay zindagii badalii
+
+	( aaj kitanaa apane mu.Nh (?) par ek dil ko naaz hai
+	ek dil ko naaz hai ) \-2
+la \:	ek dil apane kiye par aap pachhataane lagaa
+	dil ke Tuka.De ho gaye har saa.Ns ta.Dapaane lagaa
+	haay zindagii badalii
+ra \:	zindagii badalii mohabbat kaa mazaa aane lagaa
+	haay zindagii badalii
+la \:	dil ke Tuka.De ho gaye har saa.Ns ta.Dapaane lagaa
+	haay zindagii badalii
+%
+#endindian
+\endsong
+

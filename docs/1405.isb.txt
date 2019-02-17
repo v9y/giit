@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{pahachaan to thii pahachaanaa nahii.n mai.nne, apane aap ko jaanaa nahii.n}%
+\film{Griha Pravesh}%
+\year{}%
+\starring{Sanjeev Kumar, Sharmila, Sarika}%
+\singer{Chandrani Mukherjee}%
+\music{Kanu Roy}%
+\lyrics{Gulzar}%
+%
+% Contributor: C.S.Sudarshan Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Header Info: Pradeep Dubey (pradeep@watson.ibm.com)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+pahachaan to thI pahachaanaa nahI.n mai.nne
+apane aap ko jaanaa nahI.n
+pahachaan to thI
+
+jab dhuup barasatI hai sar pe to
+paanI me.n chhaa.Nv khilatI hai
+mai.n bhuul gaI thI chhaa.Nv agar
+milatI hai to dhuup me.n milatI hai
+is dhuup aur chhaa.Nv kii khel me.n kyo.n
+jinakaa ishaaraa samajhaa nahI.n
+pahachaan \threedots
+
+mai.n jaagii rahI kuchh sapano.n me.n aur
+jaagii huI bhI soI rahI
+jaane kin bhuulabhulaiyaa me.n kuchh
+bhaTakI rahI kuchh khoI rahI
+jinake liye mai.n maratI rahI
+jinakaa ishaaraa samajhaa nahI.n
+pahachaan \threedots
+%
+#endindian
+\endsong
+%

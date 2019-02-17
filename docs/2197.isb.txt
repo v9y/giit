@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ruup suhaanaa lagataa hai}%
+\film{The Gentleman}%
+\year{}%
+\starring{Chiranjeevi, Juhi Chawla, Kulbhushan}%
+\singer{S P Balasubramaniam, Chitra}%
+\music{Annu Malik}%
+\lyrics{Indeevar}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Date: Sat Jul 15 1995
+%
+\printtitle
+#indian
+%
+ko:   (ruup suhaanaa lagataa hai
+      chaa.Nd puraanaa lagataa hai
+      tere aage o jaanam) \- 2
+
+chi : (tuu bhii kyaa chiiz hai, har dil aziiz hai
+      dil chaahe dekhe tujhe ham haradam) \- 2
+ko:   ruup suhaanaa \threedots
+
+baa:  (mai.n divaanaa aavaaraa baadal
+      galiyo.n me.n firataa huu.N mai.n maaraa maaraa) \- 2
+      mahalo.n kii tuu rahane vaalii
+      kaise banuu.Ngaa teraa sahaaraa
+      phir bhii na jaane dil kyo.n naa maane
+      har dil har pal tujhako pukaare
+      ruup suhaanaa \threedots
+
+chi:  mahalo.n kii kyaa hai mujhako zaruurat
+      mai.n to tere dil me.n rahuu.Ngii
+      phuulo.n pe sa.ng sa.ng sab chalate hai.n
+      kaa.nTo.n pe sa.ng sa.ng mai.n to chaluu.Ngii
+      hone lagaa tuu saa.Nso.n me.n shaamil
+      jinaa hai bas mujhe tere sahaare
+
+ko:   ruup suhaanaa \threedots 
+%
+#endindian
+\endsong
+%

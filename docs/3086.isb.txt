@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ham pyaar kare.nge}%
+\film{Chhote Babu}%
+\year{}%
+\starring{}%
+\singer{Hemant, Lata}%
+\music{Madan Mohan}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments: Hemantada... #57
+%
+\printtitle
+#indian
+%
+
+he: ham pyaar kare.nge ham pyaar kare.nge
+    ham la.Dake jhaga.Dake bhii pyaar kare.nge 
+la: ek baar kare.nge do baar kare.nge
+    sau baar sau baar sau baar kare.nge 
+do: ham pyaar kare.nge ham pyaar kare.nge
+
+he: (gar saare saare din ham aa na sake) \-2
+    (vaadaa karake bhii apanaa nibhaa na sake) \-2
+la: (saarii saarii raat teraa i.ntazaar kare.nge ) \-2
+     ek baar kare.nge do baar kare.nge
+     sau baar sau baar sau baar kare.nge 
+do:  ham pyaar kare.nge ham pyaar kare.nge
+
+la: (ham laaj ke maare mar jaaye.nge) \-2
+    (par saamane na tere kabhii aaye.nge ) \-2
+he: (chhup\-chhup ke teraa diidaar kare.nge) \-2
+     ek baar kare.nge do baar kare.nge
+     sau baar sau baar sau baar kare.nge 
+do:  ham pyaar kare.nge ham pyaar kare.nge
+
+do: (hame.n lage hai.n ba.De is duniyaa ke Dar
+     kahii.n pyaar ko hamaare lag jaaye na nazar ) \-2
+    (ham chorii\-chorii yuu.N hii taqaraar kare.nge ) \-2
+     ek baar kare.nge do baar kare.nge
+     sau baar sau baar sau baar kare.nge 
+     ham pyaar kare.nge ham pyaar kare.nge
+
+%
+#endindian
+\endsong
+%

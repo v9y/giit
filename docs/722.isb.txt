@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{havaa ke saath saath, ghaTaa ke sa.ng sa.ng, o saathii chal}%
+\film{Seeta aur Geeta}%
+\year{}%
+\starring{Sanjeev Kumar, Hema Malini}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Credits: Anand P. Narayan (narayan@ucsu.Colorado.EDU)
+%          Credits: Venkatasubramanian K G (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+havaa ke saath saath
+ghaTaa ke sa.ng sa.ng
+o saathii chal
+mujhe leke saath chal tuu
+yuu.N hii din\-raat chal tuu
+sambhal mere saath chal tuu
+le haatho.n me.n haath chal tuu
+o saathii chal
+
+ek to ye mausam hai ba.Daa suhaanaa
+apanaa to ye dil bhii hai diivaanaa
+parbat se aake na Takaraa jaanaa
+tuu banake baadal
+o saathii chal \threedots
+
+ha.Nsatii hai ye duniyaa to ha.Nsane de
+are naagan banakar is rut ko da.Nsane de
+mujhako apanii aa.Nkho.n me.n basane de
+o banake kaajal
+o saathii chal \threedots
+
+apani reshamii zulphe.n laharaane de
+mujhako apanii baa.nho.n me.n aane de
+thak ga_ii aaj bahut mai.n ab jaane de naa
+mile.nge phir kal
+o saathii chal \threedots
+%
+#endindian
+\endsong
+%

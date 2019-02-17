@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{meha.ndii hai rachii mere haatho.n me.n ... chakale mu.nDiyaa}%
+\film{Tumko Na Bhool Payenge}%
+\year{2002}%
+\starring{Salman Khan, Sushmita Sen, Diya Mirza}%
+\singer{Jaspindar Narula, Sonu Nigam, Chorus}%
+\music{Dabbu Malik}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+meha.ndii hai rachii mere haatho.n me.n
+jhaa.njhar hai baa.ndhii mere paa.Nvo.n me.n
+o chakale mu.nDiyaa chakale nachadii ku.Dii nuu chakale
+
+mauqaa ye diyaa hai rab ne ma.njuur kiyaa hai sab ne
+o chak de mu.nDeyaa chak de nachadii ku.Dii nuu chak de
+
+nahii.n milanaa phir ye mauqaa mausam hai aramaano.n kaa
+o melaa hai gharavaalo.n kaa svaagat hai mehamaano.n kaa
+ye gha.Dii hai shaguno.n vaalii hai rasam muraado.n vaalii
+chak de mu.nDeyaa \threedots
+
+taaro.n se maa.Ng sajegii tuu merii dulhaniyaa banegii
+le jaaye.nge chaa.Nd churaa ke shaguno.n kii chunariyaa u.Dhaa ke
+phir der na kar saa.Nvariyaa le thaam le merii chunariyaa
+o chakale mu.nDeyaa \threedots
+
+ham ho.nge tere sajanaa ainuu baa.ndh paraa.nde rakhanaa
+o pahan le meraa ka.nganaa tainuu.n pa.Degaa mai.nnuu chakanaa
+naa maar tuu aisii bolii le chak de merii Dolii
+chal Dhol bajaa ve Dholii taiyaar hai merii Dolii
+mauqaa ye diyaa hai \threedots
+%
+#endindian
+\endsong
+

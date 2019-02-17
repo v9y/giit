@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{use mil ga_ii na_ii zindagii jise dard\-e\-dil ne miTaa diyaa}%
+\film{Halaaku}%
+\year{1956}%
+\starring{Ajit, Meena Kumari, Veena, Pran}%
+\singer{Lata}%
+\music{Shankar Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10835 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+use mil ga_ii na_ii zindagii jise dard\-e\-dil ne miTaa diyaa
+vo bahaar ban ke sa.Nvar gayaa jise saaz\-e\-Gam ne jalaa diyaa
+use mil ga_ii na_ii \threedots
+
+jo kisii ke pyaar me.n miT gayaa rahii yaad usakii nishaaniyaa.N
+vo rahaa dilo.n ke jahaan me.n jise dillagii ne miTaa diyaa
+use mil ga_ii na_ii \threedots
+
+jo ta.Dap se khaalii hai zindagii vo shamaa hai jaise bujhii hu_ii
+mere dilarubaa teraa shukriyaa merii hasarato.n ko jagaa diyaa
+use mil ga_ii na_ii \threedots
+
+jahaa.N dekhate hai.n vahaa.N hai tuu hame.n aur kuchh bhii Kabar nahii.n
+tere pyaar kaa vo nashaa hu_aa ki zamaane bhar ko bhulaa diyaa
+use mil ga_ii na_ii \threedots
+%
+#endindian
+\endsong
+

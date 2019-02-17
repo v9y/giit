@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mai.n pal do pal kaa shaayar huu.N}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Amitabh Bachchan, Shashi Kapoor, Rakhee}%
+\singer{Mukesh}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mai.n pal do pal kaa shaayar huu.N
+pal do pal merii kahaanii hai
+pal do pal merii hastii hai
+pal do pal merii javaanii hai
+mai.n pal do pal kaa shaayar huu.N \threedots
+
+mujhase pahale kitane shaayar
+aae aur aakar chale gae
+kuchh aahe.n bhar kar lauT gae
+kuchh naGame gaakar chale gae
+vo bhii ek pal kaa kissaa thaa
+mai.n bhii ek pal kaa kissaa huu.N
+kal tumase judaa ho jaauu.Ngaa
+vo aaj tumhaaraa hissaa huu.N
+mai.n pal do pal kaa shaayar huu.N \threedots
+
+kal aur aae.nge naGamo.n kii
+khilatii kaliyaa.N chunane vaale
+mujhase behatar kahane vaale
+tumase behatar sunane vaale
+kal koii mujhako yaad kare
+kyuu.N koii mujhako yaad kare
+masaruuf zamaanaa mere liye
+kyuu.N vaqt apanaa barabaad kare
+mai.n pal do pal kaa shaayar huu.N \threedots
+%
+#endindian
+\endsong
+%

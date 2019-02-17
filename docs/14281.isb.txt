@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{de\-de pyaar de}%
+\film{Sharaabi}%
+\year{1984}%
+\starring{Amitabh Bachchan, Jaya Prada, Om Prakash, Pran, Deepak Parashar, Suresh Oberoi, Mukri}%
+\singer{Kishore/ Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11632 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+de\-de pyaar de
+de\-de pyaar de pyaar de pyaar de\-de hame.n pyaar de \-2
+duniyaa vaale kuchh bhii samajhe.n ham hai.n prem diivaane
+jahaa.N bhii jaa_e.N tujhe pukaare.n gaa ke prem taraane
+de\-de pyaar de \threedots
+
+aane ko to roz hii aate suuraj\-chaa.Nd\-sitaare
+ho phir bhii a.Ndherii hai ye duniyaa tuu hii raah dikhaa_e
+prem\-pyaar\-sukh\-chain kii varShaa terii nazar se barase
+ye dukh\-dard kii aag me.n bhii ko_ii dil naa pyaasaa tarase
+de\-de pyaar de \threedots
+
+yahaa.N dilo.n ke biich kha.Dii jo vo diivaar giraa de
+haa.N dil me.n so_ii\-so_ii aisii pyaar kii jot jagaa de
+pyaar ho dil me.n to lagatii hai saarii duniyaa pyaarii
+ham saarii duniyaa ke saarii duniyaa hamaarii
+de\-de pyaar de \threedots
+%
+#endindian
+\endsong
+

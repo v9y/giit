@@ -1,0 +1,62 @@
+% ITRANS SONG
+
+\startsong
+\stitle{saa.Njh Dhalii dil kii lagii thak chalii pukaar ke}%
+\film{Kaalaa Baazaar}%
+\year{1960}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Manna Dey, Asha}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+ma \:	( saa.Njh Dhalii dil kii lagii thak chalii pukaar ke
+	aa jaa, aa jaa, aa bhii jaa
+aa \:	kyaa duu.N pahale se mai.n baiThii huu.N dil haar ke
+	jaa jaa, jaa jaa, jaa tuu jaa ) \-2
+
+ma \:	zid pe aa gayaa hai dil ke aaj yuu.N na lauTanaa
+aa \:	merii suno lauT jaa_o chho.D do ye bachapanaa
+ma \:	chaar din kii zi.ndagii me.n din hai.n do bahaar ke
+
+	aa jaa, aa jaa, aa bhii jaa
+aa \:	e he he he
+	kyaa duu.N pahale se mai.n baiThii huu.N dil haar ke
+	jaa jaa, jaa jaa, jaa tuu jaa
+
+ma \:	aa aa
+aa \:	jaa jaa
+
+	kaise kahuu.N kaisii ulajhano.n me.n merii jaan hai
+ma \:	o ho ho
+	haa.N ko naa samajh gaye ye pyaar kii zubaan hai
+aa \:	kaaTane hai.n din hame.n kisii ke i.ntazaar ke
+
+	jaa jaa, jaa jaa, jaa tuu jaa
+ma \:	o ho ho ho
+	saa.Njh Dhalii dil kii lagii thak chalii pukaar ke
+	aa jaa, aa jaa, aa bhii jaa
+aa \:	e e e e 
+	kyaa duu.N pahale se mai.n baiThii huu.N dil haar ke
+	jaa jaa, jaa jaa, jaa tuu jaa
+
+ma \:	sun to le ke mere dil kaa tujhase kyaa sawaal hai
+aa \:	kuchh na kar sakuu.Ngii mai.n isii kaa to malaal hai
+ma \:	dil na to.D chaahe bol do hii bol pyaar ke
+
+	aa jaa aa jaa, aa bhii jaa
+aa \:	kyaa duu.N pahale se mai.n baiThii huu.N dil haar ke
+	jaa jaa, jaa jaa, jaa tuu jaa
+ma \:	saa.Njh Dhalii dil kii lagii thak chalii pukaar ke
+	aa jaa, aa jaa, aa bhii jaa
+aa \:	jaa jaa, jaa jaa, jaa tuu jaa
+ma \:	aa jaa aa jaa
+aa \:	jaa tuu jaa
+
+#endindian
+\endsong

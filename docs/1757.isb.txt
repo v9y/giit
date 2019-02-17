@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{tum bin jiivan kaise biitaa, puuchho mere dil se, puuchho mere dil se}%
+\film{Anita}%
+\year{1967}%
+\starring{Manoj Kumar, Sadhana}%
+\singer{Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Ramesh Hariharan (hariharn@phoenix.Princeton.EDU)
+%          Rajan P. Parrikar (parrikar@spot.Colorado.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum bin jiivan kaise biitaa,
+puuchho mere dil se,  puuchho mere dil se
+
+saavan ke din aae,  biitii yaade.n laae
+kaun jhukaakar aa.Nkhe.n,  mujhako paas biThaae
+kaisaa thaa pyaaraa ruup tumhaaraa,
+puuchho mere dil se,  puuchho mere dil se
+tum bin jiivan \threedots
+
+prem kaa saagar haay, chaaro.n taraf laharaae
+jitanaa aage jaauu.N,  gaharaa hotaa jae
+Gam ke bha.nvar me.n,  kyaa kyaa Duubaa,
+puuchho mere dil se,  puuchho mere dil se
+tum bin jiivan \threedots
+
+jaise juganuu ban me.n,  tuu chamake a.nsuvan me.n
+ban kar phuul khilii ho,  jaane kis bagiyan me.n
+mai apanii qismat pe royaa,
+puuchho mere dil se,  puuchho mere dil se
+tum bin jiivan \threedots
+%
+#endindian
+\endsong
+%

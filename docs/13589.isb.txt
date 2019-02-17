@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{do a.nkhiyaa.N jhukii\-jhukii sii}%
+\film{Prem Patra}%
+\year{1962}%
+\starring{Sadhna, Shashi Kapoor}%
+\singer{Mukesh, Lata}%
+\music{Salil Chaudhary}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10345 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	do a.nkhiyaa.N jhukii\-jhukii sii \-2
+	kaliyo.n se naazuk ho.nTho.n par kavitaa rukii\-rukii sii
+	do a.nkhiyaa.N jhukii \threedots
+
+	sharamaatii palako.n me.n sapane jab aa.Nkh\-michaulii khele.n
+	laharaatii zulfe.n mukha.De ko saa_e me.n jab le le.n
+	ik Kushbuu u.Dii\-u.Dii sii
+	do a.nkhiyaa.N jhukii \threedots
+
+la \:	mere dil kii Kaamoshii me.n halachal kaun machaa_e
+	ik dhu.Ndhalii sii tasviir bane aur banakar miT jaa_e
+	ik hasarat dabii\-dabii sii
+mu \:	do a.nkhiyaa.N jhukii \threedots
+
+	ek pal laage apanii\-apanii aur duuje pal begaanii
+	kuchh a.njaanii sii suurat hai kuchh jaanii pahachaanii
+	paas aakar chhupii\-chhupii sii
+	do a.nkhiyaa.N jhukii \threedots
+%
+#endindian
+\endsong
+

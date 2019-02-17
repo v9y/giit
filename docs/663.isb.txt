@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{hai ye duniyaa kaun sii ai dil mujhe kyaa ho gayaa}%
+\film{Sailaab}%
+\starring{}%
+\singer{Geeta}%
+\music{Mukul Roy}%
+\lyrics{Majrooh}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+hai ye duniyaa kaun sii ai dil mujhe kyaa ho gayaa
+jaise manzil par ko_ii aake musaafir kho gayaa
+hai ye duniyaa kaun sii ai dil mujhe kyaa ho gayaa \threedots
+
+mai.n huu.N ik pa.nchhii akelaa is gagan kI chhaao.N me.n (2)
+u.Date u.Date aagayaa hU.N baadalo.n ke gaao.n me.n
+apane hii sapano.n kii dhun me.n chalate chalate so gayaa
+hai ye duniyaa kaun sii ai dil mujhe kyaa ho gayaa \threedots
+
+sun bhii lo Gam kii sadaaye.n dard kaa paiGaam lo (2)
+Dagamagaate jaa rahe hai.n aake hamako thaam lo
+phir naa kahanaa zi.ndagii kaa aasaraa gum ho gayaa
+hai ye duniyaa kaun sii ai dil mujhe kyaa ho gayaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tumase hai jitanaa pyaar ye ham ... o mitavaa tujhe meraa pyaar pukaare}%
+\film{Jeenaa Marnaa Tere Sang}%
+\year{1992}%
+\starring{Sanjay Dutt, Raveena, Javed Jafri, Paresh, Tej Sapru, Aruna Irani}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumase hai jitanaa pyaar ye ham kah nahii.n sakate
+tumase bichha.D ke ham to zi.ndaa rah nahii.n sakate
+o mitavaa tujhe meraa pyaar pukaare aa re aa re aa re
+tumase hai jitanaa pyaar \threedots
+
+o mitavaa tujhe mere giit pukaare.n aa re aa re aa re
+
+mere saa.Nso.n ke aa.ngan me.n terii hai tasviir sanam
+mai.n terii taqadiir aur tuu merii hai taqadiir sajan
+terii khaatir to duniyaa kii rasmo.n ko ham to.De.nge
+chaahe chhuuTe saarii duniyaa tujhako na chho.De.nge
+tum mujhako milate ho jaise apanaapan saa lagataa hai
+tere pyaar kii baaho.n me.n mujhako jiivan saa lagataa hai
+terii aa.Nkho.n me.n din meraa zulfo.n me.n hai shaan lage
+jiivan jisako kahate hai.n vo teraa naam lage
+o mitavaa tujhe \threedots
+
+
+o mitavaa tujhe \threedots
+%
+#endindian
+\endsong
+

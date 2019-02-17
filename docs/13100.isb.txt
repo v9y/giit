@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{hamane jo bhii tumako di_e}%
+\film{Mard Ki Zabaan}%
+\year{1987}%
+\starring{Jackie Shrof, Poonam Dhillon, Kimi Katkar, Shakti Kapoor, Asrani}%
+\singer{Kishore, Alka}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11637 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	hamane jo bhii tumako di_e \-2
+	lauTaa do hamako vo priye ( lauTaa do vo bose ke saath ) \-2 ho
+a \:	kisii ko jab di_e jaate hai.n \-2
+	to vaapas kab li_e jaate hai.n ( tohafe aur sauGaat) \-2
+ki \:	hamane jo bhii \threedots
+
+	haTatii nahii.n hai nazar ho dekhuu.N badan ko jahaa.N \-2
+	aisii ravaanii sanam ho saare jahaa.N me.n kahaa.N
+	pyaar kii tum pe kii jo barasaat \-2
+	lauTaa do hamako \threedots
+a \:	kisii ko jab di_e \threedots
+
+	gesuu bikhare hu_e siine se lipaTii rahuu.N lipaTii rahuu.N \-2
+	( merii tamannaa ) \-2 kii baa.Nho.n me.n lipaTii rahuu.N lipaTii rahuu.N \-2
+	de ke lene kii karo nahii.n baat
+ki \:	hamane jo bhii \threedots
+a \:	kisii ko jab di_e \threedots
+ki \:	lauTaa do hamako \threedots
+%
+#endindian
+\endsong
+

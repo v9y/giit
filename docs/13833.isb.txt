@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{rok lo apanii mast a.Nga.Daa_ii ... dil ne dil se jaane kyaa kahaa}%
+\film{Rakhwaalaa}%
+\year{1971}%
+\starring{Dharmendra, Lina Chandrawarkar, Vinod Khanna}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11159 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	rok lo apanii mast a.Nga.Daa_ii dono.n aalam na TuuT jaa_e.N kahii.n
+la \:	aasamaa.N ke hasiin haatho.n se chaa.Nd\-suuraj na chhuuT jaa_e.N kahii.N 
+
+ra \:	dil ne dil se jaane kyaa kahaa ho tere nain mere nain dekhate rahe ho \-2
+la \:	baato.n\-baato.n me.n jaane kyaa hu_aa ho tere nain mere nain dekhate rahe ho \-2
+
+ra \:	in bahaaro.n ne dulhan banaayaa tujhe
+	aur kiraNo.n kaa jevar pahanaayaa tujhe
+	saare kasiido.n ne milakar sajaayaa tujhe
+	pyaar se havaa ne jhuulaa jhulaayaa tujhe
+	aayaa mausam javaa.N pyaar kaa ho
+	tere nain mere nain \threedots
+
+la \:	terii baa.Nho.n kaa aisaa sahaaraa milaa
+	jaise tuufaano.n me.n ko_ii kinaaraa milaa
+	mere haatho.n ko daaman tumhaaraa milaa
+	jaise nadiyo.n ko saagar kaa dhaaraa milaa
+	dil Kushii se machalane lagaa ho
+	tere nain mere nain \threedots
+
+ra \:	tere jalavo.n se roshan nazaare rahe.n
+	in nazaaro.n me.n tere ishaare rahe.n
+la \:	niile ambar pe jab tak sitaare rahe.n
+	tum hamaare raho ham tumhare rahe.n
+ra \:	teraa rakhavaalaa dil hai meraa ho
+	tere nain mere nain \threedots
+%
+#endindian
+\endsong
+

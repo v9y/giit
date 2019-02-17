@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{nashe me.n ham nashe me.n tum}%
+\film{Black Cat}%
+\year{1959}%
+\starring{Balraj Sahni, Minoo Mumtaz, Johny Walker, N.A. Ansari}%
+\singer{Rafi, Suman}%
+\music{N Dutta}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10286 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+nashe me.n ham nashe me.n tum
+kyaa Kabar dil kidhar ho gayaa hai Gum
+nashe me.n ham \threedots
+
+nazar\-nazar hasii.n hai Tapak rahaa hai ras
+jo ek dil gayaa to kyaa tumhe.n mile.nge das
+kyaa Kabar dil kidhar \threedots
+
+tumhaaraa dil are kahii.n laTak na gayaa ho
+javaan thaa idhar\-udhar bhaTak na gayaa ho
+kyaa Kabar dil kidhar \threedots
+
+hamaaraa kyaa jo tum kaho vo baat maan le.n
+Kafaa na ho to apanaa dil tumhii.n ko jaan le.n
+kyaa Kabar dil kidhar \threedots
+%
+#endindian
+\endsong
+

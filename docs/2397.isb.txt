@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n ek sadii se baiThii huu.N}%
+\film{Lekin}%
+\year{1990}%
+\starring{Dimple Kapadia, Vinod Khanna}%
+\singer{Lata}%
+\music{Hridaynath}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mai.n ek sadii se baiThii huu.N
+is raah se koii guzaraa nahii.n
+kuchh chaa.Nd ke rath to guzare the
+par chaa.Nd se koii utaraa nahii.n
+mai.n ek sadii se baiThii huu.N   \threedots
+
+din raat ke dono pahiye bhii
+kuchh dhuul u.Daa kar biit gaye
+mai.n man aa.Ngan me.n baiThii rahii
+chaukhaT se koii guzaraa nahii.n
+mai.n ek sadii se baiThii huu.N   \threedots
+
+aakaash ba.Daa buu.Dhaa baabaa
+sab ko kuchh baa.NT ke jaataa hai
+aa.Nkho.n ko nicho.Daa mai.n ne bahut
+par koii aa.Nsuu utaraa nahii.n
+mai.n ek sadii se baiThii huu.N   \threedots
+
+%
+#endindian
+\endsong
+%

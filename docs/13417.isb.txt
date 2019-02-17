@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{tere pyaar kaa chhaayaa nashaa ... aa kah duu.N tujhe ##I love you##}%
+\film{Pyaasa}%
+\year{2002}%
+\starring{Aftab Shivdasani, Yukta Mukhi, Julfi Saiyed}%
+\singer{Abhijit, Sunidhi Chauhan/ Adnan Sami, Sunidhi Chauhan}%
+\music{Sanjeev Darshan}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere pyaar kaa chhaayaa nashaa meraa ruup mahakane lagaa
+mujhe kyaa hu_aa kyaa kahuu.N dil aaj bahakane lagaa
+tere pyaar kaa chhaayaa nashaa ye samaa.n mahakane lagaa
+mujhe kyaa hu_aa \threedots
+
+jaan\-e\-jaa.n merii har nazar me.n ye dil me.n jigar me.n basaa hai tuu
+ye duurii miTaa le gale se lagaa le
+aa kah duu.N tujhe ##I love you##
+jaan\-e\-jaa.n merii \threedots
+tere pyaar kaa \threedots
+
+lagataa hai jaise badan me.n ho aag dahakii hu_ii
+jalane lagii.n merii saa.Nse.n dha.Dakan hai bahakii hu_ii
+meraa dil hu_aa hai diivaanaa
+yuu.N zulfo.n se terii u.Dii hai khushbuu
+mere paas aajaa tuu mujhame.n samaa jaa
+aa kah duu.N tujhe ##I love you##
+jaan\-e\-jaa.n merii \threedots
+tere pyaar kaa \threedots
+
+terii nazar mere dil pe jaaduu chalaatii rahii
+kuchh mai.n chhupaataa rahaa huu.N kuchh tuu chhupaatii rahii
+jaane kyaa hu_aa hai jo tuune chhu_aa hai
+ke dil pe nahii.n hai qaabuu
+mujhe pyaar kar le tuu baaho.n me.n bhar le
+aa kah duu.N tujhe ##I love you##
+jaan\-e\-jaa.n merii \threedots
+tere pyaar kaa \threedots
+%
+#endindian
+\endsong
+

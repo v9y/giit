@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{baat nikalegii to phir duur talak jaayegii}%
+\film{non-Film}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Kafeel Aazer}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Sridhar Narayanan (sridhar@math.mcgill.ca)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+baat nikalegii to phir duur talak jaayegii
+
+log bevajah udaasii kaa sabab pUchhe.nge
+ye bhii puuchhe.nge ke tum itanii pareshaa.n kyU.N ho
+u.ngaliyaa.n uThe.ngii suukhe hue baalo.n kii taraf
+ek nazar dekhe.nge guzare hue saalo.n kii taraf
+chuu.Diyo.n par bhii kaI ta.nz kiye jaaye.nge
+kaa.Npate haatho.n pe bhii fikare kase jaaye.nge
+
+log zaalim hai.n har ek baat kaa taanaa de.nge
+baato.n baato.n me.n meraa zikr bhii le aaye.nge \- 2
+unakii baato.n kaa zaraa saa bhii asar mat lenaa
+varanaa chehare kii taasur se samajh jaaye.nge
+chaahe kuchh bhI ho savaalaat naa karanaa unase
+mere baare me.n koI baat na karanaa unase
+
+baat nikalegii to phir duur talak jaayegii
+%
+#endindian
+\endsong
+%

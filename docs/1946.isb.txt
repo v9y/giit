@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye safar bahut hai kaThiin magar}% 
+\film{1942 A Love Story}%
+\year{}%
+\starring{Anil, Jakie, Manisha}%
+\singer{Shivaji Chattopadhyay}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor:  Porky (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+dil naa ummiid to nahii.n, naakaam hii to hai 
+lambii hai gam kii shaam, magar shaam hii to hai 
+
+ye safar bahut hai kaThin magar 
+nA udaas ho mere hamasafar 
+
+1) ye sitam kii raat hai Dhalane ko 
+hai andheraa gam kaa pighalane ko 
+zaraa der is me.n lage agar, nA udaas \threedots 
+
+2) nahii.n rahanevaalii ye mushkile.n 
+ye hai.n agale mo.D pe ma.nzile.n 
+merii baat kaa tuu yakiin kar, nA udaas \threedots 
+
+3) kabhii DhU.NDh legaa ye kaaravaa.n 
+vo na_ii zamiin nayaa aasamaan 
+jise Dhuu.NDhatii hai terii najar, nA udaas \threedots 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{rab jaisaa ruup tumhaaraa detaa hai dil ko sahaaraa}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rab jaisaa ruup tumhaaraa detaa hai dil ko sahaaraa
+ho suuraj ho yaa taaraa phuul ho yaa a.ngaaraa
+jisame.n ruup tumhaaraa vahii mujhe pyaaraa
+rab jaisaa ruup tumhaaraa \threedots
+
+pyaar me.n mere itanii agan hai suuraj me.n bhii na hogii
+terii lagan ne tabhii to mujhako banaa diyaa teraa jogii
+jaise motii jaise taaraa vaise chamake a.ng tumhaaraa
+rab jaisaa ruup tumhaaraa \threedots
+
+rab isali_e hasiin nahii.n phuulo.n se vo khilate hai.n
+phuul hasii.n hai isali_e to ho.nTho.n se vo milate hai.n
+aa.Nkhe.n terii jiivan dhaaraa
+rab jaisaa ruup tumhaaraa \threedots
+
+zulfo.n ke baadal se meraa jiivan sii.nchatii hai
+suraj na ho ambar me.n to chaa.Nd kyaa chamakegaa
+jo tuu na ho to haradam meraa dam na chal sakegaa
+hai sitaar tere man me.n baato.n me.n raaginii hai
+tere chehare kii badaulat duniyaa me.n chaa.Ndanii hai
+%
+#endindian
+\endsong
+

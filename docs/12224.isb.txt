@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{pyaar kar le nahii.n to phaa.nsii cha.Dh jaa_egaa}%
+\film{Jis Desh Mein Gangaa Behti Hai}%
+\year{1960}%
+\starring{Raj Kapoor, Padmini, Pran, Lalita Pawar}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10889 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( pyaar kar le ) \-2 nahii.n to phaa.nsii cha.Dh jaa_egaa
+pyaar kar le nahii.n to phaa.nsii cha.Dh jaa_egaa \-3
+( yaar kar le ) \-2 nahii.n to yuu.N hii mar jaa_egaa
+pyaar kar le \threedots
+
+jiite haare saika.Do.n tiir se talavaar se \-2
+mere saath muskaraa dil to jiit pyaar se
+vichaar kar le nahii.n to piichhe pachhataa_egaa
+pyaar kar le \threedots
+
+chorii karii chor banaa roz ko_ii ghaat hai
+aaj terii zindagii jaise kaalii raat hai \-2
+pyaar kar le nahii.n to chakkar pa.D jaa_egaa
+pyaar kar le \threedots
+%
+#endindian
+\endsong
+

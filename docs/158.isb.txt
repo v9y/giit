@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{ai dil\-e\-beqaraar jhuum}%
+\film{Shahjehan}%
+\year{1946}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{Naushad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: Bhabani P. Mohanty (iebpm@agt.gmeds.com)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+ai dil\-e\-beqarAr jhUm, ai dil\-e\-beqarAr jhUm \- 2
+
+abr\-e\-bahAr A gayA, dUr\-e\-khizA chalA gayA \- 2
+ishq muraad pA gayA, husn kI mach rahI hai jhUm (ai dile \threedots) 
+
+chhiTakI huI hai chaa.ndanI, mastI me.n hai kalI kalI \- 2
+jhUm rahI hai zindagI, tU bhI hazaar baar jhUm (ai dile \threedots) 
+
+tAre hai.n maahataab hai, husn hai aur shabAb hai \- 2
+zindagI kAmayaab hai, ArazUo.n kA hai hazUm (ai dile \threedots) 
+
+terA nashA terA khumaar, ab hai bahAr hai bahAr \- 2
+pIke khushI me.n bAr bAr, pIr\-e\-javA.n ke haath chUm (ai dile \threedots) 
+%
+#endindian
+\endsong
+%

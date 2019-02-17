@@ -1,0 +1,34 @@
+% 
+\startsong
+\stitle{maanaa mere hasii.n sanam, tuu rashq\-e\-maahataab hai}%
+\film{The Adventures of Robin Hood}%
+\year{1965}%
+\starring{Prashant, Praveen Chowdhary, Nilofer}%
+\singer{Rafi}%
+\music{G S Kohli}%
+\lyrics{Anjaan}%
+% 
+% Contributor: U.V. Ravindra (uvr@tata_elxsi.soft.net)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Thu Jan 18 1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+maanaa mere hasii.n sanam, tuu rashq\-e\-maahataab hai
+par tuu hai laajavaab to, meraa kahaa.N javaab hai
+
+hairat se yuu.N na dekhiye, zarraa huaa to kyaa huaa    \-2
+zarraa huaa to kyaa huaa
+apanii jagah pe jaan\-e\-man, zarraa bhii aafataab hai
+
+tere shabaab kaa suruur chhaayaa jo do jahaa.N par      \-2
+chhaayaa jo do jahaa.N par
+merii nigaah\-e\-shauq se aayaa vo inaqalaab hai
+%
+#endindian
+\endsong
+%

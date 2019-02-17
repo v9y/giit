@@ -1,0 +1,38 @@
+% 
+\startsong
+\stitle{bheje kahaar, piyaa jii bulaa lo}%
+\film{Maachis}%
+\year{}%
+\starring{Chandrachur Singh, Tabu}%
+\singer{Lata}%
+\music{Vishal}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Guri Buxi <buxi@ix.netcom.com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 02/17/1997
+%
+\printtitle
+#indian
+%
+bheje kahaar, piyaa jii bulaa lo
+koii raat raat jaage
+Dolii pa.Dii pa.Dii dyo.Dii me.n
+arathii jaisii laage
+bheje kahaar, piyaa jii bulaa lo
+
+saa.Njh Dhale suunii galii, daravaaje tak aae
+koii nahii.n aayaa abhii, itanii khabar de jaae
+bheje kahaar \threedots
+
+aakaash me.n kaagaa u.De, baiThe na mere banere
+Tha.nDii namii jalatii nahii.n, phuu.Nkuu.N kahaa.N tak a.ndhere
+bheje kahaar \threedots
+
+bheje kahaar \threedots
+
+%
+#endindian
+\endsong
+%
+

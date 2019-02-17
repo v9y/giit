@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{merii jaa.N mai.n tujhape fidaa}%
+\film{The Loves Of Runa Laila (Non-Film)}%
+\year{1987}%
+\starring{}%
+\singer{Runa Laila}%
+\music{O P Nayyar}%
+\lyrics{Madhuri Joglekar}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+merii jaa.N mai.n tujhape fidaa
+de sazaa chaahe jitanii mujhe
+aane lagaa jiine kaa mazaa
+jaan\-e\-jaa.N milaa tuu jo mujhe
+
+bas ek terii ye adaa
+jaan\-e\-man tujhe kyaa pataa
+har ratiyaa dil le liyaa
+le ke meraa dil, diiwaanaa kiyaa
+haay Gazab ho gayaa
+
+miiThaa miiThaa dard jawaa.N
+le chalaa hai mujhako kahaa.N
+chalii re chalii pyaar kii hawaa
+kisane mujhe dii hai sadaa
+kaisaa ajab ho gayaa
+
+#endindian
+\endsong

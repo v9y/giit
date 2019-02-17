@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{o priyaa jab jab tuu mere saamane ... tujhe chhuune ko dil kare}%
+\film{Jaan (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+o priyaa jab jab tuu mere saamane aatii hai
+mere dil me.n ik ajiib sii halachal hone lagatii hai
+tuu meraa pyaar merii puujaa merii zi.ndagii hai
+aa dekh dekh tuu meraa paagalapan
+ki mai.n har chehare me.n teraa cheharaa talaash karataa huu.N
+ye mujhe kyaa ho gayaa hai
+kyaa kahuu.n bas tujhe chhuune ko dil kare
+tujhe paane ko dil kare bas
+
+tujhe chhuune ko dil kare
+tujhe paane ko dil kare bas
+jo baat mere dil me.n chhupii vo bataane ko dil kare
+o priyaa o priyaa priyaa priyaa 
+tujhe chhuune ko \threedots
+
+ye ruup mahakaa ye zulf bikharii ye dil lubhaanaa teraa
+madahosh mujhako karane lagaa hai yuu.n muskuraanaa teraa
+terii dha.Dakan me.n aaj to bas jaane ko dil kare
+tujhe chhuune ko \threedots
+
+jazbaat dil ke phir aaj badale mausam hai ra.ngo.n bharaa
+phuulo.n ke jaise khilate badan ko aa chuum luu.n mai.n zaraa
+tujhe chhuune ko \threedots
+%
+#endindian
+\endsong
+

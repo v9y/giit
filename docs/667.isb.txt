@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to}%
+\film{Pyaasa}%
+\year{1957}%
+\starring{Guru Dutt, Wadeeda Rahman, Mala Sinha, Rahman}%
+\singer{Rafi, Asha}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: This song was taken off soc.culture.indian 
+%          It was posted by: Srinivas Kandala (srini@csri.tornoto.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to
+ham muu.Nd ke palako.n ko, is dil ko sazaa de.n to
+ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to
+
+(in zulfo.n me.n guu.Ndhe.nge, ham phuul muhabbat ke
+zulfo.n ko jhaTak kar ham, ye phuul giraa de.n to) \- 2
+ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to
+
+(ham aapako khvaabo.n me.n, laa laa ke sataaye.nge
+ham aap kii aa.Nkho.n se, nii.nde.n hii u.Daade.n to) \- 2
+ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to
+
+(ham aapake kadamo.n para, gir jaaye.nge Gash khaa kar
+is par bhii na ham apane, aa.nchal kii havaa de.n to) \- 2
+(ham aap kii aa.Nkho.n me.n, is dil ko basaa de.n to
+ham muu.Nd ke palako.n ko, is dil ko sazaa de.n to) \- 2
+%
+#endindian
+\endsong
+%

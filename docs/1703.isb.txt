@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{terii aa.Nkho.n ke sivaa duniyaa me.n rakhaa kyaa hai}%
+\film{Chiraag}%
+\year{}%
+\starring{Sunil Dutt, Asha Parekh}%
+\singer{Rafi / Lata}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Additions : Ravi K Rai (rrai@plains.nodak.edu)
+%                      Satish Subramanian (subraman@cs.umn.edu)
+%
+\printtitle
+#indian
+%
+terii aa.Nkho.n ke sivaa duniyaa me.n rakkhaa kyaa hai
+ye uThe.n subah chale, ye jhuke.n shaam Dhale
+meraa jiinaa meraa maranaa inhii.n palako.n ke tale
+terii aa.Nkho.n ke sivaa \threedots
+
+(rafii)
+palako.n kii galiyo.n me.n chehare bahaaro.n ke ha.Nsate hue
+hai.n mere Kaabo.n ke kyaa\-kyaa nagar iname.n basate hue
+ye uThe.n subah chale \threedots
+
+iname.n mere aanevaale zamaane kii tasviir hai
+chaahat ke kaajal se likhii huii merii taqadiir hai
+ye uThe.n subah chale \threedots
+
+(lataa)
+Thokar jahaa.N maine khaaI inho.nne pukaaraa mujhe
+ye hamasafar hai.n to kaafii hai inakaa sahaaraa mujhe 
+ye uThe.n subah chale \threedots
+
+ye ho.n kahii.n inakaa saayaa mere dil se jaataa nahii.n
+inake sivaa ab to kuchh bhii nazar mujhako aataa nahii.n
+ye uThe.n subah chale \threedots
+%
+#endindian
+\endsong
+%

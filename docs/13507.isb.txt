@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{haay merii a.Nkhiyo.n ne sapanaa dekhaa re ... sapane me.n saajan apanaa}%
+\film{Prem}%
+\year{1995}%
+\starring{Sanjay Kapoor, Tabbu, Aruna Irani, Deepak Tijori, Dalip Tahil}%
+\singer{Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay merii a.Nkhiyo.n ne sapanaa dekhaa re
+sapane me.n saajan apanaa dekhaa re
+haay merii a.Nkhiyo.n ne \threedots
+
+ye naa boluu.ngii vo kaisaa thaa
+jaisaa sochaa thaa bilkul vaisaa thaa
+ko_ii duujaa naa ko_ii duujaa naa aisaa dekhaa re
+haay merii a.Nkhiyo.n ne \threedots
+
+merii saa.Nso.n se usakii saa.Nso.n se
+usakii aa.Nkho.n se merii aa.Nkho.n se
+tiir kamaano.n kaa tiir kamaano.n kaa chalanaa dekhaa re
+haay merii a.Nkhiyo.n ne \threedots
+%
+#endindian
+\endsong
+
+

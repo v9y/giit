@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{nindiyaa se jaagii bahaar}%
+\film{Hero}%
+\year{1983}%
+\starring{Jackie Shroff, Meenakshi Sheshadri, Sanjeev Kumar}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+nindiyaa se jaagii bahaar
+aisaa mausam dekhaa pahalii baar
+koyal kuuke kuuke gaaye malhaar
+
+mai.n huu.N abhii kamasin kamasin
+jaanuu.n na kuchh is bin is bin
+raate.n javaanii kii baalii umar ke din
+kab kyaa ho nahii.n aitabaar
+aisaa mausam dekhaa pahalii baar \threedots
+
+kaisii ye rut aayii sun ke mai.n sharamaayii
+kaano.n me.n kah de kyaa
+baalii ye puravaa_ii
+pahane phuulo.n ne kiraNo.n ke haar
+aisaa mausam dekhaa pahalii baar \threedots
+
+%
+#endindian
+\endsong
+%

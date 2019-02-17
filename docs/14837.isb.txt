@@ -1,0 +1,29 @@
+% ITRANS SONG
+
+\startsong
+\stitle{majabuur kii fariyaad hai}%
+\film{Chaandni Chowk}%
+\year{1954}%
+\starring{Meena Kumari, Shekhar}%
+\singer{Mubarak Begum}%
+\music{Roshan}%
+\lyrics{Kamil Rashid}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+\printtitle
+#indian
+
+ai Kudaa
+majabuur kii fariyaad hai
+terii duniyaa me.n ko_ii barabaad hai
+naaKudaa bichha.Daa Kudaa ke saamane
+jaaye.n ham ab kisakaa daaman thaamane
+bhiikh de ban kar sawaalii aaye hai.n
+tere dar par haath Kaalii aaye hai.n
+kisaliye tere karam me.n der hai
+pher de taqadiir kaa gar pher hai \-2
+
+#endindian
+\endsong

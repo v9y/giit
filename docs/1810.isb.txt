@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tuu jahaa.N jahaa.N chalegaa, meraa saayaa, saath hogaa}%
+\film{Mera Saya}%
+\year{1966}%
+\starring{Sunil Dutt, Sadhana}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tuu jahaa.N jahaa.N chalegaa, meraa saayaa, saath hogaa
+meraa saayaa,  meraa saayaa
+
+kabhii mujhako yaad karake, jo bahe.nge tere aa.Nsuu
+to vahii.n pe rok le.nge, unhe.n aake mere aa.Nsuu
+tuu jidhar kaa rukh karegaa, meraa saayaa, saath hogaa \threedots
+
+tuu agar udaas hogaa, to udaas huu.Ngii mai.n bhii
+nazar aauu.N yaa naa aauu.N, tere paas huu.Ngii mai.n bhii
+tuu kahii.n bhii jaa rahegaa, meraa saayaa, saath hogaa \threedots
+
+mai.n agar bichha.D bhii jaauu.N, kabhii meraa Gam na karanaa
+meraa pyaar yaad karake, kabhii aa.Nkh nam na karanaa
+tuu jo mu.Dake dekh legaa, meraa saayaa, saath hogaa \threedots
+
+meraa Gam rahaa hai shaamil, tere dukh me.n, tere Gam me.n
+mere pyaar ne diyaa hai, teraa saath har janam me.n
+tuu koI janam bhii legaa, meraa saayaa saath hogaa \threedots
+%
+#endindian
+\endsong
+%

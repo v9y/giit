@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{##I am in love## ... naa naa karate pyaar haay mai.n to}%
+\film{Dhadkan/ Never Break A Heart}%
+\year{2000}%
+\starring{Sunil Shetty, Akshay Kumar, Shilpa Shetty, Mahima Chaudhary}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+##I am in love I am in love I am in love##
+##I am in love I am in love I am in love##
+naa naa karate pyaar haay mai.n kar ga_ii kar ga_ii kar ga_ii
+o tuune kiyaa kyaa yaar haay mai.n mar ga_ii mar ga_ii mar ga_ii
+
+naa naa karate pyaar oy mai.n kar gayaa kar gayaa kar gayaa
+o tuune kiyaa aitabaar oy mai.n mar gayaa mar gayaa mar gayaa
+naa naa karate pyaar \threedots
+
+mahakii havaa_e.n hai.n bahakii fizaa_e.n
+ye paagal samaa.n kuchh kahe
+ham hai.n akele aa baaho.n me.n le le
+ke jaage hai.n aramaa.n na_e
+tuu siine se lag jaa mere mai.n tujhako chhupaa luu.N kahii.n
+ye dha.Dakan merii kah rahii ke ab duur jaanaa nahii.n
+sun ke terii ye baat akh merii bhar ga_ii bhar ga_ii bhar ga_ii
+ho tuune kiyaa kyaa yaar \threedots
+
+##courage brother do not stumble##
+##though the paath be dark as night##
+##there's a star to guide the humble##
+##trust in God and do the right##
+huu.n huu.n huu.n huu.n
+mai.n tumhe chaahuu.n tumhii.n ko saraahuu.n
+tumhaarii hii puujaa karuu.n
+dil to hameshaa ye maa.nge du_aa_e.n
+ke baaho.n terii maruu.N
+zamii.n aasamaa.n kah rahe tuu mere li_e hai banii
+hai kismat se hamako milii mohabbat kii ye roshanii
+ho ga_ii tujhape fidaa mai.n suulii cha.Dh ga_ii cha.Dh ga_ii cha.Dh ga_ii
+ho tuune kiyaa kyaa yaar \threedots
+%
+#endindian
+\endsong
+

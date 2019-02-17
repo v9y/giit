@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{dil jalegaa to zamaane me.n ujaalaa hogaa}%
+\film{Ye Basti Ye Log}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Bhola Shreshtha}%
+\lyrics{Prem Warbartani}%
+% 
+% Contributor: Ashok Dhareshwar (adhareshwar@worldbank.org)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: 01/18/1996
+% Credits: Preetham Gopalaswamy (preetham@connectinc.com)
+%	   Snehal B. Oza <snehal@wipro.wipsys.soft.net>
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments: This movie was probably never made
+%
+\printtitle
+#indian
+%
+dil jalegaa to zamaane me.n ujaalaa hogaa	\-2
+husn zarro.n kaa sitaaro.n se niraalaa hogaa
+dil jalegaa \threedots
+
+kaun jaane ye mohabbat kii sazaa hai ke silaa	\-2
+ham kinaare pe bhii pahu.nche to kinaaraa na milaa
+bujh gayaa chaa.Nd kisii dard bhare dil kii tarah \-2
+raat kaa ra.Ng abhii aur bhii kaalaa hogaa
+dil jalegaa \threedots
+
+dekhanaa ro_egii fariyaad karegii duniyaa	\-2
+ham na ho.nge to hame.n yaad karegii duniyaa
+apane jiine kii adaa bhii hai anokhi qadd (??) ke \-2
+apane marane kaa bhii a.ndaaz niraalaa hogaa
+dil jalegaa to zamaane me.n ujaalaa hogaa
+dil jalegaa \threedots
+%
+#endindian
+\endsong
+%

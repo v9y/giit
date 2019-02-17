@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{gamzaa paikaan huaa jaataa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Saigal}%
+\music{}%
+\lyrics{Bedam}%
+%
+% Contributor: Ashok Dhareshwar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+gamzaa paikaan huaa jaataa hai
+dil kaa ar_maan huaa jaataa hai
+ 
+dekh kar ulajhii huii zulf un kii
+dil pareshaan huaa jaataa hai
+ 
+terii vah_shat kii badaulat\-e\-dil 
+ghar biyaabaan huaa jaataa hai
+ 
+saaz\-o\-saamaan kaa na honaa hii mujhe
+saaz\-o\-saamaan huaa jaataa hai
+ 
+dil se jaate hai.n mere sabr-o-qaraar
+ghar ye viiraan huaa jaataa hai
+ 
+dil kii rag_rag me.n samaa kar 'bedam'
+dard to jaan huaa jaataa hai
+
+%
+#endindian
+\endsong
+%

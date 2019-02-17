@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{zindagii hai yaa ko_ii tuufaan hai}%
+\film{Zindagi Yaa Toofaan}%
+\year{1958}%
+\starring{Nutan, Meenu Mumaz, Pardeep Kumar, Johnny Walker}%
+\singer{Khan Mastana}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+%
+% Contributor: BOL ANAMOL #11406 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: This lyrics were printed in Listeners' Bulletin Vol #59 under Geetanjali #49
+%
+\printtitle
+#indian
+%
+zindagii hai yaa ko_ii tuufaan hai
+ham to is jiine ke haatho.n mar chale
+zindagii hai yaa ko_ii \threedots
+
+saika.Do.n aramaan le kar aa_e the
+dil me.n laakho.n hasarate.n le kar chale
+zindagii hai yaa ko_ii \threedots
+
+lagzishe.n hai.n zindagii kii saath\-saath
+har qadam khaate hu_e Thokar chale
+zindagii hai yaa ko_ii \threedots
+%
+#endindian
+\endsong
+

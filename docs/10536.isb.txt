@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{sajanii tere bin naa kabhii rahanaa}%
+\film{Bhaai}%
+\year{1997}%
+\starring{Sunil Shetty, Sonali Bendre, Pooja Batra}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sajanii tere bin naa kabhii rahanaa
+sajanaa tuu mere tan kaa gahanaa
+sajanii tere bin \threedots
+
+terii khushbuu churaa ke man kaa madhuban khilaa hai
+terii saa.Nso.n ko chhuu ke mujhako jiivan milaa hai
+terii palako.n kii chhaa.nv me.n mere sapano.n kaa ghar hai
+tere ra.ng me.n ra.ngii hai ye jo merii chunar hai
+ka.nganaa priit kaa maine pahanaa
+sajanii tere bin \threedots
+
+saat phere lagaa ke ba.ndh ga_e ham vachan se
+apanaa rishtaa vahii hai dharatii kaa jo gagan se
+mai.n rijhaa_uu.ngii har gha.Dii tujhako solah si.ngaar se
+ruuTh jaa_egii tuu agar mai.n manaa luu.ngaa pyaar se
+sundarii maanuu.ngaa mai.n teraa kahanaa
+sajanaa tuu mere \threedots
+%
+#endindian
+\endsong
+

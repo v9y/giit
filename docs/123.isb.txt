@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{aavaaz dii hai aaj ik nazar ne, yaa hai ye dil ko gumaa.N}%
+\film{Aitbaar}%
+\year{1985}%
+\starring{Raaj Babbar, Dimpal Kapadia, Suresh Oberoi}%
+\singer{Asha, Bhupinder}%
+\music{Bappi Lahiri}%
+\lyrics{Hasan Kamaal}%
+%
+% Contributor:  
+% Transliterator:  
+% Credits: Amit N. Agarwal (agarwal@stjames.stanford.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+bhuu: aavaaz dii hai aaj ik nazar ne 
+	    yaa hai ye dil ko gumaa.N
+	    doharaa rahii.n hai.n jaise fazaaye.n
+	    bhuulii huii daastaa.N \- 2
+
+aa:   lauT aayii hai.n phir ruuThii bahaare.n
+	    kitanaa hasiin hai samaa
+	    duniyaa se kah do na ham ko pukaare
+	    ham kho gaye hai.n yahaa.N \- 2
+
+bhuu: jiivan me.n kitanii viiraaniyaa.N thii
+	    chhaayii thii kaisii udaasii
+	    sunakar kisii ke kadamo.n kii aahaT
+	    halachal huii hai zaraa sii \- 2
+
+	    saagar me.n jaise lahare.n uThii.n hai.n
+	    TuuTii hai.n khaamoshiyaa.N
+	    doharaa rahii.n hai.n jaise fazaaye.n
+	    bhuulii huii daastaa.N 
+
+aa : tuufaan me.n khoii kashtii ko aakhir 
+	    mil hii gayaa phir kinaaraa
+	    ham chho.D aaye Kaabo.n kii duniyaa
+	    dil ne tere jab pukaaraa \- 2
+
+	    kabase kha.Dii thii baahe.n pasaare 
+	    is dil kii tanhaaiyaa.N
+	    duniyaa se kah do na ham ko pukaare
+	    ham kho gaye hai.n yahaa.N 
+
+bhuu: ab yaad aayaa kitanaa adhuuraa 
+	    ab tak thaa dil kaa fasaanaa
+	
+aa: yuu.N paas aake dil me.n samaake 
+	    daaman na hamase chhu.Daanaa \- 2
+
+aa: jin raasto.n par tere kadam ho.n
+	    ma.njil hai merii vahaa.N 
+	    duniyaa se kah do na ham ko pukaare
+	    ham kho gaye hai.n yahaa.N	
+	    lauT aayii hai.n phir ruuThii bahaare.n
+	    kitanaa hasiin hai samaa.N 
+	    duniyaa se kah do na ham ko pukaare
+	    ham kho gaye hai.n yahaa.N 
+%
+#endindian
+\endsong
+%

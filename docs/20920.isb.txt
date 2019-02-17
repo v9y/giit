@@ -1,0 +1,67 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pal pal pal pal har pal har pal}%
+\film{Lage Raho Munna Bhai}%
+\year{2006}%
+\starring{Sanjay Dutt, Vidya Balan}%
+\singer{Shreya Ghoshal, Sonu Nigam}%
+\music{Shantanu Moitra}%
+\lyrics{Swanand Kirkire}%
+% 
+% Audio on: T-Series
+% Tags: Happy, Sad
+% Contributor: U.V. Ravindra
+% Transliterator: U.V. Ravindra
+% Date: 18 Sep 2006
+% Series: GEETanjali series, Date: 2006-Sep-19
+% Comments: "Inspired" by Cliff Richard's "Theme for a Dream"
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+(shre: pal pal pal pal, har pal, har pal
+    kaise kaTegaa pal, har pal, har pal) (2)
+so: dil dil dil dil me.n machii hai machii
+    machii hai halachal, halachal, halachal
+    kaise kaTegaa pal, har pal, har pal
+    kaise kaTegaa pal, har pal, har pal
+shre:  pal pal pal pal, har pal, har pal
+    kaise kaTegaa pal, har pal, hal pal
+    haa.N haa.N haa.N haa.N \threedots
+    laa laa laa laa \threedots
+
+so: o hamasafar, lagataa hai Dar
+    raat kaTe, na kabhii ho sahar
+shre:  is pal me.n simaTe umar
+do: raat kaTe, na kabhii ho sahar
+(shre:  tuu jo hai saath mere to Dagar
+    lage ke jaise Kuubasuurat ghar) (2)
+so: tuu jo hai saath to ye ambar
+    lage ke jaise saayaa ho sar par
+    tere kaa.Ndhe par rakhakar sar
+    yuu.Nhii kaT jaae saarii umar
+shre:  pal pal pal pal \threedots
+
+so: kal kyaa ho kisako Kabar
+    lagataa hai Dar, lagataa hai Dar
+shre:  is pal me.n simaTe umar
+do:  raat kaTe, na kabhii ho sahar
+shre:  achchhaa bataao
+   (dil kii itanii saarii baate.n
+    kaise likhoge is chhoTe Kat par) (2)
+so: dil par TuuTaa hai ye kaisaa qahar
+    tumako paakar khone kaa hai Dar
+shre:  pyaar kaa ye Dhaa_ii aakhar
+    kaise likhoge is chhoTe Kat par
+(so: pal pal pal pal, har pal, har pal
+    kaise kaTegaa pal har pal har pal) (2)
+do: dil dil dil dil me.n machii hai machii
+    machii hai halachal, halachal, halachal
+    kaise kaTegaa pal, har pal, har pal (2)
+    laa laa laa laa \threedots
+
+%
+#endindian
+\endsong

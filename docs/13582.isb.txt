@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ko_ii aa jaa_e to aa jaa_e biga.Dii tasviir banaa jaa_e}%
+\film{Post Box 999}%
+\year{1958}%
+\starring{Sunil Dutt, Shakeela, Poornima}%
+\singer{Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #10848 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ko_ii aa jaa_e to aa jaa_e
+biga.Dii tasviir banaa jaa_e
+uja.Daa sa.nsaar basaa jaa_e
+ko_ii aa jaa_e to \threedots
+
+laakh bahaare.n dekhii hai.n is baaG me.n aate\-jaate
+phir bhii kalii na dil kii khilii ko_ii aakar ise khilaa jaa_e
+ko_ii aa jaa_e to \threedots
+
+tuufaan se haradam khele pyaar kiyaa ma.Njhadhaar se jisane
+kahatii hai ye TuuTii hu_ii naiyaa ko_ii aakar paar lagaa jaa_e
+ko_ii aa jaa_e to \threedots
+
+dard yuu.N le rote rahanaa hai
+pyaar me.n jo jalate rahanaa hai
+hamadard farishte aa ke zaraa duniyaa se mujhe uThaa jaa re
+ko_ii aa jaa_e to \threedots
+%
+#endindian
+\endsong
+

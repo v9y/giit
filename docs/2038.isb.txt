@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{biite na biite na rainaa}%
+\film{Rudaali}%
+\year{}%
+\starring{Dimple Kapadia, Rakhee, Raj Babbar}%
+\singer{Asha}%
+\music{Bhupen Hazarika}%
+\lyrics{Gulzar}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+
+biite na biite na rainaa
+kore hai.n nii.nd se nainaa
+naino ke sapane bhii guu.Nge
+aaye to bole na bainaa
+biite na biite na rainaa   \threedots
+
+maaruu me.n u.Datii hai.n paagal havaae.n
+maaruu akele na jaanaa
+retii ke Dhero.n ke u.Date babuule
+retii me.n ghar na banaanaa
+biite na biite na rainaa   \threedots
+
+raato.n ke panno.n pe na koii saayaa
+na koii sa.ngii na saathii
+aa.Ngan me.n utare na subah ke paakhii
+na koii saajan na saaqii
+biite na biite na rainaa   \threedots
+
+%
+#endindian
+\endsong
+%

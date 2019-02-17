@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{jab se tum aa_e nazar me.n ... pyaar hamako hone lagaa}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Abhijit, Chitra}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n jab se tum aa_e nazar me.n khoyaa khoyaa rahataa hai dil
+dha.Dakano.n se aaj ye kyaa chupake chupake kahataa hai dil
+pyaar hamako hone lagaa khonaa thaa dil khone lagaa
+
+lab jo kahane lage hai.n un baato.n me.n ulajhaa hai dil
+
+kyaa hakiikat hai apanii kyaa tumhe.n bataa_e.nge
+kaun hai.n ham aakhir ye kab talak chhupaa_e.nge
+
+tum chhupaa_o laakh hamase phir bhii sab kuchh hamane jaanaa
+har zubaa.n pe aa_egaa kal ham dono.n kaa ye afasaanaa
+pyaar hamako hone lagaa \threedots
+%
+#endindian
+\endsong
+

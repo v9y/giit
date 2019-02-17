@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{koyal bolii duniyaa Dolii samajho dil kii bolii}%
+\film{Sargam}%
+\year{1979}%
+\starring{Rishi Kapoor, Jayaprada}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11285 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	( koyal bolii duniyaa Dolii ) \-2 samajho dil kii bolii
+ra \:	dil duniyaa me.n farq hai kitanaa tuu hai kitanii bholii ho ho
+la \:	koyal bolii \threedots
+
+ra \:	is dil ke dhokhe me.n rah lo
+	kuchh bhii sun lo kuchh bhii kah lo
+	ra.ng binaa naa khelii jaa_e is jiivan kii holii
+la \:	koyal bolii \threedots
+
+	uupar ambar niiche zamii.n haii
+	itanaa ba.Daa ghar ko_ii nahii.n hai
+	phuul pavan baadal pa.nchhii ye sab apane hamajolii o o	
+la \:	koyal bolii \threedots
+
+	dekho ha.Ns do dil na to.Do
+	mai.n Kush huu.N tum meraa saath na chho.Do
+ra \:	teraa saath mai.n chho.Duu.Ngaa par bhej ke terii Dolii
+la \:	koyal bolii \threedots
+%
+#endindian
+\endsong
+

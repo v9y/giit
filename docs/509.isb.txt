@@ -1,0 +1,32 @@
+% 
+\startsong
+\stitle{dil kii tamannaa thii mastii me.n manzil se ##(happy version)##}%
+\film{Gyaarah Hazaar Ladakiyaan}%
+\year{}%
+\starring{Bharat Bhushan, Mala Sinha, Helen}%
+\singer{Asha, Rafi}%
+\music{N Dutta}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Malini K. Murthy (fl849@cleveland.Freenet.Edu)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Sun Oct 22 1995
+% Credits: Ashok Dhareshwar (adhareshwar@worldbank.org)
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+ra: dil kii tamannaa thii mastii me.n ma.nzil se bhii duur nikalate
+    apanaa bhii koii saathii hotaa, ham bhii bahakate chalate\-chalate
+
+aa: hote kahii.n ham aur tum, khvaabo.n kii ra.Ngiin vaadii me.n gum \-2
+ra: phir un khvaabo.n kii vaadii se, uThate aa.Nkhe.n malate\-malate
+
+ra: ha.Nsatii zamii.n, gaate kadam, chalate nazaare, chalate jo ham \-2
+aa: rukate ham to ruk\-ruk jaataa, Dhalataa suuraj Dhalate\-Dhalate
+%
+#endindian
+\endsong
+%

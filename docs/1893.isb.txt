@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye dil aur unakii, nigaaho.n ke saaye}%
+\film{Prem Parbat}%
+\year{1973}%
+\starring{Satish Kaul, Rehana Sultan, Nana Palsikar}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Kunal N Taravade (taravade@shark.ecn.purdue.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye dil aur unakii, nigaaho.n ke saaye \- (3)
+mujhe gher lete, hai.n baaho.n ke saaye \- (2)
+
+pahaa.Do.n ko cha.nchal, kiran chuumatii hai \- (2)
+havaa har nadii kaa badan chuumatii hai \- (2)
+yahaa.N se vahaa.N tak, hai.n chaaho.n ke saaye \- (2)
+ye dil aur unakii nigaaho.n ke saaye \threedots
+
+lipaTate ye pe.Do.n se, baadal ghanere \- (2)
+ye pal pal ujaale, ye pal pal a.ndhere \- (2)
+bahut Tha.nDe Tha.nDe, hai.n raaho.n ke saaye \- (2)
+ye dil aur unakii nigaaho.n ke saaye \threedots
+
+dha.Dakate hai.n dil kitanii, aazaadiyo.n se \- (2)
+bahut milate julate, hai.n in vaadiyo.n se \- (2)
+muhabbat kii ra.ngii.n panaaho.n ke saaye \- (2)
+ye dil aur unakii nigaaho.n ke saaye \threedots
+%
+#endindian
+\endsong
+%

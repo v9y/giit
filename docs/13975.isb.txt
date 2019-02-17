@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kore kore sapane mere baraso.n se the kitane adhuure}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kore kore sapane mere baraso.n se the kitane adhuure
+dhiire dhiire ra.ng sajaa ke tuune kar di_e unako puure
+vaadaa hai vaadaa chaahe.nge tumako jiivan se jyaadaa
+hai vaadaa vaadaa
+kore kore sapane \threedots
+
+taaro.n ko ghar me.n laa_e.nge ham aashaa ke diip jalaa_e.nge ham
+aa_ii hai.n bahaare.n aaa_ii hai.n khushiyo.n ke nazaare laa_ii hai.n
+kore kore sapane \threedots
+
+pa.nchhii kabhii bhii rote nahii.n patthar ke aa.Nsuu hote nahii.n
+paanaa hai kisii ko khonaa hai honaa hai yahaa.n jo honaa hai
+kore kore sapane \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{ham bulaate hii rahe tum jalaate hii rahe}%
+\film{Dekh Kabiraa Royaa}%
+\year{1957}%
+\starring{Ameeta, Anita Guha, Shubha Khote, Anoop Kumar, Daljeet}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11955 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	ham bulaate hii rahe
+	tum jalaate hii rahe
+	o sanam ye kahaa.N kii mohabbat hai
+
+aa \:	yuu.N sataayaa na karo
+	dil jalaayaa na karo
+	hamane kah to diyaa ke mohabbat hai
+
+ra \:	ham bulaate hii rahe
+	tum jalaate hii rahe
+	o sanam ye kahaa.N kii mohabbat hai
+
+	ham bulaate hii rahe
+	tum jalaate hii rahe
+
+aa \:	( siikhii hai.n kahaa.N se ye shiqaayate.n
+	achchhii nahii.n dekho aisii aadate.n ) \-2
+ra \:	muskuraate bhii nahii.n
+	paas aate bhii nahii.n
+	hame.n kaise yaqii.n aaye ulfat hai
+
+aa \:	yuu.N sataayaa na karo
+	dil jalaayaa na karo
+	hamane kah to diyaa ke mohabbat hai
+ra \:	ham bulaate hii rahe
+	tum jalaate hii rahe
+	o sanam ye kahaa.N kii mohabbat hai
+
+	ham bulaate hii rahe
+	tum jalaate hii rahe
+
+ra \:	( ham tumhe.n apanaa banaa chuke
+	dil kii ye duniyaa luTaa chuke ) \-2
+aa \:	ham tumhaare hai.n sanam
+	le lo ko_ii bhii qasam
+	hamane kab ye kahaa tumase nafarat hai
+
+ra \:	ham bulaate hii rahe
+	tum jalaate hii rahe
+	o sanam ye kahaa.N kii mohabbat hai
+aa \:	yuu.N sataayaa na karo
+	dil jalaayaa na karo
+	hamane kah to diyaa ke mohabbat hai
+ra \:	ham bulaate hii rahe
+	tum jalaate hii rahe
+%
+#endindian
+\endsong

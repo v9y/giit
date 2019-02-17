@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{nazar phero na hamase ham hai.n tum par marane waalo.n me.n}%
+\film{Deedaar}%
+\year{1951}%
+\starring{Dilip Kumar, Nargis, Ashok Kumar, Nimmi }%
+\singer{G M Durrani, Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12121 [V S Rawat]
+%
+\printtitle
+#indian
+%
+jii \:	nazar phero na hamase
+	ham hai.n tum par
+	marane waalo.n me.n
+
+	nazar phero na hamase \-2
+	ham hai.n tum par
+	marane waalo.n me.n
+	hamaaraa naam bhii likh lo
+	mohabbat karane waalo.n me.n \-2
+
+sha \:	( jahaa.N nazare.n milii.n
+	bole ke ham hai.n marane waalo.n me.n ) \-2
+	banaawaT hii banaawaT hai
+	mohabbat karane waalo.n me.n \-2
+	
+jii \:	o
+	tumhaarii shoKiyo.n ko dil meraa
+	naakaam kar degaa
+	aa.n
+	sunaa kar pyaar ke nagame.n
+	tumhe.n badanaam kar degaa
+	haa.N
+	ajii ye dil nahii.n chhip\-chhip ke
+	aahe.n bharane waalo.n me.n
+	hamaaraa naam bhii likh lo
+	mohabbat karane waalo.n me.n \-2
+
+sha \:	wahii dil hai jo is duniyaa me.n
+	apanaa naam kar jaaye
+	muhabbat kyaa karegaa wo
+	jo badanaamii se Dar jaaye
+	haa.N
+	nahii.n ham aapakii in dhamakiyo.n se
+	Darane waalo.n me.n
+	banaawaT hii banaawaT hai
+	mohabbat karane waalo.n me.n \-2
+%
+#endindian
+\endsong
+

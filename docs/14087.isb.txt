@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tuune mohe taakaa ... dil tohase laagaa sone pe suhaagaa}%
+\film{Sone Pe Suhaagaa}%
+\year{1988}%
+\starring{Dharmendra, Nutan, Jeetendra, Anil Kapoor, Sridevi, Poonam Dhillon}%
+\singer{Nitin Mukesh, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuune mohe taakaa maine tohe taakaa
+tuune mohe jhaa.nkaa maine tohe jhaa.nkaa
+pyaar hamaaraa phaTaaphaT khaTaakhaT jhaTapaT ho_ii gavaa
+dil tohase laagaa sone pe suhaagaa
+pyaar dil me.n jaagaa sone pe suhaagaa
+
+ruup kii tuu anuraagii bhau.nraa kalii kalii ko giit sunaa_e
+jab na chaahuu.N mujhe sataa_e jab mai.n chaahuu.N paas na aa_e
+tan bijalii kaa man titalii kaa kis kis se ko_ii tujhe bachaa_e
+maTak maTak kar sabase bole sabase ha.Nse moraa jiyaa jalaa_e
+ruuTh ke man me.n phal nahii.n laagaa
+dil tohase laagaa \threedots
+
+jaise mile baadal se baadal jaise mile paanii se paanii
+jaise mile jyoti se jyoti aisii milii dono.n kii javaanii
+dono.n ko dono.n kii zaruurat tuu meraa jiivan mai.n teraa jiivan
+tujhe chaahi_e pyaasii dharatii mujhe chaahi_e jhuumataa saavan
+tere sa.ng baa.ndhaa priit kaa dhaagaa
+dil tohase laagaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{saaz\-e\-dil chhe.D de kyaa hasii.n raat hai}%
+\film{Passport}%
+\year{1961}%
+\starring{Pradeep Kumar, Madhubala}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Farooq Kaisar}%
+%
+% Contributor: BOL ANAMOL #10892 [V S Rawat]
+% Credits: Srinivas Ganti, Urzung Khan
+% 
+\printtitle
+#indian
+%
+ra \:	saaj\-e\-dil chhe.D de \-2
+	kyaa hasii.n raat hai \-2
+la \:	kuchh nahii.n chaahi_e \-2
+	tuu agar saath hai \-2
+ra \:	saaj\-e\-dil chhe.D \threedots
+
+la \:	mujhe chaa.Nd kyuu.N takataa hai \-2
+	meraa kaun ye lagataa hai
+ra \:	mujhe shaq yahii hotaa hai \-2
+	mere chaa.Nd se jalataa hai
+la \:	hame.n isakii kyaa paravaah hai \-2
+ra \:	saaj\-e\-dil chhe.D \threedots
+
+la \:	tere dar pe sar jhuk jaa_e \-2
+	yahii.n zindagii ruk jaa_e
+ra \:	kalii dil kii ye khil jaa_e \-2
+	Kushii pyaar kii mil jaa_e
+la \:	kabhii phir Gamii na aa_e \-2
+ra \:	saaj\-e\-dil chhe.D \threedots
+%
+#endindian
+\endsong
+

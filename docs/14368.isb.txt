@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{aap jaisaa aap jaisaa yaar ... aap kaa mai.n aap kaa}%
+\film{Tum Se Achcha Kaun Hain}%
+\year{2002}%
+\starring{Nakul Kapoor, Kim Sharma, Aarti Chhabaria}%
+\singer{Sukhvindar Singh}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aap jaisaa aap jaisaa yaar mujhe chaahiye
+aap kii muhobbat aur pyaar mujhe chaahiye
+chhe.D ke taraane dil yuu.N hii bahalaa_uu.N
+aap ke li_e hii saarii zi.ndagii mai.n gaa_uu.N
+aap kaa mai.n aap kaa sitaaraa
+ta raa
+aap kaa mai.n aap kaa \threedots
+
+aap ke khyaal saarii aap kii hii chaahate.n
+mere saare giit kyaa hai.n aap kii amaanate.n
+##zero## se banaa de.n ##hero## aap kise chaahe.n
+yahaa.N tak laa_ii.n mujhe aap kii du_aa_e.n
+aap ne nasiib ye sa.Nvaaraa
+ta raa
+aap kaa mai.n aap kaa \threedots
+
+##ai girls! will you dance with me##
+##let's join melody of today##
+sitaaraa sitaaraa sitaaraa
+aap kaa sitaaraa
+sitaaraa sitaaraa sitaaraa
+
+sapano.n kii duniyaa me.n palako.n ke ghar me.n
+rahanaa hai mujhe bas aap kii nazar me.n
+maine banaa_ii jagah aap ke jigar me.n
+milii shoharat mujhe aap ke shahar me.n
+aap saa na ko_ii diladaaraa
+ta raa
+aap kaa mai.n aap kaa \threedots
+%
+#endindian
+\endsong
+

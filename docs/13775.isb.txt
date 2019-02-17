@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaan le luu.ngii mai.n aisaa khel tere saath kheluu.ngii}%
+\film{Raavan Raaj}%
+\year{1995}%
+\starring{Mithun, Madhu, Aditya, Shakti, Aloknath, Paresh, Tej Sapru}%
+\singer{Poornima}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaan le luu.ngii mai.n aisaa khel tere saath kheluu.ngii
+ye honaa hai ho jaa_egaa zaalim a.njaam teraa
+miT jaa_egaa is duniyaa ke naamo.n se naam teraa
+jaan le luu.ngii \threedots
+
+haa.N javaanii ko barabaad tuune kiyaa hai
+ye dil kii aavaaz hai
+haa.N merii mohabbat ko badanaam tuune kiyaa hai
+haa.N tuu dagaabaaz hai
+do chaar pal jii le zaraa jii bhar ke tuu pii le zaraa
+girane vaalaa hai tere haatho.n se ye jaam teraa
+miT jaa_egaa is duniyaa ke \threedots
+
+na tujhako maaruu.ngii na ji.ndaa chho.Duu.ngii
+sun le ye hai iraadaa meraa
+haa.N saarii umr yaad karataa rahegaa mujhe tuu
+tujhase ye vaadaa meraa
+mujhase na tuu nazare.n churaa o bekhabar o bevafaa
+merii mahafil me.n aa_ii hai leke naam teraa
+miT jaa_egaa is duniyaa ke \threedots
+%
+#endindian
+\endsong

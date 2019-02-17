@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{duniyaa hamaare pyaar kii yuu.N hii javaa.N rahe}%
+\film{Lahore}%
+\year{1949}%
+\starring{Karan Divan,Nargis}%
+\singer{Lata,Karan Divan}%
+\music{Shyamsunder}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+ 
+(ka: duniyaa hamaare pyaar kii yuu.N hii javaa.N rahe
+ la: mai.n bhii vahii.N rahuu.N meraa saajan jahaa.N rahe)\-2
+ 
+la: do din kii zi.ndagii hai ise yuu.N guzaar de \-2
+    uja.Dii huii ye pyaar kii raahe.n sa.Nvaar de \-2
+    ham tum yahaa.N rahe naa rahe is kaa Gam nahii.n
+    lekin hamaare pyaar kaa baakii nishaa.N rahe
+    mai.n bhii vahii.n rahuu.N meraa saajan jahaa.N rahe
+ka: duniyaa hamaare pyaar kii yuu.Nhii javaa.N rahe
+la: mai.n bhii vahii rahuu.N meraa saajan jahaa.N rahe
+ 
+ka: duniyaa me.n chho.D jaaye.nge ham vo nishaaniyaa.N \-2
+    ban jaaye.ngii jo pyaar kii miiThii kahaaniyaa.N \-2
+do: duniyaa hamaare baad hame.n yuu.N karegii yaad
+    do pyaar karane vaale hai.n par ek jaa.N rahe
+    mai.n bhii vahii.n rahuu.N meraa saajan jahaa.N rahe
+    duniyaa hamaare pyaar kii yuu.Nhii javaa.N  rahe
+    mai.n bhii vahii.n rahuu.N meraa saajan jahaa.N rahe
+    duniyaa hamaare pyaar kii
+
+%
+#endindian
+\endsong
+%

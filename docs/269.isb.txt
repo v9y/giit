@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{balamaa jaa mai.n tose haarii}%
+\film{Taj}%
+\year{}%
+\starring{Pradeep Kumar}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+% Credits: 
+% Editor:
+%
+\printtitle
+#indian
+%
+balamaa ho jaa mai.n tose haarii
+morii priit chunar ra.ng Daarii, Daarii re
+balamaa ho    \threedots
+
+paas rahuu.N to man ghabaraaye
+duur rahuu.N to chain na aaye
+it jaa_uu.N yaa ut jaa_uu.N mai.n
+soch soch kar haarii, haarii re
+balamaa ho    \threedots
+
+jaan gayii mai.n tuu hai chhaliyaa
+jaaduu bharii hai terii muraliyaa
+man ta.Dapaavat, ras barasaavat
+... kar mai.n haarii, haarii re
+balamaa ho    \threedots
+
+%
+#endindian
+\endsong
+%

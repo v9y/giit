@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{ham dil kaa ka.Nval de.nge jisako}%
+\film{Zindagi}%
+\year{1964}%
+\starring{Rajendra Kumar, Vyjayantimala, Raj Kumar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10974 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ham dil kaa ka.Nval de.nge jisako hogaa ko_ii ek hazaaro.n me.n
+saagar me.n kahii.n jyo.n ik motii jaise cha.ndaa ka_ii sitaaro.n me.n
+
+ye ruup\-ra.ng kii phulavaarii usake li_e hii ye phuul khile
+sab kuchh denaa hai sau.np use jis din jis pal vo aan mile
+baago.n me.n usii ke charche hai.n hai usakii baat bahaaro.n me.n
+
+kisane dil jiitaa taaqat se chaahat kab aag se Daratii hai
+naadaan shikaarii kyaa jaane hiranii kis raag pe maratii hai
+talavaar kaa zor nahii.n chalataa ho jaatii hai baat ishaaro.n me.n
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{dekhaa hai zi.ndagii ko kuchh itanaa kariib se}%
+\film{Ek Mahal Ho Sapnon Ka}%
+\starring{Dharmendra}%
+\singer{Kishore}%
+\music{Ravi}%
+\lyrics{Sahir}%
+% 
+% Contributor: Anup Pandey <apandey@raynet.com>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 06/13/1996
+% Credits: Manjeet Rekhi <manjeet@iglou.com>
+%          Samiuddin Mohammed <sm0e@lehigh.edu>
+%
+\printtitle
+#indian
+%
+dekhaa hai zi.ndagii ko, kuchh itanaa kariib se
+chahare tamaam lagane lage hai.n ajiib se
+
+kahane ko dil kii baat jinhe.n Dhuu.NDhate the ham \- 2
+mahafil mei.n aa gaye hai.n vo apane nasiib se
+dekhaa hai zi.ndagii ko, kuchh itanaa kariib se
+
+niilam ho rahaa thaa kisii naazaniin kaa pyaar \- 2
+qiimat nahii.n chukaaii gaii ik Gariib se
+dekhaa hai zi.ndagii ko, kuchh itanaa kariib se
+
+terii vafaa kii laash pe laa mai.n hii Daal duu.N \- 2
+resham kaa ye kafan jo milaa hai raqiib se
+dekhaa hai zi.ndagii ko, kuchh itanaa kariib se
+%
+#endindian
+\endsong
+%
+

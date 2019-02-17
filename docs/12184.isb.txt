@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{banaane vaale kyaa tuune yahii duniyaa basaa_ii hai}%
+\film{Jalpari}%
+\year{1952}%
+\starring{Ashok Kumar, Nalini Jaywant, Geeta Bali, Bipin Gupta, Sundar}%
+\singer{Rafi, Asha}%
+\music{Pt. Govindram}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11425 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+banaane vaale kyaa tuune yahii duniyaa basaa_ii hai
+hazaaro.n Kuubiyaa.N hote phir bhii buraa_ii hai
+
+yah duniyaa aisii duniyaa hai samajh me.n kisakii aa_ii hai
+parakhanaa bhii yah mushqil hai isame.n kyaa buraa_ii hai
+
+chamakate chaa.Nd ko jab chaa.Ndanii dii daaG kyo.n baa.NTe
+banaakar Kushanumaa phuulo.n ko usame.n bhar di_e kaa.NTe
+
+agar aisaa na hotaa har ko_ii maGaruur ho jaataa
+banaane vaale ne yah sochakar duniyaa banaa_ii hai
+parakhanaa bhii yah \threedots
+%
+#endindian
+\endsong
+

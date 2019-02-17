@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aa mohabbat kaa ko_ii nayaa naam de}%
+\film{Love 86}%
+\year{1986}%
+\starring{Tanuja, Rohan Kapoor, Farha Naaz, Govinda, Neelam, Satish Shah}%
+\singer{Kavita Subramaniam, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Prem Pandit}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa mohabbat kaa ko_ii nayaa naam de
+pyaar kii had se aage nikal aa_e ham
+aa ibaadat kaa ko_ii nayaa naam de
+aa mohabbat kaa \threedots
+
+ye nigaahe.n uThii.n vo fasaane bane
+aa.Nkh ke bol kab kisii ne sune
+dil se dil mil gayaa zamaane kaa kyaa
+aa mohabbat kaa \threedots
+
+jab se tuune chhu_aa ek nashaa saa chhaa gayaa ho
+dard se zi.ndagii kaa mazaa aa gayaa
+dha.Dakano.n ko nahii.n dha.Dakano.n se gilaa
+aa shikaayat kaa ko_ii nayaa naam de
+aa mohabbat kaa \threedots
+
+tere daaman kii khushbuu mahakatii rahuu.n
+bin pi_e hii sadaa la.Dakha.Daayaa karuu.n
+kabhii mai.n tere dil ko sataayaa karuu.n
+aa sharaarat kaa ko_ii nayaa naam de
+aa mohabbat kaa \threedots
+%
+#endindian
+\endsong
+

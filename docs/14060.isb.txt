@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{nazar ne nazar se kyaa kahaa ... merii jaa.n ye bataa}%
+\film{Sultanat}%
+\year{1986}%
+\starring{Dharmendra, Sunny Deol, Sridevi, Karan Kapoor, Juhi Chawla}%
+\singer{}%
+\music{Kalyanji Anandji}%
+\lyrics{Anjaan/ Hasan Kamaal}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nazar ne nazar se kyaa kahaa merii jaa.n merii jaa.n ye bataa
+kahuu.N kyaa nazar ne kyaa kahaa aatii hai mujhako hayaa
+jo hai mere dil me.n vahii tere dil me.n ek baar kah de tuu haa.N
+nazar ne nazar se kyaa kahaa \threedots
+
+ho jaage hai.n aramaa.n jaan le jaan\-e\-jaa.n
+are jaanuu.n naa \-3
+kar de ek ehasaan maan le jaan\-e\-jaa.n
+maanuu.n naa
+pahale vafaa kaa ikaraar kar le haazir hai phir merii jaa.n
+nazar ne nazar se kyaa kahaa \threedots
+
+vaadaa kar ye haath se haath chhuuTe naa
+naa chhuuTegaa \-3
+saath rahe.n din raat saath ye chhuuTe naa
+naa chhuuTegaa
+ulfat me.n terii chaahat me.n terii
+Thukaraa duu.N saaraa jahaa.N
+nazar ne nazar se kyaa kahaa \threedots
+%
+#endindian
+\endsong
+

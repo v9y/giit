@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tuu ne meraa dil liyaa}%
+\film{Shararat}%
+\year{1959}%
+\starring{Kishore Mumar, Meena Kumari, Raajkumar, Kumkum}%
+\singer{Geeta, Kishore}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+gii: tuu ne meraa dil liyaa tere baato.n ne jaaduu kiyaa
+haay na jaane kyaa kar diyaa ye tere pyaar kii riit hai
+ki: tere aa.Nkho.n pe ham hai.n fidaa tere zulfe.n hai.n kaaliighaTaa
+maar Daalegii zaalim adaa yuu.N na tuu pyaar se muskuraa
+
+gii: machale moraa jiyaa jaane mujhe kyaa hu_aa piyaa
+aa.Nkho.n se pyaar chhalake naam ho.nTho.n pe aa_e teraa
+ki: bholii ha.Nsii par miTaa zaraa palako.n kaa chilaman uThaa 
+merii aa.Nkho.n se aa.Nkhe.n milaa tuu merii mai.n teraa ho gayaa 
+
+ki: thaame phiruu.N jigar hu_aa mere dil pe vo asar
+zulfe.n na mujh pe Daalo dilajalo.n kii lagegii nazar
+gii: luuTaa nazar ne terii haay kahatii hai dil kii lagii
+dekh tuu hai merii zi.ndagii pyaar se dil tujhe de diyaa
+
+gii: ta.Dapuu.N mai.n har gha.Dii terii merii kyaa nazar la.Dii
+meraa haal kuchh na puuchho zaraa suurat to dekho merii
+ki: tujhako mai.n dekhaa karuu.N terii chaahat me.n Duubaa rahuu.N
+terii kadamo.n pe ek din maruu.N tuu kahe haay re kyaa hu_aa
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{maanaa janaab ne pukaaraa nahii.n, kyaa meraa saatha bhii gavaaraa}%
+\film{Paying Guest}%
+\year{1957}%
+\starring{Dev Anand, Nutan}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+(maanaa janaab ne pukaaraa nahii.n
+kyaa meraa saatha bhii gavaaraa nahii.n
+mufta me.n bana ke, chala diye tanake, 
+vallaa javaab tumhaaraa nahii.n ) \- 2
+maanaa janaab ne \threedots
+
+(yaaro.n kaa chalana hai gulaamii
+dete.n hai.n hasiino.n ko salaamii ) \- 2
+gussaa naa kiijiye jaane bhii diijiye
+bandagI to bandagI to liijiye saahab
+maanaa janaab ne \threedots
+
+(TuuTaa phuuTaa dil ye hamaaraa,
+jaisaa bhii hai aba hai tumhaaraa ) \- 2
+idhar dekhiye, nazar pheriye  
+dillagii naa dillagii naa kiijiye saahab
+maanaa janaab ne \threedots
+
+(maashaa allaa kahanaa to maanaa
+bana gayaa biga.Daa zamaanaa ) \- 2
+tumako ha.Nsaa diyaa, pyaara sikhaa diyaa \- 2
+shukriyaa to shukriyaa to kiijiye saahab
+maanaa janaab ne pukaaraa nahii.n,
+kyaa meraa saatha bhii gavaaraa nahii.n
+mufta me.n bana ke, chala diye tanake, 
+vallaa javaab tumhaaraa nahii.n hAy \- 3
+%
+#endindian
+\endsong
+%

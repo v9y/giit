@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ho raam ho avataar ... aisii apanii dostii aisaa apanaa pyaar}%
+\film{Raam Avtaar}%
+\year{1988}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Mohammed Aziz, Pankaj Udhas}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ho raam \-3
+ho avataar
+ek duuje ke vaaste marane ko taiyaar \-2
+aisii apanii dostii aisaa apanaa pyaar \-2
+raam ko de aavaaz ko_ii to aa jaa_e avataar
+aisii apanii dostii \threedots
+
+tuu kyaa jaane bin tere kaise guzare din mere \-2
+bichha.D ke tujhase mai.n kitanaa royaa aa.Nsuu gin mere
+o mitavaa ho 
+dil ne tujhako yaad kiyaa pal pal me.n sau baar
+aisii apanii dostii \threedots
+
+hamane mere saathiyaa alag alag ghar janm liyaa \-2
+lagataa hai ham dono.n ne ek maa.N kaa duudh piyaa \-2
+o mitavaa ho
+tere dil par choT lage \-2 dard mujhe ho yaar
+aisii apanii dostii \threedots
+%
+#endindian
+\endsong
+

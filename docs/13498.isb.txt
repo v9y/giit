@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{aajaa aajaa naa naa ... paas nahii.n aa_egii to mai.n}%
+\film{Peetaambar}%
+\year{1991}%
+\starring{Ravi Kishan, Jaya Swami, Shahla Khan, Jaya Mathur, Sunil Dhawan}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Suraj Kiran}%
+\lyrics{Khalid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	aajaa aajaa
+saa \:	naa naa
+ku \:	paas aa aa
+saa \:	naa naa
+ku \:	paas nahii.n aa_egii to mai.n mar jaa_uu.Ngaa
+saa \:	dekho piyaa shaam hone lagii hai ab mujhe ghar jaane do
+ku \:	jaane kyo.n itanii jaldii pa.Dii hai dil zaraa bhar jaane do
+saa \:	ab mujhe ghar jaane do
+ku \:	dil zaraa bhar jaane do
+
+saa \:	kal isii jagah pe tujhe miluu.Ngii mai.n sajanaa
+ku \:	kal kaa o gorii tuu dikhaa naa mujhe sapanaa
+saa \:	ta.Dapegaa aaj kal miiThaa phal paa_egaa
+ku \:	jaanataa huu.N kal teraa kabhii nahii.n aa_egaa
+saa \:	jaane de naa
+ku \:	naa naa naa naa
+saa \:	jaane nahii.n degaa badanaamii ho jaa_egii
+ku \:	tuu chalii ga_ii to merii jaan chalii jaa_egii
+	aajaa aajaa
+saa \:	naa naa \threedots
+
+	sachchii mohabbat me.n ek duusare ko kabhii nahii.n chhu_aa karate
+ku \:	chhuunaa to chho.Do aaj kal ke do premii jaane kyaa kyaa kiyaa karate hai.n
+saa \:	kabhii nahii.n chhu_aa karate
+ku \:	ho jaane kyaa kyaa kiyaa karate hai.n
+saa \:	aajakal ke premiyo.n ko duur se salaam hai
+ku \:	duniyaa me.n pyaar se ba.Daa naa ko_ii kaam hai
+saa \:	dekho mere piichhe piichhe tum nahii.n aanaa
+ku \:	mai.n bhii kahii.n aur banaa luu.Ngaa Thikaanaa
+saa \:	aajaa aajaa
+ku \:	naa naa
+saa \:	paas nahii.n aa_egaa to mai.n mar jaa_uu.Ngii
+ku \:	phir tere ho.nTho.n pe ye baat nahii.n aa_egii
+saa \:	kabhii nahii.n aa_egii o kabhii nahii.n aa_egii
+ku \:	khaa merii qasam kabhii duur nahii.n jaa_egii
+saa \:	khaatii huu.N qasam kabhii duur nahii.n jaa_uu.Ngii
+%
+#endindian
+\endsong
+

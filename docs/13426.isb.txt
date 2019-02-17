@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{diivaano.n ko hai ... hamape chhaayaa hai o jaan\-e\-man paagalapan}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Raymond George, Shraddha Pandit}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paagal paagal paagalapan pan pan pan pan pan
+diivaano.n ko hai kaun roke jo yahaa.n
+ab dharatii se milake rahegaa aasamaa.n
+ba.Daa mushkil hai ham tak pahu.Nchanaa
+hamape chhaayaa hai o jaan\-e\-man paagalapan
+paagal paagal \threedots
+
+diivaar duniyaa uThaa_e hazaaro.n lagaa_e bhale laakh pahare
+gujare.nge is raah se ham sanam ham sanam ham sanam
+aa.Ndhii ho chaahe tuufaa.n u.D ke dil ke pari.nde naa Thahare
+karane lagaa inakaa man paagalapan paagalapan paagalapan
+diivaano.n ko \threedots
+
+phuulo.n ko khushbuu se baadal ko buu.ndo.n ko_ii judaa kar na paa_e
+bichha.De.nge ab to na ham hai kasam hai kasam hai kasam
+o saagar kii bahatii lahare.n hamako ko_ii miTaa ke dikhaa_e
+hai aashiqo.n kaa milan paagalapan paagalapan paagalapan
+diivaano.n ko \threedots
+%
+#endindian
+\endsong
+

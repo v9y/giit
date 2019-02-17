@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{dil dil se milaa kar dekho, nazaro.n me.n samaa kar dekho,}%
+\film{Memsaahib}%
+\year{1956}%
+\starring{Kishore, Meena Kumari, Shammi Kapoor}%
+\singer{Kishore}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Kannan Muththukaruppan (mkannan@cs.berkeley.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+(dil dil se milaa kar dekho,   
+nazaro.n me.n samaa kar dekho,  
+apanaa to banaa kar dekho,      
+hotii hai mohabbat kyaa )      (2)
+
+(ham pyaar me.n kho gaye aise, 
+parades me.n raahii jaise )     (2)
+ulfat kaa nashaa,
+jab ho hii gayaa,
+daaman ko chhu.Daaye.n kaise,
+
+nazare.n to uThaa kar dekho,
+vo tiir chalaa kar dekho,
+apanaa to bana kar dekho,
+hotii hai mohabbat kyaa,
+
+dil dil se milaa kar dekho,
+nazaro.n me.n samaa kar dekho,
+apanaa to banaa kar dekho,
+hotii hai mohabbat kyaa
+
+(laharaa ke havaa jab aaii, 
+phir Dasane lagii tanhaaii, ) (2)
+dil pahu.Nchaa vahaa.N,
+dilavar thaa jahaa.N,
+to bajane lagii shahanaaii
+
+dil me.n to biThaa kar dekho,
+kuchh pAs to aa kar dekho
+apanaa to banA kar dekho,
+hotii hai mohabbat kyA
+
+dil dil se milaa kar dekho,
+nazaro.n me.n samaa kar dekho,
+apanaa to banaa kar dekho,
+hotii hai mohabbat kyaa
+%
+#endindian
+\endsong
+%

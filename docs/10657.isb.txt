@@ -1,0 +1,32 @@
+
+%
+\startsong
+\stitle{ab meraa kaun sahaaraa}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Premanth, Nimmi, Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11882 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ab meraa kaun sahaaraa \-4
+mere balam
+mere balam mujhako naa bhulaanaa
+ab meraa kaun sahaaraa \-2
+
+( tujhase bichha.D kar duur hu_ii
+milane se majabuur hu_ii ) \-2
+ro\-ro ke dil ne tujhako pukaaraa
+aa aa
+ab meraa kaun sahaaraa \-2
+%
+#endindian
+\endsong
+

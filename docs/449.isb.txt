@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{dekho zaraa dekho barasaat kii jha.Dii}% 
+\film{Ye Dillagi}%
+\year{1994}%
+\starring{Akshaya Kumar, Kajol}%
+\singer{Lata, Kumar Sanu}%
+\music{Dilip Sen-Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Reeta Sinha (librs@emory.edu)
+%	   Amit Agarwal (aagarwal@leland.Stanford.EDU)
+% Editor:
+%
+\printtitle 
+#indian 
+%
+(dekho zaraa dekho barakhaa kii jha.Dii 
+tan ko bhigoe buu.Ndo.n kii la.Dii ) \- 2
+
+mausam suhaanaa hai kyaa aashikaanaa hai 
+bajane lagI hai Tik Tik dil kii gha.Dii 
+dekho zaraa \threedots
+
+tho.Dii sI bechainii tho.Daa nashaa 
+aane lagaa hai mujhe to mazaa 
+ghu.Ngharuu bajaatii hai cha.Nchal havaa 
+nA zaane saavan kii niiyat hai kyaa 
+mujhako sambhaalo mushkil hai ba.Dii 
+dekho zaraa \threedots
+
+lallaa \threedots
+
+mahake nazaare suhaanii Dagar 
+mai.n bekhabar naa mujhe kuchh khabar 
+ho anjaanii chaahat kA ahasaas hai 
+bhiige labo.n pe nayii pyaas hai 
+phisale kadam kaise rahuu.N mai.n kha.Dii 
+dekho zaraa \threedots
+
+mausam suhaanaa hai kyaa aashikaanaa hai 
+bajane lagI hai Tik Tik dil kii gha.Dii 
+(dekho zaraa dekho barakhaa kii jha.Dii 
+tan ko bhigoe buu.Ndo.n kii la.Dii ) \- 2
+%
+#endindian 
+\endsong
+%

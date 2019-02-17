@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tujhako pukaare meraa pyaar}%
+\film{Neel Kamal}%
+\year{}%
+\starring{Raaj Kumar, Wadeeda Rahman, Manoj Kumar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa jaa aa jaa aa jaa
+tujhako pukaare meraa pyaar
+aajaa, mai.n to miTaa huu.N terii chaah me.n
+tujhako pukaare meraa pyaar
+
+dono jahaa.N kii bhe.nT cha.Dhaa dii maine raah me.n terii
+apane badan kii khaaq milaa dii maine aah me.n terii
+ab to chalii aa is paar
+aajaa mai.n to miTaa huu.N \threedots
+
+itane yugo.n se itane dukho.n ko koI sah naa sakegaa
+merii qasam mujhe tuu hai kisiikii koI kah naa sakegaa
+mujhase hai teraa iqaraar
+aajaa, mai.n to miTaa huu.N \threedots
+
+aakhirii pal hai aakhirii aa.Nhe.n tujhe Dhuu.NDh rahii hai.n
+Duubatii saa.nse.n bujhatii nigaahe.n tujhe Dhuu.NDh rahii hai.n
+saamane aajaa ek baar
+aajaa, mai.n to miTaa huu.N \threedots
+%
+#endindian
+\endsong
+%

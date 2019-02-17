@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{nainaa hai.n jaaduu bhare ho gorii tore}%
+\film{Bedard Zamaanaa Kyaa Jaane}%
+\year{1959}%
+\starring{Ashok Kumar, Nirupa Roy, Pran, Helen}%
+\singer{Mukesh}%
+\music{Kalyanji Anandji}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10853 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+nainaa hai.n jaaduu bhare
+ho gorii tore nainaa hai.n jaaduu bhare
+ho hamape chhup\-chhup zulm kare.n
+ho gorii tore \threedots
+
+tiir chale par dekh na paa_e.N chhup\-chhup vaar kare.n
+ho kajaraa lagaa ke nazare.n ghumaa ke
+siine ke paar kare.n
+haay gorii tore \threedots
+
+bhole\-bhaale mad ke pyaale chhalak\-chhalak chhalake.n
+ho dekh adaa terii dil chhailo.n ke rah jaa_e.N jal\-jal ke
+haay gorii tore \threedots
+%
+#endindian
+\endsong
+

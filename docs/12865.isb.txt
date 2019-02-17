@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tuune priit jo mujhase jo.Dii maine lok laaj sab chho.Dii}%
+\film{Meeraa Kaa Mohan}%
+\year{1992}%
+\starring{Avinash Wadhwan, Ashwini Bhave, Deepak Saraf, Pran, A K Hangal}%
+\singer{Suresh Wadekar, Anuradha Paudwal}%
+\music{Arun Paudwal}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuune priit jo mujhase jo.Dii maine lok laaj sab chho.Dii
+pyaar me.n tere paagal hu_ii re pyaar me.n tere paagal hu_ii
+tuune priit jo mujhase \threedots
+
+mai.n miiraa tuu mohan mai.n saayaa tuu jiivan mere mitavaa aajaa
+
+tuune priit jo mujhase jo.Dii maine riit rasm sab to.Dii
+man kii nagarii me.n halachal hu_ii re
+mere dil kii tuu dha.Dakan tere dil kii mai.n dha.Dakan
+har pal tere saath rahuu.n mai.n mere dil kii yahii hai tamannaa
+
+ho jag se bhii mujhe kyaa lenaa hai tuu hii merii duniyaa
+saath gagan hai saath hai saagar apanaa saath hai saat janam kaa
+saat suro.n se bhii hai suriilaa giit mere jiivan kaa
+mere dil kii hai yahii tamannaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{chhup gaye saare nazaare oye kyaa baat ho ga_ii}%
+\film{Do Raaste}%
+\year{1969}%
+\starring{Rajesh Khanna, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11102 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+la \:	chhup gaye saare nazaare oye kyaa baat ho ga_ii \-2
+ra \:	tuune kaajal lagaayaa din me.n raat ho ga_ii \-2
+	mil gaye nainaa se nainaa oye kyaa baat ho ga_ii \-2
+la \:	dil ne dil ko pukaaraa mulaaqaat ho ga_ii \-2
+
+ra \:	( kal nahii.n aanaa
+	mujhe naa bulaanaa
+	ke maaregaa taanaa zamaanaa ) \-2
+	tere ho.nTho.n pe raat ye bahaanaa thaa
+	gorii tujhako to aaj nahii.n aanaa thaa
+	tuu chalii aa_ii duhaa_ii oye kyaa baat ho ga_ii \-2
+la \:	maine chho.Daa zamaanaa tere saath ho ga_ii
+	o maine chho.Daa zamaanaa tere saath ho ga_ii
+ra \:	tuune kaajal lagaayaa din me.n raat ho ga_ii
+
+la \:	( ambu_aa kii Daalii
+	pe gaaye matavaalii
+	koyaliyaa kaalii niraalii ) \-2
+	saawan aane kaa kuchh matalab hogaa
+	baadal chhaane kaa ko_ii sabab hogaa
+	rimajhim chhaaye.N ghaTaaye.N oye kyaa baat ho ga_ii \-2
+ra \:	terii chunarii laharaa_ii barasaat ho ga_ii \-2
+la \:	dil ne dil ko pukaaraa mulaaqaat ho ga_ii
+
+la \:	( chho.D na ba_iyaa.N
+	pa.Duu.N tere pa_iyaa.N
+	taaro.n kii chhai.nyaa.N me.n sai.nyaa.N ) \-2
+ra \:	ek wo din thaa milaatii na thii tuu a.Nkhiyaa.N
+	ek ye din hai tuu jaage saarii\-saarii ratiyaa.N
+	ban ga_ii gorii chakorii oye kyaa baat ho ga_ii \-2
+la \:	jisakaa Dar thaa bedardii wahii baat ho ga_ii
+	ho jisakaa Dar thaa bedardii wahii baat ho ga_ii
+	chhup gaye saare nazaare oye kyaa baat ho ga_ii
+do \:	dil ne dil ko pukaaraa mulaaqaat ho ga_ii \-2
+%
+#endindian
+\endsong
+

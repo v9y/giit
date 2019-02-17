@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chhallaa chhallaa u.ngalii me.n Daal meraa chhallaa}%
+\film{Khullam Khulla Pyaar Karen}%
+\year{2001}%
+\starring{Govinda, Priti Zinta}%
+\singer{Sudesh Bhonsale, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+chhallaa chhallaa chhallaa chhallaa
+u.ngalii me.n Daal meraa chhallaa
+kahanaa meraa maan le tuu varanaa yahaa.n jaan merii
+mai.n to machaa duu.Ngaa hallaa
+u.ngalii me.n Daal \threedots
+
+chaar din kii kahaanii pe naaz kar naa javaanii pe
+sach kahataa huu.N mai.n raanii naa jale aag paanii pe
+nahii.n nahii.n maine kahii.n pahale kabhii dekhii nahii.n
+itanii aka.D vallaah vallaah
+u.ngalii me.n Daal \threedots
+
+laal jo.Daa mai.n laa_uu.Ngaa maa.ng terii sajaa_uu.Ngaa
+ko_ii rokegaa kyaa mujhako tujhe dulhan banaa_uu.Ngaa
+saarii umr chho.Duu.Ngaa na sa.ng teraa raam kasam
+mai.n huu.n bihaarii lallaa
+u.ngalii me.n Daal \threedots
+%
+#endindian
+\endsong
+

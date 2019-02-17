@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{badan pe sitaare lapeTe hue, o jaan\-e\-tamannaa kidhar jaa rahii ho}%
+\film{Prince}%
+\starring{Shammi Kapoor, Vyjayanthimala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@exa.cs.umn.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Here is a fast number from "Prince", which Rafi handles with ease.  It
+% seems SJ and Hasrat composed this song when they were watching a stage
+% show during one of their visits to Russia.  There was someone with a
+% real glittering custome on stage and SJ asked Hasrat if he can compose
+% some lyrics for this situation and Hasrat immediately came up with..
+%	'badan pe sitaare lapete hue...':)
+% satish
+%
+badan pe sitaare lapeTe hue,
+o jaan\-e\-tamannaa kidhar jaa rahii ho
+zaraa paas aao to chain aa jaae,
+zaraa paas aao to chain aa jaae
+
+hamii.n jab naa ho.nge, to ai dilarubaa,
+kise dekhakar, haay, sharamaaogii
+naa dekhogii phir tum kabhii aainaa,
+hamaare binaa roz ghabaraaogii
+badan pe sitaare lapeTe hue \threedots
+
+hai banane sa.nvarane kaa jab hii mazaa,
+koI dekhane vaalaa aashiq to ho
+nahii.n to ye jalave hai.n bujhate diye,
+koI miTane vaalaa ek aashiq to ho
+badan pe sitaare lapeTe hue \threedots
+
+muhabbat ki ye i.ntahaa ho gaI,
+ki mastii me.n tumako khudaa kah gayaa
+zamaanaa ye i.nsaaf karataa rahe,
+buraa kah gayaa yaa bhalaa kah gayaa
+badan pe sitaare lapeTe hue \threedots
+%
+#endindian
+\endsong
+%

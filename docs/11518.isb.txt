@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{musaafir jaanevaale nahii.n phir aanevaale}%
+\film{Gadar - Ek Prem Katha}%
+\year{2001}%
+\starring{Sunny Deol, Ameesha Patel, Amrish Puri}%
+\singer{Udit Narayan, Priti Uttam}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+huu.N huu.N o ho
+musaafir jaanevaale nahii.n phir aanevaale
+chalo ik duusare ko kare.n rab ke havaale
+
+ba.Dii mushkil se dil me.n apane
+log basaate hai.n kuchh sapane
+ye sapane shiishe ke khilaune
+TuuT ke bas lagate hai.n rone
+dil pe chhaa jaate hai.n ye baadal kaale kaale
+chalo ik duusare ko \threedots
+
+o dariyaa de paaNiyaa.n
+ai maujaa.n phir nahii.n aaNiyaa.n
+yaad aa_e.ngii o yaad aa_e.ngii
+bas jaanevaalo.n kii kahaaniyaa.N
+naa jaane kyaa chhuuT rahaa hai o
+dil me.n bas kuchh TuuT rahaa hai
+ho.nTho.n par nahii.n ko_ii kahaanii
+phir bhii aa.Nkh me.n aa gayaa paanii
+nahii.n ham bhuulanevaale
+nahii.n tum bhuulanevaale
+chalo ik duusare ko \threedots
+%
+#endindian
+\endsong
+

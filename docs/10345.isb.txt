@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{raaz\-e\-dil unase chhupaayaa naa gayaa}%
+\film{Apna Banake Dekho}%
+\year{1962}%
+\starring{Asha Parekh, Manoj Kumar, Nazir Husain, Sundar, Achala Sachdev}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10674 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+raaz\-e\-dil unase chhupaayaa naa gayaa \-2
+pyaar kii aag kuchh aisii bha.Dakii \-2
+ek sholaa bhii dabaayaa na gayaa \-2
+raaz\-e\-dil unase \threedots
+
+pahale\-pahale to mujhe vo samajh hii na sake
+dil ko ta.Dapaate rahe mujhako tarasaate rahe
+aa.Nkh se aa.Nkh ka_ii baar milii \-2
+dil se dil phir bhii milaayaa na gayaa
+raaz\-e\-dil unase \threedots
+
+mujhako pahachaan ke vo dard\-e\-dil jaan ke vo
+kuchh pareshaan se hai.n kuchh pashemaan se hai.n
+itane sharamaa_e hu_e hai.n hamase \-2
+sar jhukaayaa to uThaayaa na gayaa
+raaz\-e\-dil unase \threedots
+
+aa.Nkh milate hii jhukii baat ho.nTho.n pe rukii
+beruKii pyaar banii jiit bhii haar banii
+kar ga_ii kaam mohabbat kii nazar \-2
+unase daaman bhii bachaayaa na gayaa
+raaz\-e\-dil unase \threedots
+%
+#endindian
+\endsong
+

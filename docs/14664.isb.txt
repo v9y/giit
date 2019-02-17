@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{zi.ndagii ek giit hai ise ho.nTho.n pe sajaale}%
+\film{Yash}%
+\year{1996}%
+\starring{Vijay Anand, Kartika Rane, Parikshit Sahani, Mangal Dhillon, Sonu Walia}%
+\singer{Jojo}%
+\music{Tabun}%
+\lyrics{Nawab Arzoo}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zi.ndagii ek giit hai ise ho.nTho.n pe sajaa le
+Gam ho yaa khushii ho pyaar se gunagunaa le
+din ho yaa raat ho dil kii hii baat ho
+ko_ii na jo saath ho gaa_e jaa
+zi.ndagii ek giit hai \threedots
+
+dil kii ye dha.Dakan gaa_e ga ma pa ma dha pa re ma ga
+duniyaa jise doharaa_e naGame.n aise tuu sunaa
+dhuup me.n chhaa.nv me.n sapano.n ke gaa.nv me.n
+pyaar kii baaho.n me.n gaa_e jaa
+zi.ndagii ek giit hai \threedots
+
+saat suro.n kaa sa.ngam ho jaa_e to bane saragam
+khile phuul se ham tum mahake khushbuu haradam
+tuu hai meraa jigar tuu hai merii nazar
+tuu meraa hamasafar gaa_e jaa
+zi.ndagii ek giit hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mujhe pyaar kii zi.ndagii dene vaale}%
+\film{Pyaar Ka Saagar}%
+\year{1961}%
+\starring{Meena Kumari, Rajendra Kumar}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subraminian (subraman@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+rafI:	mujhe pyaar kii zi.ndagii dene vaale
+	kabhI Gam na denA, khushI dene vaale
+	mujhe pyaar kii zi.ndagii dene vaale
+
+	(muhabbat ke vaade, bhulaa to na doge
+	kahI.n mujhase dAman, chhu.Daa to na doge ) \- 2
+	mere dil kI duniyA, hai tere havaale
+	mujhe pyAr kI \threedots
+
+AshA:	zamAne me.n tumase, nahI.n koI pyaarA
+	ye jaa.N bhii tumhArI, ye dil bhI tumhArA
+	jo na ho yakI.n to, kabhI aazamaa le
+	mujhe pyAr kI \threedots
+
+rafI:	bharosA hai hamako, muhabbat pe terI
+AshA:	to phir ha.Nsake dekho, nigAho.n me.n merii
+rafI:	ye Dar hai zamAnA, judaa kar na Daale
+dono: 	mujhe pyAr kI \threedots
+%
+#endindian
+\endsong
+%

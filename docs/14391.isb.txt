@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tanhaa dil tanhaa safar ... aa.Nkho.n me.n sapane li_e}%
+\film{Tanha Dil (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Shaan}%
+\music{Ram Sampat}%
+\lyrics{Shaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa.Nkho.n me.n sapane li_e ghar se ham chal to di_e
+jaane.n ye raahe.n ab le jaa_e.ngii kahaa.n
+miTTii kii khushbuu aa_e palako.n pe aa.Nsuu laa_e
+palako.n pe rah jaa_egaa yaado.n kaa jahaa.N
+ma.nzil na_ii hai anajaanaa hai kaaravaa.N
+chalanaa akele hai yahaa.N
+
+tanhaa dil tanhaa safar Dhuu.nDhe tujhe phir kyuu.n nazar
+tanhaa dil tanhaa safar \threedots
+
+dilakash nazaare dekhe jhilamil sitaare dekhe
+aa.Nkho.n me.n phir bhii teraa cheharaa hai javaa.n
+kitanii barasaate.n aa_ii.n kitanii saugaate.n laa_ii.n
+kaano.n me.n phir bhii guu.nje terii hii sadaa
+vaade ki_e the apanaa hogaa aashiyaa.N
+vaado.n kaa jaane hogaa kyaa
+tanhaa dil tanhaa safar \threedots
+%
+#endindian
+\endsong
+

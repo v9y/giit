@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{apanaa desh videsh ke aage haath na phailaa_e}%
+\film{Anokhaa}%
+\year{1975}%
+\starring{Shatrughan Sinha, Zarina Wahab, Imtiyaz, Kanhaiyalal, A K Hangal}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11557 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+apanaa desh videsh ke aage haath na phailaa_e
+aaj jahaa.N hai ret kal vahaa.N khet muskaraa_e 
+aisaa ki gaa.Nv\-gaa.Nv me.n ga.ngaa laharaa_e
+apanaa desh videsh \threedots
+
+mehanat kaa hii naam hai vo jisako qismat kahate hai.n
+do haatho.n kaa khel hai vo jisako daulat kahate hai.n
+ham jahaa.N pasiinaa bahaa_e.Nge motii vahaa.N ugaa_e.Nge
+nadiyaa.N baa.Ndh nahar nikaale.n Kushahaalii chhaa_e
+apanaa desh videsh \threedots
+
+desh kii har chiiz hai apanii kyo.n apane haatho.n se to.De.n
+isako bachaanaa farz hai apanaa kyo.n sarakaar par chho.De.n
+apanaa bhaarat saaraa hame.n praa.nt\-praa.nt hai pyaaraa
+aapas ke hii in da.ngo.n me.n desh na jal jaa_e
+apanaa desh videsh \threedots
+%
+#endindian
+\endsong
+

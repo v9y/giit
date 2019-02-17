@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{o saajanaa na puuchh mujhase pyaar kyaa hai}%
+\film{Krorepati}%
+\year{1961}%
+\starring{Kishor Kumar, Shashikala, Kumkum, K N Singh}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10908 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+o saajanaa na puuchh mujhase pyaar kyaa hai
+kitaabe.n dil me.n pa.Dh ke dekh le
+ki ( pyaar kyaa hai ) \-2
+
+taaro.n se raat ko jab dil kii baat ho
+jaan lo ki jiyaa kho gayaa
+ki dillagii me.n dil kisii kaa ho gayaa
+o saajanaa na puuchh \threedots
+
+sapano.n me.n har gha.Dii aate jo ajanabii
+jaan lo ki ab to nii.nd bhii ga_ii
+ki apanii raat bhii paraa_ii
+o saajanaa na puuchh \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jo pyaar tuune mujhako diyaa thaa}%
+\film{Dulha Dulhan}%
+\year{1964}%
+\starring{Raj Kapoor, Sadhna, Agha, K N Singh, Raj Mehra, Madhumati}%
+\singer{Mukesh}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo pyaar tuune mujhako diyaa thaa
+vo pyaar teraa mai.n lauTaa rahaa huu.N
+ab ko_ii tujhako shikavaa na hogaa
+terii zi.ndagii se chalaa jaa rahaa huu.N
+jo pyaar tuune \threedots
+
+hamako khabar bhii hone nahii.n dii
+kis mo.D par laa ke dil tuune to.Daa
+apanaa banaanaa rahaa duur tuune
+auro.n ke ho jaa_e.n aisaa naa chho.Daa
+terii jafaa kaa charchaa hii kaisaa
+apanii vafaa pe mai.n sharamaa rahaa huu.N
+jo pyaar tuune \threedots
+
+piichhe na ab ko_ii aayegaa tere
+ab ko_ii tujhako na aavaaz degaa
+mu.D kar kise dekhataa hai mere dil
+teraa kaun hai jo tujhe rok legaa
+tujhako mubaarak zamaane kii khushiyaa.n
+miTanaa hai mujhako miTaa jaa rahaa huu.N
+jo pyaar tuune \threedots
+%
+#endindian
+\endsong
+

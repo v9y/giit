@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{prem kaa hai is jag me.n}%
+\film{President}%
+\year{1937}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{R C Boral}%
+\lyrics{}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+prem kaa hai is jag me.n pa.nth niraalaa
+prem to hai is duniyaa me.n kaaraN duHkh kaa
+premii ko hotaa hai anubhav sukh kaa
+shiital pavan hai usako prem kii jvaalaa (2)
+prem kaa hai is jag me.n pa.nth niraalaa
+
+prem japan kii jag me.n riit hai nyaarii
+asuvan ke manako.n par prem pujaarii
+ro-ro kar japataa hai prem kii maalaa (2)
+prem kaa hai is jag me.n pa.nth niraalaa
+
+paagal premii ab tuu kyo.n rotaa hai, prem kaa to aisaa hii phal hotaa hai (2)
+pahale kaahe na tuune dekhaa-bhaalaa (3)
+%
+#endindian
+\endsong
+%

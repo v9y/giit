@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pahale kabhii na hamane kahaa ... ham aapake dil me.n rahate hai.n}%
+\film{Hum Aapke Dil Mein Rehte Hain}%
+\year{1999}%
+\starring{Anil Kapoor, Kajol, Anupam Kher}%
+\singer{Kumar Sanu, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pahale kabhii na hamane kahaa lo aaj sanam ye kahate hai.n
+ham aapake dil me.n rahate hai.n
+pahale kabhii na \threedots
+
+sach ho ga_ii du_aa apanaa milan hu_aa
+ab naa kabhii rahanaa judaa milake chalo vaadaa karo
+chhup jaa_o aa.Nkho.n me.n bas jaa_o saa.Nso.n me.n
+dha.Dakan kii hai sadaa
+ik pal kabhii jo duur hu_e dard hazaaro.n sahate hai.n
+ham aapake dil \threedots
+
+dono.n jahaa.n ko bhulaa ke bas tumako karanaa hai haasil
+kitanii muhabbat hai tumase tumako bataanaa hai mushkil
+kyaa zi.ndagii hai hamaarii ye hai amaanat tumhaarii
+bas ab yahii hai tamannaa saa.Nse.n tumhe.n de duu.n saarii
+ho.nge kabhii ham naa judaa raG raG me.n lahuu banake bahate hai.n
+ham aapake dil \threedots
+%
+#endindian
+\endsong
+

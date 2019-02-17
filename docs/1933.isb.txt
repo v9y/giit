@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye nayan Dare Dare, ye jaam bhare bhare, zaraa piine do}%
+\film{Kohra}%
+\year{}%
+\starring{Biswajeet, Waheeda Rehman, Lalita Pawar}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  (preetham@pipa.src.umd.edu)
+% Transliterator: Ravi Kant Rai 
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye nayan Dare Dare, ye jaam bhare bhare
+zaraa piine do
+kal kii kisako khabar, ik raat hoke niDar
+mujhe jiine do
+ye nayan Dare Dare \threedots
+
+(raat hasii.n ye chaa.Nd hasii.n
+par sabase hasii.n mere dilabar ) \- 2
+aur tujhase hasii.n, aur tujhase hasii.n terA pyaar
+tU jaane nA
+ye nayan Dare Dare \threedots
+
+(pyaar me hai jiivan kii khushii
+detii hai khushii kaI gam bhii ) \- 2
+mai maan bhii luu.N, mai maan bhii luu.N kabhii haar
+tU maane nA
+ye nayan Dare Dare \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{o praaNii kyaa soche kyaa ho_e}%
+\film{Chehra}%
+\year{1946}%
+\starring{Nazma, Kamal Jagirdar, Suraiya Zulfi, S Kapoor, Mustafa}%
+\singer{Mukesh}%
+\music{M A Mukhtar}%
+\lyrics{Ishwar Chandra Kapoor}%
+%
+% Contributor: BOL ANAMOL #11409 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+o praaNii kyaa soche kyaa ho_e
+bhaagy ke hai.n khel niraale pal jaage pal so_e
+o praaNii kyaa soche \threedots
+
+kin chaaho.n se baaG lagaa_e
+aashaa_o.n ke diip jalaa_e
+ha.Nsane ke saamaan banaa_e
+paas kha.Daa phir ro_e
+kyaa soche kyaa ho_e \-2
+o praaNii kyaa soche \threedots
+
+maaTii kaa ik diiyaa jale aa.Ndhii ba.Dhatii jaa_e
+chhalanii sii o.Dhanii kab tak ise bachaa_e
+jo ho_e so ho_e terii pesh na jaane ko_e
+kyaa soche kyaa ho_e \-2
+o praaNii kyaa soche \threedots
+%
+#endindian
+\endsong
+

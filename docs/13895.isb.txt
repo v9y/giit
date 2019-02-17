@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dil ne pukaaraa hai o jaan\-e\-jaa.n aa bhii jaa}%
+\film{Shakti The Power}%
+\year{2002}%
+\starring{Sanjay Kapoor, Karisma Kapoor, Nana Patekar, Shahrukh Khan, Aishwarya Rai}%
+\singer{Alka Yagnik, Adnan Sami, Ravindra Sathe, Prakash}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+dil ne pukaaraa o ho o
+dil ne pukaaraa hai o jaan\-e\-jaa.n aa bhii jaa
+tarasii huu.N tere li_e aur naa tuu sataa
+tanhaa_ii aa ke zaraa duur kar de
+tere bin suunaa suunaa saaraa jahaa.N tuu hai kahaa.N
+aa bhii jaa aa bhii jaa aa bhii jaa
+dil ne pukaaraa \threedots
+
+khvaabo.n me.n tum aur khyaalo.n me.n tum ho
+bechain dha.Dakan me.n tum hii tum ho
+mere jaanuu.n aa jaa_o naa
+dil ne pukaaraa \threedots
+
+laa laa laa
+merii nazar kaa nazaaraa tum ho
+merii kismat kaa sitaaraa tum ho
+mere jaanuu.n aa jaa_o naa
+dil ne pukaaraa \threedots
+%
+#endindian
+\endsong
+

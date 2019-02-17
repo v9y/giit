@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ek baar rakh de qadam zaraa jhuum ke}%
+\film{Melaa}%
+\year{1971}%
+\starring{Sanjay Khan, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10784 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	ek baar rakh de qadam zaraa jhuum ke
+	ek baar chal de tuu dharatii ko chuum ke
+	rastaa teraa hai ma.nzil terii hai
+
+	suuraj kitanaa javaa.N kitanaa hasii.n hai ye ujaalaa
+	galiyaa.N kab se pukaare.n aa_e ko_ii dilavaalaa
+	raahii ye din kaisaa matavaalaa
+
+	himmat vaale chalaa chal niile ambar ke saa_e\-saa_e
+	kabase tujhako nihaare dharatii chunariyaa bichhaa_e
+	yuu.N chal ke duniyaa tere piichhe\-piichhe aa_e
+
+la \:	jiinaa chaahe jo jag me.n jiivan milaa use kaise
+	aise aa.Nchal u.Daa_o naache saavan rut jaise
+ra \:	sun lo ghu.Ngharuu bole.n kaise\-kaise
+	ek baar rakh de \threedots
+%
+#endindian
+\endsong
+

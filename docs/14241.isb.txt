@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{bahaaro.n ne jise chhe.Daa hai vo saaj\-e\-javaanii hai}%
+\film{Sunehre Din}%
+\year{1949}%
+\starring{Raj Kapoor, Rehana,  Nigar, Harun, Heera Sawant}%
+\singer{Mukesh}%
+\music{Gyan Dutt}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #10205 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+bahaaro.n ne jise chhe.Daa hai vo saaj\-e\-javaanii hai
+zamaanaa sun rahaa hai jisako vo merii kahaanii hai
+bahaaro.n ne jise chhe.Daa \threedots
+
+qasam khaa kar kisii ko jab apanaa banaa_uu.Ngaa
+chaman kii Daaliyo.n se laaliyaa.N phuulo.n kii laa_uu.Ngaa
+sitaaro.n ke chiraaGo.n se phir is ghar ko sajaa_uu.Ngaa
+ki is duniyaa me.n mujhako ik na_ii duniyaa basaanii hai
+bahaaro.n ne jise chhe.Daa \threedots
+
+chaman me.n sabane hii gaayaa taraanaa zindagaanii kaa
+magar sabase alag thaa ra.ng merii hii kahaanii kaa
+fasaanaa is qadar ra.ngiin thaa merii javaanii kaa
+ki jisane bhii sunaa kahane lagaa merii kahaanii hai
+bahaaro.n ne jise chhe.Daa \threedots
+
+ko_ii samajhe naa samajhe mai.n kahe detaa huu.N duniyaa se
+ki mai.n duniyaa me.n huu.N matalab nahii.n rakhataa huu.N duniyaa se
+kabhii kuchh dil me.n aataa hai to kah detaa huu.N duniyaa se
+merii aavaaz hii merii tamannaa kii nishaanii hai
+bahaaro.n ne jise chhe.Daa \threedots
+%
+#endindian
+\endsong
+

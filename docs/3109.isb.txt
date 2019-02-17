@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{jiivan kii biinaa kaa taar bole}%
+\film{Rani Roopmati}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy}%
+\singer{Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:17 June,2001
+% Comments:LATAnjali
+% Credits:Chetan Vinchhi,Balaji Murthy
+%
+\printtitle
+#indian
+%
+
+jiivan kii biinaa kaa taar bole
+saanson me.n sur kaa singaar bole
+hriday kii dhadakan me.n pyaar bole
+jaane kyaa bole, kyaa bole kyaa bole kyaa bole
+o jaane kyaa bole kyaa bole kyaa bole
+
+kisane sunaake suriile sii taan, mere kaano.n me.n ras diyaa ghol re
+kiskii rasiilii tara.ngo.n ne mere dil ko kiyaa Daa.NvaaDol re
+dil ko kiyaa Daa.NvaaDol re
+man ke chaman kii bahaar bole
+koyal kii miiThii pukaar bole
+jhaanjhar kii jhan jhan jhankaar bole
+jaane kyaa bole \thereedots 
+
+saagar kii lahare sunaaye re sargam,baadal kaa rang huaa laal re
+kaisaa ye giit aaj gaayaa gagan ne,dhartii bhii dene lagii taal re
+dhartii bhii dene lagii taal re
+chandaa kii kiranon kaa haar bole
+iThalaate jharanon ki dhaar bole
+man kaa papiiha baar baar bole
+jaane kyaa bole \thereedots 
+%
+#endindian
+\endsong
+%
+
+

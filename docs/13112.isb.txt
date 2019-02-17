@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{ashaar #recital# ... hamane maanaa ke ... mere baad}%
+\film{Mirzaa Ghaalib}%
+\year{1954}%
+\starring{Bharat Bhushan, Suraiya}%
+\singer{Suraiya}%
+\music{Gulam Mohammed}%
+\lyrics{Mirza Gaalib}%
+%
+% Contributor: BOL ANAMOL #12552 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+hamane maanaa ke taGaaful na karoge lekin
+Kaaq ho jaaye.nge ham tumako Kabar hone tak
+Kaaq ho jaaye.nge ham
+
+% The following is a ghazal
+
+husn\-e\-Gam hai ke sazaa saz se chhuTaa mere baad
+baakii aaraam se hai.n ahal\-e\-jafaa mere baad
+
+shamaa bujhatii hai usame.n se dhu_aa.N uThataa hai
+sholaa\-e\-ishq siyaa\-posh hu_aa mere baad
+
+Gam se marataa ho ke itanaa nahii.n duniyaa me.n ko_ii
+kyuu.N kare.n taajiyat\-mehar\-o\-wafaa mere baad
+
+aaye hai dilaqashii\-e\-ishq pe ronaa Gaalib
+ishq ghar jaayegaa sailaab\-e\-balaa mere baad
+%
+#endindian
+\endsong
+%
+

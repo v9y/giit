@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{mujhe le chalo aaj phir us galii me.n}%
+\film{Sharaabi}%
+\year{1964}%
+\starring{Dev Anand, Madhubala, Lalita Pawar}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: rathore@ece.rutgers.edu <Mohan Rathore>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 04/23/1996
+% Credits: Vinod Jairaj <vjairaj@blue.weeg.uiowa.edu>
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Comments:  
+%
+\printtitle
+#indian
+%
+mujhe le chalo, aaj phir us galii me.n
+jahaa.N pahale\-pahale, ye dil la.Dakha.Daayaa
+
+vo duniyaa, vo merii mohabbat kii duniyaa
+jahaa.N se mai.n betaabiyaa.N leke aayaa
+mujhe le chalo \threedots
+
+jahaa.N so rahii hai merii zi.ndagaanii
+jahaa.N chho.D aayaa mai.n apanii javaanii
+vahaa.N aaj bhii ek chaukhaT tazaa
+mohabbat ke sajaado.n kii hogii nishaanii	\-2
+mujhe le chalo \threedots
+
+vo duniyaa jahaa.N usake naqsh\-e\-kadam hai.n
+vahii.n merii khushiyaa.N, vahii.n mere Gam hai.n
+mai.n le aauu.Ngaa khaak us rahaguzar kii
+ke us rahaguzaraa kii, to zarre sanam hai      \-2
+mujhe le chalo \threedots
+
+vahaa.N ek ra.Ngee.n chilaman ke piichhe
+chamakataa huaa usakaa, ruKasaar hogaa
+basaa luu.Ngaa aa.Nkho.n me.n vo roshanii mai.n
+yuu.N hii kuchh ilaaj\-e\-dil\-e\-zaar hogaa     \-2
+mujhe le chalo \threedots
+
+mujhe le chalo, aaj phir us galii me.n
+jahaa.N pahale\-pahale, ye dil la.Dakha.Daayaa
+vo duniyaa, vo merii mohabbat kii duniyaa
+jahaa.N se mai.n betaabiyaa.N leke aayaa
+mujhe le chalo \threedots
+%
+#endindian
+\endsong
+%

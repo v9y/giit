@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{phuulo.n me.n khushbuu hai ... ham saath saath hai.n}%
+\film{Hum Saath Saath Hain/ We Stand United}%
+\year{1999}%
+\starring{Salman Khan, Saif Ali Khan, Mohanish Behl, Tabu, Karisma Kapoor, Sonali Bendre}%
+\singer{Hariharan, Anuradha Paudwal, Kumar Sanu, Alka Yagnik, Udit Narayan, Kavita Subramaniam}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+phuulo.n me.n khushbuu hai is dil me.n ik tuu hai
+janmo.n ke saathii ham saath saath hai.n
+janmo.n ke saathii \threedots
+
+naino.n me.n jyoti hai siipii me.n motii hai
+janmo.n ke saathii \threedots
+
+jaise ha.nso.n ke sa.ng ha.nsinii
+jaise cha.ndaa me.n hai chaa.Ndanii
+jaise kaviyo.n kii ho bhaavanaa
+jaise man me.n ko_ii kaamanaa
+diiyaa aur baatii
+ham saath saath hai.n \threedots
+
+jaise aa.Nkho.n me.n ho.n shokhiyaa.n
+jaise ho.nTho.n pe ho.n surkhiyaa.n
+jaise saavan me.n jhuume jiyaa
+jaise sajanii ke sa.ng ho piyaa
+diiyaa aur baatii
+ham saath saath hai.n \threedots
+%
+#endindian
+\endsong
+

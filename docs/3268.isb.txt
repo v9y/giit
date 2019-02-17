@@ -1,0 +1,40 @@
+% ITRANS SONG # 3268; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-09-04 01:32:08 PST
+%
+\startsong
+\stitle{ai Gardish\-e\-zamaanaa kab tak ye Gam sahe.nge}%
+\film{Allaadin Lailaa}%
+\year{1957}%
+\starring{Shakeela, Mahipal, Heeralal, Maruti}%
+\singer{Talat, Sudha Malhotra}%
+\music{A R Qureshi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 sept 2002
+% Comments: A R Qureshi is none other than the famous
+%    tabla player, Alla Rakha (father of Zakir H).
+%
+\printtitle
+#indian
+%
+tm: ai Gardish\-e\-Jamaanaa   kab tak ye Gam sahe.nge
+sm: wo din nahii.n rahe to    ye bhii nahii.n rahe.nge
+
+tm: ab kyaa bachegii duniyaa      ab hogaa kyaa saveraa
+     kuchh suujhataa nahii.n hai   chhaayaa hai wo a.ndheraa
+sm: maayuus ho na itanaa     hone ko hai saveraa
+     allaah to le rahaa hai   ye imtahaan teraa
+     maalik pe rakh bharosaa  ye tujhase ham kahe.nge
+
+tm: ab ek pal bhii jiinaa     mujhako nahii.n ga.Nvaaraa
+     ai maut tuu kahaa.N hai   ab de mujhe sahaaraa
+sm: himmat se kaam le tuu     aahe.n na bhar Kudaaraa??
+     ye kah rahaa hai tujh se  rahamat kaa ye sitaaraa
+     sab duur hai.n kii mushkil  ye din nahii.n rahe.nge
+%
+#endindian
+\endsong
+%

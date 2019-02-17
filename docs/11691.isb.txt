@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{bhuul na jaanaa ... tum ho tumhii.n ho sanam mere hamaraaz}%
+\film{Humraaz}%
+\year{2002}%
+\starring{Bobby Deol, Ameesha Patel, Akshay Khanna}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+tum ho tum ho tumhii.n ho sanam mere hamaraaz
+hamaraaz hamaraaz
+he he aa haa haa haa haa
+laa laa laa laa laa laa
+bhuul na jaanaa duur na jaanaa
+o jaan\-e\-jaanaa.n pyaar nibhaanaa
+tum ho tum ho \threedots
+
+tuu hii aarazuu hai tuu hii justazuu tuu hai junuu.n
+dil kii galii ye ba.Daa ta.Dapaatii hai
+ahad\-e\-vafaa me.n dagaa de jaatii hai
+dagaa nahii.n denaa sazaa nahii.n denaa
+saahil pe laa ke Dubaa nahii.n denaa
+tum ho tum ho \threedots
+
+hai kachche dhaage se naazuk mohabbat
+ye TuuT jaa_e naa karanaa hifaazat
+doraahe pe laa ke chho.D nahii.n denaa
+vaadaa ye vafaa kaa to.D nahii.n denaa
+tum ho tum ho \threedots
+%
+#endindian
+\endsong
+

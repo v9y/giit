@@ -1,0 +1,55 @@
+% ITRANS SONG # 3470; Created on Jan 26, 2004
+%
+%      From: Satish Kalra
+%      Date: 2002-11-1
+%
+\startsong
+\stitle{sochataa huu.N ye kyaa kiyaa mai.nne}%
+\film{Hamari Yaad Aayegi/ Javaan Mohabbat}%
+\year{1961}%
+\starring{Tanuja, Ashok Sharma, Anant Kumar, Madhavi}%
+\singer{Mukesh, Lata}%
+\music{Snehal Bhatkar}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: Satish Kalra
+% Series: GEETanjali
+%
+\printtitle
+#indian
+%
+mu: sochataa huu.N ye kyaa
+   ye kyaa kiyaa mai.nne
+   kyaa ye saradard le liyaa mai.nne
+ 
+la: sochatii huu.N ye kyaa
+   ye kyaa kiyaa mai.nne
+   kyo.n ye saradard le liyaa mai.nne
+ 
+mu: kaun hai ye kahaa.N se aaii hai
+   ye to apanii nahii.n paraaii hai
+   aisii cha.nchal shariir aur jhuuThii
+   phir bhii dil ko ye aisii bhaaii hai
+   haath haatho.n me.n le liyaa mai.nne
+   dil\-e\-naadaa.n ye kyaa kiyaa mai.nne
+   sochataa huu.N ye kyaa\threedots
+ 
+la: dekh kar yuu.n  vo muskuraayaa kyuu.n
+   muskuraayaa thaa paas aayaa kyuu.n
+   naak itanii sii aap itanaa saa
+   phir bhii merii nazar ko bhaayaa kyuu.n
+   isako arpan kiyaa hiyaa mai.nne
+   dil\-e\-naadaa.n ye kyaa kiyaa mai.nne
+ 
+mu: raat din ishq kaa jo ronaa thaa
+la: liijiye ho gayaa jo honaa thaa
+mu: ye jo qaafir dha.Dak rahaa hai yahaa.N
+   is ne ek din mujhe Dubonaa thaa
+   dil\-e\-naadaa.n ye kyaa kiyaa mai.nne
+la: jo kiyaa Thiik hii kiyaa mai.nne
+   dil kaa raushan kiyaa diiyaa mai.nne
+mu: sochataa huu.N ye kyaa\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{ik ma.nzil raahii do phir pyaar na kaise ho}%
+\film{Sanjog}%
+\year{1961}%
+\starring{Pradeep Kumar, Anita Guha, Shubha Khote}%
+\singer{Mukesh, Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10596 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	ik ma.nzil raahii do ( phir pyaar na kaise ho ) \-2
+mu \:	saath mile jab dil do ( phir pyaar naa kaise ho ) \-2
+
+	ham bhii vahii hai.n dil bhii vahii hai dha.Dakan magar na_ii hai
+la \:	dekho to miit aa.Nkho.n me.n priit ( kyaa ra.ng bhar ga_ii hai ) \-2
+do \:	ik ma.nzil raahii do \threedots
+
+la \:	nikale hai.n dhun me.n apanii lagan me.n ma.nzil bulaa rahii hai
+mu \:	Tha.nDii havaa bhii ab to milan ke ( naGame.n sunaa rahii hai ) \-2
+do \:	ik ma.nzil raahii do \threedots
+
+mu \:	dekho vo phuul duniyaa se duur aakar kahaa.N khilaa hai
+la \:	merii tarah ye Kush hai zaruur ( isako bhii kuchh milaa hai ) \-2
+do \:	ik ma.nzil raahii do \threedots
+%
+#endindian
+\endsong
+

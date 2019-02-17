@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{dekh rahaa hai uupar vaalaa ... jaane vaale o jaane vaale}%
+\film{Jaanwar}%
+\year{1999}%
+\starring{Akshay Kumar, Karisma Kapoor}%
+\singer{Sonu Nigam, Alka Yagnik, Ram Shankar, Chorus}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekh rahaa hai uupar vaalaa rok rahii hai.n suunii raahe.n
+o mere bedard musaafir thaam le aake merii baahe.n
+jaane vaale o jaane vaale
+
+jaane vaale jaane vaale
+deke itanaa dard mere dil ko yuu.n ta.Dapaane vaale
+naa jaa mujhe chho.Dake o jaane vaale o jaane vaale
+jaane vaale \threedots
+
+jisake dil me.n dard na ho jaanavar haivaan hai
+jo kisii ke Gam ko baa.NTe bas vahii i.nsaan hai
+besahaaro.n kaa sahaaraa jo yahaa.N ban jaataa hai
+sachche maano.n me.n masiihaa bas vahii kahalaataa hai
+apane dil ke is Tuka.De se is tarah mu.nh mo.Dake
+o jaane vaale
+jaane vaale \threedots
+
+tere li_e maine chho.Dii Kudaa_ii
+maine vafaa tuune kii bevafaa_ii
+jhuuThii kasam teraa vaadaa thaa jhuuThaa
+maine bharosaa kiyaa tuune luuTaa
+aa.Nkho.n se aa.Nsuu bahate rahe.nge
+tuu bevafaa hai kahate rahe.nge
+tuu gayaa bedard mere dil kaa shiishaa to.D ke
+o jaane vaale
+jaane vaale \threedots
+
+mai.n akelaa mai.n laavaaris ko_ii bhii naa meraa vaaris
+aa_egaa shaitaan ko_ii mujhako lekar jaa_egaa
+vo sitam mujhape Dhaa_egaa sirf nafarat sikhalaa_egaa
+ho buraa_ii jinakii ma.nzil aise raste dikhalaa_egaa
+phir kisii i.nsaan ko jaanavar vo banaa_egaa
+jaanavar vo banaa_egaa
+
+tuu agar ye chaahataa hai phir ko_ii barabaad naa ho
+tuu agar ye sochataa hai phir kahii.n fariyaad naa ho
+kashtii ko saahil pe laade phuulo.n se kaa.NTe haTaa de
+rastaa mujhako dikhaa de zi.ndagii merii banaa de
+zi.ndagii merii banaa de
+barbaadii se naakaamii se rishtaa meraa to.D ke
+o jaane vaale
+jaane vaale \threedots
+%
+#endindian
+\endsong
+

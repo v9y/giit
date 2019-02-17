@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{premii aashiq aavaaraa, paagal majanuu diivaanaa}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Madhu, Ajay Devgun}%
+\singer{Kumar Sanu}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+premii, aashiq, aavaaraa
+paagal, majanuu, diivaanaa
+muhabbat ne ye naam hamako diye hai.n
+tumhe.n jo pasand ho, ajii farmaanaa
+dil jaanaa
+premii, aashiq, aavaaraa   \threedots
+
+mahakatii javaanii, havaa kii ravaanii
+hame.n yuu.N na ta.Dapaa ke jaa
+bahaaro.n kii raanii, hasiinaa diivaanii
+na dil aise dha.Dakaa ke jaa
+maanaa hai tuu har hasii.n se hasii.n
+hogaa na ham saa bhii duujaa kahii.n
+bha.Nvaraa, chhaliyaa, harajaa_ii
+paagal, majanuu, diivaanaa   \threedots
+
+are nakharevaalii, na de hamako gaalii
+hame.n tuune jaanaa nahii.n
+gulaabo.n kii Daalii, sharaabo.n kii pyaalii
+hame.n yuu.N jalaanaa nahii.n
+o jaan\-e\-jaanaa aka.Datii hai kyo.n
+dil vaalo.n pe yuu.N biga.Datii hai kyo.n
+dilabar, anaa.Dii, saudaa_ii
+paagal, majanuu, diivaanaa   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{mai.n huu.N teraa giit gorii tuu hii merii taan hai}%
+\film{Mahua}%
+\year{1969}%
+\starring{Shiv Kumar, Anjana, Faraah, Premnath}%
+\singer{Rafi, Asha}%
+\music{Sonik Omi}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10386 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	mai.n huu.N teraa giit gorii tuu hii merii taan hai
+	tuu hii merii jaan hai par tho.Dii sii naadaan hai
+aa \:	haay pahalaa hai pyaar daiyaa\-daiyaa
+	haay re mohe Dar laage
+
+ra \:	baar baar baar dekhuu.N tohe
+	pii_uu.N mai.n terii aa.Nkho.n ke jaam se
+aa \:	pyaar pyaar pyaar hu_aa mohe
+	ga_ii re mai.n to duniyaa ke kaam se
+ra \:	haay terii bholii\-bhaalii batiyo.n ne luuTaa
+aa \:	terii so_ii\-so_ii a.Nkhiyaa.N pukaare.n piyaa
+	inako jagaay de
+
+ra \:	naach naach naach naagin merii
+	sunaa de ko_ii sapano kaa raag re
+aa \:	taan taan taan sun ke terii
+	siine me.n lagii miiThii sii aag re
+	ho re tere dil me.n chingaarii sii jalii hai
+ra \:	haay rii gorii yahii dil kii lagii hai
+	mai.n huu.N teraa giit \threedots
+
+aa \:	haay pahalaa hai pyaar daiyaa\-daiyaa
+	haay re mohe Dar laage
+ra \:	kaahe rii tohe Dar laage
+%
+#endindian
+\endsong
+

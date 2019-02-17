@@ -1,0 +1,66 @@
+
+%
+\startsong
+\stitle{mere mahabuub tujhe salaam}%
+\film{Baghaawat}%
+\year{1982}%
+\starring{Dharmendra, Hema Malini, Rina Roy, Amjad Khan}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11312 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	mere mahabuub tujhe salaam \-2
+aa \:	salaam \-3
+do \:	mere mahabuub tujhe salaam
+ra \:	mushqil me.n jaan aa_ii aayaa ho.nTho.n pe teraa naam
+	mere mahabuub tujhe \threedots
+
+	kyaa paradaa kyaa jalavaa ye dil tujhase hai ma.nsuub
+	mere mahabuub tujhe \threedots
+aa \:	salaam \-3
+do \:	mere mahabuub tujhe \threedots
+
+ra \:	meraa habiib tuu hai meraa nasiib tuu hai
+aa \:	meraa habiib tuu hai meraa nasiib tuu hai
+ra \:	dar kaa faqiir huu.N mai.n bandaa asiir huu.N mai.n
+	tujhape merii nazar hai mujhase tuu beKabar hai
+aa \:	tujhape merii nazar hai mujhase tuu beKabar hai
+ra \:	mai.n apane meharabaa.N se ab kyaa kahuu.N zubaa.N se
+	aaho.n se ishq me.n lete hai.n aashiq zubaa.N kaa kaam
+	mere mahabuub tujhe \threedots
+aa \:	salaam \-2
+do \:	mere mahabuub tujhe \threedots
+
+ra \:	hai intazaar mushqil suunii hai dil kii mahafil
+	kab terii diid hogii masto.n kii iid hogii
+aa \:	kab terii diid hogii masto.n kii iid hogii
+ra \:	chilaman se aa nikal kar mere hasiin dilabar
+	jo kuchh bhii daramiyaa.N hai u.D jaa_egaa dhu_aa.N hai
+	parade uThaa rahaa hai saare shaayar kaa ye qalaam
+	mere mahabuub tujhe \threedots
+aa \:	salaam \-3
+do \:	mere mahabuub tujhe \threedots
+
+ra \:	nazaro.n me.n tuu hii tuu hai
+	bas terii aarazuu hai
+	ye beruKii hai kaisii ye beKudii hai kaisii
+aa \:	ye beruKii hai kaisii ye beKudii hai kaisii
+ra \:	pahachaan ye nigaahe.n ye aa.Nsuu aur ye aahe.n
+aa \:	pahachaan ye nigaahe.n ye aa.Nsuu aur ye aahe.n
+ra \:	shauq\-e\-visaal ye hai is dil kaa haal ye hai
+	lay ke baGair naGamaa jaise may ke baGair jaam
+	mere mahabuub tujhe \threedots
+aa \:	salaam \-3
+do \:	mere mahabuub tujhe \threedots
+%
+#endindian
+\endsong
+

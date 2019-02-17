@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mujhe huzuur tum se pyaar hai}%
+\film{Son of India}%
+\year{1962}%
+\starring{Kamaljeet, Kumkum, Sajid}%
+\singer{Geeta}%
+\lyrics{Shakeel}%
+\music{Naushad}%
+%
+%Contributor: Prithviraj Dasgupta
+%Transliterator: Prithviraj Dasgupta
+%Date: Jan 28, 2002
+%Availability: HMV CD Mother India/Son of India sdtrk
+%
+\printitle
+#indian
+
+mujhe huzuur tum se pyaar hai 
+tumhii pe zi.ndagii nisaar hai
+
+mere kariib aa ke dekh lo
+mujhe gale lagaa ke dekh lo
+huzuur aazamaake dekh lo
+nazar kaa tiir dil ke paar hai
+mujhe huzuur tum se pyaar hai \threedots
+
+khushii ke saaz hai.n chhe.De hu_e
+dilo.n ke raag hai.n khule hu_e
+sabhii ye husn par luTe hu_e
+zamaanaa aaj beqaraar hai
+mujhe huzuur tum se pyaar hai \threedots
+
+idhar ye raat kii javaaaniiyaa.N 
+udhar tumhaarii meherbaaniyaa.N
+banii hai pyaar kii kahaaniiyaa.N
+ye raat ek yaadagaar hai
+mujhe huzuur tum se pyaar hai
+
+%
+#endindian
+\endsong
+%

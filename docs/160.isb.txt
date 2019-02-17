@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ai dil mujhe bataa de tuu kisa pe aa gayaa hai}%
+\film{Bhai Bhai}%
+\year{}%
+\starring{Ashok Kumar, Nirupa Roy, Kishore, Shyama, Nimmi}%
+\singer{Geeta}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+% 
+ai dila mujhe bataa de, tuu kisa pe aa gayaa hai
+vo kauna hai jo aakara, khvaabo.n pe chhaa gayaa hai
+	
+mastii bharaa taraanaa, kyo.n raata gaa rahii hai
+aa.nkho.n me.n nii.nda aakara, kyo.n duura jaa rahii hai
+dila me.n koI sitamagara, aramaa.n jagaa gayaa hai
+vo kauna hai jo aakara, khavaabo.n pe chhaa gayaa hai
+ai dila mujhe bataa de, tuu kisa pe aa gayaa hai
+vo kauna hai jo aakara, khvaabo.n pe chhaa gayaa hai
+	
+betaaba ho rahaa hai, ye dila machala machala ke
+shAyada ye raata biite, karavaTa badala badala ke
+lala laa lala laa\threedots
+betaaba ho rahaa hai, ye dila machala machala ke
+shaayada ye raata biite, karavaTa badala badala ke
+ai dila zaraa sambhala jaa, shaayada vo aa gayaa hai
+vo kauna hai jo aakara, khvaabo.n pe chhaa gayaa hai
+ai dila mujhe bataa de \threedots
+	
+bhiigii huii havAe.n, mausama bhii hai gulaabii
+jaa chaa.Nda jaa sitaare, hara tiira hai sharaabii
+dhiire se ek naGamaa, koii sunaa gayaa hai
+vo kauna hai jo aakara, khvaabo.n pe chhaa gayaa hai
+
+ai dila mujhe bataa de, tuu kisa pe aa gayaa hai
+vo kauna hai jo aakara, khvaabo.n pe chhaa gayaa hai
+%
+#endindian
+\endsong
+%

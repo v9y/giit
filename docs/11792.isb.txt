@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mhaare hiva.Daa me.n naache mor tak thaiyaa}%
+\film{Hum Saath Saath Hain/ We Stand United}%
+\year{1999}%
+\starring{Salman Khan, Saif Ali Khan, Mohanish Behl, Tabu, Karisma Kapoor, Sonali Bendre}%
+\singer{Kavita Subramaniam, Hariharan, Anuradha Paudwal, Kumar Sanu, Alka Yagnik, Udit Narayan}%
+\music{Ram Laxman}%
+\lyrics{R Kiran}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mhaare hiva.Daa me.n
+mhaare hiva.Daa me.n naache mor tak thaiyaa thaiyaa
+bha.nvare ne machaayaa shor khilii dil kii kaliyaa.n
+badalaa mausam badale nazaare yaa badalaa hai najariyaa
+mhaare hiva.Daa me.n \threedots
+
+tuu na_ii navelii dulhan hai teraa ruup pyaar kaa darpan hai o
+tere me.nhadii se tere gajare se mahakaa mahakaa meraa jiivan hai
+mere savaalo.n kaa javaab ban ke tuu aa_ii sajaniyaa
+o mhaare hiva.Daa me.n \threedots
+
+aisii ba.ndhii pyaar kii Dor hu_ii mai.n baa.nvariyaa
+badalaa mausam badale \threedots
+
+ye pyaar kaa saavan aayaa hai sa.ng priit kaa mausam laayaa hai o
+jo dil me.n chhupaa ke rakhaa thaa vo raaz labo.n par aayaa hai
+dil me.n basaa ke apanaa banaa ke le chalo prem nagariyaa
+mhaare hiva.Daa me.n \threedots
+
+chaahe le jaa_o jis or sa.ng chaluu.ngii saiyaa.n
+badalaa mausam badale \threedots
+
+ye chaa.Nd sitaaro.n kii baaraat laa_ii hai gha.Dii suhaanii
+kyaa baat hai mere saath hai mere sapano.n kii raanii
+baraso.n sataayaa tuune chain churaayaa mai.n aaj na chho.Duu.n ba_iyaa.n
+haa.n haa.n o ho huu.n huu.n
+%
+#endindian
+\endsong
+

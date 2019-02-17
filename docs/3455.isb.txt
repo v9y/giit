@@ -1,0 +1,51 @@
+% ITRANS SONG # 3455; Created on Jan 26, 2004
+%
+% From: naniwadekar (not_this_naniw@hotmail.com)
+% Date: 2002-09-22 20:37:52 PST                               Original Format
+%
+\startsong
+\stitle{puravaa_ii pavan laharaa_e}%
+\film{Tum Aur Main}%
+\year{1947}%
+\starring{Kanan Devi, Chhavi Bishwas, Jawahar Ganguli, Paresh Bannerjee, Tapan Kumar}%
+\singer{Talat, Suprova Sarkar}%
+\music{Robin Chatterjee}%
+\lyrics{Zakir Hussain}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 22 september 2002
+% Comments: Talat's only (Hindi) film song in 1947.
+%
+\printtitle
+#indian
+%
+ss:
+puravaa_ii pavan laharaa_e, o jiyaa gaa_e
+kaano.n me.n kahataa hai ko_ii, (wo aaye.n) \- 3
+tm:
+aa_ii basa.nt, aa_ii basa.nt, phuulo.n se daaman bhare
+
+tm:
+ambuvaa kii Daalii pe bole koyaliyaa
+ss:
+gulashan me.n jhuule pa.De
+puravaa_ii pavan laharaa_e    \threedots
+
+tm:
+man ko lubhaa_e shaam suhaanii
+ra.ngat hu_ii ban kii raanii
+uma.ngo.n ke din hai.n, bahaaro.n kaa mausam
+ss: gul par hai bulabul divaanii
+tm: divaanii
+ss: gul par hai bulabul divaanii
+tm: jhuum jhuum gaa_e navelii alabelii
+ss: premii ke man ko hare
+bo: jhuum jhuum gaa_e navelii alabelii
+     premii ke man ko hare
+
+bo: (aa_ii basa.nt,) \- 2 phuulo.n se daaman bhare
+bo: (aa_ii basa.nt,) \- 2 phuulo.n se daaman bhare
+%
+#endindian
+\endsong
+%

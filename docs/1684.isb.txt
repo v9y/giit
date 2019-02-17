@@ -1,0 +1,42 @@
+% 
+\startsong
+\stitle{tere dvaar kha.Daa ek jogii}%
+\film{Nagin}%
+\year{}%
+\starring{Pradeep Kumar, Vyjayanthimala}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Vijay Kumar 
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 04/15/1997
+%
+\printtitle
+#indian
+%
+kaashii dekhii, mathuraa dekhii, dekhe tiirath saare
+kahii.n na man kaa miit milaa to aayaa tere dvaare
+
+tere dvaar kha.Daa ek jogii	\- 2
+na maa.Nge yah sonaa chaa.Ndii maa.Nge darshan devii
+tere dvaar \threedots
+
+(duniyaa se mukh mo.Daa tere liye jag chho.Daa
+ chho.D diyaa ghar\-baar)	\- 2
+ban\-ban chhaanaa mai.nne, tujhe devii maanaa mai.nne
+sun le merii pukaar		\- 2
+na maa.Nge yah sonaa chaa.Ndii maa.Nge darshan devii
+tere dvaar \threedots
+
+(karake jatan aayaa, man me.n agan laayaa
+ akhiyo.n me.n darshan\-pyaas)	\- 2
+priit kii bhiikshaa, prem kii diikshaa
+maa.Ng rahaa yah daas	\- 2
+na maa.Nge yah sonaa chaa.Ndii maa.Nge darshan devii
+tere dvaar \threedots
+%
+#endindian
+\endsong
+%
+

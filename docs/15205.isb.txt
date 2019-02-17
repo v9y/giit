@@ -1,0 +1,47 @@
+% ITRANS SONG
+
+\startsong
+\stitle{bachapan ke din bhii kyaa din the}%
+\film{Sujaataa}%
+\year{1959}%
+\starring{Sunil Dutt, Nutan, Shashikala, Sulochana}%
+\singer{Asha, Geeta}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+% Seems that Asha has only done background humming and aalaap
+
+\printtitle
+#indian
+
+gii \:	bachapan ke din \-2
+	bachapan ke din bhii kyaa din the
+	haay haay
+	( bachapan ke din bhii kyaa din the
+	u.Date phirate titalii ban ke ) \-2
+	bachapan
+
+	( wahaa.N phirate the ham phuulo.n me.n pa.De
+	jahaa.N Dhuu.NDhate sab hame.n chhoTe ba.De ) \-2
+	thak jaate the ham kaliyaa.N chunate
+
+	bachapan ke din bhii kyaa din the
+	u.Date phirate titalii ban ke
+	bachapan
+
+	kabhii roye to aap hii ha.Ns diye ham
+	chhoTii chhoTii Kushii chhoTe chhoTe wo Gam
+	haay re haay haay haay haay re haay
+	kabhii roye to aap hii ha.Ns diye ham
+	chhoTii chhoTii Kushii chhoTe chhoTe wo Gam
+	haay kyaa din the wo bhii kyaa din the
+
+	bachapan ke din bhii kyaa din the
+	u.Date phirate titalii ban ke
+	bachapan
+
+#endindian
+\endsong

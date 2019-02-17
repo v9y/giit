@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{lallaa lallaa lorii duudh kii kaTorii}%
+\film{Mukti}%
+\year{1977}%
+\starring{Shashii, Sanjiv, Vidya Sinha, Bindiya Goswami}%
+\singer{Mukesh/ Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10787 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+% Part 1:
+%
+lallaa lallaa lorii duudh kii kaTorii
+duudh me.n bataashaa munnii kare tamaashaa
+
+chhoTii\-chhoTii pyaarii sundar pariyo.n jaisii hai
+kisii kii nazar naa lage merii munnii aisii hai
+shahad se bhii miiThii duudh se bhii gorii
+chupake\-chupake chorii\-chorii chorii
+lallaa lallaa lorii \threedots
+
+kaarii rainaa ke maathe pe chamake chaa.Nd sii bi.ndiyaa
+munnii ke chhoTe\-chhoTe naino.n me.n khele ni.ndiyaa
+sapano.n kaa palanaa aashaa_o.n kii Dorii
+chupake\-chupake chorii\-chorii chorii
+lallaa lallaa lorii \threedots
+%
+% Part 2:
+%
+lallaa lallaa lorii duudh kii kaTorii
+duudh me.n bataashaa jiivan khel tamaashaa
+%
+#endindian
+\endsong
+

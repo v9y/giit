@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{maan meraa ahasaan are naadaan ke maine}%
+\film{Aan}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K.G. (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          PVR Narasimha Rao (pvr@argo.rice.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+maan meraa ahasaan are naadaan ke maine
+tujhase kiyaa hai pyaar
+maine tujhase kiyaa hai pyaar
+
+merii nazar kii dhuup na bharatii ruup to hotaa
+husn teraa bekaar
+maine tujhase kiyaa hai pyaar
+	    maan meraa \threedots
+
+ulafat na sahii nafarat hii sahii
+is ko bhii muhabbat kahate hai.n
+tuu laakh chhupaae bhed magar ham
+dil me.n samaae rahate hai.n
+tere bhii dil me.n aag uThii hai jaag zabaa.n se
+chaahe na kar iqaraar
+maine tujhase kiyaa hai pyaar
+	    merii nazar kii \threedots
+
+apanaa na banaa luu.N tujhako agar
+ik roz to meraa naam nahii.n
+patthar kaa jigar paanii kar duu.N ye
+to koii mushkil kaam nahii.n
+chho.D de ab ye khel tuu kar le mel mere sa.ng
+maan le apanii haar
+maine tujhase kiyaa hai pyaar
+	    maan meraa \threedots
+%
+#endindian
+\endsong
+%

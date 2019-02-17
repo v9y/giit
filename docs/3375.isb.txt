@@ -1,0 +1,42 @@
+% ITRANS SONG # 3375; Created on Jan 26, 2004
+%
+\startsong
+\stitle{kahaa.N jaate ho TuuTaa dil hamaaraa dekhate jaa_o}%
+\film{Nayaa Zamaanaa}%
+\year{1957}%
+\starring{Mala Sinha, Veena, Gop, Badri Prasad}%
+\singer{Lata}%
+\music{Kanu Ghosh}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 28 September 2002 (Lata's 73rd birthday)
+% Comments: A two-song birthday tribute to Lata (song # 2)
+% The song is based on Raag Hamsakinkini.
+%
+\printtitle
+#indian
+%
+kahaa.N jaate ho, TuuTaa dil
+hamaaraa dekhate jaa_o
+ki_e jaate ho hamako
+besahaaraa dekhate jaa_o
+
+karuu.N to kyaa karuu.N
+ab mai.n tumhaarii is nishaanii ko
+adhuurii rah ga_ii apanii
+tamannaa dekhate jaa_o
+
+kalii khilane bhii naa paa_ii
+bahaare.n ruuTh kar chal dii
+diyaa qismat ne kaisaa
+hamako dhokhaa dekhate jaa_o
+
+tamannaa thii kii dam nikale
+hamaaraa terii baaho.n me.n
+hamaarii Kaak me.n milatii
+tamannaa dekhate jaa_o
+%
+#endindian
+\endsong
+%

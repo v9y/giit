@@ -1,0 +1,98 @@
+% ITRANS SONG
+
+\startsong
+\stitle{chho.D baabul kaa ghar mohe pii ke nagar}%
+\film{Babul}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar, Munavvar Sultana, Amar}%
+\singer{Talat, Shamshad, Rafi, Male Voice?, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+% Kosh does not mention Rafi am ong the singers
+
+\printtitle
+#indian
+
+% Part I
+
+sha \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+ko \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+
+sha \:	yaad mayake kii tan se bhulaaye chalii
+ko \:	haa.N bhulaaye chalii
+sha \:	priit saajan kii man me.n basaaye chalii
+ko \:	haa.N basaaye chalii
+sha \:	yaad kar ke ye ghar, ro_ii.n aa.Nkhe.n magar
+	muskuraanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+
+ko \:	( chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa ) \-2
+
+% Part II
+
+ta \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+
+sha \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+ko \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+
+sha \:	sa.ng sakhiyo.n ke bachapan bitaatii thii mai.n
+ko \:	haa.N bitaatii thii mai.n
+sha \:	byaah gu.Diyo.n kaa ha.Ns\-ha.Ns rachaatii thii mai.n
+ko \:	haa.N rachaatii thii mai.n
+sha \:	sab se mu.Nh mo.D kar, kyaa bataa_uu.N kidhar
+	dil lagaanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+
+ko \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+
+% Part III
+
+ta \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+	ho
+	aaj jaanaa pa.Daa
+
+	pahan ulafat kaa gahanaa dulhan mai.n banii
+	Dolaa aayaa piyaa kaa sakhii mai.n chalii
+	ye thaa jhuuThaa nagar, isaliye chho.D kar,
+	mohe jaanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+
+ko \:	aa
+
+ra \:	aa_o saajan kha.De hai.n duwaar
+	lene ko aaye kahaar
+	Dolii me.n ho jaa sawaar
+
+% Male Voice?
+
+Kushii ke saath duniyaa me.n hazaaro.n Gam bhii hote hai.n
+jahaa.N bajatii hai.n shanaa_ii wahaa.N maatam bhii hote hai.n
+
+sha \:	ye thaa jhuuThaa nagar, isaliye chho.D kar,
+	mohe jaanaa pa.Daa
+	o
+	aaj jaanaa pa.Daa
+
+ko \:	chho.D baabul kaa ghar, mohe pii ke nagar
+	aaj jaanaa pa.Daa
+
+#endindian
+\endsong

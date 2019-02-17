@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{meraa yaar rahe zi.ndaa, meraa pyaar rahe zi.ndaa}%
+\film{Aap To Aise Na The}%
+\year{1980}%
+\starring{Ranjeeta, Raj Babbar, Deepak Parashar}%
+\singer{Asha, chorus}%
+\music{Usha Khanna}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+meraa yaar rahe zi.ndaa, meraa pyaar rahe zi.ndaa
+bevafaa mujhe kahalaane do, ho jaane do sharami.ndaa
+tuu aa tuu aa tuu aa bhii jaa kasam nibhaa tuu aa tuu aa
+ki dekhatii hai zi.ndagii teraa hii raastaa 
+
+apane yaar kii khaatir, mai.n kuchh bhii kar sakatii huu.N
+apane pyaar kii khaatir, jiite jii mar sakatii huu.N
+dil to.Dake apanaa mai.n, vaado.n se mukar sakatii huu.N,
+meraa yaar rahe \threedots
+
+ham kha.De hai.n terii raaho.n me.n, ham kha.De hai.n terii raaho.n me.n
+aa jaa re aa jaa re aa jaa re aa jaa re aa
+pyaar kii baaho.n me.n aa
+auro.n se lenaa kyaa, tujhase hame.n hai vaastaa, tuu aa \threedots
+
+mahabuub salaamat ho, mai.n naakaamii sah luu.ngii
+ban jaauu.ngii harajaaii, mai.n badanaamii sah luu.ngii
+tujh pe naa aa.nch aae, a.ngaaro.n pe rah luu.ngii,
+meraa yaar rahe \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aisii terii yaad aatii hai jaise jaan merii jaatii hai}%
+\film{Khalnaayak/ The Villain}%
+\year{1993}%
+\starring{Sanjay Dutt, Madhuri Dixit, Jackie Shrof}%
+\singer{Alka Yagnik, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aisii terii yaad aatii hai jaise jaan merii jaatii hai
+merii chuu.Dii khanak jaatii hai merii chunarii khasak jaatii hai
+
+aisii terii yaad aatii hai jaise jaan merii jaatii hai
+dil meraa machal jaataa hai siine se nikal jaataa hai
+aisii terii yaad aatii hai \threedots
+
+vah giit ke phuul vah jaan leke
+aa pyaar ke vah subah shaam leke
+kabhii chup rah ga_e kabhii Gam sah ga_e
+tujhako merii priit bulaatii hai
+aisii terii yaad aatii hai \threedots
+
+banake judaa_ii milan jalataa hai
+a.ng a.ng meraa sajan jalataa hai
+saavan kii raat me.n badan jalataa hai
+mere dil me.n aag lagatii hai
+aisii terii yaad aatii hai \threedots
+%
+#endindian
+\endsong
+

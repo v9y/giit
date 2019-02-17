@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ye pyaar kii baate.n ye safar bhul na jaanaa}%
+\film{Anokhi Ada}%
+\year{}%
+\starring{}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Burra Gopal + Preeti Ranjan Panda (ppanda@wave.ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye pyaar kii baate.n
+ye pyaar kii baate.n ye safar bhUl na jaanaa
+dil chhIn ke jaate ho kidhar bhUl na jaanaa
+bhUl na jaanaa
+dil chhIn ke jaate ho kidhar bhUl na jaanaa
+ye pyaar kii baate.n
+
+jab hamane kiyaa dil ko muhabbat ke havAle \- 2
+sharmIlii nigaaho.n se hame.n dekhane vaale
+jo tiir chalaayaa hai idhar bhUl na jaanaa
+bhUl na jaanaa
+jo tIr chalaayaa hai idhar bhUl na jaanaa
+ye pyaar kii baate.n
+
+hamane kisii ummId se dil tumako diyaa hai
+dil tumako diyaa hai
+aramaan bhare dil se tumhe.n pyaar kiyaa hai
+pyaar kiyaa hai
+dekho ye muhabbat kaa safar bhUl na jaanaa
+bhUl na jaanaa
+dekho ye muhabbat ka safar bhUl na jaanaa
+ye pyaar kii baate.n
+
+ho jaaye naa duniyaa kahii.n barabaad hamaarii \- 2
+hai tujhako kasam rakhanaa zaraa yaad hamaarii
+jo dil ko churaayaa hai idhar bhUl na jaanaa
+bhUl na jaanaa
+jo dil ko churaayaa hai idhar bhUl na jaanaa
+ye pyaar kii baate.n
+ye pyaar kii baate.n ye safar bhUl na jaanaa
+dil chhIn ke jaate ho kidhar bhUl na jaanaa
+ye pyaar kii baate.n
+%
+#endindian
+\endsong
+%

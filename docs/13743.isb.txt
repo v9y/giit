@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{saasuujii thaaro lallaa machaa_e raat hallaa}%
+\film{Raajaaji}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Purnima}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chik chikii chik chikii chik chikii chik chik 
+saasuujii thaaro lallaa machaa_e raat hallaa
+kabhii to paka.De merii kalaa_ii haay
+kabhii ye paka.De pallaa
+saasuujii thaaro lallaa \threedots
+
+laa_e kabhii kulfii samosaa kabhii laa_e
+baaho.n me.n biThaake haatho.n se khilaa_e
+baalo.n me.n gulaabo.n kaa gajaraa sajaa_e
+miiThii miiThii baato.n se mujhako sulaa_e
+kabhii dilaa_e jhumakaa jhuumar kabhii dilaa_e chhallaa
+saasuujii thaaro lallaa \threedots
+
+kaise mai.n bataa_uu.n banaa_e kyaa bahaane
+kare zid apanii merii na kuchh maane
+ba.Daa rasiyaa hai ba.Daa hai harajaa_ii
+taubaa merii taubaa karegaa rusavaa_ii
+tujhe khabar naa hai ko_ii jaane saaraa mohallaa
+saasuujii thaaro lallaa \threedots
+%
+#endindian
+\endsong
+

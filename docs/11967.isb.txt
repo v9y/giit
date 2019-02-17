@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{sun pyaare sajanaa re man gaaye giit suhaane}%
+\film{Insaaf Ka Mandir}%
+\year{1969}%
+\starring{Prithviraj Kapoor, Sanjeev Kumar, Snehlata, Nadira, Aruna Irani, Asit Sen}%
+\singer{Mukesh, Asha}%
+\music{Sapan Jagmohan}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10354 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	sun pyaare sajanaa re man gaaye giit suhaane
+	giito.n me.n pyaar hai teraa tuu maane yaa na maane
+mu \:	Daalii\-Daalii matavaalii rut aa_ii phuul sajaane
+	phuulo.n me.n ruup hai teraa tuu maane yaa na maane
+aa \:	sun pyaare sajanaa \threedots
+
+mu \:	tuu kahade to jhiil sii gaharii aa.Nkho.n me.n kho jaa_uu.N
+aa \:	aaj meraa jii chaahe terii baa.Nho.n me.n laharaa_uu.N
+mu \:	tuu kahade to \threedots
+aa \:	aaj meraa jii chaahe \threedots
+	giit milan ke gaa_uu.N
+
+mu \:	Daalii\-Daalii
+aa \:	aa aa aa
+mu \:	matavaalii
+aa \:	aa aa aa
+mu \:	aa_ii phuul sajaane
+	phuulo.n me.n ruup \threedots
+aa \:	sun pyaare sajanaa \threedots
+%
+#endindian
+\endsong
+

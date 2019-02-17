@@ -1,0 +1,62 @@
+% 
+\startsong
+\stitle{merii saa.Nso.n ko jo mahakaa rahii hai}%
+\film{Badalte Rishtey}%
+\year{1978}%
+\starring{Jeetendra, Reena Roy}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: ShashiKant Joshi <rava0002@gold.tc.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 08/03/1995
+% Credits: Arun Verma <verma@CS.Cornell.EDU>
+%          Neeraj Deshmukh <deshmukh@isip01.isip.msstate.edu>
+% Comments: Pankha Road se Pintu Diwana [44]
+%       Now, with the Badalte Rishtey topic hot, I thot this is the best
+%       time to post this song. Had this for a LOOONG time in my
+%       collection.
+%       Lot of Sitar in this song, wonderful semi classical song.
+%       Someone did mention that MK did too much by his "contribution"
+%       :-) no comments!
+%       Raag: Poorn Kalyan (courtsey Vividh Bharati's early morning program
+%       Sangeet Sarita)
+%
+\printtitle
+#indian
+%
+la: merii saa.Nso.n ko jo mahakaa rahii hai
+   ye pahale pyaar kii khushabuu
+   terii saa.Nso.n se shaayad aa rahii hai
+
+   shuruu ye ye silasilaa, usii din se huaa thaa \-2
+   achaanak tuune jis din mujhe yuu.Nhii chhuaa thaa \-2
+   lahar jaagii jo us pal, tan\-badan me.n
+   vo man ko aaj bhii bahakaa rahii hai
+
+   ye pahale pyaar kii khushabuu
+   terii saa.Nso.n se shaayad aa rahii hai
+
+ma: bahut tarasaa hai ye dil, tere sapane sajaake \-2
+   ye dil kii baat sun le, merii baaho.n me.n aake \-2
+   jagaake anokhii pyaas man me.n
+   ye miiThii aag jo dahakaa rahii hai
+
+la: ye pahale pyaar kii khushabuu
+   terii saa.Nso.n se shaayad aa rahii hai
+
+   ye aa.Nkhe.n bolatii hai.n, jo ham na bol paa_e
+   jagii vo pyaas man kii, nazar me.n jhilamilaa_e
+   ho.nTho.n pe terii halakii sii ha.Nsii hai
+   merii dha.Dakan bahakatii jaa rahii hai
+
+   ye pahale pyaar kii khushabuu
+   terii saa.Nso.n se shaayad aa rahii hai
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%
+

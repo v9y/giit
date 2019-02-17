@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{aaj hamako ha.Nsaa_e na ko_ii aaj rone ko jii chaahataa hai}%
+\film{Badshah}%
+\year{1964}%
+\starring{Dara Singh, Nishi, Tiwari, Keshav}%
+\singer{Kamal Barot}%
+\music{N Dutta}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11659 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aaj hamako ha.Nsaa_e na ko_ii aaj rone ko jii chaahataa hai
+aur bhii muskaraa_e na ko_ii aaj rone ko jii chaahataa hai
+
+ye badanaam galii mai.n gulashan kii kalii
+in me.n Gair me.n jo shamaa ban ke jalii
+yuu.N bhii rusavaa ho jaa_e naa ko_ii
+aaj hamako ha.Nsaa_e \threedots
+
+dil hii TuuT gayaa naGamaa ruuTh gayaa
+bulabul qaid hu_ii gulashan chhuuT gayaa
+giit ho.nTho.n pe aa_e na ko_ii
+aaj hamako ha.Nsaa_e \threedots
+
+aramaa.N raakh hu_e sapane.n Kaaq hu_e
+ik yah ruup milaa dushman laakh hu_e
+achchhii suurat bhii paa_e na ko_ii
+aaj hamako ha.Nsaa_e \threedots
+%
+#endindian
+\endsong
+

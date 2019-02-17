@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{maine yah dil tujhako diyaa o merii mahabuubaa}%
+\film{Jaan Tere Naam}%
+\year{1992}%
+\starring{Ronit Roy, Farheen, Balwindar, Navneet Nishan, John David, Sachin Mane}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine yah dil tujhako diyaa o merii mahabuubaa \-2
+tum hii karo kuchh faisalaa o merii mahabuubaa
+maine yah dil tujhako \threedots
+
+tum hii karo kuchh faisalaa o merii jaan\-e\-jaa.N \-2
+
+jab bhii jahaa.N dekhuu.N jidhar tuu hii tuu aa_e nazar
+bhuulaa huu.N mai.n saaraa jahaa.N mujhako nahii.n apanii Kabar
+betaab huu.N tere binaa o merii mahabuubaa
+tum hii karo kuchh \threedots
+
+dil ko teraa aamaan hai tuu dha.Dakan tuu jaan hai
+terii chaahat Kushii tum pe jahaa.N qurbaan hai
+tere li_e merii vafaa o merii jaan\-e\-jaa.N
+tum hii karo kuchh \threedots
+%
+#endindian
+\endsong
+

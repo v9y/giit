@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{milaa jo pyaar to ham pyaar ke qaabil naa rahe}%
+\film{Preet Ki Dori}%
+\year{1971}%
+\starring{Tanuja, Ajay Parikshit Sahni, Bindu, Nazir Husain, Jeevan, Lalita Pawar}%
+\singer{Kishor}%
+\music{Kalyanji Anandji}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10419 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+milaa jo pyaar to ham pyaar ke qaabil naa rahe
+Kizaa me.n pal ke ham bahaar ke qaabil naa rahe
+
+ga_e jo Duub kinaaro.n se unakaa naataa kyaa \-2
+uja.D ga_e jo bahaaro.n se unakaa naataa kyaa
+tum to ik phuul ho ham haar ke qaabil naa rahe
+milaa jo pyaar to \threedots
+
+hame.n miTaa do ke ham zindagii se haare hai.n
+hame.n bhulaa do ke ham TuuTe hu_e taare hai.n
+hai.n vafaadaar magar yaar ke qaabil naa rahe
+milaa jo pyaar to \threedots
+%
+#endindian
+\endsong
+

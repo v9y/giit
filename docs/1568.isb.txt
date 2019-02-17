@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{saara.ngaa terii yaad me.n, nain hue bechain}% 
+\film{Saranga}%
+\year{1960}%
+\starring{}%
+\singer{Mukesh / Rafi}%
+\music{Sardar Malik}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:  Sunil Banwari (sbanwari@pdx167.intel.com)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: U V Ravindra
+%
+\printtitle 
+#indian
+%
+
+saara.ngaa terI yaad me.n nain hue bechain 
+madhur tumhaare milan binaa 
+din kaTate nahii.n rain, ho~
+saara.ngaa terI yaad me.n \threedots
+
+vo ambuvaa kA jhuulanaa, vo pIpal kii chhaa.Nv
+ghuu.NghaT me.n jab chaa.Nd thA, meha.ndii lagI thI paa.nv
+ho, (aaj uja.Dake rah gayaa \- 2)
+vo sapano.n kA gaa.Nv, ho \threedots
+saara.ngaa terI yaad me.n \threedots
+
+sa.ng tumhaare do gha.Dii, bIt gaye jo pal 
+jal bharake mere nain me.n, aaj hue ojhal 
+ho, (sukh leke duHkh de gayii.n \-2)
+do akhiyA.N cha.nchal, ho \threedots
+saara.ngaa terI yaad me.n \threedots
+
+%
+% Rafi version
+%
+saara.ngaa terii yaad me.n nain hue bechain
+madhur tumhaare milan binaa din kaTate nahii.n rain
+
+madhuban ke madhuku.nj me.n chalat birahaa samiir
+baaT takuu.N terii mai.n priye jal jamunaa ke tiir
+
+%
+#endindian
+\endsong
+%

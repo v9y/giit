@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{laal\-laal oThavaa se barase lala_iyaa}%
+\film{Laagi Nahin Chhute Raam (Bhojpuri-Film)}%
+\year{1963}%
+\starring{Kumkum, Asim Kumar, Nazeer Husain, Tiwari, Mishra, Helen, Leela Misra}%
+\singer{Lata, Talat}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10133 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ta \:	laal\-laal oThavaa se barase lala_iyaa ho ki ras chu_elaa
+	ja_ise amavaa ke mo.Njaraa se ras chu_elaa
+
+% red color is flowing from the lips as if juice is flowing from the mango's "mojaraa"
+% mojaraa = ? ( baur ?)
+
+la \:	laage vaalii batiyaa.N na bola more raajaa ho karejaa chhu_elaa
+	tori miiThii\-miiThii boliyaa karejaa chhu_elaa ho karejaa chhu_elaa
+
+% don't speak the words that hurt, o my king.
+% your sweet talks touches the heart.
+
+ta \:	bhaageluu ta hamakaa bolaavelaa a.Ncharavaa \-2
+	a.Nkhiyaa.N churaaveluu ta ha.Nselaa kajaravaa ho ha.Nselaa kajaravaa
+la \:	jiyaa ke ja.njaal bha_il hamarii suratiyaa Dagar rokelaa
+	jahaa.N jaa.N_ii tahaa.N logavaa Dagar rokelaa
+ta \:	ho ki ras chu_elaa \threedots
+
+% you called me to come in your "aa.Nchal" and then ran away
+% if you hide your eyesights, your "kaajal" will laugh at me.
+
+% my looks have became a pain in my heart
+% wherever I go, people hinder my way.
+
+la \:	ghuumii\-ghuumii dekha tar kaahe mor chalavaa \-2
+ta \:	tanik cha.Nhaa_ii la ghamaa_ii jaa_ii galavaa ghamaa_ii jaa_ii galavaa
+la \:	chalii.n chaahe ghamavaa me.n baiThii.n chaahe chha.Nhavaa ho kaahe mu_elaa
+	gore galavaa ke piichhe kehuu kaahe mu_elaa
+ta \:	ho ki ras chu_elaa \threedots
+
+% why are you circling around me o my "chhailaa", what are you looking at?
+% come in the shade. your cheeks might get sunburns in the sunlight.
+% ghaam = sunlight (dhuup)
+
+% whether I walk in the sunlight, or I sit under the shade
+% why will you die for whatever happens to my cheeks.
+%
+#endindian
+\endsong
+

@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{aa.Nkho.n me.n base ho tum}% 
+\film{Takkar}%
+\year{}%
+\starring{Sunil Shetty, Deepti Bhatnagar, Naseeruddin}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Maya Govind}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+abhi: hai e ho o \threedots
+alkaa: laah laa laa \threedots
+
+abhi:  aa.nkho.n me.n base ho tum
+       (aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngaa 
+       aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngaa 
+       jab chaahuu.N tumhe.n dekhuu.N, aaiinaa banaa luu.ngaa) \-2 
+       aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngaa 
+
+alkaa: aa.nkho.n me.n base ho tum
+       (aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngii 
+       aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngii
+       jab chaahuu.N tumhe.n dekhuu.N, aaiinaa banaa luu.ngii) \-2 
+       aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngii 
+
+alkaa: takadiir merii ab to takadiir tumhaarii hai
+       zahaa.n dil thaa kabhii meraa tasviir tumhaarii hai
+abhi: ye lab jo tere laraze mere dil me.n huii halachal
+       meraa chain churaataa hai terii aa.Nkh kaa kaajal
+alkaa: abhii chain churaayaa hai
+       (abhii chain churaayaa hai, kal tumhe.n churaa luu.Ngii) \-2 
+       jab chaahuu.N tumhe.n dekhuu.N, aaiinaa banaa luu.ngii
+abhi: he e ho o
+
+abhi: tuu paas jo mere hai, kyaa kaam bahaaro.n se
+       ye chamakiile nainaa, kyaa kaam sitaaro.n se
+alkaa: tere naam kii dha.Dakan huu.N tere naam kii saa.nse.n huu.N
+       ik pal naa judaa ho tum aa.Nkho.n me.n aa.Nkhe.n ho.n
+abhi: koii naame\-e\-vafaa pUchhe
+       (koii naame\-e\-vafaa pUchhe, mai.n naam teraa luu.ngaa) \- 2
+       jab chaahuu.N dekhuu.N, aa_iinaa banaa luu.ngaa
+
+abhi: ho o  alkaa: aa 
+
+alkaa:
+       aa.nkho.n me.n base ho tum 
+       (aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngii 
+       aa.nkho.n me.n base ho tum, tumhe.n dil me.n chhupaa luu.ngii
+       jab chaahuu.N tumhe.n dekhuu.N, aaiinaa banaa luu.ngii ) \- 2 
+
+abhi: he e ho o
+
+%
+#endindian
+\endsong
+%

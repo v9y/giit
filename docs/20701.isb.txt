@@ -1,0 +1,35 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{zi.ndagii zi.ndagii zi.ndagii ... Kuubasuurat hai tuu}%
+\film{Chatran}%
+\year{1988}%
+\starring{Chatran - the cat}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Audio on: Venus
+% Tags: 
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 13 Mar 2005
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+zi.ndagii zi.ndagii zi.ndagii
+zi.ndagii zi.ndagii zi.ndagii
+
+Kuubasuurat hai tuu janm letii huii
+Kuubasuurat hai tuu janm detii huii
+
+chhuuke guzarii hawaa ke bahaane kabhii
+aur shabanam me.n utarii nahaane kabhii
+ek maasuum\-sii gudagudii zi.ndagii
+%
+#endindian
+\endsong

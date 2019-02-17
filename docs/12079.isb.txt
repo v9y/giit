@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{dhiire re chalo morii baa.nkii hiraniyaa}%
+\film{Johar Mehmood in Goa}%
+\year{1965}%
+\starring{I. S. Johar, Mehmood}%
+\singer{Mukesh}%
+\music{Kalyanji Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dhiire re chalo morii baa.nkii hiraniyaa
+kamar na lachake haay sajaniyaa
+dhiire re chalo \threedots
+
+terii bikharii zulfe.n dekh dekh ye mast ghaTaa sharamaa_ii
+ho dekho mast ghaTaa sharamaa_ii
+teraa ruup jo dekhaa jhuum jhuum lii bijalii ne a.nga.Daa_ii
+ho lii bijalii ne a.nga.Daa_ii
+kaale baal goraa ruup jaise saa_e me.n ho dhuup
+tujhe dekh jiyaa bharamaa hii gayaa
+ho dhiire re chalo \threedots
+
+kyuu.n dil kii raahe.n chho.D chho.D ye phuul chalaa Kaaro.n pe
+ye phuul chalaa Kaaro.n pe
+teraa pighale aise ruup ki jaise mom ho a.ngaaro.n pe
+jaise mom ho a.ngaaro.n pe
+teraa mukha.Daa gulaabii terii chaal sharaabii
+mujhe raam kasam nashaa aa hii gayaa
+ho dhiire re chalo \threedots
+%
+#endindian
+\endsong
+

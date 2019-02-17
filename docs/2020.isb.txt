@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{agar saaz chhe.Daa taraane bane.nge}%
+\film{Jawani Diwani}%
+\year{1972}%
+\starring{Randhir Kapoor, Jaya Bhaduri}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: 
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+agar saaz chhe.Daa taraane bane.nge
+taraane bane.nge fasaane bane.nge
+taraane bane to, fasaane bane to
+fasaane bane to diivaane bane.nge
+agar saaz chhe.Daa taraane bane.nge   \threedots
+
+fasaane bane to sunegii ye mahafil
+sunegii ye mahafil ba.Dii hogii mushakil
+rusavaa_iyo.n ke bahaane bane.nge
+agar saaz chhe.Daa taraane bane.nge   \threedots
+
+bahaano.n se phir to mulaaqaat hogii
+yuu.Nhii din kaTegaa basar raat hogii
+naye dost ik din puraane bane.nge
+agar saaz chhe.Daa taraane bane.nge   \threedots
+
+diivano.n pe ha.Nsataa hai saaraa zamaanaa
+zamaanaa muhabbat kaa dushaman puraanaa
+diivaane nahii.n ham sayaane bane.nge
+sayaane nahii.n ham
+sayaane nahii.n ham diivaane bane.nge
+agar saaz chhe.Daa taraane bane.nge   \threedots
+
+%
+#endindian
+\endsong
+%

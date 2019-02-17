@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{jahaa.n me.n ko_ii pyaar kaa ... pyaar ko_ii khel nahii.n}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Kumar Sanu}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jahaa.n me.n ko_ii pyaar kaa divaanaa ho gayaa jahaa.n
+jiine marane kaa hosh hai phir use kahaa.n
+pyaar ko_ii khel nahii.n
+
+aashiqii vo rog hai ke lage jo ik baar
+dil se phir ye jaa_e naa kariye jatan hazaar
+tere labo.n par bhii pyaare ronaa hai ye ha.Nsii nahii.n
+jahaa.n me.n ko_ii \threedots
+
+ishq me.n ko_ii bhii ho majanuu.n yaa farahaad
+miT ga_e shaaho.n ke naam par ye zi.ndaa hai aaj
+chaahat me.n dii jaan jisane vo kabhii marataa nahii.n
+jahaa.n me.n ko_ii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{maar ga_ii mujhe terii judaa_ii Das ga_ii ye tanhaa_ii}%
+\film{Judaai}%
+\year{1980}%
+\starring{Ashok Kumar, Jitendra, Rekha, Sachin, Arun Govil}%
+\singer{Kishor, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11302 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ki \:	maar ga_ii mujhe terii judaa_ii Das ga_ii ye tanhaa_ii
+	terii yaad aa_ii phir aa.Nkho.n me.n nii.nd nahii.n aa_ii
+aa \:	maar ga_ii mujhe \threedots
+
+	laaj kaa ghuu.NghaT chup ke taale
+	maine aaKir to.D hii Daale
+	hotii hai to ho hii jaa_e ab duniyaa me.n rusavaa_ii
+ki \:	maar ga_ii mujhe \threedots
+
+	phir na kahii.n ye Gam mil jaa_e.N
+	aaj hii kyo.n naa ham mil jaa_e.N
+	kyaa saathii kyaa baaraatii kyaa Dolii kyaa shahanaa_ii
+aa \:	maar ga_ii mujhe \threedots
+
+	har mushqil aasaa.N ho jaatii
+	pahale gar ye haa.N ho jaatii
+do \:	hamane haa.N karane me.n taubaa kitanii der lagaa_ii
+	maar ga_ii mujhe \threedots
+%
+#endindian
+\endsong
+

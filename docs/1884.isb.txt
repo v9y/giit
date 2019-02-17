@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{ye aa.Nkhe.n dekh kar ham saarii duniyaa bhuul jaate hai.n}%
+\film{Dhanwan}%
+\year{}%
+\starring{Rajesh Khanna, Reena Roy, Rakesh Roshan}%
+\singer{Lata, Suresh Wadkar}%
+\music{Hridaynath}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% L:
+ye aa.Nkhe.n dekh kar ham saarii duniyaa bhuul jaate hai.n 
+inhe.n paane kii dhun me.n har tamannaa bhuul jaate hai.n
+ye aa.Nkhe.n \threedots
+
+% S:
+tum apanii mahakii mahakii zulf ke pecho.n ko kam kar do
+musaafir iname.n girakar apanaa rastaa bhuul jaate hai.n
+% L:
+ye aa.Nkhe.n \threedots
+
+ye aa.Nkhe.n jab hame.n apanii panaaho me.n bulaatii hai.n
+hame apanii qasam ham har saharaa bhuul jaate hai.n
+
+% S:
+tumhaare narm\-o\-naazuk ho.nTh jis dam muskaraate hai.n
+bahaare.n jhe.npatii.n phuul khilanaa bhuul jaate hai.n
+% L:
+ye aa.Nkhe.n \threedots
+
+bahut kuchh tum se kahane kii tamannaa dil me.n rakhate hai.n
+magar jab saamane aate ho to kahanaa bhuul jaate hai.n
+
+% S:
+muhabbat me.n zubaa.n chup ho to aa.Nkhe.n baat karatii.n hai.n
+ye kah detii hai.n vo baate.n jo kahanaa bhuul jaate hai.n
+% L:
+ye aa.Nkhe.n \threedots
+%
+#endindian
+\endsong
+%

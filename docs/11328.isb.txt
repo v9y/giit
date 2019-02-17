@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{are diivaano.n mujhe pahachaano.n ... mai.n huu.N ##Don##}%
+\film{Don}%
+\year{1978}%
+\starring{Amitabh Bachchan, Zeenat, Helen}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #11279 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+are diivaano.n mujhe pahachaano.n kahaa.N se aayaa mai.n huu.N kaun \-2
+( mai.n huu.N kaun ) \-2 ( mai.n huu.N ) \-4 kaun
+##Don## \-5
+( mai.n huu.N ##Don## ) \-2 ( mai.n huu.N ) \-4 ##Don##
+
+are tumane jo dekhaa hai sochaa hai samajhaa hai jaanaa hai ( vo mai.n nahii.n ) \-2
+logo.n kii nazaro.n ne mujhako yahaa.N jo bhii maanaa hai ( vo mai.n nahii.n ) \-2
+aavaaraa baadal ko saudaa_ii paagaal ko duniyaa me.n samajhaa hai kaun
+are diivaano.n \threedots
+
+are yaaro.n kaa vo yaar huu.N yaarii me.n jaa.N luTaa de jo ( mai.n huu.N vahii ) \-2
+dushman kaa dushman huu.N vo dushman ke chhakke chhu.Daa de jo ( mai.n huu.N vahii ) \-2
+tum jaano naa jaano maine to jaanaa hai mahafil me.n kaisaa hai kaun
+are diivaano.n \threedots
+
+are maine kyaa sochaa hai kyaa Kvaab hai merii aa.Nkho.n me.n ( tum jaano naa ) \-2
+maine bhii badalaa hai kyaa ra.ng baato.n hii baato.n me.n ( tum jaano naa ) \-2
+chehare pe cheharaa hai parade pe paradaa hai duniyaa me.n samajhaa hai kaun
+are diivaano.n \threedots
+%
+#endindian
+\endsong
+

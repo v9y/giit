@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{jab dil ko sataave Gam tuu chhe.D sakhii saragam}%
+\film{Sargam}%
+\year{1950}%
+\starring{Raj Kapoor}%
+\singer{Lata, chorus}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aa~
+jab dil ko sataave Gam
+tuu chhe.D sakhii saragam
+
+sa re ga ma pa dha ni sa
+ni dha pa ma ga re sa
+
+ba.Daa zor hai saat suro.n me.n
+bahate aa.Nsuu jaate hai.n tham
+uu chhe.D sakhii saragam \threedots
+
+saat suro.n ke saat hai.n jhuule
+aa~
+jo jhuule vo sab duHkh bhuule
+rahe magan har dam
+tuu chhe.D sakhii saragam \threedots
+
+sa re ga ma sa-re-sa-dha re ma pa dha-dha pa
+pa dha sa re ga ga-re-sa
+re sa ni dha pa
+ni dha pa ma ga
+pa ma ga re sa
+sa re ga ma
+
+chhe.D sakhii saragam \threedots
+
+%
+#endindian
+\endsong
+%

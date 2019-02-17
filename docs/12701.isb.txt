@@ -1,0 +1,60 @@
+
+%
+\startsong
+\stitle{jaa jaa re suganaa ... laagii naahii.n chhuuTe raamaa}%
+\film{Laagi Nahin Chhute Raam (Bhojpuri-Film)}%
+\year{1963}%
+\starring{Kumkum, Asim Kumar, Nazeer Husain, Tiwari, Mishra, Helen, Leela Misra}%
+\singer{Lata, Talat}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10132 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	jaa jaa re suganaa jaa re kahi de sajanavaa se
+	laagii naahii.n chhuuTe raamaa chaahe jiyaa jaa_e
+
+% suganaa : parrot (shuk)
+% o parrot! go and tell my lover.
+
+ta \:	bha_ilii aavaaraa sajanii puuchhalaa pavanavaa se
+	laagii naahii.n chhuuTe \threedots
+
+% i will ask the wind why it has become "aavaaraa"
+
+la \:	diyaa roj haari jaalaa sa.ng sa.ng jali ke \-2
+ta \:	cha.Ndavaa bhii thaki jaalaa moraa sa.ng chali ke
+la \:	ta.Dapa_ile raat din kaunaare jamanavaa se
+	laagii naahii.n chhuuTe \threedots
+
+% The earthen lamp gets extinguished before me as it burns with me.
+% The moon also gets tired before me as it walks along with me.
+% I don't know for since which era I am suffereing.
+
+ta \:	birahaa ke dagavaa se bhar ga_il chhatiyaa.N
+la \:	laal se piiyar bha_iil hamarii suratiyaa
+ta \:	toharii suratiyaa naahii nikaselaa manavaa se
+	laagii naahii.n chhuuTe \threedots
+
+% My chest is full with the spots of separations from you.
+% my face has turned to yellow from red.
+% you face does not go away from the memories in my mind.
+
+la \:	maTiyaa milal jaalaa sonaa ke javaniyaa \-2
+ta \:	a.Nsuvaa me.n Duub ga_il saarii jindaganiyaa
+la \:	bhu_iyaa girelaa kajaraa bahi ke nainavaa se
+	laagii naahii.n chhuuTe \threedots
+
+% this golden youth will become like soil
+% entire life has got drowned in the tears.
+% the "kaajal" is coming out from the eyes washed by tears and is falling on the land.
+
+%
+#endindian
+\endsong
+

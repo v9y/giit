@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{nashaa ye pyaar kaa nashaa hai}%
+\film{Mann/ Listen To Your Heart}%
+\year{1999}%
+\starring{Aamir Khan, Manisha Koirala, Anil Kapoor}%
+\singer{Udit Narayan, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nashaa ye pyaar kaa nashaa hai
+ye merii baat yaaro.n maano
+nashe me.n yaar Duub jaa_o
+raho na hosh me.n diivaano.n
+ke jabase maine tumako dil ye de diyaa
+miiThaa miiThaa saa dard le liyaa
+suno o priyaa maine tumako dil diyaa
+nashaa ye pyaar kaa \threedots
+
+nazar se yuu.n milii nazar diivaanaa mai.n ho gayaa
+asar ye kyaa hu_aa asar kahaa.n ye mai.n kho gayaa
+bahake bahake kadam bahakaa bahakaa hai man
+chhaa gayaa chhaa gayaa mujhape diivaanaaapan
+suno o priyaa maine tumako dil diyaa
+nashaa ye pyaar kaa \threedots
+
+jhukii jhukii nigaaho.n me.n balaa kii shoKiyaa.n chhupii.n
+khulii khulii laTo.n me.n bhii haay ghaTaa kii mastiyaa.n rukii.n
+ye hayaa ye adaa ye ha.Nsii ye nayan
+de ga_e de ga_e miiThii miiThii chubhan
+suno o priyaa maine tumako dil diyaa
+nashaa ye pyaar kaa \threedots
+%
+#endindian
+\endsong
+

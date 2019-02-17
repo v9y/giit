@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{din hai naa ye raat ... tho.De se hai.n andhere me.n tho.De ujaale me.n}%
+\film{Bhoot}%
+\year{2003}%
+\starring{Rekha, Ajay Devgan, Nana Patekar, Urmila, Fardeen Khan}%
+\singer{Usha Uthup, Parvez Qadir}%
+\music{Bapi-Tutul}%
+\lyrics{Sandeep Nath}%
+%
+% Contributor: BOL ANAMOL #11776 [V S Rawat]
+% Producer: Dream Merchants Entertainment, Nitin Manmohan
+% Director: Ramgopal Varma
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3363 Stereo, Cost: Rs 50/-, CD: 
+%
+\printtitle
+#indian
+%
+u \:	din hai naa ye raat
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+u \:	dahashat me.n rahataa hai har vaqt dil 
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+u \:	din hai naa ye raat
+
+u \:	yuu.N kha.De chauraahe pe mu.Nh churaa rahe saaye se
+	guu.Njatii rahatii avaaze.n chetanaa baharii banaa ke
+	dahashat me.n rahataa hai har vaqt dil
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+u \:	din hai naa ye raat \-2
+	dahashat me.n rahataa hai har vaqt dil
+
+u \:	gheratii parachhaa.N_iyo.n ne ruuh kii gaharaa_iyo.n me.n
+	Kauf kuchh aisaa dikhaayaa zalazalaa jaise ho aayaa
+	dahashat me.n rahataa hai har vaqt dil
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+u \:	din hai naa ye raat
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+ko \:	laa laa laa ruu raa rii
+pa \:	tho.De se hai.n andhere me.n tho.De ujaale me.n
+u \:	din hai naa ye raat
+ko \:	uu uu uu uu
+%
+#endindian
+\endsong
+

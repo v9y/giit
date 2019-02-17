@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{##He-man, o my He-man## ... baaho.n me.n kas le ho.nTho.n kaa ras le}%
+\film{Jungle Love}%
+\year{1990}%
+\starring{Rockey, Kirti Singh, Goga Kapoor, Mahesh Anand, Shiva, Gajendra Chauhan}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##He-man, o my He-man##
+baaho.n me.n kas le ho.nTho.n kaa ras le aise mujhe na ta.Dapaa
+aake lipaT jaa tho.Daa simaT jaa siine se mujhako lagaa
+##He-man## haa.N haa.N o haa.N \threedots
+
+haatho.n se badan sahalaa_uu.ngii mai.n
+pyaar kii garmii ba.Dhaa_uu.ngii mai.n
+tere dil ko bhii pighalaa_uu.ngii mai.n
+tho.Daa laharaane de mastii cha.Dh jaane de chhaane de tho.Daa nashaa
+##He-man## haa.N haa.N o haa.N \threedots
+
+duniyaa me.n dekhe maine laakho.n javaa.n
+tere jaisaa dekhaa nahii.n ko_ii yahaa.n
+aa.Nkho.n me.n basaa lo mujhe jaan\-e\-jahaa.n
+aisaa mujhe mard milegaa kahaa.n
+bhiige mere khyaalo.n ko chhuu le mere gaalo.n ko pyaasii huu.N pyaas bujhaa
+##He-man## haa.N haa.N o haa.N \threedots
+%
+#endindian
+\endsong
+

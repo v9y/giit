@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{laka.Dii kii kaaThii kaaThii pe gho.Daa}% 
+\film{Masoom}%
+\year{1986}%
+\starring{Naseeruddin Shah, Shabana Azmi}%
+\singer{Vanita Mishra, Gurpreet Kaur, Gauri Bapat}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+laka.Dii kii kaaThii kaaThii pe gho.Daa
+gho.De kii dum pe jo maaraa hathau.Daa
+dau.Daa dau.Daa dau.Daa gho.Daa dum uThaa ke dau.Daa
+
+gho.Daa pahu.nchaa chauk me.n chauk me.n thaa naa_ii
+gho.Dejii kii naa_ii ne hazaamat jo banaa_ii
+chag\-bag chag\-bag chag\-bag chag\-bag
+gho.Daa pahu.nchaa chauk \threedots
+dau.Daa dau.Daa dau.Daa gho.Daa dum uThaa ke dau.Daa
+
+gho.Daa thaa ghama.nDii pahu.nchaa sabjii ma.nDii
+sabjii ma.nDii baraf pa.Dii thI baraf me.n lag gaI Tha.nDii
+chag\-bag chag\-bag chag\-bag chag\-bag
+gho.Daa thaa ghama.nDii \threedots
+dau.Daa dau.Daa dau.Daa gho.Daa dum uThaa ke dau.Daa
+
+gho.Daa apanaa taga.Daa hai dekho kitanii charabii hai
+chalataa hai maharaulii me.n par gho.Daa apanaa arabii hai
+chag\-bag chag\-bag chag\-bag chag\-bag
+gho.Daa apanaa taga.Daa hai \threedots
+baa.nh (??) chhuu.Daa ke dau.Daa gho.Daa dum uThaa ke Dau.Daa
+
+laka.Dii kii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aa_ii basant R^itu madamaatii}%
+\film{Jawani}%
+\year{1942}%
+\starring{Surendra, Husnbano, A R Kabuli, Sankata}%
+\singer{Surendra, Husnbano}%
+\music{Anil Biswas}%
+\lyrics{Hazrat Aarzoo}%
+%
+% Contributor: BOL ANAMOL #12272 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+do \:	aa_ii basant R^itu madamaatii \-2
+	man lalachaatii uma.ng ba.Dhaatii \-2
+su \:	sotaa prem jagaatii
+do \:	aa_ii basant R^itu madamaatii
+su \:	sotaa prem jagaatii
+do \:	aa_ii basant R^itu madamaatii \-2
+
+ha \:	( Daar\-Daar se kanchan barase
+	paat\-paat se joban barase ) \-2
+	phuul khilaatii jag mahakaatii hariyaalii lahakaatii \-2
+do \:	aa_ii basant R^itu madamaatii \-2
+
+su \:	ambu_aa Daar par koyal bole
+	( ambu_aa Daar par koyal bole
+	man kaa bhed papiihaa khole ) \-2
+	bha.Nwaraa chhe.D ke giit sunaataa
+	( bha.Nwaraa chhe.D ke giit sunaataa
+	kalii\-kalii musakaatii ) \-2
+do \:	aa_ii basant R^itu madamaatii \-2
+	man lalachaatii uma.ng ba.Dhaatii \-2
+su \:	sotaa prem jagaatii
+do \:	aa_ii basant R^itu madamaatii
+su \:	sotaa prem jagaatii
+do \:	aa_ii basant R^itu madamaatii \-2
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye meraa diivaanaapan hai, yaa muhabbat kaa suruur}%
+\film{Yahudi}%
+\year{1958}%
+\starring{Sohrab Modi, Dilip Kumar, Meena Kumari}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shahryar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil se tujhako bedilii hai, mujhako hai dil kaa guruur
+tuu ye maane ke na maane, log maane.nge zuruur
+
+ye meraa diivaanaapan hai, yaa muhabbat kaa suruur
+tuu na pahachaane to hai ye, terii nazaro.n kaa qusuur
+ye meraa diivaanaapan hai \threedots
+
+dil ko terii hii tamannaa, dil ko hai tujhase hii pyaar
+chaahe tuu aae na aae, ham kare.nge i.ntazaar
+ye meraa diivaanaapan hai \threedots
+
+aise viiraane me.n ik din, ghuT ke mar jaae.nge ham
+jitanaa jii chaahe pukaaro, phir nahii.n aae.nge ham
+ye meraa diivaanaapan hai \threedots
+%
+#endindian
+\endsong
+%

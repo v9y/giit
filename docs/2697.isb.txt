@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ro ro biitaa jiivan saaraa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Khaiyyam}%
+\lyrics{Khawar Zaman}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: Urzung Khan
+% Comments: This was composed by Khaiyyam during his "Sharmaji" days
+%
+\printtitle
+#indian
+%
+
+ro ro biitaa jiivan saaraa
+aayaa na man kaa miit hamaaraa
+
+Kushiyo.n ke sab giit churaa kar
+pyaar ka jalataa diip bujhaa kar
+phuu.Nk diyaa hai de ke sahaaraa
+ro ro biita \threedots
+
+raah kaThin hai mai.n huu.N ghaayal
+kashtii TuuTii duur hai saahil
+mai.n huu.N akelaa path a.ndhiyaaraa
+ro ro biita \threedots
+
+%
+#endindian
+\endsong
+%

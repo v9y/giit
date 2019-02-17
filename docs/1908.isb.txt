@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ye havaa ye raat ye chaa.Ndanii}% 
+\film{Sangdil}%
+\year{1952}%
+\starring{Dilip Kumar, Madhubala, Nutan}%
+\singer{Talat}%
+\music{Sajjad}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  Biju Parameshwaran (paramesh@enuxsa.eas.asu.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+(ye havaa ye raat ye chaa.Ndanii 
+terI ek adaa pe nisaar hai ) \- 2
+mujhe kyuu.N nA ho terI aarazuu 
+terI justajuu me.n bahaar hai
+ye havaa ye raat ye chaa.Ndanii 
+
+tujhe kyA khabar hai o bekhabar 
+terI ek nazar me.n hai kyA asar 
+jo gazab me.n aaye to kahar hai
+jo ho meharabaa.n vo qaraar hai
+mujhe kyuu.N nA ho terI aarazuu 
+terI justajuu me.n bahaar hai 
+ye havaa ye raat ye chaa.Ndanii 
+
+terI baat\-baat hai.n dilanashii.n
+koI tujhase ba.Dhake nahii.n hasii.n 
+hai.n kalii\-kalii me.n jo mastiyaa.n 
+terI aa.Nkh kA ye khumaar hai 
+mujhe kyuu.N nA ho terI aarazuu 
+terI justajuu mai.n bahaar hai 
+ye havaa ye raat ye chaa.Ndanii \threedots
+%
+#endindian
+\endsong
+%

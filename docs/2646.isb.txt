@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{matavaalii naar Thumak Thumak chalii jaaye}%
+\film{Ek Phool Chaar Kaante}%
+\year{1960}%
+\starring{Sunil Dutt, Waheeda, Johnny Walker}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+matavaalii naar Thumak Thumak chalii jaaye
+in kadamo.n pe kis kaa jiyaa naa jhuk jaaye
+matavaalii naar \threedots
+
+phuul badan mukha.Daa yuu.N damake
+baadal me.n jyo.n bijalii chamake
+giit sunaa ke tuu chham chham ke
+lalachaaye, chhup jaaye, aay haay
+matavaalii naar \threedots
+
+ye cha.nchal kajaraarii aa.Nkhe.n
+ye chitachor shikaarii aa.Nkhe.n
+gaii dil chiir kaTaarii a.Nkhe.n
+muskaaye, shaamaaye, jhuk jaaye
+matavaalii naar \threedots
+
+%
+#endindian
+\endsong
+%

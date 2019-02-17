@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aa.Nkhe.n khulii thii.N aaye the vo bhii nazar mujhe}%
+\film{Sathi}%
+\year{1968}%
+\starring{Rajendra Kumar, Vyjayantimala, Simi Garewal}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: Donald Ravi Persaud
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+ 
+aa.Nkhe.n khulii thii.N aaye the vo bhii nazar mujhe
+phir kyaa huaa nahii.n hai kuchh is kii khabar mujhe
+aa.Nkhe.n khulii thii.N \threedots
+ 
+un kaa Kayaal dil me.n tasavvur nigaah me.n
+roshan vahii chiraaG hai yaado.n kii raah me.n
+vo chho.D kar gaye the isii mo.D par mujhe
+phir kyaa huaa nahii.n hai kuchh is kii khabar mujhe
+aa.Nkhe.n khulii thii.N \threedots
+ 
+ab to mujhe andhero.n se ulfat sii ho gaii
+aa.Nkho.n ko i.ntazaar kii aadat sii ho gaii
+takanaa hai un kii raah yuu.N hii umr bhar mujhe
+aa.Nkhe.n khulii thii.N aaye the vo bhii nazar mujhe
+
+%
+#endindian
+\endsong
+%

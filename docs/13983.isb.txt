@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{baaho.n me.n le luu.n zulfo.n se kheluu.n}%
+\film{Salaakhen}%
+\year{1998}%
+\starring{Sunny, Raveena, Amrish, Manisha, Anupam, Farida, Deven}%
+\singer{Kavita Subramaniam}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+baaho.n me.n le luu.n zulfo.n se kheluu.n
+betaab mohabbat kahatii hai aajaa aajaa
+paagal diivaanaa aavaaraa kis naam se tujhako pukaaruu.n mai.n
+palako.n ke saa_e me.n rakhuu.n yaa dil me.n tujhako utaaruu.n mai.n
+
+jo dil ko tere bhaa jaa_e us naam se mujhako pukaar le tuu
+aa.Nkho.n kii sunaharii galiyo.n se mujhe apane dil me.n utaar le tuu
+
+merii tamannaa meraa yaar hai merii mohabbat meraa pyaar hai
+kaise bataa_uu.n tujhako bhalaa mai.n mujhako teraa i.ntazaar hai
+ho.nTho.n pe mere terii baat hai apanaa to janamo.n kaa saath hai
+maine chho.Daa saaraa zamaanaa haatho.n me.n teraa haath hai
+
+ra.ngiilaa aashiq mastaanaa kis naam se tujhako pukaaruu.n mai.n
+palako.n ke saa_e me.n \threedots
+
+jannat se aa_ii ko_ii huur hai ishq me.n mere tuu to chuur hai
+bhuule tujhe naa ik pal meraa dil is me.n meraa kyaa kasuur hai
+duniyaa mere pairo.n kii dhuul hai mere juu.De me.n teraa phuul hai
+tere li_e jo mujhako milaa vo dard bhii mujhako kabuul hai
+%
+#endindian
+\endsong
+

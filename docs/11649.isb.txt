@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{falaq milegaa tujhe kyaa ... ye muhabbat naa miTegii}%
+\film{Ghar Ghar Mein Diwaali}%
+\year{1955}%
+\starring{Gajanan Jagirdar, Shyama, Sajjan, Manorama}%
+\singer{Lata, Rafi}%
+\music{Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11945 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ra \:	( falaq milegaa tujhe kyaa hame.n miTaane se
+	ye muhabbat naa miTegii kabhii zamaane se ) \-2
+
+la \:	uThaa ke ra.nj ye dil chuur ho gayaa itanaa \-2
+	ke Thes lagatii hai haay
+	ke Thes lagatii hai kaliyo.n ke muskuraane se
+	ye muhabbat naa miTegii kabhii zamaane se
+
+ra \:	( jiye.n to kisake liye tum hii jab nahii.n apane
+	tum hii jab nahii.n apane ) \-2
+	ke jii rahe the haay
+	ke jii rahe the abhii tak isii bahaane se
+	ye muhabbat naa miTegii kabhii zamaane se
+
+la \:	jahaa.N ne kah diyaa baadal hai.n aasamaano.n ke
+	dhu_aa.N uThaa hai ye haay
+	dhu_aa.N uThaa hai ye mere hii aashiyaane se
+	ye muhabbat naa miTegii kabhii zamaane se
+ra \:	falaq milegaa tujhe kyaa
+%
+#endindian
+\endsong
+

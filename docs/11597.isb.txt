@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{ho re ho jhanan ghuu.Nghar baaje moraa man jhuume piyaa}%
+\film{Gunga Jumna}%
+\year{1961}%
+\starring{Dilip Kumar, Vyjayantimala, Nasir Khan, Azra, Kanhaiyalal, Helen}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10626 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ho o ho ho o ho
+ho re ho re jhanan ghuu.Nghar baaje
+moraa man jhuume piyaa
+torii Dagar chuume piyaa aajaa ghar aajaa \-2
+
+dil kii uma.ng jaage moraa gaa_e jiyaa
+aas mohe laagii torii aajaa piyaa
+ritu ra.ngiilii din milan ke
+madhur\-madhur sapane more man ke balam jaage
+ho re ho jhanan \threedots
+
+bahiyaa.N paka.D chhe.De.n mohe sakhiyaa.N morii
+vinatii kare.n laaj bharii akhiyaa.N morii
+pag\-pag chhalake man kii madiraa
+sanan\-sanan Dole pavan badaraa ghuma.D naache
+moraa man jhuume \threedots
+%
+#endindian
+\endsong
+

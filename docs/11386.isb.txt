@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{diyaa to jalaa sab raat re baalam}%
+\film{Dhaake Ki Malmal}%
+\year{1956}%
+\starring{Madhubala, Kishore Kumar}%
+\singer{C H Atma}%
+\music{O P Nayyar}%
+\lyrics{Saroj Mohini Iyer}%
+%
+% Contributor: BOL ANAMOL #11948 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( diyaa to jalaa sab raat re baalam
+par tum lauT naa aaye
+par tum lauT naa aaye ) \-2
+
+( bikhar ga_ii hai sej suhaanii
+rovat hai alabelii jawaanii ) \-2
+chhaliyaa rasiyaa kise jaachake (?) ho \-2
+jii hamaraa kalapaaye
+diyaa to jalaa sab raat re baalam
+
+bhor bha_ii priitam nahii.n aaye
+( bhor bha_ii priitam nahii.n aaye
+man kaa diipak bujhataa jaaye ) \-2
+chhaliyaa rasiyaa aan milo re \-2
+jii hamaraa ghabaraaye
+chhaliyaa rasiyaa aan milo re \-2
+%
+#endindian
+\endsong
+

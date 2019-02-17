@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jaag dard-e-ishq jaag, jaag dard-e-ishq jaag}%
+\film{Anaarkali}%
+\year{1953}%
+\starring{Pradeep Kumar, Beena Rai}%
+\singer{Hemant, Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Arati Deo (arati@soma.rice.edu)
+% Credits: 
+% Editor: Anurag Shankar astro.indiana.edu 
+%
+\printtitle
+#indian
+%
+he: jaag dard\-e\-ishq jaag, jaag dard\-e\-ishq jaag 
+	    dil ko beqaraar kar, chhe.D ke aa.Nsuo.n kaa raag 
+	    jaag dard\-e\-ishq jaag, jaag dard\-e\-ishq jaag 
+	    jaag\threedots, jaag\threedots
+
+la: aa  aa\threedots
+	     kisako sunaauu.N daastaa.n, kisako dikhaauu.N dil ke daaG 
+	     jaauu.N kahaa.N ki duur tak, jalataa nahii.n koii chiraaG  \- 2
+	     raakh ban chukii hai aag, raakh ban chukii hai aag 
+he: dil ko beqaraar kar, chhe.D ke aa.Nsuo.n kaa raag 
+	    jaag dard\-e\-ishq jaag, jaag\threedots
+
+he: aisii chalii havaa\-e\-Gam, aisaa badal gayaa samaa  \- 2
+	    ruuTh ke mujh se chal diye \threedots
+	    ruuTh ke mujh se chal diye, merii khushii ke kaaravaa.n 
+	    Das rahe.n hai.n Gam ke naag
+dono: jaag dard\-e\-ishq jaag, jaag dard\-e\-ishq jaag 
+	     dil ko beqaraar kar, chhe.D ke aa.Nsuo.n kaa raag 
+	     jaag dard\-e\-ishq jaag, jaag\threedots
+
+he: aa.Nkh zaraa lagI terii, saaraa jahaan so gayaa 
+	     ye zamiin so gaI, aasamaan so gayaa 
+	     so gayaa pyaar kaa chiraaG
+	     jaag, jaag, jaag, jaag 
+%
+#endindian
+\endsong
+%

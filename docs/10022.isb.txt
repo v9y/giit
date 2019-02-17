@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kuchh kasme.n hai.n javaa.N kuchh vaade hai.n hasii.n}%
+\film{Aankhen}%
+\year{2002}%
+\starring{Amitabh Bachchan, Sushmita Sen, Akshay Kumar, Arjun Rampal, Bipasha Basu}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Contributor:
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+kuchh kasme.n hai.n javaa.N kuchh vaade hai.n hasii.n
+kaisaa hai ye asar jaaduu hai dekho har kahii.n
+kuchh dil me.n pyaas hai aur tuu bhii paas hai
+vo jhuk gayaa aasamaa.n lagataa hai chuume.n ye zamii.n
+kuchh kasme.n hai.n \threedots
+
+jab chalatii hai ye pyaar kii havaa
+ye dil vahii.n pa.nchhii ban ke u.Dataa hai
+aur kyaa hotaa hai is pyaar me.n bataa
+ye ishq kaa tuufaa.n kaise thamataa hai
+chhaa_ii bekhudii ye kaisii dilakashii
+chaahat kii har adaa kitanii hai dekho shabanamii
+kuchh dil me.n pyaas hai 
+dil hii to samajhe hai ho dil kii zubaa.n
+naa samajhataa hai naa samajhegaa zahaa.N
+
+huu.N Duub ke mohabbat me.n kuchh to paa_e.nge
+saahil pe motii hote hai.n kahaa.N
+kuchh rishte hai.n naye kuchh baate.n anakahii
+baarish hai pyaar kii aaj bhiigegii dil kii zamii.n
+kuchh kasme.n hai.n \threedots
+%
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ye dil diivaanaa diivaanaa hai ye dil}%
+\film{Pardes}%
+\year{1997}%
+\starring{Shahrukh Khan, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Udit Narayan}%
+\music{Nadeem Shravan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye dil diivaanaa diivaanaa hai ye dil
+diivaane ne mujhako bhii kar Daalaa diivaanaa
+maine usake shahar ko chho.Daa usakii galii ye dil ko to.Daa
+phir bhii siine me.n dha.Dakataa hai ye dil
+maine dil se use nikaalaa jo naa karanaa thaa kar Daalaa
+phir bhii yaad use hii karataa hai ye dil
+ye dil diivaanaa \threedots
+
+dil kii khataa bhii hai kyaa mujhako gilaa bhii hai kyaa
+aashiq hai ye chor nahii.n hai mai.n kyaa karuu.n
+dil pe meraa jor nahii.n hai mai.n kyaa karuu.n
+ye dil diivaanaa \threedots
+
+dil kaisaa bepiir hai vo ek tasviir hai
+mai.n kahataa huu.N to.D de kahataa hai za.njiir hai
+ko_ii kachchii Dor nahii.n hai mai.n kyaa karuu.n
+dil pe meraa jor nahii.n hai mai.n kyaa karuu.n
+ye dil diivaanaa \threedots
+%
+#endindian
+\endsong
+

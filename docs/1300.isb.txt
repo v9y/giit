@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{na tel aur na baatii, na kaabuu havaa par}%
+\film{Ek Ke Baad Ek}%
+\year{1960}%
+\starring{Dev Anand, Tarla Mehta, Sharda}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Date:
+% Credits:
+% Editor: 
+% Comments: A Tribute to Sachin Dev Burman #7
+%
+\printtitle
+#indian
+%
+
+na tel aur na baatii na kaabuu havaa par
+diye kyo.n jalaaye chalaa jaa rahaa hai
+
+ujaalo.n ko tere siyaahii ne gheraa
+nigal jaayegaa roshani ko andheraa
+chirago.n kii lau par dhuaa.N chaa rahaa hai
+diye kyo.n jalaaye chalaa jaa rahaa hai
+na tel aur \threedots
+
+na de dosh bhagavaan ko bhole bhaale
+khushii kii tamannaa me.n Gam tuune paale
+tuu apane kiye kii sazaa paa rahaa hai
+diye kyo.n jalaaye chalaa jaa rahaa hai
+na tel aur \threedots
+
+tere bhuul par kal yah duniyaa ha.Nsegii
+nishaanii har ik daaG banakar rahegii
+tuu bharane kii khaatir miTaa jaa rahaa hai
+diye kyo.n jalaaye chalaa jaa rahaa hai
+na tel aur \threedots
+
+%
+#endindian
+\endsong
+%

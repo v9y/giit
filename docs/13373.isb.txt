@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kaisaa samaa.n ... jaane.n chale.n ham dono.n kidhar ... phir se jiinaa hai}%
+\film{Officer}%
+\year{2001}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Deepak Choudhary}%
+\lyrics{Deepak Choudhary}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaisaa samaa.n kaisaa safar jaane.n chale.n ham dono.n kidhar
+phir se raaho.n me.n sa.ng chalanaa hai
+phir se khvaabo.n me.n ra.ng bharanaa hai
+phir se jiinaa hai phir se maranaa hai
+
+bechainiyaa.n betaabiyaa.n kahane lagii dil kii zubaa.n
+khaamoshiyaa.n tanhaa_iyaa.n lagane lagii.n kitanii javaa.n
+haay taubaa adaa taubaa asar jaane.n chale.n ham dono.n kidhar
+aaj kadamo.n ko phir bahakanaa hai aaj saa.Nso.n ko phir mahakanaa hai
+phir se jiinaa hai \threedots
+
+yuu.n naa machal tho.Daa sa.mbhal bahake kadam naa jaa_e.n phisal
+tujhase khilaa dil kaa ka.nval mujhako badalake tuu naa badal
+he kaisaa gumaa.n kaisaa bha.nvar jaane.n chale.n ham dono.n kidhar
+aaj zulfo.n ko phir bikharanaa hai aaj sapano.n ko phir sa.nvaranaa hai
+phir se jiinaa hai \threedots
+%
+#endindian
+\endsong
+

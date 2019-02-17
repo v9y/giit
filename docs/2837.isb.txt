@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{ge.nd kheluu.N ge.nd kheluu.N}%
+\film{Jogan}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar}%
+\singer{Geeta}%
+\music{Bulo C Rani}%
+\lyrics{Pt. Indra}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 10, 2001
+%
+\printtitle
+#indian
+%
+
+ge.nd kheluu.N ge.nd kheluu.N kaanhaa ke sa.ng
+jashodaa ke kaalaa kaalaa chhoTaa ke sa.ng
+
+a.nganaa me.n kheluu.N to gaalii degii maiyaa
+galiyo.n me.n kheluu.N to uu.N kare bhaiyaa
+jamanaa kinaare churaaye kanhaiyaa
+kheluu.N kisake sa.ng daiyaa kheluu.N kisake sa.ng
+haa.N \threedots
+kheluu.Ngii raadhaa ke sa.ng
+ge.nd kheluu.N ge.nd kheluu.N \threedots
+
+%
+#endindian
+\endsong
+%
+

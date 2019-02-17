@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{jaba a.ndheraa hotaa hai, aadhii raata ke baad ek chor}%
+\film{Raja Rani}%
+\year{1973}%
+\starring{Dharmendra, Tanuja}%
+\singer{Asha, Bhupinder, chorus}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Renu Thamma (rthamma@vax1.umkc.edu)
+%          Satish Subramanian (subraman@cs.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aa:	jaba a.ndheraa hotaa hai, aadhii raata ke baada
+	ek chor\threedots
+bhuu:	paa para paa\threedots
+aa:	\threedots nikalataa hai, kaalii sii sa.Daka pe
+	ye aavaaza, aatii hai
+dono:	chora\-chora, chora\-chora, chora\-chora, chora\-chora       
+aa:	shaharo.n kii galiyo.n me.n jaba a.ndheraa hotaa hai 
+	aadhii raat ke baada
+	ek chora nikalataa hai, kaalii sii sa.Daka pe 
+	ye aavaaza aatii hai
+	chora\-chora, chora\-chora, chora\-chora, chora\-chora
+	shaharo.n kii galiyo.n me.n jaba\threedots
+	a.ndheraa hotaa hai, aadhii raata ke baada\threedots
+
+aa:	loga banda kamaro.n me.n, chaina se jaba sote hai.n
+bhuu:	log banda kamaro.n me.n, chaina se jaba sote hai.n
+dono:	ye jaagataa hai saarii raata bhaagataa hai
+aa:	tAle TUTe, hote hai.n, jaba saveraa hotaa hai, yA
+	papa paraa\threedots %[ a lot of la-la la'ing without lyrics]
+	jaba a.ndheraa\threedots
+
+aa:	suna lo paharedaaro.n, hosha me.n rahanaa yaaro.n
+bhuu:	suna lo paharedaaro.n, hosha me.n rahanaa yaaro.n        
+dono:	saatha ghuumatii hai, naagana raata jhuumatii hai
+aa:	albelaa, mastaanaa, vo saveraa hotaa hai, yA
+	papa para\threedots %[ a lot of la-la la'ing without lyrics]
+	jaba a.ndheraa\threedots
+%
+#endindian
+\endsong
+%

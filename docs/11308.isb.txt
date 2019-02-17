@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{duniyaa kyaa jaane meraa afasaanaa}%
+\film{Dillagi}%
+\year{1949}%
+\starring{Shyam, Suraiya, Sharada, Amar, Shyam Kumar, Amir Banu}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12520 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( duniyaa kyaa jaane meraa afasaanaa
+kyuu.N gaaye dil ulafat kaa taraanaa ) \-2
+duniyaa kyaa jaane
+
+ho o o
+( nii.nd na aaye dil bas me.n nahii.n
+tuu hai kahii.n to piyaa mai.n huu.N kahii.n ) \-2
+o saajanawaa re
+o baalamawaa re
+chaa.Ndanii raate.n aur ye samaa.N
+rut bhii anokhii mai.n bhii jawaa.N
+mai.n bhii diiwaanii tuu bhii diiwaanaa
+phir kaise biite mausam suhaanaa
+
+ho o 
+( raat kaTe na bin tere piyaa
+aajaa akele nahii.n laage jiyaa ) \-2
+o saajanawaa re
+o baalamawaa re
+jhilamil taare mast havaa
+chhe.D de muralii aa ke zaraa
+ho o
+tere sa.ng gaa_uu.N mai.n kyaa gaanaa
+sun\-sun ke jisako naache zamaanaa
+
+duniyaa kyaa jaane meraa afasaanaa
+kyuu.N gaaye dil ulafat kaa taraanaa
+duniyaa kyaa jaane
+%
+#endindian
+\endsong
+%
+

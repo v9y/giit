@@ -1,0 +1,48 @@
+% 
+\startsong
+\stitle{dekho dekho dekho mujhe pyaar ho gayaa}%
+\film{Main Khiladi Tu Anadi}%
+\year{}%
+\starring{Saif Khan, Akshay Kumar}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Rahat Indori}%
+% 
+% Contributor: Kuntal Shah (kuntal@india.ti.com)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Wed Jan 17 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+zubaa.n khaamosh hotii hai nazar se kaam hotaa hai	\-2
+isii pal kaa zamaane men mohabbat naam hotaa hai
+dekho dekho dekho mujhe pyaar ho gayaa
+jaane kab kaise ikaraar ho gayaa
+
+ye vo ahasaas hai jisako na lafzo.n kii zaruurat hai
+jise paakar lage saaraa zamaanaa khuubasuurat hai
+zamaanaa khuubasuurat hai
+mohabbat naam hai jisakaa adaao.n me.n dikhaaii de
+terii dha.Dakan kii har sargam me.n ye mujhako sunaaii de
+ye mujhako sunaaii de
+mere ho.nTho.n pe jab tere labo.n kaa jaam hotaa hai
+isii pal kaa zamaane men mohabbat naam hotaa hai
+dekho dekho dekho \threedots
+
+badal jaate hai.n sab aasaar jab ye pyaar hotaa hai
+binaa bole hii chaahat kaa hasii.n izhaar hotaa hai
+hasii.n izhaar hotaa hai
+khayaalo.n kii hasii.n vaadii me.n jab tum gunagunaatii ho
+merii saa.Nso.n kii dariyaa me.n ka_ii tuufaan laatii ho
+ka_ii tuufaan laatii ho
+bahut bechainiyo.n me.n bhii ba.Daa aaraam hotaa hai
+isii pal kaa zamaane men mohabbat naam hotaa hai
+dekho dekho dekho \threedots
+%
+#endindian
+\endsong
+%

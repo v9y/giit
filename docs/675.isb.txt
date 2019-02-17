@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ham dard ke maaro.n kaa, itanaa hii fasaanaa hai}%
+\film{Daag}%
+\year{1952}%
+\starring{Dilip Kumar}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  Prince Kohli (pkohli@cc.gatech.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits Neha Desai
+%
+\printtitle 
+#indian
+%
+bujh gaye Gam kii havaa se, pyaar ke jalate charaag
+bevafaa_ii chaa.Nd ne kii, pa.D gayaa isame.n bhii daag
+
+ham dad.r ke maaro.n kaa, itanaa hii fasaanaa hai
+piine ko sharaab\-e\-Gam, dil gam kaa nishaanaa hai
+
+(dil ek khilaunaa hai, taqadiir ke haatho.n me.n) \- 2
+takadiir ke haatho.n me.n
+marane kii tamannaa hai, jiine kaa bahaanaa hai
+ham dad.r ke maaro.n kaa, itanaa hii fasaanaa hai
+
+(dete hai.n duaae.n ham) \- 2, (duniyaa kii jafaao.n ko)\- 2
+kyo.n unako bhulaae.n ham, ab khud ko bhulaanaa hai
+ham dad.r ke maaro.n kaa, itanaa hii fasaanaa hai
+
+(ha.Ns ha.Ns ke bahaare.n to, shabanam ko rulaatii hai.n) \- 2
+shabanam ko rulaatii hai.n
+aaj apanii muhabbat par, bagiyaa ko rulaanaa hai
+ham dad.r ke maaro.n kaa, itanaa hii fasaanaa hai
+%
+#endindian
+\endsong
+%

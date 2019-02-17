@@ -1,0 +1,27 @@
+%
+\startsong
+\stitle{##censor##}%
+\film{Censor}%
+\year{2001}%
+\starring{Dev Anand, Mohini Sharma, Vinay Anand, Govinda, Mamta Kulkarni, Jackie Shroff}%
+\singer{Vinod Rathod, Jaspindar Narula}%
+\music{Jatin Lalit}%
+\lyrics{Vinu Mahendra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##censor##
+aayaa samay leke pyaar pyaar chhaa_ii gulo.n pe bahaar
+na_ii navelii zamii.n hai kitanii hasii.n dikh rahii hai
+aa_o ham kare.n is dulhan kaa shaR^i.ngaar shaR^i.ngaar
+kare.n is dulhan kaa shaR^i.ngaar
+aayaa samay leke \threedots
+%
+#endindian
+\endsong
+

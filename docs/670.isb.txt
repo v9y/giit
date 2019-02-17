@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ham bekhudii me.n tumako pukaare chale gae}%
+\film{Kaala Paani}%
+\starring{Dev, Madhubala, Nalini Jaywant}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+	ham\threedots aa\threedots chale gaye
+	ham bekhudii me.n tumako pukaare chale gaye	
+	ham\threedots
+	ham bekhudii me.n tumako pukaare chale gaye
+        saaGar me.n zindagI ko utaare chale gaye
+	ham\threedots
+	
+	dekhaa kiye tumhe.n ham, banake diivaanA \- 2
+	utaraa jo nashaa to, hamane ye jaanaa
+	saare vo zindagI ke sahaare chale gaye
+	ham bekhudii me.n tumako pukaare chale gaye
+	ham\threedots
+	
+	tum to naa kaho ham, khud hii se khele \- 2
+	Duube nahii.n ham hii yuu.N, nashe me.n akele
+	shiishe me.n aapako bhii utaare chale gaye
+	ham bekhudii me.n tumako pukaare chale gaye
+	saagar me.n zindagI ko utaare chale gaye
+	ham\threedots
+%
+#endindian
+\endsong
+%

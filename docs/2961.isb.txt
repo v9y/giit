@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ThaNDii ThaNDii havaa puuchhe unakaa pataa}%
+\film{Johnny Walker}%
+\year{1957}%
+\starring{Johnny Walker, Shyama}%
+\singer{Geeta, Asha}%
+\music{O P Nayyar}%
+\lyrics{Hasrat}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 19, 2001
+%
+\printtitle
+#indian
+%
+
+aa: laa laa laa laa raa raa raa
+u.N huu.N huu.N aa haa haa haa
+
+aa:  ThaNDii ThaNDii havaa puuchhe unakaa pataa
+     laaj aa_e sakhii kaise duu.N mai.n bataa
+
+gii: ham se Daratii ho kyo.n aahe.n bharatii kyo.n
+     mu.Nh se kuchh to kaho us pe maratii ho kyo.n
+     tum ho aisii adaa jis pe duniyaa fidaa
+     hai vo kitanaa hasiin jis pe tum ho fidaa
+aa:  ThaNDii ThaNDii havaa \threedots
+
+aa:  dil se puuchhuu.N mere us me.n kyaa baat hai
+     vo uma.ngo.n bharii chaa.Ndanii raat hai
+     chaa.Nd jab jab uThaa usako dekhaa kiyaa
+     har sitaare kaa dil phir to dha.Dakaa kiyaa
+     ThaNDii ThaNDii havaa \threedots
+
+gii: yuu.N na ta.Dapaa_o jii ab bataa do hame.n
+     laa ke tasaviir hii tum dikhaa do hame.n
+     dard ba.Dhane lagaa siinaa jalane lagaa
+     dil hamaaraa bhii dekho machalane lagaa
+aa:  ThaNDii ThaNDii havaa \threedots
+
+%
+#endindian
+\endsong
+%

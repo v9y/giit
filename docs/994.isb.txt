@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{khush rahe tuu sadaa, ye duaa hai merii}%
+\film{Khilona}%
+\year{1970}%
+\starring{Sanjeev Kumar, Mumtaz, Jeetendra, Durga Khote, Shatrughan Sinha}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+terii shaadii pe duu.N tujhako tohafaa mai.n kyaa
+pesh karataa huu.N dil ek TuuTaa huaa
+
+khush rahe tuu sadaa, ye duaa hai merii
+bevafaa hii sahii, dilarubaa hai merii
+khush rahe \threedots
+
+jaa mai.n tanahaa rahuu.N, tujhako mahafil mile
+Duubane de mujhe, tujhako saahil mile
+aaj marazii yahii, naaKudaa hai merii
+
+umr bhar ye mere dil ko ta.Dapaaegaa
+dard\-e\-dil ab mere saath hii jaaega
+maut hii aaKirii bas davaa hai merii
+%
+#endindian
+\endsong
+%

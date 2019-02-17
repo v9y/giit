@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{ye bahaaro.n kaa samaa, chaa.Nd taaro.n kaa samaa}% 
+\film{Milap}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@du.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+ye bahaaro.n kaa samaa, chaa.Nd taaro.n kaa samaa 
+kho nA jaaye aa bhI jaa, ye bahaaro.n kaa samaa \threedots 
+
+zindagaanii dard ban jaaye kahii.n aisaa nA ho 
+saa.Ns aahe.n sard ban jaaye kahii.n aisaa nA ho 
+dil ta.Dap kar nA ???, so nA jaaye aa bhI jaa 
+ye bahaaro.n kaa samaa \threedots 
+
+kyaa huaa kyo.n is tarah tUne nigaahe.n pher lii.n 
+merI rAho.n kii taraf se apanii raahe.n pher lii.n 
+zindagii kA kaaravaa.n kho nA jaaye aa bhI jaa 
+ye bahaaro.n kaa samaa \threedots 
+%
+#endindian
+\endsong
+%

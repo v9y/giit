@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{dil ye kahataa hai kaano.n me.n tere tho.Daa kariib aa ke}%
+\film{Phool Aur Kaante}%
+\year{1991}%
+\starring{Ajay Devgan, Madhu}%
+\singer{Alisha Chinai, Udit Narayan}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ye kahataa hai kaano.n me.n tere tho.Daa kariib aa ke baaho.n me.n terii
+dhiire se mai.n ek baat kahuu.n ##I love you, I love you, I love you, I love you##
+
+mai.n chuum rahaa huu.N ye lab tere tuu paas aane de
+dha.Dak rahaa hai dil meraa tuu duur jaane de
+mujhako aise ta.Dapaa_o naa mujhako aise bahakaa_o naa
+dil ye kahataa hai \threedots
+
+khushbuu u.Dii havaa chalii samaa.n badal gayaa
+tujhase merii nazar milii to dil machal gayaa
+gha.Dakan merii kyaa gaatii hai ye raaz\-e\-vafaa batalaatii hai
+dil ye kahataa hai \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mujh ko is raat kii tanahaaii me.n aavaaz na do}%
+\film{Dil Bhi Tera Hum Bhi Tere}%
+\year{1960}%
+\starring{Balraj Sahni, Usha Kiran, Kumkum, Dharmendra}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Shamim Jaipuri}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%INCOMPLETE
+mujh ko is raat kii tanahaaii me.n aavaaz na do
+jisakii aavaaz rulaa de mujhe vo saaz na do
+aavaaz na do\threedots
+
+mai.nne ab tum se na milane kii kasam khaaii hai
+kyaa khabar tumako merii jaan pe ban aaii hai
+mai.n bahak jaauu.N kasam khaake tum aisaa na karo
+aavaaz na do\threedots
+
+dil meraa Duub gayaa aas merii TuuT ga_ii
+mere haatho.n hii se patavaar merii chhuuT ga_ii
+ab mai.n tuufaan me.n huu.N saahil se ishaaraa na karo
+aavaaz na do\threedots
+
+raushanii ho na sakii laakh jalaayaa hamane
+tujhako bhuulaa hii nahii.n laakh bhulaayaa hamane
+mai.n pareshaa.n huu.N mujhe aur pareshaa.n na karo
+aavaaz na do\threedots
+
+kis kadar roz kiyaa mujhase kinaaraa tumane
+koii bhaTakegaa akelaa ye na sochaa tumane
+chhup gae ho to kabhii yaad hii aayaa na karo
+aavaaz na do\threedots
+%
+#endindian
+\endsong
+%

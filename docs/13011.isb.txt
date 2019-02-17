@@ -1,0 +1,93 @@
+
+%
+\startsong
+\stitle{gorii ke haath me.n jaise ye chhallaa}%
+\film{Melaa}%
+\year{1971}%
+\starring{Sanjay Khan, Mumtaz}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10783 [V S Rawat]
+% Credits: Ashok Dhareshwar, Malini Kanth
+% 
+\printtitle
+#indian
+%
+ra \:	gorii ke haath me.n
+	jaise ye chhallaa
+	vaisii ho qisamat
+	merii bhii allaa
+
+ra \:	gorii ke haath me.n
+ko \:	gorii ke haath me.n
+ra \:	jaise ye chhallaa
+ko \:	jaise ye chhallaa
+ra \:	vaisii ho qisamat
+	merii bhii allaa
+
+la \:	chhuune na duu.Ngii
+	u.Ngalii mai.n baabuu
+	ban jaa_o chaahe.n re
+	chaa.Ndii kaa chhallaa
+la \:	chhuune na duu.Ngii
+lo \:	chhuune na duu.Ngii
+la \:	u.Ngalii mai.n baabuu
+ko \:	u.Ngalii mai.n baabuu
+la \:	ban jaa_o chaahe.n re
+	chaa.Ndii kaa chhallaa
+
+la \:	jaa re jaa re haath ko hamaare
+	haath lagaa naa
+	ho dillagii naa samajhanaa
+ra \:	ko_ii luTe ko_ii mar miTe
+	jag ho diiwaanaa
+	ho mai.n jo banuu.N teraa gahanaa
+la \:	tuu jo bane gahanaa sa.Nvaranaa chho.D duu.N
+	mohe tuu sajaaye to darapan to.D duu.N
+ra \: ho aisaa Gussaa bha_ii re vallaah
+
+ra \:	gorii ke haath me.n
+	jaise ye chhallaa
+	vaisii ho qisamat
+	merii bhii allaa
+la \:	chhuune na duu.Ngii
+lo \:	chhuune na duu.Ngii
+la \:	u.Ngalii mai.n baabuu
+ko \:	u.Ngalii mai.n baabuu
+la \:	ban jaa_o chaahe.n re
+	chaa.Ndii kaa chhallaa
+
+ra \:	chaahuu.N tujhe Dolii me.n biThaa ke
+	kahii.n le jaa_uu.N
+	e haay soch me.n pa.D ga_ii kyaa
+la \:	jo mai.n terii dulahaniyaa banuu.N
+	ghuu.NghaTaa jalaa duu.N
+	o haay ye mai.n kah ga_ii kyaa
+ra \:	jo mai.n chaahuu.N re tuu bhii vo hii chaahe
+	phir tuu zaalim sataaye mujhe kaahe
+la \:	ho jaa\-jaa itanaa tuu naa chillaa
+
+la \:	chhuune na duu.Ngii
+	u.Ngalii mai.n baabuu
+	ban jaa_o chaahe.n re
+	chaa.Ndii kaa chhallaa
+
+ra \:	gorii ke haath me.n
+ko \:	gorii ke haath me.n
+ra \:	jaise ye chhallaa
+ko \:	jaise ye chhallaa
+ra \:	vaisii ho qisamat
+	merii bhii allaa
+
+la \:	chhuune na duu.Ngii
+lo \:	chhuune na duu.Ngii
+la \:	u.Ngalii mai.n baabuu
+ko \:	u.Ngalii mai.n baabuu
+la \:	ban jaa_o chaahe.n re
+	chaa.Ndii kaa chhallaa
+%
+#endindian
+\endsong
+

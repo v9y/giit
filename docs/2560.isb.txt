@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{diivaane dil kyo.n rotaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Urzung
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+diivaane dil kyo.n rotaa hai
+duniyaa.N me.n duHkh bhii hotaa hai
+duniyaa.N me.n sukh bhii hotaa hai
+tuu kyo.n itanaa ghabaraataa hai
+diivaane \threedots
+
+taariiq hai gar duniyaa.N terii
+aahe.n na bhar dil Gam na kar
+har shaam\-e\-Gam ke baad aakhir
+khushiyo.n kaa saveraa hotaa hai
+diivaane \threedots
+           
+Kaaro.n me.n dukha.De sahate hai.n
+gul phir bhii ha.Nsate rahate hai.n
+jiinaa to isii ko kahate hai.n
+kyo.n ro ro aa.Nkhe.n khotaa hai
+diivaane \threedots
+  
+%
+#endindian
+\endsong
+%

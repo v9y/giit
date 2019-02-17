@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{chalii chalii re pata.ng merii chalii re}%
+\film{Bhaabhi}%
+\year{1957}%
+\starring{Balraj Sahni, Pandharibai, Nanda}%
+\singer{Rafi, Lata}%
+\music{Chitragupt}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10109 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+chalii\-chalii re pata.ng merii chalii re \-2
+chalii baadalo.n ke paar ho ke Dor pe savaar
+saarii duniyaa ye dekh\-dekh jalii re
+chalii\-chalii re pata.ng \threedots
+
+yuu.N mast havaa me.n laharaa_e jaise u.Dan khaTolaa u.Daa jaa_e \-2
+le ke man me.n lagan jaise ko_ii dulhan \-2
+chalii jaa_e saa.Nvariyaa kii galii re
+chalii\-chalii re pata.ng \threedots
+
+ra.ng merii pata.ng kaa dhaanii hai ye niil gagan kii raanii \-2
+baa.Nkii baa.Nkii hai u.Daan hai umar bhii javaan
+laage patalii kamar ba.Dii bhalii re
+chalii\-chalii re pata.ng \threedots
+
+chhuunaa mat dekh akelii hai saath me.n Dor sahelii \-2
+hai ye bijalii kii dhaar ba.Dii tez hai kaTaar
+degii kaaT ke rakh dilajalii re
+chalii\-chalii re pata.ng \threedots
+%
+#endindian
+\endsong
+

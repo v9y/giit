@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{ham ne aaj se tumhe.n ye naam de diyaa}%
+\film{Raja Saab}%
+\starring{Shashi Kapoor, Nanda, Naaz}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Rizwan M. Syed <rizwan@Jupiter.SPARCO.Com>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+%
+\printtitle
+#indian
+%
+ra: ham ne aaj se tumhe.n ye naam de diyaa
+    jaan\-e\-man, jaan\-e\-man, jaan\-e\-man, jaan\-e\-man
+    ham ne aaj se tumhe.n ye naam de diyaa
+    
+la: is bahaane pyaar kaa baigaam de diyaa
+    jaan\-e\-man, jaan\-e\-man, jaan\-e\-jaa.n, jaan\-e\-jaa.n
+    
+ra: paigaam kaa kuchh javaab do, baiThe ho kyo.n chup\-chaap se
+    baiThe ho kyo.n chup\-chaap se
+la: sharmaa rahe hai.n aaj ham, kahate hue kuchh aap se
+    kahate hue kuchh aap se
+    ham ne aa.Nkho.n ko zubaa.n kaa kaam de diyaa
+ra: vaah, is bahane, pyaar kaa paigaam de diyaa
+    jaan\-e\-man, jaan\-e\-man, jaan\-e\-jaa.n, jaan\-e\-jaa.n
+    
+la: baato.n hii baato.n me.n aap to, karane lage hamase pyaar bhii
+    karane lage hamase pyaar bhii
+ra: tumane hii luuTii hai nii.nd bhii, tumane hii luuTaa hai qaraar bhii
+    aur chupake se hame.n ilzaam de diyaa
+la: is bahaane, pyaar kaa paigaam de diyaa
+    jaan\-e\-man, jaan\-e\-man, jaan\-e\-jaa.n, jaan\-e\-jaa.n
+    
+ra: be\-chain, tumane kar diyaa, is dil ke har aramaan ko
+    is dil ke har aramaan ko
+    ye raat ho tum ye kaho, is dil kii har daastaa.n ko
+    is dil kii har daastaa.n ko
+    pyaar ne ba.Daa hasii.n a.njaam de diyaa
+ra: huu.N, vaah, is bahaane, pyaar kaa paigaam de diyaa
+    jaan\-e\-man, jaan\-e\-man
+la: jaan\-e\-jaa.n, jaan\-e\-jaa.n
+
+do: jaan\-e\-man, jaan\-e\-man, jaan\-e\-man, jaan\-e\-man
+%
+#endindian
+\endsong
+%
+

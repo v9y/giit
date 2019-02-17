@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ai husn zaraa jaag tujhe ishq jagaaye}%
+\film{Mere Mehboob}%
+\year{1963}%
+\starring{Rajendra Kumar, Sadhna}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai husn zaraa jaag tujhe ishk jagaaye
+badale merii takadIr jo tU hosh me.n aaye  (2)
+
+ye pyaara ke nagame ye muhabbat ke taraane
+tujhako ba.De aramaan se laayaa huu.N sunaane
+ummId mere dil kii kahii.n TUT na jaaye
+ye husn \threedots
+
+saaz\-e\-dile khaamosh me.n ek soj jagaa de
+tU bhii merii Avaaz me.n Avaaz milaa de
+aayaa huu.N tere dar pe ba.Dii aas lagaaye
+ye husn \threedots
+
+ai shammaa tU aajaa zaraa chilamanase nikalake
+hasarat hai ki rahaa jaa_uu.n terii aag me.n jalake
+paravaanaa vo kyaa tujhape jo miTakar naa dikhaa de
+ye husn \threedots
+%
+#endindian
+\endsong
+%

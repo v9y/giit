@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{raat barasaat kii, pahalii mulaaqaat kii}%
+\film{Jhanjhar}%
+\year{1953}%
+\starring{Motilal, Kamini Kaushal}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani ((hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar 
+% Date: May 22, 1998
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+aa aa
+raat barasaat kii, pahalii mulaaqaat kii
+yaad rakho balamaa\-3
+yaad rakho balamaa, jo ruuThne kii baat thii
+
+buu.Nd buu.Nd barase, dil meraa tarase
+pahalii pahalii baar piyaa, nikalii huu.N gharase\-2
+chorii chorii aake sai.nyyaa\-2
+mai.n ne mulaaqaat kii
+raat barasaat kii   \threedots
+
+bijalii ne rokaa, paanii ne Tokaa 
+chalii aa_ii sochake jo hogaa so hogaa\-2
+tere liye Tha.ND sahii\-2
+bhiigii bhiigii raat me.n
+raat barasaat kii  \threedots
+
+%
+#endindian
+\endsong
+%

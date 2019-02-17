@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{merii aavaaz suno, pyaar ke raaz suno}% 
+\film{Naunihaal}%
+\year{1967}%
+\starring{Balraj Sahni, Indrani Mukherjee, Sanjeev Kumar}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+merI aavaaz suno, pyaar ke raaz suno 
+mai.nne ek phuul jo siine pe sajaa rakhaa thA 
+usake parade mai.n tumhe dil se lagaa rakhha thA 
+thA judaa sabase mere ishq kA a.ndaaz suno 
+
+% 1) zindagii bhar mujhe nafarat sI rAhI ashko.n se (not true, by the way; 
+% neharuu used to cry very easily. remember the story about him when, after 
+% the china war, he was at e function where lata sa.ng "ai mere vatan ke 
+% logo.n," and he wept publicly? not that anyone wouldn't cry listening to 
+% that song!) well, 
+1) zindagii bhar mujhe nafarat sI rahI ashko.n se 
+mere khvaabo.n ko tum ashko.n me.n Dubote kyo.n ho 
+jo merI tarah jiyaa karate hai.n kab marate hai.n 
+thak gayaa huu.N mujhe so lene do rote kyo.n ho 
+so ke bhI jaagate hii rahate hai.n jaa.Nbaaz suno \threedots
+
+2) merI duniyA me.n nA pUrab hai nA pash{}chim koI 
+saare insaan simaT aaye khulii baaho.n me.n 
+kal bhaTakataa thA mai.n jin rAho.n mai.n tanhaa tanhaa
+kaafile kitane mile aaj unhii.n rAho.n mai.n 
+aur sab nikale mere hamadard mere hamarAz  suno \threedots
+
+3) naunihaal aate hai.n arathii ko kinaare kar lo 
+mai.n jahaa.N thA inhe.n jaanaa hai vahaa.N se aage 
+aasamaa.N inakaa zamii.n inakii zamaanaa inakaa 
+hai.n kaI inake jahaa.N mere jahaa.N se aage 
+inhe.n kaliyaa.n nA kaho hai.n ye chamanasaaz suno \threedots
+
+4) kyo.n sa.NvArii hai ye chandan kii chitaa mere liye 
+mai.n koI jism nahii.n huu.N ke jalaaoge mujhe 
+raakh ke saath bikhar jaauu.ngaa mai.n duniyA me.n 
+tum jahaa.N khaaoge Thokar vahii.n paaoge mujhe 
+har kadam par hai nae mo.D kA aaGaaz suno \threedots
+%
+#endindian
+\endsong
+%

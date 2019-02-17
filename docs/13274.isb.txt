@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{chhe.Daa jo dil kaa fasaanaa ... allaa jaane maulaa jaane}%
+\film{Naqli Nawab}%
+\year{1962}%
+\starring{Ashok Kumar, Manoj Kumar, Shakeela}%
+\singer{Rafi}%
+\music{Babul}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10066 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+chhe.Daa jo dil kaa fasaanaa ha.Nsaa zor se kyo.n zamaanaa
+allaa jaane maulaa jaane \-2
+chhe.Daa jo dil kaa \threedots
+
+mubaarak jahaa.N tujhako teraa uThaayaa faqiiro.n ne Deraa
+milegaa kahaa.N ab Thikaanaa allaa jaane maulaa jaane
+chhe.Daa jo dil kaa \threedots
+
+milaa kuchh na raastaa badal ke giraa vo chalaa jo sa.mbhal ke
+ye khel kitanaa puraanaa allaa jaane maulaa jaane
+chhe.Daa jo dil kaa \threedots
+
+bachaa saarii duniyaa se jo dil hu_aa apane tiiro.n se ghaayal
+pa.Daa kaisaa ulTaa nishaanaa allaa jaane maulaa jaane
+chhe.Daa jo dil kaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,27 @@
+%
+\startsong
+\stitle{duniyaa me.n kitanii hai.n nafarate.n ... zi.ndaa rahatii hai.n unakii mohabbate.n}%
+\film{Mohabbatein}%
+\year{2000}%
+\starring{Amitabh bachchan, Shahrukh Khan, Aishwarya Rai, Uday Chopda, Shamita Shetty, Jugal Hansraj, Kim Sharma, Jimmy Shergil, Priti Jhangiyani}%
+\singer{Udit Narayan, Jaspindar Narula, Udbhav, Manohar, Ishaan, Shveta, Sonali, Priya}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+duniyaa me.n kitanii hai.n nafarate.n
+phir bhii dilo.n me.n hai.n chaahate.n
+mar bhii jaa_e.n pyaar vaale
+miT bhii jaa_e.n yaar vaale
+zi.ndaa rahatii hai.n unakii mohabbate.n
+mar bhii jaa_e.n \threedots
+%
+#endindian
+\endsong
+

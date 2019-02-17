@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{manamohanaa ba.De jhuuThe}%
+\film{Seema}%
+\year{1955}%
+\starring{Nutan, Balraj Sahni, Shubha Khote, Sundar}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Sanjeev Rambhadran, K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+manamohanaa ba.De jhuuThe
+haar ke haar nahii.n maane
+manamohanaa   \threedots
+
+bane the khilaa.Dii piyaa
+nikale anaa.Dii piyaa
+mose beimaanii kare
+mujhase hii ruuThe
+manamohanaa   \threedots
+
+tumharii ye baa.Nsii kaanhaa
+banii galaa phaa.Nsii
+taan sunaake meraa
+tan man luuTe
+manamohanaa   \threedots
+
+%
+#endindian
+\endsong
+%

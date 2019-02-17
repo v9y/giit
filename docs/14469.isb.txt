@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{pal do pal kaa saath hamaaraa}%
+\film{The Burning Train}%
+\year{1980}%
+\starring{Dharmendra, Hema Malini, Vinod Khanna, Parveen Babi, Neetu Singh, Danny, Vinod Mehra, Jeetendra, Simi}%
+\singer{Rafi, Asha}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11613 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ra \:	pal do pal kaa saath hamaaraa pal do pal ke yaaraane hai.n
+	is ma.nzil pe milane vaale us ma.nzil par kho jaane hai.n
+	pal do pal kaa \threedots
+
+	nazaro.n ke shoK nazaare ho.nTho.n ke garm paimaane
+aa \:	hai.n aaj apanii mahafil me.n kal kyaa ho ko_ii kyaa jaane
+	ye pal Kushii kii jannat hai is pal me.n jii le diivaane
+	aaj kii Kushiyaa.N ek haqiiqat kal kii Kushiyaa.N afasaane hai.n
+	pal do pal kaa \threedots
+
+	har Kushii kuchh der kii mehamaan hai
+	puuraa kar le dil me.n jo aramaan hai
+ra \:	zindagii ik tez rau (?) isakaa jo piichhaa kare naadaan hai
+aa \:	gumashudaa Kushiyo.n par kyo.n hairaan hai
+	vaqt lauTe isakaa kab imtehaan hai
+ko \:	jhuum jab tak jhuum
+aa \:	jhuum jab tak dha.Dakano.n me.n jaan hai
+	jhuumanaa hii zindagii kii shaan hai
+ra \:	avval aaKir har ko_ii anajaan hai
+	zindagii bas raah kii pahachaan hai
+	dosto apanaa to ye iimaan hai
+	jo bhii jitanaa saath de ehasaan hai
+	umr kaa rishtaa jo.Dane vaale
+aa \:	apanii nazar me.n diivaane hai.n
+	pal do pal kaa \threedots
+%
+#endindian
+\endsong
+

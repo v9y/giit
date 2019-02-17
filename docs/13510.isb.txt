@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{maine jii liyaa mar liyaa prem kar liyaa ... jitanaa Daranaa thaa Dar liyaa}%
+\film{Prem}%
+\year{1995}%
+\starring{Sanjay Kapoor, Tabbu, Aruna Irani, Deepak Tijori, Dalip Tahil}%
+\singer{Alka Yagnik, Nalin Dev}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine jii liyaa mar liyaa prem kar liyaa
+jitanaa Daranaa thaa Dar liyaa prem kar liyaa
+prem kar liyaa \threedots
+
+har ek prem kahaanii me.n is dariyaa ke paanii me.n
+Duub ga_e naadaanii me.n kitane log javaanii me.n
+prem kaa hamako sahaaraa nahii.n lenaa tay kar liyaa
+prem kar liyaa \threedots
+
+duniyaa vaale kahate hai.n prem galii jo rahate hai.n
+dard hazaaro.n sahate hai.n aa.Nkh se aa.Nsuu bahate hai.n
+prem galii me.n hii rahane ko hamane ghar liyaa
+prem kar liyaa \threedots
+
+hai zaalim sa.nsaar kahaa.n raste hai.n diivaar kahaa.n
+aa_e hai.n majhadhaar kahaa.n kaaTe hai.n talavaar kahaa.n
+hamane aaj hathelii pe sar apanaa dhar liyaa
+prem kar liyaa \threedots
+%
+#endindian
+\endsong
+

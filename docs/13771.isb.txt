@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kitanaa pyaaraa tumhe.n rab ne banaayaa ... meraa yaaraa raajaa hindustaanii}%
+\film{Raajaa Hindustaani}%
+\year{1996}%
+\starring{Aamir, Karisma, Suresh Oberoi, Johny Lever, Navneet Nishan, Farida}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kitanaa pyaaraa tumhe.n rab ne banaayaa jii kare dekhataa rahuu.n
+tuu hai paagal tuu hai jokar tuu hai dilabarajaanii
+sabase pyaaraa meraa yaaraa raajaa hindustaanii
+o kitanaa pyaaraa tumhe.n \threedots
+
+ambar se aa_ii hai pariyo.n kii raanii dekh jise hotii hai sabako hairaanii
+sundar saa mukha.Daa hai phuulo.n ke jaisaa hogaa na duniyaa me.n ko_ii aisaa
+kitanaa siidhaa kitanaa sachchaa meraa raajaa kitanaa achchhaa
+mujhako to achchhii lagatii hai terii har naadaanii
+sabase pyaaraa meraa \threedots
+
+koyal ke jaisii hai terii ye bolii muurat ke jaisii hai suurat ye bholii
+baago.n me.n jaa_o na dil ye ghabaraa_e pairo.n me.n haay ko_ii kaa.NTaa na chubh jaa_e
+mai.n diivaanii ho na jaa_uu.n terii baato.n me.n kho na jaa_uu.n
+u.Dataa baadal bahataa paanii bole rut mastaanii
+kyaa
+sabase pyaaraa meraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,62 @@
+%
+\startsong
+\stitle{tuu mile dil khile aur jiine ko kyaa chaahiye}% 
+\film{Criminal}%
+\year{}%
+\starring{Nagarjuna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{M M Kreem}%
+\lyrics{Indeevar}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Comments: This song has been sung thrice in the movie. 
+% The first para is sung by Kumar Sanu in the Male and duet version
+% as the first para in both the songs
+% the second para is common to all the three songs. Alka sings it in the
+% duet version.
+% In the Female version of the song Alka has a new para which is given as 
+% third para here.
+% The english para is recited by Alka in duet.
+% And ofcourse Alka sings rahuu.Ngii and not rahuu.Ngaa
+%
+\printtitle 
+#indian 
+%
+tuu mile dil khile aur jiine ko kyaa chaahiye \- 2
+
+(naa ho tuu udaas tere paas paas mai.n rahuu.Ngaa zindagii bhar ) \- 2
+saare sa.nsaar kaa pyaar mai.n ne tujhii me.n paayaa
+tuu mile dil khile aur jiine ko kyaa chaahiye \- 2
+
+cha.Ndaa tujhe dekhane ko nikalaa karataa hai
+aainaa bhii o \threedots dIdaar ko tarasaa karataa hai
+itanii hasii.n koii nahii.n \- 2
+husna dono jahaa.N kaa ek tujhame simaT ke aayaa
+tuu mile dil khile aur jiine ko kyaa chaahiye
+##
+Darling, every breath you take, every move you make,
+I will be there.
+What will I do without you, I want to love you
+forever and ever and ever.
+##
+pyaar kabhii marataa nahii.n ham tuu marate hai.n
+hote hai.n vo log amar pyaar jo karate hai.n
+jitanii adaa utanii vafaa \- 2
+ik nazar pyaar se dekh lo phir se zindaa karado 
+tuu mile dil khile aur jiine ko kyaa chaahiye \- 2
+
+naa ho tuu udaas tere paas paas mai.n rahuu.Ngaa zindagii bhar \- 2
+saare sa.nsaar kaa pyaar maine tujhii me.n paayaa
+tuu mile dil khile aur jiine ko kyaa chaahiye \- 2
+
+## This para is for the female version sung by Alka as first para ##
+
+Gam hai kise ho sAraa jahaa.N chaahe dushmana ho
+kyaa chaahiye haatho.n me.n jo teraa daaman ho
+tuu hai jahaa.N manzil vahaa.N \- 2
+dha.Dakano.n kii tarah apane dil me.n mujhako chhupaa lo
+tU mile dil khile aur jiine ko kyaa chaahiye
+%
+#endindian
+\endsong
+%

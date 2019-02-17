@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{dil ye kyaa chiiz hai}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #12064 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+he
+dil ye kyaa chiiz hai
+aur dil tamannaa kyaa hai
+tiir par tiir chalaa le tujhe
+parawaa kyaa hai
+
+are terii qasam merii jaan
+
+tere tiiro.n me.n chhupe pyaar ke Kazaane hai.n \-2
+mere labo.n pe dekho aaj bhii taraane hai.n \-2
+Dan Dar Dan Dar Daa
+aa Dan Dar Dan Dar Daa
+
+aur ho.nge jinhe.n
+aaraam ke saamaan mile
+apanii kashtii ko to
+saahil pe bhii tuufaan mile
+
+ko \:	are ye giit pasand nahii.n yaar
+
+( na_iyaa puraanii hai
+tuufaan bhii puraane hai.n ) \-2
+
+mere labo.n pe dekho aaj bhii taraane hai.n \-2
+Dan Dar Dan Dar Daa
+Dar Dar Dan Dar Dan Dar rruu
+%
+#endindian
+\endsong

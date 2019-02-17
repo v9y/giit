@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tarase jiyaa barase piyaa}%
+\film{Veer Rajputani}%
+\year{1955}%
+\starring{Shakila, Manhar Desai}%
+\singer{Lata}%
+\music{Bulo C Rani}%
+\lyrics{G S Nepali}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date: April 4, 2002
+%
+\printtitle
+#indian
+%
+
+kaliyo.n kaa ruup milaa
+miTTii sii taqadiir
+mere pyaar ke saavan me.n baadaravaa bilanii
+baadaravaa bilanii
+tarase jiyaa barase piyaa nain dwaar (baar baar ?) re
+rut basant aaii nahii.n jaaye ? maas(baat ?) re
+tarase jiyaa barase piyaa nain dvaar re
+
+(jo hai mere dil me.n basaa, chaahataa vo hii na mujhe)\-2
+aasaraa koi na meraa, chain hai kahii.n na mujhe
+shaam Dhale, diyaa bujhe, bujh na sakii pyaas re
+rut basant aaii nahii.n jaaye maas re
+tarase jiyaa barase piyaa, nain dvaar re
+
+(pyaar karuu.N jiyuu.N\-maruu.N, mai.n kisii ke vaaste)\-2
+zi.ndagii me.n mil na sake husn mere raat se
+aaj chale baalii umar aa.Nsuo.n ke aas re
+tarase jiyaa barase piyaa nain dwaar re
+rut basant aaii nahii.n jaaye maas re
+tarase jiyaa barase piyaa nain dvaar re
+
+%
+#endindian
+\endsong
+%

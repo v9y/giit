@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{hai.n sabase madhur vo giit jinhe.n ham dard ke sur me.n gaate hai.n}%
+\film{Patita}%
+\starring{Dev Anand, Usha Kiran}%
+\singer{Talat}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+hai.n sabase madhur vo gIt jinhe.n, ham dad.r ke sur me.n gAte hai.n 
+jab had se guzar jAtI hai khushI, A.NsU bhI chhalakate aate hai.n 
+hai.n sabase madhur vo gIt
+
+(pahalU me.n paraaye dard basAke, ha.NsanA ha.NsAnA sIkh zaraa 
+tU ha.NsanA ha.NsaanA sIkh zaraa ) \- 2
+tUfAn se kah de ghir ke uThe, ham pyaar ke dIp jalaate hai.n 
+ham pyaar ke dIp jalaate hai.n
+hai.n sabase madhur vo gIt \threedots
+
+(kA.NTo.n me.n khile hai.n phUl hamaare, ra.ng bhare aramAno.n ke 
+ra.ng bhare aramaano.n ke ) \- 2
+nAdAn hai.n jo in kA.NTo.n se, daaman ko bachaaye jaate hai.n 
+daaman ko bachaaye jaate hai.n
+hai.n sabase madhur vo gIt \threedots
+
+(jab Gam kA andherA ghir aaye, samajho ke saverA dUr nahii.n 
+samajho ke saverA dUr nahI.n ) \- 2
+har rAt kI hai saugAt yahI, tAre bhI yahI doharAte hai.n
+tAre bhI yahI doharAte hai.n
+hai.n sabase madhur vo gIt \threedots
+%
+#endindian
+\endsong
+%

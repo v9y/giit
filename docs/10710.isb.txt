@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{mile mile do badan khile khile do chaman}%
+\film{Black Mail}%
+\year{1973}%
+\starring{Dharmendra, Rakhee, Shatrughan Sinha}%
+\singer{Kishor, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajindra Krishan}%
+%
+% Contributor: BOL ANAMOL #11212 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+do \:	( mile mile do badan khile khile do chaman
+	ye zindagii kam hii sahii ko_ii Gam nahii.n ) \-2
+
+la \:	der se aa_ii aa_ii to bahaar
+	a.ngaaro.n pe sokar jaagaa pyaar
+ki \:	( tuufaano.n me.n phuul khilaa_e ) \-2 kaisaa ye milan
+do \:	mile mile do badan \threedots
+
+ki \:	ho.nTh vahii hai.n hai vahii muskaan
+	ab tak kyo.n kar dabe rahe aramaan
+la \:	( biite dino.n ko bhuul hii jaa_e.N ) \-2 ab ham\-tum sajan
+do \:	mile mile do badan \threedots
+%
+#endindian
+\endsong
+

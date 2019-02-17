@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kasam kyaa hotii hai ... jo to.Dii naa jaa_e bichho.Dii naa paa_e}%
+\film{Qasam}%
+\year{1976}%
+\starring{Anil Kapoor, Poonam Dhillon, Kader Khan, Aruna Irani, Gulshan Grover}%
+\singer{Asha, Nitin Mukesh}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kasam kyaa hotii hai kasam vo hotii hai
+jo to.Dii naa jaa_e bichho.Dii naa paa_e
+kasam kyaa hotii hai \threedots
+
+yaar bichha.Dane lagate hai.n to rab kii aa.Nkh bhii rotii hai
+kasam kyaa hotii hai \threedots
+
+terii kasam luu.n hamase jo ruuThii jaa.n se guzar jaa_e.nge hii
+terii haa.N se jii uThe.nge naa se mar jaa_e.nge hii
+baat baat me.n kasam kyaa khaanaa kasam mazaak nahii.n hai
+kasam hai jitanii paak chiiz ko_ii utanii paak nahii.n hai
+dilo.n kaa sa.ngam hai ho kasam ga.ngaajal hai
+pyaar pe daag jo lag jaa_e to apane lahuu se dhotii hai
+kasam kyaa hotii hai \threedots
+
+dilo.n ke li_e zaruurii nahii.n hai duniyaa kii ma.nzuurii
+kasam pyaar kii nahii.n maanatii janmo.n kii bhii duurii
+tanhaa_ii ko mahakaatii hai yaado.n kii kastuurii
+kasam hai vo jo har haalat me.n kii jaatii hai puurii
+kasam ik giitaa hai kasam vo siitaa hai
+raajamahal ke chho.D ke sukh jo a.ngaaro.n pe sotii hai
+kasam kyaa hotii hai \threedots
+%
+#endindian
+\endsong
+

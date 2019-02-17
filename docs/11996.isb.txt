@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{jab ek la.Dakaa ek la.Dakii se ... ishq\-vishk pyaar\-vyaar}%
+\film{Ishq Vishk}%
+\year{2003}%
+\starring{Shahid, Amrita Rao, Shehnaz}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: BOL ANAMOL #11682 [V S Rawat]
+% Producer: TIPS Films, Kumar S Taurani, Ramesh S Taurani, Director: Ken Ghosh
+% Audio: Tips Industries Ltd, tipsmusicfilms.com
+% Cassette: Stereo TC-21834, Rs 42/-, CD: TCCD 7297/98, Cost: Rs 99/-
+%
+\printtitle
+#indian
+%
+ku \:	jab ek la.Dakaa ek la.Dakii se milataa hai pahalii baar \-2
+	to kyaa hotaa hai bolo yaar
+	ishq\-vishk pyaar\-vyaar \-4
+a \:	jab ek la.Dakii ek la.Dake se milatii hai pahalii baar \-2
+	to kyaa hotaa hai bolo yaar
+	ishq\-vishk pyaar\-vyaar \-4
+
+ku \:	dil hai diivaanaa dil kaa fasaanaa dil ne kahaa dil ne sunaa
+	ho dil sochataa hai dil chaahataa hai dil ne tujhe aashiq chunaa
+	ye dil karataa hai baar\-baar
+	ishq\-vishk pyaar\-vyaar \-4
+
+a \:	naa dard jaa_e naa nii.nd aa_e naa ek pal aa_e qaraar
+	ho naa hosh me.n ham naa hosh me.n tum naa jaane kyaa chhaayaa Kumaar
+	kar detaa hai kyo.n beqaraar
+	ishq\-vishk pyaar\-vyaar \-4
+
+ku \:	jab ek la.Dakaa ek la.Dakii se milataa hai pahalii baar
+a \:	jab ek la.Dakii ek la.Dake se milatii hai pahalii baar
+do \:	to kyaa hotaa hai bolo yaar
+ku \:	ishq\-vishk pyaar\-vyaar
+a \:	ishq\-vishk pyaar\-vyaar
+ku \:	ishq\-vishk pyaar\-vyaar
+a \:	ishq\-vishk pyaar\-vyaar
+%
+#endindian
+\endsong
+

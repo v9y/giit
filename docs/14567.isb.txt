@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tere mere pyaar kaa aisaa naataa hai}%
+\film{Virodhi}%
+\year{1992}%
+\starring{Sunil Dutt, Dharmendra, Anita Raj, Prem Chopra, Amjad, Roopa Ganguly}%
+\singer{Kumar Sanu, Mohammed Aziz, Kavita Kapoor}%
+\music{Annu Malik}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o o o o o o o
+( tere mere pyaar kaa aisaa naataa hai
+dekh ke terii suurat dil ko chain aataa hai ) \-3
+tere mere pyaar kaa \threedots
+
+mai.n dhaagaa tuu motii kii maalaa hai
+apane Kuun se sii.nch ke tujhako paalaa hai
+maine tere chehare me.n laxmaN ko dekhaa hai
+rakhiyo laaj merii tuu khii.nch ke laxmaN rekhaa
+merii bhaabhii mere sar pe karz hai teraa
+tum dono.n kii raxaa karanaa farz hai meraa
+jism jahaa.N jaa_e saayaa piichhe aataa hai
+dekh ke terii suurat \threedots
+
+tere raxak hai.n ye dono.n saath hai.n tere
+sadaa rahe.n jiivan kii Kushiyaa.N saath tere
+isii tarah ha.Nsate ha.Nsate jiivan biite
+isii jiivan ko lambii dau.D me.n tuu jiite
+apane in qadamo.n se alag nahii.n karanaa
+ta.Dap ta.Dap ke mar jaa_uu.Ngaa mai.n varanaa
+abhii salaamat huu.N tuu kyuu.N ghabaraataa hai
+dekh ke terii suurat \threedots
+%
+#endindian
+\endsong
+

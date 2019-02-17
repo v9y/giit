@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mu kaalaa mukaabalaa hogaa o lailaa}%
+\film{Sabse Badaa Khilaadi}%
+\year{1995}%
+\starring{Akshay Kumar, Mamta Kulkarni, Mohnish, Sadashiv, Gulshan}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Rajesh Roshan}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	mu kaalaa mukaabalaa hogaa o lailaa \-2
+	zaalim hasiinaa ba.Dii manachalii hai
+	par mai.n kyaa karuu.N terii mastii cha.Dhii hai
+	nii.nd u.Daa ke chain churaa_egaa_egaa teraa
+	mu kaalaa mukaabalaa \threedots
+
+a \:	( ba.Dii shokh cha.nchal hai merii tabiiyat
+	meraa jism hai sa.ng\-e\-maramar kii muurat
+ku \:	bahut Kuub hai terii zulfo.n kaa phandaa
+	kahaa.N u.D ke jaa_egaa ab ye parindaa
+	u.D nahii.n paa_egaa matavaalaa teraa chhailaa
+
+a \:	mu kaalaa mukaabalaa hogaa o chhailaa ) \-2
+	zaalim diivaanaa ba.Daa saraphiraa hai
+	u.ngalii paka.D ke ye sar pe cha.Dhaa hai
+	aag lagaa_uu.Ngii dam ghuT jaa_egaa teraa
+ku \:	mu kaalaa mukaabalaa \threedots
+
+a \:	( mujhe tuu bataa terii kyaa hai tamannaa
+	tujhe ishq ne kar diyaa hai nikammaa
+ku \:	mujhe tuune luuTaa hai nazare.n la.Daake
+	ba.Dii Kush hai suulii pe mujhako cha.Dhaa ke ) \-2
+	haay mar jaa_egaa matavaalaa teraa chhailaa
+	mu kaalaa mukaabalaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ghir ghir aaye badaravaa kaare}%
+\film{Dak Babu}%
+\year{1954}%
+\starring{Nadira, Talat Mahmood}%
+\singer{Talat, Suman Kalyanpur}%
+\music{Pt. Dhaniram}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Neha Desai
+% Editor:
+%
+\printtitle
+#indian
+%
+ghir ghir aaye badaravaa kaare
+
+chaaro.n or hai khushii kaa melaa
+rahaa naa jaaye aaj akelaa
+baar baar meraa man suunaa
+kisako aaj pukaare
+ghir ghir aaye badaravaa kaare   \threedots
+
+chalii nashe me.n chuur havaa_e.n
+mastii se bhar_puur havaa_e.n
+machal machal kar bijalii chamake
+jyo.n nainaa matavaare
+ghir ghir aaye badaravaa kaare   \threedots
+
+%
+#endindian
+\endsong
+%

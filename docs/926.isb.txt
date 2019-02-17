@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kaanhaa bole naa, kaanhaa bole naa}%
+\film{Sangat}%
+\year{1975}%
+\starring{Om Prakash, Rakesh PAnde, Kajari}%
+\singer{Lata, Manna De}%
+\music{Salil Choudhary}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kaanhaa bole naa, kaanhaa bole naa
+puuchhuu.N baar baar kaanhaa bole naa
+kyaa hai priit kyaa hai pyaar kaanhaa bole naa
+
+ban ke jyotii man me.n jhaa.nke
+yuu.N nayan nayan Dole aake
+maanuu.N barase suurajavaa jamunaa kii dhaar
+pyaasaa man phir bhii pyaasaa rah jaae
+dekhe naahii.n nayanaa priye khole naa, kaanhaa \threedots
+
+mohan to man laharii re
+morii pii.Daa bha_ii gaharii gaharii re
+banake sunii sunii sapane soe soe
+laage bainaa ye nainaa re khoe khoe
+aiso bedardii, jaraa Dole naa, puuchhuu.N \threedots
+
+tan soe man jaage re
+miiThii miiThii agan koI laage re
+boluu.N chorii chorii man kii batiyaa.N torii
+kaahe jaane naa maane naa priitam morii
+kah re haarii mai.n, moraa ho le naa, puuchhuu.N \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{merii aan bhagavaan kaN kaN se la.Dii hai}%
+\film{Toofan Aur Deeyaa}%
+\year{1956}%
+\starring{Satish Vyas,  Nanda, Rajendra Kumar,  Vatsala, Shanta Kumari, Ulhas}%
+\singer{Geeta}%
+\music{Vasant Desai}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10053 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( merii aan bhagavaan ) \-2 kaN kaN se la.Dii hai jo
+tujhase bhii aaj la.Degii
+merii baat tumhe.n rakhanii pa.Degii
+merii aan bhagavaan
+
+dekh apano.n kaa dukh jo chhipaa_oge mukh
+isase aapas kii raar ba.Dhegii
+merii baat tumhe.n rakhanii pa.Degii
+merii aan bhagavaan \threedots
+
+hamane to sunaa hai ba.Do.n ke mukh se
+apane baalako.n se tumako bhii pyaar hai
+phir kyo.n bhuulate ho sabake pitaa
+kuchh hamaaraa bhii tumape adhikaar hai
+la.Dakha.Daate hai.n paa.Nv aur dekh rahe tum
+kyaa ye nayyaa bha.nvar me.n a.Degii
+merii baat tumhe.n rakhanii pa.Degii
+merii aan bhagavaan \threedots
+
+merii palako.n kaa to.D kinaaraa
+lagii bahane aa.Nsu_o.n kii dhaaraa
+terii dharatii bahegii teraa ambar bahegaa
+bah jaa_egaa aasan tumhaaraa
+merii sun ke bhagavaan jo diyaa nahii.n dhyaan
+to jabaan merii zid pe cha.Dhegii
+merii baat tumhe.n rakhanii pa.Degii
+merii aan bhagavaan \threedots
+%
+#endindian
+\endsong
+

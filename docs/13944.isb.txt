@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mastaanaa alabelaa sirf ek tuu hai laakho.n me.n akelaa}%
+\film{Shararat}%
+\year{2001}%
+\starring{Abhishek Bachchan, Hrishita Bhatt, Amrish Puri, Om Puri}%
+\singer{Hariharan, Arvindar Singh, Sauud Khan, Mohitosh, Upendra Sharma, Sarfaraz Khan, Sanjivani Bhelende, Shraddha Pandit, Sneha Pant, Vajid Khan}%
+\music{Sajid Wajid}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mastaanaa alabelaa sirf ek tuu hai laakho.n me.n akelaa
+hamako aisaa lagaa jab hame.n tuu milaa
+surama_ii raat me.n chaa.Nd jaise khilaa
+tere chaaro.n taraf hai lagaa sitaaro.n kaa ye melaa
+
+bholaa hai saadaa hai tuu ko_ii shahazaadaa hai
+ham tujhako chaahe.nge apanaa to ye vaadaa hai
+Gam ho chaahe.n khushii kah rahii zi.ndagii
+tujhape qurabaan hai apanii jaa.n
+diivaane muskuraa de
+
+aa.Nkho.n me.n sapane hai.n anjaanii ye raate.n hai.n
+tumase vo kahanii hai.n is dil me.n jo baate.n hai.n
+tuu sharaarat kare hamase jhaga.Daa kare
+phir bhii ham to tujhe apanaa maane.n
+ye raaz tuu naa jaane
+
+lambii umar kii ham tujhako du_aa_e.n de.n
+chuume.n teraa maathaa terii balaa_e.n le.n
+mamataa ke aa.Nchal me.n tujhako sulaa_e.nge
+tujhase to hai ko_ii naataa
+lage tuu hame.n pyaaraa tuu sabase hai nyaaraa
+hamaaraa tuu sahaaraa
+mastaanaa alabelaa \threedots
+%
+#endindian
+\endsong
+

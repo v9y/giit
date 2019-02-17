@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{shaadii ke liye razaama.nd kar lii, razaama.nd kar lii}% 
+\film{Devi}%
+\year{1970}%
+\starring{Sanjeev Kumar, Nutan}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: rathore@ece.rutgers.edu (Mohan Rathore)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+shaadii ke liye razaama.nd kar lii, razaama.nd kar lii
+mai.n ne ik la.Dakii pasa.nd kar lii
+o u.Datii chi.Diyaa pi.njare me.n ba.nd kar lii 
+u.Datii chi.Diyaa pi.njare me.n ba.nd kar lii 
+maine ik \threedots
+
+merii nazaro.n ne husna kii, nAzuk bahaaro.n ko chhuu liyaa
+naaz hai mujhako taqadiir par, maine sitaaro.n ko chhuu liyaa
+maine to qismat,  maine to qismat bula.nd kar lii
+maine ik \threedots
+
+banake bha.nvaraa ab baag me.n, kaliyo.n ke pichhe nahii.n bhaagU.ngaa mai.n
+saa.njh\-savere bas aaj se, galiyo.n me.n ab nahii jhaa.Nkuu.ngaa mai.n
+naino.n kii khi.Dakii, naino.n kii khi.DakI maine band kar lii
+maine ik \threedots
+%
+#endindian
+\endsong
+%

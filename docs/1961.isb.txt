@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{yahii vo jagah hai, yahii vo fizaa hai}%
+\film{Ye Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Prithviraj Kapoor, Biswajeet, Sharmila Tagore, Mumtaz}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+%
+% Contributor:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yahii vo jagah hai, yahii vo fizaa hai
+yahI.n par kabhI Ap hamase mile the
+inhe.n ham bhalA kis tarah bhUl jAye.n
+yahI.n par kabhI Ap hamase mile the
+yahi vo jagah hai \threedots
+
+yahI.n par merA hAth, hAtho.n me.n lekar
+kabhI nA bichha.Dane kA, vAdA kiyA thA
+sadA ke liye ho gae ham tumhAre
+gale se lagA kar hame.n ye kahA thA
+kabhI kam nA ho.ngI hamArI vafAe.n
+yahI.n par kabhI Ap hamase mile the
+yahi vo jagah hai \threedots
+
+yahI.n par vafA kA, nayA ra.ng bhar ke
+banAI thI chAhat kI, tasavIr tumane
+yahI.n kI bahAro.n se, phUlo.n ko chun kar
+sa.nvArI thI ulafat kI, taqadIr tumane
+vo dil Apako yAd kaise dilAye
+yahI.n par kabhI Ap hamase mile the
+yahi vo jagah hai \threedots
+%
+#endindian
+\endsong
+%

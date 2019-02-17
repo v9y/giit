@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye dharatii ye ambar jab se teraa meraa prem hai tab se}%
+\film{Prem}%
+\year{1995}%
+\starring{Sanjay Kapoor, Tabbu, Aruna Irani, Deepak Tijori, Dalip Tahil}%
+\singer{Alka Yagnik, Nalin Dev}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye dharatii ye ambar jab se
+teraa meraa prem hai tab se
+diip ne maa.ngii thii jab jyotii
+siip ne maa.ngaa thaa jab motii
+maine maa.ng liyaa tujhe rab se
+teraa meraa prem hai \threedots
+
+sadiyo.n puraanaa saaraa zamaanaa
+saare zamaane se bhii puraanaa
+prem hamaaraa puuchh le sabase
+teraa meraa prem hai \threedots
+
+ham do pa.nchhii mast havaa_e.n
+chal pi.njaraa le ke u.D jaa_e.n
+duur kahii.n jaa baiThe.n sab se
+teraa meraa prem hai \threedots
+%
+#endindian
+\endsong
+
+

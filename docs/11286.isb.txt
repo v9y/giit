@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{churaa le naa tumako ye mausam suhaanaa}%
+\film{Dil Hi To Hai}%
+\year{1963}%
+\starring{Raj Kapoor, Nutan, Pran}%
+\singer{Mukesh, Suman}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10498 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	churaa le naa tumako ye mausam suhaanaa
+	khulii vaadiyo.n me.n akelii na jaanaa \-2
+la \:	lubhaataa hai mujhako ye mausam suhaanaa
+	mai.n jaa_uu.Ngii tum mere piichhe na aanaa \-2
+
+mu \:	lipaT jaa_egaa ko_ii  bebaak jho.nkaa
+	javaanii kii rau me.n naa aa.Nchal u.Daanaa
+la \:	mere vaaste tum pareshaa.n na honaa
+	mujhe Kuub aataa hai daaman bachaanaa \-2
+	mai.n jaa_uu.Ngii tum \threedots
+
+mu \:	ghaTaa bhii kabhii chuum letii hai cheharaa
+	samajh soch kar ruK se zulfe.n haTaanaa
+la \:	ghaTaa mere nazadiik aakar to dekhe
+	in aa.Nkho.n ne siikhaa hai bijalii giraanaa \-2
+
+mu \:	tum ek phuul ho tumako Dhuu.NDhuu.Ngaa kaise
+	kahii.n mil ke phuulo.n me.n gum ho na jaanaa
+la \:	jo phuulo.n me.n ra.ngat mile bhii to kyaa hai
+	judaa merii Kushbuu judaa muskuraanaa \-2
+	mai.n jaa_uu.Ngii tum \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{pyaare darashan dii jo aaj}%
+\film{Jogan}%
+\year{1950}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Geeta}%
+\music{Bulo C Rani}%
+\lyrics{Meerabai}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 16, 2001
+%
+\printitle
+#indian
+%
+
+pyaare darashan dii jo aa_e 
+tum bin raho na jaa_e
+
+jal bin kamal cha.ndra bin rajanii
+aise tum bin suunii sajanii
+aakul byaakul phiruu.N mai.n birahan
+biraha kalejo khaa_e
+pyaare darashan dii jo aa_e \threedots
+
+kyo.n tarasaa_o antarayaamii
+aan milo kR^ipaa karo swaamii
+miiraa daasii janm janm kii 
+pa.Dii tumhaarii paa_e.N
+
+%
+#endindian
+\endsong
+%

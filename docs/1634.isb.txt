@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{simaTii sii sharamaa_ii sii, kis duniyaa se tum aaii ho}%
+\film{Parwaana}%
+\year{1971}%
+\starring{Amitabh Bachchan, Navin Nischol, Yogita Bali}%
+\singer{Kishore}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          (partha@waves.berkeley.edu)
+% 	   Arun Verma (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+simaTii sii sharamaaii sii, kis duniyaa se tum aaii ho
+kaise jahaa.N me.n samaayegaa, itanaa husn jo laaii ho
+simaTii sii\threedots
+
+jab tak tumhe dekhaa nahii.n, ye dil kabhii dhaDakaa nahii.n
+aaye gaye kitane sanam mai.nne magar puujaa nahii.n
+tum dil kii pahalii a.nga.Daaii ho \- (2)
+simaTii sii\threedots
+
+aa.Nkhe.n milii vaadaa huaa, kuchh kah diyaa, kuchh sun liyaa
+Thahare kahaa.N betaab dil, kaise mile apanaa pataa
+zulfo.n kii badalii jab chhaaii ho \- (2)
+simaTii sii\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{dil hai ki maanataa nahii.n ... mushkil ba.Dii hai rasme.n mohabbat}%
+\film{Dil Hai Ki Maantaa Naheen}%
+\year{1991}%
+\starring{Aamir Khan, Pooja Bhat}%
+\singer{Anuradha Paudwal, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil hai ki maanataa nahii.n \-2
+mushkil ba.Dii hai rasm\-e\-mohabbat ye jaanataa hii nahii.n
+dil hai ki maanataa \threedots
+
+ye bekaraarii kyuu.n ho rahii hai ye jaanataa hii nahii.n
+dil hai ki maanataa \threedots
+
+dil to ye chaahe har pal tumhe.n ham bas yuu.n hii dekhaa kare.n
+mar ke bhii ham naa tumase judaa ho.n aa_o kuchh aisaa kare.n
+mujh me.n samaa jaa aa paas aa jaa hamadam mere hamanashii.n
+dil hai ki maanataa \threedots
+
+terii vafaa_e.n terii muhabbat sab kuchh hai mere li_e
+tuune diyaa hai nazaraanaa dil kaa ham to hai.n tere li_e
+ye baat sach hai sab jaanate hai.n tumako bhii hai ye yaqii.n
+dil hai ki maanataa \threedots
+
+ham to mohabbat karate hai.n tumase hamako hai bas itanii khabar
+tanhaa hamaaraa mushqil thaa jiinaa tum jo na milate agar
+betaab saa.Nse.n bechain aa.Nkhe.n kahane lagii.n bas yahii
+dil hai ki maanataa \threedots
+%
+#endindian
+\endsong
+

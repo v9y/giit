@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jaan\-e\-dil jaan\-e\-tamannaa kaun hai}%
+\film{Mahtab (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Habib Jamal}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+jaan\-e\-dil jaan\-e\-tamannaa kaun hai
+tumase achchhaa tumase pyaaraa kaun hai
+
+ham tumhaare tum kisii ke ho gaye
+ham nahii.n samajhe hamaaraa kaun hai
+
+ba.ndaa\-parawar aap hii faramaa_iye
+ham bure Thahare to achchhaa kaun hai
+
+is tamaashaa\-gaah\-e\-aalam me.n 'jamaal'
+faisalaa kiije tamaashaa kaun hai
+
+dekhanaa dil kii sadaa_e.n to nahii.n
+is Kamoshii me.n ye goyaa kaun hai
+
+#endindian
+\endsong

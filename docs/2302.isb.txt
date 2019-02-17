@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{diivaane kaa naam to puuchho}%
+\film{An Evening In Paris}%
+\year{1967}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+diivaane kaa naam to puuuchho
+pyaar se dekho, kaam to puuchho
+are chaahe phir na milanaa, chaahe phir na milanaa
+
+gussaa chho.Do, baat to maano
+is bande ko apanaa jaano
+duur se dhokhaa ho sakataa thaa
+paas huu.N mai.n ab to pahachaano
+diivaane kaa naam to puuchho   \threedots
+
+haT gayaa aakhir bharam kaa saayaa
+ab samajhaa mai.n ab yaad aayaa
+Kvaab me.n tumako, aqsar dekhaa
+aaj mudassim saamane aayaa
+diivaan kaa naam to puuchho   \threedots
+
+ye pairis kii shaam suhaanii
+pyaar kii nagarii, ruup kii raanii
+chhi.D ke rahegaa koii afasaanaa
+ban ke rahegii koii kahaanii
+diivaane kaa naam to puuchho   \threedots
+%
+#endindian
+\endsong
+%

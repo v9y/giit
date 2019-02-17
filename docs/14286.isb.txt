@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{chaahaa maine chaahaa bas tujhii ko maine chaahaa}%
+\film{Supari}%
+\year{2003}%
+\starring{Uday Chopra, Rahul Dev, Aakash Saigal, Purab Kohli, Nandita Das}%
+\singer{Sunidhi Chauhan, Shekhar}%
+\music{Vishal-Shekhar}%
+\lyrics{Vishal}%
+%
+% Contributor: BOL ANAMOL #11689 [V S Rawat]
+% Producer & Director: Aum Creates Unlimited, Padam Kumar
+% Audio: Saregama India Ltd
+% Cassette: NHF 810559 Digital, Rs 55/-, CD: , Cost: Rs 125/-
+% site: www.whatissupari.com
+% 
+\printtitle
+#indian
+%
+su \:	( chaahaa maine chaahaa bas tujhii ko maine chaahaa
+	tujhako chaah kar hii zindagii ko maine chaahaa
+	baadal ne gagan ko phuul ne chaman ko chaahaa
+	jaise mere dil ne sanam tere man ko chaahaa ) \-2
+
+	( kyaa kahuu.N kyaa karuu.N kyaa bataa_uu.N
+	kaise dil ki sadaa mai.n sunaa_uu.N ) \-2
+	kaise kah duu.N mai.n tujhase ke jis pal me.n paayaa thaa
+	terii muskuraahaT ko usii pal me.n chaahaa
+	chaahaa maine chaahaa \threedots tere man ko chaahaa
+
+	aa aa aa aa
+
+she \:	( kho gayaa ho gayaa mai.n diivaanaa
+	jab se dil ne sanam tumako jaanaa ) \-2
+	tab se tum hii chaahat ho tum hii to mohabbat ho
+	zindagii kaa har lamhaa jise maine chaahaa
+
+	chaahaa maine chaahaa bas tujhii ko maine chaahaa
+su \:	tujhako chaah kar hii zindagii ko maine chaahaa
+do \:	baadal ne gagan ko phuul ne chaman ko chaahaa
+	jaise mere dil ne sanam tere man ko chaahaa
+
+su \:	chaahaa maine chaahaa bas tujhii ko maine chaahaa
+she \:	tujhako chaah kar hii zindagii ko maine chaahaa
+do \:	baadal ne gagan ko phuul ne chaman ko chaahaa
+	jaise mere dil ne sanam tere man ko chaahaa
+%
+#endindian
+\endsong
+

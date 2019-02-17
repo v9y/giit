@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{chaa.Nd saa cheharaa jhiil sii aa.Nkhe.n ... aasamaa.n me.n is jahaa.n me.n}%
+\film{Ajay}%
+\year{1996}%
+\starring{Sunny, Karisma, Suresh Oberoi, Farida Jalal, Reena Roy, Mohnish}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Nd saa cheharaa jhiil sii aa.Nkhe.n reshamii zulfe.n dekh rahaa huu.N
+aapakaa ha.Nsanaa aapakaa chalanaa ra.ng badalanaa dekh rahaa huu.N
+aasamaa.n me.n is jahaa.n me.n aap jaisaa ko_ii nahii.n hai
+aasamaa.n me.n is jahaa.n me.n \threedots
+
+tum to fizaa_o.n me.n baadal u.Daa_o aa_e.n bahaaro.n ke din
+bal khaa ke guzaro tum to fizaa me.n aa_e.n nazaaro.n ke din
+haa.N mausam kahuu.n yaa khushbuu kahuu.n mastii kahuu.n yaa jaaduu kahuu.n
+aapakaa aanaa aapakaa jaanaa dil churaanaa dekh rahaa huu.N
+aasamaa.n me.n is jahaa.n me.n \threedots
+
+tum ho nazar kii pahalii tamannaa tumako nahii.n hai pataa hai
+ho chaaho jise tum aashiq banaa lo aisii tumhaarii adaa hai
+paagal hu_aa mai.n jaan\-e\-vafaa ghaayal hu_aa mai.n pahalii dafaa
+aapakii paayal aapakaa kaajal uf ye aa.nchal dekh rahaa huu.N
+aasamaa.n me.n is jahaa.n me.n \threedots
+%
+#endindian
+\endsong
+

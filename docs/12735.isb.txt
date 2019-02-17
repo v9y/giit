@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{##l o v e love, love## kaa matalab hai pyaar}%
+\film{Love In Simla}%
+\year{1960}%
+\starring{Joy Mukherji, Sadhana, Azra, Kishor Sahu, Shobhana Samarth}%
+\singer{Rafi, Asha}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10248 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Iqbal Qureshi, Joy Mukherji and Sadhana
+% 
+\printtitle
+#indian
+%
+##l o v e love, love## kaa matalab hai pyaar
+pyaar dilo.n kaa qaraar \-2
+
+baat ek nazar kii khel ek adaa kaa
+gul khilaane vaalaa pyaar jho.nkaa havaa kaa
+dil milaakar dil se dekho kyaa hai ra.ng\-e\-bahaar \-2 
+##love## kaa matalab hai \threedots
+
+ek ha.Nsii ho.nTho.n pe ik hayaa aa.Nkho.n me.n
+jo vafaa na ho to ye dil do gha.Dii kaa khumaar
+##love## kaa matalab hai \threedots
+
+Kuubasuurat baate.n aur khud bhii hasii.n ho
+tum bhii saare jahaa.N me.n kisii se kam nahii.n ho
+husn dhokhaa aa.Nkh kaa hai aise dhokhe hazaar \-2
+##love## kaa matalab hai \threedots
+%
+#endindian
+\endsong
+

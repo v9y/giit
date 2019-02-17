@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{ek ba.Ngalaa bane nyaaraa}%
+\film{President}%
+\year{1937}%
+\starring{K L Saigal, Leela Desai, Kamlesh Kumari}%
+\singer{Saigal}%
+\music{R C Boral}%
+\lyrics{}%
+% 
+% Contributor: Ajay P Nerurkar <apn@cs.buffalo.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Credits : Neha Desai
+% Date: 02/20/1997
+%
+\printtitle
+#indian
+%
+ek ba.Ngalaa bane nyaaraa
+rahe kumba jis me.n saaraa
+
+sone kaa ba.Ngalaa, cha.ndan kaa ja.Ngalaa
+vishvakarmaa ke dvaare
+ati sundar pyaaraa pyaaraa
+ek ba.Ngalaa \threedots
+
+itanaa uu.Nchaa ba.Ngalaa ho ye
+maano gagan kaa taaraa 	\- 3
+jis pe cha.Dh ke i.ndradhanushh par
+jhuulaa jhuule chaa.Nd hamaaraa
+bha.nDaar hoye lachhamii ke haatho.n me.n saaraa
+paae ab jii bhar ke sukh jisane bipat uThaaii
+%
+#endindian
+\endsong
+%
+

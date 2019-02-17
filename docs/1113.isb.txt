@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{mai.n kyaa jaanuu.N kyaa jaaduu hai}%
+\film{Zindagi}%
+\year{1940}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{Pankaj Mullick}%
+\lyrics{}%
+%
+% Contributor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+mai.n kyaa jaanuu.N kyaa (jaaduu hai \- 3) \- 2
+in do matavAle naino.n me.n (jaaduu hai \- 3)
+mai.n kyaa jaanuu.N \threedots
+
+ek ek athAh sAgar sA hai \- 2
+in do matavAle naino.n me.n (jAdU hai \- 3)
+mai.n kyaa jaanuu.N \threedots
+
+(man pUchh rahA hai ab mujhase
+naino.n ne kahA hai kyA tujhase ) \- 2
+jab nain mile (naino.n ne kahA \- 2)
+jab nain mile naino.n ne kahA
+ab nain base ke naino.n me.n
+mai.n kyaa jaanuu.N \threedots
+%
+#endindian
+\endsong
+%

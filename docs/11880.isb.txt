@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{ham jab chale.n to ye jahaa.N jhuume}%
+\film{Hum Hindustani}%
+\year{1960}%
+\starring{Sunil Dutt, Asha Parekh, Joy Mukherjee}%
+\singer{Rafi}%
+\music{Usha Khanna}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10465 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ham jab chale.n to ye jahaan.N jhuume
+aarazuu hamaarii aasamaa.N ko chuume
+o ho ho ham jab chale.n \threedots
+
+ham na_e jahaan ke paasabaa.N
+ham na_ii bahaar ke raazadaa.N
+ham ha.Nse.n to ha.Ns pa.De har kalii
+ham chale.n to chal pa.De zindagii
+saare nazaaro.n me.n phuulo.n me.n taaro.n me.n
+hamane hii jaaduu bharaa
+ham jab chale.n \threedots
+
+hamase hai fizaa_o.n me.n ra.ng\-o\-buu
+hamase hai is zamii.n kii aabaruu
+nadiyo.n kii raaginii hamase hai
+har taraf ye taazaGii hamase hai
+saare nazaaro.n me.n \threedots
+
+duur ho ga_ii.n sabhii mushkile.n
+khi.nch ke paas aa ga_ii.n ma.nzile.n
+dekhakar shabaab ke hausale
+khud\-ba\-khud simaT ga_e faasale
+saare nazaaro.n me.n \threedots
+%
+#endindian
+\endsong
+

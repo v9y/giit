@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{kuchh sher sunaataa huu.N mai.n}% 
+\film{Ek Dil Sau Afsaane}%
+\year{1963}%
+\starring{Waheeda Rahman, Raj Kapoor}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  Preeti Ranjan Panda (ppanda@ics.uci.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : mukhAtib = directed at
+%            pashemaan = sharmindaa
+%            loch = sweetness
+\printtitle 
+#indian
+%
+
+kuchh sher sunaataa huu.N mai.n 
+jo tujhase mukhAtib hai
+ik husn parii dil me.n hai, ye unase mukhAtib hai 
+kuchh sher sunaataa huu.N me.n \threedots 
+
+sIkhii hai tumase phuul ne, ha.Nsane kii har adA 
+sIkhii havaa ne tumase hii, chalane kii har adA 
+aa_iinaa tumako dekh ke, hairaan ho gayaa 
+ik bezubaan tumase, pashemaan ho gayaa 
+kitanii bhI taarIf karuu.N, rukatii nahii.n zubaan 
+rukatI nahii.n zubaan 
+kuchh sher sunaataa huu.N mai.n \threedots
+
+hAtho.n kI loch ras bharii shaakho.n kii daastaa.n 
+naazuk hatheliyo.n pe vo, meha.ndii kA gulsitaa.N 
+pa.D jAye tumape dhuup to, sa.nvalaaye goraa tan 
+makhamal pe tum chalo to, chhile paao.n gulabadan 
+kitanii bhI taarIf karuu.N, rukatii nahii.n zubaan 
+rukatii nahii.n zubaan 
+kuchh sher sunaataa huu.N mai.n \threedots 
+
+aa.Nkhe.n agar jhuke.n to, mohabbat machal uThe 
+nazare.n agar uThe.n to, qayaamat machal uThe 
+a.ndaaz mai.n huzuur kA, saanii nahii.n koI 
+dono.n jahaan me.n aisI, javAnI nahii.n koI 
+kitanii bhI taarIf karuu.N, rukatii nahii.n zubaan 
+rukatii nahii.n zubaan 
+kuchh sher sunaataa huu.N mai.n \threedots
+
+%
+#endindian
+\endsong
+%

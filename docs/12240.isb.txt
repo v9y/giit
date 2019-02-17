@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{bhuul gayaa sab kuchh yaad nahii.n ab kuchh}%
+\film{Julee}%
+\year{1975}%
+\starring{Vikram, Lakshmi}%
+\singer{Lata, Kishor}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10410 [V S Rawat], Surma Bhopali
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	bhuul gayaa sab kuchh uu.n
+	bhuul gayaa sab kuchh yaad nahii.n ab kuchh
+la \:	ho ho uu.N huu.N
+ki \:	he he ik yahii baat na bhuulii
+	##Julie##
+la \:	aa aa aa aa aa
+ki \:	##I love you##
+la \:	aa aa aa aa aa aa aa
+
+la \:	bhuul ga_ii sab kuchh yaad nahii.n ab kuchh
+	o ho uu.N huu.N o ho
+	ik yahii baat na bhuulii
+	##Julie##
+	aa aa aa aa
+	##Julie loves you##
+	aa aa aa aa
+
+	aa aa aa
+
+ki \:	itanaa bhii duur mat jaa_o ke paas aanaa mushkil ho
+la \:	ho o itanaa bhii paas mat aa_o ke duur jaanaa mushkil ho
+	jaane bhii do kahaa maano meraa
+ki \:	aisaa lagaa badan chhuu ke teraa
+	ko_ii chingaarii chhuu lii
+	##Julie##
+la \:	aa aa aa aa aa
+ki \:	##I love you##
+la \:	aa aa aa aa aa
+
+ki \:	aisaa na ho ta.Dap\-ta.Dap ke ye pyaar pyaasaa mar jaa_e
+la \:	ho o aisaa naa ho ham dono.n ko ye shaam rusavaa kar jaa_e
+ki \:	achchhaa to mai.n ye zid chho.D duu.N bolo.n
+la \:	achchhaa mai.n ye kasam to.D duu.N bolo
+	baat hai ye maamuulii
+	##Julie##
+	aa aa aa 
+	##Julie loves you##
+	aa aa aa 
+ki \:	bhuul gayaa sab kuchh \threedots
+%
+#endindian
+\endsong
+

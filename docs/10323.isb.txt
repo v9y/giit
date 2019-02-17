@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{hogaa tumase kal bhii saamanaa kal to jaanoge}%
+\film{An Evening In Paris}%
+\year{1967}%
+\starring{Shammi Kapoor, Sharmila Tagore}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11044 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+hogaa tumase kal bhii saamanaa kal to jaanoge
+dilavaalaa naachiiz hai ko_ii tab to maanoge
+
+mausam hai pyaar kaa ye samaa.N mere saath hai
+ma.nzil hai merii gha.Dii do gha.Dii kii ye baat hai
+laa laa laa laa
+hogaa tumase kal \threedots
+
+aate ho jaate ho mere Kyaalo.n me.n tum sadaa
+banate ho kyo.n ajanabii ye bhii kyaa hai ko_ii adaa
+laa laa laa laa
+hogaa tumase kal \threedots
+
+raaho.n me.n milatii ho chaahe jidhar se jaa_uu.N mai.n
+behatar hai ghar pe bulaalo bataa do kab aa_uu.N mai.n
+laa laa laa laa
+hogaa tumase kal \threedots
+%
+#endindian
+\endsong
+

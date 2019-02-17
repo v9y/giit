@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mere hamanafas, mere hamanavaa, mujhe dost ban ke}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Begum Akhtar}%
+\music{}%
+\lyrics{Shakeel}%
+%
+% Contributor: Mohd. Irfan / Umang Bali
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+% Glossary : [jaanbalab = death, dead]
+%            [chaaraaGar = physician]
+%            [navaazish-e-muqtasar = brief ministrations]
+%            [hazm = flight]
+%            [hom-o-subuu = offering in a wine cup]
+%            [bazm = gathering]
+\printtitle
+#indian
+%
+mere hamanafas, mere hamanavaa, mujhe dost ban ke daGaa na de
+mai.n huu.N dad.r\-e\-ishq se jaa.N\-b\-lab, mujhe zi.ndagii kii duaa na de
+
+mere daaG\-e\-dil se hai raushanii, us raushanii se hai zi.ndagii
+mujhe Dar hai ai mere chaaraaGar, ye charaaG tuu hii bujhaa na de
+
+mujhe chho.D de mere haal par, teraa kyaa bharosaa hai chaaraaGar
+ye terii navaazish\-e\-muqtasar, mera dad.r aur ba.Dhaa na de
+
+meraa hazm itanaa buland hai ki paraaye sholo.n kaa Dar nahii.n
+mujhe Kauf aatish\-e\-gul se hai, ye kahii.n chaman ko jalaa na de
+
+vo uThe hai.n leke hom\-o\-subuu, are o shaqiil kahaa.N hai tuu
+teraa jaam lene ko bazm me.n koi aur haath ba.Dhaa na de
+%
+#endindian
+\endsong
+%

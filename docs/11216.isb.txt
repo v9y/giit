@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{teraa meraa pyaar ko_ii aaj kal kii to baat nahii.n}%
+\film{Daada}%
+\year{1966}%
+\starring{Dara Singh, Jayanti, Savita, Sudhir, Tiwari, Helen, Mohan Choti}%
+\singer{Mukesh, Usha Khanna}%
+\music{Usha Khanna}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10451 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	teraa meraa pyaar ko_ii aaj kal kii to baat nahii.n
+	teraa meraa saath ko_ii chaar din kaa to saath nahii.n
+	hameshaa se hai aur hameshaa rahegaa \-2
+
+	sun ai hasiinaa haatho.n se mere daaman ko chhu.Daanaa achchhaa nahii.n hai
+	naazuk labo.n ko daa.Nto.n ke niiche aise dabaanaa achchhaa nahii.n hai
+	teraa meraa pyaar ko_ii \threedots
+
+	aaKir pasiinaa maathe pe kyo.n hai kyo.n kaa.Npate hai.n palaqo.n ke saa_e
+	cha.nchal javaanii Kaamosh kyo.n hai kyaa sochatii hai garadan jhukaa_e
+	teraa meraa pyaar ko_ii \threedots
+
+do \:	hameshaa se hai aur hameshaa rahegaa
+	teraa meraa pyaar ko_ii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pii ke ghar aaj pyaari dulhaniyaa chalii}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Sunil Dutt, Raaj Kumar, Rajendra Kumar}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: David Windsor (windeng@fac.anu.edu.au)
+% Date: Sat Jan 27 1996
+% Credits:
+% Editor: Rajiv Shridhar (rajiv@coe.neu.edu)
+%
+\printtitle
+#indian
+%
+pii ke ghar aaj pyaarii dulhaniyaa chalii
+roe.n maataa pitaa unakii duniyaa chalii
+
+bhaiyaa bahanaa ke dil ko lagii Thes re
+merii qismat me.n jaataa thaa parades re
+chho.D kar apane baabul kaa aa.Ngan chalii
+pii ke ghar aaj pyaarii dulhaniyaa chalii
+
+bhaiyaa baabaa ne sukh mohe saare die
+more gaune me.n chaa.Nd aur sitaare die
+saath le kar mai.n saaraa gaganadii chalii
+pii ke ghar aaj pyaarii dulhaniyaa chalii
+
+koii guN Dha.ng na mujh me.n koii baat hai
+morii chuu.Diyo.n kii laaj ab tore haath hai
+tore sa.ng mai.n jiivan bhar ko sajanaa chalii
+pii ke ghar aaj pyaarii dulhaniyaa chalii
+%
+#endindian
+\endsong
+%

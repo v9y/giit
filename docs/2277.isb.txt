@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{baabul jo tumane sikhaayaa}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Renuka Shahane, Madhuri Dixit, Salmaan Khan, Anupam Kher, Alok Nath, Rima Lagoo, Laxmikant Berde}%
+\singer{Sharda Sinha}%
+\music{Ram Laxman}%
+\lyrics{Ravinder Rawal}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+baabul jo tumane sikhaayaa, jo tumase paayaa
+sajan ghar le chalii, sajan ghar mai.n chalii
+
+yaado.n ke lekar saaye
+chalii ghar paraaye
+tumhaarii laa.Dalii
+kaise bhuul paa_uu.Ngii mai.n baabaa
+sunii jo tumase kahaaniyaa.N
+chho.D chalii aa.Ngan mai.n maiyyaa
+bachapan kii nishaaniyaa.N
+sun merii pyaarii bahanaa, sajaaye rahanaa
+ye baabul kii galii, sajan ghar mai.n chalii   \threedots
+
+ban gayaa parades ghar janam kaa
+milii hai duniyaa mujhe nayii
+naam jo piyaa se mai.n ne jo.Daa
+naye rishto.n se ba.Ndh gayii
+mere sasur jii pitaa hai.n
+pati devataa hai.n
+devar chhavi kR^ishhN kii
+sajan ghar mai.n chalii   \threedots
+
+%
+#endindian
+\endsong
+%

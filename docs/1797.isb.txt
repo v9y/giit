@@ -1,0 +1,62 @@
+% 
+\startsong
+\stitle{tumhe.n dekhatii huu.N to lagataa hai aise}%
+\film{Tumhare Liye}%
+\year{1978}%
+\starring{Ashok Kumar, Sanjeev Kumar, Vidya Sinha, Neelam Mehra, Indrani Mukherji}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Contributor: Shashikant Joshi <rava0002@gold.tc.umn.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 08/07/1995
+% Credits: Neha Desai <umdesai@cc.umanitoba.ca>
+%          Arun Verma <verma@CS.Cornell.EDU>
+%          Ashok Dhareshwar <adhareshwar@worldbank.org> 
+% Comments: Pankha Road se Pintu Diwana [45]
+%
+% Note: I think this a bit mature song, in the sense that to *really*
+% appreciate it, and specially for us men (:-) ), it does take time
+% to realize the depth of emotions, simple straightforward
+% emotions, no mincing the words. Please. no flames on this, there
+% sure are sensitive men around, but life does bring turns in our
+% life, that make us look at old artifacts in our treasure-trunk
+% and look at it with a new adoring, love and amazement, a new
+% sentiment grows. Here is the song, of the same class as "meree 
+% saaNsoN ko jo mahakaa rahee hai" (minus Mahendra Kapoor :-)) )
+% 
+%
+\printtitle
+#indian
+%
+tumhe.n dekhatii huu.N to lagataa hai aise
+ke jaise yugo.n se tumhe jaanatii huu.N
+agar tum ho saagar \threedots
+agat tum ho saagar, mai.n pyaasii nadii huu.N
+agar tum ho saavan, mai.n jalatii kalii huu.N  %  <==== !!
+
+mujhe merii nii.nde.n, meraa chain de do
+mujhe merii sapano.n kii ik rain, de do na
+yahii baat \threedots
+yahii baat pahale bhii tumase kahii thii
+vahii baat phir aaj, doharaa rahii huu.N
+
+tumhe.n chhuuke pal me.n, bane dhuul chandan \-2
+tumhaarii mahak se, mahakane lage tan
+mere paas aao \threedots
+mere paas aao, gale se lagaao
+piyaa aur tumase mai.n kyaa chaahatii huu.N
+
+muraliyaa samajhakar, mujhe tum uThaa lo
+bas ik baar ho.nTho.n se apane, lagaa lo na
+koii sur to jaage,
+koii sur to jaage, merii dha.Dakano.n me.n
+ke mai.n apanii sargam se ruuThii huii huu.N 
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%
+

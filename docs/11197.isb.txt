@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n pe bharosaa mat kar}%
+\film{Detective}%
+\year{1958}%
+\starring{Pradeep Kumar, Mala Sinha, Johnny Walker}%
+\singer{Rafi, Sudha Malhotra}%
+\music{Mukul Roy}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10023 [V S Rawat]
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ra \:	aa.Nkho.n pe bharosaa mat kar duniyaa jaaduu kaa khel hai
+	har chiiz yahaa.N ek dhokhaa har baat yahaa.N bemel hai
+gii \:	o matavaale ha.Ns le gaa le le jiine kaa mazaa
+	is duniyaa kii bhii.D me.n tuu bhii merii tarah tanahaa ban jaa
+ra \:	aa.Nkho.n pe bharosaa \threedots
+
+ra \:	kahane ko to sab kahate hai.n is baat me.n kyaa rakhaa hai
+	par yah to ko_ii batalaa_e kyaa jhuuThaa hai kyaa sachchaa hai
+gii \:	ham diivaane bas yah jaane jo kuchh hai so achchhaa hai
+ra \:	aa.Nkho.n pe bharosaa \threedots
+
+ra \:	is raah ke ham sab raahii pahachaan hai ye pal bhar kii
+	kal ko judaa kar degii hamako lahar is jiivan kii
+gii \:	jiine vaale jii bahalaa le kal soche.nge phir kal kii
+ra \:	aa.Nkho.n pe bharosaa \threedots
+%
+#endindian
+\endsong
+

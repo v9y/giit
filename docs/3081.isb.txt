@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{haal-e-dil mai.n kyaa kahuu.N}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar,Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:5 April,2001
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+haal\-e\-dil mai.n kyaa kahuu.N
+mushakil hai mere saamane
+
+haal\-e\-dil main kyaa kahuu.N \-2
+mushakil hai mere saamane \-2
+bhole bhaale ruup me.n \-2
+qaatil hai mere saamane \-2
+
+haal\-e\-dil \threedots
+
+( merii ummiido.n kii kashtii
+  paar ho jaane bhii de
+  paar ho jaane bhii de ) \-2
+ruk jaa ai tuufaan tuu \-2
+saahil hai mere saamane \-2
+haal\-e\-dil \threedots
+
+( josh kahataa hai ke chal
+  aur hosh kahataa hai sa.mbhal ) \-2
+hosh kahataa hai sa.mbhal
+kisakaa kahanaa maan luu.N \-2
+ma.nzil hai mere saamane \-2
+
+haal\-e\-dil main kyaa kahuu.N \threedots
+
+%
+#endindian
+\endsong
+%

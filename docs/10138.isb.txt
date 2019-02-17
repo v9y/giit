@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{a.nganaa me.n baabaa du_aare pe maa.N}%
+\film{Aankhen}%
+\year{1993}%
+\starring{Govinda, Raj Babbar}%
+\singer{Kumar Sanu, Sadhana Sargam}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a.nganaa me.n baabaa du_aare pe maa.N
+kaise aa_e.n gorii ham tumhare ghar maa.n
+khet ga_e baabaa baazaar ga_ii maa.N
+akelii huu.N ghar maa.n tuu aa jaa baalamaa
+
+ghar maa.n jo a_ive.n to hamai.n kyaa khila_ive
+garam garam halavaa aur puurii paka_ive
+naram naram haatho.n se khaa jaa baalamaa
+a.nganaa me.n baabaa \threedots
+
+halavaa puurii kha_ive to ni.ndiyaa na sata_ive
+ni.ndiyaa me.n tohare li_e aa.nchal bichha_ive
+sijiyaa kii kismat jagaa jaa baalamaa
+khet ga_e baabaa \threedots
+
+kyaa hogaa baazaar se maa.N jo aa_ii
+kah duu.ngii maa.N ye hai teraa jamaa_ii
+haath meraa maa.ngane ko aa jaa baalamaa
+a.nganaa me.n baabaa \threedots
+%
+#endindian
+\endsong
+

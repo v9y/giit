@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{saamane galii me.n meraa ghar hai}%
+\film{Mirza Sahiban}%
+\year{1947}%
+\starring{Noorjehan, Trilok Kapoor, Gulab, Gope}%
+\singer{Zohra Bai}%
+\music{Pt Amarnath, Husnalal-Bhagatram}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor: BOL ANAMOL #12026 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( saamane galii me.n meraa ghar hai
+saamane galii me.n meraa ghar hai
+pataa meraa bhuul na jaanaa
+ho pataa meraa bhuul na jaanaa
+saamane galii me.n meraa ghar hai ) \-2
+
+( o khilegii jo chaa.Ndanii
+miluu.Ngii mai.n baam (?) pe ) \-2
+( ThaNDii\-ThaNDii saa.Ns sajan
+bharuu.N tere naam pe ) \-2
+zaKmii jigar hai zamaane kaa Dar hai \-2
+
+saamane galii me.n meraa ghar hai
+saamane galii me.n meraa ghar hai
+pataa meraa bhuul na jaanaa
+ho pataa meraa bhuul na jaanaa
+saamane galii me.n meraa ghar hai \-2
+%
+#endindian
+\endsong
+

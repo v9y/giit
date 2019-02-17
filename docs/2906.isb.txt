@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{mat jaa mat jaa mat jaa jogii}%
+\film{Jogan}%
+\year{1950}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Geeta}%
+\music{Bulo C Rani}%
+\lyrics{Meerabai}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Mar 10, 2000
+%
+\printitle
+#indian
+%
+
+jogii mat jaa paa.Nv pa.Duu.N mai.n torii
+
+mat jaa mat jaa mat jaa jogii
+paa.Nv pa.Duu.N mai.n torii
+
+prem bhakti ko pa.nth hii nyaaro
+ham ko GYaan bataa jaa
+cha.ndan kii mai.n chitaa rachaa_uu.N
+apane haath jalaa jaa 
+mat jaa mat jaa mat jaa jogii \threedots
+
+jal jal bha_ii bhasm kii Dherii
+apane a.ng lagaa jaa jogii
+miiraa ke prabhuu giridhar naagar
+jyot me.n jyot milaa jaa jogii
+mat jaa mat jaa mat jaa jogii \threedots
+
+%
+#endindian
+\endsong
+%

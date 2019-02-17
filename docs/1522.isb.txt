@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{raftaa raftaa vo mere hastii kaa saamaa.n ho gae}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Mehdi Hasan}%
+\music{}%
+\lyrics{Taslim Fazli}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : The first she'r is by Qamar Jalalwi
+%
+\printtitle
+#indian
+%
+raftaa raftaa vo mere hastii kaa saamaa.n ho gae
+pahale jaa.n, phir jaan\-e\-jaa.n
+phir jaan\-e\-jaanaa ho gae
+raftaa\threedots
+
+din\-ba\-din ba.Dhatii gaI.n, us husn kii raanaa_iyaa.n
+pahale gul, phir gulabadan, phir gulabadaanaa ho gae
+raftaa\threedots
+
+aap to nazadiik se, nazadiikatar aate gae
+pahale dil, phir dilarubaa, phir dil ke mahamaa.n ho gae
+raftaa\threedots
+
+pyaar jab had se ba.Dhaa, saare takalluf miT gae
+aap se phir tum hue, phir tuu kaa unavaa ho gae
+raftaa\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{o jaanevaale ho sake to lauT ke aanaa}%
+\film{Bandini}%
+\year{1963}%
+\starring{Ashok Kumar, Nutan, Dharmendra}%
+\singer{Mukesh}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+o jaanevaale ho sake to lauT ke aanaa
+ye ghaaT tuu ye baaT kahii.n bhuul na jaanaa
+
+bachapan ke tere miit tere sa.ng ke sahaare
+Dhuu.NDhe.nge tujhe galii\-galii sab ye Gam ke maare
+puuchhegii har nigaah kal teraa Thikaanaa
+o jaanevaale\threedots
+
+hai teraa vahaa.N kaun sabhii log hai.n paraae
+parades kii garadish me.n kahii.n tuu bhii kho naa jaae
+kaa.NTo.n bharii Dagar hai tuu daaman bachaanaa
+o jaanevaale\threedots
+
+de de ke ye aavaaz koii har gha.Dii bulaae
+phir jaae jo us paar kabhii lauT ke na aae
+hai bhed ye kaisaa koii kuchh to bataanaa
+o jaanevaale\threedots
+%
+#endindian
+\endsong
+%

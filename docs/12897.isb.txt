@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tum jaan ho dil ho mohabbat ho vafaa tum ho}%
+\film{Maina}%
+\year{1992?}%
+\starring{}%
+\singer{Anuradha Paudwal}%
+\music{Naresh Sharma}%
+\lyrics{Payaam Sayyedi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum jaan ho dil ho mohabbat ho vafaa tum ho
+qurbaan dil tum par mere dil ke Kudaa tum ho
+qurbaan dil tum par \threedots
+
+letii hai.n tumhaaraa naam saa.Nse.n merii sanam
+puuje.n tumhe.n subah\-o\-shaam aa.Nkhe.n merii sanam
+naa tumase mai.n huu.N duur naa mujhase tum judaa ho
+qurbaan dil tum par \threedots
+
+maine tumhe.n paakar paayaa hai apanaa pataa 
+tasviir lage merii cheharaa ye pyaar bharaa
+mai.n jisame.n suurat dekhuu.n vo aa_iinaa tum ho
+qurbaan dil tum par \threedots
+%
+#endindian
+\endsong
+

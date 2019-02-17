@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{jab dil na lage diladaar hamaarii galii aa jaanaa}%
+\film{Coolie No. 1}%
+\year{1995}%
+\starring{Govinda, Karisma, Harish, Kaanchan, Kader, Shakti, Sadashiv}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa jaanaa aa jaanaa aa jaanaa aa jaanaa
+jab dil na lage diladaar hamaarii galii aa jaanaa
+jab karanaa ho hamase pyaar hamaarii galii aa jaanaa
+aa jaanaa \threedots
+
+jab yaad sataa_e tumhe.n yaar hamaarii galii aa jaanaa
+jab karanaa ho diidaar hamaarii galii aa jaanaa
+
+jab nii.nd aa_e na raato.n ko raanii karane lage ta.ng tujhako javaanii
+dha.Dakan sataa_e jaaduu jagaa_e mausam kare chhe.Dakhaanii
+jab jobanaa pe aa_e nikhaar hamaarii galii aa jaanaa
+jab dil na lage diladaar \threedots
+
+jab had se ba.Dhane lage bekaraarii jab umr jaa_e na tanhaa guzaarii
+nazadiik aake tan se lagaa ke kar lenaa tum baat saarii
+na karanaa kabhii i.ntazaar hamaarii galii aa jaanaa
+jab yaad sataa_e tumhe.n \threedots
+%
+#endindian
+\endsong

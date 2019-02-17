@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{vo dekho jalaa ghar kisii kaa}%
+\film{Anpadh}%
+\year{1962}%
+\starring{Dharmendra, Mala Sinha}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #10554 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+vo dekho jalaa ghar kisii kaa ye TuuTe hai.n kisake sitaare
+vo qismat ha.Nsii aur aise ha.Nsii ke rone lage Gam ke maare
+vo dekho jalaa \threedots
+
+gayaa jaise jho.nkaa havaa kaa hamaarii Kushii kaa zamaanaa
+di_e hamako qismat ne aa.Nsuu jab aayaa hame.n muskaraanaa
+binaa hamasafar hai suunii Dagar kidhar jaa_e.N ham besahaare
+vo dekho jalaa \threedots
+
+hai.n raahe.n kaThin duur ma.nzil ye chhaayaa hai kaisaa a.Ndheraa
+ki ab chaa.Nd\-suuraj bhii milakar nahii.n kar sakegaa saveraa
+ghaTaa chhaa_egii bahaar aa_egii naa aa_e.Nge vo din hamaare
+vo dekho jalaa \threedots
+
+idhar ro rahii hai.n aa.Nkhe.n udhar aasamaa.N ro rahaa hai
+mujhe kar ke barabaad zaalim pashemaan ab ho rahaa hai
+ye barakhaa kabhii to ruk jaa_egii ruke.nge naa aa.Nsuu hamaare
+vo dekho jalaa \threedots
+%
+#endindian
+\endsong
+

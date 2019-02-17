@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{jiyo to aise jiyo jaise sab tumhaaraa hai}%
+\film{Bahu Beti}%
+\year{1965}%
+\starring{Ashok Kumar, Mala Sinha, Joy Mukherji, Mehmood, Mumtaz, Ashish Kumar}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10677 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jiyo to aise jiyo jaise sab tumhaaraa hai
+maro to aise ki jaise tumhaaraa kuchh bhii nahii.n
+
+ye ek raaz hai ki duniyaa na jisako jaan sakii
+yahii vo raaz jo zindagii se haasil hai
+tumhii.n kaho ye raaz tumhe.n kaise samajhaa_uu.N
+ke zindagii kii ghuTan zindagii kii qaatil hai
+har ek nigaah ko ye qudarat kaa ishaaraa hai
+jiyo to aise jiyo \threedots
+
+jahaa.N me.n aa ke jahaa.N se khi.nche\-khi.nche na raho
+vo zindagii hii nahii.n jisame.n aas bujh jaa_e
+ko_ii bhii pyaas dabaa_e se dab nahii.n sakatii
+isii se chain milegaa ki pyaas bujh jaa_e
+ye kahake mu.Dataa hu_aa zindagii kaa dhaaraa hai
+jiyo to aise jiyo \threedots
+
+ye aasamaa.N ye zamii.n ye fizaa ye nazaare
+taras rahe hai.n tumhaarii ik nazar ke li_e
+nazar churaa ke har ek shai ko yuu.N na Thukaraa_o
+ko_ii shariiq\-e\-safar Dhuu.NDh lo safar ke li_e
+bahut qariib se maine tumhe.n pukaaraa hai
+jiyo to aise jiyo \threedots
+%
+#endindian
+\endsong
+

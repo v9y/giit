@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{chho.Do chho.Do jii piyaa meraa to.Do naa jiyaa}%
+\film{Ajeeb Ladki}%
+\year{1952}%
+\starring{Naseem, Rehman, Kukku, Shashikala, Jayant}%
+\singer{Lata, Talat}%
+\music{Gulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10195 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	chho.Do chho.Do jii piyaa meraa to.Do naa jiyaa \-2
+	hame.n tumase garaz ( tumhe.n hamase ) \-2
+
+	kabhii ruuTh ga_e tum kabhii ruuTh ga_e ham
+	pyaar ke maze hai.n yahii pyaar kii qasam
+	binatii karuu.N paiyaa.N pa.Duu.N maan lo balam ho maan lo balam
+	jiyaa bhar\-bhar aa_e meraa Gam se
+	chho.Do chho.Do jii piyaa \threedots
+
+	tumhe.n jaan ga_e ham piyaa hame.n naa banaa_o
+	jaa_o ye adaa_e.N kisii aur ko dikhaa_o
+	dekho sajan dil kii lagan hamase naa chhupaa_o \-2
+	merii duniyaa ra.ngiilii tere dam se
+	chho.Do chho.Do jii piyaa \threedots
+
+ta \:	ho tumane maan lii Kataa rahuu.N phir mai.n kyuu.N Kafaa
+	maaf kiyaa maine tumhe.n o jii bevafaa
+	dil me.n ko_ii baat nahii.n pyaar ke sivaa ho pyaar ke sivaa
+	hame.n tumase garaz tumhe.n hamase
+la \:	chho.Do chho.Do jii piyaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{maine tere bahaane bijalii ko chhuu liyaa hai}%
+\film{Swarg Yahaan Narak Yahaan}%
+\year{1991}%
+\starring{Mithun, Sumanlata, Shilpa Shirodkar, Gulshan, Mangal Dhillon, Dinesh Hingoo}%
+\singer{Anuradha Paudwal, Udit Narayan, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maine tere bahaane bijalii ko chhuu liyaa hai
+chhuukar badan badan par tuune pyaar likh diyaa hai
+sau baar likh diyaa hai
+maine tere bahaane \threedots
+
+haatho.n me.n tere chandan nas nas me.n bah gayaa hai
+teraa pyaar me.nhadii banakar tan man me.n rach gayaa hai
+tum aarazuu ho merii tum justazuu ho merii
+hamane pyaar pe tumhaare etabaar kar liyaa hai
+maine tere bahaane \threedots
+
+ham pyaar ke nahii.n the
+pahale kabhii to qaayal
+kyaa baat tujhame.n dekhii
+dil tujh pe hu_aa maayal
+tuu paaras ban kar aayaa merii ka.nchan kar dii kaayaa
+karaar de kar tuune bekaraar kar diyaa hai
+maine tere bahaane \threedots
+%
+#endindian
+\endsong
+

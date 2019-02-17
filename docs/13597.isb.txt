@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{merii pahalii aarazuu kaa ye salaam yaad rakhanaa}%
+\film{Pyar Ka Bandhan}%
+\year{1963}%
+\starring{Rajkumar, Nishi, Naaz, Johny Walker, Dhumal, Pratima Devi, Helen}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10728 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	merii pahalii aarazuu kaa ye salaam yaad rakhanaa
+	meraa naam hai mohabbat meraa naam yaad rakhanaa
+aa \:	jahaa.N dil se dil mile the vo muqaam yaad rakhanaa
+	meraa naam hai tamannaa meraa naam yaad rakhanaa
+ra \:	merii pahalii aarazuu \threedots
+
+aa \:	ye khilii\-khilii fizaa_e.N ye jhukii\-jhukii ghaTaa_e.N
+	ye rukii\-rukii sii baate.n ye dabii\-dabii sadaa_e.N
+ra \:	yahii subah pyaar kii hai yahii shaam yaad rakhanaa
+ra \:	merii pahalii aarazuu \threedots
+
+ra \:	mere dil pe chhaa gayaa hai tere ruup kaa saveraa
+	na_e chaa.Nd se hai roshan terii zulf kaa a.Ndheraa
+aa \:	mere pyaar ke jahaa.N kaa ye payaam yaad rakhanaa
+ra \:	merii pahalii aarazuu \threedots
+
+aa \:	terii har adaa me.n dekhii.n maine jannato.n kii raahe.n
+ra \:	mere dil me.n bas ga_ii hai.n terii madabharii nigaahe.n
+aa \:	yahii daur yaad rakhanaa yahii jaam yaad rakhanaa
+ra \:	merii pahalii aarazuu \threedots
+%
+#endindian
+\endsong
+

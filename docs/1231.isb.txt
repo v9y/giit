@@ -1,0 +1,69 @@
+%
+\startsong
+\stitle{merii pyaarii binduu}%
+\film{Padosan}%
+\year{1968}%
+\starring{Sunil Dutt, Kishore, Saira Bano}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Credits: Rajesh Kamath (rkamath@cs.indiana.edu)
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Navin Kabra (navin@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+%Scene: Sunil asks his Guru (Kishore) to help him sing something for
+%his sweetheart Bindu (Saira Banu).
+%
+%And Kishore launches off into...
+%
+mere bhole balam, mere pyaare balam
+meraa jiivan tere binaa, o mere piyaa, hai vo diyaa
+jisame.n tel na ho, ke jisame tel na ho \threedots
+meraa jiivan tere binaa, vo ek baag hai bahaar
+jisase haTakar guzare, duur duur se guzare \threedots
+o, mujhe apanaa banaa le,
+o, bhole apanaa banaa le,
+haay re bhole, apanaa banA le, haay
+tere kadamo.n me.n meraa pyaar, meraa sa.nsaar, merii kismat hai
+mujhe apanaa banaa le    \- (2)
+		
+## \indent   (some dialog here - see .s file for the dialog) ##
+
+%<Dialogue>	Sunil Dutt-> Accha guru, jab woh aisa kahegi na,
+%			     to mai kya jawab duunga?
+%		Kishore   -> Jawab? Jawab? Ha-Ha-Ha-Ha. Are Bamruu,
+%			    Pyaar mein, pyaar mein, jawab apne aap
+%			    ho jaata hai! Kahana... ANURADHAAA!
+%		Mukri     -> Arre Guru, Guru, Anuradha nahin, Bindu,BINDU!
+%		Kishore   -> Arre Tere ki, Bhuula! Kahana, KAHANA...
+%		chorus    -> Kyaaaaa?
+%<Song contd>
+%
+merii pyaarii bi.ndU,
+merii bholii bi.ndU,
+merii mAtherii bi.ndU,
+merii si.nduurii bi.ndU,
+merii bi.ndUrii bi.ndU,
+
+merii prem kii naiyaa, biich bha.Nvar me.n, gu.D gu.D gote khaae
+jhaT\-paT paar lagaa de, jhaT\-paT paar lagaa de \threedots
+
+terii baiyaa.n gale me.n Daal ban jaa mere gale kaa haar
+jhuule prem hi.nDole, o jhuule prem hi.nDole
+
+mere jiivan kii aashaa, pa.Dh le mere naino.n kii bhaashhaa,
+mujhe man me.n basaa le, pal pal palako.n me.n chhupaa le \threedots
+
+tuu jhaT\-paT aakar chhaT\-paT mere andhe kue.n me.n diip jalaa ke
+kar de ujaalaa, o zaraa kar de ujaalaa \threedots
+
+bi.ndU re\-e\-e\-e, bi.ndU re\-e\-e, bi.ndU re\-e\-e \threedots
+%
+#endindian
+\endsong
+%

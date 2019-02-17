@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{baabuu samajho ishaare hauran pukaare pam pam pam}%
+\film{Chalti Ka Naam Gaadi}%
+\year{1958}%
+\starring{Kishore Kumar, Ashok Kumar, Anup Kumar, Madhubala, Sajjan, K. N.  Singh, Veena, Sahira, Helen, Cuckoo, Mohan Choti, S. N. Bannerjee}%
+\singer{Kishore, Manna De, chorus}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+%              Ikram Ahmed Khan <iakhan@vnet.ibm.com>
+%              Bakulesh Thakker <thakker.bakulesh@mayo.edu>
+% Transliterator: David Windsor <David.Windsor@anu.edu.au>
+% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/02/1996
+%
+\printtitle
+#indian
+%
+baajuu aa aa aa
+baabuu samajho ishaare hauran pukaare pam pam pam
+yahaa.N chalatii ko gaa.Dii kahate hai.N pyaare pam pam pam
+ 
+rii baabbaa rii baa baa baa rii baabaa rii baa baa baa rii baabbaa
+ 
+sau baato.n kii ek baat yahii hai
+kyaa bhalaa to kyaa buraa kaamayaabii me.n zi.ndagii hai
+TuuTii\-phuuTii sahii chal jaae Thiik hai
+sachchii\-jhuuThii sahii chal jaae Thiik hai
+aa.Dii\-tirachhii chalaa\-chalaa ke jhuum
+aa.Dii chalaa\-chalaa ke jhuum
+tirachhii chalaa\-chalaa ke jhuum
+bajuu \threedots
+ 
+##yodel##
+ 
+itanii sii baat na samajhaa zamaanaa
+aadamii jo chalataa rahe to mil jaae har Kazaanaa
+shoharat hai chiiz kyaa chalane kaa naam hai
+izzat hai chiiz kyaa chalane kaa naam hai
+aa.Dii\-tirachhii chalaa\-chalaa ke jhuum
+aa.Dii chalaa\-chalaa ke jhuum
+tirachhii chalaa\-chalaa ke jhuum
+bajuu \threedots
+ 
+hilamil ke chalanaa yuu.N hii saathii
+are ba.nd muTThii laakh kii aur khule to pyaare Kaak kii
+mushkil jo aa pa.De Thokar se Taal de
+parabat bhii ho kha.De phir mil ke Taal de
+jo samajhaa ye usii kii machii dhuum
+jo samajhaa usii ko machii dhuum
+baajuu \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dupaTTaa meraa malamal kaa ra.ng saleTii halakaa}%
+\film{Adaalat}%
+\year{1958}%
+\starring{Pradeep Kumar, Nargis, Pran, Achala Sachdev, Yaqub, Murad}%
+\singer{Asha, Geeta, Chorus}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+o ho
+aa \: dupaTTaa meraa malamal kaa ra.ng saleTii halakaa haa
+	dupaTTaa meraa malamal kaa ra.ng saleTii halakaa
+gii \:	zamaanaa luT jaayegaa oy sar se agar Dhalakaa \-2
+
+aa \:	baTan mere kurte ke haay chanave
+	baTan mere kurte ke sitaare aasamaanii sajanaa
+gii \: hoy isii liye dekhaa naa a.ndheraa kabhii tere a.nganaa \-2
+
+aa \: o tumasaa bhii ko_ii naa haay chanave
+	o tumasaa bhii ko_ii naa zamaane me.n niDar hogaa
+gii \:	wahii.n pe dam to.De.nge jahaa.N pe teraa dar hogaa
+	haay wahii.n pe dam to.De.nge jahaa.N pe teraa dar hogaa
+
+aa \:	dupaTTaa meraa malamal kaa ra.ng saleTii halakaa
+gii \:	zamaanaa luT jaayegaa o sar se agar Dhalakaa \-2
+
+#endindian
+\endsong

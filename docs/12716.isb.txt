@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{apane ka_ii ruup hai.n ... log kahate hai.n ham lafa.nge hai.n}%
+\film{Lafange}%
+\year{1975}%
+\starring{Randhir Kapoor, Mumtaz, Pran}%
+\singer{Kishor}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11250 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+apane ka_ii ruup hai.n isali_e
+kahate hai.n sab hamako baharuupi_e
+chehare se hamako na pahachaani_e
+ham kitane ra.ng me.n ra.nge hai.n
+log kahate hai.n ham lafa.nge hai.n
+
+apane Kyaalo.n me.n jo hai hasii.n
+ek din milegii kahii.n naa kahii.n
+ham insaan dil ke cha.nge hai.n
+log kahate hai.n \threedots
+
+yaaro.n kii khaalii du_aa chaahi_e
+apane li_e hamako kyaa chaahi_e
+unakii du_aa_o.n kii dayaa chaahi_e
+ham kitane ra.ngo.n me.n ra.nge hai.n
+log kahate hai.n \threedots
+%
+#endindian
+\endsong
+

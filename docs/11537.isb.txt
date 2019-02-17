@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ghaat yadaa yadaa hi}%
+\film{Ghaat}%
+\year{2000}%
+\starring{Manoj Bajpai, Tabu}%
+\singer{Om Puri, Karsan Sagaria, Suleman}%
+\music{Salim Suleman}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+yadaa yadaa hi dharmasya glaanirbhavati bhaarat
+abhyutthaanamadharmasya tadaatmaana.m sR^ijaamyaham
+paritraaNaay saadhunaam vinaaShaay cha duShkR^itaam
+dharm sa.nsthaapanaarthaay sa.mbhavaami yuge yuge
+
+jo hu_aa vo achchhaa hu_aa
+jo ho rahaa hai vo achchhaa ho rahaa hai
+aur jo hogaa vo bhii achchhaa hogaa
+tum kyaa laa_e the jo le jaa_oge
+tumane kyaa paidaa kiyaa jo naShT ho gayaa
+jo aaj tumhaaraa hai vo kal kisii aur kaa thaa
+aur kal kisii aur kaa hogaa
+jaisaa bo_oge vaisaa paa_oge
+apane karmo.n kaa phal yahii.n bhugat kar jaa_oge
+
+ghaat ghaat ghaat
+
+jo hu_aa vo achchhaa hu_aa
+jo ho rahaa hai vo achchhaa ho rahaa hai
+aur jo hogaa vo bhii achchhaa hogaa
+%
+#endindian
+\endsong
+

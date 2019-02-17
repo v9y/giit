@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{ik chamelii ke ma.NDave tale}%
+\film{Cha Cha Cha}%
+\year{1964}%
+\starring{Chandrasekhar, Helen}%
+\singer{Rafi, Asha}%
+\music{Iqbal Qureshi}%
+\lyrics{Makhdoom Mohinuddin}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Credits: U.V. Ravindra
+% Comments: Rafi Veritable Gems
+% 
+\printtitle
+#indian
+%
+do \:	ik chamelii ke ma.NDave tale \-2
+	maikade se zaraa duur us mo.D par \-2
+	do badan pyaar kii aag me.n jal ga_e
+	ik chamelii ke \threedots
+
+ra \:	pyaar harf\-e\-vafaa pyaar unakaa Kudaa \-2
+	pyaar unakii chitaa
+do \:	do badan pyaar kii \threedots
+
+% harf\-e\-vafaa: Harf = letter (of alphabet), haruuf, akshar/ axar
+
+	os me.n bhiigate chaa.Ndanii me.n nahaate hu_e \-2
+	jaise do taazaa\-ru taazaa\-dam phuul pichhale pahar \-2
+	Tha.nDii Tha.nDii subuk rau chaman kii havaa \-2
+	sarf\-e\-maatam hu_ii \-3
+ra \:	kaalii\-kaalii laTo.n se lipaT garm ruKasaar par
+	ek pal ke li_e ruk ga_ii
+do \:	do badan pyaar kii \threedots
+
+% subuk : slow, dhiire; rau: speed; subuk rau havaa: wind flowly softly.
+% sarf\-e\-maatam: to be spent in mourning
+
+	o hamane dekhaa unhe.n din me.n aur raat me.n nuur\-o\-zulmaat me.n \-2
+ra \:	masjido.n ke minaaro.n ne dekhaa unhe.n
+aa \:	ma.ndiro.n ke kivaa.Do.n ne dekhaa unhe.n
+aa \:	maikade kii daraa.Do.n ne ( dekhaa unhe.n ) \-3
+do \:	do badan pyaar kii \threedots
+
+	ye bataa chaaraagar terii ( za.mbiil me.n ) \-2
+ra \:	nusKaa\-e\-kiimiyaa\-e\-muhabbat bhii hai
+aa \:	nusKaa\-e \threedots
+ra \:	kuchh ilaaj\-o\-mudaavaa\-e\- ( ulfat bhii hai ) \-2
+do \:	do badan pyaar kii \threedots
+
+% nusKaa: formula, kiimiyaa: chemical, 
+% nusKaa\-e\-kiimiyaa\-e\-muhabbat: formula of chemical of love
+% ilaaj\-o\-mudaavaa\-e\-ulfat: cure for (the illness of ) love
+%
+#endindian
+\endsong
+

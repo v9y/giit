@@ -1,0 +1,71 @@
+%
+\startsong
+\stitle{aap ko dekh kar hamako aisaa lagaa jaise mujhako na_ii zindagii}%
+\film{Divya Shakti}%
+\year{199?}%
+\starring{Ajay Devgan, Raveena Tandon}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem-Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+bhaag (1)
+\-\-\-\-\-\-\-
+he eh he he
+ho oh ho ho
+aap ko dekh kar
+(aap ko dekh kar, hamako aisaa lagaa  
+jaise mujhako na_ii zindagii mil gayii
+o merii dilarubaa rab se maa.NgU.n mai.n kyaa           
+hamako saare jahaa.N kii khushii mil gayii
+aap ko dekh kar ) \- 2
+
+aisaa cheharaa hasI.n hamane dekhaa nahii.n
+aap jaisaa koii naa zamaane me.n
+hai.n vohii vo adaa hai.n vohii vo vafaa
+hamako sadiyo.n lagii jisako paane me.n
+jaan\-e\-adaa jaan\-e\-vafaa duur na jaanaa
+aap ko dekh kar
+aap ko dekh kar \threedots
+
+he eh he he ho oh ho ho
+
+kare.n kaise adaa rab kaa ham shukriyaa
+ham use ab kabhii na bhulaaye.nge
+ab naa to.De.nge ham pyaar kii ye qasam
+vaadaa kar ke sanam ham nibhaaye.nge
+hamane to sIkhaa hai sadaa saath nibhaanaa
+aap ko dekh kar
+aap ko dekh kar\threedots
+
+he eh he he ho oh ho ho
+oh oh oh oh ah ah ah ah
+
+bhaag (2)
+\-\-\-\-\-\-\-
+he eh he he
+ho oh oh oh
+
+(kare.n kaise adaa rab kaa ham shukriyaa
+ham use ab kabhii na bhulaaye.nge
+ab naa to.De.nge ham pyaar kii ye kasam
+vaadaa kar ke sanam ham nibhaaye.nge ) \- 2
+hamane to sIkhaa hai sadaa saath nibhaanaa
+hoke tumase judaa
+
+hoke tumase judaa hamako aisaa lagaa
+jaise mujhase merii zindagii chhin gayii
+aa.Nsuo.n kii kasam tujhape aaye naa Gam
+mujhase to merii har ek khushii chhin gayii
+hoke tumase judaa, hoke tumase judaa
+%
+#endindian
+\endsong
+%

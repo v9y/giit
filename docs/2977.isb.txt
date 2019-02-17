@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tum se hii merii zi.ndagii}%
+\film{Apna Ghar}%
+\year{1960}%
+\starring{Premnath, Shyama}%
+\singer{Geeta, Mukesh}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+mu:  tum se hii merii zi.ndagii merii bahaar tum
+gii: apane hii dil se puuchh lo kis kaa pyaar ho tum 
+mu:  tum se hii merii zi.ndagii \threedots 
+
+mu:  gaatii huii havaa_o.n me.n teraa hii giit hai
+gii: saajan mere nigaaho.n me.n terii hii priit hai
+     cha.ndaa kaa ruup chaa.Ndanii meraa shR^i.ngaar tum
+     tum se hii merii zi.ndagii \threedots
+
+gii: ye muskuraataa aasamaan ye jhuumatii zamii.n
+mu:  mujhako zaraa sa.mbhaalanaa kho jaa_uu.N na kahii.n
+     aise me.n apanaa kah bhii do bas ek baar tum
+do:  tum se hii merii zi.ndagii \threedots
+
+mu:  aatii hai aisii pyaar kii gha.Diiyaa.N nasiib se
+gii: ye dil kii dha.Dakane.n zaraa sun lo qariib se
+     aaye ho leke pyaar ke sapane hazaar tum
+mu:  apane hii dil se puuchh lo kis kaa pyaar ho tum
+do:  tum se hii merii zi.ndagii \threedots
+
+%
+#endindian
+\endsong
+%

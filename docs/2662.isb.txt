@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{more saiyaa.njii utarenge paar ho}%
+\film{Udan Khatola}%
+\year{1955}%
+\starring{Dilip Kumar, Nimmi}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: 10/04/99
+% Credits:
+% Comments: GEETAnjali Series
+%
+\printtitle
+#indian
+%
+
+(haiyyaa ho haiyyaa re haiyyaa, haiyyaa ho)
+o more sai.nyaa jii 
+o more sai.nyaa jii utare.nge paar ho
+nadiyaa dhiire baho
+more sai.nyaa jii
+
+cha.nchal dhaaraa bahataa paanii bahataa paanii
+(haiyyaa ho haiyyaa re haiyyaa)
+jalathal nadiyaa ho jalathal nadiyaa(?)
+(haiyyaa ho haiyyaa re haiyyaa)
+naav puraanii sar pe kha.Daa ma.Njhadhaar ho
+(haiyyaa re haiyyaa)
+sar pe kha.Daa ma.Njhadhaar ho
+nadiyaa dhiire baho, more sai.nyaa jii \threedots
+
+(? please fill in ?) duniyaa maane o duniyaa maane
+(haiyyaa ho haiyyaa)
+man kaa saagar ko_uu na jaane, ko_uu na jaane
+(haiyyaa ho haiyyaa)
+mai.n jaanuu.N yaa moraa yaar ho
+(haiyyaa re haiyyaa)
+mai.n jaanuu.N yaa moraa yaar ho
+nadiyaa dhiire baho, more sai.nyaa jii \threedots
+
+chalatii naiyaa roke aa.Ndhii roke aa.Ndhii
+(haiyyaa ho haiyyaa re haiyyaa, haiyyaa ho)
+chup chup dekhe ho chup chup dekhe
+(haiyyaa ho haiyyaa re haiyyaa)
+bebas maa.Njhii chhuuTe jaaye patavaar ho
+(haiyyaa re haiyyaa)
+chhuuTe jaaye patavaar ho
+nadiyaa dhiire baho, more sai.nyaa jii \threedots
+
+%
+#endindian
+\endsong
+%

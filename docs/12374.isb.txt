@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{dil kii nazar me.n bhaaye tum pal bhar me.n}%
+\film{Kya Yehi Pyaar Hai}%
+\year{2002}%
+\starring{Jackie Shroff, Aftab Shivdasani, Ameesha Patel, Anupama Verma}%
+\singer{Kumar Sanu/ Alka Yagnik, Kumar Sanu}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid, Ajay Jhingara}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+dil kii nazar me.n bhaaye tum pal bhar me.n
+yuu.n lagaa jaise tum merii jaan ho
+dil kii nazar me.n \threedots
+
+sochuu.n tumhe.n ab mai.n raat din
+jiinaa nahii.n mujhako tere bin
+tuu bhii sun le mere dil kii sadaa
+kah do naa tum merii jaan ho
+dil kii nazar me.n \threedots
+
+kaise kahuu.N kitanaa pyaar hai
+bas tuu hii jiit haar hai
+kahane ko aur kyaa rah gayaa
+kah do naa tum merii jaan ho
+dil kii nazar me.n \threedots
+
+kyaa yahii pyaar hai
+%
+%Part 2:
+%
+dil kii nazar me.n bhaaye tum pal bhar me.n
+yuu.n lagaa jaise tum merii jaan ho
+dil kii nazar me.n \threedots
+
+sun lo zaraa merii saa.Nso.n kii dhun
+kahatii hai kyaa merii har dha.Dakan
+ab sach kaho naa tumako bhii kuchh hu_aa
+kah do naa tum merii jaa.n ho
+dil kii nazar me.n \threedots
+
+dil to diyaa par bechainiyaa.N
+karatii hai.n kyuu.N ab gustaakhiyaa.N
+ab to bataa kyaa yahii pyaar hai
+kah do naa tum merii jaa.n ho
+dil kii nazar me.n \threedots
+
+kyaa yahii pyaar hai
+%
+#endindian
+\endsong
+

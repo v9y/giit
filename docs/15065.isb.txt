@@ -1,0 +1,29 @@
+% ITRANS SONG # 15065; Created on Aug 16, 2004
+
+\startsong
+\stitle{prem\-nagar me.n basane waalo}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Premanth, Nimmi, Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 13, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+prem\-nagar me.n basane waalo
+apanii jiit pe ha.Nsane waalo
+priit ha.Nsaaye priit rulaaye
+priit milaaye priit hii saath chhu.Daaye
+
+% dialogue
+
+ha.Ns\-mukh phuulo ye mat bhuulo \-2
+o
+
+#endindian
+\endsong

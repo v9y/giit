@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{duniyaa me.n sabhii chehare ... duniyaa isii kaa naam hai}%
+\film{Duniya}%
+\year{1968}%
+\starring{Dev Anand, Vyjayantimala}%
+\singer{Mukesh, Sharda}%
+\music{Shankar-Jaikishan}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #11076 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	duniyaa me.n sabhii chehare lagate to hai.n pahachaane
+shaa \:	kyo.n phir bhii hai.n anajaane ye baat vahii jaane
+do \:		duniyaa isii kaa naam hai duniyaa isii ko kahate hai.n
+	apane hii apano.n se yahaa.N begaane jaise rahate hai.n
+	duniyaa isii kaa naam \threedots
+
+mu \:	jo ham chaahe.n jo tum chaaho vo kab hotaa hai duniyaa me.n
+shaa \:	muqaddar ke ishaaro.n pe ye sab hotaa hai duniyaa me.n
+do \:	ye sab hotaa hai duniyaa me.n
+	duniyaa isii kaa naam \threedots
+
+mu \:	kabhii us mo.D par luuTaa gayaa hai kaaravaa.N dil kaa
+	jahaa.N se do qadam hii faasalaa baaqii thaa ma.nzil kaa
+shaa \:	yahaa.N kahatii hai Kaamoshii hazaaro.n Gam ke afasaane
+	magar isii baat kaa matalab ko_ii bedard kyaa jaane
+do \:	duniyaa isii kaa naam \threedots
+%
+#endindian
+\endsong
+

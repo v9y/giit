@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{vo din yaad karo}%
+\film{Hamrahi}%
+\year{1963}%
+\starring{Rajendra Kumar, Jamuna}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10938 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	vo din yaad karo \-2
+	vo chhup\-chhup ke milanaa vo ha.Nsanaa\-ha.Nsaanaa
+	vo din yaad karo
+la \:	vo din yaad karo \-2
+	vo phuulo.n kii chhai.nyaa vo mausam suhaanaa
+	vo din yaad karo
+
+ra \:	phirate the aazaad ham to chaman me.n \-2
+	chaa.Nd aur suuraj hai.n jaise gagan me.n
+	ab to ye jiivan hai ulajhan kii siimaa
+	dha.Dake meraa dil ab dhiimaa\-dhiimaa
+	vo din yaad \threedots
+
+la \:	jab mai.n kalii thii tab hii bhalii thii \-2
+	naa ko_ii Gam thaa naa bekalii thii
+	merii galii se teraa guzaranaa
+	naino.n ke raste dil me.n utaranaa
+	vo din yaad \threedots
+
+ra \:	ham to vahii.n hai.n din vo kahaa.N hai.n
+	dil to hamaare ab bhii javaa.N hai.n
+	dil me.n hii ta.Dape aramaan saare
+	pyaase ke pyaase nadiyaa kinaare
+	vo din yaad \threedots
+%
+#endindian
+\endsong
+

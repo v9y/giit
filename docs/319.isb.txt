@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{bole re papiiharaa, papiiharaa}%
+\film{Guddi}%
+\year{}%
+\starring{Jaya Bhadhuri, Samit Bhanja, Dharmendra}%
+\singer{Vani Jairam}%
+\music{Vasant Desai}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Mala Acharya (mala@kraft.apdev.cs.mci.com)
+%          (tirumala@cae.wisc.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+bole re papiiharaa papiiharaa
+% some of these are "nit ghan"
+% but I don't know which ones.
+nit man tarase, nit man pyaasaa 
+nit man pyaasaa, nit man tarase 
+bole re\threedots
+
+palako.n par ik buu.Nd sajaae
+baiThii huu.N saavan le jaae
+jaae pii ke des me.n barase
+nit man pyaasaa, nit man tarase
+bole re\threedots
+
+saavan jo sa.ndesaa laae
+merii aa.Nkh pe motii chhaae
+jaae mile baabul ke ghar se
+nit man pyaasaa, nit man tarase
+bole re\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{gorii chorii chorii jaanaa burii baat hai}%
+\film{Ek Jhalak}%
+\starring{Pradip Kumar, Vyjayanthimala}%
+\year{1956}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+%
+% Contirbutor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: April 12, 2002
+% Availability: HMV CD Magic Moments Hemant Kumar
+%
+\printtitle
+#indian
+%
+
+gorii chorii chorii jaanaa burii baat hai
+terii qisamat kii chaabii mere haath hai
+
+ye lambaa safar paa.Nv naazuk tere
+terii raaho.n me hai o gorii kaa.NTe.n bhare
+teraa phir bhii machalanaa burii baat hai
+terii qisamat kii chaabii mere haath hai
+
+lachakatii maTakatii tuu kahaa.N chalii
+ari dhoKe hai.n duniyaa me galii galii
+har qadam pe musiibat kaa saath hai
+terii qisamat kii chaabii mere haath hai 
+
+tujhako jaanaa hai jaa par zaraa soch le
+aisaa saathii tujhe phir mile na mile
+ye muqaddar se hu_ii mulaqaat hai
+terii qisamat kii chaabii mere haath hai
+
+%
+#endindian
+\endsong
+%

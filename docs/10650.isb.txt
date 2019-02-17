@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{kho diyaa mai.n ne paa kar kisii ko}%
+\film{Baaraadari}%
+\year{1955}%
+\starring{Ajeet, Geeta Bali}%
+\singer{Lata}%
+\music{Nashad}%
+\lyrics{Khumar Barabankvi}%
+%
+% Contributor: BOL ANAMOL #11942 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( kho diyaa mai.n ne paa kar kisii ko
+aaG lag jaaye is zindagii ko ) \-2
+
+din ye qisamat ne kaise dikhaaye
+the jo apane huye wo paraaye
+apanaa kahanaa hai ab ajanabii ko
+aaG lag jaaye is zindagii ko
+
+shaadiyaane baje.nge Kushii ke \-2
+ho.nge aramaan puure kisii ke
+ho.NTh tarase.nge mere ha.Nsii ko
+aaG lag jaaye is zindagii ko
+
+chaa.Nd\-taaro.n kaa pheraa rahegaa
+mere dil me.n andheraa rahegaa
+shamaa royegii ab roshanii ko
+aaG lag jaaye is zindagii ko
+
+kho diyaa mai.n ne paa kar kisii ko
+aaG lag jaaye is zindagii ko
+%
+#endindian
+\endsong
+

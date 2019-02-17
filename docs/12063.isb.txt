@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{khulaa hai meraa pi.njaraa ... tuu hai shikaarii mujhe hai pataa}%
+\film{Joru Kaa Ghulaam}%
+\year{2000}%
+\starring{Govinda, Twinkle Khanna}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Aadesh Srivastava}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khulaa hai meraa pi.njaraa
+haa.n khulaa hai meraa pi.njaraa aa merii mainaa
+churaa naa aise akhiyaa.n la.Dane de nainaa
+tuu hai shikaarii mujhe hai pataa
+julmii tuu apanaa iraadaa bataa
+haa.n khulaa hai meraa pi.njaraa \threedots
+
+maine dekhaa tuune dekhaa mai.n mar ga_ii
+are jaaduu ko_ii dil pe mere tuu kar ga_ii
+tujhe palako.n me.n mai.n ba.nd karake rakhuu.n
+mai.n tujhe apanii baaho.n me.n bharake rakhuu.n
+na yuu.n jhuuThe muuThe bahaane banaa
+mujhe yaar hai terii marzii pataa
+khulaa hai meraa pi.njaraa \threedots
+
+tuune mere dil ko chhiinaa tuu maan le
+are mai.n huu.n tere dil kaa raajaa tuu jaan le
+tere pahaluu me.n jiine me.n aa_e mazaa
+terii aa.Nkho.n se piine me.n aa_e mazaa
+mujhe piine vaalaa mahakataa rahe
+muhabbat me.n hai merii aisaa nashaa
+khulaa hai meraa pi.njaraa \threedots
+%
+#endindian
+\endsong
+

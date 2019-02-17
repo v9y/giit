@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aaj kii raat mere, dil kii salaamii le le}%
+\film{Raam Aur Shyam}%
+\year{}%
+\starring{Dilip Kumar}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ye raat jaise dulhan ban gaI hai chiraago.n se
+karu.ngaa ujaalaa mai.n dil ke daaGo.n se
+
+aaj kii raat mere, dil kii salaamii le le
+dil kii salaamii le le
+kal terii bazm se diivaanaa chalaa jaaegaa
+shammaa rahe jaaegii paravaanaa chalaa jaaegaa
+
+terii mahafil tere jalave ho.n mubaarak tujhako
+terii ulfat se nahii.n aaj bhii inakaar mujhe
+teraa may\-khaanaa salaamat rahe ai jaan\-e\-vafaa
+muskuraakar tuu zaraa dekh le ik baar mujhe
+phir tere pyaar kaa mastaanaa chalaa jaaegaa
+
+maine chaahaa ki bataa duu.N mai.n haqiiqat apanii
+tuune lekin na meraa raaz\-e\-muhabbat samajhaa
+merii ulajhan mere haalaat yahaa.N tak pahu.nche
+terii aa.Nkho.n ne mere pyaar ko nafarat samajhaa
+ab terii raah se begaanaa chalaa jaaegaa
+
+tuu meraa saath na de raah\-e\-muhabbat me.n sanam
+chalate\-chalate mai.n kisii raah pe mu.D jaauu.ngaa
+kahakashaa.n chaa.nd sitaare tere chuume.nge qadam
+tere raste kii mai.n ek dhuul huu.N u.D jaauu.ngaa
+saath mere meraa afasaanaa chalaa jaaegaa
+%
+#endindian
+\endsong
+%

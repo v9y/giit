@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{##sir## bhii ruuThe ruuThe hai.n}%
+\film{Aakrosh/ A Cyclone of Anger}%
+\year{1998}%
+\starring{Sunil Shetty, Shilpa Shetty, Suresh Oberoi, Girish Karnad, Kulbhushan}%
+\singer{Kavita Subramaniam, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##sir## bhii ruuThe ruuThe hai.n ##teacher## bhii ruuThii ruuThii hai.n
+##piknik## me.n nahii.n ko_ii shor ham to ho ga_e bor
+
+aapane sikhaayaa hame.n ha.Nsaa karo haradam haradam
+khush raho pyaar karo gussaa karo kam kam
+khud phir to ha.Nso naa gussaa kam karo naa
+ham jo ruuTh ga_e to nahii.n chalegaa ko_ii zor
+##piknik## me.n nahii.n ko_ii \threedots
+
+mai.n nahii.n ruuThii tumase bachcho.n kisii ne mujhe sataayaa
+kisane vahii jo saath hamaare ##piknik## me.n aayaa
+##sir## a.ndar se jaise bhii uupar se sachche lagate hai.n
+gusse me.n ##teacher## tumhaarii aur bhii achchhii lagatii hai
+
+jhaa.njhariyaa usakii khanak ga_ii
+chunarii bhii sar se sarak ga_ii
+merii nazar usase milii to usakii nazar sharamaa ke jhuk ga_ii
+jhaa.njhariyaa
+
+kitaabe.n bahut sii pa.Dhii ho.ngii tumane
+magar ko_ii cheharaa bhii tumane pa.Dhaa hai
+pa.Dhaa hai merii jaa.n nazar se pa.Dhaa hai
+bataa mere chehare pe kyaa kyaa likhaa hai
+%
+#endindian
+\endsong
+

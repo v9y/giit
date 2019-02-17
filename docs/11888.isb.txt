@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{Dhal gayaa din ho ga_ii shaam jaane do jaanaa hai}%
+\film{Humjoli}%
+\year{1970}%
+\starring{Jeetendra, Leena Chandrawarkar, Mehmood, Pran, Shashikala}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11136 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aa \:	Dhal gayaa din ho ga_ii shaam jaane do jaanaa hai
+ra \:	abhii\-abhii to aa_ii ho abhii\-abhii jaanaa hai
+aa \:	Dhal gayaa din \threedots
+
+ra \:	sitam mere dil pe jo Dhaa_e qasam lage usako merii jo jaa_e
+aa \:	naa aise dekho mujhe na roko zaraa ye socho buraa zamaanaa hai
+ra \:	abhii\-abhii to aa_ii \threedots
+
+aa \:	guzaarii saath hamane ka_ii raate.n na jaane kab Katm ho.ngii terii baate.n
+ra \:	abhii na jaanaa ko_ii taraanaa ko_ii fasaanaa abhii sunaanaa hai
+aa \:	Dhal gayaa din \threedots
+
+ra \:	banaate ho ye roz hii bahaanaa na jaane degaa aaj tumako ye diivaanaa
+aa \:	maanaa jii maanaa tuu hai diivaanaa meraa diivaanaa ba.Daa sayaanaa hai
+aa \:	Dhal gayaa din \threedots
+%
+#endindian
+\endsong
+

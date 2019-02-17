@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dil ta.Dap ta.Dap ke kah rahaa hai aa bhii jaa}%
+\film{Madhumati}%
+\year{1958}%
+\starring{Dilip Kumar, Vijayanti Mala}%
+\singer{Mukesh, Lata}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+% BTW, this is one of the duets in which the second singer joins after
+% the mukhda *and* the first stanza. There are several such duets.
+% One that immediately comes to mind is the wonderful song
+% "Samay tu dheere dheere chal...." in which KK joins in only
+% after 2 stanzas are sung by Asha.
+%
+mu: dil ta.Dap ta.Dap ke kah rahaa hai aa bhI jaa  
+	tU hamase aa.Nkh nA churaa, tujhe kasam hai aa bhI jaa  (2) 
+
+	(tU nahii.n to ye bahaar kyA bahaar hai  
+	gul nahii.n khile to terA intazaar hai ) \- 2
+	ke terA intazaar hai \- 2
+	dil ta.Dap ta.Dap \threedots
+
+la:  aa aa 
+	dil dha.Dak dha.Dak ke de rahaa hai ye sadA 
+	tumhaarii ho chukii.n huu.N mai.n 
+	tumhaare sAth huu.N sadA 
+
+	(tumase merI zindagii kA ye shrR^i.ngaar hai  
+	jii rahii huu.N mai.n ke mujhako tumase pyaar hai ) \- 2 
+	ke mujhako tumase pyaar hai \- 2
+
+mu: dil ta.Dap ta.Dap ke kah rahaa hai \threedots
+
+	(muskuraate pyaar kA asar hai har kahii.n  
+	dil kahaa.N hai ham kidhar hai.n kuchh khabar nahii.n ) \- 2
+	kidhar hai kuchh khabar nahii.n \- 2
+
+	dil ta.Dap ta.Dap ke kah rahaa hai \threedots
+%
+#endindian
+\endsong
+%

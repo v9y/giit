@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+\startsong
+\stitle{raadhe raadhe, ba.nshii rahii pukaar}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Arun Kumar}%
+\music{Saraswati Devi}%
+\lyrics{Pt Narottam Vyas}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% Kosh mentions singes as Arun Kumar and Chorus. I did not hear
+% chorus in the version I have.
+
+\printtitle
+#indian
+
+raadhe raadhe, ba.nshii rahii pukaar \-2
+mathuraa jaate nand kumaar \-2
+raadhe raadhe, ba.nshii rahii pukaar \-2
+
+ba.nsii\-baT par jamunaa\-taT par \-2
+rahe wo baaT nihaar
+kaanhaa rahe wo baaT nihaar
+milane jaat piyaa se
+milane milane
+aakhirii baar
+raadhe yahii aakhirii baar \-2
+raadhe yahii
+
+#endindian
+\endsong

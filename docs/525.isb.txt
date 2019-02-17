@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{dil pukaare, aare aare aare, abhii naa jaa mere saathii}%
+\film{Jewel Thief}%
+\starring{Dev Anand, Vyjayanti Mala, Tanuja, Ashok Kumar, Helen}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+rafii: dil pukaare, aare aare aare \- 2
+abhii naa jaa mere sAthI 
+dil pukaare, aare aare aare 
+lataa: o\threedots abhii nA jaa mere sAthI 
+dono: dil pukaare aare aare aare 
+
+rafii: baraso.n biite dil pe kaabuu paate 
+ham to haare tum hii kuchh samajhaate 
+lataa: samajhaatii mai.n tumako laakho.n aramaa.n 
+kho jaate hai.n lab tak aate aate 
+rafii: o\threedots puuchho nA kitanii, baate.n pa.Dii hai.n 
+dil me.n hamaare 
+dil pukaare, aare aare aare 
+lataa: o\threedots abhii nA jaa mere sAthI 
+dono: dil pukaare aare aare aare 
+
+lataa: paake tumako hai kaisii matavaalii 
+aa.Nkhe.n merI bin kaajal ke kaalii 
+rafii: jIvan apanA mai.n bhI ra.ngiin kar luu.N 
+mil jaaye jo in hoTho.n kii laalii 
+lataa: o\threedots jo bhI hai apanA, laayii huu.N sab kuchh 
+paas tumhaare 
+dil pukaare, aare aare aare 
+rafii: o\threedots abhii nA jaa mere sAthI 
+dono: dil pukaare aare aare aare 
+
+rafii: mahakaa mahakaa A.Nchal halke halke 
+rah jAtI ho kyo.n palko.n se malake 
+lataa: jaise suuraj ban kar aaye ho tum 
+chal doge phir din ke Dhalate Dhalate 
+rafii: o\threedots aaj kaho to mo.D duu.n ba.Dhake 
+vaqt ke dhaare 
+dil pukaare, aare aare aare 
+lataa: o\threedots abhii nA jaa mere sAthI 
+dono: dil pukaare aare aare aare 
+abhii nA jaa mere sAthI 
+dil pukaare aare aare aare\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{chhoTii chhoTii raate.n la.mbii ho jaatii hai.n}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Sonu Nigam, Anuradha Paudwal}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+%Part 1:
+%
+chhoTii chhoTii raate.n la.mbii ho jaatii hai.n
+baiThe biThaa_e yuu.N hii nii.nde.n kho jaatii hai.n
+dil me.n bechainii aa.Nkho.n me.n i.ntazaar hotaa hai
+jab kisii ko kisii se pyaar hotaa hai
+chhoTii chhoTii raate.n \threedots
+
+diivaano.n sii haalat hai apanii
+puuchho naa kyaa chaahat hai apanii
+thaam lii.n maine terii ye baahe.n
+in baaho.n me.n jannat hai apanii
+phuul saa khil ke mahakaa hai ye dil
+phir tujhe chhuu ke bahakaa hai ye dil
+dil kaa kyaa hai ye to har pal bekaraar hotaa hai
+jab kisii ko kisii se \threedots
+
+pa.nchhii ban ke u.Dataa hai ye dil
+milatii hai jab sapano.n kii ma.nzil
+sapane to phir sapane hote hai.n
+sach hai ye kab apane hote hai.n
+jaagatii aa.Nkhe.n dekhaa kare.n sapanaa
+jab ko_ii dil ko lagataa hai apanaa
+naa dil pe kaabuu naa khud pe ikhtiyaar hotaa hai
+jab kisii ko kisii se \threedots
+%
+%Part 2:
+%
+chhoTii chhoTii raate.n la.mbii ho jaatii hai.n
+baiThe biThaa_e yuu.N hii nii.nde.n kho jaatii hai.n
+dil me.n bechainii aa.Nkho.n me.n i.ntazaar hotaa hai
+jab kisii ko kisii se pyaar hotaa hai
+chhoTii chhoTii raate.n \threedots
+
+betaabii kaa aalam dekhaa hai
+tanhaa_ii kaa mausam dekhaa hai
+pal pal halachal hotii hai dil me.n
+jabase tujhako jaanam dekhaa hai
+pyaar me.n aakhir kyaa nahii.n hotaa
+dil kabhii ha.Nsataa aur kabhii rotaa
+kab dil pe kaabuu kab khud pe ikhtiyaar hotaa hai
+jab kisii ko kisii se \threedots
+%
+#endindian
+\endsong
+

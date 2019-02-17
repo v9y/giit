@@ -1,0 +1,48 @@
+%
+%
+\startsong
+\stitle{man me.n kisii kii priit basaale}%
+\film{Aaraam}%
+\year{1951}%
+\starring{Dev Anand,Madhubala,Premnath}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+man me.n kisii kii priit basaale
+o matavaale o matavaale
+man me.n kisii kii priit basaale
+kisii ko man kaa miit banaale
+miit banaale, o matavaale o matavaale
+man me.n kisii kii priit basaale
+ 
+is duniyaa.N me.n kisii kaa hojaa
+kisii ko kar le apanaa
+priit banaale ye jiivan ko ek suhaanaa sapanaa
+ek suhaanaa sapanaa
+jiivan me.n ye jyot jagaale
+o matavaale o matavaale
+man me.n kisii kii priit basaale
+ 
+priit sataa_e priit rulaae
+jiyaa me.n aag lagaae
+jalanevaalaa ha.Nsate ha.Nsate phir bhii jalataa jaa_e
+phir bhii jalataa jaa_e
+priit ke hai.n andaaz niraale
+o matavaale o matavaale
+man me.n kisii kii priit basaale
+
+%
+#endindian
+\endsong
+%
+

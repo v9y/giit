@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaan\-e\-man jaan\-e\-man palaT terii nazar}%
+\film{Kaho Naa Pyaar Hai/ Believe In Love}%
+\year{1999}%
+\starring{Hritik Roshan, Ameesha Patel, Anupan Kher, Farida Jalal}%
+\singer{Asha, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Saawan Kumar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa aa aa
+jaan\-e\-man jaan\-e\-man palaT terii nazar
+yahaa.N hai dil teraa dekhataa hai kidhar
+milaa le dil de dil pyaar se pyaar kar
+udhar to raat hai saveraa hai idhar
+jaan\-e\-man jaan\-e\-man \threedots
+
+terii javaanii ke sadake jaan\-e\-jaan\-e\-man
+ham bhii hasii.n kam nahii.n jaan\-e\-jaan\-e\-man
+terii judaa_ii kaa Gam hai varanaa ko_ii Gam nahii.n
+bahut chaalaak hai ban rahaa bekhabar
+pyaar ke jaaduu kaa ho rahaa hai asar
+jaan\-e\-man jaan\-e\-man \threedots
+
+tere li_e hii banii huu.N jaan\-e\-jaan\-e\-man
+mai.n sabame.n shaamil nahii.n
+dil se zaraa puuchh apane kyaa mai.n teraa dil nahii.n
+nayaa hai silasilaa nayaa hai ye safar
+na_ii hai.n ma.nzile.n magar hai ik Dagar
+jaan\-e\-man jaan\-e\-man \threedots
+%
+#endindian
+\endsong
+

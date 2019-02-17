@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{aaye dil jaanii chiichii vaalaa chhallaa ... aa.Nkho.n me.n kaajal maathe pe pasiinaa}%
+\film{Ustaad}%
+\year{1989}%
+\starring{Vinod Khanna, Jayaprada, Chunky, Kimi, Asha Parekh, Shakti, Danny}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaye dil jaanii chiichii vaalaa chhallaa saanuu de jaa nishaanii
+aa.Nkho.n me.n kaajal maathe pe pasiinaa kitanii pyaarii hai merii hasiinaa
+chorii chorii dekhe tujhe har hasiinaa mar jaa_uu.ngii jo kisii ne tujhe chhiinaa
+aa.Nkho.n me.n kaajal \threedots
+
+tumase izahaar mai.n kar naa paa_ii pyaar tujhase hii mai.n karatii aa_ii
+kyaa kahaa teraa mu.nh chuum luu.n mai.n baat sun ke naa kyo.n jhuum luu.n mai.n
+o tere gore gore gaal terii moranii sii chaal shor galiyo.n me.n terii adaa kaa
+har savaal kaa javaab teraa cheharaa vo kitaab de rahaa sabak jo vafaa kaa
+naa dekhuu.n ik pal bhii to mushkil hai jiinaa
+mar jaa_uu.ngii jo \threedots
+
+pyaar ke tere do pal bhii paa kar saaraa jiivan mai.n kar duu.n nyauchhaavar
+pyaar kii pyaas itanii jagii hai haay kam kitanii ye zi.ndagii hai
+o tere abaruu hai.n kamaan jaise kaamadev ke baan tere naino.n se ko_ii na bachaa hai
+mere tan me.n terii jaa.n tuu hii jiine kaa aramaa.n ek tujh me.n sabhii kuchh milaa hai
+chal de to ha.nsanii bole to viiNaa kitanii pyaarii hai merii hasiinaa
+mar jaa_uu.ngii jo \threedots
+%
+#endindian
+\endsong
+

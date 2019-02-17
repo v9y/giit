@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere mere milan kii ye rainaa, nayaa koii gul khilaayegii}%
+\film{Abhimaan}%
+\year{1973}%
+\starring{Amitabh, Jaya}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Satish Subramanian (subraman@myria.cs.uma.edu)
+%          Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+tere mere milan kii ye rainaa
+nayaa koI gul khilaayegii
+tabhii to cha.nchal hai.n tere nainaa
+dekho naa
+dekho naa,  tere mere milan kii ye rainaa
+	    
+(nanhaa.n saa gul khilegaa a.Nganaa
+suunii ba_i.nyaa.N sajegii sajanaa) \- 2
+jaise khele cha.ndaa baadal me.n
+khelegaa vo tere aa.nchal me.n
+(cha.ndaniyaa gunagunaayegii) \- 2
+tabhii to cha.nchal hai.n tere nainaa, dekho naa \threedots
+
+(tujhe thaame ka_I haatho.n se
+miluu.ngaa madabharii raato.n me.n) \- 2
+jagaa ke anasuunii sii dha.Dakan
+balamavaa bhar duu.ngii teraa man
+(na_I adaa se sataayegii) \- 2
+tabhii to cha.nchal hai.n tere nainaa, dekho naa \threedots
+%
+#endindian
+\endsong
+%

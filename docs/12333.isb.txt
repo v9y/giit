@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kahatii hai ma.nganii kii a.NguuThii}%
+\film{Koi Mere Dil Se Poochhe}%
+\year{2001}%
+\starring{Aftaab Shivdasani, Isha Deol, Sanjay Kapoor, Jaya Bachchan, Anupam Kher}%
+\singer{Priti Uttam, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Surya Bhanu Gupt}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o o o aa ho ho ho aa aa
+kahatii hai ma.nganii kii a.NguuThii priit nibhaanaa raajaajii
+der na karanaa gho.Dii cha.Dhake jaldii aanaa raajaajii
+ho ho kahatii hai ma.nganii kii a.NguuThii sapane sajaanaa raaniijii
+Dolii leke vo aa_e.Nge mat ghabaraanaa raaniijii
+aa aa
+
+banno.n hai phuulo.n kii Daalii
+banno.n hai naazo.n kii paalii
+banno.n kaa mukha.Daa kyaa kahanaa
+dekh lajaa_e bhor kii laalii
+duulhaa banake kesariyaa saafe me.n aanaa raajaajii
+laalii laalii dulhaniyaa.N ko sa.ng le jaanaa raajaajii
+kahatii hai ma.nganii kii \threedots
+
+aa_e.Nge sajanii ke saajan
+pyaar kare.nge aise saajan
+rakam byaaj ke saath vasuule.n
+jaise ko_ii bedard mahaajan
+khushii khushii tum karz chukaanaa mat sharmaanaa raaniijii
+##honeymoon## ke li_e chaa.Nd kii ##ticket## kaTaanaa raaniijii
+kahatii hai ma.nganii kii \threedots
+%
+#endindian
+\endsong
+

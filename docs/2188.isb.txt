@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{puuchh na mujhase dil ke fasaane}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: P Srinagesh
+% Transliterator: K Vijay Kumar
+% Credits: Yogesh Sethi
+% Editor:
+%
+\printtitle
+#indian
+%
+puuchh na mujhase dil ke fasaane
+ishq kii baate.n ishq hii jaane
+        
+voh din jab ham tumase mile the
+dil ke naazuk phuul khile the
+mastii aa.Nkhe.n chuum rahii thii
+saarii duniyaa jhuum rahii thii
+do dil the vo bhii diivaane
+ishq kii baate.n ishq hii jaane   \threedots
+
+vo din jab tum duur hue the
+dil ke shiishe chuur hue the
+aayii khizaa.N ra.ngiin chaman me.n
+aag lagii jab dil ke ban me.n
+koii na aayaa aag bujhaane
+ishq kii baate.n, ishq hii jaane   \threedots
+
+%
+#endindian
+\endsong
+%

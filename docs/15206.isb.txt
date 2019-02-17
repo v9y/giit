@@ -1,0 +1,48 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tuu hai meraa prem devataa}%
+\film{Kalpanaa}%
+\year{1960}%
+\starring{Ashok Kumar, Padmini, Ragini}%
+\singer{Rafi, Mahendra Kapoor, Other Voice?}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+
+\printtitle
+#indian
+
+tuu hai meraa prem devataa
+in charaNo.n kii daasii huu.N mai.n
+man kii pyaar bujhaane aa_ii
+antaraghaT tak pyaasii huu.N mai.n
+tuu hai meraa prem devataa
+
+ra \:	mai.n gaurii tuu kant hamaaraa
+ma \:	mai.n ga.ngaa tuu meraa kinaaraa
+ra \:	mai.n gaurii tuu kant hamaaraa
+
+ra \:	mai.n gaurii tuu kant hamaaraa
+ma \:	mai.n ga.ngaa tuu meraa kinaaraa
+ra \:	a.ng lagaa_o pyaas bujhaa_o \-2
+ma \:	nadiyaa ho kar pyaasii huu.N mai.n
+ra \:	man kii pyaar bujhaane aa_ii \-2
+	antaraghaT tak pyaasii huu.N mai.n
+do \:	tuu hai meraa prem devataa
+
+ra \:	Dam Dam Dam Dam Damaruu baaje
+ma \:	 mai.n naachuu.N sha.nkar ke aage
+ra \:	Dam Dam Dam Dam Damaruu baaje
+
+ra \:	Dam Dam Dam Dam Damaruu baaje
+ma \:	 mai.n naachuu.N sha.nkar ke aage
+ra \:	ho ke rahegii jiit usii kii \-2
+ma \:	jisakii kalaa se sha.nkar jaage
+ra \:	man kii pyaar bujhaane aa_ii \-2
+	antaraghaT tak pyaasii huu.N mai.n
+do \:	tuu hai meraa prem devataa
+
+#endindian
+\endsong

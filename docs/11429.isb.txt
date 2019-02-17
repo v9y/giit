@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{do qadam tum bhii chalo do qadam ham bhii chale.n}%
+\film{Ek Haseena Do Deewaane}%
+\year{1972}%
+\starring{Jitendra, Babita, Johny Walker, Nirupa Roy, Vinod Khanna, Om Prakash}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qafil Azar}%
+%
+% Contributor: BOL ANAMOL #11190 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	do qadam tum bhii chalo do qadam ham bhii chale.n
+mu \:	do qadam tum bhii chalo do qadam ham bhii chale.n
+	ma.nzile.n
+la \:	pyaar kii
+do \:	ma.nzile.n pyaar kii aa_e.Ngii chalate\-chalate
+	do qadam tum \threedots
+
+la \:	kal tak to a.njaan thii.n hamase raahe.n pyaar kii
+mu \:	lekin apanii ho ga_ii.n ab to baa.Nhe.n pyaar kii
+la \:	ab hame.n
+mu \:	ye jahaa.N
+la \:	ab hame.n ye jahaa.N dekhegaa jalate\-jalate
+do \:	do qadam tum \threedots
+
+mu \:	merii jo bhii soch thii usakaa hii tum ruup ho
+la \:	mai.n huu.N nadiyaa tum ghaTaa mai.n chhaayaa tum dhuup ho
+me \:	pyaar ye
+la \:	ho javaa.N
+me \:	pyaar ab ye ho javaa.N aa.Nkho.n me.n palate\-palate
+do \:	do qadam tum \threedots
+
+la \:	aisii hii ik shaam thii dekhaa thaa jab aapako
+mu \:	tum is Dhalatii shaam ko roko to kuchh baat ho
+la \:	jaan se
+mu \:	jaa_e.Nge
+la \:	jaan se jaa_e.Nge shaam ke Dhalate\-Dhalate
+do \:	do qadam tum \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{rone na diijiyegaa to gaayaa naa jaa_egaa}%
+\film{Jaan Tere Naam}%
+\year{1992}%
+\starring{Ronit Roy, Farheen, Balwindar, Navneet Nishan, John David, Sachin Mane}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Gauhar Kanpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rone na diijiyegaa to gaayaa naa jaa_egaa
+aise to haal dil kaa sunaayaa naa jaa_egaa
+
+hai pyaar kitanaa mere dil me.n kaise tujhe mai.n bataa_uu.N
+dil chiir ke ab apanaa kaise tujhe mai.n dikhaa_uu.N
+bin tere jii naa sakuu.Ngaa bin tere mar naa sakuu.Ngaa
+terii judaa_ii kaa Gam bhii rah rah ke ta.Dapaa_egaa
+rone na diijiyegaa to \threedots
+
+milataa hai mushkil se duniyaa me.n muhabbat ko_ii karane vaalaa
+har ko_ii raah\-e\-muhabbat me.n hotaa nahii.n marane vaalaa
+sach kyaa hai jaan le tuu mujhako pahachaan le tuu
+diivaanaa dar pe tere hii bas aaj mar jaa_egaa
+rone na diijiyegaa to \threedots
+%
+#endindian
+\endsong
+

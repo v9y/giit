@@ -1,0 +1,74 @@
+
+%
+\startsong
+\stitle{tere haatho.n me.n pahanaa ke chuu.Diyaa.N}%
+\film{Jaani Dushman}%
+\year{1979}%
+\starring{Sunil Dutt, Shatru, Vinod Mehran, Jeetendra, Rekha, Reena, Yogeeta, Sareeka, Bindiya}%
+\singer{Rafi, Asha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11282 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tere haatho.n me.n pahanaa ke chuu.Diyaa.N o chuu.Diyaa.N
+	haatho.n me.n pahanaa ke chuu.Diyaa.N
+	o tere haatho.n me.n pahanaa ke chuu.Diyaa.N
+	ke mauj ba.njaaraa le gayaa
+	ke mauj ba.njaaraa le gayaa le gayaa
+	tere haatho.n me.n \threedots
+aa \:	tuune dil tak to meraa le liyaa le liyaa
+	tuune dil tak to meraa le liyaa \-2
+	ke vo kyaa bechaaraa le gayaa 
+	ke vo kyaa bechaaraa le gayaa le gayaa
+	tuune dil tak to \threedots
+
+ra \:	mere saamane hii ko_ii begaanaa \-2
+	ke ruup kaa nazaaraa le gayaa
+	ke ruup kaa nazaaraa le gayaa le gayaa
+aa \:	tuu jalataa hai kyuu.N re diivaane \-2
+	ke vo kyaa tumhaaraa le gayaa
+	ke vo kyaa tumhaaraa le gayaa le gayaa
+ra \:	tere haatho.n me.n \threedots
+
+	o ise mere hii tuu naam lagaa de \-2
+	javaanii ere kis kaam kii
+	ise mere hii tuu naam lagaa de
+aa \:	dil legaa meraa ko_ii dilavaalaa \-2
+	ye baat nahii.n tere bas kii bas kii
+ra \:	aaj husn kaa jalavaa de\-de \-2
+	to kal se mai.n taubaa kar luu.N haay kar luu.N
+	aaj husn kaa jalavaa de\-de
+aa \:	saal sattaraa sa.mbhaalaa ise maine \-2
+	re aise kaise tujhe sau.np duu.N
+	saal sattaraa \threedots
+ra \:	tere haatho.n me.n \threedots
+
+	tere ho.nTho.n se lipaT jaa_uu.N sajanii \-2
+	mai.n surKii kaa ra.ng ban ke
+	haay tere ho.nTho.n se lipaT jaa_uu.N sajanii
+aa \:	tere jaise ka_ii luT ga_e ku.Nvaare
+	tere jaise ka_ii luT ga_e ku.Nvaare ku.Nvaare
+	paayal merii jab chhanake jab chhanake
+ra \:	goraa ra.ng naa kisii kaa ho_e \-2
+	ke saaraa jag bairii ho jaa_e
+aa \:	saare jag se nipaT luu.N akelii
+	saare jag se nipaT luu.N akelii akelii
+	ke pahale tuu jo meraa ho jaa_e
+	ke pahale tuu jo meraa ho jaa_e ho jaa_e
+	saare jag se \threedots
+
+aa \:	chho.Do jhaga.De milaa lo dil ko \-2
+	raho na aise tan\-tan ke
+	tere ghar me.n ujaalaa kar duu.N \-2
+	haay tuu le jaa ise duulhaa ban ke duulhaa ban ke
+%
+#endindian
+\endsong
+

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{dil kii girah khol do, chup na baiTho, koii giit gaao}%
+\film{Raat Aur Din}%
+\year{1967}%
+\starring{Pradeep Kumar, Nargis, Feroz Khan}%
+\singer{Lata, Manna De}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Ravi Sriniwas (gt9723a@prism.gatech.EDU)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+%          Amit Agarwal (agarwal@jans)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil kii girah khol do, chup na baiTho, koI giit gaao
+aa aa aa aa, mahafil me.n ab kaun hai ajanabii,
+tum mere paas aao
+dil kii girah khol do \threedots
+
+milane do ab dil se dil ko,  miTane do majabuuriyo.n ko
+shiishe me.n apane Dubodo, sab faasalo.n duuriyo.n ko
+A.Nkho.n me.n mai.n muskuraauu.n tumhaare, jo tum muskuraao
+aa aa aa aa, mahafil me.n ab kaun hai ajanabii
+tum mere paas aao \threedots
+
+ham tum na ham tum rahe.n ab,  kuchh aur hii ho gae ab
+sapano ke jhilamil nagar me.n, jaane kahaa.N kho gae ab
+ham raah puuchhe.n kisiise, na tum apanii ma.nzil bataao
+aa aa aa aa, mahafil me.n ab kaun hai ajanabii
+tum mere paas aao \threedots
+
+kal hamase puuchhe na koii, kyaa ho gayaa kal thaa tumhe kal
+mu.Dakar nahii.n dekhate ham, dil ne kahaa hai chalaa chal
+jo duur piichhe kahii.n rah gae ab unhe.n mat bulaao
+aa aa aa aa, mahafil me.n ab kaun hai ajanabii
+tum mere paas aao \threedots
+%
+#endindian
+\endsong
+%

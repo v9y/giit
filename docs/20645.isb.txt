@@ -1,0 +1,43 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{patthar kii tarah ho dil jis kaa}%
+\film{(Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{Ravi}%
+\lyrics{Ravi}%
+% 
+% Audio on: HMV CS Unforgettable Hemant Kumar
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 21 Jan 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+patthar kii tarah ho dil jis kaa
+use dil me basaakar kyaa kare \-2
+
+(jis ke dil me ulafat bhii na ho
+apano.n kii jise chaahat bhii na ho) \-2
+jo kabhii hamaaraa ho na sake \-2
+use apanaa banaakar kyaa kare
+use dil me basaakar kyaa kare 
+patthar kii tarah \threedots
+
+(jo wafaa ke badale jafaa kare
+jo pyaar jataakar daGaa kare) \-2
+phir usake li_e apane dil kaa \-2
+sukh chain luTaakar kyaa kare
+use dil me basaakar kyaa kare 
+patthar kii tarah \threedots
+
+
+%
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{o mere laal aa jaa, tujh ko gale lagaa luu.N}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Sunil Dutt, Raaj Kumar, Rajendra Kumar}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator: David Windsor (windeng@fac.anu.edu.au)
+% Date: Sat Jan 27 1996
+% Credits:
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%
+\printtitle
+#indian
+%
+o mere laal aa jaa, tujh ko gale lagaa luu.N
+dil me.n tujhe chhupaa luu.N
+
+o mere dil ke Tuka.De o mamataa ke pyaare
+sun le ki terii maa.N hai zindaa tere sahaare
+maa.N se tuu kyo.n Kafaa hai aa mai.n tujhe manaa luu.N
+o mere laal aa jaa, tujh ko gale lagaa luu.N
+dil me.n tujhe chhupaa luu.N
+
+tere lie huu.N paagal aaKir ko maa.N huu.N terii
+jag me.n rahe tuu zindaa uja.De na god merii
+ek baar apane haatho.n dulhaa tujhe ban luu.N
+o mere laal aa jaa, tujh ko gale lagaa luu.N
+dil me.n tujhe chhupaa luu.N
+%
+#endindian
+\endsong
+%

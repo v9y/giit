@@ -1,0 +1,59 @@
+
+%
+\startsong
+\stitle{bol gorii bol teraa kaun piyaa}%
+\film{Milan}%
+\year{1967}%
+\starring{Sunil Dutt, Nutan, Jamuna}%
+\singer{Lata, Mukesh}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11034 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	bol gorii bol teraa kaun piyaa \-2
+	kaun hai vo tuune jise pyaar kiyaa
+	bol gorii bol \threedots
+la \:	are tuu jaane naa usakaa naam
+	har subah har shaam
+	duniyaa ne usii kaa naam liyaa
+	bol tuu hii bol meraa kaun piyaa
+mu \:	bol gorii bol \threedots
+
+	hai kaun saare jag se niraalaa
+ko \:	hai kaun saare jag se niraalaa
+mu \:	ko_ii nishaanii batalaa_o baalaa
+la \:	usakii nishaanii vo bholaa\-bhaalaa
+ko \:	usakii nishaanii vo bholaa\-bhaalaa
+la \:	usake gale me.n sarpo.n kii maalaa
+mu \:	vo ka_ii hai.n jisake ruup kahii.n chhaa.Nv kahii.n dhuup
+	teraa saajan hai yaa bahuruupiyaa
+mu \:	bol gorii bol \threedots
+
+la \:	man usakaa ma.ndir praaN pujaarii
+mu \:	gho.Daa na haathii kare bail savaarii
+ko \:	gho.Daa na haathii kare bail savaarii
+la \:	kailaash paravat kaa vo to jogii
+mu \:	achchhaa vahii dar\-dar kaa bhikhaarii
+ko \:	dar\-dar kaa bhikhaarii
+la \:	haa.N bo hai bhikhaarii Thiik leke bhakti kii bhiikh
+	badale me.n jagat ko mox diyaa
+	bol tuu hii bol \threedots
+
+	mai.n jisako bhaa_uu.N jo mujhako bhaa_e
+	ik doSh to ko_ii usame.n bataa_e
+mu \:	tuu jisape maratii hai haay
+	vo jaTaa_o.n me.n ga.ngaa bahaa_e
+la \:	do din kaa hai saath yug\-yug se merii baat
+	mai.n huu.N baatii tuu diyaa
+	bol tuu hii bol \threedots
+%
+#endindian
+\endsong
+

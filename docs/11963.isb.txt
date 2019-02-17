@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{kaise ye rishte anajaane dil kii dha.Dakan dil pahachaane}%
+\film{Izhaar}%
+\year{1989}%
+\starring{Ranjeeta, Kanwaljeet Singh, Arun Govil, Dipika, Simi, Kadar Khan}%
+\singer{Anuradha Paudwal}%
+\music{Kalyanji Anandji}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kaise ye rishte anajaane
+dil kii dha.Dakan dil pahachaane lekin aa.Nkh na jaane
+kaise ye rishte \threedots
+
+duur kidhar vo paas bhii hai vo suunepan kii aas bhii hai vo
+mai.n huu.N usame.n vah hai mujhame.n phir bhii dono.n begaane
+kaise ye rishte \threedots
+
+har darpaN me.n cheharaa usakaa merii aa.Nkhe.n sapanaa usakaa
+har mausam me.n har aalam me.n shaamil hai.n usake fasaane
+kaise ye rishte \threedots
+%
+#endindian
+\endsong
+

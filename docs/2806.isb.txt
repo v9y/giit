@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chho.D kar tere pyaar kaa daaman}%
+\film{Vo Kaun Thi}%
+\year{}%
+\starring{Manoj Kumar, Helen, Sadhna}%
+\singer{Mahendra Kapoor, Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+chho.D kar tere pyaar kaa daaman ye bataa de ki ham kidhar jaaye.n
+ham ko Dar hai ki terii baaho.n me.n ham khushii se na aaj mar jaaye.n
+
+mil gaye aaj qaafile dil ke
+ham kha.De hai.n kariib ma.nzil ke
+muskuraa kar jo tum ne dekh liye
+miT gaye ha.Ns ke sab gile dil ke
+kitanii pyaarii hai.n ye hasii.n gha.Diyaa.N
+in se kah do yahii.n Thahar jaaye.n
+ham ko Dar hai \threedots
+
+tere kadamo.n pe zi.ndagii rakh duu.N
+apanii aa.Nkho.n kii roshanii rakh duu.N
+tuu agar khush ho mai.n tere dil me.n
+apane dil kii har ik khushii rakh duu.N
+mere hamadam merii khushii ye hai
+tuu nazar aaye ham jidhar jaaye.n
+chho.D kar tere \threedots
+
+%
+#endindian
+\endsong
+%

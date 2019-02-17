@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{tunak tun\-tun bole jiyaa ... ise kahii.n pyaar pyaar pyaar ho naa jaa_e}%
+\film{Kahin Pyar Na Ho Jaye}%
+\year{1963}%
+\starring{Shakeela, Mehmood, Om Prakash, Johny Walker}%
+\singer{Rafi, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10931 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tunak tun\-tun bole jiyaa
+	chhunak chhun\-chhun Dole jiyaa
+	meraa dil kho gayaa hai diivaanaa ho gayaa hai
+	ise kahii.n pyaar pyaar pyaar ho naa jaa_e \-2
+ra \:	tunak tun\-tun bole jiyaa
+	chhunak chhun\-chhun Dole jiyaa
+	nigaahe.n naa milaanaa buraa hai dil lagaanaa
+	tunhe.n kahii.n pyaar pyaar pyaar ho naa jaa_e \-2
+ra \:	tunak tun\-tun \threedots
+
+la \:	rahate ho kho_e\-kho_e kaisii mulaakaat hai ye
+	thaamo na morii bai.nyaa ba.Dii burii baat hai ye
+ra \:	kaise mai.n haath chho.Duu.N phuul jaisaa haath hai ye
+	chehare par zulf haay din hai ki raat hai ye
+	hogaa naa bolo kaise pyaar pyaar pyaar
+la \:	tunak tun\-tun \threedots
+
+	kisane kiyaa hai jaaduu kitanaa betaab hai tuu
+	phirataa hai maaraa\-maaraa kisakaa shabaab hai tuu
+ra \:	dar se naa jaa_uu.Ngaa mai.n reshamii gulaab hai tuu
+	apanaa savaal hai tuu yaanii laajavaab hai tuu
+	hogaa naa bolo kaise pyaar pyaar pyaar
+	tunak tun\-tun \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{vaadiyaa.n meraa daaman raaste merii baahe.n}%
+\film{Abhilasha}%
+\year{}%
+\starring{Sanjay Khan, Meena Kumari, Nanda, Rehman}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Samiuddin Mohammed (sm0e@Lehigh.EDU)
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor:  
+%
+\printtitle
+#indian
+% 
+vaadiyaa.n meraa daaman, raaste merii baahe.n
+jaao mere sivaa, tum kahaa.N jaaoge
+vaadiyaa.n meraa daaman\threedots
+	
+jab churaaoge tan tum kisii baat se
+shaakh\-e\-gul chhe.Degii mere haatha se
+apane hii zulph ko aur ulajhaaoge
+vaadiyaa.n meraa daaman\threedots
+	
+jabase milane lagii tumase raahe.n merii
+chaa.Nd sUraj banii do nigaahe.n merii
+tum kahii.n bhii raho, tum nazar aaoge
+vaadiyaa.n meraa daaman\threedots
+%
+#endindian
+\endsong
+%

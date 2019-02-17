@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{aaj mujhe kuchh kahanaa hai, aaj mujhe kuchh kahanaa hai}% 
+\film{Girl Friend}%
+\starring{Kishore, Waheeda Rahman}%
+\singer{Kishore, Sudha Malhotra}%
+\music{Hemant}%
+\lyrics{Sahir}%
+%
+% Contributor:  Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% 
+\printtitle 
+#indian
+%
+ki: kashtI kA khaamosh safar hai, shaam bhI hai tanahaaI bhI
+    dUr kinAre par bajatI hai laharo.n kI shahanAI bhI
+    aaj mujhe kuchh kahanA hai, aaj mujhe kuchh kahanA hai
+    lekin ye sharmIlI nigaahe.n mujhako ijaazat de.n to kahU.N
+    ye merI betaab uma.nge.n tho.DI fursat de.n to kahU.N
+
+su: jo kuchh tumako kahanA hai, vo mere hI dil kI baat na ho
+    jo mere Kvaabo.n kI ma.nzil us ma.nzil kI baat na ho
+ki: kahate hue Dar sA lagatA hai, kahakar baat na kho baiThU.N
+    ye jo zarA sA saath milA hai, ye bhI saath na kho baiThU.N
+
+su: kabase tumhaare raste pe mai.n, phUl bichhaaye baiThI hU.N
+    kah bhI chuko jo kahanA hai mai.n aas lagaaye baiThI hU.N
+ki: dil ne dil kI baat samajh lI, ab mu.Nh se kyA kahanA hai
+    aaj nahI.n to kal kah le.nge, ab to saath hI rahanA hai
+
+su: kah bhI chuko, kah bhI chuko jo kahanA hai
+
+ki: chho.Do ab kyA kahanA hai
+%
+#endindian
+\endsong
+%

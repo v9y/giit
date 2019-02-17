@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aaii diivaalii, aaii diivaalii}%
+\film{Rattan}%
+\year{1944}%
+\starring{}%
+\singer{Zohrabai Ambalewali}%
+\music{Naushad}%
+\lyrics{D N Madhok}%
+%
+% Contributor:  Preeti Ranjan Pandra (ppanda@laputa.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+aa_ii dIvaalii, aa_ii dIvaalii \- 2
+dIpak sa.ng naache pata.ngaa 
+mai.n kisake sa.ng naachuu.N bataajaa 
+aa_ii dIvaalii, aa_ii dIvaalii \threedots
+
+(bachapan javAnI sa.ng naachake chalA gayaa  
+ab naache javAnI bu.Dhaape sa.ng vo din aa gayaa ) \- 2
+ab naache javAnI bu.Dhaape sa.ng vo din aa gayaa 
+bichha.De hue sAthI zaraa aa 
+mai.n kisake sa.ng naachU.n bataajaa 
+aa_ii dIvaalii, aa_ii dIvaalii \threedots
+
+(kisako gumaan thA vo din bhI guzar jaaye.nge
+aur ek baar jaake vo phir lauT ke nA aaye.nge ) \- 2
+bichha.De hue sAthI zaraa aa 
+mai.n kisake sa.ng naachuu.N bataajaa 
+
+(aa_ii dIvaalii, aa_ii dIvaalii  ) \- 2
+dIpak sa.ng naache pata.ngaa 
+mai.n kisake sa.ng naachuu.N bataajaa 
+aa_ii dIvaalii, aa_ii dIvaalii \threedots
+%
+#endindian
+\endsong
+%

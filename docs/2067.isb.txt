@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{garaj baras pyaasii dharatii par phir paanii de maulaa}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: Guri Buxi
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments : From the Album "Insight"
+%
+\printtitle
+#indian
+%
+ garaj baras pyaasii dharatii par phir paanii de maulaa
+ chi.Diyo.n ko daane, bachcho.n ko gu.D_dhaanii de maulaa
+ garaj baras   \threedots
+
+ do aur do kaa jo.D hameshaa chaar kahaa.N hotaa hai?
+ soch\-samajh vaalo.n ko tho.Dii naadaanii de maulaa
+ chi.Diyo.n ko daane   \threedots
+
+ tere hote koyii kisii kii jaan kaa dushman kyo.n ho
+ jiine vaalo.n ko marane kii aasaanii de maulaa
+ chi.Diyo.n ko daane   \threedots
+
+ phir muurat ke baahar aakar chaaro.n or bikhar jaa
+ phir mandir ko koii Miira diivaanii de maulaa
+ chi.Diyo.n ko daane   \threedots
+
+ phir roshan kar zahar kaa pyaalaa, chamakaa nayii saliibe.n
+ jhuuTho.n kii duniyaa me.n sach ko taabaanii de maulaa
+
+ garaj baras pyaasii dharatii par phir paanii de maulaa
+ chi.Diyo.n ko daane, bachcho.n ko gu.D_dhaanii de maulaa
+ garaj baras   \threedots
+%
+#endindian
+\endsong
+%

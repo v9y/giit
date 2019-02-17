@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{aa jaa ke i.ntazaar me.n, jaane ko hai bahaar bhii}%
+\film{Halaaku}%
+\starring{Ajit, Meena Kumari, Pran}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Sanjeev Kumar 
+%	   Pavan Kumar Desikan (pkd@cs.duke.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aa jaa ke intazaar me.n, jaane ko hai bahaar bhii
+tere bagair zindagii, dard ban ke rah gaI
+
+aramaan liye baiThe hai.n ham
+siine me.n hai teraa hii Gam
+tere dil se pyaar kii vo ta.Dap kidhar gaI 
+aa jaa ke intazaar \threedots
+
+dil kii sadaa pe ai sanam
+ba.Dhate gae mere kadam
+ab to chaahe jo bhii ho dil tujhe mai.n de chukii
+aa jaa ke intazaar \threedots
+%
+#endindian
+\endsong
+%

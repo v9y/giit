@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{kahaa.N se aaye badaraa}%
+\film{Chashme Baddoor}%
+\starring{Farooq Shikhj, Deepti Naval}%
+\singer{Yesudas, Haimanti Sukla}%
+\music{Rajkamal}%
+\lyrics{Indu Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Satyen G Baindur (baindur@jhunix.hcf.jhu.edu)
+%          Raj Ganesan (cpd.tandem.com!raj)
+%          Ajoy Prabhu (Ajoy.Prabhu@launchpad.unc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kahaa.N se aae badaraa
+ghulataa jaae kajaraa
+kahaa.N se aae badaraa
+ghulataa jaae kajaraa
+
+palako.n ke satara.nge diipak
+ban baiThe aa.Nsuu ki jhAlar
+motii kaa anamolak hiiraa
+miTTii me jaa phisalaa
+kahaa.N se aae badaraa \threedots
+
+nii.nd piyaa ke sa.ng sidhaarii
+sapano.n ki suukhii phulavaarii
+amR^it hoTho.n tak aate hii
+jaise vishh me.n badalaa
+kahaa.N se aae badaraa \threedots
+
+utare megh yaa phir chhaaye
+nirday jho.nke agana ba.Dhaaye
+barase hai.n ab tose saavan
+roe  man hai pagalaa
+kahaa.N se aaye badaraa \threedots
+%
+#endindian
+\endsong
+%

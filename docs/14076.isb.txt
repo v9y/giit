@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{chho.Do bhii ye gussaa jo hu_aa so hu_aa ... kuchh khataa hai terii}%
+\film{Shabnam}%
+\year{1994}%
+\starring{Sanjay Mitra, Kanchan, Mohnish, Aloknath, Bharat Kapoor, Shammi}%
+\singer{Anuradha Paudwal, Vipin Sachdeva}%
+\music{Annu Malik}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chho.Do bhii ye gussaa jo hu_aa so hu_aa
+chho.Do bhii ye kissaa jo hu_aa so hu_aa
+kuchh khataa hai terii kuchh khataa hai merii
+baraabar kaa hai hissaa jo hu_aa so hu_aa
+chho.Do bhii ye gussaa \threedots
+
+kahaa.n gayaa vo sab ghuumanaa ghumaanaa
+aate hii mujhako baaho.n me.n uThaanaa
+tum bhii bhuul ga_ii.n vo khilakhilaanaa
+aa.Nkho.n hii aa.Nkho.n me.n pyaar jataanaa
+tumhii.n ne to pahale chhe.Dii ye la.Daa_ii
+bhuul ga_e pyaar me.n jo kasame.n khaa_ii.n
+har vaqt kaam me.n kho_ii rahatii ho
+merii ik zamaane se yaad nahii.n aa_ii
+tuu jhuuThaa hai nahii.n sachchii hai.n ye adaa_e.n par ba.Dii achchhii hai.n
+jo honaa thaa ho gayaa ai sanam jaane do
+kuchh khataa hai terii \threedots
+
+ho.nTho.n pe aa_ii baat chalo kah Daaluu.n
+dil kaa to achchhaa hai par jhaga.Daaluu
+terii chaahat me.n jaan bhii ga.nvaa duu.n
+kahii.n aur dekhe na dil meraa jale hai
+jab ye jaise sau sau chhuriyaa.n chale hai.n
+yahii baat utare na mere gale hai
+tujhe ko_ii aur chaahe mujhako khale hai
+tuu pagalii hai tuu diivaanaa mai.n shamaa huu.N mai.n paravaanaa
+jalanaa hii thaa hamako pyaar me.n jal jaane do
+kuchh khataa hai terii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dekhaa tujhe to ho ga_ii diivaanii ... paa luu.n tujhe to mar na jaa_uu.n kahii.n}%
+\film{Koylaa}%
+\year{1997}%
+\starring{Shahrukh Khan, Madhuri Dixit}%
+\singer{Alka Yagnik, Kumar Sanu, Chorus}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dekhaa tujhe to ho ga_ii diivaanii
+paa luu.n tujhe to mar na jaa_uu.n kahii.n
+dekhaa tujhe to ho ga_ii \threedots
+
+tere sa.ng jiine ko aayaa tan man apanaa dene aayaa
+dekhaa tujhe to jiine lage ham
+paa le.n tujhe to naa ho marane kaa Gam
+
+khushanasiibii se mujhe pyaar itanaa mil gayaa
+aaj aa.nchal hii meraa mujhako kam lagane lagaa
+maa.ngane teraa haath mai.n aayaa dene saaraa jiivan aayaa
+dekhaa tujhe to jiine lage \threedots
+
+chahanaa naa chaahanaa kisake vash kii baat hai
+dil kaa aa jaanaa kisii par kismato.n kii baat hai
+pahalaa pyaar to miTate naa dekhaa ye to hai patthar kii rekhaa
+dekhaa tujhe to ho ga_ii \threedots
+%
+#endindian
+\endsong
+

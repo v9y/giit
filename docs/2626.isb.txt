@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{kyaa karuu.N kyaa karuu.N}%
+\film{Raftaar}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Nashad}%
+\lyrics{Nakshab}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+
+kyaa karuu.N kyaa karuu.N
+kyaa karuu.N siine me.n huuk uThii hai ghabaraataa hai dil
+laakh bahalaataa huu.N bahalaayaa nahii.n jaataa hai dil
+
+kin andhere me.n ho tum is raaz se ho bekhabar
+roshanii hotii hai jab nazaro.n se milatii hai nazar
+aag lag uThatii hai jis dam dil se jab Takaraataa hai dil
+laakh bahalaataa huu.N \threedots
+
+haay ik dil kii badaulat luT gayii duniyaa.N tamaam
+is tabaahii me.n tumhaaraa kis liye aataa hai naam
+dil ko ta.Dapaataa ho tum aur mujhako ta.Dapaataa hai dil
+laakh bahalaataa huu.N \threedots
+
+%
+#endindian
+\endsong
+%

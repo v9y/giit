@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{koii la.Dakii hai, jab vo gaatii hai ... chak dum dum}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Karishma Kapoor, Madhuri Dixit, Shahrukh Khan}%
+\singer{Lata, Udit Narayan, chorus}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Jennifer Machado
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+chak.h dum.h dum.h chak.h dum.h dum.h
+chak.h dum.h dum.h chak.h dum.h dum.h
+
+gho.De jaisii chaal, haathii jaisii dum
+o saavan raajaa, kahaa.N se aaye tum
+chak.h dum.h dum.h   \threedots
+
+koii la.Dakii hai jab vo ha.Nsatii hai
+baarish hotii hai chhanak chhanak chhum chhum
+chak.h dum.h dum.h   \threedots
+
+koii la.Dakaa hai, jab vo gaataa hai
+saavan aataa hai, ghuma.D ghuma.D ghum ghum
+chak.h dum.h dum.h   \threedots
+
+baadal jhuke jhuke se hai.n
+raaste ruke ruke se hai.n
+kyaa terii marzii hai meghaa
+ghar hamako jaane na degaa
+aage hai barasaat, piichhe hai tuufaan
+mausam be_iimaan, kahaa.N chale ham tum
+chak.h dum.h dum.h   \threedots
+
+ambar jhukaa saa hai
+sab kuchh rukaa rukaa saa hai
+chhaayaa samaa.N kitanaa pyaaraa
+saavan kaa samajho ishaaraa
+aise mausam me.n tum bhii kuchh kaho
+tum bhii kuchh karo, kha.Dii kyo.n ho gumasum
+chak.h dum.h dum.h   \threedots
+
+%
+#endindian
+\endsong
+%

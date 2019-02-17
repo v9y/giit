@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dhiire dhiire chal, chaa.Nd gagan me.n}%
+\film{Love Marriage}%
+\starring{Dev Anand, Mala Sinha}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Prashant Kulkarni (praskulk@link.engin.umich.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+% Editor:  
+%
+\printtitle
+#indian
+%
+dhiire dhiire chal, chaa.Nd gagan me.n
+are, dhiire dhiire chal, chaa.Nd gagan me.n
+kahii.n Dhal naa jaaye raat, TuuT naa jaaye.n sapane
+dhiire dhiire chal, chaa.Nd gagan me.n
+
+vo kyaa chiiz thii, milaake nazar giraa dii
+huaa vo asar, ke hamane nazar jhukaa dii
+gun gun guu.Nje raag, aaj pavan me.n
+dhiire dhiire chal chaa.Nd gagan me.n
+
+do dil mil gaye, diye jal gaye hazaaro.n
+ajii, tum mil gaye, to gul khil gaye hazaaro.n
+ho.ngii do do baat aaj milan me.n
+are, dhiire dhiire chal chaa.Nd gagan me.n
+%
+#endindian
+\endsong
+%

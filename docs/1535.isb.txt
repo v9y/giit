@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{rim jhim ke taraane leke aayii barasaat}% 
+\film{Kaala Bazaar}%
+\year{}%
+\starring{Dev Anand, Waheeda Rehman}%
+\singer{Geeta, Rafi}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+(giitaa: rim jhim ke taraane leke aayii barasaat
+rafii:	yaad aaye kisii se vo pahalii mulaaqaat ) \- 2
+	
+(giitaa: bhiige tan man pa.De ras kii phuhaar
+rafii:	pyaar kaa sandesaa laayii barakhaa bahaar ) \- 2
+giitaa:	mai.n naa boluu.N, mai.n naa boluu.N aa.Nkhe.n kare.n a.Nkhiyo.n se baat
+rafii:	rim jhim ke taraane leke aayii barasaat
+	
+(rafii:	sunake matavaale kaale baadalo.n kaa shor
+giitaa:	ruum jhuum ghuum ghuum naache man kaa mor ) \- 2
+rafii:	sapano.n kaa saathii chal rahaa mere saath
+giitaa:	rim jhim ke taraane leke aayii barasaat
+rafii:	yaad aaye kisii se vo pahalii mulAqaat
+dono:	rim jhim ke taraane leke aayii barasaat
+
+(giitaa: jab milate ho tum to chhUTe.n dil ke taar
+rafii:	milane ko tum se mai.n kyo.n thaa beqaraar ) \- 2
+giitaa:	raha jaatii hai, raha jaatii hai kyo.n hoTho.n tak aake dil kii baat
+rafii: rim jhim ke taraane leke aayii barasaat
+giitaa: yaad aaye kisii se vo pahalii mulAqaat
+dono: rim jhim ke taraane leke aayii barasaat!
+%
+#endindian
+\endsong
+%

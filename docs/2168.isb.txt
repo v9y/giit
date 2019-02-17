@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{mujhe de rahe hai.n tasalliyaa.N}%
+\film{non-Film}%
+\year{1970}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Jigar Moradabadi}%
+%
+% Contributor: U V Ravindra
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+mujhe de rahe hai.n tasalliyaa.N vo har ek taazaa payaam se
+kabhii aa ke manzar\-e\-aam par, kabhi haT ke manzar\-e\-aam se
+
+% [tasalliyaa.N = assurances, consolation]
+% [payaam = message, letter, word, gesture]
+% [manzar-e-aam = public eye]
+
+na Garaz kisii se na vaasataa, mujhe kaam apane hii kaam se
+tere zikr se, terii fikr se, terii yaad se, tere naam se
+
+% [Garaz = want, desire, selfishness, intent, design]
+% [waastah = motive, relation]
+% [zikr = mention; fikr = thought; yaad = memory, remembrance]
+
+mere saaqiyaa!  mere saaqiyaa! tujhe mar_habaa! tujhe mar_habaa!
+tuu pilaaye jaa, tu pilaaye jaa, isii chashm\-e\-jaam\-ba\-jaam se
+
+% [saaqi(ya) = wine-maid; marHaba! = buck up/g'on/thank you!]
+% [chashm = eye; jaam = wine-glass, goblet]
+
+teri subh\-o\-aish hai kyaa balaa, tujhe ai falak jo ho hausalaa
+kabhii kar le aa ke muqaabalaa, Gam\-e\-hijr\-e\-yaar kii shaam se
+
+% [aish = expanse; balaa = trial, difficulty]
+% [falak = sky, heaven; hausalah = power, capability]
+% [muqaabilah = competition]
+
+%
+#endindian
+\endsong
+%

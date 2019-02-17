@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+\startsong
+\stitle{o kaalii ghaTaa ghir aa_ii re ... o madhur milan hai sajanaa}%
+\film{Kaali Ghataa}%
+\year{1951}%
+\starring{Kishor Sahu, Bina Roy, Asha Mathur, Gop, Ulhas}%
+\singer{Lata, Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+ra \:	o kaalii ghaTaa ghir aa_ii re \-3
+
+la \:	o bajane lagii shahanaa_ii re \-2
+	o madhur milan hai sajanaa ho madhur milan hai \-2
+	( de re na de re na de re
+	de re na de re na de re de re na ) \-2
+	o madhur milan hai sajanaa ho madhur milan hai
+
+	duur duniyaa se dekho ye naav chalii \-2
+	phir se apanii puraanii muhabbat milii \-2
+	o madhur milan hai sajanaa ho madhur milan hai
+
+ra \:	bhole chandaa ne ham par luTaa_ii ha.Nsii \-2
+	ThaNDii laharo.n kii saragam pe naache Kushii \-2
+	naache Kushii
+	o madhur milan hai sajani ho madhur milan hai
+la \:	( de re na de re na de re
+	de re na de re na de re de re na ) \-2
+	o madhur milan hai sajanaa ho madhur milan hai
+
+	aaj aramaa.N kii godii me.n jhuule ye man \-2
+	pyaar meraa kahe mai.n tumhaarii dulhan \-2
+	o madhur milan hai sajanaa ho madhur milan hai
+
+	o madhur milan hai sajanaa ho madhur milan hai
+
+#endindian
+\endsong

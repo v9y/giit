@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{aap chaahe.n to hamako miTaa diiji_e ... dil lagaane kii hamako sazaa diiji_e}%
+\film{Sangeet}%
+\year{1992}%
+\starring{Jackie, Madhuri, Aruna Irani, Shafi, Nitish, Anjan Shrivastava, Asha Sharma}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Santosh Anand}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aap chaahe.n to hamako miTaa diiji_e
+dil lagaane kii hamako sazaa diiji_e
+
+jab kabhii hamako ha.Nsane kaa mauqaa milaa
+yuu.n lagaa jaise hamako dhokhaa milaa
+aap itanii to hamase vafaa kiiji_e
+aap chaahe.n to \threedots
+
+ko_ii kaise ji_e aapako kyaa pa.Dii
+aapakaa rishtaa hai bas gha.Dii do gha.Dii
+saa.Ns lene kii hamako sazaa diiji_e
+aap chaahe.n to \threedots
+%
+#endindian
+\endsong
+

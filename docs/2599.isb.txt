@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{jaago musaafir jaago}%
+\film{Raj Laxmi}%
+\year{1945}%
+\starring{}%
+\singer{Talat}%
+\music{Robin Chatterjee, Dhiren Mitra}%
+\lyrics{Suresh Chowdhury}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: 11 Nov 2000
+% Credits:
+% Comments: Talat Mahmood's first film song, EMI CDF 132282
+%
+\printtitle
+#indian
+%
+ 
+jaago musaafir jaago, jaago musaafir jaago
+kholo man kaa dvaar, jaago musaafir jaago
+ 
+jaag uThaa hai aalam saaraa
+jaag uThaa hai aalam saaraa
+prem kii aayii pukaar, jaago musaafir jaago
+ 
+aaye saathii unhe.n bulaa lo
+dil se dil ko aaj milaa lo
+aaye saathii unhe.n bulaa lo
+dil se dil ko aaj milaa lo
+aaye saathi aaye
+saudaa kar lo ha.Nsii khushii kaa
+jag se kar lo pyaar, jaago musaafir jaago
+ 
+milake yahaa.N pe bichha.D jo jaaye.n
+koii koii to phir mil jaaye.n
+milake yahaa.N pe bichha.D jo jaaye.n
+koii koii to phir mil jaaye.n
+jiivan kii is raah pe koii
+jiivan kii is raah pe koii
+aataa ek hii baar
+aataa ek hii baar
+jaag uThaa hai aalam saaraa
+prem kii aayii pukaar, jaago musaafir jaago
+ 
+ajab tamaashaa vo dikhalaataa, ajab tamaashaa
+ajab tamaashaa vo dikhalaataa
+jo.D kisii se kisii kaa naataa
+jo.D kisii se kisii kaa naataa
+koii na jaane kaun taar me.n vo
+koii na jaane kaun taar me.n vo
+baa.Ndhe kaun saa taar, jaago musaafir jaago
+kholo man kaa dvaar, jaago musaafir jaago
+ 
+%
+#endindian
+\endsong
+%

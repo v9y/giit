@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ek ba.njaaraa gaae, jiivan ke giit sunaae}%
+\film{Jeene Ki Raah}%
+\year{1969}%
+\starring{Jeetendra, Tanuja}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Shailesh (spatel@cup.hp.com)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ek ba.njaaraa gaae, jiivan ke giit sunaae
+ham sab jiine vaalo.n ko jiine kii raah bataae
+
+zamaane vaalo kitaab\-e\-Gam me.n
+khushii kaa koI fasaanaa Dhuu.NDho
+ho o o o \threedots aa.Nkho.n me.n aa.Nsuu bhii aae
+vo aakar muskaae
+
+sabhii ko dekho nahii.n hotaa hai
+nasiibaa raushan sitaaro.n jaisaa
+sayaanaa vo hai jo patajha.D me.n bhii
+sajaa le gulashan bahaaro.n jaisaa
+ho o o o \threedots kaagaz ke phuulo.n ko bhii
+jo mahakaa kar dikhalaae
+%
+#endindian
+\endsong
+%

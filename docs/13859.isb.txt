@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{dil kii aahe.n kaun sune jo zubaa.N naa kah paaye}%
+\film{Rudraksh}%
+\year{2003}%
+\starring{Sanjay Dutt, Sunil Shetty, Bipasha Basu, Isha Koppikar}%
+\singer{K.K., Chitra}%
+\music{Shashi Pritam}%
+\lyrics{Mast Ali}%
+%
+% Contributor: BOL ANAMOL #11828 [V S Rawat]
+% Producer: Karma Entertainment, Bhairav Film, Nitin Manmohan, Sohail Maklai
+% Director: Mani Shankar
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3381 Royal Stereo, Cost: Rs 50/-
+% website: www.rudrakshthefilm.com
+%
+\printtitle
+#indian
+%
+suniil sheTTii \:	ye rudraax meraa hai
+	itane hazaaro.n saal baad aaj ye mere liye nikal aayaa hai
+	jaanate ho kyo.n
+	kyo.nkii isakaa asalii haqadaar mai.n huu.N
+
+ke \:	dil kii aahe.n kaun sune jo zubaa.N naa kah paaye
+	anjaanii in raaho.n me.n gar ko_ii mil jaaye
+chi \:	dard uThe tere siine me.n merii aa.Nkhe.n bhar aaye.n
+	yaaraa terii yaarii me.n ham had se guzar jaaye.n
+ke \:	( man karataa hai maar de.n sab ko yaa phir mar jaaye.n
+	ma.nzil ko paane kii Kaatir Kuun bhii pii jaaye.n ) \-2
+	dil kii aahe.n kaun sune jo zubaa.N naa kah paaye
+chi \:	yaaraa terii yaarii me.n ham had se guzar jaaye.n
+
+ke \:	saathiyaa sun zaraa mai.n to huu.N teraa apanaa
+	aate hai.n jaate hai.n mushqilo.n se kyaa Daranaa
+chi \:	sa.ng\-sa.ng bas tere sa.ng haath thaame rahuu.Ngii
+	ra.ng\-ra.ng Kushiyo.n ke ra.ng zi.ndagii me.n bhar duu.Ngii
+
+ke \:	dil kii aahe.n kaun sune jo zubaa.N naa kah paaye
+	anjaanii in raaho.n me.n gar ko_ii mil jaaye
+chi \:	dard uThe tere siine me.n merii aa.Nkhe.n bhar aaye.n
+	yaaraa terii yaarii me.n ham had se guzar jaaye.n
+
+ke \:	( man karataa hai maar de.n sab ko yaa phir mar jaaye.n
+	ma.nzil ko paane kii Kaatir Kuun bhii pii jaaye.n ) \-2
+%
+#endindian
+\endsong
+

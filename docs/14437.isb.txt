@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{kar bhalaa hogaa bhalaa ant bhale kaa bhalaa}%
+\film{Taangewaalaa}%
+\year{1972}%
+\starring{Rajendra Kumar, Mumtaz, Kumud Chhugani, Sujit Kumar, Kamini Kaushal}%
+\singer{Mukesh}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10666 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kar bhalaa hogaa bhalaa ant bhale kaa bhalaa
+aaj sab kuchh hai teraa kal kaa hai kisako pataa
+kar bhalaa hogaa bhalaa \threedots
+
+jaisaa ko_ii biij hai botaa vaisii cha.Dhatii bel yahaa.N
+kaisaa raajaa kaun bhikhaarii sab karmo.n kaa khel yahaa.N
+saath kisii ke melaa ko_ii bhaTake akelaa
+kar bhalaa hogaa bhalaa \threedots
+
+jiivan kam hai duur hai ma.nzil sapano.n me.n naa Dol zaraa
+nii.nd me.n biitii jaa_e umariyaa aa.Nkh musaafir khol zaraa
+dekh tere jiivan kaa ek din aur Dhalaa
+kar bhalaa hogaa bhalaa \threedots
+%
+#endindian
+\endsong
+

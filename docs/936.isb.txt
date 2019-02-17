@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{kabhii khud pe, kabhii haalaat pe ronaa aayaa}%
+\film{Hum Dono}%
+\year{1961}%
+\starring{Dev Anand, Sadhana, Nanda}%
+\singer{Rafi}%
+\music{Jaidev}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+kabhii Kud pe, kabhii haalaat pe ronaa aayaa
+baat nikalii, to har ik baat pe ronaa aayaa
+
+ham to samajhe the ki ham bhuul gae hai.n unako
+kyaa huaa aaj, ye kis baat pe ronaa aayaa
+
+kisa liye jiite hai.n ham kisake liye jiite hai.n
+baarahaa aise savaalaat pe ronaa aayaa
+
+kaun rotaa hai kisii aur kii Kaatir ai dost
+sabako apanii hii kisii baat pe ronaa aayaa
+%
+#endindian
+\endsong
+%

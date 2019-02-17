@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{kabhii to nazar milaa_o}%
+\film{Kabhi To Nazar Milao (Non-Film)}%
+\year{2001}%
+\starring{}%
+\singer{Adnan Sami, Asha}%
+\music{Adnan Sami}%
+\lyrics{Riyaaz-ur-rahmaan Saagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+kabhii to nazar milaa_o kabhii to kariib aa_o
+jo nahii.n kahaa hai kabhii to samajh bhii jaa_o
+ham bhii to hai.n tumhaare diivaane ho diivaane
+kabhii to nazar \threedots
+
+hamane tumako dekhate hii dil diyaa
+tum bhii socho tumane hamase kyaa kiyaa
+tumane kyaa kiyaa kyaa kiyaa
+meraa dil na to.Do kabhii dil se dil milaa lo
+kabhii to nazar \threedots
+
+dil ye chaahe terii zulfe.n chuum luu.n
+sochataa huu.N aur tumase kyaa kahuu.N
+tumase kyaa kahuu.N kyaa kahuu.N
+ko_ii faisalaa do kabhii to gale lagaa_o
+ham bhii to hai.n \threedots
+%
+#endindian
+\endsong
+

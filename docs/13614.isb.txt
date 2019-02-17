@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aap naaraaz Kudaa Kair kare naaz\-o\-andaaz}%
+\film{Pyar Mohabbat}%
+\year{1966}%
+\starring{Dev Anand, Saira Bano, Shashikala}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11014 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+aap naaraaz Kudaa Kair kare
+naaz\-o\-andaaz Kudaa Kair kare
+apanii to jaan pe ban aa_ii hai
+aap naaraaz \threedots
+
+aaKir to ko_ii baat hai tujhame.n aaj jo paas chale aa_e
+aap naaraaz \threedots
+
+aap achchhe lage mujhako huzuur mere dil kaa hai bas yahii qusuur
+isake li_e le liiji_e merii jaa.N aur ko_ii sazaa diiji_e huzuur
+aap naaraaz \threedots
+
+aapake pyaar kaa sahaaraa thaa varanaa duniyaa me.n kyaa hamaaraa thaa
+sapanaa vo TuuT gayaa kyaa kare.n lekin bharam vo dil ko pyaaraa thaa
+aap naaraaz \threedots
+%
+#endindian
+\endsong
+

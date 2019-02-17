@@ -1,0 +1,35 @@
+% ITRANS SONG # 15056; Created on Aug 16, 2004
+
+\startsong
+\stitle{man prem kii jyot jalaa sajanii}%
+\film{Anaath Aashram}%
+\year{1937}%
+\starring{Uma Shashi, Najam, Jagdish, Pritviraj, Neemo, Manorama}%
+\singer{Uma Shashi, Pahari Sanyal}%
+\music{R C Boral}%
+\lyrics{Kedar Sharma}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 13, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+u \:	( man prem kii jyot jalaa sajanii
+	nainan me.n pii ko bulaa sajanii ) \-2
+
+	( hriday me.n unhe.n bulaanaa hai
+	nit ut isanaan karaanaa hai ) \-2
+pa \:	nainan se niir bahaa sajanii \-2
+do \:	man prem kii jyot jalaa sajanii \-2
+	nainan me.n pii ko bulaa sajanii
+
+pa \:	( khoye huye ko paanaa hai jo \-2
+	priit kii riit nibhaanaa hai ) \-2
+	jiite jii mar jaa sajanii phir jiite jii mar jaa sajanii
+u \:	nainan me.n pii ko bulaa sajanii \-2
+pa \:	phir jiite jii mar jaa sajanii \-2
+do \:	nainan me.n pii ko bulaa sajanii \-2
+
+#endindian
+\endsong

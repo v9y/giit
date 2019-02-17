@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{patajhar saavan basant bahaar}%
+\film{Sindoor}%
+\year{1987}%
+\starring{Shashi Kapoor, Jayaprada, Govinda, Neelam, Gulshan Grover, Asrani}%
+\singer{Mohammed Ajiz, Lata/ Suresh Wadkar, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11325 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	patajhar saavan basant bahaar \-2
+	ek baras ke ( mausam chaar ) \-2
+	paa.Nchavaa.N mausam pyaar kaa intazaar kaa \-2
+	patajhar saavan \threedots
+
+	koyal kuuke kuu kuu kuu
+	koyal kuuke bulabul gaa_e
+	har ek mausam aa_e\-jaa_e
+a \:	lekin pyaar kaa mausam aa_e \-2
+	saare jiivan me.n ( ek baar ) \-2
+	patajhar saavan \threedots
+la \:	patajhar saavan \threedots
+do \:	patajhar saavan \threedots
+
+a \:	ra.ngo.n kaa melaa ye jag saaraa
+la \:	ra.ngo.n kaa melaa ye jag saaraa
+a \:	ra.ng badalatii jiivan dhaaraa
+la \:	ra.ng badalatii jiivan dhaaraa
+a \:	pyaar kaa ra.ng hai sabase pyaaraa
+la \:	pyaar kaa ra.ng hai sabase pyaaraa
+do \:	ra.ng\-bira.nge ( ra.ng hazaar ) \-2
+	patajhar saavan \threedots
+%
+% Part 2:
+%
+	patajhar saavan basant bahaar \-2
+	ek baras ke ( mausam chaar ) \-2
+	paa.Nchavaa.N mausam pyaar kaa intazaar kaa \-2
+	patajhar saavan \threedots
+
+	phuul khile na baadal barase
+	pyaar ke mausam me.n dil tarase
+	ho mere gale me.n apanii nazar se
+	Daal do tum baa.Nho.n ke haar
+	patajhar saavan \threedots
+%
+#endindian
+\endsong
+

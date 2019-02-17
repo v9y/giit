@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{hame.n tum se mohabbat hai, bataanaa bhii nahii.n aataa}%
+\film{Baazigar}%
+\year{}%
+\starring{Kajol, Shah Rukh Khan}%
+\singer{Vinod Rathod}%
+\music{Annu Malik}%
+\lyrics{Rani Malik}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Swaraj Horree (900707h@dragon.acadiau.ca)
+% Editor:  
+%
+\printtitle
+#indian
+%
+chhupaanA bhii nahii.n aataa
+jataanA bhii nahii.n aataa
+hame.n tum se mohabbat hai  \- 2        
+bataanA bhii nahii.n aataa, chhupaanA bhI \threedots
+
+%   Hay hay hay
+%   Ha ha ha
+%   Ha la la
+hathelii par tumhaaraa naam
+likhate hai.n miTaate hai.n  \- 2 
+tumhii se pyaar karate hai.n
+tumhi se hii kyuu.N chhupaate hai.n  \- 2
+zubaa.n pe baat hai lekin
+sunaanaa hii nahii.n aataa
+hame.n tum se mohabbat hai \threedots
+
+mohabbat kaise karate hai.n
+koI to hamako samajhaae   \-  2
+kahii.n aisaa na ho ki
+pyaar bin umr kaT jaae \- 2
+tum se milane kaa koI
+bahaanaa bhii nahii.n aataa
+hame.n tum se mohabbat hai \threedots
+
+chorii chorii chupake chupake 
+tumako dekhaa karate hai.n   \- 2  
+haal\-e\-dil sunaane se
+na jaane kyuu.N Darate hai.n \- 2
+kitanA paagal dil hai meraa
+manaanaa bhii nahii.n aataa
+hame.n tum se mohabbat hai \threedots
+%
+#endindian
+\endsong
+%

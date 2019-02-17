@@ -1,0 +1,54 @@
+% 
+\startsong
+\stitle{mohe bhuul gae saa.Nvariyaa}%
+\film{Baiju Bawra}%
+\year{1952}%
+\starring{Bharat Bhushan, Meena Kumari}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+% 
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu) 
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Sun Jul  9 1995
+% Credits:  Rajiv Shridhar ?!!
+% Editor:  
+% Comments: Pankha Road se Pintu Diwana [23]
+%           there is really no need to say for this gem except that
+%           the last para has "jhooTee" and NOT "jhooThee". reason?
+%           even though the correct word is "jhooThee", but Lata sings it
+%           as "jhooTee". I lost a point in antakshari on another song
+%           that ended in "jhooTaa", so I listened this song carefully.
+%           Lata does say "jhooTee" :-(
+%           The taan in the end of first line of each antara, is very good!
+%
+\printtitle
+#indian
+%
+jo mai.n aisaa jaanatii
+ke priit kiye dukh hoy
+o, nagar Dhi.nDhoraa piiTatii
+ke priit na kariyo koy
+
+mohe bhuul gae saa.Nvariyaa, bhuul gae saa.Nvariyaa \-2
+aavan kah gaye, ajahu.n na aaye \-2
+liinii na morii khabariyaa
+mohe bhuul gae\threedots
+
+(dil ko di_e kyo.n dukh birahaa ke
+ to.D diyaa kyo.n mahal banaa ke)  \-2
+aas dilaa ke o bedardii	 \-2
+pher lii kaahe najariyaa
+mohe bhuul gae\threedots
+
+(nain kahe ro\-ro ke sajanaa
+ dekh chuke ham pyaar kaa sapanaa)  \-2
+priit hai jhuuTii, priitam jhuuTaa  \-2
+jhuuTii hai saarii nagariyaa
+mohe bhuul gae\threedots
+%
+% -- ShashiKant Joshi urf Pintu Diwana
+%
+#endindian
+\endsong
+%

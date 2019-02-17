@@ -1,0 +1,55 @@
+
+%
+\startsong
+\stitle{koyal kyo.n gaa_e ... baaG se jab patajha.D jaa_e re}%
+\film{Aap Aaye Bahaar Aayee}%
+\year{1971}%
+\starring{Rajendra Kumar, Sadhana}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11164 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	koyal kyo.n gaa_e \-8
+la \:	baaG se jab patajha.D jaa_e re bahaar chalii aa_e
+	man mast pavan dha.Dakaa_e ki ambu_aa pe koyal gaa_e
+
+la \:	baadal kyo.n chhaa_e \-4
+ra \:	birahaa ke jab giit ko_ii gaa_e re to aag lag jaa_e
+	rimajhim paanii barasaa_e ki aakaash pe baadal chhaa_e
+
+	( hiranii sii aa.Nkh terii ) \-3 moranii sii chaal
+	aa tujhase puuchhuu.N mai.n ik chhoTaa saa savaal
+	baaje kyuu.n ghu.Ngharuu \-2
+la \:	paa.Nv me.n jab kaa.NTaa lag jaa_e maare dard ke haay
+	jab raat me.n nii.nd na aa_e to chham\-chham baaje ghu.Ngharuu
+
+	( niile gagan pe aa_ii ) \-2 chaa.Nd kii baaraat
+	aa tujhase puuchhuu.N mai.n ik chhoTaa sii ye baat
+	manavaa kyuu.N Dole \-2
+ra \:	nadiyaa me.n jab naav khaa_e hichakole chorii\-chorii haule\-haule
+	jab saajan ghuu.NghaT khole to gorii kaa manavaa Dole
+
+la \:	( ittaa Gumaan dekho\-dekho ) \-3 hotaa hai Karaab
+	abake sambhal ke denaa o raajaa mujhe denaa javaab
+	jhumakaa kyo.n jhuume.n \-2
+ra \:	ittii sii baat na jaane sab tere hai.n diivaane
+	jhumakaa jhuumane ke bahaane teraa phuul saa mujha.Daa chuume
+	aap aa_e bahaar \threedots
+##boys## \:	koyal kyo.n gaa_e
+##girls## \:	baadal kyo.n chhaa_e
+##boys## \:	koyal kyo.n
+ra \:	gaa_e
+##girls## \:	baadal kyo.n
+la \:	chhaa_e
+%
+#endindian
+\endsong
+

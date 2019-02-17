@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{o paradesii baalamaa ab naa tarasaa o jaalamaa}%
+\film{Shaan}%
+\year{1950}%
+\starring{Suraiya, Rahman, Manorama, David, Amar, Chand, Cukoo, Sapru}%
+\singer{Suraiya, Chorus}%
+\music{Hansraj Behl}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12535 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	( o paradesii baalamaa ab naa tarasaa o jaalamaa
+	morii baalii umariyaa julum na kar bairiyaa bairiyaa
+ko \:	ho julum na kar bairiyaa ) \-2
+
+su \:	( panaghaT pe mai.n kha.Dii\-kha.Dii
+	rah dekhuu.N terii gha.Dii\-gha.Dii ) \-2
+	baar\-baar yahii sochuu.N mai.n
+	merii kis khan aa.Nkh la.Dii
+	o merii kis khan aa.Nkh la.Dii
+
+	julum na kar bairiyaa bairiyaa
+ko \:	ho julum na kar bairiyaa
+su \:	o paradesii baalamaa ab naa tarasaa o jaalamaa
+	morii baalii umariyaa julum na kar bairiyaa bairiyaa
+ko \:	ho julum na kar bairiyaa
+
+
+su \:	( kahaa.N gayaa o bedardii tuu
+	mujhase aa.Nkh churaa ke ) \-2
+	baiThii huu.N mai.n ab tak dil me.n
+	terii yaad chhupaa ke
+	o terii yaad chhupaa ke
+
+	julum na kar bairiyaa bairiyaa
+ko \:	ho julum na kar bairiyaa
+su \:	o paradesii baalamaa ab naa tarasaa o jaalamaa
+	morii baalii umariyaa julum na kar bairiyaa bairiyaa
+ko \:	ho julum na kar bairiyaa
+%
+#endindian
+\endsong
+%
+

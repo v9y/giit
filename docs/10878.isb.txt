@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{jaa re jaa re o maakhan chor}%
+\film{Champaakali}%
+\year{1957}%
+\starring{Bharat Bhushan, Suchitra Sen, Shobha Khote}%
+\singer{Rafi, Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10221 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	jaa re jaa re o maakhan chor \-2
+	chalegii naa ye chorii terii joraa\-jorii
+	o chhaliyaa jaa jaa kaahe machaavat shor \-2
+ra \:	kabhii naa chho.Duu.N torii ye bahiyaa.N gorii\-gorii
+	sajaniyaa kaahe machaavat shor
+
+la \:	aisii ThiTholii karo hamase naa rasiyaa kaun ho tum hamaare jii
+	dekho jii dekho meraa bholaa saa manavaa
+	samajhe nahii.n ishaare o chhaliyaa
+	jaa re jaa re o maakhan chor \threedots
+
+ra \:	o mai.n bansii tuu taan meraa teraa saath puraanaa
+	o rahane do ye baat chale naa ko_ii bahaanaa
+	maano naa maano tumhe.n dil kii qasam hai apanaa hame.n banaanaa
+	sajaniyaa kaahe machaavat shor \threedots
+
+la \:	haTo jii haTo merii dil kii Dagariyaa yuu.N hame.n naa sataa_o
+ra \:	jaane se pahale mere dil kii nagariyaa muskaraa ke basaa_o
+la \:	jaanuu.N naa jaanuu.N kaisaa dil hai tumhaaraa
+	pahale dil to dikhaa_o re chhaliyaa
+	jaa re jaa re o maakhan chor \threedots
+%
+#endindian
+\endsong
+

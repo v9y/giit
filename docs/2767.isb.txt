@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{ai dil merii vafaa me.n koii asar nahii.n hai}%
+\film{Anokha Pyaar}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis, Nalini Jayawant}%
+\singer{Lata, Ira Nagrath/Meena Kapoor, Ira Nagrath}%
+\music{Anil Biswas}%
+\lyrics{Shams Azimabadi}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:
+% Date:Dec 19,2000
+% Credits:
+% Comments:LATAnjali
+%
+\printtitle
+#indian
+%
+
+la:  ai dil merii vafaa me.n koii asar nahii.n hai
+     mai.n mar rahii huu.N jin par unako khabar nahii.n hai
+     ai dil merii vafaa me.n
+     mere hii dil me.n rah kar mujh par nazar nahii.n hai
+     ai dil merii vafaa me.n \threedots
+
+ira: (dil leke ab kahaa.N hai dil ke jagaane(?) vaale)\-2
+     (aa.Nkho.n se duur kyo.n hai dil me.n samaane vaale)\-2
+     koii unhe.n bataae.n mujhako khabar nahii.n hai
+     ai dil merii vafaa me.n \threedots
+
+la:  uThate hai.n dil ke shole
+     aa.Nkho.n me.n hai andheraa
+     mai.n ho ga_ii kisii kii
+     (koii huaa na meraa)\-3
+     jo aag idhar lagii hai
+     vo aag udhar nahii.n hai
+     ai dil merii vafaa me.n \threedots
+
+ira: ab yaad me.n kisii kii
+     mar mar ke jii rahii huu.N 
+     aa.Nsuu jo aa rahe.n hai.n
+     aa.Nkho.n me.n pii rahii huu.N
+     ab yaad me.n kisii kii
+     mar mar ke jii rahii huu.N  
+     hotii hai ? dil me.n
+     aur aankh kar ? rahii hai
+     ai dil merii vafaa me.n \threedots
+
+%
+#endindian
+\endsong
+%
+

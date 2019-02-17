@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{tumase kitanaa pyaar hai dil me.n utar kar dekh lo}%
+\film{Company}%
+\year{2002}%
+\starring{Ajay Devgan, Vivek Oberoy, Manisha, Antara Mali, Mohanlal}%
+\singer{Altaaf Rajaa}%
+\music{Sandeep Chowtha}%
+\lyrics{Tabish Romani}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumase kitanaa pyaar hai dil me.n utar kar dekh lo
+naa yakii.n aa_e to phir dil badal kar dekh lo
+tumase kitanaa \threedots
+
+hamane apanii har saa.Ns par naam teraa likh diyaa
+ik tujhe paane kii khaatir khud ko paagal kar diyaa
+ishq me.n tum bhii sanam had se guzar kar dekh lo
+tumase kitanaa \threedots
+
+jaane kyuu.N saare jahaa.N se ho ga_e hai.n bekhabar
+jabase tum aa.Nkho.n me.n aa_e jaagatii hai ye nazar
+apanii raato.n se merii raate.n badal kar dekh lo
+tumase kitanaa \threedots
+%
+#endindian
+\endsong
+

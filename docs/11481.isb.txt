@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{dil ke sannaaTe khol kabhii}%
+\film{Filhaal}%
+\year{2002}%
+\starring{Tabu, Sushmita Sen, Sanjay Suri, Palash Sen}%
+\singer{Palash Sen}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ke sannaaTe khol kabhii
+tanhaa_ii tuu bhii bol kabhii
+parachhaa_iiyaa.n chunataa rahataa hai
+kyuu.N rishte bunataa rahataa hai
+o in vaado.n ke piichhe ko_ii nahii.n
+kyuu.N vaade bunataa rahataa hai
+dil ke sannaaTe khol \threedots
+
+bujh jaa_e.Ngii saarii aavaaze.n
+yaade.n yaade.n rah jaa_e.Ngii
+o tasviire.n bache.ngii aa.Nkho.n me.n
+aur baate.n sab bah jaa_e.Ngii
+dil ke sannaaTe khol \threedots
+%
+#endindian
+\endsong
+

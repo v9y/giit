@@ -1,0 +1,69 @@
+
+%
+\startsong
+\stitle{aag lagii tan\-man me.n dil ko pa.Daa thaamanaa}%
+\film{Aan}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Nadira, Premnath, Mukri, Cukoo}%
+\singer{Shamshad}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10014 [V S Rawat]
+% Comments: First colored film in Hindi, First film of Nadira
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( aag lagii tan\-man me.n
+dil ko pa.Daa thaamanaa
+raam jaane kab hogaa
+sai.nyaa.N jii kaa saamanaa ) \-2
+ho
+
+suunii hai aaj piyaa morii aTariyaa
+piyaa morii aTariyaa
+zaraa diijo Kabariyaa
+dil ta.Dape jaise binaa jal kii machhariyaa
+zaraa liijo Kabariyaa
+suunii hai aaj piyaa morii aTariyaa
+piyaa morii aTariyaa
+dil ta.Dape jaise binaa jal kii machhariyaa
+zaraa liijo Kabariyaa
+aan pa.De mushqil to aaye ko_ii kaam naa
+raam jaane kab hogaa
+sai.nyaa.N jii kaa saamanaa
+huu.n
+
+saajan kii yaad mujhe pal pal sataaye
+mujhe pal pal sataaye
+dekho nainaa bhar aaye
+tan kaa singaar mere man ko na bhaaye
+dekho nainaa bhar aaye
+saajan kii yaad mujhe pal pal sataaye
+mujhe pal pal sataaye
+tan kaa singaar mere man ko na bhaaye
+dekho nainaa bhar aaye
+pyaar meraa ho jaaye kahii.n badanaam naa
+raam jaane kab hogaa
+sai.nyaa.N jii kaa saamanaa
+haay
+
+laagii naa chhuuTe karuu.N ko_ii bahaanaa
+karuu.N ko_ii bahaanaa
+aayaa naazuq zamaanaa
+dil meraa banaa piyaa teraa nishaanaa
+aayaa naazuq zamaanaa
+laagii naa chhuuTe karuu.N ko_ii bahaanaa
+karuu.N ko_ii bahaanaa
+dil meraa banaa piyaa teraa nishaanaa
+aayaa naazuq zamaanaa
+hoye buraa ulfat kaa dekho anjaam naa
+raam jaane kab hogaa
+sai.nyaa.N jii kaa saamanaa
+%
+#endindian
+\endsong
+

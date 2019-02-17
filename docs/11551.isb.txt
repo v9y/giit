@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{aaj mai.n khush huu.N lo tum hii bolo mai.n huu.N khush kyuu.n}%
+\film{Grahan}%
+\year{1999}%
+\starring{Jackie, Manisha, Anupama Verma, Achyut Potdar, Amita, Ranjit Kapoor}%
+\singer{}%
+\music{Karthik Raja}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aaj mai.n khush huu.N lo tum hii bolo mai.n huu.N khush kyuu.n
+jaldii jaldii bolo chalo
+saath chal rahe hai.n to isali_e tum khush ho
+baat yahii hai naa kaho
+ye kyaa baat bolii chalo maarii taalii
+ye sach hii kahaa a_ii a_ii yo a_ii a_ii yo ho
+
+kaano.n kii ye baalii lo chuume mere gaalo.n ko aise kyo.n chuume kaho
+jaise tum naacho vaise vo bhii jhuume naache jhuum jhuum jhuume suno
+ye kyaa baat bolii \threedots
+
+mujhako ye duniyaa lo dikhatii hai saarii ulaTii aisii mujhe dikhatii hai kyuu.n
+tuu hai siidhii saadii to isali_e tujhako sun duniyaa saarii dikhatii hai yuu.n
+ye kyaa baat bolii \threedots
+%
+#endindian
+\endsong
+

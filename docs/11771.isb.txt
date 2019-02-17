@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{kaash haule haule tuu meraa ho le}%
+\film{Haule Haule (Non-Film)}%
+\year{2000}%
+\starring{}%
+\singer{Ila Arun}%
+\music{Karthik Raja}%
+\lyrics{Ila Arun}%
+%
+% Contributor: V S Rawat, 25/12/2002
+% 
+\printtitle
+#indian
+%
+kaash haule haule tuu meraa ho le
+
+ka.ngan bole khan khan bole paayal bole chham chham bole
+dil bole dha.Dakan bole man me.n hotii halachal bole
+haule haule aa kaash haule haule tuu \threedots
+
+meha.ndii bole bi.ndii bole kajaraa bole gajaraa bole
+har pal bole kuchh kuchh bole ab to meraa manavaa Dole
+haule haule aa kaash kaash kaash haule haule tuu \threedots
+
+koyal bole mainaa bole din bole rainaa bole
+man kaa khoyaa chainaa bole cha.nchal dono.n nainaa bole
+haule haule kaash kaash
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{nazaro.n se aaj dil me.n samaane kii raat hai}%
+\film{Gambler}%
+\year{1960}%
+\starring{Premnath, Shakeela, Agha, K N Singh, Pran}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #11454 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mu \:	nazaro.n se aaj dil me.n samaane kii raat hai
+la \:	ye raat to nasiib jagaane kii raat hai
+
+	sun lo zaraa qariib se ye dil kii dha.Dakane.n
+	ye dil kaa haal sunane\-sunaane kii raat hai
+mu \:	nazaro.n se aaj \threedots
+
+	qadamo.n me.n kyuu.N bichhii hu_ii hai aaj chaa.Ndanii
+	palako.n pe chaa.Ndanii ko biThaane kii raat hai
+la \:	nazaro.n se aaj \threedots
+
+	dekho falaq kii maa.Ng sitaaro.n se bhar ga_ii
+mu \:	zulfo.n me.n bhii sitaare sajaane kii raat hai
+do \:	nazaro.n se aaj \threedots
+%
+#endindian
+\endsong
+

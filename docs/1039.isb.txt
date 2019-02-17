@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{kyo.n mere dil me.n dard basaayaa javaab do}%
+\film{Bawre Nain}%
+\year{1950}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Rajkumari}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+%
+\printtitle
+#indian
+%
+kyo.n mere dil me.n dad.r basaayaa javaab do
+kyo.n bhole-bhaale dil ko lubhaayaa javaab do
+
+dil kii kalii ko khilane se pahale masal diyaa
+kaahe ha.Nsaa ha.Nsaa ke rulaayaa javaab do
+kyo.n mere dil me.n   \threedots
+
+duniyaa me.n chhaa rahaa hai a.ndheraa tere baGair
+kyo.n mere dil kaa diip bujhaayaa javaab do
+kyo.n mere dil me.n   \threedots
+
+phuuTii ghaTaa_o.n vo merii khushiyaa.N kahaa.N gayii
+kyo.n mujhako pyaar raas na aayaa javaab do
+kyo.n mere dil me.n   \threedots
+
+%
+#endindian
+\endsong
+%

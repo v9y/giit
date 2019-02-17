@@ -1,0 +1,43 @@
+% 
+\startsong
+\stitle{ham bahano.n ke li_e, mere bhaiyaa, aataa hai ek din}%
+\film{Anjaana}%
+\year{1969}%
+\starring{Rajendra Kumar, Babita}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta <himanshu.gupta@eng.sun.com> 
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Date: 08/17/1995
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org> 
+% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Comments: Released in 1960
+%
+\printtitle
+#indian
+%
+ham bahano.n ke li_e mere bhaiyaa
+aataa hai ek din saal me.n \-2
+aaj ke din mai.n jahaa.N bhii rahuu.N
+chale aanaa vahaa.N har haal me.n \-2
+ham bahano.n ke li_e mere bhaiyaa
+aataa hai ek din saal me.n \-2
+
+(kitane din aur kitanii raine.n
+ is aa.Ngan me.n rahanaa hai mai.nne)	\-2
+paradesii hotii hai.n bahane.n
+baabul jaane bhej de merii
+Dolii kab sasuraal me.n
+chale aanaa vahaa.N har haal me.n
+
+ham bahano.n ke li_e mere bhaiyaa
+aataa hai ek din saal me.n \-2
+aaj ke din mai.n jahaa.N bhii rahuu.N
+chale aanaa vahaa.N har haal me.n \-2
+%
+#endindian
+\endsong
+%
+

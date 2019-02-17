@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{are karate hai.n ham pyaar ##Mister India## se}%
+\film{Mr. India}%
+\year{1987}%
+\starring{Anil Kapoor, Sridevi}%
+\singer{Kishor, Kavita Subramaniam}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are karate hai.n ham pyaar ##Mister India## se
+hamako milanaa sau baar ##Mister India## se
+hai milanaa kyaa jo na dikhaa_ii de
+bechaaraa sirf sunaa_ii de
+are kyaa rakhaa hai aise ##Mister India## me.n
+are karate hai.n ham pyaar \threedots
+
+jaane kaisaa jaaduugar hai vo anadekhaa anajaanaa
+usakii diivaanii ban jaa kahataa hai dil diivaanaa
+kyo.n usakii diivaanii banatii ho
+tum khud bhii kisii se kam to nahii.n
+vo ko_ii ##Atom bomb## to nahii.n
+are kyaa rakhaa hai aise \threedots
+
+mujhako le aayaa hai raahii jaane kaisii raaho.n me.n
+din me.n bhii ye sapane.n dekhuu.n mai.n huu.N usakii baaho.n me.n
+tum to bekaar tarasatii ho
+us kaam kaa mai.n bhii maahir huu.N
+vo Gaayab hai mai.n haazir huu.N
+are karate hai.n ham pyaar \threedots
+
+mere sapano.n kaa vo raajaa
+Di.ng Daa.ng Di.ng Daa.ng Daa.ng
+paagal ab to hosh me.n aajaa
+Di.ng Daa.ng Di.ng Daa.ng Daa.ng
+kitanaa hai vo himmat vaalaa
+hogaa ek din to mu.Nh kaalaa
+usake jaisaa nahii.n hai duujaa
+jogan mat kar itanii puujaa
+vo ko_ii aisaa vaisaa nahii.n
+ik din tumako dikhalaa duu.ngii ik din samajhaa duu.ngii
+ki kyaa rakhaa hai mere ##Mister India## me.n
+are milanaa hai bekaar ##Mister India## se
+chho.Do milanaa sarakaar ##Mister India## se
+are karate hai.n ham pyaar \threedots
+%
+#endindian
+\endsong
+

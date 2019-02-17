@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aaj kii mulaakaat bas itanii}% 
+\film{Bharosaa}%
+\year{1963}%
+\starring{Guru Dutt, Asha Parekh}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:
+% Editor:
+%
+\printtitle 
+#indian 
+%
+f: aaj kii mulaakaat bas itanii, 
+kar lenaa baate.n kal chaahe jitanii 
+m: achchhii nahii.n hotI hai zid itanii, 
+dekho hame.n tumase hai priit kitanii 
+
+f: pyaar jo kiyaa hai jataate ho kyuu.n, 
+baat aisii hoTho.n pe laate ho kyuu.n 
+m: aur ham jo puuchhe.n sataate ho kyuu.n, 
+abhii abhii aaye abhii jaate ho kyuu.n 
+
+m: kabhii kabhii aise bhii aayaa karo 
+chaa.Nd nikale to ghar jaayaa karo 
+f: aaye.nge jaaye.nge marazii se ham 
+pyaar hai to naaz bhI uThaayaa karo 
+
+m: Thaharo mai.n dil ko sambhaaluu.n zaraa 
+palako.n me.n tumako chhupaa luu.n zaraa 
+f: samajhe nA ab tak mohabbat hai kyaa 
+aao tumhe ye bhii samajhaa duu.n zaraa 
+%
+#endindian
+\endsong
+%

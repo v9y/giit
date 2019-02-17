@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{tel maalish buuT paalish}%
+\film{Tel Malish Boot Polish}%
+\year{1961}%
+\starring{Sheikh Mukhtar, Kumkum, Chandrashekhar, Madanpuri, Radhika}%
+\singer{Mukesh}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10165 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tel maalish buuT paalish
+	ek aanaa buuT paalish do aanaa tel maalish
+
+	gaa.Dhe pasiine kii ye apanii kamaa_ii hai
+	naa to kisii kii chorii naa ko_ii siinaa\-zorii
+	haatho.n se roTii jo kamaa_ii hai to khaa_ii hai
+ko \:	ek aanaa buuT paalish \threedots
+
+	ba.ngale me.n rahate nahii.n rahate hai.n chaal me.n
+	Kush hii rahe hai.n yaaro.n rahe.n jis haal me.n
+	phaaqe bhii kaaTe par maa.ngii nahii.n paa_ii hai
+ko \:	ek aanaa buuT paalish \threedots
+
+	laakho.n kii tamannaa hai na mahalo.n kaa Kyaal hai
+	subah\-shaam roTii mile itanaa savaal hai
+	to bhii na jiine de ye duniyaa duhaa_ii hai
+ko \:	ek aanaa buuT paalish \threedots
+
+	duniyaa me.n chhoTaa nahii.n ko_ii chhoTe kaam se
+	chhoTaa hai jo peT bhare kisii khoTe kaam se
+	haatho.n kii mehanat me.n kaun sii buraa_ii hai
+ko \:	ek aanaa buuT paalish \threedots
+%
+#endindian
+\endsong
+

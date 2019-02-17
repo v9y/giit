@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{terii yaad dil se, bhulaane chalaa huu.N}%
+\film{Hariyali Aur Rasta}%
+\year{1962}%
+\starring{Manoj Kumar, Mala Sinha}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Neeraj Malhotra (malhotra@bedford.progress.com)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+terii yaad dil se, bhulaane chalaa huu.N
+ke khud apanii hastii, miTaane chalaa huu.N \- 2
+terii yaad \threedots
+
+ghaTaao.n tumhe.n saath denaa pa.Degaa \- 2
+mai.n phir aaj aa.Nsuu bahaane chalaa huu.N
+bahaane chalaa huu.N
+terii yaad \threedots
+
+kabhii is jagah khvaab dekhe the maine \- 2
+vahii KAk apanii u.Daane chalaa huu.N
+u.Daane chalaa huu.N
+terii yaad \threedots
+%
+#endindian
+\endsong
+%

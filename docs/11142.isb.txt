@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{paayaliyaa ho ho ho ... terii paayaliyaa shor machaa_e}%
+\film{Deewaanaa}%
+\year{1992}%
+\starring{Rishi Kapoor, Shahrukh Khan, Divya Bharati}%
+\singer{Alka Yagnik, Kumar Sanu, Chorus}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+paayaliyaa ho ho ho
+ji.nd maahiyaa ji.nd maahiyaa jaanaa mai.n jaanaa tere saath ve
+paayaliyaa ho ho ho
+terii paayaliyaa shor machaa_e nii.nd u.Daa_e
+mujhako paas bulaa_e rabbaa ho 
+paayaliyaa ho ho ho \threedots
+
+aa.Nkho.n me.n tere sapane ho.nTho.n pe terii baate.n
+ye din to kaT jaataa hai guzaratii nahii.n raate.n
+haay kaise mai.n sunaa_uu.n jiyaa kaa tujhako haal
+ki yaad nahii.n mujhako mahiinaa dil saal
+saa.Nso.n me.n baa.ndhe saa.Nso.n kaa ba.ndhan
+terii paayal gorii mere dil kii dha.Dakan
+paayaliyaa giit sunaa_e \threedots
+
+merii paayal pe likhaa hai diivaane teraa naam
+baaho.n me.n terii biite ab merii subah\-o\-shaam
+jii kahataa hai mai.n paayal ban jaa_uu.n
+in gore gore pairo.n kii ra.ngat churaa_uu.n
+aisii baato.n se mujhako Dar laage
+naazuk hote hai.n chaahat ke dhaage
+paayaliyaa ho ho ho \threedots
+%
+#endindian
+\endsong
+

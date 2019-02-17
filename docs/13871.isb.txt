@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{o jaane waale baalamawaa lauT ke aa}%
+\film{Rattan}%
+\year{1944}%
+\starring{Swarnlata, Vaasti, Karan Deewan, Manju}%
+\singer{Ameerbai, Shaam Kumar}%
+\music{Naushad}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #11861 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+a \:	o jaane waale baalamawaa
+	lauT ke aa  lauT ke aa
+
+sh \:	jaa mai.n naa teraa baalamawaa
+	bewafaa bewafaa
+
+a \:	aa
+	o jaane waale baalamawaa
+	lauT ke aa  lauT ke aa
+
+sh \:	jaa mai.n naa teraa baalamawaa
+	bewafaa bewafaa
+
+a \:	tere bin meraa jiyaa
+	laage naa kahii.n bhii piyaa
+	haay laage naa
+	yaad nahii.n chho.De terii
+	duniyaa a.ndherii merii
+	ab jaa_uu.N kahaa.N
+	( o dil ko le karataa hai dard jiyaa
+	lauT ke aa  lauT ke aa ) \-2
+
+	o jaane waale baalamawaa
+	lauT ke aa  lauT ke aa
+
+sh \:	jaa mai.n naa teraa baalamawaa
+	bewafaa bewafaa
+
+sh \:	gha.Dii\-gha.Dii panaghaT pe aanaa
+	jhuuTh\-muuTh kii priit jataanaa
+	mujhe yaad hai
+	phir aur kisii se aa.Nkh milaanaa
+	mujhase aa.Nkh milaa kar jaanaa
+	mujhe yaad hai
+	( jhuuTho.n se kaahe boluu.N jaa rii jaa
+	bewafaa bewafaa ) \-2
+
+a \:	aa
+	o jaane waale baalamawaa
+	lauT ke aa  lauT ke aa
+
+sh \:	jaa mai.n naa teraa baalamawaa
+	bewafaa bewafaa
+%
+#endindian
+\endsong
+

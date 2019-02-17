@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{pyaar to ik din honaa thaa ... ho gayaa}%
+\film{Ek Shriman Ek Shrimati}%
+\year{1969}%
+\starring{Shashi Kapoor, Babita, Rajendra Nath, Om Prakash, Prem Chopda}%
+\singer{Rafi, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #11516 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ra \:	pyaar to ik din ( honaa thaa ) \-2
+	ho gayaa \-3
+aa \:	dil to ik din ( khonaa thaa ) \-2
+	kho gayaa \-3
+
+ra \:	ai jaan\-e\-jaa.N
+aa \:	bolo\-bolo meharabaa.N
+ra \:	tere dam se zindagii hai javaa.N
+	ai dilarubaa.N
+aa \:	kyaa soche.n jo kar baiThe tum diivaane se pyaaar
+	ho gayaa \-3
+
+	ai hamanashii.n
+ra \:	bolo\-bolo naazanii.n
+aa \:	hamane dekhaa chaa.Nd bhii tere jaisaa to nahii.n
+	hamasafar
+ra \:	haa.N jaan\-e\-jigar
+aa \:	tumako diyaa thaa dil rakhane ko hamane jo ik baar
+	kho gayaa \-3
+ra \:	pyaar to ik din \threedots
+
+	shriimatii jii aa_i_e
+aa \:	shriimaan faramaa_i_e
+ra \:	yahii hai.n jinakii baa.Nhe.n ho.ngii mere gale kaa haar
+aa \:	pyaar to ik din \threedots
+%
+#endindian
+\endsong
+

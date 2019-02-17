@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{raadhaa kaise na jale}%
+\film{Lagaan}%
+\year{2001}%
+\starring{}%
+\singer{Asha, Udit Narayan, Vaishali, chorus}%
+\music{A R Rahman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Virendra Rawat
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+madhuban me.n jo kanhaiyaa kisii gopii se mile
+kabhii muskaaye, kabhii chhe.De kabhii baat kare
+raadhaa kaise na jale, raadhaa kaise na jale
+aag tan me.n lage
+raadhaa kaise na jale, raadhaa kaise na jale
+
+madhuban me.n bhale kaanhaa kisii gopii se mile
+man me.n to raadhaa ke hii prem ke hai.n phuul khile
+kis liye raadhaa jale, kis liye raadhaa jale
+binaa soche samajhe
+kis liye raadhaa jale, kis liye raadhaa jale
+
+gopiyaa.N taare hai.n chaand hai raadhaa
+phir kyo.n hai us ko vi{shh}vaas aadhaa
+kaanhaa jii kaa jo sadaa idhar udhar dhyaan rahe
+gopiyaa.N aanii\-jaanii hai.n
+raadhaa to man kii raanii hai
+saa.Njh sakhaare, jamunaa kinaare
+raadhaa raadhaa hii kaanhaa pukaare
+baaho.n ke haar jo Daale koii kaanhaa ke gale
+raadhaa kaise na jale \threedots
+
+man me.n hai raadhe ko kaanhaa jo basaaye
+to kaanhaa kaahe ko use na basaaye
+prem kii apanii alag bolii alag bhaashhaa hai
+baat naino.n se ho, kaanhaa kii yahii aashaa hai
+kaanhaa ke ye jo nainaa nainaa hai.n
+chhiine.n gopiyo.n ke chainaa hai.n
+milii najariyaa huii baa.Nvariyaa
+gorii gorii sii koii gujariyaa
+kaanhaa kaa pyaar kisii gopii ke man me.n jo pale
+kis liye raadhaa jale, raadhaa jale, raadhaa jale
+radhaa kaise na jale
+
+%
+#endindian
+\endsong
+%

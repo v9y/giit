@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{are dene vaale yah kyaa ... gariibo.n kii qismat me.n}%
+\film{Meena Bazar}%
+\year{1950}%
+\starring{Nargis, Shyam, Kuldip, Om Prakash, Gop, Sapru, Kanhaiyalal}%
+\singer{Rafi}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10238 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+are dene vaale yah kyaa zindagii dii
+kisii ko ha.Nsii dii kisii ko Kushii dii
+
+gariibo.n kii qismat me.n ( ronaa hii ronaa ) \-2
+
+ta.Dapate hai.n ham ha.Ns rahaa hai zamaanaa
+jo puuchho to ye hai hamaaraa fasaanaa
+gariibo.n kii qismat \threedots
+
+haa.N zamaane ne jab hamako Thokar lagaa_ii
+to TuuTe hu_e dil se aavaaz aa_ii
+gariibo.n kii qismat \threedots
+
+mere aa.Nsu_o.n usake kuuche me.n jaanaa
+meraa haal puuchhe to ye kah sunaanaa
+gariibo.n kii qismat \threedots
+%
+#endindian
+\endsong
+

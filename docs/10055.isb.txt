@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{tujhe dekhake jaan\-e\-jaanaa.n ... mujhe to pyaar ho gayaa}%
+\film{Anaadi No. 1}%
+\year{1999}%
+\starring{Govinda, Ravina Tandon}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhe dekhake jaan\-e\-jaanaa.n
+ye dil meraa kho gayaa
+dil ho gayaa hai diivaanaa
+mujhe to pyaar haay mujhe to pyaar ho gayaa
+
+tujhe dekhake jaan\-e\-jaanaa.n \threedots
+mujhe to pyaar mujhe to pyaar ho gayaa
+
+apanaa banaa_uu.n tujhe siine se lagaa_uu.n mai.n
+age aage jaa_egii tuu piichhe piichhe aa_uu.n mai.n
+chorii chorii pyaar kiyaa kaise ye chhupaa_uu.n mai.n
+nazare.n milaa_uu.n kabhii nazare.n churaa_uu.n mai.n
+tujhe aa gayaa dil kaa lagaanaa
+tujhe to pyaar haay tujhe to pyaar ho gayaa
+tujhe dekhake jaan\-e\-jaanaa.n \threedots
+
+jabase milii hai.n mujhe pyaar bharii raahe.n terii
+baar baar chuumatii hai.n tujhako adaa_e.n merii
+pyaarii pyaarii lagatii hai.n mujhako adaa_e.n terii
+tujhako bulaatii hai.n ye khulii khulii baahe.n merii
+ho tuu kal tak thaa a.njaanaa
+tuu meraa yaar haa.n tuu meraa yaar ho gayaa
+o tujhe dekhake jaan\-e\-jaanaa.n \threedots
+%
+#endindian
+\endsong
+

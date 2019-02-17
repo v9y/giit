@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{man re tuu kaahe naa dhiir dhare}%
+\film{Chitralekha}%
+\year{1964}%
+\starring{Ashok Kumar, Meena Kumari, Pradeep Kumar}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+man re tuu kaahe naa dhiir dhare
+vo nirmohii moh naa jaane, jinakaa moh kare
+man re \threedots
+
+is jiivan kii cha.Dhatii Dhalatii
+dhuup ko kisane baa.ndhaa
+ra.ng pe kisane pahare Daale
+rup ko kisane baa.ndhaa
+kaahe ye jatan kare
+man re \threedots
+
+utanaa hii upakaar samajh koI
+jitanaa saath nibhaa de
+janama maraN kaa mel hai sapanaa
+ye sapanaa bisaraa de
+koI na sa.ng mare
+man re \threedots
+%
+#endindian
+\endsong
+%

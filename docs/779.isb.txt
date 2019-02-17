@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{jaa re jaa, jaa ni.ndiyaa jaa, jaa ni.ndiyaa jaa}%
+\film{Jhanjhar}%
+\year{}%
+\starring{Motilal, Kamini Kaushal}%
+\singer{Lata, Madhubala Jhaveri}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anil Hingorani (hingorani_anil@jpmorgan.com)
+% Transliterator: K Vijay Kumar 
+% Date: May 14, 1998
+% Credits:
+% Editor:
+% Comments: LATAnjali series
+%
+\printtitle
+#indian
+%
+
+jaa re jaa, jaa ni.ndiyaa jaa, jaa ni.ndiyaa jaa
+na aa akhiyo.n me.n, aaj na aa\-2
+jaa re jaa, jaa ni.ndiyaa jaa, jaa nindiyaa jaa
+na aa akhiyo.n me.n, aaj na aa\-2
+
+jag kii akhiyaa.n dekhe.n sapane
+aaj na soye.n nainaa apane\-2
+kaun suuratiyaa, kaun muuratiyaa
+kaun suuratiyaa, kaun muuratiyaa
+jaanegii ????
+na aa ankhiyo.n me.n   \threedots 
+
+aaj na Duubo chaa.Nd sitaaro.n
+chamake jaa_o jag ke pyaaro.n\-2
+jaa rii cha.ndaniyaa, bhor se kah de\-2
+??? le aa
+na aa a.nkhiyo.n me.n   \threedots
+
+%
+#endindian 
+\endsong 
+%

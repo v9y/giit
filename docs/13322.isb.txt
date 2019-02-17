@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ye kaun aaj aayaa savere\-savere}%
+\film{Nartaki}%
+\year{1940}%
+\starring{Leela Desai, Najam, Jagdish Sethi, Pankaj Mullick}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{Munshi Aarzoo}%
+%
+% Contributor: BOL ANAMOL #11853 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com  (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ye kaun aaj aayaa savere\-savere \-2
+ke dil chau.nk uTThaa savere\-savere
+
+kahaa ruup ne chaa.Nd hai chaudhavii.n kaa \-2
+magar chaa.Nd kaisaa savere\-savere
+
+gayaa man kaa dhiiraj ba.Dhii bekalii bhii \-2
+ye mujhako hu_aa kyaa
+ye mujhako hu_aa kyaa savere\-savere
+
+aate hii ek tarahaadaar ne dil chhiin liyaa \-2
+dilarubaa ban ke dilaadaar ne dil chhiin liyaa
+paapii chitawan ke piichhe yaar ne dil chhiin liyaa
+de ke dhokhaa kisii aiyaar ne dil chhiin liyaa
+
+aa.Nkho.n me.n jaaduu baato.n me.n sholaa \-2
+diyaa kaisaa charakaa savere\-savere \-2
+
+ye kaun aaj aayaa savere\-savere
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{hamako samajh baiThii hai duniyaa diivaanaa}%
+\film{Char Diwari}%
+\year{1961}%
+\starring{Shashi Kapoor, Nanda}%
+\singer{Mukesh}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10335 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+hamako samajh baiThii hai duniyaa ( diivaanaa ) \-2
+par mai.n agar paagal huu.N duniyaa hai paagalaKaanaa ( diivaanaa ) \-2
+hamako samajh baiThii \threedots
+
+chaal beDha.ngii duniyaa dura.ngii matalab kii a.ndhii
+hamako na puuje patthar puuje daulat kii bandii
+dhokhe me.n mat aa jaanaa duniyaa se dil naa lagaanaa
+hai baat ye pate kii lo kah chalaa ( diivaanaa ) \-3
+hamako samajh baiThii \threedots
+
+ham sar ke bal tum sar ke bal pair tale ambar
+andhaa baa.NTe khud ko deve qismat kaa na.mbar
+har shai pe hai nazaraanaa chupachaap dete jaanaa
+hai baat ye pate kii \threedots
+%
+#endindian
+\endsong
+

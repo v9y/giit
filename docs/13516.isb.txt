@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{kuchh der pahale kuchh bhii na thaa ... ye pyaar na jaane kab ho gayaa}%
+\film{Pyaar Kaa Devtaa}%
+\year{1991}%
+\starring{Mithun, Madhuri, Moushumi, Suresh Oberoi, Rupa Ganguli, Rajkiran}%
+\singer{Alka Yagnik, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh der pahale kuchh bhii na thaa
+kuchh der me.n hii ye gazab ho gayaa
+kuchh der pahale kuchh bhii \threedots
+
+ye pyaar ye pyaar na jaane kab ho gayaa kab ho gayaa
+
+ham dono.n me.n thii ba.Dii dushmanii
+ye dushmanii ban ga_ii dostii
+ye dostii ban ban ga_ii dillagii
+sab kuchh abhii aaj ho gayaa aaj ho gayaa
+kuchh der pahale kuchh bhii \threedots
+
+is dil ne dhokhaa diyaa hai mujhe
+gussaa bahut aa rahaa hai mujhe
+mujhako zaraa sii bhii khabar na hu_ii
+tab maine jaanaa ye jab ho gayaa jab ho gayaa
+kuchh der pahale kuchh bhii \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{aaj Gam kal Kushii ... aadamii vo jo himmat naa haare}%
+\film{Jawaab}%
+\year{1955}%
+\starring{Geeta Bali, Nasir Khan, Johny Walker, Mukri, Achala Sachdev, Uma Devi}%
+\singer{Rafi}%
+\music{Nashad}%
+\lyrics{Khumar Barabankwi}%
+%
+% Contributor: BOL ANAMOL #10633 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aaj Gam kal Kushii hai yahii zindagii sun le pyaare
+aadamii vo jo himmat naa haare \-2
+
+jo naa kaa.NTo.n se daaman bachaa_e
+phuul ban kar vahii muskaraa_e
+yuu.N hii mar\-mar ke jii ashq ha.Ns\-ha.Ns ke pii Gam ke maare
+aadamii vo jo himmat \threedots
+
+jin gariibo.n se duniyaa khafaa hai
+unako bhagavaan kaa aasaraa hai
+mushkilo.n se naa Dar ho naa is kadar besahaare
+aadamii vo jo himmat \threedots
+%
+#endindian
+\endsong
+

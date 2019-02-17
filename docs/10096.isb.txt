@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{saajan saajan terii dulhan tujhako pukaare aajaa}%
+\film{Aarzoo}%
+\year{1999}%
+\starring{Akshay Kumar, Saif Ali Khan, Madhuri Dixit}%
+\singer{Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaa.Ndanii raat taaro.n kii baaraat hai
+dil kii mahafil sajaane me.n kyaa der hai kyaa der hai
+dha.Dakane.n dil kii shahanaa_iiyaa.n ban ga_ii.n
+ab to saajan ke aane me.n kyaa der hai kyaa der hai
+
+merii zi.ndagii meraa pyaar yaad aa rahaa hai
+aane vaalaa hai jo vo yaad aa rahaa hai
+saajan saajan terii dulhan tujhako pukaare aajaa
+aakar mere haatho.n me.n me.nhadii tuu hii rachaa jaa
+aajaa aajaa
+o merii zi.ndagii meraa \threedots
+
+paayal kaajal ka.ngan daaman saare tujhe bulaa_e.n
+aajaa saajan aajaa tere apane tujhe bulaa_e.n
+aajaa aajaa saajan aajaa
+mere mahabuub o mere hamasafar
+tujhako kyaa pataa hai tujhe kyaa khabar
+ehasaan tere itane hai.n mujh par
+rab pe yakii.n hai jitanaa utanaa hai tujh par
+aajaa aajaa aajaa
+meraa mahabuub meraa sanam aa rahaa hai
+ham to mar hii chuke the phir janam aa rahaa hai
+saajan saajan \threedots
+
+chunarii merii ra.ngii hu_ii hai tere ra.ng se saajan
+aakar ra.ng de meraa a.ng a.ng apane ra.ng se saajan
+aajaa aajaa saajan aajaa
+tumase vafaa_e.n bahut mai.n karuu.ngii
+kasam terii ab ye dil kisii ko na duu.ngii
+aa tujhe bataa duu.n mere dil me.n kyaa hai
+dil lene vaale tujhe jaan apanii duu.ngii
+aajaa aajaa aajaa
+dha.Dakane.n ba.Dh rahii hai.n vo kariib aa rahaa hai
+khushanasiibii banake meraa vo nasiib aa rahaa hai
+saajan saajan \threedots
+%
+#endindian
+\endsong
+

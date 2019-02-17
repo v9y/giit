@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{mujhe apanaa yaar banaa lo phir dekho mazaa pyaar kaa}%
+\film{Boy Friend}%
+\year{1961}%
+\starring{Shammi Kapoor, Madhubala, Dharmendra}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10900 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mujhe apanaa yaar banaa lo phir dekho mazaa pyaar kaa
+are aazamaa.N ke dekho dil kaisaa hai diladaar kaa
+mujhe apanaa yaar \threedots
+
+jin raasto.n se nikaluu.N ek dhuum sii machaa duu.N
+jin mahafilo.n me.n jaa_uu.N vo mahafile.n sajaa duu.N
+mai.n raahii huu.N alabelaa aur pyaasaa huu.N diidaar kaa
+mujhe apanaa yaar \threedots
+
+mai.n kyaa karuu.N ke zaalim suurat hii aisii paa_ii
+dil meraa aa_iinaa hai dil me.n nahii.n buraa_ii
+mere dil ko dil me.n le lo hai hiiraa aitabaar kaa
+mujhe apanaa yaar \threedots
+
+duniyaa kii vaadii me.n bin yaar kaisaa jiinaa
+dariyaa bhii suunaa\-suunaa jab tak naa ho safiinaa
+are sun lo duniyaa vaalo.n ye naGamaa dil ke taar kaa
+mujhe apanaa yaar \threedots
+%
+#endindian
+\endsong
+

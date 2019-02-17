@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saare badan me.n zahar cha.Dh gayaa ... mujhe bichchhuu la.D gayaa re}%
+\film{Inquilaab}%
+\year{1984}%
+\starring{Amitabh Bachchan, Sridevi, Kadar Khan, Utpal Dutt, Shakti Kapoor}%
+\singer{Kishor, Asha}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are ( saare badan me.n zahar cha.Dh gayaa
+mujhe bichchhuu la.D gayaa re ) \-2 bichchhuu la.D gayaa
+kam na hu_aa dard aur ba.Dh gayaa
+bichchhuu la.D gayaa \threedots
+
+tuune o zulmii karake ishaaraa
+chuTakii bharii yaa Da.nk maaraa
+ye dekh niilaa nishaan pa.D gayaa
+
+( kal jo kiyaa thaa vo phir tuu aaj kar
+ko_ii davaa meraa ilaaj kar ) \-2
+mar jaa_uu.ngaa mai.n teraa paa.Nv pa.D gayaa
+bichchhuu la.D gayaa \threedots
+
+( kaliyo.n ne khilakar a.nga.Daa_iyaa.N lii.n
+bha.nvaro.n ne sir par rusavaa_iyaa.N lii.n ) \-2
+aa_ii bahaar gayaa patajha.D gayaa
+bichchhuu la.D gayaa \threedots
+%
+#endindian
+\endsong
+

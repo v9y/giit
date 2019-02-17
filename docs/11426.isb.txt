@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{duur ke o cha.ndaa aa merii baa.Nho.n me.n aa}%
+\film{Ek Dil Sau Afsane}%
+\year{1963}%
+\starring{Raj Kapoor, Waheeda Rehman}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10935 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+duur ke o cha.ndaa aa merii baa.Nho.n me.n aa
+dil me.n roshanii kar aa.Nkho.n me.n tuu muskuraa
+
+( ghar\-ghar saavan barase hai
+pyaasii mamataa tarase hai ) \-2
+bin tere meraa aa.Ngan suunaa\-suunaa
+duur ke o cha.ndaa \threedots
+
+bholii\-bhaalii aa.Nkho.n me.n
+in matavaalii aa.Nkho.n me.n
+dil me.n hai jiivan kaa manahar sapanaa
+duur ke o cha.ndaa \threedots
+%
+#endindian
+\endsong
+

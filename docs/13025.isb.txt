@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{kisii raah me.n kisii mo.D par ... mere hamasafar}%
+\film{Mere Humsafar}%
+\year{1970}%
+\starring{Jeetendra, Sharmila Tagore, Balraj Sahni, Jagdeep}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11129 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	kisii raah me.n kisii mo.D par kahii.n chal na denaa tuu chho.D kar
+	mere hamasafar \-4
+mu \:	kisii haal me.n kisii baat par kahii.n chal na denaa tuu chho.D kar
+	mere hamasafar \-4
+
+la \:	meraa dil kahe kahii.n ye na ho ( nahii.n ye na ho ) \-2
+	kisii roz tujhase bichha.D ke mai.n tujhe Dhuu.NDhatii phiruu.N dar\-ba\-dar
+	mere hamasafar \-4
+
+mu \:	teraa sa.ng saayaa bahaar kaa teraa ruup aa_iinaa pyaar kaa
+	tujhe aa nazar me.n chhupaa luu.N mai.n tujhe lag na jaa_e kahii.n nazar
+	mere hamasafar \-4
+
+la \:	teraa saath hai to hai zindagii
+mu \:	teraa pyaar hai to hai roshanii
+la \:	kahii.n din ye Dhal jaa_e kyaa pataa
+mu \:	kahaa.N raat ho jaa_e kyaa Kabar
+do \:	mere hamasafar \-4
+
+la \:	kahii.n chal na denaa \threedots
+%
+#endindian
+\endsong
+

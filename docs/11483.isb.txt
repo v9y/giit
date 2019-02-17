@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{maar gayaa bichhu_aa bedardaa aadhii raat ko merii chhat pe}%
+\film{Farz}%
+\year{2000}%
+\starring{Sunny Deol, Preity Zinta}%
+\singer{Anupama Deshpande, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+maar gayaa
+bichhu_aa bichhu_aa
+bedardaa aadhii raat ko merii chhat pe cha.Dh gayaa
+chorii se haay u.ngalii me.n chhallaa ja.D gayaa
+ai bedardaa aadhii raat ko \threedots
+
+raat kii baaho.n me.n so_ii thii mai.n hoy hoy
+anjaane.n sapano.n me.n kho_ii thii mai.n hoy hoy
+vo Da.nk maaraa machalane lagii
+nii.ndo.n me.n karavaT badalane lagii
+kam naa hu_aa haay dard aur ba.Dh gayaa
+haay bedardaa aadhii raat ko \threedots
+
+maine ye sochaa hu_aa jab saveraa haay haay
+haa.n bichhu_aa thaa vo ke vo saajan thaa meraa haay haay
+chhup ke chhupaa ke kahaa.n se vo aayaa
+ye raaz maine to sabase chhupaayaa
+jo bhii hu_aa haay chain mujhako pa.D gayaa
+bedardaa aadhii raat ko \threedots
+%
+#endindian
+\endsong
+

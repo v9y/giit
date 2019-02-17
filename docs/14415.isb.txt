@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ham do premii chhat ke uupar galii galii me.n shor shor shor}%
+\film{Tu Chor Main Sipaahi}%
+\year{1996}%
+\starring{Akshay Kumar, Saif, Tabbu, Pratibha Sinha, Anupam, Deven, Amrish}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham do premii chhat ke uupar galii galii me.n shor shor shor
+ai aa raa raa raa aa haa o re
+prem ke kachche dhaage se mujhe khii.nch le apanii or or or
+ai aa raa raa raa aa haa o re
+ham do premii \threedots
+
+ho teraa rastaa kisii ne na rokaa mil gayaa kaise tujhako ye mauqaa
+o deke aayaa huu.N mai.n sabako dhokhaa are mai.n to havaa kaa huu.N jho.nkaa
+chorii chorii cupake chupake aanaaa chhup ke jaanaa chhup ke
+meraa baapuu paka.D na le kahii.n tujhako samajh kar chor chor chor
+aa raa raa raa aa haa o re
+ham do premii \threedots
+
+ho dil kii dushman ye duniyaa nigo.Dii isali_e maine duniyaa hii chho.Dii
+o ek laakho.n me.n hai apanii jo.Dii Gam na kar der bas ab hai tho.Dii
+kab tak aise ham tarase.nge ek din khulakar ham barase.nge
+mere saajan tuu saavan mai.n mast ghaTaa ghanaghor ghor ghor
+aa raa raa raa aa haa o re
+ham do premii \threedots
+%
+#endindian
+\endsong
+

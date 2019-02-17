@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{merii duniyaa me.n tum aayii.n}%
+\film{Heer Ranjha}%
+\year{1970}%
+\starring{Rajkumar, Priya Rajvansh}%
+\singer{Lata, Rafi, Rajkumar, Priya Rajvansh}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+ra  : merii duniyaa me.n tum aayii.n kyaa kyaa apane saath liye
+      tan kii chaa.Ndii man kaa sonaa sapano.n vaalii raat liye
+
+      tanhaa tanhaa khoyaa khoyaa dil me.n dil kii baat liye
+      kab se yuu.N hii phirataa huu.N mai.n aramaa.N kii baaraat liye
+
+## Spoken phrases ##
+raa : andhere kaa ishaaraa samajho
+      ab diyaa dil kaa jalaanaa hogaa
+pri : tum ba.De vo ho, mujhe jaane do
+raa : jaa sakogii?
+pri : mujhe jaanaa hogaa
+raa : to jaa_o
+pri : chho.Do bhii
+raa : nahii.n
+pri : chho.Do na
+raa : aaj kii raat to dil to.Do na
+
+## Singing resumes ##
+la  : Dhalakaa aa.Nchal phailaa kaajaal aa.Nkho.n me.n ye raat liye
+      kaise jaa_uu.N sakhiyo.n me.n ab terii ye saugaat liye
+      Dhalakaa aa.Nchal phailaa kaajal
+
+      dil kii ye dha.Dakan sun le na koii
+      haay haay haay dekhe na koii
+ra  : na jaao na jaao na jaao
+la  : haTo haTo Dar lagataa hai
+ra  : suno suno
+la  : Dar lagataa hai
+ra  : dil me.n kitanii kaliyaa.N mahakii kaise kaise phuul khile
+      naazuk naazuk miiThe miiThe ho.nTho.n kii khairaat liye
+
+la  : chaa.Nd se kaise aa.Nkh milaa_uu.N
+ra  : baaho.n me.n aao tum ko bataa_uu.N
+la  : bas bhii karo
+ra  : ab na Daro raat hai ye apanii
+la  : paayal chhanake, ka.Nganaa khanake badalii jaaye chaa.Nd merii
+      ma.nzil ma.nzil chalanaa hogaa haatho.n me.n ab haath liye
+
+ra  : merii duniyaa me.n tum aayii.n kyaa kyaa apane saath liye
+      tan kii chaa.Ndii man kaa sonaa sapano.n vaalii raat liye
+      merii duniyaa me.n tum aayii.n
+
+%
+#endindian
+\endsong
+%

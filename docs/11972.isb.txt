@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{chal mere dil laharaa ke chal}%
+\film{Ishaara}%
+\year{1964}%
+\starring{Joy Mukherjee, Vyjayantimala, Subhiraj, Azra}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10943 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+chal mere dil laharaa ke chal mausam bhii hai vaadaa bhii hai
+unakii galii kaa faasalaa tho.Daa bhii hai zyaadaa bhii hai
+chal mere dil \threedots
+
+mai.n huu.N raahii pyaar kaa raahii merii ma.nzil pyaar kii galiyaa.N
+dil me.n basii hai husn kii suurat aa.Nkho.n me.n diladaar kii galiyaa.N
+chal mere dil \threedots
+
+usakii chaahat usakii tamannaa ho to ho bekaar kaa sapanaa \-2
+ghar se nikalanaa yaar se milanaa ye to kaar\-o\-baar hai apanaa \-2
+chal mere dil \threedots
+%
+#endindian
+\endsong
+

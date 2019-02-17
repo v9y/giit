@@ -1,0 +1,36 @@
+% 
+\startsong
+\stitle{zi.ndagii Kvaab hai, thaa hame.n bhii pataa}%
+\film{Chhoti Chhoti Baatein}%
+\year{}%
+\starring{???}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Shailendra}%
+% 
+% Contributor: Preeti Ranjan Panda <ppanda@du.ics.uci.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 11/03/1996
+%
+\printtitle
+#indian
+%
+zi.ndagii Kvaab hai, thaa hame.n bhii pataa
+par hame.n zi.ndagii se bahut pyaar thaa
+sukh bhii the, dukh bhii the, dil ko ghere hue
+chaahe jaisaa thaa, ra.Ngiin sa.nsaar thaa
+
+aa ga_ii thii shikaayat labo.n tak magar
+kise kahate to kyaa kahanaa bekaar thaa
+chal pa.De dard dekar to chalate rahe
+haar kar baiTh jaane se inakaar thaa
+
+cha.nd din thaa baseraa hamaaraa yahaa.N
+ham bhii mehamaan the, ghar to us paar thaa
+hamasafar ek din to bichha.Danaa hii thaa
+alavidaa alavidaa alavidaa alavidaa \threedots
+%
+#endindian
+\endsong
+%
+

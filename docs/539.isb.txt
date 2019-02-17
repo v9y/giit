@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{diyaa jalaao jagamag jagamag diyaa jalaao}%
+\film{Tansen}%
+\year{}%
+\starring{Saigal, Khurshid}%
+\singer{Saigal}%
+\lyrics{Pt. Indra}%
+\music{Khemchand Prakash}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+din suunaa suuraj binaa
+aur chandaa bin rain
+ghar suunaa diipak binaa
+jyoti bin do nain
+
+diyaa jalaao
+jagamag jagamag diyaa jalaao (2)
+diyaa jalaao (4)
+jagamag jagamag diyaa jalaao (2)
+
+saras suhaagan sunarii (4)
+tere mandir me.n dekh a.ndheraa (2)
+ruuTh na jaaye diyaa teraa (2)
+aa~ 
+diyaa jalaao (4)
+diyaa manaao diyaa jalaao
+diyaa manaao manaao jalaao
+jagamag jagamag (2)
+jagamag jagamag diyaa jalaao
+%
+#endindian
+\endsong
+%

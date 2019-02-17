@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aa.Nkho.n aa.Nkho.n me.n na jaane kyaa ishaare ho ga_e}%
+\film{Bedaagh}%
+\year{1965}%
+\starring{Manoj Kumar, Nanda, Shashikala, Mehmood, Soniya Lee, Mumtaz}%
+\singer{Rafi, Asha}%
+\music{Roshan}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10485 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	aa.Nkho.n aa.Nkho.n me.n na jaane kyaa ishaare ho ga_e
+	muskuraa kar tumane dekhaa ham tumhaare ho ga_e
+	aa.Nkho.n aa.Nkho.n me.n \threedots
+
+su \:	raat\-din kii beqaraarii umr bhar kii bekhudii \-2
+	dil lagaa kar kuchh to jiine ke sahaare ho ga_e
+	aa.Nkho.n aa.Nkho.n me.n \threedots
+
+ra \:	haay ye maasuum cheharaa ye adaa ye baa.Nkapan \-2
+	tujhase mil ke ra.ng dil ke aur pyaare ho ga_e
+	aa.Nkho.n aa.Nkho.n me.n \threedots
+
+su \:	tumako paa kar is jahaa.N me.n hamane sab kuchh paa liyaa
+ra \:	tumako paa kar is jahaa.N me.n hamane sab kuchh paa liyaa
+do \:	ab hame.n kyaa chaahi_e jab tum hamaare ho ga_e
+	aa.Nkho.n aa.Nkho.n me.n \threedots
+%
+#endindian
+\endsong
+

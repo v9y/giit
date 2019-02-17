@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{mai.n shaayar badanaam, ho mai.n chalaa mai.n chalaa}%
+\film{Namak Haraam}%
+\year{1973}%
+\starring{Rajesh Khanna, Amitabh, Simi, Rekha}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Navin Kabra (navin@cs.wisc.edu)
+% Editor: Anil R. University of Florida (raghani@oak.circa.ufl.edu.)
+%
+\printtitle
+#indian
+%
+mai.n shaayar badanaam, ho mai.n chalaa, mai.n chalaa
+mahafil se naakaam, ho mai.n chalaa, mai.n chalaa
+mai.n shaayar badanaam
+
+mere ghar se tumako, kuchh saamaan milegaa
+diivaane shaayar kaa, ek diivaan milegaa
+aur ik chiiz milegii, TUTaa khaalii jaam
+ho mai.n chalaa, mai.n chalaa
+mai.n shaayar badanaam
+
+sholo.n pe chalanaa thaa, kaa.NTo.n pe sonaa thaa
+aur abhii jii bharake, kismat pe ronaa thaa
+jaane aise kitane, bAkii chho.Dake kaam
+ho mai.n chalaa, mai.n chalaa
+mai.n shaayar badanaam
+
+rastaa rok rahii hai, tho.Dii jaan hai baakii
+jaane TUTe dil me.n, kyaa aramaan hai baakii
+jaane bhii de ai dil, sabako merA salaam
+ho mai.n chalaa, mai.n chalaa
+mai.n shaayar badanaam
+%
+#endindian
+\endsong
+%

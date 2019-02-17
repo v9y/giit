@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tujhe yaad naa merii aa_ii kisii se ab kyaa kahanaa}%
+\film{Kuchh Kuchh Hotaa Hai}%
+\year{1998}%
+\starring{Shahrukh, Kajol, Rani Mukherji, Salman, Farida, Anupam}%
+\singer{Udit Narayan, Alka Yagnik, Manpreet Akhtar}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rabbaa mere ishq kisii ko aisaa naa ta.Dapaa_e
+dil kii baat rahe is dil me.n ho.nTho.n tak naa aa_e
+
+tujhe yaad naa merii aa_ii kisii se ab kyaa kahanaa
+dil royaa ki a.nkh bhar aa_ii kisii se ab kyaa kahanaa
+
+tujhe har khushii de dii labo.n pe ha.Nsii de dii
+zulfo.n kii ghaTaa laharaa_ii paigaam vafaa kaa laa_ii
+tuune achchhii priit nibhaa_ii 
+kisii se ab kyaa kahanaa \threedots
+
+wo chaa.Nd mere ghar aa.ngan ab to aa_egaa
+tere suune is aa.Nchal ko vo bhar jaa_egaa
+terii karadii god bharaa_ii
+kisii se ab kyaa kahanaa \threedots
+
+khataa ho ga_ii mujhase kahaa kuchh nahii.n tumase
+iqaraar jo tum kar paate to duur kabhii naa jaate
+ko_ii samajhe naa piir paraa_ii
+kisii se ab kyaa kahanaa \threedots
+%
+#endindian
+\endsong
+

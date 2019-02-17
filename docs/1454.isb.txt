@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{piyaa tose nainaa laage re, nainaa laage re, jaane kyaa ho ab aage re}%
+\film{Guide}%
+\year{1965}%
+\starring{Dev Anand, Waheeda Rahman}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+piyaa tose nainaa laage re, nainaa laage re
+jaane kyaa ho ab aage re, nainaa laage re
+piyaa tose nainaa laage re, nainaa laage re
+
+ho, jag ne utaare ho, dharatii pe taare,
+par man meraa murajhaaye
+ho, un bin aa_ii ho, aisii dIvaalii
+milaneko jiyaa tarasaaye, aa saajan paayal pukaare
+jhanaka jhan jhan jhanaka jhan jhan, piyaa tose   
+piyaa tose nainaa \threedots
+
+bhor kii belaa suhaanii, nadiyaa ke tiire
+bhar ke gAgar jis gha.Dii mai.n chaluu.N dhiire dhiire
+tum pe nazar jab aa_ii, jaane kyo.n baj uThe ka.nganaa
+chhanaka chhan chhan chhanaka chhan chhan, piyaa tose
+piyaa tose nainaa \threedots
+
+ho, aa, ho, aaI holii aaI ho, sab ra.ng laaI
+bin tere holii bhii na bhaae, ho
+bhar pichakaarii, ho, sakhiyo.n ne maarii
+bhiigii morii saarii hay hay,  
+tan\-badan meraa kaa.npe thar\-thar
+dhinaka dhin dhin dhinaka dhin dhin, piyaa tose 
+piyaa tose nainaa \threedots
+
+raat ko jab chaa.Nd chamake jal uThe tan meraa
+mai.n kahuu.N mat karo cha.ndaa is galii kaa pheraa
+aanaa meraa saiyaa.N jab aae
+chamakanaa us raat ko jab 
+mile.nge tan\-man mile.nge tan\-man,
+piyaa tose
+piyaa tose nainaa \threedots
+piyaa   
+ho ho piyaa ## (chorus) ## \threedots
+%
+#endindian
+\endsong
+%

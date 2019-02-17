@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{merii bagiyaa kii kalii tuu sadaa hii khilanaa}%
+\film{Doraahaa}%
+\year{1971}%
+\starring{Anil Dhawan, Radha Saluja, Iftikhar, Sanjana}%
+\singer{Asha}%
+\music{Sapan-Jagmohan}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11526 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+merii bagiyaa kii kalii tuu sadaa hii khilanaa
+jin raaho.n pe mai.n chalii tuu unape na chalanaa
+teraa naa ho mere jaisaa haal
+merii bagiyaa kii kalii \threedots
+
+sab kuchh kiyaa nisaar tujhe tab maine paayaa
+tujh pe na pa.Dane paa_e kabhii kaa.NTo.n kii chhaayaa
+sukh kii ni.ndiyaa sonaa pa.De naa mujh saa ronaa
+merii bagiyaa kii kalii \threedots
+
+teraa ko_ii sapanaa sa.nsaar na to.De
+biich raah me.n ko_ii teraa saath na chho.De
+tere man kii paatii samajhe teraa saathii
+merii bagiyaa kii kalii \threedots
+
+itanaa kyo.n ye duniyaa dhan ke piichhe bhaage
+kuchh bhii nahii.n dhan pyaar bhare ik man ke aage
+laaj hai aisaa gahanaa phir se na jaa_e pahanaa
+merii bagiyaa kii kalii \threedots
+%
+#endindian
+\endsong
+

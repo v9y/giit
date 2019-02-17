@@ -1,0 +1,37 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{wafaao.n ke badale jafaa kar rahe hai.n}%
+\film{Jagir}%
+\year{1959}%
+\starring{}%
+\singer{Asha}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+% 
+% Audio on: 
+% Tags: Ghazal
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 5 May 2006
+% Series: Geetanjali
+% Comments: Based on a Begum Akhtar ghazal with an almost identical matlaa and the same tune
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+wafaa_o.n ke badale jafaa kar rahe hai.n
+ko_ii unase puuchhe ye kyaa rahe hai.n
+
+mariiz\-e\-muhabbat kaa ab haal ye hai
+davaa karanewaale du_aa kar rahe hai.n
+
+milaate hai.n Gairo.n se chhup\-chhup ke nazare.n
+ko_ii unase kah de buraa kar rahe hai.n
+
+hame.n dard\-e\-dil zi.ndagii se hai pyaaraa
+vo kyuu.N dard\-e\-dil kii davaa kar rahe hai.n
+%
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{nayaa nayaa dhulaa dhulaa ... tumane aa.Nkh kholii to}%
+\film{Filhaal}%
+\year{2002}%
+\starring{Tabu, Sushmita Sen, Sanjay Suri, Palash Sen}%
+\singer{KayKay, Chitra}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nayaa nayaa dhulaa dhulaa haa.N aasamaa.n khulaa
+nayaa nayaa dhulaa dhulaa aasamaa.n khulaa
+tumane aa.Nkh kholii to aa ye jahaa.N khulaa
+tumane aa.Nkh kholii \threedots
+
+aapake chehare pe kyuu.N shahad jaisii
+dhuup cha.Dhane lag ga_ii hai
+aapakii aa.Nkho.n me.n kyuu.N nii.nd apane
+sapane rakhane lag ga_ii hai
+muskuraa ke zi.ndagii ne hairaan kar diyaa
+nayaa nayaa dhulaa dhulaa \threedots
+
+muskuraahaT aapakii lab pe rakh ke
+hamane aadhii baa.NT lii
+aapane to saa.ns bhii merii lab se
+aadhii aadhii baa.NT lii
+gale lagaa ke zi.ndagii ne hairaan kar diyaa
+nayaa nayaa dhulaa dhulaa \threedots
+%
+#endindian
+\endsong
+

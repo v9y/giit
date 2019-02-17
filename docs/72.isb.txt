@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{aaj tumase duur ho kar, aise royaa meraa pyaar}%
+\film{Ek Raat}%
+\year{1967}%
+\starring{Simi, Sheikh Mukhtar}%
+\singer{Mukesh}%
+\music{Usha Khanna}%
+\lyrics{Anjaan}%
+%
+% Contributor: Preeti Ranjan Panda (ppanda@wave.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aaj tumase duur ho kar, aise royaa meraa pyaar
+chaa.Nd royaa saath mere, raat royI baar baar
+
+kuchh tumhaare ba.ndishe.n hai.n, kuchh hai.n mere daayare
+jab muqaddar hii bane dushman to koI kyaa kare
+hAy koI kyaa kare,
+is mukaddar par kisIkaa, kyaa hai aakhir ikhtiyaar
+chaa.Nd royaa saath mere, raat royI baar baar \threedots
+
+har tamannaa se judaa mai.n, har khushii se duur huu.N
+jI rahaa huu.N, kyo.nki jiine ke liye majabuur huu.N
+hAy mai.n majabuur huu.N
+mujhako marane bhii na degaa, ye tumhaaraa intazaar
+chaa.Nd royaa saath mere, raat royI baar baar \threedots
+%
+#endindian
+\endsong
+%

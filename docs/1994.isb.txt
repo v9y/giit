@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{zi.ndagii pyaar kii do chaar gha.Dii hotii hai}%
+\film{Anaarkali}%
+\year{1953}%
+\starring{Pradeep Kumar, Bina Rai}%
+\singer{Hemant}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Alok Goyal (alok@cs.utexas.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+zi.ndagii pyaar kii do chaar gha.Dii hotii hai
+chaahe tho.Dii bhii ho ye umr ba.Dii hotii hai
+
+taaj yaa takht yaa daulat ho zamaane bhar kii
+kaun sii chiiz muhabbat se ba.Dii hotii hai
+zi.ndagii \threedots
+
+do muhabbat bhare dil khaak dha.Dakate ho jahaa.N
+sabase lambii vo muhabbat kii gha.Dii hotii hai
+zi.ndagii \threedots
+%
+#endindian
+\endsong
+%

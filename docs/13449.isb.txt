@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{tumane na hamase kuchh kahaa thaa}%
+\film{Pyaar Mein Kabhi Kabhi}%
+\year{1999}%
+\starring{Rinki Khanna, Siddharth, Sanjay Suri, Melody, Shweta}%
+\singer{Mahalaxmi Iyer}%
+\music{Shekhar Ravjiyani}%
+\lyrics{Raj Kaushal, Patrick Vishvas}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumane na hamase kuchh kahaa thaa hamane bhii kuchh kahaa nahii.n
+ye pyaar kab ho gayaa thaa kyaa ajiib hai ye zi.ndagii
+
+kuchh vaqt hamane sa.ng guzaare cha.nd pal saath bhii chale
+sa.ng sa.ng raah me.n ba.Dhe ham raah jo mile bhii naa mile
+ab itane duur tum ga_e ho kyaa ajiib hai.n ye silasile
+tumane na hamase \threedots
+
+tum rahoge dil kii dha.Dakan me.n saa.Ns bhii na le.n tumhaare bin
+aa.Nkho.n me.n basii ha.Nsii tumhaarii yaad tum rahoge raat din
+mere har ra.ng me.n base ho kaise mai.n kahuu.n tuu ajanabii
+tumane na hamase \threedots
+%
+#endindian
+\endsong
+

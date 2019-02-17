@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{maine tujhe maa.Ngaa tujhe paayaa hai}%
+\film{Deewaar}%
+\year{1975}%
+\starring{Amitabh Bachchan, Parveen Babi, Shashi Kapoor, Neetu Singh, Nirupa Roy, Iftikhar}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #11559 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: M Asif Alvi
+%
+\printtitle
+#indian
+%
+maine tujhe maa.Ngaa tujhe paayaa hai
+tuune mujhe maa.Ngaa mujhe paayaa hai
+aage hame.n jo bhii mile yaa naa mile gilaa nahii.n
+
+chhaa.Nv ghanii hii nahii.n dhuup ka.Dii bhii hotii hai raaho.n me.n
+Gam ho ki Kushiyaa.N ho.n hamako sabhii lenaa hai baa.Nho.n me.n
+yo.n dukhii ho ke jiine vaale kyaa ye tujhe pataa nahii.n
+maine tujhe maa.Ngaa \threedots
+
+zid hai tumhe.n to lo lab pe na shikavaa kabhii bhii laa_e.Nge
+ha.Ns ke sahe.nge jo dard yaa Gam ye jahaa.N se paa_e.Nge
+tujhako jo buraa lage aisaa bhii kiyaa nahii.n
+maine tujhe maa.Ngaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tere chahare se nazar nahii.n haTatii nazaare ham kyaa dekhe.n}%
+\film{Kabhi Kabhi}%
+\year{1976}%
+\starring{Rishi Kapoor, Neetu Singh, Amitabh, Shashi, Rakhee, Waheeda}%
+\singer{Kishore, Lata}%
+\music{Khaiyyam}%
+\lyrics{Sahir}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Arun Verma (verma@cs.cornell.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tere chehare se nazar nahii.n haTatii nazaare ham kyaa dekhe.n
+tujhe milake bhii pyaas nahii.n ghaTatii nazaare ham kyaa dekhe.n
+
+pighale badan tere tapatii nigaaho.n se
+sholo.n kii aa.Nch aae barfiilii raaho.n se
+lage kadamo.n se aag lipaTatii nazaare ham \threedots
+
+ra.ngo.n kii barakhaa hai khushabuu kaa saath hai
+kisako pataa hai ab din hai kii raat hai
+lage duniyaa bhii aaj simaTatii nazaare ham \threedots
+
+palako.n pe phailaa terii palako.n kaa saayaa hai
+chehare ne tere meraa cheharaa chhupaayaa hai
+tere jalavo.n kii dhu.Ndh nahii.n chha.NTatii nazaare ham \threedots
+%
+#endindian
+\endsong
+%

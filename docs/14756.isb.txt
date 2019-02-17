@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{is paapa kii duniyaa se ab aur kahii.n le chal}%
+\film{Dukhiari/ A Tale Of Selfless Love (1937) and Zamana (1938)}%
+\year{1937}%
+\starring{Amir Karnataki, Kokila, Lilawati, Firoza, Madhukar Gupte}%
+\singer{Amirbai}%
+\music{Anil Biswas}%
+\lyrics{Gauri Shankar Lal 'Akhtar'}%
+
+% Contributor: GEETANJALI [V S Rawat], Aug 02, 2004
+
+% Kosh does not mention the singer, but the tune is based on
+% Amirbai's naat, darbar-e-muhammad par
+
+% This song was also included in Zamaana (1938) that had
+% Music: Sundar Das, Lyrics: D N Madhok, Singer: Amirjan
+
+% Amirjan is the name of Amirbai Karnataki
+
+\printtitle
+#indian
+
+% she renders 'paap' with that ending 'a' sound that is normally
+% dropped in hindi speech, hence I have written that as 'paapa'
+
+is paapa kii duniyaa se, ab aur kahii.n le chal \-2
+chit chain jahaa.N paa_e
+chit chain jahaa.N paa_e, le chal tuu wahii.n le chal
+is paapa kii duniyaa se, ab aur kahii.n le chal
+
+logo.n kii jafaa_o.n se, duniyaa kii nigaaho.n se \-2
+aa duur kahii.n le chal
+aa duur kahii.n le chal, ab aur kahii.n le chal
+
+is paapa kii duniyaa se, ab aur kahii.n le chal \-2
+chit chain jahaa.N paa_e
+chit chain jahaa.N paa_e, le chal tuu wahii.n le chal
+is paapa kii duniyaa se, ab aur kahii.n le chal \-2
+
+#endindian
+\endsong

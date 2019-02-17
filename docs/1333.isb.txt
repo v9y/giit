@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{nanhii kalii sone chalii, havaa dhiire aanaa}%
+\film{Sujata}%
+\year{1959}%
+\starring{Nutan, Sunil Dutt}%
+\singer{Geeta}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: P R Dash (dash@iwashi.uucp)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+havaa dhiire aanaa
+nI.nd bhare pa.nkh liye jhuulaa jhuulaa jaanaa
+nanhii kalii sone chalI havaa dhIre aanaa
+nI.nd bhare pa.nkh liye jhuulaa jhuulaa jaanaa
+nanhii kalii sone chalii
+
+chaa.Nd kiran sii gu.Diyaa naajo.n kii hai palI \- 2
+aaj agar chaa.Ndaniyaa aanaa merii galii
+gun gun gun gIt koI haule haule gaanaa
+nI.nd bhare pa.nkh liye jhuulaa jhuulaa jaanaa
+
+resham kii Dor agar pairo.n ko ulajhaae \- 2
+ghu.ngharuu kaa daanaa koI shor machaa jAe
+daane mere jaage to phir ni.ndiyaa tU bahalaanaa
+nI.nd bhare pa.nkh liye jhuulaa jhuulaa jaanaa
+nanhii kalii sone chalI havaa dhIre aanaa
+%
+#endindian
+\endsong
+%

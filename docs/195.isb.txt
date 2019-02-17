@@ -1,0 +1,54 @@
+%
+\startsong
+\stitle{akelaa chal re, ho, fakiiraa chal re}%
+\film{Fakeera}%
+\year{}%
+\starring{Shashi Kapoor, Shabana Azmi}%
+\singer{Mahendra Kapoor, Hemlata}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ho, akelaa chal re, ho, fakiiraa chal re
+o sunake terii pukaar, sa.ng chalane ko tere koii ho na ho taiyaar
+himmat na haar, chal chalaa chal akelaa chal chalaa chal \threedots
+fakiira chal chalaa chal
+
+bachapan me.n huaa ghar se beghar
+aaj talak naa bas paayaa
+ghar me.n lagii jo aag vo bujh ga_ii,  jalatii rahii terii kaayaa
+biitii baate.n bisaar,  aisaa koii nahii.n jo na ho
+Gam se bezaar, himmat na haar \threedots
+
+% Mahendra Kapoor
+jisane liyaa sa.nkalp sabhii ke
+dukh aur dard miTaane kaa
+usape ha.nsaa jag usane kabhii naa,  paayaa saath zamaane kaa
+le le auro.n kaa bhaar,  koI jinakaa nahii.n hai unakaa
+jiivan sa.nvaar, himmat na haar \threedots
+
+suuraj cha.ndaa taare juganuu
+sabakii apanii hastii hai
+jisame.n jitanaa niir ho badalii,  utanii der barasatii hai
+terii shak_tii apaar,  tuu to laayaa re akelaa ga.ngaa
+dharatii pe utaar, himmat na haar \threedots
+
+% Hemlata
+vo kyaa samajhe dard kisii kaa
+jisane dukh naa jhelaa ho
+do ab aur do haath ho jisake,  vo kaahe ko akelaa ho
+aae sa.nkaT hazaar,  terii Kaatir koii na khole
+kabhii na apanaa dvaar, himmat na haar \threedots
+%
+#endindian
+\endsong
+%

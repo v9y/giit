@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{ko_ii kahe kahataa rahe kitanaa bhii hamako diivaanaa}%
+\film{Dil Chahta Hai}%
+\year{2001}%
+\starring{Aamir Khan, Akshaye Khanna, Saif Ali Khan, Preity Zinta}%
+\singer{Shankar Mahadevan, Shaan, KayKay}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+ko_ii kahe kahataa rahe kitanaa bhii hamako diivaanaa
+ham logo.n kii Thokar me.n hai ye zamaanaa
+jab saaz hai aavaaz hai phir kisali_e hichakichaanaa
+ho gaa_e.Nnge ham apane dilo.n kaa taraanaa
+biga.De duniyaa biga.Dane bhii do
+jhaga.De duniyaa jhaga.Dane bhii do
+la.De jo duniyaa la.Dane bhii do
+tum apanii dhun me.n gaa_o
+duniyaa ruuThe ruuThane do
+ba.ndhan TuuTe TuuTane do
+ko_ii chhuuTe chhuuTane do
+naa ghabaraa_o
+ham hai.n na_e a.ndaaz kyuu.N ho puraanaa
+
+aa.Nkho.n me.n hai.n bijaliyaa.N saa.Nso.n me.n tuufaan hai.n
+Dar kyaa hai aur haar kyaa ham is se a.njaan hai.n
+hamaare li_e hii to hai.n aasamaan aur zamii.n
+sitaare bhii ham to.D le.nge hame.n hai yakii.n
+ambar se hai aage hamaaraa Thikaanaa
+ham hai.n na_e a.ndaaz kyuu.N ho puraanaa
+
+sapano.n kaa jo des hai haa.N ham vahii.n hai.n pale
+tho.De se dilaphe.nk hai.n tho.De se hai.n manachale
+jahaa.N bhii ga_e apanaa jaaduu dikhaate rahe
+mohabbat hasiino.n ko aksar sikhaate rahe
+aa_e hame.n dil aur nii.nde.n churaanaa
+ham hai.n na_e a.ndaaz kyuu.N ho puraanaa
+
+ko_ii kahe kahataa rahe kitanaa bhii hamako diivaanaa
+ko_ii kahataa rahe kitanaa bhii hamako diivaanaa
+ho ham logo.n kii Thokar me.n hai ye zamaanaa
+ho jab saaz hai aavaaz hai phir kisali_e hichakichaanaa
+huu.N jab saaz hai aavaaz hai phir kisali_e hichakichaanaa
+ho gaa_e.Nnge ham \threedots
+
+o ham hai.n na_e a.ndaaz kyuu.N ho puraanaa
+haa.N ham hai.n na_e a.ndaaz kyuu.N ho puraanaa
+%
+#endindian
+\endsong

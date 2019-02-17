@@ -1,0 +1,42 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{is dard kii maarii duniyaa me.n}%
+\film{Paras}%
+\year{1949}%
+\starring{Kamini Kaushal, Rehman, Madhubala}%
+\singer{Lata}%
+\music{Ghulam Mohammed}%
+\lyrics{Shakeel Badayuni}%
+% 
+% Audio on: 
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 12 Nov 2004
+% Series: Latanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+(is dard kii maarii duniyaa me.n
+mujhasaa bhii ko_ii majabuur na ho) \-2
+jis tarah Kushii se duur huu.N mai.n \-2
+yuu.N ko_ii Kushii se duur na ho \-2
+
+(uja.De hu_e dil me.n kuchh bhii nahii.n
+ashko.n ke siwaa aaho.n ke siwaa) \-2
+kyuu.N aise chaman me.n phuul khile.n \-2
+ha.Nsane kaa jahaa.N dastuur na ho \-2
+
+(tuufaan hai Gam kaa chaaro.n taraf 
+aur chhaa_ii hu_ii hai kaalii ghaTaa) \-2
+kyuu.N naiyyaa hamaarii paar lage \-2
+qismat hii ko jab ma.nzuur na ho \-2
+
+is dard kii maarii duniyaa me.n 
+mujhasaa bhii ko_ii majabuur na ho
+%
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{pyaar ke giit ye dil jo gaane lagaa ... dha.Dakano.n ko na_e jo}%
+\film{Arjun Pandit}%
+\year{1999}%
+\starring{Sunny Deol, Juhi Chawala}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar ke giit ye dil jo gaane lagaa
+ik nashaa saa nigaaho.n pe chhaane lagaa
+dha.Dakano.n ko na_e jo taraane mile
+hamako diivaanagii ke bahaane mile
+zaraa mere paas aa zaraa mujhe ye bataa
+zaraa saa jo hosh thaa zaraa bhii na kyuu.n rahaa
+pyaar ke giit ye \threedots
+
+duniyaa me.n jo hai chaa.Ndanii jo dhuup hai tumhii.n se hai
+duniyaa me.n jo ye ra.ng hai ye ruup hai tumhii.n se hai
+ik nayaa mo.D apanii kahaanii me.n hai
+ik nayaa husn ab zi.ndagaanii me.n hai
+dha.Dakano.n ko na_e \threedots
+
+ab soch me.n ab dhyaan me.n har baat me.n tumhii.n to ho
+ab subah me.n ab shaam me.n din raat me.n tumhii.n to ho
+tumako paayaa to kyaa ho ga_ii zi.ndagii
+ik hasii.n Kvaab me.n kho ga_ii zi.ndagii
+dha.Dakano.n ko na_e \threedots
+%
+#endindian
+\endsong
+

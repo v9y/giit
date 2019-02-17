@@ -1,0 +1,31 @@
+% ITRANS SONG
+
+\startsong
+\stitle{bazm se unakii ham kyaa laaye}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Begum Akhtar}%
+\music{}%
+\lyrics{Shamim Jaipuri}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 31, 2004
+% Credits: Abhay Phadnis
+
+\printtitle
+#indian
+
+bazm se unakii ham kyaa laaye
+pyaase gaye aur pyaase aaye
+
+kaash junuu.N itanaa ba.Dh jaaye
+bhuulane waalaa yaad na aaye
+
+ma.nzil se wo duur hii achchhe
+jinako ma.nzil raas na aaye
+
+aah musiibat ke wo lamhe
+dost bhii jiname.n kaam na aaye
+
+#endindian
+\endsong

@@ -1,0 +1,37 @@
+% 
+\startsong
+\stitle{ye kis bandhan me.n ulajhaayaa hai tuu ne}%
+\film{}%
+\year{}% 
+\starring{}%
+\singer{Bhupinder}%
+\music{}%
+\lyrics{}%
+% 
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits: 
+% Comments:  
+%
+\printtitle
+#indian
+%
+
+ye kis bandhan me.n ulajhaayaa hai tuu ne zi.ndagii mujh ko
+jo to.Daa bhii nahii.n jaataa, nibhaayaa bhii nahii.n jaataa
+ye kis bandhan me.n ulajhaayaa hai tuu ne \thredots
+
+ye ulajahan ye pareshaanii Kudaa ye bebasii taubaa
+mere saaqii ne mujh ko de diyaa hai jaam kuchh aisaa
+jo cho.Daa bhii nahii.n jaataa, uThaayaa bhii nahii.n jaataa
+ye kis bandhan me.n ulajhaayaa hai tuu ne \threedots
+
+jo kahataa thaa muhabbat me.n vafaa kaa devataa ho jaa
+taajjub hai vahii kahataa hai jaa mujh se bevafaa ho jaa
+magar ai bevafaa mujh se bhulaayaa bhii nahii.n jaataa
+ye kis bandhan me.n ulajhaayaa hai tuu ne \threedots
+
+%
+#endindian
+\endsong
+%

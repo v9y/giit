@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{mujh se judaa ho kar, tujhe duur jaanaa hai}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Salman Khan, Madhuri Dixit}%
+\singer{Lata, S P Balasubramaniam}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+mujh se judaa ho kar tumhe.n duur jaanaa hai
+pal bhar kii judaa_ii phir lauT aanaa hai
+saathiyaa sa.ng rahegaa teraa pyaar
+saathiyaa, ra.ng layegaa i.ntazaar
+
+tumase judaa hokar mujhe duur jaanaa hai
+pal bhar kii judaa_ii phir lauT aanaa hai
+saathiyaa, sa.ng rahegaa teraa pyaar
+saathiyaa, ra.ng layegaa i.ntazaar
+
+mai.n huu.N terii sajanii, saajan hai tuu meraa
+tuu baa.Ndh ke aayaa mere pyaar kaa seharaa
+chehare se ab tere haTatii nahii.n akhiyaa.N
+teraa naam le lekar chhe.De mujhe sakhiyaa.N
+sakhiyo.n se ab mujhako piichhaa chhu.Daanaa hai
+pal bhar kii judaa_ii phir lauT aanaa hai   \threedots
+
+mere tasavvur me.n tum roz aatii ho
+chupake se tum aakar, meraa ghar sajaatii ho
+sajanii ba.Daa pyaaraa ye ruup hai tera
+gjare kii khushabuu se mahakaa hai ghar meraa
+aa.Nkho.n se ab terii kaajal churaanaa hai
+pal bhar kii judaa_ii phir lauT aanaa hai   \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,55 @@
+% ITRANS SONG
+
+\startsong
+\stitle{duniyaa hai ye pyaar kii duniyaa}%
+\film{Parakh}%
+\year{1944}%
+\starring{Mehtab, Balwant Singh, Kaushalya}%
+\singer{Sushri Nigam/ Ira Nigam}%
+\music{Khurshid Anwar}%
+\lyrics{Gaafil Harnalvi}%
+
+% Contributor: BOL ANAMOL [V S Rawat], Aug 02, 2004
+% Credits: Irfan
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% Comments: Kosh mentions singer as Sushri Nigam but Irfan
+% confirmed that she is same as Ira Nigam who live in Kanpur
+% itself (the city of Hamraaz ji).
+
+\printtitle
+#indian
+
+duniyaa hai ye pyaar kii duniyaa \-2
+o jaane waale pyaar kiye jaa
+jiiwan\-saathii yahii hai teraa
+pyaar ko saath liye jaa
+o jaane waale
+pyaar ko saath liye jaa
+
+( pyaar kii duniyaa ba.Dii suhaanii
+khel rahaa hai aag se paanii ) \-2
+dushaman ko bhii gale lagaa ke
+ai inasaan jiye jaa
+
+duniyaa hai ye pyaar kii duniyaa
+o jaane waale pyaar kiye jaa
+jiiwan\-saathii yahii hai teraa
+pyaar ko saath liye jaa
+o jaane waale
+pyaar ko saath liye jaa
+
+( sukh\-dukh dono.n pyaar ke pyaale
+ha.Nsate\-ha.Nsate pii matawaale pii matawaale ) \-2
+jhuum\-jhuum kar ek saa.N me.n
+dono.n jaam piye jaa
+
+duniyaa hai ye pyaar kii duniyaa
+o jaane waale pyaar kiye jaa
+jiiwan\-saathii yahii hai teraa
+pyaar ko saath liye jaa
+o jaane waale
+pyaar ko saath liye jaa
+
+#endindian
+\endsong

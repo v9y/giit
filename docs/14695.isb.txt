@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{kaale kaale baal gaal gore gore}%
+\film{Ziddi}%
+\year{1997}%
+\starring{Sunny Deol, Raveena Tandon}%
+\singer{Alka Yagnik}%
+\music{Dilip Sen Sameer Sen}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are ore aare aare aare
+o kaale kaale baal gaal gore gore ai aa haa
+are yuu.n naa mujhape Daal Daal Dore Dore
+o ore aare
+
+merii bahakii bahakii chaal
+kar ga_ii aisaa kamaal mar ga_e chhore chhore
+are ore ore
+mere ra.ng ra.ngiile vaa vaa
+mere nain kaTiile vaa vaa
+chhuu ke dekh zaraa tuu diivaane mere ho.nTh rasiile
+he o ho
+
+mai.n huu.N abhii ku.nvaarii lagatii sabako pyaarii vaa vaa
+merii ek adaa pe dekho mar ga_ii duniyaa saarii vaa vaa
+meraa reshamii rumaal kar gayaa aisaa kamaal
+mar ga_e chhore chhore
+o kaale kaale baal \threedots
+%
+#endindian
+\endsong
+

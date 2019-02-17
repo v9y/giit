@@ -1,0 +1,59 @@
+% ITRANS SONG
+
+\startsong
+\stitle{har din hai nayaa, har raat niraalii hai}%
+\film{Shikari}%
+\year{1946}%
+\starring{Ashok Kumar, Veera, Paro, Ram Shukul, Leela Mishra, Kishor Kumar}%
+\singer{Amirbai, Ashok Kumar}%
+\music{S D Burman}%
+\lyrics{G S Nepali}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+% Comments: First Film of S D Burman
+
+\printtitle
+#indian
+
+amii \:	har din hai nayaa
+	ha haa haa haa ha haa
+	har din hai nayaa, har raat niraalii hai
+asho \:	tuu hai dil me.n to roz diiwaalii hai
+amii \:	har din hai nayaa
+asho \:	ha haa haa haa ha haa
+
+	sunasaan ghanaa ja.ngal
+amii \:	man hai Dar se cha.nchal \-2
+asho \:	o cha.nchal nadiyaa, tuu pyaase ke paas kahaa.N aa_ii
+	cha.nchal nadiyaa, tuu pyaase ke paas kahaa.N aa_ii
+amii \:	nadiyaa ko pyaase piyaa kii
+asho \:	priit bulaa laa_ii
+	ja.ngal kii Dagariyaa kaa.NTo.n waalii hai
+amii \:	tuu hai dil me.n to roz diiwaalii hai
+	har din hai nayaa
+
+asho \:	raat khilii kii, ?? chaa.Nd sii sundar
+	pyaar bharii tum kaun
+	tum kaun \-2
+amii \:	mai.n terii diiwaanii \-2
+	prem bhii paa re, ?? bole shikaare,
+	bhed bhare tum kaun \-2
+asho \:	mai.n raajaa, tum raanii, tum raanii
+amii \:	bharapuur chaman hai rut matawaalii hai
+asho \:	tuu hai dil me.n to roz diwaalii hai
+amii \:	o ho o o o o
+
+	ho gaur kiyaa to or ??
+	ho gaur kiyaa to pyaaraa hai kaalii ??
+asho \: 	tum ho merii aa.Nkho.n kii ujiyaalii
+amii \:	chupake\-chupake baate.n hotii.n, chupake hotaa pyaar
+	chupake hotaa pyaar
+asho \:	isii tarah anajaan me.n banataa hai nayaa sa.nsaar
+amii \:	aa aa
+do \:	banataa hai nayaa sa.nsaar
+	ham do pa.nchhii bas ek hii Daalii hai
+	tuu hai dil me.n to roz diiwaalii hai
+	har din hai nayaa
+
+#endindian
+\endsong

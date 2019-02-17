@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{zaraa bach ke o bali_e bach ke}%
+\film{Pyar Ka Bandhan}%
+\year{1963}%
+\starring{Rajkumar, Nishi, Naaz, Johny Walker, Dhumal, Pratima Devi, Helen}%
+\singer{Mahendra Kapoor, Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10730 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	zaraa bach ke o bali_e bach ke
+	kahii.n patalii qamar na lachake
+	Thumak naa ruk\-ruk ke
+aa \:	sun huqm hai ye sarakaarii
+	chhin jaa_egii nambaradaarii
+	naa tak mujhe jhuk\-jhuk ke
+
+ra \:	tere do naino.n ke maare dar pe maare phere
+	ke aajaa khi.Dakii me.n
+aa \:	zaraa soch ke baate.n karanaa bhalaa aashiq kaa kyaa maranaa
+	jo mar jaa_e jhi.Dakii me.n
+ra \:	zaraa bach ke \threedots
+
+	teraa qad hai saruu kaa buuTaa gore ra.ng ne tere dil ko luuTaa
+	meraa to saaraa jag bairii ho gayaa
+aa \:	Kush rahatii jo hotii kaalii gore ra.ng ne musiibat Daalii
+	ki saaraa jag bairii ho gayaa
+ra \:	zaraa bach ke \threedots
+
+	banuu.N mai.n ik din duulhaa jale mere bhii ghar chuulhaa
+	o rab ho to aisaa ho \-2
+aa \:	ju.De dil se dil kaa kaa.NTaa mujhe mil jaa_e tujhasaa baa.Nkaa
+	gazab ho to aisaa ho
+ra \:	zaraa bach ke \threedots
+%
+#endindian
+\endsong
+

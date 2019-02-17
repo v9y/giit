@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{mujhii me.n chhup kar mujhii se duur}%
+\film{Jailor}%
+\year{1958}%
+\starring{Sorabh Modi, Kamini Kaushal, Geeta Bali, Abhi Bhattacharya, Nana Palsikar}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10574 [V S Rawat]
+% Transliterator: 
+% Comments: Based on a story by Kamal Amrohi. Remake of Jailor - 1938
+% 
+\printtitle
+#indian
+%
+mujhii me.n chhup kar mujhii se duur
+ye kaisaa dastuur re maalik ye kaisaa dastuur
+
+maine man kii aa.Nkho.n se to dekhaa hai sau baar tujhe
+lekin tan kii aa.Nkho.n se bhii de darshan ik baar mujhe
+darshan de phir chhin le a.Nkhiyaa.N ye mujhako ma.njuur
+re maalik ye mujhako ma.njuur
+mujhii me.n chhup kar \threedots
+
+chalii havaa jab tan ko chhuu kar maine tujhe pahachaan liyaa
+tujh bin komal haath ye kisakaa hogaa maine jaan liyaa
+dhuup havaa sab ruup hai.n tere sab me.n teraa nuur
+re maalik sab me.n teraa nuur
+mujhii me.n chhup kar \threedots
+
+sachche dil se naam luu.N teraa nirdhan kii yahii puujaa hai
+a.Ndhiyaare me.n saathii ko_ii aur na tum bin duujaa hai
+terii Kushii me.n Kush hai.n daataa ham bande majabuur
+re maalik ham bande majabuur
+mujhii me.n chhup kar \threedots
+%
+#endindian
+\endsong
+

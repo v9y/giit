@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{jab\-jab tumhe.n bhulaayaa tum aur yaad aa_e}%
+\film{Jahanara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Lata, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10573 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jab\-jab tumhe.n bhulaayaa tum aur yaad aa_e
+( jab\-jab tumhe.n bhulaayaa haa.N tum aur yaad aa_e tum aur yaad aa_e ) \-2
+jaate nahii.n hai.n dil se ab tak tumhaare saa_e \-2
+jaate nahii.n hai.n dil se haa.N ab tak tumhaare saa_e
+jab\-jab tumhe.n bhulaayaa \threedots
+
+tumase bichha.D ke hamane dil ko bahut sa.mbhaalaa \-4
+dil ko bahut sa.mbhaalaa
+gulashan me.n ye na bahalaa aa
+gulashan me.n ye na bahalaa saharaa me.n bhii sataa_e
+tum aur yaad aa_e
+jab\-jab tumhe.n bhulaayaa \threedots
+
+marane kii aarazuu me.n ham jii rahe hai.n aise \-2
+marane kii aarazuu me.n ho ham jii rahe hai.n aise \-2
+ham jii rahe hai.n aise
+jaise kii laash apanii khud hii ko_ii uThaa_e
+tum aur yaad aa_e
+jab\-jab tumhe.n bhulaayaa \threedots
+%
+#endindian
+\endsong
+

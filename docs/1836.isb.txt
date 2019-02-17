@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{us ko nahii.n dekhaa ham ne kabhii, par isakii zaruurat kyaa hogii}%
+\film{Daadi Maa}%
+\year{1966}%
+\starring{Ashok Kumar, Bina Rai, Durga Khote, Rehman, Shashikala}%
+\singer{Manna De, Mahendra Kapoor}%
+\music{Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          Rajan Parrikar (parrikar@mimicad.Colorado.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mahe:   us ko nahii.n dekhaa hamane kabhii
+par isakii zaruurat kyaa hogii
+dono:   ai maa.N, ai maa.N terii suurat se alag
+bhagavaan kii suurat kyaa hogii, kyaa hogii
+us ko nahii.n dekhaa hamane kabhii\threedots
+
+man:    inasaan to kyaa devataa bhii
+aa.Nchal me.n pale tere
+hai svarg isii duniyaa me.n
+kadamo.n ke tale tere
+mamataa hii luTaaye jisake nayan, ho\threedots
+dono:   mamataa hii luTaaye jisake nayan
+aisii koii muurat kyaa hogii
+ai maa.N, ai maa.N terii\threedots
+
+mahe:   kyo.n dhuup jalaaye dukho.n kii
+kyo.n Gam kii ghaTaa barase
+ye haath duaao.n vaale
+rahate hai.n sadaa sar pe
+tuu hai to a.ndhere path me.n hame.n, ho\threedots
+dono:   tuu hai to a.ndhere path me.n hame.n
+suuraj kii zaruurat kyaa hogii
+ai maa.N, ai maa.N terii\threedots
+
+dono:   kahate hai.n terii shaan me.n jo
+koii uu.Nche bol nahii.n
+bhagavaan ke paas bhii maataa
+tere pyaar kaa mol nahii.n
+ham to yahii jaane tujhase ba.Dii, ho\threedots
+ham to yahii jaane tujhase ba.Dii
+sa.nsaar kii daulat kyaa hogii
+ai maa.N, ai maa.N terii\threedots
+%
+#endindian
+\endsong
+%

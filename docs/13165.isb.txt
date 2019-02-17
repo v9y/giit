@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{ab mujhe raat din tumhaaraa hii khyaal hai}%
+\film{Non-Film}%
+\year{1998}%
+\starring{}%
+\singer{Sonu Nigam}%
+\music{Sajid Wajid}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ab mujhe raat din tumhaaraa hii khyaal hai
+kyaa kahuu.n pyaar me.n diivaano.n jaisaa haal hai
+diivaano.n jaisaa haal hai tumhaaraa hii khyaal hai
+
+tujhako dekhe binaa chain milataa nahii.n
+dil pe ab to ko_ii zor chalataa nahii.n
+jaaduu hai kaisaa dil kii lagii me.n
+Duub gayaa huu.N is bekhudii me.n
+ab mujhe raat din \threedots
+
+har pal Dhuu.nDhe.n nazar tumako hii jaan\-e\-man
+had se ba.Dhane lagaa meraa diivaanaapan
+dil me.n basaa luu.n apanaa banaa luu.n
+yaa phir nazar me.n tumako chhupaa luu.n
+ab mujhe raat din \threedots
+%
+#endindian
+\endsong
+

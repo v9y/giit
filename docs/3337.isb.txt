@@ -1,0 +1,53 @@
+% ITRANS SONG # 3337; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)
+% Date: 2002-05-24 14:30:14 PST 
+%
+\startsong
+\stitle{ham dard kaa afasaanaa duniyaa ko sunaa de.nge}%
+\film{Dard}%
+\year{1947}%
+\starring{Suraiyya, Munawar Sultana, Nusrat}%
+\singer{Shamshad, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date:23 May,2002
+%
+\printtitle
+#indian
+%
+sham:ham dard kaa afasaanaa duniyaa ko sunaa de.nge
+cho:ham dard kaa afasaanaa duniyaa ko sunaa de.nge
+sham:har dil me.n muhabbat kii ik aag lagaa de.nge
+cho:har dil me.n muhabbat kii ik aag lagaa de.nge
+
+sham:ho jaayegii phir duniyaa aabaad yatiimo.n kii
+cho:ho jaayegii phir duniyaa aabaad yatiimo.n kii
+sham:guu.njegii zamaane me.n fariyaad yatiimo.n kii
+cho:guu.njegii zamaane me.n fariyaad yatiimo.n kii
+sham:rote hu_e nagamo.n se tuufaa.n uThaa de.nge
+cho:rote hu_e nagamo.n se tuufaa.n uThaa de.nge
+cho:har dil me.n muhabbat kii ik aag lagaa de.nge
+
+sham: sarkar\-e\-do_aalam kii ummat pe sitam kyo.n ho
+cho:sarkar\-e\-do_aalam kii ummat pe sitam kyo.n ho
+sham:allaah ke bando.n ko ma.Njdhaar kaa Gam kyo.n ho
+cho:allaah ke bando.n ko ma.Njdhaar kaa Gam kyo.n ho
+sham:islaam kii kashtii ko ham paar lagaa de.nge
+cho:islaam kii kashtii ko ham paar lagaa de.nge
+cho:ham dard kaa afasaanaa duniyaa ko sunaa de.nge
+
+sham:ehasaan yatiimo.n kii taqadiir pe kar Daalo
+cho:ehasaan yatiimo.n kii taqadiir pe kar Daalo
+sham:fariyaad hai dil vaalo.n fariyaad hai dil vaalo
+cho:fariyaad hai dil vaalo.n fariyaad hai dil vaalo
+sham:ham par bhii karam karanaa, ham tum ko duaa de.nge
+cho:ham par bhii karam karanaa, ham tum ko duaa den.ge
+cho: har dil me.n muhabbat kii ik aag lagaa de.nge
+%
+#endindian
+\endsong
+%

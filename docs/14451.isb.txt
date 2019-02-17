@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{yah ra.ng bhare baadal ye u.Dataa hu_aa aa.Nchal}%
+\film{Tu Nahin Aur Sahi}%
+\year{1960}%
+\starring{Pradeep Kumar, Kumkum, Nishi, Meenu Mumtaz, Dinshaa, Helen}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10738 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	yah ra.ng bhare baadal ye u.Dataa hu_aa aa.Nchal
+ra \:	kahataa hai ishaaro.n se mausam hai bahaaro.n kaa
+	aa kahii.n duur chal
+aa \:	aa ye ra.ng bhare \threedots
+
+ra \:	tere ye hasii.n a.ndaaz sanam diivaanaa banaa ke chho.De.nge
+aa \:	ye soch liyaa thaa pahale hii tumhe.n apanaa banaa ke chho.De.nge \-2
+ra \:	ab raahe.n zindagii kii ho jaa_e.Ngii sahal
+aa \:	ye ra.ng bhare \threedots
+
+	ye ha.Nsataa hu_aa ra.ngiin samaa.N kahii.n biit na jaa_e baato.n me.n \-2
+ra \:	ai jaan\-e\-vafaa taqadiir merii hai aaj se tere haatho.n me.n
+aa \:	TuuTe naa zindagii bhar Kvaabo.n kaa ye mahal
+do \:	ye ra.ng bhare \threedots
+%
+#endindian
+\endsong
+

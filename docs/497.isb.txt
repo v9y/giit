@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil jo naa kah sakaa, vahii raaz-e-dil, kahane kii raat}%
+\film{Bheegi Raat}%
+\year{1965}%
+\starring{Pradeep Kumar, Meena Kumari, Ashok Kumar}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dil jo naa kah sakaa
+vohii raaz\-e\-dil kahane kii raat aaI
+dil jo naa kah sakaa
+
+taubaa ye kis ne a.njuman sajaa ke
+Tuka.De kiye hai.n gu.ncha\-e\-vafaa ke \- 2
+uchhaalo gulo.n ke Tuka.De
+ke ra.ngii.n fizaao.n me.n rahane kii raat aaI
+dil jo naa kah sakaa
+
+chaliye mubaarak ye jashn dostii kaa
+daaman to thaamaa aap ne kisii kaa \- 2
+hame.n to khushii yahii hai
+tumhe.n bhii kisii ko apanaa kahane kii raat aaI
+dil jo naa kah sakaa
+
+saagar uThaao dil kaa kis ko Gam hai
+aaj dil kii qiimat jaam se bhii kam hai \- 2
+piyo chaahe khuun\-e\-dil ho
+ke piite pilaate hii rahane kii raat aaI
+dil jo naa kah sakaa
+%
+#endindian
+\endsong
+%

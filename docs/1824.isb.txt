@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{tuu saamane jab aataa hai, dil dhak se dha.Dak jaataa hai}%
+\film{Anjaam}%
+\year{}%
+\starring{Madhuri Dixit, Shahrukh Khan, Dilip Tijori}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+% 
+% Contributor: Dharmesh Patel <dxp8108@megahertz.njit.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 03/30/1997
+%
+\printtitle
+#indian
+%
+alkA: tuu saamane jab aataa hai, dil dhak se dha.Dak jaataa hai	\- 2
+      siine me.n aag sii jalatii hai, jalatii hai, jalatii hai
+      siine me.n aag sii jalatii hai, koii sholaa bha.Dak jaataa hai
+      tuu saamane jab aataa hai \threedots
+
+      terii saa.Nso.n kii garmii se, tan meraa mahake
+udit: tere ho.nTho.n kii narmii se, man meraa bahake
+alkA: kaisii agan jaagii sajan, jaagii sajan
+      kaisii agan, a.Ng a.Ng bahake
+udit: tuu saamane jab aatii hai \threedots
+
+(udit: terii zulfo.n kaa ye saavan, ras barasaae
+ alkA: terii chaahat kii ye KushabU, hosh u.Daae)	\- 2
+udit:  terii kasam, bahake kadam, bahake kadam, terii kasam
+       bekhudii sii chhaae
+
+udit: tuu saamane jab aatii hai, ik dard jagaa jaatii hai	\- 2
+      bal khaake aise chalatii hai, chalatii hai, chalatii hai
+      bal khaake aise chalatii hai
+      merii jaan ko ta.Dapaatii hai
+alkA: tuu saamane jab aataa hai
+udit: tuu saamane jab aatii hai
+%
+#endindian
+\endsong
+%
+

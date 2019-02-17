@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{palako.n ke piichhe se kyaa tumane kah Daalaa phir se to faramaanaa}%
+\film{Talaash}%
+\year{1969}%
+\starring{Rajendra Kumar, Sharmila Tagore}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Header Info: (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+r: palako.n ke piichhe se kyaa tumane kah Daalaa
+phir se to faramaanaa
+l: naino.n ne sapano.n kI mahafil sajaaI hai tum bhI zaruur aanaa
+r: palako.n ke piichhe se kyaa tumane kah Daalaa
+phir se to faramaanaa
+
+(r: taubaa merI taubaa   
+mushkil thaa ek to pahale hI dil kaa bahalanaa   
+aafat phir usape laT me.n tumhaaraa 
+mukha.Daa chhupaa ke chalanaa ) \- 2
+l: aise na bolo pa.D jaae mujhako, sharamaanaa
+r: palako.n ke piichhe se \threedots
+
+(l: duniyaa naa dekhe dha.Dake meraa man rastaa sajan meraa chho.Do
+tan tharatharaae u.NgalI hamaarI dekho piyaa na maro.Do )\- 2
+r: yuu.N naa sataao mujhako banaake, dIvaanaa
+r: palako.n ke pIchhe se \threedots
+
+(r: bach bach ke hamase o matavaalI hai ye kahaa.N kaa iraadaa 
+naazuk labo.n se phir karatii jaao  
+milane kaa koI vaadaa )\- 2
+l: dil ye meraa ghar hai tumhaaraa, aa jaanaa
+r: palako.n ke pIchhe se \threedots
+%
+#endindian
+\endsong
+%

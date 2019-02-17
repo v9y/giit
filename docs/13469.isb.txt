@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dil lene kii rut aa_ii dil dene kii rut aa_ii}%
+\film{Prem Granth}%
+\year{1996}%
+\starring{Shammi Kapoor, Rishi, Madhuri, Anupam, Om Puri, Prem Chopra}%
+\singer{Vinod Rathod, Alka Yagnik}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa dil lene kii rut aa_ii dil dene kii rut aa_ii
+jogan pe joban aayaa joban ne lii a.nga.Daa_ii
+dil lene kii rut aa_ii \threedots
+
+mujhako jo ho gayaa hai kyaa isakaa naam hai
+kahate hai.n pyaar isako par ye badanaam hai
+to mujhako badanaam kar do paka.Do merii kalaa_ii
+jogan pe joban aayaa \threedots
+
+dil chaahe baa.ndhuu.n paayal naachuu.n mai.n jhuumake
+ko_ii nishaanii de do rakh luu.n mai.n chuum ke
+tum maa.ngo jaan de duu.n de ke mai.n raam duhaa_ii
+are jogan pe joban aayaa \threedots
+
+Dolii baaraat meha.ndii aisaa din aaj kaa
+ye sun ke to.D aa_ii paharaa mai.n laaj kaa
+zulfo.n ke ghuu.nghaT me.n tuu dulhan ban ke sharamaa_ii
+jogan pe joban aayaa \threedots
+%
+#endindian
+\endsong
+

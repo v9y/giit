@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ajiib saanehaa mujh par guzar gayaa yaaro}%
+\film{Gaman}%
+\year{}%
+\starring{Farooq Sheikh, Smita Patil}%
+\singer{Hariharan}%
+\music{Jaidev}%
+\lyrics{Shahryar}%
+%
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
+% Date: 01/04/2000
+%
+\printtitle
+#indian
+%
+
+ajiib saanehaa mujh par guzar gayaa yaaro
+mai.n apane saaye se kal raat Dar gayaa yaaro
+
+har ek naqsh tamannaa kaa ho gayaa dhu.ndhalaa
+har ek zaKm mere dil kaa bhar gayaa yaaro
+
+bhaTak rahii thii jo kashtii vo Gaq.r\-e\-aab huii
+cha.Dhaa huaa thaa jo dariyaa utar gayaa yaaro
+
+vo kaun thaa vo kahaa.N kaa thaa kyaa huaa thaa use
+sunaa hai aaj koii shaKs mar gayaa yaaro
+
+%
+#endindian
+\endsong
+%
+

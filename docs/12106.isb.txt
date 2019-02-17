@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mai.n tujhe dekhataa rahaa ... naa maine kuchh kiyaa ishaaraa ... pyaar ho gayaa}%
+\film{Jawaani Zindaabaad}%
+\year{1990}%
+\starring{Aamir, Farha, Javed Jafri, Rohini, Utpal Dutt, Sushma Seth, Asrani}%
+\singer{Sadhana Sargam, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Verma Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n tujhe dekhataa rahaa
+mai.n tujhe dekhatii rahii
+naa maine kuchh kiyaa ishaaraa
+naa maine kuchh kiyaa ishaaraa
+pyaar ho gayaa
+
+jab se maine tujhe dekhaa hai terii tasviir hai aa.Nkho.n me.n
+bhiigii bhiigii yaado.n kii khushbuu bas ga_ii hai merii aa.Nkho.n me.n
+kho_ii rahatii huu.N khyaalo.n me.n tere
+aataa hai tuu mere khyaalo.n me.n
+naa maine kuchh kiyaa ishaaraa \threedots
+
+jab do javaa.n dil milate hai.n madabharii chaa.Ndanii raato.n me.n
+aisii javaa.n mulaaqaato.n me.n hu_aa mai.n diivaanaa bataa_uu.n kyaa tujhe
+jaaduu hai terii baato.n me.n
+naa maine kuchh kiyaa ishaaraa \threedots
+
+hogii na jism se jaan judaa terii kasam meraa vaadaa hai
+pyaar ye ba.Dhataa jaa_egaa mere sanam meraa vaadaa hai
+aadhaa aadhaa dono.n baaTe.nge ha.Ns ke khushii ho yaa Gam meraa vaadaa hai
+naa maine kuchh kiyaa ishaaraa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{kisii ne jaaduu kiyaa mai.n karuu.N kyaa}%
+\film{Chand Aur Suraj}%
+\year{1965}%
+\starring{Dharmendra, Ashok Kumar, Nirupa Roy, Tanuja}%
+\singer{Mukesh}%
+\music{Salil Chaudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10334 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kisii ne jaaduu kiyaa mai.n karuu.N kyaa
+meraa man moh liyaa mai.n karuu.N kyaa \-2
+kisii ne jaaduu kiyaa \threedots
+
+kar ke ghaayal vo mujhe beKabar hai.n
+merii aahe.n bhii vahaa.N be_asar hai.n
+Kuub hai ye adaa mai.n karuu.N kyaa
+kisii ne jaaduu kiyaa \threedots
+
+raat mushkil se kaTe din hai bhaarii
+sadaa aa.Nkho.n me.n rahe chhab vo pyaarii
+
+jiinaa ab unake binaa hu_aa mushkil
+jaan hai uname.n basii unhii.n kaa dil
+mujhe kyaa ho chalaa mai.n karuu.N kyaa
+kisii ne jaaduu kiyaa \threedots
+
+pyaar chhupataa nahii.n mai.n kyaa chhupaa_uu.N
+kahe to chiir ke dil mai.n dikhaa_uu.N
+husn de ke bhalaa mai.n karuu.N kyaa
+kisii ne jaaduu kiyaa \threedots
+%
+#endindian
+\endsong
+

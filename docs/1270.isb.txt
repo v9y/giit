@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mujh ko yaaro.n maaf karanaa, mai.n nashe me.n huu.N}%
+\film{Mai Nashe Me Hoon}%
+\year{1959}%
+\starring{Raj Kapoor, Mala Sinha}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+zaahid sharaab piine de masjid me.n baiThakar
+yaa vo jagah bataa de jahaa.N par khudaa na ho
+
+mujh ko yaaro.n maaf karanaa mai.n nashe me.n huu.N
+ab to mumakin hai bahakanaa mai.n nashe me.n huu.N
+
+kal kii raat miT rahii hai dard bhii hai kam
+ab zaraa aaraam se aa jaa rahaa hai dam
+kam hai ab dil kaa ta.Dapanaa mai.n nashe me.n huu.N
+
+Dhal chukii hai raat ab to uTh ga_ii mahafil
+mai.n kahaa.N jaauu.N nahii.n koii merii ma.nzil
+do kadam mushqil hai chalanaa mai.n nashe me.n huu.N
+
+hai zaraa sii baat aur chhalake hai pyaale
+par na jaane kyaa kahe.nge ye jahaa.N vaale
+tum bas itanaa yaad rakhanaa mai.n nashe me.n huu.N
+%
+#endindian
+\endsong
+%

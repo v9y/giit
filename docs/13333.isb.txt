@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{siine me.n aag bha.Dakatii hai ... ai ishq hame.n barabaad na kar}%
+\film{Naach}%
+\year{1949}%
+\starring{Suraiya, Shyam, Vasti, Omprakash, Kuldeep Kaur}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: BOL ANAMOL #12562 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+su \:	siine me.n aag bha.Dakatii hai aa.Nkho.n se paanii bahataa hai
+	kuchh aisii choT lagii dil par dil ro\-ro kar ye kahataa hai
+
+	ai ishq hame.n barabaad na kar \-4
+
+	dil to.D ke man kaa miit gayaa
+	ham haar gaye Gam jiit gayaa
+	Kushiyo.n kaa zamaanaa biit gayaa
+	Kushiyo.n kaa zamaanaa yaad na kar
+
+ra \:	ai ishq hame.n barabaad na kar \-2
+
+	kyuu.N rote hai.n do diiwaane
+	bedard zamaanaa kyaa jaane
+	bedard zamaane se ai dil
+	ummiid na rakh fariyaad na kar
+
+su \:	ai ishq hame.n barabaad na kar \-2
+
+	pahale to qafas me.n qaid kiyaa
+	saiyyaad ne phir ye huqm diyaa
+	ho.nTho.n ko sii ashqo.n ko pii
+	aa.Nsuu na bahaa fariyaad na kar
+
+su \:	ai ishq hame.n barabaad na kar \-4
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,53 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{baalii umariyaa bhajan karuu.N kaise}%
+\film{Sanyasi}%
+\year{1975}%
+\starring{Hema Malini, Manoj Kumar}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Vitthal Bhai Patel}%
+% 
+% Audio on: 
+% Tags: Provocative
+% Contributor: Ajay Gupta
+% Transliterator: 
+% Date: 21 Oct 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+la: baalii, baalii umariyaa bhajan karuu.N kaise
+    cha.Dhatii jawaanii jogan banuu.N kaise
+mu: jhuuThaa, jhuuThaa guru kaa vachan karuu.N kaise
+    saadhu huu.N teraa sajan banuu.N kaise
+    jhuuThaa
+
+la: ho, chaal merii bahakii, nazar merii Dolii \-2
+    chhuuT gayaa bachapan, badal gayii bolii
+mu: terii tuu jaan mujhe chho.D de akelaa
+    mai.n na ban paauu.Ngaa, saadhu se chhailaa
+    maayaa me.n man ko magan karuu.N kaise
+la: cha.Dhatii jawaanii \threedots
+
+mu: naa ghar kii paravaah, naa logo.n kaa Dar hai \-2
+    aisii kyaa terii hii cha.Dhatii umar hai
+la: jaane kyo.n tujh par na ko_ii asar hai
+    terii aur merii baraabar umar hai
+    naazuk, naazuk kamariyaa sambhal chaluu.N kaise
+mu: saadhu huu.N teraa \threedots
+
+mu: baar baar tujhako ye kaise samajhaauu.N \-2
+    tujhase ko_ii rishtaa mai.n jo.D nahii.n paauu.N
+la: laaj lage batiyaa.N mai.n kaise bataauu.N
+    aisaa naa ho mai.n ku.Nwaarii rah jaauu.N
+    ThaNDii, ThaNDii ye man kii agan karuu.N kaise
+mu: saadhu huu.N teraa \threedots
+
+%
+#endindian
+\endsong

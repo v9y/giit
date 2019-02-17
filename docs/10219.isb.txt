@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{kal ke sapane aaj bhii aanaa}%
+\film{Aadmi}%
+\year{1968}%
+\starring{Dilip Kumar, Waheeda Rehman, Manoj Kumar}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10600 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+kal ke sapane aaj bhii aanaa
+priitam ko bhii saath me.n laanaa
+kal ke sapane \threedots
+
+aaj bhii din hai madhur suhaanaa baaj rahii hai man kii baa.Nsuriyaa
+naino.n ke taT pe prem ke path pe lauT ke ab to aajaa saa.Nvariyaa
+mai.n bhii sunaa_uu.N dil kaa taraanaa \-2
+kal ke sapane \threedots
+
+jhuumate baadal gaate jharane aaj kisii ko Dhuu.NDh rahe hai.n
+mai.n to ye jaanuu.N saare nazaare sajanaa tumako Dhuu.NDh rahe hai.n
+aaj mujhe bhii daras dikhaanaa \-2
+kal ke sapane \threedots
+
+merii nagariyaa aa more rasiyaa Dagar\-Dagar mai.n a.Nkhiyaa.N bichhaa_uu.N
+dil me.n biThaa ke nain milaa ke janam\-janam kii pyaas bujhaa_uu.N
+tohe sikhaa_uu.N priit nibhaanaa \-2
+kal ke sapane \threedots
+%
+#endindian
+\endsong
+

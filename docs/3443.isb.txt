@@ -1,0 +1,42 @@
+% ITRANS SONG # 3443; Created on Jan 26, 2004
+%
+%      From: Nipun Shah (nipunshah@hotmail.com)
+%      Date: 2002-12-07 14:17:35 PST 
+%
+\startsong
+\stitle{nis din barasat nain hamaare}%
+\film{non-Film}%
+\year{1957}%
+\starring{}%
+\singer{Lata}%
+\music{Hridaynath Mangeshkar}%
+\lyrics{Surdas}%
+% 
+% Contributor: Nipun Shah
+% Transliterator: U. V. Ravindra, Sujajit Bose, Nipun Shah
+% Date: Dec 7, 2002
+% Series: GEETanjali
+% Comments: The lyrics are different from the K.L.Saigal song featured
+in the film "Bhakt Surdas".
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+nisa dina barasata naina hamaare
+sadaa rahata paavasa ritu ham par
+jab se shaam sidhaare
+
+a.njana thir na rahata a.Nkhiyan me.n
+kara\-kapola bhaye kaare
+ka.nchukii paTa suukhat nahi kabahuu.N
+ur bich bahat panaare
+
+aa.Nsu salil bhaye paga thaake
+bahe jaat sit taare
+suuradaasa ab Duubat hai
+braj kaahe na leta ubaare
+%
+#endindian
+\endsong
+%

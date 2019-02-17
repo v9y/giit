@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{yaa dil kii suno duniyaavaalo.n, yaa mujhako abhii chup rahane do}%
+\film{Anupama}%
+\year{}%
+\starring{Dharmendra, Sharmila Tagore, Tarun Bose}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Preeti Ranjan Panda on RMIM (ppanda@cliff.ICS.UCI.EDU)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+yaa dil kii suno duniyaavaalo.n
+yaa mujhako abhii chup rahane do
+mai.n Gam ko khushii kaise kah duu.N
+jo kahate hai.n unako kahane do
+
+ye phUl chaman me kaisaa khilaa
+maalii kii nazar me pyaar nahii.n
+ha.Nsate hue kyaa kyaa dekh liyaa
+ab bahate hai.n aa.Nsuu bahane do
+yaa dil kii suno \threedots
+
+ek khvaab khushii kaa dekhaa nahii.n
+dekhaa jo kabhii to bhUl gaye
+maanaa ham tumhe.n kuchh de naa sake
+jo tumane diyaa vo sahane do
+yaa dil kii suno \threedots
+
+kyaa dard kisii kaa legaa koI
+itanaa to kisii me.n dard nahii.n
+bahate hue aa.Nsuu aur bahe.n
+ab aisii tasallii rahane do
+yA dil kii suno \threedots
+%
+#endindian
+\endsong
+%

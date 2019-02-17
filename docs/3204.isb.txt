@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{sunate hai.n ke mil jaati hai har chiiz duaa se}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{}%
+\lyrics{Rana Akbarabadi}%
+%
+% Contributor: Irfan Moinuddin
+% Transliterator: K Vijay Kumar
+% Credits: U V Ravindra
+% Comments: Album - Tareef Us Khuda Ki
+%
+\printtitle
+#indian
+%
+
+sunate hai.n ke mil jaatii hai har chiiz duaa se
+ek roz tumhe.n maa.Ng ke dekhe.nge Kudaa se
+
+duniyaa bhii milii hai, Gam\-e\-duniyaa bhii milaa hai
+vo kyo.n nahii.n milataa jise maa.Ngaa thaa Kudaa se
+
+sunate hai.n ke mil jaatii hai har chiiz duaa se
+ek roz tumhe.n maa.Ng ke dekhe.nge Kudaa se
+
+%
+#endindian
+\endsong
+%

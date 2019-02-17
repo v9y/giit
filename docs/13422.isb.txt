@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{kahii.n naa kahii.n hai vo diivaanii}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n kahii.n naa kahii.n hai vo diivaanii
+mujhase abhii hai a.njaanii
+ho aa_egii kabhii to saamane vo
+meraa khvaab merii zi.ndagaanii
+
+kahii.n naa kahii.n hai vo diivaanaa
+mujhase abhii hai a.njaanaa
+ho aa_egaa kabhii to saamane vo
+khvaabo.n me.n jisakaa aanaa jaanaa
+kahii.n naa kahii.n \threedots
+
+usake labo.n pe bikharii hai laalii
+khushbuu hai usakii sa.ndalii
+mahakii bahaare.n bahake nazaare
+vo muskuraa ke jab chalii
+haa.n aa.Nkho.n me.n kaajal zulfo.n me.n baadal
+sab ra.ng usame.n hai chhupaa
+kahii.n naa kahii.n \threedots
+
+kyaa sochatii huu.N kyaa sochatii huu.N
+usako nahii.n hai kuchh khabar
+mai.n rok luu.ngii raaho.n me.n usako
+bach ke vo jaa_egaa kidhar
+huu.n jaagii naa so_ii yaado.n me.n kho_ii
+ye kyaa mujhe ho gayaa
+kahii.n naa kahii.n \threedots
+%
+#endindian
+\endsong
+

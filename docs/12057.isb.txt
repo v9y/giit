@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{terii bi.ndiyaa u.Daa ke ... so gayaa saaraa ##India##}%
+\film{Jodi No.1}%
+\year{1999?}%
+\starring{}%
+\singer{Abhijit, Sunidhi Chauhan}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+terii bi.ndiyaa u.Daa ke le ga_ii merii ni.ndiyaa
+mai.n jaag rahaa huu.N so gayaa saaraa ##India##
+
+merii bi.ndiyaa u.Daa ke le ga_ii terii ni.ndiyaa
+tuu jaag rahaa hai so gayaa saaraa ##India##
+terii bi.ndiyaa u.Daa ke \threedots
+
+merii jaan kisii kii jaan ko jaate dekhaa hai
+mai.n jaan luTaa duu.ngaa tujhape ye sochaa hai
+tuu ek luTeraa hai dil tuune luuTaa hai
+mai.n kyaa jaanuu.n tuu sachchaa hai ki jhuuThaa hai
+tuune kar liyaa kaabuu jaaduu mujhape kiyaa
+mai.n jaag rahaa huu.N \threedots
+
+maine jab se diyaa hai jaan\-e\-man ye dil tujhako
+mujhe terii kasam hai chain nahii.n ik pal mujhako
+haalat merii bhii kuchh kuchh tere jaisii hai
+bechain ba.Daa karatii hai muhabbat kaisii hai
+ab kyaa Daranaa jab pyaar kiyaa to kiyaa
+mai.n jaag rahaa huu.N \threedots
+%
+#endindian
+\endsong
+

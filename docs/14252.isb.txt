@@ -1,0 +1,57 @@
+
+%
+\startsong
+\stitle{sa.Nwariyaa prem kii bansii sunaa}%
+\film{Street Singer}%
+\year{1938}%
+\starring{K L Saigal, Kanan Devi, Jagdish, Vikram Kapoor, Subeer, Rekha}%
+\singer{Saigal/ Kanan Devi, Saigal}%
+\music{Rai Chand Boral}%
+\lyrics{Aarzoo Lakhnawi}%
+%
+% Contributor: BOL ANAMOL #10013 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+% 
+\printtitle
+#indian
+%
+sai \:	sa.Nwariyaa prem kii bansii sunaa
+kaa \:	patalii\-patalii zaraa sii banasii
+	ba.De\-ba.De gun gaaye
+	saat suro.n ke pher badal se
+	saare raag bajaaye
+	sa.Nwariyaa prem kii banasii sunaa
+do \:	sa.Nwariyaa prem kii bansii sunaa
+
+sai \:	niramohii ko ruup dikhaaye
+	mohii ko tarasaaye
+	mu.Nh par Daal ke kaalii kamaliyaa
+	din ko raat banaaye
+do \:	sa.Nvariyaa prem kii bansii sunaa \-2
+
+% this stanzaa was not in the song version I had
+
+aap to priit kii riit na jaane
+aur ko priit sikhaaye
+pyaar me.n maare baan najar kaa
+aa.Nkh kaa chakr ghumaaye
+
+kaa \:	man ke dhyaan se rajadhaa raanii
+	lambii dau.D lagaaye
+sai \:	man ke dhyaan se rajadhaaraanii
+	lambii dau.D lagaaye
+kaa \:	mathuraa se
+	mathuraa se gokul tak jaaye
+	darashan kar lauT aaye
+sai \:	mathuraa se gokul tak jaaye
+	darashan kar lauT aaye
+do \:	lauT aaye phir jaaye \-4
+	banasii sunaaye \-3
+
+sai \:	bansii sunaaye
+kaa \:	banasii sunaaye
+%
+#endindian
+\endsong
+

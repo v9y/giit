@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{roz roz Daalii Daalii kyaa likh jaaye}%
+\film{Angoor}%
+\year{}%
+\singer{Asha}%
+\starring{Sanjeev Kumar, Deven Varma, Moushmi Chatterjee, Deepti Naval}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Renu Thamma (rthamma@ra.msstate.edu)
+% Transliterator:
+% Date: Fri Sep 26 1997
+% Credits:
+% Editor:
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+roz roz Daalii Daalii kyaa likh jaaye
+bha.Nvaraa baavaraa
+kaliyo.n ke naam koii likhe paiGaam koii
+baavaraa bha.Nvaraa baavaraa
+roz roz Daalii Daalii \threedots
+
+biite hue mausam kii koii nishaanii hogii
+pa ma pa ma ga ma ga re ga ni re ni ma ga re pa
+biite hue mausam kii koii nishaanii hogii
+dad.r puraanaa koii yaad puraanii hogii
+koii to daastaan hogii naa
+roz roz Daalii Daalii \threedots
+
+hogaa koii vaadaa hogaa vaadaa nibhaataa hogaa
+shaakho.n pe likh kar yaad dilaataa hogaa
+yaad to aatii hii hogii naa
+roz roz Daalii Daalii \threedots
+
+%
+#endindian
+\endsong
+%

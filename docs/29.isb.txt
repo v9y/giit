@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aa.Nkho.n me.n kyaa jii, rupahalaa baadal}%
+\film{Nau Do Gyaarah}%
+\year{1957}%
+\starring{Dev Anand, Kalpana Kartik}%
+\singer{Kishore, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aa.Nkho.n me.n kyaa jii
+rupahalaa baadal
+baadal me.n kyaa jii
+kisii kaa aa.Nchal
+aa.Nchal me.n kyaa jii
+ajab sii halachal
+
+ra.ngii.n hai mausam
+tere dam kii bahaar hai
+phir bhii hai kuchh kam
+bas teraa i.ntazaar hai
+dekhane me.n bhole ho
+par ho ba.De cha.nchal
+aa.Nkho.n me.n kyaa jii\threedots
+
+jhukatii hai.n palake.n
+jhukane do aur jhUm ke
+u.Datii hai.n zulphe.n
+u.Dane do ho.nTh chuum ke
+dekhane me.n\threedots
+
+jhuume.n laharaae.n
+nayanaa mil jaaye nain se
+saathii bana jaae.n
+rastaa kaT jaaye chain se
+dekhane me.n\threedots
+%
+#endindian
+\endsong
+%

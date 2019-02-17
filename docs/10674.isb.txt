@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{phir vo bhuulii sii yaad aa_ii hai}%
+\film{Begaana}%
+\year{1963}%
+\starring{Supriya Chaudhary, Dharmendra, Shailesh Kumar, Madhvi, Manorama}%
+\singer{Rafi}%
+\music{Sapan Jagmohan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #10352 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Sapan Jagmohan
+% 
+\printtitle
+#indian
+%
+ko_ii mere dil se puuchhe tere tiir\-e\-niimakash ko
+vo Kalish kahaa.N se uThatii jo jigar ke paar hotaa
+
+% by Ghalib
+
+phir vo bhuulii sii yaad aa_ii hai \-2
+ai Gam\-e\-dil terii duhaa_ii hai
+phir vo bhuulii sii \threedots
+
+baat itanii sii hai kahaanii me.n \-2
+ham bhii maare ga_e javaanii me.n \-2
+aag siine me.n khud lagaa_ii hai
+ai Gam\-e\-dil terii \threedots
+
+aa.Nkh me.n buu.nd bhar jo paanii hai \-2
+pyaar kii ik yahii nishaanii hai \-2
+rote biitii hai jo bitaa_ii hai
+ai Gam\-e\-dil terii \threedots
+%
+#endindian
+\endsong
+

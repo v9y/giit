@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{kuchh to mere dil me.n ho rahaa hai}%
+\film{Aunty No.1}%
+\year{1998}%
+\starring{Govinda, Raveena, Mohnish, Raza Murad, Kader, Sadashiv, Bindu}%
+\singer{}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kuchh kuchh kuchh kuchh
+kuchh to mere dil me.n ho rahaa hai
+kahii.n dard saa uThaa kahii.n pyaas hai jagii kahii.n aag lagii hai sajanaa
+kuchh to mere dil \threedots
+
+tho.Daa saa hosh hai tho.Daa khyaal hai kaisaa kaisaa lagataa hai
+puuchho naa dilarubaa meraa kyaa haal hai aisaa vaisaa lagataa hai
+tuune chhu_aa jo jaan\-e\-man aane lagaa mazaa aisaa
+lagaa ki saharaa pe chhaa_ii kahii.n ghaTaa
+kabhii ho rahii yahaa.n kabhii ho rahii vahaa.n
+jaane piir ye kahaa.n hai sajanaa
+kuchh to mere dil \threedots
+
+mai.n bhii javaan huu.N tuu bhii javaan hai mausam bhii matavaalaa hai
+mere nasiib aa mere kariib aa kab se khud ko sa.mbhaalaa hai
+dekhaa tujhe to dilajaanii aashiq banaa teraa
+tere li_e mere dilabar goraa badan meraa
+merii nii.nd kho ga_ii meraa chain kho gayaa
+mujhe pyaar ho gayaa hai sajanaa
+kuchh to mere dil \threedots
+%
+#endindian
+\endsong
+

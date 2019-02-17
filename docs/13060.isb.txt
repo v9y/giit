@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{man kaahe ghabaraa_ii}%
+\film{Man Ki Jeet}%
+\year{1944}%
+\starring{Neena, Geeta Nizami, Shyam, Anwar Husain, Shanta Thakkar}%
+\singer{Sitara Kanpuri}%
+\music{S K Pal}%
+\lyrics{Josh Malihabadi}%
+%
+% Contributor: BOL ANAMOL #11858 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+man kaahe ghabaraa_ii
+
+ajab surat dhal taal \-2
+jaisii bR^ij me.n aas
+banasii kaun bajaa_ii \-2
+meraa man kaahe ghabaraa_ii
+
+ba.ndhe hai.n man ke taar jaise ko_ii laash \-2
+hamako maut naa aa_ii
+aa_ii
+hamako maut naa aa_ii
+meraa man kaahe ghabaraa_ii
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{diivaane hai.n diivaano.n se ... ko_ii roke to kyaa}%
+\film{Daavaa/ The Challenge}%
+\year{1997}%
+\starring{Akshay Kumar, Raveena, Naseeruddin, Akshay Anand, Divya Dutt}%
+\singer{Abhijit}%
+\music{Jatin Lalit}%
+\lyrics{Rani Malik}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaane hai.n diivaano.n se tuu Darataa kyo.n hai yaar
+karanaa hai to aaj hii kar le.n ham milajul ke pyaar
+ko_ii roke to kyaa he he ko_ii Toke to kyaa milaa le dil ke taar
+diivaane hai.n diivaano.n se \threedots
+
+ye dil kii lagii sun kyaa bole
+jaam chik chik bam chik chik
+ab jo tuu baahe.n khole
+jaam chik chik chil chalii aage chham chham
+
+terii baat kaise mai.n maanuu.n
+jaam chik chik bam chik chik
+kab kyaa ho jaa_e kyaa jaanuu.n
+lap chik chak chil chalii jaa_e chham chham
+
+kuchh Dar hai mujhe zamaane kaa
+jaam chik chik bam chik chik
+kuchh tum jaise diivaane kaa
+lap chik chak chil chalii aa_e chham chham
+diivaane hai.n diivaano.n se \threedots
+
+diivaane hai.n diivaano.n se ab Daranaa kaisaa yaar
+jitanaa chaahe pyaar kiye jaa ham bhii hai.n taiyaar
+%
+#endindian
+\endsong
+

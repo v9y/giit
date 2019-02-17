@@ -1,0 +1,70 @@
+%
+\startsong
+\stitle{haal kaisaa hai janaab kaa, kyaa khayaal hai aap kaa}%
+\film{Chalti Ka Naam Gaadi}%
+\year{1958}%
+\starring{Ashok Kumar, Kishore, Madhubala, Anup Kumar}%
+\singer{Kishore, Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Arati Deo (arati@rice.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aashaa :	haal kaisaa hai janaab kaa?
+kishor :        kyaa khayaal hai aap kaa? 
+aashaa :	tum to machal gaye, ho ho ho
+kishor :	yuu.Nhii fisal gaye, haa haa haa %<yodell..>
+
+
+kishor :	bahakii, bahakii, chale hai pavan jo u.De hai teraa aa.Nchal
+aashaa :	chho.Do, chho.Do, dekho dekho gore gore kaale kaale baadal
+kishor :	kabhii kuchh kahatii hai, kabhii kuchh kahatii hai, 
+		     zaraa nazar ko sa.nbhaalanaa
+aashaa :	haal kaisaa hai janaab kaa?
+kishor :        haay! kyaa khayaal hai aap kaa? 
+aashaa :	hoy! tum to machal gaye, ho ho ho
+kishor :	##hmm hmm,## yuu.Nhii fisal gaye, haa haa haa %<yodell..>
+
+
+kishor :	pagalii!
+aashaa :	A!
+kishor :	pagalii, kabhii tuune sochaa raste me.n gaye mil kyo.n?
+aashaa :	pagale!
+kishor :	ha.n?
+aashaa :	pagale!
+kishor :	e?!
+aashaa :	terii baato.n baato.n me.n dha.Dakataa hai dil kyo.n ?
+kishor :	kabhii kuchh kahatii hai, kabhii kuchh kahatii hai
+		     zaraa nazar ko sa.nbhaalanaa
+aashaa :	aa aa, haal kaisaa hai janaab kaa?
+kishor :        haay! kyaa khayaal hai aap kaa?
+aashaa :	tum to machal gaye, ho ho ho
+kishor :	yuu.Nhii fisal gaye, haa haa haa %<yodell..>
+
+aashaa :	kaho jii, kaho jii, roz tere sa.ng yuu.Nhii 
+	     	dil bahalaaye.n kyaa?
+kishor :	AhA! suno jii, suno jii, samajh sako to khud samajho
+		bataae.n kyaa ?
+		     kabhii kuchh kahatii hai, kabhii kuchh kahatii hai
+		     zaraa nazar ko sambhaalanaa
+
+	
+aashaa :	haay! haal kaisaa hai janaab kaa ?
+kishor :        kyaa khayaal hai aap kaa ?
+aashaa :	tum to machal gaye, ho ho ho
+kishor :	yuu.Nhii fisal gaye, haa haa haa 
+	
+%dono.n : 	haal kaisaa hai janaab kaa ?
+%               kyaa khayaal hai aap kaa ?
+%		tum to machal gaye ho ho ho
+%		yuu.Nhii fisal gaye, haa haa haa 
+%
+#endindian
+\endsong
+%

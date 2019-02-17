@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{zindagii seharaa bhii hai aur zindagii gulashan bhii hai}%
+\film{Kahin Aur Chal}%
+\year{1968}%
+\starring{Dev Anand, Asha Parekh, Shubha Khote}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11078 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+zindagii seharaa bhii hai aur zindagii gulashan bhii hai \-2
+( pyaar me.n kho jaa_oge ) \-2 zindagii madhuban bhii hai
+zindagii seharaa bhii \threedots
+
+raat miT jaatii hai hotaa hai savere kaa janam
+dhiire\-dhiire TuuT jaataa hai a.Ndhero.n kaa bhii dam
+( ha.Nsate suuraj kii tarah se ) \-2 zindagii roshan bhii hai
+zindagii seharaa bhii \threedots
+
+paar utaregaa vahii khelegaa jo tuufaano.n se
+mushqile.n Daratii rahii hai.n naujavaa.N i.nsaano.n se
+( mil hii jaa_e.Nge sahaare ) \-2 zindagii daaman bhii hai
+zindagii seharaa bhii \threedots
+%
+#endindian
+\endsong
+

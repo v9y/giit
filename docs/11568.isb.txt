@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{chunarii pyaar kii u.De aasamaan me.n}%
+\film{Ghazab Tamaashaa}%
+\year{1992}%
+\starring{Rahul Roy, Anu Agarwal, Deepak Tijori, Sneha, Satyajeet, Nalini, Kulbhushan}%
+\singer{Kumar Sanu, Kavita Subramaniam}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ka \:	chunarii pyaar kii u.De aasamaan me.n
+	tere jaisaa mere jaisaa
+	ko_ii aashiq nahii.n is jahaan me.n
+
+ku \:	mai.n ga.ngaa ghaaT kaa chhoraa tuu la.Dakii haidaraabaadii
+	kabhii nahii.n ho sakatii raanii terii merii shaadii
+ka \:	tuu mere dil kaa raajaa mai.n huu.N terii shahazaadii
+	qaid me.n kar luu.Ngii ek din terii saarii aazaadii
+ku \:	pha.Nsuu.N na mai.n terii jhuuThii muskaan me.n
+ka \:	tere jaisaa mere jaisaa \threedots
+
+	mausam hai kyaa mastaanaa aise me.n yaar aka.D naa
+	sanam mujhe baaho.n me.n bhar le chho.D de mujhase la.Danaa
+ku \:	dekhegaa ko_ii raste me.n na ko_ii merii rusavaa_ii
+	kabhii Katm na hogii raanii terii merii la.Daa_ii
+	Gul nahii.n tum saa ko_ii gulistaan me.n
+	tere jaisaa mere jaisaa \threedots
+%
+#endindian
+\endsong
+

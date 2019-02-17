@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{dekh ke terii nazar beqaraar ho gaye}%
+\film{Howrah Bridge}%
+\year{1958}%
+\starring{Madhubala, Ashok Kumar}%
+\singer{Asha, Rafi}%
+\music{O P Nayyar}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Vandana Iyengar
+% Transliterator: Vandana Iyengar
+% Credits: Neha Desai
+% Comments:
+%
+\printtitle
+#indian
+%
+aa: dekh ke terii nazar beqaraar ho gaye
+    e jii huzuur Thahariye ham shikaar ho gaye
+
+    aa_o jii #dance# kar le.n, tho.Daa #romance# kar le.n
+    raat hai ThaNDii ThaNDii dilo.n me.n aag bhar le.n
+    pahalaa nazaaraa hu_aa, ek ishaaraa hu_aa
+    kisse hazaar ho gaye
+    dekh ke terii nazar beqaraar ho gaye
+    e jii hazuur Thahariye ham shikaar ho gaye
+
+ra: mukh pe pasiinaa halakaa, goraa ye ruup haay
+    hamane to aaj dekhii, barkhaa me.n dhuup haay
+    dekho ye la.Dake saare bechaare dil ke maare
+    tum pe nisaar ho gaye
+aa: dekh ke terii nazar, beqaraar ho gaye
+ra: o ho ho ho ho ho
+aa: e jii huzuur Thahariye ham shikaar ho gaye
+
+aa: ek savaal #dear# puuchhuu.N janaab se
+    laaye ho aa.Nkhe.n kahii.n dhoke sharaab se
+    aa.Nkhe.n terii mastaanii
+    ham to haaye dilabar jaanii
+    Duub ke paar ho gaye
+    dekh ke terii beqaraar ho gaye
+    e jii hazuur Thahariye ham shikaar ho gaye
+
+%
+#endindian
+\endsong
+%

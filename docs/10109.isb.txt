@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{gore gore gaal mere ... paradaa uThaa de zaraa}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Alka Yagnik, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+laa laa laa la_ii la la_ii la la_ii
+la_ii la_ii lailaa
+la la la la ai
+ho ho ho ho
+
+gore gore gaal mere bahakii bahakii chaal hai
+dekh merii patalii sii kamariyaa har aashiq behaal hai
+paradaa uThaa zaraa paradaa uThaa
+mahafil me.n aa_e sabako mazaa
+paradaa uThaa de zaraa paradaa uThaa
+jalavaa dikhaa de zaraa jalavaa dikhaa
+gore gore gaal \threedots
+
+merii resham vaalii chunar meraa buuTe vaalaa laha.ngaa
+ko_ii mol chukaa nahii.n sakataa meraa husn ba.Daa hai maha.ngaa
+sar se chunar sarakaa de laha.ngaa ik baat ghumaa de
+jo maa.ngegii ham de.nge aa.Nkho.n se jaam pilaa de
+kaano.n kii ye baalii duu.ngii ho.nTho.n kii ye laalii duu.ngii
+gaalo.n kii javaanii duu.ngii ko_ii to nishaanii duu.ngii
+paradaa uThaa zaraa \threedots
+
+bahake hu_e aramaano.n ko mahabuub sa.mbhal jaane de
+jalavaa tujhe dikhalaa_uu.ngii kuchh raat to Dhal jaane de
+ta.Dapaa naa hamako aise baaho.n me.n zaraa bharane de
+de.nge tujh ko nazaraanaa jo dil chaahe karane de
+tho.Daa ta.Dapaa_uu.ngii mai.n tho.Daa tarasaa_uu.ngii mai.n
+sej bichhaa_uu.ngii mai.n pyaas bujhaa_uu.ngii mai.n
+paradaa uThaa zaraa \threedots
+%
+#endindian
+\endsong
+

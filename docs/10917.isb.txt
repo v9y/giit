@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{dekho jii ek baalaa jogii matavaalaa jogii}%
+\film{China Town}%
+\year{1962}%
+\starring{Shammi Kapoor, Shakeela, Helen, Madan Puri}%
+\singer{Rafi, Meenu Purushottam}%
+\music{Ravi}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10682 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dekho jii ek baalaa jogii matavaalaa jogii
+dvaar tere aayo rii
+dekho jii ek baalaa jogii \threedots
+
+aayaa huu.N dvaar tere milane kii aas li_e
+tere daras kii mai.n a.Nkhiyo.n me.n pyaas li_e
+naino.n ke paT khol diivaanii kuchh to bol diivaanii
+mukha.Daa kaahe chhupaayo re
+dekho jii ek baalaa jogii \threedots
+
+na kisii des kaa hai na kisii gaa.Nv kaa hai
+milane kaa sahaaraa le ke ikataaraa le ke
+man kaa raag sunaayo rii
+dekho jii ek baalaa jogii \threedots
+
+kaahe ye ruup dhaaraa ko_ii na bhed jaane
+tuu merii mai.n teraa yah duniyaa maane na maane
+maine to teraa ho ke diivaanaa dekhaa saaraa zamaanaa
+chain kahii.n naa paayorii
+dekho jii ek baalaa jogii \threedots
+%
+#endindian
+\endsong
+

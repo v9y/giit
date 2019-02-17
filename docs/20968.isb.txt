@@ -1,0 +1,49 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{phuulo.n kii zubaa.N Kubasuurat ho ga_ii}%
+\film{Aawaz (unreleased)}%
+\year{}%
+\starring{}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Audio on: Unreleased
+% Tags: Unreleased
+% Contributor: Abhijit Deonath
+% Transliterator: Abhijit Deonath
+% Date: 2 Feb 2006
+% Series: GEETanjali, THGHT
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+aa: phuulo.n kii zubaa.N Kubasuurat ho ga_ii
+    dekho daastaa.N Kubasuurat ho ga_ii
+    o tumhaarii baa.Nho.n kii jholiyo.n se bahaare.n barasii.n to ye fizaa
+    haa.N Kubasuurat ho ga_ii
+    phuulo.n kii zubaa.N \threedots
+
+ki: ( aakaash koraa hai aur chaa.Nd ka.Nwaaraa hai
+    taaro.n ke hoTho.n pe naam tumhaaraa hai ) \-2
+aa: tumhaare naam se jo.Daa hai naam to badanaam ye daastaa.N
+    haa.N Kubasuurat ho ga_ii
+    phuulo.n kii zubaa.N Kubasuurat ho ga_ii
+ki: dekho daastaa.N Kubasuurat ho ga_ii
+
+aa: ( byaahii bahaaro.n me.n koii ruuThe manaanaa hai
+    miiThe se bolo.n se tumako bulaanaa hai ) \-2
+ki: tumhaare lab se sunii hai jabase
+    tumhaarii ruuThii huii ye naa 
+    Kubasuurat ho ga_ii
+    phuulo.n kii zubaa.N Kubasuurat ho ga_ii
+aa: dekho daastaa.N Kubasuurat ho ga_ii
+ki: tumhaarii baa.Nho.n kii jholiyo.n se bahaare.n barasii.n to ye fizaa
+    haa.n Kubasuurat ho ga_ii
+aa: phuulo.n kii zubaa.n \threedots
+%
+#endindian
+\endsong

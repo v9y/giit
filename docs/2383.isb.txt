@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{kitanii javaa.N hai raat koii yaad aa gayaa}%
+\film{Azad}%
+\year{1955}%
+\starring{Dilip Kumari, Meena Kumari}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+kitanii javaa.N hai raat koii yaad aa gayaa
+ba.Dhane lagii hai baat koii yaad aa gayaa
+
+phir aa gayii chaman me.n guzarii hu_ii bahaar
+rahane lagaa kisii kaa phir dil ko i.ntazaar
+ab hogii mulaaqaat koii yaad aa gayaa
+ba.Dhane lagii hai baat   \threedots
+
+phir yaad aa rahe.n hai.n guzare hue zamaane
+dil gunagunaa rahaa hai bhuule hue taraane
+tanhaa_ii aur ye raat koii yaad aa gayaa
+ba.Dhane lagii hai baat   \threedots
+
+aa.Nkho.n se nii.nd jaane u.D kar kahaa.N ga_ii hai
+vo bhii vahii.n pe ho.nge nindiyaa jahaa.N ga_ii hai
+shaayad yahii hai baat koii yaad aa gayaa
+ba.Dhane lagii hai baat   \threedots
+
+%
+#endindian
+\endsong
+%

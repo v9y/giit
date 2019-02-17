@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham to the anajaane ham dono.n ye na jaane ... yaar dilabar yaar}%
+\film{Jungle Love}%
+\year{1990}%
+\starring{Rockey, Kirti Singh, Goga Kapoor, Mahesh Anand, Shiva, Gajendra Chauhan}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham to the anajaane ham dono.n ye na jaane
+yaar dilabar yaar kab ham pyaar kar baiThe
+ham to the anajaane \threedots
+
+pyaar kii ko_ii jaat nahii.n naa jaane isakii bolii
+nazar to pahalii nazar se bolii binaa kuchh bole hamajolii
+naa kuchh soche naa kuchh samajhe yaar
+yaar dilabar yaar aa.Nkhe.n chaar kar baiThe
+ham to the anajaane \threedots
+
+aap kuchh bolo haa.N haa.N
+haa.N hamajolii haa.n lagataa tho.Daa samajh rahe ho 
+
+khvaab me.n bhii naa sochaa thaa ke ham aise mil jaa_e.nge
+do Daalii ke phuul ek Daalii me.n khil jaa_e.nge
+naa kuchh soche naa kuchh samajhe 
+ham to the anajaane \threedots
+%
+#endindian
+\endsong
+

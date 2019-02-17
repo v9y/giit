@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{piyaa binaa piyaa binaa, baasiyaa}%
+\film{Abhimaan}%
+\year{1973}%
+\starring{Amitabh, Jaya Bhaduri}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Rajan P. Parrikar (parrikar@csn.org)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+piyaa binaa \threedots piyaa binaa piyaa binaa, basiyaa
+baaje naa baaje naa baaje naa,  piyaa binaa \threedots
+
+piyaa aise ruuThe, ke ho.nTho.n se mere, sa.ngiit ruuThaa   (2)
+kabhii jab mai.n gaauu.N, lage mere man kaa, har giit jhuuThaa
+aise bichha.De, ho \threedots aise bichha.De mose rasiyaa
+piyaa binaa \threedots piyaa binaa piyaa binaa, basiyaa
+baaje naa baaje naa baaje naa,  piyaa binaa \threedots
+
+tumhaarii sadaa bin, nahii.n ek suunii, morii nagariyaa    (2)
+ke chup hai papiihaa, mayur bol bhuule, ban me saa.Nvariyaa
+din hai suunaa, aa \threedots din hai suunaa suunii ratiyaa
+piyaa binaa \threedots piyaa binaa piyaa binaa, basiyaa
+baaje naa baaje naa baaje naa,  piyaa binaa \threedots
+%
+#endindian
+\endsong
+%

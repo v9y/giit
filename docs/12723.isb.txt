@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{aaj hai pyaar kaa faisalaa ai sanam}%
+\film{Leader}%
+\year{1964}%
+\starring{Dilip Kumar, Vyjayanthi Mala}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10637 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aaj hai pyaar kaa faisalaa ai sanam
+aaj meraa muqaddar badal jaa_egaa
+tuu agar sa.ngadil hai to paravaah nahii.n
+mere naGamo.n se patthar pighal jaa_egaa
+
+dekh mai.n huu.N ba.Dii choT khaa_e hu_e
+tere qadamo.n me.n huu.N sar jhukaa_e hu_e
+aa gale se lagaa le mujhe varanaa phir
+baat rah jaa_egii vaqt Tal jaa_egaa
+aaj hai pyaar kaa \threedots
+
+dil ko mere teraa dil nahii.n chaahi_e
+aur sivaa isake kuchh nahii.n chaahi_e
+tuune kar dii agar ik nigaah\-e\-qaram
+meraa TuuTaa hu_aa dil sa.mbhal jaa_egaa
+aaj hai pyaar kaa \threedots
+%
+#endindian
+\endsong
+

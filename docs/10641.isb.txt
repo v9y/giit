@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{ek baat puuchhataa huu.N gar tum buraa na maano}%
+\film{Banarsi Thug}%
+\year{1962}%
+\starring{Manoj Kumar, Vijaya Chaudhary, I S Jauhar, Radha Krishan}%
+\singer{Mukesh, Usha}%
+\music{Iqbal Qureshi}%
+\lyrics{Akhtar Warasi Lakhnawi}%
+%
+% Contributor: BOL ANAMOL #10241 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	ek baat puuchhataa huu.N
+uu \:	huu.N
+mu \:	gar tum buraa na maano
+uu \:	naa
+mu \:	ek baat puuchhataa huu.N
+uu \:	huu.N
+mu \:	dekhaa kahii.n hai tumane dil meraa kho gayaa hai
+	meraa hii ho ke mujhase naaraaz ho gayaa hai \-2
+	bolo to Dhuu.NDh luu.N mai.n
+uu \:	huu.N
+mu \:	gar tum buraa na maano
+uu \:	naa
+
+	ek baat puuchhatii huu.N
+mu \:	huu.N
+uu \:	kaisaa hai dil tumhaaraa phirataa hai maaraa\-maaraa
+	bedil tumhe.n banaakar khud ho gayaa aavaaraa \-2
+	samajhaa ke bhej duu.N mai.n
+mu \:	huu.N
+uu \:	gar tum buraa na maano
+mu \:	naa
+mu \:	ek baat puuchhataa huu.N
+uu \:	huu.N
+
+uu \:	naaraaz hai ye tumase rahane do paas mere
+	jaataa nahii.n bechaaraa ghar se nikaaluu.N kaise \-2
+	dil kaise to.D duu.N mai.n
+mu \:	huu.N
+uu \:	gar tum buraa na maano
+mu \:	naa
+mu \:	ek baat puuchhataa huu.N
+uu \:	huu.N
+%
+#endindian
+\endsong
+

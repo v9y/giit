@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{kitanaa pyaaraa hai ye cheharaa jis pe}%
+\film{Raaz}%
+\year{2002}%
+\starring{Dino Maria, Bipasha basu, Sonali Kulkarni}%
+\singer{Udit narayan, Alka yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+kitanaa pyaaraa hai ye cheharaa jis pe ham marate hai.n
+ye na jaane ise kitanaa pyaar karate hai.n
+kitanaa pyaaraa hai \threedots
+
+dard\-o\-gam mil ke sahe.nge ye iraadaa kar le.n
+ham naa TuuTe.nge kabhii aa_o ye vaadaa kar le.n
+ham bikhar jaane ke khayaalo.n se bhii Darate hai.n
+kitanaa pyaaraa hai \threedots
+
+ye safar pyaar kaa hotaa hai ba.Daa hii mushkil
+gir ke jo sambhale usii ko mile is me.n ma.nzil
+raah kaisii bhii ho ham shauq se guzarate hai.n
+kitanaa pyaaraa hai \threedots
+%
+#endindian
+\endsong

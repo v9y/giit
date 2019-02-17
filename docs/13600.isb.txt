@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{o nii sultaanaa re pyaar kaa mausam aayaa}%
+\film{Pyar Ka Mausam}%
+\year{1969}%
+\starring{Asha Parekh, Shashi Kapoor}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10791 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	o nii sultaanaa re pyaar kaa mausam aayaa
+	are haay re harii\-harii chhaayaa
+	bolo na bolo mukh se gorii chuu.Dii tumharii bole
+	yahii batiyaa.N sun\-sun ke jiyaa moraa Dole
+	o nii sultaanaa re \threedots
+
+la \:	balam babu_aa bedardii saavan aayaa aajaa
+	mil jaa_e more sai.nyaa jab terii bai.nyaa phir ghanii chhai.nyaa
+	mai.n machal ke gaa_uu.N
+	sun jaa karuu.N bainaa jab mile chainaa tab ha.Nse nainaa
+	jab tujhe mai.n paa_uu.N
+	piyaa moraa jiyaa tujhii se laagaa
+	ji_e ko_Ii kaise aa yahii bataa jaa
+	balam babu_aa bedardii \threedots
+
+ra \:	o nii sultaanaa re \threedots
+%
+#endindian
+\endsong
+

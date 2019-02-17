@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaao re, jogii tum jaao re}%
+\film{Aamrapali}%
+\year{1966}%
+\starring{Sunil Dutt, Vyjayantimala, Prem Nath}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaao re, jogii tum jaao re
+ye hai premiyo.n kii nagarii
+yahaa.N prem hii hai puujaa
+jaao re \threedots
+
+prem kii pii.Daa sachchaa sukh hai
+prem binaa ye jiivan dukh hai \- 2
+jaao re \threedots
+
+jiivan se kaisaa chhuTakaaraa
+hai nadiyaa ke saath kinaaraa \- 2
+jaao re \threedots
+
+GYaan ki to hai siimaa GYaanii
+gaagar me.n saagar kaa paanii \- 2
+jaao re \threedots
+%
+#endindian
+\endsong
+%

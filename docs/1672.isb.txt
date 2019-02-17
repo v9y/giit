@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{teraa cheharaa mujhe gulaab lage}%
+\film{Aapas Ki Baat}%
+\year{}%
+\starring{}%
+\singer{Kishore}%
+\music{Annu Malik}%
+\lyrics{Anjaan}%
+%
+% Contributor:  
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Rajan Parrikar (parrikar@spot.colorado.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+terA cheharaa mujhe gulaab lage 
+dono aalam me.n laajavaab lage 
+din ko dekhU.n to aafatAb lage 
+shab ko dekhU.n to maahataab lage 
+
+roz milate ho par nahii.n milate 
+aisaa milanA bhI mujhako khvAb lage 
+pa.DhatA rahatA hU.N terI sUrat ko 
+terI sUrat mujhe kitaab lage 
+terA cheharaa mujhe\threedots 
+
+terI A.Nkho.n kI mastiyA.n taubaa 
+mujhako chhalakI huI sharaab lage 
+jab bhI chamake ghaTA me.n bijalI 
+mujhako teraa hI vo shabaab lage 
+terA cheharaa mujhe\threedots 
+
+tujhako dekhU.n to kis tarah dekhU.n 
+rukh pe kiraNo.n ke sau naqaab lage 
+pyaar shaayad isI ko kahate hai.n 
+ek mujhase hI kyU.N hijaab lage 
+terA cheharaa mujhe\threedots 
+%
+#endindian
+\endsong
+%

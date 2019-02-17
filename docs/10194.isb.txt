@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mat ro ai dil chup ho jaa hu_aa so hu_aa ... ai mere saathi vahii to hu_aa}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mat ro ai dil chup ho jaa hu_aa so hu_aa
+vo jo pyaar me.n hotaa hai aitabaar me.n hotaa hai
+tere saath bhii ai mere saathii vahii to hu_aa
+mat ro ai dil \threedots
+
+sukh me.n kaTe yaa dukh me.n basar ho jiinaa to har haal me.n hogaa
+amR^it ho aa.Nsuu ke zahar ho piinaa to har haal me.n hogaa
+khvaab ek TuuTaa to kyaa hu_aa ai dil
+saath ek chhuuTaa to chhuuTe kyaa ai dil
+vo jo pyaar me.n \threedots
+
+po.nchh ke aa.Nsuu jhaa.D jhaa.D ke daaman chal to sahii ma.nzil hazaaro.n
+chaahat ke kaabil hai.n hazaaro.n 
+aur bhii ghar hai.n jahaa.n me.n aur bhii hai.n galiyaa.n
+aur bhii gul hai.n jahaa.n me.n aur bhii hai.n kaliyaa.n
+vo jo pyaar me.n \threedots
+%
+#endindian
+\endsong
+

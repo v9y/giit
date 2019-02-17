@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{dil me.n ab dard-e-muhabbat ke sivaa kuchh bhii nahii.n}% 
+\film{Best of Sajda}%
+\starring{}%
+\singer{Lata}%
+\music{}%
+\lyrics{Sahir Bhopali}%
+%
+% Contributor: Rajesh Sharma (rsharma@cs.indiana.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+dil me.n ab dard\-e\-muhabbat ke sivaa kuchh bhI nahii.n 
+zindagii merI ibaadat ke sivaa kuchh bhI nahii.n 
+
+mai.n terI barah\-gah\-e\-naaz me.n kyA pesh karuu.n 
+merI jholii me.n muhabbat ke sivaa kuchh bhI nahii.n 
+
+ai khudaa mujhase nA le mere gunAho.n kA hisaab 
+mere paas ashq\-e\-nadamat ke sivaa kuchh bhI nahii.n 
+
+vo to miT kar mujh ko mil hii gayii raahat varanaa 
+zindagii ranz\-o\-musiibat ke sivaa kuchh bhI nahii.n 
+%
+#endindian
+\endsong
+%

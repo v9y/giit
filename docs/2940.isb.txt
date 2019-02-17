@@ -1,0 +1,59 @@
+% 
+\startsong
+\stitle{raat hai aramaa.n bharii}%
+\film{Sangam}%
+\year{1954}%
+\starring{Kamini Kaushal, Shehkar}%
+\singer{Geeta, Talat}%
+\music{Ram Ganguly}%
+\lyrics{Hasrat}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Credits:
+%
+\printtitle
+#indian
+%
+
+o~ o~ o~
+ko:  (raat hai aramaa.n bharii)\-2
+     raat hai
+
+gii: (raat hai aramaa.n bharii)\-2
+     aur kyaa suhaanii raat hai
+     aaj bichha.De dil mile hai.n
+     teraa meraa saath hai
+     raat hai \threedots
+
+     o~ o~ o~
+ko:  raat hai aramaa.n bharii
+
+gii: merii aa.Nkho.n me.n ishaare
+     (terii aa.Nkho.n me.n hai pyaar)\-2
+ta:  chhaa ga_ii hai aaj aramaano.n pe matavaalii bahaar
+     (pyaar ke haatho.n me.n dilbar)\-2
+     aaj meraa haath hai
+     raat hai \threedots
+
+     o~ o~ o~
+ko:  raat hai aramaa.n bharii
+
+gii: le rahe hai.n aaj dil ke taar bhii a.nga.Daa_iaa.n
+     taar bhii a.Nga.Daa_iaa.n
+ta:  phir milii hai pyaar ke sa.ngam se do parachhaa_iaa.n
+gii: (chhaa gayaa baadal khushii kaa)\-2
+     pyaar kii barasaat hai
+do:  raat hai aramaa.n bharii
+     aur kyaa suhaanii raat hai
+     aaj bichha.De dil mile hai.n
+     teraa meraa saath hai
+     raat hai \threedots
+
+     o~ o~ o~
+ko:  raat hai aramaa.n bharii
+
+% 
+#endindian 
+\endsong 
+% 

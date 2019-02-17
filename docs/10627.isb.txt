@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{log kahate hai.n ki tujhase kinaaraa kar le.n}%
+\film{Bahu Begum}%
+\year{1967}%
+\starring{Pradeep Kumar, Meena Kumari, Ashok Kumar}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10481 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+log kahate hai.n ki tujhase kinaaraa kar le.n
+tum jo kah do to sitam ye bhii gavaaraa kar le.n
+log kahate hai.n \threedots
+
+tumane jis haal\-e\-pareshaa.N se nikaalaa thaa hame.n
+aasaraa de ke mohabbat kaa sa.mbhaalaa thaa hame.n
+sochate hai.n ki vahii haal dobaaraa kar le.n
+tum jo kah do to \threedots
+
+yuu.N bhii ab tumase mulaaqaat nahii.n hone kii
+mil bhii jaa_o to ko_ii baat nahii.n hone kii
+aaKarii baar bas ab zikr tumhaaraa kar le.n
+tum jo kah do to \threedots
+
+aaKarii baar Kyaalo.n me.n bulaa le.n tumako
+aaKarii baar kaleje se lagaa le.n tumako
+aur phir apane ta.Dapane kaa nazaaraa kar le.n
+tum jo kah do to \threedots
+%
+#endindian
+\endsong
+

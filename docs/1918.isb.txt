@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{ye kaun chitrakaar hai ye kaun chitrakaar}%
+\film{Boond Jo Ban Gayi Moti}%
+\year{1967}%
+\starring{Jeetendra, Mumtaz}%
+\singer{Mukesh}%
+\music{Satish Bhatia}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: Chetan K. Vinchhi (vinchhi@eng.umd.edu)
+%          Ranjit Konkar (konkar@bimini.stanford.edu)
+%          Raj Ganesan (cpd.tandem.com!raj)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye kaun chitrakaar hai ye kaun chitrakaar
+
+harii bharii vasu.ndharaa par niilaa niilaa ye gagan
+ke jisape baadalo.n kii paalakii u.Daa rahaa pavan
+dishaae.n dekho ra.ng bharii
+dishaae.n dekho ra.ng bharii chamak rahii.n uma.ng bharii
+ye kisane phuul phuul se kiyaa shrR^i.ngaar hai
+ye kaun chitrakaar hai ye kaun chitrakaar
+
+kudarat kii is pavitrataa ko tum nihaar lo
+inake guNo.n ko apane man me.n tum utaar lo
+chamakaa do aaj laalimaa
+chamakaa do aaj laalimaa apane lalaaT kii
+kaN kaN se jhanakatii tumhii.n chhabii viraaT kii
+apanii to aa.Nkh ek hai,  isakii hazaar hai
+ye kaun chitrakaar hai ye kaun chitrakaar
+
+tapasviyo.n sii hai.n aTal ye pava.rto.n ki choTiyaa.N
+ye barf ki ghumaradaar gheradaar ghaaTiyaa.N
+dhvajaa se ye kha.De hue
+dhvajaa se ye kha.De hue hai.n vR^iksha devadaar ke
+galiiche ye gulaab ke bagiiche ye bahaar ke
+ye kis kavi kI kalpanaa
+ye kis kavi kI kalpanaa kaa chamatkaar hai
+ye kaun chitrakaar hai ye kaun chitrakaar
+%
+#endindian
+\endsong
+%

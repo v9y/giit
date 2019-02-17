@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ik baat hu_ii kal raat hu_ii ... mere saath hu_ii tere saath hu_ii}%
+\film{Prem}%
+\year{1995}%
+\starring{Sanjay Kapoor, Tabbu, Aruna Irani, Deepak Tijori, Dalip Tahil}%
+\singer{Alka Yagnik, Nalin Dev}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik baat hu_ii kal raat hu_ii
+mere saath hu_ii tere saath hu_ii
+ik baat hu_ii \threedots
+
+o saavan kii pahalii barasaat hu_ii
+ik baat hu_ii \threedots
+
+pahale to kabhii aisaa nahii.n lagaa
+kuchh tere mere jaisaa lagaa
+tuu sach kahanaa tujhe kaisaa lagaa
+mai.n sach boluu.n mujhe aisaa lagaa mujhe aisaa lagaa
+o jaise kisii kii baaraat hu_ii
+ik baat hu_ii \threedots
+
+jhumako.n ne kahaa ye gajare se
+gajare ne kahaa ye kajare se
+kajare ne kahaa ye paayal se
+paayal ne kahaa is duniyaa se is duniyaa se
+prem kathaa kii shuru_aat hu_ii
+ik baat hu_ii \threedots
+%
+#endindian
+\endsong
+
+

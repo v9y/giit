@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{ye kasam ba.Dii hai har kasam se ... ye tuune kyaa kahaa}%
+\film{Awara Paagal Deewana}%
+\year{2002}%
+\starring{Akshay Kumar, Sunil Shetty, Aftaab Shivdasani, Preeti Jhangiyani, Amrita Arora, Aarti Chhabaria}%
+\singer{Sonu Nigam, Anuradha Paudwal}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+ye kasam ba.Dii hai har kasam se
+bachaa luu.Ngaa mai.n tujh ko dard\-o\-gam se
+ye tuune kyaa kahaa ye maine kyaa sunaa
+hamaarii dha.Dakano.n se aa rahii yahii sadaa sanam
+tujhe mai.n apanii zi.ndagii banaa luu.N
+in aa.Nkho.n ke jharokho.n me.n chhupaa luu.N
+
+ye kasam ba.Dii hai har kasam se
+bachaa luu.Ngii mai.n tujh ko dard\-o\-gam se
+ye tuune kyaa kahaa ye maine kyaa sunaa
+hamaarii dha.Dakano.n se aa rahii yahii sadaa sanam
+tujhe mai.n apanii zi.ndagii banaa luu.N
+in aa.Nkho.n ke jharokho.n me.n chhupaa luu.N
+
+tumhaaraa mujh ko aitabaar kyuu.N hai
+naa jaane tum se itanaa pyaar kyuu.N hai
+mai.n duu.Ngaa pyaar kaa imtehaa.n bhii
+luTaa_uu.Ngaa mai.n tujh pe apanii jaa.n bhii
+ye tuune kyaa kahaa \threedots
+
+ye dil kaa shiishaa to.D to na doge
+ye haath meraa chho.D to na doge
+nibhaa_uu.Ngaa kiyaa jo tum se vaadaa
+kabhii nahii.n badalataa mai.n iraadaa
+ye tuune kyaa kahaa \threedots
+%
+#endindian
+\endsong
+

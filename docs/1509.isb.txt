@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{raat akelii hai, bujh gae diye, aake mere paas, kaano.n me.n mere}% 
+\film{Jewel Thief}%
+\year{}%
+\starring{Dev Anand, Vyjayanthimala, Ashok Kumar, Tanuja}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  C.S.Sudarshana Bhat
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+raat akelI hai, bujh gae diye
+aake mere paas, kaano.n me.n mere
+jo bhI chaahe kahiye, jo bhI chaahe kahiye, raat \threedots
+
+1) tum aaj mere liye ruk jaao, rut bhI hai furasat bhI hai 
+tumhe.n nA ho nA sahii, mujhe tumase muhabbat hai
+muhabbat kii ijaazat hai, to chup kyuu.N rahiye
+jo bhI chaahe kahiye, raat \threedots
+
+2) savaal banii huii dabii dabii ulajhan siino.n me.n
+javaab denaa thaa, to Duube ho pasiino.n me.n
+Thaanii hai do hasiino.n me.n, to chup kyuu.N rahiye
+jo bhI chaahe kahiye, raat \threedots
+%
+#endindian
+\endsong
+%

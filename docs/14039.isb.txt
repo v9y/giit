@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{dil ne sochaa thaa tum bilkul vaisii ho}%
+\film{Sapne Saajan Ke}%
+\year{1992}%
+\starring{Jackie, Karisma, Rahul Roy, Gulshan, Aruna, Reema, Aloknath, Dimple}%
+\singer{Alka Yagnik, Shailendra Singh}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil ne sochaa thaa tum bilkul vaisii ho
+dil ne jo sochaa thaa tum bilkul vaisii ho
+mujhase karogii kyaa dostii
+dil ne sochaa thaa \threedots
+
+dil meraa mujhase jo chaahe jaan\-e\-jaa.n mujhako hu_aa hai
+rah na sakuu.N tere bin ye ahasaas hone lagaa hai
+diivaanaa hai dil bas tuu hai ma.nzil
+de mujhe ek nazar pyaar kii
+dil ne sochaa thaa \threedots
+
+pahalii nazar se hii tum pe aayaa kasam se meraa dil
+bole ka_ii jhuuTh maine bas tumako paane kii khaatir
+ab bas terii baaho.n me.n jiinaa hai maranaa hai
+tumase hai sanam merii khushii 
+dil ne sochaa thaa \threedots
+
+mai.n to gariib aadamii huu.N mahalo.n me.n rahataa nahii.n
+vo khel yaa dillagii thii ab mai.n jhuuTh kahataa nahii.n huu.N
+naa meraa ba.ngalaa hai naa gaa.Dii hai
+magar kamii nahii.n pyaar kii
+dil ne sochaa thaa \threedots
+%
+#endindian
+\endsong
+

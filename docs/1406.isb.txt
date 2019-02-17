@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{pahalaa nashaa, pahalaa khumaar nayaa pyaar hai.n nayaa i.ntazaar}%
+\film{Jo Jeeta Wohi Sikander}%
+\year{1993}%
+\starring{Aamir Khan, Ayesha Jhulkha, Pooja Bedi}%
+\singer{Udit Narayan, Sadhna Sargam}%
+\music{Jatin-Lalit}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+%
+\printtitle
+#indian
+%
+pahalaa nashaa, pahalaa khumaar 
+nayaa pyaar hai.n nayaa i.ntazaar 
+karaluu.N mai.n kyA apanA haal
+ai dil\-e\-beqaraar mere dil\-e\-beqaraar
+tU hii bataa 
+
+(u.Dataa hii phiruu.N in havaao.n me.n kahii.n
+yA mai.n jhuul jaauu.N, in ghaTaao.n me.n kahii.n ) \- 2
+ek karaluu.N aasamaan aur zamiin 
+ab yaaro kyA karuu.N kyA nahii.n 
+pahalaa nashaa, pahalaa khumaar \threedots
+
+(usane baat kii, kuchh aise Dha.ng se 
+sapane de gayaa vo hazaaro.n ra.ng ke ) \- 2
+rah jaauu.N jaise me.n haar ke 
+aur chuume vo mujhe pyaar se 
+
+pahalaa nashaa, pahalaa khumaar 
+nayaa pyaar hai.n nayaa i.ntazaar 
+karaluu.N mai.n kyA apanA haal, 
+ai dil\-e\-beqaraar mere dil\-e\-beqaraar, 
+tU hii bataa 
+%
+#endindian
+\endsong
+%

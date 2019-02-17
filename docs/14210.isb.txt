@@ -1,0 +1,47 @@
+
+%
+\startsong
+\stitle{pahalii\-pahalii baar dekhaa aisaa jalavaa}%
+\film{Silsilaa}%
+\year{1981}%
+\starring{Amitabh, Rekha, Jaya Bhaduri, Shashi Kapoor, Sanjeev Kumar}%
+\singer{Kishor, Lata}%
+\music{Shiv Hari}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #10366 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	pahalii\-pahalii baar dekhaa aisaa jalavaa ho aisaa jalavaa
+	ye la.Dakii hai yaa sholaa \-2
+la \:	sholaa hai sholaa shole se Daranaa
+	maranaa to Tha.nDe paanii me.n maranaa
+	raham javaanii pe khaa o mu.nDayaa raham javaanii pe khaa
+
+ki \:	luuTe naa javaanii me.n jo sholo.n kaa mazaa \-2
+	to bolo vo aadamii hai kyaa \-2
+la \:		aa_ii hai na_ii\-na_ii zulmii javaanii
+	karataa hai ba.Dh ke baate.n diivaanii
+	khair tuu dil kii manaa o babu_aa khair tuu dil kii manaa
+
+ki \:	dil jaisii chiiz kii manaa_uu.N khair kyaa \-2
+	mai.n to dono.n jahaan se gayaa \-2
+la \:	jaa re shikaarii teraa jaal puraanaa
+	aur kahii.n pe jaa ke Daal ye daanaa
+	chi.Diyaa pha.Nse naa lambu_aa o lambu_aa ku.Dii pha.Nse naa lambu_aa
+
+ki \:	duur kaise hogaa teraa\-meraa faasalaa \-2
+	rab jaane yaa dil meraa
+la \:	abhii to dekhaa hai jalavaa duur kaa
+	haal buraa hai mere huzuur kaa
+	haath paka.D ke dikhaa o soNiyaa haath paka.D ke dikhaa
+ki \:	paka.Dii kalaa_ii to naa chho.Duu.Ngaa kabhii \-2
+	o soNi_e yaad rakhanaa \-2
+%
+#endindian
+\endsong
+

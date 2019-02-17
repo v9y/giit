@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{saadho aisaa hii gur bhaave}%
+\film{Sursangam}%
+\year{1985}%
+\starring{Girish Karnad, Jayaprada}%
+\singer{Anuradha Paudwal, Rajan-Sajan Mishra}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Vasant Dev}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+saadho aisaa hii gur bhaave
+raag ra.ng kaa bhar bhar pyaalaa
+piive aur pilaave, saadho
+
+naad chhipaa tan me.n lay man me.n
+koii ... koii pataa ... koii
+koii pataa naa paave
+chaa.Nd suuraj saa lochan guruu kaa
+dekhe aur dikhaave, saadho \threedots
+
+paramaha.Ns guruva.ns ruup jab
+hR^iday biich biraaje
+saat suro.n kii baanii merii om~
+saat suro.n kii baanii merii
+o.nkaar dhun gaave, saadho \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{mai.n teraa huu.n mai.n terii huu.n}%
+\film{Hamaaraa Dil Aapke Paas Hai}%
+\year{2000}%
+\starring{Anil Kapoor, Aishwarya Rai, Sonali Bendre, Puru Rajkumar}%
+\singer{Abhijit, Alka Yagnik, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n teraa huu.n mai.n terii huu.n ai ye ai oho
+miyaa_uu jhuum jhuum jhuum ai o
+tujhii se har khushii hai iyaa_o
+tujhii se zi.ndagii hai ye ye ye
+hai merii dha.Dakano.n kaa ye taraanaa
+yahii giit hai mere pyaar kaa
+
+mai.n teraa huu.n teraa huu.n
+tuu merii hai merii hai
+iye iyo oho
+mai.n terii huu.n terii huu.n
+tuu meraa hai meraa hai
+iye iyo oho
+
+in hasiin raaho.n
+me.n simaT ke merii baaho.n
+me.n ab aa_o na tum
+bulaa_o na tum
+pyaar kii panaaho.n
+me.n nashaa saa hai nigaaho.n me.n
+chhupaa_o na tum
+sataa_o na tum
+hai lamhaa ye dil ke qaraar kaa
+yahii giit hai mere pyaar kaa
+mai.n terii huu.n mai.n teraa huu.n 
+
+dil kaa hai ye kahanaa
+dekh duuriyaa.n na sahanaa
+tuu milaa le nazar
+to dekh idhar
+mauj mauj bahanaa
+mastiyo.n me.n rahanaa
+siikh tuu hai jiinaa agar
+to ho jaa niDar
+ye pal hai abhii intazaar kaa
+yahii giit hai mere pyaar kaa
+mai.n teraa huu.n mai.n terii huu.n 
+tujhii se zi.ndagii \threedots
+%
+#endindian
+\endsong
+

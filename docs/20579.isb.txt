@@ -1,0 +1,44 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{pyaar kii raah par kyaa}%
+\film{Bari Bahoo}%
+\year{1951}%
+\starring{Shekhar, Nimmi, Sulochana, Shivraj}%
+\singer{Lata, Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Rangeen}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 16 Nov 2004
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+dono.n: pyaar kii raah par kyaa bhaTakane kaa Dar 
+jab musaafir chale saath ma.nzil chale \-2
+saath chalate rahe ham  yuu.N hii umr bhar \-2
+jaise dariyaa chale saath saahil chale \-2
+pyaar kii raah par kyaa bhaTakane kaa Dar
+
+ham chale ham chale ham chale
+
+mu: ham chale to bahaare.n chale saath saath
+la: phuul baa.Ndhe kataare chale saath saath \-2
+mu: kuchh uma.nge.n idhar kuchh tara.nge.n udhar \-2
+la: ham jidhar bhii chale saath mehafil chale \-2
+dono.n: pyaar kii raah par kyaa bhaTakane kaa Dar
+
+la: tum mere saath ho har Kushii saath hai \-2
+mu: tum mere saath ho \-2 zi.ndagii saath hai 
+la: dil nazar me.n rahe aur dil me.n nazar \-2
+mu: jab bhii bismil chale saath qaatil chale \-2
+dono.n: pyaar kii raah par kyaa bhaTakane kaa Dar
+%
+#endindian
+\endsong

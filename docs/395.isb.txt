@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{chho.D gae baalam, mujhe haay akelaa chho.D gae}%
+\film{Barsaat}%
+\year{}%
+\starring{Raj Kapoor, Nargis}%
+\singer{Lata, Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mu: chho.D gae baalam, mujhe haay akelaa chho.D gae
+to.D gae baalam, meraa pyaar bharaa dil to.D gae
+l: chhuuT gayaa baalam, haay saath hamaaraa chhuuT gayaa
+TuuT gayaa baalam, meraa pyaar bharaa dil TuuT gayaa
+mu: chho.D gae baalam \threedots
+
+l: phuul sa.ng muskaae kaliyaa.N, mai.n kaise muskaauu.N
+baadal dekh ke bhar aaI a.Nkhiyaa.N \- 2, chham\-chham niir bahaauu.N
+mai.n chham\-chham niir bahaauu.N
+mu: chho.D gae baalam \threedots
+
+dil kii lagii ko kyaa koii jaane, mai.n jaanuu.N dil jaane
+palako.n kii chhaayaa me.n naache.n \- 2, dard bhare afasaane
+ye dard bhare afasaane
+l: chhuuT gayaa baalam \threedots
+
+l: pahale man me.n aag lagii aur, phir barasii barasaat
+aisii chalii birahaa kii aa.Ndhii \- 2, ta.Dapat huu.N din\-raat
+mai.n ta.Dapat huu.N din\-raat
+mu: chho.D gae baalam \threedots
+%
+#endindian
+\endsong
+%

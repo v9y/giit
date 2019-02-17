@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{mai.n mai.n mai.n mai.n ##cartoon## ... baj rahaa hai}%
+\film{Mr. Qaartoon, M.A.}%
+\year{1958}%
+\starring{Johny Walker, Shyama, Raj Mehra, Mehmood, Kumkum, Meenu Mumtaz}%
+\singer{Rafi, Asha, Shamshad}%
+\music{O P Nayyar}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10530 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+% Part 1
+ra \:	mai.n mai.n mai.n mai.n ##cartoon## \-2
+	baj rahaa hai baar\-baar dil kaa Teliiphuun
+	mai.n mai.n mai.n \threedots
+
+	aajaa dil ke hoTalo.n me.n ghuum le zaraa
+	pyaar kii bahaar le ke jhuum le zaraa
+	hamako to khilaa_i_e jii taazaa halavaa sun
+	mai.n mai.n mai.n \threedots
+
+	aaj is zamii.n pe to apanaa raaj hai
+	Topii isako mat kaho jii sar pe taaj hai
+	yuu.N chamak rahaa huu.N jaise ko_ii ##moon##
+	mai.n mai.n mai.n \threedots
+
+	ham gulaam aapake hai.n liiji_e ba.ndagii
+	aapake qaram se hai hamaarii zindagii
+	ye jahaaj jaa_egaa jii siidhe deharaaduun
+	mai.n mai.n mai.n \threedots
+
+aa \:	mai.n arab kii huur tere paas aa_ii huu.N
+	reshamii naqaab me.n bahaar laa_ii huu.N
+	gesu_o.n kaa Daal diiji_e hamape ##monsoon##
+	mai.n arab kii huur \threedots
+%
+% Part 2:
+%
+ra \:	phuul jab khilaa to aa_ii.n shoK titaliyaa.N
+	aashiyaa.N banaa to aa_ii.n ghir ke bijaliyaa.N
+	Dar yahii hai kar na jaa_e.N aarazuu kaa Kuun
+	mai.n mai.n mai.n \threedots
+%
+#endindian
+\endsong

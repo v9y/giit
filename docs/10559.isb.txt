@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dil paagal hai diivaanaa hai ye pyaar karegaa}%
+\film{Barsaat}%
+\year{1995}%
+\starring{Bobby Deol, Twinkle Khanaa}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil paagal hai diivaanaa hai ye pyaar karegaa
+ye kab Daraa hai duniyaa se jo ab Daregaa
+ye pyaar me.n dha.Dakaa hai ye pyaar se dha.Dakegaa
+ye kab Daraa hai \threedots
+
+dil takht\-o\-taaj kii paravaah nahii.n karataa
+rasm\-o\-rivaaj kii paravaah nahii.n karataa
+daulat se khariidoge to i.nkaar karegaa
+ye kab Daraa hai \threedots
+
+falak roke zamii.n roke magar ham ruk na paa_e.nge
+diivaare.n to.D ke saarii ham tumase milane aa_e.nge
+mohabbat jhuk nahii.n sakatii zamaane ke jhukaane se
+mohabbat miT nahii.n sakatii zamaane ke miTaane se
+kahataa nahii.n hai dil karegaa dikhaa_egaa
+tuufaa.n me.n chaahat kii shamaa jalaa_egaa
+ye jurm dil to sau baar karegaa
+ye kab Daraa hai \threedots
+%
+#endindian
+\endsong
+

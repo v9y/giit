@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{badanaam na ho jaanaa o prem ke diiwaane}%
+\film{Jawani}%
+\year{1942}%
+\starring{Surendra, Husnbano, A R Kabuli, Sankata}%
+\singer{Surendra, Husnbano, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Hazrat Aarzoo}%
+%
+% Contributor: BOL ANAMOL #12273 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+ha \:	( badanaam na ho jaanaa
+	o prem ke diiwaane ) \-2
+	( ye ra.ng nahii.n hai.n
+	ye ?? aaye hai.n samajhaane ) \-2
+	badanaam na ho jaanaa
+	prem ke diiwaane
+	badanaam na ho jaanaa
+
+su \:	( dil Dhuu.NDhane nikale hai.n
+	ham log hai.n paradesii ) \-2
+	( diiwaar ke saaye me.n
+	aa baiThe hai.n sustaane ) \-2
+
+ha \:	jal jaa_oge bhun jaa_oge \-2
+	jal jaa_oge jaa_oge
+	ham aaG ke zarre hai.n \-2
+	( jo aaG pe girate hai.n
+	jal jaate hai.n parawaane ) \-2
+
+su \:	( tum jalawaa dikhaavo to
+	tum aaG lagaavo to ) \-2
+	parawaa nahii.n jalane kii
+	tum aaG lagaavo to
+	parawaa nahii.n jalane kii
+	parawaane to parawaane 
+	tum aaG lagaavo to
+	parawaane to parawaane 
+	parawaa nahii.n jalane kii
+	parawaane to parawaane 
+%
+#endindian
+\endsong
+%
+

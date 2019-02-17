@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{priit me.n hai jiivan jokho.n}%
+\film{Dushman}%
+\year{1939}%
+\starring{Saigal}%
+\singer{Saigal}%
+\lyrics{Arzoo Lucknowi}%
+\music{Pankaj Mullick}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+%
+\printtitle
+#indian
+%
+priit me.n hai jiivan jokho.n
+ki jaise kolhuu me.n saraso.n
+priit me.n hai jiivan jokho.n
+
+bhor suhaanii cha.nchal baalak la.Dakayii dikhalaaye
+haath se baiThaa ga.Dhe khilaune paa.Nv se to.Dat jaaye (2)
+vo to hai, vo to hai ik muurakh baalak tuu to nahii.n na raam (2)
+aap banaaye aap bigaa.De yah nahii.n terii shaan
+yah nahii.n terii shaan
+
+##coughs##
+aisaa kyo.n, phir aisaa kyo.n, aisaa kyo.n?
+
+%
+#endindian
+\endsong
+%

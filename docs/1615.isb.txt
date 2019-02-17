@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{shaam bhayii, ghanashyaam na aae}%
+\film{Kavi Kalidas}%
+\year{1959}%
+\starring{Bharat Bhushan, Nirupa Roy, Anita Guha}%
+\singer{Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+% 
+% Contributor: Neha Desai <umdesai@cc.UManitoba.CA>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/29/1996
+% Credits: Ashok Dhareshwar <ADhareshwar@worldbank.org>
+%          Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+%          Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+%
+\printtitle
+#indian
+%
+shaam bhayii, chanashyaam na aae	\- 3
+sab ke kaam banate phirate	\- 2
+mujh dukhiyaa ke kaam na aae
+shaam bhayii \threedots
+
+taar milan ke TuuT gae kyuu.N	\- 2
+mujhase mere ruuTh gae kyuu.N
+nagar\-nagar voh rahe ghuumate
+mere gokul gaam na aaye
+shaam bhayii \threedots
+
+path herat, patharaa gayii a.Nkhiyaa.N	\- 2
+murajhaaii palako.n kii pakhiyaa.N
+mai.n birahan kii ??? vyaakul
+jisake raajaa raam na aaye
+shaam bhayii \threedots
+%
+#endindian
+\endsong
+%
+

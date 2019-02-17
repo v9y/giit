@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{aaii za.njiir kii jhanakaar Kudaa Kair kare}%
+\film{Razia Sultan}%
+\year{}%
+\starring{Hema Malini, Dharmendra, Parveen Babi, Pradeep Kumar, Ajit}%
+\singer{Kabban Mirza}%
+\music{Khaiyyam}%
+\lyrics{Jaan Nisar Akhtar}%
+% 
+% Contributor: David Windsor <David.Windsor@anu.edu.au>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 06/12/1996
+%
+\printtitle
+#indian
+%
+aaii za.njiir kii jhanakaar Kudaa Kair kare
+dil huaa kisakaa Giraftaar Kudaa Kair kare
+
+jaane yah kaun merii ruuh ko chhuukar Guzaraa
+ek qayaamat huii bedaar Kudaa Kair kare
+
+lamhaa merii aa.Nkho.n me.n khii.nchaa jaatii hai
+ek chamakatii huii talvaar Kudaa Kair kare
+
+Kuun dil kaa na chhalak jaae kahii.n aa.Nkho.n se
+ho na jaae kahii.n izahaar Kudaa na kare
+%
+#endindian
+\endsong
+%
+

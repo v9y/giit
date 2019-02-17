@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{##A B C D E F G H I J K L M N O P## ... pi pi pi pi piyaa ji ji ji ji jiyaa}%
+\film{Prem Deewaane}%
+\year{1992}%
+\starring{Jackie, Madhuri, Vivek Mushran, Pooja Bhatt, Prem Chopra, Manohar Singh}%
+\singer{Alka Yagnik, Udit Narayan}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##A B C D E F G H##
+##A B C D E F G H I J K L M N O P##
+pi pi pi pi piyaa ji ji ji ji jiyaa
+piyaa tuune meraa jiyaa le liyaa
+maine jo kiyaa vahii tuune bhii kiyaa
+liyaa diyaa liyaa diyaa jiyaa 
+pyaar tumane kiyaa
+piyaa tuune meraa jiyaa \threedots
+
+tere mere pyaar ke hai.n
+kisse mashahuur
+ba.Dii duur duur
+pyaar ne hame.n ba.Daa naam diyaa
+piyaa tuune meraa jiyaa \threedots
+
+hotii nahii.n terii merii jab mulaaqaat
+nii.nd nahii.n aatii mujhe saarii saarii raat
+jalataa hai dil jalataa hai dil meraa ban ke diiyaa
+pi pi pi pi piyaa ji ji ji ji ji jiyaa \threedots
+%
+#endindian
+\endsong
+
+

@@ -1,0 +1,67 @@
+%
+\startsong
+\stitle{puuchho naa yaar kyaa huaa dil kaa qaraar kyaa huaa}% 
+\film{Zamane Ko Dikhana Hai}%
+\year{1981}%
+\starring{Rishi Kapoor, Padmini Kolhapure}%
+\singer{Asha, Rafi, Rishi, Padmini Kolhapure}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Reeta Sinha (librs@emoryu1.cc.emory.edu)
+%
+\printtitle 
+#indian 
+%
+##hmm hmm## 
+(pUchho naa yaar kyaa huaa 
+dil kaa qaraar kyaa huaa) \- 2 
+tumape to ham mar miTe hai.n abhii se 
+jaane hamaaraa aage kyaa hogaa 
+ayya ya-yaa yaa yaa yaa yaa \threedots 
+
+padminii: aage kyaa hogaa 
+R^ishhi: aage shaadii 
+
+hamako mil gayii duniyaa pyaar kii 
+maanaa ho gaye tum mere apane 
+phir bhii ye savaal dil me.n ye khayaal 
+naa ho ye kahii.n duur ke sapane 
+ye aitabaar kyaa huaa dil kaa qaraar huA 
+tumape to ham mar miTe hai.n abhii se 
+jaane hamaaraa aage kyaa hogaa 
+ayyyaa \threedots 
+
+padminii: aur phir kyaa hogaa 
+R^ishhi: e paarTiyaa.n daavate.n 
+
+apane paas kyaa aramaa.n ke sivaa 
+yuu.N to mai.n tumhe.n aur kyaa duu.ngii 
+zo bhii hai meraa mai.n aur meraa pyaar 
+tumape ek baar sab luTaa duu.ngii 
+chaahoge to mai.n dekhuu.Ngii tumhe.n 
+kahadoge to phir sar jhukaa luu.ngii 
+haay diladaar kyaa huA dil kaa qaraar huA 
+tumape to ham mar miTe hai.n abhii se 
+jaane hamaaraa aage kyaa hogaa 
+ayyyaa \threedots 
+
+ko: vaah vaah \threedots 
+
+padminii: are baabaa tum bhii to kuchh bolo naa 
+R^ishhi: ye baat hai to suno
+
+chho.Do jaane jaanaa tum bhii ho kahaa.N 
+ghabaraate nahii.n ham zamaane se 
+dekho to idhar kisakaa hai jigar 
+ulajhe aapake is dIvaane se 
+ho ulajhe hazaar kyaa huaa ai mere pyaar kyaa huaa 
+apanii khushii hogii ye zi.ndagii bhii 
+isake sivaa aage kyaa hogaa 
+
+ayyyaa \threedots 
+%
+#endindian
+\endsong
+%

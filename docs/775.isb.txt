@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{itanii naazuk naa bano, haay, itanii naazuk naa bano}%
+\film{Vaasna}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Sahir}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Credits: sanjeevr@phoenix.Princeton.EDU (Sanjeev Ramabhadran)
+%          Ravi Rai (rrai@plains.nodak.edu)
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian 
+%
+itanii naazuk naa bano, haay, itanii naazuk naa bano
+hadake andar ho nazaakat to adaa hotii hai
+hadase ba.Dh jaaye to aap apanii sazaa hotii hai
+(itanii\threedots)
+
+jism kaa bojh uThaaye nahii.n uThataa tumase
+zi.ndagaanii kaa ka.Daa bojh sahogii kaise
+tum jo halakiisii havaao.n me.n lachak jaatii ho
+tez jho.nko.n ke thape.Do.n me.n rahogii kaise
+(itanii\threedots)
+
+ye naa samajho ke har ik raah me.n kaliyaa.n ho.ngii
+raah chalanii hai to kaa.nTo.n pe bhii chalanA hogaa
+ye nayaa daur hai is daur me.n jiine ke liye
+husn ko husn kaa andaaz badalanaa hogaa 
+(itanii\threedots)
+
+koi rukataa nahii.n Thahare hue raahii ke liye
+jo bhii dekhegaa voh kataraake guzar jaayegaa
+ham agar vaqt ke hamaraah naa chalane paaye
+vaqt ham dono ko Thukaraake guzar jaayegaa
+(itanii\threedots)
+%
+#endindian
+\endsong
+%

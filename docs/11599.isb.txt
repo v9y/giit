@@ -1,0 +1,59 @@
+
+%
+\startsong
+\stitle{o chhaliyaa re man me.n hamaar najar torii dha.Ns ga_ii}%
+\film{Gunga Jumna}%
+\year{1961}%
+\starring{Dilip Kumar, Vyjayantimala, Nasir Khan, Azra, Kanhaiyalal, Helen}%
+\singer{Rafi, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10628 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	o chhaliyaa re chhaliyaa re man me.n hamaar
+	najar torii dha.Ns ga_ii
+ko \:	hoy dhiire\-dhiire haule\-haule dha.Ns ga_ii
+
+ra \:	o jiyaa hamaar kaharavaa naache re
+	aaj mainaa pha.Ns ga_ii
+ko \:	o dhiire\-dhiire haule\-haule pha.Ns ga_ii
+
+aa \:	 o jaa re be_iimaan toraa ko_ii naa dharam
+	sun tore bol mohe laagii re sharam
+ko \:	 o jaa re be_iimaan toraa ko_ii naa dharam
+ra \:	lo aaj moraa tujh pe dil hai naram
+ko \:	moraa dil hai naram \-2
+ra \:	ho maa.Ng le jo maa.Nganaa ho pyaar kii qasam
+aa \:	o piyaa re piyaa tore naino.n kii Dor
+	jiivan moraa kas ga_ii
+ko \:	ho dhiire\-dhiire haule\-haule kas ga_ii
+
+ra \:	o bal khaa_e aisan torii patalii kamar
+	o jaise Dagamag ho sharaabii kii najar
+ko \:	o bal khaa_e aisan torii patalii qamar
+aa \:	o lalachaa_ii a.Nkhiyo.n se dekh na idhar
+ko \:	dekh na idhar mohe dekh na idhar
+aa \:	o a.ng\-a.ng jiyaa moraa kaa.Npe thar\-thar
+ra \:	o terii zulfo.n me.n pha.Ns gayaa re
+	moraa jiyaa re naagan Das ga_ii
+ko \:	dhiire\-dhiire haule\-haule Das ga_ii
+
+aa \:	haay pag me.n paayal morii bole chhan\-chhan
+	sa.ng\-sa.ng aaj more naache re sajan
+ko \:	haay pag me.n paayal torii bole chhan\-chhan
+ra \:	o chaa.Nd sii javaanii torii phuul saa badan
+	o jiit liyaa ruup vaalii tuune moraa man
+aa \:	torii chhabi ne gajab kiyaa
+	chorii\-chorii jiyaa me.n bas ga_ii
+ko \:	dhaay\-dhaay dhig dhaa.ny dhin dhaay dhig \-2
+ko \:	daay taay ki.Dhataay ki.Dh ki.Dh ki.Dh \-2
+%
+#endindian
+\endsong
+

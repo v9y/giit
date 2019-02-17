@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{mai.n ko_ii aisaa giit gaa_uu.n ... agar tum kaho}%
+\film{Yes Boss}%
+\year{1997}%
+\starring{Shahrukh Khan, Juhi Chawala, Aditya Pancholi}%
+\singer{Abhijit, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mai.n ko_ii aisaa giit gaa_uu.n ki aarazuu jagaa_uu.n agar tum kaho
+tumako bulaa_uu.n ki palake.n bichhaa_uu.n kadam tum jahaa.n jahaa.n rakho
+zamii.n ko aasamaa.n banaa_uu.n sitaaro.n se sajaa_uu.n agar tum kaho
+mai.n ko_ii aisaa giit \threedots
+
+mai.n titaliyo.n ke piichhe bhaaguu.n
+mai.n juganu_o.n ke piichhe bhaaguu.n
+ye ra.ng hai vo roshanii hai tumhaare paas dono.n laa duu.n
+jitanii khushbu_e.n baag me.n mile.n
+mai.n laa_uu.n vahaa.n pe ki tum ho jahaa.n
+jahaa.n pe ek pal bhii Thaharo mai.n gulistaa.n banaa_uu.n agar tum kaho
+mai.n ko_ii aisaa giit \threedots
+
+agar tum kaho to mai.n sunaa_uu.n tumhe.n hasii.n kahaaniyaa.n
+sunogii kyaa merii jabaanii ek parii kii daastaa.n
+yaa mai.n karuu.n tumase bayaa.n
+ki raajaa se raanii milii thii kahaa.n
+kahaaniyo.n ke nagar me.n tumhe.n le ke jaa_uu.n agar tum kaho
+mai.n ko_ii aisaa giit \threedots
+%
+#endindian
+\endsong
+

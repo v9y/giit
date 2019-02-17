@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tuune pyaar kii biin bajaa_ii ... mai.n dau.Dii chalii aa_ii}%
+\film{Aayi Milan Ki Raat}%
+\year{1991}%
+\starring{Avinash Wadhwan, Shaheen, Anupam Kher, Kulbhushan Kharbanda, Aloknath}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuune pyaar kii biin bajaa_ii
+mai.n dau.Dii chalii aa_ii mai.n bhaagii chalii aa_ii
+tuune dil se jo mujhako bulaayaa
+mai.n dau.Daa chalaa aayaa mai.n bhaagaa chalaa aayaa
+
+saaraa saaraa din terii yaad sataaye raat ko nii.nd na aaye
+baavarii ho ga_ii priit me.n tere dil kahii.n chain na paaye
+tuune aisii lagan lagaa_ii
+mai.n dau.Dii chalii \threedots
+
+aajaa tujhe biin mai.n apanii banaa luu.n apane labo.n se lagaa luu.n
+mai.n tujhe dekhuu.n tuu mujhe dekhe aa.Nkho.n me.n aise basaa luu.n
+tuune apanaa mujhako banaayaa
+mai.n dau.Daa chalaa \threedots
+
+teraa meraa pyaar hai sadiyo.n puraanaa jaane naa jaane zamaanaa
+vaadaa kiyaa thaa saath rahe.nge vaadaa bhuul naa jaanaa
+tere pyaar me.n duniyaa bhulaa_ii
+mai.n dau.Dii chalii \threedots
+%
+#endindian
+\endsong
+

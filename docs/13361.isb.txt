@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{chorii chorii dekhaa tumhe.n ... aapako to khabar nahii.n isakii}%
+\film{Om Jai Jagadish}%
+\year{2002}%
+\starring{Anil Kapoor, Abhishek Bachchan, Fardin Khan, Vahida Rahman, Mahima Chaudhary, Urmila Matondkar, Tara Sharma}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chorii chorii dekhaa tumhe.n
+chorii chorii chaahaa tumhe.n
+chorii chorii maa.ngaa tumhe.n
+chorii chorii puujaa tumhe.n
+aapako to khabar nahii.n isakii
+aapako maine kitanaa pyaar kiyaa haa.N
+aapako kis tarah mai.n bataa_uu.N
+kab kahaa.N aur kaise dil diyaa haa.N
+aapako to khabar \threedots
+
+maine kahaa kyaa tumane sunaa
+dilabar tumhe.n hii maine chunaa
+kahanaa tumhaaraa achchhaa lagaa
+sapanaa mujhe ab sachchaa lagaa haa.N
+aapako haal\-e\-dil kyaa sunaa_uu.N
+aapane chain meraa le liyaa haa.N
+aapako to khabar \threedots
+
+dekho na mujhako ab duur se
+ye maa.Ng bhar do si.nduur se
+kahataa hai meraa diivaanaapan
+hoke rahegaa apanaa milan haa.N
+aapase jaan\-e\-man kyaa chhupaa_uu.N
+aapako maine maanaa hai piyaa haa.N
+aapako to khabar \threedots
+%
+#endindian
+\endsong
+

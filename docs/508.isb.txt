@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{dil kii nazar se, nazaro.n kii dil se}% 
+\film{Anaadi}%
+\year{1959}%
+\starring{Raj Kapoor, Nargis, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Kedar S Naphade (ksn2@Lehigh.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Ikram Ahmad Khan (i-khan@tamu.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+dil kii nazar se, nazaro.n kii dil se 
+ye baat kyaa hai, ye raaz kyaa hai 
+koI hame.n bataa de 
+
+dhiire se uThakar, hoTho.n pe aayaa 
+ye giitaa kaisaa, ye raaza kyaa hai 
+koI hame.n bataa de, dil kii nazar se \threedots
+
+(kyo.n bekhabar, yU.N khi.nchiisii chalii jaa rahI mai.n 
+ye kaunase bandhano.n me.n ba.ndhii jaa rahii mai.n ) \- 2
+kuchh kho rahaa hai, kuchh mil rahaa hai 
+ye baat kyA hai, ye raaz kyA hai
+koI hame.n bataa de, dil kii nazar se \threedots
+
+(ham kho chale, chaa.Nd hai yA koI jaaduugar hai
+yaa, madabharii, ye tumhaarii nazar kaa asar hai ) \- 2
+sab kuchh hamArA, ab hai tumhaaraa
+ye baat kyA hai, ye raaz kyA hai 
+koI hame.n bataa de, dil kii nazar se \threedots
+
+(aakaasha me.n, ho rahe.n hai.n ye kaise ishaare 
+kyaa, dekhakar, aaj hai.n itane khush chaa.Nd\-taare ) \- 2
+kyo.n tum paraaye, dil me.n samaaye 
+ye baat kyaa hai, ye raaza kyaa hai
+koI hame.n bataa de, dil kii nazar se \threedots
+%
+#endindian
+\endsong
+%

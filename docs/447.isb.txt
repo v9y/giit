@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{dekho ruuThaa naa karo, baat nazaro.n kii suno}%
+\film{Tere Ghar Ke Saamne}%
+\starring{Dev Anand, Nutan}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Satish Subramanian (subraman@myria.cs.umn.edu)
+%          Kedar Nahade (ksn2@Lehigh.EDU)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(rafii: dekho ruuThaa naa karo,  baat nazaro.n kii suno
+lataa: ham na bole.nge kabhii, tum sataayaa naa karo ) \- 2
+rafii: dekho ruuThaa naa karo
+
+rafii: cheharaa to laal huaa, kyaa kyaa haal huaa
+is adaa par terii, mai.n to paagal huaa
+tum biga.Dane jo lago,  aur bhii ha.nsii.n lago
+lataa: ham na bole.nge kabhii, tum sataayaa naa karo
+rafii: dekho ruuThaa naa karo
+
+lataa: jaan par merii banii, aapakii Thaharii ha.nsii
+haay, mai.n jaan ga_ii, pyaar kii chikanaagarii (?)
+dil jalaane ke liye, Tha.nDii aahe.n na bharo
+rafii: dekho ruuThaa naa karo,  baat nazaro.n kii suno
+lataa: ham na bole.nge kabhii
+
+rafii: terii khushabuu ne mere, hosh bhii chhiin liye
+hai.n khushii aaj hame, tere pahaluu me.n gire
+dil kii dha.Dakan pe zaraa, phuul saa haath rakho
+lataa: ham na bole.nge kabhii, tum sataayaa naa karo
+rafii: dekho ruuThaa naa karo
+
+lataa: kyaa kahegaa ye samaa, in raaho.n kaa dhu.Naa
+laaj aae mujhe, mujhako laae ho kahaa.N
+ham tumhe maan gae,  tum ba.De vo ho haTo
+rafii: dekho ruuThaa naa karo,  baat nazaro.n kii suno
+lataa: ham na bole.nge kabhii, tum sataayaa naa karo
+rafii: dekho ruuThaa naa karo
+%
+#endindian
+\endsong
+%

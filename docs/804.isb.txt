@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jaane kyaa sochakar nahii.n gujaraa}%
+\film{Kinaara}%
+\year{1977}%
+\starring{Jeetendra, Hema Malini, Dharmendra}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
+% Credits: Sandeep C. Patwardhan (scp@shack.csci.csc.com)
+%          Satish Subramanian (subraman@cs.umn.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+(jaane kyaa sochakar nahii.n guzaraa
+ik pal raat bhar nahii.n guzaraa ) \- 2
+
+apanii tanahaaI kaa auro.n se naa shikavaa karanaa \- 2
+tum akele hI nahii.n ho sabhii akele hai.n
+ye akelaa safar nahii.n guzaraa
+jaane kyaa sochakar nahii.n guzaraa
+ik pal raat bhar nahii.n guzaraa
+
+do gha.Dii jiine kii mohalat to milii hai sabako \- 2
+tum bhii mil jaao gha.Dii bhar to ye Gam hotaa hai
+is gha.Dii kA safar nahii.n guzaraa
+jaane kyaa sochakar nahii.n guzaraa
+ik pal raat bhar nahii.n guzaraa
+%
+#endindian
+\endsong
+%

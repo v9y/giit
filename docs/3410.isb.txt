@@ -1,0 +1,60 @@
+% ITRANS SONG # 3410; Created on Jan 26, 2004
+%
+% surma 6/30/3
+% 
+\startsong
+\stitle{pahale pahale pyaar kii... mai.n tumako kyaa kahuu.N}%
+\film{The Great Gambler}%
+\year{1979}%
+\starring{Amitabh, Zeenat Aman, Neetu Singh, Prem Chopra, Utpal Dutt}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 30 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aa:      pahale pahale pyaar kii mulaaqaate.n yaad hai.n
+         mujhako to tumhaarii saarii baate.n yaad hai.n
+         tumako kaise bhuul gayaa dil kaa ye afasaanaa
+         mai.n tumako kyaa kahuu.N
+         (ho o mai.n tumako kyaa kahuu.N
+ki:      diiwaanaa) 2
+
+         kitane logo.n se mai.n milakar bhuul jaata huu.N
+aa:      ye to mai.n jaanati huu.N
+ki:      merii aadat hai aksar mai.n bhuul jaataa huu.N
+aa:      haa baabaa haa jaanati huu.N
+ki:      kitane logo.n se mai.n milakar bhuul jaata huu.N
+         merii aadat hai aksar mai.n bhuul jaataa huu.N
+         dekhaa phir kuchh bhuul gayaa mujhko yaad dilaanaa
+         meraa kyaa naam hai
+aa:      ye bhii bhuul gaye
+ki:      he meraa kyaa naam hai
+aa:      anjaanaa
+         mai.n tumako kyaa kahuu.N
+ki:      diiwaanaa
+
+         achchhaa mai.n sab baato.n kaa hisaab rakkhuu.Ngaa
+aa:      yaad rahegaa naa
+ki:      bilkul
+         yaado.n aur waado.n kii ek kitaab rakkhuu.Ngaa
+aa:      dekho bhuulanaa nahii.n
+ki:      bilkul nahii.n
+         achchhaa mai.n sab baato.n kaa hisaab rakkhuu.Ngaa
+         yaado.n aur waado.n kii ek kitaab rakkhuu.Ngaa
+         sabase pahale isame.n tum apanaa naam likhaanaa
+         (teraa kyaa naam hai)2
+aa:      sultaanaa
+         mai.n tumako kyaa kahuu.N
+ki:      diiwaanaa
+%
+#endindian
+\endsong
+%

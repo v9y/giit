@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{motii jaisaa ra.ng a.ng me.n ras kaa saagar laharaa_e}%
+\film{Aansoo Aur Muskan}%
+\year{1970}%
+\starring{Hema Malini, Parikshit Ajay Sahni, Om Prakash}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: BOL ANAMOL #11123 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+( motii jaisaa ra.ng a.ng me.n ) \-2 ras kaa saagar laharaa_e
+tere ruup kii aa.Nch lage to patthar dil bhii pighal jaa_e
+motii jaisaa ra.ng \threedots
+
+naino.n me.n hai tere jaise kirano.n kaa baseraa
+nikharaa teraa yauvan jaisaa bikharaa ho saveraa
+suuraj tere darshan ko har din aa_e\-jaa_e
+motii jaisaa ra.ng \threedots
+
+hogaa vo bhii sundar jisape hogii terii chhaayaa
+hogaa vo bhii mohit jisane tujhako hai banaayaa
+jiivan kar de roshan tuu jo muskaraa_e
+motii jaisaa ra.ng \threedots
+%
+#endindian
+\endsong
+

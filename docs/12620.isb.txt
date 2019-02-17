@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{sazaa milii hai kisii se ye dil lagaane kii}%
+\film{Kamal Ke Phool}%
+\year{1950}%
+\starring{Suraiyya, Shakuntala, Amarnath, Jiwan, Raj Mehra}%
+\singer{Suraiyya}%
+\music{Shyamsunder}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #12163 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+sazaa milii hai kisii se ye dil lagaane kii \-2
+ha.Nsii u.Daatii hai duniyaa mere fasaane kii
+sazaa milii hai kisii se ye dil lagaane kii
+sazaa milii
+
+( Kushii se khelane waalaa
+zamaanaa kyaa jaane ) \-2
+kisii Gariib ko hasarat hai
+muskuraane kii
+
+sazaa milii hai kisii se ye dil lagaane kii
+sazaa milii
+
+( kuchh aur Gam bhii bache.n ho
+to de\-de ai qisamat ) \-2
+ki ab to mujhako bhii aadat hai
+Gam uThaane kii
+
+sazaa milii hai kisii se ye dil lagaane kii
+ha.Nsii u.Daatii hai duniyaa mere fasaane kii
+sazaa milii hai kisii se ye dil lagaane kii
+sazaa milii
+%
+#endindian
+\endsong
+%

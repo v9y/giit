@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{khushii dil kii barabaadiyaa.N saath laa_ii}%
+\film{Shikwa}%
+\year{1950}%
+\starring{Dilip, Nutan}%
+\singer{Talat}%
+\music{Sajjad}%
+\lyrics{}%
+%
+% Contributor: Ashok Dhareshwar
+% Transliterator: Ashok Dhareshwar
+% Credits:
+% Comments: Film was never completed and released.
+%
+\printtitle
+#indian
+%
+
+khushii dil kii barabaadiyaa.N saath laa_ii
+muhabbat kii duniyaa.N basaa kar miTaa_ii
+khushii dil kii barabaadiyaa.N saath laa_ii
+
+kahaa.N se kahaa.N aa gae chalate chalate
+magar is muhabbat kii ma.nzil na aa_ii
+muhabbat kii duniyaa.N basaa kar miTaa_ii
+khushii dil kii barabaadiyaa.N saath laa_ii
+
+abhii muskuraane na paae the ham tum
+muqaddar ne ik aur Thokar lagaa_ii
+muhabbat kii duniyaa.N basaa kar miTaa_ii
+khushii dil kii barabaadiyaa.N saath laa_ii
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{suN merii gal o gal ... pyaar ke hai.n pal}%
+\film{Censor}%
+\year{2001}%
+\starring{Dev Anand, Mohini Sharma, Vinay Anand, Govinda, Mamta Kulkarni, Jackie Shroff}%
+\singer{Sonu Nigam, Jaspindar Narula}%
+\music{Jatin Lalit}%
+\lyrics{Vinu Mahendra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+suN merii gal o gal suN merii gal
+pyaar ke hai.n pal haa.n pyaar ke hai.n pal
+chham se javaanii chalii aa_ii
+aa_o chakhe.n pyaar kii malaa_ii
+le le meraa dil ye salonaa hoy hoy
+pyaar se bharaa hai konaa konaa hoy hoy
+kisii se bhii mil aisaa milegaa naa dil
+chal chale.n
+o chale.n o chale.n o chale.n
+suN merii gal \threedots
+
+ishq nashe kaa pyaalaa hai
+o jisane piyaa matavaalaa hai
+are raajii yaar to sab raajii
+o sachche pyaar me.n rab raajii
+ko_ii nahii.n jitanaa pyaar uu.nchaa itanaa
+ambar bhii dikhataa hai thalle
+o thalle
+suN merii gal \threedots
+
+shor mache to machane de
+pyaar me.n kuchh nahii.n bachane de
+o ho yaar ke sa.ng sa.ng jhuum ke jii
+ik duuje ko chuum ke jii
+sa.ng jiinaa maranaa duniyaa se kyaa Daranaa
+hone de jitane bhii halle o
+halle o halle o halle
+suN merii gal \threedots
+%
+#endindian
+\endsong
+

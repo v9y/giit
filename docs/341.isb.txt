@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chaa.Nd phir nikalaa, magar tum na aaye}%
+\film{Paying Guest}%
+\year{1957}%
+\starring{Dev Anand, Nutan}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Neha Desai
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+chaa.nd phir nikalaa, magar tum na aaye
+jalaa phir meraa dil, karu.N kyaa mai.n haay
+chaa.nd phir nikalaa \threedots
+
+(ye raat kahatii hai vo din gaye tere 
+ye jaanataa hai dil ke tum nahii.n mere  )   \- 2
+kha.Dii mai.n huu.N phir bhii nigaahe.n bichhaaye
+mai.n kyaa karuu.N haay ke tum yaad aaye
+chaa.nd phir nikalaa \threedots
+
+(sulagate siine se dhu.naa saa uThataa hai
+lo ab chale aao ke dam ghuTataa hai.n  )   \- 2
+jalaa gaye tan ko bahaaro.n ke saaye
+mai.n kyaa karu.N haay ke tum yaad aaye
+chaa.nd phir nikalaa \threedots
+%
+#endindian
+\endsong
+%

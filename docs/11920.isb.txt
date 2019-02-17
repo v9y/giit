@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{jaanaa.n tujhe jaanaa ... log kyo.n diivaane ho jaate hai.n}%
+\film{Indian}%
+\year{2001}%
+\starring{Sunny Deol, Shilpa Shetty}%
+\singer{Abhijit, Sadhana Sargam}%
+\music{Anand Raj Anand}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jaanaa.n tujhe jaanaa to jaanaa maine ye
+he log kyo.n diivaane ho jaate hai.n pyaar me.n
+jaanaa.n tujhe jaanaa \threedots
+
+dekh to nigaaho.n se merii in nigaaho.n me.n
+teraa bas teraa ik naam likhaa hai
+he milaake nazar dekho
+dil me.n utar kar dekho
+chaahat kaa merii paigaam likhaa hai
+sunaa ye fasaanaa to jaanaa maine ye
+ho log kyo.n diivaane \threedots
+
+haal rahaa aisaa to pyaar me.n tumhaare
+meraa rab jaane kyaa haal hogaa
+ho jo bhii takadiir hogii
+raa.njhe kii hiir hogii
+sohanii kaa aashiq mahivaal hogaa
+maanaa maine maanaa aaj jaanaa maine ye
+ho log kyo.n diivaane \threedots
+%
+#endindian
+\endsong
+

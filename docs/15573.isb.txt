@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{wo ko_ii aur na thaa chand Kushq patte the}%
+\film{Parchhaiyan (Non-Film)}%
+\year{1992}%
+\starring{}%
+\singer{Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Ahmed Nadeem Qasmi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+wo ko_ii aur na thaa chand Kushq patte the
+shajar se TuuT ke jo fasl\-e\-gul pe roye the
+
+abhii abhii tumhe.n sochaa to kuchh na yaad aayaa
+abhii abhii to ham ik duusare se bichha.De the
+
+tamaam umr wafaa ke gunaahagaar rahe
+ye aur baat ke ham aadamii to achchhe the
+
+'nadiim' jo bhii mulaakaat thii adhuurii thii
+ke ek chehare ke piichhe hazaar chehare the
+
+#endindian
+\endsong

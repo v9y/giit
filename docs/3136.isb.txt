@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{mast pavan hai cha.nchal dhaara}%
+\film{Jeet}%
+\year{1948}%
+\starring{Dev Anand, Suraiya}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Srinivas Ganti 
+% Transliterator: Srinivas Ganti  
+% Date: July 12,2001 
+% Comments: LATAnjali 
+%
+\printtitle 
+#indian
+%
+
+mast pavan hai cha.nchal dhaaraa \-2
+man kii naiyaa Dol naa jaaye
+mast pavan hai cha.nchal dhaaraa
+aaj samaa hai kitanaa pyaaraa \-2
+man kii naiyaa Dol naa jaaye
+mast pavan hai cha.nchal dhaaraa 
+
+(man me.n hai.n bechain uma.nge.n
+jaise mauje.n saagar kii)\-2 
+denaa? mujhako koii? sahaaraa \-2
+man kii naiyyaa \threedots
+
+(miit binaa jiivan biite naa
+raah kaTe bin saathii ke)\-2
+raah kaTe bin saathii ke
+Dhuu.NDh rahii huu.N koii kinaaraa
+man kii naiyyaa \threedots
+
+%
+#endindian
+\endsong
+%
+ 

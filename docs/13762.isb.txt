@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{taal pe jab ye zindagaanii chalii}%
+\film{Refugee}%
+\year{2000}%
+\starring{Abhishek Bachchan, Kareena Kapoor, Jackie Shroff, Sunil Shetty, Anupam Bher, Reena Roy, Kulbhushan Kharbanda, Ashish Vidyarthi}%
+\singer{Sonu Nigam, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+taal pe jab ye zindagaanii chalii
+o taal pe jab ye zindagaanii chalii
+ham hai.n diivaane ham hai.n diivaane ye kahaanii chalii o aa
+taal pe jab ye \threedots
+
+terii nazar kii dhuup hai jisane mujhako ruup diyaa hai
+nikhar ga_ii huu.N sa.nvar ga_ii huu.N jabase pyaar kiyaa hai
+sach to ye hai sanam hai ye teraa karam
+hosh saaraa ga.nvaa ke diivaanii chalii
+taal pe jab ye \threedots
+
+sach kahataa huu.N maine jab se thaamaa hai ye aa.Nchal
+merii duniyaa me.n harapal hai jaise ko_ii halachal
+sapane sajane lage saaz bajane lage
+badalaa mausam havaa jo suhaanii chalii
+taal pe jab ye \threedots
+%
+#endindian
+\endsong
+

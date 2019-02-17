@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{baiThe hai.n rahaguzar par dil kaa diyaa jalaaye}%
+\film{40 Days}%
+\year{}%
+\starring{Shakeela, Manoj Kumar, Premnath, Maruti, Shammi}%
+\singer{Asha}%
+\music{Babul}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  Vandana (vandana_iyengar@hotmail.com)
+% Transliterator:
+% Date:  5/3/1997
+% Credits: Ikram Ahmed
+% Editor:
+% Comments: A Tribute to Kaifi Azmi 
+%
+\printtitle
+#indian
+%
+
+baiThe hai.n rahaguzar par dil kaa diyaa jalaaye
+shaayad vo dard jaane, shaayad vo lauT aaye
+baiThe hai.n rahaguzar par \threedots
+
+aakaash par sitaare chal chal ke tham ga_e hai.n
+shabanam ke sard aa.Nsuu phuulo.n pe jam ga_e hai.n
+ham par nahii.n kisii par ai kaash raham khaaye
+shaayad vo dard jaane, shaayad vo lauT aaye
+baiThe hai.n rahaguzar par \threedots
+
+raaho.n me.n kho ga_ii hai.n hasarat bharii nigaahe.n
+kab se lachak rahii hai.n aramaan kii narm baahe.n
+har mo.D par tamannaa aahaT usii kii paaye
+shaayad vo dard jaane, shaayad vo lauT aaye
+baiThe hai.n rahaguzar par \threedots
+
+%
+#endindian
+\endsong
+%

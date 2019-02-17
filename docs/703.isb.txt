@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham ne jo dekhe sapane, sach ho gae vo apane}%
+\film{Parivaar}%
+\year{1967}%
+\starring{Nanda, Jeetendra}%
+\singer{Lata, Mahendra Kapoor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham ne jo dekhe sapane, sach go gae vo apane
+o mere sAjanA din A gae hai.n pyAr ke
+mere sAjanA din A gae qarAr ke
+ham ne jo dekhe sapane \threedots
+
+aise hI sadA sajadhaj ke merI
+A.Nkho.n me.n raho javA.n tum
+mai.n sAyA ban ke sAth chalU.n
+mujhe le chalo jahA.n tum
+ham ne jo dekhe sapane \threedots
+
+ham janam janam ke sAthI hai.n
+pUjA hai prIt hamArI
+is janam me.n tumako pA hI liyA
+mai.n ho gaI tumhArI
+ham ne jo dekhe sapane \threedots
+%
+#endindian
+\endsong
+%

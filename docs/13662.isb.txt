@@ -1,0 +1,50 @@
+
+%
+\startsong
+\stitle{kal raat se ... meraa dil kuchh kahanaa chaahataa hai aap se}%
+\film{Plan}%
+\year{2003}%
+\starring{Sanjay Dutt, Priyanka Chopra, Dino Morea, Sameera Reddy, Sanjay Suri, Bikram Saluja, Rohit Roy, Riya Sen, Payal Rohatgi, Mahesh Manjrekar}%
+\singer{Kumar Sanu, Shreya Ghoshal}%
+\music{Anand Raaj Anand}%
+\lyrics{Praveen Bhardwaj}%
+%
+% Contributor: BOL ANAMOL #11821 [V S Rawat]
+% Producer: White Feather Films Pvt Ltd, Sanjay Gupta
+% Director: Hriday Shetty
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: SHFC 1/3430 Gold Stereo, Cost: Rs 55/-
+% website: www.planthefilm.com
+%
+\printtitle
+#indian
+%
+ku \:	 kal raat se \-2
+	he
+	meraa dil kuchh kahanaa chaahataa hai aap se \-3
+	kal raat se \-4		
+
+shre \:	meraa dil kuchh kahanaa chaahataa hai aap se \-2
+	kal raat se \-4		
+
+	dekho to kaisaa hai jaaduu mulaaqaat kaa
+	har mausam lagataa hai mausam barasaat kaa
+	o
+	yaado.n me.n aa_e tum nii.nde.n u.Daa_ii.n pyaar se
+	kahane ko tanahaa the baate.n bhii hu_ii.n yaar se
+ku \:	aisaa kyo.N lagaa jaise tum mere paas the
+	kal raat se \-4		
+
+	wo teraa musakaanaa wo kamasin adaa pyaar kii
+	kaise mai.n taariif karuu.N apane hasii.n yaar kii
+	o
+	bahake hai.n mere qadam kaisaa ye suruur hai
+	tum bolo naa bolo honaa to kuchh zaruur hai
+	ko_ii Kataa ho ga_ii hai hamase aapase
+	kal raat se \-4		
+
+	meraa dil kuchh kahanaa chaahataa hai aap se \-2
+%
+#endindian
+\endsong
+

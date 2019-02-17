@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{aa aa hame.n haal\-e\-dil tumase kahanaa hai}%
+\film{Chaubees Ghante}%
+\year{1958}%
+\starring{Premnath, Shakeela, K N Singh, Maruti, Shammi, Nishi, Satish Batra}%
+\singer{Talat, Asha}%
+\music{Bipin-Babul}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #11440 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ta \:	aa aa aa
+aa \:	huu.n huu.n huu.n
+ta \:	hame.n haal\-e\-dil tumase kahanaa hai
+aa \:	kahi_e
+ta \:	agar ho sake merii aa.Nkho.n me.n rahi_e
+
+aa \:	hame.n haal\-e\-dil tumase kahanaa hai
+ta \:	kahi_e
+aa \:	agar ho sake merii aa.Nkho.n me.n rahi_e
+
+	ye kaisii mujhe tuune dii beqaraarii
+	qasak miiThii\-miiThii lagan pyaarii\-pyaarii
+	o o o
+aa \:	ye kaisii mujhe \threedots
+ta \:	mohabbat me.n ye dard sahanaa hai
+aa \:	sahi_e
+ta \:	agar ho sake \threedots
+
+ta \:	zamaane kaa har jaal ha.Ns\-ha.Ns ke to.De.n
+	kabhii ham vafaa_o.n kaa daaman na chho.De.n
+aa \:	aa aa aa
+ta \:	zamaane kaa har \threedots
+aa \:	mohabbat kii maujo.n me.n bahanaa hai
+ta \:	bahi_e
+aa \:	agar ho sake \threedots
+do \:	hame.n haal\-e\-dil \threedots
+
+aa \:	( na mai.n hosh me.n huu.N na dil hosh me.n hai
+ta \:	ki tuu hii nigaaho.n ke aaGosh me.n hai ) \-2
+ta \:	mohabbat me.n madahosh rahanaa hai
+aa \:	rahi_e
+ta \:	agar ho sake \threedots
+aa \:	hame.n haal\-e\-dil \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+\startsong
+\stitle{duniyaa me.n nahii.n ... zamaanaa sach kahataa hai}%
+\film{Ambar}%
+\year{1952}%
+\starring{Nargis, Raj Kapoor, Agha, Vipin Gupta, Ramesh Sinha, Cukoo, Helen}%
+\singer{Lata, Rafi}%
+\music{Ghulam Mohemmad}%
+\lyrics{Shakeel}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	duniyaa me.n \-2
+	duniyaa me.n nahii.n ko_ii yaar wafaadaar
+	zamaanaa sach kahataa hai \-2
+	yahaa.N karanaa kisii se pyaar hai bekaar
+	zamaanaa sach kahataa hai \-2
+
+ra \:	dukh\-dard kaa hai baazaar ye sa.nsaar
+	zamaanaa sach kahataa hai \-2
+	milanaa hai yahaa.N dushwaar dil ko karaar
+	zamaanaa sach kahataa hai \-2
+
+la \:	kar gaye wo bhii hamase kinaaraa
+	jianko basaayaa man me.n
+	pyaar kii baazii jiit sakaa hai
+	ko_ii na is jiiwan me.n \-2
+	hotii hai yahaa.N har baar dil kii haar
+	zamaanaa sach kahataa hai \-2
+
+ra \:	qisamat ne majabuur banaakar
+	chhiin liyaa sukh hamase
+	kaayaa is qaid me.n aa kar
+	kaun bachaa hai Gam se \-2
+	chalate hai.n yahaa.N par waar Gam ke hazaar
+	zamaanaa sach kahataa hai \-2
+la \:	duniyaa me.n nahii.n ko_ii yaar wafaadaar
+	zamaanaa sach kahataa hai \-2
+
+#endindian
+\endsong

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tuu sach batalaa mujhe jogii}%
+\film{Joru Ka Bhai}%
+\year{1955}%
+\starring{Balraj Sahani, Sheila Ramani}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Vishwamitra Adil}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Credits:
+%
+\printtitle
+#indian
+%
+
+(jogii re)\-2
+tuu sach batalaa mujhe jogii
+balam se baat kab hogii
+(virah ke din kaTe.nge kab)\-2
+milan kii raat kab hogii
+tuu sach batalaa mujhe jogii
+
+(hai yaad mujhe, mile the gale)\-2
+Gamo.n se duur chaa.Nd tale
+(jo shaam dhale jo diip jale)\-2
+kabhii ye bhiigii palako.n me.n pyaar pale
+tuu sach batalaa mujhe jogii
+balam se baat kab hogii
+
+(jiyaa roye ha.Nse taare)\-2
+bane hai.n phuul a.ngaare
+(kiyaa kisane judaa hamako)\-2
+judaa_ii vaale tiir hame.n kaun maare
+tuu sach batalaa mujhe jogii
+balam se baat kab hogii
+
+%
+#endindian
+\endsong
+%

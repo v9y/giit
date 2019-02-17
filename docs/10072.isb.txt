@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{tum to saagar jaisii lag rahii ho}%
+\film{Aap Mujhe Achche Lagne Lage}%
+\year{2002}%
+\starring{Hritik Roshan, Ameesha Patel}%
+\singer{Alka Yagnik, Abhijit}%
+\music{Rajesh Roshan}%
+\lyrics{Ibrahim Ashq}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum to saagar jaisii lag rahii ho
+mere dil me.n pyaas hai
+kyaa pyaas hai ehasaas hai
+khul ke ye batalaa_iye
+ham to bahut naadaan hai.n
+kuchh aap samajhaa_iye
+
+saath apanaa hai gha.Diyaa.N suhaanii
+aa_o likh de.n na_ii ik kahaanii
+jo hai likhanaa tumhe.n in labo.n pe likho
+umr bhar jo rahegii nishaanii
+achchhaa zaraa mere pahaluu me.n aa_o
+tum to saagar jaisii \threedots
+
+sheraa rii raa sheraa rii raaraa
+dil se dil aaj aise mile hai.n
+pyaar kii had se aage chale hai.n
+mai.n bhii ik aag huu.N
+tuu bhii ik aag hai
+kitane shole badan me.n jale hai.n
+jaa_o na ab duur mujhse na jaa_o
+tum to saagar jaisii \threedots
+%
+#endindian
+\endsong
+

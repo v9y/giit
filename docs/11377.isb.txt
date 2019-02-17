@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{dil ke badale dil hii luu.Ngii}%
+\film{Daaku}%
+\year{1955}%
+\starring{Shammi Kapoor, Shashikala, Kuldeep Kaur, Anwar Hussain, Maya Das}%
+\singer{Mukesh, Asha}%
+\music{Snehal Bhatkar}%
+\lyrics{Manohar Khanna}%
+%
+% Contributor: BOL ANAMOL #11429 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa \:	dil ke badale dil hii luu.Ngii pyaar ke badale pyaar
+	banjaaran huu.N priit hai merii dodhaarii talavaar
+mu \:	banjaaraa huu.N aavaaraa mere pyaar kaa kyaa aitabaar
+	aaj yahaa.N kal vahaa.N kahii.n is dil ko nahii.n qaraar
+
+kisii ko apane dil me.n rakh le ( kisii ke dil me.n kho jaa ) \-2
+ho kisii ke dil me.n kho jaa
+kisii ek ko apanaa kar le ( kisii kaa ho jaa ) \-2
+ho kisii kaa ho jaa
+dil kaa saaz ba.Daa naazuk hai TuuT na jaa_e taar
+banjaaran huu.N \threedots
+
+tere ruup kii dhuup hai tiikhii mere pyaar kii chhaa.Nv suhaanii
+sholaa hai tuu shabanam hai tuu aag hai tuu ThaNDaa paanii
+banjaaran huu.N tiikhii nazare.n miiThaa meraa pyaar
+aag bhii huu.N paanii bhii mai.n dodhaarii talavaar
+banjaaran huu.N \threedots
+aa hoy dil ke badale \threedots
+%
+#endindian
+\endsong
+

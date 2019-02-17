@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{jo merii ruuh ko chain de ... zi.ndagii ban ga_e ho tum}%
+\film{Kasoor}%
+\year{2000}%
+\starring{Aftaab Shivdasani, Lisa Ray, Apurva Agnihotri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+jo merii ruuh ko chain de pyaar de vo khushii ban ga_e ho tum
+zi.ndagii ban ga_e ho tum zi.ndagii ban ga_e ho tum
+jo merii ruuh ko \threedots
+
+jism se jaan tak paas aate ga_e
+in nigaaho.n se dil me.n samaate ga_e
+jis hasii.n khvaab kii thii tamannaa mujhe
+haa.n vahii ban ga_e ho tum
+zi.ndagii ban ga_e ho tum \threedots
+
+har kisii se jise mai.n chhupaatii rahii
+bekhudii me.n jise gunagunaatii rahii
+maine tanhaa kabhii jo likhii thii vahii
+shaayarii ban ga_e ho tum
+zi.ndagii ban ga_e ho tum \threedots
+%
+#endindian
+\endsong
+

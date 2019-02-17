@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ai mere dil\-e\-naadaa.n, tuu Gam se na ghabaraanaa}%
+\film{Tower House}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc
+%          Kunal N Taravade (taravade@shark.ecn.purdue.edu)
+%          Prashant Kulkarni (praskulk@engin.umich.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ai mere dil\-e\-naadaa.n
+tuu Gam se na ghabaraanaa
+ek din to samajh legii
+duniyaa teraa afasaanaa
+ai mere dil\-e\-naadaa.n\threedots
+
+aramaan bhare dil me.n
+zakhmo.n ko jagah de de
+bha.Dake hue sholo.n ko
+kuchh aur havaa de de
+banatii hai to ban jaae
+ye zindagii afasaanaa
+ai mere dil\-e\-naadaa.n\threedots
+
+fariyaad se kyaa haasil
+rone se natiijaa kyaa
+bekaar hai.n ye baate.n
+in baato.n se hogaa kyaa
+apanaa bhii ghaDii bhar me.n
+ban jaataa hai begaanaa
+ai mere dil\-e\-naadaa.n\threedots
+%
+#endindian
+\endsong
+%

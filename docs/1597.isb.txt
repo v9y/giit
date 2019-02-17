@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{sakhii rii sun bole papiihaa us paar}%
+\film{Miss Mary}%
+\year{}%
+\starring{Gemini Ganeshan, Meena Kumari, Kishore}%
+\singer{Lata, Asha}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits:  Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          rec.music.indian.misc (USENET newsgroup) 
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Navin Kabra (navin@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+lataa:	sakhii rii sun bole papiihaa us paar     \- 2
+bolat aisii miiThii bolii chhe.De man ke taar
+(dono):	sakhii rii sun bole papiihaa us paar     \- 2
+
+lataa:	ga ma pa pa ma pa ga ma pa nii saa nii pa ma ga ma
+pa nii saa rii saa nii pa nii pa ma ga ma ga rii saa
+aashaa:	 pa nii saa rii saa nii pa nii pa ma ga ma ga rii saa
+
+lataa:	pii pii kii jab taan sunaae, birahan man ghabaraae
+aashaa:	pii pii kii jab taan sunaae, birahan man ghabaraae
+lataa:	bhuulii batiyaa.N yaad dilaae 
+aashaa:	bhuulii batiyaa.N yaad dilaae
+(dono):	paapii baarambaar
+sakhii rii sun bole papiihaa us paar     \- 2
+
+lataa:	ga ma ga saa nii saa da nii saa ga ma pa ga
+aashaa:	ga ma ga saa nii saa da nii saa ga ma pa ga
+lataa:	pa saa nii pa rii saa nii pa
+aashaa:	pa nii saa rii saa nii pa nii pa ma ga ma ga rii saa
+
+aashaa:   bairii aisii dhun me.n bole sun sun manavaa Dole
+lataa:   bairii aisii dhun me.n bole sun sun manavaa Dole
+aashaa:	kaano.N me.n amR^it ras ghole
+lataa:	kaano.N me.n amR^it ras ghole
+(dono):	rah rah madhur pukaar
+
+(dono):	sakhii rii sun bole papiihaa us paar     \- 2
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+% ITRANS SONG # 3339; Created on Jan 26, 2004
+%
+%      From: Surajit A. Bose (sbose@saintmarys.edu)
+%      Date: 2001-03-02 17:42:10 PST 
+% 
+\startsong
+\stitle{hamasafar saath apanaa chho.D chale}%
+\film{Aakhri Daao}%
+\year{1958}% 
+\starring{Shekhar, Nutan}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: March 2, 2001
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+ra \:	hamasafar saath apanaa chho.D chale
+	rishte naate vo saare to.D chale
+	hamasafar saath \threedots
+aa \:	hamasafar saath apanaa chho.D chale
+	rishte naate vo saare to.D chale
+	hamasafar saath \threedots
+
+ra \:	raasataa saaf thaa to chalate rahe
+	saath ha.Nsate rahe machalate rahe
+	mo.D aaya to muu.Nh ko mo.D chale
+	hamasafar saath \threedots
+	
+aa \:	sapane TuuTe pa.De hai.n raaho.n me.n
+	dard kii dhuul hai nigaaho.n me.n
+	dil pe qadamo.n ke naqsh chho.D chale
+	hamasafar saath \threedots
+	
+ra \:	jab unhe.n hamase pyaar hii na rahaa
+	roye.n kyaa, intazaar bhii na rahaa
+	ham bhii daaman ko ab nicho.D chale
+	hamasafar saath \threedots
+%
+#endindian
+\endsong
+%

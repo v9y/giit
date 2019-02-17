@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{meraa chimaTaa bole chhanak chhanak chhan}%
+\film{Chattaan Singh}%
+\year{1974}%
+\starring{Premnath, Vinod Mehra, Yogita Bali, Ajit, Aruna Irani}%
+\singer{Mukesh, Asha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11234 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	meraa chimaTaa bole chhanak chhanak chhan chhanak chhanak
+	meraa chimaTaa bole o bole
+	kabhii na milaanaa kahii.n akh naal akh
+	terii\-merii baat rahe tere\-mere tak
+aa \:	ho merii Dhaphalii bole Dhamak Dhamak Dham Dhamak Dhamak
+	ho merii Dhaphalii bole o bole
+	dil kii baat is dil me.n tuu rakh
+	terii\-merii baat \threedots
+mu \:	meraa chimaTaa bole \threedots
+
+aa \:	aaj mere naachane kaa Dha.ng dekh le \-2
+	ruup dekh ruup kii ( uma.ng dekh le ) \-2
+	ruup dekh le ra.ng dekh le ra.ng\-bira.nge Dha.ng dekh le
+	aur pyaar ke a.njaam kaa ( ra.ng dekh le ) \-2
+
+mu \:	are ret me.n kabhii na ko_ii phuul khilegaa \-2
+	chalatii havaa_o.n me.n na diip jalegaa
+	duniyaa me.n paap nahii.n phuule phalegaa
+	is pal karoge us pal milegaa \-2
+	are rahaa nahii.n ko_ii bhii durjan aaj tak
+	terii\-merii baat \threedots
+do \:	terii\-merii baat \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{mai.n to ek khvaab huu.N, is khvaab se tuu pyaar na kar}%
+\film{Himalay Ki God Mein}%
+\year{1965}%
+\starring{Mala Sinha, Manoj Kumar, Shashikala}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+mai.n to ek khvaab huu.N, is khvaab se tuu pyaar na kar
+pyaar ho jaae to, phir pyaar kaa izahaar na kar
+mai.n to ek khvaab huu.N \threedots
+
+ye havaae.n sabhii chupachaap chalii jaae.ngii
+lauT kar phir kabhii gulashan me.n nahii.n aae.ngii
+apane haatho.n me.n havaao.n ko gariftaar na kar \- 2
+mai.n to ek khvaab huu.N \threedots
+
+shaakh se TuuT ke gunche bhii kabhii khilate hai.n
+raat aur din bhii zamaane me.n kahii.n milate hai.n
+bhuul jaa jaane de taqadiir se taqaraar na kar \- 2
+mai.n to ek khvaab huu.N \threedots
+%
+#endindian
+\endsong
+%

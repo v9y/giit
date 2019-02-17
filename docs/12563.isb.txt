@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{maanaa terii nazar me.n teraa pyaar ham nahii.n}%
+\film{Khaandaan}%
+\year{1979}%
+\starring{Jeetendra, Sulakshana Pandit}%
+\singer{Sulakshana Pandit}%
+\music{Khaiyyam}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: BOL ANAMOL #10275 [V S Rawat]
+% Transliterator: 
+% Comments: Not in Khandan, but in Ashista Ahista - 1981, Released in both
+% 
+\printtitle
+#indian
+%
+maanaa terii nazar me.n teraa pyaar ham nahii.n
+kaise kahe.n ke tere talabagaar ham nahii.n
+
+tan ko jalaa ke Kaaq banaayaa bichhaa diyaa
+lo ab tumhaarii raah me.n diivaar ham nahii.n
+maanaa terii nazar me.n \threedots
+
+jisako nikhaaraa hamane tamannaa ke Kuun se
+gulashan me.n us bahaar ke haqadaar ham nahii.n
+maanaa terii nazar me.n \threedots
+
+dhokhaa diyaa hai khud ko mohabbat ke naam par
+ye kis tarah kahe.n ki gunahagaar ham nahii.n
+maanaa terii nazar me.n \threedots
+%
+#endindian
+\endsong
+

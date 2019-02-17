@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{parabat se kaalii ghaTaa Takaraa_ii  paanii ne kaisii ye aag lagaa_ii}%
+\film{Chaandani}%
+\year{1989}%
+\starring{Rishi Kapoor, Sridevi, Vinod Khanna, Waheeda Rahman, Juhi Chawla}%
+\singer{Asha, Vinod Rathod}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa aa parabat se kaalii ghaTaa Takaraa_ii paanii ne kaisii ye aag lagaa_ii
+haay aag lagaa_ii
+dil dene dil lene kii rut aa_ii
+parabat se kaalii ghaTaa \threedots
+
+maare sharam ke mai.n to simaT ga_ii
+chunarii merii mujhase lipaT ga_ii
+aise me.n tuune jo lii a.nga.Daa_ii
+aag lagaa_ii
+dil dene dil lene kii rut aa_ii
+parabat se kaalii ghaTaa \threedots
+
+mastii me.n aake mai.n jhuum luu.ngaa
+roko mujhe mai.n tumhe.n chuum luu.ngaa
+mastii me.n aake mai.n jhuum luu.ngii
+roko mujhe mai.n tumhe.n chuum luu.ngii
+chhe.Do naa mujhako yuu.n chho.Do kalaa_ii
+aag lagaa_ii
+dil dene dil lene kii rut aa_ii
+parabat se kaalii ghaTaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{zamaane ke dekhe hai.n ra.ng hazaar nahii.n kuchh sivaa pyaar ke}%
+\film{Sadak}%
+\year{1991}%
+\starring{Sanjay Dutt, Pooja Bhat}%
+\singer{Anuradha Paudwal, Abhijit}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+zamaane ke dekhe hai.n ra.ng hazaar nahii.n kuchh sivaa pyaar ke
+
+tuu hai sanam merii pahalii muhabbat tujh pe luTaa duu.n mai.n duniyaa kii chaahat
+zulfo.n ke saaye me.n jiinaa hai mujhako dil kii panaaho.n me.n rakhuu.ngaa tujhako
+is bekaraarii me.n aaye karaar
+nahii.n kuchh sivaa \threedots
+
+aa ke tuu lag jaa gale mere yaar
+nahii.n kuchh sivaa \threedots
+
+chaahat kaa ra.ngiin aramaan ban ke tum dil me.n rahanaa merii jaan ban ke
+terii muhabbar me.n mai.n huu.N diivaanii terii amaanat ye zi.ndagaanii
+har saa.Ns merii hai tujh pe nisaar
+nahii.n kuchh sivaa \threedots
+%
+#endindian
+\endsong
+

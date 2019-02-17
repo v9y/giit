@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{dil jigar nazar kyaa hai mai.n to tere li_e jaa.n bhii de duu.n}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Nawab Arzoo}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil jigar nazar kyaa hai mai.n to tere li_e jaa.n bhii de duu.n
+o merii jaan\-e\-jaa.n tuu hai meraa jahaa.N
+mai.n to tere li_e \threedots
+
+maine tujhako chaahaa isame.n merii khataa kyaa
+dil ne tujhako apanaa maanaa isakii sazaa kyaa
+o mere hamakadam chale.nge saath ham
+mai.n to tere li_e \threedots
+
+sun mastii me.n Duube ye mere taraane
+dil hai teraa diivaanaa lekin tuu na jaane
+o mere hamanashii.n karale meraa yaqii.n
+mai.n to tere li_e \threedots
+
+dil me.n laakho.n aramaa.n aa.Nkho.n me.n hai.n sapane
+tum ho ajanabii par ( lagate ho mujhako apane ) \-2
+tuu merii har Kushii tuu merii zindagii
+mai.n to tere li_e \threedots
+%
+#endindian
+\endsong
+

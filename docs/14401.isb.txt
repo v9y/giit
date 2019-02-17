@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tum bin jiyaa jaa_e kaise ... aa jaa_o lauT kar tum}%
+\film{Tum Bin}%
+\year{2001}%
+\starring{Priyanshu, Sandali Sinha, Rakesh, Himanshu}%
+\singer{Chitra}%
+\music{Nikhil Vinay}%
+\lyrics{Faiz Anwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tum bin kyaa hai jiinaa kyaa hai jiinaa
+tum bin kyaa hai jiinaa
+
+tum bin jiyaa jaa_e kaise
+kaise jiyaa jaa_e tum bin
+sadiyo.n se la.mbii hai.n raate.n
+sadiyo.n se la.mbe hu_e din
+aa jaa_o lauT kar tum ye dil kah rahaa hai
+
+phir shaam\-e\-tanhaa_ii jaagii phir yaad tum aa rahe ho
+phir jaa.n nikalane lagii hai phir mujhako ta.Dapaa rahe ho
+is dil me.n yaado.n ke mele hai.n tum bin bahut ham akele hai.n
+aa jaa_o lauT kar \threedots
+
+kyaa kyaa na sochaa thaa maine kyaa kyaa na sapane sajaa_e
+kyaa kyaa na chaahaa thaa dil ne kyaa kyaa na aramaa.n jagaa_e
+is dil se tuufaa.n gujarate hai.n tum bin to jiite na marate hai.n
+aa jaa_o lauT kar \threedots
+%
+#endindian
+\endsong
+

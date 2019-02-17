@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{ghuu.NghaT nahii.n kholuu.Ngii sai.nyaa tore aage}%
+\film{Mother India}%
+\year{1957}%
+\starring{Nargis, Rajkumar, Sunil Dutt, Rajendra Kumar, Kanhaiya Lal, Kumkum}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10643 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ghuu.NghaT nahii.n kholuu.Ngii sai.nyaa tore aage
+umar morii baalii sharam mohe laage
+ghuu.NghaT nahii.n \threedots
+
+mukh pe ghuu.NghaT naino.n me.n rasiyaa
+man hii man muskaa_uu.N  \-2
+dil kii batiyaa.N tuu hii samajh le
+mai.n kaise batalaa_uu.N \-2
+jiyaraa moraa laraje badan moraa kaa.Npe
+ghuu.NghaT nahii.n \threedots
+
+naache a.ng\-a.ng muralii kii dhun par
+gaa_e man matavaalaa \-2
+dil par more tuune balamavaa
+kaisaa jaaduu Daalaa \-2
+jiyaa ko more luuTaa baa.Nsuriyaa baja_ike
+ghuu.NghaT nahii.n \threedots
+%
+#endindian
+\endsong
+

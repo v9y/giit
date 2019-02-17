@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{tere dar pe aayaa huu.N kuchh kar ke jaa_uu.Ngaa}%
+\film{Laila Majnu}%
+\year{1976}%
+\starring{Rishi Kapoor, Ranjeeta}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Sahir}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+tere dar pe aayaa huu.N kuchh kar ke jaa_uu.Ngaa
+jholii bhar ke jaa_uu.Ngaa yaa mar ke jaa_uu.Ngaa
+mai.n tere dar pe aayaa huu.N \threedots
+
+tuu sab kuchh jaane hai har Gam pahachaane hai
+jo dil kii ulajhan hai sab tujh pe raushan hai
+ghaayal paravaanaa huu.N vahashii diivaanaa huu.N
+terii shoharat sun sun ke ummiide.n laayaa huu.N
+tere dar pe
+mai.n tere dar pe aayaa huu.N \threedots
+
+dil Gam se hairaa.N hai merii duniyaa viiraa.N hai
+nazaro.n kii pyaas bujhaa meraa bichha.Daa yaar milaa
+ab yaa Gam chhuuTegaa varanaa dam TuuTegaa
+ab jiinaa mushakil hai fariyaade.n laayaa huu.N
+tere dar pe
+mai.n tere dar pe aayaa huu.N \threedots
+
+%
+#endindian
+\endsong
+%

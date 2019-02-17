@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{maa.Ngii hai.n du_aa_e.N hamane sanam}%
+\film{Shikari}%
+\year{1963}%
+\starring{Ragini, Ajit, Helen}%
+\singer{Asha, Usha}%
+\music{G S Kohli}%
+\lyrics{Farooq Qaisar}%
+%
+% Contributor: BOL ANAMOL #11479 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+maa.Ngii hai.n du_aa_e.N hamane sanam
+is dil ko dha.Dakanaa aa jaa_e
+ik nazar\-e\-inaayat ho ham par
+kuchh hamako bahakanaa aa jaa_e
+maa.Ngii hai.n du_aa_e.N \threedots
+
+tum hamase mohabbat karate ho \-2
+ye baat agar tum kah do kabhii \-2
+phuulo.n ko barasanaa aa jaa_e \-2
+bijalii ko chamakanaa aa jaa_e
+maa.Ngii hai.n du_aa_e.N \threedots
+
+ham pii ke sharaab\-e\-ishq agar \-2
+mahafil me.n kisii din aa jaa_e.N \-2
+saaqii ko bahakanaa aa jaa_e \-2
+saaGar ko chhalakanaa aa jaa_e
+maa.Ngii hai.n du_aa_e.N \threedots
+%
+#endindian
+\endsong
+

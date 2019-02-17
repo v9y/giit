@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{haal yah kar diyaa zaalim tere ta.Dapaane ne}%
+\film{Panchaayat}%
+\year{1958}%
+\starring{Pandhari Bai, Shyama, Rajkumar}%
+\singer{Rafi, Geeta}%
+\music{Iqbal Qureshi}%
+\lyrics{Shakeel Numani}%
+%
+% Contributor: BOL ANAMOL #10253 [V S Rawat]
+% Transliterator: 
+% Comments: First hindi film of Iqbal Qureshi
+% 
+\printtitle
+#indian
+%
+ra \:	haal yah kar diyaa zaalim ( tere ta.Dapaane ne ) \-2
+	aag daaman me.n lagaa lii ( tere diivaane ne ) \-2
+
+gii \:	ye bhii Dar lagataa hai badanaam na ho jaa_e.N kahii.n
+	pyaar kii baate.n jo sun lii.n ( kisii begaane ne ) \-2
+ra \:	jiite rahanaa terii chaahat me.n ko_ii khel nahii.n
+	maar Daalaa mujhe zaalim ( tere samajhaane ne ) \-2
+	aag daaman me.n lagaa \threedots
+
+gii \:	jii to kahataa hai jii bhar ke tujhe pyaar karuu.N
+	par mujhe rok liyaa ( mere sharamaane ne ) \-2
+ra \:	rut na_ii aa_ii hai aur pyaar ke din laa_ii hai
+do \:	aur bhii kar diyaa jaaduu ( tere sharamaane ne ) \-2
+	aag daaman me.n lagaa \threedots
+%
+#endindian
+\endsong
+

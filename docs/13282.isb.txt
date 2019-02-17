@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{maine pii sharaab to tumane kyaa piyaa}%
+\film{Naya Rasta}%
+\year{1970}%
+\starring{Asha Parekh, Balraj Sahni, Jeetendra, Sujit Kumar, Veena, Farida Jalal}%
+\singer{Rafi}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10300 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+maine pii sharaab to tumane kyaa piyaa aadamii kaa Kuun
+mai.n zaliil huu.N tumako kyaa kahuu.N
+maine pii sharaab \threedots
+
+tum pi_o to Thiik ham pi_e.n to paap
+tum karo to puNy ham kare.n to paap
+ham tabaah\-haal ham faqiir log
+zindagii bhii rog maut bhii azaab
+maine pii sharaab \threedots
+
+tum kaho to sach ham kahe.n to jhuuTh
+tumako sab mu_aaf zulm ho ke luuT
+tumane kitane dil chaaq kar di_e
+maine to kiyaa khud ko hii Karaab
+maine pii sharaab \threedots
+
+riiti aur rivaaz sab tumhaare saath
+dharm aur samaaj sab tumhaare saath
+apane saath kyaa dhuul aur dhu_aa.n
+aane vaalaa daur legaa sab hisaab
+maine pii sharaab \threedots
+%
+#endindian
+\endsong
+

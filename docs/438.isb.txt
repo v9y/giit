@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dekhaa hai terii aa.Nkho.n me.n, pyaar hii pyaar beshumaar}%
+\film{Pyaar Hi Pyaar}%
+\year{1968}%
+\starring{Dharmendra, Vyjayantimala, Pran, Helen}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor:  
+% Transliterator: Anurag Acharya (Anurag_Acharya@DRAVIDO.SOAR.CS.CMU.EDU)
+% Credits: Rajan P. Parrikar (parrikar@spot.colorado.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+dekhaa hai terii aa.Nkho.n me.n pyaar hii pyaar beshumaar (2) 
+paayaa hai terii baato.n me.n pyaar hii pyaar beshumaar 
+dekhA hai terii aa.Nkho.n me.n 
+
+(e bahaaro.n kii parii
+ye hai taqadiir merii 
+jo bhI samajhaa hai mujhe 
+vo inaayat hai terii) \- (2) 
+dekhaa hai \threedots
+
+(mere achchhe the karam 
+jo mulaaqaat huI 
+meharabaa.N husn hu_aa
+kyaa ajab baat huI) \- (2) 
+dekhaa hai \threedots
+
+(mai.n ne sochaa bhii na thaa 
+mujhako mil jaayegii tuu
+jaise laharaaye sabaah 
+vaise laharaayegii tuu) \- (2) 
+dekhaa hai \threedots
+
+%
+#endindian
+\endsong
+%

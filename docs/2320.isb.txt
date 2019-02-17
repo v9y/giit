@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ek nazar bas ek nazar}%
+\film{Munimji}%
+\year{1955}%
+\starring{Dev Anand, Nalini Jaywant, Pran}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:
+% Date:02/07/2000
+% Comments: A Tribute to Sachin Dev Burman #11
+%
+\printtitle
+#indian
+%
+
+ek nazar bas ek nazar jaan\-e\-tamannaa dekh idhar
+ek nazar bas ek nazar
+  
+kuchh to bataa ai jaan\-e\-vafaa terii adaa sharamaatii hai kyo.n
+kuchh to bataa ai jaan\-e\-vafaa
+kuchh to bataa ai jaan\-e\-vafaa terii adaa sharamaatii hai kyo.n
+ha.Nsake lipaTatii thii jo gale se ab vo nazar kataraatii hai kyo.n
+pahale lagaanaa,
+pahale lagaanaa phir tarasaanaa Thiik nahii.n mere dil_bar
+ek nazar ek nazar
+  
+ham bhii hai.n tere diivaane dil bhii hai teraa diivaanaa
+ham bhii hai.n tere diivaane
+ham bhii hai.n tere diivaane dil bhii hai teraa diivaanaa
+ruuh ke soye taar jagaake chhe.D de aisaa afasaanaa
+dono.n jahaa.N se,
+dono.n jahaa.N se ham kho jaa_e.n kuch bhii rahe naa apanii khabar
+ek nazar ek nazar
+  
+ek nazar bas ek nazar jaan\-e\-tamanna dekh idhar
+ek nazar ek nazar
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{kahii.n chal naa de raat kaa kyaa Thikaanaa}%
+\film{Ek Sholaa}%
+\year{1958}%
+\starring{Pradeep Kumar, Mala Sinha, Nazir Husain, Javahar Kaul, Dhumal, Tuntun}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10567 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	kahii.n chal naa de raat kaa kyaa Thikaanaa
+	idhar aa_o zulfo.n me.n tumako chhipaa le.n
+ra \:	kahii.n dekh le phir na hamako zamaanaa
+	kaho to sitaaro.n ke diipak bujhaa de.n
+
+aa \:	ye raat aa_ii hai mil bhii lo chupake\-chupake
+	guzar jaa_e kab ye na jaane
+ra \:	nazar aaj milaa_e.N ham\-tum kuchh aisii
+	Thahar jaa_e.N jaate zamaane
+aa \:	nasiibo.n se milataa hai ye samaa.N
+	kahii.n dekh le phir \threedots
+
+ra \:	terii zulf chhuu lii to aavaaraa baadal
+	mahakane bahakane lagaa hai
+aa \:	jhukaa chaa.Nd kaa sar ghaTaa_o.n kaa aa.Nchal
+	sarakane Dhalakane lagaa hai
+ra \:	to phir chhe.D do dil kii daastaa.N
+	kahii.n chal na de \threedots
+%
+#endindian
+\endsong
+

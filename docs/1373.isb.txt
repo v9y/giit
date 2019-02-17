@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{o mere dil ke chain, chain aaye mere dil ko duaa kiijiye}%
+\film{Mere Jeevan Saathi}%
+\year{}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+o mere, dil ke chain, 
+chain aae mere dil ko duaa kiijiye
+
+apanaa hii saayaa dekh ke tum jaane jahaa.N sharamaa gae
+abhii to ye pahalii ma.nzil hai, tum to abhii se ghabaraa gae
+meraa kyaa hogaa, socho to jaraa
+haay aise naa aa.Nhe.n bharaa kiijiye
+o mere dil ke chain \threedots
+
+aapakaa aramaa.N aapakaa naam, meraa taraanaa aur nahii.n
+in jhukatii palako ke sivaa, dil kaa Thikaanaa aur nahii.n
+ja.nchataa hii nahii.n aa.Nkho me.n koI
+dil tumako hii chaahe to kyaa kiijiye
+o mere dil ke chain \threedots
+
+yuu.N to akelaa hii aqasar, gir ke sambhal sakataa huu.N mai.n
+tum jo paka.D lo haath meraa, duniyaa badal sakataa huu.N mai.n
+maa.ngaa hai tumhe.n duniyaa ke liye
+ab Kud hii sanam faisalaa kiijiye
+o mere dil ke chain \threedots
+%
+#endindian
+\endsong
+%

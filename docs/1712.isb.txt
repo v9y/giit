@@ -1,0 +1,79 @@
+%
+\startsong
+\stitle{terii mahafil me.n kismat aazamaa kar ham bhii dekhe.nge}% 
+\film{Mughal-e-Azam}%
+\year{}%
+\starring{Prithviraj Kapoor, Dilip Kumar, Madhubala}%
+\singer{Lata, Shamshad, chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: mprabhu@magnus.acs.ohio-state.edu
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: For those who haven't seen the movie or had seen it aeons 
+%           ago, here is the setting: Saleem (heir apparent to Akbar, the 
+%           Great) has returned after several years at the battle front and 
+%           is leading a somewhat relaxed life meant to freshen him up. He 
+%           gets to see Nadira (dubbed 'Anarkali' by Akbar) and it is love 
+%           at first sight between them. However, as usual, there is always 
+%           the third person - a rich, upper class girl called Bahaar who 
+%           cherishes Saleem's love and dreams of being the empress of the 
+%           golden empire. This song is set when the competition is just 
+%           beginning to heat up - Saleem is being entertained by both Bahaar 
+%           and Anarkali and both of them present their individual viewpoints 
+%           on what a true loving life should be like ...
+%
+%           Shamshaad Begum sings for Bahaar (Shashikala) and Lata sings 
+%           for Anarkali (Madhubala).
+%
+\printtitle 
+#indian
+%
+(aalaap)
+s: terI mahafil me.n kismat aazamaa kar ham bhI dekhe.nge 
+gha.Dii bhar ko tere nazadiik aakar ham bhI dekhe.nge \- 2 
+ajii haa.n ham bhI dekhe.nge \- 2 
+
+l: terI mahafil me.n kismat aazamaa kar ham bhI dekhe.nge 
+tere kadamo.n pe sar apanaa jhukaa kar ham bhI dekhe.nge \- 2 
+ajii haa.n ham bhI dekhe.nge \- 2 
+
+s: bahaare.n aaj paiGaam\-e\-mohabbat le ke aaii hai.n 
+ba.DI muddat me.n ummiido.n kii kaliyaa.n muskuraaI hai.n 
+ba.DI muddat me.n ajii haa.n 
+ba.DI muddat me.n ummiido.n kii kaliyaa.n muskuraaI hai.n 
+Gam\-e\-dil se jaraa daaman bachaakar ham bhI dekhe.nge \- 2 
+ajii haa.n ham bhI dekhe.nge 
+
+l: agar dil Gam se khaalii ho to jiine kA mazaa kyA hai 
+nA ho khuun\-e\-jigar to ashq piine kA mazaa kyA hai 
+nA ho khuun\-e\-jigar haa.n haa.n 
+nA ho khuun\-e\-jigar to ashq piine kA mazaa kyA hai 
+mohabbat me.n jaraa aa.Nsuu bahaakar ham bhI dekhe.nge \- 2 
+ajii haa.n ham bhI dekhe.nge 
+
+s: mohabbat karane vaalo kA hai bas itanaa hii afasaanaa 
+ta.Dapanaa chupake chupake aahe.n bharanaa ghuT ke mar jaanaa 
+ta.Dapanaa chupake chupake haa.n haa.n 
+ta.Dapanaa chupake chupake aahe.n bharanaa ghuT ke mar jaanaa 
+kisii din ye tamaashaa muskuraa kar ham bhI dekhe.nge \- 2 
+terI mahafil me.n kismat aazamaa kar ham bhI dekhe.nge 
+ajii haa.n ham bhI dekhe.nge 
+
+l: mohabbat hamane maanaa zindagii barabaad karatii hai 
+ye kyA kam hai ke mar jaane se duniyA yaad karatii hai 
+ye kyA kam hai ajii haa.n haa.N 
+ye kyA kam hai ke mar jaane se duniyA yaad karatii hai 
+kisii ke ishq me.n duniyA luTaakar ham bhI dekhe.nge \- 2 
+terI mahafil me.n kismat aazamaa kar ham bhI dekhe.nge 
+
+l: tere kadamo.n pe sar apanaa jhukaakar aa aa \threedots
+s: gha.Dii bhar ko tere nazadiik aakar aa aa \threedots
+dono.n: terI mahafil me.n kismat aazamaa kar ham bhI dekhe.nge 
+s: ajii haa.n ham bhI dekhe.nge 
+l: ajii haa.n ham bhI dekhe.nge 
+%
+#endindian
+\endsong
+%

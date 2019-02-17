@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{duniyaa me.n kitanii hai.n nafarate.n ... zi.ndaa rahatii hai.n unakii mohabbate.n}%
+\film{Mission Kashmir}%
+\year{2000}%
+\starring{Hritik Roshan, Snajay Dutt, Pretty Zinta, Jackie Shroff, Sonali Kulkarni, Puru Rajkumar}%
+\singer{Shankar Mahadevan, Jaspindar Narula, Sunidhi Chauhan}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Rahat Indori}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bumbaro bumbaro shaam ra.ng bumbaro
+aa_e ho kis bagiyaa se o o tum
+bha.nvare o shaam bha.nvare khushiyo.n ko saath laa_e
+meha.ndii kii raat me.n tum leke saugaat aa_e
+o kaajal kaa ra.ng laa_e nazare.n utaarane ko
+baago.n se phuul laa_e raste sa.Nvaarane ko
+aa_o meha.ndii kii chhaa.nv me.n giit sunaa_e.n bumbaro
+jhuume.n naache.n saaz uThaa_e.n jashn manaa_e bumbaro
+ho bumbaro bumbaro \threedots
+
+khil khil ke laal hu_aa meha.ndii kaa ra.ng aise
+gorii hatheliyo.n pe khilate ho.n phuul jaise 
+ye ra.ng dhuup kaa hai ye ra.ng chhaa.Nv kaa hai
+meha.ndii kaa ra.ng nahii.n maa.N kii du_aa_o.n kaa hai
+is meha.ndii kaa ra.ng hai sachchaa baakii saare jhuuThe
+haatho.n se ab meha.ndii kaa ra.ng kabhii naa chhuuTe
+o bumbaro bumbaro \threedots
+
+cha.ndaa kii paalakii me.n dil kii muraad laa_ii
+jannat kaa nuur leke meha.ndii kii raat aa_ii
+rukh pe saheliyo.n ke khvaabo.n kii roshanii hai
+sabhii du_aa_e.n maa.ngii rab ne kubuul kii hai
+ye haatho.n kii meha.ndii hai yaa shaam kii laalii
+chaa.nd sitaare lekar aa_e raat niraalii
+o cha.ndaa kii paalakii me.n \threedots
+%
+#endindian
+\endsong
+

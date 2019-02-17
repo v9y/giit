@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil le gayii le gayii}%
+\film{Dil To Paagal Hai}%
+\year{1997}%
+\starring{Shahrukh Khan, Madhuri Dixit, Karishma Kapoor}%
+\singer{Lata, Udit Narayan}%
+\music{Uttam Singh}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+tuuruu ruutuu tuuruu ruu ruu
+
+mujhako huii na khabar
+chorii chorii chhup chhup kar
+kab pyaar kii pahalii nazar, haay!
+le gayii le gayii, dil le gayii le gayii
+
+pyaar kii pahalii pahalii is aa.Nkh michaulii me.n
+bin soche jaa baiThii mai.n naino.n kii Dolii me.n
+abhii lagataa hai mujhako Darr
+chorii chorii chhup chhup kar
+kab pyaar kii pahalii nazar, haay!
+le gayii le gayii, dil le gayii le gayii
+
+bikharii bikharii zulfe.n, ye bahakii bahakii chaal
+haal ye meraa dekhe.nge, puuchhe.nge log savaal
+ab jaa_uu.N mai.n kause ghar
+chorii chorii chhup chhup kar
+kab pyaar kii pahalii nazar, haay!
+le gayii le gayii, dil le gayii le gayii
+
+%
+#endindian
+\endsong
+%

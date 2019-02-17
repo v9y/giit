@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{aake terii baaho.n me.n}% 
+\film{Vansh}%
+\year{}%
+\starring{Anupam Kher}%
+\singer{S P Balasubramaniam, Lata}%
+\music{Anand-Milind}%
+\lyrics{}%
+%
+% Contributor:  Prabhakar (prabhakv@mlw.ma.gmr.com)
+% Transliterator:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+Ake terI baaho.n me.n, har shaam lage sindUrI 
+mere man ko mahakaayA, mere man ko mahakaayA
+tere man kI kastUrI, Ake terI baaho.n me.n\threedots
+
+mahakI havaaye.n, u.DatA aa.nchal
+laT ghu.ngharaale, kaale baadal
+prem sudhA naino.n se barase, pii lene ko jiivan tarase
+bAho.n me.n dha.ns lene de, priit ke chumban dene de
+in adharo.n se chhalak na jaaye, in adharo.n se chhalak na jaaye
+yauvan ras angUrI, Ake terI baaho.n me.n\threedots
+
+priit \threedots bahatA saagar
+tere liye hai ruup ke baadal
+indradhanush ke ra.ng churaaU.N, terI zulmI maa.Ng sajAU.N 
+do phUlo.n ke khilane kA, vaqt yahI hai milane kA
+AjA milake aaj miTA de.n, AjA milake aaj miTA de.n
+tho.DI sI ye duurI, Ake terI baaho.n me.n\threedots
+%
+#endindian
+\endsong
+%

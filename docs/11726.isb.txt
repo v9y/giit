@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{kyaa kahatii hai.n merii aa.Nkhe.n diivaane mere sun hoy}%
+\film{Heraa Pheri}%
+\year{2000}%
+\starring{Akshay Kumar, Sunil Shetty, Tabbu, Paresh Raval, Om Puri}%
+\singer{Richa Sharma, Chorus}%
+\music{Lalit Sen, Bally Sagoo}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+are chhoraa are pyaar vaar karat ho are jaa re chhoraa
+tun tunak tun tun tunak tun tun tunak tun tun tunak tun tun
+tan tun tunak tun tun tunak tun tun tunak tun tun tunak tun tun
+
+kyaa kahatii hai.n merii aa.Nkhe.n diivaane mere sun hoy
+naa hai ko_ii mere jaisaa mere aashiq mujhako chun oy
+
+merii chaal pe mere husn pe hai.n saare paagal
+dekh zaraa mujhako ik nazar kar duu.ngii ghaayal
+kyaa ho gayaa dil kho gayaa haay mar ga_ii mai.n
+kyaa dard hai kyaa haal hai a_iyo Dar ga_ii mai.n
+ai tuune aisaa jaaduu jaane kyaa kar Daalaa
+bechainii hai chhaa_ii jhuume man matavaalaa
+mere dil me.n bajane lagii hai ab chaahat vaalii dhun
+Duub jaa merii aashiqii me.n tuu mere sapane bun
+haay
+kyaa kahatii hai.n merii aa.Nkhe.n
+naa hai ko_ii mere jaisaa
+diivaane mere sun hoy
+mere aashiq mujhako chun oy
+k k kyaa kahatii hai.n merii aa.Nkhe.n d d diivaane mere sun hoy
+%
+#endindian
+\endsong
+

@@ -1,0 +1,59 @@
+% 
+\startsong
+\stitle{chaahat na hotii, kuchh bhii na hotaa}%
+\film{Chahat}%
+\year{}%
+\starring{Shahrukh Khan, Pooja Bhatt, Anupam Kher, Naseeruddin Shah, Ramya}%
+\singer{Alka Yagnik, Vinod Rathod}%
+\music{Annu Malik}%
+\lyrics{Nida Fazli}%
+% 
+% Contributor: Anant Mathur
+% Transliterator: K Vijay Kumar
+% Editor: 
+% Date: 
+%
+\printtitle
+#indian
+%
+alkaa : chaahat nadiyaa, chaahat saaGar
+        chaahat dhat.rii, chaahat a.nbar
+vinod : chaahat raadhaa, chaahat giridhar
+
+alkaa : dil kaa dha.Dakanaa yahii chaahat hai
+        nii.nd na aanaa, yahii chaahat hai
+        chaahat na hotii, kuchh bhii na hotaa
+        mai.n bhii na hotii, tuu bhii na hotaa
+
+vinod : dil kaa dha.Dakanaa yahii chaahat hai
+        nii.nd na aanaa, yahii chaahat hai
+        chaahat na hotii, kuchh bhii na hotaa
+        tuu bhii na hotii, mai.n bhii na hotaa
+
+alkaa : tum mujhase alag kab ho mai.n tumase judaa kab huu.N
+        paanii me.n ka.Nval jaise, rahate ho mujh hii me.n tum
+vinod : dekhuu.N to tumhe.n dekhuu.N, sochuu.N to tumhe.n sochuu.N
+        saaGar me.n nadii aise, bahate ho mujh hii me.n tum
+alkaa : chaahat khushabuu, chaahat ra.ngat
+        chaahat muurat, chaahat kudarat
+vinod : chaahat ga.ngaa, chaahat jamunaa
+alkaa : hosh ga.Nvaanaa, yahii chaahat hai
+        jaan se jaanaa, yahii chaahat hai
+        chaahat na hotii, kuchh bhii na hotaa   \threedots
+
+alkaa : jab tuu nahii.n hotaa hai, us vaqt bhii har shah me.n
+        har giit mei.n har lay me.n, tuu nazar aataa hai
+vinod : haa.N bikharaa ke kabhii zulfe.n, chamakaa ke kabhii cheharaa
+        tum hii merii duniyaa ke din raat sajaate ho
+alkaa : chaahat ghuu.NghaT, chaahat dap.raN
+        chaahat sajanii, chaahat saajan
+vinod : chaahat puujaa, chaahat dash.ran
+alkaa : aa.Nkh bhar aanaa, yahii chaahat hai
+        jii ghabaraanaa, yahii chaahat hai
+        chaahat na hotii kuchh bhii na hotaa   \threedots
+
+%
+#endindian
+\endsong
+%
+

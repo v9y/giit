@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{o piyaa sun o pyaar kii madhur ba.Dii dhun}%
+\film{Jis Desh Mein Gangaa Rehtaa Hai}%
+\year{2000}%
+\starring{Govinda, Sonali Bendre, Rinki Khanna}%
+\singer{Sukhwinder Singh, Sadhana Sargam}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Pravin Bhardwaj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+o piyaa o piyaa sun o pyaar kii madhur ba.Dii dhun
+ho pahalii nazar me.n kar ke diivaanaa
+dhiire se phir mere dil me.n samaanaa
+kaisaa hai diivaanaapan ho
+o piyaa \threedots
+
+mai.n yaar husn tuu yaar ishq
+mai.n dhuup tuu merii chhai.nyaa.n
+mai.n teraa pyaar tuu meraa pyaar
+mai.n sajanii huu.N tuu sai.nyaa.n
+
+ho tuu yaar husn mai.n yaar ishq
+mai.n dhuup tuu merii chhai.nyaa.n
+mai.n teraa pyaar tuu meraa pyaar
+tuu  sajanii hai mai.n sai.nyaa.n
+chaahat ke sapane bun
+o o piyaa \threedots
+
+shabanam girii to kaliyaa.N khilii.n
+kyaa mahak uThaa hai gulashan
+shamaa jalii aur shab Dhalii
+teraa pyaar hu_aa hai roshan
+ye pyaar kaa hai shagun
+ho o piyaa \threedots
+%
+#endindian
+\endsong
+

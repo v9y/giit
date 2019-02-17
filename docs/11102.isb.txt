@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{mujhe kahate hai.n kalluu kavvaal ... teraa meraa saath rahegaa}%
+\film{Dulha Dulhan}%
+\year{1964}%
+\starring{Raj Kapoor, Sadhna, Agha, K N Singh, Raj Mehra, Madhumati}%
+\singer{Mukesh, Lata}%
+\music{Kalyanji Anandji}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mujhe kahate hai.n
+mujhe kahate hai.n kalluu kavvaal kalluu kavvaal
+ki teraa meraa teraa meraa saath rahegaa
+
+mai.n huu.N Thumarii to tuu hai Kayaal 
+teraa meraa teraa meraa saath rahegaa
+ho mujhe kahate hai.n \threedots
+
+raajaa mai.n giito.n kaa tuu sur kii raanii
+tuu sur kii raanii
+gaa ke sunaa_e.n ham apanii kahaanii
+apanii kahaanii
+tuu mere giito.n kii hai zi.ndagaanii
+tere giito.n me.n
+tere giito.n me.n hai vo kamaal o kalluu kavvaal
+teraa meraa \threedots
+
+suurat se pahachaane mujhako zamaanaa
+mujhako zamaanaa
+aavaaraa chhaliyaa anaa.Dii diivaanaa
+anaa.Dii diivaanaa
+kaisaa huu.N dil kaa kisii ne na jaanaa
+nahii.n duniyaa me.n
+nahii.n duniyaa me.n terii misaal o kalluu kavvaal
+teraa meraa \threedots
+%
+#endindian
+\endsong
+

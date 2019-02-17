@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{rappaa rappaa ram pam pam ... ##mummy papa## hamako pyaare}%
+\film{Do Hazaar Ek/ 2001}%
+\year{1998}%
+\starring{Jackie, Dimple, Tabu, Suresh Oberoi, Gulshan, Sadashiv, Deven Verma}%
+\singer{}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Manoj Darpan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+rappaa rappaa ram pam pam
+##mummy papa## hamako pyaare aur ##mummy papa## ko ham
+rappaa rappaa ram \threedots
+
+jab ko_ii bole ##mummy## se bachche hai.n pyaare
+##mummy## uThake subah hamaarii nazar utaare.n
+aur ye kahatii hai.n hamako ghar se baahar jaa_o kam
+##mummy papa## hamako \threedots
+
+##papa## hamako kahate hai.n suuraj aur cha.ndaa
+##mummy## hamako kahatii hai.n aa.Nkho.n ke taare
+har pal unakii aa.Nkho.n me.n jhilamil karate rahate ham
+##mummy papa## hamako \threedots
+
+##papa## maalii hai.n aur ##mummy## phuulo.n kii Daalii
+aur ye phulavaarii dono.n ne naazo.n se paalii
+dekho apanii bagiyaa me.n khushiyaa.n naache.n chham
+##mummy papa## hamako \threedots
+%
+#endindian
+\endsong
+

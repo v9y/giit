@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{luT gayaa mere sapano.n kaa Deraa}%
+\film{Pyar Ki Dastan}%
+\year{1961}%
+\starring{Ameeta, Suresh Kumar, Shobha Khote, Niranjan Sharma, Helen}%
+\singer{Rafi}%
+\music{Nashad}%
+\lyrics{Sarvar}%
+%
+% Contributor: BOL ANAMOL #10646 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+luT gayaa mere sapano.n kaa Deraa
+kaisaa i.nsaaf maalik ye teraa \-2
+
+phuul khilane na paa_e the dil ke
+ho ga_e ham judaa tumase mil ke
+kar liyaa Gam ne dil me.n baseraa
+luT gayaa mere \threedots
+
+khel duniyaa ne kaisaa ye khelaa \-2
+ho gayaa aaj saathii akelaa
+luT gayaa mere \threedots
+
+jhuk gayaa pyaar daulat ke aage
+pa.D ga_e kachche ulfat ke dhaage
+aur ta.Dapataa rahaa pyaar meraa
+luT gayaa mere \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,41 @@
+% 
+\startsong
+\stitle{madhuban khushabuu detaa hai}%
+\film{Saajan Bin Suhaagan}%
+\year{1978}%
+\starring{Nutan, Rajendar Kumar, Vinod Mehra, Padmini Kolhapuri}%
+\singer{Yesudas, Anuradha Paudwal}%
+\music{Usha Khanna}%
+\lyrics{Amit Khanna}%
+% 
+% Contributor: Saba Taqi <sat@dev.urel.berkeley.edu>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 06/12/1996
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Comments: 2 other solo versions by Yesudas and Usha Khanna
+%           Film released in 1978.
+%
+\printtitle
+#indian
+%
+madhuban khushabuu detaa hai, saagar saavan detaa hai
+jiinaa usakaa jiinaa hai, jo auro.n ko jiivan detaa hai
+madhuban \threedots
+
+suuraj na ban paae to, banake diipak jalataa chal \-2
+phuul mile.n yaa a.Ngaare, sach kii raaho.n pe chalataa chal \-2
+pyaar dilo.n ko detaa hai, ashko.n ko daaman detaa hai
+jiinaa usakaa jiinaa hai, jo auro.n ko jiivan detaa hai
+madhuban \threedots
+
+chalatii hai laharaake pavan, ke saa.Ns sabhii kii chalatii rahe \-2
+logo.n ne tyaag diye jiivan, ke priit dilo.n me.n palatii rahe \-2
+dil vo dil hai jo auro.n ko, apanii dha.Dakan detaa hai
+jiinaa usakaa jiinaa hai, jo auro.n ko jiivan detaa hai
+madhuban \threedots
+
+%
+#endindian
+\endsong
+%
+

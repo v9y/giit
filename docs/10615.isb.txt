@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{qadam ba.Dhaa_e jaa na Dar}%
+\film{Badaa Bhaai}%
+\year{1957}%
+\starring{Kamini Kaushal, Ajeet, Ameeta, Anant Kumar, Jayant, Kumkum, Tuntun}%
+\singer{Rafi}%
+\music{Nashad}%
+\lyrics{Ehsaan Rizvi}%
+%
+% Contributor: BOL ANAMOL #10609 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ko \:	qadam ba.Dhaa_e jaa na Dar qadam ba.Dhaa_e jaa 
+	hai paa.Nv tale tere zamii.n jag pe chhaa_e jaa
+
+ra \:	ye zindagii kii dhuup\-chhaa.Nv kyaa Daraa_egii
+ko \:	jale hu_e chaman me.n khud bahaar aa_egii
+ra \:	musiibate.n to aa_e.Ngii tuu muskaraa_e jaa
+	qadam ba.Dhaa_e jaa \threedots
+
+	alag na chal saathiyo.n se qadam milaa ke chal
+ko \:	a.Ndheraa chhaayaa ho jahaa.N di_e ban ke jal
+ra \:	na_ii zamii.n pe aasamaa.N nayaa banaa_e jaa
+	qadam ba.Dhaa_e jaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,60 @@
+%
+\startsong
+\stitle{kahanaa hii kyaa ye nain jo ek anjaan se jo mile}% 
+\film{Bombay}%
+\starring{Manisha Koirala, Arvind Swamy}%
+\singer{Chitra}%
+\music{A R Rahman}%
+\lyrics{Mehboob}%
+%
+% Contributor: Reeta Sinha (librs@emory.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+## in the background :## gumasum gumasum gupachup 
+
+gum\-sum, gum\-sum gup\-chup
+gum\-sum, gam gup\-chup 
+hal\-chal, hal\-chal ho gayii terI 
+ho.nTh hai tere chup 
+khal\-bal, khal\-bal ho gayii terI 
+baiThe.n hai.n gupachup 
+pyAraa\-pyAraa cheharaa lekar degayA ishaaraa 
+dekhaa terI aa.Nkho.n ne hai sapanaa koI pyAraa 
+hamase gorii nA tU sharamAo, aa kah de hamase zaraa \- 2 
+
+(kahanaa hii kyA ye nain jo ek anjaan se jo mile 
+chalane lage mohabbat ke jaise ye silasile  ##(background chorus ceases)## 
+aramaan naye aise dil me.n khile jinako kabhI mai.n nA jaanuu.n 
+vo hamase ham unase kabhI nA mile, kaise mile dil nA jaanuu.n
+ab kyA kare.n, kyA naam le.n, kaise unhe mai.n pukaaruu.n  ) \- 2
+
+ga ma pa ga aa 
+ga ma pa ni
+## ravi: and i loose it here 
+reeta: [all that stuff in the backgound : -) ## 
+
+pahalii najar me.n kuchh ham kuchh tum ho jaate.n hai yuu.n gum 
+naino se barasaae rim\-jhim, rim\-jhim hamape pyaar kA sAvan 
+sharm tho.Dii\-tho.Dii hamako aaye to nazare.n jhuk jaae.n 
+sitam tho.Daa\-tho.Daa hamape shok havaa bhI kar jaaye 
+aisI chalii aa.Nchal u.De dil me.n ek tuufaan uThe 
+ham to luT gaye kha.De hii kha.De 
+kahanaa hii kyaa \threedots
+
+cho: gumasum \threedots
+
+in ho.nTho.n ne maa.Ngaa saragam, saragam tU aur terA hii pyaar hai 
+aa.Nkhe.n DhU.nDhe hai jisako har dam, har dam tU aur terA hii pyaar hai 
+mahafil me.n bhI tanhaa hai dil aise, dil aise 
+tujhako kho nA de Darataa hai ye aise, ye aise 
+aaj milii aisI khushI jhuum uThii duniyA ye merI 
+tumako paayaa to paa_ii zindagii 
+kahanaa hii kyA \threedots
+%
+#endindian
+\endsong
+%

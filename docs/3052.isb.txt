@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{chale pavan kii chaal}%
+\film{Doctor}%
+\year{1941}%
+\starring{Pankaj Mullick, Ahinda Choudhary, Amar Mallick, Jyoti Prakash}%
+\singer{Pankaj Mullick}%
+\music{Pankaj Mullick}%
+\lyrics{Pradeep}%
+%
+% Contributor: David Windsor
+% Transliterator: 
+% Credits:
+%
+\printtitle
+#indian
+%
+chale pavan kii chaal, jag me.n chale pavan kii chaal
+yahii chaal hai jag sevaa kaa yahii jiivan sukhapaal
+ho chale pavan kii chaal \threedots
+
+is nagarii kii Dagar\-Dagar me.n
+laakho.n hai.n ja.njaal
+saKtii naramii sardii garmii
+ek saa.Nche me.n Dhaal
+ho chale pavan kii chaal, jag me.n \threedots
+
+duHkh kaa naash ho sukh kaa paalan
+dono.n bojh sambhaal
+chubhate kaa.NTe pis pis jaae
+phuul na ho paamaal
+chale pavan kii chaal, jag me.n \threedots
+
+kaT na sake yah lambaa rastaa
+kaTe hazaaro.n saal
+jahaa.N pahu.Nchane par dam TuuTe
+hai, vahii kaal akaal
+chale pavan kii chaal, jag me.n \threedots
+
+%
+#endindian
+\endsong
+%

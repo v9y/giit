@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{jab miyaa biivii me.n takaraar hotii hai}%
+\film{Jawaab Hum Denge}%
+\year{1987}%
+\starring{Shatrughan Sinha, Jackie Shrof, Sridevi, Kader Khan, Asrani}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mo \:	jab miyaa biivii me.n takaraar hotii hai
+	miyaa.n baahar hotaa hai biivii andar sotii hai
+anu \:	aisaa hii hotaa hai jab takaraar hotii hai
+	miyaa.n baahar hotaa hai biivii andar hotii hai
+
+mo \:	khi.Dakii khol khol daravaazaa
+	gussaa naa kar baahar aa jaa
+	jaise kahe mai.n tujhe manaa_uu.N
+	tere nakhare sabhii uThaa_uu.N
+	saarii pichhalii baate.n bhulaa de
+	puure karuu.Ngaa saare vaade
+	meraa kab insaaf karegii
+	kab tuu mujhako maaf karegii
+anu \:	jaan buujh ke jab aisii taqaraar hotii hai
+	samajhaane kii har koshish haa.N yuu.N bekaar hotii hai
+
+	aise shauhar se ta.ng aa_ii
+	kabhii mohabbat kabhii la.Daa_ii
+	jaanuu.n mai.n sab tere iraade
+	jhuuThe hai.n sab tere vaade
+	tuune kitanaa mujhe sataayaa
+	tuune kitanaa mujhe rulaayaa
+	ik ik baat kaa badalaa duu.Ngii
+	phir mai.n tujhase maaf karuu.Ngii
+mo \:	nok jho.nk to pyaar me.n sau baar hotii hai
+	pyaar aur ba.Dhataa hai jab taqaraar hotii hai
+
+	baahar gussaa andar pyaar
+anu \:	taubaa mai.n ga_ii tumase haar
+mo \:	ab naa hogii kabhii la.Daa_ii
+anu \:	tab na hogii kabhii judaa_ii
+mo \:	ek duuje pe jaan luTaa_e.n
+anu \:	ab ham saath ji_e.n mar jaa_e.n
+dono.n \:	pyaar me.n kisii kii jiit naa to haar hotii hai
+	pyaar bhare taqaraar kii ma.nzil to pyaar hotii hai
+mo \:	miyaa.n andar hotaa hai
+anu \: biivii bhii andar hotii hai
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{la.Dake ne la.Dakii ko chhe.Daa}%
+\film{Pyaar Koi Khel Nahin}%
+\year{1999}%
+\starring{Sunny Deol, Mahima Chaudhary, Apurva Agnihotri}%
+\singer{Abhijit, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chaachii chaachii chaachii chaachii
+la.Dake ne la.Dakii ko chhe.Daa to aisaa kyaa tuufaan ho gayaa ha haa
+he he he
+bujurgo.n khush ho jaa_o ke la.Dakaa javaan ho gayaa
+la.Dake ne \threedots
+
+nazar ko ulajhaane kii umar yahii hai
+bahakane Takaraane kii umar yahii hai
+sharm se khud ho jaa_e agar gulaabii
+to samajho la.Dake me.n hai ko_ii kharaabii
+jaldii se vaid ko dikhalaa_o javaan bezabaan ho gayaa
+la.Dake ne \threedots
+
+javaanii kii duniyaa hai chaar dinaa.n kii
+ye saarii chaa.Ndaniyaa hai chaar dinaa.n kii
+ye mausam kyaa hotaa hai khud se puuchho
+bujurgo.n apane biite din to socho
+la.Dakii jo biga.D jaa_e muqaddar meharabaan ho gayaa
+la.Dake ne \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,52 @@
+%
+\startsong
+\stitle{nain so nain naahii milaao}%
+\film{Jhanak Jhanak Paayal Baaje}%
+\year{1955}%
+\starring{Gopi Krishna, Sandhya}%
+\singer{Hemant, Lata}%
+\music{Vasant Desai}%
+\lyrics{Hasrat}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Surajit Bose
+% Comments: Based on Raag Malgunji
+%
+\printtitle
+#indian
+%
+
+nain so nain nAhI milAo \- 2
+dekhat sUrat Avat lAj, saiyyA.n
+pyAr se pyAr Ake sajAo \- 2
+madhur milan gAvat Aj, gu_iyA.n
+nain so nain \threedots
+
+aa \threedots
+khii.ncho kamAn mAro jI bAN
+rut hai javAn o mere prAN
+- ruk kyo.n gaye?
+tumane chorI kar lI kamAn
+kaise mArU.n prIt kA bAN, gu_iyA.n
+nain so nain \threedots
+
+rim jhim jhim gaaye jharano.n kii dhaar
+dil ko lubhaaye koyal pukaar
+ - nahii.n!
+ - to phir?
+jharano.n kii dhaaro.n me.n teraa sa.ngiit
+gaaye koyal teraa hii giit, guiyaa.N
+nain so nain \threedots
+
+nIle gagan pe jhUme.nge Aj
+bAdal kA pyAr dekhe.nge Aj
+bAdal naiyyA hai bijalI patavAr
+ham\-tum chal de.n duniyA ke pAr, saiyyA.n \threedots
+nain so nain \threedots
+
+%
+#endindian
+\endsong
+%

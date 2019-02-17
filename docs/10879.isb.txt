@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{khulii havaa me.n Dole re aaj meraa man bole re}%
+\film{Champaakali}%
+\year{1957}%
+\starring{Bharat Bhushan, Suchitra Sen, Shobha Khote}%
+\singer{Lata}%
+\music{Hemant Kumar}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10222 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+khulii havaa me.n Dole re aaj meraa man bole re
+
+dil kii davaa le ke aa_egaa saa.Nvariyaa
+badariyaa jo chhaa_ii sa.ndesavaa aisaa laa_ii
+ki sun\-sun mai.n to sharamaa_ii ghabaraa_ii
+kisii ne chorii\-chorii mere ghuu.NghaT ke paT khole re
+dil kii davaa le ke \threedots
+
+laaj kii maarii mai.n to hu_ii re baavariyaa
+mai.n a.Nkhiyaa.N jhukaa_uu.N yaa mukha.Daa chhupaa_uu.N
+samajh me.n na aa_e haay kit jaa_uu.N
+aaj kisii ne mujhe pukaaraa pyaar se haule\-haule re
+dil kii davaa le ke \threedots
+%
+#endindian
+\endsong
+

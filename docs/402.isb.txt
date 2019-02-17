@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{chhup gayaa koii re, duur se pukaar ke}%
+\film{Champakali}%
+\starring{Suchitra Sen, Bharat Bhushan}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+chhup gayaa koii re, duur se pukaar ke
+dard anokhe haay, de gayaa pyaar ke
+chhup gayaa \threedots
+
+aaj hai.n suunii suunii, dil kii ye galiyaa.N
+ban gaI.n kaa.NTe merii, khushiyo.n kii kaliyaa.N
+pyaar bhii khoyaa maine, sab kuchh haar ke
+dard anokhe haay, de gayaa pyaar ke
+chhup gayaa \threedots
+
+a.Nkhiyo.n se nii.nd gaI, manavaa se chain re
+chhup chhup roe mere, khoe khoe nain re
+haay yahii to mere, din the si.ngaar ke
+dard anokhe haay, de gayaa pyaar ke
+chhup gayaa \threedots
+%
+#endindian
+\endsong
+%

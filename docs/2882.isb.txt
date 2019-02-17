@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kahuu.N kaa se mai.n man kii baat}%
+\film{Subah Ka Tara}%
+\year{1954}%
+\starring{Pradeep Kumar, Jayshree}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: Srinivas Ganti
+% Comments:
+%
+\printtitle
+#indian
+%
+
+aa~ aa~ aa~ aa~
+kahuu.N kaa se mai.n
+kahuu.N kaa se mai.n man kii baat jiyaravaa haale Dole ho \-2
+ta.Dap siine me.n dil pe haath jiyaravaa haale Dole ho
+
+aa~ aa~ aa~ aa~
+
+khushii bhii ho rahii hai aa.Nkh bhii sharamaayii jaatii hai \-2
+kahe kaise koi ye dil kii lagii nahii.n batalaayii jaatii hai \-2
+nahii.n batalaayii jaatii hai, ye nahii.n batalaayii jaatii hai
+merii tamannaa hai mere saath jiyaravaa haale Dole ho
+kahuu.N kaa se mai.n
+kahuu.N kaa se mai.n man kii baat \threedots
+
+basatii hai naino.n kii galiyaa.N, hai.n ab jiivan me.n ra.ngaraliyaa.N \-2
+jhuum jhuum jhuum ke aayii bahaare.n kaise khilii hai.n ye kaliiyaa.N \-2
+hai.n ab jeevan me.n ra.ngaraliyaa.N
+din sunehare suhaanii hai raat jiyaravaa haale Dole ho
+kahuu.N kaa se mai.n
+kahuu.N kaa se mai.n man ki baat \threedots
+
+%
+#endindian
+\endsong
+%

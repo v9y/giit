@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil mere tuu diivaanaa hai paagal hai maine maanaa hai}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Kumar Sanu/ Chitra}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil mere tuu diivaanaa hai paagal hai maine maanaa hai
+pal pal aahe.n bharataa hai kahane se kyuu.n Darataa hai
+dil mere tuu diivaanaa \threedots
+
+khaamoshiyo.n kii jubaa.n ko_ii na samajhe yahaa.n
+saharaa me.n gul khilate nahii.n mil ke kabhii milate nahii.n
+jaane hai kisakii khataa
+anjaanii ye raahe.n ma.nzil kaa de.ngii pataa
+dil mere tuu diivaanaa \threedots
+
+nadiyo.n ko ehasaas hai saagar me.n bhii pyaas hai
+maanaa ke hai andheraa ghanaa kisane kiyaa tujhako manaa
+taaro.n kii shamaa jalaa
+sach hote sapane bhii maine hai aisaa sunaa
+dil mere tuu diivaanaa \threedots
+%
+#endindian
+\endsong
+

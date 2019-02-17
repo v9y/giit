@@ -1,0 +1,56 @@
+
+%
+\startsong
+\stitle{botal se ek baat chalii hai}%
+\film{Ghar}%
+\year{1978}%
+\starring{Vinod Mehra, Rekha}%
+\singer{Asha, Rafi}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #12174 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+aa \:	( botal se ik baat chalii hai
+	kaag u.Daa ke raat chalii hai ) \-2
+	ho
+	tu .Du .Du tu tu .Du .Du tu tu .Du tu tu \-2
+ra \:	ho
+	botal se ik baat chalii hai
+aa \:	tu .Du .Du
+ra \:	kaag u.Daa ke raat chalii hai
+
+aa \:	aaj kii may bahut miiThii hai
+	aaj to aa.Nkh milaa ke piinaa
+ra \:	chaa.nd kii misarii ghul jaayegii
+	chaa.Nd se ho.nTh lagaa ke piinaa
+
+aa \:	ho
+	tu .Du .Du tu tu .Du .Du tu tu .Du tu tu \-2
+ra \:	ho
+	botal se ik baat chalii hai
+	kaag u.Daa ke raat chalii hai
+aa \:	ho
+	botal se ik baat chalii hai
+	kaag u.Daa ke raat chalii hai
+
+ra \:	vaado.n waalii raat aayii hai
+	aaj kii raat inakaar naa karanaa
+aa \:	apane din aur raat naa puuchho
+	tumase jiinaa tumape maranaa
+
+	tu .Du .Du tu tu .Du .Du tu tu .Du tu tu \-2
+ra \:	ho
+	botal se ik baat chalii hai
+aa \:	tu .Du .Du
+ra \:	kaag u.Daa ke raat chalii hai
+aa \:	botal se ik baat chalii hai
+	kaag u.Daa ke raat chalii hai
+do \:	la la la la la
+%
+#endindian
+\endsong
+

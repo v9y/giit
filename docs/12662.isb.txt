@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{mere dosto.n mujhe aajakal na to chain hai}%
+\film{Laawaaris}%
+\year{1999}%
+\starring{Jackie, Dimple, Akshay Khanna, Manisha, Govind Namdeo, Parmeet Sethi}%
+\singer{Udit Narayan}%
+\music{Rajesh Roshan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dosto.n mujhe aajakal na to chain hai na karaar hai
+meraa sirf itanaa kusuur hai mujhe ek la.Dakii se pyaar hai
+mere dosto.n mujhe \threedots
+
+tumhe.n dil kaa haal sunaa_uu.n kyaa vo hai kaun tumako bataa_uu.n kyaa
+merii aarazuu kaa vo giit hai merii dha.Dakano.n kii pukaar hai
+mere dosto.n mujhe \threedots
+
+mere dil me.n jaise utar ga_ii.n vo hasii.n nigaahe.n kiran kiran
+merii saa.Ns saa.Ns mahak uThii ke vo la.Dakii jaise bahaar hai
+mere dosto.n mujhe \threedots
+
+kabhii sochataa huu.N vo duur hai kabhii sochataa huu.n vo paas hai
+mujhe halkaa halkaa saa hosh hai mujhe halkaa halkaa khumaar hai
+mere dosto.n mujhe \threedots
+%
+#endindian
+\endsong
+

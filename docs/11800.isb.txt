@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{ye ba.ndhan hai ishq kaa ... tere aage piichhe kahii.n}%
+\film{Hum To Mohabbat Karegaa}%
+\year{2000}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Kumar Sanu, Alka Yagnik, Ram Shankar, Chorus}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye ba.ndhan hai ishq kaa ba.ndhan paagal ye zid chho.D
+jo teraa hai jaa ke usii se dil kaa rishtaa jo.D
+
+tere aage piichhe kahii.n dil kho gayaa
+haay teraa dil meraa dil ho gayaa
+mai.n to samajhaa meraa hii nasiib so gayaa
+haay teraa dil meraa dil ho gayaa
+ho ab kyaa karuu.n aage kaho
+bas tum yuu.n hii lipaTe raho
+tere aage piichhe \threedots
+
+hamane kii naadaanii chho.Do bhii dilajaanii
+meraa yaar apanaa hai kyaa pyaaraa sapanaa hai
+ho tan man aapakaa hai sab ye janaab kaa hai
+kyaa hai khyaal teraa yahii hai savaal meraa
+ab ko_ii inkaar mushkil ho gayaa
+haay teraa dil \threedots
+
+sab kuchh aaj khone de jo bhii ho hone de
+maa.nguu.n jo dil chaahe rokuu.ngii mai.n kaahe
+ho aajaa to machal jaa_e.n saare jaaduu chal jaa_e.n
+jaise bhii ho.n ra.ng tere mai.n huu.N sa.ng sa.ng tere
+tuu mujhame.n mai.n tujhame.n shaamil ho gayaa
+haay teraa dil \threedots
+%
+#endindian
+\endsong
+

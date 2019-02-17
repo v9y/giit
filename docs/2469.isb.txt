@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{tere binaa jiyaa jaa_e naa}%
+\film{Ghar}%
+\year{}%
+\starring{Vinod Mehra, Rekha}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Nita
+% Transliterator: Nita
+% Date: 20th February 2000
+% Credits:
+% Editor:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tere binaa jiyaa jaa_e naa \- 2
+bin tere tere bin saajanaa
+saa.Ns me.n saa.Ns aa_e naa
+tere binaa \threedots
+
+jab bhii Kayaalo.n me.n tuu aa_e
+mere badan se Kushbuu aa_e
+mahake badan me.n rahaa na jaa_e
+rahaa jaa_e naa
+tere binaa \threedots
+
+reshamii raate.n roz na ho.ngii
+ye saugaate.n roz na ho.ngii
+zi.ndagii tujh bin raas na aa_e
+raas aa_e naa
+tere binaa \threedots
+
+%
+#endindian
+\endsong
+%

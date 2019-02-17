@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{qayaamat hai ye kaisii Gam kii shaam hai ye kaisii}%
+\film{Mr. Natwarlaal}%
+\year{1979}%
+\starring{Amitabh, Rekha}%
+\singer{Rafi, Anuradha}%
+\music{Rajesh Roshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10417 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	qayaamat hai \-4
+	ye kaisii Gam kii shaam hai ye kaisii
+ko \:	qayaamat hai \threedots
+
+ra \:	tuu piir hai faqiir hai
+	tere dar pe sar hai.n jhuke hu_e o
+	aa.Nkho.n me.n aa.Nsuu ruke hu_e
+a \:	ye barabaadii
+ko \:	aa
+a \:	hu_ii kaisii ye barabaadii 	hu_ii kaisii 
+	kis pe ye ilzaam hai \-2
+
+	savaal kaa javaab de kyo.n tere hote hu_e hai ye
+	ye du_aa hai yaa bad_du_aa hai ye
+ko \:	kyo.n tere hote hu_e ye
+	ye du_aa hai yaa bad_du_aa hai ye
+ra \:	basii bastii uja.D jaa_e \-2
+	kyaa apanaa ye anjaam hai kyaa apanaa
+	pukaar hai i.ntazaar hai
+
+a \:	kisii roz to ko_ii aa_egaa
+ra \:	ham sabakii jo biga.Dii banaa_egaa
+ko \:	kisii roz to ko_ii aa_egaa
+	ham sabakii biga.Dii banaa_egaa
+	chale aa_e yahaa.N
+ko \:	qayaamat hai \-2
+do \:	ab aage teraa kaam hai ab aage
+a \:	ye kaisii
+	Gam kii shaam hai \threedots
+%
+#endindian
+\endsong
+

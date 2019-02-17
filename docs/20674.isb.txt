@@ -1,0 +1,51 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{shaayad yahii to pyaar hai}%
+\film{Lucky - No Time For Love}%
+\year{2005}%
+\starring{Mithun Chakraborty, Salman Khan, Sneha Ullal}%
+\singer{Lata, Adnan Sami}%
+\music{Adnan Sami}%
+\lyrics{Sameer}%
+% 
+% Audio on: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 12 Feb 2005
+% Series: LATAnjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+a:  ik ajanabii saa ehasaas dil ko sataaye
+shaayad yahii to pyaar hai
+la: betaabiyo.n me.n dha.Dakan merii chain paaye
+shaayad yahii to pyaar hai
+a:  kuchh bhii kaho naa kuchh bhii suno naa phir bhii
+bechain dil hai hamaaraa
+bahake qadam hai.n mushkil me.n ham hai.n dekho
+sa.Nbhale bhalaa kaise yaaraa
+la: chaahe binaa hii nazadiik ham chale aa_e
+shaayad yahii to pyaar hai
+
+la: nazare.n bichhaa de.n pahare lagaa de.n dil pe
+par dil kisii kii na maane
+a:  kaa.NTo.n pe chalake sholo.n me.n jalake roke.n
+milake rahe.nge diivaane
+la: chaahat kii lau to aa.Ndhiyo.n me.n bhii jhilamilaaye
+shaayad yahii to pyaar hai
+
+a:  ye mulaaqaate.n ye terii aake baate.n
+ik pal na mai.n bhuul paa_uu.N
+la: itanii mohaabat hai kitanii chaaahat tum se
+kaise bhalaa mai.n bataa_uu.N
+a:  achchhaa lage jo tuu saaamne muskuraaye.n
+shaayad yahii to pyaar hai
+la: ik ajanabii saa ehasaas dil ko sataaye \threedots
+
+%
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ghir ghir ke aasamaa.N par}%
+\film{Bawre Nain}%
+\year{1950}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Rajkumari, Asha}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: Anant Rege
+% Comments: Vishwas Nerulkar's Swarasha lists this song as being a duet with
+%           Asha. A solo version by Rajkumari also exists. The film version
+%           is the duet.
+% Editor: 
+%
+\printtitle
+#indian
+%
+ghir ghir ke aasamaa.N par chhaane lagii ghaTaae.n
+kah do koii piyaa se paradesavaa na jaae.n
+
+qaabuu me.n dil nahii.n hai, na hosh me.n javaanii
+besudh banaa rahii hai.n mastii bharii havaae.n
+kah do koii piyaa se   \threedots
+
+terii ha.Nsii to jaakar phuulo.n me.n chhup gayii thii
+koyal kii kuuk banakar guu.Njii merii sadaae.n
+kah do koii piyaa se   \threedots
+
+tuu apanii o.Dhanii me.n man baa.Ndh le.n piyaa kaa
+phir naa unhe.n tuu bhuule na vo tumhe.n bhulaae.n
+kah do koii piyaa se   \threedots
+
+%
+#endindian
+\endsong
+%

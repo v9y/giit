@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chor sipaahii ke jhaga.De ... yuu.N ghuur ghuur ke nihaaraa}%
+\film{Zindagi Ek Juaa/ Life is a Gamble}%
+\year{1992}%
+\starring{Anil Kapoor, Madhuri, Suresh Oberoi, Shakti, Anupam, Amrish}%
+\singer{Kumar Sanu}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chor sipaahii ke jhaga.De me.n hogii kisakii jiit
+chor kisii ke miit yahaa.N na mor kisii ke miit 
+
+yuu.N ghuur ghuur ke nihaaraa na karo
+yuu.N duur duur duur se ishaaraa na karo
+aisii baate.n bhuul ke dobaaraa na karo
+
+chaaro taraf paharaa lagaa hai afasaraan kaa
+ye vaqt hai mere tumhaare intahaan kaa
+haa.N bahut kaThin hai Dagar panaghaT kii
+jhaTapaT bhar laa_o jamunaa se maTakii
+yuu.N ghuur ghuur ke \threedots
+
+( sabhii kii le.nge ye baarii baarii ye vardii vaale talaashii le.nge
+ho ko_ii majabuurii ko_ii laachaarii kisii ko bhii ye naa chho.De.nge ) \-2
+dekh ke cheharaa dil kii baate.n jaan le.n inakii aa.Nkhe.n
+inakii gaharii aa.Nkhe.n siidhe sabake dilo.n me.n jhaa.Nke.n
+harapal har xaN sabakii gardan suulii pe ( laTakii ) \-4
+bahut kaThin hai Dagar \threedots
+%
+#endindian
+\endsong
+

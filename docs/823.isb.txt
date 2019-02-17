@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{jab din hasiin, dil ho javaa.N}%
+\film{Adaalat}%
+\year{1958}%
+\starring{Nargis, Jeevan}%
+\singer{Rafi, Asha}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Rajan Parrikar (parrikar@spot.colorado.edu)
+% Transliterator: Anurag Acharya (anurag_acharya@cs.cmu.edu)
+% Credits: Neha Desai
+% Editor:  
+%
+\printtitle
+#indian
+%
+ra: jab din hasI.n 
+aa: dil ho javA.N 
+ra: kyo.N nA manaaye pikanik 
+ra: jab din hasI.n dil ho javaa.N kyo.N na manaaye.n pikanik 
+aa: sIne me.n aag ho.nTho.n pe raag milajula ke gAye.n pikanik 
+
+ra: o \threedots sAIkal savAr bA.Ndhe kaTAr lo ham chale 
+aa: ye \threedots ja.ngal ke paar hirano.n kI dhAr jaise chale 
+ko: hip hip hure.r! 
+dono: mausam pe ra.ng dil me.n uma.ng phir kyo.n nA jaaye.n pikanik 
+
+ra: o \threedots pAnI kA shor laharo.n kA jor aa to.D de.n 
+aa: O \threedots tUphAn me.n naav milajula ke Ao sab chho.D de.n 
+ko: hip hip hure.r! 
+dono: saahil pe dUr jaake huzUr aisI jamAye.n pikanik 
+
+ra: o \threedots ye din ajIb hamatum karIb hAy phir kahA.N 
+aa: o \threedots mastI ke khel aapas kA mel hAy phir kahA.N 
+ko: hip hip hure.r! 
+zulfo.n ke Daal u.Date rumaal ra.ngI.n banAye.n pikanik 
+%
+#endindian
+\endsong
+%

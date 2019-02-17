@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{kyaa ye sach hai tumako bhii mujhase pyaar ho gayaa}%
+\film{Dillagi}%
+\year{1999}%
+\starring{Sunny Deol, Bobby Deol, Urmila Matondkar}%
+\singer{Shankar Mahadevan, Mahalaxmii}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he he he he he he he
+kyaa ye sach hai tumako bhii mujhase pyaar ho gayaa
+nigaaho.n ne jo kahaa nigaaho.n ne jo sunaa
+sach hai kyaa bolo zaraa
+
+sharamaa_ii sii hai.n aa.Nkhe.n magar ho.NTho.n pe halkii ha.Nsii hai
+akhir tumhaare a.ndaaz me.n kyaa baat hai jo chhupii hai
+bechain huu.n mai.n ke tumase sunuu.n mai.n
+dil me.n tumhaare hai kyaa
+sach hai kyaa bolo zaraa
+
+kaise bataa_uu.n kaise kahuu.n mere li_e kaun ho tum
+tumase milii hai ma.nzil mujhe varanaa mai.n hone ko thii gum
+tum saath laa_e mohabbat ke saa_e Kvaabo.n ke jaisii fizaa
+haa.n sach kahaa sach kahaa 
+haa.N ye sach hai tumase hii mujhako pyaar ho gayaa
+nigaaho.n ne jo kahaa nigaaho.n ne jo sunaa
+haa.n sach kahaa sach kahaa 
+
+o pyaar me.n Duubii ye dha.Dakane.n pahale hii mujhako sunaatii.n
+raste me.n Thokar lag jaa_e to lagatii hai der aate aate
+ab jo saath hai.n ham kyuu.n ho ko_ii Gam
+ab jo saath hai.n ham to kyuu.n ho ko_ii Gam
+jo bhii hu_aa so hu_aa
+kyaa ye sach hai 
+haa.N ye sach hai
+tumako bhii mujhase pyaar ho gayaa
+tumase hii mujhako pyaar ho gayaa
+nigaaho.n ne jo kahaa
+nigaaho.n ne jo sunaa
+sach hai kyaa
+haa.n sach kahaa
+sach hai kyaa bolo zaraa
+haa.n
+%
+#endindian
+\endsong
+

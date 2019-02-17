@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+\startsong
+\stitle{dil par sau\-sau baar chalaaye naino.n waale tiir ho}%
+\film{Aabshaar/ Waterfall}%
+\year{1953}%
+\starring{Nimmi, Rajkumar, Kuldip, Nigar Sultana, Ashok Kumar, Shyama}%
+\singer{Munawwar Sultana, Other Voice}%
+\music{Ghulam Haidar}%
+\lyrics{Qateel Shifai}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+mu \:	dil par sau\-sau baar chalaaye naino.n waale tiir ho
+	is chhorii kii dhuum machii hai kaabul aur kashmiir ho
+	kaabul aur kashmiir ho
+
+ko \:	dil par sau\-sau baar chalaaye naino.n waale tiir ho
+	is chhorii kii dhuum machii hai kaabul aur kashmiir ho
+	kaabul aur kashmiir ho
+	hoy
+
+mu \:	sakhii hamaarii na_ii navelii jaise baaG me.n khilii chamelii
+ko \:	ho ho
+	sakhii hamaarii na_ii navelii jaise baaG me.n khilii chamelii
+mu \:	dekhe jisako bhar ke nazar wo
+	dekhe jisako bhar ke nazar wo ho jaaye dilagiir wo
+ko \:	is chhorii kii dhuum machii hai kaabul aur kashmiir ho
+	kaabul aur kashmiir ho
+	hoy
+
+mu \:	sab duniyaa is par lalachaaye par ye kisii ke haath na aaye
+ko \:	ho ho
+	sab duniyaa is par lalachaaye par ye kisii ke haath na aaye
+
+% the version I had ends here abruptly
+
+#endindian
+\endsong

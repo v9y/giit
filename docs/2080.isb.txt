@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{ham ho.nge kaamayaab}%
+\film{}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Veena Nayak
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor:
+% Comments :
+%
+\printtitle
+#indian
+%
+ham ho.nge kaamayaab (3)
+ek din
+o ho  man me.n hai vi{sh}vaas
+puuraa hai vi{sh}vaas
+ham ho.nge kaamayaab ek din
+
+nahii.n Dar kisiikaa aaj (3)
+ek din   \threedots
+
+hogii shaanti chaaro.n or (3)
+ek din   \threedots
+
+%
+#endindian
+\endsong
+%

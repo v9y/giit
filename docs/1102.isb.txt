@@ -1,0 +1,62 @@
+% 
+\startsong
+\stitle{mai.n ek chor tuu merii raanii}%
+\film{Raja Rani}%
+\year{1973}%
+\starring{Rajesh Khanna, Sharmila Tagore}%
+\singer{Kishore, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Himanshu Gupta <hgupta@DB.Stanford.EDU>
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 10/28/1996
+%
+\printtitle
+#indian
+%
+ki: mai.n ek chor tuu merii raanii	\- 2
+    chorii\-chorii le chalaa 
+    mai.n tumako tumase hii churaake
+    mai.n ek chor tuu merii raanii	\- 2
+
+(sharmilaa: chor nahii.n)
+
+la: tuu meraa raajaa mai.n terii raanii	\- 2
+    chal pa.Dii mai.n saath tere
+    saarii duniyaa ko bhulaake
+    tuu meraa raajaa mai.n terii raanii
+    tuu meraa raajaa \threedots
+
+la: (ham dono.n me dekhaa hai ek sapanaa
+     kahii.n pe chhoTaa sa ek ghar hai apanaa	\- 2
+     o o\threedots
+
+ki: aa.Ngan me.n utarii hai.n chaa.Ndanii raate.n
+    ham baithe karate hai.n prem kii baate.n
+    ye baate.n, ye raate.n bhuul jaae.n ham
+    to hame.n yaad dilaanaa, ho bhuul na jaanaa
+    (sharmilaa: kyaa?)
+    mai.n ek chor tuu merii raanii
+    chorii\-chorii \threedots
+
+ki: (kismat ne to hamako dukh hii baa.Nte
+     apane raste me.n bikharaae kaa.NTe)	\-2
+
+la: ho, hamane sajaa_ii pyaar se apanii ga.iyaa.N
+    kaa.NTe chun\-chun ke bikharaa_ii kaliyaa.N
+    ye kaliyaa.N ye galiyaa.N bhuul jaae.n ham
+    to hame.n yaad dilaanaa, ho, bhuul na jaanaa
+    (raajesh: kyaa?)
+    tuu meraa raajaa mai.n terii raanii
+    chal pa.Dii \threedots
+
+ki: mai.n ek chor \threedots
+
+la: tuu meraa raajaa
+ki: tuu merii raanii
+%
+#endindian
+\endsong
+%
+

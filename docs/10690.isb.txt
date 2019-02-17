@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{meraa naam abdul rahamaan pistaa vaalaa}%
+\film{Bhaai Bhaai}%
+\year{1956}%
+\starring{Ashok Kumar, Nirupa Roy, Kishore, Shyama, Nimmi}%
+\singer{Kishor, Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: BOL ANAMOL #10557 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	meraa naam abdul rahamaan pistaa vaalaa mai.n huu.N paThaan
+	khaane vaale kaa dil hotaa gul\-gul vaah re vaah\-vaah
+
+	lo jii bhaa_ii saahab hamaaraa pistaa bahut achchhaa
+	lo jii mem saahab hamaaraa pistaa bahut achchhaa
+	khaa ke dekho ##very very good## meraa chaaralii baadaam pistaa
+
+la \:	abdul rahamaan kii mai.n abdul rahamaniyaa
+	yahii meraa sonaa\-chaa.Ndii yahii merii duniyaa
+	Kush huu.N mai.n chaahe mujhe rakhe jis haal me.n
+	ba.ngale me.n koThii me.n yaa TuuTii\-phuuTii chaal me.n
+	chaa.Nd hai ye meraa mai.n huu.N isakii cha.ndaniyaa
+
+	hinduu khaa_e muslim khaa_e khaa_e sikh iisaa_ii
+	meraa pistaa khaane vaale hindii bhaa_ii\-bhaa_ii
+	ma.ndir ho maszid ho yaa sikho.n kaa gurudvaaraa
+	sabako allaah kaa ghar samajhe kaabul kaa banjaaraa
+
+ki \:	lo bhaa_ii pistaa lo baadaam achchhaa maal aur sastaa daam
+	apanii jaanii duniyaa faanii baaqii hai allaah kaa naam
+	meraa naam abdul rahamaan \threedots
+%
+#endindian
+\endsong
+

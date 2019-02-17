@@ -1,0 +1,45 @@
+
+%
+\startsong
+\stitle{tumhaare li_e hu_e badanaam na bhuule phir bhii}%
+\film{Shabnam}%
+\year{1949}%
+\starring{Dilip Kumar,Kaamini Kaushal}%
+\singer{Mukesh, Shamshad}%
+\music{S D Burman}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10441 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	tumhaare li_e hu_e badanaam
+	na bhuule phir bhii tumhaaraa naam
+	tum jaano yaa na jaano ( tumhaarii marzii ) \-2
+
+sha \:	jaa_o jii jaa_o aa_e ba.De ( mohabbat karane vaale ) \-2
+	hame.n chho.D kar biich nadii me.n ( paar utarane vaale ) \-2
+mu \:	chaahe laakho.n do ilzaam
+	ham to kab se bane gulaam
+	tum maano yaa na maano ( tumhaarii marajii ) \-2
+
+sha \:	tum paradesii paradesii 
+	tum paradesii tum harajaa_ii phir kyaa hamase mel
+	jaa_o jaa kar aur kisii se khelo pyaar kaa khel
+mu \:	hame.n auro.n se kyaa kaam
+	tumhaare binaa nahii.n aaraam
+	tum jaano yaa na jaano ( tumhaarii marzii ) \-2
+
+sha \:	tum bhii zaraa jalane kaa mazaa lo ( hame.n jalaane vaale ) \-2
+	ham kyaa jaane.n kaun ho tum o ( hame.n manaane vaale ) \-2
+mu \:	ham to aa_e.Nge subah\-shaam
+	ham to kare.nge roj salaam
+	pahachaano naa pahachaano ( tumhaarii marzii ) \-3
+	tumhaare li_e hu_e badanaam \threedots
+%
+#endindian
+\endsong
+

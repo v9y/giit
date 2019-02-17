@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tumhaare bagair jiinaa kyaa}%
+\film{Mann/ Listen To Your Heart}%
+\year{1999}%
+\starring{Aamir Khan, Manisha Koirala, Anil Kapoor}%
+\singer{Aamir Khan}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tumhaare bagair jiinaa kyaa jiine kaa Kvaab bhii nahii.n dekh sakataa
+saa.Nso.n ke binaa shaayad kuchh pal mai.n jii sakataa huu.n
+lekin tumhaare binaa nahii.n
+tum haa.N tum vo pahalii la.Dakii ho jise mai.n zi.ndagii se ba.Dhakar
+chaahane lagaa huu.N
+meraa aaj meraa kal mere din mere pal
+sirf tumhaare dam se hai.n
+merii puujaa me.n merii du_aa_o.n me.n
+merii Kaamoshiyo.n me.n merii sadaa_o.n me.n sirf tum ho sirf tum
+taare TuuT jaa_e.nge chaa.Nd bujh jaa_egaa
+vaqt yahii.n Thahar jaa_egaa lekin
+lekin ummiid kii aakharii kiraN bujhane tak
+aakharii saa.Ns chalane tak mai.n tumhaaraa rastaa dekhuu.ngaa
+tumhaaraa intazaar karuu.ngaa
+haa.n priyaa mai.n tumhaaraa intazaar karuu.ngaa
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{terii tasaviir ko siine se lagaa rakhaa hai}%
+\film{Saavan Ko Aane Do}%
+\year{1979}%
+\starring{Arun Govil, Zarina Wahaab, Rita Bhaduri}%
+\singer{Yesudas}%
+\music{Rajkamal}%
+\lyrics{Fauq Jaami}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+% Credits: 
+%
+\printtitle
+#indian
+%
+pothii pa.Dh pa.Dh jag mu_aa, paNDit bhayaa na koy
+Dhaa_ii akshar prem kaa, pa.Dhe so paNDit hoy
+
+terii tasaviir ko siine se lagaa rakhaa hai
+hamane duniyaa se alag gaa.Nv basaa rakhaa hai
+terii tasaviir ko   \threedots
+
+merii kismat kii lakiiro.n ko sajaayaa tuune
+ek naachiiz ko fanakaar banaayaa tuune
+mai.n ne har bol teraa dil me.n sajaa rakhaa hai
+hamane duniyaa se   \threedots
+
+tujhako din raat khayaalo.n me.n hai puujaa mai.n ne
+tere pairo.n ke nishaa.N par kiyaa sajadaa mai.n ne
+bandagii me.n tere sar ab bhii jhukaa rakhaa hai
+hamane duniyaa se   \threedots
+
+mai.n ne giito.n se chhavi terii banayii baraso.n
+duur rah kar tujhe aavaaz sunaayii baraso.n
+kis liye tuu ne mujhe Gair banaa rakhaa hai
+ham ne duniyaa se \threedots
+
+%
+#endindian
+\endsong
+%

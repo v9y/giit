@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{mere dil bataa ... jahaa.N vo la.Dakii mil jaa_e}%
+\film{Badhaai Ho Badhaai}%
+\year{2002}%
+\starring{Anil Kapoor, Shilpa Shetty, Kirti Reddy, Amrish Puri, Kadar Khan}%
+\singer{Sonu Nigam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+haay mere dil bataa mere dil bataa tujhako to hogaa pataa
+jahaa.N vo la.Dakii mil jaa_e har duurii miT jaa_e
+hai kaun saa vo rastaa ##so nice##
+mere dil bataa \threedots
+
+jis la.Dakii se pyaar hai mujhe
+kyaa vo mujhe pyaar karegii
+mere khvaabo.n kii tasviiro.n me.n
+kyaa vo la.Dakii ra.ng bharegii
+kyaa kabhii nahii.n ye hogaa
+kyaa kabhii kahii.n ye hogaa
+kyaa lagataa hai kyaa honaa hai
+achchhaa hogaa yaa buraa
+ho mere dil bataa \threedots
+
+mere dil jo tamannaa hai merii
+kyaa puurii ho paa_egii
+mai.n jisakaa diivaanaa huu.N vo
+kyaa merii ho jaa_egii
+ham dono.n kyaa saath ho.nge
+kyaa haatho.n me.n haath ho.nge
+kyaa lagataa hai kyaa honaa hai
+mere dil mujhase naa chhupaa
+haay mere dil bataa \threedots
+%
+#endindian
+\endsong
+

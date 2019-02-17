@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{hamako hu_aa hai pyaar bataa_o ham kyaa kare.n}%
+\film{Sainik}%
+\year{1993}%
+\starring{Akshay Kumar, Ronit Roy, Ashwini Bhave, Farheen, Aloknath, Satish Shah}%
+\singer{Alka Yagnik, Vinod Rathod}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamako hu_aa hai pyaar bataa_o ham kyaa kare.n
+ab jiinaa hu_aa dushvaar bataa_o ham kyaa kare.n
+hamako hu_aa hai pyaar \threedots
+
+hamane tumhe.n dekhaa sanam dil diivaanaa ho gayaa
+aa.Nkh la.Dii baat ba.Dhii chain kahii.n kho gayaa
+hamako mohabbat me.n milii.n itanii bekaraariyaa.N
+ab to sahii jaa_e.n na kahii.n tho.Dii sii bhii duuriyaa.N
+are nainaa hu_e hai.n chaar bataa_o ham kyaa kare.n
+hamako hu_aa hai pyaar \threedots
+
+ko_ii yahaa.N kuchh bhii kahe ham nahii.n maane.nge
+dard\-e\-jigar kyaa hai sanam log nahii.n jaane.nge
+saaraa jahaa.N bhuul ga_e ham diivaanepan me.n
+hamane basaayaa hai tumhe.n dilarubaa darpaN me.n
+lo hamane kiyaa ikaraar bataa_o ham kyaa kare.n
+hamako hu_aa hai pyaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{khilaa.Dii ##international## khilaa.Dii ... golii maar yaa kar le pyaar}%
+\film{International Khilaadi}%
+\year{1999}%
+\starring{Akshay Kumar, Twinkle Khanna}%
+\singer{Sonu Nigam, Chorus}%
+\music{Aadesh Srivastava}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##He is a lover. He is a killer.##
+khilaa.Dii khilaa.Dii ##international## khilaa.Dii
+golii maar yaa kar le pyaar
+##It's a game of love and love is war.##
+khilaa.Dii khilaa.Dii \threedots
+
+is pyaar kii khaatir haa.n khel mai.n kheluu.n
+yaa jaan mai.n de duu.n yaa jaan mai.n le luu.n
+jab aa.Nkh la.Daa_e aa.Nkh la.Daa_e
+baaho.n me.n kas luu.n kas luu.n
+jo ho.nTh milaa_e mai.n usako Das luu.n
+khilaa.Dii khilaa.Dii \threedots
+
+haa.n dil ko luuTuu.n mai.n ek luTeraa
+dil luuT liyaa hai par tuune meraa
+sab jhuk jaate hai.n jhuk jaate hai.n
+jab mai.n aataa huu.N mai.n aataa huu.N
+bas pyaar ke aage mai.n jhuk jaataa huu.N
+khilaa.Dii khilaa.Dii \threedots
+%
+#endindian
+\endsong
+

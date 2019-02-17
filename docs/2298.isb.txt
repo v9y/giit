@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{dekh ke akelii mohe barkhaa sataa_e}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Geeta, chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator:
+% Credits:
+% Comments:
+%
+#startsong
+
+ko: (Tip Tip Tip Tip Tip Tip
+     Tip Tip Tip Tip Tip Tip) \- 2
+gii: u_ii dekh ke akelii mohe barakhaa sataa_e
+     gaalo.n ko chuume kabhii chii.NTe u.Daa_e re \threedots
+
+gii: chalii na jaa_e chaal lachakuu.N jaise Daal
+     saa.Dii bhiigii cholii bhiigii bhiige gore gaal
+ko:  gore gaal gore gaal gore gore gaal
+     saa.Dii bhiigii cholii bhiigii bhiige gore gaal u_ii \threedots
+
+gii: luuTe haar si.ngaar paapii jal kii dhaar
+     khulii sa.Dak pe luT ga_ii logo.n mai.n alabelii naar
+ko: (ek alabelii alabelii alabelii ) \-2
+     khulii sa.Dak pe luT ga_ii logo.n mai.n alabelii naar u_ii \threedots
+
+gii: paa.Nv phisalataa jaa_e tan hichakole.n khaa_e
+     aise me.n jo haath paka.D le man usakaa ho jaa_e
+ko: (bas ho jaa_e ho jaa_e ho jaa_e) \- 2
+     aise me.n jo haath paka.D le man usakaa ho jaa_e u_ii \threedots
+
+%
+#endindian
+\endsong
+%

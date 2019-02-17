@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{matawaale naino.n waalii ghu.Ngharaale baalo.n waalii}%
+\film{Izzat}%
+\year{1937}%
+\starring{Ashok Kumar, Devika Rani}%
+\singer{Ashok Kumar, Devika Rani}%
+\music{Saraswati Devi}%
+\lyrics{J S Kashyap 'Natawa'}%
+%
+% Contributor: BOL ANAMOL #12114 [V S Rawat]
+%
+\printtitle
+#indian
+%
+a \:	( matawaale naino.n waalii
+	ghu.Ngharaale baalo.n waalii ) \-2
+	( patalii kamariyaa baalii umariyaa
+	tirachhii najariyaa waalii ) \-2
+	jii ho
+de \:	kaun
+a \:	ek bhiilanii waalaa
+
+de \:	( nuukiile.n naino.n waalaa
+	rasiile.n baino.n waalaa ) \-2
+	( mast chaal mastaanii adaa
+	man bharaa prem kaa pyaalaa ) \-2
+	haa.N huu.N
+a \:	kaun
+de \:	ek biil kaa laalaa
+do \:	naam
+de \:	kanhaiyaa
+a \:	raadhaa
+de \:	tab aa_ii ek byaadhaa
+
+a \:	( pa.Daa kanhaiyaa jaa kar duur
+de \:	ro\-ro raadhaa ho ga_ii chuur ) \-2
+a \:	duur rahaa nahii.n gayaa kanhaiyaa \-2
+	aa raadhaa ke saath milaa
+	duur rahaa nahii.n gayaa kanhaiyaa
+	aa raadhaa ke saath milaa
+de \:	( bichha.De mil kar ek huye
+	man ek haath se haath milaa ) \-2
+
+a \:	( jiiwan kaa pyaalaa chupake tere
+	aaj bharaa amarit se ) \-2
+%
+#endindian
+\endsong
+

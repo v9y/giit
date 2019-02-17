@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{yah ishq hai kyaa ek rog buraa ... kisii ko dil na yuu.N denaa}%
+\film{Gopi Kishan}%
+\year{1994}%
+\starring{Sunil Shetty, Karisma, Shilpa Shirodkar, Aruna Irani, Imtiaz Khan}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+a \:	( yah ishq hai kyaa ek rog buraa \-2
+	na bhuukh lage naa pyaas lage ko_ii dard ho sah lenaa
+ku \:	kisii ko dil na yuu.N denaa  \-2 ) \-2
+
+	( dil me.n qaraar nahii.n nii.nd ga_ii aa.Nkho.n se
+	mujhako to baa.Ndh liyaa pyaar kii salaakho.n se ) \-2
+a \:	ab na jiinaa aage
+ku \:	chaahuu.N naa aage
+a \:	kaTatii na raate.n
+ku \:	kaisii hai.n baate.n
+a \:	saare duHkho.n kii saathii yahii hai davaa
+	yah ishq hai kyaa \threedots
+
+	( kahate hai.n log mujhe ye ba.Dii diivaanii hai
+	chaahato.n ke naam merii saarii zindagaanii hai ) \-2
+ku \:	jaane do chho.Do
+a \:	vaadaa naa to.Do
+ku \:	lagatii ho paagal
+a \:	laa_o jii aa.Nchal
+ku \:	dekho jii mujhase karo na aisii Kataa
+a \:	yah ishq hai kyaa \threedots
+%
+#endindian
+\endsong

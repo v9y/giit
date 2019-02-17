@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{jaane kitane dukh sah kar ... dekhii terii duniyaa are}%
+\film{Farishta}%
+\year{1968}%
+\starring{Dev Kumar, Nivedita, Asha Nadkarni, Jagirdar, Jagdish Raj, Sudhir}%
+\singer{Mukesh}%
+\music{Duttaram}%
+\lyrics{Asad Bhopali}%
+%
+% Contributor: BOL ANAMOL #10174 [V S Rawat]
+% Transliterator: 
+% Credits: Srinivas Ganti
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jaane kitane dukh sah kar patthar hiiraa banataa hai
+baraso.n kii qurbaanii se insaan farishtaa banataa hai
+
+dekhii terii duniyaa are dekhe tere kaam
+kisii ghar me.n subah kisii ghar me.n shaam
+dekhii terii duniyaa \threedots
+
+ye duniyaa hai miit Kushii kii dukh me.n shaamil ko_ii nahii.n
+sab hai.n ghaayal karane vaale iname.n ghaayal ko_ii nahii.n
+jo auro.n ke dard me.n ta.Dape kyaa aisaa dil ko_ii nahii.n hai \-2
+dekhii terii duniyaa \threedots
+
+ik aa.Ngan me.n ujalii kirane.n ik aa.Ngan me.n hai a.Ndhiyaaraa
+ik daaman me.n mahakii kaliyaa.N ik daaman me.n hai a.ngaaraa
+apanaa sukh jo sabako baa.NTe dar\-dar bhaTake vo dukhiyaaraa \-2
+dekhii terii duniyaa \threedots
+
+siidhaa rastaa chalane vaalaa har ma.nzil pe Thokar khaa_e
+sach ko duniyaa dhokhaa samajhe jhuuTh ke aage sar ko jhukaa_e
+sabakaa hamadam sabakaa saathii is duniyaa me.n kuchh naa paa_e \-2
+dekhii terii duniyaa \threedots
+
+dora.ngii chaal samay kii dukh me.n Thahare sukh me.n bhaage
+chaahe dukh ho chaahe sukh ho dil hai vahii jo nis\-din jaage
+jo karataa hai jag me.n aisaa vo aataa hai usake aage
+dekhii terii duniyaa \threedots
+%
+#endindian
+\endsong
+

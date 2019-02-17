@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{vo chale jhaTak ke daaman merii aarazuu miTaa ke}%
+\film{Hamrahi}%
+\year{1963}%
+\starring{Rajendra Kumar, Jamuna}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10940 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+vo chale haa.N vo chale
+vo chale jhaTak ke daaman merii aarazuu miTaa ke miTaa ke
+meraa dil vo le ga_e hai.n mujhe raah me.n biThaa ke biThaa ke
+
+ko_ii unase itanaa kah de mai.n unhii.n kaa ho chukaa huu.N \-2
+unhe.n kyaa milegaa aaKir mujhe is tarah jalaa ke jalaa ke
+vo chale jhaTak ke \threedots
+
+na bujhegii baadalo.n se na bujhegii aa.Nsu_o.n se \-2
+mere dil kii dha.Dakano.n me.n ga_e aag jo lagaa ke lagaa ke
+vo chale jhaTak ke \threedots
+
+ye qadam bahak rahe hai.n mujhe do ko_ii sahaaraa \-2
+vo nazar\-nazar se mujhako ga_e jaane kyaa pilaa ke pilaa ke
+vo chale jhaTak ke \threedots
+%
+#endindian
+\endsong
+

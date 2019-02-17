@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{chalii aa re ... chorii se ... bach ke duniyaa kii nazaro.n se}%
+\film{Sooryavansham}%
+\year{1999}%
+\starring{Amitabh Bachchan, Saundarya}%
+\singer{Amitabh Bachchan, Sonu Nigam, Jaspindar Narula}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+chalii aa re chalii aa re chalii aa re
+chorii se chorii se chorii chorii chorii se aa
+chorii se chorii se chorii chorii chorii chorii chorii se
+bole re bole re meraa dil bole bole bole re
+bach bach bach bach ke duniyaa kii nazaro.n se
+are sanam tanhaa_ii me.n milo kabhii kabhii
+he chorii se chorii se \threedots
+
+aise vaise ka_ii savaalo.n me.n khoyaa rahuu.n tere khyaalo.n me.n
+karo zaraa jaldii mulaakaate.n tumase karanii hai.n ba.Dii baate.n
+chaa.Ndanii sitaaro.n me.n ho so_ii tere mere sivaa ho na ko_ii
+Tha.nDii Tha.nDii aag jal rahii ho sard sard havaa chal rahii ho
+bach bach bach bach ke \threedots
+
+milane nahii.n degaa ye zamaanaa ko_ii to banaa_o tum bahaanaa
+khulii khulii laTe.n bikharaa_o aur na tum mujhe ta.Dapaa_o
+vaqt kabhii kahii.n nahii.n Thahare nikal jaa_e.n mauqe naa sunahare
+dard judaa_ii ke ba.De gahare yahaa.n vahaa.n lage ka_ii pahare
+bach bach bach bach ke \threedots
+%
+#endindian
+\endsong
+

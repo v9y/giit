@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{kaun jiiwan me.n mere samaaye jaa rahaa hai}%
+\film{Hamara Sansar}%
+\year{1945}%
+\starring{Jiwan, Ranjana, Umakant, Rajkumari, Shukla, Sushil Kumar}%
+\singer{Zohra Bai}%
+\music{Gobindram}%
+\lyrics{Ramesh Gupta}%
+%
+% Contributor: BOL ANAMOL #12171 [V S Rawat]
+% 
+\printtitle
+#indian
+%
+kaun jiiwan me.n mere samaaye jaa rahaa hai \-2
+kaun man pe mere chhaaye jaa rahaa hai
+kaun jiiwan me.n mere samaaye jaa rahaa hai
+
+kaun barakhaa kii kaalii\-kaalii raat me.n \-2
+ban ke saayaa chal rahaa hai saath me.n \-2
+kaun diipak ban ke raah dikhalaa rahaa hai
+kaun jiiwan me.n mere samaaye jaa rahaa hai \-2
+
+ko_ii saathii na thaa ko_ii miit naa thaa \-2
+mere suunii viinaa me.n ko_ii giit naa thaa \-2
+kaun miiThe suro.n se ye gaaye jaa rahaa hai \-2
+kaun man ko mere lubhaaye jaa rahaa hai \-2
+
+kaun jiiwan me.n mere samaaye jaa rahaa hai \-2
+%
+#endindian
+\endsong
+

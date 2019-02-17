@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{tum bhii bhulaa do mai.n bhii bhulaa duu.N}%
+\film{Jugnu}%
+\year{1947}%
+\starring{Noorjehan, Dilip Kumar}%
+\singer{Noorjehan}%
+\music{Firoz Nizami}%
+\lyrics{M G Adeeb or Asghar Sarhadi}%
+%
+% Contributor: BOL ANAMOL #11866 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+tum bhii bhulaa do mai.n bhii bhulaa duu.N \-2
+pyaar puraane Guzare zamaane \-2
+Guzare zamaane
+tum bhii bhulaa do
+
+chaa.Ndanii raate.n aur nadii kinaaraa
+pyaar kii baate.n aur pyaar hamaaraa
+bhuul sake.n naa phir bhii bhulaa de.n
+biit chuke hai.n din jo suhaane
+Guzare zamaane
+tum bhii bhulaa do
+
+gar apanaa tumhe.n ham banaa na sake
+mat samajho ye priit nibhaa naa sake
+ham duniyaa se majabuur huye
+tum aur bhii ham se duur huye
+dard naa jaanaa riit naa samajhii
+yuu.N lage aur ab ta.Dapaane
+Guzare zamaane
+tum bhii bhulaa do mai.n bhii bhulaa duu.N
+%
+#endindian
+\endsong
+

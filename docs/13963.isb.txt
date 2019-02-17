@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{pa.Dosan ke ghar kal raat bhar}%
+\film{Silsilaa Hai Pyaar Kaa}%
+\year{1999}%
+\starring{Chandrachud Singh, Karisma Kapoor}%
+\singer{Anuradha Paudwal, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pa.Dosan ke ghar kal raat bhar bajatii rahii.n chuu.Diyaa.n
+chhan chhanaa chhan chhan chhan chhanaa chhan chhan
+jalatii rahii mai.n machalatii rahii mai.n bajatii rahii.n chuu.Diyaa.n
+chhan chhanaa chhan chhan chhan chhanaa chhan chhan
+
+karavaT badalatii rahii nii.nd naa aa_ii
+nikalii ka_ii baar dil se duhaa_ii
+kabhii aise kabhii vaise Dhal gayaa vaqt ho ga_ii sahar
+pa.Dosan ke ghar \threedots
+
+mai.n haal apanaa bataa_uu.n to kaise
+dard\-e\-jigar bhii dikhaa_uu.n to kaise
+vo na jaane vo na maane meraa dilabar ba.Daa bekhabar
+pa.Dosan ke ghar \threedots
+%
+#endindian
+\endsong
+

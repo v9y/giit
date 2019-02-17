@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{hosh vaalo.n ko khabar kyaa bekhudii kyaa chiiz hai}%
+\film{Sarfarosh/ A Reason To Live}%
+\year{2000}%
+\starring{Aamir Khan, Sonali Bendre}%
+\singer{Jagjit Singh}%
+\music{Jatin Lalit}%
+\lyrics{Nida Fazli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n haa haa haa haa haa haa
+hosh vaalo.n ko khabar kyaa bekhudii kyaa chiiz hai
+ishq kiije phir samajhi_e zi.ndagii kyaa chiiz hai
+hosh vaalo.n ko \threedots
+
+unase nazare.n kyaa milii.n roshan fizaa_e.n ho ga_ii.n
+aaj jaanaa pyaar kii jaaduugarii kyaa chiiz hai
+hosh vaalo.n ko \threedots
+
+khulatii zulfo.n ne sikhaa_ii mausamo.n ko shaayarii
+jhukatii aa.Nkho.n ne bataayaa maikashii kyaa chiiz hai
+hosh vaalo.n ko \threedots
+
+ham labo.n se kah na paa_e unase haal\-e\-dil kabhii
+aur vo samajhe nahii.n ye Kaamoshii kyaa chiiz hai
+hosh vaalo.n ko \threedots
+%
+#endindian
+\endsong
+

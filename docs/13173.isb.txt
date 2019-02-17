@@ -1,0 +1,28 @@
+
+%
+\startsong
+\stitle{ai ishq mujhe aur to kuchh yaad nahii.n hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Begum Akhtar}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: BOL ANAMOL #11879 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+aa
+ai ishq mujhe aur to kuchh yaad nahii.n hai \-2
+haa.N dil meraa barabaad hai aabaad nahii.n hai \-2
+
+ye dil kii lagii hai to ko_ii Kaaq jiyegaa \-2
+ab naam bhii jiine kaa mujhe yaad nahii.n hai \-2
+%
+#endindian
+\endsong
+

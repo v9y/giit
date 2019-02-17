@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{tum bin sajan barase nayan jab\-jab baadal barase}%
+\film{Gaban}%
+\year{1966}%
+\starring{Sunil Dutt, Sadhana, Zeb Rahman, Agha}%
+\singer{Rafi, Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: BOL ANAMOL #11011 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	tum bin sajan barase nayan jab\-jab baadal barase
+ra \:	majabuur ham majabuur tum dil milane ko tarase
+
+la \:	naagin sii ye raat a.Ndherii baiThii hai dil ko gher ke
+	ruuThe jo tum sab chal di_e mukh pher ke
+	tum bin sajan \threedots
+
+ra \:	ye dil tere pyaar kii Kaatir jag se begaanaa ho gayaa
+	ek Kvaab thaa sab luT gayaa sab kho gayaa
+la \:	tum bin sajan \threedots
+
+la \:	pyaase\-pyaase nain hamaare ro\-ro ke haare sajanaa
+	aaTho.n pahar barase gagan is a.Nganaa
+	tum bin sajan \threedots
+%
+#endindian
+\endsong
+

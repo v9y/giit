@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{ham ne tujh ko pyaar kiyaa hai jitanaa, kaun karegaa itanaa}%
+\film{Dulha Dulhan}%
+\year{}%
+\starring{Raj Kapoor, Sadhna}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+ham ne tujh ko pyaar kiyaa hai jitanaa, kaun karegaa itanaa
+kaun karegaa itanaa\threedots
+
+aa.Nkh churaaii Thes lagaaii dil bhii tuune to.Daa
+laakh chhupaayaa tuune daaman ham ne saath na chho.Daa
+tere karam ko tere sitam ko sahate rahe.n ham jitanaa
+kaun karegaa itanaa\threedots
+
+tuu hii tuu hai in aa.Nkho.n me.n aur nahii.n koii duujaa
+tujh ko chaahaa tujh ko saraahaa aur tujhe hii puujaa
+tere dar ko maan ke ma.ndir jhukate hai.n ham jitanaa
+kaun karegaa itanaa\threedots
+
+tere jaisaa saathii jisame.n tere jaisaa dil hai
+laakh burii ho duniyaa phir bhii jiine ke qaabil hai
+tere saath jiine kii khaatir miTate rahe ham jitanaa
+kaun karegaa itanaa\threedots
+%
+#endindian
+\endsong
+%

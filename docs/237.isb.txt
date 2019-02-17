@@ -1,0 +1,44 @@
+% 
+\startsong
+\stitle{baabul moraa, naihar chhuuTo hii jaae}%
+\film{Street Singer}%
+\year{}%
+\starring{Saigal}%
+\singer{Saigal}%
+\music{R C Boral}%
+\lyrics{Waajid Ali Shah}%
+% 
+% Contributor: David Windsor <david.windsor@anu.edu.au>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Credits: Balaji A.S. Murthy <fj076@cleveland.freenet.edu>
+% Date: 03/15/1996
+% Comments: Although Saigal pronounces naihar with "na + a + (small) i
+%           + ha + ra", this is written as "na + ai + ha + ra"
+%           and pronounced correctly as sung by Saigal in the song.
+%           -- Rajiv
+%           A second rendition of this song is in the film Aavishkaar
+%           sung by Jagjit & Chitra Singh. The orchestral arrangement is
+%           significantly different, but the basic tune is the same. The
+%           Music Director for Aavishkaar is Kanu Roy - Vijay
+%
+\printtitle
+#indian
+%
+baabul moraa, naihar chhuuTo hii jaae
+baabul moraa, naihar chhuuTo hii jaae
+
+chaar kahaar mil, morii Doliyaa sajaave.n  \- 4
+moraa apanaa begaanaa chhuTo jaae
+baabul moraa \threedots
+
+aa.Nganaa to parbat bhayo aur deharii bhayii bidesh
+je baabul ghar aapanaa mai.n piiyaa ke desh
+baabul moraa \threedots
+
+baabul moraa, naihar chhuuTo hii jaae
+baabul moraa, naihar chhuuTo hii jaae
+%
+#endindian
+\endsong
+%
+

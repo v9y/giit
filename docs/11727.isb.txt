@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{sun zaraa ... dhak dhak dhak dil meraa}%
+\film{Heraa Pheri}%
+\year{2000}%
+\starring{Akshay Kumar, Sunil Shetty, Tabbu, Paresh Raval, Om Puri}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sun zaraa sun zaraa sun zaraa tuu
+sun zaraa sun zaraa tuu
+dhak dhak dhak dil meraa dil meraa dil meraa karane lagaa
+ruk ruk ke dil meraa dil meraa tujhape marane lagaa
+he jabase dekhaa maine tukhako dil me.n kuchh kuchh hone lagaa
+dhak dhak dhak \threedots
+
+aa aa aa
+kyaa hotii hai ye betaabii diladaar hotaa hai kyaa
+tumase milake jaanaa maine ye pyaar hotaa hai kyaa
+bikhare tere aise gesuu mai.n aah bharane lagaa
+dhak dhak dhak \threedots
+
+chorii chorii chupake chupake tuune ye kyaa kar diyaa
+Tha.nDii Tha.nDii in saa.Nso.n me.n sholaa ko_ii bhar diyaa
+he roko roko ye to paagal had se guzarane lagaa
+dhak dhak dhak \threedots
+%
+#endindian
+\endsong
+

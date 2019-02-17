@@ -1,0 +1,41 @@
+% ITRANS SONG # 3370; Created on Jan 26, 2004
+%
+% From: Surajit A. Bose (sbose@saintmarys.edu)
+% Date: 2002-05-29 00:32:42 PST
+%
+\startsong
+\stitle{majhadhaar me.n Duub ga_ii ... kaahe ab re balam}%
+\film{Buzdil}%
+\year{1951}%
+\starring{Kishore Sahu, Nimmi, Premnath}%
+\singer{Surinder Kaur}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: May 28, 2002
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+majhadhaar me.n kashti Duub ga_ii
+kucch aisaa nasiibaa phuuT gayaa
+jab haath ba.Dhe daaman kii taraf
+daaman bhii tumhaaraa ruuTh gayaa
+kaahe ab re balam
+dhiire dhiire teraa Gam Dhaaye dil pe sitam
+kaahe ab re balam \threedots
+
+tuu laakh sataa, tuu laakh rulaa
+ulafat ko miTaanaa mushkil hai
+qadamo.n pe tere jo Daal diyaa
+us dil ko uThaanaa mushkil hai
+kaise baazaae.N ham
+dhiire dhiire teraa Gam Dhaaye dil pe sitam
+kaise baa zaae.N ham \threedots
+%
+#endindian
+\endsong
+%

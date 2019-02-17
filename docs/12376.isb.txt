@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{##happy happy birthday## ... tujhe dekhakar jiitaa huu.N mai.n}%
+\film{Kya Yehi Pyaar Hai}%
+\year{2002}%
+\starring{Jackie Shroff, Aftab Shivdasani, Ameesha Patel, Anupama Verma}%
+\singer{Alka Yagnik, Kumar Sanu, Sonu Nigam, Chorus}%
+\music{Sajid Wajid}%
+\lyrics{Jaliis Rashid}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+##happy happy birthday to you.##
+##happy happy birthday to you.##
+
+tujhe dekhakar jiitaa huu.N mai.n
+tuu hii to hai merii zi.ndagii
+tujhe dekhakar ha.Nsataa huu.N mai.n
+tuu hii to hai merii har khushii
+##happy happy birthday to you.##
+
+tumhe.n dekhakar jiitaa huu.N mai.n
+tum hii to ho merii zi.ndagii
+tumhe.n dekhakar ha.Nsataa huu.N mai.n
+tum hii to ho merii har khushii
+##happy happy birthday to you.##
+
+aisaa bhii kyaa milataa hai nain la.Daane me.n
+aisaa ko_ii kaam karo ho naam zamaane me.n
+dil me.n kuchh kuchh hotaa hai nain la.Daane me.n
+isase achchhaa kaam hai kyaa aaj zamaane me.n
+aisaa hii la.Dakaa hai is dil me.n rahataa hai
+ma.nzil pe rukataa nahii.n paanii saa bahataa hai
+sunataa hai ye sabakii par apanii karataa hai
+jo bhii hai pyaaraa hai karane do jo karataa hai
+##happy happy birthday to you.##
+
+bane tuu bhii duulhaa ye chaahat hai merii
+sadaa khush rahe vo ye chaahat hai merii
+mubaarak
+kismat apane haatho.n se tumako banaanii hai
+mehanat kaa phal milataa hai ye riit puraanii hai
+pyaar to mujhako karane do cha.Dhatii javaanii hai
+aag me.n mujhako jalane do priit nibhaanii hai
+chho.Do tum is Gam ko jiine kii baate.n karo
+meraa Gam chho.Do tum bas yuu.N hii ha.Nsate raho
+kamasin hai naadaa.n hai bholaa hai ye to ba.Daa
+apanii to hai ye du_aa isako mile pyaar sadaa
+##happy happy birthday to you.##
+tumhe.n dekhakar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{sajanaa sajanaa ... tere pyaar me.n mai.n ga_ii kho sajanaa}%
+\film{Ek Phool Do Mali}%
+\year{1969}%
+\starring{Sadhna, Sanjay, Balraj Sahni}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #11515 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+sajanaa sajanaa o sajanaa tere pyaar me.n mai.n ga_ii kho sajanaa
+tere hii kaaran banii re jogan ab honaa hai jo bhii ho sajanaa
+
+ko \:	ab ye laagii chhuuTe naa ab ye bandhan TuuTe naa
+
+milate hii nain gayaa chain merii raato.n kaa
+chal gayaa jaaduu terii pyaar bharii baato.n kaa \-2
+sajanaa sajanaa \threedots
+ko \:	ab ye laagii \threedots
+
+bairii papiihaa jab piiyuu\-piiyuu gaa_e re
+laage vo baan merii jaan chalii jaa_e re \-2
+sajanaa sajanaa \threedots
+ko \:	ab ye laagii \threedots
+
+duniyaa ke mele na akele dekh jaa_e.Nge
+tere hii sa.ng piyaa ra.ng saare bhaa_e.Nge \-2
+sajanaa sajanaa \threedots
+ko \:	ab ye laagii \threedots
+%
+#endindian
+\endsong
+

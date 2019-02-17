@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{mujhe sach sach bataa do}%
+\film{Bawre Nain}%
+\year{1950}%
+\starring{Raj Kapoor, Geeta Bali}%
+\singer{Rajkumari, Mukesh}%
+\music{Roshan}%
+\lyrics{Kedar Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mujhe sach sach bataa do
+  -kyaa?
+ki kab dil me.n samaaye the?
+vo pahalii baar mujhako 
+dekh kar jab muskuraaye the
+
+tumhe.n kuchh yaad hogaa
+  -kyaa?
+bahut ghabaraa rahe the tum
+tumhe.n bhii yaad hogaa
+kis qadar sharamaa rahe the tum
+tumhe.n kisane bataayaa
+  -kyaa?
+muhabbat kisako kahate hai.n
+jo aa.Nkho.n me.n base hai.n
+jo hameshaa dil me.n rahate hai.n
+
+tumhe.n kisane sazaa dii
+  -kyaa?
+ki raato.n ko gino taare
+vo zaalim jisake miiThe bol
+lagate hai.n ba.De pyaare
+tumhe.n kisane kahaa hai
+  -kyaa?
+mere sapanao.n me.n aane ko
+tere sapano.n me.n aate
+hai.n terii qismat jagaane ko
+terii qismat jagaane ko   \threedots
+%
+#endindian
+\endsong
+%

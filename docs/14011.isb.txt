@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{tuu shaayar hai mai.n terii shaayarii}%
+\film{Saajan}%
+\year{1991}%
+\starring{Sanjay Dutt, Salman Khan, Madhuri Dixit}%
+\singer{Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tuu shaayar hai mai.n terii shaayarii
+tuu aashiq hai mai.n terii aashiqii
+tujhe milane ko dil karataa hai o mere saajanaa
+tuu shaayar hai \threedots
+
+terii har nazm teraa har giit hai yaad mujhe
+jab tak saa.Ns chalegii naa bhuuluu.ngii mai.n to tujhe
+tere binaa jiinaa nahii.n khaa ke kasam kahatii huu.N
+maine binaa dekhe binaa jaane tujhe dil de diyaa
+tuu dha.Dakan hai mai.n terii zi.ndagii
+tuu shaayar hai \threedots
+
+apanii betaabii kaa mai.n kaise tujhase izahaar karuu.N
+kaise batalaa_uu.n tujhe jaan\-e\-jaanaa.n kitanaa mai.n pyaar karuu.N
+lab pe ko_ii naam nahii.n tere sivaa mere saajan
+mere is dil pe teraa hii nashaa chhaa gayaa
+tuu diivaanaa mai.n terii diivaanagii
+tuu shaayar hai \threedots
+%
+#endindian
+\endsong
+

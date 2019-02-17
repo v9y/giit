@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{dil le ke bhulaa denaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: Urzung Khan
+% Transliterator: 
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil le ke bhulaa denaa ik khel tumhaaraa hai
+tum ko to nahii.n kuchh bhii nuqsaan hamaaraa hai
+
+ye jhuuTii tasallii jo biimaar ko dete ho
+ik Duubane vaale ko tinake kaa sahaaraa hai
+
+mai.n aur tujhe dekhuu.N ye taab kahaa.N mujh me.n
+zaalim terii suurat ne aa.Nkho.n ko ubhaaraa hai
+
+faiyyaaz bas ab unako ham unase hii maa.Nge.nge
+yuu.N daaman\-e\-dil unake qadamo.n pe pasaaraa hai
+
+%
+#endindian
+\endsong
+%

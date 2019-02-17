@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{raat ra.ngiilii mast nazaare giit sunaaye.n chaa.Nd\-sitaare}%
+\film{Dulari}%
+\year{1949}%
+\starring{Suresh, Madhubala, Geeta Bali}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12044 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+la \:	raat ra.ngiilii mast nazaare
+ra \:	giit sunaaye.n chaa.Nd\-sitaare
+do \:	raat ra.ngiilii
+
+la \:	o o o
+	aaj luTaa ke
+	aaj luTaa ke pyaar pe tan\-man
+	apanii wafaa kaa naam kare.nge \-2
+	pyaar kaa dil me.n ra.ng bhare.nge
+ra \:	chho.D ke ye dukh\-dard kii duniyaa
+	nayaa nagar aabaad kare.nge
+	jiiwan ko aazaad kare.nge
+do \:	ham\-tum dono.n pyaar ke maare \-2
+	mast nazaare
+
+la \:	raat ra.ngiilii mast nazaare
+ra \:	giit sunaaye.n chaa.Nd\-sitaare
+do \:	raat ra.ngiilii
+
+ra \:	aa_o \-2
+	aa_o chale.n aakaash pe ham\-tum
+	chaa.Nd kii nagarii me.n chhup jaaye.n
+	duniyaa waale dekh naa paaye.n
+la \:	naach\-naach ke taal pe man kii
+	naach\-naach ke
+	naach\-naach ke taal pe man kii
+	apanaa\-apanaa raag sunaaye.n
+	dil se dil ke taar milaaye.n
+do \:	dhun bhii niraalii bol bhii pyaare \-2
+	mast nazaare
+	raat ra.ngiilii
+%
+#endindian
+\endsong
+

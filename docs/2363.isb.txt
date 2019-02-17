@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{jiine do aur jiyo...maranaa to sabako hai jii ke bhii dekh le}%
+\film{Taxi Driver}%
+\year{}%
+\starring{Dev Anand, Kalpana Karthik}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Vandana Venkatesan
+% Transliterator: K Vijay Kumar
+% Credits:
+% Series: The Missing Element (1)
+%
+\printtitle
+#indian
+%
+jiine do aur jiyo
+cha.Dhatii javaanii ke din hai.n
+phir aisaa samaa.N milegaa kahaa.N
+yahii zi.ndagaanii ke din hai.n
+maranaa to sabako hai jii ke bhii dekh le
+chaahat kaa ek jaam pii ke bhii dekh le
+maranaa to sabako hai   \threedots
+
+ye havaa ye fizaa
+kahatii hai jhuum le mazaa le
+koii phuul chun, koii Kvaab bun
+dil kaa muqaddar jagaa le
+maranaa to sabako hai jii ke bhii dekh le
+chaahat kaa ek jaam pii ke bhii dekh le
+maranaa to sabako hai   \threedots
+
+ye hasii.n zi.ndagii
+hai ik rasiilaa taraanaa
+na le dil me.n Gam, o mere sanam
+ki hai ye khushii kaa zamaanaa
+maranaa to sabako hai jii ke bhii dekh le
+chaahat kaa ek jaam pii ke bhii dekh le
+maranaa to sabako hai   \threedots
+
+%
+#endindian
+\endsong
+%

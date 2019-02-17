@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{diivaanaa hai ye man ... ko_ii bataa de}%
+\film{Chori Chori Chupke Chupke}%
+\year{2000}%
+\starring{Salman, Rani Mukherjii, Preity Zinta}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+diivaanaa hai ye man kyuu.n paagal hai dha.Dakan
+kyuu.n tujhape mujhe pyaar aayaa hai
+ye mausam kyuu.n saje ye paayal kyuu.n baje
+ye kaisaa khumaar chhaayaa hai
+ko_ii bataa de ko_ii bataa de ko_ii bataa_e naa
+ye mai.n jaanuu.n yaa tuu jaane
+is baat ko ko_ii kyaa jaane o
+
+dil teraa meraa dil jhuume re jhuume
+maine terii dha.Dakano.n pe sanam apanii vafaa kii kahaanii likhii
+maine tere naam jaan\-e\-jigar apanii hasii.n zi.ndagaanii likhii
+ye kaajal kyuu.n ha.Nse ye nainaa kyuu.n jhuke
+ye kaisaa nikhaar mujhape aayaa hai
+ko_ii bataa de \threedots
+
+o mere rabbaa teraa shukriyaa
+jo maine maa.ngaa mujhe mil gayaa
+merii muhabbat asar kar ga_ii
+khvaabo.n kaa mahakaa chaman khil gayaa
+ye ba.ndhan kyuu.n ba.ndhe ye rishte kyuu.n ju.De
+ye mausam kyaa sa.ndesaa laayaa hai
+ko_ii bataa de \threedots
+%
+#endindian
+\endsong
+

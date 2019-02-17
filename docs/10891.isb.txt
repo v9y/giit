@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{teraa man meraa man mile priit yuu.N khile}%
+\film{Chandramukhi}%
+\year{1960}%
+\starring{Kavita, Manahar Desai, B M Vyas, Kanchan Mala, Dalpat, Pal Sharma}%
+\singer{Mukesh, Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: BOL ANAMOL #10322 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	teraa man meraa man mile priit yuu.N khile ki duur a.Ndhere ho.n
+	mujhe to aisaa lage ki bas tum mere ho
+mu \:	teraa man meraa man \threedots
+la \:	ajii tum mere ho
+
+	paayal kii merii runajhun ho maathe kii merii kumakum ho
+	jisako Dhuu.NDhate the nainaa bolo ajii kyaa vahii tum ho
+	man pe jaaduu kiyaa ra.ng bhar diyaa re chatur chitere ho
+	mujhe to aisaa lage ki \threedots
+
+mu \:	dekhii jhalak aa.Nkho.n me.n milatii nahii.n vo laakho.n pe
+	tere jitane ra.ng kahaa.N titalii kii cha.nchal paa.Nkho me.n
+	pahale to ruup sajaa ke jii ab yuu.N lajaa ke kyuu.N mukha.Daa phere ho
+	mujhe to aisaa lage ki \threedots
+%
+#endindian
+\endsong
+

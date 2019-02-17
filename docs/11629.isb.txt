@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{jaa jaa re jaa diivaane jaa maine to chaahaa tujhako}%
+\film{Grihasthi}%
+\year{1963}%
+\starring{Ashok Kumar, Manoj Kumar, Nirupa Roy, Rajshri, Indrani Mukherjii}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10712 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+aa \:	jaa jaa re jaa diivaane jaa \-2
+	maine to chaahaa tujhako apanaa banaayaa tujhako
+	isape aka.Dataa hai kyaa
+ra \:	jaa jaa rii jaa diivaanii jaa \-2
+	maine ehasaan kiyaa dil jo qurbaan kiyaa
+	ba.Dh\-ba.Dh ke baate.n na banaa
+
+aa \:	buraa hai meraa Gussaa javaanii kii qasam
+	mai.n sholaa ban ke tujhako jalaa duu.Ngii balam
+ra \:	hai bhejaa meraa Tha.nDaa nahii.n hai mujhe Gam
+	mai.n paanii ban ke tujhako bujhaa duu.Ngaa sanam
+aa \:	itanaa Guruur na kar mujhako majabuur na kar
+	varnaa chakhaa duu.Ngii mazaa
+ra \:	jaa jaa rii jaa diivaanii \threedots
+
+aa \:	mai.n ban ke machhariyaa chhupuu.Ngii jal me.n
+	na aa_uu.Ngii bedardii mai.n tere bas me.n
+ra \:	lagaa ke mai.n Dorii me.n kaa.NTaa dil kaa
+	pha.Nsaa hii luu.Ngaa tujhako bas ik pal me.n
+aa \:	naa kar takaraar mujhase dekhe hai.n laakho.n tujhase
+	apanii tuu sheKii na jataa
+ra \:	jaa jaa rii jaa diivaanii \threedots
+
+aa \:	ba.De hii zahariile ye nainaa hai.n mere
+	mai.n naagan ban ke Das luu.Ngii chhe.D na mujhe
+ra \:	banegii jo tuu naagan to mai.n bhii merii jaa.N
+	saperaa ban ke kar luu.Ngaa bas me.n tujhe
+aa \:	o dil ke chor sai.nyaa yuu.N na maro.D bai.nyaa
+	dil le ke aise na sataa
+ra \:	jaa jaa rii jaa diivaanii \threedots
+%
+#endindian
+\endsong
+

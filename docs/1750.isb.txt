@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{tum agar mujhako na chaaho to koii baat nahii.n}%
+\film{Dil Hi To Hai}%
+\year{}%
+\starring{Raj Kapoor, Nutan}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Sahir}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+tum agar mujhako na chaaho to koii baat nahii.n
+tum kisii aur ko chaahogii to mushkil hogii
+
+ab agar mel nahii.n hai to judaaii bhii nahii.n
+baat to.Dii bhii nahii.n tumane nibhaaii bhii nahii.n
+ye sahaaraa bhii bahut hai mere jiine ke liye
+tum agar merii nahii.n ho to paraaii bhii nahii.n
+mere dil ko na saraaho to koii baat nahii.n
+gair ke dil ko saraahogii, to mushkil\threedots
+
+tum hasii.n ho, tumhe.n sab pyaar hii karate ho.nge
+mai.n to marataa huu.N to kyaa aur bhii marate ho.nge
+sab kii aa.Nkho.n me.n isii shauq kaa tuufaa.n hogaa
+sab ke siine me.n yahii dard ubharate ho.nge
+mere Gam me.n na karaaho to koii baat nahii.n
+aur ke Gam me.n karaahogii to mushkil\threedots
+
+phuul kii tarah ha.Nso, sab kii nigaaho.n me.n raho
+apanii maasuum javaanii kii panaaho.n me.n raho
+mujhako vo din na dikhaanaa tumhe.n apanii hii qasam
+mai.n tarasataa rahuu.N tum gair kii baaho.n me.n raho
+tum agar mujhase na nibhaao to koii baat nahii.n
+kisii dushman se nibhaaogii to mushkil\threedots
+%
+#endindian
+\endsong
+%

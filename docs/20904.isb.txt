@@ -1,0 +1,89 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jhuum jhuum manamohan}%
+\film{Biraaj Bahu}%
+\year{1954}%
+\starring{}%
+\singer{Hemant Kumar, Chorus}%
+\music{Salil Chowdhury}%
+\lyrics{Shailendra}%
+% 
+% Audio on: RMIM Portland meet CD
+% Tags: Bhajan
+% Contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% Date: 16 Nov 2005
+% Series: Sukhsaagar
+% Comments: The meter probably resembles the "dhruvapadam" a bit.
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+hemant:
+shyaam re.a.a.a
+shyaam re
+ik pal darash dikhaa jaa
+
+(hemant:
+jhuum jhuum manamohan re muralii madhur sunaa jaa
+koras:
+jhuum jhuum manamohan re muralii madhur sunaa jaa)\-2
+
+hemant:
+tere darash ke pyaase nainaa ik pal darash dikhaa jaa
+
+koras:
+jhuum jhuum \threedots
+
+hemant:
+gokul suunaa mathuraa suunii suune braj ke jhuule
+
+koras: 
+suune braj ke jhuule
+
+hemant:
+bhuul gayaa tuu hamako mohan ham naa tujhako bhuule
+
+koras: 
+ham naa tujhako bhuule
+
+hemant:
+phir panaghaT pe jamunaa ke taT pe aake raas rachaa jaa, ghanashyaam!
+
+koras:
+ghanashyaam! ghanashyaam! raadheshyaam! ghanashyaam!
+
+hemant:
+phir panaghaT pe jamunaa ke taT pe aake raas rachaa jaa
+
+koras:
+jhuum jhuum \threedots
+
+hemant:
+ham jaise to laakho.n jag me.n tujhasaa kaun hai daataa
+
+koras:
+tujhasaa kaun hai daataa
+
+hemant:
+to.D ke saare naate hamane jo.Daa tujh sa.Nga naataa
+
+koras:
+jo.Daa tujhase naataa
+
+hemant:
+bha.Nwar me.n naiyaa pa.Dii khevaiyaa ab to paar lagaa jaa, ghanashyaam!
+
+koras:
+ghanashyaam! ghanashyaam! raadhe shyaam! ghanashyaam!
+
+hemant:
+bha.Nwar me.n naiyyaa pa.Dii khevaiyyaa ab to paar lagaa jaa
+
+koras:
+jhuum jhuum \threedots
+%
+#endindian
+\endsong

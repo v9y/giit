@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{fizaa tuu havaa hai fizaa hai}%
+\film{Fizaa}%
+\year{2000}%
+\starring{Hritik Roshan, Karisma, Jaya, Neha, Sushmita, Vikran Saluja}%
+\singer{Sonu Nigam, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+fizaa fizaa fizaa he fizaa
+tuu havaa hai fizaa hai zamii.n kii nahii.n
+tuu ghaTaa hai to phir kyuu.N barasatii nahii.n
+u.Datii rahatii hai tuu pa.nchhiyo.n kii tarah
+aa mere aashiyaane me.n aa
+
+mai.n havaa huu.N kahii.n bhii Thaharatii nahii.n
+ruk bhii jaa_uu.N kahii.n par to rahatii nahii.n
+maine tinake uThaa_e hu_e hai.n paro.n par aashiyaanaa nahii.n hai meraa
+
+ghane ek pe.D se mujhe jhoo.nkaa ko_ii le ke aayaa hai
+suukhe ik patte kii tarah havaa ne har taraf u.Daayaa hai
+aanaa aa he aanaa aa ik dafaa is zamii.n se uThe.n
+paa.Nv rakhe.n havaa par zaraa saa u.De
+chal chale.n ham jahaa.N ko_ii rastaa na ho
+ko_ii rahataa na ho ko_ii basataa na ho
+kahate hai.n aa.Nkho.n me.n milatii hai aisii jagah
+fizaa fizaa \threedots
+
+tum mile to kyuu.N lagaa mujhe khud se mulaakaat ho ga_ii
+kuchh bhii to kahaa nahii.n magar zi.ndagii se baat ho ga_ii
+aanaa aa he aanaa aa saath baiThe.n zaraa der ko
+haath thaame.n rahe.n aur kuchh naa kahe.n
+chhuu ke dekhe.n to aa.Nkho.n kii khaamoshiyaa.N
+kitanii chupachaap hotii hai.n saragoshiyaa.N
+sunate hai.n aa.Nkho.n me.n hotii hai aisii sadaa
+fizaa fizaa \threedots
+%
+#endindian
+\endsong
+

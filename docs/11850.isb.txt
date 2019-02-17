@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{suuraj se jo kiraN kaa naataa saagar se jo laharo.n kaa}%
+\film{Hangaamaa}%
+\year{1971}%
+\starring{Kishor Kumar, Johny Walker, Mehmood, Vinod Khanna, Zeenat Aman}%
+\singer{Mukesh, Lata}%
+\music{R D Burman}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10771 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	suuraj se jo kiraN kaa naataa saagar se jo laharo.n kaa
+	vahii hai teraa\-meraa rishtaa tuu jaane yaa naa jaane
+la \:	phuul me.n jaise basii ho Kushbuu tuu hai basaa mere man me.n
+	pyaar teraa hai jiivan meraa tuu maane yaa naa maane
+mu \:	suuraj se jo kiraN \threedots
+
+	pahalii baar tujhe dekhaa to ham aise sudh\-budh bhuule
+la \:	ho jaise saavan kii pahalii puravaa_ii dharatii ko chhuu le
+	dharatii se jo niilagagan kaa saavan se jo puravaa_ii kaa
+mu \:	suuraj se jo kiraN \threedots
+
+la \:	do din kii dekhaa\-dekhii me.n yug\-yug ke man\-miit mile
+mu\:	tum bole do bol se mujhako janam\-janam ke giit mile
+	taar se jo jha.nkaar kaa naataa giito.n se jo saragam kaa
+la \:	suuraj se jo kiraN \threedots
+mu \:	vahii hai teraa\-meraa \threedots
+do \:	suuraj se jo kiraN \threedots
+%
+#endindian
+\endsong
+

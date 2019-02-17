@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{teraa jaaduu na chalegaa o sapere}%
+\film{Guest House}%
+\year{1959}%
+\starring{Ajeet, Shakeela, Maruti, Lalita Pawar, Pran, Cukoo, Helen}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: BOL ANAMOL #10116 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+teraa jaaduu na chalegaa o sapere
+kaahe maare merii galiyo.n ke phere
+meraa rasiyaa to man me.n hai mere
+tuu hai kaun meraa rastaa jo ghere
+
+dekh tuu mujhako na haath lagaa jhuum ke mai.n Das luu.Ngii
+aag lage terii nas\-nas me.n aisaa zahar bhar duu.Ngii
+o kahii.n ta.Dape na saa.Njh sabere
+teraa jaaduu na chalegaa \threedots
+
+ek thaa dil jo mai.n de hii chukii kyaa tum lene aa_e
+nainan jab chitachor base ko_ii na aur samaa_e
+o nahii.n aane vaalii haath mai.n tere
+teraa jaaduu na chalegaa \threedots
+%
+#endindian
+\endsong
+

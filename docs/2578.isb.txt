@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{haay re vo dinaa}%
+\film{Anuradha}%
+\year{}%
+\starring{Balraj Sahni, Lila Naidu, Abhi Bhattacharya}%
+\singer{Lata}%
+\music{Pt. Ravishankar}%
+\lyrics{Shailendra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Credits: Sushila Subramaniam, Ashok Dhareshwar, Rajan Parrikar
+% Comments : Raga is Janasammohini, closely related to Kalavati but for
+%            the use of rishabh
+%
+\printtitle
+#indian
+%
+
+haay re vo dinaa kyo.n na aaye
+ja ja ke R^itu
+ja ja ke R^itu lauT aaye
+haay re vo dinaa kyo.n na aaye
+
+jhilamil vo taare kahaa.N gaye vo saare
+man baatii jale bujh jaaye
+haye re vo dinaa kyo.n na aaye
+
+suunii merii biinaa sa.ngiit binaa
+sapano.n kii maalaa murajhaaye
+haay re vo dinaa kyo.n na aaye
+
+%
+#endindian
+\endsong
+%
+

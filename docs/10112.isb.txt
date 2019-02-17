@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ik din kahii.n ham do mile.n ... kabhii mai.n kahuu.n ... kabhii tum kaho}%
+\film{Aur Pyaar Ho Gayaa}%
+\year{1997}%
+\starring{Bobby, Aishwarya, Anupam, Shammi Kapoor, Shammi, Priya Tendulkar}%
+\singer{Roop Kumar Rathod}%
+\music{Nushrat Fateh Ali Khan}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ik din kahii.n ham do mile.n aur tiisaraa ko_ii na ho
+baiThe rahe.n kho_e rahe.n kuchh mai.n kahuu.n kuchh tum kaho
+kabhii mai.n kahuu.n zaraa sun to lo kabhii tum kaho ab kah bhii do
+kabhii mai.n kahuu.n tumhe.n naazanii.n kabhii tum kaho mujhe hamanashii.n
+kabhii mai.n kahuu.n suno mahazabii.n nahii.n tum bin mujhako chain kahii.n
+phir tum kaho ki tumhe.n hai yakii.n phir mai.n kahuu.n ki mujhe pyaar hai tumase
+ik din kahii.n \threedots
+
+mausam kii baat raaho.n kii baat ma.nzil kii baat ho
+phuulo.n kii baat khvaabo.n kii baat phir dil kii baat ho
+mahakii sii ho.n tanhaa_iiyaa.n aane lage.n a.nga.Daa_iyaa.n
+dha.Dake ye dil kaa.npe nazar tumako kabhii chhuu luu.n agar
+mai.n ye kahuu.n kahataa rahuu.n ki mujhe tum bin ab jiinaa nahii.n
+phir tum kaho tumhe.n hai yakii.n \threedots
+
+cha.nchal havaa_e.n aa.nchal u.Daa_e.n lekin mai.n thaam luu.n
+samajho ishaaraa jab mai.n tumhaaraa ko_ii bhii naam luu.n
+tumhe.n pyaar mai.n karataa rahuu.n kabhii chaa.Ndanii kabhii raaganii
+kabhii tumako mai.n kahuu.n giit ho jiivan kaa tum sa.ngiit ho
+merii priit ho manamiit ho tum kaho to de duu.n jaan abhii
+phir tum kaho ki tumhe.n hai yakii.n \threedots
+%
+#endindian
+\endsong
+

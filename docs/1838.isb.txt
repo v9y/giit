@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{uThe sab ke kadam, taaraa ram-pam-pam}%
+\film{Baaton Baaton Mein}%
+\year{1979}%
+\starring{Amol Palekar, Tina Munim}%
+\singer{Lata, Amit Kumar, Pearl Padamsee}%
+\music{Rajesh Roshan}%
+\lyrics{Amit Khanna}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde <avinash@acm.org>
+% Credits: rec.music.indian.misc <USENET newsgroup> 
+%          Pradeep Dubey <pradeep@watson.ibm.com>
+%          C.S. Sudarshana Bhat <ceindian@utacnvx.uta.edu>
+%	   S. Jagadish <sf918168@ntuvax.ntu.ac.sg>
+%          Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Editor: Anurag Shankar <anurag@astro.indiana.edu>
+%
+\printtitle
+#indian
+%
+uThe sabake kadam,  taraa ram\-pam\-pam
+ajii aise giit gaayaa karo
+kabhii khushii kabhii Gam,  taraa ram\-pam\-pam
+ha.nso.n aur ha.nsaayaa karo
+
+vo pyaare din aur vo pyaarii raate.n
+yaad hame hai.n vo mulaakaate.n
+nahii.n koI Gam mujhe nahii.n hai gilaa
+zi.ndagii kii raah me.n milaa hai jabase tuu mere hamadam
+shabanam ham hai.n aur tum sholaa ban jaayaa karo
+kabhii khushii \threedots
+
+ra.Ng nayaa hai ruup nayaa hai
+jiine kaa to jaane kahaa.N Dha.ng gayaa hai
+kise hai fikar inhe.n kyaa pasa.nd
+pyaar ke jahaa.N me.n razaama.nd jab ham tum tum ham
+ban gae hai.n sanam bedha.Dak mere ghar aayaa karo
+kabhii khushii \threedots
+
+laa laa \threedots
+%
+#endindian
+\endsong
+%
+

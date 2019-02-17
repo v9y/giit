@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{jii bhar ke dekh luu.N mai.n}%
+\film{Deedar}%
+\year{1970}%
+\starring{}%
+\singer{Kishore}%
+\music{Usha Khanna}%
+\lyrics{Varma Malik}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+jii bhar ke dekh luu.N mai.n tumhe.n zulfe.n idhar kar lo
+saaraa jahaa.N hai udhar tum nazar jidhar kar lo
+jii bhar ke dekh luu.N mai.n tumhe.n   \threedots
+
+surkhii tere ruksaar pe badalegiii ra.ng bahaar ke
+mahak uThi fizaae.n bhii zulf terii sanvaar ke
+apani hayaa ki shokhiyaa ab to idhar kar lo
+saaraa jahaa.N hai udhar tum nazar jidhar kar lo
+jii bhar ke dekh luu.N mai.n tumhe.n   \threedots
+
+bhiige libaas me.n badan lagataa hai jaise gulaab ho
+shiishe kii palakii me.n koii jaise bharii sharaab ho
+baahe.n me.n baahe.n Daal kar dil pe asar kar lo
+saaraa jahaa.N hai udhar tum nazar jidhar kar lo
+jii bhar ke dekh luu.N mai.n tumhe.n   \threedots
+
+%
+#endindian
+\endsong
+%

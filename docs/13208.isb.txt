@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{bol kisakaa naam hai ... laal laal ho.nTho.n pe}%
+\film{Naajaayaz}%
+\year{1995}%
+\starring{Naseeruddin, Juhi, Ajay Devgan, Deepak Tijori, Reema Lagu, Ashish Vidyarthi}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Annu Malik}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ko \:	bol kisakaa naam hai \-2
+	kaalii kaalii aa.Nkho.n me.n gore gore gaalo.n
+	pe lambe lambe baalo.n me.n
+	saa.Nso.n me.n Kvaabo.n me.n baato.n me.n baaho.n me.n
+	bol bol bol bol bol bol bol
+
+ku \:	laal laal ho.nTho.n pe gorii kisakaa naam hai
+	dil me.n kaun rahataa hai kisakaa muqaam hai
+	are laal laal ho.nTho.n pe gorii kisakaa naam hai \-2
+	laal laal ho.nTho.n pe bol kisakaa naam hai
+
+a \:	laal laal ho.nTho.n pe piyaa teraa naam hai
+	mai.n huu.N kaniiz dil teraa gulaam hai
+	are laal laal ho.nTho.n pe piyaa teraa naam hai
+	laal laal ho.nTho.n pe bas teraa naam hai
+	dil kaa tuu maalik hai dil teraa muqaam hai
+ko \:	laal laal ho.nTho.n pe \threedots
+
+ku \:	tere dil kii kalii pahale kabhii kyaa khilii thii
+	mujhase pahale kabhii kyaa tuu kisii se milii thii
+a \:	are naa baabaa naa ilzaam ye naa lagaanaa
+	tujhase pahale kabhii apanaa kisii ko naa maanaa 
+	haa aa \-2
+ku \:	mere siine pe ##locket##
+	##locket## me.n terii hii tasviir maine sajaa_ii
+a \:	meraa tuu chaa.Ndii sonaa
+	teraa hii honaa hai karanii hai tujhase sagaa_ii
+ku \:	niichii nigaaho.n kaa ( tujhako salaam hai ) \-2
+	kaalii kaalii aa.Nkho.n me.n gorii kisakaa naam hai
+a \:	kaalii kaalii aa.Nkho.n me.n piyaa teraa naam hai
+ku \:	are laal laal ho.nTho.n pe \threedots
+
+a \:	o tere haath me.n rumaal paan kii rachaa_ii hai laalii
+	tirachhii Topii terii lagataa hai tuu to mavaalii
+ku \:	mai.n huu.N majanuu.n teraa merii lailaa nahii.n mai.n mavaalii
+	apane aashiq ko tuu detii hai kyuu.n aisii gaalii
+a \:	haa aa \-2
+ku \:	dil tujh pe qurbaan kiyaa teraa hii naam liyaa
+	zi.ndaa merii shaayarii tuu
+a \:	nahii.n dekhaa naa dekhuu.ngii tere sivaa auro.n ko
+	zi.ndaa merii aashiqii tuu
+	mujhako ek bas ( tujhase hii kaam hai ) \-2
+ku \:	terii har dha.Dakan me.n gorii kisakaa naam hai
+a \:	merii har dha.Dakan me.n piyaa teraa naam hai
+ku \:	are laal laal ho.nTho.n pe \threedots
+%
+#endindian
+\endsong
+

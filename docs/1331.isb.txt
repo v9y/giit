@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{nakharevaalii, dekhane me.n dekh lo hai kaisii bholii bhalii}% 
+\film{New Delhi}%
+\year{1956}%
+\starring{Kishore, Vyjanthimala}%
+\singer{Kishore, chorus}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian 
+%
+nakharevaalii 
+ko: aa aa aa aa 
+nakharevaalii, dekhane me.n dekh lo hai kaisii bholii bhalii 
+ko: aa aa aa aa 
+ajanabii ye chhoriyaa.n, dil pe Daale.n Doriyaa.n 
+man ki kAlii 
+ko: aa aa aa aa 
+vo to koI aur thI jo aa.Nkho.n se, samaa ga_ii dil me.n 
+ko: vo to koI aur thI jo aa.Nkho.n se, samaa ga_ii dil me.n 
+DiDalii aae DoDluu Au DiDalii aii
+
+besharam, bevafaa, apanA kuchh ataa pataa bataa to de 
+o, beraham u.nhhu hu.nh 
+bekalii oh ho ho
+bekasii uu.nhhu hu.nh
+kuchh to kam ho to phir se muskuraa to de 
+o, beraham
+ko: vo to koI aur thI, jo aa.Nkho.n se samaa ga_ii dil me.n 
+vo to koI aur thI, jo aa.Nkho.n se samaa gai dil me.n 
+
+DiDalii aae DoDluu Au DiDalii aii
+%
+#endindian
+\endsong
+%

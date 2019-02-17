@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{bulabul ko milaa phuul to nadii ko kinaaraa}%
+\film{Meri Kahani}%
+\year{1948}%
+\starring{Surendra, Munavvar Sultana, Pratima Devi, Sanobar, Leela Kumari}%
+\singer{Geeta Roy, Surendra Nath}%
+\music{K Datta}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12036 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+su \:	bulabul ko milaa phuul
+	bulabul ko milaa phuul to nadii ko kinaaraa
+	har dil ko hai duniyaa me.n
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+	bulabul ko milaa phuul to nadii ko kinaaraa
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+
+gii \:	iThalaaye huye ko_ii chalaa aataa hai man me.n \-2
+	karataa hai ko_ii chaa.Nd kii khi.Dakii se ishaaraa \-2
+	har dil ko hai duniyaa me.n
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+
+do \:	( bulabul ko milaa phuul to nadii ko kinaaraa
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa ) \-2
+
+su \:	machalaa hu_aa dil apanaa ye aramaano.n bharaa dil
+	kahane ko hamaaraa hai magar hai ye tumhaaraa \-2
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+
+gii \:	baiThe huye ham gaate rahe.n pyaar bharaa giit
+	chhaa jaaye zamaane pe yahii giit hamaaraa \-2
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+
+	ik TuuTii hu_ii naav hai insaan kaa jiiwan
+su \:	aramaan nadii aur muhabbat hai kinaaraa \-2
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+do \:	bulabul ko milaa phuul to nadii ko kinaaraa
+	har dil ko hai duniyaa me.n
+	har dil ko hai duniyaa me.n kisii dil kaa sahaaraa
+%
+#endindian
+\endsong
+

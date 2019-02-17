@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ek mahal maa.n chham\-chham karatii rahatii du_ii shahazaadii}%
+\film{Swayamvar}%
+\year{1980}%
+\starring{Sanjeev Kumar, Shashi Kapoor, Vidya Sinha, Moushumi Chaterjee}%
+\singer{Kishor, Rafi}%
+\music{Rajesh Roshan}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10424 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	ek mahal maa.n chham\-chham karatii rahatii du_ii shahazaadii
+	ek ho tan kii sone jaisii duujii man kii chaa.Ndii
+ra \:	ek mahal maa.n \threedots
+
+	ek suriilii baa.Nsurii jaisii pa.ncham sur maa.n bole
+	pahale hamako ghar la_ii jaa_o ham hai.n ghar kii baa.ndii
+
+	ek ba.Dii tiikhii nakhariilii har baat maa.n phuu.N phaa.N bole
+ki \:	duujii kuchh aisii sharmiilii mushkil se huu.N haa.N bole
+	hamako huu.N haa.N bhalii lage
+ra \:	hamako phuu.N phaa.N bhalii lage re
+ki \:	hamako huu.N haa.N bhalii lage tum la_ii jaa_o tuufaa.N aa.Ndhii
+
+	ek dafaa do bha_iiyo.n jaise aa_e do raajakumaar
+ra \:	dono.n samajhe jiite baajii dono.n ga_e dil haar
+ki \:	bin maalaa ke hu_aa svaya.mvar
+ra \:	bin maalaa ke hu_aa svaya.mvar
+do \:	bin maalaa ke hu_aa svaya.mvar
+	binaa svaya.mvar kii shaadii
+%
+#endindian
+\endsong
+

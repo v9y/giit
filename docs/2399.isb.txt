@@ -1,0 +1,58 @@
+%
+\startsong
+\stitle{mai.n ne puuchhaa chaa.Nd se}%
+\film{Abdullah}%
+\year{1980}%
+\starring{Raj Kapoor, Sanjay Khan, Zeenat Aman, Danny}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Ravi K Rai
+% Transliterator: K Vijay Kumar
+% Credits: Rajeev H, Vishal Ailawadhi, Tabassum Hijazi
+% Editor:
+%
+\printtitle
+#indian
+%
+mai.n ne puuchhaa chaa.Nd se ki dekhaa hai kahii.n
+mere yaar saa hasii.n
+chaa.Nd ne kahaa chaa.Ndanii kii qasam
+nahii.n, nahii.n, nahii.n
+mai.n ne puuchha chaa.Nd se   \threedots
+
+khuubsuuratii jo tuune paa_ii
+luT ga_ii Kudaa kii bas Kudaa_ii
+miir kii Gazal kahuu.N tujhe mai.n
+yaa kahuu.N Kayaam kii rubaa_ii
+mai.n jo puuchhuu.N shaayaro.n se aisaa dilanashii.n
+koii sher hai kahii.n
+shaayar kahe shaayarii kii qasam
+nahii.n, nahii.n, nahii.n
+mai.n ne puuchhaa chaa.Nd se    \threedots
+
+mai.n ne ye hijaab teraa Dhuu.NDhaa
+har jagah shabaab teraa Dhuu.NDhaa
+kaliyo.n se misaal terii puuchhii
+phuulo.n me.n javaab teraa Dhuu.NDhaa
+mai.n ne puuchhaa baaG se falaq ho yaa zamii.n
+aisaa phuul hai kahii.n
+baaG ne kahaa har kalii kii qasam
+nahii.n, nahii.n, nahii.n
+mai.n ne puuchhaa chaa.Nd se    \threedots
+
+ho chaal hai ki mauj kii ravaanii
+zulf hai ki raat kii kahaanii
+ho.nTh hai.n ki aa_ine ka.Nval ke
+aa.Nkh hai ki may_qado.n kii raanii
+mai.n ne puuchhaa jaam se falaq ho yaa zamii.n
+aisii may bhii hai kahii.n
+jaam ne kahaa, may_kashii kii qasam
+nahii.n, nahii.n, nahii.n
+mai.n ne puuchhaa chaa.Nd se    \threedots
+
+%
+#endindian
+\endsong
+%

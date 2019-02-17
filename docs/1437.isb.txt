@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{phir vohii shaam, vahii Gam, vahii tanahaa_ii hai}%
+\film{Jahan Ara}%
+\year{1964}%
+\starring{Bharat Bhushan, Mala Sinha}%
+\singer{Talat}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+phir vohii shaam vahii Gam vahii tanahaaI hai
+dil ko samajhaane terii yaad chalii aaI hai
+
+phir tasavvur tere pahaluu me.n biThaa jaaegaa
+phir gayaa vaqt gha.Dii bhar ko palaT aaegaa
+dil bahal jaaegaa aakhir ye to saudaaI hai
+phir vohii shaam \threedots
+
+jaane ab tujh se mulaaqaat kabhii ho ke na ho
+jo adhuurii rahe vo baat kabhii ho ke na ho
+merii ma.nzil terii ma.nzil se bichha.D aaI hai
+phir vohii shaam \threedots
+
+phir tere zulf ke rukhasaar kii baate.n ho.ngii
+hijr kii raat magar pyaar kii baate.n ho.ngii
+phir muhabbat me.n ta.Dapane kii qasam khaaI hai
+phir vohii shaam \threedots
+%
+#endindian
+\endsong
+%

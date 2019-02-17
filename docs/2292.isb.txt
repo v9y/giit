@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{chandan kaa palanaa, resham kii Dorii}%
+\film{Shabaab}%
+\year{}%
+\starring{Bharat Bhushan, Nutan}%
+\singer{Hemant / Hemant, Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Neha Desai
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Series: Hemantada, a genius in his niche
+%
+\printtitle
+#indian
+%
+sa.ngiit hai shakti ii{sh}var kii har sur me.n base hai.n raam
+raagii ko sunaaye raag madhur, rogii ko mile aaraam
+
+ho~~
+chandan kaa palanaa resham kii Dorii
+jhuulaa jhulaa_uu.N ni.ndiyaa ko torii
+chandan kaa palanaa   \threedots
+
+so jaa tuu aise morii sajaniyaa
+so jaa tuu aise morii sajaniyaa
+sajiyaa pe soye jaise dulhaniyaa
+chandaa kaa Tiikaa maathe lagaa_uu.N
+taaro.n kii maalaa tujhako pahanaa_uu.N
+taaro.n kii maalaa tujhako pahanaa_uu.N
+tohe sulaa_uu.N gaa gaa ke lorii
+jhuulaa jhuulaa_uu.N ni.ndiyaa ko torii
+chandan kaa palanaa   \threedots
+
+% in the duet version, hemantda and lata sing the following stanza together
+
+uu.Nche gagan se koii bulaaye
+laayii.n hai.n pariyaa.n Dolaa sajaaye
+sajan se milane duur chalii jaa
+u.Dake tuu ni.ndiyaa phur.r chalii jaa
+u.Dake tuu ni.ndiyaa phur.r chalii jaa
+chandaa pukaare aajaa chakorii
+jhuulaa jhuulaa_uu.N ni.ndiyaa ko torii
+chandan kaa palanaa   \threedots
+ 
+%
+#endindian
+\endsong
+%

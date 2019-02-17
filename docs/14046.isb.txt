@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{shaavaa ye nakharaa la.Dakii kaa ... jis or ye jaa_e taubaa}%
+\film{Suhaag}%
+\year{1994}%
+\starring{Akshay Kumar, Karisma, Ajay Devgan, Naghma, Aruna Irani, Tiku}%
+\singer{Alka Yagnik, Kumar Sanu, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ku \:	shaavaa vaavaa vaavaa shaavaa
+u \:	vaavaa ye nakharaa la.Dakii kaa
+ku \:	shaavaa ye nakharaa la.Dakii kaa
+u \:	vaavaa ye nakharaa la.Dakii kaa
+ku \:	jis or se ye jaa_e taubaa \-2
+u \:	ek shor mache haay taubaa \-2
+ku \:	shaavaa ye nakharaa \threedots
+
+	niilii hai isakii akh taubaa aashiq hai.n isake lakh taubaa
+u \:	gaalo.n pe isake til taubaa meraa luuT ke le ga_ii dil taubaa
+ku \:	shaavaa vaavaa \threedots
+
+a \:	chaahat ke maaro.n kaa taubaa ye Dushman ku.naaro.n kaa taubaa
+	bas aahe.n bharataa hai taubaa har ku.Dii pe marataa hai taubaa \-2
+ku \:	shaavaa vaavaa \threedots
+
+u \:	chhalle kaa nagiinaa hai taubaa ye madamast hasiinaa hai taubaa
+ku \:	banduuk kii golii hai taubaa par lagatii bholii hai taubaa
+	shaavaa vaavaa \threedots
+
+a \:	imalii kaa buuTaa hai taubaa aashiq ye jhuuThaa hai taubaa
+	jo baaj naa aa_egaa taubaa to maar bhii khaa_egaa taubaa
+	shaavaa vaavaa \threedots
+
+ku \:	naagin sii chalatii hai taubaa aa.Nkho.n se Da.nsatii hai taubaaa
+u \:	lailaa kii naanii hai taubaa ye ba.Dii sayaanii hai taubaa
+ku \:	ye ba.Dii sayaanii hai taubaa
+	shaavaa vaavaa \threedots
+
+a \:	dilaphe.nk diivaanaa hai taubaa majanuu.n ye puraanaa hai taubaa \-2
+	kaalaa hai isakaa man taubaa hai mushkil me.n jiivan taubaa
+ku \:	shaavaa vaavaa \threedots
+%
+#endindian
+\endsong
+

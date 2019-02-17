@@ -1,0 +1,34 @@
+%
+\startsong
+\stitle{un ko ye shikaayat hai ke ham, kuchh nahii.n kahate}%
+\film{Adaalat}%
+\year{}%
+\starring{Nargis}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor:  Ajay P Nerurkar on RMIM (apn@cs.buffalo.edu)
+% Transliterator:  Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+un ko ye shikAyat hai ke ham, (kuchh nahI.n kahate \- 2)
+apanI to ye aadat hai ke ham, (kuchh nahI.n kahate \- 2)
+
+majabUr bahaut karatA hai ye, (dil to zubaa.n ko \- 2)
+kuchh aisI hI haalat hai ke ham, (kuchh nahI.n kahate \- 2) 
+apanI to ye aadat \threedots
+
+kahane ko bahaut kuchh thA agar, (kahanepe aate \- 2)
+duniyA kI inaayat hai ke ham, (kuchh nahI.n kahate \- 2)
+apanI to ye aadat \threedots
+
+kuchh kahanepe tUfAn (uThA letI hai duniyA \- 2)
+ab isape qayAmat hai ke ham, (kuchh nahI.n kahate \- 2) 
+apanI to ye aadat \threedots
+%
+#endindian
+\endsong
+%

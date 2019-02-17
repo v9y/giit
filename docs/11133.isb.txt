@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{aisaa tiir chalaa mere dil par jisakii maar sahii na jaa_e}%
+\film{Dalaal}%
+\year{1993}%
+\starring{Mithun Chakravarti, Ayesha Zhulka}%
+\singer{Udit Narayan}%
+\music{Bappi Lahiri}%
+\lyrics{Prakash Mehra}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aisaa tiir chalaa mere dil par jisakii maar sahii na jaa_e
+dil kii saa.Ns aTak ga_ii dil me.n mose haay kahii na jaa_e
+tere nain pe kavitaa likhe kalam kholate rah rah jaa_e
+terii zulf kii baat chale to bin baadal barasaat ho jaa_e
+terii chaal kii kyaa misaal hiranii naagin bhii sharamaa_e
+mere dil par chale.n bijaliyaa.n jab kamar par chalii laharaa_e
+tere ruup ke aage darpaN ke Tuka.De ho jaa_e.n
+terii badan kii mahak se gorii cha.ndan bhii phiikaa pa.D jaa_e
+aisaa tiir chalaa mere dil par \threedots
+%
+#endindian
+\endsong
+

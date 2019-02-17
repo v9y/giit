@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{kah de zamaane se kah de ve kah de}%
+\film{Nazraanaa}%
+\year{1987}%
+\starring{Rajesh Khanna, Sridevi, Preeti Sapru, Geeta Kak, Jaishri Gadkar}%
+\singer{Anuradha Paudwal, Mohammed Aziz}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+anu \: kah de zamaane se kah de ve kah de
+maine kar lii re kar lii mohabbat kar lii
+tere pyaar ke saagar se man kii gaagar bhar lii
+
+mo \: kah de zamaane se kah de ve kah de
+anu \: maine kar lii kar lii \threedots
+
+mo \: aramaano.n ke jaaduu jaage
+         ab se kahii.n ye dil naa laage
+anu \: dekhe.n kyaa ho aage aage
+          maine to ( pahalii nazar ) \-2 me.n bhar lii
+mo \: kar lii re kar lii mohabbat \threedots
+
+anu \: kar le jis ko jo hai karanaa
+          bhuul ga_e ham jiinaa maranaa
+mo \: badanaamii se ab kyaa Daranaa
+         ( badanaamii ye ) \-2 apane sar lii
+anu \: kar lii re kar lii mohabbat \threedots
+
+         kyaa karate hai.n kyaa kahate hai.n
+         jab dil lete hai.n dil dete hai.n
+mo \: log kasam rab kii lete hai.n
+         maine ( terii kasam ) \-2 mere dilabar lii
+anu \: kar lii re kar lii mohabbat \threedots
+%
+#endindian
+\endsong
+

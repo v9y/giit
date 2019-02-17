@@ -1,0 +1,30 @@
+%
+\startsong
+\stitle{ek chhoTaa sa mandir banaaye.nge}%
+\film{Gramophone Singer}%
+\year{1938}%
+\starring{Surendra, Bibbo, Prabha, Bhudo Adwani}%
+\singer{Surendra Nath}%
+\music{Anil Biswas}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12267 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+ek chhoTaa sa mandir banaaye.nge \-2
+apanii devii ko usame.n biThaaye.nge \-2
+ek chhoTaa sa mandir banaaye.nge \-2
+
+roz phuulo.n se usako sajaaye.nge \-2
+yuu.Nhii apanii umariyaa bitaaye.nge \-2
+
+ek chhoTaa sa mandir banaaye.nge \-2
+apanii devii ko usame.n biThaaye.nge \-2
+ek chhoTaa sa mandir banaaye.nge \-2
+%
+#endindian
+\endsong
+%
+

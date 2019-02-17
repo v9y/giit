@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{jaane vaale teraa Kudaa haafiz}%
+\film{Palki}%
+\year{}%
+\starring{}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Arun Nair
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+jaane vaale teraa Kudaa haafiz
+aaj meraa salaam letaa jaa
+mere dil kaa payaam letaa jaa
+jaane vaale teraa Kudaa haafiz   \threedots
+
+mai.n terii Kaak huu.N mere raahii
+mujhako bhii saath saath aane de
+iltajaa hai ki raah me.n apanii
+aaj palake.n bichhaane de
+mujhase utanaa to kaam letaa jaa
+jaane vaale teraa Kudaa haafiz   \threedots
+
+al_vidaa jaan\-e\-aarazuu tujhako
+Gam ke maare salaam kahate hai.n
+ye luTe ghar, ye pyaar kii galiyaa.N
+ye nazaare salaam kahate hai.n
+yaad_Gaare.n tamaam letaa jaa
+jaane vaale teraa Kudaa haafiz   \threedots
+
+saa.Ns jab tak hai mere siine me.n
+mai.n teraa i.ntazaar kar luu.Ngii
+khush rahe tuu ye hai duaa merii
+mai.n to Gam se bhii pyaar kar luu.Ngii
+pyaar kaa tuu bhii naam letaa jaa
+jaane vaale teraa Kudaa haafiz   \threedots
+
+%
+#endindian
+\endsong
+%

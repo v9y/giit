@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{duniyaa hai barabaad dil kii ... miinaa baazaar}%
+\film{Meena Bazar}%
+\year{1950}%
+\starring{Nargis, Shyam, Kuldip, Om Prakash, Gop, Sapru, Kanhaiyalal}%
+\singer{Rafi, Lata}%
+\music{Husnlal Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #10236 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	duniyaa hai barabaad dil kii duniyaa hai ( barabaad ) \-3
+
+	aasamaan par jale chiraaG \-2
+	dil me.n jale mere dil ke daaG \-2
+	chaa.Nd sitaaro.n mujhe bataa_o \-2
+	kahaa.N hai meraa pyaar \-2
+ko \:	miinaa baazaar \-2 \threedots
+
+ra \:	rote hai.n mere dil ke aramaa.N \-2
+	ha.Nsataa hai gulazaar
+	kahaa.N hai meraa phuul bataa_o kahaa.N hai meraa pyaar \-2
+ko \:	miinaa baazaar \-2 \threedots
+%
+#endindian
+\endsong
+

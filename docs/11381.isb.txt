@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{mai.n raajaa tuu raanii}%
+\film{Dildaar}%
+\year{1977}%
+\starring{Jeetendra, Rekha, Nazneen, Shashikala, Prem Chopra}%
+\singer{Kishore, Asha}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11583 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+mai.n raajaa tuu raanii
+tuu raajaa mai.n raanii
+mai.n premanagar kaa raajaa tuu ruupanagar kii raanii
+rahe na duniyaa rahegii terii\-merii kahaanii
+mai.n raajaa tuu \threedots
+
+kab se dharatii ambar jhuum rahaa hai jaane
+raahii na_e hai.n raaste sadiyo.n puraane
+ye hii hai merii priit jo priitam sabase puraanii
+mai.n raajaa tuu \threedots
+
+khilane kaa jinako aramaan hotaa hai
+har us kalii pe ye Gumaan hotaa hai
+tere\-mere pyaar kii hai ye ko_ii nishaanii
+mai.n raajaa tuu \threedots
+
+kaun se chaa.Nd\-sitaare ham jaane kaun hai.n
+kis nadiyaa ke dhaare ham jaane kaun hai.n
+jo bhii hai.n ik jaan hai.n dono.n ek zindagaanii
+mai.n raajaa tuu \threedots
+%
+#endindian
+\endsong
+

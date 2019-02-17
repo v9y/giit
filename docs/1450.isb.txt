@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{piyaa aiso jiyaa me.n samaay gayo re}%
+\film{Sahib Biwi Aur Ghulam}%
+\year{1962}%
+\starring{Guru Dutt, Rehman, Meena Kumari, Waheeda}%
+\singer{Geeta}%
+\music{Hemant}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Vandana Venkatesan  (vandana@ece.scarolina.edu)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% Geeta (known as Geeta Roy before she married Guru Dutt) 
+% was one of the singers who could sing for any mood:  be it 
+% naughty (Jahan kahan mera jigar gaya ji, Mera naam chinchinchu), 
+% sad (Na jao saiyan), vampish (Jaata kahan hai deewane) or plain
+% romantic and sound as fresh as ever unlike today's singers who
+% start sounding monotonous after the third song!
+% She is definitely my favorite among the female singers!
+% 
+% This song is from Sahib, Biwi aur Gulaam, a landmark movie
+% in Guru Dutt's direction, in which Guru Dutt himself, Meena 
+% Kumari, Waheeda  and Rehman have given memorable performances.
+% 
+% --------------------------------------------------------------------
+(piyaa aiso jiyaa me.n samaay gayo re 
+ki mai.n tan man kii sudh budh gavaa.N baiThii ) \- 2
+har aahaT pe samajhii vo aay gayo re
+jhaT ghuu.NghaT me.n mukha.Daa chhupaa baiThii
+piyaa aiso jiyaa me.n samaay gayo re \threedots
+
+(more a.nganaa me.n jab puravayyaa chalii 
+more dvaare kii khul gaI kivaa.Diyaa.n )   \- 2
+o daiyaa! dvaare kii khul gaI kivaa.Diyaa.n
+maine jaanaa ki aa gaye saa.nvariyaa more   \- 2
+jhaT phuulan kii sejiyaa pe jaa baiThii
+piyaa aiso jiyaa me.n samaay gayo re \threedots
+
+(maine si.nduur se maa.Ng apanii bharii 
+ruup saiyaa.N ke kaaraN sajaayaa )    \- 2
+o maine saiyaa.N ke kaaraN sajaayaa
+is dar se kisii kii nazar na lage     \- 2
+jhaT nainan me.n kajaraa lagaa baiThii
+piyaa aiso jiyaa me.n samaay gayo re \threedots
+%
+#endindian
+\endsong
+%

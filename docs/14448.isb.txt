@@ -1,0 +1,53 @@
+
+%
+\startsong
+\stitle{mujhase bhalaa ye kaajal teraa nain base din\-rain}%
+\film{The Train}%
+\year{1970}%
+\starring{Rajesh Khanna, Nanda}%
+\singer{Rafi, Lata}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10807 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	mujhase bhalaa ye kaajal teraa nain base din\-rain
+	nii soNiye \-2
+la \:	ho chho.D bedardii aa.Nchal meraa ho ga_ii mai.n bechain
+	re soNeyaa \-2
+
+ra \:	naam kii tuu hai merii sajaniyaa naam kaa huu.N mai.n teraa piyaa o
+	reshamii laT se khele ye gajaraa duur se tarase meraa jiyaa
+	naa naa
+la \:	haa.N haa.N
+ra \:	taubaa
+la \:	taubaa kaisii
+	naam hai premii paagal teraa to sa.ng laage nain
+	re soNeyaa \-2
+
+	prem galii me.n hogaa na balamaa tujhasaa diivaanaa aur ko_ii o
+	chain u.Daanaa nii.nd churaanaa siikhe tujhase chor ko_ii
+	naa naa
+ra \:	haa.N haa.N gorii
+la \:	kyaa hai sai.nyaa
+ra \:	huu.N mai.n to ghaayal teraa ta.Dapuu.N saarii rain
+	nii soNiye \-2
+la \:	chho.D bedardii aa.Nchal \threedots
+
+ra \:	chaahe pavan ho chaahe kiraN ho chhuune na duu.Ngaa teraa badan
+la \:	jalataa hai man to man me.n chhupaa ke rakh le mujhe tuu mere sajan
+	naa naa
+ra \:	haa.N haa.N raanii
+la \:	kyaa hai raajaa
+ra \:	haa.N ruup barasataa baadal teraa pyaase hai.n nain
+	nii soNiye \-2
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+\startsong
+\stitle{mai.n huu.N ruup kii raanii}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Lata}%
+\music{B S Kalla}%
+\lyrics{Pt Indra}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% Kosh does not mentions Lata as singer
+
+\printtitle
+#indian
+
+ho
+mai.n huu.N ruup kii raanii \-2
+ho sajanii jaaduu hai merii jawaanii
+
+( mai.n huu.N puunam kii chaa.Ndinii
+mai.n huu.N diipak kii raaginii ) \-2
+jal jaate mujh par parawaate
+haa
+rahatii raakh nishaanii
+ho sajanii jaaduu hai merii jawaanii
+
+aa haa
+piyaa gaye bujhaane pyaas re
+haay kaisii jhuuThii aas re
+chaa.Nd chho.D riijhe.n taare par
+ye kaisii naadaanii
+
+ho sajanii mai.n huu.N ruup kii raanii
+
+#endindian
+\endsong

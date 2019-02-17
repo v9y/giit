@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{khataa to jab ho ke ham haal\-e\-dil kisii se kahe.n}%
+\film{Dil Kaa Kyaa Qasoor}%
+\year{1992}%
+\starring{Divya Bharati, Sanam, Prithvi, Laxmikant Berde, Raju Shreshtha, Shehnaz Kudia}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Nadeem Shravan}%
+\lyrics{Anwar Sagar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+khataa to jab ho ke ham haal\-e\-dil kisii se kahe.n
+kisii ko chaahate rahanaa ko_ii khataa to nahii.n
+
+amiir tuu hai magar ye terii khataa ho nahii.n
+gariib mai.n huu.N magar ye merii khataa ho nahii.n
+kisii ko chaahate rahanaa \threedots
+
+tujhe bhii pyaar hai mujhase mai.n jaanatii huu.N sanam
+ye baat aur hai mujhase kabhii kahaa to nahii.n \-2
+kisii ko chaahate rahanaa \threedots
+
+har ek pal mai.n tujhe yaad kiyaa karataa huu.N
+tujhe bhulaa ke mai.n pal bhar kabhii jiyaa to nahii.n \-2
+kisii ko chaahate rahanaa \threedots
+%
+#endindian
+\endsong
+

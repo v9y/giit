@@ -1,0 +1,58 @@
+
+%
+\startsong
+\stitle{mere dil kaa tumase hai kahanaa ... bas mere hii rahanaa}%
+\film{Armaan}%
+\year{2003}%
+\starring{Amitabh Bachchan, Anil Kapoor, Preity Zinta, Gracy Singh, Randhir Kapoor}%
+\singer{Chitra}%
+\music{Shankar-Ehsaaan-Loy}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: BOL ANAMOL #11667 [V S Rawat]
+% Producer: Amit Enterprises, Dinesh Gandhi, Director: Honey Irani
+% Audio: Super Cassettes Industries Ltd, T Series, www.t-series.com
+% Cassette: Royal SHFC 1/3362 Stereo, Rs 50/-, CD: SFCD 1/735 CLUB, Cost: Rs 99/-
+% website: www.armaanthefilm.com
+%
+\printtitle
+#indian
+%
+( mere dil kaa tumase hai kahanaa
+bas mere hii rahanaa
+nahii.n to samajhe ) \-2
+o apanii ho ye daastaa.N
+banake rahe.n ham yahaa.N
+do jism aur ek jaa.N
+samajho jo kahatii huu.N
+mere dil kaa tumase hai kahanaa \threedots samajhe \-2
+
+mai.n to yahii bas chaahuu.N
+ke mujhako chaaho har gha.Dii tum
+kitanii mai.n hasii.n huu.N
+mujhe samajhaa_o har gha.Dii tum
+huu.N dil me.n samaa_o mujhe
+paas bulaa_o mujhe
+dekhe hii jaa_o mujhe
+samajho jo kahatii huu.N
+mere dil kaa tumase hai kahanaa \threedots samajhe
+
+ho ho aa haa haa haa haa
+
+tumase kahuu.N mai.n kaise
+hai.n kaise\-kaise aramaa.N jaage
+haa.N haa.N gum se hosh hai.n jaise
+ke ab aa.Nkho.n se nii.nd bhaage
+haa.N ba.Dhatii hai.n bechainiyaa.N
+mahakii hai.n tanahaa_iyaa.N
+ab kyo.N rahe.n duuriyaa.N
+samajho jo kahatii huu.N
+mere dil kaa tumase hai kahanaa \threedots samajhe \-2
+o apanii ho ye daastaa.N \threedots aur ek jaa.N
+samajho
+mere dil kaa tumase hai kahanaa \threedots samajhe
+samajhe \-3
+%
+#endindian
+\endsong
+

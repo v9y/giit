@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ye to pahalaa jaam hai ... raat bhar jaam se jaam Takaraa_egaa}%
+\film{Tridev}%
+\year{1989}%
+\starring{Naseeruddin, Sunny, Jackie, Madhuri, Sonam, Sangeeta Anupam, Amrish}%
+\singer{Alisha Chinai}%
+\music{Kalyanji Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ye to pahalaa jaam hai abhii to shaam hai
+raat bhar jaam se jaam Takaraa_egaa
+jab nashaa chhaa_egaa tab mazaa aa_egaa
+raat bhar jaam se \threedots
+
+jashn hii jashn hai josh hii josh hai
+aur kisii baat kaa ab kise hosh hai
+sabako apanaa naam bhii aaj bhuul jaa_egaa
+raat bhar jaam se \threedots
+
+husn la.Dakha.Daa_egaa ishq Dagamagaa_egaa
+raat bhar jaam se \threedots
+
+kyaa ye sharaab hai chiiz ye kharaab hai
+par sabhii savaalo.n kaa ek hii javaab hai
+jo kisii ke dil me.n hai vo jabaa.n par aa_egaa
+raat bhar jaam se \threedots
+%
+#endindian
+\endsong
+

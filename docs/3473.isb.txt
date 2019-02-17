@@ -1,0 +1,47 @@
+% ITRANS SONG # 3473; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)
+% Date: 2002-08-18 22:03:11 PST
+%
+\startsong
+\stitle{suno pa.nchhii ke raag}%
+\film{Aurat/ Woman}%
+\year{1940}%
+\starring{Sardar Akhtar, Surendra, Yakub, Jyoti, Harish, Vatsala Kumthekar}%
+\singer{Anilda, Jyoti, Sardar Akhtar, Surendra, Harish, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 18 august 2002
+% Credits: Satish Kalra
+%
+\printtitle
+#indian
+%
+anil biswas, sardar akhtar and chorus:
+
+suno pa.nchhii ke raag    kare koyal pukaar
+ahaa kheto.n pe paDatii hai jal kii phuhaar
+
+female voice (probably sardar akhtar):
+mere aashaa ke jiivan me.n aa_ii bahaar
+chale shiital pavan  khile phuulo.n kii Daar
+banii apane piyaa ke gale kaa mai.n haar
+mere aashaa ke jiivan me.n aa_ii bahaar      \threedots
+
+female voice (probably jyoti):
+uThe man me.n tara.ng      bahe amRRit kii dhaar
+kahii.n aaye balam       kiye baiThii si.ngaar
+
+probably surendra:
+machii baaGo.n me.n dhuum      kiye patte nikhaar
+hu_aa phuulo.n ke gahane se      ban kaa si.ngaar
+
+probably harish:
+pa.Dii naino.n pe choT     lagii dil me.n kaTaar
+chale chhailaa sajanawaa     jo chhaatii ubhaar
+%
+#endindian
+\endsong
+%

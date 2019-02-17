@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aayaa aayaa yaar kaa salaam pyaar se mere naam}%
+\film{Jaisi Karni Waisi Bharni}%
+\year{1989}%
+\starring{Govinda, Kimi, Shakti Kapoor, Shoma Anand, Gulshan Grover, Kader Khan}%
+\singer{Sadhana Sargam, Mohammed Aziz}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+salaam salaam salaam salaam
+aayaa aayaa yaar kaa salaam pyaar se mere naam
+aa.Nkho.n me.n rahane lagaa tuu saa.Nso.n me.n basane lagaa tuu
+dilarubaa merii zi.ndagii aaj se tere naam
+aayaa aayaa yaar kaa \threedots
+
+naa ko_ii diivaar na ko_ii paharaa hamako nahii.n ko_ii Gam\-e\-judaa_ii
+aaj milaayaa aise Kudaa ne mil ga_ii ho hamako Kudaa_ii
+tuune qubuul kiyaa hai haath jo thaam liyaa
+naa jaane kab kii du_aa aa ga_ii mere kaam
+aayaa aayaa yaar kaa \threedots
+
+khvaabo.n ko tuune haqiiqat me.n badalaa khushiyo.n kii baaraat le ke tuu aayaa
+ban ke dulhan mere ghar aa ga_ii tuu dil se lipaTane lagaa meraa saayaa
+kal tak rahe jo adhuure aramaa.n hu_e aaj puure
+ho.nTho.n ko aab\-e\-hayaat milaa to.D diyaa maine jaam
+aayaa aayaa yaar kaa \threedots
+
+aa.Nkho.n me.n rahane lagii tuu saa.Nso.n me.n basane lagii tuu
+dilarubaa merii zi.ndagii aaj se tere naam
+aayaa aayaa yaar kaa \threedots
+%
+#endindian
+\endsong
+

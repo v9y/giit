@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{o jisakaa saathii hai bhagavaan}%
+\film{Aastik}%
+\year{1956}%
+\starring{Shaahu Modak, Paro, Meenaxi, B M Vyas, Nagpal, Anand Joshi}%
+\singer{Rafi}%
+\music{Narayan Dutt}%
+\lyrics{S P Kalla}%
+%
+% Contributor: BOL ANAMOL #11432 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+o jisakaa saathii hai bhagavaan
+usako kyaa rokegaa aa.Ndhii aur tuufaan
+
+gagan chuur ho jaa_e zamii.n chaahe dharatii me.n dha.ns jaa_e
+tuufaano.n kii god me.n chaahe saaraa jag kho jaa_e
+paa.Nv na rukane paa_e
+o jisakaa saathii \threedots
+
+jisake shiish pe haath hazaaro.n chhuu naa ko_ii paa_egaa
+hari naam se parvat tinakaa ban jaa_egaa
+dhuul me.n mil jaa_egaa
+o jisakaa saathii \threedots
+
+bhakt\-hari kaa bandhan to jyo.n diipak aur baatii
+usii jyoti se ye jalatii hai usame.n hii mil jaatii
+deh amar
+o jisakaa saathii \threedots
+%
+#endindian
+\endsong
+

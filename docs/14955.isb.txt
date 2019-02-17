@@ -1,0 +1,47 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jiivan jyoti bujhatii jaaye, tujh bin kaun jagaaye}%
+\film{Vidya}%
+\year{1948}%
+\starring{Dev Anand, Suraiya}%
+\singer{Amirbai}%
+\music{S D Burman}%
+\lyrics{Yashodanandan Joshi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+jiivan jyoti bujhatii jaaye
+tujh bin kaun jagaaye \-2
+prabhuu jii \-2
+tujh bin kaun jagaaye
+
+( chaaro.n or chhaayaa a.ndhiyaaraa
+suujhat naahii.n duur kinaaraa ) \-2
+teraa hii hai ek sahaaraa \-2
+tujh bin kaun sujhaaye \-2
+prabhuu jii \-2
+tujh bin kaun sujhaaye
+
+( dukh aaye parawaah nahii.n hai
+dukh paane kii chaah nahii.n hai
+dukh aaye
+mai.n muurakh ma.nzil ko Dhuu.NDhuu.N \-2
+tujh bin kaun bataaye \-2
+prabhuu jii \-2
+tujh bin kaun bataaye
+
+ulajhe hai.n jab uu.Nch\-niich kii ulajhan me.n
+uu.Nch\-niich kii ulajhan me.n
+bolo kaise chain mile phir jiiwan me.n
+chain mile phir jiiwan me.n
+banii hamaarii biga.D rahii hai \-2
+tujh bin kaun banaaye \-2
+prabhuu jii \-2
+tujh bin kaun banaaye
+
+#endindian
+\endsong

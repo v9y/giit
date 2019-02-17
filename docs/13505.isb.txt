@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{sukh hai to gaanaa hai ... tum naa hoge ham na ho.nge}%
+\film{Prateekshaa}%
+\year{1992}%
+\starring{Govinda, Shilpa Shirodkar, Moushumi, Danny, Jeetendra, Vinod Mehra}%
+\singer{Kumar Sanu, Govinda}%
+\music{Rajesh Roshan}%
+\lyrics{Indivar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sukh hai to gaanaa hai duHkh hai to gaanaa hai
+tum naa hoge ham na ho.nge giit hii rah jaanaa hai
+
+aaj sajii vo mahafil kal jo afasaanaa hai
+tum naa hoge ham na \threedots
+
+yaad karo vo baate.n jo thaa sunaataa ko_ii
+dil se dil mil jaa_e.n ye thaa samajhaataa ko_ii
+usii saragam kaa hii sur huu.N mai.n dil par chhaa jaa_uu.Ngaa
+apane baap ke naam ko aur bhii roshan kar jaa_uu.Ngaa
+jo naa kiyaa hai ab tak vo karake dikhalaanaa hai
+tum naa hoge ham na \threedots
+%
+#endindian
+\endsong
+

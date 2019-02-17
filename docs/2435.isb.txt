@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pahalaa pahalaa pyaar hai}%
+\film{Ham Aapke Hain Kaun}%
+\year{}%
+\starring{Salman Khan, Madhuri Dixit}%
+\singer{S P Balasubramaniam}%
+\music{Ram Laxman}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: Alfaaz
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+pahalaa pahalaa pyaar hai
+pahalii pahalii baar hai
+jaan ke bhii an_jaanaa
+kaisaa meraa yaar hai   \threedots
+
+usakii nazar, palako.n kii chilaman se mujhe dekhatii, usakii nazar
+usakii hayaa, apanii hii chaahat kaa raaz kholati, usakii hayaa
+chhup ke kare jo vafaa, aisaa meraa yaar hai
+pahalaa pahalaa pyaar hai   \threedots
+
+vo hai nishaa, vo hii merii zi.ndagii kaa bhor hai, vo hai nishaa
+use hai pataa, usakii haatho.n me.n merii Dor hai, use hai pataa
+saare jahaa.N se judaa, aisaa meraa pyaar hai
+pahalaa pahalaa pyaar hai   \threedots
+
+%
+#endindian
+\endsong
+%

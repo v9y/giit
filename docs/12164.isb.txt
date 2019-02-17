@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{tujhase hamaaraa vaadaa hai hamadam ... jiye.nge mare.nge tumhaare li_e ham}%
+\film{Jeenaa Teri Gali Mein}%
+\year{1990}%
+\starring{Kavita Kapoor, Suraj, Amrita Nangia, Girija Shankar, Vijay Kashyap}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Babul Bose}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tujhase hamaaraa vaadaa hai hamadam
+jiye.nge mare.nge tumhaare li_e ham
+badalegii duniyaa badalegaa aalam
+jiye.nge mare.nge \threedots
+
+pal me.n lage jo sadiyo.n puraanaa
+ye kaisaa hai naataa kisii ne na jaanaa
+naye phuul kaise khilaataa hai mausam
+mohabbat ne hamako milaayaa hai jaanam
+tujhase hamaaraa vaadaa \threedots
+
+palake.n jhukii.n aur nazare.n hai.n so_ii
+naa muddat se mujhase milaa aur ko_ii
+khushiyaa.n mile.n yaa hamako mile.n Gam
+pyaar hamaaraa naa hogaa kabhii kam
+tujhase hamaaraa vaadaa \threedots
+%
+#endindian
+\endsong
+

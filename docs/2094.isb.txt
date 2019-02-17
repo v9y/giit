@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{jaa re badaraa bairii jaa re}%
+\film{Bahana}%
+\year{1960}%
+\starring{Meena Kumari, Sajjan}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: K Vijay Kumar
+% Credits: Vandana Vidwans, Ashok Dhareshwar, Neha Desai
+% Editor:  
+%
+\printtitle
+#indian
+%
+jaa re badaraa bairii jaa re jaa re
+piyaa kaa sandesavaa laa re laa re laa re
+jaa re badaraa bairii jaa re jaa re
+
+pii ke daras ko jiyaraa tarase
+pii kii khabariyaa laa re laa re laa re
+jaa re   \threedots
+
+kahiyo sajan se man kii batiyaa
+ro ro haal sunaa
+jaa re   \threedots
+
+baaT takat morii haarii najariyaa
+kab aaye.nge saa.Nvariyaa
+mohe kyo.n sataaye paapii
+shor machaaye jaa re
+moraa saa.Nvariyaa laa re laa re laa re
+jaa re   \threedots
+
+%
+#endindian
+\endsong
+%

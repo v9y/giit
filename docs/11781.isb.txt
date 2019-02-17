@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{aa ga_e din sanam ikaraar ke ... hogii pyaar kii jiit}%
+\film{Hogi Pyaar Ki Jeet}%
+\year{1999}%
+\starring{Ajay Devgan, Arshad Vaarasi, Neha, Mayuri Kango}%
+\singer{Abhijit, Sonu Nigam, Jaspindar Narula, Hema Sardesai}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa ga_e din sanam ikaraar ke
+kabhii kahii.n na ham ruke.nge haar ke
+aa ga_e din sanam \threedots
+
+o manamiit hogii pyaar kii jiit
+hai rab bhii saath unake jo karate hai.n priit
+hogii pyaar kii jiit
+hai rab bhii \threedots
+
+kuchh bhii zamaanaa kare ham naa kisii se Dare.n
+ham chal pa.De aasamaa.n ko jhukaa_e.n
+dil ke lahuu se likhe.nge fasaane
+aa ga_e din sanam izahaar ke
+kabhii kahii.n na \threedots
+
+le ke na_e zalazale tuufaan ban ke chale
+gaate rahe.nge milan ke taraane
+ho.nge judaa naa kabhii ham diivaane
+aa ga_e din sanam diidaar ke
+kabhii kahii.n na \threedots
+%
+#endindian
+\endsong
+

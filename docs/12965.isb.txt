@@ -1,0 +1,34 @@
+
+%
+\startsong
+\stitle{lo Kuu.N se Kuu.N judaa hu_aa mushkil se jo mil naa paayaa}%
+\film{Main Nashe Mein Hoon}%
+\year{1959}%
+\starring{Raj Kapoor, Mala Sinha}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10876 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+lo Kuu.N se Kuu.N judaa hu_aa mushkil se jo mil naa paayaa
+vo mil ke phir naa mil sakaa taqadiir ko naa bhaayaa
+
+chup hai zubaa.N lekin chaahat ye kah rahii hai
+mai.n pyaar kaa huu.N baadal aur vo hai meraa saayaa
+lo Kuu.N se Kuu.N \threedots
+
+dil kah rahaa hai meraa usako gale lagaa luu.N
+siine kii aag ko mai.n is pyaar se bujhaa luu.N
+maalii kaa ghar uja.D gayaa aur phuul ra.ng laayaa
+lo Kuu.N se Kuu.N \threedots
+%
+#endindian
+\endsong
+

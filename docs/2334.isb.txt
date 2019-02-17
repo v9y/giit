@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham chaahe.n yaa na chaahe.n}%
+\film{Phir Bhi}%
+\year{1971}%
+\starring{}%
+\singer{Hemant}%
+\music{Raghunath Seth}%
+\lyrics{Pt. Narendra Sharma}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Series : Hemantada, a genius in his niche
+%
+\printtitle
+#indian
+%
+ham chaahe.n yaa naa chaahe.n
+hamaraahii banaa letii hai.n
+hamako jiivan kii raahe.n
+ham chaahe.n yaa na chaahe.n   \threedots
+
+ye raahe.n kahaa.N se aate
+ye raahe.n kahaa.N le jaate
+raahe.n dharatii ke tan par
+aakaash kii phailii baahe.n
+ham chaahe.n yaa na chaahe.n   \threedots
+
+utaraa aakaash dharaa par
+tan man kar diyaa nichhaavar
+jo phuul khilaanaa chaahe.n
+ha.Ns ha.Ns kar saath nibaahe.n
+ham chaahe.n yaa na chaahe.n   \threedots
+
+%
+#endindian
+\endsong
+%

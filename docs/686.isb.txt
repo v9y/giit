@@ -1,0 +1,74 @@
+%
+\startsong
+\stitle{ham pyaar karanevaale duniyaa se naa Daranevaale}%
+\film{Dil}%
+\year{1990}%
+\starring{Aamir Khan, Madhuri Dixit and Anupam Kher}%
+\singer{Anuradha Paudwal, Udit Narayan}%
+\music{Anand-Milind}%
+\lyrics{Sameer}%
+%
+% Contributor:  
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+% 
+u: (ham pyaar karanevaale 
+duniyaa se naa Daranevaale ) \- 2
+(yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge mara jaae.nge ) \- 2
+
+a: ham pyaar karanevaale 
+duniyaa se naa Daranevaale \- 2
+(yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge mar jaae.nge ) \- 2
+
+u:  (roka sake jo dilavaalo.n ko
+aisii koii jel nahii.n ) \- 2
+
+a:  (dil kaa lagaanaa is duniyaa me.n 
+logo.n, koii khel nahii.n ) \- 2
+
+u:  baa.ndhaa hai kisane paagal havaa ko?
+a:  rokaa hai kisane u.DatI ghaTaa ko?
+
+dono: to.Dake pi.nja.Daa u.D jaae.nge
+haatha nahii.n ham aae.nge
+
+u:   yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge mara jaae.nge
+a:   yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge marajaae.nge
+
+a: (lailaa nahii.n ham, majanuu nahii.n ham
+julm aur sitam jo hasake sahe.n ) \- 2
+
+u: (roke kiseke ham to ruke naa
+apanaa milan to hoke rahe.n ) \- 2
+
+a: pyaar kiyaa hai pyaar kare.nge
+u: ham to zamaane se naa Dare.nge
+
+dono: apanii mohabbat kii taakat se
+duniyaa ko jhukaae.nge
+
+a:   yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge mara jaae.nge
+u:   yaar jalane vaalo.n ko jalae.nge
+pyaar me.n jiye.nge mara jaae.nge
+
+a: ham pyaar karanevaale 
+u: duniyaa se naa Daranevaale
+a: duniyaa se naa Daranevaale
+
+dono: yaar jalane vaalo.n ko jalaae.nge
+pyaar me.n jiye.nge mar jaae.nge
+yaar jalane vaalo.n ko jalaae.nge
+pyAr me.n jiye.nge mara jaae.nge
+%
+#endindian
+\endsong
+%

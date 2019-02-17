@@ -1,0 +1,87 @@
+%
+\startsong
+\stitle{gaa_o taraane man ke jii aashaa aa_ii dulhan ban ke jii}%
+\film{Aan}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Nadira, Premnath, Mukri, Cukoo}%
+\singer{Lata, Shamshad, Rafi, Shyam, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: V S Rawat
+% Series: Bol Anmol
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+ko :	hoy
+	he
+	hoy gaa_o taraane man ke jii
+	aashaa aa_ii dulahan ban ke jii
+	naacho naacho man kii taal pe
+	chham\-chham \-3
+
+	hoy aaj Kushii ban\-Than ke jii
+	kar ghar aa_ii hai dulahan ke jii
+	naacho naacho man kii taal pe
+	chham\-chham \-3
+
+sha :	dhak\-dhak ma.n me.n Dholak baaje
+	chham\-chham pag me.n paayal
+	ho chham\-chham pag me.n paayal
+ko :	aa aa
+	hoy
+	dhak\-dhak ma.n me.n Dholak baaje
+	chham\-chham pag me.n paayal
+la :	baalam kii nazaro.n ne \-2
+	kiyaa hai aaj meraa dil ghaayal
+ko :	aa
+	hoy baalam kii nazaro.n ne
+	kiyaa hai aaj meraa dil ghaayal
+sha :	bhed mai.n apane kholuu.N naa
+	kuchh boluu.N naa
+	sa.ng Doluu.N naa
+
+	tiir chale chitawan ke jii
+	rimajhim aaye din saawan ke jii
+	naacho naacho man kii taal pe
+	chham\-chham
+ra : aahaa
+sha :	chham\-chham
+ra : waah
+sha :	chham\-chham
+
+sha :	apane piyaa kii jogan ban jaa
+	chho.D de mahal\-dumahale
+	ho chho.D de mahal\-dumahale
+ko :	o
+	hoy apane piyaa kii jogan ban jaa
+	chho.D de mahal\-dumahale
+la :	phuul wahii sachhaa hai \-2
+	jo kaa.NTo.n ke dukh bhii sah le
+ko :	ho
+	hoy phuul wahii sachhaa hai
+	jo kaa.NTo.n ke dukh bhii sah le
+sha :	pyaar ko jab tum jaanoge
+	pahachaanoge
+	phir maanoge
+
+	ruup naye jiiwan ke jii
+	milate hai.n dwaare saajan ke jii
+	naacho naacho man kii taal pe
+
+ko :	hoy gaa_o taraane man ke jii
+	aashaa aa_ii dulahan ban ke jii
+	naacho naacho man kii taal pe
+	chham\-chham \-3
+
+	hoy aaj Kushii ban\-Than ke jii
+	kar ghar aa_ii hai dulahan ke jii
+	naacho naacho man kii taal pe
+	chham\-chham \-3
+
+	aa aa aa
+%
+#endindian
+\endsong

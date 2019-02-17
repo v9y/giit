@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{koyal sii terii bolii ... suurat hai kitanii bholii}%
+\film{Betaa}%
+\year{1992}%
+\starring{Anil Kapoor, Madhuri Dixit}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+koyal sii terii bolii kuu ku ku ku ku
+suurat hai kitanii bholii kuu ku ku ku ku
+nain tere kajaraare ho.nTh tere a.ngaare
+tujhe dekh ke dil meraa khone lagaa
+
+baato.n me.n terii saragam chhan chhan chhan chhan chhan
+man ko lubhaa_e priitam chhan chhan chhan chhan chhan
+ra.ng teraa ra.ngiilaa tuu hai chhail chhabiilaa
+tujhe dekh ke kuchh mujhe hone lagaa
+
+yauvan kii tuu malikaa khil ke teraa badan mahake
+aa_uu.n jo paas tere saa.Nso.n kaa chaman mahake
+a.ngo.n se tere ras barase tere li_e jiivan tarase
+mere hosh li_e jaate hai.n ka.nvaare tere ka.nganaa
+tuune mujhe bechain kiyaa tuune bhii to meraa chain liyaa
+baato.n me.n terii saragam \threedots
+
+tuune mere tan ko chhu_aa man me.n hu_ii ko_ii halachal
+dil meraa Dol gayaa aise u.Daa teraa aa.Nchal
+priit ke ra.ng ra.ngaa_uu.n chunar naam tere likh dii hai umar
+banake mai.n aa_uu.ngii dulhan tere a.nganaa
+tere milan kii pyaas jagii kaise kahuu.n kyaa aag lagii
+koyal sii terii bolii \threedots
+%
+#endindian
+\endsong
+

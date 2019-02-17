@@ -1,0 +1,55 @@
+%
+\startsong
+\stitle{cheharaa hai yaa chaa.Nd khilaa hai}% 
+\film{Saagar}%
+\year{}%
+\starring{Rishi, Kamal Hasan, Padmini}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: Arun Verma (verma@CS.Cornell.EDU)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Neha Desai
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+(ho, cheharaa hai yaa chaa.Nd khilaa hai
+zulf ghanerii shaam hai kyaa ) \- 2
+saagar jaisii aa.Nkho.n vaalii  
+ye to bataa terA naam hai kyaa \threedots
+
+tU kyA jaane terI khaatir 
+kitanaa hai betaab ye dil 
+tU kyA jaane dekh rahaa hai 
+kaise kaise khvaab ye dil 
+dil kahataa hai \threedots tU hai yahaa.N to
+jaataa lamhaa tham jaaye
+vaqt kA dariyaa bahate bahate 
+is ma.njar me.n jam jaaye
+tUne dIvaanaa dil ko banaayaa, 
+is dil pe ilzaam hai kyA, 
+saagar jaisii aa.Nkho.n vaalii, 
+ye to bataa terA naam hai kyA 
+cheharaa hai yaa \threedots
+
+ho, aaj mai.n tujhase dUr sahii 
+aur tU mujhase anjaan sahii \threedots
+terA saath nahii.n paaU.n to 
+gair terA aramaan sahii \threedots
+ye aramaan hai.n shor nahii.n ho
+khAmoshii ke mele ho.n 
+is duniyA me.n koI nahii.n ho 
+ham dono hii akele ho.n 
+tere sapane dekh rahaa huu.N, 
+aur meraa ab kaam hai kyA 
+saagar jaisii aa.Nkho.n vaalii , 
+ye to bataa terA naam hai kyA 
+
+cheharaa hai yaa \threedots
+%
+#endindian
+\endsong
+%

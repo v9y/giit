@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{matavaale ham matavaale tum chalate rahe.n}%
+\film{Jhumroo}%
+\year{1961}%
+\starring{Kishore Kumar, Madhubala, Chanchal, Anoop Kumar, Lalita Pawar}%
+\singer{Kishor}%
+\music{Kishor Kumar}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10278 [V S Rawat]
+% Transliterator: 
+% Comments: First film of Kishor Kumar as Music Director
+% 
+\printtitle
+#indian
+%
+matavaale ham matavaale tum chalate rahe.n yuu.N hii qadam
+dilavaale ham dilavaale tum ba.Dhate rahe.n yuu.N hii qadam
+matavaale ham \threedots
+
+auro.n ke kaam aa jaa hil\-mil ke jhelataa jaa mushkil jo raaho.n me.n hai
+matavaalaa jaam hai mastii se kaam hai mastii niGaaho.n me.n hai
+dil jab Dole machal\-machal ke phir kyaa chalanaa sa.mbhal\-sa.mbhal ke
+dil hai javaa.N kaahe kaa Gam
+matavaale ham \threedots
+
+saare ra.ngii.n nazaare apane dam se hai.n pyaare hamako nazaaro.n se kyaa
+har dil ke pyaar ham sabakii bahaar ham ham ko bahaaro.n se kyaa
+sabase nainaa milaa\-milaa ke dil kii kaliyaa.N khilaa\-khilaa ke
+chalate chale.n laharaa ke ham
+matavaale ham \threedots
+
+kaisaa jiinaa akele Gairo.n kaa dard le le.n apanaa to kaam yahii
+apanaa to ##sin## yahii apanaa to din yahii apanii to shaam yahii
+girate jan ko uThaa\-uThaa ke har rote ko ha.Nsaa\-ha.Nsaa ke
+gaa_e jaa tuu jab\-tak hai dam
+matavaale ham \threedots
+%
+#endindian
+\endsong
+

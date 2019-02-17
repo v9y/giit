@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{lambii judaa_ii, chaar dino.n ka bahaar ho rabbaa}%
+\film{Hero}%
+\year{1983}%
+\starring{Jackie Shroff, Meenakshi Seshadri, Sanjeev Kumar}%
+\singer{Reshma}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+bichha.De abhii to ham 
+bas kal paraso.n 
+jiyuu.ngii mai.n kaise 
+is haal me.n baraso.n 
+maut nA aaye terI yaad kyo.n aaye? 
+hAy, lambii judaa_ii 
+
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii, lambii judaa_ii 
+ho.nTho.n pe aaye, merI jaan, duhaa_ii 
+hAy, lambii judaa_ii 
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii, lambii judaa_ii 
+
+ek to sajan mere paas nahii.n re 
+dUje milan dii koI aas nahii.n re \- 2
+usape ye saavan AyA \- 2
+aag lagaane
+hAy, lambii judaa_ii 
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii, lambii judaa_ii 
+
+baag uja.D gaye, baag uja.D gaye khilane se pahale 
+pa.nchhii bichha.D gaye milane se pahale \- 2
+koyal kii kuuk, koyal kii kuuk ne huuk uThaayI
+hAy, lambii judaa_ii 
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii, lambii judaa_ii 
+ho.nTho.n pe aaye, merI jaan, duhaa_ii 
+hAy, lambii judaa_ii 
+
+% famous flute music that recurs in the movie
+TuuTe zamaane tere haath nigo.De, haath nigo.De
+dil se dilo.n kii tUne shiishe to.De, shiishe to.De 
+hijr kI uu.NchI, hijr kI uu.NchI dIvaar banaayI
+hAy, lambii judaa_ii 
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii, lambii judaa_ii 
+
+chaar dino.n kA pyaar, ho rabbaa 
+ba.DI lambii judaa_ii 
+lambii judaa_ii, lambii judaa_ii 
+
+% flute music
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{TuuTe hue khvaabo.n ne, hamako ye sikhaayaa hai}%
+\film{Madhumati}%
+\year{1958}%
+\starring{Dilip Kumar, Vyjayantimala, Pran}%
+\singer{Rafi}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+TuuTe hue Kvaabo.n ne, hamako ye sikhaayaa hai
+dil ne, dil ne jise paayaa thaa, aa.Nkho.n ne ga.nvaayaa hai
+TuuTe hue Kvaabo.n ne
+
+ham Dhuu.NDhate hai.n unako, jo milake nahii.n milate
+ruThe hai.n na jaane kyuu.N, (mehamaan mere dil ke \- 2)
+kyaa apanii tamannaa thii, kyaa saamane aayaa hai
+dil ne, dil ne \threedots
+TuuTe hue \threedots
+
+lauT aaI sadaa merii, Takaraa ke sitaaro.n se
+uja.Dii huI duniyaa ke, (sunasaan kinaaro.n se \- 2)
+par ab ye ta.Dapanaa bhii, kuchh kaam na aayaa hai
+dil ne, dil ne \threedots
+TuuTe hue \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{vo sikandar hii dosto.n kahalaataa hai ... yahaa.n ke ham sikandar}%
+\film{Jo Jeetaa Wohi Sikandar}%
+\year{1992}%
+\starring{Aamir Khan, Ayesha Jhulka, Mamik}%
+\singer{Udit Narayan, Chorus}%
+\music{Jatin Lalit}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vo sikandar hii dosto.n kahalaataa hai haarii baazii ko jiitanaa jise aataa hai
+nikale.nge maidaan me.n jis din ham jhuum ke dharatii Dolegii ye kadam chuum ke
+vo sikandar hii dosto.n \threedots
+
+jo sab karate hai.n yaaro.n vo kyo.n ham tum kare.n
+yuu.n hii kasarat karate karate kaahe ko ham mare.n
+gharavaalo.n se ##teacher## se bhalaa ham kyo.n Dare.n
+yahaa.n ke ham sikandar chaahe.n to rakh le.n sabako apanii jeb ke andar
+are hamase bachake rahanaa merii jaan
+nahii.n samajhe hai.n vo hame.n to kyaa jaataa hai
+haarii baazii ko jiitanaa \threedots
+
+ye galiyaa.n apanii ye raste apane kaun aa_egaa apane aage
+raaho.n me.n hamase Takaraa_egaa jo haT jaa_egaa vo ghabaraa ke
+yahaa.n ke ham sikandar \threedots
+
+ye bholii bhaalii matavaalii pariyaa.n jo hai.n ab daulat par qurbaan
+jab kiimat dil kii ye samajhe.ngii to ham pe chhi.Dake.ngii apanii jaan
+yahaa.n ke ham sikandar \threedots
+
+are ham bhii hai.n shahzaade gulafaam
+%
+#endindian
+\endsong
+

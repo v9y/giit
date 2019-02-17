@@ -1,0 +1,52 @@
+
+%
+\startsong
+\stitle{haay soniye ... o tuu raat kha.Dii thii chhat pe nii mai.n samajhaa}%
+\film{Himalay Ki God Mein}%
+\year{1965}%
+\starring{Manoj Kumar, Mala Sinha, Shashikala}%
+\singer{Rafi, Usha Timothi}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #10980 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	haay soniye hiiriye\-hiiriye haay re haay
+u \:	o_e soniyaa o_e soniyaa ho_e raa.njhiyaa raa.njhiyaa raa.njhiyaa
+ko \:	o_e shaabaa o_e shaabaa nii ku.Diye pahaa.D diye
+	o_e shaabaa o_e shaabaa ve mu.nDiyaa shahar diyaa
+
+ra \:	o tuu raat kha.Dii thii chhat pe nii mai.n samajhaa ke chaa.Nd nikalaa
+ko \:	hoy tuu raat kha.Dii \threedots
+u \:	buraa ho teraa tujhe dekh ke koThe se meraa pair phisalaa
+ko \:	buraa ho teraa \threedots
+
+ra \:	( kaT jaa_e naa merii zindagii ) \-2 ho_e terii kal paraso.n me.n
+ko \:	kaT jaa_e naa \threedots
+u \:	( kal paraso.n me.n baat nahii.n banatii ) \-2 banatii hai jaa ke baraso.n me.n
+ko \:	kal paraso.n me.n \threedots
+
+ra \:	( tere paa.Nv me.n nahii.n ghu.Ngharuu ) \-2 hotii hai chham\-chham kaise
+ko \:	tere paa.Nv me.n \threedots
+u \:	( ye to raaz kii baate.n hai.n ) \-2 bataa de.n tujhe ham kaise
+ko \:	ye to raaz \threedots
+
+ra \:	( terii zulf jo bikharii to ) \-2 leke biin sapere aa ga_e
+ko \:	terii zulf jo \threedots
+u \:	( merii zulf hai naagin to ) \-2 bure din bas tere aa ga_e
+ko \:	merii zulf hai \threedots
+
+ra \:	chal chali_e nii muTiyaare baisaakhii vaale mele me.n
+ko \:	chal chali_e nii \threedots
+u \:	( mele kaa to bahaanaa hai ) \-2 tuu mujhe chhe.Degaa akele me.n
+ko \:	mele kaa to \threedots
+%
+#endindian
+\endsong
+

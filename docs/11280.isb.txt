@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{dilarubaa maine tere pyaar me.n ... dil diyaa dard liyaa}%
+\film{Dil Diya Dard Liya}%
+\year{1966}%
+\starring{Dilip Kumar, Waheeda Rehman, Pran}%
+\singer{Rafi}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10620 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dilarubaa maine tere pyaar me.n kyaa\-kyaa naa kiyaa
+dil diyaa dard liyaa \-2
+kabhii phuulo.n me.n guzaarii kabhii kaa.NTo.n pe jiyaa
+dil diyaa dard liyaa \-2
+
+zindagii aaj bhii hai bekhudii aaj bhii hai
+pyaar kahate hai.n jise vo Kushii aaj bhii hai
+maine din\-raat mohabbat kaa terii jaam piyaa
+dil diyaa dard liyaa \-2
+dilarubaa maine tere \threedots
+
+kyaa kahuu.N tere li_e maine aa.Nsuu bhii pi_e
+kabhii Kaamosh rahaa kabhii shikave bhii ki_e
+kar liyaa chaaq garebaa.n kabhii daaman ko siyaa
+dil diyaa dard liyaa \-2
+dilarubaa maine tere \threedots
+
+pyaar kii aan hai tuu dil kaa aramaan hai tuu
+kaun duniyaa se Dare jab nigehabaan hai tuu
+apanii kashtii ko sahaare pe tere chho.D diyaa
+dil diyaa dard liyaa \-2
+dilarubaa maine tere \threedots
+%
+#endindian
+\endsong
+

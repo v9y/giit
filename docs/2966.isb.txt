@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{tere nainaa talaash kare jise}%
+\film{Talaash}%
+\year{1969}%
+\starring{Rajendra Kumar, Sharmila Tagore, Balraj Sahni}%
+\singer{Manna De}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+khoyii khoyii aa.Nkh hai jhukii palak hai
+jahaa.N jahaa.N dekhegaa tuu vahii.n jhalak hai
+khoyii khoyii \threedots
+
+tere nainaa talaash kare jise
+vo hai tujhii me.n kahii.n diivaane
+tere nainaa \threedots
+
+yahaa.N do ruup hai.n har ek ke
+yahaa.N nazare.n uThaanaa zaraa dekh ke
+o jab us kii muhabbat me.n gum hai tuu
+vahii suurat nazar aayegii chaar suu
+kaun kyaa hai man ke sivaa ye koii kyaa jaane
+tere nainaa \threedots
+
+ye javaan raat le ke teraa naam
+kahe haath ba.Dhaa koii haath thaam
+
+o kaalii alakaa ke baadal me.n bijaliyaa.N
+gorii baaho.n me.n chaahat kii a.nga.Daa_iyaa.N
+jo adaa hai ishaaraa hai pyaar kaa
+o diivaane tujhe chaahiye aur kyaa
+par ruk jaa man kii sadaa bhii sun diivaane
+tere nainaa \threedots
+
+%
+#endindian
+\endsong
+%

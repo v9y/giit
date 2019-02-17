@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{suno ye zamaane kii kahaanii hai aa.Nsuu kii zabaanii}%
+\film{Aansoo}%
+\year{1970s Not Released}%
+\starring{Ravi, Naseem, Manmohan Krishna}%
+\singer{Rafi}%
+\music{Roshan Lal Khatri}%
+\lyrics{Qamar Kaashmeeri}%
+%
+% Contributor: BOL ANAMOL #10475 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+suno ye zamaane kii kahaanii
+hai aa.Nsuu kii zabaanii
+
+o jaane vaale kar le yaqii.n
+o teraa duniyaa me.n ko_ii nahii.n \-2
+ko_ii ro_e ko_ii gaa_e
+( kahii.n pe dhuup aur kahii.n pe saa_e
+vaah re maalik teraa nyaay ) \-2
+teraa nyaay
+suno ye zamaane kii \threedots
+
+( ko_ii dulhan sajakar aa_e
+kisii kii arthii tanhaa jaa_e ) \-2
+raah me.n ko_ii Thokar khaa_e
+vaah re maalik teraa nyaay ) \-2
+teraa nyaay
+suno ye zamaane kii \threedots
+%
+#endindian
+\endsong
+

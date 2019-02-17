@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{hamane ghar chho.Daa hai rasmo.n ko to.Daa hai}%
+\film{Dil}%
+\year{1990}%
+\starring{Aamir, Madhuri, Saeed Jafrey, Anupam Kher, Deven Verma, Shammi}%
+\singer{Sadhana Sargam, Udit Narayan}%
+\music{Anand Milind}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+hamane ghar chho.Daa hai rasmo.n ko to.Daa hai
+duur kahii.n jaa_e.nge na_ii duniyaa basaa_e.nge
+
+tere binaa jiinaa pa.De din vo kabhii bhii naa aa_e
+ko_ii hamako judaa kar na paa_e
+bas ik baar kiyaa hai maine tujhe pyaar kiyaa hai
+ham terii baaho.n me.n jannat ko bhulaa_e.nge
+hamane ghar chho.Daa hai \threedots
+
+is pyaar kii dil kii zamii.n sapano.n kii uu.nchii diivaare.n
+kahiyaa.n mohabbat kii khilane lagii.n aa_ii.n milan kii bahaare.n
+janmo.n kii pyaas bujhaa de mujhako gale se lagaa le
+pyaar ke is ma.ndir ko chaahat se sajaa_e.nge
+hamane ghar chho.Daa hai \threedots
+%
+#endindian
+\endsong
+

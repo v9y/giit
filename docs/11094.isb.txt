@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{sur mile hai.n gul khile hai.n ... ham kahaa.N aa ga_e}%
+\film{Dus}%
+\year{1998?}%
+\starring{Sanjay Dutt, Ravina Tondon, Salman Khan, Shilpa Shetty}%
+\singer{Udit Narayan, Asha, Shankar Mahadevan}%
+\music{Shankar Ehsaan Loy}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+sur mile hai.n gul khile hai.n mastii me.n jhuume meraa dil
+kyaa nazaare hai.n kyaa ishaare hai.n aa.Nkho.n ke aage hai ma.nzil
+sur mile hai.n \threedots
+
+ham kahaa.N aa ga_e ham kahaa.N aa ga_e 
+ho sur mile hai.n \threedots
+
+bha.nvare ne kaliyo.n se kahaa mausam zaraa hai badagumaa.n ho
+o dulhan banii hai ye zamii.n kitanaa suhaanaa hai samaa.n o
+saa.Nso.n kaa gaanaa chhe.Do ko_ii fasaanaa chhe.Do
+ko_ii taraanaa chhe.Do haa.N
+ham kahaa.N aa ga_e \threedots
+
+haa.n saathii jo ko_ii sa.ng ho chalane kaa aataa hai mazaa o
+tanahaa guzaare jo ko_ii ye zi.ndagaanii hai sazaa
+o yaado.n ke rele ho.nge he vaado.n ke mele ho.nge
+ham naa akele ho.nge haa.N
+ham kahaa.N aa ga_e \threedots
+
+si.nduurii shaam ho ga_ii pa.nchhii gharo.n ko chal pa.De haa.N
+dariyaa kii mauje hai.n thamii.n panaghaT pe khaalii hai.n gha.De
+o shabanam kii pyaalii pyaalii pe.Do.n kii Daalii Daalii
+gaa_e koyaliyaa kaalii haa.N
+ham kahaa.N aa ga_e \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ai bhuul ga_e tum hamako yaad nahii.n kyaa tumako}%
+\film{Darling Darling}%
+\year{1977}%
+\starring{Dev Anand, Zeenat Aman}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11582 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ai bhuul ga_e tum hamako yaad nahii.n kyaa tumako
+are kal mile the ham tumhe.n aaj phir milanaa thaa
+are mulaakaat ek raat kii raat
+raat ga_ii baat ga_ii ho
+raat ga_ii baat ga_ii sab ga_e
+
+roz na_e pyaar kaa nayaa daur zindagaanii na_ii
+dekhkar ham nikale bevafaa harajaa_ii
+kal mile the ham\-tum
+sab jazbaat kii ik raat kii raat
+raat ga_ii baat \threedots
+
+aaj hamaaraa bhii pyaar puraanaa hu_aa guru maaf karanaa
+ek suurat dekhate zamaanaa hu_aa maaf karanaa
+bevafaa_ii tumase siikh lii hamane bhii
+kal mile the ham\-tum
+raat ga_ii baat \threedots
+%
+#endindian
+\endsong
+

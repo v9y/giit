@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{baad muddat ke ... kar sakegaa naa judaa hamako}%
+\film{Aiye}%
+\year{1949}%
+\starring{Yaqub, Sulochana Chatterji, Masud}%
+\singer{G M Durrani, Lata}%
+\music{Shaukat Haidari}%
+\lyrics{Nakhshab Jaaravchi}%
+%
+% Contributor: BOL ANAMOL #11881 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+jii \:	o
+	baad muddat ke hu_aa duur andheraa Gam kaa
+la \:	o
+	aaj se phir merii qisamat kaa sitaaraa chamakaa
+
+	kar sakegaa naa judaa tumako kabhii hamase zamaanaa \-2
+jii \:	chal sakegaa naa kisii kaa bhii ko_ii hamase bahaanaa
+la \:	kar sakegaa naa judaa tumako kabhii hamase zamaanaa \-2
+
+jii \:	jo sharte.n lagaa_ii thii.n hu_ii.n aaj wo puurii
+	ke hu_ii.n aaj wo puurii
+	sachchii hai mohabbat to rahe kaise adhuurii
+	to rahe kaise adhuurii
+la \:	pa.D ke duniyaa ke jhamelo.n me.n kahii.n bhuul naa jaanaa \-2
+jii \:	chal sakegaa naa kisii kaa bhii ko_ii hamase bahaanaa
+la \:	kar sakegaa naa judaa tumako kabhii hamase zamaanaa
+
+la \:	o
+	kaliyaa.N hai.n kahii.n phuul kahii.n chaa.Nd\-sitaare
+	diiwaanaa hu_aa jaataa hai dil pyaar ke maare
+jii \:	 aa_o phir gaaye.n gale mil ke mohabbat kaa taraanaa
+do \:	 aa_o phir gaaye.n gale mil ke mohabbat kaa taraanaa
+jii \:	chal sakegaa naa kisii kaa bhii ko_ii hamase bahaanaa \-2
+do \:	kar sakegaa naa judaa tumako kabhii hamase zamaanaa \-2
+%
+#endindian
+\endsong
+

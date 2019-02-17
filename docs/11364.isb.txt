@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{vo jo chaahane vaale hai.n tere sanam tujhe Dhuu.NDh hii}%
+\film{Duniyaa Rang Rangeeli}%
+\year{1957}%
+\starring{Shyama, Chand Usmani, Rajendra Kumar, Jivan, Johny Walker, Helen}%
+\singer{Rafi, Asha/ Asha}%
+\music{O P Nayyar}%
+\lyrics{Jaan Nisar Akhtar}%
+%
+% Contributor: BOL ANAMOL #10516 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+vo jo chaahane vaale hai.n tere sanam
+tujhe Dhuu.NDh hii le.nge kahii.n na kahii.n
+
+tere pyaar kii hamane khaa_ii hai qasam
+tujhe Dhuu.NDh hii le.nge \threedots
+
+liyaa jo tuune hamase mu.Nh ko chhipaa
+terii ye bhii hai zaalim ek adaa
+inhii.n shoK adaa_o.n pe marate hai.n ham
+tujhe Dhuu.NDh hii le.nge \threedots
+
+tere kuuche se aa_ii jo Tha.nDii havaa
+use rok kar puuchhe.nge teraa pataa
+nahii.n baiThane vaale hai.n chain se ham
+tujhe Dhuu.NDh hii le.nge \threedots
+
+kabhii baaGo.n me.n Dhuu.NDhegii tujhako nazar
+kabhii taaro.n se puuchhe.nge terii Kabar
+yahii Thaan ke nikale hai.n terii qasam
+tujhe Dhuu.NDh hii le.nge \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{##Dream Girl##}%
+\film{Dream Girl}%
+\year{1977}%
+\starring{Ashok Kumar, Dharmendra, Hema Malini, Prem Chopra}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Prabhakar (prabhakv@mlw.ma.gmr.com)
+% Transliterator: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+##Dream-girl, dream-girl, dream-girl, dream-girl##
+kisI shaayar kI Gazal, ##dream-girl##
+kisI jhIl kA ka.nval, ##dream-girl##
+kabhI to milegI, kahI.n to milegI,
+aaj nahI.n to kal, ##dream-girl## \threedots
+
+simaTI gulAbo.n me.n, lipaTI hijaabo.n me.n \- 2
+saaso.n me.n aatI hai, bhIgI sharaabo.n me.n
+pAs rahatI hai vo pal do pal, kaun?  ##dream-girl## \threedots
+
+jab dekhatI hai vo, mai.n pUchh lU.ngA to  \- 2
+shabanam, ghaTA, chaa.ndanI ban jaate hai.n dosto.n
+ra.ng rUp hai vo letI badal, he, ##dream-girl## \threedots
+%
+#endindian
+\endsong
+%

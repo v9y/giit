@@ -1,0 +1,32 @@
+% ITRANS SONG # 3419; Created on Jan 26, 2004
+%
+% From: Urzung Khan ("_urzung"@hotmail.com)
+% Date: 2002-08-07 17:20:52 PST
+%
+\startsong
+\stitle{mere liye jahaan me.n chain naa qaraar hai}%
+\film{Khandan}%
+\year{1942}%
+\starring{Noorjehan, Manorma, Pran, Ghulam Mohammad}%
+\singer{Noorjehan}%
+\music{Ghulam Haider}%
+\lyrics{D N Madhok}%
+%
+% Contributor: <Urzung Khan>, 2002-08-07
+% Comments: Pancholi Art Picyures Lahore.
+%
+\printtitle
+#indian
+%
+mere liye jahaan me.n chain naa qaraar hai
+dil me.n hai.n beqaraariyaa.n aa.Nkho.n me.n intizaar hai
+
+dil pe zaraa sii Thes dii yaas kaa rang bhar diyaa
+dhiire se muskuraa diye kahane lage ye payaar hai
+
+aa.Nkho.n me.n dil utar gayaa duniyaa kaa dard bhar gayaa
+Thaame jigar sune koii, gaanaa nahii.n pukaar  hai
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{hasiin chaa.Nd\-sitaaro.n kaa vaastaa aa jaa}%
+\film{Meraa Salaam}%
+\year{1957}%
+\starring{Beena Rai, Bharat Bhushan, Durga Khote, Veena}%
+\singer{Talat, Asha}%
+\music{Hafiz Khan}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #11437 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+aa \:	hasiin chaa.Nd\-sitaaro.n kaa vaastaa aa jaa
+	dha.Dakate dil ke ishaaro.n kaa vaastaa aa jaa
+	hasiin chaa.Nd\-sitaaro.n \threedots
+
+ta \:	mujhe pukaarane vaale mai.n kaash aa sakataa
+	jhukaataa sar tere qadamo.n me.n gar jhukaa sakataa
+aa \:	tere baGair gulistaa.N hai meraa viiraanaa
+	bahaar leke bahaaro.n kaa vaastaa aa jaa
+	hasiin chaa.Nd\-sitaaro.n \threedots
+
+ta \:	tujhe talaash bahaaro.n kii phir nahii.n hotii
+	jigar ke daaG agar tujhako mai.n dikhaa sakataa
+aa \:	phir ek baar mohabbat kii aabaruu rakh le
+	Gariib dil kii pukaaro.n kaa vaastaa aa jaa
+	hasiin chaa.Nd\-sitaaro.n \threedots
+
+ta \:	na tuu pukaarataa mujhako na mai.n ta.Dap jaataa
+	nasiib biga.De hu_e dil agar milaa sakataa
+aa \:	nasiib ruuTh gayaa hai to ruuTh jaane de
+	magar nasiib ke maaro.n kaa vaastaa aa jaa
+	hasiin chaa.Nd\-sitaaro.n \threedots
+%
+#endindian
+\endsong
+

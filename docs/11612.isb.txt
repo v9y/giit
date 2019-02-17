@@ -1,0 +1,39 @@
+
+%
+\startsong
+\stitle{bachapan har Gam se begaanaa hotaa hai}%
+\film{Geet Gaataa Chal}%
+\year{1975}%
+\starring{Sarikaa, Sachin, Khyati, Madan Puri, Agha, Dhumal, Sundar}%
+\singer{Kishor}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: BOL ANAMOL #11561 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+bachapan har Gam se begaanaa ( hotaa hai ) \-2
+bachapan har Gam \threedots
+
+ko_ii fiqr na chintaa mastii kaa aalam
+jiivan khel saa lagataa hai
+sukh milate hai.n raaho.n me.n phir ke
+ghar to jel saa lagataa hai
+ho isii umar me.n Kushiyo.n kaa Kazaanaa hotaa hai
+bachapan har Gam \threedots
+
+ham Dhuu.NDhate hai.n jiivan bhar vo Kushiyaa.N
+bachapan me.n jo paate hai.n
+vo ha.Nsate hu_e din gaatii vo raate.n
+lauT kar phir nahii.n aate hai.n
+ho yaado.n ke saa_e me.n vaqt bitaanaa hotaa hai
+bachapan har Gam \threedots
+%
+#endindian
+\endsong
+

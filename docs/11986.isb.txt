@@ -1,0 +1,49 @@
+
+%
+\startsong
+\stitle{saathiyaa tuu mere sapano.n kaa}%
+\film{Insaan}%
+\year{1982}%
+\starring{Jeetendra, Vinod Khanna, Reena Roy, Amjad Khan, Karan Diwan, Shyama}%
+\singer{Rafi, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11625 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+saathiyaa aa
+aa tuu mere sapano.n kaa miit hai
+aa tuu mere ho.nTho.n kaa giit hai
+apanii janamo.n kii priit hai
+khaa_o qasam na ho ye pyaar kam
+yahii vaadaa karo yahii riit hai
+saathiyaa \threedots
+
+( sitaare jaanate hai.n nazaare jaanate hai.n
+sadaa ke ham saathii ye saare jaanate hai.n ) \-2
+tuu baraso.n se mere saath hai baraso.n puraanii mulaaqaat hai
+tuu meraa din\-raat hai
+khaa_o qasam na ho \threedots
+
+ye rut mastaanii ye phuul ye javaanii
+ye sab tujhase hai.n o mere dilabar jaanii
+mai.n tere bin kuchh bhii nahii.n tuu mere bin kuchh bhii nahii.n
+bahaaro.n se ye puuchho ke yaaro.n se ye puuchho
+kahe.nge yahii saare hazaaro.n se puuchho
+saathiyaa \threedots
+
+tuu meraa dil merii jaan hai
+tuu meraa aramaan hai
+tuu hii merii pahachaan hai
+khaa_o qasam na ho \threedots
+saathiyaa \threedots
+%
+#endindian
+\endsong
+

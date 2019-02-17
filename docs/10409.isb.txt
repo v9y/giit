@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{raajuu chal raajuu apanii mastii me.n tuu}%
+\film{Aazaad}%
+\year{1978}%
+\starring{Dharmendra, Hema Malini, Prem Chopra, Ajeet, Shoma Anand}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11589 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+raajuu chal raajuu apanii mastii me.n tuu
+ko_ii ji_e yaa mare kyaa hamako baabuu
+raajuu chal raajuu \threedots
+
+maanaa ke hasii.n hai.n duniyaa ke mele
+ab to ham bhii rahe.nge mele me.n akele
+jab tak na ho jaa_e apanaa dil beqaabuu
+raajuu chal raajuu \threedots
+
+jag me.n jo buraa hai ham dekhe.n na sune.n
+kaa.NTo.n ko haTaa ke phuulo.n ko chune.n
+sab duniyaa begaanii do apane mai.n aur tuu
+raajuu chal raajuu \threedots
+
+pariyaa.N ye kahaa.N le chalii aa_ii.n gaa.Nv me.n
+aa_e nii.nd haay zulfo.n kii chhaa.Nv me.n
+ham pe na chal jaa_e in zulfo.n kaa jaaduu
+raajuu chal raajuu \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{ham pyaar tumhe.n ... hame.n apanaa banaa kar dekho}%
+\film{Apna Banake Dekho}%
+\year{1962}%
+\starring{Asha Parekh, Manoj Kumar, Nazir Husain, Sundar, Achala Sachdev}%
+\singer{Rafi, Asha}%
+\music{Ravi}%
+\lyrics{S H Bihari}%
+%
+% Contributor: BOL ANAMOL #10673 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ham pyaar tumhe.n karate hai.n hame.n apanaa banaa kar dekho
+aa \:	is baat se ham Darate hai.n aa.Nkhe.n na milaa ke dekho
+ra \:	ham pyaar tumhe.n \threedots
+
+	ye chaa.Nd se chehare pe laharaatii hu_ii zulfe.n
+	diivaanaa banaatii hai.n balakhaatii hu_ii zulfe.n
+	zulfo.n kii ghaTaa_o.n ko chehare se haTaa ke dekho
+	ham pyaar tumhe.n \threedots
+
+aa \:	kyo.n itane diivaane ho ai jalavo.n ke saudaa_ii
+	aisii bhii bhalaa hamame.n kyaa baat nazar aa_ii
+	dekho to magar hamako kuchh hosh me.n aakar dekho
+ra \:	ham pyaar tumhe.n \threedots
+
+	chalake to zaraa dekho in pyaar kii raaho.n me.n
+aa \:	aa jaa_e.N na kahii.n ham duniyaa kii nigaaho.n me.n
+ra \:	dam bhar ke li_e aisii duniyaa ko bhulaa kar dekho
+	ham pyaar tumhe.n \threedots
+%
+#endindian
+\endsong
+

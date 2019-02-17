@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{naach hasiinaa naach ki duniyaa dekhe}%
+\film{Ek Bechaaraa}%
+\year{1972}%
+\starring{Jitendra, Rekha, Vinod Khanna, Kalpana, Bindu}%
+\singer{Mukesh, Rano Mukherji}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11197 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+mu \:	naach hasiinaa naach ki duniyaa dekhe
+	Thumak\-Thumak ke naach ki duniyaa dekhe
+	tere ishaaro.n pe naache zamaanaa
+	tuu mere ishaaro.n pe naach ki duniyaa dekhe
+	naach hasiinaa naach \threedots
+
+	inkaar kii gu.njaa_ish nahii.n \-2
+	takaraar kii gu.njaa_ish nahii.n
+	ab maan jaa bas jaan jaa merii nazare.n pahachaan jaa
+	jhuum hasiinaa jhuum ki duniyaa dekhe
+	naach hasiinaa naach \threedots
+
+raa \:	la la laa
+
+mu \:	mastii me.n tuu madahosh hai \-2
+	par kisali_e tuu Kaamosh hai
+	laharaa ke balakhaa ke ghabaraa ke sharamaa ke
+	bol hasiinaa bol ki duniyaa dekhe
+	naach hasiinaa naach \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{dil lenaa khel hai diladaar kaa}% 
+\film{Zamane Ko Dikhana Hai}%
+\year{}%
+\starring{Rishi, Padmini Kolhapure}%
+\singer{R D Burman, chorus}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Reeta Sinha (librs@emoryu1.cc.emory.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle 
+#indian 
+%
+(dil lenaa khel hai diladaar kaa 
+bhUle se naam naa lo pyaar kaa 
+pyaar bhii ruuThaa yaar bhii ruuThaa 
+dekho mujhako dilavaalo.n haa 
+khaayaa hai dhokhaa ho mai.nne yaar kaa) \-2 
+
+vaado.n pe inake nA jaanaa 
+baato.n me.n inakii nA aanaa 
+are, vaado.n pe inake nA jaanaa 
+baato.n me.n inakii nA aanaa 
+inakii mIThii baate.n ye matavaalii aa.Nkhe.n 
+zahar hai pyaar kaa 
+dil nA khel hai \threedots 
+
+inape zavaanii luTaa do 
+yaa zindagaanii luTaa do 
+are, inape zavaanii luTaa do 
+yaa zindagaanii luTaa do 
+are kuchh bhii kar dIvaane rahe.nge ye anjaane 
+ronaa hai bekaar kaa 
+dil nA khel hai \threedots 
+## chorus : yaar kaa yaar kaa .... ## 
+%
+#endindian
+\endsong
+%

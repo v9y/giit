@@ -1,0 +1,40 @@
+% 
+\startsong
+\stitle{a.Nkhiyo.n me.n chhoTe\-ChhoTe sapane sajaa_ike}%
+\film{Naukar}%
+\year{1979}%
+\starring{Sanjeev Kumar, Jaya Bhaduri, Mehmood}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Andy J. Lucyshyn <ajl@engr.ucf.edu>
+% Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu> 
+% Date: 07/27/1995
+% Credits: K.K. Balakrishnan <ramki@wipinfo.soft.net> 
+%          Arun Verma <verma@CS.Cornell.EDU>
+%          Ashok Dhareshwar (ADhareshwar@worldbank.org)
+% Comments: Released in 1978
+%
+\printtitle
+#indian
+%
+a.Nkhiyo.n me.n chhoTe\-chhoTe sapane sajaa_ike
+bahiyo.n me.n ni.ndiyaa ke pa.nkh lagaa_ike
+cha.Ndaa me.n jhuule merii biTiyaa raanii
+chaa.Ndanii re jhuum, ho, chaa.Ndanii re jhuum \threedots
+
+yahii to kalii hai pyaarii merii saarii bagiyaa me.n
+mai.nne yahii motii paayaa jiivan nadiyaa me.n
+mamataa luTaauu.n aisii mach jaa_e dhuum
+chaa.Ndanii re jhuum, ho, chaa.Ndanii re jhuum \threedots
+
+ni.ndiyaa ke sa.ng\-sa.ng raajaa koii aa_egaa
+bi.ndiyaa lagaa_egaa re maalaa pahanaa_egaa
+legaa phir pyaare\-pyaare mukha.De ko chuum
+chaa.Ndanii re jhuum, ho, chaa.Ndanii re jhuum \threedots
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{sar\-e\-mahafil jo jalaa parawaanaa}%
+\film{Shamaa Parawaanaa}%
+\year{1954}%
+\starring{Shammi Kapoor, Suraiya}%
+\singer{Suraiya, Rafi}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #12594 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+ra \:	sar\-e\-mahafil jo jalaa parawaanaa \-2
+	kar gayaa naam\-e\-wafaa parawaanaa \-2
+su \:	shammaa se siikhe wafaa parawaanaa \-2
+	ye jalii hai to jalaa parawaanaa \-2
+
+ra \:	mar ke bhii rah na sakaa shammaa se duur \-2
+	Kaaq ban\-ban ke u.Daa parawaanaa \-2
+su \:	raat bhar shammaa kha.Dii jalatii rahii \-2
+	is tarah jal na sakaa parawaanaa \-2
+
+ra \:	jaan de dii wahii.n kuchh der na kii \-2
+	shammaa se pahale jalaa parawaanaa \-2
+su \:	shammaa kii aag me.n jalane aayaa \-2
+	Kud na kyuu.N Kaaq hu_aa parawaanaa \-3
+
+ra \:	apanii lau me.n to sabhii jalate hai.n \-2
+	shammaa kii lau me.n jalaa parawaanaa \-3
+	kar gayaa naam\-e\-wafaa parawaanaa \-2
+%
+#endindian
+\endsong
+%
+

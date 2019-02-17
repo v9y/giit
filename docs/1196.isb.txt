@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere dushman tuu merii dostii ko tarase}%
+\film{Aaye Din Bahaar Ke}%
+\year{1966}%
+\starring{Asha Parekh, Dharmendra, Balraj Sahni}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+mere dushman tuu merii dostii ko tarase
+mujhe Gam dene vaale tuu khushii ko tarase
+
+tuu phuul bane patajha.D kaa, tujh pe bahaar na aae kabhii
+merii hii tarah tuu ta.Dape tujhako qaraar na aae kabhii
+jiye tuu is tarah kii zi.ndagii ko tarase
+
+itanaa to asar kar jaae.n merii vafaae.n o bevafaa
+jab tujhe yaad aae.n apanii jafaae.n o bevafaa
+pashemaan hoke roe, tuu ha.nsii ko tarase
+
+tere gulashan se zyaadaa viiraan koI viiraanaa na ho
+is duniyaa me.n teraa jo apanaa to kyaa, begaanaa na ho
+kisii kaa pyaar kyaa tuu beruKii ko tarase
+%
+#endindian
+\endsong
+%

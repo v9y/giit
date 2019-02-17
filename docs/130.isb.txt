@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{aaye tum yaad mujhe, gaane lagii har dha.Dakan}%
+\film{Mili}%
+\year{1975}%
+\starring{Amitabh, Jaya, Ashok Kumar}%
+\singer{Kishore}%
+\music{S D Burman}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+aae tum yaad mujhe, gaane lagii har dha.Dakan
+Kushabuu laaI pavan, mahakaa cha.ndan
+aae tum yaad mujhe \threedots
+
+jis pal naino.n me.n sapanaa teraa aae
+us pal mausam pe me.nha.ndii rach jaae   (2)
+aur tuu ban jaaye jaise dulhan
+aae tum yaad mujhe \threedots
+
+jab mai.n raato.n me.n taare ginataa huu.N
+aur tere kadamo.n kii aahaT sunataa huu.N  (2)
+lage mujhe har taaraa teraa darapan
+aae tum yaad mujhe \threedots
+
+har pal man meraa mujhase kahataa hai
+jisakii dhun me.n tuu khoyaa rahataa hai   (2)
+bhar de phuulo.n se usakaa daaman
+aae tum yaad mujhe \threedots
+%
+#endindian
+\endsong
+%

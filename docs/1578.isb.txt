@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{saavan kaa mahiinaa, pavan kare sor}%
+\film{Milan}%
+\year{}%
+\starring{Sunil Dutt, Nutan}%
+\singer{Mukesh, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+mu: saavan kaa mahiinaa, pavan kare sor
+la: pavan kare shor
+mu: pavan kare sor
+la: pavan kare shor
+mu: are bAbA shor nahI.n sor, sor, sor
+la: pavan kare sor
+
+hA.n, jiyaraa re jhuume aise, jaise banamaa naache mor
+ho saavan kaa mahiinaa \threedots
+
+maujavaa kare kyaa jaane, hamako ishaaraa
+jaanaa kahaa.N hai puuchhe, nadiyaa kii dhaaraa
+marazii hai tumhaarii, le jaao jis or
+jiyaraa re jhuume aise \threedots
+
+raamaa gajab Dhaae, ye purava_iyaa
+na_iyaa sambhaalo kit, khoe ho khiva_iyaa
+purava_iyaa ke aage, chale naa koii zor
+jiyaraa re jhuume aise \threedots
+
+jinake balam bairii, gae hai.n bidesavaa
+laa_ii hai jaise unake, pyaar kaa sa.ndesavaa
+kaalii a.ndhiyaarii, ghaTaae.n ghanaghor
+jiyaraa re jhuume aise \threedots
+%
+#endindian
+\endsong
+%

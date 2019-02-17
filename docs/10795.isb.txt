@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{is tarah dekho na hamako is tarah naa muskuraanaa}%
+\film{Censor}%
+\year{2001}%
+\starring{Dev Anand, Mohini Sharma, Vinay Anand, Govinda, Mamta Kulkarni, Jackie Shroff}%
+\singer{Udit Narayan, Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Neeraj}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+is tarah dekho na hamako is tarah naa muskuraanaa
+ik nashaa chhaayaa hai ham par hosh me.n hamako na laanaa
+is tarah dekho na \threedots
+
+shokh nazar ye mast adaa_e.n inape aa mar jaa_e.n ham
+is hasii.n mahaul se bach kar bolo kyuu.n ghar jaa_e.n ham
+yuu.n bahak jaane do dil ko ham ko naa kuchh yaad rahe
+aaj dil kuchh maa.ng rahaa hai aaj naa hamase sharamaanaa
+ik nashaa chhaayaa hai \threedots
+
+tere dil me.n kyaa kyaa kuchh hai hamane sab kuchh jaan liyaa
+tuu hai ik aavaaraa baadal hamane tujhe pahachaan liyaa
+yuu.n naa bahak tuu hosh me.n aa re baat naa kar aisii vaisii
+jhel na paa_egaa o pagale merii nazaro.n kaa nishaanaa
+ik nashaa chhaayaa hai \threedots
+%
+#endindian
+\endsong
+

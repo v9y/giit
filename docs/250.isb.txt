@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{badale badale mere sarakaar nazar aate hai.n}%
+\film{Chaudhvin Ka Chaand}%
+\year{1960}%
+\starring{Guru Dutt, Rehman, Waheeda, Johnny Walker}%
+\singer{Lata}%
+\music{Ravi}%
+\lyrics{Shakeel}%
+%
+% Contributor: K Vijay Kumar 
+% Transliterator: 
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+badale badale mere sarakar nazar aate hai.n
+ghar kii barabaadii ke aasaar nazar aate hai.n
+
+mere maalik ne muhabbat kaa chalan chho.D diyaa
+kar ke barabaad ummiido.n kaa chaman chho.D diyaa
+phuul bhii ab to Kaar nazar aate hai.n
+ghar kii barabaadii ke ...
+
+Duube rahate the mere pyaar me.n jo shaam\-o\-sahar
+mere chehare se nahii.n haTatii thii kabhii jinakii nazar
+merii suurat se hii bezaar nazar aate hai.n
+ghar kii barabaadii ke ...
+
+%
+#endindian
+\endsong
+%

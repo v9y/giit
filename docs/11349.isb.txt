@@ -1,0 +1,37 @@
+
+%
+\startsong
+\stitle{muhabbat hamaarii zamaanaa hamaaraa}%
+\film{Dulari}%
+\year{1949}%
+\starring{Suresh, Madhubala, Geeta Bali}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #10625 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+muhabbat hamaarii zamaanaa hamaaraa
+tuu gaa_e jaa ai dil taraanaa hamaaraa
+muhabbat hamaarii \threedots
+
+rahe.nge sadaa ham Kushii ke chaman me.n \-2
+milegaa na Gam ko Thikaanaa hamaaraa \-2
+tuu gaa_e jaa ai dil \threedots
+
+hasii.n hai muhabbat hamaare hii dam se \-2
+na bhuulegii duniyaa fasaanaa hamaaraa
+tuu gaa_e jaa ai dil \threedots
+
+ham is zindagii ko uja.Dane na de.nge \-2
+( yahii zindagii hai ) \-2 Kazaanaa hamaaraa
+tuu gaa_e jaa ai dil \threedots
+%
+#endindian
+\endsong
+

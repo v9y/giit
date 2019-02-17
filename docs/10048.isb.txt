@@ -1,0 +1,53 @@
+%
+\startsong
+\stitle{nashaa teraa sar cha.Dh ke bolaa ... taubaa terii ##style##}%
+\film{Aamdani Atthani Kharcha Rupaiya}%
+\year{2001}%
+\starring{Govinda, Juhi Chawala, Tabbu, Chandrachud Singh, Johny Lever, Vinay, Ishaa}%
+\singer{Udit Narayan, Babul Supriyo, Sunidhi Chauhan}%
+\music{Himesh Reshammiya}%
+\lyrics{Sudhakar Sharma}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+nashaa teraa sar cha.Dh ke bolaa khul ga_ii dil kii ##file##
+maar gayaa haay nakharaa teraa maar ga_ii ye ##style##
+chhuriyaa.N chalaa_e golii maare taubaa terii ##style## ##style##
+
+nashaa meraa sar cha.Dh ke bolaa khul ga_ii dil kii ##file##
+maar gayaa haay nakharaa meraa maar ga_ii ye ##style##
+chhuriyaa.N chalaa_e golii maare taubaa merii ##style## ##style##
+nashaa teraa \threedots
+##oh yeah! style, style##
+
+##romance## kaa ##mood## hai aajaa ##style##
+dil to.D ke aise naa jaa
+##by chance## milaa hai maukaa
+##by God## naa duu.Ngaa dhokhaa
+terii baato.n me.n jaaduu hai
+dha.Dakan bekaabuu hai
+pyaar kaa pataa de ##number## bataa de
+de de apanaa ##mobile## ##mobile##
+nashaa meraa \threedots
+##style, style##
+
+tere dekh ke laTake jhaTake ##style##
+dil me.n ik sholaa bha.Dake
+kyaa chiiz tuu rab ne banaa_ii
+lagataa hai qayaamat aa_ii
+terii adaa ruumaanii hai terii mast javaanii hai
+uf ye nigaahe.n bijalii giraa_e.n
+tuu hai ek ##misile## ##misile##
+nashaa meraa \threedots
+nashaa teraa \threedots
+##style, style##
+%
+#endindian
+\endsong
+

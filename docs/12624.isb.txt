@@ -1,0 +1,61 @@
+
+%
+\startsong
+\stitle{kyo.n baje hR^iday viinaa ke taar ... aa_ii bahaar aa_ii bahaar}%
+\film{Kangan}%
+\year{1939}%
+\starring{Ashok Kumar, Leela Chitnis, V H Desai, Mubarak}%
+\singer{Ashok Kumar, Leela Chitnis}%
+\music{Ramchandra Pal}%
+\lyrics{Pt. Narottam Vyas}%
+%
+% Contributor: BOL ANAMOL #11984 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+% hfgk credits Ramchandra Pal for music
+%
+% HMV cassette Remembering Dadamuni STHV 824018
+% credits Saraswati Devi for music
+%
+\printtitle
+#indian
+%
+a \:	uu.n uu.n uu.n uu.n
+lii \:	uu.n uu.n uu.n
+a \:	kyo.n baje
+	hR^iday viinaa ke taar
+	murajhaa_ii
+	murajhaa_ii
+	man kii bagiyaa me.n
+	aa_ii bahaar aa_ii bahaar \-2
+
+lii \:	( gaye chho.D
+	neh naate ko to.D ) \-2
+	rahane do ye jhuTaa dulaar \-2
+a \:	baj uThaa aaj dil kaa sitaar \-2
+
+	murajhaa_ii
+do \:	murajhaa_ii
+	man kii bagiyaa me.n
+	aa_ii bahaar aa_ii bahaar \-2
+
+a \:	kyaa ruTh ga_ii ho pyaarii \-2
+lii \:	tum ba.De niThur giradhaarii \-2
+a \:	ab maaro naa taano.n kii maar \-2
+
+	murajhaa_ii
+do \:	murajhaa_ii
+	man kii bagiyaa me.n
+	aa_ii bahaar aa_ii bahaar \-2
+
+a \:	( kyuu.N chhupii kunj me.n
+	baahar kyuu.N nahii.n aatii ) \-2
+lii \:	dil dharake ghanashyaam \-2
+	aatii mai.n sharamaatii \-2
+a \:	na tarasaa_o na tarasaa_o
+do \:	aa_ii bahaar aa_ii bahaar \-2
+%
+#endindian
+\endsong
+

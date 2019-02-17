@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{behoshii tan man pe chhaane lagii chhaane lagaa hai}%
+\film{Badaa Din}%
+\year{1997}%
+\starring{Marc Robinson, Shabana, Tara Deshpande, Abhay Chopra, Sanjay Pathak}%
+\singer{}%
+\music{Jatin Lalit}%
+\lyrics{Javed Akhtar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+behoshii tan man pe chhaane lagii chhaane lagaa hai ab nashaa aa aa
+tum jo aise bahakoge jaane aaj honaa hai kyaa
+behoshii tan man pe \threedots
+
+kyaa raaz hai kisali_e balakhaa rahaa hai tuu aa
+ko_ii kyaa yahaa.n aayaa hai merii jaan
+aa_e jo ko_ii yahaa.n to sun le merii daastaa.n
+ye saa.Ns ye dha.Dakane.n hai.n jaise dil kii jubaa.n
+diivaanii maan bhii jaa aise na hosh ga.nvaa
+agar hosh tan man pe chhaane lage
+chhaane lagaa hai ab \threedots
+
+tuu jo aise bahakegii jaane aaj honaa hai kyaa
+
+haa.N jaan yahii baat hai mahakii sii kyuu.n raat hai
+ye saayaa hai kyaa chal tere saath hai
+saayaa nahii.n zulf hai jo khul ke laharaa ga_ii
+ye baat jo anakahii vo ho.nTho.n pe aa ga_ii
+diivaanii maan bhii \threedots
+%
+#endindian
+\endsong
+

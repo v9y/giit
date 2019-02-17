@@ -1,0 +1,44 @@
+
+%
+\startsong
+\stitle{uu.Nche\-niiche raaste aur ma.nzil terii duur}%
+\film{Khuddaar}%
+\year{1982}%
+\starring{Parveen Babi, Amitabh, Vinod Mehra, Tanuja, Parveen Babi, Bindiya Goswami}%
+\singer{Kishore, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #11627 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+ki \:	uu.Nche\-niiche raaste aur ma.nzil terii duur
+	raah me.n raahii ruk naa jaanaa ho kar tuu majabuur
+la \:	uu.Nche\-niiche raaste \threedots
+ki \:	ho uu.Nche\-niiche raaste \threedots
+
+	ye hamaarii zindagii ek lambaa safar hii to hai
+	chalate hai.n jis pe ham anajaanii Dagar hii to hai
+	dekh sambhalanaa bach ke nikalanaa
+	jo nahii.n chalate dekh ke aage vo karate hai.n bhuul
+ki \:	ho uu.Nche\-niiche raaste \threedots
+
+la \:	karuu.N kyaa mai.n pyaare bhaa_ii 	thak jaa_e.N agar mere paa.Nv
+ki \:	dam le ke do gha.Dii chalaa jaa chaahe ban mile chaahe gaa.Nv
+	baat hamaarii yaad rakhanaa tuu zaruur
+ki \:	ho uu.Nche\-niiche raaste \threedots
+
+	tujhe pyaar bhii mile path me.n to samajhanaa yahii
+	ye raaste kii chhaa.Nv saathii terii ma.nzil nahii.n
+	teraa to apanaa aur hai sapanaa
+	apane hii sapano.n kii ma.nzil pe naa rah jaanaa tuu
+ki \:	uu.Nche\-niiche raaste \threedots
+%
+#endindian
+\endsong
+

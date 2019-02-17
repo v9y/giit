@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{aap ke hasiin ruK pe aaj nayaa nuur hai}%
+\film{Bahaaren Phir Bhi Aayengi}%
+\year{1966}%
+\starring{Dharmendra, Mala Sinha, Tanuja}%
+\singer{Rafi}%
+\music{O P Nayyar}%
+\lyrics{Anjaan}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+aap ke hasiin ruK pe aaj nayaa nuur hai
+meraa dil machal gayaa to meraa kyaa qusuur hai
+aap kii nigaah ne kahaa to kuchh zuruur hai
+meraa dil machal gayaa to meraa kyaa qusuur hai
+
+khulii laTo.n kii chhaa.Nv me.n khilaa\-khilaa saa ruup hai
+ghaTaa pe jaise chhaa rahii subah\-subah kii dhuup hai
+jidhar nazar mu.Dii udhar suruur hii suruur hai
+meraa dil \threedots
+
+jhukii\-jhukii nigaah me.n bhii hai.n balaa kii shoKiyaa.N
+dabii\-dabii ha.nsii me.n bhii ta.Dap rahii hai.n bijaliyaa.N
+shabaab aap kaa nashe me.n Kud hii chuur\-chuur hai
+meraa dil \threedots
+
+jahaa.N\-jahaa.N pa.De kadam vahaa.N fizaa.n badal ga_ii
+ki jaise sar\-basar bahaar aap hii me.n Dhal ga_ii
+kisii me.n ye kashish kahaa.N jo aap me.n huzuur hai
+meraa dil \threedots
+%
+#endindian
+\endsong
+%
+

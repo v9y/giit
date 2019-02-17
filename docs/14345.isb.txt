@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{dhim taa daa re daa nii}%
+\film{Takshak}%
+\year{1999}%
+\starring{Ajay Devgan, Tabu}%
+\singer{Surja Bhattacharya}%
+\music{A R Rahman}%
+\lyrics{Mehboob}%
+%
+% Contributor: BOL ANAMOL #12465 [V S Rawat], 01/02/2004
+%
+\printtitle
+#indian
+%
+dhim taa daa re daa nii
+dhim taa daa re daa nii
+dhim taa naa de re naa
+o daa nii o daa nii dir dir daanii taa naa dir naa
+
+dhin taa daa re daa nii
+dhim taa daa re daa nii
+dhim
+
+taa daa re daa nii dhim
+taa naa de re naa
+o daa nii o daa nii dir dir daanii taa naa dir naa
+
+dir dirannaa dir dirannaa o daa nii o daa nii dir daa
+
+ma re re saa saa re ni ni saa saa re dha ni pa
+ma ma re re saa re ni saa re ma
+ga re saa re ni saa re saa saa
+%
+#endindian
+\endsong
+%
+

@@ -1,0 +1,32 @@
+%
+\startsong
+\stitle{terii yaad kaa diipak jalataa hai}%
+\film{Gavaiyya}%
+\year{1954}%
+\starring{Vijaylakshmi, Surendra, Sapru}%
+\singer{Talat}%
+\music{Ram Ganguly}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments: A tandem version by Surendra exists. Lyrics might be different
+%
+\printtitle
+#indian
+%
+
+terii yaad kaa diipak jalataa hai din raat mere viiraane me.n
+vo paagalapan jo pahale thaa ab bhii hai tere diivaane me.n
+
+din raat meraa Gam ba.Dhataa gayaa par terii muhabbat kam na huii
+jo lutf ta.Dapane me.n paayaa vo baat kahaa.N mar jaane me.n
+
+ik aag sulagatii rahatii hai har vaqt meraa dil jalataa hai
+hai shauq magar kuchh aur abhii jalane kaa tere paravaane me.n
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{nainaa to dukhan laage ... chandaa re morii patiyaa.n le jaa}%
+\film{Banjaarin}%
+\year{1960}%
+\starring{Kanchan Kamini, Manhar Desai, Lalita Kumari,  Sundar, Indira Bansal}%
+\singer{Mukesh, Lata}%
+\music{Pardesi}%
+\lyrics{Pt. Madhur}%
+%
+% Contributor: BOL ANAMOL #10307 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	nainaa to dukhan laage
+	chandaa re morii ( patiyaa.n le jaa ) \-2 saajan ko pahu.Nchaa de re
+	vo likh sake javaab unhe.n tuu meraa pataa bataa de re
+	chandaa re
+mu \:	chandaa re morii ( patiyaa le jaa ) \-2 sajanii ko pahu.Nchaa de re
+	vo likh sake javaab \threedots
+
+la \:	palako.n kii hai kalam banaa_ii kaajal bah kar banii siyaahii
+	kaise likhuu.N kahaanii Gam kii tuu hii mujhe bataa de re
+	chandaa re \threedots
+
+mu \:	ham Kush hai.n Gam diyaa hai tuune ye ehasaan kiyaa hai tuune
+	jahaa.N raho Kush raho merii is du_aa kaa asar dikhaa de re
+	chandaa re \threedots
+
+do \:	o aakaash ke sundar darpaN tuu hii sajanii tuu hii saajan
+	bichha.De dilo.n ko phir se milaa de rotaa chaman ha.Nsaa de re
+	chandaa re \threedots
+%
+#endindian
+\endsong
+

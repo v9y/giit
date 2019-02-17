@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{toraa man darpaN kahalaaye}%
+\film{Kaajal}%
+\year{1965}%
+\starring{Raj Kumar, Dharmendra, Meena Kumari, Padmini}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Sahir}%
+%
+% Contributor: Anurag Shankar (anurag@astro.indiana.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Vandana Vidwans
+%
+\printtitle
+#indian
+%
+
+praaNii apane prabhu se puuchhe kis vidhii paauu.N tohe
+prabhu kahe tu man ko paa le, paa jayegaa mohe
+
+torA man darpaN kahalAye \- 2
+bhale bure sAre karmo.n ko, dekhe aur dikhAye
+torA man darpaN kahalAye \- 2
+
+man hI devatA, man hI Ish{}var, man se ba.DA na koy
+man ujiyArA jab jab phaile, jag ujiyArA hoy
+is ujale darpaN pe prANI, dhUl na jamane pAye
+torA man darpaN kahalAye \- 2
+
+sukh kI kaliyA.N, dukh ke kA.nTe, man sabakA AdhAr
+man se koI bAt chhupe nA, man ke nain hazAr
+jag se chAhe bhAg lo koI, man se bhAg na pAye
+torA man darpaN kahalAye \- 2
+
+tan kii daulat Dhalatii chhaayaa man kaa dhan anamol
+tan ke kaaraN man ke dhan ko mat maaTi mein rau.nd
+man kii qadar bhulaanevaalaa viiraa.N janam gavaaye
+torA man darpaN kahalAye \- 2
+
+%
+#endindian
+\endsong
+%

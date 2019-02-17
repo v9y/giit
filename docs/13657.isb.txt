@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{yaado.n me.n aksar aate rahe}%
+\film{Paisa Vasool}%
+\year{2003}%
+\starring{Manisha Koirala, Sushmita Sen, Makrand Deshpande}%
+\singer{Shreya Ghoshal, Shaan}%
+\music{Bapi-Tutul}%
+\lyrics{Sandeep Nath}%
+%
+% Contributor: BOL ANAMOL #11816 [V S Rawat]
+% Producer: Moving Images, Manisha Koirala
+% Director: Srinivas Bhashyam
+% Audio: Times Music, India www.timesmusic.com
+% Cassette: TCIFI 014V, Cost: Rs 55/-
+%
+\printtitle
+#indian
+%
+shre \:	yaado.n me.n aksar aate rahe
+	kuchh pal ha.nsaate rulaate rahe
+	tumako bhulaa naa paaye kabhii
+	lagataa hai tum saath me.n ho abhii
+
+shaa \:	kyaa Kuub lamhe.n hai.n
+	ham aaj phir se hai.n saath
+shre \:	u.D ke chale aasamaa.N ke paar
+	jinakii tamannaa hai baar\-baar
+
+shaa \:	he he la laa la laa
+	he la laa la laa aa haa
+	bikhare huye Kaab kitane
+	aa.Nkhe.n hai.n Kud me.n basaaye
+	Kaabo.n me.n naa mil sake jo
+	aa_o unhe.n Dhuu.NDh laaye.N
+	phir ho ke sach Kaab apane
+shre \:	chalane lage.nge saath\-saath
+	samajho naa tum ye zaraa sii baat
+
+shaa \:	sama.ndar kii laharo.n ko dekho
+	TuuTe.n magar tham naa jaaye.N
+	saahil se milane kii Kaatir
+	le ke ummiide.n wo aaye.N
+shre \:	ham\-tum bhii laharo.n kii tarahaa
+	milate rahe.nge baar\-baar
+	lamhe.n ye aaye.nge baar\-baar
+%
+#endindian
+\endsong
+

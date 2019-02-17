@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{papiihaa re, mere piyaa se kahiyo jaay}%
+\film{Kismat}%
+\year{1943}%
+\starring{Ashok Kumar, Mumtaz Shanti, Shahnawaz, Moti}%
+\singer{Parul Ghosh, Male Voice?}%
+\music{Anil Biswas}%
+\lyrics{Pradeep}%
+
+% Contributor: BOL ANAMOL [V S Rawat], 07/08/2004
+% Song Courtesy: http://hindi-movies-songs.com/
+
+% kosh does not mention Male Voice
+
+\printtitle
+#indian
+
+% Male Voice?
+papiihaa re
+mere piyaa se kahiyo jaay \-2
+
+% rest of the song is by Parul Ghosh
+
+mai.n huu.N kitanii paas piyaa ke
+phir bhii kitanii duur \-2
+ek nadii ke do kinaare \-2
+milane se majabuur
+haay
+milane se majabuur
+palak\-jharokhe a.nkhiyaa.N dekhe.n
+nis\-din aas lagaaye \-2
+papiihaa re \-3
+mere piyaa se kahiyo jaay \-2
+
+aaj kidhar mai.n chalii akelii
+kaa.Np rahii merii jiivan belii
+aaj kidhar mai.n chalii akelii
+agar meraa diipak bujh jaaye
+kisii pe.D ke niiche
+pyaare papiihaa sajan se kahanaa \-2
+unakaa daaman khii.nche \-2
+tere yaad me.n raadhaa mar ga_ii
+dil kaa dard chhupaaye \-2
+
+papiihaa re \-3
+mere piyaa se kahiyo jaay \-2
+
+#endindian
+\endsong

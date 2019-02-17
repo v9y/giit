@@ -1,0 +1,51 @@
+% ITRANS SONG
+
+\startsong
+\stitle{kahate hai.n pyaar kisako pa.nchhii zaraa bataa de}%
+\film{Baarish}%
+\year{1957}%
+\starring{Devanand, Nutan, Jagdish Sethi, Lalita Pawar, Gop, Anwar, Kumkum}%
+\singer{Lata, Chitalkar/ Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
+% Song Courtesy: http://www.indianscreen.com
+
+\printtitle
+#indian
+
+la \:	kahate hai.n pyaar kisako pa.nchhii zaraa bataa de
+	u.Danaa khulii hawaa me.n o bezubaa.N sikhaa de
+	o bezubaa.N sikhaa de
+
+	kahate hai.n pyaar kisako pa.nchhii zaraa bataa de
+	u.Danaa khulii hawaa me.n
+do \:	o bezubaa.N sikhaa de \-2
+
+la \:	mushqil hai is jahaa.N me.n aazaadiyo.n se rahanaa \-2
+chi \:	jo baat dil me.n aaye usako zubaa.N se kahanaa \-2
+la \:	aazaad tuu hai jaisaa waisaa hame.n banaa de
+
+chi \:	u.Danaa khulii hawaa me.n o bezubaa.N sikhaa de
+	o bezubaa.N sikhaa de
+
+do \:	kahate hai.n pyaar kisako pa.nchhii zaraa bataa de
+	u.Danaa khulii hawaa me.n o bezubaa.N sikhaa de
+	o bezubaa.N sikhaa de
+
+la \:	nafarat kii vaadiyo.n se ho duur ek baseraa
+	shaame.n jahaa.N suhaanii ra.ngiin ho saweraa
+chi \:	nafarat kii vaadiyo.n se ho duur ek baseraa
+	shaame.n jahaa.N suhaanii ra.ngiin ho saweraa
+la \:	wo kaun sii hai duniyaa rastaa zaraa dikhaa de
+
+chi \:	u.Danaa khulii hawaa me.n o bezubaa.N sikhaa de
+	o bezubaa.N sikhaa de
+
+do \:	kahate hai.n pyaar kisako pa.nchhii zaraa bataa de
+	u.Danaa khulii hawaa me.n o bezubaa.N sikhaa de
+	o bezubaa.N sikhaa de
+
+#endindian
+\endsong

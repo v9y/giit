@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{dil ne pyaar kiyaa hai ik bevafaa se}%
+\film{Sharaarat}%
+\year{1972}%
+\starring{Mumtaz, Biswajit, Shatrughan Sinha, Mahmood Jr, Fariyal, Tuntun}%
+\singer{Rafi}%
+\music{Ganesh}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #10193 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+dil ne pyaar kiyaa hai ik bevafaa se \-2
+pachhataa rahe hai.n dil me.n
+dil hamaaraa thaa hamane haaraa thaa tumape vaaraa thaa
+dil ne pyaar kiyaa \threedots
+
+kal tumane jo hamase vaade ki_e the
+( kahaa.N hai.n ) \-3 vo vaade
+kal tumane jo hamase khaa_ii thii.n kasame.n
+( kahaa.N hai.n ) \-3 vo kasame.n
+na itaraa_iye na muskaa_iye na sharamaa_iye
+dil hamaaraa thaa \threedots
+
+ai gulabadan sabase mumataaz thii.n tum
+mahal pyaar kaa ik banaayaa thaa maine
+ye kisakii nazar se jalaa aashiyaanaa
+ba.De naaz se ghar sajaayaa thaa maine
+luTii zindagii miTii zindagii milii beqasii
+dil hamaaraa thaa \threedots
+%
+#endindian
+\endsong
+

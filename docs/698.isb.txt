@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{ham ko man kii shakti denaa, mana vijaya kare.n}%
+\film{Guddi}%
+\starring{Jaya Bhaduri, Samit Bhanja}%
+\singer{Vani Jairam}%
+\music{Vasant Desai}%
+\lyrics{Gulzar}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Pankaj Joshi  (aspnj@asuvm.inre.asu.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ham ko man kii shakti denaa, mana vijaya kare.n 
+duusaro.nkii jaya se pahale, khudakii jaya kare.n 
+ham ko man kii shakti denaa  \threedots
+
+bheda\-bhaava apane dilase, saaf kara sake.n 
+duusaro.nse bhuul ho to, maaf kara sake.n 
+jhuuTha se bache rahe.n, sachakaa dama bhare.n 
+duusaro.nkii jayase pahale, khudakii jaya kare.n 
+ham ko man kii shakti denaa  \threedots
+
+mushkile.n pa.De.n to hamape, itanaa karma kara 
+saatha de.n to dharm kaa, chale.n to dharm para 
+khudape hausalaa rahe, sachakaa dama bhare.n 
+duusaro.nkii jayase pahale, khudakii jaya kare.n 
+ham ko man kii shakti denaa  \threedots
+%
+#endindian
+\endsong
+%

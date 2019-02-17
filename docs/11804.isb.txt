@@ -1,0 +1,59 @@
+%
+\startsong
+\stitle{suno suno ... kaho kaho ... tere bin jiinaa to mushkil hai}%
+\film{Hum To Mohabbat Karegaa}%
+\year{2000}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Kumar Sanu, Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he aa haa haa haa he he he
+ab to chaahaa tujhe jaan jaa_e rahe
+dil kiyaa tere naam duniyaa jo bhii kahe
+ham to mohabbat karegaa
+
+suno suno
+kaho kaho
+kyaa kahuu.N
+yuu.n bhii kyaa
+Dare hai dil
+kyuu.n jii kyuu.n
+tere bin jiinaa to mushkil hai mushkil hai
+jiinaa kyaa maranaa bhii mushkil hai mushkil hai
+suno suno \threedots
+
+tuu to merii jaa.n hai
+jaa.n hai to jahaa.n hai
+tuu hai
+to
+mai.n bhii yahaa.n
+tuu to meraa dil hai
+dil hai to mahafil hai
+tuu nahii.n
+to
+mai.n phir kahaa.n
+suno suno \threedots
+
+tuu hii hamaraahii
+tuu hii hamadam hai
+hamadam
+o
+ma.nzil hai tuu
+tuu hii meraa man hai
+man hai to jiivan hai
+meraa pyaar
+aa
+pyaar hai tuu
+suno suno \threedots
+%
+#endindian
+\endsong
+

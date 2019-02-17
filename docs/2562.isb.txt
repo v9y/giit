@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil dil se kah rahaa hai}%
+\film{Parchhain}%
+\year{1952}%
+\starring{V Shantaram, Jayasree, Sandhya}%
+\singer{Talat, Lata}%
+\music{C Ramchandra}%
+\lyrics{Noor Lucknowi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+dil dil se kah rahaa hai
+jo tuu hai vahii mai.n huu.N
+dono.n kii ik sadaa hai
+jo tuu hai vahii mai.n huu.N
+
+tasaviire.n dekhane me.n jo hai guruur leke
+ra.ng le ke vo kha.Daa hai
+jo tuu hai vahii mai.n huu.N \threedots
+
+saa.Nse.n milii huii.n hai.n aahe.n milii huii.n hai.n
+is dard me.n ik davaa hai
+jo tuu hai vahii mai.n huu.N \threedots
+
+%
+#endindian
+\endsong
+%

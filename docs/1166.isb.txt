@@ -1,0 +1,79 @@
+%
+\startsong
+\stitle{mausam pyaar kaa ra.ng badalataa rahe}%
+\film{Sitamgar}%
+\year{1984}%
+\starring{Dharmendra, Parveen Babi, Rishi Kapoor, Poonam Dhillon}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics {Majrooh}%
+%
+% Contributor: Renu Thamma 
+% Transliterator:
+%
+\printtitle
+#indian
+%
+
+aashaa: #(softly)#  
+mausam pyaar kaa, ra.ng badalataa rahe
+yuu.N hii chalataa rahe, tere mere pyaar kaa kaaravaa.N
+
+koras:  o\threedots o\threedots
+
+kishor: #(softly)# 
+mausam pyaar kaa, ra.ng badalataa rahe
+yuu.N hii chalataa rahe, tere mere pyaar kaa kaaravaa.N
+
+#(flute starts the interlude)#
+
+aashaa: 
+Tha.n.Dii havaa matavaalii, kahe hamaare sa.ng u.Dake
+abhii kahii.n dekho naa mu.Dake
+ho, piichhe ab kahaa.N ye nazaare ye samaa\threedots
+mausam pyaar kaa, ra.ng badalataa rahe
+yuu.N hii chalataa rahe, tere mere pyaar kaa kaaravaa.N
+\threedots
+
+kishor: 
+kahaa.N kahaa.N se hoke tujh tak
+laayii hai mujhako ye raahe.n
+chho.Duu.ngaa mai.n kaise ye baahe.n
+are, ab to ai sanam tuu jahaa.N mai.n vahaa.N \threedots
+
+#(chord changes)#
+
+kishor: 
+mausam pyaar kaa, ra.ng badalataa rahe
+yuu.N hii chalataa rahe, tere mere pyaar kaa kaaravaa.N
+\threedots
+
+aashaa: 
+kisii hasiin safar me.n biite ye zi.ndagaanii
+kishor: do hamasafar ma.nzil a.njaanii
+
+aashaa: 
+kisii hasiin safar me.n biite ye zi.ndagaanii
+
+kishor: 
+do hamasafar ma.nzil a.njaanii
+
+dono.n: ho\threedots ab aaye bahaar, yaa chale aa.Ndhiyaa.N
+\threedots
+
+aashaa: 
+mausam pyaar kaa, ra.ng badalataa rahe
+yuu.N hii chalataa rahe \threedots
+
+kishor: tere mere pyaar kaa \threedots
+
+aashaa: kaaravaa.N \threedots
+
+kishor: pyaar ka \threedots
+
+aashaa: kaaravaa.N \threedots
+
+%
+#endindian
+\endsong
+%

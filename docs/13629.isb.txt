@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{zindagii kaa saaz bhii kyaa saaz hai}%
+\film{Pukaar}%
+\year{1939}%
+\starring{Sohrab Modi, Chandramohan, Nasim Bano, Sheela, Sardar Akhtar}%
+\singer{Nasim Bano}%
+\music{Mir Saheb}%
+\lyrics{Kamal Amrohi}%
+%
+% Contributor: BOL ANAMOL #11343 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: This lyrics were printed in Listeners' Bulletin Vol #28 under Geetanjali #18
+% and again in Listeners' Bulletin Vol #91 under Geetanjali #81
+% sent by V S Mishra, Baangarma_uu
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+zindagii kaa saaz bhii kyaa saaz hai
+baj rahaa hai aur be_aawaaz hai
+
+ko_ii nagamaa hai na ko_ii saaz hai \-2
+ek terii aur ek merii aawaaz hai \-2
+
+zindagii kaa saaz bhii kyaa saaz hai
+baj rahaa hai aur be_aawaaz hai \-2
+
+lay na TuuTe zindagii ke saaz kii \-2
+zindagii aawaaz hii aawaaz hai \-2
+
+zindagii kaa saaz bhii kyaa saaz hai
+baj rahaa hai aur be_aawaaz hai
+%
+#endindian
+\endsong
+

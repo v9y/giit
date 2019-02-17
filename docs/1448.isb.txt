@@ -1,0 +1,33 @@
+% 
+\startsong
+\stitle{piyaa baaj pyaalaa piyaa jaae na}%
+\film{Nishant}%
+\year{1975}%
+\starring{Shabana Azmi, Smita Patil, Girish Karnad, Anant Nag, Naseeruddin Shah}%
+\singer{Preeti Sagar}%
+\music{Vanraj Bhatia}%
+\lyrics{Quli Qutub Shah}%
+% 
+% Contributor: Samiuddin Mohammed <sm0e@Lehigh.EDU?
+% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
+% Date: 08/01/1996
+% Credits: bose.2@nd.edu (Surajit A. Bose)
+%          nitin@cs.washington.edu (Nitin Sharma)
+% Comments: Also sung by Khan Ather in Doordarshan TV serial, Farmaan
+%
+\printtitle
+#indian
+%
+piyaa baaj pyaalaa piyaa jaae na
+piyaa baaj ek din jiyaa jaae na
+
+nahii.n ishq jis vo ba.Daa kuu.D hai
+kadii usase mil be siyaa jaae na
+
+qutub shaah na de mujh diivaane ko paan
+diivaane ko kuchh paan diyaa jaae na
+%
+#endindian
+\endsong
+%
+

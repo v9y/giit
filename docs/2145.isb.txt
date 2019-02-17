@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{mai.n apane aap se ghabaraa gayaa huu.N}%
+\film{Bindiya}%
+\year{1960}%
+\starring{Balraj Sahni, Padmini, Jagdeep}%
+\singer{Rafi}%
+\music{Iqbal Qureshi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Sanjeev Rambhadran
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+mai.n apane aap se ghabaraa gayaa huu.N
+mujhe ai zi.ndagii diivaanaa kar de
+
+kahaa.N se ye fareb\-e\-aarazuu mujhako kahaa.N laayaa
+jise mai.n puujataa thaa aaj tak nikalaa vo ik saayaa
+Kataa dil kii hai mai.n sharamaa gayaa huu.N
+mai.n apane aap se   \threedots
+
+ba.De hii shauq se ik Kvaab me.n khoyaa huaa thaa mai.n
+ajab mastii bharii ik nii.nd me.n soyaa huaa thaa mai.n
+khulii jab aa.Nkh to thar.raa gayaa huu.N
+mai.n apane aap se   \threedots
+
+%
+#endindian
+\endsong
+%

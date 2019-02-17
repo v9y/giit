@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{badal jaaye duniyaa.N na badale.nge ham}%
+\film{Captain Kishore}%
+\year{1957}%
+\starring{Suresh, Shashikala}%
+\singer{Talat}%
+\music{Chitragupt}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits: Ashok Dhareshwar, Neha Desai
+% Comments:
+%
+\printtitle
+#indian
+%
+
+badal jaaye duniyaa.N na badale.nge ham
+tumhaarii qasam
+tumhaare hai.n ki jab tak dam me.n hai dam
+tumhaarii qasam
+
+kaho naam kaa ulfat kaa badanaam kyo.n hai
+hamaarii vafaa_o.n pe ilzaam kyo.n hai
+bataao to hogaa tumhaaraa qaram
+tumhaarii qasam
+badal jaaye duniyaa.N \threedots
+
+ye maanaa hai mushkil muhabbat kii raahe.n
+agar Daal do tum baaho.n me.n baahe.n
+khushii se sahe.nge tumhaare sitam
+tumhaarii qasam
+badal jaaye duniyaa.N \threedots
+
+jahaa.N tak jahaa.N ke nazaare rahe.nge
+tumhaare rahe hai.n tumhaare rahe.nge
+na Dole.nge ulfat me.n apane qadam
+tumhaarii qasam
+badal jaaye duniyaa.N \threedots
+
+%
+#endindian
+\endsong
+%

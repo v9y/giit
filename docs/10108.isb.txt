@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{charche hai.n hamaare galiyo.n me.n sanam}%
+\film{Aashiq}%
+\year{2001}%
+\starring{Bobby Deol, Karisma Kapoor}%
+\singer{Udit Narayan, Chorus}%
+\music{Sanjeev Darshan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+he he he he charche hai.n charche hai.n
+he charche hai.n hamaare galiyo.n me.n sanam
+bahake bahake ham diivaane bahake hai.n kadam
+kisii kii ham ko fikar nahii.n yaaro.n bi.ndaas hai.n ham
+charche hai.n hamaare \threedots
+
+apanii ##life## me.n bhii aa_egii ko_ii lailaa
+saath me.n usake ghuume.nge ham bhii ban ke chhailaa
+are aaj nahii.n to kal sach ho jaa_e.nge saare sapane
+saarii duniyaa me.n guu.nje.nge sirf taraane apane
+jahaa.n kahii.n ko_ii la.Dakii dekhe dil bole zaraa tham
+charche hai.n hamaare \threedots
+
+maanaa aaj hai.n ka.Dake la.Dake maal na apane paas
+ham bhii bane.nge TaaTaa bi.Dalaa hamako hai vishvaas
+logo.n kii na baat sune.n ham dil kaa kahanaa maane.n
+Dhuu.nDh rahe hai.n ma.nzil apanii ham raahii anjaane
+saare jahaa.n pe raaj kare.nge khaate hai.n kasam
+charche hai.n hamaare \threedots
+%
+#endindian
+\endsong
+

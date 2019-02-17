@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{tere badan me.n dha.Dakane lagaa huu.N dil kii tarah}%
+\film{Chehara}%
+\year{1999?}%
+\starring{Ayub Khan, Madhu}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere badan me.n dha.Dakane lagaa huu.N dil kii tarah
+ye aur baat hai ke tujhe ab bhii sunaa_ii na de
+
+tere badan me.n dha.Dakane lagii huu.N dil kii tarah
+ye aur baat hai \threedots
+
+teraa cheharaa in aa.Nkho.n ke paas rahataa hai
+jab tuu jaa_e duur teraa ahasaas rahataa hai
+tere sivaa ab mujhe mere sanam kuchh bhii dikhaa_ii na de
+tere badan me.n \threedots
+
+naa jaane kyuu.n tujhape itanaa pyaar aataa hai
+terii baaho.n me.n aake har dard jaataa hai
+de de mujhe ko_ii sazaa rabbaa mere hamako judaa_ii na de
+tere badan me.n \threedots
+%
+#endindian
+\endsong
+

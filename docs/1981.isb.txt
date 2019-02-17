@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{zi.ndagii dene vaale sun}%
+\film{Dil-e-Naadaan}%
+\year{1953}%
+\starring{Peace Kanwal, Talat, Shyama}%
+\singer{Talat}%
+\music{Ghulam Mohammad}%
+\lyrics{Shakeel}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+zi.ndagii dene vaale sun
+terii duniyaa se dil bhar gayaa
+mai.n yahaa.N jiite jii mar gayaa
+
+raat kaTatii nahii.n din guzarataa nahii.n
+zaKm aisaa diyaa hai ke bharataa nahii.n
+aa.Nkh viiraan hai, dil pareshaan hai, Gam kaa saamaan hai
+jaise jaaduu koI kar gayaa
+zi.ndagii dene vaale sun \threedots
+
+beKataa tuune mujh se khushii chhiin lii
+zi.ndaa rakhaa magar zi.ndagii chhiin lii
+kar diyaa dil kaa khuu.N, chup kahaa.N tak rahuu.N, saaf kyuu.N naa kahuu.N
+tuu khushii se merii jal gayaa
+zi.ndagii dene vaale sun \threedots
+%
+#endindian
+\endsong
+%

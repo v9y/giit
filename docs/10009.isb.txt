@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{Kush raho Kush raho ahal\-e\-vatan}%
+\film{23rd March 1931 Shaheed}%
+\year{2002}%
+\starring{Sunny Deol, Bobby Deol, Aishwarya Rai, Amrita Singh}%
+\singer{Hans Raj Hans, Chorus}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+vande maataram vande maataram
+Kush raho Kush raho ahal\-e\-vatan
+ham apanaa farz nibhaake chale
+
+kabhii bujhane na denaa us aag ko
+aag siino.n me.n ham jo lagaake chale
+
+kyaa hu_aa nii.nd aa_ii jo ham so ga_e
+ham to saare vatan ko jagaa ke chale
+
+yaad aa_e hamaarii to ronaa nahii.n
+tumako aazaadii kaa ra.ng lagaake chale
+%
+#endindian
+\endsong
+

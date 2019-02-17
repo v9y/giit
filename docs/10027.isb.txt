@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ek hasiinaa ek diivaanaa ... maine to khaa_ii kasam}%
+\film{Awara Paagal Deewana}%
+\year{2002}%
+\starring{Akshay Kumar, Sunil Shetty, Aftaab Shivdasani, Preeti Jhangiyani, Amrita Arora, Aarti Chhabaria}%
+\singer{Abhijit, Sunidhi Chauhan, Chorus}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+ek hasiinaa ek diivaanaa mast samaa.n mausam bhii suhaanaa
+tanhaa_ii me.n aa.Nkh milii to dard uThaa dil me.n a.njaanaa
+
+maine to khaa_ii kasam chaahuu.Ngii tujh ko sanam
+chaahat pe bas naa chale aa jaa lagaa luu.N gale
+bechainiyaa.N kah rahii.n ab to miTaa faasale
+jab se teraa diidaar hu_aa hai tiir jigar ke paar hu_aa hai
+jiinaa meraa dushvaar hu_aa hai mai.n tujh pe marane lagaa
+ek hasiinaa ek diivaanaa \threedots
+
+kyaa pyaas jaanaa.n dha.Dakano.n me.n jagii
+chhaane lagii hai ik na_ii bekhudii
+o paagal kare ye terii aashiqii
+pyaar me.n dono.n khone lage hai.n
+diivaane se hone lage hai.n
+diivaano.n kaa haal to dekho jaage jaage sone lage hai.n
+maine to khaa_ii kasam \threedots
+ek hasiinaa ek diivaanaa \threedots
+
+ishq ne aisii aag lagaa_ii betaabii kuchh aisii chhaa_ii
+ik duuje se mil ga_e dono.n duniyaa un ko rok na paa_ii
+%
+#endindian
+\endsong
+

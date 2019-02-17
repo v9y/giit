@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{pyaar me.n dil to sab dete hai.n ... o jaanam}%
+\film{Chhupa Rustam}%
+\year{1999?}%
+\starring{Sanjay Kapoor, Manisha Koirala}%
+\singer{Kumar Sanu, Alka Yagnik}%
+\music{Anand Milind}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar me.n dil to sab dete hai.n jaan tujhe de de.nge ham
+Tikii Tikii Dam Dam Tikii Tikii Dam
+pyaar me.n dil to \threedots
+o jaanam o jaanam
+
+jii bhar ke ham pyaar kare.n pyaar kii baate.n yaar kare.n
+mere dil kaa haal suno apane dil kaa haal kaho
+jitane din jitanii raate.n mai.n tujhase duur rahii
+yaad bahut aatii thii terii nii.nd bahut aatii thii kam
+o jaanam o jaanam
+
+terii zulfo.n se kheluu.n aa tujhe baaho.n me.n le luu.n
+jitane vaade hamane kiye aaj kare.n vo sab phir se
+pyaar to khud vaadaa hai pyaar me.n vaadaa kyaa karanaa
+likhane vaale ne likh Daalaa hai teraa meraa sa.ngam
+o jaanam o jaanam
+haa.N pyaar me.n dil to \threedots
+%
+#endindian
+\endsong
+

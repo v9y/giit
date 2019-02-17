@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{shaam\-e\-Gam kii qasam, aaj Gamagii.n hai.n ham}%
+\film{Foot Path}%
+\year{}%
+\starring{Dilip Kumar, Meena Kumari, Romesh Thapar}%
+\singer{Talat}%
+\music{Khaiyyam}%
+\lyrics{Sardar Jafri, Majrooh}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+shaam\-e\-Gam kii qasam aaj Gamagii.n hai.n ham
+aa bhii jaa aa bhii jaa aaj mere sanam
+shaam\-e\-Gam kii qasam
+dil pareshaan hai.n raat viiraan hai.n
+dekh jaa kis tarah aaj tanahaa hai.n ham
+shaam\-e\-Gam kii qasam
+
+chain kaisaa jo pahaluu me.n tuu hii nahii.n
+maar Daale na dard\-e\-judaaI kahii.n
+rut ha.nsii.n hai.n to kyaa chaa.Ndanii hai to kyaa
+chaa.Ndanii zulm hai aur judaaI sitam
+shaam\-e\-Gam kii qasam
+
+ab to aajaa ke ab raat bhii so gaI
+zindagii Gam ke seharaav me.n kho gaI   (2)
+Dhuu.NDhatii hai.n nazar tuu kahaa.N hai.n magar
+dekhate dekhate aayaa aa.Nkho.n me.n Gam
+shaam\-e\-Gam kii qasam
+%
+#endindian
+\endsong
+%

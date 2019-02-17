@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{pyaar ke li_e chaar pal kam nahii.n the}%
+\film{Dil Kyaa Kare}%
+\year{1999}%
+\starring{Ajay Devgan, Kajol, Mahima Chaudhary}%
+\singer{Alka Yagnik}%
+\music{Jatin Lalit}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+pyaar ke li_e chaar pal kam nahii.n the
+kabhii tum nahii.n the kabhii ham nahii.n the
+pyaar ke hasii.n kab ye mausam nahii.n the
+kabhii tum nahii.n the \threedots
+
+ye din baraso.n ke baad aayaa
+kuchh tumhe.n kuchh hame.n yaad aayaa
+kasak phir ye dil me.n uThii hai
+ho.nTho.n pe baat aake rukii hai
+kabhii itane majabuur to ham nahii.n the
+pyaar ke li_e \threedots
+
+agar tum ye dil maa.ng lete
+jaan\-e\-man ham tumhe.n jaan dete
+ye kaise ham bhuul jaate
+mar ke bhii tum hame.n yaad aate
+tumhe.n hai pataa bevafaa ham nahii.n the
+pyaar ke li_e \threedots
+%
+#endindian
+\endsong
+

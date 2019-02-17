@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere sapane me.n aanaa re saajanaa}%
+\film{Raaj Hath}%
+\year{1956}%
+\starring{Sohrab Modi, Pradeep Kumar, Madhubala}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Richa
+% Transliterator: Nita
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+mere sapane me.n aanaa re saajanaa
+mere sapane me.n aanaa re
+voh baat zaraa mere kaano.n me.n
+phir se kah jaanaa re
+mere sapane me.n aanaa re
+
+thake thake nain piyaa dekhe raah terii
+dhiire dhiire jaaduu kare chaa.Nd kii ujerii
+samaa ba.Daa hii suhaanaa re saajanaa
+mere sapane me.n aanaa re
+
+chorii chorii aake piyaa baiThanaa sarahaane
+jaan ke mai.n chup rahuu.Ngii nii.nd ke bahaane
+mujhe chhe.D ke jagaanaa re saajanaa
+mere sapane me.n aanaa re
+%
+#endindian
+\endsong
+%

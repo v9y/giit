@@ -1,0 +1,69 @@
+%
+\startsong
+\stitle{saavan ke mahiine me.n ik aag sii siine me.n}%
+\film{Sharaabi}%
+\year{}%
+\starring{Dev Anand}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+sochataa huu.N ki piyuu.N piyuu.N na piyuu.N
+Taak daaman ke siyuu.N siyuu.N na siyuu.N
+dekh kar jaam kashamakash me.n huu.N
+kyaa karuu.N mai.n jiyuu.N jiyuu.N haay! na jiyuu.N
+
+saavan ke mahiine me.n
+ik aag sii siine me.n
+lagatii hai to pii letaa huu.N
+do chaar gha.Dii jii letaa huu.N
+saavan ke mahiine me.n
+
+chaa.Nd kii chaal bhii hai bahakii huii
+raat kii aa.Nkh bhii sharaabii hai
+saarii kudarat nashe me.n hai chuur
+are mai.n ne pii lii to kyaa kharaabii hai
+saavan ke mahiine me.n \threedots
+
+%
+% Fast version
+%
+
+baraso.n chhalakaaye mai.n ne
+ye shiishe aur ye pyaale
+kuchh aa j pilaa de aisii
+jo mukjahko hii pii Daale
+har roz to yuu.N hii dil ko
+bahakaa ke mai.n pii letaa huu.N
+do chaar gha.Dii jii letaa huu.N \threedots
+
+lambe jiivan se achchaa
+vo ik pal jo apanaa ho
+us pal ke baad ye duniyaa
+kyaa Gam hai agar sapanaa ho
+kuchh soch ke aisii baate.n
+ghabaraa ke mai.n pii letaa huu.N
+do chaar gha.Dii jii letaa huu.N \threedots
+
+maikhaane me.n aayaa huu.N
+mausam kaa ishaaraa paa ke
+dam bhar ke liye baiThaa huu.N
+ra.ngiin sahaaraa paa ke
+saathii jo terii zidd.h hai to
+sharamaa ke mai.n pii letaa huu.N
+do chaar gha.Dii jii letaa huu.N \threedots
+
+%
+#endindian
+\endsong
+%
+

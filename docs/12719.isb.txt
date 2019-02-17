@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{ab agar hamase Kudaa_ii bhii khafaa ho jaa_e}%
+\film{Lailaa Majnun}%
+\year{1976}%
+\starring{Rishi Kapoor, Ranjeeta}%
+\singer{Lata, Rafi}%
+\music{Madan Mohan}%
+\lyrics{Sahir}%
+%
+% Contributor: BOL ANAMOL #10575 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ra \:	ab agar hamase Kudaa_ii bhii khafaa ho jaa_e
+	gair\-mumakin hai ki dil dil se judaa ho jaa_e \-2
+la \:	jism miT jaa_e ki ab jaan fanaa ho jaa_e
+	gair\-mumakin hai \threedots
+
+	jis gha.Dii mujhako pukaare.ngii tumhaarii baa.Nhe.n
+	rok paa_e.Ngii na saharaa kii sulagatii raahe.n
+	chaahe har saa.Ns jhulasane kii sazaa ho jaa_e \-2
+	gair\-mumakin hai \threedots
+
+ra \:	laakh za.njiiro.n me.n jaka.De.n ye zamaane vaale \-2
+	to.D kar band nikal aa_e.Nge aane vaale \-2
+	shart itanii hai ki tuu jalavaa\-numaa.N ho jaa_e
+	gair\-mumakin hai \threedots
+
+la \:	zalazale aa_e.N garazadaar ghaTaa_e.N ghere.n
+	kha.ndake.n raah me.n ho.n tez havaa_e.N ghere.n
+do \:	chaahe duniyaa me.n qayaamat hii bapaa ho jaa_e
+	gair\-mumakin hai \threedots
+%
+#endindian
+\endsong
+

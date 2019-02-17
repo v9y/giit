@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{tere pyaar ko is tarah se bhulaanaa na dil chaahataa}%
+\film{Maine Jeenaa Seekh Liyaa}%
+\year{1959}%
+\starring{Ameeta, Ravindra Kapoor, Durga Khote, P Kailash, Murad,  Tiger (dog)}%
+\singer{Mukesh}%
+\music{Roshan}%
+\lyrics{Rahil Gorakhpuri}%
+%
+% Contributor: BOL ANAMOL #10503 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+tere pyaar ko is tarah se bhulaanaa
+na dil chaahataa hai na ham chaahate hai.n
+jo sach thaa use ik fasaanaa banaanaa
+na dil chaahataa hai \threedots
+
+vo maasuum suurat bholii nigaahe.n
+rahe.ngii sadaa dil me.n aabaad hokar
+na puurii hu_ii jo usii aarazuu me.n
+milegaa hame.n chain barabaad ho kar
+ki uja.Dii hu_ii zindagii ko basaanaa
+na dil chaahataa hai \threedots
+
+samajh me.n na aayaa ki har ik Kushii se
+ye dil aaj bezaar kyo.n ho gayaa hai
+tere Gam me.n bahate hu_e aa.Nsu_o.n se
+na jaane hame.n pyaar kyo.n ho gayaa hai
+ki bhuule se bhii ab kabhii muskaraanaa
+na dil chaahataa hai \threedots
+%
+#endindian
+\endsong
+

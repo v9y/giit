@@ -1,0 +1,46 @@
+
+%
+\startsong
+\stitle{saaqii saaqii dil bujh hii gayaa hai siine me.n}%
+\film{Geet}%
+\year{1944}%
+\starring{Nirmala, Sahu Modak, A Shah, Ameer Ali, Shakir, Chandabai}%
+\singer{Zohra Bai}%
+\music{Naushad}%
+\lyrics{D N Madhok}%
+%
+% Contributor: BOL ANAMOL #12004 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+saaqii saaqii
+dil bujh hii gayaa hai siine me.n
+kuchh lutf nahii.n ab jiine me.n
+saaqii saaqii
+
+( saaqii tere jaam wo jaam nahii.n
+kyaa rakhaa hai ab piine me.n ) \-2
+saaqii saaqii
+
+saaqii pahalii sii baat nahii.n
+pahale din pahalii raat nahii.n
+jab teraa hii wo haath nahii.n \-2
+kyaa rakhaa hai phir siine me.n
+saaqii saaqii
+
+ab saawan ke din biit gaye
+ham haar gaye tum jiit gaye
+saaqii jab chho.D ke miit gaye \-2
+kuchh lutf nahii.n phir jiine me.n
+saaqii saaqii
+
+dil bujh hii gayaa hai siine me.n
+kuchh lutf nahii.n ab jiine me.n
+saaqii saaqii
+%
+#endindian
+\endsong
+

@@ -1,0 +1,65 @@
+
+%
+\startsong
+\stitle{khullam\-khullaa pyaar kare.nge ham dono.n}%
+\film{Khel Khel Mein}%
+\year{1975}%
+\starring{Rishi Kapoor, Neetu Singh, Rakesh Roshan}%
+\singer{Kishor, Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: BOL ANAMOL #10779 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+aa \:	are dekh rahe hai.n
+ki \:	dekhane do
+aa \:	jal bhii rahe hai.n
+ki \:	to jalane do
+aa \:	khulii sa.Dak hai baabaa
+ki \:	to kyaa hu_aa bha_ii
+aa \:	haa.N
+ki \:	to ho jaa_e
+
+	khullam\-khullaa pyaar kare.nge ham dono.n
+	is duniyaa se nahii.n Dare.nge ham dono.n
+	pyaar ham karate hai.n chorii nahii.n
+aa \:	mil ga_e dil zoraa\-zorii nahii.n
+	ham vo kare.nge dil jo kare
+	hamako zamaane se kyaa
+do \:	khullam\-khullaa pyaar \threedots
+
+ki \:	he dekh vo ishq chhup\-chhup ke faramaa rahe hai.n
+aa \:	hai kyaa mazaa dil hii dil me.n to ghabaraa rahe hai.n
+ki \:	lagataa hai dono.n pa.Dosii hai.n vo
+aa \:	rishtaa hii aisaa hai jaane bhii do
+	ham vo kare.nge \threedots
+do \:	khullam\-khullaa pyaar \threedots
+
+aa \:	ai sun zaraa inakii jo.Dii hai kaisii niraalii
+	hai baat kyaa piichhe laalaa chale aage laalii
+ki \:	dono.n me.n iname.n banatii na ho
+aa \:	apanii tarah shaayad chhanatii na ho
+	ham vo kare.nge \threedots
+do \:	khullam\-khullaa pyaar \threedots
+
+aa \:	he
+ki \:	bolo na
+aa \:	pyaar kaa hai ye dushman zamaanaa
+ki \:	are sun
+aa \:	haa.N bataa
+ki \:	sabako milataa nahii.n ye Kazaanaa
+aa \:	jisako ajii ye Kazaanaa mile
+	dekh\-dekh unako ye duniyaa jale
+	ham vo kare.nge \threedots
+ki \:	hamako zamaane se kyaa
+do \:	khullam\-khullaa pyaar \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{yaad aayii aadhii raat ko}%
+\film{Kanhaiyya}%
+\year{1959}%
+\starring{Raj Kapoor, Nutan, Om Prakash}%
+\singer{Mukesh}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor:  K Vijay Kumar 
+% Transliterator: K Vijay Kumar 
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+yaad aayii aadhii raat ko, kal raat kii taubaa
+dil puuchhataa hai jhuum ke, kis baat kii taubaa? taubaa
+yaad aayii aadhii raat ko
+
+chaahat me.n vafaa aur vo mar miTane kii qasame.n
+kyaa baat hai bahake hu_e jazabaat kii taubaa, taubaa
+yaad aayii aadhii raat ko
+
+saaqi mujhe batalaa to de, muu.Nh pher ke mat ha.Ns
+piine me.n agar Thiik to, kis baat kii taubaa? taubaa
+yaad aayii aadhii raat ko
+
+marane bhii na de.nge mujhe, dushaman merii jaa.N ke
+har baat pe kahate hai.n ki, kis baat kii taubaa? taubaa
+yaad aayii aadhii raat ko
+%
+#endindian
+\endsong
+%

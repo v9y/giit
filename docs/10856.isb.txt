@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tere dil me.n hii apane aramaan rakh duu.n ... aajaa merii jaan mai.n tujhame.n}%
+\film{Chaandani}%
+\year{1989}%
+\starring{Rishi Kapoor, Sridevi, Vinod Khanna, Waheeda Rahman, Juhi Chawla}%
+\singer{Lata}%
+\music{Shiv Hari}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+( tere dil me.n hii apane aramaan rakh duu.n
+aajaa merii jaan mai.n tujhame.n apanii jaan rakh duu.n ) \-2
+
+aa.Nkhe.n hai.n kyo.n terii khaalii khaalii
+baate.n kahaa.n ga_ii.n vah pyaar vaalii
+tere ho.nTho.n pe apanii muskaan rakh duu.n
+aajaa merii jaan mai.n tujhame.n \threedots
+
+aa.Nsuu tere nikale.n dil meraa ro_e
+choT lage tujhako to dard mujhe hoy
+tere zakhmo.n me.n apanii jaan rakh duu.n
+aajaa merii jaan mai.n tujhame.n \threedots
+
+sai.nyaa yah baiyaa zaraa thaam le tuu
+mu.Nh se kisii chiiz kaa naam le tuu
+tere qadamo.n pe saaraa jahaan rakh duu.n
+aajaa merii jaan mai.n tujhame.n \threedots
+%
+#endindian
+\endsong
+

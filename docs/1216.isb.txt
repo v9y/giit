@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{mere pyaar kii umar ho itanii sanam}%
+\film{Waris}%
+\year{1988}%
+\starring{Smita Patil, Raj Babbar ?}%
+\singer{Lata, Vinod Rathod (?)}%
+\music{Uttam Singh-Jagdish Khanna(?)}%
+\lyrics{}%
+%
+% Contributor: Satish Subramanian (subraman@cs.wisc.edu)
+% Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: 
+% Comments: Smita's last film. Rekha dubbed her dialogues after Smita died.
+%
+\printtitle
+#indian
+%
+l:   
+mere pyaar kii umar ho itanii sanam
+tere naam se shuruu, tere naam pe khatam
+terii khushii se hai, khushI, tere Gam se hai Gam, 
+tere naam \threedots
+
+mere sapane gulaabii nii.nde.n ho gaI javaa.N \- 2 
+lo aake terii baaho.n me.n, ho, lo aake terii baaho.n me.n
+mai.n kho gaI kahaa.N
+vi:   
+haazir hai jaan, jaan\-e\-man, jaan kii qasam, 
+tere naam \threedots
+
+binA tere ik pal bhii mujhe rahA nahii.n jaae \- 2 
+ye duur duur rahanaa \threedots
+ab sahaa nahI.n jaae
+l:   
+terii pyaar bharii baaho.n me.n hii nikalegaa dam, 
+tere naam \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+%
+\startsong
+\stitle{mere dil pe haath rakh do ... ye gayaa vo gayaa kho gayaa}%
+\film{Kuchh Dil Ne Kahaa}%
+\year{2000}%
+\starring{Rakesh Bapat, Raeema Sen, Nandini Singh}%
+\singer{Udit Narayan, Anuradha Paudwal}%
+\music{Lalit Sen}%
+\lyrics{Bipin Chandra Chaugule}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+mere dil pe haath rakh do apane dil ke saath rakh do
+kuchh kuchh hone lagaa hai dekho ye dil khone lagaa hai dekho
+ye gayaa vo gayaa kho gayaa
+mere dil pe haath \threedots
+
+le lo mujhako baaho.n me.n kar lo ba.nd nigaaho.n me.n
+ham tum yaar akele hai.n pyaar kii tanhaa raaho.n me.n
+haay ye dil dhak dhak karataa hai bas kuchh bhii ho sakataa hai
+dil aisaa diivaanaa hai mujhako to Dar lagataa hai
+ye gayaa vo gayaa \threedots
+
+jab se tuu is dil me.n hai jaan merii mushqil me.n hai
+terii merii muhabbat kaa charchaa har mahafil me.n hai
+haa.N jahaa.N kahii.n bhii jaate hai.n saare ha.Nsii u.Daate hai.n
+are vo dekho aate hai.n vo dekho jaate hai.n
+ye gayaa vo gayaa \threedots
+%
+#endindian
+\endsong
+

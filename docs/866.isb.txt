@@ -1,0 +1,35 @@
+%
+\startsong
+\stitle{jhuume re niilaa ambar jhuume}%
+\film{Ek Gaon Ki Kahani}%
+\year{1957}%
+\starring{}%
+\singer{Lata, Talat}%
+\music{Salil Choudhary}%
+\lyrics{Shailendra}%
+%
+% Contributor: David Windsor (windeng@fac.anu.edu.au)
+% Transliterator:
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+jhuume re, niilaa ambar jhuume, dharatii ko chuume re
+tum ko yaad karake, meraa dil bhii jhuume
+
+kisake ishaare mujhako yahaa.N le aae
+kisakii ha.Nsii ne raah me.n phuul khilaae
+ambar kI DaalI DaalI, gaae koyal pyaarii
+meraa dil bhii jhuume
+jhuume re, niilaa ambar jhuume, dharatii ko chuume re
+
+aise me.n jo milataa ho baa.nho.n kaa sahaaraa
+aur machal uThataa ye nadii kaa kinaaraa
+nadiyaa kaa paanii sunataa, pyaar kii kahaanii
+meraa dil bhii jhuume
+jhuume re, niilaa ambar jhuume, dharatii ko chuume re
+%
+#endindian
+\endsong
+%

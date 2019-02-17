@@ -1,0 +1,38 @@
+%
+\startsong
+\stitle{tere baGair jaan-e-jaanaa sochataa huu.N yahii mai.n diivaanaa}%
+\film{Anaadi}%
+\year{1975}%
+\starring{}%
+\singer{Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+tere baGair jaan-e-jaanaa
+sochataa huu.N yahii mai.n diivaanaa, haay
+
+ye palake.n jin me.n hai.n mere sapane
+ye lab jo lagate hai.n mere apane
+inako mai.n ga.Nvaa duu.Ngaa
+to rahuu.Ngaa kaise kaise kaise
+tere baGair jaan-e-jaanaa
+
+phiruu.Ngaa ho ho ke mai.n pareshaa.N
+chhupaaye aa.Nkho.n me.n laakh tuufaa.N
+Gam ke in tuufaano.n ko
+ho mai.n piyuu.Ngaa kaise kaise kaise
+
+%
+#endindian
+\endsong
+%
+

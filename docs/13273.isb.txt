@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{bahaaro.n thaam lo ab dil meraa mahabuub aataa hai}%
+\film{Namasteji}%
+\year{1965}%
+\starring{Ameeta, Mehmood, I S Jauhar, Nalini Chonkar, Ulhas, Manorama}%
+\singer{Mukesh, Lata}%
+\music{G S Kohli}%
+\lyrics{Anjaan}%
+%
+% Contributor: BOL ANAMOL #10507 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	bahaaro.n thaam lo ab dil meraa mahabuub aataa hai
+la \:	ho sharaarat kar na naazuk dil sharam se Duub jaataa hai
+mu \:	bahaaro.n thaam lo ab \threedots
+
+la \:	qahar a.ndaaz hai.n tere qayaamat hai.n terii baate.n
+	ho merii to jaan le le.ngii ye baate.n ye ( mulaaqaate.n ) \-2
+mu \:	sanam sharamaa_e jab aise mazaa kuchh aur aataa hai
+la \:	ho sharaarat kar na \threedots
+
+la \:	labo.n par ye ha.Nsii qaatil Gazab jaaduu nigaaho.n me.n
+	qasam tujhako mohabbat kii machal na ( aise raaho.n me.n ) \-3
+mu \:	machal jaataa hai dil jab ruu\-ba\-ruu diladaar aataa hai
+la \:	ho sharaarat kar na \threedots
+%
+#endindian
+\endsong
+

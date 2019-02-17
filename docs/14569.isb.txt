@@ -1,0 +1,40 @@
+
+%
+\startsong
+\stitle{dekhaa maine dekhaa sapano.n kii ek raanii ko}%
+\film{Victoria No. 203}%
+\year{1972}%
+\starring{Ashok Kumar, Saira Bano, Navin Nishchal, Pran}%
+\singer{Kishor}%
+\music{Kalyanji-Anandji}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11193 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+dekhaa maine dekhaa \-2
+sapano.n kii ek raanii ko ruup kii ik mastaanii ko
+mastii bharii javaanii ko haay re haay maine dekhaa \-3
+
+tan se aa.Nchal khisakaa chham se vo jab nikalii \-2
+luuT ke le ga_ii mahafil ban ke vo nikalii \-2
+sundar sii alabelii sii \-2
+lagatii na_ii navelii sii pyaar kii ek pahelii sii
+jisako maine dekhaa
+dekhaa maine dekhaa \threedots
+
+jii meraa ye chaahe maa.Ng mai.n usakii bhar duu.N \-2
+apanaa saaraa jiivan usako arpaN kar duu.N \-2
+duniyaa ko dikhalaa_uu.Ngaa
+apanaa use banaa_uu.Ngaa kisii bhii suurat paa_uu.Ngaa
+jisako maine dekhaa
+dekhaa maine dekhaa \threedots
+%
+#endindian
+\endsong
+

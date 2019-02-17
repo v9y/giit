@@ -1,0 +1,73 @@
+%
+\startsong
+\stitle{shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab}% 
+\film{Prem Pujari}%
+\year{}%
+\starring{Dev Anand, Waheeda Rehman}%
+\singer{Kishore, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+%	   Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+ki: shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab 
+usame.n phir milaayii jaaye, tho.Dii sii sharaab
+hogaa yuu.n nashaa jo taiyaar
+haa.N\threedots
+hogaa yU.n nashaa jo taiyaar, vo pyaar hai
+	
+shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab 
+usame.n phir milaayii jaaye, tho.Dii sii sharaab,  
+hogaa yuu.n nashaa jo taiyaar, vo pyaar hai
+shokhiyo.n me.n gholaa jaaye, phuulo.n kA shabaab
+	
+he he he he he \threedots
+	
+lataa: 	ha.nsataa huaa bachapan vo, bahakaa huaa mausam hai
+chhe.Do to ik sholaa hai, chhuulo to bas shabanam hai
+ha.nsataa huaa bachapan vo, bahakaa huaa mausam hai
+chhe.Do to ik sholaa hai, chhuulo to bas shabanam hai
+gaao.n me.n, mele me.n, raah me.n, akele me.n
+aataa jo yaad baar baar vo, pyaar hai
+shokhiyo.n me.n gholaa jaaye, phuulo.n kA shabaab
+usame.n phir milaayii jaaye, tho.Dii sii sharaab
+ki: are, hogaa yU.n nashaa jo taiyaar, vo pyaar hai
+dono: shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab 
+	
+lataa: 	o\threedots ra ra ra ra\threedots
+ki: ra.ng me.n pighale sonaa, a.ng se yuu.n ras jhalake
+jaise baje dhun koii, raat me.n halake halake
+ra.ng me.n pighale sonaa, a.ng se yU.n ras jhalake
+jaise baje dhuna koii, raat me.n halke halke
+dhuup me.n, chhaao.n me.n, jhuumatii havaao.n me.n
+har dam kare jo intazaar vo, pyaar hai
+shokhiyo.n me.n gholaa jaaye, phUlo.n kA shabAb 
+usame.n phir milaayii jaaye, tho.Dii sii sharaab
+lataa: o\threedots hogaa yU.n nashaa jo taiyaar
+ki: vo pyaar
+	
+ki: yaad agar vo aaye
+lataa: 	ho \threedots
+yaad agar vo aaye, kaise kaTe tanahAI        
+suune shahar me.n jaise, bajane lage shahanAI  
+ki: yaad agar vo aaye, kaise kaTe tanahAI        
+suune shahar me.n jaise, bajane lage shahanAI  
+dono: aanaa ho, jaanaa ho, kaisaa bhii zamaanaa ho
+utare kabhii naa jo khumaar vo, pyaar hai
+
+shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab 
+usame.n phir milaayii jaaye, tho.Dii sii sharaab
+ki: are, hogaa yuu.n nashaa jo taiyaar
+lataa: vo pyaar hai
+
+dono: shokhiyo.n me.n gholaa jaaye, phuulo.n kaa shabaab
+%
+#endindian
+\endsong
+%

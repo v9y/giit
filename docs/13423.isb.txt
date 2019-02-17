@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{dil dil hai diivaanaa aa baaho.n me.n aanaa}%
+\film{Paagalpan}%
+\year{2001}%
+\starring{Karan Nath, Aarati}%
+\singer{Udit Narayan, Alka Yagnik, Chorus}%
+\music{Raju Singh}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+dil dil hai diivaanaa aa baaho.n me.n aanaa
+naa naa duur jaanaa jaanaa.n tujhako hai merii kasam
+dil dil hai diivaanaa \threedots
+
+terii nazar ne merii nazar se chupake se kuchh kah diyaa hai
+jaaduu tuune bhii jaaduu kiyaa hai
+kaisaa ye dard mujhako diyaa hai
+yaaraa mujhako tuu mujhase churaa
+dil dil hai diivaanaa \threedots
+
+kariib aake gale lagaake de dii mujhe bekaraarii
+terii chhaa_ii hai mujhape khumaarii
+jaanaa.n haalat burii hai hamaarii
+yaaraa saa.Nso.n me.n aake samaa
+dil dil hai diivaanaa \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,30 @@
+% ITRANS SONG
+
+\startsong
+\stitle{jaane kyaa haal ho is dil kaa agar tuu aaye}%
+\film{Asha Aur Khayam (Non-Film)}%
+\year{1997}%
+\starring{}%
+\singer{Asha}%
+\music{Khayyam}%
+\lyrics{Ahmad Warsi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+jaane kyaa haal ho is dil kaa agar tuu aaye
+na to jazbaat pe na Kud pe hii qaabuu aaye
+
+chaar\-jaanib terii parachaa_ii nazar aatii hai
+tuu hii Kushbuu saa mahakataa hu_aa har\-suu aaye
+
+tere jalawe kii nigaaho.n ko nahii.n taab rahii
+aisaa mahasuus hu_aa chaa.Nd ko ham chhuu aaye
+
+terii diladaar nigaaho.n kaa dilaasaa paa ke
+merii palako.n pe chamakate huye juganuu aaye
+
+#endindian
+\endsong

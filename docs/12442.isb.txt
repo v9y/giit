@@ -1,0 +1,57 @@
+%
+\startsong
+\stitle{tere ghar aayaa mai.n aayaa ... saajan jii ghar aa_e}%
+\film{Kuchh Kuchh Hotaa Hai}%
+\year{1998}%
+\starring{Shahrukh, Kajol, Rani Mukherji, Salman, Farida, Anupam}%
+\singer{Kumar Sanu, Alka Yagnik, Kavita Subramaniam}%
+\music{Jatin Lalit}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kab se aa_e hai.n tere duulhe raajaa
+ab der na kar jaldii aajaa
+
+tere ghar aayaa mai.n aayaa tujhako lene
+dil ke badale me.n dil kaa nazaraanaa dene
+merii har dha.Dakan kyaa bole hai sun sun sun
+saajan jii ghar aa_e saajan jii ghar aa_e
+dulhan kyuu.n sharamaa_e saajan jii ghar aa_e
+
+ai dil chalegaa ab naa ko_ii bahaanaa
+gorii ko hogaa ab saajan ke ghar jaanaa
+maathe kii bi.ndiyaa kyaa bole hai sun sun sun
+saajan jii ghar aa_e \threedots
+
+diivaane kii chaal me.n pha.ns ga_ii mai.n is jaal me.n
+ai sakhiyo.n kaise bolo bolo
+mujhape to ai dilarubaa terii sakhiyaa.n bhii fidaa
+ye bole.ngii kyaa puuchho puuchho
+jaa re jaa jhuuThe taariife.n kyuu.n luuTe
+teraa mastaanaa kyaa bole hai sun sun sun
+saajan jii ghar aa_e \threedots
+
+naa samajhe naadaan hai ye meraa ehasaan hai
+chaahaa jo isako kah do kah do
+chhe.Do mujhako jaan ke badale me.n ehasaan ke
+de diyaa dil isako kah do kah do
+tuu ye naa jaane dil TuuTe bhii diivaane
+teraa diivaanaa kyaa bole hai sun sun sun
+saajan jii ghar aa_e \threedots
+
+me.nhadii laake gahane paake
+haay ro ke tuu sabako rulaa ke
+savere chalii jaa_egii tuu ba.Daa yaad aa_egii
+tuu jaa_egii tuu ba.Daa yaad aa_egii
+tuu ba.Daa yaad aa_egii yaad aa_egii
+tere ghar aayaa \threedots
+%
+#endindian
+\endsong
+

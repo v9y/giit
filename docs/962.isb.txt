@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{kar chale, ham fidaa, jaan\-o\-tan saathiyo.n}%
+\film{Haqeeqat}%
+\year{1964}%
+\starring{Dharmendra, Priya Rajvansh, Dharmendra, Jayant}%
+\singer{Rafi}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          (alam@ucsu.Colorado.EDU)
+%          Ravi Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+(kar chale ham fidaa jaan\-o\-tan saathiyo.n 
+ab tumhaare havaale vatan saathiyo.n        ) \- (2)
+
+saa.Ns thamatii ga_ii nabz jamatii ga_ii
+phir bhii ba.Dhate kadam ko na rukane diyaa
+kaT gaye sar hamaare to kuchh Gam nahii.n
+sar himaalay kaa hamane na jhukane diyaa
+marate marate rahaa baa.Nkaapan saathiyo.n, ab tumhaare \threedots
+
+zi.ndaa rahane ke mausam bahut hai.n magar
+jaan dene kii rut roz aatii nahii.n
+husn aur ishq dono.n ko rusavaa kare 
+vo javaanii jo khuu.N me.n nahaatii nahii.n
+baa.Ndh lo apane sar par kafan saathiyo.n, ab tumhaare \threedots
+
+raah qurbaaniyo.n kii na viiraan ho
+tum sajaate hii rahanaa naye qaafile
+fatah kaa jashn is jashn ke baad hai
+zi.ndagii maut se mil rahii hai gale
+aaj dharatii banii hai dulhan saathiyo.n, ab tumhaare \threedots
+
+khii.nch do apane khuu.N se zamii.n par lakiir
+is taraf aane paaye na raavaN koii
+to.D do haath agar haath uThane lage
+chhuune paaye na siitaa kaa daaman koii
+raam bhii tum tumhii.n lakshmaN saathiyo.n, ab tumhaare \threedots
+%
+#endindian
+\endsong
+%

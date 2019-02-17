@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ham chup hai.n ki dil sun rahe hai.n dha.Dakano.n ko}%
+\film{Faasale}%
+\year{1985}%
+\starring{Sunil Dutt, Rekha, Farukh Sheikh, Dipti Naval, Raj Kiran, Rohan Kapoor}%
+\singer{Kishor, Lata}%
+\music{Shiv Hari}%
+\lyrics{Shaharyar}%
+%
+% Contributor: BOL ANAMOL #10365 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+la \:	ham chup hai.n ki dil sun rahe hai.n
+	dha.Dakano.n ko aahaTo.n ko
+	saa.Nse.n ruk sii ga_ii hai.n
+do \:	ham chup hai.n \threedots
+
+ki \:	dekho ab duniyaa ko gaur se
+	pahale se na_ii pahale se hasii.n
+la  \:	ham tumako milanaa thaa mil ga_e
+	kyaa ye aasamaa.N kaun ye zamii.n
+	ham jo dekhe.n tumako dekh
+	saa.Nse.n ruk sii ga_ii hai.n
+do \:	ham chup hai.n \threedots
+
+ki \:	lafzo.n me.n jinako naa kah sake
+	aa.Nkho.n se kahe.n ho.nTho.n se sune.n
+la \:	Kushbuu ke saa_e me.n baiTh ke
+	phuul ham chune.n Kvaab ham bune.n
+	isake aage kuchh naa soche.n
+	saa.Nse.n ruk sii ga_ii hai.n
+do \:	ham chup hai.n \threedots
+%
+#endindian
+\endsong
+

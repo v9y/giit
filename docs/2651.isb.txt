@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{mere dil kii dha.Dakan kyaa bole}%
+\film{Anhonee}%
+\year{1952}%
+\starring{Raj Kapoor}%
+\singer{Talat, Lata}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+mere dil kii dha.Dakan kyaa bole? 
+  - kyaa bole?
+mai.n jaanuu.N aur tuu jaane
+mai.n jaanuu.N aur tuu jaane
+meraa pyaar bharaa man kyo.n Dole?
+  - kyo.n Dole?
+mai.n jaanuu.N aur tuu jaane
+mai.n jaanuu.N aur tuu jaane
+
+chalii gayii raat mad_bharii havaa_o.n ke Dole pe ho ke savaar
+de gayii chaa.Nd kii pari nigaaho.n ko sapano.n kaa paagal Kumaar
+hame.n kis ne diye ye nazaraane
+  - kaun jaane
+mai.n jaanuu.N aur tuu jaane \threedots
+
+mahakii thii raat kii raanii khile the gagan me.n chamelii ke phuul
+puuchhaa mai.n ne kaan me.n tum se muhabbat hai kaisii mazedaar bhuul
+mai.n sun ke lagii kyo.n sharamaane?
+  - kaun jaane
+mai.n jaanuu.N aur tuu jaane \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{chaa.Nd ko kyaa maaluum chaahataa hai use koii chakor}% 
+\film{Laal Bangla}%
+\year{}%
+\starring{Prithviraj Kapoor, Sheikh Mukhtaar, Jayanti}%
+\singer{Mukesh}%
+\music{Usha Khanna}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor:  Porky (ceindian@utacnvx.uta.edu)
+% Credits: ayyagari@charlie.ece.scarolina.edu
+%          Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+chaa.Nd ko kyaa maaluum chaahataa hai use koii chakor
+vo bechaaraa duur se dekhe \- 2
+kare na koii shor 
+chaa.Nd ko kyaa maaluum \threedots
+
+duur se dekhe aur lalachaaye
+pyaas nazar kii ba.Dhatii jaaye, ba.Dhatii jaaye
+badalii kyaa jaane hai paagal 
+kisake man kaa mor 			    
+chaa.Nd ko kyaa \threedots
+
+saath chale to saath nibhaanaa
+mere saathii bhuul naa jaanaa, bhuul naa jaanaa
+maine tumhaare haath me.n de dii
+apanii jiivan Dor
+chaa.Nd ko kyaa \threedots
+%
+#endindian
+\endsong
+%

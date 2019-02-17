@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{kamabaKt ishq hai jo saaraa jahaa.N hai vo}%
+\film{Pyaar Tune Kya Kiya}%
+\year{2002}%
+\starring{Fardin Khan, Urmila Matondkar, Sonali Kulkarnii}%
+\singer{Asha, Sukhvindar Singh, Sonu Nigam}%
+\music{Sandeep Chowtha}%
+\lyrics{Nitin Raikwar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+%
+\printtitle
+#indian
+%
+kamabaKt ishq hai jo
+saaraa jahaa.N hai vo
+kab aataa hai kab jaataa hai
+par rahataa hai jab tak ye kamabaKt jannat dikhaataa hai
+kamabaKt ishq \threedots
+
+dil de de dil de de
+
+he ye ishq ishq himmat hai
+ye ishq ishq kismat hai
+ye ishq ishq taakat hai
+ye ishq dil ki daulat hai
+ye ishq na miT paa_egaa
+tuu ishq me.n miT jaa_egaa
+hai ishq me.n miTanaa aisaa
+ko_ii nayaa janam ho jaisaa
+kamabaKt ishq \threedots
+
+ta.Dapaataa hai ho tarasaataa hai
+par rahataa hai jab tak ye kamabaKt jannat dikhaataa hai
+
+dil dil me.n basaa hai aise
+patthar pe lakiire.n jaise
+is se bachanaa mushqil hai
+bachanaa chaahe.n to kaise
+saalo.n se yahaa.N rahataa hai
+har ko_ii ise karataa hai
+is se chhupanaa hai mushqil
+is me.n na ko_ii paradaa hai
+kamabaKt ishq \threedots
+%
+#endindian
+\endsong
+

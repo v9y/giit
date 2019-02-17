@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+\startsong
+\stitle{aa jaa merii barabaad mohabbat ke sahaare}%
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Surinder, Noorjehan, Suraiya}%
+\singer{Noorjehan}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+
+% Contributor: V S Rawat, Aug 7, 2004
+% Series: NOOR-E-TARANNUM
+
+\printtitle
+#indian
+
+( aa jaa, aa jaa
+aa jaa merii barabaad mohabbat ke sahaare
+hai kaun jo biga.Dii hu_ii taqadiir sa.Nwaare ) \-2
+
+( aaye bhii na the Kushq huye aa.Nkho.n me.n aa.Nsuu
+haay aa.Nkho.n me.n aa.Nsuu ) \-2
+nikale bhii na the luT gaye aramaan bechaare
+hai kaun jo biga.Dii hu_ii taqadiir sa.Nwaare
+
+( anjaam\-e\-mohabbat hame.n maaluum hai lekin
+hame.n maaluum hai lekin ) \-2
+lete hai.n tere Gam me.n ummiido.n ke sahaare
+hai kaun jo biga.Dii hu_ii taqadiir sa.Nwaare
+
+( thaa dil ko faqat terii mohabbat kaa sahaaraa
+mohabbat kaa sahaaraa ) \-2
+hamane isii ummiid pe din apane Guzaare
+hai kaun jo biga.Dii hu_ii taqadiir sa.Nwaare
+
+aa jaa, aa jaa
+aa jaa merii barabaad mohabbat ke sahaare
+hai kaun jo biga.Dii hu_ii taqadiir sa.Nwaare
+
+#endindian
+\endsong

@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{aayaa mere dil me.n tuu ban ke dil kii aarazuu}%
+\film{Dastaan}%
+\year{1950}%
+\starring{Suraiya, Raj Kapoor, Suresh, Al Nasir, Surinder, Shakeela, Veena}%
+\singer{Suraiya, Chorus}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: BOL ANAMOL #12531 [V S Rawat], 10/02/2004
+%
+% Song courtesy: http://www.indianscreen.com (Late Shri Amarjit Singh)
+%
+\printtitle
+#indian
+%
+( o aayaa mere dil me.n tuu ban ke dil kii aarazuu
+teraa shukriyaa ) \-2
+
+su \:	nagamaa hai tuu mai.n teraa saaz huu.N
+ko \:	haa.N haa.N mai.n teraa saaz huu.N
+su \:	tere hii dil kii ek aawaaz huu.N
+ko \:	haa.N dil kii ek aawaaz huu.N
+su \:	mai.nne tujhako tuune mujhako
+	kabhii Dhuu.NDhaa nazaaro.n me.n bahaaro.n me.n
+	chhup\-chhup chhup\-chhup
+ko \:	chhup\-chhup chhup\-chhup
+su \:	o merii duniyaa tuu hii tuu
+	tujhako merii justjuu
+	teraa shukriyaa
+
+su \:	dekho na chhe.Do dil ke taar ko
+ko \:	na chhe.Do dil ke taar ko
+su \:	jaane na ko_ii mere pyaar ko
+ko \:	na jaane ko_ii pyaar ko
+su \:	apanii baate.n dil kii ghaate.n
+	kahii.n duniyaa na sun paaye sitam Dhaaye
+	chhup\-chhup chhup\-chhup
+ko \:	chhup\-chhup chhup\-chhup
+su \:	o aa.Nkho.n hii aa.Nkho.n me.n tuu
+	kar le mujhase guftaguu
+	teraa shukriyaa
+%
+#endindian
+\endsong
+%
+

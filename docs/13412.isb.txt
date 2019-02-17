@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{nazare.n mil jaatii hai.n ... aisaa kyuu.N hotaa hai}%
+\film{Pyaar Kiya Nahin Jaata}%
+\year{2002}%
+\starring{Sonali Bendre}%
+\singer{Sonu Nigam, Chitra}%
+\music{Milind Sagar}%
+\lyrics{Shyam Anuragi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+nazare.n mil jaatii hai.n dil bhii kho jaataa hai
+jaane anjaane ko_ii apanaa ho jaataa hai
+aisaa kyuu.N hotaa hai itanaa bataa de ko_ii
+aisaa kyuu.N hotaa \threedots
+
+chaahat kii laharo.n me.n tuufaanii halachal hai jaanam o jaanam
+aise me.n milane ko kahataa hai satara.ngii mausam ye mausam
+aa pyaar me.n kuchh naa kisii se kahe.n ham
+bas yuu.N mile.n naa ho mohabbat kabhii kam
+jaage jaage jaage jaage aramaa.n dil ke
+tujhame.n samaa ke mohabbat jagaane lage
+meraa diivaanaapan mujhako tarasaataa hai
+rah rah dil ko ko_ii paagal kar jaataa hai
+har ik nazaare me.n dekhuu.N tumhaaraa hii cheharaa ye cheharaa
+hone lagaa hai mohabbat kaa ra.ng aur gaharaa ra.ng gaharaa
+aa jhuum le.n pal ye nahii.n i.ntazaar kaa
+tum paas ho de do nashaa ab karaar kaa
+tum jo bolo ham vo maane.n
+bas pyaar kaa yaar ikaraar ban jaa_e.N ham
+ik pal me.n sadiyo.n kaa hamadam ban jaataa hai
+nazare.n mil jaatii hai.n \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{akele akele kahaa.N jaa rahe ho hame.n saath le lo jahaa.N jaa rahe ho}%
+\film{An Evening In Paris}%
+\year{}%
+\starring{Shammi, Sharmila}%
+\singer{Rafi}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits: Vandana Venkatesan (vandana@charlie.ece.scarolina.edu)
+% Editor:  
+%
+\printtitle
+#indian
+%
+akele akele %(echo... akele akele) 
+kahaa.N jaa rahe ho (##echo## rahe ho rahe ho)
+
+(dhiime) akele akele kahaa.N jaa rahe ho 
+hame.n saath le lo jahaa.N jaa rahe ho 
+akele akele kahaa.N jaa rahe ho 
+hame.n saath le lo jahaa.N jaa rahe ho 
+akele akele\threedots, kahaa.N jaa rahe ho 
+
+koI miT rahaa hai, tumhe kuchh pataa hai \- 2
+tumhaaraa huA hai, tumhe kuchh pataa hai \- 2
+ye kyaa maazaraa hai, tumhe kuchh pataa hai 
+
+(dhiime) akele akele \threedots
+
+ta.Dapataa nA chho.Do, merI jaan ho tum \- 2
+ye mukha.Daa nA mo.Do, merI jaan ho tum \- 2
+meraa dil nA to.Do, merI jaan ho tum 
+
+(dhiime) akele akele \threedots
+
+koI rok legaa, to phir kyaa karoge \- 2
+kadam thaam legaa, to phir kyaa karoge \- 2
+khushaamad karegaa, to phir kyaa karoge 
+
+(dhiime) akele akele kahaa.N jaa rahe ho 
+hame.n saath le lo jahaa.N jaa rahe ho 
+akele akele kahaa.N jaa rahe ho 
+hame.n saath le lo jahaa.N jaa rahe ho 
+akele akele\threedots, kahaa.N jaa rahe ho 
+akele akele\threedots akele akele\threedots
+kahaa.N jaa rahe ho, rahe ho , rahe ho\threedots
+akele akele\threedots akele akele\threedots
+kahaa.N jaa rahe ho, rahe ho , rahe ho\threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+%
+\startsong
+\stitle{ye shaam mastaanii, madahosh kiye jaaye}%
+\film{Kati Patang}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai 
+% Credits: K.G.Venkatasubramaniam (KGB) 
+%          Satish Subramanian (subraman@cs.umn.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+ye shaam mastaanii, mada_hosh kiye jaaye
+mujhe Dor koii khii.nche, terii or liye jaaye
+
+duur rahatii hai tuu, mere paas aatii nahii.n
+hoTho.n pe tere, kabhii pyaas aatii nahii.n
+aisaa lage, jaise ki tuu, ha.Nsake zahar koii piye jaaye
+shaam mastaanii \threedots
+
+baat jab mai.n karuu.N, mujhe rok detii hai kyo.n
+terii miiThii nazar, mujhe Tok detii hai kyo.n
+terii hayaa, terii sharam, terii qasam mere ho.nTh siye jaaye
+shaam mastaanii \threedots
+
+ek ruThii huii, taqadiir jaise koii
+khaamosh aise hai tuu, tasviir jaise koii
+terii nazar, banake zubaa.N, lekin tere paiGaam diye jaaye
+
+ye shaam mastaanii, mada_hosh kiye jaaye
+mujhe Dor koii khii.nche, terii or liye jaaye
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{khelo naa mere dil se, o mere saajanaa}% 
+\film{Haqeeqat}%
+\year{1964}%
+\starring{Dharmendra, Priya Rajvansh}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Preetham Gopalaswamy (preetham@eng.umd.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+%
+\printtitle 
+#indian
+%
+khelo nA mere dil se, o mere saajanaa, (o saajanaa \-2)
+khelo nA, khelo nA, mere dil se, khelo nA \threedots 
+
+muskuraake dekhate to ho mujhe, 
+Gam hai kis liye nigaah me.n 
+ma.nzil apanii tum alag basaaoge, 
+mujhako chho.D doge raah me.n 
+pyaar kyA dillagii, pyaar kyA khel hai 
+khelo nA \threedots 
+
+kyuu.N nazar milaa_ii thii lagaav se, 
+ha.Nsake dil meraa liyaa thaa kyuu.N 
+kyuu.N mile the zindagii ke mo.D par, 
+mujhako aasaraa diyaa thaa kyuu.N 
+pyaar kyA dillagii, pyaar kyA khel hai 
+khelo nA \threedots 
+%
+#endindian
+\endsong
+%

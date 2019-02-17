@@ -1,0 +1,33 @@
+%
+\startsong
+\stitle{kaahe akelaa Dolat baadal mohe bhii sa.ng le jaa}%
+\film{Gramophone Singer}%
+\year{1938}%
+\starring{Surendra, Bibbo, Prabha, Bhudo Adwani}%
+\singer{Surendra Nath}%
+\music{Anil Biswas}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: BOL ANAMOL #12266 [V S Rawat], 23/01/2004
+%
+\printtitle
+#indian
+%
+( kaahe akelaa Dolat baadal
+mohe bhii sa.ng le jaa ) \-2
+
+( aa
+piir kahaa.N hotii hai
+baadal kaahe tuu rotaa hai ) \-2
+baadal kaahe tuu rotaa hai
+mai.n bhii tere sa.ng ro_uu.Ngaa
+mohe bhii sa.ng le jaa \-2
+
+kaahe akelaa Dolat baadal
+mohe bhii sa.ng le jaa
+kaahe akelaa
+%
+#endindian
+\endsong
+%
+

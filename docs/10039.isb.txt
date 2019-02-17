@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{merii zi.ndagii me.n ajanabii kaa intazaar hai}%
+\film{Ajnabee}%
+\year{2002}%
+\starring{Bobby Deol, Kareena Kapoor, Akshay Kumar, Bipasha Basu}%
+\singer{Kumar Sanu, Sunidhi Chauhan}%
+\music{Annu Malik}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+naa chaa.Nd kaa naa taaro.n kaa naa phuulo.n kaa naa bahaaro.n kaa
+naa nazaaro.n kaa naa ishaaro.n kaa naa apano.n kaa naa begaano.n kaa
+
+merii zi.ndagii me.n ajanabii kaa intazaar hai
+mai.n kyaa karuu.n ajanabii se mujhe pyaar hai
+vo ajanabii jaanaa pahachaanaa
+sapano.n me.n us kaa hai aanaa jaanaa
+aa ajanabii tere li_e dil meraa ye bekaraar hai
+merii zi.ndagii me.n \threedots
+
+khushbu_o.n kii galii me.n in havaa_o ne dekhaa
+maine cheharaa us kaa dilakash fizaa_o.n me.n dekhaa
+o bekhyaal karataa hai vo ba.Daa diivaanaa hai
+in labo.n kaa pyaasaa hai dil kaa aashiqaanaa hai
+merii zi.ndagii me.n \threedots
+
+ab to us ke li_e hii raat bhar jaagatii huu.N
+aa_e.n gha.Diyaa.N milan kii ye du_aa maa.ngatii huu.N
+ho jaan\-e\-man mohabbat me.n faasalaa zaruurii hai
+dha.Dakane.n ye kahatii hai.n chaar din kii duurii hai
+merii zi.ndagii me.n \threedots
+%
+#endindian
+\endsong
+

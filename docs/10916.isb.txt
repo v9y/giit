@@ -1,0 +1,38 @@
+
+%
+\startsong
+\stitle{tujhe dekhaa tujhe chaahaa tujhe puujaa maine}%
+\film{Chhoti Si Mulaqaat}%
+\year{1967}%
+\starring{Vyjayantimala, Uttam Kumar, Shashikala}%
+\singer{Rafi, Suman}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11049 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+ra \:	tujhe dekhaa tujhe chaahaa tujhe puujaa maine
+	bas itanii Kataa hai merii aur Kataa kyaa
+la \:	tujhe dekhaa \threedots
+
+ra \:	anaginat saalo.n se merii tujhase ik pahachaan hai
+	ab gale mil jaa_o aakar itanaa hii aramaan hai
+	tujhe dekhaa \threedots
+
+la \:	shiishaa\-e\-dil me.n chhupaa hai o sitamagar teraa pyaar
+	jab zaraa gardan jhukaa_ii dekh lii tasviir\-e\-yaar
+	tujhe dekhaa \threedots
+
+ra \:	tere aa.Nchal se lipaT kar ruuh ye naGmaa gaa_egii
+	jaan bhii nikalegii jis dam ye hii kahatii jaa_egii
+	tujhe dekhaa \threedots
+%
+#endindian
+\endsong
+

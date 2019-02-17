@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{kabhii kisii ko mukammal jahaa.N nahii.n milataa}%
+\film{Ahista Ahista}%
+\year{1981}%
+\starring{Padmini Kolhapuri, Kunal Kapoor, Nanda}%
+\singer{Asha / Bhupinder}%
+\music{Khaiyyam}%
+\lyrics{Nida Fazli}%
+%
+% Contributor:  
+% Transliterator: Avinash Chopde (avinash@acm.org)
+% Credits: rec.music.indian.misc (USENET newsgroup) 
+%          Pradeep Dubey (pradeep@watson.ibm.com)
+%          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments : The first sher is written by Shahryar and used by Nida Fazli
+%            in this song
+%
+\printtitle
+#indian
+%
+kabhii kisii ko mukammal jahaa.N nahii.n milataa
+kahii.n zamiin to kahii.n aasamaan nahii.n milataa
+
+jise bhii dekhiye vo apane aap me.n gum hai
+zubaa.N milii hai magar hamazubaa.N nahii.n milataa
+kabhii \threedots
+
+%    (sung to a somewhat different tune)
+bujhaa sakaa hai bhalaa kaun vaqt ke shole
+ye aisii aag hai jisame dhuaa.N nahii.n milataa
+kabhii \threedots
+
+%    (saving the best one for the end)
+tere jahaa.N me.n aisaa nahii.n ki pyaar na ho
+jahaa.N ummiid ho isakii vahaa.N nahii.n milataa
+kabhii \threedots
+%
+#endindian
+\endsong
+%

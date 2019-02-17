@@ -1,0 +1,35 @@
+% 
+\startsong
+\stitle{kaabe se butaqade se kabhii bazm\-e\-yaar se}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Murli Manohar Swarup}%
+\lyrics{Shamim Jaipuri}%
+% 
+% Contributor: Bharat Upadhyay (hemant@hal-pc.org)
+% Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Date: Fri Jan 19 1996
+% Credits: 
+% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Comments:  
+%
+\printtitle
+#indian
+%
+kaabe se butaqade se kabhii bazm\-e\-yaar se
+aavaaz de rahaa huu.N tujhe har mukaam se
+
+na aashanaa hai aaj vahii mere naam se
+duniyaa pukaaratii thii jinhe mere naam se
+
+uf, ye shab\-e\-firaaq ke maaro.n kii beKudii
+Kud hi bujhaa diyaa hai charaaGo.n ko shaam se
+
+dil me.n fareb, lab pe tabassum, nazar me.n pyaar
+luTe ga_e 'shamiim' ba.De aih.h_tamaam se
+%
+#endindian
+\endsong
+%

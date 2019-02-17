@@ -1,0 +1,33 @@
+
+%
+\startsong
+\stitle{are pyaar pe ko_ii bas to nahii.n hai}%
+\film{Umang}%
+\year{1970}%
+\starring{Archana, Satish, Subhash Ghai, Asrani}%
+\singer{Kishor}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+%
+% Contributor: BOL ANAMOL #11151 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+are pyaar pe ko_ii bas to nahii.n hai kahe diivaanaa dil \-2
+jisase ho jaa_e ho jaa_e ho jaa_e \-2
+
+kyaa Kabar hai kidhar ho ravaanii pyaar ga.ngaa kaa jamanaa kaa paanii
+hai.n jahaa.N me.n fasaane hazaaro.n par anokhii hai isakii kahaanii
+are pyaar pe ko_ii \threedots
+
+kyo.n ulajhataa hai hamase zamaanaa jisako aataa nahii.n dil lagaanaa
+hamase siikhe mohabbat me.n jiinaa ham badal de.nge dil kaa fasaanaa
+are pyaar pe ko_ii \threedots
+%
+#endindian
+\endsong
+

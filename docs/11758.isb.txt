@@ -1,0 +1,47 @@
+%
+\startsong
+\stitle{ta.Dap ta.Dap ke is dil se aah nikalatii rahii}%
+\film{Hum Dil De Chuke Sanam}%
+\year{1999}%
+\starring{Ajay Devgan, Salman Khan, Aishwarya Rai, Helen}%
+\singer{KayKay, Dominic, Chorus}%
+\music{Ismail Darbar}%
+\lyrics{Mehboob}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+bejaan dil ko (2)
+bejaan dil ko tere ishq ne zindaa kiyaa
+phir tere ishq ne hii is dil ko tabaah kiyaa
+ta.Dap ta.Dap ke is dil se aah nikalatii rahii
+mujhako sazaa dii pyaar kii aisaa kyaa gunaah kiyaa
+to luT ga_e haa.n luT ga_e
+to luT ga_e ham terii muhabbat me.n
+
+ajab hai ishq yaaraa \threedots 
+pal do pal kii Kushiyaa.N
+Gam ke Kazaane milate hai.n phir milatii hai.n tanahaa_iiyaa.N
+kabhii aa.Nsuu kabhii aahe.n kabhii shikave kabhii naale teraa cheharaa nazar aa_e
+teraa cheharaa nazar aa_e mujhe din ke ujaalo.n me.n terii yaade.n ta.Dapaa_e.N
+terii yaade.n ta.Dapaa_e.N raato.n ke a.Ndhero.n me.n teraa cheharaa nazar aa_e
+machal machal ke is dil se aah nikalatii rahii
+mujhako sazaa dii \threedots
+
+agar mile Kudaa to \threedots
+puuchhuu.Ngaa Kudaayaa
+jism mujhe de ke miTTii kaa shiishe saa dil kyuu.N banaayaa
+aur usape dii ye fitarat ke vo karataa hai muhabbat vaah re vaah terii qudarat 
+vaah re vaah terii qudarat usape de dii ye qismat
+kabhii hai milan kabhii furaqat
+kabhii hai milan kabhii furaqat hai yahii kyaa vo muhabbat vaah re vaah terii qudarat
+sisak sisak ke is dil se aah nikalatii rahii
+mujhako sazaa dii \threedots
+%
+#endindian
+\endsong
+

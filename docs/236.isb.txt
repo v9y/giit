@@ -1,0 +1,63 @@
+%
+\startsong
+\stitle{baabul kaa ye ghar gorii, bas kuchh din kaa Thikaanaa hai}%
+\film{Daata}%
+\year{1989}%
+\starring{Mithun Chakraborty, Farha, Arjun, Shammi Kapoor, Saeed Jafari, Tanvi Azmi, Aasha Sharma}%
+\singer{Alka Yagnik, Kishore}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: Beena (bagarwal@uceng.uc.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: 
+% Editor:  
+%
+\printtitle
+#indian
+%
+saathii:
+baabul kaa ye ghar gorii
+bas kuchh din kaa Thikaanaa hai
+dulhan banake tujhe
+piyaa ghar jaanaa hai
+
+dulhan: baapuu tere aa.Ngan kii 
+mai.n to khilatii kalii huu.N
+is aa.Ngan ko chho.D kyo.n
+kisii aur kaa ghar sajaanaa hai
+
+pitaa: beTii baabul ke ghar me.n
+kisii aur kii amaanat hai
+dastuur ye duniyaa kaa 
+ham sab ko nibhaanaa hai
+
+saathii: dastuur ye duniyaa kaa 
+ham sab ko nibhaanaa hai
+\threedots
+
+dulhan: maiyaa tere aa.Nchal kii
+mai.n to ek gu.Diyaa huu.N
+phir kyo.n is aa.Nchal ko chho.D
+teraa ghar bhii begaanaa hai
+## (Mother in tears and unable to speak anything) ##
+## (this is the most emotional verse I think) ##
+bhaaii: maa.N ke dil pe kyaa guzare
+bahanaa tuu ye mat puuchh
+kaleje ke Tuka.De ko 
+ro ro kar bhulAnaa hai
+
+dulhan: bhaiyaa tere baaG kii
+mai.n kaisii chi.Diyaa re
+raat bhar kaa baseraa hai
+subah u.D jaanaa hai
+
+bhaaii: bahanaa tere bachapan kii
+yaade.n ham sab ko sataaye.ngii
+phir bhii terii Dolii ko 
+kaa.Ndhaa to lagaanaa hai
+
+%
+#endindian
+\endsong
+%

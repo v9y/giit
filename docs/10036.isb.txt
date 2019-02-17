@@ -1,0 +1,51 @@
+%
+\startsong
+\stitle{aa aa taiyaar ho jaa}%
+\film{Asoka}%
+\year{2002}%
+\starring{Shahrukh Khan, Kareena Kapoor, Dainny Denjongpa, Rahul Dev, Rishita Bhatt}%
+\singer{Sunidhi Chauhan, Chorus}%
+\music{Annu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+%
+\printtitle
+#indian
+%
+aa aa aa aa aa
+aa ai aa aa ai ai aa
+are are
+aa taiyaar ho jaa
+aa aa taiyaar ho jaa
+shaam kii kashtii me.n aa ke savaar ho jaa chalo chale.n
+aa sahaaraa hogaa
+kahii.n naa kahii.n to ko_ii kinaaraa hogaa chalo chale.n
+ararararararara
+aa aa aa aa taiyaar ho jaa \threedots
+
+aa taiyaar ho jaa re
+aajaa aajaa chal chale.n
+tair ke yaa Duub ke chal paar jaanaa hai
+shaam kii kashtii \threedots
+
+shaam ku.nvaarii hogii
+ho.nTh hamaare ho.nge baat tumhaarii hogii
+baat to bholii hogii
+miiThii bhii hogii tho.Dii shahad bhii gholii hogii
+aa aa aa aa aa
+shaam ku.nvaarii \threedots
+
+pyaar kaa gotaa kyaa hai
+Duub ke dekhaa nahii.n dekhanaa hotaa kyaa hai
+hone ko honaa kyaa hai
+dil me.n Tiis hogii aa.Nkh me.n paanii hogaa chalo chale.n
+aa aa aa aa aa
+pyaar kaa gotaa \threedots
+%
+#endindian
+\endsong
+

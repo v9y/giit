@@ -1,0 +1,46 @@
+%
+\startsong 
+\stitle{vo bijalii hai.n ham sholaa, aaj naa jaane kyaa hogaa}% 
+\film{Vallah Kya Baat Hai}%
+\year{1962}%
+\starring{Shammi Kapoor, Bina Roy, Tun Tun, Janaki Das, KN Singh, Mumtaz}%
+\singer{Rafi}%
+\music{Roshan}%
+\lyrics{Prem Dhawan or Anand Bakshi?}%
+%
+% Contributor:  Shashikant Joshi (rava0002@gold.tc.umn.edu) 
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Comments: Pankha Road se Pintu Diwana [20a]
+%         Poor Shammi had just entered the night club/casino life.
+%         the villainess is trying to lure him. She has another song
+%         'mahfil me jo aaye tum, jaado sa chhaa gayaa'
+%
+%         Then there is a Raani of somewhere who comes to the club 
+%         and Shammi sings an electrifying song (a mixture of the 
+%         'yeh chaand saa roshan chehra', 'baar baar dekho' feelings)
+%
+\printtitle 
+#indian 
+%
+vo bijalI hai.n ham sholaa, aaj nA jaane kyaa hogaa 
+chaa.Nd se Takkar suuraj kii, lo aayaa din qayaamat kaa 
+ho ho ho yaaro.n husn kii ishk se ye pahalI mulaakaat hai 
+aa haa haa vallaah kyaa baat hai, oh ho ho vallaah kyaa baat hai 
+
+hote hai.n kaafir yuu.n to, allaah\-allaah kahate hai.n dilabar jinako 
+dil ko u.Daa le.n ha.ns ke, taubaa\-taubaa aataa hai jaaduu inako 
+lekin hamase jo aa.Nkh milii to, khaa gaye vo bhii chakkar 
+sab naaz vo apane bhuul gaye, aur bhuul gaye sab aka.D 
+unako paanii piinaa pa.Daa, ye hai naazuk vaqt ba.Daa 
+chaa.Nd se Takkar suuraj kii, lo aayaa
+
+aisii bhii kyaa madahoshI, dekho\-dekho hosh nahii.n A.Nchal kaa 
+kahatI hai saaf nigaahe.n, allaah kasam haal buraa hai dil kaa 
+hai baat abhii to aa.Nkho.n tak, aage zaalim kyaa hogaa 
+jab dil ko chhuu legii najar, jaane aalam kyaa hogaa 
+chaa.Nd se Takkar suuraj kii, lo aayaa 
+%
+#endindian
+\endsong
+%

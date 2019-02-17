@@ -1,0 +1,56 @@
+%
+\startsong
+\stitle{tere kaaraN tere kaaraN}%
+\film{Aan Milo Sajna}%
+\year{}%
+\starring{Rajesh Khanna, Asha Parekh}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits: 
+% Editor: 
+%
+\printtitle
+#indian
+%
+tere kaaraN, tere kaaraN
+tere kaaraN mere saajan
+jaag ke phir so gayii
+sapano.n me.n kho gayii
+aag lage saarii duniyaa ko
+mai.n terii ho gayii re baalama
+tere kaaraN, tere kaaraN   \threedots
+
+aajaa \threedots
+
+priitam kitanaa hii bulaaye
+na jaanuu laaj ne rokaa
+par aadhii raat me.n uThake
+uThake milate hii maukaa
+ye gayii vo gayii
+sapano.n me.n kho gayii
+aag lage saarii duniyaa ko   \threedots
+
+nikalii ye soch ke ghar se
+sai.nyyaa se mil aa_uu.Ngii
+pal do pal Thahar ke jaldii
+mai.n vaapas aa jaa_uu.Ngii
+piyaa milan ko gayii
+to sapano.n me.n kho gayii
+aag lage saarii duniyaa ko   \threedots
+
+ra.ng laayaa chorii chorii
+ye milanaa teraa meraa
+raato.n kaa pataa chalaa na
+baato.n me.n huaa saveraa
+haay! nii.nd merii to gayii
+sapano.n me.n kho gayii
+aag lage saarii duniyaa ko   \threedots
+
+%
+#endindian
+\endsong
+%

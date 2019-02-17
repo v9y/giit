@@ -1,0 +1,36 @@
+%
+\startsong
+\stitle{pyaar me.n do dil mile aur duur ho kar rah gaye}%
+\film{Balam}%
+\year{1949}%
+\starring{Suraiya, Vasti, Nigaar, Masud, Jayant, Agha}%
+\singer{Suraiya}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: BOL ANAMOL #12599 [V S Rawat], 10/02/2004
+%
+\printtitle
+#indian
+%
+pyaar me.n do dil mile aur duur ho kar rah gaye \-2
+faisale ulfat ke naama.nzuur ho kar rah gaye
+pyaar me.n do dil mile
+
+saamane ma.nzil muhabbat kii bulaatii hii rahii \-2
+paa.Nv me.n kaa.NTe lage majabuur ho kar rah gaye \-2
+
+pyaar me.n do dil mile aur duur ho kar rah gaye
+pyaar me.n do dil mile
+
+jinako dil me.n thaa chhupaayaa unase ham chhupane lage \-2
+jitane paas aaye the utane duur ho kar rah gaye \-2
+
+pyaar me.n do dil mile aur duur ho kar rah gaye
+faisale ulfat ke naama.nzuur ho kar rah gaye
+pyaar me.n do dil mile
+%
+#endindian
+\endsong
+%
+

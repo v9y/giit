@@ -1,0 +1,49 @@
+%
+\startsong
+\stitle{ni sa, ga ma pa ni, sa re ga, aa aa re mitavaa}%
+\film{Anand Mahal}%
+\year{}%
+\starring{Vijay Arora, Sarika}%
+\singer{Yesudas}%
+\music{Salil Choudhary}%
+\lyrics{Yogesh}%
+%
+% Contributor:  
+% Transliterator: Venkatasubramanian K G (gopala@cs.wisc.edu)
+% Credits: rec.music.indian.misc 
+%          sumeet (sumeet@ccwf.cc.utexas.edu)
+%          Seshadri Kumar (sultan@leland.Stanford.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Comments: The movie was never completed and / or released
+%
+\printtitle
+#indian
+%
+nii sa, ga ma pa nii, sa re ga, aa aa re mitavaa
+janam janam se hai.n ham to pyaase, aa sa.ng mere gaa
+nii sa\threedots
+
+(sapanaa, dekhe.n mere khoye khoye nainaa
+mitavaa mere aa tuu bhii siikh le sapane dekhanaa) \- (2)
+aa, nii sa nii dha pa ma ga re sa
+nii sa\threedots
+
+jaane na tuu Gam kii gaharaaiyaa.N
+aajaa kaT jaaye.n merii tanahaaiyaa.N \- (2)
+aa bhii jaa; barasaa de priit kaa saavan
+baraso.n ke jalate man kii, bujh jaaye agan \- (2)
+aa, re sa nii sa nii dha pa; dha pa ma; pa ma ga re sa
+nii sa\threedots
+
+ga pa dha nii da
+ga pa dha nii dha nii dha pa ga pa dha nii da
+sa ga pa dha
+dha nii sa dha nii, pa dha nii pa dha, ga ma dha pa dha 
+nii pa, re nii pa, ga sa
+nii sa nii sa, pa dha nii dha, ga ma pa ga ma re sa 
+nii sa\threedots
+nii sa ga ma pa nii sa re ga, aa aa aa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{tere dard se dil aabaad rahaa}%
+\film{Deewaanaa}%
+\year{1992}%
+\starring{Rishi Kapoor, Shahrukh Khan, Divya Bharati}%
+\singer{Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Sameer}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+tere dard se dil aabaad rahaa \-2
+kuchh bhuul ga_e kuchh yaad rahaa \-2
+
+nasiibaa bhii kyaa ra.ng laayaa
+kahaa.N laa ke hamako milaayaa \-2
+apanii vafaa ke Gul khil naa paa_e
+mil ke bhii tumase mil naa paa_e
+dard\-e\-dil ham kaise sahe.n
+duur bhii ham kaise rahe.n
+teraa Gam tere jaane ke baad rahaa \-2
+kuchh bhuul ga_e kuchh \threedots
+
+jaan\-e\-vafaa tujhako kyaa de.n
+dil kah rahaa hai du_aa de.n
+aramaa.n bujhe hai.n sapane.n dhu_aa.N hai.n
+mar mar ke ham to zindaa yahaa.N hai.n
+bekhudii me.n ham kho ga_e
+phir judaa tujhase ho ga_e
+chaahat kaa jahaa.N barabaad rahaa \-2
+kuchh bhuul ga_e kuchh \threedots
+%
+#endindian
+\endsong
+

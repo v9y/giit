@@ -1,0 +1,45 @@
+%
+\startsong
+\stitle{prem nagar me.n banaauu.Ngii ghar mai.n}%
+\film{Chandidas}%
+\year{1934}%
+\starring{Saigal}%
+\singer{Saigal, Uma Shashi}%
+\lyrics{Aga H Kashmiri}%
+\music{R C Boral}%
+%
+% Contributor: K Vijay Kumar
+% Transliterator: K Vijay Kumar
+% Credits:
+% Editor: 
+%
+\printtitle
+#indian
+%
+u : prem nagar me.n banaauu.Ngii ghar mai.n sajake ghar sa.nsaar (2)
+    prem kaa aa.Ngan, prem kii chhat aur prem ke ho.nge dvaar (2)
+    prem nagar me.n banaauu.Ngii ghar mai.n sajake ghar sa.nsaar (2)
+
+s : prem sakhaa ho prem pa.Dausii
+    prem me.n sukh kaa saar, prem me.n duHkh kaa saar
+    prem sakhaa ho prem pa.Dausii 
+    prem me.n duHkh kaa saar, prem me.n sukh kaa saar
+    prem ke sa.ng bitaaye.nge jiivan (2)
+    prem hii praaNaadhaar
+    prem ke sa.ng bitaaye.nge jiivan prem hii praaNaadhaar
+    prem sakhaa ho prem pa.Dausii
+    prem me.n sukh kaa saar, prem me.n duHkh kaa saar
+    prem ke sa.ng bitaaye.nge jiivan (2)
+    prem hii praaNaadhaar
+
+u : {prem sudhaa se snaan karuu.Ngii 
+    prem se hogaa shri.ngaar, prem se hogaa shri.ngaar} (2)
+s : {prem hii karm hai prem hii dharm hai 
+    prem hii sa.nt vichaar, prem hii sa.nt vichaar} (2)
+
+u : prem nagar me.n banaauu.Ngii ghar mai.n sajake ghar sa.nsaar
+%
+#endindian
+\endsong
+%
+

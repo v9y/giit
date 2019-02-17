@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{more baalapan ke saathii}%
+\film{Tansen}%
+\year{1943}%
+\singer{Khursheed, Saigal}%
+\music{Khemchand Prakash}%
+\lyrics{Pt. Indra}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Date: 4 Sept, 2002
+%
+#indian
+
+
+khu:     (more baalapan ke saathii chhailaa bhuul jaiyo naa
+Sai:      kyo.n giit birahaa ke gaatii mainaa bhuul jaiyo naa)\-2
+
+khu:     (kabhii naa jhuule baag hi.ndole kabhii naa baiThe chhaa.Nv re)\-2
+         (kabhii naa puuchhii baat jiyaa kii)\-2
+         (kaahe chale par gaa.Nv re)\-2
+sai:      tuu kyo.n itanaa ghabaraatii,
+         (bichha.Dii jo.Dii mil jaatii mainaa bhuula jaiyo naa)\-2
+khu:     more baalapan ke saathii chhailaa bhuul jaiyo naa
+
+sai:     (dil ke darpaN maa hii sajaniyaa luu.Ngaa tujhe nihaar re)\-2
+         (jab ghir aaye saavan bhaado)\-2
+         (liijo hame.n pukaar re)\-2
+khu:     more saathii naa ghabaraatii torii mainaa ro ro gaatii
+         chhailaa bhuul jaiyo naa
+
+sai:     bichha.Dii jo.Dii mil jaatii mainaa bhuul jaiyo naa
+khu:     o chhailaa bhuul jaiyo naa
+sai:     o mainaa bhuul jaiyo naa
+
+%
+#endindian
+\endsong
+%

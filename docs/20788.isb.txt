@@ -1,0 +1,45 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{jaaduugar qaatil haazir hai meraa dil}%
+\film{Kohinoor}%
+\year{1960}%
+\starring{Dilip Kumar, Meena Kumari, Jeevan, Kumkum}%
+\singer{Asha}%
+\music{Naushad}%
+\lyrics{Shakeel Badayuni}%
+% 
+% Audio on: Saregama-HMV
+% Tags: 
+% Contributor: Amarendra R. Nargundkar
+% Transliterator: Amarendra R. Nargundkar
+% Date: 10 Jun 2005
+% Series: 
+% Comments: 
+% generated using www.giitaayan.com. 20060924.
+%
+\printtitle
+#indian
+%
+aa aa.a.a
+jaaduugar qaatil, haazir hai meraa dil
+tuu dil me.n bhar de pyaar bhalaa ho teraa tujhako terii naujavaanii kii qasam
+haay jaaduugar qaatil, haazir hai meraa dil
+tuu dil me.n bhar de pyaar bhalaa ho teraa tujhako terii naujavaanii kii qasam
+
+aa aa.a.a.a
+(dil kaa sitaar hai naGmaa hai pyaar hai
+fasl\-e\-bahaar hai mere lie) (2)
+(jaaduu jagaa_uu.Ngii naachuu.Ngii\-gaa_uu.Ngii
+duniyaa luTaa_uu.Ngii tere lie) (2)
+haay jaaduugar qaatil \threedots
+
+aa aa.a.a.a
+(jiivan kii raaganii cha.ndaa kii chaa.Ndanii
+mai.n huu.N suhaaganii terii balam) (2)
+(dil meraa thaam le ulfat kaa naam le
+himmat se kaam le mere sanam) (2)
+haay jaaduugar qaatil \threedots
+%
+#endindian
+\endsong

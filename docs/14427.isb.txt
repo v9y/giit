@@ -1,0 +1,42 @@
+
+%
+\startsong
+\stitle{ek aa.Nkh maaruu.N to ... chhorii paT jaa_e}%
+\film{Tohfaa}%
+\year{1984}%
+\starring{Jitendra, Sridevi, Jayaprada}%
+\singer{Kishor, Asha}%
+\music{Bappi Lahiri}%
+\lyrics{Indivar}%
+%
+% Contributor: BOL ANAMOL #10077 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	( ek aa.Nkh maaruu.N to ) \-2 paradaa haT jaa_e
+	duujii aa.Nkh maaruu.N kalejaa kaT jaa_e
+	( dono.n aa.Nkhe.n maaruu.N to ( chhorii paT jaa_e ) \-2 ) \-2
+aa \:	bhanakas
+	ek aa.Nkh maaruu.N to rastaa ruk jaa_e
+	duujii aa.Nkh maaruu.N zamaanaa jhuk jaa_e
+	( dono.n aa.Nkhe.n maaruu.N to ( chhoraa paT jaa_e ) \-2 ) \-2
+ki \:	he bhanakas
+
+aa \:	kuchh miiThii kuchh khaTTii baate.n hai.n aTapaTii terii a.nguuro.n ke jaisii
+ki \:	naTakhaTii naTakhaTii chaTapaTii chaTapaTii javaanii mirchii ke jaisii
+aa \:	ho.nTho.n pe mirchii jo rakh legaa tuu tarase jo ek baar chakh legaa tuu
+ki \:	yauvan pe chalataa nahii.n qaabuu sholo.n se khele.nge mai.n aur tuu
+aa \:	ek aa.Nkh maaruu.N \threedots
+
+ki \:	biij aur paanii mile to javaanii aa jaa_e kheto.n pe aise
+aa \:	ham tum mile.nge to milate rahe.nge laharaa_e.nge fasalo.n ke jaise
+ki \:	ganne ke kheto.n me.n mai.n aur tuu sune.nge koyal kii kuu kuu kuu
+aa \:	tuu ho mere mai.n tere ruu\-ba\-ruu chhup chhup ke dono.n kare.n guftaguu
+ki \:	ek aa.Nkh maaruu.N \threedots
+%
+#endindian
+\endsong
+

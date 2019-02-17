@@ -1,0 +1,36 @@
+% ITRANS SONG # 3448; Created on Jan 26, 2004
+%
+% From: Urzung Khan ("_urzung"@hotmail.com)
+% Date: 2002-11-01 17:28:47 PST
+%
+\startsong
+\stitle{paradesii re jaate\-jaate jiyaa moraa liye jaa}%
+\film{Afsar}%
+\year{1950}%
+\starring{Dev Anand, Suraiya, Durga Khote}%
+\singer{Suraiyya}%
+\music{S D Burman}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: <Urzung Khan>, 2002-11-01
+% Credits: Satish Kalra
+%
+\printtitle
+#indian
+%
+paradesii re jaate\-jaate jiyaa moraa liye jaa
+jaa re, paradesii re
+
+dil par Gam kii ghaTaa jab chhaae, jii bhar aae
+dil kii baat ho.nTho.n par aae, nii.nd naa aae
+nii.nd liye jaa, yaa diye jaa
+paradesii re\threedots
+
+kar ke ishaaraa pyaaraa\-pyaaraa, diyaa sahaaraa
+ban kar ke Gamo.n se pyaaraa, kiyaa kinaaraa
+jaa ke aane kaa vaadaa kiye jaa
+paradesii re\threedots
+%
+#endindian
+\endsong
+%

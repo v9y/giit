@@ -1,0 +1,54 @@
+
+%
+\startsong
+\stitle{tak tak tak jaise chalatii hai gaa.Dii chhak\-chhak}%
+\film{Haathi Mere Saathi}%
+\year{1971}%
+\starring{Rajesh Khanna, Tanuja}%
+\singer{Kishor, Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: BOL ANAMOL #11168 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+la \:	tak tak tak jaise chalatii hai gaa.Dii chhak\-chhak
+ki \:	jaise karataa hai ye dil dhak\-dhak dhak\-dhak
+la \:	kal kal kal kal
+ki \:	o jaise bahatii hai nadiyaa chhal chhal chhal chhal
+la \:	mere man me.n machii halachal
+
+ki \:	teraa ka.nganaa khanake khan khan khan khan
+la \:	tere pyaar me.n Dole meraa tan man tan man
+	sun\-sun merii paayal bole chhun chhun chhun chhun
+ki \:	mai.n pyaar kii chhe.Duu.N dhun
+
+	chhum chhum meraa haathii naache rumajhum jhum jhum
+la \:	meraa jhumakaa ho gayaa Gum zaraa Dhuu.NDh ke laa_o tum
+ki \:	mai.n
+la \:	haa.N tum tum tum
+la \:	chhup chhup chhup chhup
+ki \:	shii chup chup chup chup
+la \:	o chorii\-chorii chhup\-chhup ham baa.NT le.n apane dukh\-sukh
+
+	tham tham tham tham thak ga_e hai.n zulmii ham\-tum
+	mai.n sharam se jaa_uu.N mar
+ki \:	kar tuu pyaar na jag se Dar
+la \:	mai.n sharam se jaa_uu.N mar
+	ab jaane de
+ki \:	jaane duu.N kaise jaane duu.N
+la \:	aahaa aise
+	jaane de jaane de mujhako ghar ghar ghar
+ki \:	chhak chhak chhak chhak
+la \:	chhak chhak chhak chhak
+ki \:	turuu turuu ruu ruu
+la \:	turuu ruu ruu ruu
+%
+#endindian
+\endsong
+

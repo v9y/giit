@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{kisii kii aa.Nkho.n kaa kaajal ... jo pyaar karataa hai}%
+\film{Yeh Raaste Hain Pyaar Ke}%
+\year{2001}%
+\starring{Ajay Devgan, Madhuri Dixit, Preity Zinta}%
+\singer{Manohar Shetty, Kavita Subramaniam, Anuradha Paudwal}%
+\music{Sanjeev Darshan}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+kisii kii aa.Nkho.n kaa kaajal ban jaataa hai
+kisii kii zulfo.n kaa baadal ban jaataa hai
+kisii ke tiiro.n kaa ghaayal ban jaataa hai
+jo pyaar karataa hai paagal ban jaataa hai
+jo pyaar karataa hai \threedots
+
+pyaar me.n jiinaa pyaar me.n maranaa
+aaj hii kar lo jo hai karanaa
+der bahut ho jaa_egii varanaa
+aaj kaa din jo guzar gayaa to kal ban jaataa hai
+jo pyaar karataa hai \threedots
+
+yaade.n uma.nge.n aramaa.n sapane
+sabake yahaa.n ghar apane apane
+ye sach hai ye maanaa sabane
+shahar ye dil kaa uja.De to ja.ngal ban jaataa hai
+jo pyaar karataa hai \threedots
+
+dil detaa hai jaa.n letaa hai
+amR^it me.n viSh bhar detaa hai
+jiinaa mushkil kar detaa hai
+pyaar kabhii har mushkil kaa hal ban jaataa hai
+jo pyaar karataa hai \threedots
+%
+#endindian
+\endsong
+

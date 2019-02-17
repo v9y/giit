@@ -1,0 +1,43 @@
+
+%
+\startsong
+\stitle{mach gayaa shor saarii nagarii re}%
+\film{Khuddaar}%
+\year{1982}%
+\starring{Parveen Babi, Amitabh}%
+\singer{Kishor, Lata}%
+\music{Rajesh Roshan}%
+\lyrics{Majrooh}%
+%
+% Contributor: BOL ANAMOL #10416 [V S Rawat]
+% Transliterator: 
+% Credits: U.V. Ravindra
+% Comments: 
+% 
+\printtitle
+#indian
+%
+ki \:	mach gayaa shor ( saarii nagarii re ) \-2
+	aayaa biraj kaa baa.Nkaa sa.mbhaal terii gagarii re \-2
+
+	dekho are dekho kahii.n aisaa naa ho jaa_e
+	chorii kare maakhan teraa jiyaa bhii churaa_e \-2
+la \:	are dhamakaataa hai itanaa tuu kisako
+	Darataa hai kaun aane de usako \-2
+ki \:	aise na bahut bolo mat Thumak\-Thumak Dolo
+	chillaa_ogii tab gorii jab ulaT degaa torii
+	gagarii aage piichhe Dagarii re
+	are mach gayaa shor \threedots
+
+la \:	jaane kyaa karataa gar hotaa kahii.n goraa
+	jaa ke jamanaa me.n zaraa shakl dekhe chhoraa \-2
+ki \:	bi.ndiyaa chamakaatii raste me.n naa jaa
+	manachalaa bhii hai gokul kaa raajaa \-2
+la \:	pa.D jaa_e nahii.n paalaa raadhaa se kahii.n laalaa
+	phir ro_egaa govindaa maaregii aisaa pha.ndaa
+	garadan se baa.Ndhegii chunarii re
+	are mach gayaa shor \threedots
+%
+#endindian
+\endsong
+

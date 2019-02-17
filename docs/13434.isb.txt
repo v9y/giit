@@ -1,0 +1,40 @@
+%
+\startsong
+\stitle{apanii yaado.n ko chho.D na jaanaa ... jaanaa.n mai.n huu.N}%
+\film{Pyaar Ishq Aur Mohabbat}%
+\year{2001}%
+\starring{Sunil Shetty, Arjun Rampal, Aftab Shivdasani, Kirti Reddy, Monica Bedi}%
+\singer{Shaan}%
+\music{Viju Shah}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+huu.n apanii yaado.n ko chho.D na jaanaa
+apane vaado.n ko to.D na jaanaa
+jaanaa.n mai.n huu.N teraa diivaanaa
+aashiq pahalaa puraanaa
+apanii yaado.n ko \threedots
+
+jaise tuune to.Daa meraa dil teraa dil TuuTegaa
+tere haatho.n se bhii kisii kaa daaman chhuuTegaa
+yaad rakhanaa o bekadar bekhabar bevafaa
+saarii rasmo.n ko chho.D na jaanaa
+apanii kasamo.n ko to.D na jaanaa
+jaanaa.n mai.n huu.N \threedots
+
+mere baad ab kisako barabaad karegii
+merii tarah tuu bhii ik din fariyaad karegii
+yaad rakhanaa o be_adab besamajh be_iimaan
+haa.n aise apano.n ko chho.D na jaanaa
+mere sapano.n ko to.D na jaanaa
+jaanaa.n mai.n huu.N \threedots
+%
+#endindian
+\endsong
+

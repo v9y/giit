@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{duniyaa ne terii duniyaa vaale}%
+\film{Deedar}%
+\year{1951}%
+\starring{Nargis, Ashok Kumar, Dilip Kumar, Nimmi, Yakub}%
+\singer{Lata}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% Contributor: Vijay Kumar
+% Transliterator: Vijay Kumar
+% Credits:
+% Comments:
+%
+\printtitle
+#indian
+%
+
+duniyaa ne terii duniyaa vaale
+sukh chain hamaaraa chhiin liyaa
+pahale to basaa_ii dil me.n khushii
+phir dil kaa sahaaraa chhiin liyaa
+duniyaa ne terii duniyaa vaale \threedots
+
+kyaa kaam hame.n ab jiine se
+marane kii duaa_e.n kyo.n na kare.n
+tuufaan me.n kashtii aan pha.Nsii
+maujo.n ne kinaaraa chiin liyaa
+duniyaa ne terii duniyaa vaale \threedots
+
+ai Gam kii ghaTaa jaa aur kahii.n
+ab paas hamaare kuchh bhii nahii.n
+chamakaayaa tha jisane qisamat ko
+tuune vo sitaaraa chhiin liyaa
+duniyaa ne terii duniyaa vaale \threedots
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{bane chaahe dushman zamaanaa hamaaraa}%
+\film{Dostana}%
+\starring{Amitabh, Shatrughan Sinha, Zeenat}%
+\singer{Rafi, Kishore}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor:  
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: Satish Subramanian (subraman@cs.umn.edu)
+%          Rajan Purshottam Parrikar (parrikar@spot.Colorado.EDU)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+% 
+ra: bane chaahe dushman zamaanaa hamaaraa
+salaamat rahe dostaanaa hamaaraa
+ki: bane chaahe \threedots
+
+r: vo Kvaabo.n ke din vo kitaabo.n ke din
+savaalo.n kii raate.n javaabo.n ke din
+ka_ii saal hamane guzaare yahaa.N
+yahii.n saath khele hue ham javaa.n
+hue ham javaa.n
+thaa bachapan ba.Daa aashikaanaa hamaaraa
+salaamat rahe dostaanaa hamaaraa
+ki: bane chaahe \threedots
+
+ki: naa bichha.De.nge mar ke bhii ham dosto.n
+hame.n dostii kii qasam dosto.n
+pataa ko_ii puuchhe to kahate hai.n ham
+ke ek duuje ke dil me rahate hai.n ham
+rahate hai.n ham
+nahii.n aur ko_ii Thikaanaa hamaaraa
+salaamat rahe dostaanaa hamaaraa
+r:  bane chaahe \threedots
+%
+#endindian
+\endsong
+%

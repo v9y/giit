@@ -1,0 +1,51 @@
+
+%
+\startsong
+\stitle{bichha.De hu_e mile.nge phir qismat ne gar milaa diyaa}%
+\film{Post Box 999}%
+\year{1958}%
+\starring{Sunil Dutt, Shakeela, Poornima}%
+\singer{Rafi, Asha}%
+\music{Kalyanji Anandji}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: BOL ANAMOL #10849 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: Ashok Dhareshwar
+% 
+\printtitle
+#indian
+%
+ra \:	bichha.De hu_e mile.nge phir \-2
+	qismat ne gar milaa diyaa \-2
+aa \:	usakaa Kudaa bhalaa kare \-2
+	jisane hame.n judaa kiyaa \-2
+ra \:	bichha.De hu_e mile.nge \threedots
+
+aa \:	jab yaad merii sataa_egii aur nii.nd na tumako aa_egii
+	phir karavaT badal\-badal ke tuu
+	haay dil ko masal\-masal ke tuu
+	kahegaa kyaa
+ra \:	kyaa
+do \:	bichha.De hu_e mile.nge \threedots
+
+aa \:	jab phir se bahaar aa_egii
+	aur Kushiyaa.N hazaar laa_egii
+	to apanaa kalejaa thaam ke
+	dhiire se meraa naam le
+	kahegaa kyaa
+aa \:	kyaa
+do \:	bichha.De hu_e mile.nge \threedots
+
+aa \:	jab kaarii badariyaa chhaa_egii
+	ulfat merii laharaa_egii
+	to mastii me.n apanii jhuum ke
+	zaKm\-e\-jigar ko chuum ke
+	kahegaa kyaa
+aa \:	kyaa
+do \:	bichha.De hu_e mile.nge \threedots
+%
+#endindian
+\endsong
+

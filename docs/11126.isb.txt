@@ -1,0 +1,39 @@
+%
+\startsong
+\stitle{ham tum dono.n javaa.n hai.n dil bekaraar hai}%
+\film{Do Hazaar Ek/ 2001}%
+\year{1998}%
+\starring{Jackie, Dimple, Tabu, Suresh Oberoi, Gulshan, Sadashiv, Deven Verma}%
+\singer{}%
+\music{Anand Raj Anand}%
+\lyrics{Dev Kohli, Manoj Darpan}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+ham tum dono.n javaa.n hai.n dil bekaraar hai
+jharano.n ke jhaa.njharo.n me.n miiThii jhanakaar hai
+yahii to pyaar hai
+ham tum dono.n \threedots
+
+tujhe chhuu ke jalane lagaa hai saajan kyuu.n meraa ye badan
+naa jaanuu.n mujhe kyaa pataa hai lagii hai ye kaisii agan
+tuu hai saamane phir bhii teraa i.ntazaar hai
+yahii to pyaar hai yahii pyaar hai
+
+mere dil pe hone lagaa ye kaisaa chaahat kaa asar
+mai.n tere binaa kuchh nahii.n huu.N nahii.n tujhe kyaa khabar
+kyaa nahii.n ye khabar
+tuu hai zi.ndagii merii mujhako etabaar hai
+
+kaisii gumasum havaa hai halkaa halkaa nashaa hai
+raho paas paas mere kyuu.n ye kah rahaa hai
+yahii to pyaar hai yahii pyaar hai
+%
+#endindian
+\endsong
+

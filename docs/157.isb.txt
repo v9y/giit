@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{ai dil\-e\-aavaaraa chal}% 
+\film{Dr. Vidya}%
+\year{}%
+\starring{Dev Anand, Vyjayantimala}%
+\singer{Mukesh}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Ramesh Hariharan (hariharn@flagstaff.princeton.edu)
+% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle 
+#indian
+%
+% (cool whistle) 
+o o o o  
+ai dil\-e\-aavaaraa chal \- 2
+phir vahii.n dubaaraa chal 
+yaar ne dIdaar kA vaadaa kiyaa hai 
+o o o ai dil\-e\-Avaaraa chal 
+phir vahii.n dubaaraa chal 
+yaar ne dIdaar kA vaadA kiyaa hai 
+o o o ai dil\-e\-Avaaraa chal 
+
+vo unakii betaabii vo unakaa chalanaa chhamase 
+A.Nchal thaamaa to ha.Nsake kahaa phir milaneko hamase 
+unase hamase sun ai dil pyaar kA ikaraar aa.Nkho.n me.n huA hai 
+o o ai dil\-e\-Avaaraa chal 
+
+khaTTii ho yA miiThii ab un aa.Nkho.n se piinaa 
+jiite hai.n chaahat vaale binaa chaahat ke kyA jiinaa 
+chalate phirate sun ai dil chaah me.n ab aah bharanekaa mazaa hai 
+o o o ai dil\-e\-Avaaraa chal 
+
+(chamakaa hai ik mukha.Daa kuchh zulphe.n hai laharaayii.n 
+din phir gaye apane din ke gaI rAto.n kii tanhaa_ii ) \- 2
+jahaa.N vo vahaa.N ham sun ai dil chain se bechain tU kyuu.n ho rahaa hai 
+o o o ai dil\-e\-Avaaraa chal 
+phir vahii.n dubaaraa chal 
+yaar ne dIdaar kA vaada kiyaa hai 
+o o ai dil\-e\-Avaaraa chal 
+%
+#endindian
+\endsong
+%

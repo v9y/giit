@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{kisii ne hamase kiyaa hai jabase vo ek vaadaa haay}%
+\film{Jaanam Samjhaa Karo}%
+\year{1999}%
+\starring{Salmaan Khan, Urmila Matondkar}%
+\singer{Alka Yagnik, Chorus}%
+\music{Annu Malik}%
+\lyrics{Majrooh}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aa huu.n
+kisii ne hamase kiyaa hai jabase vo ek vaadaa haay
+na puuchho dil ne kiyaa hai kyaa kyaa hasii.n iraadaa haay
+kaise suhaane sapane.n saje hai.n
+dil kii Dagar me.n taare bichhe hai.n
+aage kyaa ho ye hai kisako pataa
+kisii ne hamase \threedots
+
+merii nazar jab unase la.Degii
+halachal sii kuchh dilame.n pa.Degii
+pahale zaraa ruk ruk ke chaluu.ngii
+baad me.n ikadam khul ke miluu.ngii
+aisaa karuu.ngii vaisaa karuu.ngii
+aur naa jaane kyaa kyaa karuu.ngii
+tum hii socho zaraa
+ha_iiyaa ho ha_iiyaa ho
+ha_iiyaa ho are ha_iiyaa ho
+kisii ne hamase \threedots
+
+aakhir mujhe vo kyuu.n dil me.n laayaa
+pyaar nahii.n hai to kyuu.n bulaayaa
+izzat merii ab har dil me.n hogii
+chaahat merii har mahafil me.n hogii
+vaisii huu.n mai.n bhii jaisii jo chaahe
+bekaar me.n dil dha.Dake hai kaahe
+sab ye bharam hai meraa
+ha_iiyaa ho ha_iiyaa ho
+ha_iiyaa ho are ha_iiyaa ho
+kisii ne hamase \threedots
+%
+#endindian
+\endsong
+

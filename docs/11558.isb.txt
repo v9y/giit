@@ -1,0 +1,50 @@
+%
+\startsong
+\stitle{##gambler## ##gambler## tuu hai ##gambler##}%
+\film{Gambler}%
+\year{1995}%
+\starring{Govinda, Aditya, Shilpa Shetty, Tinu, Mohan Joshi, Gulshan}%
+\singer{Vinod Rathod, Sadhana Sargam, Chorus}%
+\music{Annu Malik}%
+\lyrics{Vinay Dave}%
+%
+% Contributor: V S Rawat
+% Transliterator: 
+% Comments:
+% 
+\printtitle
+#indian
+%
+aavaaraa nahii.n saudaagar nahii.n diivaanaa are nahii.n
+anaa.Dii khilaa.Dii jaaduugar baaziigar nahii.n nahii.n
+naa tuu khilaa.Dii na tuu baaziigar naa tuu anaa.Dii na tuu jaaduugar
+jaane tujhe dekh kar kyo.n lagataa hai Dar
+##gambler## ##gambler## tuu hai ##gambler##
+
+dil ko churaa ke apanaa banaa ke dhokhaa tuu degaa hai mujhe khabar
+##gambler## ##gambler## \threedots
+
+na mai.n khilaa.Dii na mai.n baaziigar na mai.n anaa.Dii na mai.n jaaduugar
+jaan\-e\-man o jaan\-e\-jaa.n kuchh bharosaa kar
+##gambler## ##gambler## haa.N mai.n ##gambler##
+
+dil ko churaa ke apanaa banaa ke dhokhaa na duu.ngaa o bekhabar
+##gambler## ##gambler## \threedots
+
+baato.n hii baato.n me.n tum par kar luu.n mai.n kaise bharosaa
+jisane kiyaa hai bharosaa hotaa hai usako hii dhokhaa
+mai.n aisaa i.nsaa.n nahii.n huu.N chaahe mujhe aazamaa.n le
+aashiq vahii jo mohabbat me.n ho jaan apanii luTaa de
+nazaro.n me.n mere dil kii jubaa.n hai dekhuu.n to pahachaan kar
+##gambler## ##gambler## \threedots
+
+phir to mubaarak ho tumako ab ye mulaakaat merii
+le kar karavaTe.n guzaregii na raat merii
+yaado.n ko dil lagaakar karanaa pa.Degaa guzaaraa
+yaado.n me.n maanegaa kaise dil terii chaahat kaa maaraa
+aa.Nkho.n ke raste tasviir merii le jaanaa tum khii.nchakar
+##gambler## ##gambler## \threedots
+%
+#endindian
+\endsong
+

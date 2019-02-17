@@ -1,0 +1,46 @@
+%
+\startsong
+\stitle{kyaa huaa teraa vaadaa, vo qasam vo iraadaa}%
+\film{Ham Kisise Kam Nahin}%
+\year{1977}%
+\starring{Zeenat, Rishi, Tariq}%
+\singer{Rafi, Sushma Shreshtha}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Transliterator:  
+% Credits:  Navin Kabra (navin@cs.wisc.edu)
+% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%
+\printtitle
+#indian
+%
+kyaa huaa teraa vaadaa, vo qasam vo iraadaa (2)
+bhuulegaa dil, jis din tumhe.n
+vo din jindagii kaa aakhirii din hogaa
+kyaa huaa teraa vaadaa, vo qasam vo iraadaa
+
+yaad hai mujhako tuune kahaa thaa
+tumase nahii.n ruThe.nge kabhii
+phir is tarah se aaja mile hai.n
+kaise bhalaa chhuuTe.nge kabhii
+terii baaho.n me.n biite har shaam
+ke tujhe kuchh bhii yaad nahii.n
+kyaa huaa \threedots
+
+o kahane vaale mujhako farebii
+kaun farebii hai ye bataa
+ho jisane gam liyaa pyaar kii khaatir
+yaa jisane pyaar ko bech diyaa
+nashaa daulat kaa aisaa bhii kyaa
+bevafaa ye tujhe yaad nahii.n
+kyaa huaa \threedots
+
+bhuulegaa dil jis din tumhe.n
+vo din jindagii kaa aakhirii din hogaa
+kyaa huaa teraa vaadaa, vo kasam vo iraadaa
+%
+#endindian
+\endsong
+%

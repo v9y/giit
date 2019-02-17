@@ -1,0 +1,36 @@
+
+%
+\startsong
+\stitle{ham bhii kho ga_e hai.n dil bhii}%
+\film{Madam Zorro}%
+\year{1962}%
+\starring{Nadira, Azaad, Sheikh, Bhagwan, Indira Bansal, Laali, Madhumati}%
+\singer{Mukesh, Kamal Barot}%
+\music{Bulo C Rani}%
+\lyrics{Shevan Rizvi}%
+%
+% Contributor: BOL ANAMOL #10084 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+mu \:	ham bhii kho ga_e hai.n dil bhii kho gayaa hai
+	kahate hai.n pyaar jisako shaayad vo ho gayaa hai
+ka \:	ham bhii kho ga_e \threedots
+do \:	ham bhii kho ga_e \threedots
+
+mu \:	dil hamako Dhuu.NDhataa hai ham dil ko Dhuu.NDhate hai.n
+	ma.nzil pe ham kha.De hai.n ma.nzil ko Dhuu.NDhate hai.n
+ka \:	dil hamako Dhuu.NDhataa \threedots
+do \:	kahate hai.n pyaar jisako \threedots
+
+ka \:	kyaa chiiz hai mohabbat samajhegaa kyaa zamaanaa
+	itanii sii hai kahaanii itanaa saa hai fasaanaa
+mu \:	kyaa chiiz hai mohabbat \threedots
+do \:	kahate hai.n pyaar jisako \threedots
+%
+#endindian
+\endsong
+

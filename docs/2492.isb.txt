@@ -1,0 +1,41 @@
+%
+\startsong
+\stitle{ye kyaa kar Daalaa tuune dil teraa ho gayaa}%
+\film{Howrah Bridge}%
+\year{1958}%
+\starring{Ashok Kumar, Madhubala, K N Singh}%
+\singer{Asha}%
+\music{O P Nayyar}%
+\lyrics{Hasrat}%
+%
+% Contributor: Vandana Iyengar
+% Transliterator: Vandana Iyengar
+% Credits:
+% Editor:
+%
+\printtitle
+#indian
+%
+
+ye kyaa kar Daalaa tuune dil teraa ho gayaa
+ha.Nsii ha.Nsii me.n zaalim dil meraa kho gayaa
+
+vo khel dikhaayaa tuune mad_hosh banaayaa tuune
+o jaaduugar matavaale, bechhain banaayaa tuune
+tuune re piyaa, kaisaa diyaa, nazaro.n kaa paimaanaa
+ye kyaa kar Daalaa tuune dil teraa ho gayaa   \threedots
+
+jab aa.Nkh mile sharmaauu.N mai.n khoyii khoyii jaa_uu.N
+aa.Nkho.n kii kaliyaa.N kaampe jab saamane tujh ko paa_uu.N
+sun mere dil, sapano.n me.n mil, dard huaa diivaanaa
+ye kyaa kar Daalaa tuune dil teraa ho gayaa   \threedots
+
+pahale thaa zamaanaa phiikaa ab laage thiikaa thiikaa
+mausam kaa dil bhii dha.Dake kuchh haal na puuchho jii kaa
+mai.n bhii yahaa.N tuu bhii yahaa.N pyaar se pyaar sajaanaa
+ye kyaa kar Daalaa tuu ne dil teraa ho gayaa   \threedots
+
+%
+#endindian
+\endsong
+%

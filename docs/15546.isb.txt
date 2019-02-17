@@ -1,0 +1,33 @@
+% ITRANS SONG
+
+\startsong
+\stitle{tere aane kaa dhokhaa saa rahaa hai}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{}%
+\music{}%
+\lyrics{Nasir Kazmi}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Nov 03, 2004
+
+\printtitle
+#indian
+
+tere aane kaa dhokhaa saa rahaa hai
+diyaa saa raat bhar jalataa rahaa hai
+
+ajab hai raat se aa.Nkho.n kaa aalam
+ye dariyaa raat bhar cha.Dhataa rahaa hai
+
+sunaa hai raat bhar barasaa hai baadal
+magar wah shahar jo pyaasaa rahaa hai
+
+wo ko_ii dost thaa achchhe dino.n kaa
+jo pichhalii raat se yaad aa rahaa hai
+
+kise Dhuu.NDhoge in galiyo.n me.n 'naasir'
+chalo ab ghar chale.n din Dhal rahaa hai
+
+#endindian
+\endsong

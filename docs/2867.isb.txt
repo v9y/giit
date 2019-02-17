@@ -1,0 +1,39 @@
+% 
+\startsong
+\stitle{indra jimi jR^iMbhapar}%
+\film{non-Film}%
+\year{}% 
+\starring{}%
+\singer{Lata}%
+\music{Hridaynath}%
+\lyrics{Bhushan}%
+% 
+% Contributor: Vandana Vidwans
+% Transliterator: Surajit A. Bose
+% Date: 20th March 2001
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+
+indra jimi jR^iMbha par, baa.Dava su_aMbha par
+raavaN sadaMbha par raghukul raaj hai
+indra jimi jR^iMbha par \threedots
+
+pavan baari baah par, saMbhu rati naah par
+jyo.n saahas baah par raam dhvaj raaj hai
+indra jimi jR^iMbha par \threedots
+
+daavaa dR^ima daNDa par, chiitaa mR^ig jhuNDa par
+bhuushhaNa vituNDa par jaise mR^iga raaj hai
+indra jimi jR^iMbha par \threedots
+
+teja tama a.ns par, kaanhaa jimi ka.ns par
+tyo.n mlechchh ba.ns par ser sivaraaj hai
+indra jimi jR^iMbha par \threedots
+
+%
+#endindian
+\endsong
+%

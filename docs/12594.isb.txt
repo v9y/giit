@@ -1,0 +1,48 @@
+
+%
+\startsong
+\stitle{kuchh bhii kahegaa ... chandaa maamaa se pyaaraa meraa maamaa}%
+\film{Kartavya}%
+\year{1979}%
+\starring{Dharmendra, Rekha, Vinod Mehra, Nirupa Roy, Aruna Irani}%
+\singer{Rafi, Usha}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Verma Malik}%
+%
+% Contributor: BOL ANAMOL #11597 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+%
+\printtitle
+#indian
+%
+uu \:	kuchh bhii kahegaa to abhii nahii.n jaa_uu.Ngii ho
+	kahii.n nahii.n jaa_uu.Ngii kabhii nahii.n jaa_uu.Ngii ho
+
+	chandaa maamaa se pyaaraa meraa maamaa
+	o chandaa maamaa se pyaaraa meraa maamaa
+	merii aa.Nkho.n kaa taaraa meraa maamaa
+	meraa maamaa
+
+	aa_o aaj bane.nge mil ke ham dono.n hamajolii \-2
+	tum Dhuu.NDho mai.n ( chhup\-chhup jaa_uu.N ) \-2 khele.n aa.Nkh-michaulii
+	kahanaa maanegaaa meraa maamaa
+	o chandaa maamaa se \threedots
+
+	naa to maa.N kii milii hai mamataa ( naa baapuu kaa saayaa ) \-2
+	terii god me.n aa baiThii huu.N
+	meraa jiivan sahaaraa meraa maamaa
+	meraa maamaa
+	o chandaa maamaa se \threedots
+
+ra \:	ek din duulhe raajaa ke sa.ng kahaar bulaa_uu.N
+	apane haatho.n se hii Dolii me.n tujhe biThaa_uu.N
+	ek din mujhako chho.D ke tuu aisii duniyaa me.n jaa_e
+	har ek la.Dakii jahaa.N se vaapas lauT ke phir na aa_e
+	rotaa rahegaa bechaaraa teraa maamaa
+uu \:	o chandaa maamaa se \threedots
+%
+#endindian
+\endsong
+

@@ -1,0 +1,43 @@
+% ITRANS SONG
+
+\startsong
+\stitle{ham hai.n yahaa.N ... qisamat kaa likhaa ho kar rahegaa}%
+\film{Sagaai}%
+\year{1951}%
+\starring{Premnath, Gope, Yakub, Rehana, Vijayalaxmi, Hira Lal, Cuckoo}%
+\singer{Lata, Chorus}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: [BOL ANAMOL], V S Rawat, Aug 7, 2004
+
+\printtitle
+#indian
+
+la \:	ham hai.n yahaa.N, dil saajan ke paas hai
+	aa.Nkho.n me.n Dol rahii milane kii aas hai
+
+	aa.Nkho.n se jo bhii aa.Nsuu bahegaa, yahii kahegaa
+	qisamat kaa likhaa ho kar rahegaa \-2
+
+ko \:	aa.Nkho.n se jo bhii aa.Nsuu bahegaa, yahii kahegaa
+	qisamat kaa likhaa ho kar rahegaa \-2
+
+la \:	( kahate hai.n tujhase ye bulabul ke naale
+	o saiyaad chaahe jitanaa sataa le ) \-2
+	tere sitam dil ha.Ns ke sahegaa, aur ye kahegaa
+
+ko \:	qisamat kaa likhaa ho kar rahegaa \-2
+	aa.Nkho.n se jo bhii aa.Nsuu bahegaa, yahii kahegaa
+	qisamat kaa likhaa ho kar rahegaa \-2
+
+la \:	( aazaadiyaa.N merii lenii hai le le
+	qaid\-e\-Gulaamii denii hai de de ) \-2
+	jisakaa hai ye dil usakaa rahegaa, tujhase kahegaa
+
+ko \:	qisamat kaa likhaa ho kar rahegaa \-2
+	aa.Nkho.n se jo bhii aa.Nsuu bahegaa, yahii kahegaa
+	qisamat kaa likhaa ho kar rahegaa \-2
+
+#endindian
+\endsong

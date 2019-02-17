@@ -1,0 +1,66 @@
+%
+\startsong
+\stitle{gulashan-gulashan kalii-kalii mere afasaane galii-galii}%
+\film{Guddu}%
+\year{1995}%
+\starring{Shahrukh Khan, Manisha Koirala}%
+\singer{Suresh Wadkar, Devki}%
+\music{Naushad}%
+\lyrics{Suresh, Devki}%
+%
+% Contributor: BOL ANAMOL #12092 [V S Rawat]
+%
+% Song courtesy: http://www.indiascreen.com
+%
+\printtitle
+#indian
+%
+su :	gulashan\-gulashan kalii\-kalii
+	mere afasaane galii\-galii
+
+	gulashan\-gulashan kalii\-kalii \-2
+	mere afasaane galii\-galii
+de :	gulashan\-gulashan kalii\-kalii
+	mere afasaane galii\-galii
+
+	( hai aaj kaa din apanaa
+	hai.n mauj me.n diiwaane
+su :	kal kii hai Kabar kisako
+	kal kii to Kudaa jaane ) \-2
+de :	dil se kaho itanaa gaaye
+	nagamaa ko_ii rah naa jaaye
+	jhuum uThe baazaar\-galii
+do :		gulashan\-gulashan kalii\-kalii \-2
+	mere afasaane galii\-galii
+
+su :	( mai.n terii mohabbat me.n
+	marane se nahii.n Darataa
+de :	ye sach hai mere sajanaa
+	ke ishq nahii.n marataa ) \-2
+su :	sabake anokhaa ishq meraa
+de :	jag se niraalaa husn meraa
+	jab se mai.n tere ra.ng me.n Dhalii
+do :	gulashan\-gulashan kalii\-kalii
+	( gulashan\-gulashan kalii\-kalii
+	mere afasaane galii\-galii ) \-2
+
+su :	ko_ii kahe diiwaanaa mujhako
+	ko_ii kahe mastaanaa
+de :	lekin terii shamaa huu.N mai.n
+	aur tuu hai meraa parawaanaa
+ko :	o o o o
+su :	parawaanaa to jal jaataa hai
+	jal ke nayaa jiiwan paataa hai
+	mai.n lauT ke kal phir aa_uu.Ngaa
+	terii suurat ban jaa_uu.Ngaa
+	terii aa.Nkho.n me.n Doluu.Ngaa
+	tere ho.nTho.n se boluu.Ngaa
+	duniyaa ye mujhako jaanegii
+	tere naam se pahachaangii
+	gulashan\-gulashan kalii\-kalii
+	mere afasaane galii\-galii \-2
+	galii\-galii
+	mere afasaane galii\-galii
+%
+#endindian
+\endsong

@@ -1,0 +1,43 @@
+%
+\startsong
+\stitle{bholaa bhaalaa rii moraa balamaa na jaane}%
+\film{Anokha Pyaar}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis, Nalini Jayawant}%
+\singer{Lata / Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Date: Dec 21,2000
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+
+bholaa bhaalaa rii moraa balamaa na jaane
+bholaa bhaalaa rii moraa baabuu na samajhe
+priit bhare man ke ishaare
+haa.N haa.N rii more priit bhare man ke ishaare
+bholaa bhaalaa rii \threedots
+
+rouu.N to samajhe mohe aur koii duHkh hai
+jhuuTii ha.Nsii dekh piyaa maane morii sukh hai
+(chain na paaye jiyaa kaise bataauu.N piyaa)\-2
+jiitii huu.N tere sahaare
+o baabuu more jiitii huu.N tere sahaare
+bholaa bhaalaa rii \threedots
+
+kaise javaanii raajaa kaisii zi.ndagaanii
+tere binaa jiivan hai bhuulii kahaanii
+(bhuulii kahaanii raajaa aake sunaa de)\-2
+bikhare hai.n asuvan ke taare
+o raajaa more bikhare hai.n asuvan ke taare
+bholaa bhaalaa rii \threedots
+
+%
+#endindian
+\endsong
+%

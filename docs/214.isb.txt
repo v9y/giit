@@ -1,0 +1,48 @@
+%
+\startsong
+\stitle{are dekhii zamaane kii yaarii, bichha.De sabhii baariibaarii}%
+\film{Kaagaz Ke Phool}%
+\year{1959}%
+\starring{Guru Dutt, Waheeda Rehman, Baby Naaz, Johnny Walker, Mahesh Kaul, Veena, Minoo Mumtaz}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Satish Subramanian (subraman@cs.umn.edu)
+% Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
+% Credits: U V Ravindra
+%
+\printtitle
+#indian
+%
+are dekhii zamaane kii yaarii
+bichha.De sabhii, bichha.De sabhii baarii baarii
+kyaa le ke mile.n ab duniyaa se, aa.NsU ke sivaa kuchh paas nahii.n
+yaa phUl hI phUl the daaman me.n, yaa kaa.NTo.n kii bhii aas nahii.n
+matalab kii duniyaa hai saarii
+bichha.De sabhii, bichha.De sabhii baarii baarii
+
+vaqt hai maharabaa.n, aarazU hai javaa.n
+fikr kal kii kare.n, itanii fursat kahaa.N
+
+daur ye chalataa rahe ra.ng uchhalataa rahe
+ruup machalataa rahe, jaam badalataa rahe
+
+raat bhar mahamaa.N hai.n bahaare.n yahaa.N
+raat gar Dhal gayii phir ye khushiyaa.N kahaa.N
+pal bhar kii khushiyaa.N hai.n saarii
+ba.Dhane lagii beqaraarii ba.Dhane lagii beqaraarii
+are dekhii zamaane kii yaarii
+bichha.De sabhii, bichha.De sabhii baarii baarii
+
+u.D jaa u.D jaa pyaase bha.Nvare, ras naa milegaa Kaaro.n me.n
+kaagaz ke phUl jahaa.N khilate hai.n, baiTh naa un gulazaaro me.n
+naadAn tamannaa retii me.n, ummId kI kashtii khetii hai
+ik haath se detii hai duniyaa, sau haatho.n se letii hai
+ye khel hai kab se jaarii
+bichha.De sabhii, bichha.De sabhii baarii baarii
+
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+
+%
+\startsong
+\stitle{jab ek kazaa se guzaro to ik aur kazaa mil jaatii hai}%
+\film{Devataa}%
+\year{1978}%
+\starring{Sanjeev Kumar, Shabana Azmi, Danny, Rakesh Roshan, Sarika}%
+\singer{Rafi}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: BOL ANAMOL #10763 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% 
+\printtitle
+#indian
+%
+jab ek kazaa se guzaro to ik aur kazaa mil jaatii hai
+marane kii gha.Dii milatii hai agar jiine kii razaa mil jaatii hai
+jab ek kazaa se \threedots
+
+is dard ke bahate dariyaa me.n har Gam hai maraham ko_ii nahii.n
+har dard kaa iisaa milataa hai iisaa kii mariyam ko_ii nahii.n
+saa.Nso.n kii ijaazat milatii nahii.n jiine kii sazaa mil jaatii hai
+jab ek kazaa se \threedots
+
+mai.n vaqt kaa muzarim huu.N lekin is vaqt ne kyaa i.nsaaf kiyaa
+jab tak jiite ho jalate raho jal jaa_o to kahanaa maaf kiyaa
+jal jaa_e zaraa sii chi.ngaarii to aur havaa mil jaatii hai
+jab ek kazaa se \threedots
+%
+#endindian
+\endsong
+

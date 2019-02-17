@@ -1,0 +1,52 @@
+% 
+\startsong
+\stitle{mere hamasafar tujhe kyaa Kabar}%
+\film{Shart}%
+\year{1954}%
+\starring{Deepak, Shyama}%
+\singer{Asha, chorus}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Vandana Venkatesan
+% Transliterator:
+% Date:
+% Credits: 
+% Editor: 
+% Comments: 
+%
+\printtitle
+#indian
+%
+
+raat aa_ii hai mohabbat kii kahaanii leke
+chaa.Nd nikalaa hai tamannaa kii javaanii leke
+din nikalate hii mujhe duur kahii.n jaanaa
+aakhirii raat kii aa.Nkho.n me.n nishaanii leke
+
+mere hamasafar tujhe kyaa Kabar
+hai chalaa kidhar meraa kaaravaa.N
+jahaa.N maut hii ke hai raasate
+nahii.n zi.ndagii kaa ko_ii nishaa.N
+hai chalaa kidhar meraa kaaravaa.N 
+mere hamasafar \threedots
+
+merii zi.ndagii to hai raat bhar
+ko_ii baat sun ko_ii baar kar
+merii maut mujhako bulaa rahii
+zaraa chhe.D de ko_ii daastaa.N 
+mere hamasafar \threedots
+
+zaraa aur bhii mere paas aa
+mujhe dekh dekh ke muskuraa
+gha.Dii do gha.Dii kii ye furasate.n
+hai likhii nasiib me.n phir kahaa.N
+jahaa.N maut hii ke hai raasate
+nahii.n zi.ndagii kaa ko_ii nishaa.N
+hai chalaa kidhar meraa kaaravaa.N 
+mere hamasafar \threedots
+
+%
+#endindian
+\endsong
+%

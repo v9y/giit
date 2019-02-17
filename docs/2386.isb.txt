@@ -1,0 +1,44 @@
+%
+\startsong
+\stitle{koii maane yaa na maane, jo kal tak the an_jaane}%
+\film{Adhikar}%
+\year{1971}%
+\starring{Ashok Kumar, Nanda, Deb Mukherjee}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Ramesh Pant}%
+%
+% Contributor: Santosh Kulkarni
+% Transliterator: K Vijay Kumar
+% Credits:
+%
+\printtitle
+#indian
+%
+
+ki : koii maane yaa na maane, jo kal tak the an_jaane
+     vo aaj hame.n jaan se bhii pyaare ho gaye
+aa : koii maane yaa na maane   \threedots
+
+ki : ab to hamako ek hii sapanaa puuraa karanaa hai
+     janam janam kaa saath tumhaarii maa.Ng me.n bharanaa hai
+aa : jis din se tumako jaanaa, hamane qisamat ko maanaa
+     tumhaaraa hii honaa thaa, tumhaare ho gaye
+     koii maane yaa na maane   \threedots
+
+     aise na dekho ha.Ns kar, hamako kuchh ho jaataa hai
+     tan par qaabuu rakhate hai.n to man kho jaataa hai
+ki : dil se jab dil milataa hai, to ham se kyaa pardaa hai
+     jab aa.Nkho.n hii aa.Nkho.n me.n ishaare ho gaye
+     koii maane yaa na maane   \threedots
+
+     aa.Nkho.n me.n Dore gaalo.n pe laalii, ho.nTho.n pe phuul khile
+aa : jitanaa bhii dekhuu.N dil nahii.n bharataa, tum ham khuub mile
+ki : ye kaalii kaalii zulfe.n, ye gorii gorii baahe.n
+     kitane saare jiine ke sahaare ho gaye
+do : koii maane yaa na maane   \threedots
+
+%
+#endindian
+\endsong
+%

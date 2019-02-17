@@ -1,0 +1,41 @@
+
+%
+\startsong
+\stitle{qariib aa ye nazar phir mile mile naa mile}%
+\film{Anita}%
+\year{1967}%
+\starring{Manoj Kumar, Sadhana}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Raja Mehandi Ali Khan}%
+%
+% Contributor: BOL ANAMOL #11026 [V S Rawat]
+% Transliterator: 
+% Comments: 
+% Credits: 
+% 
+\printtitle
+#indian
+%
+qariib aa ye nazar phir mile mile naa mile
+ye aarazuu kaa chaman phir khile khile na khile
+qariib aa ye nazar \threedots
+
+bhaTak rahii huu.N sadiyo.n se terii raaho.n me.n
+panaah de kisii ghaayal ko apanii baa.Nho.n me.n
+ye dil kaa zaKm kabhii phir phir khile khile naa khile
+qariib aa ye nazar \threedots
+
+taras rahaa hai ye dil terii ik nazar ke li_e
+bas ek nazar terii kaafii hai umr bhar ke li_e
+nazar se pyaar jataa lab hile hile naa hile
+qariib aa ye nazar \threedots
+
+nazar uThaa ke tere saamane bahaar kha.Dii
+ko_ii hasiinaa nigaaho.n me.n le ke pyaar kha.Dii
+phir is adaa kii kalii khile khile naa khile
+qariib aa ye nazar \threedots
+%
+#endindian
+\endsong
+
