@@ -1,4 +1,4 @@
-giitaayan
+ITRANS Song Book (ISB)
 =========
 
 [giitaayan - A window to ISB](https://www.giitaayan.com)
