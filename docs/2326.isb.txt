@@ -4,32 +4,34 @@
 \film{Dak Babu}%
 \year{1954}%
 \starring{Nadira, Talat Mahmood}%
-\singer{Talat, Suman Kalyanpur}%
-\music{Pt. Dhaniram}%
+\singer{Talat / Talat, Mubarak Begum}%
+\music{Dhaniram}%
 \lyrics{Prem Dhawan}%
 %
 % Contributor: K Vijay Kumar
 % Transliterator: K Vijay Kumar
-% Credits: Neha Desai
-% Editor:
+% Credits:     Neha Desai
+%              Surajit A. Bose
+% Editor:      Vinay P. Jain
+% Comments: Raga Gaud Sarang. The solo and duet versions have identical lyrics.
 %
 \printtitle
 #indian
 %
 ghir ghir aaye badaravaa kaare
+ra.ng bhare ras bhare pyaare pyaare
 
-chaaro.n or hai khushii kaa melaa
+chalii nashe me.n chuur havaa_e.N
+mastii se bhar_puur havaa_e.N
+machal machal kar bijalii chamake
+jyo.n nainaa matavaare
+ghir ghir aaye badaravaa kaare   ...
+
+chaaro.n or hai Khushii kaa melaa
 rahaa naa jaaye aaj akelaa
 baar baar meraa man suunaa
 kisako aaj pukaare
-ghir ghir aaye badaravaa kaare   \threedots
-
-chalii nashe me.n chuur havaa_e.n
-mastii se bhar_puur havaa_e.n
-machal machal kar bijalii chamake
-jyo.n nainaa matavaare
-ghir ghir aaye badaravaa kaare   \threedots
-
+ghir ghir aaye badaravaa kaare   ...
 %
 #endindian
 \endsong
