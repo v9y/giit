@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{mu.D mu.D ke na dekh, mu.D mu.D ke}%
+\stitle{mu.D-mu.D_ke na dekh, mu.D-mu.Dake}%
 \film{Shree 420}%
 \year{1955}%
 \starring{Raj Kapoor, Nargis, Nadira}%
@@ -10,37 +10,43 @@
 %
 % Contributor: K Vijay Kumar
 % Transliterator: K Vijay Kumar
-% Credits: 
-% Editor: 
+% Credits:     Satish Kalra
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 %
 \printtitle
 #indian
 %
-mu.D mu.D ke na dekh, mu.D mu.D ke
-zi.ndagaanii ke safar me.n tuu akelaa hii nahii.n hai
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke
+zindagaanii ke safar me.n tuu akelaa hii nahii.n hai
 ham bhii tere hamasafar hai.n
+
+aaj kii ra.ngiin raaho.n me.n aa
+chaahat in Duubii nigaaho.n pe chhaa
+ham se hii ham ko churaakar dikhaa
+ahaa haa haa aa .a.a
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
 
 aaye gaye ma.nzilo.n ke nishaa.N
 laharaa ke jhuumaa jhukaa aasamaa.N
 lekin rukegaa na ye kaaravaa.N
-aha ha ha aa~~
-mu.D mu.D ke na dekh   \threedots
+ahaa haa haa aa .a.a
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
 
-mu.D mu.D ke na dekh, mu.D mu.D ke
-zi.ndagaanii ke safar me.n tuu akelaa hii nahii.n hai
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
+zindagaanii ke safar me.n tuu akelaa hii nahii.n hai
 ham bhii tere hamasafar hai.n, he!
-mu.D mu.D ke na dekh   \threedots
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
 
-naino.n se nainaa jo milaa ke dekhe
-mausam ke saath muskuraa ke dekhe
+naino.n se nainaa jo milaake dekhe
+mausam ke saath muskuraake dekhe
 duniyaa usiikii hai jo aage dekhe
-mu.D mu.D ke na dekh   \threedots
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
 
 duniyaa ke saath jo badalataa jaaye
 jo isake Dhaa.Nche me.n hii Dhalataa jaaye
 duniyaa usiikii hai jo chalataa jaaye
-mu.D mu.D ke na dekh   \threedots
-
+mu.D-mu.D_ke na dekh, mu.D-mu.D_ke ...
 %
 #endindian
 \endsong
