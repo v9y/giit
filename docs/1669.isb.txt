@@ -13,32 +13,43 @@
 % Credits: rec.music.indian.misc (USENET newsgroup) 
 %          Satish Subramanian (subraman@myria.cs.umn.edu)
 %          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+%          Malini Kanth
+%          Surajit A Bose
 % Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%         Vinay P Jain
 %
 \printtitle
 #indian
 %
-%	The second song in the series is from the movie Maaya.  In
-%this movie Dev acts as a rich man's son who doesn't like all the
-%riches that he has. And he finds his true love (Mala) in a poor
-%family.  This movie had another good song that Dev sings in a party
-%'koi sone ke dil waala koi chandi ke dil waala'.
-lataa: tasaviir terii dil me.n,  jis din se utaarii hai
-phiruu.N tujhe sa.ng leke,  naye naye ra.ng leke
-sapano.n kii mahafil me.n \threedots
-rafii: tasaviir terii dil me.n,  jis din se utaarii hai
-phiruu.N tujhe sa.ng leke,  naye naye ra.ng leke
-sapano.n kii mahafil me.n \threedots
-lataa: (maathe kii bi.ndiyaa tuu hai sanam
-naino.n kaa kajaraa piyaa teraa Gam  )  \-   2
-nain ke niiche niiche,  rahuu.N tere piichhe piichhe
-chaluu.n kisii ma.nzil me.n \threedots
-tasaviir terii dil me.n \threedots
-rafii: (tumase nazar jab gayii hai mil
-jahaa.N hai kadam tere vahii.n meraa dil  )  \- 2
-jhuke jahaa.N palake.n terii,  khule jahaa.N zulfe.n terii
-rahuu.N usii ma.nzil me.n \threedots
-rafii ## \& ## lataa: tasaviir terii dil me.n,  jis din se utaarii hai \threedots
+   lataa: (tasaviir terii dil me.n, jis din se utaarii hai) - 2
+phiruu.N tujhe sa.ng leke, na_e na_e ra.ng leke
+sapano.n kii mahafil me.n
+   rafii: tasaviir terii dil me.n, jis din se utaarii hai
+phiruu.N tujhe sa.ng leke, na_e na_e ra.ng leke
+sapano.n kii mahafil me.n, tasaviir terii dil me.n
+
+   lataa: (maathe kii bi.ndiyaa tuu hai sanam
+naino.n kaa kajaraa, piyaa teraa Gam) - 2
+nain kiye niiche niiche, rahuu.N tere piichhe piichhe
+chaluu.N kisii ma.nzil me.n, tasaviir terii dil me.n ...
+
+   rafii: (tumase nazar jab ga_ii hai mil
+jahaa.N hai qadam tere, vahii.n meraa dil) - 2
+jhuke jahaa.N palake.n terii, khule jahaa.N zulfe.n terii
+rahuu.N usii ma.nzil me.n, tasaviir terii dil me.n ...
+
+   lataa: (tuufaan uThaaegii duniyaa magar 
+ruk na sakegaa dil kaa safar) - 2
+   rafii: yuu.Nhii nazar milatii hogii, yuu.Nhii shamaa jalatii hogii
+terii merii ma.nzil me.n
+
+   lataa: tasaviir terii dil me.n, jis din se utaarii hai 
+phiruu.N tujhe sa.ng leke, na_e na_e ra.ng leke
+sapano.n kii mahafil me.n
+   rafii: tasaviir terii dil me.n, jis din se utaarii hai
+phiruu.N tujhe sa.ng leke, na_e na_e ra.ng leke
+sapano.n kii mahafil me.n 
+   dono.n: tasaviir terii dil me.n
 %
 #endindian
 \endsong
