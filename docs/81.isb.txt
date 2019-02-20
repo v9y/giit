@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{aa jaa re, paradesii, mai.n to kab se kha.Dii is paar}%
+\stitle{aajaa re, paradesii, mai.n to kab se kha.Dii is paar}%
 \film{Madhumati}%
 \year{1958}%
 \starring{Dilip Kumar, Vyjayantimala, PRan}%
@@ -11,32 +11,46 @@
 % Contributor:  
 % Transliterator: Avinash Chopde (avinash@acm.org)
 % Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
-%          Kedar Nahade (ksn2@Lehigh.EDU)
+%          Kedar Naphade (ksn2@Lehigh.EDU)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Ashok M Dhareshwar
+%          Satish Kalra
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
+
+##Part 1##
+
 aa jaa re .a.a.a paradesii
 mai.n to kab se kha.Dii is paar
-ye a.Nkhiyaa.N, thak ga_ii pa.nth nihaar
-aa jaa re, paradesii
+ye a.Nkhiyaa.N thak ga_ii pa.nth nihaar
+aa jaa re, paradesii 
+
+(mai.n diye kii aisii baatii
+jal na sakii jo bujh bhii na paatii) - 2 
+aa mil mere jiivan saathii, o 
+aa jaa re, mai.n to kab se kha.Dii is paar ...
 
 (tum sa.ng janam janam ke phere 
-bhuul gaye kyuu.N saajan mere     )  \- 2
-ta.Dapat huu.N mai.n saa.njh savere, o \threedots
-aa jaa re, mai.n to kab se kha.Dii is paar \threedots
+bhuul gaye kyuu.N saajan mere) - 2
+ta.Dapat huu.N mai.n saa.Njh savere, o 
+aa jaa re, mai.n to kab se kha.Dii is paar ...
 
 (mai.n nadiyaa phir bhii mai.n pyaasii
-bhed ye gaharaa baat zaraa sii   ) \- 2
-bin tere har raat udaasii, o \threedots
-aa jaa re, mai.n to kab se kha.Dii is paar \threedots
+bhed ye gaharaa baat zaraa sii) - 2
+bin tere har raat udaasii, o 
+aa jaa re, mai.n to kab se kha.Dii is paar ...
 
-mai.n diye kii aisii baatii
-jal na sakii jo bujh bhii na paatii
-aa mil mere jiivan saathii, o \threedots
-aa jaa re, mai.n to kab se kha.Dii is paar \threedots
+##Part 2##
+(phir aayii raat, a.Ndheraa chaayaa
+mujhase bichha.D ga_ii merii hii kaayaa ) - 2
+kit jaauu.N ye bhed na paayaa, o
+aa jaa re, paradesii
+
 %
 #endindian
 \endsong
