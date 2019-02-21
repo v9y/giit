@@ -2,7 +2,7 @@
 \startsong
 \stitle{chuu.Dii nahii.n ye meraa}% 
 \film{Gambler}%
-\year{}%
+\year{1971}%
 \starring{Dev, Zaheeda, Shatru}%
 \singer{Kishore, Lata}%
 \music{S D Burman}%
@@ -10,35 +10,53 @@
 %
 % Contributor: Arun Verma (verma@CS.Cornell.EDU)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
+% Credits:     Atish Sanyal
+%              Uday Patel
+%              Surajit A Bose
 % Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%         Vinay P Jain
 %
 \printtitle 
 #indian 
 %
-ki : chuu.Dii nahii.n ye meraa \threedots 
-chuu.Dii nahii.n ye meraa, dil hai, dekho dekho TuuTe nA 
-chuu.Dii nahii.n ye meraa \threedots 
 
-ki : niilii piilii, ra.ng bira.ngii, pyaar kii ye saugaat 
-nA nA nA nA aise nahii.n, dhiire dhiire, chupake chupake, Daalo iname.n haath 
-kaa.nch hai kachchaa, lekin sachchaa ho inase shrR^i.ngaar 
-paisaa nahii.n, sonaa nahii.n, hiiraa nahii.n, motii nahii.n kiimat inakii pyaar 
-phuulo.n sI, naazuk hai, dekho, dekho dekho dekho dekho, TuuTe nA 
-chuu.Dii nahii.n ye meraa \threedots
+ki: chuu.Dii nahii.n ye meraa 
+     chuu.Dii nahii.n ye meraa dil hai, dekho dekho TuuTe naa 
+     chuu.Dii nahii.n ye meraa ... 
 
-l : huu.N huu.N \threedots 
-koI bhI tU, meraa hai tU, ai mere hamadam 
-Gam mile, khuushii mile, kahii.n rahe.n, kaise rahe.n, bichha.De.nge nA ham 
-ki : phir bhI 
-l : huu.N huu.N  
-ki : jaaneman
-l : huu.N huu.N
-ki : dekho dekho TuuTe nA, 
-chuu.Dii nahii.n ye meraa \threedots
+ki: niilii-piilii, ra.ng-bira.ngii, pyaar kii ye sauGaat 
+     na na na na, aise nahii.n, dhiire-dhiire chupake-chupake Daalo in_me.n haath
+     kaa.Nch hai kachchaa, lekin in_se ho sachchaa si.ngaar 
+     sonaa nahii.n, chaa.Ndii nahii.n, hiiraa nahii.n, motii nahii.n, qiimat in_kii pyaar
+     phuulo.n-sii naazuk hai, dekho, dekho dekho dekho, TuuTe naa 
+     chuu.Dii nahii.n ye meraa 
+la: ##(giggles)## achchhaa? sach?
+ki: chuu.Dii nahii.n ye meraa ...
 
-l : chuu.Dii nahii.n ye teraa dil hai
-ki : dekho dekho TuuTe nA 
-chuu.Dii nahii.n ye meraa \threedots 
+ki: meraa pyaar hai chuu.Dii jaisaa, isakaa or na chhor
+     yahaa.N nahii.n, vahaa.N nahii.n, dekho kabhii TuuTe nahii.n jiivan kii ye Dor
+     in_kii khan-khan dil kii dha.Dakan hai meraa sa.ngiit
+     suno zaraa socho zaraa naGamaa ye pyaar bharaa o mere man miit
+     laajavaab, haa.N! bemisaal, dekho, dekho TuuTe naa 
+     chuu.Dii nahii.n ye meraa ...
+
+la: aa haa haa - 2 
+     terii chaahat terii ulafat hai merii ma.nzil
+     ghere mujhe baa.Nhe.n terii, baa.Ndhe tujhe chaahe.n merii, dil meraa teraa dil
+     koii bhii ho meraa hai tuu ai mere hamadam
+     Gam mile, Khushii mile, kahii.n rahe.n, kaise rahe.n, bichha.De.nge na ham 
+ki: phir bhii 
+la: huu.N huu.N  
+ki: jaan-e-man
+la: huu.N huu.N
+ki : dekho, dekho dekho TuuTe naa, 
+     chuu.Dii nahii.n ye meraa 
+
+ki: chuu.Dii nahii.n ye 
+la: teraa dil hai
+ki : dekho dekho TuuTe naa 
+     chuu.Dii nahii.n ye meraa, haa.N!
+la: ##(giggles)##
 %
 #endindian
 \endsong
