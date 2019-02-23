@@ -3,38 +3,48 @@
 \stitle{chaman ke phuul bhii tujhako gulaab kahate hai.n}%
 \film{Shikari}%
 \year{1963}%
-\starring{}%
+\starring{Ajit, Ragini, Helen}%
 \singer{Lata, Rafi}%
 \music{G S Kohli}%
 \lyrics{Farouq Qaiser}%
 %
 % Contributor: Vijay Kumar
 % Transliterator: Vijay Kumar
-% Credits:
+% Credits:     Uday Patel
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 % Comments:
 %
 \printtitle
 #indian
 %
 
-chaman ke phuul bhii tujh ko gulaab kahate hai.n
-hamii.n nahii.n, hai.n sabhii laajavaab kahate hai.n
-nazar milaa ke mere dil kii baat pahachaano
+chaman ke phuul bhii tujhako gulaab kahate hai.n
+hamii.n nahii.n hai.n sabhii laajavaab kahate hai.n
+nazar milaake mere dil kii baat pahachaano
 sunaa hai chehare ko dil kii kitaab kahate hai.n
+chaman ke phuul bhii tujhako
 
-saaz\-e\-dil chhe.D diyaa hai to ye naGamaa sun lo
-bikharii bikharii huii ye pyaar kii kiraNe.n chun lo
+saaz-e-dil chhe.D diyaa hai to ye naGamaa sun lo
+bikharii-bikharii hai.n mere pyaar kii kiraNe.n chun lo
 isii kiraN ko sanam aafataab kahate hai.n
 hamii.n nahii.n, hamii.n nahii.n
 hamii.n nahii.n hai.n sabhii laajavaab kahate hai.n
 chaman ke phuul bhii tujhako
 
-aaj tak dekhii nahii.n aisii dahakatii aa.Nkhe.n
-Daal do aa ke in aaNkho.n me.n chhalakatii aa.Nkhe.n
-sambhal ke piinaa ise sab sharaab kahate hai.n
+chashm-e-hairaa.N kii qasam, zulf-e-pareshaa.N kii qasam
+maa.Ng lo jaan tumhe.n aaj merii jaa.N kii qasam
+Gazab kii baat hai ye kyaa janaab kahate hai
+hamii.n nahii.n, haay, hamii.n nahii.n
+hamii.n nahii.n hai.n sabhii laajavaab kahate hai.n
+chaman ke phuul bhii tujhako
+
+aaj tak dekhii nahii.n aisii bahakatii aa.Nkhe.n
+Daal do ha.Ns_ke in aa.Nkho.n me.n chhalakatii aa.Nkhe.n
+sa.mbhal ke piinaa ise sab sharaab kahate hai.n
 hamii.n nahii.n, hamii.n nahii.n
 hamii.n nahii.n hai.n sabhii laajavaab kahate hai.n
-chaman ke phuul bhii tujhako \threedots
+chaman ke phuul bhii tujhako ...
 
 %
 #endindian
