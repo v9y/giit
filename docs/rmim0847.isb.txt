@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 9/2/2004 11:30:59 AM.
+
+\startsong
+\stitle{mere dil se ye nain mile rahane do jaan\-e\-man}%
+\film{Zehreelaa Insaan}%
+\year{1974}%
+\starring{Rishi Kapoor, Neetu Singh, Moushami Chatterjii, Pran}%
+\singer{Asha, Shailendra Singh}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 2 Sep 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+shai:
+mere dil se ye nain mile rahane do jaan\-e\-man
+ke do gha.Dii bahal jaataa hai dil diiwaanaa
+
+##humming##
+aa: ke do gha.Dii bahal jaataa hai dil diiwaanaa
+
+shai:
+inake binaa yahaa.N vahaa.N aise phiruu.N uljhan kaa maaraa
+pairo.n tale jaise ko_ii rakhataa chale jalataa a.ngaaraa
+ho dukh meraa ye jaane yaa jaane meraa haal ye viiraanaa
+
+aa: ho, mere dil se ye nain \threedots
+
+tum bhii mujhe dekho yuu.N hii hotii rahe dil kii do baate.n
+tum hii se mile mujhe jiivan ke din jiivan kii raate.n
+ho ye raat din ruk jaa_e.N phir bhii na ruk paa_e ye afasaanaa
+
+##both: ##
+ho mere dil se ye nain \threedots
+
+#endindian
+\endsong

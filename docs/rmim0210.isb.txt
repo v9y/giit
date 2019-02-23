@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0210; Created on Jan 26, 2004
+%
+% nani 8/4/3
+%
+\startsong
+\stitle{prem kii naiyaa chalii jal me.n morii}%
+\film{Dhoop Chhaaon/ Bhagya Chakra}%
+\year{1935}%
+\starring{Biswanath Bhaduri, Bikram Kapoor, K C Dey, Kedar Sharma, Pahadi Sanyal, Uma Shahshi, Ahi Sanyal, Sardar Akhtar}%
+\singer{Uma Shashi, Pahadi Sanyal}%
+\music{R C Boral, Pankaj Mullick}%
+\lyrics{Pt Sudarshan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 Aug 2003
+% Comments: Geetanjali Series
+% Dhoop Chhaaon urf Bhagya Chakra. New Theatres.
+%
+\printtitle
+#indian
+%
+p: prem kii naiyaa chalii jal me.n morii
+chhoTii sii naiyaa chalii jal me.n morii
+
+u: prem kaa saagar, prem kii naiyaa
+prem musaafir, prem ravayyaa???
+prabhu bin moraa kaun rakhaiyaa
+p: sok kare tuu kyuu.N ati naarii
+ye naiyaa kabhii naa ga_ii jal me.n morii
+chhoTii sii naiyaa \threedots
+
+u: chaar taraf chhaayaa a.Ndhiyaaraa
+suujhe naahii, duur kinaaraa
+thar\-thar kaa.Npe man matawaaraa
+p: kyuu.N ????? man kii kamazorii
+ye naiyaa hameshaa chalii??? jal me.n morii
+do: chhoTii sii naiyaa \threedots
+%
+#endindian
+\endsong
+%

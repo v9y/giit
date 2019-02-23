@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0215; Created on Jan 26, 2004
+%
+% nani 8/14/3
+%
+\startsong
+\stitle{ambuaa ke pe.D suhaane}%
+\film{Sabak}%
+\year{1950}%
+\starring{Munawwar Sultana, Karan Diwan, Om Prakash}%
+\singer{Surinder Kaur, Asha, Premlata, Saathi}%
+\music{A R Qureshi}%
+\lyrics{D N Madhok}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 14 aug 2003
+% Credits: Balaji Murthy, Saroj Kalra, Satish Kalra,
+% U V Ravindra, Hamraaz
+% Comments: GEETanjali Series
+% Film - Sabak, 1950
+%
+\printtitle
+#indian
+%
+## su - surinder kaur, aa - aashaa, pre - premlata ##
+## ko - chorus ##
+
+su: ambuaa ke pe.D suhaane
+kaa kahe.n, kaa kahe.n mose kaun jaane
+ko: ambuaa ke pe.D suhaane
+kaa kahe.n, kaa kahe.n mose kaun jaane
+
+su: ambuaa ke pe.D jhuume.n mast hawaao.n me.n
+aa: tohe pukaare.n, 'rii, aajaa, ho.a.a.a, aajaa
+Tha.nDii Tha.nDii chhaa.No.n me.n
+kar le muhabbat kisii bahaane'
+su: kaa kahe.n, kaa kahe.n mose kaun jaane
+ko: ambuaa ke pe.D \threedots
+
+su: gayaa bachapanaa aa_ii jawaanii
+lekar aaii sau aramaa.N
+pre: nikal ke rahe.nge sab aramaa.N
+dhiraj dhar lo merii jaa.N
+aa: nainaa tihaare rii gorii ho.a.a.a
+gorii, lage muskaane
+dil kaa papiihaa bhii lagaa gaane
+su: kaa kahe.n, kaa kahe.n mose kaun jaane
+ko: ambuaa ke pe.D \threedots
+%
+#endindian
+\endsong
+%

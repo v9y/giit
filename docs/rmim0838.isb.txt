@@ -1,0 +1,41 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{jaane aaj kyaa hu_aa aisaa kabhii hu_aa na thaa}%
+\film{Chhattees Ghante}%
+\year{1974}%
+\starring{Sunil Dutt, Mala Sinha, Parvin Babi, Vijay Arora, Rajkumar, Ranjit}%
+\singer{Kishore, Asha}%
+\music{Sapan Chakravarti}%
+\lyrics{Sahir}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 29 Oct 2004
+% Series: GEETanjali
+% Credits: Abhay Phadnis
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ki: jaane aaj kyaa hu_aa aisaa kabhii hu_aa na thaa
+saa.Nso.n me.n ghule nashaa jaisaa kabhii ghulaa na thaa
+tumhii.n bolo kyaa kare.n aisaa hogaa pataa na thaa
+
+aa: miiThaa miiThaa dard saa uThe a.ng a.ng me.n
+jaage ko_ii aag sii jiine kii uma.ng me.n
+havaa se tape badan jaisaa kabhii tapaa na thaa
+saa.Nso.n me.n ghule nashaa jaisaa kabhii ghulaa na thaa
+tumhii.n bolo kyaa kare.n aisaa hogaa pataa na thaa
+
+ki: chhaayaa chhaayaa duur tak ra.ngo.n kaa Gubaar hai
+aisaa to na thaa jahaa.N ho na ho ye pyaar hai
+Kvaabo.n kaa samaa sajaa jaisaa kabhii sajaa na thaa
+saa.Nso.n me.n ghule nashaa jaisaa kabhii ghulaa na thaa
+tumhii.n bolo kyaa kare.n aisaa hogaa pataa na thaa
+
+jaane aaj kyaa hu_aa \threedots
+
+#endindian
+\endsong

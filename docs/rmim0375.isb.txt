@@ -1,0 +1,75 @@
+% ITRANS SONG # rmim0375; Created on Jan 26, 2004
+%
+%      From: Sameer Malhotra (sam@bollyvista.com)
+%      Date: 2003-02-12 18:40:59 PST 
+%
+\startsong
+\stitle{aake siidhii lagii dil pe jaise kaTariyaa o saa.nwariyaa oy}%
+\film{Half Ticket}%
+\year{1962}%
+\starring{Kishore Kumar, Madhubala}%
+\singer{Kishore}%
+\music{Salil Chowdhury}%
+\lyrics{Shailendra}%
+%
+% Contributor: Sam Malhotra (Sam@bollyvista.com)
+% Transliterator: Sam Malhotra (Sam@bollyvista.com)
+%
+\printtitle
+#indian
+%
+##Both Male and Female Voices are by Kishore Kumar##
+
+##Female##:  aake siidhii lagii dil pe jaise kaTariyaa o saa.nwariyaa oy
+                       aake siidhii lagii dil pe jaise kaTariyaa o
+saa.nwariyaa oy hoy
+                       o terii tirachhii najariyaa.a
+##Male##:      le gayii meraa dil terii julmii najariyaa o gujariyaa oy
+                       le gayii meraa dil terii julmii najariyaa o gujariyaa
+oy hoy hoy
+                       o jaane saarii nagariyaa
+##Female##:   aake siidhii lagii dil pe jaise kaTariyaa o saa.nwariyaa
+
+##Female##:    merii galii aate ho kyuu.n baar baar
+                       chhe.D chhe.D jaate ho kyuu.n dil ke taar
+                       o saiyaa.n o saiyaa.n o saiyaa.n paDu.n tore paiyaa.n
+                       merii galii aate ho kyuu.n baar baar
+                       chhe.D chhe.D jaate ho kyuu.n dil ke taar
+##Male##:       kyaa mai.n karuu.n gorii mujhe tujhase hai pyaar
+                       jo naa tujhe dekhu.n naa aaye qaraar
+                       o gorii o gorii o gorii ba.D ke bu.Dhan Tiir vii
+Takkar
+                       kyaa mai.n karuu.n gorii mujhe tujhase hai pyaar
+                       jo naa tujhe dekhu.n naa aaye qaraar
+##Female##:   haTo jaao naa banaao
+                       haTo jaao haay haay naa banaao haay haay haay
+                       naTakhaT ra.ngiile sa.nwariyaa
+                       aake siidhii lagii dil pe jaise kaTariyaa o
+saa.nwariyaa haay haay
+##Male##:      le gayii meraa dil terii julmii najariyaa o gujariyaa
+
+##Female##:  piichhe piichhe aate ho kyuu.n dil ke chor
+                      maan jaao varnaa machaa duu.ngii shor
+                      bachaao o mu.nai o murge o kauve
+                     piichhe pichhe aate ho kyuu.n dil ke chor
+                      maan jaao varnaa machaa duu.ngii shor
+##Male##:      pahale to baa.ndhii nigaaho.n ki Dor
+                      ab hamase kahtii ho chal piichhaa chho.D
+                       o gorii o naTakhaT o khaTapaT o panaghaT o jhaTapaT
+                       pahale to baa.ndhii nigaaho.n ki Dor
+                       ab hamase kahtii ho chal piichhaa chho.D
+##Female##:  tore nai.nnaa o miiThe bai.nnaa
+                      o tore nai.nnaa haay haay miiThe bai.nnaa oy hoy
+                      mujhako banaa gaye baa.nwariyaa
+                      aake siidhii lagii dil pe jaise kaTariyaa o
+saa.nwariyaa oy hoy
+                      o terii tirachhii najariyaa.a
+##Male##:      le gayii meraa dil terii julmii najariyaa o gujariyaa oy hoy
+                       o jaane saarii nagariyaa
+##Female##:  aake siidhii lagii dil pe jaise kaTariyaa o saa.nwariyaa
+(##Male##:     o gujariyaa
+##Female##:  o saa.nwariyaa) \-2
+%
+#endindian
+\endsong
+%

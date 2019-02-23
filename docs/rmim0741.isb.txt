@@ -1,0 +1,33 @@
+% ITRANS SONG #
+
+% Arunabha S Roy on 7/18/2004 1:56:28 PM.
+
+\startsong
+\stitle{kit jaaye base ho muraarii}%
+\film{Asha}%
+\year{1948}%
+\starring{Shanta Kunwar, Sohan, Samson}%
+\singer{Lata}%
+\music{Khemchand Prakash}%
+\lyrics{L Meghani}%
+
+% Contributor: Arunabha S. Roy
+% Date: 18 Jul 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+kit jaaye base ho muraarii
+tohe Dhuu.N.Dhat raadhaa haarii
+
+aadhii raat mai.n jaaguu.N unhe.n khojan laagii banavaarii
+jhuuThii aas lagaaye baiThii ro\-ro a.Nkhiyaa.N haarii
+kit jaaye base ho muraarii
+
+jiivan kii jugatii jaane naa biitii umariyaa saarii
+ra.ng bharii chunarii ko mai.nne a.Nsuvan se dho Daarii
+kit jaaye base ho muraarii
+
+#endindian
+\endsong

@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0161; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-12-17 01:17:23 PST
+%
+\startsong
+\stitle{jay ho ... vikramaaditya kii jay ho}%
+\film{Vikramaditya}%
+\year{1945}%
+\starring{Prithviraj, Ratnamaalaa, Baburao Pendharkar, Prem Adeeb}%
+\singer{Amirbai, Male Singer, Chorus}%
+\music{Shankarrao Vyas}%
+\lyrics{Ramesh Gupta}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 17 Dec 2002
+% Credits: Satish Kalra
+% Comments: Geetanjali Series.
+%
+\printtitle
+#indian
+%
+jay ho, jay ho
+vikramaaditya kii jay ho
+jay jay se guu.Nj uThaa bhaarat
+vikramaaditya kii jay ho
+par\-dukh\-bha.njan kii jay ho
+
+apane baahubal se jisane vijay shatru par paa_ii
+paraadhiin bhaarat ko jisane swata.ntrataa dilawaa_ii
+vikramaaditya kii jay ho \threedots
+
+battis putali ke si.nhaasan par jisane sachchaa nyaay kiyaa
+navaratno.n ko ekatrit kar saahitya kalaa kaa daan diyaa
+
+chandaa suuraj me.n tej rahe
+jab tak pR^ithvii aabaad rahe
+tab tak har bhaarat vaasii ke
+dil me.n ye sa.nvat.h yaad rahe
+ye vikram\-sa.nvat.h yaad rahe
+vikramaaditya kii jay ho \threedots
+%
+#endindian
+\endsong
+%

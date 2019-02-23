@@ -1,0 +1,35 @@
+% ITRANS SONG #
+%
+% Date: Mon, 9 Feb 2004 09:55:20 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{dil hai tumhaarii yaad kii duniyaa liye hue}%
+\film{Ghar Ki Laaj}%
+\year{1941}%
+\starring{Shanta Hublikar, Nazir, Jagdish Sethi, Kalyani, Baby Kaushalya}%
+\singer{Kalyani}%
+\music{Annasaheb Mainkar}%
+\lyrics{Ehsan Rizvi}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 09 feb 2004
+% Credits  : U V Ravindra, Urzung Khan, Pasupuleti
+% Comments : Geetanjali Series
+%    MD - annasahab maa_i_Na_kar (Mainkar)
+%
+\printtitle
+#indian
+%
+dil hai tumhaarii yaad kii duniyaa liye hue
+ik jaam hai sharaab kaa dariyaa liye hue
+
+aa.Nkhe.n milaa ke aap ne jaaduu saa kar diyaa
+dil ab ta.Dap rahaa hai tamannaa liye hue
+
+ha.Nsate the aap sunake muhabbat kii daastaa.N
+jaate hai.n log meraa janaazaa liye hue
+%
+#endindian
+\endsong
+%

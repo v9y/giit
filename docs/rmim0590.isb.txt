@@ -1,0 +1,43 @@
+% ITRANS SONG #
+%
+% Date: Thu, 12 Feb 2004 12:44:11 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{sakhii morii niind nasaanii ho}%
+\film{Triveni Bhajans (Non-Film)}%
+\year{1970s?}%
+\starring{}%
+\singer{Kumar Gandharva, Vasundhara Komkali}%
+\music{Kumar Gandharva}%
+\lyrics{Meera}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  12 Feb 2004
+% Credits  :
+% Comments : GEETanjali / Sukhsaagar Series
+%    Kumar Gandharva's 'Triveni' LP covers bhajans
+%    by Kabir, Meerabai, Surdas.
+%    The bhajan is based on raag Mand-Bhatiyari
+%    and set to Madhyalaya Keherwa.
+%    The lyrics were taken from the below URL.
+%    http://theory.tifr.res.in/~mukhi/Music/kg-lyrics.html
+%
+\printtitle
+#indian
+%
+sakhii morii niind nasaanii ho
+piy ko pa.nth nihaarat sagarii, rai.Nabihaanii ho
+
+sab sakhiyan mil sikh da_ii, man ek na maanii ho
+bin dekhyaa.n kal naahii pa.Dat, jiy aisi ghaNii ho
+
+a.ng chhiin vyaakul bha_ii, mukh piy piy baaNii ho
+antar bedan birah kii wah pii.D na jaaNii ho
+
+jyu chaatak ghanaku raTai, machharii jimi paanii ho
+miiraa vyaakul birahaNii, sudh budh visaraaNii ho
+%
+#endindian
+\endsong
+%

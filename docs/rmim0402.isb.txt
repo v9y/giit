@@ -1,0 +1,49 @@
+% ITRANS SONG # rmim0402; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2001-02-20 17:30:01 PST                        
+%
+\startsong
+\stitle{saajan bin nii.nd na aave}%
+\film{Munimji}%
+\year{1955}%
+\starring{Dev Anand, Nalini Jaywant, Pran}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:Srinivas Ganti
+% Date:Feb 20, 2001
+% Comments:SDB series
+%
+\printtitle
+#indian
+%
+saajan bin nii.nd na aave
+viraha sataave un bin mohe kachuna bhaave
+(kaise kahuu.N mai.n)\-3
+saajan bin\threedots
+
+ma pa
+sa ni da pa ma pa ma
+ma ga pa ma aa aaa
+(karake thho.De din kii priit
+man se ruuTe man ke miit)\-2
+dukh ke sapan dukh ke giit
+(kaise kahuu.N mai.n)\-3
+saajan bin\threedots
+
+(tan ko phuuke man kii yaad
+man ko phuuke viraha raag)\-2
+apane apane sab(?) ke Daag
+(kaise kahuu.N mai.n)\-3
+saajan bin\threedots
+
+saajan bin nii.nd na aave
+viraha sataave un bin mohe kachuna bhaave
+(kaise kahuu.N mai.n)\-3
+saajan bin\threedots
+%
+#endindian
+\endsong
+%

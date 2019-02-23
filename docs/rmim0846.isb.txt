@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 8/29/2004 2:34:45 PM.
+
+\startsong
+\stitle{sa.nsaar kii har shay kaa itanaa hii fasaanaa hai}%
+\film{Dhund}%
+\year{1973}%
+\starring{Zeenat Aman, Danny Denzongpa, Sanjay, Navin Nischol}%
+\singer{Mahendra Kapoor}%
+\music{Ravi}%
+\lyrics{Sahir}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 29 Aug 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+sa.nsaar kii har shay kaa itanaa hii fasaanaa hai
+ek dhu.Ndh se aanaa hai ek dhu.Ndh me.n jaanaa hai
+
+ye raah kahaa.N se hai ye raah kahaa.N tak hai
+ye raaz ko_ii raahii samajhaa hai na jaanaa hai
+
+ek pal kii palak par hai Thaharii hu_ii ye duniyaa
+ek pal ke jhapakane tak har khel suhaanaa hai
+
+kyaa jaane ko_ii kis pal kis mo.D par kyaa biite
+is raah me.n ai raahii har mo.D bahaanaa hai
+
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0142; Created on Jan 26, 2004
+%
+% arunabha S Roy 12/16/3
+%
+\startsong
+\stitle{saathii re bhuul na jaanaa meraa pyaar}%
+\film{Kotwaal Saab}%
+\year{1977}%
+\starring{Shatrughan Sinha, Aparna Sen}%
+\singer{Asha}%
+\music{Ravindra Jain}%
+\lyrics{Ravindra Jain}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 15 Dec 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+saathii re bhuul na jaanaa meraa pyaar \-2
+merii vafaa kaa ai mere hamadam kar le na aitabaar
+saathii re \threedots
+
+(duur kabhii kar de jo majabuurii
+vah duurii to hogii nazar kii duurii ) \-2
+terii duaaye.n gar saath rahii.n
+aa_egii phir se bahaar
+saathii re \threedots
+
+(kaash kabhii ye rainaa na biite
+priit kaa ye paimaanaa kabhii na riite ) \-2
+Dar hai kahii.n aane vaalii sahar
+le le na dil kaa qaraar
+saathii re \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{diiyaa jage saarii rainaa ni.ndiyaa na aa_e}%
+\film{Chhota Bhai}%
+\year{1966}%
+\starring{Rahman, Nutan, Mahesh Kumar}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+ 
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 29 Oct 2004
+% Series: Latanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+diiyaa jage saarii rainaa
+ni.ndiyaa na aa_e \-2
+raah take vyaakul nainaa
+ni.ndiyaa na aa_e \-2
+
+sapanaa nahii.n koii sa.ng kiran ke
+giit nahii.n ko_ii paas pavan ke
+sapanaa nahii.n koii sa.ng kiran ke
+soye.n bhalaa kaise phuul chaman ke
+taaro.n kaa bhii hai yahii kahanaa
+ni.ndiyaa na aa_e \-2
+
+lallaa lalaa lorii gaake sunaa_uu.N
+mai.n apanii palako.n kaa palanaa banaa_uu.N
+lallaa lalaa lorii gaake sunaa_uu.N
+mai.n terii ni.ndiyaa ko kaise bulaa_uu.N
+terii tarah vo bhii maane na kahanaa
+ni.ndiyaa na aa_e \-2
+
+diyaa jage saarii rainaa
+ni.ndiyaa na aa_e \-4
+
+#endindian
+\endsong

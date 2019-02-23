@@ -1,0 +1,46 @@
+% ITRANS SONG #
+
+% Date: Thu, 11 Mar 2004 18:11:57 -0600
+% From: "Srinivas Ganti" <gantisri@hotmail.com>
+
+\startsong
+\stitle{aa ga_ii bahaar, aa ga_ii}%
+\film{Nai Taleem}%
+\year{1949}%
+\starring{}%
+\singer{Lata}%
+\music{Vasant Desai}%
+\lyrics{S R Chopda}%
+
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date: March 11,2004
+
+\printtitle
+#indian
+
+(aa ga_ii bahaar, aa ga_ii
+man kii kalii musakaaii
+nas nas me.n jaagaa pyaar, jaagaa pyaar)\-2
+
+aa.Nkho.n ne kyaa, man se kahaa
+a.ng a.ng jhuum rahaa
+hone lagaa hai khumaar, jaagaa pyaar
+man kii kalii musakaaii
+nas nas me.n jaagaa pyaar
+
+virahaa ke din biit gaye
+gaale gaale giit naye
+bajane lage hai.n taar, jaagaa pyaar
+aa ga_ii bahaar, aa ga_ii
+man kii kalii musakaaii
+nas nas me.n jaagaa pyaar, jaagaa pyaar
+
+aa.Nkho.n ne kyaa, man se kahaa
+a.ng a.ng jhuum rahaa
+chaane lagaa hai khumaar, jaagaa pyaar
+man kii kalii musakaaii
+nas nas me.n jaagaa pyaar
+
+#endindian
+\endsong

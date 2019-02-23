@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0526; Created on Jan 26, 2004
+%
+% urzung 9/22/3
+%
+\startsong
+\stitle{maaluum hai mujh ko maaluum hai mujh ko}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Jagmohan}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: <Urzung Khan>, 9/22/3
+%
+\printtitle
+#indian
+%
+maaluum hai mujh ko maaluum hai mujh ko
+tum rakh nahii.n sakatii ho,
+tum rakh nahii.n sakatii ho sadaa ham ko bhikaarii
+ban jaa_o gii tum ik din taqadiir hamaarii
+maaluum hai mujh ko maaluum hai mujh ko
+
+jis dil me.n dard hai vahaa.n aaraam base gaa
+jin aa.Nkho.n me.n aa.Nsuu hai.n vahaa.N sog ha.Nse gaa
+phele gii mere ghar me.n ik chaa.ndnii niyaarii
+ban jaa_o gii tum ik din taqadiir hamaarii
+maaluum hai mujh ko maaluum hai mujh ko
+
+jis dil ko tum ne phai.Nk diyaa dekh bhaal ke
+rakhkho gii ek din use tum hii sa.nbhaal ke
+haalat jo hamaarii hai badal jaa_e gii saarii
+ban jaa_o gii tum ik din taqadiir hamaarii
+maaluum hai mujh ko maaluum hai mujh ko
+%
+#endindian
+\endsong
+%

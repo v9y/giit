@@ -1,0 +1,56 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 9/29/2004 5:53:08 PM.
+
+\startsong
+\stitle{vo gokul kaa gvaalaa thaa}%
+\film{Shree Chaitanya Mahaaprabhu}%
+\year{1953}%
+\starring{Amita, Bharat Bhushan}%
+\singer{Lata, Dhananjay Bhattacharya}%
+\music{R C Boral}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 29 Sep 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+dhana.njay:
+vo gokul kaa gvaalaa thaa
+bholaa bhaalaa thaa na.nd kishor
+jadur kaa ujiyaalaa thaa jise kahate hai.n maakhan chor
+ho, gokul kaa gvaalaa thaa
+
+lataa:
+o, nirmohii, nirmohii vo kaalaa thaa
+na.ndalaalaa vo kaalaa thaa
+vo chhaliyaa , vo chhaliyaa ba.Daa barajor
+raadhaa pe jaaduu Daalaa thaa jise kahate hai.n ham chitachor
+nirmohii, vo kaalaa thaa
+
+dhana.njay:
+ho, sohanii suurat mohanii muurat \-2
+nayanaa, nayanaa madhur vishaal, nayanaa madhur vishaal
+
+lataa:
+tirachhii palakiyaa.N tirachhi baa.Nsuriyaa \-2
+tirachhi tirachii usakii chaal tirachii kanhaiyaa kii chaal
+
+dhana.njay:
+suno bhakto.n kii karuN pukaar
+vo gokul ko chho.D chalaa
+vo gokul ko chho.D chalaa
+
+lataa:
+ba.Daa nirmama thaa kriShNa muraar
+mu.Nh raadhaa se mo.D chalaa kriShNa muraar
+man raadhaa kaa to.D chalaa kriShNa muraar
+nirmohii vo kaalaa thaa
+
+#endindian
+\endsong

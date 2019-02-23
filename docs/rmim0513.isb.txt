@@ -1,0 +1,31 @@
+% ITRANS SONG # rmim0513; Created on Jan 26, 2004
+%
+% From: Urzung Khan (urzung@hotmail.com)  
+% Date: 2003-03-06 16:20:51 PST
+%
+\startsong
+\stitle{idhar aa rahe hai.n vo nazare.n jhukaa ke}%
+\film{non-Film}%
+\year{1940s}%
+\starring{}%
+\singer{Jothika Roy}%
+\music{Kamal Das Gupta?}%
+\lyrics{}%
+%
+% Contributor: <Urzung Khan>, 2003-03-06
+%
+\printtitle
+#indian
+%
+idhar aa rahe hai.n vo nazare.n jhukaa ke
+wafaa laa rahii hai jafaa ko manaa ke
+
+ko_ii ab nazar me.n Thahartaa nahii.n hai
+ye kyaa kar diyaa tuu ne nazare.n milaa ke
+
+muhabbat kii duniyaa basaane chale.n hai.n
+muhabbat pe ham apanii duniyaa luTaa ke
+%
+#endindian
+\endsong
+%

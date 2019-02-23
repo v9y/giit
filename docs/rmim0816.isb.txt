@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+% Date: 6 Oct 2004 14:40:47 -0700
+% From: asroyus@yahoo.com (Arunabha S Roy)
+
+\startsong
+\stitle{ko_ii mere sapano.n me.n aayaa}%
+\film{Nai Dilii/ New Delhi}%
+\year{1956}%
+\starring{Kishore Kumar, Vyjayantimala}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Hasrat}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 6 Oct 2004
+% Series: LATAnjali
+% Comments: Not featured in the film
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ko_ii mere sapano.n me.n aayaa
+dhiire dhiire man me.n samaayaa
+ho, ye na puuchho phir kyaa hu_aa
+
+phuulo.n ne si.nduur chhi.Dakaa \-2
+mausam kaa dil aaj dha.Dakaa \-2
+chhalake bahaaro.n se mastii
+jaaduu hai unakii nazar kaa
+
+ko_ii mere sapano.n me.n aayaa \threedots
+
+nainaa mile kho ga_ii mai.n \-2
+baalam kii ab ho ga_ii mai.n \-2
+sapano.n kii rimajhim na puuchho
+madahosh ho to ga_ii mai.n
+
+ko_ii mere sapano.n me.n aayaa \threedots
+
+#endindian
+\endsong

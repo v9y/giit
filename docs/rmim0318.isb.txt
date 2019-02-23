@@ -1,0 +1,53 @@
+% ITRANS SONG # rmim0318; Created on Jan 26, 2004
+%
+% nimish 5/31/3
+%
+\startsong
+\stitle{dukhiyaa din bhikhaaranii ... ho nirmohii bansiivaale}%
+\film{Veena}%
+\year{1948}%
+\starring{Sulochana Chatterji, Rahman, Veera, Yakub, Hemawati}%
+\singer{Shamshad}%
+\music{Anil Biswas}%
+\lyrics{Prem Dehalvi}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 31 May 2003
+% Credits: Dhananjay Naniwadekar.
+% Series: Anilda Series #14
+% Comments: This post is in the memory of the great composer Anil Biswas.
+%        May his soul rest in peace.
+%        Anil Biswas (July 7, 1914 - May 31, 2003)
+%
+%    The first antaraa of this song has lines exactly same as the prelude to
+%    Lata's 'mohe bhuul gaye saa.Nvariyaa' from Baiju Bawara (1952) written
+%    by Shakeel Badayuni and composed by Naushad. (1248.isb)
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+dukhiyaa din bhikhaaranii pagalii samajhaa kaun
+haal meraa jaane vohii jo koii mujh saa hoy
+
+ho .a .a
+nirmohii bansiivaale, nirmohii bansiivaale
+baa.Nsuriyaa tujh ko pukaaratii hai
+nirmohii bansiivaale, o .a .a
+nirmohii bansiivaale
+
+jo mai.n aisaa jaanatii ke priit kiye dukh hoy
+nagar Dhi.nDhoraa piiTatii priit na kariyo koy
+ho .a .a
+nirmohii bansiivaale \threedots
+
+priit kiye kyaa sukh milaa paradesii ke sa.ng
+diipak ha.Nsataa hii rahaa jal jal maraa pata.ng
+ho .a .a
+nirmohii bansiivaale \threedots
+%
+#endindian
+\endsong
+%

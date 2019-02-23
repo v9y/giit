@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0457; Created on Jan 26, 2004
+%
+% surma 8/12/3
+% 
+\startsong
+\stitle{dhanno kii aa.Nkho.n me.n hai raat kaa suramaa}%
+\film{Kitaab}%
+\year{1977}%
+\starring{Master Raju, Uttam Kumar, Vidya Sinha}%
+\singer{R D Burman}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 13 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+dhanno kii aa.Nkho.n me.n hai raat kaa suramaa
+aur chaa.Nd kaa chummaa
+ho o \threedots
+dhanno kii aa.Nkho.n me.n hai raat kaa suramaa
+aur chaa.Nd kaa chummaa
+
+ho (sahar bhii tere binaa raat lage
+chhaalaa pa.De aag jaise chaa.Nd pe jo haath lage) 2
+ho o \threedots
+dhanno kaa gussaa hai ek tiir kaa chummaa
+aur chaa.Nd kaa chummaa
+
+ho (dhanno tujhe Kwaab me.n dekhaa hai
+lailaa kii hiir kii kitaab me.n dekhaa hai) 2
+ho o \threedots
+dhanno kii aa.Nkho.n me.n hai raat kaa suramaa
+aur chaa.Nd kaa chummaa
+%
+#endindian
+\endsong
+%

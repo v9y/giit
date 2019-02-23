@@ -1,0 +1,103 @@
+% ITRANS SONG #
+
+% Date: Sun, 1 Aug 2004 00:38:35 -0700
+% From: Malini <malinikanth@hotmail.com>
+
+\startsong
+\stitle{naa dir diim ... naa jaa naa jaa balam balam mere naa}%
+\film{Pardesi}%
+\year{1957}%
+\starring{Nargis, Oleg, Balraj Sahni, Padmini}%
+\singer{Lata, Balraj Sahni, female voice}%
+\music{Anil Biswas}%
+\lyrics{Sardar Jafri, Prem Dhawan}%
+
+% Contributor: Ashok Dhareshwar, Surajit Bose, Malini Kanth
+% Transliterator: Malini Kanth
+% Date: 31 Jul 2004
+% Series: GEETanjali
+% Song courtesy: Ashok Dhareshwar
+
+\printtitle
+#indian
+
+% The film is about a Russian traveler who visited India around
+% the 15th century and set up a trading post. It featured a
+% Russian actor, Oleg Strizhenov, as hero and Nargis, an
+% innocent village belle, as the heroine. Other key actors are
+% Balraj Sahni, a street singer who befriends him, and Padmini,
+% a dancer at the court of the sultan of Bidar (now the northern-
+% most tip of Karnataka).
+
+% The traveller, accompanied by Balraj Sahni, chances upon Padmini
+% at Ellora, where she has come to study the dance poses. She is
+% dancing to the lovely strains of a tillaana by a Karnatak music
+% singer (whose identity I couldn't determine). Toward the end
+% of the dance, Padmini notices the traveler and conveys a message
+% to him through dance _mudras_ and Balraj Sahni translates.
+
+tillaanaa : taa taa diim, taa naa dhii taa naa,
+ nii dhii taa nii tuum taa dhaa nii,
+ taa naa dhii taa naa
+
+% tillaanaa repeats two more times and after the third time
+% Balraj Sahni (b) starts narrating, as tillaana
+% completes and continues fourth time in the background
+
+b: ye hai lakShmii, biidar kii raajanartakii,
+ in praachiin chitro.n se nRRityakalaa siikhane aa_ii hai
+
+% tillaana continues 5th to 11th time, Balraj Sahni starts narrating
+% again as tillaana starts for 12th and last time
+
+b: ye tum se kah rahii hai
+
+% tillaana completes for the last time and slow flute starts playing
+% in the background
+
+b: lo praNaam meraa paradesii, kaun des se aaye tum
+ ra.ng tumhaaraa aisaa goraa, jaise ho.n ha.nsan ke pa.Nkh
+ nain tumhaare aise niile, jyuu.N gahare saagar kaa ra.ng
+
+%chuckles and pauses for a second
+
+ jab aa_o nagar hamaare, rakhanaa yaad, rakhanaa yaad
+ mere ghar ke dar aur dvaar, khule rahe.nge terii Kaatir
+ jaise su.ndar nain birahan ke, dekhe.n sadaa piyaa kii baaT
+
+% The foreigner does show up at Bidar eventually, but not before
+% falling in love with the charming village girl, a love that
+% will have to remain unrequited, as he realizes that the course
+% of her life is bound to be different.
+
+% The court dancer makes a pitch for him, but he is indifferent.
+% She makes a final try with this song.
+
+sajan sakaare jaaye.nge, nain mare.nge roy
+o vidhanaa aisii karo, ke bhor kabahu.N na hoy
+
+% beautiful sitar interlude
+
+naa dir diim, taa naa dere naa \-2
+naa jaa naa jaa balam, balam mere naa,
+naa dir diim, taa naa dere naa \-2
+
+(terii aag lagaa lii, tan me.n piyaa
+terii sej sajaa lii, mai.nne man me.n piyaa) \-2
+tere nain base nainan me.n piyaa
+kahii.n tuu hii mujhe nayan phere naa
+naa dir diim, taa naa dere naa \-2
+
+(tiikhii kajare kii dhaar piyaa tere liye
+mere solah si.ngaar piyaa tere liye) \-2
+baaje man kaa sitaar % small sitar piece
+baaje man kaa sitaar piyaa tere liye
+hu_e phir bhii to ham, balam tere naa
+naa dir diim, taa naa dere naa \-2
+naa jaa naa jaa balam, balam mere naa,
+naa dir diim, taa naa dere naa \-2
+
+% But he does walk away. His heart is elsewhere.
+
+#endindian
+\endsong

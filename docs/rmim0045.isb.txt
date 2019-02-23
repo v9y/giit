@@ -1,0 +1,30 @@
+% ITRANS SONG # rmim0045; Created on Jan 26, 2004
+%
+% animesh 7/12/3
+%
+\startsong
+\stitle{saaqii kii har nigaah pe bal khaa ke pii gayaa}
+\film{non-Film}
+\year{}
+\singer{Rafi}
+\music{Taj Ahmed Khan}
+\lyrics{Jigar Moradabadi}
+%
+#indian
+\printtitle
+%
+saaqii kii har nigaah pe bal khaa ke pii gayaa
+laharo.n se khelataa hu_aa laharaa ke pii gayaa
+
+zaahid ye merii shoKii\-e\-ri.ndaa na dekhanaa
+rahamat ko baato.n baato.n me.n bahalaa ke pii gayaa
+
+ai rahamat\-e\-tamaam merii har Kataa mu_aaf
+mai.n intihaa.N\-e\-shauq me.n ghabaraa ke pii gayaa
+
+kal mastii\-e\-ajal mujhe jab yaad aa ga_ii
+duniyaa\-e\-aitabaar ko Thukaraa ke pii gayaa
+%
+#endindian
+\endsong
+%

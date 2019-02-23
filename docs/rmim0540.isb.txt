@@ -1,0 +1,49 @@
+% ITRANS SONG # rmim0540; Created on Jan 26, 2004
+%
+% Urzung 1/16/4
+%
+\startsong
+\stitle{mere piichhe ik diivaanaa kuchh alabelaa masataanaa}%
+\film{Nazrana}%
+\year{1961}%
+\starring{Raj Kapoor, Vaijayanti Mala}%
+\singer{Asha, Mukesh}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: <Urzung Khan>, 1/16/4
+% Comments: As per kosh, record has wrongly given Lata as singer
+% in place of Asha
+%
+\printtitle
+#indian
+%
+mere piichhe ik diivaanaa
+kuchh alabelaa masataanaa
+koii roko re mujh ko sataaye hai
+
+mere aage ik diivaanii
+hai jisakaa naam javaanii
+koii dekho re dil ko churaaye hai
+
+machale jo dil teraa
+kayaa hai qusuur meraa
+chho.Do jii chho.Do pichhaa
+ab to huzuur meraa
+aisii adaao.n pe to koii luTaa jaaye hai
+
+aisii bhii jaladii kayaa hai
+ham ko bhii saath lelo
+jaane do Gussaa ab to
+haatho.n me.n haath lelo
+dekho diivaanaa kaisii batiyaa.n banaaye hai
+
+mujh me.n janaab bolo
+aisii kayaa baat dekhii
+gaalo.n me.n din dekhaa
+baalo.n me.n raat dekhii
+aise naa dekho meraa jiyaa ghabaraaye hai
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+% ITRANS SONG #
+%
+%      From: animesh kumar (animesh@eecs.berkeley.edu)
+%      Date: 2003-02-16 14:45:31 PST 
+%
+\startsong
+\stitle{terii to chaa.Nd sitaaro.n me.n baat hotii hai}%
+\film{? (Non-Film)}%
+\year{}%
+\singer{Rafi}%
+\music{Khayyaam}%
+\lyrics{Muzaffar Shahjahanpuri}%
+%
+\printtitle
+#indian
+%
+(terii to chaa.Nd sitaaro.n me.n baat hotii hai) \-2
+chaman chaman me.n bahaaro.n me.n baat hotii hai.
+chaman chaman me.n.
+
+(mere junuu.N se wo shoharat hai tere jalawo.n kii) \-2
+jidhar bhii jaa_o hazaaro.n me.n baat hotii hai.
+chaman chaman me.n.
+
+(sitam wo karate hai.n jisapar ba.Dii tavajjo se) \-2
+ye usake uu.Nche muqaddar kii baat hotii hai.
+chaman chaman me.n.
+
+(tere shabaab ko dekhaa sharaab chhuuT ga_ii) \-2
+yahii sharaab ke maaro.n me.n baat hotii hai.
+terii to chaa.Nd sitaaro.n me.n baat hotii hai.
+chaman chaman me.n bahaaro.n me.n baat hotii hai.
+chaman chaman me.n.
+%
+#endindian
+\endsong
+%

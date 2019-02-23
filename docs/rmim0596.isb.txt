@@ -1,0 +1,47 @@
+% ITRANS SONG #
+%
+% Date: Sun, 22 Feb 2004 11:03:36 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{laakh laakh taaro.n kii maalaa pahan kar}%
+\film{Veerangana}%
+\year{1947}%
+\starring{Shobhana Samarth, Prem Adeeb}%
+\singer{Raj Kumari, Manna Dey}%
+\music{Hari Prasanna Das, Manna Dey}%
+\lyrics{Pradeep urf Miss Kamal}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  22 February 2004
+% Credits  : Avinash Limaye
+% Comments : GEETanjali Series. Film - viiraa.nganaa
+%    H P Daas, Manna Dey - co-md-s.
+%
+\printtitle
+#indian
+%
+raa : laakh laakh taaro.n kii maalaa pahan kar
+      aaii hai aaj raat raanii
+ma  : mere paas aa merii mastaanii, saajaniyaa,
+      mai.nne tere dil kii baat jaanii
+
+raa : dekho jii kisii ko sataanaa nahii.n achchhaa
+ma  : dekho jii
+      chupake\-chupake tiir chalaanaa nahii.n achchhaa
+ma  : besudh merii dashaa hai
+raa : ye prem kaa nashaa hai
+ma  : par tum ne merii priit nahii.n pahachaanii
+
+raa : madabharaa hai mausam aur manachalii hai raat
+ma  : aaj hone waalii hai do dilo.n kii mulaaqaat
+raa : naino.n me.n ra.ng chhaayaa
+ma  : pulakit hai merii kaayaa
+do  : naino.n me.n ra.ng chhaayaa
+    : pulakit hai merii kaayaa
+raa : jhuum rahii hai merii jawaanii, sajanawaa,
+      na karo ham se chhe.Dakhaanii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0307; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam@asu.edu)
+% Date: 2003-02-14 01:06:44 PST
+%
+\startsong
+\stitle{ai aa.Nkh ab naa ronaa ronaa to umr bhar hai}%
+\film{Sipahiya}%
+\year{1949}%
+\starring{Yakub, Madhubala, Agha}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rammurti Chaturvedi}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Date: 14 Feb 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+lataa : ai aa.Nkh ab naa ronaa, ronaa to umr bhar hai
+      pii jaae aa.Nsuo.n ko bas vo jigar jigar hai
+      ai aa.Nkh ab \threedots
+
+chitalakar : bedard zamaanaa, yaa bedard merii qismat
+          mil kar bhii mil naa paae.N, ummiid pe guzar hai
+lataa :     ai aa.Nkh ab \threedots
+
+lataa : aa.Nkho.n me.n aa ke Thaharo, yaa dil me.n aa ke Thaharo
+      ye bhii tumhaaraa ghar hai, vo bhii tumhaaraa ghar hai
+      ai aa.Nkh ab \threedots
+
+dono.n : ham dil to apanaa pahale hii tum ko de chuke hai.n
+lataa : ik jaan rah ga_ii hai to vo bhii ab nazar hai
+      ai aa.Nkh ab \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0441; Created on Jan 26, 2004
+%
+% ganti 10/24/3
+%
+\startsong
+\stitle{diipak se diipak jal gaye}%
+\film{Anjali}%
+\year{1957}%
+\starring{Nimmi, Sheela Ramani, Chetan Anand}%
+\singer{Asha, Chorus}%
+\music{Jaidev}%
+\lyrics{Nyay Sharma}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date: 24 Oct 2003
+% Series: GEETanjali
+%
+\printtitle
+#indian
+%
+a:   (diipak se diipak jal gaye)\-2
+ko: (diipak se diipak jal gaye)\-2
+a:   (lo aaj a.ndhere Dhal gaye)\-2
+ko: (diipak se diipak jal gaye)\-2
+      (lo aaj a.ndhere Dhal gaye)\-2
+      diipak se diipak jal gaye
+
+a:   mahak uThaa jiivan nayaa, ku.njan nayaa, yauvan nayaa
+     detii hai kirane.n cha.ndr kii
+ko: detii hai kirane.n cha.ndr kii
+a:   nav yug ko abhinandan nayaa
+ko: nav yug ko abhinandan nayaa
+a:   lo apane bhaag badal gaye
+ko: (diipak se diipak jal gaye)\-2
+      (lo aaj a.ndhere Dhal gaye)\-2
+      diipak se diipak jal gaye
+
+a:   ab chal pathik aage chale, aage chale, aage chale
+ko: ab chal pathik aage chale, aage chale, aage chale
+      aage chale, aage chale
+a:    su.nsaan
+      su.nsaan raato.n me.n terii ? naye diipak jale
+      lo path ke raahii badal gaye
+ko: (diipak se diipak jal gaye)\-2
+      (lo aaj a.ndhere Dhal gaye)\-2
+      diipak se diipak jal gaye
+%
+#endindian
+\endsong
+%

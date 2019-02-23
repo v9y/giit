@@ -1,0 +1,49 @@
+% ITRANS SONG # rmim0331; Created on Jan 26, 2004
+%
+%      From: Pradip Shah (pradip_shah63@hotmail.com)
+%      Date: 2003-01-24 09:05:37 PST 
+%
+%
+\startsong
+\stitle{tumase kuchh kahanaa hai gar tum kuchh kahane do}%
+\film{Guest House}%
+\year{1959}%
+\starring{Ajit, Shakeela, Maruti, Lalita Pawar}%
+\singer{Mukesh, Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Pradip Shah, 2003-01-24
+% Transliterator: V S Rawat, 2004-01-24
+%
+\printtitle
+#indian
+%
+M: tumase kuchh kahanaa hai, gar tum kuchh kahane do
+L: aaji bole binaa hum jaane, rahane do ji rahane do
+M: in aa.Nkho.n.me.n rahana hai, agar pyaar se rahane do
+L: pahale dil ko najaroge, kuchh tiir to sahane do
+
+M: ha.Ns ha.Nsake sah le.nge, bade shokh se tiir chalaao
+L:  ye fasaanaa hai puraanaa, koii baat nayii farmaao
+M: chalo juuTh sahii, per baat merii, ek baar bhii to sun lo
+M: tumase kuchh kahanaa hai, agar tum kuchh kahane do
+L: aaji bole binaa hum jaane, rahane do ji rahane do
+
+L: dil Dole, kuchh bole, bhalaa kaun ye samaje ishaare
+M: vo ishaaraa jo tumhara, to mai.n toD ke laa duu.n kinaare
+L: aaji tumase yakii.n kuchh humako nahi.n, jaraa ho.nsh kii baat karo
+M: tumase kuchh kahanaa hai, agar tum kuchh kahane do
+L: aaji bole binaa hum jaane, rahane do ji rahane do
+
+M: kuchh dinse mere dilme.in, koii ban ke khayaal aataa hai
+L: bato.nse bahalaanaa, tum ko yeh qamaal aataa hai
+M: sach kahate.in hai hum
+L: chalo khaao qasam
+M: chaahe apanii qasam le lo
+M: tumase kuchh kahanaa hai, agar tum kuchh kahane do
+L: aaji bole binaa hum jaane, rahane do ji rahane do
+%
+#endindian
+\endsong
+%

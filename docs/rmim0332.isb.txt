@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0332; Created on Jan 26, 2004
+%
+%      From: Pradip Shah (pradip_shah63@hotmail.com)
+%      Date: 2003-02-02 13:21:35 PST 
+%
+\startsong
+\stitle{mausam ye pukaare mastii me.n lekar matavaale dil kaa kaaravaa.N}%
+\film{Burmah Road}%
+\year{1962}%
+\starring{Ashok Kumar, Kumkum, Sheikh Mukhtar, Vijaya Chaudhary}%
+\singers{Talat, Lata}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor:  Pradip Shah
+% Transliterator: Pradip Shah
+%
+\printtitle
+#indian
+%
+ta: mausam ye pukaare, mastii me.n lekar, matavaale dil kaa 
+kaaravaa.N
+la: sar pe hai hamaare, chaahat kaa aa.Nchal, kadamo.n ke niiche
+aasamaa.N
+la: mausam ye pukaare
+
+(la: tan ko uDaaye.n havaa matavaalii
+ta: dil ko chhuu.Ne hai ghaTaa kaalii kaalii)  \-2
+la: R^itu beqaraar beqaraar hai shamaa
+ta: mausam ye pukaare, mastii me.n lekar, matavaale dil kaa kaaravaa.N
+la: sar pe hai hamaare, chaahat kaa aa.Nchal, kadamo.n ke niiche
+aasamaa.N
+do.nno:  mausam ye pukaare
+
+(la: din hai ki raat ye kaun bataaye
+ta: zi.ndaa rahe terii palko.n ke saaye)  \-2
+la: soche.nge phir kabhii hai zindagii kahaa.N
+do.nno: mausam ye pukaare, mastii me.n lekar, matavaale dil kaa
+kaaravaa.N
+        sar pe hai hamaare, chaahat kaa aa.Nchal, kadamo.n ke niiche
+aasamaa.N
+        mausam ye pukaare
+%
+#endindian
+\endsong
+%

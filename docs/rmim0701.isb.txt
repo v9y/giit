@@ -1,0 +1,54 @@
+% ITRANS SONG #
+
+% Date: 1 Jun 2004 17:47:51 -0700
+% From: v9y@hotmail.com (Vinay)
+
+\startsong
+\stitle{shafaq ho, phuul ho ... mai.n kaise kahuu.N jaaneman}%
+\film{Nargis}%
+\year{1993}%
+\starring{Hema Malini, Naseeruddin Shah, Zeba}%
+\singer{Jagjit Singh}%
+\music{Basu Chakravarty}%
+\lyrics{Majrooh}%
+
+% Audio on: Venus
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 31 May 2004
+% Series: GEETanjali
+% Comments: The movie has not seen a release
+% generated using giitaayan
+
+\printtitle
+#indian
+
+shafaq ho, phuul ho, shabanam ho, maahataab ho tum
+nahii.n jawaab tumhaaraa ki laajawaab ho tum ||she'r||
+
+mai.n kaise kahuu.N jaaneman
+teraa dil sune merii baat
+ye aa.Nkho.n kii siyaahii
+ye hoTho.n kaa ujaalaa
+yahii hai.n mere din\-raat ||sthaayii||
+
+kaash tujhako pataa ho
+tere ruK\-e\-raushan se
+taare khile hai.n
+diye jale hai.n
+dil me.n mere kaise\-kaise
+mahakane lagii.n hai.n, wahii.n se merii raate.n
+jahaa.N se huaa teraa saath ||1||
+
+paas tere aayaa thaa
+mai.n to kaa.NTo.n pe chalake
+lekin yahaa.N to
+qadamo.n ke niiche
+farsh bichh gaye gul ke
+ki ab zindagaanii hai fasl\-e\-bahaaraa.N
+jo haatho.n me.n rahe teraa haath ||2||
+
+% fasl\-e\-bahaaraa.N = bahaar kaa mausam; basa.nt RRitu
+
+#endindian
+\endsong

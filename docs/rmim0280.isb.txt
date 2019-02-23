@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0280; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam@usa.net)
+% Date: 2002-10-08 20:37:15 PST
+%
+\startsong
+\stitle{baiThe.n hai.n kyaa us ke paas aa_iinaa mujh saa nahii.n}%
+\film{Jewel Thief}%
+\year{1967}%
+\starring{Dev Anand, Vaijayantimala, Ashol Kumar}%
+\singer{Asha}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: SDB Series #63
+%                   Series also named: Sun Mere Bandhu Re.
+% Date: 8 October 2002
+%
+\printtitle
+#indian
+%
+baiThe.n hai.n kyaa us ke paas aa_iinaa mujh saa nahii.n
+merii taraf dekhiye
+
+aa_iine kii nazar me.n aisii mastii kahaa.N hai
+mastii merii nazar kii itanii sachchii kahaa.N hai
+baiThe hai.n kyaa us ke paas  \threedots
+
+ye lab ham kyuu.N chhuu le, yuu.N hii aahe.n bhare.n kyaa
+ham se bhii khuubasuurat tum ho ham bhii kare.n kyaa
+baiThe.n hai.n kyaa us ke paas  \threedots
+
+biitii hai raat kitanii ye sab kuchh bhuul jaaye.n
+jalatii shamme.n bujhaa ke aao ham dil jalaaye.n
+baiThe.n hai.n kyaa us ke paas  \threedots
+%
+#endindian
+\endsong
+%

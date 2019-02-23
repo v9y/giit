@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0275; Created on Jan 26, 2004
+%
+%      From: Nimish Pachapurkar (Nimish.Pachapurkar@asu.edu)
+%      Date: 2002-09-16 23:33:22 PST 
+%
+\startsong
+\stitle{nigaahe.n milaa kar badal jaane vaale}%
+\film{Pakistani-film{Mahboob)}%
+\year{1962}%
+\starring{Shamim Ara, Yusuf, Habiib, Raanii}%
+\singer{Noorjehan}%
+\music{Rashid Atre}%
+\lyrics{Qateel Shafai}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: NOOR-E-TARANNUM Series. Part 2
+% Date: 16th September 2002
+%
+\printtitle
+#indian
+%
+nigaahe.n milaa kar badal jaane vaale
+mujhe tujh se ko_ii shikaayat nahii hai
+ye duniyaa ba.Dii sa.nga_dil hai yahaa.n par
+kisii ko kisii se muhabbat nahii hai
+
+jafaao.n se tuune mere dil ko toDaa
+mujhe tuune zaalim kahii.n kaa na chhoDaa
+hu_aa mujh ko maaluum sab kuchh luTaa kar
+vafaa kii yahaa.n ko_ii kiimat nahii hai
+
+na pahale se din hai na pahalii sii raate.n
+bhulaa dii vo tuune muhabbat kii baate.n
+sunaaye the tuune jo jhuuThe fasaane
+jaraa sii bhii un me.n hakiiqat nahii hai
+
+karuu.n mai.n jo fariiyaad apanii zubaa.N se
+giire.n TuuT kar bijaliiyaa.N aasamaa.N se
+mai.n ashqo.n me.n saare jahaa.N ko bahaa duu.N
+magar mujh ko rone kii aadat nahii hai
+%
+#endindian
+\endsong
+%

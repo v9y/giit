@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% Date: Thu, 26 Feb 2004 07:46:11 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+% 
+\startsong
+\stitle{ham hai.n dukhiyaa is duniyaa me.n ... koii jaage koii soe}%
+\film{Jag Biti}%
+\year{1946}% 
+\starring{Suraiya}%
+\singer{Suraiya}%
+\music{Ghulam Haider }%
+\lyrics{Nazim Panipati, Shams Lucknovi}%
+% 
+% Contributor: <Urzung Khan>
+% Transliterator:  
+%
+\printtitle
+#indian
+%
+ham hai.n dukhiyaa is duniyaa me.n  dukhii hai sansaar
+kisii kii naiyaa biich bha.Nwar me.n kisii kii naiyaa paar
+
+ko_ii jaage ko_ii soe
+haae raam
+ko_ii jaage ko_ii soe
+
+miiThii nii.nd kisii ko aae
+ha.Nsate ha.Nsate hii so jaae
+ko_ii beThaa tanahaa_ii me.n 
+chupake chupake roe
+haae raam
+ko_ii jaage \threedots
+
+ko_ii taaro.n kii chhaa.Nv me.n sundar sapane dekhe
+ko_ii taaraa taaraa gin ke apane nai.naa.N khoe
+re haae raam, apane nai.naa.N khoe
+ko_ii aa.Nsuu ke saagar me.n jiivan naav Duboe
+haae raam
+ko_ii jaage \threedots
+%
+#endindian
+\endsong
+%

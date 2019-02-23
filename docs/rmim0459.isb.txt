@@ -1,0 +1,49 @@
+% ITRANS SONG # rmim0459; Created on Jan 26, 2004
+%
+% surma 8/28/3
+% 
+\startsong
+\stitle{pallo laTake re mhaaro pallo laTake}%
+\film{Naukar}%
+\year{1979}%
+\starring{Sanjeev Kumar, Jaya Bhaduri}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: HMV
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 28 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aa: ( pallo laTake re mhaaro pallo laTake ) 2
+    zaraa saa Te.Dho ho jaa baalamaa mhaaro pallo laTake
+      
+ki: gorii ( jiyo bhaTake re mhaaro jiyo bhaTake ) 2
+    zaraa saa uu.N zaraa saa aa
+    zaraa saa siidho ho jaa zaalimaa mhaaro jiyo bhaTake
+
+aa: ( is khaatir se tere dwaar liyo mai.n ne pallo Daar ) 2
+    par chhaatii me.n naa siidho laage mhaare nain kaTaar
+    zaraa saa aa zaraa saa uu.N
+    zaraa saa Te.Dho ho jaa baalamaa mhaaro pallo laTake \threedots
+
+ki: ( muu.nge jaise laale ho.nTh motii jaise gore gaal ) 2
+    zaraa saa ghu.nghaTaa uupar pher dikhaade mo ko bhii ye maal
+    zaraa saa uu.N zaraa saa aa
+    zaraa saa siidho ho jaa zaalimaa mhaaro jiyo bhaTake \threedots
+
+aa: ( mai.n huu.N jis bastii kii huur nagar gulaabii hai mashahuur ) 2
+# ?????
+ki:  gorii ha.Ns ke baiyaa Daal yahii pe dikhalaa tuu ?????uur)
+     zaraa saa uu.N zaraa saa aa
+     zaraa saa siidho ho jaa zaalimaa mhaaro jiyo bhaTake \threedots
+%
+#endindian
+\endsong
+%

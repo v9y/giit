@@ -1,0 +1,34 @@
+% ITRANS SONG # r0602; Created on Mar 07, 2004
+%
+\startsong
+\stitle{ghaT ghaT me.n pa.nchhii bolataa}%
+\film{(Non-Film)}%
+\year{1988}%
+\starring{}%
+\singer{Veena Sahasrabuddhe}%
+\music{}%
+\lyrics{Kabir}%
+
+% Contributor: dhananjay naniwadekar
+% Date:  06 March 2004
+% Credits: Satish Kalra
+% Comments : Sukhsagar / Geetanjali Series.
+%    The Bhajan is featured on a Rhythm House cassette.
+
+\printtitle
+#indian
+
+ghaT ghaT me.n pa.nchhii bolataa
+
+aap hii da.nDii, aap taraazuu
+aap hii baiThaa tolataa
+aap hii maalii, aap bagiichaa
+aap hii kaliyaa.N to.Dataa
+
+sab ban me.n sab aap biraaje
+ja.D chetanaa me.n Dolataa
+kahat kabiiraa suno bhaaii saadho
+man kii ghu.nDii kholataa
+
+#endindian
+\endsong

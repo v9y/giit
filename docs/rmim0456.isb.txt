@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0456; Created on Jan 26, 2004
+%
+% surma 7/2/3
+% 
+\startsong
+\stitle{kahaaniyaa.N sunaatii hai pawan aatii jaatii}%
+\film{Raajput}%
+\year{1982}%
+\starring{Rajesh Khanna, Vinod Khanna, Dharmendra, Hema Malini, Ranjeeta, Tina Munim}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal ?}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 3 Jul 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kahaaniyaa.N sunaatii hai pawan aatii jaatii
+(ek thaa diyaa ek baatii) 2
+
+(bahut dino.n kii hai ye baat
+ba.Dii suhaanii thii wo raat
+diyaa aur baatii mile
+milake jale ek saath) 2
+ye chaa.Nd ye sitaare bane saare baaraatii
+ek thaa diyaa \threedots
+
+(uThaa_ii dono.n ne qasam
+jale bujhe.nge saath ham
+unhe.n Kabar naa thii magar
+Kushii ke saath bhii hai Gam) 2
+milan ke saath saath hii judaa_ii bhii hai aatii
+ek thaa diyaa \threedots
+%
+#endindian
+\endsong
+%

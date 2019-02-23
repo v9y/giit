@@ -1,0 +1,39 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 11/2/2004 2:26:41 PM.
+
+\startsong
+\stitle{kuchh merii nazar madahosh hai}%
+\film{Madam X Y Z}%
+\year{1959}%
+\starring{Suresh, Shakila, David}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 2 Nov 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+kuchh merii nazar madahosh hai kuchh terii nazar mastaanii
+milate hii ye nigaahe.n mai.n to hone lagii diivaanii
+
+tuu hii bataa dil se mere kaisii sadaa ye aa_ii
+sapane mere aramaa.N mere lene lagii a.Nga.Daa_ii
+kabhii jhuumuu.N mai.n kabhii gaa_uu.N mai.n
+hu_ii apane se bhii begaanii
+kuchh merii nazar madahosh hai \threedots
+
+jalane lage man me.n diye dekhii niraalii raahe.n
+jaane kahaa.N raahe.n na_ii.n mujhako piyaa le jaa_e.N
+kaisaa jaaduu hai kaisii mastii hai
+ho na jaa_e ko_ii naadaanii
+kuchh merii nazar madahosh hai \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,33 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{pyaar kii daastaa.N tum suno to kahe.n}%
+\film{Faraar}%
+\year{1965}%
+\starring{Anil Chatterjee, Shabnam, Balraj Sahni, Helen, KN Singh}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Kaifi Azmi}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S Roy
+% Date: 30 Aug 2004
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+pyaar kii daastaa.N tum suno to kahe.n
+kyaa karegaa sunake jahaa.N, tum suno to kahe.n
+                                                                                
+do dilo.n ke milane se sau diye jal jaate hai.n
+aarzuu kii ma.nzil tak raaste sab aate hai.n
+ham kahaa.N se aa_e kahaa.N, tum suno to kahe.n
+                                                                                
+bas yahii to puuchhaa thaa ek din kuchh sharmaake
+kyo.n gagan yuu.N milataa hai is zamii.n se ghabaraake
+ho ga_e sab aramaa.N jawaa.N, tum suno to kahe.n
+
+#endindian
+\endsong

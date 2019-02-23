@@ -1,0 +1,46 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{sajanaa bhuul naa jaanaa meraa pyaar}%
+\film{Dosti (Pakistan)}%
+\year{1971}%
+\starring{Ejaz, Shabnam}%
+\singer{Noorjehan}%
+\music{A Hameed}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: Pulkit
+% Transliterator: Pulkit Sharma
+% Date: 18 Sep 2004
+% Series: Noor-E-Tarannum
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+sajanaa bhuul naa jaanaa meraa pyaar
+in raaho.n me.n nain biChaae
+teraa karuu.Ngii intazaar
+sajanaa bhuul naa jaanaa meraa pyaar
+meraa pyaar\-3
+
+jab\- jab saajan phuul khile.nge
+dil ko naye kuCh dard mile.nge
+jii ko jalayegii baahaar
+sajanaa bhuul naa jaanaa meraa pyaar
+in raaho.n me.n nain biChaae
+teraa karuu.Ngii intazaar
+sajanaa bhuul naa jaanaa meraa pyaar
+meraa pyaar\-3
+
+jab tak din sa.ng raat rahegii\-2
+merii duaa tere saath rahegii
+karatii rahuu.Ngii mai.n pukaar
+sajanaa bhuul naa jaanaa meraa pyaar
+in raaho.n me.n nain biChaae
+teraa karuu.Ngii intazaar
+sajanaa bhuul naa jaanaa meraa pyaar
+meraa pyaar\-3
+
+#endindian
+\endsong

@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0554; Created on Jan 26, 2004
+%
+% vinay 6/10/3
+% 
+\startsong
+\stitle{dhuaa.N uThaa hai kahii.n aaG jal rahii hogii}%
+\film{Leela}%
+\year{2002}%
+\starring{Vinod Khanna, Dimple Kapadia}%
+\singer{Jagjit Singh}%
+\music{Jagjit Singh}%
+\lyrics{Gulzar}%
+% 
+% Audio on: Saregama
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 10 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+dhuaa.N uThaa hai kahii.n aag jal rahii hogii
+asiir-e-roshanii baahar nikal rahii hogii
+
+ye chaaro.n or se aate hue kaii daste
+jab ek duusare ke jism aake chhuute hai.n
+koii to haath milaakar nikal gayaa hogaa
+kisii kii mo.D pe ma.nzil badal gaii hogii
+
+harek roz nayaa aasamaan khulataa hai
+Khabar nahii.n hai ki kal din kaa ra.ng kyaa hogaa
+palak se paanii giraa hai to us_ko girane do
+koii puraanii tamannaa pighal rahii hogii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0290; Created on Jan 26, 2004
+%
+\startsong
+\stitle{chupake se dil me.n aa base rah ke nazar se duur duur}%
+\film{Bhaijan}%
+\year{1945}%
+\starring{Noorjehan, Meena, Anees Khatun, Karan Diwan}%
+\singer{Noorjehan/ Zeenat Begum}%
+\music{Shyamsunder}%
+\lyrics{Padatau Lakhanavii}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date : December 1, 2002
+% Comments: The song exists in two versions.
+%   Soundtrack version - Noorjehan
+%   78 rpm version - Zeenat Begum.
+%   Lyrics are from the second version.
+%
+%   NOOR-E-TARANNUM Series #31 (NJ) and GEETanjali (ZB) series.
+%
+\printtitle
+#indian
+%
+chupake se dil me.n aa base, rah ke nazar se duur duur
+jin ke qadam se ghar thaa ghar, hai.n vohii ghar se duur duur
+
+hogii naa kam ye bekalii, Dhuu.NDhe.nge ham galii galii
+chhaane.nge dar\-ba\-dar kii Kaak, aap ke dar se duur duur
+
+ham pe taras na khaa_iye, ghar me.n to apane aa_iye
+dekhe.nge dil kii aa.Nkh se, rah ke nazar se duur duur
+
+chupake se dil me.n aa base, rah ke nazar se duur duur
+%
+#endindian
+\endsong
+%

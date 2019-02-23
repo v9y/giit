@@ -1,0 +1,50 @@
+% ITRANS SONG #
+
+% Date: Thu, 18 Mar 2004 22:43:29 -0500
+% From: "Satish Kalra" <Satish.Kalra@comcast.net>
+
+\startsong
+\stitle{hariyaalaa bannaa aayaa re}%
+\film{Raziaa Sultaan}%
+\year{1983}%
+\starring{Hema Malini, Dharmendra}%
+\singer{Asha Bhosle, Jagjit Kuar, chorus}%
+\music{Khayyam}%
+\lyrics{Nida Fazli}%
+
+% Audio on: HMV LP/CD
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 18 Mar 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+hariyaalaa bannaa aayaa re hariyaalaa bannaa aayaa re
+choTii guu.ndhe ghaTaa, paa.Nv chuume hinaa
+maa.Ng motii bharii maathe jhuumar sajaa
+bannii ke jo man bhaayaa re
+hariyaalaa bannaa aayaa re
+
+mil gay_ii.n raahate.n
+jaag uThii.n kismate.n
+chho.D kar aasmaa.n aa ga_ii.n jannate.n
+huuro.n ne shagan gayaa re
+hariyaalaa bannaa\threedots
+
+devataao.n ke man hai.n Kushii se magan
+pii se milane chalii saj ke raziaa dulhan
+Kushiyo.n ke chaman laayaa re
+hariyaalaa bannaa\threedots
+
+yaa Kudaa ye Kushii ye masarrat rahe
+duulhaa dulhan kii jo.Dii salaamat rahe
+rahatii duniyaa talak ye muhabbat rahe
+saare aalam me.n malikaa kii azamat rahe
+rahamat kaa samaa.N chhaayaa re
+hariyaalaa bannaa\threedots
+
+#endindian
+\endsong

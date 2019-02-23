@@ -1,0 +1,40 @@
+% ITRANS SONG #
+
+% Date: Thu, 22 Apr 2004 17:14:48 -0500
+% From: Arunabha S Roy <asroyus@yahoo.com>
+
+\startsong
+\stitle{suunii raat me.n kho ga_e}%
+\film{Sannata}%
+\year{1966}%
+\starring{Tanuja}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{Gulzar}%
+
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 22 Apr 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+suunii raat me.n kho ga_e chaa.Nd ke saaye
+
+do akele chal rahe hai.n raat akelii chaa.Nd akelaa
+hamasafar do ajanabii the raat akelii chaa.Nd akelaa
+
+aawaaraa safar jaa_egaa kahaa.N
+viiraa.N hai zamii.n viiraa.N aasamaa.N
+do kinaare chal rahe hai.n raat akelii chaa.Nd akelaa
+
+aawaazo.n me.n hai sannaaTo.n kii dhun
+naGmo.n kii zubaa.N Kaamoshii hai sun
+do ishaare chal rahe hai.n raat akelii chaa.Nd akelaa
+
+do akele chal rahe hai.n \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0105; Created on Jan 26, 2004
+%
+% arunabha 5/28/3
+%
+\startsong
+\stitle{mere man ke maanasarovar me.n tum kamal samaan khile ho sajan}%
+\film{Bhagwan Parshuram}%
+\year{1970}%
+\starring{Abhi Bhattacharya, Jayshree T, Sulochana}%
+\singer{Asha}%
+\music{Jaikumar}%
+\lyrics{Madan}%
+%
+% Audio on: Asha Bhosle: My Favorites
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 22 May 2003
+% Series: GEETanjali
+% Comments:
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(mere man ke maanasarovar me.n
+tum kamal samaan khile ho sajan) \-2
+meraa pyaar ho tum mere praaN ho tum
+tum hii ho mere tan man jiivan
+mere man ke maanasarovar me.n \threedots
+ 
+tum prem kii su.ndar pratimaa ho
+sa.nsaar kii anupam rachanaa ho
+tumhe.n dekhake aisaa lagataa hai
+saakaar ho yaa ko_ii sapanaa ho
+TuuTe na janam\-janam mujhase
+tum baa.Ndh di_e aise ba.ndhan
+mere man ke maanasarovar me.n \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,49 @@
+% ITRANS SONG #
+
+% Date: Fri, 30 Jul 2004 23:09:36 -0700
+% From: Malini <malinikanth@hotmail.com>
+
+\startsong
+\stitle{niile aasamaanii, buujho to ye nainaa baabuu}%
+\film{Mr. and Mrs. 55}%
+\year{1955}%
+\starring{Gurudutt, Madhubala, Johnny Walker, Cuckoo}%
+\singer{Geeta}%
+\music{O P Nayyar}%
+\lyrics{Majrooh}%
+
+% Contributor: Malini Kanth
+% Transliterator: Malini Kanth
+% Date: 7/31/2004
+
+\printtitle
+#indian
+
+niile aasamaanii, niile aasamaanii
+buujho to ye nainaa baabu
+buujho to ye nainaa baabu kisake liye hai.n
+niile aasamaanii, niile aasamaanii
+
+apanii adaa_o.n kii mastii me.n chuur hai.n
+sabase ye milate hai.n par tujhase duur hai.n
+niile niile aur nashiile /-2
+jhuume.n laharaaye.n rang chhalakaaye.n
+ras ke do paimaane niile
+niile aasamaanii \threedots
+
+zindaadilo.n kii ye hai.n zindagaaniyaa.N
+kahate hai.n ye dha.Dakano.n kii kahaaniyaa.N
+niile niile aur nashiile /-2
+jhuume.n laharaaye.n rang chhalakaaye.n
+ras ke do paimaane niile
+niile aasamaanii \threedots
+
+inase jo milanaa hai duniyaa ko bhuul jaa
+dharatii pe rah ke bhii taaro.n pe jhuul jaa
+niile niile aur nashiile /-2
+jhuume.n laharaaye.n rang chhalakaaye.n
+ras ke do paimaane niile
+niile aasamaanii \threedots
+
+#endindian
+\endsong

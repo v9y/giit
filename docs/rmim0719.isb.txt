@@ -1,0 +1,33 @@
+% ITRANS SONG #
+
+% Arunabha S. Roy on 2/4/2004 5:47:48 PM
+
+\startsong
+\stitle{chhaliyaa terii baato.n baato.n me.n}%
+\film{Kinare Kinare}%
+\year{1963}%
+\starring{Dev Anand, Meena Kumari, Chetan Anand, Madhu, Ravikant}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Nyay Sharma}%
+
+% Contributor: Arunabha S. Roy
+% Date: 4 Feb 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+chhaliyaa terii baato.n baato.n me.n
+mai.n bharamaa gayii re
+
+jiyaraa milan kii priit navelii
+jab mai.n samajhii priit pahelii
+laaj merii haay laaj merii mohe khaa ga_ii re
+terii baato.n me.n \threedots
+
+chhal khaa ga_ii re bharamaa ga_ii re sharmaa ga_ii re
+terii baato.n baato.n me.n
+
+#endindian
+\endsong

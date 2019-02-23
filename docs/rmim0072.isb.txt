@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0072; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-10-14 11:18:20 PST 
+%
+\startsong
+\stitle{aaj kyo.n ham se pardaa hai}%
+\film{Saadhanaa}%
+\year{1958}%
+\starring{Vyjayantimala, Sunil Dutt, Leela Chitnis}%
+\singer{Rafi, S Balbir, Chorus}%
+\music{N Dutta}%
+\lyrics{Sahir}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+%
+\printtitle
+#indian
+%
+aaj kyo.n ham se pardaa hai, pardaa hai jii
+aaj kyo.n ham se pardaa hai \-3
+aaj kyo.n ham se pardaa hai pardaa hai jii
+aaj kyo.n ham se pardaa hai
+
+teraa har ra.ng hamane dekhaa hai
+teraa har Dha.ng hamane dekhaa hai
+paas aakar bhii tujhako dekhaa hai
+duur jaakar bhii tujhako dekhaa hai
+tujhako har tarah aazamaayaa hai
+paake khoyaa hai khoke paayaa hai
+a.Nkha.Diyo.n kaa bayaa.N samajhate hai.n
+dha.Dakano.n kii zabaa.N samajhate hai.n
+chuu.Diyo.n kii khanak se vaaqif hai.n
+jhaa.Njhano.n kii jhanak se vaaqif hai.n
+naaz\-o\-a.ndaaz jaanate hai.n ham
+teraa har raaz jaanate hai.n ham \- phir ?
+aaj kyo.n ham se pardaa hai pardaa hai jii
+aaj kyo.n ham se pardaa hai \threedots
+
+dil dukhaane se faayadaa kyaa hai
+mu.Nh chhupaane se faayadaa kyaa hai
+ulajhii\-ulajhii laTe.n sa.Nvaarake aa
+husn ko aur bhii nikhaarake aa
+narm gaalo.n me.n bijaliyaa.N lekar
+shoK aa.Nkho.n me.n titaliyaa.N lekar
+%
+#endindian
+\endsong
+%

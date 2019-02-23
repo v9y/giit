@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0444; Created on Jan 26, 2004
+%
+% sudhir 10/22/3
+%
+\startsong
+\stitle{tum gaye luT gayaa pyaar kaa ye jahaa.N}%
+\film{non-Film}%
+\year{1950s}%
+\starring{}%
+\singer{Sandhya Mukherjee}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Sudhir, 22/10/2003
+% iTranslator: V S Rawat, 27/01/2004
+%
+\printtitle
+#indian
+%
+tum gaye luT gayaa pyaar kaa ye jahaa.N
+na rahii wo Kushii  na rahe aramaan
+tum gaye luT gayaa \threedots
+
+meri aa.Nkho.n se tum roshanii le gaye
+mere ho.NTho.n se tum sab ha.Nsii le gaye
+ab nahii.n zindagi  zindagi wo kahaa.N
+
+wo bahaare.n ga_ii.n,  wo nazaare gaye
+merii raato.n se wo chaa.Nd taare gaye
+chaa.ndinii na merii,  na meraa aasamaan
+tum gaye luT gayaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0067; Created on Jan 26, 2004
+%
+% arun iyengar 9/26/3
+%
+\startsong
+\stitle{aakaash ke us paar bhii aakaash hai.n}
+\film{non-Film}%
+\year{1994}%
+\singer{Lata, Chorus}%
+\music{Hridayanath Mangeshkar}%
+\lyrics{Gulzar}%
+%
+% Audio on: http://www.geocities.com/iyengar_arun/aakaash_ke.mp3
+% Contributor: Arun Iyengar
+% Transliterator: Arun Iyengar
+% Date: 26 Sep 2003
+% Series: LATAnjali
+%
+\printtitle
+#indian
+%
+aakaash ke us paar bhii aakaash hai.n \-2
+aakaash pe bahate samay kii tarah
+bahate raho jaise bahe ye havaa
+aakaash ke us paar bhii aakaash hai.n
+
+jharate raho baadal jhare jis tarah \-2
+dariyaa muDe pairo.n tale jis tarah
+saagar me.n bhii gir ke kabhii khaalii na ho
+aakaash ke us paar bhii  \threedots
+
+aanaa bhii hai jaanaa bhii hai har dafaa \-2
+chalate raho mausam chale jis tarah
+koii nahii.n aaye agar atla?? chalo
+aakaash ke us paar bhii  \threedots
+
+aa aa aa aa aa aa aa aa aa
+%
+#endindian
+\endsong
+%

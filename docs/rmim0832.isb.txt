@@ -1,0 +1,47 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{merii sakhii bataa terii pii bin}%
+\film{Hangaamaa}%
+\year{1952}%
+\starring{Nutan, Nasir Khan}%
+\singer{Rafi, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: Sathya Sekar
+% Transliterator: Sathya Sekar
+% Date: 25 Oct 2004
+% Series: GEETanjali
+% Comments: A charming piece - beautifully rendered by both the singers !
+% Credits: Satish Kalra, Neha Desai
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ra: merii sakhii bataa
+chi:     kyaa bataa_uu.N
+ra: merii sakhii bataa
+    terii pii bin kaisii guzarii raat re
+chi: kyaa kahuu.N piyaa
+ra:     are bhaa_ii kuCh bhii kah do
+chi: kyaa kahuu.N piyaa a.Nkhiyo.n me.n kaTii
+    merii sagarii raat re
+ra: merii sakhii bataa
+    terii pii bin kaisii guzarii raat re
+chi: kyaa kahuu.N piyaa a.Nkhiyo.n me.n kaTii
+    merii sagarii raat re
+
+ra: merii sakhii se hu_ii taqaraar chho.D ga_ii gharabaar
+    raat hu_ii to yaad sakhii kii aa_ii baara.nbaar
+    man pachhataayaa jii bhar aayaa mat puuchho baat re
+    merii sakhii bataa...
+
+chi: mai.n bhor bhaye tak jaagii mohe zaraa nii.nd naa laagii
+    mai.n soch soch ho ga_ii baa.Nvariyaa kaahe sajan se bhaagii
+    mujhe gha.Dii gha.Dii kahe moraa jiyaa terii paapan zaat re
+ra: merii sakhii bataa...
+
+#endindian
+\endsong

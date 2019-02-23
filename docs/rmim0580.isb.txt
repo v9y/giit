@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% Date: Sun, 1 Feb 2004 07:37:18 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{kuukat koyaliyaa ku.njan me.n}%
+\film{Bharthari}%
+\year{1944}%
+\starring{Surendra, Mumtaz Shanti, Jahanara Kajjan, Arun, Sulochana Chatterjee}%
+\singer{Jahanara Kajjan}%
+\music{Khemchand Prakash}%
+\lyrics{Pt Indra}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  01 Feb 2004
+% Credits  : Kamalakar Pasupuleti
+%            Sanjeev Ramabhadran
+%            Har Mandir Singh
+% Comments : Geetanjali Series
+%    Bhartruharii / Bharthari . Naveen Pictures.
+%    Director - Chaturbhuj Doshi.
+%    The song is based on Brindavani Sarang.
+%
+\printtitle
+#indian
+%
+kuukat koyaliyaa ku.njan me.n
+kaun gha.Dii tuu aake aTariyaa
+bolii bairaniyaa
+
+mere ghar par basa.nt meraa
+sahuu.Nnaa gumaan teraa
+piyaa rijhaane de ab mohe
+jaa rii sautaniyaa
+
+saa.Njh savere kuuk koyaliyaa
+kuuk na aadhii ratiyaa
+aadhii raat more rasiyaa soye
+phuulan sejariyaa
+%
+#endindian
+\endsong
+%

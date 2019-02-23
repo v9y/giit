@@ -1,0 +1,61 @@
+% ITRANS SONG # rmim0028; Created on Jan 26, 2004
+%
+%      From: Anand Srinivasan (anands@anderson.cs.unc.edu)
+%      Date: 2003-01-20 07:40:27 PST 
+%
+\startsong
+\stitle{dil kii kalii yuu.N hii sadaa khilatii rahe ha.Nsatii rahe}
+\film{Inkaar}
+\year{1977}
+\starring{Vinod Khanna, Vidya Sinha, Amjad Khan, Helen}
+\singer{Rafi, Chorus}
+\music{Rajesh Roshan}
+\lyrics{Prem Dhawan}
+%
+% Contributor: Anand Srinivasan
+% Transliterator:
+%
+\printtitle
+#indian
+%
+#Rafi:#
+(la la la la la) \- 2
+
+#chorus (children):#
+(Du ru Daa raa Du ru Daa raa Du ru Du ru Du ru Du) \- 2
+
+#Rafi:#
+(dil kii kalii yuu.N hii sadaa
+khilatii rahe ha.Nsatii rahe
+bagiyaa tumhaarii mahakatii rahe) \- 2
+
+#?:#
+bhaabhii
+
+#Rafi:#
+shaadiyaa.N kar chuke jitane bhii yaar the
+ek ham rah gaye taaliyaa.N maarate
+gar duaa hai dosto.n kii
+mahafil to sajatii rahe
+
+#chorus (children):#
+(la la \threedots
+Du ru \threedots) \- 2
+
+#Rafi:#
+ye jo hai biich me.n chaa.Nd saa laaDalaa
+do dilo.n ke jawaa.N pyaar kaa silasilaa
+isake jiivan me.n khushii kii
+barakhaa barasatii rahe
+
+#Rafi:#
+(la la \threedots) \- 2
+
+#chorus (children):#
+(Du ru \threedots) \- 2
+
+dil kii kalii \threedots
+%
+#endindian
+\endsong
+%

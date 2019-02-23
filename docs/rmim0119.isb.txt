@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0119; Created on Jan 26, 2004
+%
+% Arunabha 9/15/3
+% 
+\startsong
+\stitle{pyaas thii phir bhii taqaazaa na kiyaa}%
+\film{Aalingan/ The Embrace}%
+\year{1974}%
+\starring{Romesh Sharma, Zahira}%
+\singer{Manna Dey}%
+\music{Jaidev}%
+\lyrics{Jan Nisar Akhtar}%
+% 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 15 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+pyaas thii phir bhii taqaazaa na kiyaa
+jaane kyaa sochake aisaa na kiyaa
+
+ba.Dhake haatho.n pe uThaa lenaa thaa
+tujhako siine se lagaa lenaa thaa
+tere ho.nTho.n se tere gaalo.n se
+mujhako har ra.ng churaa lenaa thaa
+jaane kyaa sochake aisaa na kiyaa
+
+haath aa.Nchal se jo Takaraa jaataa
+ek ra.ngiin nashaa saa chhaa jaataa
+tere siine pe khulii zulfo.n ko
+chuum letaa to qaraar aa jaataa
+jaane kyaa sochakar aisaa na kiyaa
+%
+#endindian
+\endsong
+%

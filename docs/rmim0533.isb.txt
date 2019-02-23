@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0533; Created on Jan 26, 2004
+%
+% urzung khan 12/16/3
+%
+\startsong
+\stitle{sun we balorii akh waalyaa}%
+\film{Pakistani-film(Anwra)}%
+\year{1970}%
+\starring{}%
+\singer{Noorjehan}%
+\music{Tafoo}%
+\lyrics{Khawja Parvez}%
+%
+% Contributor: <Urzung Khan>, 12/16/3
+%
+\printtitle
+#indian
+%
+sun we balorii akh waalyaa
+assa.N dil tere naal laa lyaa
+terii maharbaanii, mere haanii, meraa ban jaa
+
+dil agge ik naiyo.n chaladii
+saa.Nwaa.N ch ag ja_ii baladii
+dhokhaa jawaanii hattho.n khaa lyaa
+chup kiite dil nuu.N ga.Nwaa lyaa
+
+lukyaa nayii.N rah.Ndaa kadii pyaar we
+zid chaD kar iqraar we
+sohanyaa.N tuu.N ba.Daa chir Taalyaa
+had kolo.n buhtaa azmaa lyaa
+
+Ghairaa.N waa.ng saanuu.N naa tuu.N mil we
+qadmaa.n ch rakh daa.N gii dil we
+kadii je tuu.N has ke bulaa lyaa
+mai.nuu.N jad apanaa banaa lyaa
+%
+#endindian
+\endsong
+%

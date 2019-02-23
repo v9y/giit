@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0111; Created on Jan 26, 2004
+%
+% arunabha 8/27/3
+%
+\startsong
+\stitle{mere dil me.n terii tasaviir sadaa rahatii hai}%
+\film{Ek Hans Ka Jodaa}%
+\year{1975}%
+\starring{Anil Dhawan, Zahira, Utpal Dutt, Indrani Mukherjii}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Indeevar}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 27 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+mere dil me.n terii tasaviir sadaa rahatii hai
+merii taqadiir me.n tuu hai yaa nahii.n kyaa jaanuu.N
+
+tere haatho.n kii haraarat hai mere haatho.n me.n 
+Kvaab banakar tuu bas gayaa hai merii raato.n me.n
+mai.n tasavvur me.n tere huu.N yaa nahii.n kyaa jaanuu.N
+
+pyaar ke phuul nigaaho.n me.n khilaa karate the
+kabhii ham tum yahii.n har roz milaa karate the
+phir tere man me.n mile.nge yaa nahii.n kyaa jaanuu.N
+
+phir yuu.N hii chaa.Nd ke mukha.De pe javaanii hogii
+phir yuu.N hii jhuumatii nadiyo.n me.n rawaanii hogii
+tuu mere saamane hogaa yaa nahii.n kyaa jaanuu.N
+%
+#endindian
+\endsong
+%

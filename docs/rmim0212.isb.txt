@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0212; Created on Jan 26, 2004
+%
+% nani 8/5/03
+%
+\startsong
+\stitle{ban ke suhaagan rahii abhaagan}%
+\film{Aadhi Raat}%
+\year{1950}%
+\starring{Nargis, Ashok Kumar, Jeevan, Kuldeep, Kukku}%
+\singer{Lata}%
+\music{Husnlal-Bhagatram}%
+\lyrics{Sarshar Sailani}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 05 Aug 2003
+% Credits: UVR
+% Comments: Latanjali Series
+% film - aadhii raat
+%
+\printtitle
+#indian
+%
+ban ke suhaagan, rahii abhaagan
+phuuT ga_ii taqadiir merii
+phuuTii hu_ii taqadiir ke aage
+chal na sakii tadabiir merii
+
+dil me.n aag aa.Nkho.n me.n paanii
+haay merii barabaad jawaanii
+kisako sunaa_uu.N Gam kii kahaanii
+kaun ba.Ndhaa_e dhiir merii
+
+Kuun ke aa.Nsuu piitii huu.N mai.n
+maut kii aas pe jiitii huu.N mai.n
+isake sivaa ai duniyaa waalo
+ko_ii nahii.n taqadiir merii
+%
+#endindian
+\endsong
+%

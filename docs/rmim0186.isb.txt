@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0186; Created on Jan 26, 2004
+%
+\startsong
+\stitle{baras baras badalii bhii bikhar ga_ii}%
+\film{Gajre}%
+\year{1948}%
+\starring{Suraiya, Motilal, Geeta Nizami}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{G S Nepali}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 03 feb 2003
+% Credits: Hamraaz Sahab
+% Comments: Latanjali Series. Film 'gajare'
+%
+\printtitle
+#indian
+%
+% prelude
+kab aaoge, kab aaoge
+kab aaoge, baalamaa
+
+baras baras badalii bhii bikhar ga_ii
+ab kab aa_o_ge, baalamaa
+
+pashchim se puurab aa ke megh ga_e jhuum ke
+tum nahii.n aa_e paapii parades ghuum ke
+megh ga_e jhuum ke
+taras taras a.Nkhiyaa.N bhii nikhar ga_ii
+ab kab aaoge, baalamaa
+
+tum ko bedard baalam mujh se jii churaanaa hai
+merii uma.nge.n na_ii, dard puraanaa hai
+mujh se bhii puraanaa hai
+ubhar ubhar meha.ndii bhii utar ga_ii
+ab kab aaoge, baalamaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,55 @@
+% ITRANS SONG # rmim0218; Created on Jan 26, 2004
+%
+% nani 8/24/3
+%
+\startsong
+\stitle{tuu cha.Ndaa mai.n chaa.Ndanii ho teraa meraa meraa teraa}%
+\film{Papiha Re}%
+\year{1948}%
+\starring{Akhtari, Amarnath, G N Butt, Asha Posle}%
+\singer{Dhani Ram, Zeenat Begum}%
+\music{Dhani Ram}%
+\lyrics{Mulk Raj Bhakhri}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 24 aug 2003
+% Credits: Satish Kalra
+% Comments: Geetanjali Series / papiihaa re
+%
+\printtitle
+#indian
+%
+ziinat:
+tuu cha.Ndaa mai.n chaa.Ndanii
+ho teraa meraa, meraa teraa
+janam janam kaa saath
+haath paka.D kar chho.D na denaa
+rahe haath me.n haath hamaaraa
+
+ziinat:
+mai.n baaGo.n kii moranii
+aur tuu ghaTaa ghanaghor
+mai.n sajan terii baawarii
+aur tuu meraa chitachor
+mai.n pyaasii ik ku.nj huu.N
+saajan, tuu merii barasaat
+
+dhanii raam:
+ho.a.a aan basii tuu dil me.n mere
+jaise phuul me.n baas
+in naino.n ko har dam laagii
+tere daras kii pyaas
+tere binaa mohe kuchh naa bhaaye
+bhuul gayaa har baat
+
+dono.n:
+mil ke na bichha.De do dil saajan
+aisaa hove pyaar
+bhuul se bhii patajha.D na aae
+har dam rahe bahaar
+ham tum dono.n jab mil baiThe.n
+rahe sadaa phir raat
+%
+#endindian
+\endsong
+%

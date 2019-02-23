@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0167; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-07 22:55:12 PST
+%
+\startsong
+\stitle{duniyaa me.n Gariibo.n ko}%
+\film{Zamindar}%
+\year{1942}%
+\starring{Shanta Apte, Manorama, Ghulam Mohammed}%
+\singer{Shamshad}%
+\music{Ghulam Haider}%
+\lyrics{Behzaad Lakhnavi, Qamar Jalalabadi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 07 jan 2003
+% Credits: Urzung Khan
+% Comments: Geetanjali Series.
+%    The film booklet mentions only Behzaad as the
+%    song's lyricist; but according to Qamar Jalalabai,
+%    this is his first Hindi Film song. Behzaad only added
+%    the last line or two.
+%
+\printtitle
+#indian
+%
+duniyaa me.n Gariibo.n ko aaraam nahii.n milataa
+rote hai.n to ha.Nsane kaa paiGaam nahii.n milataa
+
+Gurabat kii kahaanii hai aa.Nkho.n kii zubaanii hai
+aaGaaz ko rote hai.n a.njaam nahii.n milataa
+
+sau jaam Gariibii ke qisamat ne pilaaye hai.n
+jis jaam me.n raahat hai wo jaam nahii.n milataa
+
+jo ko_ii bhii aataa hai Thokar hii lagaataa hai
+mar ke bhii Gariibo.n ko aaraam nahii.n milataa
+%
+#endindian
+\endsong
+%

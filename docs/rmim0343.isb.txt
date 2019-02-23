@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0343; Created on Jan 26, 2004
+%
+%      From: Prithviraj Dasgupta (prithvi_dg@yahoo.com)
+%      Date: 2002-05-05 19:10:37 PST 
+%
+\startsong
+\stitle{aaj sharaabii aa.Nkho.n se piine kii ham ne Thaanii}%
+\film{non-Film}%
+\year{1945s}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Comments: Approx. year sounds to be mid 40s
+% Date: Dec 27, 2000
+%
+\printtitle
+#indian
+%
+aaj sharaabii aa.Nkho.n se 
+piine kii ham ne Thaanii
+ab saaqii se kaam nahii.n hai.n 
+pyaaraa ham ko jaam nahii.n hai.n
+ab to saaqii aur saaqar hai.n
+do aa.Nkhe.n mastaanii
+
+rishtaa to.Daa maiKaane se
+naataa to.Daa paimaane se
+pyaasii nazar ne jab se dekhii
+ek sar\-shaar javaanii
+
+kahaa.N vo mastii hai.n saagar me.n
+jo terii madamaatii nazar me.n
+in aa.Nkho.n me.n amR^it hai.n
+pyaale me.n laal paanii
+aaj sharaabii aa.Nkho.n se \threedots
+%
+#endindian
+\endsong
+%

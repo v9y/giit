@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0135; Created on Jan 26, 2004
+%
+% From: Arunabha S Roy (asroyus@yahoo.com)
+% Date: 2003-10-23 11:58:48 PST
+%
+\startsong
+\stitle{moko piihar me.n mat chhe.D re baalam}%
+\film{Mujhe Jeene Do/ Cry for Life}%
+\year{1963}%
+\starring{Sunil Dutt, Waheeda Rehman}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Traditional}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 22 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+moko piihar me.n mat chhe.D re baalam
+bhar le dhiire jigariyaa me.n
+
+bharii jawaanii morii dekhake baalam
+(mohe chhe.Do na) \-2
+raajaa biich Dagariyaa me.n
+
+tumaro sasuro maay ko mero
+(vo to jag rahii) \-2
+bhaavaj koThariyaa me.n
+
+bhor hot tore sa.ng chaluu.Ngii
+(phir rahuu.Ngii mai.n)\-2
+raajaa  tumharii aTariyaa me.n
+%
+#endindian
+\endsong
+%

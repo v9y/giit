@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% Date: Sun, 8 Feb 2004 10:15:01 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{ek baar chale aao  phir chaahe na aanaa}%
+\film{Pyar Ki Raat}%
+\year{1949}%
+\starring{Bhagwan, Baburao, Vasantrao}%
+\singer{Lata Devi}%
+\music{N A Jalgaonkar}%
+\lyrics{}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  08 Feb 2004
+% Credits  : Hamraaz
+% Comments : Geetanjali Series urf Lata-devi-anjali
+%    The OTHER song (Theme) : by some OTHER Lata.
+%    Navshakti Pict. Dir - A R Zamindar.
+%
+\printtitle
+#indian
+%
+ek baar chale aao  phir chaahe na aanaa
+kuchh tum bhii mere dil kii bechainiyaa.N le jaao
+
+tasabiir muhabbat kii ham ne to banaa Daalii
+miT jaaye to daamanase tum us ko miTaa jaao
+
+jo kahane ko jii chaahe lekin na kahii jaaye
+wo kis kii kahaanii hai itanaa to bataa jaao
+
+mushkil se jo roke hai.n wo ashk na bah jaaye
+itanaa to in aa.Nkho.n ko samajhaane chale aao
+
+% the next stanza is noted in the film's booklet
+% but it was not included on the 78.
+huu.N shamaa magar jisane parawaanaa banaa Daalaa
+dil jis ne jalaa Daalaa wo aag bujhaa jaao
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+% ITRANS SONG #
+
+% Sathya Sekar on 8/7/2004 11:40:02 PM
+
+\startsong
+\stitle{lagaa hai kuCh aisaa nishaanaa kisii kaa}%
+\film{Sipahiya}%
+\year{1949}%
+\starring{Madhubala, Yaqoob, Agha}%
+\singer{Lata, Chitalkar}%
+\music{C Ramchandra}%
+\lyrics{Banvaasi}%
+
+% Contributor: Sathya Sekar
+% Transliterator: Sathya Sekar
+% Date: 7 Aug 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+L : lagaa hai kuCh aisaa nishaanaa kisii kaa
+	ye dil ho gayaa hai diivaanaa kisii kaa
+
+C :	mere hosh jaate rahe dekhate hii
+	qayaamat haavas(?) muskuraanaa kisii kaa
+	
+L :	koii man me aakar ke aise basaa hai
+	ki mushkil huaa bhulaanaa kisii kaa
+
+C :	milii un se aa.Nkhe.n to bijalii sii taDapii
+L :	milii un se aa.Nkhe.n to bijalii sii taDapii
+	kuCh aisaa thaa aa.Nkhe.n laDaanaa kisii kaa
+	ye dil ho gayaa hai diivaanaa kisii kaa
+
+#endindian
+\endsong

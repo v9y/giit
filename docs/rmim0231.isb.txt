@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0231; Created on Jan 26, 2004
+%
+% nani 1/10/4
+%
+\startsong
+\stitle{ho gaye barabaad ham unakii Kushii to ho ga_ii}%
+\film{Ramman / Kamini}%
+\year{1954 not released}%
+\starring{Meena, Karan Diwan, Kukku, Agha Miraaz, Om Prakash}%
+\singer{Talat}%
+\music{Vinod}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 09 January 2004
+% Credits: UVR
+% Comments: Geetanjali Series
+% lyricist - aziz/azeez/aziiz kashmiirii
+% Gemini Dewan (/ Diwan) Productions
+% The song was originally recorded for the unreleased
+% film Kaaminii in Aug/Sept 1949; it was later used
+% in Ramman. The film Kamini is covered only in the
+% first edition of vol 3 (1951-60) of the Geet Kosh.
+% The second edition just mentions it in passing on
+% page 593. The '40s edition does not mention 'Kamini'
+% because the film's correct date was discovered after
+% its publication in 1984.
+%
+\printtitle
+#indian
+%
+ho gaye barabaad ham unakii Kushii to ho ga_ii
+pyaar me.n naakaam apanii zi.ndagii to ho ga_ii
+
+haay re dil kii lagii se jal uThe Gam ke chiraaG
+ghar a.Ndheraa thaa, chalo, kuchh roshanii to ho ga_ii
+
+aa.Nsuuo.n ne apanii aa.Nkho.n me.n baseraa kar liyaa
+ha.Nsanewaale dekh le, terii ha.Nsii to ho ga_ii
+%
+#endindian
+\endsong
+%

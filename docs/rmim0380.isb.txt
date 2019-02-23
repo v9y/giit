@@ -1,0 +1,54 @@
+% ITRANS SONG # rmim0380; Created on Jan 26, 2004
+%
+\startsong
+\stitle{chhupaa chhupii o chhupii}%
+\film{Saveraa}%
+\year{1958}%
+\starring{Ashok Kumar, Meena Kumari}%
+\singer{Lata, Manna Dey, Chorus}%
+\music{Sailesh}%
+\lyrics{Shailendra}%
+%
+% Contributor :  Satish Kalra
+% Date : 3/21/2003
+% Credits  : Nani Wadekar
+% Comments : LATAanjali Series
+%
+\printtitle
+#indian
+%
+lataa :  chhuppaa chhuppii, o chhuppii, aaga.D baaga.D jaaii re
+         chuuhe maamaa, o maamaa, bhaag, billii aa_ii re
+koras :  chhuppaa chhuppii, o chhuppii, aaga.D baaga.D jaaii re
+         chuuhe maamaa, o maamaa, bhaag, billii aa_ii re
+mannaa : billii bolii myaa.Nv kaahe ghabaraa_o
+         mai.n to chalii kaashii gale mil jaa_o
+lataa :  o chhuppaa chhuppii \threedots
+koras :  lallalalla lallallaa \threedots
+mannaa : bam bam bam bam bamabam bam \threedots  myaa.Nv \threedots
+
+lataa :  mat ham ko banaa arii mausii
+         tere dil me.n zaruur hai kaalaa
+koras :  mat ham ko banaa arii mausii
+         tere dil me.n zaruur hai kaalaa
+lataa :  kisii aur ko dikhalaa jaake
+         ye jog ye ka.nThii maalaa
+koras :  kisii aur ko dikhalaa jaake
+         ye jog ye ka.nThii maalaa
+mannaa : raam kaa naam lo   aa.Nkh se kaam lo
+         raam kaa naam lo   aa.nkh se kaam lo
+         kal jo huaa thaa   bhuul jaao bhuul jaao
+lataa :  chhuppaa chhuppii  \threedots
+
+mannaa : mai.n to raam kii jogan apanaa
+         paralok sudhaaran jaa_uu.N
+         aaKir to buDhaapaa Thaharaa
+         ab lauT ke aa_uu.N na aa_uu.N
+lataa :  daa.nt bhii tez tere pa.nje bhii tez hai.n
+         daa.nt bhii tez tere pa.nje bhii tez hai.n
+         man me.n wahii hai   daav lage to lagaa_o
+lataa :  chhuppaa chhuppii  \threedots
+%
+#endindian
+\endsong
+%

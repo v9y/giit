@@ -1,0 +1,41 @@
+% ITRANS SONG #
+
+% Date: Sun, 25 Apr 2004 16:05:50 +0100
+% From: "nishay" <nishay@blueyonder.co.uk>
+
+\startsong
+\stitle{darapan jhuuTh na bole}%
+\film{Darpan}%
+\year{1970}%
+\starring{Sunil Dutt, Waheeda Rehman}%
+\singer{Manna Dey}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+
+% Contributor: Uday Patel, 25 Apr 2004
+% Comments: GEETanjali series
+
+\printtitle
+#indian
+
+darapan juuTh naa bole
+jo sach thaa tere saamane aayaa
+hasale chaahe role
+
+ba.Ndhan tooDaa jaa sakataa hai
+jaga ko ChoDaa jaa sakataa hai
+apane aapase bhaaga rahe ho
+tuma ho kitane bhole
+
+duura kinaaraa TuuTii naiiyaa
+lekin puuChe ye puravaiiyaa
+apane aapa bane tum maajhii
+phira kaahe mana Dole
+
+ai_sii jiivana kii batiyaa
+yaato ye manamiich le akhiyaa
+yaa phir naa ghabharaa_e jab
+sacchaayii ghuu.nghaT khole
+
+#endindian
+\endsong

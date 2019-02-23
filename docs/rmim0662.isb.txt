@@ -1,0 +1,47 @@
+% ITRANS SONG #
+
+% Date: Fri, 6 Aug 2004 16:13:30 -0700
+% From: Malini <malinikanth@hotmail.com>
+
+\startsong
+\stitle{##What's your problem## ... kyaa hai teraa Gam bataa}%
+\film{Kalyug}%
+\year{1981}%
+\starring{Shashi Kapoor, Rekha, Supriya Pathak, Anant Nag}%
+\singer{Preeti Sagar}%
+\music{Vanraj Bhatia}%
+\lyrics{Balwant Tandon}%
+
+% Contributor: Malini Kanth, 6 Aug 2004
+% Transliterator: V S Rawat
+
+\printtitle
+#indian
+
+##What's your problem##
+kyaa hai teraa Gam bataa
+zindagii ko yuu.N na dekh
+tuu kha.Daa
+
+pyaar teraa, teraa
+kho gayaa, gayaa
+pyaar teraa kho gayaa
+dilarubaa nahii.n milaa
+ye to hai aisii sazaa
+jisakaa hai apanaa mazaa
+kyaa hai teraa Gam bataa
+Gam bataa
+##What's your problem##
+
+dil agar, agar
+TuuTaa teraa, teraa
+dil agar TuuTaa teraa
+to sitam kyaa hu_aa
+???????
+???????
+kyaa hai teraa Gam bataa
+Gam bataa
+##What's your problem##
+
+#endindian
+\endsong

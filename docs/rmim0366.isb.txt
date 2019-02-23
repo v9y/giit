@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0366; Created on Jan 26, 2004
+%
+%      From: Nimish (WarAgainstSpam@asu.edu)
+%      Date: 2003-03-25 21:04:01 PST 
+%
+\startsong
+\stitle{rimajhim rimajhim pa.De phuhaar teraa meraa nit kaa pyaar}%
+\film{Pakistani-Film(Koel)}%
+\year{1959}%
+\starring{Noorjehan, Aslam Parvez, Nilo, Nazar, Allauddin, Sahira}%
+\singer{Noorjehan, Munir Hussain}%
+\music{Khurshid Anwar}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Pulkit Sharma
+% Transliterator: Nimish Pachapurkar
+% Date: 25 Mar 2003
+% Series: NOOR-E-TARANNUM #45
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+nuur jahaa.N :
+rimajhim rimajhim pa.De phuhaar, teraa meraa nit kaa pyaar
+jhan\-jhan baaje man ke taar, teraa meraa nit kaa pyaar
+
+nuur jahaa.N : aae mere paas tuu aise duur kabhii naa jaae
+muniir : murajhaaye.n naa khil ke kaliyaa.N aisii bhii rut aae
+nuur jahaa.N : aae naa patajha.D rahe bahaar,
+dono.n : teraa meraa nit kaa pyaar
+
+nuur jahaa.N :
+aa bachapan ke bichha.De saathii kyuu.N mujh ko tarasaae
+umr guzaarii ro ro mai.nne kaahe der lagaae
+saamane aa jaa phir ik baar, teraa meraa nit kaa pyaar
+%
+#endindian
+\endsong
+%

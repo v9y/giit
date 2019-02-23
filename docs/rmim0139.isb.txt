@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0139; Created on Jan 26, 2004
+%
+% arunabha 10/30/3
+%
+\startsong
+\stitle{pyaar hai amR^it kalash ambar tale}%
+\film{Trikon Kaa Chauthaa Kon}%
+\year{1983}%
+\starring{Vijayendra Ghatge, Priyadarshinee, Swaroop Sampat}%
+\singer{Shobha Joshi}%
+\music{Jaidev}%
+\lyrics{Shahryar/ Maya Govind/ Mahadevi Verma?}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 27 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+pyaar hai amR^it kalash ambar tale
+pyaar baa.NTaa jaa_e jitanaa baa.NT le
+                                                                               
+ek suuraj vishva ko kiraNe.n luTaataa hai
+ek jharanaa pyaas kitano.n kii bujhaataa hai
+pyaar maanav ke liye varadaan hotaa hai
+pyaar maanav ke liye bhagavaan hotaa hai
+pyaar kaa diipak sadaa \-2
+dil me.n jale
+pyaar baa.NTaa jaa_e jitanaa baa.NT le
+                                                                               
+pyaar hai amR^it kalash ambar tale
+%
+#endindian
+\endsong
+%

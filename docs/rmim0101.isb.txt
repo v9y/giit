@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0101; Created on Jan 26, 2004
+%
+% arunabha 4/28/3
+%
+\startsong
+\stitle{hari din to biitaa shaam hu_ii raat paar karaa de}%
+\film{Kitaab}%
+\year{1977}%
+\starring{Uttam Kumar, Vidya Sinha, Master Raju}%
+\singer{Rajkumari}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Arunabha S. Roy
+% Credits: Vinay P. Jain
+% Transliterator: Arunabha S. Roy
+% Date: Apr 28, 2003
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+hari din to biitaa shaam hu_ii raat paar karaa de
+biitaa meraa kaal to biitaa kuul paar karaa de
+
+mai.nne saath liyaa naa ko_ii doshaalaa naa lo_ii
+apane chhuuTe sapane chhuuTe aashaa aur chhu.Daa de
+
+daataa tere dvaar kha.Dii huu.N maa.Nguu.N mukti daan
+ba.ndhu chhuuTe ba.ndhan chhuuTe chhor paar karaa de
+%
+#endindian
+\endsong
+%

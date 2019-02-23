@@ -1,0 +1,47 @@
+% ITRANS SONG #
+
+% Arunabha S Roy on 5/7/2004 2:37:36 PM.
+
+\startsong
+\stitle{jo mere pyaar par ho shak to kar lo saaf dil beshak}%
+\film{Ek Thi Reeta}%
+\year{1971}%
+\starring{Tanuja, Vinod Mehra}%
+\singer{Asha, Rafi}%
+\music{Jaidev}%
+\lyrics{Prem Jalandhari}%
+
+% Contributor: Arunabha S. Roy
+% Date: 7 May 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ra: jo mere pyaar par ho shak to kar lo saaf dil beshak
+tumhii.n se pyaar karate hai.n,
+dariich\-e\-shak dariich\-e\-shak \-2
+
+aa: kisii ko ho bhalaa kyo.n shak yaqii.n kar le.n vo ab beshak
+ke ham bhi pyaar karate hai.n
+dariich\-e\-shak dariich\-e\-shak \-2
+
+ra: kuchh to duniyaa me.n aap the tanhaa
+aur kuchh hame.n aap kii zaruurat thii
+bas yuu.N hii mil ga_e doraahe par
+hai yahii daastaa.N mohabbat kii
+agar ho phir bhii tumako shak
+to le lo imtihaa.N beshak
+dariich\-e\-shak dariich\-e\-shak \-2
+
+aa: pyaar kii baat kaa bharosaa kyaa
+mard kii zaat kaa bharosaa kyaa
+aaj vaado.n pe aitabaar to hai
+kal ke haalaat kaa bharosaa kyaa
+nahii.n ab tak hame.n kuchh shak
+bharosaa kiijiye beshak
+ke ham bhii pyaar karate hai.n
+dariich\-e\-shak dariich\-e\-shak \-2 \threedots
+
+#endindian
+\endsong

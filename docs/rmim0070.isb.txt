@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0070; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-10-01 13:08:31 PST 
+%
+\startsong
+\stitle{mahalo.n kaa raajaa milaa}%
+\film{Anokhi Raat}%
+\year{1968}%
+\starring{Sanjeev Kumar, Zaheeda, Tarun Bose}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Indeevar}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+%
+\printtitle
+#indian
+%
+mahalo.n kaa raajaa milaa ke raanii beTii raaj karegii
+khushii\-khushii kar do bidaa tumhaarii beTii raaj karegii
+
+galiyo.n\-galiyo.n dhuum machegii \-2
+kaa.Ndhe\-kaa.Ndhe Dolii chalegii
+Dolii me.n Dolegaa jiyaa \-2
+ke raanii beTii raaj karegii
+khushii\-khushii kar do bidaa \threedots
+
+jis ghar jaa_e swarg banaa de \-2
+dono.n kul kii laaj nibhaa de
+yahii baabul jii de.Nge du_aa \-2
+ke raanii beTii raaj karegii
+khushii\-khushii kar do bidaa \threedots
+
+beTii to hai dhan hii paraayaa \-2
+paas apane koii kab rakh paayaa
+bhaarii karanaa naa apanaa jiyaa \-2
+tumhaarii beTii raaj karegii
+khushii\-khushii kar do bidaa \threedots
+%
+#endindian
+\endsong
+%

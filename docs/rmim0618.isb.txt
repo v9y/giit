@@ -1,0 +1,39 @@
+% ITRANS SONG #
+%
+% From: urzung khan (urzung@hotmail.com)
+% Date: 2002-10-10 19:04:27 PST 
+% 
+\startsong
+\stitle{aag lagii dil me.n vo payaarii}%
+\film{Shahjehan}%
+\year{1946}% 
+\starring{Saigal, M D Kunwar, Ragini, Nasreen, Jairaj, Himalaya, Nazir Bedi, Rahman}%
+\singer{Nasim Akhtar}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+% 
+% Contributor: <Urzung Khan>
+%
+\printtitle
+#indian
+%
+aag lagii dil me.n vo payaarii
+gaane lagii.n uma.nge.n saarii
+
+jagaa ke mujhe sotii hai.n raate.n
+dil jaane kayaa kayaa karataa hai baate.n
+laharaa ke masatiyo.n me.n uThii.n barasaate.n
+aa.Nkho.n se ek nashaa hai taarii
+aag lagii dil me.n vo payaarii
+gaane lagii.n uma.nge.n saarii
+
+muhabbat kii duniyaa basaa le
+ab koii mujh ko apanaa banaa le
+mujhe javaaniyo.n kii fizaa me.n u.Daa le
+taare ha.Nse.n kare.n gulakaarii
+aag lagii dil me.n vo payaarii
+gaane lagii.n uma.nge.n saarii
+%
+#endindian
+\endsong
+%

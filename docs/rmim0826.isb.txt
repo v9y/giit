@@ -1,0 +1,34 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{ta.Dap ta.Dap sagarii rain gujarii}%
+\film{Shataranj Ke Khilaadi/ The Chess Players}%
+\year{1977}%
+\starring{Amjad Khan, Sanjeev Kumar, Saeed Jaffrey}%
+\singer{Amjad Khan}%
+\music{Reba Muhuri}%
+\lyrics{Wajid Ali Shah}%
+
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 22 Oct 2004
+% Series: Geetanjali
+% Comments: Raag Pilu (as per the LP cover)
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ta.Dap ta.Dap sagarii rain gujarii
+kaun des gayo saa.Nwariyaa
+ho.a bhar aa_ii a.Nkhiyaa.N madawaarii
+ta.Dap ta.Dap gayii chunariyaa
+
+tumhare gho.Dan mere dwaare se jo nikase
+sudh bhuul gayii mai.n baawariyaa
+
+ta.Dap ta.Dap sagarii rain gujarii
+kaun des gayo saa.Nwariyaa
+
+#endindian
+\endsong

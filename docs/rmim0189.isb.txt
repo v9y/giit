@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0189; Created on Jan 26, 2004
+%
+\startsong
+\stitle{aa muhabbat kii bastii basaa_e.Nge ham}%
+\film{Fareb}%
+\year{1953}%
+\starring{Shakuntala, Kishore Kumar, Lalita Pawar, Tiwari, Hamida Bano (the singer?) }%
+\singer{Lata, Kishore}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 feb 2003
+% Credits: Vish Krishnan
+% Comments: Latanjali Series. Fareb was produced and
+% directed by: Shahid Latif + Ismat Chughtai
+%
+\printtitle
+#indian
+%
+kishor:
+aa, muhabbat kii bastii basaa_e.Nge ham
+is zamii.n se alag, aasamaano.n se duur
+muhabbat kii bastii \threedots
+
+lataa:
+mai.n huu.N dharatii tuu aakaash hai, o sanam
+dekh dharatii se aakaash hai kitanii duur
+tuu kahaa.N, mai.n kahaa.N, hai yahii mujhako Gam
+dekh dharatii se aakaash \threedots
+
+kishor:
+duur duniyaa se, ko_ii nahii.n hai jahaa.N
+mil rahe.n hai.n wahaa.N par zamii.n aasamaa.N
+chhup ke duniyaa se phir kyuu.N na mil jaa_e.N ham
+is zamii.n se alag \threedots
+
+lataa:
+tere daaman talak ham to kyaa aa_e.Nge
+yuu.N hii haatho.n ko phailaa ke rah jaa_e.Nge
+ko_ii apanaa nahii.n besahaare hai.n ham
+dekh dharatii se aakaash \threedots
+%
+#endindian
+\endsong
+%

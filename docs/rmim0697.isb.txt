@@ -1,0 +1,30 @@
+% ITRANS SONG #
+
+% Date: Sun, 08 Aug 2004 06:09:37 +0500
+% From: urzung khan <urzung@hotmail.com>
+
+\startsong
+\stitle{ho chukaa vaadaa ki kal aa_iyegaa}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Vidya Nath Seth}%
+\music{}%
+\lyrics{}%
+
+% Contributor: <Urzung Khan>, 8 Aug 2004
+
+\printtitle
+#indian
+
+ho chukaa vaadaa ki kal aa_iyegaa
+dekhiye ab naa badal jaa_iyegaa
+
+laakh pardo.n me.n hai.n vo hazrat\-e\-dil
+dekhiye dhokaa naa ko_ii khaa_iyedaa
+
+kahate hai.n kah to diyaa aa_e.nge
+ab ye kyaa chi.D hai ki kab aa_iyegaa
+
+#endindian
+\endsong

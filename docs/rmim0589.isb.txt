@@ -1,0 +1,42 @@
+% ITRANS SONG #
+%
+%        Date:              Thu, 12 Feb 2004 01:43:26 -0800
+%       From:              "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{avadhuutaa yugan yugan ham yogii}%
+\film{Triveni Bhajans (Non-Film)}%
+\year{1970s?}%
+\starring{}%
+\singer{Kumar Gandharva, Vasundhara Komkali}%
+\music{Kumar Gandharva}%
+\lyrics{Kabir}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  12 Feb 2004
+% Credits  :
+% Comments : GEETanjali / Sukhsaagar Series
+%    Kumar Gandharva's 'Triveni' LP covers bhajans
+%    by Kabir, Meera, Surdas. The bhajan 'avadhuutaa' is
+%    based on raag Niguni Mand and set to taal Satwa.
+%    The lyrics were taken from the below URL.
+%    http://theory.tifr.res.in/~mukhi/Music/kg-lyrics.html
+%
+\printtitle
+#indian
+%
+avadhuutaa, yugan yugan ham yogii
+aavainaa jaay miTainaa kabahuu.n, sabad anaahat bhogii
+
+sabhii Thaur jamaat hamarii, sab hii Thaur par melaa
+ham sab me.n, sab hai.n hamamaa.n, ham hai bahurii akelaa
+
+ham hii siddha, samaadhi ham hii, ham maunii ham bole
+ruup saruup aruup dikhaake, ham hii me.n ham to khele.n
+
+kahe kabiiraa jo, suno bhaaii saadho, naahii\-na\-koii ichchhaa
+apanii ma.Dhii me.n aap mai.n Doluu.n, sahaj swa_ichchhaa
+%
+#endindian
+\endsong
+%

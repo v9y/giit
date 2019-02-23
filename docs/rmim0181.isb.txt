@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0181; Created on Jan 26, 2004
+%
+\startsong
+\stitle{suunaa mandir meraa sakhii rii}%
+\film{Bharthari}%
+\year{1944}%
+\starring{Surendra, Mumtaaz Shanti, Arun, Kajjan, Sulochana Chaterjee}%
+\singer{Amirbai}%
+\music{Khemchand Prakash}%
+\lyrics{Pt Indra}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 29 Jan 2003
+% Credits: Satish Kalra
+% Comments: Geetanjali Series.
+% Film: Bharthari / bhartruharii / bhartR^iharii
+% Navin Pictures. Dir - Chaturbhuj Doshhi.
+%
+\printtitle
+#indian
+%
+suunaa mandir meraa sakhii rii
+jagamag jagamag diip jalaa_uu.N
+pii bin phir bhii a.Ndheraa sakhii rii
+
+pii ko Dhuu.NDhuu.N mai.n ku.njan me.n
+bolaa ko_ii pii pii ban me.n
+ye to papiihaa, piyaa nahii.n hai
+pii bin rain saveraa sakhii rii
+
+nain jharoke suune saare
+suune hai.n palako.n ke dwaare
+bin saajan ye raaj bhavan bhii
+hai jogii kaa Deraa sakhii rii
+%
+#endindian
+\endsong
+%

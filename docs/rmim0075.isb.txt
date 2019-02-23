@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0075; Created on Jan 26, 2004
+%
+%      From: Arunabha Roy (asroy@midway.uchicago.edu)
+%      Date: 2002-11-12 22:04:26 PST 
+%
+\startsong
+\stitle{sajanaa sajanaa kaahe bhuul ga_e din pyaar ke}%
+\film{Chaand Mere Aajaa}%
+\year{1960}%
+\starring{Bharat Bhushan, Nanda}%
+\singer{Lata}%
+\music{Chitragupta}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Nov 12, 2002
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+sajanaa sajanaa kaahe bhuul ga_e din pyaar ke
+sajanaa sajanaa mai.n to haar ga_ii re pukaarake
+sajanaa ho .a .a
+
+(baiThii rahii mai.n sapane sajaake
+bi.ndiyaa lagaake piyaa meha.ndii rachaake) \-2
+taras na aayaa tujhe gayaa ta.Dapaake
+sajanaa sajanaa kaahe \threedots
+
+(baaT takuu.N mai.n saa.Njh savere
+auro.n kii to raate.n mere din bhii a.Ndhere) \-2
+saaraa jag suunaa suunaa laage bin tere
+sajanaa sajanaa kaahe \threedots
+
+(duniyaa ne to dard na jaanaa
+tuu bhii huwaa hai kaahe mujhase begaanaa) \-2
+aajaa re bulaaye tujhe guzaraa zamaanaa
+sajanaa sajanaa kaahe \threedots
+%
+#endindian
+\endsong
+%

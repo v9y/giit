@@ -1,0 +1,41 @@
+% ITRANS SONG #
+
+% Date: Fri, 16 Jul 2004 22:58:06 -0500
+% From: Arunabha S Roy <asroyus@yahoo.com>
+
+\startsong
+\stitle{haay cha.ndaa ga_e parades}%
+\film{Chakori}%
+\year{1949}%
+\starring{Nalini Jaywant, Manorama, Bharat Bhushan}%
+\singer{Lata}%
+\music{Hansraj Behl}%
+\lyrics{M R Bhakri}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 16 Jul 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+haay cha.ndaa ga_e parades
+chakorii yahaa.N ro ro mare, ro ro mare
+haay cha.ndaa ga_e parades
+
+diipo.n se jal\-jal mare pata.ngaa \-2
+aur ghuu.NghaT me.n gorii jale
+chakorii yahaa.N ro ro mare, ro ro mare
+haay cha.ndaa ga_e parades
+
+(naino.n se niir bahe mu.Nh se vo kuchh naa kahe
+chupake chupake gorii birahaa kii pii.D sahe ) \-2
+suuj ga_e hai.n ro ro ke saajan
+haay nainaa jo tum se la.De
+chakorii yahaa.N ro ro mare, ro ro mare
+haay cha.ndaa ga_e parades
+
+#endindian
+\endsong

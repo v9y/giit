@@ -1,0 +1,39 @@
+% ITRANS SONG #
+%
+% Date: Mon, 2 Feb 2004 08:09:54 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{tere binaa suunii suunii hai merii phulawaarii re}%
+\film{Shikari}%
+\year{1946}%
+\starring{Ashok Kumar, Veera, Paro, Leela Mishra, Kishore Kumar}%
+\singer{Paro}%
+\music{S D Burman}%
+\lyrics{Pradeep}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :   02 Feb 2004
+% Credits  : Urzung Khan
+% Comments : SDB Series
+%    Filmistan. Dir - Saavak Vaachchhaa.
+%    S D Burman's first Hindi Film as MD.
+%
+\printtitle
+#indian
+%
+tere binaa suunii suunii hai merii phulawaarii re
+aajaa meraa bha.Nwaraa shikaarii
+
+jaatii rahii.n raate.n, aur aate rahe din
+aas liye baiThii rahii ek abhaagin
+aaii hai bahaar magar suukh rahii kyaarii re
+
+mere janam ke saathii terii priit rulaatii
+sahatii rahii dukh baraabar, aur sahuu.Ngii
+par akele tere binaa kaise rahuu.Ngii
+terii judaaii me.n bane aa.Nsuu bhii chi.ngaarii re
+%
+#endindian
+\endsong
+%

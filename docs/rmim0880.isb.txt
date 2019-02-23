@@ -1,0 +1,45 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 11/2/2004 2:44:27 PM.
+
+\startsong
+\stitle{qadam qadam pe bahaare.n luTaataa}%
+\film{Madam XYZ}%
+\year{1959}%
+\starring{Suresh, Shakila, David}%
+\singer{Lata, Rafi}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 2 Nov 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+la: qadam qadam pe bahaare.n luTaataa
+ye kaun aayaa hai aa.Nchal u.Daataa
+ra: terii nazar kaa milaa jo ishaaraa
+to aa gayaa ko_ii daaman bachaataa
+
+ra: nazar me.n shoKii labo.n pe mastii
+tumhii.n bataa_o ye kaisii adaa hai
+la: zaraa sa.Nbhalake milaao aa.Nkhe.n
+ke phir na kahanaa hamaarii Kataa hai
+ra: merii Kataao.n pe yuu.N muskuraataa
+ye kaun aayaa hai aa.Nchal u.Daataa
+la: terii nazar kaa milaa jo ishaaraa \threedots
+
+la: ye kasiii halachal uThii hai dil me.n i
+ke chalte chalte qadam Dagamagaa_e
+ra: na_ii na_ii hai abhii mohabaat
+na jaane aage ye kyaa gul khilaa_e
+la: terii mohabbat ne jab hii pukaaraa
+to aa gayaa ko_ii daaman bachaataa
+ra: qadam qadam pe bahaare.n luTaataa \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0122; Created on Jan 26, 2004
+%
+% arunabha 9/25/3
+%
+\startsong
+\stitle{baa.Nsuriyaa man har le ga_ii re torii baa.Nsuriyaa}%
+\film{Tumhaare Liye}%
+\year{1978}%
+\starring{Ashok Kumar, Sanjeev Kumar, Vidya Sinha, Neelam Mehra, Indrani Mukherji}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 22 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+baa.Nsuriyaa man har le ga_ii re torii baa.Nsuriyaa
+baavariyaa kaanhaa bha_ii re tore baavariyaa
+
+mai.n gopaalaa torii daasii
+tore daras bin o manabaasii
+bhor jalaa_e saa.Njh rulaa_e
+pyaasii bhare dupahariyaa
+baavariyaa \threedots
+
+janmo.n se mai.n prem pujaaran
+ruup badalake tumhare kaaran
+jag me.n aa_uu.N tujhe rijhaa_uu.N
+sapano.n ke saa.Nvariyaa
+baavariyaa \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+% ITRANS SONG #
+
+% Arunabha S Roy on 5/28/2004 12:32:47 PM.
+
+\startsong
+\stitle{roz shaam aatii thii magar aisii na thii}%
+\film{Imtihaan}%
+\year{1974}%
+\starring{Vinod Khanna, Tanuja, Bindu, Ranjit}%
+\singer{Lata}%
+\music{Laxmikant Pyarelal}%
+\lyrics{Majrooh}%
+
+% Contributor: Arunabha S. Roy
+% Date: 28 May 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+roz shaam aatii thii magar aisii na thii
+roz roz ghaTaa chhaatii thii magar aisii na thii
+ye aaj merii zindagii me.n kaun aa gayaa
+roz shaam aatii thii \threedots
+
+Daalii me.n ye kisakaa haath kare.n ishaare bulaa_e mujhe
+jhuumatii cha.nchal hawaa chhuuke tan gudagudaa_e mujhe
+haule haule dhiire dhiire ko_ii giit mujhako sunaa_e
+priit man me.n jagaa_e
+khulii aa.Nkh sapane dikhaa_e
+dikhaa_e dikhaa_e dikhaa_e
+khulii aa.Nkh sapane dikhaa_e
+ye aaj merii zindagii me.n kaun aa gayaa \threedots
+
+aramaanon kaa ra.ng hai jahaa.N palake.n uThaatii huu.N mai.n
+ha.Ns ha.Nsake hai dekhatii jo bhii muurat banaatii huu.N mai.n
+jaise ko_ii mohe chhe.De dil kho aur bhii jaatii huu.N mai.n
+jagamagaatii huu.N main
+diiwaanii hu_ii jaatii huu.N mai.n
+diiwaanii diiwaanii diiwaanii
+diiwaanii hu_ii jaatii huu.N mai.n
+ye aaj merii zindagii me.n kaun aa gayaa \threedots
+
+#endindian
+\endsong

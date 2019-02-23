@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 10/14/2004 1:39:38 PM.
+
+\startsong
+\stitle{terii yaad na dil se jaa sakii}%
+\film{Chand Aur Suraj}%
+\year{1965}%
+\starring{Dharmendra, Tanuja, Ashok Kumar}%
+\singer{Lata}%
+\music{Salil Chowdhury}%
+\lyrics{Shailendra}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 14 Oct 2004
+% Series: LATAnjali
+% Comments: Credits: Gautam Chowdhury
+% generated using giitaayan
+
+\printtitle
+#indian
+
+terii yaad na dil se jaa sakii \-2
+aatii thii nii.nd kabhii\-kabhii
+aaj to vo bhii na aa sakii
+terii yaad na dil se jaa sakii \threedots
+
+taaro.n ke saaye me.n kitane sapane 
+dekhe the milake hamane tumane
+ruuTh ga_e tum sapane bhii ruuThe 
+un ko bhii mai.n na manaa sakii
+terii yaad na dil se jaa sakii \threedots
+
+raate.n vo raate.n na din vo din hai.n
+ma.nzil hai muskhil raahe.n kaThin hai.n
+nis din roke bhii mai.n apane man kii 
+aag na haay bujhaa sakii
+terii yaad na dil se jaa sakii \threedots
+
+#endindian
+\endsong

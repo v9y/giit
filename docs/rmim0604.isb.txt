@@ -1,0 +1,46 @@
+% ITRANS SONG #
+%
+% Date: Sat, 6 Mar 2004 19:00:44 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{mere bas kii baat jo hotii}%
+\film{Himmat}%
+\year{1941}%
+\starring{Ragini, Majnu, Beg, Radha, Zahur Shah}%
+\singer{Umrao Zia Begum}%
+\music{Gobind Ram}%
+\lyrics{Aziz Kashmiri}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 06 March 2004
+% Credits  : Hamraaz
+% Comments : Geetanjali Series.
+%    Kamla Movietone Ltd, Punjab. Dir - Roop K Shori
+%    (umaraaziyaa or Umrazia or Umra-o-zia) Begum was
+%    Ghulam Haider's wife.
+%    Source of lyrics : The film's booklet
+%
+\printtitle
+#indian
+%
+mere bas kii baat jo hotii
+    mai.n badalii ban jaatii
+
+badalii ban kar naach dikhaatii
+    niile niile ambar par
+kabhii barasatii kheto.n par
+    kabhii barasatii ma.ndar par
+bunde.n banakar barakhaawaalii
+    badalii me.n chhan jaatii
+mere bas kii \threedots
+
+suukhe pe.D ire kar detii
+    motiyo.n se ja.ngal bhar detii
+ka.Dii dhuup me.n chaadar banakar
+    duniyaaapar tan jaatii
+mere bas kii \threedots
+%
+#endindian
+\endsong
+%

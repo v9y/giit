@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0174; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-12 00:52:47 PST
+%
+\startsong
+\stitle{milaa dil mil ke TuuTaa}%
+\film{Fareb}%
+\year{1953}%
+\starring{Shakuntala, Kishore Kumar, Lalita Pawar, Tiwari, Hamida Bano, Amar}%
+\singer{Lata}%
+\music{Anil Biswas}%
+\lyrics{Majrooh}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 12 Jan 2003
+% Credits: U V Ravindra
+% Comments: Anilda Series.
+%
+\printtitle
+#indian
+%
+milaa dil, mil ke TuuTaa jaa rahaa hai
+nasiibaa ban ke phuuTaa jaa rahaa hai
+
+dawaa\-e\-dard\-e\-dil milanii thii jisase
+wahii ab ham se ruuThaa jaa rahaa hai
+
+a.Ndheraa har taraf, tuufaan bhaarii
+aur unakaa haath chhuuTaa jaa rahaa hai
+
+duhaa_ii ahl\-e\-ma.nzil kii, duhaa_ii
+musaafir ko_ii luTaa jaa rahaa hai
+%
+#endindian
+\endsong
+%

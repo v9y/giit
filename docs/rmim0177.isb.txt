@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0177; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-26 12:17:57 PST
+%
+\startsong
+\stitle{kyaa kaaraN hai ab rone kaa}%
+\film{Pooran Bhagat}%
+\year{1933}%
+\starring{Kumar, Anwari, K C Dey, Kapoor, Tara, Uma Devi, Saigal}%
+\singer{K C Dey}%
+\music{R C Boral}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 26 Jan 2003
+% Comments: Geetanjali Series: New Theatres, Kolkata
+% Director of Puuran Bhagat - Debaki Bose.
+%
+\printtitle
+#indian
+%
+kyaa kaaraN hai ab rone kaa
+kaalii raat hu_ii ujiyaalii
+paayaa jiivan kaa ujiyaaraa
+rahaa??? a.Ndheraa??? solaa baras tak
+
+ghaTaa chhaa_ii rahii ghanaghor
+puuran chandra badarii se nikale
+ruup daras maataa ko dewe
+%
+#endindian
+\endsong
+%

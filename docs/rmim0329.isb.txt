@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0329; Created on Jan 26, 2004
+%
+%      From: Pavan Kumar Desikan (pkd@news.cs.duke.edu)
+%      Date: 1997/03/18 
+% 
+\startsong
+\stitle{phir aah dil se nikalii ... shaayad vo jaa rahe hai.n}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\singer{Zohra Bai}%
+\music{Naushad}%
+\lyrics{Shakeel}%
+%
+% \producer{Wadia Films Ltd.}
+% Contributor: Pavan Kumar Desikan (pkd@duke.cs.duke.edu) 
+% Series: Abhi To Main Jawan Hun (#164) 
+%
+\printtitle
+#indian
+%
+phir aah dil se nikalii, Tapakaa lahuu jigar se
+shaayad vo jaa rahe hai.n, chhupakar merii nazar se
+chhupakar merii nazar se\-4
+shaayad vo jaa rahe hai.n, chhupakar merii nazar se
+
+maaluum kyaa thhaa dil par, ik ye sitam bhii hogaa
+aaye.nge aur aakar, phir jaaye.nge vo dar se
+phir jaaye.nge vo dar se\-4
+aaye.nge aur aakar, phir jaaye.nge vo dar se
+
+vo jaanate to ho.nge, majabuuriyaa.N hamaarii
+ham jinako dekhate hai.n, hasarat bharii nazar se
+hasarat bharii nazar se\-4
+ham jinako dekhate hai.n, hasarat bharii nazar se
+
+ham ho gaye paraaye, ab unase vaasataa kyaa
+keh de ye unase koii, guzare naa vo idhar se
+guzare naa vo idhar se\-4
+keh de ye unase koii, guzare naa vo idhar se
+%
+#endindian
+\endsong
+%

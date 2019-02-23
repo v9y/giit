@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0522; Created on Jan 26, 2004
+%
+% urzung 7/13/3
+%
+\startsong
+\stitle{sab kuchh luTaayaa ham ne}%
+\film{Chunariya}%
+\year{1948}%
+\starring{Chand Barque, Manorma, Wasti, Pran}%
+\singer{Rafi}%
+\music{Hansraj Behl}%
+\lyrics{Mulk Raj Bhakhri}%
+%
+% Contributor: <Urzung Khan>, 7/13/3
+% Comments:
+%
+\printtitle
+#indian
+%
+sab kuchh luTaayaa ham ne aa kar terii galii me.n
+ghar chho.D kar banaayaa hai ghar terii galii me.n
+
+maathe pe us ko rakh luu.N sajade me.n sar jhukaa duu.N
+mil jaa_e jo bhii ham ko patthar terii galii me.n
+
+Kanajar tane hu_e hai.n aur sar jhuke hu_e hai.n
+maqatil kaa kich rahaa hai manazar terii galii me.n
+
+tere liye jiye hai.n tere liye mare.n ge
+ye soch kar banaayaa hai ghar terii galii me.n
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% from: nani3skip45@hotmail.com
+% date: 3/2/4
+%
+\startsong
+\stitle{mujhe mil jaayegii unakii Dagariyaa}%
+\film{Ek Hi Rasta}%
+\year{1939}%
+\starring{Sheikh Mukhtar, Arun, Anuradha, Jyoti, Harish}%
+\singer{Anil Biswas, Wahidan}%
+\music{Anil Biswas}%
+\lyrics{Pt Indra}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  02 March 2004
+% Comments : Anilda Series.  Ek Hii Raastaa  .
+%    Saagar / Sagar Movietone. Dir - Mahabuub / Mehboob
+%
+\printtitle
+#indian
+%
+
+anil  :
+mujhe mil jaayegii unakii Dagariyaa
+kaahe ghir\-ghir aaye badariyaa
+
+anil  :
+chaahe pa.nchhii na bole
+chaahe chandramaa??? aa.Nkh na khole
+unhe.n Dhuu.N.Dh nikaalegii hamarii najariyaa
+
+wahidan :
+dwaar nayaa, chhat nayii, nayaa ghar
+ghar kaa sab saamaan nayaa
+phir bhii sakhii kahii Tikatii nahii.n hai
+vyaakul hamarii najariyaa
+
+dono.n :
+mujhe mil jaayegii  \threedots
+%
+#endindian
+\endsong
+%

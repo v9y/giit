@@ -1,0 +1,69 @@
+% ITRANS SONG # rmim0467; Created on Jan 26, 2004
+%
+% surma 10/24/3
+% 
+\startsong
+\stitle{##jingle bells## ... raat ##christmas## kii thii}%
+\film{non-Film(Dil Padosi Hai)}%
+\year{1987}%
+\starring{}%
+\singer{Asha, chorus}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Audio on: HMV
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 24 Oct 2003
+% Series: GEETanjali
+% Comments: Album "Dil Padosi Hai"
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ko: ( ##jingle bells, jingle bells, jingle all the way
+    o what fun it is to ride in a one-horse open sleigh## ) 2
+
+( aa: raat ##christmas## kii thii
+ko: raat ##christmas## kii thii ) 2
+aa: raat ##christmas## kii thii
+ko: zu zu zu zu zu zu
+aa: ho naa tere bas kii thii
+    naa mere bas kii thii
+    aa haa haa
+    raat ##christmas## \threedots
+
+ko: ru ru ru \threedots
+aa: ( chaa.Nd pe.Do.n pe thaa
+    aur mai.n giraje me.n thii ) 2
+    ( tuu ne lab chhuu liye
+    jab mai.n sajade me.n thii ) 2
+    kaise bhuuluu.ngii mai.n
+    wo gha.Dii gash kii thii
+    naa tere bas \threedots
+    raat ##christmas## \threedots
+
+    ( tum akele na the
+    mai.n bhii tanhaa na thii ) 2
+    ( mujhame.n sab Kauf the
+    tumako parawaa na thii ) 2
+    tum to kamasiin na the
+    mai.n bhii unniis kii thii
+    naa tere bas \threedots
+    raat ##christmas## \threedots
+
+    ( Kuubsuurat thii wo
+    umr\-e\-jajbaat kii ) 2
+    ( zi.ndagii de ga_ii
+    raat Kairaat kii ) 2
+    kyaa Galat kyaa sahii
+    marzii ##Jesus## kii thii
+ko: laa laa laa laa
+aa: marzii ##Jesus## kii thii
+ko: raat ##christmas## kii thii
+aa: marzii ##Jesus## kii thii
+%
+#endindian
+\endsong
+%

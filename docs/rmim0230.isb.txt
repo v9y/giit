@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0230; Created on Jan 26, 2004
+%
+% nani 1/9/4
+%
+\startsong
+\stitle{o tere saath ... chalaa hai pyaar kaa raahii}%
+\film{26th January/ Bharati}%
+\year{1956}%
+\starring{Nalini Jaywant, Ajit, Johnny Walker}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 08 January 2004
+% Credits: Gurcharan Singh Sandhu
+% Harmandir Singh Sachdev ('Hamraaz')
+% Comments: Latanjali Series
+% Film - 26th January urf bhaaratii. Sehgal Productions
+% Director - Ramesh Sehgal. Original 78s for the film
+% were issued by the short-lived but much-admired
+% Bulbul Records label.
+%
+\printtitle
+#indian
+%
+## prelude ##
+o tere saath saath merii duniyaa bhii jaa rahii hai
+din chhup rahaa hai, Gam kii ab shaam aa rahii hai
+
+chalaa hai pyaar kaa raahii o nadiyaa, raasataa denaa
+kisii TuuTe hue dil kii, arii laharo, duaa lenaa
+
+biga.D jaaegaa kyaa teraa are tufaa.N, zaraa tham jaa
+musaafir paar utar jaae are paanii, zaraa jam jaa
+kahii.n merii muhabbat ko na duniyaa se uThaa lenaa
+
+kisii zi.ndagii me.n khel kar ai maut, kyaa legii
+bataa kyaa chaar din ke pyaar ko furasat nahii.n degii
+lahuu kii pyaas merii jaan lekar tuu bujhaa lenaa
+%
+#endindian
+\endsong
+%

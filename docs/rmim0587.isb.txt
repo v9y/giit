@@ -1,0 +1,56 @@
+% ITRANS SONG #
+%
+% Date: Tue, 10 Feb 2004 07:31:05 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{raajaabeTii kekaraalaa guu.nthaluu tuu rachirachi}%
+\film{Saugandh}%
+\year{1942}%
+\starring{Pahadi Sanyal, Bharati, Asit Baran Mukherjee, Binay Goswami, (some) Natwar, Dwijen Sanyal}%
+\singer{Asit Baran Mukherjee, Mahila Swar (Indrani Roy?)}%
+\music{R C Boral}%
+\lyrics{Pt Natwar}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 10 feb 2004
+% Credits  : Har Mandir Singh 'Hamraaz'
+% Comments : Geetanjali Series
+%    The HFGK has credited the female part to Shanti.
+%    But that was probably the on-screen name of the
+%    character on whom the song is filmed. A commercial
+%    release has credited the song to Indrani Roy.
+%
+%    Saugandh urf The Pledge. New Theatres.
+%    Dir - Hem Chander.
+%
+\printtitle
+#indian
+%
+    ## a = asit baran, m = mahila ##
+a : raajaabeTii, kekaraalaa guu.nthaluu tuu rachirachi
+        chunachun phuulan ke haar
+m : iihaa.n aao chupakese kaaname.n bataauu.n tohe
+        boluu.n naa mai.n batiyaa.n pukaar
+    raajaabeTaa, kekaratuu sapanaa dekhal nit
+        jaage\-adhajaage harabaar
+
+a : iihaa.n aao rase\-rase giitame.n sunaauu.n tohe
+        boluu.n naa mai.n batiyaa.n pukaar
+m : uu.n huu.n, raajaabeTii nahii.n jaayegii kisiike
+        Thaur, ha.nse laagii gaa.nvake ga.nvaar
+a : uu.n huu.n, haathaka.ngan na gale motiimaal sohai,
+        jhuuThe raajabeTiike gohaar
+m : phuulanake haar par haar haar jaaye.n laakho.n
+        ratan o motii balihaar
+a : kaune mol deuu sakhii hiyaraake harabaatuu.n
+m : manavaa.n je chaahe hamaar
+a : manavaa.nkaa chaahe tor
+m : maname.n jo naache mor
+a : aav kahuu.n kaaname.n tohaar
+m : uu.n huu.n tum duurase hii giitame.n sunaao hame.n
+        naahii ab hogii taqaraar
+%
+#endindian
+\endsong
+%

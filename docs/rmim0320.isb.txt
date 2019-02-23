@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0320; Created on Jan 26, 2004
+%
+% nimish 6/16/3
+%
+\startsong
+\stitle{ab Gam ko banaa le.nge jiine kaa sahaaraa}%
+\film{Nirmohi}%
+\year{1952}%
+\starring{Nutan, Sajjan, Amarnath, Raj Mehra}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{P N Rangeen}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 14 Jun 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ab Gam ko banaa le.nge jiine kaa sahaaraa
+dil TuuT gayaa chhuuT gayaa saath hamaaraa
+ab Gam ko banaa le.nge
+
+ham duur chale jaae.Nge duniyaa se tumhaarii
+rokegaa naa ab koii bhii ye kashtii hamaarii
+uma.Dii huii laharo.n ko banaayaa hai kinaaraa
+ab Gam ko banaa le.nge \threedots
+
+ummiid rahegii na ab aramaan rahe.nge
+sapane bhii na aakar kabhii mehamaan rahe.nge
+bhuule hai.n na bhuule.nge magar naam tumhaaraa
+
+ab Gam ko banaa le.nge jiine kaa sahaaraa
+dil TuuT gayaa chhuuT gayaa saath hamaaraa
+%
+#endindian
+\endsong
+%

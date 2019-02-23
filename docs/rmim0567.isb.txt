@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0567; Created on Jan 26, 2004
+%
+% From: George Thomas (george@cc.gatech.edu)
+% Date: 2002-12-26 14:10:08 PST
+%
+\startsong
+\stitle{diiwaaro.n kaa ja.ngal jisakaa aabaadii hai naam}%
+\film{Deewaar}%
+\year{1975}%
+\starring{Amitabh Bachchan, Parveen Babi, Shashi Kapoor, Neetu Singh, Nirupa Roy}%
+\singer{Manna Dey}%
+\music{R D Burman}%
+\lyrics{Sahir}%
+%
+% Audio On: Polygram/MIL
+% Contributor: George Thomas (georgethomas@despammed.com)
+% Transliterator: George Thomas (georgethomas@despammed.com)
+% Editor: Vinay P Jain
+% Date: Dec 26, 2002
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: The song was never used in the film. An instrumental
+%           fragment, however, can be heard during the split screen
+%           as Vijay (Amitabh) remembers his mother guiding him and
+%           his brother on the cruel streets of Bombay.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+diiwaaro.n kaa ja.ngal jisakaa aabaadii hai naam
+baahar se chup\-chup lagataa hai a.ndar hai koharaam
+
+diiwaaro.n ke is ja.ngal me.n bhaTak rahe insaan
+apane\-apane ulajhe daaman jhaTak rahe insaan
+(apanii vipadaa Cho.Dake aaye)\-2
+kaun kisii ke kaam
+baahar se chup\-chup lagataa hai a.ndar hai koharaam
+
+(siine Kaalii aa.Nkhe.n suunii cheharo.n par hairaanii) \-2
+jitane ghane ha.ngaame isame.n utanii ghanii viiraanii
+(raate.n kaalii subahe.n mujrim) \-2
+mulzim hai har shaam
+baahar se chup\-chup lagataa hai a.ndar hai koharaam
+%
+#endindian
+\endsong
+%

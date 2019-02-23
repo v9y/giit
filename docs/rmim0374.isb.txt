@@ -1,0 +1,64 @@
+% ITRANS SONG # rmim0374; Created on Jan 26, 2004
+%
+%      From: Sam Malhotra (sam@bollyvista.com)
+%      Date: 2003-02-10 16:18:35 PST 
+%
+\startsong
+\stitle{jiivan ke har mo.D pe mil jaae.nge hamasafar}%
+\film{Jhoothaa Kahin Ka}%
+\year{1979}%
+\starring{Rishi Kapoor, Neetu Singh}%
+\singer{Kishore, Asha}%
+\music{R D Burman}%
+\lyrics{Gulshan Bawra}%
+%
+% Contributor: Sam Malhotra (Sam@bollyvista.com)
+% Transliterator: Sam Malhotra (Sam@bollyvista.com)
+% Date:  10th Feb, 2003
+%
+\printtitle
+#indian
+%
+ki: jiivan ke har mo.D pe mil jaae.nge hamasafar
+   jo duur tak saath de Dhuu.nDhe usii ko nazar \-2
+   tu vo hii hai jisako Dhuu.nDhe kab se merii do nigaahe.n
+   chalate chalate mil jaae.ngii tere mere dil kii raahe.n
+   itane baDe is jahaa.n me.n basaae.nge ham apanaa chhoTaa saa ghar
+   jiivan ke har mo.D pe\threedots
+
+A: laa laa laa laa laa laa laa \-4
+  jiivan ke har mo.D pe\threedots
+
+A: tan ke piichhe koii bhaage koii tan kaa hai shikaarii
+   ho man se man kaa jo.Danaa to vo hii sachchaa hai pujaarii
+koras: (para pa para pa para pa
+    para pa pa pa pa pa pa pa)\-3
+A: saare shikaarii yahaa.n par bhii hai.n
+   in par yakii.n ab na kar
+   jiivan ke har mo.D pe\threedots
+
+ki: vo laakho.n me.n ek hai yaaro, jis ko dil se mai.nne chaahaa
+A: ho mai.nne thaamaa teraa daaman mai.nne teraa pyaar saraahaa
+koras: (para pa para pa para pa
+    para pa pa pa pa pa pa pa)\-3
+A:  ho ab eka hii raaste pe chale.nge ham
+ki: hai ik hamaarii Dagar
+    jiivan ke har mo.D pe 
+A:  para pa para pa para pa
+ki: mil jaae.nge hamasafar
+A:  para pa para pa para pa
+ki: jo duur tak saath de 
+A:  A.a.a.
+ki: Dhuu.nDhe usii ko nazar
+A:  A.a.a.a
+    jiivan ke har mo.D pe mil jaae.nge hamasafar
+   jo duur tak saath de Dhuu.nDhe usii ko nazar
+
+(koras: la la la la la la la
+A: para pa para pa para pa) \-2
+koras: (la la la la la la la) \-2
+A: A.a.a.a.a.a
+%
+#endindian
+\endsong
+%

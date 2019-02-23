@@ -1,0 +1,66 @@
+% ITRANS SONG # rmim0408; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2001-06-21 21:14:11 PST                        
+%
+\startsong
+\stitle{aaj to junalii raat maa}%
+\film{Talaash}%
+\year{1969}%
+\starring{Rajendra Kumar, Sharmila Tagore, Balraj Sahni}%
+\singer{Rafi, Lata}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:21 June 2001
+% Comments:SDB series
+%
+\printtitle
+#indian
+%
+chorus:o~lala lala huhu huhu huhu hu huaa huaa huaa ho ho
+lata:junalii raat maa
+chorus:ho ho
+lata:are au.nas au.nas aaj ko junalii raat maa
+chorus:o kailii ?
+kyaa ho
+o maailii
+ke ho
+hey saailii
+aahaa
+lata:ho kaancha,are au.nas au.nas aaj ko junalii raat maa
+aaj ko junalii raat maa
+dhartii par hai aasamaa.N
+koii re ban ke chaa.Ndanii
+utaraa man ke aa.nganaa
+cha.ndaa re tuu jaa na jaa
+
+rafi:aaj ko junalii raat maa
+dhartii par hai aasamaa.N
+koii re ban ke chaa.Ndanii
+utaraa man ke aa.nganaa
+lata:cha.ndaa re tuu jaa na jaa
+both:aaj ko junalii raat maa
+
+lata:(chuuke man ko ik anjaanaa
+le u.Daa mujhako mastaana)\-2
+chunarii ? kii dha.Dakane lagaa jiyaa
+aaj ko junalii raat maa \threedots
+
+lata:(are au.nas au.nas,aaj ko junalii raat maa)\-2
+
+rafi:(kiyaa hai naino.n ke kaajal ne
+jiivan bhar kaa vaadaa pal me.n)\-2
+milan dhun pe tirakane lagaa jiyaa
+aaj ko junalii raat maa \threedots
+
+lata:(pyaar ne sau sau ruup rachaayaa
+sab kahii.n jaake tum ko paayaa)\-2
+rafi:thaam lo mujhako kii bas me.n nahii.n jiyaa
+both:aaj ko junalii raat maa \threedots
+%
+#endindian
+\endsong
+%

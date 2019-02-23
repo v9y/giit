@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0013; Created on Jan 26, 2004
+%
+% abhay phadnis 10/21/3
+%
+\startsong
+\stitle{sunii jo unake aane kii aahaT}%
+\film{Satyam Shivam Sundaram}%
+\year{1978}%
+\starring{Shashi Kapoor, Zeenat Aman}%
+\singer{Lata, Chorus}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 21 Oct 2003
+% Series: Latanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+sunii jo unake aane kii aahaT
+GariibaKaanaa sajaayaa hamane
+qadam mubaarak hamaare dar pe
+nasiib apanaa jagaayaa hamane
+
+hu_ii hai aamad Kushaamadiidam
+ye kahanaa dil ko sikhaayaa hamane
+khile hai.n aashaa ke phuul man me.n
+ye raaz unase chhupaayaa hamane
+
+vo apane netaa ham unakii janataa
+hameshaa naataa nibhaayaa hamane
+ye terii rahamat ai mere maalik
+gumaa.N nahii.n thaa vo paayaa hamane
+
+sunii jo unake \threedots
+%
+#endindian
+\endsong
+%

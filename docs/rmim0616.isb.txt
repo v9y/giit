@@ -1,0 +1,36 @@
+% ITRANS SONG #
+%
+% From: urzung khan (urzung@hotmail.com)
+% Date: 2002-09-17 13:21:31 PST 
+% 
+\startsong
+\stitle{Kushii kii aas rahii dil ko aur Kushii na hu_ii}% 
+\film{Sawan Aya Re}%
+\year{1949}% 
+\starring{Ramola, Kishore Sahu}% 
+\singer{Khan Mastana}% 
+\music{Khemchand Parkash}% 
+\lyrics{Arzoo Lakhnavi}%
+% 
+% Contributor: <Urzung Khan>
+% Transliterator:
+% Credits: Ashok M Dhareshwar 
+%
+\printtitle
+#indian
+%
+Kushii kii aas rahii dil ko aur Kushii na hu_ii
+mai.n dekhuu.n chaa.Nd chamakataa ho, raat hii na hu_ii
+
+a.Ndherii raat hai taare hai.n chaa.Nd aur na chiraaG
+jalaane beThe jo dil bhii to roshanii na hu_ii
+
+ye dil kaa dard bhii hotaa hai kitanaa gaharaa dard
+jatan hazaar kiye dard me.n kamii na hu_ii
+
+chaman me.n ab bhii bahaare.n to jagamagaatii.n hai.n
+bahaar chaahiye jo dil ko bahaar hii na hu_ii
+%
+#endindian
+\endsong
+%

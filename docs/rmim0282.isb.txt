@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0282; Created on Jan 26, 2004
+%
+\startsong
+\stitle{dil kaa diyaa jalaayaa}%
+\film{Pakistani-Film(Koel)}%
+\year{1959}%
+\starring{Noorjehan, Aslam Perwez}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: NOOR-E-TARANNUM Series #11
+% Date: 12 October 2002
+%
+% Producer: Jamal Butt
+% Director: Masood Parwez
+% Story: Shums Lakhanavi
+%
+\printtitle
+#indian
+%
+dil kaa diyaa jalaayaa,
+mai.n ne dil kaa diyaa jalaayaa
+tujh ko kahii.n na paayaa,
+tujh ko kahii.n na paayaa
+
+kahii.n naa bahalaa dil bechaaraa,
+kahii.n milaa naa mujh ko sahaaraa
+aas ke taare Duube saare,
+ghor a.ndheraa chhaayaa
+tujh ko kahii.n na paayaa
+dil kaa diyaa jalaayaa, mai.n ne dil kaa diyaa jalaayaa
+
+biit gayaa hai ek zamaanaa,
+kahii.n milaa na teraa Thikaanaa
+tak tak haare nain bechaare,
+kuchh bhii nazar na aayaa
+tujh ko kahii.n na paayaa
+
+tujh ko kahii.n na paayaa  \threedots
+dil kaa diyaa jalaayaa,
+dil kaa diyaa jalaayaa
+
+mai.n ne dil kaa diyaa bujhaayaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,36 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 10/14/2004 1:31:53 PM.
+
+\startsong
+\stitle{hame.n yaad kabhii tum kar lenaa}%
+\film{Anokhaa Daan}%
+\year{1972}%
+\starring{Anil Dhawan, Archana, Rakesh Pande, Zahira}%
+\singer{Lata}%
+\music{Salil Chowdhury}%
+\lyrics{Yogesh}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 14 Oct 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+hame.n yaad kabhii tum kar lenaa jab rotaa hu_aa saawan aa_e
+ho bahaar aur raah me.n ko_ii phuul haay murajhaa_e
+hame.n yaad kabhii tum \threedots
+
+viiraan safar me.n jiivan ke kab tak yuu.N akele chalate piyaa
+lekar ham ye aaKir tere binaa haay aas kaa bujhataa saa diyaa
+hame.n yaad kabhii tum \threedots
+
+dete hai.n du_aa phir bhii tumako Kushiyo.n kii umar lag jaa_e tumhe.n
+jo bhii tumako Gam ho.n saare badale me.n yahaa.N mil jaa_e.N hame.n
+hame.n yaad kabhii tum \threedots
+
+#endindian
+\endsong

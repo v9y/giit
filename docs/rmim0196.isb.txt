@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0196; Created on Jan 26, 2004
+%
+\startsong
+\stitle{jo ham pe guzaratii hai ham kaise bataa_e.N}%
+\film{Panna}%
+\year{1944}%
+\starring{Jairaj, Geeta Nizami, David, Raja Paranjape, Kusum Deshpande}%
+\singer{Rajkumari}%
+\music{Amir Ali}%
+\lyrics{Wali Sahab}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 09 Feb 2003
+% Credits: Satish Kalra and Hamraaz
+% Comments: GEETanjali Series. Navyug Chitrapat.
+% Dir of Panna (pannaa) - Najam Naqvi.
+% Two more songs have the same starting words.
+% This song is in Shamshad's voice on the soundtrack.
+% Shamshad's version's availability is not known.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+jo ham pe guzaratii hai ham kaise bataa_e.N
+
+wo aa_e.N to ham chaa.Nd kii naiyaa me.n biThaa kar
+aur dil kii kahaanii unhe.n aa.Nkho.n se sunaa kar
+ban jaa_e.N ham unake aur unako apanaa banaa_e.N
+par kaise banaa_e.N
+
+aa.Nkho.n me.n guzar jaatii hai.n taaro.n bharii raate.n
+aur din ko Kayaalo.n me.n hu_aa karatii hai.n baate.n
+jo dekh rahe ho.n unhe.n ham kaise dikhaa_e.N
+ham kaise dikhaa_e.N
+%
+#endindian
+\endsong
+%

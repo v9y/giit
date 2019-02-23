@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0348; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)
+% Date: 2001-11-05 21:43:03 PST
+%
+\startsong
+\stitle{chale.n ham kahaa.N kaho}%
+\film{Police}%
+\year{1958}%
+\starring{Madhubala, Pradeep Kumar, Raj Mehra}%
+\singer{Hemant, Geeta, Chorus}%
+\music{Hemant}%
+\lyrics{Majrooh}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Nov 3, 2001
+% Comment: In memory of Pradip Kumar. He expired Oct 29, 2001.
+% Hindi version of Geeta Dutt's Bengali song "tumi je amar".
+%
+\printtitle
+#indian
+%
+he: ##mm mm hmm hmm##
+gii: chale.n ham kahaa.N kaho chale.n ham kahaa.N
+ko: ##mmmm hmm hmm##
+gii: chale.n ham kahaa.N kaho chale.n ham kahaa.N
+he: yuu.N hii chalate chalo jhuum jhuum
+kise Kabar hai.n yahaa.N
+chale.n ham kahaa.N
+
+gii: jhukii jhukii hai.n kyo.n taaro.n kii nazar
+he: o ho javaa.N javaa.N saa hai.n dilo.n kii safar
+he: o  o  o o
+gii: ##mm mm hmm hmm##
+he: sa.mbhal sa.mbhal merii jaan
+
+gii: milaa milaa mere Kwaabo.n kaa watan
+he: o ho khilaa khilaa tere gaalo.n kaa chaman
+o o
+gii: ##mmm hmmm##
+he: sa.mbhal sa.mbhal merii jaan
+%
+#endindian
+\endsong
+%

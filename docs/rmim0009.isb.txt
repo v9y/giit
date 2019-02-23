@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0009; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ulajh ga_e nainawaa}%
+\film{Roti}%
+\year{1942}%
+\starring{Akhtaribai Faizabadi, Sitara Devi, Chandramohan, Sheikh Mukhtar}%
+\singer{Akhtaribai Faizabadi}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: Abhay Phadnis <aphadnis@hotmail.com>
+% Transliterator: Abhay Phadnis
+% Date: 05 May 2003
+% Credits: Dhananjay Naniwadekar, Urzung Khan
+% Series: Anilda Series
+% Comments: Though some words below should 'properly' end in "...aaye" or
+"...aa_e", I have chosen to end them with "...aay" as that is how Akhtaribai
+has pronounced them.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ulajh ga_e nainawaa \-2
+muu.Ndhe nahii.n u.Daay (???)
+ulajh ga_e nainawaa \-2
+
+(baa.Nkaa joban tirachhii chitawan
+baaN pe baaN chalaay) \-2
+(baaN pe baaN chalaa_e baalam
+ghaayal man kar jaay) \-2
+
+ulajh ga_e nainawaa \-2
+
+akhiyan ras kii buu.Nd zaraasii
+(akhiyan ras kii buu.Nd zaraasii
+jalatii aag bujhaay) \-2
+(jalatii aag bujhaa_e baalam
+bujhii aag dahakaay) \-2
+
+ulajh ga_e nainawaa
+%
+#endindian
+\endsong
+%

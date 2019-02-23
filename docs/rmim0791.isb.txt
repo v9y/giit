@@ -1,0 +1,54 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{paan bii.Dii sigareT ... ham ko to nashaa hai muhabbat kaa janaab}%
+\film{Jwaalaamukhi}%
+\year{1980}%
+\starring{Shatrughan Sinha, Vinod Mehra, Shabana Azmi, Reena Roy}%
+\singer{Kishore, Shatrughan Sinha}%
+\music{Kalyanji-Anandji}%
+\lyrics{Anjaan}%
+%
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 14 Sep 2004
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+ki:  paan bii.Dii sigareT tambaakuu naa sharaab
+sha: huu.N to phirrrr
+ki:  ham ko to nashaa hai muhabbat kaa janaab
+     paan bii.Dii sigareT tambaakuu naa sharaab
+     ham ko to nashaa hai.n muhabbat kaa janaab
+     ham tumhaarii chhokarii se shaadii karanaa maa.ngataa
+     shaadii karake saath usiike jiinaa maranaa maa.ngataa
+
+sha: #some Shatru ba.Daba.Da which I don't remember
+
+ki:  wo din ko hake raat, raat kahuu.Ngaa
+     kahe dhuup ko barasaat, barasaat kahuu.Ngaa
+     wo do ko kahe saat, saat kahuu.Ngaa
+     wo din ko hake raat, raat kahuu.Ngaa
+     wo jo kahe mai.n bhii kahuu.N kaa.NTe ko gulaab
+     ham ko to nashaa hai ...
+
+sha: mujhe apanii beTii ke liye lagaam chaahiye
+     naa ki koii zoruu kaa Gulaam chaahiye
+
+ki:  mai.n aish karuu.Ngaa, wo kaam karegii
+     mai.n mujaraa sunuu.Ngaa, wo raah takegii
+     mai.n saut bhii laa_uu.N to kuchh na kahegii
+     tuu paa.Nv kii juutii paa.Nvo.n me.n rahegii - 2
+     aka.Degii tanegii agar naa baat sunegii
+     to baat nahii.n laat se phir baat banegii
+     ghar pe mere phir chalegaa meraa hii ruaab
+     ham ko to nashaa hai ...
+
+sha: mujhe apanii beTii kaa haath piilaa karaanaa hai
+     naa ki usakaa badan niilaa karaanaa hai
+
+#endindian
+\endsong

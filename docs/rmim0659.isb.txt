@@ -1,0 +1,43 @@
+% ITRANS SONG #
+
+Date: Mon, 21 Jun 2004 01:28:54 -0700
+From: Malini <malinikanth@hotmail.com>
+
+\startsong
+\stitle{jo dil pe guzaratii hai dikhaa bhii nahii.n sakate}%
+\film{Dahej}%
+\year{1950}%
+\starring{Jaishree, Karan Deewan, Prithviraj Lalita Pawar}%
+\singer{Jayshree}%
+\music{Vasant Desai}%
+\lyrics{Shams Lakhnavi}%
+
+% Contributor: Malini
+% Transliterator: Malini
+% Date: 21 Jun 2004
+
+\printtitle
+#indian
+
+## Each sher is rendered slowly first followed by normal pace in the same
+style as shown for the first sher ##
+jo dil pe guzaratii hai dikhaa bhii nahii.n sakate
+aur chaahe sunaanaa to sunaa bhii nahii.n sakate
+jo dil pe guzaratii hai (dikhaa bhii nahii.n sakate) \-2
+aur chaahe sunaanaa to (sunaa bhii nahii.n sakate) \-2
+
+ho.nTho.n pe haa.Nsii aa_e to (ro detii.n hai.n aa.Nkhe.n) \-2
+Gam itane sahe hai.n ke (bhulaa bhii nahii.n sakate) \-2
+jo dil pe guzaratii hai \threedots
+
+jalataa hai jigar aur (mazaa lete.n hai.n shole) \-2
+ye aag hai ulfat kii (bujhaa bhii nahii.n sakate) \-2
+jo dil pe guzaratii hai \threedots
+
+aa.Nkho.n me.n chupaaye.n hai.n (muhabbat ke do aa.Nsuu.n) \-2
+Dar ye hai na kho jaaye.n (bahaa bhii nahii.n sakate) \-2
+jo dil pe guzaratii hai \threedots
+
+
+#endindian
+\endsong

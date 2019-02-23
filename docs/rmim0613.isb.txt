@@ -1,0 +1,57 @@
+% ITRANS SONG #
+%
+% From: Surajit A. Bose (sbose@saintmarys.edu)
+% Date: 2001-12-13 00:14:59 PST 
+% 
+\startsong
+\stitle{saavan ke din aaye sajanavaa aan milo}%
+\film{Bhoomikaa}%
+\year{1977}% 
+\starring{Smita Patil, Anant Nag, Amrish Puri, Nasiruddin Shah}%
+\singer{Preeti Sagar, Bhupinder}%
+\music{Vanraj Bhatia}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Surajit A. Bose
+% Transliterator: 
+% Date: December 12, 2001
+% Credits: 
+% Comments: GEETanjali series
+%
+\printtitle
+#indian
+%
+prii: saavan ke din aa_e, sajanavaa aan milo
+barakhaa jiyaa tarasaa_e, sajanavaa aan milo
+bhuu: duurii sahii na jaa_e sajaniyaa
+yaad tumhaarii aa_e sajaniyaa, aan milo, aan milo
+dono.n: birahaa jiyaa ta.Dapaa_e
+prii: sajanavaa aan milo
+bhuu: sajaniyaa aan milo
+dono.n: aan milo
+
+prii: jaise ghaTaa me.n bijurii chamake
+tiir uThe man me.n tham\-thamake
+tiir uThe man me.n tham\-thamake
+kaise koii dhiir ba.Ndhaa_e, dhiir ba.Ndhaa_e
+birahaa jiyaa ta.Dapaa_e, sajanavaa aan milo
+bhuu: yaad tumhaarii aa_e, sajaniyaa aan milo
+dono.n: aan milo \threedots
+
+bhuu: aag lagii hai ThaNDii pavan me.n
+chhaayaa dhuaa.N saa hai a.Nkhiyan me.n
+chhaayaa dhuaa.N saa hai a.Nkhiyan me.n
+jale koii tum bin haay, tum bin haay
+birahaa jiyaa ta.Dapaa_e, sajaniyaa aan milo
+prii: duurii sahii na jaa_e sajanavaa
+bhuu: yaad tumhaarii aa_e sajaniyaa, aan milo
+prii: aan milo
+dono.n: saavan ke din aa_e
+prii: sajanavaa aan milo
+bhuu: sajaniyaa aan milo
+prii: aan milo
+bhuu: aan milo \threedots
+%
+#endindian
+\endsong
+%

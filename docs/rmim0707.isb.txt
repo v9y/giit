@@ -1,0 +1,36 @@
+% ITRANS SONG #
+
+% Date: Mon, 26 Jul 2004 21:27:25 GMT
+% From: Vinay <v9y@hotmail.com>
+
+\startsong
+\stitle{haa.N mere Gam to uThaa letaa hai}%
+\film{Dil Padosi Hai (Non-Film)}%
+\year{1987}%
+\starring{}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+
+% Audio on: HMV
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 26 Jul 2004
+% Series: Andaaz-e-Bayaan Aur, THGHT
+% Comments:
+% generated using giitaayan
+
+\printtitle
+#indian
+
+haa.N mere Gam to uThaa letaa hai Gam_Khaar nahii.n
+dil pa.Dosii hai magar meraa tarafadaar nahii.n
+
+jaane waale ko kahaa.N rok sakaa hai koii
+ghar me.n darawaazaa to hai piichhe kii diiwaar nahii.n
+
+aapake baad ye mahasuus huaa hai hamako
+jiinaa mushkil nahii.n maranaa koii dushwaar nahii.n
+
+#endindian
+\endsong

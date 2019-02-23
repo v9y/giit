@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0490; Created on Jan 26, 2004
+%
+% From: urzung khan (urzung@hotmail.com)
+% Date: 2002-09-23 19:20:03 PST
+%
+\startsong
+\stitle{kabhii tum bhii ham se the aashanaa tumahe.n yaad ho ki na yaad ho}%
+\film{Pakistani-film{Ghunghat)}%
+\year{1962}%
+\starring{Nayyar Sultana}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: <Urzung Khan>, 2002-09-23
+% Comments: Noor-e-Tarannum # 6
+%
+\printtitle
+#indian
+%
+kabhii tum bhii ham se the aashanaa
+tumahe.n yaad ho ki na yaad ho
+kabhii tum ko ham se bhii pyaar thaa
+tumahe.n yaad ho ki na yaad ho
+
+karo yaad Kvaab saa vo samaa.n
+mere paas beThe the tum yahaa.n
+liyaa haath meraa jo haath me.n
+ga_ii.n TuuT kaa.Nch kii chuu.Diyaa.n
+to gale se mujh ko lagaa liyaa
+tumahe.n yaad ho ki na yaad ho
+
+vo milan kii raat jo kaT ga_ii
+vo Kushii jo aake palaT ga_ii
+kabhii tum ne pyaar se chhuu liyaa
+kabhii laaj se me.n simit ga_ii
+mujhe yaad hai vo zaraa zaraa
+tumahe.n yaad ho ki na yaad ho
+%
+#endindian
+\endsong
+%

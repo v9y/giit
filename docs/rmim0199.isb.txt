@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0199; Created on Jan 26, 2004
+%
+\startsong
+\stitle{har galii me.n hai.n bagiiche}%
+\film{Wahaan/ Beyond the Horizon}%
+\year{1937}%
+\starring{Leela Chitnis, Prahlad, Shanta Apte, Chandramohan, Ulhas, Master Chhotu, Buwa Sahab?, Vasant Desai}%
+\singer{Shanta Apte}%
+\music{Master Krishnarao}%
+\lyrics{Pt Narottam Vyas}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 15 Feb 2003
+% Credits: Har Mandir Singh Sachdev (Hamraaz)
+% Comments: Geetanjali Series. Prabhat Films.
+% Director of 'wahaa.N' - K Narayan Kale
+% Film 'wahaan' alias Beyond The Horizon
+%
+\printtitle
+#indian
+%
+har galii me.n hai.n bagiiche
+phuul phal hai.n sab ras ras ras
+
+baaGabaa.N arazii suno
+do hukum aaraam lene
+do gha.Dii hamako bas bas bas
+
+ham pe hai.n saamaan amiirii
+par na dilabar koii shiirii.n
+bole jo ha.Ns ha.Ns ha.Ns
+%
+#endindian
+\endsong
+%

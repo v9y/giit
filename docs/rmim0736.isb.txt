@@ -1,0 +1,39 @@
+% ITRANS SONG #
+
+% Arunabha S Roy on 6/28/2004 12:01:36 PM.
+
+\startsong
+\stitle{jo Kvaab sajaa hai palako.n me.n}%
+\film{Jiyo Aur Jeene Do}%
+\year{1969}%
+\starring{Tanuja Shailesh Kumar}%
+\singer{Usha Mangeshkar}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyalpuri}%
+
+% Contributor: Arunabha S. Roy
+% Date: 28 Jun 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+jo Kvaab sajaa hai palako.n me.n
+vo Kvaab haqiiqat ban jaa_e
+ye dard jo dil me.n jaagaa hai
+ai kaash mohabbat ban jaa_e
+
+jaane kyaa sochakar shoK hotii ga_ii.n
+merii maasuum a.Nga.Daa_iyaa.N
+aa_iine kii nazar se milaakar nazar
+giit gaatii hai.n tanhaa_iyaa.N \-2
+ye dard jo dil me.n jaagaa hai \threedots
+
+chaa.Ndanii raat me.n naachataa huu.N magar
+nii.nd aa.Nkho.n me.n ghulatii nahii.n
+so rahuu.N to kisii ke jagaaye binaa
+merii ab aa.Nkh khulatii nahii.n \-2
+ye dard jo dil me.n jaagaa hai \threedots
+
+#endindian
+\endsong

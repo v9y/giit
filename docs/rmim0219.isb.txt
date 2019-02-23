@@ -1,0 +1,54 @@
+% ITRANS SONG # rmim0219; Created on Jan 26, 2004
+%
+% nani 8/24/3
+%
+\startsong
+\stitle{tuu cha.Ndaa mai.n terii chakorii}%
+\film{Birhan}%
+\year{1948}%
+\starring{Roopa, Pran, Begum Parveen, Gul Zamaan}%
+\singer{Raja Gul?, Dilshad Begum}%
+\music{Lachchhiram}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 24 aug 2003
+% Credits: S Jayaraman, Satish Kalra
+% Comments: Geetanjali Series
+% film - birahan. Raajaa Gul's name is spelt
+% as Gul Raaj and Gul Razaa as well.
+%
+\printtitle
+#indian
+%
+dilashaad:
+tuu cha.Ndaa mai.n terii chakorii
+dekho sudh bisaraa ke morii
+kal ko naa tarasaanaa, naa tarasaanaa
+choo.D na jaanaa, naa jaanaa
+
+puruSh:
+tuu koyal mai.n teraa taraanaa
+dekho kar ke mujhe diwaanaa
+kal ko bhuul na jaanaa, bhuul na jaanaa
+to.D nibhaanaa, nibhaanaa
+## to.D = to the end, in Punjabi usage ##
+
+di: tuu bane meraa naa meraa
+mai.n to terii ho lii
+pu: aaj amiirii aur Gariibii
+dono.n khele.n holii
+di: ohoho merii bhiigo dii cholii
+mai.nne thaa ghar jaanaa
+
+di: vo dekho ik pe.D pe baiThe
+hai.n do pa.nchhii pyaare
+pu: mile.n to hai.n par bichha.D na jaaye.n
+kahii.n nasiibo maare
+di: do dil milate dekh ke duniyaa
+sau sau zulm guzaare
+pu: par tum naa ghabaraanaa
+%
+#endindian
+\endsong
+%

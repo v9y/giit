@@ -1,0 +1,40 @@
+% ITRANS SONG #
+%
+% Date: Sat, 28 Feb 2004 09:04:58 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{aramaano.n kii bastii me.n}%
+\film{Shirin Farhaad}%
+\year{1945}%
+\starring{Ragini, Jayant}%
+\singer{Shamshad Begum}%
+\music{Rashid Attre}%
+\lyrics{Dinanath Madhok}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 28 Feb 2004
+% Credits  : Urzung Khan
+% Comments : GEETanjali Series
+%    shiirii.n farahaad - Pancholi Art Pictures, Lahore
+%    Dir - Prahlad Datt, Story - Dinanath Madhok
+%    Screen Play - Syed Imtiaz Ali Taj.
+%    MDs - Pt Amarnath and Rashid Attre
+%    rashid rashiid rasheed atre attre attray
+%    D N Deenanath diinaanaath Dina Nath Madhok
+%
+\printtitle
+#indian
+%
+aramaano.n kii bastii me.n    ham aag lagaa baiThe
+ai dil terii duniyaa ko       ham aap luTaa baiThe
+
+jab se tumhe.n pahaluu me.n   ham apane basaa baiThe
+dil ham ko ga.Nvaa baiThaa    ham dil ko ga.Nvaa baiThe
+
+paanii me.n bahaa de.nge   gha.Diyaa.N terii furaqat kii
+ham aa.Nkho.n ke parado.n me.n  saavan ko chhupaa baiThe
+%
+#endindian
+\endsong
+%

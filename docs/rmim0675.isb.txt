@@ -1,0 +1,43 @@
+% ITRANS SONG #
+
+% Date: Sun, 25 Apr 2004 12:01:51 -0400
+% From: "Satish Kalra" <Satish.Kalra@comcast.net>
+
+\startsong
+\stitle{phuul bhare hai.n daaman daaman}%
+\film{(Non-Film)}%
+\year{2002}%
+\starring{}%
+\singer{Jagjit Singh}%
+\music{Ghanshyam Vaswani}%
+\lyrics{Kanwar Mahinder Singh Bedi "Sahar"}%
+
+% Audio on: T-Series SHNC 01/2340
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 25 Apr 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+phuul bhare hai.n daaman daaman
+lekin viiraa.n gulashan gulashan
+
+aql kii baate.n karane vale
+kyaa samajhe.nge dil kii dha.Dakan
+kyaa samajhe.nge dil kii dha.Dakan
+
+kaun kisii ke dukh kaa saathii
+apane aa.Nsuu apanaa daaman
+lekin viiraa.n gulashan gulashan
+phuul bhare hai.n\threedots
+
+teraa daaman chho.Duu.n kaise
+merii duniyaa teraa daaman
+lekin viiraa.n gulashan gulashan
+phuul bhare hai.n\threedots
+
+#endindian
+\endsong

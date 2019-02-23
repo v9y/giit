@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0050; Created on Jan 26, 2004
+%
+% animesh 8/20/3
+%
+\startsong
+\stitle{bhajo re man raam govi.nd hari}%
+\film{non-Film(Hari Ka Dhyaan Lagaa Man Mere (Bhajans))}%
+\year{1979}%
+\singer{Rafi}%
+\music{Pt Shivram}%
+\lyrics{Surdas?}%
+%
+% contributor: Animesh Kumar
+% Transliterator: Animesh Kumar
+% series: Sukhsaagar
+% availability: Hari ka dhyaan lagaa man mere (Bhajans), Rafi - MIL
+% date: Aug 20, 2003 (Janmashtmi)
+%
+\printtitle
+#indian
+%
+(bhajo re man raam govi.nd hari)\-5
+
+(jap tap saadhan kachhu nahii.n laagat)\-2
+kharchat nahii.n gaTharii
+(bhajo re man raam govi.nd hari)\-4
+
+(sa.ntat sa.npat sukh ke kaaraN)\-2
+jaase bhuul parii
+(bhajo re man raam govi.nd hari)\-2
+
+(raam naam ko sumiran kar le)\-2
+sir pe maut kharii
+(bhajo re man raam govi.nd hari)\-3
+
+(kahat kabiir)\-2 suno bha_ii saadho
+(kahat kabiir)\-2 raam jaa mukh nahii.n
+kahat kabiir raam jaa mukh nahii.n
+wo mukh dhuul parii
+(bhajo re man raam govi.nd hari)\-8
+%
+#endindian
+\endsong
+%

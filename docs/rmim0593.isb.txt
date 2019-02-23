@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% Date: Sun, 15 Feb 2004 12:33:12 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{lelo lelo lelo koii gajaraa lelo}%
+\film{Dharmaveer}%
+\year{1937}%
+\starring{Baburao Pendharkar, Vinayakrao, Ratnaprabha, Indira Wadkar}%
+\singer{Ratnaprabha}%
+\music{Annasaheb Mainkar}%
+\lyrics{}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  15 Feb 2004
+% Credits  :
+% Comments : Geetanjali Series.
+%   The film Dharmaveer was made in Hindi and Marathi.
+%   Prod - Hans Pictures. MD - annasahab maaiNakar
+%   Dir - Vinayakrao (Master Vinayak)
+%
+\printtitle
+#indian
+%
+lelo lelo lelo koii gajaraa lelo
+raajaajii kii maalan aayii
+laayii champaa kii maalaa
+
+juuhii mogaraa belaa, gulaab ye alabelaa
+ye joban mastaanii, dekho raat kii raanii
+in kaliyo.n me.n Daalii, kin gaalo.n kii laalii
+
+phuul churaaye khuub sabere
+bha.Nware ruuThe hai.n mujhase
+
+ye taajaa haar chamelii kaa
+shR^i.ngaar hai naar navelii kaa
+jo ruuTh gayii ho chandramukhii
+to le jaao ye suuryamukhii
+%
+#endindian
+\endsong
+%

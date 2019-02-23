@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0296; Created on Jan 26, 2004
+%
+\startsong
+\stitle{naa jaane chaa.Nd kaisaa hogaa}%
+\film{Rocket Girl}%
+\year{1962}%
+\starring{Naaz, Sudesh Kumar, Jagdish Raj, Nilofar, Kanchanmala}%
+\singer{Mukesh, Kamal Barot}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Dec 9, 2002
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kamal: naa jaane chaa.Nd kaisaa hogaa
+mukesh: tum saa hasii.n to nahii.n
+kamal: ho.nge ra.ngiin ye sitaare
+mukesh: tum se ra.ngii.n to nahii.n
+
+kamal: aate hai.n niile aasamaa.N pe, jaane kidhar se sitaare
+mukesh: chalataa hai saaraa hii zamaanaa terii nazar ke sahaare
+kamal: dil chaahe aasamaa.N ko chhuu luu.N
+mukesh: le chal hame.n bhii vahii.n
+kamal: naa jaane chaa.Nd \threedots
+
+mukesh: chhaaye hai.n kaale kaale baadal yaa tum ne zulfe.n bakherii
+kamal: kho jaauu.N jaa ke baadalo.n me.n kab se tamannaa hai merii
+mukesh: jaane do Kvaab kii ye baate.n
+kamal: ham ko hai in pe yakii.n
+kamal: naa jaane chaa.Nd \threedots
+
+kamal: saare zamaane se niraalii ham ko_ii duniyaa basaaye.n
+mukesh: dil ke ra.ngiile sapano.n se mahafil ra.ngiilii sajaaye.n
+kamal: aisaa jahaan hai kahaa.N pe
+mukesh: hogaa kahii.n naa kahii.n
+kamal: naa jaane chaa.Nd \threedots
+mukesh: tum saa hasii.n to nahii.n
+%
+#endindian
+\endsong
+%

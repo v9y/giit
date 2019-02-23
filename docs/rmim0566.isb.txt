@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0566; Created on Jan 26, 2004
+%
+%        Date:               27 Jan 2004 08:00:33 -0800
+%        From:               v9y@hotmail.com (Vinay)
+% 
+\startsong
+\stitle{pyaar jab naa diyaa zi.ndagii ne kabhii}%
+\film{Sitamgar}%
+\year{1985}%
+\starring{Dharmendra, Parveen Babi, Rishi Kapoor, Poonam Dhillon}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: HMV
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 8 Aug 2003
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+pyaar jab naa diyaa zi.ndagii ne kabhii
+phir sitamagar kaun huaa aadamii yaa zi.ndagii
+
+jurm kii hai sazaa, ye to jaane.n sabhii
+koii mujarim kyuu.N banaa ye nahii.n maane.n kabhii
+saath jab naa diyaa zi.ndagii ne kabhii
+phir sitamagar kaun huaa aadamii yaa zi.ndagii
+
+daaG lagataa rahe, phir bhii jiinaa pa.De
+zillato.n rusavaa_iyo.n kaa zahar bhii piinaa pa.De
+raham jab naa kiyaa zi.ndagii ne kabhii
+phir sitamagar kaun huaa aadamii yaa zi.ndagii
+
+wo to kahataa rahaa, zi.ndagii ke liye
+ek muhabaat ke sivaa kuchh na mujhako chaahiye
+pyaar jab naa diyaa zi.ndagii ne kabhii
+phir sitamagar kaun huaa aadamii yaa zi.ndagii
+%
+#endindian
+\endsong
+%

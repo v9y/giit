@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0085; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-12-07 09:06:26 PST 
+% 
+\startsong
+\stitle{mukh se na boluu.N a.Nkhiyaa.N na kholuu.N}%
+\film{Jaliyaanwaalaa Baagh Ki Jyoti}%
+\year{1953}%
+\starring{Karan Deewan, Jagdish Sethi, Achala Sachdev, Kamlesh Kumari, Roopmala}%
+\singer{Lata, Talat}%
+\music{Anil Biswas}%
+\lyrics{Uddhav Kumar}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Dec 7, 2002
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+la: mukh se na boluu.N a.Nkhiyaa.N na kholuu.N
+    mukh se na boluu.N
+    mohe jo sataa_o balamaa, mohe jo sataa_o
+    mai.n to gaarii duu.Ngii !
+
+    lapaT\-jhapaT morii ghu.Ngharaalii laT se
+    ulajh na naTakhaT palaT\-palaTake
+    dekh na mohe tore man me.n kapaT hai
+    chal haT chal haT paas naa aa
+    mai.n to gaarii duu.Ngii!
+    mukh se na boluu.N \threedots
+
+ta: (dil to hamaaraa tere naino.n kaa maaraa
+    tujh bin hogaa kaise guzaaraa ) \-2
+
+la: jiyaa na jalaa_o balamaa, jiyaa na jalaa_o
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0207; Created on Jan 26, 2004
+%
+% nani 7/30/3
+%
+\startsong
+\stitle{aao chale.n manavaa more duur kahii.n re}%
+\film{Amar Prem}%
+\year{1948}%
+\starring{Madhubala, Raj Kapur}%
+\singer{Rajkumari, Rafi}%
+\music{Datta Thaakar}%
+\lyrics{Mohan Mishra}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 30 July 2003
+% Credits: U V Ravindra
+% Comments: Geetanjali Series
+% 'The OTHER Song' theme.
+% Film - The OTHER Amar Prem (1948)
+%
+\printtitle
+#indian
+%
+raaj: aao chale.n manavaa more duur kahii.n re
+
+rafI: saagar ke chhor kahii.n
+raaj: haa.N haa.N ambar ke or
+rafI: kshitij bane nii.D jahaa.N
+baadal jhuke ghor
+raaj:
+more a.Nganaa ke diip banii taaro.n kii paa.Ntii huii re
+
+rafI: kalpanaa ke pa.nkh lagaa
+raaj: kalpanaa ke pa.nkh lagaa
+aao u.De duur
+rafI: niThur ba.Daa haay jagat
+mere sapane kare chuur
+raaj:
+moraa jiivan re mukt bahe, gaa jaao aasaavarii re
+
+rafI: bhramar kare gu.nja
+raaj: naache.n mor jahaa.N sudh\-budh bhuul
+rafI: o sundar sundar khile ho
+aashaa ke nitya naye phuul
+raaj:
+morii bagiyaa me.n rah sadaa basant kii bahaar banii re
+%
+#endindian
+\endsong
+%

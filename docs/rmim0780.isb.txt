@@ -1,0 +1,35 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{suno jii pyaarii koyaliyaa bole}%
+\film{Sanyasi}%
+\year{1945}% 
+\starring{Shamim, Amar, Ghulam Mohammad}%
+\singer{Zohrabai, Amar}%
+\music{Naushad}%
+\lyrics{Pt Madhur}%
+ 
+% Contributor: <Urzung Khan>, 25 Aug 2004
+% Transliterator:  
+ 
+\printtitle
+#indian
+
+suno jii pyaarii koyaliyaa bole,
+koyaliyaa bole, mast javaanii Dole 
+suno jii pyaarii koyaliyaa bole
+
+Kushiyo.n ke din ab aaye Kush ho lo
+kyaa kyaa hai.n sa.ndesaa laaye kuchh bolo 
+dil dil ke ghuu.nghaT khole
+koyaliyaa bole \threedots
+
+uja.De hu_e dil phir se base.nge
+bichh.De hu_e the phir se mile.nge
+cha.ndaa badalii me.n jaaye sharamaa ke
+ulfat kaa raag sunaa_e sulajhaa ke
+dil jhuule hole hole
+koyaliyaa bole \threedots
+ 
+#endindian
+\endsong

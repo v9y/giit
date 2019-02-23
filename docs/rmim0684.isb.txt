@@ -1,0 +1,43 @@
+% ITRANS SONG #
+
+% Date: 12 Apr 2004 16:09:18 -0700
+% From: nanhafarishta@yahoo.co.in (Surma Bhopali)
+
+\startsong
+\stitle{aa jaa mere pyaar aa jaa}%
+\film{Heeraalaal Pannaalaal}%
+\year{1978}%
+\starring{Dharmendra, Randhir Kapoor, Prem Nath}%
+\singer{Hemant, Zeenat?}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 12 Apr 2004
+% Series: GEETanjali, THGHT
+% Comments: A female voice (Zeenat?) is heard screaming "pappaa"
+% after "aa mere gale se lag jaa" throughout the song.
+% generated using giitaayan
+
+\printtitle
+#indian
+
+% Listen to the tune rendered by Surma Bhopali at:
+% http://www.geoahead.com/music/aajaamerepyar.html
+
+aa jaa mere pyaar aa jaa
+dekh aise naa sataa
+ab to rahaa nahii.n jaay
+aa jaa aa jaa aa mere gale se lag jaa
+
+hai suunii tere bin jiivan kii Dagar
+thaam le merii baa.Nhe.n mere hamasafar
+aa jaa mere pyaar aa jaa \threedots
+
+aa.Nkho.n kii tamannaa ye hai jaan\-e\-jaa.n
+dekh luu.n tujhako pahale phir saaraa jahaa.n
+aa jaa mere pyaar aa jaa \threedots
+
+#endindian
+\endsong

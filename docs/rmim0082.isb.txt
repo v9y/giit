@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0082; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-11-28 08:20:55 PST 
+%
+\startsong
+\stitle{priitam merii duniyaa me.n do din to rahe hote}%
+\film{Adaa}%
+\year{1951}%
+\starring{Shekhar, Rehana, Gope}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Raja Mehdi Ali Khan}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Nov 28, 2002
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+priitam merii duniyaa me.n do din to rahe hote
+ham prem ke saagar me.n ik saath bahe hote
+
+gar yuu.N hii bichha.Danaa thaa ham se tujhe o zaalim
+do bol mohabbat ke ham se na kahe hote
+
+bedard agar tujhako Gairo.n hii kaa honaa thaa
+vaade vo vafaa_o.n ke ham se na ki_e hote
+%
+#endindian
+\endsong
+%

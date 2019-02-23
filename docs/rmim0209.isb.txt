@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0209; Created on Jan 26, 2004
+%
+% nani 8/4/3
+%
+\startsong
+\stitle{merii prem kii naiyaa chalii mai.n akelii}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Kamal Dasgupta, Juthika Roy}%
+\music{Kamal Dasgupta}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 Aug 2003
+% Comments: Geetanjali Series
+%
+\printtitle
+#indian
+%
+ju: merii prem kii naiyaa chalii, mai.n akelii
+premii, tum aao
+ka: ye kisane giit ???? gaayaa?, kahaa.N?, sunaa_o
+phir sunaa_o
+
+ka: tum ma.Njhadhaar me.n binaa sahaare
+mai.n huu.N duur kinaare
+aauu.N kaise paas tumhaare
+ju: jyuu.N dariyaa saagar se milataa
+apanii baah pasaare
+tum aao paas hamaare
+do: duniyaa ko tum man se bhuulo
+mujh me.n tum kho jaao, aao
+premii, tum aao
+
+ju: milan pyaas merii din\-din???? me.n
+ba.Dhatii jaatii man me.n
+jo bujhe nahii.n jiivan me.n
+ka: milan niir bahataa hai nisadin
+premii ke nainan me.n
+tum dekho man darpan me.n
+do: naino.n hii naino.n me.n apanii
+baat mujhe samajhaao, aao
+premii, tum aao
+%
+#endindian
+\endsong
+%

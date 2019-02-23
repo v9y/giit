@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0023; Created on Jan 26, 2004
+%
+\startsong
+\stitle{duniyaa ko chho.D ke}%
+\film{Umr Pachpan Ki Dil Bachpan Ka}%
+\year{1992}%
+\starring{Akshay Anand, Ruchika Pandey, Sriprada, Kadar Khan}%
+\singer{Amit Kumar, Alka Yagnik}%
+\music{Sameer Sen-Dilip Sen}%
+\lyrics{Yogesh}%
+%
+% Contributor: Amit Malhotra (www.Bollyvista.com)
+% Transliterator: Amit Malhotra
+% Date: Dec 22, 2002
+%
+\printtitle
+#indian
+%
+amit:  (duniyaa ko chho.D ke, rasmo.N ko to.D ke
+ aajaa chale.n duur kahii.n, ye pyaar kii ma.nzil nahii.n
+ Daranaa bhalaa kyaa hai sa.nsaar se
+ taaqat ba.Dii koii naa pyaar se
+ aa meri jaa.N baaho.n me.n aa) \-2
+ duniyaa ko chho.D ke, rasmo.n ko to.D ke
+
+amit: (tum jo mile to, sa.ng sa.ng chale to, sapane sa.nvar gaye
+alkaa: ra.ngo.n me.n Dhal ke, Kushiyo.n ke pal ye, daaman me.n bhar gaye)
+\-2
+amit:   Daranaa bhalaa kyaa \threedots
+
+alkaa:  (jab koii yaar karataa hai pyaar jalataa hai kyuu.n jahaa.N
+amit:   hamane pa.Dhii hai, tumane sunii hai, zulmo.n kii daastaa.N) \-2
+alkaa:  Daranaa bhalaa kyaa \threedots
+%
+#endindian
+\endsong
+%

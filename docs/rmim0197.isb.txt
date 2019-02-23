@@ -1,0 +1,55 @@
+% ITRANS SONG # rmim0197; Created on Jan 26, 2004
+%
+\startsong
+\stitle{prabhu charaNo.n me.n diip jalaao}%
+\film{Jwar Bhata}%
+\year{1944}%
+\starring{Mrudula, Shameem, Agha Jan, Dilip Kumar, Arun Kumar, Vikram Kapoor}%
+\singer{Parul Ghosh, Amirbai?, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 09 feb 2003
+% Credits: Har Mandir Singh
+% Comments: Anilda Series. A Bombay Talkies Film.
+% Jwar Bhata Director - Amiya Chakravarty
+%
+\printtitle
+#indian
+%
+paarul / koras:
+prabhu charaNo.n me.n diip jalaa_o
+man mandir ujiyaalaa ho
+kare.n kR^ipaa jo kR^iShNachandra to
+kyuu.N dukh kaa a.ndhiyaalaa ho
+% I haven't heard the first stanza.
+% Who has sung it - Parul or Amirbai?
+paarul yaa amirabaa_ii ?:
+
+hR^idayakamal kaa si.nhaasan
+bane kR^iShNa kaa vR^indaavan
+jiivan apanaa use sau.np do
+jo jag kaa rakhavaalaa ho
+% first stanza over
+
+paarul:
+nainaa prem\-chakor sakhii
+cha.ndaa nandakishor sakhii
+un nainan se dekh jagat ko
+base jahaa.N nandalaalaa ho
+
+paarul yaa amiirabaaii?:
+giridhar ke charaNo.n me.n aa
+raadheshyaam naam guN gaa
+koras:
+raadheshyaam raadheshyaam
+raadheshyaam raadheshyaam
+paarul:
+giridhar ke charaNo.n me.n aa
+maalik meraa bansiiwaalaa
+man meraa brajabaalaa ho
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0261; Created on Jan 26, 2004
+%
+%      Date: 2001-05-12 17:24:24 PST 
+%
+\startsong
+\stitle{mitavaa laagii re ye kaisii an_bujh aag}%
+\film{Devdaas}%
+\year{1955}%
+\starring{Dilip Kumar, Suchitra Sen, Vyjayantimala}%
+\singer{Talat}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor:Vijay Kumar
+% Transliterator:Vijay Kumar
+% Date: May 10, 2001
+% Comments:SDB Series
+% Credits:Srinivas Ganti
+%
+\printtitle
+#indian
+%
+mitavaa,laagii re ye kaisii
+an_bujh aag
+mitavaa mitavaa mitavaa,nahii aaii
+laagii re ye kaisii
+
+(byaakul jiyaraa byaakul nainaa)\-2
+ek ek chup me.n sau sau bainaa
+rah gaye aa.Nsuu luT gaye raat
+mitavaa mitavaa mitavaa
+%
+#endindian
+\endsong
+%

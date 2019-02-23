@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0518; Created on Jan 26, 2004
+%
+% urzung 4/20/3
+%
+\startsong
+\stitle{pyaar nahii.n hai sur se jis ko}%
+\film{non-Film(Sangeet)}%
+\year{}%
+\starring{}%
+\singer{Ustad Amanat Ali Khan}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: <Urzung Khan>, 4/20/3
+% Comments: Raga Malkauns
+%
+\printtitle
+#indian
+%
+pyaar nahii.n hai sur se jis ko
+voh muurakh insaan nahii.n
+pyaar nahiin hai sur\-
+
+jag me.n agar sa.ngiit na hotaa
+koii kissi kaa miit na hotaa
+yeh ahsaan hai saat suro.n kaa
+ki duniyaa viiraan nahii.n
+pyaar nahiin hai sur\-
+
+sur insaan banaa detaa hai
+sur rehman milaa detaa hai
+sur kii aag me.n jalane vaale
+parawaane naadaan nahii.n
+pyaar nahiin hai sur\-
+%
+#endindian
+\endsong
+%

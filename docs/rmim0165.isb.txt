@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0165; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-06 00:28:56 PST
+%
+\startsong
+\stitle{muhabbat me.n saaraa jahaa.N jal rahaa hai}%
+\film{Shahenshah Babar}%
+\year{1944}%
+\starring{Khursheed, Sheikh Mukhtar, Lala Yakub, Sushil Kumar, Sulochana Chaterjee}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Shams Lakhnavi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 06 Jan 2003
+% Comments: Geetanjali Series - shaha.nshaah baabar
+%    Ranjit Movietone. 78 rpm record # - N 26487 (HMV)
+%    Director - Wajahat Mirza Changezi
+%
+\printtitle
+#indian
+%
+muhabbat me.n saaraa   jahaa.N jal rahaa hai
+zamii.n to zamii.n     aasamaa.N jal rahaa hai
+
+wahaa.N roshanii dekhane ko hai duniyaa
+hamaaraa yahaa.N aashiyaa.N jal rahaa hai
+
+jigar phu.Nk rahaa hai   nikalate hai.n aa.Nsuu
+barasataa hai paanii     makaa.N jal rahaa hai
+%
+#endindian
+\endsong
+%

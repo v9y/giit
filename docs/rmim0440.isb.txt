@@ -1,0 +1,52 @@
+% ITRANS SONG # rmim0440; Created on Jan 26, 2004
+%
+% Ganti 9/11/3
+%
+\startsong
+\stitle{TuuTe hue armaano.n kii ik duniyaa basaaye}%
+\film{Lahore}%
+\year{1949}%
+\starring{Karan Divan, Nargis}%
+\singer{Lata}%
+\music{Shyamsunder}%
+\lyrics{Rajinder Krishan}% 
+%
+% Contributor: Srinivas Ganti
+% Transliterator: K Vijay Kumar
+% Comments: LATAnjali
+%
+\printtitle
+#indian
+%
+(TuuTe hue aramaano.n kii ik duniyaa basaaye)\-2
+(baiThii huu.N terii yaad ko siine se lagaaye)\-2
+TuuTe hue armaan
+ 
+(tuu duur hai nazaro.n se)\-2
+(khushii duur hai dil se)\-2
+tuu aaye to phir merii khushii lauT ke aaye
+
+** khushii ---> Kushii
+
+Tuute hue aramaano.n \threedots
+
+is Dar se ki duniyaa kahii.n majabuur na kar de
+majabuur na kar de
+palako.n se laharaate hue aa.Nsuu na bahaaye
+
+** se laharaate ---> pe larazate 
+
+Tuute hue aramaano.n \threedots
+
+ik qaid hai Gam kii
+ik qaid hai Gam kii ye judaaii kaa zamaanaa
+judaaii kaa zamaanaa
+aajaa ke Gam ? mujhase kahii.n jiit na jaaye
+
+** ke Gam ? mujhase ---> ke ye Gam mujhase
+
+Tuute hue aramaano.n \threedots
+% 
+#endindian 
+\endsong
+%

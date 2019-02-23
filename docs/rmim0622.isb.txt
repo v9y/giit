@@ -1,0 +1,35 @@
+% ITRANS SONG #
+%
+% Date: Wed, 25 Feb 2004 23:02:50 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+% 
+\startsong
+\stitle{mere ashkoN kaa Gam na kar ai dil}%
+\film{? (Non-Film)}%
+\year{ }% 
+\starring{ }%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{}%
+% 
+% Contributor: <Urzung Khan>
+% Transliterator:  
+%  
+\printtitle
+#indian
+%
+mere ashko.n kaa Gam na kar ai dil
+apanii barabaadiyo.n se Dar ai dil
+
+silsilaa  rok  biitii   baato.n  kaa
+varanaa ta.Dape gaa raat bhar ai dil
+
+raah sunsaan hai a.ndheraa  hai
+kaise tai hogaa ye safar ai dil
+
+tiir barasaae.n chaa.nd kii kirane.n
+raat  ke  na.nge  jism  par  ai  dil
+%
+#endindian
+\endsong
+%

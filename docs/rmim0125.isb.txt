@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0125; Created on Jan 26, 2004
+%
+% arunabha 10/1/3
+%
+\startsong
+\stitle{kahii.n haath ham se chhu.Daa to na loge}%
+\film{Ek Thi Reeta}%
+\year{1971}%
+\starring{Tanuja, Vinod Mehra}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Sarshar Sailani}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 27 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kahii.n haath ham se chhu.Daa to na loge
+kisii aur se dil lagaa to na loge
+                                                                                
+ba.De Kuubasuurat hai.n duniyaa ke dhokhe
+ye dhokhe merii jaan khaa to na loge
+                                                                                
+muhabbat kii ma.nzil me.n aage ba.Dhaakar
+qadam apanaa piichhe haTaa to na loge
+                                                                                
+sunaa hai zamaanaa ba.Daa bevafaa hai
+kahii.n ham se aa.Nkhe.n chhu.Daa to na loge
+%
+#endindian
+\endsong
+%

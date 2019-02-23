@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0191; Created on Jan 26, 2004
+%
+\startsong
+\stitle{raat aa_ii hai nayaa ra.ng jamaane ke li_e}%
+\film{Amrit Manthan}%
+\year{1934}%
+\starring{Nalini Tarkhad, Shanta Apte, Suresh Babu, Chandramohan, Buwa Sahab, V Mane, Vasant Desai}%
+\singer{Shanta Apte}%
+\music{Keshavrao Bhole}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 feb 2003
+% Audio on: indianscreen site's CD
+% Comments: Geetanjali Series. shaantaa aapaTe. bhoLe.
+% Prabhat Films, Pune. The film has a Marathi version
+% with the same name. Director - V Shantaram.
+% Original Story: Narayan Hari Apte (no relation of
+% Shanta Apte, I think). Hindi Adaptation and some
+% lyrics: 'Veer' Muhammad Puri. Marathi version's
+% lyrics: Shantaram Athavale. Chandramohan replaced
+% Keshavrao Date (of Jhanak J P B fame) for the Hindi
+% version. This was Prabhat's first film in Pune after
+% it moved out of Kolhapur in late 1933. Apart from
+% Shanta Apte and the future MD Vasant Desai, both
+% Nalini Tarkhad and Sureshbabu Mane are sure to have
+% sung songs in the film. But the hfgk does not have
+% any definite information. Many songs' complete
+% pstats are not known for this film.
+%
+\printtitle
+#indian
+%
+raat aa_ii hai nayaa ra.ng jamaane ke li_e
+leke aaraam kaa paiGaam zamaane ke li_e
+
+gunagunaatii hu_ii dhiire se ye aatii hai sabaa
+thapakiyaa.N maa.N kii tarah de ke sulaane ke li_e
+
+kaise berahamii se bikhare hai.n ye laal\-o\-gohar
+aasamaa.N kyaa terii daulat hai luTaane ke li_e
+
+kyaa hii achchhaa hai ye bachapan kaa zamaanaa bhii yahaa.N
+mauj karane ke li_e, khelane khaane ke li_e
+%
+#endindian
+\endsong
+%

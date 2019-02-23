@@ -1,0 +1,47 @@
+% ITRANS SONG #
+%
+% Date: Fri, 6 Feb 2004 15:25:36 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{dil kii aawaaz me.n ... a.Nkhiyaa.N milaa ke zaraa}%
+\film{Pardes}%
+\year{1950}%
+\starring{Madhubala, Rehman, Karan Dewan, Shakuntala, Jagdish Sethi, Jayant, Chanchal, Kukku, Mukri}%
+\singer{Lata, Rafi}%
+\music{Ghulam Mohammed}%
+\lyrics{Shakeel}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  06 Feb 2004
+% Credits  : UVR
+% Comments : Latanjali Series
+%    film - pardes / parades. Dir - M Sadiq
+%
+\printtitle
+#indian
+%
+ ## prelude ##
+ra : dil kii aawaaz me.n itanaa to asar ho jaaye
+     mai.n idhar aah karuu.N unako Kabar ho jaaye
+
+la : a.Nkhiyaa.N milaa ke zaraa baat karo jii
+     chorii\-chorii yuu.N naa mulaaqaat karo jii
+
+ra : o.a.a.a dil ke Kazaane koii aayaa hai luTaane
+     ajii din hai.n suhaane, chale aao naa
+la : banake niraale ba.De aaye dilawaale
+     ojii ojii bholebhaale, haTo, jaao naa
+ra : dil me.n samaake naa ye ghaat karo jii
+la : chorii chorii yuu.N naa \threedots
+
+la : o.a.a chhup ke na aao, jaao jaao na sataao
+     dhun pyaar kii na gaao paradesiyaa.N
+ra : dil meraa gaaye tumhe.n bhaaye ke na bhaaye
+     ajii hamane to dil haaye de diyaa
+la : batiyaa na aise din raat karo jii
+     chorii chorii yuu.N naa \threedots
+%
+#endindian
+\endsong
+%

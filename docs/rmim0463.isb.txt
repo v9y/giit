@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0463; Created on Jan 26, 2004
+%
+% surma 9/18/3
+% 
+\startsong
+\stitle{tere naam kaa diiwaanaa tere ghar ko Dhuu.nDhataa hai}%
+\film{Sooraj Aur Chandaa}%
+\year{1973}%
+\starring{Sanjeev Kumar, Meeta}%
+\singer{Rafi}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Anand Bakshi}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 19 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+tere naam kaa diiwaanaa tere ghar ko Dhuu.nDhataa hai
+jis nazar pe dil fidaa hai us nazar ko Dhuu.nDhataa hai
+tere naam kaa diiwaanaa \threedots
+
+aawaaz dil kii pahachaan le
+mai.n kaun huu.N tuu ye jaan le
+ek raat kaa sitaaraa ek sahar ko Dhuu.nDhataa hai
+tere naam kaa diiwaanaa \threedots
+
+jaan\-e\-wafaa o jaan\-e\-jigar
+ye bhi nahii.n tujhako hai Kabar
+is safar me.n ye musaafir hamsafar ko Dhuu.nDhataa hai
+tere naam kaa diiwaanaa \threedots
+%
+#endindian
+\endsong
+%

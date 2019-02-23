@@ -1,0 +1,44 @@
+% ITRANS SONG
+
+% Asif Alvi on 9/30/2004 6:43:34 PM.
+
+\startsong
+\stitle{aaj ye merii zi.ndagii dekho Kushii me.n jhuumatii}%
+\film{Yeh Raaste Hain Pyar Ke}%
+\year{1963}%
+\starring{Sunil Dutt, Leela Naidu}%
+\singer{Asha}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 1 Oct 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+(aaj ye merii zi.ndagii dekho Kushii me.n jhuumatii
+jaane chalii kahaa.N, jaane chalii kahaa.N) \-2
+
+(tanhaa nahii.n chalii huu.N mai.n dil bhii hai meraa hamasafar
+guzarii to huu.N idhar se mai.n phir bhii na_ii hai rahaguzar) \-2
+zarro.n me.n bhii hai roshanii leke tu mujhako aa gayii
+ai zi.ndagii kahaa.N, ai zi.ndagii kahaa.N \-2
+
+(mujhako bulaa rahaa hai kyo.n dekho vo ko_ii duur se
+ba.Dhane lage mere qadam jisakii taraf Guruur se) \-2
+dil me.n bhii hai suruur saa, aa.Nkho.n me.n bhii hai nuur saa
+shamaa jalii kahaa.N , shamaa jalii kahaa.N
+
+(raaho.n me.n merii phuul hai taare merii nigaah me.n
+ab naa mujhe pukaaraanaa, Duub chalii huu.N chaah me.n) \-2
+apanaa nahii.n hai kuchh pataa, ai merii beKudii bataa
+tuu le chalii kahaa.N, tuu le chalii kahaa.N
+
+aaj ye merii zindagii \threedots
+
+#endindian
+\endsong

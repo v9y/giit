@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0304; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam@asu.edu)
+% Date: 2003-02-08 11:57:11 PST
+%
+\startsong
+\stitle{saagar roye lahare.n shor machaaye.n}%
+\film{Pakistani-film{Koel)}%
+\year{1959}%
+\starring{Noorjehan, Aslam Perwez}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Date: 8 Feb 2003
+% Series: Noor-E-Tarannum #42
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+saagar roye, lahare.n shor machaaye.n
+yaad piyaa kii aa_e nainaa bhar aae.N
+
+lipaT lipaT ke lahare.n jhuume.n
+ba.Dh ba.Dh ke saahil ko chuume.n
+ham dukhiyaare thaam ke dil rah jaae.N
+yaad piyaa kii aae \threedots
+
+jab harajaaii bha.Nvare aa ke
+kalii kalii ko pyaar jataa ke
+mast banaa ke duur kahii.n u.D jaae.N
+yaad piyaa kii aae \threedots
+%
+#endindian
+\endsong
+%

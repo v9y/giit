@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0321; Created on Jan 26, 2004
+%
+% nimish 6/17/3
+%
+\startsong
+\stitle{dil\-e\-naashaad ko jiine kii hasarat ho ga_ii tum se}%
+\film{Chunaria}%
+\year{1948}%
+\starring{Chand Barque, Manorma, Wasti, Pran}%
+\singer{Lata}%
+\music{Hansraj Behl}%
+\lyrics{B R Sharma}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Credits: Srinivas Ganti
+% Date: 17 Jun 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+dil\-e\-naashaad ko jiine kii hasarat ho ga_ii tum se
+muhabbat kii kasam ham ko muhabbat ho ga_ii tum se
+
+dam\-e\-aaKir chale aaye ba.Daa ehasaa.N kiyaa tum ne
+hamaarii maut kitanii Kuubasuurat ho ga_ii tum se
+
+kahaa.N tak koii ta.Dape maan jaao, maan bhii jaao
+ki dil kii baat kahate ek muddat ho ga_ii tum se
+
+dil\-e\-naashaad ko jiine kii hasarat ho ga_ii tum se
+muhabbat kii kasam ham ko muhabbat ho ga_ii tum se
+%
+#endindian
+ \endsong
+%

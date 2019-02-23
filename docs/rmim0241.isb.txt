@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0241; Created on Jan 26, 2004
+%
+% george 7/23/3
+%
+\startsong
+\stitle{dil kyaa chaahe kaise boluu.N}%
+\film{Oonche Log}%
+\year{1985}%
+\starring{Rajesh Khanna, Salma Agha}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anjaan}%
+%
+% Audio On: T-Series
+% Contributor: George Thomas (georgethomas at despammed dot com)
+% Transliterator: George Thomas (georgethomas at despammed dot com)
+% Editor: Vinay P Jain
+% Date: July 23, 2003
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(dil kyaa chaahe kaise boluu.N
+baat ye dil kii aake labo.N pe 
+kyo.N ruk jaa_e mai.n kyaa jaanuu.N) \-2
+dil kyaa chaahe kaise boluu.N
+
+(maa.Nge dil duaa jisakii vo Kushii tuu hai
+mai.n to jism huu.N merii zi.ndagii tuu hai) \-2
+(tuu mujhase bichha.De to saa.Ns merii tham jaa_e) \-2
+baat ye dil kii \threedots
+
+(tujhako kyaa pataa tere ishq me.n kyaa hai
+kyaa junuu.N hai ye kyaa nashaa kyaa mazaa hai) \-2
+(tuu dekhe ha.Nsake to dard davaa ban jaa_e) \-2
+baat ye dil kii \threedots
+
+(chho.Dake teraa dar yahaa.N kahaa.N jaa_uu.N
+dil kii bebasii kaise tujhako samajhaa_uu.N) \-2
+(tujhako naa dekhuu.N to chain kahii.n naa aa_e) \-2
+baat ye dil kii \threedots
+%
+#endindian
+\endsong
+%

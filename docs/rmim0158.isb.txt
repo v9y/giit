@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0158; Created on Jan 26, 2004
+%
+% nani 11/7/02
+%
+\startsong
+\stitle{cha.ndaa chamake niil gagan me.n}%
+\film{Bahut Din Huye}%
+\year{1954}%
+\starring{Madhubala, Ratan Kumar}%
+\singer{Lata}%
+\music{Emani Shankar Shastri}%
+\lyrics{Pt Indra}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 06 Nov 2003
+% Comments: Latanjali Series
+% Based on Bhimpalasi. Gemini Pictures, Chennai.
+% Cross-reference: Muraliiwaalaa (1951)
+%
+\printtitle
+#indian
+%
+cha.ndaa chamake niil gagan me.n
+
+cha.ndaa chamake gagan me.n
+priitam chamake more nainan me.n
+chandaa chamake \threedots
+
+sa.ndhyaa raanii jab ghar jaatii
+chham\-chham karatii rajanii aatii,
+ras barasaatii, more aa.ngan me.n
+chandaa chamake gagan me.n \threedots
+
+chandaa rajanii ko chamakaaye
+rajanii ke man chandaa bhaaye
+saajan aaye man\-madhuban me.n
+chandaa chamake gagan me.n \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+% ITRANS SONG #
+%
+% Date: Sat, 7 Feb 2004 17:09:48 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{aho pati so upaai kachhu kiijai}%
+\film{Triveni Bhajans (Non-Film)}%
+\year{1970s?}%
+\starring{}%
+\singer{Kumar Gandharva, Vasundhara Komkali}%
+\music{Kumar Gandharva}%
+\lyrics{Surdas}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  07 Feb 2004
+% Credits  :
+% Comments : GEETanjali / Sukhsaagar Series
+%    Kumar Gandharva's 'Triveni' LP covers bhajans
+%    by Kabir, Meera, Surdas. His Nirguni Bhajans are
+%    also available.
+%    Kumar's Real name : Shivputra Siddharamaiah Komkali.
+%    Vasundhara Komkali was his wife. The LP features
+%    brilliant tabla sangat by Vasantrao Acharekar.
+%
+\printtitle
+#indian
+%
+aho pati so upaai kachhu kiijai
+
+jihi.n upaai apano yah baalak, raakhi ka.ns so liijai
+
+manasaa, vaachaa, kahat karmanaa, nR^ip kabah na patiijai
+
+budhi, bal, chhal kal, kaise huu.n karike kaa.Dhi anat hii diijai
+
+naahi.n na itano bhaag jo yah ras, nit lochan puT piijai
+
+suuradaas aise sut ko jas, shravananii suni suni jiijai
+%
+#endindian
+\endsong
+%

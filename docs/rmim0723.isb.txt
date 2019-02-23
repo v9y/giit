@@ -1,0 +1,43 @@
+% ITRANS SONG #
+
+% Arunabha S. Roy on 2/27/2004
+
+\startsong
+\stitle{raamaa raamaa gajab hu_ii gavaa re}%
+\film{Nayaa Zamaanaa}%
+\year{1971}%
+\starring{Dharmendra, Hema Malini, Pran, Lalita Pawar}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Anand Bakshi}%
+
+% Contributor: Arunabha S. Roy
+% Date: 27 Feb 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+haay raam !
+
+raamaa raamaa gajab hu_ii gavaa re \-2
+haal hamaraa ajab hu_ii gavaa re
+raamaa raamaa \threedots
+
+aa_ii rut ye suhaanii barasaa pahale bhii paanii
+ye hu_aa na jo ab hu_ii gavaa re
+raamaa raamaa ho raamaa raamaa
+raamaa raamaa \threedots
+
+dil machal saa gayaa hai kuchh badal saa gayaa hai
+jaane kaise ye kab hu_ii gavaa re
+raamaa raamaa ho raamaa raamaa
+raamaa raamaa \threedots
+
+kisane jaaduu chalaayaa baraso.n me.n jo ho na paayaa
+ek pal me.n vo sab hu_ii gavaa re
+raamaa raamaa ho raamaa raamaa
+raamaa raamaa \threedots
+
+#endindian
+\endsong

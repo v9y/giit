@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0227; Created on Jan 26, 2004
+%
+% nani 11/25/3
+%
+\startsong
+\stitle{o taaraa ko chaa.Nd banaane waale}%
+\film{Manmani}%
+\year{1947}%
+\starring{Ragini, Jairaj}%
+\singer{Kalyani Das}%
+\music{Kamal Dasgupta}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 25 Nov 2003
+% Comments: Geetanjali Series.
+% Manmani / Manamaanii
+% Kalyani Das - other films were Jawaab, Meghdoot,
+% Swayam Siddha. Mostly she sang for Bong MDs.
+% Kalyani who sang in Zeenat is a different woman.
+%
+\printtitle
+#indian
+%
+o taaraa ko chaa.Nd banaane waale
+is chaa.Nd ko kaun sa.Nbhaale
+baadal aae.nge ban\-ban kar matawaale
+
+bhole paradesii baar baar tuu aanaa
+terii hasii.n_o.n me.n meraa chhupaa zamaanaa
+tuu dil ko apane dil ke paas bulaa le
+
+din me.n Kushiyaa.N raato.n me.n mastii aaii
+ek na_ii chhabii banatii hai har a.nga.Daaii
+zulfo.n kii chhaa.Nv me.n apane nain ghulaa le
+%
+#endindian
+\endsong
+%

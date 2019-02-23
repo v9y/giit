@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0126; Created on Jan 26, 2004
+%
+% arunabha 10/8/3
+%
+\startsong
+\stitle{janam janam kaa hai ye naataa teraa meraa saajanaa}%
+\film{Amar Jyoti}%
+\year{1984}%
+\starring{Karan Rajdan, Anila Singh, Aloknath}%
+\singer{Asha}%
+\music{Jaidev}%
+\lyrics{Naqsh Lyallpuri}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 27 Aug 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+janam janam kaa hai ye naataa teraa meraa saajanaa
+saath kabhii na chhuuTe pyaar kabhii na TuuTe baalamaa
+                                                                                
+banake sharmiilii dulhane.n saj\-dhajake bahaare.n aa_e.Ngii.n
+miiThii\-miiThii sii Kushabuu se man kii bagiyaa mahakaa_e.Ngii.n
+bas giit yahii duharaa_e.Ngii.n, amar rahegaa pyaar apanaa
+                                                                                
+mai.n saritaa tuu saagar hai mai.n badarii tuu saavan hai
+mai.n chhavi huu.N su.ndar sapano.n kii tuu aashaa_o.n kaa darpan hai
+tuu maajhii mai.n naiyaa terii, ye pyaar banaa patavaar apanaa
+                                                                                
+hai priit madhur sii raaginii jiivan biinaa ke taar kii
+jo dekhii tere naino.n me.n hai amar vo jyoti pyaar kii
+is paar kabhii us paar kabhii, hu_aa milan sau baar apanaa
+%
+#endindian
+\endsong
+%

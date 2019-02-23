@@ -1,0 +1,55 @@
+% ITRANS SONG #
+
+% Date: Fri, 30 Apr 2004 11:43:17 -0400
+% From: "Satish Kalra" <Satish.Kalra@comcast.net>
+
+\startsong
+\stitle{dil ye du_aa de rahaa hai sanam}%
+\film{Zameer}%
+\year{2004}%
+\starring{Ajay Devgan, Amisha Patel}%
+\singer{Kavita Krishnamurthy, Udit Narayan}%
+\music{Jatin-Lalit}%
+\lyrics{Sameer}%
+
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 1 May 2004
+% Series: GEETanjali
+% Credits: V S Rawat (for converting to isb format)
+% Generated using Giitaayan
+
+\printtitle
+#indian
+
+u:
+dil ye du_aa de rahaa hai sanam
+pyaar zi.ndaa hamaaraa rahe
+yahaa.N chaahe rahe.n na rahe.n ham
+
+ka:
+dil ye du_aa de rahaa hai sanam
+
+u:
+har Kushii mile
+daaman me.n diladaar ke
+aadamii wahii
+ruuke na kabhii haar ke
+ma.nzil ma.nzil tumako paaye.n
+chuume.n tumhaare kadam
+
+ka:
+dil ye du_aa de rahaa hai sanam
+pyaar zi.ndaa hamaaraa rahe
+yahaa.N chaahe rahe.n na rahe.n ham
+
+u:
+dil ye du_aa de rahaa hai sanam
+pyaar zi.ndaa hamaaraa rahe
+yahaa.N chaahe rahe.n na rahe.n ham
+
+ka:
+yahaa.N chaahe rahe.n na rahe.n ham
+
+#endindian
+\endsong

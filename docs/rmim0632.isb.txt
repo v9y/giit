@@ -1,0 +1,56 @@
+% ITRANS SONG #
+
+% Date: Wed, 30 Jun 2004 22:59:09 -0400
+% From: Amit Malhotra <amit @ bollyvista . com>
+
+\startsong
+\stitle{vatanaa ve, o mereyaa vatanaa ve}%
+\film{Pinjar}%
+\year{2003}%
+\starring{Urmila Matondkar, Manoj Bajpai, Sanjay Suri}%
+\singer{Roop Kumar Rathod, Uttam Singh}%
+\music{Uttam Singh}%
+\lyrics{Gulzar}%
+
+% Contributor: Amit Malhotra, 30 Jun 2004
+% Transliterator: Amit Malhotra
+
+\printtitle
+#indian
+
+vatanaa ve, o mereyaa vatanaa ve
+vatanaa ve, o mereyaa vatanaa ve
+
+(vatanaa ve, o mereyaa vatanaa ve) \-3
+ba.nT gaye tere aa.Ngan
+bujh gaye chuulhe saa.Njhe
+luT gayii terii hiire.n
+mar gaye tere raa.Njhe
+(vatanaa ve, o mereyaa vatanaa ve) \-2
+
+kaun tujhe paanii puuchhegaa, fasale.n sii.nchegaa
+kaun terii maaTii me.n Tha.nDii chhaa.Nv biijegaa
+o.a.a.a.a
+kaun tujhe paanii puuchhegaa, fasale.n sii.nchegaa
+kaun terii maaTii me.n Tha.nDii chhaa.Nv biijegaa
+bairii kaaT ke le gaye teriyaa.N Tha.nDiyaa.N chhaa.Nvaa.N ve
+(vatanaa ve, o mereyaa vatanaa ve) \-2
+ba.nT gaye tere aa.Ngan \threedots
+
+ham na rahe to kaun basaayegaa teraa viiraanaa
+mu.D ke ham na dekhe.nge aur tuu bhii yaad na aanaa
+o.a.a.a.a
+ham na rahe to kaun basaayegaa teraa viiraanaa
+mu.D ke ham na dekhe.nge aur tuu bhii yaad na aanaa
+giiTe ka.nche baa.NT ke kar lii kar lii kuTTii vatanaa ve
+(vatanaa ve, o mereyaa vatanaa ve) \-2
+ba.nT gaye tere aa.Ngan \threedots
+(vatanaa ve, o mereyaa vatanaa ve ) \-2
+
+%background singing of vatanaa ve vatanaa by Uttam Singh
+uttam: vatanaa ve.a.a.a
+ruup: (vatanaa ve o mereyaa vatanaa ve) \-7
+
+#endindian
+\endsong
+

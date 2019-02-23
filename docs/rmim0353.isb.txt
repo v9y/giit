@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0353; Created on Jan 26, 2004
+%
+% From: Prithviraj Dasgupta (prithvi_dg@yahoo.com)
+% Date: 2002-04-26 19:14:53 PST
+%
+\startsong
+\stitle{muhabbat me merii tarah jo luTaa ho}%
+\film{Shart}%
+\year{1954}%
+\starring{Dipak Mukherjee,Shyama}%
+\singer{Hemant}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Nov 27, 2001
+% Comment: Hemantda series
+% Availability: HMV Shart/Sazaa sdtrk CD PMLP 5837
+%
+\printtitle
+#indian
+%
+muhabbat me merii tarah jo luTaa ho
+mere saath vo bhii gale mil ke ro le
+
+duHkhe dil to merii tarah chup rahe vo
+kisii se kabhii haal\-e\-dil na kahe vo
+kaleje kaa ye daag ashqo.n se dho le
+mere saath vo bhii gale mil ke ro le
+muhabbat me merii tarah \threedots
+%
+#endindian
+\endsong
+%

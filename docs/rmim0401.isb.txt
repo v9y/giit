@@ -1,0 +1,53 @@
+% ITRANS SONG # rmim0401; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2000-10-12 16:20:09 PST                        
+%
+\startsong
+\stitle{dil kaa dard na jaane duniyaa}%
+\film{Naujawaan}%
+\year{1951}%
+\starring{Nalini Jayawant, Premnath}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Srinivas Ganti 
+% Transliterator: V S Rawat
+%
+\printtitle 
+#indian 
+% 
+jiyaa jaae piyaa aajaa/3
+
+dil ka dard na jaane duniyaa.N jaane dil ta.Dapanaa
+pyaar ke do bolo.n ke badale dushman hua zamaanaa
+haay re haay dushman hua zamaanaa
+dil ka dard na jaane duniyaa.N jaane dil ta.Dapanaa
+
+ummiid ne thokar khaaii hai
+dil deke judaai paaii hai
+tera Gam haay merii tanahaai hai
+pahale se na tha ye jaana
+pahale se na tha ye jaana, ke dil sau(?) maanaa,haay jiite jaana(?)
+haay re haay dushman hua zamaanaa
+dil ka dard na jaane duniyaa.N jaane dil ta.Dapanaa
+pyaar ke do bolo.n ke badale dushman hua zamaanaa
+haay re haay dushman hua zamaanaa
+
+aa.Nkho.n mei.n jo aa.Nsuu aae.nge
+tasaviir terii dikhalae.nge
+ham thaam ke dil raha jaae.nge
+pahale se na tha ye jaana
+pahale se na tha ye jaana, ke dil sau maanaa,haay jiite jaana(?)
+haay re haay dushman hua zamaanaa
+dil ka dard na jaane duniyaa.N  jaane dil ta.Dapanaa
+pyaar ke do bolo.n ke badale dushman hua zamaanaa
+haay re haay dushman hua zamaanaa
+dil ka dard na jaane duniyaa.N jaane dil ta.Dapanaa
+
+jiyaa jaae piyaa aajaa/3
+% 
+#endindian 
+\endsong 
+%

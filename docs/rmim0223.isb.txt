@@ -1,0 +1,73 @@
+% ITRANS SONG # rmim0223; Created on Jan 26, 2004
+%
+% nani 11/6/03
+%
+\startsong
+\stitle{merii miTTii kii duniyaa niraalii}%
+\film{Sham Savera}%
+\year{1946}%
+\starring{Swarnalata, Wasti, Sulochana Chaterjee, Rafiq Ghaznavi}%
+\singer{Rafiq Ghaznavi/ S D Batish}%
+\music{Pt Amarnath}%
+\lyrics{D N Madhok, Nazim Panipati}%
+%
+% Contributor: Urzung Khan
+% Date: 06 Nov 2003
+% Comments: Geetanjali Series
+% This is a two-part song in the film.
+% Part one, by the elder brother, is in Rafiq
+% Ghaznavi's voice. Part two, by the younger brother
+% in the film, is in Batish's voice.
+% Some sources claim that both parts were sung
+% by Batish only.
+% D N Madhok, Nazim Panipati were the lyricists
+% for the film.
+%
+\printtitle
+#indian
+%
+merii miTTii kii duniyaa niraalii
+o.a.a jahaa.N bhagawaan base.n
+
+## Part One - Sung by Rafiq Ghaznavi ##
+
+phuulo.n se ra.ng churaayaa
+kaa.NTo.n se dard milaayaa
+komal saa pa.nkha.Diyo.n se
+belo.n ne pyaar sidhaayaa
+mai.n huu.N sundaraban kaa maalii
+o.a.a jahaa.N bhagawaan base.n \threedots
+
+hirano.n ne aa.Nkhe.n pherii.n
+moro.n ne naach sikhaayaa
+madh bharii koyal kii kuu kuu
+pii pii papiihaa ne gayaa
+ban ke pa.nchhii kii umadaa nishaanii
+o.a.a jahaa.N bhagawaan base.n \threedots
+
+gurbo.n kaa saath jahaa.N hai
+pariyo.n kaa naach jahaa.N hai
+sundar taano.n kaa rasiilaa
+prem kaa giit jahaa.N hai
+mai.n ne jaaduu kii nagarii basaa lii
+o.a.a jahaa.N bhagawaan base.n \threedots
+
+## Part Two - Sung by S D Batish ##
+
+ho.n jahaa.N chaa.Ndanii raate.n
+pyaar\-o\-muhabbat kii ghaate.n
+sundar sunaharaa jiivan ho
+kyuu.N na ho.n pyaar kii baate.n
+tuu ne ga.ngaa kii nadiyaa bahaalii
+o.a.a jahaa.N bhagawaan base.n \threedots
+
+jiivan me.n thaa jo a.Ndheraa
+kiraNo.n ne kiyaa saveraa
+khilaa kamal hai suhaanaa
+swarg banaa ghar teraa
+tuu ne priit nagariyaa basaalii
+o.a.a jahaa.N bhagawaan base.n \threedots
+%
+#endindian
+\endsong
+%

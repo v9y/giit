@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0511; Created on Jan 26, 2004
+%
+\startsong
+\stitle{mai.n dil me.n, mai.n dil me.n dard basaa laa_ii}%
+\film{Anmol Ghadi}%
+\year{1946}%
+\starring{Surinder, Noorjehan, Suraiya}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Urzung Khan, 14/02/03
+%
+\printtitle
+#indian
+%
+mai.n dil me.n, mai.n dil me.n
+dard basaa laa_ii
+naino.n se nain milaa aa_ii
+unako apane man kii baate.n
+binaa kahe samajhaa aa_ii
+mai.n dil me.n \threedots
+
+payaar se ko_ii dekh rahaa thaa
+mai.n sahamii ghabaraa_ii
+Dhalakii morii dhaanii chunariyaa
+lii mai.n ne a.Nga.Daa_ii
+bin dekhe sharamaa_ii
+mai.n man kaa, mai.n man kaa chain luTaa aa_ii
+naino.n se nain milaa aa_ii
+main dil me.n \threedots
+
+dil se uThii lahar Kushii kii
+a.Ng a.Ng laharaa_ii
+kalii mere joban kii chaTakii
+phuul banii musakaa_ii
+mai.n jiivan, mai.n jiivan giit sunaa aa_ii
+naino.n se nain milaa aa_ii
+main dil me.n \threedots
+%
+#endindian
+\endsong
+%

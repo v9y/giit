@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 9/23/2004 4:31:11 PM.
+
+\startsong
+\stitle{ba.Dii pyaarii kahaanii hai mohabbat kii kahaanii bhii}%
+\film{Do Roti}%
+\year{1957}%
+\starring{Nirupa Roy, Balraj Sahni, Johny Walker, Meenu Mumtaz}%
+\singer{Lata, Rafi}%
+\music{Roshan}%
+\lyrics{Khumar Barabankwi}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 23 Sep 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+la: ba.Dii pyaarii kahaanii hai mohabbat kii kahaanii bhii
+ra: jahaa.N vaalo mohabbat aag bhii hai aur paanii bhii
+
+la: kahii.n lab par taraane hain kahii.n ho.nTho.n par aahe.n hai.n
+ra: kahii.n Kanjar gale par hai.n kahii.n gardan me.n baahe.n hai.n
+la:mohabbat maut bhii hai aur mohabbat zi.ndagaanii bhii
+dono.n: jahaa.N vaalo mohabbat aag bhii hai aur paanii bhii
+
+ra: kisii ko paake ko_ii miiThe\-miiThe giit gaataa hai
+la: kisii ko khoke ko_ii raat din aa.Nsuu bahaataa hai
+ra: mohabbat muskuraahaT bhii hai ashko.n kii zabaanii bhii
+dono.n: jahaa.N vaalo mohabbat aag bhii hai aur paanii bhii
+
+la: kahii.n hotii hai.n baate.n chaa.Nd sitaaro.n kii mastii me.n
+ra: a.ndheraa hii a.ndheraa hii kisii ke dil kii bastii me.n
+la: mohabbat ik dorangii.n rut hai suunii bhii suhaanii bhii
+dono.n: jahaa.N vaalo mohabbat aag bhii hai aur paanii bhii
+
+#endindian
+\endsong

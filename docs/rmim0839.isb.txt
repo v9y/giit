@@ -1,0 +1,27 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{dam Ganiimat shumaar karataa huu.N}%
+\film{? (Non-Film)}%
+\year{1950s}% 
+\starring{ }%
+\singer{S D Batish}%
+\music{ }%
+\lyrics{Tahir}%
+ 
+% Contributor: <Urzung Khan>, 30 Oct 2004
+
+\printtitle
+#indian
+
+dam Ganiimat shumaar karataa huu.N
+shukar\-e\-parwar-digaar karataa huu.N
+
+haa_e ummiid\-e\-vaadaa\-e\-fardaa
+aaj tak intezaar karataa huu.N
+
+pyaar kii kuchh naa puuchhiye taahir
+pyaar aataa hai pyaar karataa huu.N 
+
+#endindian
+\endsong

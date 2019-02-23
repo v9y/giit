@@ -1,0 +1,35 @@
+% ITRANS SONG #
+
+% Arunabha S Roy on 5/23/2003 1:48:53 AM.
+
+\startsong
+\stitle{hame.n raasto.n kii zaruurat nahii.n hai}%
+\film{Naram Garam}%
+\year{1981}%
+\starring{Swaroop Sampat, Utpal Dutt, Amol Palekar, Shatrughan Sinha, A.K. Hangal}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+
+% Contributor: Arunabha S. Roy
+% Date: 23 May 2003
+% generated using giitaayan
+
+\printtitle
+#indian
+
+hame.n raasto.n kii zaruurat nahii.n hai
+hame.n tere paa.Nvo.n ke nishaa.N mil ga_e hai.N
+
+bhaTakane kaa Dar hai na khone kaa Dar hai
+jahaa.N teraa saayaa vahaa.N apanaa ghar hai
+zamii.n pe hame.n aasamaa.N mil ga_e hai.n
+hame.n raasto.n kii \threedots
+
+ba.Dii aarazuu thii ke vo din bhii aa_e
+tere naam se ham Kud ko bulaa_e
+tere naam se do jahaa.N mil ga_e hai.n
+hame.n raasto.n kii \threedots
+
+#endindian
+\endsong

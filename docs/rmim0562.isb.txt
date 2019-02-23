@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0562; Created on Jan 26, 2004
+%
+% vinay p jain 9/9/3
+% ITRANS Song #
+% 
+\startsong
+\stitle{haath chhuuTe.n bhii to rishte nahii.n chhuuTaa karate}%
+\film{Pinjar}%
+\year{2003}%
+\starring{Urmila Matondkar, Manoj Bajpai}%
+\singer{Jagjit Singh, Preeti Uttam, Chorus}%
+\music{Uttam Singh}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 9 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+haath chhuuTe.n bhii to rishte nahii.n chhuuTaa karate
+waqt kii shaaK se lamhe nahii.n TuuTaa karate
+
+jisane pairo.n ke nishaa.N bhii nahii.n chho.De piichhe
+us musaafir kaa pataa bhii nahii.n puuchhaa karate
+
+tuune aawaaz nahii.n dii kabhii mu.Dakar waranaa
+ham ka_ii sadiyaa.N tujhe ghuum ke dekhaa karate
+
+bah rahii hai terii jaanib hii zamii.n pairo.n kii
+thak gaye dau.Date dariyaao.n kaa piichhaa karate
+%
+#endindian
+\endsong
+%

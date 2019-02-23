@@ -1,0 +1,56 @@
+% ITRANS SONG #
+
+% Date: Thu, 25 Mar 2004 11:34:26 +0530
+% From: "Abhay Phadnis" <aphadnis@hotmail.com>
+
+\startsong
+\stitle{pahalaa pahalaa pyaar naa bhuule}%
+\film{Mazdoor}%
+\year{1983}%
+\starring{Dilip Kumar, Nanda, Raj Babbar, Rati Agnihotri, Padmini Kolhapure}%
+\singer{Salma Agha}%
+\music{R D Burman}%
+\lyrics{Hassan Kamaal}%
+
+% Audio on: HMV: "Anmol Ratan - Salma Agha"
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 24 Mar 2004
+% Series: Geetanjali
+% Comments:
+% generated using giitaayan
+
+\printtitle
+#indian
+
+(pahalaa pahalaa pyaar naa bhuule
+bhuule chaahe saarii Kudaa_ii) \-2
+mujhe milaa pyaar jo teraa
+mai.nne saarii duniyaa bhulaa_ii
+pahalaa pahalaa pyaar naa bhuule
+bhuule chaahe saarii Kudaa_ii
+
+merii nazar se terii nazar tak
+dekhuu.N jidhar bas pyaar hii dekhuu.N
+tujhako nainaa dekh thake naa
+chaahe tujhe sau baar bhii dekhuu.N
+utanii hii aur ba.Dhii hai
+jitanii ye pyaas bujhaa_ii
+
+pahalaa pahalaa pyaar naa bhuule
+bhuule chaahe saarii Kudaa_ii
+
+pyaar ne bandhan aisaa baa.Ndhaa
+ho gaye tan man ek hamaare
+Kud ko khokar tum ko paayaa
+haar ke jiite jiit ke haare
+teraa meraa saath naa chhuuTe
+chhuuTe chaahe saarii Kudaa_ii
+
+pahalaa pahalaa pyaar naa bhuule
+bhuule chaahe saarii Kudaa_ii
+mujhe milaa pyaar jo teraa
+mai.nne saarii duniyaa bhulaa_ii
+
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0252; Created on Jan 26, 2004
+%
+\startsong 
+\stitle{aaj kii raat nahii.n shikave shikaayat ke liye}% 
+\film{Dharmputra}%
+\year{1961}%
+\starring{Shashi Kapoor, Indrani Mukherjee}% 
+\singer{Mahendra Kapoor}% 
+\music{N Dutta}% 
+\lyrics{Sahir}% 
+% 
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit 
+% Date: October 23, 1999 
+% Comments: Geetanjali series 
+% 
+\printtitle 
+#indian 
+% 
+aaj kii raat nahii.n shikave shikaayat ke liye
+aaj har lamhaa har ek pal hai muhabbat ke liye
+reshamii sej hai mahakii hu_ii tanhaa_ii hai
+aaj kii raat muraado.n kii baaraat aa_ii hai
+aaj kii raat \threedots
+
+har gunaah aaj muqaddas hai farishto.n kii tarah
+kaa.Npate haatho.n ko mil jaane do rishto.n kii tarah
+aaj milane me.n na ulajhan hai na rusavaa_ii hai
+aaj kii raat muraado.n kii baaraat aa_ii hai
+aaj kii raat \threedots
+
+apanii zulfe.n mere shaane pe bikhar jaane do
+is hasii.n raat ko kuchh aur nikhar jaane do
+subah ne aaj na aane kii qasam khaa_ii hai
+aaj kii raat muraado.n kii baaraat aa_ii hai
+aaj kii raat \threedots
+% 
+#endindian 
+\endsong
+%

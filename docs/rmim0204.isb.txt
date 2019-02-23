@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0204; Created on Jan 26, 2004
+%
+% nani 7/24/3
+%
+\startsong
+\stitle{merii ro ro a.Nkhiyaa.N laal hu_ii.N}%
+\film{Caravan}%
+\year{1944}%
+\starring{Arun, Kamla Chaterjee}%
+\singer{Amirbai, Bulo C Rani urf Bhola}%
+\music{Bulo C Rani}%
+\lyrics{Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 24 July 2003
+% Comments: Geetanjali Series
+% Bhola was Bulo C Rani's pseudonym.
+% kaarawaa.N / Caravan - Ranjit Movietone; Dir - Aspi
+%
+\printtitle
+#indian
+%
+a: merii ro ro a.Nkhiyaa.N laal hu_ii.N
+bho: kyuu.N ro ro a.Nkhiyaa.N laal hu_ii.N
+
+amiirabaaii:
+auro.n ke saajan phuul samajh kar
+pyaar se garawaa lagaa_e.N
+hamare saajan jaan maTTii\-saa
+der hame.n Thukaraa_e.N
+
+bholaa:
+aisaa ruup suhaanaa tumharaa
+saj\-dhaj aisii pyaarii
+puuranamaa kaa chandaa jaise
+phaagun kii phuulawaarii
+
+amiirabaa_ii:
+laaj kii maarii kah na sakuu.N mai.n
+aur jiyaa naa maane
+man me.n rah ke man ke baasii
+man kii baat na jaane
+%
+#endindian
+\endsong
+%

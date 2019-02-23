@@ -1,0 +1,52 @@
+% ITRANS SONG #
+%
+% Date: Thu, 29 Jan 2004 10:30:00 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{aaye din pyaar ke saajanaa}%
+\film{Parakh}%
+\year{1944}%
+\starring{Mehtab, Balwant Singh, Kaushalya}%
+\singer{Kaushalya, Balwant Singh}%
+\music{Khurshid Anwar}%
+\lyrics{Gaafil Harnalvi}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 29 Jan 2004
+% Credits : Har Mandir Singh 'Hamraaz'
+% Comments : Geetanjali Series
+% The OTHER Song Theme : From the OTHER Parakh
+% Dir - Sohrab Modi
+%
+\printtitle
+#indian
+%
+kaushalyaa :
+aaye din pyaar ke saajanaa
+pichhalii baate.n bhulaa, jo huaa so huaa
+dekh man aa.Nkh se jhaa.Nk kar kah rahaa
+miiThe sapano.n kii duniyaa basaa
+
+balawant :
+raaz teraa na kuchh paa sakaa
+pal me.n aa.Nkhe.n terii dard ban kar bahe.n
+pal me.n ban kar zubaa.N aur hii kuchh kahe.n
+sach bataa ye ishaare hai.n kyaa
+
+kaushalyaa :
+tum se kaise kahuu.N mai.n piyaa
+laaj aaye mujhe, hichakichaaye zubaa.N
+pyaar kii baat thii aaj ghar me.n wahaa.N
+mere baabaa ne ye kah diyaa
+ba : kyaa kah diyaa
+kau : kuchh kah diyaa
+
+kaushalyaa :
+phuul aashaao.n ke ai sajan khil gaye
+bas samajh lo ki ham mil gaye, mil gaye
+ek hokar rahe.nge sadaa
+%
+#endindian
+\endsong
+%

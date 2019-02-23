@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0347; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)
+% Date: 2001-11-07 20:48:24 PST
+%
+\startsong
+\stitle{aajaa zaraa mere dil ke sahaare}%
+\film{Ek Jhalak}%
+\year{1957}%
+\starring{Pradip Kumar, Vyjanthimala}%
+\singer{Hemant, Geeta}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Date: Nov 3, 2001
+% Comments: Obituary to Pradip Kumar on his recent demise
+% Oct 29, 2001.
+%
+\printtitle
+#indian
+%
+he: aajaa zaraa
+aajaa zaraa mere dil ke sahaare dilarubaa
+tere li_e mere dil me terii yaad hai javaa.N
+
+gii: are jaa jaa jaa dekh lii mai.n ne sheKii terii
+na sataa jaa jaa ab na chalegii yahaa.N chaale.n terii
+ii hii hii
+he: o ho ho ho
+tuu ne na jaanaa mai.n huu.N diivaanaa
+dil me chhupii hai.n muhabbat terii
+gii: kuchh nahii.n yahaa.N
+he: aajaa zaraa \threedots
+
+he: arii aa aa aa maan le o gorii kahanaa meraa
+na jalaa aa aa achchhaa nahii.n duur rahanaa teraa
+gii: o ho ho ho
+pahle aka.Danaa phir paa.Nv pa.Danaa
+duniyaa me ma.rdo.n kii aadat burii
+he: jaa_egii kahaa.N
+he: aajaa zaraa
+gii: uu.N huu.N
+he: aajaa zaraa
+gii: na na
+he: aajaa zaraa
+%
+#endindian
+\endsong
+%

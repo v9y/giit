@@ -1,0 +1,33 @@
+% ITRANS SONG # rmim0531; Created on Jan 26, 2004
+%
+% urzung khan 11/28/3
+%
+\startsong
+\stitle{saaz ye kiinaa\-saaz kyaa jaane.n}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Anait Bai}%
+\music{}%
+\lyrics{Firaq Gorakhpuri}%
+%
+% Contributor: <Urzung Khan>, 11/28/3
+%
+\printtitle
+#indian
+%
+saaz ye kiinaa\-saaz kyaa jaane.n
+naaz waale niaaz kyaa jaane.n
+
+jin ko apanii Kabar nahii.n ab tak
+vo mere dil kaa raaz kyaa jaane.n
+
+puuchhiye maikasho.n se lutf\-e\-sharaab
+ye  mazaa  pakbaaz  kyaa   jaane.n
+
+jo raah\-e\-ishq me.n xxx naa the
+vo nashe ko 'Firaq' kyaa jaane.n
+%
+#endindian
+\endsong
+%

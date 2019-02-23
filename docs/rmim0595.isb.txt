@@ -1,0 +1,45 @@
+% ITRANS SONG #
+%
+% Date: Tue, 17 Feb 2004 20:24:47 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{kisii ke madhur pyaar me.n}%
+\film{Sindoor}%
+\year{1947}%
+\starring{Kishor Sahu, Shameem, Paro, Sushil Sahu}%
+\singer{Naseem Akhtar, Sushil Sahu}%
+\music{Khemchand Prakash}%
+\lyrics{Neelkanth Tiwari}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  17 feb 2004
+% Credits  :
+% Comments : GEETanjali Series.
+%    Filmistan. Dir - Kishor Sahu. Film - si.nduur
+%    nasim nasiim susheel sushiil saahuu sahoo saahoo
+%
+\printtitle
+#indian
+%
+na : kisii ke madhur pyaar me.n man meraa kho gayaa
+su : jiivan kii har galii me.n meraa chaa.Nd ha.Ns gayaa
+na : mai.n ho gayii kisii kii, koii meraa ho gayaa
+do : kisii ke madhur pyaar me.n  \threedots
+
+su : ban ban ke taare naino.n me.n sapane chamak uThe
+na : har a.ng me.n uma.ng ke gahane damak uThe
+su : haa.N chupake chupake jab se koii man me.n bas gayaa
+na : mai.n ho gayii kisii kii  \threedots
+
+su : rah\-rah ke mere dil se hai kahataa kisii kaa dil
+na : haa.n, ek hii ma.nzil,  hai apanii ek hii ma.nzil
+su : ham ek hii ma.nzil pe chale.n, ho na kabhii duur
+na : ham ek hii dil se chale, ho naa kabhii duur
+su : ban jaaye.n merii priit terii maa.ng kaa si.nduur
+na : haa.N chupake chupake jab se koii man me.n bas gayaa
+     mai.n ho gayii kisii kii  \threedots
+%
+#endindian
+\endsong
+%

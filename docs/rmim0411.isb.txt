@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0411; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2001-08-04 20:21:49 PST                        
+%
+\startsong
+\stitle{ummiid bharaa pa.nchhii thaa khoj rahaa sajanii}%
+\film{Eight Days/ Aath Din/ 8 Days/ 8 Din}%
+\year{1946}%
+\starring{Ashok Kumar}%
+\singer{S D Burman}%
+\music{S D Burman}%
+\lyrics{Gl S Nepali}%
+%
+% Contributor:Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:4 August 2001
+% Comments:SDB series
+%
+\printtitle
+#indian
+%
+(ummiid bharaa pa.nchhii,thaa khoj rahaa sajanii
+kahataa thaa yahii pa.nchhii,haay dekho re gaii sajanii
+haay dekho re gaii sajanii)\-2
+
+taaro.n bharii rajanii,aa.Nchal ko fasaa re \-2
+puuch rahii ha.Nsake,tuu kisako pukaare
+tuu kisako pukaare
+nainan me.n niir bhare,dard sambhaale
+ummiid bharaa pa.nchhii /threedots
+
+(rajanii,mohe na sataa,dil na jalaa,itanaa bataa
+kahaa.N ga_ii sajanii,o kahaa.N ga_ii sajanii)\-2
+aa.Nsuu hai.n mere nainon ke,naa ho sakii ? buu.Nde \-2
+dil me.n lagii aag lagaa,man me.n milan ke
+ho man me.n milan ke
+haalat mere,tujhe taras na aaye
+ummiid bharaa pa.nchhii /threedots
+%
+#endindian
+\endsong
+%

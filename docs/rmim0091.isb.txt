@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0091; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-12-23 11:58:29 PST 
+%
+\startsong
+\stitle{mere piyaa se ko_ii jaake kah de}%
+\film{Aashiyaanaa}%
+\year{1952}%
+\starring{Raj Kapoor, Nargis, Mohana}%
+\singer{Lata}%
+\music{Madan Mohan}%
+\lyrics{Rajinder Krishan}%
+% 
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Dec 23, 2002
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+mere piyaa se ko_ii jaake kah de
+jiivan kaa sahaaraa terii yaad hai \-2
+
+daaman na teraa chho.Duu.N mai.n tujh se na mu.Nh mo.Duu.N
+ho din yaa raat terii yaad saath 
+ye riit na kabhii to.Duu.N
+mere piyaa se ko_ii \threedots
+
+rut aa_e chalii jaa_e merii priit na murajhaa_e
+chalii jaa_e bahaar teraa intezaar 
+mere dil se kabhii na jaa_e
+mere piyaa se ko_ii \threedots
+
+raato.n ko ginuu.N taare dil ta.Dap\-ta.Dap haare
+chale.n Gam ke tiir dil dhare na dhiir 
+kahe aa_o mere pyaare
+mere piyaa se ko_ii \threedots
+%
+#endindian
+\endsong
+%

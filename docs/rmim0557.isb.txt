@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0557; Created on Jan 26, 2004
+%
+\startsong
+\stitle{kisii kaa naam lo benaam afasaane bahut se hai.n}%
+\film{Kashish (Non-Film)}%
+\year{1988}%
+\starring{}%
+\singer{Noorjehan/ Asha}%
+\music{Nazar Hussain}%
+\lyrics{Qamar Jalalvi}%
+% 
+% Audio on: http://www.musicindiaonline.com/mailsong/index.cgi/3f1ff1a3411900c6
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 24 Jul 2003
+% Series: GEETanjali, Noor-e-Tarannum
+% Comments: The same version has also been sung by Asha B, as 
+% part of her Noorjehan tribute album - Kashish.
+% Album name, year given above are for Asha Version.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kisii kaa naam lo benaam afasaane bahut se hai.n
+na jaane kisako tum kahate ho, diiwaane bahut se hai.n
+
+panaahe.n de rahii hai.n ajanabii naadariyaa.N mujhako
+terii mahafil me.n waranaa jaane pahachaane bahut se hai.n
+
+bas ab so jaao nii.nd aa.Nkho.n me.n hai kal phir sunaaye.nge
+zaraa sii rah ga_ii hai raat, afasaane bahut se hai.n
+
+likhii hai Kaak u.Daanii hii agar apane muqaddar me.n
+tere kuuche pe kyaa mauquuf, viiraane bahut se hai.n
+
+% mauquuf = nirbhar, ##dependent##
+
+mere kahane se hogii tark\-e\-rasm\-o\-raah Gairo.n se
+bajaa hai, aapane kahane mere maane bahut se hai.n
+%
+#endindian
+\endsong
+%

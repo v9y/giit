@@ -1,0 +1,33 @@
+% ITRANS SONG # rmim0193; Created on Jan 26, 2004
+%
+\startsong
+\stitle{mai.n kyaa karuu.N rukatii nahii.n ashko.n kii rawaanii}%
+\film{Maan}%
+\year{1954}%
+\starring{Chitra, Ajit, Jagirdar, Yashodhara Katju, Achala Sachdev, Durga Khote}%
+\singer{Meena Kapoor}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 05 feb 2003
+% Comments: Director of Maan - Dr Safdar Sitapuri 'aah'.
+% Anilda Series. The song shows Kalyan/Yaman touches.
+%
+\printtitle
+#indian
+%
+mai.n kyaa karuu.N rukatii nahii.n ashko.n kii rawaanii
+kab aa_e.Nge wo bol tuu hii raat suhaanii
+
+aapas me.n gale milate hu_e chaa.Nd sitaare
+mallaah muhabbat ke ye madahosh nazaare
+afasos! adhurii hai abhii merii kahaanii
+
+wo aa_e.Nge, wo aa_e.Nge, ai subah na aanaa
+ai chaa.Nd, mujhe chaa.Nd\-sii??? suurat wo dikhaanaa
+milane kii tamannaa me.n ta.Dapatii hai jawaanii
+%
+#endindian
+\endsong
+%

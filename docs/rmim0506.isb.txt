@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0506; Created on Jan 26, 2004
+%
+% From: Urzung Khan (urzung@hotmail.com)
+% Date: 2003-01-15 16:42:15 PST
+%
+\startsong
+\stitle{kaliyo.n ko masalane aae hai.n}%
+\film{Aaj Aur Kal/Today or Tomorrow}%
+\year{1947}%
+\starring{Nain Tara, Shyam, Nita, S Gul}%
+\singer{Naseem Akhtar}%
+\music{Khursheed Anwar}%
+\lyrics{Sohan Lal Sahir and Zahir Kashmiri}%
+%
+% Contributor: <Urzung Khan>, 2003-01-15
+%
+\printtitle
+#indian
+%
+kaliyo.n ko masalane aae hai.n phuulo.n ko jalaane aae hai.n
+is baaG kii Daalii Daalii me.n vo aag lagaane aae hai.n
+kaliyo.n ko masalane aae hai.n
+
+mahamaan banaayaa thaa unako aa.Nkho.n pe biThaayaa thaa unako
+maaluum na thaa vo jiivan ko viiraan banaane aae hai.n
+kaliyo.n ko masalane aae hai.n
+
+vo apane giito.n ke tohafe le jaa_e.n hamaarii mahafil se
+ham amR^it ke matavaalo.n ko vo zahar pilaane aae hai.n
+kaliyo.n ko masalane aae hai.n
+%
+#endindian
+\endsong
+%

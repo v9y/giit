@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0356; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)                 
+% Date: 2001-12-27 09:55:35 PST                        
+%
+\startsong
+\stitle{tum ne mujhako sadaa jalaayaa}%
+\film{Non-film}%
+\year{}%
+\starring{}%
+\singer{Hemant}%
+\music{}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Dec 28, 2001
+% Availability: The Unforgettable Hemant Kumar, his
+% best non-film songs HTC 04B 4455-56 (2 pack CS)
+%
+\printtitle
+#indian
+%
+tum ne mujhako sadaa jalaayaa
+ek niraalii jhalak dikhaa ke
+sau bijalii kii chamak dikhaake
+chhupaa li_aa apane chehare ko
+phir na zaraa ghuu.nghaT sarakaayaa
+sadaa jalaayaa
+tum ne mujhako \threedots
+
+mere dil me aag lagaa_ii
+apanii divaalii khuub manaa_ii
+mai.n vo jalataa hu_aa diyaa huu.N
+jisakaa ujaalaa tum ne churaayaa
+sadaa jalaayaa
+tum ne mujhako \threedots
+
+tum ne to siikhaa hai jalaanaa
+tumhe.n kahaa.N aataa hai bujhaanaa
+ye mai.n ne jaanaa jab tum ne
+aa.Nkh milaa ke dil na milaayaa
+sadaa jalaayaa
+tum ne mujhako \threedots
+%
+#endindian
+\endsong
+%
