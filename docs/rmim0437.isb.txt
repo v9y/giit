@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0437; Created on Jan 26, 2004
+%
+% ganti 7/10/3
+%
+\startsong
+\stitle{kahii.n priit se bharaa koii giit gaa rahaa}%
+\film{Paataal Bhairavi}%
+\year{1952}%
+\starring{N T Rama Rao, Malathi}%
+\singer{Geeta, Talat}%
+\music{Ghantasala}%
+\lyrics{Pt Indra}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:July 10, 2003
+%
+\printtitle
+#indian
+%
+gii:kahii.n priit se bharaa koii giit gaa rahaa
+kahii.n priit se bharaa
+a.Nkhiyaa.N milaa milaa mujhako bulaa rahaa
+(jiyaaraa uma.ng me.n)\-2
+kahii.n priit se bharaa
+
+ta:jahaa.N nain mil gaye, vahaa.N praaN khil gaye
+jahaa.N nain mil gaye
+mere a.ng a.ng me.n koii chhaa rahaa
+(manavaa tara.ng me.n)\-2
+jahaa.N nain mil gaye
+
+gii:(ye cha.ndramaa ye chaa.Ndanii ye kaliyaa.N ye lataa)\-2
+laharaa ke man kaa mere de rahe pataa
+kahii.n priit se bharaa
+
+ta:(o cha.ndramaa o chaa.Ndanii o kaliyaa.N o lataa)\-2
+merii priit kaa sandesavaa do use bataa
+jahaa.N nain mil gaye, vahaa.N praaN khil gaye
+jahaa.N nain mil gaye
+%
+#endindian
+\endsong
+%

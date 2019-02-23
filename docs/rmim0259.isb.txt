@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0259; Created on Jan 26, 2004
+%
+\startsong  
+\stitle{tuu chandaa mai.n chaa.NDanii ho terii merii priit hai}%  
+\film{Raajaa Harishchandra}%  
+\starring{Sumitra Devi, Prem Adeeb}%  
+\singer{Lata, Rafi}%  
+\music{Husnlal-Bhagatram}%  
+\lyrics{Bharat Vyas?}%  
+%  
+% Contributor: Hrishi Dixit 
+% Transliterator: Hrishi Dixit  
+% Date: Mar 1 2003  
+% Credits: U V Ravindra
+% Comments: LATAnjali series  
+%  
+\printtitle  
+#indian  
+%  
+la: tuu cha.ndaa mai.n chaa.Ndanii
+    ho, terii merii priit hai           \-3
+ra: tuu jiivan kii raaginii
+    ho, terii merii priit hai           \-3
+
+la: aaj hamaaraa piyaa milan madhur hai
+    ek hai taaraa ek chandar hai
+    taaraa chandar rahe.n saath re
+    ho, terii merii priit hai           \-3
+
+ra: bha.Nvare kalii kii tarah sang sang rahanaa
+    man kii kathaa sajanii naino.n se kahanaa
+    bha.Nvaraa kalii rahe.n saath re
+    ho, terii merii priit hai           \-3
+
+la: sapano.n kii sej par tumako sulaauu.ngii
+    charano.n pe tere raajaa a.Nkhiyaa.N bichhaauu.ngii
+    a.Nkhiyaa.N charan rahe.n saath re
+    ho, terii merii priit hai           \-3
+
+la:    tuu cha.ndaa mai.n chaa.Ndanii
+la,ra: ho, terii merii priit hai        \-3
+%  
+#endindian  
+\endsong
+%

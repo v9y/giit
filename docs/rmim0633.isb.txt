@@ -1,0 +1,47 @@
+% ITRANS SONG #
+
+% Date: Tue, 27 Jul 2004 16:21:22 -0400
+% From: Amit Malhotra <amit @ bollyvista . com>
+
+\startsong
+\stitle{chain ho chain ho}%
+\film{Run}%
+\year{2004}%
+\starring{Abhishek Bachchan, Bhumika, Mahesh Manjrekar}%
+\singer{Alka Yagnik, Sonu Nigam}%
+\music{Himesh Reshammiya}%
+\lyrics{Sameer}%
+
+% Contributor: Amit Malhotra
+% Date: 27 Jul 2004
+
+\printtitle
+#indian
+
+( vo vo vo vo \-2, vo vo vo, vo vo vo vo.a ) \-2
+( sirf tum sirf tum koras: sirf tum sirf tum ) \-2
+al: vaastaa vaastaa vaastaa, tujhe aramaano.n kaa mere vaastaa
+so: o jaanaa
+al: raastaa raastaa raastaa, ba.Daa mushakil hai chaahat kaa raastaa
+so: aisaa ehasaas hai.a, aisii ye pyaas hai.a
+koii jaane nahii.n, dard ye khaas hai
+aasaraa aasaraa mere dil kaa, sirf tum sirf tum sirf tum, o jaanaa
+chain ho chain ho mere dil kaa.a, sirf tum sirf tum sirf tum, o jaanaa
+
+dilarubaa sirf tum, sirf tum ho \-2
+so: o jaanaa \-2
+al: aashiqii aashiqii aashiqii, tere Gam se muqammal hai aashiqii
+so: o jaanaa
+al: dillagii dillagii dillagii, banii dil kii lagii yaar dillagii
+so: kah rahaa meraa man, shabanamii hai agan
+Das rahii jism ko, Kushabu_o.n kii chubhan
+zindagii zindagii sirf tum ho, sirf tum sirf tum sirf tum, o jaanaa
+chain ho chain ho mere dil kaa, sirf tum sirf tum sirf tum, o jaanaa
+ho.a labo.n pe labo.n pe sirf tum ho, sirf tum sirf tum sirf tum, o
+jaanaa
+chain ho chain ho mere dil kaa.a, sirf tum sirf tum sirf tum
+sirf tum sirf tum sirf tum
+
+#endindian
+\endsong
+

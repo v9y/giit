@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0217; Created on Jan 26, 2004
+%
+% nani 8/19/3
+%
+\startsong
+\stitle{sun lo dil kaa afasaanaa}%
+\film{Andaz}%
+\year{1949}%
+\starring{Dilip Kumar, Nargis, Raj Kapoor}%
+\singer{Lata, Rafi}%
+\music{Naushad}%
+\lyrics{Majrooh}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 19 aug 2003
+% Comments: Latanjali Series
+% The song was recorded for Andaaz - 1949. But it
+% was not included in the film.
+%
+\printtitle
+#indian
+%
+lataa: sun lo dil kaa afasaanaa ho.a.a.a
+duniyaa dil kii basaa ke naa bhuul jaanaa
+rafii: dil hai teraa diwaanaa ho.a.a.a
+apanaa ham ko banaa ke naa bhuul jaanaa
+
+lataa: saaz uThaayaa hai ulfat ne
+jhuum rahii hai jawaanii
+rafii: jaise saarii duniyaa hai
+do dil kii ek kahaanii
+lataa: ham tum gaae.N ye gaanaa ho.a.a.a
+ham se nainaa milaa ke naa bhuul jaanaa
+
+rafii: baadal ke sa.ng cha.Ndaa Dole
+tere sa.ng man meraa
+lataa: pyaar se duniyaa jagamag saarii
+pyaar nahii.n to a.Ndheraa
+rafii: mai.n huu.N teraa parawaanaa ho.a.a.a
+dekho aag lagaa ke naa bhuul jaanaa
+%
+#endindian
+\endsong
+%

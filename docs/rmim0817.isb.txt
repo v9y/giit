@@ -1,0 +1,39 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{salaam tujhako ai duniyaa ab aaKarii hai salaam}%
+\film{Meraa Salaam}%
+\year{1957}%
+\starring{Bharat Bhushan, Bina Rai, Veena, K.N. Singh}%
+\singer{Talat}%
+\music{Hafiz Khan}%
+\lyrics{Shevan Rizvi}%
+
+% Audio On: 78 rpm records
+% Contributor: Satish Kalra
+% Transliterator: Satish Kalra
+% Date: 11 Oct 2004
+% Series: GEETanjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+salaam tujhako ai duniyaa ab aaKarii hai salaam
+chhalakane waalaa hai ab merii zi.Ndagii kaa jaam
+ab aaKarii hai salaam\threedots
+
+har ek aa.Nsuu bataataa hai Kuun dil kaa hu_aa
+har ek aah sunaatii hai maut kaa paiGaam
+ab aaKarii hai salaam\threedots
+
+har ek hichakii hai nashtar harek saa.Ns hai tiir
+hu_aa hai chupake hii chupake jigar kaa kaam tamaam
+ab aaKarii hai salaam\threedots
+
+idhar jo shamma jalii to udhar pata.Ngaa jalaa
+hai diljalo.n kii muhabbat kaa ek hii anjaam
+ab aaKarii hai salaam\threedots
+
+#endindian
+\endsong

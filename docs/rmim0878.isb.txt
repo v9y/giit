@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 11/2/2004 2:32:00 PM.
+
+\startsong
+\stitle{maane naa maane naa manamohana}%
+\film{Madam X Y Z}%
+\year{1959}%
+\starring{Suresh, Shakila, David}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 2 Nov 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+maane naa maane naa mana mohana
+muralii bajaa_e jiyaa ta.Dapaa_e
+
+jamunaa kinaare jab vo pukaare
+dau.Dii dau.Dii aa_uu.N rahaa nahii.n jaa_e
+
+ga ma re sa re ma ni ni pa ma pa ni sa re sa
+
+baiyyaa.N maro.De aa.Ncharaa na chho.De
+ro ro mai.n haarii piyaa ghabaraa_uu.N
+
+sa re sa pa ni pa ga ma re sa re ga
+dha pa ma pa ma ni pa pa dha ni sa ni re sa
+dha pa ma pa ma ni pa ni pa dha ni sa re re sa re ga
+aa .a .a \threedots
+
+#endindian
+\endsong

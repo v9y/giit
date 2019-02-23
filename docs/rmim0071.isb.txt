@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0071; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-10-08 13:24:02 PST 
+%
+\startsong
+\stitle{priit ye kaisii bol rii duniyaa}%
+\film{Daagh}%
+\year{1952}%
+\starring{Dilip Kumar, Nimmi, Usha Kiran}%
+\singer{Lata}%
+\music{Shankar-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+%
+\printtitle
+#indian
+%
+priit ye kaisii bol rii duniyaa
+priit ye kaisii bol duniyaa
+bol rii duniyaa bol
+dhuul me.n man kaa ????? koii na puuchhe mol duniyaa
+priit ye kaisii bol \threedots
+
+dekhuu.N mai.n ek su.ndar sapanaa
+Dhuu.NDhuu.N taaro.n me.n ghar apanaa \-2
+a.Ndhii qismat to.D rahii hai ye sapane anamol duniyaa
+priit ye kaisii bol \threedots
+
+Duub gayaa din shaam ho ga_ii
+jaise umar tamaam ho ga_ii \-2
+merii maut kha.Dii hai dekho apanaa ghuu.NghaT khol re
+priit ye kaisii bol \threedots
+
+mere sukh se bol ai daataa
+kyaa jaataa terii duniyaa kaa \-2
+pyaar kaa amR^it deke tuune zahar diyaa kyo.n ghol duniyaa
+priit ye kaisii bol
+
+priit ye kaisii bol rii duniyaa
+priit ye kaisii bol duniyaa
+bol rii duniyaa bol
+%
+#endindian
+\endsong
+%

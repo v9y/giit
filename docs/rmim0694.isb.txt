@@ -1,0 +1,36 @@
+% ITRANS SONG #
+
+% Date: Sat, 19 Jun 2004 06:48:14 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+
+\startsong
+\stitle{pareshaaN thaa, pareshaaN hai ye dil kambaKt dil meraa}%
+\film{(Non-Film)}%
+\year{1940s}%
+\starring{}%
+\singer{Abdul Shakoor}%
+\music{}%
+\lyrics{Faiyaz Hashmi}%
+
+% Contributor: <Urzung Khan>, 19 Jun 2004
+
+\printtitle
+#indian
+
+pareshaa.N thaa, pareshaa.N hai
+ye dil kambaKt dil meraa
+haa_e dil meraa
+pareshaa.N thaa, pareshaa.N hai
+
+mere gulshan ke gul saare
+khile ik pal na bechaare
+kabhii in par bahaar aa_e
+ye aramaa.N thaa, ye armaa.N hai
+
+jo marham kaam kar jaataa
+to ko_ii zaKm bhar jaataa
+mere zaKmo.n pe marham kaa
+na ehsaa.N thaa, na ehsaa.N hai
+
+#endindian
+\endsong

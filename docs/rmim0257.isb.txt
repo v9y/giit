@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0257; Created on Jan 26, 2004
+%
+\startsong
+\stitle{merii aa.Nkho.n me.n bas gayaa koii re}%
+\film{Barsaat}%
+\year{1949}%
+\starring{Premanth, Nimmi, Raj Kapoor, Nargis}%
+\singer{Lata}%
+\music{Shankar-Jaikishen}%
+\lyrics{Hasrat}%
+%
+% Contributor: Hrishi Dixit
+% Transliterator: Hrishi Dixit
+% Date: Feb 07 2003
+%
+\printtitle
+#indian
+%
+merii aa.Nkho.n me.n bas gayaa koii re
+mohe nii.nd na aaye mai.n kaa karuu.N
+merii aa.Nkho.n me.n bas gayaa koii
+
+muskaaye jab raat kii bi.ndiyaa          \-2
+u.D jaaye aa.Nkho.n se ni.ndiyaa         \-2
+Tha.nDii Tha.nDii mai.n aahe.n bharuu.N  \-2
+haaye mai.n kaa karuu.N                  \-3
+
+merii aa.Nkho.n me.n bas gayaa \threedots
+
+baat kare.n jab chaa.Nd sitaare \-2
+jal barasaaye.n nain hamaare    \-2
+terii yaad me.n ro ro maruu.N   \-2
+haaye mai.n kaa karuu.N         \-3
+
+merii aa.Nkho.n me.n bas gayaa koii re
+mohe nii.nd na aaye mai.n kaa karuu.N
+merii aa.Nkho.n me.n bas gayaa koii
+%
+#endindian
+\endsong
+%

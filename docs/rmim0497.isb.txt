@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0497; Created on Jan 26, 2004
+%
+% From: Urzung Khan ("_urzung"@hotmail.com)
+% Date: 2002-12-06 22:59:06 PST
+%
+\startsong
+\stitle{aap ko bhuul jaa_e.n ham}%
+\film{Pakistani-Film(Tum Mile Pyaar Milaa)}%
+\year{1969}%
+\starring{}%
+\singer{Noorjehan, Mehdi Hasan}%
+\music{Nashad}%
+\lyrics{Taslim Fazili}%
+%
+% Contributor: <Urzung Khan>, 2002-12-06
+%
+\printtitle
+#indian
+%
+aap ko bhuul jaae.n ham itane to bewafaa nahii.n
+aap se kayaa gilaa kare.n aap se kuchh gilaa nahii.n
+
+ham to samajh rahe the ye tum mile payaar mil gayaa
+ik tere dard ke sivaa ham ko to kuchh milaa nahii.n
+
+shishaa\-e\-dil ko to.Danaa unakaa to ek khel hai
+ham se hii bhuul ho ga_ii unakii ko_ii Kataa nahii.n
+
+kaash vo apane Gam mujhe dede.n to kuchh sukuu.N mile
+kitanaa vo bad_nasiib hai Gam bhii jise milaa nahii.n
+%
+#endindian
+\endsong
+%

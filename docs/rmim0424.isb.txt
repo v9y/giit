@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0424; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (g#a#n#t#i#s#r#i#@hotmail.com)     
+% Date: 2003-01-01 22:19:58 PST                        
+%
+\startsong
+\stitle{sar pe kadam kii chai.nyyaa muraliyaa baaje rii}%
+\film{Bhakta Surdas}%
+\year{1942}%
+\starring{Saigal, Khursheed, Monica Desai, Nagendra}%
+\singer{Saigal, Rajkumari, Chorus}%
+\music{Gyan Dutt}%
+\lyrics{D N Madhok}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date: Jan 2, 2003
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(raj:sar pe qadam kii chai.nyyaa muraliyaa baaje rii
+sai:gorii (morii ?) laaj rahii)\-2
+raj:(raadhaa bhii naache, kanhaiyyaa bhii naache)\-2
+sai:(main bhii naachuu.N ? bhii naache)\-2
+(sai: a.Nkhiyaa.n bal bal bai.nyyaa
+both with chorus: muraliyaa baaje rii
+sai:gorii laaj rahii)\-2
+(both with chorus: sar pe qadam kii chai.nyyaa muraliyaa baaje rii
+sai:gorii laaj rahii)\-2
+
+sai:(baazuo.n kaa dhuum ? )\-2
+raj: (har naarii kaa priitam ? )\-2
+(sai: darapan ? chai.nyyaa
+both with chorus: muraliyaa baaje rii
+sai:gorii laaj rahii)\-2
+(both with chorus:sar pe qadam kii chai.nyyaa muraliyaa baaje rii
+sai:gorii laaj rahii)\-2
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0505; Created on Jan 26, 2004
+%
+% From: Passuu (passuu@hotmail.com)
+% Date: 2003-01-13 04:26:18 PST
+%
+\startsong
+\stitle{raaz\-e\-dil ham se kaho ham to ko_ii Gair nahii.n}%
+\film{Teri Talaash Men}%
+\year{1968}%
+\starring{Kum Kum, Salaish}%
+\singer{Asha}%
+\music{Sapan-Jagmohan}%
+\lyrics{Naqsh Layalpuri}%
+%
+% Contributor: <Urzung Khan>, 2003-01-13
+%
+\printtitle
+#indian
+%
+raaz\-e\-dil ham se kaho ham to ko_ii Gair nahii.n
+yuu.N pareshaan na ho ham to ko_ii Gair nahii.n
+raaz\-e\-dil ham se \threedots
+
+mahakii mahakii sii ye tanahaa_ii gilaa karatii hai
+Gair tum bhii na raho ham to ko_ii Gair nahii.n
+raaz\-e\-dil ham se \threedots
+
+kisii hamadard ko kuchh dard ba.nTaa lene do
+dard tanahaa na saho ham to ko_ii Gair nahii.n
+raaz\-e\-dil ham se \threedots
+%
+#endindian
+\endsong
+%

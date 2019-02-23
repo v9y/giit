@@ -1,0 +1,38 @@
+% ITRANS SONG
+
+% Date: 2 Nov 2004 17:17:46 -0800
+% From: asroyus@yahoo.com (Arunabha S Roy)
+
+\startsong
+\stitle{jaaduu bharii ye chaa.Ndanii ye pyaar kaa samaa}%
+\film{Madam X Y Z}%
+\year{1959}%
+\starring{Suresh, Shakila, David}%
+\singer{Lata}%
+\music{Chitragupt}%
+\lyrics{Prem Dhawan}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 2 Nov 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+(ho)jaaduu bharii ye chaa.Ndanii ye pyaar kaa samaa
+mujhako zaraa sa.Nbhaaliye mai.n kho chalii kahaa.N
+
+aane lagaa Kumaar saa bahake qadam mere
+dekho na aise pyaar se mujhako sanam mere
+ho, kitanaa hasii.n hai dekhiye ye pyaar kaa jahaa.N
+mujhako zaraa sa.Nbhaaliye mai.n kho chalii kahaa.N \threedots
+
+deke tamaam zi.ndagii maa.Nguu.N ye raat mai.n
+jii bhar ke tum se kah sakuu.N phir dil kii baat mai.n
+ho, tab tak rahe labo.n talak ye merii daastaa.N
+mujhako zaraa sa.Nbhaaliye mai.n kho chalii kahaa.N \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0351; Created on Jan 26, 2004
+%
+\startsong
+\stitle{zi.ndagii bhar jap ab tohaar naam}%
+\film{Champaakali}%
+\year{1957}%
+\starring{Bharat Bhushan, Suchitra Sen, Shobha Khote}%
+\singer{Hemant, Chorus}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contirbutor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Nov 25, 2001
+% Availbility: VHS movie
+% Comment: Hemantda series
+%
+\printtitle
+#indian
+%
+ko: hai_o raamaa hai_o maaro jovaan hai_o
+ho ho ho raamaa ho
+
+he: zi.ndagii bhar jap ab tohaar naam
+he moraa saa.Nii baabaa
+
+ko: he he he ho raamaa ho
+
+he: zi.ndagii bhar jap ab tohaar naam
+he moraa saa.Nii baabaa
+naahii moraa kaam kachhuu rupaiyaa se paisaa
+e moraa saa.Nii baabaa
+
+paanii bin ye jag suunaa
+he moraa saa.Nii baabaa
+% ## above lines repeated in chorus##
+%
+#endindian
+\endsong
+%

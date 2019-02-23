@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0515; Created on Jan 26, 2004
+%
+\startsong
+\stitle{mere haal par bebasii ro rahii hai}%
+\film{Zamindar}%
+\year{1942}%
+\starring{Shanta Apte, Ghulam Mohammad, Narang}%
+\singer{Shamshad}%
+\music{Ghulam Haider}%
+\lyrics{Qamar Jalalabadi, Behzad Lucknowi}%
+%
+% Contributor: Urzung Khan, 04/04/03
+% Comments: Part of song was written by Qamar jalalabadi,
+%      and the rest by Behzad Lukhnavi.
+%
+\printtitle
+#indian
+%
+mere haal par bebasii ro rahii hai
+zahe zindagii, zindagii ro rahii hai
+
+ajab  haal  me.n hai merii zindagaanii
+ki Gam ha.Ns rahe hai.n Kushii ro rahii hai
+
+merii aarazuu  bhii  ko_ii aarazuu hai
+abhii ha.Ns rahii thii abhii ro rahii hai
+
+ko_ii miT chukaa hai ko_ii miT rahaa hai
+magar ronevaalii  abhii ro rahii hai
+
+nahii.n ko_ii duniyaa me.n saathii kisii kaa
+chaman ha.Ns rahaa hai kalii ro rahii hai
+mere haal par \threedots
+%
+#endindian
+\endsong
+%

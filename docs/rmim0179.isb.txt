@@ -1,0 +1,36 @@
+% ITRANS SONG # rmim0179; Created on Jan 26, 2004
+%
+\startsong
+\stitle{dil se bhulaa do tum hame.n ham naa tumhe.n bhulaa_e.nge}%
+\film{Patanga}%
+\year{1949}%
+\starring{Nigar, Shyam, Gop, Yakub, Kukku}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 29 Jan 2003
+% Comments: Latanjali Series. Film - pata.ngaa
+%
+\printtitle
+#indian
+%
+dil se bhulaa do tum hame.n ham naa tumhe.n bhulaa_e.nge
+ruuTh ke jaanewaale ham duniyaa se ruuTh jaa_e.nge
+ham naa tumhe.n bhulaa_e.nge
+
+nazaro.n se kyuu.N giraa diyaa tum ne kisii Gariib ko
+kaise manaa_e_gaa koii ruuThe hu_e nasiib ko
+tum ne di_e jo dil ko daaG kaise unhe.n chhupaa_e.nge
+ruuTh ke jaanewaale \threedots
+
+tum ne hame.n miTaa diyaa tum se kahe.n to kyaa kahe.n
+maanaa ke bewafaa ho tum phir bhii na bewafaa kahe.n
+tum ne jo kahanaa thaa kah chuke
+ham yahii kahate jaa_e.nge
+ruuTh ke jaanewaale \threedots
+%
+#endindian
+\endsong
+%

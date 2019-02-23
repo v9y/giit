@@ -1,0 +1,43 @@
+% ITRANS SONG #
+%
+% Date: Wed, 11 Feb 2004 09:35:07 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{mai.n gaauu.n pad gaauu.n}%
+\film{Triveni Bhajans (Non-Film)}%
+\year{1970s?}%
+\starring{}%
+\singer{Kumar Gandharva, Vasundhara Komkali}%
+\music{Kumar Gandharva}%
+\lyrics{Kumar Gandharva}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  11 Feb 2004
+% Comments : GEETanjali / Sukhsaagar Series
+%    Kumar Gandharva's 'Triveni' LP covers bhajans
+%    by Kabir, Meera, Surdas. His Nirguni Bhajans are
+%    also available on other LP releases.
+%    Kumar's Real name : Shivputra Siddharamaiah Komkali.
+%    Vasundhara Komakali was his wife. The LP features
+%    brilliant tabla sangat by Vasantrao Acharekar.
+%    The bhajan is based on raag Kedar and set to Keherwa.
+%    It is referred to as 'vandanaa' or 'Kumar-Stuti'.
+%    The lyrics were taken from the below URL.
+%    http://theory.tifr.res.in/~mukhi/Music/kg-lyrics.html
+%
+\printtitle
+#indian
+%
+mai.n gaauu.n pad gaauu.n, guN gaauu.n
+man bhaav taal sur gaauu.n
+
+hai sabad banyo yo gyaanasaar kabiiraa ke
+piy dhyaan dharii miiraa baurii, jaagii,
+sat suur kahat sab dhaayo  (## suur = surdas ##)
+raadhaa gopii kubajaa
+priy sakhaa udho prabhu gaauu.n
+%
+#endindian
+\endsong
+%

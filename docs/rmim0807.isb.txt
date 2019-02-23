@@ -1,0 +1,40 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{prem kaa rog ba.Daa buraa}%
+\film{Dus Numbari}%
+\year{1976}%
+\starring{Manoj Kumar, Hema Malini}%
+\singer{Lata}%
+\music{Laxmikant-Pyarelal}%
+\lyrics{Majrooh}%
+%
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 26 Sep 2004
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+prem kaa rog ba.Daa buraa
+maakaa nakaa ga baa_ii maakaa nakaa
+aisaa mere ko merii maa.N ne kahaa
+maakaa nakaa nakaa baa_ii maakaa nakaa
+prem kaa rog ba.Daa buraa \.\.\.
+
+ro ro ka kaTe ye din kahaa.N kal raato.n ko rahuu.Ngii ????
+nanhe se dil me.n baabaa kaise mai.n ye dukh sahuu.Ngii
+kachchii kalii huu.N ra.ng dekho zaraa
+dil dil dil bhii hai naazuk meraa
+prem kaa rog ba.Daa buraa \.\.\.
+
+phir bhii karuu.N mai.n kyaa ki tuu ba.Daa pyaaraa mohe laage
+par kaise teraa meraa milan ho tuu hii bataade
+abhii abhii abhii haath chho.Do meraa
+dekho dekho dekho koii hai tiisaraa
+prem kaa rog ba.Daa buraa \.\.\.
+
+#endindian
+\endsong

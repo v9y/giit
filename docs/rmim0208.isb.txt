@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0208; Created on Jan 26, 2004
+%
+% nani 7/30/3
+%
+\startsong
+\stitle{mujhako Gam\-e\-tanhaaii har zulm gavaaraa hai}%
+\film{Gaazi Salauddin}%
+\year{1939}%
+\starring{Ratan Bai, Ghulam Mohammed, Mazhar Khan}%
+\singer{Ratan Bai}%
+\music{Khemchand Prakash}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 30 July 2003
+% Comments: Geetanjali Series.
+% Khemchand's Debut - Gaazii Salaauddiin, Supreme Pictures
+% The Geet Kosh has listed the first line as: 'mujh ko
+% gham-e-tanhaaii har RANJ gavaaraa hai'
+%
+\printtitle
+#indian
+%
+mujhako Gam\-e\-tanhaaii har zulm gavaaraa hai
+majabuur huu.N, bebas huu.N, rahamat kaa sahaaraa hai
+
+siine me.n machalate hai.n aramaan shahaadat??? ke
+aa.Nkho.n me.n basaa har dam jannat kaa nazaaraa hai
+
+(har roz palaT qisamat)???? TuuTe.nge sitam tere
+biimaar\-e\-shahaasat?? kaa duniyaa se kinaaraa hai
+%
+#endindian
+\endsong
+%

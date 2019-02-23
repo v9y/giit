@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0169; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-07 23:00:32 PST                               
+%
+\startsong
+\stitle{sharm aatii hai magar aaj ye kahanaa hogaa}%
+\film{Padosan}%
+\year{1968}%
+\starring{Sunil Dutt, Saira Banu, Kishore Kumar, Mehmood}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 07 jan 2003
+% Comments: THGHT (RDB) Series
+%
+\printtitle
+#indian
+%
+sharm aatii hai magar aaj ye kahanaa hogaa
+ab hame.n aap ke qadamo.n hii me.n rahanaa hogaa
+
+aap se ruuTh ke ham jitanaa jiye Kaak jiye
+ka_ii ilzaam liye aur ka_ii ilzaam diye
+aaj ke baad magar kuchh bhii na kahanaa hogaa
+
+aap ke pyaar kaa biimaar hamaaraa dil hai
+aap ke Gam kaa khariidaar hamaaraa dil hai
+aap ko apanaa ko_ii dard na sahanaa hogaa
+%
+#endindian
+\endsong
+%

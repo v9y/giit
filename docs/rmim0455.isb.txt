@@ -1,0 +1,54 @@
+% ITRANS SONG # rmim0455; Created on Jan 26, 2004
+%
+% surma 7/2/3
+% 
+\startsong
+\stitle{bhole o bhole... mere yaar ko manaa de}%
+\film{Yaaraanaa}%
+\year{1981}%
+\starring{Amitabh Bachchan, Neetu Singh}%
+\singer{Kishore}%
+\music{Rajesh Roshan}%
+\lyrics{Anjaan}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 2 Jul 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+bhole o bhole
+tuu ruuThaa dil TuuTaa
+(mere yaar ko manaa de
+vo pyaar phir jagaa de) 2
+
+kyaa hogaa phir teraa gaurii jo ruuTha jaaye
+shankar tere maathe kaa cha.ndaa jo TuuTa jaaye
+Dam Dam Dam Damaruu naa baaje
+bam bam bam phir tuu naa naache
+yaar agar naa maane
+mere yaar ko \threedots
+
+wo bicha.Daa to kasam se phir mai.n na jii sakuu.ngaa
+mere bhole tere jaise mai.n zahar na pii sakuu.ngaa
+zism huu.n mai.n wo jaan hai merii
+usako nahii.n pahachaan hai merii
+pyaar meraa tuu jaane
+mere yaar ko \threedots
+
+% sad version: you can visualise tears in Kishore's eyes on listening to this
+
+kyaa jaane kyuu.n tujhape mujhe itanaa pyaar aaye
+tuu ruuThe to jaise merii kismat ruuTha jaaye
+duur na jaa yuu.n aa.Nkh churaake
+kyaa paayegaa mujhako rulaake
+maan bhii jaa diiwaane
+(mere yaar muskuraa de
+vo pyaar phir jagaa de) 2
+%
+#endindian
+\endsong
+%

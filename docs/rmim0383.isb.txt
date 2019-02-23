@@ -1,0 +1,55 @@
+% ITRANS SONG # rmim0383; Created on Jan 26, 2004
+%
+\startsong
+\stitle{udhar hai husn ka jalawaa ... terii marazii hai jahaa.N}%
+\film{Gharbaar}%
+\year{1953}%
+\starring{Sulochana Chaterjee, Shakuntala Devi, Surendra}%
+\singer{Asha, Talat}%
+\music{Vasant Prabhu}%
+\lyrics{Indeevar}%
+%
+% Contributor: Satish kalra
+% Transliterator: Satish kalra
+% Date: 22 Mar 2003
+% Series: GEETanjali
+% Comments: Probably the only Hindi film by Vasant Prabhu.
+% Search words - gharbar ghar_baar gharabaar
+% Credits : Naniwadekar, Gurcharan Sandhu
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+## prelude ##
+ta:  udhar hai husn ka jalawaa idhar hai ishq jawaa.N
+
+aa:  ye bahaaro.n kaa samaa.N ye muhabbat kaa jahaa.N
+
+aa:   terii marazii hai jahaa.N mujhe le chal tuu wahaa.N
+      chho.D sakatii huu.N muhabbat ke liye dono.n jahaa.N
+
+ta:   terii aa.Nkho.n me.n ghar apanaa basaa liyaa mai.nne
+      tujhe paayaa to zamaane ko paa liyaa mai.nne
+aa:   tujhe paayaa to zamaane ko paa liyaa mai.nne
+ta:   tujhe paayaa to zamaane ko paa liyaa mai.nne
+aa:   mere maathe kaa hai Tiikaa tere qadamo.n kaa nishaa.N
+ta:   ye bahaaro.n kaa samaa.N ye muhabbat kaa jahaa.N
+
+aa:   terii marazii hai jahaa.N mujhe le chal tuu wahaa.N
+      chho.D sakatii huu.N muhabbat ke liye dono.n jahaa.N
+
+aa:  ghar me.n jo rahataa thaa mehamaan ban gayaa dil kaa
+     roshanii aa.Nkho.n kii aramaan ban gayaa dil kaa
+ta:  roshanii aa.Nkho.n kii aramaan ban gayaa dil kaa
+aa:  roshanii aa.Nkho.n kii aramaan ban gayaa dil kaa
+ta:  zindagii bhii hai hasii.n aur tamannaa bhii hai jawaa.N
+
+aa:   terii marazii hai jahaa.N mujhe le chal tuu wahaa.N
+ta:   ye bahaaro.n kaa samaa.n ye muhbaat kaa jahaa.N
+do:   nahii.n maaluum ke dil ko liye jaataa hai kahaa.N
+      nahii.n maaluum ke dil ko liye jaataa hai kahaa.N
+%
+#endindian
+\endsong
+%

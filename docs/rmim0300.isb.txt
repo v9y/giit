@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0300; Created on Jan 26, 2004
+%
+\startsong
+\stitle{terii yaad aae sa.Nvariyaa jiyaa ghabaraae sa.Nvariyaa}%
+\film{Lal Haveli}%
+\year{1944}%
+\starring{Noorjehan, Surendra, Ulhas, Baby Meena, Maya Banerji, Yaqub}%
+\singer{Noorjehan}%
+\music{C Ramchandra}%
+\lyrics{Shams Lakhnavi}%
+%
+% Audio On: www.musicindiaonline.com
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Dec 23, 2002
+% Series: NOOR-E-TARANNUM #37
+%
+% Comments: The music of this film has been attributed to
+%     Mir Sahib. This particular song was composed by CR.
+%     AFAIK, the claim has been approved by Mr. Hamraz.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+terii yaad aae sa.Nvariyaa,
+jiyaa .a, jiyaa ghabaraae sa.Nvariyaa
+terii yaad aae sa.Nvariyaa
+
+pii .a      kahatii huu.N mai.n piitam kii
+kahatii huu.N mai.n piitam kii har vaqt kahaanii
+dil de ke Kariidii hai ye anamol nishaanii
+phir kyuu.N .a    kyuu.N ta.Dapaae.N sa.Nvariyaa
+terii yaad aae sa.Nvariyaa \threedots
+
+ek nadii kii dono.n lahare.n idhar udhar Takaraae.N
+aisaa jho.nkaa havaa kaa aae, aapas me.n mil jaae.n
+mohe .a     mohe mil jaae sa.Nvariyaa
+ho vo mohe mil jaae sa.Nvariyaa
+terii yaad aae sa.Nvariyaa \threedots
+%
+#endindian
+\endsong
+%

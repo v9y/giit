@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0468; Created on Jan 26, 2004
+%
+% surma 10/26/3
+% 
+\startsong
+\stitle{naa jaane din kaise jiivan me.n aaye hai.n}%
+\film{Chalaa Muraari Hero Banane}%
+\year{1977}%
+\starring{Asrani, Bindiya Goswami, Simi}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Yogesh}%
+% 
+% Audio on: Universal
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 26 Oct 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+naa jaane din kaise jiivan me.n aaye hai.n
+ke mujhase to bichha.De Kud mere saaye hai.n
+
+kyaa kyaa sochaa thaa kyaa thii ummiide.n
+jisake liye bhii mai.nne kho dii aa.Nkho.n kii ye nii.nde.n
+usiise dukho.n ke tohafe ye paaye hai.n
+naa jaane \threedots
+
+samajhaa sukh jisako chhaayaa thii Gam kii
+jaise kahii.n ret pe chamake kuchh buu.Nde.n shabanam kii
+ye dhokhe nazar ke hamane bhii khaaye hai.n
+naa jaane \threedots
+%
+#endindian
+\endsong
+%

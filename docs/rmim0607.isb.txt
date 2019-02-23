@@ -1,0 +1,47 @@
+% ITRANS SONG #
+%
+% Date: Sat, 31 Jan 2004 21:20:13 -0700
+% From: Nimish Pachapurkar <nimishp@hotmail.com>
+%
+\startsong
+\stitle{tum miit mere tum praaN mere}%
+\film{Jeet}%
+\year{1949}%
+\starring{Suraiya, Dev Anand}%
+\singer{Suraiya}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+% 
+% Audio on: 
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 31 Jan 2004
+% Series: Anilda Series
+% Comments: In the memory of Suraiya who passed away on
+%                       January 31, 2004.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+tum miit mere tum praaN mere
+tum yug\-yug ke varadaan mere
+
+tum khile ka.nwal mere man ke
+tum haar\-si.ngaar mere tan ke
+man ma.ndir ke bhagawaan mere
+tum miit mere tum praaN mere \threedots
+
+jab ham tum dono.n milate hai.n
+tan\-man me.n phuul se khilate hai.n
+ha.Ns pa.Date hai.n aramaan mere
+tum miit mere tum praaN mere \threedots
+
+mai.n diipak huu.N tum baatii ho
+mere janam\-janam ke saathii ho
+tum maan mere, abhimaan mere
+tum miit mere tum praaN mere \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0102; Created on Jan 26, 2004
+%
+% arunabha 4/29/3
+%
+\startsong
+\stitle{kabhii kuchh pal jiivan ke lagataa hai ki chalate\-chalate}%
+\film{Rang Birangi}%
+\year{1983}%
+\starring{Amol Palekar, Parveen Babi, Farooque Shaikh, Deepti Naval}%
+\singer{Anuradha Paudwal, Aarti Mukherjee}%
+\music{R D Burman}%
+\lyrics{Yogesh}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: 29 Apr 2003
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+anu: kabhii kuchh pal jiivan ke, lagataa hai ki chalate\-chalate
+     kuchh der Thahar jaate hai.n
+aa:  kabhii kuchh pal jiivan ke, lagataa hai ki chalate\-chalate
+     kuchh der Thahar jaate hai.n
+
+anu: har din kii halachal se, aaj milii Kaamoshii
+aa:  halkii hai tan\-man me.n pyaar bharii madahoshii
+     badale\-badale mausam ke, mujhe ra.ng nazar aate hai.n
+
+anu: kabhii kuchh pal jiivan ke \threedots
+
+aa:  furasat kii ye gha.Diyaa.N roz kahaa.N milatii.n hai.n
+anu: ab Kushiyaa.N haath meraa thaame hu_e chalatii.n hai.n
+     mere saath gagan ye dharatii, meraa giit madhur gaate hai.n
+
+aa:  kabhii kuchh pal jiivan ke \threedots
+
+anu: kitanaa bhalaa lagataa hai suuraj kaa ye Dhalanaa
+aa:  ho, duniyaa se duur chhupake yahaa.N, teraa\-meraa yuu.N milanaa
+     kabhii\-kabhii diivaanepan kii ham had se guzar jaate hai.n
+
+anu: kabhii kuchh pal jiivan ke \threedots
+%
+#endindian
+\endsong
+%

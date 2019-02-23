@@ -1,0 +1,52 @@
+% ITRANS SONG # rmim0301; Created on Jan 26, 2004
+%
+% nimish 1/6/3
+%
+\startsong
+\stitle{sab din ek samaan nahii.n thaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Kamal Dasgupta}%
+\lyrics{Faiyyaz Hashmi}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 6 Jan 2004
+% Series: GEETanjali
+% Comments: Talat's first record released by HMV.
+%      He probably has one or two songs recorded prior to this song.
+%      But this was the first to be released.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(sab din ek samaan nahii.n thaa) /2
+(ban jaa_uu.Ngaa kyaa se kyaa mai.n) /2
+is kaa to kuchh dhyaan nahii.n thaa
+sab din ek samaan nahii.n thaa
+
+(us ne mujh ko thaa apanaayaa) /2
+(banaa mai.n us kii jiivan chhaayaa) /2
+(meraa gulashan haraabharaa thaa) /2
+(uja.Daa yaa sunasaan nahii.n thaa) /2
+sab din ek samaan \threedots
+
+(us ke gale kaa haar kabhii thaa
+mujh se us ko pyaar kabhii thaa) /2
+(basaa huaa sa.nsaar hR^iday kaa) /2
+(sab din to shamashaan nahii.n thaa) /2
+sab din ek samaan \threedots
+
+(kabhii giit jo ha.Ns kar gaayaa) /2
+(ro kar us ko ab doharaayaa) /2
+(mai.n thaa swaamii sukh nagarii kaa) /2
+(dukh kaa to mahamaan nahii.n thaa) /2
+sab din ek samaan \threedots
+%
+#endindian
+\endsong
+%

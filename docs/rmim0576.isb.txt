@@ -1,0 +1,44 @@
+% ITRANS SONG #
+%
+% Date: 8 Feb 2004 17:57:38 -0800
+% From: asroyus@yahoo.com (Arunabha S Roy)
+% 
+\startsong
+\stitle{naath mohe ab kii ber ubaaro}%
+\film{? (Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Chhaya Ganguly}%
+\music{Jaidev}%
+\lyrics{Surdas}%
+% 
+% Audio on: 
+% Contributor: Arunabha S. Roy 
+% Transliterator: Arunabha S. Roy
+%                 Animesh Kumar
+% Date: 8 Feb 2004
+% Series: Sukhsaagar
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+naath mohe \threedots
+naath mohe ab kii ber ubaaro
+mohe ab kii ber ubaaro
+
+tiin lok ke tum pratipaalak
+mai.n huu.N daas tihaaro
+taarii jaati kujaati shyaam tum
+mopar kirapaa dhaaro, dhaaro
+ab kii ber ubaaro mohe \threedots
+
+xudra patita tum taare ramaapati
+ab naa karo jiyaa Daaro
+suuradaas saacho tab maane \-2
+jo hai mama nis Taaro, nis Taaro
+ab kii ber ubaaro mohe \threedots
+%
+#endindian
+\endsong
+%

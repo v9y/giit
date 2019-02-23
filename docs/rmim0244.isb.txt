@@ -1,0 +1,60 @@
+% ITRANS SONG # rmim0244; Created on Jan 26, 2004
+%
+% george thomas 11/5/3
+% 
+\startsong
+\stitle{chup chaap karatii hai.n baate.n jab terii ye Kaamoshiyaa.N}%
+\film{Chhal}%
+\year{2002}%
+\starring{Kay Kay Menon, Jaya Seal}%
+\singer{Shaan, Sadhana Sargam/ Sadhana Sargam}%
+\music{Viju Sha}%
+\lyrics{Amitabh Verma}%
+% 
+% Audio on: Zee Music
+% Contributor: George Thomas (georgethomas at despammed dot com)
+% Transliterator: George Thomas (georgethomas at despammed dot com)
+% Date: 5 Nov 2003
+% Series: GEETanjali
+% Comments: two versions. the other has sadhana solo.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+saadhanaa: ## mm hmm  ... aa aa ... ##
+
+shaan: 
+chup chaap karatii hai.n baate.n jab terii ye Kaamoshiyaa.N
+chup chaap sunatii hai.n dil kii halkii halkii saragoshiyaa.N
+(chup chaap karatii hai.n baate.n jab terii ye Kaamoshiyaa.N
+chup chaap sunatii hai.n dil kii halkii halkii saragoshiyaa.N
+bechain sii har saa.Ns hai anajaanaa saa ehasaas hai) \-2
+
+saadhanaa: ## aa aa ... ##
+
+shaan:
+(beKudii sii kyaa hai har lamhaa Thaharaa hai
+kitanii muddat se ko_ii Kvaab naa dekhaa hai) \-2
+(chup chaap jo nazare.n tumhaarii barasaa_e behoshiyaa.N) \-2
+chup chaap beKudii me.n ham bhuul aa_e do jahaa.N
+bechain sii har saa.Ns hai anajaanaa saa ehasaas hai
+
+saadhanaa: ## laa laa ... ##
+
+shaan:
+(bhii.D me.n tanhaa hai.n Kud pe ham hairaa.N hai.n
+bevajah muskuraa_e dil diiwaanaa meraa) \-2
+(chup chaap  hii khulane lagii hai.N ab saarii majabuuriyaa.N) \-2
+chup chaap kam hu_ii hamaare dil se dil kii duuriyaa.N
+bechain sii har saa.Ns hai anajaanaa saa ehasaas hai
+
+chup chaap karatii hai.n baate.n jab terii ye Kaamoshiyaa.N
+chup chaap sunatii hai.n dil kii halkii halkii saragoshiyaa.N
+bechain sii har saa.Ns hai anajaanaa saa ehasaas hai
+
+saadhanaa: ## aa aa ... laa laa ...##
+%
+#endindian
+\endsong
+%

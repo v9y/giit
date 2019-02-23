@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0542; Created on Jan 26, 2004
+%
+% Vandana V. Iyengar Nov 21, 2002
+% 
+\startsong
+\stitle{o babu_aa yah mahu_aa}%
+\film{Sadmaa}%
+\year{1983}%
+\starring{Kamal Hassan, Sridevi, Silk Smitha}%
+\singer{Asha}%
+\music{Ilaiyaraja}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Vandana V. Iyengar
+% Transliterator: Arunabha S. Roy
+% Date: Nov 21, 2002
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+o babu_aa yah mahu_aa mahakane lagaa hai
+aa mere saa.Ns jalate hai.n
+badan me.n saa.Np chalate hai.n
+tere binaa 
+ta raa raa ta ra raa ta ra raa
+
+shaam sulagatii hai jab bhii teraa Kayaal aata hai
+suunii sii gorii baaho.n me.n dhu.N_aa saa bhar jaata hai
+barfiilaa raastaa kaTataa nahii.n
+zahariilaa chaa.Nd bhii haTataa nahii.n
+tere binaa \threedots
+
+khoyii hu_ii sii aa.Nkho.n se chaadar utar jaatii hai
+jhulasii hu_ii rah jaatii huu.N raat guzar jaatii hai
+aise me.n tum kabhii dekho agar
+kaaTaa hai kis tarah shab kaa safar
+tere binaa \threedots
+
+o babu_aa yah mahu_aa mahakane lagaa hai \threedots
+%
+#endindian
+\endsong
+%

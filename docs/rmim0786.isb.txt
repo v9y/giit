@@ -1,0 +1,62 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{vimukh shikhar se ... baaje re muraliyaa baaaje}%
+\film{Ram Shyam Gun Gaan (Non-Film)}%
+\year{1983}%
+\starring{}%
+\singer{Bhimsen Joshi, Lata}%
+\music{Shrinivas Khale}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 1 Sep 2004
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+bhiimasen:
+vimukh shikhar se dhaaraa dhaaye
+raadhaa hari sammukh laaye
+baa.Nsuriyaa hari saa.Nvariyaa kii raadhaa gorii sunavaa le
+
+lataa:
+baaje re muraliyaa baaje re \-2
+adhar dhare mohan muralii par
+ho.nTh pe maayaa biraaje
+hare\-hare baa.Ns kii banii muraliyaa \-2
+maram maram ko chhu_e a.nguriyaa
+cha.nchal chatur a.nguriyaa jis par
+kanak mu.ndariyaa saaje
+baaje re muraliyaa baaje \threedots
+
+bhiimasen:
+adhar dhare mohan muralii par
+lataa:
+ho.nTh pe maayaa biraaje
+
+piilii mu.ndarii a.ngurii shaam
+mu.ndarii par raadhaa kaa naam
+aakar dekhe sune madhur svar
+raadhaa gorii laaje
+baaje re muraliyaa baaje \threedots
+
+bhiimasen:
+adhar dhare mohan muralii par
+ho.nTh pe maayaa biraaje
+
+bhuul ga_ii raadhaa bharii gagariyaa
+bhuul kare godhan ko saa.Nvariyaa
+jaane na jaane tero (?) jaane
+jaane adha jag raaje
+
+baaje muraliyaa baaje
+
+lataa:
+baaje re muraliyaa baaje \threedots
+
+#endindian
+\endsong

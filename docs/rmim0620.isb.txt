@@ -1,0 +1,34 @@
+% ITRANS SONG #
+%
+% Date: Fri, 13 Feb 2004 02:16:29 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+% 
+\startsong
+\stitle{aaye ko_ii to baiTh bhii jaaye zaraa sii der}%
+\film{? (Non-Film)}%
+\year{mid 40s}% 
+\starring{}%
+\singer{Malka Pukhraj}%
+\music{}%
+\lyrics{DaaG Dehalvi}%
+% 
+% Contributor: <Urzung Khan>
+%
+\printtitle
+#indian
+%
+aa_e ko_ii to beTh bhii jaa_e zaraa sii der
+mushtaaq\e-\-diid lutf uThaa_e zaraa sii der
+
+Tho.Daa saa hai qissaa\-e\-Gam vo sunaa to luu.N
+kaash un ko nii.nd aur naa aa_e zaraa sii der
+
+phirataa hai mere dil me.n koii harf\-e\-mudd_aa
+qaasid se kah do aur naa jaa_e zaraa sii der
+
+tum ne tamaam umr jalaayaa hai daaG ko
+kyaa lutf ho ki vo bhii jalaa_e zaraa sii der 
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0224; Created on Jan 26, 2004
+%
+% nani 11/13/3
+%
+\startsong
+\stitle{duniyaa me.n har kisii kii}%
+\film{Chhota Bhai}%
+\year{1949}%
+\starring{Molina Devi, Shakoor}%
+\singer{Chorus}%
+\music{Pankaj Mullick}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 12 nov 2003
+% Comments: Geetanjali Series. Chhotaa Bhaaii.
+% New Theatres, Kolkata.
+% Manju of Rattan fame is said to be one of the
+% singers in this song.
+%
+\printtitle
+#indian
+%
+duniyaa me.n har kisii kii qismat judaa\-judaa hai
+ek motiyo.n se khele ek Kaak me.n milaa hai
+ek wo hai jo maze se phuulo.n pe so rahaa hai
+aur duusaraa bichaaraa kaaTo.n pe ro rahaa hai
+ajii tum hii kaho ye kaisaa insaaf ho rahaa hai
+duniyaa me.n har kisii kii \threedots
+
+paisaa hai paas jis ke duniyaa hai us ke bas me.n
+duniyaa usii ko maane jo khaaye.n jhuuTii qasme.n
+ajii tum hii kaho samajh kar achchhii hai.n kyaa ye rasme.n
+duniyaa me.n har kisii kii \threedots
+
+sab ek jagah pe baiThe har koii ek saaraa
+uu.Nchaa na koii niichaa chhoTaa ho naa ba.Daa ho
+ban jaaye saarii duniyaa ek ghar to kyaa mazaa hai
+duniyaa me.n har kisii kii \threedots
+%
+#endindian
+\endsong
+%

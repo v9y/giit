@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0502; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ambuwaa pe koyal bole}%
+\film{Moorti}%
+\year{1945}%
+\starring{Khursheed, Motilal, Padma Banerji, Yashwant Dave}%
+\singer{Khursheed}%
+\music{Bulo C Rani}%
+\lyrics{Pt Indra}%
+%
+% Contributor: Urzung Khan
+% Date : 11 Jan 2003
+% Comments : Geetanjali Series. Film 'muurti'.
+%  Ranjit Movietone. Film Director - Chaturbhuj A Doshi.
+%
+\printtitle
+#indian
+%
+ambuwaa pe koyal bole
+sajanaa, jhulaa jaa hi.nDole
+kaliyo.n pe bha.Nware Dole
+sajanaa, jhulaa jaa hi.nDole
+
+jhulaa jaa hi.nDole
+haule haule
+sajanaa, jhulaa jaa hi.nDole
+
+mai.n puujaa karane aa_ii
+kyo.n tum ne priit sikhaa_ii
+kyo.n man ke ghuu.nghaT khole
+  jhulaa jaa hi.nDole \threedots
+
+mai.n maalan ban ke aa_uu.N
+tohe phuulo.n sa.ng khilaa_uu.N
+man meraa khaaye jhole
+  jhulaa jaa hi.nDole \threedots
+%
+#endindian
+\endsong
+%

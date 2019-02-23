@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0002; Created on Jan 26, 2004
+%
+%      From: Abhay Phadnis (aphadnis@hotmail.com)
+%      Date: 2002-11-06 03:21:17 PST 
+%
+\startsong
+\stitle{jiyaraa tarase dekhana ko}%
+\film{Pakistani-film{Mahal)}%
+\year{1968}%
+\starring{}%
+\singer{Noorjehan}%
+\music{Rashid Atre}%
+\lyrics{Tanveer Naqvi}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Credits: Urzung Khan
+% Comments: Noor-e-Tarannum Series; November 06, 2002
+%Availability: "Noor Jehan - Latest Hits" - Magnasound
+%
+\printtitle
+#indian
+%
+jiyaraa tarase dekhana ko \-2
+lagii hai aas milan kii
+jiyaraa tarase dekhana ko
+jiyaraa tarase \threedots
+
+(ik rut biitii ik rut aayii
+tere milan kii raah na paayii) \-2
+jyot jalaayii man me.n lagan kii
+jiyaraa tarase dekhana ko
+jiyaraa tarase \threedots
+
+(ruup kii pyaasii, pyaar kii maarii
+saarii nagariyaa tak tak haarii) \-2
+banake joganiyaa apane sajan kii
+jiyaraa tarase dekhana ko \-2
+jiyaraa tarase \threedots
+
+% An alaap that a younger NJ would have done wonders with!
+
+jiyaaraa tarase dekhana ko
+jiyaraa tarase \threedots
+%
+#endindian
+\endsong
+%

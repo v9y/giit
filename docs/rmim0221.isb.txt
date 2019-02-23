@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0221; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-09-04 04:58:10 PST
+%
+\startsong
+\stitle{kaalii ghaTaao jaao saajan ko samajhaao}%
+\film{Shakti}%
+\year{1948}%
+\starring{Suraiya, Karan Diwan, Sofia, Mumtaaz Ali, Kukku}%
+\singer{Suraiya}%
+\music{Ram Prasad, Azam Baig}%
+\lyrics{Asad Jafri}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 Sep 2003
+% Comments: Geetanjali Series
+%    Theme - The OTHER Song
+%    The MD Ram Prasad is the OTHER, lesser-known member
+%    of the family. His sons Ganesh and esp. Pyarelal
+%    are better known for their work as composer.
+%
+\printtitle
+#indian
+%
+kaalii ghaTaao jaao saajan ko samajhaao
+sajan ko samajhaao
+
+ruuTh gae hai.n baalam mose
+paapii jiyaraa moraa ta.Dape
+bhuul bha_ii hai, kahuu.N mai.n kaase
+pii ko manaa kar laao
+    sajan ko samajhaao \threedots
+
+sai.nyaa.N se jaa ke ro ro kahanaa
+maa.Ng hai uja.Dii  TuuTaa gahanaa
+nisadin tarase daras ko nainaa
+ab naa mohe kalapaao
+    sajan ko samajhaao \threedots
+
+pai.nyaa paDuu.N mai.n ruuTh naa jaanaa
+jiyaraa moraa chho.D naa jaanaa
+baalam mohe naa bhulaao, aao
+    sajan ko samajhaao \threedots
+%
+#endindian
+\endsong
+%

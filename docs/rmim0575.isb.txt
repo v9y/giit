@@ -1,0 +1,40 @@
+% ITRANS SONG #
+%
+% Date: Sat, 06 Mar 2004 12:56:43 -0800
+% From: Animesh Kumar <animesh@eecs.berkely.edu>
+%
+\startsong
+\stitle{tum merii raakho laaj hari}
+\film{? (Non-Film)}
+\year{}
+\singer{Jagjit Singh}
+\music{Jagjit Singh}
+\lyrics{Soordas}
+%
+% Contributor + Transliterator = Animesh Kumar
+% Series: Sukhsaagar, Date = 6 March 2004
+%
+\printtitle
+#indian
+%
+tum merii raakho laaj hari
+
+tum jaanat sab antaryaamii
+karanii kachhu naa karii
+tum merii raakho laaj hari
+
+awagun mose bisarat naahi.n
+palachhin gharii gharii
+tum merii raakho laaj hari
+
+daaraa sut dhan moh liye hau.n
+sudh\-budh sab bisarii
+tum merii raakho laaj hari
+
+suur patit ko beg(?) udhaaro
+ab beri naav bharii
+tum merii raakho laaj hari
+%
+#endindian
+\endsong
+%

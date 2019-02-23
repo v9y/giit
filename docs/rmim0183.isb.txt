@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0183; Created on Jan 26, 2004
+%
+\startsong
+\stitle{apane maulaa kii mai.n jogan banuu.ngii}%
+\film{Yahoodi Ki Ladki}%
+\year{1933}%
+\starring{Ratanbai, K L Saigal, Pahadi Sanyal, Munirbai, Radha Rani}%
+\singer{Ratanbai}%
+\music{Pankaj Mullick}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 02 feb 2003
+% Credits: Listeners' Bulletin, a 1973 issue.
+% Comments: Geetanjali Series. Story: Agha Hashra
+% Kashmiri. Film Dir - Premankur Atorthee.
+% yahuudii kii ladakii / la.Dakii
+%
+\printtitle
+#indian
+%
+apane maulaa kii mai.n jogan banuu.ngii
+jogan banuu.ngii viyogan banuu.ngii
+
+ko_ii jaawe masjid andar, ko_ii jaawe mandar
+hamane teraa jalawaa dekhaa pyaare dil ke andar
+maulaa kii mai.n jogan banuu.ngii \threedots
+
+tere ishq me.n pahanii kafanii, chho.Daa jewar gahanaa
+tuu jis ra.ng me.n khush ho pyaare usii ra.ng me.n rahanaa
+maulaa kii mai.n jogan banuu.ngii \threedots
+
+koyal banake ban\-ban Dhuu.N.Dhaa, bulabul banake gulashan
+kaliyaa.N kaliyaa.N tujhako Dhuu.N.Dhaa ban ke terii naagan
+maulaa kii mai.n jogan banuu.ngii \threedots
+%
+#endindian
+\endsong
+%

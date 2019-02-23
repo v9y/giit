@@ -1,0 +1,32 @@
+% ITRANS SONG # rmim0536; Created on Jan 26, 2004
+%
+% urzung khan 12/20/3
+%
+\startsong
+\stitle{mujh ko Gam\-e\-haalaat}%
+\film{Pakistani-film{Suhag)}%
+\year{1972}%
+\starring{}%
+\singer{Noorjehan}%
+\music{Nashad}%
+\lyrics{Masroor Anwar}%
+%
+% Contributor: <Urzung Khan>, 12/20/3
+%
+\printtitle
+#indian
+%
+mujh ko Gam\-e\-haalaat kii tasviir samajhnaa
+is Kat ko merii aaKirii tahariir samajhnaa
+
+afsaanaa Gam\-e\-dil kaa tujhe kaise sunaauu.n
+TuuTaa jo sitam dil pe tujhe kaise bataauu.n
+is payaar ko biga.Dii huii taqadiir samajhnaa
+
+chaahaa to buhat mai.n ne teraa saath na chhuTe
+haatho.n se mere teraa kabhii haath na chhuTe
+is Khwaab ko qisamat kii taabiir samajhnaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0206; Created on Jan 26, 2004
+%
+% nani 7/27/3
+%
+\startsong
+\stitle{chhupaa le daaG\-e\-jigar ... ai dard\-e\-jigar fariyaad na kar}%
+\film{Bahu}%
+\year{1955}%
+\starring{Usha Kiran, Karan Diwan}%
+\singer{Lata}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 27 July 2003
+% Comments: Latanjali Series
+% This is the OTHER Lata solo beginning with 'ai dard-e-jigar'.
+%
+\printtitle
+#indian
+%
+## prelude ##
+chhupaa le daaG\-e\-jigar daaG\-e\-dil zamaane se
+ki dard aur ba.Dhegaa inhe.n dikhaane se
+
+ai dard-e-jigar, fariyaad na kar
+bahate hai.n to aa.Nsuu bahane de
+saahil kii tamannaa karataa jaa
+ma.Njhadhaar me.n kashtii rahane de
+
+hamako to zamaane se apanaa
+dukh\-dard chhupaae rahanaa hai
+ho jaae na apanii rusawaaii
+har zulm ko ha.Ns kar sahane de
+
+dil sau.np chuke hai.n ham jin ko
+ab unase shikawaa kyaa karanaa
+jis haal me.n rakhanaa chaahe.n wo
+us haal me.n ham ko rahane de
+%
+#endindian
+\endsong
+%

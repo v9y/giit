@@ -1,0 +1,67 @@
+% ITRANS SONG #
+
+% cast on 6/19/2004 4:57:57 PM.
+
+\startsong
+\stitle{lailaa mai.n lailaa, aisii huu.N lailaa}%
+\film{Qurbaani}%
+\year{1980}%
+\starring{Zeenat Aman, Feroz Khan, Amjad Khan}%
+\singer{Kanchan, Amit Kumar, Chorus}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+
+% Contributor: cast
+% Transliterator: V S Rawat
+% Date: 19 Jun 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+% --female--
+(lailaa mai.n lailaa, aisii huu.N lailaa
+har koii chaahe mujhase milanaa akelaa) - 2
+jisako bhii dekhuu.N duniyaa bhulaa duu.N
+majanuu banaa duu.N aisii mai.n lailaa
+
+% --male--
+lailaa o lailaa lailaa, aisii tuu lailaa
+har koii chaahe tujhase milanaa akelaa
+
+% --female--
+o mohabbat kaa jisako tariiqaa naa aayaa
+use zi.ndagii kaa saliiqaa na aayaa
+raah\-e\-vafaa me.n jaa.N par jo khelaa
+usake liye hai ye hasiino.n kaa melaa
+lailaa mai.n lailaa, aisii huu.N lailaa
+har koii chaahe mujhase milanaa akelaa
+
+% --male--
+o lailaa, a ha, a ha, a ha
+gullu gullu, gullu gullu - 2
+
+% --female--
+mujhe dekhakar jo naa dekhe kisii ko
+mere vaaste jo miTaa de khudii ko
+usii diiwaane kii banuu.Ngii mai.n lailaa
+use pyaar duu.Ngii mai.n pahalaa pahalaa
+lailaa mai.n lailaa, aisii huu.N lailaa
+har koii chaahe mujhase milanaa akelaa
+
+% --male--
+lailaa o lailaa lailaa, aisi tu lailaa
+har koi chaahe tujhse milna akela
+
+% --chorus--
+lailaa o lailaa lailaa, aisi tu lailaa
+har koi chaahe tujhse milna akela
+
+% --male--
+(oh lailaa, oh lailaa)
+
+% --chorus--
+laa laa laa laa laa, laa laa laa laa laa - 2
+
+#endindian
+\endsong

@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0514; Created on Jan 26, 2004
+%
+\startsong
+\stitle{pa.nchhii aur paradesii dono.n nahii.n kisii ke miit}%
+\film{Veena}%
+\year{1948}%
+\starring{Rahman, Veera, Yakub}%
+\singer{Shamshad}%
+\music{Anil Biswas}%
+\lyrics{Swami Ramanand}%
+%
+% Contributor: Urzung Khan, Nimish Pachapurkar
+% Transliterator: Urzung Khan, Nimish Pachapurkar
+% Credits: Dhananjay Naniwadekar
+% Date: 22 Mar 2003
+% Series: Anilda Series #12
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+pa.nchhii aur paradesii
+pa.nchhii aur paradesii dono.n nahii.n kisii ke miit
+pa.nchhii aur paradesii \threedots
+
+jaise nain se nikalaa aa.Nsuu phir naa nain samaae
+vaise hii paradesii saajan jaa kar lauT naa aae
+birahaa kii ro ro ke jaae saarii umariyaa biit
+pa.nchhii aur paradesii \threedots
+
+man se aa.Nsuu aa.Nkh churaae.N, aag lagaae.N aur naa bujhaae.N
+premii ke naino.n me.n bas kar phir naa nain milaae.N
+apanaa bairii aap bane vo kare jo in se priit
+pa.nchhii aur paradesii \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0232; Created on Jan 26, 2004
+%
+% nani 1/16/4
+%
+\startsong
+\stitle{aaye aaye hai.n sapane me.n hamaare wo}%
+\film{Bachchon Kaa Khel}%
+\year{1946}%
+\starring{Baby Shakuntala, N Kabir, Meena Kumari}%
+\singer{Naseem Akhtar}%
+\music{C Ramchandra}%
+\lyrics{Mukhram Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 15 jan 2004
+% Credits: Kamalakar Pasupuleti, Surjit Singh
+% Comments: Geetanjali Series
+% film - 'bachcho.n kaa khel'
+% RamaNiik Productions, Mumbai. Dir - Raja Nene
+% The singer is not Anuradha though that name is
+% listed in the Geet Kosh.
+%
+\printtitle
+#indian
+%
+aaye aaye hai.n sapane me.n hamaare wo
+aaye aaye hai.n sapane me.n hamaare
+
+muhabbat ke dariyaa pe dono.n the aaye
+mai.n thii is kinaare, wo the us kinaare
+aaye aaye hai.n sapane me.n hamaare
+
+kahaa.N mai.nne, aauu.N mai.n kaise, bataao
+pareshaan dono.n ishq ke bichaare
+aaye aaye hai.n sapane me.n hamaare
+
+isii bebasii me.n lahar ik aaii
+chale.n dono.n milane usii ke sahaare
+aaye aaye hai.n sapane me.n hamaare
+
+usii ke gale mil ke mai.n ha.Ns rahii thii
+khulii aa.Nkh dekhaa to chhiTake the taare
+aaye aaye hai.n sapane me.n hamaare
+%
+#endindian
+\endsong
+%

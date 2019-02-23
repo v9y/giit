@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0235; Created on Jan 26, 2004
+%
+% From: George Thomas (george@cc.gatech.edu)
+% Date: 2002-12-06 15:20:03 PST
+%
+\startsong
+\stitle{tumase milake zi.ndagii ko yuu.N lagaa}%
+\film{Chor Police}%
+\year{1983}%
+\starring{Shatrughna Sinha, Parveen Babi}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Nida Fazli}%
+%
+% Audio On: HMV
+% Contributor: George Thomas (georgethomas@despammed.com)
+% Transliterator: George Thomas (georgethomas@despammed.com)
+% Editor: Vinay P Jain
+% Date: Dec 06, 2002
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+tumase milake zi.ndagii ko yuu.N lagaa
+jaise hamako saarii duniyaa mil gayii
+dil me.n jaagii dha.Dakano.n kii raaginii
+har tamannaa phuul banake khil gayii
+
+(ho.nTho.n se vaade likhe.n
+aa.Nkho.n se aa.Nkhe.n pa.Dhe.n) \-2
+TuuTe naa ye chaahato.n kaa silasilaa
+tumase milake \threedots
+
+(baago.n me.n mausam khule
+Kvaabo.n ke chehare dhule) \-2
+tumase pahale har khushii thii bevajah
+tumase milake \threedots
+%
+#endindian
+\endsong
+%

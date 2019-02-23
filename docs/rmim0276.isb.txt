@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0276; Created on Jan 26, 2004
+%
+% From: Nimish Pachapurkar (Nimish.Pachapurkar@asu.edu)
+% Date: 2002-09-21 16:02:20 PST 
+%
+\startsong
+\stitle{tum ham ko bhulaa baiThe ho}%
+\film{Badi Maa}%
+\year{1945}%
+\starring{Noorjehan}%
+\singer{Noorjehan}%
+\music{K Datta}%
+\lyrics{Zia Sarhadi}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: NOOR-E-TARANNUM Series #5
+% Producer: Prafulla Pictures
+% Date: 21st September 2002
+%
+\printtitle
+#indian
+%
+tum ham ko bhulaa baiThe ho \threedots
+ham ko bhulaa baiThe ho \threedots
+
+tum ham ko bhulaa baiThe ho ham tum ko bhulaaye kaise,
+ham tum ko bhulaaye kaise
+jo aaG lagaa_ii tum ne ham us ko bujhaaye kaise
+tum ham ko bhulaa baiThe ho
+
+ummiid pe jiite the ham ummiid nahii ab ko_ii
+jiine kaa na ho jab saamaa.N to umar bitaaye kaise,
+to umar bitaaye kaise
+tum ham ko bhulaa baiThe ho ham tum ko bhulaaye kaise,
+ham tum ko bhulaaye kaise
+
+ro ro ke hu_ii ye haalat ab ro bhii nahii sakate ham, haaye,
+ab ro bhii nahii sakate ham
+aur ro na sake to apanaa afasaanaa sunaaye kaise,
+afasaanaa sunaaye kaise
+tum ham ko bhulaa baiThe ho
+%
+#endindian
+\endsong
+%

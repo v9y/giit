@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0552; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ab ke naa saawan barase}%
+\film{Kinaaraa}%
+\year{1977}%
+\starring{Jeetendra, Hema Malini}%
+\singer{Lata}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+% 
+% Audio on: HMV
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 6 Apr 2003
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: Composed originally by SDB as a private Bengali 
+% song (kaa.ndiibonaa faagun gele)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+abake naa saawan barase
+abake naa saawan barase
+ho~~ abake baras to barase.ngii a.Nkhiyaa.N
+abake naa saawan barase
+ho~~ abake baras to barase.ngii a.Nkhiyaa.N
+abake naa~ saawan barase
+
+jaane kaise abake ye mausam beete
+aa~~ aa aa aa
+jaane kaise abake ye mausam beete
+beetegii jo tere bin wo kam beete
+tere binaa saawan suune
+tere binaa ab to ye man tarase..
+
+jaane kab aaye din, din Dhal jaaye
+din Dhal jaaye~
+jaane kab aaye din, din Dhal jaaye
+tere bin a.Nkhiyo.n se raat naa jaaye
+tere binaa raat naa jaaye
+tere binaa ab to ye din tarase..
+%
+#endindian
+\endsong
+%

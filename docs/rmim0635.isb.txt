@@ -1,0 +1,48 @@
+% ITRANS SONG #
+
+% Date: Wed, 17 Mar 2004 14:14:31 -0800
+% From: Animesh Kumar <animesh@eecs.berkely.edu>
+
+\startsong
+\stitle{karam kii gati nyaarii}
+\singer{Lata}
+\year{}
+\film{Chala Vahi Des (Non-Film)}
+\music{Hridayanath Mangeshkar}
+\lyrics{Meerabai}
+
+% Contributor + Transliterator = Animesh Kumar
+% Series: Sukhsaagar, Date: 17 march 2004
+% Remarks: repetitions are omitted to retain poetic structure
+
+\printtitle
+#indian
+
+(raam kahi_e govi.nd kahi_e)\-3
+
+karam kii gati nyaarii sa.nto.n
+
+ba.De ba.De nayan diye miragan ko
+ban ban phirat ughaarii sa.nto.n
+
+% miragan = deer (mRRig), ughaarii = uncovered
+
+ujjawal varan diinhii bagalan ko
+koyal kar diinhii kaarii sa.nto.n
+
+% varan = color (varNa), bagalan = crane (bagulaa)
+
+auran diipan jal nirmal kiinhii
+sau.ndar karatii nikhaarii sa.nto.n
+
+% diipan = lamp (diip), sau.ndar = beauty (sau.ndarya)
+
+muurakh ko tum raaj diyat ho
+paNDit phirat bhikhaarii sa.nto.n
+
+miiraa ke prabhu giridhar naagun
+raajaajii ko kaun bichaarii sa.nto.n
+
+#endindian
+\endsong
+

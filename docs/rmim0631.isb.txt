@@ -1,0 +1,68 @@
+% ITRANS SONG #
+
+% Date: 12 Mar 2004 05:43:00 -0800
+% From: Abhijeet_B_Patil@hotmail.com (Abhi)
+
+\startsong
+\stitle{mausam mastaanaa hai dil diwaanaa hai}%
+\film{Laalach}%
+\year{1983}%
+\starring{Vinod Mehara, Bindiya Goswami}%
+\singer{Kishore, Lata}%
+\music{Bappi Lahiri}%
+\lyrics{Anjaan}%
+
+% Contributor: Abhijeet B Patil
+% Credits: Surjit Singh, Gurcharan Sandhu, V S Rawat
+% Date: March 12, 2004
+
+\printtitle
+#indian
+
+kishore:
+mausam mastaanaa hai, dil diwaanaa hai
+pyaar me.n ham\-tum kyo.n na kho jaaye.n \-2
+
+lata:
+hai pyaar kyaa, ye bataa dilarubaa \-2
+
+kishore:
+mausam mastaanaa hai, dil diwaanaa hai
+pyaar me.n ham\-tum kyo.n na kho jaaye.n
+
+lata:
+saa.Nso se ye kyaa Kushbuu u.De
+aa.Nkho.se ye kyaa chhalake nashaa
+
+kishore:
+pyaase dilo.n kaa pahalaa milan
+kyaa ra.ng laaye dekho zaraa
+
+lata:
+o dilarubaa, ye hame.n kyaa huaa
+
+kishore:
+mausam mastaanaa hai, dil diwaanaa hai
+pyaar me.n ham\-tum kyo.n na kho jaaye.n
+
+lata:
+kuchh to bataao, kuchh bolo na
+milate hai.n kaise do dil yahaa.N
+
+kishor:
+saahil se jaise lahare mile.n
+jaise zamii.n se vo aasamaa.n
+
+lata:
+o dilarubaa pyaar to ho gayaa
+
+kishor: mausam mastaanaa hai
+lata: dil diwaanaa hai
+kishore: pyaar me.n ham\-tum
+lata: kyo.n na kho jaaye.n
+
+kishore lata:
+kyo.n kho jaaye \-3
+
+#endindian
+\endsong

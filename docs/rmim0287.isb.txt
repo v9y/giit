@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0287; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam_@usa.net)
+% Date: 2002-11-23 15:59:07 PST
+%
+\startsong
+\stitle{sitaaro merii raato.n ke sahaaro}%
+\film{Pakistani-film{Bahisht)}%
+\year{1974}%
+\starring{Nisho, Nadeem, Nayyar, Saiqa, Talish, Zamarrud}%
+\singer{Noorjehan}%
+\music{Rashid Atre}%
+\lyrics{Riaz Shahid}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Credits: Jamal Akbar
+% Date: Nov 23, 2002
+% Comments: Noor-e-tarannum Series #29
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+sitaaro.n merii raato.n ke sahaaro.n
+muhabbat kii chamakatii yaadagaaro.n
+sitaaro.n \threedots
+
+na jaane mujh ko nii.nd aaye ke naa aaye
+tumhii.n aaraam kar lo beqaraaro.n
+
+gavaahii do merii barabaadiyo.n kii
+merii tanahaa_iio.n ke yaadagaaro.n
+sitaaro.n \threedots
+
+u.Daate ho ha.Nsii kyuu.N mere Gam kii
+ye shab merii tarah ro kar guzaaro
+sitaaro.n \threedots
+%
+#endindian
+\endsong
+%

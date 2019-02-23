@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0278; Created on Jan 26, 2004
+%
+% From: Nimish (Nimish.Pachapurkar@asu.edu)
+% Date: 2002-10-02 17:48:49 PST
+%
+\startsong
+\stitle{dil naGamo.n se bhar jaataa hai}%
+\film{Pakistani-film{Padosi)}%
+\year{1968}%
+\starring{Nadeem, Deeba}%
+\singer{Noorjehan}%
+\music{Wazir Afzal}%
+\lyrics{}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: NOOR-E-TARANNUM Series #9
+% Date: 2nd October 2002
+%
+\printtitle
+#indian
+%
+(dil naGamo.n se bhar jaataa hai)\2
+(jab hotaa hai pyaar kisii se)\2
+dil naGamo.n se   \threedots
+
+(Kwaab adhure, giit adhure)\2
+jitane the sab ho gaye puure
+mil gaye man ke taar kisii se
+
+dil naGamo.n se bhar jaataa hai
+
+shoKii bhuulii, mastii bhuulii (phuulii ?)
+mai.n to apanii hastii bhuulii
+maan gayii huu.N haar kisii se
+
+dil naGamo.n se bhar jaataa hai
+
+saath jiyuu.ngii, saath maruu.ngii
+duniyaa waalo.n se naa Daruu.ngii
+aaj hu_aa iqaraar kisii se
+
+dil naGamo.n se bhar jaataa hai
+jab hotaa hai pyaar kisii se
+dil nagmo.n se bhar jaataa hai  \threedots
+
+\humming
+%
+#endindian
+\endsong
+%

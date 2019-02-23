@@ -1,0 +1,60 @@
+% ITRANS SONG # rmim0289; Created on Jan 26, 2004
+%
+\startsong
+\stitle{suno gajar kyaa gaa_e samay guzarataa jaa_e}%
+\film{Baazi}%
+\year{1951}%
+\starring{Dev Anand, Geeta Bali}%
+\singer{Geeta, Chorus}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Nov 26, 2002
+% Comments: SDB Series #
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+koras: o la la laa .a o la la laa .a o o o la laa
+
+giitaa:
+suno gajar kyaa gaa_e samay guzarataa jaa_e
+o re jiine vaale o re bhole bhaale
+sonaa naa, khonaa naa
+
+koras:
+suno gajar kyaa gaa_e samay guzarataa jaa_e
+o la la laa .a o la la laa .a o o o la laa
+
+giitaa:
+gine\-chune pal hai.n tere jiivan ke
+dhuum machaa le abhii din hai.n milan ke
+o re jiine vaale \threedots
+koras: suno gajar kyaa gaa_e samay guzarataa jaa_e
+
+giitaa:
+o re jiine vaale o re bhole bhaale
+sonaa naa, khonaa naa
+koras: o la la laa .a o la la laa .a o o o la laa
+% Chorus-Geeta-Chorus sequence repeats after each stanza
+giitaa:
+husn bhii faanii aur ishq bhii faanii hai
+ha.Ns ke bitaa le do gha.Dii kii javaanii hai
+o re jiine vaale \threedots
+
+giitaa:
+bichha.Daa zamaanaa kabhii haath naa aa_egaa
+dosh naa denaa mujhe phir pachhataa_egaa
+o re jiine vaale \threedots
+
+koras: suno gajar kyaa gaa_e
+giitaa: sonaa naa
+koras: samay guzarataa jaa_e
+giitaa: khonaa naa
+%
+#endindian
+\endsong
+%

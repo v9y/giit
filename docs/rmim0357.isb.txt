@@ -1,0 +1,49 @@
+% ITRANS SONG # rmim0357; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)                 
+% Date: 2002-01-25 19:03:17 PST                        
+%
+\startsong
+\stitle{qaum kii Kidamat me.n raho miTane ko taiyaar}%
+\film(non-Film}%
+\year{1947}%
+\starring{}%
+\singer{Hemant, Bela, Ava Banerjee, Samaresh Roy}%
+\music{Hemant}%
+\lyrics{}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Jan 26, 2002
+% Availability: AFAIK only on 78 rpm
+%
+%printtitle
+#indian
+%
+he/be: qaum kii Kidamat me.n raho miTane ko taiyaar
+sab: marane ko taiyaar raho miTane ko taiyaar raho
+ba.Dane ko taiyaar raho marane ko taiyaar
+
+s: aapas ke fasado.n ko miTaanaa hii pa.Degaa
+aa: ye zulm ki tahadii ko haTaanaa hii pa.Degaa
+s/be: vo qaum nahii jisame naa ho ba.Dane kaa aramaan
+sab: marane ko taiyaar raho miTane ko taiyaar raho
+ba.Dane ko taiyaar raho marane ko taiyaar
+
+he: ma.ndir ne pukaaraa tumhe masajiid ne pukaaraa
+allaah ne pukaaraa tumhe iishvar ne pukaaraa
+he/be: azaad vatan ke li_e validaan ho jaanaa
+azaad vatan ke li_e qurbaan ho jaanaa
+sab: marane ko taiyaar raho miTane ko taiyaar raho
+ba.Dane ko taiyaar raho marane ko taiyaar
+
+he: ved me.n quraan me.n to ek baat hai.n
+inasaan ke Kidamat se ba.Daa kaun kaam hai.n
+s: inasaan ke Kidamat me karo bheT zi.ndagii
+aapas ke fasaado.n se karo bheT ba.ndagii
+sab: marane ko taiyaar raho miTane ko taiyaar raho
+ba.Dane ko taiyaar raho marane ko taiyaar
+%
+#endindian
+\endsong
+%

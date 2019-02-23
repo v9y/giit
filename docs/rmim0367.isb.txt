@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0367; Created on Jan 26, 2004
+%
+% pulkit 11/7/03
+%
+\startsong
+\stitle (duniyaa kab chup rahatii hai kahne de jo kahtii hai}%
+\film (Pakistani-film{Pehli Nazar)}%
+\year (1977}%
+\starring(}%
+\singer (Noorjehan}%
+\music{ Master Inayat Husein}%
+\lyrics (Qateel Shifai}%
+%
+% Contributor :Pulkit Sharma (pulkit_sadabahar@yahoo.com)
+% Transliterator :Pulkit Sharma (pulkit_sadabahar@yahoo.com)
+% Date :7th nov 2003
+% Series :NOOR-E-TARANNUM
+%
+/printtitile
+#indian
+%
+duniyaa kab chup rahtii hai
+kahne de jo kahtii hai
+mat kar duniyaa kii baat sajan
+kahii.n biit naa jaae raat sajan
+
+ye raat ba~Nii matvaalii hai
+is raat ko apnaa miit banaa
+mai.n zulfo.n ko bikharaatii huu.n
+tuu saa.Nso.n ko sa.ngiit banaa
+aa jhuum le mere saath sajan
+kahii.n biit naa jaae raat sajan
+
+tere hii lie hai pRRit merii
+sab giit mere hai.n tere lie
+ho.nTho.n pe sajaake dil kii sadaa
+laaii huu.n piyaa mai.n tere lie
+aa thaam le meraa haath sajan
+kahii.n biit naa jaae raat sajan
+
+duniyaa kab chup rahtii hai
+kahne de jo kahtii hai
+%
+#endindian
+/endsong
+%

@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0279; Created on Jan 26, 2004
+%
+% From: Nimish (Nimish.Pachapurkar@asu.edu)
+% Date: 2002-10-06 02:36:28 PST
+%
+\startsong
+\stitle{ho tamannaa aur kyaa jaan\-e\-tamannaa aap hai}%
+\film{Pakistani-film{Aisa Bhi Hota Hai)}%
+\year{1964}%
+\starring{}%
+\singer{Noorjehan}%
+\music{Nisar Bazmi}%
+\lyrics{Fazal Karim Fazli}%
+%
+% Contributor: Nimish Pachapurkar
+% Transliterator: Nimish Pachapurkar
+% Comments: NOOR-E-TARANNUM Series #10
+% Date: 6th October 2002
+%
+\printtitle
+#indian
+%
+ho tamannaa aur kyaa, jaan\-e\-tamannaa aap hai
+kyaa karuu.Ngii le ke duniyaa, merii duniyaa aap hai
+
+sharm aatii hai mujhe apane se bhii kahate hue
+aap se kaise kahuu.N mere liye kyaa aap hai
+ho tamannaa aur kyaa, jaan\-e\-tamannaa aap hai
+
+aap se pahale nazar me.n kuchh na thaa apane sivaa
+ab jidhar bhii dekhatii huu.N jalawaa parawaa(?) aap hai
+
+ho tamannaa aur kyaa, jaan\-e\-tamannaa aap hai
+kyaa karuu.Ngii le ke duniyaa, merii duniyaa aap hai
+%
+#endindian
+\endsong
+%

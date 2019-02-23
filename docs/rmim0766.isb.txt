@@ -1,0 +1,38 @@
+% ITRANS SONG 
+%
+\startsong
+\stitle{phir saawan rut kii pawan chalii tum yaad aaye}%
+\film{Meraj-e-Ghazal (Non-Film)}%
+\year{1983}%
+\starring{}%
+\singer{Asha, Ghulam Ali}%
+\music{Ghulam Ali}%
+\lyrics{Nasir Kazmi}%
+%
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Credits: Ashok Dhareshwar
+% Date: 11 Aug 2004
+% Series: Andaaz-e-Bayaan Aur
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+phir saawan rut kii pawan chalii tum yaad aaye
+phir patto.n kii paajeb bajii tum yaad aaye
+
+phir kuu.Nje.n bolii.n ghaas ke hare samundar me.n
+rut aaii piile phuulo.n kii tum yaad aaye
+
+pahale to mai.n chiikh ke royaa aur phir ha.Nsane lagaa
+baadal garajaa bijalii chamakii tum yaad aaye
+
+phir kaagaa bolaa ghar ke suune aa.Ngan me.n
+phir amRRit ras kii buu.Nd pa.Dii tum yaad aaye
+
+din bhar to mai.n duniyaa ke dha.ndho.n me.n khoyaa rahaa
+jab diiwaaro.n se dhuup Dhalii tum yaad aaye
+%
+#endindian
+\endsong

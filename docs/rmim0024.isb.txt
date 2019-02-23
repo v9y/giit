@@ -1,0 +1,57 @@
+% ITRANS SONG # rmim0024; Created on Jan 26, 2004
+%
+%      From: Amit Malhotra (amit@zonecom.com)
+%      Date: 2003-01-21 20:18:27 PST 
+% 
+\startsong
+\stitle{mai.n ne ye dil tumako diyaa o merii mahabuubaa}%
+\film{Jaan tere naam}%
+\year{1992}% 
+\starring{Ronit Roy, Farheen, Vijay Arora, Ajit Vachani, Sulbha Deshpande}%
+\singer{Alka Yagnik, Kumar Sanu}%
+\music{Nadeem Shravan}%
+\lyrics{Rani Malik}%
+% 
+% Contributor: Amit Malhotra (www.bollyvista.com)
+% Transliterator: Amit Malhotra 
+% Date:  01/21/2003
+%
+\printtitle
+#indian
+%
+saanuu: mai.n ne ye dil tumako diyaa
+ o merii mahabuubaa \-2
+ mai.n ne ye dil tumako diyaa
+ o merii mahabuubaa \-2
+ tum hii karo kuchh faisalaa
+ o merii mahabuubaa \-2
+
+alkaa: mai.n ne ye dil tumako diyaa
+ o mere jaan\-e\-jaa.n \-2
+ tum bhii karo kuchh faisalaa
+ o mere jaan\-e\-jaa.n \-2
+
+saanuu: jab bhii jahaa.n dekhuu.n jidhar
+ tuu hii tuu aaye nazar
+ bhuulaa huu.n mai.n saaraa jahaa.n
+ mujhako nahii.n apanii Kabar
+ betaab huu.n tere binaa (o merii mahabuubaa) \-2
+ tum hii karo \threedots
+
+alkaa:  dil ko teraa aramaan hai 
+ tuu dha.Dakan tuu jaan hai
+ terii chaahat merii Kushii 
+ tumape jahaa.n qurabaan hai
+ tere liye merii vafaa, (o mere jaan\-e\-jaa.n) \-2
+ tum bhii karo \threedots
+
+saanu:  mai.n ne ye dil tumako diyaa
+ o merii mahabuubaa \-2
+alkaa:  tum bhii karo kuchh faisalaa
+ o mere jaan\-e\-jaa.n \-2
+
+koras:  aa.a.a.a.a
+%
+#endindian
+\endsong
+%

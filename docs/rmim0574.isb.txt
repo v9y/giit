@@ -1,0 +1,28 @@
+% ITRANS SONG #
+%
+% Date: Sat, 07 Feb 2004 10:26:52 -0800
+% From: Animesh Kumar <animesh@eecs.berkely.edu>
+%
+\startsong
+\stitle{jay jayati jay jay}
+\film{? (Non-Film)}
+\year{1983}
+\starring{}%
+\singer{Laxmi Shankar}
+\music{Laxmi Shankar?}
+\lyrics{}
+%
+% Contributor + Transliterator = Animesh Kumar
+% Series: Sukhsaagar, Date: 6 Feb 2004
+%
+\printtitle
+#indian
+%
+jay jayati jay jay raghuva.nsh bhuuShaN raam raajiv lochanam.h
+bhay taap khaNDan jagat maNDan GYaangamya agocharam.h
+advait avinaashii ani.ndit mokshaprad hari ga.njanam.h
+tav sharaN bhavanidhi paaradaayak anya jagat nitaa.ngamam.h (?)
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0319; Created on Jan 26, 2004
+%
+% nimish 6/14/3
+%
+\startsong
+\stitle{ab kahaa.N jaae.N ki apanaa meharabaa.N koii nahii.n}%
+\film{Pyaar Ki Baaten}%
+\year{1951}%
+\starring{Nargis, Tirlok Kapur}%
+\singer{Lata}%
+\music{Khaiyyam}%
+\lyrics{Khawar Jaman}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 14 Jun 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ab kahaa.N jaae.N ki apanaa meharabaa.N koii nahii.n
+terii duniyaa me.n hamaaraa paasabaa.N koii nahii.n
+
+luT rahaa hai aashiyaa.N merii nazar ke saamane
+aur mai.n Kaamosh huu.N jaise zabaa.N koii nahii.n
+ab kahaa.N jaae.N \threedots
+
+hasarato.n ke baaG me.n chhaa gayii.n barabaadiyaa.N
+phuul hai.n, kaliyaa.N hai.n, lekin aashiyaa.N koii nahii.n
+terii duniyaa me.n hamaaraa paasabaa.N koii nahii.n
+ab kahaa.N jaae.N
+%
+#endindian
+\endsong
+%

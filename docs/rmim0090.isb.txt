@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0090; Created on Jan 26, 2004
+%
+%      From: Arunabha S Roy (asroyus@yahoo.com)
+%      Date: 2002-12-17 21:47:41 PST 
+%
+\startsong
+\stitle{ham pyaar kii baazii haare}%
+\film{Sazaa}%
+\year{1951}%
+\starring{Dev Anand, Nimmi, Kamini Kaushal}%
+\singer{Lata}%
+\music{S D Burman}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Dec 17, 2002
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ham pyaar kii baazii haare
+dil ro_e dard ke maare
+balamavaa chale gaye, balamavaa chale ga_e
+merii aashaa_o.n ke taare TuuT ga_e saare
+sajanavaa chale ga_e, balamavaa chale ga_e
+
+vo bedardii kyaa jaane tere dard bhare afasaane \-2
+mai.n kahuu.N jiyaa se bhuul jiyaa na maane jiyaa na maane
+lo aa_e baadal kaare o mere pyaare sajanavaa chale ga_e
+balamavaa chale ga_e
+ham pyaar kii baazii haare \threedots
+
+dil gha.Dii\-gha.Dii bhar aa_e aur chain kahii.n na paa_e
+koii jaakar mere sajan se yah baat merii kah jaa_e
+ham phire.nge maare\-maare o dwaare\-dwaare sajanavaa chale ga_e
+balamavaa chale ga_e
+ham pyaar kii baazii haare \threedots
+%
+#endindian
+\endsong
+%

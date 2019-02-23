@@ -1,0 +1,57 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{jaage aaj more bhaag, sahilii aa_o, gaa_o bajaa_o}%
+\film{Jwaala}%
+\year{1938}%
+\starring{Ratnaprabha, Chandramohan, Mandre, Bulbule, Ashalata, Vinayak, Rajani}%
+\singer{Ratnaprabha, Chorus}%
+\music{Dhamman Khan}%
+\lyrics{Pt Indra}%
+
+% Contributor : Dhananjay Naniwadekar
+% Date : 26 Oct 2004
+% Comments : Geetanjali Series
+%    film - jwala / jwaalaa. Hans Pictures, Mumbai.
+%    Dir - Vinayak. Background Music - Dada Chandekar.
+%    The film was made in Marathi also with the same
+%    name. Original Marathi songs were adapted into
+%    Hindi by Pandit Indra.
+%    Ratnaprabha's screen name in the film was Mangala.
+
+\printtitle
+#indian
+
+% Mangala starts the song
+
+jaage aaj more bhaag
+sahelii aao, gaao, bajaao
+ma.ngal thaal sajaao
+
+ku.Nwar kanhaiyaa, ku.Nwar kanhaiyaa,
+jaago ho ab jaago ho
+
+% Lines by 3 female friends, singing in a garden,
+% were not included on the 78 release.
+
+pahalii sahelii, baaG me.n :
+         ha.Nsatii khilatii lachake machake
+         madabhar kaliyaa.N, chhalake Dhalake
+duu sa : hamarii sajanii, amar suhaagin
+         god bharaiyo, sab sukh paiyo
+tii sa : ha.Ns ha.Ns kariyo priitam puujaa \- ku.Nwar kanhaiyaa
+
+% Mangalaa resumes singing at this point
+
+nazar guzar mere laal kii re
+nagar badhaaii baa.NTatii re
+matawaale raN kesarii tohe aan khilaawe.n god
+bolo bolo nainaa kholo \- ku.Nwar kanhaiyaa
+
+rasavant kant sukhadhaam kii
+ye nainaa utaare.n aaratii
+tan praaN naath par waaratii
+aao aao godii aao \- ku.Nwar kanhaiyaa
+
+#endindian
+\endsong

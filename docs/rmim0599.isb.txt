@@ -1,0 +1,46 @@
+% ITRANS SONG #
+%
+% Date: Sun, 29 Feb 2004 04:32:56 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{ghuu.NghaT paT naahii kholuu.N}%
+\film{Bhartruhari}%
+\year{1944}%
+\starring{Surendra, Mumtaz Shanti, Jahanara Kajjan, Arun, Sulochana Chatterjee}%
+\singer{Jahanara Kajjan}%
+\music{Khemchand Prakash}%
+\lyrics{Pt Indra}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  29 February 2004
+% Credits  : Har Mandir Singh, Sanjeev Ramabhadran
+% Comments : GEETanjali Series
+%    The OTHER Song Theme : The song is set to Chautaal,
+%    the OTHER, rarely heard, taal in film songs.
+%    This Dhrupad composition is in Mishra Kafi.
+%
+%    Film - Bharthari (sic). Prod - Naveen Pictures.
+%    Dir  - Chaturbhuj Doshi.
+%
+\printtitle
+#indian
+%
+ghuu.NghaT paT naahii kholuu.N
+mukh se kachhu naahii boluu.N
+nainan me.n kaun base
+kaise bhed kholuu.N raajaa
+
+madhur madhur unake bain
+sun sun jiyaa parat chain
+ulajhe nit rahat nain
+man se man ko toluu.N raajaa
+
+saj kar solah si.ngaar
+lekar kaliyan kaa haar
+kab se priitam ke dwaar
+baawarii sii Doluu.N raajaa
+%
+#endindian
+\endsong
+%

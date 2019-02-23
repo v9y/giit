@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0260; Created on Jan 26, 2004
+%
+%      From: vijaykumark@my-deja.com (vijaykumark@my-deja.com)
+%      Date: 1999/07/05 
+%
+\startsong
+\stitle{na jhaTako zulf se paanii  yah motii TuuT jaaye.nge}%
+\film{Shehnai}%
+\year{1964}%
+\starring{Biswajeet, Rajashree, Johnny Walker, Rehman}%
+\singer{Rafi}%
+\music{Ravi}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: K Vijay Kumar
+% first stanza provided by sanjeevr in sanjeevtrans, converted
+% to iTrans by V S Rawat
+%
+\printtitle
+#indian
+%
+naa jhaTako sulf se paanii yah motii TuuT jaaye.nge
+tumhaaraa kuchh na biga.Degaa magar dil TuuT jaaye.nge
+naa jhaTako sulf se paanii ...
+
+ye bhiigi raat ye bhiigaa badan ye husn kaa aalam
+ye sab andaaz mil kar do jahaa.N ko luuT jaaye.nge
+naa jhaTako sulf se paanii ...
+
+yah naazuk lab hai.n yaa aapas me.n do lipaTii huI kaliyaa.N
+zaraa inako alag kar do, tarannum phuuT jaaye.nge
+naa jhaTako sulf se paanii ...
+
+hamaarii jaan le legaa yah niichii aa.Nkh ka jaduu
+chalo achchha huaa mar kar jahaa.N se chhuuT jaaye.nge
+naa jhaTako sulf se paanii ...
+%
+#endindian
+\endsong
+%

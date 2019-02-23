@@ -1,0 +1,63 @@
+% ITRANS SONG # rmim0350; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)
+% Date: 2001-11-11 12:29:29 PST 
+%
+\startsong
+\stitle{hasiino.n mujhase math puuchho ... yaad rakhanaa pyaar kii nishaanii}%
+\film{Naagin}%
+\year{1954}%
+\starring{Pradip Kumar, Vyjanthimala, Jeevan}%
+\singer{Hemant, Asha, Chorus}%
+\music{Hemant}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: Nov 11, 2001
+% Comments: Hemant-da series #74
+%
+\printtitle
+#indian
+%
+he: hasiino.n mujhase math puuchho
+ke kyaa kyaa bechataa huu.N mai.n
+chhupaakar chuu.Diiyo.n me.n
+dil kii duniyaa bechataa huu.N mai.n
+
+(yaad rakhanaa pyaar kii nishaanii gorii yaad rakhanaa) \- 2
+aabaad rakhanaa dil paradesii kaa abaad rakhanaa
+
+ko: aa aa aa aa aa
+
+aa: o o o o o
+(kaisii gorii gorii reshamii kalaa_ii re
+tere haath paradesiiyaa aa_ii re ) \- 2
+ko: ( nazar lalachaa_ii re haa.N haa.N jii man bhaa_ii re ) \- 2
+he: aa aa aa aa aa
+leke haath ye chho.D na denaa mukh mo.D na 
+ke dil meraa shaad rakhanaa
+yaad rakhanaa pyaar kii nishaanii gorii rakhanaa \threedots
+
+ko: aabaad rakhanaa dil paradesii kaa abaad rakhanaa
+
+ko: aa aa aa aa aa aa aa
+he: mai.n to man kaa darapan to.D ke 
+laayaa dil ke tuka.De jo.D ke
+aa: o o o o
+saare jag se hai dekho niraalaa
+ko: ra.ngiilaa chu.Diivaalaa ra.ngiilaa chu.Diivaalaa
+aa: o saare jag se hai dekho niralaa
+ko: ra.ngiilaa chu.Diivaalaa
+% Satish Kalra informed that the following one line was here,
+% but was removed later on.
+
+{ko: toDegaa dil kaa taalaa}%
+
+aa: ye baat merii yaad rakhanaa 
+dil paradesii kaa abaad rakhanaa 
+he: yaad rakhanaa pyaar kii nishaanii \threedots
+%
+#endindian
+\endsong
+%

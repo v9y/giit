@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0201; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ha.Nsii chaa.Nd kii aaj niraalii}%
+\film{Humrahi}%
+\year{1945}%
+\starring{Radhamohan Bhattacharya, Binata Bose}%
+\singer{Binata Bose}%
+\music{R C Boral}%
+\lyrics{Zakir Hussain}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 24 feb 2003
+% Credits: Har Mandir Singh (Hamraaz)
+% Comments: Geetanjali Series. Film 'humrahi or hamraahii'
+% Director of 'hamaraahii' - Bimal Roy
+% New Theatres Ltd, Kolkata.
+%
+\printtitle
+#indian
+%
+% The song begins with the first line beautifully hummed.
+% Then the second line is sung (with words 'man ko ...');
+% and then the first two lines are repeated, this time
+% by singing words in both the lines.
+
+ha.Nsii chaa.Nd kii aaj niraalii
+man ko lubhaanewaalii
+a.Ndhere ko duur haTaa ke
+phailaaye ujiyaalii
+
+dau.Dii hawaa chaman me.n aa_e
+ye nahii.n jaane kaun bulaa_e
+phuul phuul par man bharamaa_e
+phiratii Daalii Daalii
+ha.Nsii chaa.Nd kii \threedots
+
+aasamaan bhii jhuum rahaa hai
+cha.ndan\-tilak lagaa_e
+phire magan ha.nso.n kaa joDaa
+apane pa.nkh milaa_e
+swarg\-desh kii kaun ye baalaa
+Dhuu.N.Dh rahii phuulo.n kii maalaa
+aaj ye kaise diip jalaatii
+kaisii ye diwaalii
+ha.Nsii chaa.Nd kii \threedots
+%
+#endindian
+\endsong
+%

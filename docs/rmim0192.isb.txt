@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0192; Created on Jan 26, 2004
+%
+\startsong
+\stitle{ab mai.nne jaanaa hai haay prem kyaa hai}%
+\film{Amar Jyoti/ Immortal Flame}%
+\year{1936}%
+\starring{Durga Khote, Shanta Apte, Vasanti, Chandramohan, B Nandrekar, K Narayan Kale, Karuna Devi, Vasant Desai}%
+\singer{Shanta Apte}%
+\music{Master Krishnarao}%
+\lyrics{Pt Narottam Vyas}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 05 feb 2003
+% Credits: Bapu Watwe's booklet 'Prabhat Chitre'.
+% Comments: Geetanjali Series. Prabhat Chitr, Pune.
+% Director - V Shantaram. Story - K Narayan Kale.
+% Amar Jyoti alias Immortal Flame. No Marathi version.
+% naandrekar, k narayan kaaLe.
+%
+\printtitle
+#indian
+%
+ab mai.nne jaanaa hai, haay prem kyaa hai
+
+ham agar jaanate ki ishq dard detaa hai
+to bhalaa kis liye is marz kaa saudaa karate
+
+prem banaa ab dil kii be.Dii, jo zewar maanaa hai
+
+ishq aur dil hilamil ke dostii me.n ek hu_e
+dil se gar ishq nikaale to dil bhii jaataa hai
+%
+#endindian
+\endsong
+%

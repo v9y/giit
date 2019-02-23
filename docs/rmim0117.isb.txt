@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0117; Created on Jan 26, 2004
+%
+% arunabha 9/16/3
+%
+\startsong
+\stitle{kis kisako diipak pyaar kare}%
+\film{Anjali}%
+\year{1957}%
+\starring{Nimmi, Sheela Ramani, Chetan Anand}%
+\singer{Lata, Chorus}%
+\music{Jaidev}%
+\lyrics{Nyaya Sharma}%
+% 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 16 Sep 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kis kisako diipak pyaar kare 
+jab laakh pata.nge jalate ho.n
+kyo.n phuul dhuul me.n mil jaa_e.N 
+jab bha.Nvare aahe.n bharate ho.n
+
+chandaa kaa isame.n doSh hii kyaa
+taare ro_e.N yaa muskaa_e.N
+chaahe os bane unake aa.Nsuu 
+yaa motii banakar jhar jaa_e.N
+kyo.n khile ka.Nval kumhalaa jaa_e.N
+jab marane vaale marate ho.n
+
+jogii tum jog ramaa baiThe
+apane me.n dhyaan lagaa baiThe
+aiso.n se pyaar kii kyaa aashaa
+jo apanaa aap ga.Nvaa baiThe
+phir bhii tum ko hii chaahe.nge
+ham jiite ho.n yaa marate ho.n
+%
+#endindian
+\endsong
+%

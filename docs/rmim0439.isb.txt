@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0439; Created on Jan 26, 2004
+%
+% ganti 8/26/3
+%
+\startsong
+\stitle{ham ne tujh ko pyaar kiyaa hai jitanaa}%
+\film{Dulha Dulhan}%
+\year{1964}%
+\starring{Raj Kapoor, Sadhna}%
+\singer{Mukesh}%
+\music{Kalyanji-Anandji}%
+\lyrics{Indeevar}%
+%
+% Contributor: Srinivas Ganti
+% Credits: V S Rawat
+%
+\printtitle
+#indian
+%
+ham ne tujh ko pyaar kiyaa
+ham ne tujh ko pyaar kiyaa hai jitanaa
+(kaun karegaa itanaa)\-2
+
+roye bhii to dil hii dil me.n, mahafil me.n musakaaye
+tujh se hii ham teraa ye Gam, baraso.n rahe chhupaaye
+(pyaar men tere chhupake chhupake)\-2
+jalate rahe ham jitanaa
+(kaun jalegaa itanaa)\-2
+ham ne tujh ko pyaar kiyaa hai jitanaa
+(kaun karegaa itanaa)\-2
+
+pyaar pe mere naaz tumhe thaa, yaad karo vo nazaaraa
+haath pe apane likh lete the, jab tum naam hamaaraa
+(terii adaa ke bhole pan pe)\-2
+miTate rahe ham jitanaa
+(kaun miTegaa itanaa)\-2
+ham ne tujh ko pyaar kiyaa hai jitanaa,
+(kaun karegaa itanaa)\-2
+%
+#endindian
+\endsong
+%

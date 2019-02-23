@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0190; Created on Jan 26, 2004
+%
+\startsong
+\stitle{is jag se kuchh aas nahii.n}%
+\film{non-Film}%
+\year{1945}%
+\starring{}%
+\singer{Talat}%
+\music{Robin Chaterjee}%
+\lyrics{Suresh Chowdhury}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 feb 2003
+% Credits: Hamraaz and Gurcharan Sandhu.
+% Rakesh Pratap Singh's book on Talat.
+% Comments: Geetanjali Series. HMV documents and HFGK
+% have misattributed the song to the film Rajlaxmi.
+% Hamraaz discovered after hfgk's publication that
+% the song is a non-film one.
+% HMV 78 disc # N-16688.
+%
+\printtitle
+#indian
+%
+is jag se kuchh aas nahii.n
+abhilaaSh nahii.n vishwaas nahii.n
+tuu sun le matawaale o jagawaasii
+
+duniyaa hai maayaa kaa sapanaa
+ko_ii nahii.n hai teraa apanaa
+svaarth kii hai maalaa japanaa
+ban kar ke parawaasii
+
+kyuu.N Thokare.n khaataa qadam qadam par
+qadam qadam par Thokare.n khaataa
+siidhii raah pe phir bhii na aataa
+sukh ke badale dukh hii paataa
+man me.n aatii udaasii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{sajan laagii torii lagan man maa}%
+\film{Baaji (Pakistani-Film)}%
+\year{1963}%
+\starring{}%
+\singer{Noorjehan, Farida Khanum}%
+\music{Salim Iqbal}%
+\lyrics{Amhed Rahi}%
+
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 5 Oct 2004
+% Series: Noor-e-Tarannum
+% Comments: Pakistani film
+% generated using giitaayan
+
+\printtitle
+#indian
+
+sajan laagii torii lagan man maa
+laaj mohe aae
+haay re haae
+lagaaii taine kaisii agan man maa
+sajan laagii \threedots
+
+har aahaT par dhaDake manavaa
+chhanake paayal morii dhanake ka.nganavaa
+tore bin rasiyaa, more manabasiyaa
+pal pal hove chubhan man maa
+sajan laagii \threedots
+
+milane kii rainaa mahake sajariyaa
+mahake sajariyaa raamaa bahake kajariyaa
+sautan dwaare jaiyo naa saa.Nwariyaa
+jal jal jaaye dulhan man maa
+sajan laagii \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,32 @@
+% ITRANS SONG # rmim0184; Created on Jan 26, 2004
+%
+\startsong
+\stitle{badalaa dilawaaegaa yaa rab tuu sitamagaaro.n se}%
+\film{Aalam Aara}%
+\year{1931}%
+\starring{Master Vitthal, Zubeida, Zillu, Susheela, Prithviraj Kapoor, Elizer, Wazir Muhammad Khan}%
+\singer{Zubeida}%
+\music{Ferozeshah Mistri / B Irani}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 02 Feb 2003
+% Credits - Past issues of Listeners' Bulletin.
+% Series: GEETanjali
+% Comments: Imperial Movietone, Mumbai.
+% Director of 'aalam aaraa' - Ardeshir Irani.
+% Alam Ara was the first Hindi talkie.
+% Acc to Kersi Mistri, his father Ferozeshah had
+% composed all 7 songs in the film.
+%
+\printtitle
+#indian
+%
+badalaa dilawaa_egaa yaa rab tuu sitamagaaro.n se
+tuu madadagaar hai to kyaa Kauf jafaakaaro.n se
+kaaTh kii teG jo tuu chaahe to wo kaam kare
+jo ke mumakin hii nahii.n lohe kii talavaaro.n se
+%
+#endindian
+\endsong
+%

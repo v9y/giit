@@ -1,0 +1,46 @@
+% ITRANS SONG #
+%
+% Date: Mon, 1 Mar 2004 10:14:53 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{dillii kii galiyo.n me.n}%
+\film{Doli}%
+\year{1947}%
+\starring{Wasti, Sulochana Chaterjee}%
+\singer{Zohra, Durrani}%
+\music{Ghulam Mohammed}%
+\lyrics{Nazim Panipati}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  01 March 2004
+% Comments : GEETanjali Series
+%
+\printtitle
+#indian
+%
+zoharaa :
+     dillii kii galiyo.n me.n jiyaa naahii laage
+     mai.n to dekhuu.Ngii bamba_ii
+     vaadaa karake biit gaye hai maarch, aprail aur ma_ii
+     mai.n to dekhuu.Ngii bamba_ii \threedots
+
+du : are dillii naa chho.D ye to apanaa hai des
+zo : chale.n ham tum bamba_ii wahaa.N dekhe.nge ##race##
+du : yahaa.N dil ke tamaashe, yahaa.N naino.n ke khel
+     yahaa.N qutub saab kii laaT
+zo : wahaa.N daadar aur parel
+     mil jaae.nge us nagarii me.n tere jaise ka_ii
+     mai.n to dekhuu.Ngii bamba_ii \threedots
+
+du : yahaa.N sakhiyaa.N bhii hai.n, torii mai.nyaa bhii hai
+     yahaa.N torii nanadiyaa kaa bhaiyaa bhii hai
+zo : wahaa.N izzat bhii hai aur rupaiyaa bhii hai
+     wahaa.N saigal bhii hai aur suraiyaa bhii hai
+     kyaa karuu.Ngii dillii me.n mai.n
+                     ya_ii ya_ii ya_ii ya_ii ya_ii
+     mai.n to dekhuu.Ngii bamba_ii \threedots
+%
+#endindian
+\endsong
+%

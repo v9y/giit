@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0476; Created on Jan 26, 2004
+%
+\startsong
+\stitle{gore gore o baa.Nke chhore}%
+\film{Samadhi}%
+\year{1950}%
+\starring{Ashok Kumar, Nalini Jaywant, Kuldeep Kaur}%
+\singer{Lata, Amirbai}%
+\music{C Ramchandra}%
+\lyrics{Rajinder Krishan}%
+%
+% Contributor: U.V. Ravindra
+% Transliterator:  U.V. Ravindra
+% Credits: news:rec.music.indian.misc
+% Comments: GEETanjali series, Dec 01, 2002
+%
+\printtitle
+#indian
+%
+latA: gore gore o baa.Nke chhore kabhii merii galii aayaa karo
+amIr: gorii gorii o baa.Nkii chhorii chaahe roz bulaayaa karo
+
+latA: roz roz mulaaqaat achchhii nahii.n
+       pyaar me.n aisii baat achchhii nahii.n
+       tho.Daa tho.Daa milanaa tho.Dii sii judaaii
+       sadaa chaa.Ndanii raat achchii nahii.n
+amIr: chho.Do chho.Do, jiyaa na to.Do
+       kisii aur ko jalaayaa karo
+
+dono.n:
+       gorii gorii o baa.Nkii chhorii chaahe roz bulaayaa karo
+       gore gore o baa.Nke chhore, kabhii merii galii aayaa karo
+       gorii gorii o baa.Nkii chhorii, chaahe roz bulaayaa karo
+
+latA: chhoTii\-sii baat par ye la.Daaii?
+       pyaar kii duhaaii hai, pyaar kii duhaaii
+       akhiyo.n me.n akhiyaa.N Daal ke to dekho
+       chehare pe Gussaa haay dil me.n safaaii
+amIr: gha.Dii gha.Dii, o ba.Dii ba.Dii,
+       aisii baate.n na banaayaa karo
+dono.n:
+       gorii gorii o baa.Nkii chhorii, chaahe roz bulaayaa karo
+       gore gore o baa.Nke chhore, kabhii merii galii aayaa karo
+       gorii gorii o baa.Nkii chhorii chaahe roz bulaayaa karo
+%
+#endindian
+\endsong
+%

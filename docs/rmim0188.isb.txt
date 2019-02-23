@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0188; Created on Jan 26, 2004
+%
+%
+\startsong
+\stitle{wo muqaddar na rahaa aur wo zamaanaa na rahaa}%
+\film{Sheereen Farhaad}%
+\year{1931}%
+\starring{Master Nissar, Jahanara Kajjan}%
+\singer{Master Nissar}%
+\music{Brujlal Verma}%
+\lyrics{Agha Hashra Kashmiri}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 03 feb 2003
+% Credits: A Listeners' Bulletin issue, dated 1973.
+% Comments: Geetanjali Series. shiirii.n farahaad.
+% Madan Theatres, Kolkata. Dir - J J Maadan.
+% shiiriin farhaad was the second Hindi talkie.
+% It was released on 30 May 1931. The song may be
+% available in Nissar's voice, recorded in the 1970s.
+% Alternate search strings - nisaar brijlal ...
+%
+\printtitle
+#indian
+%
+wo muqaddar na rahaa aur wo zamaanaa na rahaa
+tum jo begaane hu_e, ko_ii yagaanaa na rahaa
+o zamii.n tuu hii lab\-e\-Gaur se itanaa kah de
+aa merii god me.n gar, ko_ii Thikaanaa na rahaa
+
+jisakii ummiid me.n jiite the, Kafaa hai wo bhii
+ai azal! aa ki ko_ii ab to bahaanaa na rahaa
+raham kar, raham kar, ki ye ishq sitam hai mujh par
+tiir phir kis pai chale.nge jo nishaanaa na rahaa
+%
+#endindian
+\endsong
+%

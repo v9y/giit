@@ -1,0 +1,33 @@
+% ITRANS SONG #
+% 
+\startsong
+\stitle{sulag uThii dil kii lagii}%
+\film{Kinare Kinare}%
+\year{1963}%
+\starring{Meena Kumari, Dev Anand, Chetan Anand}%
+\singer{Lata Mangeshkar}%
+\music{Jaidev}%
+\lyrics{Nyaya Sharma}%
+% 
+% Audio On: 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S. Roy
+% Date: 4 Feb 2004
+% Series: GEETanjali
+% Comments: 
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+sulag uThii dil kii lagii jalate hai.n paravaane
+roti hai.n taqadiire.n ha.Nsate hai.n afasaane
+
+ik aa.Ndhii aisii bhii is dil par chhaa_ii hai \-2
+apano.n kaa zikr hii kyaa jarache hai.n begaane
+
+shaam bhii hai jazbe.n bhii dil bhii hai mastii bhii \-2
+aa bhii jaa terii raah takate hai.n viiraane
+
+#endindian
+\endsong

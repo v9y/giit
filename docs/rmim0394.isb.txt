@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0394; Created on Jan 26, 2004
+%
+\startsong
+\stitle{saajan aanaa naav puraanaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{}%
+% 
+% Contributor: Satish Sekar <satishsekar@hotmail.com>
+% Transliterator: Satish Sekar
+% Date: 14 Feb 2003
+% Series: GEETanjali
+% Comments: One of Talat's early songs
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+saajana aanaa  saajana aanaa
+naava puraanaa
+saajana aanaa
+man giit prem ke gaaye re
+un giito.n ko tum gaanaa
+saajana aanaa
+
+naino.n me aansuu rehate hai.n
+aur ro ro kar ye kehate hai.n
+saawan ke mahiine aaye re
+tum hamako na tarasaanaa
+saajana aanaa
+
+baat baat par jii bhar aaye hai
+saawan ki rumjhum na bhaaye hai
+mohe pal bhar chain na aaye re
+tum sukha varshaa barsaanaa
+saajana aanaa
+%
+#endindian
+\endsong
+%

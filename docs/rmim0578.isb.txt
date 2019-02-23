@@ -1,0 +1,35 @@
+% ITRANS SONG #
+%
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{saavan aaye yaa naa aaye piyaa ghar aaye saavan hai}%
+\film{Saadhana}%
+\year{1939}%
+\starring{Shobhana Samarth, Bibbo, Prem Adeeb, Harish, Kanhaiyalal}%
+\singer{Harish}%
+\music{Anupam Ghatak}%
+\lyrics{Kanhaiyalal Chaturvedi}%
+%
+% Contributor : dhananjay naniwadekar
+% Date : 30 Jan 2004
+% Comments : Geetanjali Series
+% saadhanaa, sadhna, saagar / Sagar Movietone
+% harish hariish hareesh
+%
+\printtitle
+#indian
+%
+saavan aaye yaa naa aaye
+piyaa ghar aaye saavan hai
+priitam pyaarii jab mil jaaye
+tabhii basant suhaavan hai
+
+puShp lataae.N bhii tab jhuule.n
+jal kii tara.nge.n bhii tab khele.n
+sajanii jab saajan sa.ng jhuule
+wahii samay manabhaavan hai
+%
+#endindian
+\endsong
+%

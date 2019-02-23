@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0447; Created on Jan 26, 2004
+%
+% surajit bose 1/6/4
+% 
+\startsong
+\stitle{ek se ba.Dhakar ek}%
+\film{Ek Se Badhkar Ek}%
+\year{1976}%
+\starring{Ashok Kumar, Raj Kumar, Sharmila Tagore, Navin Nischal, Helen}%
+\singer{Runa Laila}%
+\music{Kalyanji Anandji}%
+\lyrics{Verma Malik}%
+% 
+% Contributor: Surajit A. Bose
+% Transliterator: Surajit A. Bose
+% Date: 6 Jan 2004
+% First song of Runa Laila
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+laa laa laa \threedots
+ek se ba.Dhakar ek, mai.n laa_ii huu.N tohafe anek
+zulfo.n kii shaam laa_ii
+ho, dil tere naam laa_ii
+zulfo.n kii shaam laa_ii, dil tere naam laa_ii
+mazaa aaegaa mulaaqaat kaa
+e, kyaa ##program## hai aaj raat kaa?
+ek se ba.Dhakar ek \threedots
+
+ek muhabbat duujii jawaanii tiijaa bahataa paanii
+rokane se nahii.n rukate tiino, sun le dilabar jaanii
+vaqt hai soch le, jaan le, dekh le
+mazaa aaegaa mulaaqaat kaa
+e, kyaa ##program## hai aaj raat kaa?
+ek se ba.Dhakar ek \threedots
+
+mai.n huu.N sholaa, mai.n huu.N shabanam, mai.n huu.N mast bahaar
+chun le jo bhii marzii terii, mere ra.ng hazaar
+maan le baat ko, thaam le haath ko
+mazaa aaegaa mulaaqaat kaa
+e, kyaa ##program## hai aaj raat kaa?
+ek se ba.Dhakar ek \threedots
+%
+#endindian
+\endsong
+%

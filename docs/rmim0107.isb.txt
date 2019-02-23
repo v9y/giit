@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0107; Created on Jan 26, 2004
+%
+% arunabha 6/6/3
+%
+\startsong
+\stitle{tum duur jaa_oge kaise daaman bachaa_oge kaise}%
+\film{Gustakhi Maaf/ Kshama Yaachana}%
+\year{1969}%
+\starring{Sanjeev Kumar, Tanuja}%
+\singer{Asha}%
+\music{Sapan Jagmohan}%
+\lyrics{Naqsh Lyallpuri}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 6 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(tum duur jaa_oge kaise, daaman bachaa_oge kaise
+hame.n tum bhulaa na sakoge ) \-2
+tum duur jaa_oge kaise \threedots
+
+jitanaa bhulaa_oge tum utanaa hii yaad aa_e.Nge
+nii.nde.n churaa le.nge ham, Kvaabo.n me.n ghul jaa_e.Nge
+Kvaabo.n me.n ghul jaa_e.Nge, ta.Dape.nge ta.Dapaa_e.Nge
+tum duur jaa_oge kaise \threedots
+
+dil kii lagii banake ham dil me.n sulag jaa_e.Nge
+palako.n me.n aakar kabhii ashko.n me.n laharaa_e.Nge
+ashko.n me.n laharaa_e.Nge, daaman me.n kho jaa_e.Nge
+tum duur jaa_oge kaise \threedots
+%
+#endindian
+\endsong
+%

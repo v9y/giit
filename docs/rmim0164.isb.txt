@@ -1,0 +1,46 @@
+% ITRANS SONG # rmim0164; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-05 12:32:46 PST
+%
+\startsong
+\stitle{madhur suro.n me.n gaa_e chaa.Ndanii}%
+\film{Maa Baap}%
+\year{1944}%
+\starring{Veena, Nazir, Yakub, Rajkumari Shukla, Amirbai Karnataki, Dixit, Majid}%
+\singer{Rajkumari, Alla Rakha}%
+\music{Alla Rakha}%
+\lyrics{Rupbaani}%
+%
+% Contributor: dhananjay naniwadekar
+% Date:  05 jan 2003
+% Comments: Geetanjali Series; film - 'maa baap'.
+%     Alla Rakha, tabla player, singer, music director
+%     started using the name A R Qureshi a bit later
+%     in his career in Hindi films.
+%
+\printtitle
+#indian
+%
+raajakumaarii:
+madhur suro.n me.n gaa_e chaa.Ndanii
+chaa.Nd so jaa, chaa.Nd so jaa
+
+aa.Nkho.n me.n hai nii.nd kii mastii
+aao basaave Kvaab kii bastii
+sej bichhaa duu.N mai.n taaro.n kii
+chaa.Nd so jaa \threedots
+
+allaa rakhaa:
+raat kii devii jaag rahii.n hai
+nii.nd to ham se bhaag rahii.n hai
+tum so_o, mai.n gaa_uu.N raaginii
+chaa.Nd so jaa \threedots
+
+dono.n:
+madhur suro.n me.n gaa_e chaa.Ndanii
+chaa.Nd so jaa, chaa.Nd so jaa
+%
+#endindian
+\endsong
+%

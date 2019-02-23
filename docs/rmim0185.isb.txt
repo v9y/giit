@@ -1,0 +1,36 @@
+% ITRANS SONG # rmim0185; Created on Jan 26, 2004
+%
+\startsong
+\stitle{de de Kudaa ke naam pe pyaare}%
+\film{Aalam Aara}%
+\year{1931}%
+\starring{Master Vitthal, Zubeida, Zillu, Susheela, Prithviraj Kapoor, Elizer, Wazir Muhammad Khan}%
+\singer{Wazir Muhammad Khan}%
+\music{Ferozeshah Mistri / B Irani}%
+\lyrics{}%
+%
+% Audio On: Lost in a fire
+% Contributor: dhananjay naniwadekar
+% Date: 02 Feb 2003
+% Series: GEETanjali
+% Comments: The first ever Hindi film-song.
+% Director of 'aalam aaraa' - Ardeshir Irani.
+% Imperial Movietone, Mumbai.
+% Acc to Kersi Mistri, his father Ferozeshah had
+% composed all 7 songs in the film.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+% there are only 4 lines in the song
+%
+de de Kudaa ke naam pe pyaare
+taakat ho gar dene kii
+kuchh chaahe agar to maa.Ng le mujhase
+himmat ho gar lene kii
+%
+#endindian
+\endsong
+%

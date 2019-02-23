@@ -1,0 +1,40 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 9/30/2004 2:49:26 PM.
+
+\startsong
+\stitle{jaane kaahe jiyaa moraa Dole re}%
+\film{Godaan}%
+\year{1963}%
+\starring{Rajkumar, Kamini Kaushal, Mehmood}%
+\singer{Lata, Chorus}%
+\music{Ravi Shankar}%
+\lyrics{Anjaan}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 30 Sep 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+jaane kaahe jiyaa moraa Dole re \-2
+ko_ii kaliyo.n kaa ghuu.NghaT khole
+mere sapano.n kii duniyaa Dole
+Dole re, jaane kaahe jiyaa moraa \threedots
+
+(hawaa dhaanii chunariyaa u.Daa_e
+moraa cha.nchal jiyaa laharaa_e ) \-2
+puravaiyaa bahe haule\-haule
+Daalii\-Daalii pe bela phuule
+phuule re, jaane kaahe jiyaa moraa \threedots
+
+(phuul chun\-chun ye kis par cha.Dhaa_uu.N sakhii
+man ma.ndir me.n kis ko biThaa_uu.N sakhii ) \-2
+aa jaa piyaa moraa Dole jiyaa \-2 
+Dole re, jaane kaahe jiyaa moraa \threedots
+
+#endindian
+\endsong

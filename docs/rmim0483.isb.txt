@@ -1,0 +1,56 @@
+% ITRANS SONG # rmim0483; Created on Jan 26, 2004
+%
+%        Date:               Tue, 22 Apr 2003 07:58:14 -0700
+%        From:              UVR <uvr@usa.net>
+\startsong
+\stitle{ra.ng\-ra.ng mere ra.ng\-ra.ng me.n ra.ng jaayegii tuu ra.ng}%
+\film{Bollywood Hollywood}%
+\year{2003}%
+\starring{}%
+\singer{Sonu Nigam, Alisha Chinoy}%
+\music{Sandeep Chowta}%
+\lyrics{Subhu}%
+%
+% Contributor: U.V. Ravindra
+% Transliterator: V S Rawat, 27/01/2004
+%
+\printtitle
+#indian
+%
+% (sonu sings first, then alisha repeats)
+ra.ng\-ra.ng mere ra.ng\-ra.ng me.n ra.ng jaayegii tuu ra.ng
+sa.ng\-sang mere sa.ng\-sa.ng me.n sa.ng aayegii sa.ng
+
+%(... likewise ...)
+ra.ng sa.ng meraa mil jaayegaa, a.ng\-ang teraa khil jaayegaa
+ra.ng sa.ng meraa mil jaayegaa, a.ng\-a.ng teraa khil jaayegaa
+
+alisha: ra.ngo.n me.n hai
+	ishq\-pyaar
+sonu:   aa.Nkho.n me.n hai
+	mast bahaar
+alisha: baa.Nho.n me.n hai
+	pahalaa yaar
+sonu:   lamho.n me.n hai
+	intazaar
+alisha: ( ho.NTho.n pe hai ik pukaar
+	dil me.n hai dard\-e\-izahaar ) \- 2
+sonu:   ra.ng\-ra.ng mere ra.ng\-ra.ng me.n \threedots
+
+sonu:   goraa saa badan sharmaaye
+alisha: goraa saa ye a.ng khil jaaye
+sonu:   mastii bharaa man muskaaye
+alisha: ha.Nsate\-ha.Nsate ham kho jaaye.n
+sonu:   ( yaado.n ko ham samhaale.n,
+	vaado.n ko ham na bhoole.n ) \- 2
+alisha:   ra.ng\-ra.ng mere ra.ng\-ra.ng me.n \threedots
+
+sonu:   ra.ng\-ra.ng mere ra.ng\-ra.ng me.n \threedots
+         sa.ng\-sa.ng mere \threedots
+alisha: ra.ng sa.ng meraa mil jaayegaa \threedots
+sonu:   ra.ng sa.ng meraa mil jaayegaa
+both:      ra.ng\-ra.ng mere ra.ng\-ra.ng me.n
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0556; Created on Jan 26, 2004
+%
+% vinay 6/11/3
+% 
+\startsong
+\stitle{champa_ii dhuup ke saaye baaho.n me.n simaT aaye hai.n}%
+\film{Leela}%
+\year{2002}%
+\starring{Vinod Khanna, Dimple Kapadia}%
+\singer{Shubha Mudgal}%
+\music{Jagjit Singh}%
+\lyrics{Gulzar}%
+% 
+% Audio on: Saregama
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 11 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+champa_ii dhuup ke saaye
+
+(##harmony##)
+
+champa_ii dhuup ke saaye
+baaho.n me.n simaT aaye hai.n
+bahane lage hai.n shirayaano.n me.n
+ba.Daa ra.ngii.n lagataa hai
+phir bhii Gamagii.n lagataa hai
+
+% shirayaano.n me.n - in the arteries
+(##harmony##)
+
+chhaa.Nv chho.D ke dhuup me.n chalanaa
+chhaa.Nv chho.D ke dhuup me.n chalanaa
+dhuup sadaa rahatii bhii nahii.n
+yuu.N bhii kabhii to hotaa hogaa
+gunaah hasii.n lagataa hai
+phir bhii, Gamagii.n lagataa hai
+
+(##harmony##)
+%
+#endindian
+\endsong
+%

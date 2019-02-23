@@ -1,0 +1,42 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 10/4/2004 10:47:04 AM.
+
+\startsong
+\stitle{baawaraa kanhaiyaa dekho mujhako pukaare aake dvaare}%
+\film{Mahaanandaa}%
+\year{1984}%
+\starring{Moushumi Chatterjii, Farooque Sheikh}%
+\singer{Lata}%
+\music{Manas Mukherjee}%
+\lyrics{}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 4 Oct 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+baawaraa kanhaiyaa dekho 
+mujhako pukaare aake dvaare
+kaho ko_ii jaake sakhii 
+puuraa nahii.n hu_aa ab meraa si.ngaar
+sakhii, meraa si.ngaar
+
+aa_e re, baa.Ndhii nahii.n kesh abhii
+bikharaa hai bheSh abhii
+bi.ndiyaa sajaa_ii nahii.n
+maa.Ng nahii.n bharii
+kaho ko_ii jaake sakhii \threedots
+
+aa_e re bin kajaraa ke mere 
+phiike hai.n nain abhii
+ka.Nganaa pahane kahaa.N
+paayal nahii.n baa.Ndhii
+kaho ko_ii jaake sakhii \threedots
+
+#endindian
+\endsong

@@ -1,0 +1,35 @@
+% ITRANS SONG # rmim0120; Created on Jan 26, 2004
+%
+% arunabha 9/22/3
+% 
+\startsong
+\stitle{dil ne ta.Dap ta.Dap ke ta.Dapanaa sikhaa diyaa}%
+\film{Faaslaa/ The Distance}%
+\year{1974}%
+\starring{Shabana Azmi, Raman Khanna, Diensh Thakur}%
+\singer{Bhupinder}%
+\music{Jaidev}%
+\lyrics{Kaifi Azmi}%
+% 
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 14 Sep 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+dil ne ta.Dap ta.Dap ke ta.Dapanaa sikhaa diyaa
+iinaam ab mile ki sazaa sar jhukaa diyaa
+
+diivaanaa karake chho.D de jo ik zamaane ko
+mujh ko usii nigaah ne insaa.N banaa diyaa
+
+bas itanaa jaanataa huu.N mujhe tumase pyaar hai
+aur pyaar me.n na jiit kisii kii na haar hai
+isake sivaa jo yaad thaa sab kuchh bhulaa diyaa
+%
+#endindian
+\endsong
+%

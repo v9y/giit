@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0205; Created on Jan 26, 2004
+%
+% nani 7/25/3
+%
+\startsong
+\stitle{terii in aa.Nkho.n ne kiyaa biimaar haay}%
+\film{Alibaaba}%
+\year{1940}%
+\starring{Surendra, Sardar Akhtar, Ghulam Mohammed, Wahidan}%
+\singer{Surendra, Wahidan}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 25 July 2003
+% Comments: Anilda Series
+% The film 'aliibaabaa' was made in Punjabi as well.
+% This song's Punjabi counterpart, sung by the same
+% two singers, is 'chubh gae kaleje viich nainaa.n de
+% tiir haae'. Anil Biswas has used the same tune with
+% very minor changes for the Punjabi version.
+%
+% Alibaba - Sagar Film Co. - Mehboob
+%
+\printtitle
+#indian
+%
+wa: terii in aa.Nkho.n ne kiyaa biimaar haay
+su: tere in jalawo.n ne diyaa aazaar haay
+
+wa: mai.n huu.N aur raah terii dil me.n ho chaah terii
+yuu.N hii madahosh rahuu.N yuu.N hii sarashaar haay
+
+su: teraa diiwaanaa rahuu.N sab se begaanaa rahuu.N
+ho terii chaahat me.n lab pe har baar haay
+%
+#endindian
+\endsong
+%

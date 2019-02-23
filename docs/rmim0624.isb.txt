@@ -1,0 +1,42 @@
+% ITRANS SONG #
+%
+% From: Vinay (v9y@hotmail.com)
+% Date: 2001-06-17 08:51:47 PST
+%
+\startsong
+\stitle{ham bhuul gaye hai.n rakh ke kahii.n}%
+\film{Aks}%
+\year{2001}%
+\starring{Amitabh, Raveena Tondon, Nandita Das}%
+\singer{Chitra/ Hariharan}%
+\music{Anu Malik}%
+\lyrics{Gulzar}%
+%
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 2001-06-17
+%
+\printtitle
+#indian
+%
+ham bhuul gaye hai.n rakh ke kahii.n
+wo cheej jise dil kahte the
+wo cheej jise dil kahte hai.n ||sthaayee||
+
+ummeed bhee ajnabee lagatii hai
+aur dard paraayaa lagataa hai
+aaiine me.n jisako dekhaa thaa
+bichha.Daa huaa saayaa lagataa hai ||1||
+
+ham bhuul gaye hai.n rakh ke kahii.n ....
+
+naa jaane kahaa.N chho.D aaye hai.n
+wo shaKs jise ham jaanate the
+aahaT bhii sunaaii detii nahii.n
+parachhaaii.n se ham pahachaanate the ||2||
+
+ham bhuul gaye hai.n rakh ke kahii.n ....
+%
+#endindian
+\endsong
+%

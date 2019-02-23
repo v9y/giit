@@ -1,0 +1,48 @@
+% ITRANS SONG #
+%
+% Date: Fri, 13 Feb 2004 09:03:47 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{more man kii nagariyaa basaaii re}%
+\film{Kanchan}%
+\year{1941}%
+\starring{Leeta Chitnis, Arun, Pramila}%
+\singer{Leela Chitnis, Muzumdar}%
+\music{Gyan Dutt}%
+\lyrics{c}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  13 February 2004
+% Credits  : Har Mandir Singh 'Hamraaz'
+%            Kamalakar Pasupuleti
+% Comments : Geetanjali Series.
+%    Film - ka.nchan / kanchan. Chitra Productions.
+%
+%    The song is wrongly attributed to Parul Ghosh and
+%    Leela Chitnis in HFGK. There is only one female
+%    voice in it. The male voice is Muzumdar's.
+%
+%    The film Kanchan also features the first ever
+%    film-song composed by Naushad : 'bata do sakhi kaun
+%    gali gaye shyam'; but it was released an year after
+%    Prem Nagar (1940), Naushad's first film as sole MD.
+%    Naushad's song is quite pedestrian.
+%
+\printtitle
+#indian
+%
+more man kii nagariyaa basaaii re, maadho jii
+
+jhole khaatii thii jiivan kii naiyaa
+bane man ke basaiyaa khivaiyaa
+Dagamagaatii kinaare lagaaii re
+
+maadho, maadho, jagat pukaare
+mai.n kahuu.N re meraa kaalaa
+jab jab pii.D bane bhagato.n pe
+pahuu.Nche baa.Nsariiwaalaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,48 @@
+% ITRANS SONG #
+
+% Date: 9 Jul 2004 15:51:28 -0700
+% From: nanhafarishta@yahoo.co.in (Surma Bhopali)
+
+\startsong
+\stitle{yaado.n kii baaraat nikalii hai}%
+\film{Yaadon Ki Baaraat}%
+\year{1973}%
+\starring{Dharmendra, Vijay Arora, Zeenat Aman}%
+\singer{Kishore, Rafi/ Lata, Padmini, Shivangi, Chorus}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+
+% Audio on: HMV
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 9 Jul 2004
+% Series: GEETanjali, THGHT
+% Comments: Lata version has same lyrics
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ki: ( yaado.n kii baaraat nikalii hai aa dil ke dwaare
+ dil ke dwaare ) 2
+ sapano.n kii shahanaa_ii biite dino.n ko pukaare
+ dil ke dwaare
+ ho o chhe.Do taraane milan ke pyaare pyaare
+ sa.ng hamaare
+
+ki: badale naa apanaa ye aalam kabhii
+ jiivan me.n bichha.De.nge naa ham kabhii
+ra: badale naa apanaa ye aalam kabhii
+ jiivan me.n bichha.De.nge naa ham kabhii
+ yuu.n bhii jaaoge aaKir kahaa.N hoke hamaare
+
+do: yaado.n kii baaraat \.\.\.
+
+ra: aage bhii hogaa jo usakaa karam
+ki: ye din to manaaye.nge har saal ham
+ra: apane aa.ngan naache gaaye.nge chandaa sitaare
+
+do: yaado.n kii baaraat \.\.\.
+
+#endindian
+\endsong

@@ -1,0 +1,43 @@
+% ITRANS SONG #
+
+% Date: 12 Jul 2004 20:25:45 -0700
+% From: prithvi_dg@yahoo.com (Prithviraj Dasgupta)
+
+\startsong
+\stitle{raam naam ghanashyaam}%
+\film{Yaatrik}%
+\year{1952}%
+\starring{Basanta Chowdhury, Arundhati Mukherjee, Abhi Bhattacharya}%
+\singer{Biren Bal}%
+\music{Pankaj Mullick}%
+\lyrics{B N Sharma}%
+
+% Audio on: HMV sdtrk of 'Mahaprasthaner Pathe'(Bengali version of 'Yatrik')
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: July 12, 2004
+% Series: GEETanjali
+% Comments: Biren Bal was assistant MD to Pankaj Mullick
+% in some of the latter's MD-ed movies.
+
+\printtitle
+#indian
+
+raam naam ghanashyaam shiv naam
+hari naam simar din raat
+(janam saphal tuu kar le apanaa) \-2
+maan le merii baat
+hari naam simar din raat \threedots
+
+pa.nch\-paaNDavo.n ne jis path pe
+kiyaa mahaaprasthaan
+us path pe chale.n jo bhii praaNii
+us kaa ho kalyaaN
+bhuul jaa tuu jag kii sab baate.n
+bhuul naa par ye baat
+hari naam simar raam naam simar
+shiv naam simar din raat
+hari naam simar din raat
+
+#endindian
+\endsong

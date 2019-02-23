@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0362; Created on Jan 26, 2004
+%
+% From: Prithviraj Dasgupta (prithvi_dg@yahoo.com)        
+% Date: 2002-05-02 23:10:39 PST                        
+%
+\startsong
+\stitle{ye mast nazar shoK adaa kis ke liye hai}%
+\film{Bandi}%
+\year{1957}%
+\starring{Ashok Kumar, Bina Rai, Kishore Kumar, Anup Kumar}%
+\singer{Hemant, Geeta}%
+\music{Hemant}%
+\lyrics{Prem Dhawan}%
+%
+% Contirbutor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: April 12, 2002
+% Availability: HMV CD Magic Moments Hemant Kumar
+%
+\printtitle
+#indian
+%
+he: ye mast nazar shoK adaa kis ke liye hai
+gii: tum hii kaho
+he: na na tum hii kaho
+gii: aramaan bharaa dil ye teraa kis ke liye hai
+he: tum hi kaho
+gii: ##mm hmmm## tum hi kaho
+
+he: ye nain chale kis ke liye tiir chhupaake
+gii: jo le gaya naino.n se merii nii.nd churaa ke
+he: ye husn kii ra.ngiin balaa kis ke liye hai
+gii: tum hii kaho
+he: na na tum hii kaho \threedots
+
+gii: phirate ho piichhe piichhe kyo.n
+ham jaa_e.N jidhar se
+he: puuchho na hame.n puuchh lo apanii hii nazar se
+gii: har roz ye bahaanaa nayaa kis ke liye hai
+he: tum hi kaho
+gii: ##mm hmmm## tum hi kaho \threedots
+
+gii: kyuu.N ham se baar baar na Takaraar chaahiye
+he: jiine ke liye kuchh to chhe.D chha.D chaahiye
+gii: Takaraar me ye pyaar chhupaa kis ke liye hai
+he: tum hi kaho
+gii: ##mm hmmm## tum hi kaho \threedots
+%
+#endindian
+\endsong
+%

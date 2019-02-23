@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0211; Created on Jan 26, 2004
+%
+% nani 8/4/3
+%
+\startsong
+\stitle{prem kii naiyaa ko milaa hai prem nadii kaa kinaaraa}%
+\film{Meghdoot}%
+\year{1945}%
+\starring{Leela Desai, Shahu Modak, Kusum Deshpande, Wasti}%
+\singer{Jagmohan, Kalyani Das}%
+\music{Kamal Dasgupta}%
+\lyrics{Faiyaz Hashmi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 Aug 2003
+% Comments: Geetanjali Series
+%
+\printtitle
+#indian
+%
+do: prem kii naiyaa ko milaa hai
+prem nadii kaa kinaaraa
+
+ja: miiThe raag pavan hai gaatii
+ka: gaalo.n kaa hai taar bajaatii
+do: ham dono.n ko lekar naache????
+ja: naache jiivan jamunaa\-dhaaraa
+ka: jiivan jamunaa\-dhaaraa
+
+ja: rahe.n tumhaare nain rasiile
+nain milaa ke amR^it pii le
+ka: aaj kii R^itu hai ba.Dii suhaanii
+saath me.n priitam pyaaraa
+
+ja: aa.Ndhii se bhii bujhe nahii.n
+sachchii priit kii baatii
+ka: mil jaate hai.n aake
+ek din bichha.De saathii
+do: prem milan kii jiit huii hai
+birahaa kaa dukh haaraa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0503; Created on Jan 26, 2004
+%
+% From: Urzung Khan (urzung@hotmail.com)
+% Date: 2003-01-11 18:03:23 PST
+%
+\startsong
+\stitle{duur papiihaa bolaa raat aadhii rah ga_ii}%
+\film{Gajre}%
+\year{1948}%
+\starring{Suraiya, Motilal, Geeta Nizami}%
+\singer{Suraiya}%
+\music{Anil Biswas}%
+\lyrics{G S Nepali}%
+%
+% Contributor: <Urzung Khan>, 2003-01-11
+%
+\printtitle
+#indian
+%
+duur papiihaa bolaa raat aadhii rah ga_ii
+merii tumhaarii mulaaqaat baaqii rah ga_ii
+duur papiihaa bolaa \threedots
+
+meraa dil hai udaas jiyaa ma.nd\-ma.nd hai
+baadalo.n ke ghere me.n chaa.Nd nazar\-band hai
+baadal aae par barasaat baaqii rah ga_ii
+merii tumhaarii mulaaqaat baaqii rah ga_ii
+duur papiihaa bolaa \threedots
+
+aa.Nkh michaulii khelii, jhulaa jhuum ke jhuule
+ban me.n chamelii phuulii ham bahaar me.n bhuule
+par denii thii jo sauGaat baaqii rah ga_ii
+merii tumhaarii mulaaqaat baaqii rah ga_ii
+duur papiihaa bolaa \threedots
+%
+#endindian
+\endsong
+%

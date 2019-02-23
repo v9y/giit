@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0155; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani345@hotmail.com)                 
+% Date: 2002-07-26 09:53:26 PST                        
+%
+\startsong
+\stitle{jhilamil taare kare.n ishaare}%
+\film{Maashooqaa}%
+\year{1953}%
+\starring{Suraiya, Mukesh, Kuldeep Kaur, Agha, Durga Khote}%
+\singer{Mukesh, Suraiyya}%
+\music{Roshan}%
+\lyrics{Shailendra}%
+%
+% Contributor: Dhananjay Naniwadekar (nani345@hotmail.com)
+% Transliterator: Dhananjay Naniwadekar
+% Date: 26 July 2002
+%
+\printtitle
+#indian
+%
+mukesh:
+    jhilamil taare kare.n ishaare so jaa
+    so jaa, so jaa raajadulaare
+    ban alabelii naar navelii ni.ndiyaa.N
+    ni.ndiyaa.N aa_ii nai.nn dwaare
+
+suraiyaa:
+    (matalab kii a.ndhii ye duniyaa) \- 2
+    (kaise hame.n pahachaane) \- 2
+    dil ke TukaDe mere dil ke,
+    (dard ko tuu hii jaane) \- 2
+    sab ko_ii soye par ham roye.n
+    jaage.n jaage.n jaage.n Gam ke maare
+
+    (su.ndar sapane dekh magar
+    tuu moh na kar sapano.n se) \- 2
+    roz badalatii hai ye duniyaa
+    (aas na kar apano.n se) \- 2
+
+mukesh:
+    dhuup\-chhaa.Nv kaa khel ye duniyaa
+    (sukh\-dukh aash\-niraashaa) \- 2
+    (tere a.ngan ek chaa.Nd ek taaraa) \- 2
+    (a.nkhiyan chamake aashaa) \- 2
+    Dhal jaayegii raat a.ndherii
+    ho.nge, ho.nge sone ke din saare
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,53 @@
+% ITRANS SONG # rmim0136; Created on Jan 26, 2004
+%
+% arunabha 10/24/3
+%
+\startsong
+\stitle{aavaaz dii hai aaj ik nazar ne yaa hai ye dil ko gumaa.N}%
+\film{Aitbaar}%
+\year{1985}%
+\starring{Raj Babbar, Dimple Kapadia, Suresh Oberoi, Danny}%
+\singer{Asha, Bhupinder}%
+\music{Bappi Lahiri}%
+\lyrics{Hasan Kamaal, Faruq Kaisar}%
+%
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 24 Oct 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+bhu:
+aavaaz dii hai aaj ik nazar ne yaa hai ye dil ko gumaa.N
+doharaa rahii hai.n jaise fazaaye.n bhuulii hu_ii daastaa.N
+
+aa:
+lauT aa_ii hai.n phir ruuThii bahaare.n kitanaa hasii.n hai jahaa.N
+duniyaa se kah do na hamako pukaare ham kho ga_e hai.n yahaa.N
+
+bhu:
+(jiivan me.n kitanii Kaamoshiyaa.N thii.n chhaa_ii hu_ii thii udaasii
+sunake kisii ke qadamo.n kii aahaT halachal hu_ii hai zaraa sii) \-2
+saagar me.n jaise lahare.n uThii hai.n TuuTii hai.n Kaamoshiyaa.N
+
+aa: duniyaa se kah do \threedots
+
+aa:
+(tuufaa.N me.n kho_ii kashtii ko aaKir mil hii gayaa phir kinaaraa
+ham chho.D aa_e Kaabo.n kii duniyaa dil ne tere jab pukaaraa) \-2
+kab se kha.Dii thii baahe.n pasaare is dil kii tanhaa_iyaa.N
+duniyaa se kah do \threedots
+
+bhu:
+(ab yaad aayaa kitanaa adhuuraa ab tak thaa dil kaa fasaanaa
+aa:
+yuu.N paas aake dil me.n samaake daaman na hamase chhu.Daanaa) \-2
+jin raasto.n par tere qadam ho.n ai dil hai.n merii vahaa.N
+duniyaa se kah do \threedots
+%
+#endindian
+\endsong
+%

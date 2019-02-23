@@ -1,0 +1,36 @@
+% ITRANS SONG # rmim0213; Created on Jan 26, 2004
+%
+% nani 8/6/3
+%
+\startsong
+\stitle{o harajaaii baalam birahan ke ghar aajaa}%
+\film{Kahan Gaye}%
+\year{1946}%
+\starring{Chaand Burq, Begum Parveen}%
+\singer{Zeenat Begum}%
+\music{Lachchhiram}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 06 Aug 2003
+% Comments: Geetanjali Series
+%
+\printtitle
+#indian
+%
+o harajaaii baalam, birahan ke ghar aajaa
+biit chalii barasaat re, o harajaaii baalamaa
+tujh biin hai morii suunii sejariyaa
+kaise kaTegii morii raat re, o harajaaii baalamaa
+
+jab se tum ne sudh bisaraaii re
+detii phiruu.N mai.n raam duhaaii re
+koii naa sune morii baat re, o harajaaii baalamaa
+
+suukhii aTariyaa pe jiyaa ghabaraae
+jiyaa ghabaraae moraa, chain na paae
+man kii baazii hai maat re, o harajaaii baalamaa
+%
+#endindian
+\endsong
+%

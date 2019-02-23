@@ -1,0 +1,36 @@
+% ITRANS SONG #
+
+% Arunabha S. Roy on 3/16/2004 4:13:17 PM.
+
+\startsong
+\stitle{aisaa ho to kaisaa hogaa}%
+\film{Ratnadeep}%
+\year{1979}%
+\starring{Hema Malini, Girish Karnad}%
+\singer{Asha}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+
+% Contributor: Arunabha S. Roy
+% Date: 16 Mar 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+aisaa ho to kaisaa hogaa
+aap ho paas to din Dhale
+paas ho aap to din chale
+
+(kisii din aisaa bhii to ho
+raat kii subah hii na ho ) \-2
+raat ke baad bhii raat ho, aap ho
+aap ho paas to din Dhale
+
+(kisii din ho.nTho.n se kaho
+phuulo.n se jo kahaa tumane ) \-2
+aaj to phuulo.n kii raat ho, aap ho
+aap ho paas to din Dhale
+
+#endindian
+\endsong

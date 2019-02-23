@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0225; Created on Jan 26, 2004
+%
+% nani 11/18/3
+%
+\startsong
+\stitle{man se chi.ntaa kii ghaTaa duur ho jaa}%
+\film{Kaise Kahoon}%
+\year{1945}%
+\starring{Ragini, Jagirdar, Akhtar, Najam}%
+\singer{Zeenat Begum, Others}%
+\music{Pt Amarnath}%
+\lyrics{Moti}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 17 nov 2003
+% Credits: U V Ravindra
+% Comments: Geetanjali Series - kaise kahuu.N
+% Pancholi Art Pictures, Lahore. Dir - Moti B Gidwani
+%
+\printtitle
+#indian
+%
+man se chi.ntaa kii ghaTaa duur ho jaa
+
+a.ng a.ng me.n uma.ng naach uThii
+man me.n koii tara.ng jaag uThii
+aa.Nkho.n me.n sundar sa.nsaar basaa
+man se chintaa kii ghaTaa \threedots
+
+aashaa kii kyaarii me.n phuul khile
+do komal praaNo.n ke taar mile
+Daalii pe do komal paat hile
+jiivan me.n nayaa nayaa pyaar ha.Nsaa
+man se chintaa kii ghaTaa \threedots
+
+duur desh se aaii.n kaalii ghaTaae.N
+barase.n, ek nayaa giit sunaaye
+dukh ke hai saagar me.n sukh kaa sa.nsaar chhupaa
+%
+#endindian
+\endsong
+%

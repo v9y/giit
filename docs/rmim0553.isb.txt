@@ -1,0 +1,34 @@
+% ITRANS SONG # rmim0553; Created on Jan 26, 2004
+%
+% vinay 6/1/3
+% 
+\startsong
+\stitle{ye faasale ... hazaar baar ruke ham hazaar baar chale}%
+\film{Mammo}%
+\year{1994}%
+\starring{Amit Falke, Farida Jalal, Surekha Sikri}%
+\singer{Jagjit Singh}%
+\music{Vanraj Bhatia}%
+\lyrics{Gulzar}%
+% 
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 1 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ye faasale terii galiyo.n ke hamase tay na hue
+hazaar baar ruke ham hazaar baar chale
+
+na jaane kaun sii maTTii watan kii maTTii thii
+nazar me.n dhuul jigar me.n liye Gubaar chale
+
+ye kaisii sarahade.n ulajhii huii hai.n pairo.n me.n
+ham apane ghar kii taraf uTh ke baar baar chale
+%
+#endindian
+\endsong
+%

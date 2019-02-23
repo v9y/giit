@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0322; Created on Jan 26, 2004
+%
+% nimish 6/22/3
+%
+\startsong
+\stitle{naa_ummiid ho ke bhii duniyaa me.n jiye jaate hai.n}%
+\film{Sangeeta}%
+\year{1950}%
+\starring{Shyam, Suraiya, Nigar, Pran}%
+\singer{Lata}%
+\music{C Ramchandra}%
+\lyrics{P L Santoshi}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 17 Jun 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+naaummiid ho ke bhii duniyaa me.n jiye jaate hai.n
+dil TuuT gayaa phir bhii ham pyaar kie jaate hai.n
+naaummiid ho ke bhii
+
+jin aa.Nkho.n me.n rahatii thii ek pyaar bharii mastii
+un aa.Nkho.n me.n aa.Nsuu hai.n barabaad huii bastii
+aa.Nsuu bhii ham apane ro ro ke piye jaate hai.n
+dil TuuT gayaa phir bhii \threedots
+
+bedard zamaane ne rahane na diyaa mil ke
+sab TuuT gae sapane aramaan bhare dil ke
+ruuThii huii qismat se fariyaad kie jaate hai.n
+dil TuuT gayaa phir bhii ham pyaar kie jaate hai.n
+
+naaummiid ho ke bhii duniyaa me.n jiye jaate hai.n
+dil TuuT gayaa phir bhii ham pyaar kie jaate hai.n
+naaummiid ho ke bhii
+%
+#endindian
+\endsong
+%

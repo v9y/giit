@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0305; Created on Jan 26, 2004
+%
+\startsong
+\stitle{dil ko lagaa ke bhuul se dil kaa nishaa.N miTaa diyaa}%
+\film{Doctor Z}%
+\year{1959}%
+\starring{Mahipal, Nirupa Roy}%
+\singer{Geeta, Talat}%
+\music{Manohar}%
+\lyrics{Akhtar Romani}%
+%
+% Audio On:
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Date: 12 Feb 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+giitaa: dil ko lagaa ke bhuul se dil kaa nishaa.N miTaa diyaa
+talat: hamane bharii bahaar me.n apanaa chaman jalaa diyaa
+
+giitaa: duniyaa kii har jafaa sahii kuchh bhii magar na kah sake
+giitaa: hamane vafaa ke naam par jo kuchh bhii thaa luTaa diyaa
+talat: aa .a .a
+
+talat: shikavaa kisii se kyaa kare.n marzii hai ye nasiib kii
+talat: chaahaa jise miTaa diyaa chaahaa jise banaa diyaa
+talat: dil kaa nishaa.N miTaa diyaa
+giitaa: aa .a .a
+
+giitaa: le ke palak pe chaa.Nd ko ko_ii kare to kyaa kare
+giitaa: apanaa bhii ek chaa.Nd thaa duniyaa ne jo chhupaa diyaa
+talat: aa .a .a
+
+talat: kis ko Kabar thii pyaar me.n jal jal ke Kaak ho.nge ham
+talat: Kaak kaa kyaa jahaa.N milii jis ko milii u.Daa diyaa
+giitaa: aa .a .a
+%
+#endindian
+\endsong
+%

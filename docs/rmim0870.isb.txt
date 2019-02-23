@@ -1,0 +1,58 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 10/1/2004 2:12:56 PM.
+
+\startsong
+\stitle{saiyaa.N kaise dhaaruu.N dhiir}%
+\film{Sitaaron Se Aagey}%
+\year{1958}%
+\starring{Ashok Kumar, Vyjayantimala}%
+\singer{Lata, Chorus}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 1 Oct 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+aa haa haa haa haa \threedots
+saiyaa.N kaise dhaaruu.N dhiir
+
+pag Thumak chalat balakhaa_e
+haay, pag Thumak chalat balakhaa_e, haay
+saiyaa.N kaise dhaaruu.N dhiir
+paayal baaje naa ko_ii jaage naa, haay
+haay re saiyaa.N kaise dhaaruu.N dhiir
+pag Thumak chalat balakhaa_e \threedots
+
+(paagal sajanii apane sajan kii
+chal nahii.n paa_e raah milan kii) \-2
+kaa.NTaa chubh\-chubh jaa_e, haay
+saiyaa.N kaise dhaaruu.N dhiir
+khilii chaa.Ndanii jale saajanii, haay,
+haay re saiyaa.N kaise dhaaruu.N dhiir
+pag Thumak chalat balakhaa_e \threedots
+
+(chhupake milan chalii tumase jo chhaliyaa
+dekhake jal ga_ii kaalii koyaliyaa ) \-2
+bairan shor machaa_e, haay
+saiyaa.N kaise dhaaruu.N dhiir
+ko_ii jaane naa bairan maane naa, haay
+haay re saiyaa.N kaise dhaaruu.N dhiir
+pag Thumak chalat balakhaa_e \threedots
+
+(parvat uupar piyaa torii nagarii
+dekhat chhalake naino.n kii gagarii) \-2
+pag chhalake phisalaa_e, haay
+saiyaa.N kaise dhaaruu.N dhiir
+li_e gaagarii phiruu.N baavarii, haay
+haay re saiyaa.N kaise dhaaruu.N dhiir
+pag Thumak chalat balakhaa_e \threedots
+
+#endindian
+\endsong

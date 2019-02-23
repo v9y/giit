@@ -1,0 +1,53 @@
+% ITRANS SONG # rmim0220; Created on Jan 26, 2004
+%
+% nani 9/2/3
+%
+\startsong
+\stitle{ye kuuch ke waqt kaisii aawaaz}%
+\film{Kaarwaan-e-Hayaat}%
+\year{1935}%
+\starring{K L Saigal, Rajkumari, Pahadi Sanyal}%
+\singer{Pahadi Sanyal}%
+\music{Mihir Kiran Bhattacharya}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 02 sep 2003
+% Credits: Satish Kalra, Yuu Vii Aar.
+% Comments: Geetanjali Series
+% The OTHER Song theme: A New Theatres film
+% which had some OTHER MD other than RCB, PM or TBB.
+% An all-time classic tarannum in Bhairavi.
+% Film - Kaarawaa.N-e-Hayaat. Dir - Premankur Atorthi.
+%
+\printtitle
+#indian
+%
+ye kuuch ke waqt kaisii aawaaz
+dil ke kaano.n me.n aa rahii hai
+ye kyaa biso???? hai, ye kyaa kashiish hai
+jo mujh ko waapas bulaa rahii hai
+
+bichhe hu_e hai zamii.n pe motii
+## shu_aa_e.N = waves of fire/electricity ##
+shu_aa_e.N baadal pe chal rahii hai.n
+fizaa_e.N ra.ngii.n hai.n aisii dilakash
+jo mujh ko waapas bulaa rahii hai.n
+
+pari.nde shaakho.n me.n gaa rahe hai.n
+hawaa_e.N jhuulaa jhulaa rahii hai.n
+inhii.n me.n koyal kii kuuk bhii hai
+jo mujh ko waapas bulaa rahii hai
+
+## shajar - tree, sar+niguu.n - sar jhukaa huaa ##
+## nasiim-e-saharii = the gentle fragrant morning
+breeze ##
+chhuTaa jo kaa.NTo.n se apanaa daaman
+to ba.Dhake dariyaa me.n (bah rahaa)??? hai
+shajar kii har shaaK saraniguu.N hai
+nasiim\-e\-saharii bulaa rahii hai
+ye kuuch ke wa.a.a.aqt
+%
+#endindian
+\endsong
+%

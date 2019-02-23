@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0198; Created on Jan 26, 2004
+%
+\startsong
+\stitle{is duniyaa kii pagaDaNDii par}%
+\film{Amrapali}%
+\year{1945}%
+\starring{Prem Adeeb, Sabita Devi, Badri Prasad, Jeevan}%
+\singer{Amirbai}%
+\music{Saraswati Devi}%
+\lyrics{Miss Kamal/ Pradeep}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 10 feb 2003
+% Credits: Satish Kalra
+% Comments: Geetanjali Series - aamrapaalii.
+% According to Kavi Pradiip, he wrote songs for
+% this film under the name 'Miss Kamal'.
+%
+\printtitle
+#indian
+%
+is duniyaa kii pagaDaNDii par
+tumhii.n ho mere saathii
+ik tumhii.n ho mere saathii
+mere dhu.ndale jiivanapath par
+tum ojaa kii baatii
+ik tumhii.n ho mere saathii
+
+tum ho mere din ke suuraj
+merii raat ke chandaa
+tum ne mujhako baa.Ndh liyaa hai
+Daal prem kaa fandaa
+mere raajakumaar ha.Nso
+mai.n tum pe bali bali jaatii
+ik tumhii.n ho mere saathii
+
+is vishaal sa.nsaar me.n mai.n ik akelii
+kaa.Np rahii thii merii jiivanavelii
+lekin jis din tum ko paayaa
+mai.nne man ko dhiir ba.Ndhaayaa
+apane ghar ko swarg samajh
+mai.n phuule nahii.n samaatii
+ik tumhii.n ho mere saathii
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0334; Created on Jan 26, 2004
+%
+%      From: Pradip Shah (pradip_shah63@hotmail.com)
+%      Date: 2003-02-02 10:32:57 PST 
+%
+\startsong
+\stitle{muft hue badanaam kisii pe haay dil ko lagaa ke}%
+\film{Baaraat}%
+\year{1960}%
+\starring{Ajit, Shakeela}%
+\singer{Mukesh}%
+\music{Chitragupt}%
+\lyrics{Majrooh}%
+%
+% Contributor:  Pradip Shah
+% Transliterator: Pradip Shah
+%
+\printtitle
+#indian
+%
+muft hue badanaam, kisii pe haay dil ko lagaa ke
+jiinaa huaa iljaam
+kisii pe haay dil ko lagaa ke
+muft hue badanaam
+
+(gaye aramaan leke, luuTe luuTe aate hai.n
+log jahaa.N me.n kaise dil ko lagaate hai.n)  \2
+dil ko lagaate hai.n, apanaa banaate hai.n
+ham to phire naadaan   \2
+kisii pe haay dil ko lagaa ke
+muft hue badanaam
+
+(samajhe the saath bhejaa, kisiikaa suhaanaa gam
+usii jo nazar ko dekhaa, tanhaa khaDe hai.n ham)  \2
+tanhaa khaDe hai.n ham
+dil bhii rahaa hai kam
+rasteme.n ho ga_ii shaam  \2
+kisii pe haay dil ko lagaa ke
+muft hue badanaam
+%
+#endindian
+\endsong
+%

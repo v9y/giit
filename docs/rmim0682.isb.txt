@@ -1,0 +1,41 @@
+% ITRANS SONG #
+
+% From: Surma Bhopali (nanhafarishta@yahoo.co.in)
+% Date: 2004-03-23 01:00:35 PST
+
+\startsong
+\stitle{tum merii zi.ndagii me.n kuchh is tarah se aaye}%
+\film{Bombay To Goa}%
+\year{1972}%
+\starring{Amitabh, Mehmood, Shatrughan, Aruna Irani}%
+\singer{Lata, Kishore}%
+\music{R D Burman}%
+\lyrics{Rajinder Krishan}%
+
+% Audio on: HMV
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 23 Mar 2004
+% Series: GEETanjali, THGHT
+% generated using giitaayan
+
+\printtitle
+#indian
+
+la: u u \threedots
+ tum merii zi.ndagii me.n kuchh is tarah se aaye
+ki: bhuulaa saa Kwaab jaise sach hoke muskaraaye
+la: ho o o o tim merii \threedots
+
+la: bhuulii bisarii kitanii yaade.n aaj gale milane aa_ii hai.n
+ anjaane baaho.n se chunakar kaliyaa.N daaman me.n laa_ii hai
+ki: itane suhaane safar kii kabhii ma.nzil naa aane paaye
+la: ho o o o tim merii \threedots
+
+ki: rukatii ba.Dhatii dil kii dha.Dakan kahatii hai kitane afasaane
+ dil ke saagar kitane gahare dil hii samajhe dil hii jaane
+la: aaye samajh me.n ye raaz tab jab umr biit jaaye
+ ho o o o tim merii \threedots
+
+#endindian
+\endsong

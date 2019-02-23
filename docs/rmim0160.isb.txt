@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0160; Created on Jan 26, 2004
+%
+\startsong
+\stitle{sabze kii durfishaanii phuulo.n kaa shaamiyaanaa}%
+\film{Bihari}%
+\year{1948}%
+\starring{B Nandrekar, Surekha, H Prakash}%
+\singer{Lata}%
+\music{Ramkrishna Shinde}%
+\lyrics{Munshi Farog}%
+%
+% Contributors: Arunabha S. Roy (first 3 minutes)
+% Dhananjay Naniwadekar (last 3 of 6 minutes)
+% Date: Dec 7, 2002
+% Credits: Afzal Khan, Satish Kalra
+% Comments: Shinde also composed under the pseudonym
+% Hemant Kedar. This was his only song in 'Bihari'.
+% Other songs in Bihari were composed by
+% Naresh Bhattacharya.
+%
+% sabza = dew, durfishaanii = eloquence, (dur = pearl)
+% niGaarakhaanaa - allegorical reference to this world
+% 'charake lagaanaa' = zakhm denaa.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+% long musical pieces for ~ 75 seconds
+
+sabze kii durfishaanii phuulo.n kaa shaamiyaanaa
+Kushabuu kii naujawaanii ra.ngii.n niGaaraKaanaa
+dekhaa to gaa rahaa hai apanaa vahii taraanaa
+bulabul sunaa rahaa hai gul ko rulaa rahaa hai
+miiThaa saa dard banakar pahaluu me.n aa rahaa hai
+rah\-rah ke ko_ii dil me.n charake lagaa rahaa hai
+
+% First side of the 78 rpm disc ends after the above 6 lines.
+
+Tha.nDii hawaa kaa jho.nkaa jhuulaa jhulaa rahaa hai
+phuulo.n ko deke lorii daulat luTaa rahaa hai
+baadal machal\-machal kar har ????? pe chhaa rahaa hai
+lekin meraa nasiibaa mujhako rulaa rahaa hai
+
+% After this point, the 6 lines on Side One of the 78 rpm
+% disc are repeated.
+%
+#endindian
+\endsong
+%

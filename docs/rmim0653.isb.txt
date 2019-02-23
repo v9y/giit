@@ -1,0 +1,46 @@
+% ITRANS SONG #
+
+% Date: Sun, 18 Apr 2004 21:43:37 GMT
+% From: adhareshwar1@verizon.net (Ashok)
+
+\startsong
+\stitle{chaudahavii.n ma.nzil pe jaalim aa gayaa}%
+\film{(Non-Film)}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Kamal Dasgupta}%
+\lyrics{Faiyaz Hashmi}%
+
+% Contributor: Ashok Dhareshwar
+% Date: 18 Apr 2004 (Ram Navami)
+% Credits: from the Talat Geet Kosh
+% Credits: V S Rawat
+
+\printtitle
+#indian
+
+chaudahavii.n ma.nzil pe jaalim aa gayaa, aa gayaa
+chaa.Nd mere chaa.Nd se sharamaa gayaa, sharamaa gayaa
+
+ho gae Dore gulaabii gaal ke
+ra.ng to dekho sharaabhii aa.Nkh ke
+jis ne dekhaa bin piye laharaa gayaa
+chaa.Nd mere chaa.Nd se sharamaa gayaa
+
+zulf me.n ra.ngat hai kaalii raat kii
+raat bhii kaisii kisii barasaat kii
+zulf laharaa_ii to baadal chhaa gayaa
+chaa.Nd mere chaa.Nd se sharamaa gayaa
+
+do ka.nval ke phuul hai.n yaa gaal hai.n
+kuchh sunaharii hai.n jhalak kuchh laal hai.n *
+dekh kar 'faiyaaz' mai.n ghabaraa gayaa
+chaa.Nd mere chaa.Nd se sharamaa gayaa, sharamaa gayaa
+
+% *The line is actually given as:
+
+kuchh sunaharii hai jhalak kuchh laal hai.n
+
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0003; Created on Jan 26, 2004
+%
+%      From: Abhay Phadnis (aphadnis@hotmail.com)
+%      Date: 2002-11-15 00:36:12 PST 
+%
+\startsong
+\stitle{chalii aaj gorii piyaa kii nagariyaa}%
+\film{Godaan}%
+\year{1963}%
+\starring{Rajkumar, Kamini Kaushal, Mehmood}%
+\singer{Lata}%
+\music{Ravi Shankar}%
+\lyrics{Anjaan}%
+%
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 15 November 2002
+% Credits:
+% Comments: LATAnjali series
+% Availability: HMV cassette of "Anuradha" + "Godaan"
+%
+\printtitle
+#indian
+%
+chalii aaj gorii piyaa kii nagariyaa \-2
+ma.Ngiyaa me.n si.nduur o.Dhe chunariyaa \-2
+chalii aaj gorii piyaa kii nagariyaa ..
+
+dulaaro.n se paalii ye komal kalii sii \-2
+chhipii maa.N ke aa.Nchal me.n jaisii Darii sii
+wo hii aaj jaa_e paraa_ii nagariyaa ..1..
+
+a.Nkhiyo.n me.n aa.Nsuu hai.n saa.Nso.n me.n aa.Ndhii \-2
+sajan se milan ko sajaniyaa hai jaatii
+naino.n se tham tham ke barase badariyaa ..2..
+
+chalii aaj gorii piyaa kii nagariyaa
+%
+#endindian
+\endsong
+%

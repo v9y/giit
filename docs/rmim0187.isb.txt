@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0187; Created on Jan 26, 2004
+%
+\startsong
+\stitle{jo ham pe guzaratii hai sitaaro.n se puuchhi_e}%
+\film{Mumtaz Mahal/ Mumtaz}%
+\year{1944}%
+\starring{Khursheed, Chandramohan, Kajjan, Lala Yakub, Brujmala, Sulochana Chaterjee}%
+\singer{Khursheed}%
+\music{Khemchand Prakash}%
+\lyrics{Wali Sahab}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 03 feb 2003
+% Credits: Urzung Khan
+% Series: GEETanjali - film 'mumataaz mahal'
+% Comments: Director of 'mumtaaz mahal' - Kedar Sharma.
+% Ranjit Movietone Film. (mumataaz / mumtaz / mumtaaz) mahal
+% The song is based on Raag Des.
+% There is a song in Panna (1944)
+% with the same starting words.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+jo ham pe guzaratii hai sitaaro.n se puuchhi_e
+in chhoTe chhoTe raat ke pyaaro.n se puuchhi_e
+
+bechain kis tarah se mai.n rahatii huu.N raat din
+baadal me.n bijaliyo.n ke ishaaro.n se puuchhi_e
+
+jo Dhuu.N.Dhate hai.n chaa.Nd ko a.Ndherii raat me.n
+un badanasiib dard ke maaro.n se puuchhi_e
+
+bikhare hai.n kis tarah se merii zindagii ke giit
+TuuTe hu_e sitaar ke taaro.n se puuchhi_e
+%
+#endindian
+\endsong
+%

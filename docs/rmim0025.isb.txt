@@ -1,0 +1,65 @@
+% ITRANS SONG # rmim0025; Created on Jan 26, 2004
+%
+%      From: Amit Malhotra (amit@bollyvista.com)
+%      Date: 2003-03-05 12:07:36 PST 
+%
+\startsong
+\stitle{saajan kii ho ga_ii gorii}%
+\film{Devdaas}%
+\year{1955}%
+\starring{Dilip Kumar, Suchitra Sen, Vyjayantimala}%
+\singer{Geeta, Manna Dey}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+%
+% Contributor : Amit Malhotra (amit@bollyvista.com)
+% Transliterator : Amit Malhotra (www.bollyvista.com)
+%
+\printtitle
+#indian
+%
+gii:  saajan kii ho ga_ii gorii
+    saajan kii ho ga_ii
+ma:   haay haay re
+gii:  ab ghar kaa aa.Ngan vides laage re, saajan
+ma, gii:  haay haay saajan kii ho ga_ii gorii saajan kii ho ga_ii
+
+gii:  suunii sii laage.n maayake kii galiyaa.N
+ma:   suunii sii laage.n
+gii:  bhaaye.n na, na na, bhaaye.n na ab jii ko bachapan kii sakhiyaa.N
+ma:   bhaaye.n na
+gii:  naino.n me.n jhuume bairii kii na.Diyaa.N man ko lubhaaye.n sajiyaa ki
+kaliyaa.N
+      har svaas pii kaa, har svaas pii kaa sa.ndes laage re
+      ab ghar kaa aa.Ngan vides laage re, saajan
+ma, gii:  haay haay saajan kii ho ga_ii gorii saajan kii ho ga_ii
+
+gii:  kuchh jaagii jaagii, kuchh so_ii so_ii
+ma:   kuchh jaagii jaagii
+gii:  baiThii hai raadhe
+ma:   o dekho, o dekho, baiThii hai raadhe sapano.n me.n kho_ii, dekho
+baiThii hai raadhe
+gii:  chhe.Daa to samajho ro_ii ke ro_ii
+      aise me.n isako Toke na ko_ii
+      naajukataa pan, naajukataa pan pe na Thes laage re
+      ab ghar kaa aa.Ngan vides laage re, saajan
+ma, gii:  haay haay saajan kii ho ga_ii gorii saajan kii ho ga_ii
+
+gii:  ba.Dhatii hai pal pal agnii lagan kii
+ma:   ba.Dhatii hai pal pal
+gii:  chaTake hai nas nas komal badan kii
+ma:   chaTake hai nas nas
+gii:  ham jaanate hai.n sab isake man kii
+      ab ho chukii ye apane sajan kii
+      naihar kaa jiivan
+      naihar kaa jiivan kales laage re
+ma:   ab ghar kaa aa.Ngan vides laage re saajan
+ma, gii:  haay haay saajan kii ho ga_ii gorii saajan kii ho ga_ii
+%
+%na.Diyaa.N:  A kind of Fireworks, rockets without sticks.. ek prakaar kii
+agniikriiraa
+%sajiyaa : sej (suhaag raat ki sej?)
+%
+#endindian
+\endsong
+%

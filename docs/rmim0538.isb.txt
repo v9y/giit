@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0538; Created on Jan 26, 2004
+%
+% urzung 1/2/4
+%
+\startsong
+\stitle{aaj use phir dekhaa hai}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{}%
+\lyrics{Faiyaz Hashmi}%
+%
+% Contributor: <Urzung Khan>, 1/2/4
+%
+\printtitle
+#indian
+%
+aaj use phir dekhaa hai, dekhaa hai
+
+roz kiyaa karataa thaa yaad
+lekin aaj buhat din baad
+gaa.Nv ke chhote pa.nghaT me.n
+chaa.nd saa chaharaa ghuu.NghaT me.n
+mai.n ne chamakate dekhaa hai
+
+shaam kaa baadal chhaane ko thaa
+suuraj bhii chhup jaane ko thaa
+us ke ruup ke suuraj ko jab
+me.n ne uThate dekhaa hai
+
+naam mujhe maaluum nahii.n hai
+sharmiilii hai kamasin hai vo
+dil kii raanii banaa chukaa
+banaa chukaa huu.N
+kahane ko panahaaran hai vo
+ek nazar me.n dil kii duniyaa
+mai.n ne badalate dekha hai
+%
+#endindian
+\endsong
+%

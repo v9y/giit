@@ -1,0 +1,44 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{tainuuN saamane baThaa ke}%
+\film{Dil Da Jani (Pakistani-Film)}%
+\year{1967}% 
+\starring{Neelo}%
+\singer{Noorjehan}%
+\music{Wazir Afzal}%
+\lyrics{Hazeen Qadri}%
+ 
+% Contributor: <Urzung Khan>, 23 Oct 2004
+% Transliterator:  
+
+\printtitle
+#indian
+
+tainuuN saamane baThaa ke sharmaaN
+ve aiho-ii meraa jii kardaa
+tainuuN chorii chorii takadii phiraaN
+ve aiho-ii meraa jii kardaa
+
+tere tere bin meraa lagadaa na jii ve
+holii jayaa das meraa lagadaa ai.n kii ve
+kuj bol kuj das zaalamaaN
+ve aiho-ii meraa jii kardaa
+
+saarii saarii raat yaadaa.n teriyaa.n satau.ndiyaa.n
+sufane kii auN saanuuN nii.ndaraa.n naii.n au.ndiyaa.n
+kadii tai.nuu.n naal apane jagaaN
+ve aiho-ii meraa jii kardaa
+
+tere baajoN dil nuuN mai.n laare lappe launii aaN
+ve.De vicho.n uTh ke banere utte aunii aaN
+e.nj dil nuuN dalaase denii aaN
+ve aiho-ii meraa jii kardaa
+
+% aiho-ii=yahii
+% sufane=Kvaab
+% ve.De=ve.Daa=sahan
+% e.nj=aise, yuuN
+
+#endindian
+\endsong

@@ -1,0 +1,58 @@
+% ITRANS SONG # rmim0433; Created on Jan 26, 2004
+%
+% ganti 5/27/3
+%
+\startsong
+\stitle{aaii diwaalii diipo.n vaalii gaaye sakhiyaa.N}%
+\film{Maharana Pratap}%
+\year{1946}%
+\starring{Kursheed, Ishwarlal}%
+\singer{Khursheed, Chorus}%
+\music{Ram Ganguly}%
+\lyrics{Swami Ramanand}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date: May 27, 2003
+%
+\printtitle
+#indian
+%
+ko: (aaii diwaalii diipo.n vaalii gaaye.n sakhiyaa.N
+     gaaye.n sakhiyaa.N)\-2
+ku: o paradesii merii
+     o paradesii merii niir bharii akhiyaa.N
+     (niir bharii akhiyaa.N)\-2
+ko: (aaii diwaalii diipo.n vaalii gaaye.n sakhiyaa.N
+     gaaye.n sakhiyaa.N)\-2
+ku: o paradesii merii
+     o paradesii merii niir bharii akhiyaa.N
+     (niir bharii akhiyaa.N)\-2
+
+ku: (saare desh me.n hai a.ndhiyaaraa)\-2
+     mere ghar me.n hai ujiyaaraa
+     tumane jabase ? kinaaraa
+     meraa kaun hai sahaaraa
+     (koii naa maane, aur naa jaane man kii batiyaa.N)\-2
+     (niir bharii akhiyaa.N)\-2
+ko: (aaii diwaalii diipo.n vaali gaaye.n sakhiyaa.N
+     gaaye.n sakhiyaa.N)\-2
+ku: o paradesii merii
+     o paradesii merii niir bharii akhiyaa.N
+     (niir bharii akhiyaa.N)\-2
+
+ku: (bachapan kii jab yaad sataaye
+     javaanii ro ro niir bahaaye)\-2
+     (usii niir ko tel samajhake man kaa diip jalaaye
+     dukhiyaa man kaa diip jalaaye)\-2
+     (isii bahaane se naa jaaye.n kaalii ratiyaa.N)\-2
+     (niir bharii akhiyaa.N)\-2
+ko: (aaii diwaali diipo.n vaalii gaaye.n sakhiyaa.N
+      gaaye.n sakhiyaa.N)\-2
+ku: o pardesii merii
+     o pardesii merii niir bharii akhiyaa.N
+     (niir bharii akhiyaa.N)\-2
+%
+#endindian
+\endsong
+%

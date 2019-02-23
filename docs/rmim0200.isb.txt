@@ -1,0 +1,36 @@
+% ITRANS SONG # rmim0200; Created on Jan 26, 2004
+%
+\startsong
+\stitle{TuuTaa hu_aa dil gaa_e_gaa kyaa}%
+\film{Doosri Shadi}%
+\year{1947}%
+\starring{Mumtaaz Shanti, Kumar, Pramila, Ranjeet Kumari, David, Gope, Maya Devi}%
+\singer{Zohrabai}%
+\music{Gobind Ram}%
+\lyrics{I C Kapoor}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 15 Feb 2003
+% Comments: Geetanjali Series. duusarii shaadii.
+% Krishin Movietone. Director - Ram Daryani.
+% Gobind Raam - A lesser-known but great MD.
+% His name is variously spelt as Gobindram,
+% Govind Ram, Govindram.
+% BTW Tembe's name was Govind-rao. Not Govindram.
+% Some rmim posts & HMV releases have got it wrong.
+%
+\printtitle
+#indian
+%
+TuuTaa hu_aa dil gaa_e_gaa kyaa giit suhaanaa
+har baat me.n Dhuu.N.Dhegaa wo rone kaa bahaanaa
+
+jo bastii ba.De chaah pe thii hamane basaa_ii
+us bastii me.n milataa nahii.n hai hamako Thikaanaa
+
+shikawaa hai kisii se na gilaa mujhako kisii se
+qismat merii bairii hu_ii duShman hai zamaanaa
+%
+#endindian
+\endsong
+%

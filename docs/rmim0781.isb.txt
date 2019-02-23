@@ -1,0 +1,39 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{saa.Njh bhaye ghar aayaa panchhii}%
+\film{Sanyasi}%
+\year{1945}% 
+\starring{Shamim, Amar, Ghulam Mohammad}%
+\singer{Sham Kumar}%
+\music{Naushad}%
+\lyrics{Pt Madhur}%
+ 
+% Contributor: <Urzung Khan>, 26 Aug 2004
+% Transliterator:  
+ 
+\printtitle
+#indian
+ 
+saa.njh bhaye ghar aayaa pa.nchhii
+bhor bhaye u.D jaanaa hai
+jis Daalii par kiyaa baseraa
+usako bhii murajhanaa hai
+
+chuptaa ke biptaa aatii hai
+choT choT pe lagatii hai
+tuu ne jo kuchh ulajhaayaa hai
+tujh ko hii sulajhaanaa hai
+
+bahrii duniyaa ke kaano.n me.n
+tuu apanaa raag sunaa_e jaa
+TuuTe taaro.n kii biinaa se
+tujh ko jii bahalaanaa hai
+
+himmat ko mat haar ba.Dhe jaa
+aa.ndhii aur tuufaano.n me.n
+tujh ko apanii manzil par hii
+apanaa desh basaanaa hai
+  
+#endindian
+\endsong

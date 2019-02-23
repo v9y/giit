@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0453; Created on Jan 26, 2004
+%
+% surma 6/30/3
+% 
+\startsong
+\stitle{ruuTh ke ham se kahii.n jab chale jaaoge tum}%
+\film{Jo Jeetaa Wohi Sikandar}%
+\year{1992}%
+\starring{Aamir Khan, Ayesha Jhulkha, Pooja Bedi, Mamik, Kulbhushan Kharbanda}%
+\singer{Jatin}%
+\music{Jatin-Lalit}%
+\lyrics{Majrooh}%
+% 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 30 Jun 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ruuThake hamase kahii.n jab chale jaaoge tum
+ye naa sochaa thaa kabhii itane yaad aaoge tum
+
+mai.n to naa chalaa thaa do kadam bhii tum bin
+phir bhii meraa bachapan yahii samajhaa har din
+(chho.Dakar mujhe bhalaa ab kahaa.n jaaoge tum) 2
+ye naa sochaa thaa \threedots
+
+baato.n kabhii haatho.n se bhii maaraa hai tumhe.n
+sadaa yahii kahake hii pukaaraa hai tumhe.n
+(kyaa kar loge meraa jo biga.D jaaoge tum) 2
+ye naa sochaa thaa \threedots
+
+dekho mere aa.nsuu yahii karate hai pukaar
+ho aao chale aao mere bhaa_ii mere yaar
+(po.nchhane aa.nsuu mere kyaa nahii.n aaoge tum) 2
+ye naa sochaa thaa \threedots
+
+%
+#endindian
+\endsong
+%

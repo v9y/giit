@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0180; Created on Jan 26, 2004
+%
+\startsong
+\stitle{he chandravadan chandaa kii kiran}%
+\film{Ram Vivah}%
+\year{1949}%
+\starring{Prem Adeeb, Shobhana Samarth, Ram_murti, Prem Dhawan, Raj Adeeb}%
+\singer{Rajkumari}%
+\music{Shankarrao Vyas}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 29 Jan 2003
+% Comments: Geetanjali Series.
+% Film - Raam Vivaah. Dir - Prem Adeeb.
+%
+\printtitle
+#indian
+%
+he chandravadan, chandaa kii kiran,
+tum kis kaa chitr banaatii ho?
+man ke bhaavo.n ko ruup ra.ng de.n
+man hii man musakaatii ho
+
+vo suuryamukhii tum chandramuukhii
+aashaa kaa diip jalaatii ho
+jab nain mile ho suuraj se
+kyuu.N chaa.Nd se priit lagaatii ho
+
+jab nain mile to hR^iday mile
+jab rain hu_ii bechain hu_e
+vo bhii sudh budh kho baiThaa hai
+tum jisako paas bulaatii ho
+
+tum jisakii sharan ho shyaam\-varan
+arpan hai jis pe tan\-man\-dhan
+hai manamandir me.n chhipaa hu_aa
+tum jis ko dekh lajaatii ho
+%
+#endindian
+\endsong
+%

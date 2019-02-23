@@ -1,0 +1,37 @@
+% ITRANS SONG 
+%
+\startsong
+\stitle{salonaa saa sajan hai aur mai.n huu.N}%
+\film{Meraj-E-Ghazal (Non-Film)}%
+\year{1983}%
+\starring{}%
+\singer{Asha}%
+\music{Ghulam Ali}%
+\lyrics{Shabih Abbas}%
+%
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 11 Aug 2004
+% Series: Andaaz-e-Bayaan Aur
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+salonaa saa sajan hai aur mai.n huu.N
+jiyaa me.n ik agan hai aur mai.n huu.N
+
+tumhaare ruup kii chhaayaa me.n saajan
+ba.Dii ThaNDii jalan hai aur mai.n huu.N
+
+churaaye chain raato.n ko jagaaye
+piyaa kaa ye chalan hai aur mai.n huu.N
+
+piyaa ke saamane ghuu.NghaT uThaa de
+ba.Dii cha.nchal pawan hai aur mai.n huu.N
+
+rachegii jab mere haatho.n me.n me.nhadii
+usii din kii lagan hai aur mai.n huu.N
+%
+#endindian
+\endsong

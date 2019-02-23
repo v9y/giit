@@ -1,0 +1,41 @@
+% ITRANS SONG #
+%
+% Date: Wed, 18 Feb 2004 06:38:28 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+%
+\startsong
+\stitle{buuT karuu.N mai.n paalish baabuu}%
+\film{Nai Duniya}%
+\year{1942}%
+\starring{Shobna, Jairaj, Wasti, Azurie}%
+\singer{Suraiya}%
+\music{Naushad}%
+\lyrics{Tanvir Naqvi}%
+%
+% Contributor: <Urzung Khan>
+% Credits: Nimish Pachapurkar
+% Song Courtesy: http://members.tripod.com/oldies_club/songs/bootkron.mp3
+%
+\printtitle
+#indian
+%
+buuT karuu.N mai.n paalish
+baabuu, buuT karuu.N mai.n paalish
+
+tote kaa ye paalish meraa
+har juutaa chamkaae
+chhoTaa moTaa phaTaa puraanaa
+sab ko nayaa banaae
+gar juute par chamak na aae
+kar do mujh par naalish
+
+is paalish kii chamak niraalii
+taaro.n ko sharamaae
+chamak damak ko jo bhii dekhe
+man us kaa lalachaae
+juute ko ye halakaa kar de
+jaise sar ko maalish
+%
+#endindian
+\endsong
+%

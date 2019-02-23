@@ -1,0 +1,54 @@
+% ITRANS SONG # rmim0391; Created on Jan 26, 2004
+%
+% satish kalra 10/24/3
+%
+\startsong
+\stitle{zaahid sharaab piine de ... mujhako yaaro maaf karanaa}%
+\film{Main Nashe Mein Hoon}%
+\year{1959}%
+\starring{Raj Kapoor, Mala Sinha, Nazir Hussain, Mubarak, Maruti, Nishi}%
+\singer{Mukesh}%
+\music{Shanker-Jaikishan}%
+\lyrics{Shailendra}%
+%
+% Audio on: EMI/RPG CD PMLP 5750
+% Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+% Date: 24 Oct 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+zaahid sharaab piine de masjid me.n baiThakar
+yaa vo jagah bataa de jahaa.N par Kudaa na ho
+
+mujhako yaaro maaf karanaa mai.n nashe me.n huu.N
+ab to mumakin hai bahakanaa mai.n nashe me.n huu.N
+mujhako yaaro\threedots
+
+kal kii yaade.n miT rahii hai.n dard bhii hai kam
+ab zaraa aaraam se aa jaa rahaa hai dam
+are aa jaa rahaa hai dam
+kam hai ab dil kaa ta.Dapanaa mai.n nashe me.n huu.N
+ab to mumakin hai bahakanaa mai.n nashe me.n huu.N
+mujhako yaaro\threedots
+
+Dhal chukii hai raat kab kii uTh ga_ii mahafil
+mai.n kahaa.N jaauu.N nahii.n koii merii ma.nzil
+nahii.n koii merii ma.nzil
+do kadam mushkil hai chalanaa mai.n nashe me.n huu.N
+mujhako yaaro\threedots
+
+hai zaraa sii baat aur chhalake hai.n kuchh pyaale
+par na jaane kyaa kahe.nge ye jahaa.N waale
+kahe.nge ye jahaa.Nwaale
+tum bas itanaa yaad rakhanaa mai.n nashe me.n huu.N
+ab to mumakin hai bahakanaa mai.n nashe me.n huu.N
+mujhako yaaro\threedots
+%
+#endindian
+\endsong
+%

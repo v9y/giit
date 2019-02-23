@@ -1,0 +1,39 @@
+% ITRANS SONG #
+
+% Date: Mon, 8 Mar 2004 08:11:18 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+
+\startsong
+\stitle{chhalake ras kii gagariyaa bhaarii}%
+\film{Ek Hi Raasta/ The Only Way}%
+\year{1939}%
+\starring{Sheikh Mukhtar, Arun, Anuradha, Jyoti, Harish}%
+\singer{Anil Biswas, Wahidan}%
+\music{Anil Biswas}%
+\lyrics{Pandit Indra}%
+
+% Contributor : dhananjay naniwadekar
+% Date : 08 March 2004
+% Comments : Anilda Series. Ek Hii Raastaa.
+% The OTHER Theme : From the OTHER 'Ek Hi Rasta'
+% Sagar Movietone. Dir - Mahabuub / Mehboob
+
+\printtitle
+#indian
+
+wahidan :
+chhalake ras kii gagariyaa bhaarii
+mai.n matawaarii panihaarii
+mohe bhuul gaye banawaarii
+ku.njan me.n ku.njabihaarii
+
+a : hai bharaa huaa dil sajanii
+ kyuu.N jhuuThii baat banaaye
+wa : ab kaun tumhe.n samajhaaye
+a : tore gaal laaj se laal
+ bhaal par bi.ndiyaa musakaaye
+wa : baalam torii najar naa lag jaaye
+a : (ras/laT)??? gholii, pyaarii
+
+#endindian
+\endsong

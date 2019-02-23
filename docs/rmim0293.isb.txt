@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0293; Created on Jan 26, 2004
+%
+\startsong
+\stitle{mujh ko tum jo mile ye jahaan mil gayaa}%
+\film{Detective}%
+\year{1958}%
+\starring{Pradeep Kumar, Mala Sinha, Johnny Walker}%
+\singer{Hemant, Geeta}%
+\music{Mukul Roy}%
+\lyrics{Shailendra}%
+%
+% Audio On: www.musicindiaonline.com
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: Dec 5, 2002
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+##humming##
+hema.nt: mujh ko tum jo mile ye jahaan mil gayaa
+giitaa:  tum jo mere dil me.n ha.Nse dil kaa kamal dekho khil gayaa
+
+hema.nt: aa .a ye bhiigatii hu_ii fizaa, baras rahii hai chaa.Ndanii
+giitaa:  taaro.n ne mil ke chhe.D dii madhur milan kii raaginii
+hema.nt: leke qaraar aayaa hai pyaar, kyaa hai agar meraa dil gayaa
+dono.n:  mujh ko tum jo mile ye jahaan mil gayaa
+
+giitaa:  aa .a dekhate chal rahe hai.n ham hai pyaar kaa ye raastaa
+hema.nt: chaa.Nd aur sitaaro.n kaa, bahaar kaa ye raastaa
+giitaa:  leke qaraar aayaa hai pyaar, kyaa hai agar meraa dil gayaa
+dono.n:  mujh ko tum jo mile ye jahaan mil gayaa
+
+hema.nt: aa .a mere suhaane Kvaab, ki tum mere saamane raho
+giitaa:  aisii hasiin raat hai dil ye kahe sahar na ho
+hema.nt: leke qaraar aayaa hai pyaar, kyaa hai agar meraa dil gayaa
+dono.n:  mujh ko tum jo mile ye jahaan mil gayaa
+       tum jo mere dil me.n ha.Nse dil kaa kamal dekho khil gayaa
+%
+#endindian
+\endsong
+%

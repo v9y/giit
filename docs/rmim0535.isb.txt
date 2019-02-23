@@ -1,0 +1,36 @@
+% ITRANS SONG # rmim0535; Created on Jan 26, 2004
+%
+% urzung khan 12/19/3
+%
+\startsong
+\stitle{o re sanam dil ye kaise bataae}%
+\film{Pakistani-film{Tauba)}%
+\year{1964}%
+\starring{}%
+\singer{Noorjehan}%
+\music{A Hamid}%
+\lyrics{Faiyaz Hashmi}%
+%
+% Contributor: <Urzung Khan>, 12/19/3
+%
+\printtitle
+#indian
+%
+sazaa ye kaisii milii ham ko dil lagaane kii
+ki ro rahe hai.n tamannaa thii muskaraane kii
+
+o re sanam dil ye kaise bataae
+payaar me.n berii ho gae apane paraae
+o re sanam dil \threedots
+
+sab kuchh luTaa ke ham ne kuchh bhii naa paayaa
+dil kaa lagaanaa hame.n raas na aayaa
+o re sanam dil \threedots
+
+biite dino.n kii baate.n ham ko rulaae.n
+palako.n se taare TuuTe.n daaman pe aaye.n
+o re sanam dil \threedots
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,40 @@
+% ITRANS SONG # rmim0182; Created on Jan 26, 2004
+%
+\startsong
+\stitle{aa tuu aa ab naa sataa teraa hii intazaar hai}%
+\film{non-Film}%
+\year{1944}%
+\starring{}%
+\singer{Amirbai Karnataki}%
+\music{Pannalal Ghosh}%
+\lyrics{Ramesh Gupta?}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 02 Feb 2003
+% Credits: Hamraaz Sahab
+% Series: GEETanjali
+% Comments: Some sources misattribute the song to the
+% film 'Police'. It is a non-film song.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aa tuu aa, ab naa sataa
+teraa hii intazaar hai
+gul khile chaman khilaa
+aa_ii hu_ii bahaar hai
+
+aa.Ndhii uThii, tufaa.N uThaa
+kaalii ghaTaa_e.N chhaa ga_ii.n
+raag pironaa bhuul gayaa
+TuuTaa hu_aa sitaar hai
+
+rotaa hai dil, ha.Nsii kahaa.N?
+naino.n kii niind u.D ga_ii
+shaam\-o\-sahar, aaTho.n pahar
+dil kii yahii pukaar hai
+%
+#endindian
+\endsong
+%

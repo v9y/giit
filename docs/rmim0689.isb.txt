@@ -1,0 +1,32 @@
+% ITRANS SONG #
+
+% Date: Wed, 17 Mar 2004 08:25:25 +0500
+% From: Urzung Khan <urzung@hotmail.com>
+
+\startsong
+\stitle{tuu ne jahaa.N banaa kar ehsaan kayaa kiyaa hai}%
+\film{Maa Ka Pyar}%
+\year{1949}%
+\starring{Sulochna Chaterjee, Prem Adeeb, Manorma}%
+\singer{Lata}%
+\music{Govind Ram}%
+\lyrics{I C Kapoor}%
+
+% Contributor: <Urzung Khan>, 17 Mar 2004
+
+\printtitle
+#indian
+
+tuu ne jahaa.N banaa kar ehsaan kayaa kiyaa hai
+bas khelane kaa apane saamaan kar liyaa hai
+
+lekin tere khilone aa.Nsuu bahaa rahe hai.n
+sun le pukaar unakii tujh ko bulaa rahe hai.n
+marane kii aarzuu me.n kab tab ko_ii jiyaa hai
+
+gar terii ye thii Kvaahish ham mu.Nh se kuchh na kahate
+jo naach tuu nachaataa bas naachate hii rahate
+miTTii ke but banaataa ye dil kyo.n de diyaa hai
+
+#endindian
+\endsong

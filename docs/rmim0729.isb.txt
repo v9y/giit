@@ -1,0 +1,31 @@
+% ITRANS SONG #
+
+% Arunabha S. Roy on 4/30/2004 12:11:10 PM.
+
+\startsong
+\stitle{har aas ashkabaar hai har saa.Ns beqaraar hai}%
+\film{Kinare Kinare}%
+\year{1963}%
+\starring{Dev Anand, Meena Kumari, Chetan Anand, Madhu, Ravikant}%
+\singer{Lata}%
+\music{Jaidev}%
+\lyrics{Nyay Sharma}%
+
+% Contributor: Arunabha S. Roy
+% Date: 30 Apr 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+har aas ashkabaar hai har saa.Ns beqaraar hai
+tere baGair zindagii uja.Dii hu_ii bahaar hai
+
+mai.n jaanatii huu.N bevafaa tuu lauTakar na aa_egaa
+phir bhii na jaane kyo.n mujhe teraa hii intezaar hai
+
+kisako sunaa_uu.N mai.n gilaa hai bebasii kii imtehaa.N
+naa tujh pe iKtiyaar hai naa dil pe iKtiyaar hai
+
+#endindian
+\endsong

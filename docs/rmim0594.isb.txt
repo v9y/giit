@@ -1,0 +1,41 @@
+% ITRANS SONG #
+%
+% Date: Tue, 17 Feb 2004 08:57:52 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{mai.n to naachuu chhamaa chham naach re}%
+\film{Andhon Ka Sahara}%
+\year{1948}%
+\starring{Kamla Devi, Vijay Kumar}%
+\singer{Miss Lata (not Mangeshkar)}%
+\music{Shridhar Parsekar}%
+\lyrics{Kesharinath Vaidya}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  17 feb 2004
+% Credits  :  'Hamraaz'
+% Comments : Geetanjali (urf Miss-Lata-anjali) Series.
+%    The OTHER Song Theme : Sung by some OTHER Lata.
+%    Nerurkar's book on Lata Mangeshkar has miscredited
+%    the song to her. Film - a.ndho.n kaa sahaaraa
+%
+\printtitle
+#indian
+%
+mai.n to naachuu chhamaa chham naach re
+to harii gaadii salaamat rahe
+
+tere raajame.n har Kushii chhaayii hai
+ham to jiite hai raajaa meherabaanii hai
+har dil kii yahii ek aawaaz hai
+zamii.ndaarii salaamat rahe
+
+gariibo.nke daataa, amiiro.nke raajaa
+tuu jiitaa hai to jiye saaraa zamaanaa
+har jaan tujhape qurbaan kare
+toharii gardan salaamat rahe
+%
+#endindian
+\endsong
+%

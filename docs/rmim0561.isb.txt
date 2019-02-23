@@ -1,0 +1,67 @@
+% ITRANS SONG # rmim0561; Created on Jan 26, 2004
+%
+% vinay 8/10/3
+% 
+\startsong
+\stitle{ho jaaye phir us din kaa jo waadaa hai}%
+\film{Dhan Daulat}%
+\year{1980}%
+\starring{Rajendra Kumar, Mala Sinha, Rishi Kapoor, Nitu Singh}%
+\singer{Asha, Kishore}%
+\music{R D Burman}%
+\lyrics{Majrooh}%
+% 
+% Audio on: HMV
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 10 Aug 2003
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kishor:
+ho jaaye phir us din kaa jo waadaa hai
+bolo merii raadhaa kyaa iraadaa hai
+are bolo bolo jaane jahaa.N ye maukaa milataa hai kahaa.N
+haay re aao naa yaar sharmaao naa -2
+
+aashaa:
+kho ga_ii merii chunari ghar to jaane de
+ban Than ke dobaara mujhako aane de
+are mai.n huu.N terii jaane jahaa.N nikal kar jaa_uu.Ngii kahaa.N
+haay re jaane de, lauT kar aane de -2
+
+kishor:
+tuune kiyaa jo bhii dil thaa teraa
+aramaa.N meraa bhii to nikale zaraa
+aashaa:
+jo.Duu.N mai.n haath merii shakal to dekho
+Tha.nDii se hai meraa haal buraa
+kishor:
+aajaa bedardii mausam kii sardii
+kar degaa duur merii aaho.n kaa dhuaa.N
+haay re aao naa, yaar sharmaao naa -2
+aashaa: 
+kho ga_ii..
+
+aashaa:
+jaisii tuu chaahe wo baat kahuu.N
+din ko bhii tere liye raat kahuu.N
+kishor:
+tum jo kaho to jaanii mai.n bhii tumhe.n
+din me.n sitaare dikhalaa ke rahuu.N
+aashaa:
+tere liye to ye dillagii hai
+merii to jaan chalii jaa_egii yahaa.N
+haay re jaane de, yaa to mar jaane de -2
+kishor:
+ho jaaye..
+
+aashaa:
+kho ga_ii..
+%
+#endindian
+\endsong
+%

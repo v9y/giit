@@ -1,0 +1,45 @@
+% ITRANS SONG # rmim0163; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-04 10:55:04 PST
+%
+\startsong
+\stitle{haath me.n hogii khaalii jholii}%
+\film{Pardesi}%
+\year{1941}%
+\starring{Motilal, Khursheed, Snehprabha, E Bilmoria, Kantilal}%
+\singer{Snehprabha Pradhan}%
+\music{Khemchand Prakash}%
+\lyrics{}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 04 jan 2003
+% Credits: Har Mandir Singh Sachdev (Hamraaz)
+% Comments: Geetanjali Series - film paradesii
+%    Ranjit Movietone. The song is based on Bhimpalas.
+%
+\printtitle
+#indian
+%
+haath me.n hogii khaalii jholii
+mu.Nh me.n du_aa_e.N hazaar
+daulat kaa saudaa qismat se hogaa
+jaa_uu.Ngii biich bazaar
+
+maa.nguu.Ngii daaman pasaar
+haath me.n hogii \threedots
+
+taambe kaa Tuka.Daa de de mere daataa
+taambe kaa detaa wo sone kaa paataa
+de de mere baabuu, de de mere daataa
+
+is par bhii jo dayaa nahii.n aa_ii
+toDuu.Ngii a.Nsuvan kaa haar
+jaa_uu.Ngii biich bazaar
+paanii kii qiimat me.n bechuu.Ngii motii
+karuu.Ngii anokhaa bepaar
+maa.nguu.Ngii daaman pasaar \threedots
+%
+#endindian
+\endsong
+%

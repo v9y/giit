@@ -1,0 +1,48 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{baadalo.n kii paalakii me.n ... dil hai beqaraar kyo.n}%
+\film{Jalti Nishaani/ Birbal Pakistan}%
+\year{1957}%
+\starring{Geeta Bali, Kamal Kapoor}%
+\singer{Lata, Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Qamar Jalalabadi}%
+
+% Contributor: Sathya Sekar
+% Transliterator: Sathya Sekar
+% Date: 25 Oct 2004
+% Series: Anilda series
+% Credits: Neha Desai
+% generated using giitaayan
+
+\printtitle
+#indian
+
+lataa : baadalo.n kii paalakii me.n chaa.Nd kii aa_ii baraat
+        ho rahii hai sej par taaro.n kii dulhan ban ke raat
+
+lataa : dil hai beqaraar kyo.n machale baar baar kyo.n
+        raat ashqabaar kyo.n
+mukesh : pyaar naa milaa hogaa
+	o~ pyaar naa milaa hogaa
+
+lataa : mil sakaa naa pyaar kyo.n
+	dil pe gham kaa baar kyo.n
+	haay intazaar kyo.n
+mukesh : diladaar naa milaa hogaa
+	o~ diladaar naa milaa hogaa
+
+mukesh : diladaar to mil hii jaataa hai
+	par dil ko lagaataa ko_ii nahii
+	diladaar to mil hii jaataa hai
+	chhup jaate hai.n sab deke sadaa
+        par aa.Nkh milaataa ko_ii nahii
+	chhup jaate hai.n sab deke sadaa
+mukesh : husna beqaraar kyo.n ishq se bedaar kyo.n
+	dard kaa shikaar kyo.n
+lataa : qaraar naa milaa hogaa
+	o~ qaraar naa milaa hogaa
+
+#endindian
+\endsong

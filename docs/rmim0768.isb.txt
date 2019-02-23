@@ -1,0 +1,37 @@
+% ITRANS SONG 
+
+\startsong
+\stitle{jalwaa baqadr\-e\-zarf\-e\-nazar dekhate rahe}%
+\film{? (Non Film)}%
+\year{}%
+\starring{}%
+\singer{Rafi}%
+\music{Taj Ahmed Khan}%
+\lyrics{Jigar Moradabadi} %
+
+% Contributor + Transliterator = Animesh Kumar
+% Series: Rafi Veritable Gems, Date: 15 Aug 2004
+% Credits: U V Ravindra
+
+\printtitle
+#indian
+
+jalwaa baqadr\-e\-zarf\-e\-nazar dekhate rahe
+kyaa dekhate ham unako magar dekhate rahe
+
+% [ba-qadr-e-zarf-e = to the extent of the ability of ...]
+
+laakh aaftaab paas se hokar guzar gaye
+ham baiThe i.ntazaar\-e\-sahar dekhate rahe
+
+hai.n daur\-e\-bedilii kii wo majabuuriyaa.N bhii yaad
+aa.Nkhe.n thii.n sogawaar magar dekhate rahe
+
+aisii bhii kuchh firaaq kii raate.n guzar ga_ii.n
+jaise unhii.n ko pesh\-e\-nazar dekhate rahe
+
+% for some additional couplets from this Ghazal, See
+% http://groups.google.com/groups?selm=108h0u9sk116q63%40corp.supernews.com
+
+#endindian
+\endsong

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0310; Created on Jan 26, 2004
+%
+\startsong
+\stitle{aap ne chhiin liyaa ise kyaa kahate hai.n}%
+\film{Farmaish}%
+\year{1953}%
+\starring{Bharat Bhushan, Vijayalaxmi, Kuldeep Kaur, Pran}%
+\singer{Rafi, Meena Mangeshkar}%
+\music{Husnlal-Bhagatram}%
+\lyrics{}%
+%
+% Audio on: HMV All Time Greats - Husnlal Bhagatram (2-set)
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Date: 28 Feb 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+rafii : aap ne chhiin liyaa dil ise kyaa kahate hai.n
+miinaa : ajii saahib, ise dilavaale adaa kahate hai.n
+
+rafii : chaa.Nd saa mukha.Daa jo aa.Nchal me.n chhupaa letii
+ho
+        ik jhalak me.n mujhe diivaanaa banaa detii ho
+miinaa : husnavaale isii shokhii ko hayaa kahate hai.n
+         ajii saahib, ise dilavaale adaa kahate hai.n
+
+rafii : dekhaa karatii ho hame.n duur se chorii chorii
+        paas aate hii jhukaa letii ho aa.Nkhe.n gorii
+miinaa : duniyaavaale ise iqaraar\-e\-vafaa kahate hai.n
+         ajii saahib, ise dilavaale adaa kahate hai.n
+
+rafii : aap ne chhiin liyaa dil ise kyaa kahate hai.n
+miinaa : ajii saahib, ise dilavaale adaa kahate hai.n
+%
+#endindian
+\endsong
+%

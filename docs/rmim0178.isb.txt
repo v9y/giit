@@ -1,0 +1,62 @@
+% ITRANS SONG # rmim0178; Created on Jan 26, 2004
+%
+\startsong
+\stitle{apanaa banaa ke phir kyuu.N bhulaayaa}%
+\film{Mumtaaz Mahal}%
+\year{1957}%
+\starring{Sheela Ramani, Jairaj, Agha, Veena}%
+\singer{Sudha Malhotra, Talat}%
+\music{Vinod}%
+\lyrics{Hasrat}%
+%
+% Contributor: Dhananjay Naniwadekar
+% Date: 29 Jan 2003
+% Series: GEETanjali Series.
+% Comments: Film - (Mumataaz / Mumtaz / Mumtaaz) Mahal
+% Film Dir - Raam Daryaani.
+% Prelude of the song is missing from my copy.
+%
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+% prelude - missing from my copy.
+% Its words should be available in Rakesh Pratap Singh's
+% book on Talat.
+% first few words, per hfgk, are:
+
+dar\-e\-habiib se ham \threedots
+
+su: apanaa banaa ke phir kyuu.N bhulaayaa
+dil meraa naashaad hai, haay
+aa mere sanam
+ta: o.a.a aanaa bhii chaahuu.N kaise aa_uu.N
+pehare pe sayyaad hai, haay
+teraa huu.N, terii qasam
+
+su: aa mere sanam
+ta: o.a.a teraa huu.N, terii qasam
+su: o.a.a apanaa banaa ke \threedots
+ta: haay, aanaa bhii chaahuu.N \threedots
+
+su: dil me.n hamaare dard jawaa.N hai, jawaa.N hai
+itanaa bataa de ab tuu kahaa.N hai, kahaa.N hai
+ta: merii zubaa.N par teraa bayaa.N hai
+dil bhii wahii.n hai ab tuu jahaa.N hai, jahaa.N hai
+su: kahaa.N hai? aa, mere sanam
+ta: aa.a.a teraa huu.N, terii qasam
+su: o.a.a apanaa banaa ke \threedots
+ta: haay, aanaa bhii chaahuu.N \threedots
+
+su: madahosh waade.n chaahat kii rasme.n, rasme.n
+tuune wafaa kii khaa_ii thii qasame.n, qasame.n
+ta: dekho kahii.n bewafaa naa samajhanaa
+qisamat ke maare ko apanaa samajhanaa, samajhanaa
+su: chalaa aa mere sanam
+ta: aa.a.a teraa huu.N, terii qasam
+su: o.a.a apanaa banaa ke \threedots
+%
+#endindian
+\endsong
+%

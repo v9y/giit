@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0492; Created on Jan 26, 2004
+%
+\startsong
+\stitle{dil kii baat bataae.n kis ko}%
+\film{Pakistani-Film(Chingari)}%
+\year{1964}%
+\starring{Shamim Ara,Santosh Kumar}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Qateel Shifai}%
+%
+% Contributor: <Urzung Khan>
+% Transliterator: <Urzung Khan>
+% Credits: Irfan Anwar
+% Date: November 16, 2002
+% Comments:This song is based on Bilas Khani Todi.
+%  Produced, Story, Screenplay, Direction and Music
+%  by Khurshid Anwar
+% NOOR-E-TARANNUM Series #28
+%
+\printtitle
+#indian
+%
+dil kii baat bataae.n kis ko
+ham dukh dard ke maare log
+aahe.n bhare.n to dekh ke ham ko
+ha.Ns dete hai.n saare log
+
+u.D jaate hai.n aas ke pa.nchhii
+gaa kar miiThaa giit ko_ii
+is gulashan kii riit niralii
+kis ko banaae miit ko_ii
+maa.Ngo phuul to bhar dete hai.n
+jholii me.n a.Ngaare log
+dil kii baat \threedots
+
+ko_ii kis ke dukh sukh baa.nTe
+ko_ii kis kii raah take
+dosh hai ye apanii qisamat kaa
+ham na kisii ko chaah sake
+varanaa is duniyaa me.n ho.Nge
+kaise kaise payaare log
+dil kii baat \threedots
+%
+#endindian
+\endsong
+%

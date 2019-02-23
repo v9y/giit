@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0330; Created on Jan 26, 2004
+%
+%      From: Pradip Shah (pradip_shah63@hotmail.com)
+%      Date: 2003-01-20 08:20:09 PST 
+%
+\startsong
+\stitle{hiyaa jarat rahat din rain}%
+\film{Godaan}%
+\year{1963}%
+\starring{Rajkumar, Kamini Kaushal, Mehmood}%
+\singer{Mukesh}%
+\music{Ravi Shankar}%
+\lyrics{Anjaan}%
+%
+% Contributor: Pradip Shah
+% Transliterator: U.V. Ravindra
+% Date: Jan 20, 2003
+% Series: GEETanjali, Jan 20, 2003
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+( hiyaa jarat rahat din rain ho raamaa
+jarat rahat din rain ) \-2
+
+% [hiyaa = heart (hR^idaya)]
+
+am.bvaa ki daali pe koyal bole (2)
+tanik na aavat chain O raamaa
+jarat rahat din rain
+
+baswaari mein madhur sur baaje (2)
+birhii papiharaa bolan laage
+madhure madhur madhu bain O raamaa
+jarat rahat din rain
+
+aas adhurii pyaasii oomariyaa (2)
+jaaye andheraa sunii dagariiyaa
+darat jiyaa bechain 
+darat jiyaa bechain O raamaa
+jarat rahat din rain
+hiya jarat rahat din rain O raamma
+jarat rahat din rain
+%
+#endindian
+\endsong
+%

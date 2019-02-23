@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0203; Created on Jan 26, 2004
+%
+% nani 7/23/3
+%
+\startsong
+\stitle{chhip chhip kar mat dekho jii}%
+\film{Man Ki Jeet}%
+\year{1944}%
+\starring{Neena, Geeta Nizami, Shyam, Anwar Husain, Shanta Thakkar}%
+\singer{Shanta Thakkar, Bharat Vyas}%
+\music{S K Pal}%
+\lyrics{Bharat Vyas}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 23 July 2003
+% Credits: UVR
+% Comments: Geetanjali Series
+% First post in the sub-series: The OTHER Song
+% Film - Man Kii Jiit / Based on Hardy's TESS.
+% Director - W Z Ahmad / Shalimar Pictures
+%
+\printtitle
+#indian
+%
+shaa: chhip chhip kar mat dekho jii, bha.Nwar jii
+ham ko nazar lag jaaegii
+
+bha: goraa goraa mukha.Daa tanik dekhan do
+hamarii nazar bhar jaaegii
+
+shaa: achchhaa?
+bha: ha.n
+
+shaa: dekhanaa hai to tanik sajane do
+paa.Nv ke ghu.ngharuu zaraa bajane do
+(phir to)??? kamar balakhaaegii
+
+bha: jhiramir jhiramir laharaa_e barase
+meraa jiyaa aaj tarase
+shaa: dhiire dhiire bolo
+bha: ghuu.NghaT paT kholo
+shaa: bholii dulhan sharamaaegii
+
+bha: goraa goraa mukha.Daa tanik dekhan do
+shaa: hamako nazar lag jaaegii
+bha: nazar bhar jaaegii
+shaa: nazar lag jaaegii
+%
+#endindian
+\endsong
+%

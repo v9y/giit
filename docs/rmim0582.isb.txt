@@ -1,0 +1,59 @@
+% ITRANS SONG #
+%
+% Date: Tue, 3 Feb 2004 09:10:49 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{lo shuru huii is baar ham me.n tum me.n taqaraar}%
+\film{Kashinath}%
+\year{1943}%
+\starring{Asit Baran Mukherjee, Sunanda Devi, Bharati Devi}%
+\singer{Asit Baran, Bela Mukherjee}%
+\music{Pankaj Mullick}%
+\lyrics{Pt Bhushan}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  03 Feb 2004
+% Credits  : 'Hamraaz'
+% Comments : Geetanjali Series
+%    New Theatres. Dir - Nitin Bose.
+%
+\printtitle
+#indian
+%
+be : lo shuru huii is baar
+     ham me.n tum me.n taqaraar
+     ab mere dil kaa daaG ho tum
+     kuchh nahii.n gale kaa haar
+         sunate ho?
+
+a  : achchhaa, mai.n tere dil kaa daaG sahii
+     par daaG huu.N pyaaraa pyaaraa
+     bin daaG na degaa chaa.Nd kabhii
+     Tha.nDaa miiThaa ujiyaaraa
+     kaa.NTaa na lagaa ho phuul ke saath
+     to phuul hai bilakul Kaar
+be : kyaa isii tarah kii hogii shuru
+     ham me.n tum me.n taqaraar
+
+be : ham tum me.n hameshaa tanii rahegii
+     kabhii na hogaa mel
+     bhuule to na ho.nge abhii tumhe.n
+     wo baalakapan ke khel
+     is baar magar kuchh aisii Thanegii
+     laakh banaae nahii.n banegii
+     mil kar bhii rahe.nge alag\-alag
+     jaise paanii aur tel
+a  : mai.n jaake kahii.n chhup jaauu.Ngaa
+     aur piihuu piihuu kii bol ke bolii
+     dil me.n dard uThaauu.Ngaa
+be : mai.n dil kaa dard miTaane
+     aur man kaa miit manaane
+     jhaT in charaNo.n me.n aana giruu.Ngii
+     kar ke prem pukaar
+a  : kyaa isii tarah kii hogii shuru
+     ham tum me.n taqaraar
+%
+#endindian
+\endsong
+%

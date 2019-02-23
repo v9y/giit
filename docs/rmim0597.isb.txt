@@ -1,0 +1,42 @@
+% ITRANS SONG #
+%
+%        Date:              Fri, 27 Feb 2004 10:41:33 -0800
+%       From:              "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{kaaheko nain milaaye nain milaanewaale}%
+\film{Din Raat}%
+\year{1945}%
+\starring{Snehprabha Pradhan, Paresh Banerjee, Sulochana Chaterjee, Vasant Thengdi}%
+\singer{Snehprabha Pradhan, Paresh Banerjee}%
+\music{Dada Chandekar}%
+\lyrics{Santokh Nadeem}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  27 Feb 2004
+% Credits  :
+% Comments : GEETanjali Series
+%    Din Rat / Din Raat. Navyug Chitrapat Ltd, Pune.
+%    Dir - Shori Daulatlavi. MD - Daadaa Chaa.ndekar
+%
+\printtitle
+#indian
+%
+kaaheko nain milaaye, nain milaanewaale
+torii suurat man bhaaye, nain milaanewaale
+
+aaii.n suhaanii chaa.ndanii raate.n
+aajaa balam kare.n pyaarakii baate.n
+joban biit na jaaye,  nain milaanewaale \threedots
+
+ruuTh gayii mose nindiyaa\-raanii
+basame.n nahii.n bechain jawaanii
+premakaa rog lagaaye,  nain milaanewaale \threedots
+
+chhe.D gaye ho jiivan\-viiNaa
+tujh bin ab mushkil hai jiinaa
+yaad terii ta.Dapaaye,  nain milaanewaale \threedots
+%
+#endindian
+\endsong
+%

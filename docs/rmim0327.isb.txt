@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0327; Created on Jan 26, 2004
+%
+% Date:               Wed, 28 Jan 2004 16:26:15 -0700
+% From:              Nimish Pachapurkar <nimishp@hotmail.com>
+% 
+\startsong
+\stitle{tum man kii pii.Daa kyaa samajho}%
+\film{Jeet}%
+\year{1949}%
+\starring{Suraiya, Dev Anand}%
+\singer{Suraiya}%
+\music{Anil Biswas}%
+\lyrics{Prem Dhawan}%
+% 
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 28 Jan 2004
+% Series: Anilda Series
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+tum man kii pii.Daa kyaa samajho
+tum priit nibhaanaa kyaa jaano
+tum aag lagaanaa siikhe ho
+tum aag bujhaanaa kyaa jaano
+
+tum chaahate ho ham rote rahe.n
+ro ro ke jiivan khote rahe.n
+auro.n ko rulaanaa siikhe ho
+tum aa.Nsuu bahaanaa kyaa jaano
+
+ab aur sataao naa ham ko
+lo ham haare tum jiit gae
+tum dil ta.Dapaanaa siikhe ho
+tum dil bahalaanaa kyaa jaano
+
+jis raah me.n sa.ng sa.ng chalanaa thaa
+sa.ng jiinaa thaa, sa.ng maranaa thaa
+us raah me.n akelaa chho.D gae
+tum saath nibhaanaa kyaa jaano
+tum saath nibhaanaa kyaa jaano
+%
+#endindian
+\endsong
+%

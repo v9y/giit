@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0324; Created on Jan 26, 2004
+%
+% nimish 7/23/3
+%
+\startsong
+\stitle{aa phir se mere pyaar kii qismat sa.Nwaar de}%
+\film{Baraati}%
+\year{1954}%
+\starring{Sham Kumar, Chand Usmani, Agha}%
+\singer{Lata}%
+\music{Roshan}%
+\lyrics{Jan Nisar Akhtar}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar
+% Date: 23 July 2003
+% Series: LATAnjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+aa phir se mere pyaar kii qismat sa.Nwaar de
+uja.De hue chaman ko payaam\-e\-bahaar de
+
+jab tuu nahii.n to dil bhii nahii.n iKtiyaar me.n
+ik umr kaaT dii hai tere intazaar me.n
+is beqaraar dil ko kabhii to qaraar de
+uja.De hue chaman ko \threedots
+
+kab se meraa Kayaal tere dil se duur hai
+kashtii kisii Gariib kii saahil se duur hai
+aa ab to aa ke mujh ko kinaare utaar de
+uja.De hue chaman ko \threedots
+%
+#endindian
+\endsong
+%

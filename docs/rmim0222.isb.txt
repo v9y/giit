@@ -1,0 +1,57 @@
+% ITRANS SONG # rmim0222; Created on Jan 26, 2004
+%
+% nani 9/7/3
+%
+\startsong
+\stitle{kaise rain kaTii morii aalii}%
+\film{Sanskaar/ Chhoti Bahu}%
+\year{1940}%
+\starring{Rose/Roz, Harish, Jyoti, Bhudo Advani, Satish, Wahidan}%
+\singer{Wahidan Bai, Jyoti}%
+\music{Ashok Ghosh}%
+\lyrics{Kanhaiya Lal Chaturvedi}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 07 sept 2003
+% Credits: U V Ravindra
+% Comments: Geetanjali Series
+% National Studios. Film - Sanskaar.
+%
+\printtitle
+#indian
+%
+wa: kaise rain kaTii, morii aalii
+sach sach mujhe bataa_o
+phuul kii baat chhupe na chhupaa_e
+kah do, mat sharamaa_o
+
+jyo: bhaabhii?
+wa: raanii?
+jyo: chho.Do mujhe na sataa_o
+wa: chho.Duu.Ngii mai.n tabhii sakhii jab
+raat kii baat sunaa_o
+jyo: kahuu.N?
+wa: kaho
+
+jyoti:
+jaise ki chaa.Ndanii chhiTak rahii thii
+(taaraa gaN)??? iThalaate
+mai.n jaag rahii thii, so bhii rahii thii
+chupake chupake wo aate the
+
+pavan thaa chalataa mand mand
+thar\-thar karataa thaa a.ng a.ng
+kaise kahuu.N, ab kaise kahuu.N
+
+wa: phir?
+jyo: wo chhe.D chhe.D musakaate the
+
+wahiidan:
+o ba.Dabhaagin sadaa suhaagin
+nit nit ye sukh paa_o
+o ba.Dabhaagin sadaa suhaagin
+nit nit ye sukh paa_o
+%
+#endindian
+\endsong
+%

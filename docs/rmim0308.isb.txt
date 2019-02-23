@@ -1,0 +1,42 @@
+% ITRANS SONG # rmim0308; Created on Jan 26, 2004
+%
+% From: Nimish (WarAgainstSpam@asu.edu)                   Message 1 in thread
+% Date: 2003-02-19 11:37:59 PST                        View this article only
+%
+\startsong
+\stitle{phir pyaar kiyaa phir royaa}%
+\film{non-Film}%
+\year{}%
+\starring{}%
+\singer{Talat}%
+\music{Anil Biswas}%
+\lyrics{Sajjan}%
+%
+% Contributor: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Transliterator: Nimish Pachapurkar <nimishp @ hotmail.com>
+% Date: 19 Feb 2003
+% Series: Anilda Series # 11
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+phir pyaar kiyaa phir royaa
+phir pyaar kiyaa phir royaa
+kyaa tadabiire.n kaam kare.n jab apanaa nasiibaa soyaa
+
+ghaav puraanaa abhii haraa hai, chhalanii saa dil dard bharaa hai
+phir kar baiThaa maha.ngaa saudaa jis me.n sab kuchh khoyaa
+phir pyaar kiyaa \threedots
+
+zabt kaa daavaa TuuT gayaa hai, sapano.n kaa ghar TuuT gayaa hai
+aramaano.n kaa ret\-mahal phir tuufaano.n ne dhoyaa
+phir pyaar kiyaa \threedots
+
+phir pyaar kiyaa phir royaa
+phir pyaar kiyaa phir royaa
+kyaa tadabiire.n kaam kare.n jab apanaa nasiibaa soyaa
+%
+#endindian
+\endsong
+%

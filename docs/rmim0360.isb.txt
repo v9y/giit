@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0360; Created on Jan 26, 2004
+%
+\startsong
+\stitle{chal baadalo.n se aage kuchh aur hii samaa hai}%
+\film{Ek Jhalak}%
+\year{1957}%
+\starring{Vyjayantimala, Pradeep Kumar, Anita Guha, Rajendra Kumar, Pran}%
+\singer{Hemant, Asha}%
+\music{Hemant}%
+\lyrics{S H Bihari}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Availablity: HMV CD Magic Moments Hemant Kumar
+% Date: April 12, 2002
+%
+\printtitle
+#indian
+%
+he: (chal baadalo.n se aage
+kuchh aur hii samaa hai
+har chiiz hai niraalii
+har zi.ndagii javaa.N hai ) \- 2
+
+aa: (jise dekhane ko merii
+aa.Nkhe.n taras rahii hai.n ) \- 2
+vo jagah jahaa.N se haradam
+ujalaa baras rahii hai
+merii Kvaab kii vo duniyaa
+batalaa_o to kahaa.N hai
+har chiiz hai niraalii
+har zi.ndagii javaa.N hai
+
+he: chal baadalo.n se aage \threedots
+%
+#endindian
+\endsong
+%

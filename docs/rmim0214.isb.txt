@@ -1,0 +1,38 @@
+% ITRANS SONG # rmim0214; Created on Jan 26, 2004
+%
+% nani 8/10/3
+%
+\startsong
+\stitle{tay kar ke ba.Dii duur kii purapech Dagariyaa}%
+\film{Pehli Nazar}%
+\year{1945}%
+\starring{Motilal, Veena, Munawwar Sultana, B Pendharkar, Bibbo, Balakram, Kukku}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 10 Aug 2003
+% Credits: UVR
+% Comments: Anilda Series
+% 'The OTHER Song' Theme / pahalii nazar
+% Mukesh's OTHER solo in 'Pehli Nazar'
+%
+\printtitle
+#indian
+%
+tay kar ke ba.Dii duur kii purapech Dagariyaa
+ai ishq chale aae hai.n ham terii nagariyaa
+
+laharaae.n hawaa_o.n me.n hasiino.n ke dupaTTe
+aae hame.n lene ke li_e tirachhii nazariyaa
+
+ho saamane saj dhaj ki_e maashuuq se majame
+sab aake kahe.n aa_o mere baa.Nke sa.Nvariyaa
+
+parades se ik aayaa hai dil bechane waalaa
+ai husn terii aaj to khul jaa_e bajariyaa
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0349; Created on Jan 26, 2004
+%
+% From: P Dasgupta (prithvi_dg@yahoo.com)
+% Date: 2001-11-07 20:56:48 PST 
+%
+\startsong
+\stitle{uThe to chale avadhuut}%
+\film{Jogan}%
+\year{1950}%
+\starring{Nargis, Dilip Kumar}%
+\singer{Geeta, Male voice}%
+\music{Bulo C Rani}%
+\lyrics{Meerabai}%
+%
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Comment: Bulo C Rani later recalled that the male singer was
+%          a relative of Khemchand Prakash. - Dhananjay Naniwadekar
+%
+\printitle
+#indian
+%
+pu: uThe to chale avadhuut
+gii: marii mai.n ko_ii na biraaje
+uThe to chale avadhuut
+gii/pu: uThe to chale avadhuut
+
+gii: panthii thaa so panth siidhaaraa
+aasan pa.Dii hai bhabuut
+pu: sa.ngii snehii ko_i na apanaa
+sar par jam kaa duut
+
+gii: miiraa ke prabhuu ba.ndhan jhuuThaa
+TuuTaa kaa.Nchaa suut
+pu: TuuTaa kaa.Nchaa suut
+gii: uThe to chale avadhuut
+gii/pu: uThe to chale avadhuut
+%
+#endindian
+\endsong
+%

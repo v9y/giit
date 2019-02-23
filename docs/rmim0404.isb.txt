@@ -1,0 +1,51 @@
+% ITRANS SONG # rmim0404; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2001-04-12 15:46:03 PST                        
+%
+\startsong
+\stitle{pyaar banake ... aaj meraa dil kisii pe aa gayaa}%
+\film{Vidya}%
+\year{1948}%
+\starring{Dev Anand, Suraiyya}%
+\singer{Lalita Dewoolkar}%
+\music{S D Burman}%
+\lyrics{}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator: Srinivas Ganti
+% Date:12 April 2001
+% Comments:SDB series
+%
+\printtitle
+#indian
+%
+oo~ pyaar banake
+pyaar banake mujh pe koii chaa gayaa,chaa gayaa re
+aaj meraa dil kisii pe aa gayaa
+aaj meraa dil,aaj meraa dil kisii pe aag ayaa
+
+o nai.no.n kii nii.nd merii le gayaa re le gayaa
+miiTha miiTha dard dil me.n de gayaa re de gayaa
+oo~ luT ga_ii
+luT ga_ii re mai.n,kisii kaa kyaa gayaa,kyaa gayaa re
+aaj meraa dil \threedots
+
+(baahe.n ? khule aaj kha.Dii,priit divaanii
+aaj mere bas me.n nahii.n, merii javaanii
+haay merii javanii)\-2
+oo~ dil mere
+dil mere pahaluu se gayaa,gayaa gayaa haay gayaa re
+aaj meraa dil \threedots
+
+(aa.Nkho.n se aa.Nkh milii
+kaliyo.n ki paas khilii
+jiivan me.n aa_ii bahaar)\-2
+oo~ dil kii kalii
+dil kii kalii,aaj bha.nvaraa paa gayaa paa gayaa re
+aaj meraa dil \threedots
+oo~ pyaar banake
+%
+#endindian
+\endsong
+%

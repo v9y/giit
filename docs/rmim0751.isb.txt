@@ -1,0 +1,93 @@
+% ITRANS SONG #
+
+% From: "Balaji Murthy" <bmurthy@yahoo.com>
+% Date: Thu, 29 Aug 2002 17:08:29 -0700
+
+\startsong
+\stitle{jab dukh kii gha.Diyaa.N aaye.n ... buddham sharanam gachchhami}%
+\film{Angulimaal}%
+\year{1960}%
+\starring{Bharat Bhushan, Nimmi, Anita Guha, Ulhaas}%
+\singer{Manna Dey, Asha?, Chorus}%
+\music{Anil Biswas}%
+\lyrics{Bharat  Vyas}%
+
+% Contributor: Devendra Sharma (devmbox@yahoo.com)
+% Date: 29 Aug 2002
+% Credits: Balaji Murthy
+
+% Kosh does not mention any female voice in the song.
+
+% the movie was produced in 1960 by Thai International Society,
+% director was Vijay Bhatt
+% The lyrics aren't complete. I haven't seen all the parts on any
+% recent (last 20 yrs) release by HMV. The song IIRC was filmed 
+% in 5 parts in the movie.
+% In part 3, the first portion is by Asha and the second by Manna.
+% The rest of the song is by Manna Dey.
+
+\printtitle
+#indian
+
+% Part 1
+ma:
+buddham saraNam gachchhaamii,
+dham{}mam saraNam gachchhaamii,
+sa.ngham saraNam gachchhaamii.
+
+ghabaraae jab man anamol,
+hRiday ho uThe Daa.NvaaDol,
+
+ghabaraae jab man anamol,
+aur hRiday ho Da.NvaaDol,
+tab maanav tuu mukh se bol,
+buddham saraNam gachchhaamii.
+
+jab ashaa.nti kaa raag uThe, laal lahuu kaa phaag uThe,
+hi.nsaa kii vo aag uThe, maanav me.n pashu jaag uThe,
+uupar se muskaate nar, bhiitar zahar rahe.n ho.n ghol.
+tab maanav tuu mukh se bol, buddham saraNam gachchhaamii.
+
+% Part 2
+
+jab duHkh kii gha.Diyaa.N aa_e.N
+sach par jhuuTh vijay paa_e
+is nirmal paavan man par
+jab kala.nk ke ghan chhaa_e.N
+anyaayo.n kii aa.Ndhii me.n
+kaan uThe jab tere Dol
+
+% Part 3
+
+% Female Voice
+
+ruuTh gayaa jab sun ne vaalaa
+kis se karuu.N pukaar
+pyaar kahaa.N pahachaan sakaa ye
+ye nirday sa.nsaar
+
+ma:
+nirdayataa jab le le dhaam
+daya hu_ii ho antaryaam
+jab ye chhoTaa saa i.nsaan
+bhuul rahaa apanaa bhagavaan
+satya teraa jab ghabaraa_e
+shradhdhhaa ho jab Daa.NvaaDol
+
+% Part 4
+jab duniyaa se pyaar uThe, nafarat kii diivaar uThe,
+maa.N ki mamataa par jis din, beTe kii talawaar uThe,
+dharatii kii kaayaa kaa.Npe, a.nbar Dagamag uThe Dol,
+tab maanav tuu mukh se bol, buddham saraNam gachchhaamii.
+
+% Part 5
+duur kiyaa jis ne jan\-jan ke vyaakul man kaa a.ndhiyaaraa,
+jisakii ek kiran ko chhuukar chamak uThaa ye jag saaraa,
+
+diip saty kaa sadaa jale, dayaa ahi.nsaa sadaa phale,
+sukh shaa.nti kii chhaayaa me.n jan\-gan\-man kaa prem pale,
+bhaarat ke bhagawaan buddha kaa guu.nje ghar\-ghar ma.ntr amol,
+he maanav nit mukh se bol, buddham saraNam gachchhaamii.
+%
+#endindian
+\endsong

@@ -1,0 +1,57 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{haiyaa re haiyaa ... ye duniyaa ek saagar hai}%
+\film{Bandish}%
+\year{1955}%
+\starring{Ashok Kumar, Meena Kumari, Daisy Irani, Bipin Gupta, Mehmood, Nazir Hussain, Shammi}%
+\singer{Hemant, Chorus}%
+\music{Hemant}%
+\lyrics{Prem Dhawan}%
+% 
+% Audio on: HMV cassette Bandish/Anjaan sndtrk
+% Contributor: Prithviraj Dasgupta
+% Transliterator: Prithviraj Dasgupta
+% Date: 17 Aug 2004
+% Series: GEETanjali
+% Comments: Background (Akashvani) song. Movie was Hindi version
+% of Bengali film 'chhele kaar'.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+ko: haiyaa re haiyaa haiyaa ho
+    haiyaa re haiyaa haiyaa ho
+
+he: (ye duniyaa ek saagar hai
+    ye jiivan hai ek naiyaa
+    tuufaano.n se kyaa Darataa
+    jab teraa raam rakhaiyaa) \-2
+ko: haiyaa re haiyaa haiyaa ho
+    haiyaa re haiyaa haiyaa ho
+
+he: (ek lahariyaa ek jaa_e
+    kabhii ruke na paanii
+    rukanaa maut kaa naam jagat me
+    chalanaa zi.ndagaanii) \- 2
+ko: haiyaa ho re ho
+    haiyaa ho re ho
+he: jab tak saa.Ns hai tere tan me
+    chalataa jaa re bhaiyaa
+ko: haiyaa re haiyaa haiyaa ho
+    haiyaa re haiyaa haiyaa ho \threedots
+
+he: (pag do pag ik saath chale.n
+    phir bichha.D jaa_e.N sab saathii
+    aaKir apanii himmat hii bas
+    apane saath rah jaatii) \- 2
+ko: haiyaa ho re ho
+    haiyaa ho re ho
+he: do baazu patavaar banaake
+    ba.Dataa jaa re khevaiyaa
+ko: haiyaa re haiyaa haiyaa ho
+    haiyaa re haiyaa haiyaa ho \threedots
+%
+#endindian
+\endsong

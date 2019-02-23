@@ -1,0 +1,48 @@
+% ITRANS SONG # rmim0216; Created on Jan 26, 2004
+%
+% nani 8/18/3
+%
+\startsong
+\stitle{jaagaa kiraNo.n waalaa}%
+\film{Chitralekha}%
+\year{1941}%
+\starring{Mehtab, Nandrekar, Gyaanii, Ramdulari, Leela Mishra, Bharat Bhushan}%
+\singer{Ramdulari, Rajendra Singh, Siddheshwar Mukherjee}%
+\music{A S Gyaanii}%
+\lyrics{Kidar Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 18 august 2003
+% Credits: Hamraaz
+% Comments: Geetanjali Series
+% chitralekhaa - 1941. Dir - Kaeioudar Sharma.
+% The song, like most others in the film, is in Bhairavi.
+% 'rut aaye rut jaaye paakhii' is NOT in Bhairavi.
+% co-md - Jhande Khan.
+% Production: Film Corp of India, Calcutta.
+%
+\printtitle
+#indian
+%
+## raa - Ramdulari. pu - dono.n puruSh. ##
+
+raa: jaagaa kiraNo.n waalaa
+pu: chaaro aur ujaalaa
+raa: aa.Nkhe.n kholo nand ke laalaa
+pu: jaagaa kiraNo.n waalaa
+
+raa: chhaachh bilole maiyaa
+pu: amR^it dohavat bhaiyaa
+raa: dhunak dhunak dhunakaiyaa re haa.N
+pu: bhor bha_ii, ban Dhor chale
+sab jhaa.Njhaniyaa jhanakaae
+raa: chakkii raag sunaae
+uukhal aur muusal hamajolii
+ghaaT pai su.ndariyo.n kii Tolii
+raadhaa se gaagariyaa bolii
+pu: kyo.n brij baalaa
+sab: kahaa.N gayaa teraa baa.Nsurii waalaa?
+%
+#endindian
+\endsong
+%

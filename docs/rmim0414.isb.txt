@@ -1,0 +1,47 @@
+% ITRANS SONG # rmim0414; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (g#a#n#t#i#s#r#i#@hotmail.com)     
+% Date: 2002-11-12 22:30:53 PST                        
+%
+\startsong
+\stitle{kyaa ye zi.ndagii hai}%
+\film{Ye Gulistaan Hamara}%
+\year{1973}%
+\starring{Dev Anand, Sharmila Tagore}%
+\singer{Lata Mangeshkar, S D Burman & Chorus}%
+\music{S D Burman}%
+\lyrics{}%
+\Comments: SDB series
+%
+%Contributor:Srinivas Ganti
+%Transliterator:Srinivas Ganti
+%Date December 23, 2001
+\printtitle
+#indian
+lataa: (kyaa ye zi.ndagii hai, kaisii bebasii hai
+bolo kyuu.N kha.De ho gumasum) \-2
+
+##SDB##: (? na re naa)\-2
+
+lataa: sadiyo.n se yuu.N hii sar pe dukhataa bojh uThaaye
+in parabato.n pe ham chal rahe hai.n, bhuukhe na.nge pyaase
+laao haath, apane saath
+laao haath apane saath, chalke dekho do kadam tum
+kyaa ye zi.ndagii hai \threedots
+
+kitanii hai duurii, ham pa.De piiche, tum ba.Dhe aage
+tumhe.n chhuu naa paaye.n, tumhe.n chhuu bhii le.n to, Thukaraaye jaaye.n
+apanaa mel, nahii.n khel
+apanaa mel nahii.n khel, o baabuu kahaa.N ham kahaa.N tum
+kyaa ye zi.ndagii hai \threedots
+
+##SDB##:(? na re naa)\-2
+
+ham ne ye maanaa, ham to bure hai.n, hamane kii buraaii
+tum to bhale ho, tumane hamarii, kii hai kyaa bhalaaii
+samajhaao, sikhalaao
+samajhaao sikhalaao, gale se lagaake hame.n tum
+kyaa ye zi.ndagii hai \threedots
+%
+#endindian
+\endsong

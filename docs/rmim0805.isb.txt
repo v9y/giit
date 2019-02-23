@@ -1,0 +1,46 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{ek do tiin chaar paa.Nch chhe aur saat}%
+\film{Sanjog}%
+\year{1972}%
+\starring{Mala Sinha, Amitabh Bachchan, Aruna Irani}%
+\singer{Kishore}%
+\music{R D Burman}%
+\lyrics{Anand Bakshi}%
+%
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 24 Sep 2004
+% Series: GEETanjali, THGHT
+% generated using giitaayan
+%
+\printtitle
+#indian
+
+ek do tiin chaar paa.Nch chhe aur saat
+saat saathii khel khele.n chhuuT na jaaye saath
+
+( ga_ii o ga_ii o ga_ii ga_ii ga_ii
+piilii jisakii saa.Dii
+nikalii ba.Dii anaa.Dii
+rah gae chhe khilaa.Dii ) -2
+ek haare ek jiite sharam kii kyaa hai baat -2
+chhe saathii khel khele.n chhuuT na jaaye saath
+
+( ga_ii o ga_ii o ga_ii ga_ii ga_ii
+niilii jisakii a.Nkhiyaa.N
+miiThii jisakii batiyaa 
+raha ga_ii paa.Nch hii sakhiyaa.N) -2
+ek haare ek jiite sharam kii kyaa hai baat -2
+paa.Nch saathii khel khele.n chhuuT na jaaye saath
+
+( ga_ii o ga_ii o ga_ii ga_ii ga_ii
+naam thaa jisakaa raakhii
+jisane kii chaalaakii
+raha ga_ii tiin hii baakii )
+ek haare ek jiite sharam kii kyaa hai baat -2
+tiin saathii khel khele.n chhuuT na jaaye saath
+
+#endindian
+\endsong

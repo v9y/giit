@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0202; Created on Jan 26, 2004
+%
+% nani 7/22/3
+%
+\startsong
+\stitle{gokul kii ek naar chhabiilii jamunaa taT par aa_ii re}%
+\film{Veena}%
+\year{1948}%
+\starring{Sulochana Chatterji, Rahman, Veera, Yakub, Hemawati}%
+\singer{Mukesh}%
+\music{Anil Biswas}%
+\lyrics{Swami Ramanand}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 22 July 2003
+% Comments: Anilda Series: veena / viiNaa
+%
+\printtitle
+#indian
+%
+gokul kii ek naar chhabiilii
+jamunaa taT par aa_ii re
+
+goraa badan aur patalii kamariyaa
+chaal chalat iThalaa_ii re
+pag paayal ne runu\-jhunu runu\-jhunu
+miiThe sur me.n gaa_ii re
+
+puravaiyaa ne chhe.D ke saa.Dii
+sar se kuchh sarakaaii re
+choTii khul ke laharaaii hai
+jyuu.N naagan balakhaaii re
+
+it ut Dhuu.N.Dhe apane pii ko
+sudh budh kuchh bisaraaii re
+maano raadhe prem kii muurat
+Dhuu.N.Dhe kR^iShNa kanhaaii re
+%
+#endindian
+\endsong
+%

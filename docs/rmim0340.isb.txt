@@ -1,0 +1,50 @@
+% ITRANS SONG # rmim0340; Created on Jan 26, 2004
+%
+\startsong
+\stitle{aap se maine meri jaan muhabbat ki hai}%
+\film{Yeh Raat Phir Na Aayegi}%
+\year{1966}%
+\starring{Biswajeet, Sharmila Tagore}%
+\singers{Rafi, Asha}%
+\music{O P Nayyar}%
+\lyrics{S H Bihari}%
+% 
+% Contributor: Pradip Shah
+% Transliterator: Pradip Shah
+% Date: 21 Feb 2003
+% Series: GEETanjali
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+rafI:   aap se mai.nne merii jaan muhabbat kii hai
+        aap chaahe.n to merii jaan bhii le sakatii hai
+        aap jab hai to mere paas meraa sab kuchh hai
+        jaan kyaa chiiz hai iimaan bhii le sakatii hai
+        aap se mai.nne \threedots
+
+rafI:   aap ko mai.nne muhabbat kaa Kudaa samajhaa hai
+        aap kahiye ke mujhe aapane kyaa samajhaa hai
+        zi.ndagii kyaa hai muhabbat kii maherabaanii hai
+        dard ko mai.nne haqiiqat me.n davaa samajhaa hai
+        aap se mai.nne \threedots
+
+Ashaa:   dil vo hii hai jo sadaa giit vafaa ke gaaye.n
+        pyaar karataa ho jise pyaar hii karataa jaaye
+        sai.nka.Do.n saal ke jiine se hai.n bahetar vo gha.Dii
+        haath me.n haath ho jab yaar kaa, maut aa jaaye
+        aap se mai.nne merii jaan muhabbat kii hai
+        aap chaahe.n to merii jaan bhii le sakate.n hai.n
+
+Ashaa:   aap jab hai to mere paas meraa sab kuchh hai
+        jaan kyaa chiiz hai iimaan bhii le sakatii hai
+        aap se mai.nne  \threedots
+
+rafI:   aap jab hai to mere paas meraa sab kuchh hai
+        jaan kyaa chiiz hai iimaan bhii le sakatii hai
+        aap se mai.nne \threedots
+%
+#endindian
+\endsong
+%

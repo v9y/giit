@@ -1,0 +1,39 @@
+% ITRANS SONG # rmim0103; Created on Jan 26, 2004
+%
+% arunabha 4/30/3
+%
+\startsong
+\stitle{mere saath chale naa saayaa}%
+\film{Kitaab}%
+\year{1977}%
+\starring{Uttam Kumar, Vidya Sinha, Master Raju}%
+\singer{Sapan Chakraborty}%
+\music{R D Burman}%
+\lyrics{Gulzar}%
+%
+% Contributor: Arunabha S. Roy
+% Transliterator: Arunabha S. Roy
+% Date: Apr 30, 2003
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+mere saath chale naa saayaa
+dharam nahii.n, karam nahii.n, janam ga.Nvaayaa
+
+(mere liye din bhii a.Ndheraa
+mere liye raat bhii na laaye saveraa ) \-2
+jo de ujaalaa de saveraa \-2
+vahii meraa hamasaayaa
+dharam nahii.n karam nahii.n \threedots
+
+(mere liye jagat sautelaa
+bharii hu_ii bhii.D me.n bhii rahaa akelaa) \-2
+jo de sahaaraa, de kinaaraa \-2
+vahii meraa hamasaaya
+dharam nahii.n, karam nahii.n \threedots
+%
+#endindian
+\endsong
+%

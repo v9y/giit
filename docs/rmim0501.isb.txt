@@ -1,0 +1,37 @@
+% ITRANS SONG # rmim0501; Created on Jan 26, 2004
+%
+% From: Urzung Khan (urzung@hotmail.com)
+% Date: 2003-01-06 17:19:38 PST
+%
+\startsong
+\stitle{biga.Dii merii banaa do ai shaah\-e\-madinaa}%
+\film{Nateeja}%
+\year{1947}%
+\starring{Rehana, Shamim, Yakub}%
+\singer{Parul Ghosh}%
+\music{Rashid Atre}%
+\lyrics{Nakshab}%
+%
+% Contributor: <Urzung Khan>, 2003-01-06
+%
+\printtitle
+#indian
+%
+biga.Dii merii banaa do ai shaah\-e\-madiinaa
+aafat ke bha.Nwar me.n hai muqaddar kaa safiinaa
+
+big.Dii hu_ii tum maulaa taqadiir banaate ho
+duniyaa ko musiibat se aafat se chhu.Daate ho
+Gam se mujhe chhu.Daa do yaa shaah\-e\-madiinaa
+yaa shaah\-e\-madiinaa
+biga.Dii merii banaa do \threedots
+
+majabuur huu.N bekas huu.N jaauu.n to kahaa.N jaauu.n
+kis tarah qaraar aae kis tarah sukuu.N paauu.n
+itanaa mujhe bataa do yaa shaah\-e\-madiinaa
+yaa shaah\-e\-madiinaa
+biga.Dii merii banaa do \threedots
+%
+#endindian
+\endsong
+%

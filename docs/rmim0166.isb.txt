@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0166; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2003-01-06 04:30:39 PST                               
+%
+\startsong
+\stitle{suukhii bagiyaa harii hu_ii}%
+\film{Hamari Baat}%
+\year{1943}%
+\starring{Devika Rani, Jairaj, Mumtaz Ali, David, Suraiya, Rajkumari Shukla, (which?) Raj Kapoor }%
+\singer{Parul Ghosh, Male Voice}%
+\music{Anil Biswas}%
+\lyrics{Narendra Sharma}%
+%
+% Contributor: dhananjay naniwadekar
+% Date: 06 jan 2003
+% Credits: Har Mandir Singh 'Hamraaz'
+% Comments: I am starting 'Anilda Series' with this song.
+%    'Bombay Talkies' Film.
+%
+\printtitle
+#indian
+%
+suukhii bagiyaa harii hu_ii
+ab suukhii bagiyaa harii hu_ii
+ghan shyaam badariyaa chhaa_ii re
+shyaam badariyaa chhaa_ii
+
+Daal Daal nav pallav jhuule
+biitii baato.n ko man bhuule
+jiivan kii ritii nadiyaa me.n
+na_ii tara.ng laharaa_ii re
+    shyaam badariyaa chhaa_ii   \threedots
+
+na_ii lahariyo.n me.n bahataa jal
+na_ii na_ii rut, naye phuul phal
+naye gulo.n ke gaalo.n par
+nanhii.n shabanam musakaa_ii re
+    shyaam badariyaa chhaa_ii   \threedots
+%
+#endindian
+\endsong
+%

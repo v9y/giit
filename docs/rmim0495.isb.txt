@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0495; Created on Jan 26, 2004
+%
+% From: Urzung Khan ("_urzung"@hotmail.com)
+% Date: 2002-11-30 15:00:20 PST
+%
+\startsong
+\stitle{laT ulajhii sulajhaa re baalam}%
+\film{Pakistani-Film(Sawaal)}%
+\year{1966}%
+\starring{Sabiha}%
+\singer{Noorjehan}%
+\music{Rashid Atre}%
+\lyrics{Faiyaz Hashmi}%
+%
+% Contributor: <Urzung Khan>, 2002-11-30
+% Comments: The song is said to be based on raga Malgunji.
+%
+\printtitle
+#indian
+%
+laT ulajhii sulajhaa jaa re baalam
+mai.n naa lagaa_u.Ngii haath re
+chaa.Nd se muKa.De ko naagan zulafe.n
+chaahe Dase.n saarii raat re
+laT ulajhii sulajhaa jaa re baalam \threedots
+
+pahle ham ko chhe.D rahii thii julmii havaa masataanii
+man kii batiyaa.n likhane beThii, jal ga_ii ye diivaanii
+bairan laT kayaa to.D sake gii teraa meraa saath re
+laT ulajhii sulajhaa jaa re baalam \threedots
+
+jaise cha.Nchal maujo.n se jab cha.Ndanii milane aae
+dekh sake na kaari badariyaa chaa.N d ke aa.De aae
+sun o paglii payaar ke dushaman khaa jaate hai.n maat re
+laT ulajhii sulajhaa jaa re baalam \threedots
+
+aaj ye mere man ko jalaa_e merii ek na maane
+kal ye tere bas me.n hogii baa.Nwarii ye naa jaane re
+is nuT\-khaT ko sau bal denaa, aa_e jo tere haath re
+laT ulajhii sulajhaa jaa re baalam \threedots
+%
+#endindian
+\endsong
+%

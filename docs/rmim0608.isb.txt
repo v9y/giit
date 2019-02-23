@@ -1,0 +1,55 @@
+% ITRANS SONG #
+%
+%        Date:               22 Feb 2004 11:59:20 -0800
+%        From:               pulkit_sadabahar@yahoo.com (Pulkit)
+%
+\startsong
+\stitle{sun pagalii pavan}%
+\film(Salam-E-Mohabbat (Pakistani-Film)}%
+\year{1971}%
+\starring{Zeba, Mohammad Ali}%
+\singer{Noorjehan}%
+\music{Khurshid Anwar}%
+\lyrics{Qateel Shifai}%
+%
+% Contributor :Pulkit Sharma (pulkit_sadabahar@yahoo.com)
+% Transliterator :Pulkit Sharma (pulkit_sadabahar@yahoo.com)
+% Date :23 february 2004
+% Series :NOOR-E-TARANNUM
+%
+/printtitile
+#indian
+%
+sun pagalii pavan sun u.Datii ghaTaa \-2
+mere ang ang se har umang se
+kaliyaa.N chiTakane kii aatii hai sadaa
+sun pagalii pavan sun u.Datii ghaTaa
+sun pagalii pavan
+
+hai mast fazaa man puuCh rahaa
+aa_ii.n saa.Nvarii ghaTaae.N kis or se
+mausam hai hasii.n Chup Chup ke kahii.n
+gaae baa.Nvarii koyal ba.De zor se
+gaae giit pyaar ke intezaar ke
+naGame.n barasate hai.n hotaa hai nashaa
+sun pagalii pavan sun u.Datii ghaTaa \-2
+mere ang ang se har umang se
+kaliyaa.N chiTakane kii aatii hai sadaa
+sun pagalii pavan sun u.Datii ghaTaa
+sun pagalii pavan
+
+bijalii kii chamak dikhalaae jhalak
+u.Duu.N baadalo.n ke sang sang jhuum ke
+jhuulaa hai meraa rangiin dhanak
+niile aasmaan ko aa_ii huu.N mai.n chuum ke
+dil thaam thaam luu.N pii kaa naam luu.N
+apane ta.Dapane kaa letii huu.N mazaa
+sun pagalii pavan sun u.Datii ghaTaa \-2
+mere ang ang se har umang se
+kaliyaa.N chiTakane kii aatii hai sadaa
+sun pagalii pavan sun u.Datii ghaTaa
+sun pagalii pavan
+%
+#endindian
+/endsong
+%

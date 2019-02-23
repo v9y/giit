@@ -1,0 +1,33 @@
+% ITRANS SONG # rmim0159; Created on Jan 26, 2004
+%
+% From: naniwadekar (nani3skip45@hotmail.com)
+% Date: 2002-12-02 00:58:04 PST
+%
+\startsong
+\stitle{aaye bhii wo gaye bhii wo}%
+\film{Namaste}%
+\year{1943}%
+\starring{R Wasti, Protima Dasgupta, Jagdish Sethi}%
+\singer{Parul Ghosh}%
+\music{Naushad}%
+\lyrics{D N Madhok}%
+%
+% Contributor: dhananjay naniwadekar
+% Date:  02 dec 2002
+% Comments: Geetanjali series; Kardar Productions Film
+%
+\printtitle
+#indian
+%
+aaye bhii wo, gaye bhii wo,   khatm fasaanaa ho gayaa
+mere liye to maut kaa         haay bahaanaa ho gayaa
+
+dard jaraa sa.nbhalane de     pahaluu mujhe badalane de
+meraa kahaa.N rahaa hai dil   teraa Thikaanaa ho gayaa
+
+aa.Nkho.n kaa khel khel ke    aa.Nkhe.n churaa ke chal diye
+dil kii lagii lagii rahii     dil kaa lagaanaa ho gayaa
+%
+#endindian
+\endsong
+%

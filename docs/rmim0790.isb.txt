@@ -1,0 +1,33 @@
+% ITRANS SONG
+%
+\startsong
+\stitle{soch rahaa huu.n ka_ii dino.n se}%
+\film{? (Non-Film)}%
+\year{}% 
+\starring{}%
+\singer{S B John}%
+\music{}%
+\lyrics{Ambar Chughtai}%
+
+% Contributor: <Urzung Khan>, 13 Sep 2004
+% Transliterator:  
+\printtitle
+#indian
+
+soch rahaa huu.n ka_ii dino.n se
+kaise tumhe.n samajhaa_uu.n
+dil kii baat bataa_uu.n
+soch rahaa huu.n \threedots
+
+aa.nkhe.n bhiigii rahatii hai.n
+haule haule bahatii hai.n
+chupake se kuchh kahatii hai.n
+soch rahaa huu.n \threedots
+
+ban hai yaa ghar\-aa.ngan hai
+suunaa suunaa jiivan hai
+tan\-man hai yaa jaalaa hai
+soch rahaa huu.n \threedots
+
+#endindian
+\endsong

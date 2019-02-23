@@ -1,0 +1,46 @@
+% ITRANS SONG
+
+% Date: 19 Oct 2004 03:51:33 -0700
+% From: nanhafarishta@yahoo.co.in (Surma Bhopali)
+
+\startsong
+\stitle{tuu aas kaa diipak jalaa}%
+\film{Jai Mahaalaxmi Maa}%
+\year{1976}%
+\starring{Ashish Kumar, Anita Guha, Jagdeep}%
+\singer{Rafi}%
+\music{Chitragupt}%
+\lyrics{Bharat Vyas}%
+ 
+% Contributor: Surma Bhopali
+% Transliterator: Surma Bhopali
+% Date: 19 Oct 2004
+% Series: GEETanjali
+% generated using giitaayan
+% Credits: Prithviraj Dasgupta: For providing pstats
+
+\printtitle
+#indian
+
+tuu aas kaa diipak jalaa
+ke teraa bhagawaan karegaa bhalaa
+ke teraa bhii din aayegaa re
+a.ndheraa saaraa miT jaayegaa re
+tuu aas kaa diipak jalaa
+
+( sR^iShTi kaa niyam hai pyaare
+har dam rahataa naa a.ndheraa ) -2
+koii aisii raat na hotii
+hotaa nahii.n jisakaa saveraa
+dukh sukh kaa yahii silasilaa
+ke teraa bhagawaan karegaa bhalaa \.\.\.
+
+( kaShTo.n se na jo ghabaraae
+phal usako milaa karataa hai ) -2
+jab sau sau kaa.NTe.n chubhate
+tab phuul khilaa karataa hai
+vishwaas kii jyoti jalaa
+ke teraa bhagawaan karegaa bhalaa \.\.\.
+
+#endindian
+\endsong

@@ -1,0 +1,43 @@
+% ITRANS SONG # rmim0245; Created on Jan 26, 2004
+%
+% george thomas 11/12/3
+%
+\startsong
+\stitle{##i'm falling in love with a stranger##}%
+\film{Deewaar}%
+\year{1975}%
+\starring{Amitabh Bachchan, Parveen Babi, Shashi Kapoor, Neetu Singh, Nirupa Roy}%
+\singer{Ursula}%
+\music{R D Burman}%
+\lyrics{R D Burman}%
+%
+% Audio On: Polygram/MIL
+% Contributor: George Thomas (georgethomas at despammed dot com)
+% Transliterator: George Thomas (georgethomas at despammed dot com)
+% Date: 12 Nov, 2003
+% Series: Tere Hamsafar Geet Hain Tere (THGHT)
+% Comments: This song can be heard in the background when Amitabh
+%           meets Parveen Babi in the hotel for the first time.
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+(i'm falling in love with a stranger) \-2
+the night tonight has a flavour of love
+i'm falling in love with a stranger
+
+laa laa laa laa laa laa
+laa laa laa laa laa laa laa laa
+
+(your touch is so tender
+there is something to remember) \-2
+(of you) \-2
+
+(i'm falling in love with a stranger) \-2
+the night tonight has a flavour of love
+oh i'm falling in love with a stranger
+%
+#endindian
+\endsong
+%

@@ -1,0 +1,45 @@
+% ITRANS SONG #
+
+% Arunabha S Roy, on 7/17/2004 10:06:37 AM.
+
+\startsong
+\stitle{##disco station disco ##}%
+\film{Hathkadi}%
+\year{1981}%
+\starring{Sanjeev Kumar, Shatrughan Sinha, Rakesh Roshan, Reena Roy}%
+\singer{Asha, chorus}%
+\music{Bappi Lahiri}%
+\lyrics{Majrooh}%
+
+% Contributor: Arunabha S. Roy
+% Date: 17 Jul 2004
+% generated using giitaayan
+
+\printtitle
+#indian
+
+ko: ##disco station disco ## \-4
+
+aa: o chho.Do chho.Do merii raahe.n, merii baahe.n aa
+ko: ye hai pyaar kii hathaka.Dii
+
+aa: gaa.Dii aa_ii vo naa aayaa aa_ii ban\-Than ke mai.n
+ ba.Dii\-ba.Dii aa.Nkhe.n liye kha.Dii ##junction## pe mai.n
+ taubaa nazar kisase la.Dii
+ko: lag ga_ii pyaar kii hathaka.Dii
+aa:##disco station disco ##
+
+aa: siiTii bajii ##T.T.## aayaa karuu.N kyaa mai.n hasii.n
+ dil Dare paas mere ##Ticket## bhii to nahii.n
+ mushkil ye aan kaisii pa.Dii
+ko: pa.D ga_ii pyaar kii hathaka.Dii
+aa: ##disco station disco ##
+
+aa: roko nahii.n logo mujhe Thokare.n khaane do
+gale lago pyaar karo par mujhe jaane do
+ mai.n to chalii usakii galii
+ko: pahanake pyaar kii hathaka.Dii
+aa: ##disco station disco ##
+
+#endindian
+\endsong

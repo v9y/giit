@@ -1,0 +1,46 @@
+% ITRANS SONG #
+%
+% Date: Sat, 31 Jan 2004 09:24:03 -0800
+% From: "naniwadekar" <nani3skip45@hotmail.com>
+%
+\startsong
+\stitle{begam janiyaa.N kii godii bharii}%
+\film{Bhaijan}%
+\year{1945}%
+\starring{Noorjehan, Meena, Anees Khatoon, Karan Dewan}%
+\singer{Noorjehan / Zeenat Begum, Chorus}%
+\music{Shyamsunder}%
+\lyrics{Padataau Lakhnavi}%
+%
+% Contributor : dhananjay naniwadekar
+% Date :  31 January 2004
+% Credits  : 'Hamraaz'
+% Comments : Noor-e-Tarannum Series.
+%    It's a chorus song from bhaaiijaan.
+%    soundtrack - Main voice is Noor Jehan's.
+%    78 version - Zeenat Begum's is the main voice.
+%       ZB subbed when NJ was unavailable for film's 78s.
+%
+\printtitle
+#indian
+%
+begam janiyaa.N kii godii bharii
+hamarii laaDo banii hai parii
+
+dhuume.n chhaTii kii machaao sakhii rii
+hilamil ke gaao bajaao sakhii rii
+kaahe Dholak kinaare dharii
+
+kaisii chhaTii kii dulhaniyaa hai pyaarii
+jo.Daa suhaanaa hai gahanaa hai bhaarii
+aao minnat sakhii ham karii
+
+saramaaye naajo lajaaye chhabiilii
+dhiire chale jhukake morii lajiilii
+dekhe ko taare chhamaachham chalii hai
+duudho.n nahaaii hai  puuto.n phalii hai
+Kudaa raakhe jam jam yuu.N khetii harii
+%
+#endindian
+\endsong
+%

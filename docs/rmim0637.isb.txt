@@ -1,0 +1,31 @@
+% ITRANS SONG #
+
+% Date: Wed, 02 Jun 2004 13:28:42 -0700
+% From: Animesh Kumar <animesh@eecs.berkely.edu>
+
+\startsong
+\stitle{jiine kaa raaz mai.nne mohabbat me.n paa liyaa}
+\film{(Non-Film)}%
+\year{1960s}
+\singer{Rafi}
+\music{Iqbal Qureshi}
+\lyrics{Muzaffar Shahjahanpuri}
+
+% Contributor + Transliterator = Animesh Kumar
+% Series: Rafi Veritable Gems, Date = 2 Jun 2004
+
+\printtitle
+#indian
+
+jiine kaa raaz mai.nne mohabbat me.n paa liyaa
+jisakaa bhii Gam hu_aa use apanaa banaa liyaa
+
+tum Gam kaa bojh ro ke bhii halakaa na kar sake
+mai.nne ha.Nsii ki aa.D me.n har Gam chhupaa liyaa
+
+sunane ko jab na ko_ii milaa daastaan\-e\-Gam
+aainaa rakh ke saamane Kud ko sunaa liyaa
+
+#endindian
+\endsong
+

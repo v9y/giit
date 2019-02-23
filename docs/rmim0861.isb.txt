@@ -1,0 +1,35 @@
+% ITRANS SONG
+
+% Arunabha S Roy on 9/28/2004 8:26:17 AM.
+
+\startsong
+\stitle{pyaaraa pyaaraa ye samaa hai}%
+\film{Laal Quilaa}%
+\year{1960}%
+\starring{Jairaj, Nirupa Roy}%
+\singer{Lata}%
+\music{S N Tripathi}%
+\lyrics{Bharat Vyas}%
+
+% Contributor: Arunabha S Roy
+% Transliterator: Arunabha S Roy
+% Date: 28 Sep 2004
+% Series: LATAnjali
+% generated using giitaayan
+
+\printtitle
+#indian
+
+pyaaraa pyaaraa ye samaa hai aur suhaanii raat hai
+aa rahii ho.nTho.n pe ab dil me.n chhupii jo baat hai
+
+aaj sapane jagamagaate jhuumataa aakaash hai
+ek cha.ndaa duur hai aur ek mere paas hai, ek mere paas hai
+pyaar kii puunam khile aur nuur kii barasaat hai
+
+chaa.Ndanii kii o.Dh chaadar saarii duniyaa so rahii
+jaagate ham tum akele dil me.n halachal ho rahii, dil me.n halachal ho rahii
+aaj taaro.n ne sajaayii ruup kii baaraat hai
+
+#endindian
+\endsong

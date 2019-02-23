@@ -1,0 +1,41 @@
+% ITRANS SONG # rmim0001; Created on Jan 26, 2004
+%
+%      From: Aashish Thakker (athakker@usc.edu)
+%      Date: 2002-04-19 11:57:53 PST 
+%
+\startsong
+\stitle{Gariibo.n par jo hotii hai.n ... Gam kaa fasaanaa kisako sunaae.n}%
+\film{Mela}%
+\year{1948}%
+\starring{Dilip Kumar, Nargis}%
+\music{Naushad}%
+\singer{Shamshad}%
+%
+%Contributor: Aashish Thakker
+%Transliterator: Aashish Thakker
+%Date: April 19, 2002
+%
+\printtitle
+#indian
+%
+Gariibo.n par jo hotii hai.n jafaae.n kaun sunataa hai
+zamaane  me.n dukhe dil kii sadaae.n  kaun sunataa hai 
+
+Gam kaa fasaanaa kisako sunaae.n
+TuuTaa huaa dil kaise dikhaae.n
+
+teraa bhalaa ho ta.Dapaane vaale
+dil de rahaa hai tujhako duaae.n
+Gam kaa fasaanaa \threedots
+
+ha.Nsatii hai qisamat kahatii hai duniyaa
+aapas me.n do dil milane naa paae.n
+Gam kaa fasaanaa \threedots
+
+tujhako qasam hai aise me aa jaa
+phir ye zamaane shaayad naa aae.n
+Gam kaa fasaanaa \threedots
+%
+#endindian
+\endsong
+%

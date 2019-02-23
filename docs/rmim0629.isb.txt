@@ -1,0 +1,55 @@
+% ITRANS SONG #
+
+% Date: Wed, 04 Aug 2004 13:07:36 +0530
+% From: Abhay Phadnis <aphadnisNOSPAM@hotmail.com>
+
+\startsong
+\stitle{chaar dino.n kii jawaanii}%
+\film{Roti}%
+\year{1942}%
+\starring{Begum Akhtar, Sitara Devi, Chandramohan, Sheikh Mukhtar}%
+\singer{Akhtaribai Faizabadi}%
+\music{Anil Biswas}%
+\lyrics{Dr Safdar 'Aah'}%
+
+% Audio on:
+% Contributor: Abhay Phadnis
+% Transliterator: Abhay Phadnis
+% Date: 04 Aug 2004
+% Series: Anilda Series
+% Comments:
+% generated using giitaayan
+
+\printtitle
+#indian
+
+(chaar dino.n kii jawaanii
+matawaale pii le pii le) \-2
+chaar dino.n kii jawaanii
+
+chhalake jaa_e ai dil ke pyaale re pyaale \-2
+matawaale pii le pii le
+
+chaar dino.n kii jawaanii
+matawaale pii le pii le
+chaar dino.n kii jawaanii
+
+yah duniyaa hai ek maikhaanaa
+(yah duniyaa hai ek maikhaanaa
+khaalii bhar bhar bhar paimaanaa) \-2
+dam bhar mauj u.Daa le u.Daa le \-2
+matawaale pii le pii le
+
+chaar dino.n kii jawaanii
+matawaale pii le pii le
+chaar dino.n kii jawaanii
+
+chhalake jaa_e ai dil ke pyaale re pyaale \-2
+matawaale pii le pii le
+
+chaar dino.n kii jawaanii
+matawaale pii le pii le
+chaar dino.n kii jawaanii
+
+#endindian
+\endsong

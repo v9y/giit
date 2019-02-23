@@ -1,0 +1,45 @@
+% ITRANS SONG #
+\startsong
+\stitle{vo dekhe.n tu unakii inaayat, naa dekhe.n to ronaa kyaa}%
+\film{Funtoosh}%
+\year{1956}%
+\starring{Dev Anand, Sheela Ramani}%
+\singer{Kishore, Asha}%
+\music{S D Burman}%
+\lyrics{Sahir}%
+
+% Contributor: Arunabha S. Roy
+% Date: 20 May 2003
+% generated using giitaayan
+
+\printtitle
+#indian
+
+kishor:
+vo dekhe.n tu unakii inaayat, naa dekhe.n to ronaa kyaa \-3
+jo dil Gair kaa ho usakaa honaa kyaa aur na honaa kyaa
+vo dekhe.n to unakii inaayat
+
+aashaa:
+aah haa haa \threedots oh ho ho \threedots laa laa laa \threedots
+
+ishq dilo.n kaa mel hai pyaare ye nazaro.n kaa khel nahii.n \-2
+ye nazaro.n kaa khel nahii.n
+jab tak do dil ek na ho le.n dil kii lagii kaa ronaa kyaa
+jab tak do dil ek na ho le.n
+
+kishor and aashaa:
+haiyaa ho haiyaa \-4
+
+kishor:
+ishq kii baazii siidhii baazii, dil jiito aur dil haaro
+ishq kii baazii siidhii baazii are baazii
+baazii baazii baazii baaziii baazii baazii
+ishq kii baazii siidhii baazii (dil jiito aur dil haaro) \-2
+is saude me.n o dilavaalo paanaa kyaa aur khonaa kyaa
+
+dono.n:
+vo dekhe.n to unakii inaayat
+
+#endindian
+\endsong

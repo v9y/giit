@@ -1,0 +1,66 @@
+% ITRANS SONG # rmim0407; Created on Jan 26, 2004
+%
+% From: Srinivas Ganti (gantisri@hotmail.com)             
+% Date: 2001-06-08 16:50:17 PST                        
+%
+\startsong
+\stitle{sun le tuu dil kii sadaa}%
+\film{Tere Ghar Ke Samne}%
+\year{1963}%
+\starring{Dev Anand, Nutan}%
+\singer{Rafi}%
+\music{S D Burman}%
+\lyrics{Majrooh}%
+%
+% Contributor: Srinivas Ganti
+% Transliterator:Srinivas Ganti
+% Date:7 June 2001
+% Comments:SDB series
+%
+\printtitle
+#indian
+%
+#Happy version
+sun le tuu dil kii sadaa,pyaar se pyaar sajaa \-2
+sun le tuu dil kii sadaa
+
+merii aavaaz kaa tiir,jaayegaa dil ko bhii jiir? \-2
+khoye nafarat,laaye ulafat
+ye asar hai meharabaa.n
+sun le tuu dil kii sadaa \threedots
+
+pyaar rastaa hai meraa,aisaa raahi huu.N teraa \-2
+na rahuu.N mai.n,na rahe tuu
+par rahegii daastaa.n
+sun le tuu dil kii sadaa \threedots
+
+do dilo.n kii ye lagan,jaane dharatii aur gagan \-2
+tuu jahaa.N hai,mai.n vahaa.N huu.N
+jism do hai,ek jaan
+sun le tuu dil kii sadaa \threedots
+
+#Sad version
+sun le tuu dil kii sadaa,pyaar se pyaar sajaa \-2
+sun le tuu dil kii sadaa
+
+aaj tak jo bhii huaa,jhuuTe jaga.Do.n ne kiyaa
+aaj tak jo bhii huaa
+aaj tak jo bhii huaa,jhuuTe jaga.Do.n ne kiyaa
+pyaar hotaa to kuchh naa hotaa,naa uja.Date aashiyaa.n
+sun le tuu dil kii sadaa \threedots
+
+pyaar jisane naa kiyaa,khaak duniyaa me.n jiyaa
+pyaar jisane naa kiyaa
+pyaar jisane naa kiyaa,khaak duniyaa me.n jiyaa
+usaka jiivan koii jiivan,jaise viiraan bastiyaa.n
+sun le tuu dil kii sadaa \threedots
+
+pyaar jis dil me.n javaa.N,samajho bhagavaan vahaa.N
+pyaar jis dil me.n javaa.N
+pyaar jis dil me.n javaa.N,samajho bhagavaan vahaa.N
+maan le tuu aur samajh le,Dha.Dakano.n kii ye zubaa.N
+sun le tuu dil kii sadaa \threedots
+%
+#endindian
+\endsong
+%

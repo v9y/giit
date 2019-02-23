@@ -1,0 +1,39 @@
+% ITRANS SONG 
+%
+\startsong
+\stitle{kyuu.N chho.Daa tumane saath hamaaraa jawaab do}%
+\film{Kashish (Non-Film)}%
+\year{1988}%
+\starring{}%
+\singer{Noorjehan/ Asha}%
+\music{Nazar Hussain}%
+\lyrics{Masroor Anwar}%
+% 
+% Audio on: musicindiaonline.com
+% Contributor: Vinay P Jain
+% Transliterator: Vinay P Jain
+% Date: 24 Jul 2003
+% Series: GEETanjali, Noor-e-Tarannum
+% Comments: Asha also sang a version of the song in her 
+% tribute album (Kashish) to Noorjehan.
+% the given album name, year, MD are of Asha version
+% generated using giitaayan
+%
+\printtitle
+#indian
+%
+kyuu.N chho.Daa tumane saath hamaaraa jawaab do
+Kaamosh kisaliye ho Kudaaraa jawaab do
+
+wo dostii ki jisape bahut naaz thaa kabhii
+ab kyuu.N nahii.n hai tumako gawaaraa jawaab do
+
+mausam bhii itanii jal_d badalataa nahii.n to phir
+badalaa hai kaise ra.ng tumhaaraa jawaab do
+
+kyaa mil sakegaa raah\-e\-talab me.n tumhe.n koii
+ham jaisaa koii aur dubaaraa jawaab do
+%
+#endindian
+\endsong
+%

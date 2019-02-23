@@ -1,0 +1,44 @@
+% ITRANS SONG # rmim0266; Created on Jan 26, 2004
+%
+%      From: Malini Kanth (malinikanth@hotmail.com)
+%      Date: 2003-04-03 10:55:38 PST 
+%
+\startsong
+\stitle{aaye hai.n balamaa ho din pyaare pyaare}%
+\film{Chand}%
+\year{1944}%
+\starring{Begum Para, Prem Adeeb, Sitara, Sapru}%
+\singer{Zeenat Begum, Durrani}%
+\music{Husnalal-Bhagatram}%
+\lyrics{Qamar Jalalabadi}%
+%
+% Contributor: Malini Kanth
+% Transliterator: Malini Kanth
+% Credits: Balaji Murthy, Naniwadekar
+%
+\printtitle
+#indian
+%
+zii : aaye hai.n balamaa ho din pyaare pyaare
+aaye hai.n balamaa
+aaye hai.n balamaa ho din pyaare pyaare
+ab jaage bhaag hamaare, din pyaare pyaare
+
+tum haar haar kar jiit gaye /-2
+ham jiit jiit kar haare balamaa hamaare /-2
+aaye hai.n balamaa /threedots
+
+du : duniyaa hai ye priit kii dushman
+    riit ye dekhe priit kii dushman
+    duniyaa na_ii basaaye.nge hum tum
+do : gaaye.nge hum tum mil ke giit hamaare
+    din pyaare pyaare
+    aaye hai.n balamaa /threedots
+
+zii : na_ii Kushiyaa.N aaj bulaatii.n hai.n /-2
+    kar kar ke ishaare balamaa hamaare /-2
+do : aaye hai.n balamaa ho din pyaare pyaare
+%
+#endindian
+\endsong
+%
