@@ -7,7 +7,7 @@
 \film{non-Film(Wohi Baat)}%
 \year{1977}%
 \starring{}%
-\singer{Asha/ Bhupinder}%
+\singer{Asha / Bhupinder}%
 \music{Jaidev}%
 \lyrics{Naqsh Lyallpuri}%
 % 
@@ -15,7 +15,7 @@
 % Transliterator: Arunabha S Roy
 % Date: 14 Sep 2003
 % Series: GEETanjali
-% Comments: Two versions of this song: one by Asha and the other by Bhupinder
+% Comments: Does the Asha version also have a third stanza?
 % generated using giitaayan
 %
 \printtitle
