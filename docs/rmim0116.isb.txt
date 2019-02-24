@@ -1,13 +1,11 @@
 % ITRANS SONG # rmim0116; Created on Jan 26, 2004
 %
-% arunabha 9/15/3
-% 
 \startsong
-\stitle{zahar detaa hai mujhe ko_ii davaa detaa hai}%
-\film{non-Film(Wohi Baat)}%
+\stitle{zahar detaa hai mujhe koii davaa detaa hai}%
+\film{Wohi Baat}%
 \year{1977}%
-\starring{}%
-\singer{Asha/ Bhupinder}%
+\starring{Shabana Azmi, Amol Palekar, Parikshit Sahani}%
+\singer{Asha / Bhupinder}%
 \music{Jaidev}%
 \lyrics{Naqsh Lyallpuri}%
 % 
@@ -15,7 +13,7 @@
 % Transliterator: Arunabha S Roy
 % Date: 14 Sep 2003
 % Series: GEETanjali
-% Comments: Two versions of this song: one by Asha and the other by Bhupinder
+% Comments: Does the Asha version also have a third stanza?
 % generated using giitaayan
 %
 \printtitle
@@ -23,25 +21,28 @@
 %
 ## Asha version ##
 
-zahar detaa hai mujhe ko_ii davaa detaa hai
+zahar detaa hai mujhe koii davaa detaa hai
 jo bhii milataa hai mere Gam ko ba.Dhaa detaa hai
 
 kyo.n sulagatii hai.n mere dil me.n puraanii yaade.n
-kaun bujhate hu_e sholo.n ko hawaa detaa hai
+kaun bujhate hue sholo.n ko hawaa detaa hai
 
-haal ha.Ns\-ha.Nsake bulaataa hai kabhii baaho.n me.n
-kabhii maazii mujhe ro\-roke sadaa detaa hai
+haal ha.Ns-ha.Nsake bulaataa hai kabhii baa.Nho.n me.n
+kabhii maazii mujhe ro-roke sadaa detaa hai
 
-##Bhupinder version ##
+## Bhupinder version ##
 
-zahar detaa hai mujhe ko_ii davaa detaa hai
+zahar detaa hai mujhe koii davaa detaa hai
 jo bhii milataa hai mere Gam ko ba.Dhaa detaa hai
 
-kisii hamadam kaa sar\-e\-shaam judaa ho jaanaa
-nii.nd jalatii hu_ii.n aa.Nkho.n se u.Daa detaa hai
+kisii hamadam kaa sar-e-shaam judaa ho jaanaa
+nii.nd jalatii huii.n aa.Nkho.n se u.Daa detaa hai
 
 vaqt hii dard ke kaa.NTo.n pe sulaa_e dil ko
 vaqt hii dard kaa ahasaas miTaa detaa hai
+
+pyaas itanii hai merii ruuh kii gaharaaii me.n
+ashk girataa hai to daaman ko jalaa detaa hai
 %
 #endindian
 \endsong
