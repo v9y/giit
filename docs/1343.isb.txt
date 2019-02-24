@@ -2,7 +2,7 @@
 \startsong
 \stitle{nigaahe.n milaane ko jii chaahataa hai}%
 \film{Dil Hi To Hai}%
-\year{}%
+\year{1963}%
 \starring{Raj Kapoor, Nutan}%
 \singer{Asha}%
 \music{Roshan}%
@@ -10,41 +10,57 @@
 % 
 % Contributor: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
 % Transliterator: Vandana Venkatesan <vvenkate@pcocd2.intel.com>
+% Credits:     Malini Kanth
+%              Surajit A Bose
 % Editor: Rajiv Shridhar <rajiv@coe.neu.edu>
+%         Vinay P Jain
 % Date: 03/30/1997
 %
 \printtitle
 #indian
 %
-  \threedots raaz kii baat hai
-  mehafil me.n kahe.n yaa na kahe.n 
-  bas gayaa hai koii is dil me.n kahe.n yaa na kahe.n
-  kahe.n yaa na kahe.n \threedots
- 
+
+aa .a .a
+raaz kii baat hai, mahafil me.n kahe.n yaa na kahe.n
+bas gayaa hai koii is dil me.n kahe.n yaa na kahe.n
+kahe.n yaa na kahe.n
+
 nigaahe.n milaane ko jii chaahataa hai
-dil\-o\-jaa.n luTaane ko jii chaahataa hai
- 
+dil-o-jaa.N luTaane ko jii chaahataa hai
+
 vo tohamat jise ishq kahatii hai duniyaa
 vo tohamat uThaane ko jii chaahataa hai
- 
-kisii ke manaane me.n lazzat vo paayii 
+
+kisii ke manaane me.n lazzat vo paaii 
 ki phir ruuTh jaane ko jii chaahataa hai
- 
+meraa ruuTh jaane ko jii chaahataa hai
+
 vo jalavaa jo ojhal bhii hai saamane bhii
 vo jalavaa churaane ko jii chaahataa hai
- 
-o\threedots jis gha.Dii merii nigaaho.n ko terii diid huii
-vo gha.Dii mere liye aish kii tamahiid huii
+
+o~ jis gha.Dii merii nigaaho.n ko terii diid huii
+vo gha.Dii mere li_e aish kii tamahiid huii
 jab kabhii mai.nne teraa chaa.Nd saa cheharaa dekhaa
-iid ho yaa ki na ho mere liye iid huii
+iid ho yaa ki na ho mere li_e iid huii
 vo jalavaa jo ojhal bhii hai saamane bhii
 vo jalavaa churaane ko jii chaahataa hai
- 
-mulaaqaat kaa koii paiGaam diijiye kii
-chhup chhupake aane ko jii chaahataa hai
-aur aake na jaane ko jii chaahataa hai
-aur aake na jaane ko jii chaahataa hai
-nigaahe.n milaane ko jii chaahataa hai
+
+nii re ga
+ga re ga nii re ma
+ma ga ma nii re ga
+ga re ga nii ga re
+re ga, ga ma, ma dha nii
+saa saa, nii nii, dha dha, pa pa, ga re~
+saa nii dha pa ma ga re
+nii~ dha pa ma ga re saa nii
+nii re ga
+
+mulaaqaat kaa koii paiGaam diije ke
+chhup-chhup_ke aane ko jii chaahataa hai aur
+aake na jaane ko jii chaahataa hai aur
+aake na jaane ko jii chaahataa hai
+nigaahe.n milaane ko jii chaahataa hai ...
+
 %
 #endindian
 \endsong
