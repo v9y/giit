@@ -1,7 +1,7 @@
 %
 \startsong
-\stitle{ik bevafaa se pyaar kiyaa}%
-\film{Aawaara}%
+\stitle{ek bevafaa se pyaar kiyaa}%
+\film{Awara}%
 \year{1951}%
 \starring{Cuckoo, Nargis, Raj Kapoor, K N Singh, Prithviraj}%
 \singer{Lata}%
@@ -10,33 +10,37 @@
 %
 % Contributor: 
 % Transliterator: K Vijay Kumar
-% Credits: Neha Desai
-% Editor: 
+% Credits:     Neha Desai
+%              Urzung Khan
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 %
 \printtitle
 #indian
 %
-ik bevafaa se pyaar kiyaa
-us se nazar ko chaar kiyaa
+ek bevafaa se pyaar kiyaa
+us_se nazar ko chaar kiyaa
 haay re hamane ye kyaa kiyaa
 haay kyaa kiyaa
-ik bevafaa se    \threedots
+ek bevafaa se ...
 
 bholii suurat vaalaa nikalaa luTeraa
-raat chhupaaye dil me.n mu.N pe saveraa
-...
-haay re hamane ye kyaa kiyaa \threedots
-
-de ga_ii dhokhaa hame.n niilii niilii aa.Nkhe.n
-niilii niilii aa.Nkhe.n
-suunii hai dil kii mahafil bhiigii bhiigii aa.Nkhe.n
-haay bhiigii bhiigii aa.Nkhe.n
-ulfat ka izahaar kiyaa
-us pe dil nisaar kiyaa
+raat chhupaaye dil me.n mu.Nh pe saveraa
+oy ham ne dil nisaar kiyaa
+Khud ko beqaraar kiyaa 
 haay re hamane ye kyaa kiyaa
 haay kyaa kiyaa
-ik bevafaa se   \threedots
+ek bevafaa se ...
 
+de ga_ii.n dhokhaa hame.n niilii niilii aa.Nkhe.n
+niilii niilii aa.Nkhe.n
+suunii hai dil kii mahafil bhiigii bhiigii aa.Nkhe.n
+o bhiigii bhiigii aa.Nkhe.n
+oy ham ne aitabaar kiyaa
+ulafat ka iqaraar kiyaa
+haay re hamane ye kyaa kiyaa
+haay kyaa kiyaa
+ek bevafaa se ...
 %
 #endindian
 \endsong
