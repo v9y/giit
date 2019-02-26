@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{aanaa hai to aa raah me.n, kuchh pher nahii.n hai}%
+\stitle{aanaa hai to aa, raah me.n kuchh pher nahii.n hai}%
 \film{Naya Daur}%
 \year{1957}%
 \starring{Dilip Kumar, Vyjayantimala, Ajit}%
@@ -10,27 +10,37 @@
 %
 % Contributor: Anurag Shankar (anurag@astro.indiana.edu)
 % Transliterator: Anurag Shankar (anurag@astro.indiana.edu)
-% Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor:  
+% Credits:     Preetham Gopalaswamy (preetham@src.umd.edu)
+%              Prithviraj Dasgupta
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 %
 \printtitle
 #indian
 %
-AnA hai to A rAh me.n, kuchh pher nahI.n hai
-bhagavAn ke ghar der hai, andher nahI.n hai
-AnA hai to \threedots
 
-jab tujhase na sulajhe.n terI ulajhane.n
-?
-bhagavAn khud hI terI mushkilo.n ko AsAn karegA
-jo tU nahI.n kar pAyA to bhagavAn karegA
-AnA hai to \threedots
+aanaa hai to aa, raah me.n kuchh pher nahii.n hai
+bhagavaan ke ghar der hai, a.ndher nahii.n hai
+aanaa hai to aa ...
 
-kahane kI zarUrat nahI.n AnA hI bahut hai
-is dar pe terA shIsh jhukAnA hI bahut hai
-jo kuchh hai tere dil me.n vo sab usako khabar hai
-bande tere har hAl pe mAlik ko nazar hai
-AnA hai to \threedots
+jab tujhase na sulajhe.n tere ulajhe hue dha.ndhe
+bhagavaan ke inasaaf pe sab chho.D de ba.nde
+Khud hii terii mushkil ko vo aasaan karegaa
+jo tuu nahii.n kar paayaa vo bhagavaan karegaa
+aanaa hai to aa ...
+
+kahane kii zaruurat nahii.n, aanaa hii bahut hai
+is dar pe teraa siis jhukaanaa hii bahut hai
+jo kuchh hai tere dil me.n vo sab usako Khabar hai
+ba.nde tere har haal pe maalik kii nazar hai
+aanaa hai to aa ...
+
+bin maa.Nge bhii milatii hai.n yahaa.N man kii muraade.n
+dil saaf ho jinakaa vo yahaa.N aake sadaa de.n
+milataa hai jahaa.N nyaay vo darabaar yahii hai
+sa.nsaar kii sab se ba.Dii sarakaar yahii hai
+aanaa hai to aa ...
+
 %
 #endindian
 \endsong
