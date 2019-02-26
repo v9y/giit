@@ -8,29 +8,34 @@
 \music{Laxmikant-Pyarelal}%
 \lyrics{Anand Bakshi}%
 %
-% Contributor:  
+% Contributor:
 % Transliterator: Avinash Chopde (avinash@acm.org)
-% Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
-%          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
-% Editor:  
+% Credits:     C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
+%              Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
+%              Urzung Khan
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 %
 \printtitle
 #indian
 %
+mere dil se sitam_gar tuune achhii dillagii kii hai
+ki ban_ke dost apane dosto.n se dushmanii kii hai
+
 mere dushman tuu merii dostii ko tarase
-mujhe Gam dene vaale tuu khushii ko tarase
+mujhe Gam denevaale tuu Khushii ko tarase
 
-tuu phuul bane patajha.D kaa, tujh pe bahaar na aae kabhii
-merii hii tarah tuu ta.Dape tujhako qaraar na aae kabhii
-jiye tuu is tarah kii zi.ndagii ko tarase
+tuu phuul bane patajha.D kaa, tujhape bahaar na aae kabhii
+merii hii tarah tuu ta.Dape, tujhako qaraar na aae kabhii
+jiye tuu is tarah ki zindagii ko tarase
 
-itanaa to asar kar jaae.n merii vafaae.n o bevafaa
-jab tujhe yaad aae.n apanii jafaae.n o bevafaa
-pashemaan hoke roe, tuu ha.nsii ko tarase
+itanaa to asar kar jaae.N merii vafaae.N o bevafaa
+ek roz tujhe yaad aae.N apanii jafaae.N o bevafaa
+pashemaa.N hoke roe, tuu ha.Nsii ko tarase
 
-tere gulashan se zyaadaa viiraan koI viiraanaa na ho
-is duniyaa me.n teraa jo apanaa to kyaa, begaanaa na ho
-kisii kaa pyaar kyaa tuu beruKii ko tarase
+tere gulashan se ziyaadaa viiraan koii viiraanaa na ho
+is duniyaa me.n koii teraa apanaa to kyaa, begaanaa na ho
+kisiikaa pyaar kyaa tuu beruKhii ko tarase
 %
 #endindian
 \endsong
