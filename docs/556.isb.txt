@@ -2,7 +2,7 @@
 \startsong
 \stitle{dost dost naa rahaa, pyaar pyaar naa rahaa}%
 \film{Sangam}%
-\year{}%
+\year{1964}%
 \starring{Raj Kapoor, Rajendra Kumar, Vyjayantimala}%
 \singer{Mukesh}%
 \music{Shankar-Jaikishan}%
@@ -11,39 +11,37 @@
 % Contributor:  
 % Transliterator: Avinash Chopde (avinash@acm.org)
 % Credits: Parag Chhibber (usp_pchhibbe@sitvxa.stevens-tech.edu)
-% Editor:  
+%          K Vijay Kumar
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
-dost dost naa rahaa
-pyaar pyaar naa rahaa
-zi.ndagii hame.n teraa 
-aitabaar naa rahaa,  aitabaar naa rahaa
+dost dost naa rahaa, pyaar pyaar naa rahaa
+zindagii hame.n teraa aitabaar naa rahaa
+aitabaar naa rahaa ...
 
-amaanate.n mai.n pyaar kii
-gayaa thaa jisako sau.np kar
-vo mere dost tum hii the
-tumhii.n to the
-jo zi.ndagii kii raah me 
-bane the mere hamasafar
-vo mere dost tum hii the
-tumhii.n to the
-saare bhed khul gae
-raazadaar naa rahaa
-zi.ndagii hame.n teraa
-aitabaar naa rahaa, aitabaar naa rahaa
-dost dost naa rahaa \threedots
+amaanate.n mai.n pyaar kii gayaa thaa jisako sau.np kar
+vo mere dost tum hii the, tumhii.n to the
+jo zindagii kii raah me bane the mere hamasafar
+vo mere dost tum hii the, tumhii.n to the
+saare bhed khul gae raazadaar naa rahaa
+zindagii hame.n teraa aitabaar naa rahaa ...
 
-safar ke vaqt me.n palak pe
-motiyo.n ko taulatii 
-vo tum naa thii to kaun thaa
-tumhii.n to thii
-nashe kii raat Dhal gayii
-ab khumaar naa rahaa
-zi.ndagii hame.n teraa
-aitabaar naa rahaa, aitabaar naa rahaa
-dost dost naa rahaa \threedots
+gale lagii saham-saham bhare gale se bolatii
+vo tum naa thii to kaun thaa, tumhii.n to thii
+safar ke vaqt me.n palak pe motiyo.n ko tolatii 
+vo tum naa thii to kaun thaa, tumhii.n to thii
+nashe kii raat Dhal gayii, ab Khumaar naa rahaa
+zindagii hame.n teraa aitabaar naa rahaa ...
+
+vafaa kaa leke naam jo dha.Dak rahe the har gha.Dii
+vo mere nek-nek dil, tumhii.n to ho
+jo muskuraake rah gae zahar kii jab suii ga.Dii
+vo mere nek-nek dil, tumhii.n to ho
+ab kisii kaa mere dil intazaar naa rahaa
+zindagii hame.n teraa aitabaar naa rahaa ...
 %
 #endindian
 \endsong
