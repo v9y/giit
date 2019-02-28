@@ -1,8 +1,8 @@
 %
 \startsong
-\stitle{iinaa miinaa Diikaa, Daai Daamonikaa}%
+\stitle{iinaa miinaa Diikaa, Daai Daamoniikaa}%
 \film{Asha}%
-\year{}%
+\year{1957}%
 \starring{Kishore, Vyjayantimala}%
 \singer{Kishore / Asha}%
 \music{Ravi}%
@@ -10,40 +10,67 @@
 %
 % Contributor: Satish Subramanian (subraman@cs.umn.edu)
 % Transliterator: Shripad Lale (lale@cent.gud.siemens.co.at)
-% Credits: 
+% Credits:     Urzung Khan
+%              Surajit A Bose
 % Editor: Anurag Shankar (anurag@astro.indiana.edu)
 %
 \printtitle
 #indian
 %
-iinaa miinaa Diikaa, Daai, Daamonikaa
-maakaa naakaa naakaa, chIkaa pIkaa rIkaa
-Inaa mInaa DIkaa DIkaa De Daai Daamonikaa 
-maakaanaakaa maakaanaakaa chIkaa pIkaa rolaa rIkaa
-rampamposh rampamposh
+##Kishore version##
 
-dil de duu.N, hai koI lene vaalaa,
-aise vaise ko nahii.n dene vaalaa
-sUratiyaa.N hasii.n ho, umariyaa.N javaa.N ho
-koI bhii use dekhe to bas ye gumaa.N ho
-yahI hai yahI hai yahii to hai vo
-iinaa miinaa Diikaa\threedots
+iinaa miinaa Diikaa, Daay Daamoniikaa
+maakaa naakaa naakaa chiikaa piikaa riikaa
+iinaa miinaa Diikaa Tiikaa De Daay Daamonikaa 
+maakaa naakaa maakaa naakaa chiikaa piikaa rolaa riikaa
+ram-pam-posh ram-pam-posh
 
-ye sharte.n to ba.Dii hai zaruurii
-jo koii karegaa inhe.n puurii
-mai.n khushii khushii use ye dil de duu.ngaa
-qasam khaa rahaa huu.N, ki daam bhii na luu.ngaa
-magar ye kahuu.NgA, magar ye kahuu.NgA
-( kyaa ? )
+dil bechuu.N, hai koii lenevaalaa
+aise-vaise ko nahii.n denevaalaa
+suuratiyaa hasii.n ho, umariyaa javaa.N ho
+koii bhii use dekhe to bas ye gumaa.N ho
 yahii hai yahii hai yahii to hai vo
-iinaa miinaa Diikaa\threedots
+iinaa miinaa Diikaa ...
 
 mat socho ki sastaa hai saudaa 
 phal paaye lagaaegaa jo paudhaa
-dil ki ye yaarii banegii phulavaarii
-ye duniyaa jalegii, jalan kI hai maarii
+dil kii ye kyaarii banegii phulavaarii
+ye duniyaa jalegii, jalan kii hai maarii
 ha.Nsegii ha.Nsegii ha.Nsegii merii pyaarii
-iinaa miinaa Diikaa\threedots
+iinaa miinaa Diikaa ...
+
+ye sharte.n to ba.Dii hai.n zaruurii
+jo koii karegaa inhe.n puurii
+mai.n Khushii-Khushii use ye dil de duu.Ngaa
+qasam khaa rahaa huu.N, ki daam bhii na luu.Ngaa
+magar ye kahuu.NgA, magar ye kahuu.NgA (kyaa?)
+yahii hai yahii hai yahii to hai vo
+iinaa miinaa Diikaa ...
+
+
+##Asha version##
+
+iinaa miinaa Diikaa, Daay Daamoniikaa
+maakaa naakaa naakaa chiikaa piikaa riikaa
+iinaa miinaa Diikaa Tiikaa De Daay Daamonikaa 
+maakaa naakaa maakaa naakaa chiikaa piikaa rolaa riikaa
+ram-pam-posh ram-pam-posh
+
+is duniyaa me.n dil na lagaanaa
+dil deke pa.Degaa pachhaatanaa
+ye ruup ke pujaarii ye dil lenevaale
+pahale-pahale hote hai.n ba.De bhole-bhaale
+kaleje ko thaam pukaare.nge naam
+tuu hii hai tuu hii hai tuu hii to hai vo
+iinaa miinaa Diikaa ...
+
+mat bhuulo hai pyaar ek naag
+ugalegaa zahar bharii aag
+ye dil ko jalaae, ye sholo.n pe sulaae
+jo phuulo.n se uThaae to kaa.NTon me.n rulaae
+kaleje ko thaam pukaaregaa naam
+tuu hii hai tuu hii hai tuu hii to hai vo
+iinaa miinaa Diikaa ...
 %
 #endindian
 \endsong
