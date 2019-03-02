@@ -8,26 +8,50 @@
 \music{Madan Mohan}%
 \lyrics{Rajinder Krishan}%
 %
+% Contributor:
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Credits: Urzung Khan
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle 
 #indian
 %
-(meraa qaraar le jaa mujhe beqaraar kar jaa 
-dam bhar to pyaar kar jaa  ) \- 2
+##Talat version##
 
-mere din guzar rahe hai.n, terI yaad ke sahaare \- 2
-merA dil ta.Dap rahaa hai terI aarazuu ke maare 
+(meraa qaraar le jaa mujhe beqaraar kar jaa 
+dam bhar to pyaar kar jaa) - 2
+
+mere din guzar rahe hai.n terii yaad ke sahaare - 2
+meraa dil ta.Dap rahaa hai terii aarazuu ke maare - 2
 bechain mere dil ko bas ek baar kar jaa 
 dam bhar to pyaar kar jaa 
-merA qarAr \threedots
+meraa qaraar le jaa ...
 
-mujhe ek jhalak dikhaa ke, parado.n me.n chhupane vAle  \- 2
-kab tak lage rahe.nge khaamoshiyo.n ke taale 
-nazare.n churaane vAle, nazare.n to chaar kar jaa 
+mujhe ek jhalak dikhaa ke parado.n me.n chhupanevaale  - 2
+kab tak lage rahe.nge Khaamoshiyo.n ke taale - 2
+nazare.n churaanevaale, nazare.n to chaar kar jaa 
 dam bhar to pyaar kar jaa 
-merA qarAr \threedots
+meraa qaraar le jaa ...
+
+----
+## Lata version##
+
+(meraa qaraar le jaa mujhe beqaraar kar jaa
+dam bhar to pyaar kar jaa) - 2
+
+merii zindagii kii raate.n aa dard se basaa de - 2
+dil soz se hai Khaalii ek aag-sii lagaa de
+merii Khushii kaa daaman aa taar-taar kar jaa
+dam bhar to pyaar kar jaa
+meraa qaraar le jaa ...
+
+chhaaii huii ghaTaa me.n jaise chhupaa ho paanii - 2
+tujhame.n chhupii huii hai merii bhii zindagaanii
+mai.n to huu.N paas tere ye aitabaar kar jaa
+dam bhar to pyaar kar jaa
+meraa qaraar le jaa ...
 %
 #endindian
 \endsong
