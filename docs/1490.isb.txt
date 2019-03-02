@@ -1,45 +1,82 @@
 %
 \startsong
-\stitle{qusuur aap kaa, huzuur aap kaa}% 
+\stitle{qusuur aapakaa, huzuur aapakaa}% 
 \film{Bahaar}%
 \year{1951}%
-\starring{}%
-\singer{Kishore}%
+\starring{Vyjayanthimala, Karan Dewan}%
+\singer{Kishore / Shamshad}%
 \music{S D Burman}%
 \lyrics{Rajinder Krishan}%
 %
 % Contributor: Arun Verma (verma@CS.Cornell.EDU)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Credits:     Urzung Khan
+%              Surajit A Bose
+% Editor:      Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%              Vinay P Jain
 %
 \printtitle 
 #indian 
 %
-(qusuur aap kA, huzuur aap kA  
-meraa naam lIjiye nA mere baap kaa) \- 3
-##
-left right! left right! right turn ! 
-left right! left right! about turn ! 
-##
-gusse ko chho.Diye, dhiire dhiire boliye 
-merI sarakaar jaraa aa.Nkho.n ko kholiye 
-faishan ko bhuul ke, aao jaraa hosh me.n 
-dhokhe me.n aao nA javaanii ke josh me.n 
-fAyadaa hai kyA jhuuThii Tiip\-Taap kA 
-mere naam lIjiye nA mere baap kA 
-qusuur aap kA \threedots
+##Kishore version##
 
-ahaa ahaa, hai hai hai oho oho  hii hii 
+(qusuur aapakaa, huzuur aapakaa
+meraa naam liijiye na mere baap kaa) - 3
 
-koI baat kIjiye to pahale tol ke 
-chaliye nA chaal aise Dol\-Dol ke 
-husn kA huzuur ko ba.Daa maan hai 
-husn chaar roz kA mehamaan hai 
-kahaa.N jAyegaa Guruur aap kA 
-mere naam lIjiye nA mere baap kA 
-qusuur aap kA \threedots
-##
-left right! left right! about turn ! ##
+lefT raaiT! lefT raaiT! raaiT Tarn!
+lefT raaiT! lefT raaiT! abaauT Tarn!
+
+Gusse ko chho.Diye, dhiire-dhiire boliye 
+merii sarakaar zaraa aa.Nkho.n ko kholiye 
+faishan ko bhuulake, aao zaraa hosh me.n 
+dhokhe me.n aao na javaanii ke josh me.n 
+faayadaa hai kyaa jhuuThii Tiip-Taap kaa 
+meraa naam liijiye na mere baap kaa 
+qusuur aapakaa ..
+
+ahaa ahaa, hai hai hai oho oho hii hii 
+
+koii baat kiijiye to pahale tolake 
+chaliye naa chaal aise Dol-Dolake 
+husn kaa huzuur ko ba.Daa maan hai 
+husn chaar roz kaa mehamaan hai 
+kahaa.N jaaegaa Guruur aapakaa 
+meraa naam liijiye na mere baap kaa 
+qusuur aapakaa ...
+
+lefT raaiT! lefT raaiT! abaauT Tarn!
+
+----
+##Shamshad version##
+
+(qusuur aapakaa, huzuur aapakaa
+meraa naam liijiye na mere baap kaa) - 2
+
+lefT raaiT! lefT raaiT! raaiT lefT Tarn!
+lefT raaiT! lefT raaiT! abaauT Tarn!
+
+mard hoke chhokarii se maat khaa gae
+kahiye kaise dhokhe me.n janaab aa gae
+Thiik pahale apanaa mizaaj kiijiye
+haspataal jaaiye ilaaj kiijiye
+dimaaG chal gayaa hai
+dimaaG chal gayaa hai zuruur aapakaa
+meraa naam liijiye na mere baap kaa
+qusuur aapakaa ...
+
+ahaa haa haa haa, arii.N rarii.N rii.N,
+vaavav vaa vvaa, huu.N uu.N o.N
+
+pasiinaa to pau.Nchhiye kapa.Do.n ko jhaa.Diye
+phaTii-phaTii aa.Nkho.n se hamako na taa.Diye
+maanaa huzuur kii mai.n kaniiz huu.N
+aap koii chiiz hai.n to mai.n bhii koii chiiz huu.N
+mizaaj kaho kaisaa
+mizaaj kaho kaisaa hai huzuur aapakaa
+meraa naam liijiye na mere baap kaa
+qusuur aapakaa ...
+
+lefT raaiT! lefT raaiT! abaauT Tarn!
 %
 #endindian
 \endsong
