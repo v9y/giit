@@ -2,28 +2,38 @@
 \startsong
 \stitle{zaraa sii baat pyaar kii zubaan se nikal gayii}%
 \film{Salam Memsahab}%
-\year{}%
-\starring{}%
+\year{1961}%
+\starring{Kumkum, Subiraj, K.N. Singh}%
 \singer{Rafi, Suman Kalyanpur}%
 \music{Ravi}%
 \lyrics{Asad Bhopali}%
 %
 % Contributor: Akif Sultan
 % Transliterator: K Vijay Kumar
-% Credits:
-% Editor:
+% Credits:     Balaji A S Murthy
+%              Surajit A Bose
+% Editor:      Vinay P Jain
 %
 \printtitle
 #indian
 %
-zaraa sii baat pyaar kii zubaan se nikal gayii
-huzuur kyaa khataa hui nigaah kyo.n badal gayii
+zaraa-sii baat pyaar kii zubaan se nikal ga_ii
+huzuur kyaa Khataa huii nigaah kyo.n badal ga_ii
 
-zaraa shariif la.Dakiyo.n se baat karanaa siikhiye
-phir usake baad aa_ine me.n apanii shaql dekhiye
-hamaare mahamaan the to baat aake Tal gayii
-nahii.n to log puuchhate ke shaql kyo.n baadal gayii
+zaraa idhar to dekhi_e, nigaahe.n to milaaie 
+ye narm ho.nTh is tarah na daa.Nto.n me.n dabaaie 
+ye ho.nTh kyaa dabe yahaa.N to jaan hii nikal ga_ii 
+huzuur kyaa Khataa huii nigaah kyo.n badal ga_ii 
 
+hamaare pyaar kaa javaab Gairo.n ko na diijie 
+zaraa sa.Nbhal ke baiThi_e pasiinaa po.nchh liijie 
+ye aap kyaa chale yahaa.N, chhurii-sii dil pe chal ga_ii
+huzuur kyaa Khataa hu_ii nigaah kyo.n badal ga_ii 
+
+zaraa shariif la.Dakiyo.n se baat karanaa siikhie
+phir usake baad aaiine me.n apanii shaql dekhie
+hamaare mehamaan the to baat aake Tal ga_ii
+nahii.n to log puuchhate ki shaql kyo.n badal gayii
 %
 #endindian
 \endsong
