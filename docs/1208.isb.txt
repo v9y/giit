@@ -13,36 +13,53 @@
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar - needs correct words (anurag@astro.indiana.edu)
+%          Vijay Kumar K
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
+##Part 1##
+
 mere mahabuub qayaamat hogii
 aaj rusavaa terii galiyo.n me.n muhabbat hogii
-
-naam nikalegaa tere hii lab se
-jaan jab is dil\-e\-naadaan se rukhasat hogii
-mere mahabuub \threedots
-
-terii galii mai.n aataa sanam
-naGame vafaa ke gaataa sanam
-tujh se sunaa naa jaataa sanam
-ab aa pahu.nchaa aayaa huu.N magar
-ye kah kar mai.n diivaanaa
-Katm ab aaj ye vahashat hogii
-aaj rusavaa \threedots
+naam nikalegaa teraa hii lab se
+jaan jab is dil-e-naadaan se ruKhasat hogii
+mere mahabuub ...
 
 mere sanam ke dar se agar
-bad\-e\-sabaa ho teraa guzar
-kahanaa sitamagar kuchh hai khabar
-teraa naam liyaa 
-jab tak bhii jiyaa
-ai shammaa teraa paravaanaa
+baad-e-sabaa ho teraa guzar
+kahanaa sitamagar kuchh hai Khabar
+teraa naam liyaa, jab tak bhii jiyaa
+ai shamaa teraa paravaanaa
 jisase ab tak tujhe nafarat hogii
-aaj rusavaa \threedots
+aaj rusavaa ...
 
-mere mahabuub \threedots
+----
+##Part 2##
+
+mere mahabuub qayaamat hogii
+aaj rusavaa terii galiyo.n me.n muhabbat hogii
+merii nazare.n to gilaa karatii hai.n
+tere dil ko bhii sanam tujhase shikaayat hogii
+
+terii galii mai.n aataa sanam
+naGamaa vafaa kaa gaataa sanam
+tujhase sunaa na jaataa sanam
+phir aaj idhar aayaa huu.N magar
+ye kahane mai.n diivaanaa
+Khatm bas aaj ye vahashat hogii
+aaj rusavaa ...
+
+merii tarah tuu aahe.n bhare
+tuu bhii kisii se pyaar kare
+aur rahe vo tujhase pare
+tuune o sanam Dhaaye hai.n sitam
+to ye tuu bhuul na jaanaa
+ki na tujhape bhii inaayat hogii
+aaj rusavaa ....
 %
 #endindian
 \endsong
