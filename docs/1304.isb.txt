@@ -1,39 +1,70 @@
 %
 \startsong
-\stitle{na ye chaa.Nd hogaa na taare rahe.nge ## geeta dutt ##}%
+\stitle{na ye chaa.Nd hogaa na taare rahe.nge}%
 \film{Shart}%
 \year{1954}%
 \starring{Deepak, Shyama}%
-\singer{Geeta}%
+\singer{Hemant / Geeta}%
 \music{Hemant}%
 \lyrics{S H Bihari}%
 %
 % Contributor:  
 % Transliterator: Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
-% Editor:  
+%          Malini Kanth
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
+
+##This is the Indian version. Lyrics of the Pakistani version are also available on this site.##
+
+##Hemant Kumar##
+
+aa.a.a 
 na ye chaa.Nd hogaa na taare rahe.nge
 magar ham hameshaa tumhaare rahe.nge
-na ye chaa.Nd hogaa\threedots
+na ye chaa.Nd hogaa ...
+
+bichha.Dakar chale jaae.N tumase kahii.n
+to ye naa samajhanaa muhabbat nahii.n
+jahaa.N bhii rahe.n ham tumhaare rahe.nge
+na ye chaa.Nd hogaa ...
+
+zamaanaa agar kuchh kahe bhii to kyaa
+magar tum na kahanaa hame.n bevafaa
+tumhaare li_e hai.n tumhaare rahe.nge
+na ye chaa.Nd hogaa ...
+
+ye hogaa sitam hamane pahale na jaanaa
+banaa bhii na thaa jal gayaa aashiyaanaa
+kahaa.N ab muhabbat ke maare rahe.nge
+na ye chaa.Nd hogaa ...
+
+----
+##Geeta Dutt##
+
+aa.a.a 
+na ye chaa.Nd hogaa na taare rahe.nge
+magar ham hameshaa tumhaare rahe.nge
+na ye chaa.Nd hogaa ...
 
 nazar Dhuu.NDhatii thii jise paa liyaa hai
 ummiido.n ke phuulo.n se daaman bharaa hai
 ye din hamako sab din se pyaare rahe.nge
-na ye chaa.Nd hogaa\threedots
+na ye chaa.Nd hogaa ...
 
-kahuu.N kyaa mere dil kaa armaan kyaa hai
+kahuu.N kyaa mere dil kaa aramaan kyaa hai
 tumhe.n har gha.Dii chuumanaa chaahataa hai
 kahaa.N tak bhalaa jii ko maare rahe.nge
-na ye chaa.Nd hogaa\threedots
+na ye chaa.Nd hogaa ...
 
 sahaaraa mile jo tumhaarii ha.Nsii kaa
 bhulaa de.nge ham saaraa Gam zindagii kaa
-tumhaare liye hai.n tumhaare rahe.nge
-na ye chaa.Nd hogaa\threedots
+tumhaare li_e hai.n tumhaare rahe.nge
+na ye chaa.Nd hogaa ...
 %
 #endindian
 \endsong
