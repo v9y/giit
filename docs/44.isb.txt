@@ -2,48 +2,51 @@
 \startsong
 \stitle{aahe.n na bharii.n shikave na kie}%
 \film{Zeenat}%
-\year{}%
-\starring{}%
+\year{1945}%
+\starring{Noorjehan, Karan Dewan, Yakub}%
 \singer{Noorjehan, Zohrabai Ambalewali, Kalyani}%
 \music{Mir Sahib}%
 \lyrics{Nakshab}%
 %
 % Contributor: David Windsor <David.Windsor@anu.edu.au>
 % Transliterator: David Windsor <David.Windsor@anu.edu.au>
-% Editor: Rajiv Shridhar <rajiv@coe.neu.edu>, Tabassum Hijazi
+% Credits:     Urzung Khan
+%              Surajit A Bose
+% Editor:      Rajiv Shridhar <rajiv@coe.neu.edu>
+%              Tabassum Hijazi
+%              Vinay P Jain
 % Date: 10/25/1996
 %
 \printtitle
 #indian
 %
 aahe.n na bharii.n shikave na kie
-kuchh bhii na zabaa.n se kaam liyaa
-is dil ko paka.D kar baiTh gae
+kuchh bhii na zubaa.N se kaam liyaa
+is par bhii muhabbat chhup na sakii
+jab teraa kisii ne naam liyaa
+ham dil ko paka.D kar baiTh gae
 haatho.n se kalejaa thaam liyaa
 
 puuchhaa jo kisii ne haal to ham
 kuchh kah na sake kuchh kah bhii gae
 roke to bahut aa.Nsuu lekin
 kuchh ruk bhii gae kuchh bah bhii gae
-afsaanaa kahaa aur lab na hile
-ashko.n se jahaa.N kaa kaam liyaa
+afasaanaa kahaa aur lab na hile
+ashko.n se zubaa.N kaa kaam liyaa
 
-rone se bhalaa kyaa dil rukataa
-duniyaa ko aur ta.Dapaataa
-sach puuchhiye ye to Kair huii
+roke se bhalaa kyaa dil rukataa
+duniyaa ko ta.Dap_kar ta.Dapaataa
+sach puuchhiye vo to Khair huii
 mahafil me.n tamaashaa ban jaataa
-kuchh aap adaae.n rok gae
-kuchh zabt se ham ne kaam liyaa
+kuchh aap adaae.N rok gae
+kuchh zabt se hamane kaam liyaa
 
-vo laakh tumhaare zulm sahe
+go laakh tumhaare zulm sahe
 par aa.Nkh se aa.Nsuu bah na sakaa
-biimaar\-e\-mohabbat ai naKashab
+biimaar-e-mohabbat ai naqshab
 kuchh aur to mu.Nh se kah na sakaa
-ik ThaNDii sii lambii aah bharii
-chupake se kisii kaa naam liyaa
-
-aahe.n na bharii.n \threedots
-%
+ik lambii-sii ThaNDii saa.Ns bharii
+chupake-se kisii kaa naam liyaa
 #endindian
 \endsong
 %
