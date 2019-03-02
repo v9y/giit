@@ -11,28 +11,34 @@
 % Contributor:  
 % Transliterator: Avinash Chopde (avinash@acm.org)
 % Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
-%          Preetham Gopalaswamy (preetham@src.umd.edu), Tabassum Hijazi
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Tabassum Hijazi
+%          Amit Malhotra
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-ra: muskuraataa hai ummiido.n kaa chaman aaj kI raat
-la: saarii duniyaa nazar aatii hai dulhan aaj kI raat
-dono: do sitaaro.n kA zamii.n par hai milan aaj kI raat 
-aaj kii raat \threedots
+rafii: do sitaaro.n kaa zamii.n par hai milan aaj kii raat - 2
+    muskuraataa hai ummiido.n kaa chaman aaj kii raat
+lataa: ra.ng laaii hai mere dil kii lagan aaj kii raat
+    saarii duniyaa nazar aatii hai dulhan aaj kii raat
+dono.n: do sitaaro.n kaa zamii.n par hai milan aaj kii raat
+    aaj kii raat
 
-ra: husn vaale terii duniyaa me.n koii aayaa hai
-tere diidaar kii hasarat bhii koii laayaa hai
-to.D de to.D de parde kaa chalan aaj kI raat
-muskuraataa hai ummiido.n kaa chaman aaj kI raat
-dono: do sitaaro.n ka zamii.n par \threedots
+rafii: husn vaale terii duniyaa me.n koii aayaa hai
+    tere diidaar kii hasarat bhii koii laayaa hai
+    to.D de to.D de parde kaa chalan aaj kii raat
+    muskuraataa hai ummiido.n kaa chaman aaj kii raat
+dono.n: do sitaaro.n kaa zamii.n par ...
 
-la: jin se milane kii thii tamannaa vo hii aate hai.n
-chaa.Nd taare merii rAho.n me.n bichhe jaate hai.n
-chuumataa hai tere kadamo.n ko gagan aaj kI raat
-saarii duniyaa nazar aatii hai dulhan aaj kI raat
-dono: do sitaaro.n ka zamii.n par \threedots
+lataa: jinase milane kii thii tamannaa vohii aate hai.n
+    chaa.Nd taare merii raaho.n me.n bichhe jaate hai.n
+    chuumataa hai mere qadamo.n ko gagan aaj kii raat
+    saarii duniyaa nazar aatii hai dulahan aaj kii raat
+dono.n: do sitaaro.n kaa zamii.n par ...
 %
 #endindian
 \endsong
