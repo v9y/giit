@@ -1,8 +1,8 @@
 %
 \startsong
-\stitle{terii pyaarii pyaarii surat ko, kisiikii nazar naa laage chashame}%
+\stitle{terii pyaarii-pyaarii suurat ko kisii kii nazar naa lage, chashm-e-bad duur}%
 \film{Sasural}%
-\year{}%
+\year{1961}%
 \starring{Rajendra Kumar, Saroja Devi}%
 \singer{Rafi}%
 \music{Shankar-Jaikishan}%
@@ -12,27 +12,32 @@
 % Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
 % Credits: Sanjeev Ramabhadran (@princeton.edu)
 %          Satish Subramanian (subraman@cs.umn.edu)
-% Editor:  
+%          U. V. Ravindra
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 % 
-terii pyaarii pyaarii sUrata ko, kisiikii nazara naa laage 
-chashm\-e\-bad.hduur
-mukha.De ko chhupaalo aa.nchala me.n, kahii.n merii nazara naa lage
-chashm\-e\-bad.hduura 
+terii pyaarii-pyaarii suurat ko kisii kii nazar naa lage 
+chashm-e-bad duur
+mukha.De ko chhupaa lo aa.Nchal me.n, kahii.n merii nazar naa lage
+chashm-e-bad duur ...
 
-yuu.N naa akele phiraa karo, sabakii nazara se Daraa karo (2)
-phuula se jyaadaa naazuka ho tuma chAla sambhala kara chalaa karo
-zulfo.n ko giraa lo gaalo.n para, mausama kii nazara naa lage
-chashm\-e\-bad.hduura 
-terii pyaarii pyaarii\threedots
+yuu.N na akele phiraa karo, sab kii nazar se Daraa karo - 2
+phuul se zyaadaa naazuk ho tum, chaal sa.mbhal_kar chalaa karo
+zulfo.n ko giraa lo gaalo.n par, mausam kii nazar naa lage
+chashm-e-bad duur ...
 
-ek jhalaka jo paataa hai, raahii vahii.n ruka jaataa hai (2)
-dekhake teraa ruupa salonaa chaa.Nda bhii sara ko jhukaataa hai
-dekhaa na karo tuma aaiinaa kahii.n khuda kii nazara naa lage
-chashm\-e\-bad.hduura 
-terii pyaarii pyaarii\threedots
+ek jhalak jo paataa hai, raahii vahii.n ruk jaataa hai - 2
+dekhake teraa ruup salonaa chaa.Nd bhii sar ko jhukaataa hai
+dekhaa na karo tuma aaiinaa, kahii.n Khud kii nazar naa lage
+chashm-e-bad duur ...
+
+dil me.n chubhe vo tiir ho tum, chaahat kii taqadiir ho tum - 2
+kaun na hogaa tum pe divaanaa, pyaar bharii tasaviir ho tum
+nikalaa na karo tum raaho.n par, zarro.n kii nazar naa lage
+chashm-e-bad duur ...
 %
 #endindian
 \endsong
