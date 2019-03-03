@@ -1,41 +1,50 @@
 %
 \startsong
-\stitle{piital kii morii gaagarii}%
+\stitle{piital kii merii gaagarii}%
 \film{Do Boond Pani}%
 \year{1971}%
-\starring{Simi Grewal, Jalal Agha}%
+\starring{Simi Garewal, Jalal Agha, Madhu Chanda}%
 \singer{Parveen Sultana, Minoo Purshottam}%
 \music{Jaidev}%
 \lyrics{Kaifi Azmi}%
 %
 % Contributor: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
 % Transliterator: Ashok M. Dhareshwar (ADhareshwar@WorldBank.org)
-% Credits: Neeraj Malhotra (malhotra@bedford.progress.com)
-% Comments: A song as fresh and innocent as morning dew.
+% Credits:     Neeraj Malhotra (malhotra@bedford.progress.com)
+%              Surajit A Bose
+% Editor:      Vinay P Jain
+% Comments: 
 %
 \printtitle
 #indian
 %
-piital kii morii gaagarii, dila.Dii se mol ma.ngaaii re \- 2
-paao.n me.n ghu.ngharuu baa.ndh ke, ab paniyaa bharan ham jaaii re \- 2 
-piital kii morii gaagarii
+piital kii merii gaagarii, dila.Dii se mol ma.Ngaaii re - 2
+paa.Nvo.n me.n ghu.Ngharuu baa.Ndh_ke, ab paniyaa bharan ham jaaii re - 2 
+piital kii merii gaagarii
 
-paayaliyaa bole chhumak chhumak, badalii hai chaal, haay haay
-badalii hai chaal javaanii kii  \- 2
-chundariyaa sarake idhar udhar, besarmii dekh, hoy hoy
-besarmii dekh diivaanI kii \- 2
-badanaamI hogii gaao.n me.n chundarii kahii.n jo tuune ga.Nvaaii re \- 2
-piital kii morii gaagarii
+paayaliyaa bole chhumak-chhumak, badalii hai chaal, haay haay
+badalii hai chaal javaanii kii  - 2
+chunarii sarake idhar-udhar, besarmii dekh, oy hoy
+besarmii dekh diivaanii kii - 2
+badanaamii hogii gaa.Nv me.n chunarii kahii.n jo tuune ga.Nvaaii re - 2
+piital kii merii gaagarii ...
 
 ##tinkling laughter##
 
-sanasan sanasan jiyaa kare jab gagarii Duube paanii me.n \- 2
-apanaa mukha.Daa nayaa lage, ham jab jab, hoy
-ham jab jab dekhe.n paanii me.n \- 2
-gaalo.n pe laalii aa ga_ii, are kis ne ye aag laaii re \- 2
-piital kii morii gaagarii, dila.Dii se mol ma.ngaaii re
-paao.n me.n ghu.ngharuu baa.ndh ke, ab paniyaa bharan ham jaaii re
-piital kii morii gaagarii
+san-san-san-san jiyaa kare jab gagarii Duube paanii me.n
+jab gagarii Duube paanii me.n
+apanaa mukha.Daa nayaa lage, ham jab-jab, o ham jab-jab, o
+ham jab-jab dekhe.n paanii me.n - 2
+gaalo.n pe laalii aa ga_ii, haay kisane ye aag lagaaii re - 2
+piital kii merii gaagarii ...
+
+ek din aisaa bhii thaa, paanii thaa gaa.Nv me.n
+paanii thaa gaa.Nv me.n
+laate the gagarii bharake taaro.n kii chhaa.Nv me.n
+taaro.n kii chhaa.Nv me.n
+kahaa.N se paanii laae.N, kahaa.N ye pyaas bujhaae.N - 2
+jal-jal_ke bairii dhuup me.n sa.Nvalaayaa ra.ng, duhaaii re - 2
+piital kii merii gaagarii ...
 %
 #endindian
 \endsong
