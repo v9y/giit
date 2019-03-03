@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{jaag dil\-e\-diivaanaa ruta jaagii vasla\-e\-yaar kii}%
+\stitle{jaag dil-e-diivaanaa rut jaagii vasl-e-yaar kii}%
 \film{Oonche Log}%
 \year{1965}%
 \starring{Ashok Kumar, Rajkumar, Feroz Khan, Kanhaiyalal}%
@@ -12,26 +12,31 @@
 % Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
 % Credits: Rajan Parrikar (parrikar@spot.colorado.edu)
 %          Satish Subramanian (subraman@cs.umn.edu)
-% Editor:  
+%          Ramesh Subramaniam
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 % 
-(jaaga dila\-e\-diivaanaa ruta jaagii vasla\-e\-yaara kii
-basii huii zulf me.n aayii hai sabaa pyaara kii ) \- 2
-jaaga dila\-e\-diivaanaa
+jaag dil-e-diivaanaa rut jaagii vasl-e-yaar kii
+basii huii zulf me.n aaii hai sabaa pyaar kii 
+jaag dil-e-diivaanaa ...
 
-(do dila ke kuchha leke payaama aayii hai     
-chaahata ke kuchha leke salaama aayii hai ) \- 2
-dara pe tere subah kha.Dii huii hai diidaara kii
-jaaga dila\-e\-diivaanaa \threedots
+do dil ke kuchh leke payaam aaii hai
+chaahat ke kuchh leke salaam aaii hai
+dar pe tere subah kha.Dii huii hai diidaar kii
+jaag dil-e-diivaanaa ...
 
-(ek parii kuchha shaada sii nAshaada sI
-baiThI huii shabanama me.n terii yaada kii  ) \- 2
-bhiig rahii hogii kahii.n kalii sii gulazaara kii
-jaaga dila\-e\-diivaanaa ruta jaagii vasla\-e\-yaara kii 
-basii huii zulpha me.n aayii hai sabaa pyaara kii 
-jaaga dila\-e\-diivaanaa
+ek parii kuchh shaad-sii naashaad-sii
+baiThii huii shabanam me.n terii yaad kii
+bhiig rahii hogii kahii.n kalii-sii gulazaar kii
+jaag dil-e-diivaanaa ...
+
+o mere dil ab Khvaabo.n se mu.Nh mo.D le
+biitii huii sab raate.n yahii.n chho.D de
+tere to din-raat hai ab aa.Nkho.n me.n diladaar kii
+jaag dil-e-diivaanaa ...
 %
 #endindian
 \endsong
