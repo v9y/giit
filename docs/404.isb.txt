@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{chhupanevaale saamane aa, chhup chhup ke meraa jii na jalaa}%
+\stitle{chhupanevaale saamane aa, chhup-chhup_ke meraa jii na jalaa}%
 \film{Tumsa Nahin Dekha}%
 \starring{Shammi Kapoor, Ameeta}%
 \singer{Rafi}%
@@ -12,33 +12,43 @@
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 %          Abdul Razak
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Neha Desai
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-chhupane vaale saamane aa
-chhup chhup ke meraa jii na jalaa
-suuraj se kiran baadal se pavan
+chhupanevaale saamane aa
+chhup-chhup_ke meraa jii na jalaa
+suuraj se kiraN baadal se pavan
 kab talak chhupegii ye to bataa
-chhupane vaale saamane aa \threedots
+chhupanevaale saamane aa ...
 
-aakhir tere naaz kii ye
+aaKhir tere naaz kii ye
 haar nahii.n to aur hai kyaa
-dau.D ke aanaa paas mere
+dau.D_ke aanaa paas mere
 pyaar nahii.n to aur hai kyaa
 duur kha.Dii hairaan hai kyaa
-daa.Nto.n me.n yuu.N u.ngalii na dabaa
-chhupane vaale saamane aa \threedots
+daa.Nt me.n yuu.N u.Ngalii na dabaa
+chhupanevaale saamane aa ...
+
+uupar-niiche saa.Ns huii
+komal tan bal khaa hii gayaa
+sun_kar merii baat sanam
+tujhako pasiinaa aa hii gayaa
+ab dil kii dha.Dakan na chhupaa
+sar na jhaTak aa.Nkhe.n na dikhaa
+chhupanevaale saamane aa ...
 
 aa lipaTii hai dil se mere
-zulf terii bal khaaii huI
+zulf terii bal khaaii huii
 dekh rahaa huu.N terii nazar
-apanii nazar tak aa_I huI
+apanii nazar tak aaii huii
 gaalo.n par zulfe.n na giraa
 tuu hai qayaamat mai.n huu.N balaa
-chhupane vaale saamane aa \threedots
-
+chhupanevaale saamane aa ...
 %
 #endindian
 \endsong
