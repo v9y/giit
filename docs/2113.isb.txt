@@ -8,25 +8,26 @@
 \music{Shankar-Jaikishan}%
 \lyrics{Virendra Mishra}%
 %
-% Contributor: Surajit Bose
-% Transliterator: Surajit Bose
+% Contributor: Surajit A Bose
+% Transliterator: Surajit A Bose
 % Credits: 
-% Editor:
+% Editor:      Vinay P Jain
 % Comments :
 %
 \printtitle
 #indian
 %
-juu.De me.n gajaraa mat baa.Ndho, meraa giit mahak jaayegaa
-merii priit sulag jaayegii, meraa pyaar chhalak jaayegaa
+juu.De me.n gajaraa mat baa.Ndho, meraa giit mahak jaaegaa
+terii priit sulag jaaegii, meraa pyaar chhalak jaaegaa
 
-jab tum letii ho a.Nga.Daa_ii 
-dil kii dha.Dakan ba.Dh jaatii hai
-pairo.n me.n ghu.Ngharuu mat baa.Ndho, koii raah bhaTak jaayegaa
+jitanii nazar jhukaaogii tum, utanii nazar lagegii tumako
+naino.n me.n kajaraa mat Daalo, koii raah bhaTak jaaegaa
 
-tere a.ngo.n ke madhyam me.n pyaase giito.n kaa saragam hai
-saj\-dhaj kar itanaa mat Dolo, koii raag bahak jaayegaa
+jab tum letii ho a.Nga.Daaii, dil kii dha.Dakan ba.Dh jaatii hai
+pairo.n me.n ghu.Ngharuu mat baa.Ndho, koii saaz chahak jaaegaa
 
+tere a.ngo.n kii thirakan me.n pyaase giito.n kaa saragam hai
+saj-dhaj_kar itanaa mat Dolo, meraa raag bahak jaaegaa
 %
 #endindian
 \endsong
