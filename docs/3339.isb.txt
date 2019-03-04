@@ -1,7 +1,4 @@
 % ITRANS SONG # 3339; Created on Jan 26, 2004
-%
-%      From: Surajit A. Bose (sbose@saintmarys.edu)
-%      Date: 2001-03-02 17:42:10 PST 
 % 
 \startsong
 \stitle{hamasafar saath apanaa chho.D chale}%
@@ -12,35 +9,40 @@
 \music{Madan Mohan}%
 \lyrics{Majrooh}%
 % 
-% Contributor: Surajit A. Bose
-% Transliterator: Surajit A. Bose
+% Contributor: Surajit A Bose
+% Transliterator: Surajit A Bose
 % Date: March 2, 2001
+% Editor: Vinay P Jain
 % Comments: GEETanjali series
 %
 \printtitle
 #indian
 %
-ra \:	hamasafar saath apanaa chho.D chale
-	rishte naate vo saare to.D chale
-	hamasafar saath \threedots
-aa \:	hamasafar saath apanaa chho.D chale
-	rishte naate vo saare to.D chale
-	hamasafar saath \threedots
+ra: hamasafar saath apanaa chho.D chale
+    rishte-naate vo saare to.D chale
+    hamasafar saath
+aa: hamasafar saath apanaa chho.D chale
+    hamasafar saath
 
-ra \:	raasataa saaf thaa to chalate rahe
-	saath ha.Nsate rahe machalate rahe
-	mo.D aaya to muu.Nh ko mo.D chale
-	hamasafar saath \threedots
-	
-aa \:	sapane TuuTe pa.De hai.n raaho.n me.n
-	dard kii dhuul hai nigaaho.n me.n
-	dil pe qadamo.n ke naqsh chho.D chale
-	hamasafar saath \threedots
-	
-ra \:	jab unhe.n hamase pyaar hii na rahaa
-	roye.n kyaa, intazaar bhii na rahaa
-	ham bhii daaman ko ab nicho.D chale
-	hamasafar saath \threedots
+ra: raastaa saaf thaa to chalate rahe
+    saath ha.Nsate rahe machalate rahe
+    mo.D aayaa to mu.Nh ko mo.D chale
+    hamasafar saath  ...
+
+aa: sapane TuuTe pa.De hai.n raaho.n me.n
+    dard kii dhuul hai nigaaho.n me.n
+    dil pe qadamo.n ke naqsh chho.D chale
+    hamasafar saath  ...
+
+ra: jab unhe.n hamase pyaar hii na rahaa
+    roe.N kyaa, intazaar bhii na rahaa
+    ham bhii daaman ko ab nicho.D chale
+    hamasafar saath  ...
+
+aa: ham ummiido.n ke jaal bunate rahe
+    Tuka.De-Tuka.De Khushii ke chunate rahe
+    vo kisii aur hii se jo.D chale
+    hamasafar saath  ...
 %
 #endindian
 \endsong
