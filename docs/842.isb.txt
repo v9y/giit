@@ -1,54 +1,63 @@
 %
 \startsong
-\stitle{jahaa.N Daal\-Daal par sone kii chi.Diyaa.n karatii hai.n baseraa}%
+\stitle{jahaa.N Daal-Daal par sone kii chi.Diyaa.N karatii hai.n baseraa}%
 \film{Sikandar-e-Aazam}%
-\year{}%
+\year{1965}%
 \starring{Prithviraj Kapoor, Dara Singh, Mumtaz}%
 \singer{Rafi}%
 \music{Hansraj Behl}%
 \lyrics{Rajinder Krishan}%
 %
-% Contributor:  
+% Contributor:
 % Transliterator: Avinash Chopde (avinash@acm.org)
 % Credits: Jay Naik (naik@nynexst.com)
 %          Raj Ganesan (cpd.tandem.com!raj)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Neha Desai
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-jahaa.N Daal\-Daal par
-sone kii chi.Diyaa.n karatii hai baseraa
+jahaa.N Daal-Daal par sone kii chi.Diyaa.N karatii hai.n baseraa
 vo bhaarat desh hai meraa
 
-jahaa.N satya, ahi.nsaa aur dharm kaa
-pag\-pag lagataa Deraa
-vo bhaarat desh hai meraa
+guruurbrahmaa, guruurviShNu, guruurdevo maheshwaraH
+guruuH saakShaat.h parabrahmaa, tasmai shrii gurave namaH
 
-ye dharatii vo jahaa.N R^ishhi muni
-japate prabhu naam kii maalaa
-jahaa.N har baalak ek mohan hai
-aur raadhaa har ek baalaa
-jahaa.N suuraj sabase pahale aa kar 
-Daale apanaa pheraa
-vo bhaarat desh hai meraa
+jahaa.N Daal-Daal par sone kii chi.Diyaa.N karatii hai.n baseraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+jahaa.N satya ahi.nsaa aur dharm kaa pag-pag lagataa Deraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+jay bhaaratii - 4
 
-alabelo.n kii is dharatii ke
-tyohaar bhii hai alabele
-kahii.n diivaalii kii jagamag hai
-kahii.n hai.n holii ke mele
-jahaa.N raag ra.ng aur ha.Nsii khushii kaa
-chaaro aur hai gheraa
-vo bhaarat desh hai meraa
+ye dharatii vo jahaa.N R^iShi-muni japate prabhu naam kii maalaa
+hari AUM - 4
+jahaa.N har baalak ek mohan hai aur raadhaa ek-ek baalaa
+jahaa.N suuraj sabase pahale aakar Daale apanaa pheraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
 
-jahaa.N aasamaan se baate karate
-ma.ndir aur shivaale
-jahaa.N kisii nagar me kisii dvaar par
-koii na taalaa Daale
-prem kii ba.nsii jahaa.N bajaataa 
-hai ye shaam saveraa
-vo bhaarat desh hai meraa \threedots
+jahaa.N ga.ngaa jamunaa kR^iShNaa aur kaaverii bahatii jaae.N
+jahaa.N uttar-dakShiN puurab-pashchim ko amR^it pilavaae.N
+ye amR^it pilavaae.N
+kahii.n ye to phal aur phuul ugaae.N, kesar kahii.n bikheraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+
+alabelo.n kii is dharatii ke tyohaar bhii hai.n alabele
+kahii.n divaalii kii jagamag hai, holii ke kahii.n mele
+holii ke kahii.n mele
+jahaa.N raag-ra.ng aur ha.Nsii-Khushii kaa chaaro.n or hai gheraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+
+jahaa.N aasamaan se baate karate.n ma.ndir aur shivaale
+kisii nagar me kisii dvaar par koii na taalaa Daale
+aur prem kii ba.nsii jahaa.N bajaataa aae shaam saveraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+jahaa.N satya ahi.nsaa aur dharm kaa pag-pag lagataa Deraa
+vo bhaarat desh hai meraa, vo bhaarat desh hai meraa
+jay bhaaratii - 4
 %
 #endindian
 \endsong
