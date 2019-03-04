@@ -1,36 +1,45 @@
 % 
 \startsong
 \stitle{dekh lo aaj hamako jii bharake}%
-\film{Baazaar}%
+\film{Bazaar}%
 \year{1982}%
-\starring{Supriya Pathak}%
+\starring{Supriya Pathak, Farooq Shaikh, Smita Patil, Naseeruddin Shah}%
 \singer{Jagjit Kaur}%
 \music{Khaiyyam}%
 \lyrics{Mirza Shauq}%
 % 
 % Contributor: Himanshu Gupta (himanshu.gupta@eng.sun.com) 
 % Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
-% Date: Tue Aug  8 1995
-% Credits:  
-% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
+% Date: Tue August 8 1995
+% Credits: Abhay Phadnis
+%          U V Ravindra
+%          Surajit A Bose
+% Editor:  Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          Vinay P Jain
 % Comments:  
 %
 \printtitle
 #indian
 %
-dekh lo aaj hamako jii bharake \-2
+dekh lo aaj hamako jii bharake
 koii aataa nahii.n hai phir marake
+dekh lo ...
 
-ho ga_e tum, aGar ke saudaa_ii
-duur pahu.Nchegii merii rusvaaii
-dekh lo aaj \threedots
+ho gae tum agar_che saudaaii
+duur pahu.Nchegii merii rusavaaii
+dekh lo ...
 
-aao achchii tarah se karalo pyaar
-ke nikal jaae.n ham manaa lo tum
-dekh lo aaj \threedots
+aao, achchhii tarah se kar lo pyaar
+ki nikal jaae kuchh dil kaa buKhaar
+dekh lo ...
 
-yaad itanii tumhe.n dilaate jaa_e.n
-paan kalake li_e lagaate laae.n
+phir ham uThane lage, biThaa lo tum
+phir biga.D jaae.N ham, manaa lo tum
+dekh lo ...
+
+yaad itanii tumhe.n dilaate jaae.N
+paan kal ke li_e lagaate jaae.N
+dekh lo ...
 %
 #endindian
 \endsong
