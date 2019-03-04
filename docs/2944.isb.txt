@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{ruuTh_ke tum to chal di_e}%
+\stitle{ruuTh_ke tum to chal die}%
 \film{Jalti Nishani}%
 \year{1957}%
 \starring{Geeta Bali, Kamal Kapoor}%
@@ -14,7 +14,8 @@
 %              Har Mandir Singh "Hamraaz"
 %              Surajit A Bose
 % Editor:      Vinay P Jain
-% Comments: Nani got the third verse from Hamraaz. It is not clear whether a recording (audio/video) exists.
+% Comments: D Naniwadekar got the lyrics of the third verse from Hamraaz. 
+% There is no known recording (audio/video) of the verse in existence.
 %
 \printtitle
 #indian
@@ -29,7 +30,7 @@ sunake merii sadaa-e-Gam, ro diyaa aasamaan bhii
 tum tak na jo pahu.Nch sake, aisii sadaa ko kyaa karuu.N
 
 agar tuu hai meraa Khudaa, sun le ye merii iltajaa
-lauT aaye meraa dilarubaa, laut aaye meraa dilarubaa
+lauT aae meraa dilarubaa, lauT aae meraa dilarubaa
 phir na kabhii kahuu.Ngii mai.n, aise Khudaa ko kyaa karuu.N
 %
 #endindian
