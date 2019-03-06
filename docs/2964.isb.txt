@@ -3,31 +3,31 @@
 \stitle{teraa dil kahaa.N hai, sab kuchh yahaa.N hai}%
 \film{Chandni Chowk}%
 \year{1954}%
-\starring{Meena Kumari, Shekar}%
+\starring{Meena Kumari, Shekhar, Smriti Biswas}%
 \singer{Asha}%
 \music{Roshan}%
 \lyrics{}%
 %
 % Contributor:Srinivas Ganti
 % Transliterator:Srinivas Ganti
-% Credits:
 % Date:9 March,2001
+% Credits:    V V Padalkar
+%             Surajit A Bose
+% Editor:     Vinay P Jain
 % Comments : Lyricist not specified in HFGK.
 %
 \printtitle
 #indian
 %
-
-(teraa dil kahaa.N hai, sab kuchh yahaa.N hai
-dil bhii javaa.N, ye rut bhii javaa.N, ye soyaa jahaa.N)\-2
-teraa dil kahaa.N hai
-
-(aise me.n aake, aise me.n aake
-dil me.n samaa jaa, dil me.n samaa jaa)\-2
 teraa dil kahaa.N hai, sab kuchh yahaa.N hai
-dil bhii javaa.N, ye rut bhii javaa.N, ye soyaa jahaa.N
-teraa dil kahaa.N hai
+tuu bhii javaa.N, ye rut bhii javaa.N, hai soyaa jahaa.N
+teraa dil kahaa.N hai ...
 
+aa.Nkho.n me.n aake, aa.Nkho.n me.n aake
+dil me.n samaa jaa, dil me.n samaa jaa
+ra.ngii.n samaa.N hai, chup aasamaa.N hai
+tuu bhi jawaa.N ye rut bhii jawaa.N, hai soyaa jahaa.N
+teraa dil kahan hai ...
 %
 #endindian
 \endsong
