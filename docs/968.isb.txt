@@ -1,9 +1,9 @@
 % 
 \startsong
-\stitle{kasame.n ham apanii jaan kii khaae chale gae}%
-\film{Mere Garib Nawaz}%
+\stitle{qasame.n ham apanii jaan kii khaae chale gae}%
+\film{Mere Gharib Nawaz}%
 \year{1973}%
-\starring{Nazneen}%
+\starring{Nazneen, Satish Arora, Anwar Ali}%
 \singer{Anwar}%
 \music{Kamal Rajasthani}%
 \lyrics{Mehboob Sarwar}%
@@ -14,20 +14,22 @@
 % Credits: Bakulesh Thakker <thakker.bakulesh@mayo.edu>
 %          Anup Pandey <apandey@raynet.com>
 %          Tabassum Hijazi
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 \printtitle
 #indian
 %
-kasame.n ham apanii jaan kii khaae chale gae
-phir bhii voh aitabaar na laae chale gae
+qasame.n ham apanii jaan kii khaae chale gae
+phir bhii vo aitabaar na laae chale gae
 
-kah kar gae the voh ki na aae.nge ab kabhii \- 2
-lekin khayaal ban ke voh aaye chale gae
+kahakar gae the vo ki na aae.Nge ab kabhii
+lekin Khayaal banake vo aae chale gae
 
-rusvaaio.n ke Dar se na daaman bhiigo sake \- 2
-??? ??? ???
+rusavaaio.n ke Dar se na daaman bhigo sake
+palako.n me.n aa.Nsuo.n ko chhupaae chale gae
 
-'anvar' sujuud\-e\-shauq kii mat puuchh i.ntahaa
-har har qadam pe sar ko jhukaaye chale gae
+'anavar' sujuud-e-shauq kii mat puuchh intahaa
+har-har qadam pe sar ko jhukaae chale gae
 %
 #endindian
 \endsong
