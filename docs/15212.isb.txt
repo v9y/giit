@@ -1,48 +1,49 @@
-% ITRANS SONG
-
+%
 \startsong
-\stitle{terii jhiil sii gaharii aa.Nkho.n me.n}%
+\stitle{terii jhiil-sii gaharii aa.Nkho.n me.n}%
 \film{Dhuen Ki Lakeer}%
 \year{1974}%
-\starring{Parveen Babi, Ramesh Arora, Deenu Harish, Preety Ganguli}%
-\singer{Nitin Mukesh, Vani Jayram}%
-\music{Shyamji Ghanshyamji}%
+\starring{Parveen Babi, Ramesh Arora, Deenu Harish, Preeti Ganguli}%
+\singer{Nitin Mukesh, Vani Jairam}%
+\music{Shyamji-Ghanshyamji}%
 \lyrics{Rameshwar Tyagi}%
-
+% 
 % Contributor: [BOL ANAMOL], V S Rawat, Oct 22, 2004
-
-% First Film of Shyamji Ghanshyamji
-
+% Transliterator: 
+% Credits: Surajit A Bose
+% Editor:  Vinay P Jain
+% Comments: First Film of Shyamji-Ghanshyamji
+%
 \printtitle
 #indian
 
-ni \:	terii jhiil sii gaharii aa.Nkho.n me.n
-	kuchh dekhaa mai.nne, kyaa dekhaa
-	
-vaa \:	mai.n samajh ga_ii re diiwaane
-	tuune raat ko_ii sapanaa dekhaa
-	
-ni \:	saa.Nso.n me.n chhipii dha.Dakan ke sa.ng
-	jab pyaar ne lii thii a.nga.Daa_ii
-	ek swarg parii chham\-chham karatii
-	baa.Nho.n me.n mere aa sharamaa_ii
-	madamast jawaanii kaa ?? \-2
-	?? me.n chhipanaa dekhaa
-	
-vaa \:	mai.n samajh ga_ii re diiwaane
-	tuune raat ko_ii sapanaa dekhaa
-ni \:	terii jhiil sii gaharii aa.Nkho.n me.n
-	
-	amR^it ke saagar kii shruti
-	mandir ke diipak kii jyoti
-	alha.D kamalo.n me.n chhupe huye
-	hiire niilam maaNik motii
-	terii uThatii jhukatii palako.n me.n \-2
-	suuraj dekhaa chandaa dekhaa
-	
-vaa \:	mai.n samajh ga_ii re diiwaane
-	tuune raat ko_ii sapanaa dekhaa
-ni \:	terii jhiil sii gaharii aa.Nkho.n me.n
+ni: terii jhiil-sii gaharii aa.Nkho.n me.n
+    kuchh dekhaa hamane
+vaa: kyaa dekhaa
+ni: tum bataao
+vaa: mai.n samajh ga_ii re diiwaane
+    tuune raat koii sapanaa dekhaa
+ni: terii jhiil-sii gaharii ...
+
+ni: saa.Nso.n me.n chhipii dha.Dakan ke sa.ng
+    jab pyaar ne lii thii a.Nga.Daaii
+    ek swarg-parii chham-chham karatii
+    baa.Nho.n me.n merii aa musakaaii
+    madamast jawaanii kaa palako.n ke
+    aa.Nchal me.n chhipanaa dekhaa
+vaa: mai.n samajh ga_ii re diiwaane
+    tuune raat koii sapanaa dekhaa
+ni: terii jhiil-sii gaharii aa.Nkho.n me.n
+
+ni: amR^it ke saagar kii shruti
+    ma.ndir ke diipak kii jyoti
+    alha.D kamalo.n par pa.De hu_e
+    hiire niilam maaNik motii
+    terii uThatii-jhukatii palako.n me.n - 2
+    suuraj dekhaa chandaa dekhaa
+vaa: mai.n samajh ga_ii re diiwaane
+    tuune raat koii sapanaa dekhaa
+ni: terii jhiil-sii gaharii aa.Nkho.n me.n
 
 #endindian
 \endsong
