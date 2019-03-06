@@ -15,10 +15,10 @@
 \printtitle
 #indian
 
-## This is the Ghazal as it appears in Faiz's original. 
-## In Asha's recording there are a few changes: "chhalakaa" 
-## for "jhalakaa" and "shiishaa-o-mai" for "shiishaa-e-mai". 
-## Ghulam Ali sings the last verse in live performances.
+## This is the Ghazal as it appears in Faiz's original. ##
+## In Asha's recording there are a few changes: "chhalakaa" ##
+## for "jhalakaa" and "shiishaa-o-mai" for "shiishaa-e-mai". ##
+## Ghulam Ali sings the last verse in live performances. ##
 
 yuu.N sajaa chaa.Nd ki jhalakaa tere a.ndaaz kaa ra.ng
 yuu.N fazaa mahakii ki badalaa mere hamaraaz kaa ra.ng
@@ -33,7 +33,7 @@ cha.ng-o-nai ra.ng pe the apane lahuu ke dam se
 dil ne lay badalii to maddham huaa har saaz kaa ra.ng
 
 ek suKhan aur ki phir ra.ng-e-takallum teraa 
-harf-e-saadaa ko inaayat kare ejaaz ka ra.ng 
+harf-e-saadaa ko inaayat kare ejaaz kaa ra.ng 
 %
 #endindian
 \endsong
