@@ -1,35 +1,43 @@
 % ITRANS SONG # 3404; Created on Jan 26, 2004
 %
 \startsong
-\stitle{madabharii ye hawaae.n paas aae.n}%
-\film{Anokhaa Daan}%
+\stitle{madabharii ye hawaae.N paas aae.N}%
+\film{Anokha Daan}%
 \year{1972}%
 \starring{Anil Dhawan, Archana, Rakesh Pande, Zahira}%
 \singer{Lata}%
-\music{Salil Choudhuri}%
-\lyrics{Gulzaar}%
+\music{Salil Chowdhury}%
+\lyrics{Gulzar}%
 %
 % Contributor: Devendra Sharma (devmbox@yahoo.com)
 % Transliterator: Devendra Sharma
+% Credits: K Vijay Kumar
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 % Comments: LATAnjali
 % Date: 2 September 2002
 %
 \printtitle
 #indian
 %
-madabharii ye hawaae.n paas aae.n
-naam lekar mujhako ye bulaae.n
-madabharii ye hawaae.n
+madabharii ye hawaae.N paas aae.N
+naam lekar mujhako ye bulaae.N
+madabharii ye hawaae.N ...
 
-mai.n ne raato.n se kar lii dostii taaro.n ke liye
-aur churaa ke liyaa mai.nne ye din bahaaro.n ke liye
-ai zamii.n aasamaa.n mujhako do duaae.n
-madabharii ye hawaae.n
+mai.nne raato.n se kar lii dostii taaro.n ke liye
+aur churaake liyaa mai.nne ye din bahaaro.n ke liye
+ai zamii.n aasamaa.N mujhako do duaae.N
+madabharii ye hawaae.N ...
 
-mai.nne laharo.n kii baahe.n thaam kar Dhuu.nDhe hai.n bh.nvar
+mai.nne laharo.n kii baa.Nhe.n thaamakar Dhuu.NDhe hai.n bha.Nvar
 saahilo.n pe kisii ajanabii kii talaashii hai Dagar
-kaash le kar unhe.n lahare.n lauT aae.n
-madabharii ye hawaae.n
+kaash lekar use lahare.n lauT aae.N
+madabharii ye hawaae.N ...
+
+meraa aa.Nchal paka.D_ke pyaar se kahatii hai havaa
+chal jidhar mai.n chaluu.N, jaa milegaa unhii.n se raastaa
+jinase ma.nzil mile unase jo.D raahe.n
+madabharii ye hawaae.N ...
 %
 #endindian
 \endsong
