@@ -1,31 +1,40 @@
 % 
 \startsong
 \stitle{dil kii tamannaa thii mastii me.n manzil se ##(sad version)##}%
-\film{Gyaarah Hazaar Ladakiyaan}%
-\year{}%
+\film{Gyara Hazar Ladkian}%
+\year{1963}%
 \starring{Bharat Bhushan, Mala Sinha, Helen}%
 \singer{Rafi}%
 \music{N Dutta}%
 \lyrics{Majrooh}%
 % 
-% Contributor: Malini K. Murthy (fl849@cleveland.Freenet.Edu)
+% Contributor: Malini Kanth (fl849@cleveland.Freenet.Edu)
 % Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
 % Date: Sun Oct 22 1995
 % Credits: Ashok Dhareshwar (adhareshwar@worldbank.org)
-% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          Surajit A Bose
+% Editor:  Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          Vinay P Jain
 % Comments:  
 %
 \printtitle
 #indian
 %
-dil kI tamannA thI mastI me.n ma.nzil se bhI dUr nikalate
-apanA bhI koI sAthI hotA, ham bhI bahakate chalate\-chalate
+dil kii tamannaa thii mastii me.n ma.nzil se bhii duur nikalate
+apanaa bhii koii saathii hotaa, ham bhii bahakate chalate-chalate
+dil kii tamannaa ...
 
-sAthI milA, yU.N to magar, raste me.n thA chA.NdI kA nagar \-2
-chA.NdI kI nagarI bhAI use ham, rah ga_e A.Nkhe.n malate\-malate
+saathii milaa, yuu.N to magar, raste me.n thaa chaa.Ndii kaa nagar - 2
+chaa.Ndii kii nagarii bhaaii use ham rah gae aa.Nkhe.n malate-malate
+dil kii tamannaa ...
 
-yAdo.n kI dhUl A.Nkho.n me.n hai, dAman kI hasarat hAtho.n me.n hai \-2
-khvAbo.n ke vIrAne me.n tanhA, thak gayA rAhI chalate\-chalate
+usane ye dil Thukaraa diyaa, shiishaa hii thaa sonaa to na thaa - 2
+sikko.n kii jhanakaar me.n kho gaye giit vafaa ke Dhalate-Dhalate
+dil kii tamannaa ...
+
+yaado.n kii dhuul aa.Nkho.n me.n hai, daaman kii hasarat haatho.n me.n hai - 2
+Khwaabo.n ke viiraane me.n tanahaa, thak gayaa raahii chalate-chalate
+dil kii tamannaa ...
 %
 #endindian
 \endsong
