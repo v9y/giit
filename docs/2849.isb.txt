@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{ham haal-e-dil sunaaye.nge}%
+\stitle{ham haal-e-dil sunaae.Nge}%
 \film{Madhumati}%
 \year{1958}%
 \starring{Vyjayantimala, Dilip Kumar}%
@@ -10,7 +10,9 @@
 %
 % Contributor: K Vijay Kumar
 % Transliterator: K Vijay Kumar
-% Credits:
+% Credits: Nimish Pachapurkar
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 % Comments:
 %
 \printtitle
@@ -20,17 +22,17 @@
 tumhaaraa dil mere dil ke baraabar ho nahii.n sakataa
 vo shiishaa ho nahii.n sakataa ye patthar ho nahii.n sakataa
 
-ham haal-e-dil sunaaye.nge suniye ki na suniye \-2
-sau baar muskuraaye.nge suniye ki na suniye
-ham haal-e-dil sunaaye.nge \threedots
+ham haal-e-dil sunaae.Nge sunie ki na sunie
+sau baar ye doharaae.Nge sunie ki na sunie
+ham haal-e-dil sunaae.Nge ...
 
-rahegaa ishq teraa Kaaq me.n milaa ke mujhe
-hue hai.n ibtadaa-e-ra.nj ... i.ntahaa ke mujhe
-ham haal-e-dil sunaaye.nge \threedots
+rahegaa ishq teraa Khaak me.n milaake mujhe
+hue hai.n ibridaa me.n ra.nj i.ntahaa ke mujhe
+ham haal-e-dil sunaae.Nge ...
 
-ajab hai aah merii naam... hai meraa
-tamaam shahar jalaa doge kyaa jalaa ke mujhe
-ham haal-e-dil sunaaye.nge \threedots
+ajab hai aah merii naam daaG hai meraa
+tamaam shahar jalaa doge kyaa jalaake mujhe
+ham haal-e-dil sunaae.Nge ...
 
 %
 #endindian
