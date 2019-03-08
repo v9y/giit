@@ -1,33 +1,39 @@
 %
 \startsong
 \stitle{jiivan jyot jale}%
-\film{Grihasthi}%
+\film{Grahasthi}%
 \year{1963}%
-\starring{Nirupa Roy}%
+\starring{Ashok Kumar, Nirupa Roy, Pushpavalli, Bharati Malvankar}%
 \singer{Asha}%
 \music{Ravi}%
 \lyrics{Shakeel}%
 %
-% Contributor: Nita
-% Transliterator: Nita
+% Contributor: Nita Awatramani
+% Transliterator: Nita Awatramani
 % Credits: Neha Desai
-% Editor: 
+%          Surajit A Bose
+% Editor:  Vinay P Jain
+% Comments: Raga Sohni
 %
 \printtitle
 #indian
 %
-
 jiivan jyot jale
 kou na jaane kab nikase din
 aur kab raat Dhale
-jiivan jyot jale \threedots
+jiivan jyot jale ...
 
-bhor bhaye to man muskaaye
-sa.Njh bhaye to niir bahaaye
+bhor bhae to man musakaae
+saa.Njh bhae to niir bahaae
 ek pal maan kare sa.nsaarii
 ek pal haath male
-jiivan jyot jale \threedots
+jiivan jyot jale ...
 
+man maalaa me.n Daar vo motii
+jisame.n jalii ho prem kii jyoti
+usii kii naiya paar hai jag me.n
+jaake kaaj bhale
+jiivan jyot jale ...
 %
 #endindian
 \endsong
