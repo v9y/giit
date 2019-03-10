@@ -3,7 +3,7 @@
 \stitle{ham i.ntazaar kare.nge, teraa qayaamat tak}%
 \film{Bahu Begum}%
 \starring{Pradeep Kumar, Meena Kumari, Ashok Kumar}%
-\singer{Rafi / Rafi, Lata}%
+\singer{Rafi / Rafi, Asha}%
 \music{Roshan}%
 \lyrics{Majrooh}%
 %
@@ -11,60 +11,68 @@
 % Transliterator:  
 % Credits: Mohan Rathore at Rutgers Univ., New Brunswick, N.J. 
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-ham i.ntazaar kare.nge (2) qayaamat tak
-khudaa kare ki qayaamat ho, aur tuu aae (2)
-ham i.ntazaar kare.nge \threedots
-
-na de.nge ham tujhe ilazaam bevafaaI kaa
-magar gilaa to kare.nge terii judaaI kaa
-tere khilaaf shikaayat ho (2) aur tuu aae
-khudaa kare ke kayaamat ho, aur tuu aae
-ham i.ntazaar kare.nge \threedots
-
-ye zi.ndagii tere kadamo.n me.n Daal jaae.nge
-tujhii ko terii amaanat sambhaal jaae.nge
-hamaaraa aalam\-e\-rukhasat ho (2) aur tuu aae
-
-bujhii\-bujhii sii nazar me.n terii talaash liye
-bhaTakate phirate hai.n ham aaj apanii laash liye
-yahii zunuun yahii vahashat ho (2) aur tuu aae
-
-## Duet Version ##
-(lataa:)
 ham i.ntazaar kare.nge 
 ham i.ntazaar kare.nge teraa qayaamat tak
-Kudaa kare ki qayaamat ho, aur tuu aae \-2
-ham i.ntazaar kare.nge\threedots
+Khudaa kare ki qayaamat ho, aur tuu aae - 2
+ham i.ntazaar kare.nge
 
-ye i.ntazaar bhii ek imtihaa.n hotaa hai
-isiise ishq kaa sholaa javaa.n hotaa hai
-ye i.ntazaar salaamat ho 
-ye i.ntazaar salaamat ho aur tuu aae
-Kudaa kare ki qayaamat ho, aur tuu aae
-ham i.ntazaar kare.nge\threedots
+bujhii-bujhii sii nazar me.n terii talaash liye
+bhaTakate phirate hai.n ham aap apanii laash liye
+yahii junuu.N yahii vahashat ho
+yahii junuu.N yahii vahashat ho, aur tuu aae
+Khudaa kare ki qayaamat ho, aur tuu aae
+ham i.ntazaar kare.nge
 
-bichhaae shauq se, Kud bevafaa kii raaho.n me.n
-kha.De hai.n diip kii hasarat li_e nigaaho.n me.n
-qabuul\-e\-dil kii ibaadat ho
-qabuul\-e\-dil kii ibaadat ho aur tuu aae
-Kudaa kare ki qayaamat ho, aur tuu aae
-ham i.ntazaar kare.nge\threedots
+na de.nge ham tujhe ilzaam bevafaaii kaa
+magar gilaa to kare.nge terii judaaii kaa
+tere Khilaaf shikaayat ho 
+tere Khilaaf shikaayat ho, aur tuu aae
+Khudaa kare ki qayaamat ho, aur tuu aae
+ham i.ntazaar kare.nge
 
-(rafii:)
-vo Kushanasiib hai jisako tuu i.ntaKaab kare
-Kudaa hamaarii mohabbat ko qaamayaab kare
-javaa.n sitaaraa\-e\-qismat ho
-javaa.n sitaaraa\-e\-qismat ho aur tuu aae
+ye zindagii tere qadamo.n me.n Daal jaae.Nge
+tujhii ko terii amaanat sa.Nbhaal jaae.Nge
+hamaaraa aalam-e-ruKhsat ho
+hamaaraa aalam-e-ruKhsat ho, aur tuu aae
+Khudaa kare ki qayaamat ho, aur tuu aae
+ham i.ntazaar kare.nge
 
-(lataa:)
-Kudaa kare ki qayaamat ho, aur tuu aae
-ham i.ntazaar kare.nge\threedots
+-----
 
+##Duet Version##
+
+aa:	ham i.ntazaar kare.nge 
+	ham i.ntazaar kare.nge teraa qayaamat tak
+	Khudaa kare ki qayaamat ho, aur tuu aae - 2
+	ham i.ntazaar kare.nge
+
+	ye i.ntazaar bhii ek imtihaan hotaa hai
+	isiise ishq kaa sholaa javaan hotaa hai
+	ye i.ntazaar salaamat ho, haay 
+	ye i.ntazaar salaamat ho, aur tuu aae
+	Khudaa kare ki qayaamat ho, aur tuu aae
+	ham i.ntazaar kare.nge
+
+	bichhaae shauq se sajade vafaa kii raaho.n me.n
+	kha.De hai.n diid kii hasarat li_e nigaaho.n me.n
+	qubuul dil kii ibaadat ho, haay
+	qubuul dil kii ibaadat ho,  aur tuu aae
+	Khudaa kare ki qayaamat ho, aur tuu aae
+	ham i.ntazaar kare.nge
+
+ra:	vo Khushanasiib hai jisako tuu i.ntaKhaab kare - 2
+	Khudaa hamaarii muhabbat ko kaamayaab kare
+	javaa.N sitaaraa-e-qismat ho
+	javaa.n sitaaraa-e-qismat ho, aur tuu aae
+	Khudaa kare ki qayaamat ho, aur tuu aae
+	ham i.ntazaar kare.nge
 %
 #endindian
 \endsong
