@@ -1,7 +1,7 @@
 %
 \startsong
-\stitle{chandan saa badan, cha.nchal chitavan, dhiire se teraa ye muskaanaa}%
-\film{Saraswati Chandra}%
+\stitle{cha.ndan-saa badan, cha.nchal chitavan, dhiire se teraa ye musakaanaa}%
+\film{Saraswatichandra}%
 \year{1968}%
 \starring{Nutan, Manish}%
 \singer{Mukesh}%
@@ -12,32 +12,61 @@
 % Transliterator:  
 % Credits: Venkatasubramanian K. G (gopala@cs.wisc.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-chandan saa badan cha.nchal chitavan
-dhiire se teraa ye muskaanaa
-mujhe doshh na denaa jag vaalo.n \- (2)
-ho jaauu.N agar mai.n diivaanaa
-chandan saa \threedots
+##Mukesh version##
 
-ye kaam kamaan bha.Nve terii
+cha.ndan-saa badan cha.nchal chitavan
+dhiire se teraa ye musakaanaa
+mujhe doshh na denaa jag_vaalo - 2
+ho jaauu.N agar mai.n diivaanaa
+cha.ndan-saa badan ...
+
+ye kaam kamaan bha.Nve.n terii
 palako.n ke kinaare kajaraare
 maathe par si.nduurii suuraj
 ho.nTho.n pe dahakate a.ngaare
-saayaa bhii jo teraa pa.D jaae \- (2)
+saayaa bhii jo teraa pa.D jaae - 2
 aabaad ho dil kaa viiraanaa
-chandan saa \threedots
+cha.ndan-saa badan ...
 
 tan bhii su.ndar man bhii su.ndar
 tuu su.ndarataa kii muurat hai
 kisii aur ko shaayad kam hogii
 mujhe terii bahut zaruurat hai
-pahale bhii bahut mai.n tarasaa huu.N \- (2)
+pahale bhii bahut mai.n tarasaa huu.N - 2
 tuu aur na mujhako tarasaanaa
-chandan saa \threedots
+cha.ndan-saa badan ...
+
+----
+##Lata version##
+
+cha.ndan-saa badan cha.nchal chitavan
+dhiire se teraa ye musakaanaa
+mujhe doshh na denaa jag_vaalo - 2
+ho jaae agar dil diivaanaa
+cha.ndan-saa badan ...
+
+ye vishaal nayan jaise niil gagan
+pa.nchhii kii tarah kho jaauu.N mai.n
+sarahaanaa jo ho terii baa.Nho.n kaa
+a.ngaaro.n pe so jaauu.N mai.n
+meraa bairaagii man Dol gayaa - 2
+dekhii jo adaa terii mastaanaa
+cha.ndan-saa badan ...
+
+tan bhii su.ndar man bhii su.ndar
+tuu su.ndarataa kii muurat hai
+kisii aur ko shaayad kam hogii
+mujhe terii bahut zaruurat hai
+pahale bhii bahut dil tarasaa hai - 2
+tuu aur na dil ko tarasaanaa
+cha.ndan-saa badan ...
 %
 #endindian
 \endsong
