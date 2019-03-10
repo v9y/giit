@@ -23,11 +23,11 @@
 
 cha.ndan-saa badan cha.nchal chitavan
 dhiire se teraa ye musakaanaa
-mujhe doshh na denaa jag vaalo - 2
+mujhe doshh na denaa jag_vaalo - 2
 ho jaauu.N agar mai.n diivaanaa
 cha.ndan-saa badan ...
 
-ye kaam kamaan bha.Nve terii
+ye kaam kamaan bha.Nve.n terii
 palako.n ke kinaare kajaraare
 maathe par si.nduurii suuraj
 ho.nTho.n pe dahakate a.ngaare
@@ -43,11 +43,12 @@ pahale bhii bahut mai.n tarasaa huu.N - 2
 tuu aur na mujhako tarasaanaa
 cha.ndan-saa badan ...
 
+----
 ##Lata version##
 
 cha.ndan-saa badan cha.nchal chitavan
 dhiire se teraa ye musakaanaa
-mujhe doshh na denaa jag vaalo - 2
+mujhe doshh na denaa jag_vaalo - 2
 ho jaae agar dil diivaanaa
 cha.ndan-saa badan ...
 
@@ -66,7 +67,6 @@ mujhe terii bahut zaruurat hai
 pahale bhii bahut dil tarasaa hai - 2
 tuu aur na dil ko tarasaanaa
 cha.ndan-saa badan ...
-
 %
 #endindian
 \endsong
