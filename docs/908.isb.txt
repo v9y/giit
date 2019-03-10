@@ -13,19 +13,14 @@
 % Credits: Surajit A Bose
 %          K Vijay Kumar
 % Editor:  Vinay P Jain
-%
+% Comments: This is the movie version of the Ghazal. The first six she'r
+% are sung by Kamal Barot, Ira Nagrath,and Sudha Malhotra, two 
+% she'r each in that order. The last five are by Lata. Audio 
+% recordings have only the Lata portion of the song, with the 
+% couplets in a slightly different order.
 \printtitle
 #indian
 %
-
-##
-This is the movie version of the Ghazal. The first six she'r
-are sung by Kamal Barot, Ira Nagrath,and Sudha Malhotra, two 
-she'r each in that order. The last five are by Lata. Audio 
-recordings have only the Lata portion of the song, with the 
-couplets in a slightly different order.
-##
-
 apane chehare se vo paradaa jo uThaa dete hai.n
 ra.ng gulazaar ke phuulo.n kaa u.Daa dete hai.n
 
@@ -35,28 +30,28 @@ vo jise dekh le.n mastaanaa banaa dete hai.n
 bewafaaii se vafaao.n kaa silaa dete hai.n
 kaise bedard hai.n, kyaa lete hai.n, kyaa dete hai.n
 
-aise baiThe hai.n ke jaise hame.n dekhaa hii nahii.n
+aise baiThe hai.n ki jaise hame.n dekhaa hii nahii.n
 yahii a.ndaaz to diivaanaa banaa dete hai.n
 
 laal-o-gauhar se hasiino.n ko sajaa dete hai.n
-qadradaa.N yuu.Nhii muhabbat kaa silaa dete hai.n
+qadradaa.N yuu.N hii muhabbat kaa silaa dete hai.n
 
-ishq kyaa hai ye shahanashaaho.n se puuchhe koii
+ishq kyaa hai ye shaha.nshaaho.n se puuchhe koii
 husn ko taKht-e-huquumat pe biThaa dete hai.n
 
-aap daulat ke taraazuu mai.n dilo.n ko tole.n
+aap daulat ke taraazuu me.n dilo.n ko tole.n
 ham muhabbat se muhabbat kaa silaa dete hai.n 
 
 jurm-e-ulfat pe hame.n log sazaa dete hai.n
 kaise naadaan hai.n, sholo.n ko havaa dete hai.n 
 
-hamase diivaane kahii.n tar ke vafaa karate hai.n 
+hamase diivaane kahii.n tark-e-vafaa karate hai.n 
 jaan jaae ki rahe baat nibhaa dete hai.n 
 
 taKht kyaa chiiz hai aur laal-o-javaahar kyaa hai.n
 ishq vaale to Khudaaii bhii luTaa dete hai.n 
 
-hamane dil de bhii diyaa ehad-e-vafaa le bhii liyaa
+hamane dil de bhii diyaa, ahad-e-vafaa le bhii liyaa
 aap ab shauq se de le.n jo sazaa dete hai.n 
 %
 #endindian
