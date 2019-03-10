@@ -1,34 +1,54 @@
 %
 \startsong
-\stitle{chhoTii sii ye duniyaa, pahachaane raasate hai.n}% 
-\film{Rangoli}%
-\starring{Kishore}%
-\singer{Kishore}%
+\stitle{chhoTii-sii ye duniyaa, pahachaane raaste hai.n}% 
+\film{Rungoli}%
+\year{1962}
+\starring{Kishore, Vyjayanthimala}%
+\singer{Kishore / Lata}%
 \music{Shankar-Jaikishan}%
 \lyrics{Shailendra}%
 %
 % Contributor: Arun Verma (verma@CS.Cornell.EDU)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Credits: Surajit A Bose
+% Editor:  Anurag Shankar (anurag@chandra.astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle 
 #indian 
 %
-chhoTii sii ye duniyaa, pahachaane raste.n hai.n 
-tum kabhI to miloge, kahii.n to miloge to puuchhe.nge haal 
-chhoTii sI \threedots
+##Kishore version##
+
+chhoTii-sii ye duniyaa, pahachaane raaste hai.n 
+tum kabhii to miloge, kahii.n to miloge, to puuchhe.nge haal 
+chhoTii-sii ye duniyaa ...
 
 ham to ye samajhe.nge hamane ek patthar ko puujaa 
-lekin tumako apane jaisA nahii.n milege duujaa, nahii.n milegaa duujaa 
-chhoTii sii ye duniyaa \threedots
+lekin tumako apane jaisaa nahii.n milegaa duujaa, nahii.n milegaa duujaa 
+chhoTii-sii ye duniyaa ...
 
 siikhaa nahii.n hamaare dil ne pyaar me.n dhiiraj khonaa 
-aag me.n jal ke bhI jo nikhaare, hai vohii sachchaa sonaa, hai vohI sachchaa sonaa 
-chhoTii sii ye duniyaa \threedots
+aag me.n jalake bhii jo nikhaare, hai vahii sachchaa sonaa, hai vahii sachchaa sonaa 
+chhoTii-sii ye duniyaa ...
 
-dil kI daulat mat Thukaraao, dekho pachhatAoge
-aaj chale jaate ho jaise, lauT ke bhI aaoge, lauT ke bhI aaoge 
-chhoTii sii ye duniyaa \threedots
+dil kii daulat mat Thukaraao, dekho pachhataaoge
+aaj chale jaate ho jaise, lauT ke bhii aaoge, lauT ke bhii aaoge 
+chhoTii-sii ye duniyaa ...
+
+----
+##Lata version##
+
+chhoTii-sii ye duniyaa, pahachaane raaste hai.n 
+tum kabhii to miloge, kahii.n to miloge, to puuchhe.nge haal 
+chhoTii-sii ye duniyaa ...
+
+siikhaa nahii.n hamaare dil ne pyaar me.n dhiiraj khonaa 
+aag me.n jalake bhii jo nikhaare, vahii hai sachchaa sonaa, vahii hai sachchaa sonaa 
+chhoTii-sii ye duniyaa ...
+
+meraa pahalaa pyaar aaKharii bhii hai is jiivan kaa
+ek baar hotaa hai jag me.n rishtaa man se man kaa, rishtaa man se man kaa
+chhoTii-sii ye duniyaa ...
 %
 #endindian
 \endsong
