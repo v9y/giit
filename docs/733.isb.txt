@@ -1,7 +1,7 @@
 %
 \startsong
 \stitle{ho.nTho.n pe sachchaaii rahatii hai jahaa.N dil me.n safaaii rahatii hai}%
-\film{Jis Desh Mein Gangaa Behti Hai}%
+\film{Jis Desh Mein Ganga Behti Hai}%
 \year{1960}%
 \starring{Raj Kapoor, Padmini}%
 \singer{Mukesh}%
@@ -13,45 +13,56 @@
 % Credits: Rajan Parrikar 
 %          Satish Subramanian (subraman@cs.umn.edu)
 %          Himanshu Bhatt (bhatt@ticipa.pac.sc.ti.com)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-(hoTho.n pe sachchaaii rahatii hai 
+(ho.nTho.n pe sachchaaii rahatii hai 
 jahaa.N dil me.n safaaii rahatii hai
 ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
-jis desh me.n ga.ngaa bahatii hai ) \- 2
+jis desh me.n ga.ngaa bahatii hai ) - 2
 
-(mehamaa.n jo hamaaraa hotaa hai
-vo jaan se pyaaraa hotaa hai ) \- 2
+(mehamaa.N jo hamaaraa hotaa hai
+vo jaan se pyaaraa hotaa hai ) - 2
 zyaadaa kii nahii.n laalach hamako 
-tho.De me guzaaraa hotaa hai \- 2
+tho.De me guzaaraa hotaa hai - 2
 bachcho.n ke liye jo dharatii maa.N 
-sadiyo.n se sabhii kuchha sahatii hai
+sadiyo.n se sabhii kuchh sahatii hai
 ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
 jis desh me.n ga.ngaa bahatii hai
 
 (kuchh log jo zyaadaa jaanate hai.n 
-insaan ko kam pahachaanate hai.n ) \- 2
-ye puurab hai puurabavaale 
-har jaan kii kiimat jaanate hai.n \- 2
-mil jul ke raho aur pyaar karo 
-ek chiiza yahii jo rahatii hai
+insaan ko kam pahachaanate hai.n ) - 2
+ye puurab hai puurab vaale 
+har jaan kii qiimat jaanate hai.n - 2
+mil-jul_ke raho aur pyaar karo 
+ek chiiz yahii jo rahatii hai
 ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
 jis desh me.n ga.ngaa bahatii hai
 
-(jo jisase milaa sikhaa hamane 
-gairo.n ko bhii apanaayaa hamane ) \- 2
-matalab ke liye andhe hokar 
-roTii ko nahii puujaa hamane \- 2
-ab ham to kyA saarii duniyaa 
+(jo jisase milaa siikhaa hamane 
+Gairo.n ko bhii apanaayaa hamane ) - 2
+matalab ke liye a.ndhe hokar 
+roTii ko nahii.n puujaa hamane - 2
+ab ham to kyaa saarii duniyaa 
 saarii duniyaa se kahatii hai
 ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
 jis desh me.n ga.ngaa bahatii hai
 
-hoTho.n pe sachchaaii rahatii hai 
-jahA.n dil me.n safaaii rahatii hai
+(ham kal kyaa the, ham aaj hai.n kyaa
+isakaa hii nahii.n abhimaan hame.n) - 2
+jis raah pe aage ba.Dhanaa hai
+hai usakii bhii pahachaan hame.n - 2
+is dhaaraa ko kisane rokaa
+ye ba.Ndhake bhalaa kab rahatii hai
+ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
+jis desh me.n ga.ngaa bahatii hai
+
+ho.nTho.n pe sachchaaii rahatii hai 
+jahaa.n dil me.n safaaii rahatii hai
 ham us desh ke vaasii hai.n, ham us desh ke vaasii hai.n
 jis desh me.n ga.ngaa bahatii hai
 %
