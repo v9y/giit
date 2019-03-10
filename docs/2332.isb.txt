@@ -10,27 +10,30 @@
 %
 % Contributor: Alfaaz
 % Transliterator: K Vijay Kumar
-% Credits:
-% Editor:
+% Credits: Surajit A. Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
+hai tere saath merii vafaa, mai.n nahii.n to kyaa
+zindaa rahegaa pyaar meraa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa ...
 
-hai tere saath merii vafaa mai.n nahii.n to kyaa
-zi.ndaa rahegaa pyaar meraa, mai.n nahii.n to kyaa
-hai tere saath merii vafaa   \threedots
+siine me.n dard, dil me.n tamannaa jagaae jaa
+ye raat jaagane kii hai, shamme.n jalaae jaa
+tuu jashn zindagii kaa manaa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa ...
 
 tere liye ujaalo.n kii koii kamii nahii.n
-sab terii roshanii hai, merii roshanii nahii.n
+sab terii raushanii hai, merii raushanii nahii.n
 koii nayaa chiraaG jalaa, mai.n nahii.n to kyaa
-hai tere saath merii vafaa   \threedots
+hai tere saath merii vafaa ...
 
 kuchh dha.Dakano.n kaa zikr ho, kuchh dil kii baat ho
-mumakin hai isake baad, na din ho na raat ho
-mere liye na ashq bahaa, mai.n nahii.n to kyaa
-hai tere saath merii vafaa   \threedots
-
+mumakin hai isake baad na din ho na raat ho
+mere liye na ashk bahaa, mai.n nahii.n to kyaa
+hai tere saath merii vafaa ...
 %
 #endindian
 \endsong
