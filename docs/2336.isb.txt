@@ -10,33 +10,37 @@
 %
 % Contributor:
 % Transliterator: K Vijay Kumar
-% Credits:
-% Editor:
+% Credits: Amarendra R Nargundkar
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
-
-ham tere pyaar me.n saaraa aalam kho baiThe
+ham tere pyaar me.n saaraa aalam kho baiThe hai.n, kho baiThe
 tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao
-ham tere pyaar me.n saaraa aalam   \threedots
+ham tere pyaar me.n saaraa aalam ...
 
-pa.nchii se chhu.Daakar apanaa ghar, tum apane ghar me.n le aaye
-ye pyaar kaa pi.najaraa man bhaayaa, ham bhar bhar ke muskaaye
+pa.nchhii se chhu.Daakar usakaa ghar, tum apane ghar par le aae
+ye pyaar kaa pi.njaraa man bhaayaa, ham jii bhar-bhar kar musakaae
 jab pyaar huaa is pi.njare se, tum kahane lage aazaad raho
-ham kaise bhulaaye.n pyaar teraa, tum apanii zubaa.N se ye na kaho
+ham kaise bhulaae.N pyaar teraa, tum apanii zubaa.N se ye na kaho
+ab tumasaa jahaa.N me.n koii nahii.n hai, ham to tumhaare ho baiThe
+tum kahate ho ki ...
 
-ik pyaar kaa ... dekhaa thaa, ik pyaar kaa ... to.D diyaa
-hamane to ..., ab ... ... jo.D diyaa
-is pyaar ke ga.ngaa jal me.n balam jii ham tan man apanaa dho baiThe
-tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao   \threedots
-
-jab hii to suhaagan kahalaayii, duniyaa ke nazar me.n pyaar banii
-tum pyaar kii sundar muurat ho, aur pyaar hamaarii puujaa hai
+is tere charaN kii dhuul se hamane apanii jiivan-maa.Ng bharii
+jab hii to suhaagan kahalaaii, duniyaa kii nazar me.n pyaar banii
+tum pyaar kii su.ndar muurat ho, aur pyaar hamaarii puujaa hai
 ab in charaNo.n me.n dam nikale, bas itanii aur tamannaa hai
-o pyaar ke saagar ham terii laharo.n me.n naav Dubo baiThe
-tum kahate ho ki aise pyaar ko bhuul jaao, bhuul jaao   \threedots
+ham pyaar ke ga.ngaajal se balamajii, tan-man apanaa dho baiThe
+tum kahate ho ki ...
 
+sapano.n kaa darpan dekhaa thaa, sapano.n kaa darpan to.D diyaa
+ye pyaar kaa aa.Nchal hamane to, daaman se tumhaare baa.Ndh liyaa
+ye aisii gaa.NTh hai ulfat kii, jisako na koii bhii khol sakaa
+tum aan base jab is dil me.n, dil phir to kahii.n naa Dol sakaa
+o pyaar ke saagar, ham terii laharo.n me.n naav Dubo baiThe
+tum kahate ho ki ...
 %
 #endindian
 \endsong
