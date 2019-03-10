@@ -3,7 +3,7 @@ name: Lyrics correction request
 about: To request corrections to song lyrics or metadata
 title: "[Lyrics correction]"
 labels: ''
-assignees: v9y, uxvxr
+assignees: uxvxr, v9y
 
 ---
 
