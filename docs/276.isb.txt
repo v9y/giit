@@ -1,36 +1,59 @@
 %
 \startsong
-\stitle{barakhaa raanii, zaraa jam ke baraso, meraa dilabar jaa naa pae}%
+\stitle{barakhaa raanii, zaraa jam_ke baraso / barakhaa bairan, zaraa tham_ke}%
 \film{Sabak}%
 \year{1973}%
 \starring{Shatrughan Sinha, Poonam}%
-\singer{Mukesh}%
+\singer{Mukesh / Suman Kalyanpur}%
 \music{Usha Khanna}%
 \lyrics{Saawan Kumar}%
 %
-% Contributor: SAMIUDDIN MOHAMMED (sm0e@Lehigh.EDU)
+% Contributor: Samiuddin Mohammed (sm0e@Lehigh.EDU)
 % Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
 % Credits: Satish Subramanian (subraman@cs.umn.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-barakhaa raanii, zaraa jam ke baraso
-meraa dilabar jaa naa pAe, jhUmakar baraso
-barakhaa raanii \threedots
+##Mukesh version##
 
-vo abhii to aae hai.n
-kahate hai.n ham jaae.n hai.n  
-yU.N baras baraso.n baras
-vo umr bhar naa jaae re
-barakhaa raanii \threedots
+barakhaa raanii, zaraa jam_ke baraso
+meraa dilabar jaa na paae, jhuumakar baraso
+barakhaa raanii ...
+
+ye abhii to aae hai.n
+kahate hai.n ham jaae.N hai.n  
+tuu baras baraso.n baras
+ye umr bhar na jaae re
+barakhaa raanii ...
 
 mast saavan kii ghaTaa
 bijuriyaa chamakaa zaraa
-yaar meraa Dar ke mere
-siine se laga jaae re
-barakhaa raanii \threedots
+yaar meraa Dar_ke mere
+siine se lag jaae re
+barakhaa raanii ...
+
+----
+##Suman version##
+
+barakhaa bairan, zaraa tham_ke baraso
+pii mere aa jaae to chaahe jam_ke phir baraso
+barakhaa bairan ...
+
+pii se hai meraa milan
+kyo.n hai rii tujhako jalan
+haay re paapan zaraa ruk jaa
+zaraa tham jaa na re
+barakhaa bairan ...
+
+pii ko mere aane de
+a.ng se lag jaane de
+phir tuu dushman yuu.N barasanaa
+jaane paae vo na re
+barakhaa bairan ...
 %
 #endindian
 \endsong
