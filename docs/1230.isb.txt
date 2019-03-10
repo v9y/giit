@@ -1,41 +1,49 @@
 %
 \startsong
-\stitle{merii nii.ndo.n me.n tum, mere Kvaabo.n me.n tum}%
-\film{Naya Andaaz}%
+\stitle{merii nii.ndo.n me.n tum, mere Khvaabo.n me.n tum}%
+\film{Naya Andaz}%
 \year{1956}%
 \starring{Kishore, Meena Kumari}%
 \singer{Kishore, Shamshad}%
 \music{O P Nayyar}%
-\lyrics{Jaan Nisar Akhtar}%
+\lyrics{Jan Nisar Akhtar}%
 %
 % Contributor:  
 % Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
 % Credits: Mahesh Chaubal (chaubal@umbc.edu)
 %          Satish Subramanian (subraman@cs.umn.edu)
-% Editor:  
+%          Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
-% 
-ki: 	(merii nii.ndo.n me.n tuma, mere Kvaabo.n me.n tuma
-	ho chuke ham tumhaarii mohabbata me.n guma ) \- 2
+ki:	(merii nii.ndo.n me.n tum, mere Khvaabo.n me.n tum
+	ho chuke ham tumhaarii muhabbat me.n gum ) - 2
+sh:	(man kii biinaa kii dhun, tuu balam aaj sun
+	merii nazaro.n ne tujhako liyaa aaj chun ) - 2
+	man kii biinaa kii dhun, tuu balam aaj sun
+	
+sh:	(mere dil kii lagii tuu, merii zindagii tuu
+	merii har nazar hai terii daastaa.N ) - 2
+ki:	(mere dil kii bahaare.n tumhii.n ko pukaare.n
+	tumhii.n se hai aabaad meraa jahaa.N ) - 2
+sh:	tuu meraa naaz hai, meraa a.ndaaz hai, dil kii aavaaz hai
+ki:	merii nii.ndo.n me.n tum ...
 
-sh:	(mana kii biinaa kii dhuna, tuu baalama aaja suna
-	merii nazaro.nne tujhako liyaa aaja chuna ) \- 2
-	mana kii biinaa kii dhuna, tuu balama aaja suna
-
-sh:	(merii dila kii lagii tuu, merii zi.ndagii tuu
-	merii hara nazara hai terii dAstaa.n ) \- 2
-ki:	(mere dila kii bahaare.n tumhiiko pukaare.n
-	tumhiise hai aabaada meraa jahaa.N ) \- 2
-sh: 	tU meraa naaza hai, meraa a.ndaaza hai, dila kii Avaaza hai
-ki: 	merii nii.ndo.n me.n tuma, mere khvaabo.n me.n tuma
-	ho chuke hama tumhaarii mohabbata me.n guma
-
-sh:	mana kii biinaa kii dhuna, tuu balama aaja suna
-	merii nazaro.nne tujhako liyaa aaja chuna
-	mana kii biinaa kii dhuna, tuu baalama aaja suna
+sh:	(dil pe chhaaii Khushii hai, labo.n par ha.Nsii hai
+	khilii hai tere pyaar kii chaa.Ndanii) - 2
+ki:	(jhuumatii hai nigaahe.n nashaa chhaa rahaa hai
+	ki dil gaa rahaa hai terii raaginii) - 2
+sh:	haule-haule sajan meraa kahataa hai man ab to laagii lagan
+ki:	merii nii.ndo.n me.n tum ...
+	
+sh:	(tum mere ho gae ho to ye chaa.Nd-taare
+	ye saare nazaare mere ho gae) - 2
+ki:	(dil huaa hai diiwaanaa samaa.N hai suhaanaa
+	kahe.n kyaa, tere pyaar me.n kho gae) - 2
+sh:	raat gaane lagii, gunagunaane lagii, nii.nd chhaane lagii
+ki:	merii nii.ndo.n me.n tum ...
 %
 #endindian
 \endsong
