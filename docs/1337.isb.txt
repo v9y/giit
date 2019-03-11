@@ -13,21 +13,26 @@
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
-% Comments: The lyrics are for the Rafi version. It is not know if the tandem
-%           has the same lyrics.
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
+% Comments: The second stanza is only in the Rafi version. The other
+%  two stanzas are the same in both versions.
 %
 \printtitle
 #indian
 %
 nazar aatii nahii.n ma.nzil, ta.Dapane se bhii kyaa haasil
-taqadiir me.n ai mere dil, a.ndhere hii a.ndhere hai.n
+taqadiir me.n ai mere dil, a.Ndhere hii a.Ndhere hai.n
 
 majabuurii ne jisako maaraa, usakaa kaun sahaaraa
-maa.njhii to mil jaate hai.n par milataa nahii.n kinaaraa
+maa.Njhii to mil jaate hai.n lekin milataa nahii.n kinaaraa
 
-naino.n se yuu.N chhin ga_ii jyotii siip se jaise motii
+naino.n se yuu.N chhin ga_ii jyoti, siip se jaise motii
 ek jaan aur sau dushman hai.n, kaash ye jaan na hotii
+
+khalatii hai ye paas kii duurii, jalatii aas adhuurii
+kisako koii doshh lagaae, sabake sa.ng majabuurii
 %
 #endindian
 \endsong
