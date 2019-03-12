@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{mujh ko apane gale lagaa lo, ai mere hamaraahii}%
+\stitle{mujhako apane gale lagaa lo, ai mere hamaraahii}%
 \film{Hamrahi}%
 \year{1963}%
 \starring{Rajendra Kumar, Jamuna}%
@@ -11,36 +11,40 @@
 % Contributor:  
 % Transliterator: Ravi Kant Rai 
 % Credits: Rajan Parrikar (Header Information)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-mujh ko apane gale lagaa lo, ai mere hamaraahii
-tujhako kyaa batalaaU.n mai.n
-ke tumase kitanaa pyaar hai
+mujhako apane gale lagaa lo, ai mere hamaraahii
+tumako kyaa batalaauu.N mai.n ki tumase kitanaa pyaar hai
+mujhako apane gale lagaa lo ...
 
-jab tum mujhase duur rahate ho
-jiyaa meraa ghabaraataa hai
-nii.nd aa.Nkho.n se u.D jaatii hai
-chaa.Nd agan barasaataa hai
-dono.n pahaluu jal jaate hai.n
-aag me.n aag lagaataa hai
-jaise ta.Dape bin jal machhalii
-pyaar mujhe ta.Dapaataa hai, pyaar mujhe ta.Dapaataa hai
-is uljhan se mujh ko bachaalo, ai mere hamarAhI
-tujhako kyaa batalaaU.n mai.n \threedots
+jab tum mujhase duur rahate ho, jiyaa meraa ghabaraataa hai
+nii.nd aa.Nkho.n se u.D jaatii hai, chaa.Nd agan barasaataa hai
+dono.n pahaluu jal jaate hai.n, aag me.n aag lagaataa hai
+jaise ta.Dape bin jal machhalii, pyaar mujhe ta.Dapaataa hai, 
+pyaar mujhe ta.Dapaataa hai
+is ulajhan se mujhako bachaa lo, ai mere hamaraahii
+tumako kyaa batalaauu.N mai.n ...
 
-jin raaho.n par ha.Nsake chalo tum
-phUl vahaa.N khil jaate hai.n
-dam lene ko jahaa.N ruko tum
-madhushaale ban jaate hai.n
-tumako chhUkar pavan jhakore
-khuushabuu lekar jaate hai.n
-lekin ham to dekhe.n sUrat
-dil thaame rah jaate hai.n, dil thaame rah jaate hai.n
-dil se dil ke taar milaa lo, ai mere hamarAhI
-tujhako kyaa batalaaU.n mai.n \threedots
+jin raaho.n par ha.Nsake chalo tum, phuul vahaa.N khil jaate hai.n
+dam lene ko jahaa.N ruko tum, madhushaale ban jaate hai.n
+tumako chhuukar pavan jhakore, Khushabuu lekar jaate hai.n
+lekin ham to dekhake suurat, dil thaame rah jaate hai.n, 
+dil thaame rah jaate hai.n
+dil se dil ke taar milaa lo, ai mere hamaraahii
+tumako kyaa batalaauu.N mai.n ...
+
+jab tak tumako mai.n na dekhuu.N, chain mujhe kab aataa hai
+khoj me.n terii man kaa pa.nchhii duur kahii.n kho jaataa hai
+jab tum mujhako mil jaatii ho, dard davaa ban jaataa hai
+varanaa tum bin saaraa jiivan suunaa ban kahalaataa hai,
+suunaa ban kahalaataa hai
+har ma.nzil par mujhako sa.Nbhaalo, ai mere hamaraahii
+tumako kyaa batalaauu.N mai.n ...
 %
 #endindian
 \endsong
