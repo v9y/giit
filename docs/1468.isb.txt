@@ -25,21 +25,21 @@ aa:	huu.N huu.N ...
 	jaane hamaaraa aage kyaa hogaa 
 	ayya ya-yaa ya ya yaa yaa ...
 
-padminii: aage kyaa hogaa 
-R^ishhi: kyaa hogaa, shaadii 
+padminii: a.N, aage kyaa hogaa 
+R^ishhi: aage, shaadii 
 
 aa:	e! ##laugh##
 	hamako mil ga_ii duniyaa pyaar kii 
 	maanaa ho gae tum mere apane 
 	phir bhii ye savaal, dil me.n ye Khayaal 
 	na ho ye kahii.n duur ke sapane 
-	ye ab ke baar kyaa huaa, dil kaa qaraar huaa 
+	ye ab kii baar kyaa huaa, dil kaa qaraar huaa 
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
 	ayya ya-yaa ya ya yaa yaa ...
 
-padminii: phir kyaa hogaa 
-R^ishhi: paarTiyaa.N, daavate.n, botale.n
+padminii: aur phir kyaa hogaa 
+R^ishhi: paarTiyaa.N, daavate.n
 
 aa:	apane paas kyaa aramaa.N ke sivaa 
 	yuu.N to mai.n tumhe.n aur kyaa duu.Ngii 
@@ -52,8 +52,10 @@ aa:	apane paas kyaa aramaa.N ke sivaa
 	jaane hamaaraa aage kyaa hogaa 
 	ayya ya-yaa ya ya yaa yaa ...
 
-padminii: are baabaa tum bhii to kuchh kaho naa 
-R^ishhi: achchhaa? to suno
+ko:	vaah-vaah ...
+
+padminii: are baabaa tum bhii to kuchh bolo naa 
+R^ishhi: ye baat hai? to suno
 
 ra:	chho.Do jaan-e-jaa.N tum bhii ho kahaa.N 
 	ghabaraate nahii.n ham zamaane se 
@@ -68,11 +70,14 @@ aa:	ayya ya-yaa ya ya yaa yaa ...
 
 ##Part 2##
 
+ko:	he! ... ##hurray!##
+
 aa:	haiyaa haiyaa ha-aa haiyaa haiyaa
 	bolo bolo kuchh to bolo
 	saamane vaale le gaye baazii
 	are himmat karake aage aao
-	duniyaa hogii tum se raazii
+	duniyaa hogii tumase raazii
+	are haiyaa haiyaa ...
 
 	dekho gayaa vaqt aataa dubaaraa nahii.n
 	phir ye na kahanaa kisiine pukaaraa nahii.n
@@ -88,7 +93,7 @@ ra:	puuchho na yaar kyaa huaa
 	dil kaa qaraar kyaa huaa
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
-	ayya ya-yaa yaa yaa yaa yaa ... 
+	ayya ya-yaa ya ya yaa yaa ...
 
 	tumane pyaar se hamako ek baar
 	kah Daalaa hai yaar to nibhaa denaa
@@ -100,8 +105,9 @@ ra:	puuchho na yaar kyaa huaa
 	puuchho na yaar ... 
 	
 ko:	ho-haa, ho-haa, he he he ...
+	uu-ii uu-ii uu-ii turuu
 
-	dil pe thaa hame.n kitanaa aitabaar
+ra:	dil pe thaa hame.n kitanaa aitabaar
 	tumase kyaa kahe.n ham ye afasaanaa
 	koii gulabadan koii naazanii.n 
 	kar sakataa nahii.n hamako diiwaanaa
@@ -109,6 +115,7 @@ ko:	ho-haa, ho-haa, he he he ...
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
 	puuchho na yaar ... 
+ko:	la la la laa ...
 %
 #endindian
 \endsong
