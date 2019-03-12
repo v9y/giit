@@ -1,6 +1,6 @@
 % 
 \startsong
-\stitle{piyaa baaj pyaalaa piyaa jaae na}%
+\stitle{piyaa baaj pyaalaa piyaa jaae naa}%
 \film{Nishant}%
 \year{1975}%
 \starring{Shabana Azmi, Smita Patil, Girish Karnad, Anant Nag, Naseeruddin Shah}%
@@ -11,21 +11,25 @@
 % Contributor: Samiuddin Mohammed <sm0e@Lehigh.EDU?
 % Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
 % Date: 08/01/1996
-% Credits: bose.2@nd.edu (Surajit A. Bose)
-%          nitin@cs.washington.edu (Nitin Sharma)
+% Credits: Surajit A Bose
+%          Nitin Sharma
+% Editor:  Vinay P Jain
 % Comments: Also sung by Khan Ather in Doordarshan TV serial, Farmaan
 %
 \printtitle
 #indian
 %
-piyaa baaj pyaalaa piyaa jaae na
-piyaa baaj ek din jiyaa jaae na
+piyaa baaj pyaalaa piyaa jaae naa
+piyaa baaj yak til jiyaa jaae naa
+
+kitane piyaa bin sabuurii karuu.N
+kahiyaa jaae ammaa kiyaa jaae naa
 
 nahii.n ishq jis vo ba.Daa kuu.D hai
-kadii usase mil be siyaa jaae na
+kadhii.n usase milakar be-siyaa jaae naa
 
-qutub shaah na de mujh diivaane ko paan
-diivaane ko kuchh paan diyaa jaae na
+qutub shaah na de mujh diivaane kuu.N pa.nd
+diivaane kuu.N kuchh pa.nd diyaa jaae naa
 %
 #endindian
 \endsong
