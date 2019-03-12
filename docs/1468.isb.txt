@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{puuchho naa yaar kyaa huaa, dil kaa qaraar kyaa huaa}% 
+\stitle{puuchho na yaar kyaa huaa, dil kaa qaraar kyaa huaa}% 
 \film{Zamane Ko Dikhana Hai}%
 \year{1981}%
 \starring{Rishi Kapoor, Padmini Kolhapure}%
@@ -19,7 +19,7 @@
 ko:	kito-chito havaa re mayaa bulaayo
 
 aa:	huu.N huu.N ...
-	puuchho naa yaar kyaa huaa 
+	puuchho na yaar kyaa huaa 
 	dil kaa qaraar kyaa huaa
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
@@ -80,11 +80,11 @@ aa:	haiyaa haiyaa ha-aa haiyaa haiyaa
 
 	##Come on##, yaar !
 
-ra:	puuchho naa yaar kyaa huaa
+ra:	puuchho na yaar kyaa huaa
 	dil kaa qaraar kyaa huaa
 	chak-chak-chachacha-chaa !
 
-	puuchho naa yaar kyaa huaa 
+	puuchho na yaar kyaa huaa 
 	dil kaa qaraar kyaa huaa
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
@@ -97,7 +97,7 @@ ra:	puuchho naa yaar kyaa huaa
 	dekho na yaar kyaa huaa, dil kaa qaraar kyaa huaa
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
-	puuchho naa yaar ... 
+	puuchho na yaar ... 
 	
 ko:	ho-haa, ho-haa, he he he ...
 
@@ -108,7 +108,7 @@ ko:	ho-haa, ho-haa, he he he ...
 	vo aitabaar kyaa huaa, dil kaa qaraar kyaa huaa
 	tumape to ham mar-miTe hai.n abhii se 
 	jaane hamaaraa aage kyaa hogaa 
-	puuchho naa yaar ... 
+	puuchho na yaar ... 
 %
 #endindian
 \endsong
