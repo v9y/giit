@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{thaa.De rahiyo o baa.nke yaar}%
+\stitle{Thaa.De rahiyo, o baa.Nke yaar re}%
 \film{Pakeezah}%
 \year{1971}%
 \starring{Ashok Kumar, Rajkumar, Meena Kumari}%
@@ -12,7 +12,9 @@
 % Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
 % Credits: rec.music.indian.misc 
 %          Chetan K. Vinchhi (vinchhi@eng.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
@@ -20,27 +22,31 @@
 chaa.Ndanii raat ba.Dii der ke baad aaii hai
 ye mulaaqaat ba.Dii der ke baad aaii hai
 aaj kii raat vo aae hai.n ba.Dii der ke baad
-aaj kii raat ba.Di der ke baad aaii hai
+aaj kii raat ba.Dii der ke baad aaii hai
 
-Thaa.De rahiyo o baa.Nke yaar re Thaa.De rahiyo
-Thaa.De rahiyo \- (3) 
+Thaa.De rahiyo, o baa.Nke yaar re - 2
+Thaa.De rahiyo - 3 
+Thaa.De rahiyo, o baa.Nke yaar re, Thaa.De rahiyo
 
-Thaharo lagaay aauu.N, naino.n me.n kajaraa
-choTii me.n guu.Nd laauu.N phuulo.n kaa gajaraa
-mai.n to kar aauu.N solah shrR^i.ngaar re \- (3)
-Thaa.De rahiyo\threedots
+Thaharo lagaaii aauu.N, naino.n me.n kajaraa
+Thaharo lagaaii aauu.N, kajaraa
+choTii me.n guu.Nd aauu.N phuulo.n kaa gajaraa
+mai.n to kar aauu.N solah si.ngaar re - 3
+Thaa.De rahiyo ...
 
-##(some "bols"..)##
+dhaa tiiTa takiTa dhaadhaa tiiTa diradaa tiiTa
+dhaage tiiTa dhaa na dhaa na dhaa - 3
 
+jaage na koii, aa.a ...
 jaage na koii, rainaa hai tho.Dii
-bole chhamaachham paayal nigo.Dii\threedots bole
-##(some music)##
-nigo.Dii\threedots bole\threedots
+bole chhamaachham paayal nigo.Dii, bole
+nigo.Dii, bole chhamaachham paayal nigo.Dii
 ajii dhiire se kholuu.Ngii dvaar re
 saiyaa.N dhiire se kholuu.Ngii dvaar re
 mai.n to chupake se
 ajii haule se kholuu.Ngii dvaar re
-Thaa.De rahiyo\threedots
+saiyaa.N dhiire se kholuu.Ngii dvaar re
+Thaa.De rahiyo ...
 %
 #endindian
 \endsong
