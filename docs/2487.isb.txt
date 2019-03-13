@@ -1,46 +1,83 @@
 %
 \startsong
-\stitle{vo parii kahaa.N se laa_uu.N, terii dulhan jise banaa_uu.N}%
+\stitle{vo parii kahaa.N se laauu.N, terii dulhan jise banaauu.N}%
 \film{Pehchaan}%
 \year{1969}%
-\starring{Manoj Kumar}%
+\starring{Manoj Kumar, Babita}%
 \singer{Suman Kalyanpur, Sharda, Mukesh}%
 \music{Shankar-Jaikishan}%
 \lyrics{Varma Malik}%
 %
-% Contributor: Dr. Mandar
+% Contributor: Mandar Bichu
 % Transliterator: K Vijay Kumar
-% Credits:
-% Editor:
+% Credits: Surajit A Bose
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
 %
-
-vo parii kahaa.N se laa_uu.N terii dulhan jise banaa_uu.N
-ki gorii koii pasand na aaye tujhako
-ki chhorii koii pasand na aaye tujhako
+vo parii kahaa.N se laauu.N, terii dulhan jise banaauu.N
+ki gorii koii pasa.nd na aae tujhako
+ki chhorii koii pasa.nd na aae tujhako
 
 ye to merii hai sahelii, dilavaalii alabelii
-jaise motiyaa chamelii, jaise pyaar kii havelii
-  solah saal kii umar, kokaa\-kolaa sii kamar
+jaise motiyaa chamelii, jaise pyaar kii pahelii
+  solah saal kii umar, koko-kole sii kamar
   rattii bhar bhii qasar kahii.n aaye na nazar
   kuchh huaa hai asar?
-gol juu.De me.n ye venii, aur venii me.n ye Tahanii
-kaise juu.Diyo.n se pe.D ugaaye
-ye ga.ngaaraam ke samajh me.n na aaye
-  vo parii kahaa.N se laa_uu.N   \threedots
+gol juu.De me.n ye veNii, aur veNii me.n ye Tahanii
+kaise juu.Diyo.n se pe.D ugaae
+ye ga.ngaaraam kii samajh me.n na aae
+  vo parii kahaa.N se laa_uu.N   ...
 
-aa.Nkh jisakii hai billii naam usakaa hai lillii
+aa.Nkh jisakii hai billii naam yisakaa hai lillii
 aise kajare kii dhaar, jaise tiikhii talavaar
-  dekh ho.nTho.n kaa ye ra.ng chalane kaa Dha.ng
-  kaTe a.ngrezii baal, baa.Ndhaa resham kaa rumaal
-  bolo kyaa hai khayaal?
-ise jab liyaa taq meraa dil huaa faq
-chhorii ho ke hajaamat karaaye
-ye ga.ngaaraam ke samajh me.n na aaye
-  vo parii kahaa.N se laa_uu.N   \threedots
+  o~ dekh ho.nTho.n kaa ye ra.ng, dekh chalane kaa Dha.ng
+  kaTe a.ngrezii baal, baa.Ndhaa reshamii rumaal
+  bolo kyaa hai Khayaal?
+ise jab liyaa taq meraa ra.ng huaa faq
+chhorii hoke ye hajaamat karaae
+ye ga.ngaaraam kii samajh me.n na aae
+  vo parii kahaa.N se laa_uu.N   ...
+  
+naam isakaa kamal, jaise ganne kii fasal
+jaise khilaa hai gulaab, dekh puuraa hai pa.njaab
+  dekh ruup kii vuma.ng, jaise hiraNii kaa a.ng
+  jaise miiThii ho khajuur, aisaa mukha.De pe nuur
+  bol, hai ma.nzuur?
+ye to naache chham-chham, meraa nikale hai dam
+ise bha.nga.Daa kaun nachaae
+ye ga.ngaaraam kii samajh me.n na aae
+  vo parii kahaa.N se laa_uu.N   ...
+  
+ye to si.ndh se hai aaii, pa.Dhii ##B.A.## kii pa.Dhaaii
+ta.ng kurataa paijaamaa, ye to chhokarii ha.ngaamaa
+  jaise titalii ke a.ng, jaise vu.Datii pata.ng
+  jaise koyal kii kuu, jaise khilii Khushabuu
+  kahatii, ##I love you##
+he pirabhuu, he pirabhuu, tuu hii tuu, tuu hii tuu
+aise nakhare kaun uThaae
+ye ga.ngaaraam kii samajh me.n na aaye
+  vo parii kahaa.N se laa_uu.N   ...
 
+na ye dil kii hai chhoTii, na ye pyaar kii hai khoTii
+zaraa ho ga_ii hai moTii, tab bhii lagatii hai chhoTii
+  dekh isakii #muscle##, ghii khaatii hai asal
+  tere kheto.n me.n ye jaae.N, tere hal bhii chalaae.N
+  tere ba.De kaam aae
+mujhe karo na hairaan, ye to lage pahal_waan
+ise kasarat kaun karaae
+ye ga.ngaaraam kii samajh me.n na aaye
+  vo parii kahaa.N se laa_uu.N   ...
+  
+chho.Do ye to hai naadaa.N, kare sab ko hairaa.N
+nahii.n samajhegaa pyaar, bilakul hai ga.Nvaar
+  ise rahane do ka.Nvaaraa, phirane do maaraa-maaraa
+  aao ham sab jaae.N, mazaa isakaa jataae.N
+  hosh isake u.Daae.N
+ye ho.nTh jab khole, baar-baar yahii bole
+ga.ngaaraam kii samajh me.n na aaye
+  ye ga.ngaaraam kii samajh
 %
 #endindian
 \endsong
