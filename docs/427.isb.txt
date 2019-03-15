@@ -1,64 +1,85 @@
 %
 \startsong
-\stitle{darashan do ghanashyaam naath morii a.nkhiyaa.N pyaasii re}%
+\stitle{darshan do ghanashyaam naath, morii a.Nkhiyaa.N pyaasii re}%
 \film{Narsi Bhagat}%
-\year{}%
+\year{1957}%
 \starring{Nirupa Roy, Shahu Modak}%
 \singer{Hemant, Manna De, Sudha Malhotra}%
 \music{Ravi}%
-\lyrics{Narasi Mehta}%
+\lyrics{G S Nepali}%
 %
 % Contributor:  
 % Transliterator: Anurag Acharya (Anurag_Acharya@DRAVIDO.SOAR.CS.CMU.EDU)
-% Credits: 
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Surajit A Bose
+% Editor:  Anurag Shankar (anurag@astro.indiana.edu)
+%          Vinay P Jain
 %
 \printtitle
 #indian
 %
-darashan do ghanashyAm nAth morI, a.NkhiyA.N pyAsI re 
-man ma.ndir kI jyoti jagAdo, ghaT ghaT bAsI re 
+##Part 1##
+darshan do ghanashyaam naath, morii 
+a.Nkhiyaa.N pyaasii re 
+man-ma.ndir kii jyoti jagaa do
+ghaT-ghaT baasii re ...
 
-ma.ndir ma.ndir mUrat terI 
-phir bhI naa dIkhe sUrat terI 
-yug bIte nA AI milan kI 
-pUraNamAsI re \threedots 
+ma.ndir-ma.ndir muurat terii 
+phir bhii na diikhe suurat terii 
+yug biite na aaii milan kii 
+puuraNamaasii re ... 
 
-dvAr dayA kA jab tU khole 
-pa.ncham sur me.n gU.ngA bole 
-a.ndhA dekhe la.nga.DA chal kar 
-pahu.Nche kAsI re \threedots 
+dvaar dayaa kaa jab tuu khole 
+pa.ncham sur me.n guu.Ngaa bole 
+a.ndhaa dekhe, la.Nga.Daa chalakar 
+pahu.Nche kaashii re ... 
 
-pAnI pI kar pyAs bujhAU.N 
-naino.n ko kaise samajhAU.N 
-A.Nkh michaulI chho.Do ab 
-man ke bAsI re \threedots 
+paanii piikar pyaas bujhaauu.N 
+nainan ko kaise samajhaauu.N 
+aa.Nkh michaulii chho.Do ab to
+man ke baasii re ... 
 
-niba.rl ke bal dhan nidha.rn ke 
-tum rakh vAle bhakt jano.n ke 
-tere bhajan me.n sab sukh pAU.N 
-miTe udAsI re \threedots 
+-----
 
-nAm jape par tujhe nA jAne 
-unako bhI tU apanA mAne 
-terii dayA kA a.nt nahI.n hai 
-he dukh nAshI re \threedots
+##Part 2##
 
-Aj phaisalA tere dvAr par 
-merI jIt hai terI hAr par 
-hAr jIt hai terI mai.n to 
-charaN upAsI re \threedots 
+darshan do ghanashyaam naath, morii 
+a.Nkhiyaa.N pyaasii re 
+man ma.ndir kii jyoti jagaa do
+ghaT-ghaT baasii re ...
 
-dvAr kha.DA kab se matavAlA 
-mA.nge tum se hAr tumhArI 
-narasI kI ye binatI sunalo 
-bhakt vilAsI re \threedots
+nirbal ke bal dhan nirdhan ke 
+tum rakhavaale bhakt jano.n ke 
+tere bhajan me.n sab sukh paauu.N 
+miTe udaasii re ...
 
-lAj nA luT jAye prabhu terI 
-nAth karo nA dayA me.n derI 
-tIn lok chho.D kar Ao 
-ga.ngA nivAsI re \threedots
+naam jape par tujhe na jaane 
+unako bhii tuu apanaa maane 
+terii dayaa kaa a.nt nahii.n hai 
+he dukh naasii re ...
 
+-----
+
+##Part 3 ##
+
+aaj faisalaa tere dvaar par 
+merii jiit hai tere haar par 
+haar-jiit hai terii, mai.n to 
+charaN upaasii re 
+
+darshan do ghanashyaam naath, morii 
+a.Nkhiyaa.N pyaasii re 
+man ma.ndir kii jyoti jagaa do
+ghaT-ghaT baasii re 
+
+dvaar kha.Daa kab se matavaaraa 
+maa.Nge tumase haar tumhaaraa 
+narasii kii ye binatii sun lo 
+bhakt vilaasii re ...
+
+laaj na luT jaae prabhu terii 
+naath karo naa dayaa me.n derii 
+tiino.n lok chho.Dakar aao 
+gagan nivaasii re ...
 %
 #endindian
 \endsong
