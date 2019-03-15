@@ -1,7 +1,7 @@
 % 
 \startsong
-\stitle{bujhaa diye hai.n khud apane haatho.n}%
-\film{Shagun}%
+\stitle{bujhaa die hai.n Khud apane haatho.n}%
+\film{Shagoon}%
 \year{1964}%
 \starring{Waheeda, Kamaljit}%
 \singer{Suman Kalyanpur}%
@@ -11,30 +11,24 @@
 % Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
 % Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu) 
 % Date: Sun Jul  9 1995
-% Credits:  
-% Editor:  
+% Credits:  Surajit A Bose
+% Editor:   Vinay P Jain
 % Comments: Pankha Road se Pintu Diwana [39]
-%        Oh what a wonderful song Ashok mentioned. I was listening to
-%        this in the Suman cassette. it is superb expresion of the
-%        emotion of sorrow. The words by Sahir are powerful and the
-%        voice is great as well. 
 %
 \printtitle
 #indian
 %
-bujhaa diye hai.n khud apane haatho.n, mohabbato.n ke diye jalaa ke
-merii vafaa ne ujaa.D dii hai.n, ummiid kii bastiyaa.N basaa ke
+bujhaa die hai.n Khud apane haatho.n, muhabbato.n ke diye jalaake
+merii vafaa ne ujaa.D dii hai.n, ummiid kii bastiyaa.N basaake
 
 tujhe bhulaa de.nge apane dil se, ye faisalaa to kiyaa hai lekin
-na dil ko maaluum hai na ham ko, jiye.nge kaise tujhe bhulaa ke
+na dil ko maaluum hai na ham ko, jie.Nge kaise tujhe bhulaake
 
-kabhii mile.nge jo raasate me.n, to mu.Nh phiraa kar palaT pa.De.nge
-kahii.n sune.nge jo naam teraa, to chup rahe.nge nazar jhukaa ke
+kabhii mile.nge jo raaste me.n, to mu.Nh phiraakar palaT pa.De.nge
+kahii.n sune.nge jo naam teraa, to chup rahe.nge nazar jhukaake
 
-na sochane par bhii sochatii huu.N, ke zindagaanii me.n kyaa rahegaa
-terii tamannaa ko bas me.n kar ke, tere khayaalo.n se duur jaake
-%
-% -- ShashiKant Joshi urf Pintu Diwana
+na sochane par bhii sochatii huu.N, ki zindagaanii me.n kyaa rahegaa
+terii tamannaa ko dafn karake, tere Khayaalo.n se duur jaake
 %
 #endindian
 \endsong
