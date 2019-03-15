@@ -1,10 +1,10 @@
 % 
 \startsong
-\stitle{na_ii ma.nzil na_ii raahe.n nayaa hai maharbaan apanaa}%
+\stitle{na_ii ma.nzil na_ii raahe.n nayaa hai maharabaa.N apanaa}%
 \film{Hill Station}%
 \year{1957}%
 \starring{Pradeep Kumar, Bina Rai, Shyama, K.N. Singh}%
-\singer{Lata, Hemant}%
+\singer{Lata, Hemant / Lata}%
 \music{Hemant}%
 \lyrics{S H Bihari}%
 % 
@@ -12,24 +12,41 @@
 % Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
 % Date: Mon Aug 21 1995
 % Credits: Preetham Gopalaswamy (preetham@connectinc.com)
-%	   daw601@anu.edu.au (David Windsor)
-% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          David Windsor (daw601@anu.edu.au)
+%          Surajit A Bose
+% Editor:  Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          Vinay P Jain
 % Comments:  
 %
 \printtitle
 #indian
 %
-na_ii ma.nzil na_ii raahe.n nayaa hai maharbaa.n apanaa
-na jaane jaake Thaharegaa kahaa.N yah kaarvaa.n apanaa
+##Duet version##
 
-na chamakegii jahaa.N bijalii na aayegaa jahaa.N tuufaa.n
-banaae.nge usii Daalii pe jaake aashiyaa.n apanaa
+na_ii ma.nzil na_ii raahe.n nayaa hai maharabaa.N apanaa
+na jaane jaake Thaharegaa kahaa.N yah kaaravaa.N apanaa
+
+na chamakegii jahaa.N bijalii na aaegaa jahaa.N tuufaa.N
+banaae.Nge usii Daalii pe jaake aashiyaa.N apanaa
 
 bharosaa hai muqaddar par tumhaaraa bhii sahaaraa hai
-kahii.n dushman na ban jaa_e yah zaalim aasmaa.n apanaa
+kahii.n dushman na ban jaae yah zaalim aasamaa.N apanaa
 
-dikhaae.nge hame.n yah chaa.Nd taare raah ma.nzil kii
-banate ho agar dushman to ho saaraa jahaa.N apanaa
+dikhaae.Nge hame.n ye chaa.Nd-taare raah ma.nzil kii
+banaate ho agar dushman to ho saaraa jahaa.N apanaa
+
+-----
+
+##Lata solo##
+
+na_ii ma.nzil na_ii raahe.n nayaa hai maharabaa.N apanaa
+na jaane jaake Thaharegaa kahaa.N yah kaaravaa.N apanaa
+
+bahaar aaii hai gulashan me.n, khilii hai.n har taraf kaliyaa.N
+kamii kyaa hai jo ruuThaa hai chaman se baaGabaa.N apanaa
+
+lagii meha.Ndii, banii dulhan, bajii shahanaaiiyaa.N lekin
+yah merii badanasiibii hai ki suunaa hai jahaa.N apanaa
 %
 #endindian
 \endsong
