@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{tho.Dii der ke li_e mere ho jaa_o}%
+\stitle{tho.Dii der ke lie mere ho jaao}%
 \film{Akeli Mat Jaiyo}%
 \year{1963}%
 \starring{Meena Kumari, Rajendra Kumar, Meenu Mumtaz, Agha, Leela Misra}%
@@ -10,8 +10,9 @@
 %
 % Contributor: BOL ANAMOL #11471 [V S Rawat]
 % Transliterator: 
+% Credits: Surajit A Bose
+% Editor:  Vinay P Jain
 % Comments: 
-% Credits: 
 %
 \printtitle
 #indian
