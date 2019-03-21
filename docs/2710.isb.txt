@@ -1,8 +1,8 @@
 %
 \startsong
-\stitle{taqadiir kaa fasaanaa jaakar kise sunaa_e.n}%
+\stitle{taqadiir kaa fasaanaa jaakar kise sunaae.n}%
 \film{Sehra}%
-\year{}%
+\year{1963}%
 \starring{Sandhya, Prashant}%
 \singer{Rafi / Lata}%
 \music{Ramlal}%
@@ -10,28 +10,45 @@
 %
 % Contributor: Vijay Kumar
 % Transliterator: Vijay Kumar
-% Credits:
+% Credits:  Surajit A Bose
+% Editor:   Vinay P Jain
 % Comments:
 %
 \printtitle
 #indian
 %
+##Rafi version##
 
-taqadiir kaa fasaanaa jaakar kise sunaa_e.n
-is dil me.n jal rahii hai.n aramaan kii chitaa_e.n
+taqadiir kaa fasaanaa jaakar kise sunaae.N
+is dil me.n jal rahii hai.n aramaan kii chitaae.N
 
 saa.Nso.n me.n aaj mere tuufaan uTh rahe hai.n
-shahanaa_ii_o.n se kah do kahii.n aur jaa ke gaa_e.n
-is dil me.n jal rahii hai.n aramaan kii chitaa_e.n
+shahanaaiyo.n se kah do kahii.n aur jaake gaae.N
 
-matavaale chaa.Nd suuraj teraa uThaaye Dolaa
-tujhako khushii kii pariyaa.N ghar tere le ke jaa_e.n
-is dil me.n jal rahii hai.n aramaan kii chitaa_e.n
+matavaale chaa.Nd-suuraj teraa uThaae.N Dolaa
+tujhako Khushii kii pariyaa.N ghar tere leke jaae.N
 
-tum to raho salaamat seharaa tumhe mubaarak
-meraa har ek aa.Nsuu dene lagaa duaa_e.n
-is dil me.n jal rahii hai.n aramaan kii chitaa_e.n
+tum to raho salaamat seharaa tumhe.n mubaarak
+meraa har ek aa.Nsuu dene lagaa duaae.N
 
+-----
+
+##Lata version##
+
+uja.D gayaa hai muhabbat me.n zindagii kaa chaman
+sitaare hai.n merii duniyaa ke aa.Nsuo.n kaa qafan
+
+taqadiir kaa fasaanaa jaakar kise sunaae.N
+is dil me.n jal rahii hai.n aramaan kii chitaae.N
+
+dekhe the jo bhii sapane vo ban gae hai.n aa.Nsuu
+jaatii huii havaao.n, le jaao merii aahe.N
+
+apanaa to Gam nahii.n hai, Gam hai to itanaa Gam hai
+vo bewafaa na samajhe.n, hamase badal na jaae.N
+
+is bebasii pe merii roegaa aasamaa.N bhii
+Duubegii saarii dharatii, dekhe.ngii ye fizaae.N
 %
 #endindian
 \endsong
