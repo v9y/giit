@@ -1,49 +1,65 @@
 % ITRANS SONG # 3485; Created on Jan 26, 2004
 %
-% From: Surajit A. Bose (sbose@saintmarys.edu)
-% Date: 2002-05-15 21:01:00 PST
-%
 \startsong
-\stitle{tuu hii saagar tuu hii kinaaraa}%
-\film{Sankalp/ Determination}%
+\stitle{tuu hii saagar hai tuu hii kinaaraa}%
+\film{Sankalp}%
 \year{1974}%
-\starring{Farida Jalal, Sukhdev, Bipin Gupta, Anjali Kadam, Sulakshana Pundit}%
-\singer{Sulakshana Pandit, Vinod Sharma}%
+\starring{Farida Jalal, Sukhdev, Bipin Gupta, Anjali Kadam, Sulakshana Pandit}%
+\singer{Sulakshana Pandit, Vinod Sharma / Sulakshana Pandit}%
 \music{Khaiyyaam}%
 \lyrics{Kaifi Azmi}%
 %
-% Contributor: Surajit A. Bose
-% Transliterator: Surajit A. Bose
+% Contributor: Surajit A Bose
+% Transliterator: Surajit A Bose
 % Date: May 15, 2002
-% Comments: GEETanjali series
+% Comments: GEETanjali series; Fill in the Blanks [151]
 %
 \printtitle
 #indian
 %
+##Part 1##
+
 tuu hii saagar,
 tuu hii saagar hai tuu hii kinaaraa
 Dhuu.NDhataa hai tuu kisakaa sahaaraa
-Dhuu.NDhataa hai tuu kisakaa sahaaraa
 
-usakaa saayaa hai tuu, usakaa darpaN
+usakaa saayaa hai tuu, usakaa darpan
 tere siine me.n hai usakii dha.Dakan
 terii aa.Nkho.n me.n usakaa ishaaraa
 Dhuu.NDhataa hai tuu kisakaa sahaaraa
-Dhuu.NDhataa hai tuu kisakaa sahaaraa
 
-##male voice##
 karmaNyevaadhikaaraste maa phaleShu kadaachana
-maa karmaphalahetuH bhuuH maa te sa~Ngo.astvakarmaNi##end male voice##
+maa karmaphalaheturbhuuH maa te sa~Ngo.astvakarmaNi
 
-paap kyaa puNy hai kyaa yah bhulaa de
+paap kyaa pun hai kyaa ye bhulaa de
 karm kar, phal kii chintaa miTaa de
-ye pariikshaa na hogii dubaaraa
-Dhuu.NDhataa hai tuu kisakaa sahaaraa
+ye pariikShaa na hogii dubaaraa
 Dhuu.NDhataa hai tuu kisakaa sahaaraa
 
 tuu hii saagar,
 tuu hii saagar hai tuu hii kinaaraa
 Dhuu.NDhataa hai tuu kisakaa sahaaraa
+
+-----
+
+##Part 2##
+
+tuu hii saagar,
+tuu hii saagar hai tuu hii kinaaraa
+Dhuu.NDhataa hai tuu kisakaa sahaaraa
+
+man me.n ulajhaa kabhii tan me.n ulajhaa
+tuu sadaa apane daaman me.n ulajhaa
+sabase jiitaa aur apane se haaraa
+Dhuu.NDhataa hai tuu kisakaa sahaaraa
+
+vishh nikaale ki amR^it nikaale
+Duubake thaah apanii lagaa le
+tuu hii shiv tuu hii shiv kaa dulaaraa
+Dhuu.NDhataa hai tuu kisakaa sahaaraa
+
+tuu hii saagar,
+tuu hii saagar hai tuu hii kinaaraa
 Dhuu.NDhataa hai tuu kisakaa sahaaraa
 %
 #endindian
