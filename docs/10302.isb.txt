@@ -1,7 +1,6 @@
-
 %
 \startsong
-\stitle{tho.Dii der ke li_e mere ho jaa_o}%
+\stitle{tho.Dii der ke lie mere ho jaao}%
 \film{Akeli Mat Jaiyo}%
 \year{1963}%
 \starring{Meena Kumari, Rajendra Kumar, Meenu Mumtaz, Agha, Leela Misra}%
@@ -11,27 +10,30 @@
 %
 % Contributor: BOL ANAMOL #11471 [V S Rawat]
 % Transliterator: 
+% Credits: Surajit A Bose
+% Editor:  Vinay P Jain
 % Comments: 
-% Credits: 
 %
 \printtitle
 #indian
 %
-tho.Dii der ke li_e mere ho jaa_o
-mere dil merii saa.Nso.n me.n kho jaa_o
-mere pyaar kii chhaa.Nvo.n me.n so jaa_o
-ma.nzil na mile kabhii haay
-tho.Dii der ke li_e \threedots
+tho.Dii der ke lie mere ho jaao
+mere dil merii saa.Nso.n me.n kho jaao
+mere pyaar kii chhaa.Nv me.n kho jaao
+mile phir na mile kabhii ham
+haay, tho.Dii der ke lie ...
 
-le raat ko_ii a.nga.Daa_ii bas jaa_e merii tanhaa_ii
-dil meraa lage qismat jab jage
-yuu.N baiThe adaa se muskaa_o
-tho.Dii der ke li_e \threedots
+le raat koii a.Nga.Daaii
+bane saa.Ns merii shahanaaii
+dil meraa lage, qismat jage
+tum baiThe adaa se muskaao
+haay, tho.Dii der ke lie ...
 
-ban jaa_uu.N shamaa kii mahafil khi.Dakii to khulii hai dil kii
-ghar suunaa\-suunaa dar suunaa\-suunaa
-tumhii.n ek chiraaG jalaa_o
-tho.Dii der ke li_e \threedots
+ban jaao shamaa mahafil kii
+khi.Dakii to khule koii dil kii
+ghar suunaa-suunaa, dar suunaa-suunaa
+tumhii.n ek chiraaG jalaao
+haay, tho.Dii der ke lie ...
 %
 #endindian
 \endsong
