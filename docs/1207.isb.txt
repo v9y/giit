@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{mere mahabuub na jaa, aaj kii raat na jaa, hone vaalii hai sahar}%
+\stitle{mere mahabuub na jaa, aaj kii raat na jaa}%
 \film{Noor Mahal}%
 \year{1965}%
 \starring{Jagdeep, Chitra}%
@@ -10,41 +10,48 @@
 %
 % Contributor: C.S.Sudarshana Bhat (ceindian@utacnvx.uta.edu)
 % Transliterator: Ravi Kant Rai (rrai@ndsun.cs.ndsu.nodak.edu)
-% Credits: 
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits:  Surajit A Bose
+% Editor:   Anurag Shankar (anurag@astro.indiana.edu)
+%           Vinay P Jain
+% Series: Fill in the Blanks [1]
 %
 \printtitle
 #indian
 %
-mere mahabuub na jaa, naa jaa naa jaa
-mere mahabuub na jaa, aaj kI raat na jaa
-hone vaalI hai sahar, tho.DI der aur Thahar
-mere mahabuub na jaa \threedots
+mere mahabuub na jaa, na jaa, na jaa
+mere mahabuub na jaa, aaj kii raat na jaa
+honevaalii hai sahar, tho.Dii der aur Thahar
+mere mahabuub na jaa ...
 
-1) dekh kitanaa hasIn mausam hai
-har taraf ik ajIb aalam hai
-jalave is taraha aaj nikhare hai.n
-jaise taare zamI.n pe bikhare hai.n, mere mahabuub \threedots
+dekh kitanaa hasiin mausam hai
+har taraf ek ajiib aalam hai
+zarre is taraha aaj nikhare hai.n
+jaise taare zamii.n pe bikhare hai.n
+mere mahabuub na jaa ...
 
-2) mai.nne kaaTe.n hai.n intazaar ke din
+mai.nne kaaTe hai.n intazaar ke din
 tab kahii.n aaye hai.n bahaar ke din
-yU.N naa jaa dil ki shamaa gul kar ke
-abhI dekhaa nahI.n hai jI bhar ke, mere mahabuub \threedots
+yuu.N na jaa dil kii shamaa gul karake
+abhii dekhaa nahii.n hai jii bharake
+mere mahabuub na jaa ...
 
-3) jab se zulfo.n kii chhaa.Nv paaI hai
-beqaraarI ko nI.nd aaI hai
-is taraha mat jaa yU.NhI sone de
-raat Dhalane de subaha hone de, mere mahabuub \threedots
+jab se zulfo.n kii chhaa.Nv paaii hai
+beqaraarii ko nii.nd aaii hai
+is qayaamat ko yuu.N hii sone de
+raat Dhalane de subah hone de
+mere mahabuub na jaa ...
 
-4) is tarah pher kar nazar mujh se
-dUr jaaegaa tU agar mujhase
-chaa.NdanI se bhI aag barasegI
-shammaa bhI roshanI ko tarasegI, mere mahabuub \threedots
+is tarah pherakar nazar mujhase
+duur jaaegaa tuu agar mujhase
+chaa.Ndanii se bhii aag barasegii
+shamaa bhii raushanii ko tarasegii
+mere mahabuub na jaa ...
 
-5) dhaDkano.n me.n yahii taraane hai.n
+dha.Dakano.n me.n yahii taraane hai.n
 tere rukane ke sau bahaane hai.n
 mere dil kii zaraa sadaa sun le
-pyaasii nazaro.n kii iltajaa sun le, mere mahabuub   \threedots
+pyaasii nazaro.n kii iltajaa sun le
+mere mahabuub na jaa ...
 %
 #endindian
 \endsong
