@@ -22,7 +22,8 @@
 \printtitle
 #indian
 %
-ra:	terii palako.n me.n kaajal ai hasiinaa ham se behatar hai - 2
+ra:	terii palako.n me.n
+	terii palako.n me.n kaajal ai hasiinaa hamase behatar hai - 2
 	kahaa.N qismat hamaarii jo terii in kaalii aa.Nkho.n me.n
 	base rahate hameshaa in hasii.n matawaalii aa.Nkho.n me.n
 	ye kaajal, uf ye kaajal ai hasiinaa
@@ -32,7 +33,7 @@ su:	tumase behatar hai, suno jii, tumase behatar hai
 	ye kaajal phir dhuaa.N banakar u.Daa merii muhabbat me.n
 	na kyo.n palako.n me.n rakh luu.N, ye diiwaanaa tumase behatar hai - 2
 
-ra:	teraa u.Dataa-saa aa.Nchal ai hasiinaa ham se behatar hai - 2
+ra:	teraa u.Dataa-saa aa.Nchal ai hasiinaa hamase behatar hai - 2
 	sataane ko hame.n ye terii baa.Nhe.n thaamakar jhuule
 	jahaa.N se chaahe phir ye jhuulakar teraa badan chhuu le
 	ye aa.Nchal, uf ye aa.Nchal ai hasiinaa
@@ -43,7 +44,7 @@ su:	tumase behatar hai, suno jii, tumase behatar hai
 	is ek bejaa.N kii chaahat kaa qariinaa tumase behatar hai - 2
 
 ra:	hame.n kaajal banaa le ham hai.n jalane ke lie raazii
-	tujhe paane ko har suurat badalane ke liye raazii
+	tujhe paane ko har suurat badalane ke lie raazii
 su:	jo yuu.N hai to terii baa.Nho.n me.n jiinaa sab se behatar hai - 2
 ra:	(ye sach hai sab se behatar hai
 su:	suno jii sab se behatar hai) - 2
