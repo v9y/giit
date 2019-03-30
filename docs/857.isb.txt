@@ -1,10 +1,10 @@
 %
 \startsong
-\stitle{jhil-mil sitaaro.n kaa aa.ngan hogaa}%
+\stitle{jhilamil sitaaro.n kaa aa.Ngan hogaa}%
 \film{Jeevan Mrityu}%
 \year{1970}%
 \starring{Dharmendra, Rakhee}%
-\singer{Rafi, Lata}%
+\singer{Rafi, Lata / Lata}%
 \music{Laxmikant-Pyarelal}%
 \lyrics{Anand Bakshi}%
 %
@@ -13,47 +13,60 @@
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-%	   Himanshu Gupta (hgupta@db.stanford.edu)
+%          Himanshu Gupta (hgupta@db.stanford.edu)
+%          Surajit A Bose
 % Editor:  Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+%          Vinay P Jain
+% Series:  Fill in the Blanks [2]
 %
 \printtitle
 #indian
 %
-r: jhilamil sitaaro.n kaa aa.Ngan hogaa
-   rimajhim barasataa saavan hogaa
-   aisaa su.ndar sapanaa apanaa jiivan hogaa
-l: jhilamil sitaaro.n kaa aa.Ngan hogaa \threedots
+ra:	jhilamil sitaaro.n kaa aa.Ngan hogaa
+	rimajhim barasataa saavan hogaa
+	aisaa su.ndar sapanaa apanaa jiivan hogaa
+la:	jhilamil sitaaro.n kaa aa.Ngan hogaa ...
 
-r: prem kii galii me.n ek chhoTaa saa ghar banaae.nge
-   kaliyaa.N naa mile naa sahii kaa.NTo.n se sajaae.nge
-   bagiyaa.N se su.ndar vo ban hogaa
-   rimajhim barasataa saavan hogaa
+ra:	prem kii galii me.n ek chhoTaa-saa ghar banaae.Nge
+	kaliyaa.N naa mile naa sahii kaa.NTo.n se sajaae.Nge
+	bagiyaa se su.ndar vo ban hogaa
+	rimajhim barasataa saavan hogaa
+la:	jhilamil sitaaro.n kaa aa.Ngan hogaa 
+ra:	rimajhim barasataa saavan hogaa
 
-l: jhilamil sitaaro.n kaa aa.Ngan hogaa 
-r: rimajhim barasataa saavan hogaa
+la:	terii aa.Nkho.n se saaraa sa.nsaar mai.n dekhuu.Ngii
+	dekhuu.Ngii is paar yaa us paar mai.n dekhuu.Ngii
+	naino.n ko teraa hii darshan hogaa
+	rimajhim barasataa saavan hogaa
+ra:	jhilamil sitaaro.n kaa aa.Ngan hogaa 
+la:	rimajhim barasataa saavan hogaa
 
-l: terii aa.Nkho.n se saaraa sa.nsaar mai.n dekhuu.Ngii
-   dekhuu.Ngii is paar yaa us paar mai.n dekhuu.Ngii
-   naino.n ko teraa hii darshan hogaa
-   rimajhim barasataa saavan hogaa
+ra:	phir to mast havaao.n ke ham jho.nke ban jaae.nge
+la:	nainaa sundar sapano.n ke jharokhe ban jaae.nge
+	man aashaao.n kaa darpaN hogaa
+do:	rimajhim barasataa saavan hogaa
+	aisaa su.ndar sapanaa apanaa jiivan hogaa ...
 
-l: jhilamil sitaaro.n kaa aa.Ngan hogaa 
-r: rimajhim barasataa saavan hogaa
+-----
 
-r: phir to mast havaao.n ke ham jhoke ban jaae.nge
-l: nainaa sundar sapano.n ke jharokhe ban jaae.nge
-   man aashaao.n kaa darpaN hogaa
-   rimajhim barasataa saavan hogaa
+##Lata solo##
 
-dono.n: rimajhim sitaaro.n kaasaavan hogaa
-        jhilamil sitaaro.n kaaa saavan hogaa
+jhilamil sitaaro.n kaa aa.Ngan hogaa
+rimajhim barasataa saavan hogaa
+aisaa su.ndar sapanaa apanaa jiivan hogaa
+jhilamil sitaaro.n kaa aa.Ngan hogaa ...
 
-## Sad version ##
-roe.ngii ye aa.Nkhe.n phir bhii mai.n to muskuraauu.Ngii
-duHkh ke tuufaano.n se bhii mai.n naa ghabaraauu.Ngii
+terii aa.Nkho.n se saaraa sa.nsaar mai.n dekhuu.Ngii
+dekhuu.Ngii is paar yaa us paar mai.n dekhuu.Ngii
+naino.n ko teraa hii darshan hogaa
+rimajhim barasataa saavan hogaa
+jhilamil sitaaro.n kaa aa.Ngan hogaa ...
+
+roe.Ngii ye aa.Nkhe.n phir bhii mai.n to muskuraauu.Ngii
+dukh ke tuufaano.n se bhii mai.n na ghabaraauu.Ngii
 jab saath mere meraa saajan hogaa
 rimajhim barasataa saavan hogaa
-
+jhilamil sitaaro.n kaa aa.Ngan hogaa ...
 %
 #endindian
 \endsong
