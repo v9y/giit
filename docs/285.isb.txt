@@ -15,10 +15,7 @@
 %          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
 % Editor: Anurag Shankar (anurag@astro.indiana.edu)
 %         Vinay P Jain
-%
-\printtitle
-#indian
-%
+% Comments: 
 % This film was supposedly based loosely on Nargis's life, atleast the
 % earlier parts are.   Nutan is treated very badly by her uncle and aunt
 % (she is an orphan) until they find out what a good singer she is.  When
@@ -32,6 +29,8 @@
 % excellently sung by Asha.   I don't know if these lyrics are exceptional
 % but I love the accusatory quality.   I see them as words written in anger,
 % not helplessness.
+\printtitle
+#indian
 %
 bekas kii tabaahii ke saamaan hazaaro.n hai.n
 diipak to akelaa hai, tuufaan hazaaro.n hai.n
