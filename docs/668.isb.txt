@@ -12,8 +12,9 @@
 % Credits: C. S. Sudarshana Bhat (cesaa129@utacnvx.uta.edu)
 %          Venkatasubramanian K Gopalakrishnan (gopala@cs.wisc.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
+%          Vivek P Choraria
 % Editor: Anurag Shankar (anurag@astro.indiana.edu)
-%
+%         Vinay P Jain
 % \printtitle
 #indian
 %
@@ -22,19 +23,19 @@ kyaa nashaa nashaa-saa hai
 boliye na boliye
 sab sunaa sunaa-saa hai
 
-aaj baat-baat pe
-aap kyuu.N sa.Nbhalane lage
-tharatharaae ho.nTh kyuu.N
-ashk kyuu.N machalane lage
-lipaTe gesuu khulane lage -2
-
-ham aur tum ...
-
 beqaraar se ho kyuu.N
 hamako paas aane bhii do
 gir pa.Daa jo haath se
 vah rumaal uThaane bhii do
 banate kyuu.N ho jaane bhii do -2
+
+ham aur tum ...
+
+aaj baat-baat pe
+aap kyuu.N sa.Nbhalane lage
+tharatharaae ho.nTh kyuu.N
+ashk kyuu.N machalane lage
+lipaTe gesuu khulane lage -2
 
 ham aur tum ...
 %
