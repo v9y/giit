@@ -10,7 +10,7 @@
 %
 % Contributor: Porkey (ceindian@utacnvx.uta.edu)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Editor: Surajit Bose
 %
 \printtitle 
 #indian
@@ -18,19 +18,19 @@
 babuwaa ho babuwaa, pahunaa ho pahunaa
 babuwaa ho babuwaa, pahunaa ho pahunaa
 
-jab tak pUre naa ho.n phere saat
+jab tak puure naa ho.n phere saat
 tab tak dulhan nahii.n dulhaa kii 
-re tab tak babunii nahii.n babuvaa kii, naa, jab tak \threedots 
+re tab tak babunii nahii.n babuvaa kii, naa, jab tak ...
 
-1) ab hii to babuwaa pahalii hii bha.nvar pa.Dii hai
+ab hii to babuwaa pahalii hii bha.Nvar pa.Dii hai
 ab hii to pahunaa dillii hii dUr ba.Dii hai
-ho pahalii hii bha.nvar pa.Dii hai, dillii dUr ba.Dii hai
-karanii hogii tapasyaa saarii raat, jab tak pUre naa \threedots 
+ho pahalii hii bha.Nvar pa.Dii hai, dillii dUr ba.Dii hai
+karanii hogii tapasyaa saarii raat, jab tak pUre naa ... 
 
-2) jaise jaise bha.Nvar pa.De man a.Nganaa ko chho.De 
-ek ek bhaa.Nvar naataa anjaano.n se jo.De 
-man ghar a.Nganaa ko chho.De, anjaano.n se naataa jo.De 
-sukh kii badarii aa.Nsuu kii barasaat, jab tak pUre naa \threedots 
+jaise jaise bha.Nvar pa.De man a.Nganaa ko chho.De 
+ek ek bha.Nvar naataa anajaano.n se jo.De 
+man ghar a.Nganaa ko chho.De, anajaano.n se naataa jo.De 
+sukh kii badarii aa.Nsuu kii barasaat, jab tak pUre naa ...
 
 babuwaa ho babuwaa, pahunaa ho pahunaa
 saat phere karo babuwaa bharo saat vachan bhii
@@ -38,7 +38,7 @@ aise(?) kanyaa aise(?) arpan kar de tan bhii man bhii
 uTho uTho babunii dekho dekho dhruv taaraa
 dhruv taare saa ho amar suhaag tihaaraa
 ho dekho dekho dhruv taaraa, amar suhaag tihaaraa
-saato.n phere saat janmo.n kaa saath, jab tak pUre naa \threedots 
+saato.n phere saat janmo.n kaa saath, jab tak puure naa ...
 %
 #endindian
 \endsong
