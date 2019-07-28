@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{ham aur tum aur ye samaa, kyaa nashaa nashaa saa hai}%
+\stitle{ham aur tum aur ye samaa.N, kyaa nashaa nashaa saa hai}%
 \film{Dil Deke Dekho}%
 \starring{Shammi Kapoor, Asha Parekh}%
 \singer{Rafi}%
@@ -17,26 +17,26 @@
 % \printtitle
 #indian
 %
-ham aur tum aur ye samaa
-kyaa nashaa nashaa saa hai
+ham aur tum aur ye samaa.N
+kyaa nashaa nashaa-saa hai
 boliye na boliye
-sab sunaa sunaa saa hai
+sab sunaa sunaa-saa hai
 
-aaj baat baat pe
-aap kyuu.N machalane lage
+aaj baat-baat pe
+aap kyuu.N sa.Nbhalane lage
 tharatharaae ho.nTh kyuu.N
-ashq kyuu.N machalane lage
-lipaTe gesuu khulane lage \- 2
+ashk kyuu.N machalane lage
+lipaTe gesuu khulane lage -2
 
-ham aur tum \threedots
+ham aur tum ...
 
 beqaraar se ho kyuu.N
 hamako paas aane bhii do
 gir pa.Daa jo haath se
 vah rumaal uThaane bhii do
-banate kyuu.N ho jaane bhii do \- 2
+banate kyuu.N ho jaane bhii do -2
 
-ham aur tum \threedots
+ham aur tum ...
 %
 #endindian
 \endsong
