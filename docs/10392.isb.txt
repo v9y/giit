@@ -1,7 +1,7 @@
 
 %
 \startsong
-\stitle{ko_ii dil me.n hai ... kise yaad rakhuu.N}%
+\stitle{koii dil me.n hai ... kise yaad rakkhuu.N}%
 \film{Anuraag}%
 \year{1956}%
 \starring{Mukesh, Usha Kiran, Mridula, Protima Devi, Shivraj}%
@@ -10,30 +10,27 @@
 \lyrics{Kaif Irfani}%
 %
 % Contributor: BOL ANAMOL #11433 [V S Rawat]
-% Transliterator: 
-% Comments: 
+% Corrections: Shashi Mimani
+% Editor: Vinay P Jain
 % Credits: 
 %
 \printtitle
 #indian
 %
-ko_ii dil me.n hai aur ko_ii nazar me.n
+koii dil me.n hai aur ko_ii nazar me.n
 muhabbat ke sapane mai.n kisape luTaa_uu.N
 isii kash\-ma\-kash me.n ji_e jaa rahaa huu.N
-kise yaad rakhuu.N kise bhuul jaa_uu.N
+kise yaad rakkhuu.N, kise bhuul jaauu.N
 
-bachapan ke pyaar kii miTatii nahii.n nishaanii
-kitanaa hii miTaanaa chaahe ise javaanii
-kise yaad rakhuu.N \threedots
+idhar dil mohabbat me.n unako diyaa hai
+udhar farz kaa bojh sar par liyaa hai
+aree zindagii tuune ye kyaa kiyaa hai
+kise yaad rakkhuu.N, kise bhuul jaauu.N
 
-udhar dil mohabbat me.n unako diyaa hai
-idhar farz kaa bojh sar pe liyaa hai
-are zindagii tuune ye kyaa kiyaa hai
-kise yaad rakhuu.N \threedots
-
-na bas me.n hai inako nazar se giraanaa
-merii bebasii kaa itanaa fasaanaa
-kise yaad rakhuu.N \threedots
+na bas me.n hai mere unhe.n bhuul jaanaa 
+na bas me.n hai unako nazar se giraanaa
+merii bebasii kaa, bas itanaa fasaanaa 
+kise yaad rakkhuu.N kise bhuul jaauu.N
 %
 #endindian
 \endsong
