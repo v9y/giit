@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{phailii huii.n hai.n sapano.n kii baahe.n}%
+\stitle{phailii huii hai.n sapano.n kii baa.Nhe.n}%
 \film{House No. 44}%
 \year{1955}%
 \starring{Dev Anand, Kalpana Kaartik}%
@@ -11,28 +11,34 @@
 % Contributor: Ravi Sriniwas (@gatech.edu)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
 % Credits: Preetham Gopalaswamy (preetham@src.umd.edu)
+% Editor: Vinay P Jain
 %
 \printtitle
 #indian
 %
-phailii huii.n hai.n sapano.n kii baahe.n 
-aajaa chala de.n kahii.n dUr 
-vahii.n merI manzil vahii.n terI rAhe.n 
-aajaa chala de.n kahii.n dUr 
+phailii huii hai.n sapano.n kii baa.Nhe.n 
+aajaa chal de.n kahii.n duur 
+vahii merii ma.nzil vahii terii raahe.n 
+aajaa chal de.n kahii.n duur
+phailii huii hai.n ...
 
-uu.Nche ghaaT ke sa.ng tale chhip jaae.n 
-dhu.ndhalii fizaa me.n kuchh khoe.n kuchh paaye.n 
-dha.Dakan kii lay par koii aisI dhun gaaye.n 
-dede jo dilako dilakii panaahe.n 
-aajaa chala de.n kahii.n duur \threedots
+uudii ghaTaa ke saaye tale chhup jaae.N 
+dhu.Ndhalii fizaa me.n kuchh khoe.N kuchh paae.N
+uudii ghaTaa ke 
+uudii ghaTaa ke ...
+saa.Nso.n kii lay par koii aisI dhun gaae.N 
+dede jo dil ko dil kii panaahe.n 
+aajaa chal de.n kahii.n duur ...
 
-jhuulaa dhanak kaa dhiire dhiire ham jhuule.n 
-ambar to kyA hai taaro.n ke bhI lab chhUle.n 
-mastii me.n jhuule.n aur saare Gam bhuule.n 
-piichhe nA dekhe.n mu.Dake nigaahe.n 
-aajaa chala de.n kahii.n duur \threedots
+jhuulaa dhanak kaa dhiire-dhiire ham jhuule.n 
+ambar to kyaa hai taaro.n ke bhI lab chhuu le.n 
+jhuulaa dhanak kaa 
+jhuulaa dhanak kaa ...
+mastii me.n jhuule.n aur sabhii Gam bhuule.n 
+dekhe.n na piichhe mu.Dake nigaahe.n 
+aajaa chal de.n kahii.n duur ...
 
-phailii huii.n hai.n \threedots
+phailii huii hai.n ...
 %
 #endindian
 \endsong
