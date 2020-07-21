@@ -8,39 +8,40 @@
 \music{Ravi}%
 \lyrics{Shakeel}%
 %
-% Contributor: K Vijay Kumar
+% Contributor: K Vijay Kumar, Sanjeev Ramabhadran
 % Transliterator: K Vijay Kumar
-% Credits:
-% Editor:
+% Credits: 
+% Editor: Vinay P Jain
 %
 \printtitle
 #indian
 %
-ye duniyaa gol hai, uupar se khol hai
-andar jo dekho pyaare bilakul polam\-pol hai
-ye duniyaa gol hai
+ye duniyaa gol hai, uupar se Khol hai -2
+andar jo dekho pyaare bilakul polam-pol hai
+ye duniyaa gol hai ...
 
-kitane hii duniyaa vaale, rahate hai.n gheraa Daale
+jitane hai.n duniyaa vaale, phirate hai.n jholii Daale
 koii muraad maa.Nge, koii aulaad maa.Nge
 koii muhabbat chaahe, koii huquumat chaahe
-sabake gale me.n bhaiyyaa aramaano.n kaa Dol hai
-ye duniyaa gol hai   \threedots
+koii taqadiir maa.Nge, koii tasviir maa.Nge -2
+sabake gale me.n bhaiyaa aramaano.n kaa Dhol hai
+ye duniyaa gol hai ...
 
-rupaiyya paisaa na maa.Nguu.N, sonaa chaa.Ndii na maa.Nguu.N
-kapa.Daa lattaa na maa.Nguu.N, gho.Daa gaa.Dii na maa.Nguu.N
-paravar_digaar mere, usakaa diidaar de de
-ek foto kaa savaal hai baabaa, bol ab tak nahii.n milaa
-paravar_digaar mere, usakaa diidaar de de
+chaa.Ndii sonaa naa maa.Nguu.N, rupayaa paisaa naa maa.Nguu.N 
+kholii ba.Ngalaa naa maa.Nguu.N, kapa.Daa lattaa na maa.Nguu.N
+gho.Daa gaa.Dii naa maa.Nguu.N, kurtaa dhotii naa maa.Nguu.N
+paravar_digaar mere, usakaa diidaar de de -2
 jaldii milaa de merii duniyaa Daa.NvaaDol hai
-ye duniyaa gol hai   \threedots
+ye duniyaa gol hai ...
 
-are baap re, ye kahaa.N se, Tyuun badalo
-mere maulaa bulaa le madiine ise
-lage mauke pe aane pasiine mujhe
-    - ise nahii.n, baabaa, mujhe
-achchhaa betaa, la.nbii umar ho jaldii se la.nbe ho jaao
-ye duniyaa gol hai   \threedots
-
+mere maulaa bulaa lo madiine mujhe
+lage maut ke aane pasiine mujhe
+mere maulaa bulaa lo madiine ise
+(ise nahii.n baabaa mujhe)
+(achchhaa beTaa achchhaa, lambii umar ho)
+uupar se Khol hai
+andar jo dekho pyaare bilakul polam-pol hai
+ye duniyaa gol hai bhaaii
 %
 #endindian
 \endsong
