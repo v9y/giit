@@ -5,43 +5,49 @@
 \film{Raaz}%
 \year{1967}%
 \starring{Rajesh Khanna, Babita, I S Johar}%
-\singer{Rafi/ Lata}%
+\singer{Rafi / Lata}%
 \music{Kalyanji-Anandji}%
 \lyrics{Shamim Jaipuri}%
 %
 % Contributor: BOL ANAMOL #11025 [V S Rawat]
-% Transliterator: 
+% Transliterator: Sudarshana Bhat
 % Comments: 
-% Credits: 
+% Editor: Vinay P Jain
 % 
 \printtitle
 #indian
 %
-akele hai.n chale aa_o jahaa.N ho \-2
-kahaa.N aavaaz de.n tumako kahaa.N ho
-akele hai.n chale aa_o \threedots
-
-tumhe.n ham Dhuu.NDhate hai.n hame.n dil Dhuu.NDhataa hai \-2
-na ab ma.nzil hai ko_ii na ko_ii raastaa hai
-akele hai.n chale aa_o \threedots
-
-ye tanhaa_ii kaa aalam aur us par aapakaa Gam \-2
-na jiite hai.n na marate bataa_o kyaa kare.n ham
-akele hai.n chale aa_o \threedots
+% Part 1 (Rafi):
 %
-% Part 2:
-%
-akele hai.n chale aa_o jahaa.N ho \-2
+akele hai.n chale aao jahaa.N ho -2
 kahaa.N aavaaz de.n tumako kahaa.N ho
-akele hai.n chale aa_o \threedots
+akele hai.n chale aao ...
 
-merii aa.Nkho.n me.n aa.Nsuu mere lab pe hai.n aahe.n
-tumhe.n hii Dhuu.NDhatii hai.n merii viiraa.N nigaahe.n
-akele hai.n chale aa_o \threedots
+tumhe.n ham Dhuu.NDhate hai.n, hame.n dil Dhuu.NDhataa hai -2
+na ab ma.nzil hai ko_ii, na ko_ii raastaa hai
+akele hai.n chale aao ...
 
-??
-??
-akele hai.n chale aa_o \threedots
+ye tanhaa_ii kaa aalam aur is par aapakaa Gam -2
+na jiite hai.n na marate, bataa_o kyaa kare.n ham
+akele hai.n chale aao ...
+%
+% Part 2 (Lata):
+%
+akele hai.n chale aa_o jahaa.N ho -2
+kahaa.N aavaaz de.n tumako kahaa.N ho
+akele hai.n chale aao ...
+
+ye mausam ye nazaare, ye chaa.Nd aur ye sitaare -2
+sabhii hai.n yaad lekin, nahii.n mere sahaare
+akele hai.n chale aao ...
+
+merii aa.Nkho.n me.n aa.Nsuu, mere lab pe hai.n aahe.n -2
+tumhii.n ko Dhuu.NDhatii hai.n, merii viiraa.N nigaahe.n
+akele hai.n chale aao ...
+
+tarasatii huu.N mai.n jinako, vo din aakar rahe.nge -2
+mujhe ummiid hai ye, tumhe.n paakar rahe.nge
+akele hai.n chale aao ...
 %
 #endindian
 \endsong
