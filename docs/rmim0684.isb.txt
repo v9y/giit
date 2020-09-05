@@ -1,8 +1,4 @@
 % ITRANS SONG #
-
-% Date: 12 Apr 2004 16:09:18 -0700
-% From: nanhafarishta@yahoo.co.in (Surma Bhopali)
-
 \startsong
 \stitle{aa jaa mere pyaar aa jaa}%
 \film{Heeraalaal Pannaalaal}%
@@ -22,9 +18,6 @@
 
 \printtitle
 #indian
-
-% Listen to the tune rendered by Surma Bhopali at:
-% http://www.geoahead.com/music/aajaamerepyar.html
 
 aa jaa mere pyaar aa jaa
 dekh aise naa sataa
