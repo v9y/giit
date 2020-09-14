@@ -1,38 +1,42 @@
 %
 \startsong
-\stitle{ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe}%
+\stitle{ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe.n}%
 \film{Aaj Aur Kal}%
-\year{}%
+\year{1963}%
 \starring{Ashok Kumar, Sunil Dutt, Tanuja, Nanda}%
 \singer{Rafi}%
 \music{Ravi}%
 \lyrics{Sahir}%
 %
-% Contributor: Samiuddin Mohammed (sm0e@ns1.cc.lehigh.edu)
+% Contributor: Samiuddin Mohammed, Vijay Kumar K
 % Transliterator: Anurag Acharya (anurag.acharya@cs.cmu.edu)
 % Credits: 
-% Editor:  
+% Editor: Vinay P Jain
 %
 \printtitle
 #indian
 %
-ye vaadiyaa.N ye fizaa_e.n bulaa rahii hai.n tumhe \- 2
-khaamoshiyo.n kii sadaa_e.n bulA rahii hai.n tumhe 
-ye vaadiyaa.N ye fizaa_e.N bulaa rahii hai.n tumhe 
+ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe.n -2
+Khaamoshiyo.n kii sadaae.N bulaa rahii hai.n tumhe.n 
+ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe.n
 
-tumahArI zulpho.n se khushabU kI bhIkh lene ko 
-jhukI jhukI sI ghaTAe.n bulA rahI hai.n tumhe 
-khAmoshiyo.n kI sadAe.N \threedots 
+taras rahe.n hai.n javaa.N phuul ho.nTh chhuune ko
+machal-machal ke havaae.N bulaa rahii hai.n tumhe.n
+Khaamoshiyo.n kii sadaae.N...
 
-hasI.n champAI pairo.n ko jabase dekhA hai 
-nadI kI mast adAe.n bulA rahI hai.n tumhe 
-khAmoshiyo.n kI sadAe.N \threedots 
+tumahaarii zulfo.n se Khushabuu kii bhiikh lene ko 
+jhukii-jhukii sii ghaTaae.N bulaa rahii hai.n tumhe.n 
+Khaamoshiyo.n kii sadaae.N...
 
-merA kahA nA suno dil kI baat to sunalo 
-har ek dil kI duAe.N bulA rahI hai.n tumhe 
-khAmoshiyo.n kI sadAe.n bulA rahI hai.n tumhe 
+hasiin champa_ii pairo.n ko jabase dekhaa hai 
+nadii kii mast adaae.N bulaa rahii hai.n tumhe 
+Khaamoshiyo.n kii sadaae.N...
 
-ye vAdiyA.N ye fizAe.N bulA rahI hai.n tumhe \threedots 
+meraa kahaa na suno dil kii baat to sun lo 
+har ek dil kii duaae.N bulaa rahii hai.n tumhe 
+Khaamoshiyo.n kii sadaae.N...
+
+ye vaadiyaa.N ye fizaae.N bulaa rahii hai.n tumhe.n... 
 %
 #endindian
 \endsong
