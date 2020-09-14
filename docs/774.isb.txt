@@ -8,24 +8,28 @@
 \music{Ravi}%
 \lyrics{Sahir}%
 %
-% Contributor:  Ashok (ADhareshwar@WorldBank.org)
+% Contributor:  Ashok Dhareshwar, Vijay Kumar K
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
+% Editor: Anurag Shankar, Vinay P Jain
 %
 \printtitle 
 #indian 
 %
-itanii hasiin itanii javaa.N raat kyaa kare.n \- 2
-jaage hai.n kuchh ajiib se jazabaat kyaa kare.n 
-itanI hasiin itanI javaa.n raat kyaa kare.n 
+itanii hasiin itanii javaa.N raat kyaa kare.n -2
+jaage hai.n kuchh ajiib se jazbaat kyaa kare.n 
+itanii hasiin itanii javaa.n raat kyaa kare.n 
 
-saa.nso.n me.n ghul rahii hai kisii saa.ns kii mahak \- 2
-daaman ko chhuu rahaa hai koI haath kyaa kare.n \- 2
-itanI hasiin itanI javaa.n raat kyaa kare.n 
+pe.Do.n ke baazuo.n me.n lachakatii hai chaa.Ndanii -2
+bechain ho rahe hai.n Khayaalaat kyaa kare.n -2
+itanii hasiin itanii javaa.n raat kyaa kare.n 
 
-shaayad tumhaare aane se ye bhed khul sake \- 2
-hairaan hai.n ki aaj naI baat kyA kar.n \- 2
-itanI hasiin itanI javaa.n raat kyaa kare.n 
+saa.Nso.n me.n ghul rahii hai kisii saa.Ns kii mahak -2
+daaman ko chhuu rahaa hai koii haath kyaa kare.n -2
+itanii hasiin itanii javaa.n raat kyaa kare.n 
+
+shaayad tumhaare aane se ye bhed khul sake -2
+hairaan hai.n ki aaj naI baat kyaa kare.n -2
+itanii hasiin itanii javaa.n raat kyaa kare.n 
 %
 #endindian
 \endsong
