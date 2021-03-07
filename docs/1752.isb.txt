@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{tum apanaa ra.nj\-o\-Gam, apanii pareshaanii mujhe de do}% 
+\stitle{tum apanaa ra.nj-o-Gam, apanii pareshaanii mujhe de do}% 
 \film{Shagun}%
 \year{1964}%
 \starring{Waheeda Rahman, Kamaljeet}%
@@ -8,33 +8,28 @@
 \music{Khaiyyam}%
 \lyrics{Sahir}%
 %
-% Contributor:  ShashiKant Joshi urf Pintu Diwana (rava0002@gold.tc.umn.edu)
-% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
-% Comments: Pankha Road se Pintu Diwana [22]
-%         RJGK 21 (Non Mangeshkar sisters) clue
-%         some parts missing, this is more for nostalgic reasons
-%         and that it was in RJGK 21. The words may not seem much
-%         captivating as is. But another song of this movie, in RJGK 22
-%         is out of the world! :-)))
+% Contributor:  ShashiKant Joshi urf Pintu Diwana
+% Transliterator: Ravi Kant Rai
+% Editor: Anurag Shankar, Vinay P Jain
+%
 %
 \printtitle 
 #indian 
 %
-tum apanaa ra.nj\-o\-Gam, apanI pareshaanI mujhe de do 
-tumhe.n Gam kii qasam, is dil kI vIrAnI mujhe de do (?)
+tum apanaa ra.nj-o-Gam, apanii pareshaanii mujhe de do 
+tumhe.n Gam kii qasam, is dil kii viiraanii mujhe de do
 
-ye maanaa mai.n kisii qaabil nahii.n huu.N in nigaaho.n me.n \- 2 
-buraa kyaa hai agar, ye dukh ye hairaanI mujhe de do 
-tum apanaa \threedots
+ye maanaa mai.n kisii qaabil nahii.n huu.N in nigaaho.n me.n -2 
+buraa kyaa hai agar, ye dukh ye hairaanii mujhe de do 
+tum apanaa ...
 
-mai.n dekhuu.N to sahii, duniyaa tumhe.n kaise sataatI hai \- 2 
-koI din ke liye, apanI nigahabaanI mujhe de do 
-tum apanaa \threedots
+mai.n dekhuu.N to sahii, duniyaa tumhe.n kaise sataatii hai -2 
+koii din ke liye, apanii nigahabaanii mujhe de do 
+tum apanaa ...
 
-vo dil jo maine maa.ngaa thaa magar gairo.n ne paayaa \- 2 
-ba.DI inaayat hai agar, usakI pashemaanI mujhe de do 
-tum apanaa \threedots
+vo dil jo mai.nne maa.Ngaa thaa magar Gairo.n ne paayaa thaa -2 
+ba.Dii shai hai agar, usakii pashemaanii mujhe de do 
+tum apanaa ...
 %
 #endindian
 \endsong
