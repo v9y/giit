@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{o varshaa ke pahale baadal}%
+\stitle{o varShaa ke pahale baadal}%
 \film{Meghdoot}%
 \year{1940}%
 \starring{}%
@@ -10,43 +10,44 @@
 %
 % Contributor: Srinivas Ganti
 % Transliterator: Srinivas Ganti
+% Corrections: Sanjeev Ramabhadran
+% Editor: Vinay Jain
 % Date: Oct 5,2001
 % Comments: GEETanjali
 %
 \printtitle
 #indian
 %
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
-asuvan kii buundan barasaakar,
-asuvan kii buundan barasaakar, alkaa nagarii me.n tum jaakar, khabar merii
-pahunchaanaa
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+a.Nsuvan kii buu.Ndan barasaakar (2)
+alkaa nagarii me.n tum jaakar, khabar merii pahu.Nchaanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
 
-maal bhuumii aur amrakuuT se vindhyaachal ?,
-vidishaa nagarii aur ? hokar aage paa.nv ba.Dhaanaa
-aag virah kii jahaa.N bhii paanaa
-aag virah kii jahaa.N bhii paanaa, baras baras kar use bujhaanaa
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+maalabhuumi aur amrakuuT se vi.ndhyaachal narmadaa ko jaanaa,
+vidishaa nagarii aur betawaa tak hokar aage paa.Nv ba.Dhaanaa
+aag virah kii jahaa.N bhii paanaa (2)
+baras-baras kar use bujhaanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
 
-dekh a.ndheraa,
-dekh a.ndheraa piyaa milan ko chalegii chhup kar koii gorii
-bas tum bijalii chamakaakar khol na denaa,
+dekh a.Ndheraa
+dekh a.Ndheraa piyaa-milan ko chalegii chhup kar koii gorii
+path me.n tum bijalii chamakaakar khol na denaa,
 khol na denaa, khol na denaa usakii chorii
-virahan ko tum jahaa.N bhii paanaa, use kahiin na jalaanaa
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+birahan ko tum jahaa.N bhii paanaa, use kabhii na sataanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
 
 ujjainii me.n mahaakaal kaa ma.ndir jab tum paao
-pujaarino.n kaa naach,
-pujaarino.n kaa naach dekh kar apanaa man bahalaao
-par tum unake a.ng Dha.ng ko dekh aTak na jaao
-par tum unake a.ng Dha.ng ko dekh aTak na jaao
-simalaa me.n na chambal me.n na kuru{ksh}etra me.n rukanaa
-? me.n na ga.ngaa kii laharo.n ko jhukanaa
-aTal himaalay ke ? phir yuu.N mu.Danaa kailaash kii or
-jyuu.N cha.ndaa ko dekh pyaare, gagan ko jhuume jaaye chakor
-alkaa me.n phir Dhuu.NDh use tum, meraa sa.ndesaa sunaanaa
-o varshaa ke pahale baadal, meraa sa.ndesaa le jaanaa
+pujaarino.n kaa naach dekhakar
+pujaarino.n kaa naach dekhakar apanaa man bahalaao
+par tum unake a.ng-Dha.ng ko dekh aTak na jaao (2)
+
+shipraa me.n naa chambal me.n naa kuruxetra me.n rukanaa
+ka.nkhal me.n na ga.ngaa kii laharo.n ko chuumane jhukanaa
+aTal himaalay pe cha.Dhake phir yuu.N mu.Danaa kailaash kii or
+jyuu.N cha.ndaa ko dekh ke pyaare, gagan ko chuume jaaye chakor
+alkaa me.n phir Dhuu.NDh use tum, meraa sa.ndes sunaanaa
+o varShaa ke pahale baadal, meraa sa.ndesaa le jaanaa
 
 %
 #endindian
