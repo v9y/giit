@@ -10,22 +10,26 @@
 %
 % Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
 % Transliterator: Ravi Kant Rai 
-% Credits: 
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Credits: Vijay Kumar K
+% Editor: Vinay P. Jain
 %
 \printtitle
 #indian
 %
 mai.n vahii darpaN vahii, naa jaane ye kyaa ho gayaa
-ki sab kuchh laage nayaa nayaa
+ki sab kuchh laage nayaa-nayaa
 
-1) ik jaadU kii chha.Dii, tan man pe pa.Dii
-mai.n jahaa.N kii re gaI vahii.n pe kha.Dii
-ghar vahii, aa.Ngan vahii, naa jaane \threedots
+mai.n to gaane lagii, gun_gunaane lagii
+na jaane mai.n ye kis or jaane lagii
+tan vahii, meraa man vahii, na jaane ...
 
-b) kahii.n duur papiihaa bole piyaa piyaa
-u.D jaane ko bekal hai mora jiyaa
-dil vahii dha.Dakan vahii, naa jaane \threedots
+ik jaaduu kii chha.Dii, tan-man pe pa.Dii
+mai.n jahaa.N thii rah gaI vahii.n pe kha.Dii
+ghar vahii, aa.Ngan vahii, naa jaane ...
+
+kahii.n duur papiihaa bole piyaa-piyaa
+u.D jaane ko bekal hai moraa jiyaa
+dil vahii dha.Dakan vahii, naa jaane ...
 %
 #endindian
 \endsong
