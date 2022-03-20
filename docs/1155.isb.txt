@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{marane kii duaae.n kyo.n maa.Nguu.n}% 
+\stitle{marane kii duaae.n kyo.n maa.Nguu.N}% 
 \film{Ziddi}%
 \year{1948}%
 \starring{Dev anand}%
@@ -10,30 +10,28 @@
 %
 % Contributor: Arun Verma (verma@CS.Cornell.EDU)
 % Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu)
-% Comments: lyrics are somewhat similar to "chingari koi .."
-%           non-Film version rendered by Habib Wali Mohammad also exists
+% Editor: Anurag Shankar (anurag@chandra.astro.indiana.edu), Vinay P Jain
+% Comments: non-Film version rendered by Habib Wali Mohammad also exists     
 %
 \printtitle 
 #indian 
 %
-marane kii duaae.n kyo.n maa.Nguu.n 
-jiine ki tamannaa kaun kare, kaun kare 
-ye duniyA ho yA vo duniyA.N, ab khvAhish\-e\-duniyaa kaun kare, kaun kare 
-marane kii \threedots
+marane kii duaae.n kyo.n maa.Nguu.N 
+jiine kii tamannaa kaun kare, kaun kare 
+ye duniyaa ho yaa vo duniyaa, ab Khvaahish-e-duniyaa kaun kare, kaun kare 
+marane kii ...
 
-jo aag lagAI thI tumane  \- 2 
-usako to bujhaayaa ashko.n ne \- 2
-jo ashko.n ne bha.DakAI hai, us aag ko ThaNDaa kaun kare, kaun kare 
-marane kii \threedots
+jo aag lagaaii thii tumane -2
+usako to bujhaayaa ashko.n ne -2
+jo ashko.n ne bha.Dakaaii hai, us aag ko ThaNDaa kaun kare, kaun kare 
+marane kii ...
 
-jab kashtii saabit\-o\-saalim thii \- 2
-sAhil ki tamannaa kisako thI \- 2
-ab aish ikaTThaa kashtii par 
-sAhil kii tamannaa kaun kare, kaun kare 
-marane kii\threedots
+jab kashtii saabit-o-saalim thii -2
+saahil kii tamannaa kisako thii -2
+ab aisii shikastaa kashtii par
+saahil kii tamannaa kaun kare, kaun kare 
+marane kii ...
 %
-%%% i think saabit-o-saalim means boat is safe 
 %
 #endindian
 \endsong

@@ -11,8 +11,8 @@
 % Contributor: ShashiKant Joshi (rava0002@gold.tc.umn.edu)
 % Transliterator: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
 % Date: Sat Jan 27 1996
-% Credits: 
-% Editor: Rajiv Shridhar (rajiv@hendrix.coe.neu.edu)
+% Credits: Vijay Kumar K
+% Editor: Vinay P Jain
 % Comments:  
 %
 \printtitle
@@ -22,26 +22,26 @@ tuu husn hai mai.n ishq huu.N, tuu mujh me.n hai mai.n tujh me.n huu.N
 mai.n isake aage kyaa kahuu.N, tuu mujh me.n hai mai.n tujh me.n huu.N
 
 ma: 	o soniye
-la: 	o mere mahivaal
+aa: 	o mere mahivaal
 ma: 	aajaa oy aajaa
-la: 	paar nadii ke mere yaar kaa Deraa
+aa: 	paar nadii ke mere yaar kaa Deraa
 ma: 	tere havaale rabbaa dilbar meraa
-la: 	raat balaa kii ba.Dhataa jaae, laharo.n kaa gheraa
-    	kasam Kudaa kii aaj hai mushkil milanaa meraa
-dono: 	khair karii rabbaa
+aa: 	raat balaa kii ba.Dhataa jaae, laharo.n kaa gheraa
+    	qasam Khudaa kii aaj hai mushkil milanaa meraa
+dono: 	Khair karii rabbaa
     	saath jiye.nge saath mare.nge yahii hai fasaanaa
 
-la:	kahaa.N saliim kaa, rutabaa kahaa.N anaarakalii 	\-2
-	ye aisii shaakh\-e\-tamannaa hai, jo kabhii na phalii 	\-2
-ma:	na bujh sakegii bujhAne se, ahl\-e\-duniyaa ke 		\-2
-	vo shamaa jo terii aa.Nkho.n me.n, mere dil me.n jalI 	\-2
-la:	huzuur ek na ek din ye baat AegI 			\-2
-	ke taKt\-o\-taaj bhale hai.n ke ek kanIz bhalI	 	\-2
-ma:	mai.n taKt\-o\-tAj ko ThukarA ke tujhako le lU.NgA 	\-2
-	ke taKt\-o\-tAj se terI galI kI KAq bhalI 		\-2
-dono:	saath jiye.nge saath mare.nge yahii hai fasaanaa	\-2
+aa:	kahaa.N saliim kaa rutabaa kahaa.N anaarakalii 	-2
+	ye aisii shaaKh-e-tamannaa hai, jo kabhii na phalii -2
+ma:	na bujh sakegii bujhaane se, ahl-e-duniyaa ke 		-2
+	vo shamaa jo terii aa.Nkho.n me.n, mere dil me.n jalI 	-2
+aa:	huzuur ek na ek din ye baat AegI 			-2
+	ke taKht-o-taaj bhale hai.n ke ek kaniiz bhalii	 	-2
+ma:	mai.n taKht-o-taaj ko Thukaraa ke tujhako le luu.Ngaa 	-2
+	ke taKht-o-taaj se terii galii kii Khaak bhalii	-2
+dono:	saath jiye.nge saath mare.nge yahii hai fasaanaa	-2
 %
-% (rutabaa = stature; shaakh\-e\-tamannaa = bough of desire;
+% (rutabaa = stature; shaaKh\-e\-tamannaa = bough of desire;
 % ahl-e-duniyaa = people of this world)
 %
 #endindian

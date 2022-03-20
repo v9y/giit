@@ -4,23 +4,23 @@
 \film{Parineeta}%
 \year{1953}%
 \starring{Ashok Kumar, Meena Kumari}%
-\singer{Manna De}%
+\singer{Manna Dey}%
 \music{Aroon Kumar}%
 \lyrics{Bharat Vyas}%
 % 
-% Contributor: Ashok Dhareshwar <ADhareshwar@WorldBank.Org>
+% Contributor: Ashok Dhareshwar, Vijay Kumar K
 % Transliterator: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
 % Date: 01/18/1996
-% Editor: Rajiv Shridhar <rajiv@hendrix.coe.neu.edu>
+% Editor: Rajiv Shridhar, Vinay P Jain
 %
 \printtitle
 #indian
 %
-chalii raadhe raanii, a.Nkhiyo.n me.n paanii    \-2
-apane mohan se mukha.Daa mo.Dake        \-2
+chalii raadhe raanii, a.Nkhiyo.n me.n paanii -2
+apane mohan se mukha.Daa mo.Dake -2
 chalii raadhe raanii, a.Nkhiyo.n me.n paanii
 apane mohan se mukha.Daa mo.Dake
-maan bharii, abhimaan bharii    \-2
+maan bharii, abhimaan bharii -2
 nirmohii se, nirmohii se naataa to.Dake
 apane mohan se mukha.Daa mo.Dake
 chalii raadhe raanii
@@ -31,27 +31,48 @@ dekho naTakhaT ne usako gher liyaa
 ghuu.NghaT ke paT se jhaa.Nk ke jhaTapaT
 raadhaa ne bhii mu.Nh pher liyaa
 dekho raadhaa ne bhii mu.Nh pher liyaa  
-baato.n hii baato.n me.n jhaga.Daa bhayaa aisaa \-2
-baaho.n ke ba.ndhan to.Dake
-ho chalii baaho.n ke ba.ndhan to.Dake
+baato.n hii baato.n me.n jhaga.Daa bhayaa aisaa -2
+baa.Nho.n ke ba.ndhan to.Dake
+ho chalii baa.Nho.n ke ba.ndhan to.Dake
 apane mohan se mukha.Daa mo.Dake
 (chalii raadhe raanii, a.Nkhiyo.n me.n paanii
  apane mohan se mukha.Daa mo.Dake
- chalii raadhe raanii)                          \-2
+ chalii raadhe raanii) -2
 
-chhaliyaa mohan, raadhe bholii  \-2
-saa.Nvariyaa ne kii jo chhichholii      \-2
+chhaliyaa mohan, raadhe bholii -2
+saa.Nvariyaa ne kii jo chhichholii -2
 saa.Nvariyaa saa.Nvariyaa, saa.Nvariyaa ne kii jo chhichholii
 na kuchh Dolii, na kuchh bolii
 raadhe na kuchh Dolii, na kuchh bolii
-na hii do akhiyaa.N kholii      \-2
+na hii do a.Nkhiyaa.N kholii -2
 laakh manaaye gorii, maane na maane,
 madhuban kii galiyaa.N chho.Dake
 ho, madhuban kii galiyaa.N chho.Dake
 apane mohan se mukha.Daa mo.Dake
 (chalii raadhe raanii, a.Nkhiyo.n me.n paanii
  apane mohan se mukha.Daa mo.Dake
- chalii raadhe raanii)                          \-2
+ chalii raadhe raanii) -2
+
+===
+(%slow version%)
+
+chalii raadhe raanii, a.Nkhiyo.n me.n paanii -2
+apane mohan se mukha.Daa mo.Dake -2
+
+chho.D ke bachapan kii ra.ngaraliyaa.N
+chho.D ke gokul kii ku.Nj galiyaa.N
+chho.D ke mohan kii miiThii muraliyaa
+nainan kaa naataa to.D ke
+apane mohan se mukha.Daa mo.Dake...
+
+din Dhalaa hu_ii sa.ndhyaa kii belaa
+band hu_aa dekho madhuban kaa melaa
+raadhaa akelii mohan akelaa
+khel vidhaataa ne kaise khelaa
+birahaa kaa ye tiir chho.D ke
+apane mohan se mukha.Daa mo.Dake...
+
+ 
 %
 #endindian
 \endsong
