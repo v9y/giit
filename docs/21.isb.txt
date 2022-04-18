@@ -1,6 +1,6 @@
 %
 \startsong
-\stitle{aa rii aa jaa, ni.ndiyaa tuu le chal kahii.n, u.Dan khaTole me.n}%
+\stitle{aa rii aa jaa ni.ndiyaa tuu le chal kahii.n u.Dan khaTole me.n}%
 \film{Kunvaaraa Baap}%
 \year{1974}%
 \starring{Mahmood}%
@@ -13,33 +13,33 @@
 % Credits: rec.music.indian.misc (USENET newsgroup) 
 %          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
 % Editor: Anurag Shankar (anurag@astro.indiana.edu)
-%
+%         Vinay P Jain
 \printtitle
 #indian
 %
-## (Kishore) ##
+kishor:
 aa rii aa jaa, ni.ndiyaa tuu le chal kahii.n
 u.DanakhaTole me.n, duur duur duur yahaa.N se duur
 
-meraa to ye jiivan samaa 
-mere yaar ba.Daa dukh de
+meraa to ye jiivan tamaam 
+mere yaar bharaa dukh se
 par mujhako jahaa.N me.n milaa
 sukh kaun ba.Daa tujhase
-tere liye merii jaa.N, zahar hazaar,  mai.n pii luu.ngaa
-taj duu.ngaa duniyaa, ek tere, sa.ng jii luu.ngaa
-khuub (?) nazar ke nuur
+tere liye merii jaa.N, zahar hazaar,  mai.n pii luu.Ngaa
+taj duu.Ngaa duniyaa, ek tere, sa.ng jii luu.Ngaa
+o nazar ke nuur
 
 % Singer(s): KK & Lata
-## (Kishore and Lata) ##
+kishor aur lataa:
 aa rii aa jaa, ni.ndiyaa tuu le chal kahii.n
 u.DanakhaTole me.n, duur duur duur yahaa.N se duur
 
 ye sach hai ki mai.n agar
 sukh chain dilaataa huu.N
 terii duniyaa se mai.n phir kahii.N
-kab duur chalaa jaaU.N
+kab duur chalaa jaauu.N
 nahii.n mere ## daddy, ## aisii baat, phir se naa kahanaa
-rah jaanaa jab tuu (?)
+rahegaa naa jab tuu
 phir mujhako bhii nahii.N rahanaa
 naa jaa tuu hamase duur
 %
