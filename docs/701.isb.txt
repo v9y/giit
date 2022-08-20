@@ -1,41 +1,42 @@
 %
 \startsong
-\stitle{ham ne dekhii hai in aa.Nkho.n kii mahakatii khushabuu}%
+\stitle{hamane dekhii hai in aa.Nkho.n kii mahakatii Khushabuu}%
 \film{Khamoshi}%
 \starring{Waheeda Rehman, Rajesh Khanna, Dharmendra}%
 \singer{Lata}%
 \music{Hemant}%
 \lyrics{Gulzar}%
 %
-% Contributor: Satish Subramanium (subraman@cs.umn.edu)
-% Transliterator: Arati Deo (arati@rice.edu)
-% Credits: Sandip Joshi (sjoshi@eng.clemson.edu)
-% Editor:  
+% Contributor: Satish Subramanium
+% Transliterator: Arati Deo 
+% Credits: Sandip Joshi 
+% Corrections: Vivek Choraria
+% Editor: Vinay Jain 
 %
 \printtitle
 #indian
 %
-ham ne dekhii hai in aa.Nkho.n kii mahakatii khushabuu
+hamane dekhii hai un aa.Nkho.n kii mahakatii Khushabuu
 haath se chhuuke ise rishto.n kaa ilzaam na do
-sirf ehasaas hai ye ruuh se mahasuus karo
+sirf ehasaas hai ye, ruuh se mahasuus karo
 pyaar ko pyaar hii rahane do koii naam na do
-ham ne dekhii hai \threedots
+hamane dekhii hai ...
 
 pyaar koii bol nahii.n, pyaar aavaaz nahii.n
-ek khaamoshii hai sunatii hai kahaa karatii hai
-naa ye bujhatii hai naa rukatii hai naa Thaharii hai kahii.n
+ek Khaamoshii hai sunatii hai kahaa karatii hai
+na ye bujhatii hai na rukatii hai na Thaharii hai kahii.n
 nuur kii buu.Nd hai sadiyo.n se bahaa karatii hai
 sirf ehasaas hai ye, ruuh se mahasuus karo
-pyaar ko pyaar hii rahane do, koii naam naa do
-ham ne dekhii hai \threedots
+pyaar ko pyaar hii rahane do, koii naam na do
+hamane dekhii hai ...
 
-muskaraahaT sii khilii rahatii hai aa.Nkho.n me.n kahii.n
-aur palako.n pe ujaale se chhupe rahate hai.n
+muskuraahaT-sii khilii rahatii hai aa.Nkho.n me.n kahii.n
+aur palako.n pe ujaale se jhuke rahate hai.n
 ho.nTh kuchh kahate nahii.n, kaa.Npate ho.nTho.n pe magar
-kitane khaamosh se afasaane ruke rahate hai.n
+kitane Khaamosh se afasaane ruke rahate hai.n
 sirf ehasaas hai ye, ruuh se mahasuus karo
-pyaar ko pyaar hii rahane do, koii naam naa do
-ham ne dekhii hai \threedots
+pyaar ko pyaar hii rahane do, koii naam na do
+hamane dekhii hai ...
 %
 #endindian
 \endsong
