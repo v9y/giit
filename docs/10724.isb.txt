@@ -1,34 +1,35 @@
 
 %
 \startsong
-\stitle{itanaa bhii beqaso.n ko na aasamaa.N sataa_e}%
+\stitle{itanaa bhii bekaso.n ko na aasamaa.N sataae}%
 \film{Bholi}%
 \year{1949}%
 \starring{Geeta Bali, Prem Adeeb, Shashikala, Jeevan, Gulab, Gop}%
 \singer{Lata}%
-\music{Pt. Govindram}%
-\lyrics{Pt. Ishwar Chandra Kapoor}%
+\music{Pt Govindram}%
+\lyrics{Pt Ishwar Chandra Kapoor}%
 %
 % Contributor: BOL ANAMOL #11376 [V S Rawat]
 % Transliterator: 
 % Comments: 
 % Credits: This lyrics were printed in Listeners' Bulletin Vol #60 under Geetanjali #50
-%
+% 
 \printtitle
 #indian
 %
-itanaa bhii beqaso.n ko na aasamaa.N sataa_e
-ki dil kaa dard lab pe fariyaad ban ke aa_e
-itanaa bhii beqaso.n \threedots
+itanaa bhii bekaso.n ko na aasamaa.N sataae
+ki dil kaa dard lab pe fariyaad ban ke aae
+itanaa bhii bekaso.n ko ...
 
 jo kuchh thaa paas apane vah ham luTaa chuke hai.n
 apane hii haatho.n apanii hastii miTaa chuke hai.n
-uja.De hu_e chaman me.n ab kyaa bahaar aa_e
-itanaa bhii beqaso.n \threedots
+uja.De hue chaman me.n ab kyaa bahaar aae
+itanaa bhii bekaso.n ko ...
 
 kyaa shaan hai shamaa kii paravaano.n ko jalaanaa
-paaravaano.n ko jalaa kar shamaa bhii jalatii jaa_e
-itanaa bhii beqaso.n \threedots
+hai do gha.Dii kii raunak ik raat kaa fasaanaa
+paaravaano.n ko jalaakar shamaa bhii jalatii jaae
+itanaa bhii bekaso.n ko ...
 %
 #endindian
 \endsong
