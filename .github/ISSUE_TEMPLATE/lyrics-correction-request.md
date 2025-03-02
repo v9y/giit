@@ -2,7 +2,7 @@
 name: Lyrics correction request
 about: To request corrections to song lyrics or metadata
 title: "[Lyrics correction]"
-labels: ''
+labels: "correction"
 assignees: v9y
 
 ---
