@@ -6,7 +6,7 @@
 \starring{Kishore, Nutan}%
 \singer{Kishore, Asha}%
 \music{Ravi}%
-\lyrics{Majrooh}%
+\lyrics{Shailendra}%
 %
 % Contributor:  
 % Transliterator:  
@@ -15,35 +15,35 @@
 %          Anoop K Verma 
 %          Arun Verma (verma@cs.cornell.edu)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Editor: Anurag Shankar, Vinay P Jain
 %
 \printtitle
 #indian
 %
 ki: ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
-aa: kahaa do dilo.n ne, kii ho.nge na mil kar, kabhii ham judaa
-(dono): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
+aa: kahaa do dilo.n ne, ki ho.nge na mil kar, kabhii ham judaa
+(dono.n): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
 
-aa: ye kyaa baat hai aaj kii chaa.ndanii me.n    \- 2
-ke ham kho gaye pyaar kii raaginii me.n
-ki: ye baaho.n me.n baahe.n, ye bahakii nigaahe.n
+aa: ye kyaa baat hai aaj kii chaa.ndanii me.n    - 2
+ki ham kho gaye pyaar kii raaginii me.n
+ki: ye baa.Nho.n me.n baa.Nhe.n, ye bahakii nigaahe.n
 lo aane lagaa zi.ndagii kaa mazaa
-(dono): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
+(dono.n): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
 
-ki: sitaaro.n kii mahafil ne karake ishaaraa    \- 2
+ki: sitaaro.n kii mahafil ne karake ishaaraa    - 2
 kahaa ab to saaraa jahaa.N hai tumhaaraa
 aa: muhabbat javaa.N ho, khulaa aasamaa.N ho
-kare koI dil aarazuu aur kyaa
-(dono): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
+kare koii dil aarazuu aur kyaa
+(dono.n): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
 
-aa: qasam hai tumhe tum agar mujhase ruuThe   \- 2
+aa: qasam hai tumhe.n tum agar mujhase ruuThe   - 2
 ki: rahe saa.ns jab tak, ye ba.ndhan na TuuTe
 aa: tumhe.n dil diyaa hai, ye vaadaa kiyaa hai
 sanam mai.n tumhaarii rahuu.Ngii sadaa
 ki: ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
-(dono): kahaa do dilo.n ne, kii ho.nge na mil kar,
+(dono.n): kahaa do dilo.n ne, ki ho.nge na mil kar,
 kabhii ham judaa
-(dono): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
+(dono.n): ye raate.n, ye mausam, nadii kaa kinaaraa, ye cha.nchal havaa
 %
 #endindian
 \endsong
