@@ -11,4 +11,4 @@ Song's giitaayan URL:
 
 Metadata (statistics) corrections, if any:
 
-Please write the corrected lyrics below (in ITRANS or common Roman convention):
+Please write the corrected lyrics below (in ITRANS or common Roman convention). Specify only the parts that require corrections.
