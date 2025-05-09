@@ -6,8 +6,7 @@ ITRANS Song Book (ISB)
 
 ## References
 * [ITRANS 6.0 Transliteration scheme](ITRANS.txt)
-* [ISB Song Schema](https://www.giitaayan.com/preview.asp)
-* [Nagari style guide](https://www.giitaayan.com/hindispelling.asp)
+* [Nagari style guide](https://www.giitaayan.com/hindispelling)
 
 ## Related Links
 * [RMIM Puraskaar](https://awards.giitaayan.com)
