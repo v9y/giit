@@ -13,7 +13,8 @@
 % Credits: rec.music.indian.misc (USENET newsgroup) 
 %          Satish Subramanian (subraman@myria.cs.umn.edu)
 %          C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+%          Nishant Shah
+% Editor: Vinay P Jain
 %
 \printtitle
 #indian
@@ -26,18 +27,18 @@ chhoTii chhoTii sii baat,  na jaane kyuu.N
 vo a.njaan pal
 Dhal gaye kal, aaj vo
 ra.ng badal badal,  man ko machal machal
-rahe.n, na chal na jaane kyuu.N, vo a.njaan pal
-tere binaa mere naino.n me
+rahe hai.n chhal na jaane kyuu.N, vo a.njaan pal
+saje binaa mere naino.n me
 TuuTe re haay re sapano.n ke mahal
-na jaane kyuu.N, hotaa hai ye zi.ndagii ke saath \threedots
+na jaane kyuu.N, hotaa hai ye zi.ndagii ke saath ...
 
 vahii hai Dagar
 vahii hai safar, hai nahii.n
 saath mere magar,  ab meraa hamasafar
-Dhuu.NDhe nazar na jaane kyuu.N, vahii hai Dagar
+idhar-udhar Dhuu.NDhe nazar, vahii hai Dagar
 kahaa.N gaI.n shaame.n madabharii
 vo mere, mere vo din gaye kidhar
-na jaane kyuu.N, hotaa hai ye zi.ndagii ke saath \threedots
+na jaane kyuu.N, hotaa hai ye zi.ndagii ke saath ...
 %
 #endindian
 \endsong
