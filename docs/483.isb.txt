@@ -1,7 +1,8 @@
 %
 \startsong
-\stitle{dil chiiz kyaa hai, aap merii jaan liijiye}%
+\stitle{dil chiiz kyaa hai aap merii jaan liijiye}%
 \film{Umrao Jaan}%
+\year{1981}%
 \starring{Rekha, Naseeruddin Shah, Farooq Shaikh, Raj Babbar}%
 \singer{Asha}%
 \music{Khaiyyam}%
@@ -11,7 +12,8 @@
 % Transliterator: Venkatasubramanian K. G (gopala@cs.wisc.edu)
 % Credits: rec.music.indian.misc 
 %          Ahto Jarve (jarve@cs.miu.edu)
-% Editor:  
+%          Vivek Choraria
+% Editor:  Vinay P Jain
 %
 \printtitle
 #indian
@@ -19,14 +21,13 @@
 dil chiiz kyaa hai, aap merii jaan liijiye
 bas ek baar meraa kahaa, maan liijiye
 
-is a.njuman me.n aapako aanaa hai baar baar
-diivaar\-o\-dar ko gaur se pahachaan liijiye
+is a.njuman me.n aapako aanaa hai baar-baar
+diivaar-o-dar ko Gaur se pahachaan liijiye
 
-% is the last word naaz?
-maanaa ke dosto.n ko nahii.n dostii kaa naaz 
-lekin ye kyaa ke gair kaa ahasaan liijiye
+maanaa ke dosto.n ko nahii.n dostii kaa paas 
+lekin ye kyaa ke Gair kaa ahasaan liijiye
 
-kahiye to aasamaan ko zamiin par utaar laae.n
+kahiye to aasamaa.N ko zamii.n par utaar laae.N
 mushkil nahii.n hai kuchh bhii agar Thaan liijiye
 %
 #endindian
