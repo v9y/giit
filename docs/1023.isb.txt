@@ -11,26 +11,31 @@
 % Contributor:  
 % Transliterator: Mani Upadhyaya (mani@eng.utoledo.edu)
 % Credits: Satish V. Maruvada (maruvada@cup.hp.com)
-% Editor:  
+% Editor: Vinay P Jain 
 %
 \printtitle
 #indian
 % 
-kuchha dila ne kahaa, kuchha bhii nahii.n \- 2
-aisii bhii baate.n hotii hai.n \- 2
-kuchha dila ne kahaa, kuchha bhii nahii.n
+kuchh dil ne kahaa, kuchh bhii nahii.n
+kuchh dil ne sunaa, kuchh bhii nahii.n
+aisii bhii baate.n hotii hai.n
+aise bhii baate.n hotii hai.n
+kuchh dil ne kahaa, kuchh bhii nahii.n
 
-letaa hai dila a.nga.Daa_iyaa.n, isa dila ko samajhaaye koI
-aramaana naa aa.Nkhe.n khola de.n, rusavaa naa ho jaaye koI
-palako.n kii Tha.nDii seja para, sapano.n kii pariyaa.n sotii hai.n
-aisii bhii baate.n hotii hai.n \- 2
-kuchha dila ne kahaa, kuchha bhii nahii.n
+letaa hai dil a.Nga.Daaiyaa.N, is dil ko samajhaaye koii
+aramaa.N na aa.Nkhe.n khol de.n, rusavaa na ho jaaye koii
+palako.n kii Tha.nDii sej par, sapano.n kii pariyaa.N sotii hai.n
+aisii bhii baate.n hotii hai.n
+aise bhii baate.n hotii hai.n
+kuchh dil ne kahaa, kuchh bhii nahii.n
 
-dila kii tassalii ke liye, jhuuThii chamaka jhuuTh nikhaara
-jiivana to suunaa hii rahaa, saba samajhe aayii bahaara
-kaliyo.n se koii puuchhataa, ha.nsatii hai.n yaa rotii hai.n
-aisii bhii baate.n hotii hai.n \- 2
-kuchha dila ne kahaa, kuchha bhii nahii.n
+dil kii tasallii ke liye, jhuuThii chamak jhuuThaa nikhaar
+jiivan to suunaa hii rahaa, sab samajhe.n aayii hai bahaar
+kaliyo.n se koii puuchhataa, ha.Nsatii hai.n vo yaa rotii hai.n
+aisii bhii baate.n hotii hai.n
+aise bhii baate.n hotii hai.n
+kuchha dil ne kahaa, kuchh bhii nahii.n
+kuchha dil ne sunaa, kuchh bhii nahii.n
 %
 #endindian
 \endsong
