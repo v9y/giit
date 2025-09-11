@@ -4,36 +4,83 @@
 \film{1942 A Love Story}%
 \year{1994}%
 \starring{Anil, Jackie, Manisha}%
-\singer{Kumar Sanu, Lata}%
+\singer{Kumar Sanu/Lata}%
 \music{R D Burman}%
 \lyrics{Javed Akhtar}%
 %
 % Contributor:  
-% Transliterator: Ravi Kant Rai (rrai@plains.nodak.edu)
-% Credits: Amit Agarwal (aagarwal@leland.stanford.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
-%
+% Transliterator: Ravi Kant Rai, Ashok Dhareshwar 
+% Credits: Amit Agarwal
+% Editor: Anurag Shankar, Vinay P Jain
+% Comment: Kavita Krishnamurthy rehearsed two different stanzas of the
+% song with R D Burman that were never recorded according to her. Lata's 
+% version was recorded after R D Burman's death. All three versions are transcribed.
 \printtitle
 #indian
 %
-kuchh naa kaho, kuchh bhI naa kaho
-kyaa kahanaa hai, kyA sunanaa hai
+saanuu:
+kuchh naa kaho, kuchh bhii naa kaho -2
+kyaa kahanaa hai, kyaa sunanaa hai
 mujhako pataa hai, tumako pataa hai
 samay kaa ye pal, tham saa gayaa hai
-aur is pal me.n koI nahii.n hai
-bas ek mai.n huu.N bas ek tum ho
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh na kaho, kuchh bhii naa kaho
 
-shaanU:
-kitane gahare halke, shaam ke ra.ng hai.n chhalake
-parvat se yuu.N utare baadal jaise aa.Nchal Dhalake
-sulagii sulagii saa.Nse.n bahakii bahakii dha.Dakan
-mahake mahake shaam ke saaye, pighale pighale tan man
+(kitane gahare halke, shaam ke ra.ng hai.n chhalake
+parvat se yuu.N utare baadal jaise aa.Nchal Dhalake) -2
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh na kaho, kuchh bhii naa kaho
 
+(sulagii-sulagii saa.Nse.n bahakii-bahakii dha.Dakan
+mahake-mahake shaam ke saaye, pighale-pighale tan-man) -2
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+
+-------------
 lataa:
-khoe sab pahachaane khoe saare apane
-samay kii chhalanii se gir girake, khoe saare sapane
-hamane jab dekhe the, sundar komal sapane
-phuul sitaare parvat baadal sab lagate the apane
+kuchh naa kaho, kuchh bhii naa kaho -2
+kyaa kahanaa hai, kyaa sunanaa hai
+mujhako pataa hai, tumako pataa hai
+samay kaa ye pal, tham saa gayaa hai
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh na kaho, kuchh bhii naa kaho
+
+(khoii.n sab pahachaane.n, khoe saare apane
+samay kii chhalanii se gir-gir ke, khoe saare sapane) -2
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh na kaho, kuchh bhii naa kaho
+
+(hamane jab dekhe the, sundar komal sapane
+phuul sitaare parbat baadal, sab lagate the apane) -2
+aur is pal me.n koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh na kaho, kuchh bhii naa kaho ...
+
+-------------
+kavitaa:
+(suunii-suunii sii ye raahe.n
+phailaae hai.n apanii baa.Nhe.n) -2
+maddhaam-maddham chaa.Ndanii hai yaa
+dukh se Duubii huii nigaahe.n
+bojhal-bojhal saarii havaaae.N
+gumasum-gumasum sii hai.n fizaae.N
+aur kahii.n bhii, koii nahii.n hai
+bas ek mai.n huu.N, bas ek tum ho
+kuchh naa kaho, kuchh bhii naa kaho ...
+
+(ye vo pal hai jisame.n Gam bhii
+mere dil se uub rahaa hai) -2
+sannaaTe kaa shor bhii jaise
+dhiire-dhiire Duub rahaa hai
+mujhako chhuu ke mujhe jagaa do
+kuchh naa kaho lekin ye bataa do
+tum mere ho, tum mere ho
+bas ek mai.n huu.N, bas ek tum ho
+kuchh naa kaho, kuchh bhii naa kaho ...
 %
 #endindian
 \endsong
