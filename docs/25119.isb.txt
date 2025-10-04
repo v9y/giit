@@ -1,0 +1,61 @@
+% ITRANS Song #
+% 
+\startsong
+\stitle{achchhaa chalo jii baabaa maaf kar do}%
+\film{Hamaare Tumhare}%
+\year{1979}%
+\starring{Asrani, Gayatri}%
+\singer{Kishore, Usha Mangeshkar}%
+\music{R D Burman}%
+\lyrics{Yogesh}%
+% 
+% Tags: 
+% Contributor: Vijay Kumar K
+% Editor: Vinay P Jain
+% Date: 29-Sep-2025
+% Series: GEETanjali
+% Comments: 
+% generated using www.giitaayan.com
+%
+\printtitle
+#indian
+%
+ki: achchhaa chalo jii baabaa maaf kar do
+    bure dino.n kaa chakkar hai
+    hai duusare ghar me.n raahu-ketu
+    chauthe me.n baiThaa shaniichar hai
+
+u:  shukr-shani-raahu-ketu sabhii tumhaare Dhiile hai.n
+    phir kyo.n ye aramaan tere dil kii tarah ra.ngiile hai.n
+ki: merii pallii, merii pyaarii lallii
+    lagii kyaa jaane tujhame.n shakkar hai
+ki: achchhaa chalo jii baabaa maaf kar do
+u:  ## never ##
+ki: bure dino.n kaa chakkar hai
+    hai duusare ghar me.n raahu-ketu
+    chauthe me.n baiThaa shaniichar hai
+    achchhaa chalo jii baabaa maaf kar do ...
+
+ki: dhobii ke kutte jaisaa, na ghar kaa na ghaaT kaa
+    dhobii ke kutte jaisaa, na ghar kaa na ghaaT kaa huu.N
+    jis par koii nahii.n baiThaa, mai.n khaTamal us khaaT kaa huu.N
+u:  tuu shakal se mujh ko khaTamal se to zyaadaa lagataa koii machchhar hai
+ki: machchhar chalo jii baabaa maaf kar do
+u:  kabhii nahii.n
+ki: bure dino.n kaa chakkar hai
+    hai duusare ghar me.n raahu-ketu
+    chauthe me.n baiThaa shaniichar hai
+    achchhaa chalo jii baabaa maaf kar do ...
+
+ki: is bedard zamaane me.n daal na apanii galane kii
+    chal beTaa taiyaarii kar duur yahaa.N se chalane kii
+u:  merii naa me.n dekh merii haa.N hai na samajhaa tuu bhii kyaa ghanachakkar hai
+ki: ghanachakkar chalo jii baabaa maaf kar do
+    bure dino.n kaa chakkar hai
+    hai duusare ghar me.n raahu-ketu
+    chauthe me.n baiThaa shaniichar hai
+    achchhaa chalo jii baabaa maaf kar do ...
+
+%
+#endindian
+\endsong
