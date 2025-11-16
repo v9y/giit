@@ -2,31 +2,43 @@
 \startsong
 \stitle{tum gagan ke cha.ndramaa ho, mai.n dharaa kii dhuul huu.N}%
 \film{Sati Savitri}%
-\year{}%
+\year{1964}%
 \starring{}%
-\singer{Lata, Manna De}%
+\singer{Lata, Manna Dey}%
 \music{Laxmikant-Pyarelal}%
 \lyrics{Bharat Vyas}%
 %
-% Contributor: C.S. Sudarshana Bhat (ceindian@utacnvx.uta.edu)
+% Contributor: C.S. Sudarshana Bhat
 % Transliterator: Ravi Kant Rai 
 % Credits: 
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Editor: Vinay P Jain
 %
 \printtitle
 #indian
 %
+la:
 tum gagan ke cha.ndramaa ho, mai.n dharaa kii dhuul huu.N
-tum praaNo.n ke devataa ho, mai.n samarpit phuul huu.N
-tum ho puujaa mai.n pujaarii, tum sudhaa mai.n pyaas huu.N
+mai.n dharaa kii dhuul huu.N
+tum praNay ke devataa ho
+tum praNay ke devataa ho, mai.n samarpit phuul huu.N
 
+ma:
+tum ho puujaa mai.n pujaarii, tum sudhaa mai.n pyaas huu.N
+tum sudhaa mai.n pyaas huu.N
+
+la:
 tum mahaasaagar kii siimaa, mai.n kinaare kii lahar
-tum mahaasa.ngiit ke svar, mai.n adhuurii saa.Ns huu.N
-tum ho kaayaa mai.n huu.N chhaayaa, tum kasam mai.n bhuul huu.N
+tum mahaasa.ngiit ke svar, mai.n adhuurii saa.Ns bhar
+tum ho kaayaa mai.n huu.N chhaayaa, tum kShama mai.n bhuul huu.N
+tum gagan ke ...
 
-tum ushhaa kii laalimaa ho, bhor kaa si.nduur ho
-mere praaNo.n kaa ho gu.Njan, mere man kaa mayuur ho
+ma:
+tum uShaa kii laalimaa ho, bhor kaa si.nduur ho
+mere praaNo.n kii ho gu.njan, mere man kii mayuur ho
 tum ho puujaa mai.n pujaarii, tum sudhaa mai.n pyaas huu.N
+
+la:
+tum gagan ke ...
 %
 #endindian
 \endsong
