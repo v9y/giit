@@ -4,14 +4,14 @@
 \film{The Burning Train}%
 \year{1980}%
 \starring{Dharmendra, Vinod Khanna, Danny}%
-\singer{Rafi, Amit Kumar, Asha, Usha, R D Burman}%
+\singer{Rafi, Kishore, Asha, Usha Mangeshkar, R D Burman}%
 \music{R D Burman}%
 \lyrics{Sahir}%
 % 
-% Contributor: Anand Kuppuswamy <akuppusw@vt.edu>
-% Transliterator: Rajiv Shridhar <rajiv@coe.neu.edu>
-% Date: 07/31/1996
-% Credits: Ashok Dhareshwar <adhareshwar@worldbank.org>
+% Contributor: Anand Kuppuswamy, Rashmi Sule
+% Transliterator: 
+% Date: 07/31/1996, 11/30/2025
+% Credits: Ashok Dhareshwar, Vinay Jain
 %
 \printtitle
 #indian
@@ -19,7 +19,12 @@
 pahalii nazar me.n hamane to apanaa
 dil de diyaa thaa tumako
 par tumane der lagaaii
-ruk\-ruk ke baat ba.Dhaaii
+ruk-ruk ke baat ba.Dhaaii
+
+vaise to hamane milate hii tumase
+apanaa liyaa thaa tumako
+par jaan ke baat chhupaaii
+naa kahake qadar ba.Dhaaii
 
 dekhaa tumhe.n to hamane
 sabase nazar uThaa lii
@@ -27,26 +32,26 @@ khone kii chiiz kho lii
 paane kii chiiz paa lii
 ho, o siidhe na sahii
 ghuum ke sahii mil to gaye hai.n 
-laa laa laa laa laa \threedots
-pahali nazar me.n hamane \threedots
+laa laa laa laa laa ...
+pahalii nazar me.n hamane ...
 
-hamane tumhaarii khaatir
-kyaa\-kyaa kie bahaane
-ho, o asaan nahii.n mohabbat
+hamane tumhaarii Khaatir
+kyaa-kyaa kie bahaane
+ho, o aasaa.N nahii.n mohabbat
 ab to ye baat maanii
 ho, o chho.Daa nahii.n dam
 jaise bhii ho ham mil to gae hai.n
 laa laa laa laa laa
-pahali nazar me.n hamane \threedots
+pahalii nazar me.n hamane ...
 
-likhaa thaa aasmaa.n par
+likkhaa thaa aasmaa.N par
 yuu.N hii ye khel honaa
 pahale nazar ulajhanaa
 phir dil kaa mel honaa
 ho, o chho.Do ye gile
-jaise bhii mile \threedots mil to gaye hai.n
-laa laa laa laa laa \threedots
-pahali nazar me.n hamane \threedots
+jaise bhii mile mil to gaye hai.n
+laa laa laa laa laa
+pahalii nazar me.n hamane ...
 %
 #endindian
 \endsong
