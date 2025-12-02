@@ -1,7 +1,7 @@
 %
 \startsong
-\stitle{naam gum jaayegaa, cheharaa ye badal jaayegaa, merii aavaaz hii}%
-\film{Kinaara}%
+\stitle{naam gum jaayegaa ... merii aavaaz hii pahachaan hai}%
+\film{Kinara}%
 \year{1977}%
 \starring{Jeetendra, Hema Malini, Dharmendra, Dr. Shreeram Lagoo}%
 \singer{Bhupinder, Lata}%
@@ -12,29 +12,29 @@
 % Transliterator: Avinash Chopde (avinash@acm.org)
 % Credits: Bijal C. Modi (bijal@fission.Nuc.Berkeley.EDU)
 %          Preetham Gopalaswamy (preetham@src.umd.edu)
-% Editor: Anurag Shankar (anurag@astro.indiana.edu)
+% Editor: Anurag Shankar, Vinay P Jain
 %
 \printtitle
 #indian
 %
-naam gum jaayegaa, cheharaa ye badal jAyegaa
+naam gum jaayegaa, cheharaa ye badal jaayegaa
 merii aavaaz hii, pahachaan hai
 gar yaad rahe
 
 vaqt ke sitam, kam hasii.n nahii.n
 aaj hai.n yahaa.N, kal kahii.n nahii.n
-vaqt se bhare agar, mil gaye kahii.n
-merii aavaaz hii \threedots
+vaqt se pare agar, mil gaye kahii.n
+merii aavaaz hii ...
 
 jo guzar ga_ii, kal kii baat thii
 umr to nahii.n, ek raat thii
 raat kaa silaa agar, phir mile kahii.n
-merii aavaaz hii \threedots
+merii aavaaz hii ...
 
 din Dhale jahaa.N, raat paas ho
 zi.ndagii kii lau, uu.Nchii kar chalo
 yaad aaye gar kabhii, jii udaas ho
-merii aavaaz hii \threedots
+merii aavaaz hii ...
 %
 #endindian
 \endsong
