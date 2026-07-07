@@ -6,9 +6,8 @@ labels: ''
 assignees: v9y
 
 ---
-Use the template below to submit your lyrics. Copy the template in the box and use it for lyrics submission as described below.
-
-Add a new file in the docs folder and paste the template. Name the file "stitle.isb.txt". Fill out the lyrics submission as suggested below. Commit to a new branch and submit for approval and merge.
+## Instructions
+Use the template below to submit your lyrics. Delete instructions before submitting.
 
 1. Fill out all the fields between the curly brackets {} in the way they are normally spelled in English (do not use iTrans for these, except for stitle). Fill out as many fields as you can. Song title (stitle) is required and should be iTrans-ed.
 
