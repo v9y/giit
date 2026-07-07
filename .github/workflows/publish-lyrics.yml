@@ -1,0 +1,67 @@
+name: Publish approved lyrics
+
+on:
+  issues:
+    types: [labeled]
+
+concurrency:
+  group: publish-lyrics
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  publish:
+    if: github.event.label.name == 'approved' && github.actor == 'v9y'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Write ISB file
+        env:
+          BODY: ${{ github.event.issue.body }}
+        run: |
+          BODY="${BODY//$'\r'/}"
+          grep -q '#indian' <<<"$BODY" || { echo "::error::no #indian block"; exit 1; }
+          grep -q '#endindian' <<<"$BODY" || { echo "::error::no #endindian block"; exit 1; }
+
+          yy=$(date -u +%y)
+          last=$(ls docs | grep -Eo "^${yy}[0-9]{3}" | sort -n | tail -1 || true)
+          if [ -z "$last" ]; then
+            next="${yy}001"
+          else
+            next=$((last + 1))
+          fi
+          [ "$next" -le "${yy}999" ] || { echo "::error::yearly sequence exhausted"; exit 1; }
+          [ ! -e "docs/${next}.isb.txt" ] || { echo "::error::docs/${next}.isb.txt already exists"; exit 1; }
+
+          printf '%s\n' "$BODY" > "docs/${next}.isb.txt"
+          echo "ISB=$next" >> "$GITHUB_ENV"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "Add ${ISB}.isb.txt from issue #${{ github.event.issue.number }}"
+          git push
+
+      - name: Comment and close issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const isb = process.env.ISB;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Published as \`docs/${isb}.isb.txt\`. Now set ISB number **${isb}** on the giitaayan song row (the "giitaayan id" is in the Comments line of the issue body).`
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
